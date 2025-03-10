@@ -28,7 +28,7 @@ Object located by the XPath-like query.
 | --- | --- |
 | [ParseException](../../../aspose.threed.utilities/parseexception/) | ParseException will be thrown if the path contains malformed query. |
 
-### Examples
+## Examples
 
 Select a single node using XPath-like expression
 
@@ -53,7 +53,7 @@ obj = s.RootNode.SelectSingleObject("/");
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

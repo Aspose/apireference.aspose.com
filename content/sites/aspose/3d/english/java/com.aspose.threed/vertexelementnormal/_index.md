@@ -3,7 +3,7 @@ title: VertexElementNormal
 second_title: Aspose.3D for Java API Reference
 description: Defines normal vectors for specified components.
 type: docs
-weight: 201
+weight: 209
 url: /java/com.aspose.threed/vertexelementnormal/
 ---
 

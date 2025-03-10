@@ -23,7 +23,7 @@ public BoundingBox2D(Vector2 minimum, Vector2 maximum)
 
 * struct [Vector2](../../vector2/)
 * struct [BoundingBox2D](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox2d/)
 * assembly [Aspose.3D](../../../)
 
 

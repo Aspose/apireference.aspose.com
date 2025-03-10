@@ -26,11 +26,11 @@ public static TriMesh FromRawData(VertexDeclaration vd, byte[] vertices, int[] i
 
 The [`TriMesh`](../) instance that encapsulated the input byte array.
 
-### Remarks
+## Remarks
 
 The returned TriMesh will not copy the input byte array for performance, external changes on the array will be reflected to this instance.
 
-### Examples
+## Examples
 
 The following code shows how to construct a TriMesh from raw bytes, this is useful when build your own 3D format
 
@@ -56,7 +56,7 @@ var triMesh = TriMesh.FromRawData(vd, vertices, indices, true);
 
 * class [VertexDeclaration](../../../aspose.threed.utilities/vertexdeclaration/)
 * class [TriMesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../trimesh/)
 * assembly [Aspose.3D](../../../)
 
 

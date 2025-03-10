@@ -25,7 +25,7 @@ The extra data associated by name
 ### See Also
 
 * class [Property](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../property/)
 * assembly [Aspose.3D](../../../)
 
 

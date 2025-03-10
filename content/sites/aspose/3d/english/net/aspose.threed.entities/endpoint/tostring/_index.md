@@ -17,7 +17,7 @@ public override string ToString()
 ### See Also
 
 * struct [EndPoint](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../endpoint/)
 * assembly [Aspose.3D](../../../)
 
 

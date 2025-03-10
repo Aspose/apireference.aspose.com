@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 400
-url: /aspose.threed.entities/vertexelement/
+url: /python-net/aspose.threed.entities/vertexelement/
 is_root: false
 ---
 
@@ -31,8 +31,8 @@ The VertexElement type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices](/3d/python-net/aspose.threed.entities/vertexelement/set_indices/#list) | Load indices |
-| [clear](/3d/python-net/aspose.threed.entities/vertexelement/clear/#) | Clears all the data from this vertex element. |
+| [`set_indices(self, data)`](/3d/python-net/aspose.threed.entities/vertexelement/set_indices/#list) | Load indices |
+| [`clear(self)`](/3d/python-net/aspose.threed.entities/vertexelement/clear/#) | Clears all the data from this vertex element. |
 
 
 

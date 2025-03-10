@@ -14,7 +14,7 @@ Licenses the component.
 public void SetLicense(string licenseName)
 ```
 
-### Remarks
+## Remarks
 
 Tries to find the license in the following locations:
 
@@ -38,7 +38,7 @@ Tries to find the license in the following locations:
 
 3. The folder that contains the client's calling JAR file.
 
-### Examples
+## Examples
 
 In this example, an attempt will be made to find a license file named MyLicense.lic in the folder that contains  the component, in the folder that contains the calling assembly, in the folder of the entry assembly and then in the embedded resources of the calling assembly.
 
@@ -67,7 +67,7 @@ Can be a full or short file name or name of an embedded resource. Use an empty s
 ### See Also
 
 * class [License](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../license/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -84,11 +84,11 @@ public void SetLicense(Stream stream)
 | --- | --- | --- |
 | stream | Stream | A stream that contains the license. |
 
-### Remarks
+## Remarks
 
 Use this method to load a license from a stream.
 
-### Examples
+## Examples
 
 ```csharp
 [C#]
@@ -109,7 +109,7 @@ license.setLicense(myStream);
 ### See Also
 
 * class [License](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../license/)
 * assembly [Aspose.3D](../../../)
 
 

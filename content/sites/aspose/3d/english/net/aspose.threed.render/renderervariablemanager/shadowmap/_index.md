@@ -18,7 +18,7 @@ public ITextureUnit Shadowmap { get; set; }
 
 * interface [ITextureUnit](../../itextureunit/)
 * class [RendererVariableManager](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderervariablemanager/)
 * assembly [Aspose.3D](../../../)
 
 

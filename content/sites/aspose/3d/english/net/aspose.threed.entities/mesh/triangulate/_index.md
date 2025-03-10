@@ -18,7 +18,7 @@ public Mesh Triangulate()
 
 Current mesh if current mesh is already triangulated, otherwise a new triangulated mesh will be calculated and returned
 
-### Examples
+## Examples
 
 The following code shows how to triangulate a mesh:
 
@@ -32,8 +32,7 @@ var triangulated = mesh.Triangulate();
 ### See Also
 
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
-* [Tutorial - Triangulate 3D Mesh](https://products.aspose.com/3d/tutorial/triangulate-3d-mesh)
 
 

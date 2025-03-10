@@ -26,7 +26,7 @@ Result vector
 ### See Also
 
 * struct [Vector4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -51,7 +51,7 @@ Result vector
 ### See Also
 
 * struct [Vector4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector4/)
 * assembly [Aspose.3D](../../../)
 
 

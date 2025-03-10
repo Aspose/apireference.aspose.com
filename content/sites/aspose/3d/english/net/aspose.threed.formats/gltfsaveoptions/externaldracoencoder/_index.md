@@ -14,14 +14,14 @@ Use external draco encoder to accelerate the draco compression speed.
 public string ExternalDracoEncoder { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 Aspose.3D will create new sub process to encode the mesh to the draco format, use it at your own risk.
 
 ### See Also
 
 * class [GltfSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../gltfsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

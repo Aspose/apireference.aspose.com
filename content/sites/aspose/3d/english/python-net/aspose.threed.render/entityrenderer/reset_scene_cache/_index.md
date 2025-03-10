@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.threed.render/entityrenderer/reset_scene_cache/
+url: /python-net/aspose.threed.render/entityrenderer/reset_scene_cache/
 is_root: false
 ---
 
-## reset_scene_cache {#}
+## reset_scene_cache(self) {#}
 
 The scene has changed or removed, need to dispose scene-level render resources in this
 
 
 
 ```python
+
 def reset_scene_cache(self):
     ...
 ```

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.utilities/vector2/dot/
+url: /python-net/aspose.threed.utilities/vector2/dot/
 is_root: false
 ---
 
-## dot {#aspose.threed.utilities.Vector2}
+## dot(self, rhs) {#aspose.threed.utilities.Vector2}
 
 Gets the dot product of two vectors
 
@@ -20,6 +20,7 @@ The dot product of the two vectors.
 
 
 ```python
+
 def dot(self, rhs):
     ...
 ```

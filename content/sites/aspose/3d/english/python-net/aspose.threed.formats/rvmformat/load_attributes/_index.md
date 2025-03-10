@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.formats/rvmformat/load_attributes/
+url: /python-net/aspose.threed.formats/rvmformat/load_attributes/
 is_root: false
 ---
 
-## load_attributes {#aspose.threed.Scene-str-str}
+## load_attributes(self, scene, file_name, prefix) {#aspose.threed.Scene-str-str}
 
 Load the attributes from specified file name
 
 
 
 ```python
+
 def load_attributes(self, scene, file_name, prefix):
     ...
 ```
@@ -27,13 +28,14 @@ def load_attributes(self, scene, file_name, prefix):
 | prefix | str | The prefix of the attributes that used to avoid conflict of names, default value is "rvm:" |
 
 
-## load_attributes {#aspose.threed.Scene-io.RawIOBase-str}
+## load_attributes(self, scene, stream, prefix) {#aspose.threed.Scene-io.RawIOBase-str}
 
 Load the attributes from specified stream
 
 
 
 ```python
+
 def load_attributes(self, scene, stream, prefix):
     ...
 ```

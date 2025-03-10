@@ -17,7 +17,7 @@ public Patch()
 ### See Also
 
 * class [Patch](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../patch/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,7 +37,7 @@ public Patch(string name)
 ### See Also
 
 * class [Patch](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../patch/)
 * assembly [Aspose.3D](../../../)
 
 

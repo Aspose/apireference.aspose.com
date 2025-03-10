@@ -17,7 +17,7 @@ public double Height { get; set; }
 ### See Also
 
 * class [Pyramid](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../pyramid/)
 * assembly [Aspose.3D](../../../)
 
 

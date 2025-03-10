@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.animation/bindpoint/get_channel/
+url: /python-net/aspose.threed.animation/bindpoint/get_channel/
 is_root: false
 ---
 
-## get_channel {#str}
+## get_channel(self, channel_name) {#str}
 
 Gets channel by given name
 
@@ -20,6 +20,7 @@ Channel with the name
 
 
 ```python
+
 def get_channel(self, channel_name):
     ...
 ```

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.utilities/matrix4/concatenate/
+url: /python-net/aspose.threed.utilities/matrix4/concatenate/
 is_root: false
 ---
 
-## concatenate {#aspose.threed.utilities.Matrix4}
+## concatenate(self, m2) {#aspose.threed.utilities.Matrix4}
 
 Concatenates the two matrices
 
@@ -20,6 +20,7 @@ New matrix4
 
 
 ```python
+
 def concatenate(self, m2):
     ...
 ```

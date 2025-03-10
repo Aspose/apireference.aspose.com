@@ -26,7 +26,7 @@ Result quaternion
 ### See Also
 
 * struct [Quaternion](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../quaternion/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -51,7 +51,7 @@ Result quaternion
 ### See Also
 
 * struct [Quaternion](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../quaternion/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -77,7 +77,7 @@ Rotated vector
 
 * struct [Vector3](../../vector3/)
 * struct [Quaternion](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../quaternion/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -103,7 +103,7 @@ Rotated vector
 
 * struct [Vector4](../../vector4/)
 * struct [Quaternion](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../quaternion/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -129,7 +129,7 @@ Rotated vector
 
 * struct [Vector3](../../vector3/)
 * struct [Quaternion](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../quaternion/)
 * assembly [Aspose.3D](../../../)
 
 

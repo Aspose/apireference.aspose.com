@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.threed.render/icommandlist/draw_index/
+url: /python-net/aspose.threed.render/icommandlist/draw_index/
 is_root: false
 ---
 
-## draw_index {#}
+## draw_index(self) {#}
 
 Issue an indexed draw into a command list
 
 
 
 ```python
+
 def draw_index(self):
     ...
 ```
@@ -22,13 +23,14 @@ def draw_index(self):
 
 
 
-## draw_index {#int-int}
+## draw_index(self, start, count) {#int-int}
 
 Issue an indexed draw into a command list
 
 
 
 ```python
+
 def draw_index(self, start, count):
     ...
 ```

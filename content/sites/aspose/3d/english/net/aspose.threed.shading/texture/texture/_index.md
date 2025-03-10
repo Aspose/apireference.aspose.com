@@ -17,7 +17,7 @@ public Texture()
 ### See Also
 
 * class [Texture](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../texture/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,7 +37,7 @@ public Texture(string name)
 ### See Also
 
 * class [Texture](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../texture/)
 * assembly [Aspose.3D](../../../)
 
 

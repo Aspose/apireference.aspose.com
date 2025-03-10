@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /aspose.threed.utilities/quaternion/to_matrix/
+url: /python-net/aspose.threed.utilities/quaternion/to_matrix/
 is_root: false
 ---
 
-## to_matrix {#}
+## to_matrix(self) {#}
 
 Convert the rotation presented by quaternion to transform matrix.
 
@@ -20,6 +20,7 @@ The matrix representation of current quaternion.
 
 
 ```python
+
 def to_matrix(self):
     ...
 ```

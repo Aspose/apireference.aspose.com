@@ -22,7 +22,7 @@ public FbxLoadOptions(FileFormat format)
 
 * class [FileFormat](../../../aspose.threed/fileformat/)
 * class [FbxLoadOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../fbxloadoptions/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -38,7 +38,7 @@ public FbxLoadOptions()
 ### See Also
 
 * class [FbxLoadOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../fbxloadoptions/)
 * assembly [Aspose.3D](../../../)
 
 

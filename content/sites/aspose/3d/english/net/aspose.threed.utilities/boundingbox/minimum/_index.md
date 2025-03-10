@@ -18,7 +18,7 @@ public Vector3 Minimum { get; }
 
 * struct [Vector3](../../vector3/)
 * struct [BoundingBox](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox/)
 * assembly [Aspose.3D](../../../)
 
 

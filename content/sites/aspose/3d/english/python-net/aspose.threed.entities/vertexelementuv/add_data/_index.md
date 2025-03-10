@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.entities/vertexelementuv/add_data/
+url: /python-net/aspose.threed.entities/vertexelementuv/add_data/
 is_root: false
 ---
 
-## add_data {#list}
+## add_data(self, data) {#list}
 
 
 
 
 
 ```python
+
 def add_data(self, data):
     ...
 ```
@@ -25,13 +26,14 @@ def add_data(self, data):
 | data | list |  |
 
 
-## add_data {#list}
+## add_data(self, data) {#list}
 
 
 
 
 
 ```python
+
 def add_data(self, data):
     ...
 ```

@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.render/irenderqueue/add/
+url: /python-net/aspose.threed.render/irenderqueue/add/
 is_root: false
 ---
 
-## add {#aspose.threed.render.RenderQueueGroupId-aspose.threed.render.IPipeline-any-int}
+## add(self, group_id, pipeline, renderable_resource, sub_entity) {#aspose.threed.render.RenderQueueGroupId-aspose.threed.render.IPipeline-any-int}
 
 Add render task to the render queue.
 
 
 
 ```python
+
 def add(self, group_id, pipeline, renderable_resource, sub_entity):
     ...
 ```

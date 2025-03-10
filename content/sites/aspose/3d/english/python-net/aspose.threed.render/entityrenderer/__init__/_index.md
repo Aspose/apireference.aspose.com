@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.threed.render/entityrenderer/__init__/
+url: /python-net/aspose.threed.render/entityrenderer/__init__/
 is_root: false
 ---
 
-## __init__ {#str}
+## __init__(self, key) {#str}
 
 Constructor of [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer)
 
 
 
 ```python
+
 def __init__(self, key):
     ...
 ```
@@ -25,13 +26,14 @@ def __init__(self, key):
 | key | str | The key of the entity renderer |
 
 
-## __init__ {#str-aspose.threed.render.EntityRendererFeatures}
+## __init__(self, key, features) {#str-aspose.threed.render.EntityRendererFeatures}
 
 Constructor of [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer)
 
 
 
 ```python
+
 def __init__(self, key, features):
     ...
 ```

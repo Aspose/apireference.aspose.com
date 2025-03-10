@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 300
-url: /aspose.threed.entities/light/rotation_mode/
+url: /python-net/aspose.threed.entities/light/rotation_mode/
 is_root: false
 ---
 

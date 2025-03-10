@@ -23,7 +23,7 @@ public FVector4 ReadFVector4(VertexField field)
 * struct [FVector4](../../fvector4/)
 * class [VertexField](../../vertexfield/)
 * class [Vertex](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vertex/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -24,11 +24,11 @@ public class Watermark
 | static [EncodeWatermark](../../aspose.threed.utilities/watermark/encodewatermark/#encodewatermark_1)(Mesh, string, string) | Encode a text into mesh' blind watermark. |
 | static [EncodeWatermark](../../aspose.threed.utilities/watermark/encodewatermark/#encodewatermark_2)(Mesh, string, string, bool) | Encode a text into mesh' blind watermark. |
 
-### Remarks
+## Remarks
 
 Both [`EncodeWatermark`](./encodewatermark/) and [`DecodeWatermark`](./decodewatermark/) will perform license check Trial usage will throw exception, you can use [`SuppressTrialException`](../../aspose.threed/trialexception/suppresstrialexception/) to suppress the exception, but it will not lift the restriction here. A valid license is required to use these features without any restrictions.
 
-### Examples
+## Examples
 
 The following code shows how to encode a blind watermark into a mesh and decode it.
 

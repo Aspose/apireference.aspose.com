@@ -18,7 +18,7 @@ public void AddChildNode(Node node)
 | --- | --- | --- |
 | node | Node | The child node to be attached |
 
-### Examples
+## Examples
 
 The following code shows how to get all meshes from a scene
 
@@ -32,7 +32,7 @@ scene.RootNode.AddChildNode(newNode);
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

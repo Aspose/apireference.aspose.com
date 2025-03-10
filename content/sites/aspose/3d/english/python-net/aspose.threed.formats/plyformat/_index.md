@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 230
-url: /aspose.threed.formats/plyformat/
+url: /python-net/aspose.threed.formats/plyformat/
 is_root: false
 ---
 
@@ -87,19 +87,19 @@ The PlyFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [detect](/3d/python-net/aspose.threed.formats/plyformat/detect/#io.RawIOBase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
-| [detect](/3d/python-net/aspose.threed.formats/plyformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
-| [encode](/3d/python-net/aspose.threed.formats/plyformat/encode/#aspose.threed.Entity-io.RawIOBase) | Encode the entity and save the result into the stream. |
-| [encode](/3d/python-net/aspose.threed.formats/plyformat/encode/#aspose.threed.Entity-io.RawIOBase-aspose.threed.formats.PlySaveOptions) | Encode the entity and save the result into the stream. |
-| [encode](/3d/python-net/aspose.threed.formats/plyformat/encode/#aspose.threed.Entity-str) | Encode the entity and save the result into an external file. |
-| [encode](/3d/python-net/aspose.threed.formats/plyformat/encode/#aspose.threed.Entity-str-aspose.threed.formats.PlySaveOptions) | Encode the entity and save the result into an external file. |
-| [decode](/3d/python-net/aspose.threed.formats/plyformat/decode/#str) | Decode a point cloud or mesh from the specified stream. |
-| [decode](/3d/python-net/aspose.threed.formats/plyformat/decode/#str-aspose.threed.formats.PlyLoadOptions) | Decode a point cloud or mesh from the specified stream. |
-| [decode](/3d/python-net/aspose.threed.formats/plyformat/decode/#io.RawIOBase) | Decode a point cloud or mesh from the specified stream. |
-| [decode](/3d/python-net/aspose.threed.formats/plyformat/decode/#io.RawIOBase-aspose.threed.formats.PlyLoadOptions) | Decode a point cloud or mesh from the specified stream. |
-| [get_format_by_extension](/3d/python-net/aspose.threed.formats/plyformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
-| [create_load_options](/3d/python-net/aspose.threed.formats/plyformat/create_load_options/#) | Create a default load options for this file format |
-| [create_save_options](/3d/python-net/aspose.threed.formats/plyformat/create_save_options/#) | Create a default save options for this file format |
+| [`detect(, stream, file_name)`](/3d/python-net/aspose.threed.formats/plyformat/detect/#io.rawiobase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [`detect(, file_name)`](/3d/python-net/aspose.threed.formats/plyformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
+| [`encode(self, entity, stream)`](/3d/python-net/aspose.threed.formats/plyformat/encode/#aspose.threed.entity-io.rawiobase) | Encode the entity and save the result into the stream. |
+| [`encode(self, entity, stream, opt)`](/3d/python-net/aspose.threed.formats/plyformat/encode/#aspose.threed.entity-io.rawiobase-aspose.threed.formats.plysaveoptions) | Encode the entity and save the result into the stream. |
+| [`encode(self, entity, file_name)`](/3d/python-net/aspose.threed.formats/plyformat/encode/#aspose.threed.entity-str) | Encode the entity and save the result into an external file. |
+| [`encode(self, entity, file_name, opt)`](/3d/python-net/aspose.threed.formats/plyformat/encode/#aspose.threed.entity-str-aspose.threed.formats.plysaveoptions) | Encode the entity and save the result into an external file. |
+| [`decode(self, file_name)`](/3d/python-net/aspose.threed.formats/plyformat/decode/#str) | Decode a point cloud or mesh from the specified stream. |
+| [`decode(self, file_name, opt)`](/3d/python-net/aspose.threed.formats/plyformat/decode/#str-aspose.threed.formats.plyloadoptions) | Decode a point cloud or mesh from the specified stream. |
+| [`decode(self, stream)`](/3d/python-net/aspose.threed.formats/plyformat/decode/#io.rawiobase) | Decode a point cloud or mesh from the specified stream. |
+| [`decode(self, stream, opt)`](/3d/python-net/aspose.threed.formats/plyformat/decode/#io.rawiobase-aspose.threed.formats.plyloadoptions) | Decode a point cloud or mesh from the specified stream. |
+| [`get_format_by_extension(, extension_name)`](/3d/python-net/aspose.threed.formats/plyformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
+| [`create_load_options(self)`](/3d/python-net/aspose.threed.formats/plyformat/create_load_options/#) | Create a default load options for this file format |
+| [`create_save_options(self)`](/3d/python-net/aspose.threed.formats/plyformat/create_save_options/#) | Create a default save options for this file format |
 
 
 

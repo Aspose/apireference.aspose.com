@@ -22,7 +22,7 @@ public TextureBase GetTexture(string slotName)
 
 The texture.
 
-### Examples
+## Examples
 
 ```csharp
 var mat = new LambertMaterial();
@@ -36,7 +36,7 @@ tex = (Texture)mat.GetTexture(Material.MapDiffuse);
 
 * class [TextureBase](../../texturebase/)
 * class [Material](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../material/)
 * assembly [Aspose.3D](../../../)
 
 

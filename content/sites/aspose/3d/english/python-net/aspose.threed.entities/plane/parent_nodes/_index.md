@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /aspose.threed.entities/plane/parent_nodes/
+url: /python-net/aspose.threed.entities/plane/parent_nodes/
 is_root: false
 ---
 

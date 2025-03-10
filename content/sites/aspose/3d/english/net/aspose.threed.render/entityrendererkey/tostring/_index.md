@@ -17,7 +17,7 @@ public override string ToString()
 ### See Also
 
 * class [EntityRendererKey](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../entityrendererkey/)
 * assembly [Aspose.3D](../../../)
 
 

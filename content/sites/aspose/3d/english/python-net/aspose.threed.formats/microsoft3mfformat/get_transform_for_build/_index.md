@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.threed.formats/microsoft3mfformat/get_transform_for_build/
+url: /python-net/aspose.threed.formats/microsoft3mfformat/get_transform_for_build/
 is_root: false
 ---
 
-## get_transform_for_build {#aspose.threed.Node}
+## get_transform_for_build(self, node) {#aspose.threed.Node}
 
 Get transform matrix for node used in build.
 
@@ -20,6 +20,7 @@ A transform matrix or null if not defined.
 
 
 ```python
+
 def get_transform_for_build(self, node):
     ...
 ```

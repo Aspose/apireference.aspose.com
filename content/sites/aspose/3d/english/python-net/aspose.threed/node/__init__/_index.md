@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.threed/node/__init__/
+url: /python-net/aspose.threed/node/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## __init__(self) {#}
 
 Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__(self, name) {#str}
 
 Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class.
 
 
 
 ```python
+
 def __init__(self, name):
     ...
 ```
@@ -39,13 +41,14 @@ def __init__(self, name):
 | name | str | Name. |
 
 
-## __init__ {#str-aspose.threed.Entity}
+## __init__(self, name, entity) {#str-aspose.threed.Entity}
 
 Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class.
 
 
 
 ```python
+
 def __init__(self, name, entity):
     ...
 ```

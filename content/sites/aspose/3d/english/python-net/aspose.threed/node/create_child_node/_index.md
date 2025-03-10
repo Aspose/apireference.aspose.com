@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed/node/create_child_node/
+url: /python-net/aspose.threed/node/create_child_node/
 is_root: false
 ---
 
-## create_child_node {#}
+## create_child_node(self) {#}
 
 Creates a child node
 
@@ -20,6 +20,7 @@ The new child node.
 
 
 ```python
+
 def create_child_node(self):
     ...
 ```
@@ -43,7 +44,7 @@ scene.save("output.fbx")
 ```
 
 
-## create_child_node {#str}
+## create_child_node(self, node_name) {#str}
 
 Create a new child node with given node name
 
@@ -55,6 +56,7 @@ The new child node.
 
 
 ```python
+
 def create_child_node(self, node_name):
     ...
 ```
@@ -81,7 +83,7 @@ scene.save("output.fbx")
 ```
 
 
-## create_child_node {#aspose.threed.Entity}
+## create_child_node(self, entity) {#aspose.threed.Entity}
 
 Create a new child node with given entity attached
 
@@ -93,6 +95,7 @@ The new child node.
 
 
 ```python
+
 def create_child_node(self, entity):
     ...
 ```
@@ -118,7 +121,7 @@ scene.save("output.fbx")
 ```
 
 
-## create_child_node {#str-aspose.threed.Entity}
+## create_child_node(self, node_name, entity) {#str-aspose.threed.Entity}
 
 Create a new child node with given node name
 
@@ -130,6 +133,7 @@ The new child node.
 
 
 ```python
+
 def create_child_node(self, node_name, entity):
     ...
 ```
@@ -141,7 +145,7 @@ def create_child_node(self, node_name, entity):
 | entity | [`Entity`](/3d/python-net/aspose.threed/entity) | Default entity attached to the node |
 
 
-## create_child_node {#str-aspose.threed.Entity-aspose.threed.shading.Material}
+## create_child_node(self, node_name, entity, material) {#str-aspose.threed.Entity-aspose.threed.shading.Material}
 
 Create a new child node with given node name, and attach specified entity and a material
 
@@ -153,6 +157,7 @@ The new child node.
 
 
 ```python
+
 def create_child_node(self, node_name, entity, material):
     ...
 ```

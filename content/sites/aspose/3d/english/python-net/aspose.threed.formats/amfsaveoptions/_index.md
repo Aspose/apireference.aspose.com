@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.formats/amfsaveoptions/
+url: /python-net/aspose.threed.formats/amfsaveoptions/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The AmfSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/amfsaveoptions/__init__/#) | Constructor of [`AmfSaveOptions`](/3d/python-net/aspose.threed.formats/amfsaveoptions) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/amfsaveoptions/__init__/#) | Constructor of [`AmfSaveOptions`](/3d/python-net/aspose.threed.formats/amfsaveoptions) |
 
 
 ### Properties

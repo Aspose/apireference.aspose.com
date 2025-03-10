@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /aspose.threed.render/itextureencoder/
+url: /python-net/aspose.threed.render/itextureencoder/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The ITextureEncoder type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [encode](/3d/python-net/aspose.threed.render/itextureencoder/encode/#aspose.threed.render.TextureData-io.RawIOBase) | Encode texture data into stream |
+| [`encode(self, texture, stream)`](/3d/python-net/aspose.threed.render/itextureencoder/encode/#aspose.threed.render.texturedata-io.rawiobase) | Encode texture data into stream |
 
 
 

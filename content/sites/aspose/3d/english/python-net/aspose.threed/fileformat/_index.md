@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.threed/fileformat/
+url: /python-net/aspose.threed/fileformat/
 is_root: false
 ---
 
@@ -82,11 +82,11 @@ The FileFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [detect](/3d/python-net/aspose.threed/fileformat/detect/#io.RawIOBase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
-| [detect](/3d/python-net/aspose.threed/fileformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
-| [get_format_by_extension](/3d/python-net/aspose.threed/fileformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
-| [create_load_options](/3d/python-net/aspose.threed/fileformat/create_load_options/#) | Create a default load options for this file format |
-| [create_save_options](/3d/python-net/aspose.threed/fileformat/create_save_options/#) | Create a default save options for this file format |
+| [`detect(, stream, file_name)`](/3d/python-net/aspose.threed/fileformat/detect/#io.rawiobase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [`detect(, file_name)`](/3d/python-net/aspose.threed/fileformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
+| [`get_format_by_extension(, extension_name)`](/3d/python-net/aspose.threed/fileformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
+| [`create_load_options(self)`](/3d/python-net/aspose.threed/fileformat/create_load_options/#) | Create a default load options for this file format |
+| [`create_save_options(self)`](/3d/python-net/aspose.threed/fileformat/create_save_options/#) | Create a default save options for this file format |
 
 
 

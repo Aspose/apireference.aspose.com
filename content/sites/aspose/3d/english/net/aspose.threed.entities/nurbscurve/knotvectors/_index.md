@@ -18,7 +18,7 @@ public IArrayList<double> KnotVectors { get; }
 
 * interface [IArrayList&lt;T&gt;](../../../aspose.threed.utilities/iarraylist-1/)
 * class [NurbsCurve](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../nurbscurve/)
 * assembly [Aspose.3D](../../../)
 
 

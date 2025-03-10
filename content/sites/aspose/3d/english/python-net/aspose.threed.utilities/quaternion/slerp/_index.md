@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.threed.utilities/quaternion/slerp/
+url: /python-net/aspose.threed.utilities/quaternion/slerp/
 is_root: false
 ---
 
-## slerp {#float-aspose.threed.utilities.Quaternion-aspose.threed.utilities.Quaternion}
+## slerp(, t, v1, v2) {#float-aspose.threed.utilities.Quaternion-aspose.threed.utilities.Quaternion}
 
 Perform spherical linear interpolation between two values
 
@@ -20,7 +20,9 @@ Perform spherical linear interpolation between two values
 
 
 ```python
-def slerp(self, t, v1, v2):
+
+@staticmethod
+def slerp(t, v1, v2):
     ...
 ```
 

@@ -17,7 +17,7 @@ public CustomObject()
 ### See Also
 
 * class [CustomObject](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../customobject/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,7 +37,7 @@ public CustomObject(string name)
 ### See Also
 
 * class [CustomObject](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../customobject/)
 * assembly [Aspose.3D](../../../)
 
 

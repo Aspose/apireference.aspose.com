@@ -26,7 +26,7 @@ Channel with the name
 
 * class [AnimationChannel](../../animationchannel/)
 * class [BindPoint](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../bindpoint/)
 * assembly [Aspose.3D](../../../)
 
 

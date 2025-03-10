@@ -23,7 +23,7 @@ public static Mesh operator &(Mesh a, Mesh b)
 
 Result mesh
 
-### Examples
+## Examples
 
 The following code shows how to calculate the difference of two meshes:
 
@@ -36,8 +36,7 @@ Mesh merged = box1 & box2;
 ### See Also
 
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
-* [Tutorial - Boolean operations on meshes](https://products.aspose.com/3d/tutorial/boolean-operation-on-meshes)
 
 

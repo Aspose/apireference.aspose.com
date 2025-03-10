@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.utilities/quaternion/conjugate/
+url: /python-net/aspose.threed.utilities/quaternion/conjugate/
 is_root: false
 ---
 
-## conjugate {#}
+## conjugate(self) {#}
 
 Returns a conjugate quaternion of current quaternion
 
@@ -20,6 +20,7 @@ The conjugate quaternion.
 
 
 ```python
+
 def conjugate(self):
     ...
 ```

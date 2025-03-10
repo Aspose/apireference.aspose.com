@@ -3,7 +3,7 @@ title: UsdSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for USD/USDZ formats.
 type: docs
-weight: 188
+weight: 195
 url: /java/com.aspose.threed/usdsaveoptions/
 ---
 

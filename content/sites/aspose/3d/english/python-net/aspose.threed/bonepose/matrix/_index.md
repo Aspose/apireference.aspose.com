@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed/bonepose/matrix/
+url: /python-net/aspose.threed/bonepose/matrix/
 is_root: false
 ---
 

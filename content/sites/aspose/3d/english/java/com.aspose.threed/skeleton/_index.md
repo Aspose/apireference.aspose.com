@@ -3,7 +3,7 @@ title: Skeleton
 second_title: Aspose.3D for Java API Reference
 description: The  is mainly used by CAD software to help designer to manipulate the transformation of skeletal structure its usually useless outside the CAD softwares.
 type: docs
-weight: 163
+weight: 168
 url: /java/com.aspose.threed/skeleton/
 ---
 
@@ -20,6 +20,7 @@ The [Skeleton](../../com.aspose.threed/skeleton) is mainly used by CAD software 
 | --- | --- |
 | [Skeleton()](#Skeleton--) | Initializes a new instance of the [Skeleton](../../com.aspose.threed/skeleton) class. |
 | [Skeleton(String name)](#Skeleton-java.lang.String-) | Initializes a new instance of the [Skeleton](../../com.aspose.threed/skeleton) class. |
+| [Skeleton(String name, SkeletonType type)](#Skeleton-java.lang.String-com.aspose.threed.SkeletonType-) | Initializes a new instance of the [Skeleton](../../com.aspose.threed/skeleton) class. |
 ## Methods
 
 | Method | Description |
@@ -73,6 +74,20 @@ Initializes a new instance of the [Skeleton](../../com.aspose.threed/skeleton) c
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | java.lang.String | Name. |
+
+### Skeleton(String name, SkeletonType type) {#Skeleton-java.lang.String-com.aspose.threed.SkeletonType-}
+```
+public Skeleton(String name, SkeletonType type)
+```
+
+
+Initializes a new instance of the [Skeleton](../../com.aspose.threed/skeleton) class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String | Entity's name. |
+| type | [SkeletonType](../../com.aspose.threed/skeletontype) | Skeleton type |
 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```

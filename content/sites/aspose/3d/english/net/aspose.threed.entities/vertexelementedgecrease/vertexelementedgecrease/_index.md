@@ -17,7 +17,7 @@ public VertexElementEdgeCrease()
 ### See Also
 
 * class [VertexElementEdgeCrease](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementedgecrease/)
 * assembly [Aspose.3D](../../../)
 
 

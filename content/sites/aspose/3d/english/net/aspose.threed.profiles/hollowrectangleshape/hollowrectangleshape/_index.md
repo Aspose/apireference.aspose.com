@@ -17,7 +17,7 @@ public HollowRectangleShape()
 ### See Also
 
 * class [HollowRectangleShape](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../hollowrectangleshape/)
 * assembly [Aspose.3D](../../../)
 
 

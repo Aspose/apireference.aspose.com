@@ -17,7 +17,7 @@ public void Reset()
 ### See Also
 
 * class [TransformBuilder](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder/)
 * assembly [Aspose.3D](../../../)
 
 

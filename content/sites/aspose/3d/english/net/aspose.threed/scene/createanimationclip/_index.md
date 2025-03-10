@@ -26,7 +26,7 @@ A new animation clip instance with given name
 
 * class [AnimationClip](../../../aspose.threed.animation/animationclip/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -26,7 +26,7 @@ Axis system containg coordinate system, up, front from given asset info
 
 * class [AssetInfo](../../assetinfo/)
 * class [AxisSystem](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../axissystem/)
 * assembly [Aspose.3D](../../../)
 
 

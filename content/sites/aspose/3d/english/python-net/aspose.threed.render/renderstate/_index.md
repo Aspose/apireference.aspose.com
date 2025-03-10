@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 300
-url: /aspose.threed.render/renderstate/
+url: /python-net/aspose.threed.render/renderstate/
 is_root: false
 ---
 
@@ -20,7 +20,7 @@ The RenderState type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.render/renderstate/__init__/#) | Constructor of [`RenderState`](/3d/python-net/aspose.threed.render/renderstate) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.render/renderstate/__init__/#) | Constructor of [`RenderState`](/3d/python-net/aspose.threed.render/renderstate) |
 
 
 ### Properties
@@ -48,7 +48,7 @@ The RenderState type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [compare_to](/3d/python-net/aspose.threed.render/renderstate/compare_to/#aspose.threed.render.RenderState) | Compare the render state with another instance |
+| [`compare_to(self, other)`](/3d/python-net/aspose.threed.render/renderstate/compare_to/#aspose.threed.render.renderstate) | Compare the render state with another instance |
 
 
 

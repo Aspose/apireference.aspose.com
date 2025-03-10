@@ -22,7 +22,7 @@ public FbxSaveOptions(FileFormat format)
 
 * class [FileFormat](../../../aspose.threed/fileformat/)
 * class [FbxSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../fbxsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -43,7 +43,7 @@ public FbxSaveOptions(FileContentType contentType)
 
 * enum [FileContentType](../../../aspose.threed/filecontenttype/)
 * class [FbxSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../fbxsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

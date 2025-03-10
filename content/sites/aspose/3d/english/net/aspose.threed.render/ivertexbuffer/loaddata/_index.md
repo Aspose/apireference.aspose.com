@@ -22,7 +22,7 @@ public void LoadData(TriMesh mesh)
 
 * class [TriMesh](../../../aspose.threed.entities/trimesh/)
 * interface [IVertexBuffer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../ivertexbuffer/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -43,7 +43,7 @@ public void LoadData(IntPtr data, int size)
 ### See Also
 
 * interface [IVertexBuffer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../ivertexbuffer/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -63,7 +63,7 @@ public void LoadData(Array array)
 ### See Also
 
 * interface [IVertexBuffer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../ivertexbuffer/)
 * assembly [Aspose.3D](../../../)
 
 

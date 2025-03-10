@@ -18,7 +18,7 @@ public Frustum Frustum { get; set; }
 
 * class [Frustum](../../../aspose.threed.entities/frustum/)
 * class [Viewport](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../viewport/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -18,7 +18,7 @@ public DescriptorSetUpdater BeginUpdate()
 
 * class [DescriptorSetUpdater](../../descriptorsetupdater/)
 * interface [IDescriptorSet](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../idescriptorset/)
 * assembly [Aspose.3D](../../../)
 
 

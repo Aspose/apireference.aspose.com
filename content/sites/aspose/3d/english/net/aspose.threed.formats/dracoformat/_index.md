@@ -18,28 +18,28 @@ public class DracoFormat : FileFormat
 
 | Name | Description |
 | --- | --- |
-| [CanExport](../../aspose.threed/fileformat/canexport/) { get; } | Gets whether Aspose.3D supports export scene to current file format.(Inherited from [`FileFormat`](../../aspose.threed/fileformat/).) |
-| [CanImport](../../aspose.threed/fileformat/canimport/) { get; } | Gets whether Aspose.3D supports import scene from current file format.(Inherited from [`FileFormat`](../../aspose.threed/fileformat/).) |
-| [ContentType](../../aspose.threed/fileformat/contenttype/) { get; } | Gets file format content type(Inherited from [`FileFormat`](../../aspose.threed/fileformat/).) |
-| [Extension](../../aspose.threed/fileformat/extension/) { get; } | Gets the extension name of this type.(Inherited from [`FileFormat`](../../aspose.threed/fileformat/).) |
-| [Extensions](../../aspose.threed/fileformat/extensions/) { get; } | Gets the extension names of this type.(Inherited from [`FileFormat`](../../aspose.threed/fileformat/).) |
-| [FileFormatType](../../aspose.threed/fileformat/fileformattype/) { get; } | Gets file format type(Inherited from [`FileFormat`](../../aspose.threed/fileformat/).) |
-| [Version](../../aspose.threed/fileformat/version/) { get; } | Gets file format version(Inherited from [`FileFormat`](../../aspose.threed/fileformat/).) |
+| [CanExport](../../aspose.threed/fileformat/canexport/) { get; } | Gets whether Aspose.3D supports export scene to current file format. |
+| [CanImport](../../aspose.threed/fileformat/canimport/) { get; } | Gets whether Aspose.3D supports import scene from current file format. |
+| [ContentType](../../aspose.threed/fileformat/contenttype/) { get; } | Gets file format content type |
+| [Extension](../../aspose.threed/fileformat/extension/) { get; } | Gets the extension name of this type. |
+| [Extensions](../../aspose.threed/fileformat/extensions/) { get; } | Gets the extension names of this type. |
+| [FileFormatType](../../aspose.threed/fileformat/fileformattype/) { get; } | Gets file format type |
+| [Version](../../aspose.threed/fileformat/version/) { get; } | Gets file format version |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CreateLoadOptions](../../aspose.threed/fileformat/createloadoptions/)() | Create a default load options for this file format(Inherited from [`FileFormat`](../../aspose.threed/fileformat/).) |
-| [CreateSaveOptions](../../aspose.threed/fileformat/createsaveoptions/)() | Create a default save options for this file format(Inherited from [`FileFormat`](../../aspose.threed/fileformat/).) |
+| [CreateLoadOptions](../../aspose.threed/fileformat/createloadoptions/)() | Create a default load options for this file format |
+| [CreateSaveOptions](../../aspose.threed/fileformat/createsaveoptions/)() | Create a default save options for this file format |
 | [Decode](../../aspose.threed.formats/dracoformat/decode/#decode)(byte[]) | Decode the point cloud or mesh from memory data |
 | [Decode](../../aspose.threed.formats/dracoformat/decode/#decode_1)(string) | Decode the point cloud or mesh from specified file name |
 | [Encode](../../aspose.threed.formats/dracoformat/encode/#encode)(Entity, DracoSaveOptions) | Encode the entity to Draco raw data |
 | [Encode](../../aspose.threed.formats/dracoformat/encode/#encode_1)(Entity, Stream, DracoSaveOptions) | Encode the entity to specified stream |
 | [Encode](../../aspose.threed.formats/dracoformat/encode/#encode_2)(Entity, string, DracoSaveOptions) | Encode the entity to specified file |
-| override [ToString](../../aspose.threed/fileformat/tostring/)() | Formats to string(Inherited from [`FileFormat`](../../aspose.threed/fileformat/).) |
+| override [ToString](../../aspose.threed/fileformat/tostring/)() | Formats to string |
 
-### Examples
+## Examples
 
 The following code shows how to encode and decode a Mesh to/from byte array:
 

@@ -18,7 +18,7 @@ public Matrix4 Inverse()
 
 Inverse matrix4
 
-### Examples
+## Examples
 
 The following code shows how to inverse a matrix
 
@@ -31,7 +31,7 @@ Console.WriteLine($"Inversed Matrix: {mat}");
 ### See Also
 
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 

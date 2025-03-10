@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.utilities/mathutils/to_degree/
+url: /python-net/aspose.threed.utilities/mathutils/to_degree/
 is_root: false
 ---
 
-## to_degree {#aspose.threed.utilities.Vector3}
+## to_degree(, radian) {#aspose.threed.utilities.Vector3}
 
 Convert a [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) from radian to degree.
 
@@ -20,7 +20,9 @@ The degree value.
 
 
 ```python
-def to_degree(self, radian):
+
+@staticmethod
+def to_degree(radian):
     ...
 ```
 
@@ -41,7 +43,7 @@ print(f"Degrees = {degrees}")
 ```
 
 
-## to_degree {#float}
+## to_degree(, radian) {#float}
 
 Convert a number from radian to degree
 
@@ -53,7 +55,9 @@ The degree value.
 
 
 ```python
-def to_degree(self, radian):
+
+@staticmethod
+def to_degree(radian):
     ...
 ```
 
@@ -74,7 +78,7 @@ print(f"Degree = {deg}")
 ```
 
 
-## to_degree {#float}
+## to_degree(, radian) {#float}
 
 Convert a number from radian to degree
 
@@ -86,7 +90,9 @@ The degree value.
 
 
 ```python
-def to_degree(self, radian):
+
+@staticmethod
+def to_degree(radian):
     ...
 ```
 
@@ -107,7 +113,7 @@ print(f"Degree = {deg}")
 ```
 
 
-## to_degree {#float-float-float}
+## to_degree(, x, y, z) {#float-float-float}
 
 Convert a number from radian to degree
 
@@ -119,7 +125,9 @@ The degree value.
 
 
 ```python
-def to_degree(self, x, y, z):
+
+@staticmethod
+def to_degree(x, y, z):
     ...
 ```
 

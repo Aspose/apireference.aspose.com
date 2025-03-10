@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.threed/fileformattype/html5/
+url: /python-net/aspose.threed/fileformattype/html5/
 is_root: false
 ---
 
@@ -12,6 +12,10 @@ is_root: false
 
 
 HTML5 File
+### Definition:
+```python
+f HTML5 
+```
 
 ### See Also
 * module [`aspose.threed`](../../)

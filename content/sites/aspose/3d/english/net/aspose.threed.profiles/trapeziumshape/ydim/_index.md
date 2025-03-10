@@ -17,7 +17,7 @@ public double YDim { get; set; }
 ### See Also
 
 * class [TrapeziumShape](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../trapeziumshape/)
 * assembly [Aspose.3D](../../../)
 
 

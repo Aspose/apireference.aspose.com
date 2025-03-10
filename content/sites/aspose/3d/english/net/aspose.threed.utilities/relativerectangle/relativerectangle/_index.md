@@ -24,7 +24,7 @@ public RelativeRectangle(int left, int top, int width, int height)
 ### See Also
 
 * struct [RelativeRectangle](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../relativerectangle/)
 * assembly [Aspose.3D](../../../)
 
 

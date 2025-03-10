@@ -3,7 +3,7 @@ title: FileFormat.PDF
 second_title: Aspose.3D for .NET API Reference
 description: FileFormat field. Adobes Portable Document Format
 type: docs
-weight: 600
+weight: 610
 url: /net/aspose.threed/fileformat/pdf/
 ---
 ## FileFormat.PDF field
@@ -18,7 +18,7 @@ public static readonly PdfFormat PDF;
 
 * class [PdfFormat](../../../aspose.threed.formats/pdfformat/)
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 

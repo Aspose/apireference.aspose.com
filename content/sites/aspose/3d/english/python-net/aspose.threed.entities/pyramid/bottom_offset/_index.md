@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.threed.entities/pyramid/bottom_offset/
+url: /python-net/aspose.threed.entities/pyramid/bottom_offset/
 is_root: false
 ---
 

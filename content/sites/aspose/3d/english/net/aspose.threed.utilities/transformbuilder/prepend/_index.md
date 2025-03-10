@@ -22,7 +22,7 @@ public TransformBuilder Prepend(Matrix4 m)
 
 * struct [Matrix4](../../matrix4/)
 * class [TransformBuilder](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.render/renderstate/compare_to/
+url: /python-net/aspose.threed.render/renderstate/compare_to/
 is_root: false
 ---
 
-## compare_to {#aspose.threed.render.RenderState}
+## compare_to(self, other) {#aspose.threed.render.RenderState}
 
 Compare the render state with another instance
 
@@ -20,6 +20,7 @@ Compare the render state with another instance
 
 
 ```python
+
 def compare_to(self, other):
     ...
 ```

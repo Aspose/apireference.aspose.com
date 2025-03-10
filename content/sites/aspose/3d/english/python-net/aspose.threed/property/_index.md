@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 180
-url: /aspose.threed/property/
+url: /python-net/aspose.threed/property/
 is_root: false
 ---
 
@@ -27,10 +27,10 @@ The Property type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_extra](/3d/python-net/aspose.threed/property/get_extra/#str) | Gets extra data of the property associated by name. |
-| [set_extra](/3d/python-net/aspose.threed/property/set_extra/#str-any) | Sets extra data of the property associated by name. |
-| [get_bind_point](/3d/python-net/aspose.threed/property/get_bind_point/#aspose.threed.animation.AnimationNode-bool) | Gets the property bind point on specified animation instance. |
-| [get_keyframe_sequence](/3d/python-net/aspose.threed/property/get_keyframe_sequence/#aspose.threed.animation.AnimationNode-bool) | Gets the keyframe sequence on specified animation instance. |
+| [`get_extra(self, name)`](/3d/python-net/aspose.threed/property/get_extra/#str) | Gets extra data of the property associated by name. |
+| [`set_extra(self, name, value)`](/3d/python-net/aspose.threed/property/set_extra/#str-any) | Sets extra data of the property associated by name. |
+| [`get_bind_point(self, anim, create)`](/3d/python-net/aspose.threed/property/get_bind_point/#aspose.threed.animation.animationnode-bool) | Gets the property bind point on specified animation instance. |
+| [`get_keyframe_sequence(self, anim, create)`](/3d/python-net/aspose.threed/property/get_keyframe_sequence/#aspose.threed.animation.animationnode-bool) | Gets the keyframe sequence on specified animation instance. |
 
 
 

@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.threed.utilities/transformbuilder/rotate_euler_degree/
+url: /python-net/aspose.threed.utilities/transformbuilder/rotate_euler_degree/
 is_root: false
 ---
 
-## rotate_euler_degree {#float-float-float}
+## rotate_euler_degree(self, deg_x, deg_y, deg_z) {#float-float-float}
 
 Chain a rotation by Euler angles in degree
 
 
 
 ```python
+
 def rotate_euler_degree(self, deg_x, deg_y, deg_z):
     ...
 ```

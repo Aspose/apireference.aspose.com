@@ -18,7 +18,7 @@ public Curve Curve { get; set; }
 
 * class [Curve](../../../aspose.threed.entities/curve/)
 * class [CenterLineProfile](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../centerlineprofile/)
 * assembly [Aspose.3D](../../../)
 
 

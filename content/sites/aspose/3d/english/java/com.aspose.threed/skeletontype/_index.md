@@ -3,7 +3,7 @@ title: SkeletonType
 second_title: Aspose.3D for Java API Reference
 description: s types.
 type: docs
-weight: 284
+weight: 296
 url: /java/com.aspose.threed/skeletontype/
 ---
 

@@ -26,9 +26,9 @@ public class Pose : A3DObject
 | Name | Description |
 | --- | --- |
 | [BonePoses](../../aspose.threed/pose/boneposes/) { get; } | Gets all [`BonePose`](../bonepose/). |
-| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name.(Inherited from [`A3DObject`](../a3dobject/).) |
+| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name. |
 | [PoseType](../../aspose.threed/pose/posetype/) { get; set; } | Gets or sets the type of the pose. |
-| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties.(Inherited from [`A3DObject`](../a3dobject/).) |
+| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties. |
 
 ## Methods
 
@@ -36,11 +36,11 @@ public class Pose : A3DObject
 | --- | --- |
 | [AddBonePose](../../aspose.threed/pose/addbonepose/#addbonepose)(Node, Matrix4) | Saves pose transformation matrix for the given bone node. Global transformation matrix is implied. |
 | [AddBonePose](../../aspose.threed/pose/addbonepose/#addbonepose_1)(Node, Matrix4, bool) | Saves pose transformation matrix for the given bone node. |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name)(Inherited from [`A3DObject`](../a3dobject/).) |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property(Inherited from [`A3DObject`](../a3dobject/).) |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property.(Inherited from [`A3DObject`](../a3dobject/).) |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name(Inherited from [`A3DObject`](../a3dobject/).) |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property(Inherited from [`A3DObject`](../a3dobject/).) |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name |
+| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property |
 
 ### See Also
 

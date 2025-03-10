@@ -28,7 +28,7 @@ Multiple object matches the XPath-like query.
 | --- | --- |
 | [ParseException](../../../aspose.threed.utilities/parseexception/) | ParseException will be thrown if the path contains malformed query. |
 
-### Examples
+## Examples
 
 Select a single node using XPath-like expression
 
@@ -49,7 +49,7 @@ var objects = s.RootNode.SelectObjects("//*[(@Type = 'Camera') or (@Name = 'ligh
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

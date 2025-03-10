@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.threed.entities/skeleton/__init__/
+url: /python-net/aspose.threed.entities/skeleton/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## __init__(self) {#}
 
 Initializes a new instance of the [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__(self, name) {#str}
 
 Initializes a new instance of the [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton) class.
 
 
 
 ```python
+
 def __init__(self, name):
     ...
 ```

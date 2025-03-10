@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/cubefacedata/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.csporter.helpers.Struct, java.io.Serializable
+com.aspose.threed.Struct, java.io.Serializable
 ```
 public final class CubeFaceData<T> implements Struct<CubeFaceData<T>>, Serializable
 ```
@@ -75,7 +75,7 @@ public CubeFaceData<T> clone()
 ```
 
 
-
+Clone current instance
 
 **Returns:**
 [CubeFaceData](../../com.aspose.threed/cubefacedata)

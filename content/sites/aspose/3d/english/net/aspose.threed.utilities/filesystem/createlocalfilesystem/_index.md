@@ -28,7 +28,7 @@ A new instance of file system to provide local file access
 | --- | --- |
 | FileNotFoundException | Thrown when directory cannot be found. |
 
-### Examples
+## Examples
 
 The following code shows how to import file, and provide dependent files in a given directory
 
@@ -45,7 +45,7 @@ var scene = Scene.FromFile(inputFile, opt);
 ### See Also
 
 * class [FileSystem](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../filesystem/)
 * assembly [Aspose.3D](../../../)
 
 

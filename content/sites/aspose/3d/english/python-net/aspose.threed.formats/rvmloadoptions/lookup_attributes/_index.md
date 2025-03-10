@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.threed.formats/rvmloadoptions/lookup_attributes/
+url: /python-net/aspose.threed.formats/rvmloadoptions/lookup_attributes/
 is_root: false
 ---
 

@@ -18,7 +18,7 @@ public Matrix4 Transpose()
 
 The transposed matrix.
 
-### Examples
+## Examples
 
 The following code shows how to transpose a matrix
 
@@ -31,7 +31,7 @@ Console.WriteLine($"Transposed Matrix: {mat}");
 ### See Also
 
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 

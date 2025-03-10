@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.render/renderfactory/create_cube_render_texture/
+url: /python-net/aspose.threed.render/renderfactory/create_cube_render_texture/
 is_root: false
 ---
 
-## create_cube_render_texture {#aspose.threed.render.RenderParameters-int-int}
+## create_cube_render_texture(self, parameters, width, height) {#aspose.threed.render.RenderParameters-int-int}
 
 Create a render target contains 1 cube texture
 
@@ -20,6 +20,7 @@ Create a render target contains 1 cube texture
 
 
 ```python
+
 def create_cube_render_texture(self, parameters, width, height):
     ...
 ```

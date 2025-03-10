@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /aspose.threed.entities/mesh/optimize/
+url: /python-net/aspose.threed.entities/mesh/optimize/
 is_root: false
 ---
 
-## optimize {#bool}
+## optimize(self, vertex_elements) {#bool}
 
 Optimize the mesh's memory usage by eliminating duplicated control points
 
@@ -20,6 +20,7 @@ New mesh instance with compact memory usage
 
 
 ```python
+
 def optimize(self, vertex_elements):
     ...
 ```
@@ -45,7 +46,7 @@ optimized = mesh.optimize(True)
 ```
 
 
-## optimize {#bool-float-float-float}
+## optimize(self, vertex_elements, tolerance_control_point, tolerance_normal, tolerance_uv) {#bool-float-float-float}
 
 Optimize the mesh's memory usage by eliminating duplicated control points
 
@@ -57,6 +58,7 @@ New mesh instance with compact memory usage
 
 
 ```python
+
 def optimize(self, vertex_elements, tolerance_control_point, tolerance_normal, tolerance_uv):
     ...
 ```

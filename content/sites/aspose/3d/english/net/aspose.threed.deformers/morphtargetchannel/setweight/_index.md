@@ -23,7 +23,7 @@ public void SetWeight(Shape target, double weight = 1m)
 
 * class [Shape](../../../aspose.threed.entities/shape/)
 * class [MorphTargetChannel](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../morphtargetchannel/)
 * assembly [Aspose.3D](../../../)
 
 

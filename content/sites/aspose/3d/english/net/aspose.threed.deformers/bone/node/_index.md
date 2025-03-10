@@ -18,7 +18,7 @@ public Node Node { get; set; }
 
 * class [Node](../../../aspose.threed/node/)
 * class [Bone](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../bone/)
 * assembly [Aspose.3D](../../../)
 
 

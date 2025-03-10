@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.entities/trimesh/begin_vertex/
+url: /python-net/aspose.threed.entities/trimesh/begin_vertex/
 is_root: false
 ---
 
-## begin_vertex {#}
+## begin_vertex(self) {#}
 
 Begin adding vertex
 
@@ -20,6 +20,7 @@ The reference of internal vertex object in type [`Vertex`](/3d/python-net/aspose
 
 
 ```python
+
 def begin_vertex(self):
     ...
 ```

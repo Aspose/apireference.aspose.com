@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.entities/polygonmodifier/generate_normal/
+url: /python-net/aspose.threed.entities/polygonmodifier/generate_normal/
 is_root: false
 ---
 
-## generate_normal {#aspose.threed.entities.Mesh}
+## generate_normal(, mesh) {#aspose.threed.entities.Mesh}
 
 Generate normal data from Mesh definition
 
@@ -20,7 +20,9 @@ Generate normal data from Mesh definition
 
 
 ```python
-def generate_normal(self, mesh):
+
+@staticmethod
+def generate_normal(mesh):
     ...
 ```
 

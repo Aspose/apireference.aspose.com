@@ -29,7 +29,7 @@ public void Encode(TextureData texture, Stream stream)
 
 * class [TextureData](../../texturedata/)
 * interface [ITextureEncoder](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itextureencoder/)
 * assembly [Aspose.3D](../../../)
 
 

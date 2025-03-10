@@ -27,7 +27,7 @@ A transform matrix or null if not defined.
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [Node](../../../aspose.threed/node/)
 * class [Microsoft3MFFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../microsoft3mfformat/)
 * assembly [Aspose.3D](../../../)
 
 

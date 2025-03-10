@@ -17,7 +17,7 @@ public bool EnableCompression { get; set; }
 ### See Also
 
 * class [AmfSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../amfsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

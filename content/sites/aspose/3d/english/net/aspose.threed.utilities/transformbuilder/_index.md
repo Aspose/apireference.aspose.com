@@ -51,7 +51,7 @@ public class TransformBuilder
 | [Translate](../../aspose.threed.utilities/transformbuilder/translate/#translate)(Vector3) | Chain a translation transform |
 | [Translate](../../aspose.threed.utilities/transformbuilder/translate/#translate_1)(double, double, double) | Chain a translation transform |
 
-### Examples
+## Examples
 
 The following code shows how to create a matrix by a set of operation
 

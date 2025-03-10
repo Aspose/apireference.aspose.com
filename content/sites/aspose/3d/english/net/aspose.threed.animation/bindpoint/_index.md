@@ -26,8 +26,8 @@ public class BindPoint : A3DObject
 | --- | --- |
 | [ChannelsCount](../../aspose.threed.animation/bindpoint/channelscount/) { get; } | Gets the total number of property channels defined in this animation curve mapping. |
 | [Item](../../aspose.threed.animation/bindpoint/item/) { get; } |  |
-| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name.(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
-| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties.(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
+| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name. |
+| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties. |
 | [Property](../../aspose.threed.animation/bindpoint/property/) { get; } | Gets the property associated with the CurveMapping |
 
 ## Methods
@@ -39,14 +39,14 @@ public class BindPoint : A3DObject
 | [AddChannel&lt;T&gt;](../../aspose.threed.animation/bindpoint/addchannel/#addchannel_2)(string, T) |  |
 | [BindKeyframeSequence](../../aspose.threed.animation/bindpoint/bindkeyframesequence/)(string, KeyframeSequence) | Bind the keyframe sequence to specified channel |
 | [CreateKeyframeSequence](../../aspose.threed.animation/bindpoint/createkeyframesequence/)(string) | Creates a new curve and connects it to the first channel of the curve mapping |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name)(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
 | [GetChannel](../../aspose.threed.animation/bindpoint/getchannel/)(string) | Gets channel by given name |
 | [GetKeyframeSequence](../../aspose.threed.animation/bindpoint/getkeyframesequence/)(string) | Gets the first keyframe sequence in specified channel |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property.(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
+| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name |
 | [ResetChannels](../../aspose.threed.animation/bindpoint/resetchannels/)() | Empties the property channels of this animation curve mapping. |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
+| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property |
 | override [ToString](../../aspose.threed.animation/bindpoint/tostring/)() | Formats object to string |
 
 ### See Also

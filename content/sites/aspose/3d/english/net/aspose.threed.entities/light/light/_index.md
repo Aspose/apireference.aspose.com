@@ -17,7 +17,7 @@ public Light()
 ### See Also
 
 * class [Light](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../light/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,7 +37,7 @@ public Light(string name)
 ### See Also
 
 * class [Light](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../light/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -59,7 +59,7 @@ public Light(string name, LightType type)
 
 * enum [LightType](../../lighttype/)
 * class [Light](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../light/)
 * assembly [Aspose.3D](../../../)
 
 

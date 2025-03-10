@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.render/itexture2d/load/
+url: /python-net/aspose.threed.render/itexture2d/load/
 is_root: false
 ---
 
-## load {#aspose.threed.render.TextureData}
+## load(self, bitmap) {#aspose.threed.render.TextureData}
 
 Load texture content from specified Bitmap
 
 
 
 ```python
+
 def load(self, bitmap):
     ...
 ```

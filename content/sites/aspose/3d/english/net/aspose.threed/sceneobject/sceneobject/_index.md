@@ -21,7 +21,7 @@ public SceneObject(string name)
 ### See Also
 
 * class [SceneObject](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../sceneobject/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,7 +37,7 @@ public SceneObject()
 ### See Also
 
 * class [SceneObject](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../sceneobject/)
 * assembly [Aspose.3D](../../../)
 
 

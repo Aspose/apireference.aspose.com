@@ -17,7 +17,7 @@ public VertexElementSpecular()
 ### See Also
 
 * class [VertexElementSpecular](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementspecular/)
 * assembly [Aspose.3D](../../../)
 
 

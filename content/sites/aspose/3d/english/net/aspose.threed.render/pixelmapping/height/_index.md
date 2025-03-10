@@ -17,7 +17,7 @@ public int Height { get; }
 ### See Also
 
 * class [PixelMapping](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../pixelmapping/)
 * assembly [Aspose.3D](../../../)
 
 

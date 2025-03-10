@@ -20,7 +20,7 @@ public void CreatePolygon(int[] indices, int offset, int length)
 | offset | Int32 | The offset of the first polygon index |
 | length | Int32 | The length of the indices |
 
-### Examples
+## Examples
 
 The following code shows how to create a new polygon with control point's indices.
 
@@ -33,7 +33,7 @@ mesh.CreatePolygon(indices);
 ### See Also
 
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -50,7 +50,7 @@ public void CreatePolygon(int[] indices)
 | --- | --- | --- |
 | indices | Int32[] | Array of the polygon indices, each index points to a control point that forms the polygon. |
 
-### Examples
+## Examples
 
 ```csharp
 var mesh = new Mesh();
@@ -61,7 +61,7 @@ mesh.CreatePolygon(indices);
 ### See Also
 
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -81,7 +81,7 @@ public void CreatePolygon(int v1, int v2, int v3, int v4)
 | v3 | Int32 | Index of the third vertex |
 | v4 | Int32 | Index of the fourth vertex |
 
-### Examples
+## Examples
 
 The following code shows how to create a new polygon with control point's indices.
 
@@ -93,7 +93,7 @@ mesh.CreatePolygon(0, 1, 2, 3);
 ### See Also
 
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -112,7 +112,7 @@ public void CreatePolygon(int v1, int v2, int v3)
 | v2 | Int32 | Index of the second vertex |
 | v3 | Int32 | Index of the third vertex |
 
-### Examples
+## Examples
 
 The following code shows how to create a new polygon with control point's indices.
 
@@ -124,7 +124,7 @@ mesh.CreatePolygon(0, 1, 2);
 ### See Also
 
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
 
 

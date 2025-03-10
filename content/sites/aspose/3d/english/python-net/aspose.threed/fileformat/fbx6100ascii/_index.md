@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /aspose.threed/fileformat/fbx6100ascii/
+url: /python-net/aspose.threed/fileformat/fbx6100ascii/
 is_root: false
 ---
 
@@ -12,6 +12,10 @@ is_root: false
 
 
 ASCII FBX file format, with 6.1.0 version
+### Definition:
+```python
+f FBX6100ASCII 
+```
 
 ### See Also
 * module [`aspose.threed`](../../)

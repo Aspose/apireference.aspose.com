@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.threed.utilities/fvector2/__init__/
+url: /python-net/aspose.threed.utilities/fvector2/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## __init__(self) {#}
 
 Constructs a new instance of FVector2
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.threed.utilities.Vector2}
+## __init__(self, vec) {#aspose.threed.utilities.Vector2}
 
 Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2).
 
 
 
 ```python
+
 def __init__(self, vec):
     ...
 ```
@@ -39,13 +41,14 @@ def __init__(self, vec):
 | vec | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) | Vector2 in double type |
 
 
-## __init__ {#float-float}
+## __init__(self, x, y) {#float-float}
 
 Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2).
 
 
 
 ```python
+
 def __init__(self, x, y):
     ...
 ```

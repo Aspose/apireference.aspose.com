@@ -18,7 +18,7 @@ public static void BuildTangentBinormal(Scene scene)
 
 * class [Scene](../../../aspose.threed/scene/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -35,7 +35,7 @@ public static void BuildTangentBinormal(Mesh mesh)
 
 * class [Mesh](../../mesh/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
 
 

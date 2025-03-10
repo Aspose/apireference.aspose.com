@@ -17,7 +17,7 @@ public bool Decompose(out Vector3 translation, out Vector3 scaling, out Quaterni
 * struct [Vector3](../../vector3/)
 * struct [Quaternion](../../quaternion/)
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 

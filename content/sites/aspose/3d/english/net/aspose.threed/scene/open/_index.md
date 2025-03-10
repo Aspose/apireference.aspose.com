@@ -27,7 +27,7 @@ public void Open(Stream stream, FileFormat format, CancellationToken cancellatio
 | IOException | Thrown when failed at reading input |
 | [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to open a scene from stream
 
@@ -43,7 +43,7 @@ using (var stream = new FileStream("input.fbx", FileMode.Open))
 
 * class [FileFormat](../../fileformat/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -69,7 +69,7 @@ public void Open(Stream stream, LoadOptions options, CancellationToken cancellat
 | IOException | Thrown when failed at reading input |
 | [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to open a scene from stream with extra load options
 
@@ -87,7 +87,7 @@ using (var stream = new FileStream("input.fbx", FileMode.Open))
 
 * class [LoadOptions](../../../aspose.threed.formats/loadoptions/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -111,7 +111,7 @@ public void Open(Stream stream)
 | IOException | Thrown when failed at reading input |
 | [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to open a scene from stream
 
@@ -126,7 +126,7 @@ using (var stream = new FileStream("input.fbx", FileMode.Open))
 ### See Also
 
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -151,7 +151,7 @@ public void Open(Stream stream, CancellationToken cancellationToken)
 | IOException | Thrown when failed at reading input |
 | [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to open a scene from stream with a cancellation token
 
@@ -167,7 +167,7 @@ using (var stream = new FileStream("input.fbx", FileMode.Open))
 ### See Also
 
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -193,7 +193,7 @@ public void Open(string fileName, FileFormat format, CancellationToken cancellat
 | IOException | Thrown when failed at reading input |
 | [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to open a scene from file name with a cancellation token
 
@@ -208,7 +208,7 @@ scene.Open("input.fbx", FileFormat.FBX7400ASCII, cts.Token);
 
 * class [FileFormat](../../fileformat/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -233,7 +233,7 @@ public void Open(string fileName, LoadOptions options)
 | IOException | Thrown when failed at reading input |
 | [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to open a scene from file name with extra load options
 
@@ -248,7 +248,7 @@ scene.Open("input.fbx", opts);
 
 * class [LoadOptions](../../../aspose.threed.formats/loadoptions/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -274,7 +274,7 @@ public void Open(string fileName, LoadOptions options, CancellationToken cancell
 | IOException | Thrown when failed at reading input |
 | [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to open a scene from file name with extra load options and cancellation token
 
@@ -290,7 +290,7 @@ scene.Open("input.fbx", opts, cts.Token);
 
 * class [LoadOptions](../../../aspose.threed.formats/loadoptions/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -314,7 +314,7 @@ public void Open(string fileName)
 | IOException | Thrown when failed at reading input |
 | [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to open a scene from file name
 
@@ -326,7 +326,7 @@ scene.Open("input.fbx");
 ### See Also
 
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -351,7 +351,7 @@ public void Open(string fileName, CancellationToken cancellationToken)
 | IOException | Thrown when failed at reading input |
 | [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to open a scene from file name and a cancellation token source
 
@@ -364,7 +364,7 @@ scene.Open("input.fbx", cts.Token);
 ### See Also
 
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 

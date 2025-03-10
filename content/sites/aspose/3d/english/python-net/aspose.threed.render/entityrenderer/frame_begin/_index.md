@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.render/entityrenderer/frame_begin/
+url: /python-net/aspose.threed.render/entityrenderer/frame_begin/
 is_root: false
 ---
 
-## frame_begin {#aspose.threed.render.Renderer-aspose.threed.render.IRenderQueue}
+## frame_begin(self, renderer, render_queue) {#aspose.threed.render.Renderer-aspose.threed.render.IRenderQueue}
 
 Begin rendering a frame
 
 
 
 ```python
+
 def frame_begin(self, renderer, render_queue):
     ...
 ```

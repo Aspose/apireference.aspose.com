@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.threed.profiles/hollowcircleshape/__init__/
+url: /python-net/aspose.threed.profiles/hollowcircleshape/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## __init__(self) {#}
 
 Construct a [`CircleShape`](/3d/python-net/aspose.threed.profiles/circleshape) profile with default radius(5).
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

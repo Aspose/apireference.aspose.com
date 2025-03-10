@@ -18,7 +18,7 @@ public override EntityRendererKey GetEntityRendererKey()
 
 * class [EntityRendererKey](../../../aspose.threed.render/entityrendererkey/)
 * class [PointCloud](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../pointcloud/)
 * assembly [Aspose.3D](../../../)
 
 

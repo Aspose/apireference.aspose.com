@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 530
-url: /aspose.threed/fileformat/wavefront_obj/
+url: /python-net/aspose.threed/fileformat/wavefront_obj/
 is_root: false
 ---
 
@@ -12,6 +12,10 @@ is_root: false
 
 
 Wavefront's Obj file format
+### Definition:
+```python
+f WAVEFRONT_OBJ 
+```
 
 ### See Also
 * module [`aspose.threed`](../../)

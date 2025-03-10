@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.formats/microsoft3mfformat/get_object_type/
+url: /python-net/aspose.threed.formats/microsoft3mfformat/get_object_type/
 is_root: false
 ---
 
-## get_object_type {#aspose.threed.Node}
+## get_object_type(self, node) {#aspose.threed.Node}
 
 Gets the model type for specified node.
 
@@ -20,6 +20,7 @@ Gets the model type for specified node.
 
 
 ```python
+
 def get_object_type(self, node):
     ...
 ```

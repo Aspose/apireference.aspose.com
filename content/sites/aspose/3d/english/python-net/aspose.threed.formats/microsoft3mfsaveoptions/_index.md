@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /aspose.threed.formats/microsoft3mfsaveoptions/
+url: /python-net/aspose.threed.formats/microsoft3mfsaveoptions/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The Microsoft3MFSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/microsoft3mfsaveoptions/__init__/#) | Construct a [`Microsoft3MFSaveOptions`](/3d/python-net/aspose.threed.formats/microsoft3mfsaveoptions) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/microsoft3mfsaveoptions/__init__/#) | Construct a [`Microsoft3MFSaveOptions`](/3d/python-net/aspose.threed.formats/microsoft3mfsaveoptions) |
 
 
 ### Properties

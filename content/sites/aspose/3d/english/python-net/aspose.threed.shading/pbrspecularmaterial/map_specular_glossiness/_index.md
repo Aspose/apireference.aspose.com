@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /aspose.threed.shading/pbrspecularmaterial/map_specular_glossiness/
+url: /python-net/aspose.threed.shading/pbrspecularmaterial/map_specular_glossiness/
 is_root: false
 ---
 
@@ -12,6 +12,10 @@ is_root: false
 
 
 The texture map for specular glossiness
+### Definition:
+```python
+f MAP_SPECULAR_GLOSSINESS 
+```
 
 ### See Also
 * module [`aspose.threed.shading`](../../)

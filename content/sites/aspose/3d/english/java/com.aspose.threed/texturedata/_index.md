@@ -3,7 +3,7 @@ title: TextureData
 second_title: Aspose.3D for Java API Reference
 description: This class contains the raw data and format definition of a texture.
 type: docs
-weight: 175
+weight: 182
 url: /java/com.aspose.threed/texturedata/
 ---
 
@@ -28,7 +28,7 @@ This class contains the raw data and format definition of a texture.
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [findProperty(String propertyName)](#findProperty-java.lang.String-) | Finds the property. |
 | [fromFile(String fileName)](#fromFile-java.lang.String-) | Load a texture from file |
-| [fromStream(Stream stream)](#fromStream-com.aspose.csporter.helpers.Stream-) | Load a texture from stream |
+| [fromStream(Stream stream)](#fromStream-com.aspose.threed.Stream-) | Load a texture from stream |
 | [getBytesPerPixel()](#getBytesPerPixel--) | Number of bytes of a pixel |
 | [getClass()](#getClass--) |  |
 | [getData()](#getData--) | Raw bytes of pixel data |
@@ -47,7 +47,7 @@ This class contains the raw data and format definition of a texture.
 | [notifyAll()](#notifyAll--) |  |
 | [removeProperty(Property property)](#removeProperty-com.aspose.threed.Property-) | Removes a dynamic property. |
 | [removeProperty(String property)](#removeProperty-java.lang.String-) | Remove the specified property identified by name |
-| [save(Stream stream, String format)](#save-com.aspose.csporter.helpers.Stream-java.lang.String-) | Save texture data into specified image format |
+| [save(Stream stream, String format)](#save-com.aspose.threed.Stream-java.lang.String-) | Save texture data into specified image format |
 | [save(String fileName)](#save-java.lang.String-) | Save texture data into image file |
 | [save(String fileName, String format)](#save-java.lang.String-java.lang.String-) | Save texture data into image file |
 | [setName(String value)](#setName-java.lang.String-) | Sets the name. |
@@ -143,7 +143,7 @@ Load a texture from file
 
 **Returns:**
 [TextureData](../../com.aspose.threed/texturedata)
-### fromStream(Stream stream) {#fromStream-com.aspose.csporter.helpers.Stream-}
+### fromStream(Stream stream) {#fromStream-com.aspose.threed.Stream-}
 ```
 public static TextureData fromStream(Stream stream)
 ```
@@ -154,7 +154,7 @@ Load a texture from stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream |  |
+| stream | [Stream](../../com.aspose.threed/stream) |  |
 
 **Returns:**
 [TextureData](../../com.aspose.threed/texturedata)
@@ -367,7 +367,7 @@ Remove the specified property identified by name
 
 **Returns:**
 boolean - true if the property is successfully removed
-### save(Stream stream, String format) {#save-com.aspose.csporter.helpers.Stream-java.lang.String-}
+### save(Stream stream, String format) {#save-com.aspose.threed.Stream-java.lang.String-}
 ```
 public void save(Stream stream, String format)
 ```
@@ -378,7 +378,7 @@ Save texture data into specified image format
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | The stream that holds the saved image |
+| stream | [Stream](../../com.aspose.threed/stream) | The stream that holds the saved image |
 | format | java.lang.String | Image format, usually file extension |
 
 ### save(String fileName) {#save-java.lang.String-}

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 240
-url: /aspose.threed/assetinfo/title/
+url: /python-net/aspose.threed/assetinfo/title/
 is_root: false
 ---
 

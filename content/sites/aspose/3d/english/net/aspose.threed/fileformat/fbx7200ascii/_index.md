@@ -17,7 +17,7 @@ public static readonly FileFormat FBX7200ASCII;
 ### See Also
 
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 

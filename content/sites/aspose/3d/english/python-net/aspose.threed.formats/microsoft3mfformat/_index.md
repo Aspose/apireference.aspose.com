@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /aspose.threed.formats/microsoft3mfformat/
+url: /python-net/aspose.threed.formats/microsoft3mfformat/
 is_root: false
 ---
 
@@ -87,16 +87,16 @@ The Microsoft3MFFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [detect](/3d/python-net/aspose.threed.formats/microsoft3mfformat/detect/#io.RawIOBase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
-| [detect](/3d/python-net/aspose.threed.formats/microsoft3mfformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
-| [get_format_by_extension](/3d/python-net/aspose.threed.formats/microsoft3mfformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
-| [create_load_options](/3d/python-net/aspose.threed.formats/microsoft3mfformat/create_load_options/#) | Create a default load options for this file format |
-| [create_save_options](/3d/python-net/aspose.threed.formats/microsoft3mfformat/create_save_options/#) | Create a default save options for this file format |
-| [is_buildable](/3d/python-net/aspose.threed.formats/microsoft3mfformat/is_buildable/#aspose.threed.Node) | Check if this node is marked as a build. |
-| [get_transform_for_build](/3d/python-net/aspose.threed.formats/microsoft3mfformat/get_transform_for_build/#aspose.threed.Node) | Get transform matrix for node used in build. |
-| [set_buildable](/3d/python-net/aspose.threed.formats/microsoft3mfformat/set_buildable/#aspose.threed.Node-bool-Nullable<Aspose.ThreeD.Utilities.Matrix4>) |  |
-| [set_object_type](/3d/python-net/aspose.threed.formats/microsoft3mfformat/set_object_type/#aspose.threed.Node-str) | Set the model type for specified node.<br/>Possible value:<br/>model<br/>surface<br/>solidsupport<br/>support<br/>other |
-| [get_object_type](/3d/python-net/aspose.threed.formats/microsoft3mfformat/get_object_type/#aspose.threed.Node) | Gets the model type for specified node. |
+| [`detect(, stream, file_name)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/detect/#io.rawiobase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [`detect(, file_name)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
+| [`get_format_by_extension(, extension_name)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
+| [`create_load_options(self)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/create_load_options/#) | Create a default load options for this file format |
+| [`create_save_options(self)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/create_save_options/#) | Create a default save options for this file format |
+| [`is_buildable(self, node)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/is_buildable/#aspose.threed.node) | Check if this node is marked as a build. |
+| [`get_transform_for_build(self, node)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/get_transform_for_build/#aspose.threed.node) | Get transform matrix for node used in build. |
+| [`set_buildable(self, node, value, transform)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/set_buildable/#aspose.threed.node-bool-nullable<aspose.threed.utilities.matrix4>) |  |
+| [`set_object_type(self, node, model_type)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/set_object_type/#aspose.threed.node-str) | Set the model type for specified node.<br/>Possible value:<br/>model<br/>surface<br/>solidsupport<br/>support<br/>other |
+| [`get_object_type(self, node)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/get_object_type/#aspose.threed.node) | Gets the model type for specified node. |
 
 
 

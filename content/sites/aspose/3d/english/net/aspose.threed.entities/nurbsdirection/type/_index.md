@@ -18,7 +18,7 @@ public NurbsType Type { get; set; }
 
 * enum [NurbsType](../../nurbstype/)
 * class [NurbsDirection](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../nurbsdirection/)
 * assembly [Aspose.3D](../../../)
 
 

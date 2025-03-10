@@ -29,11 +29,11 @@ A zip file system
 | --- | --- |
 | IOException | Thrown when failed to read from stream. |
 
-### Remarks
+## Remarks
 
 This is a read-only file system, so no write operations are supported.
 
-### Examples
+## Examples
 
 The following code shows how to import file, and provide dependent files in a zip archive file.
 
@@ -50,7 +50,7 @@ var scene = Scene.FromFile(inputFile, opt);
 ### See Also
 
 * class [FileSystem](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../filesystem/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -77,7 +77,7 @@ A zip file system
 | --- | --- |
 | IOException | Thrown when failed to read from stream. |
 
-### Examples
+## Examples
 
 The following code shows how to import file, and provide dependent files in a zip archive file.
 
@@ -94,7 +94,7 @@ var scene = Scene.FromFile(inputFile, opt);
 ### See Also
 
 * class [FileSystem](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../filesystem/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -22,7 +22,7 @@ public FVector2(float x, float y)
 ### See Also
 
 * struct [FVector2](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fvector2/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -43,7 +43,7 @@ public FVector2(Vector2 vec)
 
 * struct [Vector2](../../vector2/)
 * struct [FVector2](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fvector2/)
 * assembly [Aspose.3D](../../../)
 
 

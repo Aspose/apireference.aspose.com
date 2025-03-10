@@ -18,7 +18,7 @@ public Vector2 OutTangent { get; set; }
 
 * struct [Vector2](../../../aspose.threed.utilities/vector2/)
 * class [KeyFrame](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../keyframe/)
 * assembly [Aspose.3D](../../../)
 
 

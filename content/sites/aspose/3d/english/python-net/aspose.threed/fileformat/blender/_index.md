@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.threed/fileformat/blender/
+url: /python-net/aspose.threed/fileformat/blender/
 is_root: false
 ---
 
@@ -12,6 +12,10 @@ is_root: false
 
 
 Blender's 3D file format
+### Definition:
+```python
+f BLENDER 
+```
 
 ### See Also
 * module [`aspose.threed`](../../)

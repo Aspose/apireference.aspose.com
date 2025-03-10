@@ -17,7 +17,7 @@ public ArbitraryProfile()
 ### See Also
 
 * class [ArbitraryProfile](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../arbitraryprofile/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -38,7 +38,7 @@ public ArbitraryProfile(Curve curve)
 
 * class [Curve](../../../aspose.threed.entities/curve/)
 * class [ArbitraryProfile](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../arbitraryprofile/)
 * assembly [Aspose.3D](../../../)
 
 

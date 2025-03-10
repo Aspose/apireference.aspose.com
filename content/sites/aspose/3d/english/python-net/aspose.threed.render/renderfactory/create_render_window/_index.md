@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.threed.render/renderfactory/create_render_window/
+url: /python-net/aspose.threed.render/renderfactory/create_render_window/
 is_root: false
 ---
 
-## create_render_window {#aspose.threed.render.RenderParameters-aspose.threed.render.WindowHandle}
+## create_render_window(self, parameters, handle) {#aspose.threed.render.RenderParameters-aspose.threed.render.WindowHandle}
 
 Create a render target that renders to the native window.
 
@@ -20,6 +20,7 @@ Create a render target that renders to the native window.
 
 
 ```python
+
 def create_render_window(self, parameters, handle):
     ...
 ```

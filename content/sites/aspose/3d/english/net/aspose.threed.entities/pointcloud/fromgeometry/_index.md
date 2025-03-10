@@ -22,7 +22,7 @@ public static PointCloud FromGeometry(Geometry g)
 
 * class [Geometry](../../geometry/)
 * class [PointCloud](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../pointcloud/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -44,7 +44,7 @@ public static PointCloud FromGeometry(Geometry g, int density)
 
 * class [Geometry](../../geometry/)
 * class [PointCloud](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../pointcloud/)
 * assembly [Aspose.3D](../../../)
 
 

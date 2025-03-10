@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 210
-url: /aspose.threed.profiles/ushape/web_thickness/
+url: /python-net/aspose.threed.profiles/ushape/web_thickness/
 is_root: false
 ---
 

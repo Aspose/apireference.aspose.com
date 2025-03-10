@@ -18,7 +18,7 @@ public static Mesh DoBoolean(BooleanOperation op, Mesh a, Matrix4? transformA, M
 * enum [BooleanOperation](../../booleanoperation/)
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
 
 

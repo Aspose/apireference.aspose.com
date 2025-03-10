@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.threed.entities/patch/get_element/
+url: /python-net/aspose.threed.entities/patch/get_element/
 is_root: false
 ---
 
-## get_element {#aspose.threed.entities.VertexElementType}
+## get_element(self, type) {#aspose.threed.entities.VertexElementType}
 
 Gets a vertex element with specified type
 
@@ -20,6 +20,7 @@ Gets a vertex element with specified type
 
 
 ```python
+
 def get_element(self, type):
     ...
 ```

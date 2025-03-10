@@ -17,7 +17,7 @@ public VertexElementPolygonGroup()
 ### See Also
 
 * class [VertexElementPolygonGroup](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementpolygongroup/)
 * assembly [Aspose.3D](../../../)
 
 

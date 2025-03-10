@@ -3,7 +3,7 @@ title: ShaderTechnique
 second_title: Aspose.3D for Java API Reference
 description: A shader technique represents a concrete rendering implementation.
 type: docs
-weight: 160
+weight: 165
 url: /java/com.aspose.threed/shadertechnique/
 ---
 

@@ -18,7 +18,7 @@ public ComposeOrder ComposeOrder { get; set; }
 
 * enum [ComposeOrder](../../composeorder/)
 * class [TransformBuilder](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder/)
 * assembly [Aspose.3D](../../../)
 
 

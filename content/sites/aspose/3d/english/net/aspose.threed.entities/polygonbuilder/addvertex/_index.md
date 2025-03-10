@@ -21,7 +21,7 @@ public void AddVertex(int index)
 ### See Also
 
 * class [PolygonBuilder](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonbuilder/)
 * assembly [Aspose.3D](../../../)
 
 

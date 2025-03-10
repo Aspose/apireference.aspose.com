@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.threed/scene/__init__/
+url: /python-net/aspose.threed/scene/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## __init__(self) {#}
 
 Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.threed.Entity}
+## __init__(self, entity) {#aspose.threed.Entity}
 
 Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class with an entity attached to a new node.
 
 
 
 ```python
+
 def __init__(self, entity):
     ...
 ```
@@ -52,13 +54,14 @@ scene = Scene(Box())
 ```
 
 
-## __init__ {#aspose.threed.Scene-str}
+## __init__(self, parent_scene, name) {#aspose.threed.Scene-str}
 
 Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class as a sub-scene.
 
 
 
 ```python
+
 def __init__(self, parent_scene, name):
     ...
 ```

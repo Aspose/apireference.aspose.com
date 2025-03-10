@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 180
-url: /aspose.threed.entities/mesh/
+url: /python-net/aspose.threed.entities/mesh/
 is_root: false
 ---
 
@@ -27,11 +27,11 @@ The Mesh type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.entities/mesh/__init__/#) | Initializes a new instance of the [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) class. |
-| [__init__](/3d/python-net/aspose.threed.entities/mesh/__init__/#aspose.threed.render.TextureData) | Construct a mesh using specified height map, <br/>if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)<br/>The control point's x and y components are normalized pixel coordinate. |
-| [__init__](/3d/python-net/aspose.threed.entities/mesh/__init__/#aspose.threed.render.TextureData-aspose.threed.utilities.Matrix4) | Construct a mesh using specified height map, <br/>if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)<br/>The control point's x and y components are normalized pixel coordinate. |
-| [__init__](/3d/python-net/aspose.threed.entities/mesh/__init__/#aspose.threed.render.TextureData-bool-aspose.threed.utilities.Matrix4) | Construct a mesh using specified height map, <br/>if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)<br/>The control point's x and y components are normalized pixel coordinate. |
-| [__init__](/3d/python-net/aspose.threed.entities/mesh/__init__/#str) | Initializes a new instance of the [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) class. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.entities/mesh/__init__/#) | Initializes a new instance of the [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) class. |
+| [`__init__(self, height_map)`](/3d/python-net/aspose.threed.entities/mesh/__init__/#aspose.threed.render.texturedata) | Construct a mesh using specified height map, <br/>if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)<br/>The control point's x and y components are normalized pixel coordinate. |
+| [`__init__(self, height_map, transform)`](/3d/python-net/aspose.threed.entities/mesh/__init__/#aspose.threed.render.texturedata-aspose.threed.utilities.matrix4) | Construct a mesh using specified height map, <br/>if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)<br/>The control point's x and y components are normalized pixel coordinate. |
+| [`__init__(self, height_map, tri_mesh, transform)`](/3d/python-net/aspose.threed.entities/mesh/__init__/#aspose.threed.render.texturedata-bool-aspose.threed.utilities.matrix4) | Construct a mesh using specified height map, <br/>if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)<br/>The control point's x and y components are normalized pixel coordinate. |
+| [`__init__(self, name)`](/3d/python-net/aspose.threed.entities/mesh/__init__/#str) | Initializes a new instance of the [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) class. |
 
 
 ### Properties
@@ -55,30 +55,30 @@ The Mesh type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property](/3d/python-net/aspose.threed.entities/mesh/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
-| [remove_property](/3d/python-net/aspose.threed.entities/mesh/remove_property/#str) | Remove the specified property identified by name |
-| [create_element](/3d/python-net/aspose.threed.entities/mesh/create_element/#aspose.threed.entities.VertexElementType) | Creates a vertex element with specified type and add it to the geometry. |
-| [create_element](/3d/python-net/aspose.threed.entities/mesh/create_element/#aspose.threed.entities.VertexElementType-aspose.threed.entities.MappingMode-aspose.threed.entities.ReferenceMode) | Creates a vertex element with specified type and add it to the geometry. |
-| [create_element_uv](/3d/python-net/aspose.threed.entities/mesh/create_element_uv/#aspose.threed.entities.TextureMapping) | Creates a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type. |
-| [create_element_uv](/3d/python-net/aspose.threed.entities/mesh/create_element_uv/#aspose.threed.entities.TextureMapping-aspose.threed.entities.MappingMode-aspose.threed.entities.ReferenceMode) | Creates a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type. |
-| [create_polygon](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#list-int-int) | Creates a new polygon with all vertices defined in `indices`.<br/>To create polygon vertex by vertex, please use [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder). |
-| [create_polygon](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#list) | Creates a new polygon with all vertices defined in `indices`.<br/>To create polygon vertex by vertex, please use [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder). |
-| [create_polygon](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#int-int-int-int) | Create a polygon with 4 vertices(quad) |
-| [create_polygon](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#int-int-int) | Create a polygon with 3 vertices(triangle) |
-| [optimize](/3d/python-net/aspose.threed.entities/mesh/optimize/#bool) | Optimize the mesh's memory usage by eliminating duplicated control points |
-| [optimize](/3d/python-net/aspose.threed.entities/mesh/optimize/#bool-float-float-float) | Optimize the mesh's memory usage by eliminating duplicated control points |
-| [get_property](/3d/python-net/aspose.threed.entities/mesh/get_property/#str) | Get the value of specified property |
-| [set_property](/3d/python-net/aspose.threed.entities/mesh/set_property/#str-any) | Sets the value of specified property |
-| [find_property](/3d/python-net/aspose.threed.entities/mesh/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_bounding_box](/3d/python-net/aspose.threed.entities/mesh/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
-| [get_entity_renderer_key](/3d/python-net/aspose.threed.entities/mesh/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [get_element](/3d/python-net/aspose.threed.entities/mesh/get_element/#aspose.threed.entities.VertexElementType) | Gets a vertex element with specified type |
-| [get_vertex_element_of_uv](/3d/python-net/aspose.threed.entities/mesh/get_vertex_element_of_uv/#aspose.threed.entities.TextureMapping) | Gets a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) instance with given texture mapping type |
-| [add_element](/3d/python-net/aspose.threed.entities/mesh/add_element/#aspose.threed.entities.VertexElement) | Adds an existing vertex element to current geometry |
-| [get_polygon_size](/3d/python-net/aspose.threed.entities/mesh/get_polygon_size/#int) | Gets the vertex count of the specified polygon. |
-| [to_mesh](/3d/python-net/aspose.threed.entities/mesh/to_mesh/#) | Gets the Mesh instance from current entity. |
-| [do_boolean](/3d/python-net/aspose.threed.entities/mesh/do_boolean/#aspose.threed.entities.BooleanOperation-aspose.threed.entities.Mesh-Nullable<Aspose.ThreeD.Utilities.Matrix4>-aspose.threed.entities.Mesh-Nullable<Aspose.ThreeD.Utilities.Matrix4>) |  |
-| [triangulate](/3d/python-net/aspose.threed.entities/mesh/triangulate/#) | Return triangulated mesh |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/mesh/remove_property/#aspose.threed.property) | Removes a dynamic property. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/mesh/remove_property/#str) | Remove the specified property identified by name |
+| [`create_element(self, type)`](/3d/python-net/aspose.threed.entities/mesh/create_element/#aspose.threed.entities.vertexelementtype) | Creates a vertex element with specified type and add it to the geometry. |
+| [`create_element(self, type, mapping_mode, reference_mode)`](/3d/python-net/aspose.threed.entities/mesh/create_element/#aspose.threed.entities.vertexelementtype-aspose.threed.entities.mappingmode-aspose.threed.entities.referencemode) | Creates a vertex element with specified type and add it to the geometry. |
+| [`create_element_uv(self, uv_mapping)`](/3d/python-net/aspose.threed.entities/mesh/create_element_uv/#aspose.threed.entities.texturemapping) | Creates a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type. |
+| [`create_element_uv(self, uv_mapping, mapping_mode, reference_mode)`](/3d/python-net/aspose.threed.entities/mesh/create_element_uv/#aspose.threed.entities.texturemapping-aspose.threed.entities.mappingmode-aspose.threed.entities.referencemode) | Creates a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type. |
+| [`create_polygon(self, indices, offset, length)`](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#list-int-int) | Creates a new polygon with all vertices defined in `indices`.<br/>To create polygon vertex by vertex, please use [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder). |
+| [`create_polygon(self, indices)`](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#list) | Creates a new polygon with all vertices defined in `indices`.<br/>To create polygon vertex by vertex, please use [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder). |
+| [`create_polygon(self, v1, v2, v3, v4)`](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#int-int-int-int) | Create a polygon with 4 vertices(quad) |
+| [`create_polygon(self, v1, v2, v3)`](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#int-int-int) | Create a polygon with 3 vertices(triangle) |
+| [`optimize(self, vertex_elements)`](/3d/python-net/aspose.threed.entities/mesh/optimize/#bool) | Optimize the mesh's memory usage by eliminating duplicated control points |
+| [`optimize(self, vertex_elements, tolerance_control_point, tolerance_normal, tolerance_uv)`](/3d/python-net/aspose.threed.entities/mesh/optimize/#bool-float-float-float) | Optimize the mesh's memory usage by eliminating duplicated control points |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/mesh/get_property/#str) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/mesh/set_property/#str-any) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/mesh/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_bounding_box(self)`](/3d/python-net/aspose.threed.entities/mesh/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
+| [`get_entity_renderer_key(self)`](/3d/python-net/aspose.threed.entities/mesh/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
+| [`get_element(self, type)`](/3d/python-net/aspose.threed.entities/mesh/get_element/#aspose.threed.entities.vertexelementtype) | Gets a vertex element with specified type |
+| [`get_vertex_element_of_uv(self, texture_mapping)`](/3d/python-net/aspose.threed.entities/mesh/get_vertex_element_of_uv/#aspose.threed.entities.texturemapping) | Gets a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) instance with given texture mapping type |
+| [`add_element(self, element)`](/3d/python-net/aspose.threed.entities/mesh/add_element/#aspose.threed.entities.vertexelement) | Adds an existing vertex element to current geometry |
+| [`get_polygon_size(self, index)`](/3d/python-net/aspose.threed.entities/mesh/get_polygon_size/#int) | Gets the vertex count of the specified polygon. |
+| [`to_mesh(self)`](/3d/python-net/aspose.threed.entities/mesh/to_mesh/#) | Gets the Mesh instance from current entity. |
+| [`do_boolean(, op, a, transform_a, b, transform_b)`](/3d/python-net/aspose.threed.entities/mesh/do_boolean/#aspose.threed.entities.booleanoperation-aspose.threed.entities.mesh-nullable<aspose.threed.utilities.matrix4>-aspose.threed.entities.mesh-nullable<aspose.threed.utilities.matrix4>) |  |
+| [`triangulate(self)`](/3d/python-net/aspose.threed.entities/mesh/triangulate/#) | Return triangulated mesh |
 
 
 

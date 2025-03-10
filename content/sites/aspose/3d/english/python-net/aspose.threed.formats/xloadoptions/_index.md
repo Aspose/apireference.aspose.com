@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 350
-url: /aspose.threed.formats/xloadoptions/
+url: /python-net/aspose.threed.formats/xloadoptions/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The XLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/xloadoptions/__init__/#aspose.threed.FileContentType) | Constructor of [`XLoadOptions`](/3d/python-net/aspose.threed.formats/xloadoptions) |
+| [`__init__(self, content_type)`](/3d/python-net/aspose.threed.formats/xloadoptions/__init__/#aspose.threed.filecontenttype) | Constructor of [`XLoadOptions`](/3d/python-net/aspose.threed.formats/xloadoptions) |
 
 
 ### Properties

@@ -14,7 +14,7 @@ Gets or sets to show the node
 public bool Visible { get; set; }
 ```
 
-### Examples
+## Examples
 
 The following code shows how to create a invisible node
 
@@ -28,7 +28,7 @@ scene.Save("output.fbx");
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -16,7 +16,7 @@ public void LoadFromFiles(CubeFaceData<string> fileNames)
 
 * struct [CubeFaceData&lt;T&gt;](../../cubefacedata-1/)
 * interface [ITextureCubemap](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexturecubemap/)
 * assembly [Aspose.3D](../../../)
 
 

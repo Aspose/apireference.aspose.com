@@ -22,7 +22,7 @@ The mesh.
 
 * class [Mesh](../../mesh/)
 * class [SweptAreaSolid](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../sweptareasolid/)
 * assembly [Aspose.3D](../../../)
 
 

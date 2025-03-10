@@ -3,7 +3,7 @@ title: Plane
 second_title: Aspose.3D for Java API Reference
 description: Parameterized plane.
 type: docs
-weight: 119
+weight: 124
 url: /java/com.aspose.threed/plane/
 ---
 

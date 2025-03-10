@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.entities/camera/move_forward/
+url: /python-net/aspose.threed.entities/camera/move_forward/
 is_root: false
 ---
 
-## move_forward {#float}
+## move_forward(self, distance) {#float}
 
 Move camera forward towards its direction or target.
 
 
 
 ```python
+
 def move_forward(self, distance):
     ...
 ```

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.threed.formats/jtloadoptions/load_pmi/
+url: /python-net/aspose.threed.formats/jtloadoptions/load_pmi/
 is_root: false
 ---
 

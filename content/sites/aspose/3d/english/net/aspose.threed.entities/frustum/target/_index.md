@@ -18,7 +18,7 @@ public Node Target { get; set; }
 
 * class [Node](../../../aspose.threed/node/)
 * class [Frustum](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../frustum/)
 * assembly [Aspose.3D](../../../)
 
 

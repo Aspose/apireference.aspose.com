@@ -18,7 +18,7 @@ public VertexFieldDataType DataType { get; }
 
 * enum [VertexFieldDataType](../../vertexfielddatatype/)
 * class [VertexField](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vertexfield/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 690
-url: /aspose.threed.formats/microsoft3mfformat/version/
+url: /python-net/aspose.threed.formats/microsoft3mfformat/version/
 is_root: false
 ---
 

@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.render/itexture2d/save/
+url: /python-net/aspose.threed.render/itexture2d/save/
 is_root: false
 ---
 
-## save {#aspose.threed.render.TextureData}
+## save(self, bitmap) {#aspose.threed.render.TextureData}
 
 Save the texture content to external file.
 
 
 
 ```python
+
 def save(self, bitmap):
     ...
 ```
@@ -25,13 +26,14 @@ def save(self, bitmap):
 | bitmap | [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) | Result bitmap to save. |
 
 
-## save {#str-str}
+## save(self, path, format) {#str-str}
 
 Save the texture content to external file.
 
 
 
 ```python
+
 def save(self, path, format):
     ...
 ```

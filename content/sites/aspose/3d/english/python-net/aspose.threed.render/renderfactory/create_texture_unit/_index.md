@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.threed.render/renderfactory/create_texture_unit/
+url: /python-net/aspose.threed.render/renderfactory/create_texture_unit/
 is_root: false
 ---
 
-## create_texture_unit {#}
+## create_texture_unit(self) {#}
 
 Create a 2D texture unit that can be accessed by shader.
 
@@ -20,6 +20,7 @@ Create a 2D texture unit that can be accessed by shader.
 
 
 ```python
+
 def create_texture_unit(self):
     ...
 ```
@@ -27,7 +28,7 @@ def create_texture_unit(self):
 
 
 
-## create_texture_unit {#aspose.threed.render.TextureType}
+## create_texture_unit(self, texture_type) {#aspose.threed.render.TextureType}
 
 Create a texture unit that can be accessed by shader.
 
@@ -39,6 +40,7 @@ Create a texture unit that can be accessed by shader.
 
 
 ```python
+
 def create_texture_unit(self, texture_type):
     ...
 ```

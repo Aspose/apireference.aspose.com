@@ -24,7 +24,7 @@ public class GlobalTransform
 | [TransformMatrix](../../aspose.threed/globaltransform/transformmatrix/) { get; } | Gets the transform matrix. |
 | [Translation](../../aspose.threed/globaltransform/translation/) { get; } | Gets the translation |
 
-### Examples
+## Examples
 
 The following code shows how to read node's global transform
 

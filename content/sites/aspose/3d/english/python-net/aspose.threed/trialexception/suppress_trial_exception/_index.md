@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed/trialexception/suppress_trial_exception/
+url: /python-net/aspose.threed/trialexception/suppress_trial_exception/
 is_root: false
 ---
 
@@ -19,8 +19,8 @@ And sets this to true also means you're aware of the unlicensed restrictions.
 @property
 def suppress_trial_exception(self):
     ...
-@suppress_trial_exception.setter
-def suppress_trial_exception(self, value):
+@staticmethod
+def set_suppress_trial_exception(value):
     ...
 ```
 

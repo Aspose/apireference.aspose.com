@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.render/irenderwindow/create_viewport/
+url: /python-net/aspose.threed.render/irenderwindow/create_viewport/
 is_root: false
 ---
 
-## create_viewport {#aspose.threed.entities.Camera}
+## create_viewport(self, camera) {#aspose.threed.entities.Camera}
 
 Create a viewport in specified camera perspective.
 
@@ -20,6 +20,7 @@ Create a viewport in specified camera perspective.
 
 
 ```python
+
 def create_viewport(self, camera):
     ...
 ```
@@ -30,7 +31,7 @@ def create_viewport(self, camera):
 | camera | aspose.threed.entities.Camera | The camera |
 
 
-## create_viewport {#aspose.threed.entities.Camera-aspose.threed.utilities.RelativeRectangle}
+## create_viewport(self, camera, rect) {#aspose.threed.entities.Camera-aspose.threed.utilities.RelativeRectangle}
 
 Create a viewport with position/size in specified camera perspective.
 
@@ -42,6 +43,7 @@ Create a viewport with position/size in specified camera perspective.
 
 
 ```python
+
 def create_viewport(self, camera, rect):
     ...
 ```
@@ -53,7 +55,7 @@ def create_viewport(self, camera, rect):
 | rect | aspose.threed.utilities.RelativeRectangle | Position and size of the viewport |
 
 
-## create_viewport {#aspose.threed.entities.Camera-aspose.threed.utilities.Vector3-aspose.threed.utilities.RelativeRectangle}
+## create_viewport(self, camera, background_color, rect) {#aspose.threed.entities.Camera-aspose.threed.utilities.Vector3-aspose.threed.utilities.RelativeRectangle}
 
 Create a viewport with specified background color and position/size in specified camera perspective.
 
@@ -65,6 +67,7 @@ Create a viewport with specified background color and position/size in specified
 
 
 ```python
+
 def create_viewport(self, camera, background_color, rect):
     ...
 ```

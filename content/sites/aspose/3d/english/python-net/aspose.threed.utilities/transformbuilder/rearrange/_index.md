@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.threed.utilities/transformbuilder/rearrange/
+url: /python-net/aspose.threed.utilities/transformbuilder/rearrange/
 is_root: false
 ---
 
-## rearrange {#aspose.threed.Axis-aspose.threed.Axis-aspose.threed.Axis}
+## rearrange(self, new_x, new_y, new_z) {#aspose.threed.Axis-aspose.threed.Axis-aspose.threed.Axis}
 
 Rearrange the layout of the axis.
 
 
 
 ```python
+
 def rearrange(self, new_x, new_y, new_z):
     ...
 ```

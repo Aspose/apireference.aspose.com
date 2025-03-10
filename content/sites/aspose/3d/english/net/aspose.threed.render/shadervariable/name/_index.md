@@ -17,7 +17,7 @@ public string Name { get; }
 ### See Also
 
 * class [ShaderVariable](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../shadervariable/)
 * assembly [Aspose.3D](../../../)
 
 

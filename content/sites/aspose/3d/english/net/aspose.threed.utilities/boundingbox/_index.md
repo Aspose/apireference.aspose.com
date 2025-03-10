@@ -51,7 +51,7 @@ public struct BoundingBox
 | override [ToString](../../aspose.threed.utilities/boundingbox/tostring/)() | Gets the string representation of the bounding box. |
 | [operator *](../../aspose.threed.utilities/boundingbox/op_multiply/) | Operator overloading for multiply, new bounding box's minimum and maximum corner will be transformed by the matrix. |
 
-### Examples
+## Examples
 
 The following code shows how to get a bounding box from an Entity instance.
 

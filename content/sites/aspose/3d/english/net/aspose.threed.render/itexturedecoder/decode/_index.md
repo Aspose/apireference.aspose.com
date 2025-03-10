@@ -33,7 +33,7 @@ Decoded texture data or null if not supported.
 
 * class [TextureData](../../texturedata/)
 * interface [ITextureDecoder](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexturedecoder/)
 * assembly [Aspose.3D](../../../)
 
 

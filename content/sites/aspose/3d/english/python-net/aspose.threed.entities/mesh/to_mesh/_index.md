@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /aspose.threed.entities/mesh/to_mesh/
+url: /python-net/aspose.threed.entities/mesh/to_mesh/
 is_root: false
 ---
 
-## to_mesh {#}
+## to_mesh(self) {#}
 
 Gets the Mesh instance from current entity.
 
@@ -20,6 +20,7 @@ Returns current instance.
 
 
 ```python
+
 def to_mesh(self):
     ...
 ```

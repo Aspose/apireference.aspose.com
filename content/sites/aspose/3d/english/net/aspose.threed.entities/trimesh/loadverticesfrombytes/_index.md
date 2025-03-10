@@ -25,7 +25,7 @@ public void LoadVerticesFromBytes(byte[] verticesInBytes)
 | ArgumentNullException |  |
 | ArgumentException |  |
 
-### Examples
+## Examples
 
 The following code shows how to create an empty TriMesh and manually load vertices from raw bytes.
 
@@ -76,7 +76,7 @@ triMesh.addTriangle(0, 1, 2);
 ### See Also
 
 * class [TriMesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../trimesh/)
 * assembly [Aspose.3D](../../../)
 
 

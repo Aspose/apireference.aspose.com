@@ -22,7 +22,7 @@ public static Line FromPoints(params Vector3[] points)
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [Line](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../line/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -17,7 +17,7 @@ public object Data { get; set; }
 ### See Also
 
 * class [VertexElementUserData](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementuserdata/)
 * assembly [Aspose.3D](../../../)
 
 

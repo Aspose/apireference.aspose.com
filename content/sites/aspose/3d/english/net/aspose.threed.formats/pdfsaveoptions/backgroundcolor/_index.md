@@ -18,7 +18,7 @@ public Vector3 BackgroundColor { get; set; }
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [PdfSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../pdfsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

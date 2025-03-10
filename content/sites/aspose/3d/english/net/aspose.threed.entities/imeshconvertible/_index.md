@@ -24,6 +24,5 @@ public interface IMeshConvertible
 
 * namespace [Aspose.ThreeD.Entities](../../aspose.threed.entities/)
 * assembly [Aspose.3D](../../)
-* [Tutorial - Create a torus](https://products.aspose.com/3d/tutorial/convert-torus-primitive-mesh/)
 
 

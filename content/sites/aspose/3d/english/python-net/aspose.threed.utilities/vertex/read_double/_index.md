@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.utilities/vertex/read_double/
+url: /python-net/aspose.threed.utilities/vertex/read_double/
 is_root: false
 ---
 
-## read_double {#aspose.threed.utilities.VertexField}
+## read_double(self, field) {#aspose.threed.utilities.VertexField}
 
 Read the double field
 
@@ -20,6 +20,7 @@ Read the double field
 
 
 ```python
+
 def read_double(self, field):
     ...
 ```

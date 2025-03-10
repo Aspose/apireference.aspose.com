@@ -3,7 +3,7 @@ title: PostProcessing
 second_title: Aspose.3D for Java API Reference
 description: The post-processing effects
 type: docs
-weight: 127
+weight: 132
 url: /java/com.aspose.threed/postprocessing/
 ---
 

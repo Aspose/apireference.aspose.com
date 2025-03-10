@@ -4,17 +4,23 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.utilities/matrix4/decompose/
+url: /python-net/aspose.threed.utilities/matrix4/decompose/
 is_root: false
 ---
 
-## decompose {#any-any-any}
+## decompose(self, translation, scaling, rotation) {#any-any-any}
+
+Decompose the transformation matrix.
 
 
+### Returns 
 
+
+True if successed.
 
 
 ```python
+
 def decompose(self, translation, scaling, rotation):
     ...
 ```
@@ -22,9 +28,9 @@ def decompose(self, translation, scaling, rotation):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| translation | any |  |
-| scaling | any |  |
-| rotation | any |  |
+| translation | any | The translation. |
+| scaling | any | The scaling. |
+| rotation | any | The rotation. |
 
 
 

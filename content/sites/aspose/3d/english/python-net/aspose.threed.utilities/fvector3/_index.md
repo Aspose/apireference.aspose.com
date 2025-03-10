@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.threed.utilities/fvector3/
+url: /python-net/aspose.threed.utilities/fvector3/
 is_root: false
 ---
 
@@ -19,10 +19,10 @@ The FVector3 type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#float-float-float) | Initializes a new instance of the [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3). |
-| [__init__](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#aspose.threed.utilities.Vector3) | Initializes a new instance of the [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3). |
-| [__init__](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#aspose.threed.utilities.Vector4) | Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4). |
-| [__init__](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#) | Constructs a new instance of FVector3 |
+| [`__init__(self, x, y, z)`](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#float-float-float) | Initializes a new instance of the [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3). |
+| [`__init__(self, vec)`](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#aspose.threed.utilities.vector3) | Initializes a new instance of the [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3). |
+| [`__init__(self, vec)`](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#aspose.threed.utilities.vector4) | Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4). |
+| [`__init__(self)`](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#) | Constructs a new instance of FVector3 |
 
 
 ### Properties
@@ -38,8 +38,8 @@ The FVector3 type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [normalize](/3d/python-net/aspose.threed.utilities/fvector3/normalize/#) | Normalizes this instance. |
-| [cross](/3d/python-net/aspose.threed.utilities/fvector3/cross/#aspose.threed.utilities.FVector3) | Cross product of two vectors |
+| [`normalize(self)`](/3d/python-net/aspose.threed.utilities/fvector3/normalize/#) | Normalizes this instance. |
+| [`cross(self, rhs)`](/3d/python-net/aspose.threed.utilities/fvector3/cross/#aspose.threed.utilities.fvector3) | Cross product of two vectors |
 
 
 

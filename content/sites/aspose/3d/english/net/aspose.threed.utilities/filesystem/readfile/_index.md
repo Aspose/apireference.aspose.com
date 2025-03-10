@@ -33,7 +33,7 @@ Stream for reading the file.
 
 * class [IOConfig](../../../aspose.threed.formats/ioconfig/)
 * class [FileSystem](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../filesystem/)
 * assembly [Aspose.3D](../../../)
 
 

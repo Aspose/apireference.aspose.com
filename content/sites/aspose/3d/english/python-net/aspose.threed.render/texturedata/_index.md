@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 410
-url: /aspose.threed.render/texturedata/
+url: /python-net/aspose.threed.render/texturedata/
 is_root: false
 ---
 
@@ -24,9 +24,9 @@ The TextureData type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.render/texturedata/__init__/#int-int-int-int-aspose.threed.render.PixelFormat-bytes) | Constructor of [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) |
-| [__init__](/3d/python-net/aspose.threed.render/texturedata/__init__/#int-int-aspose.threed.render.PixelFormat) | Constructs a new [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) and allocate pixel data. |
-| [__init__](/3d/python-net/aspose.threed.render/texturedata/__init__/#) | Constructor of [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) |
+| [`__init__(self, width, height, stride, bytes_per_pixel, pixel_format, data)`](/3d/python-net/aspose.threed.render/texturedata/__init__/#int-int-int-int-aspose.threed.render.pixelformat-bytes) | Constructor of [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) |
+| [`__init__(self, width, height, pixel_format)`](/3d/python-net/aspose.threed.render/texturedata/__init__/#int-int-aspose.threed.render.pixelformat) | Constructs a new [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) and allocate pixel data. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.render/texturedata/__init__/#) | Constructor of [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) |
 
 
 ### Properties
@@ -45,20 +45,20 @@ The TextureData type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property](/3d/python-net/aspose.threed.render/texturedata/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
-| [remove_property](/3d/python-net/aspose.threed.render/texturedata/remove_property/#str) | Remove the specified property identified by name |
-| [save](/3d/python-net/aspose.threed.render/texturedata/save/#io.RawIOBase-str) | Save texture data into specified image format |
-| [save](/3d/python-net/aspose.threed.render/texturedata/save/#str) | Save texture data into image file |
-| [save](/3d/python-net/aspose.threed.render/texturedata/save/#str-str) | Save texture data into image file |
-| [map_pixels](/3d/python-net/aspose.threed.render/texturedata/map_pixels/#aspose.threed.render.PixelMapMode) | Map all pixels for read/write |
-| [map_pixels](/3d/python-net/aspose.threed.render/texturedata/map_pixels/#aspose.threed.render.PixelMapMode-aspose.threed.render.PixelFormat) | Map all pixels for read/write in given pixel format |
-| [map_pixels](/3d/python-net/aspose.threed.render/texturedata/map_pixels/#aspose.threed.utilities.Rect-aspose.threed.render.PixelMapMode-aspose.threed.render.PixelFormat) | Map pixels addressed by rect for reading/writing in given pixel format |
-| [get_property](/3d/python-net/aspose.threed.render/texturedata/get_property/#str) | Get the value of specified property |
-| [set_property](/3d/python-net/aspose.threed.render/texturedata/set_property/#str-any) | Sets the value of specified property |
-| [find_property](/3d/python-net/aspose.threed.render/texturedata/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [from_stream](/3d/python-net/aspose.threed.render/texturedata/from_stream/#io.RawIOBase) | Load a texture from stream |
-| [from_file](/3d/python-net/aspose.threed.render/texturedata/from_file/#str) | Load a texture from file |
-| [transform_pixel_format](/3d/python-net/aspose.threed.render/texturedata/transform_pixel_format/#aspose.threed.render.PixelFormat) | Transform pixel's layout to new pixel format. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.render/texturedata/remove_property/#aspose.threed.property) | Removes a dynamic property. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.render/texturedata/remove_property/#str) | Remove the specified property identified by name |
+| [`save(self, stream, format)`](/3d/python-net/aspose.threed.render/texturedata/save/#io.rawiobase-str) | Save texture data into specified image format |
+| [`save(self, file_name)`](/3d/python-net/aspose.threed.render/texturedata/save/#str) | Save texture data into image file |
+| [`save(self, file_name, format)`](/3d/python-net/aspose.threed.render/texturedata/save/#str-str) | Save texture data into image file |
+| [`map_pixels(self, map_mode)`](/3d/python-net/aspose.threed.render/texturedata/map_pixels/#aspose.threed.render.pixelmapmode) | Map all pixels for read/write |
+| [`map_pixels(self, map_mode, format)`](/3d/python-net/aspose.threed.render/texturedata/map_pixels/#aspose.threed.render.pixelmapmode-aspose.threed.render.pixelformat) | Map all pixels for read/write in given pixel format |
+| [`map_pixels(self, rect, map_mode, format)`](/3d/python-net/aspose.threed.render/texturedata/map_pixels/#aspose.threed.utilities.rect-aspose.threed.render.pixelmapmode-aspose.threed.render.pixelformat) | Map pixels addressed by rect for reading/writing in given pixel format |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.render/texturedata/get_property/#str) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.render/texturedata/set_property/#str-any) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.render/texturedata/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`from_stream(, stream)`](/3d/python-net/aspose.threed.render/texturedata/from_stream/#io.rawiobase) | Load a texture from stream |
+| [`from_file(, file_name)`](/3d/python-net/aspose.threed.render/texturedata/from_file/#str) | Load a texture from file |
+| [`transform_pixel_format(self, pixel_format)`](/3d/python-net/aspose.threed.render/texturedata/transform_pixel_format/#aspose.threed.render.pixelformat) | Transform pixel's layout to new pixel format. |
 
 
 

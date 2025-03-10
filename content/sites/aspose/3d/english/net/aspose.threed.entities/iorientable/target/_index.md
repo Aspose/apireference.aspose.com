@@ -18,7 +18,7 @@ public Node Target { get; set; }
 
 * class [Node](../../../aspose.threed/node/)
 * interface [IOrientable](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../iorientable/)
 * assembly [Aspose.3D](../../../)
 
 

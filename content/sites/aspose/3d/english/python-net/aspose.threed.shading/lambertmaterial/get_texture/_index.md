@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.shading/lambertmaterial/get_texture/
+url: /python-net/aspose.threed.shading/lambertmaterial/get_texture/
 is_root: false
 ---
 
-## get_texture {#str}
+## get_texture(self, slot_name) {#str}
 
 Gets the texture from the specified slot, it can be material's property name or shader's parameter name
 
@@ -20,6 +20,7 @@ The texture.
 
 
 ```python
+
 def get_texture(self, slot_name):
     ...
 ```

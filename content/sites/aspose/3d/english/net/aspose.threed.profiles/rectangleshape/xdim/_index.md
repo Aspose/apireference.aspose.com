@@ -17,7 +17,7 @@ public double XDim { get; set; }
 ### See Also
 
 * class [RectangleShape](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../rectangleshape/)
 * assembly [Aspose.3D](../../../)
 
 

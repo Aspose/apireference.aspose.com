@@ -17,7 +17,7 @@ public Metered()
 ### See Also
 
 * class [Metered](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../metered/)
 * assembly [Aspose.3D](../../../)
 
 

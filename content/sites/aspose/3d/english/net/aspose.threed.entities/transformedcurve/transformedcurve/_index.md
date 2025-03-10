@@ -17,7 +17,7 @@ public TransformedCurve()
 ### See Also
 
 * class [TransformedCurve](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../transformedcurve/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -35,7 +35,7 @@ public TransformedCurve(Curve basisCurve, Matrix4 transformation)
 * class [Curve](../../curve/)
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [TransformedCurve](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../transformedcurve/)
 * assembly [Aspose.3D](../../../)
 
 

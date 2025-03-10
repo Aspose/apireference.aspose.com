@@ -29,7 +29,7 @@ The [`FileFormat`](../) instance of the detected type or null if failed.
 | --- | --- |
 | IOException | Exception thrown when failed to read data. |
 
-### Examples
+## Examples
 
 ```csharp
 byte[] bytes = new byte[100];//take the bytes from your source
@@ -40,7 +40,7 @@ Console.WriteLine($"Input data format: {fmt}");
 ### See Also
 
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -67,7 +67,7 @@ The [`FileFormat`](../) instance of the detected type or null if failed.
 | --- | --- |
 | IOException | Exception thrown when failed to read data. |
 
-### Examples
+## Examples
 
 ```csharp
 var fmt = FileFormat.Detect("input.fbx");
@@ -77,7 +77,7 @@ Console.WriteLine($"Input file format: {fmt}");
 ### See Also
 
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 

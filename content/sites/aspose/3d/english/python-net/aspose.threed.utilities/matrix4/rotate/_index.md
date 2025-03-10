@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.utilities/matrix4/rotate/
+url: /python-net/aspose.threed.utilities/matrix4/rotate/
 is_root: false
 ---
 
-## rotate {#aspose.threed.utilities.Quaternion}
+## rotate(, q) {#aspose.threed.utilities.Quaternion}
 
 Create a rotation matrix from a quaternion
 
@@ -20,7 +20,9 @@ Create a rotation matrix from a quaternion
 
 
 ```python
-def rotate(self, q):
+
+@staticmethod
+def rotate(q):
     ...
 ```
 
@@ -30,7 +32,7 @@ def rotate(self, q):
 | q | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) | Rotation quaternion |
 
 
-## rotate {#float-aspose.threed.utilities.Vector3}
+## rotate(, angle, axis) {#float-aspose.threed.utilities.Vector3}
 
 Create a rotation matrix by rotation angle and axis
 
@@ -42,7 +44,9 @@ Create a rotation matrix by rotation angle and axis
 
 
 ```python
-def rotate(self, angle, axis):
+
+@staticmethod
+def rotate(angle, axis):
     ...
 ```
 

@@ -22,7 +22,7 @@ The type of the skeleton.
 
 * enum [SkeletonType](../../skeletontype/)
 * class [Skeleton](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../skeleton/)
 * assembly [Aspose.3D](../../../)
 
 

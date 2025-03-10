@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.utilities/filesystem/create_local_file_system/
+url: /python-net/aspose.threed.utilities/filesystem/create_local_file_system/
 is_root: false
 ---
 
-## create_local_file_system {#str}
+## create_local_file_system(, directory) {#str}
 
 Initialize a new [`FileSystem`](/3d/python-net/aspose.threed.utilities/filesystem) that only access local directory.
 All file read/write on this FileSystem instance will be mapped to specified directory.
@@ -21,7 +21,9 @@ A new instance of file system to provide local file access
 
 
 ```python
-def create_local_file_system(self, directory):
+
+@staticmethod
+def create_local_file_system(directory):
     ...
 ```
 

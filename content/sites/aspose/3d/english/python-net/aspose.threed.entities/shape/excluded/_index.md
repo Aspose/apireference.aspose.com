@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /aspose.threed.entities/shape/excluded/
+url: /python-net/aspose.threed.entities/shape/excluded/
 is_root: false
 ---
 

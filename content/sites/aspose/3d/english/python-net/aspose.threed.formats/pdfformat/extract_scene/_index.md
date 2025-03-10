@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.formats/pdfformat/extract_scene/
+url: /python-net/aspose.threed.formats/pdfformat/extract_scene/
 is_root: false
 ---
 
-## extract_scene {#str}
+## extract_scene(self, file_name) {#str}
 
 Extract 3D scenes from PDF file.
 
@@ -20,6 +20,7 @@ List of decoded 3D scenes  that supported by Aspose.3D
 
 
 ```python
+
 def extract_scene(self, file_name):
     ...
 ```
@@ -44,7 +45,7 @@ for i in range(len(scenes)):
 ```
 
 
-## extract_scene {#str-bytes}
+## extract_scene(self, file_name, password) {#str-bytes}
 
 Extract 3D scenes from PDF file.
 
@@ -56,6 +57,7 @@ List of decoded 3D scenes  that supported by Aspose.3D
 
 
 ```python
+
 def extract_scene(self, file_name, password):
     ...
 ```
@@ -81,7 +83,7 @@ for i in range(len(scenes)):
 ```
 
 
-## extract_scene {#io.RawIOBase-bytes}
+## extract_scene(self, stream, password) {#io.RawIOBase-bytes}
 
 Extract raw 3D content from PDF stream.
 
@@ -93,6 +95,7 @@ List of decoded 3D scenes  that supported by Aspose.3D
 
 
 ```python
+
 def extract_scene(self, stream, password):
     ...
 ```

@@ -22,7 +22,7 @@ public void Load(TextureData bitmap)
 
 * class [TextureData](../../texturedata/)
 * interface [ITexture2D](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexture2d/)
 * assembly [Aspose.3D](../../../)
 
 

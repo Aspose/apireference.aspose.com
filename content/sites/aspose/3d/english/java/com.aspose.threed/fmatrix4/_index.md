@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/fmatrix4/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.csporter.helpers.Struct, java.io.Serializable
+com.aspose.threed.Struct, java.io.Serializable
 ```
 public final class FMatrix4 implements Struct<FMatrix4>, Serializable
 ```
@@ -264,7 +264,7 @@ public FMatrix4 clone()
 ```
 
 
-
+Clone current instance
 
 **Returns:**
 [FMatrix4](../../com.aspose.threed/fmatrix4)

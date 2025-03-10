@@ -25,6 +25,7 @@ public class FileFormat
 | [Extensions](../../aspose.threed/fileformat/extensions/) { get; } | Gets the extension names of this type. |
 | [FileFormatType](../../aspose.threed/fileformat/fileformattype/) { get; } | Gets file format type |
 | [Version](../../aspose.threed/fileformat/version/) { get; } | Gets file format version |
+| static [Formats](../../aspose.threed/fileformat/formats/) { get; } | Access to all supported formats |
 
 ## Methods
 

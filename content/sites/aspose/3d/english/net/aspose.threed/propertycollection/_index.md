@@ -36,6 +36,5 @@ public class PropertyCollection : IEnumerable<Property>
 * class [Property](../property/)
 * namespace [Aspose.ThreeD](../../aspose.threed/)
 * assembly [Aspose.3D](../../)
-* [Tutorial - Use custom properties](https://products.aspose.com/3d/tutorial/use-attribute-collections/)
 
 

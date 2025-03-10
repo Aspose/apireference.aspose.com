@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed/axissystem/from_asset_info/
+url: /python-net/aspose.threed/axissystem/from_asset_info/
 is_root: false
 ---
 
-## from_asset_info {#aspose.threed.AssetInfo}
+## from_asset_info(, asset_info) {#aspose.threed.AssetInfo}
 
 Create [`AxisSystem`](/3d/python-net/aspose.threed/axissystem) from [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo)
 
@@ -20,7 +20,9 @@ Axis system containg coordinate system, up, front from given asset info
 
 
 ```python
-def from_asset_info(self, asset_info):
+
+@staticmethod
+def from_asset_info(asset_info):
     ...
 ```
 

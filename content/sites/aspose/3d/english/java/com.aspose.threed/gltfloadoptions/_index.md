@@ -3,7 +3,7 @@ title: GltfLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: Load options for glTF format
 type: docs
-weight: 70
+weight: 71
 url: /java/com.aspose.threed/gltfloadoptions/
 ---
 

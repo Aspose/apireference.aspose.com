@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.threed.profiles/fontfile/
+url: /python-net/aspose.threed.profiles/fontfile/
 is_root: false
 ---
 
@@ -31,13 +31,13 @@ The FontFile type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property](/3d/python-net/aspose.threed.profiles/fontfile/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
-| [remove_property](/3d/python-net/aspose.threed.profiles/fontfile/remove_property/#str) | Remove the specified property identified by name |
-| [get_property](/3d/python-net/aspose.threed.profiles/fontfile/get_property/#str) | Get the value of specified property |
-| [set_property](/3d/python-net/aspose.threed.profiles/fontfile/set_property/#str-any) | Sets the value of specified property |
-| [find_property](/3d/python-net/aspose.threed.profiles/fontfile/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [from_file](/3d/python-net/aspose.threed.profiles/fontfile/from_file/#str) | Load FontFile from file name |
-| [parse](/3d/python-net/aspose.threed.profiles/fontfile/parse/#bytes) | Parse FontFile from bytes |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.profiles/fontfile/remove_property/#aspose.threed.property) | Removes a dynamic property. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.profiles/fontfile/remove_property/#str) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.profiles/fontfile/get_property/#str) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.profiles/fontfile/set_property/#str-any) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.profiles/fontfile/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`from_file(, file_name)`](/3d/python-net/aspose.threed.profiles/fontfile/from_file/#str) | Load FontFile from file name |
+| [`parse(, bytes)`](/3d/python-net/aspose.threed.profiles/fontfile/parse/#bytes) | Parse FontFile from bytes |
 
 
 

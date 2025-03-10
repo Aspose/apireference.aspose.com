@@ -22,7 +22,7 @@ The mesh.
 
 * class [Mesh](../../mesh/)
 * interface [IMeshConvertible](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../imeshconvertible/)
 * assembly [Aspose.3D](../../../)
 
 

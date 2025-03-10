@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.threed.entities/rectangulartorus/to_mesh/
+url: /python-net/aspose.threed.entities/rectangulartorus/to_mesh/
 is_root: false
 ---
 
-## to_mesh {#}
+## to_mesh(self) {#}
 
 Convert this primitive to [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
 
@@ -20,6 +20,7 @@ Convert this primitive to [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
 
 
 ```python
+
 def to_mesh(self):
     ...
 ```

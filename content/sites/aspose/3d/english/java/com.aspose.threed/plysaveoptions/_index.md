@@ -3,7 +3,7 @@ title: PlySaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for exporting scene as PLY file.
 type: docs
-weight: 122
+weight: 127
 url: /java/com.aspose.threed/plysaveoptions/
 ---
 
@@ -47,7 +47,7 @@ Save options for exporting scene as PLY file.
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setAxisSystem(AxisSystem value)](#setAxisSystem-com.aspose.threed.AxisSystem-) | Sets the axis system in the exported stl file. |
-| [setColorComponents(Tuple_3<String,String,String> value)](#setColorComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--) | The component names for vertex color, default value is ("red", "green", "blue") |
+| [setColorComponents(Tuple_3<String,String,String> value)](#setColorComponents-com.aspose.threed.Tuple-3-java.lang.String-java.lang.String-java.lang.String--) | The component names for vertex color, default value is ("red", "green", "blue") |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
 | [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
 | [setFaceElement(String value)](#setFaceElement-java.lang.String-) | The element name for the face data, default value is "face" |
@@ -57,10 +57,10 @@ Save options for exporting scene as PLY file.
 | [setFileSystemFactory(FileSystemFactory value)](#setFileSystemFactory-com.aspose.threed.FileSystemFactory-) | Sets the factory class for FileSystem. |
 | [setFlipCoordinate(boolean value)](#setFlipCoordinate-boolean-) | Flip the coordinate while saving the scene, default value is true |
 | [setLookupPaths(ArrayList<String> value)](#setLookupPaths-java.util.ArrayList-java.lang.String--) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
-| [setNormalComponents(Tuple_3<String,String,String> value)](#setNormalComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--) | The component names for normal data, default value is ("nx", "ny", "nz") |
+| [setNormalComponents(Tuple_3<String,String,String> value)](#setNormalComponents-com.aspose.threed.Tuple-3-java.lang.String-java.lang.String-java.lang.String--) | The component names for normal data, default value is ("nx", "ny", "nz") |
 | [setPointCloud(boolean value)](#setPointCloud-boolean-) | Export the scene as point cloud, the default value is false. |
-| [setPositionComponents(Tuple_3<String,String,String> value)](#setPositionComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--) | The component names for position data, default value is ("x", "y", "z") |
-| [setTextureCoordinateComponents(Tuple_2<String,String> value)](#setTextureCoordinateComponents-com.aspose.csporter.helpers.Tuple-2-java.lang.String-java.lang.String--) | The component names for texture coordinate data, default value is ("u", "v") |
+| [setPositionComponents(Tuple_3<String,String,String> value)](#setPositionComponents-com.aspose.threed.Tuple-3-java.lang.String-java.lang.String-java.lang.String--) | The component names for position data, default value is ("x", "y", "z") |
+| [setTextureCoordinateComponents(Tuple_2<String,String> value)](#setTextureCoordinateComponents-com.aspose.threed.Tuple-2-java.lang.String-java.lang.String--) | The component names for texture coordinate data, default value is ("u", "v") |
 | [setVertexElement(String value)](#setVertexElement-java.lang.String-) | The element name for the vertex data, default value is "vertex" |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
@@ -131,7 +131,7 @@ public Tuple_3<String,String,String> getColorComponents()
 The component names for vertex color, default value is ("red", "green", "blue")
 
 **Returns:**
-com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String> - The component names for vertex color, default value is ("red", "green", "blue")
+com.aspose.threed.Tuple_3<java.lang.String,java.lang.String,java.lang.String> - The component names for vertex color, default value is ("red", "green", "blue")
 ### getEncoding() {#getEncoding--}
 ```
 public Charset getEncoding()
@@ -292,7 +292,7 @@ public Tuple_3<String,String,String> getNormalComponents()
 The component names for normal data, default value is ("nx", "ny", "nz")
 
 **Returns:**
-com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String> - The component names for normal data, default value is ("nx", "ny", "nz")
+com.aspose.threed.Tuple_3<java.lang.String,java.lang.String,java.lang.String> - The component names for normal data, default value is ("nx", "ny", "nz")
 ### getPointCloud() {#getPointCloud--}
 ```
 public boolean getPointCloud()
@@ -312,7 +312,7 @@ public Tuple_3<String,String,String> getPositionComponents()
 The component names for position data, default value is ("x", "y", "z")
 
 **Returns:**
-com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String> - The component names for position data, default value is ("x", "y", "z")
+com.aspose.threed.Tuple_3<java.lang.String,java.lang.String,java.lang.String> - The component names for position data, default value is ("x", "y", "z")
 ### getTextureCoordinateComponents() {#getTextureCoordinateComponents--}
 ```
 public Tuple_2<String,String> getTextureCoordinateComponents()
@@ -322,7 +322,7 @@ public Tuple_2<String,String> getTextureCoordinateComponents()
 The component names for texture coordinate data, default value is ("u", "v")
 
 **Returns:**
-com.aspose.csporter.helpers.Tuple_2<java.lang.String,java.lang.String> - The component names for texture coordinate data, default value is ("u", "v")
+com.aspose.threed.Tuple_2<java.lang.String,java.lang.String> - The component names for texture coordinate data, default value is ("u", "v")
 ### getVertexElement() {#getVertexElement--}
 ```
 public String getVertexElement()
@@ -372,7 +372,7 @@ Sets the axis system in the exported stl file.
 | --- | --- | --- |
 | value | [AxisSystem](../../com.aspose.threed/axissystem) | New value **Remarks:** FlipCoordinateSystem must be enabled to utilize this feature. |
 
-### setColorComponents(Tuple_3<String,String,String> value) {#setColorComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--}
+### setColorComponents(Tuple_3<String,String,String> value) {#setColorComponents-com.aspose.threed.Tuple-3-java.lang.String-java.lang.String-java.lang.String--}
 ```
 public void setColorComponents(Tuple_3<String,String,String> value)
 ```
@@ -383,7 +383,7 @@ The component names for vertex color, default value is ("red", "green", "blue")
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String> | New value |
+| value | com.aspose.threed.Tuple_3<java.lang.String,java.lang.String,java.lang.String> | New value |
 
 ### setEncoding(Charset value) {#setEncoding-java.nio.charset.Charset-}
 ```
@@ -553,7 +553,7 @@ var opt = new ObjLoadOptions();
              scene.save("output.glb");
 ``` |
 
-### setNormalComponents(Tuple_3<String,String,String> value) {#setNormalComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--}
+### setNormalComponents(Tuple_3<String,String,String> value) {#setNormalComponents-com.aspose.threed.Tuple-3-java.lang.String-java.lang.String-java.lang.String--}
 ```
 public void setNormalComponents(Tuple_3<String,String,String> value)
 ```
@@ -564,7 +564,7 @@ The component names for normal data, default value is ("nx", "ny", "nz")
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String> | New value |
+| value | com.aspose.threed.Tuple_3<java.lang.String,java.lang.String,java.lang.String> | New value |
 
 ### setPointCloud(boolean value) {#setPointCloud-boolean-}
 ```
@@ -579,7 +579,7 @@ Export the scene as point cloud, the default value is false.
 | --- | --- | --- |
 | value | boolean | New value |
 
-### setPositionComponents(Tuple_3<String,String,String> value) {#setPositionComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--}
+### setPositionComponents(Tuple_3<String,String,String> value) {#setPositionComponents-com.aspose.threed.Tuple-3-java.lang.String-java.lang.String-java.lang.String--}
 ```
 public void setPositionComponents(Tuple_3<String,String,String> value)
 ```
@@ -590,9 +590,9 @@ The component names for position data, default value is ("x", "y", "z")
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String> | New value |
+| value | com.aspose.threed.Tuple_3<java.lang.String,java.lang.String,java.lang.String> | New value |
 
-### setTextureCoordinateComponents(Tuple_2<String,String> value) {#setTextureCoordinateComponents-com.aspose.csporter.helpers.Tuple-2-java.lang.String-java.lang.String--}
+### setTextureCoordinateComponents(Tuple_2<String,String> value) {#setTextureCoordinateComponents-com.aspose.threed.Tuple-2-java.lang.String-java.lang.String--}
 ```
 public void setTextureCoordinateComponents(Tuple_2<String,String> value)
 ```
@@ -603,7 +603,7 @@ The component names for texture coordinate data, default value is ("u", "v")
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | com.aspose.csporter.helpers.Tuple_2<java.lang.String,java.lang.String> | New value |
+| value | com.aspose.threed.Tuple_2<java.lang.String,java.lang.String> | New value |
 
 ### setVertexElement(String value) {#setVertexElement-java.lang.String-}
 ```

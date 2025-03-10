@@ -17,7 +17,7 @@ public bool EmbedTextures { get; set; }
 ### See Also
 
 * class [PdfSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../pdfsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

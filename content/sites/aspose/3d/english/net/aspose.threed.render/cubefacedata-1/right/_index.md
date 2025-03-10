@@ -17,7 +17,7 @@ public T Right { get; set; }
 ### See Also
 
 * struct [CubeFaceData&lt;T&gt;](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../cubefacedata-1/)
 * assembly [Aspose.3D](../../../)
 
 

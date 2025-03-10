@@ -22,7 +22,7 @@ public static BoundingBox FromGeometry(Geometry geometry)
 
 The bounding box of given geometry
 
-### Examples
+## Examples
 
 The following code shows how to construct a bounding box from a geometry instance.
 
@@ -36,7 +36,7 @@ Console.WriteLine("Bounding box = " + boundingBox);
 
 * class [Geometry](../../../aspose.threed.entities/geometry/)
 * struct [BoundingBox](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox/)
 * assembly [Aspose.3D](../../../)
 
 

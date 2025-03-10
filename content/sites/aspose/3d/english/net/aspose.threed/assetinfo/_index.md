@@ -38,8 +38,8 @@ public class AssetInfo : A3DObject
 | [FrontVector](../../aspose.threed/assetinfo/frontvector/) { get; set; } | Gets or sets the front-vector used in this asset. |
 | [Keywords](../../aspose.threed/assetinfo/keywords/) { get; set; } | Gets or sets the keywords of this asset |
 | [ModificationTime](../../aspose.threed/assetinfo/modificationtime/) { get; set; } | Gets or Sets the modification time of this asset |
-| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name.(Inherited from [`A3DObject`](../a3dobject/).) |
-| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties.(Inherited from [`A3DObject`](../a3dobject/).) |
+| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name. |
+| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties. |
 | [Revision](../../aspose.threed/assetinfo/revision/) { get; set; } | Gets or sets the revision number of this asset, usually used in version control system. |
 | [Subject](../../aspose.threed/assetinfo/subject/) { get; set; } | Gets or sets the subject of this asset |
 | [Title](../../aspose.threed/assetinfo/title/) { get; set; } | Gets or sets the title of this asset |
@@ -52,13 +52,13 @@ public class AssetInfo : A3DObject
 
 | Name | Description |
 | --- | --- |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name)(Inherited from [`A3DObject`](../a3dobject/).) |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property(Inherited from [`A3DObject`](../a3dobject/).) |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property.(Inherited from [`A3DObject`](../a3dobject/).) |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name(Inherited from [`A3DObject`](../a3dobject/).) |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property(Inherited from [`A3DObject`](../a3dobject/).) |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name |
+| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property |
 
-### Examples
+## Examples
 
 The following code shows how to read asset info from a fbx file:
 

@@ -4,18 +4,20 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.threed.entities/polygonmodifier/scale/
+url: /python-net/aspose.threed.entities/polygonmodifier/scale/
 is_root: false
 ---
 
-## scale {#aspose.threed.Scene-aspose.threed.utilities.Vector3}
+## scale(, scene, scale) {#aspose.threed.Scene-aspose.threed.utilities.Vector3}
 
 Scale all geometries(Scale the control points not the transformation matrix) in this scene
 
 
 
 ```python
-def scale(self, scene, scale):
+
+@staticmethod
+def scale(scene, scale):
     ...
 ```
 
@@ -44,14 +46,16 @@ scene.save("test.obj")
 ```
 
 
-## scale {#aspose.threed.Node-aspose.threed.utilities.Vector3}
+## scale(, node, scale) {#aspose.threed.Node-aspose.threed.utilities.Vector3}
 
 Scale all geometries(Scale the control points not the transformation matrix) in this node
 
 
 
 ```python
-def scale(self, node, scale):
+
+@staticmethod
+def scale(node, scale):
     ...
 ```
 

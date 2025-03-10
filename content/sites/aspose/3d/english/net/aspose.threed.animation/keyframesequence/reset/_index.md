@@ -17,7 +17,7 @@ public void Reset()
 ### See Also
 
 * class [KeyframeSequence](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../keyframesequence/)
 * assembly [Aspose.3D](../../../)
 
 

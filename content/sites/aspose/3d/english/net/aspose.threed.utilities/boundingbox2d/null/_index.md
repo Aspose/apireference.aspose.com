@@ -17,7 +17,7 @@ public static readonly BoundingBox2D Null;
 ### See Also
 
 * struct [BoundingBox2D](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox2d/)
 * assembly [Aspose.3D](../../../)
 
 

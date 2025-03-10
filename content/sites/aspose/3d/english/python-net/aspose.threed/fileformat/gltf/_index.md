@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 290
-url: /aspose.threed/fileformat/gltf/
+url: /python-net/aspose.threed/fileformat/gltf/
 is_root: false
 ---
 
@@ -12,6 +12,10 @@ is_root: false
 
 
 Khronos Group's glTF
+### Definition:
+```python
+f GLTF 
+```
 
 ### See Also
 * module [`aspose.threed`](../../)

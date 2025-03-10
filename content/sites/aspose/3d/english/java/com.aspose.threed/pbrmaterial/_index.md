@@ -3,7 +3,7 @@ title: PbrMaterial
 second_title: Aspose.3D for Java API Reference
 description: Material for physically based rendering based on albedo color/metallic/roughness
 type: docs
-weight: 112
+weight: 117
 url: /java/com.aspose.threed/pbrmaterial/
 ---
 

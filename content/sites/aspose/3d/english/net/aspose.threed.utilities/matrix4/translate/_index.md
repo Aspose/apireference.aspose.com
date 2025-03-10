@@ -18,7 +18,7 @@ public static Matrix4 Translate(Vector3 t)
 | --- | --- | --- |
 | t | Vector3 | Translate offset |
 
-### Examples
+## Examples
 
 The following code shows how to create a matrix for translate operation.
 
@@ -32,7 +32,7 @@ Console.WriteLine($"Transformed: {t * pos}");
 
 * struct [Vector3](../../vector3/)
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -51,7 +51,7 @@ public static Matrix4 Translate(double tx, double ty, double tz)
 | ty | Double | Y-coordinate offset |
 | tz | Double | Z-coordinate offset |
 
-### Examples
+## Examples
 
 The following code shows how to create a matrix for translate operation.
 
@@ -64,7 +64,7 @@ Console.WriteLine($"Transformed: {t * pos}");
 ### See Also
 
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 

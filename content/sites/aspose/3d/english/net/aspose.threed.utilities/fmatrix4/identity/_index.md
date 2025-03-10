@@ -17,7 +17,7 @@ public static FMatrix4 Identity { get; }
 ### See Also
 
 * struct [FMatrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fmatrix4/)
 * assembly [Aspose.3D](../../../)
 
 

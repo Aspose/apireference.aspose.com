@@ -21,7 +21,7 @@ The theta start.
 ### See Also
 
 * class [Cylinder](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../cylinder/)
 * assembly [Aspose.3D](../../../)
 
 

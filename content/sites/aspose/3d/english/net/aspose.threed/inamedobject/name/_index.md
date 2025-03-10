@@ -17,7 +17,7 @@ public string Name { get; }
 ### See Also
 
 * interface [INamedObject](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../inamedobject/)
 * assembly [Aspose.3D](../../../)
 
 

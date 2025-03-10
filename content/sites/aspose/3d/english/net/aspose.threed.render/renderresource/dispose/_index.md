@@ -17,7 +17,7 @@ public void Dispose()
 ### See Also
 
 * class [RenderResource](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderresource/)
 * assembly [Aspose.3D](../../../)
 
 

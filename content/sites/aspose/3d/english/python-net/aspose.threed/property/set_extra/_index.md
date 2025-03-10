@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.threed/property/set_extra/
+url: /python-net/aspose.threed/property/set_extra/
 is_root: false
 ---
 
-## set_extra {#str-any}
+## set_extra(self, name, value) {#str-any}
 
 Sets extra data of the property associated by name.
 
 
 
 ```python
+
 def set_extra(self, name, value):
     ...
 ```

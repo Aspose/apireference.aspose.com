@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.threed.entities/endpoint/
+url: /python-net/aspose.threed.entities/endpoint/
 is_root: false
 ---
 
@@ -19,9 +19,9 @@ The EndPoint type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.entities/endpoint/__init__/#aspose.threed.utilities.Vector3) | Construct a [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint) from a Cartesian point. |
-| [__init__](/3d/python-net/aspose.threed.entities/endpoint/__init__/#float) | Construct a [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint) from a real parameter. |
-| [__init__](/3d/python-net/aspose.threed.entities/endpoint/__init__/#) | Constructs a new instance of EndPoint |
+| [`__init__(self, point)`](/3d/python-net/aspose.threed.entities/endpoint/__init__/#aspose.threed.utilities.vector3) | Construct a [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint) from a Cartesian point. |
+| [`__init__(self, v)`](/3d/python-net/aspose.threed.entities/endpoint/__init__/#float) | Construct a [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint) from a real parameter. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.entities/endpoint/__init__/#) | Constructs a new instance of EndPoint |
 
 
 ### Properties
@@ -35,8 +35,8 @@ The EndPoint type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [from_degree](/3d/python-net/aspose.threed.entities/endpoint/from_degree/#float) | Create an end point measured in degree. |
-| [from_radian](/3d/python-net/aspose.threed.entities/endpoint/from_radian/#float) | Create an end point measured in radian. |
+| [`from_degree(, degree)`](/3d/python-net/aspose.threed.entities/endpoint/from_degree/#float) | Create an end point measured in degree. |
+| [`from_radian(, degree)`](/3d/python-net/aspose.threed.entities/endpoint/from_radian/#float) | Create an end point measured in radian. |
 
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 250
-url: /aspose.threed.formats/plysaveoptions/
+url: /python-net/aspose.threed.formats/plysaveoptions/
 is_root: false
 ---
 
@@ -25,8 +25,8 @@ The PlySaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/plysaveoptions/__init__/#) | Constructor of [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) |
-| [__init__](/3d/python-net/aspose.threed.formats/plysaveoptions/__init__/#aspose.threed.FileContentType) | Constructor of [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/plysaveoptions/__init__/#) | Constructor of [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) |
+| [`__init__(self, content_type)`](/3d/python-net/aspose.threed.formats/plysaveoptions/__init__/#aspose.threed.filecontenttype) | Constructor of [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) |
 
 
 ### Properties

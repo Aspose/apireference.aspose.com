@@ -23,11 +23,11 @@ public static Mesh EncodeWatermark(Mesh input, string text)
 
 A new mesh instance with blind watermark encoded
 
-### Remarks
+## Remarks
 
 Both `EncodeWatermark` and [`DecodeWatermark`](../decodewatermark/) will perform license check Trial usage will throw exception, you can use [`SuppressTrialException`](../../../aspose.threed/trialexception/suppresstrialexception/) to suppress the exception, but it will not lift the restriction here. A valid license is required to use these features without any restrictions.
 
-### Examples
+## Examples
 
 The following code shows how to encode a blind watermark into a mesh and save to ply file
 
@@ -41,7 +41,7 @@ new Scene(encodedMesh).Save("test.ply");
 
 * class [Mesh](../../../aspose.threed.entities/mesh/)
 * class [Watermark](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../watermark/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -64,11 +64,11 @@ public static Mesh EncodeWatermark(Mesh input, string text, string password)
 
 A new mesh instance with blind watermark encoded
 
-### Remarks
+## Remarks
 
 Both `EncodeWatermark` and [`DecodeWatermark`](../decodewatermark/) will perform license check Trial usage will throw exception, you can use [`SuppressTrialException`](../../../aspose.threed/trialexception/suppresstrialexception/) to suppress the exception, but it will not lift the restriction here. A valid license is required to use these features without any restrictions.
 
-### Examples
+## Examples
 
 The following code shows how to encode a blind watermark into a mesh and save to ply file
 
@@ -82,7 +82,7 @@ new Scene(encodedMesh).Save("test.ply");
 
 * class [Mesh](../../../aspose.threed.entities/mesh/)
 * class [Watermark](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../watermark/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -106,11 +106,11 @@ public static Mesh EncodeWatermark(Mesh input, string text, string password, boo
 
 A new mesh instance with blind watermark encoded
 
-### Remarks
+## Remarks
 
 Both `EncodeWatermark` and [`DecodeWatermark`](../decodewatermark/) will perform license check Trial usage will throw exception, you can use [`SuppressTrialException`](../../../aspose.threed/trialexception/suppresstrialexception/) to suppress the exception, but it will not lift the restriction here. A valid license is required to use these features without any restrictions.
 
-### Examples
+## Examples
 
 The following code shows how to encode a blind watermark into a mesh and save to ply file
 
@@ -124,7 +124,7 @@ new Scene(encodedMesh).Save("test.ply");
 
 * class [Mesh](../../../aspose.threed.entities/mesh/)
 * class [Watermark](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../watermark/)
 * assembly [Aspose.3D](../../../)
 
 

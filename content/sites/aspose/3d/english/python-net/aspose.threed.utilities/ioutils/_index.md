@@ -4,13 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.threed.utilities/ioutils/
+url: /python-net/aspose.threed.utilities/ioutils/
 is_root: false
 ---
 
 ## IOUtils class
-
-Utilities to write matrix/vector to binary writer
 
 
 

@@ -26,7 +26,7 @@ A new instance of [`AnimationNode`](../../animationnode/) with given name.
 
 * class [AnimationNode](../../animationnode/)
 * class [AnimationClip](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../animationclip/)
 * assembly [Aspose.3D](../../../)
 
 

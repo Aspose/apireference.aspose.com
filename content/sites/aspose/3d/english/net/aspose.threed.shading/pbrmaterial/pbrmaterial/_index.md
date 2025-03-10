@@ -17,7 +17,7 @@ public PbrMaterial()
 ### See Also
 
 * class [PbrMaterial](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../pbrmaterial/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -38,7 +38,7 @@ public PbrMaterial(Vector3 albedo)
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [PbrMaterial](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../pbrmaterial/)
 * assembly [Aspose.3D](../../../)
 
 

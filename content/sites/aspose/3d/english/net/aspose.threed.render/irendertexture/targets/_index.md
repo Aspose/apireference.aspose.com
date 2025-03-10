@@ -18,7 +18,7 @@ public IList<ITextureUnit> Targets { get; }
 
 * interface [ITextureUnit](../../itextureunit/)
 * interface [IRenderTexture](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../irendertexture/)
 * assembly [Aspose.3D](../../../)
 
 

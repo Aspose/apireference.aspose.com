@@ -18,7 +18,7 @@ public PresetShaders PresetShaders { get; set; }
 
 * enum [PresetShaders](../../presetshaders/)
 * class [Renderer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderer/)
 * assembly [Aspose.3D](../../../)
 
 

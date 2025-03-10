@@ -18,7 +18,7 @@ public TextureFilter Minification { get; set; }
 
 * enum [TextureFilter](../../../aspose.threed.shading/texturefilter/)
 * interface [ITextureUnit](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itextureunit/)
 * assembly [Aspose.3D](../../../)
 
 

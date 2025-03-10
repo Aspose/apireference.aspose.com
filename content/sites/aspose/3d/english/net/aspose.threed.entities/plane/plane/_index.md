@@ -17,7 +17,7 @@ public Plane()
 ### See Also
 
 * class [Plane](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../plane/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Plane(double length, double width)
 ### See Also
 
 * class [Plane](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../plane/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -62,7 +62,7 @@ public Plane(string name, double length, double width, int lengthSegments, int w
 ### See Also
 
 * class [Plane](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../plane/)
 * assembly [Aspose.3D](../../../)
 
 

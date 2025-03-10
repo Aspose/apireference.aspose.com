@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.threed.utilities/vector3/set/
+url: /python-net/aspose.threed.utilities/vector3/set/
 is_root: false
 ---
 
-## set {#float-float-float}
+## set(self, new_x, new_y, new_z) {#float-float-float}
 
 Sets the x/y/z component in one call.
 
 
 
 ```python
+
 def set(self, new_x, new_y, new_z):
     ...
 ```

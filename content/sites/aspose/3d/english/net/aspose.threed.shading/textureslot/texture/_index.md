@@ -18,7 +18,7 @@ public TextureBase Texture { get; }
 
 * class [TextureBase](../../texturebase/)
 * class [TextureSlot](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../textureslot/)
 * assembly [Aspose.3D](../../../)
 
 

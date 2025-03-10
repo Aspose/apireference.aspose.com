@@ -18,7 +18,7 @@ public Vector3 Color { get; set; }
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [Curve](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../curve/)
 * assembly [Aspose.3D](../../../)
 
 

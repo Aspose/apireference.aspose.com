@@ -18,7 +18,7 @@ public Vector2 BottomArea { get; set; }
 
 * struct [Vector2](../../../aspose.threed.utilities/vector2/)
 * class [Pyramid](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../pyramid/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 260
-url: /aspose.threed.formats/rvmformat/
+url: /python-net/aspose.threed.formats/rvmformat/
 is_root: false
 ---
 
@@ -87,13 +87,13 @@ The RvmFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [detect](/3d/python-net/aspose.threed.formats/rvmformat/detect/#io.RawIOBase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
-| [detect](/3d/python-net/aspose.threed.formats/rvmformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
-| [load_attributes](/3d/python-net/aspose.threed.formats/rvmformat/load_attributes/#aspose.threed.Scene-str-str) | Load the attributes from specified file name |
-| [load_attributes](/3d/python-net/aspose.threed.formats/rvmformat/load_attributes/#aspose.threed.Scene-io.RawIOBase-str) | Load the attributes from specified stream |
-| [get_format_by_extension](/3d/python-net/aspose.threed.formats/rvmformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
-| [create_load_options](/3d/python-net/aspose.threed.formats/rvmformat/create_load_options/#) | Create a default load options for this file format |
-| [create_save_options](/3d/python-net/aspose.threed.formats/rvmformat/create_save_options/#) | Create a default save options for this file format |
+| [`detect(, stream, file_name)`](/3d/python-net/aspose.threed.formats/rvmformat/detect/#io.rawiobase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [`detect(, file_name)`](/3d/python-net/aspose.threed.formats/rvmformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
+| [`load_attributes(self, scene, file_name, prefix)`](/3d/python-net/aspose.threed.formats/rvmformat/load_attributes/#aspose.threed.scene-str-str) | Load the attributes from specified file name |
+| [`load_attributes(self, scene, stream, prefix)`](/3d/python-net/aspose.threed.formats/rvmformat/load_attributes/#aspose.threed.scene-io.rawiobase-str) | Load the attributes from specified stream |
+| [`get_format_by_extension(, extension_name)`](/3d/python-net/aspose.threed.formats/rvmformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
+| [`create_load_options(self)`](/3d/python-net/aspose.threed.formats/rvmformat/create_load_options/#) | Create a default load options for this file format |
+| [`create_save_options(self)`](/3d/python-net/aspose.threed.formats/rvmformat/create_save_options/#) | Create a default save options for this file format |
 
 
 

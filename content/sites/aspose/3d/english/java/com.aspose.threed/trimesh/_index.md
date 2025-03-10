@@ -3,7 +3,7 @@ title: TriMesh
 second_title: Aspose.3D for Java API Reference
 description: A TriMesh contains raw data that can be used by GPU directly.
 type: docs
-weight: 182
+weight: 189
 url: /java/com.aspose.threed/trimesh/
 ---
 
@@ -97,11 +97,11 @@ A TriMesh contains raw data that can be used by GPU directly. This class is a ut
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-| [write16bIndicesTo(Stream stream)](#write16bIndicesTo-com.aspose.csporter.helpers.Stream-) | Write the indices data as 16bit integer to the stream |
+| [write16bIndicesTo(Stream stream)](#write16bIndicesTo-com.aspose.threed.Stream-) | Write the indices data as 16bit integer to the stream |
 | [write16bIndicesTo(OutputStream stream)](#write16bIndicesTo-java.io.OutputStream-) | Write the indices data as 16bit integer to the stream |
-| [write32bIndicesTo(Stream stream)](#write32bIndicesTo-com.aspose.csporter.helpers.Stream-) | Write the indices data as 32bit integer to the stream |
+| [write32bIndicesTo(Stream stream)](#write32bIndicesTo-com.aspose.threed.Stream-) | Write the indices data as 32bit integer to the stream |
 | [write32bIndicesTo(OutputStream stream)](#write32bIndicesTo-java.io.OutputStream-) | Write the indices data as 32bit integer to the stream |
-| [writeVerticesTo(Stream stream)](#writeVerticesTo-com.aspose.csporter.helpers.Stream-) | Write vertices data to the specified stream |
+| [writeVerticesTo(Stream stream)](#writeVerticesTo-com.aspose.threed.Stream-) | Write vertices data to the specified stream |
 | [writeVerticesTo(OutputStream stream)](#writeVerticesTo-java.io.OutputStream-) | Write vertices data to the specified stream |
 ### TriMesh(String name, VertexDeclaration declaration) {#TriMesh-java.lang.String-com.aspose.threed.VertexDeclaration-}
 ```
@@ -172,12 +172,14 @@ Copy the [TriMesh](../../com.aspose.threed/trimesh) from input with new vertex l
 ```
 ### endVertex() {#endVertex--}
 ```
-public void endVertex()
+public int endVertex()
 ```
 
 
 End adding vertex
 
+**Returns:**
+int
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -875,7 +877,7 @@ public final void wait(long arg0, int arg1)
 | arg0 | long |  |
 | arg1 | int |  |
 
-### write16bIndicesTo(Stream stream) {#write16bIndicesTo-com.aspose.csporter.helpers.Stream-}
+### write16bIndicesTo(Stream stream) {#write16bIndicesTo-com.aspose.threed.Stream-}
 ```
 public void write16bIndicesTo(Stream stream)
 ```
@@ -886,7 +888,7 @@ Write the indices data as 16bit integer to the stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | **Example:**
+| stream | [Stream](../../com.aspose.threed/stream) | **Example:**
 
 ```
 //convert a mesh to TriMesh, the layout is automatically inferred from input mesh
@@ -925,7 +927,7 @@ Write the indices data as 16bit integer to the stream
      triMesh.write16bIndicesTo(stream);
 ``` |
 
-### write32bIndicesTo(Stream stream) {#write32bIndicesTo-com.aspose.csporter.helpers.Stream-}
+### write32bIndicesTo(Stream stream) {#write32bIndicesTo-com.aspose.threed.Stream-}
 ```
 public void write32bIndicesTo(Stream stream)
 ```
@@ -936,7 +938,7 @@ Write the indices data as 32bit integer to the stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | **Example:**
+| stream | [Stream](../../com.aspose.threed/stream) | **Example:**
 
 ```
 //convert a mesh to TriMesh, the layout is automatically inferred from input mesh
@@ -975,7 +977,7 @@ Write the indices data as 32bit integer to the stream
       triMesh.write32bIndicesTo(stream);
 ``` |
 
-### writeVerticesTo(Stream stream) {#writeVerticesTo-com.aspose.csporter.helpers.Stream-}
+### writeVerticesTo(Stream stream) {#writeVerticesTo-com.aspose.threed.Stream-}
 ```
 public void writeVerticesTo(Stream stream)
 ```
@@ -986,7 +988,7 @@ Write vertices data to the specified stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | The stream that the vertices data will be written to **Example:**
+| stream | [Stream](../../com.aspose.threed/stream) | The stream that the vertices data will be written to **Example:**
 
 ```
 //convert a mesh to TriMesh, the layout is automatically inferred from input mesh

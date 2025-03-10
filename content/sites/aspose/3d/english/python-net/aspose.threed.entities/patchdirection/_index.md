@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 230
-url: /aspose.threed.entities/patchdirection/
+url: /python-net/aspose.threed.entities/patchdirection/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ The PatchDirection type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.entities/patchdirection/__init__/#) | Constructs a new instance of PatchDirection |
+| [`__init__(self)`](/3d/python-net/aspose.threed.entities/patchdirection/__init__/#) | Constructs a new instance of PatchDirection |
 
 
 ### Properties

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.utilities/filesystem/create_zip_file_system/
+url: /python-net/aspose.threed.utilities/filesystem/create_zip_file_system/
 is_root: false
 ---
 
-## create_zip_file_system {#str}
+## create_zip_file_system(, file_name) {#str}
 
 File system to provide to the read-only access to speicified zip file or zip stream.
 File system will be disposed after the open/save operation.
@@ -21,7 +21,9 @@ A zip file system
 
 
 ```python
-def create_zip_file_system(self, file_name):
+
+@staticmethod
+def create_zip_file_system(file_name):
     ...
 ```
 
@@ -37,7 +39,7 @@ def create_zip_file_system(self, file_name):
 
 
 
-## create_zip_file_system {#io.RawIOBase-str}
+## create_zip_file_system(, stream, base_dir) {#io.RawIOBase-str}
 
 Create a file system to provide to the read-only access to speicified zip file or zip stream.
 File system will be disposed after the open/save operation.
@@ -50,7 +52,9 @@ A zip file system
 
 
 ```python
-def create_zip_file_system(self, stream, base_dir):
+
+@staticmethod
+def create_zip_file_system(stream, base_dir):
     ...
 ```
 

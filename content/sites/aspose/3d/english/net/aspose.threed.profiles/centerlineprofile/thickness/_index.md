@@ -17,7 +17,7 @@ public double Thickness { get; set; }
 ### See Also
 
 * class [CenterLineProfile](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../centerlineprofile/)
 * assembly [Aspose.3D](../../../)
 
 

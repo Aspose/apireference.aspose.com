@@ -18,7 +18,7 @@ public IList<ShaderTechnique> Techniques { get; }
 
 * class [ShaderTechnique](../../shadertechnique/)
 * class [ShaderMaterial](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../shadermaterial/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -18,7 +18,7 @@ public Vector3 Direction { get; set; }
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * interface [IOrientable](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../iorientable/)
 * assembly [Aspose.3D](../../../)
 
 

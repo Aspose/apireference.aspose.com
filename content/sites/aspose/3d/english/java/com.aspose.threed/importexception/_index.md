@@ -3,7 +3,7 @@ title: ImportException
 second_title: Aspose.3D for Java API Reference
 description: Exception when Aspose.3D failed to open the specified source
 type: docs
-weight: 79
+weight: 80
 url: /java/com.aspose.threed/importexception/
 ---
 

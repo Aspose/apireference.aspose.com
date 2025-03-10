@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.threed.formats/a3dwsaveoptions/
+url: /python-net/aspose.threed.formats/a3dwsaveoptions/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The A3dwSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/a3dwsaveoptions/__init__/#) | Constructor of [`A3dwSaveOptions`](/3d/python-net/aspose.threed.formats/a3dwsaveoptions) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/a3dwsaveoptions/__init__/#) | Constructor of [`A3dwSaveOptions`](/3d/python-net/aspose.threed.formats/a3dwsaveoptions) |
 
 
 ### Properties

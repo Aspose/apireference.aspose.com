@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.threed.formats/gltfsaveoptions/__init__/
+url: /python-net/aspose.threed.formats/gltfsaveoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#aspose.threed.FileContentType}
+## __init__(self, content_type) {#aspose.threed.FileContentType}
 
 Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions)
 
 
 
 ```python
+
 def __init__(self, content_type):
     ...
 ```
@@ -25,13 +26,14 @@ def __init__(self, content_type):
 | content_type | [`FileContentType`](/3d/python-net/aspose.threed/filecontenttype) |  |
 
 
-## __init__ {#aspose.threed.FileFormat}
+## __init__(self, format) {#aspose.threed.FileFormat}
 
 Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions)
 
 
 
 ```python
+
 def __init__(self, format):
     ...
 ```

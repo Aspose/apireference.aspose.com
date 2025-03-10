@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.threed.entities/trimesh/indices_to_array/
+url: /python-net/aspose.threed.entities/trimesh/indices_to_array/
 is_root: false
 ---
 
-## indices_to_array {#any}
+## indices_to_array(self, result) {#any}
 
-
+Convert the indices to 16bit integer array
 
 
 
 ```python
+
 def indices_to_array(self, result):
     ...
 ```
@@ -25,13 +26,14 @@ def indices_to_array(self, result):
 | result | any |  |
 
 
-## indices_to_array {#any}
+## indices_to_array(self, result) {#any}
 
-
+Convert the indices to 32bit integer array
 
 
 
 ```python
+
 def indices_to_array(self, result):
     ...
 ```

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.utilities/fvector2/
+url: /python-net/aspose.threed.utilities/fvector2/
 is_root: false
 ---
 
@@ -19,9 +19,9 @@ The FVector2 type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#float-float) | Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2). |
-| [__init__](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#aspose.threed.utilities.Vector2) | Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2). |
-| [__init__](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#) | Constructs a new instance of FVector2 |
+| [`__init__(self, x, y)`](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#float-float) | Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2). |
+| [`__init__(self, vec)`](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#aspose.threed.utilities.vector2) | Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2). |
+| [`__init__(self)`](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#) | Constructs a new instance of FVector2 |
 
 
 ### Properties
@@ -34,7 +34,7 @@ The FVector2 type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [equals](/3d/python-net/aspose.threed.utilities/fvector2/equals/#aspose.threed.utilities.FVector2) | Check if two vectors are equal |
+| [`equals(self, rhs)`](/3d/python-net/aspose.threed.utilities/fvector2/equals/#aspose.threed.utilities.fvector2) | Check if two vectors are equal |
 
 
 

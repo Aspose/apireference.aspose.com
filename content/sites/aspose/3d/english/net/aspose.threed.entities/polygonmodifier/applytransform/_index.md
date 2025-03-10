@@ -24,7 +24,7 @@ public static void ApplyTransform(Node node, Matrix4 transform)
 * class [Node](../../../aspose.threed/node/)
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
 
 

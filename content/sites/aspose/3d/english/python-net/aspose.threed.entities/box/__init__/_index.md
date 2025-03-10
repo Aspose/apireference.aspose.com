@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.threed.entities/box/__init__/
+url: /python-net/aspose.threed.entities/box/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## __init__(self) {#}
 
 Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#float-float-float}
+## __init__(self, length, width, height) {#float-float-float}
 
 Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class.
 
 
 
 ```python
+
 def __init__(self, length, width, height):
     ...
 ```
@@ -41,13 +43,14 @@ def __init__(self, length, width, height):
 | height | float | Height of the box aligned in y-axis. |
 
 
-## __init__ {#str-float-float-float-int-int-int}
+## __init__(self, name, length, width, height, length_segments, width_segments, height_segments) {#str-float-float-float-int-int-int}
 
 Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class.
 
 
 
 ```python
+
 def __init__(self, name, length, width, height, length_segments, width_segments, height_segments):
     ...
 ```

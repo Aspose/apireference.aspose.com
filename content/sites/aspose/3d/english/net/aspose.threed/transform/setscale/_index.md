@@ -20,7 +20,7 @@ public Transform SetScale(double sx, double sy, double sz)
 | sy | Double |  |
 | sz | Double |  |
 
-### Examples
+## Examples
 
 ```csharp
 Node node = new Node();
@@ -30,7 +30,7 @@ node.Transform.SetScale(2, 2, 2);
 ### See Also
 
 * class [Transform](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../transform/)
 * assembly [Aspose.3D](../../../)
 
 

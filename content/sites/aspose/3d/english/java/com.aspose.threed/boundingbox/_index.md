@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/boundingbox/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.csporter.helpers.Struct, java.io.Serializable
+com.aspose.threed.Struct, java.io.Serializable
 ```
 public final class BoundingBox implements Struct<BoundingBox>, Serializable
 ```
@@ -118,7 +118,7 @@ public BoundingBox clone()
 ```
 
 
-
+Clone current instance
 
 **Returns:**
 [BoundingBox](../../com.aspose.threed/boundingbox)

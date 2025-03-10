@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.threed.entities/torus/__init__/
+url: /python-net/aspose.threed.entities/torus/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## __init__(self) {#}
 
 Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#float-float}
+## __init__(self, radius, tube) {#float-float}
 
 Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class.
 
 
 
 ```python
+
 def __init__(self, radius, tube):
     ...
 ```
@@ -40,13 +42,14 @@ def __init__(self, radius, tube):
 | tube | float | The radius of the torus' tube. |
 
 
-## __init__ {#float-float-float}
+## __init__(self, radius, tube, arc) {#float-float-float}
 
 Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class.
 
 
 
 ```python
+
 def __init__(self, radius, tube, arc):
     ...
 ```
@@ -59,13 +62,14 @@ def __init__(self, radius, tube, arc):
 | arc | float | Arc. |
 
 
-## __init__ {#str-float-float-int-int-float}
+## __init__(self, name, radius, tube, radial_segments, tubular_segments, arc) {#str-float-float-int-int-float}
 
 Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class.
 
 
 
 ```python
+
 def __init__(self, name, radius, tube, radial_segments, tubular_segments, arc):
     ...
 ```

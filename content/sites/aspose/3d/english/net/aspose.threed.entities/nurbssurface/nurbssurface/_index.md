@@ -17,7 +17,7 @@ public NurbsSurface()
 ### See Also
 
 * class [NurbsSurface](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../nurbssurface/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,7 +37,7 @@ public NurbsSurface(string name)
 ### See Also
 
 * class [NurbsSurface](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../nurbssurface/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.threed.utilities/transformbuilder/scale/
+url: /python-net/aspose.threed.utilities/transformbuilder/scale/
 is_root: false
 ---
 
-## scale {#float}
+## scale(self, s) {#float}
 
 Chain a scaling transform matrix with a component scaled by s
 
 
 
 ```python
+
 def scale(self, s):
     ...
 ```
@@ -37,13 +38,14 @@ print(f"Transform Matrix: {tb.matrix}")
 ```
 
 
-## scale {#aspose.threed.utilities.Vector3}
+## scale(self, s) {#aspose.threed.utilities.Vector3}
 
 Chain a scale transform
 
 
 
 ```python
+
 def scale(self, s):
     ...
 ```
@@ -66,13 +68,14 @@ print(f"Transform Matrix: {tb.matrix}")
 ```
 
 
-## scale {#float-float-float}
+## scale(self, x, y, z) {#float-float-float}
 
 Chain a scaling transform matrix
 
 
 
 ```python
+
 def scale(self, x, y, z):
     ...
 ```

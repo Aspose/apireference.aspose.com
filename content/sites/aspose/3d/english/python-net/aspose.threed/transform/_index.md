@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 220
-url: /aspose.threed/transform/
+url: /python-net/aspose.threed/transform/
 is_root: false
 ---
 
@@ -46,20 +46,20 @@ The Transform type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property](/3d/python-net/aspose.threed/transform/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
-| [remove_property](/3d/python-net/aspose.threed/transform/remove_property/#str) | Remove the specified property identified by name |
-| [get_property](/3d/python-net/aspose.threed/transform/get_property/#str) | Get the value of specified property |
-| [set_property](/3d/python-net/aspose.threed/transform/set_property/#str-any) | Sets the value of specified property |
-| [find_property](/3d/python-net/aspose.threed/transform/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [set_geometric_translation](/3d/python-net/aspose.threed/transform/set_geometric_translation/#float-float-float) | Sets the geometric translation. <br/>Geometric transformation only affects the entities attached and leave the child nodes unaffected.<br/>It will be merged as local transformation when you export the geometric transformation to file types that does not support it. |
-| [set_geometric_scaling](/3d/python-net/aspose.threed/transform/set_geometric_scaling/#float-float-float) | Sets the geometric scaling. <br/>Geometric transformation only affects the entities attached and leave the child nodes unaffected.<br/>It will be merged as local transformation when you export the geometric transformation to file types that does not support it. |
-| [set_geometric_rotation](/3d/python-net/aspose.threed/transform/set_geometric_rotation/#float-float-float) | Sets the geometric Euler rotation(measured in degree). <br/>Geometric transformation only affects the entities attached and leave the child nodes unaffected.<br/>It will be merged as local transformation when you export the geometric transformation to file types that does not support it. |
-| [set_translation](/3d/python-net/aspose.threed/transform/set_translation/#float-float-float) | Sets the translation of current transform. |
-| [set_scale](/3d/python-net/aspose.threed/transform/set_scale/#float-float-float) | Sets the scale of current transform. |
-| [set_euler_angles](/3d/python-net/aspose.threed/transform/set_euler_angles/#float-float-float) | Sets the Euler angles in degrees of current transform. |
-| [set_rotation](/3d/python-net/aspose.threed/transform/set_rotation/#float-float-float-float) | Sets the rotation(as quaternion components) of current transform. |
-| [set_pre_rotation](/3d/python-net/aspose.threed/transform/set_pre_rotation/#float-float-float) | Sets the pre-rotation represented in degree |
-| [set_post_rotation](/3d/python-net/aspose.threed/transform/set_post_rotation/#float-float-float) | Sets the post-rotation represented in degree |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed/transform/remove_property/#aspose.threed.property) | Removes a dynamic property. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed/transform/remove_property/#str) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed/transform/get_property/#str) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed/transform/set_property/#str-any) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed/transform/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`set_geometric_translation(self, x, y, z)`](/3d/python-net/aspose.threed/transform/set_geometric_translation/#float-float-float) | Sets the geometric translation. <br/>Geometric transformation only affects the entities attached and leave the child nodes unaffected.<br/>It will be merged as local transformation when you export the geometric transformation to file types that does not support it. |
+| [`set_geometric_scaling(self, sx, sy, sz)`](/3d/python-net/aspose.threed/transform/set_geometric_scaling/#float-float-float) | Sets the geometric scaling. <br/>Geometric transformation only affects the entities attached and leave the child nodes unaffected.<br/>It will be merged as local transformation when you export the geometric transformation to file types that does not support it. |
+| [`set_geometric_rotation(self, rx, ry, rz)`](/3d/python-net/aspose.threed/transform/set_geometric_rotation/#float-float-float) | Sets the geometric Euler rotation(measured in degree). <br/>Geometric transformation only affects the entities attached and leave the child nodes unaffected.<br/>It will be merged as local transformation when you export the geometric transformation to file types that does not support it. |
+| [`set_translation(self, tx, ty, tz)`](/3d/python-net/aspose.threed/transform/set_translation/#float-float-float) | Sets the translation of current transform. |
+| [`set_scale(self, sx, sy, sz)`](/3d/python-net/aspose.threed/transform/set_scale/#float-float-float) | Sets the scale of current transform. |
+| [`set_euler_angles(self, rx, ry, rz)`](/3d/python-net/aspose.threed/transform/set_euler_angles/#float-float-float) | Sets the Euler angles in degrees of current transform. |
+| [`set_rotation(self, rw, rx, ry, rz)`](/3d/python-net/aspose.threed/transform/set_rotation/#float-float-float-float) | Sets the rotation(as quaternion components) of current transform. |
+| [`set_pre_rotation(self, rx, ry, rz)`](/3d/python-net/aspose.threed/transform/set_pre_rotation/#float-float-float) | Sets the pre-rotation represented in degree |
+| [`set_post_rotation(self, rx, ry, rz)`](/3d/python-net/aspose.threed/transform/set_post_rotation/#float-float-float) | Sets the post-rotation represented in degree |
 
 
 

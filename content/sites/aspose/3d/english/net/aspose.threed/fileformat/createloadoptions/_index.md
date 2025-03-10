@@ -22,7 +22,7 @@ A default load option for current format
 
 * class [LoadOptions](../../../aspose.threed.formats/loadoptions/)
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 

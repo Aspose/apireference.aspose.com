@@ -25,7 +25,7 @@ public void AddBonePose(Node node, Matrix4 matrix, bool localMatrix)
 * class [Node](../../node/)
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [Pose](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../pose/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -48,7 +48,7 @@ public void AddBonePose(Node node, Matrix4 matrix)
 * class [Node](../../node/)
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [Pose](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../pose/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -3,7 +3,7 @@ title: MirroredProfile
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible mirror profile.
 type: docs
-weight: 99
+weight: 102
 url: /java/com.aspose.threed/mirroredprofile/
 ---
 

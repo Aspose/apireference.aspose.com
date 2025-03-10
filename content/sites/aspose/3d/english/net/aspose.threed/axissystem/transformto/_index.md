@@ -26,7 +26,7 @@ A new transformation matrix to do the axis conversion
 
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [AxisSystem](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../axissystem/)
 * assembly [Aspose.3D](../../../)
 
 

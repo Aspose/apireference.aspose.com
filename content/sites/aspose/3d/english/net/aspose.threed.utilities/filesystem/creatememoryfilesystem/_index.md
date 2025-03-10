@@ -9,13 +9,13 @@ url: /net/aspose.threed.utilities/filesystem/creatememoryfilesystem/
 ## FileSystem.CreateMemoryFileSystem method
 
 ```csharp
-public static FileSystem CreateMemoryFileSystem(IDictionary<string, MemoryStream> files = null)
+public static FileSystem CreateMemoryFileSystem(Dictionary<string, MemoryStream> files = null)
 ```
 
 ### See Also
 
 * class [FileSystem](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../filesystem/)
 * assembly [Aspose.3D](../../../)
 
 

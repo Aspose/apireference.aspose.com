@@ -29,7 +29,7 @@ Generated UV data
 * class [Mesh](../../mesh/)
 * class [VertexElementNormal](../../vertexelementnormal/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -55,8 +55,7 @@ Generated UV data
 * class [VertexElementUV](../../vertexelementuv/)
 * class [Mesh](../../mesh/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
-* [Tutorial - Generate UV data for mesh](https://products.aspose.com/3d/tutorial/generate-uv-data/)
 
 

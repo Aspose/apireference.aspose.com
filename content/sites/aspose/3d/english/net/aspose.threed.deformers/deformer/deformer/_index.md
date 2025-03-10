@@ -21,7 +21,7 @@ public Deformer(string name)
 ### See Also
 
 * class [Deformer](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../deformer/)
 * assembly [Aspose.3D](../../../)
 
 

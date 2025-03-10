@@ -3,7 +3,7 @@ title: GlobalTransform
 second_title: Aspose.3D for Java API Reference
 description: Global transform is similar to  but its immutable while it represents the final evaluated transformation.
 type: docs
-weight: 69
+weight: 70
 url: /java/com.aspose.threed/globaltransform/
 ---
 

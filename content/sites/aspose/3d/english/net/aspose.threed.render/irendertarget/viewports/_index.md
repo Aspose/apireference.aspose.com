@@ -18,7 +18,7 @@ public IList<Viewport> Viewports { get; }
 
 * class [Viewport](../../viewport/)
 * interface [IRenderTarget](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../irendertarget/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -18,7 +18,7 @@ public VertexDeclaration VertexDeclaration { get; }
 
 * class [VertexDeclaration](../../../aspose.threed.utilities/vertexdeclaration/)
 * interface [IVertexBuffer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../ivertexbuffer/)
 * assembly [Aspose.3D](../../../)
 
 

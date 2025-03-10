@@ -3,7 +3,7 @@ title: VertexElementSpecular
 second_title: Aspose.3D for Java API Reference
 description: Defines specular color for specified components.
 type: docs
-weight: 204
+weight: 212
 url: /java/com.aspose.threed/vertexelementspecular/
 ---
 

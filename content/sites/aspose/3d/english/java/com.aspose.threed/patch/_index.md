@@ -3,7 +3,7 @@ title: Patch
 second_title: Aspose.3D for Java API Reference
 description: A  is a parametric modeling surface similar to  its also defined by two   the  and .
 type: docs
-weight: 110
+weight: 115
 url: /java/com.aspose.threed/patch/
 ---
 

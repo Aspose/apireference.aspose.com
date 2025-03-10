@@ -3,7 +3,7 @@ title: Frustum
 second_title: Aspose.3D for Java API Reference
 description: The base class of  and
 type: docs
-weight: 66
+weight: 67
 url: /java/com.aspose.threed/frustum/
 ---
 

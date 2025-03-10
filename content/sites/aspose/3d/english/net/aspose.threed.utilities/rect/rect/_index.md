@@ -24,7 +24,7 @@ public Rect(int x, int y, int width, int height)
 ### See Also
 
 * struct [Rect](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../rect/)
 * assembly [Aspose.3D](../../../)
 
 

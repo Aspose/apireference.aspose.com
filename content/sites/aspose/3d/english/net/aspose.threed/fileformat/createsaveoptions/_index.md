@@ -22,7 +22,7 @@ A default save option for current format
 
 * class [SaveOptions](../../../aspose.threed.formats/saveoptions/)
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.threed.shading/phongmaterial/set_texture/
+url: /python-net/aspose.threed.shading/phongmaterial/set_texture/
 is_root: false
 ---
 
-## set_texture {#str-aspose.threed.shading.TextureBase}
+## set_texture(self, slot_name, texture) {#str-aspose.threed.shading.TextureBase}
 
 Sets the texture to specified slot
 
 
 
 ```python
+
 def set_texture(self, slot_name, texture):
     ...
 ```

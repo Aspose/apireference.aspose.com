@@ -18,7 +18,7 @@ public Vector3 Up { get; set; }
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [Plane](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../plane/)
 * assembly [Aspose.3D](../../../)
 
 

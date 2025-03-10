@@ -27,7 +27,7 @@ VertexElementUV with the texture mapping type
 * class [VertexElementUV](../../vertexelementuv/)
 * enum [TextureMapping](../../texturemapping/)
 * class [Geometry](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../geometry/)
 * assembly [Aspose.3D](../../../)
 
 

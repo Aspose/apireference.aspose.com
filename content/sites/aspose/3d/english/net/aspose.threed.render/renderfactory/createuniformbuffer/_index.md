@@ -26,7 +26,7 @@ The uniform buffer instance
 
 * interface [IBuffer](../../ibuffer/)
 * class [RenderFactory](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderfactory/)
 * assembly [Aspose.3D](../../../)
 
 

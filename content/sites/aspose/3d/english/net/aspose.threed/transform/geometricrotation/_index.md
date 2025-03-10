@@ -14,7 +14,7 @@ Gets or sets the geometric Euler rotation(measured in degree). Geometric transfo
 public Vector3 GeometricRotation { get; set; }
 ```
 
-### Examples
+## Examples
 
 ```csharp
 Node node = new Node();
@@ -25,7 +25,7 @@ node.getTransform().setGeometricRotation(new Vector3(90, 0, 0));
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [Transform](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../transform/)
 * assembly [Aspose.3D](../../../)
 
 

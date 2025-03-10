@@ -21,7 +21,7 @@ The step.
 ### See Also
 
 * class [NurbsDirection](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../nurbsdirection/)
 * assembly [Aspose.3D](../../../)
 
 

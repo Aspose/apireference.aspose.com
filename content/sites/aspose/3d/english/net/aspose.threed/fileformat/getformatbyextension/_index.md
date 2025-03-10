@@ -22,7 +22,7 @@ public static FileFormat GetFormatByExtension(string extensionName)
 
 Instance of [`FileFormat`](../), otherwise null returned.
 
-### Examples
+## Examples
 
 The following code shows how to save scene to memory using specified format
 
@@ -39,7 +39,7 @@ using(var ms = new MemoryStream())
 ### See Also
 
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 

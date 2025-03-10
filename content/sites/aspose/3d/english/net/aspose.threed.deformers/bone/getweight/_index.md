@@ -25,7 +25,7 @@ the weight at specified index, or 0 if the index is invalid
 ### See Also
 
 * class [Bone](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../bone/)
 * assembly [Aspose.3D](../../../)
 
 

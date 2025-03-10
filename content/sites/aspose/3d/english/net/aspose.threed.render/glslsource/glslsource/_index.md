@@ -17,7 +17,7 @@ public GLSLSource()
 ### See Also
 
 * class [GLSLSource](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../glslsource/)
 * assembly [Aspose.3D](../../../)
 
 

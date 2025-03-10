@@ -18,7 +18,7 @@ public PdfLightingScheme LightingScheme { get; set; }
 
 * enum [PdfLightingScheme](../../pdflightingscheme/)
 * class [PdfSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../pdfsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.threed.utilities/boundingbox/__init__/
+url: /python-net/aspose.threed.utilities/boundingbox/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## __init__(self) {#}
 
 Constructs a new instance of BoundingBox
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3}
+## __init__(self, minimum, maximum) {#aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3}
 
 Initialize a finite bounding box with given minimum and maximum corner
 
 
 
 ```python
+
 def __init__(self, minimum, maximum):
     ...
 ```
@@ -55,13 +57,14 @@ print("Bounding box = "  + str(boundingBox))
 ```
 
 
-## __init__ {#float-float-float-float-float-float}
+## __init__(self, min_x, min_y, min_z, max_x, max_y, max_z) {#float-float-float-float-float-float}
 
 Initialize a finite bounding box with given minimum and maximum corner
 
 
 
 ```python
+
 def __init__(self, min_x, min_y, min_z, max_x, max_y, max_z):
     ...
 ```

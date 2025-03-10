@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.threed.entities/mesh/create_polygon/
+url: /python-net/aspose.threed.entities/mesh/create_polygon/
 is_root: false
 ---
 
-## create_polygon {#list}
+## create_polygon(self, indices) {#list}
 
 Creates a new polygon with all vertices defined in `indices`.
 To create polygon vertex by vertex, please use [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder).
@@ -16,6 +16,7 @@ To create polygon vertex by vertex, please use [`PolygonBuilder`](/3d/python-net
 
 
 ```python
+
 def create_polygon(self, indices):
     ...
 ```
@@ -38,7 +39,7 @@ mesh.create_polygon(indices)
 ```
 
 
-## create_polygon {#list-int-int}
+## create_polygon(self, indices, offset, length) {#list-int-int}
 
 Creates a new polygon with all vertices defined in `indices`.
 To create polygon vertex by vertex, please use [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder).
@@ -46,6 +47,7 @@ To create polygon vertex by vertex, please use [`PolygonBuilder`](/3d/python-net
 
 
 ```python
+
 def create_polygon(self, indices, offset, length):
     ...
 ```
@@ -72,13 +74,14 @@ mesh.create_polygon(indices)
 ```
 
 
-## create_polygon {#int-int-int}
+## create_polygon(self, v1, v2, v3) {#int-int-int}
 
 Create a polygon with 3 vertices(triangle)
 
 
 
 ```python
+
 def create_polygon(self, v1, v2, v3):
     ...
 ```
@@ -104,13 +107,14 @@ mesh.create_polygon(0, 1, 2)
 ```
 
 
-## create_polygon {#int-int-int-int}
+## create_polygon(self, v1, v2, v3, v4) {#int-int-int-int}
 
 Create a polygon with 4 vertices(quad)
 
 
 
 ```python
+
 def create_polygon(self, v1, v2, v3, v4):
     ...
 ```

@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.threed.utilities/matrix4/set_trs/
+url: /python-net/aspose.threed.utilities/matrix4/set_trs/
 is_root: false
 ---
 
-## set_trs {#aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3}
+## set_trs(self, translation, rotation, scale) {#aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3}
 
 Initializes the matrix with translation/rotation/scale
 
 
 
 ```python
+
 def set_trs(self, translation, rotation, scale):
     ...
 ```

@@ -17,7 +17,7 @@ public PdfLoadOptions()
 ### See Also
 
 * class [PdfLoadOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../pdfloadoptions/)
 * assembly [Aspose.3D](../../../)
 
 

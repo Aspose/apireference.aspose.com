@@ -19,7 +19,7 @@ public void Encode(Entity entity, Stream stream)
 | entity | Entity | The entity to encode |
 | stream | Stream | The stream to write to, this method will not close this stream |
 
-### Examples
+## Examples
 
 The following code shows how to encode a mesh into PLY file:
 
@@ -33,7 +33,7 @@ FileFormat.PLY.Encode(mesh, "sphere.ply");
 
 * class [Entity](../../../aspose.threed/entity/)
 * class [PlyFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../plyformat/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -52,7 +52,7 @@ public void Encode(Entity entity, Stream stream, PlySaveOptions opt)
 | stream | Stream | The stream to write to, this method will not close this stream |
 | opt | PlySaveOptions | Save options |
 
-### Examples
+## Examples
 
 The following code shows how to encode a mesh into PLY file:
 
@@ -67,7 +67,7 @@ FileFormat.PLY.Encode(mesh, "sphere.ply");
 * class [Entity](../../../aspose.threed/entity/)
 * class [PlySaveOptions](../../plysaveoptions/)
 * class [PlyFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../plyformat/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -85,7 +85,7 @@ public void Encode(Entity entity, string fileName)
 | entity | Entity | The entity to encode |
 | fileName | String | The file to write to |
 
-### Examples
+## Examples
 
 The following code shows how to encode a mesh into PLY file:
 
@@ -99,7 +99,7 @@ FileFormat.PLY.Encode(mesh, "sphere.ply");
 
 * class [Entity](../../../aspose.threed/entity/)
 * class [PlyFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../plyformat/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -118,7 +118,7 @@ public void Encode(Entity entity, string fileName, PlySaveOptions opt)
 | fileName | String | The file to write to |
 | opt | PlySaveOptions | Save options |
 
-### Examples
+## Examples
 
 The following code shows how to encode a mesh into PLY file:
 
@@ -133,7 +133,7 @@ FileFormat.PLY.Encode(mesh, "sphere.ply");
 * class [Entity](../../../aspose.threed/entity/)
 * class [PlySaveOptions](../../plysaveoptions/)
 * class [PlyFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../plyformat/)
 * assembly [Aspose.3D](../../../)
 
 

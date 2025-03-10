@@ -3,7 +3,7 @@ title: FileFormat.RvmText
 second_title: Aspose.3D for .NET API Reference
 description: FileFormat field. AVEVA Plant Design Management System Model in text format
 type: docs
-weight: 630
+weight: 640
 url: /net/aspose.threed/fileformat/rvmtext/
 ---
 ## FileFormat.RvmText field
@@ -18,7 +18,7 @@ public static readonly RvmFormat RvmText;
 
 * class [RvmFormat](../../../aspose.threed.formats/rvmformat/)
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 

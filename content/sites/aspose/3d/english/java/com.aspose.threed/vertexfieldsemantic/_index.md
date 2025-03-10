@@ -3,7 +3,7 @@ title: VertexFieldSemantic
 second_title: Aspose.3D for Java API Reference
 description: The semantic of the vertex field
 type: docs
-weight: 292
+weight: 304
 url: /java/com.aspose.threed/vertexfieldsemantic/
 ---
 
@@ -20,6 +20,8 @@ The semantic of the vertex field
 | --- | --- |
 | [BINORMAL](#BINORMAL) | Binormal vector |
 | [EDGE_CREASE](#EDGE-CREASE) | Edge crease |
+| [MORPH_NORMAL](#MORPH-NORMAL) | Normal data for morph target |
+| [MORPH_POSITION](#MORPH-POSITION) | Position data for morph target |
 | [NORMAL](#NORMAL) | Normal vector |
 | [POSITION](#POSITION) | Position data |
 | [SPECULAR](#SPECULAR) | Specular colors |
@@ -66,6 +68,22 @@ public static final VertexFieldSemantic EDGE_CREASE
 
 
 Edge crease
+
+### MORPH_NORMAL {#MORPH-NORMAL}
+```
+public static final VertexFieldSemantic MORPH_NORMAL
+```
+
+
+Normal data for morph target
+
+### MORPH_POSITION {#MORPH-POSITION}
+```
+public static final VertexFieldSemantic MORPH_POSITION
+```
+
+
+Position data for morph target
 
 ### NORMAL {#NORMAL}
 ```

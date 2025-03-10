@@ -18,7 +18,7 @@ public BoundingBox GetBoundingBox()
 
 the bounding box of current entity in its object space coordinate system.
 
-### Examples
+## Examples
 
 The following code shows how to calculate the bounding box of a shape
 
@@ -32,7 +32,7 @@ Console.WriteLine($"The bounding box of the entity is {bbox.Minimum} ~ {bbox.Max
 
 * struct [BoundingBox](../../../aspose.threed.utilities/boundingbox/)
 * class [Entity](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../entity/)
 * assembly [Aspose.3D](../../../)
 
 

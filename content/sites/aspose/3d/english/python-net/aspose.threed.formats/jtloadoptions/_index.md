@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /aspose.threed.formats/jtloadoptions/
+url: /python-net/aspose.threed.formats/jtloadoptions/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The JtLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/jtloadoptions/__init__/#) |  |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/jtloadoptions/__init__/#) |  |
 
 
 ### Properties

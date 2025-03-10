@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.render/icommandlist/bind_pipeline/
+url: /python-net/aspose.threed.render/icommandlist/bind_pipeline/
 is_root: false
 ---
 
-## bind_pipeline {#aspose.threed.render.IPipeline}
+## bind_pipeline(self, pipeline) {#aspose.threed.render.IPipeline}
 
 Bind the pipeline instance for rendering
 
 
 
 ```python
+
 def bind_pipeline(self, pipeline):
     ...
 ```

@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.utilities/vertexdeclaration/compare_to/
+url: /python-net/aspose.threed.utilities/vertexdeclaration/compare_to/
 is_root: false
 ---
 
-## compare_to {#aspose.threed.utilities.VertexDeclaration}
+## compare_to(self, other) {#aspose.threed.utilities.VertexDeclaration}
 
 Compares this instance to a specified object and returns an indication of their relative values.
 
 
 
 ```python
+
 def compare_to(self, other):
     ...
 ```

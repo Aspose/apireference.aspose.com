@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.threed.utilities/transformbuilder/rotate_radian/
+url: /python-net/aspose.threed.utilities/transformbuilder/rotate_radian/
 is_root: false
 ---
 
-## rotate_radian {#float-aspose.threed.utilities.Vector3}
+## rotate_radian(self, angle, axis) {#float-aspose.threed.utilities.Vector3}
 
 Chain a rotation transform in radian
 
 
 
 ```python
+
 def rotate_radian(self, angle, axis):
     ...
 ```
@@ -26,13 +27,14 @@ def rotate_radian(self, angle, axis):
 | axis | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The axis to rotate |
 
 
-## rotate_radian {#aspose.threed.utilities.Vector3-aspose.threed.utilities.RotationOrder}
+## rotate_radian(self, rot, order) {#aspose.threed.utilities.Vector3-aspose.threed.utilities.RotationOrder}
 
 Append rotation with specified order
 
 
 
 ```python
+
 def rotate_radian(self, rot, order):
     ...
 ```

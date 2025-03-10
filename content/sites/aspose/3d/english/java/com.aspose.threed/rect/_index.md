@@ -3,7 +3,7 @@ title: Rect
 second_title: Aspose.3D for Java API Reference
 description: A class to represent the rectangle
 type: docs
-weight: 135
+weight: 140
 url: /java/com.aspose.threed/rect/
 ---
 
@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/rect/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.csporter.helpers.Struct, java.io.Serializable
+com.aspose.threed.Struct, java.io.Serializable
 ```
 public final class Rect implements Struct<Rect>, Serializable
 ```
@@ -79,7 +79,7 @@ public Rect clone()
 ```
 
 
-
+Clone current instance
 
 **Returns:**
 [Rect](../../com.aspose.threed/rect)

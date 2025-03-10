@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.utilities/boundingbox/contains/
+url: /python-net/aspose.threed.utilities/boundingbox/contains/
 is_root: false
 ---
 
-## contains {#aspose.threed.utilities.Vector3}
+## contains(self, p) {#aspose.threed.utilities.Vector3}
 
 Check if the point p is inside the bounding box
 
@@ -20,6 +20,7 @@ True if the point is inside the bounding box
 
 
 ```python
+
 def contains(self, p):
     ...
 ```

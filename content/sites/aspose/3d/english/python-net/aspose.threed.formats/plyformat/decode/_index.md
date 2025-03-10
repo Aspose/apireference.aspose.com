@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.formats/plyformat/decode/
+url: /python-net/aspose.threed.formats/plyformat/decode/
 is_root: false
 ---
 
-## decode {#str}
+## decode(self, file_name) {#str}
 
 Decode a point cloud or mesh from the specified stream.
 
@@ -20,6 +20,7 @@ A [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) or [`PointCloud`](/3d/pyt
 
 
 ```python
+
 def decode(self, file_name):
     ...
 ```
@@ -47,7 +48,7 @@ mesh = pycore.cast(Mesh, FileFormat.PLY.decode("sphere.ply"))
 ```
 
 
-## decode {#io.RawIOBase}
+## decode(self, stream) {#io.RawIOBase}
 
 Decode a point cloud or mesh from the specified stream.
 
@@ -59,6 +60,7 @@ A [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) or [`PointCloud`](/3d/pyt
 
 
 ```python
+
 def decode(self, stream):
     ...
 ```
@@ -86,7 +88,7 @@ mesh = pycore.cast(Mesh, FileFormat.PLY.decode("sphere.ply"))
 ```
 
 
-## decode {#str-aspose.threed.formats.PlyLoadOptions}
+## decode(self, file_name, opt) {#str-aspose.threed.formats.PlyLoadOptions}
 
 Decode a point cloud or mesh from the specified stream.
 
@@ -98,6 +100,7 @@ A [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) or [`PointCloud`](/3d/pyt
 
 
 ```python
+
 def decode(self, file_name, opt):
     ...
 ```
@@ -126,7 +129,7 @@ mesh = pycore.cast(Mesh, FileFormat.PLY.decode("sphere.ply"))
 ```
 
 
-## decode {#io.RawIOBase-aspose.threed.formats.PlyLoadOptions}
+## decode(self, stream, opt) {#io.RawIOBase-aspose.threed.formats.PlyLoadOptions}
 
 Decode a point cloud or mesh from the specified stream.
 
@@ -138,6 +141,7 @@ A [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) or [`PointCloud`](/3d/pyt
 
 
 ```python
+
 def decode(self, stream, opt):
     ...
 ```

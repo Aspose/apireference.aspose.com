@@ -22,7 +22,7 @@ public bool OverlapsWith(BoundingBox box)
 
 True if the current bounding box overlaps with the given one.
 
-### Examples
+## Examples
 
 The following code shows how to check if two bounding boxes overlaps with each other.
 
@@ -35,7 +35,7 @@ Console.WriteLine("Bounding box overlaps = " + boundingBox.OverlapsWith(bbox2));
 ### See Also
 
 * struct [BoundingBox](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox/)
 * assembly [Aspose.3D](../../../)
 
 

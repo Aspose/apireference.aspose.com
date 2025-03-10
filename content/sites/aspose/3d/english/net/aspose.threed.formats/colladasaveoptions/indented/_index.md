@@ -17,7 +17,7 @@ public bool Indented { get; set; }
 ### See Also
 
 * class [ColladaSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../colladasaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.threed.render/renderfactory/create_pipeline/
+url: /python-net/aspose.threed.render/renderfactory/create_pipeline/
 is_root: false
 ---
 
-## create_pipeline {#aspose.threed.render.ShaderProgram-aspose.threed.render.RenderState-aspose.threed.utilities.VertexDeclaration-aspose.threed.render.DrawOperation}
+## create_pipeline(self, shader, render_state, vertex_declaration, draw_operation) {#aspose.threed.render.ShaderProgram-aspose.threed.render.RenderState-aspose.threed.utilities.VertexDeclaration-aspose.threed.render.DrawOperation}
 
 Create a preconfigured graphics pipeline with preconfigured shader/render state/vertex declaration and draw operations.
 
@@ -20,6 +20,7 @@ A new pipeline instance
 
 
 ```python
+
 def create_pipeline(self, shader, render_state, vertex_declaration, draw_operation):
     ...
 ```

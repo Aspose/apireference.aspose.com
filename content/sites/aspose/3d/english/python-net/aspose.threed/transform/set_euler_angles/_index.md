@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.threed/transform/set_euler_angles/
+url: /python-net/aspose.threed/transform/set_euler_angles/
 is_root: false
 ---
 
-## set_euler_angles {#float-float-float}
+## set_euler_angles(self, rx, ry, rz) {#float-float-float}
 
 Sets the Euler angles in degrees of current transform.
 
@@ -20,6 +20,7 @@ Sets the Euler angles in degrees of current transform.
 
 
 ```python
+
 def set_euler_angles(self, rx, ry, rz):
     ...
 ```

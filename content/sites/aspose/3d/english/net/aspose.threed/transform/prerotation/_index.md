@@ -14,7 +14,7 @@ Gets or sets the pre-rotation represented in degree
 public Vector3 PreRotation { get; set; }
 ```
 
-### Examples
+## Examples
 
 ```csharp
 Node node = new Node();
@@ -25,7 +25,7 @@ node.Transform.PreRotation = new Vector3(90, 0, 0);
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [Transform](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../transform/)
 * assembly [Aspose.3D](../../../)
 
 

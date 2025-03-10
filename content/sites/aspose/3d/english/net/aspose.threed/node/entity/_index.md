@@ -18,7 +18,7 @@ public Entity Entity { get; set; }
 
 The node entity.
 
-### Examples
+## Examples
 
 The following code shows how to create a new child node under root node
 
@@ -33,7 +33,7 @@ scene.Save("output.fbx");
 
 * class [Entity](../../entity/)
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

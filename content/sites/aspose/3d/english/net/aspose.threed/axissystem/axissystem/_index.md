@@ -25,7 +25,7 @@ public AxisSystem(CoordinateSystem coordinateSystem, Axis up, Axis front)
 * enum [CoordinateSystem](../../coordinatesystem/)
 * enum [Axis](../../axis/)
 * class [AxisSystem](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../axissystem/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -48,7 +48,7 @@ public AxisSystem(CoordinateSystem coordinateSystem, Axis up)
 * enum [CoordinateSystem](../../coordinatesystem/)
 * enum [Axis](../../axis/)
 * class [AxisSystem](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../axissystem/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -63,7 +63,7 @@ public AxisSystem(Axis up, Axis? front)
 
 * enum [Axis](../../axis/)
 * class [AxisSystem](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../axissystem/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -79,7 +79,7 @@ public AxisSystem(CoordinateSystem? coordinateSystem, Axis? up, Axis? front)
 * enum [CoordinateSystem](../../coordinatesystem/)
 * enum [Axis](../../axis/)
 * class [AxisSystem](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../axissystem/)
 * assembly [Aspose.3D](../../../)
 
 

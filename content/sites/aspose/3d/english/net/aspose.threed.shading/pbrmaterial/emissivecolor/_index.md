@@ -18,7 +18,7 @@ public Vector3 EmissiveColor { get; set; }
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [PbrMaterial](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../pbrmaterial/)
 * assembly [Aspose.3D](../../../)
 
 

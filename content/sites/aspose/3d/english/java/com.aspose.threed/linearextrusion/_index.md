@@ -3,7 +3,7 @@ title: LinearExtrusion
 second_title: Aspose.3D for Java API Reference
 description: Linear extrusion takes a 2D shape as input and extends the shape in the 3rd dimension.
 type: docs
-weight: 90
+weight: 92
 url: /java/com.aspose.threed/linearextrusion/
 ---
 

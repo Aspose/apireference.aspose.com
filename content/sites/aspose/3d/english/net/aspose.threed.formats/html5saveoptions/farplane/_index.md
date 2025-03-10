@@ -17,7 +17,7 @@ public double FarPlane { get; set; }
 ### See Also
 
 * class [Html5SaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../html5saveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

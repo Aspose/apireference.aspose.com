@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /aspose.threed.entities/nurbsdirection/
+url: /python-net/aspose.threed.entities/nurbsdirection/
 is_root: false
 ---
 
@@ -20,7 +20,7 @@ The NurbsDirection type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.entities/nurbsdirection/__init__/#) | Constructs a new instance of NurbsDirection |
+| [`__init__(self)`](/3d/python-net/aspose.threed.entities/nurbsdirection/__init__/#) | Constructs a new instance of NurbsDirection |
 
 
 ### Properties

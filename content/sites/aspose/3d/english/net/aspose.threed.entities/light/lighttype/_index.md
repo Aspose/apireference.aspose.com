@@ -18,7 +18,7 @@ public LightType LightType { get; set; }
 
 * enum [LightType](../../lighttype/)
 * class [Light](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../light/)
 * assembly [Aspose.3D](../../../)
 
 

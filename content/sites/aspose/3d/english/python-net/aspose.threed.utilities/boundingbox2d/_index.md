@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.utilities/boundingbox2d/
+url: /python-net/aspose.threed.utilities/boundingbox2d/
 is_root: false
 ---
 
@@ -19,8 +19,8 @@ The BoundingBox2D type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.utilities/boundingbox2d/__init__/#aspose.threed.utilities.Vector2-aspose.threed.utilities.Vector2) | Initialize a finite bounding box with given minimum and maximum corner |
-| [__init__](/3d/python-net/aspose.threed.utilities/boundingbox2d/__init__/#) | Constructs a new instance of BoundingBox2D |
+| [`__init__(self, minimum, maximum)`](/3d/python-net/aspose.threed.utilities/boundingbox2d/__init__/#aspose.threed.utilities.vector2-aspose.threed.utilities.vector2) | Initialize a finite bounding box with given minimum and maximum corner |
+| [`__init__(self)`](/3d/python-net/aspose.threed.utilities/boundingbox2d/__init__/#) | Constructs a new instance of BoundingBox2D |
 
 
 ### Properties
@@ -36,8 +36,8 @@ The BoundingBox2D type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [merge](/3d/python-net/aspose.threed.utilities/boundingbox2d/merge/#aspose.threed.utilities.Vector2) | Merges the new box into the current bounding box. |
-| [merge](/3d/python-net/aspose.threed.utilities/boundingbox2d/merge/#aspose.threed.utilities.BoundingBox2D) | Merges the new box into the current bounding box. |
+| [`merge(self, pt)`](/3d/python-net/aspose.threed.utilities/boundingbox2d/merge/#aspose.threed.utilities.vector2) | Merges the new box into the current bounding box. |
+| [`merge(self, bb)`](/3d/python-net/aspose.threed.utilities/boundingbox2d/merge/#aspose.threed.utilities.boundingbox2d) | Merges the new box into the current bounding box. |
 
 
 

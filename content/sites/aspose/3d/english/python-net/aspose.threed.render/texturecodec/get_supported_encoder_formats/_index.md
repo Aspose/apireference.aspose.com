@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.render/texturecodec/get_supported_encoder_formats/
+url: /python-net/aspose.threed.render/texturecodec/get_supported_encoder_formats/
 is_root: false
 ---
 
-## get_supported_encoder_formats {#}
+## get_supported_encoder_formats() {#}
 
 Gets all supported encoder formats
 
@@ -20,7 +20,9 @@ Gets all supported encoder formats
 
 
 ```python
-def get_supported_encoder_formats(self):
+
+@staticmethod
+def get_supported_encoder_formats():
     ...
 ```
 

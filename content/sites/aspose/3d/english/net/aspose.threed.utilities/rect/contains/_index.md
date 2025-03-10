@@ -22,7 +22,7 @@ public bool Contains(int x, int y)
 ### See Also
 
 * struct [Rect](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../rect/)
 * assembly [Aspose.3D](../../../)
 
 

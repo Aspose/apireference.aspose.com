@@ -3,7 +3,7 @@ title: FontFile
 second_title: Aspose.3D for Java API Reference
 description: Font file contains definitions for glyphs this is used to create text profile.
 type: docs
-weight: 65
+weight: 66
 url: /java/com.aspose.threed/fontfile/
 ---
 

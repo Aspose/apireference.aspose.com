@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.threed.formats/microsoft3mfformat/set_buildable/
+url: /python-net/aspose.threed.formats/microsoft3mfformat/set_buildable/
 is_root: false
 ---
 
-## set_buildable {#aspose.threed.Node-bool-Nullable<Aspose.ThreeD.Utilities.Matrix4>}
+## set_buildable(self, node, value, transform) {#aspose.threed.Node-bool-Nullable<Aspose.ThreeD.Utilities.Matrix4>}
 
 
 
 
 
 ```python
+
 def set_buildable(self, node, value, transform):
     ...
 ```

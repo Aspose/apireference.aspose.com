@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.threed/transform/set_post_rotation/
+url: /python-net/aspose.threed/transform/set_post_rotation/
 is_root: false
 ---
 
-## set_post_rotation {#float-float-float}
+## set_post_rotation(self, rx, ry, rz) {#float-float-float}
 
 Sets the post-rotation represented in degree
 
 
 
 ```python
+
 def set_post_rotation(self, rx, ry, rz):
     ...
 ```

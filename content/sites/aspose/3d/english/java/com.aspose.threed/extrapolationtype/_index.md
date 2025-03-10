@@ -3,7 +3,7 @@ title: ExtrapolationType
 second_title: Aspose.3D for Java API Reference
 description: Extrapolation type.
 type: docs
-weight: 261
+weight: 273
 url: /java/com.aspose.threed/extrapolationtype/
 ---
 

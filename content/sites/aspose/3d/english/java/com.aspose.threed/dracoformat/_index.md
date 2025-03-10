@@ -85,12 +85,12 @@ Mesh mesh = (new Sphere()).toMesh();
 | [createSaveOptions()](#createSaveOptions--) | Create a default save options for this file format |
 | [decode(byte[] data)](#decode-byte---) | Decode the point cloud or mesh from memory data |
 | [decode(String fileName)](#decode-java.lang.String-) | Decode the point cloud or mesh from specified file name |
-| [detect(Stream stream, String fileName)](#detect-com.aspose.csporter.helpers.Stream-java.lang.String-) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [detect(Stream stream, String fileName)](#detect-com.aspose.threed.Stream-java.lang.String-) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
 | [detect(String fileName)](#detect-java.lang.String-) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
 | [encode(Entity entity)](#encode-com.aspose.threed.Entity-) | Encode the entity to Draco raw data |
-| [encode(Entity entity, Stream stream)](#encode-com.aspose.threed.Entity-com.aspose.csporter.helpers.Stream-) | Encode the entity to specified stream |
-| [encode(Entity entity, Stream stream, DracoSaveOptions options)](#encode-com.aspose.threed.Entity-com.aspose.csporter.helpers.Stream-com.aspose.threed.DracoSaveOptions-) | Encode the entity to specified stream |
 | [encode(Entity entity, DracoSaveOptions options)](#encode-com.aspose.threed.Entity-com.aspose.threed.DracoSaveOptions-) | Encode the entity to Draco raw data |
+| [encode(Entity entity, Stream stream)](#encode-com.aspose.threed.Entity-com.aspose.threed.Stream-) | Encode the entity to specified stream |
+| [encode(Entity entity, Stream stream, DracoSaveOptions options)](#encode-com.aspose.threed.Entity-com.aspose.threed.Stream-com.aspose.threed.DracoSaveOptions-) | Encode the entity to specified stream |
 | [encode(Entity entity, String fileName)](#encode-com.aspose.threed.Entity-java.lang.String-) | Encode the entity to specified file |
 | [encode(Entity entity, String fileName, DracoSaveOptions options)](#encode-com.aspose.threed.Entity-java.lang.String-com.aspose.threed.DracoSaveOptions-) | Encode the entity to specified file |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
@@ -102,6 +102,7 @@ Mesh mesh = (new Sphere()).toMesh();
 | [getExtensions()](#getExtensions--) | Gets the extension names of this type. |
 | [getFileFormatType()](#getFileFormatType--) | Gets file format type |
 | [getFormatByExtension(String extensionName)](#getFormatByExtension-java.lang.String-) | Gets the preferred file format from the file extension name The extension name should starts with a dot('.'). |
+| [getFormats()](#getFormats--) | Access to all supported formats |
 | [getVersion()](#getVersion--) | Gets file format version |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
@@ -568,7 +569,7 @@ Decode the point cloud or mesh from specified file name
 
 **Returns:**
 [Geometry](../../com.aspose.threed/geometry) - A [Mesh](../../com.aspose.threed/mesh) or [PointCloud](../../com.aspose.threed/pointcloud) instance depends on the file content
-### detect(Stream stream, String fileName) {#detect-com.aspose.csporter.helpers.Stream-java.lang.String-}
+### detect(Stream stream, String fileName) {#detect-com.aspose.threed.Stream-java.lang.String-}
 ```
 public static FileFormat detect(Stream stream, String fileName)
 ```
@@ -579,7 +580,7 @@ Detect the file format from data stream, file name is optional for guessing type
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Stream containing data to detect |
+| stream | [Stream](../../com.aspose.threed/stream) | Stream containing data to detect |
 | fileName | java.lang.String | Original file name of the data, used as hint. |
 
 **Returns:**
@@ -622,35 +623,6 @@ Mesh mesh = (new Sphere()).toMesh();
              //decode mesh from Draco format
              Mesh decodedMesh = (Mesh)FileFormat.DRACO.decode(draco);
 ```
-### encode(Entity entity, Stream stream) {#encode-com.aspose.threed.Entity-com.aspose.csporter.helpers.Stream-}
-```
-public void encode(Entity entity, Stream stream)
-```
-
-
-Encode the entity to specified stream
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| entity | [Entity](../../com.aspose.threed/entity) | The entity to be encoded |
-| stream | com.aspose.csporter.helpers.Stream | The stream that encoded data will be written to |
-
-### encode(Entity entity, Stream stream, DracoSaveOptions options) {#encode-com.aspose.threed.Entity-com.aspose.csporter.helpers.Stream-com.aspose.threed.DracoSaveOptions-}
-```
-public void encode(Entity entity, Stream stream, DracoSaveOptions options)
-```
-
-
-Encode the entity to specified stream
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| entity | [Entity](../../com.aspose.threed/entity) | The entity to be encoded |
-| stream | com.aspose.csporter.helpers.Stream | The stream that encoded data will be written to |
-| options | [DracoSaveOptions](../../com.aspose.threed/dracosaveoptions) | Extra options for encoding the point cloud |
-
 ### encode(Entity entity, DracoSaveOptions options) {#encode-com.aspose.threed.Entity-com.aspose.threed.DracoSaveOptions-}
 ```
 public byte[] encode(Entity entity, DracoSaveOptions options)
@@ -675,6 +647,35 @@ Mesh mesh = (new Sphere()).toMesh();
              //decode mesh from Draco format
              Mesh decodedMesh = (Mesh)FileFormat.DRACO.decode(draco);
 ```
+### encode(Entity entity, Stream stream) {#encode-com.aspose.threed.Entity-com.aspose.threed.Stream-}
+```
+public void encode(Entity entity, Stream stream)
+```
+
+
+Encode the entity to specified stream
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| entity | [Entity](../../com.aspose.threed/entity) | The entity to be encoded |
+| stream | [Stream](../../com.aspose.threed/stream) | The stream that encoded data will be written to |
+
+### encode(Entity entity, Stream stream, DracoSaveOptions options) {#encode-com.aspose.threed.Entity-com.aspose.threed.Stream-com.aspose.threed.DracoSaveOptions-}
+```
+public void encode(Entity entity, Stream stream, DracoSaveOptions options)
+```
+
+
+Encode the entity to specified stream
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| entity | [Entity](../../com.aspose.threed/entity) | The entity to be encoded |
+| stream | [Stream](../../com.aspose.threed/stream) | The stream that encoded data will be written to |
+| options | [DracoSaveOptions](../../com.aspose.threed/dracosaveoptions) | Extra options for encoding the point cloud |
+
 ### encode(Entity entity, String fileName) {#encode-com.aspose.threed.Entity-java.lang.String-}
 ```
 public void encode(Entity entity, String fileName)
@@ -839,6 +840,16 @@ Scene scene = new Scene(new Box());
      var output = new ByteArrayOutputStream();
      scene.save(output);
 ```
+### getFormats() {#getFormats--}
+```
+public static List<FileFormat> getFormats()
+```
+
+
+Access to all supported formats
+
+**Returns:**
+java.util.List<com.aspose.threed.FileFormat> - Access to all supported formats
 ### getVersion() {#getVersion--}
 ```
 public Version getVersion()
@@ -848,7 +859,7 @@ public Version getVersion()
 Gets file format version
 
 **Returns:**
-com.aspose.csporter.helpers.Version - file format version
+[Version](../../com.aspose.threed/version) - file format version
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

@@ -18,7 +18,7 @@ public Profile Shape { get; set; }
 
 * class [Profile](../../../aspose.threed.profiles/profile/)
 * class [LinearExtrusion](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../linearextrusion/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -17,7 +17,7 @@ public bool Excluded { get; set; }
 ### See Also
 
 * class [Entity](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../entity/)
 * assembly [Aspose.3D](../../../)
 
 

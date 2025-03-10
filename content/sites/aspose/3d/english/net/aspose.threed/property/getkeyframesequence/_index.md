@@ -28,7 +28,7 @@ The keyframe sequence on specified animation instance
 * class [KeyframeSequence](../../../aspose.threed.animation/keyframesequence/)
 * class [AnimationNode](../../../aspose.threed.animation/animationnode/)
 * class [Property](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../property/)
 * assembly [Aspose.3D](../../../)
 
 

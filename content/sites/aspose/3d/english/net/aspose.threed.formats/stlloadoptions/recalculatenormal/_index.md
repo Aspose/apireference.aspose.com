@@ -17,7 +17,7 @@ public bool RecalculateNormal { get; set; }
 ### See Also
 
 * class [StlLoadOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../stlloadoptions/)
 * assembly [Aspose.3D](../../../)
 
 

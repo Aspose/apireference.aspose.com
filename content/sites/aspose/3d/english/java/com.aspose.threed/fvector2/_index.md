@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/fvector2/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.csporter.helpers.Struct, java.io.Serializable
+com.aspose.threed.Struct, java.io.Serializable
 ```
 public final class FVector2 implements Struct<FVector2>, Serializable
 ```
@@ -46,7 +46,7 @@ A float vector with two components.
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [op_eq(FVector2 a, FVector2 b)](#op-eq-com.aspose.threed.FVector2-com.aspose.threed.FVector2-) | == Operator overloading |
-| [op_ne(FVector2 a, FVector2 b)](#op-ne-com.aspose.threed.FVector2-com.aspose.threed.FVector2-) | != Operator overloading |
+| [op_ne(FVector2 a, FVector2 b)](#op-ne-com.aspose.threed.FVector2-com.aspose.threed.FVector2-) | ! |
 | [sub(FVector2 a, FVector2 b)](#sub-com.aspose.threed.FVector2-com.aspose.threed.FVector2-) | \- Operator overloading |
 | [toString()](#toString--) | Returns a string that represents the [FVector2](../../com.aspose.threed/fvector2) |
 | [wait()](#wait--) |  |
@@ -123,7 +123,7 @@ public FVector2 clone()
 ```
 
 
-
+Clone current instance
 
 **Returns:**
 [FVector2](../../com.aspose.threed/fvector2)

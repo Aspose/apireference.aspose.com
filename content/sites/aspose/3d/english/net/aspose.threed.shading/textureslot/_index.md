@@ -21,7 +21,7 @@ public class TextureSlot
 | [SlotName](../../aspose.threed.shading/textureslot/slotname/) { get; } | The slot name that indicates where this texture will be bounded to. |
 | [Texture](../../aspose.threed.shading/textureslot/texture/) { get; } | The texture that will be bounded to the material. |
 
-### Examples
+## Examples
 
 ```csharp
 var mat = new LambertMaterial();

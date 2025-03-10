@@ -3,7 +3,7 @@ title: IVertexBuffer
 second_title: Aspose.3D for Java API Reference
 description: The vertex buffer holds the polygon vertex data that will be sent to rendering pipeline
 type: docs
-weight: 243
+weight: 254
 url: /java/com.aspose.threed/ivertexbuffer/
 ---
 

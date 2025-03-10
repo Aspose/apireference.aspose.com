@@ -21,7 +21,7 @@ public ShaderVariable(string name)
 ### See Also
 
 * class [ShaderVariable](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../shadervariable/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -43,7 +43,7 @@ public ShaderVariable(string name, ShaderStage shaderStage)
 
 * enum [ShaderStage](../../shaderstage/)
 * class [ShaderVariable](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../shadervariable/)
 * assembly [Aspose.3D](../../../)
 
 

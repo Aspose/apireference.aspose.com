@@ -25,7 +25,7 @@ public Matrix4(Vector4 r0, Vector4 r1, Vector4 r2, Vector4 r3)
 
 * struct [Vector4](../../vector4/)
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -59,7 +59,7 @@ public Matrix4(double m00, double m01, double m02, double m03, double m10, doubl
 | m32 | Double | M32. |
 | m33 | Double | M33. |
 
-### Examples
+## Examples
 
 ```csharp
 var mat = new Matrix4(
@@ -74,7 +74,7 @@ var transformed = mat * pos;
 ### See Also
 
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -95,7 +95,7 @@ public Matrix4(FMatrix4 m)
 
 * struct [FMatrix4](../../fmatrix4/)
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -115,7 +115,7 @@ public Matrix4(double[] m)
 ### See Also
 
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 

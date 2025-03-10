@@ -18,7 +18,7 @@ public Transform Transform { get; }
 
 The transform.
 
-### Examples
+## Examples
 
 The following code shows how to change the transform of the node:
 
@@ -33,7 +33,7 @@ boxNode.Transform.Translation = new Vector3(10, 0, 0);
 
 * class [Transform](../../transform/)
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

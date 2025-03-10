@@ -26,7 +26,7 @@ public void Encode(Entity entity, Stream stream, DracoSaveOptions options = null
 | --- | --- |
 | IOException | Thrown when failed to read from stream |
 
-### Examples
+## Examples
 
 The following code shows how to encode and decode a Mesh to/from byte array:
 
@@ -43,7 +43,7 @@ Mesh decodedMesh = (Mesh)FileFormat.Draco.Decode(draco);
 * class [Entity](../../../aspose.threed/entity/)
 * class [DracoSaveOptions](../../dracosaveoptions/)
 * class [DracoFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../dracoformat/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -68,7 +68,7 @@ public void Encode(Entity entity, string fileName, DracoSaveOptions options = nu
 | --- | --- |
 | IOException | Thrown when failed to read from file |
 
-### Examples
+## Examples
 
 The following code shows how to encode and decode a Mesh to/from byte array:
 
@@ -85,7 +85,7 @@ Mesh decodedMesh = (Mesh)FileFormat.Draco.Decode(draco);
 * class [Entity](../../../aspose.threed/entity/)
 * class [DracoSaveOptions](../../dracosaveoptions/)
 * class [DracoFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../dracoformat/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -107,7 +107,7 @@ public byte[] Encode(Entity entity, DracoSaveOptions options = null)
 
 The encoded draco data represented in bytes
 
-### Examples
+## Examples
 
 The following code shows how to encode and decode a Mesh to/from byte array:
 
@@ -124,7 +124,7 @@ Mesh decodedMesh = (Mesh)FileFormat.Draco.Decode(draco);
 * class [Entity](../../../aspose.threed/entity/)
 * class [DracoSaveOptions](../../dracosaveoptions/)
 * class [DracoFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../dracoformat/)
 * assembly [Aspose.3D](../../../)
 
 

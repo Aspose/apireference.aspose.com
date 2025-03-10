@@ -17,7 +17,7 @@ public VertexElementVertexCrease()
 ### See Also
 
 * class [VertexElementVertexCrease](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementvertexcrease/)
 * assembly [Aspose.3D](../../../)
 
 

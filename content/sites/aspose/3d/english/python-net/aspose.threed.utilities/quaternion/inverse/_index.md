@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.threed.utilities/quaternion/inverse/
+url: /python-net/aspose.threed.utilities/quaternion/inverse/
 is_root: false
 ---
 
-## inverse {#}
+## inverse(self) {#}
 
 Returns a inverse quaternion of current quaternion
 
@@ -20,6 +20,7 @@ Inverse quaternion.
 
 
 ```python
+
 def inverse(self):
     ...
 ```

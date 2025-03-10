@@ -18,7 +18,7 @@ public Vector3 UVRotation { get; set; }
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [TextureBase](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../texturebase/)
 * assembly [Aspose.3D](../../../)
 
 

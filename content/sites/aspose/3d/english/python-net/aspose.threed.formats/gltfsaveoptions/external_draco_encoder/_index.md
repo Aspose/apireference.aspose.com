@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.threed.formats/gltfsaveoptions/external_draco_encoder/
+url: /python-net/aspose.threed.formats/gltfsaveoptions/external_draco_encoder/
 is_root: false
 ---
 

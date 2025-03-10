@@ -28,7 +28,7 @@ public static Scene FromFile(string fileName, FileFormat format,
 | IOException | Thrown when failed at reading input |
 | [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to create a scene from a file
 
@@ -41,7 +41,7 @@ Scene scene = Scene.FromFile("input.fbx", FileFormat.FBX7400ASCII, cts.Token);
 
 * class [FileFormat](../../fileformat/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -68,7 +68,7 @@ public static Scene FromFile(string fileName, LoadOptions options,
 | IOException | Thrown when failed at reading input |
 | [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to create a scene from a file
 
@@ -83,7 +83,7 @@ Scene scene = Scene.FromFile("input.fbx", opt, cts.Token);
 
 * class [LoadOptions](../../../aspose.threed.formats/loadoptions/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -107,7 +107,7 @@ public static Scene FromFile(string fileName)
 | IOException | Thrown when failed at reading input |
 | [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to create a scene from a file
 
@@ -118,7 +118,7 @@ Scene scene = Scene.FromFile("input.fbx");
 ### See Also
 
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -143,7 +143,7 @@ public static Scene FromFile(string fileName, CancellationToken cancellationToke
 | IOException | Thrown when failed at reading input |
 | [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to create a scene from a file
 
@@ -155,7 +155,7 @@ Scene scene = Scene.FromFile("input.fbx", cts.Token);
 ### See Also
 
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 

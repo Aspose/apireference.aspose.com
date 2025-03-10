@@ -18,7 +18,7 @@ public override Mesh ToMesh()
 
 * class [Mesh](../../mesh/)
 * class [RectangularTorus](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../rectangulartorus/)
 * assembly [Aspose.3D](../../../)
 
 

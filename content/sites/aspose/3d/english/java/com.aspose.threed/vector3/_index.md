@@ -3,7 +3,7 @@ title: Vector3
 second_title: Aspose.3D for Java API Reference
 description: A vector with three components.
 type: docs
-weight: 190
+weight: 197
 url: /java/com.aspose.threed/vector3/
 ---
 
@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/vector3/
 java.lang.Object
 
 **All Implemented Interfaces:**
-java.lang.Comparable, com.aspose.csporter.helpers.Struct, java.io.Serializable
+java.lang.Comparable, com.aspose.threed.Struct, java.io.Serializable
 ```
 public final class Vector3 implements Comparable<Vector3>, Struct<Vector3>, Serializable
 ```
@@ -214,7 +214,7 @@ public Vector3 clone()
 ```
 
 
-
+Clone current instance
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3)

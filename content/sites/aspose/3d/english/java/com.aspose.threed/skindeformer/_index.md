@@ -3,7 +3,7 @@ title: SkinDeformer
 second_title: Aspose.3D for Java API Reference
 description: A skin deformer contains multiple bones to work each bone blends a part of the geometry by control points weights.
 type: docs
-weight: 164
+weight: 169
 url: /java/com.aspose.threed/skindeformer/
 ---
 

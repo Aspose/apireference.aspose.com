@@ -4,18 +4,20 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.entities/polygonmodifier/apply_transform/
+url: /python-net/aspose.threed.entities/polygonmodifier/apply_transform/
 is_root: false
 ---
 
-## apply_transform {#aspose.threed.Node-aspose.threed.utilities.Matrix4}
+## apply_transform(, node, transform) {#aspose.threed.Node-aspose.threed.utilities.Matrix4}
 
 Apply transform matrix on control points of all geometries
 
 
 
 ```python
-def apply_transform(self, node, transform):
+
+@staticmethod
+def apply_transform(node, transform):
     ...
 ```
 

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.formats/dracoformat/decode/
+url: /python-net/aspose.threed.formats/dracoformat/decode/
 is_root: false
 ---
 
-## decode {#str}
+## decode(self, file_name) {#str}
 
 Decode the point cloud or mesh from specified file name
 
@@ -20,6 +20,7 @@ A [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) or [`PointCloud`](/3d/pyt
 
 
 ```python
+
 def decode(self, file_name):
     ...
 ```
@@ -35,8 +36,26 @@ def decode(self, file_name):
 
 
 
+### Example 
 
-## decode {#bytes}
+
+The following code shows how to encode and decode a Mesh to/from byte array:
+		
+```python
+from aspose import pycore
+from aspose.threed import FileFormat
+from aspose.threed.entities import Mesh, Sphere
+
+mesh = Sphere().to_mesh()
+# encode mesh into Draco format
+draco = FileFormat.DRACO.encode(mesh)
+# decode mesh from Draco format
+decodedMesh = pycore.cast(Mesh, FileFormat.DRACO.decode(draco))
+
+```
+
+
+## decode(self, data) {#bytes}
 
 Decode the point cloud or mesh from memory data
 
@@ -48,6 +67,7 @@ A [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) or [`PointCloud`](/3d/pyt
 
 
 ```python
+
 def decode(self, data):
     ...
 ```
@@ -62,6 +82,24 @@ def decode(self, data):
 | [`ImportException`](/3d/python-net/aspose.threed/importexception) | Thrown when data is malformed. |
 
 
+
+### Example 
+
+
+The following code shows how to encode and decode a Mesh to/from byte array:
+		
+```python
+from aspose import pycore
+from aspose.threed import FileFormat
+from aspose.threed.entities import Mesh, Sphere
+
+mesh = Sphere().to_mesh()
+# encode mesh into Draco format
+draco = FileFormat.DRACO.encode(mesh)
+# decode mesh from Draco format
+decodedMesh = pycore.cast(Mesh, FileFormat.DRACO.decode(draco))
+
+```
 
 
 

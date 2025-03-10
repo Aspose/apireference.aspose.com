@@ -3,7 +3,7 @@ title: FileFormat.RvmBinary
 second_title: Aspose.3D for .NET API Reference
 description: FileFormat field. AVEVA Plant Design Management System Model in binary format
 type: docs
-weight: 620
+weight: 630
 url: /net/aspose.threed/fileformat/rvmbinary/
 ---
 ## FileFormat.RvmBinary field
@@ -18,7 +18,7 @@ public static readonly RvmFormat RvmBinary;
 
 * class [RvmFormat](../../../aspose.threed.formats/rvmformat/)
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -18,7 +18,7 @@ public Matrix4 BoneTransform { get; set; }
 
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [Bone](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../bone/)
 * assembly [Aspose.3D](../../../)
 
 

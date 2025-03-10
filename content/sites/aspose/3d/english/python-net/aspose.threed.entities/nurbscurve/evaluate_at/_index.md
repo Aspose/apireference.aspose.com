@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.entities/nurbscurve/evaluate_at/
+url: /python-net/aspose.threed.entities/nurbscurve/evaluate_at/
 is_root: false
 ---
 
-## evaluate_at {#float}
+## evaluate_at(self, u) {#float}
 
 Evaluate the curve's point at specified position
 
@@ -20,6 +20,7 @@ Evaluate the curve's point at specified position
 
 
 ```python
+
 def evaluate_at(self, u):
     ...
 ```

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.render/itexturedecoder/decode/
+url: /python-net/aspose.threed.render/itexturedecoder/decode/
 is_root: false
 ---
 
-## decode {#io.RawIOBase-bool}
+## decode(self, stream, reverse_y) {#io.RawIOBase-bool}
 
 Decode texture from stream, return null if failed to decode.
 
@@ -20,6 +20,7 @@ Decoded texture data or null if not supported.
 
 
 ```python
+
 def decode(self, stream, reverse_y):
     ...
 ```

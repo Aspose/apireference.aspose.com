@@ -22,7 +22,7 @@ public SemanticAttribute(VertexFieldSemantic semantic)
 
 * enum [VertexFieldSemantic](../../vertexfieldsemantic/)
 * class [SemanticAttribute](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../semanticattribute/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -44,7 +44,7 @@ public SemanticAttribute(VertexFieldSemantic semantic, string alias)
 
 * enum [VertexFieldSemantic](../../vertexfieldsemantic/)
 * class [SemanticAttribute](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../semanticattribute/)
 * assembly [Aspose.3D](../../../)
 
 

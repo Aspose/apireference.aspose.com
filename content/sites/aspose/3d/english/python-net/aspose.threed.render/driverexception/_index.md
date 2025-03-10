@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.render/driverexception/
+url: /python-net/aspose.threed.render/driverexception/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ The DriverException type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.render/driverexception/__init__/#int-str) | Initialize an instance of [`DriverException`](/3d/python-net/aspose.threed.render/driverexception) with specified native driver error code and message. |
+| [`__init__(self, code, message)`](/3d/python-net/aspose.threed.render/driverexception/__init__/#int-str) | Initialize an instance of [`DriverException`](/3d/python-net/aspose.threed.render/driverexception) with specified native driver error code and message. |
 
 
 ### Properties

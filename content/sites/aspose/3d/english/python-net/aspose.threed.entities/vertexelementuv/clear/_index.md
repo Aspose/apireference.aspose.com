@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.entities/vertexelementuv/clear/
+url: /python-net/aspose.threed.entities/vertexelementuv/clear/
 is_root: false
 ---
 
-## clear {#}
+## clear(self) {#}
 
 Removes all elements from the direct and the index arrays.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

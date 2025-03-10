@@ -23,7 +23,7 @@ public void PushConstants(ShaderStage stage, byte[] data)
 
 * enum [ShaderStage](../../shaderstage/)
 * interface [ICommandList](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../icommandlist/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void PushConstants(ShaderStage stage, byte[] data, int size)
 
 * enum [ShaderStage](../../shaderstage/)
 * interface [ICommandList](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../icommandlist/)
 * assembly [Aspose.3D](../../../)
 
 

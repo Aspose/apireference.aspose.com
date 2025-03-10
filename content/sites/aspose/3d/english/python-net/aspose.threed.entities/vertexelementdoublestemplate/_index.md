@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 420
-url: /aspose.threed.entities/vertexelementdoublestemplate/
+url: /python-net/aspose.threed.entities/vertexelementdoublestemplate/
 is_root: false
 ---
 
@@ -33,10 +33,10 @@ The VertexElementDoublesTemplate type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/set_indices/#list) | Load indices |
-| [clear](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/clear/#) | Removes all elements from the direct and the index arrays. |
-| [copy_to](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/copy_to/#aspose.threed.entities.VertexElementDoublesTemplate) | Copies data to specified element |
-| [set_data](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/set_data/#list) | Load data |
+| [`set_indices(self, data)`](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/set_indices/#list) | Load indices |
+| [`clear(self)`](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/clear/#) | Removes all elements from the direct and the index arrays. |
+| [`copy_to(self, target)`](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/copy_to/#aspose.threed.entities.vertexelementdoublestemplate) | Copies data to specified element |
+| [`set_data(self, data)`](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/set_data/#list) | Load data |
 
 
 

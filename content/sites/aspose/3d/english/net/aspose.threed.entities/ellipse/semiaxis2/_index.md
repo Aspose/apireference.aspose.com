@@ -17,7 +17,7 @@ public double SemiAxis2 { get; set; }
 ### See Also
 
 * class [Ellipse](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../ellipse/)
 * assembly [Aspose.3D](../../../)
 
 

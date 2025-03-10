@@ -3,7 +3,7 @@ title: PixelMapping
 second_title: Aspose.3D for Java API Reference
 description: 
 type: docs
-weight: 118
+weight: 123
 url: /java/com.aspose.threed/pixelmapping/
 ---
 

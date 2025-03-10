@@ -19,7 +19,7 @@ public IArrayList<Vector4> Data { get; }
 * interface [IArrayList&lt;T&gt;](../../../aspose.threed.utilities/iarraylist-1/)
 * struct [Vector4](../../../aspose.threed.utilities/vector4/)
 * class [VertexElementVector4](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementvector4/)
 * assembly [Aspose.3D](../../../)
 
 

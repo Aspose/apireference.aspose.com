@@ -3,7 +3,7 @@ title: FileSystemFactory
 second_title: Aspose.3D for Java API Reference
 description: and  will create a com.aspose.threed.LocalFileSystem for default.
 type: docs
-weight: 222
+weight: 233
 url: /java/com.aspose.threed/filesystemfactory/
 ---
 ```

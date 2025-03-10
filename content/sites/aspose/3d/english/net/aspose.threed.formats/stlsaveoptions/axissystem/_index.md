@@ -14,7 +14,7 @@ Gets or sets the axis system in the exported stl file.
 public AxisSystem AxisSystem { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 FlipCoordinateSystem must be enabled to utilize this feature.
 
@@ -22,7 +22,7 @@ FlipCoordinateSystem must be enabled to utilize this feature.
 
 * class [AxisSystem](../../../aspose.threed/axissystem/)
 * class [StlSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../stlsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

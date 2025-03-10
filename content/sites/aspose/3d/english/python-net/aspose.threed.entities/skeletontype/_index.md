@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 690
-url: /aspose.threed.entities/skeletontype/
+url: /python-net/aspose.threed.entities/skeletontype/
 is_root: false
 ---
 

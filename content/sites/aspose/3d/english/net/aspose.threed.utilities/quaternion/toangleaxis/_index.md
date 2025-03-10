@@ -16,7 +16,7 @@ public void ToAngleAxis(out double angle, out Vector3 axis)
 
 * struct [Vector3](../../vector3/)
 * struct [Quaternion](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../quaternion/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.profiles/fontfile/from_file/
+url: /python-net/aspose.threed.profiles/fontfile/from_file/
 is_root: false
 ---
 
-## from_file {#str}
+## from_file(, file_name) {#str}
 
 Load FontFile from file name
 
@@ -20,7 +20,9 @@ FontFile instance
 
 
 ```python
-def from_file(self, file_name):
+
+@staticmethod
+def from_file(file_name):
     ...
 ```
 

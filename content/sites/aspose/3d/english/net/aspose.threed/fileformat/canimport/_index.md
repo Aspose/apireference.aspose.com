@@ -14,7 +14,7 @@ Gets whether Aspose.3D supports import scene from current file format.
 public bool CanImport { get; }
 ```
 
-### Examples
+## Examples
 
 The following code shows how to check if importing from specified format is supported.
 
@@ -28,7 +28,7 @@ if (format.CanImport)
 ### See Also
 
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 

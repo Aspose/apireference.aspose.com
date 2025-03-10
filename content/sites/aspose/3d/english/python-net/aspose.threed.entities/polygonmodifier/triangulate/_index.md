@@ -4,18 +4,20 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.threed.entities/polygonmodifier/triangulate/
+url: /python-net/aspose.threed.entities/polygonmodifier/triangulate/
 is_root: false
 ---
 
-## triangulate {#aspose.threed.Scene}
+## triangulate(, scene) {#aspose.threed.Scene}
 
 Convert all polygon-based meshes into full triangle mesh
 
 
 
 ```python
-def triangulate(self, scene):
+
+@staticmethod
+def triangulate(scene):
     ...
 ```
 
@@ -42,7 +44,7 @@ scene.save("test.obj")
 ```
 
 
-## triangulate {#aspose.threed.entities.Mesh}
+## triangulate(, mesh) {#aspose.threed.entities.Mesh}
 
 Convert a polygon-based mesh into full triangle mesh
 
@@ -54,7 +56,9 @@ The generated new triangle mesh
 
 
 ```python
-def triangulate(self, mesh):
+
+@staticmethod
+def triangulate(mesh):
     ...
 ```
 
@@ -81,14 +85,16 @@ scene.save("test.obj")
 ```
 
 
-## triangulate {#list}
+## triangulate(, control_points) {#list}
 
 
 
 
 
 ```python
-def triangulate(self, control_points):
+
+@staticmethod
+def triangulate(control_points):
     ...
 ```
 
@@ -98,14 +104,16 @@ def triangulate(self, control_points):
 | control_points | list |  |
 
 
-## triangulate {#list-list}
+## triangulate(, control_points, polygons) {#list-list}
 
 
 
 
 
 ```python
-def triangulate(self, control_points, polygons):
+
+@staticmethod
+def triangulate(control_points, polygons):
     ...
 ```
 
@@ -116,14 +124,16 @@ def triangulate(self, control_points, polygons):
 | polygons | list |  |
 
 
-## triangulate {#list-list}
+## triangulate(, control_points, polygon) {#list-list}
 
 
 
 
 
 ```python
-def triangulate(self, control_points, polygon):
+
+@staticmethod
+def triangulate(control_points, polygon):
     ...
 ```
 
@@ -134,14 +144,16 @@ def triangulate(self, control_points, polygon):
 | polygon | list |  |
 
 
-## triangulate {#list-list-bool-any}
+## triangulate(, control_points, polygons, generate_normals, nor_out) {#list-list-bool-any}
 
 
 
 
 
 ```python
-def triangulate(self, control_points, polygons, generate_normals, nor_out):
+
+@staticmethod
+def triangulate(control_points, polygons, generate_normals, nor_out):
     ...
 ```
 

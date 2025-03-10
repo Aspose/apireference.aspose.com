@@ -17,7 +17,7 @@ public bool DepthTest { get; set; }
 ### See Also
 
 * class [RenderState](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderstate/)
 * assembly [Aspose.3D](../../../)
 
 

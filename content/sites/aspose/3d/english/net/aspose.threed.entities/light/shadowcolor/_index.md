@@ -18,7 +18,7 @@ public Vector3 ShadowColor { get; set; }
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [Light](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../light/)
 * assembly [Aspose.3D](../../../)
 
 

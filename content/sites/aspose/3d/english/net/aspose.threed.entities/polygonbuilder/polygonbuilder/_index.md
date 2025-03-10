@@ -22,7 +22,7 @@ public PolygonBuilder(Mesh mesh)
 
 * class [Mesh](../../mesh/)
 * class [PolygonBuilder](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonbuilder/)
 * assembly [Aspose.3D](../../../)
 
 

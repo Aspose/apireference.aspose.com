@@ -28,7 +28,7 @@ A [`Mesh`](../../../aspose.threed.entities/mesh/) or [`PointCloud`](../../../asp
 | --- | --- |
 | IOException | Thrown when failed to read from file |
 
-### Examples
+## Examples
 
 The following code shows how to encode and decode a Mesh to/from byte array:
 
@@ -44,7 +44,7 @@ Mesh decodedMesh = (Mesh)FileFormat.Draco.Decode(draco);
 
 * class [Geometry](../../../aspose.threed.entities/geometry/)
 * class [DracoFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../dracoformat/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -71,7 +71,7 @@ A [`Mesh`](../../../aspose.threed.entities/mesh/) or [`PointCloud`](../../../asp
 | --- | --- |
 | [ImportException](../../../aspose.threed/importexception/) | Thrown when data is malformed. |
 
-### Examples
+## Examples
 
 The following code shows how to encode and decode a Mesh to/from byte array:
 
@@ -87,7 +87,7 @@ Mesh decodedMesh = (Mesh)FileFormat.Draco.Decode(draco);
 
 * class [Geometry](../../../aspose.threed.entities/geometry/)
 * class [DracoFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../dracoformat/)
 * assembly [Aspose.3D](../../../)
 
 

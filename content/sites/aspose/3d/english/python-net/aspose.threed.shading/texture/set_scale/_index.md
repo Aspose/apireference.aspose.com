@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.threed.shading/texture/set_scale/
+url: /python-net/aspose.threed.shading/texture/set_scale/
 is_root: false
 ---
 
-## set_scale {#float-float}
+## set_scale(self, u, v) {#float-float}
 
 Sets the UV scale.
 
 
 
 ```python
+
 def set_scale(self, u, v):
     ...
 ```

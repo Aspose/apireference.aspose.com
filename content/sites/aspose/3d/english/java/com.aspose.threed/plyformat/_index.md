@@ -3,7 +3,7 @@ title: PlyFormat
 second_title: Aspose.3D for Java API Reference
 description: The PLY format.
 type: docs
-weight: 120
+weight: 125
 url: /java/com.aspose.threed/plyformat/
 ---
 
@@ -82,14 +82,14 @@ The PLY format. **Example:** The following code shows how to decode a mesh from 
 | --- | --- |
 | [createLoadOptions()](#createLoadOptions--) | Create a default load options for this file format |
 | [createSaveOptions()](#createSaveOptions--) | Create a default save options for this file format |
-| [decode(Stream stream)](#decode-com.aspose.csporter.helpers.Stream-) | Decode a point cloud or mesh from the specified stream. |
-| [decode(Stream stream, PlyLoadOptions opt)](#decode-com.aspose.csporter.helpers.Stream-com.aspose.threed.PlyLoadOptions-) | Decode a point cloud or mesh from the specified stream. |
+| [decode(Stream stream)](#decode-com.aspose.threed.Stream-) | Decode a point cloud or mesh from the specified stream. |
+| [decode(Stream stream, PlyLoadOptions opt)](#decode-com.aspose.threed.Stream-com.aspose.threed.PlyLoadOptions-) | Decode a point cloud or mesh from the specified stream. |
 | [decode(String fileName)](#decode-java.lang.String-) | Decode a point cloud or mesh from the specified stream. |
 | [decode(String fileName, PlyLoadOptions opt)](#decode-java.lang.String-com.aspose.threed.PlyLoadOptions-) | Decode a point cloud or mesh from the specified stream. |
-| [detect(Stream stream, String fileName)](#detect-com.aspose.csporter.helpers.Stream-java.lang.String-) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [detect(Stream stream, String fileName)](#detect-com.aspose.threed.Stream-java.lang.String-) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
 | [detect(String fileName)](#detect-java.lang.String-) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
-| [encode(Entity entity, Stream stream)](#encode-com.aspose.threed.Entity-com.aspose.csporter.helpers.Stream-) | Encode the entity and save the result into the stream. |
-| [encode(Entity entity, Stream stream, PlySaveOptions opt)](#encode-com.aspose.threed.Entity-com.aspose.csporter.helpers.Stream-com.aspose.threed.PlySaveOptions-) | Encode the entity and save the result into the stream. |
+| [encode(Entity entity, Stream stream)](#encode-com.aspose.threed.Entity-com.aspose.threed.Stream-) | Encode the entity and save the result into the stream. |
+| [encode(Entity entity, Stream stream, PlySaveOptions opt)](#encode-com.aspose.threed.Entity-com.aspose.threed.Stream-com.aspose.threed.PlySaveOptions-) | Encode the entity and save the result into the stream. |
 | [encode(Entity entity, String fileName)](#encode-com.aspose.threed.Entity-java.lang.String-) | Encode the entity and save the result into an external file. |
 | [encode(Entity entity, String fileName, PlySaveOptions opt)](#encode-com.aspose.threed.Entity-java.lang.String-com.aspose.threed.PlySaveOptions-) | Encode the entity and save the result into an external file. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
@@ -101,6 +101,7 @@ The PLY format. **Example:** The following code shows how to decode a mesh from 
 | [getExtensions()](#getExtensions--) | Gets the extension names of this type. |
 | [getFileFormatType()](#getFileFormatType--) | Gets file format type |
 | [getFormatByExtension(String extensionName)](#getFormatByExtension-java.lang.String-) | Gets the preferred file format from the file extension name The extension name should starts with a dot('.'). |
+| [getFormats()](#getFormats--) | Access to all supported formats |
 | [getVersion()](#getVersion--) | Gets file format version |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
@@ -537,7 +538,7 @@ Create a default save options for this file format
 
 **Returns:**
 [SaveOptions](../../com.aspose.threed/saveoptions) - A default save option for current format
-### decode(Stream stream) {#decode-com.aspose.csporter.helpers.Stream-}
+### decode(Stream stream) {#decode-com.aspose.threed.Stream-}
 ```
 public Geometry decode(Stream stream)
 ```
@@ -548,7 +549,7 @@ Decode a point cloud or mesh from the specified stream.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | The input stream |
+| stream | [Stream](../../com.aspose.threed/stream) | The input stream |
 
 **Returns:**
 [Geometry](../../com.aspose.threed/geometry) - A [Mesh](../../com.aspose.threed/mesh) or [PointCloud](../../com.aspose.threed/pointcloud) instance **Example:** The following code shows how to decode a mesh from a PLY file:
@@ -559,7 +560,7 @@ Decode a point cloud or mesh from the specified stream.
              //Decode the file
              var mesh = (Mesh)FileFormat.PLY.decode("sphere.ply")
 ```
-### decode(Stream stream, PlyLoadOptions opt) {#decode-com.aspose.csporter.helpers.Stream-com.aspose.threed.PlyLoadOptions-}
+### decode(Stream stream, PlyLoadOptions opt) {#decode-com.aspose.threed.Stream-com.aspose.threed.PlyLoadOptions-}
 ```
 public Geometry decode(Stream stream, PlyLoadOptions opt)
 ```
@@ -570,7 +571,7 @@ Decode a point cloud or mesh from the specified stream.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | The input stream |
+| stream | [Stream](../../com.aspose.threed/stream) | The input stream |
 | opt | [PlyLoadOptions](../../com.aspose.threed/plyloadoptions) | The load option of PLY format |
 
 **Returns:**
@@ -627,7 +628,7 @@ Decode a point cloud or mesh from the specified stream.
              //Decode the file
              var mesh = (Mesh)FileFormat.PLY.decode("sphere.ply")
 ```
-### detect(Stream stream, String fileName) {#detect-com.aspose.csporter.helpers.Stream-java.lang.String-}
+### detect(Stream stream, String fileName) {#detect-com.aspose.threed.Stream-java.lang.String-}
 ```
 public static FileFormat detect(Stream stream, String fileName)
 ```
@@ -638,7 +639,7 @@ Detect the file format from data stream, file name is optional for guessing type
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Stream containing data to detect |
+| stream | [Stream](../../com.aspose.threed/stream) | Stream containing data to detect |
 | fileName | java.lang.String | Original file name of the data, used as hint. |
 
 **Returns:**
@@ -658,7 +659,7 @@ Detect the file format from file name, file must be readable so Aspose.3D can de
 
 **Returns:**
 [FileFormat](../../com.aspose.threed/fileformat) - The [FileFormat](../../com.aspose.threed/fileformat) instance of the detected type or null if failed.
-### encode(Entity entity, Stream stream) {#encode-com.aspose.threed.Entity-com.aspose.csporter.helpers.Stream-}
+### encode(Entity entity, Stream stream) {#encode-com.aspose.threed.Entity-com.aspose.threed.Stream-}
 ```
 public void encode(Entity entity, Stream stream)
 ```
@@ -670,7 +671,7 @@ Encode the entity and save the result into the stream.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | entity | [Entity](../../com.aspose.threed/entity) | The entity to encode |
-| stream | com.aspose.csporter.helpers.Stream | The stream to write to, this method will not close this stream **Example:** The following code shows how to encode a mesh into PLY file:
+| stream | [Stream](../../com.aspose.threed/stream) | The stream to write to, this method will not close this stream **Example:** The following code shows how to encode a mesh into PLY file:
 
 ```
 Mesh mesh = (new Sphere()).toMesh();
@@ -678,7 +679,7 @@ Mesh mesh = (new Sphere()).toMesh();
              FileFormat.PLY.encode(mesh, "sphere.ply");
 ``` |
 
-### encode(Entity entity, Stream stream, PlySaveOptions opt) {#encode-com.aspose.threed.Entity-com.aspose.csporter.helpers.Stream-com.aspose.threed.PlySaveOptions-}
+### encode(Entity entity, Stream stream, PlySaveOptions opt) {#encode-com.aspose.threed.Entity-com.aspose.threed.Stream-com.aspose.threed.PlySaveOptions-}
 ```
 public void encode(Entity entity, Stream stream, PlySaveOptions opt)
 ```
@@ -690,7 +691,7 @@ Encode the entity and save the result into the stream.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | entity | [Entity](../../com.aspose.threed/entity) | The entity to encode |
-| stream | com.aspose.csporter.helpers.Stream | The stream to write to, this method will not close this stream |
+| stream | [Stream](../../com.aspose.threed/stream) | The stream to write to, this method will not close this stream |
 | opt | [PlySaveOptions](../../com.aspose.threed/plysaveoptions) | Save options **Example:** The following code shows how to encode a mesh into PLY file:
 
 ```
@@ -875,6 +876,16 @@ Scene scene = new Scene(new Box());
      var output = new ByteArrayOutputStream();
      scene.save(output);
 ```
+### getFormats() {#getFormats--}
+```
+public static List<FileFormat> getFormats()
+```
+
+
+Access to all supported formats
+
+**Returns:**
+java.util.List<com.aspose.threed.FileFormat> - Access to all supported formats
 ### getVersion() {#getVersion--}
 ```
 public Version getVersion()
@@ -884,7 +895,7 @@ public Version getVersion()
 Gets file format version
 
 **Returns:**
-com.aspose.csporter.helpers.Version - file format version
+[Version](../../com.aspose.threed/version) - file format version
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

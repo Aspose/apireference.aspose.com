@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 550
-url: /aspose.threed.entities/vertexelementvertexcolor/
+url: /python-net/aspose.threed.entities/vertexelementvertexcolor/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The VertexElementVertexColor type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/__init__/#) | Initializes a new instance of the [`VertexElementVertexColor`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor) class. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/__init__/#) | Initializes a new instance of the [`VertexElementVertexColor`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor) class. |
 
 
 ### Properties
@@ -40,10 +40,10 @@ The VertexElementVertexColor type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/set_indices/#list) | Load indices |
-| [clear](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/clear/#) | Removes all elements from the direct and the index arrays. |
-| [copy_to](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/copy_to/#aspose.threed.entities.VertexElementVector4) | Copies data to specified element |
-| [set_data](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/set_data/#list) | Load data |
+| [`set_indices(self, data)`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/set_indices/#list) | Load indices |
+| [`clear(self)`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/clear/#) | Removes all elements from the direct and the index arrays. |
+| [`copy_to(self, target)`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/copy_to/#aspose.threed.entities.vertexelementvector4) | Copies data to specified element |
+| [`set_data(self, data)`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/set_data/#list) | Load data |
 
 
 

@@ -27,7 +27,7 @@ public void Add(RenderQueueGroupId groupId, IPipeline pipeline, object renderabl
 * enum [RenderQueueGroupId](../../renderqueuegroupid/)
 * interface [IPipeline](../../ipipeline/)
 * interface [IRenderQueue](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../irenderqueue/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -17,7 +17,7 @@ public VertexElementWeight()
 ### See Also
 
 * class [VertexElementWeight](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementweight/)
 * assembly [Aspose.3D](../../../)
 
 

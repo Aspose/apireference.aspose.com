@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.threed.utilities/transformbuilder/rotate_euler_radian/
+url: /python-net/aspose.threed.utilities/transformbuilder/rotate_euler_radian/
 is_root: false
 ---
 
-## rotate_euler_radian {#aspose.threed.utilities.Vector3}
+## rotate_euler_radian(self, r) {#aspose.threed.utilities.Vector3}
 
 Chain a rotation by Euler angles in radian
 
 
 
 ```python
+
 def rotate_euler_radian(self, r):
     ...
 ```
@@ -38,13 +39,14 @@ print(f"Transform Matrix: {tb.matrix}")
 ```
 
 
-## rotate_euler_radian {#float-float-float}
+## rotate_euler_radian(self, x, y, z) {#float-float-float}
 
 Chain a rotation by Euler angles in radian
 
 
 
 ```python
+
 def rotate_euler_radian(self, x, y, z):
     ...
 ```

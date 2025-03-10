@@ -16,7 +16,7 @@ public double this[Shape target] { get; set; }
 
 * class [Shape](../../../aspose.threed.entities/shape/)
 * class [MorphTargetDeformer](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../morphtargetdeformer/)
 * assembly [Aspose.3D](../../../)
 
 

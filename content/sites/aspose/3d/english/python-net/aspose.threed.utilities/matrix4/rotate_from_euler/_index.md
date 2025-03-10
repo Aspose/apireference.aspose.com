@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.threed.utilities/matrix4/rotate_from_euler/
+url: /python-net/aspose.threed.utilities/matrix4/rotate_from_euler/
 is_root: false
 ---
 
-## rotate_from_euler {#aspose.threed.utilities.Vector3}
+## rotate_from_euler(, eul) {#aspose.threed.utilities.Vector3}
 
 Create a rotation matrix from Euler angle
 
@@ -20,7 +20,9 @@ Create a rotation matrix from Euler angle
 
 
 ```python
-def rotate_from_euler(self, eul):
+
+@staticmethod
+def rotate_from_euler(eul):
     ...
 ```
 
@@ -45,7 +47,7 @@ print(f"Transformed: {t * pos}")
 ```
 
 
-## rotate_from_euler {#float-float-float}
+## rotate_from_euler(, rx, ry, rz) {#float-float-float}
 
 Create a rotation matrix from Euler angle
 
@@ -57,7 +59,9 @@ Create a rotation matrix from Euler angle
 
 
 ```python
-def rotate_from_euler(self, rx, ry, rz):
+
+@staticmethod
+def rotate_from_euler(rx, ry, rz):
     ...
 ```
 

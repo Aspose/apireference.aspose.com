@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed/scene/create_animation_clip/
+url: /python-net/aspose.threed/scene/create_animation_clip/
 is_root: false
 ---
 
-## create_animation_clip {#str}
+## create_animation_clip(self, name) {#str}
 
 A shorthand function to create and register the [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)
 The first [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) will be assigned to the [`Scene.current_animation_clip`](/3d/python-net/aspose.threed/scene#current_animation_clip)
@@ -21,6 +21,7 @@ A new animation clip instance with given name
 
 
 ```python
+
 def create_animation_clip(self, name):
     ...
 ```

@@ -3,7 +3,7 @@ title: Quaternion
 second_title: Aspose.3D for Java API Reference
 description: Quaternion is usually used to perform rotation in computer graphics.
 type: docs
-weight: 134
+weight: 139
 url: /java/com.aspose.threed/quaternion/
 ---
 
@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/quaternion/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.csporter.helpers.Struct, java.io.Serializable
+com.aspose.threed.Struct, java.io.Serializable
 ```
 public final class Quaternion implements Struct<Quaternion>, Serializable
 ```
@@ -156,7 +156,7 @@ public Quaternion clone()
 ```
 
 
-
+Clone current instance
 
 **Returns:**
 [Quaternion](../../com.aspose.threed/quaternion)

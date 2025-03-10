@@ -26,7 +26,7 @@ True if two vectors are not equal.
 ### See Also
 
 * struct [Vector2](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector2/)
 * assembly [Aspose.3D](../../../)
 
 

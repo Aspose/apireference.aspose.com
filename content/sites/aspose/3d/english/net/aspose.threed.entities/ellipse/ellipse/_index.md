@@ -17,7 +17,7 @@ public Ellipse()
 ### See Also
 
 * class [Ellipse](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../ellipse/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Ellipse(double semiAxis1, double semiAxis2)
 ### See Also
 
 * class [Ellipse](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../ellipse/)
 * assembly [Aspose.3D](../../../)
 
 

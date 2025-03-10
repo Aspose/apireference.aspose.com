@@ -18,7 +18,7 @@ public NurbsDirection U { get; }
 
 * class [NurbsDirection](../../nurbsdirection/)
 * class [NurbsSurface](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../nurbssurface/)
 * assembly [Aspose.3D](../../../)
 
 

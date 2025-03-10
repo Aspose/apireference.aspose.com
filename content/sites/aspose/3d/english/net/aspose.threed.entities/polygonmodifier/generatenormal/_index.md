@@ -23,7 +23,7 @@ public static VertexElementNormal GenerateNormal(Mesh mesh)
 * class [VertexElementNormal](../../vertexelementnormal/)
 * class [Mesh](../../mesh/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
 
 

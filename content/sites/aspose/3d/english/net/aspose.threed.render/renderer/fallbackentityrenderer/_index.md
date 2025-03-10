@@ -18,7 +18,7 @@ public EntityRenderer FallbackEntityRenderer { get; set; }
 
 * class [EntityRenderer](../../entityrenderer/)
 * class [Renderer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderer/)
 * assembly [Aspose.3D](../../../)
 
 

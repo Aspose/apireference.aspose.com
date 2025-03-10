@@ -22,7 +22,7 @@ The nodes.
 
 * class [BonePose](../../bonepose/)
 * class [Pose](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../pose/)
 * assembly [Aspose.3D](../../../)
 
 

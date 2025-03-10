@@ -17,7 +17,7 @@ public override string ToString()
 ### See Also
 
 * class [VertexElement](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelement/)
 * assembly [Aspose.3D](../../../)
 
 

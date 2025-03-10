@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.utilities/vector3/cos/
+url: /python-net/aspose.threed.utilities/vector3/cos/
 is_root: false
 ---
 
-## cos {#}
+## cos(self) {#}
 
 Calculates cosine on each component
 
@@ -20,6 +20,7 @@ Calculated [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3).
 
 
 ```python
+
 def cos(self):
     ...
 ```

@@ -21,7 +21,7 @@ The width.
 ### See Also
 
 * class [Plane](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../plane/)
 * assembly [Aspose.3D](../../../)
 
 

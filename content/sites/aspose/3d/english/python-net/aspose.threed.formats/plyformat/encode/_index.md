@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.formats/plyformat/encode/
+url: /python-net/aspose.threed.formats/plyformat/encode/
 is_root: false
 ---
 
-## encode {#aspose.threed.Entity-io.RawIOBase}
+## encode(self, entity, stream) {#aspose.threed.Entity-io.RawIOBase}
 
 Encode the entity and save the result into the stream.
 
 
 
 ```python
+
 def encode(self, entity, stream):
     ...
 ```
@@ -41,13 +42,14 @@ FileFormat.PLY.encode(mesh, "sphere.ply")
 ```
 
 
-## encode {#aspose.threed.Entity-str}
+## encode(self, entity, file_name) {#aspose.threed.Entity-str}
 
 Encode the entity and save the result into an external file.
 
 
 
 ```python
+
 def encode(self, entity, file_name):
     ...
 ```
@@ -74,13 +76,14 @@ FileFormat.PLY.encode(mesh, "sphere.ply")
 ```
 
 
-## encode {#aspose.threed.Entity-io.RawIOBase-aspose.threed.formats.PlySaveOptions}
+## encode(self, entity, stream, opt) {#aspose.threed.Entity-io.RawIOBase-aspose.threed.formats.PlySaveOptions}
 
 Encode the entity and save the result into the stream.
 
 
 
 ```python
+
 def encode(self, entity, stream, opt):
     ...
 ```
@@ -108,13 +111,14 @@ FileFormat.PLY.encode(mesh, "sphere.ply")
 ```
 
 
-## encode {#aspose.threed.Entity-str-aspose.threed.formats.PlySaveOptions}
+## encode(self, entity, file_name, opt) {#aspose.threed.Entity-str-aspose.threed.formats.PlySaveOptions}
 
 Encode the entity and save the result into an external file.
 
 
 
 ```python
+
 def encode(self, entity, file_name, opt):
     ...
 ```

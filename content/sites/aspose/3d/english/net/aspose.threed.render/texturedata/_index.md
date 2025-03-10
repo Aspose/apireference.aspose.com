@@ -29,9 +29,9 @@ public class TextureData : A3DObject
 | [BytesPerPixel](../../aspose.threed.render/texturedata/bytesperpixel/) { get; } | Number of bytes of a pixel |
 | [Data](../../aspose.threed.render/texturedata/data/) { get; } | Raw bytes of pixel data |
 | [Height](../../aspose.threed.render/texturedata/height/) { get; } | Number of vertical pixels |
-| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name.(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
+| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name. |
 | [PixelFormat](../../aspose.threed.render/texturedata/pixelformat/) { get; } | The pixel's format |
-| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties.(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
+| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties. |
 | [Stride](../../aspose.threed.render/texturedata/stride/) { get; } | Number of bytes of a scanline. |
 | [Width](../../aspose.threed.render/texturedata/width/) { get; } | Number of horizontal pixels |
 
@@ -41,17 +41,17 @@ public class TextureData : A3DObject
 | --- | --- |
 | static [FromFile](../../aspose.threed.render/texturedata/fromfile/)(string) | Load a texture from file |
 | static [FromStream](../../aspose.threed.render/texturedata/fromstream/)(Stream) | Load a texture from stream |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name)(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property |
 | [MapPixels](../../aspose.threed.render/texturedata/mappixels/#mappixels)(PixelMapMode) | Map all pixels for read/write |
 | [MapPixels](../../aspose.threed.render/texturedata/mappixels/#mappixels_1)(PixelMapMode, PixelFormat) | Map all pixels for read/write in given pixel format |
 | [MapPixels](../../aspose.threed.render/texturedata/mappixels/#mappixels_2)(Rect, PixelMapMode, PixelFormat) | Map pixels addressed by rect for reading/writing in given pixel format |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property.(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name |
 | [Save](../../aspose.threed.render/texturedata/save/#save_1)(string) | Save texture data into image file |
 | [Save](../../aspose.threed.render/texturedata/save/#save)(Stream, string) | Save texture data into specified image format |
 | [Save](../../aspose.threed.render/texturedata/save/#save_2)(string, string) | Save texture data into image file |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
+| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property |
 | [TransformPixelFormat](../../aspose.threed.render/texturedata/transformpixelformat/)(PixelFormat) | Transform pixel's layout to new pixel format. |
 
 ### See Also

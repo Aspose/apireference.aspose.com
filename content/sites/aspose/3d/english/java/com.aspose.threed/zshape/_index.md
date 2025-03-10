@@ -3,7 +3,7 @@ title: ZShape
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible Z-shape profile defined by parameters.
 type: docs
-weight: 221
+weight: 229
 url: /java/com.aspose.threed/zshape/
 ---
 

@@ -17,7 +17,7 @@ public double Height { get; set; }
 ### See Also
 
 * class [LinearExtrusion](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../linearextrusion/)
 * assembly [Aspose.3D](../../../)
 
 

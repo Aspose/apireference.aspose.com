@@ -29,7 +29,7 @@ public virtual void PrepareRenderQueue(Renderer renderer, IRenderQueue queue, No
 * class [Node](../../../aspose.threed/node/)
 * class [Entity](../../../aspose.threed/entity/)
 * class [EntityRenderer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../entityrenderer/)
 * assembly [Aspose.3D](../../../)
 
 

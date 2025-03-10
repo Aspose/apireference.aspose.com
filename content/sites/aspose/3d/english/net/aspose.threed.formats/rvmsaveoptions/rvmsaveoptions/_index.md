@@ -17,7 +17,7 @@ public RvmSaveOptions()
 ### See Also
 
 * class [RvmSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../rvmsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -38,7 +38,7 @@ public RvmSaveOptions(FileContentType contentType)
 
 * enum [FileContentType](../../../aspose.threed/filecontenttype/)
 * class [RvmSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../rvmsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

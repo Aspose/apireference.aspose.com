@@ -18,7 +18,7 @@ public RotationMode RotationMode { get; set; }
 
 * enum [RotationMode](../../rotationmode/)
 * class [Frustum](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../frustum/)
 * assembly [Aspose.3D](../../../)
 
 

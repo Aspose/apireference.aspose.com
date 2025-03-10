@@ -3,7 +3,7 @@ title: JtLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: Load options for Siemens JT
 type: docs
-weight: 82
+weight: 84
 url: /java/com.aspose.threed/jtloadoptions/
 ---
 

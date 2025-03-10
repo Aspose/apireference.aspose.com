@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.utilities/quaternion/dot/
+url: /python-net/aspose.threed.utilities/quaternion/dot/
 is_root: false
 ---
 
-## dot {#aspose.threed.utilities.Quaternion}
+## dot(self, q) {#aspose.threed.utilities.Quaternion}
 
 Dots product
 
@@ -20,6 +20,7 @@ Dot value
 
 
 ```python
+
 def dot(self, q):
     ...
 ```

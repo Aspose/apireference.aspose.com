@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.entities/endpoint/from_degree/
+url: /python-net/aspose.threed.entities/endpoint/from_degree/
 is_root: false
 ---
 
-## from_degree {#float}
+## from_degree(, degree) {#float}
 
 Create an end point measured in degree.
 
@@ -20,7 +20,9 @@ An end point constructed from degree
 
 
 ```python
-def from_degree(self, degree):
+
+@staticmethod
+def from_degree(degree):
     ...
 ```
 

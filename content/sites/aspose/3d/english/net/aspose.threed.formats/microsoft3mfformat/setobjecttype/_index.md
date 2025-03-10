@@ -23,7 +23,7 @@ public void SetObjectType(Node node, string modelType)
 
 * class [Node](../../../aspose.threed/node/)
 * class [Microsoft3MFFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../microsoft3mfformat/)
 * assembly [Aspose.3D](../../../)
 
 

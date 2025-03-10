@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.threed.formats/gltfsaveoptions/
+url: /python-net/aspose.threed.formats/gltfsaveoptions/
 is_root: false
 ---
 
@@ -25,8 +25,8 @@ The GltfSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#aspose.threed.FileContentType) | Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
-| [__init__](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#aspose.threed.FileFormat) | Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
+| [`__init__(self, content_type)`](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#aspose.threed.filecontenttype) | Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
+| [`__init__(self, format)`](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#aspose.threed.fileformat) | Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
 
 
 ### Properties

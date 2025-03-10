@@ -17,7 +17,7 @@ public int ColorBits { get; set; }
 ### See Also
 
 * class [DracoSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../dracosaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

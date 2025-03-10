@@ -21,7 +21,7 @@ The indices.
 ### See Also
 
 * class [Shape](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../shape/)
 * assembly [Aspose.3D](../../../)
 
 

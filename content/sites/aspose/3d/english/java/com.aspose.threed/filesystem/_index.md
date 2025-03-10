@@ -3,7 +3,7 @@ title: FileSystem
 second_title: Aspose.3D for Java API Reference
 description: File system encapsulation.
 type: docs
-weight: 64
+weight: 65
 url: /java/com.aspose.threed/filesystem/
 ---
 
@@ -40,9 +40,9 @@ var inputFile = "input.fbx";
 | [createDummyFileSystem()](#createDummyFileSystem--) | Create a dummy file system, read/write operations are dummy operations. |
 | [createLocalFileSystem(String directory)](#createLocalFileSystem-java.lang.String-) | Initialize a new [FileSystem](../../com.aspose.threed/filesystem) that only access local directory. |
 | [createMemoryFileSystem()](#createMemoryFileSystem--) | Create a memory-based file system which will maps the read/write operations to memory. |
-| [createMemoryFileSystem(Map<String,MemoryStream> files)](#createMemoryFileSystem-java.util.Map-java.lang.String-com.aspose.csporter.helpers.MemoryStream--) | Create a memory-based file system which will maps the read/write operations to memory. |
-| [createZipFileSystem(Stream stream)](#createZipFileSystem-com.aspose.csporter.helpers.Stream-) | Create a file system to provide to the read-only access to speicified zip file or zip stream. |
-| [createZipFileSystem(Stream stream, String baseDir)](#createZipFileSystem-com.aspose.csporter.helpers.Stream-java.lang.String-) | Create a file system to provide to the read-only access to speicified zip file or zip stream. |
+| [createMemoryFileSystem(HashMap<String,MemoryStream> files)](#createMemoryFileSystem-java.util.HashMap-java.lang.String-com.aspose.threed.MemoryStream--) | Create a memory-based file system which will maps the read/write operations to memory. |
+| [createZipFileSystem(Stream stream)](#createZipFileSystem-com.aspose.threed.Stream-) | Create a file system to provide to the read-only access to speicified zip file or zip stream. |
+| [createZipFileSystem(Stream stream, String baseDir)](#createZipFileSystem-com.aspose.threed.Stream-java.lang.String-) | Create a file system to provide to the read-only access to speicified zip file or zip stream. |
 | [createZipFileSystem(String fileName)](#createZipFileSystem-java.lang.String-) | File system to provide to the read-only access to speicified zip file or zip stream. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
@@ -138,9 +138,9 @@ Create a memory-based file system which will maps the read/write operations to m
      //the test.obj was written to variable ms, and we can also get the test.mtl file content by
      var materialFile = mfs.get("test.mtl");
 ```
-### createMemoryFileSystem(Map<String,MemoryStream> files) {#createMemoryFileSystem-java.util.Map-java.lang.String-com.aspose.csporter.helpers.MemoryStream--}
+### createMemoryFileSystem(HashMap<String,MemoryStream> files) {#createMemoryFileSystem-java.util.HashMap-java.lang.String-com.aspose.threed.MemoryStream--}
 ```
-public static FileSystem createMemoryFileSystem(Map<String,MemoryStream> files)
+public static FileSystem createMemoryFileSystem(HashMap<String,MemoryStream> files)
 ```
 
 
@@ -149,7 +149,7 @@ Create a memory-based file system which will maps the read/write operations to m
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| files | java.util.Map<java.lang.String,com.aspose.csporter.helpers.MemoryStream> | This allows you to read/write the virtual files. |
+| files | java.util.HashMap<java.lang.String,com.aspose.threed.MemoryStream> | This allows you to read/write the virtual files. |
 
 **Returns:**
 [FileSystem](../../com.aspose.threed/filesystem) - A memory-based file system **Example:** The following code shows how to export file to memory, includes the dependent file by using MemoryFileSystem.
@@ -171,7 +171,7 @@ Create a memory-based file system which will maps the read/write operations to m
      //the test.obj was written to variable ms, and we can also get the test.mtl file content by
      var materialFile = mfs.get("test.mtl");
 ```
-### createZipFileSystem(Stream stream) {#createZipFileSystem-com.aspose.csporter.helpers.Stream-}
+### createZipFileSystem(Stream stream) {#createZipFileSystem-com.aspose.threed.Stream-}
 ```
 public static FileSystem createZipFileSystem(Stream stream)
 ```
@@ -182,11 +182,11 @@ Create a file system to provide to the read-only access to speicified zip file o
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | The stream to access the zip file |
+| stream | [Stream](../../com.aspose.threed/stream) | The stream to access the zip file |
 
 **Returns:**
 [FileSystem](../../com.aspose.threed/filesystem) - A zip file system
-### createZipFileSystem(Stream stream, String baseDir) {#createZipFileSystem-com.aspose.csporter.helpers.Stream-java.lang.String-}
+### createZipFileSystem(Stream stream, String baseDir) {#createZipFileSystem-com.aspose.threed.Stream-java.lang.String-}
 ```
 public static FileSystem createZipFileSystem(Stream stream, String baseDir)
 ```
@@ -197,7 +197,7 @@ Create a file system to provide to the read-only access to speicified zip file o
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | The stream to access the zip file |
+| stream | [Stream](../../com.aspose.threed/stream) | The stream to access the zip file |
 | baseDir | java.lang.String | The base directory inside the zip file. |
 
 **Returns:**
@@ -283,7 +283,7 @@ Create a stream for reading dependencies.
 | options | [IOConfig](../../com.aspose.threed/ioconfig) | Save or load options |
 
 **Returns:**
-com.aspose.csporter.helpers.Stream - Stream for reading the file.
+[Stream](../../com.aspose.threed/stream) - Stream for reading the file.
 ### toString() {#toString--}
 ```
 public String toString()
@@ -344,4 +344,4 @@ Create a stream for writing dependencies.
 | options | [IOConfig](../../com.aspose.threed/ioconfig) | Save or load options |
 
 **Returns:**
-com.aspose.csporter.helpers.Stream - Stream for writing the file
+[Stream](../../com.aspose.threed/stream) - Stream for writing the file

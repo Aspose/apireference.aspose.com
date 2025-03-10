@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.threed.utilities/filesystem/read_file/
+url: /python-net/aspose.threed.utilities/filesystem/read_file/
 is_root: false
 ---
 
-## read_file {#str-aspose.threed.formats.IOConfig}
+## read_file(self, file_name, options) {#str-aspose.threed.formats.IOConfig}
 
 Create a stream for reading dependencies.
 
@@ -20,6 +20,7 @@ Stream for reading the file.
 
 
 ```python
+
 def read_file(self, file_name, options):
     ...
 ```

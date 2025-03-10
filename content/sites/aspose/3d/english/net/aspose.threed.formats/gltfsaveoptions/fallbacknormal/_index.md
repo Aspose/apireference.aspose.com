@@ -18,7 +18,7 @@ public Vector3? FallbackNormal { get; set; }
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [GltfSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../gltfsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

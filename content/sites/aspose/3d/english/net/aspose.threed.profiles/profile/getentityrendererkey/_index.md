@@ -18,7 +18,7 @@ public override EntityRendererKey GetEntityRendererKey()
 
 * class [EntityRendererKey](../../../aspose.threed.render/entityrendererkey/)
 * class [Profile](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../profile/)
 * assembly [Aspose.3D](../../../)
 
 

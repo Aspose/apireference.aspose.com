@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.utilities/boundingbox/merge/
+url: /python-net/aspose.threed.utilities/boundingbox/merge/
 is_root: false
 ---
 
-## merge {#aspose.threed.utilities.Vector4}
+## merge(self, pt) {#aspose.threed.utilities.Vector4}
 
 Merge current bounding box with given point
 
 
 
 ```python
+
 def merge(self, pt):
     ...
 ```
@@ -39,13 +40,14 @@ print("Bounding box = "  + str(boundingBox))
 ```
 
 
-## merge {#aspose.threed.utilities.Vector3}
+## merge(self, pt) {#aspose.threed.utilities.Vector3}
 
 Merge current bounding box with given point
 
 
 
 ```python
+
 def merge(self, pt):
     ...
 ```
@@ -70,13 +72,14 @@ print("Bounding box = "  + str(boundingBox))
 ```
 
 
-## merge {#aspose.threed.utilities.BoundingBox}
+## merge(self, bb) {#aspose.threed.utilities.BoundingBox}
 
 Merges the new box into the current bounding box.
 
 
 
 ```python
+
 def merge(self, bb):
     ...
 ```
@@ -87,13 +90,14 @@ def merge(self, bb):
 | bb | [`BoundingBox`](/3d/python-net/aspose.threed.utilities/boundingbox) | The bounding box to merge |
 
 
-## merge {#float-float-float}
+## merge(self, x, y, z) {#float-float-float}
 
 Merge current bounding box with given point
 
 
 
 ```python
+
 def merge(self, x, y, z):
     ...
 ```

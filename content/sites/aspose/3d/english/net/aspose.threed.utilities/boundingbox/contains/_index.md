@@ -22,7 +22,7 @@ public bool Contains(Vector3 p)
 
 True if the point is inside the bounding box
 
-### Examples
+## Examples
 
 The following code shows how to check if a point is inside the bounding box.
 
@@ -36,7 +36,7 @@ Console.WriteLine("Bounding box overlaps = " + boundingBox.Contains(pt));
 
 * struct [Vector3](../../vector3/)
 * struct [BoundingBox](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -56,7 +56,7 @@ public bool Contains(BoundingBox bbox)
 ### See Also
 
 * struct [BoundingBox](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox/)
 * assembly [Aspose.3D](../../../)
 
 

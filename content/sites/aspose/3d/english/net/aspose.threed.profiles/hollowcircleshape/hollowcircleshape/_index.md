@@ -17,7 +17,7 @@ public HollowCircleShape()
 ### See Also
 
 * class [HollowCircleShape](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../hollowcircleshape/)
 * assembly [Aspose.3D](../../../)
 
 

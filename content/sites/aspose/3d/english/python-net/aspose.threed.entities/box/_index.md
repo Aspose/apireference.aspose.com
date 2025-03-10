@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.threed.entities/box/
+url: /python-net/aspose.threed.entities/box/
 is_root: false
 ---
 
@@ -27,9 +27,9 @@ The Box type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.entities/box/__init__/#) | Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class. |
-| [__init__](/3d/python-net/aspose.threed.entities/box/__init__/#float-float-float) | Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class. |
-| [__init__](/3d/python-net/aspose.threed.entities/box/__init__/#str-float-float-float-int-int-int) | Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.entities/box/__init__/#) | Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class. |
+| [`__init__(self, length, width, height)`](/3d/python-net/aspose.threed.entities/box/__init__/#float-float-float) | Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class. |
+| [`__init__(self, name, length, width, height, length_segments, width_segments, height_segments)`](/3d/python-net/aspose.threed.entities/box/__init__/#str-float-float-float-int-int-int) | Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class. |
 
 
 ### Properties
@@ -54,14 +54,14 @@ The Box type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property](/3d/python-net/aspose.threed.entities/box/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
-| [remove_property](/3d/python-net/aspose.threed.entities/box/remove_property/#str) | Remove the specified property identified by name |
-| [get_property](/3d/python-net/aspose.threed.entities/box/get_property/#str) | Get the value of specified property |
-| [set_property](/3d/python-net/aspose.threed.entities/box/set_property/#str-any) | Sets the value of specified property |
-| [find_property](/3d/python-net/aspose.threed.entities/box/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_bounding_box](/3d/python-net/aspose.threed.entities/box/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
-| [get_entity_renderer_key](/3d/python-net/aspose.threed.entities/box/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [to_mesh](/3d/python-net/aspose.threed.entities/box/to_mesh/#) | Convert current object to mesh |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/box/remove_property/#aspose.threed.property) | Removes a dynamic property. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/box/remove_property/#str) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/box/get_property/#str) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/box/set_property/#str-any) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/box/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_bounding_box(self)`](/3d/python-net/aspose.threed.entities/box/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
+| [`get_entity_renderer_key(self)`](/3d/python-net/aspose.threed.entities/box/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
+| [`to_mesh(self)`](/3d/python-net/aspose.threed.entities/box/to_mesh/#) | Convert current object to mesh |
 
 
 

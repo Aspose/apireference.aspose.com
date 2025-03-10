@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.utilities/boundingbox/from_geometry/
+url: /python-net/aspose.threed.utilities/boundingbox/from_geometry/
 is_root: false
 ---
 
-## from_geometry {#aspose.threed.entities.Geometry}
+## from_geometry(, geometry) {#aspose.threed.entities.Geometry}
 
 Construct a bounding box from given geometry
 
@@ -20,7 +20,9 @@ The bounding box of given geometry
 
 
 ```python
-def from_geometry(self, geometry):
+
+@staticmethod
+def from_geometry(geometry):
     ...
 ```
 

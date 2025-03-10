@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.animation/keyframesequence/add/
+url: /python-net/aspose.threed.animation/keyframesequence/add/
 is_root: false
 ---
 
-## add {#float-float}
+## add(self, time, value) {#float-float}
 
 Create a new key frame with specified value
 
 
 
 ```python
+
 def add(self, time, value):
     ...
 ```
@@ -26,13 +27,14 @@ def add(self, time, value):
 | value | float | The value at this time position |
 
 
-## add {#float-float-aspose.threed.animation.Interpolation}
+## add(self, time, value, interpolation) {#float-float-aspose.threed.animation.Interpolation}
 
 Create a new key frame with specified value
 
 
 
 ```python
+
 def add(self, time, value, interpolation):
     ...
 ```

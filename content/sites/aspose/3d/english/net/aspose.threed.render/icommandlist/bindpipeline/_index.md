@@ -22,7 +22,7 @@ public void BindPipeline(IPipeline pipeline)
 
 * interface [IPipeline](../../ipipeline/)
 * interface [ICommandList](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../icommandlist/)
 * assembly [Aspose.3D](../../../)
 
 

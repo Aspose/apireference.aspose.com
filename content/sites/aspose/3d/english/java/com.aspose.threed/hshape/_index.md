@@ -3,7 +3,7 @@ title: HShape
 second_title: Aspose.3D for Java API Reference
 description: The  provides the defining parameters of an H or I shape.
 type: docs
-weight: 72
+weight: 73
 url: /java/com.aspose.threed/hshape/
 ---
 

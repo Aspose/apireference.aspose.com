@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.render/itextureencoder/encode/
+url: /python-net/aspose.threed.render/itextureencoder/encode/
 is_root: false
 ---
 
-## encode {#aspose.threed.render.TextureData-io.RawIOBase}
+## encode(self, texture, stream) {#aspose.threed.render.TextureData-io.RawIOBase}
 
 Encode texture data into stream
 
 
 
 ```python
+
 def encode(self, texture, stream):
     ...
 ```

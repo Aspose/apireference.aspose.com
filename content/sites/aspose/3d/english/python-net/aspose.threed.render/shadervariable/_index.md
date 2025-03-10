@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 380
-url: /aspose.threed.render/shadervariable/
+url: /python-net/aspose.threed.render/shadervariable/
 is_root: false
 ---
 
@@ -19,8 +19,8 @@ The ShaderVariable type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.render/shadervariable/__init__/#str) | Constructor of [`ShaderVariable`](/3d/python-net/aspose.threed.render/shadervariable) |
-| [__init__](/3d/python-net/aspose.threed.render/shadervariable/__init__/#str-aspose.threed.render.ShaderStage) | Constructor of [`ShaderVariable`](/3d/python-net/aspose.threed.render/shadervariable) |
+| [`__init__(self, name)`](/3d/python-net/aspose.threed.render/shadervariable/__init__/#str) | Constructor of [`ShaderVariable`](/3d/python-net/aspose.threed.render/shadervariable) |
+| [`__init__(self, name, shader_stage)`](/3d/python-net/aspose.threed.render/shadervariable/__init__/#str-aspose.threed.render.shaderstage) | Constructor of [`ShaderVariable`](/3d/python-net/aspose.threed.render/shadervariable) |
 
 
 ### Properties

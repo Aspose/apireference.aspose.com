@@ -14,7 +14,7 @@ Some files like OBJ depends on external file, the lookup paths will allows Aspos
 public List<string> LookupPaths { get; set; }
 ```
 
-### Examples
+## Examples
 
 The following code shows how to manually specify the look up textures, so the importer can find
 
@@ -29,7 +29,7 @@ scene.Save("output.glb");
 ### See Also
 
 * class [IOConfig](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../ioconfig/)
 * assembly [Aspose.3D](../../../)
 
 

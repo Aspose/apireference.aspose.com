@@ -3,7 +3,7 @@ title: LShape
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible L-shape profile that defined by parameters.
 type: docs
-weight: 85
+weight: 87
 url: /java/com.aspose.threed/lshape/
 ---
 

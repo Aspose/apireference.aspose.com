@@ -14,7 +14,7 @@ File note in the file header.
 public string FileNote { get; set; }
 ```
 
-### Examples
+## Examples
 
 The following code shows how to export attribute in RVM.
 
@@ -37,7 +37,7 @@ scene.Save("output.rvm", opt);
 ### See Also
 
 * class [RvmSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../rvmsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

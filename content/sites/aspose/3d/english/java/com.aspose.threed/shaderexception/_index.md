@@ -3,7 +3,7 @@ title: ShaderException
 second_title: Aspose.3D for Java API Reference
 description: Shader related exceptions
 type: docs
-weight: 154
+weight: 159
 url: /java/com.aspose.threed/shaderexception/
 ---
 

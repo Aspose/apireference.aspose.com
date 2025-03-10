@@ -16,14 +16,14 @@ public class Segment
 
 | Name | Description |
 | --- | --- |
-| [Segment](../../aspose.threed.entities/compositecurve.segment/.ctor)() | The default constructor. |
+| [Segment](segment/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Curve](../../aspose.threed.entities/compositecurve.segment/curve) { get; set; } |  |
-| [SameDirection](../../aspose.threed.entities/compositecurve.segment/samedirection) { get; set; } |  |
+| [Curve](../../aspose.threed.entities/segment/curve/) { get; set; } |  |
+| [SameDirection](../../aspose.threed.entities/segment/samedirection/) { get; set; } |  |
 
 ### See Also
 

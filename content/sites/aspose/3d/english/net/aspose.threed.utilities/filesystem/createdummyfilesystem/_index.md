@@ -18,7 +18,7 @@ public static FileSystem CreateDummyFileSystem()
 
 A dummy file system
 
-### Examples
+## Examples
 
 The following code shows how to export file to memory, and ignore all dependent file generation.
 
@@ -41,7 +41,7 @@ using (var ms = new MemoryStream())
 ### See Also
 
 * class [FileSystem](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../filesystem/)
 * assembly [Aspose.3D](../../../)
 
 

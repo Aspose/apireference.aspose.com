@@ -3,7 +3,7 @@ title: MathUtils.ToDegree
 second_title: Aspose.3D for .NET API Reference
 description: MathUtils method. Convert a Vector3 from radian to degree
 type: docs
-weight: 20
+weight: 60
 url: /net/aspose.threed.utilities/mathutils/todegree/
 ---
 ## ToDegree(Vector3) {#todegree}
@@ -22,7 +22,7 @@ public static Vector3 ToDegree(Vector3 radian)
 
 The degree value.
 
-### Examples
+## Examples
 
 ```csharp
 Vector3 degrees = MathUtils.ToDegree(new Vector3(0.34, 0.9, 0.2));
@@ -33,7 +33,7 @@ Console.WriteLine($"Degrees = {degrees}");
 
 * struct [Vector3](../../vector3/)
 * class [MathUtils](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../mathutils/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -54,7 +54,7 @@ public static float ToDegree(float radian)
 
 The degree value.
 
-### Examples
+## Examples
 
 ```csharp
 var deg = MathUtils.ToDegree(0.3f);
@@ -64,7 +64,7 @@ Console.WriteLine($"Degree = {deg}");
 ### See Also
 
 * class [MathUtils](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../mathutils/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -85,7 +85,7 @@ public static double ToDegree(double radian)
 
 The degree value.
 
-### Examples
+## Examples
 
 ```csharp
 var deg = MathUtils.ToDegree(0.3);
@@ -95,7 +95,7 @@ Console.WriteLine($"Degree = {deg}");
 ### See Also
 
 * class [MathUtils](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../mathutils/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -122,7 +122,7 @@ The degree value.
 
 * struct [Vector3](../../vector3/)
 * class [MathUtils](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../mathutils/)
 * assembly [Aspose.3D](../../../)
 
 

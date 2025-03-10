@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.render/itexture1d/to_bitmap/
+url: /python-net/aspose.threed.render/itexture1d/to_bitmap/
 is_root: false
 ---
 
-## to_bitmap {#}
+## to_bitmap(self) {#}
 
 Convert the texture unit to [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) instance
 
 
 
 ```python
+
 def to_bitmap(self):
     ...
 ```

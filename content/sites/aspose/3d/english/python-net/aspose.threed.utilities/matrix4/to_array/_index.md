@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.threed.utilities/matrix4/to_array/
+url: /python-net/aspose.threed.utilities/matrix4/to_array/
 is_root: false
 ---
 
-## to_array {#}
+## to_array(self) {#}
 
 Converts matrix to array.
 
@@ -20,6 +20,7 @@ The array.
 
 
 ```python
+
 def to_array(self):
     ...
 ```

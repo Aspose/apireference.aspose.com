@@ -22,7 +22,7 @@ public void Merge(Vector2 pt)
 
 * struct [Vector2](../../vector2/)
 * struct [BoundingBox2D](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox2d/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -42,7 +42,7 @@ public void Merge(BoundingBox2D bb)
 ### See Also
 
 * struct [BoundingBox2D](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox2d/)
 * assembly [Aspose.3D](../../../)
 
 

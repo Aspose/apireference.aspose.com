@@ -19,7 +19,7 @@ public TextureData ToBitmap(CubeFace side)
 * class [TextureData](../../texturedata/)
 * enum [CubeFace](../../cubeface/)
 * interface [ITextureCubemap](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexturecubemap/)
 * assembly [Aspose.3D](../../../)
 
 

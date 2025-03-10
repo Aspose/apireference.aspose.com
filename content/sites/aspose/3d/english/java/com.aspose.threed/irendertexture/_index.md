@@ -3,7 +3,7 @@ title: IRenderTexture
 second_title: Aspose.3D for Java API Reference
 description: The interface of render texture
 type: docs
-weight: 234
+weight: 245
 url: /java/com.aspose.threed/irendertexture/
 ---
 

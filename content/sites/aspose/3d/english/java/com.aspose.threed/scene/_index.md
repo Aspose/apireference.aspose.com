@@ -3,7 +3,7 @@ title: Scene
 second_title: Aspose.3D for Java API Reference
 description: 
 type: docs
-weight: 152
+weight: 157
 url: /java/com.aspose.threed/scene/
 ---
 
@@ -38,12 +38,12 @@ public class Scene extends SceneObject
 | [fromFile(String fileName, FileFormat format, Cancellation cancellationToken)](#fromFile-java.lang.String-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Opens the scene from given path using specified file format. |
 | [fromFile(String fileName, LoadOptions options)](#fromFile-java.lang.String-com.aspose.threed.LoadOptions-) | Opens the scene from given path using specified file format. |
 | [fromFile(String fileName, LoadOptions options, Cancellation cancellationToken)](#fromFile-java.lang.String-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-) | Opens the scene from given path using specified file format. |
-| [fromStream(Stream stream)](#fromStream-com.aspose.csporter.helpers.Stream-) | Opens the scene from given stream |
-| [fromStream(Stream stream, Cancellation cancellationToken)](#fromStream-com.aspose.csporter.helpers.Stream-com.aspose.threed.Cancellation-) | Opens the scene from given stream |
-| [fromStream(Stream stream, FileFormat format)](#fromStream-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-) | Opens the scene from given stream using specified file format. |
-| [fromStream(Stream stream, FileFormat format, Cancellation cancellationToken)](#fromStream-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified file format. |
-| [fromStream(Stream stream, LoadOptions options)](#fromStream-com.aspose.csporter.helpers.Stream-com.aspose.threed.LoadOptions-) | Opens the scene from given stream using specified IO config. |
-| [fromStream(Stream stream, LoadOptions options, Cancellation cancellationToken)](#fromStream-com.aspose.csporter.helpers.Stream-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified IO config. |
+| [fromStream(Stream stream)](#fromStream-com.aspose.threed.Stream-) | Opens the scene from given stream |
+| [fromStream(Stream stream, Cancellation cancellationToken)](#fromStream-com.aspose.threed.Stream-com.aspose.threed.Cancellation-) | Opens the scene from given stream |
+| [fromStream(Stream stream, FileFormat format)](#fromStream-com.aspose.threed.Stream-com.aspose.threed.FileFormat-) | Opens the scene from given stream using specified file format. |
+| [fromStream(Stream stream, FileFormat format, Cancellation cancellationToken)](#fromStream-com.aspose.threed.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified file format. |
+| [fromStream(Stream stream, LoadOptions options)](#fromStream-com.aspose.threed.Stream-com.aspose.threed.LoadOptions-) | Opens the scene from given stream using specified IO config. |
+| [fromStream(Stream stream, LoadOptions options, Cancellation cancellationToken)](#fromStream-com.aspose.threed.Stream-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified IO config. |
 | [fromStream(InputStream stream)](#fromStream-java.io.InputStream-) | Opens the scene from given stream |
 | [fromStream(InputStream stream, Cancellation cancellationToken)](#fromStream-java.io.InputStream-com.aspose.threed.Cancellation-) | Opens the scene from given stream |
 | [fromStream(InputStream stream, FileFormat format)](#fromStream-java.io.InputStream-com.aspose.threed.FileFormat-) | Opens the scene from given stream using specified file format. |
@@ -66,12 +66,12 @@ public class Scene extends SceneObject
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [open(Stream stream)](#open-com.aspose.csporter.helpers.Stream-) | Opens the scene from given stream |
-| [open(Stream stream, Cancellation cancellationToken)](#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.Cancellation-) | Opens the scene from given stream |
-| [open(Stream stream, FileFormat format)](#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-) | Opens the scene from given stream using specified file format. |
-| [open(Stream stream, FileFormat format, Cancellation cancellationToken)](#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified file format. |
-| [open(Stream stream, LoadOptions options)](#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.LoadOptions-) | Opens the scene from given stream using specified IO config. |
-| [open(Stream stream, LoadOptions options, Cancellation cancellationToken)](#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified IO config. |
+| [open(Stream stream)](#open-com.aspose.threed.Stream-) | Opens the scene from given stream |
+| [open(Stream stream, Cancellation cancellationToken)](#open-com.aspose.threed.Stream-com.aspose.threed.Cancellation-) | Opens the scene from given stream |
+| [open(Stream stream, FileFormat format)](#open-com.aspose.threed.Stream-com.aspose.threed.FileFormat-) | Opens the scene from given stream using specified file format. |
+| [open(Stream stream, FileFormat format, Cancellation cancellationToken)](#open-com.aspose.threed.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified file format. |
+| [open(Stream stream, LoadOptions options)](#open-com.aspose.threed.Stream-com.aspose.threed.LoadOptions-) | Opens the scene from given stream using specified IO config. |
+| [open(Stream stream, LoadOptions options, Cancellation cancellationToken)](#open-com.aspose.threed.Stream-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified IO config. |
 | [open(InputStream stream)](#open-java.io.InputStream-) | Opens the scene from given stream |
 | [open(InputStream stream, Cancellation cancellationToken)](#open-java.io.InputStream-com.aspose.threed.Cancellation-) | Opens the scene from given stream |
 | [open(InputStream stream, FileFormat format)](#open-java.io.InputStream-com.aspose.threed.FileFormat-) | Opens the scene from given stream using specified file format. |
@@ -91,10 +91,10 @@ public class Scene extends SceneObject
 | [render(Camera camera, String fileName)](#render-com.aspose.threed.Camera-java.lang.String-) | Render the scene into external file from given camera's perspective. |
 | [render(Camera camera, String fileName, Vector2 size, String format)](#render-com.aspose.threed.Camera-java.lang.String-com.aspose.threed.Vector2-java.lang.String-) | Render the scene into external file from given camera's perspective. |
 | [render(Camera camera, String fileName, Vector2 size, String format, ImageRenderOptions options)](#render-com.aspose.threed.Camera-java.lang.String-com.aspose.threed.Vector2-java.lang.String-com.aspose.threed.ImageRenderOptions-) | Render the scene into external file from given camera's perspective. |
-| [save(Stream stream, FileFormat format)](#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-) | Saves the scene to stream using specified file format. |
-| [save(Stream stream, FileFormat format, Cancellation cancellationToken)](#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Saves the scene to stream using specified file format. |
-| [save(Stream stream, SaveOptions options)](#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.SaveOptions-) | Saves the scene to stream using specified file format. |
-| [save(Stream stream, SaveOptions options, Cancellation cancellationToken)](#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.SaveOptions-com.aspose.threed.Cancellation-) | Saves the scene to stream using specified file format. |
+| [save(Stream stream, FileFormat format)](#save-com.aspose.threed.Stream-com.aspose.threed.FileFormat-) | Saves the scene to stream using specified file format. |
+| [save(Stream stream, FileFormat format, Cancellation cancellationToken)](#save-com.aspose.threed.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Saves the scene to stream using specified file format. |
+| [save(Stream stream, SaveOptions options)](#save-com.aspose.threed.Stream-com.aspose.threed.SaveOptions-) | Saves the scene to stream using specified file format. |
+| [save(Stream stream, SaveOptions options, Cancellation cancellationToken)](#save-com.aspose.threed.Stream-com.aspose.threed.SaveOptions-com.aspose.threed.Cancellation-) | Saves the scene to stream using specified file format. |
 | [save(OutputStream stream, FileFormat format)](#save-java.io.OutputStream-com.aspose.threed.FileFormat-) | Saves the scene to stream using specified file format. |
 | [save(OutputStream stream, FileFormat format, Cancellation cancellationToken)](#save-java.io.OutputStream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Saves the scene to stream using specified file format. |
 | [save(OutputStream stream, SaveOptions options)](#save-java.io.OutputStream-com.aspose.threed.SaveOptions-) | Saves the scene to stream using specified file format. |
@@ -309,7 +309,7 @@ Opens the scene from given path using specified file format.
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
-### fromStream(Stream stream) {#fromStream-com.aspose.csporter.helpers.Stream-}
+### fromStream(Stream stream) {#fromStream-com.aspose.threed.Stream-}
 ```
 public static Scene fromStream(Stream stream)
 ```
@@ -320,11 +320,11 @@ Opens the scene from given stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
-### fromStream(Stream stream, Cancellation cancellationToken) {#fromStream-com.aspose.csporter.helpers.Stream-com.aspose.threed.Cancellation-}
+### fromStream(Stream stream, Cancellation cancellationToken) {#fromStream-com.aspose.threed.Stream-com.aspose.threed.Cancellation-}
 ```
 public static Scene fromStream(Stream stream, Cancellation cancellationToken)
 ```
@@ -335,12 +335,12 @@ Opens the scene from given stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 | cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
-### fromStream(Stream stream, FileFormat format) {#fromStream-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-}
+### fromStream(Stream stream, FileFormat format) {#fromStream-com.aspose.threed.Stream-com.aspose.threed.FileFormat-}
 ```
 public static Scene fromStream(Stream stream, FileFormat format)
 ```
@@ -351,12 +351,12 @@ Opens the scene from given stream using specified file format.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 | format | [FileFormat](../../com.aspose.threed/fileformat) | File format. |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
-### fromStream(Stream stream, FileFormat format, Cancellation cancellationToken) {#fromStream-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-}
+### fromStream(Stream stream, FileFormat format, Cancellation cancellationToken) {#fromStream-com.aspose.threed.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-}
 ```
 public static Scene fromStream(Stream stream, FileFormat format, Cancellation cancellationToken)
 ```
@@ -367,13 +367,13 @@ Opens the scene from given stream using specified file format.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 | format | [FileFormat](../../com.aspose.threed/fileformat) | File format. |
 | cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
-### fromStream(Stream stream, LoadOptions options) {#fromStream-com.aspose.csporter.helpers.Stream-com.aspose.threed.LoadOptions-}
+### fromStream(Stream stream, LoadOptions options) {#fromStream-com.aspose.threed.Stream-com.aspose.threed.LoadOptions-}
 ```
 public static Scene fromStream(Stream stream, LoadOptions options)
 ```
@@ -384,12 +384,12 @@ Opens the scene from given stream using specified IO config.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 | options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
-### fromStream(Stream stream, LoadOptions options, Cancellation cancellationToken) {#fromStream-com.aspose.csporter.helpers.Stream-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-}
+### fromStream(Stream stream, LoadOptions options, Cancellation cancellationToken) {#fromStream-com.aspose.threed.Stream-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-}
 ```
 public static Scene fromStream(Stream stream, LoadOptions options, Cancellation cancellationToken)
 ```
@@ -400,7 +400,7 @@ Opens the scene from given stream using specified IO config.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 | options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. |
 | cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
 
@@ -724,7 +724,7 @@ public final native void notifyAll()
 
 
 
-### open(Stream stream) {#open-com.aspose.csporter.helpers.Stream-}
+### open(Stream stream) {#open-com.aspose.threed.Stream-}
 ```
 public void open(Stream stream)
 ```
@@ -735,9 +735,9 @@ Opens the scene from given stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 
-### open(Stream stream, Cancellation cancellationToken) {#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.Cancellation-}
+### open(Stream stream, Cancellation cancellationToken) {#open-com.aspose.threed.Stream-com.aspose.threed.Cancellation-}
 ```
 public void open(Stream stream, Cancellation cancellationToken)
 ```
@@ -748,10 +748,10 @@ Opens the scene from given stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 | cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
 
-### open(Stream stream, FileFormat format) {#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-}
+### open(Stream stream, FileFormat format) {#open-com.aspose.threed.Stream-com.aspose.threed.FileFormat-}
 ```
 public void open(Stream stream, FileFormat format)
 ```
@@ -762,10 +762,10 @@ Opens the scene from given stream using specified file format.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 | format | [FileFormat](../../com.aspose.threed/fileformat) | File format. |
 
-### open(Stream stream, FileFormat format, Cancellation cancellationToken) {#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-}
+### open(Stream stream, FileFormat format, Cancellation cancellationToken) {#open-com.aspose.threed.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-}
 ```
 public void open(Stream stream, FileFormat format, Cancellation cancellationToken)
 ```
@@ -776,11 +776,11 @@ Opens the scene from given stream using specified file format.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 | format | [FileFormat](../../com.aspose.threed/fileformat) | File format. |
 | cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
 
-### open(Stream stream, LoadOptions options) {#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.LoadOptions-}
+### open(Stream stream, LoadOptions options) {#open-com.aspose.threed.Stream-com.aspose.threed.LoadOptions-}
 ```
 public void open(Stream stream, LoadOptions options)
 ```
@@ -791,10 +791,10 @@ Opens the scene from given stream using specified IO config.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 | options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. |
 
-### open(Stream stream, LoadOptions options, Cancellation cancellationToken) {#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-}
+### open(Stream stream, LoadOptions options, Cancellation cancellationToken) {#open-com.aspose.threed.Stream-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-}
 ```
 public void open(Stream stream, LoadOptions options, Cancellation cancellationToken)
 ```
@@ -805,7 +805,7 @@ Opens the scene from given stream using specified IO config.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 | options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. |
 | cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
 
@@ -1132,7 +1132,7 @@ Render the scene into external file from given camera's perspective.
 | format | java.lang.String | The image format of the output file |
 | options | [ImageRenderOptions](../../com.aspose.threed/imagerenderoptions) | The option to customize some internal settings. |
 
-### save(Stream stream, FileFormat format) {#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-}
+### save(Stream stream, FileFormat format) {#save-com.aspose.threed.Stream-com.aspose.threed.FileFormat-}
 ```
 public void save(Stream stream, FileFormat format)
 ```
@@ -1143,10 +1143,10 @@ Saves the scene to stream using specified file format.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 | format | [FileFormat](../../com.aspose.threed/fileformat) | Format. |
 
-### save(Stream stream, FileFormat format, Cancellation cancellationToken) {#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-}
+### save(Stream stream, FileFormat format, Cancellation cancellationToken) {#save-com.aspose.threed.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-}
 ```
 public void save(Stream stream, FileFormat format, Cancellation cancellationToken)
 ```
@@ -1157,11 +1157,11 @@ Saves the scene to stream using specified file format.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 | format | [FileFormat](../../com.aspose.threed/fileformat) | Format. |
 | cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the save task |
 
-### save(Stream stream, SaveOptions options) {#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.SaveOptions-}
+### save(Stream stream, SaveOptions options) {#save-com.aspose.threed.Stream-com.aspose.threed.SaveOptions-}
 ```
 public void save(Stream stream, SaveOptions options)
 ```
@@ -1172,10 +1172,10 @@ Saves the scene to stream using specified file format.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 | options | [SaveOptions](../../com.aspose.threed/saveoptions) | More detailed configuration to save the stream. |
 
-### save(Stream stream, SaveOptions options, Cancellation cancellationToken) {#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.SaveOptions-com.aspose.threed.Cancellation-}
+### save(Stream stream, SaveOptions options, Cancellation cancellationToken) {#save-com.aspose.threed.Stream-com.aspose.threed.SaveOptions-com.aspose.threed.Cancellation-}
 ```
 public void save(Stream stream, SaveOptions options, Cancellation cancellationToken)
 ```
@@ -1186,7 +1186,7 @@ Saves the scene to stream using specified file format.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | [Stream](../../com.aspose.threed/stream) | Input stream, user is responsible for closing the stream. |
 | options | [SaveOptions](../../com.aspose.threed/saveoptions) | More detailed configuration to save the stream. |
 | cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the save task |
 

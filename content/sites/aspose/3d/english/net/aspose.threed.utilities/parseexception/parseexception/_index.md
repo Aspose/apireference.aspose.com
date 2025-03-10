@@ -21,7 +21,7 @@ public ParseException(string msg)
 ### See Also
 
 * class [ParseException](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../parseexception/)
 * assembly [Aspose.3D](../../../)
 
 

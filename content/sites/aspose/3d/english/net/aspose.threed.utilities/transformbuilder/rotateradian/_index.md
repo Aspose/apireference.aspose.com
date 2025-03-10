@@ -19,7 +19,7 @@ public TransformBuilder RotateRadian(double angle, Vector3 axis)
 | angle | Double | The angle to rotate in radian |
 | axis | Vector3 | The axis to rotate |
 
-### Examples
+## Examples
 
 ```csharp
 TransformBuilder tb = new TransformBuilder();
@@ -31,7 +31,7 @@ Console.WriteLine($"Transform Matrix: {tb.Matrix}");
 
 * struct [Vector3](../../vector3/)
 * class [TransformBuilder](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -49,7 +49,7 @@ public void RotateRadian(Vector3 rot, RotationOrder order)
 | rot | Vector3 | Rotation in radian |
 | order | RotationOrder |  |
 
-### Examples
+## Examples
 
 ```csharp
 TransformBuilder tb = new TransformBuilder();
@@ -62,7 +62,7 @@ Console.WriteLine($"Transform Matrix: {tb.Matrix}");
 * struct [Vector3](../../vector3/)
 * enum [RotationOrder](../../rotationorder/)
 * class [TransformBuilder](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder/)
 * assembly [Aspose.3D](../../../)
 
 

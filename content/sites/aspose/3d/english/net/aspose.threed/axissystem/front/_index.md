@@ -18,7 +18,7 @@ public Axis Front { get; }
 
 * enum [Axis](../../axis/)
 * class [AxisSystem](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../axissystem/)
 * assembly [Aspose.3D](../../../)
 
 

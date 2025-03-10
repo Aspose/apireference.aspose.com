@@ -22,7 +22,7 @@ public void LoadData(TriMesh mesh)
 
 * class [TriMesh](../../../aspose.threed.entities/trimesh/)
 * interface [IIndexBuffer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../iindexbuffer/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -42,7 +42,7 @@ public void LoadData(int[] indices)
 ### See Also
 
 * interface [IIndexBuffer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../iindexbuffer/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -62,7 +62,7 @@ public void LoadData(uint[] indices)
 ### See Also
 
 * interface [IIndexBuffer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../iindexbuffer/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -82,7 +82,7 @@ public void LoadData(short[] indices)
 ### See Also
 
 * interface [IIndexBuffer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../iindexbuffer/)
 * assembly [Aspose.3D](../../../)
 
 

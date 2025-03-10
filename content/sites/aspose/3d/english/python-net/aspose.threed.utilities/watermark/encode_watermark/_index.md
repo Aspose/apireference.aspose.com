@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.utilities/watermark/encode_watermark/
+url: /python-net/aspose.threed.utilities/watermark/encode_watermark/
 is_root: false
 ---
 
-## encode_watermark {#aspose.threed.entities.Mesh-str}
+## encode_watermark(, input, text) {#aspose.threed.entities.Mesh-str}
 
 Encode a text into mesh' blind watermark.
 
@@ -20,7 +20,9 @@ A new mesh instance with blind watermark encoded
 
 
 ```python
-def encode_watermark(self, input, text):
+
+@staticmethod
+def encode_watermark(input, text):
     ...
 ```
 
@@ -51,7 +53,7 @@ Scene(encodedMesh).save("test.ply")
 ```
 
 
-## encode_watermark {#aspose.threed.entities.Mesh-str-str}
+## encode_watermark(, input, text, password) {#aspose.threed.entities.Mesh-str-str}
 
 Encode a text into mesh' blind watermark.
 
@@ -63,7 +65,9 @@ A new mesh instance with blind watermark encoded
 
 
 ```python
-def encode_watermark(self, input, text, password):
+
+@staticmethod
+def encode_watermark(input, text, password):
     ...
 ```
 
@@ -95,7 +99,7 @@ Scene(encodedMesh).save("test.ply")
 ```
 
 
-## encode_watermark {#aspose.threed.entities.Mesh-str-str-bool}
+## encode_watermark(, input, text, password, permanent) {#aspose.threed.entities.Mesh-str-str-bool}
 
 Encode a text into mesh' blind watermark.
 
@@ -107,7 +111,9 @@ A new mesh instance with blind watermark encoded
 
 
 ```python
-def encode_watermark(self, input, text, password, permanent):
+
+@staticmethod
+def encode_watermark(input, text, password, permanent):
     ...
 ```
 

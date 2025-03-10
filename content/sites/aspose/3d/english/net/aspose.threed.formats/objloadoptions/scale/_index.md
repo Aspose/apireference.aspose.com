@@ -17,7 +17,7 @@ public double Scale { get; set; }
 ### See Also
 
 * class [ObjLoadOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../objloadoptions/)
 * assembly [Aspose.3D](../../../)
 
 

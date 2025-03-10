@@ -14,14 +14,14 @@ Gets or sets the scale factor to real-world meter.
 public double UnitScaleFactor { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 This is ignored during serialization if the unit name is null.
 
 ### See Also
 
 * class [AssetInfo](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../assetinfo/)
 * assembly [Aspose.3D](../../../)
 
 

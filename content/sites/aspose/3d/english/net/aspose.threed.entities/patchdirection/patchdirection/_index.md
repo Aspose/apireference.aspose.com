@@ -17,7 +17,7 @@ public PatchDirection()
 ### See Also
 
 * class [PatchDirection](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../patchdirection/)
 * assembly [Aspose.3D](../../../)
 
 

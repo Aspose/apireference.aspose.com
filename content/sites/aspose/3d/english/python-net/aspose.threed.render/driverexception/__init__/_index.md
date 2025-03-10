@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.threed.render/driverexception/__init__/
+url: /python-net/aspose.threed.render/driverexception/__init__/
 is_root: false
 ---
 
-## __init__ {#int-str}
+## __init__(self, code, message) {#int-str}
 
 Initialize an instance of [`DriverException`](/3d/python-net/aspose.threed.render/driverexception) with specified native driver error code and message.
 
 
 
 ```python
+
 def __init__(self, code, message):
     ...
 ```

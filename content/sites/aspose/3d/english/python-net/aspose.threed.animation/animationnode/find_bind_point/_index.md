@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.animation/animationnode/find_bind_point/
+url: /python-net/aspose.threed.animation/animationnode/find_bind_point/
 is_root: false
 ---
 
-## find_bind_point {#aspose.threed.A3DObject-str}
+## find_bind_point(self, target, name) {#aspose.threed.A3DObject-str}
 
 Finds the bind point by target and name.
 
@@ -20,6 +20,7 @@ The bind point.
 
 
 ```python
+
 def find_bind_point(self, target, name):
     ...
 ```

@@ -22,7 +22,7 @@ The bounding box of current node
 
 * struct [BoundingBox](../../../aspose.threed.utilities/boundingbox/)
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

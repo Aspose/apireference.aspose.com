@@ -3,7 +3,7 @@ title: StlLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: Load options for STL
 type: docs
-weight: 167
+weight: 172
 url: /java/com.aspose.threed/stlloadoptions/
 ---
 

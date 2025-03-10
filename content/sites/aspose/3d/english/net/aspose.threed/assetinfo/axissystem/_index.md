@@ -18,7 +18,7 @@ public AxisSystem AxisSystem { get; set; }
 
 * class [AxisSystem](../../axissystem/)
 * class [AssetInfo](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../assetinfo/)
 * assembly [Aspose.3D](../../../)
 
 

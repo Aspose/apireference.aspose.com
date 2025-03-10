@@ -17,7 +17,7 @@ public NurbsCurve()
 ### See Also
 
 * class [NurbsCurve](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../nurbscurve/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,7 +37,7 @@ public NurbsCurve(string name)
 ### See Also
 
 * class [NurbsCurve](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../nurbscurve/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -3,7 +3,7 @@ title: GltfSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for glTF format.
 type: docs
-weight: 71
+weight: 72
 url: /java/com.aspose.threed/gltfsaveoptions/
 ---
 

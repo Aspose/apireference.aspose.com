@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.threed/node/merge/
+url: /python-net/aspose.threed/node/merge/
 is_root: false
 ---
 
-## merge {#aspose.threed.Node}
+## merge(self, node) {#aspose.threed.Node}
 
 Detach everything under the node and attach them to current node.
 
 
 
 ```python
+
 def merge(self, node):
     ...
 ```

@@ -35,10 +35,10 @@ public class Node : SceneObject
 | [Material](../../aspose.threed/node/material/) { get; set; } | Gets or sets the first material associated with this node, if sets, will clear other materials |
 | [Materials](../../aspose.threed/node/materials/) { get; } | Gets the materials associated with this node. |
 | [MetaDatas](../../aspose.threed/node/metadatas/) { get; } | Gets the meta data defined in this node. |
-| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name.(Inherited from [`A3DObject`](../a3dobject/).) |
+| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name. |
 | [ParentNode](../../aspose.threed/node/parentnode/) { get; set; } | Gets or sets the parent node. |
-| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties.(Inherited from [`A3DObject`](../a3dobject/).) |
-| [Scene](../../aspose.threed/sceneobject/scene/) { get; } | Gets the scene that this object belongs to(Inherited from [`SceneObject`](../sceneobject/).) |
+| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties. |
+| [Scene](../../aspose.threed/sceneobject/scene/) { get; } | Gets the scene that this object belongs to |
 | [Transform](../../aspose.threed/node/transform/) { get; } | Gets the local transform. |
 | [Visible](../../aspose.threed/node/visible/) { get; set; } | Gets or sets to show the node |
 
@@ -55,18 +55,18 @@ public class Node : SceneObject
 | [CreateChildNode](../../aspose.threed/node/createchildnode/#createchildnode_3)(string, Entity) | Create a new child node with given node name |
 | [CreateChildNode](../../aspose.threed/node/createchildnode/#createchildnode_4)(string, Entity, Material) | Create a new child node with given node name, and attach specified entity and a material |
 | [EvaluateGlobalTransform](../../aspose.threed/node/evaluateglobaltransform/)(bool) | Evaluate the global transform, include the geometric transform or not. |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name)(Inherited from [`A3DObject`](../a3dobject/).) |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
 | [GetBoundingBox](../../aspose.threed/node/getboundingbox/)() | Calculate the bounding box of the node |
 | [GetChild](../../aspose.threed/node/getchild/#getchild)(int) | Gets the child node at specified index. |
 | [GetChild](../../aspose.threed/node/getchild/#getchild_1)(string) | Gets the child node with the specified name |
 | [GetEntity&lt;T&gt;](../../aspose.threed/node/getentity/)() |  |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property(Inherited from [`A3DObject`](../a3dobject/).) |
+| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property |
 | [Merge](../../aspose.threed/node/merge/)(Node) | Detach everything under the node and attach them to current node. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property.(Inherited from [`A3DObject`](../a3dobject/).) |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name(Inherited from [`A3DObject`](../a3dobject/).) |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name |
 | [SelectObjects](../../aspose.threed/node/selectobjects/)(string) | Select multiple objects under current node using XPath-like query syntax. |
 | [SelectSingleObject](../../aspose.threed/node/selectsingleobject/)(string) | Select single object under current node using XPath-like query syntax. |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property(Inherited from [`A3DObject`](../a3dobject/).) |
+| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property |
 | override [ToString](../../aspose.threed/node/tostring/)() | Gets the string representation of this node. |
 
 ### See Also

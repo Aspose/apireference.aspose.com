@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.threed.utilities/transformbuilder/rotate/
+url: /python-net/aspose.threed.utilities/transformbuilder/rotate/
 is_root: false
 ---
 
-## rotate {#aspose.threed.utilities.Quaternion}
+## rotate(self, q) {#aspose.threed.utilities.Quaternion}
 
 Chain a rotation by a quaternion
 
 
 
 ```python
+
 def rotate(self, q):
     ...
 ```

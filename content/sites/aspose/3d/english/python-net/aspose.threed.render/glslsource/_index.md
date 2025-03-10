@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.threed.render/glslsource/
+url: /python-net/aspose.threed.render/glslsource/
 is_root: false
 ---
 
@@ -24,7 +24,7 @@ The GLSLSource type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.render/glslsource/__init__/#) | Constructs a new instance of GLSLSource |
+| [`__init__(self)`](/3d/python-net/aspose.threed.render/glslsource/__init__/#) | Constructs a new instance of GLSLSource |
 
 
 ### Properties
@@ -39,7 +39,7 @@ The GLSLSource type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [define_include](/3d/python-net/aspose.threed.render/glslsource/define_include/#str-str) | Define virtual file for #include in GLSL source code |
+| [`define_include(self, file_name, content)`](/3d/python-net/aspose.threed.render/glslsource/define_include/#str-str) | Define virtual file for #include in GLSL source code |
 
 
 

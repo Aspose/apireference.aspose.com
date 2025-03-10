@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.utilities/fvector4/
+url: /python-net/aspose.threed.utilities/fvector4/
 is_root: false
 ---
 
@@ -19,12 +19,12 @@ The FVector4 type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.utilities/fvector4/__init__/#float-float-float-float) | Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4). |
-| [__init__](/3d/python-net/aspose.threed.utilities/fvector4/__init__/#float-float-float) | Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4). |
-| [__init__](/3d/python-net/aspose.threed.utilities/fvector4/__init__/#aspose.threed.utilities.Vector4) | Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4). |
-| [__init__](/3d/python-net/aspose.threed.utilities/fvector4/__init__/#aspose.threed.utilities.Vector3) | Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4). |
-| [__init__](/3d/python-net/aspose.threed.utilities/fvector4/__init__/#aspose.threed.utilities.Vector3-float) | Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4). |
-| [__init__](/3d/python-net/aspose.threed.utilities/fvector4/__init__/#) | Constructs a new instance of FVector4 |
+| [`__init__(self, x, y, z, w)`](/3d/python-net/aspose.threed.utilities/fvector4/__init__/#float-float-float-float) | Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4). |
+| [`__init__(self, x, y, z)`](/3d/python-net/aspose.threed.utilities/fvector4/__init__/#float-float-float) | Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4). |
+| [`__init__(self, vec)`](/3d/python-net/aspose.threed.utilities/fvector4/__init__/#aspose.threed.utilities.vector4) | Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4). |
+| [`__init__(self, vec)`](/3d/python-net/aspose.threed.utilities/fvector4/__init__/#aspose.threed.utilities.vector3) | Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4). |
+| [`__init__(self, vec, w)`](/3d/python-net/aspose.threed.utilities/fvector4/__init__/#aspose.threed.utilities.vector3-float) | Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4). |
+| [`__init__(self)`](/3d/python-net/aspose.threed.utilities/fvector4/__init__/#) | Constructs a new instance of FVector4 |
 
 
 ### Properties

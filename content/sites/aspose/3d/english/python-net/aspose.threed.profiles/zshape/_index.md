@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 180
-url: /aspose.threed.profiles/zshape/
+url: /python-net/aspose.threed.profiles/zshape/
 is_root: false
 ---
 
@@ -28,7 +28,7 @@ The ZShape type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.profiles/zshape/__init__/#) | Constructor of [`ZShape`](/3d/python-net/aspose.threed.profiles/zshape) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.profiles/zshape/__init__/#) | Constructor of [`ZShape`](/3d/python-net/aspose.threed.profiles/zshape) |
 
 
 ### Properties
@@ -51,14 +51,14 @@ The ZShape type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property](/3d/python-net/aspose.threed.profiles/zshape/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
-| [remove_property](/3d/python-net/aspose.threed.profiles/zshape/remove_property/#str) | Remove the specified property identified by name |
-| [get_property](/3d/python-net/aspose.threed.profiles/zshape/get_property/#str) | Get the value of specified property |
-| [set_property](/3d/python-net/aspose.threed.profiles/zshape/set_property/#str-any) | Sets the value of specified property |
-| [find_property](/3d/python-net/aspose.threed.profiles/zshape/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_bounding_box](/3d/python-net/aspose.threed.profiles/zshape/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
-| [get_entity_renderer_key](/3d/python-net/aspose.threed.profiles/zshape/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [get_extent](/3d/python-net/aspose.threed.profiles/zshape/get_extent/#) | Gets the extent in x and y dimension. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.profiles/zshape/remove_property/#aspose.threed.property) | Removes a dynamic property. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.profiles/zshape/remove_property/#str) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.profiles/zshape/get_property/#str) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.profiles/zshape/set_property/#str-any) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.profiles/zshape/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_bounding_box(self)`](/3d/python-net/aspose.threed.profiles/zshape/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
+| [`get_entity_renderer_key(self)`](/3d/python-net/aspose.threed.profiles/zshape/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
+| [`get_extent(self)`](/3d/python-net/aspose.threed.profiles/zshape/get_extent/#) | Gets the extent in x and y dimension. |
 
 
 

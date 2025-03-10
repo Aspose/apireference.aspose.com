@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 300
-url: /aspose.threed.formats/stlloadoptions/
+url: /python-net/aspose.threed.formats/stlloadoptions/
 is_root: false
 ---
 
@@ -25,8 +25,8 @@ The StlLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/stlloadoptions/__init__/#) | Initializes of a new [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions) instance. |
-| [__init__](/3d/python-net/aspose.threed.formats/stlloadoptions/__init__/#aspose.threed.FileContentType) | Initializes of a new [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions) instance. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/stlloadoptions/__init__/#) | Initializes of a new [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions) instance. |
+| [`__init__(self, content_type)`](/3d/python-net/aspose.threed.formats/stlloadoptions/__init__/#aspose.threed.filecontenttype) | Initializes of a new [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions) instance. |
 
 
 ### Properties

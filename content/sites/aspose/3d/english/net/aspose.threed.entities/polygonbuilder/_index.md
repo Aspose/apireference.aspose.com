@@ -28,7 +28,7 @@ public sealed class PolygonBuilder
 | [Begin](../../aspose.threed.entities/polygonbuilder/begin/)() | Begins to add a new polygon |
 | [End](../../aspose.threed.entities/polygonbuilder/end/)() | Finishes the polygon creation |
 
-### Examples
+## Examples
 
 ```csharp
 Mesh mesh = new Mesh();

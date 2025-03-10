@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.threed.shading/phongmaterial/map_emissive/
+url: /python-net/aspose.threed.shading/phongmaterial/map_emissive/
 is_root: false
 ---
 
@@ -12,6 +12,10 @@ is_root: false
 
 
 Used in [`Material.set_texture`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a emissive texture mapping.
+### Definition:
+```python
+f MAP_EMISSIVE 
+```
 
 ### See Also
 * module [`aspose.threed.shading`](../../)

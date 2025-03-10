@@ -29,7 +29,7 @@ public virtual void RenderEntity(Renderer renderer, ICommandList commandList, No
 * interface [ICommandList](../../icommandlist/)
 * class [Node](../../../aspose.threed/node/)
 * class [EntityRenderer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../entityrenderer/)
 * assembly [Aspose.3D](../../../)
 
 

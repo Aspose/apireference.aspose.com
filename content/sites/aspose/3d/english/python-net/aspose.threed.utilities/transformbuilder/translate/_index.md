@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.threed.utilities/transformbuilder/translate/
+url: /python-net/aspose.threed.utilities/transformbuilder/translate/
 is_root: false
 ---
 
-## translate {#aspose.threed.utilities.Vector3}
+## translate(self, v) {#aspose.threed.utilities.Vector3}
 
 Chain a translation transform
 
 
 
 ```python
+
 def translate(self, v):
     ...
 ```
@@ -37,13 +38,14 @@ print(f"Transform Matrix: {tb.matrix}")
 ```
 
 
-## translate {#float-float-float}
+## translate(self, tx, ty, tz) {#float-float-float}
 
 Chain a translation transform
 
 
 
 ```python
+
 def translate(self, tx, ty, tz):
     ...
 ```

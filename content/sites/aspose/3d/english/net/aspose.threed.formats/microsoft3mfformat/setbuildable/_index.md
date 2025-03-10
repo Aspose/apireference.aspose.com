@@ -17,7 +17,7 @@ public void SetBuildable(Node node, bool value, Matrix4? transform)
 * class [Node](../../../aspose.threed/node/)
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [Microsoft3MFFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../microsoft3mfformat/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -17,7 +17,7 @@ public const string MapEmissive;
 ### See Also
 
 * class [Material](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../material/)
 * assembly [Aspose.3D](../../../)
 
 

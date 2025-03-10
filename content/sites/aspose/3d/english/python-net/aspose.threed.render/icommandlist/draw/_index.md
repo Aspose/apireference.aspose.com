@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.render/icommandlist/draw/
+url: /python-net/aspose.threed.render/icommandlist/draw/
 is_root: false
 ---
 
-## draw {#}
+## draw(self) {#}
 
 Draw without index buffer
 
 
 
 ```python
+
 def draw(self):
     ...
 ```
@@ -22,13 +23,14 @@ def draw(self):
 
 
 
-## draw {#int-int}
+## draw(self, start, count) {#int-int}
 
 Draw without index buffer
 
 
 
 ```python
+
 def draw(self, start, count):
     ...
 ```

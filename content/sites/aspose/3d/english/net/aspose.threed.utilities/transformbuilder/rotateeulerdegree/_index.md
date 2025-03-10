@@ -20,7 +20,7 @@ public TransformBuilder RotateEulerDegree(double degX, double degY, double degZ)
 | degY | Double |  |
 | degZ | Double |  |
 
-### Examples
+## Examples
 
 ```csharp
 TransformBuilder tb = new TransformBuilder();
@@ -31,7 +31,7 @@ Console.WriteLine($"Transform Matrix: {tb.Matrix}");
 ### See Also
 
 * class [TransformBuilder](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder/)
 * assembly [Aspose.3D](../../../)
 
 

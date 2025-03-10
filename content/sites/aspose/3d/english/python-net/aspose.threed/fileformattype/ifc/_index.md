@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /aspose.threed/fileformattype/ifc/
+url: /python-net/aspose.threed/fileformattype/ifc/
 is_root: false
 ---
 
@@ -12,6 +12,10 @@ is_root: false
 
 
 ISO 16739-1 Industry Foundation Classes data model.
+### Definition:
+```python
+f IFC 
+```
 
 ### See Also
 * module [`aspose.threed`](../../)

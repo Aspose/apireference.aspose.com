@@ -17,7 +17,7 @@ public override int GetHashCode()
 ### See Also
 
 * class [StencilState](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../stencilstate/)
 * assembly [Aspose.3D](../../../)
 
 

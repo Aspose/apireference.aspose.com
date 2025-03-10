@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.utilities/filesystem/create_dummy_file_system/
+url: /python-net/aspose.threed.utilities/filesystem/create_dummy_file_system/
 is_root: false
 ---
 
-## create_dummy_file_system {#}
+## create_dummy_file_system() {#}
 
 Create a dummy file system, read/write operations are dummy operations.
 
@@ -20,7 +20,9 @@ A dummy file system
 
 
 ```python
-def create_dummy_file_system(self):
+
+@staticmethod
+def create_dummy_file_system():
     ...
 ```
 

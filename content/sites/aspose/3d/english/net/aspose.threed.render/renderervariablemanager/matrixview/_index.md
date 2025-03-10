@@ -18,7 +18,7 @@ public FMatrix4 MatrixView { get; set; }
 
 * struct [FMatrix4](../../../aspose.threed.utilities/fmatrix4/)
 * class [RendererVariableManager](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderervariablemanager/)
 * assembly [Aspose.3D](../../../)
 
 

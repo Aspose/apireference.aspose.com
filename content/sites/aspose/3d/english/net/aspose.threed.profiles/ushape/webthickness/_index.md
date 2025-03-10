@@ -17,7 +17,7 @@ public double WebThickness { get; set; }
 ### See Also
 
 * class [UShape](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../ushape/)
 * assembly [Aspose.3D](../../../)
 
 

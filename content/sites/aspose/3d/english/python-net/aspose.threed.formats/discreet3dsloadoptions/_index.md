@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.formats/discreet3dsloadoptions/
+url: /python-net/aspose.threed.formats/discreet3dsloadoptions/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The Discreet3dsLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions/__init__/#) | Constructor of [`Discreet3dsLoadOptions`](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions/__init__/#) | Constructor of [`Discreet3dsLoadOptions`](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions) |
 
 
 ### Properties

@@ -17,7 +17,7 @@ public double OcclusionFactor { get; set; }
 ### See Also
 
 * class [PbrMaterial](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../pbrmaterial/)
 * assembly [Aspose.3D](../../../)
 
 

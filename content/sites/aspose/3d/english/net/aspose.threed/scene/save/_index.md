@@ -26,7 +26,7 @@ public void Save(Stream stream, FileFormat format)
 | IOException | Thrown when failed at reading input |
 | [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to save scene
 
@@ -42,7 +42,7 @@ using(var ms = new MemoryStream())
 
 * class [FileFormat](../../fileformat/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -68,7 +68,7 @@ public void Save(Stream stream, FileFormat format, CancellationToken cancellatio
 | IOException | Thrown when failed at reading input |
 | [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to save scene
 
@@ -85,7 +85,7 @@ using(var ms = new MemoryStream())
 
 * class [FileFormat](../../fileformat/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -110,7 +110,7 @@ public void Save(Stream stream, SaveOptions options)
 | IOException | Thrown when failed at reading input |
 | [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to save scene
 
@@ -128,7 +128,7 @@ using(var ms = new MemoryStream())
 
 * class [SaveOptions](../../../aspose.threed.formats/saveoptions/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -154,7 +154,7 @@ public void Save(Stream stream, SaveOptions options, CancellationToken cancellat
 | IOException | Thrown when failed at reading input |
 | [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to save scene
 
@@ -173,7 +173,7 @@ using(var ms = new MemoryStream())
 
 * class [SaveOptions](../../../aspose.threed.formats/saveoptions/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -197,7 +197,7 @@ public void Save(string fileName)
 | IOException | Thrown when failed at reading input |
 | [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to save scene
 
@@ -209,7 +209,7 @@ scene.Save("output.usdz");
 ### See Also
 
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -234,7 +234,7 @@ public void Save(string fileName, FileFormat format)
 | IOException | Thrown when failed at reading input |
 | [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to save scene
 
@@ -247,7 +247,7 @@ scene.Save("output.usdz", FileFormat.USDZ);
 
 * class [FileFormat](../../fileformat/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -273,7 +273,7 @@ public void Save(string fileName, FileFormat format, CancellationToken cancellat
 | IOException | Thrown when failed at reading input |
 | [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to save scene
 
@@ -287,7 +287,7 @@ scene.Save("output.usdz", FileFormat.USDZ, cts.Token);
 
 * class [FileFormat](../../fileformat/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -312,7 +312,7 @@ public void Save(string fileName, SaveOptions options)
 | IOException | Thrown when failed at reading input |
 | [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to save scene
 
@@ -327,7 +327,7 @@ scene.Save("output.usdz", opts);
 
 * class [SaveOptions](../../../aspose.threed.formats/saveoptions/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -353,7 +353,7 @@ public void Save(string fileName, SaveOptions options, CancellationToken cancell
 | IOException | Thrown when failed at reading input |
 | [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
 
-### Examples
+## Examples
 
 The following code shows how to save scene
 
@@ -369,7 +369,7 @@ scene.Save("output.usdz", opts, cts.Token);
 
 * class [SaveOptions](../../../aspose.threed.formats/saveoptions/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 

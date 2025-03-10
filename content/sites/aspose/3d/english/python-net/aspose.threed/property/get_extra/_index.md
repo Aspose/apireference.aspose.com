@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed/property/get_extra/
+url: /python-net/aspose.threed/property/get_extra/
 is_root: false
 ---
 
-## get_extra {#str}
+## get_extra(self, name) {#str}
 
 Gets extra data of the property associated by name.
 
@@ -20,6 +20,7 @@ The extra data associated by name
 
 
 ```python
+
 def get_extra(self, name):
     ...
 ```

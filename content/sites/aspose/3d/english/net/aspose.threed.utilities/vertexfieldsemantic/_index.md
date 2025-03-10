@@ -30,6 +30,8 @@ public enum VertexFieldSemantic
 | Visibility | `9` | Visibility for components |
 | Specular | `10` | Specular colors |
 | Weight | `11` | Blend weights |
+| MorphPosition | `12` | Position data for morph target |
+| MorphNormal | `13` | Normal data for morph target |
 
 ### See Also
 

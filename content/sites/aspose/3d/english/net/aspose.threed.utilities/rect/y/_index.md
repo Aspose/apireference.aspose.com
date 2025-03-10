@@ -17,7 +17,7 @@ public int Y { get; set; }
 ### See Also
 
 * struct [Rect](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../rect/)
 * assembly [Aspose.3D](../../../)
 
 

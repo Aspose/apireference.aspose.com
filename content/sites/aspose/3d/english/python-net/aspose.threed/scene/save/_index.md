@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.threed/scene/save/
+url: /python-net/aspose.threed/scene/save/
 is_root: false
 ---
 
-## save {#str}
+## save(self, file_name) {#str}
 
 Saves the scene to specified path using specified file format.
 
 
 
 ```python
+
 def save(self, file_name):
     ...
 ```
@@ -45,13 +46,14 @@ scene.save("output.usdz")
 ```
 
 
-## save {#io.RawIOBase-aspose.threed.FileFormat}
+## save(self, stream, format) {#io.RawIOBase-aspose.threed.FileFormat}
 
 Saves the scene to stream using specified file format.
 
 
 
 ```python
+
 def save(self, stream, format):
     ...
 ```
@@ -85,13 +87,14 @@ with BytesIO() as ms:
 ```
 
 
-## save {#io.RawIOBase-aspose.threed.formats.SaveOptions}
+## save(self, stream, options) {#io.RawIOBase-aspose.threed.formats.SaveOptions}
 
 Saves the scene to stream using specified file format.
 
 
 
 ```python
+
 def save(self, stream, options):
     ...
 ```
@@ -128,13 +131,14 @@ with BytesIO() as ms:
 ```
 
 
-## save {#str-aspose.threed.FileFormat}
+## save(self, file_name, format) {#str-aspose.threed.FileFormat}
 
 Saves the scene to specified path using specified file format.
 
 
 
 ```python
+
 def save(self, file_name, format):
     ...
 ```
@@ -166,13 +170,14 @@ scene.save("output.usdz", FileFormat.USDZ)
 ```
 
 
-## save {#str-aspose.threed.formats.SaveOptions}
+## save(self, file_name, options) {#str-aspose.threed.formats.SaveOptions}
 
 Saves the scene to specified path using specified file format.
 
 
 
 ```python
+
 def save(self, file_name, options):
     ...
 ```

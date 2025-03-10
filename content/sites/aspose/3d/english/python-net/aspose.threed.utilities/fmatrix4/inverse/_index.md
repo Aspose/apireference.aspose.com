@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.utilities/fmatrix4/inverse/
+url: /python-net/aspose.threed.utilities/fmatrix4/inverse/
 is_root: false
 ---
 
-## inverse {#}
+## inverse(self) {#}
 
 Calculate the inverse matrix of current instance.
 
@@ -20,6 +20,7 @@ Inverse matrix4
 
 
 ```python
+
 def inverse(self):
     ...
 ```

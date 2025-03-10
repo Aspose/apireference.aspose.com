@@ -3,7 +3,7 @@ title: NurbsType
 second_title: Aspose.3D for Java API Reference
 description: NURBS types.
 type: docs
-weight: 269
+weight: 281
 url: /java/com.aspose.threed/nurbstype/
 ---
 

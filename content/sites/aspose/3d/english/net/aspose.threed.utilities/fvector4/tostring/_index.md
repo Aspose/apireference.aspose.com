@@ -21,7 +21,7 @@ The string representation of current vector.
 ### See Also
 
 * struct [FVector4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fvector4/)
 * assembly [Aspose.3D](../../../)
 
 

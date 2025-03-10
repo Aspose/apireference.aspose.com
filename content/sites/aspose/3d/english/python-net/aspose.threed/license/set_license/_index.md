@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed/license/set_license/
+url: /python-net/aspose.threed/license/set_license/
 is_root: false
 ---
 
-## set_license {#str}
+## set_license(self, license_name) {#str}
 
 Licenses the component.
 
 
 
 ```python
+
 def set_license(self, license_name):
     ...
 ```
@@ -39,13 +40,14 @@ Can be a full or short file name.
 Use an empty string to switch to evaluation mode.
 
 
-## set_license {#io.RawIOBase}
+## set_license(self, stream) {#io.RawIOBase}
 
 Licenses the component.
 
 
 
 ```python
+
 def set_license(self, stream):
     ...
 ```
@@ -60,7 +62,13 @@ Use this method to load a license from a stream.
 ### Example 
 
 
+```python
+from aspose.threed import License
 
+license = License()
+license.set_license(myStream)
+
+```
 
 
 

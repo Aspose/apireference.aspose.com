@@ -3,7 +3,7 @@ title: TShape
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible T-shape defined by parameters.
 type: docs
-weight: 170
+weight: 177
 url: /java/com.aspose.threed/tshape/
 ---
 

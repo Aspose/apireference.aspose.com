@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 330
-url: /aspose.threed.formats/u3dsaveoptions/
+url: /python-net/aspose.threed.formats/u3dsaveoptions/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The U3dSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/u3dsaveoptions/__init__/#) | Constructor of [`U3dSaveOptions`](/3d/python-net/aspose.threed.formats/u3dsaveoptions) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/u3dsaveoptions/__init__/#) | Constructor of [`U3dSaveOptions`](/3d/python-net/aspose.threed.formats/u3dsaveoptions) |
 
 
 ### Properties

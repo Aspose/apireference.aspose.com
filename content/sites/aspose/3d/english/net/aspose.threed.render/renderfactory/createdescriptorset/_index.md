@@ -27,7 +27,7 @@ A new descriptor set instance
 * interface [IDescriptorSet](../../idescriptorset/)
 * class [ShaderProgram](../../shaderprogram/)
 * class [RenderFactory](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderfactory/)
 * assembly [Aspose.3D](../../../)
 
 

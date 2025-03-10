@@ -3,7 +3,7 @@ title: Pose
 second_title: Aspose.3D for Java API Reference
 description: The pose is used to store transformation matrix when the geometry is skinned.
 type: docs
-weight: 126
+weight: 131
 url: /java/com.aspose.threed/pose/
 ---
 

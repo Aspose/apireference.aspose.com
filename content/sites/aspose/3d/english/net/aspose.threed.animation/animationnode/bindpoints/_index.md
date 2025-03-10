@@ -18,7 +18,7 @@ public IList<BindPoint> BindPoints { get; }
 
 * class [BindPoint](../../bindpoint/)
 * class [AnimationNode](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../animationnode/)
 * assembly [Aspose.3D](../../../)
 
 

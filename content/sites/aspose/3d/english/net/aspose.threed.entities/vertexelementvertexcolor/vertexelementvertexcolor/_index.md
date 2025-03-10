@@ -17,7 +17,7 @@ public VertexElementVertexColor()
 ### See Also
 
 * class [VertexElementVertexColor](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementvertexcolor/)
 * assembly [Aspose.3D](../../../)
 
 

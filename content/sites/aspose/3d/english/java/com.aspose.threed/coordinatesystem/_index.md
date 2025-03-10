@@ -3,7 +3,7 @@ title: CoordinateSystem
 second_title: Aspose.3D for Java API Reference
 description: The left handed or right handed coordinate system.
 type: docs
-weight: 256
+weight: 268
 url: /java/com.aspose.threed/coordinatesystem/
 ---
 

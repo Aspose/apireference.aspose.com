@@ -22,7 +22,7 @@ public List<Scene> ExtractScene(string fileName)
 
 List of decoded 3D scenes that supported by Aspose.3D
 
-### Examples
+## Examples
 
 The following code shows how to extract all supported 3D scenes from a 3D PDF file, and write them to obj format.
 
@@ -38,7 +38,7 @@ for(int i = 0; i < scenes.Count; i++)
 
 * class [Scene](../../../aspose.threed/scene/)
 * class [PdfFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../pdfformat/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -60,7 +60,7 @@ public List<Scene> ExtractScene(string fileName, byte[] password)
 
 List of decoded 3D scenes that supported by Aspose.3D
 
-### Examples
+## Examples
 
 The following code shows how to extract all supported 3D scenes from a 3D PDF file, and write them to obj format.
 
@@ -76,7 +76,7 @@ for(int i = 0; i < scenes.Count; i++)
 
 * class [Scene](../../../aspose.threed/scene/)
 * class [PdfFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../pdfformat/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -98,7 +98,7 @@ public List<Scene> ExtractScene(Stream stream, byte[] password = null)
 
 List of decoded 3D scenes that supported by Aspose.3D
 
-### Examples
+## Examples
 
 The following code shows how to extract all supported 3D scenes from a 3D PDF file, and write them to obj format.
 
@@ -114,7 +114,7 @@ for(int i = 0; i < scenes.Count; i++)
 
 * class [Scene](../../../aspose.threed/scene/)
 * class [PdfFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../pdfformat/)
 * assembly [Aspose.3D](../../../)
 
 

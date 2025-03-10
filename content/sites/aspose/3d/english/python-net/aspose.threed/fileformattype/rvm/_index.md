@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /aspose.threed/fileformattype/rvm/
+url: /python-net/aspose.threed/fileformattype/rvm/
 is_root: false
 ---
 
@@ -12,6 +12,10 @@ is_root: false
 
 
 AVEVA Plant Design Management System Model.
+### Definition:
+```python
+f RVM 
+```
 
 ### See Also
 * module [`aspose.threed`](../../)

@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.threed.utilities/fmatrix4/__init__/
+url: /python-net/aspose.threed.utilities/fmatrix4/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## __init__(self) {#}
 
 Constructs a new instance of FMatrix4
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.threed.utilities.Matrix4}
+## __init__(self, mat) {#aspose.threed.utilities.Matrix4}
 
 Initialize the instance of [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4) from a [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) instance.
 
 
 
 ```python
+
 def __init__(self, mat):
     ...
 ```
@@ -39,13 +41,14 @@ def __init__(self, mat):
 | mat | [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) | The [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) instance. |
 
 
-## __init__ {#aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4}
+## __init__(self, r0, r1, r2, r3) {#aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4}
 
 Constructs matrix from 4 rows.
 
 
 
 ```python
+
 def __init__(self, r0, r1, r2, r3):
     ...
 ```
@@ -59,13 +62,14 @@ def __init__(self, r0, r1, r2, r3):
 | r3 | [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4) | R3. |
 
 
-## __init__ {#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float}
+## __init__(self, m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33) {#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float}
 
 Initialize the instance of [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4)
 
 
 
 ```python
+
 def __init__(self, m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33):
     ...
 ```

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.render/itexturecodec/get_encoders/
+url: /python-net/aspose.threed.render/itexturecodec/get_encoders/
 is_root: false
 ---
 
-## get_encoders {#}
+## get_encoders(self) {#}
 
 Gets supported texture encoders.
 
@@ -20,6 +20,7 @@ An array of supported texture encoders
 
 
 ```python
+
 def get_encoders(self):
     ...
 ```

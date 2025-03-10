@@ -3,7 +3,7 @@ title: TextureCodec
 second_title: Aspose.3D for Java API Reference
 description: Class to manage encoders and decoders for textures.
 type: docs
-weight: 174
+weight: 181
 url: /java/com.aspose.threed/texturecodec/
 ---
 
@@ -23,8 +23,8 @@ Class to manage encoders and decoders for textures.
 
 | Method | Description |
 | --- | --- |
-| [decode(Stream stream, boolean reverseY)](#decode-com.aspose.csporter.helpers.Stream-boolean-) | Decode texture data from stream |
-| [encode(TextureData texture, Stream stream, String format)](#encode-com.aspose.threed.TextureData-com.aspose.csporter.helpers.Stream-java.lang.String-) | Encode texture data into stream using specified format |
+| [decode(Stream stream, boolean reverseY)](#decode-com.aspose.threed.Stream-boolean-) | Decode texture data from stream |
+| [encode(TextureData texture, Stream stream, String format)](#encode-com.aspose.threed.TextureData-com.aspose.threed.Stream-java.lang.String-) | Encode texture data into stream using specified format |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
 | [getSupportedEncoderFormats()](#getSupportedEncoderFormats--) | Gets all supported encoder formats |
@@ -42,7 +42,7 @@ public TextureCodec()
 ```
 
 
-### decode(Stream stream, boolean reverseY) {#decode-com.aspose.csporter.helpers.Stream-boolean-}
+### decode(Stream stream, boolean reverseY) {#decode-com.aspose.threed.Stream-boolean-}
 ```
 public static TextureData decode(Stream stream, boolean reverseY)
 ```
@@ -53,12 +53,12 @@ Decode texture data from stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream |  |
+| stream | [Stream](../../com.aspose.threed/stream) |  |
 | reverseY | boolean |  |
 
 **Returns:**
 [TextureData](../../com.aspose.threed/texturedata)
-### encode(TextureData texture, Stream stream, String format) {#encode-com.aspose.threed.TextureData-com.aspose.csporter.helpers.Stream-java.lang.String-}
+### encode(TextureData texture, Stream stream, String format) {#encode-com.aspose.threed.TextureData-com.aspose.threed.Stream-java.lang.String-}
 ```
 public static void encode(TextureData texture, Stream stream, String format)
 ```
@@ -70,7 +70,7 @@ Encode texture data into stream using specified format
 | Parameter | Type | Description |
 | --- | --- | --- |
 | texture | [TextureData](../../com.aspose.threed/texturedata) | The texture to be encoded |
-| stream | com.aspose.csporter.helpers.Stream | The output stream |
+| stream | [Stream](../../com.aspose.threed/stream) | The output stream |
 | format | java.lang.String | The image format of encoded data, like png/jpg |
 
 ### equals(Object arg0) {#equals-java.lang.Object-}

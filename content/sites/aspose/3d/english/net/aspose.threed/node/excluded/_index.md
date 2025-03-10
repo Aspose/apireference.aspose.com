@@ -14,7 +14,7 @@ Gets or sets whether to exclude this node and all child nodes/entities during ex
 public bool Excluded { get; set; }
 ```
 
-### Examples
+## Examples
 
 The following code shows how to exclude specified node from exporting
 
@@ -28,7 +28,7 @@ scene.Save("output.usdz");
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

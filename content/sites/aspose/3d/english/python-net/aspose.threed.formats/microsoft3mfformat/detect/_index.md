@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.formats/microsoft3mfformat/detect/
+url: /python-net/aspose.threed.formats/microsoft3mfformat/detect/
 is_root: false
 ---
 
-## detect {#str}
+## detect(, file_name) {#str}
 
 Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header.
 
@@ -20,7 +20,9 @@ The [`FileFormat`](/3d/python-net/aspose.threed/fileformat) instance of the dete
 
 
 ```python
-def detect(self, file_name):
+
+@staticmethod
+def detect(file_name):
     ...
 ```
 
@@ -47,7 +49,7 @@ print(f"Input file format: {fmt}")
 ```
 
 
-## detect {#io.RawIOBase-str}
+## detect(, stream, file_name) {#io.RawIOBase-str}
 
 Detect the file format from data stream, file name is optional for guessing types that has no magic header.
 
@@ -59,7 +61,9 @@ The [`FileFormat`](/3d/python-net/aspose.threed/fileformat) instance of the dete
 
 
 ```python
-def detect(self, stream, file_name):
+
+@staticmethod
+def detect(stream, file_name):
     ...
 ```
 

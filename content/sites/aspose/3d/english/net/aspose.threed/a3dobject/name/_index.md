@@ -21,7 +21,7 @@ The name.
 ### See Also
 
 * class [A3DObject](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../a3dobject/)
 * assembly [Aspose.3D](../../../)
 
 

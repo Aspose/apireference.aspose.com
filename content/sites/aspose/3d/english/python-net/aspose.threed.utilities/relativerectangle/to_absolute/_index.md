@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.utilities/relativerectangle/to_absolute/
+url: /python-net/aspose.threed.utilities/relativerectangle/to_absolute/
 is_root: false
 ---
 
-## to_absolute {#int-int-int-int}
+## to_absolute(self, left, top, width, height) {#int-int-int-int}
 
 Convert the relative rectangle to absolute rectangle
 
@@ -20,6 +20,7 @@ Convert the relative rectangle to absolute rectangle
 
 
 ```python
+
 def to_absolute(self, left, top, width, height):
     ...
 ```

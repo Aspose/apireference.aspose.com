@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.animation/keyframe/
+url: /python-net/aspose.threed.animation/keyframe/
 is_root: false
 ---
 
@@ -21,7 +21,7 @@ The KeyFrame type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.animation/keyframe/__init__/#aspose.threed.animation.KeyframeSequence-float) | Create a new key frame on specified curve |
+| [`__init__(self, curve, time)`](/3d/python-net/aspose.threed.animation/keyframe/__init__/#aspose.threed.animation.keyframesequence-float) | Create a new key frame on specified curve |
 
 
 ### Properties

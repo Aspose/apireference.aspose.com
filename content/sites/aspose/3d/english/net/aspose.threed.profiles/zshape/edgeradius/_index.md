@@ -17,7 +17,7 @@ public double EdgeRadius { get; set; }
 ### See Also
 
 * class [ZShape](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../zshape/)
 * assembly [Aspose.3D](../../../)
 
 

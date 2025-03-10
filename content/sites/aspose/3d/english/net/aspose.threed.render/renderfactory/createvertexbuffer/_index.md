@@ -23,7 +23,7 @@ public abstract IVertexBuffer CreateVertexBuffer(VertexDeclaration declaration)
 * interface [IVertexBuffer](../../ivertexbuffer/)
 * class [VertexDeclaration](../../../aspose.threed.utilities/vertexdeclaration/)
 * class [RenderFactory](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderfactory/)
 * assembly [Aspose.3D](../../../)
 
 

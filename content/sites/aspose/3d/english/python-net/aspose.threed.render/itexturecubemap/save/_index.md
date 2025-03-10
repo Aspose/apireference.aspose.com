@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.render/itexturecubemap/save/
+url: /python-net/aspose.threed.render/itexturecubemap/save/
 is_root: false
 ---
 
-## save {#aspose.threed.render.CubeFace-aspose.threed.render.TextureData}
+## save(self, side, bitmap) {#aspose.threed.render.CubeFace-aspose.threed.render.TextureData}
 
 Save the specified side to memory
 
 
 
 ```python
+
 def save(self, side, bitmap):
     ...
 ```

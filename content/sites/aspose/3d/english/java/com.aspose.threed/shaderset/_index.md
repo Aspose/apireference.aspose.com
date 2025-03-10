@@ -3,7 +3,7 @@ title: ShaderSet
 second_title: Aspose.3D for Java API Reference
 description: Shader programs for each kind of materials
 type: docs
-weight: 157
+weight: 162
 url: /java/com.aspose.threed/shaderset/
 ---
 

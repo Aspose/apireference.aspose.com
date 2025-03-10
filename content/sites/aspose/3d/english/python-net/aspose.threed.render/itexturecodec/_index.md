@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /aspose.threed.render/itexturecodec/
+url: /python-net/aspose.threed.render/itexturecodec/
 is_root: false
 ---
 
@@ -19,8 +19,8 @@ The ITextureCodec type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_decoders](/3d/python-net/aspose.threed.render/itexturecodec/get_decoders/#) | Gets supported texture decoders. |
-| [get_encoders](/3d/python-net/aspose.threed.render/itexturecodec/get_encoders/#) | Gets supported texture encoders. |
+| [`get_decoders(self)`](/3d/python-net/aspose.threed.render/itexturecodec/get_decoders/#) | Gets supported texture decoders. |
+| [`get_encoders(self)`](/3d/python-net/aspose.threed.render/itexturecodec/get_encoders/#) | Gets supported texture encoders. |
 
 
 

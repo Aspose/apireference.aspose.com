@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.threed.formats/html5saveoptions/
+url: /python-net/aspose.threed.formats/html5saveoptions/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The Html5SaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/html5saveoptions/__init__/#) | Constructor of [`Html5SaveOptions`](/3d/python-net/aspose.threed.formats/html5saveoptions) with all default settings. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/html5saveoptions/__init__/#) | Constructor of [`Html5SaveOptions`](/3d/python-net/aspose.threed.formats/html5saveoptions) with all default settings. |
 
 
 ### Properties

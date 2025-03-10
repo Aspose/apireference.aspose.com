@@ -17,7 +17,7 @@ public bool ExportTextures { get; set; }
 ### See Also
 
 * class [SaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../saveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

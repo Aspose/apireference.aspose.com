@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.profiles/hollowcircleshape/find_property/
+url: /python-net/aspose.threed.profiles/hollowcircleshape/find_property/
 is_root: false
 ---
 
-## find_property {#str}
+## find_property(self, property_name) {#str}
 
 Finds the property.
 It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) 
@@ -22,6 +22,7 @@ The property.
 
 
 ```python
+
 def find_property(self, property_name):
     ...
 ```

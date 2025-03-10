@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.utilities/vertex/read_f_vector2/
+url: /python-net/aspose.threed.utilities/vertex/read_f_vector2/
 is_root: false
 ---
 
-## read_f_vector2 {#aspose.threed.utilities.VertexField}
+## read_f_vector2(self, field) {#aspose.threed.utilities.VertexField}
 
 Read the vector2 field
 
@@ -20,6 +20,7 @@ Read the vector2 field
 
 
 ```python
+
 def read_f_vector2(self, field):
     ...
 ```

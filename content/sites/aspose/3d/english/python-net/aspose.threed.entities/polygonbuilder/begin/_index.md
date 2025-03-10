@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.entities/polygonbuilder/begin/
+url: /python-net/aspose.threed.entities/polygonbuilder/begin/
 is_root: false
 ---
 
-## begin {#}
+## begin(self) {#}
 
 Begins to add a new polygon
 
 
 
 ```python
+
 def begin(self):
     ...
 ```

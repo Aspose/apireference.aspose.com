@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.render/idescriptorset/begin_update/
+url: /python-net/aspose.threed.render/idescriptorset/begin_update/
 is_root: false
 ---
 
-## begin_update {#}
+## begin_update(self) {#}
 
 Begin to update the descriptor set
 
@@ -20,6 +20,7 @@ Begin to update the descriptor set
 
 
 ```python
+
 def begin_update(self):
     ...
 ```

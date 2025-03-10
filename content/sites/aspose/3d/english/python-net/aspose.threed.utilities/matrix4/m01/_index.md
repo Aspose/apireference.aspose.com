@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /aspose.threed.utilities/matrix4/m01/
+url: /python-net/aspose.threed.utilities/matrix4/m01/
 is_root: false
 ---
 
@@ -12,6 +12,10 @@ is_root: false
 
 
 The m01.
+### Definition:
+```python
+f m01 
+```
 
 ### See Also
 * module [`aspose.threed.utilities`](../../)

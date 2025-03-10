@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.threed/node/get_child/
+url: /python-net/aspose.threed/node/get_child/
 is_root: false
 ---
 
-## get_child {#int}
+## get_child(self, index) {#int}
 
 Gets the child node at specified index.
 
@@ -20,6 +20,7 @@ The child.
 
 
 ```python
+
 def get_child(self, index):
     ...
 ```
@@ -44,7 +45,7 @@ print(f"The first node of the file is {node.name}")
 ```
 
 
-## get_child {#str}
+## get_child(self, node_name) {#str}
 
 Gets the child node with the specified name
 
@@ -56,6 +57,7 @@ The child.
 
 
 ```python
+
 def get_child(self, node_name):
     ...
 ```

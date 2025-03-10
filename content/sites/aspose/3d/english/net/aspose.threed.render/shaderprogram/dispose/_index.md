@@ -17,7 +17,7 @@ public virtual void Dispose()
 ### See Also
 
 * class [ShaderProgram](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../shaderprogram/)
 * assembly [Aspose.3D](../../../)
 
 

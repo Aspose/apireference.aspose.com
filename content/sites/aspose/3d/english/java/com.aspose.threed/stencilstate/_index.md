@@ -3,7 +3,7 @@ title: StencilState
 second_title: Aspose.3D for Java API Reference
 description: Stencil states per face.
 type: docs
-weight: 166
+weight: 171
 url: /java/com.aspose.threed/stencilstate/
 ---
 

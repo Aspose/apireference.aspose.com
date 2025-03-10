@@ -18,7 +18,7 @@ public List<Segment> Segments { get; }
 
 * class [Segment](../../compositecurve.segment/)
 * class [CompositeCurve](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../compositecurve/)
 * assembly [Aspose.3D](../../../)
 
 

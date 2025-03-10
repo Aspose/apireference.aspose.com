@@ -22,7 +22,7 @@ An array of supported texture decoders
 
 * interface [ITextureDecoder](../../itexturedecoder/)
 * interface [ITextureCodec](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexturecodec/)
 * assembly [Aspose.3D](../../../)
 
 

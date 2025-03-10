@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /aspose.threed.entities/iorientable/
+url: /python-net/aspose.threed.entities/iorientable/
 is_root: false
 ---
 

@@ -20,7 +20,7 @@ public Transform SetTranslation(double tx, double ty, double tz)
 | ty | Double |  |
 | tz | Double |  |
 
-### Examples
+## Examples
 
 ```csharp
 Node node = new Node();
@@ -30,7 +30,7 @@ node.Transform.SetTranslation(10, 0, 0);
 ### See Also
 
 * class [Transform](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../transform/)
 * assembly [Aspose.3D](../../../)
 
 

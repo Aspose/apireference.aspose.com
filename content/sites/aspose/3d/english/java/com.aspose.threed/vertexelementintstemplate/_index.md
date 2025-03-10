@@ -3,7 +3,7 @@ title: VertexElementIntsTemplate
 second_title: Aspose.3D for Java API Reference
 description: A helper class for defining concrete  implementations.
 type: docs
-weight: 199
+weight: 207
 url: /java/com.aspose.threed/vertexelementintstemplate/
 ---
 

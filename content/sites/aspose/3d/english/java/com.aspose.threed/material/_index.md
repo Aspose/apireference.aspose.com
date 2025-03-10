@@ -3,7 +3,7 @@ title: Material
 second_title: Aspose.3D for Java API Reference
 description: Material defines the parameters necessary for visual appearance of geometry.
 type: docs
-weight: 92
+weight: 94
 url: /java/com.aspose.threed/material/
 ---
 

@@ -3,7 +3,7 @@ title: Matrix4
 second_title: Aspose.3D for Java API Reference
 description: 4x4 matrix implementation.
 type: docs
-weight: 94
+weight: 96
 url: /java/com.aspose.threed/matrix4/
 ---
 
@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/matrix4/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.csporter.helpers.Struct, java.io.Serializable
+com.aspose.threed.Struct, java.io.Serializable
 ```
 public final class Matrix4 implements Struct<Matrix4>, Serializable
 ```
@@ -311,7 +311,7 @@ public Matrix4 clone()
 ```
 
 
-
+Clone current instance
 
 **Returns:**
 [Matrix4](../../com.aspose.threed/matrix4)

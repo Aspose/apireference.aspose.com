@@ -3,7 +3,7 @@ title: VertexElementUserData
 second_title: Aspose.3D for Java API Reference
 description: Defines custom user data for specified components.
 type: docs
-weight: 208
+weight: 216
 url: /java/com.aspose.threed/vertexelementuserdata/
 ---
 

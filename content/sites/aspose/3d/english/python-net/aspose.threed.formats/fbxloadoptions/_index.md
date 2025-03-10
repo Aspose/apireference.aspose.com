@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.threed.formats/fbxloadoptions/
+url: /python-net/aspose.threed.formats/fbxloadoptions/
 is_root: false
 ---
 
@@ -25,8 +25,8 @@ The FbxLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/fbxloadoptions/__init__/#aspose.threed.FileFormat) | Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions) |
-| [__init__](/3d/python-net/aspose.threed.formats/fbxloadoptions/__init__/#) | Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions) |
+| [`__init__(self, format)`](/3d/python-net/aspose.threed.formats/fbxloadoptions/__init__/#aspose.threed.fileformat) | Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/fbxloadoptions/__init__/#) | Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions) |
 
 
 ### Properties

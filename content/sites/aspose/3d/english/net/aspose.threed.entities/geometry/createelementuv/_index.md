@@ -27,7 +27,7 @@ Created element uv
 * class [VertexElementUV](../../vertexelementuv/)
 * enum [TextureMapping](../../texturemapping/)
 * class [Geometry](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../geometry/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -58,7 +58,7 @@ Created element uv
 * enum [MappingMode](../../mappingmode/)
 * enum [ReferenceMode](../../referencemode/)
 * class [Geometry](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../geometry/)
 * assembly [Aspose.3D](../../../)
 
 

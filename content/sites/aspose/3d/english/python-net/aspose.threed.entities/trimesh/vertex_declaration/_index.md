@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 380
-url: /aspose.threed.entities/trimesh/vertex_declaration/
+url: /python-net/aspose.threed.entities/trimesh/vertex_declaration/
 is_root: false
 ---
 

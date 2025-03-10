@@ -25,7 +25,7 @@ An end point constructed from radian
 ### See Also
 
 * struct [EndPoint](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../endpoint/)
 * assembly [Aspose.3D](../../../)
 
 

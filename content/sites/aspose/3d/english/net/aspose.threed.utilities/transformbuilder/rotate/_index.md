@@ -18,7 +18,7 @@ public TransformBuilder Rotate(Quaternion q)
 | --- | --- | --- |
 | q | Quaternion |  |
 
-### Examples
+## Examples
 
 ```csharp
 TransformBuilder tb = new TransformBuilder();
@@ -30,7 +30,7 @@ Console.WriteLine($"Transform Matrix: {tb.Matrix}");
 
 * struct [Quaternion](../../quaternion/)
 * class [TransformBuilder](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.threed.entities/trimesh/from_raw_data/
+url: /python-net/aspose.threed.entities/trimesh/from_raw_data/
 is_root: false
 ---
 
-## from_raw_data {#aspose.threed.utilities.VertexDeclaration-bytes-list-bool}
+## from_raw_data(, vd, vertices, indices, generate_vertex_mapping) {#aspose.threed.utilities.VertexDeclaration-bytes-list-bool}
 
 Create TriMesh from raw data
 
@@ -20,7 +20,9 @@ The [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) instance that enc
 
 
 ```python
-def from_raw_data(self, vd, vertices, indices, generate_vertex_mapping):
+
+@staticmethod
+def from_raw_data(vd, vertices, indices, generate_vertex_mapping):
     ...
 ```
 
@@ -34,6 +36,24 @@ def from_raw_data(self, vd, vertices, indices, generate_vertex_mapping):
 ### Remarks
 
 The returned TriMesh will not copy the input byte array for performance, external changes on the array will be reflected to this instance.
+### Example 
+
+
+The following code shows how to construct a TriMesh from raw bytes, this is useful when build your own 3D format
+
+```python
+from aspose.threed.entities import TriMesh
+from aspose.threed.utilities import VertexDeclaration, VertexFieldDataType, VertexFieldSemantic
+
+indices = [0, 1, 2 ]
+vertices = [                0, 0, 0, 191,                 0, 0, 0, 0,                 0, 0, 0, 191,                 0, 0, 0, 191,                 0, 0, 0, 0,                 0, 0, 0, 63,                 0, 0, 0, 63,                 0, 0, 0, 0,                 0, 0, 0, 63
+]
+vd = VertexDeclaration()
+vd.add_field(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.POSITION)
+triMesh = TriMesh.from_raw_data(vd, vertices, indices, True)
+
+```
+
 
 
 ### See Also

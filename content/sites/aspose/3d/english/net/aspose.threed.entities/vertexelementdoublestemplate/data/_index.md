@@ -18,7 +18,7 @@ public IArrayList<double> Data { get; }
 
 * interface [IArrayList&lt;T&gt;](../../../aspose.threed.utilities/iarraylist-1/)
 * class [VertexElementDoublesTemplate](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementdoublestemplate/)
 * assembly [Aspose.3D](../../../)
 
 

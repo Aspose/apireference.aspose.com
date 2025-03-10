@@ -17,7 +17,7 @@ public bool LoadPMI { get; set; }
 ### See Also
 
 * class [JtLoadOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../jtloadoptions/)
 * assembly [Aspose.3D](../../../)
 
 

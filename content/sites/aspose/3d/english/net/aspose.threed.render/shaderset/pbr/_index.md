@@ -18,7 +18,7 @@ public ShaderProgram Pbr { get; set; }
 
 * class [ShaderProgram](../../shaderprogram/)
 * class [ShaderSet](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../shaderset/)
 * assembly [Aspose.3D](../../../)
 
 

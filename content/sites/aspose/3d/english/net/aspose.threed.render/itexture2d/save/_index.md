@@ -28,7 +28,7 @@ public void Save(string path, string format)
 ### See Also
 
 * interface [ITexture2D](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexture2d/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -49,7 +49,7 @@ public void Save(TextureData bitmap)
 
 * class [TextureData](../../texturedata/)
 * interface [ITexture2D](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexture2d/)
 * assembly [Aspose.3D](../../../)
 
 

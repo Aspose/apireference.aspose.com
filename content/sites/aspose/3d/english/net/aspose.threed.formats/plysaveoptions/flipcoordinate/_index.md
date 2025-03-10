@@ -17,7 +17,7 @@ public bool FlipCoordinate { get; set; }
 ### See Also
 
 * class [PlySaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../plysaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

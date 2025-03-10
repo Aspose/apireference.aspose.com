@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.utilities/transformbuilder/compose/
+url: /python-net/aspose.threed.utilities/transformbuilder/compose/
 is_root: false
 ---
 
-## compose {#aspose.threed.utilities.Matrix4}
+## compose(self, m) {#aspose.threed.utilities.Matrix4}
 
 Append or prepend the argument to internal matrix.
 
 
 
 ```python
+
 def compose(self, m):
     ...
 ```

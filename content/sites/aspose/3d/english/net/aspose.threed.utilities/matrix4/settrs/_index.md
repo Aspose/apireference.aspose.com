@@ -24,7 +24,7 @@ public void SetTRS(Vector3 translation, Vector3 rotation, Vector3 scale)
 
 * struct [Vector3](../../vector3/)
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 

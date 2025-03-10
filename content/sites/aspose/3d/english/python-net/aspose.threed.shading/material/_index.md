@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.shading/material/
+url: /python-net/aspose.threed.shading/material/
 is_root: false
 ---
 
@@ -37,13 +37,13 @@ The Material type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property](/3d/python-net/aspose.threed.shading/material/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
-| [remove_property](/3d/python-net/aspose.threed.shading/material/remove_property/#str) | Remove the specified property identified by name |
-| [get_property](/3d/python-net/aspose.threed.shading/material/get_property/#str) | Get the value of specified property |
-| [set_property](/3d/python-net/aspose.threed.shading/material/set_property/#str-any) | Sets the value of specified property |
-| [find_property](/3d/python-net/aspose.threed.shading/material/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_texture](/3d/python-net/aspose.threed.shading/material/get_texture/#str) | Gets the texture from the specified slot, it can be material's property name or shader's parameter name |
-| [set_texture](/3d/python-net/aspose.threed.shading/material/set_texture/#str-aspose.threed.shading.TextureBase) | Sets the texture to specified slot |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.shading/material/remove_property/#aspose.threed.property) | Removes a dynamic property. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.shading/material/remove_property/#str) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.shading/material/get_property/#str) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.shading/material/set_property/#str-any) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.shading/material/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_texture(self, slot_name)`](/3d/python-net/aspose.threed.shading/material/get_texture/#str) | Gets the texture from the specified slot, it can be material's property name or shader's parameter name |
+| [`set_texture(self, slot_name, texture)`](/3d/python-net/aspose.threed.shading/material/set_texture/#str-aspose.threed.shading.texturebase) | Sets the texture to specified slot |
 
 
 

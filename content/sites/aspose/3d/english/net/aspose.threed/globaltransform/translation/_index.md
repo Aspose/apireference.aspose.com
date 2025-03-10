@@ -14,7 +14,7 @@ Gets the translation
 public Vector3 Translation { get; }
 ```
 
-### Examples
+## Examples
 
 ```csharp
 Scene scene = Scene.FromFile("test.fbx");
@@ -26,7 +26,7 @@ Console.WriteLine($"Translation = {tr.Translation}");
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [GlobalTransform](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../globaltransform/)
 * assembly [Aspose.3D](../../../)
 
 

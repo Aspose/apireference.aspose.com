@@ -18,7 +18,7 @@ public VertexFieldSemantic Semantic { get; }
 
 * enum [VertexFieldSemantic](../../vertexfieldsemantic/)
 * class [SemanticAttribute](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../semanticattribute/)
 * assembly [Aspose.3D](../../../)
 
 

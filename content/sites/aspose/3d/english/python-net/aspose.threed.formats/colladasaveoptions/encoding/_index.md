@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.formats/colladasaveoptions/encoding/
+url: /python-net/aspose.threed.formats/colladasaveoptions/encoding/
 is_root: false
 ---
 

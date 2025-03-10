@@ -18,7 +18,11 @@ public class MathUtils
 
 | Name | Description |
 | --- | --- |
+| static [CalcNormal](../../aspose.threed.utilities/mathutils/calcnormal/)(Vector3[]) |  |
 | static [Clamp](../../aspose.threed.utilities/mathutils/clamp/)(double, double, double) | Clamp value to range [min, max] |
+| static [FindIntersection](../../aspose.threed.utilities/mathutils/findintersection/)(Vector2, Vector2, Vector2, Vector2, Vector2[]) |  |
+| static [PointInsideTriangle](../../aspose.threed.utilities/mathutils/pointinsidetriangle/)(Vector2, Vector2, Vector2, Vector2) | Check if point p is inside triangle (p0, p1, p2) |
+| static [RayIntersect](../../aspose.threed.utilities/mathutils/rayintersect/)(Vector2, Vector2, Vector2, Vector2) | Check if ray (origin, dir) intersects with line segment(start, end) |
 | static [ToDegree](../../aspose.threed.utilities/mathutils/todegree/#todegree_2)(double) | Convert a number from radian to degree |
 | static [ToDegree](../../aspose.threed.utilities/mathutils/todegree/#todegree_3)(float) | Convert a number from radian to degree |
 | static [ToDegree](../../aspose.threed.utilities/mathutils/todegree/#todegree)(Vector3) | Convert a [`Vector3`](../vector3/) from radian to degree. |

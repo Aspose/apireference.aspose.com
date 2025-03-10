@@ -38,7 +38,7 @@ public FMatrix4(float m00, float m01, float m02, float m03, float m10, float m11
 ### See Also
 
 * struct [FMatrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fmatrix4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -59,7 +59,7 @@ public FMatrix4(Matrix4 mat)
 
 * struct [Matrix4](../../matrix4/)
 * struct [FMatrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fmatrix4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -83,7 +83,7 @@ public FMatrix4(FVector4 r0, FVector4 r1, FVector4 r2, FVector4 r3)
 
 * struct [FVector4](../../fvector4/)
 * struct [FMatrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fmatrix4/)
 * assembly [Aspose.3D](../../../)
 
 

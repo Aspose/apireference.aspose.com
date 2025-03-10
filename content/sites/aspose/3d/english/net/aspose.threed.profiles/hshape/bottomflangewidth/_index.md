@@ -17,7 +17,7 @@ public double BottomFlangeWidth { get; set; }
 ### See Also
 
 * class [HShape](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../hshape/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.utilities/fmatrix4/transpose/
+url: /python-net/aspose.threed.utilities/fmatrix4/transpose/
 is_root: false
 ---
 
-## transpose {#}
+## transpose(self) {#}
 
 Transposes this instance.
 
@@ -20,6 +20,7 @@ The transposed matrix.
 
 
 ```python
+
 def transpose(self):
     ...
 ```

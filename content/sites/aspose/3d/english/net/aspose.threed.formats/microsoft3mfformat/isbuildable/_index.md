@@ -26,7 +26,7 @@ True if it's marked as a build
 
 * class [Node](../../../aspose.threed/node/)
 * class [Microsoft3MFFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../microsoft3mfformat/)
 * assembly [Aspose.3D](../../../)
 
 

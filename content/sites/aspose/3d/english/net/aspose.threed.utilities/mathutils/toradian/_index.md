@@ -3,7 +3,7 @@ title: MathUtils.ToRadian
 second_title: Aspose.3D for .NET API Reference
 description: MathUtils method. Convert a Vector3 from degree to radian
 type: docs
-weight: 30
+weight: 70
 url: /net/aspose.threed.utilities/mathutils/toradian/
 ---
 ## ToRadian(Vector3) {#toradian}
@@ -22,7 +22,7 @@ public static Vector3 ToRadian(Vector3 degree)
 
 The radian value.
 
-### Examples
+## Examples
 
 ```csharp
 Vector3 radians = MathUtils.ToRadian(new Vector3(90, 134, 0));
@@ -33,7 +33,7 @@ Console.WriteLine($"Radians = {radians}");
 
 * struct [Vector3](../../vector3/)
 * class [MathUtils](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../mathutils/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -54,7 +54,7 @@ public static float ToRadian(float degree)
 
 The radian value.
 
-### Examples
+## Examples
 
 ```csharp
 var rad = MathUtils.ToRadian(0.3);
@@ -64,7 +64,7 @@ Console.WriteLine($"Radian = {rad}");
 ### See Also
 
 * class [MathUtils](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../mathutils/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -85,7 +85,7 @@ public static double ToRadian(double degree)
 
 The radian value.
 
-### Examples
+## Examples
 
 ```csharp
 var rad = MathUtils.ToRadian(0.3);
@@ -95,7 +95,7 @@ Console.WriteLine($"Radian = {rad}");
 ### See Also
 
 * class [MathUtils](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../mathutils/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -122,7 +122,7 @@ The radian value.
 
 * struct [Vector3](../../vector3/)
 * class [MathUtils](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../mathutils/)
 * assembly [Aspose.3D](../../../)
 
 

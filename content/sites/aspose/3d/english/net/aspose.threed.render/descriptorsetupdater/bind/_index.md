@@ -28,7 +28,7 @@ Return current instance for chaining operation
 
 * interface [IBuffer](../../ibuffer/)
 * class [DescriptorSetUpdater](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../descriptorsetupdater/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -53,7 +53,7 @@ Return current instance for chaining operation
 
 * interface [IBuffer](../../ibuffer/)
 * class [DescriptorSetUpdater](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../descriptorsetupdater/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -79,7 +79,7 @@ Return current instance for chaining operation
 
 * interface [IBuffer](../../ibuffer/)
 * class [DescriptorSetUpdater](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../descriptorsetupdater/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -107,7 +107,7 @@ Return current instance for chaining operation
 
 * interface [IBuffer](../../ibuffer/)
 * class [DescriptorSetUpdater](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../descriptorsetupdater/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -132,7 +132,7 @@ Return current instance for chaining operation
 
 * interface [ITextureUnit](../../itextureunit/)
 * class [DescriptorSetUpdater](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../descriptorsetupdater/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -158,7 +158,7 @@ Return current instance for chaining operation
 
 * interface [ITextureUnit](../../itextureunit/)
 * class [DescriptorSetUpdater](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../descriptorsetupdater/)
 * assembly [Aspose.3D](../../../)
 
 

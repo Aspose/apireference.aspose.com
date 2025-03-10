@@ -17,7 +17,7 @@ public double GlossinessFactor { get; set; }
 ### See Also
 
 * class [PbrSpecularMaterial](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../pbrspecularmaterial/)
 * assembly [Aspose.3D](../../../)
 
 

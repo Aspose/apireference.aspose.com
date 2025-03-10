@@ -17,7 +17,7 @@ public double FilletRadius { get; set; }
 ### See Also
 
 * class [TShape](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../tshape/)
 * assembly [Aspose.3D](../../../)
 
 

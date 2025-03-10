@@ -22,7 +22,7 @@ The type of the pose.
 
 * enum [PoseType](../../posetype/)
 * class [Pose](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../pose/)
 * assembly [Aspose.3D](../../../)
 
 

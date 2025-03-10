@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed/axissystem/
+url: /python-net/aspose.threed/axissystem/
 is_root: false
 ---
 
@@ -19,10 +19,10 @@ The AxisSystem type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed/axissystem/__init__/#aspose.threed.CoordinateSystem-aspose.threed.Axis-aspose.threed.Axis) | Constructs a new axis system |
-| [__init__](/3d/python-net/aspose.threed/axissystem/__init__/#aspose.threed.CoordinateSystem-aspose.threed.Axis) | Constructs a new axis system |
-| [__init__](/3d/python-net/aspose.threed/axissystem/__init__/#aspose.threed.Axis-Nullable<Axis>) | Constructs a new instance of AxisSystem |
-| [__init__](/3d/python-net/aspose.threed/axissystem/__init__/#Nullable<CoordinateSystem>-Nullable<Axis>-Nullable<Axis>) | Constructs a new instance of AxisSystem |
+| [`__init__(self, coordinate_system, up, front)`](/3d/python-net/aspose.threed/axissystem/__init__/#aspose.threed.coordinatesystem-aspose.threed.axis-aspose.threed.axis) | Constructs a new axis system |
+| [`__init__(self, coordinate_system, up)`](/3d/python-net/aspose.threed/axissystem/__init__/#aspose.threed.coordinatesystem-aspose.threed.axis) | Constructs a new axis system |
+| [`__init__(self, up, front)`](/3d/python-net/aspose.threed/axissystem/__init__/#aspose.threed.axis-nullable<axis>) | Constructs a new instance of AxisSystem |
+| [`__init__(self, coordinate_system, up, front)`](/3d/python-net/aspose.threed/axissystem/__init__/#nullable<coordinatesystem>-nullable<axis>-nullable<axis>) | Constructs a new instance of AxisSystem |
 
 
 ### Properties
@@ -36,8 +36,8 @@ The AxisSystem type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [transform_to](/3d/python-net/aspose.threed/axissystem/transform_to/#aspose.threed.AxisSystem) | Create a matrix used to convert from current axis system to target axis system. |
-| [from_asset_info](/3d/python-net/aspose.threed/axissystem/from_asset_info/#aspose.threed.AssetInfo) | Create [`AxisSystem`](/3d/python-net/aspose.threed/axissystem) from [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) |
+| [`transform_to(self, target_system)`](/3d/python-net/aspose.threed/axissystem/transform_to/#aspose.threed.axissystem) | Create a matrix used to convert from current axis system to target axis system. |
+| [`from_asset_info(, asset_info)`](/3d/python-net/aspose.threed/axissystem/from_asset_info/#aspose.threed.assetinfo) | Create [`AxisSystem`](/3d/python-net/aspose.threed/axissystem) from [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) |
 
 
 

@@ -17,7 +17,7 @@ public double Height { get; set; }
 ### See Also
 
 * class [Dish](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../dish/)
 * assembly [Aspose.3D](../../../)
 
 

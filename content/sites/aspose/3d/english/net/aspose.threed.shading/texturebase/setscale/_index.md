@@ -22,7 +22,7 @@ public void SetScale(double u, double v)
 ### See Also
 
 * class [TextureBase](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../texturebase/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 430
-url: /aspose.threed.entities/vertexelementedgecrease/
+url: /python-net/aspose.threed.entities/vertexelementedgecrease/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The VertexElementEdgeCrease type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/__init__/#) | Initializes a new instance of the [`VertexElementEdgeCrease`](/3d/python-net/aspose.threed.entities/vertexelementedgecrease) class. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/__init__/#) | Initializes a new instance of the [`VertexElementEdgeCrease`](/3d/python-net/aspose.threed.entities/vertexelementedgecrease) class. |
 
 
 ### Properties
@@ -40,10 +40,10 @@ The VertexElementEdgeCrease type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/set_indices/#list) | Load indices |
-| [clear](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/clear/#) | Removes all elements from the direct and the index arrays. |
-| [copy_to](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/copy_to/#aspose.threed.entities.VertexElementDoublesTemplate) | Copies data to specified element |
-| [set_data](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/set_data/#list) | Load data |
+| [`set_indices(self, data)`](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/set_indices/#list) | Load indices |
+| [`clear(self)`](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/clear/#) | Removes all elements from the direct and the index arrays. |
+| [`copy_to(self, target)`](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/copy_to/#aspose.threed.entities.vertexelementdoublestemplate) | Copies data to specified element |
+| [`set_data(self, data)`](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/set_data/#list) | Load data |
 
 
 

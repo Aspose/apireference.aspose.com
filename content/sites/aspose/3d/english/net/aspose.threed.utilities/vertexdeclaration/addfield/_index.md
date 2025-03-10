@@ -28,7 +28,7 @@ public VertexField AddField(VertexFieldDataType dataType, VertexFieldSemantic se
 * enum [VertexFieldDataType](../../vertexfielddatatype/)
 * enum [VertexFieldSemantic](../../vertexfieldsemantic/)
 * class [VertexDeclaration](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vertexdeclaration/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.entities/vertexelementsmoothinggroup/copy_to/
+url: /python-net/aspose.threed.entities/vertexelementsmoothinggroup/copy_to/
 is_root: false
 ---
 
-## copy_to {#aspose.threed.entities.VertexElementIntsTemplate}
+## copy_to(self, target) {#aspose.threed.entities.VertexElementIntsTemplate}
 
 Copies data to specified element
 
 
 
 ```python
+
 def copy_to(self, target):
     ...
 ```

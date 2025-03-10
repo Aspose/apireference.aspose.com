@@ -13,7 +13,7 @@ All utility classes are defined in this namespace.
 | Class | Description |
 | --- | --- |
 | [FileSystem](./filesystem/) | File system encapsulation. Aspose.3D will use this to read/write dependencies. |
-| [IOUtils](./ioutils/) | Utilities to write matrix/vector to binary writer |
+| [IOExtension](./ioextension/) | Utilities to write matrix/vector to binary writer |
 | [MathUtils](./mathutils/) | A set of useful mathematical utilities. |
 | [ParseException](./parseexception/) | Exception when Aspose.3D failed to parse the input. |
 | [SemanticAttribute](./semanticattribute/) | Allow user to use their own structure for static declaration of [`VertexDeclaration`](../aspose.threed.utilities/vertexdeclaration/) |

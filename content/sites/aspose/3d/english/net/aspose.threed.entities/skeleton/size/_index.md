@@ -17,7 +17,7 @@ public double Size { get; set; }
 ### See Also
 
 * class [Skeleton](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../skeleton/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 280
-url: /aspose.threed.render/renderparameters/
+url: /python-net/aspose.threed.render/renderparameters/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ The RenderParameters type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.render/renderparameters/__init__/#bool-int-int-int) | Initialize an instance of [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat) |
+| [`__init__(self, double_buffering, color_bits, depth_bits, stencil_bits)`](/3d/python-net/aspose.threed.render/renderparameters/__init__/#bool-int-int-int) | Initialize an instance of [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat) |
 
 
 ### Properties

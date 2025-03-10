@@ -3,7 +3,7 @@ title: VertexElementVector4
 second_title: Aspose.3D for Java API Reference
 description: A helper class for defining concrete  implementations.
 type: docs
-weight: 209
+weight: 217
 url: /java/com.aspose.threed/vertexelementvector4/
 ---
 

@@ -23,7 +23,7 @@ public KeyFrame(KeyframeSequence curve, double time)
 
 * class [KeyframeSequence](../../keyframesequence/)
 * class [KeyFrame](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../keyframe/)
 * assembly [Aspose.3D](../../../)
 
 

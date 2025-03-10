@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.threed.utilities/quaternion/to_angle_axis/
+url: /python-net/aspose.threed.utilities/quaternion/to_angle_axis/
 is_root: false
 ---
 
-## to_angle_axis {#any-any}
+## to_angle_axis(self, angle, axis) {#any-any}
 
 
 
 
 
 ```python
+
 def to_angle_axis(self, angle, axis):
     ...
 ```

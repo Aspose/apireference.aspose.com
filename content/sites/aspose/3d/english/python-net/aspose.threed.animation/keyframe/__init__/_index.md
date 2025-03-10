@@ -4,17 +4,18 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.threed.animation/keyframe/__init__/
+url: /python-net/aspose.threed.animation/keyframe/__init__/
 is_root: false
 ---
 
-## __init__ {#aspose.threed.animation.KeyframeSequence-float}
+## __init__(self, curve, time) {#aspose.threed.animation.KeyframeSequence-float}
 
 Create a new key frame on specified curve
 
 
 
 ```python
+
 def __init__(self, curve, time):
     ...
 ```

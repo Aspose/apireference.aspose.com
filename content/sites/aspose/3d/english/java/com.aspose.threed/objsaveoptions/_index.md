@@ -3,7 +3,7 @@ title: ObjSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for wavefront obj file
 type: docs
-weight: 107
+weight: 112
 url: /java/com.aspose.threed/objsaveoptions/
 ---
 

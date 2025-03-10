@@ -22,7 +22,7 @@ public void SetWeight(int index, double weight)
 ### See Also
 
 * class [Bone](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../bone/)
 * assembly [Aspose.3D](../../../)
 
 

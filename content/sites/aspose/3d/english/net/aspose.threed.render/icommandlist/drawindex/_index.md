@@ -17,7 +17,7 @@ public void DrawIndex()
 ### See Also
 
 * interface [ICommandList](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../icommandlist/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -38,7 +38,7 @@ public void DrawIndex(int start, int count)
 ### See Also
 
 * interface [ICommandList](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../icommandlist/)
 * assembly [Aspose.3D](../../../)
 
 

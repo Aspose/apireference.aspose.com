@@ -23,7 +23,7 @@ public void AddSegment(Curve curve, bool sameDirection = true)
 
 * class [Curve](../../curve/)
 * class [CompositeCurve](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../compositecurve/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.shading/pbrmaterial/from_material/
+url: /python-net/aspose.threed.shading/pbrmaterial/from_material/
 is_root: false
 ---
 
-## from_material {#aspose.threed.shading.Material}
+## from_material(, material) {#aspose.threed.shading.Material}
 
 Allow convert other material to PbrMaterial
 
@@ -20,7 +20,9 @@ Allow convert other material to PbrMaterial
 
 
 ```python
-def from_material(self, material):
+
+@staticmethod
+def from_material(material):
     ...
 ```
 

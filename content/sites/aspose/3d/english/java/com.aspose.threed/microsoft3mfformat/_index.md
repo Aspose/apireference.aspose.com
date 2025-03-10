@@ -3,7 +3,7 @@ title: Microsoft3MFFormat
 second_title: Aspose.3D for Java API Reference
 description: File format instance for Microsoft 3MF with 3MF related utilities.
 type: docs
-weight: 97
+weight: 100
 url: /java/com.aspose.threed/microsoft3mfformat/
 ---
 
@@ -75,7 +75,7 @@ File format instance for Microsoft 3MF with 3MF related utilities.
 | --- | --- |
 | [createLoadOptions()](#createLoadOptions--) | Create a default load options for this file format |
 | [createSaveOptions()](#createSaveOptions--) | Create a default save options for this file format |
-| [detect(Stream stream, String fileName)](#detect-com.aspose.csporter.helpers.Stream-java.lang.String-) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [detect(Stream stream, String fileName)](#detect-com.aspose.threed.Stream-java.lang.String-) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
 | [detect(String fileName)](#detect-java.lang.String-) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getCanExport()](#getCanExport--) | Gets whether Aspose.3D supports export scene to current file format. |
@@ -86,6 +86,7 @@ File format instance for Microsoft 3MF with 3MF related utilities.
 | [getExtensions()](#getExtensions--) | Gets the extension names of this type. |
 | [getFileFormatType()](#getFileFormatType--) | Gets file format type |
 | [getFormatByExtension(String extensionName)](#getFormatByExtension-java.lang.String-) | Gets the preferred file format from the file extension name The extension name should starts with a dot('.'). |
+| [getFormats()](#getFormats--) | Access to all supported formats |
 | [getObjectType(Node node)](#getObjectType-com.aspose.threed.Node-) | Gets the model type for specified node. |
 | [getTransformForBuild(Node node)](#getTransformForBuild-com.aspose.threed.Node-) | Get transform matrix for node used in build. |
 | [getVersion()](#getVersion--) | Gets file format version |
@@ -527,7 +528,7 @@ Create a default save options for this file format
 
 **Returns:**
 [SaveOptions](../../com.aspose.threed/saveoptions) - A default save option for current format
-### detect(Stream stream, String fileName) {#detect-com.aspose.csporter.helpers.Stream-java.lang.String-}
+### detect(Stream stream, String fileName) {#detect-com.aspose.threed.Stream-java.lang.String-}
 ```
 public static FileFormat detect(Stream stream, String fileName)
 ```
@@ -538,7 +539,7 @@ Detect the file format from data stream, file name is optional for guessing type
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Stream containing data to detect |
+| stream | [Stream](../../com.aspose.threed/stream) | Stream containing data to detect |
 | fileName | java.lang.String | Original file name of the data, used as hint. |
 
 **Returns:**
@@ -693,6 +694,16 @@ Scene scene = new Scene(new Box());
      var output = new ByteArrayOutputStream();
      scene.save(output);
 ```
+### getFormats() {#getFormats--}
+```
+public static List<FileFormat> getFormats()
+```
+
+
+Access to all supported formats
+
+**Returns:**
+java.util.List<com.aspose.threed.FileFormat> - Access to all supported formats
 ### getObjectType(Node node) {#getObjectType-com.aspose.threed.Node-}
 ```
 public String getObjectType(Node node)
@@ -732,7 +743,7 @@ public Version getVersion()
 Gets file format version
 
 **Returns:**
-com.aspose.csporter.helpers.Version - file format version
+[Version](../../com.aspose.threed/version) - file format version
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

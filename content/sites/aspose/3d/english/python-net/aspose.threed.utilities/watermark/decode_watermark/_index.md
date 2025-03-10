@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.utilities/watermark/decode_watermark/
+url: /python-net/aspose.threed.utilities/watermark/decode_watermark/
 is_root: false
 ---
 
-## decode_watermark {#aspose.threed.entities.Mesh}
+## decode_watermark(, input) {#aspose.threed.entities.Mesh}
 
 Decode the watermark from a mesh
 
@@ -20,7 +20,9 @@ Blind watermark or null if no watermark decoded.
 
 
 ```python
-def decode_watermark(self, input):
+
+@staticmethod
+def decode_watermark(input):
     ...
 ```
 
@@ -56,7 +58,7 @@ watermark = Watermark.decode_watermark(mesh)
 ```
 
 
-## decode_watermark {#aspose.threed.entities.Mesh-str}
+## decode_watermark(, input, password) {#aspose.threed.entities.Mesh-str}
 
 Decode the watermark from a mesh
 
@@ -68,7 +70,9 @@ Blind watermark or null if no watermark decoded.
 
 
 ```python
-def decode_watermark(self, input, password):
+
+@staticmethod
+def decode_watermark(input, password):
     ...
 ```
 

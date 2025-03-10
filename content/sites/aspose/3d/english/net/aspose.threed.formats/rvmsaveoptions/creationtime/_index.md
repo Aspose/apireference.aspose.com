@@ -17,7 +17,7 @@ public string CreationTime { get; set; }
 ### See Also
 
 * class [RvmSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../rvmsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

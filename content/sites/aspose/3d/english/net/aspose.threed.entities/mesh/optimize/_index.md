@@ -22,7 +22,7 @@ public Mesh Optimize(bool vertexElements)
 
 New mesh instance with compact memory usage
 
-### Examples
+## Examples
 
 The following code shows how to eliminate duplicated control points from an unoptimized mesh:
 
@@ -36,9 +36,8 @@ var optimized = mesh.Optimize(true);
 ### See Also
 
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
-* [Tutorial - Deduplicate mesh data](https://products.aspose.com/3d/tutorial/deduplicate-mesh-data/)
 
 ---
 
@@ -65,8 +64,7 @@ New mesh instance with compact memory usage
 ### See Also
 
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
-* [Tutorial - deduplicate mesh data](https://products.aspose.com/3d/tutorial/deduplicate-mesh-data)
 
 

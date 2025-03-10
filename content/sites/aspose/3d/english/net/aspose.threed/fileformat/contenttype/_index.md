@@ -14,7 +14,7 @@ Gets file format content type
 public FileContentType ContentType { get; }
 ```
 
-### Examples
+## Examples
 
 ```csharp
 var format = FileFormat.MayaBinary;
@@ -28,7 +28,7 @@ else
 
 * enum [FileContentType](../../filecontenttype/)
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 
