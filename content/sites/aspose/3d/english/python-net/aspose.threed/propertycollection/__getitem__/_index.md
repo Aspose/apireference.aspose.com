@@ -10,17 +10,10 @@ is_root: false
 
 ## PropertyCollection indexer
 
-
-Gets the property by index.
 ### Indexer
 | Name | Description |
 | :- | :- |
-| index | The 0-based index of the property |
-
-
-
-### Returns 
-
+| index |  |
 
 
 

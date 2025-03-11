@@ -10,17 +10,10 @@ is_root: false
 
 ## Vector3 indexer
 
-
-Gets or sets vector's component by index.
 ### Indexer
 | Name | Description |
 | :- | :- |
 | index |  |
-
-
-
-### Returns 
-
 
 
 

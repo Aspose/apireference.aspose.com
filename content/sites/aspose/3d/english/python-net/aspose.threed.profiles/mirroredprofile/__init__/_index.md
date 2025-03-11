@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/mirroredprofile/__init__/
 is_root: false
 ---
 
-## __init__(self, base_profile) {#aspose.threed.profiles.Profile}
+## \_\_init\_\_(self, base_profile) {#aspose.threed.profiles.Profile}
 
 Construct a new [`MirroredProfile`](/3d/python-net/aspose.threed.profiles/mirroredprofile) from an existing profile.
 

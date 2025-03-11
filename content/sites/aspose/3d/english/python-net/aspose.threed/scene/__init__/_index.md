@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/scene/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class.
 
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## __init__(self, entity) {#aspose.threed.Entity}
+## \_\_init\_\_(self, entity) {#aspose.threed.Entity}
 
 Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class with an entity attached to a new node.
 
@@ -54,7 +54,7 @@ scene = Scene(Box())
 ```
 
 
-## __init__(self, parent_scene, name) {#aspose.threed.Scene-str}
+## \_\_init\_\_(self, parent_scene, name) {#aspose.threed.Scene-str}
 
 Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class as a sub-scene.
 

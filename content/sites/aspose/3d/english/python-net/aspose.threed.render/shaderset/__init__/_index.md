@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/shaderset/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Construct the instance of [`ShaderSet`](/3d/python-net/aspose.threed.render/shaderset)
 

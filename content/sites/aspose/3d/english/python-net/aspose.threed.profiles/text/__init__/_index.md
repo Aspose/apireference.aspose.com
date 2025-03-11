@@ -8,9 +8,9 @@ url: /python-net/aspose.threed.profiles/text/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
-Initializes a new instance of the [`Entity`](/3d/python-net/aspose.threed/entity) class.
+Initialize an SceneObject.
 
 
 
@@ -26,5 +26,4 @@ def __init__(self):
 
 ### See Also
 * module [`aspose.threed.profiles`](../../)
-* class [`Entity`](/3d/python-net/aspose.threed/entity)
 * class [`Text`](/3d/python-net/aspose.threed.profiles/text)

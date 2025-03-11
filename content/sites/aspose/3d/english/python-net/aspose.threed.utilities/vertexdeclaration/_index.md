@@ -30,8 +30,6 @@ The VertexDeclaration type exposes the following members:
 | [size](/3d/python-net/aspose.threed.utilities/vertexdeclaration/size) | The size in byte of the vertex structure. |
 
 
-
-Gets the [`VertexField`](/3d/python-net/aspose.threed.utilities/vertexfield) by index
 ### Indexer
 | Name | Description |
 | :- | :- |
@@ -53,4 +51,3 @@ Gets the [`VertexField`](/3d/python-net/aspose.threed.utilities/vertexfield) by 
 * class [`Geometry`](/3d/python-net/aspose.threed.entities/geometry)
 * class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)
 * class [`VertexDeclaration`](/3d/python-net/aspose.threed.utilities/vertexdeclaration)
-* class [`VertexField`](/3d/python-net/aspose.threed.utilities/vertexfield)

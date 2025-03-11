@@ -10,7 +10,7 @@ is_root: false
 
 ## indices_to_array(self, result) {#any}
 
-Convert the indices to 16bit integer array
+
 
 
 
@@ -28,7 +28,7 @@ def indices_to_array(self, result):
 
 ## indices_to_array(self, result) {#any}
 
-Convert the indices to 32bit integer array
+
 
 
 

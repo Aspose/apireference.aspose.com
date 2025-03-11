@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/zshape/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Constructor of [`ZShape`](/3d/python-net/aspose.threed.profiles/zshape)
 

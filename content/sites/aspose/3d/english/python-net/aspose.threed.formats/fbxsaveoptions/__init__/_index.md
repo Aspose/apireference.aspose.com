@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/fbxsaveoptions/__init__/
 is_root: false
 ---
 
-## __init__(self, format) {#aspose.threed.FileFormat}
+## \_\_init\_\_(self, format) {#aspose.threed.FileFormat}
 
 Initializes a [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions)
 
@@ -26,7 +26,7 @@ def __init__(self, format):
 | format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) | Instance of [`FileFormat`](/3d/python-net/aspose.threed/fileformat), it should be a valid FBX format. |
 
 
-## __init__(self, content_type) {#aspose.threed.FileContentType}
+## \_\_init\_\_(self, content_type) {#aspose.threed.FileContentType}
 
 Initialize a [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions) using latest supported version.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/sphere/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) with default radius 1.
 
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## __init__(self, radius) {#float}
+## \_\_init\_\_(self, radius) {#float}
 
 Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class with specified radius.
 
@@ -41,7 +41,7 @@ def __init__(self, radius):
 | radius | float | Radius. |
 
 
-## __init__(self, radius, width_segments, height_segments) {#float-int-int}
+## \_\_init\_\_(self, radius, width_segments, height_segments) {#float-int-int}
 
 Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class with specified radius, width segments and height segments.
 
@@ -61,7 +61,7 @@ def __init__(self, radius, width_segments, height_segments):
 | height_segments | int | Height segments. |
 
 
-## __init__(self, name, radius, width_segments, height_segments, phi_start, phi_length, theta_start, theta_length) {#str-float-int-int-float-float-float-float}
+## \_\_init\_\_(self, name, radius, width_segments, height_segments, phi_start, phi_length, theta_start, theta_length) {#str-float-int-int-float-float-float-float}
 
 Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class.
 

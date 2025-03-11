@@ -26,7 +26,7 @@ The RevolvedAreaSolid type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self)`](/3d/python-net/aspose.threed.entities/revolvedareasolid/__init__/#) | Initializes a new instance of the [`Entity`](/3d/python-net/aspose.threed/entity) class. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.entities/revolvedareasolid/__init__/#) | Initialize an SceneObject. |
 
 
 ### Properties

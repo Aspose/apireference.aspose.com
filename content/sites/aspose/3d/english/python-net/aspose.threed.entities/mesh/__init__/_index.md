@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/mesh/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) class.
 
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## __init__(self, height_map) {#aspose.threed.render.TextureData}
+## \_\_init\_\_(self, height_map) {#aspose.threed.render.TextureData}
 
 Construct a mesh using specified height map, 
 if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)
@@ -43,7 +43,7 @@ def __init__(self, height_map):
 | height_map | aspose.threed.render.TextureData | Input height map |
 
 
-## __init__(self, name) {#str}
+## \_\_init\_\_(self, name) {#str}
 
 Initializes a new instance of the [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) class.
 
@@ -61,7 +61,7 @@ def __init__(self, name):
 | name | str | Name. |
 
 
-## __init__(self, height_map, transform) {#aspose.threed.render.TextureData-aspose.threed.utilities.Matrix4}
+## \_\_init\_\_(self, height_map, transform) {#aspose.threed.render.TextureData-aspose.threed.utilities.Matrix4}
 
 Construct a mesh using specified height map, 
 if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)
@@ -82,7 +82,7 @@ def __init__(self, height_map, transform):
 | transform | aspose.threed.utilities.Matrix4 | The transform that applied on the control points |
 
 
-## __init__(self, height_map, tri_mesh, transform) {#aspose.threed.render.TextureData-bool-aspose.threed.utilities.Matrix4}
+## \_\_init\_\_(self, height_map, tri_mesh, transform) {#aspose.threed.render.TextureData-bool-aspose.threed.utilities.Matrix4}
 
 Construct a mesh using specified height map, 
 if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)

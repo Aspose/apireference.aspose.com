@@ -22,12 +22,10 @@ The PropertyCollection type exposes the following members:
 | [count](/3d/python-net/aspose.threed/propertycollection/count) | Gets the count of declared properties. |
 
 
-
-Gets the property by index.
 ### Indexer
 | Name | Description |
 | :- | :- |
-| [index] | The 0-based index of the property |
+| [index] |  |
 
 
 ### Methods

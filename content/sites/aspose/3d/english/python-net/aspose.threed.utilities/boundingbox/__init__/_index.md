@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/boundingbox/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of BoundingBox
 
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## __init__(self, minimum, maximum) {#aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3}
+## \_\_init\_\_(self, minimum, maximum) {#aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3}
 
 Initialize a finite bounding box with given minimum and maximum corner
 
@@ -57,7 +57,7 @@ print("Bounding box = "  + str(boundingBox))
 ```
 
 
-## __init__(self, min_x, min_y, min_z, max_x, max_y, max_z) {#float-float-float-float-float-float}
+## \_\_init\_\_(self, min_x, min_y, min_z, max_x, max_y, max_z) {#float-float-float-float-float-float}
 
 Initialize a finite bounding box with given minimum and maximum corner
 

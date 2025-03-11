@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/stlloadoptions/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Initializes of a new [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions) instance.
 
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## __init__(self, content_type) {#aspose.threed.FileContentType}
+## \_\_init\_\_(self, content_type) {#aspose.threed.FileContentType}
 
 Initializes of a new [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions) instance.
 

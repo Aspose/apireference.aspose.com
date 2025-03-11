@@ -10,8 +10,6 @@ is_root: false
 
 ## VertexDeclaration indexer
 
-
-Gets the [`VertexField`](/3d/python-net/aspose.threed.utilities/vertexfield) by index
 ### Indexer
 | Name | Description |
 | :- | :- |
@@ -19,12 +17,6 @@ Gets the [`VertexField`](/3d/python-net/aspose.threed.utilities/vertexfield) by 
 
 
 
-### Returns 
-
-
-
-
 ### See Also
 * module [`aspose.threed.utilities`](../../)
 * class [`VertexDeclaration`](/3d/python-net/aspose.threed.utilities/vertexdeclaration)
-* class [`VertexField`](/3d/python-net/aspose.threed.utilities/vertexfield)

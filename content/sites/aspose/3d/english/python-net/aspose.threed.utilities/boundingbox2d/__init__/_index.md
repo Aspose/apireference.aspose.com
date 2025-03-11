@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/boundingbox2d/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of BoundingBox2D
 
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## __init__(self, minimum, maximum) {#aspose.threed.utilities.Vector2-aspose.threed.utilities.Vector2}
+## \_\_init\_\_(self, minimum, maximum) {#aspose.threed.utilities.Vector2-aspose.threed.utilities.Vector2}
 
 Initialize a finite bounding box with given minimum and maximum corner
 

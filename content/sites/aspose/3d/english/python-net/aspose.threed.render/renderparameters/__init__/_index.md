@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderparameters/__init__/
 is_root: false
 ---
 
-## __init__(self, double_buffering, color_bits, depth_bits, stencil_bits) {#bool-int-int-int}
+## \_\_init\_\_(self, double_buffering, color_bits, depth_bits, stencil_bits) {#bool-int-int-int}
 
 Initialize an instance of [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat)
 

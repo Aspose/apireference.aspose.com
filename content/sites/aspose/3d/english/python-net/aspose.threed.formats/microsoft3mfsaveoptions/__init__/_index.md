@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/microsoft3mfsaveoptions/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Construct a [`Microsoft3MFSaveOptions`](/3d/python-net/aspose.threed.formats/microsoft3mfsaveoptions)
 

@@ -42,12 +42,10 @@ The Bone type exposes the following members:
 | [node](/3d/python-net/aspose.threed.deformers/bone/node) | Gets or sets the node. The bone node is the bone which skin attached to, the [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer) will use bone node to influence the displacement of the control points.<br/>Bone node usually has a [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton) attached, but it's not required.<br/>Attached [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton) is usually used by DCC software to show skeleton to user. |
 
 
-
-Gets or sets the blend weight of specified control point
 ### Indexer
 | Name | Description |
 | :- | :- |
-| [index] | Index of the weight |
+| [index] |  |
 
 
 ### Methods

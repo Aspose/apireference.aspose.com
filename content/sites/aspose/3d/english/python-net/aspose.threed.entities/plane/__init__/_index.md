@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/plane/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane) with default size 1x1.
 
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## __init__(self, length, width) {#float-float}
+## \_\_init\_\_(self, length, width) {#float-float}
 
 Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane).
 
@@ -42,7 +42,7 @@ def __init__(self, length, width):
 | width | float | Width of the plane. |
 
 
-## __init__(self, name, length, width, length_segments, width_segments) {#str-float-float-int-int}
+## \_\_init\_\_(self, name, length, width, length_segments, width_segments) {#str-float-float-int-int}
 
 Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane).
 

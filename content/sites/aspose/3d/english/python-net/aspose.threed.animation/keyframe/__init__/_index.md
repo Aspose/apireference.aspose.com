@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/keyframe/__init__/
 is_root: false
 ---
 
-## __init__(self, curve, time) {#aspose.threed.animation.KeyframeSequence-float}
+## \_\_init\_\_(self, curve, time) {#aspose.threed.animation.KeyframeSequence-float}
 
 Create a new key frame on specified curve
 

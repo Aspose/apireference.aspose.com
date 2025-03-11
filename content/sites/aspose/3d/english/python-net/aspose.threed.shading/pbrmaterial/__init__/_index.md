@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.shading/pbrmaterial/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Construct a default PBR material instance
 
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## __init__(self, albedo) {#aspose.threed.utilities.Vector3}
+## \_\_init\_\_(self, albedo) {#aspose.threed.utilities.Vector3}
 
 Construct a default PBR material with specified albedo color value.
 

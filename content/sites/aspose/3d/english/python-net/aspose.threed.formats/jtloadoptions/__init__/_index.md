@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/jtloadoptions/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 
 

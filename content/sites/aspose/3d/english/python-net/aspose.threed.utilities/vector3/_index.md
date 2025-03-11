@@ -41,8 +41,6 @@ The Vector3 type exposes the following members:
 | [z](/3d/python-net/aspose.threed.utilities/vector3/z) | The z component. |
 
 
-
-Gets or sets vector's component by index.
 ### Indexer
 | Name | Description |
 | :- | :- |

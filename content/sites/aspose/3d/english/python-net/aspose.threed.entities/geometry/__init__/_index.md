@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/geometry/__init__/
 is_root: false
 ---
 
-## __init__(self, name) {#str}
+## \_\_init\_\_(self, name) {#str}
 
 Initializes a new instance of the [`Geometry`](/3d/python-net/aspose.threed.entities/geometry) class.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/pyramid/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Construct a new pyramid instance with default bottom area(10, 10) and default height(5)
 
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## __init__(self, xbottom, ybottom, height) {#float-float-float}
+## \_\_init\_\_(self, xbottom, ybottom, height) {#float-float-float}
 
 Construct a new pyramid instance with specified bottom area
 
@@ -43,7 +43,7 @@ def __init__(self, xbottom, ybottom, height):
 | height | float | The height of the pyramid |
 
 
-## __init__(self, xbottom, ybottom, xtop, ytop, height) {#float-float-float-float-float}
+## \_\_init\_\_(self, xbottom, ybottom, xtop, ytop, height) {#float-float-float-float-float}
 
 Construct a new pyramid instance with specified bottom area and top area and height.
 
@@ -65,7 +65,7 @@ def __init__(self, xbottom, ybottom, xtop, ytop, height):
 | height | float | The height of the pyramid |
 
 
-## __init__(self, name, xbottom, ybottom, xtop, ytop, height) {#str-float-float-float-float-float}
+## \_\_init\_\_(self, name, xbottom, ybottom, xtop, ytop, height) {#str-float-float-float-float-float}
 
 Construct a new pyramid instance with specified bottom area and top area and height.
 

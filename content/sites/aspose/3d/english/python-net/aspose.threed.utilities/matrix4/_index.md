@@ -67,7 +67,7 @@ The Matrix4 type exposes the following members:
 | [`inverse(self)`](/3d/python-net/aspose.threed.utilities/matrix4/inverse/#) | Inverses this instance. |
 | [`set_trs(self, translation, rotation, scale)`](/3d/python-net/aspose.threed.utilities/matrix4/set_trs/#aspose.threed.utilities.vector3-aspose.threed.utilities.vector3-aspose.threed.utilities.vector3) | Initializes the matrix with translation/rotation/scale |
 | [`to_array(self)`](/3d/python-net/aspose.threed.utilities/matrix4/to_array/#) | Converts matrix to array. |
-| [`decompose(self, translation, scaling, rotation)`](/3d/python-net/aspose.threed.utilities/matrix4/decompose/#any-any-any) | Decompose the transformation matrix. |
+| [`decompose(self, translation, scaling, rotation)`](/3d/python-net/aspose.threed.utilities/matrix4/decompose/#any-any-any) |  |
 
 
 

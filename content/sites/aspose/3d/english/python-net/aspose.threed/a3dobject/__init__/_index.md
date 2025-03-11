@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/a3dobject/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`A3DObject`](/3d/python-net/aspose.threed/a3dobject) class with no name.
 
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## __init__(self, name) {#str}
+## \_\_init\_\_(self, name) {#str}
 
 Initializes a new instance of the [`A3DObject`](/3d/python-net/aspose.threed/a3dobject) class.
 

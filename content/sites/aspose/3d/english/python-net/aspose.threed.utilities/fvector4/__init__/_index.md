@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/fvector4/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of FVector4
 
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## __init__(self, vec) {#aspose.threed.utilities.Vector4}
+## \_\_init\_\_(self, vec) {#aspose.threed.utilities.Vector4}
 
 Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4).
 
@@ -41,7 +41,7 @@ def __init__(self, vec):
 | vec | [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) |  |
 
 
-## __init__(self, vec) {#aspose.threed.utilities.Vector3}
+## \_\_init\_\_(self, vec) {#aspose.threed.utilities.Vector3}
 
 Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4).
 
@@ -59,7 +59,7 @@ def __init__(self, vec):
 | vec | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) |  |
 
 
-## __init__(self, vec, w) {#aspose.threed.utilities.Vector3-float}
+## \_\_init\_\_(self, vec, w) {#aspose.threed.utilities.Vector3-float}
 
 Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4).
 
@@ -78,7 +78,7 @@ def __init__(self, vec, w):
 | w | float |  |
 
 
-## __init__(self, x, y, z) {#float-float-float}
+## \_\_init\_\_(self, x, y, z) {#float-float-float}
 
 Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4).
 
@@ -98,7 +98,7 @@ def __init__(self, x, y, z):
 | z | float | Z component |
 
 
-## __init__(self, x, y, z, w) {#float-float-float-float}
+## \_\_init\_\_(self, x, y, z, w) {#float-float-float-float}
 
 Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4).
 

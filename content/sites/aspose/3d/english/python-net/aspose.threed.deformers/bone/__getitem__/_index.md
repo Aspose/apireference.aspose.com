@@ -10,19 +10,12 @@ is_root: false
 
 ## Bone indexer
 
-
-Gets or sets the blend weight of specified control point
 ### Indexer
 | Name | Description |
 | :- | :- |
-| index | Index of the weight |
+| index |  |
 
 
-
-### Returns 
-
-
-The weight
 
 ### See Also
 * module [`aspose.threed.deformers`](../../)

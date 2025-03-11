@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/quaternion/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of Quaternion
 
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## __init__(self, w, x, y, z) {#float-float-float-float}
+## \_\_init\_\_(self, w, x, y, z) {#float-float-float-float}
 
 Initializes a new instance of the [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) class.
 

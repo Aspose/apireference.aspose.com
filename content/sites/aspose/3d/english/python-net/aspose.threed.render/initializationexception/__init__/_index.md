@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/initializationexception/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Initialize an [`InitializationException`](/3d/python-net/aspose.threed.render/initializationexception) instance
 
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## __init__(self, msg) {#str}
+## \_\_init\_\_(self, msg) {#str}
 
 Initialize an [`InitializationException`](/3d/python-net/aspose.threed.render/initializationexception) instance with specified exception message.
 

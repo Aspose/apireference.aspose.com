@@ -10,13 +10,8 @@ is_root: false
 
 ## decompose(self, translation, scaling, rotation) {#any-any-any}
 
-Decompose the transformation matrix.
 
 
-### Returns 
-
-
-True if successed.
 
 
 ```python
@@ -28,9 +23,9 @@ def decompose(self, translation, scaling, rotation):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| translation | any | The translation. |
-| scaling | any | The scaling. |
-| rotation | any | The rotation. |
+| translation | any |  |
+| scaling | any |  |
+| rotation | any |  |
 
 
 

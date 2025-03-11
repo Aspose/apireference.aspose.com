@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/shadervariable/__init__/
 is_root: false
 ---
 
-## __init__(self, name) {#str}
+## \_\_init\_\_(self, name) {#str}
 
 Constructor of [`ShaderVariable`](/3d/python-net/aspose.threed.render/shadervariable)
 
@@ -26,7 +26,7 @@ def __init__(self, name):
 | name | str |  |
 
 
-## __init__(self, name, shader_stage) {#str-aspose.threed.render.ShaderStage}
+## \_\_init\_\_(self, name, shader_stage) {#str-aspose.threed.render.ShaderStage}
 
 Constructor of [`ShaderVariable`](/3d/python-net/aspose.threed.render/shadervariable)
 

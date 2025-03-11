@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/entityrendererkey/__init__/
 is_root: false
 ---
 
-## __init__(self, name) {#str}
+## \_\_init\_\_(self, name) {#str}
 
 Constructor of [`EntityRendererKey`](/3d/python-net/aspose.threed.render/entityrendererkey)
 

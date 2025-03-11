@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/fmatrix4/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of FMatrix4
 
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## __init__(self, mat) {#aspose.threed.utilities.Matrix4}
+## \_\_init\_\_(self, mat) {#aspose.threed.utilities.Matrix4}
 
 Initialize the instance of [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4) from a [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) instance.
 
@@ -41,7 +41,7 @@ def __init__(self, mat):
 | mat | [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) | The [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) instance. |
 
 
-## __init__(self, r0, r1, r2, r3) {#aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4}
+## \_\_init\_\_(self, r0, r1, r2, r3) {#aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4}
 
 Constructs matrix from 4 rows.
 
@@ -62,7 +62,7 @@ def __init__(self, r0, r1, r2, r3):
 | r3 | [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4) | R3. |
 
 
-## __init__(self, m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33) {#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float}
+## \_\_init\_\_(self, m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33) {#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float}
 
 Initialize the instance of [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4)
 

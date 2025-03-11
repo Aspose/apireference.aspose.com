@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/rectangulartorus/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Constructor of [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus)
 
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## __init__(self, name) {#str}
+## \_\_init\_\_(self, name) {#str}
 
 Constructor of [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus)
 

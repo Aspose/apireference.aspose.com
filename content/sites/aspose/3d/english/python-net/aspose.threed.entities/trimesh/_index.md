@@ -54,8 +54,8 @@ The TriMesh type exposes the following members:
 | [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/trimesh/remove_property/#str) | Remove the specified property identified by name |
 | [`from_mesh(, declaration, mesh)`](/3d/python-net/aspose.threed.entities/trimesh/from_mesh/#aspose.threed.utilities.vertexdeclaration-aspose.threed.entities.mesh) | Create a TriMesh from given mesh object with given vertex layout. |
 | [`from_mesh(, mesh, use_float)`](/3d/python-net/aspose.threed.entities/trimesh/from_mesh/#aspose.threed.entities.mesh-bool) | Create a TriMesh from given mesh object, the vertex declaration are based on the input mesh's structure. |
-| [`indices_to_array(self, result)`](/3d/python-net/aspose.threed.entities/trimesh/indices_to_array/#any) | Convert the indices to 16bit integer array |
-| [`indices_to_array(self, result)`](/3d/python-net/aspose.threed.entities/trimesh/indices_to_array/#any) | Convert the indices to 32bit integer array |
+| [`indices_to_array(self, result)`](/3d/python-net/aspose.threed.entities/trimesh/indices_to_array/#any) |  |
+| [`indices_to_array(self, result)`](/3d/python-net/aspose.threed.entities/trimesh/indices_to_array/#any) |  |
 | [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/trimesh/get_property/#str) | Get the value of specified property |
 | [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/trimesh/set_property/#str-any) | Sets the value of specified property |
 | [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/trimesh/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |

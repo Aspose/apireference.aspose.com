@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/ushape/__init__/
 is_root: false
 ---
 
-## __init__(self) {#}
+## \_\_init\_\_(self) {#}
 
 Constructor of [`UShape`](/3d/python-net/aspose.threed.profiles/ushape)
 
