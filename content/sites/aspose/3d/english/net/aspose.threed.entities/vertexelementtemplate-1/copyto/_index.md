@@ -15,7 +15,7 @@ public void CopyTo(VertexElementTemplate target)
 ### See Also
 
 * class [VertexElementTemplate&lt;T&gt;](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementtemplate-1/)
 * assembly [Aspose.3D](../../../)
 
 

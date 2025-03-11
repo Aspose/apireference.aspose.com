@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/fvector3/normalize/
 is_root: false
 ---
 
-## normalize {#}
+## normalize(self) {#}
 
 Normalizes this instance.
 
@@ -20,6 +20,7 @@ Normalized vector.
 
 
 ```python
+
 def normalize(self):
     ...
 ```

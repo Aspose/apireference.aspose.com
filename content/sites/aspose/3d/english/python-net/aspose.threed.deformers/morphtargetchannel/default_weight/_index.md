@@ -12,6 +12,10 @@ is_root: false
 
 
 Default weight for morph target.
+### Definition:
+```python
+f DEFAULT_WEIGHT 
+```
 
 ### See Also
 * module [`aspose.threed.deformers`](../../)

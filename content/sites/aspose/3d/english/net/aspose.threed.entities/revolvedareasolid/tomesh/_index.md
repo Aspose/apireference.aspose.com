@@ -18,7 +18,7 @@ public Mesh ToMesh()
 
 * class [Mesh](../../mesh/)
 * class [RevolvedAreaSolid](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../revolvedareasolid/)
 * assembly [Aspose.3D](../../../)
 
 

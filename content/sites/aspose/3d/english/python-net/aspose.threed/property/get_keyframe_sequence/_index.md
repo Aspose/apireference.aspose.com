@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/property/get_keyframe_sequence/
 is_root: false
 ---
 
-## get_keyframe_sequence {#aspose.threed.animation.AnimationNode-bool}
+## get_keyframe_sequence(self, anim, create) {#aspose.threed.animation.AnimationNode-bool}
 
 Gets the keyframe sequence on specified animation instance.
 
@@ -20,6 +20,7 @@ The keyframe sequence on specified animation instance
 
 
 ```python
+
 def get_keyframe_sequence(self, anim, create):
     ...
 ```

@@ -17,7 +17,7 @@ public byte[] FragmentShader { get; set; }
 ### See Also
 
 * class [SPIRVSource](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../spirvsource/)
 * assembly [Aspose.3D](../../../)
 
 

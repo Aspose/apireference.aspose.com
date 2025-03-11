@@ -19,7 +19,14 @@ public void Save(Stream stream, FileFormat format)
 | stream | Stream | Input stream, user is responsible for closing the stream. |
 | format | FileFormat | Format. |
 
-### Examples
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
+
+## Examples
 
 The following code shows how to save scene
 
@@ -35,7 +42,7 @@ using(var ms = new MemoryStream())
 
 * class [FileFormat](../../fileformat/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -54,7 +61,14 @@ public void Save(Stream stream, FileFormat format, CancellationToken cancellatio
 | format | FileFormat | Format. |
 | cancellationToken | CancellationToken | Cancellation token to the save task |
 
-### Examples
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
+
+## Examples
 
 The following code shows how to save scene
 
@@ -71,7 +85,7 @@ using(var ms = new MemoryStream())
 
 * class [FileFormat](../../fileformat/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -89,7 +103,14 @@ public void Save(Stream stream, SaveOptions options)
 | stream | Stream | Input stream, user is responsible for closing the stream. |
 | options | SaveOptions | More detailed configuration to save the stream. |
 
-### Examples
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
+
+## Examples
 
 The following code shows how to save scene
 
@@ -107,7 +128,7 @@ using(var ms = new MemoryStream())
 
 * class [SaveOptions](../../../aspose.threed.formats/saveoptions/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -126,7 +147,14 @@ public void Save(Stream stream, SaveOptions options, CancellationToken cancellat
 | options | SaveOptions | More detailed configuration to save the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the save task |
 
-### Examples
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
+
+## Examples
 
 The following code shows how to save scene
 
@@ -145,7 +173,7 @@ using(var ms = new MemoryStream())
 
 * class [SaveOptions](../../../aspose.threed.formats/saveoptions/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -162,7 +190,14 @@ public void Save(string fileName)
 | --- | --- | --- |
 | fileName | String | File name. |
 
-### Examples
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
+
+## Examples
 
 The following code shows how to save scene
 
@@ -174,7 +209,7 @@ scene.Save("output.usdz");
 ### See Also
 
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -192,7 +227,14 @@ public void Save(string fileName, FileFormat format)
 | fileName | String | File name. |
 | format | FileFormat | Format. |
 
-### Examples
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
+
+## Examples
 
 The following code shows how to save scene
 
@@ -205,7 +247,7 @@ scene.Save("output.usdz", FileFormat.USDZ);
 
 * class [FileFormat](../../fileformat/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -224,7 +266,14 @@ public void Save(string fileName, FileFormat format, CancellationToken cancellat
 | format | FileFormat | Format. |
 | cancellationToken | CancellationToken | Cancellation token to the save task |
 
-### Examples
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
+
+## Examples
 
 The following code shows how to save scene
 
@@ -238,7 +287,7 @@ scene.Save("output.usdz", FileFormat.USDZ, cts.Token);
 
 * class [FileFormat](../../fileformat/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -256,7 +305,14 @@ public void Save(string fileName, SaveOptions options)
 | fileName | String | File name. |
 | options | SaveOptions | More detailed configuration to save the stream. |
 
-### Examples
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
+
+## Examples
 
 The following code shows how to save scene
 
@@ -271,7 +327,7 @@ scene.Save("output.usdz", opts);
 
 * class [SaveOptions](../../../aspose.threed.formats/saveoptions/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -290,7 +346,14 @@ public void Save(string fileName, SaveOptions options, CancellationToken cancell
 | options | SaveOptions | More detailed configuration to save the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the save task |
 
-### Examples
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
+
+## Examples
 
 The following code shows how to save scene
 
@@ -306,7 +369,7 @@ scene.Save("output.usdz", opts, cts.Token);
 
 * class [SaveOptions](../../../aspose.threed.formats/saveoptions/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 

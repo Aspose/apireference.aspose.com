@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.formats/a3dwsaveoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructor of [`A3dwSaveOptions`](/3d/python-net/aspose.threed.formats/a3dwsaveoptions)
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

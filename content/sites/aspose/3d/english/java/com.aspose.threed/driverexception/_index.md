@@ -3,7 +3,7 @@ title: DriverException
 second_title: Aspose.3D for Java API Reference
 description: The exception raised by internal rendering drivers.
 type: docs
-weight: 45
+weight: 46
 url: /java/com.aspose.threed/driverexception/
 ---
 
@@ -126,7 +126,7 @@ public int getErrorCode()
 Gets the native error code.
 
 **Returns:**
-int
+int - the native error code.
 ### getLocalizedMessage() {#getLocalizedMessage--}
 ```
 public String getLocalizedMessage()

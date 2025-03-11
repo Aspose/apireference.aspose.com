@@ -18,7 +18,7 @@ public IList<A3DObject> Library { get; }
 
 * class [A3DObject](../../a3dobject/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 

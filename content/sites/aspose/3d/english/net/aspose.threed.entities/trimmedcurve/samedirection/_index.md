@@ -17,7 +17,7 @@ public bool SameDirection { get; set; }
 ### See Also
 
 * class [TrimmedCurve](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../trimmedcurve/)
 * assembly [Aspose.3D](../../../)
 
 

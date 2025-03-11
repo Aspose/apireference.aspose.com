@@ -21,7 +21,7 @@ public abstract int CompareTo(Vertex other)
 ### See Also
 
 * class [Vertex](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vertex/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -21,7 +21,7 @@ public TrialException(string msg)
 ### See Also
 
 * class [TrialException](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../trialexception/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,7 +37,7 @@ public TrialException()
 ### See Also
 
 * class [TrialException](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../trialexception/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -22,7 +22,7 @@ public XLoadOptions(FileContentType contentType)
 
 * enum [FileContentType](../../../aspose.threed/filecontenttype/)
 * class [XLoadOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../xloadoptions/)
 * assembly [Aspose.3D](../../../)
 
 

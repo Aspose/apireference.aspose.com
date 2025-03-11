@@ -20,7 +20,7 @@ public Transform SetEulerAngles(double rx, double ry, double rz)
 | ry | Double |  |
 | rz | Double |  |
 
-### Examples
+## Examples
 
 ```csharp
 Node node = new Node();
@@ -30,7 +30,7 @@ node.Transform.SetEulerAngles(90, 0, 0);
 ### See Also
 
 * class [Transform](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../transform/)
 * assembly [Aspose.3D](../../../)
 
 

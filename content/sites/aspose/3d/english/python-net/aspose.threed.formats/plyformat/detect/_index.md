@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/plyformat/detect/
 is_root: false
 ---
 
-## detect {#str}
+## detect(, file_name) {#str}
 
 Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header.
 
@@ -16,18 +16,26 @@ Detect the file format from file name, file must be readable so Aspose.3D can de
 ### Returns 
 
 
-
+The [`FileFormat`](/3d/python-net/aspose.threed/fileformat) instance of the detected type or null if failed.
 
 
 ```python
-def detect(self, file_name):
+
+@staticmethod
+def detect(file_name):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str |  |
+| file_name | str | Path to the file to detect file format. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Exception thrown when failed to read data. |
+
+
 
 ### Example 
 
@@ -41,7 +49,7 @@ print(f"Input file format: {fmt}")
 ```
 
 
-## detect {#io.RawIOBase-str}
+## detect(, stream, file_name) {#io.RawIOBase-str}
 
 Detect the file format from data stream, file name is optional for guessing types that has no magic header.
 
@@ -49,19 +57,27 @@ Detect the file format from data stream, file name is optional for guessing type
 ### Returns 
 
 
-
+The [`FileFormat`](/3d/python-net/aspose.threed/fileformat) instance of the detected type or null if failed.
 
 
 ```python
-def detect(self, stream, file_name):
+
+@staticmethod
+def detect(stream, file_name):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stream | io.RawIOBase |  |
-| file_name | str |  |
+| stream | io.RawIOBase | Stream containing data to detect |
+| file_name | str | Original file name of the data, used as hint. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Exception thrown when failed to read data. |
+
+
 
 ### Example 
 
@@ -81,4 +97,5 @@ print(f"Input data format: {fmt}")
 
 ### See Also
 * module [`aspose.threed.formats`](../../)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)
 * class [`PlyFormat`](/3d/python-net/aspose.threed.formats/plyformat)

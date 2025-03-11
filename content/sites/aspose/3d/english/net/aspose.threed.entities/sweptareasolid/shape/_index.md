@@ -18,7 +18,7 @@ public Profile Shape { get; set; }
 
 * class [Profile](../../../aspose.threed.profiles/profile/)
 * class [SweptAreaSolid](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../sweptareasolid/)
 * assembly [Aspose.3D](../../../)
 
 

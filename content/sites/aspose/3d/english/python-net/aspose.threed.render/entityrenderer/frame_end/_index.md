@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.render/entityrenderer/frame_end/
 is_root: false
 ---
 
-## frame_end {#aspose.threed.render.Renderer-aspose.threed.render.IRenderQueue}
+## frame_end(self, renderer, render_queue) {#aspose.threed.render.Renderer-aspose.threed.render.IRenderQueue}
 
 Ends rendering a frame
 
 
 
 ```python
+
 def frame_end(self, renderer, render_queue):
     ...
 ```

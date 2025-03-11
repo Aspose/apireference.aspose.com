@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/endpoint/from_radian/
 is_root: false
 ---
 
-## from_radian {#float}
+## from_radian(, degree) {#float}
 
 Create an end point measured in radian.
 
@@ -16,18 +16,20 @@ Create an end point measured in radian.
 ### Returns 
 
 
-
+An end point constructed from radian
 
 
 ```python
-def from_radian(self, degree):
+
+@staticmethod
+def from_radian(degree):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| degree | float |  |
+| degree | float | The value in radian |
 
 
 

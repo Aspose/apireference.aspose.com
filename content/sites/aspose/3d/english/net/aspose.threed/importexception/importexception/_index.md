@@ -21,7 +21,7 @@ public ImportException(string msg)
 ### See Also
 
 * class [ImportException](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../importexception/)
 * assembly [Aspose.3D](../../../)
 
 

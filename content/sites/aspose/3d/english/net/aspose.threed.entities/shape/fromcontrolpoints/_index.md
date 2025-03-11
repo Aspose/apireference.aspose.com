@@ -22,7 +22,7 @@ public static Shape FromControlPoints(params Vector3[] controlPoints)
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [Shape](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../shape/)
 * assembly [Aspose.3D](../../../)
 
 

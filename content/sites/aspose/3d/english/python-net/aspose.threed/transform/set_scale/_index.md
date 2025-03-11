@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/transform/set_scale/
 is_root: false
 ---
 
-## set_scale {#float-float-float}
+## set_scale(self, sx, sy, sz) {#float-float-float}
 
 Sets the scale of current transform.
 
@@ -20,6 +20,7 @@ Sets the scale of current transform.
 
 
 ```python
+
 def set_scale(self, sx, sy, sz):
     ...
 ```

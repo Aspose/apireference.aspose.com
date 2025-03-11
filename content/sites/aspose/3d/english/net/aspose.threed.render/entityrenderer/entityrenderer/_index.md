@@ -23,7 +23,7 @@ public EntityRenderer(string key, EntityRendererFeatures features)
 
 * enum [EntityRendererFeatures](../../entityrendererfeatures/)
 * class [EntityRenderer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../entityrenderer/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -43,7 +43,7 @@ public EntityRenderer(string key)
 ### See Also
 
 * class [EntityRenderer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../entityrenderer/)
 * assembly [Aspose.3D](../../../)
 
 

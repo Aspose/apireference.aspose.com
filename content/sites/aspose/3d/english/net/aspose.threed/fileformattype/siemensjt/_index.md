@@ -3,7 +3,7 @@ title: FileFormatType.SiemensJT
 second_title: Aspose.3D for .NET API Reference
 description: FileFormatType field. Siemens PLM Software NXs JT File
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.threed/fileformattype/siemensjt/
 ---
 ## FileFormatType.SiemensJT field
@@ -17,7 +17,7 @@ public static readonly FileFormatType SiemensJT;
 ### See Also
 
 * class [FileFormatType](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformattype/)
 * assembly [Aspose.3D](../../../)
 
 

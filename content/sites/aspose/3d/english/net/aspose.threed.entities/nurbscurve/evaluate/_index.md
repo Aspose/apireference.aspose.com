@@ -26,7 +26,7 @@ Points in the curve
 
 * struct [Vector4](../../../aspose.threed.utilities/vector4/)
 * class [NurbsCurve](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../nurbscurve/)
 * assembly [Aspose.3D](../../../)
 
 

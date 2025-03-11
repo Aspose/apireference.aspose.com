@@ -21,7 +21,7 @@ public MorphTargetDeformer(string name)
 ### See Also
 
 * class [MorphTargetDeformer](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../morphtargetdeformer/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,7 +37,7 @@ public MorphTargetDeformer()
 ### See Also
 
 * class [MorphTargetDeformer](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../morphtargetdeformer/)
 * assembly [Aspose.3D](../../../)
 
 

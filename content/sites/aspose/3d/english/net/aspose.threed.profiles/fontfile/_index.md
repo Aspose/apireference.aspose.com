@@ -3,7 +3,7 @@ title: Class FontFile
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.FontFile class. Font file contains definitions for glyphs this is used to create text profile
 type: docs
-weight: 1080
+weight: 1620
 url: /net/aspose.threed.profiles/fontfile/
 ---
 ## FontFile class
@@ -18,8 +18,8 @@ public abstract class FontFile : A3DObject
 
 | Name | Description |
 | --- | --- |
-| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name.(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
-| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties.(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
+| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name. |
+| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties. |
 
 ## Methods
 
@@ -27,13 +27,13 @@ public abstract class FontFile : A3DObject
 | --- | --- |
 | static [FromFile](../../aspose.threed.profiles/fontfile/fromfile/)(string) | Load FontFile from file name |
 | static [Parse](../../aspose.threed.profiles/fontfile/parse/)(byte[]) | Parse FontFile from bytes |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name)(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property.(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
+| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name |
+| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property |
 
-### Examples
+## Examples
 
 The following code shows how to create a 3D mesh from text using specified font file.
 

@@ -3,12 +3,12 @@ title: get_polygon_size method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 110
 url: /python-net/aspose.threed.entities/mesh/get_polygon_size/
 is_root: false
 ---
 
-## get_polygon_size {#int}
+## get_polygon_size(self, index) {#int}
 
 Gets the vertex count of the specified polygon.
 
@@ -20,6 +20,7 @@ The polygon size.
 
 
 ```python
+
 def get_polygon_size(self, index):
     ...
 ```

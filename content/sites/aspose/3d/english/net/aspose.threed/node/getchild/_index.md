@@ -22,7 +22,7 @@ public Node GetChild(int index)
 
 The child.
 
-### Examples
+## Examples
 
 The following code shows how to get a child node at specified index.
 
@@ -35,7 +35,7 @@ Console.WriteLine($"The first node of the file is {node.Name}");
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -56,7 +56,7 @@ public Node GetChild(string nodeName)
 
 The child.
 
-### Examples
+## Examples
 
 The following code shows how to get a child node with specified name
 
@@ -69,7 +69,7 @@ Console.WriteLine($"The box node's translation is {node.Transform.Translation}")
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

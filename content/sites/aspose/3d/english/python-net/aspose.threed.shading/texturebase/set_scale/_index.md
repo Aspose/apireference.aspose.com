@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.shading/texturebase/set_scale/
 is_root: false
 ---
 
-## set_scale {#float-float}
+## set_scale(self, u, v) {#float-float}
 
 Sets the UV scale.
 
 
 
 ```python
+
 def set_scale(self, u, v):
     ...
 ```

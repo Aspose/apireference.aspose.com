@@ -17,7 +17,7 @@ public bool EnableCompression { get; set; }
 ### See Also
 
 * class [FbxSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../fbxsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

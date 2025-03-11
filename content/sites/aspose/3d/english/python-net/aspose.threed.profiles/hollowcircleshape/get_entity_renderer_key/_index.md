@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/hollowcircleshape/get_entity_renderer_ke
 is_root: false
 ---
 
-## get_entity_renderer_key {#}
+## get_entity_renderer_key(self) {#}
 
 Gets the key of the entity renderer registered in the renderer
 
@@ -20,6 +20,7 @@ Gets the key of the entity renderer registered in the renderer
 
 
 ```python
+
 def get_entity_renderer_key(self):
     ...
 ```

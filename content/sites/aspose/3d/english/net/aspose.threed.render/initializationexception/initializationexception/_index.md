@@ -17,7 +17,7 @@ public InitializationException()
 ### See Also
 
 * class [InitializationException](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../initializationexception/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -33,7 +33,7 @@ public InitializationException(string msg)
 ### See Also
 
 * class [InitializationException](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../initializationexception/)
 * assembly [Aspose.3D](../../../)
 
 

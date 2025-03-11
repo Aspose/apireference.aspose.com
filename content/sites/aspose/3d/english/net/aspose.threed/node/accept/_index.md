@@ -22,7 +22,7 @@ public bool Accept(NodeVisitor visitor)
 
 true means visitor has broke the walk through.
 
-### Examples
+## Examples
 
 The following code shows how to get all meshes from a scene
 
@@ -42,7 +42,7 @@ scene.RootNode.Accept((node) =>
 
 * delegate [NodeVisitor](../../nodevisitor/)
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

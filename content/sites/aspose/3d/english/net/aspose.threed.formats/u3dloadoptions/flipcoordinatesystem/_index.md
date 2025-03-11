@@ -17,7 +17,7 @@ public bool FlipCoordinateSystem { get; set; }
 ### See Also
 
 * class [U3dLoadOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../u3dloadoptions/)
 * assembly [Aspose.3D](../../../)
 
 

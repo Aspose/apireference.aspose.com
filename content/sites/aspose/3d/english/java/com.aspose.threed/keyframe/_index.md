@@ -3,7 +3,7 @@ title: KeyFrame
 second_title: Aspose.3D for Java API Reference
 description: A key frame is mainly defined by a time and a value for some interpolation types tangent/tension/bias/continuity is also used by calculating the final sampled value.
 type: docs
-weight: 82
+weight: 85
 url: /java/com.aspose.threed/keyframe/
 ---
 
@@ -100,7 +100,7 @@ public float getBias()
 Gets the bias used in TCB spline
 
 **Returns:**
-float
+float - the bias used in TCB spline
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -120,7 +120,7 @@ public float getContinuity()
 Gets the continuity used in TCB spline
 
 **Returns:**
-float
+float - the continuity used in TCB spline
 ### getFlat() {#getFlat--}
 ```
 public boolean getFlat()
@@ -130,7 +130,7 @@ public boolean getFlat()
 Get or set if the key frame is flat. Key frame should be flat if next or previous key frame has the same value. Flat key frame has flat tangents and fixed interpolation.
 
 **Returns:**
-boolean
+boolean - Get or set if the key frame is flat. Key frame should be flat if next or previous key frame has the same value. Flat key frame has flat tangents and fixed interpolation.
 ### getIndependentTangent() {#getIndependentTangent--}
 ```
 public boolean getIndependentTangent()
@@ -140,7 +140,7 @@ public boolean getIndependentTangent()
 Gets the out and next in tangents are independent.
 
 **Returns:**
-boolean
+boolean - the out and next in tangents are independent.
 ### getInterpolation() {#getInterpolation--}
 ```
 public Interpolation getInterpolation()
@@ -150,7 +150,7 @@ public Interpolation getInterpolation()
 Gets the key's interpolation type, list.data[index] defines the algorithm how the sampled value is calculated.
 
 **Returns:**
-[Interpolation](../../com.aspose.threed/interpolation)
+[Interpolation](../../com.aspose.threed/interpolation) - the key's interpolation type, list.data[index] defines the algorithm how the sampled value is calculated.
 ### getNextInTangent() {#getNextInTangent--}
 ```
 public Vector2 getNextInTangent()
@@ -160,7 +160,7 @@ public Vector2 getNextInTangent()
 Gets the next in(left) tangent on this key frame.
 
 **Returns:**
-[Vector2](../../com.aspose.threed/vector2)
+[Vector2](../../com.aspose.threed/vector2) - the next in(left) tangent on this key frame.
 ### getNextInWeight() {#getNextInWeight--}
 ```
 public float getNextInWeight()
@@ -170,7 +170,7 @@ public float getNextInWeight()
 Gets the next in(left) weight on this key frame.
 
 **Returns:**
-float
+float - the next in(left) weight on this key frame.
 ### getOutTangent() {#getOutTangent--}
 ```
 public Vector2 getOutTangent()
@@ -180,7 +180,7 @@ public Vector2 getOutTangent()
 Gets the out(right) tangent on this key frame.
 
 **Returns:**
-[Vector2](../../com.aspose.threed/vector2)
+[Vector2](../../com.aspose.threed/vector2) - the out(right) tangent on this key frame.
 ### getOutWeight() {#getOutWeight--}
 ```
 public float getOutWeight()
@@ -190,7 +190,7 @@ public float getOutWeight()
 Gets the out(right) weight on this key frame.
 
 **Returns:**
-float
+float - the out(right) weight on this key frame.
 ### getStepMode() {#getStepMode--}
 ```
 public StepMode getStepMode()
@@ -200,7 +200,7 @@ public StepMode getStepMode()
 Gets the key's step mode. If the interpolation type is [Interpolation.CONSTANT](../../com.aspose.threed/interpolation\#CONSTANT), list.data[index] decides which key-frame's value will be used during interpolation. A [StepMode.PREVIOUS\_VALUE](../../com.aspose.threed/stepmode\#PREVIOUS-VALUE) means the left key-frame's value will be used A [StepMode.NEXT\_VALUE](../../com.aspose.threed/stepmode\#NEXT-VALUE) means the next right key-frame's value will be used
 
 **Returns:**
-[StepMode](../../com.aspose.threed/stepmode)
+[StepMode](../../com.aspose.threed/stepmode) - the key's step mode. If the interpolation type is [Interpolation.CONSTANT](../../com.aspose.threed/interpolation\#CONSTANT), list.data[index] decides which key-frame's value will be used during interpolation. A [StepMode.PREVIOUS\_VALUE](../../com.aspose.threed/stepmode\#PREVIOUS-VALUE) means the left key-frame's value will be used A [StepMode.NEXT\_VALUE](../../com.aspose.threed/stepmode\#NEXT-VALUE) means the next right key-frame's value will be used
 ### getTangentWeightMode() {#getTangentWeightMode--}
 ```
 public int getTangentWeightMode()
@@ -210,7 +210,7 @@ public int getTangentWeightMode()
 Gets the key's tangent weight mode. The out tangent or the next in tangent can be customized by select correct [WeightedMode](../../com.aspose.threed/weightedmode)
 
 **Returns:**
-int
+int - the key's tangent weight mode. The out tangent or the next in tangent can be customized by select correct [WeightedMode](../../com.aspose.threed/weightedmode)
 ### getTension() {#getTension--}
 ```
 public float getTension()
@@ -220,7 +220,7 @@ public float getTension()
 Gets tension used in TCB spline
 
 **Returns:**
-float
+float - tension used in TCB spline
 ### getTime() {#getTime--}
 ```
 public double getTime()
@@ -230,7 +230,7 @@ public double getTime()
 Gets the time position of list.data[index] key frame, measured in seconds.
 
 **Returns:**
-double
+double - the time position of list.data[index] key frame, measured in seconds.
 ### getTimeIndependentTangent() {#getTimeIndependentTangent--}
 ```
 public boolean getTimeIndependentTangent()
@@ -240,7 +240,7 @@ public boolean getTimeIndependentTangent()
 Gets the tangent is time-independent
 
 **Returns:**
-boolean
+boolean - the tangent is time-independent
 ### getValue() {#getValue--}
 ```
 public float getValue()
@@ -250,7 +250,7 @@ public float getValue()
 Gets the key-frame's value.
 
 **Returns:**
-float
+float - the key-frame's value.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

@@ -25,7 +25,7 @@ The Discreet3dsSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions/__init__/#) | Constructor of [`Discreet3dsSaveOptions`](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions/__init__/#) | Constructor of [`Discreet3dsSaveOptions`](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions) |
 
 
 ### Properties

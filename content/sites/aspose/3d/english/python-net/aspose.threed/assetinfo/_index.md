@@ -26,8 +26,8 @@ The AssetInfo type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed/assetinfo/__init__/#) | Initializes a new instance of the [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) class. |
-| [__init__](/3d/python-net/aspose.threed/assetinfo/__init__/#str) | Initializes a new instance of the [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) class. |
+| [`__init__(self)`](/3d/python-net/aspose.threed/assetinfo/__init__/#) | Initializes a new instance of the [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) class. |
+| [`__init__(self, name)`](/3d/python-net/aspose.threed/assetinfo/__init__/#str) | Initializes a new instance of the [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) class. |
 
 
 ### Properties
@@ -60,11 +60,11 @@ The AssetInfo type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property](/3d/python-net/aspose.threed/assetinfo/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
-| [remove_property](/3d/python-net/aspose.threed/assetinfo/remove_property/#str) | Remove the specified property identified by name |
-| [get_property](/3d/python-net/aspose.threed/assetinfo/get_property/#str) | Get the value of specified property |
-| [set_property](/3d/python-net/aspose.threed/assetinfo/set_property/#str-any) | Sets the value of specified property |
-| [find_property](/3d/python-net/aspose.threed/assetinfo/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed/assetinfo/remove_property/#aspose.threed.property) | Removes a dynamic property. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed/assetinfo/remove_property/#str) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed/assetinfo/get_property/#str) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed/assetinfo/set_property/#str-any) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed/assetinfo/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 
 
 

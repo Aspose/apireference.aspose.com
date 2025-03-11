@@ -30,7 +30,7 @@ public static void Encode(TextureData texture, Stream stream, string format)
 
 * class [TextureData](../../texturedata/)
 * class [TextureCodec](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../texturecodec/)
 * assembly [Aspose.3D](../../../)
 
 

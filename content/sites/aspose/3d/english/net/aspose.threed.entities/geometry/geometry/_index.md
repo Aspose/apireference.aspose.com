@@ -21,7 +21,7 @@ public Geometry(string name)
 ### See Also
 
 * class [Geometry](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../geometry/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.deformers/morphtargetchannel/set_weight/
 is_root: false
 ---
 
-## set_weight {#aspose.threed.entities.Shape-float}
+## set_weight(self, target, weight) {#aspose.threed.entities.Shape-float}
 
 Sets the weight for the specified target, default value is 1, range should between 0~1
 
 
 
 ```python
+
 def set_weight(self, target, weight):
     ...
 ```

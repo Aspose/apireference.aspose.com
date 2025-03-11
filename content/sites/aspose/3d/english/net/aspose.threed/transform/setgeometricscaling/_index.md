@@ -14,7 +14,7 @@ Sets the geometric scaling. Geometric transformation only affects the entities a
 public Transform SetGeometricScaling(double sx, double sy, double sz)
 ```
 
-### Examples
+## Examples
 
 ```csharp
 Node node = new Node();
@@ -24,7 +24,7 @@ node.Transform.SetGeometricScaling(2, 2, 2);
 ### See Also
 
 * class [Transform](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../transform/)
 * assembly [Aspose.3D](../../../)
 
 

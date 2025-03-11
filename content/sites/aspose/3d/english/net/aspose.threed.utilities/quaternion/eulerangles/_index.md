@@ -22,7 +22,7 @@ Result vector
 
 * struct [Vector3](../../vector3/)
 * struct [Quaternion](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../quaternion/)
 * assembly [Aspose.3D](../../../)
 
 

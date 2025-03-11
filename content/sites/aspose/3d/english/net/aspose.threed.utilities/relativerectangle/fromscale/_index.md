@@ -25,7 +25,7 @@ public static RelativeRectangle FromScale(float scaleX, float scaleY, float scal
 ### See Also
 
 * struct [RelativeRectangle](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../relativerectangle/)
 * assembly [Aspose.3D](../../../)
 
 

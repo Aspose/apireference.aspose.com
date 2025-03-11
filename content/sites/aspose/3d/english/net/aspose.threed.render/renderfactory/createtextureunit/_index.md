@@ -23,7 +23,7 @@ public abstract ITextureUnit CreateTextureUnit(TextureType textureType)
 * interface [ITextureUnit](../../itextureunit/)
 * enum [TextureType](../../texturetype/)
 * class [RenderFactory](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderfactory/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -40,7 +40,7 @@ public ITextureUnit CreateTextureUnit()
 
 * interface [ITextureUnit](../../itextureunit/)
 * class [RenderFactory](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderfactory/)
 * assembly [Aspose.3D](../../../)
 
 

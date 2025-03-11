@@ -17,7 +17,7 @@ public uint ErrorCode { get; }
 ### See Also
 
 * class [DriverException](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../driverexception/)
 * assembly [Aspose.3D](../../../)
 
 

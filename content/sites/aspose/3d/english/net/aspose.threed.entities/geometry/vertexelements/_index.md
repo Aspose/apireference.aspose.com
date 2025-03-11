@@ -18,7 +18,7 @@ public IList<VertexElement> VertexElements { get; }
 
 * class [VertexElement](../../vertexelement/)
 * class [Geometry](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../geometry/)
 * assembly [Aspose.3D](../../../)
 
 

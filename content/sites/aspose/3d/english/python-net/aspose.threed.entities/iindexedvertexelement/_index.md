@@ -16,12 +16,6 @@ VertexElement with indices data.
 
 The IIndexedVertexElement type exposes the following members:
 
-### Properties
-| Property | Description |
-| :- | :- |
-| [indices](/3d/python-net/aspose.threed.entities/iindexedvertexelement/indices) | Gets the indices data |
-
-
 
 ### See Also
 * module [`aspose.threed.entities`](..)

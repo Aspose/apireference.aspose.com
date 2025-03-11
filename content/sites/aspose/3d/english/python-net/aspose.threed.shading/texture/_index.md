@@ -25,8 +25,8 @@ The Texture type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.shading/texture/__init__/#) | Initializes a new instance of the [`Texture`](/3d/python-net/aspose.threed.shading/texture) class. |
-| [__init__](/3d/python-net/aspose.threed.shading/texture/__init__/#str) | Initializes a new instance of the [`Texture`](/3d/python-net/aspose.threed.shading/texture) class. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.shading/texture/__init__/#) | Initializes a new instance of the [`Texture`](/3d/python-net/aspose.threed.shading/texture) class. |
+| [`__init__(self, name)`](/3d/python-net/aspose.threed.shading/texture/__init__/#str) | Initializes a new instance of the [`Texture`](/3d/python-net/aspose.threed.shading/texture) class. |
 
 
 ### Properties
@@ -53,14 +53,14 @@ The Texture type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property](/3d/python-net/aspose.threed.shading/texture/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
-| [remove_property](/3d/python-net/aspose.threed.shading/texture/remove_property/#str) | Remove the specified property identified by name |
-| [get_property](/3d/python-net/aspose.threed.shading/texture/get_property/#str) | Get the value of specified property |
-| [set_property](/3d/python-net/aspose.threed.shading/texture/set_property/#str-any) | Sets the value of specified property |
-| [find_property](/3d/python-net/aspose.threed.shading/texture/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [set_translation](/3d/python-net/aspose.threed.shading/texture/set_translation/#float-float) | Sets the UV translation. |
-| [set_scale](/3d/python-net/aspose.threed.shading/texture/set_scale/#float-float) | Sets the UV scale. |
-| [set_rotation](/3d/python-net/aspose.threed.shading/texture/set_rotation/#float-float) | Sets the UV rotation. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.shading/texture/remove_property/#aspose.threed.property) | Removes a dynamic property. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.shading/texture/remove_property/#str) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.shading/texture/get_property/#str) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.shading/texture/set_property/#str-any) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.shading/texture/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`set_translation(self, u, v)`](/3d/python-net/aspose.threed.shading/texture/set_translation/#float-float) | Sets the UV translation. |
+| [`set_scale(self, u, v)`](/3d/python-net/aspose.threed.shading/texture/set_scale/#float-float) | Sets the UV scale. |
+| [`set_rotation(self, u, v)`](/3d/python-net/aspose.threed.shading/texture/set_rotation/#float-float) | Sets the UV rotation. |
 
 
 

@@ -3,7 +3,7 @@ title: Class VertexField
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.VertexField class. Vertexs field memory layout description
 type: docs
-weight: 1470
+weight: 2820
 url: /net/aspose.threed.utilities/vertexfield/
 ---
 ## VertexField class

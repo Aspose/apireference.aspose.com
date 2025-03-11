@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.animation/bindpoint/bind_keyframe_sequence/
 is_root: false
 ---
 
-## bind_keyframe_sequence {#str-aspose.threed.animation.KeyframeSequence}
+## bind_keyframe_sequence(self, channel_name, sequence) {#str-aspose.threed.animation.KeyframeSequence}
 
 Bind the keyframe sequence to specified channel
 
 
 
 ```python
+
 def bind_keyframe_sequence(self, channel_name, sequence):
     ...
 ```

@@ -25,8 +25,8 @@ The GltfSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#aspose.threed.FileContentType) | Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
-| [__init__](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#aspose.threed.FileFormat) | Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
+| [`__init__(self, content_type)`](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#aspose.threed.filecontenttype) | Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
+| [`__init__(self, format)`](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#aspose.threed.fileformat) | Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
 
 
 ### Properties

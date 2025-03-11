@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/hollowrectangleshape/get_extent/
 is_root: false
 ---
 
-## get_extent {#}
+## get_extent(self) {#}
 
 Gets the extent in x and y dimension.
 
@@ -20,6 +20,7 @@ Gets the extent in x and y dimension.
 
 
 ```python
+
 def get_extent(self):
     ...
 ```

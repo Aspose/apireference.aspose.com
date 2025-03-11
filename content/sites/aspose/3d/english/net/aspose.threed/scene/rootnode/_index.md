@@ -18,7 +18,7 @@ public Node RootNode { get; }
 
 The root node.
 
-### Examples
+## Examples
 
 The following code shows how to create a node with Box entity attached to the root node.
 
@@ -32,7 +32,7 @@ scene.Save("box.stl");
 
 * class [Node](../../node/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 

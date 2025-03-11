@@ -21,7 +21,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [StencilState](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../stencilstate/)
 * assembly [Aspose.3D](../../../)
 
 

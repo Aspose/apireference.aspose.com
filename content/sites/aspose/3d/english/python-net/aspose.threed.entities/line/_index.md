@@ -10,7 +10,7 @@ is_root: false
 
 ## Line class
 
-A polyline is a path defined by a set of points with [`Geometry.control_points`](/3d/python-net/aspose.threed.entities/geometry#control_points), and connected by [`Line.segments`](/3d/python-net/aspose.threed.entities/line#segments),
+A polyline is a path defined by a set of points with [`Geometry.ControlPoints`](/3d/python-net/aspose.threed.entities/geometry), and connected by [`Line.segments`](/3d/python-net/aspose.threed.entities/line#segments),
 which means it can also be a set of connected line segments.
 The line is usually a linear object, which means it cannot be used to represent a curve, in order to represent a curve, uses [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve).
 
@@ -29,8 +29,8 @@ The Line type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.entities/line/__init__/#) | Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class. |
-| [__init__](/3d/python-net/aspose.threed.entities/line/__init__/#str) | Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.entities/line/__init__/#) | Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class. |
+| [`__init__(self, name)`](/3d/python-net/aspose.threed.entities/line/__init__/#str) | Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class. |
 
 
 ### Properties
@@ -50,15 +50,15 @@ The Line type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property](/3d/python-net/aspose.threed.entities/line/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
-| [remove_property](/3d/python-net/aspose.threed.entities/line/remove_property/#str) | Remove the specified property identified by name |
-| [get_property](/3d/python-net/aspose.threed.entities/line/get_property/#str) | Get the value of specified property |
-| [set_property](/3d/python-net/aspose.threed.entities/line/set_property/#str-any) | Sets the value of specified property |
-| [find_property](/3d/python-net/aspose.threed.entities/line/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_bounding_box](/3d/python-net/aspose.threed.entities/line/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
-| [get_entity_renderer_key](/3d/python-net/aspose.threed.entities/line/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [from_points](/3d/python-net/aspose.threed.entities/line/from_points/#list) | Construct a [`Line`](/3d/python-net/aspose.threed.entities/line) instance from a set of points. |
-| [make_default_indices](/3d/python-net/aspose.threed.entities/line/make_default_indices/#) | Generate the sequence 0,1,2,3....[`Geometry.control_points`](/3d/python-net/aspose.threed.entities/geometry#control_points).Length-1 to [`Line.segments`](/3d/python-net/aspose.threed.entities/line#segments) so the ControlPoints can be used as a single line |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/line/remove_property/#aspose.threed.property) | Removes a dynamic property. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/line/remove_property/#str) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/line/get_property/#str) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/line/set_property/#str-any) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/line/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_bounding_box(self)`](/3d/python-net/aspose.threed.entities/line/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
+| [`get_entity_renderer_key(self)`](/3d/python-net/aspose.threed.entities/line/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
+| [`from_points(, points)`](/3d/python-net/aspose.threed.entities/line/from_points/#list) | Construct a [`Line`](/3d/python-net/aspose.threed.entities/line) instance from a set of points. |
+| [`make_default_indices(self)`](/3d/python-net/aspose.threed.entities/line/make_default_indices/#) | Generate the sequence 0,1,2,3....[`Geometry.ControlPoints`](/3d/python-net/aspose.threed.entities/geometry).Length-1 to [`Line.segments`](/3d/python-net/aspose.threed.entities/line#segments) so the ControlPoints can be used as a single line |
 
 
 

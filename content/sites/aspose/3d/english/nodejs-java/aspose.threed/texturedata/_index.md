@@ -58,11 +58,11 @@ url: /nodejs-java/aspose.threed/texturedata/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2() | Constructor of TextureData | 
+| constructor_overload2() | Constructor of TextureData | 
 
  **Result:**
 

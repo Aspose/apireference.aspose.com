@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/pdfformat/extract/
 is_root: false
 ---
 
-## extract {#str-bytes}
+## extract(self, file_name, password) {#str-bytes}
 
 Extract raw 3D content from PDF file.
 
@@ -16,10 +16,11 @@ Extract raw 3D content from PDF file.
 ### Returns 
 
 
-
+A list of all 3D contents in bytes, including the formats that Aspose.3D don't supported.
 
 
 ```python
+
 def extract(self, file_name, password):
     ...
 ```
@@ -27,11 +28,11 @@ def extract(self, file_name, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str |  |
-| password | bytes |  |
+| file_name | str | File name of input PDF file |
+| password | bytes | Password of the PDF file |
 
 
-## extract {#io.RawIOBase-bytes}
+## extract(self, stream, password) {#io.RawIOBase-bytes}
 
 Extract raw 3D content from PDF stream.
 
@@ -39,10 +40,11 @@ Extract raw 3D content from PDF stream.
 ### Returns 
 
 
-
+A list of all 3D contents in bytes, including the formats that Aspose.3D don't supported.
 
 
 ```python
+
 def extract(self, stream, password):
     ...
 ```
@@ -50,8 +52,8 @@ def extract(self, stream, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stream | io.RawIOBase |  |
-| password | bytes |  |
+| stream | io.RawIOBase | Stream of input PDF file |
+| password | bytes | Password of the PDF file |
 
 
 

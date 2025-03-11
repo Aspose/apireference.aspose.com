@@ -18,7 +18,7 @@ public Vector3 CameraPosition { get; set; }
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [Html5SaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../html5saveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

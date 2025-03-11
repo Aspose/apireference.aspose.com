@@ -17,7 +17,7 @@ public double ChannelWeight { get; set; }
 ### See Also
 
 * class [MorphTargetChannel](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../morphtargetchannel/)
 * assembly [Aspose.3D](../../../)
 
 

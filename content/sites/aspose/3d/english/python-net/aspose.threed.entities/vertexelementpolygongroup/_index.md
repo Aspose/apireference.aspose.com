@@ -25,7 +25,7 @@ The VertexElementPolygonGroup type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/__init__/#) | Initializes a new instance of the [`VertexElementPolygonGroup`](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup) class. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/__init__/#) | Initializes a new instance of the [`VertexElementPolygonGroup`](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup) class. |
 
 
 ### Properties
@@ -35,17 +35,15 @@ The VertexElementPolygonGroup type exposes the following members:
 | [name](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/reference_mode) | Gets or sets how the element is referenced. |
-| [indices](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/indices) | Gets the indices data |
-| [data](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/data) | Gets the vertex data |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/set_indices/#list) | Load indices |
-| [clear](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/clear/#) | Removes all elements from the direct and the index arrays. |
-| [copy_to](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/copy_to/#aspose.threed.entities.VertexElementIntsTemplate) | Copies data to specified element |
-| [set_data](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/set_data/#list) | Load data |
+| [`set_indices(self, data)`](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/set_indices/#list) | Load indices |
+| [`clear(self)`](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/clear/#) | Removes all elements from the direct and the index arrays. |
+| [`copy_to(self, target)`](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/copy_to/#aspose.threed.entities.vertexelementintstemplate) | Copies data to specified element |
+| [`set_data(self, data)`](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/set_data/#list) | Load data |
 
 
 

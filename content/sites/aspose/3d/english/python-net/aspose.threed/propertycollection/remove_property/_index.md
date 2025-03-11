@@ -3,12 +3,12 @@ title: remove_property method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 30
 url: /python-net/aspose.threed/propertycollection/remove_property/
 is_root: false
 ---
 
-## remove_property {#aspose.threed.Property}
+## remove_property(self, property) {#aspose.threed.Property}
 
 Removes a dynamic property.
 
@@ -20,6 +20,7 @@ true if the property is successfully removed
 
 
 ```python
+
 def remove_property(self, property):
     ...
 ```
@@ -30,7 +31,7 @@ def remove_property(self, property):
 | property | [`Property`](/3d/python-net/aspose.threed/property) | Which property to remove |
 
 
-## remove_property {#str}
+## remove_property(self, property) {#str}
 
 Removes a dynamic property.
 
@@ -42,6 +43,7 @@ true if the property is successfully removed
 
 
 ```python
+
 def remove_property(self, property):
     ...
 ```

@@ -3,7 +3,7 @@ title: Interface IVertexBuffer
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.IVertexBuffer interface. The vertex buffer holds the polygon vertex data that will be sent to rendering pipeline
 type: docs
-weight: 440
+weight: 2080
 url: /net/aspose.threed.render/ivertexbuffer/
 ---
 ## IVertexBuffer interface

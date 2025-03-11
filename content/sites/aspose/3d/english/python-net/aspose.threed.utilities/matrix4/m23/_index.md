@@ -12,6 +12,10 @@ is_root: false
 
 
 The m23.
+### Definition:
+```python
+f m23 
+```
 
 ### See Also
 * module [`aspose.threed.utilities`](../../)

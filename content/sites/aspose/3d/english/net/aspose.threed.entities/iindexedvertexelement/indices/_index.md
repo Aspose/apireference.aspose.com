@@ -22,7 +22,7 @@ The index array.
 
 * interface [IArrayList&lt;T&gt;](../../../aspose.threed.utilities/iarraylist-1/)
 * interface [IIndexedVertexElement](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../iindexedvertexelement/)
 * assembly [Aspose.3D](../../../)
 
 

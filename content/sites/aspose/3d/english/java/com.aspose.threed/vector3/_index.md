@@ -3,7 +3,7 @@ title: Vector3
 second_title: Aspose.3D for Java API Reference
 description: A vector with three components.
 type: docs
-weight: 189
+weight: 197
 url: /java/com.aspose.threed/vector3/
 ---
 
@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/vector3/
 java.lang.Object
 
 **All Implemented Interfaces:**
-java.lang.Comparable, com.aspose.csporter.helpers.Struct, java.io.Serializable
+java.lang.Comparable, com.aspose.threed.Struct, java.io.Serializable
 ```
 public final class Vector3 implements Comparable<Vector3>, Struct<Vector3>, Serializable
 ```
@@ -30,11 +30,6 @@ A vector with three components.
 
 | Field | Description |
 | --- | --- |
-| [ORIGIN](#ORIGIN) | Gets the origin position. |
-| [UNIT_SCALE](#UNIT-SCALE) | Gets the unit scale vector. |
-| [X_AXIS](#X-AXIS) | Gets the X axis. |
-| [Y_AXIS](#Y-AXIS) | Gets the Y axis. |
-| [Z_AXIS](#Z-AXIS) | Gets the Z axis. |
 | [x](#x) | The x component. |
 | [y](#y) | The y component. |
 | [z](#z) | The z component. |
@@ -142,46 +137,6 @@ public Vector3()
 ```
 
 
-### ORIGIN {#ORIGIN}
-```
-public static final Vector3 ORIGIN
-```
-
-
-Gets the origin position.
-
-### UNIT_SCALE {#UNIT-SCALE}
-```
-public static final Vector3 UNIT_SCALE
-```
-
-
-Gets the unit scale vector.
-
-### X_AXIS {#X-AXIS}
-```
-public static final Vector3 X_AXIS
-```
-
-
-Gets the X axis.
-
-### Y_AXIS {#Y-AXIS}
-```
-public static final Vector3 Y_AXIS
-```
-
-
-Gets the Y axis.
-
-### Z_AXIS {#Z-AXIS}
-```
-public static final Vector3 Z_AXIS
-```
-
-
-Gets the Z axis.
-
 ### x {#x}
 ```
 public double x
@@ -259,7 +214,7 @@ public Vector3 clone()
 ```
 
 
-
+Clone current instance
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3)
@@ -407,7 +362,7 @@ Gets vector's component by index.
 | idx | int |  |
 
 **Returns:**
-double
+double - vector's component by index.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -427,7 +382,7 @@ public double getLength()
 Gets the length of this vector.
 
 **Returns:**
-double
+double - the length of this vector.
 ### getLength2() {#getLength2--}
 ```
 public double getLength2()
@@ -437,7 +392,7 @@ public double getLength2()
 Gets the square of the length.
 
 **Returns:**
-double
+double - the square of the length.
 ### getOne() {#getOne--}
 ```
 public static Vector3 getOne()
@@ -447,7 +402,7 @@ public static Vector3 getOne()
 Gets unit vector (1, 1, 1)
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - unit vector (1, 1, 1)
 ### getUnitX() {#getUnitX--}
 ```
 public static Vector3 getUnitX()
@@ -457,7 +412,7 @@ public static Vector3 getUnitX()
 Gets unit vector (1, 0, 0)
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - unit vector (1, 0, 0)
 ### getUnitY() {#getUnitY--}
 ```
 public static Vector3 getUnitY()
@@ -467,7 +422,7 @@ public static Vector3 getUnitY()
 Gets unit vector (0, 1, 0)
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - unit vector (0, 1, 0)
 ### getUnitZ() {#getUnitZ--}
 ```
 public static Vector3 getUnitZ()
@@ -477,7 +432,7 @@ public static Vector3 getUnitZ()
 Gets unit vector (0, 0, 1)
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - unit vector (0, 0, 1)
 ### getZero() {#getZero--}
 ```
 public static Vector3 getZero()
@@ -487,7 +442,7 @@ public static Vector3 getZero()
 Gets unit vector (0, 0, 0)
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - unit vector (0, 0, 0)
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()

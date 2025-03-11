@@ -19,7 +19,7 @@ public IArrayList<Vector4> ControlPoints { get; }
 * interface [IArrayList&lt;T&gt;](../../../aspose.threed.utilities/iarraylist-1/)
 * struct [Vector4](../../../aspose.threed.utilities/vector4/)
 * class [NurbsCurve](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../nurbscurve/)
 * assembly [Aspose.3D](../../../)
 
 

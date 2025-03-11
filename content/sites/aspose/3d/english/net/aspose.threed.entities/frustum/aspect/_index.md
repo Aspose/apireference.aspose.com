@@ -17,7 +17,7 @@ public double Aspect { get; set; }
 ### See Also
 
 * class [Frustum](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../frustum/)
 * assembly [Aspose.3D](../../../)
 
 

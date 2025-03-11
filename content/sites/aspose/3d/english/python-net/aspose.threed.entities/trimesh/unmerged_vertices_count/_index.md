@@ -3,7 +3,7 @@ title: unmerged_vertices_count property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 360
+weight: 370
 url: /python-net/aspose.threed.entities/trimesh/unmerged_vertices_count/
 is_root: false
 ---

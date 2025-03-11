@@ -25,7 +25,7 @@ The ColladaSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/colladasaveoptions/__init__/#) | Constructor of [`ColladaSaveOptions`](/3d/python-net/aspose.threed.formats/colladasaveoptions) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/colladasaveoptions/__init__/#) | Constructor of [`ColladaSaveOptions`](/3d/python-net/aspose.threed.formats/colladasaveoptions) |
 
 
 ### Properties

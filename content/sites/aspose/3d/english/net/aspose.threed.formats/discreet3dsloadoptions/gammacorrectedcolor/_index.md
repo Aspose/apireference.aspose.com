@@ -17,7 +17,7 @@ public bool GammaCorrectedColor { get; set; }
 ### See Also
 
 * class [Discreet3dsLoadOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../discreet3dsloadoptions/)
 * assembly [Aspose.3D](../../../)
 
 

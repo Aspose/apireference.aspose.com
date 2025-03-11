@@ -22,7 +22,7 @@ public static TriMesh FromMesh(Mesh mesh)
 
 * class [Mesh](../../mesh/)
 * class [TriMesh&lt;T&gt;](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../trimesh-1/)
 * assembly [Aspose.3D](../../../)
 
 

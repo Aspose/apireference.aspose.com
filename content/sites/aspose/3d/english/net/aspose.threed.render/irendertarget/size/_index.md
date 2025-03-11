@@ -18,7 +18,7 @@ public Vector2 Size { get; set; }
 
 * struct [Vector2](../../../aspose.threed.utilities/vector2/)
 * interface [IRenderTarget](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../irendertarget/)
 * assembly [Aspose.3D](../../../)
 
 

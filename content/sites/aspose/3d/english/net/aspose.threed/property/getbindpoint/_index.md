@@ -28,7 +28,7 @@ The property bind point on specified animation instance
 * class [BindPoint](../../../aspose.threed.animation/bindpoint/)
 * class [AnimationNode](../../../aspose.threed.animation/animationnode/)
 * class [Property](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../property/)
 * assembly [Aspose.3D](../../../)
 
 

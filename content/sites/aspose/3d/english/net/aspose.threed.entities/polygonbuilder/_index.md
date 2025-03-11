@@ -3,7 +3,7 @@ title: Class PolygonBuilder
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.PolygonBuilder class. A helper class to build polygon for Mesh
 type: docs
-weight: 2220
+weight: 580
 url: /net/aspose.threed.entities/polygonbuilder/
 ---
 ## PolygonBuilder class
@@ -28,7 +28,7 @@ public sealed class PolygonBuilder
 | [Begin](../../aspose.threed.entities/polygonbuilder/begin/)() | Begins to add a new polygon |
 | [End](../../aspose.threed.entities/polygonbuilder/end/)() | Finishes the polygon creation |
 
-### Examples
+## Examples
 
 ```csharp
 Mesh mesh = new Mesh();

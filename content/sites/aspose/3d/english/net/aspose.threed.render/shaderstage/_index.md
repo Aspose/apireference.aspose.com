@@ -3,7 +3,7 @@ title: Enum ShaderStage
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.ShaderStage enum. Shader stage
 type: docs
-weight: 710
+weight: 2310
 url: /net/aspose.threed.render/shaderstage/
 ---
 ## ShaderStage enumeration

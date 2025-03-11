@@ -3,7 +3,7 @@ title: IOrientable
 second_title: Aspose.3D for Java API Reference
 description: Orientable entities shall implement this interface.
 type: docs
-weight: 230
+weight: 241
 url: /java/com.aspose.threed/iorientable/
 ---
 ```
@@ -28,7 +28,7 @@ public abstract Vector3 getDirection()
 Gets the direction that the entity is looking at.
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the direction that the entity is looking at.
 ### getTarget() {#getTarget--}
 ```
 public abstract Node getTarget()
@@ -38,7 +38,7 @@ public abstract Node getTarget()
 Gets the target that the entity is looking at.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the target that the entity is looking at.
 ### setDirection(Vector3 value) {#setDirection-com.aspose.threed.Vector3-}
 ```
 public abstract void setDirection(Vector3 value)

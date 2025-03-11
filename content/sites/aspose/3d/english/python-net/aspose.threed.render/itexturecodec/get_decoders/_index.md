@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/itexturecodec/get_decoders/
 is_root: false
 ---
 
-## get_decoders {#}
+## get_decoders(self) {#}
 
 Gets supported texture decoders.
 
@@ -16,10 +16,11 @@ Gets supported texture decoders.
 ### Returns 
 
 
-
+An array of supported texture decoders
 
 
 ```python
+
 def get_decoders(self):
     ...
 ```

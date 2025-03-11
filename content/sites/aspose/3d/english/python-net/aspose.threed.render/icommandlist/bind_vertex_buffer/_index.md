@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.render/icommandlist/bind_vertex_buffer/
 is_root: false
 ---
 
-## bind_vertex_buffer {#aspose.threed.render.IVertexBuffer}
+## bind_vertex_buffer(self, vertex_buffer) {#aspose.threed.render.IVertexBuffer}
 
 Bind the vertex buffer for rendering
 
 
 
 ```python
+
 def bind_vertex_buffer(self, vertex_buffer):
     ...
 ```

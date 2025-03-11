@@ -3,7 +3,7 @@ title: GltfSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for glTF format.
 type: docs
-weight: 71
+weight: 72
 url: /java/com.aspose.threed/gltfsaveoptions/
 ---
 
@@ -120,7 +120,7 @@ public boolean getApplyUnitScale()
 Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. Default value is false.
 
 **Returns:**
-boolean
+boolean - Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. Default value is false.
 ### getBufferFile() {#getBufferFile--}
 ```
 public String getBufferFile()
@@ -130,7 +130,7 @@ public String getBufferFile()
 The file name of the external buffer file used to store binary data. If this file is not specified, Aspose.3D will generate a name for you. This is ignored when export glTF in binary mode.
 
 **Returns:**
-java.lang.String
+java.lang.String - The file name of the external buffer file used to store binary data. If this file is not specified, Aspose.3D will generate a name for you. This is ignored when export glTF in binary mode.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -150,7 +150,7 @@ public boolean getDracoCompression()
 Gets whether to enable draco compression
 
 **Returns:**
-boolean
+boolean - whether to enable draco compression
 ### getEmbedAssets() {#getEmbedAssets--}
 ```
 public boolean getEmbedAssets()
@@ -160,7 +160,7 @@ public boolean getEmbedAssets()
 Embed all external assets as base64 into single file in ASCII mode, default value is false.
 
 **Returns:**
-boolean
+boolean - Embed all external assets as base64 into single file in ASCII mode, default value is false.
 ### getEncoding() {#getEncoding--}
 ```
 public Charset getEncoding()
@@ -170,7 +170,7 @@ public Charset getEncoding()
 Gets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use.
 
 **Returns:**
-java.nio.charset.Charset
+java.nio.charset.Charset - the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use.
 ### getExportTextures() {#getExportTextures--}
 ```
 public boolean getExportTextures()
@@ -180,17 +180,17 @@ public boolean getExportTextures()
 Try to copy textures used in scene to output directory.
 
 **Returns:**
-boolean
+boolean - Try to copy textures used in scene to output directory.
 ### getExternalDracoEncoder() {#getExternalDracoEncoder--}
 ```
 public String getExternalDracoEncoder()
 ```
 
 
-Use external draco encoder to accelerate the draco compression speed. **Remarks:** Aspose.3D will create new sub process to encode the mesh to the draco format, use it at your own risk.
+Use external draco encoder to accelerate the draco compression speed.
 
 **Returns:**
-java.lang.String
+java.lang.String - Use external draco encoder to accelerate the draco compression speed. **Remarks:** Aspose.3D will create new sub process to encode the mesh to the draco format, use it at your own risk.
 ### getFallbackNormal() {#getFallbackNormal--}
 ```
 public Vector3 getFallbackNormal()
@@ -200,7 +200,7 @@ public Vector3 getFallbackNormal()
 When GLTF2 exporter detected an invalid normal, this will be used instead of its original value to bypass the validation. Default value is (0, 1, 0)
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - When GLTF2 exporter detected an invalid normal, this will be used instead of its original value to bypass the validation. Default value is (0, 1, 0)
 ### getFileFormat() {#getFileFormat--}
 ```
 public FileFormat getFileFormat()
@@ -210,7 +210,7 @@ public FileFormat getFileFormat()
 Gets the file format that specified in current Save/Load option.
 
 **Returns:**
-[FileFormat](../../com.aspose.threed/fileformat)
+[FileFormat](../../com.aspose.threed/fileformat) - the file format that specified in current Save/Load option.
 ### getFileName() {#getFileName--}
 ```
 public String getFileName()
@@ -220,7 +220,7 @@ public String getFileName()
 The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material.
 
 **Returns:**
-java.lang.String
+java.lang.String - The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material.
 ### getFileSystem() {#getFileSystem--}
 ```
 public FileSystem getFileSystem()
@@ -230,17 +230,60 @@ public FileSystem getFileSystem()
 Allow user to handle how to manage the external dependencies during load/save.
 
 **Returns:**
-[FileSystem](../../com.aspose.threed/filesystem)
+[FileSystem](../../com.aspose.threed/filesystem) - Allow user to handle how to manage the external dependencies during load/save. **Example:** The default FileSystem is LocalFileSystem, it is not safe in environment like server side, But you can override the file system access by specifying a different implementation. Aspose.3D provides different FileSystem implementation like:
+
+ *  Memory-based file system
+ *  Directory-based file system
+ *  Dummy file system
+ *  Zip file system
+
+And you can also use your own implementation.
+
+```
+Scene scene = new Scene();
+             var material = new PhongMaterial();
+             var boxNode = scene.getRootNode().createChildNode(new Box());
+             boxNode.setMaterial(material);
+ 
+             var opt = new ObjSaveOptions();
+             var memFs = new HashMap<string, MemoryStream>();
+             opt.setFileSystem(FileSystem.createMemoryFileSystem(memFs));
+ 			opt.setFileName("output.obj");
+             try(var output = new ByteArrayOutputStream()) {
+ 				scene.save(output, opt);
+ 				//The material will be written to variable memFs named output.mtl
+ 				var materialInBytes = memFs["output.mtl"].toArray();
+             }
+```
 ### getFileSystemFactory() {#getFileSystemFactory--}
 ```
 public static FileSystemFactory getFileSystemFactory()
 ```
 
 
-Gets the factory class for FileSystem. The default factory will create [LocalFileSystem](../../com.aspose.threed/localfilesystem) which is not suitable for server environment.
+Gets the factory class for FileSystem. The default factory will create com.aspose.threed.LocalFileSystem which is not suitable for server environment.
 
 **Returns:**
-[FileSystemFactory](../../com.aspose.threed/filesystemfactory)
+[FileSystemFactory](../../com.aspose.threed/filesystemfactory) - the factory class for FileSystem. The default factory will create com.aspose.threed.LocalFileSystem which is not suitable for server environment. **Example:** The default FileSystem in SaveOptions/LoadOptions is directory-based file system, You can override the default implementation by specify it through IOConfig.FileSystemFactory:
+
+```
+IOConfig.setFileSystemFactory(new FileSystemFactory() {
+ 				@Override
+ 				public FileSystem call() {
+ 					return FileSystem.createDummyFileSystem();
+ 				}
+ 			});
+ 
+             Scene scene = new Scene();
+             var material = new PhongMaterial();
+             var boxNode = scene.getRootNode().createChildNode(new Box());
+             boxNode.setMaterial(material);
+ 
+             //opt.FileSystem would be dummy file system now
+             var opt = new ObjSaveOptions();
+             scene.Save("output.obj", opt);
+             //the material file output.mtl will not be written to any places because we've configured a dummy file system as default implementation.
+```
 ### getFlipTexCoordV() {#getFlipTexCoordV--}
 ```
 public boolean getFlipTexCoordV()
@@ -250,7 +293,7 @@ public boolean getFlipTexCoordV()
 Flip texture coordinate v(t) component, default value is true.
 
 **Returns:**
-boolean
+boolean - Flip texture coordinate v(t) component, default value is true.
 ### getImageFormat() {#getImageFormat--}
 ```
 public GltfEmbeddedImageFormat getImageFormat()
@@ -260,7 +303,7 @@ public GltfEmbeddedImageFormat getImageFormat()
 Standard glTF only supports PNG/JPG as its texture format, this option will guide how Aspose.3D convert the non-standard images to supported format during the exporting. Default value is [GltfEmbeddedImageFormat.PNG](../../com.aspose.threed/gltfembeddedimageformat\#PNG)
 
 **Returns:**
-[GltfEmbeddedImageFormat](../../com.aspose.threed/gltfembeddedimageformat)
+[GltfEmbeddedImageFormat](../../com.aspose.threed/gltfembeddedimageformat) - Standard glTF only supports PNG/JPG as its texture format, this option will guide how Aspose.3D convert the non-standard images to supported format during the exporting. Default value is [GltfEmbeddedImageFormat.PNG](../../com.aspose.threed/gltfembeddedimageformat\#PNG)
 ### getLookupPaths() {#getLookupPaths--}
 ```
 public ArrayList<String> getLookupPaths()
@@ -270,7 +313,15 @@ public ArrayList<String> getLookupPaths()
 Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load.
 
 **Returns:**
-java.util.ArrayList<java.lang.String>
+java.util.ArrayList<java.lang.String> - Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. **Example:** The following code shows how to manually specify the look up textures, so the importer can find
+
+```
+var opt = new ObjLoadOptions();
+             //Specify the lookup paths, so the textures can be located.
+             opt.getLookupPaths().add("textures");
+             var scene = Scene.fromFile("input.obj", opt);
+             scene.save("output.glb");
+```
 ### getMaterialConverter() {#getMaterialConverter--}
 ```
 public MaterialConverter getMaterialConverter()
@@ -280,7 +331,7 @@ public MaterialConverter getMaterialConverter()
 Custom converter to convert the geometry's material to PBR material If this is unassigned, glTF 2.0 exporter will automatically convert the standard material to PBR material. Default value is null This property is used when exporting a scene to a glTF 2.0 file.
 
 **Returns:**
-[MaterialConverter](../../com.aspose.threed/materialconverter)
+[MaterialConverter](../../com.aspose.threed/materialconverter) - Custom converter to convert the geometry's material to PBR material If this is unassigned, glTF 2.0 exporter will automatically convert the standard material to PBR material. Default value is null This property is used when exporting a scene to a glTF 2.0 file.
 ### getPrettyPrint() {#getPrettyPrint--}
 ```
 public boolean getPrettyPrint()
@@ -290,7 +341,7 @@ public boolean getPrettyPrint()
 The JSON content of GLTF file is indented for human reading, default value is false
 
 **Returns:**
-boolean
+boolean - The JSON content of GLTF file is indented for human reading, default value is false
 ### getSaveExtras() {#getSaveExtras--}
 ```
 public boolean getSaveExtras()
@@ -300,7 +351,7 @@ public boolean getSaveExtras()
 Save scene object's dynamic properties into 'extra' fields in the generated glTF file. This is useful to provide application-specific data. Default value is false.
 
 **Returns:**
-boolean
+boolean - Save scene object's dynamic properties into 'extra' fields in the generated glTF file. This is useful to provide application-specific data. Default value is false.
 ### getUseCommonMaterials() {#getUseCommonMaterials--}
 ```
 public boolean getUseCommonMaterials()
@@ -310,7 +361,7 @@ public boolean getUseCommonMaterials()
 Serialize materials using KHR common material extensions, default value is false. Set this to false will cause Aspose.3D export a set of vertex/fragment shader if [getExportShaders](../../com.aspose.threed/gltfsaveoptions\#getExportShaders)
 
 **Returns:**
-boolean
+boolean - Serialize materials using KHR common material extensions, default value is false. Set this to false will cause Aspose.3D export a set of vertex/fragment shader if [getExportShaders](../../com.aspose.threed/gltfsaveoptions\#getExportShaders) **Remarks:** This property only works for glTF 1.0
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -465,7 +516,31 @@ Allow user to handle how to manage the external dependencies during load/save.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [FileSystem](../../com.aspose.threed/filesystem) | New value |
+| value | [FileSystem](../../com.aspose.threed/filesystem) | New value **Example:** The default FileSystem is LocalFileSystem, it is not safe in environment like server side, But you can override the file system access by specifying a different implementation. Aspose.3D provides different FileSystem implementation like:
+
+ *  Memory-based file system
+ *  Directory-based file system
+ *  Dummy file system
+ *  Zip file system
+
+And you can also use your own implementation.
+
+```
+Scene scene = new Scene();
+             var material = new PhongMaterial();
+             var boxNode = scene.getRootNode().createChildNode(new Box());
+             boxNode.setMaterial(material);
+ 
+             var opt = new ObjSaveOptions();
+             var memFs = new HashMap<string, MemoryStream>();
+             opt.setFileSystem(FileSystem.createMemoryFileSystem(memFs));
+ 			opt.setFileName("output.obj");
+             try(var output = new ByteArrayOutputStream()) {
+ 				scene.save(output, opt);
+ 				//The material will be written to variable memFs named output.mtl
+ 				var materialInBytes = memFs["output.mtl"].toArray();
+             }
+``` |
 
 ### setFileSystemFactory(FileSystemFactory value) {#setFileSystemFactory-com.aspose.threed.FileSystemFactory-}
 ```
@@ -473,12 +548,31 @@ public static void setFileSystemFactory(FileSystemFactory value)
 ```
 
 
-Sets the factory class for FileSystem. The default factory will create [LocalFileSystem](../../com.aspose.threed/localfilesystem) which is not suitable for server environment.
+Sets the factory class for FileSystem. The default factory will create com.aspose.threed.LocalFileSystem which is not suitable for server environment.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [FileSystemFactory](../../com.aspose.threed/filesystemfactory) | New value |
+| value | [FileSystemFactory](../../com.aspose.threed/filesystemfactory) | New value **Example:** The default FileSystem in SaveOptions/LoadOptions is directory-based file system, You can override the default implementation by specify it through IOConfig.FileSystemFactory:
+
+```
+IOConfig.setFileSystemFactory(new FileSystemFactory() {
+ 				@Override
+ 				public FileSystem call() {
+ 					return FileSystem.createDummyFileSystem();
+ 				}
+ 			});
+ 
+             Scene scene = new Scene();
+             var material = new PhongMaterial();
+             var boxNode = scene.getRootNode().createChildNode(new Box());
+             boxNode.setMaterial(material);
+ 
+             //opt.FileSystem would be dummy file system now
+             var opt = new ObjSaveOptions();
+             scene.Save("output.obj", opt);
+             //the material file output.mtl will not be written to any places because we've configured a dummy file system as default implementation.
+``` |
 
 ### setFlipTexCoordV(boolean value) {#setFlipTexCoordV-boolean-}
 ```
@@ -517,7 +611,15 @@ Some files like OBJ depends on external file, the lookup paths will allows Aspos
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.util.ArrayList<java.lang.String> | New value |
+| value | java.util.ArrayList<java.lang.String> | New value **Example:** The following code shows how to manually specify the look up textures, so the importer can find
+
+```
+var opt = new ObjLoadOptions();
+             //Specify the lookup paths, so the textures can be located.
+             opt.getLookupPaths().add("textures");
+             var scene = Scene.fromFile("input.obj", opt);
+             scene.save("output.glb");
+``` |
 
 ### setMaterialConverter(MaterialConverter value) {#setMaterialConverter-com.aspose.threed.MaterialConverter-}
 ```
@@ -569,7 +671,7 @@ Serialize materials using KHR common material extensions, default value is false
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean | New value |
+| value | boolean | New value **Remarks:** This property only works for glTF 1.0 |
 
 ### toString() {#toString--}
 ```

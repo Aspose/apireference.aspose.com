@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.profiles/text/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Initialize an SceneObject.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

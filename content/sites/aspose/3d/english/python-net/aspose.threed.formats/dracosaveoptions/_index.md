@@ -25,7 +25,7 @@ The DracoSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/dracosaveoptions/__init__/#) | Construct a default configuration for saving draco files. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/dracosaveoptions/__init__/#) | Construct a default configuration for saving draco files. |
 
 
 ### Properties

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/descriptorsetupdater/bind/
 is_root: false
 ---
 
-## bind {#aspose.threed.render.IBuffer}
+## bind(self, buffer) {#aspose.threed.render.IBuffer}
 
 Bind the entire buffer to current descriptor
 
@@ -20,6 +20,7 @@ Return current instance for chaining operation
 
 
 ```python
+
 def bind(self, buffer):
     ...
 ```
@@ -30,7 +31,7 @@ def bind(self, buffer):
 | buffer | [`IBuffer`](/3d/python-net/aspose.threed.render/ibuffer) |  |
 
 
-## bind {#aspose.threed.render.ITextureUnit}
+## bind(self, texture) {#aspose.threed.render.ITextureUnit}
 
 Bind the texture unit to current descriptor set
 
@@ -42,6 +43,7 @@ Return current instance for chaining operation
 
 
 ```python
+
 def bind(self, texture):
     ...
 ```
@@ -52,7 +54,7 @@ def bind(self, texture):
 | texture | [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit) | The texture unit to bind |
 
 
-## bind {#int-aspose.threed.render.IBuffer}
+## bind(self, binding, buffer) {#int-aspose.threed.render.IBuffer}
 
 Bind the buffer to current descriptor set at specified binding location.
 
@@ -64,6 +66,7 @@ Return current instance for chaining operation
 
 
 ```python
+
 def bind(self, binding, buffer):
     ...
 ```
@@ -75,7 +78,7 @@ def bind(self, binding, buffer):
 | buffer | [`IBuffer`](/3d/python-net/aspose.threed.render/ibuffer) | The entire buffer to bind |
 
 
-## bind {#int-aspose.threed.render.ITextureUnit}
+## bind(self, binding, texture) {#int-aspose.threed.render.ITextureUnit}
 
 Bind the texture unit to current descriptor set
 
@@ -87,6 +90,7 @@ Return current instance for chaining operation
 
 
 ```python
+
 def bind(self, binding, texture):
     ...
 ```
@@ -98,7 +102,7 @@ def bind(self, binding, texture):
 | texture | [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit) | The texture unit to bind |
 
 
-## bind {#aspose.threed.render.IBuffer-int-int}
+## bind(self, buffer, offset, size) {#aspose.threed.render.IBuffer-int-int}
 
 Bind the buffer to current descriptor set
 
@@ -110,6 +114,7 @@ Return current instance for chaining operation
 
 
 ```python
+
 def bind(self, buffer, offset, size):
     ...
 ```
@@ -122,7 +127,7 @@ def bind(self, buffer, offset, size):
 | size | int | Size of the buffer to bind |
 
 
-## bind {#int-aspose.threed.render.IBuffer-int-int}
+## bind(self, binding, buffer, offset, size) {#int-aspose.threed.render.IBuffer-int-int}
 
 Bind the buffer to current descriptor set at specified binding location.
 
@@ -134,6 +139,7 @@ Return current instance for chaining operation
 
 
 ```python
+
 def bind(self, binding, buffer, offset, size):
     ...
 ```

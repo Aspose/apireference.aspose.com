@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/transform/set_translation/
 is_root: false
 ---
 
-## set_translation {#float-float-float}
+## set_translation(self, tx, ty, tz) {#float-float-float}
 
 Sets the translation of current transform.
 
@@ -20,6 +20,7 @@ Sets the translation of current transform.
 
 
 ```python
+
 def set_translation(self, tx, ty, tz):
     ...
 ```

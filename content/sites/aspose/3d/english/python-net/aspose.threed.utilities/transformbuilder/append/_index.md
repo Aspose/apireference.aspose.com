@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.utilities/transformbuilder/append/
 is_root: false
 ---
 
-## append {#aspose.threed.utilities.Matrix4}
+## append(self, m) {#aspose.threed.utilities.Matrix4}
 
 Append the new transform matrix to the transform chain.
 
 
 
 ```python
+
 def append(self, m):
     ...
 ```

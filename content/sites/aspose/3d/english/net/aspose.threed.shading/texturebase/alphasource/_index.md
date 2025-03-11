@@ -18,7 +18,7 @@ public AlphaSource AlphaSource { get; set; }
 
 * enum [AlphaSource](../../alphasource/)
 * class [TextureBase](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../texturebase/)
 * assembly [Aspose.3D](../../../)
 
 

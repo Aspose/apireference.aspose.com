@@ -18,7 +18,7 @@ public Mesh ToMesh()
 
 * class [Mesh](../../mesh/)
 * class [LinearExtrusion](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../linearextrusion/)
 * assembly [Aspose.3D](../../../)
 
 

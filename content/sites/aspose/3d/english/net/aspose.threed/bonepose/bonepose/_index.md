@@ -17,7 +17,7 @@ public BonePose()
 ### See Also
 
 * class [BonePose](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../bonepose/)
 * assembly [Aspose.3D](../../../)
 
 

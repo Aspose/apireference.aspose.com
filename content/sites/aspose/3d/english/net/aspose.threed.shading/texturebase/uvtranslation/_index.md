@@ -22,7 +22,7 @@ The UV translation.
 
 * struct [Vector2](../../../aspose.threed.utilities/vector2/)
 * class [TextureBase](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../texturebase/)
 * assembly [Aspose.3D](../../../)
 
 

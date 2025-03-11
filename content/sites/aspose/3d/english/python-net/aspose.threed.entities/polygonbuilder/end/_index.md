@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.entities/polygonbuilder/end/
 is_root: false
 ---
 
-## end {#}
+## end(self) {#}
 
 Finishes the polygon creation
 
 
 
 ```python
+
 def end(self):
     ...
 ```

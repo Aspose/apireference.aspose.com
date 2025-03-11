@@ -14,11 +14,15 @@ Gets the extent in x and y dimension.
 public abstract Vector2 GetExtent()
 ```
 
+### Return Value
+
+The extent of the profile
+
 ### See Also
 
 * struct [Vector2](../../../aspose.threed.utilities/vector2/)
 * class [ParameterizedProfile](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../parameterizedprofile/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/idescriptorset/begin_update/
 is_root: false
 ---
 
-## begin_update {#}
+## begin_update(self) {#}
 
 Begin to update the descriptor set
 
@@ -20,6 +20,7 @@ Begin to update the descriptor set
 
 
 ```python
+
 def begin_update(self):
     ...
 ```

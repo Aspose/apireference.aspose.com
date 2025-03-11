@@ -3,7 +3,7 @@ title: U3dLoadOptions class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 320
 url: /python-net/aspose.threed.formats/u3dloadoptions/
 is_root: false
 ---
@@ -25,7 +25,7 @@ The U3dLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/u3dloadoptions/__init__/#) | Constructor of [`U3dLoadOptions`](/3d/python-net/aspose.threed.formats/u3dloadoptions) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/u3dloadoptions/__init__/#) | Constructor of [`U3dLoadOptions`](/3d/python-net/aspose.threed.formats/u3dloadoptions) |
 
 
 ### Properties

@@ -3,7 +3,7 @@ title: ShaderMaterial
 second_title: Aspose.3D for Java API Reference
 description: A shader material allows to describe the material by external rendering engine or shader language.
 type: docs
-weight: 154
+weight: 160
 url: /java/com.aspose.threed/shadermaterial/
 ---
 
@@ -164,7 +164,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -174,7 +174,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -199,7 +199,7 @@ public List<ShaderTechnique> getTechniques()
 Gets all available techniques defined in this material.
 
 **Returns:**
-java.util.List<com.aspose.threed.ShaderTechnique>
+java.util.List<com.aspose.threed.ShaderTechnique> - all available techniques defined in this material.
 ### getTexture(String slotName) {#getTexture-java.lang.String-}
 ```
 public TextureBase getTexture(String slotName)
@@ -285,10 +285,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setName(String value) {#setName-java.lang.String-}
 ```
 public void setName(String value)

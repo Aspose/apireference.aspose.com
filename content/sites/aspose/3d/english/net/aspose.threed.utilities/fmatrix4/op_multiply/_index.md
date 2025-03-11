@@ -16,13 +16,17 @@ public static FMatrix4 operator *(FMatrix4 left, FMatrix4 right)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| left | FMatrix4 |  |
-| right | FMatrix4 |  |
+| left | FMatrix4 | The left matrix to concatenate |
+| right | FMatrix4 | The right matrix to concatenate |
+
+### Return Value
+
+The concatenated matrix.
 
 ### See Also
 
 * struct [FMatrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fmatrix4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -47,7 +51,7 @@ Result matrix
 ### See Also
 
 * struct [FMatrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fmatrix4/)
 * assembly [Aspose.3D](../../../)
 
 

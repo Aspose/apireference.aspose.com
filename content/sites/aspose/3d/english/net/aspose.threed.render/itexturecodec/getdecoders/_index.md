@@ -14,11 +14,15 @@ Gets supported texture decoders.
 public ITextureDecoder[] GetDecoders()
 ```
 
+### Return Value
+
+An array of supported texture decoders
+
 ### See Also
 
 * interface [ITextureDecoder](../../itexturedecoder/)
 * interface [ITextureCodec](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexturecodec/)
 * assembly [Aspose.3D](../../../)
 
 

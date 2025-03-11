@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.utilities/vertexfield/compare_to/
 is_root: false
 ---
 
-## compare_to {#aspose.threed.utilities.VertexField}
+## compare_to(self, other) {#aspose.threed.utilities.VertexField}
 
 Compares this instance to a specified object and returns an indication of their relative values.
 
 
 
 ```python
+
 def compare_to(self, other):
     ...
 ```

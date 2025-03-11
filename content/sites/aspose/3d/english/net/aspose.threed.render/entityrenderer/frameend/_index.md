@@ -24,7 +24,7 @@ public virtual void FrameEnd(Renderer renderer, IRenderQueue renderQueue)
 * class [Renderer](../../renderer/)
 * interface [IRenderQueue](../../irenderqueue/)
 * class [EntityRenderer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../entityrenderer/)
 * assembly [Aspose.3D](../../../)
 
 

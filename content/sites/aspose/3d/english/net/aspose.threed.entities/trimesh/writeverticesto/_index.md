@@ -18,7 +18,7 @@ public void WriteVerticesTo(Stream stream)
 | --- | --- | --- |
 | stream | Stream | The stream that the vertices data will be written to |
 
-### Examples
+## Examples
 
 ```csharp
 //convert a mesh to TriMesh, the layout is automatically inferred from input mesh
@@ -33,7 +33,7 @@ triMesh.Write16bIndicesTo(stream);
 ### See Also
 
 * class [TriMesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../trimesh/)
 * assembly [Aspose.3D](../../../)
 
 

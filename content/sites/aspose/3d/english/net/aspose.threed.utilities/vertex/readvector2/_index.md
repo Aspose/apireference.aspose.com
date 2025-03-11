@@ -23,7 +23,7 @@ public Vector2 ReadVector2(VertexField field)
 * struct [Vector2](../../vector2/)
 * class [VertexField](../../vertexfield/)
 * class [Vertex](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vertex/)
 * assembly [Aspose.3D](../../../)
 
 

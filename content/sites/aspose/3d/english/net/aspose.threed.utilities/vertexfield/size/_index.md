@@ -17,7 +17,7 @@ public int Size { get; }
 ### See Also
 
 * class [VertexField](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vertexfield/)
 * assembly [Aspose.3D](../../../)
 
 

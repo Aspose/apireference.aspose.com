@@ -18,7 +18,7 @@ public BoneLinkMode LinkMode { get; set; }
 
 * enum [BoneLinkMode](../../bonelinkmode/)
 * class [Bone](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../bone/)
 * assembly [Aspose.3D](../../../)
 
 

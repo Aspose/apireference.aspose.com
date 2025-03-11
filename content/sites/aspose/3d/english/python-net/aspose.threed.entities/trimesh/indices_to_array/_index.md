@@ -3,18 +3,19 @@ title: indices_to_array method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /python-net/aspose.threed.entities/trimesh/indices_to_array/
 is_root: false
 ---
 
-## indices_to_array {#any}
+## indices_to_array(self, result) {#any}
 
 
 
 
 
 ```python
+
 def indices_to_array(self, result):
     ...
 ```
@@ -25,13 +26,14 @@ def indices_to_array(self, result):
 | result | any |  |
 
 
-## indices_to_array {#any}
+## indices_to_array(self, result) {#any}
 
 
 
 
 
 ```python
+
 def indices_to_array(self, result):
     ...
 ```

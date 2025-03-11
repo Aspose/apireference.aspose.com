@@ -17,7 +17,7 @@ public bool FlipCoordinateSystem { get; set; }
 ### See Also
 
 * class [StlSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../stlsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vector3/cos/
 is_root: false
 ---
 
-## cos {#}
+## cos(self) {#}
 
 Calculates cosine on each component
 
@@ -20,6 +20,7 @@ Calculated [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3).
 
 
 ```python
+
 def cos(self):
     ...
 ```

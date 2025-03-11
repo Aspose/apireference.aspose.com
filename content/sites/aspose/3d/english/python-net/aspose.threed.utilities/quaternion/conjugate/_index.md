@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/quaternion/conjugate/
 is_root: false
 ---
 
-## conjugate {#}
+## conjugate(self) {#}
 
 Returns a conjugate quaternion of current quaternion
 
@@ -20,6 +20,7 @@ The conjugate quaternion.
 
 
 ```python
+
 def conjugate(self):
     ...
 ```

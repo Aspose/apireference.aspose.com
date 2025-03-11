@@ -17,7 +17,7 @@ public LinearExtrusion()
 ### See Also
 
 * class [LinearExtrusion](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../linearextrusion/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -34,7 +34,7 @@ public LinearExtrusion(Profile shape, double height)
 
 * class [Profile](../../../aspose.threed.profiles/profile/)
 * class [LinearExtrusion](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../linearextrusion/)
 * assembly [Aspose.3D](../../../)
 
 

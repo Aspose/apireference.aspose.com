@@ -3,7 +3,7 @@ title: CubeFaceData
 second_title: Aspose.3D for Java API Reference
 description: Data for each face of the cube map texture.
 type: docs
-weight: 33
+weight: 34
 url: /java/com.aspose.threed/cubefacedata/
 ---
 
@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/cubefacedata/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.csporter.helpers.Struct, java.io.Serializable
+com.aspose.threed.Struct, java.io.Serializable
 ```
 public final class CubeFaceData<T> implements Struct<CubeFaceData<T>>, Serializable
 ```
@@ -75,7 +75,7 @@ public CubeFaceData<T> clone()
 ```
 
 
-
+Clone current instance
 
 **Returns:**
 [CubeFaceData](../../com.aspose.threed/cubefacedata)
@@ -121,7 +121,7 @@ Gets the data for specified face
 | face | [CubeFace](../../com.aspose.threed/cubeface) |  |
 
 **Returns:**
-T
+T - the data for specified face
 ### getBack() {#getBack--}
 ```
 public T getBack()
@@ -131,7 +131,7 @@ public T getBack()
 Gets the data for +Z(Back) face
 
 **Returns:**
-T
+T - the data for +Z(Back) face
 ### getBottom() {#getBottom--}
 ```
 public T getBottom()
@@ -141,7 +141,7 @@ public T getBottom()
 Gets the data for -Y(Bottom) face
 
 **Returns:**
-T
+T - the data for -Y(Bottom) face
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -161,7 +161,7 @@ public T getFront()
 Gets the data for -Z(Front) face
 
 **Returns:**
-T
+T - the data for -Z(Front) face
 ### getLeft() {#getLeft--}
 ```
 public T getLeft()
@@ -171,7 +171,7 @@ public T getLeft()
 Gets the data for +X(Left) face
 
 **Returns:**
-T
+T - the data for +X(Left) face
 ### getNegativeX() {#getNegativeX--}
 ```
 public T getNegativeX()
@@ -181,7 +181,7 @@ public T getNegativeX()
 Gets the data for +X(Left) face
 
 **Returns:**
-T
+T - the data for +X(Left) face
 ### getNegativeY() {#getNegativeY--}
 ```
 public T getNegativeY()
@@ -191,7 +191,7 @@ public T getNegativeY()
 Gets the data for -Y(Bottom) face
 
 **Returns:**
-T
+T - the data for -Y(Bottom) face
 ### getNegativeZ() {#getNegativeZ--}
 ```
 public T getNegativeZ()
@@ -201,7 +201,7 @@ public T getNegativeZ()
 Gets the data for -Z(Front) face
 
 **Returns:**
-T
+T - the data for -Z(Front) face
 ### getPositiveX() {#getPositiveX--}
 ```
 public T getPositiveX()
@@ -211,7 +211,7 @@ public T getPositiveX()
 Gets the data for +X(Right) face
 
 **Returns:**
-T
+T - the data for +X(Right) face
 ### getPositiveY() {#getPositiveY--}
 ```
 public T getPositiveY()
@@ -221,7 +221,7 @@ public T getPositiveY()
 Gets the data for +Y(Top) face
 
 **Returns:**
-T
+T - the data for +Y(Top) face
 ### getPositiveZ() {#getPositiveZ--}
 ```
 public T getPositiveZ()
@@ -231,7 +231,7 @@ public T getPositiveZ()
 Gets the data for +Z(Back) face
 
 **Returns:**
-T
+T - the data for +Z(Back) face
 ### getRight() {#getRight--}
 ```
 public T getRight()
@@ -241,7 +241,7 @@ public T getRight()
 Gets the data for +X(Right) face
 
 **Returns:**
-T
+T - the data for +X(Right) face
 ### getTop() {#getTop--}
 ```
 public T getTop()
@@ -251,7 +251,7 @@ public T getTop()
 Gets the data for +Y(Top) face
 
 **Returns:**
-T
+T - the data for +Y(Top) face
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()

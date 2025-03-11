@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.entities/vertexelementbinormal/clear/
 is_root: false
 ---
 
-## clear {#}
+## clear(self) {#}
 
 Removes all elements from the direct and the index arrays.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

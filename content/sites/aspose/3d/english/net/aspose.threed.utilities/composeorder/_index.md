@@ -3,7 +3,7 @@ title: Enum ComposeOrder
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.ComposeOrder enum. The order to compose transform matrix
 type: docs
-weight: 1350
+weight: 2600
 url: /net/aspose.threed.utilities/composeorder/
 ---
 ## ComposeOrder enumeration

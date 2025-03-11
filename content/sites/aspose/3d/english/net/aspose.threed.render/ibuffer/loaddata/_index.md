@@ -21,7 +21,7 @@ public void LoadData(byte[] data)
 ### See Also
 
 * interface [IBuffer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../ibuffer/)
 * assembly [Aspose.3D](../../../)
 
 

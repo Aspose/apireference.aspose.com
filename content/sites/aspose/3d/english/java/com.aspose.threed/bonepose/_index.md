@@ -78,7 +78,7 @@ public Matrix4 getMatrix()
 Gets the transform matrix of the node in current pose.
 
 **Returns:**
-[Matrix4](../../com.aspose.threed/matrix4)
+[Matrix4](../../com.aspose.threed/matrix4) - the transform matrix of the node in current pose.
 ### getNode() {#getNode--}
 ```
 public Node getNode()
@@ -88,7 +88,7 @@ public Node getNode()
 Gets the scene node, points to a skinned skeleton node
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the scene node, points to a skinned skeleton node
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -108,7 +108,7 @@ public boolean isLocal()
 Gets if the matrix is defined in local coordinate.
 
 **Returns:**
-boolean
+boolean - if the matrix is defined in local coordinate.
 ### notify() {#notify--}
 ```
 public final native void notify()

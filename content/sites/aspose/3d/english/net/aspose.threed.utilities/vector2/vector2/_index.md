@@ -21,7 +21,7 @@ public Vector2(double s)
 ### See Also
 
 * struct [Vector2](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector2/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -42,7 +42,7 @@ public Vector2(Vector3 s)
 
 * struct [Vector3](../../vector3/)
 * struct [Vector2](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector2/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -63,7 +63,7 @@ public Vector2(FVector2 vec)
 
 * struct [FVector2](../../fvector2/)
 * struct [Vector2](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector2/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -84,7 +84,7 @@ public Vector2(double x, double y)
 ### See Also
 
 * struct [Vector2](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector2/)
 * assembly [Aspose.3D](../../../)
 
 

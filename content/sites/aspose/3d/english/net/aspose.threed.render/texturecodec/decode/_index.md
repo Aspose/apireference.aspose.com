@@ -23,7 +23,7 @@ public static TextureData Decode(Stream stream, bool reverseY)
 
 * class [TextureData](../../texturedata/)
 * class [TextureCodec](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../texturecodec/)
 * assembly [Aspose.3D](../../../)
 
 

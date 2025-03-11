@@ -17,7 +17,7 @@ public double Radius { get; set; }
 ### See Also
 
 * class [Sphere](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../sphere/)
 * assembly [Aspose.3D](../../../)
 
 

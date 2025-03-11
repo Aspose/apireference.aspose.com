@@ -1,5 +1,5 @@
 ﻿---
-title: IDENTITY property
+title: identity property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
@@ -8,10 +8,16 @@ url: /python-net/aspose.threed.utilities/fmatrix4/identity/
 is_root: false
 ---
 
-## IDENTITY property
+## identity property
 
 
 The identity matrix
+### Definition:
+```python
+@property
+def identity(self):
+    ...
+```
 
 ### See Also
 * module [`aspose.threed.utilities`](../../)

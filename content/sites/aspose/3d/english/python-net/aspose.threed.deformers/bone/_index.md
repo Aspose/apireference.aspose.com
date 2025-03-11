@@ -26,8 +26,8 @@ The Bone type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.deformers/bone/__init__/#str) | Initializes a new instance of the [`Bone`](/3d/python-net/aspose.threed.deformers/bone) class. |
-| [__init__](/3d/python-net/aspose.threed.deformers/bone/__init__/#) | Initializes a new instance of the [`Bone`](/3d/python-net/aspose.threed.deformers/bone) class. |
+| [`__init__(self, name)`](/3d/python-net/aspose.threed.deformers/bone/__init__/#str) | Initializes a new instance of the [`Bone`](/3d/python-net/aspose.threed.deformers/bone) class. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.deformers/bone/__init__/#) | Initializes a new instance of the [`Bone`](/3d/python-net/aspose.threed.deformers/bone) class. |
 
 
 ### Properties
@@ -51,13 +51,13 @@ The Bone type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property](/3d/python-net/aspose.threed.deformers/bone/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
-| [remove_property](/3d/python-net/aspose.threed.deformers/bone/remove_property/#str) | Remove the specified property identified by name |
-| [get_property](/3d/python-net/aspose.threed.deformers/bone/get_property/#str) | Get the value of specified property |
-| [set_property](/3d/python-net/aspose.threed.deformers/bone/set_property/#str-any) | Sets the value of specified property |
-| [find_property](/3d/python-net/aspose.threed.deformers/bone/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_weight](/3d/python-net/aspose.threed.deformers/bone/get_weight/#int) | Gets the weight for control point specified by index |
-| [set_weight](/3d/python-net/aspose.threed.deformers/bone/set_weight/#int-float) | Sets the weight for control point specified by index |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.deformers/bone/remove_property/#aspose.threed.property) | Removes a dynamic property. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.deformers/bone/remove_property/#str) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.deformers/bone/get_property/#str) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.deformers/bone/set_property/#str-any) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.deformers/bone/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_weight(self, index)`](/3d/python-net/aspose.threed.deformers/bone/get_weight/#int) | Gets the weight for control point specified by index |
+| [`set_weight(self, index, weight)`](/3d/python-net/aspose.threed.deformers/bone/set_weight/#int-float) | Sets the weight for control point specified by index |
 
 
 

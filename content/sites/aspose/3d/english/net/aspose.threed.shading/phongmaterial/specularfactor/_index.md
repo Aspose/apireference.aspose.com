@@ -17,7 +17,7 @@ public double SpecularFactor { get; set; }
 ### See Also
 
 * class [PhongMaterial](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../phongmaterial/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -24,7 +24,7 @@ public Quaternion(double w, double x, double y, double z)
 ### See Also
 
 * struct [Quaternion](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../quaternion/)
 * assembly [Aspose.3D](../../../)
 
 

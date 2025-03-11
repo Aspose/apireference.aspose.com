@@ -3,7 +3,7 @@ title: INamedObject
 second_title: Aspose.3D for Java API Reference
 description: Object that has a name
 type: docs
-weight: 229
+weight: 240
 url: /java/com.aspose.threed/inamedobject/
 ---
 ```
@@ -25,4 +25,4 @@ public abstract String getName()
 Gets the name of the object
 
 **Returns:**
-java.lang.String
+java.lang.String - the name of the object

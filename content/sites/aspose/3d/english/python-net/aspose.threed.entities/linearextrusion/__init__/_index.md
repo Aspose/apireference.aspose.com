@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.entities/linearextrusion/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructor of instance [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion).
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.threed.profiles.Profile-float}
+## \_\_init\_\_(self, shape, height) {#aspose.threed.profiles.Profile-float}
 
 Constructor of instance [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion).
 
 
 
 ```python
+
 def __init__(self, shape, height):
     ...
 ```

@@ -17,7 +17,7 @@ public VertexElementHole()
 ### See Also
 
 * class [VertexElementHole](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementhole/)
 * assembly [Aspose.3D](../../../)
 
 

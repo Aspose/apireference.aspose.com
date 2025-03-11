@@ -21,7 +21,7 @@ The parent node.
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

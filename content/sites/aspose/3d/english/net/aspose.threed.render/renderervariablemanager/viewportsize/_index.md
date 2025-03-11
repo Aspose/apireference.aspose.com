@@ -18,7 +18,7 @@ public FVector2 ViewportSize { get; }
 
 * struct [FVector2](../../../aspose.threed.utilities/fvector2/)
 * class [RendererVariableManager](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderervariablemanager/)
 * assembly [Aspose.3D](../../../)
 
 

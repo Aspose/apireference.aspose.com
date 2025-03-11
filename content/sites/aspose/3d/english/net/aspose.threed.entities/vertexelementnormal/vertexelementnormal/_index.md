@@ -17,7 +17,7 @@ public VertexElementNormal()
 ### See Also
 
 * class [VertexElementNormal](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementnormal/)
 * assembly [Aspose.3D](../../../)
 
 

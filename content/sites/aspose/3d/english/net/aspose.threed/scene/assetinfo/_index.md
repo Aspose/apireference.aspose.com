@@ -18,7 +18,7 @@ public AssetInfo AssetInfo { get; set; }
 
 The document info.
 
-### Examples
+## Examples
 
 The following code shows how to read the application information from a FBX file:
 
@@ -31,7 +31,7 @@ Console.WriteLine($"The FBX file is created by {scene.AssetInfo.ApplicationName}
 
 * class [AssetInfo](../../assetinfo/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 

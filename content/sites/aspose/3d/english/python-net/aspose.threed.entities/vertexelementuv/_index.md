@@ -26,8 +26,8 @@ The VertexElementUV type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.entities/vertexelementuv/__init__/#) | Initializes a new instance of the [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) class.<br/>The default texture mapping type is [`TextureMapping.DIFFUSE`](/3d/python-net/aspose.threed.entities/texturemapping#DIFFUSE) |
-| [__init__](/3d/python-net/aspose.threed.entities/vertexelementuv/__init__/#aspose.threed.entities.TextureMapping) | Initializes a new instance of the [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) class. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.entities/vertexelementuv/__init__/#) | Initializes a new instance of the [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) class.<br/>The default texture mapping type is [`TextureMapping.DIFFUSE`](/3d/python-net/aspose.threed.entities/texturemapping#DIFFUSE) |
+| [`__init__(self, texture_mapping)`](/3d/python-net/aspose.threed.entities/vertexelementuv/__init__/#aspose.threed.entities.texturemapping) | Initializes a new instance of the [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) class. |
 
 
 ### Properties
@@ -37,19 +37,17 @@ The VertexElementUV type exposes the following members:
 | [name](/3d/python-net/aspose.threed.entities/vertexelementuv/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementuv/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementuv/reference_mode) | Gets or sets how the element is referenced. |
-| [indices](/3d/python-net/aspose.threed.entities/vertexelementuv/indices) | Gets the indices data |
-| [data](/3d/python-net/aspose.threed.entities/vertexelementuv/data) | Gets the vertex data |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_data](/3d/python-net/aspose.threed.entities/vertexelementuv/add_data/#list) |  |
-| [add_data](/3d/python-net/aspose.threed.entities/vertexelementuv/add_data/#list) |  |
-| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementuv/set_indices/#list) | Load indices |
-| [clear](/3d/python-net/aspose.threed.entities/vertexelementuv/clear/#) | Removes all elements from the direct and the index arrays. |
-| [copy_to](/3d/python-net/aspose.threed.entities/vertexelementuv/copy_to/#aspose.threed.entities.VertexElementVector4) | Copies data to specified element |
-| [set_data](/3d/python-net/aspose.threed.entities/vertexelementuv/set_data/#list) | Load data |
+| [`add_data(self, data)`](/3d/python-net/aspose.threed.entities/vertexelementuv/add_data/#list) |  |
+| [`add_data(self, data)`](/3d/python-net/aspose.threed.entities/vertexelementuv/add_data/#list) |  |
+| [`set_indices(self, data)`](/3d/python-net/aspose.threed.entities/vertexelementuv/set_indices/#list) | Load indices |
+| [`clear(self)`](/3d/python-net/aspose.threed.entities/vertexelementuv/clear/#) | Removes all elements from the direct and the index arrays. |
+| [`copy_to(self, target)`](/3d/python-net/aspose.threed.entities/vertexelementuv/copy_to/#aspose.threed.entities.vertexelementvector4) | Copies data to specified element |
+| [`set_data(self, data)`](/3d/python-net/aspose.threed.entities/vertexelementuv/set_data/#list) | Load data |
 
 
 

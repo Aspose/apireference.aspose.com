@@ -16,7 +16,7 @@ public Property this[int idx] { get; }
 
 * class [Property](../../property/)
 * class [PropertyCollection](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../propertycollection/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -30,7 +30,7 @@ public object this[string property] { get; set; }
 ### See Also
 
 * class [PropertyCollection](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../propertycollection/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -17,7 +17,7 @@ public Mesh()
 ### See Also
 
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Mesh(TextureData heightMap)
 
 * class [TextureData](../../../aspose.threed.render/texturedata/)
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -61,7 +61,7 @@ public Mesh(TextureData heightMap, Matrix4 transform)
 * class [TextureData](../../../aspose.threed.render/texturedata/)
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -85,7 +85,7 @@ public Mesh(TextureData heightMap, bool triMesh, Matrix4 transform)
 * class [TextureData](../../../aspose.threed.render/texturedata/)
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -105,7 +105,7 @@ public Mesh(string name)
 ### See Also
 
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
 
 

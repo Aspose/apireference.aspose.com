@@ -3,7 +3,7 @@ title: Class TextureSlot
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.TextureSlot class. Texture slot in Material can be enumerated through material instance
 type: docs
-weight: 310
+weight: 2530
 url: /net/aspose.threed.shading/textureslot/
 ---
 ## TextureSlot class
@@ -21,7 +21,7 @@ public class TextureSlot
 | [SlotName](../../aspose.threed.shading/textureslot/slotname/) { get; } | The slot name that indicates where this texture will be bounded to. |
 | [Texture](../../aspose.threed.shading/textureslot/texture/) { get; } | The texture that will be bounded to the material. |
 
-### Examples
+## Examples
 
 ```csharp
 var mat = new LambertMaterial();

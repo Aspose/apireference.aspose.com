@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vector3/dot/
 is_root: false
 ---
 
-## dot {#aspose.threed.utilities.Vector3}
+## dot(self, rhs) {#aspose.threed.utilities.Vector3}
 
 Gets the dot product of two vectors
 
@@ -20,6 +20,7 @@ The dot product of the two vectors.
 
 
 ```python
+
 def dot(self, rhs):
     ...
 ```

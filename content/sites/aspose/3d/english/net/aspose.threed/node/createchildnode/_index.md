@@ -18,7 +18,7 @@ public Node CreateChildNode()
 
 The new child node.
 
-### Examples
+## Examples
 
 The following code shows how to create a new child node under root node
 
@@ -32,7 +32,7 @@ scene.Save("output.fbx");
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -53,7 +53,7 @@ public Node CreateChildNode(string nodeName)
 
 The new child node.
 
-### Examples
+## Examples
 
 The following code shows how to create a new child node under root node
 
@@ -67,7 +67,7 @@ scene.Save("output.fbx");
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -88,7 +88,7 @@ public Node CreateChildNode(Entity entity)
 
 The new child node.
 
-### Examples
+## Examples
 
 The following code shows how to create a new child node under root node
 
@@ -102,7 +102,7 @@ scene.Save("output.fbx");
 
 * class [Entity](../../entity/)
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -128,7 +128,7 @@ The new child node.
 
 * class [Entity](../../entity/)
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -156,7 +156,7 @@ The new child node.
 * class [Entity](../../entity/)
 * class [Material](../../../aspose.threed.shading/material/)
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -3,7 +3,7 @@ title: IVertexBuffer
 second_title: Aspose.3D for Java API Reference
 description: The vertex buffer holds the polygon vertex data that will be sent to rendering pipeline
 type: docs
-weight: 243
+weight: 254
 url: /java/com.aspose.threed/ivertexbuffer/
 ---
 
@@ -31,7 +31,7 @@ public abstract VertexDeclaration getVertexDeclaration()
 Gets the vertex declaration
 
 **Returns:**
-[VertexDeclaration](../../com.aspose.threed/vertexdeclaration)
+[VertexDeclaration](../../com.aspose.threed/vertexdeclaration) - the vertex declaration
 ### loadData(TriMesh mesh) {#loadData-com.aspose.threed.TriMesh-}
 ```
 public abstract void loadData(TriMesh mesh)

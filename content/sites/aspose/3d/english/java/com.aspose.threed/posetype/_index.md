@@ -3,7 +3,7 @@ title: PoseType
 second_title: Aspose.3D for Java API Reference
 description: Pose type.
 type: docs
-weight: 276
+weight: 288
 url: /java/com.aspose.threed/posetype/
 ---
 

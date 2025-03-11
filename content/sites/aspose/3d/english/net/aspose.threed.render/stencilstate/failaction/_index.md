@@ -18,7 +18,7 @@ public StencilAction FailAction { get; set; }
 
 * enum [StencilAction](../../stencilaction/)
 * class [StencilState](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../stencilstate/)
 * assembly [Aspose.3D](../../../)
 
 

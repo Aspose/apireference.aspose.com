@@ -25,7 +25,7 @@ The VertexElementNormal type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.entities/vertexelementnormal/__init__/#) | Initializes a new instance of the [`VertexElementNormal`](/3d/python-net/aspose.threed.entities/vertexelementnormal) class. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.entities/vertexelementnormal/__init__/#) | Initializes a new instance of the [`VertexElementNormal`](/3d/python-net/aspose.threed.entities/vertexelementnormal) class. |
 
 
 ### Properties
@@ -35,17 +35,15 @@ The VertexElementNormal type exposes the following members:
 | [name](/3d/python-net/aspose.threed.entities/vertexelementnormal/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementnormal/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementnormal/reference_mode) | Gets or sets how the element is referenced. |
-| [indices](/3d/python-net/aspose.threed.entities/vertexelementnormal/indices) | Gets the indices data |
-| [data](/3d/python-net/aspose.threed.entities/vertexelementnormal/data) | Gets the vertex data |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementnormal/set_indices/#list) | Load indices |
-| [clear](/3d/python-net/aspose.threed.entities/vertexelementnormal/clear/#) | Removes all elements from the direct and the index arrays. |
-| [copy_to](/3d/python-net/aspose.threed.entities/vertexelementnormal/copy_to/#aspose.threed.entities.VertexElementVector4) | Copies data to specified element |
-| [set_data](/3d/python-net/aspose.threed.entities/vertexelementnormal/set_data/#list) | Load data |
+| [`set_indices(self, data)`](/3d/python-net/aspose.threed.entities/vertexelementnormal/set_indices/#list) | Load indices |
+| [`clear(self)`](/3d/python-net/aspose.threed.entities/vertexelementnormal/clear/#) | Removes all elements from the direct and the index arrays. |
+| [`copy_to(self, target)`](/3d/python-net/aspose.threed.entities/vertexelementnormal/copy_to/#aspose.threed.entities.vertexelementvector4) | Copies data to specified element |
+| [`set_data(self, data)`](/3d/python-net/aspose.threed.entities/vertexelementnormal/set_data/#list) | Load data |
 
 
 

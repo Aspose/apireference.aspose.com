@@ -12,6 +12,10 @@ is_root: false
 
 
 The x component.
+### Definition:
+```python
+f x 
+```
 
 ### See Also
 * module [`aspose.threed.utilities`](../../)

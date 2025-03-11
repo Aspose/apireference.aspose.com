@@ -3,7 +3,7 @@ title: RvmSaveOptions class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 280
 url: /python-net/aspose.threed.formats/rvmsaveoptions/
 is_root: false
 ---
@@ -25,8 +25,8 @@ The RvmSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/rvmsaveoptions/__init__/#) | Constructor of [`RvmSaveOptions`](/3d/python-net/aspose.threed.formats/rvmsaveoptions) |
-| [__init__](/3d/python-net/aspose.threed.formats/rvmsaveoptions/__init__/#aspose.threed.FileContentType) | Constructor of [`RvmSaveOptions`](/3d/python-net/aspose.threed.formats/rvmsaveoptions) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/rvmsaveoptions/__init__/#) | Constructor of [`RvmSaveOptions`](/3d/python-net/aspose.threed.formats/rvmsaveoptions) |
+| [`__init__(self, content_type)`](/3d/python-net/aspose.threed.formats/rvmsaveoptions/__init__/#aspose.threed.filecontenttype) | Constructor of [`RvmSaveOptions`](/3d/python-net/aspose.threed.formats/rvmsaveoptions) |
 
 
 ### Properties
@@ -46,6 +46,32 @@ The RvmSaveOptions type exposes the following members:
 | [export_attributes](/3d/python-net/aspose.threed.formats/rvmsaveoptions/export_attributes) | Gets or sets whether to export the attribute list to an external .att file, default value is false. |
 
 
+
+### Example 
+
+
+The following code shows how to export attribute in RVM. 
+		
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Box
+from aspose.threed.formats import RvmSaveOptions
+
+scene = Scene()
+box = Box().to_mesh()
+# node's name is required to export attributes
+boxNode = scene.root_node.create_child_node("box", box)
+boxNode.set_property("rvm:Price", 12.0)
+boxNode.set_property("rvm:Weight", 30.0)
+opt = RvmSaveOptions()
+# Properties with rvm: prefix will be exported.
+opt.export_attributes = True
+opt.attribute_prefix = "rvm:"
+opt.author = "Aspose.3D"
+opt.file_note = "Test attribute export"
+scene.save("output.rvm", opt)
+
+```
 
 ### See Also
 * module [`aspose.threed.formats`](..)

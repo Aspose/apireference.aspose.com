@@ -23,13 +23,13 @@ public void Encode(TextureData texture, Stream stream)
 
 | exception | condition |
 | --- | --- |
-| IOException |  |
+| IOException | Thrown when failed to write encoded texture to stream |
 
 ### See Also
 
 * class [TextureData](../../texturedata/)
 * interface [ITextureEncoder](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itextureencoder/)
 * assembly [Aspose.3D](../../../)
 
 

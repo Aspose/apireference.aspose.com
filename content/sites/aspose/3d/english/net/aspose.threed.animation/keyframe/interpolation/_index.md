@@ -22,7 +22,7 @@ The interpolation.
 
 * enum [Interpolation](../../interpolation/)
 * class [KeyFrame](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../keyframe/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -17,7 +17,7 @@ public virtual void ResetSceneCache()
 ### See Also
 
 * class [EntityRenderer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../entityrenderer/)
 * assembly [Aspose.3D](../../../)
 
 

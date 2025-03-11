@@ -21,7 +21,7 @@ public static TextureData FromStream(Stream stream)
 ### See Also
 
 * class [TextureData](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../texturedata/)
 * assembly [Aspose.3D](../../../)
 
 

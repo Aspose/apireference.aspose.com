@@ -17,7 +17,7 @@ public string FileExtension { get; }
 ### See Also
 
 * interface [ITextureEncoder](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itextureencoder/)
 * assembly [Aspose.3D](../../../)
 
 

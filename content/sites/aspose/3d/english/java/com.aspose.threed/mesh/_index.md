@@ -3,7 +3,7 @@ title: Mesh
 second_title: Aspose.3D for Java API Reference
 description: A mesh is made of many n-sided polygons.
 type: docs
-weight: 96
+weight: 98
 url: /java/com.aspose.threed/mesh/
 ---
 
@@ -86,6 +86,10 @@ Mesh mesh = new Mesh();
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [optimize(boolean vertexElements)](#optimize-boolean-) | Optimize the mesh's memory usage by eliminating duplicated control points |
+| [optimize(boolean vertexElements, float toleranceControlPoint)](#optimize-boolean-float-) | Optimize the mesh's memory usage by eliminating duplicated control points |
+| [optimize(boolean vertexElements, float toleranceControlPoint, float toleranceNormal)](#optimize-boolean-float-float-) | Optimize the mesh's memory usage by eliminating duplicated control points |
+| [optimize(boolean vertexElements, float toleranceControlPoint, float toleranceNormal, float toleranceUV)](#optimize-boolean-float-float-float-) | Optimize the mesh's memory usage by eliminating duplicated control points |
+| [optimize2(boolean vertexElements)](#optimize2-boolean-) | Optimize the mesh's memory usage by eliminating duplicated control points |
 | [removeProperty(Property property)](#removeProperty-com.aspose.threed.Property-) | Removes a dynamic property. |
 | [removeProperty(String property)](#removeProperty-java.lang.String-) | Remove the specified property identified by name |
 | [setCastShadows(boolean value)](#setCastShadows-boolean-) | Sets whether this geometry can cast shadow |
@@ -233,7 +237,12 @@ Create a polygon with 3 vertices(triangle)
 | --- | --- | --- |
 | v1 | int | Index of the first vertex |
 | v2 | int | Index of the second vertex |
-| v3 | int | Index of the third vertex |
+| v3 | int | Index of the third vertex **Example:** The following code shows how to create a new polygon with control point's indices.
+
+```
+Mesh mesh = new Mesh();
+  mesh.createPolygon(0, 1, 2);
+``` |
 
 ### createPolygon(int v1, int v2, int v3, int v4) {#createPolygon-int-int-int-int-}
 ```
@@ -249,7 +258,12 @@ Create a polygon with 4 vertices(quad)
 | v1 | int | Index of the first vertex |
 | v2 | int | Index of the second vertex |
 | v3 | int | Index of the third vertex |
-| v4 | int | Index of the fourth vertex |
+| v4 | int | Index of the fourth vertex **Example:** The following code shows how to create a new polygon with control point's indices.
+
+```
+Mesh mesh = new Mesh();
+  mesh.createPolygon(0, 1, 2, 3);
+``` |
 
 ### createPolygon(int[] indices) {#createPolygon-int---}
 ```
@@ -265,7 +279,8 @@ Creates a new polygon with all vertices defined in `indices`. To create polygon 
 | indices | int[] | Array of the polygon indices, each index points to a control point that forms the polygon. **Example:**
 
 ```
-int[] indices = new int[] {0, 1, 2};
+Mesh mesh = new Mesh();
+  int[] indices = new int[] {0, 1, 2};
   mesh.createPolygon(indices);
 ``` |
 
@@ -282,10 +297,11 @@ Creates a new polygon with all vertices defined in `indices`. To create polygon 
 | --- | --- | --- |
 | indices | int[] | Array of the polygon indices, each index points to a control point that forms the polygon. |
 | offset | int | The offset of the first polygon index |
-| length | int | The length of the indices **Example:**
+| length | int | The length of the indices **Example:** The following code shows how to create a new polygon with control point's indices.
 
 ```
-int[] indices = new int[] {0, 1, 2};
+Mesh mesh = new Mesh();
+  int[] indices = new int[] {0, 1, 2};
   mesh.createPolygon(indices);
 ``` |
 
@@ -304,7 +320,7 @@ Calculate the difference of two meshes
 | b | [Mesh](../../com.aspose.threed/mesh) | Second mesh |
 
 **Returns:**
-[Mesh](../../com.aspose.threed/mesh) - Result mesh
+[Mesh](../../com.aspose.threed/mesh) - Result mesh **Example:** The following code shows how to calculate the difference of two meshes:
 ### doBoolean(BooleanOperation op, Mesh a, Matrix4 transformA, Mesh b, Matrix4 transformB) {#doBoolean-com.aspose.threed.BooleanOperation-com.aspose.threed.Mesh-com.aspose.threed.Matrix4-com.aspose.threed.Mesh-com.aspose.threed.Matrix4-}
 ```
 public static Mesh doBoolean(BooleanOperation op, Mesh a, Matrix4 transformA, Mesh b, Matrix4 transformB)
@@ -323,7 +339,7 @@ Perform Boolean operation on two meshes
 | transformB | [Matrix4](../../com.aspose.threed/matrix4) | Transformation matrix of the second mesh |
 
 **Returns:**
-[Mesh](../../com.aspose.threed/mesh) - The result mesh
+[Mesh](../../com.aspose.threed/mesh) - The result mesh **Example:** The following code shows how to calculate the union of two meshes:
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -360,7 +376,10 @@ public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+Gets the bounding box of current entity in its object space coordinate system.
+
+**Returns:**
+[BoundingBox](../../com.aspose.threed/boundingbox) - the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
 
 ```
 Entity entity = new Sphere();
@@ -368,9 +387,6 @@ Entity entity = new Sphere();
      var bbox = entity.getBoundingBox();
      System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
 ```
-
-**Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
 ### getCastShadows() {#getCastShadows--}
 ```
 public boolean getCastShadows()
@@ -380,7 +396,7 @@ public boolean getCastShadows()
 Gets whether this geometry can cast shadow
 
 **Returns:**
-boolean
+boolean - whether this geometry can cast shadow
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -400,7 +416,7 @@ public List<Vector4> getControlPoints()
 Gets all control points
 
 **Returns:**
-java.util.List<com.aspose.threed.Vector4>
+java.util.List<com.aspose.threed.Vector4> - all control points
 ### getDeformers() {#getDeformers--}
 ```
 public List<Deformer> getDeformers()
@@ -410,7 +426,7 @@ public List<Deformer> getDeformers()
 Gets all deformers associated with this geometry.
 
 **Returns:**
-java.util.List<com.aspose.threed.Deformer>
+java.util.List<com.aspose.threed.Deformer> - all deformers associated with this geometry.
 ### getEdges() {#getEdges--}
 ```
 public List<Integer> getEdges()
@@ -420,7 +436,7 @@ public List<Integer> getEdges()
 Gets edges of the Mesh. Edge is optional in mesh, so it can be empty.
 
 **Returns:**
-java.util.List<java.lang.Integer>
+java.util.List<java.lang.Integer> - edges of the Mesh. Edge is optional in mesh, so it can be empty.
 ### getElement(VertexElementType type) {#getElement-com.aspose.threed.VertexElementType-}
 ```
 public VertexElement getElement(VertexElementType type)
@@ -445,7 +461,7 @@ public EntityRendererKey getEntityRendererKey()
 Gets the key of the entity renderer registered in the renderer
 
 **Returns:**
-[EntityRendererKey](../../com.aspose.threed/entityrendererkey)
+[EntityRendererKey](../../com.aspose.threed/entityrendererkey) - the key of the entity renderer registered in the renderer
 ### getExcluded() {#getExcluded--}
 ```
 public boolean getExcluded()
@@ -455,7 +471,7 @@ public boolean getExcluded()
 Gets whether to exclude this entity during exporting.
 
 **Returns:**
-boolean
+boolean - whether to exclude this entity during exporting.
 ### getName() {#getName--}
 ```
 public String getName()
@@ -465,7 +481,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getParentNode() {#getParentNode--}
 ```
 public Node getParentNode()
@@ -475,7 +491,7 @@ public Node getParentNode()
 Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 ### getParentNodes() {#getParentNodes--}
 ```
 public ArrayList<Node> getParentNodes()
@@ -485,7 +501,7 @@ public ArrayList<Node> getParentNodes()
 Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 
 **Returns:**
-java.util.ArrayList<com.aspose.threed.Node>
+java.util.ArrayList<com.aspose.threed.Node> - all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 ### getPolygonCount() {#getPolygonCount--}
 ```
 public int getPolygonCount()
@@ -495,7 +511,12 @@ public int getPolygonCount()
 Gets the count of polygons
 
 **Returns:**
-int
+int - the count of polygons **Example:** The following code shows how to get the number of mesh' polygons.
+
+```
+Mesh mesh = (new Sphere()).toMesh();
+      System.out.println("Mesh's polygon count = " + mesh.getPolygonCount());
+```
 ### getPolygonSize(int index) {#getPolygonSize-int-}
 ```
 public int getPolygonSize(int index)
@@ -520,7 +541,7 @@ public List<int[]> getPolygons()
 Gets the polygons definition of the mesh
 
 **Returns:**
-java.util.List<int[]>
+java.util.List<int[]> - the polygons definition of the mesh
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -530,7 +551,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -555,7 +576,7 @@ public boolean getReceiveShadows()
 Gets whether this geometry can receive shadow.
 
 **Returns:**
-boolean
+boolean - whether this geometry can receive shadow.
 ### getScene() {#getScene--}
 ```
 public Scene getScene()
@@ -565,7 +586,7 @@ public Scene getScene()
 Gets the scene that this object belongs to
 
 **Returns:**
-[Scene](../../com.aspose.threed/scene)
+[Scene](../../com.aspose.threed/scene) - the scene that this object belongs to
 ### getVertexElementOfUV(TextureMapping textureMapping) {#getVertexElementOfUV-com.aspose.threed.TextureMapping-}
 ```
 public VertexElementUV getVertexElementOfUV(TextureMapping textureMapping)
@@ -590,7 +611,7 @@ public List<VertexElement> getVertexElements()
 Gets all vertex elements
 
 **Returns:**
-java.util.List<com.aspose.threed.VertexElement>
+java.util.List<com.aspose.threed.VertexElement> - all vertex elements
 ### getVisible() {#getVisible--}
 ```
 public boolean getVisible()
@@ -600,7 +621,7 @@ public boolean getVisible()
 Gets if the geometry is visible
 
 **Returns:**
-boolean
+boolean - if the geometry is visible
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -626,7 +647,7 @@ Calculate the intersection of two meshes
 | b | [Mesh](../../com.aspose.threed/mesh) | Second mesh |
 
 **Returns:**
-[Mesh](../../com.aspose.threed/mesh) - Result mesh
+[Mesh](../../com.aspose.threed/mesh) - Result mesh **Example:** The following code shows how to calculate the difference of two meshes:
 ### iterator() {#iterator--}
 ```
 public Iterator<int[]> iterator()
@@ -675,6 +696,72 @@ Optimize the mesh's memory usage by eliminating duplicated control points
   //After optimized, there're only 86 control points, polygon indices are also remapped.
   Mesh optimized = mesh.optimize(true);
 ```
+### optimize(boolean vertexElements, float toleranceControlPoint) {#optimize-boolean-float-}
+```
+public Mesh optimize(boolean vertexElements, float toleranceControlPoint)
+```
+
+
+Optimize the mesh's memory usage by eliminating duplicated control points
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| vertexElements | boolean | Optimize duplicated vertex element data |
+| toleranceControlPoint | float | The tolerance for control point, default value is 1e-9 |
+
+**Returns:**
+[Mesh](../../com.aspose.threed/mesh) - New mesh instance with compact memory usage
+### optimize(boolean vertexElements, float toleranceControlPoint, float toleranceNormal) {#optimize-boolean-float-float-}
+```
+public Mesh optimize(boolean vertexElements, float toleranceControlPoint, float toleranceNormal)
+```
+
+
+Optimize the mesh's memory usage by eliminating duplicated control points
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| vertexElements | boolean | Optimize duplicated vertex element data |
+| toleranceControlPoint | float | The tolerance for control point, default value is 1e-9 |
+| toleranceNormal | float | The tolerance for normal/tangent/binormal default value is 1e-9 |
+
+**Returns:**
+[Mesh](../../com.aspose.threed/mesh) - New mesh instance with compact memory usage
+### optimize(boolean vertexElements, float toleranceControlPoint, float toleranceNormal, float toleranceUV) {#optimize-boolean-float-float-float-}
+```
+public Mesh optimize(boolean vertexElements, float toleranceControlPoint, float toleranceNormal, float toleranceUV)
+```
+
+
+Optimize the mesh's memory usage by eliminating duplicated control points
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| vertexElements | boolean | Optimize duplicated vertex element data |
+| toleranceControlPoint | float | The tolerance for control point, default value is 1e-9 |
+| toleranceNormal | float | The tolerance for normal/tangent/binormal default value is 1e-9 |
+| toleranceUV | float | The tolerance for uv, default value is 1e-9 |
+
+**Returns:**
+[Mesh](../../com.aspose.threed/mesh) - New mesh instance with compact memory usage
+### optimize2(boolean vertexElements) {#optimize2-boolean-}
+```
+public Mesh optimize2(boolean vertexElements)
+```
+
+
+Optimize the mesh's memory usage by eliminating duplicated control points
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| vertexElements | boolean | Optimize duplicated vertex element data |
+
+**Returns:**
+[Mesh](../../com.aspose.threed/mesh) - New mesh instance with compact memory usage
 ### removeProperty(Property property) {#removeProperty-com.aspose.threed.Property-}
 ```
 public boolean removeProperty(Property property)
@@ -701,10 +788,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setCastShadows(boolean value) {#setCastShadows-boolean-}
 ```
 public void setCastShadows(boolean value)
@@ -806,7 +893,7 @@ public Mesh toMesh()
 Gets the Mesh instance from current entity.
 
 **Returns:**
-[Mesh](../../com.aspose.threed/mesh)
+[Mesh](../../com.aspose.threed/mesh) - Returns current instance.
 ### toString() {#toString--}
 ```
 public String toString()
@@ -849,7 +936,7 @@ Calculate the union of two meshes
 | b | [Mesh](../../com.aspose.threed/mesh) | Second mesh |
 
 **Returns:**
-[Mesh](../../com.aspose.threed/mesh) - Result mesh
+[Mesh](../../com.aspose.threed/mesh) - Result mesh **Example:** The following code shows how to union two meshes into one mesh:
 ### wait() {#wait--}
 ```
 public final void wait()

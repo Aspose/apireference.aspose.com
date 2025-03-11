@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/shape/from_control_points/
 is_root: false
 ---
 
-## from_control_points {#list}
+## from_control_points(, control_points) {#list}
 
 Create a shape with specified control points with a default indices.
 
@@ -20,7 +20,9 @@ Create a shape with specified control points with a default indices.
 
 
 ```python
-def from_control_points(self, control_points):
+
+@staticmethod
+def from_control_points(control_points):
     ...
 ```
 

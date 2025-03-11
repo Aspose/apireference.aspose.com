@@ -18,7 +18,7 @@ public Material Material { get; set; }
 
 The material.
 
-### Examples
+## Examples
 
 ```csharp
 Scene scene = new Scene();
@@ -30,7 +30,7 @@ node.Material = new LambertMaterial();
 
 * class [Material](../../../aspose.threed.shading/material/)
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

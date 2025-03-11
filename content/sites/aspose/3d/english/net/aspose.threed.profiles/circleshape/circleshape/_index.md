@@ -17,7 +17,7 @@ public CircleShape()
 ### See Also
 
 * class [CircleShape](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../circleshape/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -32,12 +32,12 @@ public CircleShape(double radius)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| radius | Double |  |
+| radius | Double | Radius of the circle |
 
 ### See Also
 
 * class [CircleShape](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../circleshape/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -18,7 +18,7 @@ public CoordinateSystem? CoordinateSystem { get; set; }
 
 * enum [CoordinateSystem](../../coordinatesystem/)
 * class [AssetInfo](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../assetinfo/)
 * assembly [Aspose.3D](../../../)
 
 

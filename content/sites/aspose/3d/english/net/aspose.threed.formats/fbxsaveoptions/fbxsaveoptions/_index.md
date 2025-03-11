@@ -16,13 +16,13 @@ public FbxSaveOptions(FileFormat format)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| format | FileFormat |  |
+| format | FileFormat | Instance of [`FileFormat`](../../../aspose.threed/fileformat/), it should be a valid FBX format. |
 
 ### See Also
 
 * class [FileFormat](../../../aspose.threed/fileformat/)
 * class [FbxSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../fbxsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,13 +37,13 @@ public FbxSaveOptions(FileContentType contentType)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| contentType | FileContentType |  |
+| contentType | FileContentType | Binary or ASCII |
 
 ### See Also
 
 * enum [FileContentType](../../../aspose.threed/filecontenttype/)
 * class [FbxSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../fbxsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

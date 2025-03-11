@@ -3,7 +3,7 @@ title: Enum VertexFieldSemantic
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.VertexFieldSemantic enum. The semantic of the vertex field
 type: docs
-weight: 1490
+weight: 2840
 url: /net/aspose.threed.utilities/vertexfieldsemantic/
 ---
 ## VertexFieldSemantic enumeration
@@ -30,6 +30,8 @@ public enum VertexFieldSemantic
 | Visibility | `9` | Visibility for components |
 | Specular | `10` | Specular colors |
 | Weight | `11` | Blend weights |
+| MorphPosition | `12` | Position data for morph target |
+| MorphNormal | `13` | Normal data for morph target |
 
 ### See Also
 

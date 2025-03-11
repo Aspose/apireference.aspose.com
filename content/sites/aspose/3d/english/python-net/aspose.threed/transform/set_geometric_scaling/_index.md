@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/transform/set_geometric_scaling/
 is_root: false
 ---
 
-## set_geometric_scaling {#float-float-float}
+## set_geometric_scaling(self, sx, sy, sz) {#float-float-float}
 
 Sets the geometric scaling. 
 Geometric transformation only affects the entities attached and leave the child nodes unaffected.
@@ -17,6 +17,7 @@ It will be merged as local transformation when you export the geometric transfor
 
 
 ```python
+
 def set_geometric_scaling(self, sx, sy, sz):
     ...
 ```

@@ -34,7 +34,7 @@ color of the transparent.
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [LambertMaterial](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../lambertmaterial/)
 * assembly [Aspose.3D](../../../)
 
 

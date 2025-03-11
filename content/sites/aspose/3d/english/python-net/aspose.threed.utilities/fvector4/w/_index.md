@@ -12,6 +12,10 @@ is_root: false
 
 
 The w component.
+### Definition:
+```python
+f w 
+```
 
 ### See Also
 * module [`aspose.threed.utilities`](../../)

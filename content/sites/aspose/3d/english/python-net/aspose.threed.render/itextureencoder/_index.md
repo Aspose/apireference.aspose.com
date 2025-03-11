@@ -25,7 +25,7 @@ The ITextureEncoder type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [encode](/3d/python-net/aspose.threed.render/itextureencoder/encode/#aspose.threed.render.TextureData-io.RawIOBase) | Encode texture data into stream |
+| [`encode(self, texture, stream)`](/3d/python-net/aspose.threed.render/itextureencoder/encode/#aspose.threed.render.texturedata-io.rawiobase) | Encode texture data into stream |
 
 
 

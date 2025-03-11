@@ -18,7 +18,7 @@ public ReferenceMode ReferenceMode { get; set; }
 
 * enum [ReferenceMode](../../referencemode/)
 * class [VertexElement](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelement/)
 * assembly [Aspose.3D](../../../)
 
 

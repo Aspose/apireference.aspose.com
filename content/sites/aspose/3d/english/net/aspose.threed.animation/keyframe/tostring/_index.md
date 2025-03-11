@@ -17,7 +17,7 @@ public override string ToString()
 ### See Also
 
 * class [KeyFrame](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../keyframe/)
 * assembly [Aspose.3D](../../../)
 
 

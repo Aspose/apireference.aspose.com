@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.utilities/vector3/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of Vector3
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.threed.utilities.FVector3}
+## \_\_init\_\_(self, vec) {#aspose.threed.utilities.FVector3}
 
 Initializes a new instance of the [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) struct.
 
 
 
 ```python
+
 def __init__(self, vec):
     ...
 ```
@@ -39,13 +41,14 @@ def __init__(self, vec):
 | vec | [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3) | The x coordinate. |
 
 
-## __init__ {#float}
+## \_\_init\_\_(self, v) {#float}
 
 Initializes a new instance of the [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) struct.
 
 
 
 ```python
+
 def __init__(self, v):
     ...
 ```
@@ -56,13 +59,14 @@ def __init__(self, v):
 | v | float | V. |
 
 
-## __init__ {#aspose.threed.utilities.Vector4}
+## \_\_init\_\_(self, vec4) {#aspose.threed.utilities.Vector4}
 
 Initializes a new instance of the [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) struct.
 
 
 
 ```python
+
 def __init__(self, vec4):
     ...
 ```
@@ -73,13 +77,14 @@ def __init__(self, vec4):
 | vec4 | [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) | Vec4. |
 
 
-## __init__ {#float-float-float}
+## \_\_init\_\_(self, x, y, z) {#float-float-float}
 
 Initializes a new instance of the [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) struct.
 
 
 
 ```python
+
 def __init__(self, x, y, z):
     ...
 ```

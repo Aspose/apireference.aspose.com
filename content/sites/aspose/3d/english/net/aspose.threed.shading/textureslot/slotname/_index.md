@@ -17,7 +17,7 @@ public string SlotName { get; }
 ### See Also
 
 * class [TextureSlot](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../textureslot/)
 * assembly [Aspose.3D](../../../)
 
 

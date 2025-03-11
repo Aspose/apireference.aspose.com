@@ -3,7 +3,7 @@ title: Class RendererVariableManager
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.RendererVariableManager class. This class manages variables used in rendering
 type: docs
-weight: 730
+weight: 2250
 url: /net/aspose.threed.render/renderervariablemanager/
 ---
 ## RendererVariableManager class

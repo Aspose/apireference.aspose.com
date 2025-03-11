@@ -18,7 +18,7 @@ public override EntityRendererKey GetEntityRendererKey()
 
 * class [EntityRendererKey](../../../aspose.threed.render/entityrendererkey/)
 * class [Curve](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../curve/)
 * assembly [Aspose.3D](../../../)
 
 

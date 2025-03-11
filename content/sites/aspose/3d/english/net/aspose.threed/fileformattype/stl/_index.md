@@ -3,7 +3,7 @@ title: FileFormatType.STL
 second_title: Aspose.3D for .NET API Reference
 description: FileFormatType field. STL file format type
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.threed/fileformattype/stl/
 ---
 ## FileFormatType.STL field
@@ -17,7 +17,7 @@ public static readonly FileFormatType STL;
 ### See Also
 
 * class [FileFormatType](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformattype/)
 * assembly [Aspose.3D](../../../)
 
 

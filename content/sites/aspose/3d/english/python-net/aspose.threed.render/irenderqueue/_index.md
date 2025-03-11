@@ -19,7 +19,7 @@ The IRenderQueue type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add](/3d/python-net/aspose.threed.render/irenderqueue/add/#aspose.threed.render.RenderQueueGroupId-aspose.threed.render.IPipeline-any-int) | Add render task to the render queue. |
+| [`add(self, group_id, pipeline, renderable_resource, sub_entity)`](/3d/python-net/aspose.threed.render/irenderqueue/add/#aspose.threed.render.renderqueuegroupid-aspose.threed.render.ipipeline-any-int) | Add render task to the render queue. |
 
 
 

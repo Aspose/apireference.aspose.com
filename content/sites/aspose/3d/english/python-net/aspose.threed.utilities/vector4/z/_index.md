@@ -12,6 +12,10 @@ is_root: false
 
 
 The z component.
+### Definition:
+```python
+f z 
+```
 
 ### See Also
 * module [`aspose.threed.utilities`](../../)

@@ -23,7 +23,7 @@ public static TriMesh FromMesh(VertexDeclaration declaration, Mesh mesh)
 
 Instance of TriMesh converted from input mesh with specified vertex's memory layout
 
-### Examples
+## Examples
 
 The following code shows how to create a TriMesh with custom memory layout, and export it to file.
 
@@ -50,7 +50,7 @@ using (var stream = new FileStream("output.bin", FileMode.Create))
 * class [VertexDeclaration](../../../aspose.threed.utilities/vertexdeclaration/)
 * class [Mesh](../../mesh/)
 * class [TriMesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../trimesh/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -72,7 +72,7 @@ public static TriMesh FromMesh(Mesh mesh, bool useFloat = true)
 
 The [`TriMesh`](../) generated from given [`Mesh`](../../mesh/)
 
-### Examples
+## Examples
 
 The following code shows how to create a TriMesh with custom memory layout, and export it to file.
 
@@ -98,7 +98,7 @@ using (var stream = new FileStream("output.bin", FileMode.Create))
 
 * class [Mesh](../../mesh/)
 * class [TriMesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../trimesh/)
 * assembly [Aspose.3D](../../../)
 
 

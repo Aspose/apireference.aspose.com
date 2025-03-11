@@ -17,7 +17,7 @@ public VertexElementUV()
 ### See Also
 
 * class [VertexElementUV](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementuv/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -38,7 +38,7 @@ public VertexElementUV(TextureMapping textureMapping)
 
 * enum [TextureMapping](../../texturemapping/)
 * class [VertexElementUV](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementuv/)
 * assembly [Aspose.3D](../../../)
 
 

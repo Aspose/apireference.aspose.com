@@ -3,7 +3,7 @@ title: FileFormat.PLY
 second_title: Aspose.3D for .NET API Reference
 description: FileFormat field. Polygon File Format or Stanford Triangle Format
 type: docs
-weight: 600
+weight: 620
 url: /net/aspose.threed/fileformat/ply/
 ---
 ## FileFormat.PLY field
@@ -18,7 +18,7 @@ public static readonly PlyFormat PLY;
 
 * class [PlyFormat](../../../aspose.threed.formats/plyformat/)
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 

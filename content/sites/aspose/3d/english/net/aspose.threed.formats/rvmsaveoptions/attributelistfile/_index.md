@@ -14,7 +14,7 @@ Gets or sets the file name of attribute list file, exporter will generate a name
 public string AttributeListFile { get; set; }
 ```
 
-### Examples
+## Examples
 
 The following code shows how to export attribute in RVM.
 
@@ -37,7 +37,7 @@ scene.Save("output.rvm", opt);
 ### See Also
 
 * class [RvmSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../rvmsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

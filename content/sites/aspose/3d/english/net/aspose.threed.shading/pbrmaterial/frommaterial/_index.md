@@ -18,7 +18,7 @@ public static PbrMaterial FromMaterial(Material material)
 | --- | --- | --- |
 | material | Material |  |
 
-### Examples
+## Examples
 
 ```csharp
 var mat = new LambertMaterial();
@@ -33,7 +33,7 @@ PbrMaterial pbr = PbrMaterial.FromMaterial(mat);
 
 * class [Material](../../material/)
 * class [PbrMaterial](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../pbrmaterial/)
 * assembly [Aspose.3D](../../../)
 
 

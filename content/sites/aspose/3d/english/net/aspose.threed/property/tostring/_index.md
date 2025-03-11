@@ -3,7 +3,7 @@ title: Property.ToString
 second_title: Aspose.3D for .NET API Reference
 description: Property method. Returns a string that represents the current Property
 type: docs
-weight: 60
+weight: 80
 url: /net/aspose.threed/property/tostring/
 ---
 ## Property.ToString method
@@ -21,7 +21,7 @@ A string that represents the current [`Property`](../).
 ### See Also
 
 * class [Property](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../property/)
 * assembly [Aspose.3D](../../../)
 
 

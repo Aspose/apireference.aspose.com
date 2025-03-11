@@ -3,7 +3,7 @@ title: unit_x property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 140
 url: /python-net/aspose.threed.utilities/vector3/unit_x/
 is_root: false
 ---

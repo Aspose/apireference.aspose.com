@@ -27,7 +27,7 @@ public Viewport CreateViewport(Camera camera, Vector3 backgroundColor, RelativeR
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * struct [RelativeRectangle](../../../aspose.threed.utilities/relativerectangle/)
 * interface [IRenderTarget](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../irendertarget/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -51,7 +51,7 @@ public Viewport CreateViewport(Camera camera, RelativeRectangle rect)
 * class [Camera](../../../aspose.threed.entities/camera/)
 * struct [RelativeRectangle](../../../aspose.threed.utilities/relativerectangle/)
 * interface [IRenderTarget](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../irendertarget/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -73,7 +73,7 @@ public Viewport CreateViewport(Camera camera)
 * class [Viewport](../../viewport/)
 * class [Camera](../../../aspose.threed.entities/camera/)
 * interface [IRenderTarget](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../irendertarget/)
 * assembly [Aspose.3D](../../../)
 
 

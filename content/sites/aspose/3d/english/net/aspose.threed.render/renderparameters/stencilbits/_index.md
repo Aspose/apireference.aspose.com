@@ -17,7 +17,7 @@ public int StencilBits { get; set; }
 ### See Also
 
 * class [RenderParameters](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderparameters/)
 * assembly [Aspose.3D](../../../)
 
 

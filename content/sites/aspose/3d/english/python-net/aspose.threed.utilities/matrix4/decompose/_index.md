@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.utilities/matrix4/decompose/
 is_root: false
 ---
 
-## decompose {#any-any-any}
+## decompose(self, translation, scaling, rotation) {#any-any-any}
 
 
 
 
 
 ```python
+
 def decompose(self, translation, scaling, rotation):
     ...
 ```

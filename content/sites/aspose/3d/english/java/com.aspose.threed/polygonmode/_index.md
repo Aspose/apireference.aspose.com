@@ -3,7 +3,7 @@ title: PolygonMode
 second_title: Aspose.3D for Java API Reference
 description: The polygon rasterization mode
 type: docs
-weight: 275
+weight: 287
 url: /java/com.aspose.threed/polygonmode/
 ---
 

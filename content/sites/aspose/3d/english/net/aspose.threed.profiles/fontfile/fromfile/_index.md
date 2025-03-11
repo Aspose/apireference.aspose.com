@@ -22,7 +22,13 @@ public static FontFile FromFile(string fileName)
 
 FontFile instance
 
-### Examples
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed to read from file. |
+
+## Examples
 
 The following code shows how to create a 3D mesh from text using specified font file.
 
@@ -40,7 +46,7 @@ scene.Save(@"test.stl");
 ### See Also
 
 * class [FontFile](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../fontfile/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -19,7 +19,7 @@ public BoundingBox(Vector3 minimum, Vector3 maximum)
 | minimum | Vector3 | The minimum corner |
 | maximum | Vector3 | The maximum corner |
 
-### Examples
+## Examples
 
 The following code shows how to construct a bounding box from minimum and maximum corners.
 
@@ -34,7 +34,7 @@ Console.WriteLine("Bounding box = " + boundingBox);
 
 * struct [Vector3](../../vector3/)
 * struct [BoundingBox](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -47,7 +47,16 @@ Initialize a finite bounding box with given minimum and maximum corner
 public BoundingBox(double minX, double minY, double minZ, double maxX, double maxY, double maxZ)
 ```
 
-### Examples
+| Parameter | Type | Description |
+| --- | --- | --- |
+| minX | Double | The minimum corner's X |
+| minY | Double | The minimum corner's Y |
+| minZ | Double | The minimum corner's Z |
+| maxX | Double | The maximum corner's X |
+| maxY | Double | The maximum corner's Y |
+| maxZ | Double | The maximum corner's Z |
+
+## Examples
 
 The following code shows how to construct a bounding box from minimum and maximum corners.
 
@@ -59,7 +68,7 @@ Console.WriteLine("Bounding box = " + boundingBox);
 ### See Also
 
 * struct [BoundingBox](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox/)
 * assembly [Aspose.3D](../../../)
 
 

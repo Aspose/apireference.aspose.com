@@ -23,7 +23,7 @@ public static Quaternion Slerp(double t, Quaternion v1, Quaternion v2)
 ### See Also
 
 * struct [Quaternion](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../quaternion/)
 * assembly [Aspose.3D](../../../)
 
 

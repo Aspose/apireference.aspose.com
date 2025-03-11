@@ -3,7 +3,7 @@ title: Struct Vector2
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.Vector2 struct. A vector with two components
 type: docs
-weight: 1380
+weight: 2770
 url: /net/aspose.threed.utilities/vector2/
 ---
 ## Vector2 structure

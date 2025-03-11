@@ -8,13 +8,14 @@ url: /python-net/aspose.threed/transform/set_post_rotation/
 is_root: false
 ---
 
-## set_post_rotation {#float-float-float}
+## set_post_rotation(self, rx, ry, rz) {#float-float-float}
 
 Sets the post-rotation represented in degree
 
 
 
 ```python
+
 def set_post_rotation(self, rx, ry, rz):
     ...
 ```

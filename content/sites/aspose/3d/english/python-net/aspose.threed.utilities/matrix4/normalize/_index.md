@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/matrix4/normalize/
 is_root: false
 ---
 
-## normalize {#}
+## normalize(self) {#}
 
 Normalizes this instance.
 
@@ -20,6 +20,7 @@ Normalize matrix4
 
 
 ```python
+
 def normalize(self):
     ...
 ```

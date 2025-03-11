@@ -17,7 +17,7 @@ public string ShaderFile { get; set; }
 ### See Also
 
 * class [ShaderTechnique](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../shadertechnique/)
 * assembly [Aspose.3D](../../../)
 
 

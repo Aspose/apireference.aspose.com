@@ -23,7 +23,7 @@ public Vector4(Vector3 vec, double w)
 
 * struct [Vector3](../../vector3/)
 * struct [Vector4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -44,7 +44,7 @@ public Vector4(Vector3 vec)
 
 * struct [Vector3](../../vector3/)
 * struct [Vector4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -65,7 +65,7 @@ public Vector4(FVector4 vec)
 
 * struct [FVector4](../../fvector4/)
 * struct [Vector4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -87,7 +87,7 @@ public Vector4(double x, double y, double z)
 ### See Also
 
 * struct [Vector4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -110,7 +110,7 @@ public Vector4(double x, double y, double z, double w)
 ### See Also
 
 * struct [Vector4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector4/)
 * assembly [Aspose.3D](../../../)
 
 

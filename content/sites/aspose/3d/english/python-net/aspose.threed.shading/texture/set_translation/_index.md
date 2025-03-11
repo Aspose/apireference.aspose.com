@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.shading/texture/set_translation/
 is_root: false
 ---
 
-## set_translation {#float-float}
+## set_translation(self, u, v) {#float-float}
 
 Sets the UV translation.
 
 
 
 ```python
+
 def set_translation(self, u, v):
     ...
 ```

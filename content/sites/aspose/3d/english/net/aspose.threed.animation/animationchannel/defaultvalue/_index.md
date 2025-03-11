@@ -17,7 +17,7 @@ public object DefaultValue { get; set; }
 ### See Also
 
 * class [AnimationChannel](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../animationchannel/)
 * assembly [Aspose.3D](../../../)
 
 

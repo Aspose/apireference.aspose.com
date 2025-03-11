@@ -3,12 +3,12 @@ title: from_file method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /python-net/aspose.threed.render/texturedata/from_file/
 is_root: false
 ---
 
-## from_file {#str}
+## from_file(, file_name) {#str}
 
 Load a texture from file
 
@@ -20,7 +20,9 @@ Load a texture from file
 
 
 ```python
-def from_file(self, file_name):
+
+@staticmethod
+def from_file(file_name):
     ...
 ```
 

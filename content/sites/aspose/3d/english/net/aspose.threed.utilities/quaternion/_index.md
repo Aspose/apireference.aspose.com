@@ -3,7 +3,7 @@ title: Struct Quaternion
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.Quaternion struct. Quaternion is usually used to perform rotation in computer graphics
 type: docs
-weight: 1340
+weight: 2710
 url: /net/aspose.threed.utilities/quaternion/
 ---
 ## Quaternion structure
@@ -45,7 +45,8 @@ public struct Quaternion
 | [Inverse](../../aspose.threed.utilities/quaternion/inverse/)() | Returns a inverse quaternion of current quaternion |
 | [Normalize](../../aspose.threed.utilities/quaternion/normalize/)() | Normalize the quaternion |
 | [ToAngleAxis](../../aspose.threed.utilities/quaternion/toangleaxis/)(out double, out Vector3) |  |
-| [ToMatrix](../../aspose.threed.utilities/quaternion/tomatrix/)() | Convert the rotation presented by quaternion to transform matrix. |
+| [ToMatrix](../../aspose.threed.utilities/quaternion/tomatrix/#tomatrix)() | Convert the rotation presented by quaternion to transform matrix. |
+| [ToMatrix](../../aspose.threed.utilities/quaternion/tomatrix/#tomatrix_1)(Vector3) | Convert the rotation presented by quaternion to transform matrix. |
 | override [ToString](../../aspose.threed.utilities/quaternion/tostring/)() | Gets the representation of quaternion in string |
 | [operator +](../../aspose.threed.utilities/quaternion/op_addition/) | Operator overloading for + |
 | [operator /](../../aspose.threed.utilities/quaternion/op_division/) | Operator overloading for / |

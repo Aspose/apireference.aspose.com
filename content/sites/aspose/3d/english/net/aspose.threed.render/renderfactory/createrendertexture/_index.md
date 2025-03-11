@@ -27,7 +27,7 @@ public abstract IRenderTexture CreateRenderTexture(RenderParameters parameters, 
 * interface [IRenderTexture](../../irendertexture/)
 * class [RenderParameters](../../renderparameters/)
 * class [RenderFactory](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderfactory/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -52,7 +52,7 @@ public abstract IRenderTexture CreateRenderTexture(RenderParameters parameters, 
 * interface [IRenderTexture](../../irendertexture/)
 * class [RenderParameters](../../renderparameters/)
 * class [RenderFactory](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderfactory/)
 * assembly [Aspose.3D](../../../)
 
 

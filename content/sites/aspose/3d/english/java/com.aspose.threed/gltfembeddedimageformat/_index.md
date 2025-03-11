@@ -3,7 +3,7 @@ title: GltfEmbeddedImageFormat
 second_title: Aspose.3D for Java API Reference
 description: How glTF exporter will embed the textures during the exporting.
 type: docs
-weight: 264
+weight: 276
 url: /java/com.aspose.threed/gltfembeddedimageformat/
 ---
 

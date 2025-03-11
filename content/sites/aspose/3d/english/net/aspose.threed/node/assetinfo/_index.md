@@ -18,7 +18,7 @@ public AssetInfo AssetInfo { get; set; }
 
 * class [AssetInfo](../../assetinfo/)
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -16,7 +16,7 @@ public VertexField this[int index] { get; }
 
 * class [VertexField](../../vertexfield/)
 * class [VertexDeclaration](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vertexdeclaration/)
 * assembly [Aspose.3D](../../../)
 
 

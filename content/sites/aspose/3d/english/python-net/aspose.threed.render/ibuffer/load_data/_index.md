@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.render/ibuffer/load_data/
 is_root: false
 ---
 
-## load_data {#bytes}
+## load_data(self, data) {#bytes}
 
 Load the data into current buffer
 
 
 
 ```python
+
 def load_data(self, data):
     ...
 ```

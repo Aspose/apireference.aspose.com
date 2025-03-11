@@ -3,7 +3,7 @@ title: Rect
 second_title: Aspose.3D for Java API Reference
 description: A class to represent the rectangle
 type: docs
-weight: 134
+weight: 140
 url: /java/com.aspose.threed/rect/
 ---
 
@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/rect/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.csporter.helpers.Struct, java.io.Serializable
+com.aspose.threed.Struct, java.io.Serializable
 ```
 public final class Rect implements Struct<Rect>, Serializable
 ```
@@ -79,7 +79,7 @@ public Rect clone()
 ```
 
 
-
+Clone current instance
 
 **Returns:**
 [Rect](../../com.aspose.threed/rect)
@@ -136,7 +136,7 @@ public int getBottom()
 Gets the bottom of the rectangle
 
 **Returns:**
-int
+int - the bottom of the rectangle
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -156,7 +156,7 @@ public int getHeight()
 Gets the height of the size
 
 **Returns:**
-int
+int - the height of the size
 ### getLeft() {#getLeft--}
 ```
 public int getLeft()
@@ -166,7 +166,7 @@ public int getLeft()
 Gets the left of the rectangle
 
 **Returns:**
-int
+int - the left of the rectangle
 ### getRight() {#getRight--}
 ```
 public int getRight()
@@ -176,7 +176,7 @@ public int getRight()
 Gets the right of the rectangle
 
 **Returns:**
-int
+int - the right of the rectangle
 ### getTop() {#getTop--}
 ```
 public int getTop()
@@ -186,7 +186,7 @@ public int getTop()
 Gets the top of the rectangle
 
 **Returns:**
-int
+int - the top of the rectangle
 ### getWidth() {#getWidth--}
 ```
 public int getWidth()
@@ -196,7 +196,7 @@ public int getWidth()
 Gets the width of the size
 
 **Returns:**
-int
+int - the width of the size
 ### getX() {#getX--}
 ```
 public int getX()
@@ -206,7 +206,7 @@ public int getX()
 Gets the x of the size
 
 **Returns:**
-int
+int - the x of the size
 ### getY() {#getY--}
 ```
 public int getY()
@@ -216,7 +216,7 @@ public int getY()
 Gets the y of the size
 
 **Returns:**
-int
+int - the y of the size
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()

@@ -3,18 +3,19 @@ title: load_vertices_from_bytes method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /python-net/aspose.threed.entities/trimesh/load_vertices_from_bytes/
 is_root: false
 ---
 
-## load_vertices_from_bytes {#bytes}
+## load_vertices_from_bytes(self, vertices_in_bytes) {#bytes}
 
 Load vertices from bytes, the length of bytes must be an integer multiple of vertex size.
 
 
 
 ```python
+
 def load_vertices_from_bytes(self, vertices_in_bytes):
     ...
 ```
@@ -30,11 +31,6 @@ def load_vertices_from_bytes(self, vertices_in_bytes):
 | ArgumentException |  |
 
 
-
-### Example 
-
-
-The following code shows how to create an empty TriMesh and manually load vertices from raw bytes.
 
 
 

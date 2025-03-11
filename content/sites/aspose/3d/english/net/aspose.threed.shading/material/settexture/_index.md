@@ -19,7 +19,7 @@ public void SetTexture(string slotName, TextureBase texture)
 | slotName | String | Slot name. |
 | texture | TextureBase | Texture. |
 
-### Examples
+## Examples
 
 ```csharp
 var mat = new LambertMaterial();
@@ -32,7 +32,7 @@ mat.SetTexture(Material.MapNormal, tex);
 
 * class [TextureBase](../../texturebase/)
 * class [Material](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../material/)
 * assembly [Aspose.3D](../../../)
 
 

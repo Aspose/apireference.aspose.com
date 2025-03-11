@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/linearextrusion/to_mesh/
 is_root: false
 ---
 
-## to_mesh {#}
+## to_mesh(self) {#}
 
 Convert the extrusion to mesh.
 
@@ -20,6 +20,7 @@ Convert the extrusion to mesh.
 
 
 ```python
+
 def to_mesh(self):
     ...
 ```

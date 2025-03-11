@@ -3,7 +3,7 @@ title: Light
 second_title: Aspose.3D for Java API Reference
 description: The light illuminates the scene.
 type: docs
-weight: 87
+weight: 90
 url: /java/com.aspose.threed/light/
 ---
 
@@ -166,14 +166,17 @@ public double getAspect()
 Gets the aspect ratio of the frustum
 
 **Returns:**
-double
+double - the aspect ratio of the frustum
 ### getBoundingBox() {#getBoundingBox--}
 ```
 public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+Gets the bounding box of current entity in its object space coordinate system.
+
+**Returns:**
+[BoundingBox](../../com.aspose.threed/boundingbox) - the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
 
 ```
 Entity entity = new Sphere();
@@ -181,9 +184,6 @@ Entity entity = new Sphere();
      var bbox = entity.getBoundingBox();
      System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
 ```
-
-**Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
 ### getCastLight() {#getCastLight--}
 ```
 public boolean getCastLight()
@@ -193,7 +193,7 @@ public boolean getCastLight()
 Gets if the current light instance can illuminate other objects.
 
 **Returns:**
-boolean
+boolean - if the current light instance can illuminate other objects.
 ### getCastShadows() {#getCastShadows--}
 ```
 public boolean getCastShadows()
@@ -203,7 +203,7 @@ public boolean getCastShadows()
 Gets if the light can cast shadows on other objects.
 
 **Returns:**
-boolean
+boolean - if the light can cast shadows on other objects.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -223,7 +223,7 @@ public Vector3 getColor()
 Gets the light's color
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the light's color
 ### getConstantAttenuation() {#getConstantAttenuation--}
 ```
 public double getConstantAttenuation()
@@ -233,7 +233,7 @@ public double getConstantAttenuation()
 Gets the constant attenuation to calculate the total attenuation of the light
 
 **Returns:**
-double
+double - the constant attenuation to calculate the total attenuation of the light
 ### getDirection() {#getDirection--}
 ```
 public Vector3 getDirection()
@@ -243,7 +243,7 @@ public Vector3 getDirection()
 Gets the direction that the camera is looking at. Changes on this property will also affects the [getLookAt](../../com.aspose.threed/frustum\#getLookAt) and [getTarget](../../com.aspose.threed/frustum\#getTarget).
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the direction that the camera is looking at. Changes on this property will also affects the [getLookAt](../../com.aspose.threed/frustum\#getLookAt) and [getTarget](../../com.aspose.threed/frustum\#getTarget).
 ### getEntityRendererKey() {#getEntityRendererKey--}
 ```
 public EntityRendererKey getEntityRendererKey()
@@ -253,7 +253,7 @@ public EntityRendererKey getEntityRendererKey()
 Gets the key of the entity renderer registered in the renderer
 
 **Returns:**
-[EntityRendererKey](../../com.aspose.threed/entityrendererkey)
+[EntityRendererKey](../../com.aspose.threed/entityrendererkey) - the key of the entity renderer registered in the renderer
 ### getExcluded() {#getExcluded--}
 ```
 public boolean getExcluded()
@@ -263,7 +263,7 @@ public boolean getExcluded()
 Gets whether to exclude this entity during exporting.
 
 **Returns:**
-boolean
+boolean - whether to exclude this entity during exporting.
 ### getFalloff() {#getFalloff--}
 ```
 public double getFalloff()
@@ -273,7 +273,7 @@ public double getFalloff()
 Gets the falloff cone angle (in degrees).
 
 **Returns:**
-double
+double - the falloff cone angle (in degrees).
 ### getFarPlane() {#getFarPlane--}
 ```
 public double getFarPlane()
@@ -283,7 +283,7 @@ public double getFarPlane()
 Gets the frustum's far plane distance.
 
 **Returns:**
-double
+double - the frustum's far plane distance.
 ### getHotSpot() {#getHotSpot--}
 ```
 public double getHotSpot()
@@ -293,7 +293,7 @@ public double getHotSpot()
 Gets the hot spot cone angle(in degrees).
 
 **Returns:**
-double
+double - the hot spot cone angle(in degrees).
 ### getIntensity() {#getIntensity--}
 ```
 public double getIntensity()
@@ -303,7 +303,7 @@ public double getIntensity()
 Gets the light's intensity, default value is 100
 
 **Returns:**
-double
+double - the light's intensity, default value is 100
 ### getLightType() {#getLightType--}
 ```
 public LightType getLightType()
@@ -313,7 +313,7 @@ public LightType getLightType()
 Gets the light's type
 
 **Returns:**
-[LightType](../../com.aspose.threed/lighttype)
+[LightType](../../com.aspose.threed/lighttype) - the light's type
 ### getLinearAttenuation() {#getLinearAttenuation--}
 ```
 public double getLinearAttenuation()
@@ -323,7 +323,7 @@ public double getLinearAttenuation()
 Gets the linear attenuation to calculate the total attenuation of the light
 
 **Returns:**
-double
+double - the linear attenuation to calculate the total attenuation of the light
 ### getLookAt() {#getLookAt--}
 ```
 public Vector3 getLookAt()
@@ -333,7 +333,7 @@ public Vector3 getLookAt()
 Gets the the interested position that the camera is looking at.
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the the interested position that the camera is looking at.
 ### getName() {#getName--}
 ```
 public String getName()
@@ -343,7 +343,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getNearPlane() {#getNearPlane--}
 ```
 public double getNearPlane()
@@ -353,7 +353,7 @@ public double getNearPlane()
 Gets the frustum's near plane distance.
 
 **Returns:**
-double
+double - the frustum's near plane distance.
 ### getOrthoHeight() {#getOrthoHeight--}
 ```
 public double getOrthoHeight()
@@ -363,7 +363,7 @@ public double getOrthoHeight()
 Gets the height when frustum in orthographic projection.
 
 **Returns:**
-double
+double - the height when frustum in orthographic projection.
 ### getParentNode() {#getParentNode--}
 ```
 public Node getParentNode()
@@ -373,7 +373,7 @@ public Node getParentNode()
 Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 ### getParentNodes() {#getParentNodes--}
 ```
 public ArrayList<Node> getParentNodes()
@@ -383,7 +383,7 @@ public ArrayList<Node> getParentNodes()
 Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 
 **Returns:**
-java.util.ArrayList<com.aspose.threed.Node>
+java.util.ArrayList<com.aspose.threed.Node> - all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -393,7 +393,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -418,7 +418,7 @@ public double getQuadraticAttenuation()
 Gets the quadratic attenuation to calculate the total attenuation of the light
 
 **Returns:**
-double
+double - the quadratic attenuation to calculate the total attenuation of the light
 ### getRotationMode() {#getRotationMode--}
 ```
 public RotationMode getRotationMode()
@@ -428,7 +428,7 @@ public RotationMode getRotationMode()
 Gets the frustum's orientation mode This property only works when the [getTarget](../../com.aspose.threed/frustum\#getTarget) is null. If the value is [RotationMode.FIXED\_TARGET](../../com.aspose.threed/rotationmode\#FIXED-TARGET), the direction is always calculated by the property [getLookAt](../../com.aspose.threed/frustum\#getLookAt) Otherwise the [getLookAt](../../com.aspose.threed/frustum\#getLookAt) is always calculated by the [getDirection](../../com.aspose.threed/frustum\#getDirection)
 
 **Returns:**
-[RotationMode](../../com.aspose.threed/rotationmode)
+[RotationMode](../../com.aspose.threed/rotationmode) - the frustum's orientation mode This property only works when the [getTarget](../../com.aspose.threed/frustum\#getTarget) is null. If the value is [RotationMode.FIXED\_TARGET](../../com.aspose.threed/rotationmode\#FIXED-TARGET), the direction is always calculated by the property [getLookAt](../../com.aspose.threed/frustum\#getLookAt) Otherwise the [getLookAt](../../com.aspose.threed/frustum\#getLookAt) is always calculated by the [getDirection](../../com.aspose.threed/frustum\#getDirection)
 ### getScene() {#getScene--}
 ```
 public Scene getScene()
@@ -438,7 +438,7 @@ public Scene getScene()
 Gets the scene that this object belongs to
 
 **Returns:**
-[Scene](../../com.aspose.threed/scene)
+[Scene](../../com.aspose.threed/scene) - the scene that this object belongs to
 ### getShadowColor() {#getShadowColor--}
 ```
 public Vector3 getShadowColor()
@@ -448,7 +448,7 @@ public Vector3 getShadowColor()
 Gets the shadow's color.
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the shadow's color.
 ### getTarget() {#getTarget--}
 ```
 public Node getTarget()
@@ -458,7 +458,7 @@ public Node getTarget()
 Gets the target that the camera is looking at. If the user supports this property, it should be prior to [getLookAt](../../com.aspose.threed/frustum\#getLookAt) property.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the target that the camera is looking at. If the user supports this property, it should be prior to [getLookAt](../../com.aspose.threed/frustum\#getLookAt) property.
 ### getUp() {#getUp--}
 ```
 public Vector3 getUp()
@@ -468,7 +468,7 @@ public Vector3 getUp()
 Gets the up direction of the camera
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the up direction of the camera
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -521,10 +521,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setAspect(double value) {#setAspect-double-}
 ```
 public void setAspect(double value)

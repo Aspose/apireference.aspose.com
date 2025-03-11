@@ -14,11 +14,11 @@ Gets or sets the transform matrix.
 public Matrix4 TransformMatrix { get; set; }
 ```
 
-### Remarks
+## Remarks
 
-Assign on this will reset the [`Translation`](../translation/), Scale and [`Rotation`](../rotation/), the [`GeometricRotation`](../geometricrotation/), [`GeometricScaling`](../geometricscaling/) and [`GeometricTranslation`](../geometrictranslation/) will not be affected.
+Assign on this will reset the [`Translation`](../translation/), [`Scaling`](../scaling/) and [`Rotation`](../rotation/), the [`GeometricRotation`](../geometricrotation/), [`GeometricScaling`](../geometricscaling/) and [`GeometricTranslation`](../geometrictranslation/) will not be affected.
 
-### Examples
+## Examples
 
 ```csharp
 Node node = new Node();
@@ -29,7 +29,7 @@ node.Transform.TransformMatrix = Matrix4.Identity;
 
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [Transform](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../transform/)
 * assembly [Aspose.3D](../../../)
 
 

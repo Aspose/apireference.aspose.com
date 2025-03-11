@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.shading/pbrspecularmaterial/set_texture/
 is_root: false
 ---
 
-## set_texture {#str-aspose.threed.shading.TextureBase}
+## set_texture(self, slot_name, texture) {#str-aspose.threed.shading.TextureBase}
 
 Sets the texture to specified slot
 
 
 
 ```python
+
 def set_texture(self, slot_name, texture):
     ...
 ```

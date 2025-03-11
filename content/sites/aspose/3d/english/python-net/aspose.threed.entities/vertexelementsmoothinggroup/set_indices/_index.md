@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.entities/vertexelementsmoothinggroup/set_indices/
 is_root: false
 ---
 
-## set_indices {#list}
+## set_indices(self, data) {#list}
 
 Load indices
 
 
 
 ```python
+
 def set_indices(self, data):
     ...
 ```

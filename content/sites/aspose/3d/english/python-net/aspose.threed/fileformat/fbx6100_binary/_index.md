@@ -3,7 +3,7 @@ title: FBX6100_BINARY property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /python-net/aspose.threed/fileformat/fbx6100_binary/
 is_root: false
 ---
@@ -12,6 +12,10 @@ is_root: false
 
 
 Binary FBX file format, with 6.1.0 version
+### Definition:
+```python
+f FBX6100_BINARY 
+```
 
 ### See Also
 * module [`aspose.threed`](../../)

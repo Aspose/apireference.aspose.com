@@ -12,7 +12,12 @@ is_root: false
 
 
 Additive manufacturing file format
+### Definition:
+```python
+f AMF 
+```
 
 ### See Also
 * module [`aspose.threed.formats`](../../)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)
 * class [`PdfFormat`](/3d/python-net/aspose.threed.formats/pdfformat)

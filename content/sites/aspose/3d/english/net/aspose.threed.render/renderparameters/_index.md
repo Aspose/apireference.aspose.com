@@ -3,7 +3,7 @@ title: Class RenderParameters
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.RenderParameters class. Describe the parameters of the render target
 type: docs
-weight: 740
+weight: 2190
 url: /net/aspose.threed.render/renderparameters/
 ---
 ## RenderParameters class

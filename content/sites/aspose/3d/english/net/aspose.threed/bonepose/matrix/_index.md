@@ -18,7 +18,7 @@ public Matrix4 Matrix { get; set; }
 
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [BonePose](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../bonepose/)
 * assembly [Aspose.3D](../../../)
 
 

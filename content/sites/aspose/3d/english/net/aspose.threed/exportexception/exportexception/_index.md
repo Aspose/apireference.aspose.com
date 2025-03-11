@@ -21,7 +21,7 @@ public ExportException(string msg)
 ### See Also
 
 * class [ExportException](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../exportexception/)
 * assembly [Aspose.3D](../../../)
 
 

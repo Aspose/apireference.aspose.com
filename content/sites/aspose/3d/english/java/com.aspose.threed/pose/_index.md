@@ -3,7 +3,7 @@ title: Pose
 second_title: Aspose.3D for Java API Reference
 description: The pose is used to store transformation matrix when the geometry is skinned.
 type: docs
-weight: 125
+weight: 131
 url: /java/com.aspose.threed/pose/
 ---
 
@@ -135,7 +135,7 @@ public List<BonePose> getBonePoses()
 Gets all [BonePose](../../com.aspose.threed/bonepose).
 
 **Returns:**
-java.util.List<com.aspose.threed.BonePose>
+java.util.List<com.aspose.threed.BonePose> - all [BonePose](../../com.aspose.threed/bonepose).
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -155,7 +155,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getPoseType() {#getPoseType--}
 ```
 public PoseType getPoseType()
@@ -165,7 +165,7 @@ public PoseType getPoseType()
 Gets the type of the pose.
 
 **Returns:**
-[PoseType](../../com.aspose.threed/posetype)
+[PoseType](../../com.aspose.threed/posetype) - the type of the pose.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -175,7 +175,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -243,10 +243,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setName(String value) {#setName-java.lang.String-}
 ```
 public void setName(String value)

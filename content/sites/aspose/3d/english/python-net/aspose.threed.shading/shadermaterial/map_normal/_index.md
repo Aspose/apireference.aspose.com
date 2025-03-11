@@ -12,6 +12,10 @@ is_root: false
 
 
 Used in [`Material.set_texture`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a normal texture mapping.
+### Definition:
+```python
+f MAP_NORMAL 
+```
 
 ### See Also
 * module [`aspose.threed.shading`](../../)

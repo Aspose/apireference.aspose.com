@@ -3,18 +3,19 @@ title: save method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 80
 url: /python-net/aspose.threed.render/texturedata/save/
 is_root: false
 ---
 
-## save {#str}
+## save(self, file_name) {#str}
 
 Save texture data into image file
 
 
 
 ```python
+
 def save(self, file_name):
     ...
 ```
@@ -25,13 +26,14 @@ def save(self, file_name):
 | file_name | str | The file name of where the image will be saved. |
 
 
-## save {#io.RawIOBase-str}
+## save(self, stream, format) {#io.RawIOBase-str}
 
 Save texture data into specified image format
 
 
 
 ```python
+
 def save(self, stream, format):
     ...
 ```
@@ -43,13 +45,14 @@ def save(self, stream, format):
 | format | str | Image format, usually file extension |
 
 
-## save {#str-str}
+## save(self, file_name, format) {#str-str}
 
 Save texture data into image file
 
 
 
 ```python
+
 def save(self, file_name, format):
     ...
 ```

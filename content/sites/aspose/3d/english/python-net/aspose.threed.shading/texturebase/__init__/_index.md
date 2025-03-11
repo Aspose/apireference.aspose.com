@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.shading/texturebase/__init__/
 is_root: false
 ---
 
-## __init__ {#str}
+## \_\_init\_\_(self, name) {#str}
 
 Initializes a new instance of the [`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase) class.
 
 
 
 ```python
+
 def __init__(self, name):
     ...
 ```

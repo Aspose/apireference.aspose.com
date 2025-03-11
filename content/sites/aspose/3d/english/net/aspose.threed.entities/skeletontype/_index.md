@@ -3,7 +3,7 @@ title: Enum SkeletonType
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.SkeletonType enum. Skeletons types
 type: docs
-weight: 2350
+weight: 690
 url: /net/aspose.threed.entities/skeletontype/
 ---
 ## SkeletonType enumeration

@@ -85,7 +85,7 @@ A shorthand function to create and register the animation node on current clip.
 | nodeName | java.lang.String | New animation node's name |
 
 **Returns:**
-[AnimationNode](../../com.aspose.threed/animationnode)
+[AnimationNode](../../com.aspose.threed/animationnode) - A new instance of [AnimationNode](../../com.aspose.threed/animationnode) with given name.
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -125,7 +125,7 @@ public List<AnimationNode> getAnimations()
 Gets the animations contained inside the clip.
 
 **Returns:**
-java.util.List<com.aspose.threed.AnimationNode>
+java.util.List<com.aspose.threed.AnimationNode> - the animations contained inside the clip.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -145,7 +145,7 @@ public String getDescription()
 Gets the description of this animation clip
 
 **Returns:**
-java.lang.String
+java.lang.String - the description of this animation clip
 ### getName() {#getName--}
 ```
 public String getName()
@@ -155,7 +155,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -165,7 +165,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -190,7 +190,7 @@ public Scene getScene()
 Gets the scene that this object belongs to
 
 **Returns:**
-[Scene](../../com.aspose.threed/scene)
+[Scene](../../com.aspose.threed/scene) - the scene that this object belongs to
 ### getStart() {#getStart--}
 ```
 public double getStart()
@@ -200,7 +200,7 @@ public double getStart()
 Gets the time in seconds of the beginning of the clip.
 
 **Returns:**
-double
+double - the time in seconds of the beginning of the clip.
 ### getStop() {#getStop--}
 ```
 public double getStop()
@@ -210,7 +210,7 @@ public double getStop()
 Gets the time in seconds of the end of the clip.
 
 **Returns:**
-double
+double - the time in seconds of the end of the clip.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -263,10 +263,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setDescription(String value) {#setDescription-java.lang.String-}
 ```
 public void setDescription(String value)

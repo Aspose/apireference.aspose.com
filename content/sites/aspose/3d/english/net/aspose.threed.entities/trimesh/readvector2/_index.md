@@ -28,7 +28,7 @@ Vector2 of specified vertex's field
 * struct [Vector2](../../../aspose.threed.utilities/vector2/)
 * class [VertexField](../../../aspose.threed.utilities/vertexfield/)
 * class [TriMesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../trimesh/)
 * assembly [Aspose.3D](../../../)
 
 

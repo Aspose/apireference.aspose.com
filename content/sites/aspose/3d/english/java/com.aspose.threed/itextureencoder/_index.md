@@ -3,7 +3,7 @@ title: ITextureEncoder
 second_title: Aspose.3D for Java API Reference
 description: External texture encoder should implement this interface for encoding.
 type: docs
-weight: 241
+weight: 252
 url: /java/com.aspose.threed/itextureencoder/
 ---
 ```
@@ -15,9 +15,9 @@ External texture encoder should implement this interface for encoding.
 
 | Method | Description |
 | --- | --- |
-| [encode(TextureData texture, Stream stream)](#encode-com.aspose.threed.TextureData-com.aspose.csporter.helpers.Stream-) | Encode texture data into stream |
+| [encode(TextureData texture, Stream stream)](#encode-com.aspose.threed.TextureData-com.aspose.threed.Stream-) | Encode texture data into stream |
 | [getFileExtension()](#getFileExtension--) | File extension name(without dot) of the this encoder |
-### encode(TextureData texture, Stream stream) {#encode-com.aspose.threed.TextureData-com.aspose.csporter.helpers.Stream-}
+### encode(TextureData texture, Stream stream) {#encode-com.aspose.threed.TextureData-com.aspose.threed.Stream-}
 ```
 public abstract void encode(TextureData texture, Stream stream)
 ```
@@ -29,7 +29,7 @@ Encode texture data into stream
 | Parameter | Type | Description |
 | --- | --- | --- |
 | texture | [TextureData](../../com.aspose.threed/texturedata) | The texture data to be encoded |
-| stream | com.aspose.csporter.helpers.Stream | The output stream |
+| stream | [Stream](../../com.aspose.threed/stream) | The output stream |
 
 ### getFileExtension() {#getFileExtension--}
 ```
@@ -40,4 +40,4 @@ public abstract String getFileExtension()
 File extension name(without dot) of the this encoder
 
 **Returns:**
-java.lang.String
+java.lang.String - File extension name(without dot) of the this encoder

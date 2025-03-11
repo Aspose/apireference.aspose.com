@@ -27,7 +27,7 @@ public VertexElement GetElement(VertexElementType type)
 * class [VertexElement](../../vertexelement/)
 * enum [VertexElementType](../../vertexelementtype/)
 * class [Geometry](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../geometry/)
 * assembly [Aspose.3D](../../../)
 
 

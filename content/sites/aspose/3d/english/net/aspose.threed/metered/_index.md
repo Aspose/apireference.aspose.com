@@ -3,7 +3,7 @@ title: Class Metered
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Metered class. Provides methods to set metered key
 type: docs
-weight: 100
+weight: 1520
 url: /net/aspose.threed/metered/
 ---
 ## Metered class
@@ -28,7 +28,7 @@ public class Metered
 | static [GetConsumptionCredit](../../aspose.threed/metered/getconsumptioncredit/)() | Gets consumption credit |
 | static [GetConsumptionQuantity](../../aspose.threed/metered/getconsumptionquantity/)() | Gets consumption file size |
 
-### Examples
+## Examples
 
 In this example, an attempt will be made to set metered public and private key
 

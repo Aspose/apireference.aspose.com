@@ -3,7 +3,7 @@ title: Class RenderState
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.RenderState class. Render state for building the pipeline The changes made on render state will not affect the created pipeline instances
 type: docs
-weight: 860
+weight: 2230
 url: /net/aspose.threed.render/renderstate/
 ---
 ## RenderState class

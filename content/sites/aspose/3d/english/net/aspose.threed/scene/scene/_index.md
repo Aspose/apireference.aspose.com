@@ -17,7 +17,7 @@ public Scene()
 ### See Also
 
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -34,7 +34,7 @@ public Scene(Entity entity)
 | --- | --- | --- |
 | entity | Entity | The initial entity that attached to the scene |
 
-### Examples
+## Examples
 
 The following code shows how to create a [`Scene`](../) directly from an [`Entity`](../../entity/):
 
@@ -46,7 +46,7 @@ var scene = new Scene(new Box());
 
 * class [Entity](../../entity/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -67,7 +67,7 @@ public Scene(Scene parentScene, string name)
 ### See Also
 
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 

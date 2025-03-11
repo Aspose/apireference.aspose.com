@@ -18,7 +18,7 @@ public Vector3 Origin { get; set; }
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [RevolvedAreaSolid](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../revolvedareasolid/)
 * assembly [Aspose.3D](../../../)
 
 

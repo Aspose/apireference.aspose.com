@@ -3,7 +3,7 @@ title: name property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 70
 url: /python-net/aspose.threed/property/name/
 is_root: false
 ---
@@ -11,14 +11,11 @@ is_root: false
 ## name property
 
 
-Gets or sets the name.
+Gets the name of the property
 ### Definition:
 ```python
 @property
 def name(self):
-    ...
-@name.setter
-def name(self, value):
     ...
 ```
 

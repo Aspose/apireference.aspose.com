@@ -23,7 +23,7 @@ public PixelMapping MapPixels(PixelMapMode mapMode)
 * class [PixelMapping](../../pixelmapping/)
 * enum [PixelMapMode](../../pixelmapmode/)
 * class [TextureData](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../texturedata/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -47,7 +47,7 @@ public PixelMapping MapPixels(PixelMapMode mapMode, PixelFormat format)
 * enum [PixelMapMode](../../pixelmapmode/)
 * enum [PixelFormat](../../pixelformat/)
 * class [TextureData](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../texturedata/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -83,7 +83,7 @@ Returns a mapping object, it should be disposed when no longer needed.
 * enum [PixelMapMode](../../pixelmapmode/)
 * enum [PixelFormat](../../pixelformat/)
 * class [TextureData](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../texturedata/)
 * assembly [Aspose.3D](../../../)
 
 

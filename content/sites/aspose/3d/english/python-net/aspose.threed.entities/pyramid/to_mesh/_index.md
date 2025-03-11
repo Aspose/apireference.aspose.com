@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/pyramid/to_mesh/
 is_root: false
 ---
 
-## to_mesh {#}
+## to_mesh(self) {#}
 
 Convert current object to mesh
 
@@ -20,6 +20,7 @@ The mesh.
 
 
 ```python
+
 def to_mesh(self):
     ...
 ```

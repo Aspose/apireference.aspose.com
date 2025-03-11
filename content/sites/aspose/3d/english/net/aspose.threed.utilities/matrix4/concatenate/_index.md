@@ -22,7 +22,7 @@ public Matrix4 Concatenate(Matrix4 m2)
 
 New matrix4
 
-### Examples
+## Examples
 
 ```csharp
 var t = Matrix4.Translate(0, 10, 9);
@@ -35,7 +35,7 @@ var transformed = transform * pos;
 ### See Also
 
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 

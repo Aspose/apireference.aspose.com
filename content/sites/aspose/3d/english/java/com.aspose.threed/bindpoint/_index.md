@@ -34,7 +34,6 @@ A [BindPoint](../../com.aspose.threed/bindpoint) is usually created on an object
 | [getChannelsCount()](#getChannelsCount--) | Gets the total number of property channels defined in this animation curve mapping. |
 | [getClass()](#getClass--) |  |
 | [getKeyframeSequence(String channelName)](#getKeyframeSequence-java.lang.String-) | Gets the first keyframe sequence in specified channel |
-| [getKeyframeSequences(String channelName)](#getKeyframeSequences-java.lang.String-) | Gets all keyframe sequences in specified channel |
 | [getName()](#getName--) | Gets the name. |
 | [getProperties()](#getProperties--) | Gets the collection of all properties. |
 | [getProperty()](#getProperty--) | Gets the property associated with the CurveMapping |
@@ -223,21 +222,6 @@ Gets the first keyframe sequence in specified channel
 
 **Returns:**
 [KeyframeSequence](../../com.aspose.threed/keyframesequence) - First keyframe sequence with the channel name
-### getKeyframeSequences(String channelName) {#getKeyframeSequences-java.lang.String-}
-```
-public List<KeyframeSequence> getKeyframeSequences(String channelName)
-```
-
-
-Gets all keyframe sequences in specified channel
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| channelName | java.lang.String | The channel name to find |
-
-**Returns:**
-java.util.List<com.aspose.threed.KeyframeSequence> - Keyframe sequence list with the channel name
 ### getName() {#getName--}
 ```
 public String getName()
@@ -247,7 +231,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -257,7 +241,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty() {#getProperty--}
 ```
 public Property getProperty()
@@ -267,7 +251,7 @@ public Property getProperty()
 Gets the property associated with the CurveMapping
 
 **Returns:**
-[Property](../../com.aspose.threed/property)
+[Property](../../com.aspose.threed/property) - the property associated with the CurveMapping
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -335,10 +319,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### resetChannels() {#resetChannels--}
 ```
 public void resetChannels()

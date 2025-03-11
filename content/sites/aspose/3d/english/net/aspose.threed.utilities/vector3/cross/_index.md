@@ -25,7 +25,7 @@ Cross product of two [`Vector3`](../)s.
 ### See Also
 
 * struct [Vector3](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector3/)
 * assembly [Aspose.3D](../../../)
 
 

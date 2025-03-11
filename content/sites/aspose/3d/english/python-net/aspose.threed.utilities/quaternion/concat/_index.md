@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/quaternion/concat/
 is_root: false
 ---
 
-## concat {#aspose.threed.utilities.Quaternion}
+## concat(self, rhs) {#aspose.threed.utilities.Quaternion}
 
 Concatenate two quaternions
 
@@ -20,6 +20,7 @@ Concatenate two quaternions
 
 
 ```python
+
 def concat(self, rhs):
     ...
 ```

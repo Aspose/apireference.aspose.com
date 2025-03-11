@@ -17,7 +17,7 @@ public RectangularTorus()
 ### See Also
 
 * class [RectangularTorus](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../rectangulartorus/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -33,7 +33,7 @@ public RectangularTorus(string name)
 ### See Also
 
 * class [RectangularTorus](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../rectangulartorus/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.utilities/rect/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of Rect
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#int-int-int-int}
+## \_\_init\_\_(self, x, y, width, height) {#int-int-int-int}
 
 Constructor of class [`Rect`](/3d/python-net/aspose.threed.utilities/rect)
 
 
 
 ```python
+
 def __init__(self, x, y, width, height):
     ...
 ```

@@ -3,7 +3,7 @@ title: VertexElementNormal
 second_title: Aspose.3D for Java API Reference
 description: Defines normal vectors for specified components.
 type: docs
-weight: 200
+weight: 209
 url: /java/com.aspose.threed/vertexelementnormal/
 ---
 
@@ -141,7 +141,7 @@ public List<Vector4> getData()
 Gets the vertex data
 
 **Returns:**
-java.util.List<com.aspose.threed.Vector4>
+java.util.List<com.aspose.threed.Vector4> - the vertex data
 ### getIndices() {#getIndices--}
 ```
 public List<Integer> getIndices()
@@ -151,7 +151,7 @@ public List<Integer> getIndices()
 Gets the indices data
 
 **Returns:**
-java.util.List<java.lang.Integer>
+java.util.List<java.lang.Integer> - the indices data
 ### getMappingMode() {#getMappingMode--}
 ```
 public MappingMode getMappingMode()
@@ -161,7 +161,7 @@ public MappingMode getMappingMode()
 Gets how the element is mapped.
 
 **Returns:**
-[MappingMode](../../com.aspose.threed/mappingmode)
+[MappingMode](../../com.aspose.threed/mappingmode) - how the element is mapped.
 ### getName() {#getName--}
 ```
 public String getName()
@@ -171,7 +171,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getReferenceMode() {#getReferenceMode--}
 ```
 public ReferenceMode getReferenceMode()
@@ -181,7 +181,7 @@ public ReferenceMode getReferenceMode()
 Gets how the element is referenced.
 
 **Returns:**
-[ReferenceMode](../../com.aspose.threed/referencemode)
+[ReferenceMode](../../com.aspose.threed/referencemode) - how the element is referenced.
 ### getVertexElementType() {#getVertexElementType--}
 ```
 public VertexElementType getVertexElementType()
@@ -191,7 +191,7 @@ public VertexElementType getVertexElementType()
 Gets the type of the [VertexElement](../../com.aspose.threed/vertexelement)
 
 **Returns:**
-[VertexElementType](../../com.aspose.threed/vertexelementtype)
+[VertexElementType](../../com.aspose.threed/vertexelementtype) - the type of the [VertexElement](../../com.aspose.threed/vertexelement)
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

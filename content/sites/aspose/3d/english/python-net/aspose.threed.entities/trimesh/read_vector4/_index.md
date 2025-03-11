@@ -3,12 +3,12 @@ title: read_vector4 method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /python-net/aspose.threed.entities/trimesh/read_vector4/
 is_root: false
 ---
 
-## read_vector4 {#int-aspose.threed.utilities.VertexField}
+## read_vector4(self, idx, field) {#int-aspose.threed.utilities.VertexField}
 
 Read the vector4 field
 
@@ -20,6 +20,7 @@ Read the vector4 field
 
 
 ```python
+
 def read_vector4(self, idx, field):
     ...
 ```

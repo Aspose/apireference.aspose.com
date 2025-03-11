@@ -3,7 +3,7 @@ title: IBuffer
 second_title: Aspose.3D for Java API Reference
 description: The base interface of all managed buffers used in rendering
 type: docs
-weight: 223
+weight: 234
 url: /java/com.aspose.threed/ibuffer/
 ---
 
@@ -29,7 +29,7 @@ public abstract int getSize()
 Size of this buffer in bytes
 
 **Returns:**
-int
+int - Size of this buffer in bytes
 ### loadData(byte[] data) {#loadData-byte---}
 ```
 public abstract void loadData(byte[] data)

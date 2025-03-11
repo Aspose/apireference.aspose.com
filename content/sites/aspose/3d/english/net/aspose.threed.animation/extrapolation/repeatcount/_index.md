@@ -21,7 +21,7 @@ The count.
 ### See Also
 
 * class [Extrapolation](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../extrapolation/)
 * assembly [Aspose.3D](../../../)
 
 

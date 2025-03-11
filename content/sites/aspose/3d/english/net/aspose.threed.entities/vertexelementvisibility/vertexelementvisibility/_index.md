@@ -17,7 +17,7 @@ public VertexElementVisibility()
 ### See Also
 
 * class [VertexElementVisibility](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementvisibility/)
 * assembly [Aspose.3D](../../../)
 
 

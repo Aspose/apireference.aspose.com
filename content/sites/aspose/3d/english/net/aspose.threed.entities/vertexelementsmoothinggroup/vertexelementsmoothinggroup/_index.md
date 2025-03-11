@@ -17,7 +17,7 @@ public VertexElementSmoothingGroup()
 ### See Also
 
 * class [VertexElementSmoothingGroup](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementsmoothinggroup/)
 * assembly [Aspose.3D](../../../)
 
 

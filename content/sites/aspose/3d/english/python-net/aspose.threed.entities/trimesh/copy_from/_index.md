@@ -3,12 +3,12 @@ title: copy_from method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /python-net/aspose.threed.entities/trimesh/copy_from/
 is_root: false
 ---
 
-## copy_from {#aspose.threed.entities.TriMesh-aspose.threed.utilities.VertexDeclaration}
+## copy_from(, input, vd) {#aspose.threed.entities.TriMesh-aspose.threed.utilities.VertexDeclaration}
 
 Copy the [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) from input with new vertex layout
 
@@ -20,7 +20,9 @@ A new TriMesh instance with new vertex declaration.
 
 
 ```python
-def copy_from(self, input, vd):
+
+@staticmethod
+def copy_from(input, vd):
     ...
 ```
 

@@ -22,7 +22,7 @@ public static FVector3 operator +(FVector3 a, FVector3 b)
 ### See Also
 
 * struct [FVector3](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fvector3/)
 * assembly [Aspose.3D](../../../)
 
 

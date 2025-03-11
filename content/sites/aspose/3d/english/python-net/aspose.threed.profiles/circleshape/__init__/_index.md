@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.profiles/circleshape/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Construct a [`CircleShape`](/3d/python-net/aspose.threed.profiles/circleshape) profile with default radius(5).
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#float}
+## \_\_init\_\_(self, radius) {#float}
 
 Construct a [`CircleShape`](/3d/python-net/aspose.threed.profiles/circleshape) profile with specified radius.
 
 
 
 ```python
+
 def __init__(self, radius):
     ...
 ```
@@ -36,7 +38,7 @@ def __init__(self, radius):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| radius | float |  |
+| radius | float | Radius of the circle |
 
 
 

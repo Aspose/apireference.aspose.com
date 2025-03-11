@@ -18,7 +18,7 @@ public IList<Node> ChildNodes { get; }
 
 The nodes.
 
-### Examples
+## Examples
 
 The following code shows how to enumerate child node of root node
 
@@ -33,7 +33,7 @@ foreach(var child in scene.RootNode.ChildNodes)
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

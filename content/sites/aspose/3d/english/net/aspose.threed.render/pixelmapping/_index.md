@@ -3,7 +3,7 @@ title: Class PixelMapping
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.PixelMapping class. 
 type: docs
-weight: 950
+weight: 2130
 url: /net/aspose.threed.render/pixelmapping/
 ---
 ## PixelMapping class

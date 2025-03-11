@@ -23,7 +23,7 @@ public List<byte[]> Extract(string fileName, byte[] password = null)
 
 A list of all 3D contents in bytes, including the formats that Aspose.3D don't supported.
 
-### Examples
+## Examples
 
 The following code shows how to extract all raw 3D contents from a 3D PDF file, and write them to files.
 
@@ -38,7 +38,7 @@ for (int i = 0; i < raw3DContents.Count; i++)
 ### See Also
 
 * class [PdfFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../pdfformat/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -60,7 +60,7 @@ public List<byte[]> Extract(Stream stream, byte[] password = null)
 
 A list of all 3D contents in bytes, including the formats that Aspose.3D don't supported.
 
-### Examples
+## Examples
 
 The following code shows how to extract all raw 3D contents from a 3D PDF file, and write them to files.
 
@@ -75,7 +75,7 @@ for (int i = 0; i < raw3DContents.Count; i++)
 ### See Also
 
 * class [PdfFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../pdfformat/)
 * assembly [Aspose.3D](../../../)
 
 

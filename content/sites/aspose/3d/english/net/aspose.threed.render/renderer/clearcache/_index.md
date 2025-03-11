@@ -17,7 +17,7 @@ public virtual void ClearCache()
 ### See Also
 
 * class [Renderer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderer/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/matrix4/inverse/
 is_root: false
 ---
 
-## inverse {#}
+## inverse(self) {#}
 
 Inverses this instance.
 
@@ -20,6 +20,7 @@ Inverse matrix4
 
 
 ```python
+
 def inverse(self):
     ...
 ```

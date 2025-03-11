@@ -3,7 +3,7 @@ title: Class Viewport
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.Viewport class. A IRenderTarget contains at least one viewport for rendering the scene
 type: docs
-weight: 1010
+weight: 2380
 url: /net/aspose.threed.render/viewport/
 ---
 ## Viewport class

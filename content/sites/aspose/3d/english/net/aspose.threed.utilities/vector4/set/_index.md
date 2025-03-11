@@ -23,7 +23,7 @@ public void Set(double newX, double newY, double newZ)
 ### See Also
 
 * struct [Vector4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void Set(double newX, double newY, double newZ, double newW)
 ### See Also
 
 * struct [Vector4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector4/)
 * assembly [Aspose.3D](../../../)
 
 

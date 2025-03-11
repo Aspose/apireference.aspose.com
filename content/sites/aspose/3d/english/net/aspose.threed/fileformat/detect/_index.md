@@ -16,10 +16,20 @@ public static FileFormat Detect(Stream stream, string fileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | Stream |  |
-| fileName | String |  |
+| stream | Stream | Stream containing data to detect |
+| fileName | String | Original file name of the data, used as hint. |
 
-### Examples
+### Return Value
+
+The [`FileFormat`](../) instance of the detected type or null if failed.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Exception thrown when failed to read data. |
+
+## Examples
 
 ```csharp
 byte[] bytes = new byte[100];//take the bytes from your source
@@ -30,7 +40,7 @@ Console.WriteLine($"Input data format: {fmt}");
 ### See Also
 
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -45,9 +55,19 @@ public static FileFormat Detect(string fileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | String |  |
+| fileName | String | Path to the file to detect file format. |
 
-### Examples
+### Return Value
+
+The [`FileFormat`](../) instance of the detected type or null if failed.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Exception thrown when failed to read data. |
+
+## Examples
 
 ```csharp
 var fmt = FileFormat.Detect("input.fbx");
@@ -57,7 +77,7 @@ Console.WriteLine($"Input file format: {fmt}");
 ### See Also
 
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 

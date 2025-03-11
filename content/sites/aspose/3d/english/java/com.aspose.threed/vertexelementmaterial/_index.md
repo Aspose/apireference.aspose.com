@@ -3,7 +3,7 @@ title: VertexElementMaterial
 second_title: Aspose.3D for Java API Reference
 description: Defines material index for specified components.
 type: docs
-weight: 199
+weight: 208
 url: /java/com.aspose.threed/vertexelementmaterial/
 ---
 
@@ -13,7 +13,16 @@ java.lang.Object, [com.aspose.threed.VertexElement](../../com.aspose.threed/vert
 public class VertexElementMaterial extends VertexElement
 ```
 
-Defines material index for specified components. A node can have multiple materials, the [VertexElementMaterial](../../com.aspose.threed/vertexelementmaterial) is used to render different part of the geometry in different materials.
+Defines material index for specified components. A node can have multiple materials, the [VertexElementMaterial](../../com.aspose.threed/vertexelementmaterial) is used to render different part of the geometry in different materials. **Example:** The following code shows how to assign different material to different face of a box.
+
+```
+// Create a mesh of box(A box is composed by 6 planes)
+             Mesh box = (new Box()).ToMesh();
+             // Create a material element on this mesh
+             VertexElementMaterial mat = (VertexElementMaterial)box.CreateElement(VertexElementType.Material, MappingMode.Polygon, ReferenceMode.Index);
+             // And specify different material index for each plane
+             mat.Indices.AddRange(new int[] { 0, 1, 2, 3, 4, 5 });
+```
 ## Constructors
 
 | Constructor | Description |
@@ -125,7 +134,7 @@ public List<Integer> getIndices()
 Gets the indices data
 
 **Returns:**
-java.util.List<java.lang.Integer>
+java.util.List<java.lang.Integer> - the indices data
 ### getMappingMode() {#getMappingMode--}
 ```
 public MappingMode getMappingMode()
@@ -135,7 +144,7 @@ public MappingMode getMappingMode()
 Gets how the element is mapped.
 
 **Returns:**
-[MappingMode](../../com.aspose.threed/mappingmode)
+[MappingMode](../../com.aspose.threed/mappingmode) - how the element is mapped.
 ### getName() {#getName--}
 ```
 public String getName()
@@ -145,7 +154,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getReferenceMode() {#getReferenceMode--}
 ```
 public ReferenceMode getReferenceMode()
@@ -155,7 +164,7 @@ public ReferenceMode getReferenceMode()
 Gets how the element is referenced.
 
 **Returns:**
-[ReferenceMode](../../com.aspose.threed/referencemode)
+[ReferenceMode](../../com.aspose.threed/referencemode) - how the element is referenced.
 ### getVertexElementType() {#getVertexElementType--}
 ```
 public VertexElementType getVertexElementType()
@@ -165,7 +174,7 @@ public VertexElementType getVertexElementType()
 Gets the type of the [VertexElement](../../com.aspose.threed/vertexelement)
 
 **Returns:**
-[VertexElementType](../../com.aspose.threed/vertexelementtype)
+[VertexElementType](../../com.aspose.threed/vertexelementtype) - the type of the [VertexElement](../../com.aspose.threed/vertexelement)
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

@@ -3,7 +3,7 @@ title: Class NurbsDirection
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.NurbsDirection class. A 3D NurbsSurface has two direction the U and V the NurbsDirection defines data for each direction. A direction is actually a NURBS curve that means its also defined by its Order a KnotVectors and a set of weighted control pointsdefined in NurbsSurface
 type: docs
-weight: 2160
+weight: 500
 url: /net/aspose.threed.entities/nurbsdirection/
 ---
 ## NurbsDirection class

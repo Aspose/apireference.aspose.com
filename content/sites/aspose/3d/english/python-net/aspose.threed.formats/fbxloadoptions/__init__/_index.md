@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.formats/fbxloadoptions/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions)
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.threed.FileFormat}
+## \_\_init\_\_(self, format) {#aspose.threed.FileFormat}
 
 Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions)
 
 
 
 ```python
+
 def __init__(self, format):
     ...
 ```
@@ -36,10 +38,11 @@ def __init__(self, format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) |  |
+| format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) | Instance of [`FileFormat`](/3d/python-net/aspose.threed/fileformat), it should be a valid FBX format. |
 
 
 
 ### See Also
 * module [`aspose.threed.formats`](../../)
 * class [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)

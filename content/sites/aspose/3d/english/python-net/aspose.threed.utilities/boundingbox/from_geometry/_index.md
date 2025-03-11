@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/boundingbox/from_geometry/
 is_root: false
 ---
 
-## from_geometry {#aspose.threed.entities.Geometry}
+## from_geometry(, geometry) {#aspose.threed.entities.Geometry}
 
 Construct a bounding box from given geometry
 
@@ -16,18 +16,35 @@ Construct a bounding box from given geometry
 ### Returns 
 
 
-
+The bounding box of given geometry
 
 
 ```python
-def from_geometry(self, geometry):
+
+@staticmethod
+def from_geometry(geometry):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| geometry | aspose.threed.entities.Geometry |  |
+| geometry | aspose.threed.entities.Geometry | The geometry to calculate bounding box |
+
+### Example 
+
+
+The following code shows how to construct a bounding box from a geometry instance.
+
+```python
+from aspose.threed.entities import Sphere
+from aspose.threed.utilities import BoundingBox
+
+sphere = Sphere().to_mesh()
+boundingBox = BoundingBox.from_geometry(sphere)
+print("Bounding box = "  + str(boundingBox))
+
+```
 
 
 

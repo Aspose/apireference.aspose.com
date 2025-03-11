@@ -18,7 +18,7 @@ public FileFormat FileFormat { get; }
 
 * class [FileFormat](../../../aspose.threed/fileformat/)
 * class [IOConfig](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../ioconfig/)
 * assembly [Aspose.3D](../../../)
 
 

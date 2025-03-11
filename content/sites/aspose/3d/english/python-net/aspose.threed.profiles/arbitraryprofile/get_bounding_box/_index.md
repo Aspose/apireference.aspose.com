@@ -8,13 +8,19 @@ url: /python-net/aspose.threed.profiles/arbitraryprofile/get_bounding_box/
 is_root: false
 ---
 
-## get_bounding_box {#}
+## get_bounding_box(self) {#}
 
 Gets the bounding box of current entity in its object space coordinate system.
 
 
+### Returns 
+
+
+the bounding box of current entity in its object space coordinate system.
+
 
 ```python
+
 def get_bounding_box(self):
     ...
 ```

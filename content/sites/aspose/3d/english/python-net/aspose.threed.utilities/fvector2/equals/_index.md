@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/fvector2/equals/
 is_root: false
 ---
 
-## equals {#aspose.threed.utilities.FVector2}
+## equals(self, rhs) {#aspose.threed.utilities.FVector2}
 
 Check if two vectors are equal
 
@@ -16,10 +16,11 @@ Check if two vectors are equal
 ### Returns 
 
 
-
+True if all components are equal.
 
 
 ```python
+
 def equals(self, rhs):
     ...
 ```

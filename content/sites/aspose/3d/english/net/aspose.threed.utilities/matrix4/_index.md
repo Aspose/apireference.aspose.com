@@ -3,7 +3,7 @@ title: Struct Matrix4
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.Matrix4 struct. 4x4 matrix implementation
 type: docs
-weight: 1330
+weight: 2690
 url: /net/aspose.threed.utilities/matrix4/
 ---
 ## Matrix4 structure
@@ -74,7 +74,7 @@ public struct Matrix4
 | [m32](../../aspose.threed.utilities/matrix4/m32/) | The m32. |
 | [m33](../../aspose.threed.utilities/matrix4/m33/) | The m33. |
 
-### Examples
+## Examples
 
 ```csharp
 Matrix4 mat = Matrix4.RotateFromEuler(90, 0, 0);

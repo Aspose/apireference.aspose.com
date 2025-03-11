@@ -18,7 +18,7 @@ public abstract RenderFactory RenderFactory { get; }
 
 * class [RenderFactory](../../renderfactory/)
 * class [Renderer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderer/)
 * assembly [Aspose.3D](../../../)
 
 

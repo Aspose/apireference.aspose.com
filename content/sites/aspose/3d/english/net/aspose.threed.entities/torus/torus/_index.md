@@ -17,7 +17,7 @@ public Torus()
 ### See Also
 
 * class [Torus](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../torus/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Torus(double radius, double tube)
 ### See Also
 
 * class [Torus](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../torus/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -60,7 +60,7 @@ public Torus(double radius, double tube, double arc)
 ### See Also
 
 * class [Torus](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../torus/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -86,7 +86,7 @@ public Torus(string name, double radius, double tube, int radialSegments, int tu
 ### See Also
 
 * class [Torus](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../torus/)
 * assembly [Aspose.3D](../../../)
 
 

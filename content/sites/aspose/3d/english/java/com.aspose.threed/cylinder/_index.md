@@ -3,7 +3,7 @@ title: Cylinder
 second_title: Aspose.3D for Java API Reference
 description: Parameterized Cylinder.
 type: docs
-weight: 37
+weight: 38
 url: /java/com.aspose.threed/cylinder/
 ---
 
@@ -195,7 +195,10 @@ public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+Gets the bounding box of current entity in its object space coordinate system.
+
+**Returns:**
+[BoundingBox](../../com.aspose.threed/boundingbox) - the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
 
 ```
 Entity entity = new Sphere();
@@ -203,9 +206,6 @@ Entity entity = new Sphere();
      var bbox = entity.getBoundingBox();
      System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
 ```
-
-**Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
 ### getCastShadows() {#getCastShadows--}
 ```
 public boolean getCastShadows()
@@ -215,7 +215,7 @@ public boolean getCastShadows()
 Gets whether this geometry can cast shadow
 
 **Returns:**
-boolean
+boolean - whether this geometry can cast shadow
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -235,7 +235,7 @@ public EntityRendererKey getEntityRendererKey()
 Gets the key of the entity renderer registered in the renderer
 
 **Returns:**
-[EntityRendererKey](../../com.aspose.threed/entityrendererkey)
+[EntityRendererKey](../../com.aspose.threed/entityrendererkey) - the key of the entity renderer registered in the renderer
 ### getExcluded() {#getExcluded--}
 ```
 public boolean getExcluded()
@@ -245,7 +245,7 @@ public boolean getExcluded()
 Gets whether to exclude this entity during exporting.
 
 **Returns:**
-boolean
+boolean - whether to exclude this entity during exporting.
 ### getGenerateFanCylinder() {#getGenerateFanCylinder--}
 ```
 public boolean getGenerateFanCylinder()
@@ -255,7 +255,7 @@ public boolean getGenerateFanCylinder()
 Gets whether to generate the fan-style cylinder when the ThetaLength is less than 2\*PI, otherwise the model will not be cut.
 
 **Returns:**
-boolean
+boolean - whether to generate the fan-style cylinder when the ThetaLength is less than 2\*PI, otherwise the model will not be cut.
 ### getHeight() {#getHeight--}
 ```
 public double getHeight()
@@ -265,7 +265,7 @@ public double getHeight()
 Gets the height of the cylinder.
 
 **Returns:**
-double
+double - the height of the cylinder.
 ### getHeightSegments() {#getHeightSegments--}
 ```
 public int getHeightSegments()
@@ -275,7 +275,7 @@ public int getHeightSegments()
 Gets the height segments.
 
 **Returns:**
-int
+int - the height segments.
 ### getName() {#getName--}
 ```
 public String getName()
@@ -285,7 +285,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getOffsetBottom() {#getOffsetBottom--}
 ```
 public Vector3 getOffsetBottom()
@@ -295,7 +295,7 @@ public Vector3 getOffsetBottom()
 Gets the vertices transformation offset of the bottom side.
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the vertices transformation offset of the bottom side.
 ### getOffsetTop() {#getOffsetTop--}
 ```
 public Vector3 getOffsetTop()
@@ -305,7 +305,7 @@ public Vector3 getOffsetTop()
 Gets the vertices transformation offset of the top side.
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the vertices transformation offset of the top side.
 ### getOpenEnded() {#getOpenEnded--}
 ```
 public boolean getOpenEnded()
@@ -315,7 +315,7 @@ public boolean getOpenEnded()
 Gets a value indicating whether this [Cylinder](../../com.aspose.threed/cylinder) open ended. The default value is false.
 
 **Returns:**
-boolean
+boolean - a value indicating whether this [Cylinder](../../com.aspose.threed/cylinder) open ended. The default value is false.
 ### getParentNode() {#getParentNode--}
 ```
 public Node getParentNode()
@@ -325,7 +325,7 @@ public Node getParentNode()
 Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 ### getParentNodes() {#getParentNodes--}
 ```
 public ArrayList<Node> getParentNodes()
@@ -335,7 +335,7 @@ public ArrayList<Node> getParentNodes()
 Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 
 **Returns:**
-java.util.ArrayList<com.aspose.threed.Node>
+java.util.ArrayList<com.aspose.threed.Node> - all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -345,7 +345,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -370,7 +370,7 @@ public int getRadialSegments()
 Gets the radial segments.
 
 **Returns:**
-int
+int - the radial segments.
 ### getRadiusBottom() {#getRadiusBottom--}
 ```
 public double getRadiusBottom()
@@ -380,7 +380,7 @@ public double getRadiusBottom()
 Gets the radius of cylinder's bottom cap.
 
 **Returns:**
-double
+double - the radius of cylinder's bottom cap.
 ### getRadiusTop() {#getRadiusTop--}
 ```
 public double getRadiusTop()
@@ -390,7 +390,7 @@ public double getRadiusTop()
 Gets the radius of cylinder's top cap.
 
 **Returns:**
-double
+double - the radius of cylinder's top cap.
 ### getReceiveShadows() {#getReceiveShadows--}
 ```
 public boolean getReceiveShadows()
@@ -400,7 +400,7 @@ public boolean getReceiveShadows()
 Gets whether this geometry can receive shadow.
 
 **Returns:**
-boolean
+boolean - whether this geometry can receive shadow.
 ### getScene() {#getScene--}
 ```
 public Scene getScene()
@@ -410,7 +410,7 @@ public Scene getScene()
 Gets the scene that this object belongs to
 
 **Returns:**
-[Scene](../../com.aspose.threed/scene)
+[Scene](../../com.aspose.threed/scene) - the scene that this object belongs to
 ### getShearBottom() {#getShearBottom--}
 ```
 public Vector2 getShearBottom()
@@ -420,7 +420,7 @@ public Vector2 getShearBottom()
 Gets of the shear transform of the bottom side, vector stores the (x-axis, z-axis) shear value that measured in radian, default value is (0, 0)
 
 **Returns:**
-[Vector2](../../com.aspose.threed/vector2)
+[Vector2](../../com.aspose.threed/vector2) - of the shear transform of the bottom side, vector stores the (x-axis, z-axis) shear value that measured in radian, default value is (0, 0)
 ### getShearTop() {#getShearTop--}
 ```
 public Vector2 getShearTop()
@@ -430,7 +430,7 @@ public Vector2 getShearTop()
 Gets of the shear transform of the top side, vector stores the (x-axis, z-axis) shear value that measured in radian, default value is (0, 0)
 
 **Returns:**
-[Vector2](../../com.aspose.threed/vector2)
+[Vector2](../../com.aspose.threed/vector2) - of the shear transform of the top side, vector stores the (x-axis, z-axis) shear value that measured in radian, default value is (0, 0)
 ### getThetaLength() {#getThetaLength--}
 ```
 public double getThetaLength()
@@ -440,7 +440,7 @@ public double getThetaLength()
 Gets the length of the theta. The default value is 2\\u03c0.
 
 **Returns:**
-double
+double - the length of the theta. The default value is 2\\u03c0.
 ### getThetaStart() {#getThetaStart--}
 ```
 public double getThetaStart()
@@ -450,7 +450,7 @@ public double getThetaStart()
 Gets the theta start. The default value is 0.
 
 **Returns:**
-double
+double - the theta start. The default value is 0.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -503,10 +503,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setCastShadows(boolean value) {#setCastShadows-boolean-}
 ```
 public void setCastShadows(boolean value)

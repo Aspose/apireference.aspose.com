@@ -3,7 +3,7 @@ title: MICROSOFT_3MF property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /python-net/aspose.threed/fileformattype/microsoft_3mf/
 is_root: false
 ---
@@ -12,6 +12,10 @@ is_root: false
 
 
 3D Manufacturing Format
+### Definition:
+```python
+f MICROSOFT_3MF 
+```
 
 ### See Also
 * module [`aspose.threed`](../../)

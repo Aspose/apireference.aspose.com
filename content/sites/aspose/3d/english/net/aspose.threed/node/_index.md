@@ -3,7 +3,7 @@ title: Class Node
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Node class. Represents an element in the scene graph. A scene graph is a tree of Node objects. The tree management services are self contained in this class. Note the Aspose.3D SDK does not test the validity of the constructed scene graph. It is the responsibility of the caller to make sure that it does not generate cyclic graphs in a node hierarchy. Besides the tree management this class defines all the properties required to describe the position of the object in the scene. This information include the basic Translation Rotation and Scaling properties and the more advanced options for pivots limits and IK joints attributes such the stiffness and dampening. When it is first created the Node object is empty i.e it is an object without any graphical representation that only contains the position information. In this state it can be used to represent parents in the node tree structure but not much more. The normal use of this type of objects is to add them an entity that will specialize the node see the Entity. The entity is an object in itself and is connected to the the Node. This also means that the same entity can be shared among multiple nodes. Camera Light Mesh etc... are all entities and they all derived from the base class Entity
 type: docs
-weight: 230
+weight: 1530
 url: /net/aspose.threed/node/
 ---
 ## Node class
@@ -35,10 +35,10 @@ public class Node : SceneObject
 | [Material](../../aspose.threed/node/material/) { get; set; } | Gets or sets the first material associated with this node, if sets, will clear other materials |
 | [Materials](../../aspose.threed/node/materials/) { get; } | Gets the materials associated with this node. |
 | [MetaDatas](../../aspose.threed/node/metadatas/) { get; } | Gets the meta data defined in this node. |
-| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name.(Inherited from [`A3DObject`](../a3dobject/).) |
+| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name. |
 | [ParentNode](../../aspose.threed/node/parentnode/) { get; set; } | Gets or sets the parent node. |
-| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties.(Inherited from [`A3DObject`](../a3dobject/).) |
-| [Scene](../../aspose.threed/sceneobject/scene/) { get; } | Gets the scene that this object belongs to(Inherited from [`SceneObject`](../sceneobject/).) |
+| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties. |
+| [Scene](../../aspose.threed/sceneobject/scene/) { get; } | Gets the scene that this object belongs to |
 | [Transform](../../aspose.threed/node/transform/) { get; } | Gets the local transform. |
 | [Visible](../../aspose.threed/node/visible/) { get; set; } | Gets or sets to show the node |
 
@@ -55,18 +55,18 @@ public class Node : SceneObject
 | [CreateChildNode](../../aspose.threed/node/createchildnode/#createchildnode_3)(string, Entity) | Create a new child node with given node name |
 | [CreateChildNode](../../aspose.threed/node/createchildnode/#createchildnode_4)(string, Entity, Material) | Create a new child node with given node name, and attach specified entity and a material |
 | [EvaluateGlobalTransform](../../aspose.threed/node/evaluateglobaltransform/)(bool) | Evaluate the global transform, include the geometric transform or not. |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name)(Inherited from [`A3DObject`](../a3dobject/).) |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
 | [GetBoundingBox](../../aspose.threed/node/getboundingbox/)() | Calculate the bounding box of the node |
 | [GetChild](../../aspose.threed/node/getchild/#getchild)(int) | Gets the child node at specified index. |
 | [GetChild](../../aspose.threed/node/getchild/#getchild_1)(string) | Gets the child node with the specified name |
 | [GetEntity&lt;T&gt;](../../aspose.threed/node/getentity/)() |  |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property(Inherited from [`A3DObject`](../a3dobject/).) |
+| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property |
 | [Merge](../../aspose.threed/node/merge/)(Node) | Detach everything under the node and attach them to current node. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property.(Inherited from [`A3DObject`](../a3dobject/).) |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name(Inherited from [`A3DObject`](../a3dobject/).) |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name |
 | [SelectObjects](../../aspose.threed/node/selectobjects/)(string) | Select multiple objects under current node using XPath-like query syntax. |
 | [SelectSingleObject](../../aspose.threed/node/selectsingleobject/)(string) | Select single object under current node using XPath-like query syntax. |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property(Inherited from [`A3DObject`](../a3dobject/).) |
+| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property |
 | override [ToString](../../aspose.threed/node/tostring/)() | Gets the string representation of this node. |
 
 ### See Also

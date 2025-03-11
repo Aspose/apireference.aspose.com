@@ -25,7 +25,7 @@ The A3dwSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/a3dwsaveoptions/__init__/#) | Constructor of [`A3dwSaveOptions`](/3d/python-net/aspose.threed.formats/a3dwsaveoptions) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/a3dwsaveoptions/__init__/#) | Constructor of [`A3dwSaveOptions`](/3d/python-net/aspose.threed.formats/a3dwsaveoptions) |
 
 
 ### Properties

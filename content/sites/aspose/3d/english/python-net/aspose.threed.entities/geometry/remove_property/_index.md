@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/geometry/remove_property/
 is_root: false
 ---
 
-## remove_property {#aspose.threed.Property}
+## remove_property(self, property) {#aspose.threed.Property}
 
 Removes a dynamic property.
 
@@ -20,6 +20,7 @@ true if the property is successfully removed
 
 
 ```python
+
 def remove_property(self, property):
     ...
 ```
@@ -30,7 +31,7 @@ def remove_property(self, property):
 | property | [`Property`](/3d/python-net/aspose.threed/property) | Which property to remove |
 
 
-## remove_property {#str}
+## remove_property(self, property) {#str}
 
 Remove the specified property identified by name
 
@@ -38,10 +39,11 @@ Remove the specified property identified by name
 ### Returns 
 
 
-
+true if the property is successfully removed
 
 
 ```python
+
 def remove_property(self, property):
     ...
 ```
@@ -49,7 +51,7 @@ def remove_property(self, property):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property | str |  |
+| property | str | Which property to remove |
 
 
 

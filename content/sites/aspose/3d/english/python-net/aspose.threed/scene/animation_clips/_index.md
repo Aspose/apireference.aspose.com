@@ -3,7 +3,7 @@ title: animation_clips property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /python-net/aspose.threed/scene/animation_clips/
 is_root: false
 ---

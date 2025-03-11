@@ -22,7 +22,7 @@ The mesh.
 
 * class [Mesh](../../mesh/)
 * class [Dish](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../dish/)
 * assembly [Aspose.3D](../../../)
 
 

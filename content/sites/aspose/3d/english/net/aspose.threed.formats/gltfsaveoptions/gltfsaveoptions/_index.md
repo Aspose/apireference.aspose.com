@@ -22,7 +22,7 @@ public GltfSaveOptions(FileContentType contentType)
 
 * enum [FileContentType](../../../aspose.threed/filecontenttype/)
 * class [GltfSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../gltfsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -43,7 +43,7 @@ public GltfSaveOptions(FileFormat format)
 
 * class [FileFormat](../../../aspose.threed/fileformat/)
 * class [GltfSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../gltfsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

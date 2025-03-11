@@ -3,7 +3,7 @@ title: current_animation_clip property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /python-net/aspose.threed/scene/current_animation_clip/
 is_root: false
 ---

@@ -12,6 +12,10 @@ is_root: false
 
 
 The y component.
+### Definition:
+```python
+f y 
+```
 
 ### See Also
 * module [`aspose.threed.utilities`](../../)

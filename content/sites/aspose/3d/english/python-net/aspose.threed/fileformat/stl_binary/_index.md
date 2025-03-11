@@ -3,7 +3,7 @@ title: STL_BINARY property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 470
 url: /python-net/aspose.threed/fileformat/stl_binary/
 is_root: false
 ---
@@ -12,6 +12,10 @@ is_root: false
 
 
 Binary STL file format
+### Definition:
+```python
+f STL_BINARY 
+```
 
 ### See Also
 * module [`aspose.threed`](../../)

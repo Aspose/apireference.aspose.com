@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.render/entityrenderer/dispose/
 is_root: false
 ---
 
-## dispose {#}
+## dispose(self) {#}
 
 The entity renderer is being disposed, release shared resources.
 
 
 
 ```python
+
 def dispose(self):
     ...
 ```

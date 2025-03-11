@@ -36,9 +36,9 @@ The ITextureCubemap type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [load](/3d/python-net/aspose.threed.render/itexturecubemap/load/#aspose.threed.render.CubeFace-aspose.threed.render.TextureData) | Load the data into specified face |
-| [save](/3d/python-net/aspose.threed.render/itexturecubemap/save/#aspose.threed.render.CubeFace-aspose.threed.render.TextureData) | Save the specified side to memory |
-| [to_bitmap](/3d/python-net/aspose.threed.render/itexturecubemap/to_bitmap/#aspose.threed.render.CubeFace) | Convert the texture unit to [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) instance |
+| [`load(self, face, data)`](/3d/python-net/aspose.threed.render/itexturecubemap/load/#aspose.threed.render.cubeface-aspose.threed.render.texturedata) | Load the data into specified face |
+| [`save(self, side, bitmap)`](/3d/python-net/aspose.threed.render/itexturecubemap/save/#aspose.threed.render.cubeface-aspose.threed.render.texturedata) | Save the specified side to memory |
+| [`to_bitmap(self, side)`](/3d/python-net/aspose.threed.render/itexturecubemap/to_bitmap/#aspose.threed.render.cubeface) | Convert the texture unit to [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) instance |
 
 
 

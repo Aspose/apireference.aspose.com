@@ -18,7 +18,7 @@ public FVector3 CameraPosition { get; set; }
 
 * struct [FVector3](../../../aspose.threed.utilities/fvector3/)
 * class [RendererVariableManager](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderervariablemanager/)
 * assembly [Aspose.3D](../../../)
 
 

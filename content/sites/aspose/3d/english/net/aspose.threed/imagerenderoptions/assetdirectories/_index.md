@@ -17,7 +17,7 @@ public List<string> AssetDirectories { get; set; }
 ### See Also
 
 * class [ImageRenderOptions](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../imagerenderoptions/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -25,7 +25,7 @@ The Html5SaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/html5saveoptions/__init__/#) | Constructor of [`Html5SaveOptions`](/3d/python-net/aspose.threed.formats/html5saveoptions) with all default settings. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/html5saveoptions/__init__/#) | Constructor of [`Html5SaveOptions`](/3d/python-net/aspose.threed.formats/html5saveoptions) with all default settings. |
 
 
 ### Properties

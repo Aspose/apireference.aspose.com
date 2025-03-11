@@ -12,6 +12,10 @@ is_root: false
 
 
 The texture map for specular glossiness
+### Definition:
+```python
+f MAP_SPECULAR_GLOSSINESS 
+```
 
 ### See Also
 * module [`aspose.threed.shading`](../../)

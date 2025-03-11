@@ -17,7 +17,7 @@ public int Count { get; }
 ### See Also
 
 * class [PropertyCollection](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../propertycollection/)
 * assembly [Aspose.3D](../../../)
 
 

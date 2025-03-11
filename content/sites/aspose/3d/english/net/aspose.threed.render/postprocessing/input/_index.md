@@ -18,7 +18,7 @@ public abstract ITextureUnit Input { get; set; }
 
 * interface [ITextureUnit](../../itextureunit/)
 * class [PostProcessing](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../postprocessing/)
 * assembly [Aspose.3D](../../../)
 
 

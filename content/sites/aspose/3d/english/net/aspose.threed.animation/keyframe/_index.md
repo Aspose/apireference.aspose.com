@@ -3,7 +3,7 @@ title: Class KeyFrame
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Animation.KeyFrame class. A key frame is mainly defined by a time and a value for some interpolation types tangent/tension/bias/continuity is also used by calculating the final sampled value. Sampled values in a nonkeyframe time position is interpolated by keyframes between the previous and next keyframes Value before/after the first/last keyframe are calculated by the Extrapolation class
 type: docs
-weight: 2800
+weight: 90
 url: /net/aspose.threed.animation/keyframe/
 ---
 ## KeyFrame class

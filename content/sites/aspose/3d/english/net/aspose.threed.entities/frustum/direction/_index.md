@@ -18,7 +18,7 @@ public Vector3 Direction { get; set; }
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [Frustum](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../frustum/)
 * assembly [Aspose.3D](../../../)
 
 

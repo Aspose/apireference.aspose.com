@@ -12,6 +12,10 @@ is_root: false
 
 
 Used in [`Material.set_texture`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a specular texture mapping.
+### Definition:
+```python
+f MAP_SPECULAR 
+```
 
 ### See Also
 * module [`aspose.threed.shading`](../../)

@@ -14,7 +14,7 @@ Sets the geometric translation. Geometric transformation only affects the entiti
 public Transform SetGeometricTranslation(double x, double y, double z)
 ```
 
-### Examples
+## Examples
 
 ```csharp
 Node node = new Node();
@@ -24,7 +24,7 @@ node.Transform.SetGeometricTranslation(10, 0, 0);
 ### See Also
 
 * class [Transform](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../transform/)
 * assembly [Aspose.3D](../../../)
 
 

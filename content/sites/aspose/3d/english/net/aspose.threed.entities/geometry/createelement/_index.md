@@ -22,7 +22,7 @@ public VertexElement CreateElement(VertexElementType type)
 
 Created element.
 
-### Remarks
+## Remarks
 
 If type is UV, a [`VertexElementUV`](../../vertexelementuv/) with texture mapping type to Diffuse will be created.
 
@@ -31,7 +31,7 @@ If type is UV, a [`VertexElementUV`](../../vertexelementuv/) with texture mappin
 * class [VertexElement](../../vertexelement/)
 * enum [VertexElementType](../../vertexelementtype/)
 * class [Geometry](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../geometry/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -55,7 +55,7 @@ public VertexElement CreateElement(VertexElementType type, MappingMode mappingMo
 
 Created element.
 
-### Remarks
+## Remarks
 
 If type is UV, a [`VertexElementUV`](../../vertexelementuv/) with texture mapping type to Diffuse will be created.
 
@@ -66,7 +66,7 @@ If type is UV, a [`VertexElementUV`](../../vertexelementuv/) with texture mappin
 * enum [MappingMode](../../mappingmode/)
 * enum [ReferenceMode](../../referencemode/)
 * class [Geometry](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../geometry/)
 * assembly [Aspose.3D](../../../)
 
 

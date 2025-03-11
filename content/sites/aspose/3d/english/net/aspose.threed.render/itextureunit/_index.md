@@ -3,7 +3,7 @@ title: Interface ITextureUnit
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.ITextureUnit interface. ITextureUnit represents a texture in the memory that shared between GPU and CPU and can be sampled by the shader where the Texture only represents a reference to an external file. More details can be found https//en.wikipedia.org/wiki/Texture_mapping_unit
 type: docs
-weight: 630
+weight: 2070
 url: /net/aspose.threed.render/itextureunit/
 ---
 ## ITextureUnit interface

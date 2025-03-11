@@ -12,6 +12,10 @@ is_root: false
 
 
 The m22.
+### Definition:
+```python
+f m22 
+```
 
 ### See Also
 * module [`aspose.threed.utilities`](../../)

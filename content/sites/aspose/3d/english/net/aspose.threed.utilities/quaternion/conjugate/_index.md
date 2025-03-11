@@ -21,7 +21,7 @@ The conjugate quaternion.
 ### See Also
 
 * struct [Quaternion](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../quaternion/)
 * assembly [Aspose.3D](../../../)
 
 

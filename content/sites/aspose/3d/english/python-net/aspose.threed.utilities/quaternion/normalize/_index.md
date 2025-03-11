@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/quaternion/normalize/
 is_root: false
 ---
 
-## normalize {#}
+## normalize(self) {#}
 
 Normalize the quaternion
 
@@ -20,6 +20,7 @@ Normalized quaternion.
 
 
 ```python
+
 def normalize(self):
     ...
 ```

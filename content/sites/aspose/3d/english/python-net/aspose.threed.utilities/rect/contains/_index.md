@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/rect/contains/
 is_root: false
 ---
 
-## contains {#int-int}
+## contains(self, x, y) {#int-int}
 
 Return true if the given point is inside the rectangle.
 
@@ -20,6 +20,7 @@ Return true if the given point is inside the rectangle.
 
 
 ```python
+
 def contains(self, x, y):
     ...
 ```

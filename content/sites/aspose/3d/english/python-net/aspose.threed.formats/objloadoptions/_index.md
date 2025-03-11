@@ -3,7 +3,7 @@ title: ObjLoadOptions class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 180
 url: /python-net/aspose.threed.formats/objloadoptions/
 is_root: false
 ---
@@ -25,7 +25,7 @@ The ObjLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/objloadoptions/__init__/#) | Constructor of [`ObjLoadOptions`](/3d/python-net/aspose.threed.formats/objloadoptions) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/objloadoptions/__init__/#) | Constructor of [`ObjLoadOptions`](/3d/python-net/aspose.threed.formats/objloadoptions) |
 
 
 ### Properties

@@ -19,7 +19,7 @@ public TransformBuilder RotateDegree(double angle, Vector3 axis)
 | angle | Double | The angle to rotate in degree |
 | axis | Vector3 | The axis to rotate |
 
-### Examples
+## Examples
 
 ```csharp
 TransformBuilder tb = new TransformBuilder();
@@ -31,7 +31,7 @@ Console.WriteLine($"Transform Matrix: {tb.Matrix}");
 
 * struct [Vector3](../../vector3/)
 * class [TransformBuilder](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -54,7 +54,7 @@ public void RotateDegree(Vector3 rot, RotationOrder order)
 * struct [Vector3](../../vector3/)
 * enum [RotationOrder](../../rotationorder/)
 * class [TransformBuilder](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder/)
 * assembly [Aspose.3D](../../../)
 
 

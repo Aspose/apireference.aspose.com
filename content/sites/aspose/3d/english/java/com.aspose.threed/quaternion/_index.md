@@ -3,7 +3,7 @@ title: Quaternion
 second_title: Aspose.3D for Java API Reference
 description: Quaternion is usually used to perform rotation in computer graphics.
 type: docs
-weight: 133
+weight: 139
 url: /java/com.aspose.threed/quaternion/
 ---
 
@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/quaternion/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.csporter.helpers.Struct, java.io.Serializable
+com.aspose.threed.Struct, java.io.Serializable
 ```
 public final class Quaternion implements Struct<Quaternion>, Serializable
 ```
@@ -51,10 +51,6 @@ Quaternion is usually used to perform rotation in computer graphics.
 | [fromRotation(Vector3 orig, Vector3 dest)](#fromRotation-com.aspose.threed.Vector3-com.aspose.threed.Vector3-) | Creates a quaternion that rotate from original to destination direction |
 | [getClass()](#getClass--) |  |
 | [getLength()](#getLength--) | Gets the length of the quaternion |
-| [getw()](#getw--) | The w component. |
-| [getx()](#getx--) | The x component. |
-| [gety()](#gety--) | The y component. |
-| [getz()](#getz--) | The z component. |
 | [hashCode()](#hashCode--) | Gets the hash code of Quaternion |
 | [interpolate(float t, Quaternion from, Quaternion to)](#interpolate-float-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-) | Populates this quaternion with the interpolated value between the given quaternion arguments for a t between from and to. |
 | [inverse()](#inverse--) | Returns a inverse quaternion of current quaternion |
@@ -68,13 +64,10 @@ Quaternion is usually used to perform rotation in computer graphics.
 | [notifyAll()](#notifyAll--) |  |
 | [op_eq(Quaternion lhs, Quaternion rhs)](#op-eq-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-) | Equal operator for quaternion |
 | [op_ne(Quaternion lhs, Quaternion rhs)](#op-ne-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-) | Not-equal operator for quaternion |
-| [setw(double value)](#setw-double-) | The w component. |
-| [setx(double value)](#setx-double-) | The x component. |
-| [sety(double value)](#sety-double-) | The y component. |
-| [setz(double value)](#setz-double-) | The z component. |
 | [slerp(double t, Quaternion v1, Quaternion v2)](#slerp-double-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-) | Perform spherical linear interpolation between two values |
 | [toAngleAxis(double[] angle, Vector3 axis)](#toAngleAxis-double---com.aspose.threed.Vector3-) | Decompose the quaternion to angle and axis |
 | [toMatrix()](#toMatrix--) | Convert the rotation presented by quaternion to transform matrix. |
+| [toMatrix(Vector3 translation)](#toMatrix-com.aspose.threed.Vector3-) | Convert the rotation presented by quaternion to transform matrix. |
 | [toString()](#toString--) | Gets the representation of quaternion in string |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -163,7 +156,7 @@ public Quaternion clone()
 ```
 
 
-
+Clone current instance
 
 **Returns:**
 [Quaternion](../../com.aspose.threed/quaternion)
@@ -344,47 +337,7 @@ public double getLength()
 Gets the length of the quaternion
 
 **Returns:**
-double
-### getw() {#getw--}
-```
-public double getw()
-```
-
-
-The w component.
-
-**Returns:**
-double
-### getx() {#getx--}
-```
-public double getx()
-```
-
-
-The x component.
-
-**Returns:**
-double
-### gety() {#gety--}
-```
-public double gety()
-```
-
-
-The y component.
-
-**Returns:**
-double
-### getz() {#getz--}
-```
-public double getz()
-```
-
-
-The z component.
-
-**Returns:**
-double
+double - the length of the quaternion
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()
@@ -560,58 +513,6 @@ Not-equal operator for quaternion
 
 **Returns:**
 boolean - True if two quaternions are not equal.
-### setw(double value) {#setw-double-}
-```
-public void setw(double value)
-```
-
-
-The w component.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | New value |
-
-### setx(double value) {#setx-double-}
-```
-public void setx(double value)
-```
-
-
-The x component.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | New value |
-
-### sety(double value) {#sety-double-}
-```
-public void sety(double value)
-```
-
-
-The y component.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | New value |
-
-### setz(double value) {#setz-double-}
-```
-public void setz(double value)
-```
-
-
-The z component.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | New value |
-
 ### slerp(double t, Quaternion v1, Quaternion v2) {#slerp-double-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-}
 ```
 public static Quaternion slerp(double t, Quaternion v1, Quaternion v2)
@@ -650,6 +551,21 @@ public Matrix4 toMatrix()
 
 
 Convert the rotation presented by quaternion to transform matrix.
+
+**Returns:**
+[Matrix4](../../com.aspose.threed/matrix4) - The matrix representation of current quaternion.
+### toMatrix(Vector3 translation) {#toMatrix-com.aspose.threed.Vector3-}
+```
+public Matrix4 toMatrix(Vector3 translation)
+```
+
+
+Convert the rotation presented by quaternion to transform matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| translation | [Vector3](../../com.aspose.threed/vector3) | The translation part of the matrix. |
 
 **Returns:**
 [Matrix4](../../com.aspose.threed/matrix4) - The matrix representation of current quaternion.

@@ -12,6 +12,10 @@ is_root: false
 
 
 The m10.
+### Definition:
+```python
+f m10 
+```
 
 ### See Also
 * module [`aspose.threed.utilities`](../../)

@@ -17,7 +17,7 @@ public ShaderMaterial()
 ### See Also
 
 * class [ShaderMaterial](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../shadermaterial/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,7 +37,7 @@ public ShaderMaterial(string name)
 ### See Also
 
 * class [ShaderMaterial](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../shadermaterial/)
 * assembly [Aspose.3D](../../../)
 
 

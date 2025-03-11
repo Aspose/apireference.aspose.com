@@ -22,7 +22,7 @@ public void Save(Stream stream, string format)
 ### See Also
 
 * class [TextureData](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../texturedata/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -42,7 +42,7 @@ public void Save(string fileName)
 ### See Also
 
 * class [TextureData](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../texturedata/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -63,7 +63,7 @@ public void Save(string fileName, string format)
 ### See Also
 
 * class [TextureData](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../texturedata/)
 * assembly [Aspose.3D](../../../)
 
 

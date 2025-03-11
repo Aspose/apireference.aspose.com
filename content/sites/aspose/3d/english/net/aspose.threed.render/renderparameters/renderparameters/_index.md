@@ -18,7 +18,7 @@ public RenderParameters(bool doubleBuffering = true, int colorBits = 32, int dep
 ### See Also
 
 * class [RenderParameters](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderparameters/)
 * assembly [Aspose.3D](../../../)
 
 

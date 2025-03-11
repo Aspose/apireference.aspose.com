@@ -16,13 +16,13 @@ public FbxLoadOptions(FileFormat format)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| format | FileFormat |  |
+| format | FileFormat | Instance of [`FileFormat`](../../../aspose.threed/fileformat/), it should be a valid FBX format. |
 
 ### See Also
 
 * class [FileFormat](../../../aspose.threed/fileformat/)
 * class [FbxLoadOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../fbxloadoptions/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -38,7 +38,7 @@ public FbxLoadOptions()
 ### See Also
 
 * class [FbxLoadOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../fbxloadoptions/)
 * assembly [Aspose.3D](../../../)
 
 

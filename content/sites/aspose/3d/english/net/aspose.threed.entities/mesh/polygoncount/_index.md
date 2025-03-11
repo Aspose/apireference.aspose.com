@@ -18,7 +18,7 @@ public int PolygonCount { get; }
 
 The polygon count.
 
-### Examples
+## Examples
 
 The following code shows how to get the number of mesh' polygons.
 
@@ -30,7 +30,7 @@ Console.WriteLine("Mesh's polygon count = " + mesh.PolygonCount);
 ### See Also
 
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
 
 

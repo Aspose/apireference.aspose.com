@@ -3,7 +3,7 @@ title: Enum BoundingBoxExtent
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.BoundingBoxExtent enum. The extent of the bounding box
 type: docs
-weight: 1250
+weight: 2590
 url: /net/aspose.threed.utilities/boundingboxextent/
 ---
 ## BoundingBoxExtent enumeration

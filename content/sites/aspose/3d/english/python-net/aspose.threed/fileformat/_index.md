@@ -53,6 +53,7 @@ The FileFormat type exposes the following members:
 | [GLTF_BINARY](/3d/python-net/aspose.threed/fileformat/gltf_binary) | Khronos Group's glTF in Binary format |
 | [GLTF2_BINARY](/3d/python-net/aspose.threed/fileformat/gltf2_binary) | Khronos Group's glTF version 2.0 |
 | [PDF](/3d/python-net/aspose.threed/fileformat/pdf) | Adobe's Portable Document Format |
+| [BLENDER](/3d/python-net/aspose.threed/fileformat/blender) | Blender's 3D file format |
 | [DXF](/3d/python-net/aspose.threed/fileformat/dxf) | AutoCAD DXF |
 | [PLY](/3d/python-net/aspose.threed/fileformat/ply) | Polygon File Format or Stanford Triangle Format |
 | [X_BINARY](/3d/python-net/aspose.threed/fileformat/x_binary) | DirectX X File in binary format |
@@ -81,11 +82,11 @@ The FileFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [detect](/3d/python-net/aspose.threed/fileformat/detect/#io.RawIOBase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
-| [detect](/3d/python-net/aspose.threed/fileformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
-| [get_format_by_extension](/3d/python-net/aspose.threed/fileformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
-| [create_load_options](/3d/python-net/aspose.threed/fileformat/create_load_options/#) | Create a default load options for this file format |
-| [create_save_options](/3d/python-net/aspose.threed/fileformat/create_save_options/#) | Create a default save options for this file format |
+| [`detect(, stream, file_name)`](/3d/python-net/aspose.threed/fileformat/detect/#io.rawiobase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [`detect(, file_name)`](/3d/python-net/aspose.threed/fileformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
+| [`get_format_by_extension(, extension_name)`](/3d/python-net/aspose.threed/fileformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
+| [`create_load_options(self)`](/3d/python-net/aspose.threed/fileformat/create_load_options/#) | Create a default load options for this file format |
+| [`create_save_options(self)`](/3d/python-net/aspose.threed/fileformat/create_save_options/#) | Create a default save options for this file format |
 
 
 

@@ -58,6 +58,7 @@ The DracoFormat type exposes the following members:
 | [GLTF_BINARY](/3d/python-net/aspose.threed.formats/dracoformat/gltf_binary) | Khronos Group's glTF in Binary format |
 | [GLTF2_BINARY](/3d/python-net/aspose.threed.formats/dracoformat/gltf2_binary) | Khronos Group's glTF version 2.0 |
 | [PDF](/3d/python-net/aspose.threed.formats/dracoformat/pdf) | Adobe's Portable Document Format |
+| [BLENDER](/3d/python-net/aspose.threed.formats/dracoformat/blender) | Blender's 3D file format |
 | [DXF](/3d/python-net/aspose.threed.formats/dracoformat/dxf) | AutoCAD DXF |
 | [PLY](/3d/python-net/aspose.threed.formats/dracoformat/ply) | Polygon File Format or Stanford Triangle Format |
 | [X_BINARY](/3d/python-net/aspose.threed.formats/dracoformat/x_binary) | DirectX X File in binary format |
@@ -86,18 +87,36 @@ The DracoFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [detect](/3d/python-net/aspose.threed.formats/dracoformat/detect/#io.RawIOBase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
-| [detect](/3d/python-net/aspose.threed.formats/dracoformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
-| [decode](/3d/python-net/aspose.threed.formats/dracoformat/decode/#str) | Decode the point cloud or mesh from specified file name |
-| [decode](/3d/python-net/aspose.threed.formats/dracoformat/decode/#bytes) | Decode the point cloud or mesh from memory data |
-| [encode](/3d/python-net/aspose.threed.formats/dracoformat/encode/#aspose.threed.Entity-io.RawIOBase-aspose.threed.formats.DracoSaveOptions) | Encode the entity to specified stream |
-| [encode](/3d/python-net/aspose.threed.formats/dracoformat/encode/#aspose.threed.Entity-str-aspose.threed.formats.DracoSaveOptions) | Encode the entity to specified file |
-| [encode](/3d/python-net/aspose.threed.formats/dracoformat/encode/#aspose.threed.Entity-aspose.threed.formats.DracoSaveOptions) | Encode the entity to Draco raw data |
-| [get_format_by_extension](/3d/python-net/aspose.threed.formats/dracoformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
-| [create_load_options](/3d/python-net/aspose.threed.formats/dracoformat/create_load_options/#) | Create a default load options for this file format |
-| [create_save_options](/3d/python-net/aspose.threed.formats/dracoformat/create_save_options/#) | Create a default save options for this file format |
+| [`detect(, stream, file_name)`](/3d/python-net/aspose.threed.formats/dracoformat/detect/#io.rawiobase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [`detect(, file_name)`](/3d/python-net/aspose.threed.formats/dracoformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
+| [`decode(self, file_name)`](/3d/python-net/aspose.threed.formats/dracoformat/decode/#str) | Decode the point cloud or mesh from specified file name |
+| [`decode(self, data)`](/3d/python-net/aspose.threed.formats/dracoformat/decode/#bytes) | Decode the point cloud or mesh from memory data |
+| [`encode(self, entity, stream, options)`](/3d/python-net/aspose.threed.formats/dracoformat/encode/#aspose.threed.entity-io.rawiobase-aspose.threed.formats.dracosaveoptions) | Encode the entity to specified stream |
+| [`encode(self, entity, file_name, options)`](/3d/python-net/aspose.threed.formats/dracoformat/encode/#aspose.threed.entity-str-aspose.threed.formats.dracosaveoptions) | Encode the entity to specified file |
+| [`encode(self, entity, options)`](/3d/python-net/aspose.threed.formats/dracoformat/encode/#aspose.threed.entity-aspose.threed.formats.dracosaveoptions) | Encode the entity to Draco raw data |
+| [`get_format_by_extension(, extension_name)`](/3d/python-net/aspose.threed.formats/dracoformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
+| [`create_load_options(self)`](/3d/python-net/aspose.threed.formats/dracoformat/create_load_options/#) | Create a default load options for this file format |
+| [`create_save_options(self)`](/3d/python-net/aspose.threed.formats/dracoformat/create_save_options/#) | Create a default save options for this file format |
 
 
+
+### Example 
+
+
+The following code shows how to encode and decode a Mesh to/from byte array:
+		
+```python
+from aspose import pycore
+from aspose.threed import FileFormat
+from aspose.threed.entities import Mesh, Sphere
+
+mesh = Sphere().to_mesh()
+# encode mesh into Draco format
+draco = FileFormat.DRACO.encode(mesh)
+# decode mesh from Draco format
+decodedMesh = pycore.cast(Mesh, FileFormat.DRACO.decode(draco))
+
+```
 
 ### See Also
 * module [`aspose.threed.formats`](..)

@@ -26,7 +26,7 @@ The product of two vectors.
 ### See Also
 
 * struct [FVector2](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fvector2/)
 * assembly [Aspose.3D](../../../)
 
 

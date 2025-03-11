@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/fontfile/parse/
 is_root: false
 ---
 
-## parse {#bytes}
+## parse(, bytes) {#bytes}
 
 Parse FontFile from bytes
 
@@ -20,7 +20,9 @@ FontFile instance
 
 
 ```python
-def parse(self, bytes):
+
+@staticmethod
+def parse(bytes):
     ...
 ```
 

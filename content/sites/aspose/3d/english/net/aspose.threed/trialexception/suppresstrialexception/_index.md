@@ -17,7 +17,7 @@ public static bool SuppressTrialException { get; set; }
 ### See Also
 
 * class [TrialException](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../trialexception/)
 * assembly [Aspose.3D](../../../)
 
 

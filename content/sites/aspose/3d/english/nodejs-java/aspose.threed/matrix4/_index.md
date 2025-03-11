@@ -69,11 +69,11 @@ url: /nodejs-java/aspose.threed/matrix4/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33) | Initializes a new instance of the Matrix4 struct. | 
+| constructor_overload2(m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33) | Initializes a new instance of the Matrix4 struct. | 
 
  **Parameters:**
 
@@ -103,11 +103,11 @@ url: /nodejs-java/aspose.threed/matrix4/
 ---
 
 
-### constructor_overload$3{#constructor_overload$3}
+### constructor_overload3{#constructor_overload3}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$3(m) | Construct Matrix4 from an FMatrix4 instance | 
+| constructor_overload3(m) | Construct Matrix4 from an FMatrix4 instance | 
 
  **Parameters:**
 
@@ -122,11 +122,11 @@ url: /nodejs-java/aspose.threed/matrix4/
 ---
 
 
-### constructor_overload$4{#constructor_overload$4}
+### constructor_overload4{#constructor_overload4}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$4(m) | Initializes a new instance of the Matrix4 struct. | 
+| constructor_overload4(m) | Initializes a new instance of the Matrix4 struct. | 
 
  **Parameters:**
 

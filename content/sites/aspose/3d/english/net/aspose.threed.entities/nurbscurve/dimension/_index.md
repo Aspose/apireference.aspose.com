@@ -14,7 +14,7 @@ Gets or sets the curve's dimension.
 public CurveDimension Dimension { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 For a TwoDimensional curve, the z component in control point is unused.
 
@@ -22,7 +22,7 @@ For a TwoDimensional curve, the z component in control point is unused.
 
 * enum [CurveDimension](../../curvedimension/)
 * class [NurbsCurve](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../nurbscurve/)
 * assembly [Aspose.3D](../../../)
 
 

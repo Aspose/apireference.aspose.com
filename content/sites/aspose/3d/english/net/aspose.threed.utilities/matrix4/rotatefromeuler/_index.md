@@ -18,7 +18,7 @@ public static Matrix4 RotateFromEuler(Vector3 eul)
 | --- | --- | --- |
 | eul | Vector3 | Rotation in radian |
 
-### Examples
+## Examples
 
 The following code shows how to create a matrix for rotate operation.
 
@@ -32,7 +32,7 @@ Console.WriteLine($"Transformed: {t * pos}");
 
 * struct [Vector3](../../vector3/)
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -51,7 +51,7 @@ public static Matrix4 RotateFromEuler(double rx, double ry, double rz)
 | ry | Double | Rotation in y axis in radian |
 | rz | Double | Rotation in z axis in radian |
 
-### Examples
+## Examples
 
 The following code shows how to create a matrix for rotate operation.
 
@@ -64,7 +64,7 @@ Console.WriteLine($"Transformed: {t * pos}");
 ### See Also
 
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 

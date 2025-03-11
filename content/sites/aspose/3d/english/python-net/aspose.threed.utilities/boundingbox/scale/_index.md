@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/boundingbox/scale/
 is_root: false
 ---
 
-## scale {#}
+## scale(self) {#}
 
 Calculates the absolute largest coordinate value of any contained point.
 
@@ -16,10 +16,11 @@ Calculates the absolute largest coordinate value of any contained point.
 ### Returns 
 
 
-
+the calculated absolute largest coordinate value of any contained point.
 
 
 ```python
+
 def scale(self):
     ...
 ```

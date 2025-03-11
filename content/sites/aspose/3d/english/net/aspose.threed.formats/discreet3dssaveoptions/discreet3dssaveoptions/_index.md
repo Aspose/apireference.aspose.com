@@ -17,7 +17,7 @@ public Discreet3dsSaveOptions()
 ### See Also
 
 * class [Discreet3dsSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../discreet3dssaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

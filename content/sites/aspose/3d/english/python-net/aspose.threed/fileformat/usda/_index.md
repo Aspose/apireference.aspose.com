@@ -3,7 +3,7 @@ title: USDA property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 490
+weight: 500
 url: /python-net/aspose.threed/fileformat/usda/
 is_root: false
 ---
@@ -12,6 +12,10 @@ is_root: false
 
 
 Universal Scene Description in ASCII format.
+### Definition:
+```python
+f USDA 
+```
 
 ### See Also
 * module [`aspose.threed`](../../)

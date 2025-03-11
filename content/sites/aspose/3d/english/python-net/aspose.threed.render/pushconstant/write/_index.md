@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.render/pushconstant/write/
 is_root: false
 ---
 
-## write {#aspose.threed.utilities.FMatrix4}
+## write(self, mat) {#aspose.threed.utilities.FMatrix4}
 
 Write the matrix to the constant
 
 
 
 ```python
+
 def write(self, mat):
     ...
 ```
@@ -25,13 +26,14 @@ def write(self, mat):
 | mat | aspose.threed.utilities.FMatrix4 | The matrix to write |
 
 
-## write {#int}
+## write(self, n) {#int}
 
 Write a int value to the constant
 
 
 
 ```python
+
 def write(self, n):
     ...
 ```
@@ -42,13 +44,14 @@ def write(self, n):
 | n | int |  |
 
 
-## write {#float}
+## write(self, f) {#float}
 
 Write a float value to the constant
 
 
 
 ```python
+
 def write(self, f):
     ...
 ```
@@ -59,13 +62,14 @@ def write(self, f):
 | f | float |  |
 
 
-## write {#aspose.threed.utilities.FVector4}
+## write(self, vec) {#aspose.threed.utilities.FVector4}
 
 Write a 4-component vector to the constant
 
 
 
 ```python
+
 def write(self, vec):
     ...
 ```
@@ -76,13 +80,14 @@ def write(self, vec):
 | vec | aspose.threed.utilities.FVector4 |  |
 
 
-## write {#aspose.threed.utilities.FVector3}
+## write(self, vec) {#aspose.threed.utilities.FVector3}
 
 Write a 3-component vector to the constant
 
 
 
 ```python
+
 def write(self, vec):
     ...
 ```
@@ -93,13 +98,14 @@ def write(self, vec):
 | vec | aspose.threed.utilities.FVector3 |  |
 
 
-## write {#float-float-float-float}
+## write(self, x, y, z, w) {#float-float-float-float}
 
 Write a 4-component vector to the constant
 
 
 
 ```python
+
 def write(self, x, y, z, w):
     ...
 ```

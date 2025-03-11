@@ -18,7 +18,7 @@ public Matrix4 TransformMatrix { get; set; }
 
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [TransformedCurve](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../transformedcurve/)
 * assembly [Aspose.3D](../../../)
 
 

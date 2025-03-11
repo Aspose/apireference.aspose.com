@@ -3,7 +3,7 @@ title: BoundingBoxExtent
 second_title: Aspose.3D for Java API Reference
 description: The extent of the bounding box
 type: docs
-weight: 252
+weight: 264
 url: /java/com.aspose.threed/boundingboxextent/
 ---
 

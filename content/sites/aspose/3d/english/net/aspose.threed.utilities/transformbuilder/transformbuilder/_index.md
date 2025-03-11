@@ -24,7 +24,7 @@ public TransformBuilder(Matrix4 initial, ComposeOrder order)
 * struct [Matrix4](../../matrix4/)
 * enum [ComposeOrder](../../composeorder/)
 * class [TransformBuilder](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -45,7 +45,7 @@ public TransformBuilder(ComposeOrder order = ComposeOrder.Append)
 
 * enum [ComposeOrder](../../composeorder/)
 * class [TransformBuilder](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder/)
 * assembly [Aspose.3D](../../../)
 
 

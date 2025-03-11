@@ -3,7 +3,7 @@ title: ITextureUnit
 second_title: Aspose.3D for Java API Reference
 description: represents a texture in the memory that shared between GPU and CPU and can be sampled by the shader  where the  only represents a reference to an external file.
 type: docs
-weight: 242
+weight: 253
 url: /java/com.aspose.threed/itextureunit/
 ---
 
@@ -47,7 +47,7 @@ public abstract int getDepth()
 Gets the height of this texture, for none-3D texture it's always 1.
 
 **Returns:**
-int
+int - the height of this texture, for none-3D texture it's always 1.
 ### getHeight() {#getHeight--}
 ```
 public abstract int getHeight()
@@ -57,7 +57,7 @@ public abstract int getHeight()
 Gets the height of this texture.
 
 **Returns:**
-int
+int - the height of this texture.
 ### getMagnification() {#getMagnification--}
 ```
 public abstract TextureFilter getMagnification()
@@ -67,7 +67,7 @@ public abstract TextureFilter getMagnification()
 Gets the filter mode for magnification.
 
 **Returns:**
-[TextureFilter](../../com.aspose.threed/texturefilter)
+[TextureFilter](../../com.aspose.threed/texturefilter) - the filter mode for magnification.
 ### getMinification() {#getMinification--}
 ```
 public abstract TextureFilter getMinification()
@@ -77,7 +77,7 @@ public abstract TextureFilter getMinification()
 Gets the filter mode for minification.
 
 **Returns:**
-[TextureFilter](../../com.aspose.threed/texturefilter)
+[TextureFilter](../../com.aspose.threed/texturefilter) - the filter mode for minification.
 ### getMipmap() {#getMipmap--}
 ```
 public abstract TextureFilter getMipmap()
@@ -87,7 +87,7 @@ public abstract TextureFilter getMipmap()
 Gets the filter mode for mipmap.
 
 **Returns:**
-[TextureFilter](../../com.aspose.threed/texturefilter)
+[TextureFilter](../../com.aspose.threed/texturefilter) - the filter mode for mipmap.
 ### getScale() {#getScale--}
 ```
 public abstract Vector2 getScale()
@@ -97,7 +97,7 @@ public abstract Vector2 getScale()
 Gets the scale of the UV coordinate.
 
 **Returns:**
-[Vector2](../../com.aspose.threed/vector2)
+[Vector2](../../com.aspose.threed/vector2) - the scale of the UV coordinate.
 ### getScroll() {#getScroll--}
 ```
 public abstract Vector2 getScroll()
@@ -107,7 +107,7 @@ public abstract Vector2 getScroll()
 Gets the scroll of the UV coordinate.
 
 **Returns:**
-[Vector2](../../com.aspose.threed/vector2)
+[Vector2](../../com.aspose.threed/vector2) - the scroll of the UV coordinate.
 ### getType() {#getType--}
 ```
 public abstract TextureType getType()
@@ -117,7 +117,7 @@ public abstract TextureType getType()
 Gets the type of this texture unit.
 
 **Returns:**
-[TextureType](../../com.aspose.threed/texturetype)
+[TextureType](../../com.aspose.threed/texturetype) - the type of this texture unit.
 ### getUWrap() {#getUWrap--}
 ```
 public abstract WrapMode getUWrap()
@@ -127,7 +127,7 @@ public abstract WrapMode getUWrap()
 Gets the wrap mode for texture's U coordinate.
 
 **Returns:**
-[WrapMode](../../com.aspose.threed/wrapmode)
+[WrapMode](../../com.aspose.threed/wrapmode) - the wrap mode for texture's U coordinate.
 ### getVWrap() {#getVWrap--}
 ```
 public abstract WrapMode getVWrap()
@@ -137,7 +137,7 @@ public abstract WrapMode getVWrap()
 Gets the wrap mode for texture's V coordinate.
 
 **Returns:**
-[WrapMode](../../com.aspose.threed/wrapmode)
+[WrapMode](../../com.aspose.threed/wrapmode) - the wrap mode for texture's V coordinate.
 ### getWWrap() {#getWWrap--}
 ```
 public abstract WrapMode getWWrap()
@@ -147,7 +147,7 @@ public abstract WrapMode getWWrap()
 Gets the wrap mode for texture's W coordinate.
 
 **Returns:**
-[WrapMode](../../com.aspose.threed/wrapmode)
+[WrapMode](../../com.aspose.threed/wrapmode) - the wrap mode for texture's W coordinate.
 ### getWidth() {#getWidth--}
 ```
 public abstract int getWidth()
@@ -157,7 +157,7 @@ public abstract int getWidth()
 Gets the width of this texture.
 
 **Returns:**
-int
+int - the width of this texture.
 ### setMagnification(TextureFilter value) {#setMagnification-com.aspose.threed.TextureFilter-}
 ```
 public abstract void setMagnification(TextureFilter value)

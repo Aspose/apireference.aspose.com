@@ -19,7 +19,7 @@ public static Matrix4 Rotate(double angle, Vector3 axis)
 | angle | Double | Rotate angle in radian |
 | axis | Vector3 | Rotation axis |
 
-### Examples
+## Examples
 
 The following code shows how to create a matrix for rotate operation.
 
@@ -33,7 +33,7 @@ Console.WriteLine($"Transformed: {t * pos}");
 
 * struct [Vector3](../../vector3/)
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -50,7 +50,7 @@ public static Matrix4 Rotate(Quaternion q)
 | --- | --- | --- |
 | q | Quaternion | Rotation quaternion |
 
-### Examples
+## Examples
 
 The following code shows how to create a matrix for rotate operation.
 
@@ -64,7 +64,7 @@ Console.WriteLine($"Transformed: {t * pos}");
 
 * struct [Quaternion](../../quaternion/)
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 

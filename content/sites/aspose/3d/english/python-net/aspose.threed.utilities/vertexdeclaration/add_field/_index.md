@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.utilities/vertexdeclaration/add_field/
 is_root: false
 ---
 
-## add_field {#aspose.threed.utilities.VertexFieldDataType-aspose.threed.utilities.VertexFieldSemantic-int-str}
+## add_field(self, data_type, semantic, index, alias) {#aspose.threed.utilities.VertexFieldDataType-aspose.threed.utilities.VertexFieldSemantic-int-str}
 
 Add a new vertex field
 
 
 
 ```python
+
 def add_field(self, data_type, semantic, index, alias):
     ...
 ```

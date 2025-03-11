@@ -3,7 +3,7 @@ title: Enum PolygonMode
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.PolygonMode enum. The polygon rasterization mode
 type: docs
-weight: 830
+weight: 2140
 url: /net/aspose.threed.render/polygonmode/
 ---
 ## PolygonMode enumeration

@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.profiles/arbitraryprofile/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructor of [`ArbitraryProfile`](/3d/python-net/aspose.threed.profiles/arbitraryprofile)
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.threed.entities.Curve}
+## \_\_init\_\_(self, curve) {#aspose.threed.entities.Curve}
 
 Constructor of [`ArbitraryProfile`](/3d/python-net/aspose.threed.profiles/arbitraryprofile) with an initial curve.
 
 
 
 ```python
+
 def __init__(self, curve):
     ...
 ```
@@ -36,7 +38,7 @@ def __init__(self, curve):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| curve | aspose.threed.entities.Curve |  |
+| curve | aspose.threed.entities.Curve | Initial curve of the profile |
 
 
 

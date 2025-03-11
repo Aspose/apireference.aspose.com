@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.deformers/bone/find_property/
 is_root: false
 ---
 
-## find_property {#str}
+## find_property(self, property_name) {#str}
 
 Finds the property.
 It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) 
@@ -22,6 +22,7 @@ The property.
 
 
 ```python
+
 def find_property(self, property_name):
     ...
 ```

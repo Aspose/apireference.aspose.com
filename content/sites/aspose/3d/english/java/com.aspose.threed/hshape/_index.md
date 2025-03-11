@@ -3,7 +3,7 @@ title: HShape
 second_title: Aspose.3D for Java API Reference
 description: The  provides the defining parameters of an H or I shape.
 type: docs
-weight: 72
+weight: 73
 url: /java/com.aspose.threed/hshape/
 ---
 
@@ -116,7 +116,7 @@ public double getBottomFlangeEdgeRadius()
 Gets the radius of the upper edges of the bottom flange.
 
 **Returns:**
-double
+double - the radius of the upper edges of the bottom flange.
 ### getBottomFlangeFilletRadius() {#getBottomFlangeFilletRadius--}
 ```
 public double getBottomFlangeFilletRadius()
@@ -126,7 +126,7 @@ public double getBottomFlangeFilletRadius()
 Gets the radius of fillet between the web and the bottom flange.
 
 **Returns:**
-double
+double - the radius of fillet between the web and the bottom flange.
 ### getBottomFlangeThickness() {#getBottomFlangeThickness--}
 ```
 public double getBottomFlangeThickness()
@@ -136,7 +136,7 @@ public double getBottomFlangeThickness()
 Gets the flange thickness of H-shape.
 
 **Returns:**
-double
+double - the flange thickness of H-shape.
 ### getBottomFlangeWidth() {#getBottomFlangeWidth--}
 ```
 public double getBottomFlangeWidth()
@@ -146,14 +146,17 @@ public double getBottomFlangeWidth()
 Gets the extent of the width.
 
 **Returns:**
-double
+double - the extent of the width.
 ### getBoundingBox() {#getBoundingBox--}
 ```
 public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+Gets the bounding box of current entity in its object space coordinate system.
+
+**Returns:**
+[BoundingBox](../../com.aspose.threed/boundingbox) - the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
 
 ```
 Entity entity = new Sphere();
@@ -161,9 +164,6 @@ Entity entity = new Sphere();
      var bbox = entity.getBoundingBox();
      System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
 ```
-
-**Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -193,7 +193,7 @@ public boolean getExcluded()
 Gets whether to exclude this entity during exporting.
 
 **Returns:**
-boolean
+boolean - whether to exclude this entity during exporting.
 ### getExtent() {#getExtent--}
 ```
 public Vector2 getExtent()
@@ -213,7 +213,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getOverallDepth() {#getOverallDepth--}
 ```
 public double getOverallDepth()
@@ -223,7 +223,7 @@ public double getOverallDepth()
 Gets the extent of the depth.
 
 **Returns:**
-double
+double - the extent of the depth.
 ### getParentNode() {#getParentNode--}
 ```
 public Node getParentNode()
@@ -233,7 +233,7 @@ public Node getParentNode()
 Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 ### getParentNodes() {#getParentNodes--}
 ```
 public ArrayList<Node> getParentNodes()
@@ -243,7 +243,7 @@ public ArrayList<Node> getParentNodes()
 Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 
 **Returns:**
-java.util.ArrayList<com.aspose.threed.Node>
+java.util.ArrayList<com.aspose.threed.Node> - all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -253,7 +253,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -278,7 +278,7 @@ public Scene getScene()
 Gets the scene that this object belongs to
 
 **Returns:**
-[Scene](../../com.aspose.threed/scene)
+[Scene](../../com.aspose.threed/scene) - the scene that this object belongs to
 ### getTopFlangeEdgeRadius() {#getTopFlangeEdgeRadius--}
 ```
 public double getTopFlangeEdgeRadius()
@@ -288,7 +288,7 @@ public double getTopFlangeEdgeRadius()
 Gets the radius of the lower edges of the top flange.
 
 **Returns:**
-double
+double - the radius of the lower edges of the top flange.
 ### getTopFlangeFilletRadius() {#getTopFlangeFilletRadius--}
 ```
 public double getTopFlangeFilletRadius()
@@ -298,7 +298,7 @@ public double getTopFlangeFilletRadius()
 Gets the radius of fillet between the web and the top flange.
 
 **Returns:**
-double
+double - the radius of fillet between the web and the top flange.
 ### getTopFlangeThickness() {#getTopFlangeThickness--}
 ```
 public double getTopFlangeThickness()
@@ -308,7 +308,7 @@ public double getTopFlangeThickness()
 Gets the thickness of the top flange.
 
 **Returns:**
-double
+double - the thickness of the top flange.
 ### getTopFlangeWidth() {#getTopFlangeWidth--}
 ```
 public double getTopFlangeWidth()
@@ -318,7 +318,7 @@ public double getTopFlangeWidth()
 Gets the width of the top flange.
 
 **Returns:**
-double
+double - the width of the top flange.
 ### getWebThickness() {#getWebThickness--}
 ```
 public double getWebThickness()
@@ -328,7 +328,7 @@ public double getWebThickness()
 Gets the thickness of the web of the H-shape.
 
 **Returns:**
-double
+double - the thickness of the web of the H-shape.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -381,10 +381,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setBottomFlangeEdgeRadius(double value) {#setBottomFlangeEdgeRadius-double-}
 ```
 public void setBottomFlangeEdgeRadius(double value)

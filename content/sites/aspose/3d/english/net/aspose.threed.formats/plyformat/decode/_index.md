@@ -22,7 +22,7 @@ public Geometry Decode(string fileName)
 
 A [`Mesh`](../../../aspose.threed.entities/mesh/) or [`PointCloud`](../../../aspose.threed.entities/pointcloud/) instance
 
-### Examples
+## Examples
 
 The following code shows how to decode a mesh from a PLY file:
 
@@ -37,7 +37,7 @@ var mesh = (Mesh)FileFormat.PLY.Decode("sphere.ply")
 
 * class [Geometry](../../../aspose.threed.entities/geometry/)
 * class [PlyFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../plyformat/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -59,7 +59,7 @@ public Geometry Decode(string fileName, PlyLoadOptions opt)
 
 A [`Mesh`](../../../aspose.threed.entities/mesh/) or [`PointCloud`](../../../aspose.threed.entities/pointcloud/) instance
 
-### Examples
+## Examples
 
 The following code shows how to decode a mesh from a PLY file:
 
@@ -75,7 +75,7 @@ var mesh = (Mesh)FileFormat.PLY.Decode("sphere.ply")
 * class [Geometry](../../../aspose.threed.entities/geometry/)
 * class [PlyLoadOptions](../../plyloadoptions/)
 * class [PlyFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../plyformat/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -96,7 +96,7 @@ public Geometry Decode(Stream stream)
 
 A [`Mesh`](../../../aspose.threed.entities/mesh/) or [`PointCloud`](../../../aspose.threed.entities/pointcloud/) instance
 
-### Examples
+## Examples
 
 The following code shows how to decode a mesh from a PLY file:
 
@@ -111,7 +111,7 @@ var mesh = (Mesh)FileFormat.PLY.Decode("sphere.ply")
 
 * class [Geometry](../../../aspose.threed.entities/geometry/)
 * class [PlyFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../plyformat/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -133,7 +133,7 @@ public Geometry Decode(Stream stream, PlyLoadOptions opt)
 
 A [`Mesh`](../../../aspose.threed.entities/mesh/) or [`PointCloud`](../../../aspose.threed.entities/pointcloud/) instance
 
-### Examples
+## Examples
 
 The following code shows how to decode a mesh from a PLY file:
 
@@ -149,7 +149,7 @@ var mesh = (Mesh)FileFormat.PLY.Decode("sphere.ply")
 * class [Geometry](../../../aspose.threed.entities/geometry/)
 * class [PlyLoadOptions](../../plyloadoptions/)
 * class [PlyFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../plyformat/)
 * assembly [Aspose.3D](../../../)
 
 

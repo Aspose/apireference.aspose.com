@@ -16,7 +16,7 @@ public void AddData(IEnumerable<Vector2> data)
 
 * struct [Vector2](../../../aspose.threed.utilities/vector2/)
 * class [VertexElementUV](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementuv/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -31,7 +31,7 @@ public void AddData(IEnumerable<Vector3> data)
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [VertexElementUV](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementuv/)
 * assembly [Aspose.3D](../../../)
 
 

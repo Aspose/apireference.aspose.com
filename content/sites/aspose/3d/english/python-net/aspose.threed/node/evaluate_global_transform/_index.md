@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/node/evaluate_global_transform/
 is_root: false
 ---
 
-## evaluate_global_transform {#bool}
+## evaluate_global_transform(self, with_geometric_transform) {#bool}
 
 Evaluate the global transform, include the geometric transform or not.
 
@@ -20,6 +20,7 @@ The global transform matrix.
 
 
 ```python
+
 def evaluate_global_transform(self, with_geometric_transform):
     ...
 ```

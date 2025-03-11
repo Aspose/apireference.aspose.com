@@ -18,7 +18,7 @@ public Axis? FrontVector { get; set; }
 
 * enum [Axis](../../axis/)
 * class [AssetInfo](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../assetinfo/)
 * assembly [Aspose.3D](../../../)
 
 

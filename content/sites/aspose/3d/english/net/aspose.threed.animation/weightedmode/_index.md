@@ -3,7 +3,7 @@ title: Enum WeightedMode
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Animation.WeightedMode enum. Weighted mode
 type: docs
-weight: 2740
+weight: 120
 url: /net/aspose.threed.animation/weightedmode/
 ---
 ## WeightedMode enumeration

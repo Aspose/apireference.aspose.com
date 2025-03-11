@@ -14,11 +14,15 @@ Create a default load options for this file format
 public LoadOptions CreateLoadOptions()
 ```
 
+### Return Value
+
+A default load option for current format
+
 ### See Also
 
 * class [LoadOptions](../../../aspose.threed.formats/loadoptions/)
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 

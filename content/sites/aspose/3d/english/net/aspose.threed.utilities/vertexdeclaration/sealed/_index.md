@@ -17,7 +17,7 @@ public bool Sealed { get; }
 ### See Also
 
 * class [VertexDeclaration](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vertexdeclaration/)
 * assembly [Aspose.3D](../../../)
 
 

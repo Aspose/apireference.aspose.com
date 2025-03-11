@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.entities/patch/add_element/
 is_root: false
 ---
 
-## add_element {#aspose.threed.entities.VertexElement}
+## add_element(self, element) {#aspose.threed.entities.VertexElement}
 
 Adds an existing vertex element to current geometry
 
 
 
 ```python
+
 def add_element(self, element):
     ...
 ```

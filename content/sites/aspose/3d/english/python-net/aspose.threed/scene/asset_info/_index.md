@@ -3,7 +3,7 @@ title: asset_info property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /python-net/aspose.threed/scene/asset_info/
 is_root: false
 ---

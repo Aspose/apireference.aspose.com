@@ -3,7 +3,7 @@ title: FileContentType
 second_title: Aspose.3D for Java API Reference
 description: File content type
 type: docs
-weight: 262
+weight: 274
 url: /java/com.aspose.threed/filecontenttype/
 ---
 

@@ -3,7 +3,7 @@ title: StlSaveOptions class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 310
 url: /python-net/aspose.threed.formats/stlsaveoptions/
 is_root: false
 ---
@@ -25,8 +25,8 @@ The StlSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/stlsaveoptions/__init__/#) | Initializes of a new [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance. |
-| [__init__](/3d/python-net/aspose.threed.formats/stlsaveoptions/__init__/#aspose.threed.FileContentType) | Initializes of a new [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/stlsaveoptions/__init__/#) | Initializes of a new [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance. |
+| [`__init__(self, content_type)`](/3d/python-net/aspose.threed.formats/stlsaveoptions/__init__/#aspose.threed.filecontenttype) | Initializes of a new [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance. |
 
 
 ### Properties

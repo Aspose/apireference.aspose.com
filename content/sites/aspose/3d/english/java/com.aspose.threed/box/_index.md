@@ -145,7 +145,10 @@ public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+Gets the bounding box of current entity in its object space coordinate system.
+
+**Returns:**
+[BoundingBox](../../com.aspose.threed/boundingbox) - the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
 
 ```
 Entity entity = new Sphere();
@@ -153,9 +156,6 @@ Entity entity = new Sphere();
      var bbox = entity.getBoundingBox();
      System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
 ```
-
-**Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
 ### getCastShadows() {#getCastShadows--}
 ```
 public boolean getCastShadows()
@@ -165,7 +165,7 @@ public boolean getCastShadows()
 Gets whether this geometry can cast shadow
 
 **Returns:**
-boolean
+boolean - whether this geometry can cast shadow
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -185,7 +185,7 @@ public EntityRendererKey getEntityRendererKey()
 Gets the key of the entity renderer registered in the renderer
 
 **Returns:**
-[EntityRendererKey](../../com.aspose.threed/entityrendererkey)
+[EntityRendererKey](../../com.aspose.threed/entityrendererkey) - the key of the entity renderer registered in the renderer
 ### getExcluded() {#getExcluded--}
 ```
 public boolean getExcluded()
@@ -195,7 +195,7 @@ public boolean getExcluded()
 Gets whether to exclude this entity during exporting.
 
 **Returns:**
-boolean
+boolean - whether to exclude this entity during exporting.
 ### getHeight() {#getHeight--}
 ```
 public double getHeight()
@@ -205,7 +205,7 @@ public double getHeight()
 Gets the height of the box aligned in y-axis.
 
 **Returns:**
-double
+double - the height of the box aligned in y-axis.
 ### getHeightSegments() {#getHeightSegments--}
 ```
 public int getHeightSegments()
@@ -215,7 +215,7 @@ public int getHeightSegments()
 gets or sets the height segments.
 
 **Returns:**
-int
+int - gets or sets the height segments.
 ### getLength() {#getLength--}
 ```
 public double getLength()
@@ -225,7 +225,7 @@ public double getLength()
 Gets the length of the box aligned in z-axis.
 
 **Returns:**
-double
+double - the length of the box aligned in z-axis.
 ### getLengthSegments() {#getLengthSegments--}
 ```
 public int getLengthSegments()
@@ -235,7 +235,7 @@ public int getLengthSegments()
 Gets the length segments.
 
 **Returns:**
-int
+int - the length segments.
 ### getName() {#getName--}
 ```
 public String getName()
@@ -245,7 +245,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getParentNode() {#getParentNode--}
 ```
 public Node getParentNode()
@@ -255,7 +255,7 @@ public Node getParentNode()
 Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 ### getParentNodes() {#getParentNodes--}
 ```
 public ArrayList<Node> getParentNodes()
@@ -265,7 +265,7 @@ public ArrayList<Node> getParentNodes()
 Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 
 **Returns:**
-java.util.ArrayList<com.aspose.threed.Node>
+java.util.ArrayList<com.aspose.threed.Node> - all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -275,7 +275,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -300,7 +300,7 @@ public boolean getReceiveShadows()
 Gets whether this geometry can receive shadow.
 
 **Returns:**
-boolean
+boolean - whether this geometry can receive shadow.
 ### getScene() {#getScene--}
 ```
 public Scene getScene()
@@ -310,7 +310,7 @@ public Scene getScene()
 Gets the scene that this object belongs to
 
 **Returns:**
-[Scene](../../com.aspose.threed/scene)
+[Scene](../../com.aspose.threed/scene) - the scene that this object belongs to
 ### getWidth() {#getWidth--}
 ```
 public double getWidth()
@@ -320,7 +320,7 @@ public double getWidth()
 Gets the width of the box aligned in x-axis.
 
 **Returns:**
-double
+double - the width of the box aligned in x-axis.
 ### getWidthSegments() {#getWidthSegments--}
 ```
 public int getWidthSegments()
@@ -330,7 +330,7 @@ public int getWidthSegments()
 Gets the width segments
 
 **Returns:**
-int
+int - the width segments
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -383,10 +383,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setCastShadows(boolean value) {#setCastShadows-boolean-}
 ```
 public void setCastShadows(boolean value)

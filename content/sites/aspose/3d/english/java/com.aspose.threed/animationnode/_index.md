@@ -27,7 +27,6 @@ Aspose.3D's supports animation hierarchy, each animation can be composed by seve
 | [createBindPoint(A3DObject obj, String propName)](#createBindPoint-com.aspose.threed.A3DObject-java.lang.String-) | Creates a BindPoint based on the property data type. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [findBindPoint(A3DObject target, String name)](#findBindPoint-com.aspose.threed.A3DObject-java.lang.String-) | Finds the bind point by target and name. |
-| [findBindPoint(String name)](#findBindPoint-java.lang.String-) | Finds the bind point by name. |
 | [findProperty(String propertyName)](#findProperty-java.lang.String-) | Finds the property. |
 | [getBindPoint(A3DObject target, String propName, boolean create)](#getBindPoint-com.aspose.threed.A3DObject-java.lang.String-boolean-) | Gets the animation bind point on given property. |
 | [getBindPoints()](#getBindPoints--) | Gets the current property bind points |
@@ -117,21 +116,6 @@ Finds the bind point by target and name.
 
 **Returns:**
 [BindPoint](../../com.aspose.threed/bindpoint) - The bind point.
-### findBindPoint(String name) {#findBindPoint-java.lang.String-}
-```
-public BindPoint findBindPoint(String name)
-```
-
-
-Finds the bind point by name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | Bind point's name to find. |
-
-**Returns:**
-[BindPoint](../../com.aspose.threed/bindpoint) - The bind point.
 ### findProperty(String propertyName) {#findProperty-java.lang.String-}
 ```
 public Property findProperty(String propertyName)
@@ -173,7 +157,7 @@ public List<BindPoint> getBindPoints()
 Gets the current property bind points
 
 **Returns:**
-java.util.List<com.aspose.threed.BindPoint>
+java.util.List<com.aspose.threed.BindPoint> - the current property bind points
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -228,7 +212,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -238,7 +222,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -263,7 +247,7 @@ public List<AnimationNode> getSubAnimations()
 Gets the sub-animation nodes under current animations
 
 **Returns:**
-java.util.List<com.aspose.threed.AnimationNode>
+java.util.List<com.aspose.threed.AnimationNode> - the sub-animation nodes under current animations
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -316,10 +300,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setName(String value) {#setName-java.lang.String-}
 ```
 public void setName(String value)

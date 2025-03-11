@@ -17,7 +17,7 @@ public bool CenterScene { get; set; }
 ### See Also
 
 * class [RvmLoadOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../rvmloadoptions/)
 * assembly [Aspose.3D](../../../)
 
 

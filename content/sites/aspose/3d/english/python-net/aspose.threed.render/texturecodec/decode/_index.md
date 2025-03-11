@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/texturecodec/decode/
 is_root: false
 ---
 
-## decode {#io.RawIOBase-bool}
+## decode(, stream, reverse_y) {#io.RawIOBase-bool}
 
 Decode texture data from stream
 
@@ -20,7 +20,9 @@ Decode texture data from stream
 
 
 ```python
-def decode(self, stream, reverse_y):
+
+@staticmethod
+def decode(stream, reverse_y):
     ...
 ```
 

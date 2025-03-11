@@ -22,7 +22,7 @@ public double ReadDouble(VertexField field)
 
 * class [VertexField](../../vertexfield/)
 * class [Vertex](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vertex/)
 * assembly [Aspose.3D](../../../)
 
 

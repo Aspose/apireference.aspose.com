@@ -3,7 +3,7 @@ title: FontFile
 second_title: Aspose.3D for Java API Reference
 description: Font file contains definitions for glyphs this is used to create text profile.
 type: docs
-weight: 65
+weight: 66
 url: /java/com.aspose.threed/fontfile/
 ---
 
@@ -13,7 +13,18 @@ java.lang.Object, [com.aspose.threed.A3DObject](../../com.aspose.threed/a3dobjec
 public abstract class FontFile extends A3DObject
 ```
 
-Font file contains definitions for glyphs, this is used to create text profile.
+Font file contains definitions for glyphs, this is used to create text profile. **Example:** The following code shows how to create a 3D mesh from text using specified font file.
+
+```
+var font = FontFile.fromFile("CascadiaCode-Regular.otf");
+             var text = new Text();
+             text.setFont(font);
+             text.setContent("ABC");
+             text.setFontSize(10);
+             var linear = new LinearExtrusion(text, 10).toMesh();
+             var scene = new Scene(linear);
+             scene.save("test.stl");
+```
 ## Constructors
 
 | Constructor | Description |
@@ -112,7 +123,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -122,7 +133,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -205,10 +216,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setName(String value) {#setName-java.lang.String-}
 ```
 public void setName(String value)

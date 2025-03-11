@@ -28,9 +28,9 @@ The IRenderTexture type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [create_viewport](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.Camera-aspose.threed.utilities.Vector3-aspose.threed.utilities.RelativeRectangle) | Create a viewport with specified background color and position/size in specified camera perspective. |
-| [create_viewport](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.Camera-aspose.threed.utilities.RelativeRectangle) | Create a viewport with position/size in specified camera perspective. |
-| [create_viewport](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.Camera) | Create a viewport in specified camera perspective. |
+| [`create_viewport(self, camera, background_color, rect)`](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.camera-aspose.threed.utilities.vector3-aspose.threed.utilities.relativerectangle) | Create a viewport with specified background color and position/size in specified camera perspective. |
+| [`create_viewport(self, camera, rect)`](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.camera-aspose.threed.utilities.relativerectangle) | Create a viewport with position/size in specified camera perspective. |
+| [`create_viewport(self, camera)`](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.camera) | Create a viewport in specified camera perspective. |
 
 
 

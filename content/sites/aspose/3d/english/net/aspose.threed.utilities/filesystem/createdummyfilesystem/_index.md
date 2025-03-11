@@ -14,7 +14,11 @@ Create a dummy file system, read/write operations are dummy operations.
 public static FileSystem CreateDummyFileSystem()
 ```
 
-### Examples
+### Return Value
+
+A dummy file system
+
+## Examples
 
 The following code shows how to export file to memory, and ignore all dependent file generation.
 
@@ -37,7 +41,7 @@ using (var ms = new MemoryStream())
 ### See Also
 
 * class [FileSystem](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../filesystem/)
 * assembly [Aspose.3D](../../../)
 
 

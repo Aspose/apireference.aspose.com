@@ -3,7 +3,7 @@ title: LambertMaterial
 second_title: Aspose.3D for Java API Reference
 description: Material for lambert shading model
 type: docs
-weight: 85
+weight: 88
 url: /java/com.aspose.threed/lambertmaterial/
 ---
 
@@ -38,7 +38,7 @@ Material for lambert shading model
 | [getAmbientColor()](#getAmbientColor--) | Gets the ambient color |
 | [getClass()](#getClass--) |  |
 | [getDiffuseColor()](#getDiffuseColor--) | Gets the diffuse color |
-| [getEmissiveColor()](#getEmissiveColor--) | Gets the emissive color **Example:** |
+| [getEmissiveColor()](#getEmissiveColor--) | Gets the emissive color |
 | [getName()](#getName--) | Gets the name. |
 | [getProperties()](#getProperties--) | Gets the collection of all properties. |
 | [getProperty(String property)](#getProperty-java.lang.String-) | Get the value of specified property |
@@ -163,7 +163,7 @@ public Vector3 getAmbientColor()
 Gets the ambient color
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the ambient color
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -183,22 +183,22 @@ public Vector3 getDiffuseColor()
 Gets the diffuse color
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the diffuse color
 ### getEmissiveColor() {#getEmissiveColor--}
 ```
 public Vector3 getEmissiveColor()
 ```
 
 
-Gets the emissive color **Example:**
+Gets the emissive color
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3) - the emissive color **Example:**
 
 ```
 var mat = new LambertMaterial();
      mat.setEmissiveColor(new Vector3(1, 1, 1));
 ```
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
 ### getName() {#getName--}
 ```
 public String getName()
@@ -208,7 +208,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -218,7 +218,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -266,7 +266,7 @@ public double getTransparency()
 Gets the transparency factor. The factor should be ranged between 0(0%, fully opaque) and 1(100%, fully transparent) Any invalid factor value will be clamped.
 
 **Returns:**
-double
+double - the transparency factor. The factor should be ranged between 0(0%, fully opaque) and 1(100%, fully transparent) Any invalid factor value will be clamped.
 ### getTransparentColor() {#getTransparentColor--}
 ```
 public Vector3 getTransparentColor()
@@ -276,7 +276,7 @@ public Vector3 getTransparentColor()
 Gets the transparent color.
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the transparent color.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -339,10 +339,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setAmbientColor(Vector3 value) {#setAmbientColor-com.aspose.threed.Vector3-}
 ```
 public void setAmbientColor(Vector3 value)

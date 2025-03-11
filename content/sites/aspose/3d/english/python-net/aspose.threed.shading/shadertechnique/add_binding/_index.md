@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.shading/shadertechnique/add_binding/
 is_root: false
 ---
 
-## add_binding {#str-str}
+## add_binding(self, property, shader_parameter) {#str-str}
 
 Binds the dynamic property to shader parameter
 
 
 
 ```python
+
 def add_binding(self, property, shader_parameter):
     ...
 ```

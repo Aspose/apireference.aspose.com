@@ -14,7 +14,7 @@ Content of the text
 public string Content { get; set; }
 ```
 
-### Examples
+## Examples
 
 The following code shows how to create a 3D mesh from text using specified font file.
 
@@ -32,7 +32,7 @@ scene.Save(@"test.stl");
 ### See Also
 
 * class [Text](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../text/)
 * assembly [Aspose.3D](../../../)
 
 

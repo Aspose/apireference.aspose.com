@@ -17,7 +17,7 @@ public Text()
 ### See Also
 
 * class [Text](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../text/)
 * assembly [Aspose.3D](../../../)
 
 

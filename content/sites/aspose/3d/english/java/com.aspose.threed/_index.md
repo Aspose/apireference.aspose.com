@@ -24,12 +24,13 @@ url: /java/com.aspose.threed/
 | [BindPoint](../com.aspose.threed/bindpoint) | A [BindPoint](../com.aspose.threed/bindpoint) is usually created on an object's property, some property types contains multiple component fields(like a Vector3 field), [BindPoint](../com.aspose.threed/bindpoint) will generate channel for each component field and connects the field to one or more keyframe sequence instance(s) through the channels. |
 | [Bone](../com.aspose.threed/bone) | A bone defines the subset of the geometry's control point, and defined blend weight for each control point. |
 | [BonePose](../com.aspose.threed/bonepose) | The [BonePose](../com.aspose.threed/bonepose) contains the transformation matrix for a bone node |
-| [BoundingBox](../com.aspose.threed/boundingbox) | The axis-aligned bounding box |
+| [BoundingBox](../com.aspose.threed/boundingbox) | The axis-aligned bounding box **Example:** The following code shows how to get a bounding box from an Entity instance. |
 | [BoundingBox2D](../com.aspose.threed/boundingbox2d) | The axis-aligned bounding box for [Vector2](../com.aspose.threed/vector2) |
 | [Box](../com.aspose.threed/box) | Box. |
 | [CShape](../com.aspose.threed/cshape) | IFC compatible C-shape profile that defined by parameters. |
 | [Camera](../com.aspose.threed/camera) | The camera describes the eye point of the viewer looking at the scene. |
 | [Cancellation](../com.aspose.threed/cancellation) | This class allows you to manually abort a load/save task. |
+| [CenterLineProfile](../com.aspose.threed/centerlineprofile) | IFC compatible center line profile |
 | [Circle](../com.aspose.threed/circle) | A [Circle](../com.aspose.threed/circle) curve consists of a set of points in the edge of the circle shape. |
 | [CircleShape](../com.aspose.threed/circleshape) | IFC compatible circle profile, which can be used to construct a mesh through [LinearExtrusion](../com.aspose.threed/linearextrusion) |
 | [ColladaSaveOptions](../com.aspose.threed/colladasaveoptions) | Save options for collada |
@@ -46,10 +47,9 @@ url: /java/com.aspose.threed/
 | [Discreet3dsLoadOptions](../com.aspose.threed/discreet3dsloadoptions) | Load options for 3DS file. |
 | [Discreet3dsSaveOptions](../com.aspose.threed/discreet3dssaveoptions) | Save options for 3DS file. |
 | [Dish](../com.aspose.threed/dish) | Parameterized dish. |
-| [DracoFormat](../com.aspose.threed/dracoformat) | Google Draco format |
+| [DracoFormat](../com.aspose.threed/dracoformat) | Google Draco format **Example:** The following code shows how to encode and decode a Mesh to/from byte array: |
 | [DracoSaveOptions](../com.aspose.threed/dracosaveoptions) | Save options for Google draco files |
 | [DriverException](../com.aspose.threed/driverexception) | The exception raised by internal rendering drivers. |
-| [DummyFileSystem](../com.aspose.threed/dummyfilesystem) | Read/write operations are dummy operations. |
 | [Ellipse](../com.aspose.threed/ellipse) | An [Ellipse](../com.aspose.threed/ellipse) defines a set of points that form the shape of ellipse. |
 | [EllipseShape](../com.aspose.threed/ellipseshape) | IFC compatible ellipse shape that defined by parameters. |
 | [EndPoint](../com.aspose.threed/endpoint) | The end point to trim the curve, can be a parameter value or a Cartesian point. |
@@ -67,6 +67,7 @@ url: /java/com.aspose.threed/
 | [FbxSaveOptions](../com.aspose.threed/fbxsaveoptions) | Save options for Fbx file. |
 | [FileFormat](../com.aspose.threed/fileformat) | File format definition |
 | [FileFormatType](../com.aspose.threed/fileformattype) | File format type |
+| [FileStream](../com.aspose.threed/filestream) | Created by lexchou on 6/16/2017. |
 | [FileSystem](../com.aspose.threed/filesystem) | File system encapsulation. |
 | [FontFile](../com.aspose.threed/fontfile) | Font file contains definitions for glyphs, this is used to create text profile. |
 | [Frustum](../com.aspose.threed/frustum) | The base class of [Camera](../com.aspose.threed/camera) and [Light](../com.aspose.threed/light) |
@@ -80,11 +81,13 @@ url: /java/com.aspose.threed/
 | [HollowRectangleShape](../com.aspose.threed/hollowrectangleshape) | IFC compatible hollow rectangular shape with both inner/outer rounding corners. |
 | [Html5SaveOptions](../com.aspose.threed/html5saveoptions) | Save options for HTML5 |
 | [IOConfig](../com.aspose.threed/ioconfig) | IO config for serialization/deserialization. |
-| [IOUtils](../com.aspose.threed/ioutils) | Utilities to write matrix/vector to binary writer |
+| [IOExtension](../com.aspose.threed/ioextension) | Utilities to write matrix/vector to binary writer |
 | [ImageRenderOptions](../com.aspose.threed/imagerenderoptions) | Options for [Scene](../com.aspose.threed/scene) and [Scene](../com.aspose.threed/scene) |
 | [ImportException](../com.aspose.threed/importexception) | Exception when Aspose.3D failed to open the specified source |
 | [InitializationException](../com.aspose.threed/initializationexception) | Exceptions in render pipeline initialization |
+| [Int2D](../com.aspose.threed/int2d) | Created by lexchou on 5/17/2017. 2-dimensional int array wrapper |
 | [JavaXImageCodec](../com.aspose.threed/javaximagecodec) |  |
+| [JtLoadOptions](../com.aspose.threed/jtloadoptions) | Load options for Siemens JT |
 | [KeyFrame](../com.aspose.threed/keyframe) | A key frame is mainly defined by a time and a value, for some interpolation types, tangent/tension/bias/continuity is also used by calculating the final sampled value. |
 | [KeyframeSequence](../com.aspose.threed/keyframesequence) | The sequence of key-frames, it describes the transformation of a sampled value over time. |
 | [LShape](../com.aspose.threed/lshape) | IFC compatible L-shape profile that defined by parameters. |
@@ -94,17 +97,20 @@ url: /java/com.aspose.threed/
 | [Line](../com.aspose.threed/line) | A polyline is a path defined by a set of points with [Geometry.\#getControlPoints](../com.aspose.threed/geometry\#getControlPoints), and connected by [Line.\#getSegments](../com.aspose.threed/line\#getSegments), which means it can also be a set of connected line segments. |
 | [LinearExtrusion](../com.aspose.threed/linearextrusion) | Linear extrusion takes a 2D shape as input and extends the shape in the 3rd dimension. |
 | [LoadOptions](../com.aspose.threed/loadoptions) | The base class to configure options in file loading for different types |
-| [LocalFileSystem](../com.aspose.threed/localfilesystem) | The [LocalFileSystem](../com.aspose.threed/localfilesystem) will maps the read/write operations to local directory. |
 | [Material](../com.aspose.threed/material) | Material defines the parameters necessary for visual appearance of geometry. |
 | [MathUtils](../com.aspose.threed/mathutils) | A set of useful mathematical utilities. |
 | [Matrix4](../com.aspose.threed/matrix4) | 4x4 matrix implementation. |
-| [MemoryFileSystem](../com.aspose.threed/memoryfilesystem) | The [MemoryFileSystem](../com.aspose.threed/memoryfilesystem) will maps the read/write operations to memory. |
+| [MemoryStream](../com.aspose.threed/memorystream) | Created by lexchou on 6/13/2017. |
 | [Mesh](../com.aspose.threed/mesh) | A mesh is made of many n-sided polygons. |
 | [Metered](../com.aspose.threed/metered) | Provides methods to set metered key. |
+| [Microsoft3MFFormat](../com.aspose.threed/microsoft3mfformat) | File format instance for Microsoft 3MF with 3MF related utilities. |
+| [Microsoft3MFSaveOptions](../com.aspose.threed/microsoft3mfsaveoptions) | Save options for Microsoft 3MF file. |
 | [MirroredProfile](../com.aspose.threed/mirroredprofile) | IFC compatible mirror profile. |
 | [MorphTargetChannel](../com.aspose.threed/morphtargetchannel) | A MorphTargetChannel is used by [MorphTargetDeformer](../com.aspose.threed/morphtargetdeformer) to organize the target geometries. |
 | [MorphTargetDeformer](../com.aspose.threed/morphtargetdeformer) | MorphTargetDeformer provides per-vertex animation. |
+| [MulticastEvent<EventArg>](../com.aspose.threed/multicastevent) | Created by lexchou on 4/24/2017. |
 | [Node](../com.aspose.threed/node) | Represents an element in the scene graph. |
+| [NotImplementedException](../com.aspose.threed/notimplementedexception) | Created by lexchou on 6/26/2017. |
 | [NurbsCurve](../com.aspose.threed/nurbscurve) | [NURBS curve][] is a curve represented by NURBS(Non-uniform rational basis spline), A NURBS curve is defined by its [NurbsCurve.\#getOrder](../com.aspose.threed/nurbscurve\#getOrder), a set of weighted [Geometry.\#getControlPoints](../com.aspose.threed/geometry\#getControlPoints) and a [NurbsCurve.\#getKnotVectors](../com.aspose.threed/nurbscurve\#getKnotVectors) The w component in control point is used as control point's weight, whatever it is a [CurveDimension.\#TWO\_DIMENSIONAL](../com.aspose.threed/curvedimension\#TWO-DIMENSIONAL) or [CurveDimension.\#THREE\_DIMENSIONAL](../com.aspose.threed/curvedimension\#THREE-DIMENSIONAL)[NURBS curve]: https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline |
 | [NurbsDirection](../com.aspose.threed/nurbsdirection) | A 3D [NurbsSurface](../com.aspose.threed/nurbssurface) has two direction, the [NurbsSurface.\#getU](../com.aspose.threed/nurbssurface\#getU) and [NurbsSurface.\#getV](../com.aspose.threed/nurbssurface\#getV), the [NurbsDirection](../com.aspose.threed/nurbsdirection) defines data for each direction. |
 | [NurbsSurface](../com.aspose.threed/nurbssurface) | [NurbsSurface](../com.aspose.threed/nurbssurface) is a surface represented by [NURBS(Non-uniform rational basis spline)][NURBS_Non-uniform rational basis spline], A [NurbsSurface](../com.aspose.threed/nurbssurface) is defined by two [NurbsDirection](../com.aspose.threed/nurbsdirection)[NurbsSurface.\#getU](../com.aspose.threed/nurbssurface\#getU) and [NurbsSurface.\#getV](../com.aspose.threed/nurbssurface\#getV).[NURBS_Non-uniform rational basis spline]: https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline |
@@ -116,7 +122,7 @@ url: /java/com.aspose.threed/
 | [PatchDirection](../com.aspose.threed/patchdirection) | Patch's U and V direction. |
 | [PbrMaterial](../com.aspose.threed/pbrmaterial) | Material for physically based rendering based on albedo color/metallic/roughness |
 | [PbrSpecularMaterial](../com.aspose.threed/pbrspecularmaterial) | Material for physically based rendering based on diffuse color/specular/glossiness |
-| [PdfFormat](../com.aspose.threed/pdfformat) | Adobe's Portable Document Format |
+| [PdfFormat](../com.aspose.threed/pdfformat) | Adobe's Portable Document Format **Example:** The following code shows how to extract all supported 3D scenes from a 3D PDF file, and write them to obj format. |
 | [PdfLoadOptions](../com.aspose.threed/pdfloadoptions) | Options for PDF loading |
 | [PdfSaveOptions](../com.aspose.threed/pdfsaveoptions) | The save options in PDF exporting. |
 | [PhongMaterial](../com.aspose.threed/phongmaterial) | Material for blinn-phong shading model. |
@@ -171,6 +177,8 @@ url: /java/com.aspose.threed/
 | [StencilState](../com.aspose.threed/stencilstate) | Stencil states per face. |
 | [StlLoadOptions](../com.aspose.threed/stlloadoptions) | Load options for STL |
 | [StlSaveOptions](../com.aspose.threed/stlsaveoptions) | Save options for STL |
+| [Stream](../com.aspose.threed/stream) | Created by lexchou on 12/14/2016. |
+| [Structs](../com.aspose.threed/structs) | Base class of struct array |
 | [SweptAreaSolid](../com.aspose.threed/sweptareasolid) | A [SweptAreaSolid](../com.aspose.threed/sweptareasolid) constructs a geometry by sweeping a profile along a directrix. |
 | [TShape](../com.aspose.threed/tshape) | IFC compatible T-shape defined by parameters. |
 | [Text](../com.aspose.threed/text) | Text profile, this profile describes contours using font and text. |
@@ -194,6 +202,7 @@ url: /java/com.aspose.threed/
 | [Vector2](../com.aspose.threed/vector2) | A vector with two components. |
 | [Vector3](../com.aspose.threed/vector3) | A vector with three components. |
 | [Vector4](../com.aspose.threed/vector4) | A vector with four components. |
+| [Version](../com.aspose.threed/version) | Created by lexchou on 4/17/2017. |
 | [Vertex](../com.aspose.threed/vertex) | Vertex reference, used to access the raw vertex in [TriMesh](../com.aspose.threed/trimesh). |
 | [VertexDeclaration](../com.aspose.threed/vertexdeclaration) | The declaration of a custom defined vertex's structure |
 | [VertexElement](../com.aspose.threed/vertexelement) | Base class of vertex elements. |
@@ -224,13 +233,15 @@ url: /java/com.aspose.threed/
 | [WindowHandle](../com.aspose.threed/windowhandle) | Encapsulated window handle for different platforms. |
 | [XLoadOptions](../com.aspose.threed/xloadoptions) | The Load options for DirectX X files. |
 | [ZShape](../com.aspose.threed/zshape) | IFC compatible Z-shape profile defined by parameters. |
-| [ZipArchiveFileSystem](../com.aspose.threed/ziparchivefilesystem) | File system to provide to the read-only access to speicified zip file or zip stream. |
 
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| [FileSystemFactory](../com.aspose.threed/filesystemfactory) | [SaveOptions](../com.aspose.threed/saveoptions) and [LoadOptions](../com.aspose.threed/loadoptions) will create a [LocalFileSystem](../com.aspose.threed/localfilesystem) for default. |
+| [Enumerable<T>](../com.aspose.threed/enumerable) |  |
+| [Enumerator<T>](../com.aspose.threed/enumerator) | Generic enumerator for collection of type T |
+| [EventCallback<EventArg>](../com.aspose.threed/eventcallback) | Created by lexchou on 4/24/2017. |
+| [FileSystemFactory](../com.aspose.threed/filesystemfactory) | [SaveOptions](../com.aspose.threed/saveoptions) and [LoadOptions](../com.aspose.threed/loadoptions) will create a com.aspose.threed.LocalFileSystem for default. |
 | [IBuffer](../com.aspose.threed/ibuffer) | The base interface of all managed buffers used in rendering |
 | [ICommandList](../com.aspose.threed/icommandlist) | Encodes a sequence of commands which will be sent to GPU to render. |
 | [IDescriptorSet](../com.aspose.threed/idescriptorset) | The descriptor sets describes different resources that can be used to bind to the render pipeline like buffers, textures |
@@ -254,6 +265,7 @@ url: /java/com.aspose.threed/
 | [IVertexBuffer](../com.aspose.threed/ivertexbuffer) | The vertex buffer holds the polygon vertex data that will be sent to rendering pipeline |
 | [MaterialConverter](../com.aspose.threed/materialconverter) | Custom converter to convert the geometry's original material to GLTF's PBR material. |
 | [NodeVisitor](../com.aspose.threed/nodevisitor) | A callback to travel through the whole node hierarchy. |
+| [Struct<T>](../com.aspose.threed/struct) | Created by lexchou on 11/13/2017. |
 
 ## Enumerations
 

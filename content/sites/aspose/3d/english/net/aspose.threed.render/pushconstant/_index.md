@@ -3,7 +3,7 @@ title: Class PushConstant
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.PushConstant class. A utility to provide data to shader through push constant
 type: docs
-weight: 700
+weight: 2170
 url: /net/aspose.threed.render/pushconstant/
 ---
 ## PushConstant class

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.deformers/morphtargetchannel/get_weight/
 is_root: false
 ---
 
-## get_weight {#aspose.threed.entities.Shape}
+## get_weight(self, target) {#aspose.threed.entities.Shape}
 
 Gets the weight for the specified target, if the target is not belongs to this channel, default value 0 is returned.
 
@@ -20,6 +20,7 @@ Gets the weight for the specified target, if the target is not belongs to this c
 
 
 ```python
+
 def get_weight(self, target):
     ...
 ```

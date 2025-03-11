@@ -14,7 +14,7 @@ Gets or sets the scaling
 public Vector3 Scaling { get; set; }
 ```
 
-### Examples
+## Examples
 
 ```csharp
 Node node = new Node();
@@ -25,7 +25,7 @@ node.Transform.Scaling = new Vector3(2, 2, 2);
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [Transform](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../transform/)
 * assembly [Aspose.3D](../../../)
 
 

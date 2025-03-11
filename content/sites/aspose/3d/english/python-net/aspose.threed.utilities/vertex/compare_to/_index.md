@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vertex/compare_to/
 is_root: false
 ---
 
-## compare_to {#aspose.threed.utilities.Vertex}
+## compare_to(self, other) {#aspose.threed.utilities.Vertex}
 
 Compare the vertex with another vertex instance
 
@@ -20,6 +20,7 @@ Compare the vertex with another vertex instance
 
 
 ```python
+
 def compare_to(self, other):
     ...
 ```

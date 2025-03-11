@@ -14,10 +14,14 @@ Serialize materials using KHR common material extensions, default value is false
 public bool UseCommonMaterials { get; set; }
 ```
 
+## Remarks
+
+This property only works for glTF 1.0
+
 ### See Also
 
 * class [GltfSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../gltfsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

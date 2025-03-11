@@ -28,7 +28,7 @@ public TextureData(int width, int height, int stride, int bytesPerPixel, PixelFo
 
 * enum [PixelFormat](../../pixelformat/)
 * class [TextureData](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../texturedata/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -51,7 +51,7 @@ public TextureData(int width, int height, PixelFormat pixelFormat)
 
 * enum [PixelFormat](../../pixelformat/)
 * class [TextureData](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../texturedata/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -67,7 +67,7 @@ public TextureData()
 ### See Also
 
 * class [TextureData](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../texturedata/)
 * assembly [Aspose.3D](../../../)
 
 

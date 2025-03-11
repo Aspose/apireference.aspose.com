@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/transform/set_rotation/
 is_root: false
 ---
 
-## set_rotation {#float-float-float-float}
+## set_rotation(self, rw, rx, ry, rz) {#float-float-float-float}
 
 Sets the rotation(as quaternion components) of current transform.
 
@@ -20,6 +20,7 @@ Sets the rotation(as quaternion components) of current transform.
 
 
 ```python
+
 def set_rotation(self, rw, rx, ry, rz):
     ...
 ```

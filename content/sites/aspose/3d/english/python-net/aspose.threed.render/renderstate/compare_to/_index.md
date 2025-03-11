@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderstate/compare_to/
 is_root: false
 ---
 
-## compare_to {#aspose.threed.render.RenderState}
+## compare_to(self, other) {#aspose.threed.render.RenderState}
 
 Compare the render state with another instance
 
@@ -20,6 +20,7 @@ Compare the render state with another instance
 
 
 ```python
+
 def compare_to(self, other):
     ...
 ```
@@ -27,7 +28,7 @@ def compare_to(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [`RenderState`](/3d/python-net/aspose.threed.render/renderstate) |  |
+| other | [`RenderState`](/3d/python-net/aspose.threed.render/renderstate) | Another render state to compare |
 
 
 

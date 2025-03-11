@@ -3,7 +3,7 @@ title: StencilState
 second_title: Aspose.3D for Java API Reference
 description: Stencil states per face.
 type: docs
-weight: 165
+weight: 171
 url: /java/com.aspose.threed/stencilstate/
 ---
 
@@ -69,7 +69,7 @@ public CompareFunction getCompare()
 Gets the compare function used in stencil test
 
 **Returns:**
-[CompareFunction](../../com.aspose.threed/comparefunction)
+[CompareFunction](../../com.aspose.threed/comparefunction) - the compare function used in stencil test
 ### getDepthFailAction() {#getDepthFailAction--}
 ```
 public StencilAction getDepthFailAction()
@@ -79,7 +79,7 @@ public StencilAction getDepthFailAction()
 Gets the stencil action when stencil test pass but depth test fails.
 
 **Returns:**
-[StencilAction](../../com.aspose.threed/stencilaction)
+[StencilAction](../../com.aspose.threed/stencilaction) - the stencil action when stencil test pass but depth test fails.
 ### getFailAction() {#getFailAction--}
 ```
 public StencilAction getFailAction()
@@ -89,7 +89,7 @@ public StencilAction getFailAction()
 Gets the stencil action when stencil test fails.
 
 **Returns:**
-[StencilAction](../../com.aspose.threed/stencilaction)
+[StencilAction](../../com.aspose.threed/stencilaction) - the stencil action when stencil test fails.
 ### getPassAction() {#getPassAction--}
 ```
 public StencilAction getPassAction()
@@ -99,7 +99,7 @@ public StencilAction getPassAction()
 Gets the stencil action when both stencil test and depth test passes.
 
 **Returns:**
-[StencilAction](../../com.aspose.threed/stencilaction)
+[StencilAction](../../com.aspose.threed/stencilaction) - the stencil action when both stencil test and depth test passes.
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()

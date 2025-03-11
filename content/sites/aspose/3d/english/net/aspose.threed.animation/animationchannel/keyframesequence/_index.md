@@ -18,7 +18,7 @@ public KeyframeSequence KeyframeSequence { get; set; }
 
 * class [KeyframeSequence](../../keyframesequence/)
 * class [AnimationChannel](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../animationchannel/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -18,7 +18,7 @@ public IList<MorphTargetChannel> Channels { get; }
 
 * class [MorphTargetChannel](../../morphtargetchannel/)
 * class [MorphTargetDeformer](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../morphtargetdeformer/)
 * assembly [Aspose.3D](../../../)
 
 

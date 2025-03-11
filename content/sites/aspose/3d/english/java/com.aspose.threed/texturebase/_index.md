@@ -3,7 +3,7 @@ title: TextureBase
 second_title: Aspose.3D for Java API Reference
 description: Base class for all concrete textures.
 type: docs
-weight: 172
+weight: 180
 url: /java/com.aspose.threed/texturebase/
 ---
 
@@ -117,7 +117,7 @@ public double getAlpha()
 Gets the default alpha value of the texture This is valid when the [getAlphaSource](../../com.aspose.threed/texturebase\#getAlphaSource) is [AlphaSource.PIXEL\_ALPHA](../../com.aspose.threed/alphasource\#PIXEL-ALPHA) Default value is 1.0, valid value range is between 0 and 1
 
 **Returns:**
-double
+double - the default alpha value of the texture This is valid when the [getAlphaSource](../../com.aspose.threed/texturebase\#getAlphaSource) is [AlphaSource.PIXEL\_ALPHA](../../com.aspose.threed/alphasource\#PIXEL-ALPHA) Default value is 1.0, valid value range is between 0 and 1
 ### getAlphaSource() {#getAlphaSource--}
 ```
 public AlphaSource getAlphaSource()
@@ -127,7 +127,7 @@ public AlphaSource getAlphaSource()
 Gets whether the texture defines the alpha channel. Default value is [AlphaSource.NONE](../../com.aspose.threed/alphasource\#NONE)
 
 **Returns:**
-[AlphaSource](../../com.aspose.threed/alphasource)
+[AlphaSource](../../com.aspose.threed/alphasource) - whether the texture defines the alpha channel. Default value is [AlphaSource.NONE](../../com.aspose.threed/alphasource\#NONE)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -147,7 +147,7 @@ public TextureFilter getMagFilter()
 Gets the filter for magnification.
 
 **Returns:**
-[TextureFilter](../../com.aspose.threed/texturefilter)
+[TextureFilter](../../com.aspose.threed/texturefilter) - the filter for magnification.
 ### getMinFilter() {#getMinFilter--}
 ```
 public TextureFilter getMinFilter()
@@ -157,7 +157,7 @@ public TextureFilter getMinFilter()
 Gets the filter for minification.
 
 **Returns:**
-[TextureFilter](../../com.aspose.threed/texturefilter)
+[TextureFilter](../../com.aspose.threed/texturefilter) - the filter for minification.
 ### getMipFilter() {#getMipFilter--}
 ```
 public TextureFilter getMipFilter()
@@ -167,7 +167,7 @@ public TextureFilter getMipFilter()
 Gets the filter for mip-level sampling.
 
 **Returns:**
-[TextureFilter](../../com.aspose.threed/texturefilter)
+[TextureFilter](../../com.aspose.threed/texturefilter) - the filter for mip-level sampling.
 ### getName() {#getName--}
 ```
 public String getName()
@@ -177,7 +177,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -187,7 +187,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -212,7 +212,7 @@ public Vector3 getUVRotation()
 Gets the rotation of the texture
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the rotation of the texture
 ### getUVScale() {#getUVScale--}
 ```
 public Vector2 getUVScale()
@@ -222,7 +222,7 @@ public Vector2 getUVScale()
 Gets the UV scale.
 
 **Returns:**
-[Vector2](../../com.aspose.threed/vector2)
+[Vector2](../../com.aspose.threed/vector2) - the UV scale.
 ### getUVTranslation() {#getUVTranslation--}
 ```
 public Vector2 getUVTranslation()
@@ -232,7 +232,7 @@ public Vector2 getUVTranslation()
 Gets the UV translation.
 
 **Returns:**
-[Vector2](../../com.aspose.threed/vector2)
+[Vector2](../../com.aspose.threed/vector2) - the UV translation.
 ### getWrapModeU() {#getWrapModeU--}
 ```
 public WrapMode getWrapModeU()
@@ -242,7 +242,7 @@ public WrapMode getWrapModeU()
 Gets the texture wrap modes in U.
 
 **Returns:**
-[WrapMode](../../com.aspose.threed/wrapmode)
+[WrapMode](../../com.aspose.threed/wrapmode) - the texture wrap modes in U.
 ### getWrapModeV() {#getWrapModeV--}
 ```
 public WrapMode getWrapModeV()
@@ -252,7 +252,7 @@ public WrapMode getWrapModeV()
 Gets the texture wrap modes in V.
 
 **Returns:**
-[WrapMode](../../com.aspose.threed/wrapmode)
+[WrapMode](../../com.aspose.threed/wrapmode) - the texture wrap modes in V.
 ### getWrapModeW() {#getWrapModeW--}
 ```
 public WrapMode getWrapModeW()
@@ -262,7 +262,7 @@ public WrapMode getWrapModeW()
 Gets the texture wrap modes in W.
 
 **Returns:**
-[WrapMode](../../com.aspose.threed/wrapmode)
+[WrapMode](../../com.aspose.threed/wrapmode) - the texture wrap modes in W.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -315,10 +315,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setAlpha(double value) {#setAlpha-double-}
 ```
 public void setAlpha(double value)

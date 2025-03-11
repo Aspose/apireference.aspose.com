@@ -18,7 +18,7 @@ public IArrayList<int> Data { get; }
 
 * interface [IArrayList&lt;T&gt;](../../../aspose.threed.utilities/iarraylist-1/)
 * class [VertexElementIntsTemplate](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementintstemplate/)
 * assembly [Aspose.3D](../../../)
 
 

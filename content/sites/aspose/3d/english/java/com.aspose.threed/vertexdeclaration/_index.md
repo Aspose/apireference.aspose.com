@@ -3,7 +3,7 @@ title: VertexDeclaration
 second_title: Aspose.3D for Java API Reference
 description: The declaration of a custom defined vertexs structure
 type: docs
-weight: 192
+weight: 201
 url: /java/com.aspose.threed/vertexdeclaration/
 ---
 
@@ -171,7 +171,7 @@ Gets the [VertexField](../../com.aspose.threed/vertexfield) by index
 | index | int |  |
 
 **Returns:**
-[VertexField](../../com.aspose.threed/vertexfield)
+[VertexField](../../com.aspose.threed/vertexfield) - the [VertexField](../../com.aspose.threed/vertexfield) by index
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -191,7 +191,7 @@ public int getCount()
 Gets the count of all fields defined in this [VertexDeclaration](../../com.aspose.threed/vertexdeclaration)
 
 **Returns:**
-int
+int - the count of all fields defined in this [VertexDeclaration](../../com.aspose.threed/vertexdeclaration)
 ### getSealed() {#getSealed--}
 ```
 public boolean getSealed()
@@ -201,7 +201,7 @@ public boolean getSealed()
 A [VertexDeclaration](../../com.aspose.threed/vertexdeclaration) will be sealed when its been used by [TriMesh](../../com.aspose.threed/trimesh), no more modifications is allowed.
 
 **Returns:**
-boolean
+boolean - A [VertexDeclaration](../../com.aspose.threed/vertexdeclaration) will be sealed when its been used by [TriMesh](../../com.aspose.threed/trimesh), no more modifications is allowed.
 ### getSize() {#getSize--}
 ```
 public int getSize()
@@ -211,7 +211,7 @@ public int getSize()
 The size in byte of the vertex structure.
 
 **Returns:**
-int
+int - The size in byte of the vertex structure.
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()

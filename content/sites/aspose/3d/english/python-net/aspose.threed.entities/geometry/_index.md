@@ -37,7 +37,7 @@ The Geometry type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.entities/geometry/__init__/#str) | Initializes a new instance of the [`Geometry`](/3d/python-net/aspose.threed.entities/geometry) class. |
+| [`__init__(self, name)`](/3d/python-net/aspose.threed.entities/geometry/__init__/#str) | Initializes a new instance of the [`Geometry`](/3d/python-net/aspose.threed.entities/geometry) class. |
 
 
 ### Properties
@@ -51,7 +51,6 @@ The Geometry type exposes the following members:
 | [parent_node](/3d/python-net/aspose.threed.entities/geometry/parent_node) | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
 | [visible](/3d/python-net/aspose.threed.entities/geometry/visible) | Gets or sets if the geometry is visible |
 | [deformers](/3d/python-net/aspose.threed.entities/geometry/deformers) | Gets all deformers associated with this geometry. |
-| [control_points](/3d/python-net/aspose.threed.entities/geometry/control_points) | Gets all control points |
 | [cast_shadows](/3d/python-net/aspose.threed.entities/geometry/cast_shadows) | Gets or sets whether this geometry can cast shadow |
 | [receive_shadows](/3d/python-net/aspose.threed.entities/geometry/receive_shadows) | Gets or sets whether this geometry can receive shadow. |
 | [vertex_elements](/3d/python-net/aspose.threed.entities/geometry/vertex_elements) | Gets all vertex elements |
@@ -60,20 +59,20 @@ The Geometry type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property](/3d/python-net/aspose.threed.entities/geometry/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
-| [remove_property](/3d/python-net/aspose.threed.entities/geometry/remove_property/#str) | Remove the specified property identified by name |
-| [create_element](/3d/python-net/aspose.threed.entities/geometry/create_element/#aspose.threed.entities.VertexElementType) | Creates a vertex element with specified type and add it to the geometry. |
-| [create_element](/3d/python-net/aspose.threed.entities/geometry/create_element/#aspose.threed.entities.VertexElementType-aspose.threed.entities.MappingMode-aspose.threed.entities.ReferenceMode) | Creates a vertex element with specified type and add it to the geometry. |
-| [create_element_uv](/3d/python-net/aspose.threed.entities/geometry/create_element_uv/#aspose.threed.entities.TextureMapping) | Creates a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type. |
-| [create_element_uv](/3d/python-net/aspose.threed.entities/geometry/create_element_uv/#aspose.threed.entities.TextureMapping-aspose.threed.entities.MappingMode-aspose.threed.entities.ReferenceMode) | Creates a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type. |
-| [get_property](/3d/python-net/aspose.threed.entities/geometry/get_property/#str) | Get the value of specified property |
-| [set_property](/3d/python-net/aspose.threed.entities/geometry/set_property/#str-any) | Sets the value of specified property |
-| [find_property](/3d/python-net/aspose.threed.entities/geometry/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_bounding_box](/3d/python-net/aspose.threed.entities/geometry/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
-| [get_entity_renderer_key](/3d/python-net/aspose.threed.entities/geometry/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [get_element](/3d/python-net/aspose.threed.entities/geometry/get_element/#aspose.threed.entities.VertexElementType) | Gets a vertex element with specified type |
-| [get_vertex_element_of_uv](/3d/python-net/aspose.threed.entities/geometry/get_vertex_element_of_uv/#aspose.threed.entities.TextureMapping) | Gets a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) instance with given texture mapping type |
-| [add_element](/3d/python-net/aspose.threed.entities/geometry/add_element/#aspose.threed.entities.VertexElement) | Adds an existing vertex element to current geometry |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/geometry/remove_property/#aspose.threed.property) | Removes a dynamic property. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/geometry/remove_property/#str) | Remove the specified property identified by name |
+| [`create_element(self, type)`](/3d/python-net/aspose.threed.entities/geometry/create_element/#aspose.threed.entities.vertexelementtype) | Creates a vertex element with specified type and add it to the geometry. |
+| [`create_element(self, type, mapping_mode, reference_mode)`](/3d/python-net/aspose.threed.entities/geometry/create_element/#aspose.threed.entities.vertexelementtype-aspose.threed.entities.mappingmode-aspose.threed.entities.referencemode) | Creates a vertex element with specified type and add it to the geometry. |
+| [`create_element_uv(self, uv_mapping)`](/3d/python-net/aspose.threed.entities/geometry/create_element_uv/#aspose.threed.entities.texturemapping) | Creates a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type. |
+| [`create_element_uv(self, uv_mapping, mapping_mode, reference_mode)`](/3d/python-net/aspose.threed.entities/geometry/create_element_uv/#aspose.threed.entities.texturemapping-aspose.threed.entities.mappingmode-aspose.threed.entities.referencemode) | Creates a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type. |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/geometry/get_property/#str) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/geometry/set_property/#str-any) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/geometry/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_bounding_box(self)`](/3d/python-net/aspose.threed.entities/geometry/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
+| [`get_entity_renderer_key(self)`](/3d/python-net/aspose.threed.entities/geometry/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
+| [`get_element(self, type)`](/3d/python-net/aspose.threed.entities/geometry/get_element/#aspose.threed.entities.vertexelementtype) | Gets a vertex element with specified type |
+| [`get_vertex_element_of_uv(self, texture_mapping)`](/3d/python-net/aspose.threed.entities/geometry/get_vertex_element_of_uv/#aspose.threed.entities.texturemapping) | Gets a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) instance with given texture mapping type |
+| [`add_element(self, element)`](/3d/python-net/aspose.threed.entities/geometry/add_element/#aspose.threed.entities.vertexelement) | Adds an existing vertex element to current geometry |
 
 
 

@@ -3,12 +3,12 @@ title: get_vertex_element_of_uv method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 130
 url: /python-net/aspose.threed.entities/mesh/get_vertex_element_of_uv/
 is_root: false
 ---
 
-## get_vertex_element_of_uv {#aspose.threed.entities.TextureMapping}
+## get_vertex_element_of_uv(self, texture_mapping) {#aspose.threed.entities.TextureMapping}
 
 Gets a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) instance with given texture mapping type
 
@@ -20,6 +20,7 @@ VertexElementUV with the texture mapping type
 
 
 ```python
+
 def get_vertex_element_of_uv(self, texture_mapping):
     ...
 ```

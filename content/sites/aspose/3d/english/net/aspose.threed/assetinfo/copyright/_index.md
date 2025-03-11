@@ -17,7 +17,7 @@ public string Copyright { get; set; }
 ### See Also
 
 * class [AssetInfo](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../assetinfo/)
 * assembly [Aspose.3D](../../../)
 
 

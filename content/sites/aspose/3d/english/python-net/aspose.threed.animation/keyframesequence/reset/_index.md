@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.animation/keyframesequence/reset/
 is_root: false
 ---
 
-## reset {#}
+## reset(self) {#}
 
 Removes all key frames and reset the post/pre behaviors.
 
 
 
 ```python
+
 def reset(self):
     ...
 ```

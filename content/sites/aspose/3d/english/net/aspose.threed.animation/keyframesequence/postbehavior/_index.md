@@ -18,7 +18,7 @@ public Extrapolation PostBehavior { get; }
 
 * class [Extrapolation](../../extrapolation/)
 * class [KeyframeSequence](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../keyframesequence/)
 * assembly [Aspose.3D](../../../)
 
 

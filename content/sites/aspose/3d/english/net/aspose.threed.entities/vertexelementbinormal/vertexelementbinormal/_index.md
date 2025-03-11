@@ -17,7 +17,7 @@ public VertexElementBinormal()
 ### See Also
 
 * class [VertexElementBinormal](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementbinormal/)
 * assembly [Aspose.3D](../../../)
 
 

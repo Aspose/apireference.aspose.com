@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderfactory/create_descriptor_set/
 is_root: false
 ---
 
-## create_descriptor_set {#aspose.threed.render.ShaderProgram}
+## create_descriptor_set(self, shader) {#aspose.threed.render.ShaderProgram}
 
 Create the descriptor set for specified shader program.
 
@@ -20,6 +20,7 @@ A new descriptor set instance
 
 
 ```python
+
 def create_descriptor_set(self, shader):
     ...
 ```

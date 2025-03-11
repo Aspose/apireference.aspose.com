@@ -3,7 +3,7 @@ title: FileFormatType.ToString
 second_title: Aspose.3D for .NET API Reference
 description: FileFormatType method. Get the name of this file format type
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.threed/fileformattype/tostring/
 ---
 ## FileFormatType.ToString method
@@ -21,7 +21,7 @@ A String that represents the current `ToString`.
 ### See Also
 
 * class [FileFormatType](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformattype/)
 * assembly [Aspose.3D](../../../)
 
 

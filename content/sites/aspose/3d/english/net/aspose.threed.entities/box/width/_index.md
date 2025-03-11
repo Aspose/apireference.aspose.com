@@ -21,7 +21,7 @@ The width aligned in x-axis.
 ### See Also
 
 * class [Box](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../box/)
 * assembly [Aspose.3D](../../../)
 
 

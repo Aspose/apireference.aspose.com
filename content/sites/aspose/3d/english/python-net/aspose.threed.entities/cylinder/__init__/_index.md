@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.entities/cylinder/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#float-float}
+## \_\_init\_\_(self, radius, height) {#float-float}
 
 Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
 
 
 ```python
+
 def __init__(self, radius, height):
     ...
 ```
@@ -40,13 +42,14 @@ def __init__(self, radius, height):
 | height | float | Height. |
 
 
-## __init__ {#float-float-float}
+## \_\_init\_\_(self, radius_top, radius_bottom, height) {#float-float-float}
 
 Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
 
 
 ```python
+
 def __init__(self, radius_top, radius_bottom, height):
     ...
 ```
@@ -59,13 +62,14 @@ def __init__(self, radius_top, radius_bottom, height):
 | height | float | Height. |
 
 
-## __init__ {#float-float-float-int-int-bool}
+## \_\_init\_\_(self, radius_top, radius_bottom, height, radial_segments, height_segments, open_ended) {#float-float-float-int-int-bool}
 
 Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
 
 
 ```python
+
 def __init__(self, radius_top, radius_bottom, height, radial_segments, height_segments, open_ended):
     ...
 ```
@@ -81,13 +85,14 @@ def __init__(self, radius_top, radius_bottom, height, radial_segments, height_se
 | open_ended | bool | If set to `true` the cylinder would have no bottom/top caps.. |
 
 
-## __init__ {#str-float-float-float-int-int-bool-float-float}
+## \_\_init\_\_(self, name, radius_top, radius_bottom, height, radial_segments, height_segments, open_ended, theta_start, theta_length) {#str-float-float-float-int-int-bool-float-float}
 
 Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
 
 
 ```python
+
 def __init__(self, name, radius_top, radius_bottom, height, radial_segments, height_segments, open_ended, theta_start, theta_length):
     ...
 ```

@@ -17,7 +17,7 @@ public bool ExportVertexSpecular { get; set; }
 ### See Also
 
 * class [U3dSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../u3dsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -18,7 +18,7 @@ public BoundingBoxExtent Extent { get; }
 
 * enum [BoundingBoxExtent](../../boundingboxextent/)
 * struct [BoundingBox](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox/)
 * assembly [Aspose.3D](../../../)
 
 

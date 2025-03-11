@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/nurbssurface/to_mesh/
 is_root: false
 ---
 
-## to_mesh {#}
+## to_mesh(self) {#}
 
 Convert the NURBS surface to the mesh
 
@@ -20,6 +20,7 @@ Convert the NURBS surface to the mesh
 
 
 ```python
+
 def to_mesh(self):
     ...
 ```

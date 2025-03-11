@@ -19,7 +19,7 @@ The ITextureDecoder type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [decode](/3d/python-net/aspose.threed.render/itexturedecoder/decode/#io.RawIOBase-bool) | Decode texture from stream, return null if failed to decode. |
+| [`decode(self, stream, reverse_y)`](/3d/python-net/aspose.threed.render/itexturedecoder/decode/#io.rawiobase-bool) | Decode texture from stream, return null if failed to decode. |
 
 
 

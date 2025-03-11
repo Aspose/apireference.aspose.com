@@ -17,7 +17,7 @@ public Sphere()
 ### See Also
 
 * class [Sphere](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../sphere/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,7 +37,7 @@ public Sphere(double radius)
 ### See Also
 
 * class [Sphere](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../sphere/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -59,7 +59,7 @@ public Sphere(double radius, int widthSegments, int heightSegments)
 ### See Also
 
 * class [Sphere](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../sphere/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -87,7 +87,7 @@ public Sphere(string name, double radius, int widthSegments, int heightSegments,
 ### See Also
 
 * class [Sphere](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../sphere/)
 * assembly [Aspose.3D](../../../)
 
 

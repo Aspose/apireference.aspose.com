@@ -21,7 +21,7 @@ true if fold repeated curve data; otherwise, false.
 ### See Also
 
 * class [FbxSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../fbxsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

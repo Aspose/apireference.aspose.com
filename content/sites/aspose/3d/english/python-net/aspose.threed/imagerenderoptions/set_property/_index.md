@@ -8,13 +8,14 @@ url: /python-net/aspose.threed/imagerenderoptions/set_property/
 is_root: false
 ---
 
-## set_property {#str-any}
+## set_property(self, property, value) {#str-any}
 
 Sets the value of specified property
 
 
 
 ```python
+
 def set_property(self, property, value):
     ...
 ```

@@ -8,29 +8,7 @@ url: /python-net/aspose.threed.animation/animationnode/find_bind_point/
 is_root: false
 ---
 
-## find_bind_point {#str}
-
-Finds the bind point by name.
-
-
-### Returns 
-
-
-The bind point.
-
-
-```python
-def find_bind_point(self, name):
-    ...
-```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| name | str | Bind point's name to find. |
-
-
-## find_bind_point {#aspose.threed.A3DObject-str}
+## find_bind_point(self, target, name) {#aspose.threed.A3DObject-str}
 
 Finds the bind point by target and name.
 
@@ -42,6 +20,7 @@ The bind point.
 
 
 ```python
+
 def find_bind_point(self, target, name):
     ...
 ```

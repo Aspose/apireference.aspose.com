@@ -17,7 +17,7 @@ public double Depth { get; set; }
 ### See Also
 
 * class [LShape](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../lshape/)
 * assembly [Aspose.3D](../../../)
 
 

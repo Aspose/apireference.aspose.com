@@ -3,12 +3,12 @@ title: from_stream method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /python-net/aspose.threed.render/texturedata/from_stream/
 is_root: false
 ---
 
-## from_stream {#io.RawIOBase}
+## from_stream(, stream) {#io.RawIOBase}
 
 Load a texture from stream
 
@@ -20,7 +20,9 @@ Load a texture from stream
 
 
 ```python
-def from_stream(self, stream):
+
+@staticmethod
+def from_stream(stream):
     ...
 ```
 

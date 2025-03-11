@@ -22,7 +22,7 @@ public PushConstant Write(FMatrix4 mat)
 
 * struct [FMatrix4](../../../aspose.threed.utilities/fmatrix4/)
 * class [PushConstant](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../pushconstant/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -42,7 +42,7 @@ public PushConstant Write(int n)
 ### See Also
 
 * class [PushConstant](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../pushconstant/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -62,7 +62,7 @@ public PushConstant Write(float f)
 ### See Also
 
 * class [PushConstant](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../pushconstant/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -83,7 +83,7 @@ public PushConstant Write(FVector4 vec)
 
 * struct [FVector4](../../../aspose.threed.utilities/fvector4/)
 * class [PushConstant](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../pushconstant/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -104,7 +104,7 @@ public PushConstant Write(FVector3 vec)
 
 * struct [FVector3](../../../aspose.threed.utilities/fvector3/)
 * class [PushConstant](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../pushconstant/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -127,7 +127,7 @@ public PushConstant Write(float x, float y, float z, float w)
 ### See Also
 
 * class [PushConstant](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../pushconstant/)
 * assembly [Aspose.3D](../../../)
 
 

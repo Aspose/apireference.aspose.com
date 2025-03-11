@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.profiles/cshape/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructor of [`CShape`](/3d/python-net/aspose.threed.profiles/cshape)
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

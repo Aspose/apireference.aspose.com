@@ -19,8 +19,8 @@ The InitializationException type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.render/initializationexception/__init__/#) | Initialize an [`InitializationException`](/3d/python-net/aspose.threed.render/initializationexception) instance |
-| [__init__](/3d/python-net/aspose.threed.render/initializationexception/__init__/#str) | Initialize an [`InitializationException`](/3d/python-net/aspose.threed.render/initializationexception) instance with specified exception message. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.render/initializationexception/__init__/#) | Initialize an [`InitializationException`](/3d/python-net/aspose.threed.render/initializationexception) instance |
+| [`__init__(self, msg)`](/3d/python-net/aspose.threed.render/initializationexception/__init__/#str) | Initialize an [`InitializationException`](/3d/python-net/aspose.threed.render/initializationexception) instance with specified exception message. |
 
 
 

@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.utilities/transformbuilder/rotate_radian/
 is_root: false
 ---
 
-## rotate_radian {#float-aspose.threed.utilities.Vector3}
+## rotate_radian(self, angle, axis) {#float-aspose.threed.utilities.Vector3}
 
 Chain a rotation transform in radian
 
 
 
 ```python
+
 def rotate_radian(self, angle, axis):
     ...
 ```
@@ -25,27 +26,15 @@ def rotate_radian(self, angle, axis):
 | angle | float | The angle to rotate in radian |
 | axis | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The axis to rotate |
 
-### Example 
 
-
-```python
-from aspose.threed.utilities import TransformBuilder, Vector3
-import math
-
-tb = TransformBuilder()
-tb.rotate_radian(math.pi, Vector3.Y_AXIS)
-print(f"Transform Matrix: {tb.matrix}")
-
-```
-
-
-## rotate_radian {#aspose.threed.utilities.Vector3-aspose.threed.utilities.RotationOrder}
+## rotate_radian(self, rot, order) {#aspose.threed.utilities.Vector3-aspose.threed.utilities.RotationOrder}
 
 Append rotation with specified order
 
 
 
 ```python
+
 def rotate_radian(self, rot, order):
     ...
 ```

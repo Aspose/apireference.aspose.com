@@ -19,8 +19,8 @@ And sets this to true also means you're aware of the unlicensed restrictions.
 @property
 def suppress_trial_exception(self):
     ...
-@suppress_trial_exception.setter
-def suppress_trial_exception(self, value):
+@staticmethod
+def set_suppress_trial_exception(value):
     ...
 ```
 

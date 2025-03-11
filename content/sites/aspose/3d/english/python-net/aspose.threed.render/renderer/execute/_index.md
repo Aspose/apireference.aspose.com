@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.render/renderer/execute/
 is_root: false
 ---
 
-## execute {#aspose.threed.render.PostProcessing-aspose.threed.render.IRenderTarget}
+## execute(self, post_processing, result) {#aspose.threed.render.PostProcessing-aspose.threed.render.IRenderTarget}
 
 Execute an post processing on specified render target
 
 
 
 ```python
+
 def execute(self, post_processing, result):
     ...
 ```

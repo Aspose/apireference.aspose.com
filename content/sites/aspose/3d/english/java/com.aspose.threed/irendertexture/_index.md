@@ -3,7 +3,7 @@ title: IRenderTexture
 second_title: Aspose.3D for Java API Reference
 description: The interface of render texture
 type: docs
-weight: 234
+weight: 245
 url: /java/com.aspose.threed/irendertexture/
 ---
 
@@ -29,7 +29,7 @@ public abstract ITextureUnit getDepthTexture()
 Depth buffer texture
 
 **Returns:**
-[ITextureUnit](../../com.aspose.threed/itextureunit)
+[ITextureUnit](../../com.aspose.threed/itextureunit) - Depth buffer texture
 ### getTargets() {#getTargets--}
 ```
 public abstract List<ITextureUnit> getTargets()
@@ -39,4 +39,4 @@ public abstract List<ITextureUnit> getTargets()
 Color output targets.
 
 **Returns:**
-java.util.List<com.aspose.threed.ITextureUnit>
+java.util.List<com.aspose.threed.ITextureUnit> - Color output targets.

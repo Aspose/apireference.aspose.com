@@ -3,7 +3,7 @@ title: PostProcessing
 second_title: Aspose.3D for Java API Reference
 description: The post-processing effects
 type: docs
-weight: 126
+weight: 132
 url: /java/com.aspose.threed/postprocessing/
 ---
 
@@ -97,7 +97,7 @@ public abstract ITextureUnit getInput()
 Input of this post-processing
 
 **Returns:**
-[ITextureUnit](../../com.aspose.threed/itextureunit)
+[ITextureUnit](../../com.aspose.threed/itextureunit) - Input of this post-processing
 ### getName() {#getName--}
 ```
 public String getName()
@@ -107,7 +107,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -117,7 +117,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -185,10 +185,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setInput(ITextureUnit value) {#setInput-com.aspose.threed.ITextureUnit-}
 ```
 public abstract void setInput(ITextureUnit value)

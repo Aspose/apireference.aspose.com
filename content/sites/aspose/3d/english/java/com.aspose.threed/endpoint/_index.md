@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/endpoint/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.csporter.helpers.Struct, java.io.Serializable
+com.aspose.threed.Struct, java.io.Serializable
 ```
 public final class EndPoint implements Struct<EndPoint>, Serializable
 ```
@@ -55,7 +55,7 @@ Construct a [EndPoint](../../com.aspose.threed/endpoint) from a Cartesian point.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| point | [Vector3](../../com.aspose.threed/vector3) |  |
+| point | [Vector3](../../com.aspose.threed/vector3) | Point to construct |
 
 ### EndPoint(double v) {#EndPoint-double-}
 ```
@@ -68,7 +68,7 @@ Construct a [EndPoint](../../com.aspose.threed/endpoint) from a real parameter.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| v | double |  |
+| v | double | The real number parameter for constructing an end point |
 
 ### EndPoint() {#EndPoint--}
 ```
@@ -82,7 +82,7 @@ public EndPoint clone()
 ```
 
 
-
+Clone current instance
 
 **Returns:**
 [EndPoint](../../com.aspose.threed/endpoint)
@@ -125,10 +125,10 @@ Create an end point measured in degree.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| degree | double |  |
+| degree | double | The value in degree |
 
 **Returns:**
-[EndPoint](../../com.aspose.threed/endpoint)
+[EndPoint](../../com.aspose.threed/endpoint) - An end point constructed from degree
 ### fromRadian(double degree) {#fromRadian-double-}
 ```
 public static EndPoint fromRadian(double degree)
@@ -140,10 +140,10 @@ Create an end point measured in radian.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| degree | double |  |
+| degree | double | The value in radian |
 
 **Returns:**
-[EndPoint](../../com.aspose.threed/endpoint)
+[EndPoint](../../com.aspose.threed/endpoint) - An end point constructed from radian
 ### getAsPoint() {#getAsPoint--}
 ```
 public Vector3 getAsPoint()
@@ -153,7 +153,7 @@ public Vector3 getAsPoint()
 Gets the end point as Cartesian point, or thrown an exception.
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the end point as Cartesian point, or thrown an exception.
 ### getAsValue() {#getAsValue--}
 ```
 public double getAsValue()
@@ -163,7 +163,7 @@ public double getAsValue()
 Gets the end point as a real parameter, or throw an exception.
 
 **Returns:**
-double
+double - the end point as a real parameter, or throw an exception.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -193,7 +193,7 @@ public boolean isCartesianPoint()
 Is the end point a Cartesian point?
 
 **Returns:**
-boolean
+boolean - Is the end point a Cartesian point?
 ### notify() {#notify--}
 ```
 public final native void notify()

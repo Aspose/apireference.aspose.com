@@ -21,7 +21,7 @@ A String that represents the current [`Vector4`](../).
 ### See Also
 
 * struct [Vector4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector4/)
 * assembly [Aspose.3D](../../../)
 
 

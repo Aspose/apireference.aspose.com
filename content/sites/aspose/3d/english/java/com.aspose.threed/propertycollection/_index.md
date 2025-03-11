@@ -3,7 +3,7 @@ title: PropertyCollection
 second_title: Aspose.3D for Java API Reference
 description: The collection of properties
 type: docs
-weight: 130
+weight: 136
 url: /java/com.aspose.threed/propertycollection/
 ---
 
@@ -82,7 +82,7 @@ Gets the property by index.
 | idx | int | The 0-based index of the property |
 
 **Returns:**
-[Property](../../com.aspose.threed/property)
+[Property](../../com.aspose.threed/property) - the property by index.
 ### get(String property) {#get-java.lang.String-}
 ```
 public Object get(String property)
@@ -197,7 +197,7 @@ public int size()
 Gets the count of declared properties.
 
 **Returns:**
-int
+int - the count of declared properties.
 ### toString() {#toString--}
 ```
 public String toString()

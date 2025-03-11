@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderfactory/create_vertex_buffer/
 is_root: false
 ---
 
-## create_vertex_buffer {#aspose.threed.utilities.VertexDeclaration}
+## create_vertex_buffer(self, declaration) {#aspose.threed.utilities.VertexDeclaration}
 
 Create an [`IVertexBuffer`](/3d/python-net/aspose.threed.render/ivertexbuffer) instance to store polygon's vertex information.
 
@@ -20,6 +20,7 @@ Create an [`IVertexBuffer`](/3d/python-net/aspose.threed.render/ivertexbuffer) i
 
 
 ```python
+
 def create_vertex_buffer(self, declaration):
     ...
 ```

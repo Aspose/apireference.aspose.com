@@ -17,7 +17,7 @@ public int BytesPerPixel { get; }
 ### See Also
 
 * class [TextureData](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../texturedata/)
 * assembly [Aspose.3D](../../../)
 
 

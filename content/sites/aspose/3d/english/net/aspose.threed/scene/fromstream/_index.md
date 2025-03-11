@@ -21,7 +21,14 @@ public static Scene FromStream(Stream stream, FileFormat format,
 | format | FileFormat | File format. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
-### Examples
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
+
+## Examples
 
 The following code shows how to create a scene from a stream
 
@@ -36,7 +43,7 @@ using(var stream = new FileStream("input.fbx", FileMode.Open))
 
 * class [FileFormat](../../fileformat/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -56,7 +63,14 @@ public static Scene FromStream(Stream stream, LoadOptions options,
 | options | LoadOptions | More detailed configuration to open the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
-### Examples
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
+
+## Examples
 
 The following code shows how to create a scene from a stream with load options
 
@@ -73,7 +87,7 @@ using(var stream = new FileStream("input.fbx", FileMode.Open))
 
 * class [LoadOptions](../../../aspose.threed.formats/loadoptions/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -91,7 +105,14 @@ public static Scene FromStream(Stream stream, CancellationToken cancellationToke
 | stream | Stream | Input stream, user is responsible for closing the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
-### Examples
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
+
+## Examples
 
 The following code shows how to create a scene from a stream with a cancellation token source
 
@@ -106,7 +127,7 @@ using(var stream = new FileStream("input.fbx", FileMode.Open))
 ### See Also
 
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 

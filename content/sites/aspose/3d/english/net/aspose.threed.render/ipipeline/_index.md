@@ -3,7 +3,7 @@ title: Interface IPipeline
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.IPipeline interface. The prebaked sequence of operations to draw in GPU side
 type: docs
-weight: 660
+weight: 1960
 url: /net/aspose.threed.render/ipipeline/
 ---
 ## IPipeline interface

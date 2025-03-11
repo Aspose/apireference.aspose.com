@@ -23,7 +23,7 @@ public TriMesh(string name, VertexDeclaration declaration)
 
 * class [VertexDeclaration](../../../aspose.threed.utilities/vertexdeclaration/)
 * class [TriMesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../trimesh/)
 * assembly [Aspose.3D](../../../)
 
 

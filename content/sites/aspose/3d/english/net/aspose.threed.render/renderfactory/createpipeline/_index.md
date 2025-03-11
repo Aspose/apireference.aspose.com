@@ -34,7 +34,7 @@ A new pipeline instance
 * class [VertexDeclaration](../../../aspose.threed.utilities/vertexdeclaration/)
 * enum [DrawOperation](../../drawoperation/)
 * class [RenderFactory](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderfactory/)
 * assembly [Aspose.3D](../../../)
 
 

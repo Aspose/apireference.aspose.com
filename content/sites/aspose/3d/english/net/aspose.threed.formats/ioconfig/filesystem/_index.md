@@ -14,7 +14,7 @@ Allow user to handle how to manage the external dependencies during load/save.
 public FileSystem FileSystem { get; set; }
 ```
 
-### Examples
+## Examples
 
 The default FileSystem is LocalFileSystem, it is not safe in environment like server side, But you can override the file system access by specifying a different implementation. Aspose.3D provides different FileSystem implementation like: Memory-based file systemDirectory-based file systemDummy file systemZip file system And you can also use your own implementation.
 
@@ -38,7 +38,7 @@ var materialInBytes = memFs["output.mtl"].ToArray();
 
 * class [FileSystem](../../../aspose.threed.utilities/filesystem/)
 * class [IOConfig](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../ioconfig/)
 * assembly [Aspose.3D](../../../)
 
 

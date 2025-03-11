@@ -18,7 +18,7 @@ public Geometry Owner { get; }
 
 * class [Geometry](../../../aspose.threed.entities/geometry/)
 * class [Deformer](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../deformer/)
 * assembly [Aspose.3D](../../../)
 
 

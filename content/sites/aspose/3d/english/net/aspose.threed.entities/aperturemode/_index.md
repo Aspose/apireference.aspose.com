@@ -3,7 +3,7 @@ title: Enum ApertureMode
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.ApertureMode enum. Camera aperture modes. The aperture mode determines which values drive the camera aperture. If the aperture mode is HorizAndVert Horizontal or Vertical then the field of view is used. If the aperture mode is FocalLength then the focal length is used
 type: docs
-weight: 1910
+weight: 250
 url: /net/aspose.threed.entities/aperturemode/
 ---
 ## ApertureMode enumeration

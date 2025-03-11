@@ -18,7 +18,7 @@ public RelativeRectangle Area { get; set; }
 
 * struct [RelativeRectangle](../../../aspose.threed.utilities/relativerectangle/)
 * class [Viewport](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../viewport/)
 * assembly [Aspose.3D](../../../)
 
 

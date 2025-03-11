@@ -22,7 +22,7 @@ The tangent weight mode.
 
 * enum [WeightedMode](../../weightedmode/)
 * class [KeyFrame](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../keyframe/)
 * assembly [Aspose.3D](../../../)
 
 

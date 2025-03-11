@@ -8,13 +8,14 @@ url: /python-net/aspose.threed/scene/clear/
 is_root: false
 ---
 
-## clear {#}
+## clear(self) {#}
 
 Clears the scene content and restores the default settings.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

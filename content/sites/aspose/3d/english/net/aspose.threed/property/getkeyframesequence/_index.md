@@ -3,7 +3,7 @@ title: Property.GetKeyframeSequence
 second_title: Aspose.3D for .NET API Reference
 description: Property method. Gets the keyframe sequence on specified animation instance
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.threed/property/getkeyframesequence/
 ---
 ## Property.GetKeyframeSequence method
@@ -28,7 +28,7 @@ The keyframe sequence on specified animation instance
 * class [KeyframeSequence](../../../aspose.threed.animation/keyframesequence/)
 * class [AnimationNode](../../../aspose.threed.animation/animationnode/)
 * class [Property](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../property/)
 * assembly [Aspose.3D](../../../)
 
 

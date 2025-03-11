@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.render/glslsource/define_include/
 is_root: false
 ---
 
-## define_include {#str-str}
+## define_include(self, file_name, content) {#str-str}
 
 Define virtual file for #include in GLSL source code
 
 
 
 ```python
+
 def define_include(self, file_name, content):
     ...
 ```

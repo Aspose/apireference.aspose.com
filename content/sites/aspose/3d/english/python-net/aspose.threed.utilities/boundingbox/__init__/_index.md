@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.utilities/boundingbox/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of BoundingBox
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3}
+## \_\_init\_\_(self, minimum, maximum) {#aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3}
 
 Initialize a finite bounding box with given minimum and maximum corner
 
 
 
 ```python
+
 def __init__(self, minimum, maximum):
     ...
 ```
@@ -39,14 +41,30 @@ def __init__(self, minimum, maximum):
 | minimum | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The minimum corner |
 | maximum | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The maximum corner |
 
+### Example 
 
-## __init__ {#float-float-float-float-float-float}
+
+The following code shows how to construct a bounding box from minimum and maximum corners.
+
+```python
+from aspose.threed.utilities import BoundingBox, Vector3
+
+minimum = Vector3(0, 0, 0)
+maximum = Vector3(10, 10, 10)
+boundingBox = BoundingBox(minimum, maximum)
+print("Bounding box = "  + str(boundingBox))
+
+```
+
+
+## \_\_init\_\_(self, min_x, min_y, min_z, max_x, max_y, max_z) {#float-float-float-float-float-float}
 
 Initialize a finite bounding box with given minimum and maximum corner
 
 
 
 ```python
+
 def __init__(self, min_x, min_y, min_z, max_x, max_y, max_z):
     ...
 ```
@@ -54,12 +72,25 @@ def __init__(self, min_x, min_y, min_z, max_x, max_y, max_z):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| min_x | float |  |
-| min_y | float |  |
-| min_z | float |  |
-| max_x | float |  |
-| max_y | float |  |
-| max_z | float |  |
+| min_x | float | The minimum corner's X |
+| min_y | float | The minimum corner's Y |
+| min_z | float | The minimum corner's Z |
+| max_x | float | The maximum corner's X |
+| max_y | float | The maximum corner's Y |
+| max_z | float | The maximum corner's Z |
+
+### Example 
+
+
+The following code shows how to construct a bounding box from minimum and maximum corners.
+
+```python
+from aspose.threed.utilities import BoundingBox
+
+boundingBox = BoundingBox(0, 0, 0, 10, 10, 10)
+print("Bounding box = "  + str(boundingBox))
+
+```
 
 
 

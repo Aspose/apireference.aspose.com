@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/line/from_points/
 is_root: false
 ---
 
-## from_points {#list}
+## from_points(, points) {#list}
 
 Construct a [`Line`](/3d/python-net/aspose.threed.entities/line) instance from a set of points.
 
@@ -20,7 +20,9 @@ Construct a [`Line`](/3d/python-net/aspose.threed.entities/line) instance from a
 
 
 ```python
-def from_points(self, points):
+
+@staticmethod
+def from_points(points):
     ...
 ```
 

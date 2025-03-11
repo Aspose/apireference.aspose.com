@@ -22,7 +22,7 @@ The nodes.
 
 * class [Node](../../node/)
 * class [Entity](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../entity/)
 * assembly [Aspose.3D](../../../)
 
 

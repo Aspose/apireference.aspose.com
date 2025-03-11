@@ -17,7 +17,7 @@ public override void Clear()
 ### See Also
 
 * class [VertexElementDoublesTemplate](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementdoublestemplate/)
 * assembly [Aspose.3D](../../../)
 
 

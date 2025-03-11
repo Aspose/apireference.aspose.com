@@ -15,7 +15,7 @@ public bool SameDirection { get; set; }
 ### See Also
 
 * class [Segment](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../compositecurve.segment/)
 * assembly [Aspose.3D](../../../)
 
 

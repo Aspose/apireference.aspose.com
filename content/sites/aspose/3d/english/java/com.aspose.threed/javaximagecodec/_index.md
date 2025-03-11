@@ -3,7 +3,7 @@ title: JavaXImageCodec
 second_title: Aspose.3D for Java API Reference
 description: 
 type: docs
-weight: 81
+weight: 83
 url: /java/com.aspose.threed/javaximagecodec/
 ---
 
@@ -24,7 +24,7 @@ public class JavaXImageCodec implements ITextureCodec, ITextureDecoder
 
 | Method | Description |
 | --- | --- |
-| [decode(Stream stream, boolean reverseY)](#decode-com.aspose.csporter.helpers.Stream-boolean-) |  |
+| [decode(Stream stream, boolean reverseY)](#decode-com.aspose.threed.Stream-boolean-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
 | [getDecoders()](#getDecoders--) |  |
@@ -42,7 +42,7 @@ public JavaXImageCodec()
 ```
 
 
-### decode(Stream stream, boolean reverseY) {#decode-com.aspose.csporter.helpers.Stream-boolean-}
+### decode(Stream stream, boolean reverseY) {#decode-com.aspose.threed.Stream-boolean-}
 ```
 public TextureData decode(Stream stream, boolean reverseY)
 ```
@@ -53,7 +53,7 @@ Decode texture from stream, return null if failed to decode.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream |  |
+| stream | [Stream](../../com.aspose.threed/stream) |  |
 | reverseY | boolean |  |
 
 **Returns:**

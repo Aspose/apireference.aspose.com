@@ -15,7 +15,7 @@ public bool AddChannel<T>(string name, T value)
 ### See Also
 
 * class [BindPoint](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../bindpoint/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -40,7 +40,7 @@ true, if channel was added, false otherwise.
 ### See Also
 
 * class [BindPoint](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../bindpoint/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -66,7 +66,7 @@ true, if channel was added, false otherwise.
 ### See Also
 
 * class [BindPoint](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../bindpoint/)
 * assembly [Aspose.3D](../../../)
 
 

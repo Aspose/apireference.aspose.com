@@ -25,8 +25,8 @@ The FbxLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/fbxloadoptions/__init__/#aspose.threed.FileFormat) | Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions) |
-| [__init__](/3d/python-net/aspose.threed.formats/fbxloadoptions/__init__/#) | Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions) |
+| [`__init__(self, format)`](/3d/python-net/aspose.threed.formats/fbxloadoptions/__init__/#aspose.threed.fileformat) | Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/fbxloadoptions/__init__/#) | Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions) |
 
 
 ### Properties
@@ -38,6 +38,7 @@ The FbxLoadOptions type exposes the following members:
 | [lookup_paths](/3d/python-net/aspose.threed.formats/fbxloadoptions/lookup_paths) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
 | [file_name](/3d/python-net/aspose.threed.formats/fbxloadoptions/file_name) | The file name of the exporting/importing scene.<br/>This is optional, but useful when serialize external assets like OBJ's material. |
 | [keep_builtin_global_settings](/3d/python-net/aspose.threed.formats/fbxloadoptions/keep_builtin_global_settings) | Gets or sets whether to keep the builtin properties in GlobalSettings which have a native property replacement in [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo).<br/>Set this to true if you want the full properties in GlobalSettings<br/>Default value is false |
+| [compatible_mode](/3d/python-net/aspose.threed.formats/fbxloadoptions/compatible_mode) | Gets or sets whether to enable compatible mode.<br/>Compatible mode will try to support non-standard FBX definitions like PBR materials exported by Blender.<br/>Default value is false. |
 
 
 

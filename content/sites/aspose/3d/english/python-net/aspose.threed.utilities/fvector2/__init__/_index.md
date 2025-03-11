@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.utilities/fvector2/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of FVector2
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.threed.utilities.Vector2}
+## \_\_init\_\_(self, vec) {#aspose.threed.utilities.Vector2}
 
 Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2).
 
 
 
 ```python
+
 def __init__(self, vec):
     ...
 ```
@@ -36,16 +38,17 @@ def __init__(self, vec):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| vec | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) |  |
+| vec | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) | Vector2 in double type |
 
 
-## __init__ {#float-float}
+## \_\_init\_\_(self, x, y) {#float-float}
 
 Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2).
 
 
 
 ```python
+
 def __init__(self, x, y):
     ...
 ```
@@ -53,8 +56,8 @@ def __init__(self, x, y):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| x | float |  |
-| y | float |  |
+| x | float | X component of the vector |
+| y | float | Y component of the vector |
 
 
 

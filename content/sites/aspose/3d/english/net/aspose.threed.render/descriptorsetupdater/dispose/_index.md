@@ -17,7 +17,7 @@ public void Dispose()
 ### See Also
 
 * class [DescriptorSetUpdater](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../descriptorsetupdater/)
 * assembly [Aspose.3D](../../../)
 
 

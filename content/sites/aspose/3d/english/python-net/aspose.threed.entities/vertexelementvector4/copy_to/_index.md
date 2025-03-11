@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.entities/vertexelementvector4/copy_to/
 is_root: false
 ---
 
-## copy_to {#aspose.threed.entities.VertexElementVector4}
+## copy_to(self, target) {#aspose.threed.entities.VertexElementVector4}
 
 Copies data to specified element
 
 
 
 ```python
+
 def copy_to(self, target):
     ...
 ```

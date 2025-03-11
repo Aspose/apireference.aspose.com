@@ -17,7 +17,7 @@ public bool ApplyUnitScale { get; set; }
 ### See Also
 
 * class [ObjSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../objsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

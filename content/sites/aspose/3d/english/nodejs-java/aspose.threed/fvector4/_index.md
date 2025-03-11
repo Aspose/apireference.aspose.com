@@ -48,11 +48,11 @@ url: /nodejs-java/aspose.threed/fvector4/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(x, y, z) | Initializes a new instance of the FVector4. | 
+| constructor_overload2(x, y, z) | Initializes a new instance of the FVector4. | 
 
  **Result:**
 
@@ -61,11 +61,11 @@ url: /nodejs-java/aspose.threed/fvector4/
 ---
 
 
-### constructor_overload$3{#constructor_overload$3}
+### constructor_overload3{#constructor_overload3}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$3(vec) | Initializes a new instance of the FVector4. | 
+| constructor_overload3(vec) | Initializes a new instance of the FVector4. | 
 
  **Result:**
 
@@ -74,11 +74,11 @@ url: /nodejs-java/aspose.threed/fvector4/
 ---
 
 
-### constructor_overload$4{#constructor_overload$4}
+### constructor_overload4{#constructor_overload4}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$4(vec) | Initializes a new instance of the FVector4. | 
+| constructor_overload4(vec) | Initializes a new instance of the FVector4. | 
 
  **Result:**
 
@@ -87,11 +87,11 @@ url: /nodejs-java/aspose.threed/fvector4/
 ---
 
 
-### constructor_overload$5{#constructor_overload$5}
+### constructor_overload5{#constructor_overload5}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$5(vec, w) | Initializes a new instance of the FVector4. | 
+| constructor_overload5(vec, w) | Initializes a new instance of the FVector4. | 
 
  **Result:**
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.shading/pbrmaterial/from_material/
 is_root: false
 ---
 
-## from_material {#aspose.threed.shading.Material}
+## from_material(, material) {#aspose.threed.shading.Material}
 
 Allow convert other material to PbrMaterial
 
@@ -20,7 +20,9 @@ Allow convert other material to PbrMaterial
 
 
 ```python
-def from_material(self, material):
+
+@staticmethod
+def from_material(material):
     ...
 ```
 

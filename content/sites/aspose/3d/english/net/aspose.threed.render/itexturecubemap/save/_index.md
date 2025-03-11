@@ -16,7 +16,7 @@ public void Save(CubeFaceData<string> path, string format)
 
 * struct [CubeFaceData&lt;T&gt;](../../cubefacedata-1/)
 * interface [ITextureCubemap](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexturecubemap/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -32,7 +32,7 @@ public void Save(CubeFaceData<TextureData> bitmap)
 * struct [CubeFaceData&lt;T&gt;](../../cubefacedata-1/)
 * class [TextureData](../../texturedata/)
 * interface [ITextureCubemap](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexturecubemap/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -55,7 +55,7 @@ public void Save(CubeFace side, TextureData bitmap)
 * enum [CubeFace](../../cubeface/)
 * class [TextureData](../../texturedata/)
 * interface [ITextureCubemap](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexturecubemap/)
 * assembly [Aspose.3D](../../../)
 
 

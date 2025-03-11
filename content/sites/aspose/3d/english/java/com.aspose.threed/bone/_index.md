@@ -116,7 +116,7 @@ Gets the blend weight of specified control point
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int |  |
+| index | int | Index of the weight |
 
 **Returns:**
 double - The weight
@@ -129,7 +129,7 @@ public Matrix4 getBoneTransform()
 Gets the transform matrix of the bone.
 
 **Returns:**
-[Matrix4](../../com.aspose.threed/matrix4)
+[Matrix4](../../com.aspose.threed/matrix4) - the transform matrix of the bone.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -149,7 +149,7 @@ public BoneLinkMode getLinkMode()
 A bone's link mode refers to the way in which a bone is connected or linked to its parent bone within a hierarchical structure.
 
 **Returns:**
-[BoneLinkMode](../../com.aspose.threed/bonelinkmode)
+[BoneLinkMode](../../com.aspose.threed/bonelinkmode) - A bone's link mode refers to the way in which a bone is connected or linked to its parent bone within a hierarchical structure.
 ### getName() {#getName--}
 ```
 public String getName()
@@ -159,7 +159,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getNode() {#getNode--}
 ```
 public Node getNode()
@@ -169,7 +169,7 @@ public Node getNode()
 Gets the node. The bone node is the bone which skin attached to, the [SkinDeformer](../../com.aspose.threed/skindeformer) will use bone node to influence the displacement of the control points. Bone node usually has a [Skeleton](../../com.aspose.threed/skeleton) attached, but it's not required. Attached [Skeleton](../../com.aspose.threed/skeleton) is usually used by DCC software to show skeleton to user.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the node. The bone node is the bone which skin attached to, the [SkinDeformer](../../com.aspose.threed/skindeformer) will use bone node to influence the displacement of the control points. Bone node usually has a [Skeleton](../../com.aspose.threed/skeleton) attached, but it's not required. Attached [Skeleton](../../com.aspose.threed/skeleton) is usually used by DCC software to show skeleton to user.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -179,7 +179,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -204,7 +204,7 @@ public Matrix4 getTransform()
 Gets the transform matrix of the node containing the bone.
 
 **Returns:**
-[Matrix4](../../com.aspose.threed/matrix4)
+[Matrix4](../../com.aspose.threed/matrix4) - the transform matrix of the node containing the bone.
 ### getWeight(int index) {#getWeight-int-}
 ```
 public double getWeight(int index)
@@ -229,7 +229,7 @@ public int getWeightCount()
 Gets the count of weight, this is automatically extended by [setWeight](../../com.aspose.threed/bone\#setWeight)
 
 **Returns:**
-int
+int - the count of weight, this is automatically extended by [setWeight](../../com.aspose.threed/bone\#setWeight)
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -282,10 +282,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### set(int index, double value) {#set-int-double-}
 ```
 public void set(int index, double value)
@@ -297,7 +297,7 @@ Sets the blend weight of specified control point
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int |  |
+| index | int | Index of the weight |
 | value | double | New value |
 
 ### setBoneTransform(Matrix4 value) {#setBoneTransform-com.aspose.threed.Matrix4-}

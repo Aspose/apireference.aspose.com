@@ -24,7 +24,7 @@ public TransformBuilder Rearrange(Axis newX, Axis newY, Axis newZ)
 
 * enum [Axis](../../../aspose.threed/axis/)
 * class [TransformBuilder](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -22,7 +22,7 @@ The multiplicity.
 
 * interface [IArrayList&lt;T&gt;](../../../aspose.threed.utilities/iarraylist-1/)
 * class [NurbsDirection](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../nurbsdirection/)
 * assembly [Aspose.3D](../../../)
 
 

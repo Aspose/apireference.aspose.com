@@ -18,7 +18,7 @@ public override Vector2 GetExtent()
 
 * struct [Vector2](../../../aspose.threed.utilities/vector2/)
 * class [RectangleShape](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../rectangleshape/)
 * assembly [Aspose.3D](../../../)
 
 

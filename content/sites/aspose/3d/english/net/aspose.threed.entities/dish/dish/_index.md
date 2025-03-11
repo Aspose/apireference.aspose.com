@@ -17,7 +17,7 @@ public Dish()
 ### See Also
 
 * class [Dish](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../dish/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Dish(double radius, double height)
 ### See Also
 
 * class [Dish](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../dish/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -62,7 +62,7 @@ public Dish(string name, double radius, double height, int widthSegments, int he
 ### See Also
 
 * class [Dish](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../dish/)
 * assembly [Aspose.3D](../../../)
 
 

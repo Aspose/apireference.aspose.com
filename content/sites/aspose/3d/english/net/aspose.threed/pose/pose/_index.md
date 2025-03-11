@@ -21,7 +21,7 @@ public Pose(string name)
 ### See Also
 
 * class [Pose](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../pose/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,7 +37,7 @@ public Pose()
 ### See Also
 
 * class [Pose](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../pose/)
 * assembly [Aspose.3D](../../../)
 
 

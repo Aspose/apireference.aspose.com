@@ -8,13 +8,14 @@ url: /python-net/aspose.threed/transform/set_pre_rotation/
 is_root: false
 ---
 
-## set_pre_rotation {#float-float-float}
+## set_pre_rotation(self, rx, ry, rz) {#float-float-float}
 
 Sets the pre-rotation represented in degree
 
 
 
 ```python
+
 def set_pre_rotation(self, rx, ry, rz):
     ...
 ```

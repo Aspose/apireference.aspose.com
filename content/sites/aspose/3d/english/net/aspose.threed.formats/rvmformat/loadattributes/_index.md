@@ -24,7 +24,7 @@ public void LoadAttributes(Scene scene, string fileName, string prefix = "rvm:")
 
 * class [Scene](../../../aspose.threed/scene/)
 * class [RvmFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../rvmformat/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -47,7 +47,7 @@ public void LoadAttributes(Scene scene, Stream stream, string prefix = "rvm:")
 
 * class [Scene](../../../aspose.threed/scene/)
 * class [RvmFormat](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../rvmformat/)
 * assembly [Aspose.3D](../../../)
 
 

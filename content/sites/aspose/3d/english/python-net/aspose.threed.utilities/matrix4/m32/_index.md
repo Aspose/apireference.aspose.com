@@ -12,6 +12,10 @@ is_root: false
 
 
 The m32.
+### Definition:
+```python
+f m32 
+```
 
 ### See Also
 * module [`aspose.threed.utilities`](../../)

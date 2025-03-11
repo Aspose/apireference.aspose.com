@@ -14,7 +14,7 @@ Gets the rotation represented in quaternion.
 public Quaternion Rotation { get; }
 ```
 
-### Examples
+## Examples
 
 ```csharp
 Scene scene = Scene.FromFile("test.fbx");
@@ -26,7 +26,7 @@ Console.WriteLine($"Rotation = {tr.Rotation}");
 
 * struct [Quaternion](../../../aspose.threed.utilities/quaternion/)
 * class [GlobalTransform](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../globaltransform/)
 * assembly [Aspose.3D](../../../)
 
 

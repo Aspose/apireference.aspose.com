@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderfactory/create_shader_program/
 is_root: false
 ---
 
-## create_shader_program {#aspose.threed.render.ShaderSource}
+## create_shader_program(self, shader_source) {#aspose.threed.render.ShaderSource}
 
 Create a [`ShaderProgram`](/3d/python-net/aspose.threed.render/shaderprogram) object
 
@@ -20,6 +20,7 @@ Create a [`ShaderProgram`](/3d/python-net/aspose.threed.render/shaderprogram) ob
 
 
 ```python
+
 def create_shader_program(self, shader_source):
     ...
 ```

@@ -3,7 +3,7 @@ title: Enum RotationOrder
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.RotationOrder enum. The order controls which rx ry rz are applied in the transformation matrix
 type: docs
-weight: 1360
+weight: 2740
 url: /net/aspose.threed.utilities/rotationorder/
 ---
 ## RotationOrder enumeration

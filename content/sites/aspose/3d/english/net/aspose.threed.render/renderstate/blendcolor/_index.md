@@ -18,7 +18,7 @@ public FVector4 BlendColor { get; set; }
 
 * struct [FVector4](../../../aspose.threed.utilities/fvector4/)
 * class [RenderState](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderstate/)
 * assembly [Aspose.3D](../../../)
 
 

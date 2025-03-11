@@ -17,7 +17,7 @@ public bool CastShadows { get; set; }
 ### See Also
 
 * class [Light](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../light/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -18,7 +18,7 @@ public TransformBuilder Scale(double s)
 | --- | --- | --- |
 | s | Double |  |
 
-### Examples
+## Examples
 
 ```csharp
 TransformBuilder tb = new TransformBuilder();
@@ -29,7 +29,7 @@ Console.WriteLine($"Transform Matrix: {tb.Matrix}");
 ### See Also
 
 * class [TransformBuilder](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -48,7 +48,7 @@ public TransformBuilder Scale(double x, double y, double z)
 | y | Double |  |
 | z | Double |  |
 
-### Examples
+## Examples
 
 ```csharp
 TransformBuilder tb = new TransformBuilder();
@@ -59,7 +59,7 @@ Console.WriteLine($"Transform Matrix: {tb.Matrix}");
 ### See Also
 
 * class [TransformBuilder](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -76,7 +76,7 @@ public TransformBuilder Scale(Vector3 s)
 | --- | --- | --- |
 | s | Vector3 |  |
 
-### Examples
+## Examples
 
 ```csharp
 TransformBuilder tb = new TransformBuilder();
@@ -88,7 +88,7 @@ Console.WriteLine($"Transform Matrix: {tb.Matrix}");
 
 * struct [Vector3](../../vector3/)
 * class [TransformBuilder](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder/)
 * assembly [Aspose.3D](../../../)
 
 

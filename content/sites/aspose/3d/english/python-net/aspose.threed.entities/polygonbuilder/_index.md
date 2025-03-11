@@ -19,15 +19,15 @@ The PolygonBuilder type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.entities/polygonbuilder/__init__/#aspose.threed.entities.Mesh) | Initializes a new instance of the [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder) class. |
+| [`__init__(self, mesh)`](/3d/python-net/aspose.threed.entities/polygonbuilder/__init__/#aspose.threed.entities.mesh) | Initializes a new instance of the [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder) class. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [begin](/3d/python-net/aspose.threed.entities/polygonbuilder/begin/#) | Begins to add a new polygon |
-| [add_vertex](/3d/python-net/aspose.threed.entities/polygonbuilder/add_vertex/#int) | Adds a vertex index to the polygon |
-| [end](/3d/python-net/aspose.threed.entities/polygonbuilder/end/#) | Finishes the polygon creation |
+| [`begin(self)`](/3d/python-net/aspose.threed.entities/polygonbuilder/begin/#) | Begins to add a new polygon |
+| [`add_vertex(self, index)`](/3d/python-net/aspose.threed.entities/polygonbuilder/add_vertex/#int) | Adds a vertex index to the polygon |
+| [`end(self)`](/3d/python-net/aspose.threed.entities/polygonbuilder/end/#) | Finishes the polygon creation |
 
 
 

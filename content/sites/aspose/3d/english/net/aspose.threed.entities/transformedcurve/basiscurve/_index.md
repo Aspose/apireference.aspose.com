@@ -18,7 +18,7 @@ public Curve BasisCurve { get; set; }
 
 * class [Curve](../../curve/)
 * class [TransformedCurve](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../transformedcurve/)
 * assembly [Aspose.3D](../../../)
 
 

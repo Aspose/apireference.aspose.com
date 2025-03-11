@@ -46,11 +46,11 @@ url: /nodejs-java/aspose.threed/plane/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(name, length, width, lengthSegments, widthSegments) | Initializes a new instance of the Plane. | 
+| constructor_overload2(name, length, width, lengthSegments, widthSegments) | Initializes a new instance of the Plane. | 
 
  **Parameters:**
 

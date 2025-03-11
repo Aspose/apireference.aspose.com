@@ -3,7 +3,7 @@ title: PolygonModifier.SplitMesh
 second_title: Aspose.3D for .NET API Reference
 description: PolygonModifier method. Split mesh into submeshes by VertexElementMaterial. Each submesh will use only one material. Perform mesh splitting on a node
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.threed.entities/polygonmodifier/splitmesh/
 ---
 ## SplitMesh(Node, SplitMeshPolicy, bool, bool) {#splitmesh_1}
@@ -22,7 +22,7 @@ public static void SplitMesh(Node node, SplitMeshPolicy policy, bool createChild
 | createChildNodes | Boolean | Create child nodes for each sub-mesh. |
 | removeOldMesh | Boolean | Remove the old mesh after split, if this parameter is false, the old and new meshes will co-exists. |
 
-### Examples
+## Examples
 
 The following code shows how to split a box into sub meshes using material indices.
 
@@ -49,7 +49,7 @@ planes = PolygonModifier.SplitMesh(box, SplitMeshPolicy.CompactData);
 * class [Node](../../../aspose.threed/node/)
 * enum [SplitMeshPolicy](../../splitmeshpolicy/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -68,7 +68,7 @@ public static void SplitMesh(Scene scene, SplitMeshPolicy policy, bool removeOld
 | policy | SplitMeshPolicy |  |
 | removeOldMesh | Boolean |  |
 
-### Examples
+## Examples
 
 The following code shows how to split a box into sub meshes using material indices.
 
@@ -95,7 +95,7 @@ planes = PolygonModifier.SplitMesh(box, SplitMeshPolicy.CompactData);
 * class [Scene](../../../aspose.threed/scene/)
 * enum [SplitMeshPolicy](../../splitmeshpolicy/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -112,7 +112,7 @@ public static Mesh[] SplitMesh(Mesh mesh, SplitMeshPolicy policy)
 
 New splitted meshes
 
-### Examples
+## Examples
 
 The following code shows how to split a box into sub meshes using material indices.
 
@@ -139,7 +139,7 @@ planes = PolygonModifier.SplitMesh(box, SplitMeshPolicy.CompactData);
 * class [Mesh](../../mesh/)
 * enum [SplitMeshPolicy](../../splitmeshpolicy/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
 
 

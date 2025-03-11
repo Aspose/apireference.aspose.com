@@ -18,7 +18,7 @@ public BindPoint BindPoint { get; }
 
 * class [BindPoint](../../bindpoint/)
 * class [KeyframeSequence](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../keyframesequence/)
 * assembly [Aspose.3D](../../../)
 
 

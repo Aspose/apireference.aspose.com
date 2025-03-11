@@ -3,7 +3,7 @@ title: Viewport
 second_title: Aspose.3D for Java API Reference
 description: A  contains at least one viewport for rendering the scene.
 type: docs
-weight: 215
+weight: 224
 url: /java/com.aspose.threed/viewport/
 ---
 
@@ -75,7 +75,7 @@ public RelativeRectangle getArea()
 Gets the area of the viewport in render target.
 
 **Returns:**
-[RelativeRectangle](../../com.aspose.threed/relativerectangle)
+[RelativeRectangle](../../com.aspose.threed/relativerectangle) - the area of the viewport in render target.
 ### getBackgroundColor() {#getBackgroundColor--}
 ```
 public Vector3 getBackgroundColor()
@@ -85,7 +85,7 @@ public Vector3 getBackgroundColor()
 Gets the background color of the viewport.
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the background color of the viewport.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -105,7 +105,7 @@ public float getDepthClear()
 Gets the depth value used when clear the viewport with depth buffer bit set.
 
 **Returns:**
-float
+float - the depth value used when clear the viewport with depth buffer bit set.
 ### getEnabled() {#getEnabled--}
 ```
 public boolean getEnabled()
@@ -115,7 +115,7 @@ public boolean getEnabled()
 Enable or disable this viewport.
 
 **Returns:**
-boolean
+boolean - Enable or disable this viewport.
 ### getFrustum() {#getFrustum--}
 ```
 public Frustum getFrustum()
@@ -125,7 +125,7 @@ public Frustum getFrustum()
 Gets the camera of this [Viewport](../../com.aspose.threed/viewport)
 
 **Returns:**
-[Frustum](../../com.aspose.threed/frustum)
+[Frustum](../../com.aspose.threed/frustum) - the camera of this [Viewport](../../com.aspose.threed/viewport)
 ### getRenderTarget() {#getRenderTarget--}
 ```
 public IRenderTarget getRenderTarget()
@@ -135,7 +135,7 @@ public IRenderTarget getRenderTarget()
 Gets the render target that created this viewport.
 
 **Returns:**
-[IRenderTarget](../../com.aspose.threed/irendertarget)
+[IRenderTarget](../../com.aspose.threed/irendertarget) - the render target that created this viewport.
 ### getZOrder() {#getZOrder--}
 ```
 public int getZOrder()
@@ -145,7 +145,7 @@ public int getZOrder()
 Gets the Z-order of the viewport.
 
 **Returns:**
-int
+int - the Z-order of the viewport.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

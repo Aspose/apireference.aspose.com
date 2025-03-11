@@ -3,7 +3,7 @@ title: SIEMENS_JT8 property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 460
 url: /python-net/aspose.threed.formats/dracoformat/siemens_jt8/
 is_root: false
 ---
@@ -12,7 +12,12 @@ is_root: false
 
 
 Siemens JT File Version 8
+### Definition:
+```python
+f SIEMENS_JT8 
+```
 
 ### See Also
 * module [`aspose.threed.formats`](../../)
 * class [`DracoFormat`](/3d/python-net/aspose.threed.formats/dracoformat)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)

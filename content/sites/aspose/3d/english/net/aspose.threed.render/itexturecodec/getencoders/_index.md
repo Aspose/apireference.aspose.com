@@ -14,11 +14,15 @@ Gets supported texture encoders.
 public ITextureEncoder[] GetEncoders()
 ```
 
+### Return Value
+
+An array of supported texture encoders
+
 ### See Also
 
 * interface [ITextureEncoder](../../itextureencoder/)
 * interface [ITextureCodec](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexturecodec/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class DescriptorSetUpdater
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.DescriptorSetUpdater class. This class allows to update the IDescriptorSet in a chain operation
 type: docs
-weight: 1020
+weight: 1840
 url: /net/aspose.threed.render/descriptorsetupdater/
 ---
 ## DescriptorSetUpdater class

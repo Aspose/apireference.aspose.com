@@ -3,7 +3,7 @@ title: Class Scene
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Scene class. A scene is a toplevel object that contains the nodes geometries materials textures animation poses subscenes and etc. Scene can have subscenes acts as multipledocument support in files like collada/blender/fbx Node hierarchy can be accessed through RootNodeLibrary is used to keep a reference of unattached objects during serializationlike meta data or custom objects so it can be used as a library
 type: docs
-weight: 260
+weight: 2400
 url: /net/aspose.threed/scene/
 ---
 ## Scene class
@@ -30,11 +30,11 @@ public class Scene : SceneObject
 | [AssetInfo](../../aspose.threed/scene/assetinfo/) { get; set; } | Gets or sets the top-level asset information |
 | [CurrentAnimationClip](../../aspose.threed/scene/currentanimationclip/) { get; set; } | Gets or sets the active [`AnimationClip`](../../aspose.threed.animation/animationclip/) |
 | [Library](../../aspose.threed/scene/library/) { get; } | Objects that not directly used in scene hierarchy can be defined in Library. This is useful when you're using sub-scenes and put reusable components under sub-scenes. |
-| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name.(Inherited from [`A3DObject`](../a3dobject/).) |
+| virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name. |
 | [Poses](../../aspose.threed/scene/poses/) { get; } | Gets all [`Pose`](../pose/) used in this scene. |
-| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties.(Inherited from [`A3DObject`](../a3dobject/).) |
+| [Properties](../../aspose.threed/a3dobject/properties/) { get; } | Gets the collection of all properties. |
 | [RootNode](../../aspose.threed/scene/rootnode/) { get; } | Gets the root node of the scene. |
-| [Scene](../../aspose.threed/sceneobject/scene/) { get; } | Gets the scene that this object belongs to(Inherited from [`SceneObject`](../sceneobject/).) |
+| [Scene](../../aspose.threed/sceneobject/scene/) { get; } | Gets the scene that this object belongs to |
 | [SubScenes](../../aspose.threed/scene/subscenes/) { get; } | Gets all sub-scenes |
 
 ## Methods
@@ -50,9 +50,9 @@ public class Scene : SceneObject
 | static [FromStream](../../aspose.threed/scene/fromstream/#fromstream_1)(Stream, LoadOptions, CancellationToken) | Opens the scene from given stream using specified IO config. |
 | [Clear](../../aspose.threed/scene/clear/)() | Clears the scene content and restores the default settings. |
 | [CreateAnimationClip](../../aspose.threed/scene/createanimationclip/)(string) | A shorthand function to create and register the [`AnimationClip`](../../aspose.threed.animation/animationclip/) The first [`AnimationClip`](../../aspose.threed.animation/animationclip/) will be assigned to the [`CurrentAnimationClip`](./currentanimationclip/) |
-| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name)(Inherited from [`A3DObject`](../a3dobject/).) |
+| [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
 | [GetAnimationClip](../../aspose.threed/scene/getanimationclip/)(string) | Gets a named [`AnimationClip`](../../aspose.threed.animation/animationclip/) |
-| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property(Inherited from [`A3DObject`](../a3dobject/).) |
+| [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property |
 | [Open](../../aspose.threed/scene/open/#open)(Stream) | Opens the scene from given stream |
 | [Open](../../aspose.threed/scene/open/#open_4)(string) | Opens the scene from given path |
 | [Open](../../aspose.threed/scene/open/#open_3)(Stream, CancellationToken) | Opens the scene from given stream |
@@ -62,8 +62,8 @@ public class Scene : SceneObject
 | [Open](../../aspose.threed/scene/open/#open_2)(Stream, LoadOptions, CancellationToken) | Opens the scene from given stream using specified IO config. |
 | [Open](../../aspose.threed/scene/open/#open_5)(string, FileFormat, CancellationToken) | Opens the scene from given path using specified file format. |
 | [Open](../../aspose.threed/scene/open/#open_7)(string, LoadOptions, CancellationToken) | Opens the scene from given path using specified file format. |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property.(Inherited from [`A3DObject`](../a3dobject/).) |
-| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name(Inherited from [`A3DObject`](../a3dobject/).) |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property. |
+| [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name |
 | [Render](../../aspose.threed/scene/render/#render_2)(Camera, string) | Render the scene into external file from given camera's perspective. The default output size is 1024x768 and output format is png |
 | [Render](../../aspose.threed/scene/render/#render)(Camera, TextureData) | Render the scene into bitmap from given camera's perspective. |
 | [Render](../../aspose.threed/scene/render/#render_1)(Camera, TextureData, ImageRenderOptions) | Render the scene into bitmap from given camera's perspective. |
@@ -78,7 +78,13 @@ public class Scene : SceneObject
 | [Save](../../aspose.threed/scene/save/#save_3)(Stream, SaveOptions, CancellationToken) | Saves the scene to stream using specified file format. |
 | [Save](../../aspose.threed/scene/save/#save_6)(string, FileFormat, CancellationToken) | Saves the scene to specified path using specified file format. |
 | [Save](../../aspose.threed/scene/save/#save_8)(string, SaveOptions, CancellationToken) | Saves the scene to specified path using specified file format. |
-| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property(Inherited from [`A3DObject`](../a3dobject/).) |
+| [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| const [Version](../../aspose.threed/scene/version/) | Gets the current release version |
 
 ### See Also
 

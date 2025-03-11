@@ -3,7 +3,7 @@ title: name property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 140
 url: /python-net/aspose.threed.animation/animationchannel/name/
 is_root: false
 ---
@@ -11,11 +11,14 @@ is_root: false
 ## name property
 
 
-Gets the name of the channel
+Gets or sets the name.
 ### Definition:
 ```python
 @property
 def name(self):
+    ...
+@name.setter
+def name(self, value):
     ...
 ```
 

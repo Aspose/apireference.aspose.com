@@ -23,7 +23,7 @@ public void Render(Camera camera, string fileName)
 
 * class [Camera](../../../aspose.threed.entities/camera/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -48,7 +48,7 @@ public void Render(Camera camera, string fileName, Vector2 size, string format)
 * class [Camera](../../../aspose.threed.entities/camera/)
 * struct [Vector2](../../../aspose.threed.utilities/vector2/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -76,7 +76,7 @@ public void Render(Camera camera, string fileName, Vector2 size, string format,
 * struct [Vector2](../../../aspose.threed.utilities/vector2/)
 * class [ImageRenderOptions](../../imagerenderoptions/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -99,7 +99,7 @@ public void Render(Camera camera, TextureData bitmap)
 * class [Camera](../../../aspose.threed.entities/camera/)
 * class [TextureData](../../../aspose.threed.render/texturedata/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -124,7 +124,7 @@ public void Render(Camera camera, TextureData bitmap, ImageRenderOptions options
 * class [TextureData](../../../aspose.threed.render/texturedata/)
 * class [ImageRenderOptions](../../imagerenderoptions/)
 * class [Scene](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../scene/)
 * assembly [Aspose.3D](../../../)
 
 

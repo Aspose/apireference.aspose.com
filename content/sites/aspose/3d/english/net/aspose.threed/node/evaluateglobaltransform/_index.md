@@ -22,7 +22,7 @@ public Matrix4 EvaluateGlobalTransform(bool withGeometricTransform)
 
 The global transform matrix.
 
-### Examples
+## Examples
 
 The following code shows how to read the node's global transform matrix.
 
@@ -39,7 +39,7 @@ Console.WriteLine($"The box's global transform matrix is {mat}");
 
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

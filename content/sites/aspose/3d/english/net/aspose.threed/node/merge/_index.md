@@ -18,7 +18,7 @@ public void Merge(Node node)
 | --- | --- | --- |
 | node | Node |  |
 
-### Examples
+## Examples
 
 The following code shows how to merge two 3D files into one file
 
@@ -32,7 +32,7 @@ scene1.Save("merged.fbx");
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

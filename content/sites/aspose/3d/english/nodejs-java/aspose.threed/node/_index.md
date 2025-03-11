@@ -46,11 +46,11 @@ url: /nodejs-java/aspose.threed/node/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(name) | Initializes a new instance of the Node class. | 
+| constructor_overload2(name) | Initializes a new instance of the Node class. | 
 
  **Parameters:**
 

@@ -18,7 +18,7 @@ public PdfRenderMode RenderMode { get; set; }
 
 * enum [PdfRenderMode](../../pdfrendermode/)
 * class [PdfSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../pdfsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

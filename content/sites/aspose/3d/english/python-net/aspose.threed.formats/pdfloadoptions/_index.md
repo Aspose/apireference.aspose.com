@@ -3,7 +3,7 @@ title: PdfLoadOptions class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 210
 url: /python-net/aspose.threed.formats/pdfloadoptions/
 is_root: false
 ---
@@ -25,7 +25,7 @@ The PdfLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/pdfloadoptions/__init__/#) | Constructor of [`PdfLoadOptions`](/3d/python-net/aspose.threed.formats/pdfloadoptions) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/pdfloadoptions/__init__/#) | Constructor of [`PdfLoadOptions`](/3d/python-net/aspose.threed.formats/pdfloadoptions) |
 
 
 ### Properties

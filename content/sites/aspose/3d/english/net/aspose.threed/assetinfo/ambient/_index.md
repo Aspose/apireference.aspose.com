@@ -18,7 +18,7 @@ public Vector4? Ambient { get; set; }
 
 * struct [Vector4](../../../aspose.threed.utilities/vector4/)
 * class [AssetInfo](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../assetinfo/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -17,7 +17,7 @@ public Cylinder()
 ### See Also
 
 * class [Cylinder](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../cylinder/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Cylinder(double radius, double height)
 ### See Also
 
 * class [Cylinder](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../cylinder/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -60,7 +60,7 @@ public Cylinder(double radiusTop, double radiusBottom, double height)
 ### See Also
 
 * class [Cylinder](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../cylinder/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -86,7 +86,7 @@ public Cylinder(double radiusTop, double radiusBottom, double height, int radial
 ### See Also
 
 * class [Cylinder](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../cylinder/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -115,7 +115,7 @@ public Cylinder(string name, double radiusTop, double radiusBottom, double heigh
 ### See Also
 
 * class [Cylinder](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../cylinder/)
 * assembly [Aspose.3D](../../../)
 
 

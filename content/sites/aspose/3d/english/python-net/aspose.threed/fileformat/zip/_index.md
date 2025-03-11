@@ -3,7 +3,7 @@ title: ZIP property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 560
+weight: 570
 url: /python-net/aspose.threed/fileformat/zip/
 is_root: false
 ---
@@ -12,6 +12,10 @@ is_root: false
 
 
 Zip archive that contains other 3d file format.
+### Definition:
+```python
+f ZIP 
+```
 
 ### See Also
 * module [`aspose.threed`](../../)

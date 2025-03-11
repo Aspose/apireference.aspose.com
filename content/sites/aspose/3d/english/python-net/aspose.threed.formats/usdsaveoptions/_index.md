@@ -3,7 +3,7 @@ title: UsdSaveOptions class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 310
+weight: 340
 url: /python-net/aspose.threed.formats/usdsaveoptions/
 is_root: false
 ---
@@ -25,8 +25,8 @@ The UsdSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/usdsaveoptions/__init__/#) | Initialize a new [`UsdSaveOptions`](/3d/python-net/aspose.threed.formats/usdsaveoptions) with [`FileFormat.USD`](/3d/python-net/aspose.threed/fileformat) format |
-| [__init__](/3d/python-net/aspose.threed.formats/usdsaveoptions/__init__/#aspose.threed.FileFormat) | Initialize a new [`UsdSaveOptions`](/3d/python-net/aspose.threed.formats/usdsaveoptions) with specified USD/USDZ format. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.formats/usdsaveoptions/__init__/#) | Initialize a new [`UsdSaveOptions`](/3d/python-net/aspose.threed.formats/usdsaveoptions) with [`FileFormat.USD`](/3d/python-net/aspose.threed/fileformat) format |
+| [`__init__(self, file_format)`](/3d/python-net/aspose.threed.formats/usdsaveoptions/__init__/#aspose.threed.fileformat) | Initialize a new [`UsdSaveOptions`](/3d/python-net/aspose.threed.formats/usdsaveoptions) with specified USD/USDZ format. |
 
 
 ### Properties

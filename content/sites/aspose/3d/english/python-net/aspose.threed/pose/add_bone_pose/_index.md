@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/pose/add_bone_pose/
 is_root: false
 ---
 
-## add_bone_pose {#aspose.threed.Node-aspose.threed.utilities.Matrix4}
+## add_bone_pose(self, node, matrix) {#aspose.threed.Node-aspose.threed.utilities.Matrix4}
 
 Saves pose transformation matrix for the given bone node. 
 Global transformation matrix is implied.
@@ -16,6 +16,7 @@ Global transformation matrix is implied.
 
 
 ```python
+
 def add_bone_pose(self, node, matrix):
     ...
 ```
@@ -27,13 +28,14 @@ def add_bone_pose(self, node, matrix):
 | matrix | aspose.threed.utilities.Matrix4 | Transformation matrix. |
 
 
-## add_bone_pose {#aspose.threed.Node-aspose.threed.utilities.Matrix4-bool}
+## add_bone_pose(self, node, matrix, local_matrix) {#aspose.threed.Node-aspose.threed.utilities.Matrix4-bool}
 
 Saves pose transformation matrix for the given bone node.
 
 
 
 ```python
+
 def add_bone_pose(self, node, matrix, local_matrix):
     ...
 ```

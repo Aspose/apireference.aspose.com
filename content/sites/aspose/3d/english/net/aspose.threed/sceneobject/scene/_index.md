@@ -18,7 +18,7 @@ public Scene Scene { get; }
 
 * class [Scene](../../scene/)
 * class [SceneObject](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../sceneobject/)
 * assembly [Aspose.3D](../../../)
 
 

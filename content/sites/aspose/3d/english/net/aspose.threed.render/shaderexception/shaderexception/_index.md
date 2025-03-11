@@ -21,7 +21,7 @@ public ShaderException(string message)
 ### See Also
 
 * class [ShaderException](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../shaderexception/)
 * assembly [Aspose.3D](../../../)
 
 

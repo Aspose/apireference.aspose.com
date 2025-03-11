@@ -3,7 +3,7 @@ title: FileFormatType.Maya
 second_title: Aspose.3D for .NET API Reference
 description: FileFormatType field. Autodesk Maya format type
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.threed/fileformattype/maya/
 ---
 ## FileFormatType.Maya field
@@ -17,7 +17,7 @@ public static readonly FileFormatType Maya;
 ### See Also
 
 * class [FileFormatType](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformattype/)
 * assembly [Aspose.3D](../../../)
 
 

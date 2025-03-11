@@ -3,7 +3,7 @@ title: TextureSlot
 second_title: Aspose.3D for Java API Reference
 description: Texture slot in  can be enumerated through material instance.
 type: docs
-weight: 175
+weight: 183
 url: /java/com.aspose.threed/textureslot/
 ---
 
@@ -74,7 +74,7 @@ public String getSlotName()
 The slot name that indicates where this texture will be bounded to.
 
 **Returns:**
-java.lang.String
+java.lang.String - The slot name that indicates where this texture will be bounded to.
 ### getTexture() {#getTexture--}
 ```
 public TextureBase getTexture()
@@ -84,7 +84,7 @@ public TextureBase getTexture()
 The texture that will be bounded to the material.
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase)
+[TextureBase](../../com.aspose.threed/texturebase) - The texture that will be bounded to the material.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

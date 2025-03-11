@@ -16,12 +16,16 @@ public override bool Equals(object obj)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | Object |  |
+| obj | Object | The object to compare |
+
+### Return Value
+
+true if two objects are equal
 
 ### See Also
 
 * struct [BoundingBox](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox/)
 * assembly [Aspose.3D](../../../)
 
 

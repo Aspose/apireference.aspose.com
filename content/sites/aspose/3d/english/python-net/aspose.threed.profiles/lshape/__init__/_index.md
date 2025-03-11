@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.profiles/lshape/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructor of [`LShape`](/3d/python-net/aspose.threed.profiles/lshape)
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

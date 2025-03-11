@@ -3,7 +3,7 @@ title: Enum Interpolation
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Animation.Interpolation enum. The key frames interpolation type
 type: docs
-weight: 2730
+weight: 80
 url: /net/aspose.threed.animation/interpolation/
 ---
 ## Interpolation enumeration

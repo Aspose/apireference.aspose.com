@@ -3,7 +3,7 @@ title: FileFormatType.X
 second_title: Aspose.3D for .NET API Reference
 description: FileFormatType field. DirectXs X File
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.threed/fileformattype/x/
 ---
 ## FileFormatType.X field
@@ -17,7 +17,7 @@ public static readonly FileFormatType X;
 ### See Also
 
 * class [FileFormatType](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformattype/)
 * assembly [Aspose.3D](../../../)
 
 

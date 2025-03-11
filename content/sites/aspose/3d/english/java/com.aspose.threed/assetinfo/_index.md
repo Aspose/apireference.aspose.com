@@ -149,7 +149,7 @@ public Vector4 getAmbient()
 Gets or Sets the default ambient color of this asset
 
 **Returns:**
-[Vector4](../../com.aspose.threed/vector4)
+[Vector4](../../com.aspose.threed/vector4) - or Sets the default ambient color of this asset
 ### getApplicationName() {#getApplicationName--}
 ```
 public String getApplicationName()
@@ -159,7 +159,7 @@ public String getApplicationName()
 Gets the application that created this asset
 
 **Returns:**
-java.lang.String
+java.lang.String - the application that created this asset
 ### getApplicationVendor() {#getApplicationVendor--}
 ```
 public String getApplicationVendor()
@@ -169,7 +169,7 @@ public String getApplicationVendor()
 Gets the application vendor's name
 
 **Returns:**
-java.lang.String
+java.lang.String - the application vendor's name
 ### getApplicationVersion() {#getApplicationVersion--}
 ```
 public String getApplicationVersion()
@@ -179,7 +179,7 @@ public String getApplicationVersion()
 Gets the version of the application that created this asset.
 
 **Returns:**
-java.lang.String
+java.lang.String - the version of the application that created this asset.
 ### getAuthor() {#getAuthor--}
 ```
 public String getAuthor()
@@ -189,7 +189,7 @@ public String getAuthor()
 Gets the author of this asset
 
 **Returns:**
-java.lang.String
+java.lang.String - the author of this asset
 ### getAxisSystem() {#getAxisSystem--}
 ```
 public AxisSystem getAxisSystem()
@@ -199,7 +199,7 @@ public AxisSystem getAxisSystem()
 Gets the coordinate system/up vector/front vector of the asset info.
 
 **Returns:**
-[AxisSystem](../../com.aspose.threed/axissystem)
+[AxisSystem](../../com.aspose.threed/axissystem) - the coordinate system/up vector/front vector of the asset info.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -219,7 +219,7 @@ public String getComment()
 Gets the comment of this asset.
 
 **Returns:**
-java.lang.String
+java.lang.String - the comment of this asset.
 ### getCoordinateSystem() {#getCoordinateSystem--}
 ```
 public CoordinateSystem getCoordinateSystem()
@@ -229,7 +229,7 @@ public CoordinateSystem getCoordinateSystem()
 Gets the coordinate system used in this asset.
 
 **Returns:**
-[CoordinateSystem](../../com.aspose.threed/coordinatesystem)
+[CoordinateSystem](../../com.aspose.threed/coordinatesystem) - the coordinate system used in this asset.
 ### getCopyright() {#getCopyright--}
 ```
 public String getCopyright()
@@ -239,7 +239,7 @@ public String getCopyright()
 Gets the document's copyright
 
 **Returns:**
-java.lang.String
+java.lang.String - the document's copyright
 ### getCreationTime() {#getCreationTime--}
 ```
 public Calendar getCreationTime()
@@ -249,7 +249,7 @@ public Calendar getCreationTime()
 Gets or Sets the creation time of this asset
 
 **Returns:**
-java.util.Calendar
+java.util.Calendar - or Sets the creation time of this asset
 ### getFrontVector() {#getFrontVector--}
 ```
 public Axis getFrontVector()
@@ -259,7 +259,7 @@ public Axis getFrontVector()
 Gets the front-vector used in this asset.
 
 **Returns:**
-[Axis](../../com.aspose.threed/axis)
+[Axis](../../com.aspose.threed/axis) - the front-vector used in this asset.
 ### getKeywords() {#getKeywords--}
 ```
 public String getKeywords()
@@ -269,7 +269,7 @@ public String getKeywords()
 Gets the keywords of this asset
 
 **Returns:**
-java.lang.String
+java.lang.String - the keywords of this asset
 ### getModificationTime() {#getModificationTime--}
 ```
 public Calendar getModificationTime()
@@ -279,7 +279,7 @@ public Calendar getModificationTime()
 Gets or Sets the modification time of this asset
 
 **Returns:**
-java.util.Calendar
+java.util.Calendar - or Sets the modification time of this asset
 ### getName() {#getName--}
 ```
 public String getName()
@@ -289,7 +289,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -299,7 +299,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -324,7 +324,7 @@ public String getRevision()
 Gets the revision number of this asset, usually used in version control system.
 
 **Returns:**
-java.lang.String
+java.lang.String - the revision number of this asset, usually used in version control system.
 ### getSubject() {#getSubject--}
 ```
 public String getSubject()
@@ -334,7 +334,7 @@ public String getSubject()
 Gets the subject of this asset
 
 **Returns:**
-java.lang.String
+java.lang.String - the subject of this asset
 ### getTitle() {#getTitle--}
 ```
 public String getTitle()
@@ -344,7 +344,7 @@ public String getTitle()
 Gets the title of this asset
 
 **Returns:**
-java.lang.String
+java.lang.String - the title of this asset
 ### getUnitName() {#getUnitName--}
 ```
 public String getUnitName()
@@ -354,17 +354,17 @@ public String getUnitName()
 Gets the unit of length used in this asset. e.g. cm/m/km/inch/feet
 
 **Returns:**
-java.lang.String
+java.lang.String - the unit of length used in this asset. e.g. cm/m/km/inch/feet
 ### getUnitScaleFactor() {#getUnitScaleFactor--}
 ```
 public double getUnitScaleFactor()
 ```
 
 
-Gets the scale factor to real-world meter. **Remarks:** This is ignored during serialization if the unit name is null.
+Gets the scale factor to real-world meter.
 
 **Returns:**
-double
+double - the scale factor to real-world meter. **Remarks:** This is ignored during serialization if the unit name is null.
 ### getUpVector() {#getUpVector--}
 ```
 public Axis getUpVector()
@@ -374,7 +374,7 @@ public Axis getUpVector()
 Gets the up-vector used in this asset.
 
 **Returns:**
-[Axis](../../com.aspose.threed/axis)
+[Axis](../../com.aspose.threed/axis) - the up-vector used in this asset.
 ### getUrl() {#getUrl--}
 ```
 public String getUrl()
@@ -384,7 +384,7 @@ public String getUrl()
 Gets or Sets the URL of this asset.
 
 **Returns:**
-java.lang.String
+java.lang.String - or Sets the URL of this asset.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -437,10 +437,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setAmbient(Vector4 value) {#setAmbient-com.aspose.threed.Vector4-}
 ```
 public void setAmbient(Vector4 value)

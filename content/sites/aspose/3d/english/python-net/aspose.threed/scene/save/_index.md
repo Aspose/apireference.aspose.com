@@ -8,13 +8,14 @@ url: /python-net/aspose.threed/scene/save/
 is_root: false
 ---
 
-## save {#str}
+## save(self, file_name) {#str}
 
 Saves the scene to specified path using specified file format.
 
 
 
 ```python
+
 def save(self, file_name):
     ...
 ```
@@ -23,6 +24,13 @@ def save(self, file_name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_name | str | File name. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ExportException`](/3d/python-net/aspose.threed/exportexception) | Thrown when failed to export the scene to specified 3D format |
+
+
 
 ### Example 
 
@@ -38,13 +46,14 @@ scene.save("output.usdz")
 ```
 
 
-## save {#io.RawIOBase-aspose.threed.FileFormat}
+## save(self, stream, format) {#io.RawIOBase-aspose.threed.FileFormat}
 
 Saves the scene to stream using specified file format.
 
 
 
 ```python
+
 def save(self, stream, format):
     ...
 ```
@@ -54,6 +63,13 @@ def save(self, stream, format):
 | :- | :- | :- |
 | stream | io.RawIOBase | Input stream, user is responsible for closing the stream. |
 | format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) | Format. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ExportException`](/3d/python-net/aspose.threed/exportexception) | Thrown when failed to export the scene to specified 3D format |
+
+
 
 ### Example 
 
@@ -71,13 +87,14 @@ with BytesIO() as ms:
 ```
 
 
-## save {#io.RawIOBase-aspose.threed.formats.SaveOptions}
+## save(self, stream, options) {#io.RawIOBase-aspose.threed.formats.SaveOptions}
 
 Saves the scene to stream using specified file format.
 
 
 
 ```python
+
 def save(self, stream, options):
     ...
 ```
@@ -87,6 +104,13 @@ def save(self, stream, options):
 | :- | :- | :- |
 | stream | io.RawIOBase | Input stream, user is responsible for closing the stream. |
 | options | aspose.threed.formats.SaveOptions | More detailed configuration to save the stream. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ExportException`](/3d/python-net/aspose.threed/exportexception) | Thrown when failed to export the scene to specified 3D format |
+
+
 
 ### Example 
 
@@ -107,13 +131,14 @@ with BytesIO() as ms:
 ```
 
 
-## save {#str-aspose.threed.FileFormat}
+## save(self, file_name, format) {#str-aspose.threed.FileFormat}
 
 Saves the scene to specified path using specified file format.
 
 
 
 ```python
+
 def save(self, file_name, format):
     ...
 ```
@@ -123,6 +148,13 @@ def save(self, file_name, format):
 | :- | :- | :- |
 | file_name | str | File name. |
 | format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) | Format. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ExportException`](/3d/python-net/aspose.threed/exportexception) | Thrown when failed to export the scene to specified 3D format |
+
+
 
 ### Example 
 
@@ -138,13 +170,14 @@ scene.save("output.usdz", FileFormat.USDZ)
 ```
 
 
-## save {#str-aspose.threed.formats.SaveOptions}
+## save(self, file_name, options) {#str-aspose.threed.formats.SaveOptions}
 
 Saves the scene to specified path using specified file format.
 
 
 
 ```python
+
 def save(self, file_name, options):
     ...
 ```
@@ -154,6 +187,13 @@ def save(self, file_name, options):
 | :- | :- | :- |
 | file_name | str | File name. |
 | options | aspose.threed.formats.SaveOptions | More detailed configuration to save the stream. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ExportException`](/3d/python-net/aspose.threed/exportexception) | Thrown when failed to export the scene to specified 3D format |
+
+
 
 ### Example 
 
@@ -175,4 +215,5 @@ scene.save("output.usdz", opts)
 
 ### See Also
 * module [`aspose.threed`](../../)
+* class [`ExportException`](/3d/python-net/aspose.threed/exportexception)
 * class [`Scene`](/3d/python-net/aspose.threed/scene)

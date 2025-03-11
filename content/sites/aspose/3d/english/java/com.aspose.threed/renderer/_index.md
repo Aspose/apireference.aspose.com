@@ -3,7 +3,7 @@ title: Renderer
 second_title: Aspose.3D for Java API Reference
 description: The context about renderer.
 type: docs
-weight: 142
+weight: 148
 url: /java/com.aspose.threed/renderer/
 ---
 
@@ -123,7 +123,7 @@ public ArrayList<String> getAssetDirectories()
 Directories that stored external assets
 
 **Returns:**
-java.util.ArrayList<java.lang.String>
+java.util.ArrayList<java.lang.String> - Directories that stored external assets
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -143,7 +143,7 @@ public boolean getEnableShadows()
 Gets whether to enable shadows.
 
 **Returns:**
-boolean
+boolean - whether to enable shadows.
 ### getFallbackEntityRenderer() {#getFallbackEntityRenderer--}
 ```
 public EntityRenderer getFallbackEntityRenderer()
@@ -153,7 +153,7 @@ public EntityRenderer getFallbackEntityRenderer()
 Gets the fallback entity renderer when the entity has no special renderer defined.
 
 **Returns:**
-[EntityRenderer](../../com.aspose.threed/entityrenderer)
+[EntityRenderer](../../com.aspose.threed/entityrenderer) - the fallback entity renderer when the entity has no special renderer defined.
 ### getFrustum() {#getFrustum--}
 ```
 public Frustum getFrustum()
@@ -163,7 +163,7 @@ public Frustum getFrustum()
 Gets the frustum that used to provide view matrix.
 
 **Returns:**
-[Frustum](../../com.aspose.threed/frustum)
+[Frustum](../../com.aspose.threed/frustum) - the frustum that used to provide view matrix.
 ### getMaterial() {#getMaterial--}
 ```
 public Material getMaterial()
@@ -173,7 +173,7 @@ public Material getMaterial()
 Gets the material that used to provide material information used by shaders.
 
 **Returns:**
-[Material](../../com.aspose.threed/material)
+[Material](../../com.aspose.threed/material) - the material that used to provide material information used by shaders.
 ### getNode() {#getNode--}
 ```
 public Node getNode()
@@ -183,7 +183,7 @@ public Node getNode()
 Gets the [getNode](../../com.aspose.threed/renderer\#getNode) instance used to provide world transform matrix.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the [getNode](../../com.aspose.threed/renderer\#getNode) instance used to provide world transform matrix.
 ### getPostProcessing(String name) {#getPostProcessing-java.lang.String-}
 ```
 public PostProcessing getPostProcessing(String name)
@@ -208,7 +208,7 @@ public List<PostProcessing> getPostProcessings()
 Active post-processing chain
 
 **Returns:**
-java.util.List<com.aspose.threed.PostProcessing>
+java.util.List<com.aspose.threed.PostProcessing> - Active post-processing chain
 ### getPresetShaders() {#getPresetShaders--}
 ```
 public PresetShaders getPresetShaders()
@@ -218,7 +218,7 @@ public PresetShaders getPresetShaders()
 Gets the preset shader set
 
 **Returns:**
-[PresetShaders](../../com.aspose.threed/presetshaders)
+[PresetShaders](../../com.aspose.threed/presetshaders) - the preset shader set
 ### getRenderFactory() {#getRenderFactory--}
 ```
 public abstract RenderFactory getRenderFactory()
@@ -228,7 +228,7 @@ public abstract RenderFactory getRenderFactory()
 Gets the factory to build render-related objects.
 
 **Returns:**
-[RenderFactory](../../com.aspose.threed/renderfactory)
+[RenderFactory](../../com.aspose.threed/renderfactory) - the factory to build render-related objects.
 ### getRenderStage() {#getRenderStage--}
 ```
 public RenderStage getRenderStage()
@@ -238,7 +238,7 @@ public RenderStage getRenderStage()
 Gets the current render stage.
 
 **Returns:**
-[RenderStage](../../com.aspose.threed/renderstage)
+[RenderStage](../../com.aspose.threed/renderstage) - the current render stage.
 ### getRenderTarget() {#getRenderTarget--}
 ```
 public IRenderTarget getRenderTarget()
@@ -248,7 +248,7 @@ public IRenderTarget getRenderTarget()
 Specify the render target that the following render operations will be performed on.
 
 **Returns:**
-[IRenderTarget](../../com.aspose.threed/irendertarget)
+[IRenderTarget](../../com.aspose.threed/irendertarget) - Specify the render target that the following render operations will be performed on.
 ### getShader() {#getShader--}
 ```
 public ShaderProgram getShader()
@@ -258,7 +258,7 @@ public ShaderProgram getShader()
 Gets the shader instance used for rendering the geometry.
 
 **Returns:**
-[ShaderProgram](../../com.aspose.threed/shaderprogram)
+[ShaderProgram](../../com.aspose.threed/shaderprogram) - the shader instance used for rendering the geometry.
 ### getShaderSet() {#getShaderSet--}
 ```
 public ShaderSet getShaderSet()
@@ -268,7 +268,7 @@ public ShaderSet getShaderSet()
 Gets the shader set that used to render the scene
 
 **Returns:**
-[ShaderSet](../../com.aspose.threed/shaderset)
+[ShaderSet](../../com.aspose.threed/shaderset) - the shader set that used to render the scene
 ### getVariables() {#getVariables--}
 ```
 public RendererVariableManager getVariables()
@@ -278,7 +278,7 @@ public RendererVariableManager getVariables()
 Access to the internal variables used for rendering
 
 **Returns:**
-[RendererVariableManager](../../com.aspose.threed/renderervariablemanager)
+[RendererVariableManager](../../com.aspose.threed/renderervariablemanager) - Access to the internal variables used for rendering
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.utilities/vertexdeclaration/clear/
 is_root: false
 ---
 
-## clear {#}
+## clear(self) {#}
 
 Clear all fields.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

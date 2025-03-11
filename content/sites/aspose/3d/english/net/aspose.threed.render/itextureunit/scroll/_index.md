@@ -18,7 +18,7 @@ public Vector2 Scroll { get; set; }
 
 * struct [Vector2](../../../aspose.threed.utilities/vector2/)
 * interface [ITextureUnit](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itextureunit/)
 * assembly [Aspose.3D](../../../)
 
 

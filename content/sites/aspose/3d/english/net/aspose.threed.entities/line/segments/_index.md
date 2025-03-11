@@ -17,7 +17,7 @@ public IList<int[]> Segments { get; }
 ### See Also
 
 * class [Line](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../line/)
 * assembly [Aspose.3D](../../../)
 
 

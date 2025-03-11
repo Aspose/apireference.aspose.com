@@ -18,7 +18,7 @@ public TextureData ToBitmap()
 
 * class [TextureData](../../texturedata/)
 * interface [ITexture1D](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexture1d/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -18,7 +18,7 @@ public WrapMode VWrap { get; set; }
 
 * enum [WrapMode](../../../aspose.threed.shading/wrapmode/)
 * interface [ITextureUnit](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itextureunit/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -17,7 +17,7 @@ public UsdSaveOptions()
 ### See Also
 
 * class [UsdSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../usdsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -34,7 +34,7 @@ public UsdSaveOptions(FileFormat fileFormat)
 
 * class [FileFormat](../../../aspose.threed/fileformat/)
 * class [UsdSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../usdsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

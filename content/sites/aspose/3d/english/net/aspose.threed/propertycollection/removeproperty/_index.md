@@ -26,7 +26,7 @@ true if the property is successfully removed
 
 * class [Property](../../property/)
 * class [PropertyCollection](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../propertycollection/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -50,7 +50,7 @@ true if the property is successfully removed
 ### See Also
 
 * class [PropertyCollection](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../propertycollection/)
 * assembly [Aspose.3D](../../../)
 
 

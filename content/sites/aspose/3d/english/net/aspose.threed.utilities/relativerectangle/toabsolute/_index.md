@@ -25,7 +25,7 @@ public Rect ToAbsolute(int left, int top, int width, int height)
 
 * struct [Rect](../../rect/)
 * struct [RelativeRectangle](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../relativerectangle/)
 * assembly [Aspose.3D](../../../)
 
 

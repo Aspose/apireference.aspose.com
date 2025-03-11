@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.utilities/fmatrix4/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of FMatrix4
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.threed.utilities.Matrix4}
+## \_\_init\_\_(self, mat) {#aspose.threed.utilities.Matrix4}
 
 Initialize the instance of [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4) from a [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) instance.
 
 
 
 ```python
+
 def __init__(self, mat):
     ...
 ```
@@ -36,16 +38,17 @@ def __init__(self, mat):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mat | [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) |  |
+| mat | [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) | The [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) instance. |
 
 
-## __init__ {#aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4}
+## \_\_init\_\_(self, r0, r1, r2, r3) {#aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4}
 
 Constructs matrix from 4 rows.
 
 
 
 ```python
+
 def __init__(self, r0, r1, r2, r3):
     ...
 ```
@@ -59,13 +62,14 @@ def __init__(self, r0, r1, r2, r3):
 | r3 | [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4) | R3. |
 
 
-## __init__ {#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float}
+## \_\_init\_\_(self, m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33) {#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float}
 
 Initialize the instance of [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4)
 
 
 
 ```python
+
 def __init__(self, m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33):
     ...
 ```
@@ -73,22 +77,22 @@ def __init__(self, m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| m00 | float |  |
-| m01 | float |  |
-| m02 | float |  |
-| m03 | float |  |
-| m10 | float |  |
-| m11 | float |  |
-| m12 | float |  |
-| m13 | float |  |
-| m20 | float |  |
-| m21 | float |  |
-| m22 | float |  |
-| m23 | float |  |
-| m30 | float |  |
-| m31 | float |  |
-| m32 | float |  |
-| m33 | float |  |
+| m00 | float | The m[0, 0] |
+| m01 | float | The m[0, 1] |
+| m02 | float | The m[0, 2] |
+| m03 | float | The m[0, 3] |
+| m10 | float | The m[1, 0] |
+| m11 | float | The m[1, 1] |
+| m12 | float | The m[1, 2] |
+| m13 | float | The m[1, 3] |
+| m20 | float | The m[2, 0] |
+| m21 | float | The m[2, 1] |
+| m22 | float | The m[2, 2] |
+| m23 | float | The m[2, 3] |
+| m30 | float | The m[3, 0] |
+| m31 | float | The m[3, 1] |
+| m32 | float | The m[3, 2] |
+| m33 | float | The m[3, 3] |
 
 
 

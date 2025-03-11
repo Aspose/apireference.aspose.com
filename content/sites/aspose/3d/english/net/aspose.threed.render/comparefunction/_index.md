@@ -3,7 +3,7 @@ title: Enum CompareFunction
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.CompareFunction enum. The compare function used in depth/stencil testing
 type: docs
-weight: 800
+weight: 1800
 url: /net/aspose.threed.render/comparefunction/
 ---
 ## CompareFunction enumeration

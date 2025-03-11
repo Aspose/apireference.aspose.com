@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.entities/vertexelementpolygongroup/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`VertexElementPolygonGroup`](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

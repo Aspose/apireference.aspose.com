@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.render/irenderqueue/add/
 is_root: false
 ---
 
-## add {#aspose.threed.render.RenderQueueGroupId-aspose.threed.render.IPipeline-any-int}
+## add(self, group_id, pipeline, renderable_resource, sub_entity) {#aspose.threed.render.RenderQueueGroupId-aspose.threed.render.IPipeline-any-int}
 
 Add render task to the render queue.
 
 
 
 ```python
+
 def add(self, group_id, pipeline, renderable_resource, sub_entity):
     ...
 ```

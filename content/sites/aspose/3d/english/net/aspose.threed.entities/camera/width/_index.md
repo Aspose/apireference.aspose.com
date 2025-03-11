@@ -17,7 +17,7 @@ public double Width { get; set; }
 ### See Also
 
 * class [Camera](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../camera/)
 * assembly [Aspose.3D](../../../)
 
 

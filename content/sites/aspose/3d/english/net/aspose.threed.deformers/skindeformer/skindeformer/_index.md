@@ -21,7 +21,7 @@ public SkinDeformer(string name)
 ### See Also
 
 * class [SkinDeformer](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../skindeformer/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,7 +37,7 @@ public SkinDeformer()
 ### See Also
 
 * class [SkinDeformer](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../skindeformer/)
 * assembly [Aspose.3D](../../../)
 
 

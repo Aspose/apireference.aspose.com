@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.entities/vertexelementuserdata/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`VertexElementUserData`](/3d/python-net/aspose.threed.entities/vertexelementuserdata) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

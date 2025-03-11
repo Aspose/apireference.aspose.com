@@ -3,7 +3,7 @@ title: content_type property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 600
+weight: 610
 url: /python-net/aspose.threed.formats/rvmformat/content_type/
 is_root: false
 ---

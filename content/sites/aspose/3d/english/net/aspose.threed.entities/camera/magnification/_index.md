@@ -18,7 +18,7 @@ public Vector2 Magnification { get; set; }
 
 * struct [Vector2](../../../aspose.threed.utilities/vector2/)
 * class [Camera](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../camera/)
 * assembly [Aspose.3D](../../../)
 
 

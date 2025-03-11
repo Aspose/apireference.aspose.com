@@ -14,7 +14,7 @@ Gets whether Aspose.3D supports export scene to current file format.
 public bool CanExport { get; }
 ```
 
-### Examples
+## Examples
 
 The following code shows how to check if exporting to specified format is supported.
 
@@ -28,7 +28,7 @@ if (format.CanExport)
 ### See Also
 
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 

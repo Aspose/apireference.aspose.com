@@ -18,7 +18,7 @@ public IList<Bone> Bones { get; }
 
 * class [Bone](../../bone/)
 * class [SkinDeformer](../)
-* namespace [Aspose.ThreeD.Deformers](../../../aspose.threed.deformers/)
+* namespace [Aspose.ThreeD.Deformers](../../skindeformer/)
 * assembly [Aspose.3D](../../../)
 
 

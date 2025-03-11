@@ -22,7 +22,7 @@ public void SetData(Vector4[] data)
 
 * struct [Vector4](../../../aspose.threed.utilities/vector4/)
 * class [VertexElementVector4](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementvector4/)
 * assembly [Aspose.3D](../../../)
 
 

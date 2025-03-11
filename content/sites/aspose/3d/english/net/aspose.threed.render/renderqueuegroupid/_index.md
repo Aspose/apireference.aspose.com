@@ -3,7 +3,7 @@ title: Enum RenderQueueGroupId
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.RenderQueueGroupId enum. The group id of render queue
 type: docs
-weight: 750
+weight: 2200
 url: /net/aspose.threed.render/renderqueuegroupid/
 ---
 ## RenderQueueGroupId enumeration

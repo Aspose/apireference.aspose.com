@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vertexdeclaration/from_geometry/
 is_root: false
 ---
 
-## from_geometry {#aspose.threed.entities.Geometry-bool}
+## from_geometry(, geometry, use_float) {#aspose.threed.entities.Geometry-bool}
 
 Create a [`VertexDeclaration`](/3d/python-net/aspose.threed.utilities/vertexdeclaration) based on a [`Geometry`](/3d/python-net/aspose.threed.entities/geometry)'s layout.
 
@@ -20,7 +20,9 @@ Create a [`VertexDeclaration`](/3d/python-net/aspose.threed.utilities/vertexdecl
 
 
 ```python
-def from_geometry(self, geometry, use_float):
+
+@staticmethod
+def from_geometry(geometry, use_float):
     ...
 ```
 

@@ -17,7 +17,7 @@ public Encoding Encoding { get; set; }
 ### See Also
 
 * class [IOConfig](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../ioconfig/)
 * assembly [Aspose.3D](../../../)
 
 

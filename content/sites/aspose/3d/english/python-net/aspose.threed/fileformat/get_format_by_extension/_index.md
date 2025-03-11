@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/fileformat/get_format_by_extension/
 is_root: false
 ---
 
-## get_format_by_extension {#str}
+## get_format_by_extension(, extension_name) {#str}
 
 Gets the preferred file format from the file extension name
 The extension name should starts with a dot('.').
@@ -21,14 +21,16 @@ Instance of [`FileFormat`](/3d/python-net/aspose.threed/fileformat), otherwise n
 
 
 ```python
-def get_format_by_extension(self, extension_name):
+
+@staticmethod
+def get_format_by_extension(extension_name):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| extension_name | str |  |
+| extension_name | str | The extension name started with '.' to query. |
 
 ### Example 
 

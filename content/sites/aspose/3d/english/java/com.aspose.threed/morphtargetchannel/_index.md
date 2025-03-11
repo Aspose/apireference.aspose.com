@@ -3,7 +3,7 @@ title: MorphTargetChannel
 second_title: Aspose.3D for Java API Reference
 description: A MorphTargetChannel is used by  to organize the target geometries.
 type: docs
-weight: 99
+weight: 103
 url: /java/com.aspose.threed/morphtargetchannel/
 ---
 
@@ -138,7 +138,7 @@ public double getChannelWeight()
 Gets the deformer weight of this channel. The weight is between 0.0 and 1.0
 
 **Returns:**
-double
+double - the deformer weight of this channel. The weight is between 0.0 and 1.0
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -158,7 +158,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -168,7 +168,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -193,7 +193,7 @@ public List<Shape> getTargets()
 Gets all targets associated with the channel.
 
 **Returns:**
-java.util.List<com.aspose.threed.Shape>
+java.util.List<com.aspose.threed.Shape> - all targets associated with the channel.
 ### getWeight(Shape target) {#getWeight-com.aspose.threed.Shape-}
 ```
 public double getWeight(Shape target)
@@ -218,7 +218,7 @@ public List<Double> getWeights()
 Gets the full weight values of target geometries.
 
 **Returns:**
-java.util.List<java.lang.Double>
+java.util.List<java.lang.Double> - the full weight values of target geometries.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -271,10 +271,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### set(Shape target, double value) {#set-com.aspose.threed.Shape-double-}
 ```
 public void set(Shape target, double value)

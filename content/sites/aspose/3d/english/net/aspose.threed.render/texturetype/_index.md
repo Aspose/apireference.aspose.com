@@ -3,7 +3,7 @@ title: Enum TextureType
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.TextureType enum. The type of the ITextureUnit
 type: docs
-weight: 620
+weight: 2370
 url: /net/aspose.threed.render/texturetype/
 ---
 ## TextureType enumeration

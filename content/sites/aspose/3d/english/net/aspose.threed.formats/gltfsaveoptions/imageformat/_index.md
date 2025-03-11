@@ -18,7 +18,7 @@ public GltfEmbeddedImageFormat ImageFormat { get; set; }
 
 * enum [GltfEmbeddedImageFormat](../../gltfembeddedimageformat/)
 * class [GltfSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../gltfsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

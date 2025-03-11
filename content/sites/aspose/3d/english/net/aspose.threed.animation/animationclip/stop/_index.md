@@ -17,7 +17,7 @@ public double Stop { get; set; }
 ### See Also
 
 * class [AnimationClip](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../animationclip/)
 * assembly [Aspose.3D](../../../)
 
 

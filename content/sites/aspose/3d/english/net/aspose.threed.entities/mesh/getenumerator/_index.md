@@ -21,7 +21,7 @@ The enumerator.
 ### See Also
 
 * class [Mesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../mesh/)
 * assembly [Aspose.3D](../../../)
 
 

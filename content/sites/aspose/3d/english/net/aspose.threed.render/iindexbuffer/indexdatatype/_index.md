@@ -18,7 +18,7 @@ public IndexDataType IndexDataType { get; }
 
 * enum [IndexDataType](../../indexdatatype/)
 * interface [IIndexBuffer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../iindexbuffer/)
 * assembly [Aspose.3D](../../../)
 
 

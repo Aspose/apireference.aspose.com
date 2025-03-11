@@ -16,7 +16,11 @@ public object SelectSingleObject(string path)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | String |  |
+| path | String | The XPath-like query |
+
+### Return Value
+
+Object located by the XPath-like query.
 
 ### Exceptions
 
@@ -24,7 +28,7 @@ public object SelectSingleObject(string path)
 | --- | --- |
 | [ParseException](../../../aspose.threed.utilities/parseexception/) | ParseException will be thrown if the path contains malformed query. |
 
-### Examples
+## Examples
 
 Select a single node using XPath-like expression
 
@@ -49,7 +53,7 @@ obj = s.RootNode.SelectSingleObject("/");
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

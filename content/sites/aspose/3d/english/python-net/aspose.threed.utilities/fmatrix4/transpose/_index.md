@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/fmatrix4/transpose/
 is_root: false
 ---
 
-## transpose {#}
+## transpose(self) {#}
 
 Transposes this instance.
 
@@ -20,6 +20,7 @@ The transposed matrix.
 
 
 ```python
+
 def transpose(self):
     ...
 ```

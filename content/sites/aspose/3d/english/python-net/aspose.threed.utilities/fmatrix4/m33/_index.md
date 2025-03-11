@@ -12,6 +12,10 @@ is_root: false
 
 
 The m33.
+### Definition:
+```python
+f m33 
+```
 
 ### See Also
 * module [`aspose.threed.utilities`](../../)

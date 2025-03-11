@@ -3,7 +3,7 @@ title: ShaderTechnique
 second_title: Aspose.3D for Java API Reference
 description: A shader technique represents a concrete rendering implementation.
 type: docs
-weight: 159
+weight: 165
 url: /java/com.aspose.threed/shadertechnique/
 ---
 
@@ -106,7 +106,7 @@ public String getDescription()
 Gets the description of this technique
 
 **Returns:**
-java.lang.String
+java.lang.String - the description of this technique
 ### getRenderAPI() {#getRenderAPI--}
 ```
 public String getRenderAPI()
@@ -116,7 +116,7 @@ public String getRenderAPI()
 Gets the rendering API used by this technique
 
 **Returns:**
-java.lang.String
+java.lang.String - the rendering API used by this technique
 ### getRenderAPIVersion() {#getRenderAPIVersion--}
 ```
 public String getRenderAPIVersion()
@@ -126,7 +126,7 @@ public String getRenderAPIVersion()
 Gets the version of the rendering API.
 
 **Returns:**
-java.lang.String
+java.lang.String - the version of the rendering API.
 ### getShaderContent() {#getShaderContent--}
 ```
 public byte[] getShaderContent()
@@ -136,7 +136,7 @@ public byte[] getShaderContent()
 Gets the content of a embedded shader script. It could be HLSL/GLSL shader source file.
 
 **Returns:**
-byte[]
+byte[] - the content of a embedded shader script. It could be HLSL/GLSL shader source file.
 ### getShaderEntry() {#getShaderEntry--}
 ```
 public String getShaderEntry()
@@ -146,7 +146,7 @@ public String getShaderEntry()
 Gets the entry point of the shader, some shader like HLSL can have customized shader entries.
 
 **Returns:**
-java.lang.String
+java.lang.String - the entry point of the shader, some shader like HLSL can have customized shader entries.
 ### getShaderFile() {#getShaderFile--}
 ```
 public String getShaderFile()
@@ -156,7 +156,7 @@ public String getShaderFile()
 Gets the file name of the external shader file.
 
 **Returns:**
-java.lang.String
+java.lang.String - the file name of the external shader file.
 ### getShaderLanguage() {#getShaderLanguage--}
 ```
 public String getShaderLanguage()
@@ -166,7 +166,7 @@ public String getShaderLanguage()
 Gets the shader language used by this technique.
 
 **Returns:**
-java.lang.String
+java.lang.String - the shader language used by this technique.
 ### getShaderParameters() {#getShaderParameters--}
 ```
 public Map<String,String> getShaderParameters()
@@ -176,7 +176,7 @@ public Map<String,String> getShaderParameters()
 Gets the shader parameter definition. The key is the name of the dynamic property, and value is the shader parameter name that the property connected to.
 
 **Returns:**
-java.util.Map<java.lang.String,java.lang.String>
+java.util.Map<java.lang.String,java.lang.String> - the shader parameter definition. The key is the name of the dynamic property, and value is the shader parameter name that the property connected to.
 ### getShaderVersion() {#getShaderVersion--}
 ```
 public String getShaderVersion()
@@ -186,7 +186,7 @@ public String getShaderVersion()
 Gets the shader version used by this technique.
 
 **Returns:**
-java.lang.String
+java.lang.String - the shader version used by this technique.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

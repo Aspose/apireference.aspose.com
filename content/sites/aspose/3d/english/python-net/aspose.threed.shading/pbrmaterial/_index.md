@@ -25,8 +25,8 @@ The PbrMaterial type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.shading/pbrmaterial/__init__/#) | Construct a default PBR material instance |
-| [__init__](/3d/python-net/aspose.threed.shading/pbrmaterial/__init__/#aspose.threed.utilities.Vector3) | Construct a default PBR material with specified albedo color value. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.shading/pbrmaterial/__init__/#) | Construct a default PBR material instance |
+| [`__init__(self, albedo)`](/3d/python-net/aspose.threed.shading/pbrmaterial/__init__/#aspose.threed.utilities.vector3) | Construct a default PBR material with specified albedo color value. |
 
 
 ### Properties
@@ -56,14 +56,14 @@ The PbrMaterial type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property](/3d/python-net/aspose.threed.shading/pbrmaterial/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
-| [remove_property](/3d/python-net/aspose.threed.shading/pbrmaterial/remove_property/#str) | Remove the specified property identified by name |
-| [get_property](/3d/python-net/aspose.threed.shading/pbrmaterial/get_property/#str) | Get the value of specified property |
-| [set_property](/3d/python-net/aspose.threed.shading/pbrmaterial/set_property/#str-any) | Sets the value of specified property |
-| [find_property](/3d/python-net/aspose.threed.shading/pbrmaterial/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_texture](/3d/python-net/aspose.threed.shading/pbrmaterial/get_texture/#str) | Gets the texture from the specified slot, it can be material's property name or shader's parameter name |
-| [set_texture](/3d/python-net/aspose.threed.shading/pbrmaterial/set_texture/#str-aspose.threed.shading.TextureBase) | Sets the texture to specified slot |
-| [from_material](/3d/python-net/aspose.threed.shading/pbrmaterial/from_material/#aspose.threed.shading.Material) | Allow convert other material to PbrMaterial |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.shading/pbrmaterial/remove_property/#aspose.threed.property) | Removes a dynamic property. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.shading/pbrmaterial/remove_property/#str) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.shading/pbrmaterial/get_property/#str) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.shading/pbrmaterial/set_property/#str-any) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.shading/pbrmaterial/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_texture(self, slot_name)`](/3d/python-net/aspose.threed.shading/pbrmaterial/get_texture/#str) | Gets the texture from the specified slot, it can be material's property name or shader's parameter name |
+| [`set_texture(self, slot_name, texture)`](/3d/python-net/aspose.threed.shading/pbrmaterial/set_texture/#str-aspose.threed.shading.texturebase) | Sets the texture to specified slot |
+| [`from_material(, material)`](/3d/python-net/aspose.threed.shading/pbrmaterial/from_material/#aspose.threed.shading.material) | Allow convert other material to PbrMaterial |
 
 
 

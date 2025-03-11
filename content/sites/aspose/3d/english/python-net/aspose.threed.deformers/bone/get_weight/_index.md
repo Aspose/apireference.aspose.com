@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.deformers/bone/get_weight/
 is_root: false
 ---
 
-## get_weight {#int}
+## get_weight(self, index) {#int}
 
 Gets the weight for control point specified by index
 
@@ -20,6 +20,7 @@ the weight at specified index, or 0 if the index is invalid
 
 
 ```python
+
 def get_weight(self, index):
     ...
 ```

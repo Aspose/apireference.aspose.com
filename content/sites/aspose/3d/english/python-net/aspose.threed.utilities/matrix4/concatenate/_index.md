@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/matrix4/concatenate/
 is_root: false
 ---
 
-## concatenate {#aspose.threed.utilities.Matrix4}
+## concatenate(self, m2) {#aspose.threed.utilities.Matrix4}
 
 Concatenates the two matrices
 
@@ -20,6 +20,7 @@ New matrix4
 
 
 ```python
+
 def concatenate(self, m2):
     ...
 ```

@@ -3,7 +3,7 @@ title: PolygonModifier.MergeMesh
 second_title: Aspose.3D for .NET API Reference
 description: PolygonModifier method. Convert a whole scene to a single transformed mesh Vertex elements like normal/texture coordinates are not supported yet
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.threed.entities/polygonmodifier/mergemesh/
 ---
 ## MergeMesh(Scene) {#mergemesh_1}
@@ -22,7 +22,7 @@ public static Mesh MergeMesh(Scene scene)
 
 The merged mesh
 
-### Examples
+## Examples
 
 The following code shows how to merge all objects from a scene into a single mesh.
 
@@ -41,7 +41,7 @@ newScene.Save("test.obj");
 * class [Mesh](../../mesh/)
 * class [Scene](../../../aspose.threed/scene/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -57,7 +57,7 @@ public static Mesh MergeMesh(IList<Node> nodes)
 * class [Mesh](../../mesh/)
 * class [Node](../../../aspose.threed/node/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -78,7 +78,7 @@ public static Mesh MergeMesh(Node node)
 
 Merged mesh
 
-### Examples
+## Examples
 
 The following code shows how to merge all objects from nodes into a single mesh.
 
@@ -97,7 +97,7 @@ newScene.Save("test.obj");
 * class [Mesh](../../mesh/)
 * class [Node](../../../aspose.threed/node/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
 
 

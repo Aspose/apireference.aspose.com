@@ -3,7 +3,7 @@ title: parent_nodes property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 200
 url: /python-net/aspose.threed.entities/nurbssurface/parent_nodes/
 is_root: false
 ---

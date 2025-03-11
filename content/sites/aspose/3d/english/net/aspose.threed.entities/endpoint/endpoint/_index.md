@@ -16,13 +16,13 @@ public EndPoint(Vector3 point)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| point | Vector3 |  |
+| point | Vector3 | Point to construct |
 
 ### See Also
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * struct [EndPoint](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../endpoint/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,12 +37,12 @@ public EndPoint(double v)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| v | Double |  |
+| v | Double | The real number parameter for constructing an end point |
 
 ### See Also
 
 * struct [EndPoint](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../endpoint/)
 * assembly [Aspose.3D](../../../)
 
 

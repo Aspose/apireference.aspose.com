@@ -3,7 +3,7 @@ title: Enum AlphaSource
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.AlphaSource enum. Defines whether the texture contains the alpha channel
 type: docs
-weight: 400
+weight: 2420
 url: /net/aspose.threed.shading/alphasource/
 ---
 ## AlphaSource enumeration

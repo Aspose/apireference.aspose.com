@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vertex/read_float/
 is_root: false
 ---
 
-## read_float {#aspose.threed.utilities.VertexField}
+## read_float(self, field) {#aspose.threed.utilities.VertexField}
 
 Read the float field
 
@@ -20,6 +20,7 @@ Read the float field
 
 
 ```python
+
 def read_float(self, field):
     ...
 ```

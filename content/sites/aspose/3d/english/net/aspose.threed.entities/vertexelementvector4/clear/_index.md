@@ -17,7 +17,7 @@ public override void Clear()
 ### See Also
 
 * class [VertexElementVector4](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementvector4/)
 * assembly [Aspose.3D](../../../)
 
 

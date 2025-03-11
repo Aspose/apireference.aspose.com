@@ -8,13 +8,14 @@ url: /python-net/aspose.threed/node/add_entity/
 is_root: false
 ---
 
-## add_entity {#aspose.threed.Entity}
+## add_entity(self, entity) {#aspose.threed.Entity}
 
 Add an entity to the node.
 
 
 
 ```python
+
 def add_entity(self, entity):
     ...
 ```

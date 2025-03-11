@@ -3,7 +3,7 @@ title: IRenderTarget
 second_title: Aspose.3D for Java API Reference
 description: The base interface of render target
 type: docs
-weight: 233
+weight: 244
 url: /java/com.aspose.threed/irendertarget/
 ---
 
@@ -81,7 +81,7 @@ public abstract Vector2 getSize()
 Gets the size of the render target.
 
 **Returns:**
-[Vector2](../../com.aspose.threed/vector2)
+[Vector2](../../com.aspose.threed/vector2) - the size of the render target.
 ### getViewports() {#getViewports--}
 ```
 public abstract List<Viewport> getViewports()
@@ -91,7 +91,7 @@ public abstract List<Viewport> getViewports()
 Gets all viewports that associated with this render target.
 
 **Returns:**
-java.util.List<com.aspose.threed.Viewport>
+java.util.List<com.aspose.threed.Viewport> - all viewports that associated with this render target.
 ### setSize(Vector2 value) {#setSize-com.aspose.threed.Vector2-}
 ```
 public abstract void setSize(Vector2 value)

@@ -14,7 +14,7 @@ Sets the pre-rotation represented in degree
 public Transform SetPreRotation(double rx, double ry, double rz)
 ```
 
-### Examples
+## Examples
 
 ```csharp
 Node node = new Node();
@@ -24,7 +24,7 @@ node.Transform.SetPreRotation(90, 0, 0);
 ### See Also
 
 * class [Transform](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../transform/)
 * assembly [Aspose.3D](../../../)
 
 

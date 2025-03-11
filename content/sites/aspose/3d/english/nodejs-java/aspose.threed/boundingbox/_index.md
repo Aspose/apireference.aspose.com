@@ -53,11 +53,11 @@ url: /nodejs-java/aspose.threed/boundingbox/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(minX, minY, minZ, maxX, maxY, maxZ) | Initialize a finite bounding box with given minimum and maximum corner | 
+| constructor_overload2(minX, minY, minZ, maxX, maxY, maxZ) | Initialize a finite bounding box with given minimum and maximum corner | 
 
  **Result:**
 

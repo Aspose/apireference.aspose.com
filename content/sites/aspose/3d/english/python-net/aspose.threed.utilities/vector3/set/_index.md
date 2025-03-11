@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.utilities/vector3/set/
 is_root: false
 ---
 
-## set {#float-float-float}
+## set(self, new_x, new_y, new_z) {#float-float-float}
 
 Sets the x/y/z component in one call.
 
 
 
 ```python
+
 def set(self, new_x, new_y, new_z):
     ...
 ```

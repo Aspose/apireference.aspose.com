@@ -22,7 +22,7 @@ public MirroredProfile(Profile baseProfile)
 
 * class [Profile](../../profile/)
 * class [MirroredProfile](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../mirroredprofile/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -18,7 +18,7 @@ public Vector3 TwistOffset { get; set; }
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [LinearExtrusion](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../linearextrusion/)
 * assembly [Aspose.3D](../../../)
 
 

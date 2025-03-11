@@ -18,7 +18,7 @@ public MaterialConverter MaterialConverter { get; set; }
 
 * delegate [MaterialConverter](../../materialconverter/)
 * class [GltfSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../gltfsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

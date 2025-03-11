@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.render/texturecodec/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of TextureCodec
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

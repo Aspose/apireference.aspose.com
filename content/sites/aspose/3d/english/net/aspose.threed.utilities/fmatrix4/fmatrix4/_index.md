@@ -18,27 +18,27 @@ public FMatrix4(float m00, float m01, float m02, float m03, float m10, float m11
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| m00 | Single |  |
-| m01 | Single |  |
-| m02 | Single |  |
-| m03 | Single |  |
-| m10 | Single |  |
-| m11 | Single |  |
-| m12 | Single |  |
-| m13 | Single |  |
-| m20 | Single |  |
-| m21 | Single |  |
-| m22 | Single |  |
-| m23 | Single |  |
-| m30 | Single |  |
-| m31 | Single |  |
-| m32 | Single |  |
-| m33 | Single |  |
+| m00 | Single | The m[0, 0] |
+| m01 | Single | The m[0, 1] |
+| m02 | Single | The m[0, 2] |
+| m03 | Single | The m[0, 3] |
+| m10 | Single | The m[1, 0] |
+| m11 | Single | The m[1, 1] |
+| m12 | Single | The m[1, 2] |
+| m13 | Single | The m[1, 3] |
+| m20 | Single | The m[2, 0] |
+| m21 | Single | The m[2, 1] |
+| m22 | Single | The m[2, 2] |
+| m23 | Single | The m[2, 3] |
+| m30 | Single | The m[3, 0] |
+| m31 | Single | The m[3, 1] |
+| m32 | Single | The m[3, 2] |
+| m33 | Single | The m[3, 3] |
 
 ### See Also
 
 * struct [FMatrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fmatrix4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -53,13 +53,13 @@ public FMatrix4(Matrix4 mat)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| mat | Matrix4 |  |
+| mat | Matrix4 | The [`Matrix4`](../../matrix4/) instance. |
 
 ### See Also
 
 * struct [Matrix4](../../matrix4/)
 * struct [FMatrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fmatrix4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -83,7 +83,7 @@ public FMatrix4(FVector4 r0, FVector4 r1, FVector4 r2, FVector4 r3)
 
 * struct [FVector4](../../fvector4/)
 * struct [FMatrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fmatrix4/)
 * assembly [Aspose.3D](../../../)
 
 

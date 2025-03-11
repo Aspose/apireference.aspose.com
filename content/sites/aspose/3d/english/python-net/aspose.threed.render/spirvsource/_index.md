@@ -24,7 +24,7 @@ The SPIRVSource type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.render/spirvsource/__init__/#) | Constructor of SPIR-V based shader sources. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.render/spirvsource/__init__/#) | Constructor of SPIR-V based shader sources. |
 
 
 ### Properties

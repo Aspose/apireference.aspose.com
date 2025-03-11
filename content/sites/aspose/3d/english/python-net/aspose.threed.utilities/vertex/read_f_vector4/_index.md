@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vertex/read_f_vector4/
 is_root: false
 ---
 
-## read_f_vector4 {#aspose.threed.utilities.VertexField}
+## read_f_vector4(self, field) {#aspose.threed.utilities.VertexField}
 
 Read the vector4 field
 
@@ -20,6 +20,7 @@ Read the vector4 field
 
 
 ```python
+
 def read_f_vector4(self, field):
     ...
 ```

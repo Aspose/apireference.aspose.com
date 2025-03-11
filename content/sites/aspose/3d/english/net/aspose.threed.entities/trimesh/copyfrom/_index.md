@@ -23,7 +23,7 @@ public static TriMesh CopyFrom(TriMesh input, VertexDeclaration vd)
 
 A new TriMesh instance with new vertex declaration.
 
-### Examples
+## Examples
 
 ```csharp
 //Define a vertex declaration as {FVector3 Position; FVector3 Normal; FVector2 UV}
@@ -41,7 +41,7 @@ var newTriMesh = TriMesh.CopyFrom(oldTriMesh, vd);
 
 * class [VertexDeclaration](../../../aspose.threed.utilities/vertexdeclaration/)
 * class [TriMesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../trimesh/)
 * assembly [Aspose.3D](../../../)
 
 

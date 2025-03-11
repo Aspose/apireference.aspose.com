@@ -25,7 +25,7 @@ True if all components are identically equal.
 ### See Also
 
 * struct [Vector2](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector2/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -49,7 +49,7 @@ True if all components are identically equal.
 ### See Also
 
 * struct [Vector2](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector2/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -17,7 +17,7 @@ public float NextInWeight { get; set; }
 ### See Also
 
 * class [KeyFrame](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../keyframe/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -25,7 +25,7 @@ public abstract IRenderWindow CreateRenderWindow(RenderParameters parameters, Wi
 * class [RenderParameters](../../renderparameters/)
 * class [WindowHandle](../../windowhandle/)
 * class [RenderFactory](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderfactory/)
 * assembly [Aspose.3D](../../../)
 
 

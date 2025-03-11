@@ -25,8 +25,8 @@ The FbxSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.formats/fbxsaveoptions/__init__/#aspose.threed.FileFormat) | Initializes a [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions) |
-| [__init__](/3d/python-net/aspose.threed.formats/fbxsaveoptions/__init__/#aspose.threed.FileContentType) | Initialize a [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions) using latest supported version. |
+| [`__init__(self, format)`](/3d/python-net/aspose.threed.formats/fbxsaveoptions/__init__/#aspose.threed.fileformat) | Initializes a [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions) |
+| [`__init__(self, content_type)`](/3d/python-net/aspose.threed.formats/fbxsaveoptions/__init__/#aspose.threed.filecontenttype) | Initialize a [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions) using latest supported version. |
 
 
 ### Properties

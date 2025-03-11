@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.utilities/parseexception/__init__/
 is_root: false
 ---
 
-## __init__ {#str}
+## \_\_init\_\_(self, msg) {#str}
 
 Constructor of [`ParseException`](/3d/python-net/aspose.threed.utilities/parseexception)
 
 
 
 ```python
+
 def __init__(self, msg):
     ...
 ```

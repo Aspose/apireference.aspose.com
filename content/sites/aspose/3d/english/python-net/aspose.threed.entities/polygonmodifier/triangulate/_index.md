@@ -3,19 +3,21 @@ title: triangulate method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /python-net/aspose.threed.entities/polygonmodifier/triangulate/
 is_root: false
 ---
 
-## triangulate {#aspose.threed.Scene}
+## triangulate(, scene) {#aspose.threed.Scene}
 
 Convert all polygon-based meshes into full triangle mesh
 
 
 
 ```python
-def triangulate(self, scene):
+
+@staticmethod
+def triangulate(scene):
     ...
 ```
 
@@ -24,8 +26,25 @@ def triangulate(self, scene):
 | :- | :- | :- |
 | scene | [`Scene`](/3d/python-net/aspose.threed/scene) | The scene to process |
 
+### Example 
 
-## triangulate {#aspose.threed.entities.Mesh}
+
+The following code shows how to merge all objects from a scene into a single mesh.
+
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Cylinder, PolygonModifier
+
+mesh = Cylinder().to_mesh()
+# Triangulate this quadrangle-based mesh to triangle-based
+mesh = PolygonModifier.triangulate(mesh)
+scene = Scene(mesh)
+scene.save("test.obj")
+
+```
+
+
+## triangulate(, mesh) {#aspose.threed.entities.Mesh}
 
 Convert a polygon-based mesh into full triangle mesh
 
@@ -37,7 +56,9 @@ The generated new triangle mesh
 
 
 ```python
-def triangulate(self, mesh):
+
+@staticmethod
+def triangulate(mesh):
     ...
 ```
 
@@ -46,15 +67,34 @@ def triangulate(self, mesh):
 | :- | :- | :- |
 | mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | The original non-triangle mesh |
 
+### Example 
 
-## triangulate {#list}
+
+The following code shows how to merge all objects from a scene into a single mesh.
+
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Cylinder, PolygonModifier
+
+mesh = Cylinder().to_mesh()
+# Triangulate this quadrangle-based mesh to triangle-based
+mesh = PolygonModifier.triangulate(mesh)
+scene = Scene(mesh)
+scene.save("test.obj")
+
+```
+
+
+## triangulate(, control_points) {#list}
 
 
 
 
 
 ```python
-def triangulate(self, control_points):
+
+@staticmethod
+def triangulate(control_points):
     ...
 ```
 
@@ -64,14 +104,16 @@ def triangulate(self, control_points):
 | control_points | list |  |
 
 
-## triangulate {#list-list}
+## triangulate(, control_points, polygons) {#list-list}
 
 
 
 
 
 ```python
-def triangulate(self, control_points, polygons):
+
+@staticmethod
+def triangulate(control_points, polygons):
     ...
 ```
 
@@ -82,14 +124,16 @@ def triangulate(self, control_points, polygons):
 | polygons | list |  |
 
 
-## triangulate {#list-list}
+## triangulate(, control_points, polygon) {#list-list}
 
 
 
 
 
 ```python
-def triangulate(self, control_points, polygon):
+
+@staticmethod
+def triangulate(control_points, polygon):
     ...
 ```
 
@@ -100,14 +144,16 @@ def triangulate(self, control_points, polygon):
 | polygon | list |  |
 
 
-## triangulate {#list-list-bool-any}
+## triangulate(, control_points, polygons, generate_normals, nor_out) {#list-list-bool-any}
 
 
 
 
 
 ```python
-def triangulate(self, control_points, polygons, generate_normals, nor_out):
+
+@staticmethod
+def triangulate(control_points, polygons, generate_normals, nor_out):
     ...
 ```
 

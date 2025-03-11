@@ -17,7 +17,7 @@ public Pyramid()
 ### See Also
 
 * class [Pyramid](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../pyramid/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -39,7 +39,7 @@ public Pyramid(double xbottom, double ybottom, double height)
 ### See Also
 
 * class [Pyramid](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../pyramid/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -63,7 +63,7 @@ public Pyramid(double xbottom, double ybottom, double xtop, double ytop, double 
 ### See Also
 
 * class [Pyramid](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../pyramid/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -88,7 +88,7 @@ public Pyramid(string name, double xbottom, double ybottom, double xtop, double 
 ### See Also
 
 * class [Pyramid](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../pyramid/)
 * assembly [Aspose.3D](../../../)
 
 

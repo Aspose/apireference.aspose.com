@@ -28,7 +28,7 @@ public static void RegisterCodec(ITextureCodec codec)
 
 * interface [ITextureCodec](../../itexturecodec/)
 * class [TextureCodec](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../texturecodec/)
 * assembly [Aspose.3D](../../../)
 
 

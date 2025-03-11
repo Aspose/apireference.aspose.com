@@ -82,11 +82,11 @@ url: /nodejs-java/aspose.threed/fmatrix4/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(mat) | Initialize the instance of FMatrix4 from a Matrix4 instance. | 
+| constructor_overload2(mat) | Initialize the instance of FMatrix4 from a Matrix4 instance. | 
 
  **Parameters:**
 
@@ -101,11 +101,11 @@ url: /nodejs-java/aspose.threed/fmatrix4/
 ---
 
 
-### constructor_overload$3{#constructor_overload$3}
+### constructor_overload3{#constructor_overload3}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$3(r0, r1, r2, r3) | Constructs matrix from 4 rows. | 
+| constructor_overload3(r0, r1, r2, r3) | Constructs matrix from 4 rows. | 
 
  **Parameters:**
 

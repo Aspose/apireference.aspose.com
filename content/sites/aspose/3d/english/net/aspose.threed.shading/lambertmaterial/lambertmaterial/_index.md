@@ -17,7 +17,7 @@ public LambertMaterial()
 ### See Also
 
 * class [LambertMaterial](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../lambertmaterial/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,7 +37,7 @@ public LambertMaterial(string name)
 ### See Also
 
 * class [LambertMaterial](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../lambertmaterial/)
 * assembly [Aspose.3D](../../../)
 
 

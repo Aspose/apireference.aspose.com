@@ -21,7 +21,7 @@ public PointCloud(string name)
 ### See Also
 
 * class [PointCloud](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../pointcloud/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,7 +37,7 @@ public PointCloud()
 ### See Also
 
 * class [PointCloud](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../pointcloud/)
 * assembly [Aspose.3D](../../../)
 
 

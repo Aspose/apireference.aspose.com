@@ -14,7 +14,7 @@ Gets the transform matrix.
 public Matrix4 TransformMatrix { get; }
 ```
 
-### Examples
+## Examples
 
 ```csharp
 Scene scene = Scene.FromFile("test.fbx");
@@ -26,7 +26,7 @@ Console.WriteLine($"Matrix = {tr.TransformMatrix}");
 
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4/)
 * class [GlobalTransform](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../globaltransform/)
 * assembly [Aspose.3D](../../../)
 
 

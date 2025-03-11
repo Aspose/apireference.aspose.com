@@ -17,7 +17,7 @@ public string Alias { get; }
 ### See Also
 
 * class [SemanticAttribute](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../semanticattribute/)
 * assembly [Aspose.3D](../../../)
 
 

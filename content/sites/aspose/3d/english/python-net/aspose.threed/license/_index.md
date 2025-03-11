@@ -19,14 +19,14 @@ The License type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed/license/__init__/#) | Initializes a new instance of this class. |
+| [`__init__(self)`](/3d/python-net/aspose.threed/license/__init__/#) | Initializes a new instance of this class. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_license](/3d/python-net/aspose.threed/license/set_license/#str) | Licenses the component. |
-| [set_license](/3d/python-net/aspose.threed/license/set_license/#io.RawIOBase) | Licenses the component. |
+| [`set_license(self, license_name)`](/3d/python-net/aspose.threed/license/set_license/#str) | Licenses the component. |
+| [`set_license(self, stream)`](/3d/python-net/aspose.threed/license/set_license/#io.rawiobase) | Licenses the component. |
 
 
 

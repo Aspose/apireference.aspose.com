@@ -3,7 +3,7 @@ title: translation property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 310
 url: /python-net/aspose.threed/transform/translation/
 is_root: false
 ---

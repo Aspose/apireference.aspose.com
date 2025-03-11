@@ -3,7 +3,7 @@ title: Enum VertexElementType
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementType enum. The type of the vertex element defined how it will be used in modeling
 type: docs
-weight: 2400
+weight: 920
 url: /net/aspose.threed.entities/vertexelementtype/
 ---
 ## VertexElementType enumeration

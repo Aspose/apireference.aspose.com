@@ -3,7 +3,7 @@ title: MAYA property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /python-net/aspose.threed/fileformattype/maya/
 is_root: false
 ---
@@ -12,6 +12,10 @@ is_root: false
 
 
 Autodesk Maya format type
+### Definition:
+```python
+f MAYA 
+```
 
 ### See Also
 * module [`aspose.threed`](../../)

@@ -3,7 +3,7 @@ title: PhongMaterial
 second_title: Aspose.3D for Java API Reference
 description: Material for blinn-phong shading model.
 type: docs
-weight: 116
+weight: 122
 url: /java/com.aspose.threed/phongmaterial/
 ---
 
@@ -38,7 +38,7 @@ Material for blinn-phong shading model.
 | [getAmbientColor()](#getAmbientColor--) | Gets the ambient color |
 | [getClass()](#getClass--) |  |
 | [getDiffuseColor()](#getDiffuseColor--) | Gets the diffuse color |
-| [getEmissiveColor()](#getEmissiveColor--) | Gets the emissive color **Example:** |
+| [getEmissiveColor()](#getEmissiveColor--) | Gets the emissive color |
 | [getName()](#getName--) | Gets the name. |
 | [getProperties()](#getProperties--) | Gets the collection of all properties. |
 | [getProperty(String property)](#getProperty-java.lang.String-) | Get the value of specified property |
@@ -173,7 +173,7 @@ public Vector3 getAmbientColor()
 Gets the ambient color
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the ambient color
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -193,22 +193,22 @@ public Vector3 getDiffuseColor()
 Gets the diffuse color
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the diffuse color
 ### getEmissiveColor() {#getEmissiveColor--}
 ```
 public Vector3 getEmissiveColor()
 ```
 
 
-Gets the emissive color **Example:**
+Gets the emissive color
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3) - the emissive color **Example:**
 
 ```
 var mat = new LambertMaterial();
      mat.setEmissiveColor(new Vector3(1, 1, 1));
 ```
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
 ### getName() {#getName--}
 ```
 public String getName()
@@ -218,7 +218,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -228,7 +228,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -253,7 +253,7 @@ public Vector3 getReflectionColor()
 Gets the reflection color.
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the reflection color.
 ### getReflectionFactor() {#getReflectionFactor--}
 ```
 public double getReflectionFactor()
@@ -263,7 +263,7 @@ public double getReflectionFactor()
 Gets the attenuation of the reflection color.
 
 **Returns:**
-double
+double - the attenuation of the reflection color.
 ### getShininess() {#getShininess--}
 ```
 public double getShininess()
@@ -273,7 +273,7 @@ public double getShininess()
 Gets the shininess, this controls the specular highlight's size. The formula of specular: SpecularColor \* SpecularFactor \* (N dot H) ^ Shininess
 
 **Returns:**
-double
+double - the shininess, this controls the specular highlight's size. The formula of specular: SpecularColor \* SpecularFactor \* (N dot H) ^ Shininess
 ### getSpecularColor() {#getSpecularColor--}
 ```
 public Vector3 getSpecularColor()
@@ -283,7 +283,7 @@ public Vector3 getSpecularColor()
 Gets the specular color.
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the specular color.
 ### getSpecularFactor() {#getSpecularFactor--}
 ```
 public double getSpecularFactor()
@@ -293,7 +293,7 @@ public double getSpecularFactor()
 Gets the specular factor. The formula of specular: SpecularColor \* SpecularFactor \* (N dot H) ^ Shininess
 
 **Returns:**
-double
+double - the specular factor. The formula of specular: SpecularColor \* SpecularFactor \* (N dot H) ^ Shininess
 ### getTexture(String slotName) {#getTexture-java.lang.String-}
 ```
 public TextureBase getTexture(String slotName)
@@ -326,7 +326,7 @@ public double getTransparency()
 Gets the transparency factor. The factor should be ranged between 0(0%, fully opaque) and 1(100%, fully transparent) Any invalid factor value will be clamped.
 
 **Returns:**
-double
+double - the transparency factor. The factor should be ranged between 0(0%, fully opaque) and 1(100%, fully transparent) Any invalid factor value will be clamped.
 ### getTransparentColor() {#getTransparentColor--}
 ```
 public Vector3 getTransparentColor()
@@ -336,7 +336,7 @@ public Vector3 getTransparentColor()
 Gets the transparent color.
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the transparent color.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -399,10 +399,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setAmbientColor(Vector3 value) {#setAmbientColor-com.aspose.threed.Vector3-}
 ```
 public void setAmbientColor(Vector3 value)

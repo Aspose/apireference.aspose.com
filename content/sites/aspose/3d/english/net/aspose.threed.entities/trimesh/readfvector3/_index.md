@@ -24,7 +24,7 @@ public FVector3 ReadFVector3(int idx, VertexField field)
 * struct [FVector3](../../../aspose.threed.utilities/fvector3/)
 * class [VertexField](../../../aspose.threed.utilities/vertexfield/)
 * class [TriMesh](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../trimesh/)
 * assembly [Aspose.3D](../../../)
 
 

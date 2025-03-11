@@ -3,7 +3,7 @@ title: Class PolygonModifier
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.PolygonModifier class. Utilities to modify polygons
 type: docs
-weight: 2110
+weight: 590
 url: /net/aspose.threed.entities/polygonmodifier/
 ---
 ## PolygonModifier class
@@ -18,6 +18,7 @@ public class PolygonModifier
 
 | Name | Description |
 | --- | --- |
+| static [ApplyTransform](../../aspose.threed.entities/polygonmodifier/applytransform/)(Node, Matrix4) | Apply transform matrix on control points of all geometries |
 | static [BuildTangentBinormal](../../aspose.threed.entities/polygonmodifier/buildtangentbinormal/#buildtangentbinormal)(Mesh) | This will create tangent and binormal on the mesh Normal is required, if normal is not existing on the mesh, it will also create the normal data from position. UV is also required, an exception will be raised if no UV found. |
 | static [BuildTangentBinormal](../../aspose.threed.entities/polygonmodifier/buildtangentbinormal/#buildtangentbinormal_1)(Scene) | This will create tangent and binormal on all meshes of the scene Normal is required, if normal is not existing on the mesh, it will also create the normal data from position. UV is also required, the mesh will be ignored if no UV is defined. |
 | static [GenerateNormal](../../aspose.threed.entities/polygonmodifier/generatenormal/)(Mesh) | Generate normal data from Mesh definition |

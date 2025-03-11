@@ -19,7 +19,7 @@ The ShaderSet type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.render/shaderset/__init__/#) | Construct the instance of [`ShaderSet`](/3d/python-net/aspose.threed.render/shaderset) |
+| [`__init__(self)`](/3d/python-net/aspose.threed.render/shaderset/__init__/#) | Construct the instance of [`ShaderSet`](/3d/python-net/aspose.threed.render/shaderset) |
 
 
 ### Properties

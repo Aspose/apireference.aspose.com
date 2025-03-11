@@ -3,7 +3,7 @@ title: RvmLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: Load options for AVEVA Plant Design Management Systems RVM file.
 type: docs
-weight: 147
+weight: 153
 url: /java/com.aspose.threed/rvmloadoptions/
 ---
 
@@ -13,7 +13,18 @@ java.lang.Object, [com.aspose.threed.IOConfig](../../com.aspose.threed/ioconfig)
 public class RvmLoadOptions extends LoadOptions
 ```
 
-Load options for AVEVA Plant Design Management System's RVM file.
+Load options for AVEVA Plant Design Management System's RVM file. **Example:** The following code shows how to customize the tessellation parameters for primitive geometries imported from RVM file using RvmLoadOptions.
+
+```
+RvmLoadOptions opt = new RvmLoadOptions();
+             opt.setRectangularTorusSegments(30);
+             opt.setCylinderRadialSegments(20);
+             opt.setDishLatitudeSegments(20);
+             opt.setDishLongitudeSegments(20);
+             opt.setCenterScene(true);
+             var scene = Scene.fromFile("input.rvm", opt);
+             scene.save("output.obj");
+```
 ## Constructors
 
 | Constructor | Description |
@@ -107,7 +118,7 @@ public String getAttributePrefix()
 Gets the prefix of the attributes that were defined in external attribute files, The prefix are used to avoid name conflicts, default value is "rvm:"
 
 **Returns:**
-java.lang.String
+java.lang.String - the prefix of the attributes that were defined in external attribute files, The prefix are used to avoid name conflicts, default value is "rvm:"
 ### getCenterScene() {#getCenterScene--}
 ```
 public boolean getCenterScene()
@@ -117,7 +128,7 @@ public boolean getCenterScene()
 Center the scene after it's loaded.
 
 **Returns:**
-boolean
+boolean - Center the scene after it's loaded.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -137,7 +148,7 @@ public int getCylinderRadialSegments()
 Gets the number of cylinder's radial segments, default value is 16
 
 **Returns:**
-int
+int - the number of cylinder's radial segments, default value is 16
 ### getDishLatitudeSegments() {#getDishLatitudeSegments--}
 ```
 public int getDishLatitudeSegments()
@@ -147,7 +158,7 @@ public int getDishLatitudeSegments()
 Gets the number of dish' latitude segments, default value is 8
 
 **Returns:**
-int
+int - the number of dish' latitude segments, default value is 8
 ### getDishLongitudeSegments() {#getDishLongitudeSegments--}
 ```
 public int getDishLongitudeSegments()
@@ -157,7 +168,7 @@ public int getDishLongitudeSegments()
 Gets the number of dish' longitude segments, default value is 12
 
 **Returns:**
-int
+int - the number of dish' longitude segments, default value is 12
 ### getEncoding() {#getEncoding--}
 ```
 public Charset getEncoding()
@@ -167,7 +178,7 @@ public Charset getEncoding()
 Gets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use.
 
 **Returns:**
-java.nio.charset.Charset
+java.nio.charset.Charset - the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use.
 ### getFileFormat() {#getFileFormat--}
 ```
 public FileFormat getFileFormat()
@@ -177,7 +188,7 @@ public FileFormat getFileFormat()
 Gets the file format that specified in current Save/Load option.
 
 **Returns:**
-[FileFormat](../../com.aspose.threed/fileformat)
+[FileFormat](../../com.aspose.threed/fileformat) - the file format that specified in current Save/Load option.
 ### getFileName() {#getFileName--}
 ```
 public String getFileName()
@@ -187,7 +198,7 @@ public String getFileName()
 The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material.
 
 **Returns:**
-java.lang.String
+java.lang.String - The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material.
 ### getFileSystem() {#getFileSystem--}
 ```
 public FileSystem getFileSystem()
@@ -197,17 +208,60 @@ public FileSystem getFileSystem()
 Allow user to handle how to manage the external dependencies during load/save.
 
 **Returns:**
-[FileSystem](../../com.aspose.threed/filesystem)
+[FileSystem](../../com.aspose.threed/filesystem) - Allow user to handle how to manage the external dependencies during load/save. **Example:** The default FileSystem is LocalFileSystem, it is not safe in environment like server side, But you can override the file system access by specifying a different implementation. Aspose.3D provides different FileSystem implementation like:
+
+ *  Memory-based file system
+ *  Directory-based file system
+ *  Dummy file system
+ *  Zip file system
+
+And you can also use your own implementation.
+
+```
+Scene scene = new Scene();
+             var material = new PhongMaterial();
+             var boxNode = scene.getRootNode().createChildNode(new Box());
+             boxNode.setMaterial(material);
+ 
+             var opt = new ObjSaveOptions();
+             var memFs = new HashMap<string, MemoryStream>();
+             opt.setFileSystem(FileSystem.createMemoryFileSystem(memFs));
+ 			opt.setFileName("output.obj");
+             try(var output = new ByteArrayOutputStream()) {
+ 				scene.save(output, opt);
+ 				//The material will be written to variable memFs named output.mtl
+ 				var materialInBytes = memFs["output.mtl"].toArray();
+             }
+```
 ### getFileSystemFactory() {#getFileSystemFactory--}
 ```
 public static FileSystemFactory getFileSystemFactory()
 ```
 
 
-Gets the factory class for FileSystem. The default factory will create [LocalFileSystem](../../com.aspose.threed/localfilesystem) which is not suitable for server environment.
+Gets the factory class for FileSystem. The default factory will create com.aspose.threed.LocalFileSystem which is not suitable for server environment.
 
 **Returns:**
-[FileSystemFactory](../../com.aspose.threed/filesystemfactory)
+[FileSystemFactory](../../com.aspose.threed/filesystemfactory) - the factory class for FileSystem. The default factory will create com.aspose.threed.LocalFileSystem which is not suitable for server environment. **Example:** The default FileSystem in SaveOptions/LoadOptions is directory-based file system, You can override the default implementation by specify it through IOConfig.FileSystemFactory:
+
+```
+IOConfig.setFileSystemFactory(new FileSystemFactory() {
+ 				@Override
+ 				public FileSystem call() {
+ 					return FileSystem.createDummyFileSystem();
+ 				}
+ 			});
+ 
+             Scene scene = new Scene();
+             var material = new PhongMaterial();
+             var boxNode = scene.getRootNode().createChildNode(new Box());
+             boxNode.setMaterial(material);
+ 
+             //opt.FileSystem would be dummy file system now
+             var opt = new ObjSaveOptions();
+             scene.Save("output.obj", opt);
+             //the material file output.mtl will not be written to any places because we've configured a dummy file system as default implementation.
+```
 ### getGenerateMaterials() {#getGenerateMaterials--}
 ```
 public boolean getGenerateMaterials()
@@ -217,7 +271,7 @@ public boolean getGenerateMaterials()
 Generate materials with random colors for each objects in the scene if color table is not exported within the RVM file. Default value is true
 
 **Returns:**
-boolean
+boolean - Generate materials with random colors for each objects in the scene if color table is not exported within the RVM file. Default value is true
 ### getLookupAttributes() {#getLookupAttributes--}
 ```
 public boolean getLookupAttributes()
@@ -227,7 +281,7 @@ public boolean getLookupAttributes()
 Gets whether to load attributes from external attribute list file(.att/.attrib/.txt), default value is true.
 
 **Returns:**
-boolean
+boolean - whether to load attributes from external attribute list file(.att/.attrib/.txt), default value is true.
 ### getLookupPaths() {#getLookupPaths--}
 ```
 public ArrayList<String> getLookupPaths()
@@ -237,7 +291,15 @@ public ArrayList<String> getLookupPaths()
 Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load.
 
 **Returns:**
-java.util.ArrayList<java.lang.String>
+java.util.ArrayList<java.lang.String> - Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. **Example:** The following code shows how to manually specify the look up textures, so the importer can find
+
+```
+var opt = new ObjLoadOptions();
+             //Specify the lookup paths, so the textures can be located.
+             opt.getLookupPaths().add("textures");
+             var scene = Scene.fromFile("input.obj", opt);
+             scene.save("output.glb");
+```
 ### getRectangularTorusSegments() {#getRectangularTorusSegments--}
 ```
 public int getRectangularTorusSegments()
@@ -247,7 +309,7 @@ public int getRectangularTorusSegments()
 Gets the number of rectangular torus' radial segments, default value is 20
 
 **Returns:**
-int
+int - the number of rectangular torus' radial segments, default value is 20
 ### getTorusTubularSegments() {#getTorusTubularSegments--}
 ```
 public int getTorusTubularSegments()
@@ -257,7 +319,7 @@ public int getTorusTubularSegments()
 Gets the number of torus' tubular segments, default value is 20
 
 **Returns:**
-int
+int - the number of torus' tubular segments, default value is 20
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -386,7 +448,31 @@ Allow user to handle how to manage the external dependencies during load/save.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [FileSystem](../../com.aspose.threed/filesystem) | New value |
+| value | [FileSystem](../../com.aspose.threed/filesystem) | New value **Example:** The default FileSystem is LocalFileSystem, it is not safe in environment like server side, But you can override the file system access by specifying a different implementation. Aspose.3D provides different FileSystem implementation like:
+
+ *  Memory-based file system
+ *  Directory-based file system
+ *  Dummy file system
+ *  Zip file system
+
+And you can also use your own implementation.
+
+```
+Scene scene = new Scene();
+             var material = new PhongMaterial();
+             var boxNode = scene.getRootNode().createChildNode(new Box());
+             boxNode.setMaterial(material);
+ 
+             var opt = new ObjSaveOptions();
+             var memFs = new HashMap<string, MemoryStream>();
+             opt.setFileSystem(FileSystem.createMemoryFileSystem(memFs));
+ 			opt.setFileName("output.obj");
+             try(var output = new ByteArrayOutputStream()) {
+ 				scene.save(output, opt);
+ 				//The material will be written to variable memFs named output.mtl
+ 				var materialInBytes = memFs["output.mtl"].toArray();
+             }
+``` |
 
 ### setFileSystemFactory(FileSystemFactory value) {#setFileSystemFactory-com.aspose.threed.FileSystemFactory-}
 ```
@@ -394,12 +480,31 @@ public static void setFileSystemFactory(FileSystemFactory value)
 ```
 
 
-Sets the factory class for FileSystem. The default factory will create [LocalFileSystem](../../com.aspose.threed/localfilesystem) which is not suitable for server environment.
+Sets the factory class for FileSystem. The default factory will create com.aspose.threed.LocalFileSystem which is not suitable for server environment.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [FileSystemFactory](../../com.aspose.threed/filesystemfactory) | New value |
+| value | [FileSystemFactory](../../com.aspose.threed/filesystemfactory) | New value **Example:** The default FileSystem in SaveOptions/LoadOptions is directory-based file system, You can override the default implementation by specify it through IOConfig.FileSystemFactory:
+
+```
+IOConfig.setFileSystemFactory(new FileSystemFactory() {
+ 				@Override
+ 				public FileSystem call() {
+ 					return FileSystem.createDummyFileSystem();
+ 				}
+ 			});
+ 
+             Scene scene = new Scene();
+             var material = new PhongMaterial();
+             var boxNode = scene.getRootNode().createChildNode(new Box());
+             boxNode.setMaterial(material);
+ 
+             //opt.FileSystem would be dummy file system now
+             var opt = new ObjSaveOptions();
+             scene.Save("output.obj", opt);
+             //the material file output.mtl will not be written to any places because we've configured a dummy file system as default implementation.
+``` |
 
 ### setGenerateMaterials(boolean value) {#setGenerateMaterials-boolean-}
 ```
@@ -438,7 +543,15 @@ Some files like OBJ depends on external file, the lookup paths will allows Aspos
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.util.ArrayList<java.lang.String> | New value |
+| value | java.util.ArrayList<java.lang.String> | New value **Example:** The following code shows how to manually specify the look up textures, so the importer can find
+
+```
+var opt = new ObjLoadOptions();
+             //Specify the lookup paths, so the textures can be located.
+             opt.getLookupPaths().add("textures");
+             var scene = Scene.fromFile("input.obj", opt);
+             scene.save("output.glb");
+``` |
 
 ### setRectangularTorusSegments(int value) {#setRectangularTorusSegments-int-}
 ```

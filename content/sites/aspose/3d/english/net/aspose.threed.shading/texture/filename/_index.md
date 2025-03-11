@@ -21,7 +21,7 @@ The name of the file.
 ### See Also
 
 * class [Texture](../)
-* namespace [Aspose.ThreeD.Shading](../../../aspose.threed.shading/)
+* namespace [Aspose.ThreeD.Shading](../../texture/)
 * assembly [Aspose.3D](../../../)
 
 

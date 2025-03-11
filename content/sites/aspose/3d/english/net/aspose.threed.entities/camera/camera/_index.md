@@ -17,7 +17,7 @@ public Camera()
 ### See Also
 
 * class [Camera](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../camera/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Camera(ProjectionType projectionType)
 
 * enum [ProjectionType](../../projectiontype/)
 * class [Camera](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../camera/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -58,7 +58,7 @@ public Camera(string name)
 ### See Also
 
 * class [Camera](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../camera/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -80,7 +80,7 @@ public Camera(string name, ProjectionType projectionType)
 
 * enum [ProjectionType](../../projectiontype/)
 * class [Camera](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../camera/)
 * assembly [Aspose.3D](../../../)
 
 

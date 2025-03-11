@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.render/icommandlist/push_constants/
 is_root: false
 ---
 
-## push_constants {#aspose.threed.render.ShaderStage-bytes}
+## push_constants(self, stage, data) {#aspose.threed.render.ShaderStage-bytes}
 
 Push the constant to the pipeline
 
 
 
 ```python
+
 def push_constants(self, stage, data):
     ...
 ```
@@ -26,13 +27,14 @@ def push_constants(self, stage, data):
 | data | bytes | The data that will be sent to the shader |
 
 
-## push_constants {#aspose.threed.render.ShaderStage-bytes-int}
+## push_constants(self, stage, data, size) {#aspose.threed.render.ShaderStage-bytes-int}
 
 Push the constant to the pipeline
 
 
 
 ```python
+
 def push_constants(self, stage, data, size):
     ...
 ```

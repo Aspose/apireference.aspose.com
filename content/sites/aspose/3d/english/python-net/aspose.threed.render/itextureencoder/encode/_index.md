@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.render/itextureencoder/encode/
 is_root: false
 ---
 
-## encode {#aspose.threed.render.TextureData-io.RawIOBase}
+## encode(self, texture, stream) {#aspose.threed.render.TextureData-io.RawIOBase}
 
 Encode texture data into stream
 
 
 
 ```python
+
 def encode(self, texture, stream):
     ...
 ```
@@ -27,7 +28,7 @@ def encode(self, texture, stream):
 ### Exceptions
 | Exception | Description |
 | :- | :- |
-| IOException |  |
+| IOException | Thrown when failed to write encoded texture to stream |
 
 
 

@@ -3,7 +3,7 @@ title: parent_node property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 330
 url: /python-net/aspose.threed.entities/trimesh/parent_node/
 is_root: false
 ---

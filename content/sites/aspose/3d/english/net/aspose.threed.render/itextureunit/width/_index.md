@@ -17,7 +17,7 @@ public int Width { get; }
 ### See Also
 
 * interface [ITextureUnit](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itextureunit/)
 * assembly [Aspose.3D](../../../)
 
 

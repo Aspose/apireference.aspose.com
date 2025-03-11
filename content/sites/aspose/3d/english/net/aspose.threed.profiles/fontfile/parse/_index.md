@@ -25,7 +25,7 @@ FontFile instance
 ### See Also
 
 * class [FontFile](../)
-* namespace [Aspose.ThreeD.Profiles](../../../aspose.threed.profiles/)
+* namespace [Aspose.ThreeD.Profiles](../../fontfile/)
 * assembly [Aspose.3D](../../../)
 
 

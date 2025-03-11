@@ -16,12 +16,12 @@ public int CompareTo(RenderState other)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| other | RenderState |  |
+| other | RenderState | Another render state to compare |
 
 ### See Also
 
 * class [RenderState](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderstate/)
 * assembly [Aspose.3D](../../../)
 
 

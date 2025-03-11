@@ -18,7 +18,7 @@ public void Merge(Vector4 pt)
 | --- | --- | --- |
 | pt | Vector4 | The point to be merged into the bounding box |
 
-### Examples
+## Examples
 
 The following code shows how to merge a point to bounding box.
 
@@ -32,7 +32,7 @@ Console.WriteLine("Bounding box = " + boundingBox);
 
 * struct [Vector4](../../vector4/)
 * struct [BoundingBox](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -49,7 +49,7 @@ public void Merge(Vector3 pt)
 | --- | --- | --- |
 | pt | Vector3 | The point to be merged into the bounding box |
 
-### Examples
+## Examples
 
 The following code shows how to merge a point to bounding box.
 
@@ -63,7 +63,7 @@ Console.WriteLine("Bounding box = " + boundingBox);
 
 * struct [Vector3](../../vector3/)
 * struct [BoundingBox](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -82,7 +82,7 @@ public void Merge(double x, double y, double z)
 | y | Double | The point to be merged into the bounding box |
 | z | Double | The point to be merged into the bounding box |
 
-### Examples
+## Examples
 
 The following code shows how to merge a point to bounding box.
 
@@ -95,7 +95,7 @@ Console.WriteLine("Bounding box = " + boundingBox);
 ### See Also
 
 * struct [BoundingBox](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -110,12 +110,12 @@ public void Merge(BoundingBox bb)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bb | BoundingBox |  |
+| bb | BoundingBox | The bounding box to merge |
 
 ### See Also
 
 * struct [BoundingBox](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox/)
 * assembly [Aspose.3D](../../../)
 
 

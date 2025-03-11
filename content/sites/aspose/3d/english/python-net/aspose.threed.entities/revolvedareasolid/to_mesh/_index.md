@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/revolvedareasolid/to_mesh/
 is_root: false
 ---
 
-## to_mesh {#}
+## to_mesh(self) {#}
 
 Convert the [`RevolvedAreaSolid`](/3d/python-net/aspose.threed.entities/revolvedareasolid) into a mesh.
 
@@ -20,6 +20,7 @@ Convert the [`RevolvedAreaSolid`](/3d/python-net/aspose.threed.entities/revolved
 
 
 ```python
+
 def to_mesh(self):
     ...
 ```

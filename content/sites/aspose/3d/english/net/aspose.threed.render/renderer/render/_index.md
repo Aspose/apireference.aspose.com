@@ -22,7 +22,7 @@ public virtual void Render(IRenderTarget renderTarget)
 
 * interface [IRenderTarget](../../irendertarget/)
 * class [Renderer](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../renderer/)
 * assembly [Aspose.3D](../../../)
 
 

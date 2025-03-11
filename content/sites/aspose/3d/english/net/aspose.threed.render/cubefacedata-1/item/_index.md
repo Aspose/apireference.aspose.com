@@ -16,7 +16,7 @@ public T this[CubeFace face] { get; set; }
 
 * enum [CubeFace](../../cubeface/)
 * struct [CubeFaceData&lt;T&gt;](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../cubefacedata-1/)
 * assembly [Aspose.3D](../../../)
 
 

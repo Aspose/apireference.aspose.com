@@ -47,11 +47,11 @@ url: /nodejs-java/aspose.threed/box/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(name, length, width, height, lengthSegments, widthSegments, heightSegments) | Initializes a new instance of the Box class. | 
+| constructor_overload2(name, length, width, height, lengthSegments, widthSegments, heightSegments) | Initializes a new instance of the Box class. | 
 
  **Parameters:**
 

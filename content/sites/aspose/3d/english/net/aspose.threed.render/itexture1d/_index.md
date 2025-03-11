@@ -3,7 +3,7 @@ title: Interface ITexture1D
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.ITexture1D interface. 1D texture
 type: docs
-weight: 640
+weight: 2010
 url: /net/aspose.threed.render/itexture1d/
 ---
 ## ITexture1D interface

@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.utilities/relativerectangle/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of RelativeRectangle
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#int-int-int-int}
+## \_\_init\_\_(self, left, top, width, height) {#int-int-int-int}
 
 Construct a [`RelativeRectangle`](/3d/python-net/aspose.threed.utilities/relativerectangle)
 
 
 
 ```python
+
 def __init__(self, left, top, width, height):
     ...
 ```

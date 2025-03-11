@@ -17,7 +17,7 @@ public bool ExportMetaData { get; set; }
 ### See Also
 
 * class [A3dwSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../a3dwsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

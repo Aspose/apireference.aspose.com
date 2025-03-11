@@ -17,7 +17,7 @@ public PushConstant()
 ### See Also
 
 * class [PushConstant](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../pushconstant/)
 * assembly [Aspose.3D](../../../)
 
 

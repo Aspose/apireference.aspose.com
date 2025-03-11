@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vector2/equals/
 is_root: false
 ---
 
-## equals {#aspose.threed.utilities.Vector2}
+## equals(self, rhs) {#aspose.threed.utilities.Vector2}
 
 Check if two vector2 equals
 
@@ -20,6 +20,7 @@ True if all components are identically equal.
 
 
 ```python
+
 def equals(self, rhs):
     ...
 ```

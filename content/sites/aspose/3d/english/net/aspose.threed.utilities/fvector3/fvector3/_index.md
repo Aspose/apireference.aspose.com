@@ -14,10 +14,16 @@ Initializes a new instance of the [`FVector3`](../).
 public FVector3(float x, float y, float z)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | Single | X component of the vector |
+| y | Single | Y component of the vector |
+| z | Single | Z component of the vector |
+
 ### See Also
 
 * struct [FVector3](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fvector3/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -30,11 +36,15 @@ Initializes a new instance of the [`FVector3`](../).
 public FVector3(Vector3 vec)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| vec | Vector3 | Vector3 in double type |
+
 ### See Also
 
 * struct [Vector3](../../vector3/)
 * struct [FVector3](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fvector3/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -47,11 +57,15 @@ Initializes a new instance of the [`FVector4`](../../fvector4/).
 public FVector3(Vector4 vec)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| vec | Vector4 | Vector4 in double type |
+
 ### See Also
 
 * struct [Vector4](../../vector4/)
 * struct [FVector3](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../fvector3/)
 * assembly [Aspose.3D](../../../)
 
 

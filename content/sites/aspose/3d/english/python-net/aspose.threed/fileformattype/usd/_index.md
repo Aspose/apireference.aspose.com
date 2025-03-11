@@ -3,7 +3,7 @@ title: USD property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /python-net/aspose.threed/fileformattype/usd/
 is_root: false
 ---
@@ -12,6 +12,10 @@ is_root: false
 
 
 Universal Scene Description
+### Definition:
+```python
+f USD 
+```
 
 ### See Also
 * module [`aspose.threed`](../../)

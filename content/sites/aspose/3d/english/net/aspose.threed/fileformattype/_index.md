@@ -3,7 +3,7 @@ title: Class FileFormatType
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.FileFormatType class. File format type
 type: docs
-weight: 180
+weight: 1040
 url: /net/aspose.threed/fileformattype/
 ---
 ## FileFormatType class
@@ -27,6 +27,7 @@ public sealed class FileFormatType
 | static readonly [AMF](../../aspose.threed/fileformattype/amf/) | Additive manufacturing file format |
 | static readonly [ASE](../../aspose.threed/fileformattype/ase/) | 3D Studio Max's ASCII Scene Exporter format. |
 | static readonly [Aspose3DWeb](../../aspose.threed/fileformattype/aspose3dweb/) | Aspose.3D Web format. |
+| static readonly [Blender](../../aspose.threed/fileformattype/blender/) | Blender format type |
 | static readonly [COLLADA](../../aspose.threed/fileformattype/collada/) | Khronos Group's Collada file format. |
 | static readonly [Discreet3DS](../../aspose.threed/fileformattype/discreet3ds/) | Discreet 3D Studio's file format |
 | static readonly [Draco](../../aspose.threed/fileformattype/draco/) | Google Draco Mesh |

@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.render/icommandlist/draw/
 is_root: false
 ---
 
-## draw {#}
+## draw(self) {#}
 
 Draw without index buffer
 
 
 
 ```python
+
 def draw(self):
     ...
 ```
@@ -22,13 +23,14 @@ def draw(self):
 
 
 
-## draw {#int-int}
+## draw(self, start, count) {#int-int}
 
 Draw without index buffer
 
 
 
 ```python
+
 def draw(self, start, count):
     ...
 ```

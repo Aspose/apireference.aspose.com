@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/itexturedecoder/decode/
 is_root: false
 ---
 
-## decode {#io.RawIOBase-bool}
+## decode(self, stream, reverse_y) {#io.RawIOBase-bool}
 
 Decode texture from stream, return null if failed to decode.
 
@@ -20,6 +20,7 @@ Decoded texture data or null if not supported.
 
 
 ```python
+
 def decode(self, stream, reverse_y):
     ...
 ```
@@ -32,7 +33,7 @@ def decode(self, stream, reverse_y):
 ### Exceptions
 | Exception | Description |
 | :- | :- |
-| IOException |  |
+| IOException | Thrown when failed to read data from stream |
 
 
 

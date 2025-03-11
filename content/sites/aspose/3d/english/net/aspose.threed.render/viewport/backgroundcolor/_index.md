@@ -18,7 +18,7 @@ public Vector3 BackgroundColor { get; set; }
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [Viewport](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../viewport/)
 * assembly [Aspose.3D](../../../)
 
 

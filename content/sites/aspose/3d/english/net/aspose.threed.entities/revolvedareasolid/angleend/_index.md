@@ -17,7 +17,7 @@ public double AngleEnd { get; set; }
 ### See Also
 
 * class [RevolvedAreaSolid](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../revolvedareasolid/)
 * assembly [Aspose.3D](../../../)
 
 

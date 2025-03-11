@@ -28,7 +28,7 @@ public void TransformPixelFormat(PixelFormat pixelFormat)
 
 * enum [PixelFormat](../../pixelformat/)
 * class [TextureData](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../texturedata/)
 * assembly [Aspose.3D](../../../)
 
 

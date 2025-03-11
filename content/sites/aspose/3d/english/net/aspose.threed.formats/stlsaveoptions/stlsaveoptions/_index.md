@@ -17,7 +17,7 @@ public StlSaveOptions()
 ### See Also
 
 * class [StlSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../stlsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -38,7 +38,7 @@ public StlSaveOptions(FileContentType contentType)
 
 * enum [FileContentType](../../../aspose.threed/filecontenttype/)
 * class [StlSaveOptions](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../stlsaveoptions/)
 * assembly [Aspose.3D](../../../)
 
 

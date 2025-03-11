@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/relativerectangle/to_absolute/
 is_root: false
 ---
 
-## to_absolute {#int-int-int-int}
+## to_absolute(self, left, top, width, height) {#int-int-int-int}
 
 Convert the relative rectangle to absolute rectangle
 
@@ -20,6 +20,7 @@ Convert the relative rectangle to absolute rectangle
 
 
 ```python
+
 def to_absolute(self, left, top, width, height):
     ...
 ```

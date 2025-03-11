@@ -12,7 +12,12 @@ is_root: false
 
 
 Aspose.3D Web format.
+### Definition:
+```python
+f ASPOSE_3D_WEB 
+```
 
 ### See Also
 * module [`aspose.threed.formats`](../../)
 * class [`DracoFormat`](/3d/python-net/aspose.threed.formats/dracoformat)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)

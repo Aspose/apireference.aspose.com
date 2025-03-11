@@ -17,7 +17,7 @@ public VertexElementTangent()
 ### See Also
 
 * class [VertexElementTangent](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../vertexelementtangent/)
 * assembly [Aspose.3D](../../../)
 
 

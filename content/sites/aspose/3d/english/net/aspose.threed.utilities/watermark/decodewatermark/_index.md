@@ -28,7 +28,11 @@ Blind watermark or null if no watermark decoded.
 | --- | --- |
 | UnauthorizedAccessException | The mesh is protected by password, and provided password is incorrect. |
 
-### Examples
+## Remarks
+
+Both [`EncodeWatermark`](../encodewatermark/) and `DecodeWatermark` will perform license check Trial usage will throw exception, you can use [`SuppressTrialException`](../../../aspose.threed/trialexception/suppresstrialexception/) to suppress the exception, but it will not lift the restriction here. A valid license is required to use these features without any restrictions.
+
+## Examples
 
 The following code shows how to decode a blind watermark from a mesh saved in 3D file
 
@@ -41,7 +45,7 @@ String watermark = Watermark.DecodeWatermark(mesh);
 
 * class [Mesh](../../../aspose.threed.entities/mesh/)
 * class [Watermark](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../watermark/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -69,7 +73,7 @@ Blind watermark or null if no watermark decoded.
 | --- | --- |
 | UnauthorizedAccessException | The mesh is protected by password, and provided password is incorrect. |
 
-### Examples
+## Examples
 
 The following code shows how to decode a blind watermark from a mesh saved in 3D file
 
@@ -82,7 +86,7 @@ String watermark = Watermark.DecodeWatermark(mesh, "password");
 
 * class [Mesh](../../../aspose.threed.entities/mesh/)
 * class [Watermark](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../watermark/)
 * assembly [Aspose.3D](../../../)
 
 

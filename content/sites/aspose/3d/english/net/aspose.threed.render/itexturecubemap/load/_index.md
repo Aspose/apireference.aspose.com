@@ -17,7 +17,7 @@ public void Load(CubeFaceData<TextureData> data)
 * struct [CubeFaceData&lt;T&gt;](../../cubefacedata-1/)
 * class [TextureData](../../texturedata/)
 * interface [ITextureCubemap](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexturecubemap/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -40,7 +40,7 @@ public void Load(CubeFace face, TextureData data)
 * enum [CubeFace](../../cubeface/)
 * class [TextureData](../../texturedata/)
 * interface [ITextureCubemap](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexturecubemap/)
 * assembly [Aspose.3D](../../../)
 
 

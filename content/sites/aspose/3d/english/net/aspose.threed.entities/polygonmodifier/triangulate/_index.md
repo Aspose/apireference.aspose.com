@@ -3,7 +3,7 @@ title: PolygonModifier.Triangulate
 second_title: Aspose.3D for .NET API Reference
 description: PolygonModifier method. Convert all polygonbased meshes into full triangle mesh
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.threed.entities/polygonmodifier/triangulate/
 ---
 ## Triangulate(Scene) {#triangulate_5}
@@ -18,7 +18,7 @@ public static void Triangulate(Scene scene)
 | --- | --- | --- |
 | scene | Scene | The scene to process |
 
-### Examples
+## Examples
 
 The following code shows how to merge all objects from a scene into a single mesh.
 
@@ -37,9 +37,8 @@ var scene = new Scene(mesh);
 
 * class [Scene](../../../aspose.threed/scene/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
-* [Tutorial - Triangulate 3D Mesh](https://products.aspose.com/3d/tutorial/triangulate-3d-mesh)
 
 ---
 
@@ -59,7 +58,7 @@ public static Mesh Triangulate(Mesh mesh)
 
 The generated new triangle mesh
 
-### Examples
+## Examples
 
 The following code shows how to merge all objects from a scene into a single mesh.
 
@@ -78,9 +77,8 @@ var scene = new Scene(mesh);
 
 * class [Mesh](../../mesh/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
-* [Tutorial - Triangulate 3D Mesh](https://products.aspose.com/3d/tutorial/triangulate-3d-mesh)
 
 ---
 
@@ -96,7 +94,7 @@ public static int[][] Triangulate(IList<Vector4> controlPoints, IList<int[]> pol
 * struct [Vector4](../../../aspose.threed.utilities/vector4/)
 * struct [Vector3](../../../aspose.threed.utilities/vector3/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -111,7 +109,7 @@ public static int[][] Triangulate(IList<Vector4> controlPoints, IList<int[]> pol
 
 * struct [Vector4](../../../aspose.threed.utilities/vector4/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -126,7 +124,7 @@ public static int[][] Triangulate(IList<Vector4> controlPoints, int[] polygon)
 
 * struct [Vector4](../../../aspose.threed.utilities/vector4/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -141,7 +139,7 @@ public static int[][] Triangulate(IList<Vector4> controlPoints)
 
 * struct [Vector4](../../../aspose.threed.utilities/vector4/)
 * class [PolygonModifier](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../polygonmodifier/)
 * assembly [Aspose.3D](../../../)
 
 

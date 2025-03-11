@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.render/icommandlist/bind_index_buffer/
 is_root: false
 ---
 
-## bind_index_buffer {#aspose.threed.render.IIndexBuffer}
+## bind_index_buffer(self, index_buffer) {#aspose.threed.render.IIndexBuffer}
 
 Bind the index buffer for rendering
 
 
 
 ```python
+
 def bind_index_buffer(self, index_buffer):
     ...
 ```

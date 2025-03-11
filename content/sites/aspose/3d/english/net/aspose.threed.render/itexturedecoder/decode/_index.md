@@ -27,13 +27,13 @@ Decoded texture data or null if not supported.
 
 | exception | condition |
 | --- | --- |
-| IOException |  |
+| IOException | Thrown when failed to read data from stream |
 
 ### See Also
 
 * class [TextureData](../../texturedata/)
 * interface [ITextureDecoder](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../itexturedecoder/)
 * assembly [Aspose.3D](../../../)
 
 

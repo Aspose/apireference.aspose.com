@@ -16,7 +16,7 @@ public static explicit operator FVector4(Vector4 v)
 
 * struct [FVector4](../../fvector4/)
 * struct [Vector4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../vector4/)
 * assembly [Aspose.3D](../../../)
 
 

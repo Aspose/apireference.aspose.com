@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.utilities/transformbuilder/rotate/
 is_root: false
 ---
 
-## rotate {#aspose.threed.utilities.Quaternion}
+## rotate(self, q) {#aspose.threed.utilities.Quaternion}
 
 Chain a rotation by a quaternion
 
 
 
 ```python
+
 def rotate(self, q):
     ...
 ```

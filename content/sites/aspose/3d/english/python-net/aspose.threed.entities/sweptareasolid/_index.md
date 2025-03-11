@@ -26,7 +26,7 @@ The SweptAreaSolid type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed.entities/sweptareasolid/__init__/#) | Initialize an SceneObject. |
+| [`__init__(self)`](/3d/python-net/aspose.threed.entities/sweptareasolid/__init__/#) | Initialize an SceneObject. |
 
 
 ### Properties
@@ -47,16 +47,40 @@ The SweptAreaSolid type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property](/3d/python-net/aspose.threed.entities/sweptareasolid/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
-| [remove_property](/3d/python-net/aspose.threed.entities/sweptareasolid/remove_property/#str) | Remove the specified property identified by name |
-| [get_property](/3d/python-net/aspose.threed.entities/sweptareasolid/get_property/#str) | Get the value of specified property |
-| [set_property](/3d/python-net/aspose.threed.entities/sweptareasolid/set_property/#str-any) | Sets the value of specified property |
-| [find_property](/3d/python-net/aspose.threed.entities/sweptareasolid/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_bounding_box](/3d/python-net/aspose.threed.entities/sweptareasolid/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
-| [get_entity_renderer_key](/3d/python-net/aspose.threed.entities/sweptareasolid/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [to_mesh](/3d/python-net/aspose.threed.entities/sweptareasolid/to_mesh/#) | Convert current object to mesh |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/sweptareasolid/remove_property/#aspose.threed.property) | Removes a dynamic property. |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/sweptareasolid/remove_property/#str) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/sweptareasolid/get_property/#str) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/sweptareasolid/set_property/#str-any) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/sweptareasolid/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_bounding_box(self)`](/3d/python-net/aspose.threed.entities/sweptareasolid/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
+| [`get_entity_renderer_key(self)`](/3d/python-net/aspose.threed.entities/sweptareasolid/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
+| [`to_mesh(self)`](/3d/python-net/aspose.threed.entities/sweptareasolid/to_mesh/#) | Convert current object to mesh |
 
 
+
+### Example 
+
+
+The following code shows how to modeling an solid entity by sweeping a C-shape on a circle
+
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Circle, EndPoint, SweptAreaSolid
+from aspose.threed.profiles import CShape
+
+directrix = Circle(20)
+shape = CShape()
+solid = SweptAreaSolid()
+solid.shape = shape
+solid.directrix = directrix
+solid.start_point = EndPoint.from_degree(0)
+solid.end_point = EndPoint.from_degree(130)
+swept = solid
+scene = Scene()
+scene.root_node.create_child_node(swept)
+scene.save("swept.obj")
+
+```
 
 ### See Also
 * module [`aspose.threed.entities`](..)

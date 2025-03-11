@@ -8,13 +8,14 @@ url: /python-net/aspose.threed/axissystem/__init__/
 is_root: false
 ---
 
-## __init__ {#aspose.threed.CoordinateSystem-aspose.threed.Axis}
+## \_\_init\_\_(self, coordinate_system, up) {#aspose.threed.CoordinateSystem-aspose.threed.Axis}
 
 Constructs a new axis system
 
 
 
 ```python
+
 def __init__(self, coordinate_system, up):
     ...
 ```
@@ -26,13 +27,14 @@ def __init__(self, coordinate_system, up):
 | up | [`Axis`](/3d/python-net/aspose.threed/axis) | The up vector of the axis system |
 
 
-## __init__ {#aspose.threed.Axis-Nullable<Axis>}
+## \_\_init\_\_(self, up, front) {#aspose.threed.Axis-Nullable<Axis>}
 
 Constructs a new instance of AxisSystem
 
 
 
 ```python
+
 def __init__(self, up, front):
     ...
 ```
@@ -44,13 +46,14 @@ def __init__(self, up, front):
 | front | Nullable<Axis> |  |
 
 
-## __init__ {#aspose.threed.CoordinateSystem-aspose.threed.Axis-aspose.threed.Axis}
+## \_\_init\_\_(self, coordinate_system, up, front) {#aspose.threed.CoordinateSystem-aspose.threed.Axis-aspose.threed.Axis}
 
 Constructs a new axis system
 
 
 
 ```python
+
 def __init__(self, coordinate_system, up, front):
     ...
 ```
@@ -63,13 +66,14 @@ def __init__(self, coordinate_system, up, front):
 | front | [`Axis`](/3d/python-net/aspose.threed/axis) | The front vector of the axis system |
 
 
-## __init__ {#Nullable<CoordinateSystem>-Nullable<Axis>-Nullable<Axis>}
+## \_\_init\_\_(self, coordinate_system, up, front) {#Nullable<CoordinateSystem>-Nullable<Axis>-Nullable<Axis>}
 
 Constructs a new instance of AxisSystem
 
 
 
 ```python
+
 def __init__(self, coordinate_system, up, front):
     ...
 ```

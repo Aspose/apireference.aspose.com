@@ -17,7 +17,7 @@ public Box()
 ### See Also
 
 * class [Box](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../box/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -39,7 +39,7 @@ public Box(double length, double width, double height)
 ### See Also
 
 * class [Box](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../box/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -66,7 +66,7 @@ public Box(string name, double length, double width, double height, int lengthSe
 ### See Also
 
 * class [Box](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../box/)
 * assembly [Aspose.3D](../../../)
 
 

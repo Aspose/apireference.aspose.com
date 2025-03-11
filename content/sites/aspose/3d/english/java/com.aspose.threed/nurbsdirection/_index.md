@@ -3,7 +3,7 @@ title: NurbsDirection
 second_title: Aspose.3D for Java API Reference
 description: A 3D  has two direction the  and  the  defines data for each direction.
 type: docs
-weight: 103
+weight: 109
 url: /java/com.aspose.threed/nurbsdirection/
 ---
 
@@ -82,7 +82,7 @@ public int getCount()
 Gets the count of control points in current direction.
 
 **Returns:**
-int
+int - the count of control points in current direction.
 ### getDivisions() {#getDivisions--}
 ```
 public int getDivisions()
@@ -92,7 +92,7 @@ public int getDivisions()
 Gets the number of divisions between adjacent control points in current direction.
 
 **Returns:**
-int
+int - the number of divisions between adjacent control points in current direction.
 ### getKnotVectors() {#getKnotVectors--}
 ```
 public List<Double> getKnotVectors()
@@ -102,7 +102,7 @@ public List<Double> getKnotVectors()
 Gets the knot vector, it is a sequence of parameter values that determines where and how the control points affect the NURBS curve.
 
 **Returns:**
-java.util.List<java.lang.Double>
+java.util.List<java.lang.Double> - the knot vector, it is a sequence of parameter values that determines where and how the control points affect the NURBS curve.
 ### getMultiplicity() {#getMultiplicity--}
 ```
 public List<Integer> getMultiplicity()
@@ -112,7 +112,7 @@ public List<Integer> getMultiplicity()
 Gets the multiplicity.
 
 **Returns:**
-java.util.List<java.lang.Integer>
+java.util.List<java.lang.Integer> - the multiplicity.
 ### getOrder() {#getOrder--}
 ```
 public int getOrder()
@@ -122,7 +122,7 @@ public int getOrder()
 Gets the order of a NURBS curve, it defines the number of nearby control points that influence any given point on the curve.
 
 **Returns:**
-int
+int - the order of a NURBS curve, it defines the number of nearby control points that influence any given point on the curve.
 ### getType() {#getType--}
 ```
 public NurbsType getType()
@@ -132,7 +132,7 @@ public NurbsType getType()
 Gets the type of the current direction.
 
 **Returns:**
-[NurbsType](../../com.aspose.threed/nurbstype)
+[NurbsType](../../com.aspose.threed/nurbstype) - the type of the current direction.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

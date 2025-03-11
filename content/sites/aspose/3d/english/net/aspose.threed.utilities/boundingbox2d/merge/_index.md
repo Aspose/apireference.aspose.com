@@ -16,13 +16,13 @@ public void Merge(Vector2 pt)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pt | Vector2 |  |
+| pt | Vector2 | The point to merge |
 
 ### See Also
 
 * struct [Vector2](../../vector2/)
 * struct [BoundingBox2D](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox2d/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -37,12 +37,12 @@ public void Merge(BoundingBox2D bb)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bb | BoundingBox2D |  |
+| bb | BoundingBox2D | The bounding box to merge |
 
 ### See Also
 
 * struct [BoundingBox2D](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox2d/)
 * assembly [Aspose.3D](../../../)
 
 

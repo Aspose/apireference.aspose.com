@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vector3/angle_between/
 is_root: false
 ---
 
-## angle_between {#aspose.threed.utilities.Vector3}
+## angle_between(self, dir) {#aspose.threed.utilities.Vector3}
 
 Calculate the inner angle between two direction
 Two direction can be non-normalized vectors
@@ -21,6 +21,7 @@ inner angle in radian
 
 
 ```python
+
 def angle_between(self, dir):
     ...
 ```
@@ -31,7 +32,7 @@ def angle_between(self, dir):
 | dir | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The direction vector to compare with |
 
 
-## angle_between {#aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3}
+## angle_between(self, dir, up) {#aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3}
 
 Calculate the inner angle between two direction
 Two direction can be non-normalized vectors
@@ -44,6 +45,7 @@ inner angle in radian
 
 
 ```python
+
 def angle_between(self, dir, up):
     ...
 ```

@@ -14,7 +14,7 @@ Gets or sets the factory class for FileSystem. The default factory will create L
 public static FileSystemFactory FileSystemFactory { get; set; }
 ```
 
-### Examples
+## Examples
 
 The default FileSystem in SaveOptions/LoadOptions is directory-based file system, You can override the default implementation by specify it through IOConfig.FileSystemFactory:
 
@@ -40,7 +40,7 @@ scene.Save(output, opt);
 
 * delegate [FileSystemFactory](../../filesystemfactory/)
 * class [IOConfig](../)
-* namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
+* namespace [Aspose.ThreeD.Formats](../../ioconfig/)
 * assembly [Aspose.3D](../../../)
 
 

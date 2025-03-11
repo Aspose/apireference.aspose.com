@@ -3,7 +3,7 @@ title: MathUtils
 second_title: Aspose.3D for Java API Reference
 description: A set of useful mathematical utilities.
 type: docs
-weight: 93
+weight: 95
 url: /java/com.aspose.threed/mathutils/
 ---
 
@@ -18,12 +18,16 @@ A set of useful mathematical utilities.
 
 | Method | Description |
 | --- | --- |
+| [calcNormal(Vector3[] points)](#calcNormal-com.aspose.threed.Vector3---) |  |
 | [clamp(double val, double min, double max)](#clamp-double-double-double-) | Clamp value to range [min, max] |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [findIntersection(Vector2 p0, Vector2 d0, Vector2 p1, Vector2 d1, Vector2[] results)](#findIntersection-com.aspose.threed.Vector2-com.aspose.threed.Vector2-com.aspose.threed.Vector2-com.aspose.threed.Vector2-com.aspose.threed.Vector2---) |  |
 | [getClass()](#getClass--) |  |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [pointInsideTriangle(Vector2 p, Vector2 p0, Vector2 p1, Vector2 p2)](#pointInsideTriangle-com.aspose.threed.Vector2-com.aspose.threed.Vector2-com.aspose.threed.Vector2-com.aspose.threed.Vector2-) | Check if point p is inside triangle (p0, p1, p2) |
+| [rayIntersect(Vector2 origin, Vector2 dir, Vector2 a, Vector2 b)](#rayIntersect-com.aspose.threed.Vector2-com.aspose.threed.Vector2-com.aspose.threed.Vector2-com.aspose.threed.Vector2-) | Check if ray (origin, dir) intersects with line segment(start, end) |
 | [toDegree(Vector3 radian)](#toDegree-com.aspose.threed.Vector3-) | Convert a [Vector3](../../com.aspose.threed/vector3) from radian to degree. |
 | [toDegree(double radian)](#toDegree-double-) | Convert a number from radian to degree |
 | [toDegree(double x, double y, double z)](#toDegree-double-double-double-) | Convert a number from radian to degree |
@@ -36,6 +40,21 @@ A set of useful mathematical utilities.
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### calcNormal(Vector3[] points) {#calcNormal-com.aspose.threed.Vector3---}
+```
+public static Vector3 calcNormal(Vector3[] points)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| points | [Vector3\[\]](../../com.aspose.threed/vector3) |  |
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
 ### clamp(double val, double min, double max) {#clamp-double-double-double-}
 ```
 public static double clamp(double val, double min, double max)
@@ -76,6 +95,25 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### findIntersection(Vector2 p0, Vector2 d0, Vector2 p1, Vector2 d1, Vector2[] results) {#findIntersection-com.aspose.threed.Vector2-com.aspose.threed.Vector2-com.aspose.threed.Vector2-com.aspose.threed.Vector2-com.aspose.threed.Vector2---}
+```
+public static int findIntersection(Vector2 p0, Vector2 d0, Vector2 p1, Vector2 d1, Vector2[] results)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| p0 | [Vector2](../../com.aspose.threed/vector2) |  |
+| d0 | [Vector2](../../com.aspose.threed/vector2) |  |
+| p1 | [Vector2](../../com.aspose.threed/vector2) |  |
+| d1 | [Vector2](../../com.aspose.threed/vector2) |  |
+| results | [Vector2\[\]](../../com.aspose.threed/vector2) |  |
+
+**Returns:**
+int
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -112,6 +150,42 @@ public final native void notifyAll()
 
 
 
+### pointInsideTriangle(Vector2 p, Vector2 p0, Vector2 p1, Vector2 p2) {#pointInsideTriangle-com.aspose.threed.Vector2-com.aspose.threed.Vector2-com.aspose.threed.Vector2-com.aspose.threed.Vector2-}
+```
+public static boolean pointInsideTriangle(Vector2 p, Vector2 p0, Vector2 p1, Vector2 p2)
+```
+
+
+Check if point p is inside triangle (p0, p1, p2)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| p | [Vector2](../../com.aspose.threed/vector2) |  |
+| p0 | [Vector2](../../com.aspose.threed/vector2) |  |
+| p1 | [Vector2](../../com.aspose.threed/vector2) |  |
+| p2 | [Vector2](../../com.aspose.threed/vector2) |  |
+
+**Returns:**
+boolean
+### rayIntersect(Vector2 origin, Vector2 dir, Vector2 a, Vector2 b) {#rayIntersect-com.aspose.threed.Vector2-com.aspose.threed.Vector2-com.aspose.threed.Vector2-com.aspose.threed.Vector2-}
+```
+public static Vector2 rayIntersect(Vector2 origin, Vector2 dir, Vector2 a, Vector2 b)
+```
+
+
+Check if ray (origin, dir) intersects with line segment(start, end)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| origin | [Vector2](../../com.aspose.threed/vector2) |  |
+| dir | [Vector2](../../com.aspose.threed/vector2) |  |
+| a | [Vector2](../../com.aspose.threed/vector2) |  |
+| b | [Vector2](../../com.aspose.threed/vector2) |  |
+
+**Returns:**
+[Vector2](../../com.aspose.threed/vector2)
 ### toDegree(Vector3 radian) {#toDegree-com.aspose.threed.Vector3-}
 ```
 public static Vector3 toDegree(Vector3 radian)

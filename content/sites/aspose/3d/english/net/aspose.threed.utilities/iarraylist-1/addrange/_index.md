@@ -15,7 +15,7 @@ public void AddRange(IList<T> list)
 ### See Also
 
 * interface [IArrayList&lt;T&gt;](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../iarraylist-1/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -29,7 +29,7 @@ public void AddRange(IEnumerable<T> collection)
 ### See Also
 
 * interface [IArrayList&lt;T&gt;](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../iarraylist-1/)
 * assembly [Aspose.3D](../../../)
 
 

@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.entities/vertexelement/clear/
 is_root: false
 ---
 
-## clear {#}
+## clear(self) {#}
 
 Clears all the data from this vertex element.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

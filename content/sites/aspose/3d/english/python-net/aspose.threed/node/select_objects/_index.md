@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/node/select_objects/
 is_root: false
 ---
 
-## select_objects {#str}
+## select_objects(self, path) {#str}
 
 Select multiple objects under current node using XPath-like query syntax.
 
@@ -16,10 +16,11 @@ Select multiple objects under current node using XPath-like query syntax.
 ### Returns 
 
 
-
+Multiple object matches the XPath-like query.
 
 
 ```python
+
 def select_objects(self, path):
     ...
 ```
@@ -27,7 +28,7 @@ def select_objects(self, path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| path | str |  |
+| path | str | The XPath-like query |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

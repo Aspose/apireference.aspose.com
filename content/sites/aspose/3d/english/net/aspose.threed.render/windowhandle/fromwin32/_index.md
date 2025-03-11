@@ -21,7 +21,7 @@ public static WindowHandle FromWin32(IntPtr hWnd)
 ### See Also
 
 * class [WindowHandle](../)
-* namespace [Aspose.ThreeD.Render](../../../aspose.threed.render/)
+* namespace [Aspose.ThreeD.Render](../../windowhandle/)
 * assembly [Aspose.3D](../../../)
 
 

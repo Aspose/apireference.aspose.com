@@ -17,7 +17,7 @@ public IList<AnimationNode> SubAnimations { get; }
 ### See Also
 
 * class [AnimationNode](../)
-* namespace [Aspose.ThreeD.Animation](../../../aspose.threed.animation/)
+* namespace [Aspose.ThreeD.Animation](../../animationnode/)
 * assembly [Aspose.3D](../../../)
 
 

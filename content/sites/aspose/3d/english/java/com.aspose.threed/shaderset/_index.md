@@ -3,7 +3,7 @@ title: ShaderSet
 second_title: Aspose.3D for Java API Reference
 description: Shader programs for each kind of materials
 type: docs
-weight: 156
+weight: 162
 url: /java/com.aspose.threed/shaderset/
 ---
 
@@ -94,7 +94,7 @@ public ShaderProgram getFallback()
 Gets the fallback shader when required shader is unavailable
 
 **Returns:**
-[ShaderProgram](../../com.aspose.threed/shaderprogram)
+[ShaderProgram](../../com.aspose.threed/shaderprogram) - the fallback shader when required shader is unavailable
 ### getLambert() {#getLambert--}
 ```
 public ShaderProgram getLambert()
@@ -104,7 +104,7 @@ public ShaderProgram getLambert()
 Gets the shader that used to render the lambert material
 
 **Returns:**
-[ShaderProgram](../../com.aspose.threed/shaderprogram)
+[ShaderProgram](../../com.aspose.threed/shaderprogram) - the shader that used to render the lambert material
 ### getPbr() {#getPbr--}
 ```
 public ShaderProgram getPbr()
@@ -114,7 +114,7 @@ public ShaderProgram getPbr()
 Gets the shader that used to render the PBR material
 
 **Returns:**
-[ShaderProgram](../../com.aspose.threed/shaderprogram)
+[ShaderProgram](../../com.aspose.threed/shaderprogram) - the shader that used to render the PBR material
 ### getPhong() {#getPhong--}
 ```
 public ShaderProgram getPhong()
@@ -124,7 +124,7 @@ public ShaderProgram getPhong()
 Gets the shader that used to render the phong material
 
 **Returns:**
-[ShaderProgram](../../com.aspose.threed/shaderprogram)
+[ShaderProgram](../../com.aspose.threed/shaderprogram) - the shader that used to render the phong material
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

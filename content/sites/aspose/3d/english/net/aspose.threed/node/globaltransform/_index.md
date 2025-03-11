@@ -18,7 +18,7 @@ public GlobalTransform GlobalTransform { get; }
 
 The global transform.
 
-### Examples
+## Examples
 
 The following code shows how to read node's global transform
 
@@ -35,7 +35,7 @@ Console.WriteLine($"The box's position in world coordinate is {global.Translatio
 
 * class [GlobalTransform](../../globaltransform/)
 * class [Node](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../node/)
 * assembly [Aspose.3D](../../../)
 
 

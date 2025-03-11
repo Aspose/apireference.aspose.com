@@ -17,7 +17,7 @@ public int OffsetHeight { get; set; }
 ### See Also
 
 * struct [RelativeRectangle](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../relativerectangle/)
 * assembly [Aspose.3D](../../../)
 
 

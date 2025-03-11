@@ -14,7 +14,7 @@ Gets the extension name of this type.
 public string Extension { get; }
 ```
 
-### Examples
+## Examples
 
 ```csharp
 var format = FileFormat.MayaBinary;
@@ -24,7 +24,7 @@ Console.WriteLine($"Extension of {format} is {format.Extension}");
 ### See Also
 
 * class [FileFormat](../)
-* namespace [Aspose.ThreeD](../../../aspose.threed/)
+* namespace [Aspose.ThreeD](../../fileformat/)
 * assembly [Aspose.3D](../../../)
 
 

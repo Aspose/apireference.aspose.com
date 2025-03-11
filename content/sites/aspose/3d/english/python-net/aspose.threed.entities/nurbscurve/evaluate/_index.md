@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/nurbscurve/evaluate/
 is_root: false
 ---
 
-## evaluate {#int}
+## evaluate(self, steps) {#int}
 
 Evaluate the NURBS curve
 
@@ -20,6 +20,7 @@ Points in the curve
 
 
 ```python
+
 def evaluate(self, steps):
     ...
 ```

@@ -3,7 +3,7 @@ title: Class GlobalTransform
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.GlobalTransform class. Global transform is similar to Transform but its immutable while it represents the final evaluated transformation. Righthand coordinate system is used while evaluating global transform
 type: docs
-weight: 290
+weight: 1470
 url: /net/aspose.threed/globaltransform/
 ---
 ## GlobalTransform class
@@ -24,7 +24,7 @@ public class GlobalTransform
 | [TransformMatrix](../../aspose.threed/globaltransform/transformmatrix/) { get; } | Gets the transform matrix. |
 | [Translation](../../aspose.threed/globaltransform/translation/) { get; } | Gets the translation |
 
-### Examples
+## Examples
 
 The following code shows how to read node's global transform
 

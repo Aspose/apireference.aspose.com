@@ -21,7 +21,7 @@ public Primitive(string name)
 ### See Also
 
 * class [Primitive](../)
-* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* namespace [Aspose.ThreeD.Entities](../../primitive/)
 * assembly [Aspose.3D](../../../)
 
 

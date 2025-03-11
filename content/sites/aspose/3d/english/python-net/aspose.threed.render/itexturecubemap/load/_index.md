@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.render/itexturecubemap/load/
 is_root: false
 ---
 
-## load {#aspose.threed.render.CubeFace-aspose.threed.render.TextureData}
+## load(self, face, data) {#aspose.threed.render.CubeFace-aspose.threed.render.TextureData}
 
 Load the data into specified face
 
 
 
 ```python
+
 def load(self, face, data):
     ...
 ```

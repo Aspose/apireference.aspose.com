@@ -8,13 +8,14 @@ url: /python-net/aspose.threed.entities/camera/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`Camera`](/3d/python-net/aspose.threed.entities/camera) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.threed.entities.ProjectionType}
+## \_\_init\_\_(self, projection_type) {#aspose.threed.entities.ProjectionType}
 
 Initializes a new instance of the [`Camera`](/3d/python-net/aspose.threed.entities/camera) class.
 
 
 
 ```python
+
 def __init__(self, projection_type):
     ...
 ```
@@ -39,13 +41,14 @@ def __init__(self, projection_type):
 | projection_type | [`ProjectionType`](/3d/python-net/aspose.threed.entities/projectiontype) | Projection type. |
 
 
-## __init__ {#str}
+## \_\_init\_\_(self, name) {#str}
 
 Initializes a new instance of the [`Camera`](/3d/python-net/aspose.threed.entities/camera) class.
 
 
 
 ```python
+
 def __init__(self, name):
     ...
 ```
@@ -56,13 +59,14 @@ def __init__(self, name):
 | name | str | Name. |
 
 
-## __init__ {#str-aspose.threed.entities.ProjectionType}
+## \_\_init\_\_(self, name, projection_type) {#str-aspose.threed.entities.ProjectionType}
 
 Initializes a new instance of the [`Camera`](/3d/python-net/aspose.threed.entities/camera) class.
 
 
 
 ```python
+
 def __init__(self, name, projection_type):
     ...
 ```

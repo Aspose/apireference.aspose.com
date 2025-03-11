@@ -12,6 +12,10 @@ is_root: false
 
 
 The infinite bounding box
+### Definition:
+```python
+f INFINITE 
+```
 
 ### See Also
 * module [`aspose.threed.utilities`](../../)

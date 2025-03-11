@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/parameterizedprofile/get_extent/
 is_root: false
 ---
 
-## get_extent {#}
+## get_extent(self) {#}
 
 Gets the extent in x and y dimension.
 
@@ -16,10 +16,11 @@ Gets the extent in x and y dimension.
 ### Returns 
 
 
-
+The extent of the profile
 
 
 ```python
+
 def get_extent(self):
     ...
 ```

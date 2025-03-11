@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.shading/material/get_property/
 is_root: false
 ---
 
-## get_property {#str}
+## get_property(self, property) {#str}
 
 Get the value of specified property
 
@@ -20,6 +20,7 @@ The value of the found property
 
 
 ```python
+
 def get_property(self, property):
     ...
 ```

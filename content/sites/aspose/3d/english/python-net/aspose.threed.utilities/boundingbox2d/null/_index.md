@@ -12,6 +12,10 @@ is_root: false
 
 
 The null bounding box
+### Definition:
+```python
+f NULL 
+```
 
 ### See Also
 * module [`aspose.threed.utilities`](../../)

@@ -3,7 +3,7 @@ title: Transform
 second_title: Aspose.3D for Java API Reference
 description: A transform contains information that allow access to objects translate/scale/rotation or transform matrix at minimum cost  This is used by local transform.
 type: docs
-weight: 177
+weight: 185
 url: /java/com.aspose.threed/transform/
 ---
 
@@ -28,24 +28,23 @@ Scene scene = new Scene();
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [findProperty(String propertyName)](#findProperty-java.lang.String-) | Finds the property. |
 | [getClass()](#getClass--) |  |
-| [getEulerAngles()](#getEulerAngles--) | Gets the rotation represented in Euler angles, measured in degree **Example:** |
+| [getEulerAngles()](#getEulerAngles--) | Gets the rotation represented in Euler angles, measured in degree |
 | [getGeometricRotation()](#getGeometricRotation--) | Gets the geometric Euler rotation(measured in degree). |
 | [getGeometricScaling()](#getGeometricScaling--) | Gets the geometric scaling. |
 | [getGeometricTranslation()](#getGeometricTranslation--) | Gets the geometric translation. |
 | [getName()](#getName--) | Gets the name. |
-| [getPostRotation()](#getPostRotation--) | Gets the post-rotation represented in degree **Example:** |
-| [getPreRotation()](#getPreRotation--) | Gets the pre-rotation represented in degree **Example:** |
+| [getPostRotation()](#getPostRotation--) | Gets the post-rotation represented in degree |
+| [getPreRotation()](#getPreRotation--) | Gets the pre-rotation represented in degree |
 | [getProperties()](#getProperties--) | Gets the collection of all properties. |
 | [getProperty(String property)](#getProperty-java.lang.String-) | Get the value of specified property |
 | [getRotation()](#getRotation--) | Gets the rotation represented in quaternion. |
 | [getRotationOffset()](#getRotationOffset--) | Gets the rotation offset |
 | [getRotationPivot()](#getRotationPivot--) | Gets the rotation pivot |
-| [getScale()](#getScale--) | Gets the scale |
-| [getScaling()](#getScaling--) | Gets the scaling **Example:** |
+| [getScaling()](#getScaling--) | Gets the scaling |
 | [getScalingOffset()](#getScalingOffset--) | Gets the scaling offset |
 | [getScalingPivot()](#getScalingPivot--) | Gets the scaling pivot |
 | [getTransformMatrix()](#getTransformMatrix--) | Gets the transform matrix. |
-| [getTranslation()](#getTranslation--) | Gets the translation **Example:** |
+| [getTranslation()](#getTranslation--) | Gets the translation |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
@@ -69,7 +68,6 @@ Scene scene = new Scene();
 | [setRotation(double rw, double rx, double ry, double rz)](#setRotation-double-double-double-double-) | Sets the rotation(as quaternion components) of current transform. |
 | [setRotationOffset(Vector3 value)](#setRotationOffset-com.aspose.threed.Vector3-) | Sets the rotation offset |
 | [setRotationPivot(Vector3 value)](#setRotationPivot-com.aspose.threed.Vector3-) | Sets the rotation pivot |
-| [setScale(Vector3 value)](#setScale-com.aspose.threed.Vector3-) | Sets the scale |
 | [setScale(double sx, double sy, double sz)](#setScale-double-double-double-) | Sets the scale of current transform. |
 | [setScaling(Vector3 value)](#setScaling-com.aspose.threed.Vector3-) | Sets the scaling |
 | [setScalingOffset(Vector3 value)](#setScalingOffset-com.aspose.threed.Vector3-) | Sets the scaling offset |
@@ -127,15 +125,15 @@ public Vector3 getEulerAngles()
 ```
 
 
-Gets the rotation represented in Euler angles, measured in degree **Example:**
+Gets the rotation represented in Euler angles, measured in degree
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3) - the rotation represented in Euler angles, measured in degree **Example:**
 
 ```
 Node node = new Node();
      node.getTransform().setEulerAngles(new Vector3(90, 0, 0));
 ```
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
 ### getGeometricRotation() {#getGeometricRotation--}
 ```
 public Vector3 getGeometricRotation()
@@ -145,37 +143,37 @@ public Vector3 getGeometricRotation()
 Gets the geometric Euler rotation(measured in degree). Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it.
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the geometric Euler rotation(measured in degree). Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it.
 ### getGeometricScaling() {#getGeometricScaling--}
 ```
 public Vector3 getGeometricScaling()
 ```
 
 
-Gets the geometric scaling. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it. **Example:**
+Gets the geometric scaling. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it.
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3) - the geometric scaling. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it. **Example:**
 
 ```
 Node node = new Node();
      node.getTransform.setGeometricScaling(new Vector3(2, 2, 2));
 ```
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
 ### getGeometricTranslation() {#getGeometricTranslation--}
 ```
 public Vector3 getGeometricTranslation()
 ```
 
 
-Gets the geometric translation. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it. **Example:**
+Gets the geometric translation. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it.
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3) - the geometric translation. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it. **Example:**
 
 ```
 Node node = new Node();
      node.getTransform().setGeometricTranslation(new Vector3(10, 0, 0));
 ```
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
 ### getName() {#getName--}
 ```
 public String getName()
@@ -185,37 +183,37 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getPostRotation() {#getPostRotation--}
 ```
 public Vector3 getPostRotation()
 ```
 
 
-Gets the post-rotation represented in degree **Example:**
+Gets the post-rotation represented in degree
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3) - the post-rotation represented in degree **Example:**
 
 ```
 Node node = new Node();
      node.getTransform().setPostRotation(new Vector3(90, 0, 0));
 ```
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
 ### getPreRotation() {#getPreRotation--}
 ```
 public Vector3 getPreRotation()
 ```
 
 
-Gets the pre-rotation represented in degree **Example:**
+Gets the pre-rotation represented in degree
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3) - the pre-rotation represented in degree **Example:**
 
 ```
 Node node = new Node();
      node.getTransform().setPreRotation(new Vector3(90, 0, 0));
 ```
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -225,7 +223,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -247,15 +245,15 @@ public Quaternion getRotation()
 ```
 
 
-Gets the rotation represented in quaternion. **Example:**
+Gets the rotation represented in quaternion.
+
+**Returns:**
+[Quaternion](../../com.aspose.threed/quaternion) - the rotation represented in quaternion. **Example:**
 
 ```
 Node node = new Node();
      node.getTransform().setRotation(new Quaternion(1, 0, 0, 0));
 ```
-
-**Returns:**
-[Quaternion](../../com.aspose.threed/quaternion)
 ### getRotationOffset() {#getRotationOffset--}
 ```
 public Vector3 getRotationOffset()
@@ -265,7 +263,7 @@ public Vector3 getRotationOffset()
 Gets the rotation offset
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the rotation offset
 ### getRotationPivot() {#getRotationPivot--}
 ```
 public Vector3 getRotationPivot()
@@ -275,32 +273,22 @@ public Vector3 getRotationPivot()
 Gets the rotation pivot
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
-### getScale() {#getScale--}
-```
-public Vector3 getScale()
-```
-
-
-Gets the scale
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the rotation pivot
 ### getScaling() {#getScaling--}
 ```
 public Vector3 getScaling()
 ```
 
 
-Gets the scaling **Example:**
+Gets the scaling
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3) - the scaling **Example:**
 
 ```
 Node node = new Node();
      node.getTransform().setScaling(new Vector3(2, 2, 2));
 ```
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
 ### getScalingOffset() {#getScalingOffset--}
 ```
 public Vector3 getScalingOffset()
@@ -310,7 +298,7 @@ public Vector3 getScalingOffset()
 Gets the scaling offset
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the scaling offset
 ### getScalingPivot() {#getScalingPivot--}
 ```
 public Vector3 getScalingPivot()
@@ -320,37 +308,37 @@ public Vector3 getScalingPivot()
 Gets the scaling pivot
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the scaling pivot
 ### getTransformMatrix() {#getTransformMatrix--}
 ```
 public Matrix4 getTransformMatrix()
 ```
 
 
-Gets the transform matrix. **Remarks:** Assign on this will reset the [getTranslation](../../com.aspose.threed/transform\#getTranslation), [getScale](../../com.aspose.threed/transform\#getScale) and [getRotation](../../com.aspose.threed/transform\#getRotation), the [getGeometricRotation](../../com.aspose.threed/transform\#getGeometricRotation), [getGeometricScaling](../../com.aspose.threed/transform\#getGeometricScaling) and [getGeometricTranslation](../../com.aspose.threed/transform\#getGeometricTranslation) will not be affected. **Example:**
+Gets the transform matrix.
+
+**Returns:**
+[Matrix4](../../com.aspose.threed/matrix4) - the transform matrix. **Remarks:** Assign on this will reset the [getTranslation](../../com.aspose.threed/transform\#getTranslation), [getScaling](../../com.aspose.threed/transform\#getScaling) and [getRotation](../../com.aspose.threed/transform\#getRotation), the [getGeometricRotation](../../com.aspose.threed/transform\#getGeometricRotation), [getGeometricScaling](../../com.aspose.threed/transform\#getGeometricScaling) and [getGeometricTranslation](../../com.aspose.threed/transform\#getGeometricTranslation) will not be affected. **Example:**
 
 ```
 Node node = new Node();
      node.getTransform().setTransformMatrix(Matrix4.getIdentity());
 ```
-
-**Returns:**
-[Matrix4](../../com.aspose.threed/matrix4)
 ### getTranslation() {#getTranslation--}
 ```
 public Vector3 getTranslation()
 ```
 
 
-Gets the translation **Example:**
+Gets the translation
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3) - the translation **Example:**
 
 ```
 Node node = new Node();
      node.getTransform().setTranslation(new Vector3(10, 0, 0));
 ```
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -403,10 +391,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setEulerAngles(Vector3 value) {#setEulerAngles-com.aspose.threed.Vector3-}
 ```
 public void setEulerAngles(Vector3 value)
@@ -736,19 +724,6 @@ Sets the rotation pivot
 | --- | --- | --- |
 | value | [Vector3](../../com.aspose.threed/vector3) | New value |
 
-### setScale(Vector3 value) {#setScale-com.aspose.threed.Vector3-}
-```
-public void setScale(Vector3 value)
-```
-
-
-Sets the scale
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Vector3](../../com.aspose.threed/vector3) | New value |
-
 ### setScale(double sx, double sy, double sz) {#setScale-double-double-double-}
 ```
 public Transform setScale(double sx, double sy, double sz)
@@ -826,7 +801,7 @@ Sets the transform matrix.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Matrix4](../../com.aspose.threed/matrix4) | New value **Remarks:** Assign on this will reset the [getTranslation](../../com.aspose.threed/transform\#getTranslation), [getScale](../../com.aspose.threed/transform\#getScale) and [getRotation](../../com.aspose.threed/transform\#getRotation), the [getGeometricRotation](../../com.aspose.threed/transform\#getGeometricRotation), [getGeometricScaling](../../com.aspose.threed/transform\#getGeometricScaling) and [getGeometricTranslation](../../com.aspose.threed/transform\#getGeometricTranslation) will not be affected. **Example:**
+| value | [Matrix4](../../com.aspose.threed/matrix4) | New value **Remarks:** Assign on this will reset the [getTranslation](../../com.aspose.threed/transform\#getTranslation), [getScaling](../../com.aspose.threed/transform\#getScaling) and [getRotation](../../com.aspose.threed/transform\#getRotation), the [getGeometricRotation](../../com.aspose.threed/transform\#getGeometricRotation), [getGeometricScaling](../../com.aspose.threed/transform\#getGeometricScaling) and [getGeometricTranslation](../../com.aspose.threed/transform\#getGeometricTranslation) will not be affected. **Example:**
 
 ```
 Node node = new Node();

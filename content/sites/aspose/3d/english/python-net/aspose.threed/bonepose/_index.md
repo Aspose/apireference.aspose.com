@@ -19,7 +19,7 @@ The BonePose type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/3d/python-net/aspose.threed/bonepose/__init__/#) | Constructs a new instance of BonePose |
+| [`__init__(self)`](/3d/python-net/aspose.threed/bonepose/__init__/#) | Constructs a new instance of BonePose |
 
 
 ### Properties

@@ -8,13 +8,14 @@ url: /python-net/aspose.threed/scene/open/
 is_root: false
 ---
 
-## open {#io.RawIOBase}
+## open(self, stream) {#io.RawIOBase}
 
 Opens the scene from given stream
 
 
 
 ```python
+
 def open(self, stream):
     ...
 ```
@@ -23,6 +24,13 @@ def open(self, stream):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | Input stream, user is responsible for closing the stream. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ImportException`](/3d/python-net/aspose.threed/importexception) | Thrown when input is not a valid 3D format |
+
+
 
 ### Example 
 
@@ -39,13 +47,14 @@ with open("input.fbx", "rb") as stream:
 ```
 
 
-## open {#str}
+## open(self, file_name) {#str}
 
 Opens the scene from given path
 
 
 
 ```python
+
 def open(self, file_name):
     ...
 ```
@@ -54,6 +63,13 @@ def open(self, file_name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_name | str | File name. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ImportException`](/3d/python-net/aspose.threed/importexception) | Thrown when input is not a valid 3D format |
+
+
 
 ### Example 
 
@@ -69,13 +85,14 @@ scene.open("input.fbx")
 ```
 
 
-## open {#str-aspose.threed.formats.LoadOptions}
+## open(self, file_name, options) {#str-aspose.threed.formats.LoadOptions}
 
 Opens the scene from given path using specified file format.
 
 
 
 ```python
+
 def open(self, file_name, options):
     ...
 ```
@@ -85,6 +102,13 @@ def open(self, file_name, options):
 | :- | :- | :- |
 | file_name | str | File name. |
 | options | aspose.threed.formats.LoadOptions | More detailed configuration to open the stream. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ImportException`](/3d/python-net/aspose.threed/importexception) | Thrown when input is not a valid 3D format |
+
+
 
 ### Example 
 
@@ -106,4 +130,5 @@ scene.open("input.fbx", opts)
 
 ### See Also
 * module [`aspose.threed`](../../)
+* class [`ImportException`](/3d/python-net/aspose.threed/importexception)
 * class [`Scene`](/3d/python-net/aspose.threed/scene)

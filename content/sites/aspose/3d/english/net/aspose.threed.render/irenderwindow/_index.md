@@ -3,7 +3,7 @@ title: Interface IRenderWindow
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.IRenderWindow interface. IRenderWindow represents the native window created by operating system that supports rendering
 type: docs
-weight: 580
+weight: 2000
 url: /net/aspose.threed.render/irenderwindow/
 ---
 ## IRenderWindow interface

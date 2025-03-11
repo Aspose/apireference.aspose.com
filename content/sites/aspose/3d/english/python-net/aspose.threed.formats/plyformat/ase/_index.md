@@ -12,7 +12,12 @@ is_root: false
 
 
 3D Studio Max's ASCII Scene Exporter format.
+### Definition:
+```python
+f ASE 
+```
 
 ### See Also
 * module [`aspose.threed.formats`](../../)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)
 * class [`PlyFormat`](/3d/python-net/aspose.threed.formats/plyformat)

@@ -18,7 +18,7 @@ public static Matrix4 Scale(Vector3 s)
 | --- | --- | --- |
 | s | Vector3 | Scaling factories applies to the x-axis, the y-axis and the z-axis |
 
-### Examples
+## Examples
 
 The following code shows how to create a matrix for scale operation.
 
@@ -32,7 +32,7 @@ Console.WriteLine($"Transformed: {t * pos}");
 
 * struct [Vector3](../../vector3/)
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -49,7 +49,7 @@ public static Matrix4 Scale(double s)
 | --- | --- | --- |
 | s | Double | Scaling factories applies to all axex |
 
-### Examples
+## Examples
 
 The following code shows how to create a matrix for scale operation.
 
@@ -62,7 +62,7 @@ Console.WriteLine($"Transformed: {t * pos}");
 ### See Also
 
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 ---
@@ -81,7 +81,7 @@ public static Matrix4 Scale(double sx, double sy, double sz)
 | sy | Double | Scaling factories applies to the y-axis |
 | sz | Double | Scaling factories applies to the z-axis |
 
-### Examples
+## Examples
 
 The following code shows how to create a matrix for scale operation.
 
@@ -94,7 +94,7 @@ Console.WriteLine($"Transformed: {t * pos}");
 ### See Also
 
 * struct [Matrix4](../)
-* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* namespace [Aspose.ThreeD.Utilities](../../matrix4/)
 * assembly [Aspose.3D](../../../)
 
 
