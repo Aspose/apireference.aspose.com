@@ -1,4 +1,5 @@
-rewrite ^/tutorials(.*) https://tutorials2.aspose.com/$1 permanent;
+rewrite /tutorials/ https://tutorials2.aspose.com/ permanent;
+rewrite ^/tutorials/(.*) https://tutorials2.aspose.com/$1 permanent;
 rewrite ^/examples(.*) https://tutorials2.aspose.com/$1 permanent;
 rewrite ^/tutorials/([a-z]{2})/(words|pdf)(.*) https://tutorials2.aspose.com/$2/$1$3 permanent;
 rewrite ^/slides/([a-z]{2})/(net)(.*) https://reference2.aspose.com/slides/$2/$1$3 permanent;
