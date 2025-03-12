@@ -3,7 +3,7 @@ title: Class FontAgrumentException
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Exceptions.FontAgrumentException class. Represents Font argument exception. The exception can be thrown in case improper agrument usages
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.font.exceptions/fontagrumentexception/
 ---
 ## FontAgrumentException class

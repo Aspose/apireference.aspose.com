@@ -3,7 +3,7 @@ title: Class FontCreationException
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Exceptions.FontCreationException class. Represents Font creation exception. The exception can be thrown in case errors during font creation process
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.font.exceptions/fontcreationexception/
 ---
 ## FontCreationException class

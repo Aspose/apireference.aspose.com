@@ -14,6 +14,7 @@ The **Aspose.Font.CffDataProviders** namespace provides classes used to retrieve
 | --- | --- |
 | [NameIndexDataProvider](./nameindexdataprovider/) | Declares functionality to access CFF Name INDEX structure. |
 | [StringIndexDataProvider](./stringindexdataprovider/) | Declares functionality to access CFF String INDEX structure. |
+| [TopDictDataProvider](./topdictdataprovider/) | Declares functionality to read/update CFF Top DICT structure. |
 ## Interfaces
 
 | Interface | Description |

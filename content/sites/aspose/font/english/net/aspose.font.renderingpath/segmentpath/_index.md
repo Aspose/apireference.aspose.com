@@ -3,7 +3,7 @@ title: Class SegmentPath
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.RenderingPath.SegmentPath class. Represents rendering path
 type: docs
-weight: 660
+weight: 670
 url: /net/aspose.font.renderingpath/segmentpath/
 ---
 ## SegmentPath class

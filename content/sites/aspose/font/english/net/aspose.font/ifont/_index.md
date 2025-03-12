@@ -3,7 +3,7 @@ title: Interface IFont
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.IFont interface. Declares common functionality for all font formats. Implemented by Font classes
 type: docs
-weight: 440
+weight: 450
 url: /net/aspose.font/ifont/
 ---
 ## IFont interface
