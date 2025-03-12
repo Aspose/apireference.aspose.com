@@ -3,7 +3,7 @@ title: Class TextUtilsFactory
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Factories.TextUtilsFactory class. Provides functionality for retrieving creators of text service objects
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.font.factories/textutilsfactory/
 ---
 ## TextUtilsFactory class

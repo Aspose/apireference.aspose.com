@@ -34,6 +34,7 @@ public class CffFont : Font
 | override [NumGlyphs](../../aspose.font.cff/cfffont/numglyphs/) { get; } | Gets number of glyphs in the Font. |
 | override [PostscriptNames](../../aspose.font.cff/cfffont/postscriptnames/) { get; } | Gets postscript Font names. |
 | override [Style](../../aspose.font.cff/cfffont/style/) { get; set; } | Gets or sets Font style. This is a raw string value provided by Font file. |
+| [TopDictDataProvider](../../aspose.font.cff/cfffont/topdictdataprovider/) { get; } | Gets accessor for the first top-level DICT in Top DICT INDEX structure. |
 
 ## Methods
 

@@ -3,7 +3,7 @@ title: Class Type1Font
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Type1.Type1Font class. Represents Type1 Font
 type: docs
-weight: 1420
+weight: 1430
 url: /net/aspose.font.type1/type1font/
 ---
 ## Type1Font class

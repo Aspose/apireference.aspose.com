@@ -3,7 +3,7 @@ title: CffFont.GetGlyphById
 second_title: Aspose.Font for .NET API Reference
 description: CffFont method. Returns glyph by glyph id. Glyph id is a unique number for a glyph which is font type dependent. CFF Font glyph id can be instance of GlyphStringId class or GlyphUInt32Id class
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.font.cff/cfffont/getglyphbyid/
 ---
 ## GetGlyphById(GlyphId) {#getglyphbyid}

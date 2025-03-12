@@ -3,7 +3,7 @@ title: Enum MorseAlphabets
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TextUtils.MorseAlphabets enum. Represents set of alphabets supported for Morse code
 type: docs
-weight: 760
+weight: 770
 url: /net/aspose.font.textutils/morsealphabets/
 ---
 ## MorseAlphabets enumeration

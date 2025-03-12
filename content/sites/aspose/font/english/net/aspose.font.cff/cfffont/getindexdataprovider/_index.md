@@ -3,7 +3,7 @@ title: CffFont.GetIndexDataProvider
 second_title: Aspose.Font for .NET API Reference
 description: CffFont method. Gets provider for the specified CFF INDEX structure type
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.font.cff/cfffont/getindexdataprovider/
 ---
 ## CffFont.GetIndexDataProvider method

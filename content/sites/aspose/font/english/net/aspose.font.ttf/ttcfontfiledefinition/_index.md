@@ -3,7 +3,7 @@ title: Class TtcFontFileDefinition
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Ttf.TtcFontFileDefinition class. Represents file definition for TTC Font
 type: docs
-weight: 790
+weight: 800
 url: /net/aspose.font.ttf/ttcfontfiledefinition/
 ---
 ## TtcFontFileDefinition class

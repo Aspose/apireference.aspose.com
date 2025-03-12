@@ -3,7 +3,7 @@ title: Class CffParsingException
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.CffExceptions.CffParsingException class. Represents parse exception for fonts of cff format. The exception can be thrown in case errors during font parsing process
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.font.cffexceptions/cffparsingexception/
 ---
 ## CffParsingException class

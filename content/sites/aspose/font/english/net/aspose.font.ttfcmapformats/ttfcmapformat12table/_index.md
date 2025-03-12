@@ -3,7 +3,7 @@ title: Class TtfCMapFormat12Table
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfCMapFormats.TtfCMapFormat12Table class. Represents Format8 CMap subtable of the TTF Font file
 type: docs
-weight: 870
+weight: 880
 url: /net/aspose.font.ttfcmapformats/ttfcmapformat12table/
 ---
 ## TtfCMapFormat12Table class
