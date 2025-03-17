@@ -23,6 +23,7 @@ url: /java/com.aspose.ocr/
 | [ImageData](../com.aspose.ocr/imagedata/) |  |
 | [ImageProcessing](../com.aspose.ocr/imageprocessing/) | Helper class for Aspose OCR library. |
 | [InvoiceRecognitionSettings](../com.aspose.ocr/invoicerecognitionsettings/) | Settings for the invoice recognition Contains elements that allow customizing the recognition process |
+| [LanguageDetectionOutput](../com.aspose.ocr/languagedetectionoutput/) | Languages detected in the image text. |
 | [License](../com.aspose.ocr/license/) | Provides methods to license the component. |
 | [Logging](../com.aspose.ocr/logging/) |  |
 | [OcrInput](../com.aspose.ocr/ocrinput/) | Main class for recognize text from images. |

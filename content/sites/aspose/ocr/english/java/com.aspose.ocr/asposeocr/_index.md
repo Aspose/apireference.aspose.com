@@ -30,6 +30,7 @@ Main class for recognize text from images.
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage) | Corrects text (replaces misspelled words). |
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language, String dictionaryPath)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-java.lang.String) | Corrects text (replaces misspelled words). |
 | [DetectDefects(OcrInput input, DefectType defectType)](#DetectDefects-com.aspose.ocr.OcrInput-com.aspose.ocr.DefectType) | Automatically find problematic areas of an image that can significantly impact the accuracy of OCR. |
+| [DetectLanguages(OcrInput input)](#DetectLanguages-com.aspose.ocr.OcrInput) | Analyzes the text on the image to determine the languages it is written in. |
 | [DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas)](#DetectRectangles-com.aspose.ocr.OcrInput-com.aspose.ocr.AreasType-boolean) | Detects text areas on images. |
 | [ImageHasText(String fullPath, String text)](#ImageHasText-java.lang.String-java.lang.String) | Check if the image contains the provided text fragment with a case-insensitive search. |
 | [ImageHasText(String fullPath, String text, RecognitionSettings settings)](#ImageHasText-java.lang.String-java.lang.String-com.aspose.ocr.RecognitionSettings) | Check if the image contains the provided text fragment with a case-insensitive search. |
@@ -180,6 +181,21 @@ Automatically find problematic areas of an image that can significantly impact t
 
 **Returns:**
 java.util.ArrayList<com.aspose.ocr.DefectOutput> - ArrayList of [DefectOutput](../../com.aspose.ocr/defectoutput/) with detected text areas or lines.
+### DetectLanguages(OcrInput input) {#DetectLanguages-com.aspose.ocr.OcrInput}
+```
+public ArrayList<LanguageDetectionOutput> DetectLanguages(OcrInput input)
+```
+
+
+Analyzes the text on the image to determine the languages it is written in. This allows to select the most suitable recognition language and helps in further text processing tasks such as spellchecking or translation. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput/) | The container with sources.[OcrInput](../../com.aspose.ocr/ocrinput/) |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.LanguageDetectionOutput> - Returns a list of the most probable languages, ranked by likelihood. ArrayList of [LanguageDetectionOutput](../../com.aspose.ocr/languagedetectionoutput/)
 ### DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas) {#DetectRectangles-com.aspose.ocr.OcrInput-com.aspose.ocr.AreasType-boolean}
 ```
 public ArrayList<RectangleOutput> DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas)
