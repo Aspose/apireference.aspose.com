@@ -4,7 +4,7 @@ linktitle: get_Strictness
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontEnvironment::get_Strictness method. Some Fonts may contain unexpected data, non-specified features, or may be roughly cropped in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.font/fontenvironment/get_strictness/
 ---
 ## FontEnvironment::get_Strictness method

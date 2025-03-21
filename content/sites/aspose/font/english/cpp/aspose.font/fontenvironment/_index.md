@@ -25,6 +25,7 @@ class FontEnvironment : public System::Object
 
 | Method | Description |
 | --- | --- |
+| static [get_CffCommonFontsSettings](./get_cffcommonfontssettings/)() | Settings common to CFF fonts. |
 | static [get_Current](./get_current/)() | Gets current environment. |
 | [get_CurrentPlatformId](./get_currentplatformid/)() | Gets current platform id. |
 | [get_FontSpecificEncodings](./get_fontspecificencodings/)() const | Stores specific encodings for consumer-aware Fonts. For example, PDF documents uses Adobe Symbol and ZapfDingbats specific encodings. |

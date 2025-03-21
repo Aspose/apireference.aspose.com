@@ -4,7 +4,7 @@ linktitle: get_Current
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontEnvironment::get_Current method. Gets current environment in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font/fontenvironment/get_current/
 ---
 ## FontEnvironment::get_Current method

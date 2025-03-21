@@ -4,7 +4,7 @@ linktitle: get_CurrentPlatformId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontEnvironment::get_CurrentPlatformId method. Gets current platform id in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font/fontenvironment/get_currentplatformid/
 ---
 ## FontEnvironment::get_CurrentPlatformId method

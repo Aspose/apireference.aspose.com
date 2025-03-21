@@ -4,7 +4,7 @@ linktitle: System::Security::Authentication
 second_title: Aspose.Font for C++
 description: 'How to use System::Security::Authentication namespace in C++.'
 type: docs
-weight: 5500
+weight: 5600
 url: /cpp/system.security.authentication/
 ---
 

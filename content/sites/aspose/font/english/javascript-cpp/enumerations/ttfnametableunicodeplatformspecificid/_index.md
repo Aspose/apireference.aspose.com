@@ -1,6 +1,6 @@
 ---
 title: Enum TtfNameTableUnicodePlatformSpecificId
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.Font for JavaScript via C++
 description: Aspose.Font.TtfNameTableUnicodePlatformSpecificId enum. Specifies UnicodePlatformSpecificId
 type: docs
 weight: 133

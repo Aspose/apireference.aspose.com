@@ -4,7 +4,7 @@ linktitle: Aspose::Font::WoffExceptions
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::WoffExceptions namespace in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/aspose.font.woffexceptions/
 ---
 

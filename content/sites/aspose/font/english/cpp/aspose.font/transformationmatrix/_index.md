@@ -20,14 +20,14 @@ class TransformationMatrix : public System::ICloneable
 
 | Method | Description |
 | --- | --- |
-| [get_A](./get_a/)() | Gets A transformation matrix value. |
-| [get_B](./get_b/)() | Gets B transformation matrix value. |
-| [get_C](./get_c/)() | Gets C transformation matrix value. |
-| [get_D](./get_d/)() | Gets D transformation matrix value. |
-| [get_TX](./get_tx/)() | Gets TX transformation matrix value. |
-| [get_TY](./get_ty/)() | Gets TY transformation matrix value. |
+| [get_A](./get_a/)() const | Gets A transformation matrix value. |
+| [get_B](./get_b/)() const | Gets B transformation matrix value. |
+| [get_C](./get_c/)() const | Gets C transformation matrix value. |
+| [get_D](./get_d/)() const | Gets D transformation matrix value. |
+| [get_TX](./get_tx/)() const | Gets TX transformation matrix value. |
+| [get_TY](./get_ty/)() const | Gets TY transformation matrix value. |
 | [idx_get](./idx_get/)(int32_t) | Provides access to underlying array. |
-| [Multiply](./multiply/)(System::SharedPtr\<TransformationMatrix\>) | Multiplies with another transformation matrix. Doesn't change original transformation matrix, returns a new [TransformationMatrix](./) object. |
+| [Multiply](./multiply/)(const System::SharedPtr\<TransformationMatrix\>\&) | Multiplies with another transformation matrix. Doesn't change original transformation matrix, returns a new [TransformationMatrix](./) object. |
 | [Scale](./scale/)(double, double, double\&, double\&) | Scales x and y with the transformation matrix: x1 = A*x + C*y; y1 = B*x + D*y. |
 | [set_A](./set_a/)(double) | Sets A transformation matrix value. |
 | [set_B](./set_b/)(double) | Sets B transformation matrix value. |
@@ -38,7 +38,8 @@ class TransformationMatrix : public System::ICloneable
 | [ToArray](./toarray/)() | Allocates new array, copies the transformation matrix and returns it. |
 | [Transform](./transform/)(double, double, double\&, double\&) | Transforms x and y with the transformation matrix: x1 = A*x + C*y + TX; y1 = B*x + D*y + TY. |
 | [TransformationMatrix](./transformationmatrix/)() | Creates standard 1 to 1 transformation matrix: [ A B C D TX TY ] = [ 1, 0, 0, 1, 0, 0]. |
-| [TransformationMatrix](./transformationmatrix/)(System::ArrayPtr\<double\>) | Accepts a transformation matrix with following array representation: [ A B C D TX TY ]. |
+| [TransformationMatrix](./transformationmatrix/)(const System::ArrayPtr\<double\>\&) | Accepts a transformation matrix with following array representation: [ A B C D TX TY ]. |
+| [TransformationMatrix](./transformationmatrix/)(double, double, double, double, double, double) | Creates transformation matrix [ A B C D TX TY ]. |
 | [UnScale](./unscale/)(double, double, double\&, double\&) | Scales back x1 and y1 and returns x and y before the transformation matrix. |
 | [UnTransform](./untransform/)(double, double, double\&, double\&) | Transforms back x1 and y1 and returns x and y before the transformation matrix. |
 ## Remarks

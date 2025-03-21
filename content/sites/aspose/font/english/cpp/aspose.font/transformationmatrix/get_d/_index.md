@@ -13,7 +13,7 @@ url: /cpp/aspose.font/transformationmatrix/get_d/
 Gets D transformation matrix value.
 
 ```cpp
-double Aspose::Font::TransformationMatrix::get_D()
+double Aspose::Font::TransformationMatrix::get_D() const
 ```
 
 ## See Also

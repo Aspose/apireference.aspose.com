@@ -4,7 +4,7 @@ linktitle: get_GlyphIdType
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Cff::CffFont::get_GlyphIdType method. Gets glyph id type specification in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/aspose.font.cff/cfffont/get_glyphidtype/
 ---
 ## CffFont::get_GlyphIdType method

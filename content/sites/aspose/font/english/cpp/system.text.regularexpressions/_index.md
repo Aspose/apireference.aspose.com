@@ -4,7 +4,7 @@ linktitle: System::Text::RegularExpressions
 second_title: Aspose.Font for C++
 description: 'How to use System::Text::RegularExpressions namespace in C++.'
 type: docs
-weight: 6400
+weight: 6500
 url: /cpp/system.text.regularexpressions/
 ---
 

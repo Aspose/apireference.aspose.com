@@ -13,7 +13,7 @@ url: /cpp/aspose.font/transformationmatrix/get_tx/
 Gets TX transformation matrix value.
 
 ```cpp
-double Aspose::Font::TransformationMatrix::get_TX()
+double Aspose::Font::TransformationMatrix::get_TX() const
 ```
 
 ## See Also

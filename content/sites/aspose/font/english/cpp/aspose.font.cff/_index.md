@@ -17,3 +17,4 @@ url: /cpp/aspose.font.cff/
 | [CffEncoding](./cffencoding/) | Represents CFF [Font](../aspose.font/font/) encoding. |
 | [CffFont](./cfffont/) | Represents Compact [Font](../aspose.font/font/) Format (CFF). |
 | [CffFontMetrics](./cfffontmetrics/) | Represents CFF [Font](../aspose.font/font/) metrics. |
+| [CffFontsSettings](./cfffontssettings/) | Provides settings common to CFF fonts. |

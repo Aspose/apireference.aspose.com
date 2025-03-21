@@ -4,7 +4,7 @@ linktitle: get_FontDefinition
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Cff::CffFont::get_FontDefinition method. Gets Font definition in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.font.cff/cfffont/get_fontdefinition/
 ---
 ## CffFont::get_FontDefinition method

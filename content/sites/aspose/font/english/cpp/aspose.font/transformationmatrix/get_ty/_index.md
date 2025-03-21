@@ -13,7 +13,7 @@ url: /cpp/aspose.font/transformationmatrix/get_ty/
 Gets TY transformation matrix value.
 
 ```cpp
-double Aspose::Font::TransformationMatrix::get_TY()
+double Aspose::Font::TransformationMatrix::get_TY() const
 ```
 
 ## See Also

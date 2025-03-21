@@ -15,6 +15,7 @@ is_root: true
 | --- | --- |
 | [Aspose::Font](./aspose.font/) |  |
 | [Aspose::Font::Cff](./aspose.font.cff/) |  |
+| [Aspose::Font::CffDataProviders](./aspose.font.cffdataproviders/) |  |
 | [Aspose::Font::CffExceptions](./aspose.font.cffexceptions/) |  |
 | [Aspose::Font::Exceptions](./aspose.font.exceptions/) |  |
 | [Aspose::Font::Factories](./aspose.font.factories/) |  |

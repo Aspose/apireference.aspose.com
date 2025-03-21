@@ -4,7 +4,7 @@ linktitle: System::ComponentModel
 second_title: Aspose.Font for C++
 description: 'How to use System::ComponentModel namespace in C++.'
 type: docs
-weight: 2700
+weight: 2800
 url: /cpp/system.componentmodel/
 ---
 
@@ -33,5 +33,6 @@ url: /cpp/system.componentmodel/
 
 | Typedef | Description |
 | --- | --- |
+| [DoWorkEventHandler](./doworkeventhandler/) | Handler type to handle DoWork event. |
 | [PropertyChangedEventHandler](./propertychangedeventhandler/) | Handler type to handle PropertyChanged event. |
 | [Win32Exception](./win32exception/) |  |
