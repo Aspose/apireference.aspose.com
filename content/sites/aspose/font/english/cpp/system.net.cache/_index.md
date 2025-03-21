@@ -4,7 +4,7 @@ linktitle: System::Net::Cache
 second_title: Aspose.Font for C++
 description: 'How to use System::Net::Cache namespace in C++.'
 type: docs
-weight: 4300
+weight: 4400
 url: /cpp/system.net.cache/
 ---
 

@@ -4,7 +4,7 @@ linktitle: get_FontSpecificEncodings
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontEnvironment::get_FontSpecificEncodings method. Stores specific encodings for consumer-aware Fonts. For example, PDF documents uses Adobe Symbol and ZapfDingbats specific encodings in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.font/fontenvironment/get_fontspecificencodings/
 ---
 ## FontEnvironment::get_FontSpecificEncodings method

@@ -1,6 +1,6 @@
 ---
 title: Enum TtfNameTablePlatformId
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.Font for JavaScript via C++
 description: Aspose.Font.TtfNameTablePlatformId enum. Specifies PlatformId
 type: docs
 weight: 130

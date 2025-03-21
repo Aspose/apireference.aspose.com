@@ -4,7 +4,7 @@ linktitle: Aspose::Font::Glyphs
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::Glyphs namespace in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.font.glyphs/
 ---
 

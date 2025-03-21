@@ -4,7 +4,7 @@ linktitle: set_FontFamily
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Cff::CffFont::set_FontFamily method. Gets Font family. The Font family setter is not implemented yet in C++.'
 type: docs
-weight: 1700
+weight: 2100
 url: /cpp/aspose.font.cff/cfffont/set_fontfamily/
 ---
 ## CffFont::set_FontFamily method

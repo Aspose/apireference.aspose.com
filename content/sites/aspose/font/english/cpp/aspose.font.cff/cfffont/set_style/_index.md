@@ -4,7 +4,7 @@ linktitle: set_Style
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Cff::CffFont::set_Style method. Sets Font style. This is a raw string value provided by Font file in C++.'
 type: docs
-weight: 1900
+weight: 2300
 url: /cpp/aspose.font.cff/cfffont/set_style/
 ---
 ## CffFont::set_Style method

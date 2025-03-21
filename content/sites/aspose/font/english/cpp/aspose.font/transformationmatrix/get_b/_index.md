@@ -13,7 +13,7 @@ url: /cpp/aspose.font/transformationmatrix/get_b/
 Gets B transformation matrix value.
 
 ```cpp
-double Aspose::Font::TransformationMatrix::get_B()
+double Aspose::Font::TransformationMatrix::get_B() const
 ```
 
 ## See Also

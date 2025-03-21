@@ -4,7 +4,7 @@ linktitle: Aspose::Font::TtfCMapFormats
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::TtfCMapFormats namespace in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/aspose.font.ttfcmapformats/
 ---
 

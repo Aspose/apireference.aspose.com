@@ -13,13 +13,13 @@ url: /cpp/aspose.font/transformationmatrix/multiply/
 Multiplies with another transformation matrix. Doesn't change original transformation matrix, returns a new [TransformationMatrix](../) object.
 
 ```cpp
-System::SharedPtr<TransformationMatrix> Aspose::Font::TransformationMatrix::Multiply(System::SharedPtr<TransformationMatrix> matrix)
+System::SharedPtr<TransformationMatrix> Aspose::Font::TransformationMatrix::Multiply(const System::SharedPtr<TransformationMatrix> &matrix)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| matrix | System::SharedPtr\<TransformationMatrix\> | Transformation matrix to multiply with. |
+| matrix | const System::SharedPtr\<TransformationMatrix\>\& | Transformation matrix to multiply with. |
 
 ### ReturnValue
 

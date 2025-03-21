@@ -1,6 +1,6 @@
 ---
 title: Enum FontType
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.Font for JavaScript via C++
 description: Aspose.Font.FontType enum. Specifies Font type
 type: docs
 weight: 100

@@ -3,7 +3,7 @@ title: "AsposeFontAbout"
 second_title: Aspose.Font for JavaScript via C++
 description: "Get info about Product."
 type: docs
-url: /javascript-cpp/misc/AsposeFontAbout/
+url: /javascript-cpp/misc/asposefontabout/
 ---
 
 ## AsposeFontAbout function

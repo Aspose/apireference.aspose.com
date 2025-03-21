@@ -4,7 +4,7 @@ linktitle: Aspose::Font::Licensing
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::Licensing namespace in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.font.licensing/
 ---
 

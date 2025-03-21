@@ -4,7 +4,7 @@ linktitle: ParsingStrictness
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontEnvironment::ParsingStrictness enum. Parsing strictness types in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.font/fontenvironment/parsingstrictness/
 ---
 ## ParsingStrictness enum

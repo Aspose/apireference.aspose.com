@@ -1,6 +1,6 @@
 ---
 title: Enum FontSavingFormats
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.Font for JavaScript via C++
 description: Aspose.Font.FontSavingFormats enum. Specifies Font type
 type: docs
 weight: 110

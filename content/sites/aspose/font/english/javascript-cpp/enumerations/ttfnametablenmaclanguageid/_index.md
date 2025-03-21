@@ -1,6 +1,6 @@
 ---
 title: Enum TtfNameTableMacLanguageId
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.Font for JavaScript via C++
 description: Aspose.Font.TtfNameTableMacLanguageId enum. Specifies MacLanguageId
 type: docs
 weight: 140

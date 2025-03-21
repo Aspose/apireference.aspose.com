@@ -1,6 +1,6 @@
 ---
 title: Enum TtfNameTableMSLanguageId
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.Font for JavaScript via C++
 description: Aspose.Font.TtfNameTableMSLanguageId enum. Specifies MSLanguageId
 type: docs
 weight: 150
