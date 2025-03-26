@@ -6,12 +6,12 @@ type: docs
 weight: 30
 url: /net/aspose.ocr/character/value/
 ---
-## Character.Value field
+## Character.Value property
 
 Detected character.
 
 ```csharp
-public char Value;
+public char Value { get; set; }
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Stream
 second_title: Aspose.OCR for .NET API Reference
 description: Image in stream.
 type: docs
-weight: 40
+weight: 60
 url: /net/aspose.ocr/imagedata/stream/
 ---
 ## ImageData.Stream field

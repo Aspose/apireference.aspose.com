@@ -6,12 +6,12 @@ type: docs
 weight: 30
 url: /net/aspose.ocr/languagedetectionoutput/page/
 ---
-## LanguageDetectionOutput.Page field
+## LanguageDetectionOutput.Page property
 
 Page number.
 
 ```csharp
-public int Page;
+public int Page { get; set; }
 ```
 
 ### See Also

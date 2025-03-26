@@ -3,7 +3,7 @@ title: Character
 second_title: Aspose.OCR for .NET API Reference
 description: Data about detected character.
 type: docs
-weight: 360
+weight: 380
 url: /net/aspose.ocr/character/
 ---
 ## Character class
@@ -20,12 +20,12 @@ public class Character
 | --- | --- |
 | [Character](character)() | The default constructor. |
 
-## Fields
+## Properties
 
 | Name | Description |
 | --- | --- |
-| [Coordinates](../../aspose.ocr/character/coordinates) | Character coordinates. |
-| [Value](../../aspose.ocr/character/value) | Detected character. |
+| [Coordinates](../../aspose.ocr/character/coordinates) { get; set; } | Character coordinates. |
+| [Value](../../aspose.ocr/character/value) { get; set; } | Detected character. |
 
 ### See Also
 

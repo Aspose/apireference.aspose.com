@@ -6,12 +6,12 @@ type: docs
 weight: 20
 url: /net/aspose.ocr/imagedata/height/
 ---
-## ImageData.Height field
+## ImageData.Height property
 
 Height of the image.
 
 ```csharp
-public int Height;
+public int Height { get; set; }
 ```
 
 ### See Also

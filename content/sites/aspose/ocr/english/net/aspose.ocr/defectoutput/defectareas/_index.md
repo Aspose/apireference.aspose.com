@@ -6,12 +6,12 @@ type: docs
 weight: 20
 url: /net/aspose.ocr/defectoutput/defectareas/
 ---
-## DefectOutput.defectAreas field
+## DefectOutput.defectAreas property
 
 The list of image defects and areas where they were found.
 
 ```csharp
-public List<DefectAreas> defectAreas;
+public List<DefectAreas> defectAreas { get; set; }
 ```
 
 ### See Also

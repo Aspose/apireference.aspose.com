@@ -6,12 +6,12 @@ type: docs
 weight: 20
 url: /net/aspose.ocr/defectareas/defecttype/
 ---
-## DefectAreas.defectType field
+## DefectAreas.defectType property
 
 Defect type.
 
 ```csharp
-public DefectType defectType;
+public DefectType defectType { get; set; }
 ```
 
 ### See Also

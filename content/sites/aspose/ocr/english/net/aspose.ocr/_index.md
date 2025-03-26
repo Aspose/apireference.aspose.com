@@ -17,6 +17,7 @@ url: /net/aspose.ocr/
 | [CarPlateRecognitionSettings](./carplaterecognitionsettings) | Settings for the car number recognition. Contains elements that allow customizing the recognition process. |
 | [Character](./character) | Data about detected character. |
 | [CharacterRecognitionResult](./characterrecognitionresult) | Pages with detected characters data. |
+| [ContentArea](./contentarea) | A content area detected in an image. |
 | [DefectAreas](./defectareas) | Image areas containing a certain type of defect. |
 | [DefectOutput](./defectoutput) | Areas containing defects identified in the image. |
 | [IDCardRecognitionSettings](./idcardrecognitionsettings) | Settings for the ID Card recognition. Contains elements that allow customizing the recognition process. |
@@ -24,6 +25,7 @@ url: /net/aspose.ocr/
 | [ImageProcessing](./imageprocessing) | Helper class for Aspose OCR library. Allows to preprocess and save images. |
 | [InvoiceRecognitionSettings](./invoicerecognitionsettings) | Settings for the invoice recognition. Contains elements that allow customizing the recognition process. |
 | [LanguageDetectionOutput](./languagedetectionoutput) | Languages detected in the image text. |
+| [LayoutOutput](./layoutoutput) | Information on detected content areas in the image. |
 | [License](./license) | Provides methods to license the component. |
 | [Logging](./logging) | Class to create log configurations. |
 | [Metered](./metered) | Provides methods to set metered key. |

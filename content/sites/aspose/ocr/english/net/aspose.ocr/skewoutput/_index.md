@@ -20,14 +20,14 @@ public class SkewOutput
 | --- | --- |
 | [SkewOutput](skewoutput)() | The default constructor. |
 
-## Fields
+## Properties
 
 | Name | Description |
 | --- | --- |
-| [Angle](../../aspose.ocr/skewoutput/angle) | Skew angle in degrees. |
-| [ImageIndex](../../aspose.ocr/skewoutput/imageindex) | Sequence number of the image on the page. |
-| [Page](../../aspose.ocr/skewoutput/page) | Page number. |
-| [Source](../../aspose.ocr/skewoutput/source) | The full path to the file or URL, if any. Empty for streams, byte arrays, base64. |
+| [Angle](../../aspose.ocr/skewoutput/angle) { get; set; } | Skew angle in degrees. |
+| [ImageIndex](../../aspose.ocr/skewoutput/imageindex) { get; set; } | Sequence number of the image on the page. |
+| [Page](../../aspose.ocr/skewoutput/page) { get; set; } | Page number. |
+| [Source](../../aspose.ocr/skewoutput/source) { get; set; } | The full path to the file or URL, if any. Empty for streams, byte arrays, base64. |
 
 ### See Also
 

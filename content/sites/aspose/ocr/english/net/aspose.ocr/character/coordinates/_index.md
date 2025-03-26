@@ -6,12 +6,12 @@ type: docs
 weight: 20
 url: /net/aspose.ocr/character/coordinates/
 ---
-## Character.Coordinates field
+## Character.Coordinates property
 
 Character coordinates.
 
 ```csharp
-public Rectangle Coordinates;
+public Rectangle Coordinates { get; set; }
 ```
 
 ### See Also

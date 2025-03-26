@@ -6,12 +6,12 @@ type: docs
 weight: 30
 url: /net/aspose.ocr/defectareas/rectangles/
 ---
-## DefectAreas.rectangles field
+## DefectAreas.rectangles property
 
 Image areas where defect was found
 
 ```csharp
-public Rectangle[] rectangles;
+public Rectangle[] rectangles { get; set; }
 ```
 
 ### See Also

@@ -6,12 +6,12 @@ type: docs
 weight: 20
 url: /net/aspose.ocr/rectangleoutput/imageindex/
 ---
-## RectangleOutput.ImageIndex field
+## RectangleOutput.ImageIndex property
 
 Sequence number of the image on the page.
 
 ```csharp
-public int ImageIndex;
+public int ImageIndex { get; set; }
 ```
 
 ### See Also

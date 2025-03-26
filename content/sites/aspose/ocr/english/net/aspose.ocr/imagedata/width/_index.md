@@ -3,15 +3,15 @@ title: Width
 second_title: Aspose.OCR for .NET API Reference
 description: Width of the image.
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.ocr/imagedata/width/
 ---
-## ImageData.Width field
+## ImageData.Width property
 
 Width of the image.
 
 ```csharp
-public int Width;
+public int Width { get; set; }
 ```
 
 ### See Also

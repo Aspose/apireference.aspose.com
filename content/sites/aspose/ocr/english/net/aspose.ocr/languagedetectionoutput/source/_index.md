@@ -6,12 +6,12 @@ type: docs
 weight: 40
 url: /net/aspose.ocr/languagedetectionoutput/source/
 ---
-## LanguageDetectionOutput.Source field
+## LanguageDetectionOutput.Source property
 
 The full path to the file or URL, if any. Empty for streams, byte arrays, base64.
 
 ```csharp
-public string Source;
+public string Source { get; set; }
 ```
 
 ### See Also

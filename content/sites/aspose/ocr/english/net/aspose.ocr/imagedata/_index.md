@@ -14,16 +14,21 @@ Information about processed / recognized image.
 public class ImageData
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Filters](../../aspose.ocr/imagedata/filters) { get; set; } | Image preprocessing to improve the accuracy of OCR. |
+| [Height](../../aspose.ocr/imagedata/height) { get; set; } | Height of the image. |
+| [Source](../../aspose.ocr/imagedata/source) { get; set; } | The full path to the file or URL, if any. Empty for streams, byte arrays, base64. |
+| [Type](../../aspose.ocr/imagedata/type) { get; set; } | The type of the ImageData content. |
+| [Width](../../aspose.ocr/imagedata/width) { get; set; } | Width of the image. |
+
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [Filters](../../aspose.ocr/imagedata/filters) | Image preprocessing to improve the accuracy of OCR. |
-| [Height](../../aspose.ocr/imagedata/height) | Height of the image. |
-| [Source](../../aspose.ocr/imagedata/source) | The full path to the file or URL, if any. Empty for streams, byte arrays, base64. |
 | [Stream](../../aspose.ocr/imagedata/stream) | Image in stream. |
-| [Type](../../aspose.ocr/imagedata/type) | The type of the ImageData content. |
-| [Width](../../aspose.ocr/imagedata/width) | Width of the image. |
 
 ### See Also
 

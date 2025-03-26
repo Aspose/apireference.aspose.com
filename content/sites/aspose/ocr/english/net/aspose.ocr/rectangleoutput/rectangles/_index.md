@@ -6,12 +6,12 @@ type: docs
 weight: 40
 url: /net/aspose.ocr/rectangleoutput/rectangles/
 ---
-## RectangleOutput.Rectangles field
+## RectangleOutput.Rectangles property
 
 List of detected text areas or lines.
 
 ```csharp
-public List<Rectangle> Rectangles;
+public List<Rectangle> Rectangles { get; set; }
 ```
 
 ### See Also

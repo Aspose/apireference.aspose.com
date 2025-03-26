@@ -20,13 +20,13 @@ public class LanguageDetectionOutput
 | --- | --- |
 | [LanguageDetectionOutput](languagedetectionoutput)() | The default constructor. |
 
-## Fields
+## Properties
 
 | Name | Description |
 | --- | --- |
-| [Languages](../../aspose.ocr/languagedetectionoutput/languages) | A ranked list of languages detected in the image text, ordered by likelihood. |
-| [Page](../../aspose.ocr/languagedetectionoutput/page) | Page number. |
-| [Source](../../aspose.ocr/languagedetectionoutput/source) | The full path to the file or URL, if any. Empty for streams, byte arrays, base64. |
+| [Languages](../../aspose.ocr/languagedetectionoutput/languages) { get; set; } | A ranked list of languages detected in the image text, ordered by likelihood. |
+| [Page](../../aspose.ocr/languagedetectionoutput/page) { get; set; } | Page number. |
+| [Source](../../aspose.ocr/languagedetectionoutput/source) { get; set; } | The full path to the file or URL, if any. Empty for streams, byte arrays, base64. |
 
 ### See Also
 

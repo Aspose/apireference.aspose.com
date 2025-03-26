@@ -20,12 +20,12 @@ public class DefectAreas
 | --- | --- |
 | [DefectAreas](defectareas)() | The default constructor. |
 
-## Fields
+## Properties
 
 | Name | Description |
 | --- | --- |
-| [defectType](../../aspose.ocr/defectareas/defecttype) | Defect type. |
-| [rectangles](../../aspose.ocr/defectareas/rectangles) | Image areas where defect was found |
+| [defectType](../../aspose.ocr/defectareas/defecttype) { get; set; } | Defect type. |
+| [rectangles](../../aspose.ocr/defectareas/rectangles) { get; set; } | Image areas where defect was found |
 
 ### See Also
 

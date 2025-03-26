@@ -6,12 +6,12 @@ type: docs
 weight: 40
 url: /net/aspose.ocr/defectoutput/source/
 ---
-## DefectOutput.Source field
+## DefectOutput.Source property
 
 The full path to the file or URL, if any. Empty for streams, byte arrays, and Base64 encoded files.
 
 ```csharp
-public string Source;
+public string Source { get; set; }
 ```
 
 ### See Also

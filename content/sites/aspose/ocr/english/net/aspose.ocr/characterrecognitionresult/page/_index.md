@@ -6,12 +6,12 @@ type: docs
 weight: 40
 url: /net/aspose.ocr/characterrecognitionresult/page/
 ---
-## CharacterRecognitionResult.Page field
+## CharacterRecognitionResult.Page property
 
 Page number.
 
 ```csharp
-public int Page;
+public int Page { get; set; }
 ```
 
 ### See Also

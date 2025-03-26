@@ -20,13 +20,13 @@ public class DefectOutput
 | --- | --- |
 | [DefectOutput](defectoutput)() | The default constructor. |
 
-## Fields
+## Properties
 
 | Name | Description |
 | --- | --- |
-| [defectAreas](../../aspose.ocr/defectoutput/defectareas) | The list of image defects and areas where they were found. |
-| [Page](../../aspose.ocr/defectoutput/page) | Page number. |
-| [Source](../../aspose.ocr/defectoutput/source) | The full path to the file or URL, if any. Empty for streams, byte arrays, and Base64 encoded files. |
+| [defectAreas](../../aspose.ocr/defectoutput/defectareas) { get; set; } | The list of image defects and areas where they were found. |
+| [Page](../../aspose.ocr/defectoutput/page) { get; set; } | Page number. |
+| [Source](../../aspose.ocr/defectoutput/source) { get; set; } | The full path to the file or URL, if any. Empty for streams, byte arrays, and Base64 encoded files. |
 
 ### See Also
 

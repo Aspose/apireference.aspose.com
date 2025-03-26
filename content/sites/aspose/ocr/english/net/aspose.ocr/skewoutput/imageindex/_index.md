@@ -6,12 +6,12 @@ type: docs
 weight: 30
 url: /net/aspose.ocr/skewoutput/imageindex/
 ---
-## SkewOutput.ImageIndex field
+## SkewOutput.ImageIndex property
 
 Sequence number of the image on the page.
 
 ```csharp
-public int ImageIndex;
+public int ImageIndex { get; set; }
 ```
 
 ### See Also
