@@ -6,12 +6,12 @@ type: docs
 weight: 40
 url: /net/aspose.ocr/skewoutput/page/
 ---
-## SkewOutput.Page field
+## SkewOutput.Page property
 
 Page number.
 
 ```csharp
-public int Page;
+public int Page { get; set; }
 ```
 
 ### See Also

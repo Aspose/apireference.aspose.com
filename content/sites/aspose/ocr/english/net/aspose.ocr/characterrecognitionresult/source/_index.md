@@ -6,12 +6,12 @@ type: docs
 weight: 50
 url: /net/aspose.ocr/characterrecognitionresult/source/
 ---
-## CharacterRecognitionResult.Source field
+## CharacterRecognitionResult.Source property
 
 The full path to the file or URL, if any. Empty for streams, byte arrays, base64.
 
 ```csharp
-public string Source;
+public string Source { get; set; }
 ```
 
 ### See Also

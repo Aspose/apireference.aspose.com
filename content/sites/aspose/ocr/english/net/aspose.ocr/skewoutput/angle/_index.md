@@ -6,12 +6,12 @@ type: docs
 weight: 20
 url: /net/aspose.ocr/skewoutput/angle/
 ---
-## SkewOutput.Angle field
+## SkewOutput.Angle property
 
 Skew angle in degrees.
 
 ```csharp
-public float Angle;
+public float Angle { get; set; }
 ```
 
 ### See Also

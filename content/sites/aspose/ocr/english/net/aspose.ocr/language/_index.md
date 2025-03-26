@@ -167,6 +167,8 @@ public enum Language
 | Indic | `146` | Universal recognition of Indic languages based on Devanagari script, including texts with mixed English characters |
 | Devanagari | `147` | Universal recognition of Indic languages based on Devanagari script, including texts with mixed English characters |
 | Mon | `148` | Mongolean alphabet |
+| PersoArabic | `149` | Universal Perso-Arabic alphabet |
+| Islamic | `150` | Universal Perso-Arabic alphabet |
 
 ### See Also
 

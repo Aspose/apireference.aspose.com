@@ -3,7 +3,7 @@ title: DetectLanguages
 second_title: Aspose.OCR for .NET API Reference
 description: Analyzes the text on the image to determine the languages it is written in. This allows to select the most suitable recognition language and helps in further text processing tasks such as spellchecking or translation.
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.ocr/asposeocr/detectlanguages/
 ---
 ## AsposeOcr.DetectLanguages method

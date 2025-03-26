@@ -6,12 +6,12 @@ type: docs
 weight: 10
 url: /net/aspose.ocr/imagedata/filters/
 ---
-## ImageData.Filters field
+## ImageData.Filters property
 
 Image preprocessing to improve the accuracy of OCR.
 
 ```csharp
-public PreprocessingFilter Filters;
+public PreprocessingFilter Filters { get; set; }
 ```
 
 ### See Also

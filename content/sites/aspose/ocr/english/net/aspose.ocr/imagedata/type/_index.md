@@ -3,15 +3,15 @@ title: Type
 second_title: Aspose.OCR for .NET API Reference
 description: The type of the ImageData content.
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.ocr/imagedata/type/
 ---
-## ImageData.Type field
+## ImageData.Type property
 
 The type of the ImageData content.
 
 ```csharp
-public InputType Type;
+public InputType Type { get; set; }
 ```
 
 ### See Also

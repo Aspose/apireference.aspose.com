@@ -6,12 +6,12 @@ type: docs
 weight: 20
 url: /net/aspose.ocr/languagedetectionoutput/languages/
 ---
-## LanguageDetectionOutput.Languages field
+## LanguageDetectionOutput.Languages property
 
 A ranked list of languages detected in the image text, ordered by likelihood.
 
 ```csharp
-public List<KeyValuePair<Language, float>> Languages;
+public List<KeyValuePair<Language, float>> Languages { get; set; }
 ```
 
 ### See Also

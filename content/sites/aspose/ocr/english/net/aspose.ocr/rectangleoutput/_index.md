@@ -20,14 +20,14 @@ public class RectangleOutput
 | --- | --- |
 | [RectangleOutput](rectangleoutput)() | The default constructor. |
 
-## Fields
+## Properties
 
 | Name | Description |
 | --- | --- |
-| [ImageIndex](../../aspose.ocr/rectangleoutput/imageindex) | Sequence number of the image on the page. |
-| [Page](../../aspose.ocr/rectangleoutput/page) | Page number. |
-| [Rectangles](../../aspose.ocr/rectangleoutput/rectangles) | List of detected text areas or lines. |
-| [Source](../../aspose.ocr/rectangleoutput/source) | The full path to the file or URL, if any. Empty for streams, byte arrays, base64. |
+| [ImageIndex](../../aspose.ocr/rectangleoutput/imageindex) { get; set; } | Sequence number of the image on the page. |
+| [Page](../../aspose.ocr/rectangleoutput/page) { get; set; } | Page number. |
+| [Rectangles](../../aspose.ocr/rectangleoutput/rectangles) { get; set; } | List of detected text areas or lines. |
+| [Source](../../aspose.ocr/rectangleoutput/source) { get; set; } | The full path to the file or URL, if any. Empty for streams, byte arrays, base64. |
 
 ### See Also
 

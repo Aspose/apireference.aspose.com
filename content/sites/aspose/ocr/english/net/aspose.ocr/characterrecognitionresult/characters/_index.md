@@ -6,12 +6,12 @@ type: docs
 weight: 20
 url: /net/aspose.ocr/characterrecognitionresult/characters/
 ---
-## CharacterRecognitionResult.Characters field
+## CharacterRecognitionResult.Characters property
 
 Data about detected characters on the page.
 
 ```csharp
-public List<Character> Characters;
+public List<Character> Characters { get; set; }
 ```
 
 ### See Also
