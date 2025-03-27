@@ -4,7 +4,7 @@ linktitle: operator-
 second_title: Aspose.Page for C++
 description: 'System::operator- method. Returns a new instance of Decimal class that represents a value that is the result of subtraction of the value represented by the specified Decimal object from the specified value in C++.'
 type: docs
-weight: 24700
+weight: 24900
 url: /cpp/system/operator-/
 ---
 ## System::operator-(const T\&, const Decimal\&) method

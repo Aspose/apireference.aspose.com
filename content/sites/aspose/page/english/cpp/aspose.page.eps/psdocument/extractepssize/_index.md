@@ -4,7 +4,7 @@ linktitle: ExtractEpsSize
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::ExtractEpsSize method. Reads EPS file and extracts a size of EPS image from %BoundingBox comment or default page size (595, 842) if it doesn''t exist in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/aspose.page.eps/psdocument/extractepssize/
 ---
 ## PsDocument::ExtractEpsSize method

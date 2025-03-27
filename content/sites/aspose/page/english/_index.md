@@ -53,3 +53,33 @@ Aspose.Page for C++ is a reliable and standalone XPS and PostScript file manipul
 
 These are links to some useful resources:
 - [Aspose.Page for C++ API Reference](/page/cpp/)
+
+## Aspose.Page for JavaScript via C++
+
+{{% alert color="primary" %}}
+
+![Aspose.Page for JavaScript via C++ Product Logo](home_4.png)
+
+
+Aspose.Page for JavaScript via C++ is a reliable and standalone XPS and PostScript file manipulation and conversion API. It allows you to create, edit and convert XPS files without requiring any additional tools. API allows operations such as manipulation of document pages & elements, create vector graphics, group shapes and specifying colors in different color spaces. Furthermore, It allows the developers to convert PS and EPS files to PDF documents, raster images such as BMP, EMF, GIF, JPEG, PNG, TIFF, and more.
+
+{{% /alert %}}
+
+These are links to some useful resources:
+
+- [Aspose.Page for JavaScript via C++ API Reference](/page/javascript-cpp/)
+
+## Aspose.Page for Node.js via C++
+
+{{% alert color="primary" %}}
+
+![Aspose.Page for Node.js via C++ Product Logo](home_4.png)
+
+
+Aspose.Page for Node.js via C++ is a reliable and standalone XPS and PostScript file manipulation and conversion API. It allows you to create, edit and convert XPS files without requiring any additional tools. API allows operations such as manipulation of document pages & elements, create vector graphics, group shapes and specifying colors in different color spaces. Furthermore, It allows the developers to convert PS and EPS files to PDF documents, raster images such as BMP, EMF, GIF, JPEG, PNG, TIFF, and more.
+
+{{% /alert %}}
+
+These are links to some useful resources:
+
+- [Aspose.Page for Node.js via C++ API Reference](/page/nodejs-cpp/)

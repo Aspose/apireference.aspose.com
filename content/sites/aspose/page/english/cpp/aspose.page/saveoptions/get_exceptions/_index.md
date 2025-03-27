@@ -4,7 +4,7 @@ linktitle: get_Exceptions
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::SaveOptions::get_Exceptions method. Returns a list of suppressed conversion errors If SuppressErrors is true in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.page/saveoptions/get_exceptions/
 ---
 ## SaveOptions::get_Exceptions method

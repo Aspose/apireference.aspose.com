@@ -4,7 +4,7 @@ linktitle: SaveImageAsEps
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::SaveImageAsEps method. Saves Bitmap object to EPS output stream in C++.'
 type: docs
-weight: 5500
+weight: 5600
 url: /cpp/aspose.page.eps/psdocument/saveimageaseps/
 ---
 ## PsDocument::SaveImageAsEps(System::SharedPtr\<System::Drawing::Bitmap\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Device::PsSaveOptions\>) method

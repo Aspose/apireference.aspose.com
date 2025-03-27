@@ -4,7 +4,7 @@ linktitle: get_SupressErrors
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::SaveOptions::get_SupressErrors method. Specifies whether errors must be suppressed or not. If true suppressed errors are added to Exceptions list. If false the first error will terminate the program in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.page/saveoptions/get_supresserrors/
 ---
 ## SaveOptions::get_SupressErrors method

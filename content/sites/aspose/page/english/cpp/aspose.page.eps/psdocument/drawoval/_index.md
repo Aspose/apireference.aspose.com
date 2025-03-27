@@ -4,7 +4,7 @@ linktitle: DrawOval
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::DrawOval method. Draws an oval in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/aspose.page.eps/psdocument/drawoval/
 ---
 ## PsDocument::DrawOval method

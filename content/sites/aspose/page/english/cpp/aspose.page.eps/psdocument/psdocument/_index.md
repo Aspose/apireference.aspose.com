@@ -2,11 +2,25 @@
 title: Aspose::Page::EPS::PsDocument::PsDocument constructor
 linktitle: PsDocument
 second_title: Aspose.Page for C++
-description: 'Aspose::Page::EPS::PsDocument::PsDocument constructor. Initializes PsDocument with a stream of PS/EPS file in C++.'
+description: 'Aspose::Page::EPS::PsDocument::PsDocument constructor. Initializes empty PsDocument. This constructor is used only for additional operations that are not related to PostScript files, for example, converting fonts in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.page.eps/psdocument/psdocument/
 ---
+## PsDocument::PsDocument() constructor
+
+
+Initializes empty [PsDocument](../). This constructor is used only for additional operations that are not related to PostScript files, for example, converting fonts.
+
+```cpp
+Aspose::Page::EPS::PsDocument::PsDocument()
+```
+
+## See Also
+
+* Class [PsDocument](../)
+* Namespace [Aspose::Page::EPS](../../)
+* Library [Aspose.Page for C++](../../../)
 ## PsDocument::PsDocument(System::SharedPtr\<System::IO::Stream\>) constructor
 
 

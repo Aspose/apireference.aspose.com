@@ -4,7 +4,7 @@ linktitle: CropEps
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::CropEps method. Crops given PsDocument as EPS file. It saves initial EPS file with updated existing %BoundingBox or new one will be created in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.page.eps/psdocument/cropeps/
 ---
 ## PsDocument::CropEps(System::SharedPtr\<System::IO::Stream\>, System::ArrayPtr\<float\>) method

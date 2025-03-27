@@ -21,6 +21,7 @@ class SaveOptions : public virtual System::Object
 | Method | Description |
 | --- | --- |
 | [get_AdditionalFontsFolders](./get_additionalfontsfolders/)() const | Specifies additional folders where converter should find fonts for input document. Default folder are standard fonts folder where OS finds fonts for internal needs. |
+| virtual [get_ConvertFontsToTTF](./get_convertfontstottf/)() | Specifies whether to save non-TrueType fonts to TTF. It significantly decreases the volume of the resulting document in PS to PDF conversion and increases the speed of conversion of PS files with a large quantity of text in non-TrueType fonts to any output format. However there is small vertical shift of text when converting PostSctipt file to image. |
 | virtual [get_Debug](./get_debug/)() | Specifies whether debug information must be printed to standard output stream or not. |
 | virtual [get_Exceptions](./get_exceptions/)() | Returns a list of suppressed conversion errors If [SuppressErrors](../) is true. |
 | [get_JpegQualityLevel](./get_jpegqualitylevel/)() const | The Quality category specifies the level of compression for an image. Available values are 0 to 100. The lower the number specified, the higher the compression and therefore the lower the quality of the image. 0 value results in lowest quality image, while 100 results in highest. |
@@ -31,6 +32,7 @@ class SaveOptions : public virtual System::Object
 | [SaveOptions](./saveoptions/)(Aspose::Page::Drawing::Size) | Initializes a new instance of the [SaveOptions](./) with with specified size of the page. |
 | [SaveOptions](./saveoptions/)(bool, Aspose::Page::Drawing::Size) | Initializes a new instance of the [SaveOptions](./) class with default value for flag [Debug](../) (false) and with specified size of the page. |
 | [set_AdditionalFontsFolders](./set_additionalfontsfolders/)(System::ArrayPtr\<System::String\>) | Specifies additional folders where converter should find fonts for input document. Default folder are standard fonts folder where OS finds fonts for internal needs. |
+| virtual [set_ConvertFontsToTTF](./set_convertfontstottf/)(bool) | Specifies whether to save non-TrueType fonts to TTF. It significantly decreases the volume of the resulting document in PS to PDF conversion and increases the speed of conversion of PS files with a large quantity of text in non-TrueType fonts to any output format. However there is small vertical shift of text when converting PostSctipt file to image. |
 | virtual [set_Debug](./set_debug/)(bool) | Specifies whether debug information must be printed to standard output stream or not. |
 | [set_JpegQualityLevel](./set_jpegqualitylevel/)(int32_t) | The Quality category specifies the level of compression for an image. Available values are 0 to 100. The lower the number specified, the higher the compression and therefore the lower the quality of the image. 0 value results in lowest quality image, while 100 results in highest. |
 | [set_Size](./set_size/)(Aspose::Page::Drawing::Size) | Gets/sets the size of the image. |

@@ -4,7 +4,7 @@ linktitle: DrawImage
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::DrawImage method. Draw image in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/aspose.page.eps/psdocument/drawimage/
 ---
 ## PsDocument::DrawImage(System::SharedPtr\<System::Drawing::Bitmap\>) method

@@ -4,7 +4,7 @@ linktitle: OpenPage
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::OpenPage method. Creates new page and make it current one in C++.'
 type: docs
-weight: 3600
+weight: 3700
 url: /cpp/aspose.page.eps/psdocument/openpage/
 ---
 ## PsDocument::OpenPage(float, float) method

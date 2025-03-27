@@ -4,7 +4,7 @@ linktitle: GetStroke
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::GetStroke method. Sets stroke in current graphics state in C++.'
 type: docs
-weight: 3300
+weight: 3400
 url: /cpp/aspose.page.eps/psdocument/getstroke/
 ---
 ## PsDocument::GetStroke method
