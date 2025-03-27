@@ -4,7 +4,7 @@ linktitle: StaticCast_noexcept
 second_title: Aspose.Page for C++
 description: 'System::StaticCast_noexcept method. Performs static cast on Exception objects in C++.'
 type: docs
-weight: 35900
+weight: 36100
 url: /cpp/system/staticcast_noexcept/
 ---
 ## System::StaticCast_noexcept(const TFrom\&) method

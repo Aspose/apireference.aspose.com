@@ -4,7 +4,7 @@ linktitle: FillAndStrokeText
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::FillAndStrokeText method. Adds a text string by filling interrior of glyphs and drawing glyphs contours in C++.'
 type: docs
-weight: 2300
+weight: 2400
 url: /cpp/aspose.page.eps/psdocument/fillandstroketext/
 ---
 ## PsDocument::FillAndStrokeText(System::String, System::ArrayPtr\<float\>, System::SharedPtr\<Aspose::Page::Font::DrFont\>, float, float, System::SharedPtr\<System::Drawing::Brush\>, System::SharedPtr\<System::Drawing::Pen\>) method

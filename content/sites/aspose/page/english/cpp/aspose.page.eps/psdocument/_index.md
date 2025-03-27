@@ -25,6 +25,7 @@ class PsDocument : public Aspose::Page::Document
 | [ClipRectangle](./cliprectangle/)(System::Drawing::RectangleF) | Adds clipping rectangle to current graphics state. |
 | [ClipText](./cliptext/)(System::String, System::SharedPtr\<System::Drawing::Font\>, float, float) | Adds clip from an outline of given text in given font. |
 | [ClosePage](./closepage/)() | Complete current page. |
+| [ConvertType1FontToTTF](./converttype1fonttottf/)(System::String, System::String) | Converts Type 1 font to [TrueType](../../aspose.truetype/). The name of the converted TTF font will be the same as input Type 1 font with ".ttf" extension. TTF file will be saved to assigned output directory. |
 | [CropEps](./cropeps/)(System::String, System::ArrayPtr\<float\>) | Crops given [PsDocument](./) as [EPS](../) file. It saves initial [EPS](../) file with updated existing %BoundingBox or new one will be created. |
 | [CropEps](./cropeps/)(System::SharedPtr\<System::IO::Stream\>, System::ArrayPtr\<float\>) | Crops given [PsDocument](./) as [EPS](../) file. It saves initial [EPS](../) file with updated existing %BoundingBox or new one will be created. |
 | [Draw](./draw/)(System::SharedPtr\<System::Drawing::Drawing2D::GraphicsPath\>) | Draw an arbitrary path. |
@@ -80,6 +81,7 @@ class PsDocument : public Aspose::Page::Document
 | [OutlineText](./outlinetext/)(System::String, System::ArrayPtr\<float\>, System::SharedPtr\<System::Drawing::Font\>, float, float, System::SharedPtr\<System::Drawing::Pen\>) | Adds a text string by drawing glyphs contours. |
 | [OutlineText](./outlinetext/)(System::String, System::SharedPtr\<Aspose::Page::Font::DrFont\>, float, float, System::SharedPtr\<System::Drawing::Pen\>) | Adds a text string by drawing glyphs contours. |
 | [OutlineText](./outlinetext/)(System::String, System::ArrayPtr\<float\>, System::SharedPtr\<Aspose::Page::Font::DrFont\>, float, float, System::SharedPtr\<System::Drawing::Pen\>) | Adds a text string by drawing glyphs contours. |
+| [PsDocument](./psdocument/)() | Initializes empty [PsDocument](./). This constructor is used only for additional operations that are not related to PostScript files, for example, converting fonts. |
 | [PsDocument](./psdocument/)(System::String, System::SharedPtr\<Device::PsSaveOptions\>) | Initializes empty [PsDocument](./) with initialized page. |
 | [PsDocument](./psdocument/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Device::PsSaveOptions\>) | Initializes empty [PsDocument](./) with initialized page. |
 | [PsDocument](./psdocument/)(System::String, System::SharedPtr\<Device::PsSaveOptions\>, bool) | Initializes empty [PsDocument](./). |

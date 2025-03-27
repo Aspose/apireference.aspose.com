@@ -4,7 +4,7 @@ linktitle: ResizeEps
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::ResizeEps method. Resizes given PsDocument as EPS file. This method is used only after extracting EPS size. It saves initial EPS file with updated existing %BoundingBox or new one will be created. Page transformation matrix also will be set in C++.'
 type: docs
-weight: 3800
+weight: 3900
 url: /cpp/aspose.page.eps/psdocument/resizeeps/
 ---
 ## PsDocument::ResizeEps(System::SharedPtr\<System::IO::Stream\>, System::Drawing::SizeF, Units) method

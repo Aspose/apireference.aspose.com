@@ -4,7 +4,7 @@ linktitle: ObjectType::GetType< System::String >
 second_title: Aspose.Page for C++
 description: 'System::GetType< System::String > method. Implements typeof() translation. Overload for String in C++.'
 type: docs
-weight: 22300
+weight: 22500
 url: /cpp/system/objecttype.gettype_system.string_/
 ---
 ## System::ObjectType::GetType< System::String > method

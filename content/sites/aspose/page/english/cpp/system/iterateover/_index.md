@@ -4,7 +4,7 @@ linktitle: IterateOver
 second_title: Aspose.Page for C++
 description: 'System::IterateOver method. This function property wraps enumerable (or iterable) object so it can be used with range-based for loop This overload for Enumerable this with default target type in C++.'
 type: docs
-weight: 20600
+weight: 20800
 url: /cpp/system/iterateover/
 ---
 ## System::IterateOver(const Enumerable *) method

@@ -4,7 +4,7 @@ linktitle: GetPaint
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::GetPaint method. Gets paint of current graphics state in C++.'
 type: docs
-weight: 3200
+weight: 3300
 url: /cpp/aspose.page.eps/psdocument/getpaint/
 ---
 ## PsDocument::GetPaint method

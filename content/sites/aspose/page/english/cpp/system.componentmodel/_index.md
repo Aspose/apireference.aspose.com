@@ -33,5 +33,6 @@ url: /cpp/system.componentmodel/
 
 | Typedef | Description |
 | --- | --- |
+| [DoWorkEventHandler](./doworkeventhandler/) | Handler type to handle DoWork event. |
 | [PropertyChangedEventHandler](./propertychangedeventhandler/) | Handler type to handle PropertyChanged event. |
 | [Win32Exception](./win32exception/) |  |

@@ -4,7 +4,7 @@ linktitle: get_Size
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::SaveOptions::get_Size method. Gets/sets the size of the image in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.page/saveoptions/get_size/
 ---
 ## SaveOptions::get_Size method

@@ -4,7 +4,7 @@ linktitle: FillOval
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::FillOval method. Fills an oval in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/aspose.page.eps/psdocument/filloval/
 ---
 ## PsDocument::FillOval method

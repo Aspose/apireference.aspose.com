@@ -4,7 +4,7 @@ linktitle: DrawExplicitImageMask
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::DrawExplicitImageMask method. Draw masked image in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/aspose.page.eps/psdocument/drawexplicitimagemask/
 ---
 ## PsDocument::DrawExplicitImageMask method

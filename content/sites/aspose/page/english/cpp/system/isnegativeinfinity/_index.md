@@ -4,7 +4,7 @@ linktitle: IsNegativeInfinity
 second_title: Aspose.Page for C++
 description: 'System::IsNegativeInfinity method. Determines if the specified value represents negative infinity in C++.'
 type: docs
-weight: 20300
+weight: 20600
 url: /cpp/system/isnegativeinfinity/
 ---
 ## System::IsNegativeInfinity method

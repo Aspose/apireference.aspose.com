@@ -1,19 +1,19 @@
 ---
-title: System::IsPattern method
-linktitle: IsPattern
+title: System::IsDeclaration method
+linktitle: IsDeclaration
 second_title: Aspose.Page for C++
-description: 'System::IsPattern method. Implements ''is'' pattern translation in C++.'
+description: 'System::IsDeclaration method. Implements ''is'' declaration pattern translation in C++.'
 type: docs
-weight: 20400
-url: /cpp/system/ispattern/
+weight: 20100
+url: /cpp/system/isdeclaration/
 ---
-## System::IsPattern method
+## System::IsDeclaration method
 
 
-Implements 'is' pattern translation.
+Implements 'is' declaration pattern translation.
 
 ```cpp
-template<class PatternT,class ExpressionT,class ResultT> static bool System::IsPattern(const ExpressionT &left, ResultT &result)
+template<class PatternT,class ExpressionT,class ResultT> bool System::IsDeclaration(const ExpressionT &left, ResultT &result)
 ```
 
 

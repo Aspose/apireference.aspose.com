@@ -4,7 +4,7 @@ linktitle: DrawRect
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::DrawRect method. Draws a rectangle in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/aspose.page.eps/psdocument/drawrect/
 ---
 ## PsDocument::DrawRect method

@@ -4,7 +4,7 @@ linktitle: FillRoundRect
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::FillRoundRect method. Fills a round rectangle in C++.'
 type: docs
-weight: 2800
+weight: 2900
 url: /cpp/aspose.page.eps/psdocument/fillroundrect/
 ---
 ## PsDocument::FillRoundRect method

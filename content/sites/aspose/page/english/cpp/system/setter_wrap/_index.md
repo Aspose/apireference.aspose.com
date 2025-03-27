@@ -4,7 +4,7 @@ linktitle: setter_wrap
 second_title: Aspose.Page for C++
 description: 'System::setter_wrap method. Overload for instance setter functions with type conversion in C++.'
 type: docs
-weight: 34700
+weight: 34900
 url: /cpp/system/setter_wrap/
 ---
 ## System::setter_wrap(Host *const, void(HostSet::*)(T2), T) method
