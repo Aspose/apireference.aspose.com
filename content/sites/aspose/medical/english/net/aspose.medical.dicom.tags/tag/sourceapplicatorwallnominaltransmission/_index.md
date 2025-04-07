@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A029E VRDS VM1 Source Applicator Wall Nominal Transmission.
 type: docs
 weight: 44060
-url: /aspose.medical.dicom.tags/tag/sourceapplicatorwallnominaltransmission/
+url: /net/aspose.medical.dicom.tags/tag/sourceapplicatorwallnominaltransmission/
 ---
 
 ## Tag.SourceApplicatorWallNominalTransmission field

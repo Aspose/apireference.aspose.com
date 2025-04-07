@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460252 VRFL VM1 Relative Elevation.
 type: docs
 weight: 38300
-url: /aspose.medical.dicom.tags/tag/relativeelevation/
+url: /net/aspose.medical.dicom.tags/tag/relativeelevation/
 ---
 
 ## Tag.RelativeElevation field

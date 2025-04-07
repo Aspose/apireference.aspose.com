@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080106 VRDT VM1 Context Group Version.
 type: docs
 weight: 7990
-url: /aspose.medical.dicom.tags/tag/contextgroupversion/
+url: /net/aspose.medical.dicom.tags/tag/contextgroupversion/
 ---
 
 ## Tag.ContextGroupVersion field

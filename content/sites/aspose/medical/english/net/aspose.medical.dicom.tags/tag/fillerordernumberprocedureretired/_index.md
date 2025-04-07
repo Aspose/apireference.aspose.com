@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401007 VRSH VM1 Filler Order Number / Procedure RETIRED.
 type: docs
 weight: 15190
-url: /aspose.medical.dicom.tags/tag/fillerordernumberprocedureretired/
+url: /net/aspose.medical.dicom.tags/tag/fillerordernumberprocedureretired/
 ---
 
 ## Tag.FillerOrderNumberProcedureRETIRED field

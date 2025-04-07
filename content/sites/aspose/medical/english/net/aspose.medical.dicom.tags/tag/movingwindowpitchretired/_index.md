@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014604F VRDS VM1 Moving Window Pitch RETIRED.
 type: docs
 weight: 25020
-url: /aspose.medical.dicom.tags/tag/movingwindowpitchretired/
+url: /net/aspose.medical.dicom.tags/tag/movingwindowpitchretired/
 ---
 
 ## Tag.MovingWindowPitchRETIRED field

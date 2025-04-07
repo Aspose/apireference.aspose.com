@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200022 VRIS VM1 Overlay Number RETIRED.
 type: docs
 weight: 29100
-url: /aspose.medical.dicom.tags/tag/overlaynumberretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaynumberretired/
 ---
 
 ## Tag.OverlayNumberRETIRED field

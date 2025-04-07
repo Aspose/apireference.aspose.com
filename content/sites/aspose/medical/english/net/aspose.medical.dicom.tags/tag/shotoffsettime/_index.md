@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00800005 VRFD VM1 Shot Offset Time.
 type: docs
 weight: 43300
-url: /aspose.medical.dicom.tags/tag/shotoffsettime/
+url: /net/aspose.medical.dicom.tags/tag/shotoffsettime/
 ---
 
 ## Tag.ShotOffsetTime field

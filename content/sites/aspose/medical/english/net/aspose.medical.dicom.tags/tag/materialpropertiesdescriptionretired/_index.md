@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140044 VRST VM1 Material Properties Description RETIRED.
 type: docs
 weight: 23730
-url: /aspose.medical.dicom.tags/tag/materialpropertiesdescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/materialpropertiesdescriptionretired/
 ---
 
 ## Tag.MaterialPropertiesDescriptionRETIRED field

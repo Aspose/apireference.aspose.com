@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142012 VRSQ VM1 Indication Sequence RETIRED.
 type: docs
 weight: 20280
-url: /aspose.medical.dicom.tags/tag/indicationsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/indicationsequenceretired/
 ---
 
 ## Tag.IndicationSequenceRETIRED field

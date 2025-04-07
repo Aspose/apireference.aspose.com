@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0785 VRUI VM1 Referenced Treatment Position Group UID.
 type: docs
 weight: 37630
-url: /aspose.medical.dicom.tags/tag/referencedtreatmentpositiongroupuid/
+url: /net/aspose.medical.dicom.tags/tag/referencedtreatmentpositiongroupuid/
 ---
 
 ## Tag.ReferencedTreatmentPositionGroupUID field

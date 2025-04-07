@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287019 VRCS VM1 Display Function Type.
 type: docs
 weight: 12140
-url: /aspose.medical.dicom.tags/tag/displayfunctiontype/
+url: /net/aspose.medical.dicom.tags/tag/displayfunctiontype/
 ---
 
 ## Tag.DisplayFunctionType field

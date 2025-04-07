@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287011 VRSQ VM1 Configuration QA Results Sequence.
 type: docs
 weight: 7530
-url: /aspose.medical.dicom.tags/tag/configurationqaresultssequence/
+url: /net/aspose.medical.dicom.tags/tag/configurationqaresultssequence/
 ---
 
 ## Tag.ConfigurationQAResultsSequence field

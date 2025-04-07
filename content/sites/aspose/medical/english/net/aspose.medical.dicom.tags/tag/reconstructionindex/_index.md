@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209536 VRUS VM1 Reconstruction Index.
 type: docs
 weight: 35640
-url: /aspose.medical.dicom.tags/tag/reconstructionindex/
+url: /net/aspose.medical.dicom.tags/tag/reconstructionindex/
 ---
 
 ## Tag.ReconstructionIndex field

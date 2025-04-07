@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0050001D VRFD VM1 Container Component Diameter.
 type: docs
 weight: 7730
-url: /aspose.medical.dicom.tags/tag/containercomponentdiameter/
+url: /net/aspose.medical.dicom.tags/tag/containercomponentdiameter/
 ---
 
 ## Tag.ContainerComponentDiameter field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189383 VRDS VM1 Photon Energy.
 type: docs
 weight: 31200
-url: /aspose.medical.dicom.tags/tag/photonenergy/
+url: /net/aspose.medical.dicom.tags/tag/photonenergy/
 ---
 
 ## Tag.PhotonEnergy field

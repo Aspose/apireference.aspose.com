@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 20
-url: /aspose.medical.dicom.lookuptables/palettecolorlookuptable/isvalid/
+url: /net/aspose.medical.dicom.lookuptables/palettecolorlookuptable/isvalid/
 ---
 
 ## PaletteColorLookUpTable.IsValid property

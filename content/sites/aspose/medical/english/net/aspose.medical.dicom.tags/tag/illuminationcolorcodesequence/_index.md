@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480108 VRSQ VM1 Illumination Color Code Sequence.
 type: docs
 weight: 18810
-url: /aspose.medical.dicom.tags/tag/illuminationcolorcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/illuminationcolorcodesequence/
 ---
 
 ## Tag.IlluminationColorCodeSequence field

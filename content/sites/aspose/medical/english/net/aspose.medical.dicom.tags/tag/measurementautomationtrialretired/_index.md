@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A194 VRCS VM1 Measurement Automation Trial RETIRED.
 type: docs
 weight: 24200
-url: /aspose.medical.dicom.tags/tag/measurementautomationtrialretired/
+url: /net/aspose.medical.dicom.tags/tag/measurementautomationtrialretired/
 ---
 
 ## Tag.MeasurementAutomationTrialRETIRED field

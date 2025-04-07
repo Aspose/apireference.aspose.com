@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144074 VRSH VM1 Procedure Version RETIRED.
 type: docs
 weight: 33490
-url: /aspose.medical.dicom.tags/tag/procedureversionretired/
+url: /net/aspose.medical.dicom.tags/tag/procedureversionretired/
 ---
 
 ## Tag.ProcedureVersionRETIRED field

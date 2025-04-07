@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186050 VRUL VM1 Number of Table Break Points.
 type: docs
 weight: 26940
-url: /aspose.medical.dicom.tags/tag/numberoftablebreakpoints/
+url: /net/aspose.medical.dicom.tags/tag/numberoftablebreakpoints/
 ---
 
 ## Tag.NumberOfTableBreakPoints field

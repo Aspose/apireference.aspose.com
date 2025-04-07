@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018936A VRDT VM1 Source End DateTime.
 type: docs
 weight: 44130
-url: /aspose.medical.dicom.tags/tag/sourceenddatetime/
+url: /net/aspose.medical.dicom.tags/tag/sourceenddatetime/
 ---
 
 ## Tag.SourceEndDateTime field

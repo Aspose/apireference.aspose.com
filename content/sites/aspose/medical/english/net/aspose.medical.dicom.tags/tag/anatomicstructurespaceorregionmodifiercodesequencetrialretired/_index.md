@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008225A VRSQ VM1 Anatomic Structure Space Or Region Modifier Code Sequence Trial RETIRED.
 type: docs
 weight: 1600
-url: /aspose.medical.dicom.tags/tag/anatomicstructurespaceorregionmodifiercodesequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/anatomicstructurespaceorregionmodifiercodesequencetrialretired/
 ---
 
 ## Tag.AnatomicStructureSpaceOrRegionModifierCodeSequenceTrialRETIRED field

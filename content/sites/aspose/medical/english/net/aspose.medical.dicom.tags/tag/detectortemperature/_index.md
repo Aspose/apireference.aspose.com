@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187001 VRDS VM1 Detector Temperature.
 type: docs
 weight: 11170
-url: /aspose.medical.dicom.tags/tag/detectortemperature/
+url: /net/aspose.medical.dicom.tags/tag/detectortemperature/
 ---
 
 ## Tag.DetectorTemperature field

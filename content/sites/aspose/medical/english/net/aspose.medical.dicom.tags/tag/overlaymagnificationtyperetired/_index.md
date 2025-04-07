@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20400060 VRCS VM1 Overlay Magnification Type RETIRED.
 type: docs
 weight: 29070
-url: /aspose.medical.dicom.tags/tag/overlaymagnificationtyperetired/
+url: /net/aspose.medical.dicom.tags/tag/overlaymagnificationtyperetired/
 ---
 
 ## Tag.OverlayMagnificationTypeRETIRED field

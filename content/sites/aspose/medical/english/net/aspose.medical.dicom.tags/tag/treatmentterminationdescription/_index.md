@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0730 VRST VM1 Treatment Termination Description.
 type: docs
 weight: 49880
-url: /aspose.medical.dicom.tags/tag/treatmentterminationdescription/
+url: /net/aspose.medical.dicom.tags/tag/treatmentterminationdescription/
 ---
 
 ## Tag.TreatmentTerminationDescription field

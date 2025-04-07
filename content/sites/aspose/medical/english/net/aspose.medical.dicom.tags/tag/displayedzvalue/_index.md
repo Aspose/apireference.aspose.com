@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00182046 VRFL VM1 Displayed Z Value.
 type: docs
 weight: 12100
-url: /aspose.medical.dicom.tags/tag/displayedzvalue/
+url: /net/aspose.medical.dicom.tags/tag/displayedzvalue/
 ---
 
 ## Tag.DisplayedZValue field

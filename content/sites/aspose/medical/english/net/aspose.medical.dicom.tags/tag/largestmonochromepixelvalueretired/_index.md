@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289099 VRUS VM1 Largest Monochrome Pixel Value RETIRED.
 type: docs
 weight: 22310
-url: /aspose.medical.dicom.tags/tag/largestmonochromepixelvalueretired/
+url: /net/aspose.medical.dicom.tags/tag/largestmonochromepixelvalueretired/
 ---
 
 ## Tag.LargestMonochromePixelValueRETIRED field

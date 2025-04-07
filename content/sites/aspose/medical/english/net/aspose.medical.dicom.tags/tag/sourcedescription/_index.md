@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A021C VRLO VM1 Source Description.
 type: docs
 weight: 44100
-url: /aspose.medical.dicom.tags/tag/sourcedescription/
+url: /net/aspose.medical.dicom.tags/tag/sourcedescription/
 ---
 
 ## Tag.SourceDescription field

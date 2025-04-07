@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips X-Ray MF Storage.
 type: docs
 weight: 3610
-url: /aspose.medical.dicom/uid/privatephilipsxraymfstorage/
+url: /net/aspose.medical.dicom/uid/privatephilipsxraymfstorage/
 ---
 
 ## Uid.PrivatePhilipsXRayMfStorage field

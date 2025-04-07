@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700052 VRSL VM2 Displayed Area Top Left Hand Corner.
 type: docs
 weight: 12070
-url: /aspose.medical.dicom.tags/tag/displayedareatoplefthandcorner/
+url: /net/aspose.medical.dicom.tags/tag/displayedareatoplefthandcorner/
 ---
 
 ## Tag.DisplayedAreaTopLeftHandCorner field

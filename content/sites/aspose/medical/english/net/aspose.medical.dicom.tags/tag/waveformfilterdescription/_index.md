@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0329 VRST VM1 Waveform Filter Description.
 type: docs
 weight: 51980
-url: /aspose.medical.dicom.tags/tag/waveformfilterdescription/
+url: /net/aspose.medical.dicom.tags/tag/waveformfilterdescription/
 ---
 
 ## Tag.WaveformFilterDescription field

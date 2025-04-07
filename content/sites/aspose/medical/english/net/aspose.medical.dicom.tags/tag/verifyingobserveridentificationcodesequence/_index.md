@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A088 VRSQ VM1 Verifying Observer Identification Code Sequence.
 type: docs
 weight: 50920
-url: /aspose.medical.dicom.tags/tag/verifyingobserveridentificationcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/verifyingobserveridentificationcodesequence/
 ---
 
 ## Tag.VerifyingObserverIdentificationCodeSequence field

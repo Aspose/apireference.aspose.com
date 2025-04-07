@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000310 VROB VM1 Certified Timestamp.
 type: docs
 weight: 5340
-url: /aspose.medical.dicom.tags/tag/certifiedtimestamp/
+url: /net/aspose.medical.dicom.tags/tag/certifiedtimestamp/
 ---
 
 ## Tag.CertifiedTimestamp field

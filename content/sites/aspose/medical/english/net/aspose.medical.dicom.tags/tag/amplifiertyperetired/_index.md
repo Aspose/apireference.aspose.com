@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014400A VRCS VM1 Amplifier Type RETIRED.
 type: docs
 weight: 1420
-url: /aspose.medical.dicom.tags/tag/amplifiertyperetired/
+url: /net/aspose.medical.dicom.tags/tag/amplifiertyperetired/
 ---
 
 ## Tag.AmplifierTypeRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax JPEG 2000 Part 2 Multi-component Image Compression Lossless Only.
 type: docs
 weight: 2180
-url: /aspose.medical.dicom/uid/jpeg2000part2multicomponentlosslessonly/
+url: /net/aspose.medical.dicom/uid/jpeg2000part2multicomponentlosslessonly/
 ---
 
 ## Uid.Jpeg2000Part2MultiComponentLosslessOnly field

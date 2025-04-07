@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460112 VRSQ VM1 Steep Corneal Axis Sequence.
 type: docs
 weight: 45470
-url: /aspose.medical.dicom.tags/tag/steepcornealaxissequence/
+url: /net/aspose.medical.dicom.tags/tag/steepcornealaxissequence/
 ---
 
 ## Tag.SteepCornealAxisSequence field

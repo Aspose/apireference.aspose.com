@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400220 VRSQ VM1 Referenced Non-Image Composite SOP Instance Sequence.
 type: docs
 weight: 36690
-url: /aspose.medical.dicom.tags/tag/referencednonimagecompositesopinstancesequence/
+url: /net/aspose.medical.dicom.tags/tag/referencednonimagecompositesopinstancesequence/
 ---
 
 ## Tag.ReferencedNonImageCompositeSOPInstanceSequence field

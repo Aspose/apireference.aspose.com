@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080421 VRSQ VM1 Study Access End Points Sequence.
 type: docs
 weight: 45930
-url: /aspose.medical.dicom.tags/tag/studyaccessendpointssequence/
+url: /net/aspose.medical.dicom.tags/tag/studyaccessendpointssequence/
 ---
 
 ## Tag.StudyAccessEndPointsSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080210 VRCS VM1 Interpretation Type ID RETIRED.
 type: docs
 weight: 21090
-url: /aspose.medical.dicom.tags/tag/interpretationtypeidretired/
+url: /net/aspose.medical.dicom.tags/tag/interpretationtypeidretired/
 ---
 
 ## Tag.InterpretationTypeIDRETIRED field

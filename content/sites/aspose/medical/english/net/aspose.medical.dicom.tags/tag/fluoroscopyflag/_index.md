@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189334 VRCS VM1 Fluoroscopy Flag.
 type: docs
 weight: 16110
-url: /aspose.medical.dicom.tags/tag/fluoroscopyflag/
+url: /net/aspose.medical.dicom.tags/tag/fluoroscopyflag/
 ---
 
 ## Tag.FluoroscopyFlag field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040B03A VRIS VM1 Referenced Montage Channel Number.
 type: docs
 weight: 36670
-url: /aspose.medical.dicom.tags/tag/referencedmontagechannelnumber/
+url: /net/aspose.medical.dicom.tags/tag/referencedmontagechannelnumber/
 ---
 
 ## Tag.ReferencedMontageChannelNumber field

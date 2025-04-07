@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720314 VRUS VM1 Image Box Small Scroll Amount.
 type: docs
 weight: 18990
-url: /aspose.medical.dicom.tags/tag/imageboxsmallscrollamount/
+url: /net/aspose.medical.dicom.tags/tag/imageboxsmallscrollamount/
 ---
 
 ## Tag.ImageBoxSmallScrollAmount field

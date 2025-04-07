@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144052 VRDS VM1 Incident Angle RETIRED.
 type: docs
 weight: 20100
-url: /aspose.medical.dicom.tags/tag/incidentangleretired/
+url: /net/aspose.medical.dicom.tags/tag/incidentangleretired/
 ---
 
 ## Tag.IncidentAngleRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080417 VRCS VM1 Transaction Status.
 type: docs
 weight: 49170
-url: /aspose.medical.dicom.tags/tag/transactionstatus/
+url: /net/aspose.medical.dicom.tags/tag/transactionstatus/
 ---
 
 ## Tag.TransactionStatus field

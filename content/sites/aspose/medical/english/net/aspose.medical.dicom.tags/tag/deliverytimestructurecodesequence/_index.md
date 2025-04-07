@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100088 VRSQ VM1 Delivery Time Structure Code Sequence.
 type: docs
 weight: 10680
-url: /aspose.medical.dicom.tags/tag/deliverytimestructurecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/deliverytimestructurecodesequence/
 ---
 
 ## Tag.DeliveryTimeStructureCodeSequence field

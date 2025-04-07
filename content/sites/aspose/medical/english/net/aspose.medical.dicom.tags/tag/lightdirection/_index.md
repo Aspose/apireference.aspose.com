@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701703 VRFD VM3 Light Direction.
 type: docs
 weight: 22730
-url: /aspose.medical.dicom.tags/tag/lightdirection/
+url: /net/aspose.medical.dicom.tags/tag/lightdirection/
 ---
 
 ## Tag.LightDirection field

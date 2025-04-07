@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101073 VRFD VM1 SNR Threshold RETIRED.
 type: docs
 weight: 43750
-url: /aspose.medical.dicom.tags/tag/snrthresholdretired/
+url: /net/aspose.medical.dicom.tags/tag/snrthresholdretired/
 ---
 
 ## Tag.SNRThresholdRETIRED field

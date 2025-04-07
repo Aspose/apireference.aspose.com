@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020031 VROB VM1 RTV Meta Information Version.
 type: docs
 weight: 40810
-url: /aspose.medical.dicom.tags/tag/rtvmetainformationversion/
+url: /net/aspose.medical.dicom.tags/tag/rtvmetainformationversion/
 ---
 
 ## Tag.RTVMetaInformationVersion field

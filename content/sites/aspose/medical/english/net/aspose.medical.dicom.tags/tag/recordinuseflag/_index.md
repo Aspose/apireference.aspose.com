@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041410 VRUS VM1 Record In-use Flag.
 type: docs
 weight: 35880
-url: /aspose.medical.dicom.tags/tag/recordinuseflag/
+url: /net/aspose.medical.dicom.tags/tag/recordinuseflag/
 ---
 
 ## Tag.RecordInUseFlag field

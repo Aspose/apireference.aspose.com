@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700068 VRLO VM1 Graphic Layer Description.
 type: docs
 weight: 17870
-url: /aspose.medical.dicom.tags/tag/graphiclayerdescription/
+url: /net/aspose.medical.dicom.tags/tag/graphiclayerdescription/
 ---
 
 ## Tag.GraphicLayerDescription field

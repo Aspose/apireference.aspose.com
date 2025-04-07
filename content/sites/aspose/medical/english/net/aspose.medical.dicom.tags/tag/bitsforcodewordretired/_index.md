@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 002808x4 VRUS VM1 Bits For Code Word RETIRED.
 type: docs
 weight: 3760
-url: /aspose.medical.dicom.tags/tag/bitsforcodewordretired/
+url: /net/aspose.medical.dicom.tags/tag/bitsforcodewordretired/
 ---
 
 ## Tag.BitsForCodeWordRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280011 VRUS VM1 Columns.
 type: docs
 weight: 6480
-url: /aspose.medical.dicom.tags/tag/columns/
+url: /net/aspose.medical.dicom.tags/tag/columns/
 ---
 
 ## Tag.Columns field

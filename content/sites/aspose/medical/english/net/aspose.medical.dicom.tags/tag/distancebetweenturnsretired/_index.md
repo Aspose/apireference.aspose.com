@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146033 VRDS VM1-n Distance Between Turns RETIRED.
 type: docs
 weight: 12360
-url: /aspose.medical.dicom.tags/tag/distancebetweenturnsretired/
+url: /net/aspose.medical.dicom.tags/tag/distancebetweenturnsretired/
 ---
 
 ## Tag.DistanceBetweenTurnsRETIRED field

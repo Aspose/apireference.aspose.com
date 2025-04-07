@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400020 VRCS VM1 Scheduled Procedure Step Status.
 type: docs
 weight: 41470
-url: /aspose.medical.dicom.tags/tag/scheduledprocedurestepstatus/
+url: /net/aspose.medical.dicom.tags/tag/scheduledprocedurestepstatus/
 ---
 
 ## Tag.ScheduledProcedureStepStatus field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A082 VRDT VM1 Participation DateTime.
 type: docs
 weight: 29650
-url: /aspose.medical.dicom.tags/tag/participationdatetime/
+url: /net/aspose.medical.dicom.tags/tag/participationdatetime/
 ---
 
 ## Tag.ParticipationDateTime field

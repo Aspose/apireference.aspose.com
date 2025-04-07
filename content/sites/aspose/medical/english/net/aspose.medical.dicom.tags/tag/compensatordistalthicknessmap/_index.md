@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0665 VROF VM1 Compensator Distal Thickness Map.
 type: docs
 weight: 6670
-url: /aspose.medical.dicom.tags/tag/compensatordistalthicknessmap/
+url: /net/aspose.medical.dicom.tags/tag/compensatordistalthicknessmap/
 ---
 
 ## Tag.CompensatorDistalThicknessMap field

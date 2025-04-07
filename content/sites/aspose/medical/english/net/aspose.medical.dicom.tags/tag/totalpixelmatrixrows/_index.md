@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480007 VRUL VM1 Total Pixel Matrix Rows.
 type: docs
 weight: 48980
-url: /aspose.medical.dicom.tags/tag/totalpixelmatrixrows/
+url: /net/aspose.medical.dicom.tags/tag/totalpixelmatrixrows/
 ---
 
 ## Tag.TotalPixelMatrixRows field

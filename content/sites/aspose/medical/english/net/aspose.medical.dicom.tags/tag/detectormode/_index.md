@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187008 VRLT VM1 Detector Mode.
 type: docs
 weight: 11110
-url: /aspose.medical.dicom.tags/tag/detectormode/
+url: /net/aspose.medical.dicom.tags/tag/detectormode/
 ---
 
 ## Tag.DetectorMode field

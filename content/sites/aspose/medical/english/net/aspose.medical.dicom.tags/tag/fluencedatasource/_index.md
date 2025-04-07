@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020041 VRCS VM1 Fluence Data Source.
 type: docs
 weight: 16070
-url: /aspose.medical.dicom.tags/tag/fluencedatasource/
+url: /net/aspose.medical.dicom.tags/tag/fluencedatasource/
 ---
 
 ## Tag.FluenceDataSource field

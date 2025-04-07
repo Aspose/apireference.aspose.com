@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A804 VRUL VM1 Table Row Number.
 type: docs
 weight: 46900
-url: /aspose.medical.dicom.tags/tag/tablerownumber/
+url: /net/aspose.medical.dicom.tags/tag/tablerownumber/
 ---
 
 ## Tag.TableRowNumber field

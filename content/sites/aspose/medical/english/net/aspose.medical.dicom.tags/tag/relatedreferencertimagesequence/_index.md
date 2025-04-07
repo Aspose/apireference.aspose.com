@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741040 VRSQ VM1 Related Reference RT Image Sequence.
 type: docs
 weight: 38220
-url: /aspose.medical.dicom.tags/tag/relatedreferencertimagesequence/
+url: /net/aspose.medical.dicom.tags/tag/relatedreferencertimagesequence/
 ---
 
 ## Tag.RelatedReferenceRTImageSequence field

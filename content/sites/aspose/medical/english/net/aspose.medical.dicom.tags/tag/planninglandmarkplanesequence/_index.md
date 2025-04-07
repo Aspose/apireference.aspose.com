@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686520 VRSQ VM1 Planning Landmark Plane Sequence.
 type: docs
 weight: 31840
-url: /aspose.medical.dicom.tags/tag/planninglandmarkplanesequence/
+url: /net/aspose.medical.dicom.tags/tag/planninglandmarkplanesequence/
 ---
 
 ## Tag.PlanningLandmarkPlaneSequence field

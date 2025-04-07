@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0111 VRSQ VM1 Omitted Beam Task Sequence.
 type: docs
 weight: 27630
-url: /aspose.medical.dicom.tags/tag/omittedbeamtasksequence/
+url: /net/aspose.medical.dicom.tags/tag/omittedbeamtasksequence/
 ---
 
 ## Tag.OmittedBeamTaskSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00005140 VRCS VM1 Normal/Reverse RETIRED.
 type: docs
 weight: 25980
-url: /aspose.medical.dicom.tags/tag/normalreverseretired/
+url: /net/aspose.medical.dicom.tags/tag/normalreverseretired/
 ---
 
 ## Tag.NormalReverseRETIRED field

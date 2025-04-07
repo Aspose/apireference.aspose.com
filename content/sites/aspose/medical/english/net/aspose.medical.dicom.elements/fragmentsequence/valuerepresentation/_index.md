@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The Value Representation of the element. Read-only ValueRepresentationaspose.medical.dicom.elements/fragmentsequence/valuerepresentation.
 type: docs
 weight: 60
-url: /aspose.medical.dicom.elements/fragmentsequence/valuerepresentation/
+url: /net/aspose.medical.dicom.elements/fragmentsequence/valuerepresentation/
 ---
 
 ## FragmentSequence.ValueRepresentation property

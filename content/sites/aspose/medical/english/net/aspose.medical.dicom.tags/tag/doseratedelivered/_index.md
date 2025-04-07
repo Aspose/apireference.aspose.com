@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080048 VRDS VM1 Dose Rate Delivered.
 type: docs
 weight: 12690
-url: /aspose.medical.dicom.tags/tag/doseratedelivered/
+url: /net/aspose.medical.dicom.tags/tag/doseratedelivered/
 ---
 
 ## Tag.DoseRateDelivered field

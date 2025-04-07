@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0342 VRSQ VM1 Range Modulator Sequence.
 type: docs
 weight: 34870
-url: /aspose.medical.dicom.tags/tag/rangemodulatorsequence/
+url: /net/aspose.medical.dicom.tags/tag/rangemodulatorsequence/
 ---
 
 ## Tag.RangeModulatorSequence field

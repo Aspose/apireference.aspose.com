@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189022 VRCS VM1 Blood Signal Nulling.
 type: docs
 weight: 4190
-url: /aspose.medical.dicom.tags/tag/bloodsignalnulling/
+url: /net/aspose.medical.dicom.tags/tag/bloodsignalnulling/
 ---
 
 ## Tag.BloodSignalNulling field

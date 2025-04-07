@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Returns age stored in the element. Supplements the data property.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.elements/agestring/getages/
+url: /net/aspose.medical.dicom.elements/agestring/getages/
 ---
 
 ## AgeString.GetAges method

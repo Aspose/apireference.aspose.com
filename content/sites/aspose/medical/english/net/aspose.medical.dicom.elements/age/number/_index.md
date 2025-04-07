@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Numerical age value. Read / Write Int32.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.elements/age/number/
+url: /net/aspose.medical.dicom.elements/age/number/
 ---
 
 ## Age.Number property

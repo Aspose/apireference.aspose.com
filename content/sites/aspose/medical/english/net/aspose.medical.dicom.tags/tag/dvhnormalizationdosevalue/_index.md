@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040042 VRDS VM1 DVH Normalization Dose Value.
 type: docs
 weight: 13110
-url: /aspose.medical.dicom.tags/tag/dvhnormalizationdosevalue/
+url: /net/aspose.medical.dicom.tags/tag/dvhnormalizationdosevalue/
 ---
 
 ## Tag.DVHNormalizationDoseValue field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx1500 VRLO VM1 Overlay Label.
 type: docs
 weight: 29050
-url: /aspose.medical.dicom.tags/tag/overlaylabel/
+url: /net/aspose.medical.dicom.tags/tag/overlaylabel/
 ---
 
 ## Tag.OverlayLabel field

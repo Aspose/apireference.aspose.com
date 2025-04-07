@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00620008 VRCS VM1 Segment Algorithm Type.
 type: docs
 weight: 41930
-url: /aspose.medical.dicom.tags/tag/segmentalgorithmtype/
+url: /net/aspose.medical.dicom.tags/tag/segmentalgorithmtype/
 ---
 
 ## Tag.SegmentAlgorithmType field

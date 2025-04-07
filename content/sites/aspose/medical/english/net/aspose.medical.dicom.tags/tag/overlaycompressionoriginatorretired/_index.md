@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0061 VRSH VM1 Overlay Compression Originator RETIRED.
 type: docs
 weight: 28940
-url: /aspose.medical.dicom.tags/tag/overlaycompressionoriginatorretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaycompressionoriginatorretired/
 ---
 
 ## Tag.OverlayCompressionOriginatorRETIRED field

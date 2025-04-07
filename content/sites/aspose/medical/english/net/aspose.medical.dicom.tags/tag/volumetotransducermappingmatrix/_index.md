@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209309 VRFD VM16 Volume to Transducer Mapping Matrix.
 type: docs
 weight: 51680
-url: /aspose.medical.dicom.tags/tag/volumetotransducermappingmatrix/
+url: /net/aspose.medical.dicom.tags/tag/volumetotransducermappingmatrix/
 ---
 
 ## Tag.VolumeToTransducerMappingMatrix field

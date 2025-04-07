@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082242 VRSQ VM1 Transducer Position Modifier Sequence RETIRED.
 type: docs
 weight: 49290
-url: /aspose.medical.dicom.tags/tag/transducerpositionmodifiersequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/transducerpositionmodifiersequenceretired/
 ---
 
 ## Tag.TransducerPositionModifierSequenceRETIRED field

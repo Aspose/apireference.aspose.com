@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A027 VRLO VM1 Verifying Organization.
 type: docs
 weight: 50950
-url: /aspose.medical.dicom.tags/tag/verifyingorganization/
+url: /net/aspose.medical.dicom.tags/tag/verifyingorganization/
 ---
 
 ## Tag.VerifyingOrganization field

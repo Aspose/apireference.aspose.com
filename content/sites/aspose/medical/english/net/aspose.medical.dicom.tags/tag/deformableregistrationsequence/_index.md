@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00640002 VRSQ VM1 Deformable Registration Sequence.
 type: docs
 weight: 10410
-url: /aspose.medical.dicom.tags/tag/deformableregistrationsequence/
+url: /net/aspose.medical.dicom.tags/tag/deformableregistrationsequence/
 ---
 
 ## Tag.DeformableRegistrationSequence field

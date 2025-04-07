@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700312 VRFD VM1 Contour Uncertainty Radius.
 type: docs
 weight: 8150
-url: /aspose.medical.dicom.tags/tag/contouruncertaintyradius/
+url: /net/aspose.medical.dicom.tags/tag/contouruncertaintyradius/
 ---
 
 ## Tag.ContourUncertaintyRadius field

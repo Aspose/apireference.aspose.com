@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020000 VRUL VM1 File Meta Information Group Length.
 type: docs
 weight: 15080
-url: /aspose.medical.dicom.tags/tag/filemetainformationgrouplength/
+url: /net/aspose.medical.dicom.tags/tag/filemetainformationgrouplength/
 ---
 
 ## Tag.FileMetaInformationGroupLength field

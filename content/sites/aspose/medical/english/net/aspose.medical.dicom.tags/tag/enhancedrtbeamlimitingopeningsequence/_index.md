@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300800A2 VRSQ VM1 Enhanced RT Beam Limiting Opening Sequence.
 type: docs
 weight: 13760
-url: /aspose.medical.dicom.tags/tag/enhancedrtbeamlimitingopeningsequence/
+url: /net/aspose.medical.dicom.tags/tag/enhancedrtbeamlimitingopeningsequence/
 ---
 
 ## Tag.EnhancedRTBeamLimitingOpeningSequence field

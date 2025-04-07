@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401004 VRLO VM1 Patient Transport Arrangements.
 type: docs
 weight: 30410
-url: /aspose.medical.dicom.tags/tag/patienttransportarrangements/
+url: /net/aspose.medical.dicom.tags/tag/patienttransportarrangements/
 ---
 
 ## Tag.PatientTransportArrangements field

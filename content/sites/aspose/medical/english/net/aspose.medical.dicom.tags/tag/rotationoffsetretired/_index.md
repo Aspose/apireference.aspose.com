@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181146 VRDS VM1-n Rotation Offset RETIRED.
 type: docs
 weight: 39650
-url: /aspose.medical.dicom.tags/tag/rotationoffsetretired/
+url: /net/aspose.medical.dicom.tags/tag/rotationoffsetretired/
 ---
 
 ## Tag.RotationOffsetRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400602 VRUT VM1 Specimen Detailed Description.
 type: docs
 weight: 44990
-url: /aspose.medical.dicom.tags/tag/specimendetaileddescription/
+url: /net/aspose.medical.dicom.tags/tag/specimendetaileddescription/
 ---
 
 ## Tag.SpecimenDetailedDescription field

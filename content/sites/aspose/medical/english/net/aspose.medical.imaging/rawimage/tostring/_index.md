@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 60
-url: /aspose.medical.imaging/rawimage/tostring/
+url: /net/aspose.medical.imaging/rawimage/tostring/
 ---
 
 ## RawImage.ToString method

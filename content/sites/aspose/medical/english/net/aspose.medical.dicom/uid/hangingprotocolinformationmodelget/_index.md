@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Hanging Protocol Information Model - GET.
 type: docs
 weight: 1780
-url: /aspose.medical.dicom/uid/hangingprotocolinformationmodelget/
+url: /net/aspose.medical.dicom/uid/hangingprotocolinformationmodelget/
 ---
 
 ## Uid.HangingProtocolInformationModelGET field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401003 VRSH VM1 Requested Procedure Priority.
 type: docs
 weight: 38750
-url: /aspose.medical.dicom.tags/tag/requestedprocedurepriority/
+url: /net/aspose.medical.dicom.tags/tag/requestedprocedurepriority/
 ---
 
 ## Tag.RequestedProcedurePriority field

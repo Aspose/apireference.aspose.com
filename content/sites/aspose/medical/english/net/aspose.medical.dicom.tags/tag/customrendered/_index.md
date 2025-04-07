@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160041 VRUS VM1 Custom Rendered.
 type: docs
 weight: 9590
-url: /aspose.medical.dicom.tags/tag/customrendered/
+url: /net/aspose.medical.dicom.tags/tag/customrendered/
 ---
 
 ## Tag.CustomRendered field

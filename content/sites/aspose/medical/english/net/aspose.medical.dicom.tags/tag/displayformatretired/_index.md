@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00005110 VRLT VM1 Display Format RETIRED.
 type: docs
 weight: 12130
-url: /aspose.medical.dicom.tags/tag/displayformatretired/
+url: /net/aspose.medical.dicom.tags/tag/displayformatretired/
 ---
 
 ## Tag.DisplayFormatRETIRED field

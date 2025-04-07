@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741006 VRST VM1 Procedure Step Progress Description.
 type: docs
 weight: 33430
-url: /aspose.medical.dicom.tags/tag/procedurestepprogressdescription/
+url: /net/aspose.medical.dicom.tags/tag/procedurestepprogressdescription/
 ---
 
 ## Tag.ProcedureStepProgressDescription field

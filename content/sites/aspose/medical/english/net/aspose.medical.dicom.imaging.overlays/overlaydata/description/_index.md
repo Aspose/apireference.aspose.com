@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The description of the overlay. Read/Write String.
 type: docs
 weight: 40
-url: /aspose.medical.dicom.imaging.overlays/overlaydata/description/
+url: /net/aspose.medical.dicom.imaging.overlays/overlaydata/description/
 ---
 
 ## OverlayData.Description property

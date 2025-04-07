@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Adds the given luts to this composite LUT.
 type: docs
 weight: 60
-url: /aspose.medical.dicom.lookuptables/compositelookuptable/addrange/
+url: /net/aspose.medical.dicom.lookuptables/compositelookuptable/addrange/
 ---
 
 ## CompositeLookUpTable.AddRange method

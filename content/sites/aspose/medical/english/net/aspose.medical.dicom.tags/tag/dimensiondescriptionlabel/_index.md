@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209421 VRLO VM1 Dimension Description Label.
 type: docs
 weight: 11840
-url: /aspose.medical.dicom.tags/tag/dimensiondescriptionlabel/
+url: /net/aspose.medical.dicom.tags/tag/dimensiondescriptionlabel/
 ---
 
 ## Tag.DimensionDescriptionLabel field

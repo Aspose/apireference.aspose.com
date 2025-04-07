@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401103 VRLO VM1-n Persons Telephone Numbers.
 type: docs
 weight: 30940
-url: /aspose.medical.dicom.tags/tag/persontelephonenumbers/
+url: /net/aspose.medical.dicom.tags/tag/persontelephonenumbers/
 ---
 
 ## Tag.PersonTelephoneNumbers field

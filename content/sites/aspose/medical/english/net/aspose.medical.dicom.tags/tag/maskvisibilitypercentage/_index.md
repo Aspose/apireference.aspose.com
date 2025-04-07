@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289478 VRFL VM1 Mask Visibility Percentage.
 type: docs
 weight: 23630
-url: /aspose.medical.dicom.tags/tag/maskvisibilitypercentage/
+url: /net/aspose.medical.dicom.tags/tag/maskvisibilitypercentage/
 ---
 
 ## Tag.MaskVisibilityPercentage field

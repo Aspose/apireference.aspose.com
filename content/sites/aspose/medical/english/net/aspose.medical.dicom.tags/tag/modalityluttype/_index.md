@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00283004 VRLO VM1 Modality LUT Type.
 type: docs
 weight: 24670
-url: /aspose.medical.dicom.tags/tag/modalityluttype/
+url: /net/aspose.medical.dicom.tags/tag/modalityluttype/
 ---
 
 ## Tag.ModalityLUTType field

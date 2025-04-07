@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 5310
-url: /aspose.medical.dicom/uid/equals/
+url: /net/aspose.medical.dicom/uid/equals/
 ---
 
 ## Equals(Uid) {#equals}

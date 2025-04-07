@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181191 VRCS VM1 Anode Target Material.
 type: docs
 weight: 1920
-url: /aspose.medical.dicom.tags/tag/anodetargetmaterial/
+url: /net/aspose.medical.dicom.tags/tag/anodetargetmaterial/
 ---
 
 ## Tag.AnodeTargetMaterial field

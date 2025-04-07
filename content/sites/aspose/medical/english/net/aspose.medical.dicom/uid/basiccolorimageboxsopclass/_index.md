@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Basic Color Image Box SOP Class.
 type: docs
 weight: 120
-url: /aspose.medical.dicom/uid/basiccolorimageboxsopclass/
+url: /net/aspose.medical.dicom/uid/basiccolorimageboxsopclass/
 ---
 
 ## Uid.BasicColorImageBoxSOPClass field

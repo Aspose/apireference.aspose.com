@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3008002C VRCS VM1 Treatment Verification Status.
 type: docs
 weight: 50000
-url: /aspose.medical.dicom.tags/tag/treatmentverificationstatus/
+url: /net/aspose.medical.dicom.tags/tag/treatmentverificationstatus/
 ---
 
 ## Tag.TreatmentVerificationStatus field

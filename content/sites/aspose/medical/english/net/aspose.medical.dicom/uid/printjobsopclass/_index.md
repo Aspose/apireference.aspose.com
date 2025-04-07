@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Print Job SOP Class.
 type: docs
 weight: 3110
-url: /aspose.medical.dicom/uid/printjobsopclass/
+url: /net/aspose.medical.dicom/uid/printjobsopclass/
 ---
 
 ## Uid.PrintJobSOPClass field

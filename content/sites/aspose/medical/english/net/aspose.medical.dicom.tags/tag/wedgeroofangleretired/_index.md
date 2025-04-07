@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145108 VRDS VM1 Wedge Roof Angle RETIRED.
 type: docs
 weight: 52340
-url: /aspose.medical.dicom.tags/tag/wedgeroofangleretired/
+url: /net/aspose.medical.dicom.tags/tag/wedgeroofangleretired/
 ---
 
 ## Tag.WedgeRoofAngleRETIRED field

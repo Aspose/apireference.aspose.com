@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720216 VRUS VM1 Navigation Display Set.
 type: docs
 weight: 25680
-url: /aspose.medical.dicom.tags/tag/navigationdisplayset/
+url: /net/aspose.medical.dicom.tags/tag/navigationdisplayset/
 ---
 
 ## Tag.NavigationDisplaySet field

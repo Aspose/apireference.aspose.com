@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040DB00 VRCS VM1 Template Identifier.
 type: docs
 weight: 47540
-url: /aspose.medical.dicom.tags/tag/templateidentifier/
+url: /net/aspose.medical.dicom.tags/tag/templateidentifier/
 ---
 
 ## Tag.TemplateIdentifier field

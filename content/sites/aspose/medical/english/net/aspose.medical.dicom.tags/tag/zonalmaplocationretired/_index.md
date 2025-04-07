@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280721 VRAT VM1-n Zonal Map Location RETIRED.
 type: docs
 weight: 52980
-url: /aspose.medical.dicom.tags/tag/zonalmaplocationretired/
+url: /net/aspose.medical.dicom.tags/tag/zonalmaplocationretired/
 ---
 
 ## Tag.ZonalMapLocationRETIRED field

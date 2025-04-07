@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143076 VRDA VM1 Date of Gain Calibration RETIRED.
 type: docs
 weight: 10060
-url: /aspose.medical.dicom.tags/tag/dateofgaincalibrationretired/
+url: /net/aspose.medical.dicom.tags/tag/dateofgaincalibrationretired/
 ---
 
 ## Tag.DateOfGainCalibrationRETIRED field

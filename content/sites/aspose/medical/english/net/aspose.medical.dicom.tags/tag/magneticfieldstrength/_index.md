@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180087 VRDS VM1 Magnetic Field Strength.
 type: docs
 weight: 23320
-url: /aspose.medical.dicom.tags/tag/magneticfieldstrength/
+url: /net/aspose.medical.dicom.tags/tag/magneticfieldstrength/
 ---
 
 ## Tag.MagneticFieldStrength field

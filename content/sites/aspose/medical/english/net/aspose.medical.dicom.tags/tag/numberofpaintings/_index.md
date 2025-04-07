@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A039A VRIS VM1 Number of Paintings.
 type: docs
 weight: 26580
-url: /aspose.medical.dicom.tags/tag/numberofpaintings/
+url: /net/aspose.medical.dicom.tags/tag/numberofpaintings/
 ---
 
 ## Tag.NumberOfPaintings field

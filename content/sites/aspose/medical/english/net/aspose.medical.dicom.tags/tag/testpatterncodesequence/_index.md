@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028702C VRSQ VM1 Test Pattern Code Sequence.
 type: docs
 weight: 47750
-url: /aspose.medical.dicom.tags/tag/testpatterncodesequence/
+url: /net/aspose.medical.dicom.tags/tag/testpatterncodesequence/
 ---
 
 ## Tag.TestPatternCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0070005A VRSQ VM1 Displayed Area Selection Sequence.
 type: docs
 weight: 12060
-url: /aspose.medical.dicom.tags/tag/displayedareaselectionsequence/
+url: /net/aspose.medical.dicom.tags/tag/displayedareaselectionsequence/
 ---
 
 ## Tag.DisplayedAreaSelectionSequence field

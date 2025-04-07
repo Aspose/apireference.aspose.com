@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class X-Ray Angiographic Image Storage.
 type: docs
 weight: 5220
-url: /aspose.medical.dicom/uid/xrayangiographicimagestorage/
+url: /net/aspose.medical.dicom/uid/xrayangiographicimagestorage/
 ---
 
 ## Uid.XRayAngiographicImageStorage field

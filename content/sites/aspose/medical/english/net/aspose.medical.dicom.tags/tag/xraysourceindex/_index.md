@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189366 VRUS VM1 X-Ray Source Index.
 type: docs
 weight: 52850
-url: /aspose.medical.dicom.tags/tag/xraysourceindex/
+url: /net/aspose.medical.dicom.tags/tag/xraysourceindex/
 ---
 
 ## Tag.XRaySourceIndex field

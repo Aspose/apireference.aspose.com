@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02EA VRSQ VM1 Ion Range Compensator Sequence.
 type: docs
 weight: 21540
-url: /aspose.medical.dicom.tags/tag/ionrangecompensatorsequence/
+url: /net/aspose.medical.dicom.tags/tag/ionrangecompensatorsequence/
 ---
 
 ## Tag.IonRangeCompensatorSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0732 VRCS VM1 Treatment Tolerance Violation Category.
 type: docs
 weight: 49930
-url: /aspose.medical.dicom.tags/tag/treatmenttoleranceviolationcategory/
+url: /net/aspose.medical.dicom.tags/tag/treatmenttoleranceviolationcategory/
 ---
 
 ## Tag.TreatmentToleranceViolationCategory field

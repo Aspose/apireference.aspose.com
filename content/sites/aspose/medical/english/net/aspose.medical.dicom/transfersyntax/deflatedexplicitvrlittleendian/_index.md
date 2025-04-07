@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Deflated Explicit VR Little Endian 1.2.840.10008.1.2.1.99.
 type: docs
 weight: 10
-url: /aspose.medical.dicom/transfersyntax/deflatedexplicitvrlittleendian/
+url: /net/aspose.medical.dicom/transfersyntax/deflatedexplicitvrlittleendian/
 ---
 
 ## TransferSyntax.DeflatedExplicitVrLittleEndian field

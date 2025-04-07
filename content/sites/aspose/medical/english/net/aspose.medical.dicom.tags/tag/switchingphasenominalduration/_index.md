@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018936C VRDS VM1 Switching Phase Nominal Duration.
 type: docs
 weight: 46570
-url: /aspose.medical.dicom.tags/tag/switchingphasenominalduration/
+url: /net/aspose.medical.dicom.tags/tag/switchingphasenominalduration/
 ---
 
 ## Tag.SwitchingPhaseNominalDuration field

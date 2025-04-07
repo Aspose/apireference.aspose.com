@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187030 VRDS VM2 Field of View Origin.
 type: docs
 weight: 15000
-url: /aspose.medical.dicom.tags/tag/fieldofvieworigin/
+url: /net/aspose.medical.dicom.tags/tag/fieldofvieworigin/
 ---
 
 ## Tag.FieldOfViewOrigin field

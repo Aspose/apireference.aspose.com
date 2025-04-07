@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180028 VRDS VM1 Intervention Drug Dose.
 type: docs
 weight: 21150
-url: /aspose.medical.dicom.tags/tag/interventiondrugdose/
+url: /net/aspose.medical.dicom.tags/tag/interventiondrugdose/
 ---
 
 ## Tag.InterventionDrugDose field

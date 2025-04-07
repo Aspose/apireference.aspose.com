@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700257 VRCS VM1 Fill Mode.
 type: docs
 weight: 15200
-url: /aspose.medical.dicom.tags/tag/fillmode/
+url: /net/aspose.medical.dicom.tags/tag/fillmode/
 ---
 
 ## Tag.FillMode field

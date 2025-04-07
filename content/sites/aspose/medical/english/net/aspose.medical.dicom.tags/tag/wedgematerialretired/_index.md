@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014510B VRSH VM1 Wedge Material RETIRED.
 type: docs
 weight: 52210
-url: /aspose.medical.dicom.tags/tag/wedgematerialretired/
+url: /net/aspose.medical.dicom.tags/tag/wedgematerialretired/
 ---
 
 ## Tag.WedgeMaterialRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701704 VRFD VM1 Diffuse Reflection Intensity.
 type: docs
 weight: 11590
-url: /aspose.medical.dicom.tags/tag/diffusereflectionintensity/
+url: /net/aspose.medical.dicom.tags/tag/diffusereflectionintensity/
 ---
 
 ## Tag.DiffuseReflectionIntensity field

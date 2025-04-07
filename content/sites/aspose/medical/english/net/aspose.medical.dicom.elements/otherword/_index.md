@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Other Word OW VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextOW-Other20Word-A20stream20of.
 type: docs
 weight: 390
-url: /aspose.medical.dicom.elements/otherword/
+url: /net/aspose.medical.dicom.elements/otherword/
 ---
 
 ## OtherWord class

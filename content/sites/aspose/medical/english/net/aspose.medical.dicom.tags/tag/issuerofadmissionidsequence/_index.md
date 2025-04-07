@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380014 VRSQ VM1 Issuer of Admission ID Sequence.
 type: docs
 weight: 21780
-url: /aspose.medical.dicom.tags/tag/issuerofadmissionidsequence/
+url: /net/aspose.medical.dicom.tags/tag/issuerofadmissionidsequence/
 ---
 
 ## Tag.IssuerOfAdmissionIDSequence field

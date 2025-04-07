@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010002D VRLO VM1 Device Label.
 type: docs
 weight: 11350
-url: /aspose.medical.dicom.tags/tag/devicelabel/
+url: /net/aspose.medical.dicom.tags/tag/devicelabel/
 ---
 
 ## Tag.DeviceLabel field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145103 VRDS VM1 Main Lobe Angle RETIRED.
 type: docs
 weight: 23370
-url: /aspose.medical.dicom.tags/tag/mainlobeangleretired/
+url: /net/aspose.medical.dicom.tags/tag/mainlobeangleretired/
 ---
 
 ## Tag.MainLobeAngleRETIRED field

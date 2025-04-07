@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3004000A VRCS VM1 Dose Summation Type.
 type: docs
 weight: 12780
-url: /aspose.medical.dicom.tags/tag/dosesummationtype/
+url: /net/aspose.medical.dicom.tags/tag/dosesummationtype/
 ---
 
 ## Tag.DoseSummationType field

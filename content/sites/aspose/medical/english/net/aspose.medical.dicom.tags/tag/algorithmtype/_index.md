@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189527 VRCS VM1 Algorithm Type.
 type: docs
 weight: 1210
-url: /aspose.medical.dicom.tags/tag/algorithmtype/
+url: /net/aspose.medical.dicom.tags/tag/algorithmtype/
 ---
 
 ## Tag.AlgorithmType field

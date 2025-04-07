@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A022E VRTM VM1 Source Strength Reference Time.
 type: docs
 weight: 44530
-url: /aspose.medical.dicom.tags/tag/sourcestrengthreferencetime/
+url: /net/aspose.medical.dicom.tags/tag/sourcestrengthreferencetime/
 ---
 
 ## Tag.SourceStrengthReferenceTime field

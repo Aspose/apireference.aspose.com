@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080310 VRSQ VM1 Private Data Element Definition Sequence.
 type: docs
 weight: 33080
-url: /aspose.medical.dicom.tags/tag/privatedataelementdefinitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/privatedataelementdefinitionsequence/
 ---
 
 ## Tag.PrivateDataElementDefinitionSequence field

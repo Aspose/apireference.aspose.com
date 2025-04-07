@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Defined Procedure Protocol Information Model - GET.
 type: docs
 weight: 560
-url: /aspose.medical.dicom/uid/definedprocedureprotocolinformationmodelget/
+url: /net/aspose.medical.dicom/uid/definedprocedureprotocolinformationmodelget/
 ---
 
 ## Uid.DefinedProcedureProtocolInformationModelGET field

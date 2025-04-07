@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160051 VRUT VM1 Lens Serial Number.
 type: docs
 weight: 22660
-url: /aspose.medical.dicom.tags/tag/lensserialnumber/
+url: /net/aspose.medical.dicom.tags/tag/lensserialnumber/
 ---
 
 ## Tag.LensSerialNumber field

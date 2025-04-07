@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008040B VRUR VM1 Filename in Container.
 type: docs
 weight: 15100
-url: /aspose.medical.dicom.tags/tag/filenameincontainer/
+url: /net/aspose.medical.dicom.tags/tag/filenameincontainer/
 ---
 
 ## Tag.FilenameInContainer field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142210 VROB VM1 Coordinate System Axis Values RETIRED.
 type: docs
 weight: 8700
-url: /aspose.medical.dicom.tags/tag/coordinatesystemaxisvaluesretired/
+url: /net/aspose.medical.dicom.tags/tag/coordinatesystemaxisvaluesretired/
 ---
 
 ## Tag.CoordinateSystemAxisValuesRETIRED field

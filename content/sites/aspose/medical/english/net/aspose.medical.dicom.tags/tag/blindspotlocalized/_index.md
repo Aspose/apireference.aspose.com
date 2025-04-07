@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240106 VRCS VM1 Blind Spot Localized.
 type: docs
 weight: 3940
-url: /aspose.medical.dicom.tags/tag/blindspotlocalized/
+url: /net/aspose.medical.dicom.tags/tag/blindspotlocalized/
 ---
 
 ## Tag.BlindSpotLocalized field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741404 VRIS VM1 Continuation Pulse Number.
 type: docs
 weight: 8040
-url: /aspose.medical.dicom.tags/tag/continuationpulsenumber/
+url: /net/aspose.medical.dicom.tags/tag/continuationpulsenumber/
 ---
 
 ## Tag.ContinuationPulseNumber field

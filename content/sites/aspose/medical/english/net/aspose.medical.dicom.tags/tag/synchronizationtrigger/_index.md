@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018106A VRCS VM1 Synchronization Trigger.
 type: docs
 weight: 46630
-url: /aspose.medical.dicom.tags/tag/synchronizationtrigger/
+url: /net/aspose.medical.dicom.tags/tag/synchronizationtrigger/
 ---
 
 ## Tag.SynchronizationTrigger field

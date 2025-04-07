@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0068 VRUS VM1 Overlay Repeat Interval RETIRED.
 type: docs
 weight: 29160
-url: /aspose.medical.dicom.tags/tag/overlayrepeatintervalretired/
+url: /net/aspose.medical.dicom.tags/tag/overlayrepeatintervalretired/
 ---
 
 ## Tag.OverlayRepeatIntervalRETIRED field

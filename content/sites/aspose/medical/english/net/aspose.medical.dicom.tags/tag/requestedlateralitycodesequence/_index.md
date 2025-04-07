@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321065 VRSQ VM1 Requested Laterality Code Sequence.
 type: docs
 weight: 38670
-url: /aspose.medical.dicom.tags/tag/requestedlateralitycodesequence/
+url: /net/aspose.medical.dicom.tags/tag/requestedlateralitycodesequence/
 ---
 
 ## Tag.RequestedLateralityCodeSequence field

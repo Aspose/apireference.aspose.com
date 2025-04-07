@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081115 VRSQ VM1 Referenced Series Sequence.
 type: docs
 weight: 37330
-url: /aspose.medical.dicom.tags/tag/referencedseriessequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedseriessequence/
 ---
 
 ## Tag.ReferencedSeriesSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Photoacoustic Image Storage.
 type: docs
 weight: 3030
-url: /aspose.medical.dicom/uid/photoacousticimagestorage/
+url: /net/aspose.medical.dicom/uid/photoacousticimagestorage/
 ---
 
 ## Uid.PhotoacousticImageStorage field

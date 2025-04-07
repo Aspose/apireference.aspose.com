@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0680 VRDS VM1 Nominal Energy.
 type: docs
 weight: 25780
-url: /aspose.medical.dicom.tags/tag/nominalenergy/
+url: /net/aspose.medical.dicom.tags/tag/nominalenergy/
 ---
 
 ## Tag.NominalEnergy field

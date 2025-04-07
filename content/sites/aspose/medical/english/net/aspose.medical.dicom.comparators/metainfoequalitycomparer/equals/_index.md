@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 30
-url: /aspose.medical.dicom.comparators/metainfoequalitycomparer/equals/
+url: /net/aspose.medical.dicom.comparators/metainfoequalitycomparer/equals/
 ---
 
 ## MetaInfoEqualityComparer.Equals method

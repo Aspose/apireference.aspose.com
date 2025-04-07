@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A603 VRCS VM1 Procedure Context Flag Trial RETIRED.
 type: docs
 weight: 33320
-url: /aspose.medical.dicom.tags/tag/procedurecontextflagtrialretired/
+url: /net/aspose.medical.dicom.tags/tag/procedurecontextflagtrialretired/
 ---
 
 ## Tag.ProcedureContextFlagTrialRETIRED field

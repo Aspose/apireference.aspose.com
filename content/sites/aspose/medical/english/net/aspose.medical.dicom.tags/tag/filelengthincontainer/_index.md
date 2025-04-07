@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008040D VRUV VM1 File Length in Container.
 type: docs
 weight: 15070
-url: /aspose.medical.dicom.tags/tag/filelengthincontainer/
+url: /net/aspose.medical.dicom.tags/tag/filelengthincontainer/
 ---
 
 ## Tag.FileLengthInContainer field

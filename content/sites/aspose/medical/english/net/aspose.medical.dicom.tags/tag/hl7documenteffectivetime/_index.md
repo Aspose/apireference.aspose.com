@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040E004 VRDT VM1 HL7 Document Effective Time.
 type: docs
 weight: 18420
-url: /aspose.medical.dicom.tags/tag/hl7documenteffectivetime/
+url: /net/aspose.medical.dicom.tags/tag/hl7documenteffectivetime/
 ---
 
 ## Tag.HL7DocumentEffectiveTime field

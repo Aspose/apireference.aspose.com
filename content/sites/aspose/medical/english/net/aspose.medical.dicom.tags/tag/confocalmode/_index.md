@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480114 VRCS VM1 Confocal Mode.
 type: docs
 weight: 7560
-url: /aspose.medical.dicom.tags/tag/confocalmode/
+url: /net/aspose.medical.dicom.tags/tag/confocalmode/
 ---
 
 ## Tag.ConfocalMode field

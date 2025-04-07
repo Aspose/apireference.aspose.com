@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A068A VRSQ VM1 Referenced RT Prescription Sequence.
 type: docs
 weight: 37220
-url: /aspose.medical.dicom.tags/tag/referencedrtprescriptionsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedrtprescriptionsequence/
 ---
 
 ## Tag.ReferencedRTPrescriptionSequence field

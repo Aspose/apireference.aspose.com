@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280082 VRUS VM1-n Predictor Constants RETIRED.
 type: docs
 weight: 32380
-url: /aspose.medical.dicom.tags/tag/predictorconstantsretired/
+url: /net/aspose.medical.dicom.tags/tag/predictorconstantsretired/
 ---
 
 ## Tag.PredictorConstantsRETIRED field

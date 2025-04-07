@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Type used to represent VR value. Read-only Type.
 type: docs
 weight: 460
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/valuetype/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/valuetype/
 ---
 
 ## ValueRepresentation.ValueType property

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0026 VRDS VM1 Target Prescription Dose.
 type: docs
 weight: 47430
-url: /aspose.medical.dicom.tags/tag/targetprescriptiondose/
+url: /net/aspose.medical.dicom.tags/tag/targetprescriptiondose/
 ---
 
 ## Tag.TargetPrescriptionDose field

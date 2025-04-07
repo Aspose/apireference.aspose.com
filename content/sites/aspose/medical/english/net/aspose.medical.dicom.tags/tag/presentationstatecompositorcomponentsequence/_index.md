@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701805 VRSQ VM1 Presentation State Compositor Component Sequence.
 type: docs
 weight: 32670
-url: /aspose.medical.dicom.tags/tag/presentationstatecompositorcomponentsequence/
+url: /net/aspose.medical.dicom.tags/tag/presentationstatecompositorcomponentsequence/
 ---
 
 ## Tag.PresentationStateCompositorComponentSequence field

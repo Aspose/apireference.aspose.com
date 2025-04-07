@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181403 VRCS VM1 Cassette Size.
 type: docs
 weight: 5180
-url: /aspose.medical.dicom.tags/tag/cassettesize/
+url: /net/aspose.medical.dicom.tags/tag/cassettesize/
 ---
 
 ## Tag.CassetteSize field

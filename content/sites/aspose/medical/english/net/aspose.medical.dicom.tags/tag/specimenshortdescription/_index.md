@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400600 VRLO VM1 Specimen Short Description.
 type: docs
 weight: 45070
-url: /aspose.medical.dicom.tags/tag/specimenshortdescription/
+url: /net/aspose.medical.dicom.tags/tag/specimenshortdescription/
 ---
 
 ## Tag.SpecimenShortDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080096 VRSQ VM1 Referring Physician Identification Sequence.
 type: docs
 weight: 37850
-url: /aspose.medical.dicom.tags/tag/referringphysicianidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/referringphysicianidentificationsequence/
 ---
 
 ## Tag.ReferringPhysicianIdentificationSequence field

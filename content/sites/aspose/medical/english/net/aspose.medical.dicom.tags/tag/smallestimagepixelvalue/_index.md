@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280106 VRUS or SS VM1 Smallest Image Pixel Value.
 type: docs
 weight: 43650
-url: /aspose.medical.dicom.tags/tag/smallestimagepixelvalue/
+url: /net/aspose.medical.dicom.tags/tag/smallestimagepixelvalue/
 ---
 
 ## Tag.SmallestImagePixelValue field

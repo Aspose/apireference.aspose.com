@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181070 VRLO VM1 Radiopharmaceutical Route.
 type: docs
 weight: 34630
-url: /aspose.medical.dicom.tags/tag/radiopharmaceuticalroute/
+url: /net/aspose.medical.dicom.tags/tag/radiopharmaceuticalroute/
 ---
 
 ## Tag.RadiopharmaceuticalRoute field

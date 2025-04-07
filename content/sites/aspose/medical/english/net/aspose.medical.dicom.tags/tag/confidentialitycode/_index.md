@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401008 VRLO VM1 Confidentiality Code.
 type: docs
 weight: 7460
-url: /aspose.medical.dicom.tags/tag/confidentialitycode/
+url: /net/aspose.medical.dicom.tags/tag/confidentialitycode/
 ---
 
 ## Tag.ConfidentialityCode field

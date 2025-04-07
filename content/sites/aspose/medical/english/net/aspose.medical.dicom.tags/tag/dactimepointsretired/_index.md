@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014403A VRDS VM1-n DAC Time Points RETIRED.
 type: docs
 weight: 9680
-url: /aspose.medical.dicom.tags/tag/dactimepointsretired/
+url: /net/aspose.medical.dicom.tags/tag/dactimepointsretired/
 ---
 
 ## Tag.DACTimePointsRETIRED field

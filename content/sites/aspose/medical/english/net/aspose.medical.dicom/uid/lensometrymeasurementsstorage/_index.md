@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Lensometry Measurements Storage.
 type: docs
 weight: 2520
-url: /aspose.medical.dicom/uid/lensometrymeasurementsstorage/
+url: /net/aspose.medical.dicom/uid/lensometrymeasurementsstorage/
 ---
 
 ## Uid.LensometryMeasurementsStorage field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100032 VRSQ VM1 Patient Treatment Orientation Sequence.
 type: docs
 weight: 30420
-url: /aspose.medical.dicom.tags/tag/patienttreatmentorientationsequence/
+url: /net/aspose.medical.dicom.tags/tag/patienttreatmentorientationsequence/
 ---
 
 ## Tag.PatientTreatmentOrientationSequence field

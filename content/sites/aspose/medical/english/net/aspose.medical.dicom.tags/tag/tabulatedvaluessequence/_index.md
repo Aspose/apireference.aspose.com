@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A801 VRSQ VM1 Tabulated Values Sequence.
 type: docs
 weight: 47240
-url: /aspose.medical.dicom.tags/tag/tabulatedvaluessequence/
+url: /net/aspose.medical.dicom.tags/tag/tabulatedvaluessequence/
 ---
 
 ## Tag.TabulatedValuesSequence field

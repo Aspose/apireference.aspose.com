@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080060 VRCS VM1 Modality.
 type: docs
 weight: 24650
-url: /aspose.medical.dicom.tags/tag/modality/
+url: /net/aspose.medical.dicom.tags/tag/modality/
 ---
 
 ## Tag.Modality field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240087 VRFL VM1 Foveal Sensitivity.
 type: docs
 weight: 16280
-url: /aspose.medical.dicom.tags/tag/fovealsensitivity/
+url: /net/aspose.medical.dicom.tags/tag/fovealsensitivity/
 ---
 
 ## Tag.FovealSensitivity field

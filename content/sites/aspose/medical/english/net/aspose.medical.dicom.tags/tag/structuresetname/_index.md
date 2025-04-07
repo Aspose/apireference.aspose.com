@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060004 VRLO VM1 Structure Set Name.
 type: docs
 weight: 45890
-url: /aspose.medical.dicom.tags/tag/structuresetname/
+url: /net/aspose.medical.dicom.tags/tag/structuresetname/
 ---
 
 ## Tag.StructureSetName field

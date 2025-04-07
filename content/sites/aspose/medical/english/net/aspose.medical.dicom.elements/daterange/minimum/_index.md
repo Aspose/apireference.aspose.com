@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Minimum value in a range inclusive. If not specified then shall match all moments subsequent to and including Maximumaspose.medical.dicom.elements/daterange/maximum. Read / Write DateTimeaspose.medical.dicom.elements/datetime.
 type: docs
 weight: 40
-url: /aspose.medical.dicom.elements/daterange/minimum/
+url: /net/aspose.medical.dicom.elements/daterange/minimum/
 ---
 
 ## DateRange.Minimum property

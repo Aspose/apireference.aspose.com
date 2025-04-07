@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080070 VRLO VM1 Manufacturer.
 type: docs
 weight: 23440
-url: /aspose.medical.dicom.tags/tag/manufacturer/
+url: /net/aspose.medical.dicom.tags/tag/manufacturer/
 ---
 
 ## Tag.Manufacturer field

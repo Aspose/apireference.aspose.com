@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189531 VRLO VM1 Reconstruction Description.
 type: docs
 weight: 35600
-url: /aspose.medical.dicom.tags/tag/reconstructiondescription/
+url: /net/aspose.medical.dicom.tags/tag/reconstructiondescription/
 ---
 
 ## Tag.ReconstructionDescription field

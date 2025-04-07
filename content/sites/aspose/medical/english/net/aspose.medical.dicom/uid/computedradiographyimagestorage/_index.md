@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Computed Radiography Image Storage.
 type: docs
 weight: 470
-url: /aspose.medical.dicom/uid/computedradiographyimagestorage/
+url: /net/aspose.medical.dicom/uid/computedradiographyimagestorage/
 ---
 
 ## Uid.ComputedRadiographyImageStorage field

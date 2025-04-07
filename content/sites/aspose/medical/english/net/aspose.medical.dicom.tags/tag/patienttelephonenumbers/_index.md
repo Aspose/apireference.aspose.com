@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102154 VRSH VM1-n Patients Telephone Numbers.
 type: docs
 weight: 30390
-url: /aspose.medical.dicom.tags/tag/patienttelephonenumbers/
+url: /net/aspose.medical.dicom.tags/tag/patienttelephonenumbers/
 ---
 
 ## Tag.PatientTelephoneNumbers field

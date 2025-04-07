@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189829 VRCS VM1 Acoustic Coupling Medium Flag.
 type: docs
 weight: 120
-url: /aspose.medical.dicom.tags/tag/acousticcouplingmediumflag/
+url: /net/aspose.medical.dicom.tags/tag/acousticcouplingmediumflag/
 ---
 
 ## Tag.AcousticCouplingMediumFlag field

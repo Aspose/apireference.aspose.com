@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0736 VRDT VM1 Treatment Tolerance Violation DateTime.
 type: docs
 weight: 49950
-url: /aspose.medical.dicom.tags/tag/treatmenttoleranceviolationdatetime/
+url: /net/aspose.medical.dicom.tags/tag/treatmenttoleranceviolationdatetime/
 ---
 
 ## Tag.TreatmentToleranceViolationDateTime field

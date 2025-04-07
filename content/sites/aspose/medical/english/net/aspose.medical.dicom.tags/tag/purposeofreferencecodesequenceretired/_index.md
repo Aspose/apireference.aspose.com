@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A170 VRSQ VM1 Purpose of Reference Code Sequence RETIRED.
 type: docs
 weight: 33910
-url: /aspose.medical.dicom.tags/tag/purposeofreferencecodesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/purposeofreferencecodesequenceretired/
 ---
 
 ## Tag.PurposeOfReferenceCodeSequenceRETIRED field

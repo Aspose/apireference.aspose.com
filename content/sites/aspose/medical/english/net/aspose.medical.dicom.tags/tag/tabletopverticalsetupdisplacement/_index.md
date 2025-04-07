@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A01D2 VRDS VM1 Table Top Vertical Setup Displacement.
 type: docs
 weight: 47170
-url: /aspose.medical.dicom.tags/tag/tabletopverticalsetupdisplacement/
+url: /net/aspose.medical.dicom.tags/tag/tabletopverticalsetupdisplacement/
 ---
 
 ## Tag.TableTopVerticalSetupDisplacement field

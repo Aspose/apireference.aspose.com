@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189104 VRFD VM1 Slab Thickness.
 type: docs
 weight: 43570
-url: /aspose.medical.dicom.tags/tag/slabthickness/
+url: /net/aspose.medical.dicom.tags/tag/slabthickness/
 ---
 
 ## Tag.SlabThickness field

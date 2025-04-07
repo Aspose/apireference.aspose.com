@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200020 VRCS VM2 Patient Orientation.
 type: docs
 weight: 29960
-url: /aspose.medical.dicom.tags/tag/patientorientation/
+url: /net/aspose.medical.dicom.tags/tag/patientorientation/
 ---
 
 ## Tag.PatientOrientation field

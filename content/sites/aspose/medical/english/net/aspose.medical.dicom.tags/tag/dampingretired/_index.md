@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144028 VRDS VM1 Damping RETIRED.
 type: docs
 weight: 9700
-url: /aspose.medical.dicom.tags/tag/dampingretired/
+url: /net/aspose.medical.dicom.tags/tag/dampingretired/
 ---
 
 ## Tag.DampingRETIRED field

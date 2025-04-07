@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00083001 VRSQ VM1 Alternate Representation Sequence.
 type: docs
 weight: 1380
-url: /aspose.medical.dicom.tags/tag/alternaterepresentationsequence/
+url: /net/aspose.medical.dicom.tags/tag/alternaterepresentationsequence/
 ---
 
 ## Tag.AlternateRepresentationSequence field

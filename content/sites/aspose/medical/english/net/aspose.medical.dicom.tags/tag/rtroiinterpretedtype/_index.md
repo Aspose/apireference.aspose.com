@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300600A4 VRCS VM1 RT ROI Interpreted Type.
 type: docs
 weight: 40570
-url: /aspose.medical.dicom.tags/tag/rtroiinterpretedtype/
+url: /net/aspose.medical.dicom.tags/tag/rtroiinterpretedtype/
 ---
 
 ## Tag.RTROIInterpretedType field

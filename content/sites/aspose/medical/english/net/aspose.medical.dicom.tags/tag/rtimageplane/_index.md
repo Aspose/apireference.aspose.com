@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002000C VRCS VM1 RT Image Plane.
 type: docs
 weight: 40200
-url: /aspose.medical.dicom.tags/tag/rtimageplane/
+url: /net/aspose.medical.dicom.tags/tag/rtimageplane/
 ---
 
 ## Tag.RTImagePlane field

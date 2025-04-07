@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209246 VRFL VM1 Starting Respiratory Amplitude.
 type: docs
 weight: 45370
-url: /aspose.medical.dicom.tags/tag/startingrespiratoryamplitude/
+url: /net/aspose.medical.dicom.tags/tag/startingrespiratoryamplitude/
 ---
 
 ## Tag.StartingRespiratoryAmplitude field

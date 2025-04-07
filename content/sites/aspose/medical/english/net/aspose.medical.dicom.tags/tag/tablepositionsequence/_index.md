@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189406 VRSQ VM1 Table Position Sequence.
 type: docs
 weight: 46880
-url: /aspose.medical.dicom.tags/tag/tablepositionsequence/
+url: /net/aspose.medical.dicom.tags/tag/tablepositionsequence/
 ---
 
 ## Tag.TablePositionSequence field

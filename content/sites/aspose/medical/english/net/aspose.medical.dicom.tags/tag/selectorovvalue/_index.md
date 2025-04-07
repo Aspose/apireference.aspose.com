@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720081 VROV VM1 Selector OV Value.
 type: docs
 weight: 42500
-url: /aspose.medical.dicom.tags/tag/selectorovvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorovvalue/
 ---
 
 ## Tag.SelectorOVValue field

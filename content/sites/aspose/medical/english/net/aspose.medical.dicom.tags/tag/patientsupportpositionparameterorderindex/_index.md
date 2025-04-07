@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A065F VRUS VM1 Patient Support Position Parameter Order Index.
 type: docs
 weight: 30300
-url: /aspose.medical.dicom.tags/tag/patientsupportpositionparameterorderindex/
+url: /net/aspose.medical.dicom.tags/tag/patientsupportpositionparameterorderindex/
 ---
 
 ## Tag.PatientSupportPositionParameterOrderIndex field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Specifies whether to write if true a Group Length element for Sequenceaspose.medical.dicom.elements/sequence item. Read-only Boolean.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.writers/saveoptions/explicitlengthsequenceitems/
+url: /net/aspose.medical.dicom.writers/saveoptions/explicitlengthsequenceitems/
 ---
 
 ## SaveOptions.ExplicitLengthSequenceItems property

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class RT Ion Plan Storage.
 type: docs
 weight: 4130
-url: /aspose.medical.dicom/uid/rtionplanstorage/
+url: /net/aspose.medical.dicom/uid/rtionplanstorage/
 ---
 
 ## Uid.RTIonPlanStorage field

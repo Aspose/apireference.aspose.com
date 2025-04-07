@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A290 VRCS VM1 Coordinates Set Geometric Type Trial RETIRED.
 type: docs
 weight: 8610
-url: /aspose.medical.dicom.tags/tag/coordinatessetgeometrictypetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/coordinatessetgeometrictypetrialretired/
 ---
 
 ## Tag.CoordinatesSetGeometricTypeTrialRETIRED field

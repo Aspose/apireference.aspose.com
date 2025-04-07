@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209238 VRLO VM1 Functional Group Private Creator.
 type: docs
 weight: 16870
-url: /aspose.medical.dicom.tags/tag/functionalgroupprivatecreator/
+url: /net/aspose.medical.dicom.tags/tag/functionalgroupprivatecreator/
 ---
 
 ## Tag.FunctionalGroupPrivateCreator field

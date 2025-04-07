@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720071 VRUR VM1 Selector UR Value.
 type: docs
 weight: 42660
-url: /aspose.medical.dicom.tags/tag/selectorurvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorurvalue/
 ---
 
 ## Tag.SelectorURValue field

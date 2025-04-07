@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Tags default value representation. Read-only ValueRepresentationaspose.medical.dicom.valuerepresentations/valuerepresentation.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.tags/tagmetadata/valuerepresentations/
+url: /net/aspose.medical.dicom.tags/tagmetadata/valuerepresentations/
 ---
 
 ## TagMetadata.ValueRepresentations property

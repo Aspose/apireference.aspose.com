@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0681 VRDS VM1 Minimum Nominal Energy.
 type: docs
 weight: 24600
-url: /aspose.medical.dicom.tags/tag/minimumnominalenergy/
+url: /net/aspose.medical.dicom.tags/tag/minimumnominalenergy/
 ---
 
 ## Tag.MinimumNominalEnergy field

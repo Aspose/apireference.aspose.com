@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189298 VRIS VM1 Echo Peak Position.
 type: docs
 weight: 13210
-url: /aspose.medical.dicom.tags/tag/echopeakposition/
+url: /net/aspose.medical.dicom.tags/tag/echopeakposition/
 ---
 
 ## Tag.EchoPeakPosition field

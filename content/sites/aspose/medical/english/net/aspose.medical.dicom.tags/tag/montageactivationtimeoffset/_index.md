@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040B038 VRDS VM1 Montage Activation Time Offset.
 type: docs
 weight: 24880
-url: /aspose.medical.dicom.tags/tag/montageactivationtimeoffset/
+url: /net/aspose.medical.dicom.tags/tag/montageactivationtimeoffset/
 ---
 
 ## Tag.MontageActivationTimeOffset field

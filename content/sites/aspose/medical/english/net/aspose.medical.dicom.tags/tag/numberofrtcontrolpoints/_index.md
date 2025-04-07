@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0604 VRUS VM1 Number of RT Control Points.
 type: docs
 weight: 26810
-url: /aspose.medical.dicom.tags/tag/numberofrtcontrolpoints/
+url: /net/aspose.medical.dicom.tags/tag/numberofrtcontrolpoints/
 ---
 
 ## Tag.NumberOfRTControlPoints field

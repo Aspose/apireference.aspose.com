@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Creates GrayscaleRenderOptionsaspose.medical.dicom.imaging.renderoptions/grayscalerenderoptions from the given pixelData and populate the options properties with values
 type: docs
 weight: 10
-url: /aspose.medical.dicom.imaging.renderoptions/renderoptionsfactory/create/
+url: /net/aspose.medical.dicom.imaging.renderoptions/renderoptionsfactory/create/
 ---
 
 ## RenderOptionsFactory.Create method

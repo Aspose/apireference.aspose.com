@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00F6 VRDS VM1 Source to Block Tray Distance.
 type: docs
 weight: 44570
-url: /aspose.medical.dicom.tags/tag/sourcetoblocktraydistance/
+url: /net/aspose.medical.dicom.tags/tag/sourcetoblocktraydistance/
 ---
 
 ## Tag.SourceToBlockTrayDistance field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020128 VRSQ VM1 MV Imaging Generation Parameters Sequence.
 type: docs
 weight: 25610
-url: /aspose.medical.dicom.tags/tag/mvimaginggenerationparameterssequence/
+url: /net/aspose.medical.dicom.tags/tag/mvimaginggenerationparameterssequence/
 ---
 
 ## Tag.MVImagingGenerationParametersSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00104000 VRLT VM1 Patient Comments.
 type: docs
 weight: 29790
-url: /aspose.medical.dicom.tags/tag/patientcomments/
+url: /net/aspose.medical.dicom.tags/tag/patientcomments/
 ---
 
 ## Tag.PatientComments field

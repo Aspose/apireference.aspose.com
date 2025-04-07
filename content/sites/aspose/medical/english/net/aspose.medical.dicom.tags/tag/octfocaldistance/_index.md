@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520002 VRFD VM1 OCT Focal Distance.
 type: docs
 weight: 27470
-url: /aspose.medical.dicom.tags/tag/octfocaldistance/
+url: /net/aspose.medical.dicom.tags/tag/octfocaldistance/
 ---
 
 ## Tag.OCTFocalDistance field

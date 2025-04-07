@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A163 VRUL VM1-n Rational Denominator Value.
 type: docs
 weight: 35000
-url: /aspose.medical.dicom.tags/tag/rationaldenominatorvalue/
+url: /net/aspose.medical.dicom.tags/tag/rationaldenominatorvalue/
 ---
 
 ## Tag.RationalDenominatorValue field

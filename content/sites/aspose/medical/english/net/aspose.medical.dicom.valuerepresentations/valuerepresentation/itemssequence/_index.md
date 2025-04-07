@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Items sequence SQ.
 type: docs
 weight: 110
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/itemssequence/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/itemssequence/
 ---
 
 ## ValueRepresentation.ItemsSequence field

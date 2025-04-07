@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701604 VRFD VM3 Viewpoint LookAt Point.
 type: docs
 weight: 51240
-url: /aspose.medical.dicom.tags/tag/viewpointlookatpoint/
+url: /net/aspose.medical.dicom.tags/tag/viewpointlookatpoint/
 ---
 
 ## Tag.ViewpointLookAtPoint field

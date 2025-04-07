@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000902 VRLO VM1 Error Comment.
 type: docs
 weight: 13980
-url: /aspose.medical.dicom.tags/tag/errorcomment/
+url: /net/aspose.medical.dicom.tags/tag/errorcomment/
 ---
 
 ## Tag.ErrorComment field

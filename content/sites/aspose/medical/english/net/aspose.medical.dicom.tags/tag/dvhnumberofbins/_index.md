@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040056 VRIS VM1 DVH Number of Bins.
 type: docs
 weight: 13130
-url: /aspose.medical.dicom.tags/tag/dvhnumberofbins/
+url: /net/aspose.medical.dicom.tags/tag/dvhnumberofbins/
 ---
 
 ## Tag.DVHNumberOfBins field

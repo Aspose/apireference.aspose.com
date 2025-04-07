@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720102 VRSQ VM1 Nominal Screen Definition Sequence.
 type: docs
 weight: 25900
-url: /aspose.medical.dicom.tags/tag/nominalscreendefinitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/nominalscreendefinitionsequence/
 ---
 
 ## Tag.NominalScreenDefinitionSequence field

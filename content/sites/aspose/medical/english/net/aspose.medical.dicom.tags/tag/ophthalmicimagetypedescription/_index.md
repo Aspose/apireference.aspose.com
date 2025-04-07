@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221616 VRLO VM1 Ophthalmic Image Type Description.
 type: docs
 weight: 28130
-url: /aspose.medical.dicom.tags/tag/ophthalmicimagetypedescription/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicimagetypedescription/
 ---
 
 ## Tag.OphthalmicImageTypeDescription field

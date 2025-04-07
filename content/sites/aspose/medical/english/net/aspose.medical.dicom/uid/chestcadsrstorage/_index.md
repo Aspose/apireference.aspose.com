@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Chest CAD SR Storage.
 type: docs
 weight: 330
-url: /aspose.medical.dicom/uid/chestcadsrstorage/
+url: /net/aspose.medical.dicom/uid/chestcadsrstorage/
 ---
 
 ## Uid.ChestCADSRStorage field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A03A0 VRSQ VM1 Ion Tolerance Table Sequence.
 type: docs
 weight: 21550
-url: /aspose.medical.dicom.tags/tag/iontolerancetablesequence/
+url: /net/aspose.medical.dicom.tags/tag/iontolerancetablesequence/
 ---
 
 ## Tag.IonToleranceTableSequence field

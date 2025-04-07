@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701209 VRUI VM1 Volumetric Presentation Input Set UID.
 type: docs
 weight: 51770
-url: /aspose.medical.dicom.tags/tag/volumetricpresentationinputsetuid/
+url: /net/aspose.medical.dicom.tags/tag/volumetricpresentationinputsetuid/
 ---
 
 ## Tag.VolumetricPresentationInputSetUID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020123 VRLT VM1 Position Acquisition Template Description.
 type: docs
 weight: 31970
-url: /aspose.medical.dicom.tags/tag/positionacquisitiontemplatedescription/
+url: /net/aspose.medical.dicom.tags/tag/positionacquisitiontemplatedescription/
 ---
 
 ## Tag.PositionAcquisitionTemplateDescription field

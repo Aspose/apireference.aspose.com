@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404070 VRSQ VM1 Output Destination Sequence.
 type: docs
 weight: 28770
-url: /aspose.medical.dicom.tags/tag/outputdestinationsequence/
+url: /net/aspose.medical.dicom.tags/tag/outputdestinationsequence/
 ---
 
 ## Tag.OutputDestinationSequence field

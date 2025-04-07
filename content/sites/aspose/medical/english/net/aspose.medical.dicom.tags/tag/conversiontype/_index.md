@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080064 VRCS VM1 Conversion Type.
 type: docs
 weight: 8580
-url: /aspose.medical.dicom.tags/tag/conversiontype/
+url: /net/aspose.medical.dicom.tags/tag/conversiontype/
 ---
 
 ## Tag.ConversionType field

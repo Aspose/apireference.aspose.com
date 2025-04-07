@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404034 VRSQ VM1 Scheduled Human Performers Sequence.
 type: docs
 weight: 41310
-url: /aspose.medical.dicom.tags/tag/scheduledhumanperformerssequence/
+url: /net/aspose.medical.dicom.tags/tag/scheduledhumanperformerssequence/
 ---
 
 ## Tag.ScheduledHumanPerformersSequence field

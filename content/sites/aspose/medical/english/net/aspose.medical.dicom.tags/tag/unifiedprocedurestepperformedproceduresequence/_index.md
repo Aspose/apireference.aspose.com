@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741216 VRSQ VM1 Unified Procedure Step Performed Procedure Sequence.
 type: docs
 weight: 50450
-url: /aspose.medical.dicom.tags/tag/unifiedprocedurestepperformedproceduresequence/
+url: /net/aspose.medical.dicom.tags/tag/unifiedprocedurestepperformedproceduresequence/
 ---
 
 ## Tag.UnifiedProcedureStepPerformedProcedureSequence field

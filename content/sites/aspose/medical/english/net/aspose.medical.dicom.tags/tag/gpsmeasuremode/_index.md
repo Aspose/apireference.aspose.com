@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016007A VRCS VM1 GPS Measure Mode.
 type: docs
 weight: 17630
-url: /aspose.medical.dicom.tags/tag/gpsmeasuremode/
+url: /net/aspose.medical.dicom.tags/tag/gpsmeasuremode/
 ---
 
 ## Tag.GPSMeasureMode field

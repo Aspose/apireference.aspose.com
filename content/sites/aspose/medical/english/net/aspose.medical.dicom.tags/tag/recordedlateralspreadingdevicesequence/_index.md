@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300800F4 VRSQ VM1 Recorded Lateral Spreading Device Sequence.
 type: docs
 weight: 35800
-url: /aspose.medical.dicom.tags/tag/recordedlateralspreadingdevicesequence/
+url: /net/aspose.medical.dicom.tags/tag/recordedlateralspreadingdevicesequence/
 ---
 
 ## Tag.RecordedLateralSpreadingDeviceSequence field

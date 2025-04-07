@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081197 VRUS VM1 Failure Reason.
 type: docs
 weight: 14820
-url: /aspose.medical.dicom.tags/tag/failurereason/
+url: /net/aspose.medical.dicom.tags/tag/failurereason/
 ---
 
 ## Tag.FailureReason field

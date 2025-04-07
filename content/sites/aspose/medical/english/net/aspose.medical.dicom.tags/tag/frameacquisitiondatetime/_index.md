@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189074 VRDT VM1 Frame Acquisition DateTime.
 type: docs
 weight: 16440
-url: /aspose.medical.dicom.tags/tag/frameacquisitiondatetime/
+url: /net/aspose.medical.dicom.tags/tag/frameacquisitiondatetime/
 ---
 
 ## Tag.FrameAcquisitionDateTime field

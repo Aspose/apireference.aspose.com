@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189442 VRSS VM2-n Vertices of the Polygonal Exposure Control Sensing Region.
 type: docs
 weight: 51070
-url: /aspose.medical.dicom.tags/tag/verticesofthepolygonalexposurecontrolsensingregion/
+url: /net/aspose.medical.dicom.tags/tag/verticesofthepolygonalexposurecontrolsensingregion/
 ---
 
 ## Tag.VerticesOfThePolygonalExposureControlSensingRegion field

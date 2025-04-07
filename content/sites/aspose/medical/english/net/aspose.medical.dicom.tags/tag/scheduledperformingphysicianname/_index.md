@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400006 VRPN VM1 Scheduled Performing Physicians Name.
 type: docs
 weight: 41340
-url: /aspose.medical.dicom.tags/tag/scheduledperformingphysicianname/
+url: /net/aspose.medical.dicom.tags/tag/scheduledperformingphysicianname/
 ---
 
 ## Tag.ScheduledPerformingPhysicianName field

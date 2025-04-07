@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Comprehensive SR Storage.
 type: docs
 weight: 450
-url: /aspose.medical.dicom/uid/comprehensivesrstorage/
+url: /net/aspose.medical.dicom/uid/comprehensivesrstorage/
 ---
 
 ## Uid.ComprehensiveSRStorage field

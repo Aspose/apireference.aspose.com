@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00089124 VRSQ VM1 Derivation Image Sequence.
 type: docs
 weight: 10820
-url: /aspose.medical.dicom.tags/tag/derivationimagesequence/
+url: /net/aspose.medical.dicom.tags/tag/derivationimagesequence/
 ---
 
 ## Tag.DerivationImageSequence field

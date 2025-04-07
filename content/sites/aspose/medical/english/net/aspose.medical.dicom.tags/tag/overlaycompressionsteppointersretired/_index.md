@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0066 VRAT VM1-n Overlay Compression Step Pointers RETIRED.
 type: docs
 weight: 28950
-url: /aspose.medical.dicom.tags/tag/overlaycompressionsteppointersretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaycompressionsteppointersretired/
 ---
 
 ## Tag.OverlayCompressionStepPointersRETIRED field

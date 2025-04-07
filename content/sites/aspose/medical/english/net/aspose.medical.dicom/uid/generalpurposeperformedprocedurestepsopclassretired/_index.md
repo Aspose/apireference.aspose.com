@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class General Purpose Performed Procedure Step SOP Class Retired.
 type: docs
 weight: 1650
-url: /aspose.medical.dicom/uid/generalpurposeperformedprocedurestepsopclassretired/
+url: /net/aspose.medical.dicom/uid/generalpurposeperformedprocedurestepsopclassretired/
 ---
 
 ## Uid.GeneralPurposePerformedProcedureStepSOPClassRetired field

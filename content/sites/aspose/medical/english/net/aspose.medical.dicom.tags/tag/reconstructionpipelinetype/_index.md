@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811BE VRCS VM1 Reconstruction Pipeline Type.
 type: docs
 weight: 35660
-url: /aspose.medical.dicom.tags/tag/reconstructionpipelinetype/
+url: /net/aspose.medical.dicom.tags/tag/reconstructionpipelinetype/
 ---
 
 ## Tag.ReconstructionPipelineType field

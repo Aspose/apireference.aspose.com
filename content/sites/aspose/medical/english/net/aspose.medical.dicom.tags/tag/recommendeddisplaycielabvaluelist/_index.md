@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660103 VROW VM1 Recommended Display CIELab Value List.
 type: docs
 weight: 35450
-url: /aspose.medical.dicom.tags/tag/recommendeddisplaycielabvaluelist/
+url: /net/aspose.medical.dicom.tags/tag/recommendeddisplaycielabvaluelist/
 ---
 
 ## Tag.RecommendedDisplayCIELabValueList field

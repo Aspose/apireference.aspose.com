@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Positron Emission Tomography Image Storage.
 type: docs
 weight: 3050
-url: /aspose.medical.dicom/uid/positronemissiontomographyimagestorage/
+url: /net/aspose.medical.dicom/uid/positronemissiontomographyimagestorage/
 ---
 
 ## Uid.PositronEmissionTomographyImageStorage field

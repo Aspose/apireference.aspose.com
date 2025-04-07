@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001021B0 VRLT VM1 Additional Patient History.
 type: docs
 weight: 860
-url: /aspose.medical.dicom.tags/tag/additionalpatienthistory/
+url: /net/aspose.medical.dicom.tags/tag/additionalpatienthistory/
 ---
 
 ## Tag.AdditionalPatientHistory field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4010107B VRSQ VM1 PTO Region Sequence RETIRED.
 type: docs
 weight: 33750
-url: /aspose.medical.dicom.tags/tag/ptoregionsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/ptoregionsequenceretired/
 ---
 
 ## Tag.PTORegionSequenceRETIRED field

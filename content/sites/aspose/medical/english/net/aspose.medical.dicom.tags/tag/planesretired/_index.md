@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280012 VRUS VM1 Planes RETIRED.
 type: docs
 weight: 31760
-url: /aspose.medical.dicom.tags/tag/planesretired/
+url: /net/aspose.medical.dicom.tags/tag/planesretired/
 ---
 
 ## Tag.PlanesRETIRED field

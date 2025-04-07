@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022000D VRCS VM1 Pupil Dilated.
 type: docs
 weight: 33890
-url: /aspose.medical.dicom.tags/tag/pupildilated/
+url: /net/aspose.medical.dicom.tags/tag/pupildilated/
 ---
 
 ## Tag.PupilDilated field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A340 VRSQ VM1 Procedure Context Sequence Trial RETIRED.
 type: docs
 weight: 33330
-url: /aspose.medical.dicom.tags/tag/procedurecontextsequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/procedurecontextsequencetrialretired/
 ---
 
 ## Tag.ProcedureContextSequenceTrialRETIRED field

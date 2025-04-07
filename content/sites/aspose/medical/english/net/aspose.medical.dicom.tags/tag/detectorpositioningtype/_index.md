@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002012F VRCS VM1 Detector Positioning Type.
 type: docs
 weight: 11130
-url: /aspose.medical.dicom.tags/tag/detectorpositioningtype/
+url: /net/aspose.medical.dicom.tags/tag/detectorpositioningtype/
 ---
 
 ## Tag.DetectorPositioningType field

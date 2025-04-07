@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181014 VRTM VM1 Time of Secondary Capture.
 type: docs
 weight: 48440
-url: /aspose.medical.dicom.tags/tag/timeofsecondarycapture/
+url: /net/aspose.medical.dicom.tags/tag/timeofsecondarycapture/
 ---
 
 ## Tag.TimeOfSecondaryCapture field

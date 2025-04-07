@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040000A VRSQ VM1 Stage Code Sequence.
 type: docs
 weight: 45250
-url: /aspose.medical.dicom.tags/tag/stagecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/stagecodesequence/
 ---
 
 ## Tag.StageCodeSequence field

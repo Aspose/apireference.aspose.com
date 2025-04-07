@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Converts the string representation of an UID to its typed equivalent.
 type: docs
 weight: 5260
-url: /aspose.medical.dicom/uid/parse/
+url: /net/aspose.medical.dicom/uid/parse/
 ---
 
 ## Parse(string) {#parse_1}

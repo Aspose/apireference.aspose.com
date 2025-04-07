@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx0020 VRCS VM1 Type of Data RETIRED.
 type: docs
 weight: 50270
-url: /aspose.medical.dicom.tags/tag/typeofdataretired/
+url: /net/aspose.medical.dicom.tags/tag/typeofdataretired/
 ---
 
 ## Tag.TypeOfDataRETIRED field

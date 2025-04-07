@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010001E VRLO VM1 Segmentation Creation Template Label.
 type: docs
 weight: 41980
-url: /aspose.medical.dicom.tags/tag/segmentationcreationtemplatelabel/
+url: /net/aspose.medical.dicom.tags/tag/segmentationcreationtemplatelabel/
 ---
 
 ## Tag.SegmentationCreationTemplateLabel field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100028 VRUS VM3 Subject Relative Position in Image.
 type: docs
 weight: 46190
-url: /aspose.medical.dicom.tags/tag/subjectrelativepositioninimage/
+url: /net/aspose.medical.dicom.tags/tag/subjectrelativepositioninimage/
 ---
 
 ## Tag.SubjectRelativePositionInImage field

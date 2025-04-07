@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00800010 VROF VM1 U Value Data.
 type: docs
 weight: 50680
-url: /aspose.medical.dicom.tags/tag/uvaluedata/
+url: /net/aspose.medical.dicom.tags/tag/uvaluedata/
 ---
 
 ## Tag.UValueData field

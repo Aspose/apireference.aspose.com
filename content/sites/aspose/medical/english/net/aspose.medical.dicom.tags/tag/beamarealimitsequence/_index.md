@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0689 VRSQ VM1 Beam Area Limit Sequence.
 type: docs
 weight: 3280
-url: /aspose.medical.dicom.tags/tag/beamarealimitsequence/
+url: /net/aspose.medical.dicom.tags/tag/beamarealimitsequence/
 ---
 
 ## Tag.BeamAreaLimitSequence field

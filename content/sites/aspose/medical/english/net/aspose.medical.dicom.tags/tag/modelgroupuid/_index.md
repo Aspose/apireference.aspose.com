@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00687004 VRUI VM1 Model Group UID.
 type: docs
 weight: 24680
-url: /aspose.medical.dicom.tags/tag/modelgroupuid/
+url: /net/aspose.medical.dicom.tags/tag/modelgroupuid/
 ---
 
 ## Tag.ModelGroupUID field

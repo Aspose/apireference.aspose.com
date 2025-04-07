@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181042 VRTM VM1 Contrast/Bolus Start Time.
 type: docs
 weight: 8340
-url: /aspose.medical.dicom.tags/tag/contrastbolusstarttime/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolusstarttime/
 ---
 
 ## Tag.ContrastBolusStartTime field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287022 VRSQ VM1 Display Device Type Code Sequence.
 type: docs
 weight: 12030
-url: /aspose.medical.dicom.tags/tag/displaydevicetypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/displaydevicetypecodesequence/
 ---
 
 ## Tag.DisplayDeviceTypeCodeSequence field

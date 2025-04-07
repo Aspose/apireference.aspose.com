@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 70
-url: /aspose.medical.dicom.elements/sequence/getenumerator/
+url: /net/aspose.medical.dicom.elements/sequence/getenumerator/
 ---
 
 ## Sequence.GetEnumerator method

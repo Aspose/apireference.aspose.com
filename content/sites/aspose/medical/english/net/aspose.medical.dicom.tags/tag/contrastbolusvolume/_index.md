@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181041 VRDS VM1 Contrast/Bolus Volume.
 type: docs
 weight: 8390
-url: /aspose.medical.dicom.tags/tag/contrastbolusvolume/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolusvolume/
 ---
 
 ## Tag.ContrastBolusVolume field

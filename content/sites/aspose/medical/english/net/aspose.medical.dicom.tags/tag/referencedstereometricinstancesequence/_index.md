@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081134 VRSQ VM1 Referenced Stereometric Instance Sequence.
 type: docs
 weight: 37450
-url: /aspose.medical.dicom.tags/tag/referencedstereometricinstancesequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedstereometricinstancesequence/
 ---
 
 ## Tag.ReferencedStereometricInstanceSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The minimum output value. Read-only Double.
 type: docs
 weight: 40
-url: /aspose.medical.dicom.lookuptables/ilookuptable/minimum/
+url: /net/aspose.medical.dicom.lookuptables/ilookuptable/minimum/
 ---
 
 ## ILookUpTable.Minimum property

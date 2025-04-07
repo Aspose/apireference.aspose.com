@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181610 VRIS VM2 Center of Circular Shutter.
 type: docs
 weight: 5270
-url: /aspose.medical.dicom.tags/tag/centerofcircularshutter/
+url: /net/aspose.medical.dicom.tags/tag/centerofcircularshutter/
 ---
 
 ## Tag.CenterOfCircularShutter field

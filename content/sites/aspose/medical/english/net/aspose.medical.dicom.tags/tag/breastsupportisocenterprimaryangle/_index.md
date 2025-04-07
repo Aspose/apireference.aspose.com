@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189545 VRFD VM1 Breast Support Isocenter Primary Angle.
 type: docs
 weight: 4590
-url: /aspose.medical.dicom.tags/tag/breastsupportisocenterprimaryangle/
+url: /net/aspose.medical.dicom.tags/tag/breastsupportisocenterprimaryangle/
 ---
 
 ## Tag.BreastSupportIsocenterPrimaryAngle field

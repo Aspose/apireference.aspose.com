@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Standalone Curve Storage Retired.
 type: docs
 weight: 4370
-url: /aspose.medical.dicom/uid/standalonecurvestorageretired/
+url: /net/aspose.medical.dicom/uid/standalonecurvestorageretired/
 ---
 
 ## Uid.StandaloneCurveStorageRetired field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Number of entries specified in a modality LUT.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.lookuptables/modalitylookuptabledescriptor/numberofentries/
+url: /net/aspose.medical.dicom.lookuptables/modalitylookuptabledescriptor/numberofentries/
 ---
 
 ## ModalityLookUpTableDescriptor.NumberOfEntries property

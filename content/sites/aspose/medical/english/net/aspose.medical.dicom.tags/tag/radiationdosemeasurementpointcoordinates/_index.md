@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0627 VRFD VM3 Radiation Dose Measurement Point Coordinates.
 type: docs
 weight: 34250
-url: /aspose.medical.dicom.tags/tag/radiationdosemeasurementpointcoordinates/
+url: /net/aspose.medical.dicom.tags/tag/radiationdosemeasurementpointcoordinates/
 ---
 
 ## Tag.RadiationDoseMeasurementPointCoordinates field

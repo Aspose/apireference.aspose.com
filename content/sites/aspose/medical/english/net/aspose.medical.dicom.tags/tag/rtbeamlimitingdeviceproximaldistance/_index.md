@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0642 VRFD VM1 RT Beam Limiting Device Proximal Distance.
 type: docs
 weight: 40010
-url: /aspose.medical.dicom.tags/tag/rtbeamlimitingdeviceproximaldistance/
+url: /net/aspose.medical.dicom.tags/tag/rtbeamlimitingdeviceproximaldistance/
 ---
 
 ## Tag.RTBeamLimitingDeviceProximalDistance field

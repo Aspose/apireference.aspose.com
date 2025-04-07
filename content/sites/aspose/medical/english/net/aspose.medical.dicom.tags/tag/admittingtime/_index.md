@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380021 VRTM VM1 Admitting Time.
 type: docs
 weight: 990
-url: /aspose.medical.dicom.tags/tag/admittingtime/
+url: /net/aspose.medical.dicom.tags/tag/admittingtime/
 ---
 
 ## Tag.AdmittingTime field

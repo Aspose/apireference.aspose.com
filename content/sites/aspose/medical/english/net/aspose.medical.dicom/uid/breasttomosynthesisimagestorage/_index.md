@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Breast Tomosynthesis Image Storage.
 type: docs
 weight: 280
-url: /aspose.medical.dicom/uid/breasttomosynthesisimagestorage/
+url: /net/aspose.medical.dicom/uid/breasttomosynthesisimagestorage/
 ---
 
 ## Uid.BreastTomosynthesisImageStorage field

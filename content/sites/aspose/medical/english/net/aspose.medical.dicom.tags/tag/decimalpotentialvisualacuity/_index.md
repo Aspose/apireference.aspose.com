@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460238 VRFL VM1 Decimal Potential Visual Acuity.
 type: docs
 weight: 10240
-url: /aspose.medical.dicom.tags/tag/decimalpotentialvisualacuity/
+url: /net/aspose.medical.dicom.tags/tag/decimalpotentialvisualacuity/
 ---
 
 ## Tag.DecimalPotentialVisualAcuity field

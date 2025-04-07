@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Pixel Representation 00280103 represents signed/unsigned data of the pixel samples. Each sample shall have the same pixel representation. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_c.7.6.3.html.
 type: docs
 weight: 690
-url: /aspose.medical.dicom.imaging/pixelrepresentation/
+url: /net/aspose.medical.dicom.imaging/pixelrepresentation/
 ---
 
 ## PixelRepresentation enumeration

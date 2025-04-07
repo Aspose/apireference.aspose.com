@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100060 VRCS VM1 Magnification Type.
 type: docs
 weight: 23340
-url: /aspose.medical.dicom.tags/tag/magnificationtype/
+url: /net/aspose.medical.dicom.tags/tag/magnificationtype/
 ---
 
 ## Tag.MagnificationType field

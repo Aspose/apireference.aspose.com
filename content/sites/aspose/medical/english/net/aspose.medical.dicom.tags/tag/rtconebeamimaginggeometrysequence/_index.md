@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020136 VRSQ VM1 RT Cone-Beam Imaging Geometry Sequence.
 type: docs
 weight: 40040
-url: /aspose.medical.dicom.tags/tag/rtconebeamimaginggeometrysequence/
+url: /net/aspose.medical.dicom.tags/tag/rtconebeamimaginggeometrysequence/
 ---
 
 ## Tag.RTConeBeamImagingGeometrySequence field

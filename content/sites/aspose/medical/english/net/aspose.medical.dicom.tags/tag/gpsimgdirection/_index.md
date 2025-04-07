@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160081 VRDS VM1 GPS Img Direction.
 type: docs
 weight: 17560
-url: /aspose.medical.dicom.tags/tag/gpsimgdirection/
+url: /net/aspose.medical.dicom.tags/tag/gpsimgdirection/
 ---
 
 ## Tag.GPSImgDirection field

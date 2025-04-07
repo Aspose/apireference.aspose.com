@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180038 VRCS VM1 Intervention Status.
 type: docs
 weight: 21210
-url: /aspose.medical.dicom.tags/tag/interventionstatus/
+url: /net/aspose.medical.dicom.tags/tag/interventionstatus/
 ---
 
 ## Tag.InterventionStatus field

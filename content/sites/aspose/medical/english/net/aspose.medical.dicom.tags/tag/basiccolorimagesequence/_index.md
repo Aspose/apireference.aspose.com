@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20200111 VRSQ VM1 Basic Color Image Sequence.
 type: docs
 weight: 3220
-url: /aspose.medical.dicom.tags/tag/basiccolorimagesequence/
+url: /net/aspose.medical.dicom.tags/tag/basiccolorimagesequence/
 ---
 
 ## Tag.BasicColorImageSequence field

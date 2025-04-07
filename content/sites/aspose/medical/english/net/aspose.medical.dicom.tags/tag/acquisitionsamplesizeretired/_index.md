@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144033 VRIS VM1 Acquisition Sample Size RETIRED.
 type: docs
 weight: 470
-url: /aspose.medical.dicom.tags/tag/acquisitionsamplesizeretired/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionsamplesizeretired/
 ---
 
 ## Tag.AcquisitionSampleSizeRETIRED field

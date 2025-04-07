@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx3000 VROB or OW VM1 Overlay Data.
 type: docs
 weight: 28960
-url: /aspose.medical.dicom.tags/tag/overlaydata/
+url: /net/aspose.medical.dicom.tags/tag/overlaydata/
 ---
 
 ## Tag.OverlayData field

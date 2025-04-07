@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144064 VRDS VM1 Velocity of Sound RETIRED.
 type: docs
 weight: 50860
-url: /aspose.medical.dicom.tags/tag/velocityofsoundretired/
+url: /net/aspose.medical.dicom.tags/tag/velocityofsoundretired/
 ---
 
 ## Tag.VelocityOfSoundRETIRED field

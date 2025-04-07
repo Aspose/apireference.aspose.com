@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Represents fragment sequences of DICOM pixel data. Intended for handling encapsulated compressed pixel data.
 type: docs
 weight: 250
-url: /aspose.medical.dicom.elements/fragmentsequence/
+url: /net/aspose.medical.dicom.elements/fragmentsequence/
 ---
 
 ## FragmentSequence class

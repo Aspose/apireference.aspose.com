@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0244 VRLO VM1 Template Name.
 type: docs
 weight: 47560
-url: /aspose.medical.dicom.tags/tag/templatename/
+url: /net/aspose.medical.dicom.tags/tag/templatename/
 ---
 
 ## Tag.TemplateName field

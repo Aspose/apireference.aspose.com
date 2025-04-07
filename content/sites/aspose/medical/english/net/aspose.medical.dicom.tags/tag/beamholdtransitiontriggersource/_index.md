@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0129 VRCS VM1 Beam Hold Transition Trigger Source.
 type: docs
 weight: 3450
-url: /aspose.medical.dicom.tags/tag/beamholdtransitiontriggersource/
+url: /net/aspose.medical.dicom.tags/tag/beamholdtransitiontriggersource/
 ---
 
 ## Tag.BeamHoldTransitionTriggerSource field

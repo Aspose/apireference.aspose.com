@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181622 VRUS VM1 Shutter Presentation Value.
 type: docs
 weight: 43410
-url: /aspose.medical.dicom.tags/tag/shutterpresentationvalue/
+url: /net/aspose.medical.dicom.tags/tag/shutterpresentationvalue/
 ---
 
 ## Tag.ShutterPresentationValue field

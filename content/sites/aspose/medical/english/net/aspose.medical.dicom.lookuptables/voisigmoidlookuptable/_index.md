@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: VOI Look-Up table with Sigmoid transformation function. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.11.2.html.
 type: docs
 weight: 890
-url: /aspose.medical.dicom.lookuptables/voisigmoidlookuptable/
+url: /net/aspose.medical.dicom.lookuptables/voisigmoidlookuptable/
 ---
 
 ## VoiSigmoidLookupTable class

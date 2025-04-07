@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0034000A VRSQ VM1 Real-Time Bulk Data Flow Sequence.
 type: docs
 weight: 35030
-url: /aspose.medical.dicom.tags/tag/realtimebulkdataflowsequence/
+url: /net/aspose.medical.dicom.tags/tag/realtimebulkdataflowsequence/
 ---
 
 ## Tag.RealTimeBulkDataFlowSequence field

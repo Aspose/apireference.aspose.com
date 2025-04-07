@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189770 VRCS VM1 Attenuation Correction Temporal Relationship.
 type: docs
 weight: 2770
-url: /aspose.medical.dicom.tags/tag/attenuationcorrectiontemporalrelationship/
+url: /net/aspose.medical.dicom.tags/tag/attenuationcorrectiontemporalrelationship/
 ---
 
 ## Tag.AttenuationCorrectionTemporalRelationship field

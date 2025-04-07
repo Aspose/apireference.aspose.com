@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480111 VRDS VM1 Condenser Lens Power.
 type: docs
 weight: 7450
-url: /aspose.medical.dicom.tags/tag/condenserlenspower/
+url: /net/aspose.medical.dicom.tags/tag/condenserlenspower/
 ---
 
 ## Tag.CondenserLensPower field

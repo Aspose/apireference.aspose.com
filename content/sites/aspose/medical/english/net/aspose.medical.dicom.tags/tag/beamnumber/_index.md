@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00C0 VRIS VM1 Beam Number.
 type: docs
 weight: 3580
-url: /aspose.medical.dicom.tags/tag/beamnumber/
+url: /net/aspose.medical.dicom.tags/tag/beamnumber/
 ---
 
 ## Tag.BeamNumber field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101047 VRSQ VM1 OOI Owner Sequence RETIRED.
 type: docs
 weight: 27680
-url: /aspose.medical.dicom.tags/tag/ooiownersequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/ooiownersequenceretired/
 ---
 
 ## Tag.OOIOwnerSequenceRETIRED field

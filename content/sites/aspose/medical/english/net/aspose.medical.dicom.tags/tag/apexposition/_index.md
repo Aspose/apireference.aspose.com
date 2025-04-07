@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209308 VRFD VM3 Apex Position.
 type: docs
 weight: 2010
-url: /aspose.medical.dicom.tags/tag/apexposition/
+url: /net/aspose.medical.dicom.tags/tag/apexposition/
 ---
 
 ## Tag.ApexPosition field

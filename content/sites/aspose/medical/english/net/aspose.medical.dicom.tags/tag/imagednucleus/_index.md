@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180085 VRSH VM1 Imaged Nucleus.
 type: docs
 weight: 19110
-url: /aspose.medical.dicom.tags/tag/imagednucleus/
+url: /net/aspose.medical.dicom.tags/tag/imagednucleus/
 ---
 
 ## Tag.ImagedNucleus field

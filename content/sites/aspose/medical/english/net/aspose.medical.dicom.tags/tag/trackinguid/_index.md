@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00620021 VRUI VM1 Tracking UID.
 type: docs
 weight: 49070
-url: /aspose.medical.dicom.tags/tag/trackinguid/
+url: /net/aspose.medical.dicom.tags/tag/trackinguid/
 ---
 
 ## Tag.TrackingUID field

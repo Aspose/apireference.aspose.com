@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080080 VRLO VM1 Institution Name.
 type: docs
 weight: 20570
-url: /aspose.medical.dicom.tags/tag/institutionname/
+url: /net/aspose.medical.dicom.tags/tag/institutionname/
 ---
 
 ## Tag.InstitutionName field

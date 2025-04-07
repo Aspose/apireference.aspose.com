@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax MPEG2 Main Profile / High Level.
 type: docs
 weight: 2650
-url: /aspose.medical.dicom/uid/mpeg2mainprofilehighlevel/
+url: /net/aspose.medical.dicom/uid/mpeg2mainprofilehighlevel/
 ---
 
 ## Uid.MPEG2MainProfileHighLevel field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: JPEG 2000 Lossy Image Compression 1.2.840.10008.1.2.4.91.
 type: docs
 weight: 190
-url: /aspose.medical.dicom/transfersyntax/jpeg2000lossy/
+url: /net/aspose.medical.dicom/transfersyntax/jpeg2000lossy/
 ---
 
 ## TransferSyntax.Jpeg2000Lossy field

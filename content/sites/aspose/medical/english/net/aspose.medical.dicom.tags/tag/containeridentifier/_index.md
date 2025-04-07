@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400512 VRLO VM1 Container Identifier.
 type: docs
 weight: 7830
-url: /aspose.medical.dicom.tags/tag/containeridentifier/
+url: /net/aspose.medical.dicom.tags/tag/containeridentifier/
 ---
 
 ## Tag.ContainerIdentifier field

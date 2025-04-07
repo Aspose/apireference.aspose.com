@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A380 VRSQ VM1 Report Detail Sequence Trial RETIRED.
 type: docs
 weight: 38520
-url: /aspose.medical.dicom.tags/tag/reportdetailsequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/reportdetailsequencetrialretired/
 ---
 
 ## Tag.ReportDetailSequenceTrialRETIRED field

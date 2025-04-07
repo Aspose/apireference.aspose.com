@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000901 VRAT VM1-n Offending Element.
 type: docs
 weight: 27550
-url: /aspose.medical.dicom.tags/tag/offendingelement/
+url: /net/aspose.medical.dicom.tags/tag/offendingelement/
 ---
 
 ## Tag.OffendingElement field

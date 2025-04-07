@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144089 VRDS VM1 Probe Orientation Angle RETIRED.
 type: docs
 weight: 33280
-url: /aspose.medical.dicom.tags/tag/probeorientationangleretired/
+url: /net/aspose.medical.dicom.tags/tag/probeorientationangleretired/
 ---
 
 ## Tag.ProbeOrientationAngleRETIRED field

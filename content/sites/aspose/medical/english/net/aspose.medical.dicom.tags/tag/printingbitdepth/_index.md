@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 200000A1 VRUS VM1 Printing Bit Depth.
 type: docs
 weight: 32930
-url: /aspose.medical.dicom.tags/tag/printingbitdepth/
+url: /net/aspose.medical.dicom.tags/tag/printingbitdepth/
 ---
 
 ## Tag.PrintingBitDepth field

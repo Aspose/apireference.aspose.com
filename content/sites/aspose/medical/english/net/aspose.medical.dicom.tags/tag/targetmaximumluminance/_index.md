@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028701E VRFL VM1 Target Maximum Luminance.
 type: docs
 weight: 47390
-url: /aspose.medical.dicom.tags/tag/targetmaximumluminance/
+url: /net/aspose.medical.dicom.tags/tag/targetmaximumluminance/
 ---
 
 ## Tag.TargetMaximumLuminance field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189168 VRFD VM1 Parallel Reduction Factor Second In-plane.
 type: docs
 weight: 29440
-url: /aspose.medical.dicom.tags/tag/parallelreductionfactorsecondinplane/
+url: /net/aspose.medical.dicom.tags/tag/parallelreductionfactorsecondinplane/
 ---
 
 ## Tag.ParallelReductionFactorSecondInPlane field

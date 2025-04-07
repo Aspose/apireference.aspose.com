@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0741 VRDT VM1 Interlock DateTime.
 type: docs
 weight: 20790
-url: /aspose.medical.dicom.tags/tag/interlockdatetime/
+url: /net/aspose.medical.dicom.tags/tag/interlockdatetime/
 ---
 
 ## Tag.InterlockDateTime field

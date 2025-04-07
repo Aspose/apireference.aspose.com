@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240202 VRLO VM1 Algorithm Source.
 type: docs
 weight: 1200
-url: /aspose.medical.dicom.tags/tag/algorithmsource/
+url: /net/aspose.medical.dicom.tags/tag/algorithmsource/
 ---
 
 ## Tag.AlgorithmSource field

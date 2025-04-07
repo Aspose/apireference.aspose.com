@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100081 VRSQ VM1 Prescription Notes Sequence.
 type: docs
 weight: 32460
-url: /aspose.medical.dicom.tags/tag/prescriptionnotessequence/
+url: /net/aspose.medical.dicom.tags/tag/prescriptionnotessequence/
 ---
 
 ## Tag.PrescriptionNotesSequence field

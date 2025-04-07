@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221531 VROF VM1 Two Dimensional to Three Dimensional Map Data.
 type: docs
 weight: 50140
-url: /aspose.medical.dicom.tags/tag/twodimensionaltothreedimensionalmapdata/
+url: /net/aspose.medical.dicom.tags/tag/twodimensionaltothreedimensionalmapdata/
 ---
 
 ## Tag.TwoDimensionalToThreeDimensionalMapData field

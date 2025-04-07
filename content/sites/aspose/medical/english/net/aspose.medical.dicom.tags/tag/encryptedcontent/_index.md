@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000520 VROB VM1 Encrypted Content.
 type: docs
 weight: 13520
-url: /aspose.medical.dicom.tags/tag/encryptedcontent/
+url: /net/aspose.medical.dicom.tags/tag/encryptedcontent/
 ---
 
 ## Tag.EncryptedContent field

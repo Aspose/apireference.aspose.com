@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189465 VRFL VM1 Positioner Isocenter Detector Rotation Angle.
 type: docs
 weight: 32010
-url: /aspose.medical.dicom.tags/tag/positionerisocenterdetectorrotationangle/
+url: /net/aspose.medical.dicom.tags/tag/positionerisocenterdetectorrotationangle/
 ---
 
 ## Tag.PositionerIsocenterDetectorRotationAngle field

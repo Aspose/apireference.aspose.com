@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811A2 VRDS VM1 Compression Force.
 type: docs
 weight: 7160
-url: /aspose.medical.dicom.tags/tag/compressionforce/
+url: /net/aspose.medical.dicom.tags/tag/compressionforce/
 ---
 
 ## Tag.CompressionForce field

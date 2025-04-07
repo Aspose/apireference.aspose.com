@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008010F VRCS VM1 Context Identifier.
 type: docs
 weight: 8000
-url: /aspose.medical.dicom.tags/tag/contextidentifier/
+url: /net/aspose.medical.dicom.tags/tag/contextidentifier/
 ---
 
 ## Tag.ContextIdentifier field

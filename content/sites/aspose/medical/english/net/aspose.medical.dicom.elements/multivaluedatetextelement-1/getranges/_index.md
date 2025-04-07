@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Returns DateRangeaspose.medical.dicom.elements/daterange stored in the element. Supplements the data property.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.elements/multivaluedatetextelement-1/getranges/
+url: /net/aspose.medical.dicom.elements/multivaluedatetextelement-1/getranges/
 ---
 
 ## MultiValueDateTextElement&lt;T&gt;.GetRanges method

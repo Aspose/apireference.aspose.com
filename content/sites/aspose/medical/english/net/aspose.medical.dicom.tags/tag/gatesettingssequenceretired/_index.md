@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144060 VRSQ VM1 Gate Settings Sequence RETIRED.
 type: docs
 weight: 17080
-url: /aspose.medical.dicom.tags/tag/gatesettingssequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/gatesettingssequenceretired/
 ---
 
 ## Tag.GateSettingsSequenceRETIRED field

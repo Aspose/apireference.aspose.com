@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Window center horizontal. Read-only Double.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.imaging.renderoptions/grayscalerenderoptions/windowcenter/
+url: /net/aspose.medical.dicom.imaging.renderoptions/grayscalerenderoptions/windowcenter/
 ---
 
 ## GrayscaleRenderOptions.WindowCenter property

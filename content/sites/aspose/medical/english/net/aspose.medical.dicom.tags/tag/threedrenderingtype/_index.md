@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720520 VRCS VM1-n 3D Rendering Type.
 type: docs
 weight: 48210
-url: /aspose.medical.dicom.tags/tag/threedrenderingtype/
+url: /net/aspose.medical.dicom.tags/tag/threedrenderingtype/
 ---
 
 ## Tag.ThreeDRenderingType field

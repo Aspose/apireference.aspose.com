@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189835 VRSQ VM1 Photoacoustic Image Frame Type Sequence.
 type: docs
 weight: 31160
-url: /aspose.medical.dicom.tags/tag/photoacousticimageframetypesequence/
+url: /net/aspose.medical.dicom.tags/tag/photoacousticimageframetypesequence/
 ---
 
 ## Tag.PhotoacousticImageFrameTypeSequence field

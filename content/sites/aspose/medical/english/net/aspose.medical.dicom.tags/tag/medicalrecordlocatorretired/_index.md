@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00101090 VRLO VM1 Medical Record Locator RETIRED.
 type: docs
 weight: 24370
-url: /aspose.medical.dicom.tags/tag/medicalrecordlocatorretired/
+url: /net/aspose.medical.dicom.tags/tag/medicalrecordlocatorretired/
 ---
 
 ## Tag.MedicalRecordLocatorRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072000C VRSQ VM1 Hanging Protocol Definition Sequence.
 type: docs
 weight: 18160
-url: /aspose.medical.dicom.tags/tag/hangingprotocoldefinitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/hangingprotocoldefinitionsequence/
 ---
 
 ## Tag.HangingProtocolDefinitionSequence field

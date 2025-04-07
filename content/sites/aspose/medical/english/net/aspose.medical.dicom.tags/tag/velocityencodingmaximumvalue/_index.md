@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189217 VRFD VM1 Velocity Encoding Maximum Value.
 type: docs
 weight: 50840
-url: /aspose.medical.dicom.tags/tag/velocityencodingmaximumvalue/
+url: /net/aspose.medical.dicom.tags/tag/velocityencodingmaximumvalue/
 ---
 
 ## Tag.VelocityEncodingMaximumValue field

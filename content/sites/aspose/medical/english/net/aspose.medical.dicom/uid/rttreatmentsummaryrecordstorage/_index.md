@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class RT Treatment Summary Record Storage.
 type: docs
 weight: 4240
-url: /aspose.medical.dicom/uid/rttreatmentsummaryrecordstorage/
+url: /net/aspose.medical.dicom/uid/rttreatmentsummaryrecordstorage/
 ---
 
 ## Uid.RTTreatmentSummaryRecordStorage field

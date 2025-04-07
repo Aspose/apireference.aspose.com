@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072010E VRUS VM1 Application Maximum Repaint Time.
 type: docs
 weight: 2060
-url: /aspose.medical.dicom.tags/tag/applicationmaximumrepainttime/
+url: /net/aspose.medical.dicom.tags/tag/applicationmaximumrepainttime/
 ---
 
 ## Tag.ApplicationMaximumRepaintTime field

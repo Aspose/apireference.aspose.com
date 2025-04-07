@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741246 VRCS VM1 Unified Procedure Step List Status.
 type: docs
 weight: 50440
-url: /aspose.medical.dicom.tags/tag/unifiedprocedurestepliststatus/
+url: /net/aspose.medical.dicom.tags/tag/unifiedprocedurestepliststatus/
 ---
 
 ## Tag.UnifiedProcedureStepListStatus field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000510 VRUI VM1 Encrypted Content Transfer Syntax UID.
 type: docs
 weight: 13530
-url: /aspose.medical.dicom.tags/tag/encryptedcontenttransfersyntaxuid/
+url: /net/aspose.medical.dicom.tags/tag/encryptedcontenttransfersyntaxuid/
 ---
 
 ## Tag.EncryptedContentTransferSyntaxUID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102152 VRLO VM1 Region of Residence.
 type: docs
 weight: 38080
-url: /aspose.medical.dicom.tags/tag/regionofresidence/
+url: /net/aspose.medical.dicom.tags/tag/regionofresidence/
 ---
 
 ## Tag.RegionOfResidence field

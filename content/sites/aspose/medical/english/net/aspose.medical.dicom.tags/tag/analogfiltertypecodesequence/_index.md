@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0325 VRSQ VM1 Analog Filter Type Code Sequence.
 type: docs
 weight: 1450
-url: /aspose.medical.dicom.tags/tag/analogfiltertypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/analogfiltertypecodesequence/
 ---
 
 ## Tag.AnalogFilterTypeCodeSequence field

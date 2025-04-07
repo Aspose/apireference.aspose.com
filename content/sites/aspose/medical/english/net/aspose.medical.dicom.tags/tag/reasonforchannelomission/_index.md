@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0074140A VRCS VM1 Reason for Channel Omission.
 type: docs
 weight: 35110
-url: /aspose.medical.dicom.tags/tag/reasonforchannelomission/
+url: /net/aspose.medical.dicom.tags/tag/reasonforchannelomission/
 ---
 
 ## Tag.ReasonForChannelOmission field

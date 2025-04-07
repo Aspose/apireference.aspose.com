@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660023 VROW VM1 Triangle Point Index List RETIRED.
 type: docs
 weight: 50020
-url: /aspose.medical.dicom.tags/tag/trianglepointindexlistretired/
+url: /net/aspose.medical.dicom.tags/tag/trianglepointindexlistretired/
 ---
 
 ## Tag.TrianglePointIndexListRETIRED field

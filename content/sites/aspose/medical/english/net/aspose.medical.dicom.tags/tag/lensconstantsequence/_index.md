@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221092 VRSQ VM1 Lens Constant Sequence.
 type: docs
 weight: 22570
-url: /aspose.medical.dicom.tags/tag/lensconstantsequence/
+url: /net/aspose.medical.dicom.tags/tag/lensconstantsequence/
 ---
 
 ## Tag.LensConstantSequence field

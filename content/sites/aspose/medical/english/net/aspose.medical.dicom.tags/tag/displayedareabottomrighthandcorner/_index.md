@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700053 VRSL VM2 Displayed Area Bottom Right Hand Corner.
 type: docs
 weight: 12040
-url: /aspose.medical.dicom.tags/tag/displayedareabottomrighthandcorner/
+url: /net/aspose.medical.dicom.tags/tag/displayedareabottomrighthandcorner/
 ---
 
 ## Tag.DisplayedAreaBottomRightHandCorner field

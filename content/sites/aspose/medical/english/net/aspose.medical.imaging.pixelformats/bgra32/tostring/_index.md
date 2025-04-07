@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 150
-url: /aspose.medical.imaging.pixelformats/bgra32/tostring/
+url: /net/aspose.medical.imaging.pixelformats/bgra32/tostring/
 ---
 
 ## Bgra32.ToString method

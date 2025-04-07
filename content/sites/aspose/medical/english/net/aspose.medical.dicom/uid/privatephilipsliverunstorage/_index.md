@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips Live Run Storage.
 type: docs
 weight: 3390
-url: /aspose.medical.dicom/uid/privatephilipsliverunstorage/
+url: /net/aspose.medical.dicom/uid/privatephilipsliverunstorage/
 ---
 
 ## Uid.PrivatePhilipsLiveRunStorage field

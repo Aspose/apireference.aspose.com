@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Creates default ConfidentialityProfileaspose.medical.dicom.anonymization/confidentialityprofile for the given options with instructions specified in https//dicom.nema.org/medical/dicom/current/output/chtml/part15/chapter_E.htmltable_E.1-1.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.anonymization/confidentialityprofile/createdefault/
+url: /net/aspose.medical.dicom.anonymization/confidentialityprofile/createdefault/
 ---
 
 ## ConfidentialityProfile.CreateDefault method

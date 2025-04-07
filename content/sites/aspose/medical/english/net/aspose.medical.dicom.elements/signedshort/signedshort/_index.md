@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/signedshort/signedshort/
+url: /net/aspose.medical.dicom.elements/signedshort/signedshort/
 ---
 
 ## SignedShort(Tag, Span&lt;short&gt;) {#constructor_1}

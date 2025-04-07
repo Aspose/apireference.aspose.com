@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660037 VRFL VM1 Recommended Point Radius.
 type: docs
 weight: 35520
-url: /aspose.medical.dicom.tags/tag/recommendedpointradius/
+url: /net/aspose.medical.dicom.tags/tag/recommendedpointradius/
 ---
 
 ## Tag.RecommendedPointRadius field

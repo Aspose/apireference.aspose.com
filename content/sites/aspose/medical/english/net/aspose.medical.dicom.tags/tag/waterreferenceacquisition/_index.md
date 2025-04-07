@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189297 VRCS VM1 Water Reference Acquisition.
 type: docs
 weight: 51870
-url: /aspose.medical.dicom.tags/tag/waterreferenceacquisition/
+url: /net/aspose.medical.dicom.tags/tag/waterreferenceacquisition/
 ---
 
 ## Tag.WaterReferenceAcquisition field

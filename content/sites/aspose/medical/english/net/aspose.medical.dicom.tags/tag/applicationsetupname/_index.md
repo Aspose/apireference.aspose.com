@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0236 VRLO VM1 Application Setup Name.
 type: docs
 weight: 2100
-url: /aspose.medical.dicom.tags/tag/applicationsetupname/
+url: /net/aspose.medical.dicom.tags/tag/applicationsetupname/
 ---
 
 ## Tag.ApplicationSetupName field

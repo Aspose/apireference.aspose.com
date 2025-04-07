@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: A string representation of the Private Creator. Read-only String.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.tags/privatecreator/creator/
+url: /net/aspose.medical.dicom.tags/privatecreator/creator/
 ---
 
 ## PrivateCreator.Creator property

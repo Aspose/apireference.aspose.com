@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A352 VRPN VM1 Verbal Source Trial RETIRED.
 type: docs
 weight: 50880
-url: /aspose.medical.dicom.tags/tag/verbalsourcetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/verbalsourcetrialretired/
 ---
 
 ## Tag.VerbalSourceTrialRETIRED field

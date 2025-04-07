@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020121 VRLO VM1 Position Acquisition Template Name.
 type: docs
 weight: 32000
-url: /aspose.medical.dicom.tags/tag/positionacquisitiontemplatename/
+url: /net/aspose.medical.dicom.tags/tag/positionacquisitiontemplatename/
 ---
 
 ## Tag.PositionAcquisitionTemplateName field

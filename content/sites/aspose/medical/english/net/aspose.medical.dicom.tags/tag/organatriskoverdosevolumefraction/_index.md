@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A002D VRDS VM1 Organ at Risk Overdose Volume Fraction.
 type: docs
 weight: 28460
-url: /aspose.medical.dicom.tags/tag/organatriskoverdosevolumefraction/
+url: /net/aspose.medical.dicom.tags/tag/organatriskoverdosevolumefraction/
 ---
 
 ## Tag.OrganAtRiskOverdoseVolumeFraction field

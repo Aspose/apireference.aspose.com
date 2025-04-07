@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180036 VRSQ VM1 Intervention Sequence.
 type: docs
 weight: 21200
-url: /aspose.medical.dicom.tags/tag/interventionsequence/
+url: /net/aspose.medical.dicom.tags/tag/interventionsequence/
 ---
 
 ## Tag.InterventionSequence field

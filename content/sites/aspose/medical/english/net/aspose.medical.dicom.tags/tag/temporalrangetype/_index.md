@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A130 VRCS VM1 Temporal Range Type.
 type: docs
 weight: 47640
-url: /aspose.medical.dicom.tags/tag/temporalrangetype/
+url: /net/aspose.medical.dicom.tags/tag/temporalrangetype/
 ---
 
 ## Tag.TemporalRangeType field

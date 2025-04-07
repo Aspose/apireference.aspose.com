@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280740 VRUS VM1 Code Number Format RETIRED.
 type: docs
 weight: 6080
-url: /aspose.medical.dicom.tags/tag/codenumberformatretired/
+url: /net/aspose.medical.dicom.tags/tag/codenumberformatretired/
 ---
 
 ## Tag.CodeNumberFormatRETIRED field

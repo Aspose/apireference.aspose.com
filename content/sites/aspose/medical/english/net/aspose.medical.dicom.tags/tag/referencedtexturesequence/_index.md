@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00800012 VRSQ VM1 Referenced Texture Sequence.
 type: docs
 weight: 37590
-url: /aspose.medical.dicom.tags/tag/referencedtexturesequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedtexturesequence/
 ---
 
 ## Tag.ReferencedTextureSequence field

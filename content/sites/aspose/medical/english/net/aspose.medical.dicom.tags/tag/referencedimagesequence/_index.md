@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081140 VRSQ VM1 Referenced Image Sequence.
 type: docs
 weight: 36580
-url: /aspose.medical.dicom.tags/tag/referencedimagesequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedimagesequence/
 ---
 
 ## Tag.ReferencedImageSequence field

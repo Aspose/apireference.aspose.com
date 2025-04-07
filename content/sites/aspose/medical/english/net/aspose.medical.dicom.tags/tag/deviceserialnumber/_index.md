@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181000 VRLO VM1 Device Serial Number.
 type: docs
 weight: 11450
-url: /aspose.medical.dicom.tags/tag/deviceserialnumber/
+url: /net/aspose.medical.dicom.tags/tag/deviceserialnumber/
 ---
 
 ## Tag.DeviceSerialNumber field

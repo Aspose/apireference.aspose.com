@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540210 VRIS VM1-n Trigger Vector.
 type: docs
 weight: 50080
-url: /aspose.medical.dicom.tags/tag/triggervector/
+url: /net/aspose.medical.dicom.tags/tag/triggervector/
 ---
 
 ## Tag.TriggerVector field

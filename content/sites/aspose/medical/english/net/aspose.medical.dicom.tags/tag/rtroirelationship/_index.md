@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060033 VRCS VM1 RT ROI Relationship.
 type: docs
 weight: 40590
-url: /aspose.medical.dicom.tags/tag/rtroirelationship/
+url: /net/aspose.medical.dicom.tags/tag/rtroirelationship/
 ---
 
 ## Tag.RTROIRelationship field

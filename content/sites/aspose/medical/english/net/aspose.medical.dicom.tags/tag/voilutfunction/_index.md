@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281056 VRCS VM1 VOI LUT Function.
 type: docs
 weight: 51560
-url: /aspose.medical.dicom.tags/tag/voilutfunction/
+url: /net/aspose.medical.dicom.tags/tag/voilutfunction/
 ---
 
 ## Tag.VOILUTFunction field

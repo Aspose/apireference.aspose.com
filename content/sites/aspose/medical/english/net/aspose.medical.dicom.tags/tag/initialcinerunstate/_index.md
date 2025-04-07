@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180042 VRCS VM1 Initial Cine Run State.
 type: docs
 weight: 20350
-url: /aspose.medical.dicom.tags/tag/initialcinerunstate/
+url: /net/aspose.medical.dicom.tags/tag/initialcinerunstate/
 ---
 
 ## Tag.InitialCineRunState field

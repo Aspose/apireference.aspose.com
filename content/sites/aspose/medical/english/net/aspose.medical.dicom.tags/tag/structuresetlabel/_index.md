@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060002 VRSH VM1 Structure Set Label.
 type: docs
 weight: 45880
-url: /aspose.medical.dicom.tags/tag/structuresetlabel/
+url: /net/aspose.medical.dicom.tags/tag/structuresetlabel/
 ---
 
 ## Tag.StructureSetLabel field

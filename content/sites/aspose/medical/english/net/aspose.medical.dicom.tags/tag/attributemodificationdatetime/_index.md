@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000562 VRDT VM1 Attribute Modification DateTime.
 type: docs
 weight: 2800
-url: /aspose.medical.dicom.tags/tag/attributemodificationdatetime/
+url: /net/aspose.medical.dicom.tags/tag/attributemodificationdatetime/
 ---
 
 ## Tag.AttributeModificationDateTime field

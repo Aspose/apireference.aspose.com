@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00F7 VRFL VM1 Isocenter to Block Tray Distance.
 type: docs
 weight: 21630
-url: /aspose.medical.dicom.tags/tag/isocentertoblocktraydistance/
+url: /net/aspose.medical.dicom.tags/tag/isocentertoblocktraydistance/
 ---
 
 ## Tag.IsocenterToBlockTrayDistance field

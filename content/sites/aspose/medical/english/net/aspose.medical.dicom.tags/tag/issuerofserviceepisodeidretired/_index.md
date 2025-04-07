@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380061 VRLO VM1 Issuer of Service Episode ID RETIRED.
 type: docs
 weight: 21870
-url: /aspose.medical.dicom.tags/tag/issuerofserviceepisodeidretired/
+url: /net/aspose.medical.dicom.tags/tag/issuerofserviceepisodeidretired/
 ---
 
 ## Tag.IssuerOfServiceEpisodeIDRETIRED field

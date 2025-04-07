@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0009 VRLO VM1-n Treatment Protocols.
 type: docs
 weight: 49730
-url: /aspose.medical.dicom.tags/tag/treatmentprotocols/
+url: /net/aspose.medical.dicom.tags/tag/treatmentprotocols/
 ---
 
 ## Tag.TreatmentProtocols field

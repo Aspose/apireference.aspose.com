@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Media Storage Directory Storage.
 type: docs
 weight: 2570
-url: /aspose.medical.dicom/uid/mediastoragedirectorystorage/
+url: /net/aspose.medical.dicom/uid/mediastoragedirectorystorage/
 ---
 
 ## Uid.MediaStorageDirectoryStorage field

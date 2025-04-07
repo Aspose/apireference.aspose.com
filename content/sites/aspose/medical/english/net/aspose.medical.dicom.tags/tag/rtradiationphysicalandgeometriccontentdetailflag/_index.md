@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0638 VRCS VM1 RT Radiation Physical and Geometric Content Detail Flag.
 type: docs
 weight: 40430
-url: /aspose.medical.dicom.tags/tag/rtradiationphysicalandgeometriccontentdetailflag/
+url: /net/aspose.medical.dicom.tags/tag/rtradiationphysicalandgeometriccontentdetailflag/
 ---
 
 ## Tag.RTRadiationPhysicalAndGeometricContentDetailFlag field

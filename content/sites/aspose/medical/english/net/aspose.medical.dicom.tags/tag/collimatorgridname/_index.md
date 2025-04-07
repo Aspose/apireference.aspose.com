@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181180 VRSH VM1 Collimator/grid Name.
 type: docs
 weight: 6310
-url: /aspose.medical.dicom.tags/tag/collimatorgridname/
+url: /net/aspose.medical.dicom.tags/tag/collimatorgridname/
 ---
 
 ## Tag.CollimatorGridName field

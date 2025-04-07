@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Returns a TagDictionaryaspose.medical.dicom.tags/tagdictionary intended to manage private elements related to the given privateCreator.
 type: docs
 weight: 60
-url: /aspose.medical.dicom.tags/tagdictionary/getprivatedictionary/
+url: /net/aspose.medical.dicom.tags/tagdictionary/getprivatedictionary/
 ---
 
 ## TagDictionary.GetPrivateDictionary method

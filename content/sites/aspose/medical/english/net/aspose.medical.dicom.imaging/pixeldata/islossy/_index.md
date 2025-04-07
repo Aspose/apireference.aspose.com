@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The lossy image compression 00282110 status true if stored value is 01. Read-only Boolean.
 type: docs
 weight: 100
-url: /aspose.medical.dicom.imaging/pixeldata/islossy/
+url: /net/aspose.medical.dicom.imaging/pixeldata/islossy/
 ---
 
 ## PixelData.IsLossy property

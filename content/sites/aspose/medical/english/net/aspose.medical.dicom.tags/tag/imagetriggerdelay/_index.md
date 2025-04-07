@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181067 VRDS VM1 Image Trigger Delay.
 type: docs
 weight: 19610
-url: /aspose.medical.dicom.tags/tag/imagetriggerdelay/
+url: /net/aspose.medical.dicom.tags/tag/imagetriggerdelay/
 ---
 
 ## Tag.ImageTriggerDelay field

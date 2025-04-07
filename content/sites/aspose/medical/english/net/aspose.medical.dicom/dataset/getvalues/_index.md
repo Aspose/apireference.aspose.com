@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Gets the element values of the specified tag.
 type: docs
 weight: 150
-url: /aspose.medical.dicom/dataset/getvalues/
+url: /net/aspose.medical.dicom/dataset/getvalues/
 ---
 
 ## GetValues&lt;T&gt;(Tag) {#getvalues}

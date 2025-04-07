@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The description of the photometric interpretation. Read-only String.
 type: docs
 weight: 140
-url: /aspose.medical.dicom.imaging/photometricinterpretation/description/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/description/
 ---
 
 ## PhotometricInterpretation.Description property

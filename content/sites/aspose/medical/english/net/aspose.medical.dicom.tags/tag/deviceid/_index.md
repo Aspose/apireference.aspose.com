@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181003 VRLO VM1 Device ID.
 type: docs
 weight: 11330
-url: /aspose.medical.dicom.tags/tag/deviceid/
+url: /net/aspose.medical.dicom.tags/tag/deviceid/
 ---
 
 ## Tag.DeviceID field

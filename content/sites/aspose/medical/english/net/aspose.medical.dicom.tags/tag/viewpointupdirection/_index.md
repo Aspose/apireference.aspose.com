@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701605 VRFD VM3 Viewpoint Up Direction.
 type: docs
 weight: 51260
-url: /aspose.medical.dicom.tags/tag/viewpointupdirection/
+url: /net/aspose.medical.dicom.tags/tag/viewpointupdirection/
 ---
 
 ## Tag.ViewpointUpDirection field

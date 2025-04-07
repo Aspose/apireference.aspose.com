@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006865B0 VRFD VM4 2D Line Coordinates.
 type: docs
 weight: 50180
-url: /aspose.medical.dicom.tags/tag/twodlinecoordinates/
+url: /net/aspose.medical.dicom.tags/tag/twodlinecoordinates/
 ---
 
 ## Tag.TwoDLineCoordinates field

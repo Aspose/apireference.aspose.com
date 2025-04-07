@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240096 VRFL VM1 Retest Sensitivity Value.
 type: docs
 weight: 39160
-url: /aspose.medical.dicom.tags/tag/retestsensitivityvalue/
+url: /net/aspose.medical.dicom.tags/tag/retestsensitivityvalue/
 ---
 
 ## Tag.RetestSensitivityValue field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: UID descriptive name. Read-only String.
 type: docs
 weight: 5290
-url: /aspose.medical.dicom/uid/name/
+url: /net/aspose.medical.dicom/uid/name/
 ---
 
 ## Uid.Name property

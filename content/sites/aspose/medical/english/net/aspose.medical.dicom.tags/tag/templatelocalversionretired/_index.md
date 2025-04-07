@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040DB07 VRDT VM1 Template Local Version RETIRED.
 type: docs
 weight: 47550
-url: /aspose.medical.dicom.tags/tag/templatelocalversionretired/
+url: /net/aspose.medical.dicom.tags/tag/templatelocalversionretired/
 ---
 
 ## Tag.TemplateLocalVersionRETIRED field

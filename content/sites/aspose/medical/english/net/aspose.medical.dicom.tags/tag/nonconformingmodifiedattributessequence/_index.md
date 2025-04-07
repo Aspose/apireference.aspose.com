@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000551 VRSQ VM1 Nonconforming Modified Attributes Sequence.
 type: docs
 weight: 25920
-url: /aspose.medical.dicom.tags/tag/nonconformingmodifiedattributessequence/
+url: /net/aspose.medical.dicom.tags/tag/nonconformingmodifiedattributessequence/
 ---
 
 ## Tag.NonconformingModifiedAttributesSequence field

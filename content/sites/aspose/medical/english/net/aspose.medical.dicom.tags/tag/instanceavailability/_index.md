@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080056 VRCS VM1 Instance Availability.
 type: docs
 weight: 20450
-url: /aspose.medical.dicom.tags/tag/instanceavailability/
+url: /net/aspose.medical.dicom.tags/tag/instanceavailability/
 ---
 
 ## Tag.InstanceAvailability field

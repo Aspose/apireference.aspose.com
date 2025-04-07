@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701A05 VRFD VM1 Animation Step Size.
 type: docs
 weight: 1710
-url: /aspose.medical.dicom.tags/tag/animationstepsize/
+url: /net/aspose.medical.dicom.tags/tag/animationstepsize/
 ---
 
 ## Tag.AnimationStepSize field

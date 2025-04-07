@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008115A VRUI VM1-n SOP Classes Supported.
 type: docs
 weight: 43840
-url: /aspose.medical.dicom.tags/tag/sopclassessupported/
+url: /net/aspose.medical.dicom.tags/tag/sopclassessupported/
 ---
 
 ## Tag.SOPClassesSupported field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class RT Ion Machine Verification.
 type: docs
 weight: 4110
-url: /aspose.medical.dicom/uid/rtionmachineverification/
+url: /net/aspose.medical.dicom/uid/rtionmachineverification/
 ---
 
 ## Uid.RTIonMachineVerification field

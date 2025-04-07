@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741405 VRSQ VM1 Channel Delivery Order Sequence.
 type: docs
 weight: 5420
-url: /aspose.medical.dicom.tags/tag/channeldeliveryordersequence/
+url: /net/aspose.medical.dicom.tags/tag/channeldeliveryordersequence/
 ---
 
 ## Tag.ChannelDeliveryOrderSequence field

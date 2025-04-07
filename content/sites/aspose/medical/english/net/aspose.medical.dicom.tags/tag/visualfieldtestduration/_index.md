@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240088 VRFL VM1 Visual Field Test Duration.
 type: docs
 weight: 51450
-url: /aspose.medical.dicom.tags/tag/visualfieldtestduration/
+url: /net/aspose.medical.dicom.tags/tag/visualfieldtestduration/
 ---
 
 ## Tag.VisualFieldTestDuration field

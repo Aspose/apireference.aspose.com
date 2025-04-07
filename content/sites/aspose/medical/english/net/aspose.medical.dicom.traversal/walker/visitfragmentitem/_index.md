@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Visits fragment item of the given fragment.
 type: docs
 weight: 80
-url: /aspose.medical.dicom.traversal/walker/visitfragmentitem/
+url: /net/aspose.medical.dicom.traversal/walker/visitfragmentitem/
 ---
 
 ## Walker.VisitFragmentItem method

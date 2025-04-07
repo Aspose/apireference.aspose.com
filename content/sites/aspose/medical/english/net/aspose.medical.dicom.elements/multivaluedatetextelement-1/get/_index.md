@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Returns T stored in the element. Supplements the data property.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/multivaluedatetextelement-1/get/
+url: /net/aspose.medical.dicom.elements/multivaluedatetextelement-1/get/
 ---
 
 ## MultiValueDateTextElement&lt;T&gt;.Get method

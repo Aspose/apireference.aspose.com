@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080112 VRLO VM1 Coding Scheme Registry.
 type: docs
 weight: 6150
-url: /aspose.medical.dicom.tags/tag/codingschemeregistry/
+url: /net/aspose.medical.dicom.tags/tag/codingschemeregistry/
 ---
 
 ## Tag.CodingSchemeRegistry field

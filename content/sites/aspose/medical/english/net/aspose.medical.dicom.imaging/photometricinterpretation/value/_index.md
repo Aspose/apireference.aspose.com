@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The identifier value corresponding with a DICOM defined term for tag 0028 0004. Read-only String.
 type: docs
 weight: 180
-url: /aspose.medical.dicom.imaging/photometricinterpretation/value/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/value/
 ---
 
 ## PhotometricInterpretation.Value property

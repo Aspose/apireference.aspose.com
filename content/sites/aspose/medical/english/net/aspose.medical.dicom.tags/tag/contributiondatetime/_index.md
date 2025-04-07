@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018A002 VRDT VM1 Contribution DateTime.
 type: docs
 weight: 8470
-url: /aspose.medical.dicom.tags/tag/contributiondatetime/
+url: /net/aspose.medical.dicom.tags/tag/contributiondatetime/
 ---
 
 ## Tag.ContributionDateTime field

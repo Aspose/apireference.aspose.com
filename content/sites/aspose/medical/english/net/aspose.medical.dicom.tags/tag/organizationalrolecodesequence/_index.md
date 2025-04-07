@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0044010A VRSQ VM1 Organizational Role Code Sequence.
 type: docs
 weight: 28490
-url: /aspose.medical.dicom.tags/tag/organizationalrolecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/organizationalrolecodesequence/
 ---
 
 ## Tag.OrganizationalRoleCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145119 VRDS VM1 Wedge Front Height RETIRED.
 type: docs
 weight: 52160
-url: /aspose.medical.dicom.tags/tag/wedgefrontheightretired/
+url: /net/aspose.medical.dicom.tags/tag/wedgefrontheightretired/
 ---
 
 ## Tag.WedgeFrontHeightRETIRED field

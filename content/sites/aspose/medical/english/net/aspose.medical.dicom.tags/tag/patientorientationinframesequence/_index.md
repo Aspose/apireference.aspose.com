@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209450 VRSQ VM1 Patient Orientation in Frame Sequence.
 type: docs
 weight: 29980
-url: /aspose.medical.dicom.tags/tag/patientorientationinframesequence/
+url: /net/aspose.medical.dicom.tags/tag/patientorientationinframesequence/
 ---
 
 ## Tag.PatientOrientationInFrameSequence field

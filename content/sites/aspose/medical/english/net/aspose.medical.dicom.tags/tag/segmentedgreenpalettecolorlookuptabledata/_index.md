@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281222 VROW VM1 Segmented Green Palette Color Lookup Table Data.
 type: docs
 weight: 42080
-url: /aspose.medical.dicom.tags/tag/segmentedgreenpalettecolorlookuptabledata/
+url: /net/aspose.medical.dicom.tags/tag/segmentedgreenpalettecolorlookuptabledata/
 ---
 
 ## Tag.SegmentedGreenPaletteColorLookupTableData field

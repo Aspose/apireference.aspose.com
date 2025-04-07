@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189305 VRFD VM1 Revolution Time.
 type: docs
 weight: 39260
-url: /aspose.medical.dicom.tags/tag/revolutiontime/
+url: /net/aspose.medical.dicom.tags/tag/revolutiontime/
 ---
 
 ## Tag.RevolutionTime field

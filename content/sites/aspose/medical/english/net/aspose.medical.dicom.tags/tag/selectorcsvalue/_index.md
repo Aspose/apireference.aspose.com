@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720062 VRCS VM1-n Selector CS Value.
 type: docs
 weight: 42370
-url: /aspose.medical.dicom.tags/tag/selectorcsvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorcsvalue/
 ---
 
 ## Tag.SelectorCSValue field

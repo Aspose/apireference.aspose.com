@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189316 VRCS VM1 Convolution Kernel Group.
 type: docs
 weight: 8600
-url: /aspose.medical.dicom.tags/tag/convolutionkernelgroup/
+url: /net/aspose.medical.dicom.tags/tag/convolutionkernelgroup/
 ---
 
 ## Tag.ConvolutionKernelGroup field

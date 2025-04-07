@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040B03B VRLT VM1 Montage Name.
 type: docs
 weight: 24940
-url: /aspose.medical.dicom.tags/tag/montagename/
+url: /net/aspose.medical.dicom.tags/tag/montagename/
 ---
 
 ## Tag.MontageName field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0350 VRCS VM1 Patient Support Type.
 type: docs
 weight: 30370
-url: /aspose.medical.dicom.tags/tag/patientsupporttype/
+url: /net/aspose.medical.dicom.tags/tag/patientsupporttype/
 ---
 
 ## Tag.PatientSupportType field

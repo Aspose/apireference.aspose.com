@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321070 VRLO VM1 Requested Contrast Agent.
 type: docs
 weight: 38630
-url: /aspose.medical.dicom.tags/tag/requestedcontrastagent/
+url: /net/aspose.medical.dicom.tags/tag/requestedcontrastagent/
 ---
 
 ## Tag.RequestedContrastAgent field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181140 VRCS VM1 Rotation Direction.
 type: docs
 weight: 39630
-url: /aspose.medical.dicom.tags/tag/rotationdirection/
+url: /net/aspose.medical.dicom.tags/tag/rotationdirection/
 ---
 
 ## Tag.RotationDirection field

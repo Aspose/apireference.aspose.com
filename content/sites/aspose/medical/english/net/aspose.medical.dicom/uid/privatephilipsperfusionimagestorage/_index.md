@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips Perfusion Image Storage.
 type: docs
 weight: 3500
-url: /aspose.medical.dicom/uid/privatephilipsperfusionimagestorage/
+url: /net/aspose.medical.dicom/uid/privatephilipsperfusionimagestorage/
 ---
 
 ## Uid.PrivatePhilipsPerfusionImageStorage field

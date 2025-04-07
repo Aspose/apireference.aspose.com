@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: LDAP OID dicomThisNodeCertificateReference.
 type: docs
 weight: 1050
-url: /aspose.medical.dicom/uid/dicomthisnodecertificatereference/
+url: /net/aspose.medical.dicom/uid/dicomthisnodecertificatereference/
 ---
 
 ## Uid.DicomThisNodeCertificateReference field

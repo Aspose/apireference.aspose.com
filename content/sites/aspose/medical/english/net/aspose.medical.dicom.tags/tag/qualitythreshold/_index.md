@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221630 VRDS VM1 Quality Threshold.
 type: docs
 weight: 34020
-url: /aspose.medical.dicom.tags/tag/qualitythreshold/
+url: /net/aspose.medical.dicom.tags/tag/qualitythreshold/
 ---
 
 ## Tag.QualityThreshold field

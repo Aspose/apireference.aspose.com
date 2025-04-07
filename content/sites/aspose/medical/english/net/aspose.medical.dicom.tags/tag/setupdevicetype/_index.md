@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A01B6 VRCS VM1 Setup Device Type.
 type: docs
 weight: 43020
-url: /aspose.medical.dicom.tags/tag/setupdevicetype/
+url: /net/aspose.medical.dicom.tags/tag/setupdevicetype/
 ---
 
 ## Tag.SetupDeviceType field

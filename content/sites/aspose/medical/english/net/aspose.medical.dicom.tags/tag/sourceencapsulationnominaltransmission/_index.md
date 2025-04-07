@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0224 VRDS VM1 Source Encapsulation Nominal Transmission.
 type: docs
 weight: 44120
-url: /aspose.medical.dicom.tags/tag/sourceencapsulationnominaltransmission/
+url: /net/aspose.medical.dicom.tags/tag/sourceencapsulationnominaltransmission/
 ---
 
 ## Tag.SourceEncapsulationNominalTransmission field

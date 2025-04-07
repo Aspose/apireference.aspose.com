@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400710 VRSQ VM1 Whole Slide Microscopy Image Frame Type Sequence.
 type: docs
 weight: 52500
-url: /aspose.medical.dicom.tags/tag/wholeslidemicroscopyimageframetypesequence/
+url: /net/aspose.medical.dicom.tags/tag/wholeslidemicroscopyimageframetypesequence/
 ---
 
 ## Tag.WholeSlideMicroscopyImageFrameTypeSequence field

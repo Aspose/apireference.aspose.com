@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080014 VRCS VM1 Measured Dose Type.
 type: docs
 weight: 24150
-url: /aspose.medical.dicom.tags/tag/measureddosetype/
+url: /net/aspose.medical.dicom.tags/tag/measureddosetype/
 ---
 
 ## Tag.MeasuredDoseType field

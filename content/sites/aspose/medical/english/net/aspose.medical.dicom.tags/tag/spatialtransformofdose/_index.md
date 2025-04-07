@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040005 VRCS VM1 Spatial Transform of Dose.
 type: docs
 weight: 44790
-url: /aspose.medical.dicom.tags/tag/spatialtransformofdose/
+url: /net/aspose.medical.dicom.tags/tag/spatialtransformofdose/
 ---
 
 ## Tag.SpatialTransformOfDose field

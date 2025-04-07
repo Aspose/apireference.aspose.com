@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0661 VRUS VM1 Patient Support Position Tolerance Order Index.
 type: docs
 weight: 30340
-url: /aspose.medical.dicom.tags/tag/patientsupportpositiontoleranceorderindex/
+url: /net/aspose.medical.dicom.tags/tag/patientsupportpositiontoleranceorderindex/
 ---
 
 ## Tag.PatientSupportPositionToleranceOrderIndex field

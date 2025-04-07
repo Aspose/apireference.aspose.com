@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540012 VRSQ VM1 Energy Window Information Sequence.
 type: docs
 weight: 13650
-url: /aspose.medical.dicom.tags/tag/energywindowinformationsequence/
+url: /net/aspose.medical.dicom.tags/tag/energywindowinformationsequence/
 ---
 
 ## Tag.EnergyWindowInformationSequence field

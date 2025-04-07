@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Adds the given values to the collection of values of this element.
 type: docs
 weight: 40
-url: /aspose.medical.dicom.elements/multivaluetextelement/addrange/
+url: /net/aspose.medical.dicom.elements/multivaluetextelement/addrange/
 ---
 
 ## MultiValueTextElement.AddRange method

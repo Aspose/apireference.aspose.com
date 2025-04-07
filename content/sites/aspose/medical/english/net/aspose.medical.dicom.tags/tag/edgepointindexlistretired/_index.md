@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660024 VROW VM1 Edge Point Index List RETIRED.
 type: docs
 weight: 13260
-url: /aspose.medical.dicom.tags/tag/edgepointindexlistretired/
+url: /net/aspose.medical.dicom.tags/tag/edgepointindexlistretired/
 ---
 
 ## Tag.EdgePointIndexListRETIRED field

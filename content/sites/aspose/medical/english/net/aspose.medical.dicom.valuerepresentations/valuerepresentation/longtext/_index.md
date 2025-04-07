@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Long Text LT.
 type: docs
 weight: 130
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/longtext/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/longtext/
 ---
 
 ## ValueRepresentation.LongText field

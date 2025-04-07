@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020105 VRCS VM1 Beam Modifier Coordinates Presence Flag.
 type: docs
 weight: 3550
-url: /aspose.medical.dicom.tags/tag/beammodifiercoordinatespresenceflag/
+url: /net/aspose.medical.dicom.tags/tag/beammodifiercoordinatespresenceflag/
 ---
 
 ## Tag.BeamModifierCoordinatesPresenceFlag field

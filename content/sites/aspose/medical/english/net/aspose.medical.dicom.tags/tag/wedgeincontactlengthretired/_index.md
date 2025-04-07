@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145116 VRDS VM1 Wedge In Contact Length RETIRED.
 type: docs
 weight: 52180
-url: /aspose.medical.dicom.tags/tag/wedgeincontactlengthretired/
+url: /net/aspose.medical.dicom.tags/tag/wedgeincontactlengthretired/
 ---
 
 ## Tag.WedgeInContactLengthRETIRED field

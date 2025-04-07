@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040B03F VRLO VM1 Montage Channel Label.
 type: docs
 weight: 24890
-url: /aspose.medical.dicom.tags/tag/montagechannellabel/
+url: /net/aspose.medical.dicom.tags/tag/montagechannellabel/
 ---
 
 ## Tag.MontageChannelLabel field

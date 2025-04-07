@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Determines whether two specified ranges have the same value.
 type: docs
 weight: 90
-url: /aspose.medical.dicom.elements/daterange/op_equality/
+url: /net/aspose.medical.dicom.elements/daterange/op_equality/
 ---
 
 ## DateRange Equality operator

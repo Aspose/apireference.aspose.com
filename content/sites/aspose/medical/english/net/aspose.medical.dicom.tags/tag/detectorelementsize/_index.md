@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541203 VRDS VM2 Detector Element Size.
 type: docs
 weight: 11000
-url: /aspose.medical.dicom.tags/tag/detectorelementsize/
+url: /net/aspose.medical.dicom.tags/tag/detectorelementsize/
 ---
 
 ## Tag.DetectorElementSize field

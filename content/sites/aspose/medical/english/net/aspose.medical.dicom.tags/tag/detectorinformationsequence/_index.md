@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540022 VRSQ VM1 Detector Information Sequence.
 type: docs
 weight: 11050
-url: /aspose.medical.dicom.tags/tag/detectorinformationsequence/
+url: /net/aspose.medical.dicom.tags/tag/detectorinformationsequence/
 ---
 
 ## Tag.DetectorInformationSequence field

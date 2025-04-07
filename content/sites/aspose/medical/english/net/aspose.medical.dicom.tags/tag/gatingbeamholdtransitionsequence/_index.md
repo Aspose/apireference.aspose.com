@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0125 VRSQ VM1 Gating Beam Hold Transition Sequence.
 type: docs
 weight: 17100
-url: /aspose.medical.dicom.tags/tag/gatingbeamholdtransitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/gatingbeamholdtransitionsequence/
 ---
 
 ## Tag.GatingBeamHoldTransitionSequence field

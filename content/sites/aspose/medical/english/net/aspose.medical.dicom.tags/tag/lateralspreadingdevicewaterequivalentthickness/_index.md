@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A033C VRFL VM1 Lateral Spreading Device Water Equivalent Thickness.
 type: docs
 weight: 22500
-url: /aspose.medical.dicom.tags/tag/lateralspreadingdevicewaterequivalentthickness/
+url: /net/aspose.medical.dicom.tags/tag/lateralspreadingdevicewaterequivalentthickness/
 ---
 
 ## Tag.LateralSpreadingDeviceWaterEquivalentThickness field

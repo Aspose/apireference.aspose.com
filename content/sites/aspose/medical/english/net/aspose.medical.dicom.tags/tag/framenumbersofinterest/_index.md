@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00286020 VRUS VM1-n Frame Numbers of Interest FOI.
 type: docs
 weight: 16610
-url: /aspose.medical.dicom.tags/tag/framenumbersofinterest/
+url: /net/aspose.medical.dicom.tags/tag/framenumbersofinterest/
 ---
 
 ## Tag.FrameNumbersOfInterest field

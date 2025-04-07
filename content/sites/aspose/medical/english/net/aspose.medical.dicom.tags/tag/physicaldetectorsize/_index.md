@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189429 VRFL VM2 Physical Detector Size.
 type: docs
 weight: 31240
-url: /aspose.medical.dicom.tags/tag/physicaldetectorsize/
+url: /net/aspose.medical.dicom.tags/tag/physicaldetectorsize/
 ---
 
 ## Tag.PhysicalDetectorSize field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101045 VRSQ VM1 Basis Materials Code Sequence RETIRED.
 type: docs
 weight: 3240
-url: /aspose.medical.dicom.tags/tag/basismaterialscodesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/basismaterialscodesequenceretired/
 ---
 
 ## Tag.BasisMaterialsCodeSequenceRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100040 VRCS VM1 Film Orientation.
 type: docs
 weight: 15260
-url: /aspose.medical.dicom.tags/tag/filmorientation/
+url: /net/aspose.medical.dicom.tags/tag/filmorientation/
 ---
 
 ## Tag.FilmOrientation field

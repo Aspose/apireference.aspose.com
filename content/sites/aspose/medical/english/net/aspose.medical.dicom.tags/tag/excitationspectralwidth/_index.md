@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189822 VRFD VM1 Excitation Spectral Width.
 type: docs
 weight: 14270
-url: /aspose.medical.dicom.tags/tag/excitationspectralwidth/
+url: /net/aspose.medical.dicom.tags/tag/excitationspectralwidth/
 ---
 
 ## Tag.ExcitationSpectralWidth field

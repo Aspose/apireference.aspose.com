@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100014 VRSQ VM1 Derivation Conceptual Volume Sequence.
 type: docs
 weight: 10800
-url: /aspose.medical.dicom.tags/tag/derivationconceptualvolumesequence/
+url: /net/aspose.medical.dicom.tags/tag/derivationconceptualvolumesequence/
 ---
 
 ## Tag.DerivationConceptualVolumeSequence field

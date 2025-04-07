@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Specifies that the transfer syntax is declared retired. Read-only Boolean.
 type: docs
 weight: 650
-url: /aspose.medical.dicom/transfersyntax/isretired/
+url: /net/aspose.medical.dicom/transfersyntax/isretired/
 ---
 
 ## TransferSyntax.IsRetired property

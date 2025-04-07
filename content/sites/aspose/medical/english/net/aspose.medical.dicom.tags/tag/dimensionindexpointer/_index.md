@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209165 VRAT VM1 Dimension Index Pointer.
 type: docs
 weight: 11850
-url: /aspose.medical.dicom.tags/tag/dimensionindexpointer/
+url: /net/aspose.medical.dicom.tags/tag/dimensionindexpointer/
 ---
 
 ## Tag.DimensionIndexPointer field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100024 VRSQ VM1 Issuer of Patient ID Qualifiers Sequence.
 type: docs
 weight: 21860
-url: /aspose.medical.dicom.tags/tag/issuerofpatientidqualifierssequence/
+url: /net/aspose.medical.dicom.tags/tag/issuerofpatientidqualifierssequence/
 ---
 
 ## Tag.IssuerOfPatientIDQualifiersSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00880910 VRLO VM1 Topic Author RETIRED.
 type: docs
 weight: 48770
-url: /aspose.medical.dicom.tags/tag/topicauthorretired/
+url: /net/aspose.medical.dicom.tags/tag/topicauthorretired/
 ---
 
 ## Tag.TopicAuthorRETIRED field

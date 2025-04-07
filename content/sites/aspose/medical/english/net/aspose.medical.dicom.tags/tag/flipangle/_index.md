@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181314 VRDS VM1 Flip Angle.
 type: docs
 weight: 15940
-url: /aspose.medical.dicom.tags/tag/flipangle/
+url: /net/aspose.medical.dicom.tags/tag/flipangle/
 ---
 
 ## Tag.FlipAngle field

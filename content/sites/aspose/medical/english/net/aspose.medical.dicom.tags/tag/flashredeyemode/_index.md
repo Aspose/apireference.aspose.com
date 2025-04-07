@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160015 VRUS VM1 Flash Red Eye Mode.
 type: docs
 weight: 15880
-url: /aspose.medical.dicom.tags/tag/flashredeyemode/
+url: /net/aspose.medical.dicom.tags/tag/flashredeyemode/
 ---
 
 ## Tag.FlashRedEyeMode field

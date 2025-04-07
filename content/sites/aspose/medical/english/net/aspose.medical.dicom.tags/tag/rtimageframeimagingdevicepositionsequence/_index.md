@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020109 VRSQ VM1 RT Image Frame Imaging Device Position Sequence.
 type: docs
 weight: 40130
-url: /aspose.medical.dicom.tags/tag/rtimageframeimagingdevicepositionsequence/
+url: /net/aspose.medical.dicom.tags/tag/rtimageframeimagingdevicepositionsequence/
 ---
 
 ## Tag.RTImageFrameImagingDevicePositionSequence field

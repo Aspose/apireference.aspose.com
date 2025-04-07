@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 90
-url: /aspose.medical.imaging.pixelformats/rgba32/gethashcode/
+url: /net/aspose.medical.imaging.pixelformats/rgba32/gethashcode/
 ---
 
 ## Rgba32.GetHashCode method

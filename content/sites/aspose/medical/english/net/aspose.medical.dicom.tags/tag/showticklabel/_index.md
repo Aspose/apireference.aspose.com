@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700278 VRCS VM1 Show Tick Label.
 type: docs
 weight: 43360
-url: /aspose.medical.dicom.tags/tag/showticklabel/
+url: /net/aspose.medical.dicom.tags/tag/showticklabel/
 ---
 
 ## Tag.ShowTickLabel field

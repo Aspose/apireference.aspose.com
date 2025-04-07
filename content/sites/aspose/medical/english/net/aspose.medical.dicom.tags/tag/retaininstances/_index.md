@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080415 VRCS VM1 Retain Instances.
 type: docs
 weight: 39150
-url: /aspose.medical.dicom.tags/tag/retaininstances/
+url: /net/aspose.medical.dicom.tags/tag/retaininstances/
 ---
 
 ## Tag.RetainInstances field

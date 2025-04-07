@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101020 VRCS VM1 Route Segment Location ID Type RETIRED.
 type: docs
 weight: 39750
-url: /aspose.medical.dicom.tags/tag/routesegmentlocationidtyperetired/
+url: /net/aspose.medical.dicom.tags/tag/routesegmentlocationidtyperetired/
 ---
 
 ## Tag.RouteSegmentLocationIDTypeRETIRED field

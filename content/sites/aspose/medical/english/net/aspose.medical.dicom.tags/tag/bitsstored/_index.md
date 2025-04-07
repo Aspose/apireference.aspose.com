@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280101 VRUS VM1 Bits Stored.
 type: docs
 weight: 3790
-url: /aspose.medical.dicom.tags/tag/bitsstored/
+url: /net/aspose.medical.dicom.tags/tag/bitsstored/
 ---
 
 ## Tag.BitsStored field

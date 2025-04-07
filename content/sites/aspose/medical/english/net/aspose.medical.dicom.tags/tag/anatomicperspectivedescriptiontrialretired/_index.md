@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082256 VRST VM1 Anatomic Perspective Description Trial RETIRED.
 type: docs
 weight: 1520
-url: /aspose.medical.dicom.tags/tag/anatomicperspectivedescriptiontrialretired/
+url: /net/aspose.medical.dicom.tags/tag/anatomicperspectivedescriptiontrialretired/
 ---
 
 ## Tag.AnatomicPerspectiveDescriptionTrialRETIRED field

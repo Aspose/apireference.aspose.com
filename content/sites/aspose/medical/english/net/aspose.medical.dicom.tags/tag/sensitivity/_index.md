@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186000 VRDS VM1 Sensitivity.
 type: docs
 weight: 42750
-url: /aspose.medical.dicom.tags/tag/sensitivity/
+url: /net/aspose.medical.dicom.tags/tag/sensitivity/
 ---
 
 ## Tag.Sensitivity field

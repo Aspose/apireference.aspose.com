@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014601C VRCS VM1 Thermal Technique RETIRED.
 type: docs
 weight: 48010
-url: /aspose.medical.dicom.tags/tag/thermaltechniqueretired/
+url: /net/aspose.medical.dicom.tags/tag/thermaltechniqueretired/
 ---
 
 ## Tag.ThermalTechniqueRETIRED field

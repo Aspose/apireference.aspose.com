@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Procedural Event Logging SOP Class.
 type: docs
 weight: 3720
-url: /aspose.medical.dicom/uid/proceduraleventloggingsopclass/
+url: /net/aspose.medical.dicom/uid/proceduraleventloggingsopclass/
 ---
 
 ## Uid.ProceduralEventLoggingSOPClass field

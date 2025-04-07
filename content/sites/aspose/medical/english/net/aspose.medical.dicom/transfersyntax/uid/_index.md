@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The unique identifier of the transfer syntax. Read-only Uidaspose.medical.dicom/transfersyntax/uid.
 type: docs
 weight: 680
-url: /aspose.medical.dicom/transfersyntax/uid/
+url: /net/aspose.medical.dicom/transfersyntax/uid/
 ---
 
 ## TransferSyntax.Uid property

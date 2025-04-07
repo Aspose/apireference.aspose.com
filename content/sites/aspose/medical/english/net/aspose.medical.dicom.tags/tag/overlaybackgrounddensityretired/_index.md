@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20400082 VRCS VM1 Overlay Background Density RETIRED.
 type: docs
 weight: 28820
-url: /aspose.medical.dicom.tags/tag/overlaybackgrounddensityretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaybackgrounddensityretired/
 ---
 
 ## Tag.OverlayBackgroundDensityRETIRED field

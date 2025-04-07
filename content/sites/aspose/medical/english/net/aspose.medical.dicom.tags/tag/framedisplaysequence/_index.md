@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00089458 VRSQ VM1 Frame Display Sequence.
 type: docs
 weight: 16540
-url: /aspose.medical.dicom.tags/tag/framedisplaysequence/
+url: /net/aspose.medical.dicom.tags/tag/framedisplaysequence/
 ---
 
 ## Tag.FrameDisplaySequence field

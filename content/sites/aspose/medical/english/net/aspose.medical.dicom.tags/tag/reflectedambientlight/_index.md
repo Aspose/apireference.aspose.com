@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100160 VRUS VM1 Reflected Ambient Light.
 type: docs
 weight: 37880
-url: /aspose.medical.dicom.tags/tag/reflectedambientlight/
+url: /net/aspose.medical.dicom.tags/tag/reflectedambientlight/
 ---
 
 ## Tag.ReflectedAmbientLight field

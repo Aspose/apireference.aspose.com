@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Marker Interface for Modality Look-Up Tables. Represents Modality Rescale LUT Modality Sequence LUT. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.11.htmlsect_C.11.1.
 type: docs
 weight: 760
-url: /aspose.medical.dicom.lookuptables/imodalitylookuptable/
+url: /net/aspose.medical.dicom.lookuptables/imodalitylookuptable/
 ---
 
 ## IModalityLookUpTable interface

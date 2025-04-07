@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100030 VRCS VM1 Annotation Display Format ID.
 type: docs
 weight: 1780
-url: /aspose.medical.dicom.tags/tag/annotationdisplayformatid/
+url: /net/aspose.medical.dicom.tags/tag/annotationdisplayformatid/
 ---
 
 ## Tag.AnnotationDisplayFormatID field

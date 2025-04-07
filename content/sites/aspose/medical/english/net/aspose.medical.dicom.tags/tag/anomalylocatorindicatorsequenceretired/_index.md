@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101079 VRSQ VM1 Anomaly Locator Indicator Sequence RETIRED.
 type: docs
 weight: 1940
-url: /aspose.medical.dicom.tags/tag/anomalylocatorindicatorsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/anomalylocatorindicatorsequenceretired/
 ---
 
 ## Tag.AnomalyLocatorIndicatorSequenceRETIRED field

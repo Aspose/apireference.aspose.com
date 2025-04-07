@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404026 VRSQ VM1 Scheduled Station Class Code Sequence.
 type: docs
 weight: 41530
-url: /aspose.medical.dicom.tags/tag/scheduledstationclasscodesequence/
+url: /net/aspose.medical.dicom.tags/tag/scheduledstationclasscodesequence/
 ---
 
 ## Tag.ScheduledStationClassCodeSequence field

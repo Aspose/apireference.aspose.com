@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520033 VRFD VM1 Seam Line Location.
 type: docs
 weight: 41750
-url: /aspose.medical.dicom.tags/tag/seamlinelocation/
+url: /net/aspose.medical.dicom.tags/tag/seamlinelocation/
 ---
 
 ## Tag.SeamLineLocation field

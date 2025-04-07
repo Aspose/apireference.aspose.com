@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates basic functionality for multi-value text VR types with customizable encodings.
 type: docs
 weight: 220
-url: /aspose.medical.dicom.elements/encodablemultivaluedtextelement/
+url: /net/aspose.medical.dicom.elements/encodablemultivaluedtextelement/
 ---
 
 ## EncodableMultiValuedTextElement class

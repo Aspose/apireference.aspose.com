@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00182044 VRFL VM3 Calculated Target Position.
 type: docs
 weight: 4860
-url: /aspose.medical.dicom.tags/tag/calculatedtargetposition/
+url: /net/aspose.medical.dicom.tags/tag/calculatedtargetposition/
 ---
 
 ## Tag.CalculatedTargetPosition field

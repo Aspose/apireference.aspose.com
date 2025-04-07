@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 50
-url: /aspose.medical.dicom.lookuptables/palettecolorlookuptable/minimum/
+url: /net/aspose.medical.dicom.lookuptables/palettecolorlookuptable/minimum/
 ---
 
 ## PaletteColorLookUpTable.Minimum property

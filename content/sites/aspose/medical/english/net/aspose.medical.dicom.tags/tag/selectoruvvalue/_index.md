@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720083 VRUV VM1-n Selector UV Value.
 type: docs
 weight: 42690
-url: /aspose.medical.dicom.tags/tag/selectoruvvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectoruvvalue/
 ---
 
 ## Tag.SelectorUVValue field

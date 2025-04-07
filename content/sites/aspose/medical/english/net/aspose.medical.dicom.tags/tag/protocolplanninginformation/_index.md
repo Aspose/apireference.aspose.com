@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018990F VRUT VM1 Protocol Planning Information.
 type: docs
 weight: 33710
-url: /aspose.medical.dicom.tags/tag/protocolplanninginformation/
+url: /net/aspose.medical.dicom.tags/tag/protocolplanninginformation/
 ---
 
 ## Tag.ProtocolPlanningInformation field

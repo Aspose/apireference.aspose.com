@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185104 VRSQ VM1 Projection Eponymous Name Code Sequence.
 type: docs
 weight: 33580
-url: /aspose.medical.dicom.tags/tag/projectioneponymousnamecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/projectioneponymousnamecodesequence/
 ---
 
 ## Tag.ProjectionEponymousNameCodeSequence field

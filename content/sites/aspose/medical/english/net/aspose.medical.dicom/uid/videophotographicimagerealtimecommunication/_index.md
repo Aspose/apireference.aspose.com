@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Video Photographic Image Real-Time Communication.
 type: docs
 weight: 4960
-url: /aspose.medical.dicom/uid/videophotographicimagerealtimecommunication/
+url: /net/aspose.medical.dicom/uid/videophotographicimagerealtimecommunication/
 ---
 
 ## Uid.VideoPhotographicImageRealTimeCommunication field

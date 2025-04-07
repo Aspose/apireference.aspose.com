@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300600B0 VRSQ VM1 ROI Physical Properties Sequence.
 type: docs
 weight: 39570
-url: /aspose.medical.dicom.tags/tag/roiphysicalpropertiessequence/
+url: /net/aspose.medical.dicom.tags/tag/roiphysicalpropertiessequence/
 ---
 
 ## Tag.ROIPhysicalPropertiesSequence field

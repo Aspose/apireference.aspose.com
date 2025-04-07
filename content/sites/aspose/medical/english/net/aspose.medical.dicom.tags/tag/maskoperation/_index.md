@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00286101 VRCS VM1 Mask Operation.
 type: docs
 weight: 23570
-url: /aspose.medical.dicom.tags/tag/maskoperation/
+url: /net/aspose.medical.dicom.tags/tag/maskoperation/
 ---
 
 ## Tag.MaskOperation field

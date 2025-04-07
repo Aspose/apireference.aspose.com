@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 54000112 VROB or OW VM1 Channel Maximum Value.
 type: docs
 weight: 5520
-url: /aspose.medical.dicom.tags/tag/channelmaximumvalue/
+url: /net/aspose.medical.dicom.tags/tag/channelmaximumvalue/
 ---
 
 ## Tag.ChannelMaximumValue field

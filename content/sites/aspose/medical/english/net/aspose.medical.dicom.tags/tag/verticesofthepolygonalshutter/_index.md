@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181620 VRIS VM2-2n Vertices of the Polygonal Shutter.
 type: docs
 weight: 51090
-url: /aspose.medical.dicom.tags/tag/verticesofthepolygonalshutter/
+url: /net/aspose.medical.dicom.tags/tag/verticesofthepolygonalshutter/
 ---
 
 ## Tag.VerticesOfThePolygonalShutter field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A080 VRCS VM1 Participation Type.
 type: docs
 weight: 29660
-url: /aspose.medical.dicom.tags/tag/participationtype/
+url: /net/aspose.medical.dicom.tags/tag/participationtype/
 ---
 
 ## Tag.ParticipationType field

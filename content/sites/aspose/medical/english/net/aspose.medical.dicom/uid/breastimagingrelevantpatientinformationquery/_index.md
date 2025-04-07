@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Breast Imaging Relevant Patient Information Query.
 type: docs
 weight: 250
-url: /aspose.medical.dicom/uid/breastimagingrelevantpatientinformationquery/
+url: /net/aspose.medical.dicom/uid/breastimagingrelevantpatientinformationquery/
 ---
 
 ## Uid.BreastImagingRelevantPatientInformationQuery field

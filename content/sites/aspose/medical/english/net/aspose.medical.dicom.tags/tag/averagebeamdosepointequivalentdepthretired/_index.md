@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A008E VRFL VM1 Average Beam Dose Point Equivalent Depth RETIRED.
 type: docs
 weight: 3000
-url: /aspose.medical.dicom.tags/tag/averagebeamdosepointequivalentdepthretired/
+url: /net/aspose.medical.dicom.tags/tag/averagebeamdosepointequivalentdepthretired/
 ---
 
 ## Tag.AverageBeamDosePointEquivalentDepthRETIRED field

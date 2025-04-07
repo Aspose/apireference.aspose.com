@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Pixel data represent a color image described by red green and blue image planes. The minimum sample value for each color plane represents minimum intensity of the color. This value may be used only when Samples per Pixel 00280002 has a value of 3. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_c.7.6.3.htmlsect_C.7.6.3.1.2textshall20be20present.-RGB-Pixel20data20represent. Read-only PhotometricInterpretationaspose.medical.dicom.imaging/photometricinterpretation.
 type: docs
 weight: 40
-url: /aspose.medical.dicom.imaging/photometricinterpretation/rgb/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/rgb/
 ---
 
 ## PhotometricInterpretation.Rgb property

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The top-level dictionary is intended to provide metadata about standard DICOM tags register Private Creator elements. Read-only TagDictionaryaspose.medical.dicom.tags/tagdictionary.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.tags/tagdictionary/default/
+url: /net/aspose.medical.dicom.tags/tagdictionary/default/
 ---
 
 ## TagDictionary.Default property

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Body Position Waveform Storage.
 type: docs
 weight: 240
-url: /aspose.medical.dicom/uid/bodypositionwaveformstorage/
+url: /net/aspose.medical.dicom/uid/bodypositionwaveformstorage/
 ---
 
 ## Uid.BodyPositionWaveformStorage field

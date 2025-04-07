@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189004 VRCS VM1 Content Qualification.
 type: docs
 weight: 7910
-url: /aspose.medical.dicom.tags/tag/contentqualification/
+url: /net/aspose.medical.dicom.tags/tag/contentqualification/
 ---
 
 ## Tag.ContentQualification field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189908 VRUC VM1-n Potential Reasons for Procedure.
 type: docs
 weight: 32210
-url: /aspose.medical.dicom.tags/tag/potentialreasonsforprocedure/
+url: /net/aspose.medical.dicom.tags/tag/potentialreasonsforprocedure/
 ---
 
 ## Tag.PotentialReasonsForProcedure field

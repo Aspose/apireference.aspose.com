@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102110 VRLO VM1-n Allergies.
 type: docs
 weight: 1270
-url: /aspose.medical.dicom.tags/tag/allergies/
+url: /net/aspose.medical.dicom.tags/tag/allergies/
 ---
 
 ## Tag.Allergies field

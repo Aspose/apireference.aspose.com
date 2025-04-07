@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101012 VRCS VM1 Threat Category RETIRED.
 type: docs
 weight: 48050
-url: /aspose.medical.dicom.tags/tag/threatcategoryretired/
+url: /net/aspose.medical.dicom.tags/tag/threatcategoryretired/
 ---
 
 ## Tag.ThreatCategoryRETIRED field

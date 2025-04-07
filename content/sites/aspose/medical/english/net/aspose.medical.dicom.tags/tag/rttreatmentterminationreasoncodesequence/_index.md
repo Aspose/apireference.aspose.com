@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0715 VRSQ VM1 RT Treatment Termination Reason Code Sequence.
 type: docs
 weight: 40740
-url: /aspose.medical.dicom.tags/tag/rttreatmentterminationreasoncodesequence/
+url: /net/aspose.medical.dicom.tags/tag/rttreatmentterminationreasoncodesequence/
 ---
 
 ## Tag.RTTreatmentTerminationReasonCodeSequence field

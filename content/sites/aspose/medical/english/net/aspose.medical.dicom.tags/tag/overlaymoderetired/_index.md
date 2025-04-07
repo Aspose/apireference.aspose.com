@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20400090 VRCS VM1 Overlay Mode RETIRED.
 type: docs
 weight: 29080
-url: /aspose.medical.dicom.tags/tag/overlaymoderetired/
+url: /net/aspose.medical.dicom.tags/tag/overlaymoderetired/
 ---
 
 ## Tag.OverlayModeRETIRED field

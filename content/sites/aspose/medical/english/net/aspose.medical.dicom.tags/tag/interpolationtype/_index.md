@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520039 VRCS VM1 Interpolation Type.
 type: docs
 weight: 20920
-url: /aspose.medical.dicom.tags/tag/interpolationtype/
+url: /net/aspose.medical.dicom.tags/tag/interpolationtype/
 ---
 
 ## Tag.InterpolationType field

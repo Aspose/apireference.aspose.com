@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380008 VRCS VM1 Visit Status ID.
 type: docs
 weight: 51300
-url: /aspose.medical.dicom.tags/tag/visitstatusid/
+url: /net/aspose.medical.dicom.tags/tag/visitstatusid/
 ---
 
 ## Tag.VisitStatusID field

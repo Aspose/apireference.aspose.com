@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180088 VRDS VM1 Spacing Between Slices.
 type: docs
 weight: 44690
-url: /aspose.medical.dicom.tags/tag/spacingbetweenslices/
+url: /net/aspose.medical.dicom.tags/tag/spacingbetweenslices/
 ---
 
 ## Tag.SpacingBetweenSlices field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189098 VRFD VM1-2 Transmitter Frequency.
 type: docs
 weight: 49520
-url: /aspose.medical.dicom.tags/tag/transmitterfrequency/
+url: /net/aspose.medical.dicom.tags/tag/transmitterfrequency/
 ---
 
 ## Tag.TransmitterFrequency field

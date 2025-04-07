@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016000C VRUC VM1-n Spatial Frequency Response Column Names.
 type: docs
 weight: 44720
-url: /aspose.medical.dicom.tags/tag/spatialfrequencyresponsecolumnnames/
+url: /net/aspose.medical.dicom.tags/tag/spatialfrequencyresponsecolumnnames/
 ---
 
 ## Tag.SpatialFrequencyResponseColumnNames field

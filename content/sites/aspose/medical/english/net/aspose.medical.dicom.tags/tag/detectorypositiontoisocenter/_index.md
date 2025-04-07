@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189553 VRFD VM1 Detector Y Position to Isocenter.
 type: docs
 weight: 11240
-url: /aspose.medical.dicom.tags/tag/detectorypositiontoisocenter/
+url: /net/aspose.medical.dicom.tags/tag/detectorypositiontoisocenter/
 ---
 
 ## Tag.DetectorYPositionToIsocenter field

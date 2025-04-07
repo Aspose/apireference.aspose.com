@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189432 VRSQ VM1 Field of View Sequence.
 type: docs
 weight: 15030
-url: /aspose.medical.dicom.tags/tag/fieldofviewsequence/
+url: /net/aspose.medical.dicom.tags/tag/fieldofviewsequence/
 ---
 
 ## Tag.FieldOfViewSequence field

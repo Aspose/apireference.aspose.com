@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0302 VRIS VM1 Radiation Mass Number.
 type: docs
 weight: 34410
-url: /aspose.medical.dicom.tags/tag/radiationmassnumber/
+url: /net/aspose.medical.dicom.tags/tag/radiationmassnumber/
 ---
 
 ## Tag.RadiationMassNumber field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142018 VRST VM1 Indication Description RETIRED.
 type: docs
 weight: 20220
-url: /aspose.medical.dicom.tags/tag/indicationdescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/indicationdescriptionretired/
 ---
 
 ## Tag.IndicationDescriptionRETIRED field

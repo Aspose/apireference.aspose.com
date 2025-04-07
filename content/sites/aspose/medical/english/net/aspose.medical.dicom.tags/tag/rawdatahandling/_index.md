@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404040 VRCS VM1 Raw Data Handling.
 type: docs
 weight: 35020
-url: /aspose.medical.dicom.tags/tag/rawdatahandling/
+url: /net/aspose.medical.dicom.tags/tag/rawdatahandling/
 ---
 
 ## Tag.RawDataHandling field

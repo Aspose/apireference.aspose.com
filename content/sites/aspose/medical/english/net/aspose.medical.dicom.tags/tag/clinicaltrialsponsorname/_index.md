@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120010 VRLO VM1 Clinical Trial Sponsor Name.
 type: docs
 weight: 5990
-url: /aspose.medical.dicom.tags/tag/clinicaltrialsponsorname/
+url: /net/aspose.medical.dicom.tags/tag/clinicaltrialsponsorname/
 ---
 
 ## Tag.ClinicalTrialSponsorName field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460092 VRCS VM1 Background Color.
 type: docs
 weight: 3150
-url: /aspose.medical.dicom.tags/tag/backgroundcolor/
+url: /net/aspose.medical.dicom.tags/tag/backgroundcolor/
 ---
 
 ## Tag.BackgroundColor field

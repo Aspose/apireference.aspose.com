@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701701 VRCS VM1 Shading Style.
 type: docs
 weight: 43070
-url: /aspose.medical.dicom.tags/tag/shadingstyle/
+url: /net/aspose.medical.dicom.tags/tag/shadingstyle/
 ---
 
 ## Tag.ShadingStyle field

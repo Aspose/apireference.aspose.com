@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082111 VRST VM1 Derivation Description.
 type: docs
 weight: 10810
-url: /aspose.medical.dicom.tags/tag/derivationdescription/
+url: /net/aspose.medical.dicom.tags/tag/derivationdescription/
 ---
 
 ## Tag.DerivationDescription field

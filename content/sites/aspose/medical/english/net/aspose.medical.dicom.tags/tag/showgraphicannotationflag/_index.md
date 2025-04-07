@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720712 VRCS VM1 Show Graphic Annotation Flag.
 type: docs
 weight: 43320
-url: /aspose.medical.dicom.tags/tag/showgraphicannotationflag/
+url: /net/aspose.medical.dicom.tags/tag/showgraphicannotationflag/
 ---
 
 ## Tag.ShowGraphicAnnotationFlag field

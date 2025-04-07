@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028140F VRCS VM1 RGB LUT Transfer Function.
 type: docs
 weight: 39290
-url: /aspose.medical.dicom.tags/tag/rgbluttransferfunction/
+url: /net/aspose.medical.dicom.tags/tag/rgbluttransferfunction/
 ---
 
 ## Tag.RGBLUTTransferFunction field

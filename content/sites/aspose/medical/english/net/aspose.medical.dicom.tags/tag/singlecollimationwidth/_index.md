@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189306 VRFD VM1 Single Collimation Width.
 type: docs
 weight: 43520
-url: /aspose.medical.dicom.tags/tag/singlecollimationwidth/
+url: /net/aspose.medical.dicom.tags/tag/singlecollimationwidth/
 ---
 
 ## Tag.SingleCollimationWidth field

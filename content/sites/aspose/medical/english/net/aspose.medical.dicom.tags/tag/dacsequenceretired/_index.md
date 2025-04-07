@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144035 VRSQ VM1 DAC Sequence RETIRED.
 type: docs
 weight: 9670
-url: /aspose.medical.dicom.tags/tag/dacsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/dacsequenceretired/
 ---
 
 ## Tag.DACSequenceRETIRED field

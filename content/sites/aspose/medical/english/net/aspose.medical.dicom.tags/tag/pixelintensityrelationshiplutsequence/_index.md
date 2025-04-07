@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289422 VRSQ VM1 Pixel Intensity Relationship LUT Sequence.
 type: docs
 weight: 31450
-url: /aspose.medical.dicom.tags/tag/pixelintensityrelationshiplutsequence/
+url: /net/aspose.medical.dicom.tags/tag/pixelintensityrelationshiplutsequence/
 ---
 
 ## Tag.PixelIntensityRelationshipLUTSequence field

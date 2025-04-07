@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720074 VRFD VM1-n Selector FD Value.
 type: docs
 weight: 42410
-url: /aspose.medical.dicom.tags/tag/selectorfdvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorfdvalue/
 ---
 
 ## Tag.SelectorFDValue field

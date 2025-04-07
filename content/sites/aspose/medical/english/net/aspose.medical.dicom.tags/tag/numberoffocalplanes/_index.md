@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480013 VRUS VM1 Number of Focal Planes.
 type: docs
 weight: 26320
-url: /aspose.medical.dicom.tags/tag/numberoffocalplanes/
+url: /net/aspose.medical.dicom.tags/tag/numberoffocalplanes/
 ---
 
 ## Tag.NumberOfFocalPlanes field

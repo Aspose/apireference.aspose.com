@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00286110 VRUS VM1-n Mask Frame Numbers.
 type: docs
 weight: 23550
-url: /aspose.medical.dicom.tags/tag/maskframenumbers/
+url: /net/aspose.medical.dicom.tags/tag/maskframenumbers/
 ---
 
 ## Tag.MaskFrameNumbers field

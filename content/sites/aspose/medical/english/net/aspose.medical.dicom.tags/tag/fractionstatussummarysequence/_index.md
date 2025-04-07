@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080240 VRSQ VM1 Fraction Status Summary Sequence.
 type: docs
 weight: 16430
-url: /aspose.medical.dicom.tags/tag/fractionstatussummarysequence/
+url: /net/aspose.medical.dicom.tags/tag/fractionstatussummarysequence/
 ---
 
 ## Tag.FractionStatusSummarySequence field

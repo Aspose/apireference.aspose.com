@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287005 VRLO VM1 Display Subsystem Description.
 type: docs
 weight: 12260
-url: /aspose.medical.dicom.tags/tag/displaysubsystemdescription/
+url: /net/aspose.medical.dicom.tags/tag/displaysubsystemdescription/
 ---
 
 ## Tag.DisplaySubsystemDescription field

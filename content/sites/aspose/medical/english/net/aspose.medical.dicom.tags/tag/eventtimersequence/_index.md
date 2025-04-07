@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082133 VRSQ VM1 Event Timer Sequence.
 type: docs
 weight: 14150
-url: /aspose.medical.dicom.tags/tag/eventtimersequence/
+url: /net/aspose.medical.dicom.tags/tag/eventtimersequence/
 ---
 
 ## Tag.EventTimerSequence field

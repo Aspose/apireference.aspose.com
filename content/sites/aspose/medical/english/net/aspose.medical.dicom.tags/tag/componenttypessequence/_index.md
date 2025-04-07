@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00760032 VRSQ VM1 Component Types Sequence.
 type: docs
 weight: 7060
-url: /aspose.medical.dicom.tags/tag/componenttypessequence/
+url: /net/aspose.medical.dicom.tags/tag/componenttypessequence/
 ---
 
 ## Tag.ComponentTypesSequence field

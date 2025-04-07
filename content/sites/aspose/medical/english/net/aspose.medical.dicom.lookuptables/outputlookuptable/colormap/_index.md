@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The associated color map. Read-only Bgra32aspose.medical.imaging.pixelformats/bgra32.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.lookuptables/outputlookuptable/colormap/
+url: /net/aspose.medical.dicom.lookuptables/outputlookuptable/colormap/
 ---
 
 ## OutputLookUpTable.ColorMap property

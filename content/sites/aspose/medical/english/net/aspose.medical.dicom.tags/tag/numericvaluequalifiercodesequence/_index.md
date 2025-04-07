@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A301 VRSQ VM1 Numeric Value Qualifier Code Sequence.
 type: docs
 weight: 27190
-url: /aspose.medical.dicom.tags/tag/numericvaluequalifiercodesequence/
+url: /net/aspose.medical.dicom.tags/tag/numericvaluequalifiercodesequence/
 ---
 
 ## Tag.NumericValueQualifierCodeSequence field

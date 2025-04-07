@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540052 VRSQ VM1 Rotation Information Sequence.
 type: docs
 weight: 39640
-url: /aspose.medical.dicom.tags/tag/rotationinformationsequence/
+url: /net/aspose.medical.dicom.tags/tag/rotationinformationsequence/
 ---
 
 ## Tag.RotationInformationSequence field

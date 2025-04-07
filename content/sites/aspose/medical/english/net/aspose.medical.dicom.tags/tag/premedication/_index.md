@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400012 VRLO VM1 Pre-Medication.
 type: docs
 weight: 32430
-url: /aspose.medical.dicom.tags/tag/premedication/
+url: /net/aspose.medical.dicom.tags/tag/premedication/
 ---
 
 ## Tag.PreMedication field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The overlay label. Read/Write String.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.imaging.overlays/overlaydata/label/
+url: /net/aspose.medical.dicom.imaging.overlays/overlaydata/label/
 ---
 
 ## OverlayData.Label property

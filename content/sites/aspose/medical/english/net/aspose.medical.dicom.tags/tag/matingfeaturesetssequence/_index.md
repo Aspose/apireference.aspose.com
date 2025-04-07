@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006863B0 VRSQ VM1 Mating Feature Sets Sequence.
 type: docs
 weight: 23820
-url: /aspose.medical.dicom.tags/tag/matingfeaturesetssequence/
+url: /net/aspose.medical.dicom.tags/tag/matingfeaturesetssequence/
 ---
 
 ## Tag.MatingFeatureSetsSequence field

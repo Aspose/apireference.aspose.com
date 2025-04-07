@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Returns numbers stored in the element. Supplements the data property.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/numericmultivaluetextelement-1/getnumbers/
+url: /net/aspose.medical.dicom.elements/numericmultivaluetextelement-1/getnumbers/
 ---
 
 ## NumericMultiValueTextElement&lt;T&gt;.GetNumbers method

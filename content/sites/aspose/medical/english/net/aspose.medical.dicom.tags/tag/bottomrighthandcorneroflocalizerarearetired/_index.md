@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480202 VRUS VM2 Bottom Right Hand Corner of Localizer Area RETIRED.
 type: docs
 weight: 4320
-url: /aspose.medical.dicom.tags/tag/bottomrighthandcorneroflocalizerarearetired/
+url: /net/aspose.medical.dicom.tags/tag/bottomrighthandcorneroflocalizerarearetired/
 ---
 
 ## Tag.BottomRightHandCornerOfLocalizerAreaRETIRED field

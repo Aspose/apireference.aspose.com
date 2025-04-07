@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221273 VRLO VM1 Ophthalmic Axial Length Quality Metric Type Description RETIRED.
 type: docs
 weight: 27990
-url: /aspose.medical.dicom.tags/tag/ophthalmicaxiallengthqualitymetrictypedescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicaxiallengthqualitymetrictypedescriptionretired/
 ---
 
 ## Tag.OphthalmicAxialLengthQualityMetricTypeDescriptionRETIRED field

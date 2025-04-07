@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081250 VRSQ VM1 Related Series Sequence.
 type: docs
 weight: 38260
-url: /aspose.medical.dicom.tags/tag/relatedseriessequence/
+url: /net/aspose.medical.dicom.tags/tag/relatedseriessequence/
 ---
 
 ## Tag.RelatedSeriesSequence field

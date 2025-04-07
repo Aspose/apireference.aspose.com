@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189947 VRCS VM1 Protocol Defined Patient Position.
 type: docs
 weight: 33640
-url: /aspose.medical.dicom.tags/tag/protocoldefinedpatientposition/
+url: /net/aspose.medical.dicom.tags/tag/protocoldefinedpatientposition/
 ---
 
 ## Tag.ProtocolDefinedPatientPosition field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189310 VRFD VM1 Table Feed per Rotation.
 type: docs
 weight: 46750
-url: /aspose.medical.dicom.tags/tag/tablefeedperrotation/
+url: /net/aspose.medical.dicom.tags/tag/tablefeedperrotation/
 ---
 
 ## Tag.TableFeedPerRotation field

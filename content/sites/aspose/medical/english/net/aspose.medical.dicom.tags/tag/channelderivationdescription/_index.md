@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A020C VRLO VM1 Channel Derivation Description.
 type: docs
 weight: 5430
-url: /aspose.medical.dicom.tags/tag/channelderivationdescription/
+url: /net/aspose.medical.dicom.tags/tag/channelderivationdescription/
 ---
 
 ## Tag.ChannelDerivationDescription field

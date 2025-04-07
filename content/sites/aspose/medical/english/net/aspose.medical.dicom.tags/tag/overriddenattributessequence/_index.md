@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0074104A VRSQ VM1 Overridden Attributes Sequence.
 type: docs
 weight: 29270
-url: /aspose.medical.dicom.tags/tag/overriddenattributessequence/
+url: /net/aspose.medical.dicom.tags/tag/overriddenattributessequence/
 ---
 
 ## Tag.OverriddenAttributesSequence field

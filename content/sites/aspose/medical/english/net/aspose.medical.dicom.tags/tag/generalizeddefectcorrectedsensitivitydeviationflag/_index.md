@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240102 VRCS VM1 Generalized Defect Corrected Sensitivity Deviation Flag.
 type: docs
 weight: 17170
-url: /aspose.medical.dicom.tags/tag/generalizeddefectcorrectedsensitivitydeviationflag/
+url: /net/aspose.medical.dicom.tags/tag/generalizeddefectcorrectedsensitivitydeviationflag/
 ---
 
 ## Tag.GeneralizedDefectCorrectedSensitivityDeviationFlag field

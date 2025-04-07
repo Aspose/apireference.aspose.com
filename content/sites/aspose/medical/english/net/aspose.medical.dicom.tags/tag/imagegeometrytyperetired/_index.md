@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200070 VRLO VM1 Image Geometry Type RETIRED.
 type: docs
 weight: 19200
-url: /aspose.medical.dicom.tags/tag/imagegeometrytyperetired/
+url: /net/aspose.medical.dicom.tags/tag/imagegeometrytyperetired/
 ---
 
 ## Tag.ImageGeometryTypeRETIRED field

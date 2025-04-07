@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0112 VRCS VM1 Reason for Omission.
 type: docs
 weight: 35130
-url: /aspose.medical.dicom.tags/tag/reasonforomission/
+url: /net/aspose.medical.dicom.tags/tag/reasonforomission/
 ---
 
 ## Tag.ReasonForOmission field

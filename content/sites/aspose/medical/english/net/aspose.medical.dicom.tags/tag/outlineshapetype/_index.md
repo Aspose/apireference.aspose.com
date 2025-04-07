@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181630 VRCS VM1 Outline Shape Type.
 type: docs
 weight: 28750
-url: /aspose.medical.dicom.tags/tag/outlineshapetype/
+url: /net/aspose.medical.dicom.tags/tag/outlineshapetype/
 ---
 
 ## Tag.OutlineShapeType field

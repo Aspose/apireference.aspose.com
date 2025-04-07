@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0294 VRLO VM1 Source Applicator Name.
 type: docs
 weight: 44000
-url: /aspose.medical.dicom.tags/tag/sourceapplicatorname/
+url: /net/aspose.medical.dicom.tags/tag/sourceapplicatorname/
 ---
 
 ## Tag.SourceApplicatorName field

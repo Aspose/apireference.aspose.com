@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016004F VRUT VM1 Lens Make.
 type: docs
 weight: 22620
-url: /aspose.medical.dicom.tags/tag/lensmake/
+url: /net/aspose.medical.dicom.tags/tag/lensmake/
 ---
 
 ## Tag.LensMake field

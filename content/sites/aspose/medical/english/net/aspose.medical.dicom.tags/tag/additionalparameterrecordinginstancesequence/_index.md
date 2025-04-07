@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0780 VRSQ VM1 Additional Parameter Recording Instance Sequence.
 type: docs
 weight: 850
-url: /aspose.medical.dicom.tags/tag/additionalparameterrecordinginstancesequence/
+url: /net/aspose.medical.dicom.tags/tag/additionalparameterrecordinginstancesequence/
 ---
 
 ## Tag.AdditionalParameterRecordingInstanceSequence field

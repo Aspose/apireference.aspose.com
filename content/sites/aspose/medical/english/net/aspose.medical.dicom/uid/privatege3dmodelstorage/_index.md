@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private GE 3D Model Storage.
 type: docs
 weight: 3220
-url: /aspose.medical.dicom/uid/privatege3dmodelstorage/
+url: /net/aspose.medical.dicom/uid/privatege3dmodelstorage/
 ---
 
 ## Uid.PrivateGe3DModelStorage field

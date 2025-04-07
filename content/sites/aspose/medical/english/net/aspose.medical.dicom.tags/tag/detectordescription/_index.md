@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187006 VRLT VM1 Detector Description.
 type: docs
 weight: 10980
-url: /aspose.medical.dicom.tags/tag/detectordescription/
+url: /net/aspose.medical.dicom.tags/tag/detectordescription/
 ---
 
 ## Tag.DetectorDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A171 VRUI VM1 Observation UID.
 type: docs
 weight: 27410
-url: /aspose.medical.dicom.tags/tag/observationuid/
+url: /net/aspose.medical.dicom.tags/tag/observationuid/
 ---
 
 ## Tag.ObservationUID field

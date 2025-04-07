@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0653 VRFD VM1 Radiation Beam Wedge Thin Edge Distance.
 type: docs
 weight: 34170
-url: /aspose.medical.dicom.tags/tag/radiationbeamwedgethinedgedistance/
+url: /net/aspose.medical.dicom.tags/tag/radiationbeamwedgethinedgedistance/
 ---
 
 ## Tag.RadiationBeamWedgeThinEdgeDistance field

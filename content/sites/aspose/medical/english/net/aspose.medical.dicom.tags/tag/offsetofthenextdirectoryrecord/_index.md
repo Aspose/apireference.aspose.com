@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041400 VRUL VM1 Offset of the Next Directory Record.
 type: docs
 weight: 27610
-url: /aspose.medical.dicom.tags/tag/offsetofthenextdirectoryrecord/
+url: /net/aspose.medical.dicom.tags/tag/offsetofthenextdirectoryrecord/
 ---
 
 ## Tag.OffsetOfTheNextDirectoryRecord field

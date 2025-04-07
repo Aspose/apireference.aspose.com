@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4008010C VRPN VM1 Interpretation Author RETIRED.
 type: docs
 weight: 20960
-url: /aspose.medical.dicom.tags/tag/interpretationauthorretired/
+url: /net/aspose.medical.dicom.tags/tag/interpretationauthorretired/
 ---
 
 ## Tag.InterpretationAuthorRETIRED field

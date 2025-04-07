@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: No Value Representation.
 type: docs
 weight: 140
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/none/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/none/
 ---
 
 ## ValueRepresentation.None field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289145 VRSQ VM1 Pixel Value Transformation Sequence.
 type: docs
 weight: 31620
-url: /aspose.medical.dicom.tags/tag/pixelvaluetransformationsequence/
+url: /net/aspose.medical.dicom.tags/tag/pixelvaluetransformationsequence/
 ---
 
 ## Tag.PixelValueTransformationSequence field

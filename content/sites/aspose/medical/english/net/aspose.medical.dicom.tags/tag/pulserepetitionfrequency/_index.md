@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186032 VRUL VM1 Pulse Repetition Frequency.
 type: docs
 weight: 33780
-url: /aspose.medical.dicom.tags/tag/pulserepetitionfrequency/
+url: /net/aspose.medical.dicom.tags/tag/pulserepetitionfrequency/
 ---
 
 ## Tag.PulseRepetitionFrequency field

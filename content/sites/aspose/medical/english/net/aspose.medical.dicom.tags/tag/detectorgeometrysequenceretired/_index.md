@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40100004 VRSQ VM1 Detector Geometry Sequence RETIRED.
 type: docs
 weight: 11030
-url: /aspose.medical.dicom.tags/tag/detectorgeometrysequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/detectorgeometrysequenceretired/
 ---
 
 ## Tag.DetectorGeometrySequenceRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A122 VRTM VM1 Time.
 type: docs
 weight: 48330
-url: /aspose.medical.dicom.tags/tag/time/
+url: /net/aspose.medical.dicom.tags/tag/time/
 ---
 
 ## Tag.Time field

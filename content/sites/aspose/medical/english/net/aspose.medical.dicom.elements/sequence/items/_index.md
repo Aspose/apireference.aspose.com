@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The dataset items constituting the sequence. Read-only IReadOnlyCollection of Datasetaspose.medical.dicom/dataset.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.elements/sequence/items/
+url: /net/aspose.medical.dicom.elements/sequence/items/
 ---
 
 ## Sequence.Items property

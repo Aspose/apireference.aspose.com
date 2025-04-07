@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Service Class Storage Service Class.
 type: docs
 weight: 4480
-url: /aspose.medical.dicom/uid/storageserviceclass/
+url: /net/aspose.medical.dicom/uid/storageserviceclass/
 ---
 
 ## Uid.StorageServiceClass field

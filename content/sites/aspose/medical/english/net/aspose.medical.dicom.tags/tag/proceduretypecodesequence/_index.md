@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00760020 VRSQ VM1 Procedure Type Code Sequence.
 type: docs
 weight: 33480
-url: /aspose.medical.dicom.tags/tag/proceduretypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/proceduretypecodesequence/
 ---
 
 ## Tag.ProcedureTypeCodeSequence field

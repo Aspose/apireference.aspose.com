@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189089 VRFD VM3 Diffusion Gradient Orientation.
 type: docs
 weight: 11720
-url: /aspose.medical.dicom.tags/tag/diffusiongradientorientation/
+url: /net/aspose.medical.dicom.tags/tag/diffusiongradientorientation/
 ---
 
 ## Tag.DiffusionGradientOrientation field

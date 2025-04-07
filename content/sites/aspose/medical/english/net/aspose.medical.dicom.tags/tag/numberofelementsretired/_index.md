@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144012 VRUS VM1 Number of Elements RETIRED.
 type: docs
 weight: 26270
-url: /aspose.medical.dicom.tags/tag/numberofelementsretired/
+url: /net/aspose.medical.dicom.tags/tag/numberofelementsretired/
 ---
 
 ## Tag.NumberOfElementsRETIRED field

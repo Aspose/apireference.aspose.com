@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00403001 VRLO VM1 Confidentiality Constraint on Patient Data Description.
 type: docs
 weight: 7470
-url: /aspose.medical.dicom.tags/tag/confidentialityconstraintonpatientdatadescription/
+url: /net/aspose.medical.dicom.tags/tag/confidentialityconstraintonpatientdatadescription/
 ---
 
 ## Tag.ConfidentialityConstraintOnPatientDataDescription field

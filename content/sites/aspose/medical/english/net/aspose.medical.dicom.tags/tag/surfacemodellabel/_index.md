@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686380 VRLO VM1 Surface Model Label.
 type: docs
 weight: 46370
-url: /aspose.medical.dicom.tags/tag/surfacemodellabel/
+url: /net/aspose.medical.dicom.tags/tag/surfacemodellabel/
 ---
 
 ## Tag.SurfaceModelLabel field

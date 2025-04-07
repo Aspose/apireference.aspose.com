@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811A0 VRDS VM1 Body Part Thickness.
 type: docs
 weight: 4240
-url: /aspose.medical.dicom.tags/tag/bodypartthickness/
+url: /net/aspose.medical.dicom.tags/tag/bodypartthickness/
 ---
 
 ## Tag.BodyPartThickness field

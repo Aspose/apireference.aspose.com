@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209161 VRUI VM1 Concatenation UID.
 type: docs
 weight: 7240
-url: /aspose.medical.dicom.tags/tag/concatenationuid/
+url: /net/aspose.medical.dicom.tags/tag/concatenationuid/
 ---
 
 ## Tag.ConcatenationUID field

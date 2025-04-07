@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100039 VRUS VM1 Device Index.
 type: docs
 weight: 11340
-url: /aspose.medical.dicom.tags/tag/deviceindex/
+url: /net/aspose.medical.dicom.tags/tag/deviceindex/
 ---
 
 ## Tag.DeviceIndex field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189834 VRFD VM1 Acoustic Coupling Medium Sound Speed.
 type: docs
 weight: 130
-url: /aspose.medical.dicom.tags/tag/acousticcouplingmediumsoundspeed/
+url: /net/aspose.medical.dicom.tags/tag/acousticcouplingmediumsoundspeed/
 ---
 
 ## Tag.AcousticCouplingMediumSoundSpeed field

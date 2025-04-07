@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The Implementation Version Name. Read-only String.
 type: docs
 weight: 30
-url: /aspose.medical.dicom/metainformation/implementationversionname/
+url: /net/aspose.medical.dicom/metainformation/implementationversionname/
 ---
 
 ## MetaInformation.ImplementationVersionName property

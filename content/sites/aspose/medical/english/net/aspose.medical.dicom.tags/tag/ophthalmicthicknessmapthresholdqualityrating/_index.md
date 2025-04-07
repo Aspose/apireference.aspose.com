@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221460 VRFL VM1 Ophthalmic Thickness Map Threshold Quality Rating.
 type: docs
 weight: 28200
-url: /aspose.medical.dicom.tags/tag/ophthalmicthicknessmapthresholdqualityrating/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicthicknessmapthresholdqualityrating/
 ---
 
 ## Tag.OphthalmicThicknessMapThresholdQualityRating field

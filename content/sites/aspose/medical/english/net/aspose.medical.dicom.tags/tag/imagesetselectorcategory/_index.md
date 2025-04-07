@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720034 VRCS VM1 Image Set Selector Category.
 type: docs
 weight: 19510
-url: /aspose.medical.dicom.tags/tag/imagesetselectorcategory/
+url: /net/aspose.medical.dicom.tags/tag/imagesetselectorcategory/
 ---
 
 ## Tag.ImageSetSelectorCategory field

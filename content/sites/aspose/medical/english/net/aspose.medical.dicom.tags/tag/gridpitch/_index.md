@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187044 VRDS VM1 Grid Pitch.
 type: docs
 weight: 18080
-url: /aspose.medical.dicom.tags/tag/gridpitch/
+url: /net/aspose.medical.dicom.tags/tag/gridpitch/
 ---
 
 ## Tag.GridPitch field

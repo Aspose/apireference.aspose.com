@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014220A VRIS VM1 Coordinate System Axis Number RETIRED.
 type: docs
 weight: 8670
-url: /aspose.medical.dicom.tags/tag/coordinatesystemaxisnumberretired/
+url: /net/aspose.medical.dicom.tags/tag/coordinatesystemaxisnumberretired/
 ---
 
 ## Tag.CoordinateSystemAxisNumberRETIRED field

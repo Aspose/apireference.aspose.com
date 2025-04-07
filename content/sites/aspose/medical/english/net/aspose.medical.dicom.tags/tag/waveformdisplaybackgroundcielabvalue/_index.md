@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0231 VRUS VM3 Waveform Display Background CIELab Value.
 type: docs
 weight: 51970
-url: /aspose.medical.dicom.tags/tag/waveformdisplaybackgroundcielabvalue/
+url: /net/aspose.medical.dicom.tags/tag/waveformdisplaybackgroundcielabvalue/
 ---
 
 ## Tag.WaveformDisplayBackgroundCIELabValue field

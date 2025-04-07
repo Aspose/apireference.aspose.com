@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189058 VRUS VM1 MR Acquisition Frequency Encoding Steps.
 type: docs
 weight: 25130
-url: /aspose.medical.dicom.tags/tag/mracquisitionfrequencyencodingsteps/
+url: /net/aspose.medical.dicom.tags/tag/mracquisitionfrequencyencodingsteps/
 ---
 
 ## Tag.MRAcquisitionFrequencyEncodingSteps field

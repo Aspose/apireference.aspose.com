@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400310 VRST VM1 Comments on Radiation Dose.
 type: docs
 weight: 6580
-url: /aspose.medical.dicom.tags/tag/commentsonradiationdose/
+url: /net/aspose.medical.dicom.tags/tag/commentsonradiationdose/
 ---
 
 ## Tag.CommentsOnRadiationDose field

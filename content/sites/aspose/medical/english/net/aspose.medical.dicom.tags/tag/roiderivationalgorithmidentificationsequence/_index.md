@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060037 VRSQ VM1 ROI Derivation Algorithm Identification Sequence.
 type: docs
 weight: 39400
-url: /aspose.medical.dicom.tags/tag/roiderivationalgorithmidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/roiderivationalgorithmidentificationsequence/
 ---
 
 ## Tag.ROIDerivationAlgorithmIdentificationSequence field

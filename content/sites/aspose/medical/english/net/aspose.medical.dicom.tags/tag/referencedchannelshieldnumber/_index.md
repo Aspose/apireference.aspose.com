@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080152 VRIS VM1 Referenced Channel Shield Number.
 type: docs
 weight: 36120
-url: /aspose.medical.dicom.tags/tag/referencedchannelshieldnumber/
+url: /net/aspose.medical.dicom.tags/tag/referencedchannelshieldnumber/
 ---
 
 ## Tag.ReferencedChannelShieldNumber field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20200110 VRSQ VM1 Basic Grayscale Image Sequence.
 type: docs
 weight: 3230
-url: /aspose.medical.dicom.tags/tag/basicgrayscaleimagesequence/
+url: /net/aspose.medical.dicom.tags/tag/basicgrayscaleimagesequence/
 ---
 
 ## Tag.BasicGrayscaleImageSequence field

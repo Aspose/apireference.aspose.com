@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189042 VRSQ VM1 MR Receive Coil Sequence.
 type: docs
 weight: 25270
-url: /aspose.medical.dicom.tags/tag/mrreceivecoilsequence/
+url: /net/aspose.medical.dicom.tags/tag/mrreceivecoilsequence/
 ---
 
 ## Tag.MRReceiveCoilSequence field

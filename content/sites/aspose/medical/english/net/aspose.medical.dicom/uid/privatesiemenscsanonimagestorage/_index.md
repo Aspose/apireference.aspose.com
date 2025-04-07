@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Siemens CSA Non Image Storage.
 type: docs
 weight: 3680
-url: /aspose.medical.dicom/uid/privatesiemenscsanonimagestorage/
+url: /net/aspose.medical.dicom/uid/privatesiemenscsanonimagestorage/
 ---
 
 ## Uid.PrivateSiemensCsaNonImageStorage field

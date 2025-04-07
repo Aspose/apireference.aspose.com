@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189199 VRCS VM1 Water Referenced Phase Correction.
 type: docs
 weight: 51880
-url: /aspose.medical.dicom.tags/tag/waterreferencedphasecorrection/
+url: /net/aspose.medical.dicom.tags/tag/waterreferencedphasecorrection/
 ---
 
 ## Tag.WaterReferencedPhaseCorrection field

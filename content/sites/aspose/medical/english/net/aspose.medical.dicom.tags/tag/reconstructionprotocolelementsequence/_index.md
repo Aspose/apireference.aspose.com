@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189934 VRSQ VM1 Reconstruction Protocol Element Sequence.
 type: docs
 weight: 35680
-url: /aspose.medical.dicom.tags/tag/reconstructionprotocolelementsequence/
+url: /net/aspose.medical.dicom.tags/tag/reconstructionprotocolelementsequence/
 ---
 
 ## Tag.ReconstructionProtocolElementSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0102 VRDS VM1 Block Transmission.
 type: docs
 weight: 4160
-url: /aspose.medical.dicom.tags/tag/blocktransmission/
+url: /net/aspose.medical.dicom.tags/tag/blocktransmission/
 ---
 
 ## Tag.BlockTransmission field

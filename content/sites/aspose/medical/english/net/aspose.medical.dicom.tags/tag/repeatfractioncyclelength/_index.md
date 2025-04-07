@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A007A VRIS VM1 Repeat Fraction Cycle Length.
 type: docs
 weight: 38450
-url: /aspose.medical.dicom.tags/tag/repeatfractioncyclelength/
+url: /net/aspose.medical.dicom.tags/tag/repeatfractioncyclelength/
 ---
 
 ## Tag.RepeatFractionCycleLength field

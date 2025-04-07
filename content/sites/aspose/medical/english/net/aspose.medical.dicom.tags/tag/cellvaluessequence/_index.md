@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A808 VRSQ VM1 Cell Values Sequence.
 type: docs
 weight: 5220
-url: /aspose.medical.dicom.tags/tag/cellvaluessequence/
+url: /net/aspose.medical.dicom.tags/tag/cellvaluessequence/
 ---
 
 ## Tag.CellValuesSequence field

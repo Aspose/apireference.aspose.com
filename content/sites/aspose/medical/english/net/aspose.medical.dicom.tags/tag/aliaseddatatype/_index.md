@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018980B VRCS VM1 Aliased Data Type.
 type: docs
 weight: 1230
-url: /aspose.medical.dicom.tags/tag/aliaseddatatype/
+url: /net/aspose.medical.dicom.tags/tag/aliaseddatatype/
 ---
 
 ## Tag.AliasedDataType field

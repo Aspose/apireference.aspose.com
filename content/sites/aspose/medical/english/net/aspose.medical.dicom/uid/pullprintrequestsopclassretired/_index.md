@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Pull Print Request SOP Class Retired.
 type: docs
 weight: 3820
-url: /aspose.medical.dicom/uid/pullprintrequestsopclassretired/
+url: /net/aspose.medical.dicom/uid/pullprintrequestsopclassretired/
 ---
 
 ## Uid.PullPrintRequestSOPClassRetired field

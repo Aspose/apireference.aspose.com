@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0051 VRUS VM1 Image Frame Origin.
 type: docs
 weight: 19190
-url: /aspose.medical.dicom.tags/tag/imageframeorigin/
+url: /net/aspose.medical.dicom.tags/tag/imageframeorigin/
 ---
 
 ## Tag.ImageFrameOrigin field

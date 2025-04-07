@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280105 VRUS or SS VM1 Largest Valid Pixel Value RETIRED.
 type: docs
 weight: 22330
-url: /aspose.medical.dicom.tags/tag/largestvalidpixelvalueretired/
+url: /net/aspose.medical.dicom.tags/tag/largestvalidpixelvalueretired/
 ---
 
 ## Tag.LargestValidPixelValueRETIRED field

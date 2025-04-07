@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287000 VRSQ VM1 Equipment Administrator Sequence.
 type: docs
 weight: 13850
-url: /aspose.medical.dicom.tags/tag/equipmentadministratorsequence/
+url: /net/aspose.medical.dicom.tags/tag/equipmentadministratorsequence/
 ---
 
 ## Tag.EquipmentAdministratorSequence field

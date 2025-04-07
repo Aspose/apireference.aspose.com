@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401101 VRSQ VM1 Person Identification Code Sequence.
 type: docs
 weight: 30910
-url: /aspose.medical.dicom.tags/tag/personidentificationcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/personidentificationcodesequence/
 ---
 
 ## Tag.PersonIdentificationCodeSequence field

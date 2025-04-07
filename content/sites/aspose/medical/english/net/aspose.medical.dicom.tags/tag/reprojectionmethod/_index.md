@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541004 VRCS VM1 Reprojection Method.
 type: docs
 weight: 38610
-url: /aspose.medical.dicom.tags/tag/reprojectionmethod/
+url: /net/aspose.medical.dicom.tags/tag/reprojectionmethod/
 ---
 
 ## Tag.ReprojectionMethod field

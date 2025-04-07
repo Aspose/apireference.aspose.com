@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660108 VRSQ VM1 Track Set Anatomical Type Code Sequence.
 type: docs
 weight: 49100
-url: /aspose.medical.dicom.tags/tag/tracksetanatomicaltypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/tracksetanatomicaltypecodesequence/
 ---
 
 ## Tag.TrackSetAnatomicalTypeCodeSequence field

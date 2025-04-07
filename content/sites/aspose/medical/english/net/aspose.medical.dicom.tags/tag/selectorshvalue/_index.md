@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072006C VRSH VM1-n Selector SH Value.
 type: docs
 weight: 42560
-url: /aspose.medical.dicom.tags/tag/selectorshvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorshvalue/
 ---
 
 ## Tag.SelectorSHValue field

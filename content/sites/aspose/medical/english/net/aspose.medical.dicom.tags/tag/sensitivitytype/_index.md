@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016001A VRUS VM1 Sensitivity Type.
 type: docs
 weight: 42770
-url: /aspose.medical.dicom.tags/tag/sensitivitytype/
+url: /net/aspose.medical.dicom.tags/tag/sensitivitytype/
 ---
 
 ## Tag.SensitivityType field

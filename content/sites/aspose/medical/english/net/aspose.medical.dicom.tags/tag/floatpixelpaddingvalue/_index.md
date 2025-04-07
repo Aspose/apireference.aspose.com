@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280122 VRFL VM1 Float Pixel Padding Value.
 type: docs
 weight: 15990
-url: /aspose.medical.dicom.tags/tag/floatpixelpaddingvalue/
+url: /net/aspose.medical.dicom.tags/tag/floatpixelpaddingvalue/
 ---
 
 ## Tag.FloatPixelPaddingValue field

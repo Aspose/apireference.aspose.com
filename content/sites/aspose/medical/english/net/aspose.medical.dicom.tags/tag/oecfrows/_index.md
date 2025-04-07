@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160006 VRIS VM1 OECF Rows.
 type: docs
 weight: 27530
-url: /aspose.medical.dicom.tags/tag/oecfrows/
+url: /net/aspose.medical.dicom.tags/tag/oecfrows/
 ---
 
 ## Tag.OECFRows field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082229 VRSQ VM1 Anatomic Structure Space or Region Sequence RETIRED.
 type: docs
 weight: 1610
-url: /aspose.medical.dicom.tags/tag/anatomicstructurespaceorregionsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/anatomicstructurespaceorregionsequenceretired/
 ---
 
 ## Tag.AnatomicStructureSpaceOrRegionSequenceRETIRED field

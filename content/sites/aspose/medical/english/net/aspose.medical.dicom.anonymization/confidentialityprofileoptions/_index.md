@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Confidentiality Profile options as described in DICOM PS 3.15 https//dicom.nema.org/medical/dicom/current/output/chtml/part15/chapter_E.htmltable_E.1-1.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.anonymization/confidentialityprofileoptions/
+url: /net/aspose.medical.dicom.anonymization/confidentialityprofileoptions/
 ---
 
 ## ConfidentialityProfileOptions enumeration

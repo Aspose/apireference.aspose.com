@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741212 VRSQ VM1 Performed Processing Parameters Sequence.
 type: docs
 weight: 30740
-url: /aspose.medical.dicom.tags/tag/performedprocessingparameterssequence/
+url: /net/aspose.medical.dicom.tags/tag/performedprocessingparameterssequence/
 ---
 
 ## Tag.PerformedProcessingParametersSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040030E VRSQ VM1 Exposure Dose Sequence RETIRED.
 type: docs
 weight: 14530
-url: /aspose.medical.dicom.tags/tag/exposuredosesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/exposuredosesequenceretired/
 ---
 
 ## Tag.ExposureDoseSequenceRETIRED field

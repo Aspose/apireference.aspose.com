@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181007 VRLO VM1 Cassette ID.
 type: docs
 weight: 5160
-url: /aspose.medical.dicom.tags/tag/cassetteid/
+url: /net/aspose.medical.dicom.tags/tag/cassetteid/
 ---
 
 ## Tag.CassetteID field

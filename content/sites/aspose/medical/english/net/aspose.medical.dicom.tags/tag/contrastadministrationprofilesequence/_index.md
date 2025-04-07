@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189340 VRSQ VM1 Contrast Administration Profile Sequence.
 type: docs
 weight: 8180
-url: /aspose.medical.dicom.tags/tag/contrastadministrationprofilesequence/
+url: /net/aspose.medical.dicom.tags/tag/contrastadministrationprofilesequence/
 ---
 
 ## Tag.ContrastAdministrationProfileSequence field

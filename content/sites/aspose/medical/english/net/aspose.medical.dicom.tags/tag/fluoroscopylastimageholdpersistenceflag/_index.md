@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811B4 VRCS VM1 Fluoroscopy Last Image Hold Persistence Flag.
 type: docs
 weight: 16120
-url: /aspose.medical.dicom.tags/tag/fluoroscopylastimageholdpersistenceflag/
+url: /net/aspose.medical.dicom.tags/tag/fluoroscopylastimageholdpersistenceflag/
 ---
 
 ## Tag.FluoroscopyLastImageHoldPersistenceFlag field

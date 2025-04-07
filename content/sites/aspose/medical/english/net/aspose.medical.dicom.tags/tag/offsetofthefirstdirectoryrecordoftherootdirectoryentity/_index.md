@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041200 VRUL VM1 Offset of the First Directory Record of the Root Directory Entity.
 type: docs
 weight: 27590
-url: /aspose.medical.dicom.tags/tag/offsetofthefirstdirectoryrecordoftherootdirectoryentity/
+url: /net/aspose.medical.dicom.tags/tag/offsetofthefirstdirectoryrecordoftherootdirectoryentity/
 ---
 
 ## Tag.OffsetOfTheFirstDirectoryRecordOfTheRootDirectoryEntity field

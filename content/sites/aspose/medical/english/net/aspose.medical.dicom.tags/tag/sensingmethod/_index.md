@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160039 VRUS VM1 Sensing Method.
 type: docs
 weight: 42740
-url: /aspose.medical.dicom.tags/tag/sensingmethod/
+url: /net/aspose.medical.dicom.tags/tag/sensingmethod/
 ---
 
 ## Tag.SensingMethod field

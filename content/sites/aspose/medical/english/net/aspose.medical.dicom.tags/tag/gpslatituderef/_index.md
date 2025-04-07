@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160071 VRCS VM1 GPS Latitude Ref.
 type: docs
 weight: 17590
-url: /aspose.medical.dicom.tags/tag/gpslatituderef/
+url: /net/aspose.medical.dicom.tags/tag/gpslatituderef/
 ---
 
 ## Tag.GPSLatitudeRef field

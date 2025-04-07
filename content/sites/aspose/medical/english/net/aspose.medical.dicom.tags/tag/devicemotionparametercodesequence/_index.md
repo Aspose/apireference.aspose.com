@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0453 VRSQ VM1 Device Motion Parameter Code Sequence.
 type: docs
 weight: 11400
-url: /aspose.medical.dicom.tags/tag/devicemotionparametercodesequence/
+url: /net/aspose.medical.dicom.tags/tag/devicemotionparametercodesequence/
 ---
 
 ## Tag.DeviceMotionParameterCodeSequence field

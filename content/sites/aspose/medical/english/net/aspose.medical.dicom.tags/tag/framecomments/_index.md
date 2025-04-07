@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209158 VRLT VM1 Frame Comments.
 type: docs
 weight: 16490
-url: /aspose.medical.dicom.tags/tag/framecomments/
+url: /net/aspose.medical.dicom.tags/tag/framecomments/
 ---
 
 ## Tag.FrameComments field

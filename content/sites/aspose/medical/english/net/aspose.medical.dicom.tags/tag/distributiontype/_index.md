@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120084 VRCS VM1 Distribution Type.
 type: docs
 weight: 12480
-url: /aspose.medical.dicom.tags/tag/distributiontype/
+url: /net/aspose.medical.dicom.tags/tag/distributiontype/
 ---
 
 ## Tag.DistributionType field

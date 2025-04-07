@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189062 VRCS VM1 De-coupling Method.
 type: docs
 weight: 10350
-url: /aspose.medical.dicom.tags/tag/decouplingmethod/
+url: /net/aspose.medical.dicom.tags/tag/decouplingmethod/
 ---
 
 ## Tag.DecouplingMethod field

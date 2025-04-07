@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189420 VRCS VM1 X-Ray Receptor Type.
 type: docs
 weight: 52830
-url: /aspose.medical.dicom.tags/tag/xrayreceptortype/
+url: /net/aspose.medical.dicom.tags/tag/xrayreceptortype/
 ---
 
 ## Tag.XRayReceptorType field

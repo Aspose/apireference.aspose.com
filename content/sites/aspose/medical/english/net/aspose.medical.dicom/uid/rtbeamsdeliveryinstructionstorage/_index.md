@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class RT Beams Delivery Instruction Storage.
 type: docs
 weight: 4010
-url: /aspose.medical.dicom/uid/rtbeamsdeliveryinstructionstorage/
+url: /net/aspose.medical.dicom/uid/rtbeamsdeliveryinstructionstorage/
 ---
 
 ## Uid.RTBeamsDeliveryInstructionStorage field

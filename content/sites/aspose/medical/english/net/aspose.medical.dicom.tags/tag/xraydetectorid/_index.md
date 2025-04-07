@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189371 VRUC VM1 X-Ray Detector ID.
 type: docs
 weight: 52720
-url: /aspose.medical.dicom.tags/tag/xraydetectorid/
+url: /net/aspose.medical.dicom.tags/tag/xraydetectorid/
 ---
 
 ## Tag.XRayDetectorID field

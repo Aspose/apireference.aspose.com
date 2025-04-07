@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx1201 VRUS VM1-n Overlays - Red RETIRED.
 type: docs
 weight: 29220
-url: /aspose.medical.dicom.tags/tag/overlaysredretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaysredretired/
 ---
 
 ## Tag.OverlaysRedRETIRED field

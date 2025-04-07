@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The planar Configuration 00280006 indicates whether the color pixel data are sent color-by-plane or color-by-pixel. Read/Write PixelRepresentationaspose.medical.dicom.imaging/pixelrepresentation.
 type: docs
 weight: 170
-url: /aspose.medical.dicom.imaging/pixeldata/planarconfiguration/
+url: /net/aspose.medical.dicom.imaging/pixeldata/planarconfiguration/
 ---
 
 ## PixelData.PlanarConfiguration property

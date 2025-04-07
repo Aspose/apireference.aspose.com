@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A038F VRFL VM1-n Scan Spot Time Offset.
 type: docs
 weight: 41160
-url: /aspose.medical.dicom.tags/tag/scanspottimeoffset/
+url: /net/aspose.medical.dicom.tags/tag/scanspottimeoffset/
 ---
 
 ## Tag.ScanSpotTimeOffset field

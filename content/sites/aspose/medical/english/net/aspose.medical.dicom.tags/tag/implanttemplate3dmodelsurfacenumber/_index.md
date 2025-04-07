@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686350 VRUS VM1-n Implant Template 3D Model Surface Number.
 type: docs
 weight: 19900
-url: /aspose.medical.dicom.tags/tag/implanttemplate3dmodelsurfacenumber/
+url: /net/aspose.medical.dicom.tags/tag/implanttemplate3dmodelsurfacenumber/
 ---
 
 ## Tag.ImplantTemplate3DModelSurfaceNumber field

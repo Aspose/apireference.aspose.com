@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002012D VRFD VM1 Imaging Source to Beam Modifier Definition Plane Distance.
 type: docs
 weight: 19740
-url: /aspose.medical.dicom.tags/tag/imagingsourcetobeammodifierdefinitionplanedistance/
+url: /net/aspose.medical.dicom.tags/tag/imagingsourcetobeammodifierdefinitionplanedistance/
 ---
 
 ## Tag.ImagingSourceToBeamModifierDefinitionPlaneDistance field

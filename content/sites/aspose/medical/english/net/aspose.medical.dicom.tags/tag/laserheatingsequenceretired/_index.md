@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146038 VRSQ VM1 Laser Heating Sequence RETIRED.
 type: docs
 weight: 22340
-url: /aspose.medical.dicom.tags/tag/laserheatingsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/laserheatingsequenceretired/
 ---
 
 ## Tag.LaserHeatingSequenceRETIRED field

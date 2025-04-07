@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0450 VRSQ VM1 Device Motion Control Sequence.
 type: docs
 weight: 11370
-url: /aspose.medical.dicom.tags/tag/devicemotioncontrolsequence/
+url: /net/aspose.medical.dicom.tags/tag/devicemotioncontrolsequence/
 ---
 
 ## Tag.DeviceMotionControlSequence field

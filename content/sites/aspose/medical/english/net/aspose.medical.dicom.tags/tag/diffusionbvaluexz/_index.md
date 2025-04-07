@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189604 VRFD VM1 Diffusion b-value XZ.
 type: docs
 weight: 11660
-url: /aspose.medical.dicom.tags/tag/diffusionbvaluexz/
+url: /net/aspose.medical.dicom.tags/tag/diffusionbvaluexz/
 ---
 
 ## Tag.DiffusionBValueXZ field

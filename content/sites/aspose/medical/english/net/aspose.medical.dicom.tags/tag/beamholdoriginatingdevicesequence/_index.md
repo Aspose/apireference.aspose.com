@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0128 VRSQ VM1 Beam Hold Originating Device Sequence.
 type: docs
 weight: 3420
-url: /aspose.medical.dicom.tags/tag/beamholdoriginatingdevicesequence/
+url: /net/aspose.medical.dicom.tags/tag/beamholdoriginatingdevicesequence/
 ---
 
 ## Tag.BeamHoldOriginatingDeviceSequence field

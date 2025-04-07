@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010001D VRLT VM1 Device Alternate Identifier Format.
 type: docs
 weight: 11280
-url: /aspose.medical.dicom.tags/tag/devicealternateidentifierformat/
+url: /net/aspose.medical.dicom.tags/tag/devicealternateidentifierformat/
 ---
 
 ## Tag.DeviceAlternateIdentifierFormat field

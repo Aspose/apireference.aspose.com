@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006865F0 VRFD VM4 2D Plane Intersection.
 type: docs
 weight: 50240
-url: /aspose.medical.dicom.tags/tag/twodplaneintersection/
+url: /net/aspose.medical.dicom.tags/tag/twodplaneintersection/
 ---
 
 ## Tag.TwoDPlaneIntersection field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060045 VRDS VM3 Contour Offset Vector RETIRED.
 type: docs
 weight: 8120
-url: /aspose.medical.dicom.tags/tag/contouroffsetvectorretired/
+url: /net/aspose.medical.dicom.tags/tag/contouroffsetvectorretired/
 ---
 
 ## Tag.ContourOffsetVectorRETIRED field

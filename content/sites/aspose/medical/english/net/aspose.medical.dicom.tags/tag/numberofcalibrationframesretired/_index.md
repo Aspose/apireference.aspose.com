@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146004 VRDS VM1 Number of Calibration Frames RETIRED.
 type: docs
 weight: 26170
-url: /aspose.medical.dicom.tags/tag/numberofcalibrationframesretired/
+url: /net/aspose.medical.dicom.tags/tag/numberofcalibrationframesretired/
 ---
 
 ## Tag.NumberOfCalibrationFramesRETIRED field

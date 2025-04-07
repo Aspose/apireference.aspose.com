@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A011C VRDS VM2-2n Leaf/Jaw Positions.
 type: docs
 weight: 22510
-url: /aspose.medical.dicom.tags/tag/leafjawpositions/
+url: /net/aspose.medical.dicom.tags/tag/leafjawpositions/
 ---
 
 ## Tag.LeafJawPositions field

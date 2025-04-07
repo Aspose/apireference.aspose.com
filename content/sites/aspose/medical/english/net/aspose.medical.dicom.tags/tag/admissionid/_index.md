@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380010 VRLO VM1 Admission ID.
 type: docs
 weight: 950
-url: /aspose.medical.dicom.tags/tag/admissionid/
+url: /net/aspose.medical.dicom.tags/tag/admissionid/
 ---
 
 ## Tag.AdmissionID field

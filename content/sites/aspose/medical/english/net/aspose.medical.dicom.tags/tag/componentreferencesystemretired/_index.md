@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140024 VRST VM1 Component Reference System RETIRED.
 type: docs
 weight: 7010
-url: /aspose.medical.dicom.tags/tag/componentreferencesystemretired/
+url: /net/aspose.medical.dicom.tags/tag/componentreferencesystemretired/
 ---
 
 ## Tag.ComponentReferenceSystemRETIRED field

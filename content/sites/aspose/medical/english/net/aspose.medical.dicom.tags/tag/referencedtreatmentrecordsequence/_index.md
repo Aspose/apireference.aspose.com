@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080030 VRSQ VM1 Referenced Treatment Record Sequence.
 type: docs
 weight: 37650
-url: /aspose.medical.dicom.tags/tag/referencedtreatmentrecordsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedtreatmentrecordsequence/
 ---
 
 ## Tag.ReferencedTreatmentRecordSequence field

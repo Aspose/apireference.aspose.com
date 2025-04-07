@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00D5 VRIS VM1 Wedge Angle.
 type: docs
 weight: 52070
-url: /aspose.medical.dicom.tags/tag/wedgeangle/
+url: /net/aspose.medical.dicom.tags/tag/wedgeangle/
 ---
 
 ## Tag.WedgeAngle field

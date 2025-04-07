@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Other Very Long OV.
 type: docs
 weight: 190
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/otherverylong/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/otherverylong/
 ---
 
 ## ValueRepresentation.OtherVeryLong field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00182003 VRDS VM1-n Frame Primary Angle Vector.
 type: docs
 weight: 16740
-url: /aspose.medical.dicom.tags/tag/frameprimaryanglevector/
+url: /net/aspose.medical.dicom.tags/tag/frameprimaryanglevector/
 ---
 
 ## Tag.FramePrimaryAngleVector field

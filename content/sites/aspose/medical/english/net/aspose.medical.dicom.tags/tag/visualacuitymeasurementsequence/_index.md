@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240110 VRSQ VM1 Visual Acuity Measurement Sequence.
 type: docs
 weight: 51330
-url: /aspose.medical.dicom.tags/tag/visualacuitymeasurementsequence/
+url: /net/aspose.medical.dicom.tags/tag/visualacuitymeasurementsequence/
 ---
 
 ## Tag.VisualAcuityMeasurementSequence field

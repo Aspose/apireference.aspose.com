@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181072 VRTM VM1 Radiopharmaceutical Start Time.
 type: docs
 weight: 34660
-url: /aspose.medical.dicom.tags/tag/radiopharmaceuticalstarttime/
+url: /net/aspose.medical.dicom.tags/tag/radiopharmaceuticalstarttime/
 ---
 
 ## Tag.RadiopharmaceuticalStartTime field

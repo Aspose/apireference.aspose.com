@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A008B VRCS VM1 Beam Dose Meaning.
 type: docs
 weight: 3330
-url: /aspose.medical.dicom.tags/tag/beamdosemeaning/
+url: /net/aspose.medical.dicom.tags/tag/beamdosemeaning/
 ---
 
 ## Tag.BeamDoseMeaning field

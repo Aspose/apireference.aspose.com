@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100020 VRLO VM1 Patient ID.
 type: docs
 weight: 29860
-url: /aspose.medical.dicom.tags/tag/patientid/
+url: /net/aspose.medical.dicom.tags/tag/patientid/
 ---
 
 ## Tag.PatientID field

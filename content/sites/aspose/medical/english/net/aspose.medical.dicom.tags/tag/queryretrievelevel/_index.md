@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080052 VRCS VM1 Query/Retrieve Level.
 type: docs
 weight: 34070
-url: /aspose.medical.dicom.tags/tag/queryretrievelevel/
+url: /net/aspose.medical.dicom.tags/tag/queryretrievelevel/
 ---
 
 ## Tag.QueryRetrieveLevel field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209171 VRSQ VM1 Unassigned Per-Frame Converted Attributes Sequence.
 type: docs
 weight: 50400
-url: /aspose.medical.dicom.tags/tag/unassignedperframeconvertedattributessequence/
+url: /net/aspose.medical.dicom.tags/tag/unassignedperframeconvertedattributessequence/
 ---
 
 ## Tag.UnassignedPerFrameConvertedAttributesSequence field

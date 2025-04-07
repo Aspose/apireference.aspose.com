@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720320 VRUS VM1 Image Box Overlap Priority.
 type: docs
 weight: 18950
-url: /aspose.medical.dicom.tags/tag/imageboxoverlappriority/
+url: /net/aspose.medical.dicom.tags/tag/imageboxoverlappriority/
 ---
 
 ## Tag.ImageBoxOverlapPriority field

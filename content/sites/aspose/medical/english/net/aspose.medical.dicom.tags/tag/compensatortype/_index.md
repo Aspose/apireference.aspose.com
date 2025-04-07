@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00EE VRCS VM1 Compensator Type.
 type: docs
 weight: 6860
-url: /aspose.medical.dicom.tags/tag/compensatortype/
+url: /net/aspose.medical.dicom.tags/tag/compensatortype/
 ---
 
 ## Tag.CompensatorType field

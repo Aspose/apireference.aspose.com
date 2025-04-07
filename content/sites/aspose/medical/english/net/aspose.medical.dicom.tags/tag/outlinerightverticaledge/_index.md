@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181632 VRFD VM1 Outline Right Vertical Edge.
 type: docs
 weight: 28740
-url: /aspose.medical.dicom.tags/tag/outlinerightverticaledge/
+url: /net/aspose.medical.dicom.tags/tag/outlinerightverticaledge/
 ---
 
 ## Tag.OutlineRightVerticalEdge field

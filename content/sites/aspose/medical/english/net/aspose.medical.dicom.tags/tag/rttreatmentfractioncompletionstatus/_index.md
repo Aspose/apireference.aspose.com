@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0706 VRCS VM1 RT Treatment Fraction Completion Status.
 type: docs
 weight: 40650
-url: /aspose.medical.dicom.tags/tag/rttreatmentfractioncompletionstatus/
+url: /net/aspose.medical.dicom.tags/tag/rttreatmentfractioncompletionstatus/
 ---
 
 ## Tag.RTTreatmentFractionCompletionStatus field

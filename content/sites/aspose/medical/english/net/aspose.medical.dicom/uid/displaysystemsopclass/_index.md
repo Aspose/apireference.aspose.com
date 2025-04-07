@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Display System SOP Class.
 type: docs
 weight: 1270
-url: /aspose.medical.dicom/uid/displaysystemsopclass/
+url: /net/aspose.medical.dicom/uid/displaysystemsopclass/
 ---
 
 ## Uid.DisplaySystemSOPClass field

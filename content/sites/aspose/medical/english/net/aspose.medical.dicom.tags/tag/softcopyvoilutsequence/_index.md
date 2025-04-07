@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00283110 VRSQ VM1 Softcopy VOI LUT Sequence.
 type: docs
 weight: 43760
-url: /aspose.medical.dicom.tags/tag/softcopyvoilutsequence/
+url: /net/aspose.medical.dicom.tags/tag/softcopyvoilutsequence/
 ---
 
 ## Tag.SoftcopyVOILUTSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209157 VRUL VM1-n Dimension Index Values.
 type: docs
 weight: 11880
-url: /aspose.medical.dicom.tags/tag/dimensionindexvalues/
+url: /net/aspose.medical.dicom.tags/tag/dimensionindexvalues/
 ---
 
 ## Tag.DimensionIndexValues field

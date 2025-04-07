@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820037 VRUT VM1 Constraint Violation Condition.
 type: docs
 weight: 7640
-url: /aspose.medical.dicom.tags/tag/constraintviolationcondition/
+url: /net/aspose.medical.dicom.tags/tag/constraintviolationcondition/
 ---
 
 ## Tag.ConstraintViolationCondition field

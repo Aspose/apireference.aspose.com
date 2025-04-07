@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209311 VRCS VM1 Dimension Organization Type.
 type: docs
 weight: 11900
-url: /aspose.medical.dicom.tags/tag/dimensionorganizationtype/
+url: /net/aspose.medical.dicom.tags/tag/dimensionorganizationtype/
 ---
 
 ## Tag.DimensionOrganizationType field

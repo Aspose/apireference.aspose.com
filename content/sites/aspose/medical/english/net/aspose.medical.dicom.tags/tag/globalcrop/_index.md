@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0070120B VRCS VM1 Global Crop.
 type: docs
 weight: 17360
-url: /aspose.medical.dicom.tags/tag/globalcrop/
+url: /net/aspose.medical.dicom.tags/tag/globalcrop/
 ---
 
 ## Tag.GlobalCrop field

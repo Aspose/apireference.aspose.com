@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189320 VRSH VM1 Image Filter.
 type: docs
 weight: 19150
-url: /aspose.medical.dicom.tags/tag/imagefilter/
+url: /net/aspose.medical.dicom.tags/tag/imagefilter/
 ---
 
 ## Tag.ImageFilter field

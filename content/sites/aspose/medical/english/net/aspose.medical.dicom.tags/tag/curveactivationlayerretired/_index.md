@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx1001 VRCS VM1 Curve Activation Layer RETIRED.
 type: docs
 weight: 9460
-url: /aspose.medical.dicom.tags/tag/curveactivationlayerretired/
+url: /net/aspose.medical.dicom.tags/tag/curveactivationlayerretired/
 ---
 
 ## Tag.CurveActivationLayerRETIRED field

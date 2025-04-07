@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700294 VRCS VM1 Compound Graphic Type.
 type: docs
 weight: 7110
-url: /aspose.medical.dicom.tags/tag/compoundgraphictype/
+url: /net/aspose.medical.dicom.tags/tag/compoundgraphictype/
 ---
 
 ## Tag.CompoundGraphicType field

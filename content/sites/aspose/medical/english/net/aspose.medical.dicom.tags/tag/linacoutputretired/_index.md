@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145004 VRIS VM1 LINAC Output RETIRED.
 type: docs
 weight: 22800
-url: /aspose.medical.dicom.tags/tag/linacoutputretired/
+url: /net/aspose.medical.dicom.tags/tag/linacoutputretired/
 ---
 
 ## Tag.LINACOutputRETIRED field

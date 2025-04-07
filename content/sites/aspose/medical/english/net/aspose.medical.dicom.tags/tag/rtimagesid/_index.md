@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020026 VRDS VM1 RT Image SID.
 type: docs
 weight: 40230
-url: /aspose.medical.dicom.tags/tag/rtimagesid/
+url: /net/aspose.medical.dicom.tags/tag/rtimagesid/
 ---
 
 ## Tag.RTImageSID field

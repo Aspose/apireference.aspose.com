@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018925E VRLO VM1 ASL Bolus Cut-off Technique.
 type: docs
 weight: 2370
-url: /aspose.medical.dicom.tags/tag/aslboluscutofftechnique/
+url: /net/aspose.medical.dicom.tags/tag/aslboluscutofftechnique/
 ---
 
 ## Tag.ASLBolusCutoffTechnique field

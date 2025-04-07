@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080300 VRST VM1 Impressions RETIRED.
 type: docs
 weight: 20080
-url: /aspose.medical.dicom.tags/tag/impressionsretired/
+url: /net/aspose.medical.dicom.tags/tag/impressionsretired/
 ---
 
 ## Tag.ImpressionsRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221094 VRLO VM1 Lens Constant Description RETIRED.
 type: docs
 weight: 22560
-url: /aspose.medical.dicom.tags/tag/lensconstantdescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/lensconstantdescriptionretired/
 ---
 
 ## Tag.LensConstantDescriptionRETIRED field

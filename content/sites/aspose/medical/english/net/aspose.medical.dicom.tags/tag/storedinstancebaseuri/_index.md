@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080407 VRUR VM1 Stored Instance Base URI.
 type: docs
 weight: 45690
-url: /aspose.medical.dicom.tags/tag/storedinstancebaseuri/
+url: /net/aspose.medical.dicom.tags/tag/storedinstancebaseuri/
 ---
 
 ## Tag.StoredInstanceBaseURI field

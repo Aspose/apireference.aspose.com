@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040058 VRDS VM2-2n DVH Data.
 type: docs
 weight: 13060
-url: /aspose.medical.dicom.tags/tag/dvhdata/
+url: /net/aspose.medical.dicom.tags/tag/dvhdata/
 ---
 
 ## Tag.DVHData field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00182030 VRDS VM1 Rotation of Scanned Film.
 type: docs
 weight: 39660
-url: /aspose.medical.dicom.tags/tag/rotationofscannedfilm/
+url: /net/aspose.medical.dicom.tags/tag/rotationofscannedfilm/
 ---
 
 ## Tag.RotationOfScannedFilm field

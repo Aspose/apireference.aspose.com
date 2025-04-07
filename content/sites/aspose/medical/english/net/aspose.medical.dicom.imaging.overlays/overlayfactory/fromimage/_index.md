@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Creates a DICOM overlay from an image and adds it to the given dataset.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.imaging.overlays/overlayfactory/fromimage/
+url: /net/aspose.medical.dicom.imaging.overlays/overlayfactory/fromimage/
 ---
 
 ## FromImage(Dataset, RawImage, Bgra32) {#fromimage}

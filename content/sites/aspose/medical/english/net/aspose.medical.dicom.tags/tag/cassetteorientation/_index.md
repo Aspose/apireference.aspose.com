@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181402 VRCS VM1 Cassette Orientation.
 type: docs
 weight: 5170
-url: /aspose.medical.dicom.tags/tag/cassetteorientation/
+url: /net/aspose.medical.dicom.tags/tag/cassetteorientation/
 ---
 
 ## Tag.CassetteOrientation field

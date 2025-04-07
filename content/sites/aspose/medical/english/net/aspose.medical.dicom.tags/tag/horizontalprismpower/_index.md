@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460030 VRFD VM1 Horizontal Prism Power.
 type: docs
 weight: 18540
-url: /aspose.medical.dicom.tags/tag/horizontalprismpower/
+url: /net/aspose.medical.dicom.tags/tag/horizontalprismpower/
 ---
 
 ## Tag.HorizontalPrismPower field

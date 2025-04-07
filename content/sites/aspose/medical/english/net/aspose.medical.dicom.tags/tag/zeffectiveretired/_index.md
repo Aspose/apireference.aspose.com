@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101019 VRFL VM1 Z Effective RETIRED.
 type: docs
 weight: 52940
-url: /aspose.medical.dicom.tags/tag/zeffectiveretired/
+url: /net/aspose.medical.dicom.tags/tag/zeffectiveretired/
 ---
 
 ## Tag.ZEffectiveRETIRED field

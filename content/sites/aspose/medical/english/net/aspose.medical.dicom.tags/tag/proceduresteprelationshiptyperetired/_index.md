@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741222 VRLO VM1 Procedure Step Relationship Type RETIRED.
 type: docs
 weight: 33460
-url: /aspose.medical.dicom.tags/tag/proceduresteprelationshiptyperetired/
+url: /net/aspose.medical.dicom.tags/tag/proceduresteprelationshiptyperetired/
 ---
 
 ## Tag.ProcedureStepRelationshipTypeRETIRED field

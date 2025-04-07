@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400556 VRST VM1 Acquisition Context Description.
 type: docs
 weight: 200
-url: /aspose.medical.dicom.tags/tag/acquisitioncontextdescription/
+url: /net/aspose.medical.dicom.tags/tag/acquisitioncontextdescription/
 ---
 
 ## Tag.AcquisitionContextDescription field

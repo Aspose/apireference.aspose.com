@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0318 VRSH VM1 Range Shifter ID.
 type: docs
 weight: 34920
-url: /aspose.medical.dicom.tags/tag/rangeshifterid/
+url: /net/aspose.medical.dicom.tags/tag/rangeshifterid/
 ---
 
 ## Tag.RangeShifterID field

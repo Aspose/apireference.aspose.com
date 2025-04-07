@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240035 VRUS VM1 Fixation Checked Quantity.
 type: docs
 weight: 15630
-url: /aspose.medical.dicom.tags/tag/fixationcheckedquantity/
+url: /net/aspose.medical.dicom.tags/tag/fixationcheckedquantity/
 ---
 
 ## Tag.FixationCheckedQuantity field

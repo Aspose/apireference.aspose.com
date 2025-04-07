@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181004 VRLO VM1 Plate ID.
 type: docs
 weight: 31880
-url: /aspose.medical.dicom.tags/tag/plateid/
+url: /net/aspose.medical.dicom.tags/tag/plateid/
 ---
 
 ## Tag.PlateID field

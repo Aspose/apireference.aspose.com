@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00320035 VRTM VM1 Study Read Time RETIRED.
 type: docs
 weight: 46070
-url: /aspose.medical.dicom.tags/tag/studyreadtimeretired/
+url: /net/aspose.medical.dicom.tags/tag/studyreadtimeretired/
 ---
 
 ## Tag.StudyReadTimeRETIRED field

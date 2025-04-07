@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281351 VRST VM1 Partial View Description.
 type: docs
 weight: 29630
-url: /aspose.medical.dicom.tags/tag/partialviewdescription/
+url: /net/aspose.medical.dicom.tags/tag/partialviewdescription/
 ---
 
 ## Tag.PartialViewDescription field

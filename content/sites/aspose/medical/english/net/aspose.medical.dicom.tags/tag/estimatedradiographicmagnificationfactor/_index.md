@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181114 VRDS VM1 Estimated Radiographic Magnification Factor.
 type: docs
 weight: 14020
-url: /aspose.medical.dicom.tags/tag/estimatedradiographicmagnificationfactor/
+url: /net/aspose.medical.dicom.tags/tag/estimatedradiographicmagnificationfactor/
 ---
 
 ## Tag.EstimatedRadiographicMagnificationFactor field

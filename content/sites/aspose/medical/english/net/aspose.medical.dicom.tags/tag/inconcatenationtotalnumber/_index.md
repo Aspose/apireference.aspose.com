@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209163 VRUS VM1 In-concatenation Total Number.
 type: docs
 weight: 20160
-url: /aspose.medical.dicom.tags/tag/inconcatenationtotalnumber/
+url: /net/aspose.medical.dicom.tags/tag/inconcatenationtotalnumber/
 ---
 
 ## Tag.InConcatenationTotalNumber field

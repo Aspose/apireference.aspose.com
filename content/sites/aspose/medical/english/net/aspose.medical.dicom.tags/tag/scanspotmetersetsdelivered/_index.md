@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080047 VRFL VM1-n Scan Spot Metersets Delivered.
 type: docs
 weight: 41090
-url: /aspose.medical.dicom.tags/tag/scanspotmetersetsdelivered/
+url: /net/aspose.medical.dicom.tags/tag/scanspotmetersetsdelivered/
 ---
 
 ## Tag.ScanSpotMetersetsDelivered field

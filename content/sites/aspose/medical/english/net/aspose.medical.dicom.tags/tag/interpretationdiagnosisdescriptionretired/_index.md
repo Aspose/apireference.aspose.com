@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080115 VRLT VM1 Interpretation Diagnosis Description RETIRED.
 type: docs
 weight: 20980
-url: /aspose.medical.dicom.tags/tag/interpretationdiagnosisdescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/interpretationdiagnosisdescriptionretired/
 ---
 
 ## Tag.InterpretationDiagnosisDescriptionRETIRED field

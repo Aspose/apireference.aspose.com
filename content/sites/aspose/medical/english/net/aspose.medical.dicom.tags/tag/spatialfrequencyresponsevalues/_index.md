@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016000D VRDS VM1-n Spatial Frequency Response Values.
 type: docs
 weight: 44750
-url: /aspose.medical.dicom.tags/tag/spatialfrequencyresponsevalues/
+url: /net/aspose.medical.dicom.tags/tag/spatialfrequencyresponsevalues/
 ---
 
 ## Tag.SpatialFrequencyResponseValues field

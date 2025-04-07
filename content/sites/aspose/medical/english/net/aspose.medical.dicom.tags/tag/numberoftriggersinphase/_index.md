@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540211 VRUS VM1 Number of Triggers in Phase.
 type: docs
 weight: 27050
-url: /aspose.medical.dicom.tags/tag/numberoftriggersinphase/
+url: /net/aspose.medical.dicom.tags/tag/numberoftriggersinphase/
 ---
 
 ## Tag.NumberOfTriggersInPhase field

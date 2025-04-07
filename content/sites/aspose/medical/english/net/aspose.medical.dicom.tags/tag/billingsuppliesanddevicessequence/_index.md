@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400324 VRSQ VM1 Billing Supplies and Devices Sequence.
 type: docs
 weight: 3720
-url: /aspose.medical.dicom.tags/tag/billingsuppliesanddevicessequence/
+url: /net/aspose.medical.dicom.tags/tag/billingsuppliesanddevicessequence/
 ---
 
 ## Tag.BillingSuppliesAndDevicesSequence field

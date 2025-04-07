@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221518 VRSQ VM1 Two Dimensional to Three Dimensional Map Sequence.
 type: docs
 weight: 50150
-url: /aspose.medical.dicom.tags/tag/twodimensionaltothreedimensionalmapsequence/
+url: /net/aspose.medical.dicom.tags/tag/twodimensionaltothreedimensionalmapsequence/
 ---
 
 ## Tag.TwoDimensionalToThreeDimensionalMapSequence field

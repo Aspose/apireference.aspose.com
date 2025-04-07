@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100027 VRSQ VM1 Segment Characteristics Sequence.
 type: docs
 weight: 42030
-url: /aspose.medical.dicom.tags/tag/segmentcharacteristicssequence/
+url: /net/aspose.medical.dicom.tags/tag/segmentcharacteristicssequence/
 ---
 
 ## Tag.SegmentCharacteristicsSequence field

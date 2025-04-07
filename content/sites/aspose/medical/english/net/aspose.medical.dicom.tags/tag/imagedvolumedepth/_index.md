@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480003 VRFL VM1 Imaged Volume Depth.
 type: docs
 weight: 19120
-url: /aspose.medical.dicom.tags/tag/imagedvolumedepth/
+url: /net/aspose.medical.dicom.tags/tag/imagedvolumedepth/
 ---
 
 ## Tag.ImagedVolumeDepth field

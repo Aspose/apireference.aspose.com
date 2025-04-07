@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541202 VRIS VM1 Transverse Mash.
 type: docs
 weight: 49570
-url: /aspose.medical.dicom.tags/tag/transversemash/
+url: /net/aspose.medical.dicom.tags/tag/transversemash/
 ---
 
 ## Tag.TransverseMash field

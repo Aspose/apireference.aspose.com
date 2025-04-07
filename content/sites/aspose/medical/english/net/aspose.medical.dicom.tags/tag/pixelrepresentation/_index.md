@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280103 VRUS VM1 Pixel Representation.
 type: docs
 weight: 31520
-url: /aspose.medical.dicom.tags/tag/pixelrepresentation/
+url: /net/aspose.medical.dicom.tags/tag/pixelrepresentation/
 ---
 
 ## Tag.PixelRepresentation field

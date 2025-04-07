@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460046 VRFD VM1 Corneal Size.
 type: docs
 weight: 8830
-url: /aspose.medical.dicom.tags/tag/cornealsize/
+url: /net/aspose.medical.dicom.tags/tag/cornealsize/
 ---
 
 ## Tag.CornealSize field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741224 VRSQ VM1 Replaced Procedure Step Sequence.
 type: docs
 weight: 38510
-url: /aspose.medical.dicom.tags/tag/replacedprocedurestepsequence/
+url: /net/aspose.medical.dicom.tags/tag/replacedprocedurestepsequence/
 ---
 
 ## Tag.ReplacedProcedureStepSequence field

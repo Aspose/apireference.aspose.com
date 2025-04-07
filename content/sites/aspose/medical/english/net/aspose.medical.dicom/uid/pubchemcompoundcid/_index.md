@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Coding Scheme PubChem Compound CID.
 type: docs
 weight: 3810
-url: /aspose.medical.dicom/uid/pubchemcompoundcid/
+url: /net/aspose.medical.dicom/uid/pubchemcompoundcid/
 ---
 
 ## Uid.PubChemCompoundCID field

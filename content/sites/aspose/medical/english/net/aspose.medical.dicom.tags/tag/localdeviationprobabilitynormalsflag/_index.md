@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240072 VRCS VM1 Local Deviation Probability Normals Flag.
 type: docs
 weight: 22890
-url: /aspose.medical.dicom.tags/tag/localdeviationprobabilitynormalsflag/
+url: /net/aspose.medical.dicom.tags/tag/localdeviationprobabilitynormalsflag/
 ---
 
 ## Tag.LocalDeviationProbabilityNormalsFlag field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160007 VRIS VM1 OECF Columns.
 type: docs
 weight: 27520
-url: /aspose.medical.dicom.tags/tag/oecfcolumns/
+url: /net/aspose.medical.dicom.tags/tag/oecfcolumns/
 ---
 
 ## Tag.OECFColumns field

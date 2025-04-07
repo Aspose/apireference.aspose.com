@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160005 VRDS VM1 F-Number.
 type: docs
 weight: 16140
-url: /aspose.medical.dicom.tags/tag/fnumber/
+url: /net/aspose.medical.dicom.tags/tag/fnumber/
 ---
 
 ## Tag.FNumber field

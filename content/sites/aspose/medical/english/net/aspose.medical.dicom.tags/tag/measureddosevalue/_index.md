@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080016 VRDS VM1 Measured Dose Value.
 type: docs
 weight: 24160
-url: /aspose.medical.dicom.tags/tag/measureddosevalue/
+url: /net/aspose.medical.dicom.tags/tag/measureddosevalue/
 ---
 
 ## Tag.MeasuredDoseValue field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189900 VRLO VM1 Reference Location Label.
 type: docs
 weight: 37770
-url: /aspose.medical.dicom.tags/tag/referencelocationlabel/
+url: /net/aspose.medical.dicom.tags/tag/referencelocationlabel/
 ---
 
 ## Tag.ReferenceLocationLabel field

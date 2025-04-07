@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185040 VRDS VM1 Total Gain RETIRED.
 type: docs
 weight: 48910
-url: /aspose.medical.dicom.tags/tag/totalgainretired/
+url: /net/aspose.medical.dicom.tags/tag/totalgainretired/
 ---
 
 ## Tag.TotalGainRETIRED field

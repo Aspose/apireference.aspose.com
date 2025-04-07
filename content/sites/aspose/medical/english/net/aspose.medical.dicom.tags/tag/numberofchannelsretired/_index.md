@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx2004 VRUS VM1 Number of Channels RETIRED.
 type: docs
 weight: 26180
-url: /aspose.medical.dicom.tags/tag/numberofchannelsretired/
+url: /net/aspose.medical.dicom.tags/tag/numberofchannelsretired/
 ---
 
 ## Tag.NumberOfChannelsRETIRED field

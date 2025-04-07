@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0006 VRIS VM1 Referenced Beam Number.
 type: docs
 weight: 36020
-url: /aspose.medical.dicom.tags/tag/referencedbeamnumber/
+url: /net/aspose.medical.dicom.tags/tag/referencedbeamnumber/
 ---
 
 ## Tag.ReferencedBeamNumber field

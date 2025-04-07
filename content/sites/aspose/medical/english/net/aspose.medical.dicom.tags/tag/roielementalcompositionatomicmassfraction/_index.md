@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300600B8 VRFL VM1 ROI Elemental Composition Atomic Mass Fraction.
 type: docs
 weight: 39430
-url: /aspose.medical.dicom.tags/tag/roielementalcompositionatomicmassfraction/
+url: /net/aspose.medical.dicom.tags/tag/roielementalcompositionatomicmassfraction/
 ---
 
 ## Tag.ROIElementalCompositionAtomicMassFraction field

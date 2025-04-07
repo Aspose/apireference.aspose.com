@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Initializes a new instance of the MetaInformationaspose.medical.dicom/metainformation.
 type: docs
 weight: 10
-url: /aspose.medical.dicom/metainformation/metainformation/
+url: /net/aspose.medical.dicom/metainformation/metainformation/
 ---
 
 ## MetaInformation() {#constructor}

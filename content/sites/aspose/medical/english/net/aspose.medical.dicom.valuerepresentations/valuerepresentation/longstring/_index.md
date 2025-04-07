@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Long String LO.
 type: docs
 weight: 120
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/longstring/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/longstring/
 ---
 
 ## ValueRepresentation.LongString field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00089209 VRCS VM1 Acquisition Contrast.
 type: docs
 weight: 220
-url: /aspose.medical.dicom.tags/tag/acquisitioncontrast/
+url: /net/aspose.medical.dicom.tags/tag/acquisitioncontrast/
 ---
 
 ## Tag.AcquisitionContrast field

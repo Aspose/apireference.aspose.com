@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips MR Series Data Storage.
 type: docs
 weight: 3470
-url: /aspose.medical.dicom/uid/privatephilipsmrseriesdatastorage/
+url: /net/aspose.medical.dicom/uid/privatephilipsmrseriesdatastorage/
 ---
 
 ## Uid.PrivatePhilipsMrSeriesDataStorage field

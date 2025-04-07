@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A403 VRCS VM1 Observation Subject Class Trial RETIRED.
 type: docs
 weight: 27360
-url: /aspose.medical.dicom.tags/tag/observationsubjectclasstrialretired/
+url: /net/aspose.medical.dicom.tags/tag/observationsubjectclasstrialretired/
 ---
 
 ## Tag.ObservationSubjectClassTrialRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0659 VRSQ VM1 RT Device Distance Reference Location Code Sequence.
 type: docs
 weight: 40070
-url: /aspose.medical.dicom.tags/tag/rtdevicedistancereferencelocationcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/rtdevicedistancereferencelocationcodesequence/
 ---
 
 ## Tag.RTDeviceDistanceReferenceLocationCodeSequence field

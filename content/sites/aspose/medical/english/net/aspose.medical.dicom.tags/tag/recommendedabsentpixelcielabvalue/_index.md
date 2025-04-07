@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480015 VRUS VM3 Recommended Absent Pixel CIELab Value.
 type: docs
 weight: 35410
-url: /aspose.medical.dicom.tags/tag/recommendedabsentpixelcielabvalue/
+url: /net/aspose.medical.dicom.tags/tag/recommendedabsentpixelcielabvalue/
 ---
 
 ## Tag.RecommendedAbsentPixelCIELabValue field

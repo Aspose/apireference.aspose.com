@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480113 VRDS VM1 Objective Lens Numerical Aperture.
 type: docs
 weight: 27220
-url: /aspose.medical.dicom.tags/tag/objectivelensnumericalaperture/
+url: /net/aspose.medical.dicom.tags/tag/objectivelensnumericalaperture/
 ---
 
 ## Tag.ObjectiveLensNumericalAperture field

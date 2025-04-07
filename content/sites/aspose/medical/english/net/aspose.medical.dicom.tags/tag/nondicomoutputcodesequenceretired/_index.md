@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404032 VRSQ VM1 Non-DICOM Output Code Sequence RETIRED.
 type: docs
 weight: 25930
-url: /aspose.medical.dicom.tags/tag/nondicomoutputcodesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/nondicomoutputcodesequenceretired/
 ---
 
 ## Tag.NonDICOMOutputCodeSequenceRETIRED field

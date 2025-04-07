@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321030 VRLO VM1 Reason for Study RETIRED.
 type: docs
 weight: 35190
-url: /aspose.medical.dicom.tags/tag/reasonforstudyretired/
+url: /net/aspose.medical.dicom.tags/tag/reasonforstudyretired/
 ---
 
 ## Tag.ReasonForStudyRETIRED field

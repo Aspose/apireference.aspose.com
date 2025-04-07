@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008041C VROB VM1 Prior Record Key.
 type: docs
 weight: 33010
-url: /aspose.medical.dicom.tags/tag/priorrecordkey/
+url: /net/aspose.medical.dicom.tags/tag/priorrecordkey/
 ---
 
 ## Tag.PriorRecordKey field

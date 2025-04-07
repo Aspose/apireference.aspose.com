@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0787 VRSQ VM1 Omitted Radiation Sequence.
 type: docs
 weight: 27650
-url: /aspose.medical.dicom.tags/tag/omittedradiationsequence/
+url: /net/aspose.medical.dicom.tags/tag/omittedradiationsequence/
 ---
 
 ## Tag.OmittedRadiationSequence field

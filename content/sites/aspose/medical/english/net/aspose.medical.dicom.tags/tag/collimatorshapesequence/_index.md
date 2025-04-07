@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189407 VRSQ VM1 Collimator Shape Sequence.
 type: docs
 weight: 6360
-url: /aspose.medical.dicom.tags/tag/collimatorshapesequence/
+url: /net/aspose.medical.dicom.tags/tag/collimatorshapesequence/
 ---
 
 ## Tag.CollimatorShapeSequence field

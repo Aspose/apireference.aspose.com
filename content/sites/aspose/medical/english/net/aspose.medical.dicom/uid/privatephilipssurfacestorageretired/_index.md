@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips Surface Storage Retired.
 type: docs
 weight: 3560
-url: /aspose.medical.dicom/uid/privatephilipssurfacestorageretired/
+url: /net/aspose.medical.dicom/uid/privatephilipssurfacestorageretired/
 ---
 
 ## Uid.PrivatePhilipsSurfaceStorageRetired field

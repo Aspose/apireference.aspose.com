@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00201204 VRIS VM1 Number of Patient Related Instances.
 type: docs
 weight: 26600
-url: /aspose.medical.dicom.tags/tag/numberofpatientrelatedinstances/
+url: /net/aspose.medical.dicom.tags/tag/numberofpatientrelatedinstances/
 ---
 
 ## Tag.NumberOfPatientRelatedInstances field

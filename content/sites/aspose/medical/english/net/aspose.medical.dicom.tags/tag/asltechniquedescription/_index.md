@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189252 VRLO VM1 ASL Technique Description.
 type: docs
 weight: 2490
-url: /aspose.medical.dicom.tags/tag/asltechniquedescription/
+url: /net/aspose.medical.dicom.tags/tag/asltechniquedescription/
 ---
 
 ## Tag.ASLTechniqueDescription field

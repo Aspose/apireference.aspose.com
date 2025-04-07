@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520027 VRSQ VM1 Intravascular Frame Content Sequence.
 type: docs
 weight: 21250
-url: /aspose.medical.dicom.tags/tag/intravascularframecontentsequence/
+url: /net/aspose.medical.dicom.tags/tag/intravascularframecontentsequence/
 ---
 
 ## Tag.IntravascularFrameContentSequence field

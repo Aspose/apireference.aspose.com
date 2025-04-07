@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082200 VRCS VM1 Transducer Position RETIRED.
 type: docs
 weight: 49300
-url: /aspose.medical.dicom.tags/tag/transducerpositionretired/
+url: /net/aspose.medical.dicom.tags/tag/transducerpositionretired/
 ---
 
 ## Tag.TransducerPositionRETIRED field

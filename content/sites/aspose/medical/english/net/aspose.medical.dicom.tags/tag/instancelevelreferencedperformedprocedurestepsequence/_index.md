@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100044 VRSQ VM1 Instance-Level Referenced Performed Procedure Step Sequence.
 type: docs
 weight: 20500
-url: /aspose.medical.dicom.tags/tag/instancelevelreferencedperformedprocedurestepsequence/
+url: /net/aspose.medical.dicom.tags/tag/instancelevelreferencedperformedprocedurestepsequence/
 ---
 
 ## Tag.InstanceLevelReferencedPerformedProcedureStepSequence field

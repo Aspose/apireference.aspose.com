@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460147 VRFD VM1 Cylinder Power.
 type: docs
 weight: 9630
-url: /aspose.medical.dicom.tags/tag/cylinderpower/
+url: /net/aspose.medical.dicom.tags/tag/cylinderpower/
 ---
 
 ## Tag.CylinderPower field

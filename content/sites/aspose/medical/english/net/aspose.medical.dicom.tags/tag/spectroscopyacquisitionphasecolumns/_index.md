@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189234 VRUL VM1 Spectroscopy Acquisition Phase Columns.
 type: docs
 weight: 45160
-url: /aspose.medical.dicom.tags/tag/spectroscopyacquisitionphasecolumns/
+url: /net/aspose.medical.dicom.tags/tag/spectroscopyacquisitionphasecolumns/
 ---
 
 ## Tag.SpectroscopyAcquisitionPhaseColumns field

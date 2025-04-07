@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0677 VRSQ VM1 Equipment Reference Point Coordinates Sequence.
 type: docs
 weight: 13910
-url: /aspose.medical.dicom.tags/tag/equipmentreferencepointcoordinatessequence/
+url: /net/aspose.medical.dicom.tags/tag/equipmentreferencepointcoordinatessequence/
 ---
 
 ## Tag.EquipmentReferencePointCoordinatesSequence field

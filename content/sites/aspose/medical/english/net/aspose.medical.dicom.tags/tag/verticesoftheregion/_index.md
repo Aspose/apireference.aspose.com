@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289503 VRSS VM2-2n Vertices of the Region.
 type: docs
 weight: 51100
-url: /aspose.medical.dicom.tags/tag/verticesoftheregion/
+url: /net/aspose.medical.dicom.tags/tag/verticesoftheregion/
 ---
 
 ## Tag.VerticesOfTheRegion field

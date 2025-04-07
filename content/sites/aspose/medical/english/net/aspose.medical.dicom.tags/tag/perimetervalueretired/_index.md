@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280071 VRUS or SS VM1 Perimeter Value RETIRED.
 type: docs
 weight: 30880
-url: /aspose.medical.dicom.tags/tag/perimetervalueretired/
+url: /net/aspose.medical.dicom.tags/tag/perimetervalueretired/
 ---
 
 ## Tag.PerimeterValueRETIRED field

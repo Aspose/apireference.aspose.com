@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Indicates whether Samples have signed values if true or not. Read-only Boolean.
 type: docs
 weight: 40
-url: /aspose.medical.dicom.imaging.renderoptions/bitdepth/issigned/
+url: /net/aspose.medical.dicom.imaging.renderoptions/bitdepth/issigned/
 ---
 
 ## BitDepth.IsSigned property

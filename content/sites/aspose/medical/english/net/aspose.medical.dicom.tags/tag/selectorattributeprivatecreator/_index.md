@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720056 VRLO VM1 Selector Attribute Private Creator.
 type: docs
 weight: 42330
-url: /aspose.medical.dicom.tags/tag/selectorattributeprivatecreator/
+url: /net/aspose.medical.dicom.tags/tag/selectorattributeprivatecreator/
 ---
 
 ## Tag.SelectorAttributePrivateCreator field

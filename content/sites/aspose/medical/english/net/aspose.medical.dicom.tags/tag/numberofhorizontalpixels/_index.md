@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720106 VRUS VM1 Number of Horizontal Pixels.
 type: docs
 weight: 26460
-url: /aspose.medical.dicom.tags/tag/numberofhorizontalpixels/
+url: /net/aspose.medical.dicom.tags/tag/numberofhorizontalpixels/
 ---
 
 ## Tag.NumberOfHorizontalPixels field

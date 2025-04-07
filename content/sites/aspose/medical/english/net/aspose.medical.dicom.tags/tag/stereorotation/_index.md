@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220014 VRFL VM1 Stereo Rotation.
 type: docs
 weight: 45550
-url: /aspose.medical.dicom.tags/tag/stereorotation/
+url: /net/aspose.medical.dicom.tags/tag/stereorotation/
 ---
 
 ## Tag.StereoRotation field

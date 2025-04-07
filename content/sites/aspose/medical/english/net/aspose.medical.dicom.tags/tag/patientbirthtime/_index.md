@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100032 VRTM VM1 Patients Birth Time.
 type: docs
 weight: 29740
-url: /aspose.medical.dicom.tags/tag/patientbirthtime/
+url: /net/aspose.medical.dicom.tags/tag/patientbirthtime/
 ---
 
 ## Tag.PatientBirthTime field

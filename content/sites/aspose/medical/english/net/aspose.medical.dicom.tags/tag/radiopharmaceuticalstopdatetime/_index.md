@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181079 VRDT VM1 Radiopharmaceutical Stop DateTime.
 type: docs
 weight: 34670
-url: /aspose.medical.dicom.tags/tag/radiopharmaceuticalstopdatetime/
+url: /net/aspose.medical.dicom.tags/tag/radiopharmaceuticalstopdatetime/
 ---
 
 ## Tag.RadiopharmaceuticalStopDateTime field

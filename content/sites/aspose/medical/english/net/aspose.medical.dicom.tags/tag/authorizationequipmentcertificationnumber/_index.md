@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 01000426 VRLO VM1 Authorization Equipment Certification Number.
 type: docs
 weight: 2900
-url: /aspose.medical.dicom.tags/tag/authorizationequipmentcertificationnumber/
+url: /net/aspose.medical.dicom.tags/tag/authorizationequipmentcertificationnumber/
 ---
 
 ## Tag.AuthorizationEquipmentCertificationNumber field

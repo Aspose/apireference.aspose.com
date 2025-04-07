@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: GE Private Implicit VR Big Endian 1.2.840.113619.5.2.
 type: docs
 weight: 110
-url: /aspose.medical.dicom/transfersyntax/geprivateimplicitvrbigendian/
+url: /net/aspose.medical.dicom/transfersyntax/geprivateimplicitvrbigendian/
 ---
 
 ## TransferSyntax.GePrivateImplicitVrBigEndian field

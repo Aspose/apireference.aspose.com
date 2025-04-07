@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00182006 VRSH VM1-n Display Window Label Vector.
 type: docs
 weight: 12310
-url: /aspose.medical.dicom.tags/tag/displaywindowlabelvector/
+url: /net/aspose.medical.dicom.tags/tag/displaywindowlabelvector/
 ---
 
 ## Tag.DisplayWindowLabelVector field

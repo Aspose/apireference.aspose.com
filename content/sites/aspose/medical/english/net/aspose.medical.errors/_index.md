@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 180
-url: /aspose.medical.errors/
+url: /net/aspose.medical.errors/
 ---
 
 

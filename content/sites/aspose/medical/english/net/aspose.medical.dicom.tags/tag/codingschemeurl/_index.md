@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008010E VRUR VM1 Coding Scheme URL.
 type: docs
 weight: 6190
-url: /aspose.medical.dicom.tags/tag/codingschemeurl/
+url: /net/aspose.medical.dicom.tags/tag/codingschemeurl/
 ---
 
 ## Tag.CodingSchemeURL field

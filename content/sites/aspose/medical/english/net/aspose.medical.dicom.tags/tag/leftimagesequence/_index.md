@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220021 VRSQ VM1 Left Image Sequence.
 type: docs
 weight: 22530
-url: /aspose.medical.dicom.tags/tag/leftimagesequence/
+url: /net/aspose.medical.dicom.tags/tag/leftimagesequence/
 ---
 
 ## Tag.LeftImageSequence field

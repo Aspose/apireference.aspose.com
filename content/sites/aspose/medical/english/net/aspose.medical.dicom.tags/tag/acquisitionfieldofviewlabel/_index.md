@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811BB VRLO VM1 Acquisition Field of View Label.
 type: docs
 weight: 310
-url: /aspose.medical.dicom.tags/tag/acquisitionfieldofviewlabel/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionfieldofviewlabel/
 ---
 
 ## Tag.AcquisitionFieldOfViewLabel field

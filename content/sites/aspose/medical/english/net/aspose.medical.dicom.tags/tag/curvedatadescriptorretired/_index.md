@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx0110 VRUS VM1-n Curve Data Descriptor RETIRED.
 type: docs
 weight: 9470
-url: /aspose.medical.dicom.tags/tag/curvedatadescriptorretired/
+url: /net/aspose.medical.dicom.tags/tag/curvedatadescriptorretired/
 ---
 
 ## Tag.CurveDataDescriptorRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The bit position of embedded overlay. Read/Write Int32.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.imaging.overlays/overlaydata/bitposition/
+url: /net/aspose.medical.dicom.imaging.overlays/overlaydata/bitposition/
 ---
 
 ## OverlayData.BitPosition property

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00182045 VRSH VM1 Target Label.
 type: docs
 weight: 47350
-url: /aspose.medical.dicom.tags/tag/targetlabel/
+url: /net/aspose.medical.dicom.tags/tag/targetlabel/
 ---
 
 ## Tag.TargetLabel field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400001 VRAE VM1-n Scheduled Station AE Title.
 type: docs
 weight: 41520
-url: /aspose.medical.dicom.tags/tag/scheduledstationaetitle/
+url: /net/aspose.medical.dicom.tags/tag/scheduledstationaetitle/
 ---
 
 ## Tag.ScheduledStationAETitle field

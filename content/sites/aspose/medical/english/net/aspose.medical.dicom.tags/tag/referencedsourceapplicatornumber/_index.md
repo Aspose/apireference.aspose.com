@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080142 VRIS VM1 Referenced Source Applicator Number.
 type: docs
 weight: 37410
-url: /aspose.medical.dicom.tags/tag/referencedsourceapplicatornumber/
+url: /net/aspose.medical.dicom.tags/tag/referencedsourceapplicatornumber/
 ---
 
 ## Tag.ReferencedSourceApplicatorNumber field

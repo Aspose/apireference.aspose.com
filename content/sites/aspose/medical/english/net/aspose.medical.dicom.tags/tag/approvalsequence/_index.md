@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440100 VRSQ VM1 Approval Sequence.
 type: docs
 weight: 2260
-url: /aspose.medical.dicom.tags/tag/approvalsequence/
+url: /net/aspose.medical.dicom.tags/tag/approvalsequence/
 ---
 
 ## Tag.ApprovalSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0050 VRSS VM2 Overlay Origin.
 type: docs
 weight: 29110
-url: /aspose.medical.dicom.tags/tag/overlayorigin/
+url: /net/aspose.medical.dicom.tags/tag/overlayorigin/
 ---
 
 ## Tag.OverlayOrigin field

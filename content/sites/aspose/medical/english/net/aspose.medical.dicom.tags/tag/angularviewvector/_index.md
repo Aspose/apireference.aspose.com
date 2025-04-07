@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540090 VRUS VM1-n Angular View Vector.
 type: docs
 weight: 1690
-url: /aspose.medical.dicom.tags/tag/angularviewvector/
+url: /net/aspose.medical.dicom.tags/tag/angularviewvector/
 ---
 
 ## Tag.AngularViewVector field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000600 VRAE VM1 Move Destination.
 type: docs
 weight: 24970
-url: /aspose.medical.dicom.tags/tag/movedestination/
+url: /net/aspose.medical.dicom.tags/tag/movedestination/
 ---
 
 ## Tag.MoveDestination field

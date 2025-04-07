@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Product Characteristics Query SOP Class.
 type: docs
 weight: 3750
-url: /aspose.medical.dicom/uid/productcharacteristicsquerysopclass/
+url: /net/aspose.medical.dicom/uid/productcharacteristicsquerysopclass/
 ---
 
 ## Uid.ProductCharacteristicsQuerySOPClass field

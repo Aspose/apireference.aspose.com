@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0244 VRUS VM3 Channel Recommended Display CIELab Value.
 type: docs
 weight: 5590
-url: /aspose.medical.dicom.tags/tag/channelrecommendeddisplaycielabvalue/
+url: /net/aspose.medical.dicom.tags/tag/channelrecommendeddisplaycielabvalue/
 ---
 
 ## Tag.ChannelRecommendedDisplayCIELabValue field

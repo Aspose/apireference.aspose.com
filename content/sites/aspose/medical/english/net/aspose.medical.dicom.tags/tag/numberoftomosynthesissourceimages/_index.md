@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181495 VRIS VM1 Number of Tomosynthesis Source Images.
 type: docs
 weight: 27020
-url: /aspose.medical.dicom.tags/tag/numberoftomosynthesissourceimages/
+url: /net/aspose.medical.dicom.tags/tag/numberoftomosynthesissourceimages/
 ---
 
 ## Tag.NumberOfTomosynthesisSourceImages field

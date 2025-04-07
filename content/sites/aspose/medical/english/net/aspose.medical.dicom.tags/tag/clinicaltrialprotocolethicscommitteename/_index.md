@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120081 VRLO VM1 Clinical Trial Protocol Ethics Committee Name.
 type: docs
 weight: 5920
-url: /aspose.medical.dicom.tags/tag/clinicaltrialprotocolethicscommitteename/
+url: /net/aspose.medical.dicom.tags/tag/clinicaltrialprotocolethicscommitteename/
 ---
 
 ## Tag.ClinicalTrialProtocolEthicsCommitteeName field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 52009229 VRSQ VM1 Shared Functional Groups Sequence.
 type: docs
 weight: 43150
-url: /aspose.medical.dicom.tags/tag/sharedfunctionalgroupssequence/
+url: /net/aspose.medical.dicom.tags/tag/sharedfunctionalgroupssequence/
 ---
 
 ## Tag.SharedFunctionalGroupsSequence field

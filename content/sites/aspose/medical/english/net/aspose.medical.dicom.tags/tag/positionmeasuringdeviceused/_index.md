@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018980C VRCS VM1 Position Measuring Device Used.
 type: docs
 weight: 32140
-url: /aspose.medical.dicom.tags/tag/positionmeasuringdeviceused/
+url: /net/aspose.medical.dicom.tags/tag/positionmeasuringdeviceused/
 ---
 
 ## Tag.PositionMeasuringDeviceUsed field

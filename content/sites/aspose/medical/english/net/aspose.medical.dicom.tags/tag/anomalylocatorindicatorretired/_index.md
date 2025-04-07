@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4010107A VRFL VM3 Anomaly Locator Indicator RETIRED.
 type: docs
 weight: 1930
-url: /aspose.medical.dicom.tags/tag/anomalylocatorindicatorretired/
+url: /net/aspose.medical.dicom.tags/tag/anomalylocatorindicatorretired/
 ---
 
 ## Tag.AnomalyLocatorIndicatorRETIRED field

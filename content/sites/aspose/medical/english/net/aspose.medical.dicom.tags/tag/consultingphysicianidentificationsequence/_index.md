@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008009D VRSQ VM1 Consulting Physician Identification Sequence.
 type: docs
 weight: 7670
-url: /aspose.medical.dicom.tags/tag/consultingphysicianidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/consultingphysicianidentificationsequence/
 ---
 
 ## Tag.ConsultingPhysicianIdentificationSequence field

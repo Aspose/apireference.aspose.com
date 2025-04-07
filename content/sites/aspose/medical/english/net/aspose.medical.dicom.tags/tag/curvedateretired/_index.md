@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080025 VRDA VM1 Curve Date RETIRED.
 type: docs
 weight: 9490
-url: /aspose.medical.dicom.tags/tag/curvedateretired/
+url: /net/aspose.medical.dicom.tags/tag/curvedateretired/
 ---
 
 ## Tag.CurveDateRETIRED field

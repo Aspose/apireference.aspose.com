@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 002808x2 VRUS VM1 Number of Tables RETIRED.
 type: docs
 weight: 26980
-url: /aspose.medical.dicom.tags/tag/numberoftablesretired/
+url: /net/aspose.medical.dicom.tags/tag/numberoftablesretired/
 ---
 
 ## Tag.NumberOfTablesRETIRED field

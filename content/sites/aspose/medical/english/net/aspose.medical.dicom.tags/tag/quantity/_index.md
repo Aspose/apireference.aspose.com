@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400294 VRDS VM1 Quantity.
 type: docs
 weight: 34040
-url: /aspose.medical.dicom.tags/tag/quantity/
+url: /net/aspose.medical.dicom.tags/tag/quantity/
 ---
 
 ## Tag.Quantity field

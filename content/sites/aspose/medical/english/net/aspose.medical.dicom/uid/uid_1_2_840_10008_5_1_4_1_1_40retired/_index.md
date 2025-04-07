@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Retired.
 type: docs
 weight: 4710
-url: /aspose.medical.dicom/uid/uid_1_2_840_10008_5_1_4_1_1_40retired/
+url: /net/aspose.medical.dicom/uid/uid_1_2_840_10008_5_1_4_1_1_40retired/
 ---
 
 ## Uid.UID_1_2_840_10008_5_1_4_1_1_40Retired field

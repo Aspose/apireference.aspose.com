@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0804 VRUS VM1 Overlay Bits For Code Word RETIRED.
 type: docs
 weight: 28850
-url: /aspose.medical.dicom.tags/tag/overlaybitsforcodewordretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaybitsforcodewordretired/
 ---
 
 ## Tag.OverlayBitsForCodeWordRETIRED field

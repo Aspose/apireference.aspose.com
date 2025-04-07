@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187022 VRDS VM2 Detector Element Spacing.
 type: docs
 weight: 11010
-url: /aspose.medical.dicom.tags/tag/detectorelementspacing/
+url: /net/aspose.medical.dicom.tags/tag/detectorelementspacing/
 ---
 
 ## Tag.DetectorElementSpacing field

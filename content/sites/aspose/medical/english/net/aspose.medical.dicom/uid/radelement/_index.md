@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Coding Scheme RadElement.
 type: docs
 weight: 3840
-url: /aspose.medical.dicom/uid/radelement/
+url: /net/aspose.medical.dicom/uid/radelement/
 ---
 
 ## Uid.RadElement field

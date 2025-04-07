@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280302 VRCS VM1 Recognizable Visual Features.
 type: docs
 weight: 35400
-url: /aspose.medical.dicom.tags/tag/recognizablevisualfeatures/
+url: /net/aspose.medical.dicom.tags/tag/recognizablevisualfeatures/
 ---
 
 ## Tag.RecognizableVisualFeatures field

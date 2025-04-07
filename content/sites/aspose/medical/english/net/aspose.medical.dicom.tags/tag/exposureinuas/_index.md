@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181153 VRIS VM1 Exposure in ÂµAs.
 type: docs
 weight: 14560
-url: /aspose.medical.dicom.tags/tag/exposureinuas/
+url: /net/aspose.medical.dicom.tags/tag/exposureinuas/
 ---
 
 ## Tag.ExposureInuAs field

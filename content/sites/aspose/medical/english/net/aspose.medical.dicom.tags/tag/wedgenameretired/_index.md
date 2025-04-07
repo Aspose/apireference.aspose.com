@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014510F VRSH VM1 Wedge Name RETIRED.
 type: docs
 weight: 52240
-url: /aspose.medical.dicom.tags/tag/wedgenameretired/
+url: /net/aspose.medical.dicom.tags/tag/wedgenameretired/
 ---
 
 ## Tag.WedgeNameRETIRED field

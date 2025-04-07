@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 2010015E VRUS VM1 Illumination.
 type: docs
 weight: 18790
-url: /aspose.medical.dicom.tags/tag/illumination/
+url: /net/aspose.medical.dicom.tags/tag/illumination/
 ---
 
 ## Tag.Illumination field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700226 VRUL VM1 Compound Graphic Instance ID.
 type: docs
 weight: 7090
-url: /aspose.medical.dicom.tags/tag/compoundgraphicinstanceid/
+url: /net/aspose.medical.dicom.tags/tag/compoundgraphicinstanceid/
 ---
 
 ## Tag.CompoundGraphicInstanceID field

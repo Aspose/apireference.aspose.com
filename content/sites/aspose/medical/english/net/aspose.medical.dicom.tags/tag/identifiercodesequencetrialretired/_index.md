@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A070 VRSQ VM1 Identifier Code Sequence Trial RETIRED.
 type: docs
 weight: 18750
-url: /aspose.medical.dicom.tags/tag/identifiercodesequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/identifiercodesequencetrialretired/
 ---
 
 ## Tag.IdentifierCodeSequenceTrialRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Metadata for not registered unknown tags.
 type: docs
 weight: 80
-url: /aspose.medical.dicom.tags/tagdictionary/unknowntag/
+url: /net/aspose.medical.dicom.tags/tagdictionary/unknowntag/
 ---
 
 ## TagDictionary.UnknownTag field

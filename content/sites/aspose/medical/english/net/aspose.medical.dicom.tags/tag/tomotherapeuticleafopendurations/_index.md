@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100099 VRFD VM1-n Tomotherapeutic Leaf Open Durations.
 type: docs
 weight: 48740
-url: /aspose.medical.dicom.tags/tag/tomotherapeuticleafopendurations/
+url: /net/aspose.medical.dicom.tags/tag/tomotherapeuticleafopendurations/
 ---
 
 ## Tag.TomotherapeuticLeafOpenDurations field

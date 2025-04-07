@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00E9 VRDS VM2 Compensator Pixel Spacing.
 type: docs
 weight: 6740
-url: /aspose.medical.dicom.tags/tag/compensatorpixelspacing/
+url: /net/aspose.medical.dicom.tags/tag/compensatorpixelspacing/
 ---
 
 ## Tag.CompensatorPixelSpacing field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460247 VRFL VM3 Corneal Point Location.
 type: docs
 weight: 8810
-url: /aspose.medical.dicom.tags/tag/cornealpointlocation/
+url: /net/aspose.medical.dicom.tags/tag/cornealpointlocation/
 ---
 
 ## Tag.CornealPointLocation field

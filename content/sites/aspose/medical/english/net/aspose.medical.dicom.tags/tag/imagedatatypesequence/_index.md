@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189807 VRSQ VM1 Image Data Type Sequence.
 type: docs
 weight: 19080
-url: /aspose.medical.dicom.tags/tag/imagedatatypesequence/
+url: /net/aspose.medical.dicom.tags/tag/imagedatatypesequence/
 ---
 
 ## Tag.ImageDataTypeSequence field

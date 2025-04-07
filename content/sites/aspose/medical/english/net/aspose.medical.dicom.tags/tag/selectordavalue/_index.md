@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720061 VRDA VM1-n Selector DA Value.
 type: docs
 weight: 42380
-url: /aspose.medical.dicom.tags/tag/selectordavalue/
+url: /net/aspose.medical.dicom.tags/tag/selectordavalue/
 ---
 
 ## Tag.SelectorDAValue field

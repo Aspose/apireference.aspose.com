@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014602C VRCS VM1 Thermal Source Motion State RETIRED.
 type: docs
 weight: 47970
-url: /aspose.medical.dicom.tags/tag/thermalsourcemotionstateretired/
+url: /net/aspose.medical.dicom.tags/tag/thermalsourcemotionstateretired/
 ---
 
 ## Tag.ThermalSourceMotionStateRETIRED field

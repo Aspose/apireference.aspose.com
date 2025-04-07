@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289003 VRCS VM1 Signal Domain Columns.
 type: docs
 weight: 43460
-url: /aspose.medical.dicom.tags/tag/signaldomaincolumns/
+url: /net/aspose.medical.dicom.tags/tag/signaldomaincolumns/
 ---
 
 ## Tag.SignalDomainColumns field

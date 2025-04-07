@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00285000 VRSQ VM1 Bi-Plane Acquisition Sequence RETIRED.
 type: docs
 weight: 3740
-url: /aspose.medical.dicom.tags/tag/biplaneacquisitionsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/biplaneacquisitionsequenceretired/
 ---
 
 ## Tag.BiPlaneAcquisitionSequenceRETIRED field

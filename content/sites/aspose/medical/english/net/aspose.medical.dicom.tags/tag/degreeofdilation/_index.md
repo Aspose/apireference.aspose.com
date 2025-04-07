@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022000E VRFL VM1 Degree of Dilation.
 type: docs
 weight: 10420
-url: /aspose.medical.dicom.tags/tag/degreeofdilation/
+url: /net/aspose.medical.dicom.tags/tag/degreeofdilation/
 ---
 
 ## Tag.DegreeOfDilation field

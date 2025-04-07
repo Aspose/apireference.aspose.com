@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189011 VRCS VM1 Multiple Spin Echo.
 type: docs
 weight: 25560
-url: /aspose.medical.dicom.tags/tag/multiplespinecho/
+url: /net/aspose.medical.dicom.tags/tag/multiplespinecho/
 ---
 
 ## Tag.MultipleSpinEcho field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class 12-lead ECG Waveform Storage.
 type: docs
 weight: 4680
-url: /aspose.medical.dicom/uid/twelveleadecgwaveformstorage/
+url: /net/aspose.medical.dicom/uid/twelveleadecgwaveformstorage/
 ---
 
 ## Uid.TwelveLeadECGWaveformStorage field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0215 VRDS VM1 Channel Sample Skew.
 type: docs
 weight: 5600
-url: /aspose.medical.dicom.tags/tag/channelsampleskew/
+url: /net/aspose.medical.dicom.tags/tag/channelsampleskew/
 ---
 
 ## Tag.ChannelSampleSkew field

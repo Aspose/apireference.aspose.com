@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Coding Scheme Integrated Taxonomic Information System ITIS Taxonomic Serial Number TSN.
 type: docs
 weight: 2060
-url: /aspose.medical.dicom/uid/integratedtaxonomicinformationsystemitistaxonomicserialnumbertsn/
+url: /net/aspose.medical.dicom/uid/integratedtaxonomicinformationsystemitistaxonomicserialnumbertsn/
 ---
 
 ## Uid.IntegratedTaxonomicInformationSystemITISTaxonomicSerialNumberTSN field

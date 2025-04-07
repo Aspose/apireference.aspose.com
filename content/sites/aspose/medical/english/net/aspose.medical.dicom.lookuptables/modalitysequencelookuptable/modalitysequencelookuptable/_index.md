@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Initialize new instance of ModalitySequenceLookUpTableaspose.medical.dicom.lookuptables/modalitysequencelookuptable using the specified options
 type: docs
 weight: 10
-url: /aspose.medical.dicom.lookuptables/modalitysequencelookuptable/modalitysequencelookuptable/
+url: /net/aspose.medical.dicom.lookuptables/modalitysequencelookuptable/modalitysequencelookuptable/
 ---
 
 ## ModalitySequenceLookUpTable constructor

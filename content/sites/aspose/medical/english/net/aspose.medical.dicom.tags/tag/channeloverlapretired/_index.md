@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014409F VRDS VM1 Channel Overlap RETIRED.
 type: docs
 weight: 5570
-url: /aspose.medical.dicom.tags/tag/channeloverlapretired/
+url: /net/aspose.medical.dicom.tags/tag/channeloverlapretired/
 ---
 
 ## Tag.ChannelOverlapRETIRED field

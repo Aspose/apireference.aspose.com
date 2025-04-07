@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189469 VRFL VM1 Table Horizontal Rotation Angle.
 type: docs
 weight: 46790
-url: /aspose.medical.dicom.tags/tag/tablehorizontalrotationangle/
+url: /net/aspose.medical.dicom.tags/tag/tablehorizontalrotationangle/
 ---
 
 ## Tag.TableHorizontalRotationAngle field

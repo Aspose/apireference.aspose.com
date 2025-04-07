@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00800001 VRSQ VM1 Surface Scan Acquisition Type Code Sequence.
 type: docs
 weight: 46510
-url: /aspose.medical.dicom.tags/tag/surfacescanacquisitiontypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/surfacescanacquisitiontypecodesequence/
 ---
 
 ## Tag.SurfaceScanAcquisitionTypeCodeSequence field

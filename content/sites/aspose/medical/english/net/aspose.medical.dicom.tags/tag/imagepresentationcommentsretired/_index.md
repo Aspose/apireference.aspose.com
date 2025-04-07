@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00284000 VRLT VM1 Image Presentation Comments RETIRED.
 type: docs
 weight: 19390
-url: /aspose.medical.dicom.tags/tag/imagepresentationcommentsretired/
+url: /net/aspose.medical.dicom.tags/tag/imagepresentationcommentsretired/
 ---
 
 ## Tag.ImagePresentationCommentsRETIRED field

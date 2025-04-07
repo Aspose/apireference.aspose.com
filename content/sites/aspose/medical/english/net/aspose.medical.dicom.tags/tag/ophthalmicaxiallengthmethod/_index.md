@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221515 VRCS VM1 Ophthalmic Axial Length Method.
 type: docs
 weight: 27960
-url: /aspose.medical.dicom.tags/tag/ophthalmicaxiallengthmethod/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicaxiallengthmethod/
 ---
 
 ## Tag.OphthalmicAxialLengthMethod field

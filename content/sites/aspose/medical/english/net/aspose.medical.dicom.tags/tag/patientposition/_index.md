@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185100 VRCS VM1 Patient Position.
 type: docs
 weight: 30020
-url: /aspose.medical.dicom.tags/tag/patientposition/
+url: /net/aspose.medical.dicom.tags/tag/patientposition/
 ---
 
 ## Tag.PatientPosition field

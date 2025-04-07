@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720202 VRUS VM1 Display Set Number.
 type: docs
 weight: 12170
-url: /aspose.medical.dicom.tags/tag/displaysetnumber/
+url: /net/aspose.medical.dicom.tags/tag/displaysetnumber/
 ---
 
 ## Tag.DisplaySetNumber field

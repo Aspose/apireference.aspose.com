@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189901 VRUT VM1 Reference Location Description.
 type: docs
 weight: 37760
-url: /aspose.medical.dicom.tags/tag/referencelocationdescription/
+url: /net/aspose.medical.dicom.tags/tag/referencelocationdescription/
 ---
 
 ## Tag.ReferenceLocationDescription field

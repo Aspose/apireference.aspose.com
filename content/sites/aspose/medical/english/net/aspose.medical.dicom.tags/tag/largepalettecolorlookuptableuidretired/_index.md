@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281214 VRUI VM1 Large Palette Color Lookup Table UID RETIRED.
 type: docs
 weight: 22260
-url: /aspose.medical.dicom.tags/tag/largepalettecolorlookuptableuidretired/
+url: /net/aspose.medical.dicom.tags/tag/largepalettecolorlookuptableuidretired/
 ---
 
 ## Tag.LargePaletteColorLookupTableUIDRETIRED field

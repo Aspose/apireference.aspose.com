@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020010 VRDS VM6 RT Image Orientation.
 type: docs
 weight: 40190
-url: /aspose.medical.dicom.tags/tag/rtimageorientation/
+url: /net/aspose.medical.dicom.tags/tag/rtimageorientation/
 ---
 
 ## Tag.RTImageOrientation field

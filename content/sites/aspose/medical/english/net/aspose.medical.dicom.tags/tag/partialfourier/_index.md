@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189081 VRCS VM1 Partial Fourier.
 type: docs
 weight: 29590
-url: /aspose.medical.dicom.tags/tag/partialfourier/
+url: /net/aspose.medical.dicom.tags/tag/partialfourier/
 ---
 
 ## Tag.PartialFourier field

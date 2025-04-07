@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189326 VRSQ VM1 CT Position Sequence.
 type: docs
 weight: 9280
-url: /aspose.medical.dicom.tags/tag/ctpositionsequence/
+url: /net/aspose.medical.dicom.tags/tag/ctpositionsequence/
 ---
 
 ## Tag.CTPositionSequence field

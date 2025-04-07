@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820007 VRSQ VM1 Assessment Observations Sequence.
 type: docs
 weight: 2590
-url: /aspose.medical.dicom.tags/tag/assessmentobservationssequence/
+url: /net/aspose.medical.dicom.tags/tag/assessmentobservationssequence/
 ---
 
 ## Tag.AssessmentObservationsSequence field

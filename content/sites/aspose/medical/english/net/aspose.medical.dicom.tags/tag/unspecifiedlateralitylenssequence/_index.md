@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460016 VRSQ VM1 Unspecified Laterality Lens Sequence.
 type: docs
 weight: 50510
-url: /aspose.medical.dicom.tags/tag/unspecifiedlateralitylenssequence/
+url: /net/aspose.medical.dicom.tags/tag/unspecifiedlateralitylenssequence/
 ---
 
 ## Tag.UnspecifiedLateralityLensSequence field

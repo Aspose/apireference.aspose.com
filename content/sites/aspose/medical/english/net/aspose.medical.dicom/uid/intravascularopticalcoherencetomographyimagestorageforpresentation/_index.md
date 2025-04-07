@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Intravascular Optical Coherence Tomography Image Storage - For Presentation.
 type: docs
 weight: 2080
-url: /aspose.medical.dicom/uid/intravascularopticalcoherencetomographyimagestorageforpresentation/
+url: /net/aspose.medical.dicom/uid/intravascularopticalcoherencetomographyimagestorageforpresentation/
 ---
 
 ## Uid.IntravascularOpticalCoherenceTomographyImageStorageForPresentation field

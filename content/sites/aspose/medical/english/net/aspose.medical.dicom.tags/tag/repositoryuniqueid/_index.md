@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040E030 VRUI VM1 Repository Unique ID.
 type: docs
 weight: 38590
-url: /aspose.medical.dicom.tags/tag/repositoryuniqueid/
+url: /net/aspose.medical.dicom.tags/tag/repositoryuniqueid/
 ---
 
 ## Tag.RepositoryUniqueID field

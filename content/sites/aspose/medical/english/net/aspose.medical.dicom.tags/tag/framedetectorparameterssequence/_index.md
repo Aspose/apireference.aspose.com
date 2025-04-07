@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189451 VRSQ VM1 Frame Detector Parameters Sequence.
 type: docs
 weight: 16520
-url: /aspose.medical.dicom.tags/tag/framedetectorparameterssequence/
+url: /net/aspose.medical.dicom.tags/tag/framedetectorparameterssequence/
 ---
 
 ## Tag.FrameDetectorParametersSequence field

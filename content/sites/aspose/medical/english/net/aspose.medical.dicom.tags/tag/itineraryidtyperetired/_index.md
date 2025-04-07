@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101052 VRSH VM1 Itinerary ID Type RETIRED.
 type: docs
 weight: 22000
-url: /aspose.medical.dicom.tags/tag/itineraryidtyperetired/
+url: /net/aspose.medical.dicom.tags/tag/itineraryidtyperetired/
 ---
 
 ## Tag.ItineraryIDTypeRETIRED field

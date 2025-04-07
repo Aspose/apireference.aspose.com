@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A019A VRFL VM1 Fixation Device Roll Angle.
 type: docs
 weight: 15680
-url: /aspose.medical.dicom.tags/tag/fixationdevicerollangle/
+url: /net/aspose.medical.dicom.tags/tag/fixationdevicerollangle/
 ---
 
 ## Tag.FixationDeviceRollAngle field

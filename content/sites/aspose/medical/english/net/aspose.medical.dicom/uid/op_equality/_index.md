@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Determines whether two specified objects have the same value.
 type: docs
 weight: 5350
-url: /aspose.medical.dicom/uid/op_equality/
+url: /net/aspose.medical.dicom/uid/op_equality/
 ---
 
 ## Uid Equality operator

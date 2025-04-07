@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006862A0 VRSQ VM1 Implant Regulatory Disapproval Code Sequence.
 type: docs
 weight: 19870
-url: /aspose.medical.dicom.tags/tag/implantregulatorydisapprovalcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/implantregulatorydisapprovalcodesequence/
 ---
 
 ## Tag.ImplantRegulatoryDisapprovalCodeSequence field

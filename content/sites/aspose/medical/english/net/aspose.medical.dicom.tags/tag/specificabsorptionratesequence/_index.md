@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189239 VRSQ VM1 Specific Absorption Rate Sequence.
 type: docs
 weight: 44820
-url: /aspose.medical.dicom.tags/tag/specificabsorptionratesequence/
+url: /net/aspose.medical.dicom.tags/tag/specificabsorptionratesequence/
 ---
 
 ## Tag.SpecificAbsorptionRateSequence field

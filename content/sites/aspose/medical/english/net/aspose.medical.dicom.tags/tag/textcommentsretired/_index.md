@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40004000 VRLT VM1 Text Comments RETIRED.
 type: docs
 weight: 47810
-url: /aspose.medical.dicom.tags/tag/textcommentsretired/
+url: /net/aspose.medical.dicom.tags/tag/textcommentsretired/
 ---
 
 ## Tag.TextCommentsRETIRED field

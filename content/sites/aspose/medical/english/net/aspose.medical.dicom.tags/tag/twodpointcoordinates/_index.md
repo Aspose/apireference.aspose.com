@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686560 VRFD VM2 2D Point Coordinates.
 type: docs
 weight: 50250
-url: /aspose.medical.dicom.tags/tag/twodpointcoordinates/
+url: /net/aspose.medical.dicom.tags/tag/twodpointcoordinates/
 ---
 
 ## Tag.TwoDPointCoordinates field

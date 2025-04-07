@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144006 VRLT VM1 Pulser Notes RETIRED.
 type: docs
 weight: 33810
-url: /aspose.medical.dicom.tags/tag/pulsernotesretired/
+url: /net/aspose.medical.dicom.tags/tag/pulsernotesretired/
 ---
 
 ## Tag.PulserNotesRETIRED field

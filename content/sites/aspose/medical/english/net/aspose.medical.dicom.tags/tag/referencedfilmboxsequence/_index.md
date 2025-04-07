@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20000500 VRSQ VM1 Referenced Film Box Sequence.
 type: docs
 weight: 36380
-url: /aspose.medical.dicom.tags/tag/referencedfilmboxsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedfilmboxsequence/
 ---
 
 ## Tag.ReferencedFilmBoxSequence field

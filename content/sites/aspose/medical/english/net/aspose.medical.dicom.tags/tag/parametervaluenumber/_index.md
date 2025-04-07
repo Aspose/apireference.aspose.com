@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080067 VRUS VM1 Parameter Value Number.
 type: docs
 weight: 29560
-url: /aspose.medical.dicom.tags/tag/parametervaluenumber/
+url: /net/aspose.medical.dicom.tags/tag/parametervaluenumber/
 ---
 
 ## Tag.ParameterValueNumber field

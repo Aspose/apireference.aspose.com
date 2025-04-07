@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: DICOM File Meta Information. Read-only MetaInformationaspose.medical.dicom/metainformation.
 type: docs
 weight: 40
-url: /aspose.medical.dicom/dicomfile/metainfo/
+url: /net/aspose.medical.dicom/dicomfile/metainfo/
 ---
 
 ## DicomFile.MetaInfo property

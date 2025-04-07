@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209255 VRFD VM1 Nominal Respiratory Trigger Delay Time.
 type: docs
 weight: 25880
-url: /aspose.medical.dicom.tags/tag/nominalrespiratorytriggerdelaytime/
+url: /net/aspose.medical.dicom.tags/tag/nominalrespiratorytriggerdelaytime/
 ---
 
 ## Tag.NominalRespiratoryTriggerDelayTime field

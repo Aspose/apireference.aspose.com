@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146011 VRDS VM1-n Flash Frame Number RETIRED.
 type: docs
 weight: 15830
-url: /aspose.medical.dicom.tags/tag/flashframenumberretired/
+url: /net/aspose.medical.dicom.tags/tag/flashframenumberretired/
 ---
 
 ## Tag.FlashFrameNumberRETIRED field

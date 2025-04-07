@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040B030 VRSQ VM1 Structured Waveform Annotation Sequence.
 type: docs
 weight: 45850
-url: /aspose.medical.dicom.tags/tag/structuredwaveformannotationsequence/
+url: /net/aspose.medical.dicom.tags/tag/structuredwaveformannotationsequence/
 ---
 
 ## Tag.StructuredWaveformAnnotationSequence field

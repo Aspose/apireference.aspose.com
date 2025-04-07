@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082208 VRCS VM1 Anatomic Structure RETIRED.
 type: docs
 weight: 1580
-url: /aspose.medical.dicom.tags/tag/anatomicstructureretired/
+url: /net/aspose.medical.dicom.tags/tag/anatomicstructureretired/
 ---
 
 ## Tag.AnatomicStructureRETIRED field

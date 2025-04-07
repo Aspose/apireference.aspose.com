@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0648 VRUS VM1 Number of Parallel RT Beam Delimiters.
 type: docs
 weight: 26590
-url: /aspose.medical.dicom.tags/tag/numberofparallelrtbeamdelimiters/
+url: /net/aspose.medical.dicom.tags/tag/numberofparallelrtbeamdelimiters/
 ---
 
 ## Tag.NumberOfParallelRTBeamDelimiters field

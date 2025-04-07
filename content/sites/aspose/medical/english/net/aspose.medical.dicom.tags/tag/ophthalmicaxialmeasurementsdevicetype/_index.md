@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221009 VRCS VM1 Ophthalmic Axial Measurements Device Type.
 type: docs
 weight: 28030
-url: /aspose.medical.dicom.tags/tag/ophthalmicaxialmeasurementsdevicetype/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicaxialmeasurementsdevicetype/
 ---
 
 ## Tag.OphthalmicAxialMeasurementsDeviceType field

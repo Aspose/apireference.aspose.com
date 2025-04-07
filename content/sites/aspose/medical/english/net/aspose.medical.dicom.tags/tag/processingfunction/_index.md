@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185020 VRLO VM1 Processing Function.
 type: docs
 weight: 33500
-url: /aspose.medical.dicom.tags/tag/processingfunction/
+url: /net/aspose.medical.dicom.tags/tag/processingfunction/
 ---
 
 ## Tag.ProcessingFunction field

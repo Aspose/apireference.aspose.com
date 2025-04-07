@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00880904 VRLO VM1 Topic Title RETIRED.
 type: docs
 weight: 48800
-url: /aspose.medical.dicom.tags/tag/topictitleretired/
+url: /net/aspose.medical.dicom.tags/tag/topictitleretired/
 ---
 
 ## Tag.TopicTitleRETIRED field

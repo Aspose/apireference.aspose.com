@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660038 VRFL VM1 Recommended Line Thickness.
 type: docs
 weight: 35510
-url: /aspose.medical.dicom.tags/tag/recommendedlinethickness/
+url: /net/aspose.medical.dicom.tags/tag/recommendedlinethickness/
 ---
 
 ## Tag.RecommendedLineThickness field

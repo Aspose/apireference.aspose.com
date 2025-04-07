@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00C3 VRST VM1 Beam Description.
 type: docs
 weight: 3310
-url: /aspose.medical.dicom.tags/tag/beamdescription/
+url: /net/aspose.medical.dicom.tags/tag/beamdescription/
 ---
 
 ## Tag.BeamDescription field

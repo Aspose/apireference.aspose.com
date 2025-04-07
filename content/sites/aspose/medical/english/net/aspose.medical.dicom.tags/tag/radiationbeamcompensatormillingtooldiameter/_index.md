@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0669 VRFD VM1 Radiation Beam Compensator Milling Tool Diameter.
 type: docs
 weight: 34140
-url: /aspose.medical.dicom.tags/tag/radiationbeamcompensatormillingtooldiameter/
+url: /net/aspose.medical.dicom.tags/tag/radiationbeamcompensatormillingtooldiameter/
 ---
 
 ## Tag.RadiationBeamCompensatorMillingToolDiameter field

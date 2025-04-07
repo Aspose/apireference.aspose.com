@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741338 VRFD VM1 Double Exposure Meterset.
 type: docs
 weight: 12950
-url: /aspose.medical.dicom.tags/tag/doubleexposuremeterset/
+url: /net/aspose.medical.dicom.tags/tag/doubleexposuremeterset/
 ---
 
 ## Tag.DoubleExposureMeterset field

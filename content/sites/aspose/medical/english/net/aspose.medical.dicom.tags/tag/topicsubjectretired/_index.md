@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00880906 VRST VM1 Topic Subject RETIRED.
 type: docs
 weight: 48790
-url: /aspose.medical.dicom.tags/tag/topicsubjectretired/
+url: /net/aspose.medical.dicom.tags/tag/topicsubjectretired/
 ---
 
 ## Tag.TopicSubjectRETIRED field

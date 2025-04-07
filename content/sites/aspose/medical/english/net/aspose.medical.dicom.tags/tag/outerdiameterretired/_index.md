@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140054 VRDS VM1 Outer Diameter RETIRED.
 type: docs
 weight: 28710
-url: /aspose.medical.dicom.tags/tag/outerdiameterretired/
+url: /net/aspose.medical.dicom.tags/tag/outerdiameterretired/
 ---
 
 ## Tag.OuterDiameterRETIRED field

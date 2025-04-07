@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00089459 VRFL VM1 Recommended Display Frame Rate in Float.
 type: docs
 weight: 35470
-url: /aspose.medical.dicom.tags/tag/recommendeddisplayframerateinfloat/
+url: /net/aspose.medical.dicom.tags/tag/recommendeddisplayframerateinfloat/
 ---
 
 ## Tag.RecommendedDisplayFrameRateInFloat field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221452 VRUS or SS VM1 Mapped Pixel Value.
 type: docs
 weight: 23500
-url: /aspose.medical.dicom.tags/tag/mappedpixelvalue/
+url: /net/aspose.medical.dicom.tags/tag/mappedpixelvalue/
 ---
 
 ## Tag.MappedPixelValue field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100048 VRCS VM1-n Brachytherapy Source Type.
 type: docs
 weight: 4540
-url: /aspose.medical.dicom.tags/tag/brachytherapysourcetype/
+url: /net/aspose.medical.dicom.tags/tag/brachytherapysourcetype/
 ---
 
 ## Tag.BrachytherapySourceType field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187012 VRDS VM1 Detector Time Since Last Exposure.
 type: docs
 weight: 11190
-url: /aspose.medical.dicom.tags/tag/detectortimesincelastexposure/
+url: /net/aspose.medical.dicom.tags/tag/detectortimesincelastexposure/
 ---
 
 ## Tag.DetectorTimeSinceLastExposure field

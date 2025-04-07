@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221517 VRFL VM1 Ophthalmic FOV.
 type: docs
 weight: 28090
-url: /aspose.medical.dicom.tags/tag/ophthalmicfov/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicfov/
 ---
 
 ## Tag.OphthalmicFOV field

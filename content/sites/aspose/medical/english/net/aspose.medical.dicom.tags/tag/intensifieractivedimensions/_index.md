@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189428 VRFL VM1-2 Intensifier Active Dimensions.
 type: docs
 weight: 20750
-url: /aspose.medical.dicom.tags/tag/intensifieractivedimensions/
+url: /net/aspose.medical.dicom.tags/tag/intensifieractivedimensions/
 ---
 
 ## Tag.IntensifierActiveDimensions field

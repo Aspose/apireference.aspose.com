@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 40
-url: /aspose.medical.dicom.lookuptables/precalculatedlookuptable/maximum/
+url: /net/aspose.medical.dicom.lookuptables/precalculatedlookuptable/maximum/
 ---
 
 ## PrecalculatedLookUpTable.Maximum property

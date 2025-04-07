@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189913 VRSQ VM1 Parameters Specification Sequence.
 type: docs
 weight: 29550
-url: /aspose.medical.dicom.tags/tag/parametersspecificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/parametersspecificationsequence/
 ---
 
 ## Tag.ParametersSpecificationSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates basic functionality for multivalued text VRs that holds a number.
 type: docs
 weight: 320
-url: /aspose.medical.dicom.elements/numericmultivaluetextelement-1/
+url: /net/aspose.medical.dicom.elements/numericmultivaluetextelement-1/
 ---
 
 ## NumericMultiValueTextElement&lt;T&gt; class

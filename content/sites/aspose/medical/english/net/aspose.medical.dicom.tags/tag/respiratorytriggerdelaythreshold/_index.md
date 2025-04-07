@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209256 VRFD VM1 Respiratory Trigger Delay Threshold.
 type: docs
 weight: 39020
-url: /aspose.medical.dicom.tags/tag/respiratorytriggerdelaythreshold/
+url: /net/aspose.medical.dicom.tags/tag/respiratorytriggerdelaythreshold/
 ---
 
 ## Tag.RespiratoryTriggerDelayThreshold field

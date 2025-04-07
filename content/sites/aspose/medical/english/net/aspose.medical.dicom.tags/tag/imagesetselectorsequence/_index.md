@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720022 VRSQ VM1 Image Set Selector Sequence.
 type: docs
 weight: 19520
-url: /aspose.medical.dicom.tags/tag/imagesetselectorsequence/
+url: /net/aspose.medical.dicom.tags/tag/imagesetselectorsequence/
 ---
 
 ## Tag.ImageSetSelectorSequence field

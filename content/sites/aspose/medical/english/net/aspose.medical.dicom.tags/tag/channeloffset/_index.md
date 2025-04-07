@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0218 VRDS VM1 Channel Offset.
 type: docs
 weight: 5560
-url: /aspose.medical.dicom.tags/tag/channeloffset/
+url: /net/aspose.medical.dicom.tags/tag/channeloffset/
 ---
 
 ## Tag.ChannelOffset field

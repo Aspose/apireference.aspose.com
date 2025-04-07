@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720406 VRCS VM1 Filter-by Operator.
 type: docs
 weight: 15330
-url: /aspose.medical.dicom.tags/tag/filterbyoperator/
+url: /net/aspose.medical.dicom.tags/tag/filterbyoperator/
 ---
 
 ## Tag.FilterByOperator field

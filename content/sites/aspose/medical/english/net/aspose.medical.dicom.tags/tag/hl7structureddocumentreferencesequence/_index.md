@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A390 VRSQ VM1 HL7 Structured Document Reference Sequence.
 type: docs
 weight: 18450
-url: /aspose.medical.dicom.tags/tag/hl7structureddocumentreferencesequence/
+url: /net/aspose.medical.dicom.tags/tag/hl7structureddocumentreferencesequence/
 ---
 
 ## Tag.HL7StructuredDocumentReferenceSequence field

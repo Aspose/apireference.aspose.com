@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040DB0B VRCS VM1 Template Extension Flag RETIRED.
 type: docs
 weight: 47520
-url: /aspose.medical.dicom.tags/tag/templateextensionflagretired/
+url: /net/aspose.medical.dicom.tags/tag/templateextensionflagretired/
 ---
 
 ## Tag.TemplateExtensionFlagRETIRED field

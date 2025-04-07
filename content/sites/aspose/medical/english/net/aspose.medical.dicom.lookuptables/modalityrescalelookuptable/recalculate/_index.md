@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 80
-url: /aspose.medical.dicom.lookuptables/modalityrescalelookuptable/recalculate/
+url: /net/aspose.medical.dicom.lookuptables/modalityrescalelookuptable/recalculate/
 ---
 
 ## ModalityRescaleLookUpTable.Recalculate method

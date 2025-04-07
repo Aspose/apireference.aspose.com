@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Basic Structured Display Storage.
 type: docs
 weight: 190
-url: /aspose.medical.dicom/uid/basicstructureddisplaystorage/
+url: /net/aspose.medical.dicom/uid/basicstructureddisplaystorage/
 ---
 
 ## Uid.BasicStructuredDisplayStorage field

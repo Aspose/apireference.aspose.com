@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Attribute Tag AT VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextAT-Attribute20Tag-Ordered20pair20of.
 type: docs
 weight: 160
-url: /aspose.medical.dicom.elements/attributetag/
+url: /net/aspose.medical.dicom.elements/attributetag/
 ---
 
 ## AttributeTag class

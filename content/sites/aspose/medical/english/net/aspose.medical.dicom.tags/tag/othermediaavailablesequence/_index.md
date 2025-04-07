@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 200000A4 VRSQ VM1 Other Media Available Sequence.
 type: docs
 weight: 28630
-url: /aspose.medical.dicom.tags/tag/othermediaavailablesequence/
+url: /net/aspose.medical.dicom.tags/tag/othermediaavailablesequence/
 ---
 
 ## Tag.OtherMediaAvailableSequence field

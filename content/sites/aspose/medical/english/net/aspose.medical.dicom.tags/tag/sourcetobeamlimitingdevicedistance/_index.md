@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00BA VRDS VM1 Source to Beam Limiting Device Distance.
 type: docs
 weight: 44560
-url: /aspose.medical.dicom.tags/tag/sourcetobeamlimitingdevicedistance/
+url: /net/aspose.medical.dicom.tags/tag/sourcetobeamlimitingdevicedistance/
 ---
 
 ## Tag.SourceToBeamLimitingDeviceDistance field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145117 VRDS VM1 Wedge Front Gap RETIRED.
 type: docs
 weight: 52150
-url: /aspose.medical.dicom.tags/tag/wedgefrontgapretired/
+url: /net/aspose.medical.dicom.tags/tag/wedgefrontgapretired/
 ---
 
 ## Tag.WedgeFrontGapRETIRED field

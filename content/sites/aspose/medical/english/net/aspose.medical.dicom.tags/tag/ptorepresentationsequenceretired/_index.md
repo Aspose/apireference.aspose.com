@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101037 VRSQ VM1 PTO Representation Sequence RETIRED.
 type: docs
 weight: 33760
-url: /aspose.medical.dicom.tags/tag/ptorepresentationsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/ptorepresentationsequenceretired/
 ---
 
 ## Tag.PTORepresentationSequenceRETIRED field

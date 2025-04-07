@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189037 VRCS VM1 Cardiac Synchronization Technique.
 type: docs
 weight: 5110
-url: /aspose.medical.dicom.tags/tag/cardiacsynchronizationtechnique/
+url: /net/aspose.medical.dicom.tags/tag/cardiacsynchronizationtechnique/
 ---
 
 ## Tag.CardiacSynchronizationTechnique field

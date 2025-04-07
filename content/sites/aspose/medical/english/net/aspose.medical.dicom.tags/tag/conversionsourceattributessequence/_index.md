@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209172 VRSQ VM1 Conversion Source Attributes Sequence.
 type: docs
 weight: 8570
-url: /aspose.medical.dicom.tags/tag/conversionsourceattributessequence/
+url: /net/aspose.medical.dicom.tags/tag/conversionsourceattributessequence/
 ---
 
 ## Tag.ConversionSourceAttributesSequence field

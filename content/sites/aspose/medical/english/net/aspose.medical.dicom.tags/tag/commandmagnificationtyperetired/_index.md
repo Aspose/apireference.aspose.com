@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00005180 VRCS VM1 Command Magnification Type RETIRED.
 type: docs
 weight: 6550
-url: /aspose.medical.dicom.tags/tag/commandmagnificationtyperetired/
+url: /net/aspose.medical.dicom.tags/tag/commandmagnificationtyperetired/
 ---
 
 ## Tag.CommandMagnificationTypeRETIRED field

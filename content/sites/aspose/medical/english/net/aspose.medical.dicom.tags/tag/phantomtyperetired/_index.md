@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101046 VRCS VM1 Phantom Type RETIRED.
 type: docs
 weight: 31070
-url: /aspose.medical.dicom.tags/tag/phantomtyperetired/
+url: /net/aspose.medical.dicom.tags/tag/phantomtyperetired/
 ---
 
 ## Tag.PhantomTypeRETIRED field

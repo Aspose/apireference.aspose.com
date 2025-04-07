@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146041 VRDS VM1 Aperture Size RETIRED.
 type: docs
 weight: 1990
-url: /aspose.medical.dicom.tags/tag/aperturesizeretired/
+url: /net/aspose.medical.dicom.tags/tag/aperturesizeretired/
 ---
 
 ## Tag.ApertureSizeRETIRED field

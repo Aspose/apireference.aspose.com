@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A002A VRDS VM1 Organ at Risk Full-volume Dose.
 type: docs
 weight: 28430
-url: /aspose.medical.dicom.tags/tag/organatriskfullvolumedose/
+url: /net/aspose.medical.dicom.tags/tag/organatriskfullvolumedose/
 ---
 
 ## Tag.OrganAtRiskFullVolumeDose field

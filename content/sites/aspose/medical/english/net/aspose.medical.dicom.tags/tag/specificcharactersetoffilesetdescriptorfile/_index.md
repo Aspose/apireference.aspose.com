@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041142 VRCS VM1 Specific Character Set of File-set Descriptor File.
 type: docs
 weight: 44860
-url: /aspose.medical.dicom.tags/tag/specificcharactersetoffilesetdescriptorfile/
+url: /net/aspose.medical.dicom.tags/tag/specificcharactersetoffilesetdescriptorfile/
 ---
 
 ## Tag.SpecificCharacterSetOfFileSetDescriptorFile field

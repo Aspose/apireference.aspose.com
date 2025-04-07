@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Invalid/Unknown Uidaspose.medical.dicom/uid. Read-only Uidaspose.medical.dicom/uid.
 type: docs
 weight: 10
-url: /aspose.medical.dicom/uid/unknown/
+url: /net/aspose.medical.dicom/uid/unknown/
 ---
 
 ## Uid.Unknown property

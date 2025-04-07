@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0354 VRLO VM1 Patient Support Accessory Code.
 type: docs
 weight: 30210
-url: /aspose.medical.dicom.tags/tag/patientsupportaccessorycode/
+url: /net/aspose.medical.dicom.tags/tag/patientsupportaccessorycode/
 ---
 
 ## Tag.PatientSupportAccessoryCode field

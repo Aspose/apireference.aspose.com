@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax JPEG Extended Process 2 amp 4 Default Transfer Syntax for Lossy JPEG 12 Bit Image Compression Process 4 only.
 type: docs
 weight: 2200
-url: /aspose.medical.dicom/uid/jpegextended24/
+url: /net/aspose.medical.dicom/uid/jpegextended24/
 ---
 
 ## Uid.JpegExtended24 field

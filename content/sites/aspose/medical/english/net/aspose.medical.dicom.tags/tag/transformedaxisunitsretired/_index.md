@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142228 VRCS VM1 Transformed Axis Units RETIRED.
 type: docs
 weight: 49420
-url: /aspose.medical.dicom.tags/tag/transformedaxisunitsretired/
+url: /net/aspose.medical.dicom.tags/tag/transformedaxisunitsretired/
 ---
 
 ## Tag.TransformedAxisUnitsRETIRED field

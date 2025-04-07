@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460251 VRFL VM1 Refractive Power.
 type: docs
 weight: 37980
-url: /aspose.medical.dicom.tags/tag/refractivepower/
+url: /net/aspose.medical.dicom.tags/tag/refractivepower/
 ---
 
 ## Tag.RefractivePower field

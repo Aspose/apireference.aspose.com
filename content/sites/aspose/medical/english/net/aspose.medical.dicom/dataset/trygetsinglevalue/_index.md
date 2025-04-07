@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Gets the element value of the specified tag whose value multiplicity has to be
 type: docs
 weight: 180
-url: /aspose.medical.dicom/dataset/trygetsinglevalue/
+url: /net/aspose.medical.dicom/dataset/trygetsinglevalue/
 ---
 
 ## Dataset.TryGetSingleValue&lt;T&gt; method

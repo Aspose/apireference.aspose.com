@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 54001004 VRUS VM1 Waveform Bits Allocated.
 type: docs
 weight: 51920
-url: /aspose.medical.dicom.tags/tag/waveformbitsallocated/
+url: /net/aspose.medical.dicom.tags/tag/waveformbitsallocated/
 ---
 
 ## Tag.WaveformBitsAllocated field

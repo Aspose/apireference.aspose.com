@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080114 VRST VM1 Coding Scheme External ID.
 type: docs
 weight: 6120
-url: /aspose.medical.dicom.tags/tag/codingschemeexternalid/
+url: /net/aspose.medical.dicom.tags/tag/codingschemeexternalid/
 ---
 
 ## Tag.CodingSchemeExternalID field

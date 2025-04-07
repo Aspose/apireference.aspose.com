@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060026 VRLO VM1 ROI Name.
 type: docs
 weight: 39510
-url: /aspose.medical.dicom.tags/tag/roiname/
+url: /net/aspose.medical.dicom.tags/tag/roiname/
 ---
 
 ## Tag.ROIName field

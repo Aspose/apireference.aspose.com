@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401005 VRLO VM1 Requested Procedure Location.
 type: docs
 weight: 38740
-url: /aspose.medical.dicom.tags/tag/requestedprocedurelocation/
+url: /net/aspose.medical.dicom.tags/tag/requestedprocedurelocation/
 ---
 
 ## Tag.RequestedProcedureLocation field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0007 VRTM VM1 RT Plan Time.
 type: docs
 weight: 40380
-url: /aspose.medical.dicom.tags/tag/rtplantime/
+url: /net/aspose.medical.dicom.tags/tag/rtplantime/
 ---
 
 ## Tag.RTPlanTime field

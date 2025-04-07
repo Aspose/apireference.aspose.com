@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A806 VRSQ VM1 Table Row Definition Sequence.
 type: docs
 weight: 46890
-url: /aspose.medical.dicom.tags/tag/tablerowdefinitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/tablerowdefinitionsequence/
 ---
 
 ## Tag.TableRowDefinitionSequence field

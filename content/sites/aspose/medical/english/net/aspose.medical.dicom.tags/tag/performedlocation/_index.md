@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400243 VRSH VM1 Performed Location.
 type: docs
 weight: 30600
-url: /aspose.medical.dicom.tags/tag/performedlocation/
+url: /net/aspose.medical.dicom.tags/tag/performedlocation/
 ---
 
 ## Tag.PerformedLocation field

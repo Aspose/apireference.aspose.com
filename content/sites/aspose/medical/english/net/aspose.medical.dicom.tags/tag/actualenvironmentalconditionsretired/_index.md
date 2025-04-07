@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00141010 VRST VM1 Actual Environmental Conditions RETIRED.
 type: docs
 weight: 750
-url: /aspose.medical.dicom.tags/tag/actualenvironmentalconditionsretired/
+url: /net/aspose.medical.dicom.tags/tag/actualenvironmentalconditionsretired/
 ---
 
 ## Tag.ActualEnvironmentalConditionsRETIRED field

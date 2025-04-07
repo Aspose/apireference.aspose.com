@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541105 VRLO VM1 Scatter Correction Method.
 type: docs
 weight: 41230
-url: /aspose.medical.dicom.tags/tag/scattercorrectionmethod/
+url: /net/aspose.medical.dicom.tags/tag/scattercorrectionmethod/
 ---
 
 ## Tag.ScatterCorrectionMethod field

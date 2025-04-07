@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240320 VRSQ VM1 Visual Field Global Results Index Sequence.
 type: docs
 weight: 51410
-url: /aspose.medical.dicom.tags/tag/visualfieldglobalresultsindexsequence/
+url: /net/aspose.medical.dicom.tags/tag/visualfieldglobalresultsindexsequence/
 ---
 
 ## Tag.VisualFieldGlobalResultsIndexSequence field

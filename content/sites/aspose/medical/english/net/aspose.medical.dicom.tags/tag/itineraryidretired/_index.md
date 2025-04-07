@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101051 VRLO VM1 Itinerary ID RETIRED.
 type: docs
 weight: 21990
-url: /aspose.medical.dicom.tags/tag/itineraryidretired/
+url: /net/aspose.medical.dicom.tags/tag/itineraryidretired/
 ---
 
 ## Tag.ItineraryIDRETIRED field

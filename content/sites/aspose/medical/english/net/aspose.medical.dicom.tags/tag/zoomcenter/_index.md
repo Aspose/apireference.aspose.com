@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280032 VRDS VM2 Zoom Center.
 type: docs
 weight: 53010
-url: /aspose.medical.dicom.tags/tag/zoomcenter/
+url: /net/aspose.medical.dicom.tags/tag/zoomcenter/
 ---
 
 ## Tag.ZoomCenter field

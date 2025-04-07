@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0601 VRUS VM1 Radiation Generation Mode Index.
 type: docs
 weight: 34340
-url: /aspose.medical.dicom.tags/tag/radiationgenerationmodeindex/
+url: /net/aspose.medical.dicom.tags/tag/radiationgenerationmodeindex/
 ---
 
 ## Tag.RadiationGenerationModeIndex field

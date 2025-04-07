@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Ophthalmic Optical Coherence Tomography B-scan Volume Analysis Storage.
 type: docs
 weight: 2840
-url: /aspose.medical.dicom/uid/ophthalmicopticalcoherencetomographybscanvolumeanalysisstorage/
+url: /net/aspose.medical.dicom/uid/ophthalmicopticalcoherencetomographybscanvolumeanalysisstorage/
 ---
 
 ## Uid.OphthalmicOpticalCoherenceTomographyBScanVolumeAnalysisStorage field

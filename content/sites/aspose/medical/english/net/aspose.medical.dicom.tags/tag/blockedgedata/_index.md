@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A066B VROF VM1 Block Edge Data.
 type: docs
 weight: 4010
-url: /aspose.medical.dicom.tags/tag/blockedgedata/
+url: /net/aspose.medical.dicom.tags/tag/blockedgedata/
 ---
 
 ## Tag.BlockEdgeData field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0619 VRLO VM1 Radiation Dose Identification Label.
 type: docs
 weight: 34220
-url: /aspose.medical.dicom.tags/tag/radiationdoseidentificationlabel/
+url: /net/aspose.medical.dicom.tags/tag/radiationdoseidentificationlabel/
 ---
 
 ## Tag.RadiationDoseIdentificationLabel field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: A collection of specific character set used to serialize / deserialize this text element data. Read/Write IReadOnlyCollection of Encoding.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/encodablemultivaluedtextelement/serializationencodings/
+url: /net/aspose.medical.dicom.elements/encodablemultivaluedtextelement/serializationencodings/
 ---
 
 ## EncodableMultiValuedTextElement.SerializationEncodings property

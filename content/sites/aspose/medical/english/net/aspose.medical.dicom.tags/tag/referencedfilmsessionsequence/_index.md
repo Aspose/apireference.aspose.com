@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100500 VRSQ VM1 Referenced Film Session Sequence.
 type: docs
 weight: 36390
-url: /aspose.medical.dicom.tags/tag/referencedfilmsessionsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedfilmsessionsequence/
 ---
 
 ## Tag.ReferencedFilmSessionSequence field

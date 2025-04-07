@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820006 VRUL VM1 Number of Assessment Observations.
 type: docs
 weight: 26080
-url: /aspose.medical.dicom.tags/tag/numberofassessmentobservations/
+url: /net/aspose.medical.dicom.tags/tag/numberofassessmentobservations/
 ---
 
 ## Tag.NumberOfAssessmentObservations field

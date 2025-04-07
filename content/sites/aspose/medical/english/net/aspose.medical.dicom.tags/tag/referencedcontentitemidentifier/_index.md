@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040DB73 VRUL VM1-n Referenced Content Item Identifier.
 type: docs
 weight: 36180
-url: /aspose.medical.dicom.tags/tag/referencedcontentitemidentifier/
+url: /net/aspose.medical.dicom.tags/tag/referencedcontentitemidentifier/
 ---
 
 ## Tag.ReferencedContentItemIdentifier field

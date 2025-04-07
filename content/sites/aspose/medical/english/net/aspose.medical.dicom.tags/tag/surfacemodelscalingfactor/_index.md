@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686390 VRFD VM1 Surface Model Scaling Factor.
 type: docs
 weight: 46380
-url: /aspose.medical.dicom.tags/tag/surfacemodelscalingfactor/
+url: /net/aspose.medical.dicom.tags/tag/surfacemodelscalingfactor/
 ---
 
 ## Tag.SurfaceModelScalingFactor field

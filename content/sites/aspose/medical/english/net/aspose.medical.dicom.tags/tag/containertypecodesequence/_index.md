@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400518 VRSQ VM1 Container Type Code Sequence.
 type: docs
 weight: 7840
-url: /aspose.medical.dicom.tags/tag/containertypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/containertypecodesequence/
 ---
 
 ## Tag.ContainerTypeCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx0030 VRSH VM1-n Axis Units RETIRED.
 type: docs
 weight: 3130
-url: /aspose.medical.dicom.tags/tag/axisunitsretired/
+url: /net/aspose.medical.dicom.tags/tag/axisunitsretired/
 ---
 
 ## Tag.AxisUnitsRETIRED field

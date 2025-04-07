@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700066 VRUS VM1 Graphic Layer Recommended Display Grayscale Value.
 type: docs
 weight: 17900
-url: /aspose.medical.dicom.tags/tag/graphiclayerrecommendeddisplaygrayscalevalue/
+url: /net/aspose.medical.dicom.tags/tag/graphiclayerrecommendeddisplaygrayscalevalue/
 ---
 
 ## Tag.GraphicLayerRecommendedDisplayGrayscaleValue field

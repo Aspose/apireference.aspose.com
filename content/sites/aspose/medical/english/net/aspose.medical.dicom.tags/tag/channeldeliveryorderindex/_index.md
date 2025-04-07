@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0074140C VRIS VM1 Channel Delivery Order Index.
 type: docs
 weight: 5410
-url: /aspose.medical.dicom.tags/tag/channeldeliveryorderindex/
+url: /net/aspose.medical.dicom.tags/tag/channeldeliveryorderindex/
 ---
 
 ## Tag.ChannelDeliveryOrderIndex field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Indicates whether the transfer syntax represents deflatable objects. Read-only Boolean.
 type: docs
 weight: 600
-url: /aspose.medical.dicom/transfersyntax/isdeflate/
+url: /net/aspose.medical.dicom/transfersyntax/isdeflate/
 ---
 
 ## TransferSyntax.IsDeflate property

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240032 VRSQ VM1 Fixation Sequence.
 type: docs
 weight: 15780
-url: /aspose.medical.dicom.tags/tag/fixationsequence/
+url: /net/aspose.medical.dicom.tags/tag/fixationsequence/
 ---
 
 ## Tag.FixationSequence field

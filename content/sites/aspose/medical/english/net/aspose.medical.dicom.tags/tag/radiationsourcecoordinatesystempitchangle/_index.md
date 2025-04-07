@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100096 VRFD VM1 Radiation Source Coordinate System Pitch Angle.
 type: docs
 weight: 34460
-url: /aspose.medical.dicom.tags/tag/radiationsourcecoordinatesystempitchangle/
+url: /net/aspose.medical.dicom.tags/tag/radiationsourcecoordinatesystempitchangle/
 ---
 
 ## Tag.RadiationSourceCoordinateSystemPitchAngle field

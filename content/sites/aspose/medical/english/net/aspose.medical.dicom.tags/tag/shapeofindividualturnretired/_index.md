@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146031 VRCS VM1 Shape of Individual Turn RETIRED.
 type: docs
 weight: 43130
-url: /aspose.medical.dicom.tags/tag/shapeofindividualturnretired/
+url: /net/aspose.medical.dicom.tags/tag/shapeofindividualturnretired/
 ---
 
 ## Tag.ShapeOfIndividualTurnRETIRED field

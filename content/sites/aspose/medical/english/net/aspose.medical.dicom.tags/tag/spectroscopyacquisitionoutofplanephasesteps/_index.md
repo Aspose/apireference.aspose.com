@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189159 VRUL VM1 Spectroscopy Acquisition Out-of-plane Phase Steps.
 type: docs
 weight: 45150
-url: /aspose.medical.dicom.tags/tag/spectroscopyacquisitionoutofplanephasesteps/
+url: /net/aspose.medical.dicom.tags/tag/spectroscopyacquisitionoutofplanephasesteps/
 ---
 
 ## Tag.SpectroscopyAcquisitionOutOfPlanePhaseSteps field

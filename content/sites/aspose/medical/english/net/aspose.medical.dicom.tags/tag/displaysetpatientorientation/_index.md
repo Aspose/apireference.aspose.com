@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720700 VRCS VM2 Display Set Patient Orientation.
 type: docs
 weight: 12180
-url: /aspose.medical.dicom.tags/tag/displaysetpatientorientation/
+url: /net/aspose.medical.dicom.tags/tag/displaysetpatientorientation/
 ---
 
 ## Tag.DisplaySetPatientOrientation field

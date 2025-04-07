@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720020 VRSQ VM1 Image Sets Sequence.
 type: docs
 weight: 19540
-url: /aspose.medical.dicom.tags/tag/imagesetssequence/
+url: /net/aspose.medical.dicom.tags/tag/imagesetssequence/
 ---
 
 ## Tag.ImageSetsSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700253 VRFL VM1 Line Thickness.
 type: docs
 weight: 22860
-url: /aspose.medical.dicom.tags/tag/linethickness/
+url: /net/aspose.medical.dicom.tags/tag/linethickness/
 ---
 
 ## Tag.LineThickness field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A022C VRDA VM1 Source Strength Reference Date.
 type: docs
 weight: 44520
-url: /aspose.medical.dicom.tags/tag/sourcestrengthreferencedate/
+url: /net/aspose.medical.dicom.tags/tag/sourcestrengthreferencedate/
 ---
 
 ## Tag.SourceStrengthReferenceDate field

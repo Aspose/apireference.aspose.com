@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A079C VRSQ VM1 Patient Support Displacement Sequence.
 type: docs
 weight: 30260
-url: /aspose.medical.dicom.tags/tag/patientsupportdisplacementsequence/
+url: /net/aspose.medical.dicom.tags/tag/patientsupportdisplacementsequence/
 ---
 
 ## Tag.PatientSupportDisplacementSequence field

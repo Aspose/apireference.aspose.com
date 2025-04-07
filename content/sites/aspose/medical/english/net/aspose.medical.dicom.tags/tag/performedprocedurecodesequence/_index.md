@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A372 VRSQ VM1 Performed Procedure Code Sequence.
 type: docs
 weight: 30610
-url: /aspose.medical.dicom.tags/tag/performedprocedurecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/performedprocedurecodesequence/
 ---
 
 ## Tag.PerformedProcedureCodeSequence field

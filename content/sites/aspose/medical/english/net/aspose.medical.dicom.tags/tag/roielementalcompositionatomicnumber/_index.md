@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300600B7 VRUS VM1 ROI Elemental Composition Atomic Number.
 type: docs
 weight: 39440
-url: /aspose.medical.dicom.tags/tag/roielementalcompositionatomicnumber/
+url: /net/aspose.medical.dicom.tags/tag/roielementalcompositionatomicnumber/
 ---
 
 ## Tag.ROIElementalCompositionAtomicNumber field

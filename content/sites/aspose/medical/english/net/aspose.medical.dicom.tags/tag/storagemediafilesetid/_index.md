@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00880130 VRSH VM1 Storage Media File-set ID.
 type: docs
 weight: 45640
-url: /aspose.medical.dicom.tags/tag/storagemediafilesetid/
+url: /net/aspose.medical.dicom.tags/tag/storagemediafilesetid/
 ---
 
 ## Tag.StorageMediaFileSetID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00201020 VRLO VM1-n Reference RETIRED.
 type: docs
 weight: 37820
-url: /aspose.medical.dicom.tags/tag/referenceretired/
+url: /net/aspose.medical.dicom.tags/tag/referenceretired/
 ---
 
 ## Tag.ReferenceRETIRED field

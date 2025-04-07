@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220055 VRFL VM1 Illumination Wave Length.
 type: docs
 weight: 18850
-url: /aspose.medical.dicom.tags/tag/illuminationwavelength/
+url: /net/aspose.medical.dicom.tags/tag/illuminationwavelength/
 ---
 
 ## Tag.IlluminationWaveLength field

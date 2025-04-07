@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460115 VRFD VM1 Corneal Axis.
 type: docs
 weight: 8770
-url: /aspose.medical.dicom.tags/tag/cornealaxis/
+url: /net/aspose.medical.dicom.tags/tag/cornealaxis/
 ---
 
 ## Tag.CornealAxis field

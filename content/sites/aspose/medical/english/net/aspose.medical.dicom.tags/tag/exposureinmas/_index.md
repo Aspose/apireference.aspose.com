@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189332 VRFD VM1 Exposure in mAs.
 type: docs
 weight: 14550
-url: /aspose.medical.dicom.tags/tag/exposureinmas/
+url: /net/aspose.medical.dicom.tags/tag/exposureinmas/
 ---
 
 ## Tag.ExposureInmAs field

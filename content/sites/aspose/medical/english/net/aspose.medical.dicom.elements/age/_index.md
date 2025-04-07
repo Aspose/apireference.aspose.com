@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates Age in the AgeString VR.
 type: docs
 weight: 120
-url: /aspose.medical.dicom.elements/age/
+url: /net/aspose.medical.dicom.elements/age/
 ---
 
 ## Age class

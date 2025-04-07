@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100091 VRSQ VM1 Robotic Path Node Set Code Sequence.
 type: docs
 weight: 39350
-url: /aspose.medical.dicom.tags/tag/roboticpathnodesetcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/roboticpathnodesetcodesequence/
 ---
 
 ## Tag.RoboticPathNodeSetCodeSequence field

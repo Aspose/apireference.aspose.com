@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460135 VRSS VM2 Visual Acuity Modifiers.
 type: docs
 weight: 51340
-url: /aspose.medical.dicom.tags/tag/visualacuitymodifiers/
+url: /net/aspose.medical.dicom.tags/tag/visualacuitymodifiers/
 ---
 
 ## Tag.VisualAcuityModifiers field

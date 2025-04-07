@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0076000A VRCS VM1 Implant Assembly Template Type.
 type: docs
 weight: 19830
-url: /aspose.medical.dicom.tags/tag/implantassemblytemplatetype/
+url: /net/aspose.medical.dicom.tags/tag/implantassemblytemplatetype/
 ---
 
 ## Tag.ImplantAssemblyTemplateType field

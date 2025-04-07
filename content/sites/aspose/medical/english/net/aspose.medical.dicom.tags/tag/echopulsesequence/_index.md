@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189008 VRCS VM1 Echo Pulse Sequence.
 type: docs
 weight: 13230
-url: /aspose.medical.dicom.tags/tag/echopulsesequence/
+url: /net/aspose.medical.dicom.tags/tag/echopulsesequence/
 ---
 
 ## Tag.EchoPulseSequence field

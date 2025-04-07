@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class X-Ray Radiofluoroscopic Image Storage.
 type: docs
 weight: 5240
-url: /aspose.medical.dicom/uid/xrayradiofluoroscopicimagestorage/
+url: /net/aspose.medical.dicom/uid/xrayradiofluoroscopicimagestorage/
 ---
 
 ## Uid.XRayRadiofluoroscopicImageStorage field

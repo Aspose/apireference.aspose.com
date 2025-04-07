@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Study Root Query/Retrieve Information Model - FIND.
 type: docs
 weight: 4510
-url: /aspose.medical.dicom/uid/studyrootqueryretrieveinformationmodelfind/
+url: /net/aspose.medical.dicom/uid/studyrootqueryretrieveinformationmodelfind/
 ---
 
 ## Uid.StudyRootQueryRetrieveInformationModelFIND field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Multi-frame Single Bit Secondary Capture Image Storage.
 type: docs
 weight: 2760
-url: /aspose.medical.dicom/uid/multiframesinglebitsecondarycaptureimagestorage/
+url: /net/aspose.medical.dicom/uid/multiframesinglebitsecondarycaptureimagestorage/
 ---
 
 ## Uid.MultiFrameSingleBitSecondaryCaptureImageStorage field

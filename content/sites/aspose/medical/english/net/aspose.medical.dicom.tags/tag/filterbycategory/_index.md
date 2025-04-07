@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720402 VRCS VM1 Filter-by Category.
 type: docs
 weight: 15320
-url: /aspose.medical.dicom.tags/tag/filterbycategory/
+url: /net/aspose.medical.dicom.tags/tag/filterbycategory/
 ---
 
 ## Tag.FilterByCategory field

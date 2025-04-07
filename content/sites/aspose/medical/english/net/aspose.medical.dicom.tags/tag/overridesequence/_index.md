@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080060 VRSQ VM1 Override Sequence.
 type: docs
 weight: 29310
-url: /aspose.medical.dicom.tags/tag/overridesequence/
+url: /net/aspose.medical.dicom.tags/tag/overridesequence/
 ---
 
 ## Tag.OverrideSequence field

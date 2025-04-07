@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A040 VRCS VM1 Value Type.
 type: docs
 weight: 50700
-url: /aspose.medical.dicom.tags/tag/valuetype/
+url: /net/aspose.medical.dicom.tags/tag/valuetype/
 ---
 
 ## Tag.ValueType field

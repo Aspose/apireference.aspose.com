@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0050001C VRFD VM1 Container Component Length.
 type: docs
 weight: 7750
-url: /aspose.medical.dicom.tags/tag/containercomponentlength/
+url: /net/aspose.medical.dicom.tags/tag/containercomponentlength/
 ---
 
 ## Tag.ContainerComponentLength field

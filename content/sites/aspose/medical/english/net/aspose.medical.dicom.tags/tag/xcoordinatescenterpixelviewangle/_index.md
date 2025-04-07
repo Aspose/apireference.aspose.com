@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221528 VRFL VM1 X Coordinates Center Pixel View Angle.
 type: docs
 weight: 52630
-url: /aspose.medical.dicom.tags/tag/xcoordinatescenterpixelviewangle/
+url: /net/aspose.medical.dicom.tags/tag/xcoordinatescenterpixelviewangle/
 ---
 
 ## Tag.XCoordinatesCenterPixelViewAngle field

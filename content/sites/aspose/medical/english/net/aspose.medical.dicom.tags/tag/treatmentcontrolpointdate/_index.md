@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080024 VRDA VM1 Treatment Control Point Date.
 type: docs
 weight: 49590
-url: /aspose.medical.dicom.tags/tag/treatmentcontrolpointdate/
+url: /net/aspose.medical.dicom.tags/tag/treatmentcontrolpointdate/
 ---
 
 ## Tag.TreatmentControlPointDate field

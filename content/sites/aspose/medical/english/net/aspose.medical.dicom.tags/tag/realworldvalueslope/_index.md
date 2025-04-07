@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00409225 VRFD VM1 Real World Value Slope.
 type: docs
 weight: 35090
-url: /aspose.medical.dicom.tags/tag/realworldvalueslope/
+url: /net/aspose.medical.dicom.tags/tag/realworldvalueslope/
 ---
 
 ## Tag.RealWorldValueSlope field

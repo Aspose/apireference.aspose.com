@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460075 VRFD VM1 Radius of Curvature.
 type: docs
 weight: 34760
-url: /aspose.medical.dicom.tags/tag/radiusofcurvature/
+url: /net/aspose.medical.dicom.tags/tag/radiusofcurvature/
 ---
 
 ## Tag.RadiusOfCurvature field

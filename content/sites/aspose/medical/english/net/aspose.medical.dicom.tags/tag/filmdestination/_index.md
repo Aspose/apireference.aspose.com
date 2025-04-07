@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20000040 VRCS VM1 Film Destination.
 type: docs
 weight: 15250
-url: /aspose.medical.dicom.tags/tag/filmdestination/
+url: /net/aspose.medical.dicom.tags/tag/filmdestination/
 ---
 
 ## Tag.FilmDestination field

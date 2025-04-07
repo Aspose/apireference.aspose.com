@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281404 VRSQ VM1 Blending LUT 1 Sequence.
 type: docs
 weight: 3850
-url: /aspose.medical.dicom.tags/tag/blendinglut1sequence/
+url: /net/aspose.medical.dicom.tags/tag/blendinglut1sequence/
 ---
 
 ## Tag.BlendingLUT1Sequence field

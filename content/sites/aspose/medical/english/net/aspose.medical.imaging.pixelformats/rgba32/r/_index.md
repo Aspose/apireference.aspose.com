@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Gets or sets the red component.
 type: docs
 weight: 70
-url: /aspose.medical.imaging.pixelformats/rgba32/r/
+url: /net/aspose.medical.imaging.pixelformats/rgba32/r/
 ---
 
 ## Rgba32.R field

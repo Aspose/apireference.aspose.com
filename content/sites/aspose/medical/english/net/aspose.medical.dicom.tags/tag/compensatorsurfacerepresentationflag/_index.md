@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02EC VRCS VM1 Compensator Surface Representation Flag.
 type: docs
 weight: 6820
-url: /aspose.medical.dicom.tags/tag/compensatorsurfacerepresentationflag/
+url: /net/aspose.medical.dicom.tags/tag/compensatorsurfacerepresentationflag/
 ---
 
 ## Tag.CompensatorSurfaceRepresentationFlag field

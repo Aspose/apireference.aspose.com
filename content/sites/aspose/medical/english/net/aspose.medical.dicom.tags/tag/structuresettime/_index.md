@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060009 VRTM VM1 Structure Set Time.
 type: docs
 weight: 45910
-url: /aspose.medical.dicom.tags/tag/structuresettime/
+url: /net/aspose.medical.dicom.tags/tag/structuresettime/
 ---
 
 ## Tag.StructureSetTime field

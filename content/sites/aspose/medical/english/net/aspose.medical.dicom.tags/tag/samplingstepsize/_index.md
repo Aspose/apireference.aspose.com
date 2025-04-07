@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701607 VRFD VM1 Sampling Step Size.
 type: docs
 weight: 40940
-url: /aspose.medical.dicom.tags/tag/samplingstepsize/
+url: /net/aspose.medical.dicom.tags/tag/samplingstepsize/
 ---
 
 ## Tag.SamplingStepSize field

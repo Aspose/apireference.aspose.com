@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700229 VRLO VM1 CSS Font Name.
 type: docs
 weight: 9170
-url: /aspose.medical.dicom.tags/tag/cssfontname/
+url: /net/aspose.medical.dicom.tags/tag/cssfontname/
 ---
 
 ## Tag.CSSFontName field

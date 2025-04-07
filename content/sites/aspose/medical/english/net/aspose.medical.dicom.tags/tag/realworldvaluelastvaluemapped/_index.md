@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00409211 VRUS or SS VM1 Real World Value Last Value Mapped.
 type: docs
 weight: 35060
-url: /aspose.medical.dicom.tags/tag/realworldvaluelastvaluemapped/
+url: /net/aspose.medical.dicom.tags/tag/realworldvaluelastvaluemapped/
 ---
 
 ## Tag.RealWorldValueLastValueMapped field

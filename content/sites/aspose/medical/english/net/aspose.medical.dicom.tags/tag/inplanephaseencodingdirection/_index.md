@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181312 VRCS VM1 In-plane Phase Encoding Direction.
 type: docs
 weight: 20380
-url: /aspose.medical.dicom.tags/tag/inplanephaseencodingdirection/
+url: /net/aspose.medical.dicom.tags/tag/inplanephaseencodingdirection/
 ---
 
 ## Tag.InPlanePhaseEncodingDirection field

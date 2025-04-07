@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180034 VRLO VM1 Intervention Drug Name.
 type: docs
 weight: 21170
-url: /aspose.medical.dicom.tags/tag/interventiondrugname/
+url: /net/aspose.medical.dicom.tags/tag/interventiondrugname/
 ---
 
 ## Tag.InterventionDrugName field

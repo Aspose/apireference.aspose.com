@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189456 VRSQ VM1 Object Thickness Sequence.
 type: docs
 weight: 27260
-url: /aspose.medical.dicom.tags/tag/objectthicknesssequence/
+url: /net/aspose.medical.dicom.tags/tag/objectthicknesssequence/
 ---
 
 ## Tag.ObjectThicknessSequence field

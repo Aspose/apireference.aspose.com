@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0511 VRCS VM1 Delivered Reference Dose Definition.
 type: docs
 weight: 10620
-url: /aspose.medical.dicom.tags/tag/deliveredreferencedosedefinition/
+url: /net/aspose.medical.dicom.tags/tag/deliveredreferencedosedefinition/
 ---
 
 ## Tag.DeliveredReferenceDoseDefinition field

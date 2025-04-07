@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20000030 VRCS VM1 Medium Type.
 type: docs
 weight: 24380
-url: /aspose.medical.dicom.tags/tag/mediumtype/
+url: /net/aspose.medical.dicom.tags/tag/mediumtype/
 ---
 
 ## Tag.MediumType field

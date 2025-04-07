@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0786 VRUS VM1 Radiation Order Index.
 type: docs
 weight: 34430
-url: /aspose.medical.dicom.tags/tag/radiationorderindex/
+url: /net/aspose.medical.dicom.tags/tag/radiationorderindex/
 ---
 
 ## Tag.RadiationOrderIndex field

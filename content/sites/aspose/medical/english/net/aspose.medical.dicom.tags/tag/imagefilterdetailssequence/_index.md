@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811BF VRSQ VM1 Image Filter Details Sequence.
 type: docs
 weight: 19170
-url: /aspose.medical.dicom.tags/tag/imagefilterdetailssequence/
+url: /net/aspose.medical.dicom.tags/tag/imagefilterdetailssequence/
 ---
 
 ## Tag.ImageFilterDetailsSequence field

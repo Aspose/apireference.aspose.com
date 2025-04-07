@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660041 VROL VM1 Long Triangle Point Index List.
 type: docs
 weight: 23040
-url: /aspose.medical.dicom.tags/tag/longtrianglepointindexlist/
+url: /net/aspose.medical.dicom.tags/tag/longtrianglepointindexlist/
 ---
 
 ## Tag.LongTrianglePointIndexList field

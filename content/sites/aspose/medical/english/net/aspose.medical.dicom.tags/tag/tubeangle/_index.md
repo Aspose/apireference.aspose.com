@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189303 VRFD VM1 Tube Angle.
 type: docs
 weight: 50110
-url: /aspose.medical.dicom.tags/tag/tubeangle/
+url: /net/aspose.medical.dicom.tags/tag/tubeangle/
 ---
 
 ## Tag.TubeAngle field

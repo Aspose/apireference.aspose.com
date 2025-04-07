@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax XML Encoding Retired.
 type: docs
 weight: 5180
-url: /aspose.medical.dicom/uid/xmlencodingretired/
+url: /net/aspose.medical.dicom/uid/xmlencodingretired/
 ---
 
 ## Uid.XmlEncodingRetired field

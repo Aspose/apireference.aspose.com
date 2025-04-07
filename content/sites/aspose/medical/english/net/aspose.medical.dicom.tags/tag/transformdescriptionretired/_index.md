@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142222 VRST VM1 Transform Description RETIRED.
 type: docs
 weight: 49410
-url: /aspose.medical.dicom.tags/tag/transformdescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/transformdescriptionretired/
 ---
 
 ## Tag.TransformDescriptionRETIRED field

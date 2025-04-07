@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221045 VRSQ VM1 Surgically Induced Astigmatism Sequence.
 type: docs
 weight: 46540
-url: /aspose.medical.dicom.tags/tag/surgicallyinducedastigmatismsequence/
+url: /net/aspose.medical.dicom.tags/tag/surgicallyinducedastigmatismsequence/
 ---
 
 ## Tag.SurgicallyInducedAstigmatismSequence field

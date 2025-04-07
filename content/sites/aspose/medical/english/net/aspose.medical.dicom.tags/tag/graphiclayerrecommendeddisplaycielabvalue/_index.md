@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700401 VRUS VM3 Graphic Layer Recommended Display CIELab Value.
 type: docs
 weight: 17890
-url: /aspose.medical.dicom.tags/tag/graphiclayerrecommendeddisplaycielabvalue/
+url: /net/aspose.medical.dicom.tags/tag/graphiclayerrecommendeddisplaycielabvalue/
 ---
 
 ## Tag.GraphicLayerRecommendedDisplayCIELabValue field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181510 VRDS VM1 Positioner Primary Angle.
 type: docs
 weight: 32060
-url: /aspose.medical.dicom.tags/tag/positionerprimaryangle/
+url: /net/aspose.medical.dicom.tags/tag/positionerprimaryangle/
 ---
 
 ## Tag.PositionerPrimaryAngle field

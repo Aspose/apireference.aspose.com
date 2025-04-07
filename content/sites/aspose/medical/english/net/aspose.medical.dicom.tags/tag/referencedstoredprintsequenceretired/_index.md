@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20000510 VRSQ VM1 Referenced Stored Print Sequence RETIRED.
 type: docs
 weight: 37480
-url: /aspose.medical.dicom.tags/tag/referencedstoredprintsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/referencedstoredprintsequenceretired/
 ---
 
 ## Tag.ReferencedStoredPrintSequenceRETIRED field

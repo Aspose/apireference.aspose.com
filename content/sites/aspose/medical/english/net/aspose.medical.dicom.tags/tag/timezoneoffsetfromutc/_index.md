@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080201 VRSH VM1 Timezone Offset From UTC.
 type: docs
 weight: 48530
-url: /aspose.medical.dicom.tags/tag/timezoneoffsetfromutc/
+url: /net/aspose.medical.dicom.tags/tag/timezoneoffsetfromutc/
 ---
 
 ## Tag.TimezoneOffsetFromUTC field

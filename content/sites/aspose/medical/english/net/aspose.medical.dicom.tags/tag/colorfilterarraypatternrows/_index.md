@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016000E VRIS VM1 Color Filter Array Pattern Rows.
 type: docs
 weight: 6400
-url: /aspose.medical.dicom.tags/tag/colorfilterarraypatternrows/
+url: /net/aspose.medical.dicom.tags/tag/colorfilterarraypatternrows/
 ---
 
 ## Tag.ColorFilterArrayPatternRows field

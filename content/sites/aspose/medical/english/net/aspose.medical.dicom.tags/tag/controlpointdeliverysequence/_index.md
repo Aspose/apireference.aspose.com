@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080040 VRSQ VM1 Control Point Delivery Sequence.
 type: docs
 weight: 8500
-url: /aspose.medical.dicom.tags/tag/controlpointdeliverysequence/
+url: /net/aspose.medical.dicom.tags/tag/controlpointdeliverysequence/
 ---
 
 ## Tag.ControlPointDeliverySequence field

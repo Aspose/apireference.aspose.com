@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000305 VRCS VM1 Certified Timestamp Type.
 type: docs
 weight: 5350
-url: /aspose.medical.dicom.tags/tag/certifiedtimestamptype/
+url: /net/aspose.medical.dicom.tags/tag/certifiedtimestamptype/
 ---
 
 ## Tag.CertifiedTimestampType field

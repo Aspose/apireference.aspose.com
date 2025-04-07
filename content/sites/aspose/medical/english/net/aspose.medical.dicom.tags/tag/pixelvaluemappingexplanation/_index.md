@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221454 VRLO VM1 Pixel Value Mapping Explanation.
 type: docs
 weight: 31600
-url: /aspose.medical.dicom.tags/tag/pixelvaluemappingexplanation/
+url: /net/aspose.medical.dicom.tags/tag/pixelvaluemappingexplanation/
 ---
 
 ## Tag.PixelValueMappingExplanation field

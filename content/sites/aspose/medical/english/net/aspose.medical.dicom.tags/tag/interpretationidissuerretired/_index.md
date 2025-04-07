@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080202 VRLO VM1 Interpretation ID Issuer RETIRED.
 type: docs
 weight: 20990
-url: /aspose.medical.dicom.tags/tag/interpretationidissuerretired/
+url: /net/aspose.medical.dicom.tags/tag/interpretationidissuerretired/
 ---
 
 ## Tag.InterpretationIDIssuerRETIRED field

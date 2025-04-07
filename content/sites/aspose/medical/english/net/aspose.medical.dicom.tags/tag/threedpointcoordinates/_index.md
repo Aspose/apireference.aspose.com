@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686590 VRFD VM3 3D Point Coordinates.
 type: docs
 weight: 48200
-url: /aspose.medical.dicom.tags/tag/threedpointcoordinates/
+url: /net/aspose.medical.dicom.tags/tag/threedpointcoordinates/
 ---
 
 ## Tag.ThreeDPointCoordinates field

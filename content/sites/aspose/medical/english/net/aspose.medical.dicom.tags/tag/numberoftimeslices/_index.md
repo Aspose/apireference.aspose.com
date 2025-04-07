@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540101 VRUS VM1 Number of Time Slices.
 type: docs
 weight: 27000
-url: /aspose.medical.dicom.tags/tag/numberoftimeslices/
+url: /net/aspose.medical.dicom.tags/tag/numberoftimeslices/
 ---
 
 ## Tag.NumberOfTimeSlices field

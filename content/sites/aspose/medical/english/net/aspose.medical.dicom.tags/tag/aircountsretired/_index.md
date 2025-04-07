@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143070 VROB or OW VM1 Air Counts RETIRED.
 type: docs
 weight: 1070
-url: /aspose.medical.dicom.tags/tag/aircountsretired/
+url: /net/aspose.medical.dicom.tags/tag/aircountsretired/
 ---
 
 ## Tag.AirCountsRETIRED field

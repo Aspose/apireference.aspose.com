@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741044 VRSQ VM1 Conventional Machine Verification Sequence.
 type: docs
 weight: 8560
-url: /aspose.medical.dicom.tags/tag/conventionalmachineverificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/conventionalmachineverificationsequence/
 ---
 
 ## Tag.ConventionalMachineVerificationSequence field

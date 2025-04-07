@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240018 VRFL VM1 Maximum Stimulus Luminance.
 type: docs
 weight: 24030
-url: /aspose.medical.dicom.tags/tag/maximumstimulusluminance/
+url: /net/aspose.medical.dicom.tags/tag/maximumstimulusluminance/
 ---
 
 ## Tag.MaximumStimulusLuminance field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006864F0 VRFD VM3 2D Degree of Freedom Axis.
 type: docs
 weight: 50120
-url: /aspose.medical.dicom.tags/tag/twoddegreeoffreedomaxis/
+url: /net/aspose.medical.dicom.tags/tag/twoddegreeoffreedomaxis/
 ---
 
 ## Tag.TwoDDegreeOfFreedomAxis field

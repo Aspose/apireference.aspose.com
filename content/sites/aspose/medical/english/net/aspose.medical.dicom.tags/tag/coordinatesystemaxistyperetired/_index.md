@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014220C VRCS VM1 Coordinate System Axis Type RETIRED.
 type: docs
 weight: 8680
-url: /aspose.medical.dicom.tags/tag/coordinatesystemaxistyperetired/
+url: /net/aspose.medical.dicom.tags/tag/coordinatesystemaxistyperetired/
 ---
 
 ## Tag.CoordinateSystemAxisTypeRETIRED field

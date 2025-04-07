@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20400072 VRCS VM1 Overlay or Image Magnification RETIRED.
 type: docs
 weight: 29120
-url: /aspose.medical.dicom.tags/tag/overlayorimagemagnificationretired/
+url: /net/aspose.medical.dicom.tags/tag/overlayorimagemagnificationretired/
 ---
 
 ## Tag.OverlayOrImageMagnificationRETIRED field

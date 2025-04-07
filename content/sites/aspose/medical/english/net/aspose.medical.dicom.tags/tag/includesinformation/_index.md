@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0034000C VRCS VM1 Includes Information.
 type: docs
 weight: 20140
-url: /aspose.medical.dicom.tags/tag/includesinformation/
+url: /net/aspose.medical.dicom.tags/tag/includesinformation/
 ---
 
 ## Tag.IncludesInformation field

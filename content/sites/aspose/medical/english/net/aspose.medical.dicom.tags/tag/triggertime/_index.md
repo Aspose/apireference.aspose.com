@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181060 VRDS VM1 Trigger Time.
 type: docs
 weight: 50060
-url: /aspose.medical.dicom.tags/tag/triggertime/
+url: /net/aspose.medical.dicom.tags/tag/triggertime/
 ---
 
 ## Tag.TriggerTime field

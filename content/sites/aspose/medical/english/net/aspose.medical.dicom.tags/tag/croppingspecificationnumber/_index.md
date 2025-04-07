@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701309 VRUS VM1 Cropping Specification Number.
 type: docs
 weight: 9160
-url: /aspose.medical.dicom.tags/tag/croppingspecificationnumber/
+url: /net/aspose.medical.dicom.tags/tag/croppingspecificationnumber/
 ---
 
 ## Tag.CroppingSpecificationNumber field

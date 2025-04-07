@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020104 VRSQ VM1 RT Image Scope Sequence.
 type: docs
 weight: 40220
-url: /aspose.medical.dicom.tags/tag/rtimagescopesequence/
+url: /net/aspose.medical.dicom.tags/tag/rtimagescopesequence/
 ---
 
 ## Tag.RTImageScopeSequence field

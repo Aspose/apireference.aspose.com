@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 7FE00009 VROD VM1 Double Float Pixel Data.
 type: docs
 weight: 12980
-url: /aspose.medical.dicom.tags/tag/doublefloatpixeldata/
+url: /net/aspose.medical.dicom.tags/tag/doublefloatpixeldata/
 ---
 
 ## Tag.DoubleFloatPixelData field

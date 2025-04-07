@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Basic Grayscale Image Box SOP Class.
 type: docs
 weight: 160
-url: /aspose.medical.dicom/uid/basicgrayscaleimageboxsopclass/
+url: /net/aspose.medical.dicom/uid/basicgrayscaleimageboxsopclass/
 ---
 
 ## Uid.BasicGrayscaleImageBoxSOPClass field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209155 VRFL VM1 Actual Cardiac Trigger Time Prior To R-Peak.
 type: docs
 weight: 740
-url: /aspose.medical.dicom.tags/tag/actualcardiactriggertimepriortorpeak/
+url: /net/aspose.medical.dicom.tags/tag/actualcardiactriggertimepriortorpeak/
 ---
 
 ## Tag.ActualCardiacTriggerTimePriorToRPeak field

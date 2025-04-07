@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281041 VRSS VM1 Pixel Intensity Relationship Sign.
 type: docs
 weight: 31460
-url: /aspose.medical.dicom.tags/tag/pixelintensityrelationshipsign/
+url: /net/aspose.medical.dicom.tags/tag/pixelintensityrelationshipsign/
 ---
 
 ## Tag.PixelIntensityRelationshipSign field

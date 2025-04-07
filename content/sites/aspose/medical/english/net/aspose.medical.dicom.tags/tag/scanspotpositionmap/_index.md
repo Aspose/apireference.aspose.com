@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0394 VRFL VM1-n Scan Spot Position Map.
 type: docs
 weight: 41110
-url: /aspose.medical.dicom.tags/tag/scanspotpositionmap/
+url: /net/aspose.medical.dicom.tags/tag/scanspotpositionmap/
 ---
 
 ## Tag.ScanSpotPositionMap field

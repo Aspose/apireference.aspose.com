@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010007E VRUS VM1 Intended Delivery Duration.
 type: docs
 weight: 20670
-url: /aspose.medical.dicom.tags/tag/intendeddeliveryduration/
+url: /net/aspose.medical.dicom.tags/tag/intendeddeliveryduration/
 ---
 
 ## Tag.IntendedDeliveryDuration field

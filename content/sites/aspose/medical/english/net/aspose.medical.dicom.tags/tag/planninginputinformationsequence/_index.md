@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100076 VRSQ VM1 Planning Input Information Sequence.
 type: docs
 weight: 31790
-url: /aspose.medical.dicom.tags/tag/planninginputinformationsequence/
+url: /net/aspose.medical.dicom.tags/tag/planninginputinformationsequence/
 ---
 
 ## Tag.PlanningInputInformationSequence field

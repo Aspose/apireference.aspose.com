@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181300 VRDS VM1 Scan Velocity.
 type: docs
 weight: 41210
-url: /aspose.medical.dicom.tags/tag/scanvelocity/
+url: /net/aspose.medical.dicom.tags/tag/scanvelocity/
 ---
 
 ## Tag.ScanVelocity field

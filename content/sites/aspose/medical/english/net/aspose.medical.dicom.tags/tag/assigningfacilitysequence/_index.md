@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400036 VRSQ VM1 Assigning Facility Sequence.
 type: docs
 weight: 2670
-url: /aspose.medical.dicom.tags/tag/assigningfacilitysequence/
+url: /net/aspose.medical.dicom.tags/tag/assigningfacilitysequence/
 ---
 
 ## Tag.AssigningFacilitySequence field

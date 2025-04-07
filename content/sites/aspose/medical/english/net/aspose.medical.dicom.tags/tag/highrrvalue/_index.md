@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181082 VRIS VM1 High R-R Value.
 type: docs
 weight: 18330
-url: /aspose.medical.dicom.tags/tag/highrrvalue/
+url: /net/aspose.medical.dicom.tags/tag/highrrvalue/
 ---
 
 ## Tag.HighRRValue field

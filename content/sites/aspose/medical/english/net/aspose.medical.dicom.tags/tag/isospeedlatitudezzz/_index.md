@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016001F VRIS VM1 ISO Speed Latitude zzz.
 type: docs
 weight: 21730
-url: /aspose.medical.dicom.tags/tag/isospeedlatitudezzz/
+url: /net/aspose.medical.dicom.tags/tag/isospeedlatitudezzz/
 ---
 
 ## Tag.ISOSpeedLatitudezzz field

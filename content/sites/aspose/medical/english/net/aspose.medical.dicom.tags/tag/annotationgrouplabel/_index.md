@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006A0005 VRLO VM1 Annotation Group Label.
 type: docs
 weight: 1830
-url: /aspose.medical.dicom.tags/tag/annotationgrouplabel/
+url: /net/aspose.medical.dicom.tags/tag/annotationgrouplabel/
 ---
 
 ## Tag.AnnotationGroupLabel field

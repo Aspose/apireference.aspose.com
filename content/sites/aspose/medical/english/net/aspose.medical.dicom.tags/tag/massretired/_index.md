@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101017 VRFL VM1 Mass RETIRED.
 type: docs
 weight: 23640
-url: /aspose.medical.dicom.tags/tag/massretired/
+url: /net/aspose.medical.dicom.tags/tag/massretired/
 ---
 
 ## Tag.MassRETIRED field

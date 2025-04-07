@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080040 VRUS VM1 Data Set Type RETIRED.
 type: docs
 weight: 9990
-url: /aspose.medical.dicom.tags/tag/datasettyperetired/
+url: /net/aspose.medical.dicom.tags/tag/datasettyperetired/
 ---
 
 ## Tag.DataSetTypeRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0004151A VRUI VM1-n Referenced Related General SOP Class UID in File.
 type: docs
 weight: 37110
-url: /aspose.medical.dicom.tags/tag/referencedrelatedgeneralsopclassuidinfile/
+url: /net/aspose.medical.dicom.tags/tag/referencedrelatedgeneralsopclassuidinfile/
 ---
 
 ## Tag.ReferencedRelatedGeneralSOPClassUIDInFile field

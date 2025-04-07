@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189241 VRUS VM1 Gradient Echo Train Length.
 type: docs
 weight: 17730
-url: /aspose.medical.dicom.tags/tag/gradientechotrainlength/
+url: /net/aspose.medical.dicom.tags/tag/gradientechotrainlength/
 ---
 
 ## Tag.GradientEchoTrainLength field

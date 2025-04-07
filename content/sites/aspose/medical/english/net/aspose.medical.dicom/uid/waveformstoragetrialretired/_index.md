@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Waveform Storage - Trial Retired.
 type: docs
 weight: 5110
-url: /aspose.medical.dicom/uid/waveformstoragetrialretired/
+url: /net/aspose.medical.dicom/uid/waveformstoragetrialretired/
 ---
 
 ## Uid.WaveformStorageTrialRetired field

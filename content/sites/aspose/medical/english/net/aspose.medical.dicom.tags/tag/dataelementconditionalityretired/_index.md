@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140205 VRCS VM1 Data Element Conditionality RETIRED.
 type: docs
 weight: 9770
-url: /aspose.medical.dicom.tags/tag/dataelementconditionalityretired/
+url: /net/aspose.medical.dicom.tags/tag/dataelementconditionalityretired/
 ---
 
 ## Tag.DataElementConditionalityRETIRED field

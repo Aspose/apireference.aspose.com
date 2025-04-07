@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189219 VRSS VM1 Tag Angle Second Axis.
 type: docs
 weight: 47260
-url: /aspose.medical.dicom.tags/tag/taganglesecondaxis/
+url: /net/aspose.medical.dicom.tags/tag/taganglesecondaxis/
 ---
 
 ## Tag.TagAngleSecondAxis field

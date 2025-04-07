@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146042 VRDS VM1 Probe Resonant Frequency RETIRED.
 type: docs
 weight: 33300
-url: /aspose.medical.dicom.tags/tag/proberesonantfrequencyretired/
+url: /net/aspose.medical.dicom.tags/tag/proberesonantfrequencyretired/
 ---
 
 ## Tag.ProbeResonantFrequencyRETIRED field

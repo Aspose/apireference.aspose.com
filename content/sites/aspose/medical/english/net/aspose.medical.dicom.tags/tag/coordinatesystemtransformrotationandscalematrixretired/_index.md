@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014222A VRDS VM1-n Coordinate System Transform Rotation and Scale Matrix RETIRED.
 type: docs
 weight: 8730
-url: /aspose.medical.dicom.tags/tag/coordinatesystemtransformrotationandscalematrixretired/
+url: /net/aspose.medical.dicom.tags/tag/coordinatesystemtransformrotationandscalematrixretired/
 ---
 
 ## Tag.CoordinateSystemTransformRotationAndScaleMatrixRETIRED field

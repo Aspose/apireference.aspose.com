@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380060 VRLO VM1 Service Episode ID.
 type: docs
 weight: 42960
-url: /aspose.medical.dicom.tags/tag/serviceepisodeid/
+url: /net/aspose.medical.dicom.tags/tag/serviceepisodeid/
 ---
 
 ## Tag.ServiceEpisodeID field

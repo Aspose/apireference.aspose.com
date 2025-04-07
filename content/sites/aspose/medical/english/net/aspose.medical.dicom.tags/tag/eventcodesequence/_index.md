@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082135 VRSQ VM1 Event Code Sequence.
 type: docs
 weight: 14110
-url: /aspose.medical.dicom.tags/tag/eventcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/eventcodesequence/
 ---
 
 ## Tag.EventCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0212 VRIS VM1 Source Number.
 type: docs
 weight: 44300
-url: /aspose.medical.dicom.tags/tag/sourcenumber/
+url: /net/aspose.medical.dicom.tags/tag/sourcenumber/
 ---
 
 ## Tag.SourceNumber field

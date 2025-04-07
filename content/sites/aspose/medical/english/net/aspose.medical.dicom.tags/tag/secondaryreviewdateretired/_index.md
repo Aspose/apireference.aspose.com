@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140102 VRDA VM1 Secondary Review Date RETIRED.
 type: docs
 weight: 41890
-url: /aspose.medical.dicom.tags/tag/secondaryreviewdateretired/
+url: /net/aspose.medical.dicom.tags/tag/secondaryreviewdateretired/
 ---
 
 ## Tag.SecondaryReviewDateRETIRED field

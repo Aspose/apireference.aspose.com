@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0070150C VRUL VM1 Number of Volumetric Curve Points.
 type: docs
 weight: 27110
-url: /aspose.medical.dicom.tags/tag/numberofvolumetriccurvepoints/
+url: /net/aspose.medical.dicom.tags/tag/numberofvolumetriccurvepoints/
 ---
 
 ## Tag.NumberOfVolumetricCurvePoints field

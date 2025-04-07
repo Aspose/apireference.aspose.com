@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3004000C VRDS VM2-n Grid Frame Offset Vector.
 type: docs
 weight: 18050
-url: /aspose.medical.dicom.tags/tag/gridframeoffsetvector/
+url: /net/aspose.medical.dicom.tags/tag/gridframeoffsetvector/
 ---
 
 ## Tag.GridFrameOffsetVector field

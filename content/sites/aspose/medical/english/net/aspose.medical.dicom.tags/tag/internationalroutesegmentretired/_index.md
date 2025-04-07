@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101028 VRCS VM1 International Route Segment RETIRED.
 type: docs
 weight: 20890
-url: /aspose.medical.dicom.tags/tag/internationalroutesegmentretired/
+url: /net/aspose.medical.dicom.tags/tag/internationalroutesegmentretired/
 ---
 
 ## Tag.InternationalRouteSegmentRETIRED field

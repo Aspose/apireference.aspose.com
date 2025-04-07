@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300800F0 VRSQ VM1 Recorded Snout Sequence.
 type: docs
 weight: 35840
-url: /aspose.medical.dicom.tags/tag/recordedsnoutsequence/
+url: /net/aspose.medical.dicom.tags/tag/recordedsnoutsequence/
 ---
 
 ## Tag.RecordedSnoutSequence field

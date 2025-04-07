@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A297 VRST VM1 Algorithm Description Trial RETIRED.
 type: docs
 weight: 1140
-url: /aspose.medical.dicom.tags/tag/algorithmdescriptiontrialretired/
+url: /net/aspose.medical.dicom.tags/tag/algorithmdescriptiontrialretired/
 ---
 
 ## Tag.AlgorithmDescriptionTrialRETIRED field

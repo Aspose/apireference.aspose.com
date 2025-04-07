@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00101080 VRLO VM1 Military Rank.
 type: docs
 weight: 24540
-url: /aspose.medical.dicom.tags/tag/militaryrank/
+url: /net/aspose.medical.dicom.tags/tag/militaryrank/
 ---
 
 ## Tag.MilitaryRank field

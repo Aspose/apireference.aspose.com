@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0122 VRDS VM1 Patient Support Angle.
 type: docs
 weight: 30230
-url: /aspose.medical.dicom.tags/tag/patientsupportangle/
+url: /net/aspose.medical.dicom.tags/tag/patientsupportangle/
 ---
 
 ## Tag.PatientSupportAngle field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180035 VRTM VM1 Intervention Drug Start Time.
 type: docs
 weight: 21180
-url: /aspose.medical.dicom.tags/tag/interventiondrugstarttime/
+url: /net/aspose.medical.dicom.tags/tag/interventiondrugstarttime/
 ---
 
 ## Tag.InterventionDrugStartTime field

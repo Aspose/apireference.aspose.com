@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289416 VRUS VM1 Subtraction Item ID.
 type: docs
 weight: 46270
-url: /aspose.medical.dicom.tags/tag/subtractionitemid/
+url: /net/aspose.medical.dicom.tags/tag/subtractionitemid/
 ---
 
 ## Tag.SubtractionItemID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4010101A VRSH VM1 Boarding Pass ID RETIRED.
 type: docs
 weight: 4220
-url: /aspose.medical.dicom.tags/tag/boardingpassidretired/
+url: /net/aspose.medical.dicom.tags/tag/boardingpassidretired/
 ---
 
 ## Tag.BoardingPassIDRETIRED field

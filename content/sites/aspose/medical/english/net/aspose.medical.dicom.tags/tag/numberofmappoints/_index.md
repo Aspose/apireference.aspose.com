@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221530 VRUL VM1 Number of Map Points.
 type: docs
 weight: 26540
-url: /aspose.medical.dicom.tags/tag/numberofmappoints/
+url: /net/aspose.medical.dicom.tags/tag/numberofmappoints/
 ---
 
 ## Tag.NumberOfMapPoints field

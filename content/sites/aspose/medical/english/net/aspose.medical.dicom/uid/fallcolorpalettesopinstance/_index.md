@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Well-known SOP Instance Fall Color Palette SOP Instance.
 type: docs
 weight: 1540
-url: /aspose.medical.dicom/uid/fallcolorpalettesopinstance/
+url: /net/aspose.medical.dicom/uid/fallcolorpalettesopinstance/
 ---
 
 ## Uid.FallColorPaletteSOPInstance field

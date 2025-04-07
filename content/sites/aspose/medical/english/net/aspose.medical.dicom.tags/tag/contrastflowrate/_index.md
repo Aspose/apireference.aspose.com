@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181046 VRDS VM1-n Contrast Flow Rate.
 type: docs
 weight: 8410
-url: /aspose.medical.dicom.tags/tag/contrastflowrate/
+url: /net/aspose.medical.dicom.tags/tag/contrastflowrate/
 ---
 
 ## Tag.ContrastFlowRate field

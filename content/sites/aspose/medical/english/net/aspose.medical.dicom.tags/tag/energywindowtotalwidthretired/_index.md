@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180033 VRDS VM1-n Energy Window Total Width RETIRED.
 type: docs
 weight: 13700
-url: /aspose.medical.dicom.tags/tag/energywindowtotalwidthretired/
+url: /net/aspose.medical.dicom.tags/tag/energywindowtotalwidthretired/
 ---
 
 ## Tag.EnergyWindowTotalWidthRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701806 VRSQ VM1 Weighting Transfer Function Sequence.
 type: docs
 weight: 52450
-url: /aspose.medical.dicom.tags/tag/weightingtransferfunctionsequence/
+url: /net/aspose.medical.dicom.tags/tag/weightingtransferfunctionsequence/
 ---
 
 ## Tag.WeightingTransferFunctionSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686610 VRFD VM3 3D Plane Origin.
 type: docs
 weight: 48190
-url: /aspose.medical.dicom.tags/tag/threedplaneorigin/
+url: /net/aspose.medical.dicom.tags/tag/threedplaneorigin/
 ---
 
 ## Tag.ThreeDPlaneOrigin field

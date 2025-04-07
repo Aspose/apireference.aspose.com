@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181803 VRLO VM1 NTP Source Address.
 type: docs
 weight: 26030
-url: /aspose.medical.dicom.tags/tag/ntpsourceaddress/
+url: /net/aspose.medical.dicom.tags/tag/ntpsourceaddress/
 ---
 
 ## Tag.NTPSourceAddress field

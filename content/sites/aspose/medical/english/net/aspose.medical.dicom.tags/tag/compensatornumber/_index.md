@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00E4 VRIS VM1 Compensator Number.
 type: docs
 weight: 6730
-url: /aspose.medical.dicom.tags/tag/compensatornumber/
+url: /net/aspose.medical.dicom.tags/tag/compensatornumber/
 ---
 
 ## Tag.CompensatorNumber field

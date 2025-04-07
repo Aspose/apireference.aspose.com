@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221029 VRLO VM1 IOL Formula Detail.
 type: docs
 weight: 21410
-url: /aspose.medical.dicom.tags/tag/iolformuladetail/
+url: /net/aspose.medical.dicom.tags/tag/iolformuladetail/
 ---
 
 ## Tag.IOLFormulaDetail field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008030D VRUC VM1 Private Data Element Keyword.
 type: docs
 weight: 33110
-url: /aspose.medical.dicom.tags/tag/privatedataelementkeyword/
+url: /net/aspose.medical.dicom.tags/tag/privatedataelementkeyword/
 ---
 
 ## Tag.PrivateDataElementKeyword field

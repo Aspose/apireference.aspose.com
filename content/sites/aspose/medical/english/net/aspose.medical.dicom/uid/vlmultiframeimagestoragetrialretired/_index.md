@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class VL Multi-frame Image Storage - Trial Retired.
 type: docs
 weight: 5020
-url: /aspose.medical.dicom/uid/vlmultiframeimagestoragetrialretired/
+url: /net/aspose.medical.dicom/uid/vlmultiframeimagestoragetrialretired/
 ---
 
 ## Uid.VLMultiFrameImageStorageTrialRetired field

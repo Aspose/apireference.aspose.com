@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: A private tag that the mask defines. Read / Write Tagaspose.medical.dicom.tags/tagmask/tag.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.tags/tagmask/tag/
+url: /net/aspose.medical.dicom.tags/tagmask/tag/
 ---
 
 ## TagMask.Tag property

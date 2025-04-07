@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189073 VRFD VM1 Acquisition Duration.
 type: docs
 weight: 290
-url: /aspose.medical.dicom.tags/tag/acquisitionduration/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionduration/
 ---
 
 ## Tag.AcquisitionDuration field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A224 VRST VM1 Identification Description Trial RETIRED.
 type: docs
 weight: 18740
-url: /aspose.medical.dicom.tags/tag/identificationdescriptiontrialretired/
+url: /net/aspose.medical.dicom.tags/tag/identificationdescriptiontrialretired/
 ---
 
 ## Tag.IdentificationDescriptionTrialRETIRED field

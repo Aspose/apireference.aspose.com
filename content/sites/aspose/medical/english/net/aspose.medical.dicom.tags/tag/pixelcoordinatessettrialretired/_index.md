@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A29A VRSL VM2-2n Pixel Coordinates Set Trial RETIRED.
 type: docs
 weight: 31390
-url: /aspose.medical.dicom.tags/tag/pixelcoordinatessettrialretired/
+url: /net/aspose.medical.dicom.tags/tag/pixelcoordinatessettrialretired/
 ---
 
 ## Tag.PixelCoordinatesSetTrialRETIRED field

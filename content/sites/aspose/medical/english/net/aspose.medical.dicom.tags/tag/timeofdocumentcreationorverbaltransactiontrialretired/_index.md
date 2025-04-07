@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A112 VRTM VM1 Time of Document Creation or Verbal Transaction Trial RETIRED.
 type: docs
 weight: 48370
-url: /aspose.medical.dicom.tags/tag/timeofdocumentcreationorverbaltransactiontrialretired/
+url: /net/aspose.medical.dicom.tags/tag/timeofdocumentcreationorverbaltransactiontrialretired/
 ---
 
 ## Tag.TimeOfDocumentCreationOrVerbalTransactionTrialRETIRED field

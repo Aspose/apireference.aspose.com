@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180083 VRDS VM1 Number of Averages.
 type: docs
 weight: 26090
-url: /aspose.medical.dicom.tags/tag/numberofaverages/
+url: /net/aspose.medical.dicom.tags/tag/numberofaverages/
 ---
 
 ## Tag.NumberOfAverages field

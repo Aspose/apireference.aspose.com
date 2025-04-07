@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072006E VRST VM1 Selector ST Value.
 type: docs
 weight: 42590
-url: /aspose.medical.dicom.tags/tag/selectorstvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorstvalue/
 ---
 
 ## Tag.SelectorSTValue field

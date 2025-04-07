@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00780028 VRSQ VM1 Implant Template Group Target Anatomy Sequence.
 type: docs
 weight: 19970
-url: /aspose.medical.dicom.tags/tag/implanttemplategrouptargetanatomysequence/
+url: /net/aspose.medical.dicom.tags/tag/implanttemplategrouptargetanatomysequence/
 ---
 
 ## Tag.ImplantTemplateGroupTargetAnatomySequence field

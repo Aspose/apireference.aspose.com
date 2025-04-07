@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 5320
-url: /aspose.medical.dicom/uid/gethashcode/
+url: /net/aspose.medical.dicom/uid/gethashcode/
 ---
 
 ## Uid.GetHashCode method

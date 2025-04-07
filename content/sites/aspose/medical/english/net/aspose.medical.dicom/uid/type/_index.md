@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: UID type. Read-only UidTypeaspose.medical.dicom/uidtype.
 type: docs
 weight: 5300
-url: /aspose.medical.dicom/uid/type/
+url: /net/aspose.medical.dicom/uid/type/
 ---
 
 ## Uid.Type property

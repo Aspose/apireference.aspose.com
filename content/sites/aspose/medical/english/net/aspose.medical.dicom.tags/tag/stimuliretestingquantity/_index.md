@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240042 VRUS VM1 Stimuli Retesting Quantity.
 type: docs
 weight: 45570
-url: /aspose.medical.dicom.tags/tag/stimuliretestingquantity/
+url: /net/aspose.medical.dicom.tags/tag/stimuliretestingquantity/
 ---
 
 ## Tag.StimuliRetestingQuantity field

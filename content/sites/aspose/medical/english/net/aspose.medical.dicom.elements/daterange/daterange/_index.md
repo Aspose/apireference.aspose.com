@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Creates a default instance of the DateRangeaspose.medical.dicom.elements/daterange staring from MinValue till MaxValue.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/daterange/daterange/
+url: /net/aspose.medical.dicom.elements/daterange/daterange/
 ---
 
 ## DateRange constructor

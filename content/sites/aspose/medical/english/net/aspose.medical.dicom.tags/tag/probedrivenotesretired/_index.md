@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144082 VRLT VM1 Probe Drive Notes RETIRED.
 type: docs
 weight: 33230
-url: /aspose.medical.dicom.tags/tag/probedrivenotesretired/
+url: /net/aspose.medical.dicom.tags/tag/probedrivenotesretired/
 ---
 
 ## Tag.ProbeDriveNotesRETIRED field

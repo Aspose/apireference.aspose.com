@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0121 VRCS VM1 Beam Limiting Device Rotation Direction.
 type: docs
 weight: 3510
-url: /aspose.medical.dicom.tags/tag/beamlimitingdevicerotationdirection/
+url: /net/aspose.medical.dicom.tags/tag/beamlimitingdevicerotationdirection/
 ---
 
 ## Tag.BeamLimitingDeviceRotationDirection field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 22000006 VRCS VM1 Barcode Symbology.
 type: docs
 weight: 3190
-url: /aspose.medical.dicom.tags/tag/barcodesymbology/
+url: /net/aspose.medical.dicom.tags/tag/barcodesymbology/
 ---
 
 ## Tag.BarcodeSymbology field

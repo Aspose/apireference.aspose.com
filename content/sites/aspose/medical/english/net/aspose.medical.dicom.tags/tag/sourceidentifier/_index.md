@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00340005 VROB VM1 Source Identifier.
 type: docs
 weight: 44180
-url: /aspose.medical.dicom.tags/tag/sourceidentifier/
+url: /net/aspose.medical.dicom.tags/tag/sourceidentifier/
 ---
 
 ## Tag.SourceIdentifier field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0667 VRSQ VM1 Compensator Shape Fabrication Code Sequence.
 type: docs
 weight: 6800
-url: /aspose.medical.dicom.tags/tag/compensatorshapefabricationcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/compensatorshapefabricationcodesequence/
 ---
 
 ## Tag.CompensatorShapeFabricationCodeSequence field

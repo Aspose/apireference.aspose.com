@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200010 VRSH VM1 Study ID.
 type: docs
 weight: 46020
-url: /aspose.medical.dicom.tags/tag/studyid/
+url: /net/aspose.medical.dicom.tags/tag/studyid/
 ---
 
 ## Tag.StudyID field

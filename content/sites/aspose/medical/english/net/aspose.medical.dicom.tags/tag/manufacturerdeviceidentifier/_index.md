@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100043 VRST VM1 Manufacturers Device Identifier.
 type: docs
 weight: 23460
-url: /aspose.medical.dicom.tags/tag/manufacturerdeviceidentifier/
+url: /net/aspose.medical.dicom.tags/tag/manufacturerdeviceidentifier/
 ---
 
 ## Tag.ManufacturerDeviceIdentifier field

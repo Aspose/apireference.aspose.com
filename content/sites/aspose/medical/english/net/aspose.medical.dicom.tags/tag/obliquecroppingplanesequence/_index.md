@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701304 VRSQ VM1 Oblique Cropping Plane Sequence.
 type: docs
 weight: 27270
-url: /aspose.medical.dicom.tags/tag/obliquecroppingplanesequence/
+url: /net/aspose.medical.dicom.tags/tag/obliquecroppingplanesequence/
 ---
 
 ## Tag.ObliqueCroppingPlaneSequence field

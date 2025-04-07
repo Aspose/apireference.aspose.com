@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 1000xxx3 VRUS VM3 Huffman Table Triplet RETIRED.
 type: docs
 weight: 18660
-url: /aspose.medical.dicom.tags/tag/huffmantabletripletretired/
+url: /net/aspose.medical.dicom.tags/tag/huffmantabletripletretired/
 ---
 
 ## Tag.HuffmanTableTripletRETIRED field

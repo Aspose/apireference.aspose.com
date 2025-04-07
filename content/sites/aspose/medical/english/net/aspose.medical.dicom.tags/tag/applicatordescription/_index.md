@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A010A VRLO VM1 Applicator Description.
 type: docs
 weight: 2160
-url: /aspose.medical.dicom.tags/tag/applicatordescription/
+url: /net/aspose.medical.dicom.tags/tag/applicatordescription/
 ---
 
 ## Tag.ApplicatorDescription field

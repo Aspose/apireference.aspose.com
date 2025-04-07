@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20000063 VRCS VM1 Collation Flag RETIRED.
 type: docs
 weight: 6300
-url: /aspose.medical.dicom.tags/tag/collationflagretired/
+url: /net/aspose.medical.dicom.tags/tag/collationflagretired/
 ---
 
 ## Tag.CollationFlagRETIRED field

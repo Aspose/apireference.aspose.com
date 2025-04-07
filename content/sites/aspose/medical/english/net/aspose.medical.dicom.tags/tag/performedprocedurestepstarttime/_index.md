@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400245 VRTM VM1 Performed Procedure Step Start Time.
 type: docs
 weight: 30700
-url: /aspose.medical.dicom.tags/tag/performedprocedurestepstarttime/
+url: /net/aspose.medical.dicom.tags/tag/performedprocedurestepstarttime/
 ---
 
 ## Tag.PerformedProcedureStepStartTime field

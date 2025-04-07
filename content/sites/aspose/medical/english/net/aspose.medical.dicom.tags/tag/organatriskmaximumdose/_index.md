@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A002C VRDS VM1 Organ at Risk Maximum Dose.
 type: docs
 weight: 28450
-url: /aspose.medical.dicom.tags/tag/organatriskmaximumdose/
+url: /net/aspose.medical.dicom.tags/tag/organatriskmaximumdose/
 ---
 
 ## Tag.OrganAtRiskMaximumDose field

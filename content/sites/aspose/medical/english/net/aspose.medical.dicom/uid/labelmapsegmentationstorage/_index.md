@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Label Map Segmentation Storage.
 type: docs
 weight: 2480
-url: /aspose.medical.dicom/uid/labelmapsegmentationstorage/
+url: /net/aspose.medical.dicom/uid/labelmapsegmentationstorage/
 ---
 
 ## Uid.LabelMapSegmentationStorage field

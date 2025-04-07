@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540400 VRSH VM1 Image ID.
 type: docs
 weight: 19220
-url: /aspose.medical.dicom.tags/tag/imageid/
+url: /net/aspose.medical.dicom.tags/tag/imageid/
 ---
 
 ## Tag.ImageID field

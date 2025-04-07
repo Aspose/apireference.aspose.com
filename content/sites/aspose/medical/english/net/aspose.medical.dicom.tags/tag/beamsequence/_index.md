@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00B0 VRSQ VM1 Beam Sequence.
 type: docs
 weight: 3610
-url: /aspose.medical.dicom.tags/tag/beamsequence/
+url: /net/aspose.medical.dicom.tags/tag/beamsequence/
 ---
 
 ## Tag.BeamSequence field

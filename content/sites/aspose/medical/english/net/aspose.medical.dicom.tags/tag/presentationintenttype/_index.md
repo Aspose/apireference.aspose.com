@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080068 VRCS VM1 Presentation Intent Type.
 type: docs
 weight: 32550
-url: /aspose.medical.dicom.tags/tag/presentationintenttype/
+url: /net/aspose.medical.dicom.tags/tag/presentationintenttype/
 ---
 
 ## Tag.PresentationIntentType field

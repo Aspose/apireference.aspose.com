@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080054 VRAE VM1-n Retrieve AE Title.
 type: docs
 weight: 39190
-url: /aspose.medical.dicom.tags/tag/retrieveaetitle/
+url: /net/aspose.medical.dicom.tags/tag/retrieveaetitle/
 ---
 
 ## Tag.RetrieveAETitle field

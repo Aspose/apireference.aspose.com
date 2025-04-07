@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018937D VRSQ VM1 Material Code Sequence.
 type: docs
 weight: 23660
-url: /aspose.medical.dicom.tags/tag/materialcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/materialcodesequence/
 ---
 
 ## Tag.MaterialCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160061 VRCS VM1 Interoperability Index.
 type: docs
 weight: 20900
-url: /aspose.medical.dicom.tags/tag/interoperabilityindex/
+url: /net/aspose.medical.dicom.tags/tag/interoperabilityindex/
 ---
 
 ## Tag.InteroperabilityIndex field

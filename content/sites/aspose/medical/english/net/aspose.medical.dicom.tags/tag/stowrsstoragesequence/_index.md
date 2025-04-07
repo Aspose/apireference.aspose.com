@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404072 VRSQ VM1 STOW-RS Storage Sequence.
 type: docs
 weight: 45720
-url: /aspose.medical.dicom.tags/tag/stowrsstoragesequence/
+url: /net/aspose.medical.dicom.tags/tag/stowrsstoragesequence/
 ---
 
 ## Tag.STOWRSStorageSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00201000 VRIS VM1 Series in Study RETIRED.
 type: docs
 weight: 42910
-url: /aspose.medical.dicom.tags/tag/seriesinstudyretired/
+url: /net/aspose.medical.dicom.tags/tag/seriesinstudyretired/
 ---
 
 ## Tag.SeriesInStudyRETIRED field

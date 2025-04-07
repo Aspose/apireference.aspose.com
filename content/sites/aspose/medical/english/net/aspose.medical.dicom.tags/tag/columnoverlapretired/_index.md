@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280094 VRUS VM1 Column Overlap RETIRED.
 type: docs
 weight: 6460
-url: /aspose.medical.dicom.tags/tag/columnoverlapretired/
+url: /net/aspose.medical.dicom.tags/tag/columnoverlapretired/
 ---
 
 ## Tag.ColumnOverlapRETIRED field

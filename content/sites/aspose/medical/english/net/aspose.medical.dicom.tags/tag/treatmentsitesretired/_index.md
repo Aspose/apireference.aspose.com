@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A000B VRLO VM1-n Treatment Sites RETIRED.
 type: docs
 weight: 49820
-url: /aspose.medical.dicom.tags/tag/treatmentsitesretired/
+url: /net/aspose.medical.dicom.tags/tag/treatmentsitesretired/
 ---
 
 ## Tag.TreatmentSitesRETIRED field

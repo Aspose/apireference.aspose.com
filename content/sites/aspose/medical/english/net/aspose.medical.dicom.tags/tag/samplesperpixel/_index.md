@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280002 VRUS VM1 Samples per Pixel.
 type: docs
 weight: 40910
-url: /aspose.medical.dicom.tags/tag/samplesperpixel/
+url: /net/aspose.medical.dicom.tags/tag/samplesperpixel/
 ---
 
 ## Tag.SamplesPerPixel field

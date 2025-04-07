@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181164 VRDS VM2 Imager Pixel Spacing.
 type: docs
 weight: 19470
-url: /aspose.medical.dicom.tags/tag/imagerpixelspacing/
+url: /net/aspose.medical.dicom.tags/tag/imagerpixelspacing/
 ---
 
 ## Tag.ImagerPixelSpacing field

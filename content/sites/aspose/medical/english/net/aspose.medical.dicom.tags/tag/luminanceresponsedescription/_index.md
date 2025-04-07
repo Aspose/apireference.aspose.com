@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287020 VRLO VM1 Luminance Response Description.
 type: docs
 weight: 23140
-url: /aspose.medical.dicom.tags/tag/luminanceresponsedescription/
+url: /net/aspose.medical.dicom.tags/tag/luminanceresponsedescription/
 ---
 
 ## Tag.LuminanceResponseDescription field

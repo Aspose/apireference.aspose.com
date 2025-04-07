@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240085 VRSQ VM1 Localized Deviation Probability Sequence.
 type: docs
 weight: 22920
-url: /aspose.medical.dicom.tags/tag/localizeddeviationprobabilitysequence/
+url: /net/aspose.medical.dicom.tags/tag/localizeddeviationprobabilitysequence/
 ---
 
 ## Tag.LocalizedDeviationProbabilitySequence field

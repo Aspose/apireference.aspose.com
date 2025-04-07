@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189080 VRST VM1 Metabolite Map Description.
 type: docs
 weight: 24450
-url: /aspose.medical.dicom.tags/tag/metabolitemapdescription/
+url: /net/aspose.medical.dicom.tags/tag/metabolitemapdescription/
 ---
 
 ## Tag.MetaboliteMapDescription field

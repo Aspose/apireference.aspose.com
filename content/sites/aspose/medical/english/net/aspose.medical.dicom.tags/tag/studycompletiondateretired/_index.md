@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321050 VRDA VM1 Study Completion Date RETIRED.
 type: docs
 weight: 45970
-url: /aspose.medical.dicom.tags/tag/studycompletiondateretired/
+url: /net/aspose.medical.dicom.tags/tag/studycompletiondateretired/
 ---
 
 ## Tag.StudyCompletionDateRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Application Context Name DICOM Application Context Name.
 type: docs
 weight: 730
-url: /aspose.medical.dicom/uid/dicomapplicationcontextname/
+url: /net/aspose.medical.dicom/uid/dicomapplicationcontextname/
 ---
 
 ## Uid.DICOMApplicationContextName field

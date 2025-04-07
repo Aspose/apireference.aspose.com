@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404033 VRSQ VM1 Output Information Sequence.
 type: docs
 weight: 28780
-url: /aspose.medical.dicom.tags/tag/outputinformationsequence/
+url: /net/aspose.medical.dicom.tags/tag/outputinformationsequence/
 ---
 
 ## Tag.OutputInformationSequence field

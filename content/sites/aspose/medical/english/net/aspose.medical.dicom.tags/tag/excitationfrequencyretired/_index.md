@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144024 VRDS VM1 Excitation Frequency RETIRED.
 type: docs
 weight: 14250
-url: /aspose.medical.dicom.tags/tag/excitationfrequencyretired/
+url: /net/aspose.medical.dicom.tags/tag/excitationfrequencyretired/
 ---
 
 ## Tag.ExcitationFrequencyRETIRED field

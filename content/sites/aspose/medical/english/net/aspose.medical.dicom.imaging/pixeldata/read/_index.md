@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Creates a new instance of the PixelDataaspose.medical.dicom.imaging/pixeldata by reading existing Pixel Data element from the given dataset.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.imaging/pixeldata/read/
+url: /net/aspose.medical.dicom.imaging/pixeldata/read/
 ---
 
 ## PixelData.Read method

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160048 VRUS VM1 Contrast.
 type: docs
 weight: 8170
-url: /aspose.medical.dicom.tags/tag/contrast/
+url: /net/aspose.medical.dicom.tags/tag/contrast/
 ---
 
 ## Tag.Contrast field

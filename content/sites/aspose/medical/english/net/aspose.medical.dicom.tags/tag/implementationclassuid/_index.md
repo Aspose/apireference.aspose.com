@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020012 VRUI VM1 Implementation Class UID.
 type: docs
 weight: 20060
-url: /aspose.medical.dicom.tags/tag/implementationclassuid/
+url: /net/aspose.medical.dicom.tags/tag/implementationclassuid/
 ---
 
 ## Tag.ImplementationClassUID field

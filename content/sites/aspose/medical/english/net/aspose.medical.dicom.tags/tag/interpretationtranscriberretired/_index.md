@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4008010A VRPN VM1 Interpretation Transcriber RETIRED.
 type: docs
 weight: 21060
-url: /aspose.medical.dicom.tags/tag/interpretationtranscriberretired/
+url: /net/aspose.medical.dicom.tags/tag/interpretationtranscriberretired/
 ---
 
 ## Tag.InterpretationTranscriberRETIRED field

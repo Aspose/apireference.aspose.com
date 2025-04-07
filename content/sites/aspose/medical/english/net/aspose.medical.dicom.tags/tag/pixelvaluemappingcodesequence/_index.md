@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00409098 VRSQ VM1 Pixel Value Mapping Code Sequence.
 type: docs
 weight: 31590
-url: /aspose.medical.dicom.tags/tag/pixelvaluemappingcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/pixelvaluemappingcodesequence/
 ---
 
 ## Tag.PixelValueMappingCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540071 VRUS VM1 Number of Time Slots.
 type: docs
 weight: 27010
-url: /aspose.medical.dicom.tags/tag/numberoftimeslots/
+url: /net/aspose.medical.dicom.tags/tag/numberoftimeslots/
 ---
 
 ## Tag.NumberOfTimeSlots field

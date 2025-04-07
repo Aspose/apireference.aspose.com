@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008040E VRUI VM1 Stored Instance Transfer Syntax UID.
 type: docs
 weight: 45700
-url: /aspose.medical.dicom.tags/tag/storedinstancetransfersyntaxuid/
+url: /net/aspose.medical.dicom.tags/tag/storedinstancetransfersyntaxuid/
 ---
 
 ## Tag.StoredInstanceTransferSyntaxUID field

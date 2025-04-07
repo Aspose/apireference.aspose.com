@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081163 VRFD VM2 Time Range.
 type: docs
 weight: 48450
-url: /aspose.medical.dicom.tags/tag/timerange/
+url: /net/aspose.medical.dicom.tags/tag/timerange/
 ---
 
 ## Tag.TimeRange field

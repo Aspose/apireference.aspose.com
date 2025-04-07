@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Well-known SOP Instance Substance Administration Logging SOP Instance.
 type: docs
 weight: 4560
-url: /aspose.medical.dicom/uid/substanceadministrationloggingsopinstance/
+url: /net/aspose.medical.dicom/uid/substanceadministrationloggingsopinstance/
 ---
 
 ## Uid.SubstanceAdministrationLoggingSOPInstance field

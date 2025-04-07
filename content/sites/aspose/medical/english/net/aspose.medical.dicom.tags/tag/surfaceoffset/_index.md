@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660005 VRFL VM1 Surface Offset.
 type: docs
 weight: 46400
-url: /aspose.medical.dicom.tags/tag/surfaceoffset/
+url: /net/aspose.medical.dicom.tags/tag/surfaceoffset/
 ---
 
 ## Tag.SurfaceOffset field

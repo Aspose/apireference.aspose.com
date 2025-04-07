@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080414 VRUS VM1 Requested Status Interval.
 type: docs
 weight: 38810
-url: /aspose.medical.dicom.tags/tag/requestedstatusinterval/
+url: /net/aspose.medical.dicom.tags/tag/requestedstatusinterval/
 ---
 
 ## Tag.RequestedStatusInterval field

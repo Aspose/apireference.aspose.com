@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720512 VRFD VM1 Reformatting Thickness.
 type: docs
 weight: 37920
-url: /aspose.medical.dicom.tags/tag/reformattingthickness/
+url: /net/aspose.medical.dicom.tags/tag/reformattingthickness/
 ---
 
 ## Tag.ReformattingThickness field

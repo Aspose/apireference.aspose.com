@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400242 VRSH VM1 Performed Station Name.
 type: docs
 weight: 30810
-url: /aspose.medical.dicom.tags/tag/performedstationname/
+url: /net/aspose.medical.dicom.tags/tag/performedstationname/
 ---
 
 ## Tag.PerformedStationName field

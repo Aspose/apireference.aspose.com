@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187046 VRIS VM2 Grid Aspect Ratio.
 type: docs
 weight: 18020
-url: /aspose.medical.dicom.tags/tag/gridaspectratio/
+url: /net/aspose.medical.dicom.tags/tag/gridaspectratio/
 ---
 
 ## Tag.GridAspectRatio field

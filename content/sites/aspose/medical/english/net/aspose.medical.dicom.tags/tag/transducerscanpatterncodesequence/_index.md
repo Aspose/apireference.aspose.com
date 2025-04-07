@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189809 VRSQ VM1 Transducer Scan Pattern Code Sequence.
 type: docs
 weight: 49330
-url: /aspose.medical.dicom.tags/tag/transducerscanpatterncodesequence/
+url: /net/aspose.medical.dicom.tags/tag/transducerscanpatterncodesequence/
 ---
 
 ## Tag.TransducerScanPatternCodeSequence field

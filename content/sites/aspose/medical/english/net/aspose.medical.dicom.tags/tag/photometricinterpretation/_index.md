@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280004 VRCS VM1 Photometric Interpretation.
 type: docs
 weight: 31190
-url: /aspose.medical.dicom.tags/tag/photometricinterpretation/
+url: /net/aspose.medical.dicom.tags/tag/photometricinterpretation/
 ---
 
 ## Tag.PhotometricInterpretation field

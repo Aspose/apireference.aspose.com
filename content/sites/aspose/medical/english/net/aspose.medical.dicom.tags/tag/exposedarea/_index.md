@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400303 VRUS VM1-2 Exposed Area.
 type: docs
 weight: 14420
-url: /aspose.medical.dicom.tags/tag/exposedarea/
+url: /net/aspose.medical.dicom.tags/tag/exposedarea/
 ---
 
 ## Tag.ExposedArea field

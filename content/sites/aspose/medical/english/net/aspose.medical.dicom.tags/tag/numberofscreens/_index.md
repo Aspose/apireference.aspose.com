@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720100 VRUS VM1 Number of Screens.
 type: docs
 weight: 26840
-url: /aspose.medical.dicom.tags/tag/numberofscreens/
+url: /net/aspose.medical.dicom.tags/tag/numberofscreens/
 ---
 
 ## Tag.NumberOfScreens field

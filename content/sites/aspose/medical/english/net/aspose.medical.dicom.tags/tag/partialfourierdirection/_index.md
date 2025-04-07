@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189036 VRCS VM1 Partial Fourier Direction.
 type: docs
 weight: 29600
-url: /aspose.medical.dicom.tags/tag/partialfourierdirection/
+url: /net/aspose.medical.dicom.tags/tag/partialfourierdirection/
 ---
 
 ## Tag.PartialFourierDirection field

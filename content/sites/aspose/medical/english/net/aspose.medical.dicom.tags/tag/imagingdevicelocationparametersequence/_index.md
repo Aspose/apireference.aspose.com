@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020113 VRSQ VM1 Imaging Device Location Parameter Sequence.
 type: docs
 weight: 19670
-url: /aspose.medical.dicom.tags/tag/imagingdevicelocationparametersequence/
+url: /net/aspose.medical.dicom.tags/tag/imagingdevicelocationparametersequence/
 ---
 
 ## Tag.ImagingDeviceLocationParameterSequence field

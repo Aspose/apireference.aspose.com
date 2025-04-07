@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Specifies that the Value Representation of the transfer syntax is explicit. Read-only Boolean.
 type: docs
 weight: 620
-url: /aspose.medical.dicom/transfersyntax/isexplicitvr/
+url: /net/aspose.medical.dicom/transfersyntax/isexplicitvr/
 ---
 
 ## TransferSyntax.IsExplicitVr property

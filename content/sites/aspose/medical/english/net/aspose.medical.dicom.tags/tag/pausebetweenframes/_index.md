@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540038 VRIS VM1 Pause Between Frames.
 type: docs
 weight: 30570
-url: /aspose.medical.dicom.tags/tag/pausebetweenframes/
+url: /net/aspose.medical.dicom.tags/tag/pausebetweenframes/
 ---
 
 ## Tag.PauseBetweenFrames field

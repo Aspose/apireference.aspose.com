@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008030E VRUT VM1 Private Data Element Description.
 type: docs
 weight: 33090
-url: /aspose.medical.dicom.tags/tag/privatedataelementdescription/
+url: /net/aspose.medical.dicom.tags/tag/privatedataelementdescription/
 ---
 
 ## Tag.PrivateDataElementDescription field

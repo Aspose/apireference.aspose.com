@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460232 VRFL VM1 Surface Asymmetry Index.
 type: docs
 weight: 46300
-url: /aspose.medical.dicom.tags/tag/surfaceasymmetryindex/
+url: /net/aspose.medical.dicom.tags/tag/surfaceasymmetryindex/
 ---
 
 ## Tag.SurfaceAsymmetryIndex field

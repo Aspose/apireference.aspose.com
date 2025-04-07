@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Microscopy Bulk Simple Annotations Storage.
 type: docs
 weight: 2580
-url: /aspose.medical.dicom/uid/microscopybulksimpleannotationsstorage/
+url: /net/aspose.medical.dicom/uid/microscopybulksimpleannotationsstorage/
 ---
 
 ## Uid.MicroscopyBulkSimpleAnnotationsStorage field

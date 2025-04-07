@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016008E VRIS VM1 GPS Differential.
 type: docs
 weight: 17540
-url: /aspose.medical.dicom.tags/tag/gpsdifferential/
+url: /net/aspose.medical.dicom.tags/tag/gpsdifferential/
 ---
 
 ## Tag.GPSDifferential field

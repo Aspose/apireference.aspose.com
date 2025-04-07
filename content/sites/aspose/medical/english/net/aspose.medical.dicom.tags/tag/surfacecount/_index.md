@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0066002A VRUL VM1 Surface Count.
 type: docs
 weight: 46320
-url: /aspose.medical.dicom.tags/tag/surfacecount/
+url: /net/aspose.medical.dicom.tags/tag/surfacecount/
 ---
 
 ## Tag.SurfaceCount field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014600A VRDS VM1 Source Horizontal Scan Speed RETIRED.
 type: docs
 weight: 44170
-url: /aspose.medical.dicom.tags/tag/sourcehorizontalscanspeedretired/
+url: /net/aspose.medical.dicom.tags/tag/sourcehorizontalscanspeedretired/
 ---
 
 ## Tag.SourceHorizontalScanSpeedRETIRED field

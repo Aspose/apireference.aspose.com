@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100510 VRSQ VM1 Referenced Image Box Sequence.
 type: docs
 weight: 36520
-url: /aspose.medical.dicom.tags/tag/referencedimageboxsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedimageboxsequence/
 ---
 
 ## Tag.ReferencedImageBoxSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0074102C VRFD VM1 Table Top Pitch Adjusted Angle.
 type: docs
 weight: 47050
-url: /aspose.medical.dicom.tags/tag/tabletoppitchadjustedangle/
+url: /net/aspose.medical.dicom.tags/tag/tabletoppitchadjustedangle/
 ---
 
 ## Tag.TableTopPitchAdjustedAngle field

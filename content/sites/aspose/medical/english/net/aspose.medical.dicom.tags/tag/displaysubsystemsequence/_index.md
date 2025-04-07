@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287023 VRSQ VM1 Display Subsystem Sequence.
 type: docs
 weight: 12300
-url: /aspose.medical.dicom.tags/tag/displaysubsystemsequence/
+url: /net/aspose.medical.dicom.tags/tag/displaysubsystemsequence/
 ---
 
 ## Tag.DisplaySubsystemSequence field

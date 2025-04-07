@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081052 VRSQ VM1 Performing Physician Identification Sequence.
 type: docs
 weight: 30840
-url: /aspose.medical.dicom.tags/tag/performingphysicianidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/performingphysicianidentificationsequence/
 ---
 
 ## Tag.PerformingPhysicianIdentificationSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181141 VRDS VM1 Angular Position RETIRED.
 type: docs
 weight: 1670
-url: /aspose.medical.dicom.tags/tag/angularpositionretired/
+url: /net/aspose.medical.dicom.tags/tag/angularpositionretired/
 ---
 
 ## Tag.AngularPositionRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101034 VRUS VM1 Number of Alarm Objects RETIRED.
 type: docs
 weight: 26060
-url: /aspose.medical.dicom.tags/tag/numberofalarmobjectsretired/
+url: /net/aspose.medical.dicom.tags/tag/numberofalarmobjectsretired/
 ---
 
 ## Tag.NumberOfAlarmObjectsRETIRED field

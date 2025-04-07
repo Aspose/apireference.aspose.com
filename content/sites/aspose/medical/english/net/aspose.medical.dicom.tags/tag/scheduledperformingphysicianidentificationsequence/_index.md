@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040000B VRSQ VM1 Scheduled Performing Physician Identification Sequence.
 type: docs
 weight: 41330
-url: /aspose.medical.dicom.tags/tag/scheduledperformingphysicianidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/scheduledperformingphysicianidentificationsequence/
 ---
 
 ## Tag.ScheduledPerformingPhysicianIdentificationSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080068 VRSQ VM1 Corrected Parameter Sequence.
 type: docs
 weight: 8980
-url: /aspose.medical.dicom.tags/tag/correctedparametersequence/
+url: /net/aspose.medical.dicom.tags/tag/correctedparametersequence/
 ---
 
 ## Tag.CorrectedParameterSequence field

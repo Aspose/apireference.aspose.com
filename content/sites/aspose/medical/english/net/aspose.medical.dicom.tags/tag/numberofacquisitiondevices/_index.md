@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020116 VRUS VM1 Number of Acquisition Devices.
 type: docs
 weight: 26050
-url: /aspose.medical.dicom.tags/tag/numberofacquisitiondevices/
+url: /net/aspose.medical.dicom.tags/tag/numberofacquisitiondevices/
 ---
 
 ## Tag.NumberOfAcquisitionDevices field

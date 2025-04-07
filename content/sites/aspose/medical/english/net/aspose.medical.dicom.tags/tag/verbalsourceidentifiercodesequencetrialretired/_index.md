@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A358 VRSQ VM1 Verbal Source Identifier Code Sequence Trial RETIRED.
 type: docs
 weight: 50870
-url: /aspose.medical.dicom.tags/tag/verbalsourceidentifiercodesequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/verbalsourceidentifiercodesequencetrialretired/
 ---
 
 ## Tag.VerbalSourceIdentifierCodeSequenceTrialRETIRED field

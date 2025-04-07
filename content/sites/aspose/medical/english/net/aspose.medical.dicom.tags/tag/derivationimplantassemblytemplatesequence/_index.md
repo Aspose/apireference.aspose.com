@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0076000E VRSQ VM1 Derivation Implant Assembly Template Sequence.
 type: docs
 weight: 10830
-url: /aspose.medical.dicom.tags/tag/derivationimplantassemblytemplatesequence/
+url: /net/aspose.medical.dicom.tags/tag/derivationimplantassemblytemplatesequence/
 ---
 
 ## Tag.DerivationImplantAssemblyTemplateSequence field

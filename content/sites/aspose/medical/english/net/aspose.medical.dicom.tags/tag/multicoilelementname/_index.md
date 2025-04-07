@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189047 VRSH VM1 Multi-Coil Element Name.
 type: docs
 weight: 25370
-url: /aspose.medical.dicom.tags/tag/multicoilelementname/
+url: /net/aspose.medical.dicom.tags/tag/multicoilelementname/
 ---
 
 ## Tag.MultiCoilElementName field

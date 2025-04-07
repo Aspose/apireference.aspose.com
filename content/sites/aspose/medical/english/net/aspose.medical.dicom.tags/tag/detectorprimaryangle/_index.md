@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181530 VRDS VM1 Detector Primary Angle.
 type: docs
 weight: 11150
-url: /aspose.medical.dicom.tags/tag/detectorprimaryangle/
+url: /net/aspose.medical.dicom.tags/tag/detectorprimaryangle/
 ---
 
 ## Tag.DetectorPrimaryAngle field

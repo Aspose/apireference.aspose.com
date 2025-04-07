@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014201A VRCS VM1-n Indication Type RETIRED.
 type: docs
 weight: 20290
-url: /aspose.medical.dicom.tags/tag/indicationtyperetired/
+url: /net/aspose.medical.dicom.tags/tag/indicationtyperetired/
 ---
 
 ## Tag.IndicationTypeRETIRED field

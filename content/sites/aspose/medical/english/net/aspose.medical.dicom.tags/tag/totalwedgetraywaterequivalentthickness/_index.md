@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00D7 VRFL VM1 Total Wedge Tray Water-Equivalent Thickness.
 type: docs
 weight: 49040
-url: /aspose.medical.dicom.tags/tag/totalwedgetraywaterequivalentthickness/
+url: /net/aspose.medical.dicom.tags/tag/totalwedgetraywaterequivalentthickness/
 ---
 
 ## Tag.TotalWedgeTrayWaterEquivalentThickness field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class DICOS 3D AIT Storage.
 type: docs
 weight: 1150
-url: /aspose.medical.dicom/uid/dicos3daitstorage/
+url: /net/aspose.medical.dicom/uid/dicos3daitstorage/
 ---
 
 ## Uid.DICOS3DAITStorage field

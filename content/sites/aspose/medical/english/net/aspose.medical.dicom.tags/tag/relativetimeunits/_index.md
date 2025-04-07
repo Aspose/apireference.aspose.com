@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072003A VRCS VM1 Relative Time Units.
 type: docs
 weight: 38340
-url: /aspose.medical.dicom.tags/tag/relativetimeunits/
+url: /net/aspose.medical.dicom.tags/tag/relativetimeunits/
 ---
 
 ## Tag.RelativeTimeUnits field

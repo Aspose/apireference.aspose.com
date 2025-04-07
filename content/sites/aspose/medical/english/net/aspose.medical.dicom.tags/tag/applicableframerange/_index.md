@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00286102 VRUS VM2-2n Applicable Frame Range.
 type: docs
 weight: 2020
-url: /aspose.medical.dicom.tags/tag/applicableframerange/
+url: /net/aspose.medical.dicom.tags/tag/applicableframerange/
 ---
 
 ## Tag.ApplicableFrameRange field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The Source Application Entity Title. Read-only String.
 type: docs
 weight: 100
-url: /aspose.medical.dicom/metainformation/sourceapplicationentitytitle/
+url: /net/aspose.medical.dicom/metainformation/sourceapplicationentitytitle/
 ---
 
 ## MetaInformation.SourceApplicationEntityTitle property

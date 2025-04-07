@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class DICOS CT Image Storage.
 type: docs
 weight: 1160
-url: /aspose.medical.dicom/uid/dicosctimagestorage/
+url: /net/aspose.medical.dicom/uid/dicosctimagestorage/
 ---
 
 ## Uid.DICOSCTImageStorage field

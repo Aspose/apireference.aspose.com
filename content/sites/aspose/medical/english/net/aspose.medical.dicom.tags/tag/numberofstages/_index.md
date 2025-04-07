@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082124 VRIS VM1 Number of Stages.
 type: docs
 weight: 26870
-url: /aspose.medical.dicom.tags/tag/numberofstages/
+url: /net/aspose.medical.dicom.tags/tag/numberofstages/
 ---
 
 ## Tag.NumberOfStages field

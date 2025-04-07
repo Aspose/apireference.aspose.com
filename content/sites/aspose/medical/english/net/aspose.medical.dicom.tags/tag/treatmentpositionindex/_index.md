@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0606 VRUS VM1 Treatment Position Index.
 type: docs
 weight: 49710
-url: /aspose.medical.dicom.tags/tag/treatmentpositionindex/
+url: /net/aspose.medical.dicom.tags/tag/treatmentpositionindex/
 ---
 
 ## Tag.TreatmentPositionIndex field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189919 VRDT VM1 Instruction Performed DateTime.
 type: docs
 weight: 20610
-url: /aspose.medical.dicom.tags/tag/instructionperformeddatetime/
+url: /net/aspose.medical.dicom.tags/tag/instructionperformeddatetime/
 ---
 
 ## Tag.InstructionPerformedDateTime field

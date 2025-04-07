@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181050 VRDS VM1 Spatial Resolution.
 type: docs
 weight: 44780
-url: /aspose.medical.dicom.tags/tag/spatialresolution/
+url: /net/aspose.medical.dicom.tags/tag/spatialresolution/
 ---
 
 ## Tag.SpatialResolution field

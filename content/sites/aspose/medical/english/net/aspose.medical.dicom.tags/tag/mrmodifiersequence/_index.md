@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189115 VRSQ VM1 MR Modifier Sequence.
 type: docs
 weight: 25260
-url: /aspose.medical.dicom.tags/tag/mrmodifiersequence/
+url: /net/aspose.medical.dicom.tags/tag/mrmodifiersequence/
 ---
 
 ## Tag.MRModifierSequence field

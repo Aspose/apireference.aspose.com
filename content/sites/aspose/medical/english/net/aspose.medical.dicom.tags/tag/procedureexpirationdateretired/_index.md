@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144078 VRDA VM1 Procedure Expiration Date RETIRED.
 type: docs
 weight: 33350
-url: /aspose.medical.dicom.tags/tag/procedureexpirationdateretired/
+url: /net/aspose.medical.dicom.tags/tag/procedureexpirationdateretired/
 ---
 
 ## Tag.ProcedureExpirationDateRETIRED field

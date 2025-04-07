@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460100 VRSQ VM1 Add Near Sequence.
 type: docs
 weight: 900
-url: /aspose.medical.dicom.tags/tag/addnearsequence/
+url: /net/aspose.medical.dicom.tags/tag/addnearsequence/
 ---
 
 ## Tag.AddNearSequence field

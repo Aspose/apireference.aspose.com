@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000850 VRUS VM1 Number of Matches RETIRED.
 type: docs
 weight: 26550
-url: /aspose.medical.dicom.tags/tag/numberofmatchesretired/
+url: /net/aspose.medical.dicom.tags/tag/numberofmatchesretired/
 ---
 
 ## Tag.NumberOfMatchesRETIRED field

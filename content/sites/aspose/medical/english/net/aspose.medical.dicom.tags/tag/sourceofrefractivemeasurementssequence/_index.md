@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221134 VRSQ VM1 Source of Refractive Measurements Sequence.
 type: docs
 weight: 44380
-url: /aspose.medical.dicom.tags/tag/sourceofrefractivemeasurementssequence/
+url: /net/aspose.medical.dicom.tags/tag/sourceofrefractivemeasurementssequence/
 ---
 
 ## Tag.SourceOfRefractiveMeasurementsSequence field

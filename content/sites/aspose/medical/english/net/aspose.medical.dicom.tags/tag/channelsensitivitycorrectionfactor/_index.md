@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0212 VRDS VM1 Channel Sensitivity Correction Factor.
 type: docs
 weight: 5620
-url: /aspose.medical.dicom.tags/tag/channelsensitivitycorrectionfactor/
+url: /net/aspose.medical.dicom.tags/tag/channelsensitivitycorrectionfactor/
 ---
 
 ## Tag.ChannelSensitivityCorrectionFactor field

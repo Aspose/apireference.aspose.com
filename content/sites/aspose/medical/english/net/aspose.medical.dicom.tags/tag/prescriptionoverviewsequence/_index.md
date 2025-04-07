@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0114 VRSQ VM1 Prescription Overview Sequence.
 type: docs
 weight: 32470
-url: /aspose.medical.dicom.tags/tag/prescriptionoverviewsequence/
+url: /net/aspose.medical.dicom.tags/tag/prescriptionoverviewsequence/
 ---
 
 ## Tag.PrescriptionOverviewSequence field

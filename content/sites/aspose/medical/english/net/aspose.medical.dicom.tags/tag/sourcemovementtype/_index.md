@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0288 VRCS VM1 Source Movement Type.
 type: docs
 weight: 44290
-url: /aspose.medical.dicom.tags/tag/sourcemovementtype/
+url: /net/aspose.medical.dicom.tags/tag/sourcemovementtype/
 ---
 
 ## Tag.SourceMovementType field

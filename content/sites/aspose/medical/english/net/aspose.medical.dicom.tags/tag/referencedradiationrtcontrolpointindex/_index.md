@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A073B VRUS VM1 Referenced Radiation RT Control Point Index.
 type: docs
 weight: 37030
-url: /aspose.medical.dicom.tags/tag/referencedradiationrtcontrolpointindex/
+url: /net/aspose.medical.dicom.tags/tag/referencedradiationrtcontrolpointindex/
 ---
 
 ## Tag.ReferencedRadiationRTControlPointIndex field

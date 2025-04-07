@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100003 VRSQ VM1 Effective Dose Calculation Method Category Code Sequence.
 type: docs
 weight: 13290
-url: /aspose.medical.dicom.tags/tag/effectivedosecalculationmethodcategorycodesequence/
+url: /net/aspose.medical.dicom.tags/tag/effectivedosecalculationmethodcategorycodesequence/
 ---
 
 ## Tag.EffectiveDoseCalculationMethodCategoryCodeSequence field

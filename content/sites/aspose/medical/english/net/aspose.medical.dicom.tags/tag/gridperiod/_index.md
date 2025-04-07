@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187048 VRDS VM1 Grid Period.
 type: docs
 weight: 18070
-url: /aspose.medical.dicom.tags/tag/gridperiod/
+url: /net/aspose.medical.dicom.tags/tag/gridperiod/
 ---
 
 ## Tag.GridPeriod field

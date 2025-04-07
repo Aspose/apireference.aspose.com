@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300800C0 VRSQ VM1 Recorded Compensator Sequence.
 type: docs
 weight: 35790
-url: /aspose.medical.dicom.tags/tag/recordedcompensatorsequence/
+url: /net/aspose.medical.dicom.tags/tag/recordedcompensatorsequence/
 ---
 
 ## Tag.RecordedCompensatorSequence field

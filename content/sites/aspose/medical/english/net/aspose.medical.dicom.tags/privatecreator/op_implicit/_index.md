@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Converts the PrivateCreatoraspose.medical.dicom.tags/privatecreator to String.
 type: docs
 weight: 70
-url: /aspose.medical.dicom.tags/privatecreator/op_implicit/
+url: /net/aspose.medical.dicom.tags/privatecreator/op_implicit/
 ---
 
 ## PrivateCreator Implicit operator

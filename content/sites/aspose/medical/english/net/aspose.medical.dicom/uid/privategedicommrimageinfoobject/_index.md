@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private GE Dicom MR Image Info Object.
 type: docs
 weight: 3260
-url: /aspose.medical.dicom/uid/privategedicommrimageinfoobject/
+url: /net/aspose.medical.dicom/uid/privategedicommrimageinfoobject/
 ---
 
 ## Uid.PrivateGeDicomMrImageInfoObject field

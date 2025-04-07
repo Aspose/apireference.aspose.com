@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0506 VRSQ VM1 Delivered Depth Dose Parameters Sequence.
 type: docs
 weight: 10530
-url: /aspose.medical.dicom.tags/tag/delivereddepthdoseparameterssequence/
+url: /net/aspose.medical.dicom.tags/tag/delivereddepthdoseparameterssequence/
 ---
 
 ## Tag.DeliveredDepthDoseParametersSequence field

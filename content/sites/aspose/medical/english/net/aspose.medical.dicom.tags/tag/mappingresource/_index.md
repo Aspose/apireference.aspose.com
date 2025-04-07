@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080105 VRCS VM1 Mapping Resource.
 type: docs
 weight: 23510
-url: /aspose.medical.dicom.tags/tag/mappingresource/
+url: /net/aspose.medical.dicom.tags/tag/mappingresource/
 ---
 
 ## Tag.MappingResource field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701301 VRSQ VM1 Volume Cropping Sequence.
 type: docs
 weight: 51610
-url: /aspose.medical.dicom.tags/tag/volumecroppingsequence/
+url: /net/aspose.medical.dicom.tags/tag/volumecroppingsequence/
 ---
 
 ## Tag.VolumeCroppingSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax JPEG 2000 Image Compression.
 type: docs
 weight: 2150
-url: /aspose.medical.dicom/uid/jpeg2000/
+url: /net/aspose.medical.dicom/uid/jpeg2000/
 ---
 
 ## Uid.Jpeg2000 field

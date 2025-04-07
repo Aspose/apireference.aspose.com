@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101007 VRSH VM1 Route Segment ID RETIRED.
 type: docs
 weight: 39740
-url: /aspose.medical.dicom.tags/tag/routesegmentidretired/
+url: /net/aspose.medical.dicom.tags/tag/routesegmentidretired/
 ---
 
 ## Tag.RouteSegmentIDRETIRED field

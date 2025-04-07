@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A493 VRCS VM1 Verification Flag.
 type: docs
 weight: 50900
-url: /aspose.medical.dicom.tags/tag/verificationflag/
+url: /net/aspose.medical.dicom.tags/tag/verificationflag/
 ---
 
 ## Tag.VerificationFlag field

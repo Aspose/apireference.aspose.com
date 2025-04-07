@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A167 VRSQ VM1 Observation Category Code Sequence Trial RETIRED.
 type: docs
 weight: 27290
-url: /aspose.medical.dicom.tags/tag/observationcategorycodesequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/observationcategorycodesequencetrialretired/
 ---
 
 ## Tag.ObservationCategoryCodeSequenceTrialRETIRED field

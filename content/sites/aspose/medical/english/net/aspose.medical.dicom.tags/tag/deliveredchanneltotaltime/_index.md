@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080134 VRDS VM1 Delivered Channel Total Time.
 type: docs
 weight: 10520
-url: /aspose.medical.dicom.tags/tag/deliveredchanneltotaltime/
+url: /net/aspose.medical.dicom.tags/tag/deliveredchanneltotaltime/
 ---
 
 ## Tag.DeliveredChannelTotalTime field

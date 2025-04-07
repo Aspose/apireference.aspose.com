@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3006002A VRIS VM3 ROI Display Color.
 type: docs
 weight: 39420
-url: /aspose.medical.dicom.tags/tag/roidisplaycolor/
+url: /net/aspose.medical.dicom.tags/tag/roidisplaycolor/
 ---
 
 ## Tag.ROIDisplayColor field

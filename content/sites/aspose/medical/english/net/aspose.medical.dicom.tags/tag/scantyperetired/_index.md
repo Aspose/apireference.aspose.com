@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101048 VRCS VM1 Scan Type RETIRED.
 type: docs
 weight: 41200
-url: /aspose.medical.dicom.tags/tag/scantyperetired/
+url: /net/aspose.medical.dicom.tags/tag/scantyperetired/
 ---
 
 ## Tag.ScanTypeRETIRED field

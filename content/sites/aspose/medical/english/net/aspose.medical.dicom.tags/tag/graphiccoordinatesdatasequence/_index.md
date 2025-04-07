@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700318 VRSQ VM1 Graphic Coordinates Data Sequence.
 type: docs
 weight: 17780
-url: /aspose.medical.dicom.tags/tag/graphiccoordinatesdatasequence/
+url: /net/aspose.medical.dicom.tags/tag/graphiccoordinatesdatasequence/
 ---
 
 ## Tag.GraphicCoordinatesDataSequence field

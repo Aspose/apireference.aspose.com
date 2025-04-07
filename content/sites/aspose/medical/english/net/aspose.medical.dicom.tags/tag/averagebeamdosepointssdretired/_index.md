@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A008F VRFL VM1 Average Beam Dose Point SSD RETIRED.
 type: docs
 weight: 3020
-url: /aspose.medical.dicom.tags/tag/averagebeamdosepointssdretired/
+url: /net/aspose.medical.dicom.tags/tag/averagebeamdosepointssdretired/
 ---
 
 ## Tag.AverageBeamDosePointSSDRETIRED field

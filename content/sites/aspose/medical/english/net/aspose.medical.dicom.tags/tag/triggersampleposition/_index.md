@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018106E VRUL VM1 Trigger Sample Position.
 type: docs
 weight: 50040
-url: /aspose.medical.dicom.tags/tag/triggersampleposition/
+url: /net/aspose.medical.dicom.tags/tag/triggersampleposition/
 ---
 
 ## Tag.TriggerSamplePosition field

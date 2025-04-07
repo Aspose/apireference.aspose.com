@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0012 VRIS VM1 Dose Reference Number.
 type: docs
 weight: 12720
-url: /aspose.medical.dicom.tags/tag/dosereferencenumber/
+url: /net/aspose.medical.dicom.tags/tag/dosereferencenumber/
 ---
 
 ## Tag.DoseReferenceNumber field

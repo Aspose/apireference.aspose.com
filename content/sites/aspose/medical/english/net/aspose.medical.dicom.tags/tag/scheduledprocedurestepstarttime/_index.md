@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400003 VRTM VM1 Scheduled Procedure Step Start Time.
 type: docs
 weight: 41460
-url: /aspose.medical.dicom.tags/tag/scheduledprocedurestepstarttime/
+url: /net/aspose.medical.dicom.tags/tag/scheduledprocedurestepstarttime/
 ---
 
 ## Tag.ScheduledProcedureStepStartTime field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100222 VRUC VM1 Genetic Modifications Description.
 type: docs
 weight: 17290
-url: /aspose.medical.dicom.tags/tag/geneticmodificationsdescription/
+url: /net/aspose.medical.dicom.tags/tag/geneticmodificationsdescription/
 ---
 
 ## Tag.GeneticModificationsDescription field

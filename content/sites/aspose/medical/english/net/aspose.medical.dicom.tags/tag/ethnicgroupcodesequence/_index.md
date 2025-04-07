@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102161 VRSQ VM1 Ethnic Group Code Sequence.
 type: docs
 weight: 14060
-url: /aspose.medical.dicom.tags/tag/ethnicgroupcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/ethnicgroupcodesequence/
 ---
 
 ## Tag.EthnicGroupCodeSequence field

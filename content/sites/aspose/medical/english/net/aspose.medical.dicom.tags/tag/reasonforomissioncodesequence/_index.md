@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0788 VRSQ VM1 Reason for Omission Code Sequence.
 type: docs
 weight: 35140
-url: /aspose.medical.dicom.tags/tag/reasonforomissioncodesequence/
+url: /net/aspose.medical.dicom.tags/tag/reasonforomissioncodesequence/
 ---
 
 ## Tag.ReasonForOmissionCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440107 VRSQ VM1 Related Assertion Sequence.
 type: docs
 weight: 38180
-url: /aspose.medical.dicom.tags/tag/relatedassertionsequence/
+url: /net/aspose.medical.dicom.tags/tag/relatedassertionsequence/
 ---
 
 ## Tag.RelatedAssertionSequence field

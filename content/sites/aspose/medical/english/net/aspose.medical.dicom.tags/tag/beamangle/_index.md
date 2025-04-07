@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189449 VRFL VM1 Beam Angle.
 type: docs
 weight: 3270
-url: /aspose.medical.dicom.tags/tag/beamangle/
+url: /net/aspose.medical.dicom.tags/tag/beamangle/
 ---
 
 ## Tag.BeamAngle field

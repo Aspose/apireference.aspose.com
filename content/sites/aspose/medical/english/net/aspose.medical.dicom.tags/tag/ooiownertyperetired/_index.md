@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101009 VRCS VM1 OOI Owner Type RETIRED.
 type: docs
 weight: 27690
-url: /aspose.medical.dicom.tags/tag/ooiownertyperetired/
+url: /net/aspose.medical.dicom.tags/tag/ooiownertyperetired/
 ---
 
 ## Tag.OOIOwnerTypeRETIRED field

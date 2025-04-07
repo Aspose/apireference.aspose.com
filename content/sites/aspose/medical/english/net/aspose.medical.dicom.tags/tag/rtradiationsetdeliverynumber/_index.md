@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0704 VRUS VM1 RT Radiation Set Delivery Number.
 type: docs
 weight: 40460
-url: /aspose.medical.dicom.tags/tag/rtradiationsetdeliverynumber/
+url: /net/aspose.medical.dicom.tags/tag/rtradiationsetdeliverynumber/
 ---
 
 ## Tag.RTRadiationSetDeliveryNumber field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00420015 VRUL VM1 Encapsulated Document Length.
 type: docs
 weight: 13490
-url: /aspose.medical.dicom.tags/tag/encapsulateddocumentlength/
+url: /net/aspose.medical.dicom.tags/tag/encapsulateddocumentlength/
 ---
 
 ## Tag.EncapsulatedDocumentLength field

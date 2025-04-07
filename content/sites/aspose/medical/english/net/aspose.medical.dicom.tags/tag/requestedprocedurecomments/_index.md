@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401400 VRLT VM1 Requested Procedure Comments.
 type: docs
 weight: 38700
-url: /aspose.medical.dicom.tags/tag/requestedprocedurecomments/
+url: /net/aspose.medical.dicom.tags/tag/requestedprocedurecomments/
 ---
 
 ## Tag.RequestedProcedureComments field

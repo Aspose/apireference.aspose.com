@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A07A VRSQ VM1 Participant Sequence.
 type: docs
 weight: 29640
-url: /aspose.medical.dicom.tags/tag/participantsequence/
+url: /net/aspose.medical.dicom.tags/tag/participantsequence/
 ---
 
 ## Tag.ParticipantSequence field

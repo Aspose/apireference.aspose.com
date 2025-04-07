@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00183104 VRIS VM1 IVUS Pullback Stop Frame Number.
 type: docs
 weight: 22050
-url: /aspose.medical.dicom.tags/tag/ivuspullbackstopframenumber/
+url: /net/aspose.medical.dicom.tags/tag/ivuspullbackstopframenumber/
 ---
 
 ## Tag.IVUSPullbackStopFrameNumber field

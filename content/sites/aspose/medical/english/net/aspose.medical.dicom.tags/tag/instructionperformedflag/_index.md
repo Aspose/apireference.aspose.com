@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189918 VRCS VM1 Instruction Performed Flag.
 type: docs
 weight: 20620
-url: /aspose.medical.dicom.tags/tag/instructionperformedflag/
+url: /net/aspose.medical.dicom.tags/tag/instructionperformedflag/
 ---
 
 ## Tag.InstructionPerformedFlag field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: LDAP OID dicomIssuerOfPatientID.
 type: docs
 weight: 900
-url: /aspose.medical.dicom/uid/dicomissuerofpatientid/
+url: /net/aspose.medical.dicom/uid/dicomissuerofpatientid/
 ---
 
 ## Uid.DicomIssuerOfPatientID field

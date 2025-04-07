@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028140D VRCS VM1 Blending LUT 2 Transfer Function.
 type: docs
 weight: 3880
-url: /aspose.medical.dicom.tags/tag/blendinglut2transferfunction/
+url: /net/aspose.medical.dicom.tags/tag/blendinglut2transferfunction/
 ---
 
 ## Tag.BlendingLUT2TransferFunction field

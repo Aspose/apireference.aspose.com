@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020126 VRSQ VM1 CT Imaging Acquisition Parameter Sequence.
 type: docs
 weight: 9270
-url: /aspose.medical.dicom.tags/tag/ctimagingacquisitionparametersequence/
+url: /net/aspose.medical.dicom.tags/tag/ctimagingacquisitionparametersequence/
 ---
 
 ## Tag.CTImagingAcquisitionParameterSequence field

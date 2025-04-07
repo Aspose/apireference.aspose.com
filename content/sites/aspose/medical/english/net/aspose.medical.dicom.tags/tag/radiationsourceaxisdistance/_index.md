@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0640 VRFD VM1 Radiation Source-Axis Distance.
 type: docs
 weight: 34450
-url: /aspose.medical.dicom.tags/tag/radiationsourceaxisdistance/
+url: /net/aspose.medical.dicom.tags/tag/radiationsourceaxisdistance/
 ---
 
 ## Tag.RadiationSourceAxisDistance field

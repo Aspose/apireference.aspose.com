@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189507 VRSQ VM1 X-Ray 3D Acquisition Sequence.
 type: docs
 weight: 52680
-url: /aspose.medical.dicom.tags/tag/xray3dacquisitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/xray3dacquisitionsequence/
 ---
 
 ## Tag.XRay3DAcquisitionSequence field

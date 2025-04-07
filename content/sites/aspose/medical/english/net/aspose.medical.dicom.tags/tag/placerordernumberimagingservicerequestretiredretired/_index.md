@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00402006 VRSH VM1 Placer Order Number / Imaging Service Request Retired RETIRED.
 type: docs
 weight: 31640
-url: /aspose.medical.dicom.tags/tag/placerordernumberimagingservicerequestretiredretired/
+url: /net/aspose.medical.dicom.tags/tag/placerordernumberimagingservicerequestretiredretired/
 ---
 
 ## Tag.PlacerOrderNumberImagingServiceRequestRetiredRETIRED field

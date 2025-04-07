@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00340008 VRCS VM1 Includes Imaging Subject.
 type: docs
 weight: 20130
-url: /aspose.medical.dicom.tags/tag/includesimagingsubject/
+url: /net/aspose.medical.dicom.tags/tag/includesimagingsubject/
 ---
 
 ## Tag.IncludesImagingSubject field

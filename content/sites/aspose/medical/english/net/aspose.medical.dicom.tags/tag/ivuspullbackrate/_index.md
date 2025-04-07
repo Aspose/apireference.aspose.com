@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00183101 VRDS VM1 IVUS Pullback Rate.
 type: docs
 weight: 22030
-url: /aspose.medical.dicom.tags/tag/ivuspullbackrate/
+url: /net/aspose.medical.dicom.tags/tag/ivuspullbackrate/
 ---
 
 ## Tag.IVUSPullbackRate field

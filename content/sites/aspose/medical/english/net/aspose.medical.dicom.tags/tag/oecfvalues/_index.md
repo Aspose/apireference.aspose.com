@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160009 VRDS VM1-n OECF Values.
 type: docs
 weight: 27540
-url: /aspose.medical.dicom.tags/tag/oecfvalues/
+url: /net/aspose.medical.dicom.tags/tag/oecfvalues/
 ---
 
 ## Tag.OECFValues field

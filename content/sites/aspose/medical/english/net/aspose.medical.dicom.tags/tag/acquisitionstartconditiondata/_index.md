@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180074 VRIS VM1 Acquisition Start Condition Data.
 type: docs
 weight: 520
-url: /aspose.medical.dicom.tags/tag/acquisitionstartconditiondata/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionstartconditiondata/
 ---
 
 ## Tag.AcquisitionStartConditionData field

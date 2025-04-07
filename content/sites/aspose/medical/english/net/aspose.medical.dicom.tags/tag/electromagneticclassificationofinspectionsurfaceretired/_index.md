@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014604A VRCS VM1-n Electromagnetic Classification of Inspection Surface RETIRED.
 type: docs
 weight: 13360
-url: /aspose.medical.dicom.tags/tag/electromagneticclassificationofinspectionsurfaceretired/
+url: /net/aspose.medical.dicom.tags/tag/electromagneticclassificationofinspectionsurfaceretired/
 ---
 
 ## Tag.ElectromagneticClassificationOfInspectionSurfaceRETIRED field

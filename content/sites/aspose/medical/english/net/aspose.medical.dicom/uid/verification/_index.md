@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Verification SOP Class.
 type: docs
 weight: 4920
-url: /aspose.medical.dicom/uid/verification/
+url: /net/aspose.medical.dicom/uid/verification/
 ---
 
 ## Uid.Verification field

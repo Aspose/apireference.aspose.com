@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080017 VRUI VM1 Acquisition UID.
 type: docs
 weight: 660
-url: /aspose.medical.dicom.tags/tag/acquisitionuid/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionuid/
 ---
 
 ## Tag.AcquisitionUID field

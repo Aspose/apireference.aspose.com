@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx0103 VRUS VM1 Data Value Representation RETIRED.
 type: docs
 weight: 10030
-url: /aspose.medical.dicom.tags/tag/datavaluerepresentationretired/
+url: /net/aspose.medical.dicom.tags/tag/datavaluerepresentationretired/
 ---
 
 ## Tag.DataValueRepresentationRETIRED field

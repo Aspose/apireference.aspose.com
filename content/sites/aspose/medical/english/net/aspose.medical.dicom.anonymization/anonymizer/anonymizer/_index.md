@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Performs anonymization operations on DICOM file or DICOM Dataset based on selected confidentiality profile. See https//dicom.nema.org/medical/dicom/current/output/chtml/part15/chapter_E.html.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.anonymization/anonymizer/anonymizer/
+url: /net/aspose.medical.dicom.anonymization/anonymizer/anonymizer/
 ---
 
 ## Anonymizer constructor

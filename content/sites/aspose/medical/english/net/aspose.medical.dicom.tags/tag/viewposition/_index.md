@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185101 VRCS VM1 View Position.
 type: docs
 weight: 51270
-url: /aspose.medical.dicom.tags/tag/viewposition/
+url: /net/aspose.medical.dicom.tags/tag/viewposition/
 ---
 
 ## Tag.ViewPosition field

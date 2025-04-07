@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class General ECG Waveform Storage.
 type: docs
 weight: 1640
-url: /aspose.medical.dicom/uid/generalecgwaveformstorage/
+url: /net/aspose.medical.dicom/uid/generalecgwaveformstorage/
 ---
 
 ## Uid.GeneralECGWaveformStorage field

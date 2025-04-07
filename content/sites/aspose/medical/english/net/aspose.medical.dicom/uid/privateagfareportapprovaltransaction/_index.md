@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Agfa Report Approval Transaction.
 type: docs
 weight: 3170
-url: /aspose.medical.dicom/uid/privateagfareportapprovaltransaction/
+url: /net/aspose.medical.dicom/uid/privateagfareportapprovaltransaction/
 ---
 
 ## Uid.PrivateAgfaReportApprovalTransaction field

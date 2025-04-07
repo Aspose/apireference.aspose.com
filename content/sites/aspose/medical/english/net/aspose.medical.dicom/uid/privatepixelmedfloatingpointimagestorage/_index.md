@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private PixelMed Floating Point Image Storage.
 type: docs
 weight: 3620
-url: /aspose.medical.dicom/uid/privatepixelmedfloatingpointimagestorage/
+url: /net/aspose.medical.dicom/uid/privatepixelmedfloatingpointimagestorage/
 ---
 
 ## Uid.PrivatePixelMedFloatingPointImageStorage field

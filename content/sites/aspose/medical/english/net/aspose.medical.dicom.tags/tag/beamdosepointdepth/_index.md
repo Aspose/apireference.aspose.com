@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0088 VRFL VM1 Beam Dose Point Depth.
 type: docs
 weight: 3340
-url: /aspose.medical.dicom.tags/tag/beamdosepointdepth/
+url: /net/aspose.medical.dicom.tags/tag/beamdosepointdepth/
 ---
 
 ## Tag.BeamDosePointDepth field

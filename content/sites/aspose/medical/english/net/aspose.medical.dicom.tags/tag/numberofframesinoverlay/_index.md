@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0015 VRIS VM1 Number of Frames in Overlay.
 type: docs
 weight: 26390
-url: /aspose.medical.dicom.tags/tag/numberofframesinoverlay/
+url: /net/aspose.medical.dicom.tags/tag/numberofframesinoverlay/
 ---
 
 ## Tag.NumberOfFramesInOverlay field

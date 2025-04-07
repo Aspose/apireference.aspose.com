@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300800D0 VRSQ VM1 Recorded Block Sequence.
 type: docs
 weight: 35740
-url: /aspose.medical.dicom.tags/tag/recordedblocksequence/
+url: /net/aspose.medical.dicom.tags/tag/recordedblocksequence/
 ---
 
 ## Tag.RecordedBlockSequence field

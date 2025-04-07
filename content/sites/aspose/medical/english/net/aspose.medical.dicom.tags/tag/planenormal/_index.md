@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701306 VRFD VM3 Plane Normal.
 type: docs
 weight: 31690
-url: /aspose.medical.dicom.tags/tag/planenormal/
+url: /net/aspose.medical.dicom.tags/tag/planenormal/
 ---
 
 ## Tag.PlaneNormal field

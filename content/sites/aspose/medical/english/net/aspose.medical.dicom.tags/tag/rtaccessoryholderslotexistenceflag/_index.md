@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A060F VRCS VM1 RT Accessory Holder Slot Existence Flag.
 type: docs
 weight: 39880
-url: /aspose.medical.dicom.tags/tag/rtaccessoryholderslotexistenceflag/
+url: /net/aspose.medical.dicom.tags/tag/rtaccessoryholderslotexistenceflag/
 ---
 
 ## Tag.RTAccessoryHolderSlotExistenceFlag field

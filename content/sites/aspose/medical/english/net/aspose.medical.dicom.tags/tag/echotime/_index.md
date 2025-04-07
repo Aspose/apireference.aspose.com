@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180081 VRDS VM1 Echo Time.
 type: docs
 weight: 13240
-url: /aspose.medical.dicom.tags/tag/echotime/
+url: /net/aspose.medical.dicom.tags/tag/echotime/
 ---
 
 ## Tag.EchoTime field

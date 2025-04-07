@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00760036 VRCS VM1 Exclusive Component Type.
 type: docs
 weight: 14330
-url: /aspose.medical.dicom.tags/tag/exclusivecomponenttype/
+url: /net/aspose.medical.dicom.tags/tag/exclusivecomponenttype/
 ---
 
 ## Tag.ExclusiveComponentType field

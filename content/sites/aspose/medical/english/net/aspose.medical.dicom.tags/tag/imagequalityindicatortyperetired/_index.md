@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001440A0 VRLO VM1-n Image Quality Indicator Type RETIRED.
 type: docs
 weight: 19430
-url: /aspose.medical.dicom.tags/tag/imagequalityindicatortyperetired/
+url: /net/aspose.medical.dicom.tags/tag/imagequalityindicatortyperetired/
 ---
 
 ## Tag.ImageQualityIndicatorTypeRETIRED field

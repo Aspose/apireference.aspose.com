@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221212 VRSQ VM1 Ophthalmic Axial Length Measurements Length Summation Sequence.
 type: docs
 weight: 27900
-url: /aspose.medical.dicom.tags/tag/ophthalmicaxiallengthmeasurementslengthsummationsequence/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicaxiallengthmeasurementslengthsummationsequence/
 ---
 
 ## Tag.OphthalmicAxialLengthMeasurementsLengthSummationSequence field

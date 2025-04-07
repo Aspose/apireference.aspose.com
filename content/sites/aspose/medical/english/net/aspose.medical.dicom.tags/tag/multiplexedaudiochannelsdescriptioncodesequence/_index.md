@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0300 VRSQ VM1 Multiplexed Audio Channels Description Code Sequence.
 type: docs
 weight: 25570
-url: /aspose.medical.dicom.tags/tag/multiplexedaudiochannelsdescriptioncodesequence/
+url: /net/aspose.medical.dicom.tags/tag/multiplexedaudiochannelsdescriptioncodesequence/
 ---
 
 ## Tag.MultiplexedAudioChannelsDescriptionCodeSequence field

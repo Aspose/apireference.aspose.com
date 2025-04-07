@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720214 VRSQ VM1 Navigation Indicator Sequence.
 type: docs
 weight: 25690
-url: /aspose.medical.dicom.tags/tag/navigationindicatorsequence/
+url: /net/aspose.medical.dicom.tags/tag/navigationindicatorsequence/
 ---
 
 ## Tag.NavigationIndicatorSequence field

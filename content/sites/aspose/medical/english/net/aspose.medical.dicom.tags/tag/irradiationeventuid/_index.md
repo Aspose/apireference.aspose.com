@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00083010 VRUI VM1-n Irradiation Event UID.
 type: docs
 weight: 21590
-url: /aspose.medical.dicom.tags/tag/irradiationeventuid/
+url: /net/aspose.medical.dicom.tags/tag/irradiationeventuid/
 ---
 
 ## Tag.IrradiationEventUID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Other Very Long OV VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextTransfer20Syntax20definition-OV-Other20642Dbit.
 type: docs
 weight: 380
-url: /aspose.medical.dicom.elements/otherverylong/
+url: /net/aspose.medical.dicom.elements/otherverylong/
 ---
 
 ## OtherVeryLong class

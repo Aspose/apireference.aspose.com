@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720006 VRCS VM1 Hanging Protocol Level.
 type: docs
 weight: 18180
-url: /aspose.medical.dicom.tags/tag/hangingprotocollevel/
+url: /net/aspose.medical.dicom.tags/tag/hangingprotocollevel/
 ---
 
 ## Tag.HangingProtocolLevel field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180015 VRCS VM1 Body Part Examined.
 type: docs
 weight: 4230
-url: /aspose.medical.dicom.tags/tag/bodypartexamined/
+url: /net/aspose.medical.dicom.tags/tag/bodypartexamined/
 ---
 
 ## Tag.BodyPartExamined field

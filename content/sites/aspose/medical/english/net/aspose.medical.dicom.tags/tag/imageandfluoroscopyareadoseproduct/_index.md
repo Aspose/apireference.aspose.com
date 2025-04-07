@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018115E VRDS VM1 Image and Fluoroscopy Area Dose Product.
 type: docs
 weight: 18880
-url: /aspose.medical.dicom.tags/tag/imageandfluoroscopyareadoseproduct/
+url: /net/aspose.medical.dicom.tags/tag/imageandfluoroscopyareadoseproduct/
 ---
 
 ## Tag.ImageAndFluoroscopyAreaDoseProduct field

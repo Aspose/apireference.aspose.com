@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144030 VRSQ VM1 Receiver Settings Sequence RETIRED.
 type: docs
 weight: 35330
-url: /aspose.medical.dicom.tags/tag/receiversettingssequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/receiversettingssequenceretired/
 ---
 
 ## Tag.ReceiverSettingsSequenceRETIRED field

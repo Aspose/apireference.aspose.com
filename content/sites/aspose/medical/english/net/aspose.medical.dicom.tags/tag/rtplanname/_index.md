@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0003 VRLO VM1 RT Plan Name.
 type: docs
 weight: 40360
-url: /aspose.medical.dicom.tags/tag/rtplanname/
+url: /net/aspose.medical.dicom.tags/tag/rtplanname/
 ---
 
 ## Tag.RTPlanName field

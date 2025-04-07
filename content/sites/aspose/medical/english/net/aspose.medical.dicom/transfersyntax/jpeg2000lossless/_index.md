@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: JPEG 2000 Lossless Image Compression 1.2.840.10008.1.2.4.90.
 type: docs
 weight: 180
-url: /aspose.medical.dicom/transfersyntax/jpeg2000lossless/
+url: /net/aspose.medical.dicom/transfersyntax/jpeg2000lossless/
 ---
 
 ## TransferSyntax.Jpeg2000Lossless field

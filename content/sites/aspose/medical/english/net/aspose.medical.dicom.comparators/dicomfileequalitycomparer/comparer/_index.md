@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Gets an object that performs a Datasetaspose.medical.dicom/dataset comparison operation. Read-only DicomFileEqualityCompareraspose.medical.dicom.comparators/dicomfileequalitycomparer.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.comparators/dicomfileequalitycomparer/comparer/
+url: /net/aspose.medical.dicom.comparators/dicomfileequalitycomparer/comparer/
 ---
 
 ## DicomFileEqualityComparer.Comparer property

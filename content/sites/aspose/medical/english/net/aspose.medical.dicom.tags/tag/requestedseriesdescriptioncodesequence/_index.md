@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811C1 VRSQ VM1 Requested Series Description Code Sequence.
 type: docs
 weight: 38780
-url: /aspose.medical.dicom.tags/tag/requestedseriesdescriptioncodesequence/
+url: /net/aspose.medical.dicom.tags/tag/requestedseriesdescriptioncodesequence/
 ---
 
 ## Tag.RequestedSeriesDescriptionCodeSequence field

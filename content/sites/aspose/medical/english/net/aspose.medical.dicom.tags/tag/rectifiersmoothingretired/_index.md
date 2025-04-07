@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144034 VRDS VM1 Rectifier Smoothing RETIRED.
 type: docs
 weight: 35910
-url: /aspose.medical.dicom.tags/tag/rectifiersmoothingretired/
+url: /net/aspose.medical.dicom.tags/tag/rectifiersmoothingretired/
 ---
 
 ## Tag.RectifierSmoothingRETIRED field

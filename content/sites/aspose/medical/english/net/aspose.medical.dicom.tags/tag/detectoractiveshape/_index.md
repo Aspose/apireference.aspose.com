@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187024 VRCS VM1 Detector Active Shape.
 type: docs
 weight: 10920
-url: /aspose.medical.dicom.tags/tag/detectoractiveshape/
+url: /net/aspose.medical.dicom.tags/tag/detectoractiveshape/
 ---
 
 ## Tag.DetectorActiveShape field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 120
-url: /aspose.medical.imaging.pixelformats/rgba32/tounscaledvector4/
+url: /net/aspose.medical.imaging.pixelformats/rgba32/tounscaledvector4/
 ---
 
 ## Rgba32.ToUnscaledVector4 method

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A296 VRSQ VM1 Algorithm Code Sequence Trial RETIRED.
 type: docs
 weight: 1120
-url: /aspose.medical.dicom.tags/tag/algorithmcodesequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/algorithmcodesequencetrialretired/
 ---
 
 ## Tag.AlgorithmCodeSequenceTrialRETIRED field

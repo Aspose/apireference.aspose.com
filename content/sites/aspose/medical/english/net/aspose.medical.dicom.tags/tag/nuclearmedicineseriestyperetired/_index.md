@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080042 VRCS VM1 Nuclear Medicine Series Type RETIRED.
 type: docs
 weight: 26040
-url: /aspose.medical.dicom.tags/tag/nuclearmedicineseriestyperetired/
+url: /net/aspose.medical.dicom.tags/tag/nuclearmedicineseriestyperetired/
 ---
 
 ## Tag.NuclearMedicineSeriesTypeRETIRED field

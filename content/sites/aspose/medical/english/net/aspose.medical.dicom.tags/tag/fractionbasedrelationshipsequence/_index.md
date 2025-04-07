@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100082 VRSQ VM1 Fraction-Based Relationship Sequence.
 type: docs
 weight: 16340
-url: /aspose.medical.dicom.tags/tag/fractionbasedrelationshipsequence/
+url: /net/aspose.medical.dicom.tags/tag/fractionbasedrelationshipsequence/
 ---
 
 ## Tag.FractionBasedRelationshipSequence field

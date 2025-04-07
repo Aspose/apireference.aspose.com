@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181600 VRCS VM1-3 Shutter Shape.
 type: docs
 weight: 43430
-url: /aspose.medical.dicom.tags/tag/shuttershape/
+url: /net/aspose.medical.dicom.tags/tag/shuttershape/
 ---
 
 ## Tag.ShutterShape field

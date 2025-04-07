@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181075 VRDS VM1 Radionuclide Half Life.
 type: docs
 weight: 34540
-url: /aspose.medical.dicom.tags/tag/radionuclidehalflife/
+url: /net/aspose.medical.dicom.tags/tag/radionuclidehalflife/
 ---
 
 ## Tag.RadionuclideHalfLife field

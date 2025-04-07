@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181150 VRIS VM1 Exposure Time.
 type: docs
 weight: 14650
-url: /aspose.medical.dicom.tags/tag/exposuretime/
+url: /net/aspose.medical.dicom.tags/tag/exposuretime/
 ---
 
 ## Tag.ExposureTime field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460038 VRCS VM1 Lens Segment Type.
 type: docs
 weight: 22640
-url: /aspose.medical.dicom.tags/tag/lenssegmenttype/
+url: /net/aspose.medical.dicom.tags/tag/lenssegmenttype/
 ---
 
 ## Tag.LensSegmentType field

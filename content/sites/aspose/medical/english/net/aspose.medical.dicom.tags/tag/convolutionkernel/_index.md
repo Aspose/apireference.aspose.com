@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181210 VRSH VM1-n Convolution Kernel.
 type: docs
 weight: 8590
-url: /aspose.medical.dicom.tags/tag/convolutionkernel/
+url: /net/aspose.medical.dicom.tags/tag/convolutionkernel/
 ---
 
 ## Tag.ConvolutionKernel field

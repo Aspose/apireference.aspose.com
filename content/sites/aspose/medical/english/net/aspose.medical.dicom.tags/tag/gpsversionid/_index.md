@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160070 VROB VM1 GPS Version ID.
 type: docs
 weight: 17720
-url: /aspose.medical.dicom.tags/tag/gpsversionid/
+url: /net/aspose.medical.dicom.tags/tag/gpsversionid/
 ---
 
 ## Tag.GPSVersionID field

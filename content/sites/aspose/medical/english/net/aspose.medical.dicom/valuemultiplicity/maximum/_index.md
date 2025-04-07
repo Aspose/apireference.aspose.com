@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Maximum number of values that can be placed in the Value Field. Read-only Int32.
 type: docs
 weight: 180
-url: /aspose.medical.dicom/valuemultiplicity/maximum/
+url: /net/aspose.medical.dicom/valuemultiplicity/maximum/
 ---
 
 ## ValueMultiplicity.Maximum property

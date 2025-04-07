@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400300 VRUS VM1 Total Time of Fluoroscopy RETIRED.
 type: docs
 weight: 49020
-url: /aspose.medical.dicom.tags/tag/totaltimeoffluoroscopyretired/
+url: /net/aspose.medical.dicom.tags/tag/totaltimeoffluoroscopyretired/
 ---
 
 ## Tag.TotalTimeOfFluoroscopyRETIRED field

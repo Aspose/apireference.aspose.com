@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700012 VRCS VM1 Bounding Box Text Horizontal Justification.
 type: docs
 weight: 4360
-url: /aspose.medical.dicom.tags/tag/boundingboxtexthorizontaljustification/
+url: /net/aspose.medical.dicom.tags/tag/boundingboxtexthorizontaljustification/
 ---
 
 ## Tag.BoundingBoxTextHorizontalJustification field

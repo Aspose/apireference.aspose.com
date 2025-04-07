@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20300010 VRUS VM1 Annotation Position.
 type: docs
 weight: 1880
-url: /aspose.medical.dicom.tags/tag/annotationposition/
+url: /net/aspose.medical.dicom.tags/tag/annotationposition/
 ---
 
 ## Tag.AnnotationPosition field

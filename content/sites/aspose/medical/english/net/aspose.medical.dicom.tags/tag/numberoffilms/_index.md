@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21000170 VRIS VM1 Number of Films.
 type: docs
 weight: 26310
-url: /aspose.medical.dicom.tags/tag/numberoffilms/
+url: /net/aspose.medical.dicom.tags/tag/numberoffilms/
 ---
 
 ## Tag.NumberOfFilms field

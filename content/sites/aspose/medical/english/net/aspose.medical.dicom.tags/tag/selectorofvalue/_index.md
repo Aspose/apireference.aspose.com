@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720067 VROF VM1 Selector OF Value.
 type: docs
 weight: 42480
-url: /aspose.medical.dicom.tags/tag/selectorofvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorofvalue/
 ---
 
 ## Tag.SelectorOFValue field

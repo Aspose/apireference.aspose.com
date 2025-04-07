@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014602A VRDS VM1-n Lens Filter Cut-Off Wavelength RETIRED.
 type: docs
 weight: 22600
-url: /aspose.medical.dicom.tags/tag/lensfiltercutoffwavelengthretired/
+url: /net/aspose.medical.dicom.tags/tag/lensfiltercutoffwavelengthretired/
 ---
 
 ## Tag.LensFilterCutOffWavelengthRETIRED field

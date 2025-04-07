@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209164 VRUI VM1 Dimension Organization UID.
 type: docs
 weight: 11910
-url: /aspose.medical.dicom.tags/tag/dimensionorganizationuid/
+url: /net/aspose.medical.dicom.tags/tag/dimensionorganizationuid/
 ---
 
 ## Tag.DimensionOrganizationUID field

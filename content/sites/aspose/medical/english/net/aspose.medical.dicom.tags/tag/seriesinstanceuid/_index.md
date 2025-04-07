@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0020000E VRUI VM1 Series Instance UID.
 type: docs
 weight: 42900
-url: /aspose.medical.dicom.tags/tag/seriesinstanceuid/
+url: /net/aspose.medical.dicom.tags/tag/seriesinstanceuid/
 ---
 
 ## Tag.SeriesInstanceUID field

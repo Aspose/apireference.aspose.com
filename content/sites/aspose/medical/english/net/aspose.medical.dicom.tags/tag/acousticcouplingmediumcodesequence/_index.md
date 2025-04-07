@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018982A VRSQ VM1 Acoustic Coupling Medium Code Sequence.
 type: docs
 weight: 110
-url: /aspose.medical.dicom.tags/tag/acousticcouplingmediumcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/acousticcouplingmediumcodesequence/
 ---
 
 ## Tag.AcousticCouplingMediumCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146037 VRCS VM1 Flash Modification Status RETIRED.
 type: docs
 weight: 15870
-url: /aspose.medical.dicom.tags/tag/flashmodificationstatusretired/
+url: /net/aspose.medical.dicom.tags/tag/flashmodificationstatusretired/
 ---
 
 ## Tag.FlashModificationStatusRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404008 VRDT VM1 Scheduled Procedure Step Expiration DateTime.
 type: docs
 weight: 41380
-url: /aspose.medical.dicom.tags/tag/scheduledprocedurestepexpirationdatetime/
+url: /net/aspose.medical.dicom.tags/tag/scheduledprocedurestepexpirationdatetime/
 ---
 
 ## Tag.ScheduledProcedureStepExpirationDateTime field

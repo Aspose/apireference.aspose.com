@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 54001010 VROB or OW VM1 Waveform Data.
 type: docs
 weight: 51950
-url: /aspose.medical.dicom.tags/tag/waveformdata/
+url: /net/aspose.medical.dicom.tags/tag/waveformdata/
 ---
 
 ## Tag.WaveformData field

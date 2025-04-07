@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0020930C VRCS VM1 Patient Frame of Reference Source.
 type: docs
 weight: 29840
-url: /aspose.medical.dicom.tags/tag/patientframeofreferencesource/
+url: /net/aspose.medical.dicom.tags/tag/patientframeofreferencesource/
 ---
 
 ## Tag.PatientFrameOfReferenceSource field

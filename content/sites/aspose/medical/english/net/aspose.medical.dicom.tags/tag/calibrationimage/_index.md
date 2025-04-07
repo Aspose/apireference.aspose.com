@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00500004 VRCS VM1 Calibration Image.
 type: docs
 weight: 4930
-url: /aspose.medical.dicom.tags/tag/calibrationimage/
+url: /net/aspose.medical.dicom.tags/tag/calibrationimage/
 ---
 
 ## Tag.CalibrationImage field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140032 VRDS VM1-n Material Pipe Diameter RETIRED.
 type: docs
 weight: 23720
-url: /aspose.medical.dicom.tags/tag/materialpipediameterretired/
+url: /net/aspose.medical.dicom.tags/tag/materialpipediameterretired/
 ---
 
 ## Tag.MaterialPipeDiameterRETIRED field

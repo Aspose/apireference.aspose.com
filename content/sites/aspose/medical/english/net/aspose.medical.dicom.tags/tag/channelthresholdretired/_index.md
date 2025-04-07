@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144092 VRDS VM1 Channel Threshold RETIRED.
 type: docs
 weight: 5750
-url: /aspose.medical.dicom.tags/tag/channelthresholdretired/
+url: /net/aspose.medical.dicom.tags/tag/channelthresholdretired/
 ---
 
 ## Tag.ChannelThresholdRETIRED field

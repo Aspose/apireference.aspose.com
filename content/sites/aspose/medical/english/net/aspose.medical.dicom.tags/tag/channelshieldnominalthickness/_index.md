@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02B8 VRDS VM1 Channel Shield Nominal Thickness.
 type: docs
 weight: 5680
-url: /aspose.medical.dicom.tags/tag/channelshieldnominalthickness/
+url: /net/aspose.medical.dicom.tags/tag/channelshieldnominalthickness/
 ---
 
 ## Tag.ChannelShieldNominalThickness field

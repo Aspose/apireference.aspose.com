@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811BD VRFD VM1 XA Acquisition Duration.
 type: docs
 weight: 52580
-url: /aspose.medical.dicom.tags/tag/xaacquisitionduration/
+url: /net/aspose.medical.dicom.tags/tag/xaacquisitionduration/
 ---
 
 ## Tag.XAAcquisitionDuration field

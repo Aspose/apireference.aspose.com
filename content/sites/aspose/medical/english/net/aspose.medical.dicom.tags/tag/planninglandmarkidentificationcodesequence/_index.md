@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686545 VRSQ VM1 Planning Landmark Identification Code Sequence.
 type: docs
 weight: 31820
-url: /aspose.medical.dicom.tags/tag/planninglandmarkidentificationcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/planninglandmarkidentificationcodesequence/
 ---
 
 ## Tag.PlanningLandmarkIdentificationCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010007A VRUT VM1 Treatment Technique Notes.
 type: docs
 weight: 49860
-url: /aspose.medical.dicom.tags/tag/treatmenttechniquenotes/
+url: /net/aspose.medical.dicom.tags/tag/treatmenttechniquenotes/
 ---
 
 ## Tag.TreatmentTechniqueNotes field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189381 VRSQ VM1 Decomposition Material Sequence.
 type: docs
 weight: 10290
-url: /aspose.medical.dicom.tags/tag/decompositionmaterialsequence/
+url: /net/aspose.medical.dicom.tags/tag/decompositionmaterialsequence/
 ---
 
 ## Tag.DecompositionMaterialSequence field

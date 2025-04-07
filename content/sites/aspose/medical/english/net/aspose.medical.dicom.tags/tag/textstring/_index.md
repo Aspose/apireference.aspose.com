@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20300020 VRLO VM1 Text String.
 type: docs
 weight: 47840
-url: /aspose.medical.dicom.tags/tag/textstring/
+url: /net/aspose.medical.dicom.tags/tag/textstring/
 ---
 
 ## Tag.TextString field

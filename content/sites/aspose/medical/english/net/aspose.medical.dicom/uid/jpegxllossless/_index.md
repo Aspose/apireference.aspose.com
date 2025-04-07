@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax JPEG XL Lossless.
 type: docs
 weight: 2410
-url: /aspose.medical.dicom/uid/jpegxllossless/
+url: /net/aspose.medical.dicom/uid/jpegxllossless/
 ---
 
 ## Uid.JpegXLLossless field

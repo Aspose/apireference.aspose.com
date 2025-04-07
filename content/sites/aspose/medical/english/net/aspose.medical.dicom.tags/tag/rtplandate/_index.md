@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0006 VRDA VM1 RT Plan Date.
 type: docs
 weight: 40320
-url: /aspose.medical.dicom.tags/tag/rtplandate/
+url: /net/aspose.medical.dicom.tags/tag/rtplandate/
 ---
 
 ## Tag.RTPlanDate field

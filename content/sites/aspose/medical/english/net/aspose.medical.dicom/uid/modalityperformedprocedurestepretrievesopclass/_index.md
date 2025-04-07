@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Modality Performed Procedure Step Retrieve SOP Class.
 type: docs
 weight: 2600
-url: /aspose.medical.dicom/uid/modalityperformedprocedurestepretrievesopclass/
+url: /net/aspose.medical.dicom/uid/modalityperformedprocedurestepretrievesopclass/
 ---
 
 ## Uid.ModalityPerformedProcedureStepRetrieveSOPClass field

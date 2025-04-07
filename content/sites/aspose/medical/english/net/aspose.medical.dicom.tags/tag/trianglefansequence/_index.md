@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660027 VRSQ VM1 Triangle Fan Sequence.
 type: docs
 weight: 50010
-url: /aspose.medical.dicom.tags/tag/trianglefansequence/
+url: /net/aspose.medical.dicom.tags/tag/trianglefansequence/
 ---
 
 ## Tag.TriangleFanSequence field

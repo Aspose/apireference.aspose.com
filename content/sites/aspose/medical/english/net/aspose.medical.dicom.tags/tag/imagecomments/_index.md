@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00204000 VRLT VM1 Image Comments.
 type: docs
 weight: 19050
-url: /aspose.medical.dicom.tags/tag/imagecomments/
+url: /net/aspose.medical.dicom.tags/tag/imagecomments/
 ---
 
 ## Tag.ImageComments field

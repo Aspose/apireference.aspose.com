@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A078 VRSQ VM1 Author Observer Sequence.
 type: docs
 weight: 2910
-url: /aspose.medical.dicom.tags/tag/authorobserversequence/
+url: /net/aspose.medical.dicom.tags/tag/authorobserversequence/
 ---
 
 ## Tag.AuthorObserverSequence field

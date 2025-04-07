@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181063 VRDS VM1 Frame Time.
 type: docs
 weight: 16780
-url: /aspose.medical.dicom.tags/tag/frametime/
+url: /net/aspose.medical.dicom.tags/tag/frametime/
 ---
 
 ## Tag.FrameTime field

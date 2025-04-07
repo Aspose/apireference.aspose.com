@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181083 VRIS VM1 Intervals Acquired.
 type: docs
 weight: 21110
-url: /aspose.medical.dicom.tags/tag/intervalsacquired/
+url: /net/aspose.medical.dicom.tags/tag/intervalsacquired/
 ---
 
 ## Tag.IntervalsAcquired field

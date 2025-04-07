@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A062A VRLO VM1 RT Tolerance Set Label.
 type: docs
 weight: 40620
-url: /aspose.medical.dicom.tags/tag/rttolerancesetlabel/
+url: /net/aspose.medical.dicom.tags/tag/rttolerancesetlabel/
 ---
 
 ## Tag.RTToleranceSetLabel field

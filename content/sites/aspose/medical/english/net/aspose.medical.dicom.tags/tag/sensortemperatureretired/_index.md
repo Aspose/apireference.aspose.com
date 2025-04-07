@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143028 VRDS VM1 Sensor Temperature RETIRED.
 type: docs
 weight: 42800
-url: /aspose.medical.dicom.tags/tag/sensortemperatureretired/
+url: /net/aspose.medical.dicom.tags/tag/sensortemperatureretired/
 ---
 
 ## Tag.SensorTemperatureRETIRED field

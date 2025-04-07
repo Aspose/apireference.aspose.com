@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741054 VRUL VM1 Attribute Item Selector.
 type: docs
 weight: 2790
-url: /aspose.medical.dicom.tags/tag/attributeitemselector/
+url: /net/aspose.medical.dicom.tags/tag/attributeitemselector/
 ---
 
 ## Tag.AttributeItemSelector field

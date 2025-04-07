@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C00F6 VRIS VM1 Referenced Stop Control Point Index.
 type: docs
 weight: 37460
-url: /aspose.medical.dicom.tags/tag/referencedstopcontrolpointindex/
+url: /net/aspose.medical.dicom.tags/tag/referencedstopcontrolpointindex/
 ---
 
 ## Tag.ReferencedStopControlPointIndex field

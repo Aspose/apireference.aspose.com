@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Color Palette Query/Retrieve Information Model - MOVE.
 type: docs
 weight: 370
-url: /aspose.medical.dicom/uid/colorpalettequeryretrieveinformationmodelmove/
+url: /net/aspose.medical.dicom/uid/colorpalettequeryretrieveinformationmodelmove/
 ---
 
 ## Uid.ColorPaletteQueryRetrieveInformationModelMOVE field

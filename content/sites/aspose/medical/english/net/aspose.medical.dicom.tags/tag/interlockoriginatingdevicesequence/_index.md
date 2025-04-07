@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0743 VRSQ VM1 Interlock Originating Device Sequence.
 type: docs
 weight: 20810
-url: /aspose.medical.dicom.tags/tag/interlockoriginatingdevicesequence/
+url: /net/aspose.medical.dicom.tags/tag/interlockoriginatingdevicesequence/
 ---
 
 ## Tag.InterlockOriginatingDeviceSequence field

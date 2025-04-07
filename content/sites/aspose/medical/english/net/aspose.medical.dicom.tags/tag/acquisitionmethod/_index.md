@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002012A VRCS VM1 Acquisition Method.
 type: docs
 weight: 370
-url: /aspose.medical.dicom.tags/tag/acquisitionmethod/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionmethod/
 ---
 
 ## Tag.AcquisitionMethod field

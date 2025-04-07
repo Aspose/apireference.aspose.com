@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4010101D VRFL VM6-n Bounding Polygon RETIRED.
 type: docs
 weight: 4380
-url: /aspose.medical.dicom.tags/tag/boundingpolygonretired/
+url: /net/aspose.medical.dicom.tags/tag/boundingpolygonretired/
 ---
 
 ## Tag.BoundingPolygonRETIRED field

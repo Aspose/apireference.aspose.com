@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00161003 VRCS VM1 Contact Method.
 type: docs
 weight: 7700
-url: /aspose.medical.dicom.tags/tag/contactmethod/
+url: /net/aspose.medical.dicom.tags/tag/contactmethod/
 ---
 
 ## Tag.ContactMethod field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280070 VRUS VM1-n Perimeter Table RETIRED.
 type: docs
 weight: 30870
-url: /aspose.medical.dicom.tags/tag/perimetertableretired/
+url: /net/aspose.medical.dicom.tags/tag/perimetertableretired/
 ---
 
 ## Tag.PerimeterTableRETIRED field

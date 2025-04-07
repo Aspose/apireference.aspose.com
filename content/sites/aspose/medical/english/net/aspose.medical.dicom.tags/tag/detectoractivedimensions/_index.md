@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187026 VRDS VM1-2 Detector Active Dimensions.
 type: docs
 weight: 10900
-url: /aspose.medical.dicom.tags/tag/detectoractivedimensions/
+url: /net/aspose.medical.dicom.tags/tag/detectoractivedimensions/
 ---
 
 ## Tag.DetectorActiveDimensions field

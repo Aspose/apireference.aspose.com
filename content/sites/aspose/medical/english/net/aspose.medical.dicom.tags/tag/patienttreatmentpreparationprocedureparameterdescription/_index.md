@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A078E VRLT VM1 Patient Treatment Preparation Procedure Parameter Description.
 type: docs
 weight: 30480
-url: /aspose.medical.dicom.tags/tag/patienttreatmentpreparationprocedureparameterdescription/
+url: /net/aspose.medical.dicom.tags/tag/patienttreatmentpreparationprocedureparameterdescription/
 ---
 
 ## Tag.PatientTreatmentPreparationProcedureParameterDescription field

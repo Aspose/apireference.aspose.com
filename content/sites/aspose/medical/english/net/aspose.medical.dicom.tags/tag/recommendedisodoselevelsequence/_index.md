@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040016 VRSQ VM1 Recommended Isodose Level Sequence.
 type: docs
 weight: 35500
-url: /aspose.medical.dicom.tags/tag/recommendedisodoselevelsequence/
+url: /net/aspose.medical.dicom.tags/tag/recommendedisodoselevelsequence/
 ---
 
 ## Tag.RecommendedIsodoseLevelSequence field

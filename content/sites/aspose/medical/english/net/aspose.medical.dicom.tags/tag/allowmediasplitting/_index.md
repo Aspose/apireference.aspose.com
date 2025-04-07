@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 22000007 VRCS VM1 Allow Media Splitting.
 type: docs
 weight: 1290
-url: /aspose.medical.dicom.tags/tag/allowmediasplitting/
+url: /net/aspose.medical.dicom.tags/tag/allowmediasplitting/
 ---
 
 ## Tag.AllowMediaSplitting field

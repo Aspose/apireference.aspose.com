@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0443 VRUS VM1 Block Slab Number.
 type: docs
 weight: 4120
-url: /aspose.medical.dicom.tags/tag/blockslabnumber/
+url: /net/aspose.medical.dicom.tags/tag/blockslabnumber/
 ---
 
 ## Tag.BlockSlabNumber field

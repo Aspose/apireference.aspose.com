@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00402009 VRSH VM1 Order Enterers Location.
 type: docs
 weight: 28390
-url: /aspose.medical.dicom.tags/tag/orderentererlocation/
+url: /net/aspose.medical.dicom.tags/tag/orderentererlocation/
 ---
 
 ## Tag.OrderEntererLocation field

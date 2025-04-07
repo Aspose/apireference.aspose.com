@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189756 VRCS VM1 Reconstruction Type.
 type: docs
 weight: 35730
-url: /aspose.medical.dicom.tags/tag/reconstructiontype/
+url: /net/aspose.medical.dicom.tags/tag/reconstructiontype/
 ---
 
 ## Tag.ReconstructionType field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240062 VRCS VM1 Excessive False Positives.
 type: docs
 weight: 14200
-url: /aspose.medical.dicom.tags/tag/excessivefalsepositives/
+url: /net/aspose.medical.dicom.tags/tag/excessivefalsepositives/
 ---
 
 ## Tag.ExcessiveFalsePositives field

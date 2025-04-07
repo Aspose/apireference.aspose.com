@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class VL Photographic Image Storage.
 type: docs
 weight: 5030
-url: /aspose.medical.dicom/uid/vlphotographicimagestorage/
+url: /net/aspose.medical.dicom/uid/vlphotographicimagestorage/
 ---
 
 ## Uid.VLPhotographicImageStorage field

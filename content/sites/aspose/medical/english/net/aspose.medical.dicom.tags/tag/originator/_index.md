@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21000070 VRAE VM1 Originator.
 type: docs
 weight: 28580
-url: /aspose.medical.dicom.tags/tag/originator/
+url: /net/aspose.medical.dicom.tags/tag/originator/
 ---
 
 ## Tag.Originator field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 01000410 VRCS VM1 SOP Instance Status.
 type: docs
 weight: 43860
-url: /aspose.medical.dicom.tags/tag/sopinstancestatus/
+url: /net/aspose.medical.dicom.tags/tag/sopinstancestatus/
 ---
 
 ## Tag.SOPInstanceStatus field

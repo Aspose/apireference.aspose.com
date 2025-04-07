@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080040 VRSH VM1 Results ID RETIRED.
 type: docs
 weight: 39130
-url: /aspose.medical.dicom.tags/tag/resultsidretired/
+url: /net/aspose.medical.dicom.tags/tag/resultsidretired/
 ---
 
 ## Tag.ResultsIDRETIRED field

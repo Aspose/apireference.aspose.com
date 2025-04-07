@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0723 VRCS VM1 Starting Meterset Value Known Flag.
 type: docs
 weight: 45360
-url: /aspose.medical.dicom.tags/tag/startingmetersetvalueknownflag/
+url: /net/aspose.medical.dicom.tags/tag/startingmetersetvalueknownflag/
 ---
 
 ## Tag.StartingMetersetValueKnownFlag field

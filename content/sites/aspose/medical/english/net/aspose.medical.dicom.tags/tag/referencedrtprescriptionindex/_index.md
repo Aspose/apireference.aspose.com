@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100041 VRUS VM1 Referenced RT Prescription Index.
 type: docs
 weight: 37210
-url: /aspose.medical.dicom.tags/tag/referencedrtprescriptionindex/
+url: /net/aspose.medical.dicom.tags/tag/referencedrtprescriptionindex/
 ---
 
 ## Tag.ReferencedRTPrescriptionIndex field

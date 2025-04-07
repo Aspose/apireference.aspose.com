@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Family name or empty string. Read-only String.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.elements/personname/familyname/
+url: /net/aspose.medical.dicom.elements/personname/familyname/
 ---
 
 ## PersonName.FamilyName property

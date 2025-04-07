@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189373 VRST VM1 X-Ray Detector Label.
 type: docs
 weight: 52740
-url: /aspose.medical.dicom.tags/tag/xraydetectorlabel/
+url: /net/aspose.medical.dicom.tags/tag/xraydetectorlabel/
 ---
 
 ## Tag.XRayDetectorLabel field

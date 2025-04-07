@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101025 VRDT VM1 Route Segment Start Time RETIRED.
 type: docs
 weight: 39780
-url: /aspose.medical.dicom.tags/tag/routesegmentstarttimeretired/
+url: /net/aspose.medical.dicom.tags/tag/routesegmentstarttimeretired/
 ---
 
 ## Tag.RouteSegmentStartTimeRETIRED field

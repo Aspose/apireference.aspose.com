@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0211 VRSQ VM1 Channel Sensitivity Units Sequence.
 type: docs
 weight: 5630
-url: /aspose.medical.dicom.tags/tag/channelsensitivityunitssequence/
+url: /net/aspose.medical.dicom.tags/tag/channelsensitivityunitssequence/
 ---
 
 ## Tag.ChannelSensitivityUnitsSequence field

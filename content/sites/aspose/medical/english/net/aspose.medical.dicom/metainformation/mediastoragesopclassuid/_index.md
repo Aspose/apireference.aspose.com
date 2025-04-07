@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The Media Storage SOP Class UID. Read-only Uidaspose.medical.dicom/uid.
 type: docs
 weight: 40
-url: /aspose.medical.dicom/metainformation/mediastoragesopclassuid/
+url: /net/aspose.medical.dicom/metainformation/mediastoragesopclassuid/
 ---
 
 ## MetaInformation.MediaStorageSopClassUid property

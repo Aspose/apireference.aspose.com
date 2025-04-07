@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00800006 VRUS VM1-n Surface Point Presentation Value Data.
 type: docs
 weight: 46420
-url: /aspose.medical.dicom.tags/tag/surfacepointpresentationvaluedata/
+url: /net/aspose.medical.dicom.tags/tag/surfacepointpresentationvaluedata/
 ---
 
 ## Tag.SurfacePointPresentationValueData field

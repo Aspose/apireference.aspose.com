@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00101000 VRLO VM1-n Other Patient IDs RETIRED.
 type: docs
 weight: 28640
-url: /aspose.medical.dicom.tags/tag/otherpatientidsretired/
+url: /net/aspose.medical.dicom.tags/tag/otherpatientidsretired/
 ---
 
 ## Tag.OtherPatientIDsRETIRED field

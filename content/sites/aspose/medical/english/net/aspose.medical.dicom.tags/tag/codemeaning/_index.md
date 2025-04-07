@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080104 VRLO VM1 Code Meaning.
 type: docs
 weight: 6070
-url: /aspose.medical.dicom.tags/tag/codemeaning/
+url: /net/aspose.medical.dicom.tags/tag/codemeaning/
 ---
 
 ## Tag.CodeMeaning field

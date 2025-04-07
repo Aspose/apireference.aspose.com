@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100011 VRSQ VM1 Conceptual Volume Segmentation Reference Sequence.
 type: docs
 weight: 7400
-url: /aspose.medical.dicom.tags/tag/conceptualvolumesegmentationreferencesequence/
+url: /net/aspose.medical.dicom.tags/tag/conceptualvolumesegmentationreferencesequence/
 ---
 
 ## Tag.ConceptualVolumeSegmentationReferenceSequence field

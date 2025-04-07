@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00101023 VRDS VM1 Measured AP Dimension.
 type: docs
 weight: 24060
-url: /aspose.medical.dicom.tags/tag/measuredapdimension/
+url: /net/aspose.medical.dicom.tags/tag/measuredapdimension/
 ---
 
 ## Tag.MeasuredAPDimension field

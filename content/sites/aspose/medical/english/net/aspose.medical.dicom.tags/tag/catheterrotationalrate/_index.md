@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520013 VRFD VM1 Catheter Rotational Rate.
 type: docs
 weight: 5210
-url: /aspose.medical.dicom.tags/tag/catheterrotationalrate/
+url: /net/aspose.medical.dicom.tags/tag/catheterrotationalrate/
 ---
 
 ## Tag.CatheterRotationalRate field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404023 VRUI VM1 Referenced General Purpose Scheduled Procedure Step Transaction UID RETIRED.
 type: docs
 weight: 36500
-url: /aspose.medical.dicom.tags/tag/referencedgeneralpurposescheduledproceduresteptransactionuidretired/
+url: /net/aspose.medical.dicom.tags/tag/referencedgeneralpurposescheduledproceduresteptransactionuidretired/
 ---
 
 ## Tag.ReferencedGeneralPurposeScheduledProcedureStepTransactionUIDRETIRED field

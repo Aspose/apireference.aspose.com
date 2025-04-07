@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820032 VRCS VM1 Constraint Type.
 type: docs
 weight: 7620
-url: /aspose.medical.dicom.tags/tag/constrainttype/
+url: /net/aspose.medical.dicom.tags/tag/constrainttype/
 ---
 
 ## Tag.ConstraintType field

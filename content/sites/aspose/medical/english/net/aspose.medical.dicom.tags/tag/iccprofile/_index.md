@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00282000 VROB VM1 ICC Profile.
 type: docs
 weight: 18710
-url: /aspose.medical.dicom.tags/tag/iccprofile/
+url: /net/aspose.medical.dicom.tags/tag/iccprofile/
 ---
 
 ## Tag.ICCProfile field

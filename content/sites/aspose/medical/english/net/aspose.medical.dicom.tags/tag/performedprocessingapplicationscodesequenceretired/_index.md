@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404007 VRSQ VM1 Performed Processing Applications Code Sequence RETIRED.
 type: docs
 weight: 30730
-url: /aspose.medical.dicom.tags/tag/performedprocessingapplicationscodesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/performedprocessingapplicationscodesequenceretired/
 ---
 
 ## Tag.PerformedProcessingApplicationsCodeSequenceRETIRED field

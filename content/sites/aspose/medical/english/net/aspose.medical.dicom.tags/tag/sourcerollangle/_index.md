@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A067A VRFD VM1 Source Roll Angle.
 type: docs
 weight: 44450
-url: /aspose.medical.dicom.tags/tag/sourcerollangle/
+url: /net/aspose.medical.dicom.tags/tag/sourcerollangle/
 ---
 
 ## Tag.SourceRollAngle field

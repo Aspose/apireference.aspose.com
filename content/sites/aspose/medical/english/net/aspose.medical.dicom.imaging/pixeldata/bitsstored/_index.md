@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The number of bits stored per pixel sample 00280101. Read/Write UInt16.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.imaging/pixeldata/bitsstored/
+url: /net/aspose.medical.dicom.imaging/pixeldata/bitsstored/
 ---
 
 ## PixelData.BitsStored property

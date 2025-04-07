@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700233 VRSQ VM1 Fill Style Sequence.
 type: docs
 weight: 15220
-url: /aspose.medical.dicom.tags/tag/fillstylesequence/
+url: /net/aspose.medical.dicom.tags/tag/fillstylesequence/
 ---
 
 ## Tag.FillStyleSequence field

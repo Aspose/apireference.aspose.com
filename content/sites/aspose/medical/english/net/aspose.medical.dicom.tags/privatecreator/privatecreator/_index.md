@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Initialize a new instance of the PrivateCreatoraspose.medical.dicom.tags/privatecreator with the given creator.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.tags/privatecreator/privatecreator/
+url: /net/aspose.medical.dicom.tags/privatecreator/privatecreator/
 ---
 
 ## PrivateCreator constructor

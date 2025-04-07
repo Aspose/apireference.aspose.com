@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081196 VRUS VM1 Warning Reason.
 type: docs
 weight: 51830
-url: /aspose.medical.dicom.tags/tag/warningreason/
+url: /net/aspose.medical.dicom.tags/tag/warningreason/
 ---
 
 ## Tag.WarningReason field

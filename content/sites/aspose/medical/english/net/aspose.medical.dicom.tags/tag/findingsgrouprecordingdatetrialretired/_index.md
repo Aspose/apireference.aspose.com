@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A023 VRDA VM1 Findings Group Recording Date Trial RETIRED.
 type: docs
 weight: 15510
-url: /aspose.medical.dicom.tags/tag/findingsgrouprecordingdatetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/findingsgrouprecordingdatetrialretired/
 ---
 
 ## Tag.FindingsGroupRecordingDateTrialRETIRED field

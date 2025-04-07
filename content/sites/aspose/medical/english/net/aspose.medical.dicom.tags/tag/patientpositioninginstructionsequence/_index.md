@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018991B VRSQ VM1 Patient Positioning Instruction Sequence.
 type: docs
 weight: 30030
-url: /aspose.medical.dicom.tags/tag/patientpositioninginstructionsequence/
+url: /net/aspose.medical.dicom.tags/tag/patientpositioninginstructionsequence/
 ---
 
 ## Tag.PatientPositioningInstructionSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Converts the text representation of an age to its typed equivalent.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.elements/age/parse/
+url: /net/aspose.medical.dicom.elements/age/parse/
 ---
 
 ## Age.Parse method

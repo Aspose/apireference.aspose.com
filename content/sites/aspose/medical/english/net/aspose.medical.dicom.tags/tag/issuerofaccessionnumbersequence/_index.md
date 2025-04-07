@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080051 VRSQ VM1 Issuer of Accession Number Sequence.
 type: docs
 weight: 21760
-url: /aspose.medical.dicom.tags/tag/issuerofaccessionnumbersequence/
+url: /net/aspose.medical.dicom.tags/tag/issuerofaccessionnumbersequence/
 ---
 
 ## Tag.IssuerOfAccessionNumberSequence field

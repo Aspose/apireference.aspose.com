@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240040 VRCS VM1 Excessive Fixation Losses.
 type: docs
 weight: 14220
-url: /aspose.medical.dicom.tags/tag/excessivefixationlosses/
+url: /net/aspose.medical.dicom.tags/tag/excessivefixationlosses/
 ---
 
 ## Tag.ExcessiveFixationLosses field

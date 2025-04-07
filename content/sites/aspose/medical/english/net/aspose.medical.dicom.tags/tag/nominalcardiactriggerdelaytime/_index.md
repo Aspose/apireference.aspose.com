@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209153 VRFD VM1 Nominal Cardiac Trigger Delay Time.
 type: docs
 weight: 25760
-url: /aspose.medical.dicom.tags/tag/nominalcardiactriggerdelaytime/
+url: /net/aspose.medical.dicom.tags/tag/nominalcardiactriggerdelaytime/
 ---
 
 ## Tag.NominalCardiacTriggerDelayTime field

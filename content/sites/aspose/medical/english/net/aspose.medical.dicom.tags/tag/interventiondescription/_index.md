@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018003A VRST VM1 Intervention Description.
 type: docs
 weight: 21130
-url: /aspose.medical.dicom.tags/tag/interventiondescription/
+url: /net/aspose.medical.dicom.tags/tag/interventiondescription/
 ---
 
 ## Tag.InterventionDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160003 VRUT VM1 Battery Level.
 type: docs
 weight: 3260
-url: /aspose.medical.dicom.tags/tag/batterylevel/
+url: /net/aspose.medical.dicom.tags/tag/batterylevel/
 ---
 
 ## Tag.BatteryLevel field

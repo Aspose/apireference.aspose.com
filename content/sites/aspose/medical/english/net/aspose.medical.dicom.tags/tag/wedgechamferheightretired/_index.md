@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014511D VRDS VM1 Wedge Chamfer Height RETIRED.
 type: docs
 weight: 52090
-url: /aspose.medical.dicom.tags/tag/wedgechamferheightretired/
+url: /net/aspose.medical.dicom.tags/tag/wedgechamferheightretired/
 ---
 
 ## Tag.WedgeChamferHeightRETIRED field

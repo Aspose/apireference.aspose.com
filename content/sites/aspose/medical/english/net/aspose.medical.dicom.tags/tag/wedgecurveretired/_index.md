@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014511E VRCS VM1 Wedge Curve RETIRED.
 type: docs
 weight: 52100
-url: /aspose.medical.dicom.tags/tag/wedgecurveretired/
+url: /net/aspose.medical.dicom.tags/tag/wedgecurveretired/
 ---
 
 ## Tag.WedgeCurveRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189181 VRFD VM1 Specific Absorption Rate Value.
 type: docs
 weight: 44830
-url: /aspose.medical.dicom.tags/tag/specificabsorptionratevalue/
+url: /net/aspose.medical.dicom.tags/tag/specificabsorptionratevalue/
 ---
 
 ## Tag.SpecificAbsorptionRateValue field

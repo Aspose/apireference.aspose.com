@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189370 VRUS VM1 X-Ray Detector Index.
 type: docs
 weight: 52730
-url: /aspose.medical.dicom.tags/tag/xraydetectorindex/
+url: /net/aspose.medical.dicom.tags/tag/xraydetectorindex/
 ---
 
 ## Tag.XRayDetectorIndex field

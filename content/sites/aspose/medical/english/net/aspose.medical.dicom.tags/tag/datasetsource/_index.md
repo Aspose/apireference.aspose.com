@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240308 VRLO VM1 Data Set Source.
 type: docs
 weight: 9960
-url: /aspose.medical.dicom.tags/tag/datasetsource/
+url: /net/aspose.medical.dicom.tags/tag/datasetsource/
 ---
 
 ## Tag.DataSetSource field

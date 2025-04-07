@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 2000001E VRSQ VM1 Printer Configuration Sequence.
 type: docs
 weight: 32870
-url: /aspose.medical.dicom.tags/tag/printerconfigurationsequence/
+url: /net/aspose.medical.dicom.tags/tag/printerconfigurationsequence/
 ---
 
 ## Tag.PrinterConfigurationSequence field

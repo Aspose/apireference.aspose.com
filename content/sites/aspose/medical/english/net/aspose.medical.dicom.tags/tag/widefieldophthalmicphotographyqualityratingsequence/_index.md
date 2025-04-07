@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221525 VRSQ VM1 Wide Field Ophthalmic Photography Quality Rating Sequence.
 type: docs
 weight: 52510
-url: /aspose.medical.dicom.tags/tag/widefieldophthalmicphotographyqualityratingsequence/
+url: /net/aspose.medical.dicom.tags/tag/widefieldophthalmicphotographyqualityratingsequence/
 ---
 
 ## Tag.WideFieldOphthalmicPhotographyQualityRatingSequence field

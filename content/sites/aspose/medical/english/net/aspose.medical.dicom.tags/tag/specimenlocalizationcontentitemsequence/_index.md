@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400620 VRSQ VM1 Specimen Localization Content Item Sequence.
 type: docs
 weight: 45020
-url: /aspose.medical.dicom.tags/tag/specimenlocalizationcontentitemsequence/
+url: /net/aspose.medical.dicom.tags/tag/specimenlocalizationcontentitemsequence/
 ---
 
 ## Tag.SpecimenLocalizationContentItemSequence field

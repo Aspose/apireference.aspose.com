@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101038 VRSQ VM1 ATD Assessment Sequence RETIRED.
 type: docs
 weight: 2720
-url: /aspose.medical.dicom.tags/tag/atdassessmentsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/atdassessmentsequenceretired/
 ---
 
 ## Tag.ATDAssessmentSequenceRETIRED field

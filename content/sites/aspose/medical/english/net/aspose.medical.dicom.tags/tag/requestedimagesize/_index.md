@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20200030 VRDS VM1 Requested Image Size.
 type: docs
 weight: 38650
-url: /aspose.medical.dicom.tags/tag/requestedimagesize/
+url: /net/aspose.medical.dicom.tags/tag/requestedimagesize/
 ---
 
 ## Tag.RequestedImageSize field

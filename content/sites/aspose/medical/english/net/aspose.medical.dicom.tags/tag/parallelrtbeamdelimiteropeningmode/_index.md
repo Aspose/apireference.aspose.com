@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A064E VRCS VM1 Parallel RT Beam Delimiter Opening Mode.
 type: docs
 weight: 29500
-url: /aspose.medical.dicom.tags/tag/parallelrtbeamdelimiteropeningmode/
+url: /net/aspose.medical.dicom.tags/tag/parallelrtbeamdelimiteropeningmode/
 ---
 
 ## Tag.ParallelRTBeamDelimiterOpeningMode field

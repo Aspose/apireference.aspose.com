@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072003E VRSQ VM1 Abstract Prior Code Sequence.
 type: docs
 weight: 60
-url: /aspose.medical.dicom.tags/tag/abstractpriorcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/abstractpriorcodesequence/
 ---
 
 ## Tag.AbstractPriorCodeSequence field

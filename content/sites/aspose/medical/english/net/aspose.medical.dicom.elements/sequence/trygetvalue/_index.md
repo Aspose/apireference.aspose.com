@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 110
-url: /aspose.medical.dicom.elements/sequence/trygetvalue/
+url: /net/aspose.medical.dicom.elements/sequence/trygetvalue/
 ---
 
 ## TryGetValue&lt;T&gt;(int, out T) {#trygetvalue}

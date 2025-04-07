@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: DICOM UIDs as a Coding Scheme DICOM UID Registry.
 type: docs
 weight: 1100
-url: /aspose.medical.dicom/uid/dicomuidregistry/
+url: /net/aspose.medical.dicom/uid/dicomuidregistry/
 ---
 
 ## Uid.DICOMUIDRegistry field

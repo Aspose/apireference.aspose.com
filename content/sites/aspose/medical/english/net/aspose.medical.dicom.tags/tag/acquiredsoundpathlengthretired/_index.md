@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144031 VRDS VM1 Acquired Soundpath Length RETIRED.
 type: docs
 weight: 160
-url: /aspose.medical.dicom.tags/tag/acquiredsoundpathlengthretired/
+url: /net/aspose.medical.dicom.tags/tag/acquiredsoundpathlengthretired/
 ---
 
 ## Tag.AcquiredSoundpathLengthRETIRED field

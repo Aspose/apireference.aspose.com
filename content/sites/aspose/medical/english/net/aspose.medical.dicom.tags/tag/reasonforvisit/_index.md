@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321066 VRUT VM1 Reason for Visit.
 type: docs
 weight: 35240
-url: /aspose.medical.dicom.tags/tag/reasonforvisit/
+url: /net/aspose.medical.dicom.tags/tag/reasonforvisit/
 ---
 
 ## Tag.ReasonForVisit field

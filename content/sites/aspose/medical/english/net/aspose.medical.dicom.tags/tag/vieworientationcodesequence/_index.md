@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006862E0 VRSQ VM1 View Orientation Code Sequence.
 type: docs
 weight: 51220
-url: /aspose.medical.dicom.tags/tag/vieworientationcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/vieworientationcodesequence/
 ---
 
 ## Tag.ViewOrientationCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20400070 VRCS VM1 Overlay Smoothing Type RETIRED.
 type: docs
 weight: 29210
-url: /aspose.medical.dicom.tags/tag/overlaysmoothingtyperetired/
+url: /net/aspose.medical.dicom.tags/tag/overlaysmoothingtyperetired/
 ---
 
 ## Tag.OverlaySmoothingTypeRETIRED field

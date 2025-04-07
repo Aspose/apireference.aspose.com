@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181144 VRDS VM1 Angular Step.
 type: docs
 weight: 1680
-url: /aspose.medical.dicom.tags/tag/angularstep/
+url: /net/aspose.medical.dicom.tags/tag/angularstep/
 ---
 
 ## Tag.AngularStep field

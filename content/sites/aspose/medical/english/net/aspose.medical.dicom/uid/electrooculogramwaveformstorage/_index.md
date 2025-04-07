@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Electrooculogram Waveform Storage.
 type: docs
 weight: 1330
-url: /aspose.medical.dicom/uid/electrooculogramwaveformstorage/
+url: /net/aspose.medical.dicom/uid/electrooculogramwaveformstorage/
 ---
 
 ## Uid.ElectrooculogramWaveformStorage field

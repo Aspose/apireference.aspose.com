@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020026 VRUR VM1 Source Presentation Address.
 type: docs
 weight: 44430
-url: /aspose.medical.dicom.tags/tag/sourcepresentationaddress/
+url: /net/aspose.medical.dicom.tags/tag/sourcepresentationaddress/
 ---
 
 ## Tag.SourcePresentationAddress field

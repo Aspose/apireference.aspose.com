@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00409216 VRUS or SS VM1 Real World Value First Value Mapped.
 type: docs
 weight: 35040
-url: /aspose.medical.dicom.tags/tag/realworldvaluefirstvaluemapped/
+url: /net/aspose.medical.dicom.tags/tag/realworldvaluefirstvaluemapped/
 ---
 
 ## Tag.RealWorldValueFirstValueMapped field

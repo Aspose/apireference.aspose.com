@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146051 VRDS VM1 Moving Window Padding Sength RETIRED.
 type: docs
 weight: 25000
-url: /aspose.medical.dicom.tags/tag/movingwindowpaddinglengthretired/
+url: /net/aspose.medical.dicom.tags/tag/movingwindowpaddinglengthretired/
 ---
 
 ## Tag.MovingWindowPaddingLengthRETIRED field

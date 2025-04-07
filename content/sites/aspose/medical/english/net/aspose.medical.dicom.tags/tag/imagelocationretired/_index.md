@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280200 VRUS VM1 Image Location RETIRED.
 type: docs
 weight: 19250
-url: /aspose.medical.dicom.tags/tag/imagelocationretired/
+url: /net/aspose.medical.dicom.tags/tag/imagelocationretired/
 ---
 
 ## Tag.ImageLocationRETIRED field

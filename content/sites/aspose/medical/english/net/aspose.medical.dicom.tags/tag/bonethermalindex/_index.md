@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185024 VRDS VM1 Bone Thermal Index.
 type: docs
 weight: 4290
-url: /aspose.medical.dicom.tags/tag/bonethermalindex/
+url: /net/aspose.medical.dicom.tags/tag/bonethermalindex/
 ---
 
 ## Tag.BoneThermalIndex field

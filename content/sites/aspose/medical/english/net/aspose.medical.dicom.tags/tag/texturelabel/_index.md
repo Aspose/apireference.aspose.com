@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00800009 VRSH VM1 Texture Label.
 type: docs
 weight: 47860
-url: /aspose.medical.dicom.tags/tag/texturelabel/
+url: /net/aspose.medical.dicom.tags/tag/texturelabel/
 ---
 
 ## Tag.TextureLabel field

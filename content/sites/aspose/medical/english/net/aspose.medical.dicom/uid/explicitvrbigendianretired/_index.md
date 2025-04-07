@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax Explicit VR Big Endian Retired.
 type: docs
 weight: 1510
-url: /aspose.medical.dicom/uid/explicitvrbigendianretired/
+url: /net/aspose.medical.dicom/uid/explicitvrbigendianretired/
 ---
 
 ## Uid.ExplicitVrBigEndianRetired field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080013 VRTM VM1 Instance Creation Time.
 type: docs
 weight: 20480
-url: /aspose.medical.dicom.tags/tag/instancecreationtime/
+url: /net/aspose.medical.dicom.tags/tag/instancecreationtime/
 ---
 
 ## Tag.InstanceCreationTime field

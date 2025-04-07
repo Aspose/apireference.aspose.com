@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Hemodynamic Waveform Storage.
 type: docs
 weight: 1840
-url: /aspose.medical.dicom/uid/hemodynamicwaveformstorage/
+url: /net/aspose.medical.dicom/uid/hemodynamicwaveformstorage/
 ---
 
 ## Uid.HemodynamicWaveformStorage field

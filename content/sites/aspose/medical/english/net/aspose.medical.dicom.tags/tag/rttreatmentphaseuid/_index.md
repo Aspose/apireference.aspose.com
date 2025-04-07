@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010003B VRUI VM1 RT Treatment Phase UID.
 type: docs
 weight: 40700
-url: /aspose.medical.dicom.tags/tag/rttreatmentphaseuid/
+url: /net/aspose.medical.dicom.tags/tag/rttreatmentphaseuid/
 ---
 
 ## Tag.RTTreatmentPhaseUID field

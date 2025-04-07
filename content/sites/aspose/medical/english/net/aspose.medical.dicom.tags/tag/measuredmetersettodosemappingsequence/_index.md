@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0772 VRSQ VM1 Measured Meterset to Dose Mapping Sequence.
 type: docs
 weight: 24180
-url: /aspose.medical.dicom.tags/tag/measuredmetersettodosemappingsequence/
+url: /net/aspose.medical.dicom.tags/tag/measuredmetersettodosemappingsequence/
 ---
 
 ## Tag.MeasuredMetersetToDoseMappingSequence field

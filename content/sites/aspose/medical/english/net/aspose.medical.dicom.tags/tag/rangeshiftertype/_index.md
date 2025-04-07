@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0320 VRCS VM1 Range Shifter Type.
 type: docs
 weight: 34970
-url: /aspose.medical.dicom.tags/tag/rangeshiftertype/
+url: /net/aspose.medical.dicom.tags/tag/rangeshiftertype/
 ---
 
 ## Tag.RangeShifterType field

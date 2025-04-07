@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0010 VRUL VM1 Number of Waveform Samples.
 type: docs
 weight: 27140
-url: /aspose.medical.dicom.tags/tag/numberofwaveformsamples/
+url: /net/aspose.medical.dicom.tags/tag/numberofwaveformsamples/
 ---
 
 ## Tag.NumberOfWaveformSamples field

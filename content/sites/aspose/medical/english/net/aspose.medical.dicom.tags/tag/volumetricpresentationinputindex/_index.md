@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701804 VRUS VM1 Volumetric Presentation Input Index.
 type: docs
 weight: 51740
-url: /aspose.medical.dicom.tags/tag/volumetricpresentationinputindex/
+url: /net/aspose.medical.dicom.tags/tag/volumetricpresentationinputindex/
 ---
 
 ## Tag.VolumetricPresentationInputIndex field

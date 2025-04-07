@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189147 VRCS VM1 Diffusion Anisotropy Type.
 type: docs
 weight: 11610
-url: /aspose.medical.dicom.tags/tag/diffusionanisotropytype/
+url: /net/aspose.medical.dicom.tags/tag/diffusionanisotropytype/
 ---
 
 ## Tag.DiffusionAnisotropyType field

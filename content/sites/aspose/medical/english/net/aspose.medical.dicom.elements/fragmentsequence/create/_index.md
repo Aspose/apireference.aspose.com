@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Creates a new FragmentSequenceaspose.medical.dicom.elements/fragmentsequence with the given tag and vr.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/fragmentsequence/create/
+url: /net/aspose.medical.dicom.elements/fragmentsequence/create/
 ---
 
 ## Create(Tag, ValueRepresentation) {#create}

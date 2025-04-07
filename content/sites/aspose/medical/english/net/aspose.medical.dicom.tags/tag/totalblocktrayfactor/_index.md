@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00F2 VRDS VM1 Total Block Tray Factor.
 type: docs
 weight: 48860
-url: /aspose.medical.dicom.tags/tag/totalblocktrayfactor/
+url: /net/aspose.medical.dicom.tags/tag/totalblocktrayfactor/
 ---
 
 ## Tag.TotalBlockTrayFactor field

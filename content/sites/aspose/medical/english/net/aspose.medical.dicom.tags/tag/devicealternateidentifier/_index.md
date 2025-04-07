@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010001B VRUC VM1 Device Alternate Identifier.
 type: docs
 weight: 11270
-url: /aspose.medical.dicom.tags/tag/devicealternateidentifier/
+url: /net/aspose.medical.dicom.tags/tag/devicealternateidentifier/
 ---
 
 ## Tag.DeviceAlternateIdentifier field

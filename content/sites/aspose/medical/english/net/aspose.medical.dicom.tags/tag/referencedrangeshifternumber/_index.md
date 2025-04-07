@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0100 VRIS VM1 Referenced Range Shifter Number.
 type: docs
 weight: 37050
-url: /aspose.medical.dicom.tags/tag/referencedrangeshifternumber/
+url: /net/aspose.medical.dicom.tags/tag/referencedrangeshifternumber/
 ---
 
 ## Tag.ReferencedRangeShifterNumber field

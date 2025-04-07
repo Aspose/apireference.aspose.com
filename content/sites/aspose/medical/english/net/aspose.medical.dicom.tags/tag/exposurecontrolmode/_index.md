@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187060 VRCS VM1 Exposure Control Mode.
 type: docs
 weight: 14450
-url: /aspose.medical.dicom.tags/tag/exposurecontrolmode/
+url: /net/aspose.medical.dicom.tags/tag/exposurecontrolmode/
 ---
 
 ## Tag.ExposureControlMode field

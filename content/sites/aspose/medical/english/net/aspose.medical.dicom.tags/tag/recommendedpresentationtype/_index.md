@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0066000D VRCS VM1 Recommended Presentation Type.
 type: docs
 weight: 35540
-url: /aspose.medical.dicom.tags/tag/recommendedpresentationtype/
+url: /net/aspose.medical.dicom.tags/tag/recommendedpresentationtype/
 ---
 
 ## Tag.RecommendedPresentationType field

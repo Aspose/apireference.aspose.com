@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Time TM VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextTM-Time-A20string20of.
 type: docs
 weight: 500
-url: /aspose.medical.dicom.elements/time/
+url: /net/aspose.medical.dicom.elements/time/
 ---
 
 ## Time class

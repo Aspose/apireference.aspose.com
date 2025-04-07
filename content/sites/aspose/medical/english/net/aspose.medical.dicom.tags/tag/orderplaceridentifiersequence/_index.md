@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400026 VRSQ VM1 Order Placer Identifier Sequence.
 type: docs
 weight: 28420
-url: /aspose.medical.dicom.tags/tag/orderplaceridentifiersequence/
+url: /net/aspose.medical.dicom.tags/tag/orderplaceridentifiersequence/
 ---
 
 ## Tag.OrderPlacerIdentifierSequence field

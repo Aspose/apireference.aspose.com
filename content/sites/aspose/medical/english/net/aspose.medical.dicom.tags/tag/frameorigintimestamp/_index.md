@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00340007 VROB VM1 Frame Origin Timestamp.
 type: docs
 weight: 16710
-url: /aspose.medical.dicom.tags/tag/frameorigintimestamp/
+url: /net/aspose.medical.dicom.tags/tag/frameorigintimestamp/
 ---
 
 ## Tag.FrameOriginTimestamp field

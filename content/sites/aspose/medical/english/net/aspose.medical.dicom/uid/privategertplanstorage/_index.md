@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private GE RT Plan Storage.
 type: docs
 weight: 3290
-url: /aspose.medical.dicom/uid/privategertplanstorage/
+url: /net/aspose.medical.dicom/uid/privategertplanstorage/
 ---
 
 ## Uid.PrivateGertPlanStorage field

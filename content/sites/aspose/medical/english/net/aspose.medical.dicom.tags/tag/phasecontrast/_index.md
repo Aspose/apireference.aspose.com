@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189014 VRCS VM1 Phase Contrast.
 type: docs
 weight: 31080
-url: /aspose.medical.dicom.tags/tag/phasecontrast/
+url: /net/aspose.medical.dicom.tags/tag/phasecontrast/
 ---
 
 ## Tag.PhaseContrast field

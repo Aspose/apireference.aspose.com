@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181077 VRDS VM1 Radiopharmaceutical Specific Activity.
 type: docs
 weight: 34640
-url: /aspose.medical.dicom.tags/tag/radiopharmaceuticalspecificactivity/
+url: /net/aspose.medical.dicom.tags/tag/radiopharmaceuticalspecificactivity/
 ---
 
 ## Tag.RadiopharmaceuticalSpecificActivity field

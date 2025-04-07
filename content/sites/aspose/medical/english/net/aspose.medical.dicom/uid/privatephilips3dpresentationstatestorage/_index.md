@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips 3D Presentation State Storage.
 type: docs
 weight: 3320
-url: /aspose.medical.dicom/uid/privatephilips3dpresentationstatestorage/
+url: /net/aspose.medical.dicom/uid/privatephilips3dpresentationstatestorage/
 ---
 
 ## Uid.PrivatePhilips3DPresentationStateStorage field

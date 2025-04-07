@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189729 VRUS VM1 Radiopharmaceutical Agent Number.
 type: docs
 weight: 34600
-url: /aspose.medical.dicom.tags/tag/radiopharmaceuticalagentnumber/
+url: /net/aspose.medical.dicom.tags/tag/radiopharmaceuticalagentnumber/
 ---
 
 ## Tag.RadiopharmaceuticalAgentNumber field

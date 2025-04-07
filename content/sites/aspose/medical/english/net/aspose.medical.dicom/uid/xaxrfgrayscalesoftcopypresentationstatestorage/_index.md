@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class XA/XRF Grayscale Softcopy Presentation State Storage.
 type: docs
 weight: 5170
-url: /aspose.medical.dicom/uid/xaxrfgrayscalesoftcopypresentationstatestorage/
+url: /net/aspose.medical.dicom/uid/xaxrfgrayscalesoftcopypresentationstatestorage/
 ---
 
 ## Uid.XAXRFGrayscaleSoftcopyPresentationStateStorage field

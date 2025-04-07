@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701507 VRFD VM3 MPR View Width Direction.
 type: docs
 weight: 25120
-url: /aspose.medical.dicom.tags/tag/mprviewwidthdirection/
+url: /net/aspose.medical.dicom.tags/tag/mprviewwidthdirection/
 ---
 
 ## Tag.MPRViewWidthDirection field

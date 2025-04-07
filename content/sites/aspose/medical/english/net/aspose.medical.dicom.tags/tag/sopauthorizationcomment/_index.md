@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 01000424 VRLT VM1 SOP Authorization Comment.
 type: docs
 weight: 43810
-url: /aspose.medical.dicom.tags/tag/sopauthorizationcomment/
+url: /net/aspose.medical.dicom.tags/tag/sopauthorizationcomment/
 ---
 
 ## Tag.SOPAuthorizationComment field

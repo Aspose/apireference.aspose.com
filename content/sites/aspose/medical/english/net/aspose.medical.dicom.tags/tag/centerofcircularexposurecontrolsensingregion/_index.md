@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189440 VRSS VM2 Center of Circular Exposure Control Sensing Region.
 type: docs
 weight: 5250
-url: /aspose.medical.dicom.tags/tag/centerofcircularexposurecontrolsensingregion/
+url: /net/aspose.medical.dicom.tags/tag/centerofcircularexposurecontrolsensingregion/
 ---
 
 ## Tag.CenterOfCircularExposureControlSensingRegion field

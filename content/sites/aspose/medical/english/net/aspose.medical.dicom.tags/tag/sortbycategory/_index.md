@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720602 VRCS VM1 Sort-by Category.
 type: docs
 weight: 43890
-url: /aspose.medical.dicom.tags/tag/sortbycategory/
+url: /net/aspose.medical.dicom.tags/tag/sortbycategory/
 ---
 
 ## Tag.SortByCategory field

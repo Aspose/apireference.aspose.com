@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Returns the registered PrivateCreatoraspose.medical.dicom.tags/tagdictionary/privatecreator for the given creator if it is already registered otherwise registers the private creator and returns the registered PrivateCreatoraspose.medical.dicom.tags/tagdictionary/privatecreator.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.tags/tagdictionary/getprivatecreator/
+url: /net/aspose.medical.dicom.tags/tagdictionary/getprivatecreator/
 ---
 
 ## TagDictionary.GetPrivateCreator method

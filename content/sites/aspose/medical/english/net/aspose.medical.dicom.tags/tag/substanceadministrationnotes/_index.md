@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440011 VRLO VM1 Substance Administration Notes.
 type: docs
 weight: 46240
-url: /aspose.medical.dicom.tags/tag/substanceadministrationnotes/
+url: /net/aspose.medical.dicom.tags/tag/substanceadministrationnotes/
 ---
 
 ## Tag.SubstanceAdministrationNotes field

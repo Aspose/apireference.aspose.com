@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189342 VRCS VM1 Contrast/Bolus Agent Administered.
 type: docs
 weight: 8210
-url: /aspose.medical.dicom.tags/tag/contrastbolusagentadministered/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolusagentadministered/
 ---
 
 ## Tag.ContrastBolusAgentAdministered field

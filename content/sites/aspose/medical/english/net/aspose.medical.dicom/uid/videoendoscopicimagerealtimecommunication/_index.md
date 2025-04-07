@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Video Endoscopic Image Real-Time Communication.
 type: docs
 weight: 4930
-url: /aspose.medical.dicom/uid/videoendoscopicimagerealtimecommunication/
+url: /net/aspose.medical.dicom/uid/videoendoscopicimagerealtimecommunication/
 ---
 
 ## Uid.VideoEndoscopicImageRealTimeCommunication field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00603004 VRUS or SS VM1 Histogram First Bin Value.
 type: docs
 weight: 18370
-url: /aspose.medical.dicom.tags/tag/histogramfirstbinvalue/
+url: /net/aspose.medical.dicom.tags/tag/histogramfirstbinvalue/
 ---
 
 ## Tag.HistogramFirstBinValue field

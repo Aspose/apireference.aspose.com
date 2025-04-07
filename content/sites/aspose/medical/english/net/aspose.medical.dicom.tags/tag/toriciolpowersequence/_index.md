@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221047 VRSQ VM1 Toric IOL Power Sequence.
 type: docs
 weight: 48840
-url: /aspose.medical.dicom.tags/tag/toriciolpowersequence/
+url: /net/aspose.medical.dicom.tags/tag/toriciolpowersequence/
 ---
 
 ## Tag.ToricIOLPowerSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181137 VRDS VM1-n Table Longitudinal Increment.
 type: docs
 weight: 46810
-url: /aspose.medical.dicom.tags/tag/tablelongitudinalincrement/
+url: /net/aspose.medical.dicom.tags/tag/tablelongitudinalincrement/
 ---
 
 ## Tag.TableLongitudinalIncrement field

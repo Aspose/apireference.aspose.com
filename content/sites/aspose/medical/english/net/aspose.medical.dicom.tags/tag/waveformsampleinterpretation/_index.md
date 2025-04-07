@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 54001006 VRCS VM1 Waveform Sample Interpretation.
 type: docs
 weight: 52040
-url: /aspose.medical.dicom.tags/tag/waveformsampleinterpretation/
+url: /net/aspose.medical.dicom.tags/tag/waveformsampleinterpretation/
 ---
 
 ## Tag.WaveformSampleInterpretation field

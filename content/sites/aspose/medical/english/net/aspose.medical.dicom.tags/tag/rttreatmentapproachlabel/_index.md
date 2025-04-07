@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100056 VRLO VM1 RT Treatment Approach Label.
 type: docs
 weight: 40640
-url: /aspose.medical.dicom.tags/tag/rttreatmentapproachlabel/
+url: /net/aspose.medical.dicom.tags/tag/rttreatmentapproachlabel/
 ---
 
 ## Tag.RTTreatmentApproachLabel field

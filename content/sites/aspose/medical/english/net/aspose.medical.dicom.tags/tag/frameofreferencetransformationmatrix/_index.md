@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300600C6 VRDS VM16 Frame of Reference Transformation Matrix.
 type: docs
 weight: 16670
-url: /aspose.medical.dicom.tags/tag/frameofreferencetransformationmatrix/
+url: /net/aspose.medical.dicom.tags/tag/frameofreferencetransformationmatrix/
 ---
 
 ## Tag.FrameOfReferenceTransformationMatrix field

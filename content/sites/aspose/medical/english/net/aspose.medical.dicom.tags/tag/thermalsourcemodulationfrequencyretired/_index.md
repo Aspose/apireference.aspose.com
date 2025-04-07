@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014600B VRDS VM1 Thermal Source Modulation Frequency RETIRED.
 type: docs
 weight: 47960
-url: /aspose.medical.dicom.tags/tag/thermalsourcemodulationfrequencyretired/
+url: /net/aspose.medical.dicom.tags/tag/thermalsourcemodulationfrequencyretired/
 ---
 
 ## Tag.ThermalSourceModulationFrequencyRETIRED field

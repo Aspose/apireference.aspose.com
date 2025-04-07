@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00201070 VRIS VM1-n Other Study Numbers RETIRED.
 type: docs
 weight: 28700
-url: /aspose.medical.dicom.tags/tag/otherstudynumbersretired/
+url: /net/aspose.medical.dicom.tags/tag/otherstudynumbersretired/
 ---
 
 ## Tag.OtherStudyNumbersRETIRED field

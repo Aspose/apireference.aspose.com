@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101077 VRSQ VM1 Referenced TDR Instance Sequence RETIRED.
 type: docs
 weight: 37580
-url: /aspose.medical.dicom.tags/tag/referencedtdrinstancesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/referencedtdrinstancesequenceretired/
 ---
 
 ## Tag.ReferencedTDRInstanceSequenceRETIRED field

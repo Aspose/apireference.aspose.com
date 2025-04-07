@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142004 VRIS VM1 Evaluator Number RETIRED.
 type: docs
 weight: 14090
-url: /aspose.medical.dicom.tags/tag/evaluatornumberretired/
+url: /net/aspose.medical.dicom.tags/tag/evaluatornumberretired/
 ---
 
 ## Tag.EvaluatorNumberRETIRED field

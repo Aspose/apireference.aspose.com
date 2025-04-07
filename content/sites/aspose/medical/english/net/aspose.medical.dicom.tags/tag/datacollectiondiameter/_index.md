@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180090 VRDS VM1 Data Collection Diameter.
 type: docs
 weight: 9760
-url: /aspose.medical.dicom.tags/tag/datacollectiondiameter/
+url: /net/aspose.medical.dicom.tags/tag/datacollectiondiameter/
 ---
 
 ## Tag.DataCollectionDiameter field

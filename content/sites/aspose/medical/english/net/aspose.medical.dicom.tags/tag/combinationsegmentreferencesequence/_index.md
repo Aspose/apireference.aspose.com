@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100024 VRSQ VM1 Combination Segment Reference Sequence.
 type: docs
 weight: 6500
-url: /aspose.medical.dicom.tags/tag/combinationsegmentreferencesequence/
+url: /net/aspose.medical.dicom.tags/tag/combinationsegmentreferencesequence/
 ---
 
 ## Tag.CombinationSegmentReferenceSequence field

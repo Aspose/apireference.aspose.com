@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400321 VRSQ VM1 Film Consumption Sequence.
 type: docs
 weight: 15240
-url: /aspose.medical.dicom.tags/tag/filmconsumptionsequence/
+url: /net/aspose.medical.dicom.tags/tag/filmconsumptionsequence/
 ---
 
 ## Tag.FilmConsumptionSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0020930D VRFD VM1 Temporal Position Time Offset.
 type: docs
 weight: 47630
-url: /aspose.medical.dicom.tags/tag/temporalpositiontimeoffset/
+url: /net/aspose.medical.dicom.tags/tag/temporalpositiontimeoffset/
 ---
 
 ## Tag.TemporalPositionTimeOffset field

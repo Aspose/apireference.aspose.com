@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189382 VRSQ VM1 Material Attenuation Sequence.
 type: docs
 weight: 23650
-url: /aspose.medical.dicom.tags/tag/materialattenuationsequence/
+url: /net/aspose.medical.dicom.tags/tag/materialattenuationsequence/
 ---
 
 ## Tag.MaterialAttenuationSequence field

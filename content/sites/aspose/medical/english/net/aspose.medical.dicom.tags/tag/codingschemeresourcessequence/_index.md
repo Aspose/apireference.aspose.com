@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080109 VRSQ VM1 Coding Scheme Resources Sequence.
 type: docs
 weight: 6160
-url: /aspose.medical.dicom.tags/tag/codingschemeresourcessequence/
+url: /net/aspose.medical.dicom.tags/tag/codingschemeresourcessequence/
 ---
 
 ## Tag.CodingSchemeResourcesSequence field

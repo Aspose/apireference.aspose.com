@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006A000E VRSH VM1-n Referenced Optical Path Identifier.
 type: docs
 weight: 36750
-url: /aspose.medical.dicom.tags/tag/referencedopticalpathidentifier/
+url: /net/aspose.medical.dicom.tags/tag/referencedopticalpathidentifier/
 ---
 
 ## Tag.ReferencedOpticalPathIdentifier field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0607 VRUS VM1 Referenced Device Index.
 type: docs
 weight: 36250
-url: /aspose.medical.dicom.tags/tag/referenceddeviceindex/
+url: /net/aspose.medical.dicom.tags/tag/referenceddeviceindex/
 ---
 
 ## Tag.ReferencedDeviceIndex field

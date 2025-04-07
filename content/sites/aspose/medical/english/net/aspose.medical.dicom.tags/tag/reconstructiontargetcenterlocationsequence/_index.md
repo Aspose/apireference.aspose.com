@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018993E VRSQ VM1 Reconstruction Target Center Location Sequence.
 type: docs
 weight: 35710
-url: /aspose.medical.dicom.tags/tag/reconstructiontargetcenterlocationsequence/
+url: /net/aspose.medical.dicom.tags/tag/reconstructiontargetcenterlocationsequence/
 ---
 
 ## Tag.ReconstructionTargetCenterLocationSequence field

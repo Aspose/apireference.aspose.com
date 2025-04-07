@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720420 VRUS VM3 Structured Display Background CIELab Value.
 type: docs
 weight: 45820
-url: /aspose.medical.dicom.tags/tag/structureddisplaybackgroundcielabvalue/
+url: /net/aspose.medical.dicom.tags/tag/structureddisplaybackgroundcielabvalue/
 ---
 
 ## Tag.StructuredDisplayBackgroundCIELabValue field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160078 VRUT VM1 GPS Satellites.
 type: docs
 weight: 17650
-url: /aspose.medical.dicom.tags/tag/gpssatellites/
+url: /net/aspose.medical.dicom.tags/tag/gpssatellites/
 ---
 
 ## Tag.GPSSatellites field

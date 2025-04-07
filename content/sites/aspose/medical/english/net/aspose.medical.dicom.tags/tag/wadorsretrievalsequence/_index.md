@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040E025 VRSQ VM1 WADO-RS Retrieval Sequence.
 type: docs
 weight: 51820
-url: /aspose.medical.dicom.tags/tag/wadorsretrievalsequence/
+url: /net/aspose.medical.dicom.tags/tag/wadorsretrievalsequence/
 ---
 
 ## Tag.WADORSRetrievalSequence field

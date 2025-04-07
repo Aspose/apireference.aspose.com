@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40000010 VRLT VM1 Arbitrary RETIRED.
 type: docs
 weight: 2310
-url: /aspose.medical.dicom.tags/tag/arbitraryretired/
+url: /net/aspose.medical.dicom.tags/tag/arbitraryretired/
 ---
 
 ## Tag.ArbitraryRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips MR Synthetic Image Storage.
 type: docs
 weight: 3490
-url: /aspose.medical.dicom/uid/privatephilipsmrsyntheticimagestorage/
+url: /net/aspose.medical.dicom/uid/privatephilipsmrsyntheticimagestorage/
 ---
 
 ## Uid.PrivatePhilipsMrSyntheticImageStorage field

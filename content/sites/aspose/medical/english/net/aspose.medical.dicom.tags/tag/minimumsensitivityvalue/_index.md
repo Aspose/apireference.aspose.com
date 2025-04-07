@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240105 VRFL VM1 Minimum Sensitivity Value.
 type: docs
 weight: 24620
-url: /aspose.medical.dicom.tags/tag/minimumsensitivityvalue/
+url: /net/aspose.medical.dicom.tags/tag/minimumsensitivityvalue/
 ---
 
 ## Tag.MinimumSensitivityValue field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820023 VRLO VM1 Assessment Label.
 type: docs
 weight: 2580
-url: /aspose.medical.dicom.tags/tag/assessmentlabel/
+url: /net/aspose.medical.dicom.tags/tag/assessmentlabel/
 ---
 
 ## Tag.AssessmentLabel field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540500 VRCS VM1 Slice Progression Direction.
 type: docs
 weight: 43600
-url: /aspose.medical.dicom.tags/tag/sliceprogressiondirection/
+url: /net/aspose.medical.dicom.tags/tag/sliceprogressiondirection/
 ---
 
 ## Tag.SliceProgressionDirection field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014201C VRCS VM1 Indication Disposition RETIRED.
 type: docs
 weight: 20230
-url: /aspose.medical.dicom.tags/tag/indicationdispositionretired/
+url: /net/aspose.medical.dicom.tags/tag/indicationdispositionretired/
 ---
 
 ## Tag.IndicationDispositionRETIRED field

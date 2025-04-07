@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181066 VRDS VM1 Frame Delay.
 type: docs
 weight: 16510
-url: /aspose.medical.dicom.tags/tag/framedelay/
+url: /net/aspose.medical.dicom.tags/tag/framedelay/
 ---
 
 ## Tag.FrameDelay field

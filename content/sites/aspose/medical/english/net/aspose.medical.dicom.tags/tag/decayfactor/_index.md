@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541321 VRDS VM1 Decay Factor.
 type: docs
 weight: 10230
-url: /aspose.medical.dicom.tags/tag/decayfactor/
+url: /net/aspose.medical.dicom.tags/tag/decayfactor/
 ---
 
 ## Tag.DecayFactor field

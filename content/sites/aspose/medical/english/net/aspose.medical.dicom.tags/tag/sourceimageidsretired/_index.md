@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 002031xx VRCS VM1-n Source Image IDs RETIRED.
 type: docs
 weight: 44210
-url: /aspose.medical.dicom.tags/tag/sourceimageidsretired/
+url: /net/aspose.medical.dicom.tags/tag/sourceimageidsretired/
 ---
 
 ## Tag.SourceImageIDsRETIRED field

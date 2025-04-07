@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686265 VRSQ VM1 Notification From Manufacturer Sequence.
 type: docs
 weight: 26020
-url: /aspose.medical.dicom.tags/tag/notificationfrommanufacturersequence/
+url: /net/aspose.medical.dicom.tags/tag/notificationfrommanufacturersequence/
 ---
 
 ## Tag.NotificationFromManufacturerSequence field

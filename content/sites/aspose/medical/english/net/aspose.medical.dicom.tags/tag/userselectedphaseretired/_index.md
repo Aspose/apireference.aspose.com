@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014408C VRDS VM1 User Selected Phase RETIRED.
 type: docs
 weight: 50660
-url: /aspose.medical.dicom.tags/tag/userselectedphaseretired/
+url: /net/aspose.medical.dicom.tags/tag/userselectedphaseretired/
 ---
 
 ## Tag.UserSelectedPhaseRETIRED field

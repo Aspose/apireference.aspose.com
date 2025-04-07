@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Meta SOP Class Basic Grayscale Print Management Meta SOP Class.
 type: docs
 weight: 170
-url: /aspose.medical.dicom/uid/basicgrayscaleprintmanagementmetasopclass/
+url: /net/aspose.medical.dicom/uid/basicgrayscaleprintmanagementmetasopclass/
 ---
 
 ## Uid.BasicGrayscalePrintManagementMetaSOPClass field

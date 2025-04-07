@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Creates a new instance of the UniqueIdentifieraspose.medical.dicom.elements/uniqueidentifier.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/uniqueidentifier/uniqueidentifier/
+url: /net/aspose.medical.dicom.elements/uniqueidentifier/uniqueidentifier/
 ---
 
 ## UniqueIdentifier(Tag, params Uid[]) {#constructor}

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660104 VRSQ VM1 Tracking Algorithm Identification Sequence.
 type: docs
 weight: 49050
-url: /aspose.medical.dicom.tags/tag/trackingalgorithmidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/trackingalgorithmidentificationsequence/
 ---
 
 ## Tag.TrackingAlgorithmIdentificationSequence field

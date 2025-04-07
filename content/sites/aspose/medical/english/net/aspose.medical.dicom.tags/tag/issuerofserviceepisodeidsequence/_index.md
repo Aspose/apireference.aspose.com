@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380064 VRSQ VM1 Issuer of Service Episode ID Sequence.
 type: docs
 weight: 21880
-url: /aspose.medical.dicom.tags/tag/issuerofserviceepisodeidsequence/
+url: /net/aspose.medical.dicom.tags/tag/issuerofserviceepisodeidsequence/
 ---
 
 ## Tag.IssuerOfServiceEpisodeIDSequence field

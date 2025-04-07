@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072007A VRUS VM1-n Selector US Value.
 type: docs
 weight: 42670
-url: /aspose.medical.dicom.tags/tag/selectorusvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorusvalue/
 ---
 
 ## Tag.SelectorUSValue field

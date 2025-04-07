@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020134 VRFD VM1 Maximum Cumulative Meterset Exposure.
 type: docs
 weight: 23950
-url: /aspose.medical.dicom.tags/tag/maximumcumulativemetersetexposure/
+url: /net/aspose.medical.dicom.tags/tag/maximumcumulativemetersetexposure/
 ---
 
 ## Tag.MaximumCumulativeMetersetExposure field

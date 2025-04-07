@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540036 VRIS VM1 Phase Delay.
 type: docs
 weight: 31090
-url: /aspose.medical.dicom.tags/tag/phasedelay/
+url: /net/aspose.medical.dicom.tags/tag/phasedelay/
 ---
 
 ## Tag.PhaseDelay field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720073 VROD VM1 Selector OD Value.
 type: docs
 weight: 42470
-url: /aspose.medical.dicom.tags/tag/selectorodvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorodvalue/
 ---
 
 ## Tag.SelectorODValue field

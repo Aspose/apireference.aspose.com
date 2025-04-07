@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240338 VRCS VM1 Index Normals Flag.
 type: docs
 weight: 20190
-url: /aspose.medical.dicom.tags/tag/indexnormalsflag/
+url: /net/aspose.medical.dicom.tags/tag/indexnormalsflag/
 ---
 
 ## Tag.IndexNormalsFlag field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700023 VRCS VM1 Graphic Type.
 type: docs
 weight: 17940
-url: /aspose.medical.dicom.tags/tag/graphictype/
+url: /net/aspose.medical.dicom.tags/tag/graphictype/
 ---
 
 ## Tag.GraphicType field

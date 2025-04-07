@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00F5 VRSH VM1 Block Tray ID.
 type: docs
 weight: 4170
-url: /aspose.medical.dicom.tags/tag/blocktrayid/
+url: /net/aspose.medical.dicom.tags/tag/blocktrayid/
 ---
 
 ## Tag.BlockTrayID field

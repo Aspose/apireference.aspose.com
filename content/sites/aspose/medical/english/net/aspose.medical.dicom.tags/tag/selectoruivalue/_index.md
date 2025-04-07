@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072007F VRUI VM1-n Selector UI Value.
 type: docs
 weight: 42630
-url: /aspose.medical.dicom.tags/tag/selectoruivalue/
+url: /net/aspose.medical.dicom.tags/tag/selectoruivalue/
 ---
 
 ## Tag.SelectorUIValue field

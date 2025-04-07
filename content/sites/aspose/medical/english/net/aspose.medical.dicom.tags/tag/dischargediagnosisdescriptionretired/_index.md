@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380040 VRLO VM1 Discharge Diagnosis Description RETIRED.
 type: docs
 weight: 11970
-url: /aspose.medical.dicom.tags/tag/dischargediagnosisdescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/dischargediagnosisdescriptionretired/
 ---
 
 ## Tag.DischargeDiagnosisDescriptionRETIRED field

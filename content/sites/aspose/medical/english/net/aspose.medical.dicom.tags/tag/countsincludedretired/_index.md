@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541400 VRCS VM1-n Counts Included RETIRED.
 type: docs
 weight: 9040
-url: /aspose.medical.dicom.tags/tag/countsincludedretired/
+url: /net/aspose.medical.dicom.tags/tag/countsincludedretired/
 ---
 
 ## Tag.CountsIncludedRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144036 VRCS VM1 DAC Type RETIRED.
 type: docs
 weight: 9690
-url: /aspose.medical.dicom.tags/tag/dactyperetired/
+url: /net/aspose.medical.dicom.tags/tag/dactyperetired/
 ---
 
 ## Tag.DACTypeRETIRED field

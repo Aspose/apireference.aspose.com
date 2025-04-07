@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101006 VROB VM1 Threat ROI Bitmap RETIRED.
 type: docs
 weight: 48080
-url: /aspose.medical.dicom.tags/tag/threatroibitmapretired/
+url: /net/aspose.medical.dicom.tags/tag/threatroibitmapretired/
 ---
 
 ## Tag.ThreatROIBitmapRETIRED field

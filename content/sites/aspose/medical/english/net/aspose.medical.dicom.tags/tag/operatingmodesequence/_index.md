@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189176 VRSQ VM1 Operating Mode Sequence.
 type: docs
 weight: 27740
-url: /aspose.medical.dicom.tags/tag/operatingmodesequence/
+url: /net/aspose.medical.dicom.tags/tag/operatingmodesequence/
 ---
 
 ## Tag.OperatingModeSequence field

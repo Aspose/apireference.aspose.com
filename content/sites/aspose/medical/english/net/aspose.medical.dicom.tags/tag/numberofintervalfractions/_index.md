@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010007C VRIS VM1 Number of Interval Fractions.
 type: docs
 weight: 26470
-url: /aspose.medical.dicom.tags/tag/numberofintervalfractions/
+url: /net/aspose.medical.dicom.tags/tag/numberofintervalfractions/
 ---
 
 ## Tag.NumberOfIntervalFractions field

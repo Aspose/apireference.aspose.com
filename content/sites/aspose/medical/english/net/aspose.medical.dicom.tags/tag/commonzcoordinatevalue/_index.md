@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006A0010 VRFD VM1-n Common Z Coordinate Value.
 type: docs
 weight: 6610
-url: /aspose.medical.dicom.tags/tag/commonzcoordinatevalue/
+url: /net/aspose.medical.dicom.tags/tag/commonzcoordinatevalue/
 ---
 
 ## Tag.CommonZCoordinateValue field

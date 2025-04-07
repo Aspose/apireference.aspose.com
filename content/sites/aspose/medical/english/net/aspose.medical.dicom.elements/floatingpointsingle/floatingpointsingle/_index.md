@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/floatingpointsingle/floatingpointsingle/
+url: /net/aspose.medical.dicom.elements/floatingpointsingle/floatingpointsingle/
 ---
 
 ## FloatingPointSingle(Tag, Span&lt;float&gt;) {#constructor_1}

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404035 VRSQ VM1 Actual Human Performers Sequence.
 type: docs
 weight: 770
-url: /aspose.medical.dicom.tags/tag/actualhumanperformerssequence/
+url: /net/aspose.medical.dicom.tags/tag/actualhumanperformerssequence/
 ---
 
 ## Tag.ActualHumanPerformersSequence field

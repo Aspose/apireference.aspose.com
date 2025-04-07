@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180070 VRIS VM1 Counts Accumulated.
 type: docs
 weight: 9030
-url: /aspose.medical.dicom.tags/tag/countsaccumulated/
+url: /net/aspose.medical.dicom.tags/tag/countsaccumulated/
 ---
 
 ## Tag.CountsAccumulated field

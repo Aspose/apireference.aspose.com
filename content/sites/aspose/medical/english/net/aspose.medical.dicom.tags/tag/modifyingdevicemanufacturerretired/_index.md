@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00203404 VRLO VM1 Modifying Device Manufacturer RETIRED.
 type: docs
 weight: 24820
-url: /aspose.medical.dicom.tags/tag/modifyingdevicemanufacturerretired/
+url: /net/aspose.medical.dicom.tags/tag/modifyingdevicemanufacturerretired/
 ---
 
 ## Tag.ModifyingDeviceManufacturerRETIRED field

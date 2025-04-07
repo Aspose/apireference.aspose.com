@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700247 VRUS VM3 Shadow Color CIELab Value.
 type: docs
 weight: 43080
-url: /aspose.medical.dicom.tags/tag/shadowcolorcielabvalue/
+url: /net/aspose.medical.dicom.tags/tag/shadowcolorcielabvalue/
 ---
 
 ## Tag.ShadowColorCIELabValue field

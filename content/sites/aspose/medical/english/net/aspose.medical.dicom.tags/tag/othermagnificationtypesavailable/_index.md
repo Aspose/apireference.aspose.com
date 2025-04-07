@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 201000A7 VRCS VM1-n Other Magnification Types Available.
 type: docs
 weight: 28620
-url: /aspose.medical.dicom.tags/tag/othermagnificationtypesavailable/
+url: /net/aspose.medical.dicom.tags/tag/othermagnificationtypesavailable/
 ---
 
 ## Tag.OtherMagnificationTypesAvailable field

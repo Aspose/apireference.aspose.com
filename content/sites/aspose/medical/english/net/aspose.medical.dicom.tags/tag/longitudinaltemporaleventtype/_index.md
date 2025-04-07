@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120053 VRCS VM1 Longitudinal Temporal Event Type.
 type: docs
 weight: 23000
-url: /aspose.medical.dicom.tags/tag/longitudinaltemporaleventtype/
+url: /net/aspose.medical.dicom.tags/tag/longitudinaltemporaleventtype/
 ---
 
 ## Tag.LongitudinalTemporalEventType field

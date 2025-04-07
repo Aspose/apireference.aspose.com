@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400555 VRSQ VM1 Acquisition Context Sequence.
 type: docs
 weight: 210
-url: /aspose.medical.dicom.tags/tag/acquisitioncontextsequence/
+url: /net/aspose.medical.dicom.tags/tag/acquisitioncontextsequence/
 ---
 
 ## Tag.AcquisitionContextSequence field

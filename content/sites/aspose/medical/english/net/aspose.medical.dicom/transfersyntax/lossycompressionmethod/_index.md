@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Gets the lossy compression method identifier. Read-only LossyCompressionMethodsaspose.medical.dicom/lossycompressionmethods.
 type: docs
 weight: 660
-url: /aspose.medical.dicom/transfersyntax/lossycompressionmethod/
+url: /net/aspose.medical.dicom/transfersyntax/lossycompressionmethod/
 ---
 
 ## TransferSyntax.LossyCompressionMethod property

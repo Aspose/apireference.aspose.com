@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240059 VRCS VM1 Global Deviation Probability Normals Flag.
 type: docs
 weight: 17400
-url: /aspose.medical.dicom.tags/tag/globaldeviationprobabilitynormalsflag/
+url: /net/aspose.medical.dicom.tags/tag/globaldeviationprobabilitynormalsflag/
 ---
 
 ## Tag.GlobalDeviationProbabilityNormalsFlag field

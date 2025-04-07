@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020115 VRCS VM1 Imaging Aperture Specification Type.
 type: docs
 weight: 19650
-url: /aspose.medical.dicom.tags/tag/imagingaperturespecificationtype/
+url: /net/aspose.medical.dicom.tags/tag/imagingaperturespecificationtype/
 ---
 
 ## Tag.ImagingApertureSpecificationType field

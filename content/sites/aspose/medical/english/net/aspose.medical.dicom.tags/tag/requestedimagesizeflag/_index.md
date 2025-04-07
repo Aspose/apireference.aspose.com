@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 202000A0 VRCS VM1 Requested Image Size Flag.
 type: docs
 weight: 38660
-url: /aspose.medical.dicom.tags/tag/requestedimagesizeflag/
+url: /net/aspose.medical.dicom.tags/tag/requestedimagesizeflag/
 ---
 
 ## Tag.RequestedImageSizeFlag field

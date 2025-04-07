@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700306 VRCS VM1 Shape Type.
 type: docs
 weight: 43140
-url: /aspose.medical.dicom.tags/tag/shapetype/
+url: /net/aspose.medical.dicom.tags/tag/shapetype/
 ---
 
 ## Tag.ShapeType field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200013 VRIS VM1 Instance Number.
 type: docs
 weight: 20510
-url: /aspose.medical.dicom.tags/tag/instancenumber/
+url: /net/aspose.medical.dicom.tags/tag/instancenumber/
 ---
 
 ## Tag.InstanceNumber field

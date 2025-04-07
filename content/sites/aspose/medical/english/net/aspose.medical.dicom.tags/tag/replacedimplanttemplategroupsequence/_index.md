@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00780026 VRSQ VM1 Replaced Implant Template Group Sequence.
 type: docs
 weight: 38490
-url: /aspose.medical.dicom.tags/tag/replacedimplanttemplategroupsequence/
+url: /net/aspose.medical.dicom.tags/tag/replacedimplanttemplategroupsequence/
 ---
 
 ## Tag.ReplacedImplantTemplateGroupSequence field

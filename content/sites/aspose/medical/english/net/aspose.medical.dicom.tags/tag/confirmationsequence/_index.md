@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A073F VRSQ VM1 Confirmation Sequence.
 type: docs
 weight: 7540
-url: /aspose.medical.dicom.tags/tag/confirmationsequence/
+url: /net/aspose.medical.dicom.tags/tag/confirmationsequence/
 ---
 
 ## Tag.ConfirmationSequence field

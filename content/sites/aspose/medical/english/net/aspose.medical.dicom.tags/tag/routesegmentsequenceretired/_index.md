@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4010100A VRSQ VM1 Route Segment Sequence RETIRED.
 type: docs
 weight: 39760
-url: /aspose.medical.dicom.tags/tag/routesegmentsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/routesegmentsequenceretired/
 ---
 
 ## Tag.RouteSegmentSequenceRETIRED field

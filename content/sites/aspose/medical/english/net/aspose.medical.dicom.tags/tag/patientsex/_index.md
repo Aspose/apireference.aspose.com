@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100040 VRCS VM1 Patients Sex.
 type: docs
 weight: 30130
-url: /aspose.medical.dicom.tags/tag/patientsex/
+url: /net/aspose.medical.dicom.tags/tag/patientsex/
 ---
 
 ## Tag.PatientSex field

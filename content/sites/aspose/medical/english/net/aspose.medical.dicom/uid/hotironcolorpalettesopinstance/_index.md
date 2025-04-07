@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Well-known SOP Instance Hot Iron Color Palette SOP Instance.
 type: docs
 weight: 1900
-url: /aspose.medical.dicom/uid/hotironcolorpalettesopinstance/
+url: /net/aspose.medical.dicom/uid/hotironcolorpalettesopinstance/
 ---
 
 ## Uid.HotIronColorPaletteSOPInstance field

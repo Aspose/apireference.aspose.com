@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Code String CS.
 type: docs
 weight: 40
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/codestring/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/codestring/
 ---
 
 ## ValueRepresentation.CodeString field

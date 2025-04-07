@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811B1 VRLO VM1 Dose Mode Name.
 type: docs
 weight: 12680
-url: /aspose.medical.dicom.tags/tag/dosemodename/
+url: /net/aspose.medical.dicom.tags/tag/dosemodename/
 ---
 
 ## Tag.DoseModeName field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/unsignedverylong/unsignedverylong/
+url: /net/aspose.medical.dicom.elements/unsignedverylong/unsignedverylong/
 ---
 
 ## UnsignedVeryLong(Tag, Span&lt;ulong&gt;) {#constructor}

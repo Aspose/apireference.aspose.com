@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0221 VRDS VM1 Filter High Frequency.
 type: docs
 weight: 15340
-url: /aspose.medical.dicom.tags/tag/filterhighfrequency/
+url: /net/aspose.medical.dicom.tags/tag/filterhighfrequency/
 ---
 
 ## Tag.FilterHighFrequency field

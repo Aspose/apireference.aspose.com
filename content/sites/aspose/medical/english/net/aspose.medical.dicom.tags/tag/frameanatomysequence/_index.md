@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209071 VRSQ VM1 Frame Anatomy Sequence.
 type: docs
 weight: 16480
-url: /aspose.medical.dicom.tags/tag/frameanatomysequence/
+url: /net/aspose.medical.dicom.tags/tag/frameanatomysequence/
 ---
 
 ## Tag.FrameAnatomySequence field

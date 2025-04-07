@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281204 VROW VM1 Alpha Palette Color Lookup Table Data.
 type: docs
 weight: 1320
-url: /aspose.medical.dicom.tags/tag/alphapalettecolorlookuptabledata/
+url: /net/aspose.medical.dicom.tags/tag/alphapalettecolorlookuptabledata/
 ---
 
 ## Tag.AlphaPaletteColorLookupTableData field

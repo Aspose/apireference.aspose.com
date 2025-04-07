@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080100 VRDA VM1 Interpretation Recorded Date RETIRED.
 type: docs
 weight: 21010
-url: /aspose.medical.dicom.tags/tag/interpretationrecordeddateretired/
+url: /net/aspose.medical.dicom.tags/tag/interpretationrecordeddateretired/
 ---
 
 ## Tag.InterpretationRecordedDateRETIRED field

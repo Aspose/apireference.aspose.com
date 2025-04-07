@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142002 VRSQ VM1 Evaluator Sequence RETIRED.
 type: docs
 weight: 14100
-url: /aspose.medical.dicom.tags/tag/evaluatorsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/evaluatorsequenceretired/
 ---
 
 ## Tag.EvaluatorSequenceRETIRED field

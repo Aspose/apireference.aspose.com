@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00101002 VRSQ VM1 Other Patient IDs Sequence.
 type: docs
 weight: 28650
-url: /aspose.medical.dicom.tags/tag/otherpatientidssequence/
+url: /net/aspose.medical.dicom.tags/tag/otherpatientidssequence/
 ---
 
 ## Tag.OtherPatientIDsSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Thermography Multi-frame Image Storage.
 type: docs
 weight: 4640
-url: /aspose.medical.dicom/uid/thermographymultiframeimagestorage/
+url: /net/aspose.medical.dicom/uid/thermographymultiframeimagestorage/
 ---
 
 ## Uid.ThermographyMultiFrameImageStorage field

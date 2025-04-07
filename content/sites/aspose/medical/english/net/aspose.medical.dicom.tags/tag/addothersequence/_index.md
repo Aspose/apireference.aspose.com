@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460102 VRSQ VM1 Add Other Sequence.
 type: docs
 weight: 910
-url: /aspose.medical.dicom.tags/tag/addothersequence/
+url: /net/aspose.medical.dicom.tags/tag/addothersequence/
 ---
 
 ## Tag.AddOtherSequence field

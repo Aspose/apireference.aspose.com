@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720065 VROB VM1 Selector OB Value.
 type: docs
 weight: 42460
-url: /aspose.medical.dicom.tags/tag/selectorobvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorobvalue/
 ---
 
 ## Tag.SelectorOBValue field

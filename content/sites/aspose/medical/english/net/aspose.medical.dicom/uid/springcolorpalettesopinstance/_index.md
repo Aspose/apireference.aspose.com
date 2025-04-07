@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Well-known SOP Instance Spring Color Palette SOP Instance.
 type: docs
 weight: 4360
-url: /aspose.medical.dicom/uid/springcolorpalettesopinstance/
+url: /net/aspose.medical.dicom/uid/springcolorpalettesopinstance/
 ---
 
 ## Uid.SpringColorPaletteSOPInstance field

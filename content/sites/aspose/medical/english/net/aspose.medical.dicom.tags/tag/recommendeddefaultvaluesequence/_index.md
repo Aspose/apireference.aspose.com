@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820035 VRSQ VM1 Recommended Default Value Sequence.
 type: docs
 weight: 35430
-url: /aspose.medical.dicom.tags/tag/recommendeddefaultvaluesequence/
+url: /net/aspose.medical.dicom.tags/tag/recommendeddefaultvaluesequence/
 ---
 
 ## Tag.RecommendedDefaultValueSequence field

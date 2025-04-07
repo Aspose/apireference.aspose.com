@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221093 VRLO VM1 IOL Manufacturer.
 type: docs
 weight: 21420
-url: /aspose.medical.dicom.tags/tag/iolmanufacturer/
+url: /net/aspose.medical.dicom.tags/tag/iolmanufacturer/
 ---
 
 ## Tag.IOLManufacturer field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741200 VRCS VM1 Scheduled Procedure Step Priority.
 type: docs
 weight: 41420
-url: /aspose.medical.dicom.tags/tag/scheduledproceduresteppriority/
+url: /net/aspose.medical.dicom.tags/tag/scheduledproceduresteppriority/
 ---
 
 ## Tag.ScheduledProcedureStepPriority field

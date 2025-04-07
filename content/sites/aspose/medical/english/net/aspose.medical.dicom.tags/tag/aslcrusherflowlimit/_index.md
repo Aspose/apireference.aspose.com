@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018925A VRFD VM1 ASL Crusher Flow Limit.
 type: docs
 weight: 2420
-url: /aspose.medical.dicom.tags/tag/aslcrusherflowlimit/
+url: /net/aspose.medical.dicom.tags/tag/aslcrusherflowlimit/
 ---
 
 ## Tag.ASLCrusherFlowLimit field

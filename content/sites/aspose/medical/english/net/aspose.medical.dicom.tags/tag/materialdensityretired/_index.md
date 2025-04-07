@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146047 VRDS VM1 Material Density RETIRED.
 type: docs
 weight: 23670
-url: /aspose.medical.dicom.tags/tag/materialdensityretired/
+url: /net/aspose.medical.dicom.tags/tag/materialdensityretired/
 ---
 
 ## Tag.MaterialDensityRETIRED field

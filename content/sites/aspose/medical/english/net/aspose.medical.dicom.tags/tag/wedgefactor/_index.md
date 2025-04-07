@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00D6 VRDS VM1 Wedge Factor.
 type: docs
 weight: 52140
-url: /aspose.medical.dicom.tags/tag/wedgefactor/
+url: /net/aspose.medical.dicom.tags/tag/wedgefactor/
 ---
 
 ## Tag.WedgeFactor field

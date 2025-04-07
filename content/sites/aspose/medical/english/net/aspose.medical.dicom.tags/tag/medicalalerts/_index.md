@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102000 VRLO VM1-n Medical Alerts.
 type: docs
 weight: 24360
-url: /aspose.medical.dicom.tags/tag/medicalalerts/
+url: /net/aspose.medical.dicom.tags/tag/medicalalerts/
 ---
 
 ## Tag.MedicalAlerts field

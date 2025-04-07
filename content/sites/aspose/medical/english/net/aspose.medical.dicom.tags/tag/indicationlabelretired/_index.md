@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142016 VRSH VM1 Indication Label RETIRED.
 type: docs
 weight: 20240
-url: /aspose.medical.dicom.tags/tag/indicationlabelretired/
+url: /net/aspose.medical.dicom.tags/tag/indicationlabelretired/
 ---
 
 ## Tag.IndicationLabelRETIRED field

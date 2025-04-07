@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660009 VRCS VM1 Surface Processing.
 type: docs
 weight: 46460
-url: /aspose.medical.dicom.tags/tag/surfaceprocessing/
+url: /net/aspose.medical.dicom.tags/tag/surfaceprocessing/
 ---
 
 ## Tag.SurfaceProcessing field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Respiratory Waveform Storage.
 type: docs
 weight: 3950
-url: /aspose.medical.dicom/uid/respiratorywaveformstorage/
+url: /net/aspose.medical.dicom/uid/respiratorywaveformstorage/
 ---
 
 ## Uid.RespiratoryWaveformStorage field

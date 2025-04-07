@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Composite Instance Root Retrieve - MOVE.
 type: docs
 weight: 420
-url: /aspose.medical.dicom/uid/compositeinstancerootretrievemove/
+url: /net/aspose.medical.dicom/uid/compositeinstancerootretrievemove/
 ---
 
 ## Uid.CompositeInstanceRootRetrieveMOVE field

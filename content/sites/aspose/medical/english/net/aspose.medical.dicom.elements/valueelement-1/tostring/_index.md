@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 160
-url: /aspose.medical.dicom.elements/valueelement-1/tostring/
+url: /net/aspose.medical.dicom.elements/valueelement-1/tostring/
 ---
 
 ## ValueElement&lt;T&gt;.ToString method

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0184 VRLO VM1 Patient Additional Position.
 type: docs
 weight: 29670
-url: /aspose.medical.dicom.tags/tag/patientadditionalposition/
+url: /net/aspose.medical.dicom.tags/tag/patientadditionalposition/
 ---
 
 ## Tag.PatientAdditionalPosition field

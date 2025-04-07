@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016008C VROB VM1 GPS Area Information.
 type: docs
 weight: 17440
-url: /aspose.medical.dicom.tags/tag/gpsareainformation/
+url: /net/aspose.medical.dicom.tags/tag/gpsareainformation/
 ---
 
 ## Tag.GPSAreaInformation field

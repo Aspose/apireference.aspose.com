@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160010 VRDS VM1-n Color Filter Array Pattern Values.
 type: docs
 weight: 6410
-url: /aspose.medical.dicom.tags/tag/colorfilterarraypatternvalues/
+url: /net/aspose.medical.dicom.tags/tag/colorfilterarraypatternvalues/
 ---
 
 ## Tag.ColorFilterArrayPatternValues field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx1301 VRIS VM1 ROI Area.
 type: docs
 weight: 39360
-url: /aspose.medical.dicom.tags/tag/roiarea/
+url: /net/aspose.medical.dicom.tags/tag/roiarea/
 ---
 
 ## Tag.ROIArea field

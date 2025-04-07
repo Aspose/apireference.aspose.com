@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101059 VRCS VM1 Carrier ID Assigning Authority RETIRED.
 type: docs
 weight: 5140
-url: /aspose.medical.dicom.tags/tag/carrieridassigningauthorityretired/
+url: /net/aspose.medical.dicom.tags/tag/carrieridassigningauthorityretired/
 ---
 
 ## Tag.CarrierIDAssigningAuthorityRETIRED field

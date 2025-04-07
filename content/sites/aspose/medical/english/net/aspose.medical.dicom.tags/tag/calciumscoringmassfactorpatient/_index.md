@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189351 VRFL VM1 Calcium Scoring Mass Factor Patient.
 type: docs
 weight: 4790
-url: /aspose.medical.dicom.tags/tag/calciumscoringmassfactorpatient/
+url: /net/aspose.medical.dicom.tags/tag/calciumscoringmassfactorpatient/
 ---
 
 ## Tag.CalciumScoringMassFactorPatient field

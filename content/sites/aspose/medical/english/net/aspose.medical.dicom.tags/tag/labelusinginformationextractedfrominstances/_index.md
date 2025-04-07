@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 22000001 VRCS VM1 Label Using Information Extracted From Instances.
 type: docs
 weight: 22190
-url: /aspose.medical.dicom.tags/tag/labelusinginformationextractedfrominstances/
+url: /net/aspose.medical.dicom.tags/tag/labelusinginformationextractedfrominstances/
 ---
 
 ## Tag.LabelUsingInformationExtractedFromInstances field

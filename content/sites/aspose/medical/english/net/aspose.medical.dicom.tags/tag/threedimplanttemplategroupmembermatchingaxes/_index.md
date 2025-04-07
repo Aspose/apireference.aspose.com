@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00780060 VRFD VM9 3D Implant Template Group Member Matching Axes.
 type: docs
 weight: 48130
-url: /aspose.medical.dicom.tags/tag/threedimplanttemplategroupmembermatchingaxes/
+url: /net/aspose.medical.dicom.tags/tag/threedimplanttemplategroupmembermatchingaxes/
 ---
 
 ## Tag.ThreeDImplantTemplateGroupMemberMatchingAxes field

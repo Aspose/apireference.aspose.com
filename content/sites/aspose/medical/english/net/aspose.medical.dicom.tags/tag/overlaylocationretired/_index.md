@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0200 VRUS VM1 Overlay Location RETIRED.
 type: docs
 weight: 29060
-url: /aspose.medical.dicom.tags/tag/overlaylocationretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaylocationretired/
 ---
 
 ## Tag.OverlayLocationRETIRED field

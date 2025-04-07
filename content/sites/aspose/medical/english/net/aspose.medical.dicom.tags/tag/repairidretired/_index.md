@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140105 VRST VM1 Repair ID RETIRED.
 type: docs
 weight: 38440
-url: /aspose.medical.dicom.tags/tag/repairidretired/
+url: /net/aspose.medical.dicom.tags/tag/repairidretired/
 ---
 
 ## Tag.RepairIDRETIRED field

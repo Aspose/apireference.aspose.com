@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460205 VRFL VM1 Equivalent Pupil Radius.
 type: docs
 weight: 13960
-url: /aspose.medical.dicom.tags/tag/equivalentpupilradius/
+url: /net/aspose.medical.dicom.tags/tag/equivalentpupilradius/
 ---
 
 ## Tag.EquivalentPupilRadius field

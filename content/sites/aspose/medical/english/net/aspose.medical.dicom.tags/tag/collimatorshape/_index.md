@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181700 VRCS VM1-3 Collimator Shape.
 type: docs
 weight: 6350
-url: /aspose.medical.dicom.tags/tag/collimatorshape/
+url: /net/aspose.medical.dicom.tags/tag/collimatorshape/
 ---
 
 ## Tag.CollimatorShape field

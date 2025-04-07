@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3008006A VRFL VM1 Correction Value.
 type: docs
 weight: 8990
-url: /aspose.medical.dicom.tags/tag/correctionvalue/
+url: /net/aspose.medical.dicom.tags/tag/correctionvalue/
 ---
 
 ## Tag.CorrectionValue field

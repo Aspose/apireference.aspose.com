@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Detached Results Management SOP Class Retired.
 type: docs
 weight: 660
-url: /aspose.medical.dicom/uid/detachedresultsmanagementsopclassretired/
+url: /net/aspose.medical.dicom/uid/detachedresultsmanagementsopclassretired/
 ---
 
 ## Uid.DetachedResultsManagementSOPClassRetired field

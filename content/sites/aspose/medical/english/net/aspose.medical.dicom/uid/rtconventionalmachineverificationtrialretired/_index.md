@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class RT Conventional Machine Verification - Trial Retired.
 type: docs
 weight: 4070
-url: /aspose.medical.dicom/uid/rtconventionalmachineverificationtrialretired/
+url: /net/aspose.medical.dicom/uid/rtconventionalmachineverificationtrialretired/
 ---
 
 ## Uid.RTConventionalMachineVerificationTrialRetired field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160079 VRCS VM1 GPS Status.
 type: docs
 weight: 17680
-url: /aspose.medical.dicom.tags/tag/gpsstatus/
+url: /net/aspose.medical.dicom.tags/tag/gpsstatus/
 ---
 
 ## Tag.GPSStatus field

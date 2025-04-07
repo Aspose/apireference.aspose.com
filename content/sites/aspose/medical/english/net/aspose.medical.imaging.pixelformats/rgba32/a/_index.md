@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Gets or sets the alpha component.
 type: docs
 weight: 40
-url: /aspose.medical.imaging.pixelformats/rgba32/a/
+url: /net/aspose.medical.imaging.pixelformats/rgba32/a/
 ---
 
 ## Rgba32.A field

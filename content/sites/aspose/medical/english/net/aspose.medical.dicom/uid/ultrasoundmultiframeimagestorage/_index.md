@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Ultrasound Multi-frame Image Storage.
 type: docs
 weight: 4740
-url: /aspose.medical.dicom/uid/ultrasoundmultiframeimagestorage/
+url: /net/aspose.medical.dicom/uid/ultrasoundmultiframeimagestorage/
 ---
 
 ## Uid.UltrasoundMultiFrameImageStorage field

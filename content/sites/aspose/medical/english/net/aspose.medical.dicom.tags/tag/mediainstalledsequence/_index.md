@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 200000A2 VRSQ VM1 Media Installed Sequence.
 type: docs
 weight: 24330
-url: /aspose.medical.dicom.tags/tag/mediainstalledsequence/
+url: /net/aspose.medical.dicom.tags/tag/mediainstalledsequence/
 ---
 
 ## Tag.MediaInstalledSequence field

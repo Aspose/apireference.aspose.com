@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400033 VRCS VM1 Universal Entity ID Type.
 type: docs
 weight: 50500
-url: /aspose.medical.dicom.tags/tag/universalentityidtype/
+url: /net/aspose.medical.dicom.tags/tag/universalentityidtype/
 ---
 
 ## Tag.UniversalEntityIDType field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: XML Encoding 1.2.840.10008.1.2.6.2.
 type: docs
 weight: 570
-url: /aspose.medical.dicom/transfersyntax/xmlencoding/
+url: /net/aspose.medical.dicom/transfersyntax/xmlencoding/
 ---
 
 ## TransferSyntax.XmlEncoding field

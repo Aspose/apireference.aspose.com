@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A021 VRUI VM1 Findings Group UID Trial RETIRED.
 type: docs
 weight: 15530
-url: /aspose.medical.dicom.tags/tag/findingsgroupuidtrialretired/
+url: /net/aspose.medical.dicom.tags/tag/findingsgroupuidtrialretired/
 ---
 
 ## Tag.FindingsGroupUIDTrialRETIRED field

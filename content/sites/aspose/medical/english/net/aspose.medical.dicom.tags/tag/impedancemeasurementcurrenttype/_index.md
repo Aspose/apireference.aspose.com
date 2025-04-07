@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0316 VRCS VM1 Impedance Measurement Current Type.
 type: docs
 weight: 19760
-url: /aspose.medical.dicom.tags/tag/impedancemeasurementcurrenttype/
+url: /net/aspose.medical.dicom.tags/tag/impedancemeasurementcurrenttype/
 ---
 
 ## Tag.ImpedanceMeasurementCurrentType field

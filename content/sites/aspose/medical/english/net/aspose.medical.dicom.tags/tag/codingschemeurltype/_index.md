@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008010A VRCS VM1 Coding Scheme URL Type.
 type: docs
 weight: 6200
-url: /aspose.medical.dicom.tags/tag/codingschemeurltype/
+url: /net/aspose.medical.dicom.tags/tag/codingschemeurltype/
 ---
 
 ## Tag.CodingSchemeURLType field

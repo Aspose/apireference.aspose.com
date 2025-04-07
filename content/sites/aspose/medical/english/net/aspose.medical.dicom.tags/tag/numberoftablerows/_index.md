@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A802 VRUL VM1 Number of Table Rows.
 type: docs
 weight: 26970
-url: /aspose.medical.dicom.tags/tag/numberoftablerows/
+url: /net/aspose.medical.dicom.tags/tag/numberoftablerows/
 ---
 
 ## Tag.NumberOfTableRows field

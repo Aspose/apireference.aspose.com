@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00A2 VRDS VM3 Brachy Application Setup Dose Specification Point.
 type: docs
 weight: 4480
-url: /aspose.medical.dicom.tags/tag/brachyapplicationsetupdosespecificationpoint/
+url: /net/aspose.medical.dicom.tags/tag/brachyapplicationsetupdosespecificationpoint/
 ---
 
 ## Tag.BrachyApplicationSetupDoseSpecificationPoint field

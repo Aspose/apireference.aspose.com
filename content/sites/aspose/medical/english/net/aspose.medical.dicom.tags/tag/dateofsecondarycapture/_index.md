@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181012 VRDA VM1 Date of Secondary Capture.
 type: docs
 weight: 10110
-url: /aspose.medical.dicom.tags/tag/dateofsecondarycapture/
+url: /net/aspose.medical.dicom.tags/tag/dateofsecondarycapture/
 ---
 
 ## Tag.DateOfSecondaryCapture field

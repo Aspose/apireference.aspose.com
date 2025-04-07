@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20500500 VRSQ VM1 Referenced Presentation LUT Sequence.
 type: docs
 weight: 36950
-url: /aspose.medical.dicom.tags/tag/referencedpresentationlutsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedpresentationlutsequence/
 ---
 
 ## Tag.ReferencedPresentationLUTSequence field

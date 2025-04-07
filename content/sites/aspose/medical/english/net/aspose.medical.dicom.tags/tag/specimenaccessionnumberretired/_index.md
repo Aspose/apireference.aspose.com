@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040050A VRLO VM1 Specimen Accession Number RETIRED.
 type: docs
 weight: 44950
-url: /aspose.medical.dicom.tags/tag/specimenaccessionnumberretired/
+url: /net/aspose.medical.dicom.tags/tag/specimenaccessionnumberretired/
 ---
 
 ## Tag.SpecimenAccessionNumberRETIRED field

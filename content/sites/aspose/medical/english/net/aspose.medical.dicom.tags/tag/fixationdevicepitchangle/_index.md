@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0199 VRFL VM1 Fixation Device Pitch Angle.
 type: docs
 weight: 15660
-url: /aspose.medical.dicom.tags/tag/fixationdevicepitchangle/
+url: /net/aspose.medical.dicom.tags/tag/fixationdevicepitchangle/
 ---
 
 ## Tag.FixationDevicePitchAngle field

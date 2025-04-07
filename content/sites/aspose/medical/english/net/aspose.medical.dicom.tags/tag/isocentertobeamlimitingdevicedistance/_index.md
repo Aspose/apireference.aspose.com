@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00BB VRFL VM1 Isocenter to Beam Limiting Device Distance.
 type: docs
 weight: 21620
-url: /aspose.medical.dicom.tags/tag/isocentertobeamlimitingdevicedistance/
+url: /net/aspose.medical.dicom.tags/tag/isocentertobeamlimitingdevicedistance/
 ---
 
 ## Tag.IsocenterToBeamLimitingDeviceDistance field

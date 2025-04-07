@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720070 VRUT VM1 Selector UT Value.
 type: docs
 weight: 42680
-url: /aspose.medical.dicom.tags/tag/selectorutvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorutvalue/
 ---
 
 ## Tag.SelectorUTValue field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060044 VRDS VM1 Contour Slab Thickness RETIRED.
 type: docs
 weight: 8140
-url: /aspose.medical.dicom.tags/tag/contourslabthicknessretired/
+url: /net/aspose.medical.dicom.tags/tag/contourslabthicknessretired/
 ---
 
 ## Tag.ContourSlabThicknessRETIRED field

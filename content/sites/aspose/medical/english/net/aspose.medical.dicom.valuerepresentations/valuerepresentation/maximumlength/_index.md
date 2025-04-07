@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Maximum length of a single value. Read-only UInt32.
 type: docs
 weight: 420
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/maximumlength/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/maximumlength/
 ---
 
 ## ValueRepresentation.MaximumLength property

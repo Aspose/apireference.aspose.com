@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Tractography Results Storage.
 type: docs
 weight: 4670
-url: /aspose.medical.dicom/uid/tractographyresultsstorage/
+url: /net/aspose.medical.dicom/uid/tractographyresultsstorage/
 ---
 
 ## Uid.TractographyResultsStorage field

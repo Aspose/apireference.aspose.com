@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189467 VRFL VM1 Table Y Position to Isocenter.
 type: docs
 weight: 47220
-url: /aspose.medical.dicom.tags/tag/tableypositiontoisocenter/
+url: /net/aspose.medical.dicom.tags/tag/tableypositiontoisocenter/
 ---
 
 ## Tag.TableYPositionToIsocenter field

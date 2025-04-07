@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741403 VRDS VM1 Continuation End Total Reference Air Kerma.
 type: docs
 weight: 8030
-url: /aspose.medical.dicom.tags/tag/continuationendtotalreferenceairkerma/
+url: /net/aspose.medical.dicom.tags/tag/continuationendtotalreferenceairkerma/
 ---
 
 ## Tag.ContinuationEndTotalReferenceAirKerma field

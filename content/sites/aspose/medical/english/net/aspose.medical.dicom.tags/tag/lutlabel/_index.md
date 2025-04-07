@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00409210 VRSH VM1 LUT Label.
 type: docs
 weight: 23240
-url: /aspose.medical.dicom.tags/tag/lutlabel/
+url: /net/aspose.medical.dicom.tags/tag/lutlabel/
 ---
 
 ## Tag.LUTLabel field

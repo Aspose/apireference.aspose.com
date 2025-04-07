@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189035 VRFD VM1 Tag Thickness.
 type: docs
 weight: 47310
-url: /aspose.medical.dicom.tags/tag/tagthickness/
+url: /net/aspose.medical.dicom.tags/tag/tagthickness/
 ---
 
 ## Tag.TagThickness field

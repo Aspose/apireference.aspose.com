@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240011 VRFL VM1 Visual Field Vertical Extent.
 type: docs
 weight: 51520
-url: /aspose.medical.dicom.tags/tag/visualfieldverticalextent/
+url: /net/aspose.medical.dicom.tags/tag/visualfieldverticalextent/
 ---
 
 ## Tag.VisualFieldVerticalExtent field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480100 VRSQ VM1 Illuminator Type Code Sequence.
 type: docs
 weight: 18860
-url: /aspose.medical.dicom.tags/tag/illuminatortypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/illuminatortypecodesequence/
 ---
 
 ## Tag.IlluminatorTypeCodeSequence field

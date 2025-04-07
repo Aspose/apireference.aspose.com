@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Initializes a new instance of the AttributeTagaspose.medical.dicom.elements/attributetag with the given value and tag.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/attributetag/attributetag/
+url: /net/aspose.medical.dicom.elements/attributetag/attributetag/
 ---
 
 ## AttributeTag(Tag, Tag) {#constructor}

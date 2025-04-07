@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0390 VRSH VM1 Scan Spot Tune ID.
 type: docs
 weight: 41170
-url: /aspose.medical.dicom.tags/tag/scanspottuneid/
+url: /net/aspose.medical.dicom.tags/tag/scanspottuneid/
 ---
 
 ## Tag.ScanSpotTuneID field

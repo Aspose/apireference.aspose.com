@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A01B4 VRSQ VM1 Setup Device Sequence.
 type: docs
 weight: 43010
-url: /aspose.medical.dicom.tags/tag/setupdevicesequence/
+url: /net/aspose.medical.dicom.tags/tag/setupdevicesequence/
 ---
 
 ## Tag.SetupDeviceSequence field

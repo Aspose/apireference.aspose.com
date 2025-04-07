@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187014 VRDS VM1 Detector Active Time.
 type: docs
 weight: 10930
-url: /aspose.medical.dicom.tags/tag/detectoractivetime/
+url: /net/aspose.medical.dicom.tags/tag/detectoractivetime/
 ---
 
 ## Tag.DetectorActiveTime field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A079B VRFD VM16 Displacement Matrix.
 type: docs
 weight: 11990
-url: /aspose.medical.dicom.tags/tag/displacementmatrix/
+url: /net/aspose.medical.dicom.tags/tag/displacementmatrix/
 ---
 
 ## Tag.DisplacementMatrix field

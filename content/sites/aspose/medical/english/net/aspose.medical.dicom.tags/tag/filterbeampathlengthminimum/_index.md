@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187056 VRFL VM1-n Filter Beam Path Length Minimum.
 type: docs
 weight: 15300
-url: /aspose.medical.dicom.tags/tag/filterbeampathlengthminimum/
+url: /net/aspose.medical.dicom.tags/tag/filterbeampathlengthminimum/
 ---
 
 ## Tag.FilterBeamPathLengthMinimum field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008041B VROB VM1 Record Key.
 type: docs
 weight: 35890
-url: /aspose.medical.dicom.tags/tag/recordkey/
+url: /net/aspose.medical.dicom.tags/tag/recordkey/
 ---
 
 ## Tag.RecordKey field

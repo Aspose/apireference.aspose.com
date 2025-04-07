@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701B06 VRCS VM1 Blending Mode.
 type: docs
 weight: 3890
-url: /aspose.medical.dicom.tags/tag/blendingmode/
+url: /net/aspose.medical.dicom.tags/tag/blendingmode/
 ---
 
 ## Tag.BlendingMode field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Renders the DICOM image stored at the given frameIndex in Pixel Data into RawImageaspose.medical.imaging/rawimage.
 type: docs
 weight: 60
-url: /aspose.medical.dicom/dicomfile/renderimage/
+url: /net/aspose.medical.dicom/dicomfile/renderimage/
 ---
 
 ## RenderImage(int) {#renderimage_1}

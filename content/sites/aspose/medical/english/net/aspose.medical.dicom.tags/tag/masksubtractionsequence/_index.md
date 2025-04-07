@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00286100 VRSQ VM1 Mask Subtraction Sequence.
 type: docs
 weight: 23620
-url: /aspose.medical.dicom.tags/tag/masksubtractionsequence/
+url: /net/aspose.medical.dicom.tags/tag/masksubtractionsequence/
 ---
 
 ## Tag.MaskSubtractionSequence field

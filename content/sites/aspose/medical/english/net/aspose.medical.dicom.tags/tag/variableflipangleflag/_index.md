@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181315 VRCS VM1 Variable Flip Angle Flag.
 type: docs
 weight: 50740
-url: /aspose.medical.dicom.tags/tag/variableflipangleflag/
+url: /net/aspose.medical.dicom.tags/tag/variableflipangleflag/
 ---
 
 ## Tag.VariableFlipAngleFlag field

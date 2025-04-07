@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180093 VRDS VM1 Percent Sampling.
 type: docs
 weight: 30590
-url: /aspose.medical.dicom.tags/tag/percentsampling/
+url: /net/aspose.medical.dicom.tags/tag/percentsampling/
 ---
 
 ## Tag.PercentSampling field

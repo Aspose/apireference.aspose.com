@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 22000008 VRCS VM1 Include Non-DICOM Objects.
 type: docs
 weight: 20120
-url: /aspose.medical.dicom.tags/tag/includenondicomobjects/
+url: /net/aspose.medical.dicom.tags/tag/includenondicomobjects/
 ---
 
 ## Tag.IncludeNonDICOMObjects field

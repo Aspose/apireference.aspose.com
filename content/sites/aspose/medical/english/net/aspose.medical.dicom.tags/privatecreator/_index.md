@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Allows to reserve the block of Private Data Elements and identify private data elements. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_7.8.htmlsect_7.8.1https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_7.8.htmlsect_7.8.1.
 type: docs
 weight: 920
-url: /aspose.medical.dicom.tags/privatecreator/
+url: /net/aspose.medical.dicom.tags/privatecreator/
 ---
 
 ## PrivateCreator class

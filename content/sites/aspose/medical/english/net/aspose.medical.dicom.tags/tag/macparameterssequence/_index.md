@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4FFE0001 VRSQ VM1 MAC Parameters Sequence.
 type: docs
 weight: 23310
-url: /aspose.medical.dicom.tags/tag/macparameterssequence/
+url: /net/aspose.medical.dicom.tags/tag/macparameterssequence/
 ---
 
 ## Tag.MACParametersSequence field

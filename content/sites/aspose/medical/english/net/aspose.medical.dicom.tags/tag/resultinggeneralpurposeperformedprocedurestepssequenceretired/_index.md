@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404015 VRSQ VM1 Resulting General Purpose Performed Procedure Steps Sequence RETIRED.
 type: docs
 weight: 39090
-url: /aspose.medical.dicom.tags/tag/resultinggeneralpurposeperformedprocedurestepssequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/resultinggeneralpurposeperformedprocedurestepssequenceretired/
 ---
 
 ## Tag.ResultingGeneralPurposePerformedProcedureStepsSequenceRETIRED field

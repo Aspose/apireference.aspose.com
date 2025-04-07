@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189044 VRCS VM1 Quadrature Receive Coil.
 type: docs
 weight: 33980
-url: /aspose.medical.dicom.tags/tag/quadraturereceivecoil/
+url: /net/aspose.medical.dicom.tags/tag/quadraturereceivecoil/
 ---
 
 ## Tag.QuadratureReceiveCoil field

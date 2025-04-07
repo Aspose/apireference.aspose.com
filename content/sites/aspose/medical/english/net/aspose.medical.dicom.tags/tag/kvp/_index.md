@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180060 VRDS VM1 KVP.
 type: docs
 weight: 22150
-url: /aspose.medical.dicom.tags/tag/kvp/
+url: /net/aspose.medical.dicom.tags/tag/kvp/
 ---
 
 ## Tag.KVP field

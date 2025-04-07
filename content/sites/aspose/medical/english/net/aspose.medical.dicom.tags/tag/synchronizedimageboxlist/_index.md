@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720432 VRUS VM2-n Synchronized Image Box List.
 type: docs
 weight: 46640
-url: /aspose.medical.dicom.tags/tag/synchronizedimageboxlist/
+url: /net/aspose.medical.dicom.tags/tag/synchronizedimageboxlist/
 ---
 
 ## Tag.SynchronizedImageBoxList field

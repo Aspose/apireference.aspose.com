@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380400 VRLO VM1 Patients Institution Residence.
 type: docs
 weight: 29880
-url: /aspose.medical.dicom.tags/tag/patientinstitutionresidence/
+url: /net/aspose.medical.dicom.tags/tag/patientinstitutionresidence/
 ---
 
 ## Tag.PatientInstitutionResidence field

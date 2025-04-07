@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240060 VRUS VM1 False Positives Quantity.
 type: docs
 weight: 14880
-url: /aspose.medical.dicom.tags/tag/falsepositivesquantity/
+url: /net/aspose.medical.dicom.tags/tag/falsepositivesquantity/
 ---
 
 ## Tag.FalsePositivesQuantity field

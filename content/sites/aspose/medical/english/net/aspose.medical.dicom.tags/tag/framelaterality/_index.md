@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209072 VRCS VM1 Frame Laterality.
 type: docs
 weight: 16600
-url: /aspose.medical.dicom.tags/tag/framelaterality/
+url: /net/aspose.medical.dicom.tags/tag/framelaterality/
 ---
 
 ## Tag.FrameLaterality field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189094 VRCS VM1 Coverage of k-Space.
 type: docs
 weight: 9090
-url: /aspose.medical.dicom.tags/tag/coverageofkspace/
+url: /net/aspose.medical.dicom.tags/tag/coverageofkspace/
 ---
 
 ## Tag.CoverageOfKSpace field

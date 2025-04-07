@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072010C VRUS VM1 Screen Minimum Color Bit Depth.
 type: docs
 weight: 41720
-url: /aspose.medical.dicom.tags/tag/screenminimumcolorbitdepth/
+url: /net/aspose.medical.dicom.tags/tag/screenminimumcolorbitdepth/
 ---
 
 ## Tag.ScreenMinimumColorBitDepth field

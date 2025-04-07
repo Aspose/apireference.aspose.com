@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100214 VRLO VM1 Strain Stock Number.
 type: docs
 weight: 45790
-url: /aspose.medical.dicom.tags/tag/strainstocknumber/
+url: /net/aspose.medical.dicom.tags/tag/strainstocknumber/
 ---
 
 ## Tag.StrainStockNumber field

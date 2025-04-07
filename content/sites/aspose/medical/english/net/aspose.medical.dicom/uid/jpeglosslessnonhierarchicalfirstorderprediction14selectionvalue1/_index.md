@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax JPEG Lossless Non-Hierarchical First-Order Prediction Process 14 Selection Value 1 Default Transfer Syntax for Lossless JPEG Image Compression.
 type: docs
 weight: 2320
-url: /aspose.medical.dicom/uid/jpeglosslessnonhierarchicalfirstorderprediction14selectionvalue1/
+url: /net/aspose.medical.dicom/uid/jpeglosslessnonhierarchicalfirstorderprediction14selectionvalue1/
 ---
 
 ## Uid.JpegLosslessNonHierarchicalFirstOrderPrediction14SelectionValue1 field

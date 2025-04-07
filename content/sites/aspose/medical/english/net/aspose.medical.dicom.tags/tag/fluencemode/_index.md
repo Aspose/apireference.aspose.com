@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020051 VRCS VM1 Fluence Mode.
 type: docs
 weight: 16090
-url: /aspose.medical.dicom.tags/tag/fluencemode/
+url: /net/aspose.medical.dicom.tags/tag/fluencemode/
 ---
 
 ## Tag.FluenceMode field

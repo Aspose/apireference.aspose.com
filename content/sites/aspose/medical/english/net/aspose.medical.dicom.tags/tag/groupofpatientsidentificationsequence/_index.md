@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100027 VRSQ VM1 Group of Patients Identification Sequence.
 type: docs
 weight: 18120
-url: /aspose.medical.dicom.tags/tag/groupofpatientsidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/groupofpatientsidentificationsequence/
 ---
 
 ## Tag.GroupOfPatientsIdentificationSequence field

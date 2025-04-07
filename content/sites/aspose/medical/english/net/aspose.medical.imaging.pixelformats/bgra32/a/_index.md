@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The alpha component.
 type: docs
 weight: 70
-url: /aspose.medical.imaging.pixelformats/bgra32/a/
+url: /net/aspose.medical.imaging.pixelformats/bgra32/a/
 ---
 
 ## Bgra32.A field

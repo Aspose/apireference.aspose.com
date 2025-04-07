@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022004E VRDS VM1 Mydriatic Agent Concentration.
 type: docs
 weight: 25630
-url: /aspose.medical.dicom.tags/tag/mydriaticagentconcentration/
+url: /net/aspose.medical.dicom.tags/tag/mydriaticagentconcentration/
 ---
 
 ## Tag.MydriaticAgentConcentration field

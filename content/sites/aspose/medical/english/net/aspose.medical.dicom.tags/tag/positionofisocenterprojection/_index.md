@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189430 VRFL VM2 Position of Isocenter Projection.
 type: docs
 weight: 32150
-url: /aspose.medical.dicom.tags/tag/positionofisocenterprojection/
+url: /net/aspose.medical.dicom.tags/tag/positionofisocenterprojection/
 ---
 
 ## Tag.PositionOfIsocenterProjection field

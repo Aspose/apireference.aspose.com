@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 110
-url: /aspose.medical.dicom.elements/fragmentsequence/getvalues/
+url: /net/aspose.medical.dicom.elements/fragmentsequence/getvalues/
 ---
 
 ## GetValues&lt;T&gt;() {#getvalues}

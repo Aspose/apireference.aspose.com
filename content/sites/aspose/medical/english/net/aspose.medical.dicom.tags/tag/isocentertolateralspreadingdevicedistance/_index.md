@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0374 VRFL VM1 Isocenter to Lateral Spreading Device Distance.
 type: docs
 weight: 21670
-url: /aspose.medical.dicom.tags/tag/isocentertolateralspreadingdevicedistance/
+url: /net/aspose.medical.dicom.tags/tag/isocentertolateralspreadingdevicedistance/
 ---
 
 ## Tag.IsocenterToLateralSpreadingDeviceDistance field

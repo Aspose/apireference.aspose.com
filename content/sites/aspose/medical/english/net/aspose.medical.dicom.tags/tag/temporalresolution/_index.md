@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200110 VRDS VM1 Temporal Resolution.
 type: docs
 weight: 47660
-url: /aspose.medical.dicom.tags/tag/temporalresolution/
+url: /net/aspose.medical.dicom.tags/tag/temporalresolution/
 ---
 
 ## Tag.TemporalResolution field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Returns the elements value at the specified position or a default value if the index is out of range.
 type: docs
 weight: 60
-url: /aspose.medical.dicom.elements/ielement/getordefault/
+url: /net/aspose.medical.dicom.elements/ielement/getordefault/
 ---
 
 ## GetOrDefault&lt;T&gt;(int) {#getordefault}

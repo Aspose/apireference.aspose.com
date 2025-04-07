@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Unsigned Very Long UV.
 type: docs
 weight: 350
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/unsignedverylong/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/unsignedverylong/
 ---
 
 ## ValueRepresentation.UnsignedVeryLong field

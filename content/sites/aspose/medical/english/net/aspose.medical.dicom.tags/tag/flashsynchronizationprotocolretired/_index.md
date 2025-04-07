@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146036 VRST VM1 Flash Synchronization Protocol RETIRED.
 type: docs
 weight: 15910
-url: /aspose.medical.dicom.tags/tag/flashsynchronizationprotocolretired/
+url: /net/aspose.medical.dicom.tags/tag/flashsynchronizationprotocolretired/
 ---
 
 ## Tag.FlashSynchronizationProtocolRETIRED field

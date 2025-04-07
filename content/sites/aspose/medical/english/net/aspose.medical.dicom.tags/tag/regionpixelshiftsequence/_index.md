@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289502 VRSQ VM1 Region Pixel Shift Sequence.
 type: docs
 weight: 38090
-url: /aspose.medical.dicom.tags/tag/regionpixelshiftsequence/
+url: /net/aspose.medical.dicom.tags/tag/regionpixelshiftsequence/
 ---
 
 ## Tag.RegionPixelShiftSequence field

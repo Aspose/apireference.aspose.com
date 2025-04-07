@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287029 VRCS VM1 Test Result.
 type: docs
 weight: 47780
-url: /aspose.medical.dicom.tags/tag/testresult/
+url: /net/aspose.medical.dicom.tags/tag/testresult/
 ---
 
 ## Tag.TestResult field

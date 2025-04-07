@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460063 VRFD VM1 Intermediate Pupillary Distance.
 type: docs
 weight: 20870
-url: /aspose.medical.dicom.tags/tag/intermediatepupillarydistance/
+url: /net/aspose.medical.dicom.tags/tag/intermediatepupillarydistance/
 ---
 
 ## Tag.IntermediatePupillaryDistance field

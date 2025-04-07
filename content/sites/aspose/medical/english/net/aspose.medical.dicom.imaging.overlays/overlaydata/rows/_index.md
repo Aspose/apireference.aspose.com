@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The number of rows in overlay. Read/Write Int32.
 type: docs
 weight: 100
-url: /aspose.medical.dicom.imaging.overlays/overlaydata/rows/
+url: /net/aspose.medical.dicom.imaging.overlays/overlaydata/rows/
 ---
 
 ## OverlayData.Rows property

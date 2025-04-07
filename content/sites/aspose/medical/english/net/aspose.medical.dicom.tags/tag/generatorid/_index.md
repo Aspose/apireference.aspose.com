@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181005 VRLO VM1 Generator ID.
 type: docs
 weight: 17260
-url: /aspose.medical.dicom.tags/tag/generatorid/
+url: /net/aspose.medical.dicom.tags/tag/generatorid/
 ---
 
 ## Tag.GeneratorID field

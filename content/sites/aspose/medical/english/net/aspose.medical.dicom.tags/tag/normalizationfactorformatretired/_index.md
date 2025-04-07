@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280710 VRUS VM1 Normalization Factor Format RETIRED.
 type: docs
 weight: 25960
-url: /aspose.medical.dicom.tags/tag/normalizationfactorformatretired/
+url: /net/aspose.medical.dicom.tags/tag/normalizationfactorformatretired/
 ---
 
 ## Tag.NormalizationFactorFormatRETIRED field

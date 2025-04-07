@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A01B2 VRST VM1 Setup Technique Description.
 type: docs
 weight: 43060
-url: /aspose.medical.dicom.tags/tag/setuptechniquedescription/
+url: /net/aspose.medical.dicom.tags/tag/setuptechniquedescription/
 ---
 
 ## Tag.SetupTechniqueDescription field

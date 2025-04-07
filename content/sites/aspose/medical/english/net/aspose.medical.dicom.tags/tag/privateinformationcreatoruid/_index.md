@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020100 VRUI VM1 Private Information Creator UID.
 type: docs
 weight: 33180
-url: /aspose.medical.dicom.tags/tag/privateinformationcreatoruid/
+url: /net/aspose.medical.dicom.tags/tag/privateinformationcreatoruid/
 ---
 
 ## Tag.PrivateInformationCreatorUID field

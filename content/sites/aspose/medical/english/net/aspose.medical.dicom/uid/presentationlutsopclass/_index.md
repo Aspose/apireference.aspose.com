@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Presentation LUT SOP Class.
 type: docs
 weight: 3060
-url: /aspose.medical.dicom/uid/presentationlutsopclass/
+url: /net/aspose.medical.dicom/uid/presentationlutsopclass/
 ---
 
 ## Uid.PresentationLUTSOPClass field

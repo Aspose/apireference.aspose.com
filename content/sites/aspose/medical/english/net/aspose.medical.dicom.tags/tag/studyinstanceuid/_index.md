@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0020000D VRUI VM1 Study Instance UID.
 type: docs
 weight: 46040
-url: /aspose.medical.dicom.tags/tag/studyinstanceuid/
+url: /net/aspose.medical.dicom.tags/tag/studyinstanceuid/
 ---
 
 ## Tag.StudyInstanceUID field

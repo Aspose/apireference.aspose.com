@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A079A VRLO VM1 Displacement Reference Label.
 type: docs
 weight: 12000
-url: /aspose.medical.dicom.tags/tag/displacementreferencelabel/
+url: /net/aspose.medical.dicom.tags/tag/displacementreferencelabel/
 ---
 
 ## Tag.DisplacementReferenceLabel field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460077 VRFD VM1 Keratometric Axis.
 type: docs
 weight: 22080
-url: /aspose.medical.dicom.tags/tag/keratometricaxis/
+url: /net/aspose.medical.dicom.tags/tag/keratometricaxis/
 ---
 
 ## Tag.KeratometricAxis field

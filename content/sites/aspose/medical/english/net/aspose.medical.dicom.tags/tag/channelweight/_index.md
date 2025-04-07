@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040B042 VRFL VM1 Channel Weight.
 type: docs
 weight: 5780
-url: /aspose.medical.dicom.tags/tag/channelweight/
+url: /net/aspose.medical.dicom.tags/tag/channelweight/
 ---
 
 ## Tag.ChannelWeight field

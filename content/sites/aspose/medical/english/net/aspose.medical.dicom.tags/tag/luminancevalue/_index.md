@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028701F VRFL VM1 Luminance Value.
 type: docs
 weight: 23180
-url: /aspose.medical.dicom.tags/tag/luminancevalue/
+url: /net/aspose.medical.dicom.tags/tag/luminancevalue/
 ---
 
 ## Tag.LuminanceValue field

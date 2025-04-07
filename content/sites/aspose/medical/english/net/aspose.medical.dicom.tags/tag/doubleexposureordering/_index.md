@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741036 VRCS VM1 Double Exposure Ordering.
 type: docs
 weight: 12970
-url: /aspose.medical.dicom.tags/tag/doubleexposureordering/
+url: /net/aspose.medical.dicom.tags/tag/doubleexposureordering/
 ---
 
 ## Tag.DoubleExposureOrdering field

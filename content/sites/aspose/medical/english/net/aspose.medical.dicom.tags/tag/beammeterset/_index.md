@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0086 VRDS VM1 Beam Meterset.
 type: docs
 weight: 3540
-url: /aspose.medical.dicom.tags/tag/beammeterset/
+url: /net/aspose.medical.dicom.tags/tag/beammeterset/
 ---
 
 ## Tag.BeamMeterset field

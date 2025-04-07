@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281403 VRUS VM1 Bits Mapped to Color Lookup Table.
 type: docs
 weight: 3780
-url: /aspose.medical.dicom.tags/tag/bitsmappedtocolorlookuptable/
+url: /net/aspose.medical.dicom.tags/tag/bitsmappedtocolorlookuptable/
 ---
 
 ## Tag.BitsMappedToColorLookupTable field

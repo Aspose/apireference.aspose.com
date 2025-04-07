@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax Deflated Image Frame Compression.
 type: docs
 weight: 590
-url: /aspose.medical.dicom/uid/deflatedimageframecompression/
+url: /net/aspose.medical.dicom/uid/deflatedimageframecompression/
 ---
 
 ## Uid.DeflatedImageFrameCompression field

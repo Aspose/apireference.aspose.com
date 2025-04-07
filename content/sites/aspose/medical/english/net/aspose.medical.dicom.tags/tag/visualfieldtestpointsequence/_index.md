@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240089 VRSQ VM1 Visual Field Test Point Sequence.
 type: docs
 weight: 51480
-url: /aspose.medical.dicom.tags/tag/visualfieldtestpointsequence/
+url: /net/aspose.medical.dicom.tags/tag/visualfieldtestpointsequence/
 ---
 
 ## Tag.VisualFieldTestPointSequence field

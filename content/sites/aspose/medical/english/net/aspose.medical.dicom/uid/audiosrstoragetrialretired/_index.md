@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Audio SR Storage - Trial Retired.
 type: docs
 weight: 80
-url: /aspose.medical.dicom/uid/audiosrstoragetrialretired/
+url: /net/aspose.medical.dicom/uid/audiosrstoragetrialretired/
 ---
 
 ## Uid.AudioSRStorageTrialRetired field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 90
-url: /aspose.medical.dicom/dataset/getenumerator/
+url: /net/aspose.medical.dicom/dataset/getenumerator/
 ---
 
 ## Dataset.GetEnumerator method

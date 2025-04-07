@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404074 VRSQ VM1 XDS Storage Sequence.
 type: docs
 weight: 52650
-url: /aspose.medical.dicom.tags/tag/xdsstoragesequence/
+url: /net/aspose.medical.dicom.tags/tag/xdsstoragesequence/
 ---
 
 ## Tag.XDSStorageSequence field

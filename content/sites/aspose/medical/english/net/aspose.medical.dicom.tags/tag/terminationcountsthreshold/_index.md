@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189719 VRFD VM1 Termination Counts Threshold.
 type: docs
 weight: 47690
-url: /aspose.medical.dicom.tags/tag/terminationcountsthreshold/
+url: /net/aspose.medical.dicom.tags/tag/terminationcountsthreshold/
 ---
 
 ## Tag.TerminationCountsThreshold field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160004 VRDS VM1 Exposure Time in Seconds.
 type: docs
 weight: 14670
-url: /aspose.medical.dicom.tags/tag/exposuretimeinseconds/
+url: /net/aspose.medical.dicom.tags/tag/exposuretimeinseconds/
 ---
 
 ## Tag.ExposureTimeInSeconds field

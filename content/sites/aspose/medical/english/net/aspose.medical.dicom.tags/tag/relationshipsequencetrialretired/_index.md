@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A731 VRSQ VM1 Relationship Sequence Trial RETIRED.
 type: docs
 weight: 38270
-url: /aspose.medical.dicom.tags/tag/relationshipsequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/relationshipsequencetrialretired/
 ---
 
 ## Tag.RelationshipSequenceTrialRETIRED field

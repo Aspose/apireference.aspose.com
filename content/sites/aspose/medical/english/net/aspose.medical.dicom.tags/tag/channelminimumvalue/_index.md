@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 54000110 VROB or OW VM1 Channel Minimum Value.
 type: docs
 weight: 5530
-url: /aspose.medical.dicom.tags/tag/channelminimumvalue/
+url: /net/aspose.medical.dicom.tags/tag/channelminimumvalue/
 ---
 
 ## Tag.ChannelMinimumValue field

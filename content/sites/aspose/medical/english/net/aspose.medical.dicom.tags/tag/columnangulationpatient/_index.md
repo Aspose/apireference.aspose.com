@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189447 VRFL VM1 Column Angulation Patient.
 type: docs
 weight: 6450
-url: /aspose.medical.dicom.tags/tag/columnangulationpatient/
+url: /net/aspose.medical.dicom.tags/tag/columnangulationpatient/
 ---
 
 ## Tag.ColumnAngulationPatient field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200026 VRIS VM1 LUT Number RETIRED.
 type: docs
 weight: 23250
-url: /aspose.medical.dicom.tags/tag/lutnumberretired/
+url: /net/aspose.medical.dicom.tags/tag/lutnumberretired/
 ---
 
 ## Tag.LUTNumberRETIRED field

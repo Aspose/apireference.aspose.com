@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221125 VRSQ VM1 Anterior Chamber Depth Definition Code Sequence.
 type: docs
 weight: 1960
-url: /aspose.medical.dicom.tags/tag/anteriorchamberdepthdefinitioncodesequence/
+url: /net/aspose.medical.dicom.tags/tag/anteriorchamberdepthdefinitioncodesequence/
 ---
 
 ## Tag.AnteriorChamberDepthDefinitionCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160031 VRDS VM1 Humidity.
 type: docs
 weight: 18700
-url: /aspose.medical.dicom.tags/tag/humidity/
+url: /net/aspose.medical.dicom.tags/tag/humidity/
 ---
 
 ## Tag.Humidity field

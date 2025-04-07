@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460114 VRFD VM1 Corneal Power.
 type: docs
 weight: 8820
-url: /aspose.medical.dicom.tags/tag/cornealpower/
+url: /net/aspose.medical.dicom.tags/tag/cornealpower/
 ---
 
 ## Tag.CornealPower field

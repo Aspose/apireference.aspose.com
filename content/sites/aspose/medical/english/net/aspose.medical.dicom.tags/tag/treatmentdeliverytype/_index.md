@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00CE VRCS VM1 Treatment Delivery Type.
 type: docs
 weight: 49630
-url: /aspose.medical.dicom.tags/tag/treatmentdeliverytype/
+url: /net/aspose.medical.dicom.tags/tag/treatmentdeliverytype/
 ---
 
 ## Tag.TreatmentDeliveryType field

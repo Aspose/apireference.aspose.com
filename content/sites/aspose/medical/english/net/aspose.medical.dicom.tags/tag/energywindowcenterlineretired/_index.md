@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180032 VRDS VM1 Energy Window Centerline RETIRED.
 type: docs
 weight: 13640
-url: /aspose.medical.dicom.tags/tag/energywindowcenterlineretired/
+url: /net/aspose.medical.dicom.tags/tag/energywindowcenterlineretired/
 ---
 
 ## Tag.EnergyWindowCenterlineRETIRED field

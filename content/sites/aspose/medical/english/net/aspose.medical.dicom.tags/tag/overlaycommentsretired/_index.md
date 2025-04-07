@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx4000 VRLT VM1 Overlay Comments RETIRED.
 type: docs
 weight: 28900
-url: /aspose.medical.dicom.tags/tag/overlaycommentsretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaycommentsretired/
 ---
 
 ## Tag.OverlayCommentsRETIRED field

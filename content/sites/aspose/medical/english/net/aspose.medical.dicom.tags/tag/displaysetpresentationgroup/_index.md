@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720204 VRUS VM1 Display Set Presentation Group.
 type: docs
 weight: 12190
-url: /aspose.medical.dicom.tags/tag/displaysetpresentationgroup/
+url: /net/aspose.medical.dicom.tags/tag/displaysetpresentationgroup/
 ---
 
 ## Tag.DisplaySetPresentationGroup field

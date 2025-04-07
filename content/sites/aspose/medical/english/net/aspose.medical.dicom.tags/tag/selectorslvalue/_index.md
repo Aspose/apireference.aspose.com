@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072007C VRSL VM1-n Selector SL Value.
 type: docs
 weight: 42570
-url: /aspose.medical.dicom.tags/tag/selectorslvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorslvalue/
 ---
 
 ## Tag.SelectorSLValue field

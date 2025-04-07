@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189557 VRFD VM3 Detector Active Area TLHC Position.
 type: docs
 weight: 10890
-url: /aspose.medical.dicom.tags/tag/detectoractiveareatlhcposition/
+url: /net/aspose.medical.dicom.tags/tag/detectoractiveareatlhcposition/
 ---
 
 ## Tag.DetectorActiveAreaTLHCPosition field

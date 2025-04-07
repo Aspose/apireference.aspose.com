@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189025 VRCS VM1 Spectrally Selected Suppression.
 type: docs
 weight: 45110
-url: /aspose.medical.dicom.tags/tag/spectrallyselectedsuppression/
+url: /net/aspose.medical.dicom.tags/tag/spectrallyselectedsuppression/
 ---
 
 ## Tag.SpectrallySelectedSuppression field

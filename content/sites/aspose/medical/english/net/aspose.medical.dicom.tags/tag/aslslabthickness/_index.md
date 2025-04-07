@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189254 VRFD VM1 ASL Slab Thickness.
 type: docs
 weight: 2480
-url: /aspose.medical.dicom.tags/tag/aslslabthickness/
+url: /net/aspose.medical.dicom.tags/tag/aslslabthickness/
 ---
 
 ## Tag.ASLSlabThickness field

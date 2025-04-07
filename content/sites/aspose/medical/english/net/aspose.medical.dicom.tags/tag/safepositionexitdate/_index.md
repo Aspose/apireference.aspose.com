@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080162 VRDA VM1 Safe Position Exit Date.
 type: docs
 weight: 40860
-url: /aspose.medical.dicom.tags/tag/safepositionexitdate/
+url: /net/aspose.medical.dicom.tags/tag/safepositionexitdate/
 ---
 
 ## Tag.SafePositionExitDate field

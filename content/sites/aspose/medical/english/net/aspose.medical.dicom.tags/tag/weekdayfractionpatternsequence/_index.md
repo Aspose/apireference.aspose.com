@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100087 VRSQ VM1 Weekday Fraction Pattern Sequence.
 type: docs
 weight: 52420
-url: /aspose.medical.dicom.tags/tag/weekdayfractionpatternsequence/
+url: /net/aspose.medical.dicom.tags/tag/weekdayfractionpatternsequence/
 ---
 
 ## Tag.WeekdayFractionPatternSequence field

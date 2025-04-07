@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0451 VRCS VM1 Device Motion Execution Mode.
 type: docs
 weight: 11380
-url: /aspose.medical.dicom.tags/tag/devicemotionexecutionmode/
+url: /net/aspose.medical.dicom.tags/tag/devicemotionexecutionmode/
 ---
 
 ## Tag.DeviceMotionExecutionMode field

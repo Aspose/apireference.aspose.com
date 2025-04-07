@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006A000F VRCS VM1 Annotation Applies to All Z Planes.
 type: docs
 weight: 1730
-url: /aspose.medical.dicom.tags/tag/annotationappliestoallzplanes/
+url: /net/aspose.medical.dicom.tags/tag/annotationappliestoallzplanes/
 ---
 
 ## Tag.AnnotationAppliesToAllZPlanes field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181470 VRDS VM1 Tomo Angle.
 type: docs
 weight: 48690
-url: /aspose.medical.dicom.tags/tag/tomoangle/
+url: /net/aspose.medical.dicom.tags/tag/tomoangle/
 ---
 
 ## Tag.TomoAngle field

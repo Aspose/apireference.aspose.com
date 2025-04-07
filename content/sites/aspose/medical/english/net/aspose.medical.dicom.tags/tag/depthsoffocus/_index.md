@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189801 VRFD VM1-n Depths of Focus.
 type: docs
 weight: 10750
-url: /aspose.medical.dicom.tags/tag/depthsoffocus/
+url: /net/aspose.medical.dicom.tags/tag/depthsoffocus/
 ---
 
 ## Tag.DepthsOfFocus field

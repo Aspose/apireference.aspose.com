@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189732 VRSQ VM1 PET Frame Acquisition Sequence.
 type: docs
 weight: 31010
-url: /aspose.medical.dicom.tags/tag/petframeacquisitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/petframeacquisitionsequence/
 ---
 
 ## Tag.PETFrameAcquisitionSequence field

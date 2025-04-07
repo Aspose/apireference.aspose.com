@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146059 VRSQ VM1 Polynomial Fitting Sequence RETIRED.
 type: docs
 weight: 31950
-url: /aspose.medical.dicom.tags/tag/polynomialfittingsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/polynomialfittingsequenceretired/
 ---
 
 ## Tag.PolynomialFittingSequenceRETIRED field

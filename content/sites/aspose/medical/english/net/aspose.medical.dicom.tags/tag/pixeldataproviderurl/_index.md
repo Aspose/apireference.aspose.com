@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287FE0 VRUR VM1 Pixel Data Provider URL.
 type: docs
 weight: 31430
-url: /aspose.medical.dicom.tags/tag/pixeldataproviderurl/
+url: /net/aspose.medical.dicom.tags/tag/pixeldataproviderurl/
 ---
 
 ## Tag.PixelDataProviderURL field

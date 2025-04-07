@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181084 VRIS VM1 Intervals Rejected.
 type: docs
 weight: 21120
-url: /aspose.medical.dicom.tags/tag/intervalsrejected/
+url: /net/aspose.medical.dicom.tags/tag/intervalsrejected/
 ---
 
 ## Tag.IntervalsRejected field

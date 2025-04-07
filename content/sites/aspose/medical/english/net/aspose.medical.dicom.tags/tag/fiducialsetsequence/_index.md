@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0070031C VRSQ VM1 Fiducial Set Sequence.
 type: docs
 weight: 14930
-url: /aspose.medical.dicom.tags/tag/fiducialsetsequence/
+url: /net/aspose.medical.dicom.tags/tag/fiducialsetsequence/
 ---
 
 ## Tag.FiducialSetSequence field

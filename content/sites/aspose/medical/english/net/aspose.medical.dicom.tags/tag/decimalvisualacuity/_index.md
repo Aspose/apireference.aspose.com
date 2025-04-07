@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460137 VRFD VM1 Decimal Visual Acuity.
 type: docs
 weight: 10250
-url: /aspose.medical.dicom.tags/tag/decimalvisualacuity/
+url: /net/aspose.medical.dicom.tags/tag/decimalvisualacuity/
 ---
 
 ## Tag.DecimalVisualAcuity field

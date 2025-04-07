@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101014 VRCS VM1 ATD Ability Assessment RETIRED.
 type: docs
 weight: 2690
-url: /aspose.medical.dicom.tags/tag/atdabilityassessmentretired/
+url: /net/aspose.medical.dicom.tags/tag/atdabilityassessmentretired/
 ---
 
 ## Tag.ATDAbilityAssessmentRETIRED field

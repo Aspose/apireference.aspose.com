@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741038 VRDS VM1 Double Exposure Meterset Trial RETIRED.
 type: docs
 weight: 12960
-url: /aspose.medical.dicom.tags/tag/doubleexposuremetersettrialretired/
+url: /net/aspose.medical.dicom.tags/tag/doubleexposuremetersettrialretired/
 ---
 
 ## Tag.DoubleExposureMetersetTrialRETIRED field

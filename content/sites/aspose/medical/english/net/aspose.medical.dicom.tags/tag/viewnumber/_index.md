@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082128 VRIS VM1 View Number.
 type: docs
 weight: 51210
-url: /aspose.medical.dicom.tags/tag/viewnumber/
+url: /net/aspose.medical.dicom.tags/tag/viewnumber/
 ---
 
 ## Tag.ViewNumber field

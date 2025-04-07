@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00005010 VRSH VM1 Message Set ID RETIRED.
 type: docs
 weight: 24430
-url: /aspose.medical.dicom.tags/tag/messagesetidretired/
+url: /net/aspose.medical.dicom.tags/tag/messagesetidretired/
 ---
 
 ## Tag.MessageSetIDRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181634 VRFD VM1 Outline Lower Horizontal Edge.
 type: docs
 weight: 28730
-url: /aspose.medical.dicom.tags/tag/outlinelowerhorizontaledge/
+url: /net/aspose.medical.dicom.tags/tag/outlinelowerhorizontaledge/
 ---
 
 ## Tag.OutlineLowerHorizontalEdge field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00205000 VRAT VM1-n Original Image Identification RETIRED.
 type: docs
 weight: 28520
-url: /aspose.medical.dicom.tags/tag/originalimageidentificationretired/
+url: /net/aspose.medical.dicom.tags/tag/originalimageidentificationretired/
 ---
 
 ## Tag.OriginalImageIdentificationRETIRED field

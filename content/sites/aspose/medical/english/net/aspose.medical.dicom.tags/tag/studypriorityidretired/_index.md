@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0032000C VRCS VM1 Study Priority ID RETIRED.
 type: docs
 weight: 46050
-url: /aspose.medical.dicom.tags/tag/studypriorityidretired/
+url: /net/aspose.medical.dicom.tags/tag/studypriorityidretired/
 ---
 
 ## Tag.StudyPriorityIDRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189412 VRSQ VM1 XA/XRF Frame Characteristics Sequence.
 type: docs
 weight: 52620
-url: /aspose.medical.dicom.tags/tag/xaxrfframecharacteristicssequence/
+url: /net/aspose.medical.dicom.tags/tag/xaxrfframecharacteristicssequence/
 ---
 
 ## Tag.XAXRFFrameCharacteristicsSequence field

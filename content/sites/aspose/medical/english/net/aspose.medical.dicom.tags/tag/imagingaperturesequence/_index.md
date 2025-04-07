@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020114 VRSQ VM1 Imaging Aperture Sequence.
 type: docs
 weight: 19640
-url: /aspose.medical.dicom.tags/tag/imagingaperturesequence/
+url: /net/aspose.medical.dicom.tags/tag/imagingaperturesequence/
 ---
 
 ## Tag.ImagingApertureSequence field

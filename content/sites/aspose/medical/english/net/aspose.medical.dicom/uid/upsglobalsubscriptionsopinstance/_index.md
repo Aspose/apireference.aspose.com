@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Well-known SOP Instance UPS Global Subscription SOP Instance.
 type: docs
 weight: 4900
-url: /aspose.medical.dicom/uid/upsglobalsubscriptionsopinstance/
+url: /net/aspose.medical.dicom/uid/upsglobalsubscriptionsopinstance/
 ---
 
 ## Uid.UPSGlobalSubscriptionSOPInstance field

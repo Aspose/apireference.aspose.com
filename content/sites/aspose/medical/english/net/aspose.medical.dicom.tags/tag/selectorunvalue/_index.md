@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072006D VRUN VM1 Selector UN Value.
 type: docs
 weight: 42650
-url: /aspose.medical.dicom.tags/tag/selectorunvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorunvalue/
 ---
 
 ## Tag.SelectorUNValue field

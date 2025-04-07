@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0623 VRLO VM1 Radiation Dose In-Vivo Measurement Label.
 type: docs
 weight: 34240
-url: /aspose.medical.dicom.tags/tag/radiationdoseinvivomeasurementlabel/
+url: /net/aspose.medical.dicom.tags/tag/radiationdoseinvivomeasurementlabel/
 ---
 
 ## Tag.RadiationDoseInVivoMeasurementLabel field

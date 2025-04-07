@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A065A VRSQ VM1 Radiation Device Configuration and Commissioning Key Sequence.
 type: docs
 weight: 34190
-url: /aspose.medical.dicom.tags/tag/radiationdeviceconfigurationandcommissioningkeysequence/
+url: /net/aspose.medical.dicom.tags/tag/radiationdeviceconfigurationandcommissioningkeysequence/
 ---
 
 ## Tag.RadiationDeviceConfigurationAndCommissioningKeySequence field

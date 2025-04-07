@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00203401 VRCS VM1 Modifying Device ID RETIRED.
 type: docs
 weight: 24810
-url: /aspose.medical.dicom.tags/tag/modifyingdeviceidretired/
+url: /net/aspose.medical.dicom.tags/tag/modifyingdeviceidretired/
 ---
 
 ## Tag.ModifyingDeviceIDRETIRED field

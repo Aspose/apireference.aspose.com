@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189701 VRDT VM1 Decay Correction DateTime.
 type: docs
 weight: 10220
-url: /aspose.medical.dicom.tags/tag/decaycorrectiondatetime/
+url: /net/aspose.medical.dicom.tags/tag/decaycorrectiondatetime/
 ---
 
 ## Tag.DecayCorrectionDateTime field

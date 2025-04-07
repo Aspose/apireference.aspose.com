@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404003 VRCS VM1 General Purpose Scheduled Procedure Step Priority RETIRED.
 type: docs
 weight: 17240
-url: /aspose.medical.dicom.tags/tag/generalpurposescheduledproceduresteppriorityretired/
+url: /net/aspose.medical.dicom.tags/tag/generalpurposescheduledproceduresteppriorityretired/
 ---
 
 ## Tag.GeneralPurposeScheduledProcedureStepPriorityRETIRED field

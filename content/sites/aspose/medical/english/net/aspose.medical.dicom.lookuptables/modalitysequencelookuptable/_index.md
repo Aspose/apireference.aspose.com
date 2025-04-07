@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Represents Modality LUT Sequence when Modality LUT Module has Modality LUT Sequence specified. The output range is from 0 to 2n-1 where n is the third value of LUT Descriptor. This range is always unsigned. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.11.html
 type: docs
 weight: 800
-url: /aspose.medical.dicom.lookuptables/modalitysequencelookuptable/
+url: /net/aspose.medical.dicom.lookuptables/modalitysequencelookuptable/
 ---
 
 ## ModalitySequenceLookUpTable class

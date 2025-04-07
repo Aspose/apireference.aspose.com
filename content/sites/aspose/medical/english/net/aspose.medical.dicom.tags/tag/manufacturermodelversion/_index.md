@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010001A VRLO VM1 Manufacturers Model Version.
 type: docs
 weight: 23480
-url: /aspose.medical.dicom.tags/tag/manufacturermodelversion/
+url: /net/aspose.medical.dicom.tags/tag/manufacturermodelversion/
 ---
 
 ## Tag.ManufacturerModelVersion field

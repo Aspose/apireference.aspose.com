@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02B0 VRSQ VM1 Channel Shield Sequence.
 type: docs
 weight: 5710
-url: /aspose.medical.dicom.tags/tag/channelshieldsequence/
+url: /net/aspose.medical.dicom.tags/tag/channelshieldsequence/
 ---
 
 ## Tag.ChannelShieldSequence field

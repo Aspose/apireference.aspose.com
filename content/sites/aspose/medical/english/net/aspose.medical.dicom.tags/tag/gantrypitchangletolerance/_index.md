@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A014E VRFL VM1 Gantry Pitch Angle Tolerance.
 type: docs
 weight: 17010
-url: /aspose.medical.dicom.tags/tag/gantrypitchangletolerance/
+url: /net/aspose.medical.dicom.tags/tag/gantrypitchangletolerance/
 ---
 
 ## Tag.GantryPitchAngleTolerance field

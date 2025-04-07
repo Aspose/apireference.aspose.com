@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080103 VRLO VM1 Reference to Recorded Sound RETIRED.
 type: docs
 weight: 37830
-url: /aspose.medical.dicom.tags/tag/referencetorecordedsoundretired/
+url: /net/aspose.medical.dicom.tags/tag/referencetorecordedsoundretired/
 ---
 
 ## Tag.ReferenceToRecordedSoundRETIRED field

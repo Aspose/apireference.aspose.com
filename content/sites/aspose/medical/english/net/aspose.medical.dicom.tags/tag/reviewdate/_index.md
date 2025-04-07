@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300E0004 VRDA VM1 Review Date.
 type: docs
 weight: 39230
-url: /aspose.medical.dicom.tags/tag/reviewdate/
+url: /net/aspose.medical.dicom.tags/tag/reviewdate/
 ---
 
 ## Tag.ReviewDate field

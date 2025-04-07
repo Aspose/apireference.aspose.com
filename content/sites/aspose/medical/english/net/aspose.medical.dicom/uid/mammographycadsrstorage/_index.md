@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Mammography CAD SR Storage.
 type: docs
 weight: 2540
-url: /aspose.medical.dicom/uid/mammographycadsrstorage/
+url: /net/aspose.medical.dicom/uid/mammographycadsrstorage/
 ---
 
 ## Uid.MammographyCADSRStorage field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080005 VRCS VM1-n Specific Character Set.
 type: docs
 weight: 44850
-url: /aspose.medical.dicom.tags/tag/specificcharacterset/
+url: /net/aspose.medical.dicom.tags/tag/specificcharacterset/
 ---
 
 ## Tag.SpecificCharacterSet field

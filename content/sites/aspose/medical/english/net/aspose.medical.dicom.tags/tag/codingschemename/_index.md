@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080115 VRST VM1 Coding Scheme Name.
 type: docs
 weight: 6140
-url: /aspose.medical.dicom.tags/tag/codingschemename/
+url: /net/aspose.medical.dicom.tags/tag/codingschemename/
 ---
 
 ## Tag.CodingSchemeName field

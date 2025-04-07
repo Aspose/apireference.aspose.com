@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181156 VRCS VM1 Rectification Type.
 type: docs
 weight: 35900
-url: /aspose.medical.dicom.tags/tag/rectificationtype/
+url: /net/aspose.medical.dicom.tags/tag/rectificationtype/
 ---
 
 ## Tag.RectificationType field

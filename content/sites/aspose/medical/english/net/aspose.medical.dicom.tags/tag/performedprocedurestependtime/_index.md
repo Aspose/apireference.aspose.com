@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400251 VRTM VM1 Performed Procedure Step End Time.
 type: docs
 weight: 30660
-url: /aspose.medical.dicom.tags/tag/performedprocedurestependtime/
+url: /net/aspose.medical.dicom.tags/tag/performedprocedurestependtime/
 ---
 
 ## Tag.PerformedProcedureStepEndTime field

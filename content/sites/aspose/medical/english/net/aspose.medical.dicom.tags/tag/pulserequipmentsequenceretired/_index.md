@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144002 VRSQ VM1 Pulser Equipment Sequence RETIRED.
 type: docs
 weight: 33800
-url: /aspose.medical.dicom.tags/tag/pulserequipmentsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/pulserequipmentsequenceretired/
 ---
 
 ## Tag.PulserEquipmentSequenceRETIRED field

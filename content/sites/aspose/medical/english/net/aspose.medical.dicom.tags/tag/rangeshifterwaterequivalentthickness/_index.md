@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0366 VRFL VM1 Range Shifter Water Equivalent Thickness.
 type: docs
 weight: 34980
-url: /aspose.medical.dicom.tags/tag/rangeshifterwaterequivalentthickness/
+url: /net/aspose.medical.dicom.tags/tag/rangeshifterwaterequivalentthickness/
 ---
 
 ## Tag.RangeShifterWaterEquivalentThickness field

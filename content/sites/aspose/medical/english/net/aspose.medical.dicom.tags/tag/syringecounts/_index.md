@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181045 VRIS VM1 Syringe Counts.
 type: docs
 weight: 46670
-url: /aspose.medical.dicom.tags/tag/syringecounts/
+url: /net/aspose.medical.dicom.tags/tag/syringecounts/
 ---
 
 ## Tag.SyringeCounts field

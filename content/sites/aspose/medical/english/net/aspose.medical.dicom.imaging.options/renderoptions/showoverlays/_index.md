@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Specifies whether overlays have to be rendered or not. Default is . Read-only Boolean.
 type: docs
 weight: 40
-url: /aspose.medical.dicom.imaging.options/renderoptions/showoverlays/
+url: /net/aspose.medical.dicom.imaging.options/renderoptions/showoverlays/
 ---
 
 ## RenderOptions.ShowOverlays property

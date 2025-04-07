@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181130 VRDS VM1 Table Height.
 type: docs
 weight: 46780
-url: /aspose.medical.dicom.tags/tag/tableheight/
+url: /net/aspose.medical.dicom.tags/tag/tableheight/
 ---
 
 ## Tag.TableHeight field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Determines whether two specified tags have the same value.
 type: docs
 weight: 53130
-url: /aspose.medical.dicom.tags/tag/op_equality/
+url: /net/aspose.medical.dicom.tags/tag/op_equality/
 ---
 
 ## Tag Equality operator

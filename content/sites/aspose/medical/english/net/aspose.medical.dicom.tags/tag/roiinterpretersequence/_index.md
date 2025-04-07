@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3006004E VRSQ VM1 ROI Interpreter Sequence.
 type: docs
 weight: 39490
-url: /aspose.medical.dicom.tags/tag/roiinterpretersequence/
+url: /net/aspose.medical.dicom.tags/tag/roiinterpretersequence/
 ---
 
 ## Tag.ROIInterpreterSequence field

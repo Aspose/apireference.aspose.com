@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006865D0 VRFD VM6 3D Line Coordinates.
 type: docs
 weight: 48150
-url: /aspose.medical.dicom.tags/tag/threedlinecoordinates/
+url: /net/aspose.medical.dicom.tags/tag/threedlinecoordinates/
 ---
 
 ## Tag.ThreeDLineCoordinates field

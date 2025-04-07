@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143072 VRDS VM1 MA Used in Gain Calibration RETIRED.
 type: docs
 weight: 23850
-url: /aspose.medical.dicom.tags/tag/mausedingaincalibrationretired/
+url: /net/aspose.medical.dicom.tags/tag/mausedingaincalibrationretired/
 ---
 
 ## Tag.MAUsedInGainCalibrationRETIRED field

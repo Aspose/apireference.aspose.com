@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189090 VRFD VM3 Velocity Encoding Direction.
 type: docs
 weight: 50830
-url: /aspose.medical.dicom.tags/tag/velocityencodingdirection/
+url: /net/aspose.medical.dicom.tags/tag/velocityencodingdirection/
 ---
 
 ## Tag.VelocityEncodingDirection field

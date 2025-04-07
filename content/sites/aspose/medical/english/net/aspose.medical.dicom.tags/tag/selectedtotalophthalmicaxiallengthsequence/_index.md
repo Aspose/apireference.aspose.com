@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221260 VRSQ VM1 Selected Total Ophthalmic Axial Length Sequence.
 type: docs
 weight: 42270
-url: /aspose.medical.dicom.tags/tag/selectedtotalophthalmicaxiallengthsequence/
+url: /net/aspose.medical.dicom.tags/tag/selectedtotalophthalmicaxiallengthsequence/
 ---
 
 ## Tag.SelectedTotalOphthalmicAxialLengthSequence field

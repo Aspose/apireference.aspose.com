@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0744 VRSQ VM1 Interlock Code Sequence.
 type: docs
 weight: 20780
-url: /aspose.medical.dicom.tags/tag/interlockcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/interlockcodesequence/
 ---
 
 ## Tag.InterlockCodeSequence field

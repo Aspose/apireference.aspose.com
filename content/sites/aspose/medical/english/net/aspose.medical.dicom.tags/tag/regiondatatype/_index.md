@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186014 VRUS VM1 Region Data Type.
 type: docs
 weight: 38020
-url: /aspose.medical.dicom.tags/tag/regiondatatype/
+url: /net/aspose.medical.dicom.tags/tag/regiondatatype/
 ---
 
 ## Tag.RegionDataType field

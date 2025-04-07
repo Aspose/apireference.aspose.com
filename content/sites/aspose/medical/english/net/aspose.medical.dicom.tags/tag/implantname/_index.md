@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221095 VRLO VM1 Implant Name.
 type: docs
 weight: 19850
-url: /aspose.medical.dicom.tags/tag/implantname/
+url: /net/aspose.medical.dicom.tags/tag/implantname/
 ---
 
 ## Tag.ImplantName field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040050 VRSQ VM1 DVH Sequence.
 type: docs
 weight: 13160
-url: /aspose.medical.dicom.tags/tag/dvhsequence/
+url: /net/aspose.medical.dicom.tags/tag/dvhsequence/
 ---
 
 ## Tag.DVHSequence field

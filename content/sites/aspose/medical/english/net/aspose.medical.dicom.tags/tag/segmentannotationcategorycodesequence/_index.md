@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010002B VRSQ VM1 Segment Annotation Category Code Sequence.
 type: docs
 weight: 41940
-url: /aspose.medical.dicom.tags/tag/segmentannotationcategorycodesequence/
+url: /net/aspose.medical.dicom.tags/tag/segmentannotationcategorycodesequence/
 ---
 
 ## Tag.SegmentAnnotationCategoryCodeSequence field

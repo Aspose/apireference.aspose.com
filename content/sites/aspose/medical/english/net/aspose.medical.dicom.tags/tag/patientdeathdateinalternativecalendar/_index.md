@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100034 VRLO VM1 Patients Death Date in Alternative Calendar.
 type: docs
 weight: 29800
-url: /aspose.medical.dicom.tags/tag/patientdeathdateinalternativecalendar/
+url: /net/aspose.medical.dicom.tags/tag/patientdeathdateinalternativecalendar/
 ---
 
 ## Tag.PatientDeathDateInAlternativeCalendar field

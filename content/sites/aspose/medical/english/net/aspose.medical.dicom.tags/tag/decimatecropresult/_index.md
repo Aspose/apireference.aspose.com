@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 202000A2 VRCS VM1 Decimate/Crop Result.
 type: docs
 weight: 10260
-url: /aspose.medical.dicom.tags/tag/decimatecropresult/
+url: /net/aspose.medical.dicom.tags/tag/decimatecropresult/
 ---
 
 ## Tag.DecimateCropResult field

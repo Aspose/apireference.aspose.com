@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189100 VRCS VM1-2 Resonant Nucleus.
 type: docs
 weight: 38930
-url: /aspose.medical.dicom.tags/tag/resonantnucleus/
+url: /net/aspose.medical.dicom.tags/tag/resonantnucleus/
 ---
 
 ## Tag.ResonantNucleus field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0364 VRFL VM1 Isocenter to Range Shifter Distance.
 type: docs
 weight: 21690
-url: /aspose.medical.dicom.tags/tag/isocentertorangeshifterdistance/
+url: /net/aspose.medical.dicom.tags/tag/isocentertorangeshifterdistance/
 ---
 
 ## Tag.IsocenterToRangeShifterDistance field

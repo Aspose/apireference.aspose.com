@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144026 VRCS VM1 Modulation Type RETIRED.
 type: docs
 weight: 24850
-url: /aspose.medical.dicom.tags/tag/modulationtyperetired/
+url: /net/aspose.medical.dicom.tags/tag/modulationtyperetired/
 ---
 
 ## Tag.ModulationTypeRETIRED field

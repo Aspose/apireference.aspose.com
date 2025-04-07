@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A032D VRSQ VM1 Magnitude Encoding Code Sequence.
 type: docs
 weight: 23360
-url: /aspose.medical.dicom.tags/tag/magnitudeencodingcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/magnitudeencodingcodesequence/
 ---
 
 ## Tag.MagnitudeEncodingCodeSequence field

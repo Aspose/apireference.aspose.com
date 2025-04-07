@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Advanced Blending Presentation State Storage.
 type: docs
 weight: 50
-url: /aspose.medical.dicom/uid/advancedblendingpresentationstatestorage/
+url: /net/aspose.medical.dicom/uid/advancedblendingpresentationstatestorage/
 ---
 
 ## Uid.AdvancedBlendingPresentationStateStorage field

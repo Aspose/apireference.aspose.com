@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189214 VRCS VM1 Respiratory Cycle Position.
 type: docs
 weight: 38950
-url: /aspose.medical.dicom.tags/tag/respiratorycycleposition/
+url: /net/aspose.medical.dicom.tags/tag/respiratorycycleposition/
 ---
 
 ## Tag.RespiratoryCyclePosition field

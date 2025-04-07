@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400307 VRDS VM1 Distance Source to Support RETIRED.
 type: docs
 weight: 12450
-url: /aspose.medical.dicom.tags/tag/distancesourcetosupportretired/
+url: /net/aspose.medical.dicom.tags/tag/distancesourcetosupportretired/
 ---
 
 ## Tag.DistanceSourceToSupportRETIRED field

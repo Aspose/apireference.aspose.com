@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 2200000F VRCS VM1 Allow Lossy Compression.
 type: docs
 weight: 1280
-url: /aspose.medical.dicom.tags/tag/allowlossycompression/
+url: /net/aspose.medical.dicom.tags/tag/allowlossycompression/
 ---
 
 ## Tag.AllowLossyCompression field

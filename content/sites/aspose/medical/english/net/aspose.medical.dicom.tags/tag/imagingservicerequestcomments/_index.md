@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00402400 VRLT VM1 Imaging Service Request Comments.
 type: docs
 weight: 19710
-url: /aspose.medical.dicom.tags/tag/imagingservicerequestcomments/
+url: /net/aspose.medical.dicom.tags/tag/imagingservicerequestcomments/
 ---
 
 ## Tag.ImagingServiceRequestComments field

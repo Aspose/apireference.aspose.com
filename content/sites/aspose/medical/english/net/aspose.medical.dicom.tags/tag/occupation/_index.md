@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102180 VRSH VM1 Occupation.
 type: docs
 weight: 27440
-url: /aspose.medical.dicom.tags/tag/occupation/
+url: /net/aspose.medical.dicom.tags/tag/occupation/
 ---
 
 ## Tag.Occupation field

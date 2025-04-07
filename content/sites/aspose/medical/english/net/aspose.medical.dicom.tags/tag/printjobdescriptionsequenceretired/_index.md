@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21200050 VRSQ VM1 Print Job Description Sequence RETIRED.
 type: docs
 weight: 32940
-url: /aspose.medical.dicom.tags/tag/printjobdescriptionsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/printjobdescriptionsequenceretired/
 ---
 
 ## Tag.PrintJobDescriptionSequenceRETIRED field

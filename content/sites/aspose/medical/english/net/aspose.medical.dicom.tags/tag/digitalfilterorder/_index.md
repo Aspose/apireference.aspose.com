@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0327 VRIS VM1 Digital Filter Order.
 type: docs
 weight: 11750
-url: /aspose.medical.dicom.tags/tag/digitalfilterorder/
+url: /net/aspose.medical.dicom.tags/tag/digitalfilterorder/
 ---
 
 ## Tag.DigitalFilterOrder field

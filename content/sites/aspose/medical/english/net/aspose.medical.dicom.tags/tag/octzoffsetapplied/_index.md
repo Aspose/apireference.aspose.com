@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520026 VRCS VM1 OCT Z Offset Applied.
 type: docs
 weight: 27490
-url: /aspose.medical.dicom.tags/tag/octzoffsetapplied/
+url: /net/aspose.medical.dicom.tags/tag/octzoffsetapplied/
 ---
 
 ## Tag.OCTZOffsetApplied field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000563 VRLO VM1 Modifying System.
 type: docs
 weight: 24830
-url: /aspose.medical.dicom.tags/tag/modifyingsystem/
+url: /net/aspose.medical.dicom.tags/tag/modifyingsystem/
 ---
 
 ## Tag.ModifyingSystem field

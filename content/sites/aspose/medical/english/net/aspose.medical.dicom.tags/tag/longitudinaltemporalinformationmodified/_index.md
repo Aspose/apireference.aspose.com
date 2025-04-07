@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280303 VRCS VM1 Longitudinal Temporal Information Modified.
 type: docs
 weight: 23010
-url: /aspose.medical.dicom.tags/tag/longitudinaltemporalinformationmodified/
+url: /net/aspose.medical.dicom.tags/tag/longitudinaltemporalinformationmodified/
 ---
 
 ## Tag.LongitudinalTemporalInformationModified field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540414 VRSQ VM1 Patient Gantry Relationship Code Sequence.
 type: docs
 weight: 29850
-url: /aspose.medical.dicom.tags/tag/patientgantryrelationshipcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/patientgantryrelationshipcodesequence/
 ---
 
 ## Tag.PatientGantryRelationshipCodeSequence field

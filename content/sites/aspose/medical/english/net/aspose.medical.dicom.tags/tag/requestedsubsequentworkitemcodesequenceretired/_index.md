@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404031 VRSQ VM1 Requested Subsequent Workitem Code Sequence RETIRED.
 type: docs
 weight: 38820
-url: /aspose.medical.dicom.tags/tag/requestedsubsequentworkitemcodesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/requestedsubsequentworkitemcodesequenceretired/
 ---
 
 ## Tag.RequestedSubsequentWorkitemCodeSequenceRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160032 VRDS VM1 Pressure.
 type: docs
 weight: 32700
-url: /aspose.medical.dicom.tags/tag/pressure/
+url: /net/aspose.medical.dicom.tags/tag/pressure/
 ---
 
 ## Tag.Pressure field

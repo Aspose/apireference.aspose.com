@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Meta SOP Class Referenced Color Print Management Meta SOP Class Retired.
 type: docs
 weight: 3890
-url: /aspose.medical.dicom/uid/referencedcolorprintmanagementmetasopclassretired/
+url: /net/aspose.medical.dicom/uid/referencedcolorprintmanagementmetasopclassretired/
 ---
 
 ## Uid.ReferencedColorPrintManagementMetaSOPClassRetired field

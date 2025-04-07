@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221044 VRSQ VM1 Ophthalmic Ultrasound Method Code Sequence.
 type: docs
 weight: 28220
-url: /aspose.medical.dicom.tags/tag/ophthalmicultrasoundmethodcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicultrasoundmethodcodesequence/
 ---
 
 ## Tag.OphthalmicUltrasoundMethodCodeSequence field

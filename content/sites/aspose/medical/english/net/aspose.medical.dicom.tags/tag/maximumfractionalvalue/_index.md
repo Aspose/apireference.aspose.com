@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0062000E VRUS VM1 Maximum Fractional Value.
 type: docs
 weight: 23970
-url: /aspose.medical.dicom.tags/tag/maximumfractionalvalue/
+url: /net/aspose.medical.dicom.tags/tag/maximumfractionalvalue/
 ---
 
 ## Tag.MaximumFractionalValue field

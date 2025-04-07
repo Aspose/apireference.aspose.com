@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0360 VRSQ VM1 Range Shifter Settings Sequence.
 type: docs
 weight: 34960
-url: /aspose.medical.dicom.tags/tag/rangeshiftersettingssequence/
+url: /net/aspose.medical.dicom.tags/tag/rangeshiftersettingssequence/
 ---
 
 ## Tag.RangeShifterSettingsSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014400F VRLT VM1 Pre-Amplifier Notes RETIRED.
 type: docs
 weight: 32290
-url: /aspose.medical.dicom.tags/tag/preamplifiernotesretired/
+url: /net/aspose.medical.dicom.tags/tag/preamplifiernotesretired/
 ---
 
 ## Tag.PreAmplifierNotesRETIRED field

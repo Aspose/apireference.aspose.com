@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321067 VRSQ VM1 Reason for Visit Code Sequence.
 type: docs
 weight: 35250
-url: /aspose.medical.dicom.tags/tag/reasonforvisitcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/reasonforvisitcodesequence/
 ---
 
 ## Tag.ReasonForVisitCodeSequence field

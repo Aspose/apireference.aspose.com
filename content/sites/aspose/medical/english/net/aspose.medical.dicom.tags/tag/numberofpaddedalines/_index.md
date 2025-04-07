@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520038 VRUS VM1 Number of Padded A-lines.
 type: docs
 weight: 26570
-url: /aspose.medical.dicom.tags/tag/numberofpaddedalines/
+url: /net/aspose.medical.dicom.tags/tag/numberofpaddedalines/
 ---
 
 ## Tag.NumberOfPaddedALines field

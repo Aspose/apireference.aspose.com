@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720430 VRSQ VM1 Image Box Synchronization Sequence.
 type: docs
 weight: 19010
-url: /aspose.medical.dicom.tags/tag/imageboxsynchronizationsequence/
+url: /net/aspose.medical.dicom.tags/tag/imageboxsynchronizationsequence/
 ---
 
 ## Tag.ImageBoxSynchronizationSequence field

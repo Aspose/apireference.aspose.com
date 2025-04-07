@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A060E VRUS VM1 Referenced RT Accessory Holder Device Index.
 type: docs
 weight: 37150
-url: /aspose.medical.dicom.tags/tag/referencedrtaccessoryholderdeviceindex/
+url: /net/aspose.medical.dicom.tags/tag/referencedrtaccessoryholderdeviceindex/
 ---
 
 ## Tag.ReferencedRTAccessoryHolderDeviceIndex field

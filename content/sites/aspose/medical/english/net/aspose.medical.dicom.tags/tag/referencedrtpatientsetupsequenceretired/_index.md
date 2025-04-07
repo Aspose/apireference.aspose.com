@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0632 VRSQ VM1 Referenced RT Patient Setup Sequence RETIRED.
 type: docs
 weight: 37170
-url: /aspose.medical.dicom.tags/tag/referencedrtpatientsetupsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/referencedrtpatientsetupsequenceretired/
 ---
 
 ## Tag.ReferencedRTPatientSetupSequenceRETIRED field

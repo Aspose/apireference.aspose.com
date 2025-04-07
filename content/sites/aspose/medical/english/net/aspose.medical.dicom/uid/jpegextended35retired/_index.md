@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax JPEG Extended Process 3 amp 5 Retired.
 type: docs
 weight: 2210
-url: /aspose.medical.dicom/uid/jpegextended35retired/
+url: /net/aspose.medical.dicom/uid/jpegextended35retired/
 ---
 
 ## Uid.JpegExtended35Retired field

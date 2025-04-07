@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289443 VRSQ VM1 Frame Pixel Data Properties Sequence.
 type: docs
 weight: 16720
-url: /aspose.medical.dicom.tags/tag/framepixeldatapropertiessequence/
+url: /net/aspose.medical.dicom.tags/tag/framepixeldatapropertiessequence/
 ---
 
 ## Tag.FramePixelDataPropertiesSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016004D VRUT VM1 Camera Owner Name.
 type: docs
 weight: 5020
-url: /aspose.medical.dicom.tags/tag/cameraownername/
+url: /net/aspose.medical.dicom.tags/tag/cameraownername/
 ---
 
 ## Tag.CameraOwnerName field

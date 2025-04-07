@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041130 VRCS VM1 File-set ID.
 type: docs
 weight: 15150
-url: /aspose.medical.dicom.tags/tag/filesetid/
+url: /net/aspose.medical.dicom.tags/tag/filesetid/
 ---
 
 ## Tag.FileSetID field

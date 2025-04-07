@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00201202 VRIS VM1 Number of Patient Related Series.
 type: docs
 weight: 26610
-url: /aspose.medical.dicom.tags/tag/numberofpatientrelatedseries/
+url: /net/aspose.medical.dicom.tags/tag/numberofpatientrelatedseries/
 ---
 
 ## Tag.NumberOfPatientRelatedSeries field

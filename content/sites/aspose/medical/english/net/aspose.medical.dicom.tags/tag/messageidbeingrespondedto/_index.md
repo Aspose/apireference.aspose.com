@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000120 VRUS VM1 Message ID Being Responded To.
 type: docs
 weight: 24420
-url: /aspose.medical.dicom.tags/tag/messageidbeingrespondedto/
+url: /net/aspose.medical.dicom.tags/tag/messageidbeingrespondedto/
 ---
 
 ## Tag.MessageIDBeingRespondedTo field

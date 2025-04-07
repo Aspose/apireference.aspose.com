@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700282 VRCS VM1 Compound Graphic Units.
 type: docs
 weight: 7120
-url: /aspose.medical.dicom.tags/tag/compoundgraphicunits/
+url: /net/aspose.medical.dicom.tags/tag/compoundgraphicunits/
 ---
 
 ## Tag.CompoundGraphicUnits field

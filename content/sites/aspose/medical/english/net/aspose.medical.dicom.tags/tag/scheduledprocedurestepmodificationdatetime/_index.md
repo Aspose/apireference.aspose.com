@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404010 VRDT VM1 Scheduled Procedure Step Modification DateTime.
 type: docs
 weight: 41410
-url: /aspose.medical.dicom.tags/tag/scheduledprocedurestepmodificationdatetime/
+url: /net/aspose.medical.dicom.tags/tag/scheduledprocedurestepmodificationdatetime/
 ---
 
 ## Tag.ScheduledProcedureStepModificationDateTime field

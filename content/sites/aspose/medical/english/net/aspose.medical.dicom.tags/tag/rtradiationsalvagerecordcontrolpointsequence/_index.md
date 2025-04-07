@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0722 VRSQ VM1 RT Radiation Salvage Record Control Point Sequence.
 type: docs
 weight: 40440
-url: /aspose.medical.dicom.tags/tag/rtradiationsalvagerecordcontrolpointsequence/
+url: /net/aspose.medical.dicom.tags/tag/rtradiationsalvagerecordcontrolpointsequence/
 ---
 
 ## Tag.RTRadiationSalvageRecordControlPointSequence field

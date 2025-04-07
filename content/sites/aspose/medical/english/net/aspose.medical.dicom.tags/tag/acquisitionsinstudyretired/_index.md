@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00201004 VRIS VM1 Acquisitions in Study RETIRED.
 type: docs
 weight: 500
-url: /aspose.medical.dicom.tags/tag/acquisitionsinstudyretired/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionsinstudyretired/
 ---
 
 ## Tag.AcquisitionsInStudyRETIRED field

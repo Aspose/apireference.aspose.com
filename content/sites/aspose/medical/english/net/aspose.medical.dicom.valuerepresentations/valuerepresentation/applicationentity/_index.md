@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Application Entity AE.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/applicationentity/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/applicationentity/
 ---
 
 ## ValueRepresentation.ApplicationEntity field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181009 VRUT VM1 Unique Device Identifier.
 type: docs
 weight: 50470
-url: /aspose.medical.dicom.tags/tag/uniquedeviceidentifier/
+url: /net/aspose.medical.dicom.tags/tag/uniquedeviceidentifier/
 ---
 
 ## Tag.UniqueDeviceIdentifier field

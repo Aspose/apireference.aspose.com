@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040DB0D VRUI VM1 Template Extension Creator UID RETIRED.
 type: docs
 weight: 47510
-url: /aspose.medical.dicom.tags/tag/templateextensioncreatoruidretired/
+url: /net/aspose.medical.dicom.tags/tag/templateextensioncreatoruidretired/
 ---
 
 ## Tag.TemplateExtensionCreatorUIDRETIRED field

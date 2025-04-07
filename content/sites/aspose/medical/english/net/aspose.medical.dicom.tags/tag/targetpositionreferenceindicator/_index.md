@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0020103F VRLO VM1 Target Position Reference Indicator.
 type: docs
 weight: 47420
-url: /aspose.medical.dicom.tags/tag/targetpositionreferenceindicator/
+url: /net/aspose.medical.dicom.tags/tag/targetpositionreferenceindicator/
 ---
 
 ## Tag.TargetPositionReferenceIndicator field

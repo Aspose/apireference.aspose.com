@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018602C VRFD VM1 Physical Delta X.
 type: docs
 weight: 31220
-url: /aspose.medical.dicom.tags/tag/physicaldeltax/
+url: /net/aspose.medical.dicom.tags/tag/physicaldeltax/
 ---
 
 ## Tag.PhysicalDeltaX field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541322 VRDS VM1 Dose Calibration Factor.
 type: docs
 weight: 12640
-url: /aspose.medical.dicom.tags/tag/dosecalibrationfactor/
+url: /net/aspose.medical.dicom.tags/tag/dosecalibrationfactor/
 ---
 
 ## Tag.DoseCalibrationFactor field

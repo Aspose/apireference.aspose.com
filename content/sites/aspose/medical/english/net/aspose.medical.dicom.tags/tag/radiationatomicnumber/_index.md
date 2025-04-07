@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0304 VRIS VM1 Radiation Atomic Number.
 type: docs
 weight: 34110
-url: /aspose.medical.dicom.tags/tag/radiationatomicnumber/
+url: /net/aspose.medical.dicom.tags/tag/radiationatomicnumber/
 ---
 
 ## Tag.RadiationAtomicNumber field

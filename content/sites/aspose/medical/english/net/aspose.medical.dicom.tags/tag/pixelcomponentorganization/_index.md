@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186044 VRUS VM1 Pixel Component Organization.
 type: docs
 weight: 31350
-url: /aspose.medical.dicom.tags/tag/pixelcomponentorganization/
+url: /net/aspose.medical.dicom.tags/tag/pixelcomponentorganization/
 ---
 
 ## Tag.PixelComponentOrganization field

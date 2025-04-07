@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180072 VRDS VM1 Effective Duration.
 type: docs
 weight: 13320
-url: /aspose.medical.dicom.tags/tag/effectiveduration/
+url: /net/aspose.medical.dicom.tags/tag/effectiveduration/
 ---
 
 ## Tag.EffectiveDuration field

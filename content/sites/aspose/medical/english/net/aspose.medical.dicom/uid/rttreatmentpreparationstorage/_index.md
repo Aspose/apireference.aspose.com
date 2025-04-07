@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class RT Treatment Preparation Storage.
 type: docs
 weight: 4230
-url: /aspose.medical.dicom/uid/rttreatmentpreparationstorage/
+url: /net/aspose.medical.dicom/uid/rttreatmentpreparationstorage/
 ---
 
 ## Uid.RTTreatmentPreparationStorage field

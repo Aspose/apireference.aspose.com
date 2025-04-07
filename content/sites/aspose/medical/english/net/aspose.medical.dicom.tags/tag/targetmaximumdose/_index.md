@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0027 VRDS VM1 Target Maximum Dose.
 type: docs
 weight: 47380
-url: /aspose.medical.dicom.tags/tag/targetmaximumdose/
+url: /net/aspose.medical.dicom.tags/tag/targetmaximumdose/
 ---
 
 ## Tag.TargetMaximumDose field

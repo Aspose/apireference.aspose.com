@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701B01 VRSQ VM1 Advanced Blending Sequence.
 type: docs
 weight: 1000
-url: /aspose.medical.dicom.tags/tag/advancedblendingsequence/
+url: /net/aspose.medical.dicom.tags/tag/advancedblendingsequence/
 ---
 
 ## Tag.AdvancedBlendingSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189103 VRSQ VM1 MR Spectroscopy FOV/Geometry Sequence.
 type: docs
 weight: 25300
-url: /aspose.medical.dicom.tags/tag/mrspectroscopyfovgeometrysequence/
+url: /net/aspose.medical.dicom.tags/tag/mrspectroscopyfovgeometrysequence/
 ---
 
 ## Tag.MRSpectroscopyFOVGeometrySequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460116 VRSQ VM1 Cornea Measurement Method Code Sequence.
 type: docs
 weight: 8910
-url: /aspose.medical.dicom.tags/tag/corneameasurementmethodcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/corneameasurementmethodcodesequence/
 ---
 
 ## Tag.CorneaMeasurementMethodCodeSequence field

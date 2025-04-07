@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220056 VRFL VM1 Illumination Power.
 type: docs
 weight: 18820
-url: /aspose.medical.dicom.tags/tag/illuminationpower/
+url: /net/aspose.medical.dicom.tags/tag/illuminationpower/
 ---
 
 ## Tag.IlluminationPower field

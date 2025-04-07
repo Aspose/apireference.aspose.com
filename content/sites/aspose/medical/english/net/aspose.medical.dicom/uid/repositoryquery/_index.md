@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Repository Query.
 type: docs
 weight: 3930
-url: /aspose.medical.dicom/uid/repositoryquery/
+url: /net/aspose.medical.dicom/uid/repositoryquery/
 ---
 
 ## Uid.RepositoryQuery field

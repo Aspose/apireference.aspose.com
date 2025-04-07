@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400295 VRSQ VM1 Measuring Units Sequence.
 type: docs
 weight: 24300
-url: /aspose.medical.dicom.tags/tag/measuringunitssequence/
+url: /net/aspose.medical.dicom.tags/tag/measuringunitssequence/
 ---
 
 ## Tag.MeasuringUnitsSequence field

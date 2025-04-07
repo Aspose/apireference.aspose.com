@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101067 VRCS VM1 Transport Classification RETIRED.
 type: docs
 weight: 49550
-url: /aspose.medical.dicom.tags/tag/transportclassificationretired/
+url: /net/aspose.medical.dicom.tags/tag/transportclassificationretired/
 ---
 
 ## Tag.TransportClassificationRETIRED field

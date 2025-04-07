@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060084 VRIS VM1 Referenced ROI Number.
 type: docs
 weight: 37140
-url: /aspose.medical.dicom.tags/tag/referencedroinumber/
+url: /net/aspose.medical.dicom.tags/tag/referencedroinumber/
 ---
 
 ## Tag.ReferencedROINumber field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Reads the specified DICOM file and returns the DicomFileaspose.medical.dicom/dicomfile.
 type: docs
 weight: 20
-url: /aspose.medical.dicom/dicomfile/open/
+url: /net/aspose.medical.dicom/dicomfile/open/
 ---
 
 ## Open(Stream, Encoding?) {#open}

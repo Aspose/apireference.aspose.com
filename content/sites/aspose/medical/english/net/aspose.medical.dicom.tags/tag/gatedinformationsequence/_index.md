@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540062 VRSQ VM1 Gated Information Sequence.
 type: docs
 weight: 17070
-url: /aspose.medical.dicom.tags/tag/gatedinformationsequence/
+url: /net/aspose.medical.dicom.tags/tag/gatedinformationsequence/
 ---
 
 ## Tag.GatedInformationSequence field

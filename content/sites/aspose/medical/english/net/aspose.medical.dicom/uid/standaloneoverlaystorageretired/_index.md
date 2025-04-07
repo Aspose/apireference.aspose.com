@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Standalone Overlay Storage Retired.
 type: docs
 weight: 4390
-url: /aspose.medical.dicom/uid/standaloneoverlaystorageretired/
+url: /net/aspose.medical.dicom/uid/standaloneoverlaystorageretired/
 ---
 
 ## Uid.StandaloneOverlayStorageRetired field

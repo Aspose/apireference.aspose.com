@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189464 VRFL VM1 Positioner Isocenter Secondary Angle.
 type: docs
 weight: 32030
-url: /aspose.medical.dicom.tags/tag/positionerisocentersecondaryangle/
+url: /net/aspose.medical.dicom.tags/tag/positionerisocentersecondaryangle/
 ---
 
 ## Tag.PositionerIsocenterSecondaryAngle field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189767 VRCS VM1 Sensitivity Calibrated.
 type: docs
 weight: 42760
-url: /aspose.medical.dicom.tags/tag/sensitivitycalibrated/
+url: /net/aspose.medical.dicom.tags/tag/sensitivitycalibrated/
 ---
 
 ## Tag.SensitivityCalibrated field

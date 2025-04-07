@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00B3 VRCS VM1 Primary Dosimeter Unit.
 type: docs
 weight: 32770
-url: /aspose.medical.dicom.tags/tag/primarydosimeterunit/
+url: /net/aspose.medical.dicom.tags/tag/primarydosimeterunit/
 ---
 
 ## Tag.PrimaryDosimeterUnit field

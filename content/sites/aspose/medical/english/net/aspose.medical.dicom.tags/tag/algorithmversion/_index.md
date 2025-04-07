@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660031 VRLO VM1 Algorithm Version.
 type: docs
 weight: 1220
-url: /aspose.medical.dicom.tags/tag/algorithmversion/
+url: /net/aspose.medical.dicom.tags/tag/algorithmversion/
 ---
 
 ## Tag.AlgorithmVersion field

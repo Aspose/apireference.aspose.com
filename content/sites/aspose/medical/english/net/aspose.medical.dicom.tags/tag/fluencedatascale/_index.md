@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020042 VRDS VM1 Fluence Data Scale.
 type: docs
 weight: 16060
-url: /aspose.medical.dicom.tags/tag/fluencedatascale/
+url: /net/aspose.medical.dicom.tags/tag/fluencedatascale/
 ---
 
 ## Tag.FluenceDataScale field

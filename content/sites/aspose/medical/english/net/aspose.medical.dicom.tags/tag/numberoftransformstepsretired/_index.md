@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280402 VRUS VM1 Number of Transform Steps RETIRED.
 type: docs
 weight: 27040
-url: /aspose.medical.dicom.tags/tag/numberoftransformstepsretired/
+url: /net/aspose.medical.dicom.tags/tag/numberoftransformstepsretired/
 ---
 
 ## Tag.NumberOfTransformStepsRETIRED field

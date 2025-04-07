@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380004 VRSQ VM1 Referenced Patient Alias Sequence RETIRED.
 type: docs
 weight: 36850
-url: /aspose.medical.dicom.tags/tag/referencedpatientaliassequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/referencedpatientaliassequenceretired/
 ---
 
 ## Tag.ReferencedPatientAliasSequenceRETIRED field

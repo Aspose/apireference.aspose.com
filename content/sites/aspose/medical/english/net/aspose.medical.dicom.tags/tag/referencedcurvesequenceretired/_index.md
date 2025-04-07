@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081145 VRSQ VM1 Referenced Curve Sequence RETIRED.
 type: docs
 weight: 36210
-url: /aspose.medical.dicom.tags/tag/referencedcurvesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/referencedcurvesequenceretired/
 ---
 
 ## Tag.ReferencedCurveSequenceRETIRED field

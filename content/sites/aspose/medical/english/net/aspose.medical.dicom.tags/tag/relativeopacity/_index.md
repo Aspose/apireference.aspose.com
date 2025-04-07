@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700403 VRFL VM1 Relative Opacity.
 type: docs
 weight: 38320
-url: /aspose.medical.dicom.tags/tag/relativeopacity/
+url: /net/aspose.medical.dicom.tags/tag/relativeopacity/
 ---
 
 ## Tag.RelativeOpacity field

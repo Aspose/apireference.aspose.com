@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0022 VRDS VM1 Delivery Warning Dose.
 type: docs
 weight: 10700
-url: /aspose.medical.dicom.tags/tag/deliverywarningdose/
+url: /net/aspose.medical.dicom.tags/tag/deliverywarningdose/
 ---
 
 ## Tag.DeliveryWarningDose field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189920 VRSQ VM1 Acquisition Protocol Element Sequence.
 type: docs
 weight: 440
-url: /aspose.medical.dicom.tags/tag/acquisitionprotocolelementsequence/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionprotocolelementsequence/
 ---
 
 ## Tag.AcquisitionProtocolElementSequence field

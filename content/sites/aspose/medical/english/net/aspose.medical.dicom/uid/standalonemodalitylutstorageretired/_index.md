@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Standalone Modality LUT Storage Retired.
 type: docs
 weight: 4380
-url: /aspose.medical.dicom/uid/standalonemodalitylutstorageretired/
+url: /net/aspose.medical.dicom/uid/standalonemodalitylutstorageretired/
 ---
 
 ## Uid.StandaloneModalityLUTStorageRetired field

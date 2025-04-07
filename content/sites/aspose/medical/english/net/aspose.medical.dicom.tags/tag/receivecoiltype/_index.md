@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189043 VRCS VM1 Receive Coil Type.
 type: docs
 weight: 35280
-url: /aspose.medical.dicom.tags/tag/receivecoiltype/
+url: /net/aspose.medical.dicom.tags/tag/receivecoiltype/
 ---
 
 ## Tag.ReceiveCoilType field

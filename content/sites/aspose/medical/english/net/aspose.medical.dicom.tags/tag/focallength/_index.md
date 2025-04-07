@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160029 VRDS VM1 Focal Length.
 type: docs
 weight: 16160
-url: /aspose.medical.dicom.tags/tag/focallength/
+url: /net/aspose.medical.dicom.tags/tag/focallength/
 ---
 
 ## Tag.FocalLength field

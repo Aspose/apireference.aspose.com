@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100026 VRSQ VM1 Segmented RT Accessory Device Sequence.
 type: docs
 weight: 42140
-url: /aspose.medical.dicom.tags/tag/segmentedrtaccessorydevicesequence/
+url: /net/aspose.medical.dicom.tags/tag/segmentedrtaccessorydevicesequence/
 ---
 
 ## Tag.SegmentedRTAccessoryDeviceSequence field

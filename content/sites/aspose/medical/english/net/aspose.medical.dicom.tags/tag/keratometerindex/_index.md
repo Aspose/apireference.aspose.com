@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221033 VRFL VM1 Keratometer Index.
 type: docs
 weight: 22070
-url: /aspose.medical.dicom.tags/tag/keratometerindex/
+url: /net/aspose.medical.dicom.tags/tag/keratometerindex/
 ---
 
 ## Tag.KeratometerIndex field

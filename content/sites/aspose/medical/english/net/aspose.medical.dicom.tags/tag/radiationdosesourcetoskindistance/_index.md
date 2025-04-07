@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0626 VRFD VM1 Radiation Dose Source to Skin Distance.
 type: docs
 weight: 34280
-url: /aspose.medical.dicom.tags/tag/radiationdosesourcetoskindistance/
+url: /net/aspose.medical.dicom.tags/tag/radiationdosesourcetoskindistance/
 ---
 
 ## Tag.RadiationDoseSourceToSkinDistance field

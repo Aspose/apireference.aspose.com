@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00C2 VRLO VM1 Beam Name.
 type: docs
 weight: 3570
-url: /aspose.medical.dicom.tags/tag/beamname/
+url: /net/aspose.medical.dicom.tags/tag/beamname/
 ---
 
 ## Tag.BeamName field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700310 VRSH VM1 Fiducial Identifier.
 type: docs
 weight: 14900
-url: /aspose.medical.dicom.tags/tag/fiducialidentifier/
+url: /net/aspose.medical.dicom.tags/tag/fiducialidentifier/
 ---
 
 ## Tag.FiducialIdentifier field

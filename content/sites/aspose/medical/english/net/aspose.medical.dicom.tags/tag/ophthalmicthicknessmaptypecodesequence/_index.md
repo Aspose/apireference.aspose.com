@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221436 VRSQ VM1 Ophthalmic Thickness Map Type Code Sequence.
 type: docs
 weight: 28210
-url: /aspose.medical.dicom.tags/tag/ophthalmicthicknessmaptypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicthicknessmaptypecodesequence/
 ---
 
 ## Tag.OphthalmicThicknessMapTypeCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720203 VRLO VM1 Display Set Label.
 type: docs
 weight: 12160
-url: /aspose.medical.dicom.tags/tag/displaysetlabel/
+url: /net/aspose.medical.dicom.tags/tag/displaysetlabel/
 ---
 
 ## Tag.DisplaySetLabel field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189335 VRFD VM1 Distance Source to Data Collection Center.
 type: docs
 weight: 12400
-url: /aspose.medical.dicom.tags/tag/distancesourcetodatacollectioncenter/
+url: /net/aspose.medical.dicom.tags/tag/distancesourcetodatacollectioncenter/
 ---
 
 ## Tag.DistanceSourceToDataCollectionCenter field

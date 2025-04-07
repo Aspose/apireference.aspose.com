@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Meta SOP Class Detached Patient Management Meta SOP Class Retired.
 type: docs
 weight: 630
-url: /aspose.medical.dicom/uid/detachedpatientmanagementmetasopclassretired/
+url: /net/aspose.medical.dicom/uid/detachedpatientmanagementmetasopclassretired/
 ---
 
 ## Uid.DetachedPatientManagementMetaSOPClassRetired field

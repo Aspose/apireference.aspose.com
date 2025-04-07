@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281199 VRUI VM1 Palette Color Lookup Table UID.
 type: docs
 weight: 29380
-url: /aspose.medical.dicom.tags/tag/palettecolorlookuptableuid/
+url: /net/aspose.medical.dicom.tags/tag/palettecolorlookuptableuid/
 ---
 
 ## Tag.PaletteColorLookupTableUID field

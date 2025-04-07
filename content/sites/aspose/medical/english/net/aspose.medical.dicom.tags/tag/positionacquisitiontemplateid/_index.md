@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020120 VRST VM1 Position Acquisition Template ID.
 type: docs
 weight: 31980
-url: /aspose.medical.dicom.tags/tag/positionacquisitiontemplateid/
+url: /net/aspose.medical.dicom.tags/tag/positionacquisitiontemplateid/
 ---
 
 ## Tag.PositionAcquisitionTemplateID field

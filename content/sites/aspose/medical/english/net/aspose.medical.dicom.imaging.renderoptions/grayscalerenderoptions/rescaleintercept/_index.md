@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Pixel data rescale interception. Read-only Double.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.imaging.renderoptions/grayscalerenderoptions/rescaleintercept/
+url: /net/aspose.medical.dicom.imaging.renderoptions/grayscalerenderoptions/rescaleintercept/
 ---
 
 ## GrayscaleRenderOptions.RescaleIntercept property

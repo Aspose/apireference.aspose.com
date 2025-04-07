@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080021 VRDA VM1 Series Date.
 type: docs
 weight: 42870
-url: /aspose.medical.dicom.tags/tag/seriesdate/
+url: /net/aspose.medical.dicom.tags/tag/seriesdate/
 ---
 
 ## Tag.SeriesDate field

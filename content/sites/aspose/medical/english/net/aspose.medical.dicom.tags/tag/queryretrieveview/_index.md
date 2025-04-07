@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080053 VRCS VM1 Query/Retrieve View.
 type: docs
 weight: 34080
-url: /aspose.medical.dicom.tags/tag/queryretrieveview/
+url: /net/aspose.medical.dicom.tags/tag/queryretrieveview/
 ---
 
 ## Tag.QueryRetrieveView field

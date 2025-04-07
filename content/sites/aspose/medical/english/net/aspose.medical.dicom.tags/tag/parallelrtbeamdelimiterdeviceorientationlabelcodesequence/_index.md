@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0644 VRSQ VM1 Parallel RT Beam Delimiter Device Orientation Label Code Sequence.
 type: docs
 weight: 29460
-url: /aspose.medical.dicom.tags/tag/parallelrtbeamdelimiterdeviceorientationlabelcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/parallelrtbeamdelimiterdeviceorientationlabelcodesequence/
 ---
 
 ## Tag.ParallelRTBeamDelimiterDeviceOrientationLabelCodeSequence field

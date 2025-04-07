@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000800 VRUS VM1 Command Data Set Type.
 type: docs
 weight: 6510
-url: /aspose.medical.dicom.tags/tag/commanddatasettype/
+url: /net/aspose.medical.dicom.tags/tag/commanddatasettype/
 ---
 
 ## Tag.CommandDataSetType field

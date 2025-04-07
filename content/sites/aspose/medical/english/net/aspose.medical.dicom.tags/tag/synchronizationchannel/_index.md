@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018106C VRUS VM2 Synchronization Channel.
 type: docs
 weight: 46610
-url: /aspose.medical.dicom.tags/tag/synchronizationchannel/
+url: /net/aspose.medical.dicom.tags/tag/synchronizationchannel/
 ---
 
 ## Tag.SynchronizationChannel field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018993A VRUS VM1-n Source Reconstruction Protocol Element Number.
 type: docs
 weight: 44440
-url: /aspose.medical.dicom.tags/tag/sourcereconstructionprotocolelementnumber/
+url: /net/aspose.medical.dicom.tags/tag/sourcereconstructionprotocolelementnumber/
 ---
 
 ## Tag.SourceReconstructionProtocolElementNumber field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Application Hosting Model Native DICOM Model.
 type: docs
 weight: 2790
-url: /aspose.medical.dicom/uid/nativedicommodel/
+url: /net/aspose.medical.dicom/uid/nativedicommodel/
 ---
 
 ## Uid.NativeDICOMModel field

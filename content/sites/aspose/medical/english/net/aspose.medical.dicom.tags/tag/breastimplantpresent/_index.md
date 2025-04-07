@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281300 VRCS VM1 Breast Implant Present.
 type: docs
 weight: 4580
-url: /aspose.medical.dicom.tags/tag/breastimplantpresent/
+url: /net/aspose.medical.dicom.tags/tag/breastimplantpresent/
 ---
 
 ## Tag.BreastImplantPresent field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400039 VRSQ VM1 Assigning Jurisdiction Code Sequence.
 type: docs
 weight: 2680
-url: /aspose.medical.dicom.tags/tag/assigningjurisdictioncodesequence/
+url: /net/aspose.medical.dicom.tags/tag/assigningjurisdictioncodesequence/
 ---
 
 ## Tag.AssigningJurisdictionCodeSequence field

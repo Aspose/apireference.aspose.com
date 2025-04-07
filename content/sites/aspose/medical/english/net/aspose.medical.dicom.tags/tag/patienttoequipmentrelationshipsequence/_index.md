@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A07A0 VRSQ VM1 Patient to Equipment Relationship Sequence.
 type: docs
 weight: 30400
-url: /aspose.medical.dicom.tags/tag/patienttoequipmentrelationshipsequence/
+url: /net/aspose.medical.dicom.tags/tag/patienttoequipmentrelationshipsequence/
 ---
 
 ## Tag.PatientToEquipmentRelationshipSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 007800B2 VRLO VM1 Implant Template Group Variation Dimension Name.
 type: docs
 weight: 19980
-url: /aspose.medical.dicom.tags/tag/implanttemplategroupvariationdimensionname/
+url: /net/aspose.medical.dicom.tags/tag/implanttemplategroupvariationdimensionname/
 ---
 
 ## Tag.ImplantTemplateGroupVariationDimensionName field

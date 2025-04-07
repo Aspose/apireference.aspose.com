@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189725 VRCS VM1 Detector Geometry.
 type: docs
 weight: 11020
-url: /aspose.medical.dicom.tags/tag/detectorgeometry/
+url: /net/aspose.medical.dicom.tags/tag/detectorgeometry/
 ---
 
 ## Tag.DetectorGeometry field

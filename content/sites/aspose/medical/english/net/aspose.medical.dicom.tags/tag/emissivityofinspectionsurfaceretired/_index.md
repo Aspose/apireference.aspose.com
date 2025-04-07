@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146049 VRDS VM1 Emissivity of Inspection Surface RETIRED.
 type: docs
 weight: 13420
-url: /aspose.medical.dicom.tags/tag/emissivityofinspectionsurfaceretired/
+url: /net/aspose.medical.dicom.tags/tag/emissivityofinspectionsurfaceretired/
 ---
 
 ## Tag.EmissivityOfInspectionSurfaceRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: VOI Look-Up table. The transformation to be used to convert the output of the conceptual Modality LUT values to the input of the conceptual Presentation LUT using different functions. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.11.2.html.
 type: docs
 weight: 870
-url: /aspose.medical.dicom.lookuptables/voilookuptable/
+url: /net/aspose.medical.dicom.lookuptables/voilookuptable/
 ---
 
 ## VoiLookupTable class

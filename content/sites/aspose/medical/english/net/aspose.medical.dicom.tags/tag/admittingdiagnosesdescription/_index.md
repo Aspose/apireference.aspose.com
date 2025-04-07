@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081080 VRLO VM1-n Admitting Diagnoses Description.
 type: docs
 weight: 980
-url: /aspose.medical.dicom.tags/tag/admittingdiagnosesdescription/
+url: /net/aspose.medical.dicom.tags/tag/admittingdiagnosesdescription/
 ---
 
 ## Tag.AdmittingDiagnosesDescription field

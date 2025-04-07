@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380032 VRTM VM1 Discharge Time RETIRED.
 type: docs
 weight: 11980
-url: /aspose.medical.dicom.tags/tag/dischargetimeretired/
+url: /net/aspose.medical.dicom.tags/tag/dischargetimeretired/
 ---
 
 ## Tag.DischargeTimeRETIRED field

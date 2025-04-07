@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187011 VRIS VM1 Exposures on Detector Since Manufactured.
 type: docs
 weight: 14620
-url: /aspose.medical.dicom.tags/tag/exposuresondetectorsincemanufactured/
+url: /net/aspose.medical.dicom.tags/tag/exposuresondetectorsincemanufactured/
 ---
 
 ## Tag.ExposuresOnDetectorSinceManufactured field

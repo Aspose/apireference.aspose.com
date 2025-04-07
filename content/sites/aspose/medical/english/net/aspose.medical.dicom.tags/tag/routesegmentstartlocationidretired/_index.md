@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4010101E VRSH VM1 Route Segment Start Location ID RETIRED.
 type: docs
 weight: 39770
-url: /aspose.medical.dicom.tags/tag/routesegmentstartlocationidretired/
+url: /net/aspose.medical.dicom.tags/tag/routesegmentstartlocationidretired/
 ---
 
 ## Tag.RouteSegmentStartLocationIDRETIRED field

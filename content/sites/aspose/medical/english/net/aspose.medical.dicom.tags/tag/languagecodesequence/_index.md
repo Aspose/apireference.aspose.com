@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080006 VRSQ VM1 Language Code Sequence.
 type: docs
 weight: 22200
-url: /aspose.medical.dicom.tags/tag/languagecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/languagecodesequence/
 ---
 
 ## Tag.LanguageCodeSequence field

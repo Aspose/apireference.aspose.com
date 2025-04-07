@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189369 VRDT VM1 Source Start DateTime.
 type: docs
 weight: 44500
-url: /aspose.medical.dicom.tags/tag/sourcestartdatetime/
+url: /net/aspose.medical.dicom.tags/tag/sourcestartdatetime/
 ---
 
 ## Tag.SourceStartDateTime field

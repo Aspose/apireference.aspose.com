@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700262 VRFL VM1 Diameter of Visibility.
 type: docs
 weight: 11530
-url: /aspose.medical.dicom.tags/tag/diameterofvisibility/
+url: /net/aspose.medical.dicom.tags/tag/diameterofvisibility/
 ---
 
 ## Tag.DiameterOfVisibility field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460015 VRSQ VM1 Left Lens Sequence.
 type: docs
 weight: 22540
-url: /aspose.medical.dicom.tags/tag/leftlenssequence/
+url: /net/aspose.medical.dicom.tags/tag/leftlenssequence/
 ---
 
 ## Tag.LeftLensSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A161 VRFD VM1-n Floating Point Value.
 type: docs
 weight: 15950
-url: /aspose.medical.dicom.tags/tag/floatingpointvalue/
+url: /net/aspose.medical.dicom.tags/tag/floatingpointvalue/
 ---
 
 ## Tag.FloatingPointValue field

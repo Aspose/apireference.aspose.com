@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140025 VRST VM1 Component Manufacturing Procedure RETIRED.
 type: docs
 weight: 7000
-url: /aspose.medical.dicom.tags/tag/componentmanufacturingprocedureretired/
+url: /net/aspose.medical.dicom.tags/tag/componentmanufacturingprocedureretired/
 ---
 
 ## Tag.ComponentManufacturingProcedureRETIRED field

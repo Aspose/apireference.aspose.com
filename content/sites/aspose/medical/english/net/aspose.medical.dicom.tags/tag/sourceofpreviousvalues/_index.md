@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000564 VRLO VM1 Source of Previous Values.
 type: docs
 weight: 44360
-url: /aspose.medical.dicom.tags/tag/sourceofpreviousvalues/
+url: /net/aspose.medical.dicom.tags/tag/sourceofpreviousvalues/
 ---
 
 ## Tag.SourceOfPreviousValues field

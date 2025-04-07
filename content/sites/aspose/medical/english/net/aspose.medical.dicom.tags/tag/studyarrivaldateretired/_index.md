@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321040 VRDA VM1 Study Arrival Date RETIRED.
 type: docs
 weight: 45940
-url: /aspose.medical.dicom.tags/tag/studyarrivaldateretired/
+url: /net/aspose.medical.dicom.tags/tag/studyarrivaldateretired/
 ---
 
 ## Tag.StudyArrivalDateRETIRED field

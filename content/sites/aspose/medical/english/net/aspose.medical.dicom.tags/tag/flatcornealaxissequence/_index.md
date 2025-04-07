@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460113 VRSQ VM1 Flat Corneal Axis Sequence.
 type: docs
 weight: 15920
-url: /aspose.medical.dicom.tags/tag/flatcornealaxissequence/
+url: /net/aspose.medical.dicom.tags/tag/flatcornealaxissequence/
 ---
 
 ## Tag.FlatCornealAxisSequence field

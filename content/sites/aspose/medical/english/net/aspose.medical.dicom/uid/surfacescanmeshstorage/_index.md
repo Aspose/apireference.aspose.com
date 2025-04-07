@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Surface Scan Mesh Storage.
 type: docs
 weight: 4590
-url: /aspose.medical.dicom/uid/surfacescanmeshstorage/
+url: /net/aspose.medical.dicom/uid/surfacescanmeshstorage/
 ---
 
 ## Uid.SurfaceScanMeshStorage field

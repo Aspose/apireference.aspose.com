@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0510 VRFL VM2 Delivered Nominal Range Modulated Region Depths.
 type: docs
 weight: 10570
-url: /aspose.medical.dicom.tags/tag/deliverednominalrangemodulatedregiondepths/
+url: /net/aspose.medical.dicom.tags/tag/deliverednominalrangemodulatedregiondepths/
 ---
 
 ## Tag.DeliveredNominalRangeModulatedRegionDepths field

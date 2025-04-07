@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Creates ConfidentialityProfileaspose.medical.dicom.anonymization/confidentialityprofile based on the configuration specified in the given filePath.
 type: docs
 weight: 90
-url: /aspose.medical.dicom.anonymization/confidentialityprofile/loadfromxmlfile/
+url: /net/aspose.medical.dicom.anonymization/confidentialityprofile/loadfromxmlfile/
 ---
 
 ## ConfidentialityProfile.LoadFromXmlFile method

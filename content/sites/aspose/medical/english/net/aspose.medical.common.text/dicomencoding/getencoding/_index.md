@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Returns the Encoding corresponding to charset DICOM Specific Character Set.
 type: docs
 weight: 40
-url: /aspose.medical.common.text/dicomencoding/getencoding/
+url: /net/aspose.medical.common.text/dicomencoding/getencoding/
 ---
 
 ## DicomEncoding.GetEncoding method

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Ophthalmic Thickness Map Storage.
 type: docs
 weight: 2880
-url: /aspose.medical.dicom/uid/ophthalmicthicknessmapstorage/
+url: /net/aspose.medical.dicom/uid/ophthalmicthicknessmapstorage/
 ---
 
 ## Uid.OphthalmicThicknessMapStorage field

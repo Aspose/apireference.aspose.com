@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209247 VRCS VM1 Starting Respiratory Phase.
 type: docs
 weight: 45380
-url: /aspose.medical.dicom.tags/tag/startingrespiratoryphase/
+url: /net/aspose.medical.dicom.tags/tag/startingrespiratoryphase/
 ---
 
 ## Tag.StartingRespiratoryPhase field

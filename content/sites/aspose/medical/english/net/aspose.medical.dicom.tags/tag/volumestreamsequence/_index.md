@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701A08 VRSQ VM1 Volume Stream Sequence.
 type: docs
 weight: 51660
-url: /aspose.medical.dicom.tags/tag/volumestreamsequence/
+url: /net/aspose.medical.dicom.tags/tag/volumestreamsequence/
 ---
 
 ## Tag.VolumeStreamSequence field

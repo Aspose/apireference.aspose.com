@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080409 VRUR VM1 File Access URI.
 type: docs
 weight: 15060
-url: /aspose.medical.dicom.tags/tag/fileaccessuri/
+url: /net/aspose.medical.dicom.tags/tag/fileaccessuri/
 ---
 
 ## Tag.FileAccessURI field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400441 VRSQ VM1 Content Item Modifier Sequence.
 type: docs
 weight: 7890
-url: /aspose.medical.dicom.tags/tag/contentitemmodifiersequence/
+url: /net/aspose.medical.dicom.tags/tag/contentitemmodifiersequence/
 ---
 
 ## Tag.ContentItemModifierSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Coding Scheme Dublin Core.
 type: docs
 weight: 1290
-url: /aspose.medical.dicom/uid/dublincore/
+url: /net/aspose.medical.dicom/uid/dublincore/
 ---
 
 ## Uid.DublinCore field

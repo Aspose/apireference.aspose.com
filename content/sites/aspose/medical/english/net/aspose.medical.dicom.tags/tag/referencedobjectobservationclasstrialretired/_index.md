@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A174 VRCS VM1 Referenced Object Observation Class Trial RETIRED.
 type: docs
 weight: 36700
-url: /aspose.medical.dicom.tags/tag/referencedobjectobservationclasstrialretired/
+url: /net/aspose.medical.dicom.tags/tag/referencedobjectobservationclasstrialretired/
 ---
 
 ## Tag.ReferencedObjectObservationClassTrialRETIRED field

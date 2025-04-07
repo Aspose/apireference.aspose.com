@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 7Fxx0011 VRUS VM1 Variable Next Data Group RETIRED.
 type: docs
 weight: 50760
-url: /aspose.medical.dicom.tags/tag/variablenextdatagroupretired/
+url: /net/aspose.medical.dicom.tags/tag/variablenextdatagroupretired/
 ---
 
 ## Tag.VariableNextDataGroupRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Coding Scheme Unified numbering system UNS for metals and alloys.
 type: docs
 weight: 4760
-url: /aspose.medical.dicom/uid/unifiednumberingsystemunsformetalsandalloys/
+url: /net/aspose.medical.dicom/uid/unifiednumberingsystemunsformetalsandalloys/
 ---
 
 ## Uid.UnifiedNumberingSystemUNSForMetalsAndAlloys field

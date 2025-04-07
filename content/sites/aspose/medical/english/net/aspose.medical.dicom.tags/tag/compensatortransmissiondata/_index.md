@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00EB VRDS VM1-n Compensator Transmission Data.
 type: docs
 weight: 6840
-url: /aspose.medical.dicom.tags/tag/compensatortransmissiondata/
+url: /net/aspose.medical.dicom.tags/tag/compensatortransmissiondata/
 ---
 
 ## Tag.CompensatorTransmissionData field

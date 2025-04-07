@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720064 VRIS VM1-n Selector IS Value.
 type: docs
 weight: 42430
-url: /aspose.medical.dicom.tags/tag/selectorisvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorisvalue/
 ---
 
 ## Tag.SelectorISValue field

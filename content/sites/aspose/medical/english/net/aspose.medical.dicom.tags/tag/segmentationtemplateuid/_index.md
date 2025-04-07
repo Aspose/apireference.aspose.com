@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010001F VRUI VM1 Segmentation Template UID.
 type: docs
 weight: 42000
-url: /aspose.medical.dicom.tags/tag/segmentationtemplateuid/
+url: /net/aspose.medical.dicom.tags/tag/segmentationtemplateuid/
 ---
 
 ## Tag.SegmentationTemplateUID field

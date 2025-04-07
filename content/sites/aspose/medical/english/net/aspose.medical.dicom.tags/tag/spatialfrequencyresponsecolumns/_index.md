@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016000B VRIS VM1 Spatial Frequency Response Columns.
 type: docs
 weight: 44730
-url: /aspose.medical.dicom.tags/tag/spatialfrequencyresponsecolumns/
+url: /net/aspose.medical.dicom.tags/tag/spatialfrequencyresponsecolumns/
 ---
 
 ## Tag.SpatialFrequencyResponseColumns field

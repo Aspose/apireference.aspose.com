@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010007F VRUT VM1 Fractionation Notes.
 type: docs
 weight: 16320
-url: /aspose.medical.dicom.tags/tag/fractionationnotes/
+url: /net/aspose.medical.dicom.tags/tag/fractionationnotes/
 ---
 
 ## Tag.FractionationNotes field

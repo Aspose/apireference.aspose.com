@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Determines whether two specified objects have different values.
 type: docs
 weight: 510
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/op_inequality/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/op_inequality/
 ---
 
 ## ValueRepresentation Inequality operator

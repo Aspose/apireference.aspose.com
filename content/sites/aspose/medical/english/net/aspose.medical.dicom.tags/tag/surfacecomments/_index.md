@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660004 VRLT VM1 Surface Comments.
 type: docs
 weight: 46310
-url: /aspose.medical.dicom.tags/tag/surfacecomments/
+url: /net/aspose.medical.dicom.tags/tag/surfacecomments/
 ---
 
 ## Tag.SurfaceComments field

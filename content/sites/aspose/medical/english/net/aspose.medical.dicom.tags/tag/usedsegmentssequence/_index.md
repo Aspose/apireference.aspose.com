@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00620012 VRSQ VM1 Used Segments Sequence.
 type: docs
 weight: 50600
-url: /aspose.medical.dicom.tags/tag/usedsegmentssequence/
+url: /net/aspose.medical.dicom.tags/tag/usedsegmentssequence/
 ---
 
 ## Tag.UsedSegmentsSequence field

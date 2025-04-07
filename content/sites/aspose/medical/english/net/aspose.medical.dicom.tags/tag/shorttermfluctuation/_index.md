@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240075 VRFL VM1 Short Term Fluctuation.
 type: docs
 weight: 43250
-url: /aspose.medical.dicom.tags/tag/shorttermfluctuation/
+url: /net/aspose.medical.dicom.tags/tag/shorttermfluctuation/
 ---
 
 ## Tag.ShortTermFluctuation field

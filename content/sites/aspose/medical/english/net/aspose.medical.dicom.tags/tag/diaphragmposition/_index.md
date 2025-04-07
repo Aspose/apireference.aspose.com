@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020034 VRDS VM4 Diaphragm Position.
 type: docs
 weight: 11540
-url: /aspose.medical.dicom.tags/tag/diaphragmposition/
+url: /net/aspose.medical.dicom.tags/tag/diaphragmposition/
 ---
 
 ## Tag.DiaphragmPosition field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040074 VRDS VM1 DVH Mean Dose.
 type: docs
 weight: 13090
-url: /aspose.medical.dicom.tags/tag/dvhmeandose/
+url: /net/aspose.medical.dicom.tags/tag/dvhmeandose/
 ---
 
 ## Tag.DVHMeanDose field

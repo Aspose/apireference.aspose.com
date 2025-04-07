@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181010 VRLO VM1 Secondary Capture Device ID.
 type: docs
 weight: 41770
-url: /aspose.medical.dicom.tags/tag/secondarycapturedeviceid/
+url: /net/aspose.medical.dicom.tags/tag/secondarycapturedeviceid/
 ---
 
 ## Tag.SecondaryCaptureDeviceID field

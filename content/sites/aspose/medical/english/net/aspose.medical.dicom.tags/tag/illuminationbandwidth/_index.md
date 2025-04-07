@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220057 VRFL VM1 Illumination Bandwidth.
 type: docs
 weight: 18800
-url: /aspose.medical.dicom.tags/tag/illuminationbandwidth/
+url: /net/aspose.medical.dicom.tags/tag/illuminationbandwidth/
 ---
 
 ## Tag.IlluminationBandwidth field

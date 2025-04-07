@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281104 VRUS VM3 Alpha Palette Color Lookup Table Descriptor.
 type: docs
 weight: 1330
-url: /aspose.medical.dicom.tags/tag/alphapalettecolorlookuptabledescriptor/
+url: /net/aspose.medical.dicom.tags/tag/alphapalettecolorlookuptabledescriptor/
 ---
 
 ## Tag.AlphaPaletteColorLookupTableDescriptor field

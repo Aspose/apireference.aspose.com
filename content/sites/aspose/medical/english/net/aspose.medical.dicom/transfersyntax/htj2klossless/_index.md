@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: High-Throughput JPEG 2000 Image Compression Lossless Only 1.2.840.10008.1.2.4.201.
 type: docs
 weight: 150
-url: /aspose.medical.dicom/transfersyntax/htj2klossless/
+url: /net/aspose.medical.dicom/transfersyntax/htj2klossless/
 ---
 
 ## TransferSyntax.HTJ2KLossless field

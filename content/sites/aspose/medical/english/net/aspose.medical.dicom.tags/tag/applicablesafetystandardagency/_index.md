@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189174 VRCS VM1 Applicable Safety Standard Agency.
 type: docs
 weight: 2030
-url: /aspose.medical.dicom.tags/tag/applicablesafetystandardagency/
+url: /net/aspose.medical.dicom.tags/tag/applicablesafetystandardagency/
 ---
 
 ## Tag.ApplicableSafetyStandardAgency field

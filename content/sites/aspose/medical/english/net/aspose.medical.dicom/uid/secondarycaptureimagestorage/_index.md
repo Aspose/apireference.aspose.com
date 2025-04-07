@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Secondary Capture Image Storage.
 type: docs
 weight: 4250
-url: /aspose.medical.dicom/uid/secondarycaptureimagestorage/
+url: /net/aspose.medical.dicom/uid/secondarycaptureimagestorage/
 ---
 
 ## Uid.SecondaryCaptureImageStorage field

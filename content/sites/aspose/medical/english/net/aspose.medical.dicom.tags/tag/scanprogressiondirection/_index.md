@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540501 VRCS VM1 Scan Progression Direction.
 type: docs
 weight: 41080
-url: /aspose.medical.dicom.tags/tag/scanprogressiondirection/
+url: /net/aspose.medical.dicom.tags/tag/scanprogressiondirection/
 ---
 
 ## Tag.ScanProgressionDirection field

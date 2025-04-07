@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186041 VRSL VM1 TM-Line Position X1.
 type: docs
 weight: 48590
-url: /aspose.medical.dicom.tags/tag/tmlinepositionx1/
+url: /net/aspose.medical.dicom.tags/tag/tmlinepositionx1/
 ---
 
 ## Tag.TMLinePositionX1 field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010004E VRSQ VM1 RT Treatment Phase Interval Sequence.
 type: docs
 weight: 40690
-url: /aspose.medical.dicom.tags/tag/rttreatmentphaseintervalsequence/
+url: /net/aspose.medical.dicom.tags/tag/rttreatmentphaseintervalsequence/
 ---
 
 ## Tag.RTTreatmentPhaseIntervalSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181138 VRDS VM1 Table Angle.
 type: docs
 weight: 46710
-url: /aspose.medical.dicom.tags/tag/tableangle/
+url: /net/aspose.medical.dicom.tags/tag/tableangle/
 ---
 
 ## Tag.TableAngle field

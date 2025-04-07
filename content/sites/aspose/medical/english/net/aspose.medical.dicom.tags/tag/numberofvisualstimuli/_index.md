@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240038 VRUS VM1 Number of Visual Stimuli.
 type: docs
 weight: 27100
-url: /aspose.medical.dicom.tags/tag/numberofvisualstimuli/
+url: /net/aspose.medical.dicom.tags/tag/numberofvisualstimuli/
 ---
 
 ## Tag.NumberOfVisualStimuli field

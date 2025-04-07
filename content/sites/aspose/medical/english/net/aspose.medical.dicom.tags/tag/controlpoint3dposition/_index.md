@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02D4 VRDS VM3 Control Point 3D Position.
 type: docs
 weight: 8490
-url: /aspose.medical.dicom.tags/tag/controlpoint3dposition/
+url: /net/aspose.medical.dicom.tags/tag/controlpoint3dposition/
 ---
 
 ## Tag.ControlPoint3DPosition field

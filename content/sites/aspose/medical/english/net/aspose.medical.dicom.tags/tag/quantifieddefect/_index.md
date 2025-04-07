@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240098 VRFL VM1 Quantified Defect.
 type: docs
 weight: 34030
-url: /aspose.medical.dicom.tags/tag/quantifieddefect/
+url: /net/aspose.medical.dicom.tags/tag/quantifieddefect/
 ---
 
 ## Tag.QuantifiedDefect field

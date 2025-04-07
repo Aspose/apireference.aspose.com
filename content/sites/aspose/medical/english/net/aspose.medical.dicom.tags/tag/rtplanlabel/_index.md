@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0002 VRSH VM1 RT Plan Label.
 type: docs
 weight: 40350
-url: /aspose.medical.dicom.tags/tag/rtplanlabel/
+url: /net/aspose.medical.dicom.tags/tag/rtplanlabel/
 ---
 
 ## Tag.RTPlanLabel field

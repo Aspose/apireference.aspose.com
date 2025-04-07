@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741409 VRSQ VM1 Omitted Channel Sequence.
 type: docs
 weight: 27640
-url: /aspose.medical.dicom.tags/tag/omittedchannelsequence/
+url: /net/aspose.medical.dicom.tags/tag/omittedchannelsequence/
 ---
 
 ## Tag.OmittedChannelSequence field

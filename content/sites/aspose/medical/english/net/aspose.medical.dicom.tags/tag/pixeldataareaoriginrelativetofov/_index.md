@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187036 VRFL VM2 Pixel Data Area Origin Relative To FOV.
 type: docs
 weight: 31410
-url: /aspose.medical.dicom.tags/tag/pixeldataareaoriginrelativetofov/
+url: /net/aspose.medical.dicom.tags/tag/pixeldataareaoriginrelativetofov/
 ---
 
 ## Tag.PixelDataAreaOriginRelativeToFOV field

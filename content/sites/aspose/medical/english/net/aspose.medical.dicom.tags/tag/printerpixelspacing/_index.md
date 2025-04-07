@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100376 VRDS VM2 Printer Pixel Spacing.
 type: docs
 weight: 32890
-url: /aspose.medical.dicom.tags/tag/printerpixelspacing/
+url: /net/aspose.medical.dicom.tags/tag/printerpixelspacing/
 ---
 
 ## Tag.PrinterPixelSpacing field

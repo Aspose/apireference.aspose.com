@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701A09 VRLO VM1 RGBA Transfer Function Description.
 type: docs
 weight: 39280
-url: /aspose.medical.dicom.tags/tag/rgbatransferfunctiondescription/
+url: /net/aspose.medical.dicom.tags/tag/rgbatransferfunctiondescription/
 ---
 
 ## Tag.RGBATransferFunctionDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00B8 VRCS VM1 RT Beam Limiting Device Type.
 type: docs
 weight: 40020
-url: /aspose.medical.dicom.tags/tag/rtbeamlimitingdevicetype/
+url: /net/aspose.medical.dicom.tags/tag/rtbeamlimitingdevicetype/
 ---
 
 ## Tag.RTBeamLimitingDeviceType field

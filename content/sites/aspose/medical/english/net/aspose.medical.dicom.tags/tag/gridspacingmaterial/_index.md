@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187041 VRLT VM1 Grid Spacing Material.
 type: docs
 weight: 18100
-url: /aspose.medical.dicom.tags/tag/gridspacingmaterial/
+url: /net/aspose.medical.dicom.tags/tag/gridspacingmaterial/
 ---
 
 ## Tag.GridSpacingMaterial field

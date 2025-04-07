@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips MR Color Image Storage.
 type: docs
 weight: 3450
-url: /aspose.medical.dicom/uid/privatephilipsmrcolorimagestorage/
+url: /net/aspose.medical.dicom/uid/privatephilipsmrcolorimagestorage/
 ---
 
 ## Uid.PrivatePhilipsMrColorImageStorage field

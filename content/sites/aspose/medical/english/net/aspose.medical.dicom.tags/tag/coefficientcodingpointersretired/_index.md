@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 002804x3 VRAT VM1-n Coefficient Coding Pointers RETIRED.
 type: docs
 weight: 6220
-url: /aspose.medical.dicom.tags/tag/coefficientcodingpointersretired/
+url: /net/aspose.medical.dicom.tags/tag/coefficientcodingpointersretired/
 ---
 
 ## Tag.CoefficientCodingPointersRETIRED field

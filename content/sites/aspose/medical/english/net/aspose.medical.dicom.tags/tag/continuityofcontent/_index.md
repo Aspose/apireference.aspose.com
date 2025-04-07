@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A050 VRCS VM1 Continuity Of Content.
 type: docs
 weight: 8070
-url: /aspose.medical.dicom.tags/tag/continuityofcontent/
+url: /net/aspose.medical.dicom.tags/tag/continuityofcontent/
 ---
 
 ## Tag.ContinuityOfContent field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060085 VRSH VM1 ROI Observation Label RETIRED.
 type: docs
 weight: 39560
-url: /aspose.medical.dicom.tags/tag/roiobservationlabelretired/
+url: /net/aspose.medical.dicom.tags/tag/roiobservationlabelretired/
 ---
 
 ## Tag.ROIObservationLabelRETIRED field

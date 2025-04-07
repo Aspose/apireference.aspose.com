@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102292 VRLO VM1 Patient Breed Description.
 type: docs
 weight: 29770
-url: /aspose.medical.dicom.tags/tag/patientbreeddescription/
+url: /net/aspose.medical.dicom.tags/tag/patientbreeddescription/
 ---
 
 ## Tag.PatientBreedDescription field

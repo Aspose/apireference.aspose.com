@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540072 VRSQ VM1 Time Slot Information Sequence.
 type: docs
 weight: 48480
-url: /aspose.medical.dicom.tags/tag/timeslotinformationsequence/
+url: /net/aspose.medical.dicom.tags/tag/timeslotinformationsequence/
 ---
 
 ## Tag.TimeSlotInformationSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000550 VRSQ VM1 Modified Attributes Sequence.
 type: docs
 weight: 24750
-url: /aspose.medical.dicom.tags/tag/modifiedattributessequence/
+url: /net/aspose.medical.dicom.tags/tag/modifiedattributessequence/
 ---
 
 ## Tag.ModifiedAttributesSequence field

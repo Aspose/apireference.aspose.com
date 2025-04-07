@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189364 VRSQ VM1 Multi-energy CT Characteristics Sequence.
 type: docs
 weight: 25420
-url: /aspose.medical.dicom.tags/tag/multienergyctcharacteristicssequence/
+url: /net/aspose.medical.dicom.tags/tag/multienergyctcharacteristicssequence/
 ---
 
 ## Tag.MultienergyCTCharacteristicsSequence field

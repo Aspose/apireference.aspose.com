@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax JPEG XL JPEG Recompression.
 type: docs
 weight: 2400
-url: /aspose.medical.dicom/uid/jpegxljpegrecompression/
+url: /net/aspose.medical.dicom/uid/jpegxljpegrecompression/
 ---
 
 ## Uid.JpegXLJpegRecompression field

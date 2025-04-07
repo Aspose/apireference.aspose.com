@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A010E VRDS VM1 Final Cumulative Meterset Weight.
 type: docs
 weight: 15480
-url: /aspose.medical.dicom.tags/tag/finalcumulativemetersetweight/
+url: /net/aspose.medical.dicom.tags/tag/finalcumulativemetersetweight/
 ---
 
 ## Tag.FinalCumulativeMetersetWeight field

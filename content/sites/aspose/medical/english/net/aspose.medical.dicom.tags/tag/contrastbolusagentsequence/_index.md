@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180012 VRSQ VM1 Contrast/Bolus Agent Sequence.
 type: docs
 weight: 8250
-url: /aspose.medical.dicom.tags/tag/contrastbolusagentsequence/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolusagentsequence/
 ---
 
 ## Tag.ContrastBolusAgentSequence field

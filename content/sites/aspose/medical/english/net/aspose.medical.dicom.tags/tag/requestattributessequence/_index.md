@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400275 VRSQ VM1 Request Attributes Sequence.
 type: docs
 weight: 38620
-url: /aspose.medical.dicom.tags/tag/requestattributessequence/
+url: /net/aspose.medical.dicom.tags/tag/requestattributessequence/
 ---
 
 ## Tag.RequestAttributesSequence field

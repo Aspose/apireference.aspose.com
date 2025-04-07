@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240034 VRSQ VM1 Visual Field Catch Trial Sequence.
 type: docs
 weight: 51400
-url: /aspose.medical.dicom.tags/tag/visualfieldcatchtrialsequence/
+url: /net/aspose.medical.dicom.tags/tag/visualfieldcatchtrialsequence/
 ---
 
 ## Tag.VisualFieldCatchTrialSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811B7 VRFD VM1 Contrast/Bolus Injection Delay.
 type: docs
 weight: 8320
-url: /aspose.medical.dicom.tags/tag/contrastbolusinjectiondelay/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolusinjectiondelay/
 ---
 
 ## Tag.ContrastBolusInjectionDelay field

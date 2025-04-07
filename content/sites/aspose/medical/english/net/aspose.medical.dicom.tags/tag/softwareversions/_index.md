@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181020 VRLO VM1-n Software Versions.
 type: docs
 weight: 43800
-url: /aspose.medical.dicom.tags/tag/softwareversions/
+url: /net/aspose.medical.dicom.tags/tag/softwareversions/
 ---
 
 ## Tag.SoftwareVersions field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0655 VRUS VM1 Number of Wedge Positions.
 type: docs
 weight: 27150
-url: /aspose.medical.dicom.tags/tag/numberofwedgepositions/
+url: /net/aspose.medical.dicom.tags/tag/numberofwedgepositions/
 ---
 
 ## Tag.NumberOfWedgePositions field

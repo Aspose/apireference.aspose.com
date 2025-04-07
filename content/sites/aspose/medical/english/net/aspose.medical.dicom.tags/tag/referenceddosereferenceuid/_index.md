@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0083 VRUI VM1 Referenced Dose Reference UID.
 type: docs
 weight: 36300
-url: /aspose.medical.dicom.tags/tag/referenceddosereferenceuid/
+url: /net/aspose.medical.dicom.tags/tag/referenceddosereferenceuid/
 ---
 
 ## Tag.ReferencedDoseReferenceUID field

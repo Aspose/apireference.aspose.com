@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189906 VRSQ VM1 Potential Scheduled Protocol Code Sequence.
 type: docs
 weight: 32240
-url: /aspose.medical.dicom.tags/tag/potentialscheduledprotocolcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/potentialscheduledprotocolcodesequence/
 ---
 
 ## Tag.PotentialScheduledProtocolCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014602B VRSQ VM1 Thermal Source Sequence RETIRED.
 type: docs
 weight: 47990
-url: /aspose.medical.dicom.tags/tag/thermalsourcesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/thermalsourcesequenceretired/
 ---
 
 ## Tag.ThermalSourceSequenceRETIRED field

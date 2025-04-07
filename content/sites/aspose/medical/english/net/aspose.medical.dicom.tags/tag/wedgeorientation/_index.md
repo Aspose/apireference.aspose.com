@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00D8 VRDS VM1 Wedge Orientation.
 type: docs
 weight: 52290
-url: /aspose.medical.dicom.tags/tag/wedgeorientation/
+url: /net/aspose.medical.dicom.tags/tag/wedgeorientation/
 ---
 
 ## Tag.WedgeOrientation field

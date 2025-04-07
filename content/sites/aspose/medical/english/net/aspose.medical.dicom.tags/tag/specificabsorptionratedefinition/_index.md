@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189179 VRCS VM1 Specific Absorption Rate Definition.
 type: docs
 weight: 44810
-url: /aspose.medical.dicom.tags/tag/specificabsorptionratedefinition/
+url: /net/aspose.medical.dicom.tags/tag/specificabsorptionratedefinition/
 ---
 
 ## Tag.SpecificAbsorptionRateDefinition field

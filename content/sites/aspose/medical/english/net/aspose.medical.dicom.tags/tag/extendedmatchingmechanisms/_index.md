@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008040F VRCS VM1-n Extended Matching Mechanisms.
 type: docs
 weight: 14720
-url: /aspose.medical.dicom.tags/tag/extendedmatchingmechanisms/
+url: /net/aspose.medical.dicom.tags/tag/extendedmatchingmechanisms/
 ---
 
 ## Tag.ExtendedMatchingMechanisms field

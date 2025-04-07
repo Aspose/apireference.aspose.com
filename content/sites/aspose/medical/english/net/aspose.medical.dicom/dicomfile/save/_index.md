@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Saves DICOM file into the given file.
 type: docs
 weight: 70
-url: /aspose.medical.dicom/dicomfile/save/
+url: /net/aspose.medical.dicom/dicomfile/save/
 ---
 
 ## Save(string, SaveOptions?) {#save_1}

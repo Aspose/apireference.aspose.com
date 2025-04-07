@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540222 VRSQ VM1 View Modifier Code Sequence.
 type: docs
 weight: 51190
-url: /aspose.medical.dicom.tags/tag/viewmodifiercodesequence/
+url: /net/aspose.medical.dicom.tags/tag/viewmodifiercodesequence/
 ---
 
 ## Tag.ViewModifierCodeSequence field

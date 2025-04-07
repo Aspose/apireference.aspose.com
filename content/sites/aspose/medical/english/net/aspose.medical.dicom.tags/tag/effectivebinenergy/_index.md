@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018936E VRDS VM1 Effective Bin Energy.
 type: docs
 weight: 13270
-url: /aspose.medical.dicom.tags/tag/effectivebinenergy/
+url: /net/aspose.medical.dicom.tags/tag/effectivebinenergy/
 ---
 
 ## Tag.EffectiveBinEnergy field

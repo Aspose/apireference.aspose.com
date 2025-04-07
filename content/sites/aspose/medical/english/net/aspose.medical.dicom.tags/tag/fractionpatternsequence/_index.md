@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100079 VRSQ VM1 Fraction Pattern Sequence.
 type: docs
 weight: 16420
-url: /aspose.medical.dicom.tags/tag/fractionpatternsequence/
+url: /net/aspose.medical.dicom.tags/tag/fractionpatternsequence/
 ---
 
 ## Tag.FractionPatternSequence field

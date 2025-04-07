@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221122 VRFL VM1 IOL Power For Exact Target Refraction.
 type: docs
 weight: 21450
-url: /aspose.medical.dicom.tags/tag/iolpowerforexacttargetrefraction/
+url: /net/aspose.medical.dicom.tags/tag/iolpowerforexacttargetrefraction/
 ---
 
 ## Tag.IOLPowerForExactTargetRefraction field

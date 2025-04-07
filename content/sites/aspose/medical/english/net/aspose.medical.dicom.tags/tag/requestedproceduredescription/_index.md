@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321060 VRLO VM1 Requested Procedure Description.
 type: docs
 weight: 38710
-url: /aspose.medical.dicom.tags/tag/requestedproceduredescription/
+url: /net/aspose.medical.dicom.tags/tag/requestedproceduredescription/
 ---
 
 ## Tag.RequestedProcedureDescription field

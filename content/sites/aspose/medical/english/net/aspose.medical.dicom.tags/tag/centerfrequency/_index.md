@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018982D VRFD VM1 Center Frequency.
 type: docs
 weight: 5230
-url: /aspose.medical.dicom.tags/tag/centerfrequency/
+url: /net/aspose.medical.dicom.tags/tag/centerfrequency/
 ---
 
 ## Tag.CenterFrequency field

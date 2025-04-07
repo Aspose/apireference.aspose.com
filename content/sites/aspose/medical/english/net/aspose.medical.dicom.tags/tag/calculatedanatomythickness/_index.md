@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189452 VRFL VM1 Calculated Anatomy Thickness.
 type: docs
 weight: 4800
-url: /aspose.medical.dicom.tags/tag/calculatedanatomythickness/
+url: /net/aspose.medical.dicom.tags/tag/calculatedanatomythickness/
 ---
 
 ## Tag.CalculatedAnatomyThickness field

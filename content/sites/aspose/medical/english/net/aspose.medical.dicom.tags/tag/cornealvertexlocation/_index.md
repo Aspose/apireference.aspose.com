@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460202 VRFL VM2 Corneal Vertex Location.
 type: docs
 weight: 8890
-url: /aspose.medical.dicom.tags/tag/cornealvertexlocation/
+url: /net/aspose.medical.dicom.tags/tag/cornealvertexlocation/
 ---
 
 ## Tag.CornealVertexLocation field

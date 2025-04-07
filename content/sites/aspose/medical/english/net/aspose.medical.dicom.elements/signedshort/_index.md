@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Signed Short SS VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextSS-Signed20Short-Signed20binary20integer.
 type: docs
 weight: 460
-url: /aspose.medical.dicom.elements/signedshort/
+url: /net/aspose.medical.dicom.elements/signedshort/
 ---
 
 ## SignedShort class

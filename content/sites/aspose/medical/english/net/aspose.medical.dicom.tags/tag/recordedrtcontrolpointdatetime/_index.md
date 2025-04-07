@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A073A VRDT VM1 Recorded RT Control Point DateTime.
 type: docs
 weight: 35830
-url: /aspose.medical.dicom.tags/tag/recordedrtcontrolpointdatetime/
+url: /net/aspose.medical.dicom.tags/tag/recordedrtcontrolpointdatetime/
 ---
 
 ## Tag.RecordedRTControlPointDateTime field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280104 VRUS or SS VM1 Smallest Valid Pixel Value RETIRED.
 type: docs
 weight: 43680
-url: /aspose.medical.dicom.tags/tag/smallestvalidpixelvalueretired/
+url: /net/aspose.medical.dicom.tags/tag/smallestvalidpixelvalueretired/
 ---
 
 ## Tag.SmallestValidPixelValueRETIRED field

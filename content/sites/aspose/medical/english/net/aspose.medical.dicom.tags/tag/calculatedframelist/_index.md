@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081162 VRUL VM3-3n Calculated Frame List.
 type: docs
 weight: 4850
-url: /aspose.medical.dicom.tags/tag/calculatedframelist/
+url: /net/aspose.medical.dicom.tags/tag/calculatedframelist/
 ---
 
 ## Tag.CalculatedFrameList field

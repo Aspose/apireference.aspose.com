@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014220E VRCS VM1 Coordinate System Axis Units RETIRED.
 type: docs
 weight: 8690
-url: /aspose.medical.dicom.tags/tag/coordinatesystemaxisunitsretired/
+url: /net/aspose.medical.dicom.tags/tag/coordinatesystemaxisunitsretired/
 ---
 
 ## Tag.CoordinateSystemAxisUnitsRETIRED field

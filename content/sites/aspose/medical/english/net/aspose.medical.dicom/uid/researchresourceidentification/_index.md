@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Coding Scheme Research Resource Identification.
 type: docs
 weight: 3940
-url: /aspose.medical.dicom/uid/researchresourceidentification/
+url: /net/aspose.medical.dicom/uid/researchresourceidentification/
 ---
 
 ## Uid.ResearchResourceIdentification field

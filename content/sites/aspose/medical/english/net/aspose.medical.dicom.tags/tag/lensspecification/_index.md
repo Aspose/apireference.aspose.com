@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016004E VRDS VM4 Lens Specification.
 type: docs
 weight: 22670
-url: /aspose.medical.dicom.tags/tag/lensspecification/
+url: /net/aspose.medical.dicom.tags/tag/lensspecification/
 ---
 
 ## Tag.LensSpecification field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Siemens CT MR Volume Storage.
 type: docs
 weight: 3690
-url: /aspose.medical.dicom/uid/privatesiemensctmrvolumestorage/
+url: /net/aspose.medical.dicom/uid/privatesiemensctmrvolumestorage/
 ---
 
 ## Uid.PrivateSiemensCtmrVolumeStorage field

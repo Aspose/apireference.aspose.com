@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0142 VRCS VM1 Table Top Pitch Rotation Direction.
 type: docs
 weight: 47080
-url: /aspose.medical.dicom.tags/tag/tabletoppitchrotationdirection/
+url: /net/aspose.medical.dicom.tags/tag/tabletoppitchrotationdirection/
 ---
 
 ## Tag.TableTopPitchRotationDirection field

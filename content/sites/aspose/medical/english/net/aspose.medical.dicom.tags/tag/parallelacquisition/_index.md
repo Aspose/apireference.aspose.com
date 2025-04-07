@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189077 VRCS VM1 Parallel Acquisition.
 type: docs
 weight: 29390
-url: /aspose.medical.dicom.tags/tag/parallelacquisition/
+url: /net/aspose.medical.dicom.tags/tag/parallelacquisition/
 ---
 
 ## Tag.ParallelAcquisition field

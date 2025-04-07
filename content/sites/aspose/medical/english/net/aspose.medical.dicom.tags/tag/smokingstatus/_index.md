@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001021A0 VRCS VM1 Smoking Status.
 type: docs
 weight: 43690
-url: /aspose.medical.dicom.tags/tag/smokingstatus/
+url: /net/aspose.medical.dicom.tags/tag/smokingstatus/
 ---
 
 ## Tag.SmokingStatus field

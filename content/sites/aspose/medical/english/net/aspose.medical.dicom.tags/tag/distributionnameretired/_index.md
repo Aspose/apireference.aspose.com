@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080119 VRPN VM1 Distribution Name RETIRED.
 type: docs
 weight: 12470
-url: /aspose.medical.dicom.tags/tag/distributionnameretired/
+url: /net/aspose.medical.dicom.tags/tag/distributionnameretired/
 ---
 
 ## Tag.DistributionNameRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00E7 VRIS VM1 Compensator Rows.
 type: docs
 weight: 6780
-url: /aspose.medical.dicom.tags/tag/compensatorrows/
+url: /net/aspose.medical.dicom.tags/tag/compensatorrows/
 ---
 
 ## Tag.CompensatorRows field

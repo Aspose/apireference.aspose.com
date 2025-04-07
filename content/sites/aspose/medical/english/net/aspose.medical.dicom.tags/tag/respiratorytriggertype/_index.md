@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209250 VRCS VM1 Respiratory Trigger Type.
 type: docs
 weight: 39030
-url: /aspose.medical.dicom.tags/tag/respiratorytriggertype/
+url: /net/aspose.medical.dicom.tags/tag/respiratorytriggertype/
 ---
 
 ## Tag.RespiratoryTriggerType field

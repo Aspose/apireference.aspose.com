@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018602A VRFD VM1 Reference Pixel Physical Value Y.
 type: docs
 weight: 37790
-url: /aspose.medical.dicom.tags/tag/referencepixelphysicalvaluey/
+url: /net/aspose.medical.dicom.tags/tag/referencepixelphysicalvaluey/
 ---
 
 ## Tag.ReferencePixelPhysicalValueY field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189307 VRFD VM1 Total Collimation Width.
 type: docs
 weight: 48880
-url: /aspose.medical.dicom.tags/tag/totalcollimationwidth/
+url: /net/aspose.medical.dicom.tags/tag/totalcollimationwidth/
 ---
 
 ## Tag.TotalCollimationWidth field

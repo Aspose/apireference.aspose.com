@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720516 VRCS VM1 Reformatting Operation Initial View Direction.
 type: docs
 weight: 37900
-url: /aspose.medical.dicom.tags/tag/reformattingoperationinitialviewdirection/
+url: /net/aspose.medical.dicom.tags/tag/reformattingoperationinitialviewdirection/
 ---
 
 ## Tag.ReformattingOperationInitialViewDirection field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080109 VRTM VM1 Interpretation Transcription Time RETIRED.
 type: docs
 weight: 21080
-url: /aspose.medical.dicom.tags/tag/interpretationtranscriptiontimeretired/
+url: /net/aspose.medical.dicom.tags/tag/interpretationtranscriptiontimeretired/
 ---
 
 ## Tag.InterpretationTranscriptionTimeRETIRED field

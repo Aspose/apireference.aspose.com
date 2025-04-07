@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460204 VRFL VM1 Pupil Centroid Y-Coordinate.
 type: docs
 weight: 33880
-url: /aspose.medical.dicom.tags/tag/pupilcentroidycoordinate/
+url: /net/aspose.medical.dicom.tags/tag/pupilcentroidycoordinate/
 ---
 
 ## Tag.PupilCentroidYCoordinate field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates basic DICOM functionality.
 type: docs
 weight: 110
-url: /aspose.medical.dicom/dicomfile/
+url: /net/aspose.medical.dicom/dicomfile/
 ---
 
 ## DicomFile class

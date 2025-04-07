@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520034 VRFD VM1 First A-line Location.
 type: docs
 weight: 15580
-url: /aspose.medical.dicom.tags/tag/firstalinelocation/
+url: /net/aspose.medical.dicom.tags/tag/firstalinelocation/
 ---
 
 ## Tag.FirstALineLocation field

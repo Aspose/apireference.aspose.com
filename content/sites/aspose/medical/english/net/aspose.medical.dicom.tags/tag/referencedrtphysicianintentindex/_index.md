@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010005E VRUS VM1 Referenced RT Physician Intent Index.
 type: docs
 weight: 37180
-url: /aspose.medical.dicom.tags/tag/referencedrtphysicianintentindex/
+url: /net/aspose.medical.dicom.tags/tag/referencedrtphysicianintentindex/
 ---
 
 ## Tag.ReferencedRTPhysicianIntentIndex field

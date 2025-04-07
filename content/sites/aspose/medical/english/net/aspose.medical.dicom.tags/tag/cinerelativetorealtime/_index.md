@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720330 VRFD VM1 Cine Relative to Real-Time.
 type: docs
 weight: 5880
-url: /aspose.medical.dicom.tags/tag/cinerelativetorealtime/
+url: /net/aspose.medical.dicom.tags/tag/cinerelativetorealtime/
 ---
 
 ## Tag.CineRelativeToRealTime field

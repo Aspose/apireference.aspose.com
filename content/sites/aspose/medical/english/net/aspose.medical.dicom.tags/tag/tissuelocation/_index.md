@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480115 VRCS VM1 Tissue Location.
 type: docs
 weight: 48560
-url: /aspose.medical.dicom.tags/tag/tissuelocation/
+url: /net/aspose.medical.dicom.tags/tag/tissuelocation/
 ---
 
 ## Tag.TissueLocation field

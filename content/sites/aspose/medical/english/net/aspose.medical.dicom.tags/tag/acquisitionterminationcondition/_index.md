@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180071 VRCS VM1 Acquisition Termination Condition.
 type: docs
 weight: 610
-url: /aspose.medical.dicom.tags/tag/acquisitionterminationcondition/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionterminationcondition/
 ---
 
 ## Tag.AcquisitionTerminationCondition field

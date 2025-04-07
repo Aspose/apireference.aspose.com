@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00089007 VRCS VM4-5 Frame Type.
 type: docs
 weight: 16800
-url: /aspose.medical.dicom.tags/tag/frametype/
+url: /net/aspose.medical.dicom.tags/tag/frametype/
 ---
 
 ## Tag.FrameType field

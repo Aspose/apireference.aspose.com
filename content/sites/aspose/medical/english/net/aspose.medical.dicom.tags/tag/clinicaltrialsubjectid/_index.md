@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120040 VRLO VM1 Clinical Trial Subject ID.
 type: docs
 weight: 6000
-url: /aspose.medical.dicom.tags/tag/clinicaltrialsubjectid/
+url: /net/aspose.medical.dicom.tags/tag/clinicaltrialsubjectid/
 ---
 
 ## Tag.ClinicalTrialSubjectID field

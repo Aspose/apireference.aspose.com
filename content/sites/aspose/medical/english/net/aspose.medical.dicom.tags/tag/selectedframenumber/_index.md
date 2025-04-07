@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020100 VRIS VM1 Selected Frame Number.
 type: docs
 weight: 42250
-url: /aspose.medical.dicom.tags/tag/selectedframenumber/
+url: /net/aspose.medical.dicom.tags/tag/selectedframenumber/
 ---
 
 ## Tag.SelectedFrameNumber field

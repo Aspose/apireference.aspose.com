@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0124 VRDS VM1 Table Top Eccentric Axis Distance.
 type: docs
 weight: 46950
-url: /aspose.medical.dicom.tags/tag/tabletopeccentricaxisdistance/
+url: /net/aspose.medical.dicom.tags/tag/tabletopeccentricaxisdistance/
 ---
 
 ## Tag.TableTopEccentricAxisDistance field

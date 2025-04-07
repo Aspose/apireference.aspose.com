@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0154 VRDS VM1 Fixation Light Azimuthal Angle Tolerance.
 type: docs
 weight: 15730
-url: /aspose.medical.dicom.tags/tag/fixationlightazimuthalangletolerance/
+url: /net/aspose.medical.dicom.tags/tag/fixationlightazimuthalangletolerance/
 ---
 
 ## Tag.FixationLightAzimuthalAngleTolerance field

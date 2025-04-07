@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx0114 VRUS VM1-n Coordinate Step Value RETIRED.
 type: docs
 weight: 8630
-url: /aspose.medical.dicom.tags/tag/coordinatestepvalueretired/
+url: /net/aspose.medical.dicom.tags/tag/coordinatestepvalueretired/
 ---
 
 ## Tag.CoordinateStepValueRETIRED field

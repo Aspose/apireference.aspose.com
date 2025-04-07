@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0323 VRSQ VM1 Analog Filter Characteristics Sequence.
 type: docs
 weight: 1430
-url: /aspose.medical.dicom.tags/tag/analogfiltercharacteristicssequence/
+url: /net/aspose.medical.dicom.tags/tag/analogfiltercharacteristicssequence/
 ---
 
 ## Tag.AnalogFilterCharacteristicsSequence field

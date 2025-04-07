@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00182043 VRFL VM2 Localizing Cursor Position.
 type: docs
 weight: 22930
-url: /aspose.medical.dicom.tags/tag/localizingcursorposition/
+url: /net/aspose.medical.dicom.tags/tag/localizingcursorposition/
 ---
 
 ## Tag.LocalizingCursorPosition field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072006A VRPN VM1-n Selector PN Value.
 type: docs
 weight: 42520
-url: /aspose.medical.dicom.tags/tag/selectorpnvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorpnvalue/
 ---
 
 ## Tag.SelectorPNValue field

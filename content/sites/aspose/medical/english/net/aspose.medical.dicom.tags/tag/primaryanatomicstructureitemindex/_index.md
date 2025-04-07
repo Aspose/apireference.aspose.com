@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221634 VRIS VM1 Primary Anatomic Structure Item Index.
 type: docs
 weight: 32710
-url: /aspose.medical.dicom.tags/tag/primaryanatomicstructureitemindex/
+url: /net/aspose.medical.dicom.tags/tag/primaryanatomicstructureitemindex/
 ---
 
 ## Tag.PrimaryAnatomicStructureItemIndex field

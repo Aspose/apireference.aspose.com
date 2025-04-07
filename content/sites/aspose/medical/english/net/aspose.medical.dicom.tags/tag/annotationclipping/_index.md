@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701907 VRCS VM1 Annotation Clipping.
 type: docs
 weight: 1740
-url: /aspose.medical.dicom.tags/tag/annotationclipping/
+url: /net/aspose.medical.dicom.tags/tag/annotationclipping/
 ---
 
 ## Tag.AnnotationClipping field

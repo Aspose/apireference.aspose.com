@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Meta SOP Class Pull Stored Print Management Meta SOP Class Retired.
 type: docs
 weight: 3830
-url: /aspose.medical.dicom/uid/pullstoredprintmanagementmetasopclassretired/
+url: /net/aspose.medical.dicom/uid/pullstoredprintmanagementmetasopclassretired/
 ---
 
 ## Uid.PullStoredPrintManagementMetaSOPClassRetired field

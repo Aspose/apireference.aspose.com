@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private GE Collage Storage.
 type: docs
 weight: 3230
-url: /aspose.medical.dicom/uid/privategecollagestorage/
+url: /net/aspose.medical.dicom/uid/privategecollagestorage/
 ---
 
 ## Uid.PrivateGeCollageStorage field

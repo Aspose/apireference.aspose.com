@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010009A VRFD VM1-n Tomotherapeutic Leaf Initial Closed Durations.
 type: docs
 weight: 48730
-url: /aspose.medical.dicom.tags/tag/tomotherapeuticleafinitialcloseddurations/
+url: /net/aspose.medical.dicom.tags/tag/tomotherapeuticleafinitialcloseddurations/
 ---
 
 ## Tag.TomotherapeuticLeafInitialClosedDurations field

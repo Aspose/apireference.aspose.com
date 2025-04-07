@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186036 VRFD VM1 Steering Angle.
 type: docs
 weight: 45490
-url: /aspose.medical.dicom.tags/tag/steeringangle/
+url: /net/aspose.medical.dicom.tags/tag/steeringangle/
 ---
 
 ## Tag.SteeringAngle field

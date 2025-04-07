@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Gets or sets the green component.
 type: docs
 weight: 60
-url: /aspose.medical.imaging.pixelformats/rgba32/g/
+url: /net/aspose.medical.imaging.pixelformats/rgba32/g/
 ---
 
 ## Rgba32.G field

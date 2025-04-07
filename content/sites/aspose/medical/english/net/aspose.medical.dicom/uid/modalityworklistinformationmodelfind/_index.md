@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Modality Worklist Information Model - FIND.
 type: docs
 weight: 2620
-url: /aspose.medical.dicom/uid/modalityworklistinformationmodelfind/
+url: /net/aspose.medical.dicom/uid/modalityworklistinformationmodelfind/
 ---
 
 ## Uid.ModalityWorklistInformationModelFIND field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289001 VRUL VM1 Data Point Rows.
 type: docs
 weight: 9920
-url: /aspose.medical.dicom.tags/tag/datapointrows/
+url: /net/aspose.medical.dicom.tags/tag/datapointrows/
 ---
 
 ## Tag.DataPointRows field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040B039 VRSQ VM1 Waveform Montage Sequence.
 type: docs
 weight: 52000
-url: /aspose.medical.dicom.tags/tag/waveformmontagesequence/
+url: /net/aspose.medical.dicom.tags/tag/waveformmontagesequence/
 ---
 
 ## Tag.WaveformMontageSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082218 VRSQ VM1 Anatomic Region Sequence.
 type: docs
 weight: 1550
-url: /aspose.medical.dicom.tags/tag/anatomicregionsequence/
+url: /net/aspose.medical.dicom.tags/tag/anatomicregionsequence/
 ---
 
 ## Tag.AnatomicRegionSequence field

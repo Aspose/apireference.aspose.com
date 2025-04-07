@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0440 VRIS VM1 Number of Block Slab Items.
 type: docs
 weight: 26120
-url: /aspose.medical.dicom.tags/tag/numberofblockslabitems/
+url: /net/aspose.medical.dicom.tags/tag/numberofblockslabitems/
 ---
 
 ## Tag.NumberOfBlockSlabItems field

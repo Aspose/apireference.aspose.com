@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240073 VRFL VM1 Localized Deviation Probability.
 type: docs
 weight: 22910
-url: /aspose.medical.dicom.tags/tag/localizeddeviationprobability/
+url: /net/aspose.medical.dicom.tags/tag/localizeddeviationprobability/
 ---
 
 ## Tag.LocalizedDeviationProbability field

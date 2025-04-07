@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4010107E VRDS VM6 PRCS to RCS Orientation RETIRED.
 type: docs
 weight: 32270
-url: /aspose.medical.dicom.tags/tag/prcstorcsorientationretired/
+url: /net/aspose.medical.dicom.tags/tag/prcstorcsorientationretired/
 ---
 
 ## Tag.PRCSToRCSOrientationRETIRED field

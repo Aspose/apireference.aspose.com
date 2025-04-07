@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Inventory Storage.
 type: docs
 weight: 2140
-url: /aspose.medical.dicom/uid/inventorystorage/
+url: /net/aspose.medical.dicom/uid/inventorystorage/
 ---
 
 ## Uid.InventoryStorage field

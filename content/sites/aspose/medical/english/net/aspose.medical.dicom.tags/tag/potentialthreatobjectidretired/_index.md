@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101010 VRUS VM1 Potential Threat Object ID RETIRED.
 type: docs
 weight: 32250
-url: /aspose.medical.dicom.tags/tag/potentialthreatobjectidretired/
+url: /net/aspose.medical.dicom.tags/tag/potentialthreatobjectidretired/
 ---
 
 ## Tag.PotentialThreatObjectIDRETIRED field

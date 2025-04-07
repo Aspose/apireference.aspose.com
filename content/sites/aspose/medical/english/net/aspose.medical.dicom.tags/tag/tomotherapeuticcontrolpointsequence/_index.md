@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100098 VRSQ VM1 Tomotherapeutic Control Point Sequence.
 type: docs
 weight: 48720
-url: /aspose.medical.dicom.tags/tag/tomotherapeuticcontrolpointsequence/
+url: /net/aspose.medical.dicom.tags/tag/tomotherapeuticcontrolpointsequence/
 ---
 
 ## Tag.TomotherapeuticControlPointSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Well-known SOP Instance Storage Commitment Pull Model SOP Instance Retired.
 type: docs
 weight: 4440
-url: /aspose.medical.dicom/uid/storagecommitmentpullmodelsopinstanceretired/
+url: /net/aspose.medical.dicom/uid/storagecommitmentpullmodelsopinstanceretired/
 ---
 
 ## Uid.StorageCommitmentPullModelSOPInstanceRetired field

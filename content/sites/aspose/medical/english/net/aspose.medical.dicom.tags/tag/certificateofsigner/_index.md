@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000115 VROB VM1 Certificate of Signer.
 type: docs
 weight: 5320
-url: /aspose.medical.dicom.tags/tag/certificateofsigner/
+url: /net/aspose.medical.dicom.tags/tag/certificateofsigner/
 ---
 
 ## Tag.CertificateOfSigner field

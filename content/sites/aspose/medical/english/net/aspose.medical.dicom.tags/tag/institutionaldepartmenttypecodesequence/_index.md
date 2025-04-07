@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081041 VRSQ VM1 Institutional Department Type Code Sequence.
 type: docs
 weight: 20550
-url: /aspose.medical.dicom.tags/tag/institutionaldepartmenttypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/institutionaldepartmenttypecodesequence/
 ---
 
 ## Tag.InstitutionalDepartmentTypeCodeSequence field

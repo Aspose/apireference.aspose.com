@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The Receiving Application Entity Title optional attribute. Read-only String.
 type: docs
 weight: 80
-url: /aspose.medical.dicom/metainformation/receivingapplicationentitytitle/
+url: /net/aspose.medical.dicom/metainformation/receivingapplicationentitytitle/
 ---
 
 ## MetaInformation.ReceivingApplicationEntityTitle property

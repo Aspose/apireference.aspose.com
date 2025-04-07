@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A807 VRSQ VM1 Table Column Definition Sequence.
 type: docs
 weight: 46720
-url: /aspose.medical.dicom.tags/tag/tablecolumndefinitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/tablecolumndefinitionsequence/
 ---
 
 ## Tag.TableColumnDefinitionSequence field

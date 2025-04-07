@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018993D VRSQ VM1 Reconstruction Algorithm Sequence.
 type: docs
 weight: 35580
-url: /aspose.medical.dicom.tags/tag/reconstructionalgorithmsequence/
+url: /net/aspose.medical.dicom.tags/tag/reconstructionalgorithmsequence/
 ---
 
 ## Tag.ReconstructionAlgorithmSequence field

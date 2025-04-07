@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540063 VRSQ VM1 Data Information Sequence.
 type: docs
 weight: 9870
-url: /aspose.medical.dicom.tags/tag/datainformationsequence/
+url: /net/aspose.medical.dicom.tags/tag/datainformationsequence/
 ---
 
 ## Tag.DataInformationSequence field

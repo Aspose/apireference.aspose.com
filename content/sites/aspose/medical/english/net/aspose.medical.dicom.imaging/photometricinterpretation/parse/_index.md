@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 120
-url: /aspose.medical.dicom.imaging/photometricinterpretation/parse/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/parse/
 ---
 
 ## Parse(string, IFormatProvider?) {#parse_1}

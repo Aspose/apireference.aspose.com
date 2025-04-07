@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The first frame of the overlay frames are numbered from 1. Read/Write Int32.
 type: docs
 weight: 70
-url: /aspose.medical.dicom.imaging.overlays/overlaydata/originframe/
+url: /net/aspose.medical.dicom.imaging.overlays/overlaydata/originframe/
 ---
 
 ## OverlayData.OriginFrame property

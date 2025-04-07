@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081160 VRIS VM1-n Referenced Frame Number.
 type: docs
 weight: 36450
-url: /aspose.medical.dicom.tags/tag/referencedframenumber/
+url: /net/aspose.medical.dicom.tags/tag/referencedframenumber/
 ---
 
 ## Tag.ReferencedFrameNumber field

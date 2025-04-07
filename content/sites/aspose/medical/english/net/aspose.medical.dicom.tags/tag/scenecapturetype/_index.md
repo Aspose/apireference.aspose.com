@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160046 VRUS VM1 Scene Capture Type.
 type: docs
 weight: 41250
-url: /aspose.medical.dicom.tags/tag/scenecapturetype/
+url: /net/aspose.medical.dicom.tags/tag/scenecapturetype/
 ---
 
 ## Tag.SceneCaptureType field

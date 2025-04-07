@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143071 VRDS VM1 KV Used in Gain Calibration RETIRED.
 type: docs
 weight: 22160
-url: /aspose.medical.dicom.tags/tag/kvusedingaincalibrationretired/
+url: /net/aspose.medical.dicom.tags/tag/kvusedingaincalibrationretired/
 ---
 
 ## Tag.KVUsedInGainCalibrationRETIRED field

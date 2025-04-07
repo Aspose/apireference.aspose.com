@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080305 VRSQ VM1 Deidentification Action Sequence.
 type: docs
 weight: 10460
-url: /aspose.medical.dicom.tags/tag/deidentificationactionsequence/
+url: /net/aspose.medical.dicom.tags/tag/deidentificationactionsequence/
 ---
 
 ## Tag.DeidentificationActionSequence field

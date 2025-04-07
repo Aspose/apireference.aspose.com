@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460220 VRFL VM1 Average Corneal Power.
 type: docs
 weight: 3030
-url: /aspose.medical.dicom.tags/tag/averagecornealpower/
+url: /net/aspose.medical.dicom.tags/tag/averagecornealpower/
 ---
 
 ## Tag.AverageCornealPower field

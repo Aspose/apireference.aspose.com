@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Specifies whether the photometric interpretation is represented by a palette of colors. Read-only Boolean.
 type: docs
 weight: 160
-url: /aspose.medical.dicom.imaging/photometricinterpretation/ispalette/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/ispalette/
 ---
 
 ## PhotometricInterpretation.IsPalette property

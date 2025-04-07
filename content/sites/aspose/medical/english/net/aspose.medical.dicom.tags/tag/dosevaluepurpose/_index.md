@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A061D VRCS VM1-n Dose Value Purpose.
 type: docs
 weight: 12830
-url: /aspose.medical.dicom.tags/tag/dosevaluepurpose/
+url: /net/aspose.medical.dicom.tags/tag/dosevaluepurpose/
 ---
 
 ## Tag.DoseValuePurpose field

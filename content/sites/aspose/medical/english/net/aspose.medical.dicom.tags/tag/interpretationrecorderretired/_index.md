@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080102 VRPN VM1 Interpretation Recorder RETIRED.
 type: docs
 weight: 21030
-url: /aspose.medical.dicom.tags/tag/interpretationrecorderretired/
+url: /net/aspose.medical.dicom.tags/tag/interpretationrecorderretired/
 ---
 
 ## Tag.InterpretationRecorderRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A004B VRFL VM1 Snout Position Tolerance.
 type: docs
 weight: 43730
-url: /aspose.medical.dicom.tags/tag/snoutpositiontolerance/
+url: /net/aspose.medical.dicom.tags/tag/snoutpositiontolerance/
 ---
 
 ## Tag.SnoutPositionTolerance field

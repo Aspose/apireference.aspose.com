@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720108 VRFD VM4 Display Environment Spatial Position.
 type: docs
 weight: 12110
-url: /aspose.medical.dicom.tags/tag/displayenvironmentspatialposition/
+url: /net/aspose.medical.dicom.tags/tag/displayenvironmentspatialposition/
 ---
 
 ## Tag.DisplayEnvironmentSpatialPosition field

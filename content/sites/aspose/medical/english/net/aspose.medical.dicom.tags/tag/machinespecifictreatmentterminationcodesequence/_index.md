@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0716 VRSQ VM1 Machine-Specific Treatment Termination Code Sequence.
 type: docs
 weight: 23290
-url: /aspose.medical.dicom.tags/tag/machinespecifictreatmentterminationcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/machinespecifictreatmentterminationcodesequence/
 ---
 
 ## Tag.MachineSpecificTreatmentTerminationCodeSequence field

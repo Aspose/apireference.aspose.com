@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008040C VRUV VM1 File Offset in Container.
 type: docs
 weight: 15110
-url: /aspose.medical.dicom.tags/tag/fileoffsetincontainer/
+url: /net/aspose.medical.dicom.tags/tag/fileoffsetincontainer/
 ---
 
 ## Tag.FileOffsetInContainer field

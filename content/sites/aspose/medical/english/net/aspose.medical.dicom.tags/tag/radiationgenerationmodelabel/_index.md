@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A067C VRSH VM1 Radiation GenerationMode Label.
 type: docs
 weight: 34350
-url: /aspose.medical.dicom.tags/tag/radiationgenerationmodelabel/
+url: /net/aspose.medical.dicom.tags/tag/radiationgenerationmodelabel/
 ---
 
 ## Tag.RadiationGenerationModeLabel field

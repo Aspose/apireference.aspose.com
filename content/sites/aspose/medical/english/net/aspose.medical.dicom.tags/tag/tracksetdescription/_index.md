@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660107 VRUT VM1 Track Set Description.
 type: docs
 weight: 49110
-url: /aspose.medical.dicom.tags/tag/tracksetdescription/
+url: /net/aspose.medical.dicom.tags/tag/tracksetdescription/
 ---
 
 ## Tag.TrackSetDescription field

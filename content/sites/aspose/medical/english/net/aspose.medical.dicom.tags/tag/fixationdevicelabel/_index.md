@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0194 VRSH VM1 Fixation Device Label.
 type: docs
 weight: 15650
-url: /aspose.medical.dicom.tags/tag/fixationdevicelabel/
+url: /net/aspose.medical.dicom.tags/tag/fixationdevicelabel/
 ---
 
 ## Tag.FixationDeviceLabel field

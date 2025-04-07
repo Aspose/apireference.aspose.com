@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180094 VRDS VM1 Percent Phase Field of View.
 type: docs
 weight: 30580
-url: /aspose.medical.dicom.tags/tag/percentphasefieldofview/
+url: /net/aspose.medical.dicom.tags/tag/percentphasefieldofview/
 ---
 
 ## Tag.PercentPhaseFieldOfView field

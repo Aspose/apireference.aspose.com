@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660034 VRSQ VM1 Facet Sequence.
 type: docs
 weight: 14760
-url: /aspose.medical.dicom.tags/tag/facetsequence/
+url: /net/aspose.medical.dicom.tags/tag/facetsequence/
 ---
 
 ## Tag.FacetSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146013 VRDS VM1 Horizontal Laser Spot Dimension RETIRED.
 type: docs
 weight: 18490
-url: /aspose.medical.dicom.tags/tag/horizontallaserspotdimensionretired/
+url: /net/aspose.medical.dicom.tags/tag/horizontallaserspotdimensionretired/
 ---
 
 ## Tag.HorizontalLaserSpotDimensionRETIRED field

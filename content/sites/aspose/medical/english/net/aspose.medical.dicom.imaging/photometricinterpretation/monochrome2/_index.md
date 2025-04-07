@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Pixel data represent a single monochrome image plane. The minimum sample value is intended to be displayed as black after any VOI gray scale transformations have been performed. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_c.7.6.3.htmlsect_C.7.6.3.1.2textin20PS3.520.-MONOCHROME2-Pixel20data20represent. This value may be used only when Samples per Pixel 00280002 has a value of 1. Read-only PhotometricInterpretationaspose.medical.dicom.imaging/photometricinterpretation.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.imaging/photometricinterpretation/monochrome2/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/monochrome2/
 ---
 
 ## PhotometricInterpretation.Monochrome2 property

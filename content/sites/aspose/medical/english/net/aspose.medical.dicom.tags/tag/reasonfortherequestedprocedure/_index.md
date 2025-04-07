@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401002 VRLO VM1 Reason for the Requested Procedure.
 type: docs
 weight: 35230
-url: /aspose.medical.dicom.tags/tag/reasonfortherequestedprocedure/
+url: /net/aspose.medical.dicom.tags/tag/reasonfortherequestedprocedure/
 ---
 
 ## Tag.ReasonForTheRequestedProcedure field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20000069 VRCS VM1 Presentation LUT Flag RETIRED.
 type: docs
 weight: 32570
-url: /aspose.medical.dicom.tags/tag/presentationlutflagretired/
+url: /net/aspose.medical.dicom.tags/tag/presentationlutflagretired/
 ---
 
 ## Tag.PresentationLUTFlagRETIRED field

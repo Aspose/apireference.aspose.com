@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class X-Ray 3D Craniofacial Image Storage.
 type: docs
 weight: 5200
-url: /aspose.medical.dicom/uid/xray3dcraniofacialimagestorage/
+url: /net/aspose.medical.dicom/uid/xray3dcraniofacialimagestorage/
 ---
 
 ## Uid.XRay3DCraniofacialImageStorage field

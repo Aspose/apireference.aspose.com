@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181161 VRLO VM1-n Type of Filters.
 type: docs
 weight: 50290
-url: /aspose.medical.dicom.tags/tag/typeoffilters/
+url: /net/aspose.medical.dicom.tags/tag/typeoffilters/
 ---
 
 ## Tag.TypeOfFilters field

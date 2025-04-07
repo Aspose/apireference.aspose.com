@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Universal Resource Identifier or Universal Resource Locator UR VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextDICOM20Value20Representations-UR-Universal20Resource20Identifier.
 type: docs
 weight: 520
-url: /aspose.medical.dicom.elements/universalresource/
+url: /net/aspose.medical.dicom.elements/universalresource/
 ---
 
 ## UniversalResource class

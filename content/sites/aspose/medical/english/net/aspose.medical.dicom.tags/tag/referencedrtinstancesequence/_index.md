@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0631 VRSQ VM1 Referenced RT Instance Sequence.
 type: docs
 weight: 37160
-url: /aspose.medical.dicom.tags/tag/referencedrtinstancesequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedrtinstancesequence/
 ---
 
 ## Tag.ReferencedRTInstanceSequence field

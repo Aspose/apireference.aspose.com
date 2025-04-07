@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400027 VRSQ VM1 Order Filler Identifier Sequence.
 type: docs
 weight: 28400
-url: /aspose.medical.dicom.tags/tag/orderfilleridentifiersequence/
+url: /net/aspose.medical.dicom.tags/tag/orderfilleridentifiersequence/
 ---
 
 ## Tag.OrderFillerIdentifierSequence field

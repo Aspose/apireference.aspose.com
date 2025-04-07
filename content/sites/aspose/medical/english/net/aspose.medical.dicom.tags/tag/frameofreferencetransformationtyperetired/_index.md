@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300600C4 VRCS VM1 Frame of Reference Transformation Type RETIRED.
 type: docs
 weight: 16690
-url: /aspose.medical.dicom.tags/tag/frameofreferencetransformationtyperetired/
+url: /net/aspose.medical.dicom.tags/tag/frameofreferencetransformationtyperetired/
 ---
 
 ## Tag.FrameOfReferenceTransformationTypeRETIRED field

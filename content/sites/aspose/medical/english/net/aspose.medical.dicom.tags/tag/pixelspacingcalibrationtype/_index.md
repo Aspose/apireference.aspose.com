@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280A02 VRCS VM1 Pixel Spacing Calibration Type.
 type: docs
 weight: 31570
-url: /aspose.medical.dicom.tags/tag/pixelspacingcalibrationtype/
+url: /net/aspose.medical.dicom.tags/tag/pixelspacingcalibrationtype/
 ---
 
 ## Tag.PixelSpacingCalibrationType field

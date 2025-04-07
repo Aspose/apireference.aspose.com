@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520012 VRUS VM1 A-lines Per Frame.
 type: docs
 weight: 1260
-url: /aspose.medical.dicom.tags/tag/alinesperframe/
+url: /net/aspose.medical.dicom.tags/tag/alinesperframe/
 ---
 
 ## Tag.ALinesPerFrame field

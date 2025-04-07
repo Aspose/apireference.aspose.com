@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0062000F VRSQ VM1 Segmented Property Type Code Sequence.
 type: docs
 weight: 42110
-url: /aspose.medical.dicom.tags/tag/segmentedpropertytypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/segmentedpropertytypecodesequence/
 ---
 
 ## Tag.SegmentedPropertyTypeCodeSequence field

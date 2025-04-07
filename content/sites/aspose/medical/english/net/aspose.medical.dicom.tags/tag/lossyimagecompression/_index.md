@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00282110 VRCS VM1 Lossy Image Compression.
 type: docs
 weight: 23060
-url: /aspose.medical.dicom.tags/tag/lossyimagecompression/
+url: /net/aspose.medical.dicom.tags/tag/lossyimagecompression/
 ---
 
 ## Tag.LossyImageCompression field

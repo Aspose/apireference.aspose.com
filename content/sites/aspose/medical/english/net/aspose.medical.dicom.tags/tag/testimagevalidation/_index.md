@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028702B VRCS VM1 Test Image Validation.
 type: docs
 weight: 47740
-url: /aspose.medical.dicom.tags/tag/testimagevalidation/
+url: /net/aspose.medical.dicom.tags/tag/testimagevalidation/
 ---
 
 ## Tag.TestImageValidation field

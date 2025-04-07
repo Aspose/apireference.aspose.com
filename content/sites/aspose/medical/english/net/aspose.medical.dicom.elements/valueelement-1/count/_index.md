@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The number of elements contained in this element. Read-only Int32.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/valueelement-1/count/
+url: /net/aspose.medical.dicom.elements/valueelement-1/count/
 ---
 
 ## ValueElement&lt;T&gt;.Count property

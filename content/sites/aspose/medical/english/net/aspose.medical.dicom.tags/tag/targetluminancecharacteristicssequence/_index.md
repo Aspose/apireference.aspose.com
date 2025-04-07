@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287008 VRSQ VM1 Target Luminance Characteristics Sequence.
 type: docs
 weight: 47360
-url: /aspose.medical.dicom.tags/tag/targetluminancecharacteristicssequence/
+url: /net/aspose.medical.dicom.tags/tag/targetluminancecharacteristicssequence/
 ---
 
 ## Tag.TargetLuminanceCharacteristicsSequence field

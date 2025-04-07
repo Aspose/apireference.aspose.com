@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100217 VRLO VM1 Strain Source.
 type: docs
 weight: 45770
-url: /aspose.medical.dicom.tags/tag/strainsource/
+url: /net/aspose.medical.dicom.tags/tag/strainsource/
 ---
 
 ## Tag.StrainSource field

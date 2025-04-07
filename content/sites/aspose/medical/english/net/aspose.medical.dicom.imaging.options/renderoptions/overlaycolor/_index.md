@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The color used for displaying DICOM overlays. Default is white Whiteaspose.medical.imaging.pixelformats/bgra32/white. Read-only Bgra32aspose.medical.imaging.pixelformats/bgra32
 type: docs
 weight: 30
-url: /aspose.medical.dicom.imaging.options/renderoptions/overlaycolor/
+url: /net/aspose.medical.dicom.imaging.options/renderoptions/overlaycolor/
 ---
 
 ## RenderOptions.OverlayColor property

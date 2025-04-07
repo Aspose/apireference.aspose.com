@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160027 VRUS VM1 Metering Mode.
 type: docs
 weight: 24470
-url: /aspose.medical.dicom.tags/tag/meteringmode/
+url: /net/aspose.medical.dicom.tags/tag/meteringmode/
 ---
 
 ## Tag.MeteringMode field

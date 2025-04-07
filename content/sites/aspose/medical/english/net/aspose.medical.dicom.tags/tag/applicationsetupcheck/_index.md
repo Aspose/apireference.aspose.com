@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080116 VRCS VM1 Application Setup Check.
 type: docs
 weight: 2080
-url: /aspose.medical.dicom.tags/tag/applicationsetupcheck/
+url: /net/aspose.medical.dicom.tags/tag/applicationsetupcheck/
 ---
 
 ## Tag.ApplicationSetupCheck field

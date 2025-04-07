@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100022 VRCS VM1 Type of Patient ID.
 type: docs
 weight: 50320
-url: /aspose.medical.dicom.tags/tag/typeofpatientid/
+url: /net/aspose.medical.dicom.tags/tag/typeofpatientid/
 ---
 
 ## Tag.TypeOfPatientID field

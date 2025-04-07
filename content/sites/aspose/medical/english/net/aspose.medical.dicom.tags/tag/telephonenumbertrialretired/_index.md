@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A354 VRLO VM1 Telephone Number Trial RETIRED.
 type: docs
 weight: 47480
-url: /aspose.medical.dicom.tags/tag/telephonenumbertrialretired/
+url: /net/aspose.medical.dicom.tags/tag/telephonenumbertrialretired/
 ---
 
 ## Tag.TelephoneNumberTrialRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080001 VRUL VM1 Length to End RETIRED.
 type: docs
 weight: 22550
-url: /aspose.medical.dicom.tags/tag/lengthtoendretired/
+url: /net/aspose.medical.dicom.tags/tag/lengthtoendretired/
 ---
 
 ## Tag.LengthToEndRETIRED field

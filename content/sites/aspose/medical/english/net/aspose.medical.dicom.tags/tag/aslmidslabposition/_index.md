@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189256 VRFD VM3 ASL Mid Slab Position.
 type: docs
 weight: 2430
-url: /aspose.medical.dicom.tags/tag/aslmidslabposition/
+url: /net/aspose.medical.dicom.tags/tag/aslmidslabposition/
 ---
 
 ## Tag.ASLMidSlabPosition field

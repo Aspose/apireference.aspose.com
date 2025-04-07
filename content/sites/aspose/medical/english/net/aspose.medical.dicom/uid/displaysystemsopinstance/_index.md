@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Well-known SOP Instance Display System SOP Instance.
 type: docs
 weight: 1280
-url: /aspose.medical.dicom/uid/displaysystemsopinstance/
+url: /net/aspose.medical.dicom/uid/displaysystemsopinstance/
 ---
 
 ## Uid.DisplaySystemSOPInstance field

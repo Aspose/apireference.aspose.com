@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541324 VRDS VM1 Dead Time Factor.
 type: docs
 weight: 10190
-url: /aspose.medical.dicom.tags/tag/deadtimefactor/
+url: /net/aspose.medical.dicom.tags/tag/deadtimefactor/
 ---
 
 ## Tag.DeadTimeFactor field

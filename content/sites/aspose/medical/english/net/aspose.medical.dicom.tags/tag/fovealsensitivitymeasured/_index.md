@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240086 VRCS VM1 Foveal Sensitivity Measured.
 type: docs
 weight: 16290
-url: /aspose.medical.dicom.tags/tag/fovealsensitivitymeasured/
+url: /net/aspose.medical.dicom.tags/tag/fovealsensitivitymeasured/
 ---
 
 ## Tag.FovealSensitivityMeasured field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C006A VRIS VM1 Referenced Patient Setup Number.
 type: docs
 weight: 36880
-url: /aspose.medical.dicom.tags/tag/referencedpatientsetupnumber/
+url: /net/aspose.medical.dicom.tags/tag/referencedpatientsetupnumber/
 ---
 
 ## Tag.ReferencedPatientSetupNumber field

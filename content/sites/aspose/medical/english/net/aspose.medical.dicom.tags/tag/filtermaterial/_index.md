@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187050 VRCS VM1-n Filter Material.
 type: docs
 weight: 15410
-url: /aspose.medical.dicom.tags/tag/filtermaterial/
+url: /net/aspose.medical.dicom.tags/tag/filtermaterial/
 ---
 
 ## Tag.FilterMaterial field

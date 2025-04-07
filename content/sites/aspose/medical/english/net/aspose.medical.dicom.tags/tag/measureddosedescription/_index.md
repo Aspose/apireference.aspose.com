@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080012 VRST VM1 Measured Dose Description.
 type: docs
 weight: 24120
-url: /aspose.medical.dicom.tags/tag/measureddosedescription/
+url: /net/aspose.medical.dicom.tags/tag/measureddosedescription/
 ---
 
 ## Tag.MeasuredDoseDescription field

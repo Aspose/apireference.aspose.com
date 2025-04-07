@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741048 VRSQ VM1 Failed Attributes Sequence.
 type: docs
 weight: 14770
-url: /aspose.medical.dicom.tags/tag/failedattributessequence/
+url: /net/aspose.medical.dicom.tags/tag/failedattributessequence/
 ---
 
 ## Tag.FailedAttributesSequence field

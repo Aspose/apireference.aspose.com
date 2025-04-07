@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20200010 VRUS VM1 Image Box Position.
 type: docs
 weight: 18960
-url: /aspose.medical.dicom.tags/tag/imageboxposition/
+url: /net/aspose.medical.dicom.tags/tag/imageboxposition/
 ---
 
 ## Tag.ImageBoxPosition field

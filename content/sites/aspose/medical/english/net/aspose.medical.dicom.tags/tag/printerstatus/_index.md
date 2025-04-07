@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21100010 VRCS VM1 Printer Status.
 type: docs
 weight: 32910
-url: /aspose.medical.dicom.tags/tag/printerstatus/
+url: /net/aspose.medical.dicom.tags/tag/printerstatus/
 ---
 
 ## Tag.PrinterStatus field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0708 VRCS VM1 Treatment Delivery Continuation Flag.
 type: docs
 weight: 49620
-url: /aspose.medical.dicom.tags/tag/treatmentdeliverycontinuationflag/
+url: /net/aspose.medical.dicom.tags/tag/treatmentdeliverycontinuationflag/
 ---
 
 ## Tag.TreatmentDeliveryContinuationFlag field

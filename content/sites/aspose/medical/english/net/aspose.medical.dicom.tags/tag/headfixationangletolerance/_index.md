@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0152 VRDS VM1 Head Fixation Angle Tolerance.
 type: docs
 weight: 18270
-url: /aspose.medical.dicom.tags/tag/headfixationangletolerance/
+url: /net/aspose.medical.dicom.tags/tag/headfixationangletolerance/
 ---
 
 ## Tag.HeadFixationAngleTolerance field

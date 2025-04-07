@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018702A VRLO VM1 Detector Manufacturer Name.
 type: docs
 weight: 11100
-url: /aspose.medical.dicom.tags/tag/detectormanufacturername/
+url: /net/aspose.medical.dicom.tags/tag/detectormanufacturername/
 ---
 
 ## Tag.DetectorManufacturerName field

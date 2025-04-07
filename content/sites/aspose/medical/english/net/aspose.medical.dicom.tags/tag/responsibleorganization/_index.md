@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102299 VRLO VM1 Responsible Organization.
 type: docs
 weight: 39060
-url: /aspose.medical.dicom.tags/tag/responsibleorganization/
+url: /net/aspose.medical.dicom.tags/tag/responsibleorganization/
 ---
 
 ## Tag.ResponsibleOrganization field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300600A6 VRPN VM1 ROI Interpreter.
 type: docs
 weight: 39480
-url: /aspose.medical.dicom.tags/tag/roiinterpreter/
+url: /net/aspose.medical.dicom.tags/tag/roiinterpreter/
 ---
 
 ## Tag.ROIInterpreter field

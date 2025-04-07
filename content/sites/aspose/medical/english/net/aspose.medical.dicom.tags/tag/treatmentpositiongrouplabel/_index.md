@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0608 VRLO VM1 Treatment Position Group Label.
 type: docs
 weight: 49680
-url: /aspose.medical.dicom.tags/tag/treatmentpositiongrouplabel/
+url: /net/aspose.medical.dicom.tags/tag/treatmentpositiongrouplabel/
 ---
 
 ## Tag.TreatmentPositionGroupLabel field

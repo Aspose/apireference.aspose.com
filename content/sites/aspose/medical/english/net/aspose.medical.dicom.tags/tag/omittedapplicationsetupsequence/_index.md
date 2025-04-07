@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0074140E VRSQ VM1 Omitted Application Setup Sequence.
 type: docs
 weight: 27620
-url: /aspose.medical.dicom.tags/tag/omittedapplicationsetupsequence/
+url: /net/aspose.medical.dicom.tags/tag/omittedapplicationsetupsequence/
 ---
 
 ## Tag.OmittedApplicationSetupSequence field

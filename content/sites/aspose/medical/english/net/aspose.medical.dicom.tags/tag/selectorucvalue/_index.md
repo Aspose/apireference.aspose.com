@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072006F VRUC VM1-n Selector UC Value.
 type: docs
 weight: 42620
-url: /aspose.medical.dicom.tags/tag/selectorucvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorucvalue/
 ---
 
 ## Tag.SelectorUCValue field

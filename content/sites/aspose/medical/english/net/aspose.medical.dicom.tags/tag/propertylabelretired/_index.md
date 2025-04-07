@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142032 VRSH VM1 Property Label RETIRED.
 type: docs
 weight: 33610
-url: /aspose.medical.dicom.tags/tag/propertylabelretired/
+url: /net/aspose.medical.dicom.tags/tag/propertylabelretired/
 ---
 
 ## Tag.PropertyLabelRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00283003 VRLO VM1 LUT Explanation.
 type: docs
 weight: 23210
-url: /aspose.medical.dicom.tags/tag/lutexplanation/
+url: /net/aspose.medical.dicom.tags/tag/lutexplanation/
 ---
 
 ## Tag.LUTExplanation field

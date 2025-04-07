@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720004 VRLO VM1 Hanging Protocol Description.
 type: docs
 weight: 18170
-url: /aspose.medical.dicom.tags/tag/hangingprotocoldescription/
+url: /net/aspose.medical.dicom.tags/tag/hangingprotocoldescription/
 ---
 
 ## Tag.HangingProtocolDescription field

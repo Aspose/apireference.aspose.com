@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Deformable Spatial Registration Storage.
 type: docs
 weight: 600
-url: /aspose.medical.dicom/uid/deformablespatialregistrationstorage/
+url: /net/aspose.medical.dicom/uid/deformablespatialregistrationstorage/
 ---
 
 ## Uid.DeformableSpatialRegistrationStorage field

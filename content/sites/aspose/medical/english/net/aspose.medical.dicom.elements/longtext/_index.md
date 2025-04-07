@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Long Text LT VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextLT-Long20Text-A20character20string.
 type: docs
 weight: 290
-url: /aspose.medical.dicom.elements/longtext/
+url: /net/aspose.medical.dicom.elements/longtext/
 ---
 
 ## LongText class

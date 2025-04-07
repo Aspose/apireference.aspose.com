@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189172 VRCS VM1 Bulk Motion Compensation Technique.
 type: docs
 weight: 4730
-url: /aspose.medical.dicom.tags/tag/bulkmotioncompensationtechnique/
+url: /net/aspose.medical.dicom.tags/tag/bulkmotioncompensationtechnique/
 ---
 
 ## Tag.BulkMotionCompensationTechnique field

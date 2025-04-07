@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189093 VRUS VM1 Number of k-Space Trajectories.
 type: docs
 weight: 26490
-url: /aspose.medical.dicom.tags/tag/numberofkspacetrajectories/
+url: /net/aspose.medical.dicom.tags/tag/numberofkspacetrajectories/
 ---
 
 ## Tag.NumberOfKSpaceTrajectories field

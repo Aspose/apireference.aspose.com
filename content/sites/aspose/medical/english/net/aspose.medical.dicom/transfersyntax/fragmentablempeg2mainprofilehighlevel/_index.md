@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Fragmentable MPEG2 Main Profile / High Level 1.2.840.10008.1.2.4.101.1.
 type: docs
 weight: 50
-url: /aspose.medical.dicom/transfersyntax/fragmentablempeg2mainprofilehighlevel/
+url: /net/aspose.medical.dicom/transfersyntax/fragmentablempeg2mainprofilehighlevel/
 ---
 
 ## TransferSyntax.FragmentableMpeg2MainProfileHighLevel field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Converts the specified string representation of a date range to its DateRangeaspose.medical.dicom.elements/daterange equivalent.
 type: docs
 weight: 80
-url: /aspose.medical.dicom.elements/daterange/tryparseexact/
+url: /net/aspose.medical.dicom.elements/daterange/tryparseexact/
 ---
 
 ## DateRange.TryParseExact method

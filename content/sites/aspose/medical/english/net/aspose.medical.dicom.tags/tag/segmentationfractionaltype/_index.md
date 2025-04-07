@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00620010 VRCS VM1 Segmentation Fractional Type.
 type: docs
 weight: 41990
-url: /aspose.medical.dicom.tags/tag/segmentationfractionaltype/
+url: /net/aspose.medical.dicom.tags/tag/segmentationfractionaltype/
 ---
 
 ## Tag.SegmentationFractionalType field

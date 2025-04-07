@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189198 VRCS VM1 First Order Phase Correction.
 type: docs
 weight: 15590
-url: /aspose.medical.dicom.tags/tag/firstorderphasecorrection/
+url: /net/aspose.medical.dicom.tags/tag/firstorderphasecorrection/
 ---
 
 ## Tag.FirstOrderPhaseCorrection field

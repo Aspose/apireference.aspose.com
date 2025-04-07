@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Creates a new Dicom file with an anonymized dataset.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.anonymization/anonymizer/anonymize/
+url: /net/aspose.medical.dicom.anonymization/anonymizer/anonymize/
 ---
 
 ## Anonymize(DicomFile) {#anonymize_1}

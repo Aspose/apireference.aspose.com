@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081112 VRSQ VM1 Referenced Instances by SOP Class Sequence.
 type: docs
 weight: 36600
-url: /aspose.medical.dicom.tags/tag/referencedinstancesbysopclasssequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedinstancesbysopclasssequence/
 ---
 
 ## Tag.ReferencedInstancesBySOPClassSequence field

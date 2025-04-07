@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701B02 VRUS VM1 Blending Input Number.
 type: docs
 weight: 3820
-url: /aspose.medical.dicom.tags/tag/blendinginputnumber/
+url: /net/aspose.medical.dicom.tags/tag/blendinginputnumber/
 ---
 
 ## Tag.BlendingInputNumber field

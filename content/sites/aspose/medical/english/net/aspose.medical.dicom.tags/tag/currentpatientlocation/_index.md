@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380300 VRLO VM1 Current Patient Location.
 type: docs
 weight: 9420
-url: /aspose.medical.dicom.tags/tag/currentpatientlocation/
+url: /net/aspose.medical.dicom.tags/tag/currentpatientlocation/
 ---
 
 ## Tag.CurrentPatientLocation field

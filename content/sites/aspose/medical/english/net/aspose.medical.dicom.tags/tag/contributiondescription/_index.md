@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018A003 VRST VM1 Contribution Description.
 type: docs
 weight: 8480
-url: /aspose.medical.dicom.tags/tag/contributiondescription/
+url: /net/aspose.medical.dicom.tags/tag/contributiondescription/
 ---
 
 ## Tag.ContributionDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0011 VRUS VM1 Overlay Columns.
 type: docs
 weight: 28890
-url: /aspose.medical.dicom.tags/tag/overlaycolumns/
+url: /net/aspose.medical.dicom.tags/tag/overlaycolumns/
 ---
 
 ## Tag.OverlayColumns field

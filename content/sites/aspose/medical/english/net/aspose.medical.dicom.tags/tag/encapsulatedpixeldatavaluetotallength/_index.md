@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 7FE00003 VRUV VM1 Encapsulated Pixel Data Value Total Length.
 type: docs
 weight: 13500
-url: /aspose.medical.dicom.tags/tag/encapsulatedpixeldatavaluetotallength/
+url: /net/aspose.medical.dicom.tags/tag/encapsulatedpixeldatavaluetotallength/
 ---
 
 ## Tag.EncapsulatedPixelDataValueTotalLength field

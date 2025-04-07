@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014605B VRCS VM1 Operation on Time Axis Before Fitting RETIRED.
 type: docs
 weight: 27770
-url: /aspose.medical.dicom.tags/tag/operationontimeaxisbeforefittingretired/
+url: /net/aspose.medical.dicom.tags/tag/operationontimeaxisbeforefittingretired/
 ---
 
 ## Tag.OperationOnTimeAxisBeforeFittingRETIRED field

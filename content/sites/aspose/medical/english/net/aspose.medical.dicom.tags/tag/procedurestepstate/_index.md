@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741000 VRCS VM1 Procedure Step State.
 type: docs
 weight: 33470
-url: /aspose.medical.dicom.tags/tag/procedurestepstate/
+url: /net/aspose.medical.dicom.tags/tag/procedurestepstate/
 ---
 
 ## Tag.ProcedureStepState field

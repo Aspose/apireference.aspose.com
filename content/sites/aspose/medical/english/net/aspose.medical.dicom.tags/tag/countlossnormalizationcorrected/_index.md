@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189764 VRCS VM1 Count Loss Normalization Corrected.
 type: docs
 weight: 9000
-url: /aspose.medical.dicom.tags/tag/countlossnormalizationcorrected/
+url: /net/aspose.medical.dicom.tags/tag/countlossnormalizationcorrected/
 ---
 
 ## Tag.CountLossNormalizationCorrected field

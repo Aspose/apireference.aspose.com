@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040054 VRCS VM1 DVH Volume Units.
 type: docs
 weight: 13180
-url: /aspose.medical.dicom.tags/tag/dvhvolumeunits/
+url: /net/aspose.medical.dicom.tags/tag/dvhvolumeunits/
 ---
 
 ## Tag.DVHVolumeUnits field

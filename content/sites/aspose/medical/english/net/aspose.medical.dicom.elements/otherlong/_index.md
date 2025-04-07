@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Other Long OL VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextOL-Other20Long-A20stream20of.
 type: docs
 weight: 370
-url: /aspose.medical.dicom.elements/otherlong/
+url: /net/aspose.medical.dicom.elements/otherlong/
 ---
 
 ## OtherLong class

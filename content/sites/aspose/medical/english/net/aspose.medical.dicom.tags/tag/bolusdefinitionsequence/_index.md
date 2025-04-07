@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0673 VRSQ VM1 Bolus Definition Sequence.
 type: docs
 weight: 4260
-url: /aspose.medical.dicom.tags/tag/bolusdefinitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/bolusdefinitionsequence/
 ---
 
 ## Tag.BolusDefinitionSequence field

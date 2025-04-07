@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Protocol Approval Information Model - FIND.
 type: docs
 weight: 3760
-url: /aspose.medical.dicom/uid/protocolapprovalinformationmodelfind/
+url: /net/aspose.medical.dicom/uid/protocolapprovalinformationmodelfind/
 ---
 
 ## Uid.ProtocolApprovalInformationModelFIND field

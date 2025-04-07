@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 2200000D VRSQ VM1 Referenced Storage Media Sequence.
 type: docs
 weight: 37470
-url: /aspose.medical.dicom.tags/tag/referencedstoragemediasequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedstoragemediasequence/
 ---
 
 ## Tag.ReferencedStorageMediaSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A03A6 VRSQ VM1 Ion Block Sequence.
 type: docs
 weight: 21490
-url: /aspose.medical.dicom.tags/tag/ionblocksequence/
+url: /net/aspose.medical.dicom.tags/tag/ionblocksequence/
 ---
 
 ## Tag.IonBlockSequence field

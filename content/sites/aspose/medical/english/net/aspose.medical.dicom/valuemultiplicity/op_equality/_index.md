@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Determines whether two specified ValueMultiplicityaspose.medical.dicom/valuemultiplicity VM have the same value.
 type: docs
 weight: 240
-url: /aspose.medical.dicom/valuemultiplicity/op_equality/
+url: /net/aspose.medical.dicom/valuemultiplicity/op_equality/
 ---
 
 ## ValueMultiplicity Equality operator

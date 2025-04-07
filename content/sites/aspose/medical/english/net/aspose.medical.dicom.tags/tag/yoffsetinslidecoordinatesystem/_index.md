@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040073A VRDS VM1 Y Offset in Slide Coordinate System.
 type: docs
 weight: 52930
-url: /aspose.medical.dicom.tags/tag/yoffsetinslidecoordinatesystem/
+url: /net/aspose.medical.dicom.tags/tag/yoffsetinslidecoordinatesystem/
 ---
 
 ## Tag.YOffsetInSlideCoordinateSystem field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080042 VRDS VM1 Specified Meterset.
 type: docs
 weight: 44890
-url: /aspose.medical.dicom.tags/tag/specifiedmeterset/
+url: /net/aspose.medical.dicom.tags/tag/specifiedmeterset/
 ---
 
 ## Tag.SpecifiedMeterset field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280081 VRUS VM1 Predictor Columns RETIRED.
 type: docs
 weight: 32370
-url: /aspose.medical.dicom.tags/tag/predictorcolumnsretired/
+url: /net/aspose.medical.dicom.tags/tag/predictorcolumnsretired/
 ---
 
 ## Tag.PredictorColumnsRETIRED field

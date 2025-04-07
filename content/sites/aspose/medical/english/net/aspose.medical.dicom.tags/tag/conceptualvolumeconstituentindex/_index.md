@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010000D VRUS VM1 Conceptual Volume Constituent Index.
 type: docs
 weight: 7320
-url: /aspose.medical.dicom.tags/tag/conceptualvolumeconstituentindex/
+url: /net/aspose.medical.dicom.tags/tag/conceptualvolumeconstituentindex/
 ---
 
 ## Tag.ConceptualVolumeConstituentIndex field

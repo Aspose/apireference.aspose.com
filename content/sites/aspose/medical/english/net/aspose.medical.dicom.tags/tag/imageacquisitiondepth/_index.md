@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480117 VRFD VM1 Image Acquisition Depth.
 type: docs
 weight: 18870
-url: /aspose.medical.dicom.tags/tag/imageacquisitiondepth/
+url: /net/aspose.medical.dicom.tags/tag/imageacquisitiondepth/
 ---
 
 ## Tag.ImageAcquisitionDepth field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660130 VRSQ VM1 Track Statistics Sequence.
 type: docs
 weight: 49160
-url: /aspose.medical.dicom.tags/tag/trackstatisticssequence/
+url: /net/aspose.medical.dicom.tags/tag/trackstatisticssequence/
 ---
 
 ## Tag.TrackStatisticsSequence field

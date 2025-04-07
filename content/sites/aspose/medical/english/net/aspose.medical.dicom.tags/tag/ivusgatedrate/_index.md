@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00183102 VRDS VM1 IVUS Gated Rate.
 type: docs
 weight: 22020
-url: /aspose.medical.dicom.tags/tag/ivusgatedrate/
+url: /net/aspose.medical.dicom.tags/tag/ivusgatedrate/
 ---
 
 ## Tag.IVUSGatedRate field

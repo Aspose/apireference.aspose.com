@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Unsigned Short US.
 type: docs
 weight: 340
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/unsignedshort/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/unsignedshort/
 ---
 
 ## ValueRepresentation.UnsignedShort field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700243 VRCS VM1 Vertical Alignment.
 type: docs
 weight: 50980
-url: /aspose.medical.dicom.tags/tag/verticalalignment/
+url: /net/aspose.medical.dicom.tags/tag/verticalalignment/
 ---
 
 ## Tag.VerticalAlignment field

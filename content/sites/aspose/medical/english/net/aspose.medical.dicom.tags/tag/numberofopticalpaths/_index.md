@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480302 VRUL VM1 Number of Optical Paths.
 type: docs
 weight: 26560
-url: /aspose.medical.dicom.tags/tag/numberofopticalpaths/
+url: /net/aspose.medical.dicom.tags/tag/numberofopticalpaths/
 ---
 
 ## Tag.NumberOfOpticalPaths field

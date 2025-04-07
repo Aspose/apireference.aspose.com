@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0222 VRDS VM1 Notch Filter Frequency.
 type: docs
 weight: 26010
-url: /aspose.medical.dicom.tags/tag/notchfilterfrequency/
+url: /net/aspose.medical.dicom.tags/tag/notchfilterfrequency/
 ---
 
 ## Tag.NotchFilterFrequency field

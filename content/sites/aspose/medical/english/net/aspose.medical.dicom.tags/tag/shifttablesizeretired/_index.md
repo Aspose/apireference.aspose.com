@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 1000xxx4 VRUS VM1 Shift Table Size RETIRED.
 type: docs
 weight: 43220
-url: /aspose.medical.dicom.tags/tag/shifttablesizeretired/
+url: /net/aspose.medical.dicom.tags/tag/shifttablesizeretired/
 ---
 
 ## Tag.ShiftTableSizeRETIRED field

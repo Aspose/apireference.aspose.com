@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686540 VRLO VM1 Planning Landmark Description.
 type: docs
 weight: 31800
-url: /aspose.medical.dicom.tags/tag/planninglandmarkdescription/
+url: /net/aspose.medical.dicom.tags/tag/planninglandmarkdescription/
 ---
 
 ## Tag.PlanningLandmarkDescription field

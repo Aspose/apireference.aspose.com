@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0074100A VRUR VM1 Contact URI.
 type: docs
 weight: 7710
-url: /aspose.medical.dicom.tags/tag/contacturi/
+url: /net/aspose.medical.dicom.tags/tag/contacturi/
 ---
 
 ## Tag.ContactURI field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0070120C VRUS VM1-n Global Cropping Specification Index.
 type: docs
 weight: 17370
-url: /aspose.medical.dicom.tags/tag/globalcroppingspecificationindex/
+url: /net/aspose.medical.dicom.tags/tag/globalcroppingspecificationindex/
 ---
 
 ## Tag.GlobalCroppingSpecificationIndex field

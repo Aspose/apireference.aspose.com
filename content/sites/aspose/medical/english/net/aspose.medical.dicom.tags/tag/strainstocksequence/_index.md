@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100216 VRSQ VM1 Strain Stock Sequence.
 type: docs
 weight: 45800
-url: /aspose.medical.dicom.tags/tag/strainstocksequence/
+url: /net/aspose.medical.dicom.tags/tag/strainstocksequence/
 ---
 
 ## Tag.StrainStockSequence field

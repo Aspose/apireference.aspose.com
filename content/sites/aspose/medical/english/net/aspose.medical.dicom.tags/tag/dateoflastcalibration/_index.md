@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181200 VRDA VM1-n Date of Last Calibration.
 type: docs
 weight: 10080
-url: /aspose.medical.dicom.tags/tag/dateoflastcalibration/
+url: /net/aspose.medical.dicom.tags/tag/dateoflastcalibration/
 ---
 
 ## Tag.DateOfLastCalibration field

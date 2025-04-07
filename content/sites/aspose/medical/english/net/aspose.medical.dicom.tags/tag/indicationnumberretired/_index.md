@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142014 VRIS VM1 Indication Number RETIRED.
 type: docs
 weight: 20250
-url: /aspose.medical.dicom.tags/tag/indicationnumberretired/
+url: /net/aspose.medical.dicom.tags/tag/indicationnumberretired/
 ---
 
 ## Tag.IndicationNumberRETIRED field

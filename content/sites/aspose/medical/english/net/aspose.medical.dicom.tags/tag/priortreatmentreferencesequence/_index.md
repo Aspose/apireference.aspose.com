@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100062 VRSQ VM1 Prior Treatment Reference Sequence.
 type: docs
 weight: 33030
-url: /aspose.medical.dicom.tags/tag/priortreatmentreferencesequence/
+url: /net/aspose.medical.dicom.tags/tag/priortreatmentreferencesequence/
 ---
 
 ## Tag.PriorTreatmentReferenceSequence field

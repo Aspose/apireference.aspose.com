@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0108 VRSH VM1 Applicator ID.
 type: docs
 weight: 2180
-url: /aspose.medical.dicom.tags/tag/applicatorid/
+url: /net/aspose.medical.dicom.tags/tag/applicatorid/
 ---
 
 ## Tag.ApplicatorID field

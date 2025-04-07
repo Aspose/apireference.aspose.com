@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00286040 VRUS VM1-n R Wave Pointer.
 type: docs
 weight: 40840
-url: /aspose.medical.dicom.tags/tag/rwavepointer/
+url: /net/aspose.medical.dicom.tags/tag/rwavepointer/
 ---
 
 ## Tag.RWavePointer field

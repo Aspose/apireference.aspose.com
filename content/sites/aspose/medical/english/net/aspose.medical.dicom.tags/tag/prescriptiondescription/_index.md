@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A000E VRST VM1 Prescription Description.
 type: docs
 weight: 32440
-url: /aspose.medical.dicom.tags/tag/prescriptiondescription/
+url: /net/aspose.medical.dicom.tags/tag/prescriptiondescription/
 ---
 
 ## Tag.PrescriptionDescription field

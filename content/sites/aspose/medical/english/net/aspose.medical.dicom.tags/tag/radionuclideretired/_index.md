@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180030 VRLO VM1-n Radionuclide RETIRED.
 type: docs
 weight: 34560
-url: /aspose.medical.dicom.tags/tag/radionuclideretired/
+url: /net/aspose.medical.dicom.tags/tag/radionuclideretired/
 ---
 
 ## Tag.RadionuclideRETIRED field

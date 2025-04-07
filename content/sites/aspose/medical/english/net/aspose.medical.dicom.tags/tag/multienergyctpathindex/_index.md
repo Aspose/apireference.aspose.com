@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018937A VRUS VM1 Multi-energy CT Path Index.
 type: docs
 weight: 25430
-url: /aspose.medical.dicom.tags/tag/multienergyctpathindex/
+url: /net/aspose.medical.dicom.tags/tag/multienergyctpathindex/
 ---
 
 ## Tag.MultienergyCTPathIndex field

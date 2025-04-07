@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209156 VRUS VM1 Frame Acquisition Number.
 type: docs
 weight: 16460
-url: /aspose.medical.dicom.tags/tag/frameacquisitionnumber/
+url: /net/aspose.medical.dicom.tags/tag/frameacquisitionnumber/
 ---
 
 ## Tag.FrameAcquisitionNumber field

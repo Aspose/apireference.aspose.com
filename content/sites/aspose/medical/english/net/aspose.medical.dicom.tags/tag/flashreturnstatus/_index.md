@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160012 VRUS VM1 Flash Return Status.
 type: docs
 weight: 15890
-url: /aspose.medical.dicom.tags/tag/flashreturnstatus/
+url: /net/aspose.medical.dicom.tags/tag/flashreturnstatus/
 ---
 
 ## Tag.FlashReturnStatus field

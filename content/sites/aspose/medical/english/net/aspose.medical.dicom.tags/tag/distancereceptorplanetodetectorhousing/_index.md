@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189426 VRFL VM1 Distance Receptor Plane to Detector Housing.
 type: docs
 weight: 12390
-url: /aspose.medical.dicom.tags/tag/distancereceptorplanetodetectorhousing/
+url: /net/aspose.medical.dicom.tags/tag/distancereceptorplanetodetectorhousing/
 ---
 
 ## Tag.DistanceReceptorPlaneToDetectorHousing field

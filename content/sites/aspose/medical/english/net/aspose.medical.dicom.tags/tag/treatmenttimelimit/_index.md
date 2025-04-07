@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A062E VRFD VM1 Treatment Time Limit.
 type: docs
 weight: 49910
-url: /aspose.medical.dicom.tags/tag/treatmenttimelimit/
+url: /net/aspose.medical.dicom.tags/tag/treatmenttimelimit/
 ---
 
 ## Tag.TreatmentTimeLimit field

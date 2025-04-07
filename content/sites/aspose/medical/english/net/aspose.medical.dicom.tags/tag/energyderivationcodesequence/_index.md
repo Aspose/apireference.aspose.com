@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020133 VRSQ VM1 Energy Derivation Code Sequence.
 type: docs
 weight: 13610
-url: /aspose.medical.dicom.tags/tag/energyderivationcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/energyderivationcodesequence/
 ---
 
 ## Tag.EnergyDerivationCodeSequence field

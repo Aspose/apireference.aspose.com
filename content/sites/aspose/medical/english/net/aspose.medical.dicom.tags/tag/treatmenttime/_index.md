@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080251 VRTM VM1 Treatment Time.
 type: docs
 weight: 49900
-url: /aspose.medical.dicom.tags/tag/treatmenttime/
+url: /net/aspose.medical.dicom.tags/tag/treatmenttime/
 ---
 
 ## Tag.TreatmentTime field

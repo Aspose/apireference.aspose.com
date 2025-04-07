@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3006004D VRSQ VM1 ROI Creator Sequence.
 type: docs
 weight: 39380
-url: /aspose.medical.dicom.tags/tag/roicreatorsequence/
+url: /net/aspose.medical.dicom.tags/tag/roicreatorsequence/
 ---
 
 ## Tag.ROICreatorSequence field

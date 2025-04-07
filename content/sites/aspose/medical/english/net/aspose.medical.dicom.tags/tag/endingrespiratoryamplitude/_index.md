@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209248 VRFL VM1 Ending Respiratory Amplitude.
 type: docs
 weight: 13570
-url: /aspose.medical.dicom.tags/tag/endingrespiratoryamplitude/
+url: /net/aspose.medical.dicom.tags/tag/endingrespiratoryamplitude/
 ---
 
 ## Tag.EndingRespiratoryAmplitude field

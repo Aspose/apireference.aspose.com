@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0044 VRDS VM1 Gantry Angle Tolerance.
 type: docs
 weight: 16950
-url: /aspose.medical.dicom.tags/tag/gantryangletolerance/
+url: /net/aspose.medical.dicom.tags/tag/gantryangletolerance/
 ---
 
 ## Tag.GantryAngleTolerance field

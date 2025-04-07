@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Thermography Image Storage.
 type: docs
 weight: 4630
-url: /aspose.medical.dicom/uid/thermographyimagestorage/
+url: /net/aspose.medical.dicom/uid/thermographyimagestorage/
 ---
 
 ## Uid.ThermographyImageStorage field

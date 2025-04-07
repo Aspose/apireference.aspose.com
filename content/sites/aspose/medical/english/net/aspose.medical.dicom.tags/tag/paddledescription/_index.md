@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811A4 VRLO VM1 Paddle Description.
 type: docs
 weight: 29340
-url: /aspose.medical.dicom.tags/tag/paddledescription/
+url: /net/aspose.medical.dicom.tags/tag/paddledescription/
 ---
 
 ## Tag.PaddleDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014511B VRDS VM1 Wedge Total Width RETIRED.
 type: docs
 weight: 52400
-url: /aspose.medical.dicom.tags/tag/wedgetotalwidthretired/
+url: /net/aspose.medical.dicom.tags/tag/wedgetotalwidthretired/
 ---
 
 ## Tag.WedgeTotalWidthRETIRED field

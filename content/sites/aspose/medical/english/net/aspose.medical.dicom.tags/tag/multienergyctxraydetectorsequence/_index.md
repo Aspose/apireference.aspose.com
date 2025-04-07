@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018936F VRSQ VM1 Multi-energy CT X-Ray Detector Sequence.
 type: docs
 weight: 25460
-url: /aspose.medical.dicom.tags/tag/multienergyctxraydetectorsequence/
+url: /net/aspose.medical.dicom.tags/tag/multienergyctxraydetectorsequence/
 ---
 
 ## Tag.MultienergyCTXRayDetectorSequence field

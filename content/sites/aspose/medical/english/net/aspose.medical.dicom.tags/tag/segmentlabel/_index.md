@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00620005 VRLO VM1 Segment Label.
 type: docs
 weight: 42160
-url: /aspose.medical.dicom.tags/tag/segmentlabel/
+url: /net/aspose.medical.dicom.tags/tag/segmentlabel/
 ---
 
 ## Tag.SegmentLabel field

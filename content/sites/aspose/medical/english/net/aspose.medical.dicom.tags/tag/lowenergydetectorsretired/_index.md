@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40100001 VRCS VM1 Low Energy Detectors RETIRED.
 type: docs
 weight: 23100
-url: /aspose.medical.dicom.tags/tag/lowenergydetectorsretired/
+url: /net/aspose.medical.dicom.tags/tag/lowenergydetectorsretired/
 ---
 
 ## Tag.LowEnergyDetectorsRETIRED field

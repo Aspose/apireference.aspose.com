@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189457 VRCS VM1 Plane Identification.
 type: docs
 weight: 31680
-url: /aspose.medical.dicom.tags/tag/planeidentification/
+url: /net/aspose.medical.dicom.tags/tag/planeidentification/
 ---
 
 ## Tag.PlaneIdentification field

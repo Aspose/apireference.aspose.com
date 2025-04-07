@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Unknown Photometric Interpretation. Read-only PhotometricInterpretationaspose.medical.dicom.imaging/photometricinterpretation.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.imaging/photometricinterpretation/unknown/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/unknown/
 ---
 
 ## PhotometricInterpretation.Unknown property

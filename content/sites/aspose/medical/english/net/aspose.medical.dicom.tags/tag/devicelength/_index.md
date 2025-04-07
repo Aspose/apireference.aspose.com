@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00500014 VRDS VM1 Device Length.
 type: docs
 weight: 11360
-url: /aspose.medical.dicom.tags/tag/devicelength/
+url: /net/aspose.medical.dicom.tags/tag/devicelength/
 ---
 
 ## Tag.DeviceLength field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146027 VRDS VM1 Field of View RETIRED.
 type: docs
 weight: 15010
-url: /aspose.medical.dicom.tags/tag/fieldofviewretired/
+url: /net/aspose.medical.dicom.tags/tag/fieldofviewretired/
 ---
 
 ## Tag.FieldOfViewRETIRED field

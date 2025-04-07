@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520011 VRFD VM1 A-line Rate.
 type: docs
 weight: 1250
-url: /aspose.medical.dicom.tags/tag/alinerate/
+url: /net/aspose.medical.dicom.tags/tag/alinerate/
 ---
 
 ## Tag.ALineRate field

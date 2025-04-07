@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00182041 VRSQ VM1 Biopsy Target Sequence.
 type: docs
 weight: 3730
-url: /aspose.medical.dicom.tags/tag/biopsytargetsequence/
+url: /net/aspose.medical.dicom.tags/tag/biopsytargetsequence/
 ---
 
 ## Tag.BiopsyTargetSequence field

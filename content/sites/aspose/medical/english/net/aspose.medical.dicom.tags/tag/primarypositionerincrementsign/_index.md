@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189518 VRSS VM1 Primary Positioner Increment Sign.
 type: docs
 weight: 32800
-url: /aspose.medical.dicom.tags/tag/primarypositionerincrementsign/
+url: /net/aspose.medical.dicom.tags/tag/primarypositionerincrementsign/
 ---
 
 ## Tag.PrimaryPositionerIncrementSign field

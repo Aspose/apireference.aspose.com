@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: High-Throughput JPEG 2000 with RPCL Options Image Compression Lossless Only 1.2.840.10008.1.2.4.202.
 type: docs
 weight: 160
-url: /aspose.medical.dicom/transfersyntax/htj2klosslessrpcl/
+url: /net/aspose.medical.dicom/transfersyntax/htj2klosslessrpcl/
 ---
 
 ## TransferSyntax.HTJ2KLosslessRPCL field

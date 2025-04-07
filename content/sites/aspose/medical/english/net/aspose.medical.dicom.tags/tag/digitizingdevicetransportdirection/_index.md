@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00182020 VRCS VM1 Digitizing Device Transport Direction.
 type: docs
 weight: 11830
-url: /aspose.medical.dicom.tags/tag/digitizingdevicetransportdirection/
+url: /net/aspose.medical.dicom.tags/tag/digitizingdevicetransportdirection/
 ---
 
 ## Tag.DigitizingDeviceTransportDirection field

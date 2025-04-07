@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460145 VRSQ VM1 Referenced Refractive Measurements Sequence.
 type: docs
 weight: 37100
-url: /aspose.medical.dicom.tags/tag/referencedrefractivemeasurementssequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedrefractivemeasurementssequence/
 ---
 
 ## Tag.ReferencedRefractiveMeasurementsSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189067 VRCS VM1 Baseline Correction.
 type: docs
 weight: 3210
-url: /aspose.medical.dicom.tags/tag/baselinecorrection/
+url: /net/aspose.medical.dicom.tags/tag/baselinecorrection/
 ---
 
 ## Tag.BaselineCorrection field

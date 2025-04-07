@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx2008 VRUL VM1 Sample Rate RETIRED.
 type: docs
 weight: 40900
-url: /aspose.medical.dicom.tags/tag/samplerateretired/
+url: /net/aspose.medical.dicom.tags/tag/samplerateretired/
 ---
 
 ## Tag.SampleRateRETIRED field

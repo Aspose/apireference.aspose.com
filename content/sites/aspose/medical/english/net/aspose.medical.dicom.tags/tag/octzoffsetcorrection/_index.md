@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520030 VRSS VM1 OCT Z Offset Correction.
 type: docs
 weight: 27500
-url: /aspose.medical.dicom.tags/tag/octzoffsetcorrection/
+url: /net/aspose.medical.dicom.tags/tag/octzoffsetcorrection/
 ---
 
 ## Tag.OCTZOffsetCorrection field

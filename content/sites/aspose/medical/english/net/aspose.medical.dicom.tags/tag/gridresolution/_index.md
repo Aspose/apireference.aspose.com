@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00640008 VRFD VM3 Grid Resolution.
 type: docs
 weight: 18090
-url: /aspose.medical.dicom.tags/tag/gridresolution/
+url: /net/aspose.medical.dicom.tags/tag/gridresolution/
 ---
 
 ## Tag.GridResolution field

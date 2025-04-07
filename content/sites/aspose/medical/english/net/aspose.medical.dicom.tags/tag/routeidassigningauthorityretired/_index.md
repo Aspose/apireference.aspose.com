@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101055 VRSH VM1 Route ID Assigning Authority RETIRED.
 type: docs
 weight: 39690
-url: /aspose.medical.dicom.tags/tag/routeidassigningauthorityretired/
+url: /net/aspose.medical.dicom.tags/tag/routeidassigningauthorityretired/
 ---
 
 ## Tag.RouteIDAssigningAuthorityRETIRED field

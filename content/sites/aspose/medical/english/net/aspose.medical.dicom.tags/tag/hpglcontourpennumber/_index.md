@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686310 VRUS VM1 HPGL Contour Pen Number.
 type: docs
 weight: 18550
-url: /aspose.medical.dicom.tags/tag/hpglcontourpennumber/
+url: /net/aspose.medical.dicom.tags/tag/hpglcontourpennumber/
 ---
 
 ## Tag.HPGLContourPenNumber field

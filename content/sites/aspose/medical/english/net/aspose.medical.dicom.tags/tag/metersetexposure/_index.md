@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020032 VRDS VM1 Meterset Exposure.
 type: docs
 weight: 24480
-url: /aspose.medical.dicom.tags/tag/metersetexposure/
+url: /net/aspose.medical.dicom.tags/tag/metersetexposure/
 ---
 
 ## Tag.MetersetExposure field

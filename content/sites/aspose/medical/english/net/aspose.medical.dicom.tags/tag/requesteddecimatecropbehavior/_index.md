@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20200040 VRCS VM1 Requested Decimate/Crop Behavior.
 type: docs
 weight: 38640
-url: /aspose.medical.dicom.tags/tag/requesteddecimatecropbehavior/
+url: /net/aspose.medical.dicom.tags/tag/requesteddecimatecropbehavior/
 ---
 
 ## Tag.RequestedDecimateCropBehavior field

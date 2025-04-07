@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100021 VRLO VM1 Issuer of Patient ID.
 type: docs
 weight: 21850
-url: /aspose.medical.dicom.tags/tag/issuerofpatientid/
+url: /net/aspose.medical.dicom.tags/tag/issuerofpatientid/
 ---
 
 ## Tag.IssuerOfPatientID field

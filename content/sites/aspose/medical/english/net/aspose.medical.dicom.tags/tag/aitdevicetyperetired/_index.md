@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101070 VRCS VM1 AIT Device Type RETIRED.
 type: docs
 weight: 1090
-url: /aspose.medical.dicom.tags/tag/aitdevicetyperetired/
+url: /net/aspose.medical.dicom.tags/tag/aitdevicetyperetired/
 ---
 
 ## Tag.AITDeviceTypeRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741008 VRSQ VM1 Procedure Step Communications URI Sequence.
 type: docs
 weight: 33390
-url: /aspose.medical.dicom.tags/tag/procedurestepcommunicationsurisequence/
+url: /net/aspose.medical.dicom.tags/tag/procedurestepcommunicationsurisequence/
 ---
 
 ## Tag.ProcedureStepCommunicationsURISequence field

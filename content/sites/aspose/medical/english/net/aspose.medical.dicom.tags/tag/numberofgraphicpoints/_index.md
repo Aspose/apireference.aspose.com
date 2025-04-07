@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700021 VRUS VM1 Number of Graphic Points.
 type: docs
 weight: 26450
-url: /aspose.medical.dicom.tags/tag/numberofgraphicpoints/
+url: /net/aspose.medical.dicom.tags/tag/numberofgraphicpoints/
 ---
 
 ## Tag.NumberOfGraphicPoints field

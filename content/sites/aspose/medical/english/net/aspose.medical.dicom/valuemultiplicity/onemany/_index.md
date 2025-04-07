@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: VM 1-n.
 type: docs
 weight: 40
-url: /aspose.medical.dicom/valuemultiplicity/onemany/
+url: /net/aspose.medical.dicom/valuemultiplicity/onemany/
 ---
 
 ## ValueMultiplicity.OneMany field

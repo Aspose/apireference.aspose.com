@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400316 VRDS VM1 Organ Dose.
 type: docs
 weight: 28470
-url: /aspose.medical.dicom.tags/tag/organdose/
+url: /net/aspose.medical.dicom.tags/tag/organdose/
 ---
 
 ## Tag.OrganDose field

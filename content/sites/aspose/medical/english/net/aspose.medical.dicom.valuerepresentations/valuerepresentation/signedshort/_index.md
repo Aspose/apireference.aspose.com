@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Signed Short SS.
 type: docs
 weight: 250
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/signedshort/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/signedshort/
 ---
 
 ## ValueRepresentation.SignedShort field

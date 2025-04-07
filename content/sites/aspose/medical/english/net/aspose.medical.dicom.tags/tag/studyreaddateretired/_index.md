@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00320034 VRDA VM1 Study Read Date RETIRED.
 type: docs
 weight: 46060
-url: /aspose.medical.dicom.tags/tag/studyreaddateretired/
+url: /net/aspose.medical.dicom.tags/tag/studyreaddateretired/
 ---
 
 ## Tag.StudyReadDateRETIRED field

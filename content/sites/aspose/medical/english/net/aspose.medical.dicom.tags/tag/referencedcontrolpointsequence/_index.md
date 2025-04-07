@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C00F2 VRSQ VM1 Referenced Control Point Sequence.
 type: docs
 weight: 36200
-url: /aspose.medical.dicom.tags/tag/referencedcontrolpointsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedcontrolpointsequence/
 ---
 
 ## Tag.ReferencedControlPointSequence field

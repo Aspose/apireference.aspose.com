@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540020 VRUS VM1-n Detector Vector.
 type: docs
 weight: 11210
-url: /aspose.medical.dicom.tags/tag/detectorvector/
+url: /net/aspose.medical.dicom.tags/tag/detectorvector/
 ---
 
 ## Tag.DetectorVector field

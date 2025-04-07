@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00101050 VRLO VM1-n Insurance Plan Identification RETIRED.
 type: docs
 weight: 20650
-url: /aspose.medical.dicom.tags/tag/insuranceplanidentificationretired/
+url: /net/aspose.medical.dicom.tags/tag/insuranceplanidentificationretired/
 ---
 
 ## Tag.InsurancePlanIdentificationRETIRED field

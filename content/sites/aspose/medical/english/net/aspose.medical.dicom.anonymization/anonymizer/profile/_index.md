@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Confidentiality profile that controls anonymization operation.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.anonymization/anonymizer/profile/
+url: /net/aspose.medical.dicom.anonymization/anonymizer/profile/
 ---
 
 ## Anonymizer.Profile property

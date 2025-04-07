@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00402004 VRDA VM1 Issue Date of Imaging Service Request.
 type: docs
 weight: 21750
-url: /aspose.medical.dicom.tags/tag/issuedateofimagingservicerequest/
+url: /net/aspose.medical.dicom.tags/tag/issuedateofimagingservicerequest/
 ---
 
 ## Tag.IssueDateOfImagingServiceRequest field

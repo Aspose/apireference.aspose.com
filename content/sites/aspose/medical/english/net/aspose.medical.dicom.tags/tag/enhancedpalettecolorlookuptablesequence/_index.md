@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028140B VRSQ VM1 Enhanced Palette Color Lookup Table Sequence.
 type: docs
 weight: 13730
-url: /aspose.medical.dicom.tags/tag/enhancedpalettecolorlookuptablesequence/
+url: /net/aspose.medical.dicom.tags/tag/enhancedpalettecolorlookuptablesequence/
 ---
 
 ## Tag.EnhancedPaletteColorLookupTableSequence field

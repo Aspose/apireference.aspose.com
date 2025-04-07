@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181272 VRSQ VM1 Water Equivalent Diameter Calculation Method Code Sequence.
 type: docs
 weight: 51860
-url: /aspose.medical.dicom.tags/tag/waterequivalentdiametercalculationmethodcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/waterequivalentdiametercalculationmethodcodesequence/
 ---
 
 ## Tag.WaterEquivalentDiameterCalculationMethodCodeSequence field

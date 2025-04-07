@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660011 VRSQ VM1 Surface Points Sequence.
 type: docs
 weight: 46440
-url: /aspose.medical.dicom.tags/tag/surfacepointssequence/
+url: /net/aspose.medical.dicom.tags/tag/surfacepointssequence/
 ---
 
 ## Tag.SurfacePointsSequence field

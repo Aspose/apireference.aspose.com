@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020010 VRUI VM1 Transfer Syntax UID.
 type: docs
 weight: 49360
-url: /aspose.medical.dicom.tags/tag/transfersyntaxuid/
+url: /net/aspose.medical.dicom.tags/tag/transfersyntaxuid/
 ---
 
 ## Tag.TransferSyntaxUID field

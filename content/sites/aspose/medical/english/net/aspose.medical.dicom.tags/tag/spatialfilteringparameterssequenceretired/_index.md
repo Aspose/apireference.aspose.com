@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146052 VRSQ VM1 Spatial Filtering Parameters Sequence RETIRED.
 type: docs
 weight: 44700
-url: /aspose.medical.dicom.tags/tag/spatialfilteringparameterssequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/spatialfilteringparameterssequenceretired/
 ---
 
 ## Tag.SpatialFilteringParametersSequenceRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289235 VRCS VM1 Signal Domain Rows.
 type: docs
 weight: 43470
-url: /aspose.medical.dicom.tags/tag/signaldomainrows/
+url: /net/aspose.medical.dicom.tags/tag/signaldomainrows/
 ---
 
 ## Tag.SignalDomainRows field

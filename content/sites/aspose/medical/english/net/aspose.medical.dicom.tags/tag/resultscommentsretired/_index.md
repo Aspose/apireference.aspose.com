@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40084000 VRST VM1 Results Comments RETIRED.
 type: docs
 weight: 39100
-url: /aspose.medical.dicom.tags/tag/resultscommentsretired/
+url: /net/aspose.medical.dicom.tags/tag/resultscommentsretired/
 ---
 
 ## Tag.ResultsCommentsRETIRED field

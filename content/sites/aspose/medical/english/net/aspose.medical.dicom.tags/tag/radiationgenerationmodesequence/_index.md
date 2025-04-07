@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A067B VRSQ VM1 Radiation GenerationMode Sequence.
 type: docs
 weight: 34370
-url: /aspose.medical.dicom.tags/tag/radiationgenerationmodesequence/
+url: /net/aspose.medical.dicom.tags/tag/radiationgenerationmodesequence/
 ---
 
 ## Tag.RadiationGenerationModeSequence field

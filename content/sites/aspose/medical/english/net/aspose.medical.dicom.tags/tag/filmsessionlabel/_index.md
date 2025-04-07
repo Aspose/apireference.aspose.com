@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20000050 VRLO VM1 Film Session Label.
 type: docs
 weight: 15270
-url: /aspose.medical.dicom.tags/tag/filmsessionlabel/
+url: /net/aspose.medical.dicom.tags/tag/filmsessionlabel/
 ---
 
 ## Tag.FilmSessionLabel field

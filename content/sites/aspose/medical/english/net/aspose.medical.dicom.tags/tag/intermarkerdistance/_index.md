@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00500019 VRDS VM1 Inter-Marker Distance.
 type: docs
 weight: 20860
-url: /aspose.medical.dicom.tags/tag/intermarkerdistance/
+url: /net/aspose.medical.dicom.tags/tag/intermarkerdistance/
 ---
 
 ## Tag.InterMarkerDistance field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080307 VRCS VM1 Deidentification Action.
 type: docs
 weight: 10450
-url: /aspose.medical.dicom.tags/tag/deidentificationaction/
+url: /net/aspose.medical.dicom.tags/tag/deidentificationaction/
 ---
 
 ## Tag.DeidentificationAction field

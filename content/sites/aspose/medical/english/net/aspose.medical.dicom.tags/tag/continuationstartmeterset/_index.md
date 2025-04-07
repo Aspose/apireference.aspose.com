@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00740120 VRFD VM1 Continuation Start Meterset.
 type: docs
 weight: 8050
-url: /aspose.medical.dicom.tags/tag/continuationstartmeterset/
+url: /net/aspose.medical.dicom.tags/tag/continuationstartmeterset/
 ---
 
 ## Tag.ContinuationStartMeterset field

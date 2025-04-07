@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720310 VRCS VM1 Image Box Scroll Direction.
 type: docs
 weight: 18980
-url: /aspose.medical.dicom.tags/tag/imageboxscrolldirection/
+url: /net/aspose.medical.dicom.tags/tag/imageboxscrolldirection/
 ---
 
 ## Tag.ImageBoxScrollDirection field

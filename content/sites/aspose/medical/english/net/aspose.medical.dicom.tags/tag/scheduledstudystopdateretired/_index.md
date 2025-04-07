@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321010 VRDA VM1 Scheduled Study Stop Date RETIRED.
 type: docs
 weight: 41620
-url: /aspose.medical.dicom.tags/tag/scheduledstudystopdateretired/
+url: /net/aspose.medical.dicom.tags/tag/scheduledstudystopdateretired/
 ---
 
 ## Tag.ScheduledStudyStopDateRETIRED field

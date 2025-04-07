@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx0105 VRUS VM1-n Maximum Coordinate Value RETIRED.
 type: docs
 weight: 23910
-url: /aspose.medical.dicom.tags/tag/maximumcoordinatevalueretired/
+url: /net/aspose.medical.dicom.tags/tag/maximumcoordinatevalueretired/
 ---
 
 ## Tag.MaximumCoordinateValueRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686550 VRSQ VM1 2D Point Coordinates Sequence.
 type: docs
 weight: 50260
-url: /aspose.medical.dicom.tags/tag/twodpointcoordinatessequence/
+url: /net/aspose.medical.dicom.tags/tag/twodpointcoordinatessequence/
 ---
 
 ## Tag.TwoDPointCoordinatesSequence field

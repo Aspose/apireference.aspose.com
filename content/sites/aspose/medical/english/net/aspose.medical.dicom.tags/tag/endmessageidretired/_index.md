@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00005020 VRSH VM1 End Message ID RETIRED.
 type: docs
 weight: 13590
-url: /aspose.medical.dicom.tags/tag/endmessageidretired/
+url: /net/aspose.medical.dicom.tags/tag/endmessageidretired/
 ---
 
 ## Tag.EndMessageIDRETIRED field

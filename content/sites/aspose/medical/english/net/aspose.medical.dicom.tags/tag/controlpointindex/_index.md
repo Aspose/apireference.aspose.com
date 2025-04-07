@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0112 VRIS VM1 Control Point Index.
 type: docs
 weight: 8510
-url: /aspose.medical.dicom.tags/tag/controlpointindex/
+url: /net/aspose.medical.dicom.tags/tag/controlpointindex/
 ---
 
 ## Tag.ControlPointIndex field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181480 VRDS VM1 Tomo Time.
 type: docs
 weight: 48750
-url: /aspose.medical.dicom.tags/tag/tomotime/
+url: /net/aspose.medical.dicom.tags/tag/tomotime/
 ---
 
 ## Tag.TomoTime field

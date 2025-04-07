@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class X-Ray Radiation Dose SR Storage.
 type: docs
 weight: 5230
-url: /aspose.medical.dicom/uid/xrayradiationdosesrstorage/
+url: /net/aspose.medical.dicom/uid/xrayradiationdosesrstorage/
 ---
 
 ## Uid.XRayRadiationDoseSRStorage field

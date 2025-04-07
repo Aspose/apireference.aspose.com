@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189029 VRCS VM1 Oversampling Phase.
 type: docs
 weight: 29320
-url: /aspose.medical.dicom.tags/tag/oversamplingphase/
+url: /net/aspose.medical.dicom.tags/tag/oversamplingphase/
 ---
 
 ## Tag.OversamplingPhase field

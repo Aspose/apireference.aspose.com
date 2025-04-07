@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014600D VRDS VM1 Coil Frequency RETIRED.
 type: docs
 weight: 6280
-url: /aspose.medical.dicom.tags/tag/coilfrequencyretired/
+url: /net/aspose.medical.dicom.tags/tag/coilfrequencyretired/
 ---
 
 ## Tag.CoilFrequencyRETIRED field

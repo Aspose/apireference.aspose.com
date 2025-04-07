@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400306 VRDS VM1 Distance Source to Entrance.
 type: docs
 weight: 12420
-url: /aspose.medical.dicom.tags/tag/distancesourcetoentrance/
+url: /net/aspose.medical.dicom.tags/tag/distancesourcetoentrance/
 ---
 
 ## Tag.DistanceSourceToEntrance field

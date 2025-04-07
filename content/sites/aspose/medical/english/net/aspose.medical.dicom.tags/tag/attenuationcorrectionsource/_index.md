@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189738 VRCS VM1 Attenuation Correction Source.
 type: docs
 weight: 2760
-url: /aspose.medical.dicom.tags/tag/attenuationcorrectionsource/
+url: /net/aspose.medical.dicom.tags/tag/attenuationcorrectionsource/
 ---
 
 ## Tag.AttenuationCorrectionSource field

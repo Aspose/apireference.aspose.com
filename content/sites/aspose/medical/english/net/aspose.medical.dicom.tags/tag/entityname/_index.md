@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100036 VRLO VM1 Entity Name.
 type: docs
 weight: 13800
-url: /aspose.medical.dicom.tags/tag/entityname/
+url: /net/aspose.medical.dicom.tags/tag/entityname/
 ---
 
 ## Tag.EntityName field

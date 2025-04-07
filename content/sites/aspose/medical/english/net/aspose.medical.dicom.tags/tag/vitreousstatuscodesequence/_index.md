@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221025 VRSQ VM1 Vitreous Status Code Sequence.
 type: docs
 weight: 51540
-url: /aspose.medical.dicom.tags/tag/vitreousstatuscodesequence/
+url: /net/aspose.medical.dicom.tags/tag/vitreousstatuscodesequence/
 ---
 
 ## Tag.VitreousStatusCodeSequence field

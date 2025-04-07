@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080428 VRUV VM1 Total Number of Study Records.
 type: docs
 weight: 48940
-url: /aspose.medical.dicom.tags/tag/totalnumberofstudyrecords/
+url: /net/aspose.medical.dicom.tags/tag/totalnumberofstudyrecords/
 ---
 
 ## Tag.TotalNumberOfStudyRecords field

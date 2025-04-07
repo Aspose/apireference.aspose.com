@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: DICOM File Dataset. Read-only Datasetaspose.medical.dicom/dicomfile/dataset.
 type: docs
 weight: 30
-url: /aspose.medical.dicom/dicomfile/dataset/
+url: /net/aspose.medical.dicom/dicomfile/dataset/
 ---
 
 ## DicomFile.Dataset property

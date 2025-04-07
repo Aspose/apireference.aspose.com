@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187052 VRDS VM1-n Filter Thickness Minimum.
 type: docs
 weight: 15450
-url: /aspose.medical.dicom.tags/tag/filterthicknessminimum/
+url: /net/aspose.medical.dicom.tags/tag/filterthicknessminimum/
 ---
 
 ## Tag.FilterThicknessMinimum field

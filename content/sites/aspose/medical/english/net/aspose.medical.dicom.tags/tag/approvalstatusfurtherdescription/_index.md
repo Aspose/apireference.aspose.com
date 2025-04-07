@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440003 VRLT VM1 Approval Status Further Description.
 type: docs
 weight: 2290
-url: /aspose.medical.dicom.tags/tag/approvalstatusfurtherdescription/
+url: /net/aspose.medical.dicom.tags/tag/approvalstatusfurtherdescription/
 ---
 
 ## Tag.ApprovalStatusFurtherDescription field

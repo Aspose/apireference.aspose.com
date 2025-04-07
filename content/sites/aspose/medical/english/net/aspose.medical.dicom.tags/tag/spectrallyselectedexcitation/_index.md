@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189026 VRCS VM1 Spectrally Selected Excitation.
 type: docs
 weight: 45100
-url: /aspose.medical.dicom.tags/tag/spectrallyselectedexcitation/
+url: /net/aspose.medical.dicom.tags/tag/spectrallyselectedexcitation/
 ---
 
 ## Tag.SpectrallySelectedExcitation field

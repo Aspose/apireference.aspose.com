@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040002 VRCS VM1 Dose Units.
 type: docs
 weight: 12800
-url: /aspose.medical.dicom.tags/tag/doseunits/
+url: /net/aspose.medical.dicom.tags/tag/doseunits/
 ---
 
 ## Tag.DoseUnits field

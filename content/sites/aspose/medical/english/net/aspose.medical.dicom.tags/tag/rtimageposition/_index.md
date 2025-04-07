@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020012 VRDS VM2 RT Image Position.
 type: docs
 weight: 40210
-url: /aspose.medical.dicom.tags/tag/rtimageposition/
+url: /net/aspose.medical.dicom.tags/tag/rtimageposition/
 ---
 
 ## Tag.RTImagePosition field

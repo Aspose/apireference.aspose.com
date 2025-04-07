@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101033 VRUS VM1 Number of Total Objects RETIRED.
 type: docs
 weight: 27030
-url: /aspose.medical.dicom.tags/tag/numberoftotalobjectsretired/
+url: /net/aspose.medical.dicom.tags/tag/numberoftotalobjectsretired/
 ---
 
 ## Tag.NumberOfTotalObjectsRETIRED field

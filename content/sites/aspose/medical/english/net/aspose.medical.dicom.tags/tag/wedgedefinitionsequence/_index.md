@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0651 VRSQ VM1 Wedge Definition Sequence.
 type: docs
 weight: 52110
-url: /aspose.medical.dicom.tags/tag/wedgedefinitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/wedgedefinitionsequence/
 ---
 
 ## Tag.WedgeDefinitionSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018991C VRSQ VM1 Positioning Method Code Sequence.
 type: docs
 weight: 32130
-url: /aspose.medical.dicom.tags/tag/positioningmethodcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/positioningmethodcodesequence/
 ---
 
 ## Tag.PositioningMethodCodeSequence field

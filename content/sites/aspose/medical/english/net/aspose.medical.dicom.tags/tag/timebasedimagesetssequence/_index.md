@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720030 VRSQ VM1 Time Based Image Sets Sequence.
 type: docs
 weight: 48340
-url: /aspose.medical.dicom.tags/tag/timebasedimagesetssequence/
+url: /net/aspose.medical.dicom.tags/tag/timebasedimagesetssequence/
 ---
 
 ## Tag.TimeBasedImageSetsSequence field

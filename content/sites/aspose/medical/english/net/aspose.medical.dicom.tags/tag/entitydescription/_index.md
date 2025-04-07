@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100037 VRST VM1 Entity Description.
 type: docs
 weight: 13770
-url: /aspose.medical.dicom.tags/tag/entitydescription/
+url: /net/aspose.medical.dicom.tags/tag/entitydescription/
 ---
 
 ## Tag.EntityDescription field

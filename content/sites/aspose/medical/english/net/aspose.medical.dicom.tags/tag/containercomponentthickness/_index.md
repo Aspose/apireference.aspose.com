@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00500013 VRFD VM1 Container Component Thickness.
 type: docs
 weight: 7780
-url: /aspose.medical.dicom.tags/tag/containercomponentthickness/
+url: /net/aspose.medical.dicom.tags/tag/containercomponentthickness/
 ---
 
 ## Tag.ContainerComponentThickness field

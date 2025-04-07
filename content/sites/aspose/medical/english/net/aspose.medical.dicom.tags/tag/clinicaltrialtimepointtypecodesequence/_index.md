@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120054 VRSQ VM1 Clinical Trial Time Point Type Code Sequence.
 type: docs
 weight: 6040
-url: /aspose.medical.dicom.tags/tag/clinicaltrialtimepointtypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/clinicaltrialtimepointtypecodesequence/
 ---
 
 ## Tag.ClinicalTrialTimePointTypeCodeSequence field

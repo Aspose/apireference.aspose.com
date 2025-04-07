@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00402010 VRSH VM1 Order Callback Phone Number.
 type: docs
 weight: 28360
-url: /aspose.medical.dicom.tags/tag/ordercallbackphonenumber/
+url: /net/aspose.medical.dicom.tags/tag/ordercallbackphonenumber/
 ---
 
 ## Tag.OrderCallbackPhoneNumber field

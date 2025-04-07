@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220006 VRSQ VM1 Patient Eye Movement Command Code Sequence.
 type: docs
 weight: 29820
-url: /aspose.medical.dicom.tags/tag/patienteyemovementcommandcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/patienteyemovementcommandcodesequence/
 ---
 
 ## Tag.PatientEyeMovementCommandCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00D0 VRIS VM1 Number of Wedges.
 type: docs
 weight: 27160
-url: /aspose.medical.dicom.tags/tag/numberofwedges/
+url: /net/aspose.medical.dicom.tags/tag/numberofwedges/
 ---
 
 ## Tag.NumberOfWedges field

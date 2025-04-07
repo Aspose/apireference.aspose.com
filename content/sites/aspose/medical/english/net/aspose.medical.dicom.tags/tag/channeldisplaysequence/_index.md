@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0242 VRSQ VM1 Channel Display Sequence.
 type: docs
 weight: 5450
-url: /aspose.medical.dicom.tags/tag/channeldisplaysequence/
+url: /net/aspose.medical.dicom.tags/tag/channeldisplaysequence/
 ---
 
 ## Tag.ChannelDisplaySequence field

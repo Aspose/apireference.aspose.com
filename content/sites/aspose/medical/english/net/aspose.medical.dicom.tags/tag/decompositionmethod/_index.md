@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018937E VRCS VM1 Decomposition Method.
 type: docs
 weight: 10300
-url: /aspose.medical.dicom.tags/tag/decompositionmethod/
+url: /net/aspose.medical.dicom.tags/tag/decompositionmethod/
 ---
 
 ## Tag.DecompositionMethod field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321011 VRTM VM1 Scheduled Study Stop Time RETIRED.
 type: docs
 weight: 41630
-url: /aspose.medical.dicom.tags/tag/scheduledstudystoptimeretired/
+url: /net/aspose.medical.dicom.tags/tag/scheduledstudystoptimeretired/
 ---
 
 ## Tag.ScheduledStudyStopTimeRETIRED field

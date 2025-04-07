@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The lossy image compression method 00282114. Read-only String.
 type: docs
 weight: 110
-url: /aspose.medical.dicom.imaging/pixeldata/lossycompressionmethod/
+url: /net/aspose.medical.dicom.imaging/pixeldata/lossycompressionmethod/
 ---
 
 ## PixelData.LossyCompressionMethod property

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072005E VRAE VM1-n Selector AE Value.
 type: docs
 weight: 42280
-url: /aspose.medical.dicom.tags/tag/selectoraevalue/
+url: /net/aspose.medical.dicom.tags/tag/selectoraevalue/
 ---
 
 ## Tag.SelectorAEValue field

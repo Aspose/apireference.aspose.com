@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280050 VRLO VM1-n Manipulated Image RETIRED.
 type: docs
 weight: 23430
-url: /aspose.medical.dicom.tags/tag/manipulatedimageretired/
+url: /net/aspose.medical.dicom.tags/tag/manipulatedimageretired/
 ---
 
 ## Tag.ManipulatedImageRETIRED field

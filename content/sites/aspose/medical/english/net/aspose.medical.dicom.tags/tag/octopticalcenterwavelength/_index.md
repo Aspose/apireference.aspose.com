@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520007 VRFD VM1 OCT Optical Center Wavelength.
 type: docs
 weight: 27480
-url: /aspose.medical.dicom.tags/tag/octopticalcenterwavelength/
+url: /net/aspose.medical.dicom.tags/tag/octopticalcenterwavelength/
 ---
 
 ## Tag.OCTOpticalCenterWavelength field

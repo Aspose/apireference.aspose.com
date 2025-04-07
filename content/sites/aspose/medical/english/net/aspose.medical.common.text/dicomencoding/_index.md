@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Handles alternate character sets for DICOM character strings.
 type: docs
 weight: 10
-url: /aspose.medical.common.text/dicomencoding/
+url: /net/aspose.medical.common.text/dicomencoding/
 ---
 
 ## DicomEncoding class

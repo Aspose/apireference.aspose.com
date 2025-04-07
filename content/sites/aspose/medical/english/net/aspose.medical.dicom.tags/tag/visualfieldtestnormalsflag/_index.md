@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240063 VRCS VM1 Visual Field Test Normals Flag.
 type: docs
 weight: 51460
-url: /aspose.medical.dicom.tags/tag/visualfieldtestnormalsflag/
+url: /net/aspose.medical.dicom.tags/tag/visualfieldtestnormalsflag/
 ---
 
 ## Tag.VisualFieldTestNormalsFlag field

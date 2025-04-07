@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189020 VRCS VM1 Magnetization Transfer.
 type: docs
 weight: 23330
-url: /aspose.medical.dicom.tags/tag/magnetizationtransfer/
+url: /net/aspose.medical.dicom.tags/tag/magnetizationtransfer/
 ---
 
 ## Tag.MagnetizationTransfer field

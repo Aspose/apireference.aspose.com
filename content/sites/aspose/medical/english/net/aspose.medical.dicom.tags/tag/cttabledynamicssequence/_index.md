@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189308 VRSQ VM1 CT Table Dynamics Sequence.
 type: docs
 weight: 9300
-url: /aspose.medical.dicom.tags/tag/cttabledynamicssequence/
+url: /net/aspose.medical.dicom.tags/tag/cttabledynamicssequence/
 ---
 
 ## Tag.CTTableDynamicsSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186058 VRUL VM1-n Table of Pixel Values.
 type: docs
 weight: 46840
-url: /aspose.medical.dicom.tags/tag/tableofpixelvalues/
+url: /net/aspose.medical.dicom.tags/tag/tableofpixelvalues/
 ---
 
 ## Tag.TableOfPixelValues field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160036 VRDS VM1-2 Flash Energy.
 type: docs
 weight: 15810
-url: /aspose.medical.dicom.tags/tag/flashenergy/
+url: /net/aspose.medical.dicom.tags/tag/flashenergy/
 ---
 
 ## Tag.FlashEnergy field

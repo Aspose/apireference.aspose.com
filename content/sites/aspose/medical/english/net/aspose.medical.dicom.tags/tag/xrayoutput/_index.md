@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400312 VRDS VM1 X-Ray Output.
 type: docs
 weight: 52820
-url: /aspose.medical.dicom.tags/tag/xrayoutput/
+url: /net/aspose.medical.dicom.tags/tag/xrayoutput/
 ---
 
 ## Tag.XRayOutput field

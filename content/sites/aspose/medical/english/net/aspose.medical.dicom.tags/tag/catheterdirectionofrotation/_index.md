@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520031 VRCS VM1 Catheter Direction of Rotation.
 type: docs
 weight: 5200
-url: /aspose.medical.dicom.tags/tag/catheterdirectionofrotation/
+url: /net/aspose.medical.dicom.tags/tag/catheterdirectionofrotation/
 ---
 
 ## Tag.CatheterDirectionOfRotation field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540039 VRCS VM1 Phase Description.
 type: docs
 weight: 31100
-url: /aspose.medical.dicom.tags/tag/phasedescription/
+url: /net/aspose.medical.dicom.tags/tag/phasedescription/
 ---
 
 ## Tag.PhaseDescription field

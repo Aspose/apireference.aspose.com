@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0155 VRDS VM1 Fixation Light Polar Angle Tolerance.
 type: docs
 weight: 15750
-url: /aspose.medical.dicom.tags/tag/fixationlightpolarangletolerance/
+url: /net/aspose.medical.dicom.tags/tag/fixationlightpolarangletolerance/
 ---
 
 ## Tag.FixationLightPolarAngleTolerance field

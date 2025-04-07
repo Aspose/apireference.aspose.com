@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100085 VRTM VM1-n Intended Fraction Start Time.
 type: docs
 weight: 20680
-url: /aspose.medical.dicom.tags/tag/intendedfractionstarttime/
+url: /net/aspose.medical.dicom.tags/tag/intendedfractionstarttime/
 ---
 
 ## Tag.IntendedFractionStartTime field

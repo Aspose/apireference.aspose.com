@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081050 VRPN VM1-n Performing Physicians Name.
 type: docs
 weight: 30850
-url: /aspose.medical.dicom.tags/tag/performingphysicianname/
+url: /net/aspose.medical.dicom.tags/tag/performingphysicianname/
 ---
 
 ## Tag.PerformingPhysicianName field

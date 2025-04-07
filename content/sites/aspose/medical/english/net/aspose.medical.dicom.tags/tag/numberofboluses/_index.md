@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0674 VRUS VM1 Number of Boluses.
 type: docs
 weight: 26140
-url: /aspose.medical.dicom.tags/tag/numberofboluses/
+url: /net/aspose.medical.dicom.tags/tag/numberofboluses/
 ---
 
 ## Tag.NumberOfBoluses field

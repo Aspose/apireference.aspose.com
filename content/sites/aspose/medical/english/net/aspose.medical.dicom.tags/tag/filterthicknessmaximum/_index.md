@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187054 VRDS VM1-n Filter Thickness Maximum.
 type: docs
 weight: 15440
-url: /aspose.medical.dicom.tags/tag/filterthicknessmaximum/
+url: /net/aspose.medical.dicom.tags/tag/filterthicknessmaximum/
 ---
 
 ## Tag.FilterThicknessMaximum field

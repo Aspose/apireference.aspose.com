@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240093 VRCS VM1 Stimulus Results.
 type: docs
 weight: 45610
-url: /aspose.medical.dicom.tags/tag/stimulusresults/
+url: /net/aspose.medical.dicom.tags/tag/stimulusresults/
 ---
 
 ## Tag.StimulusResults field

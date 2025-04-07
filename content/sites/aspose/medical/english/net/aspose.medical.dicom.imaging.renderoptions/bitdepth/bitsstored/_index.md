@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Number of bits stored per sample. Read-only Int32.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.imaging.renderoptions/bitdepth/bitsstored/
+url: /net/aspose.medical.dicom.imaging.renderoptions/bitdepth/bitsstored/
 ---
 
 ## BitDepth.BitsStored property

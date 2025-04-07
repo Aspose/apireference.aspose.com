@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0412 VRFL VM3 Control Point Orientation.
 type: docs
 weight: 8520
-url: /aspose.medical.dicom.tags/tag/controlpointorientation/
+url: /net/aspose.medical.dicom.tags/tag/controlpointorientation/
 ---
 
 ## Tag.ControlPointOrientation field

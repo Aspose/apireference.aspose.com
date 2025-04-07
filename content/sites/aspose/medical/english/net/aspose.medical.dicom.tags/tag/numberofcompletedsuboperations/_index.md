@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00001021 VRUS VM1 Number of Completed Sub-operations.
 type: docs
 weight: 26210
-url: /aspose.medical.dicom.tags/tag/numberofcompletedsuboperations/
+url: /net/aspose.medical.dicom.tags/tag/numberofcompletedsuboperations/
 ---
 
 ## Tag.NumberOfCompletedSuboperations field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Initialize a new instance of the PrecalculatedLookUpTableaspose.medical.dicom.lookuptables/precalculatedlookuptable.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.lookuptables/precalculatedlookuptable/precalculatedlookuptable/
+url: /net/aspose.medical.dicom.lookuptables/precalculatedlookuptable/precalculatedlookuptable/
 ---
 
 ## PrecalculatedLookUpTable constructor

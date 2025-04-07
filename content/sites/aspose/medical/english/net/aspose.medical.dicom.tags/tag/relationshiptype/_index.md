@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A010 VRCS VM1 Relationship Type.
 type: docs
 weight: 38280
-url: /aspose.medical.dicom.tags/tag/relationshiptype/
+url: /net/aspose.medical.dicom.tags/tag/relationshiptype/
 ---
 
 ## Tag.RelationshipType field

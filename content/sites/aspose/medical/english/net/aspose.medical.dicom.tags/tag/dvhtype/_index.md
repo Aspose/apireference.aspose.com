@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040001 VRCS VM1 DVH Type.
 type: docs
 weight: 13170
-url: /aspose.medical.dicom.tags/tag/dvhtype/
+url: /net/aspose.medical.dicom.tags/tag/dvhtype/
 ---
 
 ## Tag.DVHType field

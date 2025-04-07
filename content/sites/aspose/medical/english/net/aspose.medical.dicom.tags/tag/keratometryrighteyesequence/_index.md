@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460070 VRSQ VM1 Keratometry Right Eye Sequence.
 type: docs
 weight: 22120
-url: /aspose.medical.dicom.tags/tag/keratometryrighteyesequence/
+url: /net/aspose.medical.dicom.tags/tag/keratometryrighteyesequence/
 ---
 
 ## Tag.KeratometryRightEyeSequence field

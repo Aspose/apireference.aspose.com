@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00DB VRFL VM1 Wedge Thin Edge Position.
 type: docs
 weight: 52360
-url: /aspose.medical.dicom.tags/tag/wedgethinedgeposition/
+url: /net/aspose.medical.dicom.tags/tag/wedgethinedgeposition/
 ---
 
 ## Tag.WedgeThinEdgePosition field

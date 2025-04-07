@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460106 VRFD VM1 Viewing Distance.
 type: docs
 weight: 51170
-url: /aspose.medical.dicom.tags/tag/viewingdistance/
+url: /net/aspose.medical.dicom.tags/tag/viewingdistance/
 ---
 
 ## Tag.ViewingDistance field

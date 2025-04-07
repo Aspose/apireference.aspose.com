@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21200010 VRCS VM1 Queue Status RETIRED.
 type: docs
 weight: 34090
-url: /aspose.medical.dicom.tags/tag/queuestatusretired/
+url: /net/aspose.medical.dicom.tags/tag/queuestatusretired/
 ---
 
 ## Tag.QueueStatusRETIRED field

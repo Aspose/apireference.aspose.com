@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 120
-url: /aspose.medical.imaging.pixelformats/bgra32/gethashcode/
+url: /net/aspose.medical.imaging.pixelformats/bgra32/gethashcode/
 ---
 
 ## Bgra32.GetHashCode method

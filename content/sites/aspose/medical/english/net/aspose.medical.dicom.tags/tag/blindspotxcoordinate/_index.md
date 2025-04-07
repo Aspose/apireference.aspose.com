@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240107 VRFL VM1 Blind Spot X-Coordinate.
 type: docs
 weight: 3950
-url: /aspose.medical.dicom.tags/tag/blindspotxcoordinate/
+url: /net/aspose.medical.dicom.tags/tag/blindspotxcoordinate/
 ---
 
 ## Tag.BlindSpotXCoordinate field

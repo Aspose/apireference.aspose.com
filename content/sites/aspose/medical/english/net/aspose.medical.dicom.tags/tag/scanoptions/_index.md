@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180022 VRCS VM1-n Scan Options.
 type: docs
 weight: 41050
-url: /aspose.medical.dicom.tags/tag/scanoptions/
+url: /net/aspose.medical.dicom.tags/tag/scanoptions/
 ---
 
 ## Tag.ScanOptions field

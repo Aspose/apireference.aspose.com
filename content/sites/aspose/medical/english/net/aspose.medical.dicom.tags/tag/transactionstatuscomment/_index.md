@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080418 VRLT VM1 Transaction Status Comment.
 type: docs
 weight: 49180
-url: /aspose.medical.dicom.tags/tag/transactionstatuscomment/
+url: /net/aspose.medical.dicom.tags/tag/transactionstatuscomment/
 ---
 
 ## Tag.TransactionStatusComment field

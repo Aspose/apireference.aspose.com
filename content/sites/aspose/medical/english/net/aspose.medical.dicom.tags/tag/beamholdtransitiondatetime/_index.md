@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0127 VRDT VM1 Beam Hold Transition DateTime.
 type: docs
 weight: 3440
-url: /aspose.medical.dicom.tags/tag/beamholdtransitiondatetime/
+url: /net/aspose.medical.dicom.tags/tag/beamholdtransitiondatetime/
 ---
 
 ## Tag.BeamHoldTransitionDateTime field

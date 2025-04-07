@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189063 VRFD VM1-2 De-coupling Chemical Shift Reference.
 type: docs
 weight: 10330
-url: /aspose.medical.dicom.tags/tag/decouplingchemicalshiftreference/
+url: /net/aspose.medical.dicom.tags/tag/decouplingchemicalshiftreference/
 ---
 
 ## Tag.DecouplingChemicalShiftReference field

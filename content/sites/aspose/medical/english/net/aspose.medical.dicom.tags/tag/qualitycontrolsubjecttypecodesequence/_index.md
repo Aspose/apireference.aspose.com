@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100201 VRSQ VM1 Quality Control Subject Type Code Sequence.
 type: docs
 weight: 34010
-url: /aspose.medical.dicom.tags/tag/qualitycontrolsubjecttypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/qualitycontrolsubjecttypecodesequence/
 ---
 
 ## Tag.QualityControlSubjectTypeCodeSequence field

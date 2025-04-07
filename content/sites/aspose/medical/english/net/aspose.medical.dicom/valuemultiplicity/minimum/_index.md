@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Minimum number of values that can be placed in the Value Field. Read-only Int32.
 type: docs
 weight: 190
-url: /aspose.medical.dicom/valuemultiplicity/minimum/
+url: /net/aspose.medical.dicom/valuemultiplicity/minimum/
 ---
 
 ## ValueMultiplicity.Minimum property

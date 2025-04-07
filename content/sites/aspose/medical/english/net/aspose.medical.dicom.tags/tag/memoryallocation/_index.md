@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20000060 VRIS VM1 Memory Allocation.
 type: docs
 weight: 24390
-url: /aspose.medical.dicom.tags/tag/memoryallocation/
+url: /net/aspose.medical.dicom.tags/tag/memoryallocation/
 ---
 
 ## Tag.MemoryAllocation field

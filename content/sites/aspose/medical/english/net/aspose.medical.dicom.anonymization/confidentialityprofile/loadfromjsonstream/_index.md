@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Creates ConfidentialityProfileaspose.medical.dicom.anonymization/confidentialityprofile based on the configuration specified in the given stream.
 type: docs
 weight: 70
-url: /aspose.medical.dicom.anonymization/confidentialityprofile/loadfromjsonstream/
+url: /net/aspose.medical.dicom.anonymization/confidentialityprofile/loadfromjsonstream/
 ---
 
 ## ConfidentialityProfile.LoadFromJsonStream method

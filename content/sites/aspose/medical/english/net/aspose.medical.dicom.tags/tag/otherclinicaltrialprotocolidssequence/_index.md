@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120023 VRSQ VM1 Other Clinical Trial Protocol IDs Sequence.
 type: docs
 weight: 28600
-url: /aspose.medical.dicom.tags/tag/otherclinicaltrialprotocolidssequence/
+url: /net/aspose.medical.dicom.tags/tag/otherclinicaltrialprotocolidssequence/
 ---
 
 ## Tag.OtherClinicalTrialProtocolIDsSequence field

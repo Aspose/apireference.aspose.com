@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00089460 VRCS VM1 Skip Frame Range Flag.
 type: docs
 weight: 43550
-url: /aspose.medical.dicom.tags/tag/skipframerangeflag/
+url: /net/aspose.medical.dicom.tags/tag/skipframerangeflag/
 ---
 
 ## Tag.SkipFrameRangeFlag field

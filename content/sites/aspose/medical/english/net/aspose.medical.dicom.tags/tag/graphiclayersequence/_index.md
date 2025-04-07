@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700060 VRSQ VM1 Graphic Layer Sequence.
 type: docs
 weight: 17920
-url: /aspose.medical.dicom.tags/tag/graphiclayersequence/
+url: /net/aspose.medical.dicom.tags/tag/graphiclayersequence/
 ---
 
 ## Tag.GraphicLayerSequence field

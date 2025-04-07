@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A000C VRCS VM1 RT Plan Geometry.
 type: docs
 weight: 40340
-url: /aspose.medical.dicom.tags/tag/rtplangeometry/
+url: /net/aspose.medical.dicom.tags/tag/rtplangeometry/
 ---
 
 ## Tag.RTPlanGeometry field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02E3 VRFL VM1 Total Compensator Tray Water-Equivalent Thickness.
 type: docs
 weight: 48900
-url: /aspose.medical.dicom.tags/tag/totalcompensatortraywaterequivalentthickness/
+url: /net/aspose.medical.dicom.tags/tag/totalcompensatortraywaterequivalentthickness/
 ---
 
 ## Tag.TotalCompensatorTrayWaterEquivalentThickness field

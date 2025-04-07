@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008114C VRSQ VM1 Referenced Segmentation Sequence.
 type: docs
 weight: 37300
-url: /aspose.medical.dicom.tags/tag/referencedsegmentationsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedsegmentationsequence/
 ---
 
 ## Tag.ReferencedSegmentationSequence field

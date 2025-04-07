@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00089207 VRCS VM1 Volume Based Calculation Technique.
 type: docs
 weight: 51590
-url: /aspose.medical.dicom.tags/tag/volumebasedcalculationtechnique/
+url: /net/aspose.medical.dicom.tags/tag/volumebasedcalculationtechnique/
 ---
 
 ## Tag.VolumeBasedCalculationTechnique field

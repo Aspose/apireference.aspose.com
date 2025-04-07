@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189344 VRCS VM1 Contrast/Bolus Agent Phase.
 type: docs
 weight: 8240
-url: /aspose.medical.dicom.tags/tag/contrastbolusagentphase/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolusagentphase/
 ---
 
 ## Tag.ContrastBolusAgentPhase field

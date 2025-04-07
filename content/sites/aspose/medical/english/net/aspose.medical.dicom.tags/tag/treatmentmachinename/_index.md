@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00B2 VRSH VM1 Treatment Machine Name.
 type: docs
 weight: 49650
-url: /aspose.medical.dicom.tags/tag/treatmentmachinename/
+url: /net/aspose.medical.dicom.tags/tag/treatmentmachinename/
 ---
 
 ## Tag.TreatmentMachineName field

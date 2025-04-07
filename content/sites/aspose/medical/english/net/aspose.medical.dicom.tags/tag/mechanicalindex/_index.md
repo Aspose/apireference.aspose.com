@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185022 VRDS VM1 Mechanical Index.
 type: docs
 weight: 24310
-url: /aspose.medical.dicom.tags/tag/mechanicalindex/
+url: /net/aspose.medical.dicom.tags/tag/mechanicalindex/
 ---
 
 ## Tag.MechanicalIndex field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701B08 VRCS VM1 Geometry for Display.
 type: docs
 weight: 17340
-url: /aspose.medical.dicom.tags/tag/geometryfordisplay/
+url: /net/aspose.medical.dicom.tags/tag/geometryfordisplay/
 ---
 
 ## Tag.GeometryForDisplay field

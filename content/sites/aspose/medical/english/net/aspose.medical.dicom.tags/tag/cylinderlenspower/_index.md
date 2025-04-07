@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220008 VRFL VM1 Cylinder Lens Power.
 type: docs
 weight: 9620
-url: /aspose.medical.dicom.tags/tag/cylinderlenspower/
+url: /net/aspose.medical.dicom.tags/tag/cylinderlenspower/
 ---
 
 ## Tag.CylinderLensPower field

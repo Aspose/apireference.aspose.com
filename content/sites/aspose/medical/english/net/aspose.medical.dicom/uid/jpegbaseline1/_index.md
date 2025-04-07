@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax JPEG Baseline Process 1 Default Transfer Syntax for Lossy JPEG 8 Bit Image Compression.
 type: docs
 weight: 2190
-url: /aspose.medical.dicom/uid/jpegbaseline1/
+url: /net/aspose.medical.dicom/uid/jpegbaseline1/
 ---
 
 ## Uid.JpegBaseline1 field

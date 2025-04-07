@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100050 VRFD VM1 Minimum Number of Interval Days.
 type: docs
 weight: 24610
-url: /aspose.medical.dicom.tags/tag/minimumnumberofintervaldays/
+url: /net/aspose.medical.dicom.tags/tag/minimumnumberofintervaldays/
 ---
 
 ## Tag.MinimumNumberOfIntervalDays field

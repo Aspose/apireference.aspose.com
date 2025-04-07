@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221612 VRSQ VM1 Derivation Algorithm Sequence.
 type: docs
 weight: 10780
-url: /aspose.medical.dicom.tags/tag/derivationalgorithmsequence/
+url: /net/aspose.medical.dicom.tags/tag/derivationalgorithmsequence/
 ---
 
 ## Tag.DerivationAlgorithmSequence field

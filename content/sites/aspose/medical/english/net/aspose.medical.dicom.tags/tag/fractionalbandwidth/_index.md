@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018982E VRFD VM1 Fractional Bandwidth.
 type: docs
 weight: 16300
-url: /aspose.medical.dicom.tags/tag/fractionalbandwidth/
+url: /net/aspose.medical.dicom.tags/tag/fractionalbandwidth/
 ---
 
 ## Tag.FractionalBandwidth field

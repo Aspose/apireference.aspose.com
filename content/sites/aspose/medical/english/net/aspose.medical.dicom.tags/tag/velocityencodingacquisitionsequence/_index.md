@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189092 VRSQ VM1 Velocity Encoding Acquisition Sequence.
 type: docs
 weight: 50820
-url: /aspose.medical.dicom.tags/tag/velocityencodingacquisitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/velocityencodingacquisitionsequence/
 ---
 
 ## Tag.VelocityEncodingAcquisitionSequence field

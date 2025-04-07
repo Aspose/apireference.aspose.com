@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The file meta information version. Read-only IReadOnlyCollection of Byte.
 type: docs
 weight: 120
-url: /aspose.medical.dicom/metainformation/version/
+url: /net/aspose.medical.dicom/metainformation/version/
 ---
 
 ## MetaInformation.Version property

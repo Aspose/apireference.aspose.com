@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips MR Examcard Storage.
 type: docs
 weight: 3460
-url: /aspose.medical.dicom/uid/privatephilipsmrexamcardstorage/
+url: /net/aspose.medical.dicom/uid/privatephilipsmrexamcardstorage/
 ---
 
 ## Uid.PrivatePhilipsMrExamcardStorage field

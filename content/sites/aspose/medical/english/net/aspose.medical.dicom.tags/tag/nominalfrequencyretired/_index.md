@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014401A VRDS VM1 Nominal Frequency RETIRED.
 type: docs
 weight: 25790
-url: /aspose.medical.dicom.tags/tag/nominalfrequencyretired/
+url: /net/aspose.medical.dicom.tags/tag/nominalfrequencyretired/
 ---
 
 ## Tag.NominalFrequencyRETIRED field

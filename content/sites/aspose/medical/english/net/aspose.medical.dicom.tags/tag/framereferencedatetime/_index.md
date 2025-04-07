@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189151 VRDT VM1 Frame Reference DateTime.
 type: docs
 weight: 16750
-url: /aspose.medical.dicom.tags/tag/framereferencedatetime/
+url: /net/aspose.medical.dicom.tags/tag/framereferencedatetime/
 ---
 
 ## Tag.FrameReferenceDateTime field

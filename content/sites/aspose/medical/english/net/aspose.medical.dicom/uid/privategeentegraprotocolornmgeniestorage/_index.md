@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private GE eNTEGRA Protocol or NM Genie Storage.
 type: docs
 weight: 3270
-url: /aspose.medical.dicom/uid/privategeentegraprotocolornmgeniestorage/
+url: /net/aspose.medical.dicom/uid/privategeentegraprotocolornmgeniestorage/
 ---
 
 ## Uid.PrivateGeEntegraProtocolOrNmGenieStorage field

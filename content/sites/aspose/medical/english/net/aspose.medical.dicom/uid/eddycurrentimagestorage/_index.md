@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Eddy Current Image Storage.
 type: docs
 weight: 1300
-url: /aspose.medical.dicom/uid/eddycurrentimagestorage/
+url: /net/aspose.medical.dicom/uid/eddycurrentimagestorage/
 ---
 
 ## Uid.EddyCurrentImageStorage field

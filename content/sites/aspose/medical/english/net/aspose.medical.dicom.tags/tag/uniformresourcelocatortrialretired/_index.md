@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A992 VRST VM1 Uniform Resource Locator Trial RETIRED.
 type: docs
 weight: 50460
-url: /aspose.medical.dicom.tags/tag/uniformresourcelocatortrialretired/
+url: /net/aspose.medical.dicom.tags/tag/uniformresourcelocatortrialretired/
 ---
 
 ## Tag.UniformResourceLocatorTrialRETIRED field

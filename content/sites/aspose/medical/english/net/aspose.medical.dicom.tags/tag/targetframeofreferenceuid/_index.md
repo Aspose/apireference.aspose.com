@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018991E VRUI VM1 Target Frame of Reference UID.
 type: docs
 weight: 47340
-url: /aspose.medical.dicom.tags/tag/targetframeofreferenceuid/
+url: /net/aspose.medical.dicom.tags/tag/targetframeofreferenceuid/
 ---
 
 ## Tag.TargetFrameOfReferenceUID field

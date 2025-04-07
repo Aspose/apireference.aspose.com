@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189317 VRFD VM2 Reconstruction Field of View.
 type: docs
 weight: 35630
-url: /aspose.medical.dicom.tags/tag/reconstructionfieldofview/
+url: /net/aspose.medical.dicom.tags/tag/reconstructionfieldofview/
 ---
 
 ## Tag.ReconstructionFieldOfView field

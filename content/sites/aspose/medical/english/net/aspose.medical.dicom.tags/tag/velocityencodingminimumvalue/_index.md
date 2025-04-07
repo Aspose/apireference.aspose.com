@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189091 VRFD VM1 Velocity Encoding Minimum Value.
 type: docs
 weight: 50850
-url: /aspose.medical.dicom.tags/tag/velocityencodingminimumvalue/
+url: /net/aspose.medical.dicom.tags/tag/velocityencodingminimumvalue/
 ---
 
 ## Tag.VelocityEncodingMinimumValue field

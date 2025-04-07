@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189936 VRSQ VM1 Storage Protocol Element Sequence.
 type: docs
 weight: 45660
-url: /aspose.medical.dicom.tags/tag/storageprotocolelementsequence/
+url: /net/aspose.medical.dicom.tags/tag/storageprotocolelementsequence/
 ---
 
 ## Tag.StorageProtocolElementSequence field

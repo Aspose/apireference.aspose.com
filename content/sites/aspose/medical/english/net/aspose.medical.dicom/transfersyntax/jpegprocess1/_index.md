@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: JPEG Baseline Process 1 1.2.840.10008.1.2.4.50.
 type: docs
 weight: 260
-url: /aspose.medical.dicom/transfersyntax/jpegprocess1/
+url: /net/aspose.medical.dicom/transfersyntax/jpegprocess1/
 ---
 
 ## TransferSyntax.JpegProcess1 field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700288 VRFL VM1 Tick Position.
 type: docs
 weight: 48300
-url: /aspose.medical.dicom.tags/tag/tickposition/
+url: /net/aspose.medical.dicom.tags/tag/tickposition/
 ---
 
 ## Tag.TickPosition field

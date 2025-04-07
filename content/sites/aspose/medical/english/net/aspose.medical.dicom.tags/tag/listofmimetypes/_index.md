@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00420014 VRLO VM1-n List of MIME Types.
 type: docs
 weight: 22870
-url: /aspose.medical.dicom.tags/tag/listofmimetypes/
+url: /net/aspose.medical.dicom.tags/tag/listofmimetypes/
 ---
 
 ## Tag.ListOfMIMETypes field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0034000B VRSQ VM1 Camera Position Group Sequence.
 type: docs
 weight: 5030
-url: /aspose.medical.dicom.tags/tag/camerapositiongroupsequence/
+url: /net/aspose.medical.dicom.tags/tag/camerapositiongroupsequence/
 ---
 
 ## Tag.CameraPositionGroupSequence field

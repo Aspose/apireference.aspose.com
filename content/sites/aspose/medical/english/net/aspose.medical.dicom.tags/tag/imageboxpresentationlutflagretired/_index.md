@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 2000006A VRCS VM1 Image Box Presentation LUT Flag RETIRED.
 type: docs
 weight: 18970
-url: /aspose.medical.dicom.tags/tag/imageboxpresentationlutflagretired/
+url: /net/aspose.medical.dicom.tags/tag/imageboxpresentationlutflagretired/
 ---
 
 ## Tag.ImageBoxPresentationLUTFlagRETIRED field

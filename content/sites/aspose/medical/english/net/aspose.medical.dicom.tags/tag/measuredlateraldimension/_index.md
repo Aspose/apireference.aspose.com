@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00101024 VRDS VM1 Measured Lateral Dimension.
 type: docs
 weight: 24170
-url: /aspose.medical.dicom.tags/tag/measuredlateraldimension/
+url: /net/aspose.medical.dicom.tags/tag/measuredlateraldimension/
 ---
 
 ## Tag.MeasuredLateralDimension field

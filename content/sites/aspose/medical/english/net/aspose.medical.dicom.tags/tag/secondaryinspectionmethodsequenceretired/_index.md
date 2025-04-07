@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4010107D VRSQ VM1 Secondary Inspection Method Sequence RETIRED.
 type: docs
 weight: 41840
-url: /aspose.medical.dicom.tags/tag/secondaryinspectionmethodsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/secondaryinspectionmethodsequenceretired/
 ---
 
 ## Tag.SecondaryInspectionMethodSequenceRETIRED field

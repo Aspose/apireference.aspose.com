@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Descriptive name of VR. Read-only String.
 type: docs
 weight: 430
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/name/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/name/
 ---
 
 ## ValueRepresentation.Name property

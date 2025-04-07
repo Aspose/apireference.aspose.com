@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 22000003 VRCS VM1 Label Style Selection.
 type: docs
 weight: 22170
-url: /aspose.medical.dicom.tags/tag/labelstyleselection/
+url: /net/aspose.medical.dicom.tags/tag/labelstyleselection/
 ---
 
 ## Tag.LabelStyleSelection field

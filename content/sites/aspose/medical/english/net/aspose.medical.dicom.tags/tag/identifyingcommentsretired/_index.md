@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00084000 VRLT VM1 Identifying Comments RETIRED.
 type: docs
 weight: 18770
-url: /aspose.medical.dicom.tags/tag/identifyingcommentsretired/
+url: /net/aspose.medical.dicom.tags/tag/identifyingcommentsretired/
 ---
 
 ## Tag.IdentifyingCommentsRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The DICOM tag associated with the element. Read-only Tagaspose.medical.dicom.elements/fragmentsequence/tag.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.elements/fragmentsequence/tag/
+url: /net/aspose.medical.dicom.elements/fragmentsequence/tag/
 ---
 
 ## FragmentSequence.Tag property

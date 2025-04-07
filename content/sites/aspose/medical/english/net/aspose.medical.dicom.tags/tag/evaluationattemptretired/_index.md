@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142008 VRIS VM1 Evaluation Attempt RETIRED.
 type: docs
 weight: 14070
-url: /aspose.medical.dicom.tags/tag/evaluationattemptretired/
+url: /net/aspose.medical.dicom.tags/tag/evaluationattemptretired/
 ---
 
 ## Tag.EvaluationAttemptRETIRED field

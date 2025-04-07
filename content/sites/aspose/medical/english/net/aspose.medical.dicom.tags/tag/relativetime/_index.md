@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720038 VRUS VM2 Relative Time.
 type: docs
 weight: 38330
-url: /aspose.medical.dicom.tags/tag/relativetime/
+url: /net/aspose.medical.dicom.tags/tag/relativetime/
 ---
 
 ## Tag.RelativeTime field

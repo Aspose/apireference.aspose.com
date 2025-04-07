@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0783 VRST VM1 Interlock Origin Description.
 type: docs
 weight: 20820
-url: /aspose.medical.dicom.tags/tag/interlockorigindescription/
+url: /net/aspose.medical.dicom.tags/tag/interlockorigindescription/
 ---
 
 ## Tag.InterlockOriginDescription field

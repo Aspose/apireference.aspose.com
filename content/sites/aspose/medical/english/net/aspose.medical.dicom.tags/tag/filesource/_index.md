@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016003A VRUS VM1 File Source.
 type: docs
 weight: 15160
-url: /aspose.medical.dicom.tags/tag/filesource/
+url: /net/aspose.medical.dicom.tags/tag/filesource/
 ---
 
 ## Tag.FileSource field

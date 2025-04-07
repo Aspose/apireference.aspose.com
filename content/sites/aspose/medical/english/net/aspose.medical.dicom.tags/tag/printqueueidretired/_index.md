@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21100099 VRSH VM1 Print Queue ID RETIRED.
 type: docs
 weight: 32980
-url: /aspose.medical.dicom.tags/tag/printqueueidretired/
+url: /net/aspose.medical.dicom.tags/tag/printqueueidretired/
 ---
 
 ## Tag.PrintQueueIDRETIRED field

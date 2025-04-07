@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0028 VRDS VM1 Target Underdose Volume Fraction.
 type: docs
 weight: 47460
-url: /aspose.medical.dicom.tags/tag/targetunderdosevolumefraction/
+url: /net/aspose.medical.dicom.tags/tag/targetunderdosevolumefraction/
 ---
 
 ## Tag.TargetUnderdoseVolumeFraction field

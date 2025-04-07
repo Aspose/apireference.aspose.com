@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041420 VRUL VM1 Offset of Referenced Lower-Level Directory Entity.
 type: docs
 weight: 27580
-url: /aspose.medical.dicom.tags/tag/offsetofreferencedlowerleveldirectoryentity/
+url: /net/aspose.medical.dicom.tags/tag/offsetofreferencedlowerleveldirectoryentity/
 ---
 
 ## Tag.OffsetOfReferencedLowerLevelDirectoryEntity field

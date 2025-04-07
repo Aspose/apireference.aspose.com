@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189296 VRFD VM1 Chemical Shift Maximum Integration Limit in ppm.
 type: docs
 weight: 5810
-url: /aspose.medical.dicom.tags/tag/chemicalshiftmaximumintegrationlimitinppm/
+url: /net/aspose.medical.dicom.tags/tag/chemicalshiftmaximumintegrationlimitinppm/
 ---
 
 ## Tag.ChemicalShiftMaximumIntegrationLimitInppm field

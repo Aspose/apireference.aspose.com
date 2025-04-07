@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: This elements untyped data. Read-only IEnumerable of Object.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.elements/ielement/data/
+url: /net/aspose.medical.dicom.elements/ielement/data/
 ---
 
 ## IElement.Data property

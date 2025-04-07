@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 40
-url: /aspose.medical.dicom.elements/sequence/tag/
+url: /net/aspose.medical.dicom.elements/sequence/tag/
 ---
 
 ## Sequence.Tag property

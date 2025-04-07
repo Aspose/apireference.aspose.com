@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Cardiac Relevant Patient Information Query.
 type: docs
 weight: 300
-url: /aspose.medical.dicom/uid/cardiacrelevantpatientinformationquery/
+url: /net/aspose.medical.dicom/uid/cardiacrelevantpatientinformationquery/
 ---
 
 ## Uid.CardiacRelevantPatientInformationQuery field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520009 VRFD VM1 Ranging Depth.
 type: docs
 weight: 34990
-url: /aspose.medical.dicom.tags/tag/rangingdepth/
+url: /net/aspose.medical.dicom.tags/tag/rangingdepth/
 ---
 
 ## Tag.RangingDepth field

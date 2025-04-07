@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018982C VRSQ VM1 Transducer Response Sequence.
 type: docs
 weight: 49320
-url: /aspose.medical.dicom.tags/tag/transducerresponsesequence/
+url: /net/aspose.medical.dicom.tags/tag/transducerresponsesequence/
 ---
 
 ## Tag.TransducerResponseSequence field

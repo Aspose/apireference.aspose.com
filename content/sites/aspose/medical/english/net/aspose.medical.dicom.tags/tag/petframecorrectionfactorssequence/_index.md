@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189736 VRSQ VM1 PET Frame Correction Factors Sequence.
 type: docs
 weight: 31020
-url: /aspose.medical.dicom.tags/tag/petframecorrectionfactorssequence/
+url: /net/aspose.medical.dicom.tags/tag/petframecorrectionfactorssequence/
 ---
 
 ## Tag.PETFrameCorrectionFactorsSequence field

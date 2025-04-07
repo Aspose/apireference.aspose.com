@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0060 VRSQ VM1 Referenced Structure Set Sequence.
 type: docs
 weight: 37500
-url: /aspose.medical.dicom.tags/tag/referencedstructuresetsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedstructuresetsequence/
 ---
 
 ## Tag.ReferencedStructureSetSequence field

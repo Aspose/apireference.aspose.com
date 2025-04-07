@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189810 VRUS or SS VM1 Zero Velocity Pixel Value.
 type: docs
 weight: 52950
-url: /aspose.medical.dicom.tags/tag/zerovelocitypixelvalue/
+url: /net/aspose.medical.dicom.tags/tag/zerovelocitypixelvalue/
 ---
 
 ## Tag.ZeroVelocityPixelValue field

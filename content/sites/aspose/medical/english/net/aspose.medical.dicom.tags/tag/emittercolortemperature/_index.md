@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00161002 VRDS VM1 Emitter Color Temperature.
 type: docs
 weight: 13430
-url: /aspose.medical.dicom.tags/tag/emittercolortemperature/
+url: /net/aspose.medical.dicom.tags/tag/emittercolortemperature/
 ---
 
 ## Tag.EmitterColorTemperature field

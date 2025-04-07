@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720080 VRSQ VM1 Selector Code Sequence Value.
 type: docs
 weight: 42360
-url: /aspose.medical.dicom.tags/tag/selectorcodesequencevalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorcodesequencevalue/
 ---
 
 ## Tag.SelectorCodeSequenceValue field

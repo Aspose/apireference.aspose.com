@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100010 VRST VM1 Image Display Format.
 type: docs
 weight: 19100
-url: /aspose.medical.dicom.tags/tag/imagedisplayformat/
+url: /net/aspose.medical.dicom.tags/tag/imagedisplayformat/
 ---
 
 ## Tag.ImageDisplayFormat field

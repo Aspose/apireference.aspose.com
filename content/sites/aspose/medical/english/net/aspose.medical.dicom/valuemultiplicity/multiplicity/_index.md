@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Specifies number of dimensions for multidimensional element e.g. for VM equal to 2-2n Multiplicityaspose.medical.dicom/valuemultiplicity/multiplicity equal to 2. Read-only Int32.
 type: docs
 weight: 200
-url: /aspose.medical.dicom/valuemultiplicity/multiplicity/
+url: /net/aspose.medical.dicom/valuemultiplicity/multiplicity/
 ---
 
 ## ValueMultiplicity.Multiplicity property

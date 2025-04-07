@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018700A VRSH VM1 Detector ID.
 type: docs
 weight: 11040
-url: /aspose.medical.dicom.tags/tag/detectorid/
+url: /net/aspose.medical.dicom.tags/tag/detectorid/
 ---
 
 ## Tag.DetectorID field

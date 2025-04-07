@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281090 VRCS VM1 Recommended Viewing Mode.
 type: docs
 weight: 35560
-url: /aspose.medical.dicom.tags/tag/recommendedviewingmode/
+url: /net/aspose.medical.dicom.tags/tag/recommendedviewingmode/
 ---
 
 ## Tag.RecommendedViewingMode field

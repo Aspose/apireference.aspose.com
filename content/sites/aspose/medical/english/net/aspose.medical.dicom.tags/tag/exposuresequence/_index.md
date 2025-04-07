@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020030 VRSQ VM1 Exposure Sequence.
 type: docs
 weight: 14600
-url: /aspose.medical.dicom.tags/tag/exposuresequence/
+url: /net/aspose.medical.dicom.tags/tag/exposuresequence/
 ---
 
 ## Tag.ExposureSequence field

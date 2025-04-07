@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00409224 VRFD VM1 Real World Value Intercept.
 type: docs
 weight: 35050
-url: /aspose.medical.dicom.tags/tag/realworldvalueintercept/
+url: /net/aspose.medical.dicom.tags/tag/realworldvalueintercept/
 ---
 
 ## Tag.RealWorldValueIntercept field

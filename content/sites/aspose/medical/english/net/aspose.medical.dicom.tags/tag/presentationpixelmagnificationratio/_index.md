@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700103 VRFL VM1 Presentation Pixel Magnification Ratio.
 type: docs
 weight: 32610
-url: /aspose.medical.dicom.tags/tag/presentationpixelmagnificationratio/
+url: /net/aspose.medical.dicom.tags/tag/presentationpixelmagnificationratio/
 ---
 
 ## Tag.PresentationPixelMagnificationRatio field

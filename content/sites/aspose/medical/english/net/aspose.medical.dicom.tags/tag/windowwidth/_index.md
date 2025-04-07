@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281051 VRDS VM1-n Window Width.
 type: docs
 weight: 52560
-url: /aspose.medical.dicom.tags/tag/windowwidth/
+url: /net/aspose.medical.dicom.tags/tag/windowwidth/
 ---
 
 ## Tag.WindowWidth field

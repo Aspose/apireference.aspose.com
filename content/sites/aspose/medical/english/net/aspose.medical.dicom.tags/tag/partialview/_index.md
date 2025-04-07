@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281350 VRCS VM1 Partial View.
 type: docs
 weight: 29610
-url: /aspose.medical.dicom.tags/tag/partialview/
+url: /net/aspose.medical.dicom.tags/tag/partialview/
 ---
 
 ## Tag.PartialView field

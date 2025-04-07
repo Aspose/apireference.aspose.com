@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00001008 VRUS VM1 Action Type ID.
 type: docs
 weight: 680
-url: /aspose.medical.dicom.tags/tag/actiontypeid/
+url: /net/aspose.medical.dicom.tags/tag/actiontypeid/
 ---
 
 ## Tag.ActionTypeID field

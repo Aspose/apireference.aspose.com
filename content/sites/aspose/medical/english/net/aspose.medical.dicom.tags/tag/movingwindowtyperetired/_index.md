@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014604D VRCS VM1 Moving Window Type RETIRED.
 type: docs
 weight: 25040
-url: /aspose.medical.dicom.tags/tag/movingwindowtyperetired/
+url: /net/aspose.medical.dicom.tags/tag/movingwindowtyperetired/
 ---
 
 ## Tag.MovingWindowTypeRETIRED field

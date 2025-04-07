@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200242 VRUI VM1 SOP Instance UID of Concatenation Source.
 type: docs
 weight: 43880
-url: /aspose.medical.dicom.tags/tag/sopinstanceuidofconcatenationsource/
+url: /net/aspose.medical.dicom.tags/tag/sopinstanceuidofconcatenationsource/
 ---
 
 ## Tag.SOPInstanceUIDOfConcatenationSource field

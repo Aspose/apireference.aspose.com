@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax JPEG Lossless Non-Hierarchical Process 15 Retired.
 type: docs
 weight: 2310
-url: /aspose.medical.dicom/uid/jpeglosslessnonhierarchical15retired/
+url: /net/aspose.medical.dicom/uid/jpeglosslessnonhierarchical15retired/
 ---
 
 ## Uid.JpegLosslessNonHierarchical15Retired field

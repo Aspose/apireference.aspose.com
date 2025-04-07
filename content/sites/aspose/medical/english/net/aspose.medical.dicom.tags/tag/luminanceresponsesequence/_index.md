@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028701C VRSQ VM1 Luminance Response Sequence.
 type: docs
 weight: 23150
-url: /aspose.medical.dicom.tags/tag/luminanceresponsesequence/
+url: /net/aspose.medical.dicom.tags/tag/luminanceresponsesequence/
 ---
 
 ## Tag.LuminanceResponseSequence field

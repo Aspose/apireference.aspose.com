@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Enhanced US Volume Storage.
 type: docs
 weight: 1470
-url: /aspose.medical.dicom/uid/enhancedusvolumestorage/
+url: /net/aspose.medical.dicom/uid/enhancedusvolumestorage/
 ---
 
 ## Uid.EnhancedUSVolumeStorage field

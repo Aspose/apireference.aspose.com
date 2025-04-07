@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Default encodings used in DICOM.
 type: docs
 weight: 20
-url: /aspose.medical.common.text/dicomencoding/defaults/
+url: /net/aspose.medical.common.text/dicomencoding/defaults/
 ---
 
 ## DicomEncoding.Defaults field

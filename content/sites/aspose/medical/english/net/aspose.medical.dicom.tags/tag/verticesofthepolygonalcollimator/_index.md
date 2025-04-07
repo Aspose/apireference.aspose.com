@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181720 VRIS VM2-2n Vertices of the Polygonal Collimator.
 type: docs
 weight: 51060
-url: /aspose.medical.dicom.tags/tag/verticesofthepolygonalcollimator/
+url: /net/aspose.medical.dicom.tags/tag/verticesofthepolygonalcollimator/
 ---
 
 ## Tag.VerticesOfThePolygonalCollimator field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189551 VRFD VM1 Detector Isocenter Secondary Angle.
 type: docs
 weight: 11070
-url: /aspose.medical.dicom.tags/tag/detectorisocentersecondaryangle/
+url: /net/aspose.medical.dicom.tags/tag/detectorisocentersecondaryangle/
 ---
 
 ## Tag.DetectorIsocenterSecondaryAngle field

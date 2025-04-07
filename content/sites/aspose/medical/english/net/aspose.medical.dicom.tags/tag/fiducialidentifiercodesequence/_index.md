@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700311 VRSQ VM1 Fiducial Identifier Code Sequence.
 type: docs
 weight: 14910
-url: /aspose.medical.dicom.tags/tag/fiducialidentifiercodesequence/
+url: /net/aspose.medical.dicom.tags/tag/fiducialidentifiercodesequence/
 ---
 
 ## Tag.FiducialIdentifierCodeSequence field

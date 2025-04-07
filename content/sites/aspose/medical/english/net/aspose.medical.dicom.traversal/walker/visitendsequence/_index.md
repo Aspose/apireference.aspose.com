@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Indicates that sequence element has been visited.
 type: docs
 weight: 60
-url: /aspose.medical.dicom.traversal/walker/visitendsequence/
+url: /net/aspose.medical.dicom.traversal/walker/visitendsequence/
 ---
 
 ## Walker.VisitEndSequence method

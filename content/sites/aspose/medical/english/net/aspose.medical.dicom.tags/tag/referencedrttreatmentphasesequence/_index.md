@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100049 VRSQ VM1 Referenced RT Treatment Phase Sequence.
 type: docs
 weight: 37270
-url: /aspose.medical.dicom.tags/tag/referencedrttreatmentphasesequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedrttreatmentphasesequence/
 ---
 
 ## Tag.ReferencedRTTreatmentPhaseSequence field

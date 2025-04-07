@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Age String AS.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/agestring/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/agestring/
 ---
 
 ## ValueRepresentation.AgeString field

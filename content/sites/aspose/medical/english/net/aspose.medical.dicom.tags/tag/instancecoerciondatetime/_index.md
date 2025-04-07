@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080015 VRDT VM1 Instance Coercion DateTime.
 type: docs
 weight: 20460
-url: /aspose.medical.dicom.tags/tag/instancecoerciondatetime/
+url: /net/aspose.medical.dicom.tags/tag/instancecoerciondatetime/
 ---
 
 ## Tag.InstanceCoercionDateTime field

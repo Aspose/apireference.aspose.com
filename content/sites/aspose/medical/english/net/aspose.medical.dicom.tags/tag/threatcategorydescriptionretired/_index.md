@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101013 VRLT VM1 Threat Category Description RETIRED.
 type: docs
 weight: 48040
-url: /aspose.medical.dicom.tags/tag/threatcategorydescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/threatcategorydescriptionretired/
 ---
 
 ## Tag.ThreatCategoryDescriptionRETIRED field

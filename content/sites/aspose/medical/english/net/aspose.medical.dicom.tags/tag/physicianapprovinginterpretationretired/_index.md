@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080114 VRPN VM1 Physician Approving Interpretation RETIRED.
 type: docs
 weight: 31270
-url: /aspose.medical.dicom.tags/tag/physicianapprovinginterpretationretired/
+url: /net/aspose.medical.dicom.tags/tag/physicianapprovinginterpretationretired/
 ---
 
 ## Tag.PhysicianApprovingInterpretationRETIRED field

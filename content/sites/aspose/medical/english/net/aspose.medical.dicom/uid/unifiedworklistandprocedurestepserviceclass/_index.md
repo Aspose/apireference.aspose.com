@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Service Class Unified Worklist and Procedure Step Service Class.
 type: docs
 weight: 4860
-url: /aspose.medical.dicom/uid/unifiedworklistandprocedurestepserviceclass/
+url: /net/aspose.medical.dicom/uid/unifiedworklistandprocedurestepserviceclass/
 ---
 
 ## Uid.UnifiedWorklistAndProcedureStepServiceClass field

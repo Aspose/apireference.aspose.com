@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189250 VRCS VM1 Arterial Spin Labeling Contrast.
 type: docs
 weight: 2330
-url: /aspose.medical.dicom.tags/tag/arterialspinlabelingcontrast/
+url: /net/aspose.medical.dicom.tags/tag/arterialspinlabelingcontrast/
 ---
 
 ## Tag.ArterialSpinLabelingContrast field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0032000A VRCS VM1 Study Status ID RETIRED.
 type: docs
 weight: 46080
-url: /aspose.medical.dicom.tags/tag/studystatusidretired/
+url: /net/aspose.medical.dicom.tags/tag/studystatusidretired/
 ---
 
 ## Tag.StudyStatusIDRETIRED field

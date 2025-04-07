@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Encapsulated STL Storage.
 type: docs
 weight: 1380
-url: /aspose.medical.dicom/uid/encapsulatedstlstorage/
+url: /net/aspose.medical.dicom/uid/encapsulatedstlstorage/
 ---
 
 ## Uid.EncapsulatedSTLStorage field

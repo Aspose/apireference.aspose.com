@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100015 VRUI VM1 Source Conceptual Volume UID.
 type: docs
 weight: 44090
-url: /aspose.medical.dicom.tags/tag/sourceconceptualvolumeuid/
+url: /net/aspose.medical.dicom.tags/tag/sourceconceptualvolumeuid/
 ---
 
 ## Tag.SourceConceptualVolumeUID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020106 VRFD VM1 Start Cumulative Meterset.
 type: docs
 weight: 45320
-url: /aspose.medical.dicom.tags/tag/startcumulativemeterset/
+url: /net/aspose.medical.dicom.tags/tag/startcumulativemeterset/
 ---
 
 ## Tag.StartCumulativeMeterset field

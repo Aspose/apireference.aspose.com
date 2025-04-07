@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00005160 VRCS VM1 Borders RETIRED.
 type: docs
 weight: 4310
-url: /aspose.medical.dicom.tags/tag/bordersretired/
+url: /net/aspose.medical.dicom.tags/tag/bordersretired/
 ---
 
 ## Tag.BordersRETIRED field

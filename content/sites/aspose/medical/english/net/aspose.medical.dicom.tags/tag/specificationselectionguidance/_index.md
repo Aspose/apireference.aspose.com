@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820033 VRUT VM1 Specification Selection Guidance.
 type: docs
 weight: 44840
-url: /aspose.medical.dicom.tags/tag/specificationselectionguidance/
+url: /net/aspose.medical.dicom.tags/tag/specificationselectionguidance/
 ---
 
 ## Tag.SpecificationSelectionGuidance field

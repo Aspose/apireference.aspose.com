@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000700 VRUS VM1 Priority.
 type: docs
 weight: 33000
-url: /aspose.medical.dicom.tags/tag/priority/
+url: /net/aspose.medical.dicom.tags/tag/priority/
 ---
 
 ## Tag.Priority field

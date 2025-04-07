@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips CX Image Storage.
 type: docs
 weight: 3350
-url: /aspose.medical.dicom/uid/privatephilipscximagestorage/
+url: /net/aspose.medical.dicom/uid/privatephilipscximagestorage/
 ---
 
 ## Uid.PrivatePhilipsCxImageStorage field

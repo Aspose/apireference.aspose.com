@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0402 VRST VM1 Setup Image Comment.
 type: docs
 weight: 43030
-url: /aspose.medical.dicom.tags/tag/setupimagecomment/
+url: /net/aspose.medical.dicom.tags/tag/setupimagecomment/
 ---
 
 ## Tag.SetupImageComment field

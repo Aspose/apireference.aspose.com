@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181240 VRIS VM1-n Upper/Lower Pixel Values RETIRED.
 type: docs
 weight: 50550
-url: /aspose.medical.dicom.tags/tag/upperlowerpixelvaluesretired/
+url: /net/aspose.medical.dicom.tags/tag/upperlowerpixelvaluesretired/
 ---
 
 ## Tag.UpperLowerPixelValuesRETIRED field

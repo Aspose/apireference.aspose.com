@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160045 VRIS VM1 Focal Length In 35mm Film.
 type: docs
 weight: 16170
-url: /aspose.medical.dicom.tags/tag/focallengthin35mmfilm/
+url: /net/aspose.medical.dicom.tags/tag/focallengthin35mmfilm/
 ---
 
 ## Tag.FocalLengthIn35mmFilm field

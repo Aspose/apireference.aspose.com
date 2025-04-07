@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741022 VRCS VM1 Beam Task Type.
 type: docs
 weight: 3650
-url: /aspose.medical.dicom.tags/tag/beamtasktype/
+url: /net/aspose.medical.dicom.tags/tag/beamtasktype/
 ---
 
 ## Tag.BeamTaskType field

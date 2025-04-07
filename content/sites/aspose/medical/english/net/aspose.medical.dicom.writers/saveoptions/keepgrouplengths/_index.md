@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Specifies whether to write if true a Group Length element for the Dataset items or not. Read-only Boolean.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.writers/saveoptions/keepgrouplengths/
+url: /net/aspose.medical.dicom.writers/saveoptions/keepgrouplengths/
 ---
 
 ## SaveOptions.KeepGroupLengths property

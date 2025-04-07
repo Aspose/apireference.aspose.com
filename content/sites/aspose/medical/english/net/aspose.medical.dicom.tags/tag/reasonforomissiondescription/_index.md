@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0113 VRLO VM1 Reason for Omission Description.
 type: docs
 weight: 35150
-url: /aspose.medical.dicom.tags/tag/reasonforomissiondescription/
+url: /net/aspose.medical.dicom.tags/tag/reasonforomissiondescription/
 ---
 
 ## Tag.ReasonForOmissionDescription field

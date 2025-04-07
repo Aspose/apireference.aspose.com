@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A492 VRLO VM1 Completion Flag Description.
 type: docs
 weight: 6880
-url: /aspose.medical.dicom.tags/tag/completionflagdescription/
+url: /net/aspose.medical.dicom.tags/tag/completionflagdescription/
 ---
 
 ## Tag.CompletionFlagDescription field

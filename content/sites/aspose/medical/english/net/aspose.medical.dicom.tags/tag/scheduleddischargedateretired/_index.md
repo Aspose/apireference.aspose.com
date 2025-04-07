@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0038001C VRDA VM1 Scheduled Discharge Date RETIRED.
 type: docs
 weight: 41290
-url: /aspose.medical.dicom.tags/tag/scheduleddischargedateretired/
+url: /net/aspose.medical.dicom.tags/tag/scheduleddischargedateretired/
 ---
 
 ## Tag.ScheduledDischargeDateRETIRED field

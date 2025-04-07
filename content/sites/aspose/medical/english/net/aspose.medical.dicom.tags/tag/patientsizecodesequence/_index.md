@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00101021 VRSQ VM1 Patients Size Code Sequence.
 type: docs
 weight: 30160
-url: /aspose.medical.dicom.tags/tag/patientsizecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/patientsizecodesequence/
 ---
 
 ## Tag.PatientSizeCodeSequence field

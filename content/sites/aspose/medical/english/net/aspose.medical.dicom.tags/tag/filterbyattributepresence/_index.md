@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720404 VRCS VM1 Filter-by Attribute Presence.
 type: docs
 weight: 15310
-url: /aspose.medical.dicom.tags/tag/filterbyattributepresence/
+url: /net/aspose.medical.dicom.tags/tag/filterbyattributepresence/
 ---
 
 ## Tag.FilterByAttributePresence field

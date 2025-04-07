@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520014 VRFD VM1 A-line Pixel Spacing.
 type: docs
 weight: 1240
-url: /aspose.medical.dicom.tags/tag/alinepixelspacing/
+url: /net/aspose.medical.dicom.tags/tag/alinepixelspacing/
 ---
 
 ## Tag.ALinePixelSpacing field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101027 VRCS VM1 TDR Type RETIRED.
 type: docs
 weight: 47470
-url: /aspose.medical.dicom.tags/tag/tdrtyperetired/
+url: /net/aspose.medical.dicom.tags/tag/tdrtyperetired/
 ---
 
 ## Tag.TDRTypeRETIRED field

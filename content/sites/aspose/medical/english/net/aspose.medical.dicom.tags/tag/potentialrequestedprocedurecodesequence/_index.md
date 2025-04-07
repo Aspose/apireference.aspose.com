@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189907 VRSQ VM1 Potential Requested Procedure Code Sequence.
 type: docs
 weight: 32230
-url: /aspose.medical.dicom.tags/tag/potentialrequestedprocedurecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/potentialrequestedprocedurecodesequence/
 ---
 
 ## Tag.PotentialRequestedProcedureCodeSequence field

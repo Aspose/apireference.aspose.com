@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189200 VRCS VM1 MR Spectroscopy Acquisition Type.
 type: docs
 weight: 25290
-url: /aspose.medical.dicom.tags/tag/mrspectroscopyacquisitiontype/
+url: /net/aspose.medical.dicom.tags/tag/mrspectroscopyacquisitiontype/
 ---
 
 ## Tag.MRSpectroscopyAcquisitionType field

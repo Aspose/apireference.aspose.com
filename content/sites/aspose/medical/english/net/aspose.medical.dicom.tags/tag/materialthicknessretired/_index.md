@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140030 VRDS VM1-n Material Thickness RETIRED.
 type: docs
 weight: 23760
-url: /aspose.medical.dicom.tags/tag/materialthicknessretired/
+url: /net/aspose.medical.dicom.tags/tag/materialthicknessretired/
 ---
 
 ## Tag.MaterialThicknessRETIRED field

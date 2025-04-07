@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181008 VRLO VM1 Gantry ID.
 type: docs
 weight: 16980
-url: /aspose.medical.dicom.tags/tag/gantryid/
+url: /net/aspose.medical.dicom.tags/tag/gantryid/
 ---
 
 ## Tag.GantryID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100154 VRIS VM1 Maximum Collated Films.
 type: docs
 weight: 23900
-url: /aspose.medical.dicom.tags/tag/maximumcollatedfilms/
+url: /net/aspose.medical.dicom.tags/tag/maximumcollatedfilms/
 ---
 
 ## Tag.MaximumCollatedFilms field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221230 VRSQ VM1 Ultrasound Selected Ophthalmic Axial Length Sequence.
 type: docs
 weight: 50390
-url: /aspose.medical.dicom.tags/tag/ultrasoundselectedophthalmicaxiallengthsequence/
+url: /net/aspose.medical.dicom.tags/tag/ultrasoundselectedophthalmicaxiallengthsequence/
 ---
 
 ## Tag.UltrasoundSelectedOphthalmicAxialLengthSequence field

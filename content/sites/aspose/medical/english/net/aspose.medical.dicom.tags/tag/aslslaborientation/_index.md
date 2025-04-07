@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189255 VRFD VM3 ASL Slab Orientation.
 type: docs
 weight: 2460
-url: /aspose.medical.dicom.tags/tag/aslslaborientation/
+url: /net/aspose.medical.dicom.tags/tag/aslslaborientation/
 ---
 
 ## Tag.ASLSlabOrientation field

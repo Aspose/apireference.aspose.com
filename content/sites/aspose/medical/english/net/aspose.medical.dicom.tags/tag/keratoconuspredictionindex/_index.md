@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460236 VRFL VM1 Keratoconus Prediction Index.
 type: docs
 weight: 22060
-url: /aspose.medical.dicom.tags/tag/keratoconuspredictionindex/
+url: /net/aspose.medical.dicom.tags/tag/keratoconuspredictionindex/
 ---
 
 ## Tag.KeratoconusPredictionIndex field

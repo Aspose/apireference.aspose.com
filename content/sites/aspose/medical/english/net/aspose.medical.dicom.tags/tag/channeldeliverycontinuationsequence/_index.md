@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0074140D VRSQ VM1 Channel Delivery Continuation Sequence.
 type: docs
 weight: 5400
-url: /aspose.medical.dicom.tags/tag/channeldeliverycontinuationsequence/
+url: /net/aspose.medical.dicom.tags/tag/channeldeliverycontinuationsequence/
 ---
 
 ## Tag.ChannelDeliveryContinuationSequence field

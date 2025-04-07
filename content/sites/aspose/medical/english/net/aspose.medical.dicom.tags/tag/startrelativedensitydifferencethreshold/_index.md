@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189716 VRFD VM1 Start Relative Density Difference Threshold.
 type: docs
 weight: 45400
-url: /aspose.medical.dicom.tags/tag/startrelativedensitydifferencethreshold/
+url: /net/aspose.medical.dicom.tags/tag/startrelativedensitydifferencethreshold/
 ---
 
 ## Tag.StartRelativeDensityDifferenceThreshold field

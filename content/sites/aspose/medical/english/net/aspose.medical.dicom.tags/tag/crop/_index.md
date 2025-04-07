@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701204 VRCS VM1 Crop.
 type: docs
 weight: 9140
-url: /aspose.medical.dicom.tags/tag/crop/
+url: /net/aspose.medical.dicom.tags/tag/crop/
 ---
 
 ## Tag.Crop field

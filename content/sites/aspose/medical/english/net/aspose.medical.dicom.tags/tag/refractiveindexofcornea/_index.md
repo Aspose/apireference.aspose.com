@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460117 VRFL VM1 Refractive Index of Cornea.
 type: docs
 weight: 37960
-url: /aspose.medical.dicom.tags/tag/refractiveindexofcornea/
+url: /net/aspose.medical.dicom.tags/tag/refractiveindexofcornea/
 ---
 
 ## Tag.RefractiveIndexOfCornea field

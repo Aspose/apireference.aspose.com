@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720050 VRCS VM1 Selector Attribute VR.
 type: docs
 weight: 42340
-url: /aspose.medical.dicom.tags/tag/selectorattributevr/
+url: /net/aspose.medical.dicom.tags/tag/selectorattributevr/
 ---
 
 ## Tag.SelectorAttributeVR field

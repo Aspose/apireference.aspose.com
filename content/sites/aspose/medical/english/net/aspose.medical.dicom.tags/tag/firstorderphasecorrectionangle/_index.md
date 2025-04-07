@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 56000010 VROF VM1 First Order Phase Correction Angle.
 type: docs
 weight: 15600
-url: /aspose.medical.dicom.tags/tag/firstorderphasecorrectionangle/
+url: /net/aspose.medical.dicom.tags/tag/firstorderphasecorrectionangle/
 ---
 
 ## Tag.FirstOrderPhaseCorrectionAngle field

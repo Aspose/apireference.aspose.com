@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460215 VRSQ VM1 Minimum Keratometric Sequence.
 type: docs
 weight: 24590
-url: /aspose.medical.dicom.tags/tag/minimumkeratometricsequence/
+url: /net/aspose.medical.dicom.tags/tag/minimumkeratometricsequence/
 ---
 
 ## Tag.MinimumKeratometricSequence field

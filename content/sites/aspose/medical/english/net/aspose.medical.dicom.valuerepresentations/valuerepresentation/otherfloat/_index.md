@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Other Float OF.
 type: docs
 weight: 170
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/otherfloat/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/otherfloat/
 ---
 
 ## ValueRepresentation.OtherFloat field

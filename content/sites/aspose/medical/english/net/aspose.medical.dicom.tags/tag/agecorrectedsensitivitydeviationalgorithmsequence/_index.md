@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240065 VRSQ VM1 Age Corrected Sensitivity Deviation Algorithm Sequence.
 type: docs
 weight: 1040
-url: /aspose.medical.dicom.tags/tag/agecorrectedsensitivitydeviationalgorithmsequence/
+url: /net/aspose.medical.dicom.tags/tag/agecorrectedsensitivitydeviationalgorithmsequence/
 ---
 
 ## Tag.AgeCorrectedSensitivityDeviationAlgorithmSequence field

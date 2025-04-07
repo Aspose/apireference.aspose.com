@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142226 VRIS VM1-n Transform Order of Axes RETIRED.
 type: docs
 weight: 49450
-url: /aspose.medical.dicom.tags/tag/transformorderofaxesretired/
+url: /net/aspose.medical.dicom.tags/tag/transformorderofaxesretired/
 ---
 
 ## Tag.TransformOrderOfAxesRETIRED field

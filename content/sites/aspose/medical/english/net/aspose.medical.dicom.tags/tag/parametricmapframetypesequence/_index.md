@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00409092 VRSQ VM1 Parametric Map Frame Type Sequence.
 type: docs
 weight: 29570
-url: /aspose.medical.dicom.tags/tag/parametricmapframetypesequence/
+url: /net/aspose.medical.dicom.tags/tag/parametricmapframetypesequence/
 ---
 
 ## Tag.ParametricMapFrameTypeSequence field

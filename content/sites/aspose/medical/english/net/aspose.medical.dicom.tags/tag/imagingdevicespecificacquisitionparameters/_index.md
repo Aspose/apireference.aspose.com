@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00CC VRLO VM1-n Imaging Device-Specific Acquisition Parameters.
 type: docs
 weight: 19680
-url: /aspose.medical.dicom.tags/tag/imagingdevicespecificacquisitionparameters/
+url: /net/aspose.medical.dicom.tags/tag/imagingdevicespecificacquisitionparameters/
 ---
 
 ## Tag.ImagingDeviceSpecificAcquisitionParameters field

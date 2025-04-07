@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700246 VRFL VM1 Shadow Offset Y.
 type: docs
 weight: 43100
-url: /aspose.medical.dicom.tags/tag/shadowoffsety/
+url: /net/aspose.medical.dicom.tags/tag/shadowoffsety/
 ---
 
 ## Tag.ShadowOffsetY field

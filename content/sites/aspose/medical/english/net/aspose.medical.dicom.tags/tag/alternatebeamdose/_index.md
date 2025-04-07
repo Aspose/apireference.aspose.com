@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0091 VRDS VM1 Alternate Beam Dose.
 type: docs
 weight: 1340
-url: /aspose.medical.dicom.tags/tag/alternatebeamdose/
+url: /net/aspose.medical.dicom.tags/tag/alternatebeamdose/
 ---
 
 ## Tag.AlternateBeamDose field

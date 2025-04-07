@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Unlimited Characters UC.
 type: docs
 weight: 310
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/unlimitedcharacters/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/unlimitedcharacters/
 ---
 
 ## ValueRepresentation.UnlimitedCharacters field

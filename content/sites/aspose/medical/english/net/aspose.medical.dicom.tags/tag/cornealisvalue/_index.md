@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460224 VRFL VM1 Corneal I-S Value.
 type: docs
 weight: 8790
-url: /aspose.medical.dicom.tags/tag/cornealisvalue/
+url: /net/aspose.medical.dicom.tags/tag/cornealisvalue/
 ---
 
 ## Tag.CornealISValue field

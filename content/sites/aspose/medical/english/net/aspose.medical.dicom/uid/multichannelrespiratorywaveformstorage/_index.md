@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Multi-channel Respiratory Waveform Storage.
 type: docs
 weight: 2730
-url: /aspose.medical.dicom/uid/multichannelrespiratorywaveformstorage/
+url: /net/aspose.medical.dicom/uid/multichannelrespiratorywaveformstorage/
 ---
 
 ## Uid.MultiChannelRespiratoryWaveformStorage field

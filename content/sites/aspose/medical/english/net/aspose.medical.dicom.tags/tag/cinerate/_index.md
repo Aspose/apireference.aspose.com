@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180040 VRIS VM1 Cine Rate.
 type: docs
 weight: 5870
-url: /aspose.medical.dicom.tags/tag/cinerate/
+url: /net/aspose.medical.dicom.tags/tag/cinerate/
 ---
 
 ## Tag.CineRate field

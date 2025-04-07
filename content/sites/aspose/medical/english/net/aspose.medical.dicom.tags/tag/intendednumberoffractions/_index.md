@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0636 VRUS VM1 Intended Number of Fractions.
 type: docs
 weight: 20690
-url: /aspose.medical.dicom.tags/tag/intendednumberoffractions/
+url: /net/aspose.medical.dicom.tags/tag/intendednumberoffractions/
 ---
 
 ## Tag.IntendedNumberOfFractions field

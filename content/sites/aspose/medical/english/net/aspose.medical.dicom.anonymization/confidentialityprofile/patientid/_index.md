@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Optional. Replacement patient ID.
 type: docs
 weight: 120
-url: /aspose.medical.dicom.anonymization/confidentialityprofile/patientid/
+url: /net/aspose.medical.dicom.anonymization/confidentialityprofile/patientid/
 ---
 
 ## ConfidentialityProfile.PatientId property

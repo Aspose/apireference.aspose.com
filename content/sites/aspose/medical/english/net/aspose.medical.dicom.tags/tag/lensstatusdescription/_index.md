@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221065 VRLO VM1 Lens Status Description.
 type: docs
 weight: 22690
-url: /aspose.medical.dicom.tags/tag/lensstatusdescription/
+url: /net/aspose.medical.dicom.tags/tag/lensstatusdescription/
 ---
 
 ## Tag.LensStatusDescription field

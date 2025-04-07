@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300800A4 VRFD VM2-2n Parallel RT Beam Delimiter Opening Extents.
 type: docs
 weight: 29490
-url: /aspose.medical.dicom.tags/tag/parallelrtbeamdelimiteropeningextents/
+url: /net/aspose.medical.dicom.tags/tag/parallelrtbeamdelimiteropeningextents/
 ---
 
 ## Tag.ParallelRTBeamDelimiterOpeningExtents field

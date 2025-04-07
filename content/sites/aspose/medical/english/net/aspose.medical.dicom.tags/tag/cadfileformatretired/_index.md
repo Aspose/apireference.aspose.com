@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140023 VRST VM1 CAD File Format RETIRED.
 type: docs
 weight: 4770
-url: /aspose.medical.dicom.tags/tag/cadfileformatretired/
+url: /net/aspose.medical.dicom.tags/tag/cadfileformatretired/
 ---
 
 ## Tag.CADFileFormatRETIRED field

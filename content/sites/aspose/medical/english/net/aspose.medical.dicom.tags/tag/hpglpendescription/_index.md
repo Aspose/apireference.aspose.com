@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686345 VRST VM1 HPGL Pen Description.
 type: docs
 weight: 18610
-url: /aspose.medical.dicom.tags/tag/hpglpendescription/
+url: /net/aspose.medical.dicom.tags/tag/hpglpendescription/
 ---
 
 ## Tag.HPGLPenDescription field

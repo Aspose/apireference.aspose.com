@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 004006FA VRLO VM1 Slide Identifier RETIRED.
 type: docs
 weight: 43640
-url: /aspose.medical.dicom.tags/tag/slideidentifierretired/
+url: /net/aspose.medical.dicom.tags/tag/slideidentifierretired/
 ---
 
 ## Tag.SlideIdentifierRETIRED field

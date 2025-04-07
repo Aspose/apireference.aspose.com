@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0129 VRDS VM1 Table Top Longitudinal Position.
 type: docs
 weight: 47020
-url: /aspose.medical.dicom.tags/tag/tabletoplongitudinalposition/
+url: /net/aspose.medical.dicom.tags/tag/tabletoplongitudinalposition/
 ---
 
 ## Tag.TableTopLongitudinalPosition field

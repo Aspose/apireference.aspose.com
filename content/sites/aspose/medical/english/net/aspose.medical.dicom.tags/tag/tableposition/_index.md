@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189327 VRFD VM1 Table Position.
 type: docs
 weight: 46870
-url: /aspose.medical.dicom.tags/tag/tableposition/
+url: /net/aspose.medical.dicom.tags/tag/tableposition/
 ---
 
 ## Tag.TablePosition field

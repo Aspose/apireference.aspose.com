@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Associated private creator for the private elements and null for standard elements. Read-only PrivateCreatoraspose.medical.dicom.tags/tagdictionary/privatecreator.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.tags/tagdictionary/privatecreator/
+url: /net/aspose.medical.dicom.tags/tagdictionary/privatecreator/
 ---
 
 ## TagDictionary.PrivateCreator property

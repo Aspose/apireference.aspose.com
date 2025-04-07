@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080022 VRIS VM1 Current Fraction Number.
 type: docs
 weight: 9390
-url: /aspose.medical.dicom.tags/tag/currentfractionnumber/
+url: /net/aspose.medical.dicom.tags/tag/currentfractionnumber/
 ---
 
 ## Tag.CurrentFractionNumber field

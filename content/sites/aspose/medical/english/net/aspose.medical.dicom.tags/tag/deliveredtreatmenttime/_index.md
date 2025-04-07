@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3008003B VRDS VM1 Delivered Treatment Time.
 type: docs
 weight: 10640
-url: /aspose.medical.dicom.tags/tag/deliveredtreatmenttime/
+url: /net/aspose.medical.dicom.tags/tag/deliveredtreatmenttime/
 ---
 
 ## Tag.DeliveredTreatmentTime field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 470
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/equals/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/equals/
 ---
 
 ## Equals(ValueRepresentation) {#equals}

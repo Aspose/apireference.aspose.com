@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A03AA VRSQ VM1 Ion Wedge Sequence.
 type: docs
 weight: 21570
-url: /aspose.medical.dicom.tags/tag/ionwedgesequence/
+url: /net/aspose.medical.dicom.tags/tag/ionwedgesequence/
 ---
 
 ## Tag.IonWedgeSequence field

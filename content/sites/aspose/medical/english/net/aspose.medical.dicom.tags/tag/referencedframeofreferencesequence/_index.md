@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060010 VRSQ VM1 Referenced Frame of Reference Sequence.
 type: docs
 weight: 36470
-url: /aspose.medical.dicom.tags/tag/referencedframeofreferencesequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedframeofreferencesequence/
 ---
 
 ## Tag.ReferencedFrameOfReferenceSequence field

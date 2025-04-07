@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041220 VRSQ VM1 Directory Record Sequence.
 type: docs
 weight: 11920
-url: /aspose.medical.dicom.tags/tag/directoryrecordsequence/
+url: /net/aspose.medical.dicom.tags/tag/directoryrecordsequence/
 ---
 
 ## Tag.DirectoryRecordSequence field

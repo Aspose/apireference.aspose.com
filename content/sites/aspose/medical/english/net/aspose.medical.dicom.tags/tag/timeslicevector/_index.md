@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540100 VRUS VM1-n Time Slice Vector.
 type: docs
 weight: 48470
-url: /aspose.medical.dicom.tags/tag/timeslicevector/
+url: /net/aspose.medical.dicom.tags/tag/timeslicevector/
 ---
 
 ## Tag.TimeSliceVector field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186070 VRUS VM1 Active Image Area Overlay Group.
 type: docs
 weight: 700
-url: /aspose.medical.dicom.tags/tag/activeimageareaoverlaygroup/
+url: /net/aspose.medical.dicom.tags/tag/activeimageareaoverlaygroup/
 ---
 
 ## Tag.ActiveImageAreaOverlayGroup field

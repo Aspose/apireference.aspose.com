@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Media Creation Management SOP Class UID.
 type: docs
 weight: 2560
-url: /aspose.medical.dicom/uid/mediacreationmanagementsopclassuid/
+url: /net/aspose.medical.dicom/uid/mediacreationmanagementsopclassuid/
 ---
 
 ## Uid.MediaCreationManagementSOPClassUID field

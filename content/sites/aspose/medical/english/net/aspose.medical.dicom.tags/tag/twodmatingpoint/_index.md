@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686450 VRFD VM2 2D Mating Point.
 type: docs
 weight: 50220
-url: /aspose.medical.dicom.tags/tag/twodmatingpoint/
+url: /net/aspose.medical.dicom.tags/tag/twodmatingpoint/
 ---
 
 ## Tag.TwoDMatingPoint field

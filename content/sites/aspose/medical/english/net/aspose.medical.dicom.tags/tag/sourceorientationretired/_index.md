@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101060 VRFL VM3 Source Orientation RETIRED.
 type: docs
 weight: 44390
-url: /aspose.medical.dicom.tags/tag/sourceorientationretired/
+url: /net/aspose.medical.dicom.tags/tag/sourceorientationretired/
 ---
 
 ## Tag.SourceOrientationRETIRED field

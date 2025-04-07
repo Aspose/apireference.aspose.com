@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240057 VRCS VM1 Test Point Normals Data Flag.
 type: docs
 weight: 47760
-url: /aspose.medical.dicom.tags/tag/testpointnormalsdataflag/
+url: /net/aspose.medical.dicom.tags/tag/testpointnormalsdataflag/
 ---
 
 ## Tag.TestPointNormalsDataFlag field

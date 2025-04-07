@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The transfer syntax used to encode the DICOM image pixel data. Read-only TransferSyntaxaspose.medical.dicom/transfersyntax.
 type: docs
 weight: 190
-url: /aspose.medical.dicom.imaging/pixeldata/syntax/
+url: /net/aspose.medical.dicom.imaging/pixeldata/syntax/
 ---
 
 ## PixelData.Syntax property

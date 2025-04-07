@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221066 VRLO VM1 Vitreous Status Description.
 type: docs
 weight: 51550
-url: /aspose.medical.dicom.tags/tag/vitreousstatusdescription/
+url: /net/aspose.medical.dicom.tags/tag/vitreousstatusdescription/
 ---
 
 ## Tag.VitreousStatusDescription field

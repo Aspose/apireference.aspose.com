@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A193 VRTM VM1 Observation Time Trial RETIRED.
 type: docs
 weight: 27400
-url: /aspose.medical.dicom.tags/tag/observationtimetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/observationtimetrialretired/
 ---
 
 ## Tag.ObservationTimeTrialRETIRED field

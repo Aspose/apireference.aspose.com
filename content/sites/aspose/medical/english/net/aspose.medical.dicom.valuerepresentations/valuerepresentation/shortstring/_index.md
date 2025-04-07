@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Short String SH.
 type: docs
 weight: 220
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/shortstring/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/shortstring/
 ---
 
 ## ValueRepresentation.ShortString field

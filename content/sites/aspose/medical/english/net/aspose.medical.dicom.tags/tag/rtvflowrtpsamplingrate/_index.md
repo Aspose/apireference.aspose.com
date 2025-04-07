@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020037 VRUL VM1 RTV Flow RTP Sampling Rate.
 type: docs
 weight: 40800
-url: /aspose.medical.dicom.tags/tag/rtvflowrtpsamplingrate/
+url: /net/aspose.medical.dicom.tags/tag/rtvflowrtpsamplingrate/
 ---
 
 ## Tag.RTVFlowRTPSamplingRate field

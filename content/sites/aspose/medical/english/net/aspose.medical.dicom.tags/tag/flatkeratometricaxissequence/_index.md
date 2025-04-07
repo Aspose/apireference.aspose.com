@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460080 VRSQ VM1 Flat Keratometric Axis Sequence.
 type: docs
 weight: 15930
-url: /aspose.medical.dicom.tags/tag/flatkeratometricaxissequence/
+url: /net/aspose.medical.dicom.tags/tag/flatkeratometricaxissequence/
 ---
 
 ## Tag.FlatKeratometricAxisSequence field

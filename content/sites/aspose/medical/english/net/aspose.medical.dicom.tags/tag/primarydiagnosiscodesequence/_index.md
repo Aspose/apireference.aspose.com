@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081302 VRSQ VM1 Primary Diagnosis Code Sequence.
 type: docs
 weight: 32750
-url: /aspose.medical.dicom.tags/tag/primarydiagnosiscodesequence/
+url: /net/aspose.medical.dicom.tags/tag/primarydiagnosiscodesequence/
 ---
 
 ## Tag.PrimaryDiagnosisCodeSequence field

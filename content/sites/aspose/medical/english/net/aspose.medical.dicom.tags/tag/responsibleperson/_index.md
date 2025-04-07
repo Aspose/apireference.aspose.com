@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102297 VRPN VM1 Responsible Person.
 type: docs
 weight: 39070
-url: /aspose.medical.dicom.tags/tag/responsibleperson/
+url: /net/aspose.medical.dicom.tags/tag/responsibleperson/
 ---
 
 ## Tag.ResponsiblePerson field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014605C VRCS VM1 Operation on Pixel Intensity Before Fitting RETIRED.
 type: docs
 weight: 27760
-url: /aspose.medical.dicom.tags/tag/operationonpixelintensitybeforefittingretired/
+url: /net/aspose.medical.dicom.tags/tag/operationonpixelintensitybeforefittingretired/
 ---
 
 ## Tag.OperationOnPixelIntensityBeforeFittingRETIRED field

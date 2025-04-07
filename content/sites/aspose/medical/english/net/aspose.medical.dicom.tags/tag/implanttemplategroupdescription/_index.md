@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00780010 VRST VM1 Implant Template Group Description.
 type: docs
 weight: 19910
-url: /aspose.medical.dicom.tags/tag/implanttemplategroupdescription/
+url: /net/aspose.medical.dicom.tags/tag/implanttemplategroupdescription/
 ---
 
 ## Tag.ImplantTemplateGroupDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144022 VRDS VM1 Pulse Width RETIRED.
 type: docs
 weight: 33860
-url: /aspose.medical.dicom.tags/tag/pulsewidthretired/
+url: /net/aspose.medical.dicom.tags/tag/pulsewidthretired/
 ---
 
 ## Tag.PulseWidthRETIRED field

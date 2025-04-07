@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010007B VRUT VM1 Prescription Notes.
 type: docs
 weight: 32450
-url: /aspose.medical.dicom.tags/tag/prescriptionnotes/
+url: /net/aspose.medical.dicom.tags/tag/prescriptionnotes/
 ---
 
 ## Tag.PrescriptionNotes field

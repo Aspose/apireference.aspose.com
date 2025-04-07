@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220004 VRUS VM2 Image Path Filter Pass Band.
 type: docs
 weight: 19320
-url: /aspose.medical.dicom.tags/tag/imagepathfilterpassband/
+url: /net/aspose.medical.dicom.tags/tag/imagepathfilterpassband/
 ---
 
 ## Tag.ImagePathFilterPassBand field

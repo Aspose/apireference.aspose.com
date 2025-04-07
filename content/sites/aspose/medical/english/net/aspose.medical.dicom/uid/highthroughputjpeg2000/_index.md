@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax High-Throughput JPEG 2000 Image Compression.
 type: docs
 weight: 1870
-url: /aspose.medical.dicom/uid/highthroughputjpeg2000/
+url: /net/aspose.medical.dicom/uid/highthroughputjpeg2000/
 ---
 
 ## Uid.HighThroughputJpeg2000 field

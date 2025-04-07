@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Nuclear Medicine Image Storage Retired.
 type: docs
 weight: 2820
-url: /aspose.medical.dicom/uid/nuclearmedicineimagestorageretired/
+url: /net/aspose.medical.dicom/uid/nuclearmedicineimagestorageretired/
 ---
 
 ## Uid.NuclearMedicineImageStorageRetired field

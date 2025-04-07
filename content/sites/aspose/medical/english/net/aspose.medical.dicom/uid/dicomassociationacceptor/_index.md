@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: LDAP OID dicomAssociationAcceptor.
 type: docs
 weight: 740
-url: /aspose.medical.dicom/uid/dicomassociationacceptor/
+url: /net/aspose.medical.dicom/uid/dicomassociationacceptor/
 ---
 
 ## Uid.DicomAssociationAcceptor field

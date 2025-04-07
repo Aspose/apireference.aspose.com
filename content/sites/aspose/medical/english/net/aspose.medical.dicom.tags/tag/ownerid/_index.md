@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21000160 VRSH VM1 Owner ID.
 type: docs
 weight: 29330
-url: /aspose.medical.dicom.tags/tag/ownerid/
+url: /net/aspose.medical.dicom.tags/tag/ownerid/
 ---
 
 ## Tag.OwnerID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540412 VRSQ VM1 Patient Orientation Modifier Code Sequence.
 type: docs
 weight: 29990
-url: /aspose.medical.dicom.tags/tag/patientorientationmodifiercodesequence/
+url: /net/aspose.medical.dicom.tags/tag/patientorientationmodifiercodesequence/
 ---
 
 ## Tag.PatientOrientationModifierCodeSequence field

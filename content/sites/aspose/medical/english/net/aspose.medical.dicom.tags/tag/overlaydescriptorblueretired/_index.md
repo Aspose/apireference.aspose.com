@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx1103 VRUS VM1 Overlay Descriptor - Blue RETIRED.
 type: docs
 weight: 28990
-url: /aspose.medical.dicom.tags/tag/overlaydescriptorblueretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaydescriptorblueretired/
 ---
 
 ## Tag.OverlayDescriptorBlueRETIRED field

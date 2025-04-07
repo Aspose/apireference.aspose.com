@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181301 VRCS VM1-n Whole Body Technique.
 type: docs
 weight: 52490
-url: /aspose.medical.dicom.tags/tag/wholebodytechnique/
+url: /net/aspose.medical.dicom.tags/tag/wholebodytechnique/
 ---
 
 ## Tag.WholeBodyTechnique field

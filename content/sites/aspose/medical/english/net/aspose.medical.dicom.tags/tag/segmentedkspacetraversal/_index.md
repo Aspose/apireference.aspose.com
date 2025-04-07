@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189033 VRCS VM1 Segmented k-Space Traversal.
 type: docs
 weight: 42090
-url: /aspose.medical.dicom.tags/tag/segmentedkspacetraversal/
+url: /net/aspose.medical.dicom.tags/tag/segmentedkspacetraversal/
 ---
 
 ## Tag.SegmentedKSpaceTraversal field

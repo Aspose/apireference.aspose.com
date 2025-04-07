@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289474 VRCS VM1 LUT Function.
 type: docs
 weight: 23230
-url: /aspose.medical.dicom.tags/tag/lutfunction/
+url: /net/aspose.medical.dicom.tags/tag/lutfunction/
 ---
 
 ## Tag.LUTFunction field

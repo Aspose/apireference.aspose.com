@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480116 VRSQ VM1 Confocal Microscopy Image Frame Type Sequence.
 type: docs
 weight: 7550
-url: /aspose.medical.dicom.tags/tag/confocalmicroscopyimageframetypesequence/
+url: /net/aspose.medical.dicom.tags/tag/confocalmicroscopyimageframetypesequence/
 ---
 
 ## Tag.ConfocalMicroscopyImageFrameTypeSequence field

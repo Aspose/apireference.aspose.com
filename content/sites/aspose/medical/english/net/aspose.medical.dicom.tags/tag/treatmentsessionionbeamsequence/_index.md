@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080021 VRSQ VM1 Treatment Session Ion Beam Sequence.
 type: docs
 weight: 49770
-url: /aspose.medical.dicom.tags/tag/treatmentsessionionbeamsequence/
+url: /net/aspose.medical.dicom.tags/tag/treatmentsessionionbeamsequence/
 ---
 
 ## Tag.TreatmentSessionIonBeamSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189076 VRSQ VM1 Diffusion Gradient Direction Sequence.
 type: docs
 weight: 11710
-url: /aspose.medical.dicom.tags/tag/diffusiongradientdirectionsequence/
+url: /net/aspose.medical.dicom.tags/tag/diffusiongradientdirectionsequence/
 ---
 
 ## Tag.DiffusionGradientDirectionSequence field

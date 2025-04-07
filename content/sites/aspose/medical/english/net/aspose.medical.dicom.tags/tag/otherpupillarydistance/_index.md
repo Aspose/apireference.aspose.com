@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460064 VRFD VM1 Other Pupillary Distance.
 type: docs
 weight: 28670
-url: /aspose.medical.dicom.tags/tag/otherpupillarydistance/
+url: /net/aspose.medical.dicom.tags/tag/otherpupillarydistance/
 ---
 
 ## Tag.OtherPupillaryDistance field

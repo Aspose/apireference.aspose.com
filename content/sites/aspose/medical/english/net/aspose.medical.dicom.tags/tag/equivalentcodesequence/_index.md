@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080121 VRSQ VM1 Equivalent Code Sequence.
 type: docs
 weight: 13930
-url: /aspose.medical.dicom.tags/tag/equivalentcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/equivalentcodesequence/
 ---
 
 ## Tag.EquivalentCodeSequence field

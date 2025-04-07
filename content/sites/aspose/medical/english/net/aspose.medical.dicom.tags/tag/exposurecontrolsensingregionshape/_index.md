@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189435 VRCS VM1 Exposure Control Sensing Region Shape.
 type: docs
 weight: 14500
-url: /aspose.medical.dicom.tags/tag/exposurecontrolsensingregionshape/
+url: /net/aspose.medical.dicom.tags/tag/exposurecontrolsensingregionshape/
 ---
 
 ## Tag.ExposureControlSensingRegionShape field

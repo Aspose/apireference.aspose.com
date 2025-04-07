@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400254 VRLO VM1 Performed Procedure Step Description.
 type: docs
 weight: 30620
-url: /aspose.medical.dicom.tags/tag/performedprocedurestepdescription/
+url: /net/aspose.medical.dicom.tags/tag/performedprocedurestepdescription/
 ---
 
 ## Tag.PerformedProcedureStepDescription field

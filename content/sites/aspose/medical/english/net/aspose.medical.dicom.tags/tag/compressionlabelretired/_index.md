@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280062 VRLO VM1 Compression Label RETIRED.
 type: docs
 weight: 7170
-url: /aspose.medical.dicom.tags/tag/compressionlabelretired/
+url: /net/aspose.medical.dicom.tags/tag/compressionlabelretired/
 ---
 
 ## Tag.CompressionLabelRETIRED field

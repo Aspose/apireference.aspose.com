@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0066000B VRLO VM1 Surface Processing Description.
 type: docs
 weight: 46480
-url: /aspose.medical.dicom.tags/tag/surfaceprocessingdescription/
+url: /net/aspose.medical.dicom.tags/tag/surfaceprocessingdescription/
 ---
 
 ## Tag.SurfaceProcessingDescription field

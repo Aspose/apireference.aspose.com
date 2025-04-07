@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209529 VRSQ VM1 Contributing SOP Instances Reference Sequence.
 type: docs
 weight: 8450
-url: /aspose.medical.dicom.tags/tag/contributingsopinstancesreferencesequence/
+url: /net/aspose.medical.dicom.tags/tag/contributingsopinstancesreferencesequence/
 ---
 
 ## Tag.ContributingSOPInstancesReferenceSequence field

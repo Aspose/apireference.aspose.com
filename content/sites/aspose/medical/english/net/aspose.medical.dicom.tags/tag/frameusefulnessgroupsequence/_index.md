@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00340009 VRSQ VM1 Frame Usefulness Group Sequence.
 type: docs
 weight: 16810
-url: /aspose.medical.dicom.tags/tag/frameusefulnessgroupsequence/
+url: /net/aspose.medical.dicom.tags/tag/frameusefulnessgroupsequence/
 ---
 
 ## Tag.FrameUsefulnessGroupSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0190 VRSQ VM1 Fixation Device Sequence.
 type: docs
 weight: 15690
-url: /aspose.medical.dicom.tags/tag/fixationdevicesequence/
+url: /net/aspose.medical.dicom.tags/tag/fixationdevicesequence/
 ---
 
 ## Tag.FixationDeviceSequence field

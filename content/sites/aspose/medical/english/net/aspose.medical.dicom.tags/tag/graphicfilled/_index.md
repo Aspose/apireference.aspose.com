@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700024 VRCS VM1 Graphic Filled.
 type: docs
 weight: 17810
-url: /aspose.medical.dicom.tags/tag/graphicfilled/
+url: /net/aspose.medical.dicom.tags/tag/graphicfilled/
 ---
 
 ## Tag.GraphicFilled field

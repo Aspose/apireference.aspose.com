@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142220 VRSQ VM1 Coordinate System Transform Sequence RETIRED.
 type: docs
 weight: 8740
-url: /aspose.medical.dicom.tags/tag/coordinatesystemtransformsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/coordinatesystemtransformsequenceretired/
 ---
 
 ## Tag.CoordinateSystemTransformSequenceRETIRED field

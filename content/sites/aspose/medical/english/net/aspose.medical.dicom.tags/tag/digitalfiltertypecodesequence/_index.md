@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0328 VRSQ VM1 Digital Filter Type Code Sequence.
 type: docs
 weight: 11760
-url: /aspose.medical.dicom.tags/tag/digitalfiltertypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/digitalfiltertypecodesequence/
 ---
 
 ## Tag.DigitalFilterTypeCodeSequence field

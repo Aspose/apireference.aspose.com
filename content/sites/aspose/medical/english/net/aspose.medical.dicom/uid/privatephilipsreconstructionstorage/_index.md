@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips Reconstruction Storage.
 type: docs
 weight: 3520
-url: /aspose.medical.dicom/uid/privatephilipsreconstructionstorage/
+url: /net/aspose.medical.dicom/uid/privatephilipsreconstructionstorage/
 ---
 
 ## Uid.PrivatePhilipsReconstructionStorage field

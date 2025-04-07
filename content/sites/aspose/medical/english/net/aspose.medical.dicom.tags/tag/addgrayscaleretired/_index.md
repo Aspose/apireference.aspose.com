@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00005150 VRCS VM1 Add Gray Scale RETIRED.
 type: docs
 weight: 800
-url: /aspose.medical.dicom.tags/tag/addgrayscaleretired/
+url: /net/aspose.medical.dicom.tags/tag/addgrayscaleretired/
 ---
 
 ## Tag.AddGrayScaleRETIRED field

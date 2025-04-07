@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400302 VRUS VM1 Entrance Dose.
 type: docs
 weight: 13810
-url: /aspose.medical.dicom.tags/tag/entrancedose/
+url: /net/aspose.medical.dicom.tags/tag/entrancedose/
 ---
 
 ## Tag.EntranceDose field

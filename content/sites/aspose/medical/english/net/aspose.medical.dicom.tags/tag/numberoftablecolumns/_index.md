@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A803 VRUL VM1 Number of Table Columns.
 type: docs
 weight: 26950
-url: /aspose.medical.dicom.tags/tag/numberoftablecolumns/
+url: /net/aspose.medical.dicom.tags/tag/numberoftablecolumns/
 ---
 
 ## Tag.NumberOfTableColumns field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040E010 VRUR VM1 Retrieve URI.
 type: docs
 weight: 39210
-url: /aspose.medical.dicom.tags/tag/retrieveuri/
+url: /net/aspose.medical.dicom.tags/tag/retrieveuri/
 ---
 
 ## Tag.RetrieveURI field

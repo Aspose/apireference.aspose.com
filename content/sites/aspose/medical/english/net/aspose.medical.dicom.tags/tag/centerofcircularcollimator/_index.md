@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181710 VRIS VM2 Center of Circular Collimator.
 type: docs
 weight: 5240
-url: /aspose.medical.dicom.tags/tag/centerofcircularcollimator/
+url: /net/aspose.medical.dicom.tags/tag/centerofcircularcollimator/
 ---
 
 ## Tag.CenterOfCircularCollimator field

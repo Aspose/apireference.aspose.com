@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00603002 VRUS VM1 Histogram Number of Bins.
 type: docs
 weight: 18390
-url: /aspose.medical.dicom.tags/tag/histogramnumberofbins/
+url: /net/aspose.medical.dicom.tags/tag/histogramnumberofbins/
 ---
 
 ## Tag.HistogramNumberOfBins field

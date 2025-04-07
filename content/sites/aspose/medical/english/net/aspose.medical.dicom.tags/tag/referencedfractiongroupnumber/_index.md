@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0022 VRIS VM1 Referenced Fraction Group Number.
 type: docs
 weight: 36420
-url: /aspose.medical.dicom.tags/tag/referencedfractiongroupnumber/
+url: /net/aspose.medical.dicom.tags/tag/referencedfractiongroupnumber/
 ---
 
 ## Tag.ReferencedFractionGroupNumber field

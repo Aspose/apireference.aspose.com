@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0796 VRUS VM1 Referenced Patient Setup Procedure Index.
 type: docs
 weight: 36900
-url: /aspose.medical.dicom.tags/tag/referencedpatientsetupprocedureindex/
+url: /net/aspose.medical.dicom.tags/tag/referencedpatientsetupprocedureindex/
 ---
 
 ## Tag.ReferencedPatientSetupProcedureIndex field

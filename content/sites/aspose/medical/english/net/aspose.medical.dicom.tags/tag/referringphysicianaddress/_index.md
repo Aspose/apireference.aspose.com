@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080092 VRST VM1 Referring Physicians Address.
 type: docs
 weight: 37840
-url: /aspose.medical.dicom.tags/tag/referringphysicianaddress/
+url: /net/aspose.medical.dicom.tags/tag/referringphysicianaddress/
 ---
 
 ## Tag.ReferringPhysicianAddress field

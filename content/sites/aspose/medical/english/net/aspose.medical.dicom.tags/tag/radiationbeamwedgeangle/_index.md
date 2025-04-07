@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0652 VRFD VM1 Radiation Beam Wedge Angle.
 type: docs
 weight: 34160
-url: /aspose.medical.dicom.tags/tag/radiationbeamwedgeangle/
+url: /net/aspose.medical.dicom.tags/tag/radiationbeamwedgeangle/
 ---
 
 ## Tag.RadiationBeamWedgeAngle field

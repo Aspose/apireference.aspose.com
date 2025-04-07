@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189525 VRLO VM1 Application Version.
 type: docs
 weight: 2140
-url: /aspose.medical.dicom.tags/tag/applicationversion/
+url: /net/aspose.medical.dicom.tags/tag/applicationversion/
 ---
 
 ## Tag.ApplicationVersion field

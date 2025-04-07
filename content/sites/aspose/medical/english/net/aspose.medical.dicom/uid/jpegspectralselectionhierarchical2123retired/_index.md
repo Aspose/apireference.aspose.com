@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax JPEG Spectral Selection Hierarchical Process 21 amp 23 Retired.
 type: docs
 weight: 2360
-url: /aspose.medical.dicom/uid/jpegspectralselectionhierarchical2123retired/
+url: /net/aspose.medical.dicom/uid/jpegspectralselectionhierarchical2123retired/
 ---
 
 ## Uid.JpegSpectralSelectionHierarchical2123Retired field

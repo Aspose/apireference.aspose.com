@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000552 VROB VM1 Nonconforming Data Element Value.
 type: docs
 weight: 25910
-url: /aspose.medical.dicom.tags/tag/nonconformingdataelementvalue/
+url: /net/aspose.medical.dicom.tags/tag/nonconformingdataelementvalue/
 ---
 
 ## Tag.NonconformingDataElementValue field

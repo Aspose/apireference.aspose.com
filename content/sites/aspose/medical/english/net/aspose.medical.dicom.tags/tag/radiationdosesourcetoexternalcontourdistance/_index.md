@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0628 VRFD VM1 Radiation Dose Source to External Contour Distance.
 type: docs
 weight: 34270
-url: /aspose.medical.dicom.tags/tag/radiationdosesourcetoexternalcontourdistance/
+url: /net/aspose.medical.dicom.tags/tag/radiationdosesourcetoexternalcontourdistance/
 ---
 
 ## Tag.RadiationDoseSourceToExternalContourDistance field

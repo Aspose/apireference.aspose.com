@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00A0 VRIS VM1 Number of Brachy Application Setups.
 type: docs
 weight: 26150
-url: /aspose.medical.dicom.tags/tag/numberofbrachyapplicationsetups/
+url: /net/aspose.medical.dicom.tags/tag/numberofbrachyapplicationsetups/
 ---
 
 ## Tag.NumberOfBrachyApplicationSetups field

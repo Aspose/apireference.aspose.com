@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281232 VRFD VM1 Maximum Stored Value Mapped.
 type: docs
 weight: 24040
-url: /aspose.medical.dicom.tags/tag/maximumstoredvaluemapped/
+url: /net/aspose.medical.dicom.tags/tag/maximumstoredvaluemapped/
 ---
 
 ## Tag.MaximumStoredValueMapped field

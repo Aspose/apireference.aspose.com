@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287026 VRCS VM1-n Measured Characteristics.
 type: docs
 weight: 24110
-url: /aspose.medical.dicom.tags/tag/measuredcharacteristics/
+url: /net/aspose.medical.dicom.tags/tag/measuredcharacteristics/
 ---
 
 ## Tag.MeasuredCharacteristics field

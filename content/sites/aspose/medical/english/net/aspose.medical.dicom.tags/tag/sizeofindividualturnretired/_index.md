@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146032 VRDS VM1-n Size of Individual Turn RETIRED.
 type: docs
 weight: 43530
-url: /aspose.medical.dicom.tags/tag/sizeofindividualturnretired/
+url: /net/aspose.medical.dicom.tags/tag/sizeofindividualturnretired/
 ---
 
 ## Tag.SizeOfIndividualTurnRETIRED field

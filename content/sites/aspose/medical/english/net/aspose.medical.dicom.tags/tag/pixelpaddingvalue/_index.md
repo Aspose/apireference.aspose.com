@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280120 VRUS or SS VM1 Pixel Padding Value.
 type: docs
 weight: 31500
-url: /aspose.medical.dicom.tags/tag/pixelpaddingvalue/
+url: /net/aspose.medical.dicom.tags/tag/pixelpaddingvalue/
 ---
 
 ## Tag.PixelPaddingValue field

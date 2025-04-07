@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540053 VRUS VM1 Number of Frames in Rotation.
 type: docs
 weight: 26410
-url: /aspose.medical.dicom.tags/tag/numberofframesinrotation/
+url: /net/aspose.medical.dicom.tags/tag/numberofframesinrotation/
 ---
 
 ## Tag.NumberOfFramesInRotation field

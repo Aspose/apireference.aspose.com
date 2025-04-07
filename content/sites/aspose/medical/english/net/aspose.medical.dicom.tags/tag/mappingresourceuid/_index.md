@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080118 VRUI VM1 Mapping Resource UID.
 type: docs
 weight: 23540
-url: /aspose.medical.dicom.tags/tag/mappingresourceuid/
+url: /net/aspose.medical.dicom.tags/tag/mappingresourceuid/
 ---
 
 ## Tag.MappingResourceUID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 2200000C VRLO VM1 Requested Media Application Profile.
 type: docs
 weight: 38680
-url: /aspose.medical.dicom.tags/tag/requestedmediaapplicationprofile/
+url: /net/aspose.medical.dicom.tags/tag/requestedmediaapplicationprofile/
 ---
 
 ## Tag.RequestedMediaApplicationProfile field

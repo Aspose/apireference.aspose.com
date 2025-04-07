@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00640007 VRUL VM3 Grid Dimensions.
 type: docs
 weight: 18030
-url: /aspose.medical.dicom.tags/tag/griddimensions/
+url: /net/aspose.medical.dicom.tags/tag/griddimensions/
 ---
 
 ## Tag.GridDimensions field

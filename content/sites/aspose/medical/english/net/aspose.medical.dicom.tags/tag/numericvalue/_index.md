@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A30A VRDS VM1-n Numeric Value.
 type: docs
 weight: 27180
-url: /aspose.medical.dicom.tags/tag/numericvalue/
+url: /net/aspose.medical.dicom.tags/tag/numericvalue/
 ---
 
 ## Tag.NumericValue field

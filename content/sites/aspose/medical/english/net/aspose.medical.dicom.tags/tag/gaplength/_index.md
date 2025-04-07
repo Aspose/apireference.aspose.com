@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700261 VRFL VM1 Gap Length.
 type: docs
 weight: 17050
-url: /aspose.medical.dicom.tags/tag/gaplength/
+url: /net/aspose.medical.dicom.tags/tag/gaplength/
 ---
 
 ## Tag.GapLength field

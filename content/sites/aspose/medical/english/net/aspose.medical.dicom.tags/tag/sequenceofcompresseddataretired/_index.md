@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280403 VRLO VM1-n Sequence of Compressed Data RETIRED.
 type: docs
 weight: 42830
-url: /aspose.medical.dicom.tags/tag/sequenceofcompresseddataretired/
+url: /net/aspose.medical.dicom.tags/tag/sequenceofcompresseddataretired/
 ---
 
 ## Tag.SequenceOfCompressedDataRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741401 VRSQ VM1 Brachy Task Sequence.
 type: docs
 weight: 4530
-url: /aspose.medical.dicom.tags/tag/brachytasksequence/
+url: /net/aspose.medical.dicom.tags/tag/brachytasksequence/
 ---
 
 ## Tag.BrachyTaskSequence field

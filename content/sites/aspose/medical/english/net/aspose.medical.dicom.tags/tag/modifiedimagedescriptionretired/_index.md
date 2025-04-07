@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00203406 VRLO VM1 Modified Image Description RETIRED.
 type: docs
 weight: 24770
-url: /aspose.medical.dicom.tags/tag/modifiedimagedescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/modifiedimagedescriptionretired/
 ---
 
 ## Tag.ModifiedImageDescriptionRETIRED field

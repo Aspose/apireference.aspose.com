@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Agfa Arrival Transaction.
 type: docs
 weight: 3140
-url: /aspose.medical.dicom/uid/privateagfaarrivaltransaction/
+url: /net/aspose.medical.dicom/uid/privateagfaarrivaltransaction/
 ---
 
 ## Uid.PrivateAgfaArrivalTransaction field

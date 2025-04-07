@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A192 VRDA VM1 Observation Date Trial RETIRED.
 type: docs
 weight: 27310
-url: /aspose.medical.dicom.tags/tag/observationdatetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/observationdatetrialretired/
 ---
 
 ## Tag.ObservationDateTrialRETIRED field

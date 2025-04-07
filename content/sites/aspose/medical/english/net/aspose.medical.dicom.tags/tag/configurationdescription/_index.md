@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028700D VRLO VM1 Configuration Description.
 type: docs
 weight: 7480
-url: /aspose.medical.dicom.tags/tag/configurationdescription/
+url: /net/aspose.medical.dicom.tags/tag/configurationdescription/
 ---
 
 ## Tag.ConfigurationDescription field

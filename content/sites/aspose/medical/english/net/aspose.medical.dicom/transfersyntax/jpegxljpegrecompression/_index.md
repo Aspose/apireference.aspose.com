@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: JPEG XL JPEG Recompression 1.2.840.10008.1.2.4.111.
 type: docs
 weight: 430
-url: /aspose.medical.dicom/transfersyntax/jpegxljpegrecompression/
+url: /net/aspose.medical.dicom/transfersyntax/jpegxljpegrecompression/
 ---
 
 ## TransferSyntax.JpegXLJpegRecompression field

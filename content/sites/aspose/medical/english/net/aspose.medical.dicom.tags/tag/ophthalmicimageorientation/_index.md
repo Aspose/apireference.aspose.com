@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220039 VRCS VM1 Ophthalmic Image Orientation.
 type: docs
 weight: 28110
-url: /aspose.medical.dicom.tags/tag/ophthalmicimageorientation/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicimageorientation/
 ---
 
 ## Tag.OphthalmicImageOrientation field

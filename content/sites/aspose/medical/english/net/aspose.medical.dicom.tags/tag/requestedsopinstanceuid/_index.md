@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00001001 VRUI VM1 Requested SOP Instance UID.
 type: docs
 weight: 38800
-url: /aspose.medical.dicom.tags/tag/requestedsopinstanceuid/
+url: /net/aspose.medical.dicom.tags/tag/requestedsopinstanceuid/
 ---
 
 ## Tag.RequestedSOPInstanceUID field

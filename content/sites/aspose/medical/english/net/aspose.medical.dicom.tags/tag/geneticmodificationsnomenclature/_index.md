@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100223 VRLO VM1 Genetic Modifications Nomenclature.
 type: docs
 weight: 17300
-url: /aspose.medical.dicom.tags/tag/geneticmodificationsnomenclature/
+url: /net/aspose.medical.dicom.tags/tag/geneticmodificationsnomenclature/
 ---
 
 ## Tag.GeneticModificationsNomenclature field

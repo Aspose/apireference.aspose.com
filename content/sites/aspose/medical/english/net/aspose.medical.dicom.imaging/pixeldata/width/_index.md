@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The DICOM image width columns in pixels. Read/Write UInt16.
 type: docs
 weight: 210
-url: /aspose.medical.dicom.imaging/pixeldata/width/
+url: /net/aspose.medical.dicom.imaging/pixeldata/width/
 ---
 
 ## PixelData.Width property

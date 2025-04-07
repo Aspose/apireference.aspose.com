@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 40
-url: /aspose.medical.dicom.lookuptables/voilookuptable/minimum/
+url: /net/aspose.medical.dicom.lookuptables/voilookuptable/minimum/
 ---
 
 ## VoiLookupTable.Minimum property

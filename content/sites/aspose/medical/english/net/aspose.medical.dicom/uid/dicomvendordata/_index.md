@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: LDAP OID dicomVendorData.
 type: docs
 weight: 1130
-url: /aspose.medical.dicom/uid/dicomvendordata/
+url: /net/aspose.medical.dicom/uid/dicomvendordata/
 ---
 
 ## Uid.DicomVendorData field

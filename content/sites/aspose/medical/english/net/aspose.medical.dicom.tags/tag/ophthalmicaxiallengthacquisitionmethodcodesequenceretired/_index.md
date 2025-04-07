@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221153 VRSQ VM1 Ophthalmic Axial Length Acquisition Method Code Sequence RETIRED.
 type: docs
 weight: 27860
-url: /aspose.medical.dicom.tags/tag/ophthalmicaxiallengthacquisitionmethodcodesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicaxiallengthacquisitionmethodcodesequenceretired/
 ---
 
 ## Tag.OphthalmicAxialLengthAcquisitionMethodCodeSequenceRETIRED field

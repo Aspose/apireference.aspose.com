@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189805 VRFD VM1 Exclusion Duration.
 type: docs
 weight: 14310
-url: /aspose.medical.dicom.tags/tag/exclusionduration/
+url: /net/aspose.medical.dicom.tags/tag/exclusionduration/
 ---
 
 ## Tag.ExclusionDuration field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100075 VRCS VM1 Dosimetric Objective Purpose.
 type: docs
 weight: 12870
-url: /aspose.medical.dicom.tags/tag/dosimetricobjectivepurpose/
+url: /net/aspose.medical.dicom.tags/tag/dosimetricobjectivepurpose/
 ---
 
 ## Tag.DosimetricObjectivePurpose field

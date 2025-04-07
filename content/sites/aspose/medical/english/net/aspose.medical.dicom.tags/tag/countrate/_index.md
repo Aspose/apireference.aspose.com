@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181243 VRIS VM1 Count Rate.
 type: docs
 weight: 9010
-url: /aspose.medical.dicom.tags/tag/countrate/
+url: /net/aspose.medical.dicom.tags/tag/countrate/
 ---
 
 ## Tag.CountRate field

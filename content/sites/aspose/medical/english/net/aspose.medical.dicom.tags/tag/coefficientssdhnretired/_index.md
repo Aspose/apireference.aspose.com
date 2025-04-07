@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 7FE00030 VROW VM1 Coefficients SDHN RETIRED.
 type: docs
 weight: 6250
-url: /aspose.medical.dicom.tags/tag/coefficientssdhnretired/
+url: /net/aspose.medical.dicom.tags/tag/coefficientssdhnretired/
 ---
 
 ## Tag.CoefficientsSDHNRETIRED field

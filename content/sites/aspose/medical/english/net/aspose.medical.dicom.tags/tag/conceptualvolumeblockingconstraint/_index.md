@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100068 VRCS VM1 Conceptual Volume Blocking Constraint.
 type: docs
 weight: 7270
-url: /aspose.medical.dicom.tags/tag/conceptualvolumeblockingconstraint/
+url: /net/aspose.medical.dicom.tags/tag/conceptualvolumeblockingconstraint/
 ---
 
 ## Tag.ConceptualVolumeBlockingConstraint field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040062 VRCS VM1 DVH ROI Contribution Type.
 type: docs
 weight: 13150
-url: /aspose.medical.dicom.tags/tag/dvhroicontributiontype/
+url: /net/aspose.medical.dicom.tags/tag/dvhroicontributiontype/
 ---
 
 ## Tag.DVHROIContributionType field

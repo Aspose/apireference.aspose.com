@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A525 VRSQ VM1 Identical Documents Sequence.
 type: docs
 weight: 18730
-url: /aspose.medical.dicom.tags/tag/identicaldocumentssequence/
+url: /net/aspose.medical.dicom.tags/tag/identicaldocumentssequence/
 ---
 
 ## Tag.IdenticalDocumentsSequence field

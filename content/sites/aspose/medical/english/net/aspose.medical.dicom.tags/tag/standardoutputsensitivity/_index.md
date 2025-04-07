@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016001B VRIS VM1 Standard Output Sensitivity.
 type: docs
 weight: 45280
-url: /aspose.medical.dicom.tags/tag/standardoutputsensitivity/
+url: /net/aspose.medical.dicom.tags/tag/standardoutputsensitivity/
 ---
 
 ## Tag.StandardOutputSensitivity field

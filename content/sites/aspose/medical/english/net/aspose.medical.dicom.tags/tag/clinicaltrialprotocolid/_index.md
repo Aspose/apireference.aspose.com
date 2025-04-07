@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120020 VRLO VM1 Clinical Trial Protocol ID.
 type: docs
 weight: 5930
-url: /aspose.medical.dicom.tags/tag/clinicaltrialprotocolid/
+url: /net/aspose.medical.dicom.tags/tag/clinicaltrialprotocolid/
 ---
 
 ## Tag.ClinicalTrialProtocolID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101061 VRFL VM3 Source Position RETIRED.
 type: docs
 weight: 44420
-url: /aspose.medical.dicom.tags/tag/sourcepositionretired/
+url: /net/aspose.medical.dicom.tags/tag/sourcepositionretired/
 ---
 
 ## Tag.SourcePositionRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189941 VRUT VM1 Image Filter Description.
 type: docs
 weight: 19160
-url: /aspose.medical.dicom.tags/tag/imagefilterdescription/
+url: /net/aspose.medical.dicom.tags/tag/imagefilterdescription/
 ---
 
 ## Tag.ImageFilterDescription field

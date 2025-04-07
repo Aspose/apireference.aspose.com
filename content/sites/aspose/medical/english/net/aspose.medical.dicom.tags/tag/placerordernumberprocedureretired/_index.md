@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401006 VRSH VM1 Placer Order Number / Procedure RETIRED.
 type: docs
 weight: 31650
-url: /aspose.medical.dicom.tags/tag/placerordernumberprocedureretired/
+url: /net/aspose.medical.dicom.tags/tag/placerordernumberprocedureretired/
 ---
 
 ## Tag.PlacerOrderNumberProcedureRETIRED field

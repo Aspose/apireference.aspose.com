@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181120 VRDS VM1 Gantry/Detector Tilt.
 type: docs
 weight: 16970
-url: /aspose.medical.dicom.tags/tag/gantrydetectortilt/
+url: /net/aspose.medical.dicom.tags/tag/gantrydetectortilt/
 ---
 
 ## Tag.GantryDetectorTilt field

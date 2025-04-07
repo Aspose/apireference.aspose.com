@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072000E VRSQ VM1 Hanging Protocol User Identification Code Sequence.
 type: docs
 weight: 18210
-url: /aspose.medical.dicom.tags/tag/hangingprotocoluseridentificationcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/hangingprotocoluseridentificationcodesequence/
 ---
 
 ## Tag.HangingProtocolUserIdentificationCodeSequence field

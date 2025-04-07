@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400318 VRCS VM1 Organ Exposed.
 type: docs
 weight: 28480
-url: /aspose.medical.dicom.tags/tag/organexposed/
+url: /net/aspose.medical.dicom.tags/tag/organexposed/
 ---
 
 ## Tag.OrganExposed field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189931 VRSQ VM1 Acquisition Start Location Sequence.
 type: docs
 weight: 530
-url: /aspose.medical.dicom.tags/tag/acquisitionstartlocationsequence/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionstartlocationsequence/
 ---
 
 ## Tag.AcquisitionStartLocationSequence field

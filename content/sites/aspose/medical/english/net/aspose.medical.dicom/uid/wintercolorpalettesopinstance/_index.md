@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Well-known SOP Instance Winter Color Palette SOP Instance.
 type: docs
 weight: 5140
-url: /aspose.medical.dicom/uid/wintercolorpalettesopinstance/
+url: /net/aspose.medical.dicom/uid/wintercolorpalettesopinstance/
 ---
 
 ## Uid.WinterColorPaletteSOPInstance field

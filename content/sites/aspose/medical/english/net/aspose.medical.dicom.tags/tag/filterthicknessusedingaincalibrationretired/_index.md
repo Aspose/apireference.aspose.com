@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143075 VRDS VM1 Filter Thickness Used in Gain Calibration RETIRED.
 type: docs
 weight: 15460
-url: /aspose.medical.dicom.tags/tag/filterthicknessusedingaincalibrationretired/
+url: /net/aspose.medical.dicom.tags/tag/filterthicknessusedingaincalibrationretired/
 ---
 
 ## Tag.FilterThicknessUsedInGainCalibrationRETIRED field

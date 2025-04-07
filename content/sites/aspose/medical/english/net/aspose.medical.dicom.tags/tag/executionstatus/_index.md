@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21000020 VRCS VM1 Execution Status.
 type: docs
 weight: 14340
-url: /aspose.medical.dicom.tags/tag/executionstatus/
+url: /net/aspose.medical.dicom.tags/tag/executionstatus/
 ---
 
 ## Tag.ExecutionStatus field

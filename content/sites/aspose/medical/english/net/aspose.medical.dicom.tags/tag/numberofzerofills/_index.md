@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189066 VRUS VM1-2 Number of Zero Fills.
 type: docs
 weight: 27170
-url: /aspose.medical.dicom.tags/tag/numberofzerofills/
+url: /net/aspose.medical.dicom.tags/tag/numberofzerofills/
 ---
 
 ## Tag.NumberOfZeroFills field

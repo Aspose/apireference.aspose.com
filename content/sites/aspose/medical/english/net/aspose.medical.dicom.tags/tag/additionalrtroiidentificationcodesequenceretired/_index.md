@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300600B9 VRSQ VM1 Additional RT ROI Identification Code Sequence RETIRED.
 type: docs
 weight: 880
-url: /aspose.medical.dicom.tags/tag/additionalrtroiidentificationcodesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/additionalrtroiidentificationcodesequenceretired/
 ---
 
 ## Tag.AdditionalRTROIIdentificationCodeSequenceRETIRED field

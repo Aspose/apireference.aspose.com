@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A160 VRUT VM1 Text Value.
 type: docs
 weight: 47870
-url: /aspose.medical.dicom.tags/tag/textvalue/
+url: /net/aspose.medical.dicom.tags/tag/textvalue/
 ---
 
 ## Tag.TextValue field

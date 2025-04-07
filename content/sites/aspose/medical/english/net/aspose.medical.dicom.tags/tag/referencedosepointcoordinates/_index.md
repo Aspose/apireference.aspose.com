@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A061E VRFD VM3 Reference Dose Point Coordinates.
 type: docs
 weight: 36770
-url: /aspose.medical.dicom.tags/tag/referencedosepointcoordinates/
+url: /net/aspose.medical.dicom.tags/tag/referencedosepointcoordinates/
 ---
 
 ## Tag.ReferenceDosePointCoordinates field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189760 VRCS VM1 Scatter Corrected.
 type: docs
 weight: 41220
-url: /aspose.medical.dicom.tags/tag/scattercorrected/
+url: /net/aspose.medical.dicom.tags/tag/scattercorrected/
 ---
 
 ## Tag.ScatterCorrected field

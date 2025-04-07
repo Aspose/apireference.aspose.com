@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101008 VRCS VM1 Gantry Type RETIRED.
 type: docs
 weight: 17040
-url: /aspose.medical.dicom.tags/tag/gantrytyperetired/
+url: /net/aspose.medical.dicom.tags/tag/gantrytyperetired/
 ---
 
 ## Tag.GantryTypeRETIRED field

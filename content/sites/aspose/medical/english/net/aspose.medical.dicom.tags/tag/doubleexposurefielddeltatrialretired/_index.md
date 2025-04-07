@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0074103A VRDS VM4 Double Exposure Field Delta Trial RETIRED.
 type: docs
 weight: 12930
-url: /aspose.medical.dicom.tags/tag/doubleexposurefielddeltatrialretired/
+url: /net/aspose.medical.dicom.tags/tag/doubleexposurefielddeltatrialretired/
 ---
 
 ## Tag.DoubleExposureFieldDeltaTrialRETIRED field

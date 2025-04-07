@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200032 VRDS VM3 Image Position Patient.
 type: docs
 weight: 19360
-url: /aspose.medical.dicom.tags/tag/imagepositionpatient/
+url: /net/aspose.medical.dicom.tags/tag/imagepositionpatient/
 ---
 
 ## Tag.ImagePositionPatient field

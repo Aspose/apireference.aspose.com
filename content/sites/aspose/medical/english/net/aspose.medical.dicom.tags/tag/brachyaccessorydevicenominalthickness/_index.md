@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A026A VRDS VM1 Brachy Accessory Device Nominal Thickness.
 type: docs
 weight: 4420
-url: /aspose.medical.dicom.tags/tag/brachyaccessorydevicenominalthickness/
+url: /net/aspose.medical.dicom.tags/tag/brachyaccessorydevicenominalthickness/
 ---
 
 ## Tag.BrachyAccessoryDeviceNominalThickness field

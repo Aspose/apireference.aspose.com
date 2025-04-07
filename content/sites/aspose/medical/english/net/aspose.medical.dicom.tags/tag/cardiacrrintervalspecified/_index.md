@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189070 VRFD VM1 Cardiac R-R Interval Specified.
 type: docs
 weight: 5080
-url: /aspose.medical.dicom.tags/tag/cardiacrrintervalspecified/
+url: /net/aspose.medical.dicom.tags/tag/cardiacrrintervalspecified/
 ---
 
 ## Tag.CardiacRRIntervalSpecified field

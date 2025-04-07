@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101015 VRCS VM1 ATD Assessment Flag RETIRED.
 type: docs
 weight: 2700
-url: /aspose.medical.dicom.tags/tag/atdassessmentflagretired/
+url: /net/aspose.medical.dicom.tags/tag/atdassessmentflagretired/
 ---
 
 ## Tag.ATDAssessmentFlagRETIRED field

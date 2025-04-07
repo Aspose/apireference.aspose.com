@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0315 VRDS VM1 Impedance Measurement Frequency.
 type: docs
 weight: 19780
-url: /aspose.medical.dicom.tags/tag/impedancemeasurementfrequency/
+url: /net/aspose.medical.dicom.tags/tag/impedancemeasurementfrequency/
 ---
 
 ## Tag.ImpedanceMeasurementFrequency field

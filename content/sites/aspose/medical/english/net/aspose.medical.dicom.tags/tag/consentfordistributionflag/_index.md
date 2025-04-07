@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120085 VRCS VM1 Consent for Distribution Flag.
 type: docs
 weight: 7590
-url: /aspose.medical.dicom.tags/tag/consentfordistributionflag/
+url: /net/aspose.medical.dicom.tags/tag/consentfordistributionflag/
 ---
 
 ## Tag.ConsentForDistributionFlag field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146053 VRCS VM1 Spatial Filtering Scheme RETIRED.
 type: docs
 weight: 44710
-url: /aspose.medical.dicom.tags/tag/spatialfilteringschemeretired/
+url: /net/aspose.medical.dicom.tags/tag/spatialfilteringschemeretired/
 ---
 
 ## Tag.SpatialFilteringSchemeRETIRED field

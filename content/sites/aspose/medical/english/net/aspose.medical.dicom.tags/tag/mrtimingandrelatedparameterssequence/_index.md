@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189112 VRSQ VM1 MR Timing and Related Parameters Sequence.
 type: docs
 weight: 25320
-url: /aspose.medical.dicom.tags/tag/mrtimingandrelatedparameterssequence/
+url: /net/aspose.medical.dicom.tags/tag/mrtimingandrelatedparameterssequence/
 ---
 
 ## Tag.MRTimingAndRelatedParametersSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018993B VRSQ VM1 Reconstruction Start Location Sequence.
 type: docs
 weight: 35700
-url: /aspose.medical.dicom.tags/tag/reconstructionstartlocationsequence/
+url: /net/aspose.medical.dicom.tags/tag/reconstructionstartlocationsequence/
 ---
 
 ## Tag.ReconstructionStartLocationSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700051 VRUS VM2 Displayed Area Bottom Right Hand Corner Trial RETIRED.
 type: docs
 weight: 12050
-url: /aspose.medical.dicom.tags/tag/displayedareabottomrighthandcornertrialretired/
+url: /net/aspose.medical.dicom.tags/tag/displayedareabottomrighthandcornertrialretired/
 ---
 
 ## Tag.DisplayedAreaBottomRightHandCornerTrialRETIRED field

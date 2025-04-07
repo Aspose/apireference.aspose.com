@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00203403 VRDA VM1 Modified Image Date RETIRED.
 type: docs
 weight: 24760
-url: /aspose.medical.dicom.tags/tag/modifiedimagedateretired/
+url: /net/aspose.medical.dicom.tags/tag/modifiedimagedateretired/
 ---
 
 ## Tag.ModifiedImageDateRETIRED field

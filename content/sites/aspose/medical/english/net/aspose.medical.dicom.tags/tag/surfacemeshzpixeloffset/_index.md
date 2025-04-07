@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221658 VRUL VM1 Surface Mesh Z-Pixel Offset.
 type: docs
 weight: 46350
-url: /aspose.medical.dicom.tags/tag/surfacemeshzpixeloffset/
+url: /net/aspose.medical.dicom.tags/tag/surfacemeshzpixeloffset/
 ---
 
 ## Tag.SurfaceMeshZPixelOffset field

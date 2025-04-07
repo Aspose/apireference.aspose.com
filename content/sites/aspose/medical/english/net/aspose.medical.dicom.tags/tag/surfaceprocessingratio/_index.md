@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0066000A VRFL VM1 Surface Processing Ratio.
 type: docs
 weight: 46490
-url: /aspose.medical.dicom.tags/tag/surfaceprocessingratio/
+url: /net/aspose.medical.dicom.tags/tag/surfaceprocessingratio/
 ---
 
 ## Tag.SurfaceProcessingRatio field

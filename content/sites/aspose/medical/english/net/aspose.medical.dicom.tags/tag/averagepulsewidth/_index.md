@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181154 VRDS VM1 Average Pulse Width.
 type: docs
 weight: 3040
-url: /aspose.medical.dicom.tags/tag/averagepulsewidth/
+url: /net/aspose.medical.dicom.tags/tag/averagepulsewidth/
 ---
 
 ## Tag.AveragePulseWidth field

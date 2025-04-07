@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200105 VRIS VM1 Number of Temporal Positions.
 type: docs
 weight: 26990
-url: /aspose.medical.dicom.tags/tag/numberoftemporalpositions/
+url: /net/aspose.medical.dicom.tags/tag/numberoftemporalpositions/
 ---
 
 ## Tag.NumberOfTemporalPositions field

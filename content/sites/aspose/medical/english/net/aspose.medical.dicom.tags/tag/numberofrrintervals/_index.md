@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540061 VRUS VM1 Number of R-R Intervals.
 type: docs
 weight: 26770
-url: /aspose.medical.dicom.tags/tag/numberofrrintervals/
+url: /net/aspose.medical.dicom.tags/tag/numberofrrintervals/
 ---
 
 ## Tag.NumberOfRRIntervals field

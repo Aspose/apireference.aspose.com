@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0306 VRSS VM1 Radiation Charge State.
 type: docs
 weight: 34180
-url: /aspose.medical.dicom.tags/tag/radiationchargestate/
+url: /net/aspose.medical.dicom.tags/tag/radiationchargestate/
 ---
 
 ## Tag.RadiationChargeState field

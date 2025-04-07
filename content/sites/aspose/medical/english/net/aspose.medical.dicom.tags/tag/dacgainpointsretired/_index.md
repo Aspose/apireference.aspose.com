@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144038 VRDS VM1-n DAC Gain Points RETIRED.
 type: docs
 weight: 9660
-url: /aspose.medical.dicom.tags/tag/dacgainpointsretired/
+url: /net/aspose.medical.dicom.tags/tag/dacgainpointsretired/
 ---
 
 ## Tag.DACGainPointsRETIRED field

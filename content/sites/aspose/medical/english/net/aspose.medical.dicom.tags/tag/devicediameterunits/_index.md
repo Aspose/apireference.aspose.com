@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00500017 VRCS VM1 Device Diameter Units.
 type: docs
 weight: 11320
-url: /aspose.medical.dicom.tags/tag/devicediameterunits/
+url: /net/aspose.medical.dicom.tags/tag/devicediameterunits/
 ---
 
 ## Tag.DeviceDiameterUnits field

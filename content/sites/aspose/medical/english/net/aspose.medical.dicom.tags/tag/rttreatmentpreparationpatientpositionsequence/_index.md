@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A078A VRSQ VM1 RT Treatment Preparation Patient Position Sequence.
 type: docs
 weight: 40710
-url: /aspose.medical.dicom.tags/tag/rttreatmentpreparationpatientpositionsequence/
+url: /net/aspose.medical.dicom.tags/tag/rttreatmentpreparationpatientpositionsequence/
 ---
 
 ## Tag.RTTreatmentPreparationPatientPositionSequence field

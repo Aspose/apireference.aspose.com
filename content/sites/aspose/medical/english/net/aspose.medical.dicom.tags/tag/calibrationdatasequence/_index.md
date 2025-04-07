@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540306 VRSQ VM1 Calibration Data Sequence.
 type: docs
 weight: 4900
-url: /aspose.medical.dicom.tags/tag/calibrationdatasequence/
+url: /net/aspose.medical.dicom.tags/tag/calibrationdatasequence/
 ---
 
 ## Tag.CalibrationDataSequence field

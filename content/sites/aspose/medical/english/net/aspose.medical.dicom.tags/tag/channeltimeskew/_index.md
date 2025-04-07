@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0214 VRDS VM1 Channel Time Skew.
 type: docs
 weight: 5760
-url: /aspose.medical.dicom.tags/tag/channeltimeskew/
+url: /net/aspose.medical.dicom.tags/tag/channeltimeskew/
 ---
 
 ## Tag.ChannelTimeSkew field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041600 VRUL VM1 Number of References RETIRED.
 type: docs
 weight: 26730
-url: /aspose.medical.dicom.tags/tag/numberofreferencesretired/
+url: /net/aspose.medical.dicom.tags/tag/numberofreferencesretired/
 ---
 
 ## Tag.NumberOfReferencesRETIRED field

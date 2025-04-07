@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0107 VRSQ VM1 Applicator Sequence.
 type: docs
 weight: 2220
-url: /aspose.medical.dicom.tags/tag/applicatorsequence/
+url: /net/aspose.medical.dicom.tags/tag/applicatorsequence/
 ---
 
 ## Tag.ApplicatorSequence field

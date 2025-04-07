@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Gets or sets the blue component.
 type: docs
 weight: 50
-url: /aspose.medical.imaging.pixelformats/rgba32/b/
+url: /net/aspose.medical.imaging.pixelformats/rgba32/b/
 ---
 
 ## Rgba32.B field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081084 VRSQ VM1 Admitting Diagnoses Code Sequence.
 type: docs
 weight: 970
-url: /aspose.medical.dicom.tags/tag/admittingdiagnosescodesequence/
+url: /net/aspose.medical.dicom.tags/tag/admittingdiagnosescodesequence/
 ---
 
 ## Tag.AdmittingDiagnosesCodeSequence field

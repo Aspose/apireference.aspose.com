@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00004010 VRLT VM1 Terminal Type RETIRED.
 type: docs
 weight: 47670
-url: /aspose.medical.dicom.tags/tag/terminaltyperetired/
+url: /net/aspose.medical.dicom.tags/tag/terminaltyperetired/
 ---
 
 ## Tag.TerminalTypeRETIRED field

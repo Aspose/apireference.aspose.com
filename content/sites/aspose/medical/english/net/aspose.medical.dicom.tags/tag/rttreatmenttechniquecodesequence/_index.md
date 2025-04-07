@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100080 VRSQ VM1 RT Treatment Technique Code Sequence.
 type: docs
 weight: 40730
-url: /aspose.medical.dicom.tags/tag/rttreatmenttechniquecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/rttreatmenttechniquecodesequence/
 ---
 
 ## Tag.RTTreatmentTechniqueCodeSequence field

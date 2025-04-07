@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189555 VRSQ VM1 X-Ray Grid Sequence.
 type: docs
 weight: 52780
-url: /aspose.medical.dicom.tags/tag/xraygridsequence/
+url: /net/aspose.medical.dicom.tags/tag/xraygridsequence/
 ---
 
 ## Tag.XRayGridSequence field

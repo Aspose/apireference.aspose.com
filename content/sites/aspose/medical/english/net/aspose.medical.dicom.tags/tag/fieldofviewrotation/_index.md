@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187032 VRDS VM1 Field of View Rotation.
 type: docs
 weight: 15020
-url: /aspose.medical.dicom.tags/tag/fieldofviewrotation/
+url: /net/aspose.medical.dicom.tags/tag/fieldofviewrotation/
 ---
 
 ## Tag.FieldOfViewRotation field

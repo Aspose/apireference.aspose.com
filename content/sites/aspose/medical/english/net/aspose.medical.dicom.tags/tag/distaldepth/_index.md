@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0502 VRFL VM1 Distal Depth.
 type: docs
 weight: 12320
-url: /aspose.medical.dicom.tags/tag/distaldepth/
+url: /net/aspose.medical.dicom.tags/tag/distaldepth/
 ---
 
 ## Tag.DistalDepth field

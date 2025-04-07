@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A138 VRDS VM1-n Referenced Time Offsets.
 type: docs
 weight: 37600
-url: /aspose.medical.dicom.tags/tag/referencedtimeoffsets/
+url: /net/aspose.medical.dicom.tags/tag/referencedtimeoffsets/
 ---
 
 ## Tag.ReferencedTimeOffsets field

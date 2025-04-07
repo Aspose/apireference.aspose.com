@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160042 VRUS VM1 Exposure Mode.
 type: docs
 weight: 14570
-url: /aspose.medical.dicom.tags/tag/exposuremode/
+url: /net/aspose.medical.dicom.tags/tag/exposuremode/
 ---
 
 ## Tag.ExposureMode field

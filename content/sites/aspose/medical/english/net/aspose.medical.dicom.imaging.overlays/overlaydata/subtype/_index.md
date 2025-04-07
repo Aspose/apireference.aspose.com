@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The overlay subtype. Read/Write String.
 type: docs
 weight: 110
-url: /aspose.medical.dicom.imaging.overlays/overlaydata/subtype/
+url: /net/aspose.medical.dicom.imaging.overlays/overlaydata/subtype/
 ---
 
 ## OverlayData.Subtype property

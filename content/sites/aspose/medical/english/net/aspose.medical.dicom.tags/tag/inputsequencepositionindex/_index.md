@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701203 VRUS VM1 Input Sequence Position Index.
 type: docs
 weight: 20420
-url: /aspose.medical.dicom.tags/tag/inputsequencepositionindex/
+url: /net/aspose.medical.dicom.tags/tag/inputsequencepositionindex/
 ---
 
 ## Tag.InputSequencePositionIndex field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Digital Intra-Oral X-Ray Image Storage - For Processing.
 type: docs
 weight: 1220
-url: /aspose.medical.dicom/uid/digitalintraoralxrayimagestorageforprocessing/
+url: /net/aspose.medical.dicom/uid/digitalintraoralxrayimagestorageforprocessing/
 ---
 
 ## Uid.DigitalIntraOralXRayImageStorageForProcessing field

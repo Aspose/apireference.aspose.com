@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax JPIP Referenced.
 type: docs
 weight: 2440
-url: /aspose.medical.dicom/uid/jpipreferenced/
+url: /net/aspose.medical.dicom/uid/jpipreferenced/
 ---
 
 ## Uid.JpipReferenced field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540060 VRUS VM1-n R-R Interval Vector.
 type: docs
 weight: 39840
-url: /aspose.medical.dicom.tags/tag/rrintervalvector/
+url: /net/aspose.medical.dicom.tags/tag/rrintervalvector/
 ---
 
 ## Tag.RRIntervalVector field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100002 VRCS VM1 Radiobiological Dose Effect Flag.
 type: docs
 weight: 34510
-url: /aspose.medical.dicom.tags/tag/radiobiologicaldoseeffectflag/
+url: /net/aspose.medical.dicom.tags/tag/radiobiologicaldoseeffectflag/
 ---
 
 ## Tag.RadiobiologicalDoseEffectFlag field

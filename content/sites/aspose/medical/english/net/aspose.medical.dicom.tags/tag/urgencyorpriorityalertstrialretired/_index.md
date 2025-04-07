@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A057 VRCS VM1-n Urgency or Priority Alerts Trial RETIRED.
 type: docs
 weight: 50560
-url: /aspose.medical.dicom.tags/tag/urgencyorpriorityalertstrialretired/
+url: /net/aspose.medical.dicom.tags/tag/urgencyorpriorityalertstrialretired/
 ---
 
 ## Tag.UrgencyOrPriorityAlertsTrialRETIRED field

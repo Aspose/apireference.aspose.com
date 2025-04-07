@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00640010 VRSQ VM1 Post Deformation Matrix Registration Sequence.
 type: docs
 weight: 32180
-url: /aspose.medical.dicom.tags/tag/postdeformationmatrixregistrationsequence/
+url: /net/aspose.medical.dicom.tags/tag/postdeformationmatrixregistrationsequence/
 ---
 
 ## Tag.PostDeformationMatrixRegistrationSequence field

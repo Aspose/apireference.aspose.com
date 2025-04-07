@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082253 VRSQ VM1 Anatomic Portal Of Entrance Code Sequence Trial RETIRED.
 type: docs
 weight: 1530
-url: /aspose.medical.dicom.tags/tag/anatomicportalofentrancecodesequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/anatomicportalofentrancecodesequencetrialretired/
 ---
 
 ## Tag.AnatomicPortalOfEntranceCodeSequenceTrialRETIRED field

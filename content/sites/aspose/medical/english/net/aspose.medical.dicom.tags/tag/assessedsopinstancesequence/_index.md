@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820004 VRSQ VM1 Assessed SOP Instance Sequence.
 type: docs
 weight: 2570
-url: /aspose.medical.dicom.tags/tag/assessedsopinstancesequence/
+url: /net/aspose.medical.dicom.tags/tag/assessedsopinstancesequence/
 ---
 
 ## Tag.AssessedSOPInstanceSequence field

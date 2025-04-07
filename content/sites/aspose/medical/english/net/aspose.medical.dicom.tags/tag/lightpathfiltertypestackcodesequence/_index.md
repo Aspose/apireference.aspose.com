@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220017 VRSQ VM1 Light Path Filter Type Stack Code Sequence.
 type: docs
 weight: 22760
-url: /aspose.medical.dicom.tags/tag/lightpathfiltertypestackcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/lightpathfiltertypestackcodesequence/
 ---
 
 ## Tag.LightPathFilterTypeStackCodeSequence field

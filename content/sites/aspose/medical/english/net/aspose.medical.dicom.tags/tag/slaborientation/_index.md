@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189105 VRFD VM3 Slab Orientation.
 type: docs
 weight: 43560
-url: /aspose.medical.dicom.tags/tag/slaborientation/
+url: /net/aspose.medical.dicom.tags/tag/slaborientation/
 ---
 
 ## Tag.SlabOrientation field

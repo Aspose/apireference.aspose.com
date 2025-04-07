@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02E2 VRDS VM1-n Source to Compensator Distance.
 type: docs
 weight: 44580
-url: /aspose.medical.dicom.tags/tag/sourcetocompensatordistance/
+url: /net/aspose.medical.dicom.tags/tag/sourcetocompensatordistance/
 ---
 
 ## Tag.SourceToCompensatorDistance field

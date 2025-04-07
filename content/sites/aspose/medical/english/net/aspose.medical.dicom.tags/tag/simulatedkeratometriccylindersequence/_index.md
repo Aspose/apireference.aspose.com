@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460218 VRSQ VM1 Simulated Keratometric Cylinder Sequence.
 type: docs
 weight: 43510
-url: /aspose.medical.dicom.tags/tag/simulatedkeratometriccylindersequence/
+url: /net/aspose.medical.dicom.tags/tag/simulatedkeratometriccylindersequence/
 ---
 
 ## Tag.SimulatedKeratometricCylinderSequence field

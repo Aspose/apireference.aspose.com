@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460094 VRCS VM1 Optotype.
 type: docs
 weight: 28330
-url: /aspose.medical.dicom.tags/tag/optotype/
+url: /net/aspose.medical.dicom.tags/tag/optotype/
 ---
 
 ## Tag.Optotype field

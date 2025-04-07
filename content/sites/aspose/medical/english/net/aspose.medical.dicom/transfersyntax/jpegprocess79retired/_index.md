@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: JPEG Spectral Selection Non-Hierarchical Process 7 amp 9 Retired 1.2.840.10008.1.2.4.54.
 type: docs
 weight: 410
-url: /aspose.medical.dicom/transfersyntax/jpegprocess79retired/
+url: /net/aspose.medical.dicom/transfersyntax/jpegprocess79retired/
 ---
 
 ## TransferSyntax.JpegProcess79Retired field

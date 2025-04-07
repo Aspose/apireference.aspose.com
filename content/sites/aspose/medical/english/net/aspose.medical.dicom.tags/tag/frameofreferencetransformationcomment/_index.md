@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300600C8 VRLO VM1 Frame of Reference Transformation Comment.
 type: docs
 weight: 16660
-url: /aspose.medical.dicom.tags/tag/frameofreferencetransformationcomment/
+url: /net/aspose.medical.dicom.tags/tag/frameofreferencetransformationcomment/
 ---
 
 ## Tag.FrameOfReferenceTransformationComment field

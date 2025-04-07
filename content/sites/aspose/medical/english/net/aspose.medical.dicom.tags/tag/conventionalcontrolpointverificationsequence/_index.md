@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0074104C VRSQ VM1 Conventional Control Point Verification Sequence.
 type: docs
 weight: 8550
-url: /aspose.medical.dicom.tags/tag/conventionalcontrolpointverificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/conventionalcontrolpointverificationsequence/
 ---
 
 ## Tag.ConventionalControlPointVerificationSequence field

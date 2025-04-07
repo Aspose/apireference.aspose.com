@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160089 VRCS VM1 GPS Dest Distance Ref.
 type: docs
 weight: 17490
-url: /aspose.medical.dicom.tags/tag/gpsdestdistanceref/
+url: /net/aspose.medical.dicom.tags/tag/gpsdestdistanceref/
 ---
 
 ## Tag.GPSDestDistanceRef field

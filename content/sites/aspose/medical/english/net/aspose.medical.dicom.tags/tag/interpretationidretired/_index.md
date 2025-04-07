@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080200 VRSH VM1 Interpretation ID RETIRED.
 type: docs
 weight: 21000
-url: /aspose.medical.dicom.tags/tag/interpretationidretired/
+url: /net/aspose.medical.dicom.tags/tag/interpretationidretired/
 ---
 
 ## Tag.InterpretationIDRETIRED field

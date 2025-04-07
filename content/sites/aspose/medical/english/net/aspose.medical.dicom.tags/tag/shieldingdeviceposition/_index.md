@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A01A8 VRSH VM1 Shielding Device Position.
 type: docs
 weight: 43190
-url: /aspose.medical.dicom.tags/tag/shieldingdeviceposition/
+url: /net/aspose.medical.dicom.tags/tag/shieldingdeviceposition/
 ---
 
 ## Tag.ShieldingDevicePosition field

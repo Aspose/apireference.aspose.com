@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A033 VRDT VM1 Observation Start DateTime.
 type: docs
 weight: 27350
-url: /aspose.medical.dicom.tags/tag/observationstartdatetime/
+url: /net/aspose.medical.dicom.tags/tag/observationstartdatetime/
 ---
 
 ## Tag.ObservationStartDateTime field

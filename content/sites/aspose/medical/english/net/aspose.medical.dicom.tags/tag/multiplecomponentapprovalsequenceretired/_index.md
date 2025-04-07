@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140106 VRSQ VM1 Multiple Component Approval Sequence RETIRED.
 type: docs
 weight: 25540
-url: /aspose.medical.dicom.tags/tag/multiplecomponentapprovalsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/multiplecomponentapprovalsequenceretired/
 ---
 
 ## Tag.MultipleComponentApprovalSequenceRETIRED field

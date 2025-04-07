@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701808 VROB VM1 Weighting Lookup Table Data RETIRED.
 type: docs
 weight: 52430
-url: /aspose.medical.dicom.tags/tag/weightinglookuptabledataretired/
+url: /net/aspose.medical.dicom.tags/tag/weightinglookuptabledataretired/
 ---
 
 ## Tag.WeightingLookupTableDataRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321034 VRSQ VM1 Requesting Service Code Sequence.
 type: docs
 weight: 38870
-url: /aspose.medical.dicom.tags/tag/requestingservicecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/requestingservicecodesequence/
 ---
 
 ## Tag.RequestingServiceCodeSequence field

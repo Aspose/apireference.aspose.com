@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100089 VRSQ VM1 Treatment Site Modifier Code Sequence.
 type: docs
 weight: 49810
-url: /aspose.medical.dicom.tags/tag/treatmentsitemodifiercodesequence/
+url: /net/aspose.medical.dicom.tags/tag/treatmentsitemodifiercodesequence/
 ---
 
 ## Tag.TreatmentSiteModifierCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022112B VRCS VM1 Calculation Comment Type.
 type: docs
 weight: 4890
-url: /aspose.medical.dicom.tags/tag/calculationcommenttype/
+url: /net/aspose.medical.dicom.tags/tag/calculationcommenttype/
 ---
 
 ## Tag.CalculationCommentType field

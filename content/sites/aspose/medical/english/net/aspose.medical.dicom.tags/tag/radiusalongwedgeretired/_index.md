@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014511F VRDS VM1 Radius Along the Wedge RETIRED.
 type: docs
 weight: 34720
-url: /aspose.medical.dicom.tags/tag/radiusalongwedgeretired/
+url: /net/aspose.medical.dicom.tags/tag/radiusalongwedgeretired/
 ---
 
 ## Tag.RadiusAlongWedgeRETIRED field

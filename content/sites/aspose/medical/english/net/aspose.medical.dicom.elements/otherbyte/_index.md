@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Other Byte OB VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextOB-Other20Byte-An20octet2Dstream.
 type: docs
 weight: 330
-url: /aspose.medical.dicom.elements/otherbyte/
+url: /net/aspose.medical.dicom.elements/otherbyte/
 ---
 
 ## OtherByte class

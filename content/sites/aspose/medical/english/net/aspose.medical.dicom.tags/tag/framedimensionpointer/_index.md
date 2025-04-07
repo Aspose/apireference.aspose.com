@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028000A VRAT VM1-n Frame Dimension Pointer.
 type: docs
 weight: 16530
-url: /aspose.medical.dicom.tags/tag/framedimensionpointer/
+url: /net/aspose.medical.dicom.tags/tag/framedimensionpointer/
 ---
 
 ## Tag.FrameDimensionPointer field

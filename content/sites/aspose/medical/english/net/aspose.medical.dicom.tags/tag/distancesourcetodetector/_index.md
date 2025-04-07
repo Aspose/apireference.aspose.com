@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181110 VRDS VM1 Distance Source to Detector.
 type: docs
 weight: 12410
-url: /aspose.medical.dicom.tags/tag/distancesourcetodetector/
+url: /net/aspose.medical.dicom.tags/tag/distancesourcetodetector/
 ---
 
 ## Tag.DistanceSourceToDetector field

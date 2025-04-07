@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016001D VRIS VM1 ISO Speed.
 type: docs
 weight: 21710
-url: /aspose.medical.dicom.tags/tag/isospeed/
+url: /net/aspose.medical.dicom.tags/tag/isospeed/
 ---
 
 ## Tag.ISOSpeed field

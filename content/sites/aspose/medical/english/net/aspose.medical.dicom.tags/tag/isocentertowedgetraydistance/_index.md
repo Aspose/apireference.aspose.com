@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00D9 VRFL VM1 Isocenter to Wedge Tray Distance.
 type: docs
 weight: 21700
-url: /aspose.medical.dicom.tags/tag/isocentertowedgetraydistance/
+url: /net/aspose.medical.dicom.tags/tag/isocentertowedgetraydistance/
 ---
 
 ## Tag.IsocenterToWedgeTrayDistance field

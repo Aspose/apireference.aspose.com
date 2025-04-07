@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189341 VRSQ VM1 Contrast/Bolus Usage Sequence.
 type: docs
 weight: 8380
-url: /aspose.medical.dicom.tags/tag/contrastbolususagesequence/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolususagesequence/
 ---
 
 ## Tag.ContrastBolusUsageSequence field

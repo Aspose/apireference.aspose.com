@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200019 VRIS VM1 Item Number.
 type: docs
 weight: 21960
-url: /aspose.medical.dicom.tags/tag/itemnumber/
+url: /net/aspose.medical.dicom.tags/tag/itemnumber/
 ---
 
 ## Tag.ItemNumber field

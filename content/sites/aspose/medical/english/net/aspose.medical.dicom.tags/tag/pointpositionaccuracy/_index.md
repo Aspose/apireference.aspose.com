@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660017 VRFL VM3 Point Position Accuracy.
 type: docs
 weight: 31910
-url: /aspose.medical.dicom.tags/tag/pointpositionaccuracy/
+url: /net/aspose.medical.dicom.tags/tag/pointpositionaccuracy/
 ---
 
 ## Tag.PointPositionAccuracy field

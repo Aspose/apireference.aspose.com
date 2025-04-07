@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189012 VRCS VM1 Multi-planar Excitation.
 type: docs
 weight: 25520
-url: /aspose.medical.dicom.tags/tag/multiplanarexcitation/
+url: /net/aspose.medical.dicom.tags/tag/multiplanarexcitation/
 ---
 
 ## Tag.MultiPlanarExcitation field

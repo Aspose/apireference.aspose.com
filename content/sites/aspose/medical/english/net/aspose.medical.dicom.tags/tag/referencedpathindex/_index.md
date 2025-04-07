@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189378 VRUS VM1-n Referenced Path Index.
 type: docs
 weight: 36840
-url: /aspose.medical.dicom.tags/tag/referencedpathindex/
+url: /net/aspose.medical.dicom.tags/tag/referencedpathindex/
 ---
 
 ## Tag.ReferencedPathIndex field

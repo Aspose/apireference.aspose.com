@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300600C0 VRSQ VM1 Frame of Reference Relationship Sequence RETIRED.
 type: docs
 weight: 16640
-url: /aspose.medical.dicom.tags/tag/frameofreferencerelationshipsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/frameofreferencerelationshipsequenceretired/
 ---
 
 ## Tag.FrameOfReferenceRelationshipSequenceRETIRED field

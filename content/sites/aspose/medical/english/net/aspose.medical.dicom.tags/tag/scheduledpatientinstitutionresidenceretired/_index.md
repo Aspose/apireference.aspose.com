@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0038001E VRLO VM1 Scheduled Patient Institution Residence RETIRED.
 type: docs
 weight: 41320
-url: /aspose.medical.dicom.tags/tag/scheduledpatientinstitutionresidenceretired/
+url: /net/aspose.medical.dicom.tags/tag/scheduledpatientinstitutionresidenceretired/
 ---
 
 ## Tag.ScheduledPatientInstitutionResidenceRETIRED field

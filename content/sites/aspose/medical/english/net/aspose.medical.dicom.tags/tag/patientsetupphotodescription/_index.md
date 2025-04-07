@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0794 VRLT VM1 Patient Setup Photo Description.
 type: docs
 weight: 30100
-url: /aspose.medical.dicom.tags/tag/patientsetupphotodescription/
+url: /net/aspose.medical.dicom.tags/tag/patientsetupphotodescription/
 ---
 
 ## Tag.PatientSetupPhotoDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080041 VRSQ VM1 Ion Control Point Delivery Sequence.
 type: docs
 weight: 21500
-url: /aspose.medical.dicom.tags/tag/ioncontrolpointdeliverysequence/
+url: /net/aspose.medical.dicom.tags/tag/ioncontrolpointdeliverysequence/
 ---
 
 ## Tag.IonControlPointDeliverySequence field

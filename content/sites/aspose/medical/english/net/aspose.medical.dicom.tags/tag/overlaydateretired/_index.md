@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080024 VRDA VM1 Overlay Date RETIRED.
 type: docs
 weight: 28970
-url: /aspose.medical.dicom.tags/tag/overlaydateretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaydateretired/
 ---
 
 ## Tag.OverlayDateRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080064 VRIS VM1 Measured Dose Reference Number.
 type: docs
 weight: 24130
-url: /aspose.medical.dicom.tags/tag/measureddosereferencenumber/
+url: /net/aspose.medical.dicom.tags/tag/measureddosereferencenumber/
 ---
 
 ## Tag.MeasuredDoseReferenceNumber field

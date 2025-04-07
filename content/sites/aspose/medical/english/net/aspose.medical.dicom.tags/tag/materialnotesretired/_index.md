@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140046 VRLT VM1 Material Notes RETIRED.
 type: docs
 weight: 23710
-url: /aspose.medical.dicom.tags/tag/materialnotesretired/
+url: /net/aspose.medical.dicom.tags/tag/materialnotesretired/
 ---
 
 ## Tag.MaterialNotesRETIRED field

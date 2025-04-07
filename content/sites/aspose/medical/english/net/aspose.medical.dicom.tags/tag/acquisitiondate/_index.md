@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080022 VRDA VM1 Acquisition Date.
 type: docs
 weight: 230
-url: /aspose.medical.dicom.tags/tag/acquisitiondate/
+url: /net/aspose.medical.dicom.tags/tag/acquisitiondate/
 ---
 
 ## Tag.AcquisitionDate field

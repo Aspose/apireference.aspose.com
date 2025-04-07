@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287021 VRCS VM1 White Point Flag.
 type: docs
 weight: 52480
-url: /aspose.medical.dicom.tags/tag/whitepointflag/
+url: /net/aspose.medical.dicom.tags/tag/whitepointflag/
 ---
 
 ## Tag.WhitePointFlag field

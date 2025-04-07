@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720706 VRCS VM1 Show Grayscale Inverted.
 type: docs
 weight: 43330
-url: /aspose.medical.dicom.tags/tag/showgrayscaleinverted/
+url: /net/aspose.medical.dicom.tags/tag/showgrayscaleinverted/
 ---
 
 ## Tag.ShowGrayscaleInverted field

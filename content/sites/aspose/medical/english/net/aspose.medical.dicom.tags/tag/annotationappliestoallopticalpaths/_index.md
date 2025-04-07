@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006A000D VRCS VM1 Annotation Applies to All Optical Paths.
 type: docs
 weight: 1720
-url: /aspose.medical.dicom.tags/tag/annotationappliestoallopticalpaths/
+url: /net/aspose.medical.dicom.tags/tag/annotationappliestoallopticalpaths/
 ---
 
 ## Tag.AnnotationAppliesToAllOpticalPaths field

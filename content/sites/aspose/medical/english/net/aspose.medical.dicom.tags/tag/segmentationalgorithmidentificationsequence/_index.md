@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00620007 VRSQ VM1 Segmentation Algorithm Identification Sequence.
 type: docs
 weight: 41970
-url: /aspose.medical.dicom.tags/tag/segmentationalgorithmidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/segmentationalgorithmidentificationsequence/
 ---
 
 ## Tag.SegmentationAlgorithmIdentificationSequence field

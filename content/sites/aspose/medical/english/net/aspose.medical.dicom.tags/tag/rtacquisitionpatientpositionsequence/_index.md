@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020108 VRSQ VM1 RT Acquisition Patient Position Sequence.
 type: docs
 weight: 39930
-url: /aspose.medical.dicom.tags/tag/rtacquisitionpatientpositionsequence/
+url: /net/aspose.medical.dicom.tags/tag/rtacquisitionpatientpositionsequence/
 ---
 
 ## Tag.RTAcquisitionPatientPositionSequence field

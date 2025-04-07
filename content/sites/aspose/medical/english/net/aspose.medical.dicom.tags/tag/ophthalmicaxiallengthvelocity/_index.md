@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221059 VRFL VM1 Ophthalmic Axial Length Velocity.
 type: docs
 weight: 28020
-url: /aspose.medical.dicom.tags/tag/ophthalmicaxiallengthvelocity/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicaxiallengthvelocity/
 ---
 
 ## Tag.OphthalmicAxialLengthVelocity field

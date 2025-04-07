@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040014 VRCS VM1-3 Tissue Heterogeneity Correction.
 type: docs
 weight: 48550
-url: /aspose.medical.dicom.tags/tag/tissueheterogeneitycorrection/
+url: /net/aspose.medical.dicom.tags/tag/tissueheterogeneitycorrection/
 ---
 
 ## Tag.TissueHeterogeneityCorrection field

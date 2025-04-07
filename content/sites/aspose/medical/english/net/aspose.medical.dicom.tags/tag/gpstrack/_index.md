@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016007F VRDS VM1 GPS Track.
 type: docs
 weight: 17700
-url: /aspose.medical.dicom.tags/tag/gpstrack/
+url: /net/aspose.medical.dicom.tags/tag/gpstrack/
 ---
 
 ## Tag.GPSTrack field

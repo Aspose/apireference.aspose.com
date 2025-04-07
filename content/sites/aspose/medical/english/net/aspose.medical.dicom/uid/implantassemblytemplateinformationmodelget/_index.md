@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Implant Assembly Template Information Model - GET.
 type: docs
 weight: 1960
-url: /aspose.medical.dicom/uid/implantassemblytemplateinformationmodelget/
+url: /net/aspose.medical.dicom/uid/implantassemblytemplateinformationmodelget/
 ---
 
 ## Uid.ImplantAssemblyTemplateInformationModelGET field

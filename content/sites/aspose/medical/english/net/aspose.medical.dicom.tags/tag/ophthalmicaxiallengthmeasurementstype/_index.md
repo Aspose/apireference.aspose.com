@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221010 VRCS VM1 Ophthalmic Axial Length Measurements Type.
 type: docs
 weight: 27950
-url: /aspose.medical.dicom.tags/tag/ophthalmicaxiallengthmeasurementstype/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicaxiallengthmeasurementstype/
 ---
 
 ## Tag.OphthalmicAxialLengthMeasurementsType field

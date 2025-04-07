@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Attribute Tag AT.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/attributetag/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/attributetag/
 ---
 
 ## ValueRepresentation.AttributeTag field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240066 VRFL VM1 Global Deviation From Normal.
 type: docs
 weight: 17380
-url: /aspose.medical.dicom.tags/tag/globaldeviationfromnormal/
+url: /net/aspose.medical.dicom.tags/tag/globaldeviationfromnormal/
 ---
 
 ## Tag.GlobalDeviationFromNormal field

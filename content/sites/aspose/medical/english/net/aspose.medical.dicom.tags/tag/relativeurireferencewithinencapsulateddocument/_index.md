@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00687005 VRUR VM1 Relative URI Reference Within Encapsulated Document.
 type: docs
 weight: 38350
-url: /aspose.medical.dicom.tags/tag/relativeurireferencewithinencapsulateddocument/
+url: /net/aspose.medical.dicom.tags/tag/relativeurireferencewithinencapsulateddocument/
 ---
 
 ## Tag.RelativeURIReferenceWithinEncapsulatedDocument field

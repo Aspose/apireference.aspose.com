@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240074 VRCS VM1 Short Term Fluctuation Calculated.
 type: docs
 weight: 43260
-url: /aspose.medical.dicom.tags/tag/shorttermfluctuationcalculated/
+url: /net/aspose.medical.dicom.tags/tag/shorttermfluctuationcalculated/
 ---
 
 ## Tag.ShortTermFluctuationCalculated field

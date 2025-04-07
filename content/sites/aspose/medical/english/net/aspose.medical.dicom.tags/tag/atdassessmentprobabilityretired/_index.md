@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101016 VRFL VM1 ATD Assessment Probability RETIRED.
 type: docs
 weight: 2710
-url: /aspose.medical.dicom.tags/tag/atdassessmentprobabilityretired/
+url: /net/aspose.medical.dicom.tags/tag/atdassessmentprobabilityretired/
 ---
 
 ## Tag.ATDAssessmentProbabilityRETIRED field

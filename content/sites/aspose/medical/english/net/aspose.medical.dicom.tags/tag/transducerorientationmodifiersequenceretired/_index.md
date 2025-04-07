@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082246 VRSQ VM1 Transducer Orientation Modifier Sequence RETIRED.
 type: docs
 weight: 49260
-url: /aspose.medical.dicom.tags/tag/transducerorientationmodifiersequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/transducerorientationmodifiersequenceretired/
 ---
 
 ## Tag.TransducerOrientationModifierSequenceRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289505 VRSQ VM1 Multi-frame Presentation Sequence.
 type: docs
 weight: 25500
-url: /aspose.medical.dicom.tags/tag/multiframepresentationsequence/
+url: /net/aspose.medical.dicom.tags/tag/multiframepresentationsequence/
 ---
 
 ## Tag.MultiFramePresentationSequence field

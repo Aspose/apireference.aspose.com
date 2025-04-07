@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100094 VRFD VM1 Radiation Source Coordinate SystemYaw Angle.
 type: docs
 weight: 34480
-url: /aspose.medical.dicom.tags/tag/radiationsourcecoordinatesystemyawangle/
+url: /net/aspose.medical.dicom.tags/tag/radiationsourcecoordinatesystemyawangle/
 ---
 
 ## Tag.RadiationSourceCoordinateSystemYawAngle field

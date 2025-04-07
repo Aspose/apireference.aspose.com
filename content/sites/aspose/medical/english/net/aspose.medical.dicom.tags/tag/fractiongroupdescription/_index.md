@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0072 VRLO VM1 Fraction Group Description.
 type: docs
 weight: 16350
-url: /aspose.medical.dicom.tags/tag/fractiongroupdescription/
+url: /net/aspose.medical.dicom.tags/tag/fractiongroupdescription/
 ---
 
 ## Tag.FractionGroupDescription field

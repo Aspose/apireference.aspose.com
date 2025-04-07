@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540030 VRUS VM1-n Phase Vector.
 type: docs
 weight: 31130
-url: /aspose.medical.dicom.tags/tag/phasevector/
+url: /net/aspose.medical.dicom.tags/tag/phasevector/
 ---
 
 ## Tag.PhaseVector field

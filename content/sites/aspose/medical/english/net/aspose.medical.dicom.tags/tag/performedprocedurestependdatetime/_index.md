@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404051 VRDT VM1 Performed Procedure Step End DateTime.
 type: docs
 weight: 30650
-url: /aspose.medical.dicom.tags/tag/performedprocedurestependdatetime/
+url: /net/aspose.medical.dicom.tags/tag/performedprocedurestependdatetime/
 ---
 
 ## Tag.PerformedProcedureStepEndDateTime field

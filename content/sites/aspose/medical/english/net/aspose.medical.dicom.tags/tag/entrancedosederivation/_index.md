@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00408303 VRCS VM1 Entrance Dose Derivation.
 type: docs
 weight: 13820
-url: /aspose.medical.dicom.tags/tag/entrancedosederivation/
+url: /net/aspose.medical.dicom.tags/tag/entrancedosederivation/
 ---
 
 ## Tag.EntranceDoseDerivation field

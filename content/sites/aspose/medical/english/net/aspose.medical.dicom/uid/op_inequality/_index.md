@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Determines whether two specified objects have different values.
 type: docs
 weight: 5360
-url: /aspose.medical.dicom/uid/op_inequality/
+url: /net/aspose.medical.dicom/uid/op_inequality/
 ---
 
 ## Uid Inequality operator

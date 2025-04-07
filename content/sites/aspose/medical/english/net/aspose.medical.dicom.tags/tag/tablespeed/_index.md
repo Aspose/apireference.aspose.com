@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189309 VRFD VM1 Table Speed.
 type: docs
 weight: 46910
-url: /aspose.medical.dicom.tags/tag/tablespeed/
+url: /net/aspose.medical.dicom.tags/tag/tablespeed/
 ---
 
 ## Tag.TableSpeed field

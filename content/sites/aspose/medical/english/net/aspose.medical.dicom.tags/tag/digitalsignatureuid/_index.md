@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000100 VRUI VM1 Digital Signature UID.
 type: docs
 weight: 11810
-url: /aspose.medical.dicom.tags/tag/digitalsignatureuid/
+url: /net/aspose.medical.dicom.tags/tag/digitalsignatureuid/
 ---
 
 ## Tag.DigitalSignatureUID field

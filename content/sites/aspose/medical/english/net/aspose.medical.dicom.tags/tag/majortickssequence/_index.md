@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700287 VRSQ VM1 Major Ticks Sequence.
 type: docs
 weight: 23390
-url: /aspose.medical.dicom.tags/tag/majortickssequence/
+url: /net/aspose.medical.dicom.tags/tag/majortickssequence/
 ---
 
 ## Tag.MajorTicksSequence field

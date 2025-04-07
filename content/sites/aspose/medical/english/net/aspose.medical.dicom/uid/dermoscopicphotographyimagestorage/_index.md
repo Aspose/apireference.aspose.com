@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Dermoscopic Photography Image Storage.
 type: docs
 weight: 610
-url: /aspose.medical.dicom/uid/dermoscopicphotographyimagestorage/
+url: /net/aspose.medical.dicom/uid/dermoscopicphotographyimagestorage/
 ---
 
 ## Uid.DermoscopicPhotographyImageStorage field

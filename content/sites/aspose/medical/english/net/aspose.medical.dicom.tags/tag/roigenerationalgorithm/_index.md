@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060036 VRCS VM1 ROI Generation Algorithm.
 type: docs
 weight: 39460
-url: /aspose.medical.dicom.tags/tag/roigenerationalgorithm/
+url: /net/aspose.medical.dicom.tags/tag/roigenerationalgorithm/
 ---
 
 ## Tag.ROIGenerationAlgorithm field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0148 VRFL VM1 Head Fixation Angle.
 type: docs
 weight: 18260
-url: /aspose.medical.dicom.tags/tag/headfixationangle/
+url: /net/aspose.medical.dicom.tags/tag/headfixationangle/
 ---
 
 ## Tag.HeadFixationAngle field

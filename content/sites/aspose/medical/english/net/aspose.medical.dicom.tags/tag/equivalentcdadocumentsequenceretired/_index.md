@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A090 VRSQ VM1 Equivalent CDA Document Sequence RETIRED.
 type: docs
 weight: 13920
-url: /aspose.medical.dicom.tags/tag/equivalentcdadocumentsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/equivalentcdadocumentsequenceretired/
 ---
 
 ## Tag.EquivalentCDADocumentSequenceRETIRED field

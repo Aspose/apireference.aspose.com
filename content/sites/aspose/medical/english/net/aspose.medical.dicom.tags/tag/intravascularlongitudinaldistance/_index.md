@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520028 VRFD VM1 Intravascular Longitudinal Distance.
 type: docs
 weight: 21260
-url: /aspose.medical.dicom.tags/tag/intravascularlongitudinaldistance/
+url: /net/aspose.medical.dicom.tags/tag/intravascularlongitudinaldistance/
 ---
 
 ## Tag.IntravascularLongitudinalDistance field

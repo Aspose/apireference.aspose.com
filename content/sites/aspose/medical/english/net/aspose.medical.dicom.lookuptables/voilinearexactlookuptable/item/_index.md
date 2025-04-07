@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /aspose.medical.dicom.lookuptables/voilinearexactlookuptable/item/
+url: /net/aspose.medical.dicom.lookuptables/voilinearexactlookuptable/item/
 ---
 
 ## VoiLinearExactLookupTable indexer

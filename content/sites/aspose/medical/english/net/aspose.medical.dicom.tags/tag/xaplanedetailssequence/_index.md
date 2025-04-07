@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811BA VRSQ VM1 XA Plane Details Sequence.
 type: docs
 weight: 52610
-url: /aspose.medical.dicom.tags/tag/xaplanedetailssequence/
+url: /net/aspose.medical.dicom.tags/tag/xaplanedetailssequence/
 ---
 
 ## Tag.XAPlaneDetailsSequence field

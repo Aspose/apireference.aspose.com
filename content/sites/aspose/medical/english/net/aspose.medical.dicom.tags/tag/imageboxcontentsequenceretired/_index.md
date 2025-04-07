@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21300040 VRSQ VM1 Image Box Content Sequence RETIRED.
 type: docs
 weight: 18890
-url: /aspose.medical.dicom.tags/tag/imageboxcontentsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/imageboxcontentsequenceretired/
 ---
 
 ## Tag.ImageBoxContentSequenceRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080303 VRCS VM1 Block Identifying Information Status.
 type: docs
 weight: 4040
-url: /aspose.medical.dicom.tags/tag/blockidentifyinginformationstatus/
+url: /net/aspose.medical.dicom.tags/tag/blockidentifyinginformationstatus/
 ---
 
 ## Tag.BlockIdentifyingInformationStatus field

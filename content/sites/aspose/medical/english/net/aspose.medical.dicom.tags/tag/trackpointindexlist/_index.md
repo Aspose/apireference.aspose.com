@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660129 VROL VM1 Track Point Index List.
 type: docs
 weight: 49080
-url: /aspose.medical.dicom.tags/tag/trackpointindexlist/
+url: /net/aspose.medical.dicom.tags/tag/trackpointindexlist/
 ---
 
 ## Tag.TrackPointIndexList field

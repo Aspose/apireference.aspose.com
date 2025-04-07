@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000402 VRSQ VM1 Referenced Digital Signature Sequence.
 type: docs
 weight: 36260
-url: /aspose.medical.dicom.tags/tag/referenceddigitalsignaturesequence/
+url: /net/aspose.medical.dicom.tags/tag/referenceddigitalsignaturesequence/
 ---
 
 ## Tag.ReferencedDigitalSignatureSequence field

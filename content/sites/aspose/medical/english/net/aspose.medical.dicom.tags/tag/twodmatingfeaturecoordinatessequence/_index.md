@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686430 VRSQ VM1 2D Mating Feature Coordinates Sequence.
 type: docs
 weight: 50210
-url: /aspose.medical.dicom.tags/tag/twodmatingfeaturecoordinatessequence/
+url: /net/aspose.medical.dicom.tags/tag/twodmatingfeaturecoordinatessequence/
 ---
 
 ## Tag.TwoDMatingFeatureCoordinatesSequence field

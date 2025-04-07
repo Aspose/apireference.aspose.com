@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Initializes a new instance of the RawImageaspose.medical.imaging/rawimage.
 type: docs
 weight: 10
-url: /aspose.medical.imaging/rawimage/rawimage/
+url: /net/aspose.medical.imaging/rawimage/rawimage/
 ---
 
 ## RawImage constructor

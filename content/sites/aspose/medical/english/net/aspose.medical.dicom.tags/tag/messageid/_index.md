@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000110 VRUS VM1 Message ID.
 type: docs
 weight: 24410
-url: /aspose.medical.dicom.tags/tag/messageid/
+url: /net/aspose.medical.dicom.tags/tag/messageid/
 ---
 
 ## Tag.MessageID field

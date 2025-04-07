@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Determines whether two specified objects have the same value.
 type: docs
 weight: 230
-url: /aspose.medical.dicom.imaging/photometricinterpretation/op_equality/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/op_equality/
 ---
 
 ## PhotometricInterpretation Equality operator

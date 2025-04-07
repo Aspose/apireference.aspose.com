@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240112 VRSQ VM1 Refractive Parameters Used on Patient Sequence.
 type: docs
 weight: 37970
-url: /aspose.medical.dicom.tags/tag/refractiveparametersusedonpatientsequence/
+url: /net/aspose.medical.dicom.tags/tag/refractiveparametersusedonpatientsequence/
 ---
 
 ## Tag.RefractiveParametersUsedOnPatientSequence field

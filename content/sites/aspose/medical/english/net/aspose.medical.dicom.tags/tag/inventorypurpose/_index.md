@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080401 VRLT VM1 Inventory Purpose.
 type: docs
 weight: 21360
-url: /aspose.medical.dicom.tags/tag/inventorypurpose/
+url: /net/aspose.medical.dicom.tags/tag/inventorypurpose/
 ---
 
 ## Tag.InventoryPurpose field

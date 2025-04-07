@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0266 VRLO VM1 Brachy Accessory Device Name.
 type: docs
 weight: 4410
-url: /aspose.medical.dicom.tags/tag/brachyaccessorydevicename/
+url: /net/aspose.medical.dicom.tags/tag/brachyaccessorydevicename/
 ---
 
 ## Tag.BrachyAccessoryDeviceName field

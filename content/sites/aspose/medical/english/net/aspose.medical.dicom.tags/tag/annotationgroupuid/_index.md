@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006A0003 VRUI VM1 Annotation Group UID.
 type: docs
 weight: 1860
-url: /aspose.medical.dicom.tags/tag/annotationgroupuid/
+url: /net/aspose.medical.dicom.tags/tag/annotationgroupuid/
 ---
 
 ## Tag.AnnotationGroupUID field

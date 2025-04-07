@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00001022 VRUS VM1 Number of Failed Sub-operations.
 type: docs
 weight: 26300
-url: /aspose.medical.dicom.tags/tag/numberoffailedsuboperations/
+url: /net/aspose.medical.dicom.tags/tag/numberoffailedsuboperations/
 ---
 
 ## Tag.NumberOfFailedSuboperations field

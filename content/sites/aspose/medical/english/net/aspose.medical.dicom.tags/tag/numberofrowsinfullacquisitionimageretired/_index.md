@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146005 VRDS VM1 Number of Rows in Full Acquisition Image RETIRED.
 type: docs
 weight: 26760
-url: /aspose.medical.dicom.tags/tag/numberofrowsinfullacquisitionimageretired/
+url: /net/aspose.medical.dicom.tags/tag/numberofrowsinfullacquisitionimageretired/
 ---
 
 ## Tag.NumberOfRowsInFullAcquisitionImageRETIRED field

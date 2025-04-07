@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145101 VRDS VM1 Total Aperture RETIRED.
 type: docs
 weight: 48850
-url: /aspose.medical.dicom.tags/tag/totalapertureretired/
+url: /net/aspose.medical.dicom.tags/tag/totalapertureretired/
 ---
 
 ## Tag.TotalApertureRETIRED field

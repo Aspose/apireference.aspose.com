@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0040 VRCS VM1 Overlay Type.
 type: docs
 weight: 29260
-url: /aspose.medical.dicom.tags/tag/overlaytype/
+url: /net/aspose.medical.dicom.tags/tag/overlaytype/
 ---
 
 ## Tag.OverlayType field

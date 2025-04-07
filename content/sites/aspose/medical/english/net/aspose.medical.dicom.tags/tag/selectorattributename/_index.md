@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820018 VRLO VM1 Selector Attribute Name.
 type: docs
 weight: 42320
-url: /aspose.medical.dicom.tags/tag/selectorattributename/
+url: /net/aspose.medical.dicom.tags/tag/selectorattributename/
 ---
 
 ## Tag.SelectorAttributeName field

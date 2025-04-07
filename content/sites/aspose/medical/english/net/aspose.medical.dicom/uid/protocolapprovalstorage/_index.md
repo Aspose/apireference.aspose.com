@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Protocol Approval Storage.
 type: docs
 weight: 3790
-url: /aspose.medical.dicom/uid/protocolapprovalstorage/
+url: /net/aspose.medical.dicom/uid/protocolapprovalstorage/
 ---
 
 ## Uid.ProtocolApprovalStorage field

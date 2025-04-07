@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The DICOM image height rows in pixels. Read/Write UInt16.
 type: docs
 weight: 80
-url: /aspose.medical.dicom.imaging/pixeldata/height/
+url: /net/aspose.medical.dicom.imaging/pixeldata/height/
 ---
 
 ## PixelData.Height property

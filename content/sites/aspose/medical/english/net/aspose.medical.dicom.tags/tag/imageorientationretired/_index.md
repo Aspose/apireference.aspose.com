@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200035 VRDS VM6 Image Orientation RETIRED.
 type: docs
 weight: 19270
-url: /aspose.medical.dicom.tags/tag/imageorientationretired/
+url: /net/aspose.medical.dicom.tags/tag/imageorientationretired/
 ---
 
 ## Tag.ImageOrientationRETIRED field

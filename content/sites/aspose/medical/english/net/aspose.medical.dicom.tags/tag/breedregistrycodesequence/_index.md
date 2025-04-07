@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102296 VRSQ VM1 Breed Registry Code Sequence.
 type: docs
 weight: 4660
-url: /aspose.medical.dicom.tags/tag/breedregistrycodesequence/
+url: /net/aspose.medical.dicom.tags/tag/breedregistrycodesequence/
 ---
 
 ## Tag.BreedRegistryCodeSequence field

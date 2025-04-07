@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Initializes a new instance of the Sequenceaspose.medical.dicom.elements/sequence.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/sequence/sequence/
+url: /net/aspose.medical.dicom.elements/sequence/sequence/
 ---
 
 ## Sequence constructor

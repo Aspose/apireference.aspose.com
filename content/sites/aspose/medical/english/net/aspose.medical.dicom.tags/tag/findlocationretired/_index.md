@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000400 VRAE VM1 Find Location RETIRED.
 type: docs
 weight: 15560
-url: /aspose.medical.dicom.tags/tag/findlocationretired/
+url: /net/aspose.medical.dicom.tags/tag/findlocationretired/
 ---
 
 ## Tag.FindLocationRETIRED field

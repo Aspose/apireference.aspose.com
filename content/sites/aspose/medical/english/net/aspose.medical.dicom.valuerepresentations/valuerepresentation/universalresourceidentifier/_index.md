@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Universal Resource Identifier URI or Universal Resource Locator URI UR.
 type: docs
 weight: 290
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/universalresourceidentifier/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/universalresourceidentifier/
 ---
 
 ## ValueRepresentation.UniversalResourceIdentifier field

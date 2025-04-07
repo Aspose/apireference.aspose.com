@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287012 VRSQ VM1 Measurement Equipment Sequence.
 type: docs
 weight: 24210
-url: /aspose.medical.dicom.tags/tag/measurementequipmentsequence/
+url: /net/aspose.medical.dicom.tags/tag/measurementequipmentsequence/
 ---
 
 ## Tag.MeasurementEquipmentSequence field

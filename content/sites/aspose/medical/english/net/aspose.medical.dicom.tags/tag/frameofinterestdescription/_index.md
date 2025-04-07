@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00286022 VRLO VM1-n Frame of Interest Description.
 type: docs
 weight: 16620
-url: /aspose.medical.dicom.tags/tag/frameofinterestdescription/
+url: /net/aspose.medical.dicom.tags/tag/frameofinterestdescription/
 ---
 
 ## Tag.FrameOfInterestDescription field

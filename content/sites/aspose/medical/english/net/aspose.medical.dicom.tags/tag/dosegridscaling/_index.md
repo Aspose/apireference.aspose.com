@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3004000E VRDS VM1 Dose Grid Scaling.
 type: docs
 weight: 12660
-url: /aspose.medical.dicom.tags/tag/dosegridscaling/
+url: /net/aspose.medical.dicom.tags/tag/dosegridscaling/
 ---
 
 ## Tag.DoseGridScaling field

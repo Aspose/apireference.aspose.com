@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440106 VRUT VM1 Assertion Comments.
 type: docs
 weight: 2520
-url: /aspose.medical.dicom.tags/tag/assertioncomments/
+url: /net/aspose.medical.dicom.tags/tag/assertioncomments/
 ---
 
 ## Tag.AssertionComments field

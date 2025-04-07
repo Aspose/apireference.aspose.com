@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001021C0 VRUS VM1 Pregnancy Status.
 type: docs
 weight: 32410
-url: /aspose.medical.dicom.tags/tag/pregnancystatus/
+url: /net/aspose.medical.dicom.tags/tag/pregnancystatus/
 ---
 
 ## Tag.PregnancyStatus field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00500016 VRDS VM1 Device Diameter.
 type: docs
 weight: 11310
-url: /aspose.medical.dicom.tags/tag/devicediameter/
+url: /net/aspose.medical.dicom.tags/tag/devicediameter/
 ---
 
 ## Tag.DeviceDiameter field

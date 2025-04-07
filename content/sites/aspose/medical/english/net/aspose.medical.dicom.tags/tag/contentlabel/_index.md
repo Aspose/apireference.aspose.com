@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700080 VRCS VM1 Content Label.
 type: docs
 weight: 7900
-url: /aspose.medical.dicom.tags/tag/contentlabel/
+url: /net/aspose.medical.dicom.tags/tag/contentlabel/
 ---
 
 ## Tag.ContentLabel field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008001C VRCS VM1 Synthetic Data.
 type: docs
 weight: 46660
-url: /aspose.medical.dicom.tags/tag/syntheticdata/
+url: /net/aspose.medical.dicom.tags/tag/syntheticdata/
 ---
 
 ## Tag.SyntheticData field

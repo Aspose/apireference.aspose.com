@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips Composite Object Storage.
 type: docs
 weight: 3330
-url: /aspose.medical.dicom/uid/privatephilipscompositeobjectstorage/
+url: /net/aspose.medical.dicom/uid/privatephilipscompositeobjectstorage/
 ---
 
 ## Uid.PrivatePhilipsCompositeObjectStorage field

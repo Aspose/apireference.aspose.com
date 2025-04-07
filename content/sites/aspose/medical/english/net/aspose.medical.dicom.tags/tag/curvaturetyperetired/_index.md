@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140052 VRCS VM1 Curvature Type RETIRED.
 type: docs
 weight: 9450
-url: /aspose.medical.dicom.tags/tag/curvaturetyperetired/
+url: /net/aspose.medical.dicom.tags/tag/curvaturetyperetired/
 ---
 
 ## Tag.CurvatureTypeRETIRED field

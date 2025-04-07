@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720308 VRUS VM1 Image Box Tile Vertical Dimension.
 type: docs
 weight: 19030
-url: /aspose.medical.dicom.tags/tag/imageboxtileverticaldimension/
+url: /net/aspose.medical.dicom.tags/tag/imageboxtileverticaldimension/
 ---
 
 ## Tag.ImageBoxTileVerticalDimension field

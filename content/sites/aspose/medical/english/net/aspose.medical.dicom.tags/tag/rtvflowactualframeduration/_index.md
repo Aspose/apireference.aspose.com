@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020038 VRFD VM1 RTV Flow Actual Frame Duration.
 type: docs
 weight: 40780
-url: /aspose.medical.dicom.tags/tag/rtvflowactualframeduration/
+url: /net/aspose.medical.dicom.tags/tag/rtvflowactualframeduration/
 ---
 
 ## Tag.RTVFlowActualFrameDuration field

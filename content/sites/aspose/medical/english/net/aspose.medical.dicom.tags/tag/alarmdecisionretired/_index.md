@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101031 VRCS VM1 Alarm Decision RETIRED.
 type: docs
 weight: 1100
-url: /aspose.medical.dicom.tags/tag/alarmdecisionretired/
+url: /net/aspose.medical.dicom.tags/tag/alarmdecisionretired/
 ---
 
 ## Tag.AlarmDecisionRETIRED field

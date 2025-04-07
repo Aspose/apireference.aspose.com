@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00182005 VRDS VM1-n Slice Location Vector.
 type: docs
 weight: 43590
-url: /aspose.medical.dicom.tags/tag/slicelocationvector/
+url: /net/aspose.medical.dicom.tags/tag/slicelocationvector/
 ---
 
 ## Tag.SliceLocationVector field

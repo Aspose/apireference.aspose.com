@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Visits the entire graph of elements of the given file. The method visits both MetaInfoaspose.medical.dicom/dicomfile/metainfo and Datasetaspose.medical.dicom/dicomfile/dataset.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.traversal/walker/visit/
+url: /net/aspose.medical.dicom.traversal/walker/visit/
 ---
 
 ## Visit(DicomFile) {#visit_1}

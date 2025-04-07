@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: JPEG-LS Lossy Near-Lossless Image Compression 1.2.840.10008.1.2.4.81.
 type: docs
 weight: 250
-url: /aspose.medical.dicom/transfersyntax/jpeglsnearlossless/
+url: /net/aspose.medical.dicom/transfersyntax/jpeglsnearlossless/
 ---
 
 ## TransferSyntax.JpegLsNearLossless field

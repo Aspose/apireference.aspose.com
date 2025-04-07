@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0062 VRSH VM1 Overlay Compression Label RETIRED.
 type: docs
 weight: 28930
-url: /aspose.medical.dicom.tags/tag/overlaycompressionlabelretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaycompressionlabelretired/
 ---
 
 ## Tag.OverlayCompressionLabelRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480001 VRFL VM1 Imaged Volume Width.
 type: docs
 weight: 19140
-url: /aspose.medical.dicom.tags/tag/imagedvolumewidth/
+url: /net/aspose.medical.dicom.tags/tag/imagedvolumewidth/
 ---
 
 ## Tag.ImagedVolumeWidth field

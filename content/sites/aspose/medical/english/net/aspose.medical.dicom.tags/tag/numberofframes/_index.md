@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280008 VRIS VM1 Number of Frames.
 type: docs
 weight: 26380
-url: /aspose.medical.dicom.tags/tag/numberofframes/
+url: /net/aspose.medical.dicom.tags/tag/numberofframes/
 ---
 
 ## Tag.NumberOfFrames field

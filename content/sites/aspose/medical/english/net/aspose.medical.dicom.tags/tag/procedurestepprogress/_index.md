@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741004 VRDS VM1 Procedure Step Progress.
 type: docs
 weight: 33420
-url: /aspose.medical.dicom.tags/tag/procedurestepprogress/
+url: /net/aspose.medical.dicom.tags/tag/procedurestepprogress/
 ---
 
 ## Tag.ProcedureStepProgress field

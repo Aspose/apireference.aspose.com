@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Creates a new instance of the PixelDataaspose.medical.dicom.imaging/pixeldata and creates Pixel Data element for the given dataset.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.imaging/pixeldata/create/
+url: /net/aspose.medical.dicom.imaging/pixeldata/create/
 ---
 
 ## PixelData.Create method

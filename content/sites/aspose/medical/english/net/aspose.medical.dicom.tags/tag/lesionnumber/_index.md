@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00183105 VRIS VM1-n Lesion Number.
 type: docs
 weight: 22720
-url: /aspose.medical.dicom.tags/tag/lesionnumber/
+url: /net/aspose.medical.dicom.tags/tag/lesionnumber/
 ---
 
 ## Tag.LesionNumber field

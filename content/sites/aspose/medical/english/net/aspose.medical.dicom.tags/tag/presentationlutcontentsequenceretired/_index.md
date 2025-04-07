@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21300080 VRSQ VM1 Presentation LUT Content Sequence RETIRED.
 type: docs
 weight: 32560
-url: /aspose.medical.dicom.tags/tag/presentationlutcontentsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/presentationlutcontentsequenceretired/
 ---
 
 ## Tag.PresentationLUTContentSequenceRETIRED field

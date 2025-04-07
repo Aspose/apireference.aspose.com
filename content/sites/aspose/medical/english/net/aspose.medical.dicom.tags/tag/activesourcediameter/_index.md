@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0218 VRDS VM1 Active Source Diameter.
 type: docs
 weight: 710
-url: /aspose.medical.dicom.tags/tag/activesourcediameter/
+url: /net/aspose.medical.dicom.tags/tag/activesourcediameter/
 ---
 
 ## Tag.ActiveSourceDiameter field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540070 VRUS VM1-n Time Slot Vector.
 type: docs
 weight: 48510
-url: /aspose.medical.dicom.tags/tag/timeslotvector/
+url: /net/aspose.medical.dicom.tags/tag/timeslotvector/
 ---
 
 ## Tag.TimeSlotVector field

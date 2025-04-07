@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400400 VRLT VM1 Comments on the Scheduled Procedure Step.
 type: docs
 weight: 6600
-url: /aspose.medical.dicom.tags/tag/commentsonthescheduledprocedurestep/
+url: /net/aspose.medical.dicom.tags/tag/commentsonthescheduledprocedurestep/
 ---
 
 ## Tag.CommentsOnTheScheduledProcedureStep field

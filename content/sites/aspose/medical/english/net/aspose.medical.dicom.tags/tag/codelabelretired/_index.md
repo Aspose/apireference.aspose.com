@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 002808x0 VRCS VM1-n Code Label RETIRED.
 type: docs
 weight: 6060
-url: /aspose.medical.dicom.tags/tag/codelabelretired/
+url: /net/aspose.medical.dicom.tags/tag/codelabelretired/
 ---
 
 ## Tag.CodeLabelRETIRED field

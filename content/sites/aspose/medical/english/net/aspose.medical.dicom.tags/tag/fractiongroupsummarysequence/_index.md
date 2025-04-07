@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080220 VRSQ VM1 Fraction Group Summary Sequence.
 type: docs
 weight: 16380
-url: /aspose.medical.dicom.tags/tag/fractiongroupsummarysequence/
+url: /net/aspose.medical.dicom.tags/tag/fractiongroupsummarysequence/
 ---
 
 ## Tag.FractionGroupSummarySequence field

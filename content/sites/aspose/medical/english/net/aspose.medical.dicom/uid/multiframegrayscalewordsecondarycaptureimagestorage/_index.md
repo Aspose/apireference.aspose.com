@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Multi-frame Grayscale Word Secondary Capture Image Storage.
 type: docs
 weight: 2750
-url: /aspose.medical.dicom/uid/multiframegrayscalewordsecondarycaptureimagestorage/
+url: /net/aspose.medical.dicom/uid/multiframegrayscalewordsecondarycaptureimagestorage/
 ---
 
 ## Uid.MultiFrameGrayscaleWordSecondaryCaptureImageStorage field

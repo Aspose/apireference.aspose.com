@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0106 VRDS VM2-2n Block Data.
 type: docs
 weight: 3980
-url: /aspose.medical.dicom.tags/tag/blockdata/
+url: /net/aspose.medical.dicom.tags/tag/blockdata/
 ---
 
 ## Tag.BlockData field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321020 VRLO VM1 Scheduled Study Location RETIRED.
 type: docs
 weight: 41590
-url: /aspose.medical.dicom.tags/tag/scheduledstudylocationretired/
+url: /net/aspose.medical.dicom.tags/tag/scheduledstudylocationretired/
 ---
 
 ## Tag.ScheduledStudyLocationRETIRED field

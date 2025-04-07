@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281213 VROW VM1 Large Blue Palette Color Lookup Table Data RETIRED.
 type: docs
 weight: 22220
-url: /aspose.medical.dicom.tags/tag/largebluepalettecolorlookuptabledataretired/
+url: /net/aspose.medical.dicom.tags/tag/largebluepalettecolorlookuptabledataretired/
 ---
 
 ## Tag.LargeBluePaletteColorLookupTableDataRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400100 VRSQ VM1 Scheduled Procedure Step Sequence.
 type: docs
 weight: 41430
-url: /aspose.medical.dicom.tags/tag/scheduledprocedurestepsequence/
+url: /net/aspose.medical.dicom.tags/tag/scheduledprocedurestepsequence/
 ---
 
 ## Tag.ScheduledProcedureStepSequence field

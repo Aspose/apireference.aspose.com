@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160002 VRDS VM3 Primary Chromaticities.
 type: docs
 weight: 32740
-url: /aspose.medical.dicom.tags/tag/primarychromaticities/
+url: /net/aspose.medical.dicom.tags/tag/primarychromaticities/
 ---
 
 ## Tag.PrimaryChromaticities field

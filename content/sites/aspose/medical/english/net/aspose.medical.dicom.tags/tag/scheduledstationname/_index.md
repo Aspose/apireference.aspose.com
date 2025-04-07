@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400010 VRSH VM1-n Scheduled Station Name.
 type: docs
 weight: 41550
-url: /aspose.medical.dicom.tags/tag/scheduledstationname/
+url: /net/aspose.medical.dicom.tags/tag/scheduledstationname/
 ---
 
 ## Tag.ScheduledStationName field

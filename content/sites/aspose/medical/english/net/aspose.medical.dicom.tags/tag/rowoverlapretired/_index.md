@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280093 VRUS VM1 Row Overlap RETIRED.
 type: docs
 weight: 39790
-url: /aspose.medical.dicom.tags/tag/rowoverlapretired/
+url: /net/aspose.medical.dicom.tags/tag/rowoverlapretired/
 ---
 
 ## Tag.RowOverlapRETIRED field

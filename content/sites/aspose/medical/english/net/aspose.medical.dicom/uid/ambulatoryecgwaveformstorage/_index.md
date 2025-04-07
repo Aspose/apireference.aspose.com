@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Ambulatory ECG Waveform Storage.
 type: docs
 weight: 60
-url: /aspose.medical.dicom/uid/ambulatoryecgwaveformstorage/
+url: /net/aspose.medical.dicom/uid/ambulatoryecgwaveformstorage/
 ---
 
 ## Uid.AmbulatoryECGWaveformStorage field

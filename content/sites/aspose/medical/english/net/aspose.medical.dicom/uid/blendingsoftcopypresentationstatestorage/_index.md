@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Blending Softcopy Presentation State Storage.
 type: docs
 weight: 230
-url: /aspose.medical.dicom/uid/blendingsoftcopypresentationstatestorage/
+url: /net/aspose.medical.dicom/uid/blendingsoftcopypresentationstatestorage/
 ---
 
 ## Uid.BlendingSoftcopyPresentationStateStorage field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720060 VRAT VM1-n Selector AT Value.
 type: docs
 weight: 42350
-url: /aspose.medical.dicom.tags/tag/selectoratvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectoratvalue/
 ---
 
 ## Tag.SelectorATValue field

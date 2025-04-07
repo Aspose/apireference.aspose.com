@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0070030F VRST VM1 Fiducial Description.
 type: docs
 weight: 14890
-url: /aspose.medical.dicom.tags/tag/fiducialdescription/
+url: /net/aspose.medical.dicom.tags/tag/fiducialdescription/
 ---
 
 ## Tag.FiducialDescription field

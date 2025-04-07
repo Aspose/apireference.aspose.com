@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541104 VRLO VM1 Detector Lines of Response Used.
 type: docs
 weight: 11080
-url: /aspose.medical.dicom.tags/tag/detectorlinesofresponseused/
+url: /net/aspose.medical.dicom.tags/tag/detectorlinesofresponseused/
 ---
 
 ## Tag.DetectorLinesOfResponseUsed field

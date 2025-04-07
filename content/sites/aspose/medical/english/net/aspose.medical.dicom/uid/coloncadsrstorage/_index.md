@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Colon CAD SR Storage.
 type: docs
 weight: 340
-url: /aspose.medical.dicom/uid/coloncadsrstorage/
+url: /net/aspose.medical.dicom/uid/coloncadsrstorage/
 ---
 
 ## Uid.ColonCADSRStorage field

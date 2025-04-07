@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081060 VRPN VM1-n Name of Physicians Reading Study.
 type: docs
 weight: 25660
-url: /aspose.medical.dicom.tags/tag/nameofphysiciansreadingstudy/
+url: /net/aspose.medical.dicom.tags/tag/nameofphysiciansreadingstudy/
 ---
 
 ## Tag.NameOfPhysiciansReadingStudy field

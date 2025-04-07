@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540051 VRUS VM1 Number of Rotations.
 type: docs
 weight: 26750
-url: /aspose.medical.dicom.tags/tag/numberofrotations/
+url: /net/aspose.medical.dicom.tags/tag/numberofrotations/
 ---
 
 ## Tag.NumberOfRotations field

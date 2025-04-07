@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180013 VRFL VM1 Contrast/Bolus T1 Relaxivity.
 type: docs
 weight: 8360
-url: /aspose.medical.dicom.tags/tag/contrastbolust1relaxivity/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolust1relaxivity/
 ---
 
 ## Tag.ContrastBolusT1Relaxivity field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080224 VRCS VM1 Fraction Group Type.
 type: docs
 weight: 16390
-url: /aspose.medical.dicom.tags/tag/fractiongrouptype/
+url: /net/aspose.medical.dicom.tags/tag/fractiongrouptype/
 ---
 
 ## Tag.FractionGroupType field

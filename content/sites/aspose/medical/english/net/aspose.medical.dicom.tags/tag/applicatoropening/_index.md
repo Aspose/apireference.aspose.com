@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0433 VRFL VM1 Applicator Opening.
 type: docs
 weight: 2190
-url: /aspose.medical.dicom.tags/tag/applicatoropening/
+url: /net/aspose.medical.dicom.tags/tag/applicatoropening/
 ---
 
 ## Tag.ApplicatorOpening field

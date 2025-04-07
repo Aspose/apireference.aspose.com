@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Intraocular Lens Calculations Storage.
 type: docs
 weight: 2070
-url: /aspose.medical.dicom/uid/intraocularlenscalculationsstorage/
+url: /net/aspose.medical.dicom/uid/intraocularlenscalculationsstorage/
 ---
 
 ## Uid.IntraocularLensCalculationsStorage field

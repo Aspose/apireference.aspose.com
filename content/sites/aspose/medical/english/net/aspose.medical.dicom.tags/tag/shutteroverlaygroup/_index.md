@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181623 VRUS VM1 Shutter Overlay Group.
 type: docs
 weight: 43390
-url: /aspose.medical.dicom.tags/tag/shutteroverlaygroup/
+url: /net/aspose.medical.dicom.tags/tag/shutteroverlaygroup/
 ---
 
 ## Tag.ShutterOverlayGroup field

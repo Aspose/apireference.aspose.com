@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Unique Identifier UI VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextUI-Unique20Identifier-UID.
 type: docs
 weight: 510
-url: /aspose.medical.dicom.elements/uniqueidentifier/
+url: /net/aspose.medical.dicom.elements/uniqueidentifier/
 ---
 
 ## UniqueIdentifier class

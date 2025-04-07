@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189914 VRSQ VM1 Instruction Sequence.
 type: docs
 weight: 20630
-url: /aspose.medical.dicom.tags/tag/instructionsequence/
+url: /net/aspose.medical.dicom.tags/tag/instructionsequence/
 ---
 
 ## Tag.InstructionSequence field

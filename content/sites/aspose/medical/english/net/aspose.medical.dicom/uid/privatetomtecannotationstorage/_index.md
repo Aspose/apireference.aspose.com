@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private TomTec Annotation Storage.
 type: docs
 weight: 3700
-url: /aspose.medical.dicom/uid/privatetomtecannotationstorage/
+url: /net/aspose.medical.dicom/uid/privatetomtecannotationstorage/
 ---
 
 ## Uid.PrivateTomTecAnnotationStorage field

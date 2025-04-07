@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008041A VRSQ VM1 File Access Sequence.
 type: docs
 weight: 15050
-url: /aspose.medical.dicom.tags/tag/fileaccesssequence/
+url: /net/aspose.medical.dicom.tags/tag/fileaccesssequence/
 ---
 
 ## Tag.FileAccessSequence field

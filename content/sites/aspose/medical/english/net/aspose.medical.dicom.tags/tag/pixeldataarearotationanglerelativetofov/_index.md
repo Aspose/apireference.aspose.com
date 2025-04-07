@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187038 VRFL VM1 Pixel Data Area Rotation Angle Relative To FOV.
 type: docs
 weight: 31420
-url: /aspose.medical.dicom.tags/tag/pixeldataarearotationanglerelativetofov/
+url: /net/aspose.medical.dicom.tags/tag/pixeldataarearotationanglerelativetofov/
 ---
 
 ## Tag.PixelDataAreaRotationAngleRelativeToFOV field

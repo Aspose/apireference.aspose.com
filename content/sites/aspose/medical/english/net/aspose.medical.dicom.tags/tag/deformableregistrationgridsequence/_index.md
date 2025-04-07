@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00640005 VRSQ VM1 Deformable Registration Grid Sequence.
 type: docs
 weight: 10400
-url: /aspose.medical.dicom.tags/tag/deformableregistrationgridsequence/
+url: /net/aspose.medical.dicom.tags/tag/deformableregistrationgridsequence/
 ---
 
 ## Tag.DeformableRegistrationGridSequence field

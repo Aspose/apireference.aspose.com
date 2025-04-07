@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186022 VRSL VM1 Reference Pixel Y0.
 type: docs
 weight: 37810
-url: /aspose.medical.dicom.tags/tag/referencepixely0/
+url: /net/aspose.medical.dicom.tags/tag/referencepixely0/
 ---
 
 ## Tag.ReferencePixelY0 field

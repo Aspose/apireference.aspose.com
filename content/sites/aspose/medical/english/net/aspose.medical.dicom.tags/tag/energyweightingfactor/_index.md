@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189353 VRFL VM1 Energy Weighting Factor.
 type: docs
 weight: 13630
-url: /aspose.medical.dicom.tags/tag/energyweightingfactor/
+url: /net/aspose.medical.dicom.tags/tag/energyweightingfactor/
 ---
 
 ## Tag.EnergyWeightingFactor field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00005190 VRCS VM1 Erase RETIRED.
 type: docs
 weight: 13970
-url: /aspose.medical.dicom.tags/tag/eraseretired/
+url: /net/aspose.medical.dicom.tags/tag/eraseretired/
 ---
 
 ## Tag.EraseRETIRED field

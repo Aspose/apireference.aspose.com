@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741402 VRDS VM1 Continuation Start Total Reference Air Kerma.
 type: docs
 weight: 8060
-url: /aspose.medical.dicom.tags/tag/continuationstarttotalreferenceairkerma/
+url: /net/aspose.medical.dicom.tags/tag/continuationstarttotalreferenceairkerma/
 ---
 
 ## Tag.ContinuationStartTotalReferenceAirKerma field

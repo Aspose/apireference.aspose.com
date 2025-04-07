@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The DICOM Part 10 dataset transfer syntax. Read-only TransferSyntaxaspose.medical.dicom/metainformation/transfersyntax.
 type: docs
 weight: 110
-url: /aspose.medical.dicom/metainformation/transfersyntax/
+url: /net/aspose.medical.dicom/metainformation/transfersyntax/
 ---
 
 ## MetaInformation.TransferSyntax property

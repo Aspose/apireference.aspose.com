@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701B11 VRSQ VM1 Threshold Sequence.
 type: docs
 weight: 48230
-url: /aspose.medical.dicom.tags/tag/thresholdsequence/
+url: /net/aspose.medical.dicom.tags/tag/thresholdsequence/
 ---
 
 ## Tag.ThresholdSequence field

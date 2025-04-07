@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280124 VRFL VM1 Float Pixel Padding Range Limit.
 type: docs
 weight: 15980
-url: /aspose.medical.dicom.tags/tag/floatpixelpaddingrangelimit/
+url: /net/aspose.medical.dicom.tags/tag/floatpixelpaddingrangelimit/
 ---
 
 ## Tag.FloatPixelPaddingRangeLimit field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189504 VRSQ VM1 X-Ray 3D Frame Type Sequence.
 type: docs
 weight: 52690
-url: /aspose.medical.dicom.tags/tag/xray3dframetypesequence/
+url: /net/aspose.medical.dicom.tags/tag/xray3dframetypesequence/
 ---
 
 ## Tag.XRay3DFrameTypeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The default constructor.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.anonymization/confidentialityprofile/confidentialityprofile/
+url: /net/aspose.medical.dicom.anonymization/confidentialityprofile/confidentialityprofile/
 ---
 
 ## ConfidentialityProfile constructor

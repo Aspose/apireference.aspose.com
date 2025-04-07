@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187004 VRCS VM1 Detector Type.
 type: docs
 weight: 11200
-url: /aspose.medical.dicom.tags/tag/detectortype/
+url: /net/aspose.medical.dicom.tags/tag/detectortype/
 ---
 
 ## Tag.DetectorType field

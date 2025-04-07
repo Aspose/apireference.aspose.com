@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002010D VRSQ VM1 Imaging Source Position Sequence.
 type: docs
 weight: 19730
-url: /aspose.medical.dicom.tags/tag/imagingsourcepositionsequence/
+url: /net/aspose.medical.dicom.tags/tag/imagingsourcepositionsequence/
 ---
 
 ## Tag.ImagingSourcePositionSequence field

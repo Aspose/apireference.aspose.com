@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080094 VRSH VM1-n Referring Physicians Telephone Numbers.
 type: docs
 weight: 37870
-url: /aspose.medical.dicom.tags/tag/referringphysiciantelephonenumbers/
+url: /net/aspose.medical.dicom.tags/tag/referringphysiciantelephonenumbers/
 ---
 
 ## Tag.ReferringPhysicianTelephoneNumbers field

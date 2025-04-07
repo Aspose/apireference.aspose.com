@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041504 VRUL VM1 MRDR Directory Record Offset RETIRED.
 type: docs
 weight: 25200
-url: /aspose.medical.dicom.tags/tag/mrdrdirectoryrecordoffsetretired/
+url: /net/aspose.medical.dicom.tags/tag/mrdrdirectoryrecordoffsetretired/
 ---
 
 ## Tag.MRDRDirectoryRecordOffsetRETIRED field

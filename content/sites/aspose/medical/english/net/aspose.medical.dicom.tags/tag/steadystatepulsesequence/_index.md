@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189017 VRCS VM1 Steady State Pulse Sequence.
 type: docs
 weight: 45460
-url: /aspose.medical.dicom.tags/tag/steadystatepulsesequence/
+url: /net/aspose.medical.dicom.tags/tag/steadystatepulsesequence/
 ---
 
 ## Tag.SteadyStatePulseSequence field

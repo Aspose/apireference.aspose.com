@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Unified Procedure Step - Event SOP Class - Trial Retired.
 type: docs
 weight: 4780
-url: /aspose.medical.dicom/uid/unifiedprocedurestepeventsopclasstrialretired/
+url: /net/aspose.medical.dicom/uid/unifiedprocedurestepeventsopclasstrialretired/
 ---
 
 ## Uid.UnifiedProcedureStepEventSOPClassTrialRetired field

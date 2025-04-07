@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700249 VRCS VM1 Bold.
 type: docs
 weight: 4250
-url: /aspose.medical.dicom.tags/tag/bold/
+url: /net/aspose.medical.dicom.tags/tag/bold/
 ---
 
 ## Tag.Bold field

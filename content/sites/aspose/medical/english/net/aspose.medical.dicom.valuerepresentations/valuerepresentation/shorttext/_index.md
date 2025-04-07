@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Short Text ST.
 type: docs
 weight: 230
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/shorttext/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/shorttext/
 ---
 
 ## ValueRepresentation.ShortText field

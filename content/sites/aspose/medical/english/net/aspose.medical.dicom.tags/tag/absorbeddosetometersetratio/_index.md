@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0121 VRFD VM1 Absorbed Dose to Meterset Ratio.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.tags/tag/absorbeddosetometersetratio/
+url: /net/aspose.medical.dicom.tags/tag/absorbeddosetometersetratio/
 ---
 
 ## Tag.AbsorbedDoseToMetersetRatio field

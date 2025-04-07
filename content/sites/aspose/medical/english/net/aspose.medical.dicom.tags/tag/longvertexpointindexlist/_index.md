@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660043 VROL VM1 Long Vertex Point Index List.
 type: docs
 weight: 23050
-url: /aspose.medical.dicom.tags/tag/longvertexpointindexlist/
+url: /net/aspose.medical.dicom.tags/tag/longvertexpointindexlist/
 ---
 
 ## Tag.LongVertexPointIndexList field

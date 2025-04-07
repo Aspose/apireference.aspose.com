@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A029C VRDS VM1 Source Applicator Wall Nominal Thickness.
 type: docs
 weight: 44050
-url: /aspose.medical.dicom.tags/tag/sourceapplicatorwallnominalthickness/
+url: /net/aspose.medical.dicom.tags/tag/sourceapplicatorwallnominalthickness/
 ---
 
 ## Tag.SourceApplicatorWallNominalThickness field

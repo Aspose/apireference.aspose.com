@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4010106D VRCS VM1 Additional Screening Performed RETIRED.
 type: docs
 weight: 890
-url: /aspose.medical.dicom.tags/tag/additionalscreeningperformedretired/
+url: /net/aspose.medical.dicom.tags/tag/additionalscreeningperformedretired/
 ---
 
 ## Tag.AdditionalScreeningPerformedRETIRED field

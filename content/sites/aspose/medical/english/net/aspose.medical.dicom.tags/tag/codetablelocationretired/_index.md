@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 002808x3 VRAT VM1-n Code Table Location RETIRED.
 type: docs
 weight: 6090
-url: /aspose.medical.dicom.tags/tag/codetablelocationretired/
+url: /net/aspose.medical.dicom.tags/tag/codetablelocationretired/
 ---
 
 ## Tag.CodeTableLocationRETIRED field

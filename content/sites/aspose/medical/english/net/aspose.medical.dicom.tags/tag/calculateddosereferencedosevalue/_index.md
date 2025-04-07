@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080076 VRDS VM1 Calculated Dose Reference Dose Value.
 type: docs
 weight: 4820
-url: /aspose.medical.dicom.tags/tag/calculateddosereferencedosevalue/
+url: /net/aspose.medical.dicom.tags/tag/calculateddosereferencedosevalue/
 ---
 
 ## Tag.CalculatedDoseReferenceDoseValue field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00203402 VRCS VM1 Modified Image ID RETIRED.
 type: docs
 weight: 24780
-url: /aspose.medical.dicom.tags/tag/modifiedimageidretired/
+url: /net/aspose.medical.dicom.tags/tag/modifiedimageidretired/
 ---
 
 ## Tag.ModifiedImageIDRETIRED field

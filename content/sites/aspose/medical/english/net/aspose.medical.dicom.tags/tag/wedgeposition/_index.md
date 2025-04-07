@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0118 VRCS VM1 Wedge Position.
 type: docs
 weight: 52310
-url: /aspose.medical.dicom.tags/tag/wedgeposition/
+url: /net/aspose.medical.dicom.tags/tag/wedgeposition/
 ---
 
 ## Tag.WedgePosition field

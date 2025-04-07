@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018605A VRFL VM1-n Table of Parameter Values.
 type: docs
 weight: 46830
-url: /aspose.medical.dicom.tags/tag/tableofparametervalues/
+url: /net/aspose.medical.dicom.tags/tag/tableofparametervalues/
 ---
 
 ## Tag.TableOfParameterValues field

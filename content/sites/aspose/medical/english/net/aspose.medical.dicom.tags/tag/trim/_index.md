@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100140 VRCS VM1 Trim.
 type: docs
 weight: 50100
-url: /aspose.medical.dicom.tags/tag/trim/
+url: /net/aspose.medical.dicom.tags/tag/trim/
 ---
 
 ## Tag.Trim field

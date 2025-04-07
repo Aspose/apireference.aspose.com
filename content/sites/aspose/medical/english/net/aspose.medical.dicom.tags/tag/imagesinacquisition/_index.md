@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00201002 VRIS VM1 Images in Acquisition.
 type: docs
 weight: 19550
-url: /aspose.medical.dicom.tags/tag/imagesinacquisition/
+url: /net/aspose.medical.dicom.tags/tag/imagesinacquisition/
 ---
 
 ## Tag.ImagesInAcquisition field

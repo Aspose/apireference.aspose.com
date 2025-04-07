@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Checks whether two PrivateCreatoraspose.medical.dicom.tags/privatecreator objects are equal.
 type: docs
 weight: 60
-url: /aspose.medical.dicom.tags/privatecreator/op_equality/
+url: /net/aspose.medical.dicom.tags/privatecreator/op_equality/
 ---
 
 ## PrivateCreator Equality operator

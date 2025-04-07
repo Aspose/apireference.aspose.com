@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0322 VRLO VM1 Range Shifter Description.
 type: docs
 weight: 34910
-url: /aspose.medical.dicom.tags/tag/rangeshifterdescription/
+url: /net/aspose.medical.dicom.tags/tag/rangeshifterdescription/
 ---
 
 ## Tag.RangeShifterDescription field

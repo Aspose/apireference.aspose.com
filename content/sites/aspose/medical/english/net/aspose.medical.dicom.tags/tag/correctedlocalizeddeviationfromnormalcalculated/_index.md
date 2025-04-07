@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240078 VRCS VM1 Corrected Localized Deviation From Normal Calculated.
 type: docs
 weight: 8950
-url: /aspose.medical.dicom.tags/tag/correctedlocalizeddeviationfromnormalcalculated/
+url: /net/aspose.medical.dicom.tags/tag/correctedlocalizeddeviationfromnormalcalculated/
 ---
 
 ## Tag.CorrectedLocalizedDeviationFromNormalCalculated field

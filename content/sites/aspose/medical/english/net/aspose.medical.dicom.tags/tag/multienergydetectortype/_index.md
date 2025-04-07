@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189372 VRCS VM1 Multi-energy Detector Type.
 type: docs
 weight: 25480
-url: /aspose.medical.dicom.tags/tag/multienergydetectortype/
+url: /net/aspose.medical.dicom.tags/tag/multienergydetectortype/
 ---
 
 ## Tag.MultienergyDetectorType field

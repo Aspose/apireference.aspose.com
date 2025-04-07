@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014407E VRDA VM1-n Calibration Date RETIRED.
 type: docs
 weight: 4910
-url: /aspose.medical.dicom.tags/tag/calibrationdateretired/
+url: /net/aspose.medical.dicom.tags/tag/calibrationdateretired/
 ---
 
 ## Tag.CalibrationDateRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006862A5 VRFD VM1 Overall Template Spatial Tolerance.
 type: docs
 weight: 28800
-url: /aspose.medical.dicom.tags/tag/overalltemplatespatialtolerance/
+url: /net/aspose.medical.dicom.tags/tag/overalltemplatespatialtolerance/
 ---
 
 ## Tag.OverallTemplateSpatialTolerance field

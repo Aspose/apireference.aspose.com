@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00DC VRSH VM1 Bolus ID.
 type: docs
 weight: 4280
-url: /aspose.medical.dicom.tags/tag/bolusid/
+url: /net/aspose.medical.dicom.tags/tag/bolusid/
 ---
 
 ## Tag.BolusID field

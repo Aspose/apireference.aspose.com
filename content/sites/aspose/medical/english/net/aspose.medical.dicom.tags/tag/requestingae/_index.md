@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741236 VRAE VM1 Requesting AE.
 type: docs
 weight: 38830
-url: /aspose.medical.dicom.tags/tag/requestingae/
+url: /net/aspose.medical.dicom.tags/tag/requestingae/
 ---
 
 ## Tag.RequestingAE field

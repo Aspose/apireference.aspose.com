@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Other Double OD.
 type: docs
 weight: 160
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/otherdouble/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/otherdouble/
 ---
 
 ## ValueRepresentation.OtherDouble field

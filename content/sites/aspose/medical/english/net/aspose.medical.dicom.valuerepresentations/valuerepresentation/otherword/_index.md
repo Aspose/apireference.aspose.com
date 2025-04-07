@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Other Word OW.
 type: docs
 weight: 200
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/otherword/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/otherword/
 ---
 
 ## ValueRepresentation.OtherWord field

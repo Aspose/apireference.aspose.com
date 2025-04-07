@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144085 VRDS VM1 Probe Resistance RETIRED.
 type: docs
 weight: 33290
-url: /aspose.medical.dicom.tags/tag/proberesistanceretired/
+url: /net/aspose.medical.dicom.tags/tag/proberesistanceretired/
 ---
 
 ## Tag.ProbeResistanceRETIRED field

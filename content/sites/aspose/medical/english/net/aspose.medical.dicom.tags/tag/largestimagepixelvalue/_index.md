@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280107 VRUS or SS VM1 Largest Image Pixel Value.
 type: docs
 weight: 22290
-url: /aspose.medical.dicom.tags/tag/largestimagepixelvalue/
+url: /net/aspose.medical.dicom.tags/tag/largestimagepixelvalue/
 ---
 
 ## Tag.LargestImagePixelValue field

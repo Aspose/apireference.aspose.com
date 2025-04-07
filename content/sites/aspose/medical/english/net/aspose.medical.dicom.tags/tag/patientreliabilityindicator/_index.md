@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240069 VRLO VM1 Patient Reliability Indicator.
 type: docs
 weight: 30060
-url: /aspose.medical.dicom.tags/tag/patientreliabilityindicator/
+url: /net/aspose.medical.dicom.tags/tag/patientreliabilityindicator/
 ---
 
 ## Tag.PatientReliabilityIndicator field

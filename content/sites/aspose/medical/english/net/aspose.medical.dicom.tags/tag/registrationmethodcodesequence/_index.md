@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00800003 VRSQ VM1 Registration Method Code Sequence.
 type: docs
 weight: 38140
-url: /aspose.medical.dicom.tags/tag/registrationmethodcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/registrationmethodcodesequence/
 ---
 
 ## Tag.RegistrationMethodCodeSequence field

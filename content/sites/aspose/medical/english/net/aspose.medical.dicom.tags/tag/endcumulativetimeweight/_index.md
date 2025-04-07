@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741408 VRDS VM1 End Cumulative Time Weight.
 type: docs
 weight: 13560
-url: /aspose.medical.dicom.tags/tag/endcumulativetimeweight/
+url: /net/aspose.medical.dicom.tags/tag/endcumulativetimeweight/
 ---
 
 ## Tag.EndCumulativeTimeWeight field

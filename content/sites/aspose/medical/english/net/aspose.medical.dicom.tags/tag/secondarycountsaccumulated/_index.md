@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541311 VRIS VM1-n Secondary Counts Accumulated.
 type: docs
 weight: 41810
-url: /aspose.medical.dicom.tags/tag/secondarycountsaccumulated/
+url: /net/aspose.medical.dicom.tags/tag/secondarycountsaccumulated/
 ---
 
 ## Tag.SecondaryCountsAccumulated field

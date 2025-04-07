@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040B037 VRSQ VM1 Montage Activation Sequence.
 type: docs
 weight: 24870
-url: /aspose.medical.dicom.tags/tag/montageactivationsequence/
+url: /net/aspose.medical.dicom.tags/tag/montageactivationsequence/
 ---
 
 ## Tag.MontageActivationSequence field

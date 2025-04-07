@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 000051A0 VRCS VM1 Print RETIRED.
 type: docs
 weight: 32990
-url: /aspose.medical.dicom.tags/tag/printretired/
+url: /net/aspose.medical.dicom.tags/tag/printretired/
 ---
 
 ## Tag.PrintRETIRED field

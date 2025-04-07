@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189514 VRFL VM1 Primary Positioner Increment.
 type: docs
 weight: 32790
-url: /aspose.medical.dicom.tags/tag/primarypositionerincrement/
+url: /net/aspose.medical.dicom.tags/tag/primarypositionerincrement/
 ---
 
 ## Tag.PrimaryPositionerIncrement field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181065 VRDS VM1-n Frame Time Vector.
 type: docs
 weight: 16790
-url: /aspose.medical.dicom.tags/tag/frametimevector/
+url: /net/aspose.medical.dicom.tags/tag/frametimevector/
 ---
 
 ## Tag.FrameTimeVector field

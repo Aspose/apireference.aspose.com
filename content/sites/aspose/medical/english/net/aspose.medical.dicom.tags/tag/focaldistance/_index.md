@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181182 VRIS VM1-2 Focal Distance.
 type: docs
 weight: 16150
-url: /aspose.medical.dicom.tags/tag/focaldistance/
+url: /net/aspose.medical.dicom.tags/tag/focaldistance/
 ---
 
 ## Tag.FocalDistance field

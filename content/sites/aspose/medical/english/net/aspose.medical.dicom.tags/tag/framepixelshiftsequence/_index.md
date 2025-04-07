@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289415 VRSQ VM1 Frame Pixel Shift Sequence.
 type: docs
 weight: 16730
-url: /aspose.medical.dicom.tags/tag/framepixelshiftsequence/
+url: /net/aspose.medical.dicom.tags/tag/framepixelshiftsequence/
 ---
 
 ## Tag.FramePixelShiftSequence field

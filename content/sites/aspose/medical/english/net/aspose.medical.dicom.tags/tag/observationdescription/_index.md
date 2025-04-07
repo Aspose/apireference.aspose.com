@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0082000A VRUT VM1 Observation Description.
 type: docs
 weight: 27320
-url: /aspose.medical.dicom.tags/tag/observationdescription/
+url: /net/aspose.medical.dicom.tags/tag/observationdescription/
 ---
 
 ## Tag.ObservationDescription field

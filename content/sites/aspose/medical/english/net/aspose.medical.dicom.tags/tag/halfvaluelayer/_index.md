@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400314 VRDS VM1 Half Value Layer.
 type: docs
 weight: 18130
-url: /aspose.medical.dicom.tags/tag/halfvaluelayer/
+url: /net/aspose.medical.dicom.tags/tag/halfvaluelayer/
 ---
 
 ## Tag.HalfValueLayer field

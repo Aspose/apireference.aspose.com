@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700008 VRSQ VM1 Text Object Sequence.
 type: docs
 weight: 47830
-url: /aspose.medical.dicom.tags/tag/textobjectsequence/
+url: /net/aspose.medical.dicom.tags/tag/textobjectsequence/
 ---
 
 ## Tag.TextObjectSequence field

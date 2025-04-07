@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A032E VROD VM1 Filter Lookup Table Data.
 type: docs
 weight: 15360
-url: /aspose.medical.dicom.tags/tag/filterlookuptabledata/
+url: /net/aspose.medical.dicom.tags/tag/filterlookuptabledata/
 ---
 
 ## Tag.FilterLookupTableData field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221629 VRCS VM1 Ophthalmic En Face Volume Descriptor Scope.
 type: docs
 weight: 28070
-url: /aspose.medical.dicom.tags/tag/ophthalmicenfacevolumedescriptorscope/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicenfacevolumedescriptorscope/
 ---
 
 ## Tag.OphthalmicEnFaceVolumeDescriptorScope field

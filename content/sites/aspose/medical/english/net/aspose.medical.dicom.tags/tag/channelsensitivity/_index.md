@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0210 VRDS VM1 Channel Sensitivity.
 type: docs
 weight: 5610
-url: /aspose.medical.dicom.tags/tag/channelsensitivity/
+url: /net/aspose.medical.dicom.tags/tag/channelsensitivity/
 ---
 
 ## Tag.ChannelSensitivity field

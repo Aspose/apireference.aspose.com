@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181111 VRDS VM1 Distance Source to Patient.
 type: docs
 weight: 12440
-url: /aspose.medical.dicom.tags/tag/distancesourcetopatient/
+url: /net/aspose.medical.dicom.tags/tag/distancesourcetopatient/
 ---
 
 ## Tag.DistanceSourceToPatient field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Implant Template Group Information Model - MOVE.
 type: docs
 weight: 2020
-url: /aspose.medical.dicom/uid/implanttemplategroupinformationmodelmove/
+url: /net/aspose.medical.dicom/uid/implanttemplategroupinformationmodelmove/
 ---
 
 ## Uid.ImplantTemplateGroupInformationModelMOVE field

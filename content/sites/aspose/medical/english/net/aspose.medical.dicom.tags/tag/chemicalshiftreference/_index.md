@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189053 VRFD VM1-2 Chemical Shift Reference.
 type: docs
 weight: 5840
-url: /aspose.medical.dicom.tags/tag/chemicalshiftreference/
+url: /net/aspose.medical.dicom.tags/tag/chemicalshiftreference/
 ---
 
 ## Tag.ChemicalShiftReference field

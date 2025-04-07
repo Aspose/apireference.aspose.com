@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720434 VRCS VM1 Type of Synchronization.
 type: docs
 weight: 50330
-url: /aspose.medical.dicom.tags/tag/typeofsynchronization/
+url: /net/aspose.medical.dicom.tags/tag/typeofsynchronization/
 ---
 
 ## Tag.TypeOfSynchronization field

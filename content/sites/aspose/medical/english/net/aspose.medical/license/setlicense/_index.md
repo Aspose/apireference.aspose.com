@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 30
-url: /aspose.medical/license/setlicense/
+url: /net/aspose.medical/license/setlicense/
 ---
 
 ## SetLicense(string) {#setlicense_1}

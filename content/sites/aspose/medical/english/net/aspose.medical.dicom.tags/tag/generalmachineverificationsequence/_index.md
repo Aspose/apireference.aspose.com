@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741042 VRSQ VM1 General Machine Verification Sequence.
 type: docs
 weight: 17210
-url: /aspose.medical.dicom.tags/tag/generalmachineverificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/generalmachineverificationsequence/
 ---
 
 ## Tag.GeneralMachineVerificationSequence field

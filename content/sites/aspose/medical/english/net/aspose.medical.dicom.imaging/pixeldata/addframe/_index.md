@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Adds new frame into pixel data. New frame will be appended to existing frames.
 type: docs
 weight: 220
-url: /aspose.medical.dicom.imaging/pixeldata/addframe/
+url: /net/aspose.medical.dicom.imaging/pixeldata/addframe/
 ---
 
 ## PixelData.AddFrame method

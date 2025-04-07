@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700067 VRUS VM3 Graphic Layer Recommended Display RGB Value RETIRED.
 type: docs
 weight: 17910
-url: /aspose.medical.dicom.tags/tag/graphiclayerrecommendeddisplayrgbvalueretired/
+url: /net/aspose.medical.dicom.tags/tag/graphiclayerrecommendeddisplayrgbvalueretired/
 ---
 
 ## Tag.GraphicLayerRecommendedDisplayRGBValueRETIRED field

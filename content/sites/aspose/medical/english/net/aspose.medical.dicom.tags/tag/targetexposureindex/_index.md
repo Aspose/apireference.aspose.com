@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181412 VRDS VM1 Target Exposure Index.
 type: docs
 weight: 47330
-url: /aspose.medical.dicom.tags/tag/targetexposureindex/
+url: /net/aspose.medical.dicom.tags/tag/targetexposureindex/
 ---
 
 ## Tag.TargetExposureIndex field

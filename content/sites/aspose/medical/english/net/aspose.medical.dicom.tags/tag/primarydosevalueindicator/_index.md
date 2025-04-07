@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A061B VRCS VM1 Primary Dose Value Indicator.
 type: docs
 weight: 32760
-url: /aspose.medical.dicom.tags/tag/primarydosevalueindicator/
+url: /net/aspose.medical.dicom.tags/tag/primarydosevalueindicator/
 ---
 
 ## Tag.PrimaryDoseValueIndicator field

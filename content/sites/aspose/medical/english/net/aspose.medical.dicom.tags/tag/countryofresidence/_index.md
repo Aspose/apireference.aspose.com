@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102150 VRLO VM1 Country of Residence.
 type: docs
 weight: 9020
-url: /aspose.medical.dicom.tags/tag/countryofresidence/
+url: /net/aspose.medical.dicom.tags/tag/countryofresidence/
 ---
 
 ## Tag.CountryOfResidence field

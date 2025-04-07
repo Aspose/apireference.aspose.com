@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480207 VRSQ VM1 Optical Path Identification Sequence.
 type: docs
 weight: 28280
-url: /aspose.medical.dicom.tags/tag/opticalpathidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/opticalpathidentificationsequence/
 ---
 
 ## Tag.OpticalPathIdentificationSequence field

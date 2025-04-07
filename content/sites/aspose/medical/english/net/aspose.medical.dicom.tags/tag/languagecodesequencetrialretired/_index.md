@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A744 VRSQ VM1 Language Code Sequence Trial RETIRED.
 type: docs
 weight: 22210
-url: /aspose.medical.dicom.tags/tag/languagecodesequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/languagecodesequencetrialretired/
 ---
 
 ## Tag.LanguageCodeSequenceTrialRETIRED field

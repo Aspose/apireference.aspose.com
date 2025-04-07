@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The number of frames in the overlay. Read/Write Int32.
 type: docs
 weight: 60
-url: /aspose.medical.dicom.imaging.overlays/overlaydata/numberofframes/
+url: /net/aspose.medical.dicom.imaging.overlays/overlaydata/numberofframes/
 ---
 
 ## OverlayData.NumberOfFrames property

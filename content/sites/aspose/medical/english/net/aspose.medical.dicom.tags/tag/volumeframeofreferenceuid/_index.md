@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209312 VRUI VM1 Volume Frame of Reference UID.
 type: docs
 weight: 51620
-url: /aspose.medical.dicom.tags/tag/volumeframeofreferenceuid/
+url: /net/aspose.medical.dicom.tags/tag/volumeframeofreferenceuid/
 ---
 
 ## Tag.VolumeFrameOfReferenceUID field

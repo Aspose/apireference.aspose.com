@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040E031 VRUI VM1 Home Community ID.
 type: docs
 weight: 18460
-url: /aspose.medical.dicom.tags/tag/homecommunityid/
+url: /net/aspose.medical.dicom.tags/tag/homecommunityid/
 ---
 
 ## Tag.HomeCommunityID field

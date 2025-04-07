@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018601E VRUL VM1 Region Location Max Y1.
 type: docs
 weight: 38050
-url: /aspose.medical.dicom.tags/tag/regionlocationmaxy1/
+url: /net/aspose.medical.dicom.tags/tag/regionlocationmaxy1/
 ---
 
 ## Tag.RegionLocationMaxY1 field

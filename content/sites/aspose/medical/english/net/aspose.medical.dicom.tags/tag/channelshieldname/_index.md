@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02B4 VRLO VM1 Channel Shield Name.
 type: docs
 weight: 5670
-url: /aspose.medical.dicom.tags/tag/channelshieldname/
+url: /net/aspose.medical.dicom.tags/tag/channelshieldname/
 ---
 
 ## Tag.ChannelShieldName field

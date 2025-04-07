@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281230 VRSQ VM1 Stored Value Color Range Sequence.
 type: docs
 weight: 45710
-url: /aspose.medical.dicom.tags/tag/storedvaluecolorrangesequence/
+url: /net/aspose.medical.dicom.tags/tag/storedvaluecolorrangesequence/
 ---
 
 ## Tag.StoredValueColorRangeSequence field

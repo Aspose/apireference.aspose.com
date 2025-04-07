@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 110
-url: /aspose.medical.imaging.pixelformats/rgba32/tostring/
+url: /net/aspose.medical.imaging.pixelformats/rgba32/tostring/
 ---
 
 ## Rgba32.ToString method

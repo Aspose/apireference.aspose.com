@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180075 VRIS VM1 Acquisition Termination Condition Data.
 type: docs
 weight: 620
-url: /aspose.medical.dicom.tags/tag/acquisitionterminationconditiondata/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionterminationconditiondata/
 ---
 
 ## Tag.AcquisitionTerminationConditionData field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221040 VRSQ VM1 Refractive Surgery Type Code Sequence.
 type: docs
 weight: 38010
-url: /aspose.medical.dicom.tags/tag/refractivesurgerytypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/refractivesurgerytypecodesequence/
 ---
 
 ## Tag.RefractiveSurgeryTypeCodeSequence field

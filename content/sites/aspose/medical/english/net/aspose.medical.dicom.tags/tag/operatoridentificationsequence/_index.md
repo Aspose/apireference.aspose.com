@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081072 VRSQ VM1 Operator Identification Sequence.
 type: docs
 weight: 27780
-url: /aspose.medical.dicom.tags/tag/operatoridentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/operatoridentificationsequence/
 ---
 
 ## Tag.OperatorIdentificationSequence field

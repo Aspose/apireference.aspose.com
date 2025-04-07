@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189352 VRFL VM3 Calcium Scoring Mass Factor Device.
 type: docs
 weight: 4780
-url: /aspose.medical.dicom.tags/tag/calciumscoringmassfactordevice/
+url: /net/aspose.medical.dicom.tags/tag/calciumscoringmassfactordevice/
 ---
 
 ## Tag.CalciumScoringMassFactorDevice field

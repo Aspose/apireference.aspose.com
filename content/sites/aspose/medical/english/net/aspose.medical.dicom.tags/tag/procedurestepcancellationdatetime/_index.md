@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404052 VRDT VM1 Procedure Step Cancellation DateTime.
 type: docs
 weight: 33380
-url: /aspose.medical.dicom.tags/tag/procedurestepcancellationdatetime/
+url: /net/aspose.medical.dicom.tags/tag/procedurestepcancellationdatetime/
 ---
 
 ## Tag.ProcedureStepCancellationDateTime field

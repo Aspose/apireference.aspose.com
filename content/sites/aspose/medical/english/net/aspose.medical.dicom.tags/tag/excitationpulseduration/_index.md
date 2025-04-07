@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189824 VRFD VM1 Excitation Pulse Duration.
 type: docs
 weight: 14260
-url: /aspose.medical.dicom.tags/tag/excitationpulseduration/
+url: /net/aspose.medical.dicom.tags/tag/excitationpulseduration/
 ---
 
 ## Tag.ExcitationPulseDuration field

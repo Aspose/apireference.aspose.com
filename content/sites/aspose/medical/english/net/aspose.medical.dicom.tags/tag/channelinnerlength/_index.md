@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0272 VRDS VM1 Channel Inner Length.
 type: docs
 weight: 5490
-url: /aspose.medical.dicom.tags/tag/channelinnerlength/
+url: /net/aspose.medical.dicom.tags/tag/channelinnerlength/
 ---
 
 ## Tag.ChannelInnerLength field

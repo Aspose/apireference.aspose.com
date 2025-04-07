@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181190 VRDS VM1-n Focal Spots.
 type: docs
 weight: 16180
-url: /aspose.medical.dicom.tags/tag/focalspots/
+url: /net/aspose.medical.dicom.tags/tag/focalspots/
 ---
 
 ## Tag.FocalSpots field

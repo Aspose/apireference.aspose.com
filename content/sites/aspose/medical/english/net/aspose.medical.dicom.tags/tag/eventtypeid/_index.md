@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00001002 VRUS VM1 Event Type ID.
 type: docs
 weight: 14160
-url: /aspose.medical.dicom.tags/tag/eventtypeid/
+url: /net/aspose.medical.dicom.tags/tag/eventtypeid/
 ---
 
 ## Tag.EventTypeID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189509 VRFL VM1 Secondary Positioner Scan Arc.
 type: docs
 weight: 41870
-url: /aspose.medical.dicom.tags/tag/secondarypositionerscanarc/
+url: /net/aspose.medical.dicom.tags/tag/secondarypositionerscanarc/
 ---
 
 ## Tag.SecondaryPositionerScanArc field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120032 VRLO VM1 Issuer of Clinical Trial Site ID.
 type: docs
 weight: 21810
-url: /aspose.medical.dicom.tags/tag/issuerofclinicaltrialsiteid/
+url: /net/aspose.medical.dicom.tags/tag/issuerofclinicaltrialsiteid/
 ---
 
 ## Tag.IssuerOfClinicalTrialSiteID field

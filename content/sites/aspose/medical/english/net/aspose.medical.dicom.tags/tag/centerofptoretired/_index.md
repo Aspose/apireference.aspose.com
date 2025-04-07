@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4010101C VRFL VM3 Center of PTO RETIRED.
 type: docs
 weight: 5290
-url: /aspose.medical.dicom.tags/tag/centerofptoretired/
+url: /net/aspose.medical.dicom.tags/tag/centerofptoretired/
 ---
 
 ## Tag.CenterOfPTORETIRED field

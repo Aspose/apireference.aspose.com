@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280A04 VRLO VM1 Pixel Spacing Calibration Description.
 type: docs
 weight: 31560
-url: /aspose.medical.dicom.tags/tag/pixelspacingcalibrationdescription/
+url: /net/aspose.medical.dicom.tags/tag/pixelspacingcalibrationdescription/
 ---
 
 ## Tag.PixelSpacingCalibrationDescription field

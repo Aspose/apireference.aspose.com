@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 1000xxx1 VRUS VM3 Run Length Triplet RETIRED.
 type: docs
 weight: 40830
-url: /aspose.medical.dicom.tags/tag/runlengthtripletretired/
+url: /net/aspose.medical.dicom.tags/tag/runlengthtripletretired/
 ---
 
 ## Tag.RunLengthTripletRETIRED field

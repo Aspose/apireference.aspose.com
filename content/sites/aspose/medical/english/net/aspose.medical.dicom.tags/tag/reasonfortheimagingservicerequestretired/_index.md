@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00402001 VRLO VM1 Reason for the Imaging Service Request RETIRED.
 type: docs
 weight: 35220
-url: /aspose.medical.dicom.tags/tag/reasonfortheimagingservicerequestretired/
+url: /net/aspose.medical.dicom.tags/tag/reasonfortheimagingservicerequestretired/
 ---
 
 ## Tag.ReasonForTheImagingServiceRequestRETIRED field

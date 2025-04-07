@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Coding Scheme ICD-11.
 type: docs
 weight: 1920
-url: /aspose.medical.dicom/uid/icd11/
+url: /net/aspose.medical.dicom/uid/icd11/
 ---
 
 ## Uid.ICD11 field

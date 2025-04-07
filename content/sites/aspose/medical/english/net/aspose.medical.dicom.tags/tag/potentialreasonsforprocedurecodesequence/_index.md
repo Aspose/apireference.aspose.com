@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189909 VRSQ VM1 Potential Reasons for Procedure Code Sequence.
 type: docs
 weight: 32220
-url: /aspose.medical.dicom.tags/tag/potentialreasonsforprocedurecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/potentialreasonsforprocedurecodesequence/
 ---
 
 ## Tag.PotentialReasonsForProcedureCodeSequence field

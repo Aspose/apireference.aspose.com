@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02E5 VRFL VM1 Compensator Column Offset.
 type: docs
 weight: 6630
-url: /aspose.medical.dicom.tags/tag/compensatorcolumnoffset/
+url: /net/aspose.medical.dicom.tags/tag/compensatorcolumnoffset/
 ---
 
 ## Tag.CompensatorColumnOffset field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00188150 VRDS VM1 Exposure Time in ÂµS.
 type: docs
 weight: 14680
-url: /aspose.medical.dicom.tags/tag/exposuretimeinus/
+url: /net/aspose.medical.dicom.tags/tag/exposuretimeinus/
 ---
 
 ## Tag.ExposureTimeInuS field

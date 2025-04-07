@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20200020 VRCS VM1 Polarity.
 type: docs
 weight: 31930
-url: /aspose.medical.dicom.tags/tag/polarity/
+url: /net/aspose.medical.dicom.tags/tag/polarity/
 ---
 
 ## Tag.Polarity field

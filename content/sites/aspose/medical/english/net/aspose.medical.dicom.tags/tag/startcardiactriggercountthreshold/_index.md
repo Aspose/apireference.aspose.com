@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189717 VRFD VM1 Start Cardiac Trigger Count Threshold.
 type: docs
 weight: 45310
-url: /aspose.medical.dicom.tags/tag/startcardiactriggercountthreshold/
+url: /net/aspose.medical.dicom.tags/tag/startcardiactriggercountthreshold/
 ---
 
 ## Tag.StartCardiacTriggerCountThreshold field

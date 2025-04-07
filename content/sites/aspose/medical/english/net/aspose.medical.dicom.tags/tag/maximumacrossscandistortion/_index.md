@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220049 VRFL VM1 Maximum Across-scan Distortion.
 type: docs
 weight: 23880
-url: /aspose.medical.dicom.tags/tag/maximumacrossscandistortion/
+url: /net/aspose.medical.dicom.tags/tag/maximumacrossscandistortion/
 ---
 
 ## Tag.MaximumAcrossScanDistortion field

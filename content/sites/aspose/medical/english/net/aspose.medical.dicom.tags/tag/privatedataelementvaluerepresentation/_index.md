@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008030A VRCS VM1 Private Data Element Value Representation.
 type: docs
 weight: 33150
-url: /aspose.medical.dicom.tags/tag/privatedataelementvaluerepresentation/
+url: /net/aspose.medical.dicom.tags/tag/privatedataelementvaluerepresentation/
 ---
 
 ## Tag.PrivateDataElementValueRepresentation field

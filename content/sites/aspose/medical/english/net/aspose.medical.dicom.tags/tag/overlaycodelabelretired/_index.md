@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0800 VRCS VM1-n Overlay Code Label RETIRED.
 type: docs
 weight: 28870
-url: /aspose.medical.dicom.tags/tag/overlaycodelabelretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaycodelabelretired/
 ---
 
 ## Tag.OverlayCodeLabelRETIRED field

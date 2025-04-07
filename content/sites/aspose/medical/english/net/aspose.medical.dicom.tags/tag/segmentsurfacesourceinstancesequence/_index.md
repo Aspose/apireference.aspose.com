@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0066002E VRSQ VM1 Segment Surface Source Instance Sequence.
 type: docs
 weight: 42230
-url: /aspose.medical.dicom.tags/tag/segmentsurfacesourceinstancesequence/
+url: /net/aspose.medical.dicom.tags/tag/segmentsurfacesourceinstancesequence/
 ---
 
 ## Tag.SegmentSurfaceSourceInstanceSequence field

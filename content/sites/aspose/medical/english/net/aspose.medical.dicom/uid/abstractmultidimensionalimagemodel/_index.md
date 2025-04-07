@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Application Hosting Model Abstract Multi-Dimensional Image Model.
 type: docs
 weight: 20
-url: /aspose.medical.dicom/uid/abstractmultidimensionalimagemodel/
+url: /net/aspose.medical.dicom/uid/abstractmultidimensionalimagemodel/
 ---
 
 ## Uid.AbstractMultiDimensionalImageModel field

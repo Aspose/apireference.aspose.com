@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180095 VRDS VM1 Pixel Bandwidth.
 type: docs
 weight: 31320
-url: /aspose.medical.dicom.tags/tag/pixelbandwidth/
+url: /net/aspose.medical.dicom.tags/tag/pixelbandwidth/
 ---
 
 ## Tag.PixelBandwidth field

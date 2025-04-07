@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: JPEG Full Progression Hierarchical Process 24 amp 26 Retired 1.2.840.10008.1.2.4.63.
 type: docs
 weight: 360
-url: /aspose.medical.dicom/transfersyntax/jpegprocess2426retired/
+url: /net/aspose.medical.dicom/transfersyntax/jpegprocess2426retired/
 ---
 
 ## TransferSyntax.JpegProcess2426Retired field

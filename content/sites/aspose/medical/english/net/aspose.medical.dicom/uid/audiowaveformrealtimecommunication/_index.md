@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Audio Waveform Real-Time Communication.
 type: docs
 weight: 90
-url: /aspose.medical.dicom/uid/audiowaveformrealtimecommunication/
+url: /net/aspose.medical.dicom/uid/audiowaveformrealtimecommunication/
 ---
 
 ## Uid.AudioWaveformRealTimeCommunication field

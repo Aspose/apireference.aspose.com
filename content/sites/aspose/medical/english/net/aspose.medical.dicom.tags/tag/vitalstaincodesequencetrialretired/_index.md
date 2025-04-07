@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 004009F8 VRSQ VM1 Vital Stain Code Sequence Trial RETIRED.
 type: docs
 weight: 51530
-url: /aspose.medical.dicom.tags/tag/vitalstaincodesequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/vitalstaincodesequencetrialretired/
 ---
 
 ## Tag.VitalStainCodeSequenceTrialRETIRED field

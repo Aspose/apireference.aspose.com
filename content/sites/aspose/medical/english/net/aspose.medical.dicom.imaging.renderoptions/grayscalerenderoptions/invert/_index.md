@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Specifies whether a grayscale image should be rendered as inverted. Read-only Boolean.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.imaging.renderoptions/grayscalerenderoptions/invert/
+url: /net/aspose.medical.dicom.imaging.renderoptions/grayscalerenderoptions/invert/
 ---
 
 ## GrayscaleRenderOptions.Invert property

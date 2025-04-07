@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221527 VRFL VM1 Wide Field Ophthalmic Photography Threshold Quality Rating.
 type: docs
 weight: 52530
-url: /aspose.medical.dicom.tags/tag/widefieldophthalmicphotographythresholdqualityrating/
+url: /net/aspose.medical.dicom.tags/tag/widefieldophthalmicphotographythresholdqualityrating/
 ---
 
 ## Tag.WideFieldOphthalmicPhotographyThresholdQualityRating field

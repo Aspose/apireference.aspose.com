@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686346 VRFD VM2 Recommended Rotation Point.
 type: docs
 weight: 35550
-url: /aspose.medical.dicom.tags/tag/recommendedrotationpoint/
+url: /net/aspose.medical.dicom.tags/tag/recommendedrotationpoint/
 ---
 
 ## Tag.RecommendedRotationPoint field

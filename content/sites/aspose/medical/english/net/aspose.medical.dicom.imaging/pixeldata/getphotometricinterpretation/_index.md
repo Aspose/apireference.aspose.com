@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Returns PhotometricInterpretationaspose.medical.dicom.imaging/photometricinterpretation stored in the Datasetaspose.medical.dicom.imaging/pixeldata/dataset if specified. If Photometric Interpretation isnt explicitly specified in the Dataset the calculates default PhotometricInterpretationaspose.medical.dicom.imaging/photometricinterpretation for the given Datasetaspose.medical.dicom.imaging/pixeldata/dataset based on the SamplesPerPixelaspose.medical.dicom.tags/tag/samplesperpixel and RedPaletteColorLookupTableDataaspose.medical.dicom.tags/tag/redpalettecolorlookuptabledata.
 type: docs
 weight: 240
-url: /aspose.medical.dicom.imaging/pixeldata/getphotometricinterpretation/
+url: /net/aspose.medical.dicom.imaging/pixeldata/getphotometricinterpretation/
 ---
 
 ## PixelData.GetPhotometricInterpretation method

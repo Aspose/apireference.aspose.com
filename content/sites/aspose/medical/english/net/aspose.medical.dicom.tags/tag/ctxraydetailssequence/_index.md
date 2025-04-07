@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189325 VRSQ VM1 CT X-Ray Details Sequence.
 type: docs
 weight: 9310
-url: /aspose.medical.dicom.tags/tag/ctxraydetailssequence/
+url: /net/aspose.medical.dicom.tags/tag/ctxraydetailssequence/
 ---
 
 ## Tag.CTXRayDetailsSequence field

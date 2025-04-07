@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00320032 VRDA VM1 Study Verified Date RETIRED.
 type: docs
 weight: 46110
-url: /aspose.medical.dicom.tags/tag/studyverifieddateretired/
+url: /net/aspose.medical.dicom.tags/tag/studyverifieddateretired/
 ---
 
 ## Tag.StudyVerifiedDateRETIRED field

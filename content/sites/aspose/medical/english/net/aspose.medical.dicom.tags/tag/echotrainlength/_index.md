@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180091 VRIS VM1 Echo Train Length.
 type: docs
 weight: 13250
-url: /aspose.medical.dicom.tags/tag/echotrainlength/
+url: /net/aspose.medical.dicom.tags/tag/echotrainlength/
 ---
 
 ## Tag.EchoTrainLength field

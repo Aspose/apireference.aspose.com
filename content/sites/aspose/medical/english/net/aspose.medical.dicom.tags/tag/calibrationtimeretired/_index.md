@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014407C VRTM VM1-n Calibration Time RETIRED.
 type: docs
 weight: 4990
-url: /aspose.medical.dicom.tags/tag/calibrationtimeretired/
+url: /net/aspose.medical.dicom.tags/tag/calibrationtimeretired/
 ---
 
 ## Tag.CalibrationTimeRETIRED field

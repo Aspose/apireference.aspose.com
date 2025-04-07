@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0048021E VRSL VM1 Column Position In Total Image Pixel Matrix.
 type: docs
 weight: 6470
-url: /aspose.medical.dicom.tags/tag/columnpositionintotalimagepixelmatrix/
+url: /net/aspose.medical.dicom.tags/tag/columnpositionintotalimagepixelmatrix/
 ---
 
 ## Tag.ColumnPositionInTotalImagePixelMatrix field

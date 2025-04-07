@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006864D0 VRFD VM9 3D Mating Axes.
 type: docs
 weight: 48160
-url: /aspose.medical.dicom.tags/tag/threedmatingaxes/
+url: /net/aspose.medical.dicom.tags/tag/threedmatingaxes/
 ---
 
 ## Tag.ThreeDMatingAxes field

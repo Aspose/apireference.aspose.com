@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx0104 VRUS VM1-n Minimum Coordinate Value RETIRED.
 type: docs
 weight: 24570
-url: /aspose.medical.dicom.tags/tag/minimumcoordinatevalueretired/
+url: /net/aspose.medical.dicom.tags/tag/minimumcoordinatevalueretired/
 ---
 
 ## Tag.MinimumCoordinateValueRETIRED field

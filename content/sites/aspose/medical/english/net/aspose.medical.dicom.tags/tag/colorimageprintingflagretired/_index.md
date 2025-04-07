@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20000062 VRCS VM1 Color Image Printing Flag RETIRED.
 type: docs
 weight: 6420
-url: /aspose.medical.dicom.tags/tag/colorimageprintingflagretired/
+url: /net/aspose.medical.dicom.tags/tag/colorimageprintingflagretired/
 ---
 
 ## Tag.ColorImagePrintingFlagRETIRED field

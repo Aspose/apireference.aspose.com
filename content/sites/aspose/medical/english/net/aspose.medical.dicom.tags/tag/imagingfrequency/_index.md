@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180084 VRDS VM1 Imaging Frequency.
 type: docs
 weight: 19700
-url: /aspose.medical.dicom.tags/tag/imagingfrequency/
+url: /net/aspose.medical.dicom.tags/tag/imagingfrequency/
 ---
 
 ## Tag.ImagingFrequency field

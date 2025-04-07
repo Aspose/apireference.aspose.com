@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40100002 VRCS VM1 High Energy Detectors RETIRED.
 type: docs
 weight: 18320
-url: /aspose.medical.dicom.tags/tag/highenergydetectorsretired/
+url: /net/aspose.medical.dicom.tags/tag/highenergydetectorsretired/
 ---
 
 ## Tag.HighEnergyDetectorsRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220042 VRSQ VM1 Mydriatic Agent Concentration Units Sequence.
 type: docs
 weight: 25640
-url: /aspose.medical.dicom.tags/tag/mydriaticagentconcentrationunitssequence/
+url: /net/aspose.medical.dicom.tags/tag/mydriaticagentconcentrationunitssequence/
 ---
 
 ## Tag.MydriaticAgentConcentrationUnitsSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006A0002 VRSQ VM1 Annotation Group Sequence.
 type: docs
 weight: 1850
-url: /aspose.medical.dicom.tags/tag/annotationgroupsequence/
+url: /net/aspose.medical.dicom.tags/tag/annotationgroupsequence/
 ---
 
 ## Tag.AnnotationGroupSequence field

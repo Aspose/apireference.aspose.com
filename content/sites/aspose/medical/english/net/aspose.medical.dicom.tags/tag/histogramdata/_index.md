@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00603020 VRUL VM1-n Histogram Data.
 type: docs
 weight: 18350
-url: /aspose.medical.dicom.tags/tag/histogramdata/
+url: /net/aspose.medical.dicom.tags/tag/histogramdata/
 ---
 
 ## Tag.HistogramData field

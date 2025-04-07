@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185000 VRSH VM1-n Output Power.
 type: docs
 weight: 28790
-url: /aspose.medical.dicom.tags/tag/outputpower/
+url: /net/aspose.medical.dicom.tags/tag/outputpower/
 ---
 
 ## Tag.OutputPower field

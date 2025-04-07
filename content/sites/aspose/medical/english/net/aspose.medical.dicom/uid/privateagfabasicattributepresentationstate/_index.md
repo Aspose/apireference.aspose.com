@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Agfa Basic Attribute Presentation State.
 type: docs
 weight: 3150
-url: /aspose.medical.dicom/uid/privateagfabasicattributepresentationstate/
+url: /net/aspose.medical.dicom/uid/privateagfabasicattributepresentationstate/
 ---
 
 ## Uid.PrivateAgfaBasicAttributePresentationState field

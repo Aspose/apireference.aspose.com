@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660015 VRUL VM1 Number of Surface Points.
 type: docs
 weight: 26920
-url: /aspose.medical.dicom.tags/tag/numberofsurfacepoints/
+url: /net/aspose.medical.dicom.tags/tag/numberofsurfacepoints/
 ---
 
 ## Tag.NumberOfSurfacePoints field

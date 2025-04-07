@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520006 VRCS VM1 OCT Acquisition Domain.
 type: docs
 weight: 27450
-url: /aspose.medical.dicom.tags/tag/octacquisitiondomain/
+url: /net/aspose.medical.dicom.tags/tag/octacquisitiondomain/
 ---
 
 ## Tag.OCTAcquisitionDomain field

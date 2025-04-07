@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189346 VRSQ VM1 CTDI Phantom Type Code Sequence.
 type: docs
 weight: 9210
-url: /aspose.medical.dicom.tags/tag/ctdiphantomtypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/ctdiphantomtypecodesequence/
 ---
 
 ## Tag.CTDIPhantomTypeCodeSequence field

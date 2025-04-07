@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00E1 VRSH VM1 Material ID.
 type: docs
 weight: 23690
-url: /aspose.medical.dicom.tags/tag/materialid/
+url: /net/aspose.medical.dicom.tags/tag/materialid/
 ---
 
 ## Tag.MaterialID field

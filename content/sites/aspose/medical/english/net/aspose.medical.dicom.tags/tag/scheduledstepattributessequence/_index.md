@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400270 VRSQ VM1 Scheduled Step Attributes Sequence.
 type: docs
 weight: 41570
-url: /aspose.medical.dicom.tags/tag/scheduledstepattributessequence/
+url: /net/aspose.medical.dicom.tags/tag/scheduledstepattributessequence/
 ---
 
 ## Tag.ScheduledStepAttributesSequence field

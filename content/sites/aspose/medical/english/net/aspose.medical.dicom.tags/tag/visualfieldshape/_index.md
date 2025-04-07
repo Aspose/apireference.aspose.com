@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240012 VRCS VM1 Visual Field Shape.
 type: docs
 weight: 51440
-url: /aspose.medical.dicom.tags/tag/visualfieldshape/
+url: /net/aspose.medical.dicom.tags/tag/visualfieldshape/
 ---
 
 ## Tag.VisualFieldShape field

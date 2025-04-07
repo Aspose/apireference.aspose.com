@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00161005 VRDS VM1 Optical Magnification Factor.
 type: docs
 weight: 28250
-url: /aspose.medical.dicom.tags/tag/opticalmagnificationfactor/
+url: /net/aspose.medical.dicom.tags/tag/opticalmagnificationfactor/
 ---
 
 ## Tag.OpticalMagnificationFactor field

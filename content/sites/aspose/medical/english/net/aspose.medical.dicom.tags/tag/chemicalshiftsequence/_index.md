@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189084 VRSQ VM1 Chemical Shift Sequence.
 type: docs
 weight: 5850
-url: /aspose.medical.dicom.tags/tag/chemicalshiftsequence/
+url: /net/aspose.medical.dicom.tags/tag/chemicalshiftsequence/
 ---
 
 ## Tag.ChemicalShiftSequence field

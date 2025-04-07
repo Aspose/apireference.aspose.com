@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100097 VRSQ VM1 Robotic Path Control Point Sequence.
 type: docs
 weight: 39340
-url: /aspose.medical.dicom.tags/tag/roboticpathcontrolpointsequence/
+url: /net/aspose.medical.dicom.tags/tag/roboticpathcontrolpointsequence/
 ---
 
 ## Tag.RoboticPathControlPointSequence field

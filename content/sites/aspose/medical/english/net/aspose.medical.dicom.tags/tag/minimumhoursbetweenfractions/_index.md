@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100084 VRFD VM1 Minimum Hours between Fractions.
 type: docs
 weight: 24580
-url: /aspose.medical.dicom.tags/tag/minimumhoursbetweenfractions/
+url: /net/aspose.medical.dicom.tags/tag/minimumhoursbetweenfractions/
 ---
 
 ## Tag.MinimumHoursBetweenFractions field

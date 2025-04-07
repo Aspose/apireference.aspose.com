@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00EF VRSH VM1 Compensator Tray ID.
 type: docs
 weight: 6850
-url: /aspose.medical.dicom.tags/tag/compensatortrayid/
+url: /net/aspose.medical.dicom.tags/tag/compensatortrayid/
 ---
 
 ## Tag.CompensatorTrayID field

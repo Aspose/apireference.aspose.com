@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741027 VRFD VM1 Table Top Longitudinal Adjusted Position.
 type: docs
 weight: 47010
-url: /aspose.medical.dicom.tags/tag/tabletoplongitudinaladjustedposition/
+url: /net/aspose.medical.dicom.tags/tag/tabletoplongitudinaladjustedposition/
 ---
 
 ## Tag.TableTopLongitudinalAdjustedPosition field

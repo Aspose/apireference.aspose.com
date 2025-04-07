@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21000140 VRAE VM1 Destination AE.
 type: docs
 weight: 10850
-url: /aspose.medical.dicom.tags/tag/destinationae/
+url: /net/aspose.medical.dicom.tags/tag/destinationae/
 ---
 
 ## Tag.DestinationAE field

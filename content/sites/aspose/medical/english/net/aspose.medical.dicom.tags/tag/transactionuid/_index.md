@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081195 VRUI VM1 Transaction UID.
 type: docs
 weight: 49190
-url: /aspose.medical.dicom.tags/tag/transactionuid/
+url: /net/aspose.medical.dicom.tags/tag/transactionuid/
 ---
 
 ## Tag.TransactionUID field

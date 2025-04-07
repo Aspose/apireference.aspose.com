@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Multi-frame True Color Secondary Capture Image Storage.
 type: docs
 weight: 2770
-url: /aspose.medical.dicom/uid/multiframetruecolorsecondarycaptureimagestorage/
+url: /net/aspose.medical.dicom/uid/multiframetruecolorsecondarycaptureimagestorage/
 ---
 
 ## Uid.MultiFrameTrueColorSecondaryCaptureImageStorage field

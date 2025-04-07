@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010007D VRUS VM1 Number of Fractions.
 type: docs
 weight: 26340
-url: /aspose.medical.dicom.tags/tag/numberoffractions/
+url: /net/aspose.medical.dicom.tags/tag/numberoffractions/
 ---
 
 ## Tag.NumberOfFractions field

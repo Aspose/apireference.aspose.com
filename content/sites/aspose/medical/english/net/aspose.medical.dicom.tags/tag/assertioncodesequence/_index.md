@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440101 VRSQ VM1 Assertion Code Sequence.
 type: docs
 weight: 2510
-url: /aspose.medical.dicom.tags/tag/assertioncodesequence/
+url: /net/aspose.medical.dicom.tags/tag/assertioncodesequence/
 ---
 
 ## Tag.AssertionCodeSequence field

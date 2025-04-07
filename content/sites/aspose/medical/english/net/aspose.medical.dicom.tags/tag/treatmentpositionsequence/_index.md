@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A063F VRSQ VM1 Treatment Position Sequence.
 type: docs
 weight: 49720
-url: /aspose.medical.dicom.tags/tag/treatmentpositionsequence/
+url: /net/aspose.medical.dicom.tags/tag/treatmentpositionsequence/
 ---
 
 ## Tag.TreatmentPositionSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 190
-url: /aspose.medical.dicom.imaging/photometricinterpretation/equals/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/equals/
 ---
 
 ## Equals(PhotometricInterpretation) {#equals}

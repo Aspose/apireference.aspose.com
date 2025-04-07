@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540304 VRSQ VM1 Radiopharmaceutical Code Sequence.
 type: docs
 weight: 34610
-url: /aspose.medical.dicom.tags/tag/radiopharmaceuticalcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/radiopharmaceuticalcodesequence/
 ---
 
 ## Tag.RadiopharmaceuticalCodeSequence field

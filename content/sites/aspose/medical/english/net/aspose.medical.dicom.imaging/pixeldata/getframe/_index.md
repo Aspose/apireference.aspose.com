@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Extracts byte frame at the specified position index.
 type: docs
 weight: 230
-url: /aspose.medical.dicom.imaging/pixeldata/getframe/
+url: /net/aspose.medical.dicom.imaging/pixeldata/getframe/
 ---
 
 ## PixelData.GetFrame method

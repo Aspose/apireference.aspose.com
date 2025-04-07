@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014603D VRLO VM1 Gas Used for Heating/Cooling Part RETIRED.
 type: docs
 weight: 17060
-url: /aspose.medical.dicom.tags/tag/gasusedforheatingcoolingpartretired/
+url: /net/aspose.medical.dicom.tags/tag/gasusedforheatingcoolingpartretired/
 ---
 
 ## Tag.GasUsedForHeatingCoolingPartRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200011 VRIS VM1 Series Number.
 type: docs
 weight: 42920
-url: /aspose.medical.dicom.tags/tag/seriesnumber/
+url: /net/aspose.medical.dicom.tags/tag/seriesnumber/
 ---
 
 ## Tag.SeriesNumber field

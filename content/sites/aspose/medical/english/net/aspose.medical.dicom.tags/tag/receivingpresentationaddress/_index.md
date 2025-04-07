@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020028 VRUR VM1 Receiving Presentation Address.
 type: docs
 weight: 35380
-url: /aspose.medical.dicom.tags/tag/receivingpresentationaddress/
+url: /net/aspose.medical.dicom.tags/tag/receivingpresentationaddress/
 ---
 
 ## Tag.ReceivingPresentationAddress field

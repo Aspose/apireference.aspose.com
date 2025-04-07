@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100057 VRSQ VM1 RT Physician Intent Sequence.
 type: docs
 weight: 40310
-url: /aspose.medical.dicom.tags/tag/rtphysicianintentsequence/
+url: /net/aspose.medical.dicom.tags/tag/rtphysicianintentsequence/
 ---
 
 ## Tag.RTPhysicianIntentSequence field

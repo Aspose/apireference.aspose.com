@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720008 VRLO VM1 Hanging Protocol Creator.
 type: docs
 weight: 18150
-url: /aspose.medical.dicom.tags/tag/hangingprotocolcreator/
+url: /net/aspose.medical.dicom.tags/tag/hangingprotocolcreator/
 ---
 
 ## Tag.HangingProtocolCreator field

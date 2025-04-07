@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240071 VRFL VM1 Global Deviation Probability.
 type: docs
 weight: 17390
-url: /aspose.medical.dicom.tags/tag/globaldeviationprobability/
+url: /net/aspose.medical.dicom.tags/tag/globaldeviationprobability/
 ---
 
 ## Tag.GlobalDeviationProbability field

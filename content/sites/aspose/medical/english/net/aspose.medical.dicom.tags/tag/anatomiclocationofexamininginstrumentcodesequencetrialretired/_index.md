@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082259 VRSQ VM1 Anatomic Location Of Examining Instrument Code Sequence Trial RETIRED.
 type: docs
 weight: 1490
-url: /aspose.medical.dicom.tags/tag/anatomiclocationofexamininginstrumentcodesequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/anatomiclocationofexamininginstrumentcodesequencetrialretired/
 ---
 
 ## Tag.AnatomicLocationOfExaminingInstrumentCodeSequenceTrialRETIRED field

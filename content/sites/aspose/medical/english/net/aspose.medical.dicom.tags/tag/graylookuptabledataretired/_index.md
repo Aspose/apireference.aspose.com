@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281200 VRUS or SS or OW VM1-n or 1 Gray Lookup Table Data RETIRED.
 type: docs
 weight: 17950
-url: /aspose.medical.dicom.tags/tag/graylookuptabledataretired/
+url: /net/aspose.medical.dicom.tags/tag/graylookuptabledataretired/
 ---
 
 ## Tag.GrayLookupTableDataRETIRED field

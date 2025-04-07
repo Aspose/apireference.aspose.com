@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720052 VRAT VM1-n Selector Sequence Pointer.
 type: docs
 weight: 42530
-url: /aspose.medical.dicom.tags/tag/selectorsequencepointer/
+url: /net/aspose.medical.dicom.tags/tag/selectorsequencepointer/
 ---
 
 ## Tag.SelectorSequencePointer field

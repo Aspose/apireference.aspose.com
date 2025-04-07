@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Breast Projection X-Ray Image Storage - For Processing.
 type: docs
 weight: 270
-url: /aspose.medical.dicom/uid/breastprojectionxrayimagestorageforprocessing/
+url: /net/aspose.medical.dicom/uid/breastprojectionxrayimagestorageforprocessing/
 ---
 
 ## Uid.BreastProjectionXRayImageStorageForProcessing field

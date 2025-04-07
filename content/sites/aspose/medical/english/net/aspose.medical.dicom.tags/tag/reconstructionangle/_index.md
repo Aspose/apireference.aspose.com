@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189319 VRFD VM1 Reconstruction Angle.
 type: docs
 weight: 35590
-url: /aspose.medical.dicom.tags/tag/reconstructionangle/
+url: /net/aspose.medical.dicom.tags/tag/reconstructionangle/
 ---
 
 ## Tag.ReconstructionAngle field

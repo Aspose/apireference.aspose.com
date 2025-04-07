@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014602E VRSQ VM1 Induction Heating Sequence RETIRED.
 type: docs
 weight: 20300
-url: /aspose.medical.dicom.tags/tag/inductionheatingsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/inductionheatingsequenceretired/
 ---
 
 ## Tag.InductionHeatingSequenceRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0230 VRSQ VM1 Application Setup Sequence.
 type: docs
 weight: 2120
-url: /aspose.medical.dicom.tags/tag/applicationsetupsequence/
+url: /net/aspose.medical.dicom.tags/tag/applicationsetupsequence/
 ---
 
 ## Tag.ApplicationSetupSequence field

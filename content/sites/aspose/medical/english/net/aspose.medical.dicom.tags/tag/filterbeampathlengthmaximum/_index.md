@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187058 VRFL VM1-n Filter Beam Path Length Maximum.
 type: docs
 weight: 15290
-url: /aspose.medical.dicom.tags/tag/filterbeampathlengthmaximum/
+url: /net/aspose.medical.dicom.tags/tag/filterbeampathlengthmaximum/
 ---
 
 ## Tag.FilterBeamPathLengthMaximum field

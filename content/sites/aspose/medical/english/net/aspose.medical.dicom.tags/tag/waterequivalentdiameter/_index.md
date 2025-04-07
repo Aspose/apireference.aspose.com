@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181271 VRFD VM1 Water Equivalent Diameter.
 type: docs
 weight: 51850
-url: /aspose.medical.dicom.tags/tag/waterequivalentdiameter/
+url: /net/aspose.medical.dicom.tags/tag/waterequivalentdiameter/
 ---
 
 ## Tag.WaterEquivalentDiameter field

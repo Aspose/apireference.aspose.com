@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Age String AS VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextAS-Age20String-A20string20of.
 type: docs
 weight: 140
-url: /aspose.medical.dicom.elements/agestring/
+url: /net/aspose.medical.dicom.elements/agestring/
 ---
 
 ## AgeString class

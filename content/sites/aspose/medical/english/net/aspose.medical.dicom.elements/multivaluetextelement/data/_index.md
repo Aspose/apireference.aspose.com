@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Multivalued Data Element value. Read-only IReadOnlyCollection of String.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.elements/multivaluetextelement/data/
+url: /net/aspose.medical.dicom.elements/multivaluetextelement/data/
 ---
 
 ## MultiValueTextElement.Data property

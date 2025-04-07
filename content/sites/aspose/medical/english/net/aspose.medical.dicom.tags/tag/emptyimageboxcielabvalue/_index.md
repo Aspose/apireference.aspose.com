@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720421 VRUS VM3 Empty Image Box CIELab Value.
 type: docs
 weight: 13450
-url: /aspose.medical.dicom.tags/tag/emptyimageboxcielabvalue/
+url: /net/aspose.medical.dicom.tags/tag/emptyimageboxcielabvalue/
 ---
 
 ## Tag.EmptyImageBoxCIELabValue field

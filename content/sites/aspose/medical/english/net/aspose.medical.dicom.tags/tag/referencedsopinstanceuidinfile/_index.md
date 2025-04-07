@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041511 VRUI VM1 Referenced SOP Instance UID in File.
 type: docs
 weight: 37390
-url: /aspose.medical.dicom.tags/tag/referencedsopinstanceuidinfile/
+url: /net/aspose.medical.dicom.tags/tag/referencedsopinstanceuidinfile/
 ---
 
 ## Tag.ReferencedSOPInstanceUIDInFile field

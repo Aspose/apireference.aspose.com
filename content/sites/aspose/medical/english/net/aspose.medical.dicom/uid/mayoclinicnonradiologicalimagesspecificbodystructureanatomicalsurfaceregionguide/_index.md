@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Coding Scheme Mayo Clinic Non-radiological Images Specific Body Structure Anatomical Surface Region Guide.
 type: docs
 weight: 2550
-url: /aspose.medical.dicom/uid/mayoclinicnonradiologicalimagesspecificbodystructureanatomicalsurfaceregionguide/
+url: /net/aspose.medical.dicom/uid/mayoclinicnonradiologicalimagesspecificbodystructureanatomicalsurfaceregionguide/
 ---
 
 ## Uid.MayoClinicNonRadiologicalImagesSpecificBodyStructureAnatomicalSurfaceRegionGuide field

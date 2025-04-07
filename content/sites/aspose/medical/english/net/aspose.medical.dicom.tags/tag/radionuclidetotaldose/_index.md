@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181074 VRDS VM1 Radionuclide Total Dose.
 type: docs
 weight: 34570
-url: /aspose.medical.dicom.tags/tag/radionuclidetotaldose/
+url: /net/aspose.medical.dicom.tags/tag/radionuclidetotaldose/
 ---
 
 ## Tag.RadionuclideTotalDose field

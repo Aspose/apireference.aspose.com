@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240120 VRCS VM1 Screening Baseline Measured.
 type: docs
 weight: 41670
-url: /aspose.medical.dicom.tags/tag/screeningbaselinemeasured/
+url: /net/aspose.medical.dicom.tags/tag/screeningbaselinemeasured/
 ---
 
 ## Tag.ScreeningBaselineMeasured field

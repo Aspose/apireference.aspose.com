@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060028 VRST VM1 ROI Description.
 type: docs
 weight: 39410
-url: /aspose.medical.dicom.tags/tag/roidescription/
+url: /net/aspose.medical.dicom.tags/tag/roidescription/
 ---
 
 ## Tag.ROIDescription field

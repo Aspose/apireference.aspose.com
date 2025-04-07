@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028700C VRSH VM1 Configuration Name.
 type: docs
 weight: 7520
-url: /aspose.medical.dicom.tags/tag/configurationname/
+url: /net/aspose.medical.dicom.tags/tag/configurationname/
 ---
 
 ## Tag.ConfigurationName field

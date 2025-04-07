@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741057 VRIS VM1-n Selector Sequence Pointer Items.
 type: docs
 weight: 42540
-url: /aspose.medical.dicom.tags/tag/selectorsequencepointeritems/
+url: /net/aspose.medical.dicom.tags/tag/selectorsequencepointeritems/
 ---
 
 ## Tag.SelectorSequencePointerItems field

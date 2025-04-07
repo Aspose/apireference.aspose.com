@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Coding Scheme Uberon Ontology.
 type: docs
 weight: 4690
-url: /aspose.medical.dicom/uid/uberonontology/
+url: /net/aspose.medical.dicom/uid/uberonontology/
 ---
 
 ## Uid.UberonOntology field

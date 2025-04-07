@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00409096 VRSQ VM1 Real World Value Mapping Sequence.
 type: docs
 weight: 35080
-url: /aspose.medical.dicom.tags/tag/realworldvaluemappingsequence/
+url: /net/aspose.medical.dicom.tags/tag/realworldvaluemappingsequence/
 ---
 
 ## Tag.RealWorldValueMappingSequence field

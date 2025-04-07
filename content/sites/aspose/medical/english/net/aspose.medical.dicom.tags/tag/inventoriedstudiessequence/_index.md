@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080423 VRSQ VM1 Inventoried Studies Sequence.
 type: docs
 weight: 21310
-url: /aspose.medical.dicom.tags/tag/inventoriedstudiessequence/
+url: /net/aspose.medical.dicom.tags/tag/inventoriedstudiessequence/
 ---
 
 ## Tag.InventoriedStudiesSequence field

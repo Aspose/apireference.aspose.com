@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660029 VROW VM1 Primitive Point Index List RETIRED.
 type: docs
 weight: 32840
-url: /aspose.medical.dicom.tags/tag/primitivepointindexlistretired/
+url: /net/aspose.medical.dicom.tags/tag/primitivepointindexlistretired/
 ---
 
 ## Tag.PrimitivePointIndexListRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401009 VRSH VM1 Reporting Priority.
 type: docs
 weight: 38540
-url: /aspose.medical.dicom.tags/tag/reportingpriority/
+url: /net/aspose.medical.dicom.tags/tag/reportingpriority/
 ---
 
 ## Tag.ReportingPriority field

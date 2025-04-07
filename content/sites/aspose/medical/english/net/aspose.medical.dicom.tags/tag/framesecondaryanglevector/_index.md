@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00182004 VRDS VM1-n Frame Secondary Angle Vector.
 type: docs
 weight: 16770
-url: /aspose.medical.dicom.tags/tag/framesecondaryanglevector/
+url: /net/aspose.medical.dicom.tags/tag/framesecondaryanglevector/
 ---
 
 ## Tag.FrameSecondaryAngleVector field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146022 VRDS VM1 Air Gap Temperature RETIRED.
 type: docs
 weight: 1080
-url: /aspose.medical.dicom.tags/tag/airgaptemperatureretired/
+url: /net/aspose.medical.dicom.tags/tag/airgaptemperatureretired/
 ---
 
 ## Tag.AirGapTemperatureRETIRED field

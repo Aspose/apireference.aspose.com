@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: RFC 2557 MIME encapsulation 1.2.840.10008.1.2.6.1.
 type: docs
 weight: 550
-url: /aspose.medical.dicom/transfersyntax/rfc2557mimeencapsulation/
+url: /net/aspose.medical.dicom/transfersyntax/rfc2557mimeencapsulation/
 ---
 
 ## TransferSyntax.Rfc2557MimeEncapsulation field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187042 VRDS VM1 Grid Thickness.
 type: docs
 weight: 18110
-url: /aspose.medical.dicom.tags/tag/gridthickness/
+url: /net/aspose.medical.dicom.tags/tag/gridthickness/
 ---
 
 ## Tag.GridThickness field

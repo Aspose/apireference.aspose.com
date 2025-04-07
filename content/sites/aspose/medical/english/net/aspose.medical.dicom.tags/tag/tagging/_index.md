@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189028 VRCS VM1 Tagging.
 type: docs
 weight: 47270
-url: /aspose.medical.dicom.tags/tag/tagging/
+url: /net/aspose.medical.dicom.tags/tag/tagging/
 ---
 
 ## Tag.Tagging field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209245 VRFL VM1 Nominal Percentage of Respiratory Phase.
 type: docs
 weight: 25840
-url: /aspose.medical.dicom.tags/tag/nominalpercentageofrespiratoryphase/
+url: /net/aspose.medical.dicom.tags/tag/nominalpercentageofrespiratoryphase/
 ---
 
 ## Tag.NominalPercentageOfRespiratoryPhase field

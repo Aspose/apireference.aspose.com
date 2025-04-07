@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181244 VRUS VM1 Preferred Playback Sequencing.
 type: docs
 weight: 32400
-url: /aspose.medical.dicom.tags/tag/preferredplaybacksequencing/
+url: /net/aspose.medical.dicom.tags/tag/preferredplaybacksequencing/
 ---
 
 ## Tag.PreferredPlaybackSequencing field

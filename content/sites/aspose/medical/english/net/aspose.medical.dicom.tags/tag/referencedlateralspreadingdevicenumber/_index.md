@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0102 VRIS VM1 Referenced Lateral Spreading Device Number.
 type: docs
 weight: 36640
-url: /aspose.medical.dicom.tags/tag/referencedlateralspreadingdevicenumber/
+url: /net/aspose.medical.dicom.tags/tag/referencedlateralspreadingdevicenumber/
 ---
 
 ## Tag.ReferencedLateralSpreadingDeviceNumber field

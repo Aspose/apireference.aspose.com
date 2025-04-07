@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060039 VRSQ VM1 ROI Contour Sequence.
 type: docs
 weight: 39370
-url: /aspose.medical.dicom.tags/tag/roicontoursequence/
+url: /net/aspose.medical.dicom.tags/tag/roicontoursequence/
 ---
 
 ## Tag.ROIContourSequence field

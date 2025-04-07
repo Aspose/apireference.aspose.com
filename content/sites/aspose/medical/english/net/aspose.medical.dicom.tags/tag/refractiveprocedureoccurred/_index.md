@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221039 VRCS VM1 Refractive Procedure Occurred.
 type: docs
 weight: 37990
-url: /aspose.medical.dicom.tags/tag/refractiveprocedureoccurred/
+url: /net/aspose.medical.dicom.tags/tag/refractiveprocedureoccurred/
 ---
 
 ## Tag.RefractiveProcedureOccurred field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240045 VRCS VM1 False Negatives Estimate Flag.
 type: docs
 weight: 14840
-url: /aspose.medical.dicom.tags/tag/falsenegativesestimateflag/
+url: /net/aspose.medical.dicom.tags/tag/falsenegativesestimateflag/
 ---
 
 ## Tag.FalseNegativesEstimateFlag field

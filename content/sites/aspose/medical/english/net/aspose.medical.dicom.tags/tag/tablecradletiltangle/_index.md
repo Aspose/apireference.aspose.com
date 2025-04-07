@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189471 VRFL VM1 Table Cradle Tilt Angle.
 type: docs
 weight: 46740
-url: /aspose.medical.dicom.tags/tag/tablecradletiltangle/
+url: /net/aspose.medical.dicom.tags/tag/tablecradletiltangle/
 ---
 
 ## Tag.TableCradleTiltAngle field

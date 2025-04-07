@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180021 VRCS VM1-n Sequence Variant.
 type: docs
 weight: 42850
-url: /aspose.medical.dicom.tags/tag/sequencevariant/
+url: /net/aspose.medical.dicom.tags/tag/sequencevariant/
 ---
 
 ## Tag.SequenceVariant field

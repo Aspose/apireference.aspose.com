@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181100 VRDS VM1 Reconstruction Diameter.
 type: docs
 weight: 35610
-url: /aspose.medical.dicom.tags/tag/reconstructiondiameter/
+url: /net/aspose.medical.dicom.tags/tag/reconstructiondiameter/
 ---
 
 ## Tag.ReconstructionDiameter field

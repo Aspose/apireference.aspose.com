@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax JPEG-LS Lossless Image Compression.
 type: docs
 weight: 2330
-url: /aspose.medical.dicom/uid/jpeglslossless/
+url: /net/aspose.medical.dicom/uid/jpeglslossless/
 ---
 
 ## Uid.JpegLsLossless field

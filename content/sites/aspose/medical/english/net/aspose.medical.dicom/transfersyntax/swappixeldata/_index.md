@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Indicates whether the pixel data requires swapping. Read-only Boolean.
 type: docs
 weight: 670
-url: /aspose.medical.dicom/transfersyntax/swappixeldata/
+url: /net/aspose.medical.dicom/transfersyntax/swappixeldata/
 ---
 
 ## TransferSyntax.SwapPixelData property

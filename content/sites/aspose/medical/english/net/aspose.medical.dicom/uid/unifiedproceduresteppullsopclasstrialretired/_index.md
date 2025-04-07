@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Unified Procedure Step - Pull SOP Class - Trial Retired.
 type: docs
 weight: 4800
-url: /aspose.medical.dicom/uid/unifiedproceduresteppullsopclasstrialretired/
+url: /net/aspose.medical.dicom/uid/unifiedproceduresteppullsopclasstrialretired/
 ---
 
 ## Uid.UnifiedProcedureStepPullSOPClassTrialRetired field

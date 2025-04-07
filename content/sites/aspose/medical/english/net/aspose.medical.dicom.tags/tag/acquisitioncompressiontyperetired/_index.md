@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144032 VRCS VM1 Acquisition Compression Type RETIRED.
 type: docs
 weight: 190
-url: /aspose.medical.dicom.tags/tag/acquisitioncompressiontyperetired/
+url: /net/aspose.medical.dicom.tags/tag/acquisitioncompressiontyperetired/
 ---
 
 ## Tag.AcquisitionCompressionTypeRETIRED field

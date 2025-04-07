@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040B036 VRDT VM1 Segment Definition DateTime.
 type: docs
 weight: 42040
-url: /aspose.medical.dicom.tags/tag/segmentdefinitiondatetime/
+url: /net/aspose.medical.dicom.tags/tag/segmentdefinitiondatetime/
 ---
 
 ## Tag.SegmentDefinitionDateTime field

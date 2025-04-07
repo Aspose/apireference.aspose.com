@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101029 VRLO VM1-n Threat Detection Algorithm and Version RETIRED.
 type: docs
 weight: 48060
-url: /aspose.medical.dicom.tags/tag/threatdetectionalgorithmandversionretired/
+url: /net/aspose.medical.dicom.tags/tag/threatdetectionalgorithmandversionretired/
 ---
 
 ## Tag.ThreatDetectionAlgorithmAndVersionRETIRED field

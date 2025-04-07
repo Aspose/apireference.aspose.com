@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404019 VRSQ VM1 Performed Workitem Code Sequence.
 type: docs
 weight: 30830
-url: /aspose.medical.dicom.tags/tag/performedworkitemcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/performedworkitemcodesequence/
 ---
 
 ## Tag.PerformedWorkitemCodeSequence field

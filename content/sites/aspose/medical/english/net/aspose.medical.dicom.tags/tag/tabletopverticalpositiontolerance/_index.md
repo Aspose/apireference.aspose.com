@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0051 VRDS VM1 Table Top Vertical Position Tolerance.
 type: docs
 weight: 47160
-url: /aspose.medical.dicom.tags/tag/tabletopverticalpositiontolerance/
+url: /net/aspose.medical.dicom.tags/tag/tabletopverticalpositiontolerance/
 ---
 
 ## Tag.TableTopVerticalPositionTolerance field

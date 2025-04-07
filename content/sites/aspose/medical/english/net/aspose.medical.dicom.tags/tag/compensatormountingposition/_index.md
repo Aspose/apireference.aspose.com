@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02E1 VRCS VM1 Compensator Mounting Position.
 type: docs
 weight: 6720
-url: /aspose.medical.dicom.tags/tag/compensatormountingposition/
+url: /net/aspose.medical.dicom.tags/tag/compensatormountingposition/
 ---
 
 ## Tag.CompensatorMountingPosition field

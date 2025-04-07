@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00101081 VRLO VM1 Branch of Service.
 type: docs
 weight: 4570
-url: /aspose.medical.dicom.tags/tag/branchofservice/
+url: /net/aspose.medical.dicom.tags/tag/branchofservice/
 ---
 
 ## Tag.BranchOfService field

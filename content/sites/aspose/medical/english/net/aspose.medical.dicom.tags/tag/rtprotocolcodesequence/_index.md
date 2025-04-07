@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010005B VRSQ VM1 RT Protocol Code Sequence.
 type: docs
 weight: 40420
-url: /aspose.medical.dicom.tags/tag/rtprotocolcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/rtprotocolcodesequence/
 ---
 
 ## Tag.RTProtocolCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189185 VRST VM1 Respiratory Motion Compensation Technique Description.
 type: docs
 weight: 38980
-url: /aspose.medical.dicom.tags/tag/respiratorymotioncompensationtechniquedescription/
+url: /net/aspose.medical.dicom.tags/tag/respiratorymotioncompensationtechniquedescription/
 ---
 
 ## Tag.RespiratoryMotionCompensationTechniqueDescription field

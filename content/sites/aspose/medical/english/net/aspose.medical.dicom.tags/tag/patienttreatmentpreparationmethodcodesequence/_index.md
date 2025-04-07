@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A078D VRSQ VM1 Patient Treatment Preparation Method Code Sequence.
 type: docs
 weight: 30440
-url: /aspose.medical.dicom.tags/tag/patienttreatmentpreparationmethodcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/patienttreatmentpreparationmethodcodesequence/
 ---
 
 ## Tag.PatientTreatmentPreparationMethodCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00B4 VRDS VM1 Source-Axis Distance.
 type: docs
 weight: 44070
-url: /aspose.medical.dicom.tags/tag/sourceaxisdistance/
+url: /net/aspose.medical.dicom.tags/tag/sourceaxisdistance/
 ---
 
 ## Tag.SourceAxisDistance field

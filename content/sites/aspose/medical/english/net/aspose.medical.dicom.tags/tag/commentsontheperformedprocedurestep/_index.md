@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400280 VRST VM1 Comments on the Performed Procedure Step.
 type: docs
 weight: 6590
-url: /aspose.medical.dicom.tags/tag/commentsontheperformedprocedurestep/
+url: /net/aspose.medical.dicom.tags/tag/commentsontheperformedprocedurestep/
 ---
 
 ## Tag.CommentsOnThePerformedProcedureStep field

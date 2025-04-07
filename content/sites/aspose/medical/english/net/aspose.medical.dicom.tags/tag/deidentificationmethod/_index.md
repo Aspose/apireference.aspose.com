@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120063 VRLO VM1-n De-identification Method.
 type: docs
 weight: 10470
-url: /aspose.medical.dicom.tags/tag/deidentificationmethod/
+url: /net/aspose.medical.dicom.tags/tag/deidentificationmethod/
 ---
 
 ## Tag.DeidentificationMethod field

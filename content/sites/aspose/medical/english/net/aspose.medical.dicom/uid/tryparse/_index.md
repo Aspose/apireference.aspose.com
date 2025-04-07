@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 5340
-url: /aspose.medical.dicom/uid/tryparse/
+url: /net/aspose.medical.dicom/uid/tryparse/
 ---
 
 ## TryParse(string, IFormatProvider, out Uid) {#tryparse_1}

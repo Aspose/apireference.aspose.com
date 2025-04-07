@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189323 VRCS VM1-n Exposure Modulation Type.
 type: docs
 weight: 14580
-url: /aspose.medical.dicom.tags/tag/exposuremodulationtype/
+url: /net/aspose.medical.dicom.tags/tag/exposuremodulationtype/
 ---
 
 ## Tag.ExposureModulationType field

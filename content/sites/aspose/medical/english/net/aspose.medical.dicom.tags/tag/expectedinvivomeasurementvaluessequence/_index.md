@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0621 VRSQ VM1 Expected In-Vivo Measurement Values Sequence.
 type: docs
 weight: 14390
-url: /aspose.medical.dicom.tags/tag/expectedinvivomeasurementvaluessequence/
+url: /net/aspose.medical.dicom.tags/tag/expectedinvivomeasurementvaluessequence/
 ---
 
 ## Tag.ExpectedInVivoMeasurementValuesSequence field

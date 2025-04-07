@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240325 VRSQ VM1 Data Observation Sequence.
 type: docs
 weight: 9880
-url: /aspose.medical.dicom.tags/tag/dataobservationsequence/
+url: /net/aspose.medical.dicom.tags/tag/dataobservationsequence/
 ---
 
 ## Tag.DataObservationSequence field

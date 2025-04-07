@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Description of Field. Read-only String.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.tags/tagmetadata/description/
+url: /net/aspose.medical.dicom.tags/tagmetadata/description/
 ---
 
 ## TagMetadata.Description property

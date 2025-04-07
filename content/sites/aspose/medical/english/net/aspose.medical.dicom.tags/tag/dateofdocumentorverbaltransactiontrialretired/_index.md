@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A110 VRDA VM1 Date of Document or Verbal Transaction Trial RETIRED.
 type: docs
 weight: 10050
-url: /aspose.medical.dicom.tags/tag/dateofdocumentorverbaltransactiontrialretired/
+url: /net/aspose.medical.dicom.tags/tag/dateofdocumentorverbaltransactiontrialretired/
 ---
 
 ## Tag.DateOfDocumentOrVerbalTransactionTrialRETIRED field

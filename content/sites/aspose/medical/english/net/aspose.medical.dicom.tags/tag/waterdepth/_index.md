@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160033 VRDS VM1 Water Depth.
 type: docs
 weight: 51840
-url: /aspose.medical.dicom.tags/tag/waterdepth/
+url: /net/aspose.medical.dicom.tags/tag/waterdepth/
 ---
 
 ## Tag.WaterDepth field

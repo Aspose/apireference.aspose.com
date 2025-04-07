@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181071 VRDS VM1 Radiopharmaceutical Volume.
 type: docs
 weight: 34700
-url: /aspose.medical.dicom.tags/tag/radiopharmaceuticalvolume/
+url: /net/aspose.medical.dicom.tags/tag/radiopharmaceuticalvolume/
 ---
 
 ## Tag.RadiopharmaceuticalVolume field

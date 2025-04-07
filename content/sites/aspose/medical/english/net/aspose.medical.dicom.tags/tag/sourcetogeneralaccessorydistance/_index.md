@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0425 VRFL VM1 Source to General Accessory Distance.
 type: docs
 weight: 44610
-url: /aspose.medical.dicom.tags/tag/sourcetogeneralaccessorydistance/
+url: /net/aspose.medical.dicom.tags/tag/sourcetogeneralaccessorydistance/
 ---
 
 ## Tag.SourceToGeneralAccessoryDistance field

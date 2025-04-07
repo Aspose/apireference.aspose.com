@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741230 VRLO VM1 Deletion Lock.
 type: docs
 weight: 10500
-url: /aspose.medical.dicom.tags/tag/deletionlock/
+url: /net/aspose.medical.dicom.tags/tag/deletionlock/
 ---
 
 ## Tag.DeletionLock field

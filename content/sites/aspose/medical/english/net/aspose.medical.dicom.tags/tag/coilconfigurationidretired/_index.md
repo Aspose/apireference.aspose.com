@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014602F VRST VM1 Coil Configuration ID RETIRED.
 type: docs
 weight: 6270
-url: /aspose.medical.dicom.tags/tag/coilconfigurationidretired/
+url: /net/aspose.medical.dicom.tags/tag/coilconfigurationidretired/
 ---
 
 ## Tag.CoilConfigurationIDRETIRED field

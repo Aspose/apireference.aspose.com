@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281408 VROW VM1 Blending Lookup Table Data.
 type: docs
 weight: 3830
-url: /aspose.medical.dicom.tags/tag/blendinglookuptabledata/
+url: /net/aspose.medical.dicom.tags/tag/blendinglookuptabledata/
 ---
 
 ## Tag.BlendingLookupTableData field

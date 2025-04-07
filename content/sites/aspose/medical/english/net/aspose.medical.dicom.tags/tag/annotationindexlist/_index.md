@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006A0011 VROL VM1 Annotation Index List.
 type: docs
 weight: 1870
-url: /aspose.medical.dicom.tags/tag/annotationindexlist/
+url: /net/aspose.medical.dicom.tags/tag/annotationindexlist/
 ---
 
 ## Tag.AnnotationIndexList field

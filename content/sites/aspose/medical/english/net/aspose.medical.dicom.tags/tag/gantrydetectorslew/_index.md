@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181121 VRDS VM1 Gantry/Detector Slew.
 type: docs
 weight: 16960
-url: /aspose.medical.dicom.tags/tag/gantrydetectorslew/
+url: /net/aspose.medical.dicom.tags/tag/gantrydetectorslew/
 ---
 
 ## Tag.GantryDetectorSlew field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289454 VRCS VM1 Mask Selection Mode.
 type: docs
 weight: 23600
-url: /aspose.medical.dicom.tags/tag/maskselectionmode/
+url: /net/aspose.medical.dicom.tags/tag/maskselectionmode/
 ---
 
 ## Tag.MaskSelectionMode field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460121 VRSQ VM1 Visual Acuity Type Code Sequence.
 type: docs
 weight: 51360
-url: /aspose.medical.dicom.tags/tag/visualacuitytypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/visualacuitytypecodesequence/
 ---
 
 ## Tag.VisualAcuityTypeCodeSequence field

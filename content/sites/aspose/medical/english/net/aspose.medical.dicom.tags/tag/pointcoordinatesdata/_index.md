@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660016 VROF VM1 Point Coordinates Data.
 type: docs
 weight: 31900
-url: /aspose.medical.dicom.tags/tag/pointcoordinatesdata/
+url: /net/aspose.medical.dicom.tags/tag/pointcoordinatesdata/
 ---
 
 ## Tag.PointCoordinatesData field

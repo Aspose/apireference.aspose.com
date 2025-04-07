@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142208 VRCS VM1 Coordinate System Data Set Mapping RETIRED.
 type: docs
 weight: 8710
-url: /aspose.medical.dicom.tags/tag/coordinatesystemdatasetmappingretired/
+url: /net/aspose.medical.dicom.tags/tag/coordinatesystemdatasetmappingretired/
 ---
 
 ## Tag.CoordinateSystemDataSetMappingRETIRED field

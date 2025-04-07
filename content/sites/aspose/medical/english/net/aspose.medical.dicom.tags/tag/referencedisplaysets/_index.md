@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720218 VRUS VM1-n Reference Display Sets.
 type: docs
 weight: 36630
-url: /aspose.medical.dicom.tags/tag/referencedisplaysets/
+url: /net/aspose.medical.dicom.tags/tag/referencedisplaysets/
 ---
 
 ## Tag.ReferenceDisplaySets field

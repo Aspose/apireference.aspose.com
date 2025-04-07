@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100010 VRPN VM1 Patients Name.
 type: docs
 weight: 29940
-url: /aspose.medical.dicom.tags/tag/patientname/
+url: /net/aspose.medical.dicom.tags/tag/patientname/
 ---
 
 ## Tag.PatientName field

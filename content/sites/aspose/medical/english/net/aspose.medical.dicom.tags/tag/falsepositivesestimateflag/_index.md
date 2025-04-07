@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240053 VRCS VM1 False Positives Estimate Flag.
 type: docs
 weight: 14870
-url: /aspose.medical.dicom.tags/tag/falsepositivesestimateflag/
+url: /net/aspose.medical.dicom.tags/tag/falsepositivesestimateflag/
 ---
 
 ## Tag.FalsePositivesEstimateFlag field

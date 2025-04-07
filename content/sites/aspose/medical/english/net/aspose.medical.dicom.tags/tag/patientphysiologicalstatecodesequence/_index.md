@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189772 VRSQ VM1 Patient Physiological State Code Sequence.
 type: docs
 weight: 30000
-url: /aspose.medical.dicom.tags/tag/patientphysiologicalstatecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/patientphysiologicalstatecodesequence/
 ---
 
 ## Tag.PatientPhysiologicalStateCodeSequence field

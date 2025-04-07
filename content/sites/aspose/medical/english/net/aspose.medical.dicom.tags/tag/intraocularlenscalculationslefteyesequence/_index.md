@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221310 VRSQ VM1 Intraocular Lens Calculations Left Eye Sequence.
 type: docs
 weight: 21220
-url: /aspose.medical.dicom.tags/tag/intraocularlenscalculationslefteyesequence/
+url: /net/aspose.medical.dicom.tags/tag/intraocularlenscalculationslefteyesequence/
 ---
 
 ## Tag.IntraocularLensCalculationsLeftEyeSequence field

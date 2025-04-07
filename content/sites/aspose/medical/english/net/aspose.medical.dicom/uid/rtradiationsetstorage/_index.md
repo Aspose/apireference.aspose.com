@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class RT Radiation Set Storage.
 type: docs
 weight: 4200
-url: /aspose.medical.dicom/uid/rtradiationsetstorage/
+url: /net/aspose.medical.dicom/uid/rtradiationsetstorage/
 ---
 
 ## Uid.RTRadiationSetStorage field

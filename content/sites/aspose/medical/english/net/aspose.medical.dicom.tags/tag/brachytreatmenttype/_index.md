@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0202 VRCS VM1 Brachy Treatment Type.
 type: docs
 weight: 4560
-url: /aspose.medical.dicom.tags/tag/brachytreatmenttype/
+url: /net/aspose.medical.dicom.tags/tag/brachytreatmenttype/
 ---
 
 ## Tag.BrachyTreatmentType field

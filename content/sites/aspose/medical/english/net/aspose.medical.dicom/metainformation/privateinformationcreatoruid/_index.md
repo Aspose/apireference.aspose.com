@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The Private Information Creator UID optional attribute. Read-only Uidaspose.medical.dicom/uid.
 type: docs
 weight: 70
-url: /aspose.medical.dicom/metainformation/privateinformationcreatoruid/
+url: /net/aspose.medical.dicom/metainformation/privateinformationcreatoruid/
 ---
 
 ## MetaInformation.PrivateInformationCreatorUid property

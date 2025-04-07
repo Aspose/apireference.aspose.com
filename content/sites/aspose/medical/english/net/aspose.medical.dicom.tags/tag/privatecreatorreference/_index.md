@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080302 VRLO VM1 Private Creator Reference.
 type: docs
 weight: 33050
-url: /aspose.medical.dicom.tags/tag/privatecreatorreference/
+url: /net/aspose.medical.dicom.tags/tag/privatecreatorreference/
 ---
 
 ## Tag.PrivateCreatorReference field

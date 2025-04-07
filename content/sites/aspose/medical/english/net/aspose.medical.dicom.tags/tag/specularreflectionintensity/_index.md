@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701705 VRFD VM1 Specular Reflection Intensity.
 type: docs
 weight: 45190
-url: /aspose.medical.dicom.tags/tag/specularreflectionintensity/
+url: /net/aspose.medical.dicom.tags/tag/specularreflectionintensity/
 ---
 
 ## Tag.SpecularReflectionIntensity field

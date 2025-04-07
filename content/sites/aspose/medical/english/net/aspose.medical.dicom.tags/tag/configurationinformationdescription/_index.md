@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100152 VRLT VM1 Configuration Information Description.
 type: docs
 weight: 7510
-url: /aspose.medical.dicom.tags/tag/configurationinformationdescription/
+url: /net/aspose.medical.dicom.tags/tag/configurationinformationdescription/
 ---
 
 ## Tag.ConfigurationInformationDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081156 VRSQ VM1 Definition Source Sequence.
 type: docs
 weight: 10390
-url: /aspose.medical.dicom.tags/tag/definitionsourcesequence/
+url: /net/aspose.medical.dicom.tags/tag/definitionsourcesequence/
 ---
 
 ## Tag.DefinitionSourceSequence field

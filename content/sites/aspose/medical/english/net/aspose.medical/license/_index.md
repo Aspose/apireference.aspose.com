@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 1120
-url: /aspose.medical/license/
+url: /net/aspose.medical/license/
 ---
 
 ## License class

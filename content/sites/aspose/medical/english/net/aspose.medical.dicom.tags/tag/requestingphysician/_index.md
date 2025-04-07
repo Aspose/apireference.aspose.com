@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321032 VRPN VM1 Requesting Physician.
 type: docs
 weight: 38840
-url: /aspose.medical.dicom.tags/tag/requestingphysician/
+url: /net/aspose.medical.dicom.tags/tag/requestingphysician/
 ---
 
 ## Tag.RequestingPhysician field

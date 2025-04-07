@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189828 VRCS VM1 Illumination Translation Flag.
 type: docs
 weight: 18830
-url: /aspose.medical.dicom.tags/tag/illuminationtranslationflag/
+url: /net/aspose.medical.dicom.tags/tag/illuminationtranslationflag/
 ---
 
 ## Tag.IlluminationTranslationFlag field

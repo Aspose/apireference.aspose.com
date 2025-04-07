@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189127 VRUL VM1 Spectroscopy Acquisition Data Columns.
 type: docs
 weight: 45140
-url: /aspose.medical.dicom.tags/tag/spectroscopyacquisitiondatacolumns/
+url: /net/aspose.medical.dicom.tags/tag/spectroscopyacquisitiondatacolumns/
 ---
 
 ## Tag.SpectroscopyAcquisitionDataColumns field

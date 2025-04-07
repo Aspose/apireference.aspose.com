@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240094 VRFL VM1 Sensitivity Value.
 type: docs
 weight: 42780
-url: /aspose.medical.dicom.tags/tag/sensitivityvalue/
+url: /net/aspose.medical.dicom.tags/tag/sensitivityvalue/
 ---
 
 ## Tag.SensitivityValue field

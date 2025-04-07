@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300800A0 VRSQ VM1 Beam Limiting Device Leaf Pairs Sequence.
 type: docs
 weight: 3480
-url: /aspose.medical.dicom.tags/tag/beamlimitingdeviceleafpairssequence/
+url: /net/aspose.medical.dicom.tags/tag/beamlimitingdeviceleafpairssequence/
 ---
 
 ## Tag.BeamLimitingDeviceLeafPairsSequence field

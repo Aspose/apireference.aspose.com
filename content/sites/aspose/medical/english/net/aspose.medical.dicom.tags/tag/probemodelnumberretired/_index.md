@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146040 VRLO VM1 Probe Model Number RETIRED.
 type: docs
 weight: 33270
-url: /aspose.medical.dicom.tags/tag/probemodelnumberretired/
+url: /net/aspose.medical.dicom.tags/tag/probemodelnumberretired/
 ---
 
 ## Tag.ProbeModelNumberRETIRED field

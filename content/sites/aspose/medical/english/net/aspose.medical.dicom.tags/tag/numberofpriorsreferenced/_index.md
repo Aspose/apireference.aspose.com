@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720014 VRUS VM1 Number of Priors Referenced.
 type: docs
 weight: 26680
-url: /aspose.medical.dicom.tags/tag/numberofpriorsreferenced/
+url: /net/aspose.medical.dicom.tags/tag/numberofpriorsreferenced/
 ---
 
 ## Tag.NumberOfPriorsReferenced field

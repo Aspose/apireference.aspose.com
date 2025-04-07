@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0025 VRDS VM1 Target Minimum Dose.
 type: docs
 weight: 47400
-url: /aspose.medical.dicom.tags/tag/targetminimumdose/
+url: /net/aspose.medical.dicom.tags/tag/targetminimumdose/
 ---
 
 ## Tag.TargetMinimumDose field

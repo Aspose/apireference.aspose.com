@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002012C VRSQ VM1 Scan Stop Position Sequence.
 type: docs
 weight: 41190
-url: /aspose.medical.dicom.tags/tag/scanstoppositionsequence/
+url: /net/aspose.medical.dicom.tags/tag/scanstoppositionsequence/
 ---
 
 ## Tag.ScanStopPositionSequence field

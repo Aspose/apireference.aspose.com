@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404021 VRSQ VM1 Input Information Sequence.
 type: docs
 weight: 20400
-url: /aspose.medical.dicom.tags/tag/inputinformationsequence/
+url: /net/aspose.medical.dicom.tags/tag/inputinformationsequence/
 ---
 
 ## Tag.InputInformationSequence field

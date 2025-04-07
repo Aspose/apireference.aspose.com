@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700208 VRST VM1 Graphic Group Description.
 type: docs
 weight: 17820
-url: /aspose.medical.dicom.tags/tag/graphicgroupdescription/
+url: /net/aspose.medical.dicom.tags/tag/graphicgroupdescription/
 ---
 
 ## Tag.GraphicGroupDescription field

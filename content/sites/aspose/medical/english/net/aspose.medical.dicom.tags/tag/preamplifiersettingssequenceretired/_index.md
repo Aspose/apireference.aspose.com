@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144040 VRSQ VM1 Pre-Amplifier Settings Sequence RETIRED.
 type: docs
 weight: 32300
-url: /aspose.medical.dicom.tags/tag/preamplifiersettingssequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/preamplifiersettingssequenceretired/
 ---
 
 ## Tag.PreAmplifierSettingsSequenceRETIRED field

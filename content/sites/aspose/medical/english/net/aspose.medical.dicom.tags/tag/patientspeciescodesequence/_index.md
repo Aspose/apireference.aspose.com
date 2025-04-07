@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102202 VRSQ VM1 Patient Species Code Sequence.
 type: docs
 weight: 30170
-url: /aspose.medical.dicom.tags/tag/patientspeciescodesequence/
+url: /net/aspose.medical.dicom.tags/tag/patientspeciescodesequence/
 ---
 
 ## Tag.PatientSpeciesCodeSequence field

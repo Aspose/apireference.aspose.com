@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0618 VRSQ VM1 Radiation Dose Identification Sequence.
 type: docs
 weight: 34230
-url: /aspose.medical.dicom.tags/tag/radiationdoseidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/radiationdoseidentificationsequence/
 ---
 
 ## Tag.RadiationDoseIdentificationSequence field

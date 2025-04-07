@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280125 VRFD VM1 Double Float Pixel Padding Range Limit.
 type: docs
 weight: 12990
-url: /aspose.medical.dicom.tags/tag/doublefloatpixelpaddingrangelimit/
+url: /net/aspose.medical.dicom.tags/tag/doublefloatpixelpaddingrangelimit/
 ---
 
 ## Tag.DoubleFloatPixelPaddingRangeLimit field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20000067 VRCS VM1 Image Overlay Flag RETIRED.
 type: docs
 weight: 19310
-url: /aspose.medical.dicom.tags/tag/imageoverlayflagretired/
+url: /net/aspose.medical.dicom.tags/tag/imageoverlayflagretired/
 ---
 
 ## Tag.ImageOverlayFlagRETIRED field

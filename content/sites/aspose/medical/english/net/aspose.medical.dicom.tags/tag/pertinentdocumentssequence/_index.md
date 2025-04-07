@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380100 VRSQ VM1 Pertinent Documents Sequence.
 type: docs
 weight: 30950
-url: /aspose.medical.dicom.tags/tag/pertinentdocumentssequence/
+url: /net/aspose.medical.dicom.tags/tag/pertinentdocumentssequence/
 ---
 
 ## Tag.PertinentDocumentsSequence field

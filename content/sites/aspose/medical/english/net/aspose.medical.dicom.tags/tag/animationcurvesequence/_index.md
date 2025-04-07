@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701A04 VRSQ VM1 Animation Curve Sequence.
 type: docs
 weight: 1700
-url: /aspose.medical.dicom.tags/tag/animationcurvesequence/
+url: /net/aspose.medical.dicom.tags/tag/animationcurvesequence/
 ---
 
 ## Tag.AnimationCurveSequence field

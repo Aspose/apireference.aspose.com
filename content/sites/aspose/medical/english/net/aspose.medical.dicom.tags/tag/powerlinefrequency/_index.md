@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0311 VRDS VM1 Powerline Frequency.
 type: docs
 weight: 32260
-url: /aspose.medical.dicom.tags/tag/powerlinefrequency/
+url: /net/aspose.medical.dicom.tags/tag/powerlinefrequency/
 ---
 
 ## Tag.PowerlineFrequency field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189915 VRUS VM1 Instruction Index.
 type: docs
 weight: 20590
-url: /aspose.medical.dicom.tags/tag/instructionindex/
+url: /net/aspose.medical.dicom.tags/tag/instructionindex/
 ---
 
 ## Tag.InstructionIndex field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022000F VRFD VM1 Vertex Distance.
 type: docs
 weight: 50960
-url: /aspose.medical.dicom.tags/tag/vertexdistance/
+url: /net/aspose.medical.dicom.tags/tag/vertexdistance/
 ---
 
 ## Tag.VertexDistance field

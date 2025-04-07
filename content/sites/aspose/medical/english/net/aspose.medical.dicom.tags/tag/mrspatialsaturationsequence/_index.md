@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189107 VRSQ VM1 MR Spatial Saturation Sequence.
 type: docs
 weight: 25280
-url: /aspose.medical.dicom.tags/tag/mrspatialsaturationsequence/
+url: /net/aspose.medical.dicom.tags/tag/mrspatialsaturationsequence/
 ---
 
 ## Tag.MRSpatialSaturationSequence field

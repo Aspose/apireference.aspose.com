@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200200 VRUI VM1 Synchronization Frame of Reference UID.
 type: docs
 weight: 46620
-url: /aspose.medical.dicom.tags/tag/synchronizationframeofreferenceuid/
+url: /net/aspose.medical.dicom.tags/tag/synchronizationframeofreferenceuid/
 ---
 
 ## Tag.SynchronizationFrameOfReferenceUID field

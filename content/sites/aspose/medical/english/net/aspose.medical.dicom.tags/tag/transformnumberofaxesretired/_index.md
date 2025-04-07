@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142224 VRIS VM1 Transform Number of Axes RETIRED.
 type: docs
 weight: 49440
-url: /aspose.medical.dicom.tags/tag/transformnumberofaxesretired/
+url: /net/aspose.medical.dicom.tags/tag/transformnumberofaxesretired/
 ---
 
 ## Tag.TransformNumberOfAxesRETIRED field

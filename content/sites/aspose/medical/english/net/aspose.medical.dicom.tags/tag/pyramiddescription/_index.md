@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081088 VRLO VM1 Pyramid Description.
 type: docs
 weight: 33930
-url: /aspose.medical.dicom.tags/tag/pyramiddescription/
+url: /net/aspose.medical.dicom.tags/tag/pyramiddescription/
 ---
 
 ## Tag.PyramidDescription field

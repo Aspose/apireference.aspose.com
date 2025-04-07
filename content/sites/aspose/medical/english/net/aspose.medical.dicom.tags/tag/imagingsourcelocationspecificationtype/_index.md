@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020111 VRCS VM1 Imaging Source Location Specification Type.
 type: docs
 weight: 19720
-url: /aspose.medical.dicom.tags/tag/imagingsourcelocationspecificationtype/
+url: /net/aspose.medical.dicom.tags/tag/imagingsourcelocationspecificationtype/
 ---
 
 ## Tag.ImagingSourceLocationSpecificationType field

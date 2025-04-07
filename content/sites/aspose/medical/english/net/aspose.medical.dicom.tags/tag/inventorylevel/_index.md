@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080403 VRCS VM1 Inventory Level.
 type: docs
 weight: 21350
-url: /aspose.medical.dicom.tags/tag/inventorylevel/
+url: /net/aspose.medical.dicom.tags/tag/inventorylevel/
 ---
 
 ## Tag.InventoryLevel field

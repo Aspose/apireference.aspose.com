@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0317 VRCS VM1 Waveform Amplifier Type.
 type: docs
 weight: 51890
-url: /aspose.medical.dicom.tags/tag/waveformamplifiertype/
+url: /net/aspose.medical.dicom.tags/tag/waveformamplifiertype/
 ---
 
 ## Tag.WaveformAmplifierType field

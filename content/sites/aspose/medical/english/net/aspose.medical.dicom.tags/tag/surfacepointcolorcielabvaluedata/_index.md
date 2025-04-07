@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00800007 VRUS VM3-3n Surface Point Color CIELab Value Data.
 type: docs
 weight: 46410
-url: /aspose.medical.dicom.tags/tag/surfacepointcolorcielabvaluedata/
+url: /net/aspose.medical.dicom.tags/tag/surfacepointcolorcielabvaluedata/
 ---
 
 ## Tag.SurfacePointColorCIELabValueData field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221100 VRSQ VM1 Referenced Ophthalmic Axial Measurements Sequence.
 type: docs
 weight: 36740
-url: /aspose.medical.dicom.tags/tag/referencedophthalmicaxialmeasurementssequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedophthalmicaxialmeasurementssequence/
 ---
 
 ## Tag.ReferencedOphthalmicAxialMeasurementsSequence field

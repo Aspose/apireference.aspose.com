@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0356 VRFL VM1 Fixation Light Azimuthal Angle.
 type: docs
 weight: 15720
-url: /aspose.medical.dicom.tags/tag/fixationlightazimuthalangle/
+url: /net/aspose.medical.dicom.tags/tag/fixationlightazimuthalangle/
 ---
 
 ## Tag.FixationLightAzimuthalAngle field

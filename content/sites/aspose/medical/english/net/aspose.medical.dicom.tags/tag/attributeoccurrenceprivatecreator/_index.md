@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741056 VRLO VM1 Attribute Occurrence Private Creator.
 type: docs
 weight: 2820
-url: /aspose.medical.dicom.tags/tag/attributeoccurrenceprivatecreator/
+url: /net/aspose.medical.dicom.tags/tag/attributeoccurrenceprivatecreator/
 ---
 
 ## Tag.AttributeOccurrencePrivateCreator field

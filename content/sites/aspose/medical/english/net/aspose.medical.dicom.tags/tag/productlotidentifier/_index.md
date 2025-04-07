@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0044000A VRLO VM1 Product Lot Identifier.
 type: docs
 weight: 33530
-url: /aspose.medical.dicom.tags/tag/productlotidentifier/
+url: /net/aspose.medical.dicom.tags/tag/productlotidentifier/
 ---
 
 ## Tag.ProductLotIdentifier field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A047 VRLO VM1 Measurement Precision Description Trial RETIRED.
 type: docs
 weight: 24260
-url: /aspose.medical.dicom.tags/tag/measurementprecisiondescriptiontrialretired/
+url: /net/aspose.medical.dicom.tags/tag/measurementprecisiondescriptiontrialretired/
 ---
 
 ## Tag.MeasurementPrecisionDescriptionTrialRETIRED field

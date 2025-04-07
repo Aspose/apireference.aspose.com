@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160022 VRDS VM1 Aperture Value.
 type: docs
 weight: 2000
-url: /aspose.medical.dicom.tags/tag/aperturevalue/
+url: /net/aspose.medical.dicom.tags/tag/aperturevalue/
 ---
 
 ## Tag.ApertureValue field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240104 VRFL VM1 Generalized Defect Corrected Sensitivity Deviation Probability Value.
 type: docs
 weight: 17180
-url: /aspose.medical.dicom.tags/tag/generalizeddefectcorrectedsensitivitydeviationprobabilityvalue/
+url: /net/aspose.medical.dicom.tags/tag/generalizeddefectcorrectedsensitivitydeviationprobabilityvalue/
 ---
 
 ## Tag.GeneralizedDefectCorrectedSensitivityDeviationProbabilityValue field

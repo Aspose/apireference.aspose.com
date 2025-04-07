@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080041 VRLO VM1 Data Set Subtype RETIRED.
 type: docs
 weight: 9970
-url: /aspose.medical.dicom.tags/tag/datasetsubtyperetired/
+url: /net/aspose.medical.dicom.tags/tag/datasetsubtyperetired/
 ---
 
 ## Tag.DataSetSubtypeRETIRED field

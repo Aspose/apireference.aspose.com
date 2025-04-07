@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145104 VRDS VM1 Main Roof Angle RETIRED.
 type: docs
 weight: 23380
-url: /aspose.medical.dicom.tags/tag/mainroofangleretired/
+url: /net/aspose.medical.dicom.tags/tag/mainroofangleretired/
 ---
 
 ## Tag.MainRoofAngleRETIRED field

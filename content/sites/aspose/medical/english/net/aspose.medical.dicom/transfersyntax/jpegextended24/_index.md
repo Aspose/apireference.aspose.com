@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: JPEG Extended Process 2 amp 4 1.2.840.10008.1.2.4.51.
 type: docs
 weight: 220
-url: /aspose.medical.dicom/transfersyntax/jpegextended24/
+url: /net/aspose.medical.dicom/transfersyntax/jpegextended24/
 ---
 
 ## TransferSyntax.JpegExtended24 field

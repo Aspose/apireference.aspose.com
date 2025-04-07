@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00089154 VRSQ VM1 Source Image Evidence Sequence.
 type: docs
 weight: 44200
-url: /aspose.medical.dicom.tags/tag/sourceimageevidencesequence/
+url: /net/aspose.medical.dicom.tags/tag/sourceimageevidencesequence/
 ---
 
 ## Tag.SourceImageEvidenceSequence field

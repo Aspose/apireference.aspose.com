@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080124 VRSQ VM1 Mapping Resource Identification Sequence.
 type: docs
 weight: 23520
-url: /aspose.medical.dicom.tags/tag/mappingresourceidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/mappingresourceidentificationsequence/
 ---
 
 ## Tag.MappingResourceIdentificationSequence field

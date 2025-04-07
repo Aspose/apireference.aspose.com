@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741024 VRIS VM1 Beam Order Index Trial RETIRED.
 type: docs
 weight: 3600
-url: /aspose.medical.dicom.tags/tag/beamorderindextrialretired/
+url: /net/aspose.medical.dicom.tags/tag/beamorderindextrialretired/
 ---
 
 ## Tag.BeamOrderIndexTrialRETIRED field

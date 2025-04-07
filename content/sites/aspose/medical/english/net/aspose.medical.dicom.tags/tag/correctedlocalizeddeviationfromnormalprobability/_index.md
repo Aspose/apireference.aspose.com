@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240081 VRFL VM1 Corrected Localized Deviation From Normal Probability.
 type: docs
 weight: 8960
-url: /aspose.medical.dicom.tags/tag/correctedlocalizeddeviationfromnormalprobability/
+url: /net/aspose.medical.dicom.tags/tag/correctedlocalizeddeviationfromnormalprobability/
 ---
 
 ## Tag.CorrectedLocalizedDeviationFromNormalProbability field

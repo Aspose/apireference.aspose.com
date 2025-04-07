@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660002 VRSQ VM1 Surface Sequence.
 type: docs
 weight: 46530
-url: /aspose.medical.dicom.tags/tag/surfacesequence/
+url: /net/aspose.medical.dicom.tags/tag/surfacesequence/
 ---
 
 ## Tag.SurfaceSequence field

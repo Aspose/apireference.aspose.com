@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0355 VRLO VM1 Tray Accessory Code.
 type: docs
 weight: 49580
-url: /aspose.medical.dicom.tags/tag/trayaccessorycode/
+url: /net/aspose.medical.dicom.tags/tag/trayaccessorycode/
 ---
 
 ## Tag.TrayAccessoryCode field

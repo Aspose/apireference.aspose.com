@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000565 VRCS VM1 Reason for the Attribute Modification.
 type: docs
 weight: 35210
-url: /aspose.medical.dicom.tags/tag/reasonfortheattributemodification/
+url: /net/aspose.medical.dicom.tags/tag/reasonfortheattributemodification/
 ---
 
 ## Tag.ReasonForTheAttributeModification field

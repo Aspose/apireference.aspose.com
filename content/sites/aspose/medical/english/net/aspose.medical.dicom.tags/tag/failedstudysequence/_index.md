@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008119B VRSQ VM1 Failed Study Sequence.
 type: docs
 weight: 14800
-url: /aspose.medical.dicom.tags/tag/failedstudysequence/
+url: /net/aspose.medical.dicom.tags/tag/failedstudysequence/
 ---
 
 ## Tag.FailedStudySequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018603E VRUL VM1 TM-Line Position Y0 Retired RETIRED.
 type: docs
 weight: 48620
-url: /aspose.medical.dicom.tags/tag/tmlinepositiony0retiredretired/
+url: /net/aspose.medical.dicom.tags/tag/tmlinepositiony0retiredretired/
 ---
 
 ## Tag.TMLinePositionY0RetiredRETIRED field

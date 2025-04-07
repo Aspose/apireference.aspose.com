@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221220 VRSQ VM1 Ultrasound Ophthalmic Axial Length Measurements Sequence.
 type: docs
 weight: 50380
-url: /aspose.medical.dicom.tags/tag/ultrasoundophthalmicaxiallengthmeasurementssequence/
+url: /net/aspose.medical.dicom.tags/tag/ultrasoundophthalmicaxiallengthmeasurementssequence/
 ---
 
 ## Tag.UltrasoundOphthalmicAxialLengthMeasurementsSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: LDAP OID dicomTLSCyphersuite.
 type: docs
 weight: 1060
-url: /aspose.medical.dicom/uid/dicomtlscyphersuite/
+url: /net/aspose.medical.dicom/uid/dicomtlscyphersuite/
 ---
 
 ## Uid.DicomTLsCyphersuite field

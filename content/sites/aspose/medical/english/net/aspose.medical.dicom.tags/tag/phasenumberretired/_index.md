@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200015 VRIS VM1 Phase Number RETIRED.
 type: docs
 weight: 31120
-url: /aspose.medical.dicom.tags/tag/phasenumberretired/
+url: /net/aspose.medical.dicom.tags/tag/phasenumberretired/
 ---
 
 ## Tag.PhaseNumberRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209222 VRSQ VM1 Dimension Index Sequence.
 type: docs
 weight: 11870
-url: /aspose.medical.dicom.tags/tag/dimensionindexsequence/
+url: /net/aspose.medical.dicom.tags/tag/dimensionindexsequence/
 ---
 
 ## Tag.DimensionIndexSequence field

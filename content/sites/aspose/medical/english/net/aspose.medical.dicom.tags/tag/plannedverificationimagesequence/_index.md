@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00CA VRSQ VM1 Planned Verification Image Sequence.
 type: docs
 weight: 31780
-url: /aspose.medical.dicom.tags/tag/plannedverificationimagesequence/
+url: /net/aspose.medical.dicom.tags/tag/plannedverificationimagesequence/
 ---
 
 ## Tag.PlannedVerificationImageSequence field

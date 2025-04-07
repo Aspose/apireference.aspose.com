@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00FE VRLO VM1 Block Name.
 type: docs
 weight: 4060
-url: /aspose.medical.dicom.tags/tag/blockname/
+url: /net/aspose.medical.dicom.tags/tag/blockname/
 ---
 
 ## Tag.BlockName field

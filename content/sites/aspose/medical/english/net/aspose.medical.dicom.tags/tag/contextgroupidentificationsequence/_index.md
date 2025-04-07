@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080123 VRSQ VM1 Context Group Identification Sequence.
 type: docs
 weight: 7970
-url: /aspose.medical.dicom.tags/tag/contextgroupidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/contextgroupidentificationsequence/
 ---
 
 ## Tag.ContextGroupIdentificationSequence field

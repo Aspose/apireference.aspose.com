@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00283002 VRUS or SS VM3 LUT Descriptor.
 type: docs
 weight: 23200
-url: /aspose.medical.dicom.tags/tag/lutdescriptor/
+url: /net/aspose.medical.dicom.tags/tag/lutdescriptor/
 ---
 
 ## Tag.LUTDescriptor field

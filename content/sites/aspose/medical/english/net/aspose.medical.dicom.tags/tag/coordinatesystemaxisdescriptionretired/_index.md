@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142206 VRST VM1 Coordinate System Axis Description RETIRED.
 type: docs
 weight: 8660
-url: /aspose.medical.dicom.tags/tag/coordinatesystemaxisdescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/coordinatesystemaxisdescriptionretired/
 ---
 
 ## Tag.CoordinateSystemAxisDescriptionRETIRED field

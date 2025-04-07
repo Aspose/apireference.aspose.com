@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00188151 VRDS VM1 X-Ray Tube Current in ÂµA.
 type: docs
 weight: 52900
-url: /aspose.medical.dicom.tags/tag/xraytubecurrentinua/
+url: /net/aspose.medical.dicom.tags/tag/xraytubecurrentinua/
 ---
 
 ## Tag.XRayTubeCurrentInuA field

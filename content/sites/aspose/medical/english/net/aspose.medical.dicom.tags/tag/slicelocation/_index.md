@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00201041 VRDS VM1 Slice Location.
 type: docs
 weight: 43580
-url: /aspose.medical.dicom.tags/tag/slicelocation/
+url: /net/aspose.medical.dicom.tags/tag/slicelocation/
 ---
 
 ## Tag.SliceLocation field

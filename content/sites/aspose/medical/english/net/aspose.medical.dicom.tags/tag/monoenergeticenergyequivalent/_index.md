@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018937C VRFD VM1 Monoenergetic Energy Equivalent.
 type: docs
 weight: 24860
-url: /aspose.medical.dicom.tags/tag/monoenergeticenergyequivalent/
+url: /net/aspose.medical.dicom.tags/tag/monoenergeticenergyequivalent/
 ---
 
 ## Tag.MonoenergeticEnergyEquivalent field

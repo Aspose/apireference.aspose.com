@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189374 VRDS VM1 Nominal Max Energy.
 type: docs
 weight: 25810
-url: /aspose.medical.dicom.tags/tag/nominalmaxenergy/
+url: /net/aspose.medical.dicom.tags/tag/nominalmaxenergy/
 ---
 
 ## Tag.NominalMaxEnergy field

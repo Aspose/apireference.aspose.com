@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187034 VRCS VM1 Field of View Horizontal Flip.
 type: docs
 weight: 14990
-url: /aspose.medical.dicom.tags/tag/fieldofviewhorizontalflip/
+url: /net/aspose.medical.dicom.tags/tag/fieldofviewhorizontalflip/
 ---
 
 ## Tag.FieldOfViewHorizontalFlip field

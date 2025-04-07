@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187005 VRCS VM1 Detector Configuration.
 type: docs
 weight: 10970
-url: /aspose.medical.dicom.tags/tag/detectorconfiguration/
+url: /net/aspose.medical.dicom.tags/tag/detectorconfiguration/
 ---
 
 ## Tag.DetectorConfiguration field

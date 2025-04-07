@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181047 VRDS VM1-n Contrast Flow Duration.
 type: docs
 weight: 8400
-url: /aspose.medical.dicom.tags/tag/contrastflowduration/
+url: /net/aspose.medical.dicom.tags/tag/contrastflowduration/
 ---
 
 ## Tag.ContrastFlowDuration field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0313 VRDS VM1 Impedance Value.
 type: docs
 weight: 19790
-url: /aspose.medical.dicom.tags/tag/impedancevalue/
+url: /net/aspose.medical.dicom.tags/tag/impedancevalue/
 ---
 
 ## Tag.ImpedanceValue field

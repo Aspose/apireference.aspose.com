@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280401 VRLO VM1 Transform Version Number RETIRED.
 type: docs
 weight: 49460
-url: /aspose.medical.dicom.tags/tag/transformversionnumberretired/
+url: /net/aspose.medical.dicom.tags/tag/transformversionnumberretired/
 ---
 
 ## Tag.TransformVersionNumberRETIRED field

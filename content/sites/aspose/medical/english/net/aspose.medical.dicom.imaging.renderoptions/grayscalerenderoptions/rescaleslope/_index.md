@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Pixel data rescale slope. Read-only Double.
 type: docs
 weight: 40
-url: /aspose.medical.dicom.imaging.renderoptions/grayscalerenderoptions/rescaleslope/
+url: /net/aspose.medical.dicom.imaging.renderoptions/grayscalerenderoptions/rescaleslope/
 ---
 
 ## GrayscaleRenderOptions.RescaleSlope property

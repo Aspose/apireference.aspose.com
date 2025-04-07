@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240090 VRFL VM1 Visual Field Test Point X-Coordinate.
 type: docs
 weight: 51490
-url: /aspose.medical.dicom.tags/tag/visualfieldtestpointxcoordinate/
+url: /net/aspose.medical.dicom.tags/tag/visualfieldtestpointxcoordinate/
 ---
 
 ## Tag.VisualFieldTestPointXCoordinate field

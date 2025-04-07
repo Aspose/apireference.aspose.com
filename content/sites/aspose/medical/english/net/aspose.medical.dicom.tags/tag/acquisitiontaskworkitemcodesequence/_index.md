@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020119 VRSQ VM1 Acquisition Task Workitem Code Sequence.
 type: docs
 weight: 600
-url: /aspose.medical.dicom.tags/tag/acquisitiontaskworkitemcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/acquisitiontaskworkitemcodesequence/
 ---
 
 ## Tag.AcquisitionTaskWorkitemCodeSequence field

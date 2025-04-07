@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 40
-url: /aspose.medical.dicom.elements/valueelement-1/valuerepresentation/
+url: /net/aspose.medical.dicom.elements/valueelement-1/valuerepresentation/
 ---
 
 ## ValueElement&lt;T&gt;.ValueRepresentation property

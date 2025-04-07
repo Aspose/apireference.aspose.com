@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0762 VRSQ VM1 Treatment Tolerance Violation Cause Code Sequence.
 type: docs
 weight: 49940
-url: /aspose.medical.dicom.tags/tag/treatmenttoleranceviolationcausecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/treatmenttoleranceviolationcausecodesequence/
 ---
 
 ## Tag.TreatmentToleranceViolationCauseCodeSequence field

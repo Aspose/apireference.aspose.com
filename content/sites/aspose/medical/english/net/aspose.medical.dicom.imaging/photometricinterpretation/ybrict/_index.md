@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Pixel data represent a color image described by one luminance Y and two chrominance planes Cb and Cr. This photometric interpretation may be used only when Samples per Pixel 00280002 has a value of 3. Black is represented by Y equal to zero. The absence of color is represented by both Cb and Cr values equal to zero. Regardless of the value of Bits Allocated 00280100 the following equations convert between RGB and YCbCr Photometric Interpretation Y   .29900R  .58700G  .11400B Cb  - .16875R - .33126G  .50000B Cr   .50000R - .41869G - .08131B See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_c.7.6.3.htmlsect_C.7.6.3.1.2textthe20third20etc.-YBR_ICT-Irreversible20Color20Transformation. Read-only PhotometricInterpretationaspose.medical.dicom.imaging/photometricinterpretation.
 type: docs
 weight: 80
-url: /aspose.medical.dicom.imaging/photometricinterpretation/ybrict/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/ybrict/
 ---
 
 ## PhotometricInterpretation.YbrIct property

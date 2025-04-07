@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041141 VRCS VM1-8 File-set Descriptor File ID.
 type: docs
 weight: 15140
-url: /aspose.medical.dicom.tags/tag/filesetdescriptorfileid/
+url: /net/aspose.medical.dicom.tags/tag/filesetdescriptorfileid/
 ---
 
 ## Tag.FileSetDescriptorFileID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A125 VRCS VM2 Report Status ID Trial RETIRED.
 type: docs
 weight: 38580
-url: /aspose.medical.dicom.tags/tag/reportstatusidtrialretired/
+url: /net/aspose.medical.dicom.tags/tag/reportstatusidtrialretired/
 ---
 
 ## Tag.ReportStatusIDTrialRETIRED field

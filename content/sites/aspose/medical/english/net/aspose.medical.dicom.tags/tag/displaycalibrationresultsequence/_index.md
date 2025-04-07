@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287016 VRSQ VM1 Display Calibration Result Sequence.
 type: docs
 weight: 12020
-url: /aspose.medical.dicom.tags/tag/displaycalibrationresultsequence/
+url: /net/aspose.medical.dicom.tags/tag/displaycalibrationresultsequence/
 ---
 
 ## Tag.DisplayCalibrationResultSequence field

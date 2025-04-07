@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146015 VRDS VM1 Laser Wavelength RETIRED.
 type: docs
 weight: 22400
-url: /aspose.medical.dicom.tags/tag/laserwavelengthretired/
+url: /net/aspose.medical.dicom.tags/tag/laserwavelengthretired/
 ---
 
 ## Tag.LaserWavelengthRETIRED field

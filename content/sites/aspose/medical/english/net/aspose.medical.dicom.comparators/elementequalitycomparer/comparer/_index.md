@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Gets an object that performs a IElementaspose.medical.dicom.elements/ielement comparison operation. Read-only ElementEqualityCompareraspose.medical.dicom.comparators/elementequalitycomparer.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.comparators/elementequalitycomparer/comparer/
+url: /net/aspose.medical.dicom.comparators/elementequalitycomparer/comparer/
 ---
 
 ## ElementEqualityComparer.Comparer property

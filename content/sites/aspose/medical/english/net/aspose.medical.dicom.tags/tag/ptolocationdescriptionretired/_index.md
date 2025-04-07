@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101078 VRST VM1 PTO Location Description RETIRED.
 type: docs
 weight: 33740
-url: /aspose.medical.dicom.tags/tag/ptolocationdescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/ptolocationdescriptionretired/
 ---
 
 ## Tag.PTOLocationDescriptionRETIRED field

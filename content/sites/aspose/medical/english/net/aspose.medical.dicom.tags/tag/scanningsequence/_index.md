@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180020 VRCS VM1-n Scanning Sequence.
 type: docs
 weight: 41030
-url: /aspose.medical.dicom.tags/tag/scanningsequence/
+url: /net/aspose.medical.dicom.tags/tag/scanningsequence/
 ---
 
 ## Tag.ScanningSequence field

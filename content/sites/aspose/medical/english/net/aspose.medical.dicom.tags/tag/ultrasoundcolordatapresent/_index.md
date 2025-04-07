@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280014 VRUS VM1 Ultrasound Color Data Present.
 type: docs
 weight: 50370
-url: /aspose.medical.dicom.tags/tag/ultrasoundcolordatapresent/
+url: /net/aspose.medical.dicom.tags/tag/ultrasoundcolordatapresent/
 ---
 
 ## Tag.UltrasoundColorDataPresent field

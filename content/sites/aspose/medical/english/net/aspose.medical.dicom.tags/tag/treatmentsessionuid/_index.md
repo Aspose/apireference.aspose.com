@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0700 VRUI VM1 Treatment Session UID.
 type: docs
 weight: 49780
-url: /aspose.medical.dicom.tags/tag/treatmentsessionuid/
+url: /net/aspose.medical.dicom.tags/tag/treatmentsessionuid/
 ---
 
 ## Tag.TreatmentSessionUID field

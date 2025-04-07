@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips MR Cardio Storage.
 type: docs
 weight: 3430
-url: /aspose.medical.dicom/uid/privatephilipsmrcardiostorage/
+url: /net/aspose.medical.dicom/uid/privatephilipsmrcardiostorage/
 ---
 
 ## Uid.PrivatePhilipsMrCardioStorage field

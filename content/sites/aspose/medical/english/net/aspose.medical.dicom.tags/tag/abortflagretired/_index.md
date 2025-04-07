@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101024 VRCS VM1 Abort Flag RETIRED.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.tags/tag/abortflagretired/
+url: /net/aspose.medical.dicom.tags/tag/abortflagretired/
 ---
 
 ## Tag.AbortFlagRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080063 VRIS VM1 Parameter Item Index.
 type: docs
 weight: 29520
-url: /aspose.medical.dicom.tags/tag/parameteritemindex/
+url: /net/aspose.medical.dicom.tags/tag/parameteritemindex/
 ---
 
 ## Tag.ParameterItemIndex field

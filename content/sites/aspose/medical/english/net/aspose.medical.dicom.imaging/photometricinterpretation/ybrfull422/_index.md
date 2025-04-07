@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The same as YBR_FULL except that the Cb and Cr values are sampled horizontally at half the Y rate and as a result there are half as many Cb and Cr values as Y values. This Photometric Interpretation is only allowed with Planar Configuration 00280006 equal to 0. Two Y values shall be stored followed by one Cb and one Cr value. The Cb and Cr values shall be sampled at the location of the first of the two Y values. For each Row of Pixels the first Cb and Cr samples shall be at the location of the first Y sample. The next Cb and Cr samples shall be at the location of the third Y sample etc. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_c.7.6.3.htmlsect_C.7.6.3.1.2text220dated201990.-YBR_FULL_422-The20same20as. Read-only PhotometricInterpretationaspose.medical.dicom.imaging/photometricinterpretation.
 type: docs
 weight: 70
-url: /aspose.medical.dicom.imaging/photometricinterpretation/ybrfull422/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/ybrfull422/
 ---
 
 ## PhotometricInterpretation.YbrFull422 property

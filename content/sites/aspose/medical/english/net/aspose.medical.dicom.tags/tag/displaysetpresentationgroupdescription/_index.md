@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720206 VRLO VM1 Display Set Presentation Group Description.
 type: docs
 weight: 12200
-url: /aspose.medical.dicom.tags/tag/displaysetpresentationgroupdescription/
+url: /net/aspose.medical.dicom.tags/tag/displaysetpresentationgroupdescription/
 ---
 
 ## Tag.DisplaySetPresentationGroupDescription field

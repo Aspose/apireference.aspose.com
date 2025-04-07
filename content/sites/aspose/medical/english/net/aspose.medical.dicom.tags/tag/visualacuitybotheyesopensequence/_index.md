@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460124 VRSQ VM1 Visual Acuity Both Eyes Open Sequence.
 type: docs
 weight: 51310
-url: /aspose.medical.dicom.tags/tag/visualacuitybotheyesopensequence/
+url: /net/aspose.medical.dicom.tags/tag/visualacuitybotheyesopensequence/
 ---
 
 ## Tag.VisualAcuityBothEyesOpenSequence field

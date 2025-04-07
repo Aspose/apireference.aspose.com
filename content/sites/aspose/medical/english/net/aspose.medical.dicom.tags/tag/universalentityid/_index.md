@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400032 VRUT VM1 Universal Entity ID.
 type: docs
 weight: 50490
-url: /aspose.medical.dicom.tags/tag/universalentityid/
+url: /net/aspose.medical.dicom.tags/tag/universalentityid/
 ---
 
 ## Tag.UniversalEntityID field

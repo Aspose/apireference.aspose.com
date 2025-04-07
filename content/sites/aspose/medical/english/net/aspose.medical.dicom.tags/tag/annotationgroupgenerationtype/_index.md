@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006A0007 VRCS VM1 Annotation Group Generation Type.
 type: docs
 weight: 1820
-url: /aspose.medical.dicom.tags/tag/annotationgroupgenerationtype/
+url: /net/aspose.medical.dicom.tags/tag/annotationgroupgenerationtype/
 ---
 
 ## Tag.AnnotationGroupGenerationType field

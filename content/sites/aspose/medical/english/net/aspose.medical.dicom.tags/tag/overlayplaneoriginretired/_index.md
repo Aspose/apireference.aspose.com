@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0052 VRUS VM1 Overlay Plane Origin RETIRED.
 type: docs
 weight: 29140
-url: /aspose.medical.dicom.tags/tag/overlayplaneoriginretired/
+url: /net/aspose.medical.dicom.tags/tag/overlayplaneoriginretired/
 ---
 
 ## Tag.OverlayPlaneOriginRETIRED field

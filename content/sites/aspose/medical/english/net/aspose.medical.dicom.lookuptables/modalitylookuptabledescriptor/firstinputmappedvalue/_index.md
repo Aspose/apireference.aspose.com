@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: First pixel value mapped to a modality LUT.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.lookuptables/modalitylookuptabledescriptor/firstinputmappedvalue/
+url: /net/aspose.medical.dicom.lookuptables/modalitylookuptabledescriptor/firstinputmappedvalue/
 ---
 
 ## ModalityLookUpTableDescriptor.FirstInputMappedValue property

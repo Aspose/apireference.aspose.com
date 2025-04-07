@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Autorefraction Measurements Storage.
 type: docs
 weight: 100
-url: /aspose.medical.dicom/uid/autorefractionmeasurementsstorage/
+url: /net/aspose.medical.dicom/uid/autorefractionmeasurementsstorage/
 ---
 
 ## Uid.AutorefractionMeasurementsStorage field

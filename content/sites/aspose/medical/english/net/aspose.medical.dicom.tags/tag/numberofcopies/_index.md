@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20000010 VRIS VM1 Number of Copies.
 type: docs
 weight: 26240
-url: /aspose.medical.dicom.tags/tag/numberofcopies/
+url: /net/aspose.medical.dicom.tags/tag/numberofcopies/
 ---
 
 ## Tag.NumberOfCopies field

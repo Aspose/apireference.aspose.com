@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0247 VRFL VM1 Fractional Channel Display Scale.
 type: docs
 weight: 16310
-url: /aspose.medical.dicom.tags/tag/fractionalchanneldisplayscale/
+url: /net/aspose.medical.dicom.tags/tag/fractionalchanneldisplayscale/
 ---
 
 ## Tag.FractionalChannelDisplayScale field

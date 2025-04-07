@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014605A VRCS VM1-n Fitting Data Type RETIRED.
 type: docs
 weight: 15620
-url: /aspose.medical.dicom.tags/tag/fittingdatatyperetired/
+url: /net/aspose.medical.dicom.tags/tag/fittingdatatyperetired/
 ---
 
 ## Tag.FittingDataTypeRETIRED field

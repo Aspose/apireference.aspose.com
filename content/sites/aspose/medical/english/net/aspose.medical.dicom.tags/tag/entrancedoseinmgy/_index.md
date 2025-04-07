@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00408302 VRDS VM1 Entrance Dose in mGy.
 type: docs
 weight: 13830
-url: /aspose.medical.dicom.tags/tag/entrancedoseinmgy/
+url: /net/aspose.medical.dicom.tags/tag/entrancedoseinmgy/
 ---
 
 ## Tag.EntranceDoseInmGy field

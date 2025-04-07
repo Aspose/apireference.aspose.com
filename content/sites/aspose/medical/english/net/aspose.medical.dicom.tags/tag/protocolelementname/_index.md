@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189922 VRLO VM1 Protocol Element Name.
 type: docs
 weight: 33670
-url: /aspose.medical.dicom.tags/tag/protocolelementname/
+url: /net/aspose.medical.dicom.tags/tag/protocolelementname/
 ---
 
 ## Tag.ProtocolElementName field

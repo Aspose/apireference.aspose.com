@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Confidentiality Profile actions per tag as described in DICOM PS 3.15. Table E.1-1a. De-identification Action Codes https//dicom.nema.org/medical/dicom/current/output/chtml/part15/chapter_E.htmltable_E.1-1a
 type: docs
 weight: 40
-url: /aspose.medical.dicom.anonymization/confidentialityprofileactions/
+url: /net/aspose.medical.dicom.anonymization/confidentialityprofileactions/
 ---
 
 ## ConfidentialityProfileActions enumeration

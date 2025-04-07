@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102295 VRLO VM1 Breed Registration Number.
 type: docs
 weight: 4640
-url: /aspose.medical.dicom.tags/tag/breedregistrationnumber/
+url: /net/aspose.medical.dicom.tags/tag/breedregistrationnumber/
 ---
 
 ## Tag.BreedRegistrationNumber field

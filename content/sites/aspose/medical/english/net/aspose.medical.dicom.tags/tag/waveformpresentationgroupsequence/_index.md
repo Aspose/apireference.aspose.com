@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0240 VRSQ VM1 Waveform Presentation Group Sequence.
 type: docs
 weight: 52030
-url: /aspose.medical.dicom.tags/tag/waveformpresentationgroupsequence/
+url: /net/aspose.medical.dicom.tags/tag/waveformpresentationgroupsequence/
 ---
 
 ## Tag.WaveformPresentationGroupSequence field

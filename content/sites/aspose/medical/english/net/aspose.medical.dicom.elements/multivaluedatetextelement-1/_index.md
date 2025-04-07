@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates basic functionality for date related VR types DA - date DT - date time TM - time.
 type: docs
 weight: 300
-url: /aspose.medical.dicom.elements/multivaluedatetextelement-1/
+url: /net/aspose.medical.dicom.elements/multivaluedatetextelement-1/
 ---
 
 ## MultiValueDateTextElement&lt;T&gt; class

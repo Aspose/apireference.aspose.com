@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541220 VRCS VM1-n Secondary Counts Type.
 type: docs
 weight: 41820
-url: /aspose.medical.dicom.tags/tag/secondarycountstype/
+url: /net/aspose.medical.dicom.tags/tag/secondarycountstype/
 ---
 
 ## Tag.SecondaryCountsType field

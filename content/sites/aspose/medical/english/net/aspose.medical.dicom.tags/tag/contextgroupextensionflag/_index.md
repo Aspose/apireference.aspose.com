@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008010B VRCS VM1 Context Group Extension Flag.
 type: docs
 weight: 7960
-url: /aspose.medical.dicom.tags/tag/contextgroupextensionflag/
+url: /net/aspose.medical.dicom.tags/tag/contextgroupextensionflag/
 ---
 
 ## Tag.ContextGroupExtensionFlag field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 1000xxx0 VRUS VM3 Escape Triplet RETIRED.
 type: docs
 weight: 14000
-url: /aspose.medical.dicom.tags/tag/escapetripletretired/
+url: /net/aspose.medical.dicom.tags/tag/escapetripletretired/
 ---
 
 ## Tag.EscapeTripletRETIRED field

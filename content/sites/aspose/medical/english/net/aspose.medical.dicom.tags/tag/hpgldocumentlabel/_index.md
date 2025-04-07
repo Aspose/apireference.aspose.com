@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006862D5 VRLO VM1 HPGL Document Label.
 type: docs
 weight: 18580
-url: /aspose.medical.dicom.tags/tag/hpgldocumentlabel/
+url: /net/aspose.medical.dicom.tags/tag/hpgldocumentlabel/
 ---
 
 ## Tag.HPGLDocumentLabel field

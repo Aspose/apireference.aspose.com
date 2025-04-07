@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Inventory - MOVE.
 type: docs
 weight: 2130
-url: /aspose.medical.dicom/uid/inventorymove/
+url: /net/aspose.medical.dicom/uid/inventorymove/
 ---
 
 ## Uid.InventoryMOVE field

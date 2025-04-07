@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx2000 VRUS VM1 Audio Type RETIRED.
 type: docs
 weight: 2880
-url: /aspose.medical.dicom.tags/tag/audiotyperetired/
+url: /net/aspose.medical.dicom.tags/tag/audiotyperetired/
 ---
 
 ## Tag.AudioTypeRETIRED field

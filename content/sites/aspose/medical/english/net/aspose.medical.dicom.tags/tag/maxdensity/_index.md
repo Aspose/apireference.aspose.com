@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100130 VRUS VM1 Max Density.
 type: docs
 weight: 23870
-url: /aspose.medical.dicom.tags/tag/maxdensity/
+url: /net/aspose.medical.dicom.tags/tag/maxdensity/
 ---
 
 ## Tag.MaxDensity field

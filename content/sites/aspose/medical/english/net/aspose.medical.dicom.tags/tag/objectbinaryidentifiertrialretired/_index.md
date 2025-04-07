@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A074 VROB VM1 Object Binary Identifier Trial RETIRED.
 type: docs
 weight: 27200
-url: /aspose.medical.dicom.tags/tag/objectbinaryidentifiertrialretired/
+url: /net/aspose.medical.dicom.tags/tag/objectbinaryidentifiertrialretired/
 ---
 
 ## Tag.ObjectBinaryIdentifierTrialRETIRED field

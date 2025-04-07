@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101041 VRDT VM1 OOI Owner Creation Time RETIRED.
 type: docs
 weight: 27670
-url: /aspose.medical.dicom.tags/tag/ooiownercreationtimeretired/
+url: /net/aspose.medical.dicom.tags/tag/ooiownercreationtimeretired/
 ---
 
 ## Tag.OOIOwnerCreationTimeRETIRED field

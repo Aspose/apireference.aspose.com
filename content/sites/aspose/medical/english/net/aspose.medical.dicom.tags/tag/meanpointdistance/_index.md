@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660018 VRFL VM1 Mean Point Distance.
 type: docs
 weight: 24050
-url: /aspose.medical.dicom.tags/tag/meanpointdistance/
+url: /net/aspose.medical.dicom.tags/tag/meanpointdistance/
 ---
 
 ## Tag.MeanPointDistance field

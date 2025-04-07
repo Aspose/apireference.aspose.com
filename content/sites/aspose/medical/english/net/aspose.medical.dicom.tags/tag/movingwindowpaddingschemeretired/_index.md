@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146050 VRCS VM1 Moving Window Padding Scheme RETIRED.
 type: docs
 weight: 25010
-url: /aspose.medical.dicom.tags/tag/movingwindowpaddingschemeretired/
+url: /net/aspose.medical.dicom.tags/tag/movingwindowpaddingschemeretired/
 ---
 
 ## Tag.MovingWindowPaddingSchemeRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220010 VRFL VM1 Stereo Baseline Angle.
 type: docs
 weight: 45500
-url: /aspose.medical.dicom.tags/tag/stereobaselineangle/
+url: /net/aspose.medical.dicom.tags/tag/stereobaselineangle/
 ---
 
 ## Tag.StereoBaselineAngle field

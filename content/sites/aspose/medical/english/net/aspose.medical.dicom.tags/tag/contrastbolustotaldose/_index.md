@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181044 VRDS VM1 Contrast/Bolus Total Dose.
 type: docs
 weight: 8370
-url: /aspose.medical.dicom.tags/tag/contrastbolustotaldose/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolustotaldose/
 ---
 
 ## Tag.ContrastBolusTotalDose field

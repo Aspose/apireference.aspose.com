@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181203 VRDT VM1 Calibration DateTime.
 type: docs
 weight: 4920
-url: /aspose.medical.dicom.tags/tag/calibrationdatetime/
+url: /net/aspose.medical.dicom.tags/tag/calibrationdatetime/
 ---
 
 ## Tag.CalibrationDateTime field

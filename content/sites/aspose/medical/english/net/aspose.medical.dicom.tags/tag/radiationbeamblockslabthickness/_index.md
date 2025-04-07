@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A066E VRFD VM1 Radiation Beam Block Slab Thickness.
 type: docs
 weight: 34120
-url: /aspose.medical.dicom.tags/tag/radiationbeamblockslabthickness/
+url: /net/aspose.medical.dicom.tags/tag/radiationbeamblockslabthickness/
 ---
 
 ## Tag.RadiationBeamBlockSlabThickness field

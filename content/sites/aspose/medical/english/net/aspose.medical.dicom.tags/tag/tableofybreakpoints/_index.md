@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186054 VRFD VM1-n Table of Y Break Points.
 type: docs
 weight: 46860
-url: /aspose.medical.dicom.tags/tag/tableofybreakpoints/
+url: /net/aspose.medical.dicom.tags/tag/tableofybreakpoints/
 ---
 
 ## Tag.TableOfYBreakPoints field

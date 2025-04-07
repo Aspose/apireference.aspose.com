@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660019 VRFL VM1 Maximum Point Distance.
 type: docs
 weight: 24020
-url: /aspose.medical.dicom.tags/tag/maximumpointdistance/
+url: /net/aspose.medical.dicom.tags/tag/maximumpointdistance/
 ---
 
 ## Tag.MaximumPointDistance field

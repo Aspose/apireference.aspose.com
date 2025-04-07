@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0647 VRSQ VM1 Parallel RT Beam Delimiter Device Sequence.
 type: docs
 weight: 29470
-url: /aspose.medical.dicom.tags/tag/parallelrtbeamdelimiterdevicesequence/
+url: /net/aspose.medical.dicom.tags/tag/parallelrtbeamdelimiterdevicesequence/
 ---
 
 ## Tag.ParallelRTBeamDelimiterDeviceSequence field

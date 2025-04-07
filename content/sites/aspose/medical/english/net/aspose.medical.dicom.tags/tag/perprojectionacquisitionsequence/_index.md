@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189538 VRSQ VM1 Per Projection Acquisition Sequence.
 type: docs
 weight: 30890
-url: /aspose.medical.dicom.tags/tag/perprojectionacquisitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/perprojectionacquisitionsequence/
 ---
 
 ## Tag.PerProjectionAcquisitionSequence field

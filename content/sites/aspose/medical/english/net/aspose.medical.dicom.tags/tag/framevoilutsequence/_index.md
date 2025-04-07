@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289132 VRSQ VM1 Frame VOI LUT Sequence.
 type: docs
 weight: 16820
-url: /aspose.medical.dicom.tags/tag/framevoilutsequence/
+url: /net/aspose.medical.dicom.tags/tag/framevoilutsequence/
 ---
 
 ## Tag.FrameVOILUTSequence field

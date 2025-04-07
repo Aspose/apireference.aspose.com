@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 690
-url: /aspose.medical.dicom/transfersyntax/tostring/
+url: /net/aspose.medical.dicom/transfersyntax/tostring/
 ---
 
 ## TransferSyntax.ToString method

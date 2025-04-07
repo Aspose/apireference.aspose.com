@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/otherbyte/otherbyte/
+url: /net/aspose.medical.dicom.elements/otherbyte/otherbyte/
 ---
 
 ## OtherByte(Tag, Span&lt;byte&gt;) {#constructor_1}

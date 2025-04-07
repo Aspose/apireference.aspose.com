@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0015 VRCS VM1 Nominal Beam Energy Unit.
 type: docs
 weight: 25750
-url: /aspose.medical.dicom.tags/tag/nominalbeamenergyunit/
+url: /net/aspose.medical.dicom.tags/tag/nominalbeamenergyunit/
 ---
 
 ## Tag.NominalBeamEnergyUnit field

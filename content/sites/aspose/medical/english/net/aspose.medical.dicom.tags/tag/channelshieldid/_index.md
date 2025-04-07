@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02B3 VRSH VM1 Channel Shield ID.
 type: docs
 weight: 5660
-url: /aspose.medical.dicom.tags/tag/channelshieldid/
+url: /net/aspose.medical.dicom.tags/tag/channelshieldid/
 ---
 
 ## Tag.ChannelShieldID field

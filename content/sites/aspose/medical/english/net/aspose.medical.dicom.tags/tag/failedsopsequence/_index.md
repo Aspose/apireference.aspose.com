@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081198 VRSQ VM1 Failed SOP Sequence.
 type: docs
 weight: 14790
-url: /aspose.medical.dicom.tags/tag/failedsopsequence/
+url: /net/aspose.medical.dicom.tags/tag/failedsopsequence/
 ---
 
 ## Tag.FailedSOPSequence field

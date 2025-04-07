@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Number of bits allocated per sample. Generally 1 4 8 or 16. Read-only Int32.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.imaging.renderoptions/bitdepth/bitsallocated/
+url: /net/aspose.medical.dicom.imaging.renderoptions/bitdepth/bitsallocated/
 ---
 
 ## BitDepth.BitsAllocated property

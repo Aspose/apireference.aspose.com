@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221049 VRCS VM1 Pre-Selected for Implantation.
 type: docs
 weight: 32480
-url: /aspose.medical.dicom.tags/tag/preselectedforimplantation/
+url: /net/aspose.medical.dicom.tags/tag/preselectedforimplantation/
 ---
 
 ## Tag.PreSelectedForImplantation field

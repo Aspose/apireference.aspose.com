@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010002A VRSQ VM1 RT Segment Annotation Sequence.
 type: docs
 weight: 40610
-url: /aspose.medical.dicom.tags/tag/rtsegmentannotationsequence/
+url: /net/aspose.medical.dicom.tags/tag/rtsegmentannotationsequence/
 ---
 
 ## Tag.RTSegmentAnnotationSequence field

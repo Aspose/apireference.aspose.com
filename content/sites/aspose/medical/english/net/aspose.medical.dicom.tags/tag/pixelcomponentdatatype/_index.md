@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018604E VRUS VM1 Pixel Component Data Type.
 type: docs
 weight: 31330
-url: /aspose.medical.dicom.tags/tag/pixelcomponentdatatype/
+url: /net/aspose.medical.dicom.tags/tag/pixelcomponentdatatype/
 ---
 
 ## Tag.PixelComponentDataType field

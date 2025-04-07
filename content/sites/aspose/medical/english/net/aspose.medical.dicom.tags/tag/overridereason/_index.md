@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080066 VRST VM1 Override Reason.
 type: docs
 weight: 29300
-url: /aspose.medical.dicom.tags/tag/overridereason/
+url: /net/aspose.medical.dicom.tags/tag/overridereason/
 ---
 
 ## Tag.OverrideReason field

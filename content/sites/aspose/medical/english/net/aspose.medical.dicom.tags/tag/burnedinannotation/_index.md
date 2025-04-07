@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280301 VRCS VM1 Burned In Annotation.
 type: docs
 weight: 4760
-url: /aspose.medical.dicom.tags/tag/burnedinannotation/
+url: /net/aspose.medical.dicom.tags/tag/burnedinannotation/
 ---
 
 ## Tag.BurnedInAnnotation field

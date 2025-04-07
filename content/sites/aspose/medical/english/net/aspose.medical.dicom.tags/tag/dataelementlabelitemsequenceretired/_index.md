@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140201 VRSQ VM1 Data Element Label Item Sequence RETIRED.
 type: docs
 weight: 9790
-url: /aspose.medical.dicom.tags/tag/dataelementlabelitemsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/dataelementlabelitemsequenceretired/
 ---
 
 ## Tag.DataElementLabelItemSequenceRETIRED field

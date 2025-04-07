@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811C0 VRCS VM1 Applied Mask Subtraction Flag.
 type: docs
 weight: 2250
-url: /aspose.medical.dicom.tags/tag/appliedmasksubtractionflag/
+url: /net/aspose.medical.dicom.tags/tag/appliedmasksubtractionflag/
 ---
 
 ## Tag.AppliedMaskSubtractionFlag field

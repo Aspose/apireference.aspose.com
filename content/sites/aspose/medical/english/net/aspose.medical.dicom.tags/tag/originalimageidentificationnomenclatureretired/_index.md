@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00205002 VRLO VM1-n Original Image Identification Nomenclature RETIRED.
 type: docs
 weight: 28510
-url: /aspose.medical.dicom.tags/tag/originalimageidentificationnomenclatureretired/
+url: /net/aspose.medical.dicom.tags/tag/originalimageidentificationnomenclatureretired/
 ---
 
 ## Tag.OriginalImageIdentificationNomenclatureRETIRED field

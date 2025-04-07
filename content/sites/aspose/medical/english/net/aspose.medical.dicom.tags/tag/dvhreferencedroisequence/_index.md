@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040060 VRSQ VM1 DVH Referenced ROI Sequence.
 type: docs
 weight: 13140
-url: /aspose.medical.dicom.tags/tag/dvhreferencedroisequence/
+url: /net/aspose.medical.dicom.tags/tag/dvhreferencedroisequence/
 ---
 
 ## Tag.DVHReferencedROISequence field

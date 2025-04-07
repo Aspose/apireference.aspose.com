@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189902 VRSQ VM1 Reference Basis Code Sequence.
 type: docs
 weight: 35960
-url: /aspose.medical.dicom.tags/tag/referencebasiscodesequence/
+url: /net/aspose.medical.dicom.tags/tag/referencebasiscodesequence/
 ---
 
 ## Tag.ReferenceBasisCodeSequence field

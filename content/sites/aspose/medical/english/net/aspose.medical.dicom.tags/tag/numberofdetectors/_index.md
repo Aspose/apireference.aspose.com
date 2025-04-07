@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540021 VRUS VM1 Number of Detectors.
 type: docs
 weight: 26250
-url: /aspose.medical.dicom.tags/tag/numberofdetectors/
+url: /net/aspose.medical.dicom.tags/tag/numberofdetectors/
 ---
 
 ## Tag.NumberOfDetectors field

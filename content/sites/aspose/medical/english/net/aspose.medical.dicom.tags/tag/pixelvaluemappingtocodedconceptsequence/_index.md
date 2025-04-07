@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221450 VRSQ VM1 Pixel Value Mapping to Coded Concept Sequence.
 type: docs
 weight: 31610
-url: /aspose.medical.dicom.tags/tag/pixelvaluemappingtocodedconceptsequence/
+url: /net/aspose.medical.dicom.tags/tag/pixelvaluemappingtocodedconceptsequence/
 ---
 
 ## Tag.PixelValueMappingToCodedConceptSequence field

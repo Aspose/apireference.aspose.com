@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189024 VRCS VM1 Saturation Recovery.
 type: docs
 weight: 40970
-url: /aspose.medical.dicom.tags/tag/saturationrecovery/
+url: /net/aspose.medical.dicom.tags/tag/saturationrecovery/
 ---
 
 ## Tag.SaturationRecovery field

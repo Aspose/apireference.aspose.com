@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028135A VRCS VM1 Spatial Locations Preserved.
 type: docs
 weight: 44760
-url: /aspose.medical.dicom.tags/tag/spatiallocationspreserved/
+url: /net/aspose.medical.dicom.tags/tag/spatiallocationspreserved/
 ---
 
 ## Tag.SpatialLocationsPreserved field

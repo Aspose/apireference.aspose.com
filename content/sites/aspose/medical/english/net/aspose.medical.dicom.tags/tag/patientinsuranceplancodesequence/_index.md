@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100050 VRSQ VM1 Patients Insurance Plan Code Sequence.
 type: docs
 weight: 29890
-url: /aspose.medical.dicom.tags/tag/patientinsuranceplancodesequence/
+url: /net/aspose.medical.dicom.tags/tag/patientinsuranceplancodesequence/
 ---
 
 ## Tag.PatientInsurancePlanCodeSequence field

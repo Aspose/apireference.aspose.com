@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541101 VRLO VM1 Attenuation Correction Method.
 type: docs
 weight: 2750
-url: /aspose.medical.dicom.tags/tag/attenuationcorrectionmethod/
+url: /net/aspose.medical.dicom.tags/tag/attenuationcorrectionmethod/
 ---
 
 ## Tag.AttenuationCorrectionMethod field

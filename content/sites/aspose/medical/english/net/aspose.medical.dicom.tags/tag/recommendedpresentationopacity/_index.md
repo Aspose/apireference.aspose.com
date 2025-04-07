@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0066000C VRFL VM1 Recommended Presentation Opacity.
 type: docs
 weight: 35530
-url: /aspose.medical.dicom.tags/tag/recommendedpresentationopacity/
+url: /net/aspose.medical.dicom.tags/tag/recommendedpresentationopacity/
 ---
 
 ## Tag.RecommendedPresentationOpacity field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480006 VRUL VM1 Total Pixel Matrix Columns.
 type: docs
 weight: 48950
-url: /aspose.medical.dicom.tags/tag/totalpixelmatrixcolumns/
+url: /net/aspose.medical.dicom.tags/tag/totalpixelmatrixcolumns/
 ---
 
 ## Tag.TotalPixelMatrixColumns field

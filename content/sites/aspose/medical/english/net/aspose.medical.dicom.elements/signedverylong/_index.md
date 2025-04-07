@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Signed Very Long SV VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextSection206.2-SV-Signed20642Dbit.
 type: docs
 weight: 470
-url: /aspose.medical.dicom.elements/signedverylong/
+url: /net/aspose.medical.dicom.elements/signedverylong/
 ---
 
 ## SignedVeryLong class

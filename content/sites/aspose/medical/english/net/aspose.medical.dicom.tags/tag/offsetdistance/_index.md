@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189904 VRDS VM1 Offset Distance.
 type: docs
 weight: 27570
-url: /aspose.medical.dicom.tags/tag/offsetdistance/
+url: /net/aspose.medical.dicom.tags/tag/offsetdistance/
 ---
 
 ## Tag.OffsetDistance field

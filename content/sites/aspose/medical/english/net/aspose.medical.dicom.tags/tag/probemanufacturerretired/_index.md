@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014603F VRLO VM1 Probe Manufacturer RETIRED.
 type: docs
 weight: 33260
-url: /aspose.medical.dicom.tags/tag/probemanufacturerretired/
+url: /net/aspose.medical.dicom.tags/tag/probemanufacturerretired/
 ---
 
 ## Tag.ProbeManufacturerRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221150 VRSQ VM1 Ophthalmic Axial Length Data Source Code Sequence.
 type: docs
 weight: 27870
-url: /aspose.medical.dicom.tags/tag/ophthalmicaxiallengthdatasourcecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicaxiallengthdatasourcecodesequence/
 ---
 
 ## Tag.OphthalmicAxialLengthDataSourceCodeSequence field

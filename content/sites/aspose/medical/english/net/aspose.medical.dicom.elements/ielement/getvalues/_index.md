@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Returns the elements values.
 type: docs
 weight: 70
-url: /aspose.medical.dicom.elements/ielement/getvalues/
+url: /net/aspose.medical.dicom.elements/ielement/getvalues/
 ---
 
 ## GetValues&lt;T&gt;() {#getvalues}

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209307 VRCS VM1 Ultrasound Acquisition Geometry.
 type: docs
 weight: 50360
-url: /aspose.medical.dicom.tags/tag/ultrasoundacquisitiongeometry/
+url: /net/aspose.medical.dicom.tags/tag/ultrasoundacquisitiongeometry/
 ---
 
 ## Tag.UltrasoundAcquisitionGeometry field

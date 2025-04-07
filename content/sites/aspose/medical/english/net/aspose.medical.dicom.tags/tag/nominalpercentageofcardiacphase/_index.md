@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209241 VRFL VM1 Nominal Percentage of Cardiac Phase.
 type: docs
 weight: 25830
-url: /aspose.medical.dicom.tags/tag/nominalpercentageofcardiacphase/
+url: /net/aspose.medical.dicom.tags/tag/nominalpercentageofcardiacphase/
 ---
 
 ## Tag.NominalPercentageOfCardiacPhase field

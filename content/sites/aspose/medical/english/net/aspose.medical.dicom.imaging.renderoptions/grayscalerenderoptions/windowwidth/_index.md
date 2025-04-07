@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Window width. Read-only Double.
 type: docs
 weight: 60
-url: /aspose.medical.dicom.imaging.renderoptions/grayscalerenderoptions/windowwidth/
+url: /net/aspose.medical.dicom.imaging.renderoptions/grayscalerenderoptions/windowwidth/
 ---
 
 ## GrayscaleRenderOptions.WindowWidth property

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160026 VRDS VM1 Subject Distance.
 type: docs
 weight: 46140
-url: /aspose.medical.dicom.tags/tag/subjectdistance/
+url: /net/aspose.medical.dicom.tags/tag/subjectdistance/
 ---
 
 ## Tag.SubjectDistance field

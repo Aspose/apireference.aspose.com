@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000015 VRCS VM1 MAC Algorithm.
 type: docs
 weight: 23270
-url: /aspose.medical.dicom.tags/tag/macalgorithm/
+url: /net/aspose.medical.dicom.tags/tag/macalgorithm/
 ---
 
 ## Tag.MACAlgorithm field

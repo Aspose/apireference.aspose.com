@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181602 VRIS VM1 Shutter Left Vertical Edge.
 type: docs
 weight: 43370
-url: /aspose.medical.dicom.tags/tag/shutterleftverticaledge/
+url: /net/aspose.medical.dicom.tags/tag/shutterleftverticaledge/
 ---
 
 ## Tag.ShutterLeftVerticalEdge field

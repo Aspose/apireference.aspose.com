@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Electromyogram Waveform Storage.
 type: docs
 weight: 1320
-url: /aspose.medical.dicom/uid/electromyogramwaveformstorage/
+url: /net/aspose.medical.dicom/uid/electromyogramwaveformstorage/
 ---
 
 ## Uid.ElectromyogramWaveformStorage field

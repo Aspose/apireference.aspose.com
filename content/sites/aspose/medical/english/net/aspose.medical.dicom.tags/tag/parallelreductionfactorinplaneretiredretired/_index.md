@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189096 VRFD VM1 Parallel Reduction Factor In-plane Retired RETIRED.
 type: docs
 weight: 29420
-url: /aspose.medical.dicom.tags/tag/parallelreductionfactorinplaneretiredretired/
+url: /net/aspose.medical.dicom.tags/tag/parallelreductionfactorinplaneretiredretired/
 ---
 
 ## Tag.ParallelReductionFactorInPlaneRetiredRETIRED field

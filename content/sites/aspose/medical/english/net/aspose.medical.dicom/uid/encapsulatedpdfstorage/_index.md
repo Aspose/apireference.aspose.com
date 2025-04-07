@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Encapsulated PDF Storage.
 type: docs
 weight: 1370
-url: /aspose.medical.dicom/uid/encapsulatedpdfstorage/
+url: /net/aspose.medical.dicom/uid/encapsulatedpdfstorage/
 ---
 
 ## Uid.EncapsulatedPDFStorage field

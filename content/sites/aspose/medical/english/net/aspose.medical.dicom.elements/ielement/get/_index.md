@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Returns the elements value at the specified position.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.elements/ielement/get/
+url: /net/aspose.medical.dicom.elements/ielement/get/
 ---
 
 ## Get&lt;T&gt;(int) {#get}

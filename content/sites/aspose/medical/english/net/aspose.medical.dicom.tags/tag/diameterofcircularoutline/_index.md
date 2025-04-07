@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181636 VRFD VM1 Diameter of Circular Outline.
 type: docs
 weight: 11520
-url: /aspose.medical.dicom.tags/tag/diameterofcircularoutline/
+url: /net/aspose.medical.dicom.tags/tag/diameterofcircularoutline/
 ---
 
 ## Tag.DiameterOfCircularOutline field

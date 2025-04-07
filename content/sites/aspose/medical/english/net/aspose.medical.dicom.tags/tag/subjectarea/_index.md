@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016002A VRIS VM2-4 Subject Area.
 type: docs
 weight: 46130
-url: /aspose.medical.dicom.tags/tag/subjectarea/
+url: /net/aspose.medical.dicom.tags/tag/subjectarea/
 ---
 
 ## Tag.SubjectArea field

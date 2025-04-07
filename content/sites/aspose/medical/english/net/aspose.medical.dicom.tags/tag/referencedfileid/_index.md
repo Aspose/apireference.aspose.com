@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041500 VRCS VM1-8 Referenced File ID.
 type: docs
 weight: 36370
-url: /aspose.medical.dicom.tags/tag/referencedfileid/
+url: /net/aspose.medical.dicom.tags/tag/referencedfileid/
 ---
 
 ## Tag.ReferencedFileID field

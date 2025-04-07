@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Date Time DT.
 type: docs
 weight: 60
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/datetime/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/datetime/
 ---
 
 ## ValueRepresentation.DateTime field

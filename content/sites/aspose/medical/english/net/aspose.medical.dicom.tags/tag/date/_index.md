@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A121 VRDA VM1 Date.
 type: docs
 weight: 10040
-url: /aspose.medical.dicom.tags/tag/date/
+url: /net/aspose.medical.dicom.tags/tag/date/
 ---
 
 ## Tag.Date field

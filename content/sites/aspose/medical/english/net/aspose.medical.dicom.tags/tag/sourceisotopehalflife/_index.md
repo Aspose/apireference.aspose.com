@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0228 VRDS VM1 Source Isotope Half Life.
 type: docs
 weight: 44250
-url: /aspose.medical.dicom.tags/tag/sourceisotopehalflife/
+url: /net/aspose.medical.dicom.tags/tag/sourceisotopehalflife/
 ---
 
 ## Tag.SourceIsotopeHalfLife field

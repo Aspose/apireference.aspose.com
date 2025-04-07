@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000010 VRUI VM1 MAC Calculation Transfer Syntax UID.
 type: docs
 weight: 23280
-url: /aspose.medical.dicom.tags/tag/maccalculationtransfersyntaxuid/
+url: /net/aspose.medical.dicom.tags/tag/maccalculationtransfersyntaxuid/
 ---
 
 ## Tag.MACCalculationTransferSyntaxUID field

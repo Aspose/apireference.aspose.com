@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281100 VRUS or SS VM3 Gray Lookup Table Descriptor RETIRED.
 type: docs
 weight: 17960
-url: /aspose.medical.dicom.tags/tag/graylookuptabledescriptorretired/
+url: /net/aspose.medical.dicom.tags/tag/graylookuptabledescriptorretired/
 ---
 
 ## Tag.GrayLookupTableDescriptorRETIRED field

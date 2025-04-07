@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181181 VRCS VM1 Collimator Type.
 type: docs
 weight: 6370
-url: /aspose.medical.dicom.tags/tag/collimatortype/
+url: /net/aspose.medical.dicom.tags/tag/collimatortype/
 ---
 
 ## Tag.CollimatorType field

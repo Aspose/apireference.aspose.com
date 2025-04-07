@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The Implementation Class UID. Read-only Uidaspose.medical.dicom/uid
 type: docs
 weight: 20
-url: /aspose.medical.dicom/metainformation/implementationclassuid/
+url: /net/aspose.medical.dicom/metainformation/implementationclassuid/
 ---
 
 ## MetaInformation.ImplementationClassUid property

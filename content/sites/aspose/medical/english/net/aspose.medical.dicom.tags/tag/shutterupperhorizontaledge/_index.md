@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181606 VRIS VM1 Shutter Upper Horizontal Edge.
 type: docs
 weight: 43450
-url: /aspose.medical.dicom.tags/tag/shutterupperhorizontaledge/
+url: /net/aspose.medical.dicom.tags/tag/shutterupperhorizontaledge/
 ---
 
 ## Tag.ShutterUpperHorizontalEdge field

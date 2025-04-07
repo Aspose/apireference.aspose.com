@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701A01 VRCS VM1 Presentation Animation Style.
 type: docs
 weight: 32490
-url: /aspose.medical.dicom.tags/tag/presentationanimationstyle/
+url: /net/aspose.medical.dicom.tags/tag/presentationanimationstyle/
 ---
 
 ## Tag.PresentationAnimationStyle field

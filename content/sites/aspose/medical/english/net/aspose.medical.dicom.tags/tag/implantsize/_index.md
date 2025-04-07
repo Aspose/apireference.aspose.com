@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686210 VRLO VM1 Implant Size.
 type: docs
 weight: 19880
-url: /aspose.medical.dicom.tags/tag/implantsize/
+url: /net/aspose.medical.dicom.tags/tag/implantsize/
 ---
 
 ## Tag.ImplantSize field

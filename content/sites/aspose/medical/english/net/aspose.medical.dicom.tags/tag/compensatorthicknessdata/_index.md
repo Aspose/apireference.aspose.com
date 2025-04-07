@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00EC VRDS VM1-n Compensator Thickness Data.
 type: docs
 weight: 6830
-url: /aspose.medical.dicom.tags/tag/compensatorthicknessdata/
+url: /net/aspose.medical.dicom.tags/tag/compensatorthicknessdata/
 ---
 
 ## Tag.CompensatorThicknessData field

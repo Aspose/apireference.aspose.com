@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209167 VRAT VM1 Functional Group Pointer.
 type: docs
 weight: 16860
-url: /aspose.medical.dicom.tags/tag/functionalgrouppointer/
+url: /net/aspose.medical.dicom.tags/tag/functionalgrouppointer/
 ---
 
 ## Tag.FunctionalGroupPointer field

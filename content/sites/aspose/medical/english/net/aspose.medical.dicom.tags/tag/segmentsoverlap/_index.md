@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00620013 VRCS VM1 Segments Overlap.
 type: docs
 weight: 42210
-url: /aspose.medical.dicom.tags/tag/segmentsoverlap/
+url: /net/aspose.medical.dicom.tags/tag/segmentsoverlap/
 ---
 
 ## Tag.SegmentsOverlap field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: FFFEE0DD VRNONE VM1 Sequence Delimitation Item.
 type: docs
 weight: 42810
-url: /aspose.medical.dicom.tags/tag/sequencedelimitationitem/
+url: /net/aspose.medical.dicom.tags/tag/sequencedelimitationitem/
 ---
 
 ## Tag.SequenceDelimitationItem field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A073E VRSQ VM1 Alternate Value Sequence.
 type: docs
 weight: 1390
-url: /aspose.medical.dicom.tags/tag/alternatevaluesequence/
+url: /net/aspose.medical.dicom.tags/tag/alternatevaluesequence/
 ---
 
 ## Tag.AlternateValueSequence field

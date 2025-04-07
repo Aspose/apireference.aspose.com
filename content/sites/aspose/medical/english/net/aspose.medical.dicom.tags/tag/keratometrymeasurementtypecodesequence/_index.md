@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221096 VRSQ VM1 Keratometry Measurement Type Code Sequence.
 type: docs
 weight: 22110
-url: /aspose.medical.dicom.tags/tag/keratometrymeasurementtypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/keratometrymeasurementtypecodesequence/
 ---
 
 ## Tag.KeratometryMeasurementTypeCodeSequence field

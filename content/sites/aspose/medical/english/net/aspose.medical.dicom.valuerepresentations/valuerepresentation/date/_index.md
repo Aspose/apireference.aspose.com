@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Date DA.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/date/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/date/
 ---
 
 ## ValueRepresentation.Date field

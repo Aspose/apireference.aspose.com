@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221463 VRFL VM2 Anatomic Structure Reference Point.
 type: docs
 weight: 1570
-url: /aspose.medical.dicom.tags/tag/anatomicstructurereferencepoint/
+url: /net/aspose.medical.dicom.tags/tag/anatomicstructurereferencepoint/
 ---
 
 ## Tag.AnatomicStructureReferencePoint field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540073 VRDS VM1 Time Slot Time.
 type: docs
 weight: 48500
-url: /aspose.medical.dicom.tags/tag/timeslottime/
+url: /net/aspose.medical.dicom.tags/tag/timeslottime/
 ---
 
 ## Tag.TimeSlotTime field

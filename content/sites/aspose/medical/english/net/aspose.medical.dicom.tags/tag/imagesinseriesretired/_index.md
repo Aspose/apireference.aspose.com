@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00201003 VRIS VM1 Images in Series RETIRED.
 type: docs
 weight: 19560
-url: /aspose.medical.dicom.tags/tag/imagesinseriesretired/
+url: /net/aspose.medical.dicom.tags/tag/imagesinseriesretired/
 ---
 
 ## Tag.ImagesInSeriesRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080014 VRUI VM1 Instance Creator UID.
 type: docs
 weight: 20490
-url: /aspose.medical.dicom.tags/tag/instancecreatoruid/
+url: /net/aspose.medical.dicom.tags/tag/instancecreatoruid/
 ---
 
 ## Tag.InstanceCreatorUID field

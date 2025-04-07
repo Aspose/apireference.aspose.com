@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220003 VRUS VM1 Image Path Filter Pass-Through Wavelength.
 type: docs
 weight: 19330
-url: /aspose.medical.dicom.tags/tag/imagepathfilterpassthroughwavelength/
+url: /net/aspose.medical.dicom.tags/tag/imagepathfilterpassthroughwavelength/
 ---
 
 ## Tag.ImagePathFilterPassThroughWavelength field

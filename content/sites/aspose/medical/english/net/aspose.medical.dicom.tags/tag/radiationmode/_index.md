@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018115A VRCS VM1 Radiation Mode.
 type: docs
 weight: 34420
-url: /aspose.medical.dicom.tags/tag/radiationmode/
+url: /net/aspose.medical.dicom.tags/tag/radiationmode/
 ---
 
 ## Tag.RadiationMode field

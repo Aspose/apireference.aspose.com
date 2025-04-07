@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Well-known SOP Instance Storage Management SOP Instance.
 type: docs
 weight: 4470
-url: /aspose.medical.dicom/uid/storagemanagementsopinstance/
+url: /net/aspose.medical.dicom/uid/storagemanagementsopinstance/
 ---
 
 ## Uid.StorageManagementSOPInstance field

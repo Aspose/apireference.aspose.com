@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189472 VRSQ VM1 Frame Display Shutter Sequence.
 type: docs
 weight: 16550
-url: /aspose.medical.dicom.tags/tag/framedisplayshuttersequence/
+url: /net/aspose.medical.dicom.tags/tag/framedisplayshuttersequence/
 ---
 
 ## Tag.FrameDisplayShutterSequence field

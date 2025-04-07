@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080120 VRSQ VM1 Recorded Brachy Accessory Device Sequence.
 type: docs
 weight: 35760
-url: /aspose.medical.dicom.tags/tag/recordedbrachyaccessorydevicesequence/
+url: /net/aspose.medical.dicom.tags/tag/recordedbrachyaccessorydevicesequence/
 ---
 
 ## Tag.RecordedBrachyAccessoryDeviceSequence field

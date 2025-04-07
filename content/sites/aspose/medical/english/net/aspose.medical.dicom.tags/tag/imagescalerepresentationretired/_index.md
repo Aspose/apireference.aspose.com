@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101075 VRDS VM1 Image Scale Representation RETIRED.
 type: docs
 weight: 19480
-url: /aspose.medical.dicom.tags/tag/imagescalerepresentationretired/
+url: /net/aspose.medical.dicom.tags/tag/imagescalerepresentationretired/
 ---
 
 ## Tag.ImageScaleRepresentationRETIRED field

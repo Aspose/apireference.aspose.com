@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209453 VRLO VM1 Frame Label.
 type: docs
 weight: 16580
-url: /aspose.medical.dicom.tags/tag/framelabel/
+url: /net/aspose.medical.dicom.tags/tag/framelabel/
 ---
 
 ## Tag.FrameLabel field

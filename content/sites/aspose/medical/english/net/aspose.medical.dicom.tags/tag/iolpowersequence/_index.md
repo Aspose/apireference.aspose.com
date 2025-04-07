@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221090 VRSQ VM1 IOL Power Sequence.
 type: docs
 weight: 21460
-url: /aspose.medical.dicom.tags/tag/iolpowersequence/
+url: /net/aspose.medical.dicom.tags/tag/iolpowersequence/
 ---
 
 ## Tag.IOLPowerSequence field

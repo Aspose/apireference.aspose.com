@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281352 VRSQ VM1 Partial View Code Sequence.
 type: docs
 weight: 29620
-url: /aspose.medical.dicom.tags/tag/partialviewcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/partialviewcodesequence/
 ---
 
 ## Tag.PartialViewCodeSequence field

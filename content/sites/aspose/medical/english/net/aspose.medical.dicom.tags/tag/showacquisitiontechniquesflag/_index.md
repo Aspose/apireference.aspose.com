@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720716 VRCS VM1 Show Acquisition Techniques Flag.
 type: docs
 weight: 43310
-url: /aspose.medical.dicom.tags/tag/showacquisitiontechniquesflag/
+url: /net/aspose.medical.dicom.tags/tag/showacquisitiontechniquesflag/
 ---
 
 ## Tag.ShowAcquisitionTechniquesFlag field

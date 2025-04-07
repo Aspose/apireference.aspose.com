@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221054 VRFL VM1 Predicted Refractive Error.
 type: docs
 weight: 32350
-url: /aspose.medical.dicom.tags/tag/predictedrefractiveerror/
+url: /net/aspose.medical.dicom.tags/tag/predictedrefractiveerror/
 ---
 
 ## Tag.PredictedRefractiveError field

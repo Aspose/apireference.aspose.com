@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0192 VRCS VM1 Fixation Device Type.
 type: docs
 weight: 15700
-url: /aspose.medical.dicom.tags/tag/fixationdevicetype/
+url: /net/aspose.medical.dicom.tags/tag/fixationdevicetype/
 ---
 
 ## Tag.FixationDeviceType field

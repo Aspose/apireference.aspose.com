@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280730 VRUS VM1 Adaptive Map Format RETIRED.
 type: docs
 weight: 790
-url: /aspose.medical.dicom.tags/tag/adaptivemapformatretired/
+url: /net/aspose.medical.dicom.tags/tag/adaptivemapformatretired/
 ---
 
 ## Tag.AdaptiveMapFormatRETIRED field

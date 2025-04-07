@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018990D VRSQ VM1 Referenced Performed Protocol Sequence.
 type: docs
 weight: 36920
-url: /aspose.medical.dicom.tags/tag/referencedperformedprotocolsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedperformedprotocolsequence/
 ---
 
 ## Tag.ReferencedPerformedProtocolSequence field

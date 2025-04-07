@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00101022 VRDS VM1 Patients Body Mass Index.
 type: docs
 weight: 29750
-url: /aspose.medical.dicom.tags/tag/patientbodymassindex/
+url: /net/aspose.medical.dicom.tags/tag/patientbodymassindex/
 ---
 
 ## Tag.PatientBodyMassIndex field

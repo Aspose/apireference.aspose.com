@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100071 VRSQ VM1 Referenced Dosimetric Objectives Sequence.
 type: docs
 weight: 36320
-url: /aspose.medical.dicom.tags/tag/referenceddosimetricobjectivessequence/
+url: /net/aspose.medical.dicom.tags/tag/referenceddosimetricobjectivessequence/
 ---
 
 ## Tag.ReferencedDosimetricObjectivesSequence field

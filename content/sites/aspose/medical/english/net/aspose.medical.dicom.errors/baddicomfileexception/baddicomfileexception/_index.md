@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The default constructor.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.errors/baddicomfileexception/baddicomfileexception/
+url: /net/aspose.medical.dicom.errors/baddicomfileexception/baddicomfileexception/
 ---
 
 ## BadDicomFileException() {#constructor}

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/agestring/agestring/
+url: /net/aspose.medical.dicom.elements/agestring/agestring/
 ---
 
 ## AgeString(Tag, Span&lt;string&gt;) {#constructor_2}

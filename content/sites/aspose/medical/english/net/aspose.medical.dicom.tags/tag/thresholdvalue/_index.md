@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701B14 VRFD VM1 Threshold Value.
 type: docs
 weight: 48250
-url: /aspose.medical.dicom.tags/tag/thresholdvalue/
+url: /net/aspose.medical.dicom.tags/tag/thresholdvalue/
 ---
 
 ## Tag.ThresholdValue field

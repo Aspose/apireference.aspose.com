@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100047 VRCS VM1-n Teletherapy Radiation Type.
 type: docs
 weight: 47490
-url: /aspose.medical.dicom.tags/tag/teletherapyradiationtype/
+url: /net/aspose.medical.dicom.tags/tag/teletherapyradiationtype/
 ---
 
 ## Tag.TeletherapyRadiationType field

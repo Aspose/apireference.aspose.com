@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700228 VRCS VM1 Font Name Type.
 type: docs
 weight: 16230
-url: /aspose.medical.dicom.tags/tag/fontnametype/
+url: /net/aspose.medical.dicom.tags/tag/fontnametype/
 ---
 
 ## Tag.FontNameType field

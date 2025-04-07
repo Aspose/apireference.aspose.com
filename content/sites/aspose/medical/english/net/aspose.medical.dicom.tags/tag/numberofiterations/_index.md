@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189739 VRUS VM1 Number of Iterations.
 type: docs
 weight: 26480
-url: /aspose.medical.dicom.tags/tag/numberofiterations/
+url: /net/aspose.medical.dicom.tags/tag/numberofiterations/
 ---
 
 ## Tag.NumberOfIterations field

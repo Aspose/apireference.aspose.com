@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: JPEG XL Lossless 1.2.840.10008.1.2.4.110.
 type: docs
 weight: 440
-url: /aspose.medical.dicom/transfersyntax/jpegxllossless/
+url: /net/aspose.medical.dicom/transfersyntax/jpegxllossless/
 ---
 
 ## TransferSyntax.JpegXLLossless field

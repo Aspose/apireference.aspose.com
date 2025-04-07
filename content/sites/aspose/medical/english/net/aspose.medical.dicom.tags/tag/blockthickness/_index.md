@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0100 VRDS VM1 Block Thickness.
 type: docs
 weight: 4150
-url: /aspose.medical.dicom.tags/tag/blockthickness/
+url: /net/aspose.medical.dicom.tags/tag/blockthickness/
 ---
 
 ## Tag.BlockThickness field

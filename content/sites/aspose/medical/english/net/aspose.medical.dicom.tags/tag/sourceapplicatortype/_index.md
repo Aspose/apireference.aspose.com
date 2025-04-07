@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0292 VRCS VM1 Source Applicator Type.
 type: docs
 weight: 44040
-url: /aspose.medical.dicom.tags/tag/sourceapplicatortype/
+url: /net/aspose.medical.dicom.tags/tag/sourceapplicatortype/
 ---
 
 ## Tag.SourceApplicatorType field

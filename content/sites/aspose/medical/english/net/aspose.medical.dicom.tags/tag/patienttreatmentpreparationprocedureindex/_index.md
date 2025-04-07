@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0795 VRUS VM1 Patient Treatment Preparation Procedure Index.
 type: docs
 weight: 30470
-url: /aspose.medical.dicom.tags/tag/patienttreatmentpreparationprocedureindex/
+url: /net/aspose.medical.dicom.tags/tag/patienttreatmentpreparationprocedureindex/
 ---
 
 ## Tag.PatientTreatmentPreparationProcedureIndex field

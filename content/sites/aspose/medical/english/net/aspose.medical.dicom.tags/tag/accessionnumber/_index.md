@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080050 VRSH VM1 Accession Number.
 type: docs
 weight: 90
-url: /aspose.medical.dicom.tags/tag/accessionnumber/
+url: /net/aspose.medical.dicom.tags/tag/accessionnumber/
 ---
 
 ## Tag.AccessionNumber field

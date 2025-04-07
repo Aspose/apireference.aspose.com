@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180010 VRLO VM1 Contrast/Bolus Agent.
 type: docs
 weight: 8200
-url: /aspose.medical.dicom.tags/tag/contrastbolusagent/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolusagent/
 ---
 
 ## Tag.ContrastBolusAgent field

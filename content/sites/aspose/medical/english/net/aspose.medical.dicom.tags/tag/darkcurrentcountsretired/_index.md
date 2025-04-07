@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143050 VROB or OW VM1 Dark Current Counts RETIRED.
 type: docs
 weight: 9710
-url: /aspose.medical.dicom.tags/tag/darkcurrentcountsretired/
+url: /net/aspose.medical.dicom.tags/tag/darkcurrentcountsretired/
 ---
 
 ## Tag.DarkCurrentCountsRETIRED field

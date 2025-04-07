@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700001 VRSQ VM1 Graphic Annotation Sequence.
 type: docs
 weight: 17760
-url: /aspose.medical.dicom.tags/tag/graphicannotationsequence/
+url: /net/aspose.medical.dicom.tags/tag/graphicannotationsequence/
 ---
 
 ## Tag.GraphicAnnotationSequence field

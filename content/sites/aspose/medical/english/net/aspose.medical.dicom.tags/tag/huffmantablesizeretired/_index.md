@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 1000xxx2 VRUS VM1 Huffman Table Size RETIRED.
 type: docs
 weight: 18650
-url: /aspose.medical.dicom.tags/tag/huffmantablesizeretired/
+url: /net/aspose.medical.dicom.tags/tag/huffmantablesizeretired/
 ---
 
 ## Tag.HuffmanTableSizeRETIRED field

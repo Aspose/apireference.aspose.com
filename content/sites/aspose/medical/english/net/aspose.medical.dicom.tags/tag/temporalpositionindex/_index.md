@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209128 VRUL VM1 Temporal Position Index.
 type: docs
 weight: 47610
-url: /aspose.medical.dicom.tags/tag/temporalpositionindex/
+url: /net/aspose.medical.dicom.tags/tag/temporalpositionindex/
 ---
 
 ## Tag.TemporalPositionIndex field

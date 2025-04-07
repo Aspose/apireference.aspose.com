@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx2500 VRLO VM1 Curve Label RETIRED.
 type: docs
 weight: 9520
-url: /aspose.medical.dicom.tags/tag/curvelabelretired/
+url: /net/aspose.medical.dicom.tags/tag/curvelabelretired/
 ---
 
 ## Tag.CurveLabelRETIRED field

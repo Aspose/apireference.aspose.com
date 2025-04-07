@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081062 VRSQ VM1 Physicians Reading Study Identification Sequence.
 type: docs
 weight: 31300
-url: /aspose.medical.dicom.tags/tag/physiciansreadingstudyidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/physiciansreadingstudyidentificationsequence/
 ---
 
 ## Tag.PhysiciansReadingStudyIdentificationSequence field

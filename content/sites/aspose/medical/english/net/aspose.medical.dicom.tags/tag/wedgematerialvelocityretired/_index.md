@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014510A VRDS VM1 Wedge Material Velocity RETIRED.
 type: docs
 weight: 52220
-url: /aspose.medical.dicom.tags/tag/wedgematerialvelocityretired/
+url: /net/aspose.medical.dicom.tags/tag/wedgematerialvelocityretired/
 ---
 
 ## Tag.WedgeMaterialVelocityRETIRED field

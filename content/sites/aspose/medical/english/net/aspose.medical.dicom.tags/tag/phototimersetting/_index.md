@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187065 VRDS VM1 Phototimer Setting.
 type: docs
 weight: 31210
-url: /aspose.medical.dicom.tags/tag/phototimersetting/
+url: /net/aspose.medical.dicom.tags/tag/phototimersetting/
 ---
 
 ## Tag.PhototimerSetting field

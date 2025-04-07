@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0344 VRIS VM1 Range Modulator Number.
 type: docs
 weight: 34860
-url: /aspose.medical.dicom.tags/tag/rangemodulatornumber/
+url: /net/aspose.medical.dicom.tags/tag/rangemodulatornumber/
 ---
 
 ## Tag.RangeModulatorNumber field

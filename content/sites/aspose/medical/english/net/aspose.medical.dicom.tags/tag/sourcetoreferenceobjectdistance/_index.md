@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020028 VRDS VM1 Source to Reference Object Distance.
 type: docs
 weight: 44630
-url: /aspose.medical.dicom.tags/tag/sourcetoreferenceobjectdistance/
+url: /net/aspose.medical.dicom.tags/tag/sourcetoreferenceobjectdistance/
 ---
 
 ## Tag.SourceToReferenceObjectDistance field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660134 VRSQ VM1 Diffusion Model Code Sequence.
 type: docs
 weight: 11730
-url: /aspose.medical.dicom.tags/tag/diffusionmodelcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/diffusionmodelcodesequence/
 ---
 
 ## Tag.DiffusionModelCodeSequence field

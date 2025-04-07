@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000900 VRUS VM1 Status.
 type: docs
 weight: 45450
-url: /aspose.medical.dicom.tags/tag/status/
+url: /net/aspose.medical.dicom.tags/tag/status/
 ---
 
 ## Tag.Status field

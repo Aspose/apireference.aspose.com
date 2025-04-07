@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189312 VRSQ VM1 CT Geometry Sequence.
 type: docs
 weight: 9250
-url: /aspose.medical.dicom.tags/tag/ctgeometrysequence/
+url: /net/aspose.medical.dicom.tags/tag/ctgeometrysequence/
 ---
 
 ## Tag.CTGeometrySequence field

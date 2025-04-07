@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189061 VRFD VM1-2 De-coupling Frequency.
 type: docs
 weight: 10340
-url: /aspose.medical.dicom.tags/tag/decouplingfrequency/
+url: /net/aspose.medical.dicom.tags/tag/decouplingfrequency/
 ---
 
 ## Tag.DecouplingFrequency field

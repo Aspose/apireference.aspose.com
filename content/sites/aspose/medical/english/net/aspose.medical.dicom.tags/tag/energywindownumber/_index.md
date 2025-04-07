@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540308 VRUS VM1 Energy Window Number.
 type: docs
 weight: 13680
-url: /aspose.medical.dicom.tags/tag/energywindownumber/
+url: /net/aspose.medical.dicom.tags/tag/energywindownumber/
 ---
 
 ## Tag.EnergyWindowNumber field

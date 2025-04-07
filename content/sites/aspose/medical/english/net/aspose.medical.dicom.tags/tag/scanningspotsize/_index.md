@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0398 VRFL VM2 Scanning Spot Size.
 type: docs
 weight: 41040
-url: /aspose.medical.dicom.tags/tag/scanningspotsize/
+url: /net/aspose.medical.dicom.tags/tag/scanningspotsize/
 ---
 
 ## Tag.ScanningSpotSize field

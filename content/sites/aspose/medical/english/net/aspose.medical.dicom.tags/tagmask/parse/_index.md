@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Converts the string representation of a masked tag in to its typed equivalent.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.tags/tagmask/parse/
+url: /net/aspose.medical.dicom.tags/tagmask/parse/
 ---
 
 ## TagMask.Parse method

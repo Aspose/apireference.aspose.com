@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Variable Modality LUT Softcopy Presentation State Storage.
 type: docs
 weight: 4910
-url: /aspose.medical.dicom/uid/variablemodalitylutsoftcopypresentationstatestorage/
+url: /net/aspose.medical.dicom/uid/variablemodalitylutsoftcopypresentationstatestorage/
 ---
 
 ## Uid.VariableModalityLUTSoftcopyPresentationStateStorage field

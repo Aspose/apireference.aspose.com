@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209056 VRSH VM1 Stack ID.
 type: docs
 weight: 45240
-url: /aspose.medical.dicom.tags/tag/stackid/
+url: /net/aspose.medical.dicom.tags/tag/stackid/
 ---
 
 ## Tag.StackID field

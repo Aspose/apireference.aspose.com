@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041212 VRUS VM1 File-set Consistency Flag.
 type: docs
 weight: 15130
-url: /aspose.medical.dicom.tags/tag/filesetconsistencyflag/
+url: /net/aspose.medical.dicom.tags/tag/filesetconsistencyflag/
 ---
 
 ## Tag.FileSetConsistencyFlag field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100055 VRSQ VM1 RT Physician Intent Predecessor Sequence.
 type: docs
 weight: 40300
-url: /aspose.medical.dicom.tags/tag/rtphysicianintentpredecessorsequence/
+url: /net/aspose.medical.dicom.tags/tag/rtphysicianintentpredecessorsequence/
 ---
 
 ## Tag.RTPhysicianIntentPredecessorSequence field

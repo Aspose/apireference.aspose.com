@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289445 VRFL VM1 Geometric Maximum Distortion.
 type: docs
 weight: 17330
-url: /aspose.medical.dicom.tags/tag/geometricmaximumdistortion/
+url: /net/aspose.medical.dicom.tags/tag/geometricmaximumdistortion/
 ---
 
 ## Tag.GeometricMaximumDistortion field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0797 VRSQ VM1 RT Radiation Task Sequence.
 type: docs
 weight: 40500
-url: /aspose.medical.dicom.tags/tag/rtradiationtasksequence/
+url: /net/aspose.medical.dicom.tags/tag/rtradiationtasksequence/
 ---
 
 ## Tag.RTRadiationTaskSequence field

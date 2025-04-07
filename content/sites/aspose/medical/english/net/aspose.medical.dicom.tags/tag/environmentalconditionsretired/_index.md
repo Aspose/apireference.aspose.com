@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00141040 VRST VM1 Environmental Conditions RETIRED.
 type: docs
 weight: 13840
-url: /aspose.medical.dicom.tags/tag/environmentalconditionsretired/
+url: /net/aspose.medical.dicom.tags/tag/environmentalconditionsretired/
 ---
 
 ## Tag.EnvironmentalConditionsRETIRED field

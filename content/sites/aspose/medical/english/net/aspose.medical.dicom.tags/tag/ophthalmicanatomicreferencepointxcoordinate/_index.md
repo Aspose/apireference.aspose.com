@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221624 VRFL VM1 Ophthalmic Anatomic Reference Point X-Coordinate.
 type: docs
 weight: 27830
-url: /aspose.medical.dicom.tags/tag/ophthalmicanatomicreferencepointxcoordinate/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicanatomicreferencepointxcoordinate/
 ---
 
 ## Tag.OphthalmicAnatomicReferencePointXCoordinate field

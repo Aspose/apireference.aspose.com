@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240117 VRCS VM1 Foveal Point Normative Data Flag.
 type: docs
 weight: 16260
-url: /aspose.medical.dicom.tags/tag/fovealpointnormativedataflag/
+url: /net/aspose.medical.dicom.tags/tag/fovealpointnormativedataflag/
 ---
 
 ## Tag.FovealPointNormativeDataFlag field

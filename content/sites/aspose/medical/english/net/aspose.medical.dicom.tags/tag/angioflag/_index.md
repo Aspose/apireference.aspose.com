@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180025 VRCS VM1 Angio Flag.
 type: docs
 weight: 1650
-url: /aspose.medical.dicom.tags/tag/angioflag/
+url: /net/aspose.medical.dicom.tags/tag/angioflag/
 ---
 
 ## Tag.AngioFlag field

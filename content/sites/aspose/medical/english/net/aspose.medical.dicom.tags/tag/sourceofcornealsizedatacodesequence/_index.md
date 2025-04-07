@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221036 VRSQ VM1 Source of Corneal Size Data Code Sequence.
 type: docs
 weight: 44320
-url: /aspose.medical.dicom.tags/tag/sourceofcornealsizedatacodesequence/
+url: /net/aspose.medical.dicom.tags/tag/sourceofcornealsizedatacodesequence/
 ---
 
 ## Tag.SourceOfCornealSizeDataCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Indicated whether the transfer syntax data representation is encapsulated. Read-only Boolean.
 type: docs
 weight: 610
-url: /aspose.medical.dicom/transfersyntax/isencapsulated/
+url: /net/aspose.medical.dicom/transfersyntax/isencapsulated/
 ---
 
 ## TransferSyntax.IsEncapsulated property

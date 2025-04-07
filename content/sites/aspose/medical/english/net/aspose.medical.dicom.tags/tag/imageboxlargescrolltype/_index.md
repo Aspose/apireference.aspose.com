@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720316 VRCS VM1 Image Box Large Scroll Type.
 type: docs
 weight: 18920
-url: /aspose.medical.dicom.tags/tag/imageboxlargescrolltype/
+url: /net/aspose.medical.dicom.tags/tag/imageboxlargescrolltype/
 ---
 
 ## Tag.ImageBoxLargeScrollType field

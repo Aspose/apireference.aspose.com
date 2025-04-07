@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0038001D VRTM VM1 Scheduled Discharge Time RETIRED.
 type: docs
 weight: 41300
-url: /aspose.medical.dicom.tags/tag/scheduleddischargetimeretired/
+url: /net/aspose.medical.dicom.tags/tag/scheduleddischargetimeretired/
 ---
 
 ## Tag.ScheduledDischargeTimeRETIRED field

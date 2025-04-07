@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082129 VRIS VM1 Number of Event Timers.
 type: docs
 weight: 26290
-url: /aspose.medical.dicom.tags/tag/numberofeventtimers/
+url: /net/aspose.medical.dicom.tags/tag/numberofeventtimers/
 ---
 
 ## Tag.NumberOfEventTimers field

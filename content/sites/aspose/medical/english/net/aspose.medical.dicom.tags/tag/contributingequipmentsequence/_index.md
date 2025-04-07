@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018A001 VRSQ VM1 Contributing Equipment Sequence.
 type: docs
 weight: 8440
-url: /aspose.medical.dicom.tags/tag/contributingequipmentsequence/
+url: /net/aspose.medical.dicom.tags/tag/contributingequipmentsequence/
 ---
 
 ## Tag.ContributingEquipmentSequence field

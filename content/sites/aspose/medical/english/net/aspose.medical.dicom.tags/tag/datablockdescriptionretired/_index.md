@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280701 VRCS VM1-n Data Block Description RETIRED.
 type: docs
 weight: 9730
-url: /aspose.medical.dicom.tags/tag/datablockdescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/datablockdescriptionretired/
 ---
 
 ## Tag.DataBlockDescriptionRETIRED field

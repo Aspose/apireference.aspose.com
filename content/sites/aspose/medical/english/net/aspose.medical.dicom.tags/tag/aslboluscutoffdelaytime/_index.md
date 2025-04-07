@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018925F VRUL VM1 ASL Bolus Cut-off Delay Time.
 type: docs
 weight: 2350
-url: /aspose.medical.dicom.tags/tag/aslboluscutoffdelaytime/
+url: /net/aspose.medical.dicom.tags/tag/aslboluscutoffdelaytime/
 ---
 
 ## Tag.ASLBolusCutoffDelayTime field

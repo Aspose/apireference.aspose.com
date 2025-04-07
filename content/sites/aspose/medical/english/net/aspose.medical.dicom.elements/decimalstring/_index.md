@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Decimal String DS VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextDS-Decimal20String-A20string20of.
 type: docs
 weight: 210
-url: /aspose.medical.dicom.elements/decimalstring/
+url: /net/aspose.medical.dicom.elements/decimalstring/
 ---
 
 ## DecimalString class

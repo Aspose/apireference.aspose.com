@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100038 VRLO VM1 Entity Long Label.
 type: docs
 weight: 13790
-url: /aspose.medical.dicom.tags/tag/entitylonglabel/
+url: /net/aspose.medical.dicom.tags/tag/entitylonglabel/
 ---
 
 ## Tag.EntityLongLabel field

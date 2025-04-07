@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020112 VRSQ VM1 Imaging Device Location Matrix Sequence.
 type: docs
 weight: 19660
-url: /aspose.medical.dicom.tags/tag/imagingdevicelocationmatrixsequence/
+url: /net/aspose.medical.dicom.tags/tag/imagingdevicelocationmatrixsequence/
 ---
 
 ## Tag.ImagingDeviceLocationMatrixSequence field

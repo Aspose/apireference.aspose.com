@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00286010 VRUS VM1 Representative Frame Number.
 type: docs
 weight: 38600
-url: /aspose.medical.dicom.tags/tag/representativeframenumber/
+url: /net/aspose.medical.dicom.tags/tag/representativeframenumber/
 ---
 
 ## Tag.RepresentativeFrameNumber field

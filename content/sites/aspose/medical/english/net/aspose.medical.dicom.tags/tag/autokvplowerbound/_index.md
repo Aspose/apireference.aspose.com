@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189946 VRFD VM1 Auto KVP Lower Bound.
 type: docs
 weight: 2920
-url: /aspose.medical.dicom.tags/tag/autokvplowerbound/
+url: /net/aspose.medical.dicom.tags/tag/autokvplowerbound/
 ---
 
 ## Tag.AutoKVPLowerBound field

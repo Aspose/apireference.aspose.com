@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100102 VRSQ VM1 Patients Primary Language Modifier Code Sequence.
 type: docs
 weight: 30050
-url: /aspose.medical.dicom.tags/tag/patientprimarylanguagemodifiercodesequence/
+url: /net/aspose.medical.dicom.tags/tag/patientprimarylanguagemodifiercodesequence/
 ---
 
 ## Tag.PatientPrimaryLanguageModifierCodeSequence field

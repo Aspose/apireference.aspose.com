@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The blue component.
 type: docs
 weight: 80
-url: /aspose.medical.imaging.pixelformats/bgra32/b/
+url: /net/aspose.medical.imaging.pixelformats/bgra32/b/
 ---
 
 ## Bgra32.B field

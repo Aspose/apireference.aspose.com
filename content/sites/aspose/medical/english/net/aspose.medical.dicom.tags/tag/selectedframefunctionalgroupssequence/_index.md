@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020101 VRSQ VM1 Selected Frame Functional Groups Sequence.
 type: docs
 weight: 42240
-url: /aspose.medical.dicom.tags/tag/selectedframefunctionalgroupssequence/
+url: /net/aspose.medical.dicom.tags/tag/selectedframefunctionalgroupssequence/
 ---
 
 ## Tag.SelectedFrameFunctionalGroupsSequence field

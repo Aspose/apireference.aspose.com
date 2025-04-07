@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701B03 VRSQ VM1 Blending Display Input Sequence.
 type: docs
 weight: 3800
-url: /aspose.medical.dicom.tags/tag/blendingdisplayinputsequence/
+url: /net/aspose.medical.dicom.tags/tag/blendingdisplayinputsequence/
 ---
 
 ## Tag.BlendingDisplayInputSequence field

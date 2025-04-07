@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040070 VRDS VM1 DVH Minimum Dose.
 type: docs
 weight: 13100
-url: /aspose.medical.dicom.tags/tag/dvhminimumdose/
+url: /net/aspose.medical.dicom.tags/tag/dvhminimumdose/
 ---
 
 ## Tag.DVHMinimumDose field

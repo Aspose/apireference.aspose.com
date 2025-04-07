@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701602 VRCS VM1 Render Projection.
 type: docs
 weight: 38430
-url: /aspose.medical.dicom.tags/tag/renderprojection/
+url: /net/aspose.medical.dicom.tags/tag/renderprojection/
 ---
 
 ## Tag.RenderProjection field

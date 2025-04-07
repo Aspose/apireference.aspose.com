@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Well-known SOP Instance Storage Commitment Push Model SOP Instance.
 type: docs
 weight: 4460
-url: /aspose.medical.dicom/uid/storagecommitmentpushmodelsopinstance/
+url: /net/aspose.medical.dicom/uid/storagecommitmentpushmodelsopinstance/
 ---
 
 ## Uid.StorageCommitmentPushModelSOPInstance field

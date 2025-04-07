@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Fuji CR Image Storage.
 type: docs
 weight: 3210
-url: /aspose.medical.dicom/uid/privatefujicrimagestorage/
+url: /net/aspose.medical.dicom/uid/privatefujicrimagestorage/
 ---
 
 ## Uid.PrivateFujiCrImageStorage field

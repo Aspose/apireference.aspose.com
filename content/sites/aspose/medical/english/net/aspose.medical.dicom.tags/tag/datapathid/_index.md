@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028140E VRCS VM1 Data Path ID.
 type: docs
 weight: 9900
-url: /aspose.medical.dicom.tags/tag/datapathid/
+url: /net/aspose.medical.dicom.tags/tag/datapathid/
 ---
 
 ## Tag.DataPathID field

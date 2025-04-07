@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221466 VRCS VM1 Registered Localizer Units.
 type: docs
 weight: 38130
-url: /aspose.medical.dicom.tags/tag/registeredlocalizerunits/
+url: /net/aspose.medical.dicom.tags/tag/registeredlocalizerunits/
 ---
 
 ## Tag.RegisteredLocalizerUnits field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018982B VRFD VM1 Acoustic Coupling Medium Temperature.
 type: docs
 weight: 140
-url: /aspose.medical.dicom.tags/tag/acousticcouplingmediumtemperature/
+url: /net/aspose.medical.dicom.tags/tag/acousticcouplingmediumtemperature/
 ---
 
 ## Tag.AcousticCouplingMediumTemperature field

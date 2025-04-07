@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081070 VRPN VM1-n Operators Name.
 type: docs
 weight: 27790
-url: /aspose.medical.dicom.tags/tag/operatorsname/
+url: /net/aspose.medical.dicom.tags/tag/operatorsname/
 ---
 
 ## Tag.OperatorsName field

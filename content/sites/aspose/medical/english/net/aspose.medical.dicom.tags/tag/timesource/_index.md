@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181801 VRSH VM1 Time Source.
 type: docs
 weight: 48520
-url: /aspose.medical.dicom.tags/tag/timesource/
+url: /net/aspose.medical.dicom.tags/tag/timesource/
 ---
 
 ## Tag.TimeSource field

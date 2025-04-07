@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00500010 VRSQ VM1 Device Sequence.
 type: docs
 weight: 11440
-url: /aspose.medical.dicom.tags/tag/devicesequence/
+url: /net/aspose.medical.dicom.tags/tag/devicesequence/
 ---
 
 ## Tag.DeviceSequence field

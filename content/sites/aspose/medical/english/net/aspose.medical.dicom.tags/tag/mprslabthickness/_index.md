@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701503 VRFD VM1 MPR Slab Thickness.
 type: docs
 weight: 25060
-url: /aspose.medical.dicom.tags/tag/mprslabthickness/
+url: /net/aspose.medical.dicom.tags/tag/mprslabthickness/
 ---
 
 ## Tag.MPRSlabThickness field

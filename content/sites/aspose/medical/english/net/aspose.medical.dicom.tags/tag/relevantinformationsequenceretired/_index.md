@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404022 VRSQ VM1 Relevant Information Sequence RETIRED.
 type: docs
 weight: 38370
-url: /aspose.medical.dicom.tags/tag/relevantinformationsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/relevantinformationsequenceretired/
 ---
 
 ## Tag.RelevantInformationSequenceRETIRED field

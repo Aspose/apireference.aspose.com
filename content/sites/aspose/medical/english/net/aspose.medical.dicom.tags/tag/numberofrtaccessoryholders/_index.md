@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0670 VRUS VM1 Number of RT Accessory Holders.
 type: docs
 weight: 26780
-url: /aspose.medical.dicom.tags/tag/numberofrtaccessoryholders/
+url: /net/aspose.medical.dicom.tags/tag/numberofrtaccessoryholders/
 ---
 
 ## Tag.NumberOfRTAccessoryHolders field

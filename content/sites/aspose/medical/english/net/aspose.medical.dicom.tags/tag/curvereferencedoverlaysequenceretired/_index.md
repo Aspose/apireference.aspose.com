@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx2600 VRSQ VM1 Curve Referenced Overlay Sequence RETIRED.
 type: docs
 weight: 9560
-url: /aspose.medical.dicom.tags/tag/curvereferencedoverlaysequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/curvereferencedoverlaysequenceretired/
 ---
 
 ## Tag.CurveReferencedOverlaySequenceRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 200000A0 VRUS VM1 Memory Bit Depth.
 type: docs
 weight: 24400
-url: /aspose.medical.dicom.tags/tag/memorybitdepth/
+url: /net/aspose.medical.dicom.tags/tag/memorybitdepth/
 ---
 
 ## Tag.MemoryBitDepth field

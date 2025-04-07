@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701802 VRCS VM1 Component Type.
 type: docs
 weight: 7040
-url: /aspose.medical.dicom.tags/tag/componenttype/
+url: /net/aspose.medical.dicom.tags/tag/componenttype/
 ---
 
 ## Tag.ComponentType field

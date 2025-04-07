@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Enhanced RT Image Storage.
 type: docs
 weight: 1450
-url: /aspose.medical.dicom/uid/enhancedrtimagestorage/
+url: /net/aspose.medical.dicom/uid/enhancedrtimagestorage/
 ---
 
 ## Uid.EnhancedRTImageStorage field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0610 VRSQ VM1 RT Accessory Holder Slot Sequence.
 type: docs
 weight: 39900
-url: /aspose.medical.dicom.tags/tag/rtaccessoryholderslotsequence/
+url: /net/aspose.medical.dicom.tags/tag/rtaccessoryholderslotsequence/
 ---
 
 ## Tag.RTAccessoryHolderSlotSequence field

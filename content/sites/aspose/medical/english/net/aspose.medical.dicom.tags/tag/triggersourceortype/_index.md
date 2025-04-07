@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181061 VRLO VM1 Trigger Source or Type.
 type: docs
 weight: 50050
-url: /aspose.medical.dicom.tags/tag/triggersourceortype/
+url: /net/aspose.medical.dicom.tags/tag/triggersourceortype/
 ---
 
 ## Tag.TriggerSourceOrType field

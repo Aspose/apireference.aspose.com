@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00384000 VRLT VM1 Visit Comments.
 type: docs
 weight: 51290
-url: /aspose.medical.dicom.tags/tag/visitcomments/
+url: /net/aspose.medical.dicom.tags/tag/visitcomments/
 ---
 
 ## Tag.VisitComments field

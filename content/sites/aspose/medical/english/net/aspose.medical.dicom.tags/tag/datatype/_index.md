@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189808 VRCS VM1 Data Type.
 type: docs
 weight: 10020
-url: /aspose.medical.dicom.tags/tag/datatype/
+url: /net/aspose.medical.dicom.tags/tag/datatype/
 ---
 
 ## Tag.DataType field

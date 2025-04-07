@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100213 VRLO VM1 Strain Nomenclature.
 type: docs
 weight: 45760
-url: /aspose.medical.dicom.tags/tag/strainnomenclature/
+url: /net/aspose.medical.dicom.tags/tag/strainnomenclature/
 ---
 
 ## Tag.StrainNomenclature field

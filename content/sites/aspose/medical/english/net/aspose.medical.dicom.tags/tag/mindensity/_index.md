@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100120 VRUS VM1 Min Density.
 type: docs
 weight: 24560
-url: /aspose.medical.dicom.tags/tag/mindensity/
+url: /net/aspose.medical.dicom.tags/tag/mindensity/
 ---
 
 ## Tag.MinDensity field

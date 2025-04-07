@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0660 VRSQ VM1 Patient Support Position Device Tolerance Sequence.
 type: docs
 weight: 30290
-url: /aspose.medical.dicom.tags/tag/patientsupportpositiondevicetolerancesequence/
+url: /net/aspose.medical.dicom.tags/tag/patientsupportpositiondevicetolerancesequence/
 ---
 
 ## Tag.PatientSupportPositionDeviceToleranceSequence field

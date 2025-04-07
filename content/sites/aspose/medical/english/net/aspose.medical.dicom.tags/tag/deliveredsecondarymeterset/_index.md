@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080037 VRDS VM1 Delivered Secondary Meterset.
 type: docs
 weight: 10630
-url: /aspose.medical.dicom.tags/tag/deliveredsecondarymeterset/
+url: /net/aspose.medical.dicom.tags/tag/deliveredsecondarymeterset/
 ---
 
 ## Tag.DeliveredSecondaryMeterset field

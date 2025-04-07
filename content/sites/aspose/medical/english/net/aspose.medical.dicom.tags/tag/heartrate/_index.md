@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181088 VRIS VM1 Heart Rate.
 type: docs
 weight: 18280
-url: /aspose.medical.dicom.tags/tag/heartrate/
+url: /net/aspose.medical.dicom.tags/tag/heartrate/
 ---
 
 ## Tag.HeartRate field

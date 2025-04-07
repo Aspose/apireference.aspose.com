@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181019 VRLO VM1-n Secondary Capture Device Software Versions.
 type: docs
 weight: 41800
-url: /aspose.medical.dicom.tags/tag/secondarycapturedevicesoftwareversions/
+url: /net/aspose.medical.dicom.tags/tag/secondarycapturedevicesoftwareversions/
 ---
 
 ## Tag.SecondaryCaptureDeviceSoftwareVersions field

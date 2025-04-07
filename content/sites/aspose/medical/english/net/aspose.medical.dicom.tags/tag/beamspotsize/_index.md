@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520003 VRFD VM1 Beam Spot Size.
 type: docs
 weight: 3620
-url: /aspose.medical.dicom.tags/tag/beamspotsize/
+url: /net/aspose.medical.dicom.tags/tag/beamspotsize/
 ---
 
 ## Tag.BeamSpotSize field

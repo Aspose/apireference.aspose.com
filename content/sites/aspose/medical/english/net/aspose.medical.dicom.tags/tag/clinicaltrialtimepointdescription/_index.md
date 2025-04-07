@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120051 VRST VM1 Clinical Trial Time Point Description.
 type: docs
 weight: 6020
-url: /aspose.medical.dicom.tags/tag/clinicaltrialtimepointdescription/
+url: /net/aspose.medical.dicom.tags/tag/clinicaltrialtimepointdescription/
 ---
 
 ## Tag.ClinicalTrialTimePointDescription field

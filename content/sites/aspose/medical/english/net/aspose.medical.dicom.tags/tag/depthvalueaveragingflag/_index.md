@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0093 VRCS VM1 Depth Value Averaging Flag.
 type: docs
 weight: 10770
-url: /aspose.medical.dicom.tags/tag/depthvalueaveragingflag/
+url: /net/aspose.medical.dicom.tags/tag/depthvalueaveragingflag/
 ---
 
 ## Tag.DepthValueAveragingFlag field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160062 VROB VM1 Interoperability Version.
 type: docs
 weight: 20910
-url: /aspose.medical.dicom.tags/tag/interoperabilityversion/
+url: /net/aspose.medical.dicom.tags/tag/interoperabilityversion/
 ---
 
 ## Tag.InteroperabilityVersion field

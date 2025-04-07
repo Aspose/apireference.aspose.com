@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181302 VRIS VM1 Scan Length.
 type: docs
 weight: 41000
-url: /aspose.medical.dicom.tags/tag/scanlength/
+url: /net/aspose.medical.dicom.tags/tag/scanlength/
 ---
 
 ## Tag.ScanLength field

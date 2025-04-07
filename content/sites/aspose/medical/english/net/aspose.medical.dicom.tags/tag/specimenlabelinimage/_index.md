@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480010 VRCS VM1 Specimen Label in Image.
 type: docs
 weight: 45010
-url: /aspose.medical.dicom.tags/tag/specimenlabelinimage/
+url: /net/aspose.medical.dicom.tags/tag/specimenlabelinimage/
 ---
 
 ## Tag.SpecimenLabelInImage field

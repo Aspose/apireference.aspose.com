@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160013 VRUS VM1 Flash Mode.
 type: docs
 weight: 15860
-url: /aspose.medical.dicom.tags/tag/flashmode/
+url: /net/aspose.medical.dicom.tags/tag/flashmode/
 ---
 
 ## Tag.FlashMode field

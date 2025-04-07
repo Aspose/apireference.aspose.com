@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100219 VRSQ VM1 Strain Code Sequence.
 type: docs
 weight: 45740
-url: /aspose.medical.dicom.tags/tag/straincodesequence/
+url: /net/aspose.medical.dicom.tags/tag/straincodesequence/
 ---
 
 ## Tag.StrainCodeSequence field

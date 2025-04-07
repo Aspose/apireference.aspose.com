@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0005 VRUS VM1 Number of Waveform Channels.
 type: docs
 weight: 27130
-url: /aspose.medical.dicom.tags/tag/numberofwaveformchannels/
+url: /net/aspose.medical.dicom.tags/tag/numberofwaveformchannels/
 ---
 
 ## Tag.NumberOfWaveformChannels field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014408B VRDS VM1 User Selected Gain Y RETIRED.
 type: docs
 weight: 50630
-url: /aspose.medical.dicom.tags/tag/userselectedgainyretired/
+url: /net/aspose.medical.dicom.tags/tag/userselectedgainyretired/
 ---
 
 ## Tag.UserSelectedGainYRETIRED field

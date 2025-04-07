@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221467 VRFL VM2 Registered Localizer Top Left Hand Corner.
 type: docs
 weight: 38120
-url: /aspose.medical.dicom.tags/tag/registeredlocalizertoplefthandcorner/
+url: /net/aspose.medical.dicom.tags/tag/registeredlocalizertoplefthandcorner/
 ---
 
 ## Tag.RegisteredLocalizerTopLeftHandCorner field

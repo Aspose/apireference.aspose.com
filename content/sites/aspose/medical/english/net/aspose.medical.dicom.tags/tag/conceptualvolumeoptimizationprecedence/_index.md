@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100066 VRUS VM1 Conceptual Volume Optimization Precedence.
 type: docs
 weight: 7380
-url: /aspose.medical.dicom.tags/tag/conceptualvolumeoptimizationprecedence/
+url: /net/aspose.medical.dicom.tags/tag/conceptualvolumeoptimizationprecedence/
 ---
 
 ## Tag.ConceptualVolumeOptimizationPrecedence field

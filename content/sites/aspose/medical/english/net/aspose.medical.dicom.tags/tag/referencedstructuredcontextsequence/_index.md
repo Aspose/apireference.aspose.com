@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701903 VRSQ VM1 Referenced Structured Context Sequence.
 type: docs
 weight: 37490
-url: /aspose.medical.dicom.tags/tag/referencedstructuredcontextsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedstructuredcontextsequence/
 ---
 
 ## Tag.ReferencedStructuredContextSequence field

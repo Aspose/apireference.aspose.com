@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160008 VRUC VM1-n OECF Column Names.
 type: docs
 weight: 27510
-url: /aspose.medical.dicom.tags/tag/oecfcolumnnames/
+url: /net/aspose.medical.dicom.tags/tag/oecfcolumnnames/
 ---
 
 ## Tag.OECFColumnNames field

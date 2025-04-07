@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287017 VRUS VM1 DDL Value.
 type: docs
 weight: 10160
-url: /aspose.medical.dicom.tags/tag/ddlvalue/
+url: /net/aspose.medical.dicom.tags/tag/ddlvalue/
 ---
 
 ## Tag.DDLValue field

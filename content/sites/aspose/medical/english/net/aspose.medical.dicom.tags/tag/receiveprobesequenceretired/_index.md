@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144086 VRSQ VM1 Receive Probe Sequence RETIRED.
 type: docs
 weight: 35290
-url: /aspose.medical.dicom.tags/tag/receiveprobesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/receiveprobesequenceretired/
 ---
 
 ## Tag.ReceiveProbeSequenceRETIRED field

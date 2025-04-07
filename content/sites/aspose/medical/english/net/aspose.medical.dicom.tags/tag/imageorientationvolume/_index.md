@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209302 VRFD VM6 Image Orientation Volume.
 type: docs
 weight: 19290
-url: /aspose.medical.dicom.tags/tag/imageorientationvolume/
+url: /net/aspose.medical.dicom.tags/tag/imageorientationvolume/
 ---
 
 ## Tag.ImageOrientationVolume field

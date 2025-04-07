@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0115 VRFL VM1 Total Prescription Dose.
 type: docs
 weight: 48990
-url: /aspose.medical.dicom.tags/tag/totalprescriptiondose/
+url: /net/aspose.medical.dicom.tags/tag/totalprescriptiondose/
 ---
 
 ## Tag.TotalPrescriptionDose field

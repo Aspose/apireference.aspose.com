@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189402 VRFL VM1 Distance Source to Isocenter.
 type: docs
 weight: 12430
-url: /aspose.medical.dicom.tags/tag/distancesourcetoisocenter/
+url: /net/aspose.medical.dicom.tags/tag/distancesourcetoisocenter/
 ---
 
 ## Tag.DistanceSourceToIsocenter field

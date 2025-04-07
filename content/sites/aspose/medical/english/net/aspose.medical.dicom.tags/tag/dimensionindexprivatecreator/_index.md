@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209213 VRLO VM1 Dimension Index Private Creator.
 type: docs
 weight: 11860
-url: /aspose.medical.dicom.tags/tag/dimensionindexprivatecreator/
+url: /net/aspose.medical.dicom.tags/tag/dimensionindexprivatecreator/
 ---
 
 ## Tag.DimensionIndexPrivateCreator field

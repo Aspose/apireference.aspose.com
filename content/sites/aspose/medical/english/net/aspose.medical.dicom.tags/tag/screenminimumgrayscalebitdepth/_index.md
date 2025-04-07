@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072010A VRUS VM1 Screen Minimum Grayscale Bit Depth.
 type: docs
 weight: 41730
-url: /aspose.medical.dicom.tags/tag/screenminimumgrayscalebitdepth/
+url: /net/aspose.medical.dicom.tags/tag/screenminimumgrayscalebitdepth/
 ---
 
 ## Tag.ScreenMinimumGrayscaleBitDepth field

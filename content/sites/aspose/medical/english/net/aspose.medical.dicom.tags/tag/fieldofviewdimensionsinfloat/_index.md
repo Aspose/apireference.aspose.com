@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189461 VRFL VM1-2 Field of View Dimensions in Float.
 type: docs
 weight: 14980
-url: /aspose.medical.dicom.tags/tag/fieldofviewdimensionsinfloat/
+url: /net/aspose.medical.dicom.tags/tag/fieldofviewdimensionsinfloat/
 ---
 
 ## Tag.FieldOfViewDimensionsInFloat field

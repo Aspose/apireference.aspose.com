@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101018 VRFL VM1 Density RETIRED.
 type: docs
 weight: 10710
-url: /aspose.medical.dicom.tags/tag/densityretired/
+url: /net/aspose.medical.dicom.tags/tag/densityretired/
 ---
 
 ## Tag.DensityRETIRED field

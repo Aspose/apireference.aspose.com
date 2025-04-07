@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189434 VRSQ VM1 Exposure Control Sensing Regions Sequence.
 type: docs
 weight: 14510
-url: /aspose.medical.dicom.tags/tag/exposurecontrolsensingregionssequence/
+url: /net/aspose.medical.dicom.tags/tag/exposurecontrolsensingregionssequence/
 ---
 
 ## Tag.ExposureControlSensingRegionsSequence field

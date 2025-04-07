@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0678 VRSQ VM1 Equipment Reference Point Code Sequence.
 type: docs
 weight: 13900
-url: /aspose.medical.dicom.tags/tag/equipmentreferencepointcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/equipmentreferencepointcodesequence/
 ---
 
 ## Tag.EquipmentReferencePointCodeSequence field

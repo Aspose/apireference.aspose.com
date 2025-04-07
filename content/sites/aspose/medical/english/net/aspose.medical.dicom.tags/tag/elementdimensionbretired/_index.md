@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144015 VRDS VM1 Element Dimension B RETIRED.
 type: docs
 weight: 13380
-url: /aspose.medical.dicom.tags/tag/elementdimensionbretired/
+url: /net/aspose.medical.dicom.tags/tag/elementdimensionbretired/
 ---
 
 ## Tag.ElementDimensionBRETIRED field

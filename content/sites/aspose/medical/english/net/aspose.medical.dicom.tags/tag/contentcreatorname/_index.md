@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700084 VRPN VM1 Content Creators Name.
 type: docs
 weight: 7860
-url: /aspose.medical.dicom.tags/tag/contentcreatorname/
+url: /net/aspose.medical.dicom.tags/tag/contentcreatorname/
 ---
 
 ## Tag.ContentCreatorName field

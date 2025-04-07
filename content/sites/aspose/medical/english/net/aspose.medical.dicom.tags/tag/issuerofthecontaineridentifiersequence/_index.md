@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400513 VRSQ VM1 Issuer of the Container Identifier Sequence.
 type: docs
 weight: 21890
-url: /aspose.medical.dicom.tags/tag/issuerofthecontaineridentifiersequence/
+url: /net/aspose.medical.dicom.tags/tag/issuerofthecontaineridentifiersequence/
 ---
 
 ## Tag.IssuerOfTheContainerIdentifierSequence field

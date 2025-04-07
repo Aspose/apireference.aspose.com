@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181142 VRDS VM1-n Radial Position.
 type: docs
 weight: 34100
-url: /aspose.medical.dicom.tags/tag/radialposition/
+url: /net/aspose.medical.dicom.tags/tag/radialposition/
 ---
 
 ## Tag.RadialPosition field

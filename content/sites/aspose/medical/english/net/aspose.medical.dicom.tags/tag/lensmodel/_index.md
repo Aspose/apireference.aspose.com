@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160050 VRUT VM1 Lens Model.
 type: docs
 weight: 22630
-url: /aspose.medical.dicom.tags/tag/lensmodel/
+url: /net/aspose.medical.dicom.tags/tag/lensmodel/
 ---
 
 ## Tag.LensModel field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700254 VRCS VM1 Line Dashing Style.
 type: docs
 weight: 22820
-url: /aspose.medical.dicom.tags/tag/linedashingstyle/
+url: /net/aspose.medical.dicom.tags/tag/linedashingstyle/
 ---
 
 ## Tag.LineDashingStyle field

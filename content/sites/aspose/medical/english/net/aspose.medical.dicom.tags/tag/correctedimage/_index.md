@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280051 VRCS VM1-n Corrected Image.
 type: docs
 weight: 8930
-url: /aspose.medical.dicom.tags/tag/correctedimage/
+url: /net/aspose.medical.dicom.tags/tag/correctedimage/
 ---
 
 ## Tag.CorrectedImage field

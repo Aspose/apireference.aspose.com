@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280061 VRSH VM1 Compression Originator RETIRED.
 type: docs
 weight: 7180
-url: /aspose.medical.dicom.tags/tag/compressionoriginatorretired/
+url: /net/aspose.medical.dicom.tags/tag/compressionoriginatorretired/
 ---
 
 ## Tag.CompressionOriginatorRETIRED field

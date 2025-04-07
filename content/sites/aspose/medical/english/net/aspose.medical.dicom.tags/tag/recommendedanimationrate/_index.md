@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701A03 VRFD VM1 Recommended Animation Rate.
 type: docs
 weight: 35420
-url: /aspose.medical.dicom.tags/tag/recommendedanimationrate/
+url: /net/aspose.medical.dicom.tags/tag/recommendedanimationrate/
 ---
 
 ## Tag.RecommendedAnimationRate field

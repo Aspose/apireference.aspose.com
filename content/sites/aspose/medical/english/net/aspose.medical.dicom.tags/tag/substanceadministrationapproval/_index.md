@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440002 VRCS VM1 Substance Administration Approval.
 type: docs
 weight: 46210
-url: /aspose.medical.dicom.tags/tag/substanceadministrationapproval/
+url: /net/aspose.medical.dicom.tags/tag/substanceadministrationapproval/
 ---
 
 ## Tag.SubstanceAdministrationApproval field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280102 VRUS VM1 High Bit.
 type: docs
 weight: 18300
-url: /aspose.medical.dicom.tags/tag/highbit/
+url: /net/aspose.medical.dicom.tags/tag/highbit/
 ---
 
 ## Tag.HighBit field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Well-known SOP Instance PET Color Palette SOP Instance.
 type: docs
 weight: 3020
-url: /aspose.medical.dicom/uid/petcolorpalettesopinstance/
+url: /net/aspose.medical.dicom/uid/petcolorpalettesopinstance/
 ---
 
 ## Uid.PETColorPaletteSOPInstance field

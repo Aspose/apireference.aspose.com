@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 20
-url: /aspose.medical.imaging.pixelformats/rgba32/fromscaledvector4/
+url: /net/aspose.medical.imaging.pixelformats/rgba32/fromscaledvector4/
 ---
 
 ## Rgba32.FromScaledVector4 method

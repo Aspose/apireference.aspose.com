@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The palette color LUT valid for PALETTE COLOR PhotometricInterpretationaspose.medical.dicom.imaging/pixeldata/photometricinterpretation. Read-only Bgra32aspose.medical.imaging.pixelformats/bgra32 array.
 type: docs
 weight: 140
-url: /aspose.medical.dicom.imaging/pixeldata/palettecolorlut/
+url: /net/aspose.medical.dicom.imaging/pixeldata/palettecolorlut/
 ---
 
 ## PixelData.PaletteColorLut property

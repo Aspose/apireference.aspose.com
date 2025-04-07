@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811B5 VRIS VM1 Upper Limit Number Of Persistent Fluoroscopy Frames.
 type: docs
 weight: 50540
-url: /aspose.medical.dicom.tags/tag/upperlimitnumberofpersistentfluoroscopyframes/
+url: /net/aspose.medical.dicom.tags/tag/upperlimitnumberofpersistentfluoroscopyframes/
 ---
 
 ## Tag.UpperLimitNumberOfPersistentFluoroscopyFrames field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4010102A VRSH VM1 Assigned Location RETIRED.
 type: docs
 weight: 2650
-url: /aspose.medical.dicom.tags/tag/assignedlocationretired/
+url: /net/aspose.medical.dicom.tags/tag/assignedlocationretired/
 ---
 
 ## Tag.AssignedLocationRETIRED field

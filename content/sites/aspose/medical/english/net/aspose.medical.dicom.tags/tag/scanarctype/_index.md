@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002012E VRCS VM1 Scan Arc Type.
 type: docs
 weight: 40990
-url: /aspose.medical.dicom.tags/tag/scanarctype/
+url: /net/aspose.medical.dicom.tags/tag/scanarctype/
 ---
 
 ## Tag.ScanArcType field

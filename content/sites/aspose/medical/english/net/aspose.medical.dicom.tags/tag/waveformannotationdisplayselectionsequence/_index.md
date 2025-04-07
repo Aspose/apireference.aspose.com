@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040B031 VRSQ VM1 Waveform Annotation Display Selection Sequence.
 type: docs
 weight: 51900
-url: /aspose.medical.dicom.tags/tag/waveformannotationdisplayselectionsequence/
+url: /net/aspose.medical.dicom.tags/tag/waveformannotationdisplayselectionsequence/
 ---
 
 ## Tag.WaveformAnnotationDisplaySelectionSequence field

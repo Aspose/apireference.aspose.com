@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080120 VRUR VM1 URN Code Value.
 type: docs
 weight: 50570
-url: /aspose.medical.dicom.tags/tag/urncodevalue/
+url: /net/aspose.medical.dicom.tags/tag/urncodevalue/
 ---
 
 ## Tag.URNCodeValue field

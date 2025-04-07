@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00083012 VRUI VM1 Radiopharmaceutical Administration Event UID.
 type: docs
 weight: 34590
-url: /aspose.medical.dicom.tags/tag/radiopharmaceuticaladministrationeventuid/
+url: /net/aspose.medical.dicom.tags/tag/radiopharmaceuticaladministrationeventuid/
 ---
 
 ## Tag.RadiopharmaceuticalAdministrationEventUID field

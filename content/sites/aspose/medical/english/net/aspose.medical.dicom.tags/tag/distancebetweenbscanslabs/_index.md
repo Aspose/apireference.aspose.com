@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221644 VRFL VM1 Distance Between B-scan Slabs.
 type: docs
 weight: 12340
-url: /aspose.medical.dicom.tags/tag/distancebetweenbscanslabs/
+url: /net/aspose.medical.dicom.tags/tag/distancebetweenbscanslabs/
 ---
 
 ## Tag.DistanceBetweenBscanSlabs field

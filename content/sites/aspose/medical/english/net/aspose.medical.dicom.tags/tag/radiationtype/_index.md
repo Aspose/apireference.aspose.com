@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00C6 VRCS VM1 Radiation Type.
 type: docs
 weight: 34490
-url: /aspose.medical.dicom.tags/tag/radiationtype/
+url: /net/aspose.medical.dicom.tags/tag/radiationtype/
 ---
 
 ## Tag.RadiationType field

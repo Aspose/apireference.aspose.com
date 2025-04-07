@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240122 VRSQ VM1 Screening Baseline Measured Sequence.
 type: docs
 weight: 41680
-url: /aspose.medical.dicom.tags/tag/screeningbaselinemeasuredsequence/
+url: /net/aspose.medical.dicom.tags/tag/screeningbaselinemeasuredsequence/
 ---
 
 ## Tag.ScreeningBaselineMeasuredSequence field

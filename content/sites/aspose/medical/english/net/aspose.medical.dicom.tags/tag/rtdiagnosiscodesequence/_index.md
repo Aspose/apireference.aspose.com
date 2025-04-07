@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010005D VRSQ VM1 RT Diagnosis Code Sequence.
 type: docs
 weight: 40080
-url: /aspose.medical.dicom.tags/tag/rtdiagnosiscodesequence/
+url: /net/aspose.medical.dicom.tags/tag/rtdiagnosiscodesequence/
 ---
 
 ## Tag.RTDiagnosisCodeSequence field

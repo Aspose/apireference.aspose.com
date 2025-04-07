@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00620002 VRSQ VM1 Segment Sequence.
 type: docs
 weight: 42200
-url: /aspose.medical.dicom.tags/tag/segmentsequence/
+url: /net/aspose.medical.dicom.tags/tag/segmentsequence/
 ---
 
 ## Tag.SegmentSequence field

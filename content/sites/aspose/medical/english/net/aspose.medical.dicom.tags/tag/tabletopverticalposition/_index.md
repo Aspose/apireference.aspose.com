@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0128 VRDS VM1 Table Top Vertical Position.
 type: docs
 weight: 47150
-url: /aspose.medical.dicom.tags/tag/tabletopverticalposition/
+url: /net/aspose.medical.dicom.tags/tag/tabletopverticalposition/
 ---
 
 ## Tag.TableTopVerticalPosition field

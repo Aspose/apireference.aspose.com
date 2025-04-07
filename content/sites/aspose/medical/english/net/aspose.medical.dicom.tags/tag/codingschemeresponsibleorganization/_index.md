@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080116 VRST VM1 Coding Scheme Responsible Organization.
 type: docs
 weight: 6170
-url: /aspose.medical.dicom.tags/tag/codingschemeresponsibleorganization/
+url: /net/aspose.medical.dicom.tags/tag/codingschemeresponsibleorganization/
 ---
 
 ## Tag.CodingSchemeResponsibleOrganization field

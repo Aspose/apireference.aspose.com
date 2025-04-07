@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A01A4 VRSH VM1 Shielding Device Label.
 type: docs
 weight: 43180
-url: /aspose.medical.dicom.tags/tag/shieldingdevicelabel/
+url: /net/aspose.medical.dicom.tags/tag/shieldingdevicelabel/
 ---
 
 ## Tag.ShieldingDeviceLabel field

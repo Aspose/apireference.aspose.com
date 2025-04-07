@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140104 VRPN VM1 Secondary Reviewer Name RETIRED.
 type: docs
 weight: 41900
-url: /aspose.medical.dicom.tags/tag/secondaryreviewernameretired/
+url: /net/aspose.medical.dicom.tags/tag/secondaryreviewernameretired/
 ---
 
 ## Tag.SecondaryReviewerNameRETIRED field

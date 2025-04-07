@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040004 VRCS VM1 Dose Type.
 type: docs
 weight: 12790
-url: /aspose.medical.dicom.tags/tag/dosetype/
+url: /net/aspose.medical.dicom.tags/tag/dosetype/
 ---
 
 ## Tag.DoseType field

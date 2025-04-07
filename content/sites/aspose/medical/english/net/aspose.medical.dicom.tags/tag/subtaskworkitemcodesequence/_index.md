@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002011B VRSQ VM1 Subtask Workitem Code Sequence.
 type: docs
 weight: 46260
-url: /aspose.medical.dicom.tags/tag/subtaskworkitemcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/subtaskworkitemcodesequence/
 ---
 
 ## Tag.SubtaskWorkitemCodeSequence field

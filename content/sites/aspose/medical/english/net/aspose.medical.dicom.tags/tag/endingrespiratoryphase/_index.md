@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209249 VRCS VM1 Ending Respiratory Phase.
 type: docs
 weight: 13580
-url: /aspose.medical.dicom.tags/tag/endingrespiratoryphase/
+url: /net/aspose.medical.dicom.tags/tag/endingrespiratoryphase/
 ---
 
 ## Tag.EndingRespiratoryPhase field

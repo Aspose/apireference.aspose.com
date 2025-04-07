@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010004A VRSQ VM1 Referenced Direct Segment Instance Sequence.
 type: docs
 weight: 36270
-url: /aspose.medical.dicom.tags/tag/referenceddirectsegmentinstancesequence/
+url: /net/aspose.medical.dicom.tags/tag/referenceddirectsegmentinstancesequence/
 ---
 
 ## Tag.ReferencedDirectSegmentInstanceSequence field

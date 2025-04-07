@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189363 VRSQ VM1 Multi-energy CT Processing Sequence.
 type: docs
 weight: 25450
-url: /aspose.medical.dicom.tags/tag/multienergyctprocessingsequence/
+url: /net/aspose.medical.dicom.tags/tag/multienergyctprocessingsequence/
 ---
 
 ## Tag.MultienergyCTProcessingSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014601B VRCS VM1 Thermography Data Capture Method RETIRED.
 type: docs
 weight: 48020
-url: /aspose.medical.dicom.tags/tag/thermographydatacapturemethodretired/
+url: /net/aspose.medical.dicom.tags/tag/thermographydatacapturemethodretired/
 ---
 
 ## Tag.ThermographyDataCaptureMethodRETIRED field

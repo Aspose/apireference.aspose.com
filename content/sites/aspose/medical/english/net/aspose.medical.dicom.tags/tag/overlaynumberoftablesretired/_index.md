@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0802 VRUS VM1 Overlay Number of Tables RETIRED.
 type: docs
 weight: 29090
-url: /aspose.medical.dicom.tags/tag/overlaynumberoftablesretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaynumberoftablesretired/
 ---
 
 ## Tag.OverlayNumberOfTablesRETIRED field

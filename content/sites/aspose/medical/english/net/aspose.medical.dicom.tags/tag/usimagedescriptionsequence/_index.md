@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189806 VRSQ VM1 US Image Description Sequence.
 type: docs
 weight: 50670
-url: /aspose.medical.dicom.tags/tag/usimagedescriptionsequence/
+url: /net/aspose.medical.dicom.tags/tag/usimagedescriptionsequence/
 ---
 
 ## Tag.USImageDescriptionSequence field

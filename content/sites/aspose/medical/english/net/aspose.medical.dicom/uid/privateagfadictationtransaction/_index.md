@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Agfa Dictation Transaction.
 type: docs
 weight: 3160
-url: /aspose.medical.dicom/uid/privateagfadictationtransaction/
+url: /net/aspose.medical.dicom/uid/privateagfadictationtransaction/
 ---
 
 ## Uid.PrivateAgfaDictationTransaction field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060038 VRLO VM1 ROI Generation Description.
 type: docs
 weight: 39470
-url: /aspose.medical.dicom.tags/tag/roigenerationdescription/
+url: /net/aspose.medical.dicom.tags/tag/roigenerationdescription/
 ---
 
 ## Tag.ROIGenerationDescription field

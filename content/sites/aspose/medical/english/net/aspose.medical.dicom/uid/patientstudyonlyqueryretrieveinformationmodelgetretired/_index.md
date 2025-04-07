@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Patient/Study Only Query/Retrieve Information Model - GET Retired.
 type: docs
 weight: 2980
-url: /aspose.medical.dicom/uid/patientstudyonlyqueryretrieveinformationmodelgetretired/
+url: /net/aspose.medical.dicom/uid/patientstudyonlyqueryretrieveinformationmodelgetretired/
 ---
 
 ## Uid.PatientStudyOnlyQueryRetrieveInformationModelGETRetired field

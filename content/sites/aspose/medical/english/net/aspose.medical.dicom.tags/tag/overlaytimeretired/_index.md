@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080034 VRTM VM1 Overlay Time RETIRED.
 type: docs
 weight: 29250
-url: /aspose.medical.dicom.tags/tag/overlaytimeretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaytimeretired/
 ---
 
 ## Tag.OverlayTimeRETIRED field

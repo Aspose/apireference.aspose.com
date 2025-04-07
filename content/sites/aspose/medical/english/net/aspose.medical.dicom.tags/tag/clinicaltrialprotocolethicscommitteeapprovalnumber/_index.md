@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120082 VRLO VM1 Clinical Trial Protocol Ethics Committee Approval Number.
 type: docs
 weight: 5910
-url: /aspose.medical.dicom.tags/tag/clinicaltrialprotocolethicscommitteeapprovalnumber/
+url: /net/aspose.medical.dicom.tags/tag/clinicaltrialprotocolethicscommitteeapprovalnumber/
 ---
 
 ## Tag.ClinicalTrialProtocolEthicsCommitteeApprovalNumber field

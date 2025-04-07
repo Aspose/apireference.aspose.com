@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181310 VRUS VM4 Acquisition Matrix.
 type: docs
 weight: 360
-url: /aspose.medical.dicom.tags/tag/acquisitionmatrix/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionmatrix/
 ---
 
 ## Tag.AcquisitionMatrix field

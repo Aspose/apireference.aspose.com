@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Returns raw pixel data in internal format.
 type: docs
 weight: 250
-url: /aspose.medical.dicom.imaging/pixeldata/getrawdata/
+url: /net/aspose.medical.dicom.imaging/pixeldata/getrawdata/
 ---
 
 ## PixelData.GetRawData method

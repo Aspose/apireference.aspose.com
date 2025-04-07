@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720078 VRUL VM1-n Selector UL Value.
 type: docs
 weight: 42640
-url: /aspose.medical.dicom.tags/tag/selectorulvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorulvalue/
 ---
 
 ## Tag.SelectorULValue field

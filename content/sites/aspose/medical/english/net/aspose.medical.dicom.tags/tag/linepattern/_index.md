@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700255 VRUL VM1 Line Pattern.
 type: docs
 weight: 22830
-url: /aspose.medical.dicom.tags/tag/linepattern/
+url: /net/aspose.medical.dicom.tags/tag/linepattern/
 ---
 
 ## Tag.LinePattern field

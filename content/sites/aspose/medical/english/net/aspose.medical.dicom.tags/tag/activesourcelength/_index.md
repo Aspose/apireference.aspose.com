@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A021A VRDS VM1 Active Source Length.
 type: docs
 weight: 720
-url: /aspose.medical.dicom.tags/tag/activesourcelength/
+url: /net/aspose.medical.dicom.tags/tag/activesourcelength/
 ---
 
 ## Tag.ActiveSourceLength field

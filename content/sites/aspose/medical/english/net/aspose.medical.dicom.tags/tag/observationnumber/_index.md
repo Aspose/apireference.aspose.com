@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060082 VRIS VM1 Observation Number.
 type: docs
 weight: 27330
-url: /aspose.medical.dicom.tags/tag/observationnumber/
+url: /net/aspose.medical.dicom.tags/tag/observationnumber/
 ---
 
 ## Tag.ObservationNumber field

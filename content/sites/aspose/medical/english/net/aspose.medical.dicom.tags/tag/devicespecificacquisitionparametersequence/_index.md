@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020131 VRSQ VM1 Device-Specific Acquisition Parameter Sequence.
 type: docs
 weight: 11470
-url: /aspose.medical.dicom.tags/tag/devicespecificacquisitionparametersequence/
+url: /net/aspose.medical.dicom.tags/tag/devicespecificacquisitionparametersequence/
 ---
 
 ## Tag.DeviceSpecificAcquisitionParameterSequence field

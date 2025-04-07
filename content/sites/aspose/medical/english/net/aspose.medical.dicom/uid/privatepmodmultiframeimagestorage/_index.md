@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private PMOD Multi-frame Image Storage.
 type: docs
 weight: 3660
-url: /aspose.medical.dicom/uid/privatepmodmultiframeimagestorage/
+url: /net/aspose.medical.dicom/uid/privatepmodmultiframeimagestorage/
 ---
 
 ## Uid.PrivatePModMultiFrameImageStorage field

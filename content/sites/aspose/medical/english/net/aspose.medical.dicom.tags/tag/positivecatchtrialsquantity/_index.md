@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240056 VRUS VM1 Positive Catch Trials Quantity.
 type: docs
 weight: 32170
-url: /aspose.medical.dicom.tags/tag/positivecatchtrialsquantity/
+url: /net/aspose.medical.dicom.tags/tag/positivecatchtrialsquantity/
 ---
 
 ## Tag.PositiveCatchTrialsQuantity field

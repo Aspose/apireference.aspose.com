@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Gets or sets the pixel at the specified position.
 type: docs
 weight: 20
-url: /aspose.medical.imaging/irawimage/item/
+url: /net/aspose.medical.imaging/irawimage/item/
 ---
 
 ## IRawImage indexer

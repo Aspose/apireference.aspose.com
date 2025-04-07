@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0382 VRFL VM1 Range Modulator Gating Start Value.
 type: docs
 weight: 34810
-url: /aspose.medical.dicom.tags/tag/rangemodulatorgatingstartvalue/
+url: /net/aspose.medical.dicom.tags/tag/rangemodulatorgatingstartvalue/
 ---
 
 ## Tag.RangeModulatorGatingStartValue field

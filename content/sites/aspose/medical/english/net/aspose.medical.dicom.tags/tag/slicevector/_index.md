@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540080 VRUS VM1-n Slice Vector.
 type: docs
 weight: 43630
-url: /aspose.medical.dicom.tags/tag/slicevector/
+url: /net/aspose.medical.dicom.tags/tag/slicevector/
 ---
 
 ## Tag.SliceVector field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540031 VRUS VM1 Number of Phases.
 type: docs
 weight: 26650
-url: /aspose.medical.dicom.tags/tag/numberofphases/
+url: /net/aspose.medical.dicom.tags/tag/numberofphases/
 ---
 
 ## Tag.NumberOfPhases field

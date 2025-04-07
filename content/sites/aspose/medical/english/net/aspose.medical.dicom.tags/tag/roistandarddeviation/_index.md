@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx1303 VRDS VM1 ROI Standard Deviation.
 type: docs
 weight: 39600
-url: /aspose.medical.dicom.tags/tag/roistandarddeviation/
+url: /net/aspose.medical.dicom.tags/tag/roistandarddeviation/
 ---
 
 ## Tag.ROIStandardDeviation field

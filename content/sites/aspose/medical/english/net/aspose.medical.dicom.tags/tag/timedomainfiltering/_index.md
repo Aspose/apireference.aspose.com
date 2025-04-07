@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189065 VRCS VM1-2 Time Domain Filtering.
 type: docs
 weight: 48360
-url: /aspose.medical.dicom.tags/tag/timedomainfiltering/
+url: /net/aspose.medical.dicom.tags/tag/timedomainfiltering/
 ---
 
 ## Tag.TimeDomainFiltering field

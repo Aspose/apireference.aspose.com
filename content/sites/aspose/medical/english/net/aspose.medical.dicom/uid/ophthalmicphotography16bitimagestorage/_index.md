@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Ophthalmic Photography 16 Bit Image Storage.
 type: docs
 weight: 2860
-url: /aspose.medical.dicom/uid/ophthalmicphotography16bitimagestorage/
+url: /net/aspose.medical.dicom/uid/ophthalmicphotography16bitimagestorage/
 ---
 
 ## Uid.OphthalmicPhotography16BitImageStorage field

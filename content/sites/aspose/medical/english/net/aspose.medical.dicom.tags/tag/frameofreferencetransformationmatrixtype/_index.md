@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0070030C VRCS VM1 Frame of Reference Transformation Matrix Type.
 type: docs
 weight: 16680
-url: /aspose.medical.dicom.tags/tag/frameofreferencetransformationmatrixtype/
+url: /net/aspose.medical.dicom.tags/tag/frameofreferencetransformationmatrixtype/
 ---
 
 ## Tag.FrameOfReferenceTransformationMatrixType field

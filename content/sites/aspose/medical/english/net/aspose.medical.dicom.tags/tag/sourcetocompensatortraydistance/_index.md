@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00E6 VRDS VM1 Source to Compensator Tray Distance.
 type: docs
 weight: 44590
-url: /aspose.medical.dicom.tags/tag/sourcetocompensatortraydistance/
+url: /net/aspose.medical.dicom.tags/tag/sourcetocompensatortraydistance/
 ---
 
 ## Tag.SourceToCompensatorTrayDistance field

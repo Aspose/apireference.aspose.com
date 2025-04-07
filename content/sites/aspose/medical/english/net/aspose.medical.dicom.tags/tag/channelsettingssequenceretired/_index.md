@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144091 VRSQ VM1 Channel Settings Sequence RETIRED.
 type: docs
 weight: 5650
-url: /aspose.medical.dicom.tags/tag/channelsettingssequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/channelsettingssequenceretired/
 ---
 
 ## Tag.ChannelSettingsSequenceRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080032 VRTM VM1 Acquisition Time.
 type: docs
 weight: 630
-url: /aspose.medical.dicom.tags/tag/acquisitiontime/
+url: /net/aspose.medical.dicom.tags/tag/acquisitiontime/
 ---
 
 ## Tag.AcquisitionTime field

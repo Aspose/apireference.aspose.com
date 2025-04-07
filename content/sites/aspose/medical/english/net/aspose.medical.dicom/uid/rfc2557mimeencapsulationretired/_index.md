@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax RFC 2557 MIME encapsulation Retired.
 type: docs
 weight: 3960
-url: /aspose.medical.dicom/uid/rfc2557mimeencapsulationretired/
+url: /net/aspose.medical.dicom/uid/rfc2557mimeencapsulationretired/
 ---
 
 ## Uid.Rfc2557MimeEncapsulationRetired field

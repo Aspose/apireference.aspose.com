@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181166 VRCS VM1-n Grid.
 type: docs
 weight: 18000
-url: /aspose.medical.dicom.tags/tag/grid/
+url: /net/aspose.medical.dicom.tags/tag/grid/
 ---
 
 ## Tag.Grid field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140202 VRAT VM1 Data Element RETIRED.
 type: docs
 weight: 9840
-url: /aspose.medical.dicom.tags/tag/dataelementretired/
+url: /net/aspose.medical.dicom.tags/tag/dataelementretired/
 ---
 
 ## Tag.DataElementRETIRED field

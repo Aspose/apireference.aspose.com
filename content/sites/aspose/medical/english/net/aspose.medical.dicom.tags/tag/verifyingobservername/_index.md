@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A075 VRPN VM1 Verifying Observer Name.
 type: docs
 weight: 50930
-url: /aspose.medical.dicom.tags/tag/verifyingobservername/
+url: /net/aspose.medical.dicom.tags/tag/verifyingobservername/
 ---
 
 ## Tag.VerifyingObserverName field

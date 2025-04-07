@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720104 VRUS VM1 Number of Vertical Pixels.
 type: docs
 weight: 27080
-url: /aspose.medical.dicom.tags/tag/numberofverticalpixels/
+url: /net/aspose.medical.dicom.tags/tag/numberofverticalpixels/
 ---
 
 ## Tag.NumberOfVerticalPixels field

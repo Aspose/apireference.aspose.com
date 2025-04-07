@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028700B VRUS VM1 Configuration ID.
 type: docs
 weight: 7490
-url: /aspose.medical.dicom.tags/tag/configurationid/
+url: /net/aspose.medical.dicom.tags/tag/configurationid/
 ---
 
 ## Tag.ConfigurationID field

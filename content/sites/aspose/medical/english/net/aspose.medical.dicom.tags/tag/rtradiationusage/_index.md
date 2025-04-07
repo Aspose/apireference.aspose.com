@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0701 VRCS VM1 RT Radiation Usage.
 type: docs
 weight: 40510
-url: /aspose.medical.dicom.tags/tag/rtradiationusage/
+url: /net/aspose.medical.dicom.tags/tag/rtradiationusage/
 ---
 
 ## Tag.RTRadiationUsage field

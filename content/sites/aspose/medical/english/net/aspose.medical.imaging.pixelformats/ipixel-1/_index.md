@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Represents a generic pixel type.
 type: docs
 weight: 1090
-url: /aspose.medical.imaging.pixelformats/ipixel-1/
+url: /net/aspose.medical.imaging.pixelformats/ipixel-1/
 ---
 
 ## IPixel&lt;TSelf&gt; interface

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181242 VRIS VM1 Actual Frame Duration.
 type: docs
 weight: 760
-url: /aspose.medical.dicom.tags/tag/actualframeduration/
+url: /net/aspose.medical.dicom.tags/tag/actualframeduration/
 ---
 
 ## Tag.ActualFrameDuration field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060088 VRST VM1 ROI Observation Description RETIRED.
 type: docs
 weight: 39550
-url: /aspose.medical.dicom.tags/tag/roiobservationdescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/roiobservationdescriptionretired/
 ---
 
 ## Tag.ROIObservationDescriptionRETIRED field

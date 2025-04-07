@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A136 VRUS VM1-n Referenced Frame Numbers RETIRED.
 type: docs
 weight: 36460
-url: /aspose.medical.dicom.tags/tag/referencedframenumbersretired/
+url: /net/aspose.medical.dicom.tags/tag/referencedframenumbersretired/
 ---
 
 ## Tag.ReferencedFrameNumbersRETIRED field

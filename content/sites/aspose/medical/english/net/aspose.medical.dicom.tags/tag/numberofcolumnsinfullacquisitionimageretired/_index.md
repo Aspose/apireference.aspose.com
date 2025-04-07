@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146006 VRDS VM1 Number Of Columns in Full Acquisition Image RETIRED.
 type: docs
 weight: 26190
-url: /aspose.medical.dicom.tags/tag/numberofcolumnsinfullacquisitionimageretired/
+url: /net/aspose.medical.dicom.tags/tag/numberofcolumnsinfullacquisitionimageretired/
 ---
 
 ## Tag.NumberOfColumnsInFullAcquisitionImageRETIRED field

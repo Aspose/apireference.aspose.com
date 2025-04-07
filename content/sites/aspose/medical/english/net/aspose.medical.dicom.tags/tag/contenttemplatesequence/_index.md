@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A504 VRSQ VM1 Content Template Sequence.
 type: docs
 weight: 7930
-url: /aspose.medical.dicom.tags/tag/contenttemplatesequence/
+url: /net/aspose.medical.dicom.tags/tag/contenttemplatesequence/
 ---
 
 ## Tag.ContentTemplateSequence field

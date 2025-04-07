@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181134 VRCS VM1 Table Motion.
 type: docs
 weight: 46820
-url: /aspose.medical.dicom.tags/tag/tablemotion/
+url: /net/aspose.medical.dicom.tags/tag/tablemotion/
 ---
 
 ## Tag.TableMotion field

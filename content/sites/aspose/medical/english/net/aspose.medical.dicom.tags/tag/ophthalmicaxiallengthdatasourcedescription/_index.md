@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221159 VRLO VM1 Ophthalmic Axial Length Data Source Description.
 type: docs
 weight: 27880
-url: /aspose.medical.dicom.tags/tag/ophthalmicaxiallengthdatasourcedescription/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicaxiallengthdatasourcedescription/
 ---
 
 ## Tag.OphthalmicAxialLengthDataSourceDescription field

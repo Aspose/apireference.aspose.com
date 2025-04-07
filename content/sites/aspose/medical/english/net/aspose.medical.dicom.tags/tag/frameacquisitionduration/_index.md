@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189220 VRFD VM1 Frame Acquisition Duration.
 type: docs
 weight: 16450
-url: /aspose.medical.dicom.tags/tag/frameacquisitionduration/
+url: /net/aspose.medical.dicom.tags/tag/frameacquisitionduration/
 ---
 
 ## Tag.FrameAcquisitionDuration field

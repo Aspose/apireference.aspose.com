@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00F8 VRCS VM1 Block Type.
 type: docs
 weight: 4180
-url: /aspose.medical.dicom.tags/tag/blocktype/
+url: /net/aspose.medical.dicom.tags/tag/blocktype/
 ---
 
 ## Tag.BlockType field

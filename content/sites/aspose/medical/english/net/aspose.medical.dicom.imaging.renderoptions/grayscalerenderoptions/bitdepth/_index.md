@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The BitDepthaspose.medical.dicom.imaging.renderoptions/bitdepth options used to render image specified in DICOM Dataset. Read-only BitDepthaspose.medical.dicom.imaging.renderoptions/bitdepth.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.imaging.renderoptions/grayscalerenderoptions/bitdepth/
+url: /net/aspose.medical.dicom.imaging.renderoptions/grayscalerenderoptions/bitdepth/
 ---
 
 ## GrayscaleRenderOptions.BitDepth property

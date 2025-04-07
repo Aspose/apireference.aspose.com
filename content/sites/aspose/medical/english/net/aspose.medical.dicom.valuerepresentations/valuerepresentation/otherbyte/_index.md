@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Other Byte OB.
 type: docs
 weight: 150
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/otherbyte/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/otherbyte/
 ---
 
 ## ValueRepresentation.OtherByte field

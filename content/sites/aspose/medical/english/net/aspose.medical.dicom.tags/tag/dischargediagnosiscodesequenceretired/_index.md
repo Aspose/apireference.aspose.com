@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380044 VRSQ VM1 Discharge Diagnosis Code Sequence RETIRED.
 type: docs
 weight: 11960
-url: /aspose.medical.dicom.tags/tag/dischargediagnosiscodesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/dischargediagnosiscodesequenceretired/
 ---
 
 ## Tag.DischargeDiagnosisCodeSequenceRETIRED field

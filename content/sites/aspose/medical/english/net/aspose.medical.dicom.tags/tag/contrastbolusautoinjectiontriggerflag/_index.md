@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811B6 VRCS VM1 Contrast/Bolus Auto Injection Trigger Flag.
 type: docs
 weight: 8260
-url: /aspose.medical.dicom.tags/tag/contrastbolusautoinjectiontriggerflag/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolusautoinjectiontriggerflag/
 ---
 
 ## Tag.ContrastBolusAutoInjectionTriggerFlag field

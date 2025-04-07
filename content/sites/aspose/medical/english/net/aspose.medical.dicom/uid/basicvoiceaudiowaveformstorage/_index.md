@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Basic Voice Audio Waveform Storage.
 type: docs
 weight: 220
-url: /aspose.medical.dicom/uid/basicvoiceaudiowaveformstorage/
+url: /net/aspose.medical.dicom/uid/basicvoiceaudiowaveformstorage/
 ---
 
 ## Uid.BasicVoiceAudioWaveformStorage field

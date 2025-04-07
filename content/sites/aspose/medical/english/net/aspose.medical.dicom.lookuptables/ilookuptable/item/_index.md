@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Indexer to transform input value into output value.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.lookuptables/ilookuptable/item/
+url: /net/aspose.medical.dicom.lookuptables/ilookuptable/item/
 ---
 
 ## ILookUpTable indexer

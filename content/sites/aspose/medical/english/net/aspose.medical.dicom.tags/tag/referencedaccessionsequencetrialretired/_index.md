@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A313 VRSQ VM1 Referenced Accession Sequence Trial RETIRED.
 type: docs
 weight: 35980
-url: /aspose.medical.dicom.tags/tag/referencedaccessionsequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/referencedaccessionsequencetrialretired/
 ---
 
 ## Tag.ReferencedAccessionSequenceTrialRETIRED field

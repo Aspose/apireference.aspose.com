@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081110 VRSQ VM1 Referenced Study Sequence.
 type: docs
 weight: 37510
-url: /aspose.medical.dicom.tags/tag/referencedstudysequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedstudysequence/
 ---
 
 ## Tag.ReferencedStudySequence field

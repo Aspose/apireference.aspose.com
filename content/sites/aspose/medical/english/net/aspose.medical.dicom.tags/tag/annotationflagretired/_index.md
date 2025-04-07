@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20000065 VRCS VM1 Annotation Flag RETIRED.
 type: docs
 weight: 1790
-url: /aspose.medical.dicom.tags/tag/annotationflagretired/
+url: /net/aspose.medical.dicom.tags/tag/annotationflagretired/
 ---
 
 ## Tag.AnnotationFlagRETIRED field

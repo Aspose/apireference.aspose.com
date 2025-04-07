@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028701D VRFL VM1 Target Minimum Luminance.
 type: docs
 weight: 47410
-url: /aspose.medical.dicom.tags/tag/targetminimumluminance/
+url: /net/aspose.medical.dicom.tags/tag/targetminimumluminance/
 ---
 
 ## Tag.TargetMinimumLuminance field

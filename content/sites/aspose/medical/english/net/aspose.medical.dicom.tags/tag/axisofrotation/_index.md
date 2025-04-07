@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0066001B VRFL VM3 Axis of Rotation.
 type: docs
 weight: 3120
-url: /aspose.medical.dicom.tags/tag/axisofrotation/
+url: /net/aspose.medical.dicom.tags/tag/axisofrotation/
 ---
 
 ## Tag.AxisOfRotation field

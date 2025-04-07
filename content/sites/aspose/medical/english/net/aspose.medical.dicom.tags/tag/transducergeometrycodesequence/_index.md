@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018980D VRSQ VM1 Transducer Geometry Code Sequence.
 type: docs
 weight: 49240
-url: /aspose.medical.dicom.tags/tag/transducergeometrycodesequence/
+url: /net/aspose.medical.dicom.tags/tag/transducergeometrycodesequence/
 ---
 
 ## Tag.TransducerGeometryCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186060 VRFL VM1-n R Wave Time Vector.
 type: docs
 weight: 40850
-url: /aspose.medical.dicom.tags/tag/rwavetimevector/
+url: /net/aspose.medical.dicom.tags/tag/rwavetimevector/
 ---
 
 ## Tag.RWaveTimeVector field

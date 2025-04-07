@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189720 VRFD VM1 Termination Density Threshold.
 type: docs
 weight: 47700
-url: /aspose.medical.dicom.tags/tag/terminationdensitythreshold/
+url: /net/aspose.medical.dicom.tags/tag/terminationdensitythreshold/
 ---
 
 ## Tag.TerminationDensityThreshold field

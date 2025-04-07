@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx0112 VRUS VM1-n Coordinate Start Value RETIRED.
 type: docs
 weight: 8620
-url: /aspose.medical.dicom.tags/tag/coordinatestartvalueretired/
+url: /net/aspose.medical.dicom.tags/tag/coordinatestartvalueretired/
 ---
 
 ## Tag.CoordinateStartValueRETIRED field

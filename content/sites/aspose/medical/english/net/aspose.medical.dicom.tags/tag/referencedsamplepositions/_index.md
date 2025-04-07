@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A132 VRUL VM1-n Referenced Sample Positions.
 type: docs
 weight: 37290
-url: /aspose.medical.dicom.tags/tag/referencedsamplepositions/
+url: /net/aspose.medical.dicom.tags/tag/referencedsamplepositions/
 ---
 
 ## Tag.ReferencedSamplePositions field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181080 VRCS VM1 Beat Rejection Flag.
 type: docs
 weight: 3670
-url: /aspose.medical.dicom.tags/tag/beatrejectionflag/
+url: /net/aspose.medical.dicom.tags/tag/beatrejectionflag/
 ---
 
 ## Tag.BeatRejectionFlag field

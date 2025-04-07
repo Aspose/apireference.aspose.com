@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189018 VRCS VM1 Echo Planar Pulse Sequence.
 type: docs
 weight: 13220
-url: /aspose.medical.dicom.tags/tag/echoplanarpulsesequence/
+url: /net/aspose.medical.dicom.tags/tag/echoplanarpulsesequence/
 ---
 
 ## Tag.EchoPlanarPulseSequence field

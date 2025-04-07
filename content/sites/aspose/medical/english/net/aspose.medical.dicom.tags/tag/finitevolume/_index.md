@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0066000E VRCS VM1 Finite Volume.
 type: docs
 weight: 15570
-url: /aspose.medical.dicom.tags/tag/finitevolume/
+url: /net/aspose.medical.dicom.tags/tag/finitevolume/
 ---
 
 ## Tag.FiniteVolume field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081304 VRSQ VM1 Histological Diagnoses Code Sequence.
 type: docs
 weight: 18410
-url: /aspose.medical.dicom.tags/tag/histologicaldiagnosescodesequence/
+url: /net/aspose.medical.dicom.tags/tag/histologicaldiagnosescodesequence/
 ---
 
 ## Tag.HistologicalDiagnosesCodeSequence field

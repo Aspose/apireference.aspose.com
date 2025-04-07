@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189624 VRCS VM1 Settling Phase Frame.
 type: docs
 weight: 42970
-url: /aspose.medical.dicom.tags/tag/settlingphaseframe/
+url: /net/aspose.medical.dicom.tags/tag/settlingphaseframe/
 ---
 
 ## Tag.SettlingPhaseFrame field

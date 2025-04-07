@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189171 VRCS VM1 Respiratory Signal Source.
 type: docs
 weight: 38990
-url: /aspose.medical.dicom.tags/tag/respiratorysignalsource/
+url: /net/aspose.medical.dicom.tags/tag/respiratorysignalsource/
 ---
 
 ## Tag.RespiratorySignalSource field

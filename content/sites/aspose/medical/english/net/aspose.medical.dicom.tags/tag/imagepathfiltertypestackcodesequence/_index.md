@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220018 VRSQ VM1 Image Path Filter Type Stack Code Sequence.
 type: docs
 weight: 19340
-url: /aspose.medical.dicom.tags/tag/imagepathfiltertypestackcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/imagepathfiltertypestackcodesequence/
 ---
 
 ## Tag.ImagePathFilterTypeStackCodeSequence field

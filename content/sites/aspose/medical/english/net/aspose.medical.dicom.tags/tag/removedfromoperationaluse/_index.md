@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080405 VRCS VM1 Removed from Operational Use.
 type: docs
 weight: 38390
-url: /aspose.medical.dicom.tags/tag/removedfromoperationaluse/
+url: /net/aspose.medical.dicom.tags/tag/removedfromoperationaluse/
 ---
 
 ## Tag.RemovedFromOperationalUse field

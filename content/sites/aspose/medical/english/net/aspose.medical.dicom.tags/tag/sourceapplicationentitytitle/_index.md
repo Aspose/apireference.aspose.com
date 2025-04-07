@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020016 VRAE VM1 Source Application Entity Title.
 type: docs
 weight: 43960
-url: /aspose.medical.dicom.tags/tag/sourceapplicationentitytitle/
+url: /net/aspose.medical.dicom.tags/tag/sourceapplicationentitytitle/
 ---
 
 ## Tag.SourceApplicationEntityTitle field

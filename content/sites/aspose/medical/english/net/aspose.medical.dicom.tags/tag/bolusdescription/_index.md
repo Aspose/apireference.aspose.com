@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00DD VRST VM1 Bolus Description.
 type: docs
 weight: 4270
-url: /aspose.medical.dicom.tags/tag/bolusdescription/
+url: /net/aspose.medical.dicom.tags/tag/bolusdescription/
 ---
 
 ## Tag.BolusDescription field

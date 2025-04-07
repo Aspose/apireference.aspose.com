@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080222 VRLO VM1 Manufacturers Related Model Group.
 type: docs
 weight: 23490
-url: /aspose.medical.dicom.tags/tag/manufacturerrelatedmodelgroup/
+url: /net/aspose.medical.dicom.tags/tag/manufacturerrelatedmodelgroup/
 ---
 
 ## Tag.ManufacturerRelatedModelGroup field

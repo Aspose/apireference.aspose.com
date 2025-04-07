@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101068 VRLT VM1 OOI Type Descriptor RETIRED.
 type: docs
 weight: 27710
-url: /aspose.medical.dicom.tags/tag/ooitypedescriptorretired/
+url: /net/aspose.medical.dicom.tags/tag/ooitypedescriptorretired/
 ---
 
 ## Tag.OOITypeDescriptorRETIRED field

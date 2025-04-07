@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Hanging Protocol Storage.
 type: docs
 weight: 1800
-url: /aspose.medical.dicom/uid/hangingprotocolstorage/
+url: /net/aspose.medical.dicom/uid/hangingprotocolstorage/
 ---
 
 ## Uid.HangingProtocolStorage field

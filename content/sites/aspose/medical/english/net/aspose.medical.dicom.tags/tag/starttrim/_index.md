@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082142 VRIS VM1 Start Trim.
 type: docs
 weight: 45420
-url: /aspose.medical.dicom.tags/tag/starttrim/
+url: /net/aspose.medical.dicom.tags/tag/starttrim/
 ---
 
 ## Tag.StartTrim field

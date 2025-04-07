@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741204 VRLO VM1 Procedure Step Label.
 type: docs
 weight: 33410
-url: /aspose.medical.dicom.tags/tag/proceduresteplabel/
+url: /net/aspose.medical.dicom.tags/tag/proceduresteplabel/
 ---
 
 ## Tag.ProcedureStepLabel field

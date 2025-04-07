@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189367 VRUC VM1 X-Ray Source ID.
 type: docs
 weight: 52840
-url: /aspose.medical.dicom.tags/tag/xraysourceid/
+url: /net/aspose.medical.dicom.tags/tag/xraysourceid/
 ---
 
 ## Tag.XRaySourceID field

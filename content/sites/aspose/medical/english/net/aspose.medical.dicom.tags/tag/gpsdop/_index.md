@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016007B VRDS VM1 GPS DOP.
 type: docs
 weight: 17550
-url: /aspose.medical.dicom.tags/tag/gpsdop/
+url: /net/aspose.medical.dicom.tags/tag/gpsdop/
 ---
 
 ## Tag.GPSDOP field

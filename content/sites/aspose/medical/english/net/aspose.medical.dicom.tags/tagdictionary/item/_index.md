@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Returns metadata for the given tag.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.tags/tagdictionary/item/
+url: /net/aspose.medical.dicom.tags/tagdictionary/item/
 ---
 
 ## TagDictionary indexer

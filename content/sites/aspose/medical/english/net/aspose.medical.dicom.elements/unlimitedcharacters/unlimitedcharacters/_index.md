@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/unlimitedcharacters/unlimitedcharacters/
+url: /net/aspose.medical.dicom.elements/unlimitedcharacters/unlimitedcharacters/
 ---
 
 ## UnlimitedCharacters(Tag, Span&lt;string&gt;, Span&lt;Encoding&gt;) {#constructor_1}

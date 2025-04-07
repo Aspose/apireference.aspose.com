@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 7FE00002 VROV VM1 Extended Offset Table Lengths.
 type: docs
 weight: 14740
-url: /aspose.medical.dicom.tags/tag/extendedoffsettablelengths/
+url: /net/aspose.medical.dicom.tags/tag/extendedoffsettablelengths/
 ---
 
 ## Tag.ExtendedOffsetTableLengths field

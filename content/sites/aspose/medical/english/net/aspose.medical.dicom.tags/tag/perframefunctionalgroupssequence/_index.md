@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 52009230 VRSQ VM1 Per-Frame Functional Groups Sequence.
 type: docs
 weight: 30860
-url: /aspose.medical.dicom.tags/tag/perframefunctionalgroupssequence/
+url: /net/aspose.medical.dicom.tags/tag/perframefunctionalgroupssequence/
 ---
 
 ## Tag.PerFrameFunctionalGroupsSequence field

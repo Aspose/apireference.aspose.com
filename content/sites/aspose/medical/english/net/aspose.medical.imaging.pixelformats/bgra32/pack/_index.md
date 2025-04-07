@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Packs the given numeric pixel value into Bgra32aspose.medical.imaging.pixelformats/bgra32 pixel.
 type: docs
 weight: 130
-url: /aspose.medical.imaging.pixelformats/bgra32/pack/
+url: /net/aspose.medical.imaging.pixelformats/bgra32/pack/
 ---
 
 ## Bgra32.Pack&lt;T&gt; method

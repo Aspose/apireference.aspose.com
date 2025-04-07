@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520008 VRFD VM1 Axial Resolution.
 type: docs
 weight: 3100
-url: /aspose.medical.dicom.tags/tag/axialresolution/
+url: /net/aspose.medical.dicom.tags/tag/axialresolution/
 ---
 
 ## Tag.AxialResolution field

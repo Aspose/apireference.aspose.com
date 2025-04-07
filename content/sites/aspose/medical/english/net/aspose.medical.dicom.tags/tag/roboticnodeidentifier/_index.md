@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100092 VRUL VM1 Robotic Node Identifier.
 type: docs
 weight: 39330
-url: /aspose.medical.dicom.tags/tag/roboticnodeidentifier/
+url: /net/aspose.medical.dicom.tags/tag/roboticnodeidentifier/
 ---
 
 ## Tag.RoboticNodeIdentifier field

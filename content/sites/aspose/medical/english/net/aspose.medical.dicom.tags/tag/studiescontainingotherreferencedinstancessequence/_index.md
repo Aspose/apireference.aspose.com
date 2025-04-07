@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081200 VRSQ VM1 Studies Containing Other Referenced Instances Sequence.
 type: docs
 weight: 45920
-url: /aspose.medical.dicom.tags/tag/studiescontainingotherreferencedinstancessequence/
+url: /net/aspose.medical.dicom.tags/tag/studiescontainingotherreferencedinstancessequence/
 ---
 
 ## Tag.StudiesContainingOtherReferencedInstancesSequence field

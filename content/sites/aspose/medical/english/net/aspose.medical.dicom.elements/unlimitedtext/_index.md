@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Unlimited Text UT VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextUT-Unlimited20Text-A20character20string.
 type: docs
 weight: 550
-url: /aspose.medical.dicom.elements/unlimitedtext/
+url: /net/aspose.medical.dicom.elements/unlimitedtext/
 ---
 
 ## UnlimitedText class

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020102 VROB VM1 Private Information.
 type: docs
 weight: 33170
-url: /aspose.medical.dicom.tags/tag/privateinformation/
+url: /net/aspose.medical.dicom.tags/tag/privateinformation/
 ---
 
 ## Tag.PrivateInformation field

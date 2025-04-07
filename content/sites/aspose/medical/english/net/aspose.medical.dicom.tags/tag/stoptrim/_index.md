@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082143 VRIS VM1 Stop Trim.
 type: docs
 weight: 45630
-url: /aspose.medical.dicom.tags/tag/stoptrim/
+url: /net/aspose.medical.dicom.tags/tag/stoptrim/
 ---
 
 ## Tag.StopTrim field

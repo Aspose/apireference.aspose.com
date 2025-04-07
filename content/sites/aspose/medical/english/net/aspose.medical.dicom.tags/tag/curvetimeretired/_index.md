@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080035 VRTM VM1 Curve Time RETIRED.
 type: docs
 weight: 9570
-url: /aspose.medical.dicom.tags/tag/curvetimeretired/
+url: /net/aspose.medical.dicom.tags/tag/curvetimeretired/
 ---
 
 ## Tag.CurveTimeRETIRED field

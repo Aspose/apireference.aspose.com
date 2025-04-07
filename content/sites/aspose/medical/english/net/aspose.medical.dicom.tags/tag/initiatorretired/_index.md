@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000200 VRAE VM1 Initiator RETIRED.
 type: docs
 weight: 20360
-url: /aspose.medical.dicom.tags/tag/initiatorretired/
+url: /net/aspose.medical.dicom.tags/tag/initiatorretired/
 ---
 
 ## Tag.InitiatorRETIRED field

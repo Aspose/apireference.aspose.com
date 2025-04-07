@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Generates a UUID-derived UIDaspose.medical.dicom/uid according to http//medical.nema.org/medical/dicom/current/output/html/part05.htmlsect_B.2
 type: docs
 weight: 5250
-url: /aspose.medical.dicom/uid/createderivedfromuuid/
+url: /net/aspose.medical.dicom/uid/createderivedfromuuid/
 ---
 
 ## Uid.CreateDerivedFromUuid method

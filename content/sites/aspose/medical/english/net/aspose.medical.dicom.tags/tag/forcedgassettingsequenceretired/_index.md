@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146017 VRSQ VM1 Forced Gas Setting Sequence RETIRED.
 type: docs
 weight: 16250
-url: /aspose.medical.dicom.tags/tag/forcedgassettingsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/forcedgassettingsequenceretired/
 ---
 
 ## Tag.ForcedGasSettingSequenceRETIRED field

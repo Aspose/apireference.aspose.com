@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A064A VRFD VM2-n Parallel RT Beam Delimiter Positions.
 type: docs
 weight: 29510
-url: /aspose.medical.dicom.tags/tag/parallelrtbeamdelimiterpositions/
+url: /net/aspose.medical.dicom.tags/tag/parallelrtbeamdelimiterpositions/
 ---
 
 ## Tag.ParallelRTBeamDelimiterPositions field

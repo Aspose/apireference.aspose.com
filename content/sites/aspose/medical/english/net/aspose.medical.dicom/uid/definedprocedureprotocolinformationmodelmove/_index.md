@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Defined Procedure Protocol Information Model - MOVE.
 type: docs
 weight: 570
-url: /aspose.medical.dicom/uid/definedprocedureprotocolinformationmodelmove/
+url: /net/aspose.medical.dicom/uid/definedprocedureprotocolinformationmodelmove/
 ---
 
 ## Uid.DefinedProcedureProtocolInformationModelMOVE field

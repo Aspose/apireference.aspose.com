@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189423 VRLO VM1 Acquisition Protocol Name.
 type: docs
 weight: 460
-url: /aspose.medical.dicom.tags/tag/acquisitionprotocolname/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionprotocolname/
 ---
 
 ## Tag.AcquisitionProtocolName field

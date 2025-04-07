@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660121 VRSQ VM1 Measurements Sequence.
 type: docs
 weight: 24270
-url: /aspose.medical.dicom.tags/tag/measurementssequence/
+url: /net/aspose.medical.dicom.tags/tag/measurementssequence/
 ---
 
 ## Tag.MeasurementsSequence field

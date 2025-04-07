@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0004 VRST VM1 RT Plan Description.
 type: docs
 weight: 40330
-url: /aspose.medical.dicom.tags/tag/rtplandescription/
+url: /net/aspose.medical.dicom.tags/tag/rtplandescription/
 ---
 
 ## Tag.RTPlanDescription field

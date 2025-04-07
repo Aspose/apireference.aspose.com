@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0062000D VRUS VM3 Recommended Display CIELab Value.
 type: docs
 weight: 35440
-url: /aspose.medical.dicom.tags/tag/recommendeddisplaycielabvalue/
+url: /net/aspose.medical.dicom.tags/tag/recommendeddisplaycielabvalue/
 ---
 
 ## Tag.RecommendedDisplayCIELabValue field

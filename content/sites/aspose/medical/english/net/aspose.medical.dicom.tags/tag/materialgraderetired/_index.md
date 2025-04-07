@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140042 VRST VM1 Material Grade RETIRED.
 type: docs
 weight: 23680
-url: /aspose.medical.dicom.tags/tag/materialgraderetired/
+url: /net/aspose.medical.dicom.tags/tag/materialgraderetired/
 ---
 
 ## Tag.MaterialGradeRETIRED field

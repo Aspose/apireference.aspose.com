@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189761 VRCS VM1 Dead Time Corrected.
 type: docs
 weight: 10170
-url: /aspose.medical.dicom.tags/tag/deadtimecorrected/
+url: /net/aspose.medical.dicom.tags/tag/deadtimecorrected/
 ---
 
 ## Tag.DeadTimeCorrected field

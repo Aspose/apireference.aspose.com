@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460250 VRFL VM1 Tangential Power.
 type: docs
 weight: 47320
-url: /aspose.medical.dicom.tags/tag/tangentialpower/
+url: /net/aspose.medical.dicom.tags/tag/tangentialpower/
 ---
 
 ## Tag.TangentialPower field

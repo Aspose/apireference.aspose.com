@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189240 VRUS VM1 RF Echo Train Length.
 type: docs
 weight: 39270
-url: /aspose.medical.dicom.tags/tag/rfechotrainlength/
+url: /net/aspose.medical.dicom.tags/tag/rfechotrainlength/
 ---
 
 ## Tag.RFEchoTrainLength field

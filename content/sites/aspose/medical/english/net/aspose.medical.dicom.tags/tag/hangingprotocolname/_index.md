@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720002 VRSH VM1 Hanging Protocol Name.
 type: docs
 weight: 18190
-url: /aspose.medical.dicom.tags/tag/hangingprotocolname/
+url: /net/aspose.medical.dicom.tags/tag/hangingprotocolname/
 ---
 
 ## Tag.HangingProtocolName field

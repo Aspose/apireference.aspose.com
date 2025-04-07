@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022001C VRSQ VM1 Mydriatic Agent Code Sequence.
 type: docs
 weight: 25620
-url: /aspose.medical.dicom.tags/tag/mydriaticagentcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/mydriaticagentcodesequence/
 ---
 
 ## Tag.MydriaticAgentCodeSequence field

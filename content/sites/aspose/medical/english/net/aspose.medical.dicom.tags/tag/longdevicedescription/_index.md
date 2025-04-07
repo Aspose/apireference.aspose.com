@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00500021 VRST VM1 Long Device Description.
 type: docs
 weight: 22980
-url: /aspose.medical.dicom.tags/tag/longdevicedescription/
+url: /net/aspose.medical.dicom.tags/tag/longdevicedescription/
 ---
 
 ## Tag.LongDeviceDescription field

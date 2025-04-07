@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000903 VRUS VM1 Error ID.
 type: docs
 weight: 13990
-url: /aspose.medical.dicom.tags/tag/errorid/
+url: /net/aspose.medical.dicom.tags/tag/errorid/
 ---
 
 ## Tag.ErrorID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144004 VRCS VM1 Pulser Type RETIRED.
 type: docs
 weight: 33830
-url: /aspose.medical.dicom.tags/tag/pulsertyperetired/
+url: /net/aspose.medical.dicom.tags/tag/pulsertyperetired/
 ---
 
 ## Tag.PulserTypeRETIRED field

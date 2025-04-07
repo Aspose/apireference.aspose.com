@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221443 VRSQ VM1 Ophthalmic Thickness Mapping Normals Sequence.
 type: docs
 weight: 28170
-url: /aspose.medical.dicom.tags/tag/ophthalmicthicknessmappingnormalssequence/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicthicknessmappingnormalssequence/
 ---
 
 ## Tag.OphthalmicThicknessMappingNormalsSequence field

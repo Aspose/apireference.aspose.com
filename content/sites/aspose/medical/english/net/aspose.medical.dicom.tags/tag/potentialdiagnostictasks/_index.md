@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018990A VRUC VM1-n Potential Diagnostic Tasks.
 type: docs
 weight: 32200
-url: /aspose.medical.dicom.tags/tag/potentialdiagnostictasks/
+url: /net/aspose.medical.dicom.tags/tag/potentialdiagnostictasks/
 ---
 
 ## Tag.PotentialDiagnosticTasks field

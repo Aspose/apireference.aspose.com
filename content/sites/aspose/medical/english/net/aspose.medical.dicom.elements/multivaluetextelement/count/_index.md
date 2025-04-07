@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The number of elements contained in this element. Read-only Int32.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/multivaluetextelement/count/
+url: /net/aspose.medical.dicom.elements/multivaluetextelement/count/
 ---
 
 ## MultiValueTextElement.Count property

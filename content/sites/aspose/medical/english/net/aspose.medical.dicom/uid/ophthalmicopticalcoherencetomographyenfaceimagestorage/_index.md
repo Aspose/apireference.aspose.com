@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Ophthalmic Optical Coherence Tomography En Face Image Storage.
 type: docs
 weight: 2850
-url: /aspose.medical.dicom/uid/ophthalmicopticalcoherencetomographyenfaceimagestorage/
+url: /net/aspose.medical.dicom/uid/ophthalmicopticalcoherencetomographyenfaceimagestorage/
 ---
 
 ## Uid.OphthalmicOpticalCoherenceTomographyEnFaceImageStorage field

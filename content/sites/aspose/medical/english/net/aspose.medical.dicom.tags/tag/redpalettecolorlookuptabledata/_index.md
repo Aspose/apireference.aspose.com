@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281201 VROW VM1 Red Palette Color Lookup Table Data.
 type: docs
 weight: 35930
-url: /aspose.medical.dicom.tags/tag/redpalettecolorlookuptabledata/
+url: /net/aspose.medical.dicom.tags/tag/redpalettecolorlookuptabledata/
 ---
 
 ## Tag.RedPaletteColorLookupTableData field

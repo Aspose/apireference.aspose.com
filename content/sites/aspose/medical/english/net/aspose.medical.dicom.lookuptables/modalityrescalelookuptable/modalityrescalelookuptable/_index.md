@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Initialize new instance of ModalityRescaleLookUpTableaspose.medical.dicom.lookuptables/modalityrescalelookuptable using the specified slope and intercept parameters
 type: docs
 weight: 10
-url: /aspose.medical.dicom.lookuptables/modalityrescalelookuptable/modalityrescalelookuptable/
+url: /net/aspose.medical.dicom.lookuptables/modalityrescalelookuptable/modalityrescalelookuptable/
 ---
 
 ## ModalityRescaleLookUpTable constructor

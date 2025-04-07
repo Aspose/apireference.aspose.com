@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189543 VRFD VM1 X-Ray Source Isocenter Primary Angle.
 type: docs
 weight: 52860
-url: /aspose.medical.dicom.tags/tag/xraysourceisocenterprimaryangle/
+url: /net/aspose.medical.dicom.tags/tag/xraysourceisocenterprimaryangle/
 ---
 
 ## Tag.XRaySourceIsocenterPrimaryAngle field

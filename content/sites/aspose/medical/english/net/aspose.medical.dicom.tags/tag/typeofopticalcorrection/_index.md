@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221046 VRCS VM1 Type of Optical Correction.
 type: docs
 weight: 50310
-url: /aspose.medical.dicom.tags/tag/typeofopticalcorrection/
+url: /net/aspose.medical.dicom.tags/tag/typeofopticalcorrection/
 ---
 
 ## Tag.TypeOfOpticalCorrection field

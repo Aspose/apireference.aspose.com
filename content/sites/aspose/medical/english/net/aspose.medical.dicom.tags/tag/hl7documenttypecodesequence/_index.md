@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040E006 VRSQ VM1 HL7 Document Type Code Sequence.
 type: docs
 weight: 18430
-url: /aspose.medical.dicom.tags/tag/hl7documenttypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/hl7documenttypecodesequence/
 ---
 
 ## Tag.HL7DocumentTypeCodeSequence field

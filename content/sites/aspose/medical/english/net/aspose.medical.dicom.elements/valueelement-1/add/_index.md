@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Adds the given value to the collection of values of this element.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.elements/valueelement-1/add/
+url: /net/aspose.medical.dicom.elements/valueelement-1/add/
 ---
 
 ## ValueElement&lt;T&gt;.Add method

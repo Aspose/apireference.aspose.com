@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460212 VRFL VM1 Maximum Corneal Curvature.
 type: docs
 weight: 23920
-url: /aspose.medical.dicom.tags/tag/maximumcornealcurvature/
+url: /net/aspose.medical.dicom.tags/tag/maximumcornealcurvature/
 ---
 
 ## Tag.MaximumCornealCurvature field

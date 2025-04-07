@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A008C VRSQ VM1 Beam Dose Verification Control Point Sequence.
 type: docs
 weight: 3400
-url: /aspose.medical.dicom.tags/tag/beamdoseverificationcontrolpointsequence/
+url: /net/aspose.medical.dicom.tags/tag/beamdoseverificationcontrolpointsequence/
 ---
 
 ## Tag.BeamDoseVerificationControlPointSequence field

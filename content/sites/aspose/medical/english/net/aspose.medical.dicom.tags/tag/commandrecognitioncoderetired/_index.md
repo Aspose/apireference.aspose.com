@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000010 VRSH VM1 Command Recognition Code RETIRED.
 type: docs
 weight: 6560
-url: /aspose.medical.dicom.tags/tag/commandrecognitioncoderetired/
+url: /net/aspose.medical.dicom.tags/tag/commandrecognitioncoderetired/
 ---
 
 ## Tag.CommandRecognitionCodeRETIRED field

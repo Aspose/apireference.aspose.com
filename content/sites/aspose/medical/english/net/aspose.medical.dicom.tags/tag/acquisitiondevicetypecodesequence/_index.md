@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220015 VRSQ VM1 Acquisition Device Type Code Sequence.
 type: docs
 weight: 280
-url: /aspose.medical.dicom.tags/tag/acquisitiondevicetypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/acquisitiondevicetypecodesequence/
 ---
 
 ## Tag.AcquisitionDeviceTypeCodeSequence field

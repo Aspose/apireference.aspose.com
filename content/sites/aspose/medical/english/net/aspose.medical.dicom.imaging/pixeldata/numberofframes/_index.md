@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The DICOM image Number of frames. This value usually equals 1 for single frame images. Read/Write Int32.
 type: docs
 weight: 130
-url: /aspose.medical.dicom.imaging/pixeldata/numberofframes/
+url: /net/aspose.medical.dicom.imaging/pixeldata/numberofframes/
 ---
 
 ## PixelData.NumberOfFrames property

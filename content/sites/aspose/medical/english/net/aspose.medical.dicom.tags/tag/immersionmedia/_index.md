@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00161004 VRCS VM1-n Immersion Media.
 type: docs
 weight: 19750
-url: /aspose.medical.dicom.tags/tag/immersionmedia/
+url: /net/aspose.medical.dicom.tags/tag/immersionmedia/
 ---
 
 ## Tag.ImmersionMedia field

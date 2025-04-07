@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Signed Long SL VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextSL-Signed20Long-Signed20binary20integer.
 type: docs
 weight: 450
-url: /aspose.medical.dicom.elements/signedlong/
+url: /net/aspose.medical.dicom.elements/signedlong/
 ---
 
 ## SignedLong class

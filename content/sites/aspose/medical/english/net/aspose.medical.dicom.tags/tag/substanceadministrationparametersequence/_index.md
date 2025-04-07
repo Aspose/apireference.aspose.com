@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440019 VRSQ VM1 Substance Administration Parameter Sequence.
 type: docs
 weight: 46250
-url: /aspose.medical.dicom.tags/tag/substanceadministrationparametersequence/
+url: /net/aspose.medical.dicom.tags/tag/substanceadministrationparametersequence/
 ---
 
 ## Tag.SubstanceAdministrationParameterSequence field

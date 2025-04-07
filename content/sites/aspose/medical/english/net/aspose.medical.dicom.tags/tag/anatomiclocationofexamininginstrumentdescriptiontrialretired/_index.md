@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082258 VRST VM1 Anatomic Location Of Examining Instrument Description Trial RETIRED.
 type: docs
 weight: 1500
-url: /aspose.medical.dicom.tags/tag/anatomiclocationofexamininginstrumentdescriptiontrialretired/
+url: /net/aspose.medical.dicom.tags/tag/anatomiclocationofexamininginstrumentdescriptiontrialretired/
 ---
 
 ## Tag.AnatomicLocationOfExaminingInstrumentDescriptionTrialRETIRED field

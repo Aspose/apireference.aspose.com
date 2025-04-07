@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0671 VRSQ VM1 General Accessory Definition Sequence.
 type: docs
 weight: 17110
-url: /aspose.medical.dicom.tags/tag/generalaccessorydefinitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/generalaccessorydefinitionsequence/
 ---
 
 ## Tag.GeneralAccessoryDefinitionSequence field

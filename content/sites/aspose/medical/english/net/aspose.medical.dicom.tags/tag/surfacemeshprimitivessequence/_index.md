@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660013 VRSQ VM1 Surface Mesh Primitives Sequence.
 type: docs
 weight: 46340
-url: /aspose.medical.dicom.tags/tag/surfacemeshprimitivessequence/
+url: /net/aspose.medical.dicom.tags/tag/surfacemeshprimitivessequence/
 ---
 
 ## Tag.SurfaceMeshPrimitivesSequence field

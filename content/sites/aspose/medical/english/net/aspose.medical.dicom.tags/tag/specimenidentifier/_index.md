@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400551 VRLO VM1 Specimen Identifier.
 type: docs
 weight: 45000
-url: /aspose.medical.dicom.tags/tag/specimenidentifier/
+url: /net/aspose.medical.dicom.tags/tag/specimenidentifier/
 ---
 
 ## Tag.SpecimenIdentifier field

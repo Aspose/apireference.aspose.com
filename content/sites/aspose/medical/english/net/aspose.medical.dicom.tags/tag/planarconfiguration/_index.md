@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280006 VRUS VM1 Planar Configuration.
 type: docs
 weight: 31660
-url: /aspose.medical.dicom.tags/tag/planarconfiguration/
+url: /net/aspose.medical.dicom.tags/tag/planarconfiguration/
 ---
 
 ## Tag.PlanarConfiguration field

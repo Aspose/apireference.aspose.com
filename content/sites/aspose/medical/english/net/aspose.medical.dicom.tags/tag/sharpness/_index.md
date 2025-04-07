@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016004A VRUS VM1 Sharpness.
 type: docs
 weight: 43160
-url: /aspose.medical.dicom.tags/tag/sharpness/
+url: /net/aspose.medical.dicom.tags/tag/sharpness/
 ---
 
 ## Tag.Sharpness field

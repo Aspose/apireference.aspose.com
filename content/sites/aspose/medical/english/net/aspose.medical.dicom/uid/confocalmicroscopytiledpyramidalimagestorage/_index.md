@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Confocal Microscopy Tiled Pyramidal Image Storage.
 type: docs
 weight: 490
-url: /aspose.medical.dicom/uid/confocalmicroscopytiledpyramidalimagestorage/
+url: /net/aspose.medical.dicom/uid/confocalmicroscopytiledpyramidalimagestorage/
 ---
 
 ## Uid.ConfocalMicroscopyTiledPyramidalImageStorage field

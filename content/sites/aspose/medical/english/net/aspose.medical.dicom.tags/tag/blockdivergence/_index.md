@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00FA VRCS VM1 Block Divergence.
 type: docs
 weight: 4000
-url: /aspose.medical.dicom.tags/tag/blockdivergence/
+url: /net/aspose.medical.dicom.tags/tag/blockdivergence/
 ---
 
 ## Tag.BlockDivergence field

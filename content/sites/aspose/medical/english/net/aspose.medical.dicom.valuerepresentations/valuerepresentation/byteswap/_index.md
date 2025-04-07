@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Number of bytes to swap when changing endian representation of value. Usually equal to the UnitSizeaspose.medical.dicom.valuerepresentations/valuerepresentation/unitsize. Read-only Int32.
 type: docs
 weight: 370
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/byteswap/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/byteswap/
 ---
 
 ## ValueRepresentation.ByteSwap property

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080306 VRUS VM1-n Identifying Private Elements.
 type: docs
 weight: 18780
-url: /aspose.medical.dicom.tags/tag/identifyingprivateelements/
+url: /net/aspose.medical.dicom.tags/tag/identifyingprivateelements/
 ---
 
 ## Tag.IdentifyingPrivateElements field

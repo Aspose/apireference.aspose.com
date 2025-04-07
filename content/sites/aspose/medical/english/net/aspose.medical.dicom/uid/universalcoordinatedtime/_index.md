@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Synchronization Frame of Reference Universal Coordinated Time.
 type: docs
 weight: 4880
-url: /aspose.medical.dicom/uid/universalcoordinatedtime/
+url: /net/aspose.medical.dicom/uid/universalcoordinatedtime/
 ---
 
 ## Uid.UniversalCoordinatedTime field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181094 VRIS VM1 Trigger Window.
 type: docs
 weight: 50090
-url: /aspose.medical.dicom.tags/tag/triggerwindow/
+url: /net/aspose.medical.dicom.tags/tag/triggerwindow/
 ---
 
 ## Tag.TriggerWindow field

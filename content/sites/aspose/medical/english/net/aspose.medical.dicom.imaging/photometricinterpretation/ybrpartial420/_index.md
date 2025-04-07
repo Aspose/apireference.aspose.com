@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The same as YBR_PARTIAL_422 except that the Cb and Cr values are sampled horizontally and vertically at half the Y rate and as a result there are four times less Cb and Cr values than Y values versus twice less for YBR_PARTIAL_422. This Photometric Interpretation is only allowed with Planar Configuration 00280006 equal to 0. The Cb and Cr values shall be sampled at the location of the first of the two Y values. For the first Row of Pixels etc. the first Cb and Cr samples shall be at the location of the first Y sample. The next Cb and Cr samples shall be at the location of the third Y sample etc. The next Rows of Pixels containing Cb and Cr samples at the same locations than for the first Row will be the third etc. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_c.7.6.3.htmlsect_C.7.6.3.1.2textPS3.32D2017b.-YBR_PARTIAL_420-Pixel20data20represent. Read-only PhotometricInterpretationaspose.medical.dicom.imaging/photometricinterpretation.
 type: docs
 weight: 90
-url: /aspose.medical.dicom.imaging/photometricinterpretation/ybrpartial420/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/ybrpartial420/
 ---
 
 ## PhotometricInterpretation.YbrPartial420 property

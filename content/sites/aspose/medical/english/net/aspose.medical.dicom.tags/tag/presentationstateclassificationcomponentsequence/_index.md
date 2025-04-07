@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701801 VRSQ VM1 Presentation State Classification Component Sequence.
 type: docs
 weight: 32660
-url: /aspose.medical.dicom.tags/tag/presentationstateclassificationcomponentsequence/
+url: /net/aspose.medical.dicom.tags/tag/presentationstateclassificationcomponentsequence/
 ---
 
 ## Tag.PresentationStateClassificationComponentSequence field

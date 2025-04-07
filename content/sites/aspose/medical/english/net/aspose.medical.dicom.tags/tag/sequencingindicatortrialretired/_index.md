@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A060 VRLO VM1 Sequencing Indicator Trial RETIRED.
 type: docs
 weight: 42860
-url: /aspose.medical.dicom.tags/tag/sequencingindicatortrialretired/
+url: /net/aspose.medical.dicom.tags/tag/sequencingindicatortrialretired/
 ---
 
 ## Tag.SequencingIndicatorTrialRETIRED field

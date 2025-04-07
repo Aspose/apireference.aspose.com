@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0202 VRIS VM1 Waveform Channel Number.
 type: docs
 weight: 51940
-url: /aspose.medical.dicom.tags/tag/waveformchannelnumber/
+url: /net/aspose.medical.dicom.tags/tag/waveformchannelnumber/
 ---
 
 ## Tag.WaveformChannelNumber field

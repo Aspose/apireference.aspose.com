@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380011 VRLO VM1 Issuer of Admission ID RETIRED.
 type: docs
 weight: 21770
-url: /aspose.medical.dicom.tags/tag/issuerofadmissionidretired/
+url: /net/aspose.medical.dicom.tags/tag/issuerofadmissionidretired/
 ---
 
 ## Tag.IssuerOfAdmissionIDRETIRED field

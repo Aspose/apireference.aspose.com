@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700102 VRIS VM2 Presentation Pixel Aspect Ratio.
 type: docs
 weight: 32600
-url: /aspose.medical.dicom.tags/tag/presentationpixelaspectratio/
+url: /net/aspose.medical.dicom.tags/tag/presentationpixelaspectratio/
 ---
 
 ## Tag.PresentationPixelAspectRatio field

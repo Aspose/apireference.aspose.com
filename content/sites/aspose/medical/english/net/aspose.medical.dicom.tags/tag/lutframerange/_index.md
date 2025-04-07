@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289507 VRUS VM2-2n LUT Frame Range.
 type: docs
 weight: 23220
-url: /aspose.medical.dicom.tags/tag/lutframerange/
+url: /net/aspose.medical.dicom.tags/tag/lutframerange/
 ---
 
 ## Tag.LUTFrameRange field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 7FE00010 VROB or OW VM1 Pixel Data.
 type: docs
 weight: 31400
-url: /aspose.medical.dicom.tags/tag/pixeldata/
+url: /net/aspose.medical.dicom.tags/tag/pixeldata/
 ---
 
 ## Tag.PixelData field

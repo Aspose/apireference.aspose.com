@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0391 VRIS VM1-n Scan Spot Prescribed Indices.
 type: docs
 weight: 41120
-url: /aspose.medical.dicom.tags/tag/scanspotprescribedindices/
+url: /net/aspose.medical.dicom.tags/tag/scanspotprescribedindices/
 ---
 
 ## Tag.ScanSpotPrescribedIndices field

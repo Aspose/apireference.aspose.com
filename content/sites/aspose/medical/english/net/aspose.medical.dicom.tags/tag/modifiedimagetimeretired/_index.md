@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00203405 VRTM VM1 Modified Image Time RETIRED.
 type: docs
 weight: 24790
-url: /aspose.medical.dicom.tags/tag/modifiedimagetimeretired/
+url: /net/aspose.medical.dicom.tags/tag/modifiedimagetimeretired/
 ---
 
 ## Tag.ModifiedImageTimeRETIRED field

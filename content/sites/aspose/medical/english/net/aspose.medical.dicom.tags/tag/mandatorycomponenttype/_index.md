@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00760038 VRCS VM1 Mandatory Component Type.
 type: docs
 weight: 23410
-url: /aspose.medical.dicom.tags/tag/mandatorycomponenttype/
+url: /net/aspose.medical.dicom.tags/tag/mandatorycomponenttype/
 ---
 
 ## Tag.MandatoryComponentType field

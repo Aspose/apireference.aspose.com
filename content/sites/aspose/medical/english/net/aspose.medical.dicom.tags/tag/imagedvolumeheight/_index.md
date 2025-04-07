@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480002 VRFL VM1 Imaged Volume Height.
 type: docs
 weight: 19130
-url: /aspose.medical.dicom.tags/tag/imagedvolumeheight/
+url: /net/aspose.medical.dicom.tags/tag/imagedvolumeheight/
 ---
 
 ## Tag.ImagedVolumeHeight field

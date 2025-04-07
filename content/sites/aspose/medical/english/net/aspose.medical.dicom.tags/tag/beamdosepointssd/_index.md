@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A008A VRFL VM1 Beam Dose Point SSD.
 type: docs
 weight: 3370
-url: /aspose.medical.dicom.tags/tag/beamdosepointssd/
+url: /net/aspose.medical.dicom.tags/tag/beamdosepointssd/
 ---
 
 ## Tag.BeamDosePointSSD field

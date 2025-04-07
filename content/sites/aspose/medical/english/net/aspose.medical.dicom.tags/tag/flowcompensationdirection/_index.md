@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189183 VRCS VM1 Flow Compensation Direction.
 type: docs
 weight: 16010
-url: /aspose.medical.dicom.tags/tag/flowcompensationdirection/
+url: /net/aspose.medical.dicom.tags/tag/flowcompensationdirection/
 ---
 
 ## Tag.FlowCompensationDirection field

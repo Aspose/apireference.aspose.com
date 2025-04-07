@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686340 VRLO VM1 HPGL Pen Label.
 type: docs
 weight: 18620
-url: /aspose.medical.dicom.tags/tag/hpglpenlabel/
+url: /net/aspose.medical.dicom.tags/tag/hpglpenlabel/
 ---
 
 ## Tag.HPGLPenLabel field

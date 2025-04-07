@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160028 VRUS VM1 Light Source.
 type: docs
 weight: 22770
-url: /aspose.medical.dicom.tags/tag/lightsource/
+url: /net/aspose.medical.dicom.tags/tag/lightsource/
 ---
 
 ## Tag.LightSource field

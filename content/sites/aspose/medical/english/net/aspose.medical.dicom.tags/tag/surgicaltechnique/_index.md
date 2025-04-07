@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00760030 VRLO VM1 Surgical Technique.
 type: docs
 weight: 46550
-url: /aspose.medical.dicom.tags/tag/surgicaltechnique/
+url: /net/aspose.medical.dicom.tags/tag/surgicaltechnique/
 ---
 
 ## Tag.SurgicalTechnique field

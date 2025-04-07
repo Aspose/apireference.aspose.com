@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520016 VRSQ VM1 Mode of Percutaneous Access Sequence.
 type: docs
 weight: 24730
-url: /aspose.medical.dicom.tags/tag/modeofpercutaneousaccesssequence/
+url: /net/aspose.medical.dicom.tags/tag/modeofpercutaneousaccesssequence/
 ---
 
 ## Tag.ModeOfPercutaneousAccessSequence field

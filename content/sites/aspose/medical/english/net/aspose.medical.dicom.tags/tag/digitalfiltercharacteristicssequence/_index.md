@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0326 VRSQ VM1 Digital Filter Characteristics Sequence.
 type: docs
 weight: 11740
-url: /aspose.medical.dicom.tags/tag/digitalfiltercharacteristicssequence/
+url: /net/aspose.medical.dicom.tags/tag/digitalfiltercharacteristicssequence/
 ---
 
 ## Tag.DigitalFilterCharacteristicsSequence field

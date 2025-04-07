@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181520 VRDS VM1-n Positioner Primary Angle Increment.
 type: docs
 weight: 32080
-url: /aspose.medical.dicom.tags/tag/positionerprimaryangleincrement/
+url: /net/aspose.medical.dicom.tags/tag/positionerprimaryangleincrement/
 ---
 
 ## Tag.PositionerPrimaryAngleIncrement field

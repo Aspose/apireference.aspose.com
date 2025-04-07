@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The number of bytes allocated per pixel sample. Read-only Int32.
 type: docs
 weight: 60
-url: /aspose.medical.dicom.imaging/pixeldata/bytesallocated/
+url: /net/aspose.medical.dicom.imaging/pixeldata/bytesallocated/
 ---
 
 ## PixelData.BytesAllocated property

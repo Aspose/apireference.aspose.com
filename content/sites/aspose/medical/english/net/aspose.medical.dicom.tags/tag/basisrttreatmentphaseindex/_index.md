@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010003E VRUS VM1 Basis RT Treatment Phase Index.
 type: docs
 weight: 3250
-url: /aspose.medical.dicom.tags/tag/basisrttreatmentphaseindex/
+url: /net/aspose.medical.dicom.tags/tag/basisrttreatmentphaseindex/
 ---
 
 ## Tag.BasisRTTreatmentPhaseIndex field

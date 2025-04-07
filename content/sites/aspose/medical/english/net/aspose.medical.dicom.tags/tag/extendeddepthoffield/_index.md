@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480012 VRCS VM1 Extended Depth of Field.
 type: docs
 weight: 14710
-url: /aspose.medical.dicom.tags/tag/extendeddepthoffield/
+url: /net/aspose.medical.dicom.tags/tag/extendeddepthoffield/
 ---
 
 ## Tag.ExtendedDepthOfField field

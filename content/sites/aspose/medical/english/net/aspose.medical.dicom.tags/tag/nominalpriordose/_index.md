@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A001A VRDS VM1 Nominal Prior Dose.
 type: docs
 weight: 25850
-url: /aspose.medical.dicom.tags/tag/nominalpriordose/
+url: /net/aspose.medical.dicom.tags/tag/nominalpriordose/
 ---
 
 ## Tag.NominalPriorDose field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00324000 VRLT VM1 Study Comments RETIRED.
 type: docs
 weight: 45960
-url: /aspose.medical.dicom.tags/tag/studycommentsretired/
+url: /net/aspose.medical.dicom.tags/tag/studycommentsretired/
 ---
 
 ## Tag.StudyCommentsRETIRED field

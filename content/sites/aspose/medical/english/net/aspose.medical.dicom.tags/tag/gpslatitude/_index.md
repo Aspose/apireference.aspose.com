@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160072 VRDS VM3 GPS Latitude.
 type: docs
 weight: 17580
-url: /aspose.medical.dicom.tags/tag/gpslatitude/
+url: /net/aspose.medical.dicom.tags/tag/gpslatitude/
 ---
 
 ## Tag.GPSLatitude field

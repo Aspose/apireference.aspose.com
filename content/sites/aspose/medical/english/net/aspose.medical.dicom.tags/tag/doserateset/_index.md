@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0115 VRDS VM1 Dose Rate Set.
 type: docs
 weight: 12700
-url: /aspose.medical.dicom.tags/tag/doserateset/
+url: /net/aspose.medical.dicom.tags/tag/doserateset/
 ---
 
 ## Tag.DoseRateSet field

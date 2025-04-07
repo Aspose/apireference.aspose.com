@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Black 0 0 0 255 pixel.
 type: docs
 weight: 20
-url: /aspose.medical.imaging.pixelformats/bgra32/black/
+url: /net/aspose.medical.imaging.pixelformats/bgra32/black/
 ---
 
 ## Bgra32.Black field

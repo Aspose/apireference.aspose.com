@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A01B8 VRSH VM1 Setup Device Label.
 type: docs
 weight: 42990
-url: /aspose.medical.dicom.tags/tag/setupdevicelabel/
+url: /net/aspose.medical.dicom.tags/tag/setupdevicelabel/
 ---
 
 ## Tag.SetupDeviceLabel field

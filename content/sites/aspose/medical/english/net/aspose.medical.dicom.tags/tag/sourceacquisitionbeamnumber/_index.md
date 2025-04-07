@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189939 VRUS VM1-n Source Acquisition Beam Number.
 type: docs
 weight: 43940
-url: /aspose.medical.dicom.tags/tag/sourceacquisitionbeamnumber/
+url: /net/aspose.medical.dicom.tags/tag/sourceacquisitionbeamnumber/
 ---
 
 ## Tag.SourceAcquisitionBeamNumber field

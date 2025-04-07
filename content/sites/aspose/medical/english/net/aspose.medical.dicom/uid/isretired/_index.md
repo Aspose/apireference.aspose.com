@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Indicates whether this UID is retired or not. Read-only Boolean.
 type: docs
 weight: 5280
-url: /aspose.medical.dicom/uid/isretired/
+url: /net/aspose.medical.dicom/uid/isretired/
 ---
 
 ## Uid.IsRetired property

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281054 VRLO VM1 Rescale Type.
 type: docs
 weight: 38910
-url: /aspose.medical.dicom.tags/tag/rescaletype/
+url: /net/aspose.medical.dicom.tags/tag/rescaletype/
 ---
 
 ## Tag.RescaleType field

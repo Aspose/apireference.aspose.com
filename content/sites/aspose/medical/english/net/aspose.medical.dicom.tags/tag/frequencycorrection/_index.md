@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189101 VRCS VM1 Frequency Correction.
 type: docs
 weight: 16830
-url: /aspose.medical.dicom.tags/tag/frequencycorrection/
+url: /net/aspose.medical.dicom.tags/tag/frequencycorrection/
 ---
 
 ## Tag.FrequencyCorrection field

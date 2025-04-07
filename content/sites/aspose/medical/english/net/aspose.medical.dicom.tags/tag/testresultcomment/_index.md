@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028702A VRLO VM1 Test Result Comment.
 type: docs
 weight: 47790
-url: /aspose.medical.dicom.tags/tag/testresultcomment/
+url: /net/aspose.medical.dicom.tags/tag/testresultcomment/
 ---
 
 ## Tag.TestResultComment field

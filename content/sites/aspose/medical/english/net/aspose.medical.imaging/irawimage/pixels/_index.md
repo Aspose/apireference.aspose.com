@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The images pixels. Read-only Bgra32aspose.medical.imaging.pixelformats/bgra32s array.
 type: docs
 weight: 30
-url: /aspose.medical.imaging/irawimage/pixels/
+url: /net/aspose.medical.imaging/irawimage/pixels/
 ---
 
 ## IRawImage.Pixels property

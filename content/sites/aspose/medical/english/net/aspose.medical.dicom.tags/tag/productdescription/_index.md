@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440009 VRLT VM1 Product Description.
 type: docs
 weight: 33510
-url: /aspose.medical.dicom.tags/tag/productdescription/
+url: /net/aspose.medical.dicom.tags/tag/productdescription/
 ---
 
 ## Tag.ProductDescription field

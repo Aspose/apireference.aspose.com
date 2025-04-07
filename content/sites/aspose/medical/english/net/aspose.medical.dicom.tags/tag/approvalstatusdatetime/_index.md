@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440004 VRDT VM1 Approval Status DateTime.
 type: docs
 weight: 2280
-url: /aspose.medical.dicom.tags/tag/approvalstatusdatetime/
+url: /net/aspose.medical.dicom.tags/tag/approvalstatusdatetime/
 ---
 
 ## Tag.ApprovalStatusDateTime field

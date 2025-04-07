@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010004D VRDA VM1 Intended Phase End Date.
 type: docs
 weight: 20700
-url: /aspose.medical.dicom.tags/tag/intendedphaseenddate/
+url: /net/aspose.medical.dicom.tags/tag/intendedphaseenddate/
 ---
 
 ## Tag.IntendedPhaseEndDate field

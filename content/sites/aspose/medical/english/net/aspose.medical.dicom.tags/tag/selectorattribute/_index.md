@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720026 VRAT VM1 Selector Attribute.
 type: docs
 weight: 42300
-url: /aspose.medical.dicom.tags/tag/selectorattribute/
+url: /net/aspose.medical.dicom.tags/tag/selectorattribute/
 ---
 
 ## Tag.SelectorAttribute field

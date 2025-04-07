@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440105 VRDT VM1 Assertion Expiration DateTime.
 type: docs
 weight: 2540
-url: /aspose.medical.dicom.tags/tag/assertionexpirationdatetime/
+url: /net/aspose.medical.dicom.tags/tag/assertionexpirationdatetime/
 ---
 
 ## Tag.AssertionExpirationDateTime field

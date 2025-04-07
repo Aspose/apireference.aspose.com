@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100019 VRSQ VM1 Author Identification Sequence.
 type: docs
 weight: 2890
-url: /aspose.medical.dicom.tags/tag/authoridentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/authoridentificationsequence/
 ---
 
 ## Tag.AuthorIdentificationSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A022B VRDS VM1 Source Strength.
 type: docs
 weight: 44510
-url: /aspose.medical.dicom.tags/tag/sourcestrength/
+url: /net/aspose.medical.dicom.tags/tag/sourcestrength/
 ---
 
 ## Tag.SourceStrength field

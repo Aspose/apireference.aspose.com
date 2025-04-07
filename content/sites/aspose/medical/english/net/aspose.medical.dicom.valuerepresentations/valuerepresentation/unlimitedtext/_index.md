@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Unlimited Text UT.
 type: docs
 weight: 320
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/unlimitedtext/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/unlimitedtext/
 ---
 
 ## ValueRepresentation.UnlimitedText field

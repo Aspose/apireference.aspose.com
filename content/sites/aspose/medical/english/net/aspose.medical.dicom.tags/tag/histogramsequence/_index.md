@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00603000 VRSQ VM1 Histogram Sequence.
 type: docs
 weight: 18400
-url: /aspose.medical.dicom.tags/tag/histogramsequence/
+url: /net/aspose.medical.dicom.tags/tag/histogramsequence/
 ---
 
 ## Tag.HistogramSequence field

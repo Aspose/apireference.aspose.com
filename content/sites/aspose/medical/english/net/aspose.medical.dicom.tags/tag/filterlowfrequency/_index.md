@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0220 VRDS VM1 Filter Low Frequency.
 type: docs
 weight: 15390
-url: /aspose.medical.dicom.tags/tag/filterlowfrequency/
+url: /net/aspose.medical.dicom.tags/tag/filterlowfrequency/
 ---
 
 ## Tag.FilterLowFrequency field

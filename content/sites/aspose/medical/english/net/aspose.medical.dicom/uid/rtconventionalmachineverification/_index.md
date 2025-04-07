@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class RT Conventional Machine Verification.
 type: docs
 weight: 4060
-url: /aspose.medical.dicom/uid/rtconventionalmachineverification/
+url: /net/aspose.medical.dicom/uid/rtconventionalmachineverification/
 ---
 
 ## Uid.RTConventionalMachineVerification field

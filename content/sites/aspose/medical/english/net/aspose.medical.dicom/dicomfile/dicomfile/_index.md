@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Initializes a new instance of the DicomFileaspose.medical.dicom/dicomfile class using the data from the given file.
 type: docs
 weight: 10
-url: /aspose.medical.dicom/dicomfile/dicomfile/
+url: /net/aspose.medical.dicom/dicomfile/dicomfile/
 ---
 
 ## DicomFile(DicomFile) {#constructor_2}

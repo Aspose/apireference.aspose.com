@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100007 VRSQ VM1 Originating SOP Instance Reference Sequence.
 type: docs
 weight: 28570
-url: /aspose.medical.dicom.tags/tag/originatingsopinstancereferencesequence/
+url: /net/aspose.medical.dicom.tags/tag/originatingsopinstancereferencesequence/
 ---
 
 ## Tag.OriginatingSOPInstanceReferenceSequence field

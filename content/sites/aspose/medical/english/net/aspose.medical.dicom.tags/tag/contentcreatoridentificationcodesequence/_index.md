@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700086 VRSQ VM1 Content Creators Identification Code Sequence.
 type: docs
 weight: 7850
-url: /aspose.medical.dicom.tags/tag/contentcreatoridentificationcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/contentcreatoridentificationcodesequence/
 ---
 
 ## Tag.ContentCreatorIdentificationCodeSequence field

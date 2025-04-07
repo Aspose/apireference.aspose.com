@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A030D VRFL VM1 Snout Position.
 type: docs
 weight: 43720
-url: /aspose.medical.dicom.tags/tag/snoutposition/
+url: /net/aspose.medical.dicom.tags/tag/snoutposition/
 ---
 
 ## Tag.SnoutPosition field

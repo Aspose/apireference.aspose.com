@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700279 VRCS VM1 Tick Label Alignment.
 type: docs
 weight: 48290
-url: /aspose.medical.dicom.tags/tag/ticklabelalignment/
+url: /net/aspose.medical.dicom.tags/tag/ticklabelalignment/
 ---
 
 ## Tag.TickLabelAlignment field

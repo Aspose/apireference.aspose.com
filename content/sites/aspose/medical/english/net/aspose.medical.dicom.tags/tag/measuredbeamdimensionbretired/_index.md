@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144018 VRDS VM1 Measured Beam Dimension B RETIRED.
 type: docs
 weight: 24090
-url: /aspose.medical.dicom.tags/tag/measuredbeamdimensionbretired/
+url: /net/aspose.medical.dicom.tags/tag/measuredbeamdimensionbretired/
 ---
 
 ## Tag.MeasuredBeamDimensionBRETIRED field

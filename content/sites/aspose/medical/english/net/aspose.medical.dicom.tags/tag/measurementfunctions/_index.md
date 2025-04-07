@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287013 VRCS VM1-n Measurement Functions.
 type: docs
 weight: 24230
-url: /aspose.medical.dicom.tags/tag/measurementfunctions/
+url: /net/aspose.medical.dicom.tags/tag/measurementfunctions/
 ---
 
 ## Tag.MeasurementFunctions field

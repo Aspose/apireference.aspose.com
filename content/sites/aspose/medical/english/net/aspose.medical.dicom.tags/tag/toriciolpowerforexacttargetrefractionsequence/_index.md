@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022104B VRSQ VM1 Toric IOL Power for Exact Target Refraction Sequence.
 type: docs
 weight: 48830
-url: /aspose.medical.dicom.tags/tag/toriciolpowerforexacttargetrefractionsequence/
+url: /net/aspose.medical.dicom.tags/tag/toriciolpowerforexacttargetrefractionsequence/
 ---
 
 ## Tag.ToricIOLPowerForExactTargetRefractionSequence field

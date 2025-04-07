@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016002B VROB VM1 Maker Note.
 type: docs
 weight: 23400
-url: /aspose.medical.dicom.tags/tag/makernote/
+url: /net/aspose.medical.dicom.tags/tag/makernote/
 ---
 
 ## Tag.MakerNote field

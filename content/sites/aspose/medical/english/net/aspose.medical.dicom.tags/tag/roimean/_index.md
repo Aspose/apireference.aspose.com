@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx1302 VRDS VM1 ROI Mean.
 type: docs
 weight: 39500
-url: /aspose.medical.dicom.tags/tag/roimean/
+url: /net/aspose.medical.dicom.tags/tag/roimean/
 ---
 
 ## Tag.ROIMean field

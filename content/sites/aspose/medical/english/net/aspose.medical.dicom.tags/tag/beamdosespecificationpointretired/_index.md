@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0082 VRDS VM3 Beam Dose Specification Point RETIRED.
 type: docs
 weight: 3380
-url: /aspose.medical.dicom.tags/tag/beamdosespecificationpointretired/
+url: /net/aspose.medical.dicom.tags/tag/beamdosespecificationpointretired/
 ---
 
 ## Tag.BeamDoseSpecificationPointRETIRED field

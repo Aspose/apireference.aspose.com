@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018980E VRSQ VM1 Transducer Beam Steering Code Sequence.
 type: docs
 weight: 49210
-url: /aspose.medical.dicom.tags/tag/transducerbeamsteeringcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/transducerbeamsteeringcodesequence/
 ---
 
 ## Tag.TransducerBeamSteeringCodeSequence field

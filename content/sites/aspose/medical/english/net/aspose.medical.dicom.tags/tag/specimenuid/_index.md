@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400554 VRUI VM1 Specimen UID.
 type: docs
 weight: 45090
-url: /aspose.medical.dicom.tags/tag/specimenuid/
+url: /net/aspose.medical.dicom.tags/tag/specimenuid/
 ---
 
 ## Tag.SpecimenUID field

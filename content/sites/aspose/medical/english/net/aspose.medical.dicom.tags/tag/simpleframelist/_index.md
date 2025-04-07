@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081161 VRUL VM1-n Simple Frame List.
 type: docs
 weight: 43500
-url: /aspose.medical.dicom.tags/tag/simpleframelist/
+url: /net/aspose.medical.dicom.tags/tag/simpleframelist/
 ---
 
 ## Tag.SimpleFrameList field

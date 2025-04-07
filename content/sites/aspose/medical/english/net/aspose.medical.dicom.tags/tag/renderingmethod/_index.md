@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0070120D VRCS VM1 Rendering Method.
 type: docs
 weight: 38420
-url: /aspose.medical.dicom.tags/tag/renderingmethod/
+url: /net/aspose.medical.dicom.tags/tag/renderingmethod/
 ---
 
 ## Tag.RenderingMethod field

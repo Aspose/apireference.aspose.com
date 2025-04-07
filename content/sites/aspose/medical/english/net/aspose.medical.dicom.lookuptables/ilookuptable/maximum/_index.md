@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The maximum output value. Read-only Boolean.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.lookuptables/ilookuptable/maximum/
+url: /net/aspose.medical.dicom.lookuptables/ilookuptable/maximum/
 ---
 
 ## ILookUpTable.Maximum property

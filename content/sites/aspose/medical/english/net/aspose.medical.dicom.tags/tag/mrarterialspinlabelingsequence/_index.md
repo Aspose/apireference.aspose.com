@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189251 VRSQ VM1 MR Arterial Spin Labeling Sequence.
 type: docs
 weight: 25170
-url: /aspose.medical.dicom.tags/tag/mrarterialspinlabelingsequence/
+url: /net/aspose.medical.dicom.tags/tag/mrarterialspinlabelingsequence/
 ---
 
 ## Tag.MRArterialSpinLabelingSequence field

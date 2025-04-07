@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00D3 VRCS VM1 Wedge Type.
 type: docs
 weight: 52410
-url: /aspose.medical.dicom.tags/tag/wedgetype/
+url: /net/aspose.medical.dicom.tags/tag/wedgetype/
 ---
 
 ## Tag.WedgeType field

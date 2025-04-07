@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Time TM.
 type: docs
 weight: 270
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/time/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/time/
 ---
 
 ## ValueRepresentation.Time field

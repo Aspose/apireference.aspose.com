@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: FFFAFFFA VRSQ VM1 Digital Signatures Sequence.
 type: docs
 weight: 11800
-url: /aspose.medical.dicom.tags/tag/digitalsignaturessequence/
+url: /net/aspose.medical.dicom.tags/tag/digitalsignaturessequence/
 ---
 
 ## Tag.DigitalSignaturesSequence field

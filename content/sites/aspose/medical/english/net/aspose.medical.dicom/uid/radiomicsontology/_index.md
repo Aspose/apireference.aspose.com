@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Coding Scheme Radiomics Ontology.
 type: docs
 weight: 3850
-url: /aspose.medical.dicom/uid/radiomicsontology/
+url: /net/aspose.medical.dicom/uid/radiomicsontology/
 ---
 
 ## Uid.RadiomicsOntology field

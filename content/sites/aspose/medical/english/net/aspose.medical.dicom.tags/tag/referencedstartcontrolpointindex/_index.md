@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C00F4 VRIS VM1 Referenced Start Control Point Index.
 type: docs
 weight: 37440
-url: /aspose.medical.dicom.tags/tag/referencedstartcontrolpointindex/
+url: /net/aspose.medical.dicom.tags/tag/referencedstartcontrolpointindex/
 ---
 
 ## Tag.ReferencedStartControlPointIndex field

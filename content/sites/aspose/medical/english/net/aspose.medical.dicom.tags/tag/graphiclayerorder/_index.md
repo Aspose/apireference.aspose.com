@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700062 VRIS VM1 Graphic Layer Order.
 type: docs
 weight: 17880
-url: /aspose.medical.dicom.tags/tag/graphiclayerorder/
+url: /net/aspose.medical.dicom.tags/tag/graphiclayerorder/
 ---
 
 ## Tag.GraphicLayerOrder field

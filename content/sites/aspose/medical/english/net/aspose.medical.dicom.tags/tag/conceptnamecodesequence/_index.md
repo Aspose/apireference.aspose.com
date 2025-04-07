@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A043 VRSQ VM1 Concept Name Code Sequence.
 type: docs
 weight: 7260
-url: /aspose.medical.dicom.tags/tag/conceptnamecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/conceptnamecodesequence/
 ---
 
 ## Tag.ConceptNameCodeSequence field

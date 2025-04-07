@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160018 VRIS VM1 Photographic Sensitivity.
 type: docs
 weight: 31180
-url: /aspose.medical.dicom.tags/tag/photographicsensitivity/
+url: /net/aspose.medical.dicom.tags/tag/photographicsensitivity/
 ---
 
 ## Tag.PhotographicSensitivity field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101072 VRSQ VM1 Target Material Sequence RETIRED.
 type: docs
 weight: 47370
-url: /aspose.medical.dicom.tags/tag/targetmaterialsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/targetmaterialsequenceretired/
 ---
 
 ## Tag.TargetMaterialSequenceRETIRED field

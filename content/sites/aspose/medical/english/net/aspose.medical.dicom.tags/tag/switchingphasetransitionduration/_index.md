@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018936D VRDS VM1 Switching Phase Transition Duration.
 type: docs
 weight: 46590
-url: /aspose.medical.dicom.tags/tag/switchingphasetransitionduration/
+url: /net/aspose.medical.dicom.tags/tag/switchingphasetransitionduration/
 ---
 
 ## Tag.SwitchingPhaseTransitionDuration field

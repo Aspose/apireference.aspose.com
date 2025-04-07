@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189173 VRCS VM1 Bulk Motion Signal Source.
 type: docs
 weight: 4740
-url: /aspose.medical.dicom.tags/tag/bulkmotionsignalsource/
+url: /net/aspose.medical.dicom.tags/tag/bulkmotionsignalsource/
 ---
 
 ## Tag.BulkMotionSignalSource field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080138 VRIS VM1 Delivered Number of Pulses.
 type: docs
 weight: 10590
-url: /aspose.medical.dicom.tags/tag/deliverednumberofpulses/
+url: /net/aspose.medical.dicom.tags/tag/deliverednumberofpulses/
 ---
 
 ## Tag.DeliveredNumberOfPulses field

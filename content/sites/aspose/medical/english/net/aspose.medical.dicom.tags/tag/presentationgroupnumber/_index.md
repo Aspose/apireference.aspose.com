@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0241 VRUS VM1 Presentation Group Number.
 type: docs
 weight: 32530
-url: /aspose.medical.dicom.tags/tag/presentationgroupnumber/
+url: /net/aspose.medical.dicom.tags/tag/presentationgroupnumber/
 ---
 
 ## Tag.PresentationGroupNumber field

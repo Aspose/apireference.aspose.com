@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Study Root Query/Retrieve Information Model - MOVE.
 type: docs
 weight: 4530
-url: /aspose.medical.dicom/uid/studyrootqueryretrieveinformationmodelmove/
+url: /net/aspose.medical.dicom/uid/studyrootqueryretrieveinformationmodelmove/
 ---
 
 ## Uid.StudyRootQueryRetrieveInformationModelMOVE field

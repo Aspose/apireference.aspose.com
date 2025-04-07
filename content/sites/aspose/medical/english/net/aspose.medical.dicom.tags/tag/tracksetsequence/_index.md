@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660101 VRSQ VM1 Track Set Sequence.
 type: docs
 weight: 49140
-url: /aspose.medical.dicom.tags/tag/tracksetsequence/
+url: /net/aspose.medical.dicom.tags/tag/tracksetsequence/
 ---
 
 ## Tag.TrackSetSequence field

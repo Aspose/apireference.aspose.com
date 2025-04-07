@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741050 VRSQ VM1 Attribute Occurrence Sequence.
 type: docs
 weight: 2830
-url: /aspose.medical.dicom.tags/tag/attributeoccurrencesequence/
+url: /net/aspose.medical.dicom.tags/tag/attributeoccurrencesequence/
 ---
 
 ## Tag.AttributeOccurrenceSequence field

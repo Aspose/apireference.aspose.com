@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008010C VRUI VM1 Coding Scheme UID.
 type: docs
 weight: 6180
-url: /aspose.medical.dicom.tags/tag/codingschemeuid/
+url: /net/aspose.medical.dicom.tags/tag/codingschemeuid/
 ---
 
 ## Tag.CodingSchemeUID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010003D VRUS VM1 RT Segment Annotation Index.
 type: docs
 weight: 40600
-url: /aspose.medical.dicom.tags/tag/rtsegmentannotationindex/
+url: /net/aspose.medical.dicom.tags/tag/rtsegmentannotationindex/
 ---
 
 ## Tag.RTSegmentAnnotationIndex field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0684 VRSQ VM1 Energy Unit Code Sequence.
 type: docs
 weight: 13620
-url: /aspose.medical.dicom.tags/tag/energyunitcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/energyunitcodesequence/
 ---
 
 ## Tag.EnergyUnitCodeSequence field

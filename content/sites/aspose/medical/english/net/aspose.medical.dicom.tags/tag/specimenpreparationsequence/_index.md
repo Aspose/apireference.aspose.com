@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400610 VRSQ VM1 Specimen Preparation Sequence.
 type: docs
 weight: 45030
-url: /aspose.medical.dicom.tags/tag/specimenpreparationsequence/
+url: /net/aspose.medical.dicom.tags/tag/specimenpreparationsequence/
 ---
 
 ## Tag.SpecimenPreparationSequence field

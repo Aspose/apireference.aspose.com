@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014409B VRST VM1 Scan Procedure RETIRED.
 type: docs
 weight: 41070
-url: /aspose.medical.dicom.tags/tag/scanprocedureretired/
+url: /net/aspose.medical.dicom.tags/tag/scanprocedureretired/
 ---
 
 ## Tag.ScanProcedureRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480107 VRST VM1 Optical Path Description.
 type: docs
 weight: 28270
-url: /aspose.medical.dicom.tags/tag/opticalpathdescription/
+url: /net/aspose.medical.dicom.tags/tag/opticalpathdescription/
 ---
 
 ## Tag.OpticalPathDescription field

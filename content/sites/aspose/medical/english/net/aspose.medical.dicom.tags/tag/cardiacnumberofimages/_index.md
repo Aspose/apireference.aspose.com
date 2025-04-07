@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181090 VRIS VM1 Cardiac Number of Images.
 type: docs
 weight: 5070
-url: /aspose.medical.dicom.tags/tag/cardiacnumberofimages/
+url: /net/aspose.medical.dicom.tags/tag/cardiacnumberofimages/
 ---
 
 ## Tag.CardiacNumberOfImages field

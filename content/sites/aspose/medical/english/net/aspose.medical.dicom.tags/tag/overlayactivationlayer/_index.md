@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx1001 VRCS VM1 Overlay Activation Layer.
 type: docs
 weight: 28810
-url: /aspose.medical.dicom.tags/tag/overlayactivationlayer/
+url: /net/aspose.medical.dicom.tags/tag/overlayactivationlayer/
 ---
 
 ## Tag.OverlayActivationLayer field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146021 VRDS VM1 Front Panel Temperature RETIRED.
 type: docs
 weight: 16850
-url: /aspose.medical.dicom.tags/tag/frontpaneltemperatureretired/
+url: /net/aspose.medical.dicom.tags/tag/frontpaneltemperatureretired/
 ---
 
 ## Tag.FrontPanelTemperatureRETIRED field

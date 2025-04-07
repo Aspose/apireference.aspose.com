@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014605E VRCS VM1 Independent Variable for Polynomial Fit RETIRED.
 type: docs
 weight: 20180
-url: /aspose.medical.dicom.tags/tag/independentvariableforpolynomialfitretired/
+url: /net/aspose.medical.dicom.tags/tag/independentvariableforpolynomialfitretired/
 ---
 
 ## Tag.IndependentVariableForPolynomialFitRETIRED field

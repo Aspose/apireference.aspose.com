@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02E8 VRFL VM1 Compensator Milling Tool Diameter.
 type: docs
 weight: 6710
-url: /aspose.medical.dicom.tags/tag/compensatormillingtooldiameter/
+url: /net/aspose.medical.dicom.tags/tag/compensatormillingtooldiameter/
 ---
 
 ## Tag.CompensatorMillingToolDiameter field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540032 VRSQ VM1 Phase Information Sequence.
 type: docs
 weight: 31110
-url: /aspose.medical.dicom.tags/tag/phaseinformationsequence/
+url: /net/aspose.medical.dicom.tags/tag/phaseinformationsequence/
 ---
 
 ## Tag.PhaseInformationSequence field

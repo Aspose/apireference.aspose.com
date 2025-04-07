@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Keratometry Measurements Storage.
 type: docs
 weight: 2460
-url: /aspose.medical.dicom/uid/keratometrymeasurementsstorage/
+url: /net/aspose.medical.dicom/uid/keratometrymeasurementsstorage/
 ---
 
 ## Uid.KeratometryMeasurementsStorage field

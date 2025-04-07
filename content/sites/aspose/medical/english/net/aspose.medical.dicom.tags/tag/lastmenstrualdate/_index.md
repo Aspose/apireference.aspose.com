@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001021D0 VRDA VM1 Last Menstrual Date.
 type: docs
 weight: 22410
-url: /aspose.medical.dicom.tags/tag/lastmenstrualdate/
+url: /net/aspose.medical.dicom.tags/tag/lastmenstrualdate/
 ---
 
 ## Tag.LastMenstrualDate field

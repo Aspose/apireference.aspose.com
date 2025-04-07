@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189804 VRDT VM1 Exclusion Start DateTime.
 type: docs
 weight: 14320
-url: /aspose.medical.dicom.tags/tag/exclusionstartdatetime/
+url: /net/aspose.medical.dicom.tags/tag/exclusionstartdatetime/
 ---
 
 ## Tag.ExclusionStartDateTime field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02E7 VRFL VM1 Compensator Relative Stopping Power Ratio.
 type: docs
 weight: 6770
-url: /aspose.medical.dicom.tags/tag/compensatorrelativestoppingpowerratio/
+url: /net/aspose.medical.dicom.tags/tag/compensatorrelativestoppingpowerratio/
 ---
 
 ## Tag.CompensatorRelativeStoppingPowerRatio field

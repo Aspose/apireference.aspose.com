@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0676 VRST VM1 Equipment Frame of Reference Description.
 type: docs
 weight: 13870
-url: /aspose.medical.dicom.tags/tag/equipmentframeofreferencedescription/
+url: /net/aspose.medical.dicom.tags/tag/equipmentframeofreferencedescription/
 ---
 
 ## Tag.EquipmentFrameOfReferenceDescription field

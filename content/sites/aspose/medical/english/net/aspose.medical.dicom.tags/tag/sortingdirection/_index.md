@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720604 VRCS VM1 Sorting Direction.
 type: docs
 weight: 43900
-url: /aspose.medical.dicom.tags/tag/sortingdirection/
+url: /net/aspose.medical.dicom.tags/tag/sortingdirection/
 ---
 
 ## Tag.SortingDirection field

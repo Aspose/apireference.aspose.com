@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A012E VRDS VM3 Surface Entry Point.
 type: docs
 weight: 46330
-url: /aspose.medical.dicom.tags/tag/surfaceentrypoint/
+url: /net/aspose.medical.dicom.tags/tag/surfaceentrypoint/
 ---
 
 ## Tag.SurfaceEntryPoint field

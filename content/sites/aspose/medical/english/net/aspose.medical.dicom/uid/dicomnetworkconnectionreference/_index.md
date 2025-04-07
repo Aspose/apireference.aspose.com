@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: LDAP OID dicomNetworkConnectionReference.
 type: docs
 weight: 950
-url: /aspose.medical.dicom/uid/dicomnetworkconnectionreference/
+url: /net/aspose.medical.dicom/uid/dicomnetworkconnectionreference/
 ---
 
 ## Uid.DicomNetworkConnectionReference field

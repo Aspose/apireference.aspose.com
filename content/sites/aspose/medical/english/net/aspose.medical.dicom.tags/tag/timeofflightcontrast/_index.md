@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189015 VRCS VM1 Time of Flight Contrast.
 type: docs
 weight: 48380
-url: /aspose.medical.dicom.tags/tag/timeofflightcontrast/
+url: /net/aspose.medical.dicom.tags/tag/timeofflightcontrast/
 ---
 
 ## Tag.TimeOfFlightContrast field

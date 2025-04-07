@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700250 VRCS VM1 Italic.
 type: docs
 weight: 21920
-url: /aspose.medical.dicom.tags/tag/italic/
+url: /net/aspose.medical.dicom.tags/tag/italic/
 ---
 
 ## Tag.Italic field

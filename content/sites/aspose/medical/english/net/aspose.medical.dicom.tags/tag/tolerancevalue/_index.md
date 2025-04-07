@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A062C VRFD VM1 Tolerance Value.
 type: docs
 weight: 48680
-url: /aspose.medical.dicom.tags/tag/tolerancevalue/
+url: /net/aspose.medical.dicom.tags/tag/tolerancevalue/
 ---
 
 ## Tag.ToleranceValue field

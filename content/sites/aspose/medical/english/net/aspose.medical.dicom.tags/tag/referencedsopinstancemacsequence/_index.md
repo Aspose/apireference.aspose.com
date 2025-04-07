@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000403 VRSQ VM1 Referenced SOP Instance MAC Sequence.
 type: docs
 weight: 37370
-url: /aspose.medical.dicom.tags/tag/referencedsopinstancemacsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedsopinstancemacsequence/
 ---
 
 ## Tag.ReferencedSOPInstanceMACSequence field

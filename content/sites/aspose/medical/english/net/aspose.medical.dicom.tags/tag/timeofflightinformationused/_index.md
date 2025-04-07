@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189755 VRCS VM1 Time of Flight Information Used.
 type: docs
 weight: 48390
-url: /aspose.medical.dicom.tags/tag/timeofflightinformationused/
+url: /net/aspose.medical.dicom.tags/tag/timeofflightinformationused/
 ---
 
 ## Tag.TimeOfFlightInformationUsed field

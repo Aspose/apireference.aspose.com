@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082204 VRCS VM1 Transducer Orientation RETIRED.
 type: docs
 weight: 49270
-url: /aspose.medical.dicom.tags/tag/transducerorientationretired/
+url: /net/aspose.medical.dicom.tags/tag/transducerorientationretired/
 ---
 
 ## Tag.TransducerOrientationRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400340 VRSQ VM1 Performed Series Sequence.
 type: docs
 weight: 30770
-url: /aspose.medical.dicom.tags/tag/performedseriessequence/
+url: /net/aspose.medical.dicom.tags/tag/performedseriessequence/
 ---
 
 ## Tag.PerformedSeriesSequence field

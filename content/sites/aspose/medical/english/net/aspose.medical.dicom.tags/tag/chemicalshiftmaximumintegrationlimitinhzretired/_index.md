@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189196 VRFD VM1 Chemical Shift Maximum Integration Limit in Hz RETIRED.
 type: docs
 weight: 5800
-url: /aspose.medical.dicom.tags/tag/chemicalshiftmaximumintegrationlimitinhzretired/
+url: /net/aspose.medical.dicom.tags/tag/chemicalshiftmaximumintegrationlimitinhzretired/
 ---
 
 ## Tag.ChemicalShiftMaximumIntegrationLimitInHzRETIRED field

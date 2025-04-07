@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280404 VRAT VM1-n Details of Coefficients RETIRED.
 type: docs
 weight: 10860
-url: /aspose.medical.dicom.tags/tag/detailsofcoefficientsretired/
+url: /net/aspose.medical.dicom.tags/tag/detailsofcoefficientsretired/
 ---
 
 ## Tag.DetailsOfCoefficientsRETIRED field

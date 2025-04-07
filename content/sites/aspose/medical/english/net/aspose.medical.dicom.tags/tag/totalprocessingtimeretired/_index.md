@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101069 VRFL VM1 Total Processing Time RETIRED.
 type: docs
 weight: 49000
-url: /aspose.medical.dicom.tags/tag/totalprocessingtimeretired/
+url: /net/aspose.medical.dicom.tags/tag/totalprocessingtimeretired/
 ---
 
 ## Tag.TotalProcessingTimeRETIRED field

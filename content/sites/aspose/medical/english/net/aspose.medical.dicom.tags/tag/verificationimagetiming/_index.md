@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741032 VRCS VM1 Verification Image Timing.
 type: docs
 weight: 50910
-url: /aspose.medical.dicom.tags/tag/verificationimagetiming/
+url: /net/aspose.medical.dicom.tags/tag/verificationimagetiming/
 ---
 
 ## Tag.VerificationImageTiming field

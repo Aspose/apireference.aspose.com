@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00005170 VRIS VM1 Copies RETIRED.
 type: docs
 weight: 8760
-url: /aspose.medical.dicom.tags/tag/copiesretired/
+url: /net/aspose.medical.dicom.tags/tag/copiesretired/
 ---
 
 ## Tag.CopiesRETIRED field

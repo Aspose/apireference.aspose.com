@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class RT Dose Storage.
 type: docs
 weight: 4080
-url: /aspose.medical.dicom/uid/rtdosestorage/
+url: /net/aspose.medical.dicom/uid/rtdosestorage/
 ---
 
 ## Uid.RTDoseStorage field

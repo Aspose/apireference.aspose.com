@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082132 VRLO VM1-n Event Timer Names.
 type: docs
 weight: 14140
-url: /aspose.medical.dicom.tags/tag/eventtimernames/
+url: /net/aspose.medical.dicom.tags/tag/eventtimernames/
 ---
 
 ## Tag.EventTimerNames field

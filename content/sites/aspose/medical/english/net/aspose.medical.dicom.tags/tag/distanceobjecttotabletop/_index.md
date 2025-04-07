@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189403 VRFL VM1 Distance Object to Table Top.
 type: docs
 weight: 12370
-url: /aspose.medical.dicom.tags/tag/distanceobjecttotabletop/
+url: /net/aspose.medical.dicom.tags/tag/distanceobjecttotabletop/
 ---
 
 ## Tag.DistanceObjectToTableTop field

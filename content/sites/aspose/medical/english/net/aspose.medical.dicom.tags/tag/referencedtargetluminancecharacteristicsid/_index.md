@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028700E VRUS VM1 Referenced Target Luminance Characteristics ID.
 type: docs
 weight: 37570
-url: /aspose.medical.dicom.tags/tag/referencedtargetluminancecharacteristicsid/
+url: /net/aspose.medical.dicom.tags/tag/referencedtargetluminancecharacteristicsid/
 ---
 
 ## Tag.ReferencedTargetLuminanceCharacteristicsID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400241 VRAE VM1 Performed Station AE Title.
 type: docs
 weight: 30780
-url: /aspose.medical.dicom.tags/tag/performedstationaetitle/
+url: /net/aspose.medical.dicom.tags/tag/performedstationaetitle/
 ---
 
 ## Tag.PerformedStationAETitle field

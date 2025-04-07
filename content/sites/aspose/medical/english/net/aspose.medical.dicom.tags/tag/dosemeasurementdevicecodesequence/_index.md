@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0774 VRSQ VM1 Dose Measurement Device Code Sequence.
 type: docs
 weight: 12670
-url: /aspose.medical.dicom.tags/tag/dosemeasurementdevicecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/dosemeasurementdevicecodesequence/
 ---
 
 ## Tag.DoseMeasurementDeviceCodeSequence field

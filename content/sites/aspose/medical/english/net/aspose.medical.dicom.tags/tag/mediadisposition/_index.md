@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 22000004 VRLT VM1 Media Disposition.
 type: docs
 weight: 24320
-url: /aspose.medical.dicom.tags/tag/mediadisposition/
+url: /net/aspose.medical.dicom.tags/tag/mediadisposition/
 ---
 
 ## Tag.MediaDisposition field

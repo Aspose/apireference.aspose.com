@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/time/time/
+url: /net/aspose.medical.dicom.elements/time/time/
 ---
 
 ## Time(Tag, Span&lt;TimeOnly&gt;) {#constructor_1}

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Procedure Log Storage.
 type: docs
 weight: 3740
-url: /aspose.medical.dicom/uid/procedurelogstorage/
+url: /net/aspose.medical.dicom/uid/procedurelogstorage/
 ---
 
 ## Uid.ProcedureLogStorage field

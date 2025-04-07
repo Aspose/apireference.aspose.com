@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00286190 VRST VM1 Mask Operation Explanation.
 type: docs
 weight: 23580
-url: /aspose.medical.dicom.tags/tag/maskoperationexplanation/
+url: /net/aspose.medical.dicom.tags/tag/maskoperationexplanation/
 ---
 
 ## Tag.MaskOperationExplanation field

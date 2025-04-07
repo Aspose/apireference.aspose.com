@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221423 VRSQ VM1 Acquisition Method Algorithm Sequence.
 type: docs
 weight: 380
-url: /aspose.medical.dicom.tags/tag/acquisitionmethodalgorithmsequence/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionmethodalgorithmsequence/
 ---
 
 ## Tag.AcquisitionMethodAlgorithmSequence field

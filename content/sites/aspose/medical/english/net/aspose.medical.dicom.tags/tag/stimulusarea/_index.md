@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240025 VRFL VM1 Stimulus Area.
 type: docs
 weight: 45580
-url: /aspose.medical.dicom.tags/tag/stimulusarea/
+url: /net/aspose.medical.dicom.tags/tag/stimulusarea/
 ---
 
 ## Tag.StimulusArea field

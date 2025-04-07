@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 56000020 VROF VM1 Spectroscopy Data.
 type: docs
 weight: 45180
-url: /aspose.medical.dicom.tags/tag/spectroscopydata/
+url: /net/aspose.medical.dicom.tags/tag/spectroscopydata/
 ---
 
 ## Tag.SpectroscopyData field

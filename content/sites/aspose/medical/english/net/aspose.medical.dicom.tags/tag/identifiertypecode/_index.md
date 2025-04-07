@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400035 VRCS VM1 Identifier Type Code.
 type: docs
 weight: 18760
-url: /aspose.medical.dicom.tags/tag/identifiertypecode/
+url: /net/aspose.medical.dicom.tags/tag/identifiertypecode/
 ---
 
 ## Tag.IdentifierTypeCode field

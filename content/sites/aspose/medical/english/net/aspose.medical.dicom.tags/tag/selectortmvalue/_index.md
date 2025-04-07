@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072006B VRTM VM1-n Selector TM Value.
 type: docs
 weight: 42610
-url: /aspose.medical.dicom.tags/tag/selectortmvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectortmvalue/
 ---
 
 ## Tag.SelectorTMValue field

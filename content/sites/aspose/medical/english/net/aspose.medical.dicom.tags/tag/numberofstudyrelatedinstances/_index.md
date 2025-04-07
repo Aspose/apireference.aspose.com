@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00201208 VRIS VM1 Number of Study Related Instances.
 type: docs
 weight: 26890
-url: /aspose.medical.dicom.tags/tag/numberofstudyrelatedinstances/
+url: /net/aspose.medical.dicom.tags/tag/numberofstudyrelatedinstances/
 ---
 
 ## Tag.NumberOfStudyRelatedInstances field

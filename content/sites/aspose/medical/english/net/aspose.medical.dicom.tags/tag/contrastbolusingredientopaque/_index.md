@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189425 VRCS VM1 Contrast/Bolus Ingredient Opaque.
 type: docs
 weight: 8300
-url: /aspose.medical.dicom.tags/tag/contrastbolusingredientopaque/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolusingredientopaque/
 ---
 
 ## Tag.ContrastBolusIngredientOpaque field

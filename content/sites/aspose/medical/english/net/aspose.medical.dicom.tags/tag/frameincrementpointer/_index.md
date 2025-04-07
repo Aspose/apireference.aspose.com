@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280009 VRAT VM1-n Frame Increment Pointer.
 type: docs
 weight: 16570
-url: /aspose.medical.dicom.tags/tag/frameincrementpointer/
+url: /net/aspose.medical.dicom.tags/tag/frameincrementpointer/
 ---
 
 ## Tag.FrameIncrementPointer field

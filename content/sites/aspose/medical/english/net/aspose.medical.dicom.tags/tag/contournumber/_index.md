@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060048 VRIS VM1 Contour Number.
 type: docs
 weight: 8110
-url: /aspose.medical.dicom.tags/tag/contournumber/
+url: /net/aspose.medical.dicom.tags/tag/contournumber/
 ---
 
 ## Tag.ContourNumber field

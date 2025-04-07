@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080406 VRSQ VM1 Reason for Removal Code Sequence.
 type: docs
 weight: 35170
-url: /aspose.medical.dicom.tags/tag/reasonforremovalcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/reasonforremovalcodesequence/
 ---
 
 ## Tag.ReasonForRemovalCodeSequence field

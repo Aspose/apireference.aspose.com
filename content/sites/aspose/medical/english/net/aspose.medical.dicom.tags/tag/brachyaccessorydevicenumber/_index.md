@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0262 VRIS VM1 Brachy Accessory Device Number.
 type: docs
 weight: 4440
-url: /aspose.medical.dicom.tags/tag/brachyaccessorydevicenumber/
+url: /net/aspose.medical.dicom.tags/tag/brachyaccessorydevicenumber/
 ---
 
 ## Tag.BrachyAccessoryDeviceNumber field

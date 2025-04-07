@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0421 VRSH VM1 General Accessory ID.
 type: docs
 weight: 17130
-url: /aspose.medical.dicom.tags/tag/generalaccessoryid/
+url: /net/aspose.medical.dicom.tags/tag/generalaccessoryid/
 ---
 
 ## Tag.GeneralAccessoryID field

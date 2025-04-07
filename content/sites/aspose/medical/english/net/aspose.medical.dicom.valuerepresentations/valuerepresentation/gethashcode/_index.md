@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 480
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/gethashcode/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/gethashcode/
 ---
 
 ## ValueRepresentation.GetHashCode method

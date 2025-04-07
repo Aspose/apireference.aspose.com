@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700082 VRDA VM1 Presentation Creation Date.
 type: docs
 weight: 32500
-url: /aspose.medical.dicom.tags/tag/presentationcreationdate/
+url: /net/aspose.medical.dicom.tags/tag/presentationcreationdate/
 ---
 
 ## Tag.PresentationCreationDate field

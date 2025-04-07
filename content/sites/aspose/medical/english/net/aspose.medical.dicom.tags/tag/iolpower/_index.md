@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221053 VRFL VM1 IOL Power.
 type: docs
 weight: 21430
-url: /aspose.medical.dicom.tags/tag/iolpower/
+url: /net/aspose.medical.dicom.tags/tag/iolpower/
 ---
 
 ## Tag.IOLPower field

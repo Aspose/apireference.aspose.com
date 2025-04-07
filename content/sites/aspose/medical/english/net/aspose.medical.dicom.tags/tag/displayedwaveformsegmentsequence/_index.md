@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040B035 VRSQ VM1 Displayed Waveform Segment Sequence.
 type: docs
 weight: 12090
-url: /aspose.medical.dicom.tags/tag/displayedwaveformsegmentsequence/
+url: /net/aspose.medical.dicom.tags/tag/displayedwaveformsegmentsequence/
 ---
 
 ## Tag.DisplayedWaveformSegmentSequence field

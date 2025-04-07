@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Inventory - GET.
 type: docs
 weight: 2120
-url: /aspose.medical.dicom/uid/inventoryget/
+url: /net/aspose.medical.dicom/uid/inventoryget/
 ---
 
 ## Uid.InventoryGET field

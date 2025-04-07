@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144081 VRCS VM1 Drive Type RETIRED.
 type: docs
 weight: 13050
-url: /aspose.medical.dicom.tags/tag/drivetyperetired/
+url: /net/aspose.medical.dicom.tags/tag/drivetyperetired/
 ---
 
 ## Tag.DriveTypeRETIRED field

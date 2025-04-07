@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720702 VRCS VM1 VOI Type.
 type: docs
 weight: 51580
-url: /aspose.medical.dicom.tags/tag/voitype/
+url: /net/aspose.medical.dicom.tags/tag/voitype/
 ---
 
 ## Tag.VOIType field

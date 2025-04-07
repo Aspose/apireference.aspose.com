@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Unified Procedure Step - Push SOP Class.
 type: docs
 weight: 4810
-url: /aspose.medical.dicom/uid/unifiedproceduresteppushsopclass/
+url: /net/aspose.medical.dicom/uid/unifiedproceduresteppushsopclass/
 ---
 
 ## Uid.UnifiedProcedureStepPushSOPClass field

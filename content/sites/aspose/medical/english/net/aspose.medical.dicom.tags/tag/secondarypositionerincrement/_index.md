@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189515 VRFL VM1 Secondary Positioner Increment.
 type: docs
 weight: 41850
-url: /aspose.medical.dicom.tags/tag/secondarypositionerincrement/
+url: /net/aspose.medical.dicom.tags/tag/secondarypositionerincrement/
 ---
 
 ## Tag.SecondaryPositionerIncrement field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287010 VRSQ VM1 Display Subsystem QA Results Sequence.
 type: docs
 weight: 12290
-url: /aspose.medical.dicom.tags/tag/displaysubsystemqaresultssequence/
+url: /net/aspose.medical.dicom.tags/tag/displaysubsystemqaresultssequence/
 ---
 
 ## Tag.DisplaySubsystemQAResultsSequence field

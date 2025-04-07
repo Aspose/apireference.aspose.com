@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016003B VRUS VM1 Scene Type.
 type: docs
 weight: 41260
-url: /aspose.medical.dicom.tags/tag/scenetype/
+url: /net/aspose.medical.dicom.tags/tag/scenetype/
 ---
 
 ## Tag.SceneType field

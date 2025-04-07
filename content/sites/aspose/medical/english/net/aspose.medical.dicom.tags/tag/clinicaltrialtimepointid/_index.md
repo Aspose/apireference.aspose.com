@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120050 VRLO VM1 Clinical Trial Time Point ID.
 type: docs
 weight: 6030
-url: /aspose.medical.dicom.tags/tag/clinicaltrialtimepointid/
+url: /net/aspose.medical.dicom.tags/tag/clinicaltrialtimepointid/
 ---
 
 ## Tag.ClinicalTrialTimePointID field

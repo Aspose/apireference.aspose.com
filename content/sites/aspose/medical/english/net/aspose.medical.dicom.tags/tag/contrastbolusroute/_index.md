@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181040 VRLO VM1 Contrast/Bolus Route.
 type: docs
 weight: 8330
-url: /aspose.medical.dicom.tags/tag/contrastbolusroute/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolusroute/
 ---
 
 ## Tag.ContrastBolusRoute field

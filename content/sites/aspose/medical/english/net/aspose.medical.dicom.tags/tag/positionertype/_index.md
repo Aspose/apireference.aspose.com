@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181508 VRCS VM1 Positioner Type.
 type: docs
 weight: 32110
-url: /aspose.medical.dicom.tags/tag/positionertype/
+url: /net/aspose.medical.dicom.tags/tag/positionertype/
 ---
 
 ## Tag.PositionerType field

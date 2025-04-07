@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022000C VRFL VM1 Horizontal Field of View.
 type: docs
 weight: 18480
-url: /aspose.medical.dicom.tags/tag/horizontalfieldofview/
+url: /net/aspose.medical.dicom.tags/tag/horizontalfieldofview/
 ---
 
 ## Tag.HorizontalFieldOfView field

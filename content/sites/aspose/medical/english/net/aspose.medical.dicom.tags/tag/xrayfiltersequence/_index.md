@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189556 VRSQ VM1 X-Ray Filter Sequence.
 type: docs
 weight: 52760
-url: /aspose.medical.dicom.tags/tag/xrayfiltersequence/
+url: /net/aspose.medical.dicom.tags/tag/xrayfiltersequence/
 ---
 
 ## Tag.XRayFilterSequence field

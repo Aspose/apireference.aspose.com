@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022001E VRFL VM1 Camera Angle of View.
 type: docs
 weight: 5000
-url: /aspose.medical.dicom.tags/tag/cameraangleofview/
+url: /net/aspose.medical.dicom.tags/tag/cameraangleofview/
 ---
 
 ## Tag.CameraAngleOfView field

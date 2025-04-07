@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145002 VRIS VM1 LINAC Energy RETIRED.
 type: docs
 weight: 22790
-url: /aspose.medical.dicom.tags/tag/linacenergyretired/
+url: /net/aspose.medical.dicom.tags/tag/linacenergyretired/
 ---
 
 ## Tag.LINACEnergyRETIRED field

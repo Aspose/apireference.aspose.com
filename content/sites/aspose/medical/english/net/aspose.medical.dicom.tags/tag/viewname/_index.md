@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082127 VRSH VM1 View Name.
 type: docs
 weight: 51200
-url: /aspose.medical.dicom.tags/tag/viewname/
+url: /net/aspose.medical.dicom.tags/tag/viewname/
 ---
 
 ## Tag.ViewName field

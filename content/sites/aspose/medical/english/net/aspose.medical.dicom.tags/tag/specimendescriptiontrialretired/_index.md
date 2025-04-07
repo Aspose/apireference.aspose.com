@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400553 VRST VM1 Specimen Description Trial RETIRED.
 type: docs
 weight: 44980
-url: /aspose.medical.dicom.tags/tag/specimendescriptiontrialretired/
+url: /net/aspose.medical.dicom.tags/tag/specimendescriptiontrialretired/
 ---
 
 ## Tag.SpecimenDescriptionTrialRETIRED field

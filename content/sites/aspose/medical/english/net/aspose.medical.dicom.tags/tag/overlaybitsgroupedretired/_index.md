@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0069 VRUS VM1 Overlay Bits Grouped RETIRED.
 type: docs
 weight: 28860
-url: /aspose.medical.dicom.tags/tag/overlaybitsgroupedretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaybitsgroupedretired/
 ---
 
 ## Tag.OverlayBitsGroupedRETIRED field

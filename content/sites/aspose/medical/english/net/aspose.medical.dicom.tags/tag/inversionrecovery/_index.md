@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189009 VRCS VM1 Inversion Recovery.
 type: docs
 weight: 21370
-url: /aspose.medical.dicom.tags/tag/inversionrecovery/
+url: /net/aspose.medical.dicom.tags/tag/inversionrecovery/
 ---
 
 ## Tag.InversionRecovery field

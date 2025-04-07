@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 1010xxxx VRUS VM1-n Zonal Map RETIRED.
 type: docs
 weight: 53000
-url: /aspose.medical.dicom.tags/tag/zonalmapretired/
+url: /net/aspose.medical.dicom.tags/tag/zonalmapretired/
 ---
 
 ## Tag.ZonalMapRETIRED field

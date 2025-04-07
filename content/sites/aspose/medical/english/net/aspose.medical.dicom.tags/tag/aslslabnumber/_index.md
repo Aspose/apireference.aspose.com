@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189253 VRUS VM1 ASL Slab Number.
 type: docs
 weight: 2450
-url: /aspose.medical.dicom.tags/tag/aslslabnumber/
+url: /net/aspose.medical.dicom.tags/tag/aslslabnumber/
 ---
 
 ## Tag.ASLSlabNumber field

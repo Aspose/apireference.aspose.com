@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440104 VRDT VM1 Assertion DateTime.
 type: docs
 weight: 2530
-url: /aspose.medical.dicom.tags/tag/assertiondatetime/
+url: /net/aspose.medical.dicom.tags/tag/assertiondatetime/
 ---
 
 ## Tag.AssertionDateTime field

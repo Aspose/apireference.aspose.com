@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0611 VRLO VM1 RT Accessory Holder Slot ID.
 type: docs
 weight: 39890
-url: /aspose.medical.dicom.tags/tag/rtaccessoryholderslotid/
+url: /net/aspose.medical.dicom.tags/tag/rtaccessoryholderslotid/
 ---
 
 ## Tag.RTAccessoryHolderSlotID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0658 VRSQ VM1 Radiation Dosimeter Unit Sequence.
 type: docs
 weight: 34310
-url: /aspose.medical.dicom.tags/tag/radiationdosimeterunitsequence/
+url: /net/aspose.medical.dicom.tags/tag/radiationdosimeterunitsequence/
 ---
 
 ## Tag.RadiationDosimeterUnitSequence field

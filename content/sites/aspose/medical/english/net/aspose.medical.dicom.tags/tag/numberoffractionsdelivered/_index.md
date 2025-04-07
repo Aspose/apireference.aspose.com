@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3008005A VRIS VM1 Number of Fractions Delivered.
 type: docs
 weight: 26350
-url: /aspose.medical.dicom.tags/tag/numberoffractionsdelivered/
+url: /net/aspose.medical.dicom.tags/tag/numberoffractionsdelivered/
 ---
 
 ## Tag.NumberOfFractionsDelivered field

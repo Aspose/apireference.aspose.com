@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720714 VRCS VM1 Show Patient Demographics Flag.
 type: docs
 weight: 43350
-url: /aspose.medical.dicom.tags/tag/showpatientdemographicsflag/
+url: /net/aspose.medical.dicom.tags/tag/showpatientdemographicsflag/
 ---
 
 ## Tag.ShowPatientDemographicsFlag field

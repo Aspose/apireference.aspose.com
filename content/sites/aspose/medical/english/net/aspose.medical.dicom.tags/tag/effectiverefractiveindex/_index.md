@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520004 VRFD VM1 Effective Refractive Index.
 type: docs
 weight: 13340
-url: /aspose.medical.dicom.tags/tag/effectiverefractiveindex/
+url: /net/aspose.medical.dicom.tags/tag/effectiverefractiveindex/
 ---
 
 ## Tag.EffectiveRefractiveIndex field

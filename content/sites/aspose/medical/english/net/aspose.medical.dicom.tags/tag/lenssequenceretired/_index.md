@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146026 VRSQ VM1 Lens Sequence RETIRED.
 type: docs
 weight: 22650
-url: /aspose.medical.dicom.tags/tag/lenssequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/lenssequenceretired/
 ---
 
 ## Tag.LensSequenceRETIRED field

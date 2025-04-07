@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143012 VRDS VM1 Number of Frames Integrated RETIRED.
 type: docs
 weight: 26420
-url: /aspose.medical.dicom.tags/tag/numberofframesintegratedretired/
+url: /net/aspose.medical.dicom.tags/tag/numberofframesintegratedretired/
 ---
 
 ## Tag.NumberOfFramesIntegratedRETIRED field

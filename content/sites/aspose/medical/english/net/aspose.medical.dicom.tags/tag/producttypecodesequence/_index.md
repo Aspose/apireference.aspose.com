@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440007 VRSQ VM1 Product Type Code Sequence.
 type: docs
 weight: 33570
-url: /aspose.medical.dicom.tags/tag/producttypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/producttypecodesequence/
 ---
 
 ## Tag.ProductTypeCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143011 VRDS VM1 Internal Detector Frame Time RETIRED.
 type: docs
 weight: 20880
-url: /aspose.medical.dicom.tags/tag/internaldetectorframetimeretired/
+url: /net/aspose.medical.dicom.tags/tag/internaldetectorframetimeretired/
 ---
 
 ## Tag.InternalDetectorFrameTimeRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00780001 VRLO VM1 Implant Template Group Name.
 type: docs
 weight: 19960
-url: /aspose.medical.dicom.tags/tag/implanttemplategroupname/
+url: /net/aspose.medical.dicom.tags/tag/implanttemplategroupname/
 ---
 
 ## Tag.ImplantTemplateGroupName field

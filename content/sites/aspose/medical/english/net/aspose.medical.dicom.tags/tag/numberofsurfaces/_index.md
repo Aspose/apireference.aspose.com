@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660001 VRUL VM1 Number of Surfaces.
 type: docs
 weight: 26930
-url: /aspose.medical.dicom.tags/tag/numberofsurfaces/
+url: /net/aspose.medical.dicom.tags/tag/numberofsurfaces/
 ---
 
 ## Tag.NumberOfSurfaces field

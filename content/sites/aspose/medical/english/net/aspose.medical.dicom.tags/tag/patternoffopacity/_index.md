@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700285 VRFL VM1 Pattern Off Opacity.
 type: docs
 weight: 30540
-url: /aspose.medical.dicom.tags/tag/patternoffopacity/
+url: /net/aspose.medical.dicom.tags/tag/patternoffopacity/
 ---
 
 ## Tag.PatternOffOpacity field

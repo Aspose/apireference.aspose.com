@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001021F0 VRLO VM1 Patients Religious Preference.
 type: docs
 weight: 30070
-url: /aspose.medical.dicom.tags/tag/patientreligiouspreference/
+url: /net/aspose.medical.dicom.tags/tag/patientreligiouspreference/
 ---
 
 ## Tag.PatientReligiousPreference field

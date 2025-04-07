@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189118 VRSQ VM1 Cardiac Synchronization Sequence.
 type: docs
 weight: 5100
-url: /aspose.medical.dicom.tags/tag/cardiacsynchronizationsequence/
+url: /net/aspose.medical.dicom.tags/tag/cardiacsynchronizationsequence/
 ---
 
 ## Tag.CardiacSynchronizationSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Highest value bit in sample. Read-only Int32.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.imaging.renderoptions/bitdepth/highbit/
+url: /net/aspose.medical.dicom.imaging.renderoptions/bitdepth/highbit/
 ---
 
 ## BitDepth.HighBit property

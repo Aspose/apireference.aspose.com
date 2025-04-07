@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Lossy compression methods. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.7.6.htmlsect_C.7.6.1.1.5.
 type: docs
 weight: 900
-url: /aspose.medical.dicom/lossycompressionmethods/
+url: /net/aspose.medical.dicom/lossycompressionmethods/
 ---
 
 ## LossyCompressionMethods enumeration

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280111 VRUS or SS VM1 Largest Image Pixel Value in Plane RETIRED.
 type: docs
 weight: 22300
-url: /aspose.medical.dicom.tags/tag/largestimagepixelvalueinplaneretired/
+url: /net/aspose.medical.dicom.tags/tag/largestimagepixelvalueinplaneretired/
 ---
 
 ## Tag.LargestImagePixelValueInPlaneRETIRED field

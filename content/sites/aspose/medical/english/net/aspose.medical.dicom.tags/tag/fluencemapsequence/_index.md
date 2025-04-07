@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020040 VRSQ VM1 Fluence Map Sequence.
 type: docs
 weight: 16080
-url: /aspose.medical.dicom.tags/tag/fluencemapsequence/
+url: /net/aspose.medical.dicom.tags/tag/fluencemapsequence/
 ---
 
 ## Tag.FluenceMapSequence field

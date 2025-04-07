@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0064000F VRSQ VM1 Pre Deformation Matrix Registration Sequence.
 type: docs
 weight: 32340
-url: /aspose.medical.dicom.tags/tag/predeformationmatrixregistrationsequence/
+url: /net/aspose.medical.dicom.tags/tag/predeformationmatrixregistrationsequence/
 ---
 
 ## Tag.PreDeformationMatrixRegistrationSequence field

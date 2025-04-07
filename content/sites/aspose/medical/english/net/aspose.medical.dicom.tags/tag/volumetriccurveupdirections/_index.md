@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701A07 VROD VM1 Volumetric Curve Up Directions.
 type: docs
 weight: 51720
-url: /aspose.medical.dicom.tags/tag/volumetriccurveupdirections/
+url: /net/aspose.medical.dicom.tags/tag/volumetriccurveupdirections/
 ---
 
 ## Tag.VolumetricCurveUpDirections field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102210 VRCS VM1 Anatomical Orientation Type.
 type: docs
 weight: 1470
-url: /aspose.medical.dicom.tags/tag/anatomicalorientationtype/
+url: /net/aspose.medical.dicom.tags/tag/anatomicalorientationtype/
 ---
 
 ## Tag.AnatomicalOrientationType field

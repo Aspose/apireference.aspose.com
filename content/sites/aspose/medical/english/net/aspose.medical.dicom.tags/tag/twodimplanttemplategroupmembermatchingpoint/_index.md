@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00780090 VRFD VM2 2D Implant Template Group Member Matching Point.
 type: docs
 weight: 50170
-url: /aspose.medical.dicom.tags/tag/twodimplanttemplategroupmembermatchingpoint/
+url: /net/aspose.medical.dicom.tags/tag/twodimplanttemplategroupmembermatchingpoint/
 ---
 
 ## Tag.TwoDImplantTemplateGroupMemberMatchingPoint field

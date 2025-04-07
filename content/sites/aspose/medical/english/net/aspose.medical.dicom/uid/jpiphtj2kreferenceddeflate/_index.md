@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax JPIP HTJ2K Referenced Deflate.
 type: docs
 weight: 2430
-url: /aspose.medical.dicom/uid/jpiphtj2kreferenceddeflate/
+url: /net/aspose.medical.dicom/uid/jpiphtj2kreferenceddeflate/
 ---
 
 ## Uid.JpipHTJ2KReferencedDeflate field

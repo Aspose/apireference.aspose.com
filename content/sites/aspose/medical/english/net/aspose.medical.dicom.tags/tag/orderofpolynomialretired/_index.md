@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014605D VRDS VM1 Order of Polynomial RETIRED.
 type: docs
 weight: 28410
-url: /aspose.medical.dicom.tags/tag/orderofpolynomialretired/
+url: /net/aspose.medical.dicom.tags/tag/orderofpolynomialretired/
 ---
 
 ## Tag.OrderOfPolynomialRETIRED field

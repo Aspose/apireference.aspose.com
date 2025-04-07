@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541401 VRCS VM1 Dead Time Correction Flag RETIRED.
 type: docs
 weight: 10180
-url: /aspose.medical.dicom.tags/tag/deadtimecorrectionflagretired/
+url: /net/aspose.medical.dicom.tags/tag/deadtimecorrectionflagretired/
 ---
 
 ## Tag.DeadTimeCorrectionFlagRETIRED field

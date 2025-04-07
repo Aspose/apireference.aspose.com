@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00089121 VRSQ VM1 Referenced Raw Data Sequence.
 type: docs
 weight: 37060
-url: /aspose.medical.dicom.tags/tag/referencedrawdatasequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedrawdatasequence/
 ---
 
 ## Tag.ReferencedRawDataSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460118 VRFL VM1 Refractive Index of Aqueous Humor.
 type: docs
 weight: 37950
-url: /aspose.medical.dicom.tags/tag/refractiveindexofaqueoushumor/
+url: /net/aspose.medical.dicom.tags/tag/refractiveindexofaqueoushumor/
 ---
 
 ## Tag.RefractiveIndexOfAqueousHumor field

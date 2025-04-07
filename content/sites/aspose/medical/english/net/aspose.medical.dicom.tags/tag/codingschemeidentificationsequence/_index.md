@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080110 VRSQ VM1 Coding Scheme Identification Sequence.
 type: docs
 weight: 6130
-url: /aspose.medical.dicom.tags/tag/codingschemeidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/codingschemeidentificationsequence/
 ---
 
 ## Tag.CodingSchemeIdentificationSequence field

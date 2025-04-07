@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143077 VRTM VM1 Time of Gain Calibration RETIRED.
 type: docs
 weight: 48410
-url: /aspose.medical.dicom.tags/tag/timeofgaincalibrationretired/
+url: /net/aspose.medical.dicom.tags/tag/timeofgaincalibrationretired/
 ---
 
 ## Tag.TimeOfGainCalibrationRETIRED field

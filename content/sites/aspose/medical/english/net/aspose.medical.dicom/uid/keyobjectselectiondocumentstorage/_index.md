@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Key Object Selection Document Storage.
 type: docs
 weight: 2470
-url: /aspose.medical.dicom/uid/keyobjectselectiondocumentstorage/
+url: /net/aspose.medical.dicom/uid/keyobjectselectiondocumentstorage/
 ---
 
 ## Uid.KeyObjectSelectionDocumentStorage field

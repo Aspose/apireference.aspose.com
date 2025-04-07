@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221097 VRLO VM1 Implant Part Number.
 type: docs
 weight: 19860
-url: /aspose.medical.dicom.tags/tag/implantpartnumber/
+url: /net/aspose.medical.dicom.tags/tag/implantpartnumber/
 ---
 
 ## Tag.ImplantPartNumber field

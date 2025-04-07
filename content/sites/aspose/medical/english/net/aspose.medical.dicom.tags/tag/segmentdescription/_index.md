@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00620006 VRST VM1 Segment Description.
 type: docs
 weight: 42050
-url: /aspose.medical.dicom.tags/tag/segmentdescription/
+url: /net/aspose.medical.dicom.tags/tag/segmentdescription/
 ---
 
 ## Tag.SegmentDescription field

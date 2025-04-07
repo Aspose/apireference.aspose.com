@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181320 VRFL VM1 B1rms.
 type: docs
 weight: 3140
-url: /aspose.medical.dicom.tags/tag/b1rms/
+url: /net/aspose.medical.dicom.tags/tag/b1rms/
 ---
 
 ## Tag.B1rms field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0746 VRSQ VM1 Interlock Resolution User Sequence.
 type: docs
 weight: 20840
-url: /aspose.medical.dicom.tags/tag/interlockresolutionusersequence/
+url: /net/aspose.medical.dicom.tags/tag/interlockresolutionusersequence/
 ---
 
 ## Tag.InterlockResolutionUserSequence field

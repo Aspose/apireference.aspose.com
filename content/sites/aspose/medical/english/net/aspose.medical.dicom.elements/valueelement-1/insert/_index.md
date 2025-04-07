@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Inserts the given value into this element at a given index. The size of the list is increased by one.
 type: docs
 weight: 120
-url: /aspose.medical.dicom.elements/valueelement-1/insert/
+url: /net/aspose.medical.dicom.elements/valueelement-1/insert/
 ---
 
 ## ValueElement&lt;T&gt;.Insert method

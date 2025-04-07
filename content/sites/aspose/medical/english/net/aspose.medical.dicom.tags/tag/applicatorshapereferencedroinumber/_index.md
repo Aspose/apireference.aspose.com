@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02A1 VRIS VM1 Applicator Shape Referenced ROI Number.
 type: docs
 weight: 2230
-url: /aspose.medical.dicom.tags/tag/applicatorshapereferencedroinumber/
+url: /net/aspose.medical.dicom.tags/tag/applicatorshapereferencedroinumber/
 ---
 
 ## Tag.ApplicatorShapeReferencedROINumber field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080402 VRLT VM1 Inventory Instance Description.
 type: docs
 weight: 21340
-url: /aspose.medical.dicom.tags/tag/inventoryinstancedescription/
+url: /net/aspose.medical.dicom.tags/tag/inventoryinstancedescription/
 ---
 
 ## Tag.InventoryInstanceDescription field

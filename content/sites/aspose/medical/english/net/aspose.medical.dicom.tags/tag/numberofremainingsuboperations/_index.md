@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00001020 VRUS VM1 Number of Remaining Sub-operations.
 type: docs
 weight: 26740
-url: /aspose.medical.dicom.tags/tag/numberofremainingsuboperations/
+url: /net/aspose.medical.dicom.tags/tag/numberofremainingsuboperations/
 ---
 
 ## Tag.NumberOfRemainingSuboperations field

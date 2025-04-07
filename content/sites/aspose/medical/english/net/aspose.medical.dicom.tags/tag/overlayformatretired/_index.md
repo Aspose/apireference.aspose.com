@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0110 VRCS VM1 Overlay Format RETIRED.
 type: docs
 weight: 29040
-url: /aspose.medical.dicom.tags/tag/overlayformatretired/
+url: /net/aspose.medical.dicom.tags/tag/overlayformatretired/
 ---
 
 ## Tag.OverlayFormatRETIRED field

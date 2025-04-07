@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: JPEG 2000 Part 2 Multi-component Image Compression 1.2.840.10008.1.2.4.93.
 type: docs
 weight: 200
-url: /aspose.medical.dicom/transfersyntax/jpeg2000part2multicomponent/
+url: /net/aspose.medical.dicom/transfersyntax/jpeg2000part2multicomponent/
 ---
 
 ## TransferSyntax.Jpeg2000Part2MultiComponent field

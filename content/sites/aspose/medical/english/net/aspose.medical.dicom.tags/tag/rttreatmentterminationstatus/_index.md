@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0714 VRCS VM1 RT Treatment Termination Status.
 type: docs
 weight: 40750
-url: /aspose.medical.dicom.tags/tag/rttreatmentterminationstatus/
+url: /net/aspose.medical.dicom.tags/tag/rttreatmentterminationstatus/
 ---
 
 ## Tag.RTTreatmentTerminationStatus field

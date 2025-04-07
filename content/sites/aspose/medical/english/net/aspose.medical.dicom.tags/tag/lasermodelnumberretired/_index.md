@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014603A VRLO VM1 Laser Model Number RETIRED.
 type: docs
 weight: 22360
-url: /aspose.medical.dicom.tags/tag/lasermodelnumberretired/
+url: /net/aspose.medical.dicom.tags/tag/lasermodelnumberretired/
 ---
 
 ## Tag.LaserModelNumberRETIRED field

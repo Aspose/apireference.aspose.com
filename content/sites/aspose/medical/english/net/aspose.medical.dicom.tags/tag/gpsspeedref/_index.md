@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016007C VRCS VM1 GPS Speed Ref.
 type: docs
 weight: 17670
-url: /aspose.medical.dicom.tags/tag/gpsspeedref/
+url: /net/aspose.medical.dicom.tags/tag/gpsspeedref/
 ---
 
 ## Tag.GPSSpeedRef field

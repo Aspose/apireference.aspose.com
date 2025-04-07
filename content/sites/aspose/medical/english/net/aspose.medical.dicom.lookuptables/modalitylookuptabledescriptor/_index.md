@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Provides information about mapping between modality LUT sequence and target image.
 type: docs
 weight: 780
-url: /aspose.medical.dicom.lookuptables/modalitylookuptabledescriptor/
+url: /net/aspose.medical.dicom.lookuptables/modalitylookuptabledescriptor/
 ---
 
 ## ModalityLookUpTableDescriptor record

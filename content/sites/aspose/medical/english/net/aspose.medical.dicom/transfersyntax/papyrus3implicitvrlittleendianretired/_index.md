@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Papyrus 3 Implicit VR Little Endian Retired 1.2.840.10008.1.20.
 type: docs
 weight: 540
-url: /aspose.medical.dicom/transfersyntax/papyrus3implicitvrlittleendianretired/
+url: /net/aspose.medical.dicom/transfersyntax/papyrus3implicitvrlittleendianretired/
 ---
 
 ## TransferSyntax.Papyrus3ImplicitVrLittleEndianRetired field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00402011 VRLT VM1 Order Callback Telecom Information.
 type: docs
 weight: 28370
-url: /aspose.medical.dicom.tags/tag/ordercallbacktelecominformation/
+url: /net/aspose.medical.dicom.tags/tag/ordercallbacktelecominformation/
 ---
 
 ## Tag.OrderCallbackTelecomInformation field

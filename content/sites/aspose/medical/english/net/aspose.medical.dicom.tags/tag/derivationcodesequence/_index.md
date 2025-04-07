@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00089215 VRSQ VM1 Derivation Code Sequence.
 type: docs
 weight: 10790
-url: /aspose.medical.dicom.tags/tag/derivationcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/derivationcodesequence/
 ---
 
 ## Tag.DerivationCodeSequence field

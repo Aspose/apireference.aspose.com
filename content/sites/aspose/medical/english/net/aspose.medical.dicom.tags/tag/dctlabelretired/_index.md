@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280700 VRLO VM1 DCT Label RETIRED.
 type: docs
 weight: 10150
-url: /aspose.medical.dicom.tags/tag/dctlabelretired/
+url: /net/aspose.medical.dicom.tags/tag/dctlabelretired/
 ---
 
 ## Tag.DCTLabelRETIRED field

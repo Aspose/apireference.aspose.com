@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189550 VRFD VM1 Detector Isocenter Primary Angle.
 type: docs
 weight: 11060
-url: /aspose.medical.dicom.tags/tag/detectorisocenterprimaryangle/
+url: /net/aspose.medical.dicom.tags/tag/detectorisocenterprimaryangle/
 ---
 
 ## Tag.DetectorIsocenterPrimaryAngle field

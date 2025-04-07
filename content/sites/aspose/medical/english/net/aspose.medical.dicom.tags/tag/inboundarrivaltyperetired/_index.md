@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101056 VRCS VM1 Inbound Arrival Type RETIRED.
 type: docs
 weight: 20090
-url: /aspose.medical.dicom.tags/tag/inboundarrivaltyperetired/
+url: /net/aspose.medical.dicom.tags/tag/inboundarrivaltyperetired/
 ---
 
 ## Tag.InboundArrivalTypeRETIRED field

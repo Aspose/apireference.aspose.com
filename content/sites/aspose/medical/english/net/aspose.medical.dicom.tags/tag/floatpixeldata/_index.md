@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 7FE00008 VROF VM1 Float Pixel Data.
 type: docs
 weight: 15970
-url: /aspose.medical.dicom.tags/tag/floatpixeldata/
+url: /net/aspose.medical.dicom.tags/tag/floatpixeldata/
 ---
 
 ## Tag.FloatPixelData field

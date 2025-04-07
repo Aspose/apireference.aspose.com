@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221620 VRSQ VM1 Referenced Surface Mesh Identification Sequence.
 type: docs
 weight: 37530
-url: /aspose.medical.dicom.tags/tag/referencedsurfacemeshidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedsurfacemeshidentificationsequence/
 ---
 
 ## Tag.ReferencedSurfaceMeshIdentificationSequence field

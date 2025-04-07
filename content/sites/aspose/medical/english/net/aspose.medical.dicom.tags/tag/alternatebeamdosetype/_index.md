@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0092 VRCS VM1 Alternate Beam Dose Type.
 type: docs
 weight: 1350
-url: /aspose.medical.dicom.tags/tag/alternatebeamdosetype/
+url: /net/aspose.medical.dicom.tags/tag/alternatebeamdosetype/
 ---
 
 ## Tag.AlternateBeamDoseType field

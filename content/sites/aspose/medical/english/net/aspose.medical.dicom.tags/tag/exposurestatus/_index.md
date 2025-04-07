@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187064 VRCS VM1 Exposure Status.
 type: docs
 weight: 14640
-url: /aspose.medical.dicom.tags/tag/exposurestatus/
+url: /net/aspose.medical.dicom.tags/tag/exposurestatus/
 ---
 
 ## Tag.ExposureStatus field

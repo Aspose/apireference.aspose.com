@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189343 VRCS VM1 Contrast/Bolus Agent Detected.
 type: docs
 weight: 8220
-url: /aspose.medical.dicom.tags/tag/contrastbolusagentdetected/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolusagentdetected/
 ---
 
 ## Tag.ContrastBolusAgentDetected field

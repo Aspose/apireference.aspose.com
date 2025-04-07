@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0010 VRUS VM1 Overlay Rows.
 type: docs
 weight: 29170
-url: /aspose.medical.dicom.tags/tag/overlayrows/
+url: /net/aspose.medical.dicom.tags/tag/overlayrows/
 ---
 
 ## Tag.OverlayRows field

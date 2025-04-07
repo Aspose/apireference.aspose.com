@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143060 VRSQ VM1 Gain Correction Reference Sequence RETIRED.
 type: docs
 weight: 16920
-url: /aspose.medical.dicom.tags/tag/gaincorrectionreferencesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/gaincorrectionreferencesequenceretired/
 ---
 
 ## Tag.GainCorrectionReferenceSequenceRETIRED field

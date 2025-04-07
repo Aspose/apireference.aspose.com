@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 2200000E VRAT VM1-n Failure Attributes.
 type: docs
 weight: 14810
-url: /aspose.medical.dicom.tags/tag/failureattributes/
+url: /net/aspose.medical.dicom.tags/tag/failureattributes/
 ---
 
 ## Tag.FailureAttributes field

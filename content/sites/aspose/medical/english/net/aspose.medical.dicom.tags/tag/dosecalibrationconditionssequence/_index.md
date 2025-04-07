@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0120 VRSQ VM1 Dose Calibration Conditions Sequence.
 type: docs
 weight: 12620
-url: /aspose.medical.dicom.tags/tag/dosecalibrationconditionssequence/
+url: /net/aspose.medical.dicom.tags/tag/dosecalibrationconditionssequence/
 ---
 
 ## Tag.DoseCalibrationConditionsSequence field

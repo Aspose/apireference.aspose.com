@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010000C VRUT VM1 Conceptual Volume Combination Expression.
 type: docs
 weight: 7300
-url: /aspose.medical.dicom.tags/tag/conceptualvolumecombinationexpression/
+url: /net/aspose.medical.dicom.tags/tag/conceptualvolumecombinationexpression/
 ---
 
 ## Tag.ConceptualVolumeCombinationExpression field

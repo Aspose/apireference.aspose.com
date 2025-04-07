@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02E0 VRCS VM1 Compensator Divergence.
 type: docs
 weight: 6680
-url: /aspose.medical.dicom.tags/tag/compensatordivergence/
+url: /net/aspose.medical.dicom.tags/tag/compensatordivergence/
 ---
 
 ## Tag.CompensatorDivergence field

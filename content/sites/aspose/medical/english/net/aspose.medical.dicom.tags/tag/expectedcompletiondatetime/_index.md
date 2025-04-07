@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404011 VRDT VM1 Expected Completion DateTime.
 type: docs
 weight: 14370
-url: /aspose.medical.dicom.tags/tag/expectedcompletiondatetime/
+url: /net/aspose.medical.dicom.tags/tag/expectedcompletiondatetime/
 ---
 
 ## Tag.ExpectedCompletionDateTime field

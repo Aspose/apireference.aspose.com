@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700295 VRUL VM1 Graphic Group ID.
 type: docs
 weight: 17830
-url: /aspose.medical.dicom.tags/tag/graphicgroupid/
+url: /net/aspose.medical.dicom.tags/tag/graphicgroupid/
 ---
 
 ## Tag.GraphicGroupID field

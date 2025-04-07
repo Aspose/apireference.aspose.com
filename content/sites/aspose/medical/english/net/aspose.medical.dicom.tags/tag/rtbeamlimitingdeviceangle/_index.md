@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0679 VRFD VM1 RT Beam Limiting Device Angle.
 type: docs
 weight: 39960
-url: /aspose.medical.dicom.tags/tag/rtbeamlimitingdeviceangle/
+url: /net/aspose.medical.dicom.tags/tag/rtbeamlimitingdeviceangle/
 ---
 
 ## Tag.RTBeamLimitingDeviceAngle field

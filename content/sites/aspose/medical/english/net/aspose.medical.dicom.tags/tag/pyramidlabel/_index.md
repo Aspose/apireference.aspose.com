@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200027 VRLO VM1 Pyramid Label.
 type: docs
 weight: 33940
-url: /aspose.medical.dicom.tags/tag/pyramidlabel/
+url: /net/aspose.medical.dicom.tags/tag/pyramidlabel/
 ---
 
 ## Tag.PyramidLabel field

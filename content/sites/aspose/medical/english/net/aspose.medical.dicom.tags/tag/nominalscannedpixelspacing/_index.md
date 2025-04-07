@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00182010 VRDS VM2 Nominal Scanned Pixel Spacing.
 type: docs
 weight: 25890
-url: /aspose.medical.dicom.tags/tag/nominalscannedpixelspacing/
+url: /net/aspose.medical.dicom.tags/tag/nominalscannedpixelspacing/
 ---
 
 ## Tag.NominalScannedPixelSpacing field

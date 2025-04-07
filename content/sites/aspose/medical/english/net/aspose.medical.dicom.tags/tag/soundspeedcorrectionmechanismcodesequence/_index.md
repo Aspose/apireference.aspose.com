@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189832 VRSQ VM1 Sound Speed Correction Mechanism Code Sequence.
 type: docs
 weight: 43930
-url: /aspose.medical.dicom.tags/tag/soundspeedcorrectionmechanismcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/soundspeedcorrectionmechanismcodesequence/
 ---
 
 ## Tag.SoundSpeedCorrectionMechanismCodeSequence field

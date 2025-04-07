@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189601 VRSQ VM1 Diffusion b-matrix Sequence.
 type: docs
 weight: 11620
-url: /aspose.medical.dicom.tags/tag/diffusionbmatrixsequence/
+url: /net/aspose.medical.dicom.tags/tag/diffusionbmatrixsequence/
 ---
 
 ## Tag.DiffusionBMatrixSequence field

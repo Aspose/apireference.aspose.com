@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189337 VRUS VM1 Contrast/Bolus Agent Number.
 type: docs
 weight: 8230
-url: /aspose.medical.dicom.tags/tag/contrastbolusagentnumber/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolusagentnumber/
 ---
 
 ## Tag.ContrastBolusAgentNumber field

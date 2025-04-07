@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx0106 VRSH VM1-n Curve Range RETIRED.
 type: docs
 weight: 9540
-url: /aspose.medical.dicom.tags/tag/curverangeretired/
+url: /net/aspose.medical.dicom.tags/tag/curverangeretired/
 ---
 
 ## Tag.CurveRangeRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006862F2 VRFD VM1 HPGL Document Scaling.
 type: docs
 weight: 18590
-url: /aspose.medical.dicom.tags/tag/hpgldocumentscaling/
+url: /net/aspose.medical.dicom.tags/tag/hpgldocumentscaling/
 ---
 
 ## Tag.HPGLDocumentScaling field

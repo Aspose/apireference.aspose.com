@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080102 VRSH VM1 Coding Scheme Designator.
 type: docs
 weight: 6110
-url: /aspose.medical.dicom.tags/tag/codingschemedesignator/
+url: /net/aspose.medical.dicom.tags/tag/codingschemedesignator/
 ---
 
 ## Tag.CodingSchemeDesignator field

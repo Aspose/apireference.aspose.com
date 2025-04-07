@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022104A VRSQ VM1 Toric IOL Power for Exact Emmetropia Sequence.
 type: docs
 weight: 48820
-url: /aspose.medical.dicom.tags/tag/toriciolpowerforexactemmetropiasequence/
+url: /net/aspose.medical.dicom.tags/tag/toriciolpowerforexactemmetropiasequence/
 ---
 
 ## Tag.ToricIOLPowerForExactEmmetropiaSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00620009 VRLO VM1-n Segment Algorithm Name.
 type: docs
 weight: 41920
-url: /aspose.medical.dicom.tags/tag/segmentalgorithmname/
+url: /net/aspose.medical.dicom.tags/tag/segmentalgorithmname/
 ---
 
 ## Tag.SegmentAlgorithmName field

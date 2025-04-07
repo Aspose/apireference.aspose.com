@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186028 VRFD VM1 Reference Pixel Physical Value X.
 type: docs
 weight: 37780
-url: /aspose.medical.dicom.tags/tag/referencepixelphysicalvaluex/
+url: /net/aspose.medical.dicom.tags/tag/referencepixelphysicalvaluex/
 ---
 
 ## Tag.ReferencePixelPhysicalValueX field

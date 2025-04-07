@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100051 VRFD VM1 Maximum Number of Interval Days.
 type: docs
 weight: 24000
-url: /aspose.medical.dicom.tags/tag/maximumnumberofintervaldays/
+url: /net/aspose.medical.dicom.tags/tag/maximumnumberofintervaldays/
 ---
 
 ## Tag.MaximumNumberOfIntervalDays field

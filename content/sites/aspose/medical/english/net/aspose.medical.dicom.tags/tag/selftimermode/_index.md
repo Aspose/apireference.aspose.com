@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160019 VRIS VM1 Self Timer Mode.
 type: docs
 weight: 42710
-url: /aspose.medical.dicom.tags/tag/selftimermode/
+url: /net/aspose.medical.dicom.tags/tag/selftimermode/
 ---
 
 ## Tag.SelfTimerMode field

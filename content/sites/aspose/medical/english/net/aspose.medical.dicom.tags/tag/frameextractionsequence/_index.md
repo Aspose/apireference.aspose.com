@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081164 VRSQ VM1 Frame Extraction Sequence.
 type: docs
 weight: 16560
-url: /aspose.medical.dicom.tags/tag/frameextractionsequence/
+url: /net/aspose.medical.dicom.tags/tag/frameextractionsequence/
 ---
 
 ## Tag.FrameExtractionSequence field

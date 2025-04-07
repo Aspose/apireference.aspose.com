@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280065 VRCS VM1-n Compression Sequence RETIRED.
 type: docs
 weight: 7210
-url: /aspose.medical.dicom.tags/tag/compressionsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/compressionsequenceretired/
 ---
 
 ## Tag.CompressionSequenceRETIRED field

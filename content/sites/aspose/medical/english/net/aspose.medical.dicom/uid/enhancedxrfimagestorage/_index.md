@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Enhanced XRF Image Storage.
 type: docs
 weight: 1500
-url: /aspose.medical.dicom/uid/enhancedxrfimagestorage/
+url: /net/aspose.medical.dicom/uid/enhancedxrfimagestorage/
 ---
 
 ## Uid.EnhancedXRFImageStorage field

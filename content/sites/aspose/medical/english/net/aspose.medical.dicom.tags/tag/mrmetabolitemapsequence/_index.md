@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189152 VRSQ VM1 MR Metabolite Map Sequence.
 type: docs
 weight: 25250
-url: /aspose.medical.dicom.tags/tag/mrmetabolitemapsequence/
+url: /net/aspose.medical.dicom.tags/tag/mrmetabolitemapsequence/
 ---
 
 ## Tag.MRMetaboliteMapSequence field

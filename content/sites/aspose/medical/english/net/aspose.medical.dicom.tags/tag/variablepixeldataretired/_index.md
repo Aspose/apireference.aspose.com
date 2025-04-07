@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 7Fxx0010 VROB or OW VM1 Variable Pixel Data RETIRED.
 type: docs
 weight: 50770
-url: /aspose.medical.dicom.tags/tag/variablepixeldataretired/
+url: /net/aspose.medical.dicom.tags/tag/variablepixeldataretired/
 ---
 
 ## Tag.VariablePixelDataRETIRED field

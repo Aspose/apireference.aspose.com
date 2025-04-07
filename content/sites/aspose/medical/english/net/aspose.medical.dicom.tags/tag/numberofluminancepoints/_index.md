@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028701B VRUS VM1 Number of Luminance Points.
 type: docs
 weight: 26530
-url: /aspose.medical.dicom.tags/tag/numberofluminancepoints/
+url: /net/aspose.medical.dicom.tags/tag/numberofluminancepoints/
 ---
 
 ## Tag.NumberOfLuminancePoints field

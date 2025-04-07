@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101039 VRCS VM1 TIP Type RETIRED.
 type: docs
 weight: 48540
-url: /aspose.medical.dicom.tags/tag/tiptyperetired/
+url: /net/aspose.medical.dicom.tags/tag/tiptyperetired/
 ---
 
 ## Tag.TIPTypeRETIRED field

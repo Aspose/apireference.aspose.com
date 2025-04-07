@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0310 VRUI VM1 Multiplex Group UID.
 type: docs
 weight: 25600
-url: /aspose.medical.dicom.tags/tag/multiplexgroupuid/
+url: /net/aspose.medical.dicom.tags/tag/multiplexgroupuid/
 ---
 
 ## Tag.MultiplexGroupUID field

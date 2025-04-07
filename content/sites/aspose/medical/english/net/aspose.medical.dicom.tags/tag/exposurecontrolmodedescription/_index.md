@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187062 VRLT VM1 Exposure Control Mode Description.
 type: docs
 weight: 14460
-url: /aspose.medical.dicom.tags/tag/exposurecontrolmodedescription/
+url: /net/aspose.medical.dicom.tags/tag/exposurecontrolmodedescription/
 ---
 
 ## Tag.ExposureControlModeDescription field

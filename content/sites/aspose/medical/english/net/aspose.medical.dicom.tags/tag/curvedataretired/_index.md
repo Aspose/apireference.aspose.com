@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx3000 VROB or OW VM1 Curve Data RETIRED.
 type: docs
 weight: 9480
-url: /aspose.medical.dicom.tags/tag/curvedataretired/
+url: /net/aspose.medical.dicom.tags/tag/curvedataretired/
 ---
 
 ## Tag.CurveDataRETIRED field

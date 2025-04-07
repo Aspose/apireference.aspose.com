@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000300 VRAE VM1 Receiver RETIRED.
 type: docs
 weight: 35320
-url: /aspose.medical.dicom.tags/tag/receiverretired/
+url: /net/aspose.medical.dicom.tags/tag/receiverretired/
 ---
 
 ## Tag.ReceiverRETIRED field

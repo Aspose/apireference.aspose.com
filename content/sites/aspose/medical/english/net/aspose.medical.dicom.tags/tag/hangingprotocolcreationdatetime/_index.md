@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072000A VRDT VM1 Hanging Protocol Creation DateTime.
 type: docs
 weight: 18140
-url: /aspose.medical.dicom.tags/tag/hangingprotocolcreationdatetime/
+url: /net/aspose.medical.dicom.tags/tag/hangingprotocolcreationdatetime/
 ---
 
 ## Tag.HangingProtocolCreationDateTime field

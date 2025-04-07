@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Toshiba US Image Storage.
 type: docs
 weight: 3710
-url: /aspose.medical.dicom/uid/privatetoshibausimagestorage/
+url: /net/aspose.medical.dicom/uid/privatetoshibausimagestorage/
 ---
 
 ## Uid.PrivateToshibaUsImageStorage field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686470 VRSQ VM1 2D Degree of Freedom Sequence.
 type: docs
 weight: 50130
-url: /aspose.medical.dicom.tags/tag/twoddegreeoffreedomsequence/
+url: /net/aspose.medical.dicom.tags/tag/twoddegreeoffreedomsequence/
 ---
 
 ## Tag.TwoDDegreeOfFreedomSequence field

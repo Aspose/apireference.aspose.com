@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Specifies whether the photometric interpretation represents an YBR color scheme. Read-only Boolean.
 type: docs
 weight: 170
-url: /aspose.medical.dicom.imaging/photometricinterpretation/isybr/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/isybr/
 ---
 
 ## PhotometricInterpretation.IsYbr property

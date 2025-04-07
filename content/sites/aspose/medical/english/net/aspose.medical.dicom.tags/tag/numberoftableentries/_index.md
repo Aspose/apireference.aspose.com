@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186056 VRUL VM1 Number of Table Entries.
 type: docs
 weight: 26960
-url: /aspose.medical.dicom.tags/tag/numberoftableentries/
+url: /net/aspose.medical.dicom.tags/tag/numberoftableentries/
 ---
 
 ## Tag.NumberOfTableEntries field

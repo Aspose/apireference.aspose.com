@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 230
-url: /aspose.medical.dicom/valuemultiplicity/tostring/
+url: /net/aspose.medical.dicom/valuemultiplicity/tostring/
 ---
 
 ## ValueMultiplicity.ToString method

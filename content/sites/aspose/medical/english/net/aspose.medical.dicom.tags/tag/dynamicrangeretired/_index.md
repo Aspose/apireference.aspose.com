@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185030 VRDS VM1 Dynamic Range RETIRED.
 type: docs
 weight: 13190
-url: /aspose.medical.dicom.tags/tag/dynamicrangeretired/
+url: /net/aspose.medical.dicom.tags/tag/dynamicrangeretired/
 ---
 
 ## Tag.DynamicRangeRETIRED field

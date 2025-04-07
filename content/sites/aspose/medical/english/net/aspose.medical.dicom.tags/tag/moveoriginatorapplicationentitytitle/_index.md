@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00001030 VRAE VM1 Move Originator Application Entity Title.
 type: docs
 weight: 24980
-url: /aspose.medical.dicom.tags/tag/moveoriginatorapplicationentitytitle/
+url: /net/aspose.medical.dicom.tags/tag/moveoriginatorapplicationentitytitle/
 ---
 
 ## Tag.MoveOriginatorApplicationEntityTitle field

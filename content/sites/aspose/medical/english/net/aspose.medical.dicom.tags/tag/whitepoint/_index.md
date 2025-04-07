@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160001 VRDS VM1 White Point.
 type: docs
 weight: 52470
-url: /aspose.medical.dicom.tags/tag/whitepoint/
+url: /net/aspose.medical.dicom.tags/tag/whitepoint/
 ---
 
 ## Tag.WhitePoint field

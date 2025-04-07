@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741244 VRCS VM1 Subscription List Status.
 type: docs
 weight: 46200
-url: /aspose.medical.dicom.tags/tag/subscriptionliststatus/
+url: /net/aspose.medical.dicom.tags/tag/subscriptionliststatus/
 ---
 
 ## Tag.SubscriptionListStatus field

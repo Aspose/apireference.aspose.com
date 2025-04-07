@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181149 VRIS VM1-2 Field of View Dimensions.
 type: docs
 weight: 14970
-url: /aspose.medical.dicom.tags/tag/fieldofviewdimensions/
+url: /net/aspose.medical.dicom.tags/tag/fieldofviewdimensions/
 ---
 
 ## Tag.FieldOfViewDimensions field

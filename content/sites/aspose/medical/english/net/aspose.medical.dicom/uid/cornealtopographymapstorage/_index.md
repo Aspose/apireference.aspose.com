@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Corneal Topography Map Storage.
 type: docs
 weight: 510
-url: /aspose.medical.dicom/uid/cornealtopographymapstorage/
+url: /net/aspose.medical.dicom/uid/cornealtopographymapstorage/
 ---
 
 ## Uid.CornealTopographyMapStorage field

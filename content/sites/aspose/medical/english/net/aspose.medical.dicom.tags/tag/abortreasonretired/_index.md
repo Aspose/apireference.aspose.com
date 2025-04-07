@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101021 VRCS VM1-n Abort Reason RETIRED.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.tags/tag/abortreasonretired/
+url: /net/aspose.medical.dicom.tags/tag/abortreasonretired/
 ---
 
 ## Tag.AbortReasonRETIRED field

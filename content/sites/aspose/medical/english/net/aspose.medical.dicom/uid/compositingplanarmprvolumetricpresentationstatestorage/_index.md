@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Compositing Planar MPR Volumetric Presentation State Storage.
 type: docs
 weight: 430
-url: /aspose.medical.dicom/uid/compositingplanarmprvolumetricpresentationstatestorage/
+url: /net/aspose.medical.dicom/uid/compositingplanarmprvolumetricpresentationstatestorage/
 ---
 
 ## Uid.CompositingPlanarMPRVolumetricPresentationStateStorage field

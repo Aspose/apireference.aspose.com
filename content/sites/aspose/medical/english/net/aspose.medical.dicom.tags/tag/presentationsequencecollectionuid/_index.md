@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701102 VRUI VM1 Presentation Sequence Collection UID.
 type: docs
 weight: 32630
-url: /aspose.medical.dicom.tags/tag/presentationsequencecollectionuid/
+url: /net/aspose.medical.dicom.tags/tag/presentationsequencecollectionuid/
 ---
 
 ## Tag.PresentationSequenceCollectionUID field

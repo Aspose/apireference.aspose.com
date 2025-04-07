@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00E2 VRDS VM1 Total Compensator Tray Factor.
 type: docs
 weight: 48890
-url: /aspose.medical.dicom.tags/tag/totalcompensatortrayfactor/
+url: /net/aspose.medical.dicom.tags/tag/totalcompensatortrayfactor/
 ---
 
 ## Tag.TotalCompensatorTrayFactor field

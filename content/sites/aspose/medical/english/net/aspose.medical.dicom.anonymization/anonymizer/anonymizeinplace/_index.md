@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Anonymizes a dataset of the given file.
 type: docs
 weight: 40
-url: /aspose.medical.dicom.anonymization/anonymizer/anonymizeinplace/
+url: /net/aspose.medical.dicom.anonymization/anonymizer/anonymizeinplace/
 ---
 
 ## AnonymizeInPlace(DicomFile) {#anonymizeinplace_1}

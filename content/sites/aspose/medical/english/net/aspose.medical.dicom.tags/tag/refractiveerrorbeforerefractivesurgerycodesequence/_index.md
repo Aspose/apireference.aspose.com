@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221103 VRSQ VM1 Refractive Error Before Refractive Surgery Code Sequence.
 type: docs
 weight: 37930
-url: /aspose.medical.dicom.tags/tag/refractiveerrorbeforerefractivesurgerycodesequence/
+url: /net/aspose.medical.dicom.tags/tag/refractiveerrorbeforerefractivesurgerycodesequence/
 ---
 
 ## Tag.RefractiveErrorBeforeRefractiveSurgeryCodeSequence field

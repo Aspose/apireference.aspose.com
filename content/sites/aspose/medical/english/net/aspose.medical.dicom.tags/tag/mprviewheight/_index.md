@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701512 VRFD VM1 MPR View Height.
 type: docs
 weight: 25090
-url: /aspose.medical.dicom.tags/tag/mprviewheight/
+url: /net/aspose.medical.dicom.tags/tag/mprviewheight/
 ---
 
 ## Tag.MPRViewHeight field

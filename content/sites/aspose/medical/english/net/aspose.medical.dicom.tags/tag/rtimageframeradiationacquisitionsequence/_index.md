@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002010C VRSQ VM1 RT Image Frame Radiation Acquisition Sequence.
 type: docs
 weight: 40160
-url: /aspose.medical.dicom.tags/tag/rtimageframeradiationacquisitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/rtimageframeradiationacquisitionsequence/
 ---
 
 ## Tag.RTImageFrameRadiationAcquisitionSequence field

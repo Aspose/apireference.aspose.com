@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx200E VRLT VM1 Audio Comments RETIRED.
 type: docs
 weight: 2850
-url: /aspose.medical.dicom.tags/tag/audiocommentsretired/
+url: /net/aspose.medical.dicom.tags/tag/audiocommentsretired/
 ---
 
 ## Tag.AudioCommentsRETIRED field

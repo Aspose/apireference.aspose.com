@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480011 VRCS VM1 Focus Method.
 type: docs
 weight: 16200
-url: /aspose.medical.dicom.tags/tag/focusmethod/
+url: /net/aspose.medical.dicom.tags/tag/focusmethod/
 ---
 
 ## Tag.FocusMethod field

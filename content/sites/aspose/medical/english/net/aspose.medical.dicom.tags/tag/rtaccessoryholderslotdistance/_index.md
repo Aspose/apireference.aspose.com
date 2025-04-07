@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0612 VRFD VM1 RT Accessory Holder Slot Distance.
 type: docs
 weight: 39870
-url: /aspose.medical.dicom.tags/tag/rtaccessoryholderslotdistance/
+url: /net/aspose.medical.dicom.tags/tag/rtaccessoryholderslotdistance/
 ---
 
 ## Tag.RTAccessoryHolderSlotDistance field

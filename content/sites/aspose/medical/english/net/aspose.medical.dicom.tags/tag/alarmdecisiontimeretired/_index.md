@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4010102B VRDT VM1 Alarm Decision Time RETIRED.
 type: docs
 weight: 1110
-url: /aspose.medical.dicom.tags/tag/alarmdecisiontimeretired/
+url: /net/aspose.medical.dicom.tags/tag/alarmdecisiontimeretired/
 ---
 
 ## Tag.AlarmDecisionTimeRETIRED field

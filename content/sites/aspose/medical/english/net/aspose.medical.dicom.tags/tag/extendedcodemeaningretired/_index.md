@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080108 VRLT VM1 Extended Code Meaning RETIRED.
 type: docs
 weight: 14690
-url: /aspose.medical.dicom.tags/tag/extendedcodemeaningretired/
+url: /net/aspose.medical.dicom.tags/tag/extendedcodemeaningretired/
 ---
 
 ## Tag.ExtendedCodeMeaningRETIRED field

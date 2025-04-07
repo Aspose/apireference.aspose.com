@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189311 VRFD VM1 Spiral Pitch Factor.
 type: docs
 weight: 45220
-url: /aspose.medical.dicom.tags/tag/spiralpitchfactor/
+url: /net/aspose.medical.dicom.tags/tag/spiralpitchfactor/
 ---
 
 ## Tag.SpiralPitchFactor field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040010 VRSQ VM1 RT Dose ROI Sequence RETIRED.
 type: docs
 weight: 40090
-url: /aspose.medical.dicom.tags/tag/rtdoseroisequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/rtdoseroisequenceretired/
 ---
 
 ## Tag.RTDoseROISequenceRETIRED field

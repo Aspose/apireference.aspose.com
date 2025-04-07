@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0208 VRSQ VM1 Channel Source Sequence.
 type: docs
 weight: 5730
-url: /aspose.medical.dicom.tags/tag/channelsourcesequence/
+url: /net/aspose.medical.dicom.tags/tag/channelsourcesequence/
 ---
 
 ## Tag.ChannelSourceSequence field

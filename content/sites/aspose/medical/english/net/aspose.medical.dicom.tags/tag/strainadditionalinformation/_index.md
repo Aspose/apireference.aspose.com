@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100218 VRUT VM1 Strain Additional Information.
 type: docs
 weight: 45730
-url: /aspose.medical.dicom.tags/tag/strainadditionalinformation/
+url: /net/aspose.medical.dicom.tags/tag/strainadditionalinformation/
 ---
 
 ## Tag.StrainAdditionalInformation field

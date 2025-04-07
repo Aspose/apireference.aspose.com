@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541323 VRDS VM1 Scatter Fraction Factor.
 type: docs
 weight: 41240
-url: /aspose.medical.dicom.tags/tag/scatterfractionfactor/
+url: /net/aspose.medical.dicom.tags/tag/scatterfractionfactor/
 ---
 
 ## Tag.ScatterFractionFactor field

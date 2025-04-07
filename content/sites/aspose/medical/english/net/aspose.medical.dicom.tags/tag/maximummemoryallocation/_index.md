@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20000061 VRIS VM1 Maximum Memory Allocation.
 type: docs
 weight: 23980
-url: /aspose.medical.dicom.tags/tag/maximummemoryallocation/
+url: /net/aspose.medical.dicom.tags/tag/maximummemoryallocation/
 ---
 
 ## Tag.MaximumMemoryAllocation field

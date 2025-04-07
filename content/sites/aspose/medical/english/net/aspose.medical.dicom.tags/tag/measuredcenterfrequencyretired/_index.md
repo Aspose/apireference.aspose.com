@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014401B VRDS VM1 Measured Center Frequency RETIRED.
 type: docs
 weight: 24100
-url: /aspose.medical.dicom.tags/tag/measuredcenterfrequencyretired/
+url: /net/aspose.medical.dicom.tags/tag/measuredcenterfrequencyretired/
 ---
 
 ## Tag.MeasuredCenterFrequencyRETIRED field

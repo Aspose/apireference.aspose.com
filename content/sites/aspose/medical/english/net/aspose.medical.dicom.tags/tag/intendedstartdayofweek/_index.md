@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100086 VRLT VM1 Intended Start Day of Week.
 type: docs
 weight: 20740
-url: /aspose.medical.dicom.tags/tag/intendedstartdayofweek/
+url: /net/aspose.medical.dicom.tags/tag/intendedstartdayofweek/
 ---
 
 ## Tag.IntendedStartDayOfWeek field

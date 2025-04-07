@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380502 VRSQ VM1 Patient Clinical Trial Participation Sequence.
 type: docs
 weight: 29780
-url: /aspose.medical.dicom.tags/tag/patientclinicaltrialparticipationsequence/
+url: /net/aspose.medical.dicom.tags/tag/patientclinicaltrialparticipationsequence/
 ---
 
 ## Tag.PatientClinicalTrialParticipationSequence field

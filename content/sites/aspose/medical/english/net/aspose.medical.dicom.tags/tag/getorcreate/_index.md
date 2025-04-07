@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 53030
-url: /aspose.medical.dicom.tags/tag/getorcreate/
+url: /net/aspose.medical.dicom.tags/tag/getorcreate/
 ---
 
 ## Tag.GetOrCreate method

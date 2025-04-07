@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460208 VRIS VM2-2n Vertices of the Outline of Pupil.
 type: docs
 weight: 51050
-url: /aspose.medical.dicom.tags/tag/verticesoftheoutlineofpupil/
+url: /net/aspose.medical.dicom.tags/tag/verticesoftheoutlineofpupil/
 ---
 
 ## Tag.VerticesOfTheOutlineOfPupil field

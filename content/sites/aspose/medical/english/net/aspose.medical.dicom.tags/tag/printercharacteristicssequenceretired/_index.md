@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21300015 VRSQ VM1 Printer Characteristics Sequence RETIRED.
 type: docs
 weight: 32860
-url: /aspose.medical.dicom.tags/tag/printercharacteristicssequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/printercharacteristicssequenceretired/
 ---
 
 ## Tag.PrinterCharacteristicsSequenceRETIRED field

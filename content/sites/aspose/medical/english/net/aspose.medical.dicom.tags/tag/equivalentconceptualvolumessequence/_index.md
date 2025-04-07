@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010000A VRSQ VM1 Equivalent Conceptual Volumes Sequence.
 type: docs
 weight: 13950
-url: /aspose.medical.dicom.tags/tag/equivalentconceptualvolumessequence/
+url: /net/aspose.medical.dicom.tags/tag/equivalentconceptualvolumessequence/
 ---
 
 ## Tag.EquivalentConceptualVolumesSequence field

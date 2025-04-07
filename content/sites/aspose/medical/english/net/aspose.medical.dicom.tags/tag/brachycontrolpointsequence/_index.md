@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02D0 VRSQ VM1 Brachy Control Point Sequence.
 type: docs
 weight: 4500
-url: /aspose.medical.dicom.tags/tag/brachycontrolpointsequence/
+url: /net/aspose.medical.dicom.tags/tag/brachycontrolpointsequence/
 ---
 
 ## Tag.BrachyControlPointSequence field

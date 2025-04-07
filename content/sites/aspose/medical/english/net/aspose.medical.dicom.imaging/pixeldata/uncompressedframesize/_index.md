@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The uncompressed frame size in bytes. Read-only Int32.
 type: docs
 weight: 200
-url: /aspose.medical.dicom.imaging/pixeldata/uncompressedframesize/
+url: /net/aspose.medical.dicom.imaging/pixeldata/uncompressedframesize/
 ---
 
 ## PixelData.UncompressedFrameSize property

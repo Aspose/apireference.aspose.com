@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181624 VRUS VM3 Shutter Presentation Color CIELab Value.
 type: docs
 weight: 43400
-url: /aspose.medical.dicom.tags/tag/shutterpresentationcolorcielabvalue/
+url: /net/aspose.medical.dicom.tags/tag/shutterpresentationcolorcielabvalue/
 ---
 
 ## Tag.ShutterPresentationColorCIELabValue field

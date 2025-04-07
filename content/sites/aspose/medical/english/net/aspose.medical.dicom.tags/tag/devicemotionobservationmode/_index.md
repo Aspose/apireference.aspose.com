@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0452 VRCS VM1 Device Motion Observation Mode.
 type: docs
 weight: 11390
-url: /aspose.medical.dicom.tags/tag/devicemotionobservationmode/
+url: /net/aspose.medical.dicom.tags/tag/devicemotionobservationmode/
 ---
 
 ## Tag.DeviceMotionObservationMode field

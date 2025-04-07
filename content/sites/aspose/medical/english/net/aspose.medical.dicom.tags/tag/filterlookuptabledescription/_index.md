@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A032B VRST VM1 Filter Lookup Table Description.
 type: docs
 weight: 15370
-url: /aspose.medical.dicom.tags/tag/filterlookuptabledescription/
+url: /net/aspose.medical.dicom.tags/tag/filterlookuptabledescription/
 ---
 
 ## Tag.FilterLookupTableDescription field

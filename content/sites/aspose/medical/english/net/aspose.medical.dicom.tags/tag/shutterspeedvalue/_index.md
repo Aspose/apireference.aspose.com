@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160021 VRDS VM1 Shutter Speed Value.
 type: docs
 weight: 43440
-url: /aspose.medical.dicom.tags/tag/shutterspeedvalue/
+url: /net/aspose.medical.dicom.tags/tag/shutterspeedvalue/
 ---
 
 ## Tag.ShutterSpeedValue field

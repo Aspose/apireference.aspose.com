@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189322 VRFD VM2 Reconstruction Pixel Spacing.
 type: docs
 weight: 35670
-url: /aspose.medical.dicom.tags/tag/reconstructionpixelspacing/
+url: /net/aspose.medical.dicom.tags/tag/reconstructionpixelspacing/
 ---
 
 ## Tag.ReconstructionPixelSpacing field

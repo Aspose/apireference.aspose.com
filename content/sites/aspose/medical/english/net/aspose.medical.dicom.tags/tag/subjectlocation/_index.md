@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160037 VRIS VM2 Subject Location.
 type: docs
 weight: 46180
-url: /aspose.medical.dicom.tags/tag/subjectlocation/
+url: /net/aspose.medical.dicom.tags/tag/subjectlocation/
 ---
 
 ## Tag.SubjectLocation field

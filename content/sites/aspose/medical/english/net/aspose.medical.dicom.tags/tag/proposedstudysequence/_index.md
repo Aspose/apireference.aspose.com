@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 213000A0 VRSQ VM1 Proposed Study Sequence.
 type: docs
 weight: 33620
-url: /aspose.medical.dicom.tags/tag/proposedstudysequence/
+url: /net/aspose.medical.dicom.tags/tag/proposedstudysequence/
 ---
 
 ## Tag.ProposedStudySequence field

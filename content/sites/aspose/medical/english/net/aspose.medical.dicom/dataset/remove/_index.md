@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Removes element for given tag.
 type: docs
 weight: 160
-url: /aspose.medical.dicom/dataset/remove/
+url: /net/aspose.medical.dicom/dataset/remove/
 ---
 
 ## Remove(Tag) {#remove}

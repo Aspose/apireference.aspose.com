@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0131 VRFL VM1 Average Beam Dose Point Source to External Contour Distance.
 type: docs
 weight: 3010
-url: /aspose.medical.dicom.tags/tag/averagebeamdosepointsourcetoexternalcontourdistance/
+url: /net/aspose.medical.dicom.tags/tag/averagebeamdosepointsourcetoexternalcontourdistance/
 ---
 
 ## Tag.AverageBeamDosePointSourceToExternalContourDistance field

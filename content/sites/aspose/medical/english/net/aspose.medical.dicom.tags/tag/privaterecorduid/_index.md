@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041432 VRUI VM1 Private Record UID.
 type: docs
 weight: 33190
-url: /aspose.medical.dicom.tags/tag/privaterecorduid/
+url: /net/aspose.medical.dicom.tags/tag/privaterecorduid/
 ---
 
 ## Tag.PrivateRecordUID field

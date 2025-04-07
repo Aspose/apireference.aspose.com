@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040008 VRDS VM3 Normalization Point.
 type: docs
 weight: 25970
-url: /aspose.medical.dicom.tags/tag/normalizationpoint/
+url: /net/aspose.medical.dicom.tags/tag/normalizationpoint/
 ---
 
 ## Tag.NormalizationPoint field

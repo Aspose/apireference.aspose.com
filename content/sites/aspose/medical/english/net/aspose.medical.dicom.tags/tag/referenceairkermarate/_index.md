@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A022A VRDS VM1 Reference Air Kerma Rate.
 type: docs
 weight: 35950
-url: /aspose.medical.dicom.tags/tag/referenceairkermarate/
+url: /net/aspose.medical.dicom.tags/tag/referenceairkermarate/
 ---
 
 ## Tag.ReferenceAirKermaRate field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0503 VRFL VM2 Nominal Range Modulation Fractions.
 type: docs
 weight: 25870
-url: /aspose.medical.dicom.tags/tag/nominalrangemodulationfractions/
+url: /net/aspose.medical.dicom.tags/tag/nominalrangemodulationfractions/
 ---
 
 ## Tag.NominalRangeModulationFractions field

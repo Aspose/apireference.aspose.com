@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281040 VRCS VM1 Pixel Intensity Relationship.
 type: docs
 weight: 31440
-url: /aspose.medical.dicom.tags/tag/pixelintensityrelationship/
+url: /net/aspose.medical.dicom.tags/tag/pixelintensityrelationship/
 ---
 
 ## Tag.PixelIntensityRelationship field

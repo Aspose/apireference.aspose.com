@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax Implicit VR Little Endian Default Transfer Syntax for DICOM.
 type: docs
 weight: 2040
-url: /aspose.medical.dicom/uid/implicitvrlittleendian/
+url: /net/aspose.medical.dicom/uid/implicitvrlittleendian/
 ---
 
 ## Uid.ImplicitVrLittleEndian field

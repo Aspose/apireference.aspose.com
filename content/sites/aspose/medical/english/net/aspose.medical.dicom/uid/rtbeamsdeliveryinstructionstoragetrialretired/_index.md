@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class RT Beams Delivery Instruction Storage - Trial Retired.
 type: docs
 weight: 4020
-url: /aspose.medical.dicom/uid/rtbeamsdeliveryinstructionstoragetrialretired/
+url: /net/aspose.medical.dicom/uid/rtbeamsdeliveryinstructionstoragetrialretired/
 ---
 
 ## Uid.RTBeamsDeliveryInstructionStorageTrialRetired field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Text SR Storage - Trial Retired.
 type: docs
 weight: 4620
-url: /aspose.medical.dicom/uid/textsrstoragetrialretired/
+url: /net/aspose.medical.dicom/uid/textsrstoragetrialretired/
 ---
 
 ## Uid.TextSRStorageTrialRetired field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189258 VRUL VM1 ASL Pulse Train Duration.
 type: docs
 weight: 2440
-url: /aspose.medical.dicom.tags/tag/aslpulsetrainduration/
+url: /net/aspose.medical.dicom.tags/tag/aslpulsetrainduration/
 ---
 
 ## Tag.ASLPulseTrainDuration field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A063E VRSQ VM1 Delivery Rate Unit Sequence.
 type: docs
 weight: 10670
-url: /aspose.medical.dicom.tags/tag/deliveryrateunitsequence/
+url: /net/aspose.medical.dicom.tags/tag/deliveryrateunitsequence/
 ---
 
 ## Tag.DeliveryRateUnitSequence field

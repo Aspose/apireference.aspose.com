@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates Date Time Date Time Range Matching functionality. See specification https//dicom.nema.org/medical/dicom/current/output/chtml/part04/sect_C.2.2.2.5.htmlsect_C.2.2.2.5.3https//dicom.nema.org/medical/dicom/current/output/chtml/part04/sect_C.2.2.2.5.htmlsect_C.2.2.2.5.3
 type: docs
 weight: 190
-url: /aspose.medical.dicom.elements/daterange/
+url: /net/aspose.medical.dicom.elements/daterange/
 ---
 
 ## DateRange structure

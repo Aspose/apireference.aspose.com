@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The number of samples per pixel 00280002 usually 1 for grayscale and 3 for color for RGB and YBR. Read/Write UInt16.
 type: docs
 weight: 180
-url: /aspose.medical.dicom.imaging/pixeldata/samplesperpixel/
+url: /net/aspose.medical.dicom.imaging/pixeldata/samplesperpixel/
 ---
 
 ## PixelData.SamplesPerPixel property

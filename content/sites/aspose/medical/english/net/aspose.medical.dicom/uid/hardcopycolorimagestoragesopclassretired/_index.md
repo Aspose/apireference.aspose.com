@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Hardcopy Color Image Storage SOP Class Retired.
 type: docs
 weight: 1810
-url: /aspose.medical.dicom/uid/hardcopycolorimagestoragesopclassretired/
+url: /net/aspose.medical.dicom/uid/hardcopycolorimagestoragesopclassretired/
 ---
 
 ## Uid.HardcopyColorImageStorageSOPClassRetired field

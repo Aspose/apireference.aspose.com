@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A021B VRSH VM1 Source Model ID.
 type: docs
 weight: 44280
-url: /aspose.medical.dicom.tags/tag/sourcemodelid/
+url: /net/aspose.medical.dicom.tags/tag/sourcemodelid/
 ---
 
 ## Tag.SourceModelID field

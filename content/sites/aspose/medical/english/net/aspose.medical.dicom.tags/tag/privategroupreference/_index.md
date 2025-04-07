@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080301 VRUS VM1 Private Group Reference.
 type: docs
 weight: 33160
-url: /aspose.medical.dicom.tags/tag/privategroupreference/
+url: /net/aspose.medical.dicom.tags/tag/privategroupreference/
 ---
 
 ## Tag.PrivateGroupReference field

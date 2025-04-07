@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100045 VRCS VM1 RT Treatment Phase Intent Presence Flag.
 type: docs
 weight: 40680
-url: /aspose.medical.dicom.tags/tag/rttreatmentphaseintentpresenceflag/
+url: /net/aspose.medical.dicom.tags/tag/rttreatmentphaseintentpresenceflag/
 ---
 
 ## Tag.RTTreatmentPhaseIntentPresenceFlag field

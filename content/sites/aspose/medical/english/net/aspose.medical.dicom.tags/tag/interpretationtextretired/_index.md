@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4008010B VRST VM1 Interpretation Text RETIRED.
 type: docs
 weight: 21050
-url: /aspose.medical.dicom.tags/tag/interpretationtextretired/
+url: /net/aspose.medical.dicom.tags/tag/interpretationtextretired/
 ---
 
 ## Tag.InterpretationTextRETIRED field

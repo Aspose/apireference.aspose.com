@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040B041 VRSQ VM1 Contributing Channel Sources Sequence.
 type: docs
 weight: 8430
-url: /aspose.medical.dicom.tags/tag/contributingchannelsourcessequence/
+url: /net/aspose.medical.dicom.tags/tag/contributingchannelsourcessequence/
 ---
 
 ## Tag.ContributingChannelSourcesSequence field

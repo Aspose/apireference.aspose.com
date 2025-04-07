@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221618 VRSQ VM1 Scan Pattern Type Code Sequence.
 type: docs
 weight: 41060
-url: /aspose.medical.dicom.tags/tag/scanpatterntypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/scanpatterntypecodesequence/
 ---
 
 ## Tag.ScanPatternTypeCodeSequence field

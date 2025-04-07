@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0426 VRDS VM1 Isocenter to General Accessory Distance.
 type: docs
 weight: 21660
-url: /aspose.medical.dicom.tags/tag/isocentertogeneralaccessorydistance/
+url: /net/aspose.medical.dicom.tags/tag/isocentertogeneralaccessorydistance/
 ---
 
 ## Tag.IsocenterToGeneralAccessoryDistance field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404016 VRSQ VM1 Referenced General Purpose Scheduled Procedure Step Sequence RETIRED.
 type: docs
 weight: 36490
-url: /aspose.medical.dicom.tags/tag/referencedgeneralpurposescheduledprocedurestepsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/referencedgeneralpurposescheduledprocedurestepsequenceretired/
 ---
 
 ## Tag.ReferencedGeneralPurposeScheduledProcedureStepSequenceRETIRED field

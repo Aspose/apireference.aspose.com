@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0322 VRCS VM1 Waveform Filter Type.
 type: docs
 weight: 51990
-url: /aspose.medical.dicom.tags/tag/waveformfiltertype/
+url: /net/aspose.medical.dicom.tags/tag/waveformfiltertype/
 ---
 
 ## Tag.WaveformFilterType field

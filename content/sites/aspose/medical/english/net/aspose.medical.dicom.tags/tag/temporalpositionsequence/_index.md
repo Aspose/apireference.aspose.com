@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209310 VRSQ VM1 Temporal Position Sequence.
 type: docs
 weight: 47620
-url: /aspose.medical.dicom.tags/tag/temporalpositionsequence/
+url: /net/aspose.medical.dicom.tags/tag/temporalpositionsequence/
 ---
 
 ## Tag.TemporalPositionSequence field

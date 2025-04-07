@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0122 VRFD VM2 Delineated Radiation Field Size.
 type: docs
 weight: 10510
-url: /aspose.medical.dicom.tags/tag/delineatedradiationfieldsize/
+url: /net/aspose.medical.dicom.tags/tag/delineatedradiationfieldsize/
 ---
 
 ## Tag.DelineatedRadiationFieldSize field

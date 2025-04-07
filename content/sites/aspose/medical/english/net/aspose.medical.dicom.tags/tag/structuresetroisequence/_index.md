@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060020 VRSQ VM1 Structure Set ROI Sequence.
 type: docs
 weight: 45900
-url: /aspose.medical.dicom.tags/tag/structuresetroisequence/
+url: /net/aspose.medical.dicom.tags/tag/structuresetroisequence/
 ---
 
 ## Tag.StructureSetROISequence field

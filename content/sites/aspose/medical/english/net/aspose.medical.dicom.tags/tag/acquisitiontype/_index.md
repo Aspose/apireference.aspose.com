@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189302 VRCS VM1 Acquisition Type.
 type: docs
 weight: 650
-url: /aspose.medical.dicom.tags/tag/acquisitiontype/
+url: /net/aspose.medical.dicom.tags/tag/acquisitiontype/
 ---
 
 ## Tag.AcquisitionType field

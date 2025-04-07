@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006A0008 VRSQ VM1 Annotation Group Algorithm Identification Sequence.
 type: docs
 weight: 1800
-url: /aspose.medical.dicom.tags/tag/annotationgroupalgorithmidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/annotationgroupalgorithmidentificationsequence/
 ---
 
 ## Tag.AnnotationGroupAlgorithmIdentificationSequence field

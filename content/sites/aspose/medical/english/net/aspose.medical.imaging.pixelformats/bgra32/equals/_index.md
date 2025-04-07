@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 110
-url: /aspose.medical.imaging.pixelformats/bgra32/equals/
+url: /net/aspose.medical.imaging.pixelformats/bgra32/equals/
 ---
 
 ## Equals(object) {#equals_1}

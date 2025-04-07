@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820016 VRLO VM1 Assessment Set ID.
 type: docs
 weight: 2610
-url: /aspose.medical.dicom.tags/tag/assessmentsetid/
+url: /net/aspose.medical.dicom.tags/tag/assessmentsetid/
 ---
 
 ## Tag.AssessmentSetID field

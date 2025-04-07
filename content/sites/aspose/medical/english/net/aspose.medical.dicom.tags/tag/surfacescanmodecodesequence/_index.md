@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00800002 VRSQ VM1 Surface Scan Mode Code Sequence.
 type: docs
 weight: 46520
-url: /aspose.medical.dicom.tags/tag/surfacescanmodecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/surfacescanmodecodesequence/
 ---
 
 ## Tag.SurfaceScanModeCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0234 VRIS VM1 Application Setup Number.
 type: docs
 weight: 2110
-url: /aspose.medical.dicom.tags/tag/applicationsetupnumber/
+url: /net/aspose.medical.dicom.tags/tag/applicationsetupnumber/
 ---
 
 ## Tag.ApplicationSetupNumber field

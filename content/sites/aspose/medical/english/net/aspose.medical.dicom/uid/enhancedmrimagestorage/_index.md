@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Enhanced MR Image Storage.
 type: docs
 weight: 1430
-url: /aspose.medical.dicom/uid/enhancedmrimagestorage/
+url: /net/aspose.medical.dicom/uid/enhancedmrimagestorage/
 ---
 
 ## Uid.EnhancedMRImageStorage field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Implicit VR Little Endian 1.2.840.10008.1.2.
 type: docs
 weight: 170
-url: /aspose.medical.dicom/transfersyntax/implicitvrlittleendian/
+url: /net/aspose.medical.dicom/transfersyntax/implicitvrlittleendian/
 ---
 
 ## TransferSyntax.ImplicitVrLittleEndian field

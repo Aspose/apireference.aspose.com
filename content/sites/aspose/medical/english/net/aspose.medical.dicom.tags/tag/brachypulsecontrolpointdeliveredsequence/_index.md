@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080173 VRSQ VM1 Brachy Pulse Control Point Delivered Sequence.
 type: docs
 weight: 4510
-url: /aspose.medical.dicom.tags/tag/brachypulsecontrolpointdeliveredsequence/
+url: /net/aspose.medical.dicom.tags/tag/brachypulsecontrolpointdeliveredsequence/
 ---
 
 ## Tag.BrachyPulseControlPointDeliveredSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189937 VRLO VM1 Requested Series Description.
 type: docs
 weight: 38770
-url: /aspose.medical.dicom.tags/tag/requestedseriesdescription/
+url: /net/aspose.medical.dicom.tags/tag/requestedseriesdescription/
 ---
 
 ## Tag.RequestedSeriesDescription field

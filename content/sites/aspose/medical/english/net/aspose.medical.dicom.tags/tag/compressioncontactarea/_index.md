@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811A5 VRDS VM1 Compression Contact Area.
 type: docs
 weight: 7140
-url: /aspose.medical.dicom.tags/tag/compressioncontactarea/
+url: /net/aspose.medical.dicom.tags/tag/compressioncontactarea/
 ---
 
 ## Tag.CompressionContactArea field

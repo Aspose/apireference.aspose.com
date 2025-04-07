@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401060 VRLO VM1 Requested Procedure Description Trial RETIRED.
 type: docs
 weight: 38720
-url: /aspose.medical.dicom.tags/tag/requestedproceduredescriptiontrialretired/
+url: /net/aspose.medical.dicom.tags/tag/requestedproceduredescriptiontrialretired/
 ---
 
 ## Tag.RequestedProcedureDescriptionTrialRETIRED field

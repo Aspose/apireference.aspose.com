@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Basic Print Image Overlay Box SOP Class Retired.
 type: docs
 weight: 180
-url: /aspose.medical.dicom/uid/basicprintimageoverlayboxsopclassretired/
+url: /net/aspose.medical.dicom/uid/basicprintimageoverlayboxsopclassretired/
 ---
 
 ## Uid.BasicPrintImageOverlayBoxSOPClassRetired field

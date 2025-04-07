@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Protocol Approval Information Model - MOVE.
 type: docs
 weight: 3780
-url: /aspose.medical.dicom/uid/protocolapprovalinformationmodelmove/
+url: /net/aspose.medical.dicom/uid/protocolapprovalinformationmodelmove/
 ---
 
 ## Uid.ProtocolApprovalInformationModelMOVE field

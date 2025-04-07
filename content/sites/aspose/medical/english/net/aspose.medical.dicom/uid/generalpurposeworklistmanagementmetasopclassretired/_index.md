@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Meta SOP Class General Purpose Worklist Management Meta SOP Class Retired.
 type: docs
 weight: 1680
-url: /aspose.medical.dicom/uid/generalpurposeworklistmanagementmetasopclassretired/
+url: /net/aspose.medical.dicom/uid/generalpurposeworklistmanagementmetasopclassretired/
 ---
 
 ## Uid.GeneralPurposeWorklistManagementMetaSOPClassRetired field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040E011 VRUI VM1 Retrieve Location UID.
 type: docs
 weight: 39200
-url: /aspose.medical.dicom.tags/tag/retrievelocationuid/
+url: /net/aspose.medical.dicom.tags/tag/retrievelocationuid/
 ---
 
 ## Tag.RetrieveLocationUID field

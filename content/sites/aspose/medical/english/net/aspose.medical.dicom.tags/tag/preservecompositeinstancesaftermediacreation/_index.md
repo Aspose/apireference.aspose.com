@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 2200000A VRCS VM1 Preserve Composite Instances After Media Creation.
 type: docs
 weight: 32690
-url: /aspose.medical.dicom.tags/tag/preservecompositeinstancesaftermediacreation/
+url: /net/aspose.medical.dicom.tags/tag/preservecompositeinstancesaftermediacreation/
 ---
 
 ## Tag.PreserveCompositeInstancesAfterMediaCreation field

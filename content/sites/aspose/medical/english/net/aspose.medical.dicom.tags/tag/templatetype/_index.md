@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0242 VRSH VM1 Template Type.
 type: docs
 weight: 47580
-url: /aspose.medical.dicom.tags/tag/templatetype/
+url: /net/aspose.medical.dicom.tags/tag/templatetype/
 ---
 
 ## Tag.TemplateType field

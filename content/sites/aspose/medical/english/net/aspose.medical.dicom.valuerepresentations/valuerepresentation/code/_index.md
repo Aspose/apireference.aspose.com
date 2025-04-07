@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Code used to represent VR. Read-only String.
 type: docs
 weight: 380
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/code/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/code/
 ---
 
 ## ValueRepresentation.Code property

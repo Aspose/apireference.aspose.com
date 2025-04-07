@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221465 VRSQ VM1 Registration to Localizer Sequence.
 type: docs
 weight: 38160
-url: /aspose.medical.dicom.tags/tag/registrationtolocalizersequence/
+url: /net/aspose.medical.dicom.tags/tag/registrationtolocalizersequence/
 ---
 
 ## Tag.RegistrationToLocalizerSequence field

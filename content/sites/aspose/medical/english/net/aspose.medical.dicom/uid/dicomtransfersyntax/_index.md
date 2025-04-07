@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: LDAP OID dicomTransferSyntax.
 type: docs
 weight: 1090
-url: /aspose.medical.dicom/uid/dicomtransfersyntax/
+url: /net/aspose.medical.dicom/uid/dicomtransfersyntax/
 ---
 
 ## Uid.DicomTransferSyntax field

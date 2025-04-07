@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700101 VRDS VM2 Presentation Pixel Spacing.
 type: docs
 weight: 32620
-url: /aspose.medical.dicom.tags/tag/presentationpixelspacing/
+url: /net/aspose.medical.dicom.tags/tag/presentationpixelspacing/
 ---
 
 ## Tag.PresentationPixelSpacing field

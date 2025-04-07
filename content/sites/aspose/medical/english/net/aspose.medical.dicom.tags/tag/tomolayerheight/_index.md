@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181460 VRDS VM1 Tomo Layer Height.
 type: docs
 weight: 48710
-url: /aspose.medical.dicom.tags/tag/tomolayerheight/
+url: /net/aspose.medical.dicom.tags/tag/tomolayerheight/
 ---
 
 ## Tag.TomoLayerHeight field

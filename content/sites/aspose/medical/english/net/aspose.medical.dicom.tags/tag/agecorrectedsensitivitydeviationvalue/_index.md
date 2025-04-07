@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240092 VRFL VM1 Age Corrected Sensitivity Deviation Value.
 type: docs
 weight: 1060
-url: /aspose.medical.dicom.tags/tag/agecorrectedsensitivitydeviationvalue/
+url: /net/aspose.medical.dicom.tags/tag/agecorrectedsensitivitydeviationvalue/
 ---
 
 ## Tag.AgeCorrectedSensitivityDeviationValue field

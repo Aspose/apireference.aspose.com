@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720212 VRUS VM2-n Display Set Scrolling Group.
 type: docs
 weight: 12210
-url: /aspose.medical.dicom.tags/tag/displaysetscrollinggroup/
+url: /net/aspose.medical.dicom.tags/tag/displaysetscrollinggroup/
 ---
 
 ## Tag.DisplaySetScrollingGroup field

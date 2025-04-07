@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185021 VRLO VM1 Postprocessing Function RETIRED.
 type: docs
 weight: 32190
-url: /aspose.medical.dicom.tags/tag/postprocessingfunctionretired/
+url: /net/aspose.medical.dicom.tags/tag/postprocessingfunctionretired/
 ---
 
 ## Tag.PostprocessingFunctionRETIRED field

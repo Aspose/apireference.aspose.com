@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460146 VRFD VM1 Sphere Power.
 type: docs
 weight: 45200
-url: /aspose.medical.dicom.tags/tag/spherepower/
+url: /net/aspose.medical.dicom.tags/tag/spherepower/
 ---
 
 ## Tag.SpherePower field

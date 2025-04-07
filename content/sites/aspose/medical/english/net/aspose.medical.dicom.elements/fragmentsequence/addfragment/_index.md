@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Adds the given fragment to the collection of fragments.
 type: docs
 weight: 70
-url: /aspose.medical.dicom.elements/fragmentsequence/addfragment/
+url: /net/aspose.medical.dicom.elements/fragmentsequence/addfragment/
 ---
 
 ## FragmentSequence.AddFragment method

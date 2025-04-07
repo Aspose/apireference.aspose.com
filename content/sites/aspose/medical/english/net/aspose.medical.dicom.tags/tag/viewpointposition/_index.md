@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701603 VRFD VM3 Viewpoint Position.
 type: docs
 weight: 51250
-url: /aspose.medical.dicom.tags/tag/viewpointposition/
+url: /net/aspose.medical.dicom.tags/tag/viewpointposition/
 ---
 
 ## Tag.ViewpointPosition field

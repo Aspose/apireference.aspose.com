@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701904 VRUI VM1 Referenced Content Item.
 type: docs
 weight: 36170
-url: /aspose.medical.dicom.tags/tag/referencedcontentitem/
+url: /net/aspose.medical.dicom.tags/tag/referencedcontentitem/
 ---
 
 ## Tag.ReferencedContentItem field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Person Name PN.
 type: docs
 weight: 210
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/personname/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/personname/
 ---
 
 ## ValueRepresentation.PersonName field

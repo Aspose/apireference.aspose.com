@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080136 VRIS VM1 Specified Number of Pulses.
 type: docs
 weight: 44900
-url: /aspose.medical.dicom.tags/tag/specifiednumberofpulses/
+url: /net/aspose.medical.dicom.tags/tag/specifiednumberofpulses/
 ---
 
 ## Tag.SpecifiedNumberOfPulses field

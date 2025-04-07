@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404071 VRSQ VM1 DICOM Storage Sequence.
 type: docs
 weight: 11570
-url: /aspose.medical.dicom.tags/tag/dicomstoragesequence/
+url: /net/aspose.medical.dicom.tags/tag/dicomstoragesequence/
 ---
 
 ## Tag.DICOMStorageSequence field

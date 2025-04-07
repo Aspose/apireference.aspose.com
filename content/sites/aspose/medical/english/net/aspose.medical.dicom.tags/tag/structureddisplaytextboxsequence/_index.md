@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720424 VRSQ VM1 Structured Display Text Box Sequence.
 type: docs
 weight: 45840
-url: /aspose.medical.dicom.tags/tag/structureddisplaytextboxsequence/
+url: /net/aspose.medical.dicom.tags/tag/structureddisplaytextboxsequence/
 ---
 
 ## Tag.StructuredDisplayTextBoxSequence field

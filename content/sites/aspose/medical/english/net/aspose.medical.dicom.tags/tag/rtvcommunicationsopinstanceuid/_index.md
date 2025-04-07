@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020033 VRUI VM1 RTV Communication SOP Instance UID.
 type: docs
 weight: 40770
-url: /aspose.medical.dicom.tags/tag/rtvcommunicationsopinstanceuid/
+url: /net/aspose.medical.dicom.tags/tag/rtvcommunicationsopinstanceuid/
 ---
 
 ## Tag.RTVCommunicationSOPInstanceUID field

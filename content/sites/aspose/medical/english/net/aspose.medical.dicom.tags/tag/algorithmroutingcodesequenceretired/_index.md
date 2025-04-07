@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101064 VRSQ VM1 Algorithm Routing Code Sequence RETIRED.
 type: docs
 weight: 1190
-url: /aspose.medical.dicom.tags/tag/algorithmroutingcodesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/algorithmroutingcodesequenceretired/
 ---
 
 ## Tag.AlgorithmRoutingCodeSequenceRETIRED field

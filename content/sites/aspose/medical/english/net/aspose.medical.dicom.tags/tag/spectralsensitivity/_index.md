@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160017 VRUT VM1 Spectral Sensitivity.
 type: docs
 weight: 45120
-url: /aspose.medical.dicom.tags/tag/spectralsensitivity/
+url: /net/aspose.medical.dicom.tags/tag/spectralsensitivity/
 ---
 
 ## Tag.SpectralSensitivity field

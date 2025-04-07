@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A001A VRDS VM1 Sampling Frequency.
 type: docs
 weight: 40930
-url: /aspose.medical.dicom.tags/tag/samplingfrequency/
+url: /net/aspose.medical.dicom.tags/tag/samplingfrequency/
 ---
 
 ## Tag.SamplingFrequency field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips Volume Storage.
 type: docs
 weight: 3580
-url: /aspose.medical.dicom/uid/privatephilipsvolumestorage/
+url: /net/aspose.medical.dicom/uid/privatephilipsvolumestorage/
 ---
 
 ## Uid.PrivatePhilipsVolumeStorage field

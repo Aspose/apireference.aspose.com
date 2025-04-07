@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Robotic Radiation Record Storage.
 type: docs
 weight: 3990
-url: /aspose.medical.dicom/uid/roboticradiationrecordstorage/
+url: /net/aspose.medical.dicom/uid/roboticradiationrecordstorage/
 ---
 
 ## Uid.RoboticRadiationRecordStorage field

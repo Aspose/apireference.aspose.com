@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240068 VRFL VM1 Localized Deviation From Normal.
 type: docs
 weight: 22900
-url: /aspose.medical.dicom.tags/tag/localizeddeviationfromnormal/
+url: /net/aspose.medical.dicom.tags/tag/localizeddeviationfromnormal/
 ---
 
 ## Tag.LocalizedDeviationFromNormal field

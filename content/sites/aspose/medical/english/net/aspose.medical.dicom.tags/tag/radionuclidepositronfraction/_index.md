@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181076 VRDS VM1 Radionuclide Positron Fraction.
 type: docs
 weight: 34550
-url: /aspose.medical.dicom.tags/tag/radionuclidepositronfraction/
+url: /net/aspose.medical.dicom.tags/tag/radionuclidepositronfraction/
 ---
 
 ## Tag.RadionuclidePositronFraction field

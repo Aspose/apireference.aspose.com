@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Gets or sets the private information associated with PrivateInformationCreatorUidaspose.medical.dicom/metainformation/privateinformationcreatoruid. Required if PrivateInformationCreatorUidaspose.medical.dicom/metainformation/privateinformationcreatoruid is defined. Read-only IReadOnlyCollection of Byte.
 type: docs
 weight: 60
-url: /aspose.medical.dicom/metainformation/privateinformation/
+url: /net/aspose.medical.dicom/metainformation/privateinformation/
 ---
 
 ## MetaInformation.PrivateInformation property

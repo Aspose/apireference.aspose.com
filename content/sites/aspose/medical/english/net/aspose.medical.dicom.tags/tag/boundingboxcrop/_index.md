@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701303 VRFD VM6 Bounding Box Crop.
 type: docs
 weight: 4350
-url: /aspose.medical.dicom.tags/tag/boundingboxcrop/
+url: /net/aspose.medical.dicom.tags/tag/boundingboxcrop/
 ---
 
 ## Tag.BoundingBoxCrop field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189329 VRSQ VM1 CT Image Frame Type Sequence.
 type: docs
 weight: 9260
-url: /aspose.medical.dicom.tags/tag/ctimageframetypesequence/
+url: /net/aspose.medical.dicom.tags/tag/ctimageframetypesequence/
 ---
 
 ## Tag.CTImageFrameTypeSequence field

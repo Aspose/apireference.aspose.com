@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082134 VRFD VM1 Event Time Offset.
 type: docs
 weight: 14130
-url: /aspose.medical.dicom.tags/tag/eventtimeoffset/
+url: /net/aspose.medical.dicom.tags/tag/eventtimeoffset/
 ---
 
 ## Tag.EventTimeOffset field

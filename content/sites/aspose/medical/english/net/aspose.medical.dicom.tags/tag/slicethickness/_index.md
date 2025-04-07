@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180050 VRDS VM1 Slice Thickness.
 type: docs
 weight: 43620
-url: /aspose.medical.dicom.tags/tag/slicethickness/
+url: /net/aspose.medical.dicom.tags/tag/slicethickness/
 ---
 
 ## Tag.SliceThickness field

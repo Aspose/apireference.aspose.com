@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221646 VRFL VM1-n B-scan Cycle Time Vector.
 type: docs
 weight: 4700
-url: /aspose.medical.dicom.tags/tag/bscancycletimevector/
+url: /net/aspose.medical.dicom.tags/tag/bscancycletimevector/
 ---
 
 ## Tag.BscanCycleTimeVector field

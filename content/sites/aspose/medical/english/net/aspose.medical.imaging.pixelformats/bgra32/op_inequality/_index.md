@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Compares two Bgra32aspose.medical.imaging.pixelformats/bgra32 objects for equality.
 type: docs
 weight: 180
-url: /aspose.medical.imaging.pixelformats/bgra32/op_inequality/
+url: /net/aspose.medical.imaging.pixelformats/bgra32/op_inequality/
 ---
 
 ## Bgra32 Inequality operator

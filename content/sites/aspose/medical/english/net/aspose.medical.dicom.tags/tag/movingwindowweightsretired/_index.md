@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014604E VRDS VM1-n Moving Window Weights RETIRED.
 type: docs
 weight: 25050
-url: /aspose.medical.dicom.tags/tag/movingwindowweightsretired/
+url: /net/aspose.medical.dicom.tags/tag/movingwindowweightsretired/
 ---
 
 ## Tag.MovingWindowWeightsRETIRED field

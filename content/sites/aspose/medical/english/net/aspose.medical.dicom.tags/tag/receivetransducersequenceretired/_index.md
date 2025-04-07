@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144011 VRSQ VM1 Receive Transducer Sequence RETIRED.
 type: docs
 weight: 35340
-url: /aspose.medical.dicom.tags/tag/receivetransducersequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/receivetransducersequenceretired/
 ---
 
 ## Tag.ReceiveTransducerSequenceRETIRED field

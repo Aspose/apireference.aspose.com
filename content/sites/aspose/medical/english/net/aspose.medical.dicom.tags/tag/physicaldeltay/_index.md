@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018602E VRFD VM1 Physical Delta Y.
 type: docs
 weight: 31230
-url: /aspose.medical.dicom.tags/tag/physicaldeltay/
+url: /net/aspose.medical.dicom.tags/tag/physicaldeltay/
 ---
 
 ## Tag.PhysicalDeltaY field

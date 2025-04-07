@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101058 VRSH VM1 Carrier ID RETIRED.
 type: docs
 weight: 5150
-url: /aspose.medical.dicom.tags/tag/carrieridretired/
+url: /net/aspose.medical.dicom.tags/tag/carrieridretired/
 ---
 
 ## Tag.CarrierIDRETIRED field

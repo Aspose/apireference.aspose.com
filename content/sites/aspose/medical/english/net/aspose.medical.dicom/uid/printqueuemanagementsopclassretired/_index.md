@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Print Queue Management SOP Class Retired.
 type: docs
 weight: 3120
-url: /aspose.medical.dicom/uid/printqueuemanagementsopclassretired/
+url: /net/aspose.medical.dicom/uid/printqueuemanagementsopclassretired/
 ---
 
 ## Uid.PrintQueueManagementSOPClassRetired field

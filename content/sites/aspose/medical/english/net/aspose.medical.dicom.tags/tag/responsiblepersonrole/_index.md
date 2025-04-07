@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102298 VRCS VM1 Responsible Person Role.
 type: docs
 weight: 39080
-url: /aspose.medical.dicom.tags/tag/responsiblepersonrole/
+url: /net/aspose.medical.dicom.tags/tag/responsiblepersonrole/
 ---
 
 ## Tag.ResponsiblePersonRole field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A030F VRSH VM1 Snout ID.
 type: docs
 weight: 43710
-url: /aspose.medical.dicom.tags/tag/snoutid/
+url: /net/aspose.medical.dicom.tags/tag/snoutid/
 ---
 
 ## Tag.SnoutID field

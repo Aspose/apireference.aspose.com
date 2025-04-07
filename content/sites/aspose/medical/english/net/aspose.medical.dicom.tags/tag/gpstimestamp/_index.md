@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160077 VRDT VM1 GPS Time Stamp.
 type: docs
 weight: 17690
-url: /aspose.medical.dicom.tags/tag/gpstimestamp/
+url: /net/aspose.medical.dicom.tags/tag/gpstimestamp/
 ---
 
 ## Tag.GPSTimeStamp field

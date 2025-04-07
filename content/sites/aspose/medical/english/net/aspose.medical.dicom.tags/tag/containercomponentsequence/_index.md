@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400520 VRSQ VM1 Container Component Sequence.
 type: docs
 weight: 7770
-url: /aspose.medical.dicom.tags/tag/containercomponentsequence/
+url: /net/aspose.medical.dicom.tags/tag/containercomponentsequence/
 ---
 
 ## Tag.ContainerComponentSequence field

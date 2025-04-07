@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181404 VRUS VM1 Exposures on Plate.
 type: docs
 weight: 14630
-url: /aspose.medical.dicom.tags/tag/exposuresonplate/
+url: /net/aspose.medical.dicom.tags/tag/exposuresonplate/
 ---
 
 ## Tag.ExposuresOnPlate field

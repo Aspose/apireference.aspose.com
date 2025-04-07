@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20400020 VRSQ VM1 Overlay Pixel Data Sequence RETIRED.
 type: docs
 weight: 29130
-url: /aspose.medical.dicom.tags/tag/overlaypixeldatasequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaypixeldatasequenceretired/
 ---
 
 ## Tag.OverlayPixelDataSequenceRETIRED field

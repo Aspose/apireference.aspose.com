@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014601F VRCS VM1 Thermal Camera Calibration Type RETIRED.
 type: docs
 weight: 47920
-url: /aspose.medical.dicom.tags/tag/thermalcameracalibrationtyperetired/
+url: /net/aspose.medical.dicom.tags/tag/thermalcameracalibrationtyperetired/
 ---
 
 ## Tag.ThermalCameraCalibrationTypeRETIRED field

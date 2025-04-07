@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0066001E VRUL VM1 Number of Vectors.
 type: docs
 weight: 27070
-url: /aspose.medical.dicom.tags/tag/numberofvectors/
+url: /net/aspose.medical.dicom.tags/tag/numberofvectors/
 ---
 
 ## Tag.NumberOfVectors field

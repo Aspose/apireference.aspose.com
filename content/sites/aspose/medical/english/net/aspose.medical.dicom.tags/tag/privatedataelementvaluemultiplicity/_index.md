@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080309 VRUL VM1-3 Private Data Element Value Multiplicity.
 type: docs
 weight: 33140
-url: /aspose.medical.dicom.tags/tag/privatedataelementvaluemultiplicity/
+url: /net/aspose.medical.dicom.tags/tag/privatedataelementvaluemultiplicity/
 ---
 
 ## Tag.PrivateDataElementValueMultiplicity field

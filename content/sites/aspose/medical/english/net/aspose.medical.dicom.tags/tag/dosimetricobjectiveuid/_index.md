@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010006E VRUI VM1 Dosimetric Objective UID.
 type: docs
 weight: 12900
-url: /aspose.medical.dicom.tags/tag/dosimetricobjectiveuid/
+url: /net/aspose.medical.dicom.tags/tag/dosimetricobjectiveuid/
 ---
 
 ## Tag.DosimetricObjectiveUID field

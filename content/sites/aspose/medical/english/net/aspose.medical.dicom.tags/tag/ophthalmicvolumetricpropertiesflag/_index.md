@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221622 VRCS VM1 Ophthalmic Volumetric Properties Flag.
 type: docs
 weight: 28230
-url: /aspose.medical.dicom.tags/tag/ophthalmicvolumetricpropertiesflag/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicvolumetricpropertiesflag/
 ---
 
 ## Tag.OphthalmicVolumetricPropertiesFlag field

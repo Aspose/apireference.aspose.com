@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0120 VRDS VM1 Beam Limiting Device Angle.
 type: docs
 weight: 3460
-url: /aspose.medical.dicom.tags/tag/beamlimitingdeviceangle/
+url: /net/aspose.medical.dicom.tags/tag/beamlimitingdeviceangle/
 ---
 
 ## Tag.BeamLimitingDeviceAngle field

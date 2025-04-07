@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221472 VRSQ VM1 Relevant OPT Attributes Sequence.
 type: docs
 weight: 38380
-url: /aspose.medical.dicom.tags/tag/relevantoptattributessequence/
+url: /net/aspose.medical.dicom.tags/tag/relevantoptattributessequence/
 ---
 
 ## Tag.RelevantOPTAttributesSequence field

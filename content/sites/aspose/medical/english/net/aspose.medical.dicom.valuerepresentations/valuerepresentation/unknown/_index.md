@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Unknown UN.
 type: docs
 weight: 300
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/unknown/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/unknown/
 ---
 
 ## ValueRepresentation.Unknown field

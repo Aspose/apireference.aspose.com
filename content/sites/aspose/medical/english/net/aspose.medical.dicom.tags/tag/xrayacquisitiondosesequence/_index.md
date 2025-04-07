@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189542 VRSQ VM1 X-Ray Acquisition Dose Sequence.
 type: docs
 weight: 52710
-url: /aspose.medical.dicom.tags/tag/xrayacquisitiondosesequence/
+url: /net/aspose.medical.dicom.tags/tag/xrayacquisitiondosesequence/
 ---
 
 ## Tag.XRayAcquisitionDoseSequence field

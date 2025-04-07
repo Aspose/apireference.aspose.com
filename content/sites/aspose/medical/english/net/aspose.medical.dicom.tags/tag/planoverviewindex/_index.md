@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0117 VRUS VM1 Plan Overview Index.
 type: docs
 weight: 31860
-url: /aspose.medical.dicom.tags/tag/planoverviewindex/
+url: /net/aspose.medical.dicom.tags/tag/planoverviewindex/
 ---
 
 ## Tag.PlanOverviewIndex field

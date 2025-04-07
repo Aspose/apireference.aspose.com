@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189405 VRSQ VM1 Positioner Position Sequence.
 type: docs
 weight: 32050
-url: /aspose.medical.dicom.tags/tag/positionerpositionsequence/
+url: /net/aspose.medical.dicom.tags/tag/positionerpositionsequence/
 ---
 
 ## Tag.PositionerPositionSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189462 VRSQ VM1 Isocenter Reference System Sequence.
 type: docs
 weight: 21610
-url: /aspose.medical.dicom.tags/tag/isocenterreferencesystemsequence/
+url: /net/aspose.medical.dicom.tags/tag/isocenterreferencesystemsequence/
 ---
 
 ## Tag.IsocenterReferenceSystemSequence field

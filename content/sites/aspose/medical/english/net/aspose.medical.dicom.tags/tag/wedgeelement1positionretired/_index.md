@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145109 VRCS VM1 Wedge Element 1 Position RETIRED.
 type: docs
 weight: 52130
-url: /aspose.medical.dicom.tags/tag/wedgeelement1positionretired/
+url: /net/aspose.medical.dicom.tags/tag/wedgeelement1positionretired/
 ---
 
 ## Tag.WedgeElement1PositionRETIRED field

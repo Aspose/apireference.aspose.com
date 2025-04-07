@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00DE VRDS VM1 Effective Wedge Angle.
 type: docs
 weight: 13350
-url: /aspose.medical.dicom.tags/tag/effectivewedgeangle/
+url: /net/aspose.medical.dicom.tags/tag/effectivewedgeangle/
 ---
 
 ## Tag.EffectiveWedgeAngle field

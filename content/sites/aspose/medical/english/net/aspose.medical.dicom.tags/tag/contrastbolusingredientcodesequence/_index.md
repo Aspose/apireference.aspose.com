@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189338 VRSQ VM1 Contrast/Bolus Ingredient Code Sequence.
 type: docs
 weight: 8280
-url: /aspose.medical.dicom.tags/tag/contrastbolusingredientcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolusingredientcodesequence/
 ---
 
 ## Tag.ContrastBolusIngredientCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21300010 VRSQ VM1 Print Management Capabilities Sequence RETIRED.
 type: docs
 weight: 32960
-url: /aspose.medical.dicom.tags/tag/printmanagementcapabilitiessequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/printmanagementcapabilitiessequenceretired/
 ---
 
 ## Tag.PrintManagementCapabilitiesSequenceRETIRED field

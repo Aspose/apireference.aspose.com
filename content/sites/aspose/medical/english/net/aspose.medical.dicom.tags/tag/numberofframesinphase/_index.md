@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540033 VRUS VM1 Number of Frames in Phase.
 type: docs
 weight: 26400
-url: /aspose.medical.dicom.tags/tag/numberofframesinphase/
+url: /net/aspose.medical.dicom.tags/tag/numberofframesinphase/
 ---
 
 ## Tag.NumberOfFramesInPhase field

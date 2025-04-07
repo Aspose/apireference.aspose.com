@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00089410 VRSQ VM1 Referenced Other Plane Sequence.
 type: docs
 weight: 36790
-url: /aspose.medical.dicom.tags/tag/referencedotherplanesequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedotherplanesequence/
 ---
 
 ## Tag.ReferencedOtherPlaneSequence field

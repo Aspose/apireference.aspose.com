@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146008 VRDS VM1 Source Horizontal Pitch RETIRED.
 type: docs
 weight: 44160
-url: /aspose.medical.dicom.tags/tag/sourcehorizontalpitchretired/
+url: /net/aspose.medical.dicom.tags/tag/sourcehorizontalpitchretired/
 ---
 
 ## Tag.SourceHorizontalPitchRETIRED field

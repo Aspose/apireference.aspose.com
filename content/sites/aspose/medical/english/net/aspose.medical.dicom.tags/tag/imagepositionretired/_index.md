@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200030 VRDS VM3 Image Position RETIRED.
 type: docs
 weight: 19370
-url: /aspose.medical.dicom.tags/tag/imagepositionretired/
+url: /net/aspose.medical.dicom.tags/tag/imagepositionretired/
 ---
 
 ## Tag.ImagePositionRETIRED field

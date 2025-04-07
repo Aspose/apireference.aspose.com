@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820034 VRSQ VM1 Constraint Value Sequence.
 type: docs
 weight: 7630
-url: /aspose.medical.dicom.tags/tag/constraintvaluesequence/
+url: /net/aspose.medical.dicom.tags/tag/constraintvaluesequence/
 ---
 
 ## Tag.ConstraintValueSequence field

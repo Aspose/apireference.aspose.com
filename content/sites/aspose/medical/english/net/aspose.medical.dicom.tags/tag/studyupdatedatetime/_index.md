@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008041F VRDT VM1 Study Update DateTime.
 type: docs
 weight: 46100
-url: /aspose.medical.dicom.tags/tag/studyupdatedatetime/
+url: /net/aspose.medical.dicom.tags/tag/studyupdatedatetime/
 ---
 
 ## Tag.StudyUpdateDateTime field

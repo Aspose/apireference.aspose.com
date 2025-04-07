@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143074 VRLO VM1 Filter Material Used in Gain Calibration RETIRED.
 type: docs
 weight: 15420
-url: /aspose.medical.dicom.tags/tag/filtermaterialusedingaincalibrationretired/
+url: /net/aspose.medical.dicom.tags/tag/filtermaterialusedingaincalibrationretired/
 ---
 
 ## Tag.FilterMaterialUsedInGainCalibrationRETIRED field

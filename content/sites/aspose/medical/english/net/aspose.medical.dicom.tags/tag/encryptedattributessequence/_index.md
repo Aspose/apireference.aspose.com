@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000500 VRSQ VM1 Encrypted Attributes Sequence.
 type: docs
 weight: 13510
-url: /aspose.medical.dicom.tags/tag/encryptedattributessequence/
+url: /net/aspose.medical.dicom.tags/tag/encryptedattributessequence/
 ---
 
 ## Tag.EncryptedAttributesSequence field

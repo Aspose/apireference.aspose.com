@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006864C0 VRFD VM3 3D Mating Point.
 type: docs
 weight: 48170
-url: /aspose.medical.dicom.tags/tag/threedmatingpoint/
+url: /net/aspose.medical.dicom.tags/tag/threedmatingpoint/
 ---
 
 ## Tag.ThreeDMatingPoint field

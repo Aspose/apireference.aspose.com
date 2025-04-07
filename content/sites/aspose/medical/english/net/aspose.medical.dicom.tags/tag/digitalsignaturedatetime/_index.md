@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000105 VRDT VM1 Digital Signature DateTime.
 type: docs
 weight: 11780
-url: /aspose.medical.dicom.tags/tag/digitalsignaturedatetime/
+url: /net/aspose.medical.dicom.tags/tag/digitalsignaturedatetime/
 ---
 
 ## Tag.DigitalSignatureDateTime field

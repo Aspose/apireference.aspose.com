@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0248 VRFL VM1 Absolute Channel Display Scale.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.tags/tag/absolutechanneldisplayscale/
+url: /net/aspose.medical.dicom.tags/tag/absolutechanneldisplayscale/
 ---
 
 ## Tag.AbsoluteChannelDisplayScale field

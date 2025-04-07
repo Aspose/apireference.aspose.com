@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181086 VRIS VM1 Skip Beats.
 type: docs
 weight: 43540
-url: /aspose.medical.dicom.tags/tag/skipbeats/
+url: /net/aspose.medical.dicom.tags/tag/skipbeats/
 ---
 
 ## Tag.SkipBeats field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181151 VRIS VM1 X-Ray Tube Current.
 type: docs
 weight: 52880
-url: /aspose.medical.dicom.tags/tag/xraytubecurrent/
+url: /net/aspose.medical.dicom.tags/tag/xraytubecurrent/
 ---
 
 ## Tag.XRayTubeCurrent field

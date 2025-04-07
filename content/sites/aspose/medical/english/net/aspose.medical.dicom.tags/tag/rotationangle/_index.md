@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700230 VRFD VM1 Rotation Angle.
 type: docs
 weight: 39620
-url: /aspose.medical.dicom.tags/tag/rotationangle/
+url: /net/aspose.medical.dicom.tags/tag/rotationangle/
 ---
 
 ## Tag.RotationAngle field

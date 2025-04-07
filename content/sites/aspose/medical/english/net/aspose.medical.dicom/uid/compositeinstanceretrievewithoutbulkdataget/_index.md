@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Composite Instance Retrieve Without Bulk Data - GET.
 type: docs
 weight: 400
-url: /aspose.medical.dicom/uid/compositeinstanceretrievewithoutbulkdataget/
+url: /net/aspose.medical.dicom/uid/compositeinstanceretrievewithoutbulkdataget/
 ---
 
 ## Uid.CompositeInstanceRetrieveWithoutBulkDataGET field

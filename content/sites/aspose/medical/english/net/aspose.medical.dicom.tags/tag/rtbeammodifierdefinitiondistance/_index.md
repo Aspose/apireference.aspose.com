@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0688 VRFD VM1 RT Beam Modifier Definition Distance.
 type: docs
 weight: 40030
-url: /aspose.medical.dicom.tags/tag/rtbeammodifierdefinitiondistance/
+url: /net/aspose.medical.dicom.tags/tag/rtbeammodifierdefinitiondistance/
 ---
 
 ## Tag.RTBeamModifierDefinitionDistance field

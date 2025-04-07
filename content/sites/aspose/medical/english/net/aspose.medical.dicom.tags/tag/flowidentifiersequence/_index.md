@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00340001 VRSQ VM1 Flow Identifier Sequence.
 type: docs
 weight: 16030
-url: /aspose.medical.dicom.tags/tag/flowidentifiersequence/
+url: /net/aspose.medical.dicom.tags/tag/flowidentifiersequence/
 ---
 
 ## Tag.FlowIdentifierSequence field

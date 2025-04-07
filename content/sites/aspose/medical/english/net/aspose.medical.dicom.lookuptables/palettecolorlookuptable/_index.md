@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Palette color LUT used to map grayscale images using custom PALETTE COLOR table. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_c.7.9.html.
 type: docs
 weight: 820
-url: /aspose.medical.dicom.lookuptables/palettecolorlookuptable/
+url: /net/aspose.medical.dicom.lookuptables/palettecolorlookuptable/
 ---
 
 ## PaletteColorLookUpTable class

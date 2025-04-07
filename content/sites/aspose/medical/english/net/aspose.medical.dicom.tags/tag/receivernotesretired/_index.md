@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014400C VRLT VM1 Receiver Notes RETIRED.
 type: docs
 weight: 35310
-url: /aspose.medical.dicom.tags/tag/receivernotesretired/
+url: /net/aspose.medical.dicom.tags/tag/receivernotesretired/
 ---
 
 ## Tag.ReceiverNotesRETIRED field

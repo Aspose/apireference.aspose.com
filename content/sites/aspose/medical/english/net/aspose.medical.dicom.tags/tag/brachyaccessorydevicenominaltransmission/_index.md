@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A026C VRDS VM1 Brachy Accessory Device Nominal Transmission.
 type: docs
 weight: 4430
-url: /aspose.medical.dicom.tags/tag/brachyaccessorydevicenominaltransmission/
+url: /net/aspose.medical.dicom.tags/tag/brachyaccessorydevicenominaltransmission/
 ---
 
 ## Tag.BrachyAccessoryDeviceNominalTransmission field

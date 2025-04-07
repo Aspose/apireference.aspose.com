@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189019 VRFD VM1 Tag Angle First Axis.
 type: docs
 weight: 47250
-url: /aspose.medical.dicom.tags/tag/taganglefirstaxis/
+url: /net/aspose.medical.dicom.tags/tag/taganglefirstaxis/
 ---
 
 ## Tag.TagAngleFirstAxis field

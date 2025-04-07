@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00880140 VRUI VM1 Storage Media File-set UID.
 type: docs
 weight: 45650
-url: /aspose.medical.dicom.tags/tag/storagemediafilesetuid/
+url: /net/aspose.medical.dicom.tags/tag/storagemediafilesetuid/
 ---
 
 ## Tag.StorageMediaFileSetUID field

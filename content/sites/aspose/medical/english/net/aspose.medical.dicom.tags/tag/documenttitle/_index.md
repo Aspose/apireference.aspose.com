@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00420010 VRST VM1 Document Title.
 type: docs
 weight: 12560
-url: /aspose.medical.dicom.tags/tag/documenttitle/
+url: /net/aspose.medical.dicom.tags/tag/documenttitle/
 ---
 
 ## Tag.DocumentTitle field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Measurement unit of the age. Read / Write Unitaspose.medical.dicom.elements/age.unit.
 type: docs
 weight: 40
-url: /aspose.medical.dicom.elements/age/units/
+url: /net/aspose.medical.dicom.elements/age/units/
 ---
 
 ## Age.Units property

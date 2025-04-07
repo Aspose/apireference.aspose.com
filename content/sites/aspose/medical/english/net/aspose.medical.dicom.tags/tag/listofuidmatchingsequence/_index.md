@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080411 VRSQ VM1 List of UID Matching Sequence.
 type: docs
 weight: 22880
-url: /aspose.medical.dicom.tags/tag/listofuidmatchingsequence/
+url: /net/aspose.medical.dicom.tags/tag/listofuidmatchingsequence/
 ---
 
 ## Tag.ListOfUIDMatchingSequence field

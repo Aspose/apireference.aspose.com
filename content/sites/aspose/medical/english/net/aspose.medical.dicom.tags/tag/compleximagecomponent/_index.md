@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00089208 VRCS VM1 Complex Image Component.
 type: docs
 weight: 6890
-url: /aspose.medical.dicom.tags/tag/compleximagecomponent/
+url: /net/aspose.medical.dicom.tags/tag/compleximagecomponent/
 ---
 
 ## Tag.ComplexImageComponent field

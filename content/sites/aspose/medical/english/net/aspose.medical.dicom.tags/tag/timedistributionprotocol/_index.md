@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181802 VRCS VM1 Time Distribution Protocol.
 type: docs
 weight: 48350
-url: /aspose.medical.dicom.tags/tag/timedistributionprotocol/
+url: /net/aspose.medical.dicom.tags/tag/timedistributionprotocol/
 ---
 
 ## Tag.TimeDistributionProtocol field

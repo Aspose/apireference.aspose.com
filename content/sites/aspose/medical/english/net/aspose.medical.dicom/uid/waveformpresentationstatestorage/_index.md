@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Waveform Presentation State Storage.
 type: docs
 weight: 5100
-url: /aspose.medical.dicom/uid/waveformpresentationstatestorage/
+url: /net/aspose.medical.dicom/uid/waveformpresentationstatestorage/
 ---
 
 ## Uid.WaveformPresentationStateStorage field

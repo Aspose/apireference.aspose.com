@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022001B VRSQ VM1 Refractive State Sequence.
 type: docs
 weight: 38000
-url: /aspose.medical.dicom.tags/tag/refractivestatesequence/
+url: /net/aspose.medical.dicom.tags/tag/refractivestatesequence/
 ---
 
 ## Tag.RefractiveStateSequence field

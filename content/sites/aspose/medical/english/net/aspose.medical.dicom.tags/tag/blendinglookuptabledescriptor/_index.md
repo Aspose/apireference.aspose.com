@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281407 VRUS VM3 Blending Lookup Table Descriptor.
 type: docs
 weight: 3840
-url: /aspose.medical.dicom.tags/tag/blendinglookuptabledescriptor/
+url: /net/aspose.medical.dicom.tags/tag/blendinglookuptabledescriptor/
 ---
 
 ## Tag.BlendingLookupTableDescriptor field

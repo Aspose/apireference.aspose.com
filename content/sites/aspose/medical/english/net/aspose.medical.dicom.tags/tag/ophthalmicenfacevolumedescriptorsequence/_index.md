@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221627 VRSQ VM1 Ophthalmic En Face Volume Descriptor Sequence.
 type: docs
 weight: 28080
-url: /aspose.medical.dicom.tags/tag/ophthalmicenfacevolumedescriptorsequence/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicenfacevolumedescriptorsequence/
 ---
 
 ## Tag.OphthalmicEnFaceVolumeDescriptorSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21000010 VRSH VM1 Print Job ID RETIRED.
 type: docs
 weight: 32950
-url: /aspose.medical.dicom.tags/tag/printjobidretired/
+url: /net/aspose.medical.dicom.tags/tag/printjobidretired/
 ---
 
 ## Tag.PrintJobIDRETIRED field

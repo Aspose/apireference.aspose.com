@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100200 VRCS VM1 Quality Control Subject.
 type: docs
 weight: 34000
-url: /aspose.medical.dicom.tags/tag/qualitycontrolsubject/
+url: /net/aspose.medical.dicom.tags/tag/qualitycontrolsubject/
 ---
 
 ## Tag.QualityControlSubject field

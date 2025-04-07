@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Grayscale Planar MPR Volumetric Presentation State Storage.
 type: docs
 weight: 1750
-url: /aspose.medical.dicom/uid/grayscaleplanarmprvolumetricpresentationstatestorage/
+url: /net/aspose.medical.dicom/uid/grayscaleplanarmprvolumetricpresentationstatestorage/
 ---
 
 ## Uid.GrayscalePlanarMPRVolumetricPresentationStateStorage field

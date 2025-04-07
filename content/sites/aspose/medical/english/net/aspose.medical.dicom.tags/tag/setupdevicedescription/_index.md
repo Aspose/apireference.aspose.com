@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A01BA VRST VM1 Setup Device Description.
 type: docs
 weight: 42980
-url: /aspose.medical.dicom.tags/tag/setupdevicedescription/
+url: /net/aspose.medical.dicom.tags/tag/setupdevicedescription/
 ---
 
 ## Tag.SetupDeviceDescription field

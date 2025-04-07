@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020011 VRDS VM2 Image Plane Pixel Spacing.
 type: docs
 weight: 19350
-url: /aspose.medical.dicom.tags/tag/imageplanepixelspacing/
+url: /net/aspose.medical.dicom.tags/tag/imageplanepixelspacing/
 ---
 
 ## Tag.ImagePlanePixelSpacing field

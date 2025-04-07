@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: FFFEE000 VRNONE VM1 Item.
 type: docs
 weight: 21930
-url: /aspose.medical.dicom.tags/tag/item/
+url: /net/aspose.medical.dicom.tags/tag/item/
 ---
 
 ## Tag.Item field

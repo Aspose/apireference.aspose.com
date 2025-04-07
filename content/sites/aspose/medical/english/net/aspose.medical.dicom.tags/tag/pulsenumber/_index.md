@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080172 VRUS VM1 Pulse Number.
 type: docs
 weight: 33770
-url: /aspose.medical.dicom.tags/tag/pulsenumber/
+url: /net/aspose.medical.dicom.tags/tag/pulsenumber/
 ---
 
 ## Tag.PulseNumber field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660106 VRLO VM1 Track Set Label.
 type: docs
 weight: 49120
-url: /aspose.medical.dicom.tags/tag/tracksetlabel/
+url: /net/aspose.medical.dicom.tags/tag/tracksetlabel/
 ---
 
 ## Tag.TrackSetLabel field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C00E0 VRIS VM1 Referenced Block Number.
 type: docs
 weight: 36040
-url: /aspose.medical.dicom.tags/tag/referencedblocknumber/
+url: /net/aspose.medical.dicom.tags/tag/referencedblocknumber/
 ---
 
 ## Tag.ReferencedBlockNumber field

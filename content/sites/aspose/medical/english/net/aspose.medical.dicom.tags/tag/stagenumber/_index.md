@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082122 VRIS VM1 Stage Number.
 type: docs
 weight: 45270
-url: /aspose.medical.dicom.tags/tag/stagenumber/
+url: /net/aspose.medical.dicom.tags/tag/stagenumber/
 ---
 
 ## Tag.StageNumber field

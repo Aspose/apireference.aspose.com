@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020020 VRSH VM1 Radiation Machine Name.
 type: docs
 weight: 34380
-url: /aspose.medical.dicom.tags/tag/radiationmachinename/
+url: /net/aspose.medical.dicom.tags/tag/radiationmachinename/
 ---
 
 ## Tag.RadiationMachineName field

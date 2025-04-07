@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220011 VRFL VM1 Stereo Baseline Displacement.
 type: docs
 weight: 45510
-url: /aspose.medical.dicom.tags/tag/stereobaselinedisplacement/
+url: /net/aspose.medical.dicom.tags/tag/stereobaselinedisplacement/
 ---
 
 ## Tag.StereoBaselineDisplacement field

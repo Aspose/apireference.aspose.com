@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220019 VRSQ VM1 Lenses Code Sequence.
 type: docs
 weight: 22590
-url: /aspose.medical.dicom.tags/tag/lensescodesequence/
+url: /net/aspose.medical.dicom.tags/tag/lensescodesequence/
 ---
 
 ## Tag.LensesCodeSequence field

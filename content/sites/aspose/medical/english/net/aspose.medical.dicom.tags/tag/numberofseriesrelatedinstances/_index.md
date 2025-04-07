@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00201209 VRIS VM1 Number of Series Related Instances.
 type: docs
 weight: 26850
-url: /aspose.medical.dicom.tags/tag/numberofseriesrelatedinstances/
+url: /net/aspose.medical.dicom.tags/tag/numberofseriesrelatedinstances/
 ---
 
 ## Tag.NumberOfSeriesRelatedInstances field

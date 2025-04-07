@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010006A VRSQ VM1 Conceptual Volume Type Modifier Code Sequence.
 type: docs
 weight: 7430
-url: /aspose.medical.dicom.tags/tag/conceptualvolumetypemodifiercodesequence/
+url: /net/aspose.medical.dicom.tags/tag/conceptualvolumetypemodifiercodesequence/
 ---
 
 ## Tag.ConceptualVolumeTypeModifierCodeSequence field

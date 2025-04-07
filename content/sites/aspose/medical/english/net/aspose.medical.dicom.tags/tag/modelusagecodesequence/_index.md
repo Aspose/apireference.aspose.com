@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00687003 VRSQ VM1 Model Usage Code Sequence.
 type: docs
 weight: 24720
-url: /aspose.medical.dicom.tags/tag/modelusagecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/modelusagecodesequence/
 ---
 
 ## Tag.ModelUsageCodeSequence field

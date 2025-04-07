@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Mapping Resource DICOM Content Mapping Resource.
 type: docs
 weight: 780
-url: /aspose.medical.dicom/uid/dicomcontentmappingresource/
+url: /net/aspose.medical.dicom/uid/dicomcontentmappingresource/
 ---
 
 ## Uid.DICOMContentMappingResource field

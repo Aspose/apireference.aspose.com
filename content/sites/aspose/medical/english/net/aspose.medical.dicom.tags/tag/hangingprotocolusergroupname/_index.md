@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720010 VRLO VM1 Hanging Protocol User Group Name.
 type: docs
 weight: 18200
-url: /aspose.medical.dicom.tags/tag/hangingprotocolusergroupname/
+url: /net/aspose.medical.dicom.tags/tag/hangingprotocolusergroupname/
 ---
 
 ## Tag.HangingProtocolUserGroupName field

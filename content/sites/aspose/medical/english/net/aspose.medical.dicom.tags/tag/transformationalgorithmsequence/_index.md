@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221513 VRSQ VM1 Transformation Algorithm Sequence.
 type: docs
 weight: 49390
-url: /aspose.medical.dicom.tags/tag/transformationalgorithmsequence/
+url: /net/aspose.medical.dicom.tags/tag/transformationalgorithmsequence/
 ---
 
 ## Tag.TransformationAlgorithmSequence field

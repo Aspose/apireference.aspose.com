@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008040A VRCS VM1 Container File Type.
 type: docs
 weight: 7820
-url: /aspose.medical.dicom.tags/tag/containerfiletype/
+url: /net/aspose.medical.dicom.tags/tag/containerfiletype/
 ---
 
 ## Tag.ContainerFileType field

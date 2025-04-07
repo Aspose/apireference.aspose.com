@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A024 VRTM VM1 Findings Group Recording Time Trial RETIRED.
 type: docs
 weight: 15520
-url: /aspose.medical.dicom.tags/tag/findingsgrouprecordingtimetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/findingsgrouprecordingtimetrialretired/
 ---
 
 ## Tag.FindingsGroupRecordingTimeTrialRETIRED field

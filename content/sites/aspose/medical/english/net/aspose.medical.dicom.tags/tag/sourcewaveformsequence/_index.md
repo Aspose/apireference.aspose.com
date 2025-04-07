@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A020A VRSQ VM1 Source Waveform Sequence.
 type: docs
 weight: 44680
-url: /aspose.medical.dicom.tags/tag/sourcewaveformsequence/
+url: /net/aspose.medical.dicom.tags/tag/sourcewaveformsequence/
 ---
 
 ## Tag.SourceWaveformSequence field

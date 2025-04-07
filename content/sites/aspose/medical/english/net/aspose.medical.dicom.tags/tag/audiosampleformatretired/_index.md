@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx2002 VRUS VM1 Audio Sample Format RETIRED.
 type: docs
 weight: 2870
-url: /aspose.medical.dicom.tags/tag/audiosampleformatretired/
+url: /net/aspose.medical.dicom.tags/tag/audiosampleformatretired/
 ---
 
 ## Tag.AudioSampleFormatRETIRED field

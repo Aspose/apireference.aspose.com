@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Encapsulated OBJ Storage.
 type: docs
 weight: 1360
-url: /aspose.medical.dicom/uid/encapsulatedobjstorage/
+url: /net/aspose.medical.dicom/uid/encapsulatedobjstorage/
 ---
 
 ## Uid.EncapsulatedOBJStorage field

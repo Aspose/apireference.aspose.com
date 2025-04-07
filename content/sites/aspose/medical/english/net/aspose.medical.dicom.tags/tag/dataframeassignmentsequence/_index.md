@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281401 VRSQ VM1 Data Frame Assignment Sequence.
 type: docs
 weight: 9860
-url: /aspose.medical.dicom.tags/tag/dataframeassignmentsequence/
+url: /net/aspose.medical.dicom.tags/tag/dataframeassignmentsequence/
 ---
 
 ## Tag.DataFrameAssignmentSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00282112 VRDS VM1-n Lossy Image Compression Ratio.
 type: docs
 weight: 23080
-url: /aspose.medical.dicom.tags/tag/lossyimagecompressionratio/
+url: /net/aspose.medical.dicom.tags/tag/lossyimagecompressionratio/
 ---
 
 ## Tag.LossyImageCompressionRatio field

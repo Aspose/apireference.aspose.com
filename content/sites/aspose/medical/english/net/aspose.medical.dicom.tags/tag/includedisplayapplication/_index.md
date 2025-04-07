@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 22000009 VRCS VM1 Include Display Application.
 type: docs
 weight: 20110
-url: /aspose.medical.dicom.tags/tag/includedisplayapplication/
+url: /net/aspose.medical.dicom.tags/tag/includedisplayapplication/
 ---
 
 ## Tag.IncludeDisplayApplication field

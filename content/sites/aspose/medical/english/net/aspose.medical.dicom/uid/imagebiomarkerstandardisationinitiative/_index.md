@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Coding Scheme Image Biomarker Standardisation Initiative.
 type: docs
 weight: 1930
-url: /aspose.medical.dicom/uid/imagebiomarkerstandardisationinitiative/
+url: /net/aspose.medical.dicom/uid/imagebiomarkerstandardisationinitiative/
 ---
 
 ## Uid.ImageBiomarkerStandardisationInitiative field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100063 VRCS VM1 Dosimetric Objective Evaluation Scope.
 type: docs
 weight: 12850
-url: /aspose.medical.dicom.tags/tag/dosimetricobjectiveevaluationscope/
+url: /net/aspose.medical.dicom.tags/tag/dosimetricobjectiveevaluationscope/
 ---
 
 ## Tag.DosimetricObjectiveEvaluationScope field

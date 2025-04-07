@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0050001B VRLO VM1 Container Component ID.
 type: docs
 weight: 7740
-url: /aspose.medical.dicom.tags/tag/containercomponentid/
+url: /net/aspose.medical.dicom.tags/tag/containercomponentid/
 ---
 
 ## Tag.ContainerComponentID field

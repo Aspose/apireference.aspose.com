@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014201E VRSQ VM1 Indication ROI Sequence RETIRED.
 type: docs
 weight: 20270
-url: /aspose.medical.dicom.tags/tag/indicationroisequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/indicationroisequenceretired/
 ---
 
 ## Tag.IndicationROISequenceRETIRED field

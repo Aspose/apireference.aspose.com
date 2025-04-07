@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189559 VRCS VM1 Positioner Primary Angle Direction.
 type: docs
 weight: 32070
-url: /aspose.medical.dicom.tags/tag/positionerprimaryangledirection/
+url: /net/aspose.medical.dicom.tags/tag/positionerprimaryangledirection/
 ---
 
 ## Tag.PositionerPrimaryAngleDirection field

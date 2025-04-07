@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014510E VRDS VM1 Wedge Time Delay RETIRED.
 type: docs
 weight: 52370
-url: /aspose.medical.dicom.tags/tag/wedgetimedelayretired/
+url: /net/aspose.medical.dicom.tags/tag/wedgetimedelayretired/
 ---
 
 ## Tag.WedgeTimeDelayRETIRED field

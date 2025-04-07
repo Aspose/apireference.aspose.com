@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Patient Root Query/Retrieve Information Model - GET.
 type: docs
 weight: 2950
-url: /aspose.medical.dicom/uid/patientrootqueryretrieveinformationmodelget/
+url: /net/aspose.medical.dicom/uid/patientrootqueryretrieveinformationmodelget/
 ---
 
 ## Uid.PatientRootQueryRetrieveInformationModelGET field

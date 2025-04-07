@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014601E VRCS VM1 Detector Wavelength Range RETIRED.
 type: docs
 weight: 11220
-url: /aspose.medical.dicom.tags/tag/detectorwavelengthrangeretired/
+url: /net/aspose.medical.dicom.tags/tag/detectorwavelengthrangeretired/
 ---
 
 ## Tag.DetectorWavelengthRangeRETIRED field

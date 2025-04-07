@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820001 VRCS VM1 Assessment Summary.
 type: docs
 weight: 2620
-url: /aspose.medical.dicom.tags/tag/assessmentsummary/
+url: /net/aspose.medical.dicom.tags/tag/assessmentsummary/
 ---
 
 ## Tag.AssessmentSummary field

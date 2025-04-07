@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0431 VRSQ VM1 Applicator Geometry Sequence.
 type: docs
 weight: 2170
-url: /aspose.medical.dicom.tags/tag/applicatorgeometrysequence/
+url: /net/aspose.medical.dicom.tags/tag/applicatorgeometrysequence/
 ---
 
 ## Tag.ApplicatorGeometrySequence field

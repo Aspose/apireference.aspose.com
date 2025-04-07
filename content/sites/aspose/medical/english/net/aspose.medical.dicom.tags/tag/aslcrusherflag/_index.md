@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189259 VRCS VM1 ASL Crusher Flag.
 type: docs
 weight: 2410
-url: /aspose.medical.dicom.tags/tag/aslcrusherflag/
+url: /net/aspose.medical.dicom.tags/tag/aslcrusherflag/
 ---
 
 ## Tag.ASLCrusherFlag field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 1000xxx5 VRUS VM3 Shift Table Triplet RETIRED.
 type: docs
 weight: 43230
-url: /aspose.medical.dicom.tags/tag/shifttabletripletretired/
+url: /net/aspose.medical.dicom.tags/tag/shifttabletripletretired/
 ---
 
 ## Tag.ShiftTableTripletRETIRED field

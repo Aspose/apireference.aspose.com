@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080140 VRSQ VM1 Recorded Source Applicator Sequence.
 type: docs
 weight: 35850
-url: /aspose.medical.dicom.tags/tag/recordedsourceapplicatorsequence/
+url: /net/aspose.medical.dicom.tags/tag/recordedsourceapplicatorsequence/
 ---
 
 ## Tag.RecordedSourceApplicatorSequence field

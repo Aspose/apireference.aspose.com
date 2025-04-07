@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014603B VRST VM1 Laser Type Description RETIRED.
 type: docs
 weight: 22390
-url: /aspose.medical.dicom.tags/tag/lasertypedescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/lasertypedescriptionretired/
 ---
 
 ## Tag.LaserTypeDescriptionRETIRED field

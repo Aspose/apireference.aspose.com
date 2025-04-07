@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: JPIP Referenced Deflate 1.2.840.10008.1.2.4.95.
 type: docs
 weight: 460
-url: /aspose.medical.dicom/transfersyntax/jpipreferenceddeflate/
+url: /net/aspose.medical.dicom/transfersyntax/jpipreferenceddeflate/
 ---
 
 ## TransferSyntax.JpipReferencedDeflate field

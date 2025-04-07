@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax JPEG Full Progression Non-Hierarchical Process 10 amp 12 Retired.
 type: docs
 weight: 2260
-url: /aspose.medical.dicom/uid/jpegfullprogressionnonhierarchical1012retired/
+url: /net/aspose.medical.dicom/uid/jpegfullprogressionnonhierarchical1012retired/
 ---
 
 ## Uid.JpegFullProgressionNonHierarchical1012Retired field

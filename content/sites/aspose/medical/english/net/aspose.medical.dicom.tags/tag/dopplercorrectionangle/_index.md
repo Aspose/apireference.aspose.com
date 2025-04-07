@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186034 VRFD VM1 Doppler Correction Angle.
 type: docs
 weight: 12570
-url: /aspose.medical.dicom.tags/tag/dopplercorrectionangle/
+url: /net/aspose.medical.dicom.tags/tag/dopplercorrectionangle/
 ---
 
 ## Tag.DopplerCorrectionAngle field

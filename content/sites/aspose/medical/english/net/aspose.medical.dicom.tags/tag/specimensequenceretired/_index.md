@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400550 VRSQ VM1 Specimen Sequence RETIRED.
 type: docs
 weight: 45060
-url: /aspose.medical.dicom.tags/tag/specimensequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/specimensequenceretired/
 ---
 
 ## Tag.SpecimenSequenceRETIRED field

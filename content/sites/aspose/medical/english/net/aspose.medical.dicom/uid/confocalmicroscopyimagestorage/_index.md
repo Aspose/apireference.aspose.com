@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Confocal Microscopy Image Storage.
 type: docs
 weight: 480
-url: /aspose.medical.dicom/uid/confocalmicroscopyimagestorage/
+url: /net/aspose.medical.dicom/uid/confocalmicroscopyimagestorage/
 ---
 
 ## Uid.ConfocalMicroscopyImageStorage field

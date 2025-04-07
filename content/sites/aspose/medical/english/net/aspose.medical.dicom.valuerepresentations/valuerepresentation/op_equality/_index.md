@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Determines whether two specified objects have the same value.
 type: docs
 weight: 500
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/op_equality/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/op_equality/
 ---
 
 ## ValueRepresentation Equality operator

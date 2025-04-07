@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660030 VRSQ VM1 Algorithm Name Code Sequence.
 type: docs
 weight: 1170
-url: /aspose.medical.dicom.tags/tag/algorithmnamecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/algorithmnamecodesequence/
 ---
 
 ## Tag.AlgorithmNameCodeSequence field

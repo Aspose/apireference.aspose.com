@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720422 VRSQ VM1 Structured Display Image Box Sequence.
 type: docs
 weight: 45830
-url: /aspose.medical.dicom.tags/tag/structureddisplayimageboxsequence/
+url: /net/aspose.medical.dicom.tags/tag/structureddisplayimageboxsequence/
 ---
 
 ## Tag.StructuredDisplayImageBoxSequence field

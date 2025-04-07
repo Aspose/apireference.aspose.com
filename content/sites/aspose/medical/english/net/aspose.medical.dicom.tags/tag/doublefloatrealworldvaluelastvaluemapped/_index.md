@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00409213 VRFD VM1 Double Float Real World Value Last Value Mapped.
 type: docs
 weight: 13020
-url: /aspose.medical.dicom.tags/tag/doublefloatrealworldvaluelastvaluemapped/
+url: /net/aspose.medical.dicom.tags/tag/doublefloatrealworldvaluelastvaluemapped/
 ---
 
 ## Tag.DoubleFloatRealWorldValueLastValueMapped field

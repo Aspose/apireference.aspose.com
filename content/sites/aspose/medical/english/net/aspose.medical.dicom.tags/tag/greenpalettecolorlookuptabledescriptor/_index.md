@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281102 VRUS or SS VM3 Green Palette Color Lookup Table Descriptor.
 type: docs
 weight: 17990
-url: /aspose.medical.dicom.tags/tag/greenpalettecolorlookuptabledescriptor/
+url: /net/aspose.medical.dicom.tags/tag/greenpalettecolorlookuptabledescriptor/
 ---
 
 ## Tag.GreenPaletteColorLookupTableDescriptor field

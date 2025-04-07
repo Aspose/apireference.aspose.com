@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180014 VRSQ VM1 Contrast/Bolus Administration Route Sequence.
 type: docs
 weight: 8190
-url: /aspose.medical.dicom.tags/tag/contrastbolusadministrationroutesequence/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolusadministrationroutesequence/
 ---
 
 ## Tag.ContrastBolusAdministrationRouteSequence field

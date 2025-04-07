@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100100 VRCS VM1 Border Density.
 type: docs
 weight: 4300
-url: /aspose.medical.dicom.tags/tag/borderdensity/
+url: /net/aspose.medical.dicom.tags/tag/borderdensity/
 ---
 
 ## Tag.BorderDensity field

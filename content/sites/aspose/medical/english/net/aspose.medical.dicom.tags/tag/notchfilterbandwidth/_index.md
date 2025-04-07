@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0223 VRDS VM1 Notch Filter Bandwidth.
 type: docs
 weight: 25990
-url: /aspose.medical.dicom.tags/tag/notchfilterbandwidth/
+url: /net/aspose.medical.dicom.tags/tag/notchfilterbandwidth/
 ---
 
 ## Tag.NotchFilterBandwidth field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00F9 VRLO VM1 Accessory Code.
 type: docs
 weight: 100
-url: /aspose.medical.dicom.tags/tag/accessorycode/
+url: /net/aspose.medical.dicom.tags/tag/accessorycode/
 ---
 
 ## Tag.AccessoryCode field

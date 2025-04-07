@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0133 VRFL VM3 External Contour Entry Point.
 type: docs
 weight: 14750
-url: /aspose.medical.dicom.tags/tag/externalcontourentrypoint/
+url: /net/aspose.medical.dicom.tags/tag/externalcontourentrypoint/
 ---
 
 ## Tag.ExternalContourEntryPoint field

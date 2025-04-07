@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189769 VRCS VM1 Iterative Reconstruction Method.
 type: docs
 weight: 21970
-url: /aspose.medical.dicom.tags/tag/iterativereconstructionmethod/
+url: /net/aspose.medical.dicom.tags/tag/iterativereconstructionmethod/
 ---
 
 ## Tag.IterativeReconstructionMethod field

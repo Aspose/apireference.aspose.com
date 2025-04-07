@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460242 VRCS VM1 Corneal Topography Map Quality Evaluation.
 type: docs
 weight: 8860
-url: /aspose.medical.dicom.tags/tag/cornealtopographymapqualityevaluation/
+url: /net/aspose.medical.dicom.tags/tag/cornealtopographymapqualityevaluation/
 ---
 
 ## Tag.CornealTopographyMapQualityEvaluation field

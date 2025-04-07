@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400009 VRSH VM1 Scheduled Procedure Step ID.
 type: docs
 weight: 41390
-url: /aspose.medical.dicom.tags/tag/scheduledprocedurestepid/
+url: /net/aspose.medical.dicom.tags/tag/scheduledprocedurestepid/
 ---
 
 ## Tag.ScheduledProcedureStepID field

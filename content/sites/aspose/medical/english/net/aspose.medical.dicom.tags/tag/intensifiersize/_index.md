@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181162 VRDS VM1 Intensifier Size.
 type: docs
 weight: 20770
-url: /aspose.medical.dicom.tags/tag/intensifiersize/
+url: /net/aspose.medical.dicom.tags/tag/intensifiersize/
 ---
 
 ## Tag.IntensifierSize field

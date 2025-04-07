@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221130 VRFL VM1 Lens Thickness.
 type: docs
 weight: 22700
-url: /aspose.medical.dicom.tags/tag/lensthickness/
+url: /net/aspose.medical.dicom.tags/tag/lensthickness/
 ---
 
 ## Tag.LensThickness field

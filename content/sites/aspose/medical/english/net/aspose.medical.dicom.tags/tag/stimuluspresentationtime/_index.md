@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240028 VRFL VM1 Stimulus Presentation Time.
 type: docs
 weight: 45600
-url: /aspose.medical.dicom.tags/tag/stimuluspresentationtime/
+url: /net/aspose.medical.dicom.tags/tag/stimuluspresentationtime/
 ---
 
 ## Tag.StimulusPresentationTime field

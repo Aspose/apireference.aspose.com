@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00201200 VRIS VM1 Number of Patient Related Studies.
 type: docs
 weight: 26620
-url: /aspose.medical.dicom.tags/tag/numberofpatientrelatedstudies/
+url: /net/aspose.medical.dicom.tags/tag/numberofpatientrelatedstudies/
 ---
 
 ## Tag.NumberOfPatientRelatedStudies field

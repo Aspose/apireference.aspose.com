@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181006 VRLO VM1 Grid ID.
 type: docs
 weight: 18060
-url: /aspose.medical.dicom.tags/tag/gridid/
+url: /net/aspose.medical.dicom.tags/tag/gridid/
 ---
 
 ## Tag.GridID field

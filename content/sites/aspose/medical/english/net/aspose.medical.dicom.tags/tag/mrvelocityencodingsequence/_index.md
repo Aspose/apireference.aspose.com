@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189197 VRSQ VM1 MR Velocity Encoding Sequence.
 type: docs
 weight: 25340
-url: /aspose.medical.dicom.tags/tag/mrvelocityencodingsequence/
+url: /net/aspose.medical.dicom.tags/tag/mrvelocityencodingsequence/
 ---
 
 ## Tag.MRVelocityEncodingSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax Fragmentable MPEG-4 AVC/H.264 Stereo High Profile / Level 4.2.
 type: docs
 weight: 1610
-url: /aspose.medical.dicom/uid/fragmentablempeg4avch264stereohighprofilelevel42/
+url: /net/aspose.medical.dicom/uid/fragmentablempeg4avch264stereohighprofilelevel42/
 ---
 
 ## Uid.FragmentableMPEG4AVCH264StereoHighProfileLevel42 field

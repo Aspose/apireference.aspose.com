@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Specifies whether the photometric interpretation represents color true or grayscale  false. Read-only Boolean.
 type: docs
 weight: 150
-url: /aspose.medical.dicom.imaging/photometricinterpretation/iscolor/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/iscolor/
 ---
 
 ## PhotometricInterpretation.IsColor property

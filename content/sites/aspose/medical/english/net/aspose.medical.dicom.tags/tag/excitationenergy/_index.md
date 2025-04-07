@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189823 VRFD VM1 Excitation Energy.
 type: docs
 weight: 14240
-url: /aspose.medical.dicom.tags/tag/excitationenergy/
+url: /net/aspose.medical.dicom.tags/tag/excitationenergy/
 ---
 
 ## Tag.ExcitationEnergy field

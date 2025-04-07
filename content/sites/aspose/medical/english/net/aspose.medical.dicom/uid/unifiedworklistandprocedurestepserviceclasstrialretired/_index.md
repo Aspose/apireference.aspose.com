@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Service Class Unified Worklist and Procedure Step Service Class - Trial Retired.
 type: docs
 weight: 4870
-url: /aspose.medical.dicom/uid/unifiedworklistandprocedurestepserviceclasstrialretired/
+url: /net/aspose.medical.dicom/uid/unifiedworklistandprocedurestepserviceclasstrialretired/
 ---
 
 ## Uid.UnifiedWorklistAndProcedureStepServiceClassTrialRetired field

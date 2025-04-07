@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018937B VRUT VM1 Multi-energy Acquisition Description.
 type: docs
 weight: 25390
-url: /aspose.medical.dicom.tags/tag/multienergyacquisitiondescription/
+url: /net/aspose.medical.dicom.tags/tag/multienergyacquisitiondescription/
 ---
 
 ## Tag.MultienergyAcquisitionDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private ERAD Practice Builder Report Text Storage.
 type: docs
 weight: 3200
-url: /aspose.medical.dicom/uid/privateeradpracticebuilderreporttextstorage/
+url: /net/aspose.medical.dicom/uid/privateeradpracticebuilderreporttextstorage/
 ---
 
 ## Uid.PrivateEradPracticeBuilderReportTextStorage field

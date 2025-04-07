@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700289 VRSH VM1 Tick Label.
 type: docs
 weight: 48280
-url: /aspose.medical.dicom.tags/tag/ticklabel/
+url: /net/aspose.medical.dicom.tags/tag/ticklabel/
 ---
 
 ## Tag.TickLabel field

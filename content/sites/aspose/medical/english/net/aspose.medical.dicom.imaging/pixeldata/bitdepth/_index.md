@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The BitDepthaspose.medical.dicom.imaging/pixeldata/bitdepth information for image rendering. Read-only BitDepthaspose.medical.dicom.imaging/pixeldata/bitdepth.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.imaging/pixeldata/bitdepth/
+url: /net/aspose.medical.dicom.imaging/pixeldata/bitdepth/
 ---
 
 ## PixelData.BitDepth property

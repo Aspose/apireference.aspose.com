@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00005120 VRLT VM1 Page Position ID RETIRED.
 type: docs
 weight: 29360
-url: /aspose.medical.dicom.tags/tag/pagepositionidretired/
+url: /net/aspose.medical.dicom.tags/tag/pagepositionidretired/
 ---
 
 ## Tag.PagePositionIDRETIRED field

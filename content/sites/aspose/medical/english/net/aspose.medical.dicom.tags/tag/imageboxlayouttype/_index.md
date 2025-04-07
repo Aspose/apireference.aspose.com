@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720304 VRCS VM1 Image Box Layout Type.
 type: docs
 weight: 18930
-url: /aspose.medical.dicom.tags/tag/imageboxlayouttype/
+url: /net/aspose.medical.dicom.tags/tag/imageboxlayouttype/
 ---
 
 ## Tag.ImageBoxLayoutType field

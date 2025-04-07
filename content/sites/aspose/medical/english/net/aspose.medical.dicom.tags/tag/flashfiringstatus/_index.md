@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160011 VRUS VM1 Flash Firing Status.
 type: docs
 weight: 15820
-url: /aspose.medical.dicom.tags/tag/flashfiringstatus/
+url: /net/aspose.medical.dicom.tags/tag/flashfiringstatus/
 ---
 
 ## Tag.FlashFiringStatus field

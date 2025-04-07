@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280400 VRLO VM1 Transform Label RETIRED.
 type: docs
 weight: 49430
-url: /aspose.medical.dicom.tags/tag/transformlabelretired/
+url: /net/aspose.medical.dicom.tags/tag/transformlabelretired/
 ---
 
 ## Tag.TransformLabelRETIRED field

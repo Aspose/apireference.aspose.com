@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020027 VRUR VM1 Sending Presentation Address.
 type: docs
 weight: 42730
-url: /aspose.medical.dicom.tags/tag/sendingpresentationaddress/
+url: /net/aspose.medical.dicom.tags/tag/sendingpresentationaddress/
 ---
 
 ## Tag.SendingPresentationAddress field

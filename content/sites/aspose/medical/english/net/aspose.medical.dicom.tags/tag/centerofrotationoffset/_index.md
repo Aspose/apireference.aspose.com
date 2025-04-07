@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181145 VRDS VM1 Center of Rotation Offset.
 type: docs
 weight: 5310
-url: /aspose.medical.dicom.tags/tag/centerofrotationoffset/
+url: /net/aspose.medical.dicom.tags/tag/centerofrotationoffset/
 ---
 
 ## Tag.CenterOfRotationOffset field

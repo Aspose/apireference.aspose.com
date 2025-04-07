@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class MR Spectroscopy Storage.
 type: docs
 weight: 2720
-url: /aspose.medical.dicom/uid/mrspectroscopystorage/
+url: /net/aspose.medical.dicom/uid/mrspectroscopystorage/
 ---
 
 ## Uid.MRSpectroscopyStorage field

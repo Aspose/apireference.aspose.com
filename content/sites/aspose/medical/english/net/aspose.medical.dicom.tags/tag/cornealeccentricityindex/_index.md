@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460234 VRFL VM1 Corneal Eccentricity Index.
 type: docs
 weight: 8780
-url: /aspose.medical.dicom.tags/tag/cornealeccentricityindex/
+url: /net/aspose.medical.dicom.tags/tag/cornealeccentricityindex/
 ---
 
 ## Tag.CornealEccentricityIndex field

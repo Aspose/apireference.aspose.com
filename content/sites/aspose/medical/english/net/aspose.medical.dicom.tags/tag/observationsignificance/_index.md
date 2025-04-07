@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820008 VRCS VM1 Observation Significance.
 type: docs
 weight: 27340
-url: /aspose.medical.dicom.tags/tag/observationsignificance/
+url: /net/aspose.medical.dicom.tags/tag/observationsignificance/
 ---
 
 ## Tag.ObservationSignificance field

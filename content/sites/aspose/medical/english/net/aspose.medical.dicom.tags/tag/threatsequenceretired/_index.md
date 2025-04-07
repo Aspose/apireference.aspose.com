@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101011 VRSQ VM1 Threat Sequence RETIRED.
 type: docs
 weight: 48110
-url: /aspose.medical.dicom.tags/tag/threatsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/threatsequenceretired/
 ---
 
 ## Tag.ThreatSequenceRETIRED field

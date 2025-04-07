@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20500020 VRCS VM1 Presentation LUT Shape.
 type: docs
 weight: 32590
-url: /aspose.medical.dicom.tags/tag/presentationlutshape/
+url: /net/aspose.medical.dicom.tags/tag/presentationlutshape/
 ---
 
 ## Tag.PresentationLUTShape field

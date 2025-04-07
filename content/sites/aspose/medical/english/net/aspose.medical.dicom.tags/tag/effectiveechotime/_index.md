@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189082 VRFD VM1 Effective Echo Time.
 type: docs
 weight: 13330
-url: /aspose.medical.dicom.tags/tag/effectiveechotime/
+url: /net/aspose.medical.dicom.tags/tag/effectiveechotime/
 ---
 
 ## Tag.EffectiveEchoTime field

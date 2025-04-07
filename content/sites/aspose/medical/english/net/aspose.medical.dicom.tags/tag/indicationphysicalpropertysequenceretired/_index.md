@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142030 VRSQ VM1 Indication Physical Property Sequence RETIRED.
 type: docs
 weight: 20260
-url: /aspose.medical.dicom.tags/tag/indicationphysicalpropertysequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/indicationphysicalpropertysequenceretired/
 ---
 
 ## Tag.IndicationPhysicalPropertySequenceRETIRED field

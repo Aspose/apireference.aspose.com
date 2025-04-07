@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741242 VRCS VM1 SCP Status.
 type: docs
 weight: 41660
-url: /aspose.medical.dicom.tags/tag/scpstatus/
+url: /net/aspose.medical.dicom.tags/tag/scpstatus/
 ---
 
 ## Tag.SCPStatus field

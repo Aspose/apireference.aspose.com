@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120064 VRSQ VM1 De-identification Method Code Sequence.
 type: docs
 weight: 10480
-url: /aspose.medical.dicom.tags/tag/deidentificationmethodcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/deidentificationmethodcodesequence/
 ---
 
 ## Tag.DeidentificationMethodCodeSequence field

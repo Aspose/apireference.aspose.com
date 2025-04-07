@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00FB VRCS VM1 Block Mounting Position.
 type: docs
 weight: 4050
-url: /aspose.medical.dicom.tags/tag/blockmountingposition/
+url: /net/aspose.medical.dicom.tags/tag/blockmountingposition/
 ---
 
 ## Tag.BlockMountingPosition field

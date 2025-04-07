@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080100 VRSH VM1 Code Value.
 type: docs
 weight: 6100
-url: /aspose.medical.dicom.tags/tag/codevalue/
+url: /net/aspose.medical.dicom.tags/tag/codevalue/
 ---
 
 ## Tag.CodeValue field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700015 VRCS VM1 Anchor Point Visibility.
 type: docs
 weight: 1640
-url: /aspose.medical.dicom.tags/tag/anchorpointvisibility/
+url: /net/aspose.medical.dicom.tags/tag/anchorpointvisibility/
 ---
 
 ## Tag.AnchorPointVisibility field

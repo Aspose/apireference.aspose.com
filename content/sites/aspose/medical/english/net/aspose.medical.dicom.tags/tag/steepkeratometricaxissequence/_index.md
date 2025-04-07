@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460074 VRSQ VM1 Steep Keratometric Axis Sequence.
 type: docs
 weight: 45480
-url: /aspose.medical.dicom.tags/tag/steepkeratometricaxissequence/
+url: /net/aspose.medical.dicom.tags/tag/steepkeratometricaxissequence/
 ---
 
 ## Tag.SteepKeratometricAxisSequence field

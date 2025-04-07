@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020003 VRUI VM1 Media Storage SOP Instance UID.
 type: docs
 weight: 24350
-url: /aspose.medical.dicom.tags/tag/mediastoragesopinstanceuid/
+url: /net/aspose.medical.dicom.tags/tag/mediastoragesopinstanceuid/
 ---
 
 ## Tag.MediaStorageSOPInstanceUID field

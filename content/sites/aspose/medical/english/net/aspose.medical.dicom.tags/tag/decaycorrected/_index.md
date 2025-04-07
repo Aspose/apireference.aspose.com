@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189758 VRCS VM1 Decay Corrected.
 type: docs
 weight: 10200
-url: /aspose.medical.dicom.tags/tag/decaycorrected/
+url: /net/aspose.medical.dicom.tags/tag/decaycorrected/
 ---
 
 ## Tag.DecayCorrected field

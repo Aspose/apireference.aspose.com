@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400250 VRDA VM1 Performed Procedure Step End Date.
 type: docs
 weight: 30640
-url: /aspose.medical.dicom.tags/tag/performedprocedurestependdate/
+url: /net/aspose.medical.dicom.tags/tag/performedprocedurestependdate/
 ---
 
 ## Tag.PerformedProcedureStepEndDate field

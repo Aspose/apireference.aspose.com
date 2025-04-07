@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A601 VRCS VM1 Observer Context Flag Trial RETIRED.
 type: docs
 weight: 27420
-url: /aspose.medical.dicom.tags/tag/observercontextflagtrialretired/
+url: /net/aspose.medical.dicom.tags/tag/observercontextflagtrialretired/
 ---
 
 ## Tag.ObserverContextFlagTrialRETIRED field

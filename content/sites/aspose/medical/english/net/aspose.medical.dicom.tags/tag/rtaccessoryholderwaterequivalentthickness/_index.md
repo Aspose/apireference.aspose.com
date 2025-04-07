@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A060D VRFD VM1 RT Accessory Holder Water-Equivalent Thickness.
 type: docs
 weight: 39910
-url: /aspose.medical.dicom.tags/tag/rtaccessoryholderwaterequivalentthickness/
+url: /net/aspose.medical.dicom.tags/tag/rtaccessoryholderwaterequivalentthickness/
 ---
 
 ## Tag.RTAccessoryHolderWaterEquivalentThickness field

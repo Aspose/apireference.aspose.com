@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072007E VRSS VM1-n Selector SS Value.
 type: docs
 weight: 42580
-url: /aspose.medical.dicom.tags/tag/selectorssvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorssvalue/
 ---
 
 ## Tag.SelectorSSValue field

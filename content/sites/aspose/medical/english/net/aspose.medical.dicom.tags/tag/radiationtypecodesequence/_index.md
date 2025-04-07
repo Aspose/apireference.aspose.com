@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A067F VRSQ VM1 Radiation Type Code Sequence.
 type: docs
 weight: 34500
-url: /aspose.medical.dicom.tags/tag/radiationtypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/radiationtypecodesequence/
 ---
 
 ## Tag.RadiationTypeCodeSequence field

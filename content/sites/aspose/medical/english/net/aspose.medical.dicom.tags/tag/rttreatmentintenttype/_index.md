@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100059 VRCS VM1 RT Treatment Intent Type.
 type: docs
 weight: 40660
-url: /aspose.medical.dicom.tags/tag/rttreatmentintenttype/
+url: /net/aspose.medical.dicom.tags/tag/rttreatmentintenttype/
 ---
 
 ## Tag.RTTreatmentIntentType field

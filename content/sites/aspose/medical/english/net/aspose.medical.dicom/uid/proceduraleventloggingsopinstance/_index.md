@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Well-known SOP Instance Procedural Event Logging SOP Instance.
 type: docs
 weight: 3730
-url: /aspose.medical.dicom/uid/proceduraleventloggingsopinstance/
+url: /net/aspose.medical.dicom/uid/proceduraleventloggingsopinstance/
 ---
 
 ## Uid.ProceduralEventLoggingSOPInstance field

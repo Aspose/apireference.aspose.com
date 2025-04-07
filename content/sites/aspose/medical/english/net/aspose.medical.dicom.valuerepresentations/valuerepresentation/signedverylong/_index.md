@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Signed Very Long SV.
 type: docs
 weight: 260
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/signedverylong/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/signedverylong/
 ---
 
 ## ValueRepresentation.SignedVeryLong field

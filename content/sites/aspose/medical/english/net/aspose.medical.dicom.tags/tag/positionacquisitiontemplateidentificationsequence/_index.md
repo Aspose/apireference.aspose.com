@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002011F VRSQ VM1 Position Acquisition Template Identification Sequence.
 type: docs
 weight: 31990
-url: /aspose.medical.dicom.tags/tag/positionacquisitiontemplateidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/positionacquisitiontemplateidentificationsequence/
 ---
 
 ## Tag.PositionAcquisitionTemplateIdentificationSequence field

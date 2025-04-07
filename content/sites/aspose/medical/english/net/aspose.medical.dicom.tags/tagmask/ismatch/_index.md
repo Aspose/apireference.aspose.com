@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Returns a value indicating whether the given tag matches this mask.
 type: docs
 weight: 60
-url: /aspose.medical.dicom.tags/tagmask/ismatch/
+url: /net/aspose.medical.dicom.tags/tagmask/ismatch/
 ---
 
 ## TagMask.IsMatch method

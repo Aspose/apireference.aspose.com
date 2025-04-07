@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181022 VRSH VM1 Video Image Format Acquired.
 type: docs
 weight: 51150
-url: /aspose.medical.dicom.tags/tag/videoimageformatacquired/
+url: /net/aspose.medical.dicom.tags/tag/videoimageformatacquired/
 ---
 
 ## Tag.VideoImageFormatAcquired field

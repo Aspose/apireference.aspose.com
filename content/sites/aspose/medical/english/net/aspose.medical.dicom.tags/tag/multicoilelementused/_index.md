@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189048 VRCS VM1 Multi-Coil Element Used.
 type: docs
 weight: 25380
-url: /aspose.medical.dicom.tags/tag/multicoilelementused/
+url: /net/aspose.medical.dicom.tags/tag/multicoilelementused/
 ---
 
 ## Tag.MultiCoilElementUsed field

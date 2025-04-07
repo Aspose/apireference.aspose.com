@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144062 VRDS VM1 Gate Threshold RETIRED.
 type: docs
 weight: 17090
-url: /aspose.medical.dicom.tags/tag/gatethresholdretired/
+url: /net/aspose.medical.dicom.tags/tag/gatethresholdretired/
 ---
 
 ## Tag.GateThresholdRETIRED field

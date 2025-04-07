@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0666 VRFD VM1 Compensator Base Plane Offset.
 type: docs
 weight: 6620
-url: /aspose.medical.dicom.tags/tag/compensatorbaseplaneoffset/
+url: /net/aspose.medical.dicom.tags/tag/compensatorbaseplaneoffset/
 ---
 
 ## Tag.CompensatorBasePlaneOffset field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189768 VRCS VM1 Detector Normalization Correction.
 type: docs
 weight: 11120
-url: /aspose.medical.dicom.tags/tag/detectornormalizationcorrection/
+url: /net/aspose.medical.dicom.tags/tag/detectornormalizationcorrection/
 ---
 
 ## Tag.DetectorNormalizationCorrection field

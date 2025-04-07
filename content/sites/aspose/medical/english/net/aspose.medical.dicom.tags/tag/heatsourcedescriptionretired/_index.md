@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146043 VRUT VM1 Heat Source Description RETIRED.
 type: docs
 weight: 18290
-url: /aspose.medical.dicom.tags/tag/heatsourcedescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/heatsourcedescriptionretired/
 ---
 
 ## Tag.HeatSourceDescriptionRETIRED field

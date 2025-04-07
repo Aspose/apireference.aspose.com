@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0102 VRUS VM1 Overlay Bit Position.
 type: docs
 weight: 28830
-url: /aspose.medical.dicom.tags/tag/overlaybitposition/
+url: /net/aspose.medical.dicom.tags/tag/overlaybitposition/
 ---
 
 ## Tag.OverlayBitPosition field

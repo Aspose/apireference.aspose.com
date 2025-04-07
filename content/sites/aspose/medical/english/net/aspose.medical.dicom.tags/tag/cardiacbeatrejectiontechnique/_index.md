@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189169 VRCS VM1 Cardiac Beat Rejection Technique.
 type: docs
 weight: 5040
-url: /aspose.medical.dicom.tags/tag/cardiacbeatrejectiontechnique/
+url: /net/aspose.medical.dicom.tags/tag/cardiacbeatrejectiontechnique/
 ---
 
 ## Tag.CardiacBeatRejectionTechnique field

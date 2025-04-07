@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189318 VRFD VM3 Reconstruction Target Center Patient.
 type: docs
 weight: 35720
-url: /aspose.medical.dicom.tags/tag/reconstructiontargetcenterpatient/
+url: /net/aspose.medical.dicom.tags/tag/reconstructiontargetcenterpatient/
 ---
 
 ## Tag.ReconstructionTargetCenterPatient field

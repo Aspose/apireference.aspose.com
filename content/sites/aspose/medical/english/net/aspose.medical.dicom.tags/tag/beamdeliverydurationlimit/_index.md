@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00C5 VRFD VM1 Beam Delivery Duration Limit.
 type: docs
 weight: 3300
-url: /aspose.medical.dicom.tags/tag/beamdeliverydurationlimit/
+url: /net/aspose.medical.dicom.tags/tag/beamdeliverydurationlimit/
 ---
 
 ## Tag.BeamDeliveryDurationLimit field

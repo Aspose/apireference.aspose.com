@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0125 VRDS VM1 Table Top Eccentric Angle.
 type: docs
 weight: 46930
-url: /aspose.medical.dicom.tags/tag/tabletopeccentricangle/
+url: /net/aspose.medical.dicom.tags/tag/tabletopeccentricangle/
 ---
 
 ## Tag.TableTopEccentricAngle field

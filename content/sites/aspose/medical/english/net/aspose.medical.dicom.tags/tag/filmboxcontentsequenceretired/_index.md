@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21300030 VRSQ VM1 Film Box Content Sequence RETIRED.
 type: docs
 weight: 15230
-url: /aspose.medical.dicom.tags/tag/filmboxcontentsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/filmboxcontentsequenceretired/
 ---
 
 ## Tag.FilmBoxContentSequenceRETIRED field

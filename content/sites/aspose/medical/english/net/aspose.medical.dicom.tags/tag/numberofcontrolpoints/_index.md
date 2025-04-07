@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0110 VRIS VM1 Number of Control Points.
 type: docs
 weight: 26230
-url: /aspose.medical.dicom.tags/tag/numberofcontrolpoints/
+url: /net/aspose.medical.dicom.tags/tag/numberofcontrolpoints/
 ---
 
 ## Tag.NumberOfControlPoints field

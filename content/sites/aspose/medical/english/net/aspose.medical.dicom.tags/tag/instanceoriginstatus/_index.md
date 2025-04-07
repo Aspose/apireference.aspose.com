@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000600 VRCS VM1 Instance Origin Status.
 type: docs
 weight: 20520
-url: /aspose.medical.dicom.tags/tag/instanceoriginstatus/
+url: /net/aspose.medical.dicom.tags/tag/instanceoriginstatus/
 ---
 
 ## Tag.InstanceOriginStatus field

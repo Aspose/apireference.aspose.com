@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0226 VRLO VM1 Source Isotope Name.
 type: docs
 weight: 44260
-url: /aspose.medical.dicom.tags/tag/sourceisotopename/
+url: /net/aspose.medical.dicom.tags/tag/sourceisotopename/
 ---
 
 ## Tag.SourceIsotopeName field

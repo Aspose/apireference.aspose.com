@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0324 VRDS VM1 Analog Filter Roll Off.
 type: docs
 weight: 1440
-url: /aspose.medical.dicom.tags/tag/analogfilterrolloff/
+url: /net/aspose.medical.dicom.tags/tag/analogfilterrolloff/
 ---
 
 ## Tag.AnalogFilterRollOff field

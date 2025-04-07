@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00282002 VRCS VM1 Color Space.
 type: docs
 weight: 6430
-url: /aspose.medical.dicom.tags/tag/colorspace/
+url: /net/aspose.medical.dicom.tags/tag/colorspace/
 ---
 
 ## Tag.ColorSpace field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3006004A VRSQ VM1 Source Pixel Planes Characteristics Sequence.
 type: docs
 weight: 44410
-url: /aspose.medical.dicom.tags/tag/sourcepixelplanescharacteristicssequence/
+url: /net/aspose.medical.dicom.tags/tag/sourcepixelplanescharacteristicssequence/
 ---
 
 ## Tag.SourcePixelPlanesCharacteristicsSequence field

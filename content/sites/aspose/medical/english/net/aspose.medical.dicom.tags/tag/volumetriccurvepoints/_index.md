@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0070150D VROD VM1 Volumetric Curve Points.
 type: docs
 weight: 51710
-url: /aspose.medical.dicom.tags/tag/volumetriccurvepoints/
+url: /net/aspose.medical.dicom.tags/tag/volumetriccurvepoints/
 ---
 
 ## Tag.VolumetricCurvePoints field

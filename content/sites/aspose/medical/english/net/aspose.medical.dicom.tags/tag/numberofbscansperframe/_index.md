@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221642 VRUL VM1 Number of B-scans Per Frame.
 type: docs
 weight: 26160
-url: /aspose.medical.dicom.tags/tag/numberofbscansperframe/
+url: /net/aspose.medical.dicom.tags/tag/numberofbscansperframe/
 ---
 
 ## Tag.NumberOfBscansPerFrame field

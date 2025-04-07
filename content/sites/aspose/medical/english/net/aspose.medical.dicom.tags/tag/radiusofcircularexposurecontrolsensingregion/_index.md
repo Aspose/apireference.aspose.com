@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189441 VRUS VM1 Radius of Circular Exposure Control Sensing Region.
 type: docs
 weight: 34740
-url: /aspose.medical.dicom.tags/tag/radiusofcircularexposurecontrolsensingregion/
+url: /net/aspose.medical.dicom.tags/tag/radiusofcircularexposurecontrolsensingregion/
 ---
 
 ## Tag.RadiusOfCircularExposureControlSensingRegion field

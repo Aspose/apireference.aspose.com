@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660105 VRUL VM1 Track Set Number.
 type: docs
 weight: 49130
-url: /aspose.medical.dicom.tags/tag/tracksetnumber/
+url: /net/aspose.medical.dicom.tags/tag/tracksetnumber/
 ---
 
 ## Tag.TrackSetNumber field

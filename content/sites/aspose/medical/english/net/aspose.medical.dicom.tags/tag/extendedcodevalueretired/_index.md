@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080101 VRLO VM1 Extended Code Value RETIRED.
 type: docs
 weight: 14700
-url: /aspose.medical.dicom.tags/tag/extendedcodevalueretired/
+url: /net/aspose.medical.dicom.tags/tag/extendedcodevalueretired/
 ---
 
 ## Tag.ExtendedCodeValueRETIRED field

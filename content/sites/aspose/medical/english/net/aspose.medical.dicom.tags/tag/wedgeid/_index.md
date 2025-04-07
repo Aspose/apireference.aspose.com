@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00D4 VRSH VM1 Wedge ID.
 type: docs
 weight: 52170
-url: /aspose.medical.dicom.tags/tag/wedgeid/
+url: /net/aspose.medical.dicom.tags/tag/wedgeid/
 ---
 
 ## Tag.WedgeID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660040 VROL VM1 Long Primitive Point Index List.
 type: docs
 weight: 23030
-url: /aspose.medical.dicom.tags/tag/longprimitivepointindexlist/
+url: /net/aspose.medical.dicom.tags/tag/longprimitivepointindexlist/
 ---
 
 ## Tag.LongPrimitivePointIndexList field

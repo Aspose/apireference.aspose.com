@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160047 VRUS VM1 Gain Control.
 type: docs
 weight: 16910
-url: /aspose.medical.dicom.tags/tag/gaincontrol/
+url: /net/aspose.medical.dicom.tags/tag/gaincontrol/
 ---
 
 ## Tag.GainControl field

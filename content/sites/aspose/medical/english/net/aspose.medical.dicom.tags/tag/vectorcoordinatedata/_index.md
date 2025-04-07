@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660021 VROF VM1 Vector Coordinate Data.
 type: docs
 weight: 50790
-url: /aspose.medical.dicom.tags/tag/vectorcoordinatedata/
+url: /net/aspose.medical.dicom.tags/tag/vectorcoordinatedata/
 ---
 
 ## Tag.VectorCoordinateData field

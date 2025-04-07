@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541000 VRCS VM2 Series Type.
 type: docs
 weight: 42940
-url: /aspose.medical.dicom.tags/tag/seriestype/
+url: /net/aspose.medical.dicom.tags/tag/seriestype/
 ---
 
 ## Tag.SeriesType field

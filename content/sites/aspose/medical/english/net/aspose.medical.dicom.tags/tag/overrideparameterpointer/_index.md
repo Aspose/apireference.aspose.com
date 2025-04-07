@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080062 VRAT VM1 Override Parameter Pointer.
 type: docs
 weight: 29290
-url: /aspose.medical.dicom.tags/tag/overrideparameterpointer/
+url: /net/aspose.medical.dicom.tags/tag/overrideparameterpointer/
 ---
 
 ## Tag.OverrideParameterPointer field

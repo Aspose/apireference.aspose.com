@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0002 VRSQ VM1 Referenced RT Plan Sequence.
 type: docs
 weight: 37200
-url: /aspose.medical.dicom.tags/tag/referencedrtplansequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedrtplansequence/
 ---
 
 ## Tag.ReferencedRTPlanSequence field

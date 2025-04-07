@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380050 VRLO VM1 Special Needs.
 type: docs
 weight: 44800
-url: /aspose.medical.dicom.tags/tag/specialneeds/
+url: /net/aspose.medical.dicom.tags/tag/specialneeds/
 ---
 
 ## Tag.SpecialNeeds field

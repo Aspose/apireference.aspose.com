@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189050 VRLO VM1 Transmit Coil Manufacturer Name.
 type: docs
 weight: 49490
-url: /aspose.medical.dicom.tags/tag/transmitcoilmanufacturername/
+url: /net/aspose.medical.dicom.tags/tag/transmitcoilmanufacturername/
 ---
 
 ## Tag.TransmitCoilManufacturerName field

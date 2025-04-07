@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146016 VRDS VM1 Laser Power RETIRED.
 type: docs
 weight: 22370
-url: /aspose.medical.dicom.tags/tag/laserpowerretired/
+url: /net/aspose.medical.dicom.tags/tag/laserpowerretired/
 ---
 
 ## Tag.LaserPowerRETIRED field

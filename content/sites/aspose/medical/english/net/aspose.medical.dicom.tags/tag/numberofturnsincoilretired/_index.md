@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146030 VRDS VM1 Number of Turns in Coil RETIRED.
 type: docs
 weight: 27060
-url: /aspose.medical.dicom.tags/tag/numberofturnsincoilretired/
+url: /net/aspose.medical.dicom.tags/tag/numberofturnsincoilretired/
 ---
 
 ## Tag.NumberOfTurnsInCoilRETIRED field

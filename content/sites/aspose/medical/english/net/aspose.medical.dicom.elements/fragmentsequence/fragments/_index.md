@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The collection of fragments. Read-only Byte.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.elements/fragmentsequence/fragments/
+url: /net/aspose.medical.dicom.elements/fragmentsequence/fragments/
 ---
 
 ## FragmentSequence.Fragments property

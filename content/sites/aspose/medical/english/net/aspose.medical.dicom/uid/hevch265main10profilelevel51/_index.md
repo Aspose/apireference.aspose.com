@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax HEVC/H.265 Main 10 Profile / Level 5.1.
 type: docs
 weight: 1850
-url: /aspose.medical.dicom/uid/hevch265main10profilelevel51/
+url: /net/aspose.medical.dicom/uid/hevch265main10profilelevel51/
 ---
 
 ## Uid.HEVCH265Main10ProfileLevel51 field

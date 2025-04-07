@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010004F VRCS VM1 Temporal Relationship Interval Anchor.
 type: docs
 weight: 47650
-url: /aspose.medical.dicom.tags/tag/temporalrelationshipintervalanchor/
+url: /net/aspose.medical.dicom.tags/tag/temporalrelationshipintervalanchor/
 ---
 
 ## Tag.TemporalRelationshipIntervalAnchor field

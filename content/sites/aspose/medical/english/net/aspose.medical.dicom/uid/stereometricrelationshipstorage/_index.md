@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Stereometric Relationship Storage.
 type: docs
 weight: 4420
-url: /aspose.medical.dicom/uid/stereometricrelationshipstorage/
+url: /net/aspose.medical.dicom/uid/stereometricrelationshipstorage/
 ---
 
 ## Uid.StereometricRelationshipStorage field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660026 VRSQ VM1 Triangle Strip Sequence.
 type: docs
 weight: 50030
-url: /aspose.medical.dicom.tags/tag/trianglestripsequence/
+url: /net/aspose.medical.dicom.tags/tag/trianglestripsequence/
 ---
 
 ## Tag.TriangleStripSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460032 VRCS VM1 Horizontal Prism Base.
 type: docs
 weight: 18530
-url: /aspose.medical.dicom.tags/tag/horizontalprismbase/
+url: /net/aspose.medical.dicom.tags/tag/horizontalprismbase/
 ---
 
 ## Tag.HorizontalPrismBase field

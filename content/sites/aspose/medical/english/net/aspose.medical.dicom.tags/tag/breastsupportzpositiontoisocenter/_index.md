@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189549 VRFD VM1 Breast Support Z Position to Isocenter.
 type: docs
 weight: 4630
-url: /aspose.medical.dicom.tags/tag/breastsupportzpositiontoisocenter/
+url: /net/aspose.medical.dicom.tags/tag/breastsupportzpositiontoisocenter/
 ---
 
 ## Tag.BreastSupportZPositionToIsocenter field

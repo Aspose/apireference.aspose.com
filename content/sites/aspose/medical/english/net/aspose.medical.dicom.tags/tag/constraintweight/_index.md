@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0021 VRDS VM1 Constraint Weight.
 type: docs
 weight: 7660
-url: /aspose.medical.dicom.tags/tag/constraintweight/
+url: /net/aspose.medical.dicom.tags/tag/constraintweight/
 ---
 
 ## Tag.ConstraintWeight field

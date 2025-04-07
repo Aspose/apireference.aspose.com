@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002000E VRDS VM1 X-Ray Image Receptor Angle.
 type: docs
 weight: 52790
-url: /aspose.medical.dicom.tags/tag/xrayimagereceptorangle/
+url: /net/aspose.medical.dicom.tags/tag/xrayimagereceptorangle/
 ---
 
 ## Tag.XRayImageReceptorAngle field

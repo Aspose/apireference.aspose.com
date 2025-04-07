@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220009 VRFL VM1 Cylinder Axis.
 type: docs
 weight: 9610
-url: /aspose.medical.dicom.tags/tag/cylinderaxis/
+url: /net/aspose.medical.dicom.tags/tag/cylinderaxis/
 ---
 
 ## Tag.CylinderAxis field

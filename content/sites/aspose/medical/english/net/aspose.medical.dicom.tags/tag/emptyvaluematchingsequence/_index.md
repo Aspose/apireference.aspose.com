@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080412 VRSQ VM1 Empty Value Matching Sequence.
 type: docs
 weight: 13470
-url: /aspose.medical.dicom.tags/tag/emptyvaluematchingsequence/
+url: /net/aspose.medical.dicom.tags/tag/emptyvaluematchingsequence/
 ---
 
 ## Tag.EmptyValueMatchingSequence field

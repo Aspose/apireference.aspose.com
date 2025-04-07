@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540015 VRDS VM1 Energy Window Upper Limit.
 type: docs
 weight: 13710
-url: /aspose.medical.dicom.tags/tag/energywindowupperlimit/
+url: /net/aspose.medical.dicom.tags/tag/energywindowupperlimit/
 ---
 
 ## Tag.EnergyWindowUpperLimit field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140028 VRST VM1 Component Manufacturer RETIRED.
 type: docs
 weight: 6990
-url: /aspose.medical.dicom.tags/tag/componentmanufacturerretired/
+url: /net/aspose.medical.dicom.tags/tag/componentmanufacturerretired/
 ---
 
 ## Tag.ComponentManufacturerRETIRED field

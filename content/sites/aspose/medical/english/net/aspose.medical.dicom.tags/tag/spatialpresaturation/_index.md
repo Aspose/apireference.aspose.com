@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189027 VRCS VM1 Spatial Pre-saturation.
 type: docs
 weight: 44770
-url: /aspose.medical.dicom.tags/tag/spatialpresaturation/
+url: /net/aspose.medical.dicom.tags/tag/spatialpresaturation/
 ---
 
 ## Tag.SpatialPresaturation field

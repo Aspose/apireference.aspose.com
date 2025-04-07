@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060050 VRDS VM3-3n Contour Data.
 type: docs
 weight: 8080
-url: /aspose.medical.dicom.tags/tag/contourdata/
+url: /net/aspose.medical.dicom.tags/tag/contourdata/
 ---
 
 ## Tag.ContourData field

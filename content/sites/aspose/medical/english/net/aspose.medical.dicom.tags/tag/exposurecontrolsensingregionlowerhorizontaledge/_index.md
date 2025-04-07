@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189439 VRSS VM1 Exposure Control Sensing Region Lower Horizontal Edge.
 type: docs
 weight: 14480
-url: /aspose.medical.dicom.tags/tag/exposurecontrolsensingregionlowerhorizontaledge/
+url: /net/aspose.medical.dicom.tags/tag/exposurecontrolsensingregionlowerhorizontaledge/
 ---
 
 ## Tag.ExposureControlSensingRegionLowerHorizontalEdge field

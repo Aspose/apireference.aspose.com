@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100001 VRSQ VM1 Radiobiological Dose Effect Sequence.
 type: docs
 weight: 34520
-url: /aspose.medical.dicom.tags/tag/radiobiologicaldoseeffectsequence/
+url: /net/aspose.medical.dicom.tags/tag/radiobiologicaldoseeffectsequence/
 ---
 
 ## Tag.RadiobiologicalDoseEffectSequence field

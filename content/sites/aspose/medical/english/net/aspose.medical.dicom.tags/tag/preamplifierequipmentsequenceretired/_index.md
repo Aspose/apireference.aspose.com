@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014400E VRSQ VM1 Pre-Amplifier Equipment Sequence RETIRED.
 type: docs
 weight: 32280
-url: /aspose.medical.dicom.tags/tag/preamplifierequipmentsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/preamplifierequipmentsequenceretired/
 ---
 
 ## Tag.PreAmplifierEquipmentSequenceRETIRED field

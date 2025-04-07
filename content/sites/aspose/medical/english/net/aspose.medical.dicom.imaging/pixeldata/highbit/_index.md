@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The index of the most significant bit MSB of pixel sample 00280102. Read/Write UInt16.
 type: docs
 weight: 90
-url: /aspose.medical.dicom.imaging/pixeldata/highbit/
+url: /net/aspose.medical.dicom.imaging/pixeldata/highbit/
 ---
 
 ## PixelData.HighBit property

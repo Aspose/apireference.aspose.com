@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220041 VRFL VM1 Depth of Transverse Image.
 type: docs
 weight: 10740
-url: /aspose.medical.dicom.tags/tag/depthoftransverseimage/
+url: /net/aspose.medical.dicom.tags/tag/depthoftransverseimage/
 ---
 
 ## Tag.DepthOfTransverseImage field

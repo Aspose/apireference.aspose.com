@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082130 VRDS VM1-n Event Elapsed Times.
 type: docs
 weight: 14120
-url: /aspose.medical.dicom.tags/tag/eventelapsedtimes/
+url: /net/aspose.medical.dicom.tags/tag/eventelapsedtimes/
 ---
 
 ## Tag.EventElapsedTimes field

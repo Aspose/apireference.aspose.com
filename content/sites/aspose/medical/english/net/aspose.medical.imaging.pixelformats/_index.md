@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 200
-url: /aspose.medical.imaging.pixelformats/
+url: /net/aspose.medical.imaging.pixelformats/
 ---
 
 

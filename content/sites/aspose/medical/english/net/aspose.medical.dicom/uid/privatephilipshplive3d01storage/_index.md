@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips HP Live 3D 01 Storage.
 type: docs
 weight: 3370
-url: /aspose.medical.dicom/uid/privatephilipshplive3d01storage/
+url: /net/aspose.medical.dicom/uid/privatephilipshplive3d01storage/
 ---
 
 ## Uid.PrivatePhilipsHpLive3D01Storage field

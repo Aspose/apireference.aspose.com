@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02A4 VRDS VM1 Transfer Tube Length.
 type: docs
 weight: 49370
-url: /aspose.medical.dicom.tags/tag/transfertubelength/
+url: /net/aspose.medical.dicom.tags/tag/transfertubelength/
 ---
 
 ## Tag.TransferTubeLength field

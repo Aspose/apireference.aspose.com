@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040100A VRSQ VM1 Reason for Requested Procedure Code Sequence.
 type: docs
 weight: 35180
-url: /aspose.medical.dicom.tags/tag/reasonforrequestedprocedurecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/reasonforrequestedprocedurecodesequence/
 ---
 
 ## Tag.ReasonForRequestedProcedureCodeSequence field

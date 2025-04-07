@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189379 VRSQ VM1 Multi-energy CT Path Sequence.
 type: docs
 weight: 25440
-url: /aspose.medical.dicom.tags/tag/multienergyctpathsequence/
+url: /net/aspose.medical.dicom.tags/tag/multienergyctpathsequence/
 ---
 
 ## Tag.MultienergyCTPathSequence field

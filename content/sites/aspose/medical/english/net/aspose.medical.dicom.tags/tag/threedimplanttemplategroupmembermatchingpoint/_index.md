@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00780050 VRFD VM3 3D Implant Template Group Member Matching Point.
 type: docs
 weight: 48140
-url: /aspose.medical.dicom.tags/tag/threedimplanttemplategroupmembermatchingpoint/
+url: /net/aspose.medical.dicom.tags/tag/threedimplanttemplategroupmembermatchingpoint/
 ---
 
 ## Tag.ThreeDImplantTemplateGroupMemberMatchingPoint field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008114A VRSQ VM1 Referenced Instance Sequence.
 type: docs
 weight: 36610
-url: /aspose.medical.dicom.tags/tag/referencedinstancesequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedinstancesequence/
 ---
 
 ## Tag.ReferencedInstanceSequence field

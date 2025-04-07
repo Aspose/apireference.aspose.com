@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146029 VRCS VM1 Cutoff Filter Type RETIRED.
 type: docs
 weight: 9600
-url: /aspose.medical.dicom.tags/tag/cutofffiltertyperetired/
+url: /net/aspose.medical.dicom.tags/tag/cutofffiltertyperetired/
 ---
 
 ## Tag.CutoffFilterTypeRETIRED field

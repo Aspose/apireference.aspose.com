@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx0040 VRSH VM1-n Axis Labels RETIRED.
 type: docs
 weight: 3110
-url: /aspose.medical.dicom.tags/tag/axislabelsretired/
+url: /net/aspose.medical.dicom.tags/tag/axislabelsretired/
 ---
 
 ## Tag.AxisLabelsRETIRED field

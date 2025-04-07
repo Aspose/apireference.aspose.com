@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 007800A0 VRFD VM4 2D Implant Template Group Member Matching Axes.
 type: docs
 weight: 50160
-url: /aspose.medical.dicom.tags/tag/twodimplanttemplategroupmembermatchingaxes/
+url: /net/aspose.medical.dicom.tags/tag/twodimplanttemplategroupmembermatchingaxes/
 ---
 
 ## Tag.TwoDImplantTemplateGroupMemberMatchingAxes field

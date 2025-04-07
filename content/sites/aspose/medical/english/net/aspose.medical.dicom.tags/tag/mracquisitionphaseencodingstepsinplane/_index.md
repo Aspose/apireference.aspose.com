@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189231 VRUS VM1 MR Acquisition Phase Encoding Steps in-plane.
 type: docs
 weight: 25140
-url: /aspose.medical.dicom.tags/tag/mracquisitionphaseencodingstepsinplane/
+url: /net/aspose.medical.dicom.tags/tag/mracquisitionphaseencodingstepsinplane/
 ---
 
 ## Tag.MRAcquisitionPhaseEncodingStepsInPlane field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00620020 VRUT VM1 Tracking ID.
 type: docs
 weight: 49060
-url: /aspose.medical.dicom.tags/tag/trackingid/
+url: /net/aspose.medical.dicom.tags/tag/trackingid/
 ---
 
 ## Tag.TrackingID field

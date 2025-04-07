@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811B0 VRLO VM1 Acquisition Mode.
 type: docs
 weight: 400
-url: /aspose.medical.dicom.tags/tag/acquisitionmode/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionmode/
 ---
 
 ## Tag.AcquisitionMode field

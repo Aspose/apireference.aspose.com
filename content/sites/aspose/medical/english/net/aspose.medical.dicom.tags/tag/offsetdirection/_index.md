@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189905 VRCS VM1 Offset Direction.
 type: docs
 weight: 27560
-url: /aspose.medical.dicom.tags/tag/offsetdirection/
+url: /net/aspose.medical.dicom.tags/tag/offsetdirection/
 ---
 
 ## Tag.OffsetDirection field

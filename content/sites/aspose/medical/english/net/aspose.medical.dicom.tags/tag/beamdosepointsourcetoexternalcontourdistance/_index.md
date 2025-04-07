@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0094 VRDS VM1 Beam Dose Point Source to External Contour Distance.
 type: docs
 weight: 3360
-url: /aspose.medical.dicom.tags/tag/beamdosepointsourcetoexternalcontourdistance/
+url: /net/aspose.medical.dicom.tags/tag/beamdosepointsourcetoexternalcontourdistance/
 ---
 
 ## Tag.BeamDosePointSourceToExternalContourDistance field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189510 VRFL VM1 Primary Positioner Scan Start Angle.
 type: docs
 weight: 32820
-url: /aspose.medical.dicom.tags/tag/primarypositionerscanstartangle/
+url: /net/aspose.medical.dicom.tags/tag/primarypositionerscanstartangle/
 ---
 
 ## Tag.PrimaryPositionerScanStartAngle field

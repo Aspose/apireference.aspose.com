@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187016 VRDS VM1 Detector Activation Offset From Exposure.
 type: docs
 weight: 10870
-url: /aspose.medical.dicom.tags/tag/detectoractivationoffsetfromexposure/
+url: /net/aspose.medical.dicom.tags/tag/detectoractivationoffsetfromexposure/
 ---
 
 ## Tag.DetectorActivationOffsetFromExposure field

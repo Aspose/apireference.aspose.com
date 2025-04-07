@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0245 VRFL VM1 Channel Position.
 type: docs
 weight: 5580
-url: /aspose.medical.dicom.tags/tag/channelposition/
+url: /net/aspose.medical.dicom.tags/tag/channelposition/
 ---
 
 ## Tag.ChannelPosition field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100030 VRDA VM1 Patients Birth Date.
 type: docs
 weight: 29710
-url: /aspose.medical.dicom.tags/tag/patientbirthdate/
+url: /net/aspose.medical.dicom.tags/tag/patientbirthdate/
 ---
 
 ## Tag.PatientBirthDate field

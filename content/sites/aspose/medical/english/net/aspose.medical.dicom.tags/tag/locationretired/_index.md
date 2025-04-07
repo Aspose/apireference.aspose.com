@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200050 VRDS VM1 Location RETIRED.
 type: docs
 weight: 22960
-url: /aspose.medical.dicom.tags/tag/locationretired/
+url: /net/aspose.medical.dicom.tags/tag/locationretired/
 ---
 
 ## Tag.LocationRETIRED field

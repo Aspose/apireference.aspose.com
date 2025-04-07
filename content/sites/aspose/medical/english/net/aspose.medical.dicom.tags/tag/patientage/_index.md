@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00101010 VRAS VM1 Patients Age.
 type: docs
 weight: 29690
-url: /aspose.medical.dicom.tags/tag/patientage/
+url: /net/aspose.medical.dicom.tags/tag/patientage/
 ---
 
 ## Tag.PatientAge field

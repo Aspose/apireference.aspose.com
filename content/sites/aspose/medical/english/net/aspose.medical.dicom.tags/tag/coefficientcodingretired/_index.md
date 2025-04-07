@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 002804x2 VRLO VM1-n Coefficient Coding RETIRED.
 type: docs
 weight: 6230
-url: /aspose.medical.dicom.tags/tag/coefficientcodingretired/
+url: /net/aspose.medical.dicom.tags/tag/coefficientcodingretired/
 ---
 
 ## Tag.CoefficientCodingRETIRED field

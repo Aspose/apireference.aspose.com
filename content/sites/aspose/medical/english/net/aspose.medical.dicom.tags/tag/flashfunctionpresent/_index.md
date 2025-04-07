@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160014 VRUS VM1 Flash Function Present.
 type: docs
 weight: 15840
-url: /aspose.medical.dicom.tags/tag/flashfunctionpresent/
+url: /net/aspose.medical.dicom.tags/tag/flashfunctionpresent/
 ---
 
 ## Tag.FlashFunctionPresent field

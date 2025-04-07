@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080410 VRSQ VM1 Range Matching Sequence.
 type: docs
 weight: 34790
-url: /aspose.medical.dicom.tags/tag/rangematchingsequence/
+url: /net/aspose.medical.dicom.tags/tag/rangematchingsequence/
 ---
 
 ## Tag.RangeMatchingSequence field

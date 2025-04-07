@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: JPEG Extended Hierarchical Process 16 amp 18 Retired 1.2.840.10008.1.2.4.59.
 type: docs
 weight: 320
-url: /aspose.medical.dicom/transfersyntax/jpegprocess1618retired/
+url: /net/aspose.medical.dicom/transfersyntax/jpegprocess1618retired/
 ---
 
 ## TransferSyntax.JpegProcess1618Retired field

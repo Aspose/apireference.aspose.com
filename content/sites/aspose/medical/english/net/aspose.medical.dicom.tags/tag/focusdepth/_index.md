@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185012 VRDS VM1 Focus Depth.
 type: docs
 weight: 16190
-url: /aspose.medical.dicom.tags/tag/focusdepth/
+url: /net/aspose.medical.dicom.tags/tag/focusdepth/
 ---
 
 ## Tag.FocusDepth field

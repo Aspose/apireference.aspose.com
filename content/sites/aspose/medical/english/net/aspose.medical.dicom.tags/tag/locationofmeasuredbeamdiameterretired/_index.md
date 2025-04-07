@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144019 VRDS VM1 Location of Measured Beam Diameter RETIRED.
 type: docs
 weight: 22950
-url: /aspose.medical.dicom.tags/tag/locationofmeasuredbeamdiameterretired/
+url: /net/aspose.medical.dicom.tags/tag/locationofmeasuredbeamdiameterretired/
 ---
 
 ## Tag.LocationOfMeasuredBeamDiameterRETIRED field

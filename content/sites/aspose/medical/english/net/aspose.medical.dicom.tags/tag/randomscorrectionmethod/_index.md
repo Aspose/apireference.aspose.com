@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541100 VRCS VM1 Randoms Correction Method.
 type: docs
 weight: 34780
-url: /aspose.medical.dicom.tags/tag/randomscorrectionmethod/
+url: /net/aspose.medical.dicom.tags/tag/randomscorrectionmethod/
 ---
 
 ## Tag.RandomsCorrectionMethod field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700006 VRST VM1 Unformatted Text Value.
 type: docs
 weight: 50430
-url: /aspose.medical.dicom.tags/tag/unformattedtextvalue/
+url: /net/aspose.medical.dicom.tags/tag/unformattedtextvalue/
 ---
 
 ## Tag.UnformattedTextValue field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700003 VRCS VM1 Bounding Box Annotation Units.
 type: docs
 weight: 4330
-url: /aspose.medical.dicom.tags/tag/boundingboxannotationunits/
+url: /net/aspose.medical.dicom.tags/tag/boundingboxannotationunits/
 ---
 
 ## Tag.BoundingBoxAnnotationUnits field

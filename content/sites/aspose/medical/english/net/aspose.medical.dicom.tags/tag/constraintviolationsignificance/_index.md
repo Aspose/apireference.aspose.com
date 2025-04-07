@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820036 VRCS VM1 Constraint Violation Significance.
 type: docs
 weight: 7650
-url: /aspose.medical.dicom.tags/tag/constraintviolationsignificance/
+url: /net/aspose.medical.dicom.tags/tag/constraintviolationsignificance/
 ---
 
 ## Tag.ConstraintViolationSignificance field

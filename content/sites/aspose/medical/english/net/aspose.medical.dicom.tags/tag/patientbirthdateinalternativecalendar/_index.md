@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100033 VRLO VM1 Patients Birth Date in Alternative Calendar.
 type: docs
 weight: 29720
-url: /aspose.medical.dicom.tags/tag/patientbirthdateinalternativecalendar/
+url: /net/aspose.medical.dicom.tags/tag/patientbirthdateinalternativecalendar/
 ---
 
 ## Tag.PatientBirthDateInAlternativeCalendar field

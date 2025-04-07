@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145111 VRLO VM1 Wedge Description RETIRED.
 type: docs
 weight: 52120
-url: /aspose.medical.dicom.tags/tag/wedgedescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/wedgedescriptionretired/
 ---
 
 ## Tag.WedgeDescriptionRETIRED field

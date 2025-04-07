@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240020 VRFL VM1 Background Luminance.
 type: docs
 weight: 3170
-url: /aspose.medical.dicom.tags/tag/backgroundluminance/
+url: /net/aspose.medical.dicom.tags/tag/backgroundluminance/
 ---
 
 ## Tag.BackgroundLuminance field

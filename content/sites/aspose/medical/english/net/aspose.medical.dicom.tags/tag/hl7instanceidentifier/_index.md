@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040E001 VRST VM1 HL7 Instance Identifier.
 type: docs
 weight: 18440
-url: /aspose.medical.dicom.tags/tag/hl7instanceidentifier/
+url: /net/aspose.medical.dicom.tags/tag/hl7instanceidentifier/
 ---
 
 ## Tag.HL7InstanceIdentifier field

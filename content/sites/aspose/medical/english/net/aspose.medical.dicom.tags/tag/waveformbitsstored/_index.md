@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A021A VRUS VM1 Waveform Bits Stored.
 type: docs
 weight: 51930
-url: /aspose.medical.dicom.tags/tag/waveformbitsstored/
+url: /net/aspose.medical.dicom.tags/tag/waveformbitsstored/
 ---
 
 ## Tag.WaveformBitsStored field

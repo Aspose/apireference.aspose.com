@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008225C VRSQ VM1 On Axis Background Anatomic Structure Code Sequence Trial RETIRED.
 type: docs
 weight: 27660
-url: /aspose.medical.dicom.tags/tag/onaxisbackgroundanatomicstructurecodesequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/onaxisbackgroundanatomicstructurecodesequencetrialretired/
 ---
 
 ## Tag.OnAxisBackgroundAnatomicStructureCodeSequenceTrialRETIRED field

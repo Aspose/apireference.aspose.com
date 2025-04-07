@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189942 VRFD VM1 CTDIvol Notification Trigger.
 type: docs
 weight: 9230
-url: /aspose.medical.dicom.tags/tag/ctdivolnotificationtrigger/
+url: /net/aspose.medical.dicom.tags/tag/ctdivolnotificationtrigger/
 ---
 
 ## Tag.CTDIvolNotificationTrigger field

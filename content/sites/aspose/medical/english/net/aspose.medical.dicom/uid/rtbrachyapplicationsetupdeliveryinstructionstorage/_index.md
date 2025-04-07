@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class RT Brachy Application Setup Delivery Instruction Storage.
 type: docs
 weight: 4040
-url: /aspose.medical.dicom/uid/rtbrachyapplicationsetupdeliveryinstructionstorage/
+url: /net/aspose.medical.dicom/uid/rtbrachyapplicationsetupdeliveryinstructionstorage/
 ---
 
 ## Uid.RTBrachyApplicationSetupDeliveryInstructionStorage field

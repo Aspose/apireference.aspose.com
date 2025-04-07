@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A01A2 VRCS VM1 Shielding Device Type.
 type: docs
 weight: 43210
-url: /aspose.medical.dicom.tags/tag/shieldingdevicetype/
+url: /net/aspose.medical.dicom.tags/tag/shieldingdevicetype/
 ---
 
 ## Tag.ShieldingDeviceType field

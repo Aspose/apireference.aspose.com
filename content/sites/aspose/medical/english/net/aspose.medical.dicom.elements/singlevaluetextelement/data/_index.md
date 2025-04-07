@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Text element value. Read/Write String.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.elements/singlevaluetextelement/data/
+url: /net/aspose.medical.dicom.elements/singlevaluetextelement/data/
 ---
 
 ## SingleValueTextElement.Data property

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 007800B0 VRSQ VM1 Implant Template Group Variation Dimension Sequence.
 type: docs
 weight: 20010
-url: /aspose.medical.dicom.tags/tag/implanttemplategroupvariationdimensionsequence/
+url: /net/aspose.medical.dicom.tags/tag/implanttemplategroupvariationdimensionsequence/
 ---
 
 ## Tag.ImplantTemplateGroupVariationDimensionSequence field

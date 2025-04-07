@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00001023 VRUS VM1 Number of Warning Sub-operations.
 type: docs
 weight: 27120
-url: /aspose.medical.dicom.tags/tag/numberofwarningsuboperations/
+url: /net/aspose.medical.dicom.tags/tag/numberofwarningsuboperations/
 ---
 
 ## Tag.NumberOfWarningSuboperations field

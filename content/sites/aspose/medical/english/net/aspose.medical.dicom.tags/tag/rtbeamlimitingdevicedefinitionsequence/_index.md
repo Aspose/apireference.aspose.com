@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A064D VRSQ VM1 RT Beam Limiting Device Definition Sequence.
 type: docs
 weight: 39970
-url: /aspose.medical.dicom.tags/tag/rtbeamlimitingdevicedefinitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/rtbeamlimitingdevicedefinitionsequence/
 ---
 
 ## Tag.RTBeamLimitingDeviceDefinitionSequence field

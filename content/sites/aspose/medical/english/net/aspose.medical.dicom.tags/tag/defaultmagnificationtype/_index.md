@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 201000A6 VRCS VM1 Default Magnification Type.
 type: docs
 weight: 10360
-url: /aspose.medical.dicom.tags/tag/defaultmagnificationtype/
+url: /net/aspose.medical.dicom.tags/tag/defaultmagnificationtype/
 ---
 
 ## Tag.DefaultMagnificationType field

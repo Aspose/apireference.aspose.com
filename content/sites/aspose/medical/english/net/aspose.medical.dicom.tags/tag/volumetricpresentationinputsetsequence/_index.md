@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0070120A VRSQ VM1 Volumetric Presentation Input Set Sequence.
 type: docs
 weight: 51760
-url: /aspose.medical.dicom.tags/tag/volumetricpresentationinputsetsequence/
+url: /net/aspose.medical.dicom.tags/tag/volumetricpresentationinputsetsequence/
 ---
 
 ## Tag.VolumetricPresentationInputSetSequence field

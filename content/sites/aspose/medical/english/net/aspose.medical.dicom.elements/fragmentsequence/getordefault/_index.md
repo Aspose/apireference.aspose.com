@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 100
-url: /aspose.medical.dicom.elements/fragmentsequence/getordefault/
+url: /net/aspose.medical.dicom.elements/fragmentsequence/getordefault/
 ---
 
 ## GetOrDefault&lt;T&gt;(int) {#getordefault}

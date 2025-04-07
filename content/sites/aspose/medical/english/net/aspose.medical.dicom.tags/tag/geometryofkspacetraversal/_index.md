@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189032 VRCS VM1 Geometry of k-Space Traversal.
 type: docs
 weight: 17350
-url: /aspose.medical.dicom.tags/tag/geometryofkspacetraversal/
+url: /net/aspose.medical.dicom.tags/tag/geometryofkspacetraversal/
 ---
 
 ## Tag.GeometryOfKSpaceTraversal field

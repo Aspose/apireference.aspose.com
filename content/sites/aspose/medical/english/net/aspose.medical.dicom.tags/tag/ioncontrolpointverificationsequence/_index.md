@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0074104E VRSQ VM1 Ion Control Point Verification Sequence.
 type: docs
 weight: 21520
-url: /aspose.medical.dicom.tags/tag/ioncontrolpointverificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/ioncontrolpointverificationsequence/
 ---
 
 ## Tag.IonControlPointVerificationSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120062 VRCS VM1 Patient Identity Removed.
 type: docs
 weight: 29870
-url: /aspose.medical.dicom.tags/tag/patientidentityremoved/
+url: /net/aspose.medical.dicom.tags/tag/patientidentityremoved/
 ---
 
 ## Tag.PatientIdentityRemoved field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The image height in px units. Read-only Int32.
 type: docs
 weight: 20
-url: /aspose.medical.imaging/rawimage/height/
+url: /net/aspose.medical.imaging/rawimage/height/
 ---
 
 ## RawImage.Height property

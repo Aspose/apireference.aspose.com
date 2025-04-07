@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class DICOS Quadrupole Resonance QR Storage.
 type: docs
 weight: 1190
-url: /aspose.medical.dicom/uid/dicosquadrupoleresonanceqrstorage/
+url: /net/aspose.medical.dicom/uid/dicosquadrupoleresonanceqrstorage/
 ---
 
 ## Uid.DICOSQuadrupoleResonanceQRStorage field

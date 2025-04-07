@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3008002B VRSH VM1 Treatment Termination Code RETIRED.
 type: docs
 weight: 49870
-url: /aspose.medical.dicom.tags/tag/treatmentterminationcoderetired/
+url: /net/aspose.medical.dicom.tags/tag/treatmentterminationcoderetired/
 ---
 
 ## Tag.TreatmentTerminationCodeRETIRED field

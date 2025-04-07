@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3006002C VRDS VM1 ROI Volume.
 type: docs
 weight: 39610
-url: /aspose.medical.dicom.tags/tag/roivolume/
+url: /net/aspose.medical.dicom.tags/tag/roivolume/
 ---
 
 ## Tag.ROIVolume field

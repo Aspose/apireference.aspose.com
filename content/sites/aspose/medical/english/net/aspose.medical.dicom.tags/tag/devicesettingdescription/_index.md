@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016004B VROB VM1 Device Setting Description.
 type: docs
 weight: 11460
-url: /aspose.medical.dicom.tags/tag/devicesettingdescription/
+url: /net/aspose.medical.dicom.tags/tag/devicesettingdescription/
 ---
 
 ## Tag.DeviceSettingDescription field

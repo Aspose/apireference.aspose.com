@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Legacy Converted Enhanced PET Image Storage.
 type: docs
 weight: 2510
-url: /aspose.medical.dicom/uid/legacyconvertedenhancedpetimagestorage/
+url: /net/aspose.medical.dicom/uid/legacyconvertedenhancedpetimagestorage/
 ---
 
 ## Uid.LegacyConvertedEnhancedPETImageStorage field

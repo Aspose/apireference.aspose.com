@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A034C VRSH VM1 Beam Current Modulation ID.
 type: docs
 weight: 3290
-url: /aspose.medical.dicom.tags/tag/beamcurrentmodulationid/
+url: /net/aspose.medical.dicom.tags/tag/beamcurrentmodulationid/
 ---
 
 ## Tag.BeamCurrentModulationID field

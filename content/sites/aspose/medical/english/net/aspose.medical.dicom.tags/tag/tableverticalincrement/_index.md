@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181135 VRDS VM1-n Table Vertical Increment.
 type: docs
 weight: 47200
-url: /aspose.medical.dicom.tags/tag/tableverticalincrement/
+url: /net/aspose.medical.dicom.tags/tag/tableverticalincrement/
 ---
 
 ## Tag.TableVerticalIncrement field

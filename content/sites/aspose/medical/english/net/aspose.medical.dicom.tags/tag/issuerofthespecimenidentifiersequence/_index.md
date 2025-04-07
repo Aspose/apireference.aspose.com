@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400562 VRSQ VM1 Issuer of the Specimen Identifier Sequence.
 type: docs
 weight: 21900
-url: /aspose.medical.dicom.tags/tag/issuerofthespecimenidentifiersequence/
+url: /net/aspose.medical.dicom.tags/tag/issuerofthespecimenidentifiersequence/
 ---
 
 ## Tag.IssuerOfTheSpecimenIdentifierSequence field

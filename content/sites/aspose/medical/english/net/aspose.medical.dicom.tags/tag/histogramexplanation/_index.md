@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00603010 VRLO VM1 Histogram Explanation.
 type: docs
 weight: 18360
-url: /aspose.medical.dicom.tags/tag/histogramexplanation/
+url: /net/aspose.medical.dicom.tags/tag/histogramexplanation/
 ---
 
 ## Tag.HistogramExplanation field

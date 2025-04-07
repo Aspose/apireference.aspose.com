@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220020 VRSQ VM1 Stereo Pairs Sequence.
 type: docs
 weight: 45540
-url: /aspose.medical.dicom.tags/tag/stereopairssequence/
+url: /net/aspose.medical.dicom.tags/tag/stereopairssequence/
 ---
 
 ## Tag.StereoPairsSequence field

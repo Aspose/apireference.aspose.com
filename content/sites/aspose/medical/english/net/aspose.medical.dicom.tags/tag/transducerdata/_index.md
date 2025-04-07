@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185010 VRLO VM1-n Transducer Data.
 type: docs
 weight: 49220
-url: /aspose.medical.dicom.tags/tag/transducerdata/
+url: /net/aspose.medical.dicom.tags/tag/transducerdata/
 ---
 
 ## Tag.TransducerData field

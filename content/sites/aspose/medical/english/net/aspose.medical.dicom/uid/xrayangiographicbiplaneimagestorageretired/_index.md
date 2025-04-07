@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class X-Ray Angiographic Bi-Plane Image Storage Retired.
 type: docs
 weight: 5210
-url: /aspose.medical.dicom/uid/xrayangiographicbiplaneimagestorageretired/
+url: /net/aspose.medical.dicom/uid/xrayangiographicbiplaneimagestorageretired/
 ---
 
 ## Uid.XRayAngiographicBiPlaneImageStorageRetired field

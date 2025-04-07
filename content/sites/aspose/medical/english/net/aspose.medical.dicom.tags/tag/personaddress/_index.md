@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401102 VRST VM1 Persons Address.
 type: docs
 weight: 30900
-url: /aspose.medical.dicom.tags/tag/personaddress/
+url: /net/aspose.medical.dicom.tags/tag/personaddress/
 ---
 
 ## Tag.PersonAddress field

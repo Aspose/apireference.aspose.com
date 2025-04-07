@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018704C VRDS VM1 Grid Focal Distance.
 type: docs
 weight: 18040
-url: /aspose.medical.dicom.tags/tag/gridfocaldistance/
+url: /net/aspose.medical.dicom.tags/tag/gridfocaldistance/
 ---
 
 ## Tag.GridFocalDistance field

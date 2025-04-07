@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040B03D VRUS VM1 Montage Index.
 type: docs
 weight: 24930
-url: /aspose.medical.dicom.tags/tag/montageindex/
+url: /net/aspose.medical.dicom.tags/tag/montageindex/
 ---
 
 ## Tag.MontageIndex field

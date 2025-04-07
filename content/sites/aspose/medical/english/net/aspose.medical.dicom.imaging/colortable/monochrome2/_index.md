@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Look-up table representing MONOCHROME2 grayscale scheme. Read-only Bgra32aspose.medical.imaging.pixelformats/bgra32s array.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.imaging/colortable/monochrome2/
+url: /net/aspose.medical.dicom.imaging/colortable/monochrome2/
 ---
 
 ## ColorTable.Monochrome2 property

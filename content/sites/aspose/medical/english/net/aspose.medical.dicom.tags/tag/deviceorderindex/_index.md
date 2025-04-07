@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A065E VRUS VM1 Device Order Index.
 type: docs
 weight: 11410
-url: /aspose.medical.dicom.tags/tag/deviceorderindex/
+url: /net/aspose.medical.dicom.tags/tag/deviceorderindex/
 ---
 
 ## Tag.DeviceOrderIndex field

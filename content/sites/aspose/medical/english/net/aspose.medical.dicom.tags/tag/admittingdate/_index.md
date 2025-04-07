@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380020 VRDA VM1 Admitting Date.
 type: docs
 weight: 960
-url: /aspose.medical.dicom.tags/tag/admittingdate/
+url: /net/aspose.medical.dicom.tags/tag/admittingdate/
 ---
 
 ## Tag.AdmittingDate field

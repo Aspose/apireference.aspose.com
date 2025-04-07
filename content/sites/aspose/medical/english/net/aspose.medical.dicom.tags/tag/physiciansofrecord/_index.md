@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081048 VRPN VM1-n Physicians of Record.
 type: docs
 weight: 31280
-url: /aspose.medical.dicom.tags/tag/physiciansofrecord/
+url: /net/aspose.medical.dicom.tags/tag/physiciansofrecord/
 ---
 
 ## Tag.PhysiciansOfRecord field

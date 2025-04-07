@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080065 VRAT VM1 Parameter Pointer.
 type: docs
 weight: 29530
-url: /aspose.medical.dicom.tags/tag/parameterpointer/
+url: /net/aspose.medical.dicom.tags/tag/parameterpointer/
 ---
 
 ## Tag.ParameterPointer field

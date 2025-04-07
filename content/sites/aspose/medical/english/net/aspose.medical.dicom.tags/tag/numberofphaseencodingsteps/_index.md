@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180089 VRIS VM1 Number of Phase Encoding Steps.
 type: docs
 weight: 26640
-url: /aspose.medical.dicom.tags/tag/numberofphaseencodingsteps/
+url: /net/aspose.medical.dicom.tags/tag/numberofphaseencodingsteps/
 ---
 
 ## Tag.NumberOfPhaseEncodingSteps field

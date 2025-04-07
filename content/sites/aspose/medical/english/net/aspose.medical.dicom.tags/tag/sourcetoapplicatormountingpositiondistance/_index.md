@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0436 VRFL VM1 Source to Applicator Mounting Position Distance.
 type: docs
 weight: 44550
-url: /aspose.medical.dicom.tags/tag/sourcetoapplicatormountingpositiondistance/
+url: /net/aspose.medical.dicom.tags/tag/sourcetoapplicatormountingpositiondistance/
 ---
 
 ## Tag.SourceToApplicatorMountingPositionDistance field

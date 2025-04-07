@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Name suffix or empty string. Read-only String.
 type: docs
 weight: 60
-url: /aspose.medical.dicom.elements/personname/namesuffix/
+url: /net/aspose.medical.dicom.elements/personname/namesuffix/
 ---
 
 ## PersonName.NameSuffix property

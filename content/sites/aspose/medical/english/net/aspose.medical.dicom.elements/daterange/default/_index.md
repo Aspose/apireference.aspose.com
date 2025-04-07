@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The default value of the date range staring from MinValue till MaxValue .
 type: docs
 weight: 20
-url: /aspose.medical.dicom.elements/daterange/default/
+url: /net/aspose.medical.dicom.elements/daterange/default/
 ---
 
 ## DateRange.Default field

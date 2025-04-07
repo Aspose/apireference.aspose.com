@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143020 VRSQ VM1 Detector Temperature Sequence RETIRED.
 type: docs
 weight: 11180
-url: /aspose.medical.dicom.tags/tag/detectortemperaturesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/detectortemperaturesequenceretired/
 ---
 
 ## Tag.DetectorTemperatureSequenceRETIRED field

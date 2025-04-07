@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C00C0 VRIS VM1 Referenced Wedge Number.
 type: docs
 weight: 37710
-url: /aspose.medical.dicom.tags/tag/referencedwedgenumber/
+url: /net/aspose.medical.dicom.tags/tag/referencedwedgenumber/
 ---
 
 ## Tag.ReferencedWedgeNumber field

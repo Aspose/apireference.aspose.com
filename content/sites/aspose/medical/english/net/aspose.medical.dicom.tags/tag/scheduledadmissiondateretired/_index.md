@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0038001A VRDA VM1 Scheduled Admission Date RETIRED.
 type: docs
 weight: 41270
-url: /aspose.medical.dicom.tags/tag/scheduledadmissiondateretired/
+url: /net/aspose.medical.dicom.tags/tag/scheduledadmissiondateretired/
 ---
 
 ## Tag.ScheduledAdmissionDateRETIRED field

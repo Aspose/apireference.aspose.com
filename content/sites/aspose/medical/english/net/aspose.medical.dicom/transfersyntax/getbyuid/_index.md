@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 580
-url: /aspose.medical.dicom/transfersyntax/getbyuid/
+url: /net/aspose.medical.dicom/transfersyntax/getbyuid/
 ---
 
 ## TransferSyntax.GetByUid method

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The default constructor.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.imaging.options/renderoptions/renderoptions/
+url: /net/aspose.medical.dicom.imaging.options/renderoptions/renderoptions/
 ---
 
 ## RenderOptions constructor

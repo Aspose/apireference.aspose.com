@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A01A0 VRSQ VM1 Shielding Device Sequence.
 type: docs
 weight: 43200
-url: /aspose.medical.dicom.tags/tag/shieldingdevicesequence/
+url: /net/aspose.medical.dicom.tags/tag/shieldingdevicesequence/
 ---
 
 ## Tag.ShieldingDeviceSequence field

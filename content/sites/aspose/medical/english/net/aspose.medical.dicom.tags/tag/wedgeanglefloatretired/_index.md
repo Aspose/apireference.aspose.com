@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145107 VRDS VM1 Wedge Angle Float RETIRED.
 type: docs
 weight: 52080
-url: /aspose.medical.dicom.tags/tag/wedgeanglefloatretired/
+url: /net/aspose.medical.dicom.tags/tag/wedgeanglefloatretired/
 ---
 
 ## Tag.WedgeAngleFloatRETIRED field

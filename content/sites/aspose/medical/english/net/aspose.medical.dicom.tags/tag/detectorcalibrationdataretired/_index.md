@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4010106C VROB VM1 Detector Calibration Data RETIRED.
 type: docs
 weight: 10950
-url: /aspose.medical.dicom.tags/tag/detectorcalibrationdataretired/
+url: /net/aspose.medical.dicom.tags/tag/detectorcalibrationdataretired/
 ---
 
 ## Tag.DetectorCalibrationDataRETIRED field

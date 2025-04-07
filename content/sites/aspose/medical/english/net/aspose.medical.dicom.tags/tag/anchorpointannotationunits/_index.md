@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700004 VRCS VM1 Anchor Point Annotation Units.
 type: docs
 weight: 1630
-url: /aspose.medical.dicom.tags/tag/anchorpointannotationunits/
+url: /net/aspose.medical.dicom.tags/tag/anchorpointannotationunits/
 ---
 
 ## Tag.AnchorPointAnnotationUnits field

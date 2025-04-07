@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00089205 VRCS VM1 Pixel Presentation.
 type: docs
 weight: 31510
-url: /aspose.medical.dicom.tags/tag/pixelpresentation/
+url: /net/aspose.medical.dicom.tags/tag/pixelpresentation/
 ---
 
 ## Tag.PixelPresentation field

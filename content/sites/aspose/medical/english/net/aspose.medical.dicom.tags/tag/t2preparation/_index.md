@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189021 VRCS VM1 T2 Preparation.
 type: docs
 weight: 46700
-url: /aspose.medical.dicom.tags/tag/t2preparation/
+url: /net/aspose.medical.dicom.tags/tag/t2preparation/
 ---
 
 ## Tag.T2Preparation field

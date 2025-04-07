@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281050 VRDS VM1-n Window Center.
 type: docs
 weight: 52540
-url: /aspose.medical.dicom.tags/tag/windowcenter/
+url: /net/aspose.medical.dicom.tags/tag/windowcenter/
 ---
 
 ## Tag.WindowCenter field

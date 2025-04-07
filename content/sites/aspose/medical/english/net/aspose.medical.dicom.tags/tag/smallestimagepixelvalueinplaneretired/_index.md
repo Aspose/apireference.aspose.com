@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280110 VRUS or SS VM1 Smallest Image Pixel Value in Plane RETIRED.
 type: docs
 weight: 43660
-url: /aspose.medical.dicom.tags/tag/smallestimagepixelvalueinplaneretired/
+url: /net/aspose.medical.dicom.tags/tag/smallestimagepixelvalueinplaneretired/
 ---
 
 ## Tag.SmallestImagePixelValueInPlaneRETIRED field

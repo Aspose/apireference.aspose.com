@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 5400100A VROB or OW VM1 Waveform Padding Value.
 type: docs
 weight: 52020
-url: /aspose.medical.dicom.tags/tag/waveformpaddingvalue/
+url: /net/aspose.medical.dicom.tags/tag/waveformpaddingvalue/
 ---
 
 ## Tag.WaveformPaddingValue field

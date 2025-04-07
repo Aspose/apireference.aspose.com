@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000561 VRSQ VM1 Original Attributes Sequence.
 type: docs
 weight: 28500
-url: /aspose.medical.dicom.tags/tag/originalattributessequence/
+url: /net/aspose.medical.dicom.tags/tag/originalattributessequence/
 ---
 
 ## Tag.OriginalAttributesSequence field

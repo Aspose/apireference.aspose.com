@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00283000 VRSQ VM1 Modality LUT Sequence.
 type: docs
 weight: 24660
-url: /aspose.medical.dicom.tags/tag/modalitylutsequence/
+url: /net/aspose.medical.dicom.tags/tag/modalitylutsequence/
 ---
 
 ## Tag.ModalityLUTSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Raw Data Storage.
 type: docs
 weight: 3870
-url: /aspose.medical.dicom/uid/rawdatastorage/
+url: /net/aspose.medical.dicom/uid/rawdatastorage/
 ---
 
 ## Uid.RawDataStorage field

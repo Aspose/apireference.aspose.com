@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460139 VRLO VM1 Optotype Detailed Definition.
 type: docs
 weight: 28340
-url: /aspose.medical.dicom.tags/tag/optotypedetaileddefinition/
+url: /net/aspose.medical.dicom.tags/tag/optotypedetaileddefinition/
 ---
 
 ## Tag.OptotypeDetailedDefinition field

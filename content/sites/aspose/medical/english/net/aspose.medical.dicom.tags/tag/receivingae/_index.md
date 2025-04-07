@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741234 VRAE VM1 Receiving AE.
 type: docs
 weight: 35360
-url: /aspose.medical.dicom.tags/tag/receivingae/
+url: /net/aspose.medical.dicom.tags/tag/receivingae/
 ---
 
 ## Tag.ReceivingAE field

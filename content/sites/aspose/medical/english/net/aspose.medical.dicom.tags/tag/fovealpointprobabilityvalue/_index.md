@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240118 VRFL VM1 Foveal Point Probability Value.
 type: docs
 weight: 16270
-url: /aspose.medical.dicom.tags/tag/fovealpointprobabilityvalue/
+url: /net/aspose.medical.dicom.tags/tag/fovealpointprobabilityvalue/
 ---
 
 ## Tag.FovealPointProbabilityValue field

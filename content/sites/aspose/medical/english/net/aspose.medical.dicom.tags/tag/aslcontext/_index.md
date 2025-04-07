@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189257 VRCS VM1 ASL Context.
 type: docs
 weight: 2390
-url: /aspose.medical.dicom.tags/tag/aslcontext/
+url: /net/aspose.medical.dicom.tags/tag/aslcontext/
 ---
 
 ## Tag.ASLContext field

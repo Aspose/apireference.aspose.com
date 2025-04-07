@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189401 VRSQ VM1 Projection Pixel Calibration Sequence.
 type: docs
 weight: 33600
-url: /aspose.medical.dicom.tags/tag/projectionpixelcalibrationsequence/
+url: /net/aspose.medical.dicom.tags/tag/projectionpixelcalibrationsequence/
 ---
 
 ## Tag.ProjectionPixelCalibrationSequence field

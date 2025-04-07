@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221640 VRSQ VM1 OCT B-scan Analysis Acquisition Parameters Sequence.
 type: docs
 weight: 27460
-url: /aspose.medical.dicom.tags/tag/octbscananalysisacquisitionparameterssequence/
+url: /net/aspose.medical.dicom.tags/tag/octbscananalysisacquisitionparameterssequence/
 ---
 
 ## Tag.OCTBscanAnalysisAcquisitionParametersSequence field

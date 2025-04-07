@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006862D0 VRUS VM1 HPGL Document ID.
 type: docs
 weight: 18570
-url: /aspose.medical.dicom.tags/tag/hpgldocumentid/
+url: /net/aspose.medical.dicom.tags/tag/hpgldocumentid/
 ---
 
 ## Tag.HPGLDocumentID field

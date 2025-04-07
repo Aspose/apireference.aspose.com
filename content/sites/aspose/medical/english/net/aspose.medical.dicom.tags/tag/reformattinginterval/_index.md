@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720514 VRFD VM1 Reformatting Interval.
 type: docs
 weight: 37890
-url: /aspose.medical.dicom.tags/tag/reformattinginterval/
+url: /net/aspose.medical.dicom.tags/tag/reformattinginterval/
 ---
 
 ## Tag.ReformattingInterval field

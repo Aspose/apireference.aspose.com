@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Floating Point Single FL.
 type: docs
 weight: 90
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/floatingpointsingle/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/floatingpointsingle/
 ---
 
 ## ValueRepresentation.FloatingPointSingle field

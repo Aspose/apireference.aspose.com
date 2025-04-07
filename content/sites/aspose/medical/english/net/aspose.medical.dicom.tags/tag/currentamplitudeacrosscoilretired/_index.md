@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014600E VRDS VM1 Current Amplitude Across Coil RETIRED.
 type: docs
 weight: 9370
-url: /aspose.medical.dicom.tags/tag/currentamplitudeacrosscoilretired/
+url: /net/aspose.medical.dicom.tags/tag/currentamplitudeacrosscoilretired/
 ---
 
 ## Tag.CurrentAmplitudeAcrossCoilRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281406 VRFD VM1 Blending Weight Constant.
 type: docs
 weight: 3930
-url: /aspose.medical.dicom.tags/tag/blendingweightconstant/
+url: /net/aspose.medical.dicom.tags/tag/blendingweightconstant/
 ---
 
 ## Tag.BlendingWeightConstant field

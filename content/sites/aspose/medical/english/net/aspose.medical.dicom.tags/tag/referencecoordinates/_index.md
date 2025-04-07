@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220032 VRFL VM2-2n Reference Coordinates.
 type: docs
 weight: 35970
-url: /aspose.medical.dicom.tags/tag/referencecoordinates/
+url: /net/aspose.medical.dicom.tags/tag/referencecoordinates/
 ---
 
 ## Tag.ReferenceCoordinates field

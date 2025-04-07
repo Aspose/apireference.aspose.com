@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189226 VRSQ VM1 MR Image Frame Type Sequence.
 type: docs
 weight: 25230
-url: /aspose.medical.dicom.tags/tag/mrimageframetypesequence/
+url: /net/aspose.medical.dicom.tags/tag/mrimageframetypesequence/
 ---
 
 ## Tag.MRImageFrameTypeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189516 VRDT VM1 Start Acquisition DateTime.
 type: docs
 weight: 45290
-url: /aspose.medical.dicom.tags/tag/startacquisitiondatetime/
+url: /net/aspose.medical.dicom.tags/tag/startacquisitiondatetime/
 ---
 
 ## Tag.StartAcquisitionDateTime field

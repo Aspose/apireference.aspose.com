@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00109431 VRFL VM1 Examined Body Thickness.
 type: docs
 weight: 14170
-url: /aspose.medical.dicom.tags/tag/examinedbodythickness/
+url: /net/aspose.medical.dicom.tags/tag/examinedbodythickness/
 ---
 
 ## Tag.ExaminedBodyThickness field

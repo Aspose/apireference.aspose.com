@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Creates ConfidentialityProfileaspose.medical.dicom.anonymization/confidentialityprofile based on the configuration specified in the given jsonString.
 type: docs
 weight: 80
-url: /aspose.medical.dicom.anonymization/confidentialityprofile/loadfromjsonstring/
+url: /net/aspose.medical.dicom.anonymization/confidentialityprofile/loadfromjsonstring/
 ---
 
 ## ConfidentialityProfile.LoadFromJsonString method

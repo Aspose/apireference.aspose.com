@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Color Softcopy Presentation State Storage.
 type: docs
 weight: 390
-url: /aspose.medical.dicom/uid/colorsoftcopypresentationstatestorage/
+url: /net/aspose.medical.dicom/uid/colorsoftcopypresentationstatestorage/
 ---
 
 ## Uid.ColorSoftcopyPresentationStateStorage field

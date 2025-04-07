@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541320 VRDS VM1 Slice Sensitivity Factor.
 type: docs
 weight: 43610
-url: /aspose.medical.dicom.tags/tag/slicesensitivityfactor/
+url: /net/aspose.medical.dicom.tags/tag/slicesensitivityfactor/
 ---
 
 ## Tag.SliceSensitivityFactor field

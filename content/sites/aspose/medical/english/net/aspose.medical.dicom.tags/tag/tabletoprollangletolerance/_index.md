@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0050 VRFL VM1 Table Top Roll Angle Tolerance.
 type: docs
 weight: 47120
-url: /aspose.medical.dicom.tags/tag/tabletoprollangletolerance/
+url: /net/aspose.medical.dicom.tags/tag/tabletoprollangletolerance/
 ---
 
 ## Tag.TableTopRollAngleTolerance field

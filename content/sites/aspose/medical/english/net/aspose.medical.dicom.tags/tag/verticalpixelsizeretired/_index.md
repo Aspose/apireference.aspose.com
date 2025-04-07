@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146023 VRDS VM1 Vertical Pixel Size RETIRED.
 type: docs
 weight: 51020
-url: /aspose.medical.dicom.tags/tag/verticalpixelsizeretired/
+url: /net/aspose.medical.dicom.tags/tag/verticalpixelsizeretired/
 ---
 
 ## Tag.VerticalPixelSizeRETIRED field

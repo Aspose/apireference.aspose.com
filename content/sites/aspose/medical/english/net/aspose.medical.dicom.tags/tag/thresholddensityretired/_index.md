@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20400100 VRCS VM1 Threshold Density RETIRED.
 type: docs
 weight: 48220
-url: /aspose.medical.dicom.tags/tag/thresholddensityretired/
+url: /net/aspose.medical.dicom.tags/tag/thresholddensityretired/
 ---
 
 ## Tag.ThresholdDensityRETIRED field

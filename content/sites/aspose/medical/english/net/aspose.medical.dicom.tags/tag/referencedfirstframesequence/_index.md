@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720427 VRSQ VM1 Referenced First Frame Sequence.
 type: docs
 weight: 36410
-url: /aspose.medical.dicom.tags/tag/referencedfirstframesequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedfirstframesequence/
 ---
 
 ## Tag.ReferencedFirstFrameSequence field

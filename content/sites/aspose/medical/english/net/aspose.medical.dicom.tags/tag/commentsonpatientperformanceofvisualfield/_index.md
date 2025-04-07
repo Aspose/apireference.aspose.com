@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240044 VRLT VM1 Comments on Patients Performance of Visual Field.
 type: docs
 weight: 6570
-url: /aspose.medical.dicom.tags/tag/commentsonpatientperformanceofvisualfield/
+url: /net/aspose.medical.dicom.tags/tag/commentsonpatientperformanceofvisualfield/
 ---
 
 ## Tag.CommentsOnPatientPerformanceOfVisualField field

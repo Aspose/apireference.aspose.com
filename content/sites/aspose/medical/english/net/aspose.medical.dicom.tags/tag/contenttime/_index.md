@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080033 VRTM VM1 Content Time.
 type: docs
 weight: 7940
-url: /aspose.medical.dicom.tags/tag/contenttime/
+url: /net/aspose.medical.dicom.tags/tag/contenttime/
 ---
 
 ## Tag.ContentTime field

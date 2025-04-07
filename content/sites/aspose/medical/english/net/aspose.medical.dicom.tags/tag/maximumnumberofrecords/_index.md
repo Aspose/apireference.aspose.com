@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080429 VRUV VM1 Maximum Number of Records.
 type: docs
 weight: 24010
-url: /aspose.medical.dicom.tags/tag/maximumnumberofrecords/
+url: /net/aspose.medical.dicom.tags/tag/maximumnumberofrecords/
 ---
 
 ## Tag.MaximumNumberOfRecords field

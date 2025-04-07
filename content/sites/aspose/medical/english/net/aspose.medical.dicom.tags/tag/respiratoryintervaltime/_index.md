@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209254 VRFD VM1 Respiratory Interval Time.
 type: docs
 weight: 38960
-url: /aspose.medical.dicom.tags/tag/respiratoryintervaltime/
+url: /net/aspose.medical.dicom.tags/tag/respiratoryintervaltime/
 ---
 
 ## Tag.RespiratoryIntervalTime field

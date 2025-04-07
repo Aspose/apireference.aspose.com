@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189751 VRSQ VM1 PET Frame Type Sequence.
 type: docs
 weight: 31030
-url: /aspose.medical.dicom.tags/tag/petframetypesequence/
+url: /net/aspose.medical.dicom.tags/tag/petframetypesequence/
 ---
 
 ## Tag.PETFrameTypeSequence field

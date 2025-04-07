@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0735 VRST VM1 Treatment Tolerance Violation Identification.
 type: docs
 weight: 49970
-url: /aspose.medical.dicom.tags/tag/treatmenttoleranceviolationidentification/
+url: /net/aspose.medical.dicom.tags/tag/treatmenttoleranceviolationidentification/
 ---
 
 ## Tag.TreatmentToleranceViolationIdentification field

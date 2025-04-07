@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100212 VRUC VM1 Strain Description.
 type: docs
 weight: 45750
-url: /aspose.medical.dicom.tags/tag/straindescription/
+url: /net/aspose.medical.dicom.tags/tag/straindescription/
 ---
 
 ## Tag.StrainDescription field

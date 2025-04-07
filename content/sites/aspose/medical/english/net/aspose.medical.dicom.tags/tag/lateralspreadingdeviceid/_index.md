@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0336 VRSH VM1 Lateral Spreading Device ID.
 type: docs
 weight: 22440
-url: /aspose.medical.dicom.tags/tag/lateralspreadingdeviceid/
+url: /net/aspose.medical.dicom.tags/tag/lateralspreadingdeviceid/
 ---
 
 ## Tag.LateralSpreadingDeviceID field

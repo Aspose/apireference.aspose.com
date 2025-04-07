@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0424 VRIS VM1 General Accessory Number.
 type: docs
 weight: 17140
-url: /aspose.medical.dicom.tags/tag/generalaccessorynumber/
+url: /net/aspose.medical.dicom.tags/tag/generalaccessorynumber/
 ---
 
 ## Tag.GeneralAccessoryNumber field

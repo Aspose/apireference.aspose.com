@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Indicates that fragment to be visited.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.traversal/walker/visitendfragment/
+url: /net/aspose.medical.dicom.traversal/walker/visitendfragment/
 ---
 
 ## Walker.VisitEndFragment method

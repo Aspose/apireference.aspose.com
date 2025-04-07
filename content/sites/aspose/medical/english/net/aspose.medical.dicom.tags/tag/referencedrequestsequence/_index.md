@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A370 VRSQ VM1 Referenced Request Sequence.
 type: docs
 weight: 37120
-url: /aspose.medical.dicom.tags/tag/referencedrequestsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedrequestsequence/
 ---
 
 ## Tag.ReferencedRequestSequence field

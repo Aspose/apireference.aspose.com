@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660022 VROD VM1 Double Point Coordinates Data.
 type: docs
 weight: 13030
-url: /aspose.medical.dicom.tags/tag/doublepointcoordinatesdata/
+url: /net/aspose.medical.dicom.tags/tag/doublepointcoordinatesdata/
 ---
 
 ## Tag.DoublePointCoordinatesData field

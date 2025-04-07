@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A034A VRLO VM1 Range Modulator Description.
 type: docs
 weight: 34800
-url: /aspose.medical.dicom.tags/tag/rangemodulatordescription/
+url: /net/aspose.medical.dicom.tags/tag/rangemodulatordescription/
 ---
 
 ## Tag.RangeModulatorDescription field

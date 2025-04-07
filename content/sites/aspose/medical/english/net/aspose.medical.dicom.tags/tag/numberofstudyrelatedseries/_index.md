@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00201206 VRIS VM1 Number of Study Related Series.
 type: docs
 weight: 26900
-url: /aspose.medical.dicom.tags/tag/numberofstudyrelatedseries/
+url: /net/aspose.medical.dicom.tags/tag/numberofstudyrelatedseries/
 ---
 
 ## Tag.NumberOfStudyRelatedSeries field

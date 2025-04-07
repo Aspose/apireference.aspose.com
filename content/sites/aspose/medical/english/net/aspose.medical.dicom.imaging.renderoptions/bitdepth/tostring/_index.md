@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 50
-url: /aspose.medical.dicom.imaging.renderoptions/bitdepth/tostring/
+url: /net/aspose.medical.dicom.imaging.renderoptions/bitdepth/tostring/
 ---
 
 ## BitDepth.ToString method

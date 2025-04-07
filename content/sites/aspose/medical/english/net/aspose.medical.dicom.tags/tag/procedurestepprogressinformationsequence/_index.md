@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741002 VRSQ VM1 Procedure Step Progress Information Sequence.
 type: docs
 weight: 33440
-url: /aspose.medical.dicom.tags/tag/procedurestepprogressinformationsequence/
+url: /net/aspose.medical.dicom.tags/tag/procedurestepprogressinformationsequence/
 ---
 
 ## Tag.ProcedureStepProgressInformationSequence field

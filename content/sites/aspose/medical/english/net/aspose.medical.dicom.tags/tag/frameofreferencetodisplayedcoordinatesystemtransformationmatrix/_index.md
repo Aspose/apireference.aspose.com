@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0070030B VRFD VM16 Frame of Reference to Displayed Coordinate System Transformation Matrix.
 type: docs
 weight: 16650
-url: /aspose.medical.dicom.tags/tag/frameofreferencetodisplayedcoordinatesystemtransformationmatrix/
+url: /net/aspose.medical.dicom.tags/tag/frameofreferencetodisplayedcoordinatesystemtransformationmatrix/
 ---
 
 ## Tag.FrameOfReferenceToDisplayedCoordinateSystemTransformationMatrix field

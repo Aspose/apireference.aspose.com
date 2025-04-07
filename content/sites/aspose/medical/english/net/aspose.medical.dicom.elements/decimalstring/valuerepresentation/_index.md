@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 20
-url: /aspose.medical.dicom.elements/decimalstring/valuerepresentation/
+url: /net/aspose.medical.dicom.elements/decimalstring/valuerepresentation/
 ---
 
 ## DecimalString.ValueRepresentation property

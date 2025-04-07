@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144084 VRDS VM1 Probe Inductance RETIRED.
 type: docs
 weight: 33250
-url: /aspose.medical.dicom.tags/tag/probeinductanceretired/
+url: /net/aspose.medical.dicom.tags/tag/probeinductanceretired/
 ---
 
 ## Tag.ProbeInductanceRETIRED field

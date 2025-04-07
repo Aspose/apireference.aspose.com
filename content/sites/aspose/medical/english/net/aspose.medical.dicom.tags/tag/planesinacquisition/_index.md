@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189410 VRCS VM1 Planes in Acquisition.
 type: docs
 weight: 31750
-url: /aspose.medical.dicom.tags/tag/planesinacquisition/
+url: /net/aspose.medical.dicom.tags/tag/planesinacquisition/
 ---
 
 ## Tag.PlanesInAcquisition field

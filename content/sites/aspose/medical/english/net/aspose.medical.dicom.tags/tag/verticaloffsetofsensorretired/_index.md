@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143026 VRDS VM1 Vertical Offset of Sensor RETIRED.
 type: docs
 weight: 51010
-url: /aspose.medical.dicom.tags/tag/verticaloffsetofsensorretired/
+url: /net/aspose.medical.dicom.tags/tag/verticaloffsetofsensorretired/
 ---
 
 ## Tag.VerticalOffsetOfSensorRETIRED field

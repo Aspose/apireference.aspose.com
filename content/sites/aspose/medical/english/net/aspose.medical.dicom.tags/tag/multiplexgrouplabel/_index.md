@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0020 VRSH VM1 Multiplex Group Label.
 type: docs
 weight: 25580
-url: /aspose.medical.dicom.tags/tag/multiplexgrouplabel/
+url: /net/aspose.medical.dicom.tags/tag/multiplexgrouplabel/
 ---
 
 ## Tag.MultiplexGroupLabel field

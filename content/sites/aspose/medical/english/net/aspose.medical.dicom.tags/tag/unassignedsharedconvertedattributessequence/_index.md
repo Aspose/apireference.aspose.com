@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209170 VRSQ VM1 Unassigned Shared Converted Attributes Sequence.
 type: docs
 weight: 50410
-url: /aspose.medical.dicom.tags/tag/unassignedsharedconvertedattributessequence/
+url: /net/aspose.medical.dicom.tags/tag/unassignedsharedconvertedattributessequence/
 ---
 
 ## Tag.UnassignedSharedConvertedAttributesSequence field

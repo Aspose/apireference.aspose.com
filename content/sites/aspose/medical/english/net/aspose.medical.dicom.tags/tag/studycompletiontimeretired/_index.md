@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321051 VRTM VM1 Study Completion Time RETIRED.
 type: docs
 weight: 45980
-url: /aspose.medical.dicom.tags/tag/studycompletiontimeretired/
+url: /net/aspose.medical.dicom.tags/tag/studycompletiontimeretired/
 ---
 
 ## Tag.StudyCompletionTimeRETIRED field

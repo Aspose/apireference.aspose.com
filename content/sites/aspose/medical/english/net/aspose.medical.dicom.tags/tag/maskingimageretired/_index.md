@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200080 VRCS VM1-n Masking Image RETIRED.
 type: docs
 weight: 23560
-url: /aspose.medical.dicom.tags/tag/maskingimageretired/
+url: /net/aspose.medical.dicom.tags/tag/maskingimageretired/
 ---
 
 ## Tag.MaskingImageRETIRED field

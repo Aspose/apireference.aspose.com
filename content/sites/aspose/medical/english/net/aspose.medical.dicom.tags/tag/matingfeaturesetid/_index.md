@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006863C0 VRUS VM1 Mating Feature Set ID.
 type: docs
 weight: 23800
-url: /aspose.medical.dicom.tags/tag/matingfeaturesetid/
+url: /net/aspose.medical.dicom.tags/tag/matingfeaturesetid/
 ---
 
 ## Tag.MatingFeatureSetID field

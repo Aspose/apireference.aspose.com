@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189830 VRFD VM1 Upper Cutoff Frequency.
 type: docs
 weight: 50530
-url: /aspose.medical.dicom.tags/tag/uppercutofffrequency/
+url: /net/aspose.medical.dicom.tags/tag/uppercutofffrequency/
 ---
 
 ## Tag.UpperCutoffFrequency field

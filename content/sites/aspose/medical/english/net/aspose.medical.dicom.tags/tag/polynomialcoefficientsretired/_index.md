@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014605F VRDS VM1-n PolynomialCoefficients RETIRED.
 type: docs
 weight: 31940
-url: /aspose.medical.dicom.tags/tag/polynomialcoefficientsretired/
+url: /net/aspose.medical.dicom.tags/tag/polynomialcoefficientsretired/
 ---
 
 ## Tag.PolynomialCoefficientsRETIRED field

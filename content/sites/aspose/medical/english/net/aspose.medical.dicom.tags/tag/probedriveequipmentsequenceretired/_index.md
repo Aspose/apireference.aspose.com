@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144080 VRSQ VM1 Probe Drive Equipment Sequence RETIRED.
 type: docs
 weight: 33220
-url: /aspose.medical.dicom.tags/tag/probedriveequipmentsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/probedriveequipmentsequenceretired/
 ---
 
 ## Tag.ProbeDriveEquipmentSequenceRETIRED field

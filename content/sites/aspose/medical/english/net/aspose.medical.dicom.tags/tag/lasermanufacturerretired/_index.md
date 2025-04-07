@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146039 VRLO VM1 Laser Manufacturer RETIRED.
 type: docs
 weight: 22350
-url: /aspose.medical.dicom.tags/tag/lasermanufacturerretired/
+url: /net/aspose.medical.dicom.tags/tag/lasermanufacturerretired/
 ---
 
 ## Tag.LaserManufacturerRETIRED field

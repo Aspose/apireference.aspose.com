@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Adds the given element to the dataset if the element with the Tagaspose.medical.dicom.elements/ielement/tag is not presented in the dataset or updates element value with the same tag.
 type: docs
 weight: 30
-url: /aspose.medical.dicom/dataset/addorupdate/
+url: /net/aspose.medical.dicom/dataset/addorupdate/
 ---
 
 ## AddOrUpdate(IElement) {#addorupdate}

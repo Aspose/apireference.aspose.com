@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00004000 VRLT VM1 Dialog Receiver RETIRED.
 type: docs
 weight: 11510
-url: /aspose.medical.dicom.tags/tag/dialogreceiverretired/
+url: /net/aspose.medical.dicom.tags/tag/dialogreceiverretired/
 ---
 
 ## Tag.DialogReceiverRETIRED field

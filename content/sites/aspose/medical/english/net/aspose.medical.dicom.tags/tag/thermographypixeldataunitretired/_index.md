@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146060 VRCS VM1 Thermography Pixel Data Unit RETIRED.
 type: docs
 weight: 48030
-url: /aspose.medical.dicom.tags/tag/thermographypixeldataunitretired/
+url: /net/aspose.medical.dicom.tags/tag/thermographypixeldataunitretired/
 ---
 
 ## Tag.ThermographyPixelDataUnitRETIRED field

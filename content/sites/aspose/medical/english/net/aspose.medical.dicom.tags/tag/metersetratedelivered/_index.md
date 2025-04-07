@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080046 VRFL VM1 Meterset Rate Delivered.
 type: docs
 weight: 24500
-url: /aspose.medical.dicom.tags/tag/metersetratedelivered/
+url: /net/aspose.medical.dicom.tags/tag/metersetratedelivered/
 ---
 
 ## Tag.MetersetRateDelivered field

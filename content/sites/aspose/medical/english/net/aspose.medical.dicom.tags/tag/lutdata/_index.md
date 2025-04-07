@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00283006 VRUS or OW VM1-n or 1 LUT Data.
 type: docs
 weight: 23190
-url: /aspose.medical.dicom.tags/tag/lutdata/
+url: /net/aspose.medical.dicom.tags/tag/lutdata/
 ---
 
 ## Tag.LUTData field

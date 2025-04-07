@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A007B VRLT VM1 Fraction Pattern.
 type: docs
 weight: 16410
-url: /aspose.medical.dicom.tags/tag/fractionpattern/
+url: /net/aspose.medical.dicom.tags/tag/fractionpattern/
 ---
 
 ## Tag.FractionPattern field

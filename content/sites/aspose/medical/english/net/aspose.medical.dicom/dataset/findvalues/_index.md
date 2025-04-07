@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Returns the element values of the specified tag if the element exists in the dataset otherwise empty set.
 type: docs
 weight: 70
-url: /aspose.medical.dicom/dataset/findvalues/
+url: /net/aspose.medical.dicom/dataset/findvalues/
 ---
 
 ## Dataset.FindValues&lt;T&gt; method

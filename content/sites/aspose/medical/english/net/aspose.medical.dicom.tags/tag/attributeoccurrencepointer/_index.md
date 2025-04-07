@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741052 VRAT VM1 Attribute Occurrence Pointer.
 type: docs
 weight: 2810
-url: /aspose.medical.dicom.tags/tag/attributeoccurrencepointer/
+url: /net/aspose.medical.dicom.tags/tag/attributeoccurrencepointer/
 ---
 
 ## Tag.AttributeOccurrencePointer field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080031 VRTM VM1 Series Time.
 type: docs
 weight: 42930
-url: /aspose.medical.dicom.tags/tag/seriestime/
+url: /net/aspose.medical.dicom.tags/tag/seriestime/
 ---
 
 ## Tag.SeriesTime field

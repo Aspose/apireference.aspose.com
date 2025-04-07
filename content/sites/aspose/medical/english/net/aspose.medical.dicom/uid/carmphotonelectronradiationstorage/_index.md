@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class C-Arm Photon-Electron Radiation Storage.
 type: docs
 weight: 320
-url: /aspose.medical.dicom/uid/carmphotonelectronradiationstorage/
+url: /net/aspose.medical.dicom/uid/carmphotonelectronradiationstorage/
 ---
 
 ## Uid.CArmPhotonElectronRadiationStorage field

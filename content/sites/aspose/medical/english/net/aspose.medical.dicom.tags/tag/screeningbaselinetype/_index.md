@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240124 VRCS VM1 Screening Baseline Type.
 type: docs
 weight: 41690
-url: /aspose.medical.dicom.tags/tag/screeningbaselinetype/
+url: /net/aspose.medical.dicom.tags/tag/screeningbaselinetype/
 ---
 
 ## Tag.ScreeningBaselineType field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144057 VRDS VM1 Coupling Velocity RETIRED.
 type: docs
 weight: 9080
-url: /aspose.medical.dicom.tags/tag/couplingvelocityretired/
+url: /net/aspose.medical.dicom.tags/tag/couplingvelocityretired/
 ---
 
 ## Tag.CouplingVelocityRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221132 VRSQ VM1 Source of Lens Thickness Data Code Sequence.
 type: docs
 weight: 44340
-url: /aspose.medical.dicom.tags/tag/sourceoflensthicknessdatacodesequence/
+url: /net/aspose.medical.dicom.tags/tag/sourceoflensthicknessdatacodesequence/
 ---
 
 ## Tag.SourceOfLensThicknessDataCodeSequence field

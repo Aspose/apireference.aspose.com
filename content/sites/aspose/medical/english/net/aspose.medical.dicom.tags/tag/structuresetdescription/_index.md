@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060006 VRST VM1 Structure Set Description.
 type: docs
 weight: 45870
-url: /aspose.medical.dicom.tags/tag/structuresetdescription/
+url: /net/aspose.medical.dicom.tags/tag/structuresetdescription/
 ---
 
 ## Tag.StructureSetDescription field

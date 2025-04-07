@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060008 VRDA VM1 Structure Set Date.
 type: docs
 weight: 45860
-url: /aspose.medical.dicom.tags/tag/structuresetdate/
+url: /net/aspose.medical.dicom.tags/tag/structuresetdate/
 ---
 
 ## Tag.StructureSetDate field

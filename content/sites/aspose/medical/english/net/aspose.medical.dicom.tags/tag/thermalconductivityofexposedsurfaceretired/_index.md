@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146046 VRDS VM1 Thermal Conductivity of Exposed Surface RETIRED.
 type: docs
 weight: 47950
-url: /aspose.medical.dicom.tags/tag/thermalconductivityofexposedsurfaceretired/
+url: /net/aspose.medical.dicom.tags/tag/thermalconductivityofexposedsurfaceretired/
 ---
 
 ## Tag.ThermalConductivityOfExposedSurfaceRETIRED field

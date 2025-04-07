@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686347 VRFD VM4 Bounding Rectangle.
 type: docs
 weight: 4390
-url: /aspose.medical.dicom.tags/tag/boundingrectangle/
+url: /net/aspose.medical.dicom.tags/tag/boundingrectangle/
 ---
 
 ## Tag.BoundingRectangle field

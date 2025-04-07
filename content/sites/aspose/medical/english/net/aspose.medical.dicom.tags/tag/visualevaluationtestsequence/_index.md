@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287028 VRSQ VM1 Visual Evaluation Test Sequence.
 type: docs
 weight: 51390
-url: /aspose.medical.dicom.tags/tag/visualevaluationtestsequence/
+url: /net/aspose.medical.dicom.tags/tag/visualevaluationtestsequence/
 ---
 
 ## Tag.VisualEvaluationTestSequence field

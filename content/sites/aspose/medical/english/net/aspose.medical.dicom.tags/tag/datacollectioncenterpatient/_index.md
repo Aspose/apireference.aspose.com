@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189313 VRFD VM3 Data Collection Center Patient.
 type: docs
 weight: 9750
-url: /aspose.medical.dicom.tags/tag/datacollectioncenterpatient/
+url: /net/aspose.medical.dicom.tags/tag/datacollectioncenterpatient/
 ---
 
 ## Tag.DataCollectionCenterPatient field

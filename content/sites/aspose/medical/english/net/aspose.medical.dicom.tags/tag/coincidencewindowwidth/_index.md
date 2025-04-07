@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541210 VRDS VM1 Coincidence Window Width.
 type: docs
 weight: 6290
-url: /aspose.medical.dicom.tags/tag/coincidencewindowwidth/
+url: /net/aspose.medical.dicom.tags/tag/coincidencewindowwidth/
 ---
 
 ## Tag.CoincidenceWindowWidth field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/unknown/unknown/
+url: /net/aspose.medical.dicom.elements/unknown/unknown/
 ---
 
 ## Unknown(Tag, Span&lt;byte&gt;) {#constructor_1}

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400301 VRUS VM1 Total Number of Exposures RETIRED.
 type: docs
 weight: 48920
-url: /aspose.medical.dicom.tags/tag/totalnumberofexposuresretired/
+url: /net/aspose.medical.dicom.tags/tag/totalnumberofexposuresretired/
 ---
 
 ## Tag.TotalNumberOfExposuresRETIRED field

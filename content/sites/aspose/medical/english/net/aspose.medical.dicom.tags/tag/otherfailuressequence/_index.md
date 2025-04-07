@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008119A VRSQ VM1 Other Failures Sequence.
 type: docs
 weight: 28610
-url: /aspose.medical.dicom.tags/tag/otherfailuressequence/
+url: /net/aspose.medical.dicom.tags/tag/otherfailuressequence/
 ---
 
 ## Tag.OtherFailuresSequence field

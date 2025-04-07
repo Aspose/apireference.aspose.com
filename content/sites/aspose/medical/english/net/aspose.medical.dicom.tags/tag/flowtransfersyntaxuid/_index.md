@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00340003 VRUI VM1 Flow Transfer Syntax UID.
 type: docs
 weight: 16050
-url: /aspose.medical.dicom.tags/tag/flowtransfersyntaxuid/
+url: /net/aspose.medical.dicom.tags/tag/flowtransfersyntaxuid/
 ---
 
 ## Tag.FlowTransferSyntaxUID field

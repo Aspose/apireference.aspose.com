@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700207 VRLO VM1 Graphic Group Label.
 type: docs
 weight: 17840
-url: /aspose.medical.dicom.tags/tag/graphicgrouplabel/
+url: /net/aspose.medical.dicom.tags/tag/graphicgrouplabel/
 ---
 
 ## Tag.GraphicGroupLabel field

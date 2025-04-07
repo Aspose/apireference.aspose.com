@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200060 VRCS VM1 Laterality.
 type: docs
 weight: 22420
-url: /aspose.medical.dicom.tags/tag/laterality/
+url: /net/aspose.medical.dicom.tags/tag/laterality/
 ---
 
 ## Tag.Laterality field

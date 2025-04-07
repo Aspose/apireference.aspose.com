@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00740121 VRFD VM1 Continuation End Meterset.
 type: docs
 weight: 8020
-url: /aspose.medical.dicom.tags/tag/continuationendmeterset/
+url: /net/aspose.medical.dicom.tags/tag/continuationendmeterset/
 ---
 
 ## Tag.ContinuationEndMeterset field

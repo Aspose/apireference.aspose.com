@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A120 VRDT VM1 DateTime.
 type: docs
 weight: 10120
-url: /aspose.medical.dicom.tags/tag/datetime/
+url: /net/aspose.medical.dicom.tags/tag/datetime/
 ---
 
 ## Tag.DateTime field

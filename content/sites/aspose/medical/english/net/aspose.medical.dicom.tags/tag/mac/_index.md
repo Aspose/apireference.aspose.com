@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000404 VROB VM1 MAC.
 type: docs
 weight: 23260
-url: /aspose.medical.dicom.tags/tag/mac/
+url: /net/aspose.medical.dicom.tags/tag/mac/
 ---
 
 ## Tag.MAC field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240070 VRFL VM1 Visual Field Mean Sensitivity.
 type: docs
 weight: 51430
-url: /aspose.medical.dicom.tags/tag/visualfieldmeansensitivity/
+url: /net/aspose.medical.dicom.tags/tag/visualfieldmeansensitivity/
 ---
 
 ## Tag.VisualFieldMeanSensitivity field

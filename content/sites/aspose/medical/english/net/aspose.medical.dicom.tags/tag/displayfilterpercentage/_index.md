@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289411 VRFL VM1 Display Filter Percentage.
 type: docs
 weight: 12120
-url: /aspose.medical.dicom.tags/tag/displayfilterpercentage/
+url: /net/aspose.medical.dicom.tags/tag/displayfilterpercentage/
 ---
 
 ## Tag.DisplayFilterPercentage field

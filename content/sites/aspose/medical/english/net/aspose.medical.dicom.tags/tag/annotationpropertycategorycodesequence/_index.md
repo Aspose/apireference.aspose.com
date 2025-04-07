@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006A0009 VRSQ VM1 Annotation Property Category Code Sequence.
 type: docs
 weight: 1890
-url: /aspose.medical.dicom.tags/tag/annotationpropertycategorycodesequence/
+url: /net/aspose.medical.dicom.tags/tag/annotationpropertycategorycodesequence/
 ---
 
 ## Tag.AnnotationPropertyCategoryCodeSequence field

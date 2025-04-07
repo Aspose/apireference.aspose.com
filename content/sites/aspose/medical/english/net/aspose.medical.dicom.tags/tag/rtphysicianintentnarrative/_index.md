@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010005A VRUT VM1 RT Physician Intent Narrative.
 type: docs
 weight: 40290
-url: /aspose.medical.dicom.tags/tag/rtphysicianintentnarrative/
+url: /net/aspose.medical.dicom.tags/tag/rtphysicianintentnarrative/
 ---
 
 ## Tag.RTPhysicianIntentNarrative field

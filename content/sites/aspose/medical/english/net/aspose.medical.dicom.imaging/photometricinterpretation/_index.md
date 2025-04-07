@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Photometric Interpretation. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_c.7.6.3.htmlsect_C.7.6.3.1.2/.
 type: docs
 weight: 670
-url: /aspose.medical.dicom.imaging/photometricinterpretation/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/
 ---
 
 ## PhotometricInterpretation class

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00880912 VRLO VM1-32 Topic Keywords RETIRED.
 type: docs
 weight: 48780
-url: /aspose.medical.dicom.tags/tag/topickeywordsretired/
+url: /net/aspose.medical.dicom.tags/tag/topickeywordsretired/
 ---
 
 ## Tag.TopicKeywordsRETIRED field

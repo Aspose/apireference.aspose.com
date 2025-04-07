@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280063 VRSH VM1 Compression Description RETIRED.
 type: docs
 weight: 7150
-url: /aspose.medical.dicom.tags/tag/compressiondescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/compressiondescriptionretired/
 ---
 
 ## Tag.CompressionDescriptionRETIRED field

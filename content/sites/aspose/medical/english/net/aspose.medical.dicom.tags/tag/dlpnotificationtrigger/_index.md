@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189943 VRFD VM1 DLP Notification Trigger.
 type: docs
 weight: 12490
-url: /aspose.medical.dicom.tags/tag/dlpnotificationtrigger/
+url: /net/aspose.medical.dicom.tags/tag/dlpnotificationtrigger/
 ---
 
 ## Tag.DLPNotificationTrigger field

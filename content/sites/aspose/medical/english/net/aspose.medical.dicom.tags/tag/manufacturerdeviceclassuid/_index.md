@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018100B VRUI VM1-n Manufacturers Device Class UID.
 type: docs
 weight: 23450
-url: /aspose.medical.dicom.tags/tag/manufacturerdeviceclassuid/
+url: /net/aspose.medical.dicom.tags/tag/manufacturerdeviceclassuid/
 ---
 
 ## Tag.ManufacturerDeviceClassUID field

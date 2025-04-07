@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Initializes a new instance of the Bgra32aspose.medical.imaging.pixelformats/bgra32 struct.
 type: docs
 weight: 10
-url: /aspose.medical.imaging.pixelformats/bgra32/bgra32/
+url: /net/aspose.medical.imaging.pixelformats/bgra32/bgra32/
 ---
 
 ## Bgra32(byte, byte, byte, byte) {#constructor_1}

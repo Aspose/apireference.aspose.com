@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160076 VRDS VM1 GPS Altitude.
 type: docs
 weight: 17420
-url: /aspose.medical.dicom.tags/tag/gpsaltitude/
+url: /net/aspose.medical.dicom.tags/tag/gpsaltitude/
 ---
 
 ## Tag.GPSAltitude field

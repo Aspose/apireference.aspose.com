@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221131 VRFL VM1 Anterior Chamber Depth.
 type: docs
 weight: 1950
-url: /aspose.medical.dicom.tags/tag/anteriorchamberdepth/
+url: /net/aspose.medical.dicom.tags/tag/anteriorchamberdepth/
 ---
 
 ## Tag.AnteriorChamberDepth field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701505 VRFD VM3 MPR Top Left Hand Corner.
 type: docs
 weight: 25080
-url: /aspose.medical.dicom.tags/tag/mprtoplefthandcorner/
+url: /net/aspose.medical.dicom.tags/tag/mprtoplefthandcorner/
 ---
 
 ## Tag.MPRTopLeftHandCorner field

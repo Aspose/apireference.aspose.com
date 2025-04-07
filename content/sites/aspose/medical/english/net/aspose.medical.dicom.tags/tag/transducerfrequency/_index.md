@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186030 VRUL VM1 Transducer Frequency.
 type: docs
 weight: 49230
-url: /aspose.medical.dicom.tags/tag/transducerfrequency/
+url: /net/aspose.medical.dicom.tags/tag/transducerfrequency/
 ---
 
 ## Tag.TransducerFrequency field

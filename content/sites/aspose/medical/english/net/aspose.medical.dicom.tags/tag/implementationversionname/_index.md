@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020013 VRSH VM1 Implementation Version Name.
 type: docs
 weight: 20070
-url: /aspose.medical.dicom.tags/tag/implementationversionname/
+url: /net/aspose.medical.dicom.tags/tag/implementationversionname/
 ---
 
 ## Tag.ImplementationVersionName field

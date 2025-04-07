@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00520036 VRUS VM1 Seam Line Index.
 type: docs
 weight: 41740
-url: /aspose.medical.dicom.tags/tag/seamlineindex/
+url: /net/aspose.medical.dicom.tags/tag/seamlineindex/
 ---
 
 ## Tag.SeamLineIndex field

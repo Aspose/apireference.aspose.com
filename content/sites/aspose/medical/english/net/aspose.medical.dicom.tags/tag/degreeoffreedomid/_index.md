@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686410 VRUS VM1 Degree of Freedom ID.
 type: docs
 weight: 10430
-url: /aspose.medical.dicom.tags/tag/degreeoffreedomid/
+url: /net/aspose.medical.dicom.tags/tag/degreeoffreedomid/
 ---
 
 ## Tag.DegreeOfFreedomID field

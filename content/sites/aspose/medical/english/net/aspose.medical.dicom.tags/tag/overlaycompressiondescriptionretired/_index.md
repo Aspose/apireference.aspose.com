@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0063 VRCS VM1 Overlay Compression Description RETIRED.
 type: docs
 weight: 28920
-url: /aspose.medical.dicom.tags/tag/overlaycompressiondescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaycompressiondescriptionretired/
 ---
 
 ## Tag.OverlayCompressionDescriptionRETIRED field

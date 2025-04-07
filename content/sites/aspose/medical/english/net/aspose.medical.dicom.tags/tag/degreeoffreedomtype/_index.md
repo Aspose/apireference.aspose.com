@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686420 VRCS VM1 Degree of Freedom Type.
 type: docs
 weight: 10440
-url: /aspose.medical.dicom.tags/tag/degreeoffreedomtype/
+url: /net/aspose.medical.dicom.tags/tag/degreeoffreedomtype/
 ---
 
 ## Tag.DegreeOfFreedomType field

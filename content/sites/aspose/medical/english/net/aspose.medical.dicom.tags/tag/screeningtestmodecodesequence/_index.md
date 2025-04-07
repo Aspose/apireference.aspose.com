@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240016 VRSQ VM1 Screening Test Mode Code Sequence.
 type: docs
 weight: 41710
-url: /aspose.medical.dicom.tags/tag/screeningtestmodecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/screeningtestmodecodesequence/
 ---
 
 ## Tag.ScreeningTestModeCodeSequence field

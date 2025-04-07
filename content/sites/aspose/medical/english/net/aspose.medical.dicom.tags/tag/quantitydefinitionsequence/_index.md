@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00409220 VRSQ VM1 Quantity Definition Sequence.
 type: docs
 weight: 34050
-url: /aspose.medical.dicom.tags/tag/quantitydefinitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/quantitydefinitionsequence/
 ---
 
 ## Tag.QuantityDefinitionSequence field

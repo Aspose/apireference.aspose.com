@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240055 VRCS VM1 Catch Trials Data Flag.
 type: docs
 weight: 5190
-url: /aspose.medical.dicom.tags/tag/catchtrialsdataflag/
+url: /net/aspose.medical.dicom.tags/tag/catchtrialsdataflag/
 ---
 
 ## Tag.CatchTrialsDataFlag field

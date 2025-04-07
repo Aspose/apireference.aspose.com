@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00C8 VRIS VM1 Reference Image Number.
 type: docs
 weight: 37750
-url: /aspose.medical.dicom.tags/tag/referenceimagenumber/
+url: /net/aspose.medical.dicom.tags/tag/referenceimagenumber/
 ---
 
 ## Tag.ReferenceImageNumber field

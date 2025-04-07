@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Application Entity AE VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextAE-Application20Entity-A20string20of.
 type: docs
 weight: 150
-url: /aspose.medical.dicom.elements/applicationentity/
+url: /net/aspose.medical.dicom.elements/applicationentity/
 ---
 
 ## ApplicationEntity class

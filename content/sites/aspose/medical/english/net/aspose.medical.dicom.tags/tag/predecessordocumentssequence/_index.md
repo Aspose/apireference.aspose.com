@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A360 VRSQ VM1 Predecessor Documents Sequence.
 type: docs
 weight: 32310
-url: /aspose.medical.dicom.tags/tag/predecessordocumentssequence/
+url: /net/aspose.medical.dicom.tags/tag/predecessordocumentssequence/
 ---
 
 ## Tag.PredecessorDocumentsSequence field

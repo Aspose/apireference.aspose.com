@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686530 VRUS VM1 Planning Landmark ID.
 type: docs
 weight: 31810
-url: /aspose.medical.dicom.tags/tag/planninglandmarkid/
+url: /net/aspose.medical.dicom.tags/tag/planninglandmarkid/
 ---
 
 ## Tag.PlanningLandmarkID field

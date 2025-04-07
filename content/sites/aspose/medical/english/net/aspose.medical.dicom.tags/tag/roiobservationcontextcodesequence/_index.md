@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3006004F VRSQ VM1 ROI Observation Context Code Sequence.
 type: docs
 weight: 39530
-url: /aspose.medical.dicom.tags/tag/roiobservationcontextcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/roiobservationcontextcodesequence/
 ---
 
 ## Tag.ROIObservationContextCodeSequence field

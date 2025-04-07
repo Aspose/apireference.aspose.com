@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160030 VRDS VM1 Temperature.
 type: docs
 weight: 47500
-url: /aspose.medical.dicom.tags/tag/temperature/
+url: /net/aspose.medical.dicom.tags/tag/temperature/
 ---
 
 ## Tag.Temperature field

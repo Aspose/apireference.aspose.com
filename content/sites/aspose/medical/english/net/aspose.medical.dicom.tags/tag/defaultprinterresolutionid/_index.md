@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100054 VRCS VM1 Default Printer Resolution ID.
 type: docs
 weight: 10370
-url: /aspose.medical.dicom.tags/tag/defaultprinterresolutionid/
+url: /net/aspose.medical.dicom.tags/tag/defaultprinterresolutionid/
 ---
 
 ## Tag.DefaultPrinterResolutionID field

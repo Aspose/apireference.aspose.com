@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022112A VRSQ VM1 Calculation Comment Sequence.
 type: docs
 weight: 4880
-url: /aspose.medical.dicom.tags/tag/calculationcommentsequence/
+url: /net/aspose.medical.dicom.tags/tag/calculationcommentsequence/
 ---
 
 ## Tag.CalculationCommentSequence field

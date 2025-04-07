@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006A0006 VRUT VM1 Annotation Group Description.
 type: docs
 weight: 1810
-url: /aspose.medical.dicom.tags/tag/annotationgroupdescription/
+url: /net/aspose.medical.dicom.tags/tag/annotationgroupdescription/
 ---
 
 ## Tag.AnnotationGroupDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281410 VRCS VM1 Alpha LUT Transfer Function.
 type: docs
 weight: 1310
-url: /aspose.medical.dicom.tags/tag/alphaluttransferfunction/
+url: /net/aspose.medical.dicom.tags/tag/alphaluttransferfunction/
 ---
 
 ## Tag.AlphaLUTTransferFunction field

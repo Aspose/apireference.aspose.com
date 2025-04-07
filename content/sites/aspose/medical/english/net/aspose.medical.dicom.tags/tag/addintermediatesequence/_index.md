@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460101 VRSQ VM1 Add Intermediate Sequence.
 type: docs
 weight: 810
-url: /aspose.medical.dicom.tags/tag/addintermediatesequence/
+url: /net/aspose.medical.dicom.tags/tag/addintermediatesequence/
 ---
 
 ## Tag.AddIntermediateSequence field

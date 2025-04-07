@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080202 VRST VM1 Treatment Status Comment.
 type: docs
 weight: 49830
-url: /aspose.medical.dicom.tags/tag/treatmentstatuscomment/
+url: /net/aspose.medical.dicom.tags/tag/treatmentstatuscomment/
 ---
 
 ## Tag.TreatmentStatusComment field

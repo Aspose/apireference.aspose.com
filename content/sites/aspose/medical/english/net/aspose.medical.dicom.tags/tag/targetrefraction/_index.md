@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221037 VRFL VM1 Target Refraction.
 type: docs
 weight: 47440
-url: /aspose.medical.dicom.tags/tag/targetrefraction/
+url: /net/aspose.medical.dicom.tags/tag/targetrefraction/
 ---
 
 ## Tag.TargetRefraction field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014405C VRST VM1 Delay Law Identifier RETIRED.
 type: docs
 weight: 10490
-url: /aspose.medical.dicom.tags/tag/delaylawidentifierretired/
+url: /net/aspose.medical.dicom.tags/tag/delaylawidentifierretired/
 ---
 
 ## Tag.DelayLawIdentifierRETIRED field

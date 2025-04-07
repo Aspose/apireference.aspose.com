@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class General Relevant Patient Information Query.
 type: docs
 weight: 1690
-url: /aspose.medical.dicom/uid/generalrelevantpatientinformationquery/
+url: /net/aspose.medical.dicom/uid/generalrelevantpatientinformationquery/
 ---
 
 ## Uid.GeneralRelevantPatientInformationQuery field

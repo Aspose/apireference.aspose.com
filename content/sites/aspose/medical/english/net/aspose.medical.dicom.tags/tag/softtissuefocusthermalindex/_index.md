@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185028 VRDS VM1 Soft Tissue-focus Thermal Index.
 type: docs
 weight: 43770
-url: /aspose.medical.dicom.tags/tag/softtissuefocusthermalindex/
+url: /net/aspose.medical.dicom.tags/tag/softtissuefocusthermalindex/
 ---
 
 ## Tag.SoftTissueFocusThermalIndex field

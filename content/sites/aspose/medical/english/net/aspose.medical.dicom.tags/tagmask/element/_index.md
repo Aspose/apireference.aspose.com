@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Tag Element. The 2nd 4 numbers in DICOM tag definition e.g. for DICOM Tag 00280010 0010 - Element. Read-only UInt16.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.tags/tagmask/element/
+url: /net/aspose.medical.dicom.tags/tagmask/element/
 ---
 
 ## TagMask.Element property

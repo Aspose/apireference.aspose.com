@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720063 VRDT VM1-n Selector DT Value.
 type: docs
 weight: 42400
-url: /aspose.medical.dicom.tags/tag/selectordtvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectordtvalue/
 ---
 
 ## Tag.SelectorDTValue field

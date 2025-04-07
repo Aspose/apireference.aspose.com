@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187028 VRDS VM2 Detector Active Origin.
 type: docs
 weight: 10910
-url: /aspose.medical.dicom.tags/tag/detectoractiveorigin/
+url: /net/aspose.medical.dicom.tags/tag/detectoractiveorigin/
 ---
 
 ## Tag.DetectorActiveOrigin field

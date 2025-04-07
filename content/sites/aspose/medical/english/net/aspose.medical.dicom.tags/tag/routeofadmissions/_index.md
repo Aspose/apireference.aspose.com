@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380016 VRLO VM1 Route of Admissions.
 type: docs
 weight: 39710
-url: /aspose.medical.dicom.tags/tag/routeofadmissions/
+url: /net/aspose.medical.dicom.tags/tag/routeofadmissions/
 ---
 
 ## Tag.RouteOfAdmissions field

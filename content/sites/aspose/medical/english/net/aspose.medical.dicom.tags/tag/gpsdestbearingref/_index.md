@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160087 VRCS VM1 GPS Dest Bearing Ref.
 type: docs
 weight: 17470
-url: /aspose.medical.dicom.tags/tag/gpsdestbearingref/
+url: /net/aspose.medical.dicom.tags/tag/gpsdestbearingref/
 ---
 
 ## Tag.GPSDestBearingRef field

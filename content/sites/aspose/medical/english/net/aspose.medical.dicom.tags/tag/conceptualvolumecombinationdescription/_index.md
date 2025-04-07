@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010000F VRST VM1 Conceptual Volume Combination Description.
 type: docs
 weight: 7290
-url: /aspose.medical.dicom.tags/tag/conceptualvolumecombinationdescription/
+url: /net/aspose.medical.dicom.tags/tag/conceptualvolumecombinationdescription/
 ---
 
 ## Tag.ConceptualVolumeCombinationDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181413 VRDS VM1 Deviation Index.
 type: docs
 weight: 11260
-url: /aspose.medical.dicom.tags/tag/deviationindex/
+url: /net/aspose.medical.dicom.tags/tag/deviationindex/
 ---
 
 ## Tag.DeviationIndex field

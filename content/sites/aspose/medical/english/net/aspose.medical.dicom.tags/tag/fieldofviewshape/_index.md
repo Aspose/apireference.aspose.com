@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181147 VRCS VM1 Field of View Shape.
 type: docs
 weight: 15040
-url: /aspose.medical.dicom.tags/tag/fieldofviewshape/
+url: /net/aspose.medical.dicom.tags/tag/fieldofviewshape/
 ---
 
 ## Tag.FieldOfViewShape field

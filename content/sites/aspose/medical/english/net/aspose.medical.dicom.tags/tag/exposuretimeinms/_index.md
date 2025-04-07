@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189328 VRFD VM1 Exposure Time in ms.
 type: docs
 weight: 14660
-url: /aspose.medical.dicom.tags/tag/exposuretimeinms/
+url: /net/aspose.medical.dicom.tags/tag/exposuretimeinms/
 ---
 
 ## Tag.ExposureTimeInms field

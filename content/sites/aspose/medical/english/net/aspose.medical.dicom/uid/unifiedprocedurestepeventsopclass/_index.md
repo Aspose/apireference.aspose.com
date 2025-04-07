@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Unified Procedure Step - Event SOP Class.
 type: docs
 weight: 4770
-url: /aspose.medical.dicom/uid/unifiedprocedurestepeventsopclass/
+url: /net/aspose.medical.dicom/uid/unifiedprocedurestepeventsopclass/
 ---
 
 ## Uid.UnifiedProcedureStepEventSOPClass field

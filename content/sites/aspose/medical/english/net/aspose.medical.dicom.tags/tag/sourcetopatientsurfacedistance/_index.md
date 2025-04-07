@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0634 VRFD VM1 Source to Patient Surface Distance.
 type: docs
 weight: 44620
-url: /aspose.medical.dicom.tags/tag/sourcetopatientsurfacedistance/
+url: /net/aspose.medical.dicom.tags/tag/sourcetopatientsurfacedistance/
 ---
 
 ## Tag.SourceToPatientSurfaceDistance field

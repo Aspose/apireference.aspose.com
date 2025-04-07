@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300E0002 VRCS VM1 Approval Status.
 type: docs
 weight: 2270
-url: /aspose.medical.dicom.tags/tag/approvalstatus/
+url: /net/aspose.medical.dicom.tags/tag/approvalstatus/
 ---
 
 ## Tag.ApprovalStatus field

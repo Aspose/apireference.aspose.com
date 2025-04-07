@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700405 VRCS VM1 Blending Position.
 type: docs
 weight: 3910
-url: /aspose.medical.dicom.tags/tag/blendingposition/
+url: /net/aspose.medical.dicom.tags/tag/blendingposition/
 ---
 
 ## Tag.BlendingPosition field

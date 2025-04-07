@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701202 VRCS VM1 Presentation Input Type.
 type: docs
 weight: 32540
-url: /aspose.medical.dicom.tags/tag/presentationinputtype/
+url: /net/aspose.medical.dicom.tags/tag/presentationinputtype/
 ---
 
 ## Tag.PresentationInputType field

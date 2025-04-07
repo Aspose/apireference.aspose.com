@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701B13 VRCS VM1 Threshold Type.
 type: docs
 weight: 48240
-url: /aspose.medical.dicom.tags/tag/thresholdtype/
+url: /net/aspose.medical.dicom.tags/tag/thresholdtype/
 ---
 
 ## Tag.ThresholdType field

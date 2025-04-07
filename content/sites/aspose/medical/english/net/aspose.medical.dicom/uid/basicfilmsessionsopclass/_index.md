@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Basic Film Session SOP Class.
 type: docs
 weight: 150
-url: /aspose.medical.dicom/uid/basicfilmsessionsopclass/
+url: /net/aspose.medical.dicom/uid/basicfilmsessionsopclass/
 ---
 
 ## Uid.BasicFilmSessionSOPClass field

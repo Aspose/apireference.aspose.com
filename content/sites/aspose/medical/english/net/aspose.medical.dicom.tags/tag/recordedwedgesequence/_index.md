@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300800B0 VRSQ VM1 Recorded Wedge Sequence.
 type: docs
 weight: 35870
-url: /aspose.medical.dicom.tags/tag/recordedwedgesequence/
+url: /net/aspose.medical.dicom.tags/tag/recordedwedgesequence/
 ---
 
 ## Tag.RecordedWedgeSequence field

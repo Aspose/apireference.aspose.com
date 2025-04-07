@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700234 VRSQ VM1 Graphic Group Sequence.
 type: docs
 weight: 17850
-url: /aspose.medical.dicom.tags/tag/graphicgroupsequence/
+url: /net/aspose.medical.dicom.tags/tag/graphicgroupsequence/
 ---
 
 ## Tag.GraphicGroupSequence field

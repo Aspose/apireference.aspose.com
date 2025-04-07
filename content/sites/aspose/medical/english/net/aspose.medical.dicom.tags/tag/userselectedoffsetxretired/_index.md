@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014408D VRDS VM1 User Selected Offset X RETIRED.
 type: docs
 weight: 50640
-url: /aspose.medical.dicom.tags/tag/userselectedoffsetxretired/
+url: /net/aspose.medical.dicom.tags/tag/userselectedoffsetxretired/
 ---
 
 ## Tag.UserSelectedOffsetXRETIRED field

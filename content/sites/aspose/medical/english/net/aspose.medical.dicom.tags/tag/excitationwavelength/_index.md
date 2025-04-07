@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189826 VRFD VM1 Excitation Wavelength.
 type: docs
 weight: 14280
-url: /aspose.medical.dicom.tags/tag/excitationwavelength/
+url: /net/aspose.medical.dicom.tags/tag/excitationwavelength/
 ---
 
 ## Tag.ExcitationWavelength field

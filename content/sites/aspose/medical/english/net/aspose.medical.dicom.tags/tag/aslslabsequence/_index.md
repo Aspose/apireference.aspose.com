@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189260 VRSQ VM1 ASL Slab Sequence.
 type: docs
 weight: 2470
-url: /aspose.medical.dicom.tags/tag/aslslabsequence/
+url: /net/aspose.medical.dicom.tags/tag/aslslabsequence/
 ---
 
 ## Tag.ASLSlabSequence field

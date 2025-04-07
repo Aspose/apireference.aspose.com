@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480014 VRFL VM1 Distance Between Focal Planes.
 type: docs
 weight: 12350
-url: /aspose.medical.dicom.tags/tag/distancebetweenfocalplanes/
+url: /net/aspose.medical.dicom.tags/tag/distancebetweenfocalplanes/
 ---
 
 ## Tag.DistanceBetweenFocalPlanes field

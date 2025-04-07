@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701208 VRCS VM1 Image Volume Geometry.
 type: docs
 weight: 19630
-url: /aspose.medical.dicom.tags/tag/imagevolumegeometry/
+url: /net/aspose.medical.dicom.tags/tag/imagevolumegeometry/
 ---
 
 ## Tag.ImageVolumeGeometry field

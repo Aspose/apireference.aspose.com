@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041430 VRCS VM1 Directory Record Type.
 type: docs
 weight: 11930
-url: /aspose.medical.dicom.tags/tag/directoryrecordtype/
+url: /net/aspose.medical.dicom.tags/tag/directoryrecordtype/
 ---
 
 ## Tag.DirectoryRecordType field

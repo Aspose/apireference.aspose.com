@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287025 VRCS VM1 Ambient Light Value Source.
 type: docs
 weight: 1400
-url: /aspose.medical.dicom.tags/tag/ambientlightvaluesource/
+url: /net/aspose.medical.dicom.tags/tag/ambientlightvaluesource/
 ---
 
 ## Tag.AmbientLightValueSource field

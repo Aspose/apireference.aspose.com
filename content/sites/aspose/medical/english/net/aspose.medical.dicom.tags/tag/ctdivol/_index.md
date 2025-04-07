@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189345 VRFD VM1 CTDIvol.
 type: docs
 weight: 9220
-url: /aspose.medical.dicom.tags/tag/ctdivol/
+url: /net/aspose.medical.dicom.tags/tag/ctdivol/
 ---
 
 ## Tag.CTDIvol field

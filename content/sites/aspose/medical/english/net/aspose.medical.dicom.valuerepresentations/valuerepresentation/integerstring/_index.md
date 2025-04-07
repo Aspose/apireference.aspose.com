@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Integer String IS.
 type: docs
 weight: 100
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/integerstring/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/integerstring/
 ---
 
 ## ValueRepresentation.IntegerString field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144013 VRCS VM1 Element Shape RETIRED.
 type: docs
 weight: 13410
-url: /aspose.medical.dicom.tags/tag/elementshaperetired/
+url: /net/aspose.medical.dicom.tags/tag/elementshaperetired/
 ---
 
 ## Tag.ElementShapeRETIRED field

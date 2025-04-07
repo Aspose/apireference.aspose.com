@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The color space of the photometric interpretation or null if IsPaletteaspose.medical.dicom.imaging/photometricinterpretation/ispalette is false. Read-only ColorSpaceaspose.medical.dicom.imaging/photometricinterpretation/colorspace.
 type: docs
 weight: 130
-url: /aspose.medical.dicom.imaging/photometricinterpretation/colorspace/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/colorspace/
 ---
 
 ## PhotometricInterpretation.ColorSpace property

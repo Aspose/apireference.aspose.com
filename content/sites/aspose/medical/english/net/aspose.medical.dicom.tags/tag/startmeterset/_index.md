@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080078 VRDS VM1 Start Meterset.
 type: docs
 weight: 45390
-url: /aspose.medical.dicom.tags/tag/startmeterset/
+url: /net/aspose.medical.dicom.tags/tag/startmeterset/
 ---
 
 ## Tag.StartMeterset field

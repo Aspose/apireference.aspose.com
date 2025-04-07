@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class XA Performed Procedure Protocol Storage.
 type: docs
 weight: 5160
-url: /aspose.medical.dicom/uid/xaperformedprocedureprotocolstorage/
+url: /net/aspose.medical.dicom/uid/xaperformedprocedureprotocolstorage/
 ---
 
 ## Uid.XAPerformedProcedureProtocolStorage field

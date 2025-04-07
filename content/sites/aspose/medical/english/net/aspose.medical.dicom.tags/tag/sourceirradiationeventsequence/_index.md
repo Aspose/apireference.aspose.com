@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00083011 VRSQ VM1 Source Irradiation Event Sequence.
 type: docs
 weight: 44240
-url: /aspose.medical.dicom.tags/tag/sourceirradiationeventsequence/
+url: /net/aspose.medical.dicom.tags/tag/sourceirradiationeventsequence/
 ---
 
 ## Tag.SourceIrradiationEventSequence field

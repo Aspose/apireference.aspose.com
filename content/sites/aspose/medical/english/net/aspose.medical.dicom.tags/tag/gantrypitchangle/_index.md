@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A014A VRFL VM1 Gantry Pitch Angle.
 type: docs
 weight: 17000
-url: /aspose.medical.dicom.tags/tag/gantrypitchangle/
+url: /net/aspose.medical.dicom.tags/tag/gantrypitchangle/
 ---
 
 ## Tag.GantryPitchAngle field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460104 VRFD VM1 Add Power.
 type: docs
 weight: 920
-url: /aspose.medical.dicom.tags/tag/addpower/
+url: /net/aspose.medical.dicom.tags/tag/addpower/
 ---
 
 ## Tag.AddPower field

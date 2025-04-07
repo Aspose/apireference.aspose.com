@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A01BC VRDS VM1 Setup Device Parameter.
 type: docs
 weight: 43000
-url: /aspose.medical.dicom.tags/tag/setupdeviceparameter/
+url: /net/aspose.medical.dicom.tags/tag/setupdeviceparameter/
 ---
 
 ## Tag.SetupDeviceParameter field

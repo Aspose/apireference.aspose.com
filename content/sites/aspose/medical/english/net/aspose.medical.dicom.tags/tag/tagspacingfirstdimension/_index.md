@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189030 VRFD VM1 Tag Spacing First Dimension.
 type: docs
 weight: 47290
-url: /aspose.medical.dicom.tags/tag/tagspacingfirstdimension/
+url: /net/aspose.medical.dicom.tags/tag/tagspacingfirstdimension/
 ---
 
 ## Tag.TagSpacingFirstDimension field

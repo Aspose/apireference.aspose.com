@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00283010 VRSQ VM1 VOI LUT Sequence.
 type: docs
 weight: 51570
-url: /aspose.medical.dicom.tags/tag/voilutsequence/
+url: /net/aspose.medical.dicom.tags/tag/voilutsequence/
 ---
 
 ## Tag.VOILUTSequence field

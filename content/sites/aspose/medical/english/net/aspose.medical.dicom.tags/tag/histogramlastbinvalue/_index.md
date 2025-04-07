@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00603006 VRUS or SS VM1 Histogram Last Bin Value.
 type: docs
 weight: 18380
-url: /aspose.medical.dicom.tags/tag/histogramlastbinvalue/
+url: /net/aspose.medical.dicom.tags/tag/histogramlastbinvalue/
 ---
 
 ## Tag.HistogramLastBinValue field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189476 VRSQ VM1 X-Ray Geometry Sequence.
 type: docs
 weight: 52770
-url: /aspose.medical.dicom.tags/tag/xraygeometrysequence/
+url: /net/aspose.medical.dicom.tags/tag/xraygeometrysequence/
 ---
 
 ## Tag.XRayGeometrySequence field

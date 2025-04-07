@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440001 VRST VM1 Product Package Identifier.
 type: docs
 weight: 33550
-url: /aspose.medical.dicom.tags/tag/productpackageidentifier/
+url: /net/aspose.medical.dicom.tags/tag/productpackageidentifier/
 ---
 
 ## Tag.ProductPackageIdentifier field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700231 VRSQ VM1 Text Style Sequence.
 type: docs
 weight: 47850
-url: /aspose.medical.dicom.tags/tag/textstylesequence/
+url: /net/aspose.medical.dicom.tags/tag/textstylesequence/
 ---
 
 ## Tag.TextStyleSequence field

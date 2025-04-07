@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686460 VRFD VM4 2D Mating Axes.
 type: docs
 weight: 50200
-url: /aspose.medical.dicom.tags/tag/twodmatingaxes/
+url: /net/aspose.medical.dicom.tags/tag/twodmatingaxes/
 ---
 
 ## Tag.TwoDMatingAxes field

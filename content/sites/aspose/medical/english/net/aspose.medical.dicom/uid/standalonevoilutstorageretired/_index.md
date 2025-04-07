@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Standalone VOI LUT Storage Retired.
 type: docs
 weight: 4410
-url: /aspose.medical.dicom/uid/standalonevoilutstorageretired/
+url: /net/aspose.medical.dicom/uid/standalonevoilutstorageretired/
 ---
 
 ## Uid.StandaloneVOILUTStorageRetired field

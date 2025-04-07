@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20400010 VRSQ VM1 Referenced Overlay Plane Sequence RETIRED.
 type: docs
 weight: 36810
-url: /aspose.medical.dicom.tags/tag/referencedoverlayplanesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/referencedoverlayplanesequenceretired/
 ---
 
 ## Tag.ReferencedOverlayPlaneSequenceRETIRED field

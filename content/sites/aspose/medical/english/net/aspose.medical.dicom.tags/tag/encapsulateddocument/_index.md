@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00420011 VROB VM1 Encapsulated Document.
 type: docs
 weight: 13480
-url: /aspose.medical.dicom.tags/tag/encapsulateddocument/
+url: /net/aspose.medical.dicom.tags/tag/encapsulateddocument/
 ---
 
 ## Tag.EncapsulatedDocument field

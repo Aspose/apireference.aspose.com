@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002011C VRUS VM1 Acquisition Task Index.
 type: docs
 weight: 580
-url: /aspose.medical.dicom.tags/tag/acquisitiontaskindex/
+url: /net/aspose.medical.dicom.tags/tag/acquisitiontaskindex/
 ---
 
 ## Tag.AcquisitionTaskIndex field

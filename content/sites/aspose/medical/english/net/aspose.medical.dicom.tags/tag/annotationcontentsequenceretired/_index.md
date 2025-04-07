@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21300050 VRSQ VM1 Annotation Content Sequence RETIRED.
 type: docs
 weight: 1750
-url: /aspose.medical.dicom.tags/tag/annotationcontentsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/annotationcontentsequenceretired/
 ---
 
 ## Tag.AnnotationContentSequenceRETIRED field

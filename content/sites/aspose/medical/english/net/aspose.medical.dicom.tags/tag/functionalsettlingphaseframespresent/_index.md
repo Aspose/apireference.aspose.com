@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189622 VRCS VM1 Functional Settling Phase Frames Present.
 type: docs
 weight: 16890
-url: /aspose.medical.dicom.tags/tag/functionalsettlingphaseframespresent/
+url: /net/aspose.medical.dicom.tags/tag/functionalsettlingphaseframespresent/
 ---
 
 ## Tag.FunctionalSettlingPhaseFramesPresent field

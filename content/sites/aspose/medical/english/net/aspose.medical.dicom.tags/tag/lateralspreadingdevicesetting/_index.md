@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0372 VRLO VM1 Lateral Spreading Device Setting.
 type: docs
 weight: 22470
-url: /aspose.medical.dicom.tags/tag/lateralspreadingdevicesetting/
+url: /net/aspose.medical.dicom.tags/tag/lateralspreadingdevicesetting/
 ---
 
 ## Tag.LateralSpreadingDeviceSetting field

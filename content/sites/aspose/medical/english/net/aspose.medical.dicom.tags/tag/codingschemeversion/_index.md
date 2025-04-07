@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080103 VRSH VM1 Coding Scheme Version.
 type: docs
 weight: 6210
-url: /aspose.medical.dicom.tags/tag/codingschemeversion/
+url: /net/aspose.medical.dicom.tags/tag/codingschemeversion/
 ---
 
 ## Tag.CodingSchemeVersion field

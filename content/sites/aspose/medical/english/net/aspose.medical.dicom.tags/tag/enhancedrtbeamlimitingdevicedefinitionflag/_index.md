@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300800A3 VRCS VM1 Enhanced RT Beam Limiting Device Definition Flag.
 type: docs
 weight: 13740
-url: /aspose.medical.dicom.tags/tag/enhancedrtbeamlimitingdevicedefinitionflag/
+url: /net/aspose.medical.dicom.tags/tag/enhancedrtbeamlimitingdevicedefinitionflag/
 ---
 
 ## Tag.EnhancedRTBeamLimitingDeviceDefinitionFlag field

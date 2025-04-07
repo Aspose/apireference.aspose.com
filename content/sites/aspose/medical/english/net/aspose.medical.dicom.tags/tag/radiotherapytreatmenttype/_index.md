@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100046 VRCS VM1 Radiotherapy Treatment Type.
 type: docs
 weight: 34710
-url: /aspose.medical.dicom.tags/tag/radiotherapytreatmenttype/
+url: /net/aspose.medical.dicom.tags/tag/radiotherapytreatmenttype/
 ---
 
 ## Tag.RadiotherapyTreatmentType field

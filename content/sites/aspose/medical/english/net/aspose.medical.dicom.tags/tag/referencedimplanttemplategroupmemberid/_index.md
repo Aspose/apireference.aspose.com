@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 007800B6 VRUS VM1 Referenced Implant Template Group Member ID.
 type: docs
 weight: 36590
-url: /aspose.medical.dicom.tags/tag/referencedimplanttemplategroupmemberid/
+url: /net/aspose.medical.dicom.tags/tag/referencedimplanttemplategroupmemberid/
 ---
 
 ## Tag.ReferencedImplantTemplateGroupMemberID field

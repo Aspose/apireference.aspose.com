@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144016 VRDS VM1 Element Pitch A RETIRED.
 type: docs
 weight: 13390
-url: /aspose.medical.dicom.tags/tag/elementpitcharetired/
+url: /net/aspose.medical.dicom.tags/tag/elementpitcharetired/
 ---
 
 ## Tag.ElementPitchARETIRED field

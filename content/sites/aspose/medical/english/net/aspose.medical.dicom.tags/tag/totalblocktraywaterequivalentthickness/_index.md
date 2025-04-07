@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00F3 VRFL VM1 Total Block Tray Water-Equivalent Thickness.
 type: docs
 weight: 48870
-url: /aspose.medical.dicom.tags/tag/totalblocktraywaterequivalentthickness/
+url: /net/aspose.medical.dicom.tags/tag/totalblocktraywaterequivalentthickness/
 ---
 
 ## Tag.TotalBlockTrayWaterEquivalentThickness field

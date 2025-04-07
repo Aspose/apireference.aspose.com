@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00101030 VRDS VM1 Patients Weight.
 type: docs
 weight: 30520
-url: /aspose.medical.dicom.tags/tag/patientweight/
+url: /net/aspose.medical.dicom.tags/tag/patientweight/
 ---
 
 ## Tag.PatientWeight field

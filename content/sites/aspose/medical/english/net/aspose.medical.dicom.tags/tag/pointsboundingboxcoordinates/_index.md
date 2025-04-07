@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0066001A VRFL VM6 Points Bounding Box Coordinates.
 type: docs
 weight: 31920
-url: /aspose.medical.dicom.tags/tag/pointsboundingboxcoordinates/
+url: /net/aspose.medical.dicom.tags/tag/pointsboundingboxcoordinates/
 ---
 
 ## Tag.PointsBoundingBoxCoordinates field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040006 VRLO VM1 Dose Comment.
 type: docs
 weight: 12650
-url: /aspose.medical.dicom.tags/tag/dosecomment/
+url: /net/aspose.medical.dicom.tags/tag/dosecomment/
 ---
 
 ## Tag.DoseComment field

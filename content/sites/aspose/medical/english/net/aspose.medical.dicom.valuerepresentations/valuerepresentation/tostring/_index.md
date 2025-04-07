@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 490
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/tostring/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/tostring/
 ---
 
 ## ValueRepresentation.ToString method

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189821 VRSQ VM1 Photoacoustic Excitation Characteristics Sequence.
 type: docs
 weight: 31150
-url: /aspose.medical.dicom.tags/tag/photoacousticexcitationcharacteristicssequence/
+url: /net/aspose.medical.dicom.tags/tag/photoacousticexcitationcharacteristicssequence/
 ---
 
 ## Tag.PhotoacousticExcitationCharacteristicsSequence field

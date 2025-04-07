@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020002 VRSH VM1 RT Image Label.
 type: docs
 weight: 40170
-url: /aspose.medical.dicom.tags/tag/rtimagelabel/
+url: /net/aspose.medical.dicom.tags/tag/rtimagelabel/
 ---
 
 ## Tag.RTImageLabel field

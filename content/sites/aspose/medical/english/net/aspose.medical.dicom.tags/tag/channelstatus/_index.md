@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0205 VRCS VM1-n Channel Status.
 type: docs
 weight: 5740
-url: /aspose.medical.dicom.tags/tag/channelstatus/
+url: /net/aspose.medical.dicom.tags/tag/channelstatus/
 ---
 
 ## Tag.ChannelStatus field

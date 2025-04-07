@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289110 VRSQ VM1 Pixel Measures Sequence.
 type: docs
 weight: 31470
-url: /aspose.medical.dicom.tags/tag/pixelmeasuressequence/
+url: /net/aspose.medical.dicom.tags/tag/pixelmeasuressequence/
 ---
 
 ## Tag.PixelMeasuresSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020022 VRDS VM1 Radiation Machine SAD.
 type: docs
 weight: 34390
-url: /aspose.medical.dicom.tags/tag/radiationmachinesad/
+url: /net/aspose.medical.dicom.tags/tag/radiationmachinesad/
 ---
 
 ## Tag.RadiationMachineSAD field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A084 VRCS VM1 Observer Type.
 type: docs
 weight: 27430
-url: /aspose.medical.dicom.tags/tag/observertype/
+url: /net/aspose.medical.dicom.tags/tag/observertype/
 ---
 
 ## Tag.ObserverType field

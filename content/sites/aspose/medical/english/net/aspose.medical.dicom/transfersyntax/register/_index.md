@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Registers transfer syntax.
 type: docs
 weight: 700
-url: /aspose.medical.dicom/transfersyntax/register/
+url: /net/aspose.medical.dicom/transfersyntax/register/
 ---
 
 ## TransferSyntax.Register method

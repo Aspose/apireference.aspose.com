@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280091 VRUS VM1 Block Rows RETIRED.
 type: docs
 weight: 4100
-url: /aspose.medical.dicom.tags/tag/blockrowsretired/
+url: /net/aspose.medical.dicom.tags/tag/blockrowsretired/
 ---
 
 ## Tag.BlockRowsRETIRED field

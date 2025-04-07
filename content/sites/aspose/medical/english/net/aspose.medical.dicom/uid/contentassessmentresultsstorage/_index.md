@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Content Assessment Results Storage.
 type: docs
 weight: 500
-url: /aspose.medical.dicom/uid/contentassessmentresultsstorage/
+url: /net/aspose.medical.dicom/uid/contentassessmentresultsstorage/
 ---
 
 ## Uid.ContentAssessmentResultsStorage field

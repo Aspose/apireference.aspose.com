@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Coding Scheme DICOM Controlled Terminology.
 type: docs
 weight: 790
-url: /aspose.medical.dicom/uid/dicomcontrolledterminology/
+url: /net/aspose.medical.dicom/uid/dicomcontrolledterminology/
 ---
 
 ## Uid.DICOMControlledTerminology field

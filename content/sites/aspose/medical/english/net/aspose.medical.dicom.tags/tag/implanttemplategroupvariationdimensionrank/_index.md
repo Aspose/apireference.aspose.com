@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 007800B8 VRUS VM1 Implant Template Group Variation Dimension Rank.
 type: docs
 weight: 19990
-url: /aspose.medical.dicom.tags/tag/implanttemplategroupvariationdimensionrank/
+url: /net/aspose.medical.dicom.tags/tag/implanttemplategroupvariationdimensionrank/
 ---
 
 ## Tag.ImplantTemplateGroupVariationDimensionRank field

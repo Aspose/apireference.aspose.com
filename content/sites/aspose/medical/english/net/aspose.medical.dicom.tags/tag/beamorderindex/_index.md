@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741324 VRUL VM1 Beam Order Index.
 type: docs
 weight: 3590
-url: /aspose.medical.dicom.tags/tag/beamorderindex/
+url: /net/aspose.medical.dicom.tags/tag/beamorderindex/
 ---
 
 ## Tag.BeamOrderIndex field

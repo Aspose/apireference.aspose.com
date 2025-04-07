@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280068 VRUS VM1 Repeat Interval RETIRED.
 type: docs
 weight: 38460
-url: /aspose.medical.dicom.tags/tag/repeatintervalretired/
+url: /net/aspose.medical.dicom.tags/tag/repeatintervalretired/
 ---
 
 ## Tag.RepeatIntervalRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400031 VRUT VM1 Local Namespace Entity ID.
 type: docs
 weight: 22940
-url: /aspose.medical.dicom.tags/tag/localnamespaceentityid/
+url: /net/aspose.medical.dicom.tags/tag/localnamespaceentityid/
 ---
 
 ## Tag.LocalNamespaceEntityID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189470 VRFL VM1 Table Head Tilt Angle.
 type: docs
 weight: 46770
-url: /aspose.medical.dicom.tags/tag/tableheadtiltangle/
+url: /net/aspose.medical.dicom.tags/tag/tableheadtiltangle/
 ---
 
 ## Tag.TableHeadTiltAngle field

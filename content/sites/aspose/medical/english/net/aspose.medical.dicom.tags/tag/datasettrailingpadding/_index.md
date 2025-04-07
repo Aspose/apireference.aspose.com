@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: FFFCFFFC VROB VM1 Data Set Trailing Padding.
 type: docs
 weight: 9980
-url: /aspose.medical.dicom.tags/tag/datasettrailingpadding/
+url: /net/aspose.medical.dicom.tags/tag/datasettrailingpadding/
 ---
 
 ## Tag.DataSetTrailingPadding field

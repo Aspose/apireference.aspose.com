@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321021 VRAE VM1-n Scheduled Study Location AE Title RETIRED.
 type: docs
 weight: 41580
-url: /aspose.medical.dicom.tags/tag/scheduledstudylocationaetitleretired/
+url: /net/aspose.medical.dicom.tags/tag/scheduledstudylocationaetitleretired/
 ---
 
 ## Tag.ScheduledStudyLocationAETitleRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002000A VRCS VM1 Reported Values Origin.
 type: docs
 weight: 38530
-url: /aspose.medical.dicom.tags/tag/reportedvaluesorigin/
+url: /net/aspose.medical.dicom.tags/tag/reportedvaluesorigin/
 ---
 
 ## Tag.ReportedValuesOrigin field

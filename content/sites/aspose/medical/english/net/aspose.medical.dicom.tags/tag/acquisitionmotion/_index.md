@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189930 VRCS VM1 Acquisition Motion.
 type: docs
 weight: 410
-url: /aspose.medical.dicom.tags/tag/acquisitionmotion/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionmotion/
 ---
 
 ## Tag.AcquisitionMotion field

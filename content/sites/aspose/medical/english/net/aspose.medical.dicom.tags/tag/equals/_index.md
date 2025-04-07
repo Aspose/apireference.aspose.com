@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 53100
-url: /aspose.medical.dicom.tags/tag/equals/
+url: /net/aspose.medical.dicom.tags/tag/equals/
 ---
 
 ## Equals(Tag) {#equals}

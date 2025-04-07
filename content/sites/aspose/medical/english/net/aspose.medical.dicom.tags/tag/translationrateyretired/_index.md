@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014409D VRDS VM1 Translation Rate Y RETIRED.
 type: docs
 weight: 49480
-url: /aspose.medical.dicom.tags/tag/translationrateyretired/
+url: /net/aspose.medical.dicom.tags/tag/translationrateyretired/
 ---
 
 ## Tag.TranslationRateYRETIRED field

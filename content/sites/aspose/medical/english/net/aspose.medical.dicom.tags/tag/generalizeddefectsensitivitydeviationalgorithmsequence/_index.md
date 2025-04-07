@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240067 VRSQ VM1 Generalized Defect Sensitivity Deviation Algorithm Sequence.
 type: docs
 weight: 17200
-url: /aspose.medical.dicom.tags/tag/generalizeddefectsensitivitydeviationalgorithmsequence/
+url: /net/aspose.medical.dicom.tags/tag/generalizeddefectsensitivitydeviationalgorithmsequence/
 ---
 
 ## Tag.GeneralizedDefectSensitivityDeviationAlgorithmSequence field

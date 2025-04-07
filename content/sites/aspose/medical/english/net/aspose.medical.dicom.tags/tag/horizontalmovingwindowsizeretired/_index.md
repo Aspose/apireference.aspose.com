@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146056 VRDS VM1 Horizontal Moving Window Size RETIRED.
 type: docs
 weight: 18500
-url: /aspose.medical.dicom.tags/tag/horizontalmovingwindowsizeretired/
+url: /net/aspose.medical.dicom.tags/tag/horizontalmovingwindowsizeretired/
 ---
 
 ## Tag.HorizontalMovingWindowSizeRETIRED field

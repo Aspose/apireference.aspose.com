@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146020 VRUV VM1 Acquisition Image Counter RETIRED.
 type: docs
 weight: 330
-url: /aspose.medical.dicom.tags/tag/acquisitionimagecounterretired/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionimagecounterretired/
 ---
 
 ## Tag.AcquisitionImageCounterRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081303 VRSQ VM1 Secondary Diagnoses Code Sequence.
 type: docs
 weight: 41830
-url: /aspose.medical.dicom.tags/tag/secondarydiagnosescodesequence/
+url: /net/aspose.medical.dicom.tags/tag/secondarydiagnosescodesequence/
 ---
 
 ## Tag.SecondaryDiagnosesCodeSequence field

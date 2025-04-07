@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00184000 VRLT VM1 Acquisition Comments RETIRED.
 type: docs
 weight: 180
-url: /aspose.medical.dicom.tags/tag/acquisitioncommentsretired/
+url: /net/aspose.medical.dicom.tags/tag/acquisitioncommentsretired/
 ---
 
 ## Tag.AcquisitionCommentsRETIRED field

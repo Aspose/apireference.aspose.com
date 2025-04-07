@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189921 VRUS VM1 Protocol Element Number.
 type: docs
 weight: 33680
-url: /aspose.medical.dicom.tags/tag/protocolelementnumber/
+url: /net/aspose.medical.dicom.tags/tag/protocolelementnumber/
 ---
 
 ## Tag.ProtocolElementNumber field

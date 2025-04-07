@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: FFFEE00D VRNONE VM1 Item Delimitation Item.
 type: docs
 weight: 21940
-url: /aspose.medical.dicom.tags/tag/itemdelimitationitem/
+url: /net/aspose.medical.dicom.tags/tag/itemdelimitationitem/
 ---
 
 ## Tag.ItemDelimitationItem field

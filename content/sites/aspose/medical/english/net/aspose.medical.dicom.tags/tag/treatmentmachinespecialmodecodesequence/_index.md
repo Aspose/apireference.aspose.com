@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0635 VRSQ VM1 Treatment Machine Special Mode Code Sequence.
 type: docs
 weight: 49670
-url: /aspose.medical.dicom.tags/tag/treatmentmachinespecialmodecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/treatmentmachinespecialmodecodesequence/
 ---
 
 ## Tag.TreatmentMachineSpecialModeCodeSequence field

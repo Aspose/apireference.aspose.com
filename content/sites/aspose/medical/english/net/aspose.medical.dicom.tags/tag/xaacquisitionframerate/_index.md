@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811B9 VRFD VM1 XA Acquisition Frame Rate.
 type: docs
 weight: 52590
-url: /aspose.medical.dicom.tags/tag/xaacquisitionframerate/
+url: /net/aspose.medical.dicom.tags/tag/xaacquisitionframerate/
 ---
 
 ## Tag.XAAcquisitionFrameRate field

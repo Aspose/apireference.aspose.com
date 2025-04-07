@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180024 VRSH VM1 Sequence Name.
 type: docs
 weight: 42820
-url: /aspose.medical.dicom.tags/tag/sequencename/
+url: /net/aspose.medical.dicom.tags/tag/sequencename/
 ---
 
 ## Tag.SequenceName field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0209 VRSQ VM1 Channel Source Modifiers Sequence.
 type: docs
 weight: 5720
-url: /aspose.medical.dicom.tags/tag/channelsourcemodifierssequence/
+url: /net/aspose.medical.dicom.tags/tag/channelsourcemodifierssequence/
 ---
 
 ## Tag.ChannelSourceModifiersSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Inventory - FIND.
 type: docs
 weight: 2110
-url: /aspose.medical.dicom/uid/inventoryfind/
+url: /net/aspose.medical.dicom/uid/inventoryfind/
 ---
 
 ## Uid.InventoryFIND field

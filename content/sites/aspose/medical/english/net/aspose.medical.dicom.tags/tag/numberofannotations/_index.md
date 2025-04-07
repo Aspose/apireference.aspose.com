@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006A000C VRUL VM1 Number of Annotations.
 type: docs
 weight: 26070
-url: /aspose.medical.dicom.tags/tag/numberofannotations/
+url: /net/aspose.medical.dicom.tags/tag/numberofannotations/
 ---
 
 ## Tag.NumberOfAnnotations field

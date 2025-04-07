@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0230 VRFL VM1 Waveform Data Display Scale.
 type: docs
 weight: 51960
-url: /aspose.medical.dicom.tags/tag/waveformdatadisplayscale/
+url: /net/aspose.medical.dicom.tags/tag/waveformdatadisplayscale/
 ---
 
 ## Tag.WaveformDataDisplayScale field

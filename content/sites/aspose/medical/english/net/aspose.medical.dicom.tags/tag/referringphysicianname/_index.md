@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080090 VRPN VM1 Referring Physicians Name.
 type: docs
 weight: 37860
-url: /aspose.medical.dicom.tags/tag/referringphysicianname/
+url: /net/aspose.medical.dicom.tags/tag/referringphysicianname/
 ---
 
 ## Tag.ReferringPhysicianName field

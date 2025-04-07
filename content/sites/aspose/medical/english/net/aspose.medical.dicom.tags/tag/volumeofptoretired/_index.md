@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101023 VRFL VM1 Volume of PTO RETIRED.
 type: docs
 weight: 51650
-url: /aspose.medical.dicom.tags/tag/volumeofptoretired/
+url: /net/aspose.medical.dicom.tags/tag/volumeofptoretired/
 ---
 
 ## Tag.VolumeOfPTORETIRED field

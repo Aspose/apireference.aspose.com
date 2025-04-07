@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480008 VRSQ VM1 Total Pixel Matrix Origin Sequence.
 type: docs
 weight: 48970
-url: /aspose.medical.dicom.tags/tag/totalpixelmatrixoriginsequence/
+url: /net/aspose.medical.dicom.tags/tag/totalpixelmatrixoriginsequence/
 ---
 
 ## Tag.TotalPixelMatrixOriginSequence field

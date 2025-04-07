@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401010 VRPN VM1-n Names of Intended Recipients of Results.
 type: docs
 weight: 25670
-url: /aspose.medical.dicom.tags/tag/namesofintendedrecipientsofresults/
+url: /net/aspose.medical.dicom.tags/tag/namesofintendedrecipientsofresults/
 ---
 
 ## Tag.NamesOfIntendedRecipientsOfResults field

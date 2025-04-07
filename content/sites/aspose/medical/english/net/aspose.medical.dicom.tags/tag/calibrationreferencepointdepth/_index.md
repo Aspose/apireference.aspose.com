@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0124 VRFD VM1 Calibration Reference Point Depth.
 type: docs
 weight: 4960
-url: /aspose.medical.dicom.tags/tag/calibrationreferencepointdepth/
+url: /net/aspose.medical.dicom.tags/tag/calibrationreferencepointdepth/
 ---
 
 ## Tag.CalibrationReferencePointDepth field

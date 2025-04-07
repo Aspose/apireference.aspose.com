@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146010 VRDS VM1 Flash Duration RETIRED.
 type: docs
 weight: 15800
-url: /aspose.medical.dicom.tags/tag/flashdurationretired/
+url: /net/aspose.medical.dicom.tags/tag/flashdurationretired/
 ---
 
 ## Tag.FlashDurationRETIRED field

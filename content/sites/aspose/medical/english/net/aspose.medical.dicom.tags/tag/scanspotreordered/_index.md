@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0393 VRCS VM1 Scan Spot Reordered.
 type: docs
 weight: 41130
-url: /aspose.medical.dicom.tags/tag/scanspotreordered/
+url: /net/aspose.medical.dicom.tags/tag/scanspotreordered/
 ---
 
 ## Tag.ScanSpotReordered field

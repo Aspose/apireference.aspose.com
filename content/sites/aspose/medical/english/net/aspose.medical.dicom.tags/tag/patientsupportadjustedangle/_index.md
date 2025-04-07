@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0074102A VRFD VM1 Patient Support Adjusted Angle.
 type: docs
 weight: 30220
-url: /aspose.medical.dicom.tags/tag/patientsupportadjustedangle/
+url: /net/aspose.medical.dicom.tags/tag/patientsupportadjustedangle/
 ---
 
 ## Tag.PatientSupportAdjustedAngle field

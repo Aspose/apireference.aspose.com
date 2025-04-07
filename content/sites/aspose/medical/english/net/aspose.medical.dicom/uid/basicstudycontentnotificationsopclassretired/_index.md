@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Basic Study Content Notification SOP Class Retired.
 type: docs
 weight: 200
-url: /aspose.medical.dicom/uid/basicstudycontentnotificationsopclassretired/
+url: /net/aspose.medical.dicom/uid/basicstudycontentnotificationsopclassretired/
 ---
 
 ## Uid.BasicStudyContentNotificationSOPClassRetired field

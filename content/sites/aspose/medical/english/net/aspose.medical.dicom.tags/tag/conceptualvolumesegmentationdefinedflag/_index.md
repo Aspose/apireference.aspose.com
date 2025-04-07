@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100010 VRCS VM1 Conceptual Volume Segmentation Defined Flag.
 type: docs
 weight: 7390
-url: /aspose.medical.dicom.tags/tag/conceptualvolumesegmentationdefinedflag/
+url: /net/aspose.medical.dicom.tags/tag/conceptualvolumesegmentationdefinedflag/
 ---
 
 ## Tag.ConceptualVolumeSegmentationDefinedFlag field

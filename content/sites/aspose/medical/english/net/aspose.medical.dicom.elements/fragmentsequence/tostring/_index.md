@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 120
-url: /aspose.medical.dicom.elements/fragmentsequence/tostring/
+url: /net/aspose.medical.dicom.elements/fragmentsequence/tostring/
 ---
 
 ## FragmentSequence.ToString method

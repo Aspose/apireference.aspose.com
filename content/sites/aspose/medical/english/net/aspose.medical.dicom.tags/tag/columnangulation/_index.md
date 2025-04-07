@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181450 VRDS VM1 Column Angulation.
 type: docs
 weight: 6440
-url: /aspose.medical.dicom.tags/tag/columnangulation/
+url: /net/aspose.medical.dicom.tags/tag/columnangulation/
 ---
 
 ## Tag.ColumnAngulation field

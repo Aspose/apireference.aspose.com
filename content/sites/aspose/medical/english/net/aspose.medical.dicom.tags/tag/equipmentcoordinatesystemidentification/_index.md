@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289537 VRCS VM1 Equipment Coordinate System Identification.
 type: docs
 weight: 13860
-url: /aspose.medical.dicom.tags/tag/equipmentcoordinatesystemidentification/
+url: /net/aspose.medical.dicom.tags/tag/equipmentcoordinatesystemidentification/
 ---
 
 ## Tag.EquipmentCoordinateSystemIdentification field

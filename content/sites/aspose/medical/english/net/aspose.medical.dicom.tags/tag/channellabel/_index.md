@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0203 VRSH VM1 Channel Label.
 type: docs
 weight: 5500
-url: /aspose.medical.dicom.tags/tag/channellabel/
+url: /net/aspose.medical.dicom.tags/tag/channellabel/
 ---
 
 ## Tag.ChannelLabel field

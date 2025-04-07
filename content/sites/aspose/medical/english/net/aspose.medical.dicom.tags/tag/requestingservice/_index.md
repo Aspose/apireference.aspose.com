@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321033 VRLO VM1 Requesting Service.
 type: docs
 weight: 38860
-url: /aspose.medical.dicom.tags/tag/requestingservice/
+url: /net/aspose.medical.dicom.tags/tag/requestingservice/
 ---
 
 ## Tag.RequestingService field

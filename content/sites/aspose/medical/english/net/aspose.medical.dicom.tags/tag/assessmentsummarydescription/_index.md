@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820003 VRUT VM1 Assessment Summary Description.
 type: docs
 weight: 2630
-url: /aspose.medical.dicom.tags/tag/assessmentsummarydescription/
+url: /net/aspose.medical.dicom.tags/tag/assessmentsummarydescription/
 ---
 
 ## Tag.AssessmentSummaryDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006865E0 VRSQ VM1 2D Plane Coordinates Sequence.
 type: docs
 weight: 50230
-url: /aspose.medical.dicom.tags/tag/twodplanecoordinatessequence/
+url: /net/aspose.medical.dicom.tags/tag/twodplanecoordinatessequence/
 ---
 
 ## Tag.TwoDPlaneCoordinatesSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Rendition Selection Document Real-Time Communication.
 type: docs
 weight: 3920
-url: /aspose.medical.dicom/uid/renditionselectiondocumentrealtimecommunication/
+url: /net/aspose.medical.dicom/uid/renditionselectiondocumentrealtimecommunication/
 ---
 
 ## Uid.RenditionSelectionDocumentRealTimeCommunication field

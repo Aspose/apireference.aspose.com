@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700209 VRSQ VM1 Compound Graphic Sequence.
 type: docs
 weight: 7100
-url: /aspose.medical.dicom.tags/tag/compoundgraphicsequence/
+url: /net/aspose.medical.dicom.tags/tag/compoundgraphicsequence/
 ---
 
 ## Tag.CompoundGraphicSequence field

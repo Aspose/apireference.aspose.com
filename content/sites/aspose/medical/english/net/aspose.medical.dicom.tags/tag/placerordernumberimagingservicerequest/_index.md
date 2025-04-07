@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00402016 VRLO VM1 Placer Order Number / Imaging Service Request.
 type: docs
 weight: 31630
-url: /aspose.medical.dicom.tags/tag/placerordernumberimagingservicerequest/
+url: /net/aspose.medical.dicom.tags/tag/placerordernumberimagingservicerequest/
 ---
 
 ## Tag.PlacerOrderNumberImagingServiceRequest field

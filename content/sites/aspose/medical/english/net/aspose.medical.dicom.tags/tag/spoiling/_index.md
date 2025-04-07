@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189016 VRCS VM1 Spoiling.
 type: docs
 weight: 45230
-url: /aspose.medical.dicom.tags/tag/spoiling/
+url: /net/aspose.medical.dicom.tags/tag/spoiling/
 ---
 
 ## Tag.Spoiling field

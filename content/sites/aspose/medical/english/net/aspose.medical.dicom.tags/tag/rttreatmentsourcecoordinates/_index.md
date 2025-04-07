@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100093 VRFD VM3 RT Treatment Source Coordinates.
 type: docs
 weight: 40720
-url: /aspose.medical.dicom.tags/tag/rttreatmentsourcecoordinates/
+url: /net/aspose.medical.dicom.tags/tag/rttreatmentsourcecoordinates/
 ---
 
 ## Tag.RTTreatmentSourceCoordinates field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Default RenderOptionsaspose.medical.dicom.imaging.options/renderoptions. Read-only RenderOptionsaspose.medical.dicom.imaging.options/renderoptions.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.imaging.options/renderoptions/default/
+url: /net/aspose.medical.dicom.imaging.options/renderoptions/default/
 ---
 
 ## RenderOptions.Default property

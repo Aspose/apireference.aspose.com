@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280108 VRUS or SS VM1 Smallest Pixel Value in Series.
 type: docs
 weight: 43670
-url: /aspose.medical.dicom.tags/tag/smallestpixelvalueinseries/
+url: /net/aspose.medical.dicom.tags/tag/smallestpixelvalueinseries/
 ---
 
 ## Tag.SmallestPixelValueInSeries field

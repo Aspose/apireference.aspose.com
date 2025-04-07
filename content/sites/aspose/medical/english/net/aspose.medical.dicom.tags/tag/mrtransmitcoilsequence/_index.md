@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189049 VRSQ VM1 MR Transmit Coil Sequence.
 type: docs
 weight: 25330
-url: /aspose.medical.dicom.tags/tag/mrtransmitcoilsequence/
+url: /net/aspose.medical.dicom.tags/tag/mrtransmitcoilsequence/
 ---
 
 ## Tag.MRTransmitCoilSequence field

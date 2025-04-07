@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax SMPTE ST 2110-30 PCM Digital Audio.
 type: docs
 weight: 4320
-url: /aspose.medical.dicom/uid/smptest211030pcmdigitalaudio/
+url: /net/aspose.medical.dicom/uid/smptest211030pcmdigitalaudio/
 ---
 
 ## Uid.SMPTEST211030PCMDigitalAudio field

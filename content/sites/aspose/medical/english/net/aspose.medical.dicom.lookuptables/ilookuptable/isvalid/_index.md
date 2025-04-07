@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Indicates whether the Look-Up Table is valid true or not. Read-only Boolean.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.lookuptables/ilookuptable/isvalid/
+url: /net/aspose.medical.dicom.lookuptables/ilookuptable/isvalid/
 ---
 
 ## ILookUpTable.IsValid property

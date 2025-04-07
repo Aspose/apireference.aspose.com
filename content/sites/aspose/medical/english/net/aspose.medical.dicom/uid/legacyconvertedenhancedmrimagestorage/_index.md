@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Legacy Converted Enhanced MR Image Storage.
 type: docs
 weight: 2500
-url: /aspose.medical.dicom/uid/legacyconvertedenhancedmrimagestorage/
+url: /net/aspose.medical.dicom/uid/legacyconvertedenhancedmrimagestorage/
 ---
 
 ## Uid.LegacyConvertedEnhancedMRImageStorage field

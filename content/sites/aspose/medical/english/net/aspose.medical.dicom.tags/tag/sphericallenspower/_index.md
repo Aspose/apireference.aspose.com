@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220007 VRFL VM1 Spherical Lens Power.
 type: docs
 weight: 45210
-url: /aspose.medical.dicom.tags/tag/sphericallenspower/
+url: /net/aspose.medical.dicom.tags/tag/sphericallenspower/
 ---
 
 ## Tag.SphericalLensPower field

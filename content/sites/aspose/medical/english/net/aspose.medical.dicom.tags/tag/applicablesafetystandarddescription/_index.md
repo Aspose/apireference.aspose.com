@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189175 VRLO VM1 Applicable Safety Standard Description.
 type: docs
 weight: 2040
-url: /aspose.medical.dicom.tags/tag/applicablesafetystandarddescription/
+url: /net/aspose.medical.dicom.tags/tag/applicablesafetystandarddescription/
 ---
 
 ## Tag.ApplicableSafetyStandardDescription field

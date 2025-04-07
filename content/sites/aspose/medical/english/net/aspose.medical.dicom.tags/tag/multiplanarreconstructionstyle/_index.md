@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701501 VRCS VM1 Multi-Planar Reconstruction Style.
 type: docs
 weight: 25530
-url: /aspose.medical.dicom.tags/tag/multiplanarreconstructionstyle/
+url: /net/aspose.medical.dicom.tags/tag/multiplanarreconstructionstyle/
 ---
 
 ## Tag.MultiPlanarReconstructionStyle field

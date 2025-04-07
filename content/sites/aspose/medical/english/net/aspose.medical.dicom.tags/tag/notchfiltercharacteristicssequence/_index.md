@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0321 VRSQ VM1 Notch Filter Characteristics Sequence.
 type: docs
 weight: 26000
-url: /aspose.medical.dicom.tags/tag/notchfiltercharacteristicssequence/
+url: /net/aspose.medical.dicom.tags/tag/notchfiltercharacteristicssequence/
 ---
 
 ## Tag.NotchFilterCharacteristicsSequence field

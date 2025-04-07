@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189733 VRSQ VM1 PET Detector Motion Details Sequence.
 type: docs
 weight: 31000
-url: /aspose.medical.dicom.tags/tag/petdetectormotiondetailssequence/
+url: /net/aspose.medical.dicom.tags/tag/petdetectormotiondetailssequence/
 ---
 
 ## Tag.PETDetectorMotionDetailsSequence field

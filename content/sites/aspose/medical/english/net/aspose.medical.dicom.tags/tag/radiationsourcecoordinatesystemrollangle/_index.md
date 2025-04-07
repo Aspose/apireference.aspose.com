@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100095 VRFD VM1 Radiation Source Coordinate SystemRoll Angle.
 type: docs
 weight: 34470
-url: /aspose.medical.dicom.tags/tag/radiationsourcecoordinatesystemrollangle/
+url: /net/aspose.medical.dicom.tags/tag/radiationsourcecoordinatesystemrollangle/
 ---
 
 ## Tag.RadiationSourceCoordinateSystemRollAngle field

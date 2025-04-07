@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080118 VRSQ VM1 Results Distribution List Sequence RETIRED.
 type: docs
 weight: 39110
-url: /aspose.medical.dicom.tags/tag/resultsdistributionlistsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/resultsdistributionlistsequenceretired/
 ---
 
 ## Tag.ResultsDistributionListSequenceRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701511 VRFD VM3 MPR View Height Direction.
 type: docs
 weight: 25100
-url: /aspose.medical.dicom.tags/tag/mprviewheightdirection/
+url: /net/aspose.medical.dicom.tags/tag/mprviewheightdirection/
 ---
 
 ## Tag.MPRViewHeightDirection field

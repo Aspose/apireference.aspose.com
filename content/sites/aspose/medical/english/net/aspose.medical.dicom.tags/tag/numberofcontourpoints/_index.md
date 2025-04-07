@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060046 VRIS VM1 Number of Contour Points.
 type: docs
 weight: 26220
-url: /aspose.medical.dicom.tags/tag/numberofcontourpoints/
+url: /net/aspose.medical.dicom.tags/tag/numberofcontourpoints/
 ---
 
 ## Tag.NumberOfContourPoints field

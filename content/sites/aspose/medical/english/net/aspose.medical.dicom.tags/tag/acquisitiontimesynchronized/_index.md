@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181800 VRCS VM1 Acquisition Time Synchronized.
 type: docs
 weight: 640
-url: /aspose.medical.dicom.tags/tag/acquisitiontimesynchronized/
+url: /net/aspose.medical.dicom.tags/tag/acquisitiontimesynchronized/
 ---
 
 ## Tag.AcquisitionTimeSynchronized field

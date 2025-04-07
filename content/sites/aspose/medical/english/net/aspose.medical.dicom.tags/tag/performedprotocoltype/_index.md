@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400261 VRCS VM1 Performed Protocol Type.
 type: docs
 weight: 30760
-url: /aspose.medical.dicom.tags/tag/performedprotocoltype/
+url: /net/aspose.medical.dicom.tags/tag/performedprotocoltype/
 ---
 
 ## Tag.PerformedProtocolType field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Surface Segmentation Storage.
 type: docs
 weight: 4610
-url: /aspose.medical.dicom/uid/surfacesegmentationstorage/
+url: /net/aspose.medical.dicom/uid/surfacesegmentationstorage/
 ---
 
 ## Uid.SurfaceSegmentationStorage field

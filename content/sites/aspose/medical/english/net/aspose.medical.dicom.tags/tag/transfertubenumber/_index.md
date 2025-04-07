@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02A2 VRIS VM1 Transfer Tube Number.
 type: docs
 weight: 49380
-url: /aspose.medical.dicom.tags/tag/transfertubenumber/
+url: /net/aspose.medical.dicom.tags/tag/transfertubenumber/
 ---
 
 ## Tag.TransferTubeNumber field

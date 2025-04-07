@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 140
-url: /aspose.medical.imaging.pixelformats/bgra32/toscaledvector4/
+url: /net/aspose.medical.imaging.pixelformats/bgra32/toscaledvector4/
 ---
 
 ## Bgra32.ToScaledVector4 method

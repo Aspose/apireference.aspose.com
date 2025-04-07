@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0663 VRCS VM1 Compensator Map Orientation.
 type: docs
 weight: 6700
-url: /aspose.medical.dicom.tags/tag/compensatormaporientation/
+url: /net/aspose.medical.dicom.tags/tag/compensatormaporientation/
 ---
 
 ## Tag.CompensatorMapOrientation field

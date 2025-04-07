@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186039 VRSL VM1 Doppler Sample Volume X Position.
 type: docs
 weight: 12580
-url: /aspose.medical.dicom.tags/tag/dopplersamplevolumexposition/
+url: /net/aspose.medical.dicom.tags/tag/dopplersamplevolumexposition/
 ---
 
 ## Tag.DopplerSampleVolumeXPosition field

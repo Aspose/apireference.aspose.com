@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200016 VRIS VM1 Interval Number RETIRED.
 type: docs
 weight: 21100
-url: /aspose.medical.dicom.tags/tag/intervalnumberretired/
+url: /net/aspose.medical.dicom.tags/tag/intervalnumberretired/
 ---
 
 ## Tag.IntervalNumberRETIRED field

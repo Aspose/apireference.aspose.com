@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 60
-url: /aspose.medical.dicom.elements/sequence/get/
+url: /net/aspose.medical.dicom.elements/sequence/get/
 ---
 
 ## Get&lt;T&gt;(int) {#get_1}

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0042 VRIS VM1 Tolerance Table Number.
 type: docs
 weight: 48660
-url: /aspose.medical.dicom.tags/tag/tolerancetablenumber/
+url: /net/aspose.medical.dicom.tags/tag/tolerancetablenumber/
 ---
 
 ## Tag.ToleranceTableNumber field

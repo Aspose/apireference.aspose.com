@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700087 VRSQ VM1 Alternate Content Description Sequence.
 type: docs
 weight: 1370
-url: /aspose.medical.dicom.tags/tag/alternatecontentdescriptionsequence/
+url: /net/aspose.medical.dicom.tags/tag/alternatecontentdescriptionsequence/
 ---
 
 ## Tag.AlternateContentDescriptionSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008030B VRUL VM1-2 Private Data Element Number of Items.
 type: docs
 weight: 33130
-url: /aspose.medical.dicom.tags/tag/privatedataelementnumberofitems/
+url: /net/aspose.medical.dicom.tags/tag/privatedataelementnumberofitems/
 ---
 
 ## Tag.PrivateDataElementNumberOfItems field

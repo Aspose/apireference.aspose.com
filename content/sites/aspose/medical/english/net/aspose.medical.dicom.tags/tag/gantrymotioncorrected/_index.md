@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189762 VRCS VM1 Gantry Motion Corrected.
 type: docs
 weight: 16990
-url: /aspose.medical.dicom.tags/tag/gantrymotioncorrected/
+url: /net/aspose.medical.dicom.tags/tag/gantrymotioncorrected/
 ---
 
 ## Tag.GantryMotionCorrected field

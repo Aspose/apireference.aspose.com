@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181490 VRCS VM1 Tomo Type.
 type: docs
 weight: 48760
-url: /aspose.medical.dicom.tags/tag/tomotype/
+url: /net/aspose.medical.dicom.tags/tag/tomotype/
 ---
 
 ## Tag.TomoType field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A032C VRSQ VM1 Frequency Encoding Code Sequence.
 type: docs
 weight: 16840
-url: /aspose.medical.dicom.tags/tag/frequencyencodingcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/frequencyencodingcodesequence/
 ---
 
 ## Tag.FrequencyEncodingCodeSequence field

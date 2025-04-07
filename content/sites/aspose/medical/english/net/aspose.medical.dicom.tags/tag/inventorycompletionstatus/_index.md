@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080426 VRCS VM1 Inventory Completion Status.
 type: docs
 weight: 21330
-url: /aspose.medical.dicom.tags/tag/inventorycompletionstatus/
+url: /net/aspose.medical.dicom.tags/tag/inventorycompletionstatus/
 ---
 
 ## Tag.InventoryCompletionStatus field

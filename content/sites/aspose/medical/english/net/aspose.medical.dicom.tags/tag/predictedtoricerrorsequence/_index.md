@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221048 VRSQ VM1 Predicted Toric Error Sequence.
 type: docs
 weight: 32360
-url: /aspose.medical.dicom.tags/tag/predictedtoricerrorsequence/
+url: /net/aspose.medical.dicom.tags/tag/predictedtoricerrorsequence/
 ---
 
 ## Tag.PredictedToricErrorSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720024 VRCS VM1 Image Set Selector Usage Flag.
 type: docs
 weight: 19530
-url: /aspose.medical.dicom.tags/tag/imagesetselectorusageflag/
+url: /net/aspose.medical.dicom.tags/tag/imagesetselectorusageflag/
 ---
 
 ## Tag.ImageSetSelectorUsageFlag field

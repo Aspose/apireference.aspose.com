@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189727 VRFD VM1 Axial Detector Dimension.
 type: docs
 weight: 3060
-url: /aspose.medical.dicom.tags/tag/axialdetectordimension/
+url: /net/aspose.medical.dicom.tags/tag/axialdetectordimension/
 ---
 
 ## Tag.AxialDetectorDimension field

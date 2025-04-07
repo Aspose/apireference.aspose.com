@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0213 VRDS VM1 Channel Baseline.
 type: docs
 weight: 5380
-url: /aspose.medical.dicom.tags/tag/channelbaseline/
+url: /net/aspose.medical.dicom.tags/tag/channelbaseline/
 ---
 
 ## Tag.ChannelBaseline field

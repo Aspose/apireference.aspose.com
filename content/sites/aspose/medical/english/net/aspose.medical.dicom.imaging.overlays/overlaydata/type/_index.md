@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The overlay type. Read/Write OverlayTypeaspose.medical.dicom.imaging.overlays/overlaytype.
 type: docs
 weight: 120
-url: /aspose.medical.dicom.imaging.overlays/overlaydata/type/
+url: /net/aspose.medical.dicom.imaging.overlays/overlaydata/type/
 ---
 
 ## OverlayData.Type property

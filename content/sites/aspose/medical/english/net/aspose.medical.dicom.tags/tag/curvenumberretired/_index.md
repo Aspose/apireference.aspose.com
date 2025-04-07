@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200024 VRIS VM1 Curve Number RETIRED.
 type: docs
 weight: 9530
-url: /aspose.medical.dicom.tags/tag/curvenumberretired/
+url: /net/aspose.medical.dicom.tags/tag/curvenumberretired/
 ---
 
 ## Tag.CurveNumberRETIRED field

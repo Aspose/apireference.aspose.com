@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0072003C VRSS VM2 Abstract Prior Value.
 type: docs
 weight: 70
-url: /aspose.medical.dicom.tags/tag/abstractpriorvalue/
+url: /net/aspose.medical.dicom.tags/tag/abstractpriorvalue/
 ---
 
 ## Tag.AbstractPriorValue field

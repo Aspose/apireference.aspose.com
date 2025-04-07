@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class VOI LUT Box SOP Class.
 type: docs
 weight: 5060
-url: /aspose.medical.dicom/uid/voilutboxsopclass/
+url: /net/aspose.medical.dicom/uid/voilutboxsopclass/
 ---
 
 ## Uid.VOILUTBoxSOPClass field

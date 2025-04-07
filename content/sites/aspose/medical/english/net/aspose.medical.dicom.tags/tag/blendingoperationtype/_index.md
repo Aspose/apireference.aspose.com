@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720500 VRCS VM1 Blending Operation Type.
 type: docs
 weight: 3900
-url: /aspose.medical.dicom.tags/tag/blendingoperationtype/
+url: /net/aspose.medical.dicom.tags/tag/blendingoperationtype/
 ---
 
 ## Tag.BlendingOperationType field

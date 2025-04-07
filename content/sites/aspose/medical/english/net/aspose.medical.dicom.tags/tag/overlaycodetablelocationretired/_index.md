@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0803 VRAT VM1-n Overlay Code Table Location RETIRED.
 type: docs
 weight: 28880
-url: /aspose.medical.dicom.tags/tag/overlaycodetablelocationretired/
+url: /net/aspose.medical.dicom.tags/tag/overlaycodetablelocationretired/
 ---
 
 ## Tag.OverlayCodeTableLocationRETIRED field

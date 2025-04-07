@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720400 VRSQ VM1 Filter Operations Sequence.
 type: docs
 weight: 15430
-url: /aspose.medical.dicom.tags/tag/filteroperationssequence/
+url: /net/aspose.medical.dicom.tags/tag/filteroperationssequence/
 ---
 
 ## Tag.FilterOperationsSequence field

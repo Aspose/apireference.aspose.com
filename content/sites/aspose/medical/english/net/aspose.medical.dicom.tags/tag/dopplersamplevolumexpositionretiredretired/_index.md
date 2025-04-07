@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186038 VRUL VM1 Doppler Sample Volume X Position Retired RETIRED.
 type: docs
 weight: 12590
-url: /aspose.medical.dicom.tags/tag/dopplersamplevolumexpositionretiredretired/
+url: /net/aspose.medical.dicom.tags/tag/dopplersamplevolumexpositionretiredretired/
 ---
 
 ## Tag.DopplerSampleVolumeXPositionRetiredRETIRED field

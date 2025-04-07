@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080400 VRSQ VM1 Scope of Inventory Sequence.
 type: docs
 weight: 41650
-url: /aspose.medical.dicom.tags/tag/scopeofinventorysequence/
+url: /net/aspose.medical.dicom.tags/tag/scopeofinventorysequence/
 ---
 
 ## Tag.ScopeOfInventorySequence field

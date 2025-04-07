@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Determines whether two specified ranges have different values.
 type: docs
 weight: 100
-url: /aspose.medical.dicom.elements/daterange/op_inequality/
+url: /net/aspose.medical.dicom.elements/daterange/op_inequality/
 ---
 
 ## DateRange Inequality operator

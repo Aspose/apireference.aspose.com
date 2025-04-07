@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Recalculates recalculation is forced LUT data.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.lookuptables/ilookuptable/recalculate/
+url: /net/aspose.medical.dicom.lookuptables/ilookuptable/recalculate/
 ---
 
 ## ILookUpTable.Recalculate method

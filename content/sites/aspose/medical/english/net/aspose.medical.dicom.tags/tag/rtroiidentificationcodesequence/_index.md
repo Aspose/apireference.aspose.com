@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060086 VRSQ VM1 RT ROI Identification Code Sequence.
 type: docs
 weight: 40560
-url: /aspose.medical.dicom.tags/tag/rtroiidentificationcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/rtroiidentificationcodesequence/
 ---
 
 ## Tag.RTROIIdentificationCodeSequence field

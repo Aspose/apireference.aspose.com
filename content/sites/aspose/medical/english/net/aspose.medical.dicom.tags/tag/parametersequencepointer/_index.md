@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080061 VRAT VM1 Parameter Sequence Pointer.
 type: docs
 weight: 29540
-url: /aspose.medical.dicom.tags/tag/parametersequencepointer/
+url: /net/aspose.medical.dicom.tags/tag/parametersequencepointer/
 ---
 
 ## Tag.ParameterSequencePointer field

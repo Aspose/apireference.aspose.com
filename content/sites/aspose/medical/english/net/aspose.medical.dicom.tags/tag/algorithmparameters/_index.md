@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660032 VRLT VM1 Algorithm Parameters.
 type: docs
 weight: 1180
-url: /aspose.medical.dicom.tags/tag/algorithmparameters/
+url: /net/aspose.medical.dicom.tags/tag/algorithmparameters/
 ---
 
 ## Tag.AlgorithmParameters field

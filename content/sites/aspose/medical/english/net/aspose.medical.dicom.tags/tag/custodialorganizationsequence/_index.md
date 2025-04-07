@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A07C VRSQ VM1 Custodial Organization Sequence.
 type: docs
 weight: 9580
-url: /aspose.medical.dicom.tags/tag/custodialorganizationsequence/
+url: /net/aspose.medical.dicom.tags/tag/custodialorganizationsequence/
 ---
 
 ## Tag.CustodialOrganizationSequence field

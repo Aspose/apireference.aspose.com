@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080074 VRST VM1 Calculated Dose Reference Description.
 type: docs
 weight: 4810
-url: /aspose.medical.dicom.tags/tag/calculateddosereferencedescription/
+url: /net/aspose.medical.dicom.tags/tag/calculateddosereferencedescription/
 ---
 
 ## Tag.CalculatedDoseReferenceDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0153 VRDS VM1 Chair Head Frame Position Tolerance.
 type: docs
 weight: 5370
-url: /aspose.medical.dicom.tags/tag/chairheadframepositiontolerance/
+url: /net/aspose.medical.dicom.tags/tag/chairheadframepositiontolerance/
 ---
 
 ## Tag.ChairHeadFramePositionTolerance field

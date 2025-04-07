@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701502 VRCS VM1 MPR Thickness Type.
 type: docs
 weight: 25070
-url: /aspose.medical.dicom.tags/tag/mprthicknesstype/
+url: /net/aspose.medical.dicom.tags/tag/mprthicknesstype/
 ---
 
 ## Tag.MPRThicknessType field

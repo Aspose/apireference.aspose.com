@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040003A VRSQ VM1 Assigning Agency or Department Code Sequence.
 type: docs
 weight: 2660
-url: /aspose.medical.dicom.tags/tag/assigningagencyordepartmentcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/assigningagencyordepartmentcodesequence/
 ---
 
 ## Tag.AssigningAgencyOrDepartmentCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185212 VRDS VM3 Image Translation Vector RETIRED.
 type: docs
 weight: 19600
-url: /aspose.medical.dicom.tags/tag/imagetranslationvectorretired/
+url: /net/aspose.medical.dicom.tags/tag/imagetranslationvectorretired/
 ---
 
 ## Tag.ImageTranslationVectorRETIRED field

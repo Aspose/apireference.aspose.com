@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 20
-url: /aspose.medical.dicom.elements/otherdouble/valuerepresentation/
+url: /net/aspose.medical.dicom.elements/otherdouble/valuerepresentation/
 ---
 
 ## OtherDouble.ValueRepresentation property

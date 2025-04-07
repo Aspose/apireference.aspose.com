@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Indicates whether the transfer syntax data representation is lossy. Read-only Boolean.
 type: docs
 weight: 640
-url: /aspose.medical.dicom/transfersyntax/islossy/
+url: /net/aspose.medical.dicom/transfersyntax/islossy/
 ---
 
 ## TransferSyntax.IsLossy property

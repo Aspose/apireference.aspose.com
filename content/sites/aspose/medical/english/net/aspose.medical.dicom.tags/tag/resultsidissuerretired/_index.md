@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080042 VRLO VM1 Results ID Issuer RETIRED.
 type: docs
 weight: 39120
-url: /aspose.medical.dicom.tags/tag/resultsidissuerretired/
+url: /net/aspose.medical.dicom.tags/tag/resultsidissuerretired/
 ---
 
 ## Tag.ResultsIDIssuerRETIRED field

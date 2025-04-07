@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060040 VRSQ VM1 Contour Sequence.
 type: docs
 weight: 8130
-url: /aspose.medical.dicom.tags/tag/contoursequence/
+url: /net/aspose.medical.dicom.tags/tag/contoursequence/
 ---
 
 ## Tag.ContourSequence field

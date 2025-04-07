@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720710 VRCS VM1 Show Image True Size Flag.
 type: docs
 weight: 43340
-url: /aspose.medical.dicom.tags/tag/showimagetruesizeflag/
+url: /net/aspose.medical.dicom.tags/tag/showimagetruesizeflag/
 ---
 
 ## Tag.ShowImageTrueSizeFlag field

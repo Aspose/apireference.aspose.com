@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185011 VRSQ VM1 Transducer Identification Sequence.
 type: docs
 weight: 49250
-url: /aspose.medical.dicom.tags/tag/transduceridentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/transduceridentificationsequence/
 ---
 
 ## Tag.TransducerIdentificationSequence field

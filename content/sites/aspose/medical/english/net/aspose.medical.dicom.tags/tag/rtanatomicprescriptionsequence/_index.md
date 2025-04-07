@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100060 VRSQ VM1 RT Anatomic Prescription Sequence.
 type: docs
 weight: 39940
-url: /aspose.medical.dicom.tags/tag/rtanatomicprescriptionsequence/
+url: /net/aspose.medical.dicom.tags/tag/rtanatomicprescriptionsequence/
 ---
 
 ## Tag.RTAnatomicPrescriptionSequence field

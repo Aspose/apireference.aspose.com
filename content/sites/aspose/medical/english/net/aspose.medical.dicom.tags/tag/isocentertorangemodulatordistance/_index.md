@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A038A VRFL VM1 Isocenter to Range Modulator Distance.
 type: docs
 weight: 21680
-url: /aspose.medical.dicom.tags/tag/isocentertorangemodulatordistance/
+url: /net/aspose.medical.dicom.tags/tag/isocentertorangemodulatordistance/
 ---
 
 ## Tag.IsocenterToRangeModulatorDistance field

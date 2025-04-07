@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287003 VRUS VM1 Display Subsystem ID.
 type: docs
 weight: 12270
-url: /aspose.medical.dicom.tags/tag/displaysubsystemid/
+url: /net/aspose.medical.dicom.tags/tag/displaysubsystemid/
 ---
 
 ## Tag.DisplaySubsystemID field

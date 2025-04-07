@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460018 VRSQ VM1 Cylinder Sequence.
 type: docs
 weight: 9640
-url: /aspose.medical.dicom.tags/tag/cylindersequence/
+url: /net/aspose.medical.dicom.tags/tag/cylindersequence/
 ---
 
 ## Tag.CylinderSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300600C2 VRUI VM1 Related Frame of Reference UID RETIRED.
 type: docs
 weight: 38190
-url: /aspose.medical.dicom.tags/tag/relatedframeofreferenceuidretired/
+url: /net/aspose.medical.dicom.tags/tag/relatedframeofreferenceuidretired/
 ---
 
 ## Tag.RelatedFrameOfReferenceUIDRETIRED field

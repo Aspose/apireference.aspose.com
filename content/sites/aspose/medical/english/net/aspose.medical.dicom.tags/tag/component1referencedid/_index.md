@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00760070 VRUS VM1 Component 1 Referenced ID.
 type: docs
 weight: 6900
-url: /aspose.medical.dicom.tags/tag/component1referencedid/
+url: /net/aspose.medical.dicom.tags/tag/component1referencedid/
 ---
 
 ## Tag.Component1ReferencedID field

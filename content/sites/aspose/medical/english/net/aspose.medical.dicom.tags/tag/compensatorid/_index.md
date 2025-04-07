@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00E5 VRSH VM1 Compensator ID.
 type: docs
 weight: 6690
-url: /aspose.medical.dicom.tags/tag/compensatorid/
+url: /net/aspose.medical.dicom.tags/tag/compensatorid/
 ---
 
 ## Tag.CompensatorID field

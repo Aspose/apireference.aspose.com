@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: VM 16.
 type: docs
 weight: 100
-url: /aspose.medical.dicom/valuemultiplicity/sixteen/
+url: /net/aspose.medical.dicom/valuemultiplicity/sixteen/
 ---
 
 ## ValueMultiplicity.Sixteen field

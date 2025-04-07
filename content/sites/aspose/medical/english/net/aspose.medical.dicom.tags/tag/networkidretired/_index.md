@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081000 VRAE VM1 Network ID RETIRED.
 type: docs
 weight: 25720
-url: /aspose.medical.dicom.tags/tag/networkidretired/
+url: /net/aspose.medical.dicom.tags/tag/networkidretired/
 ---
 
 ## Tag.NetworkIDRETIRED field

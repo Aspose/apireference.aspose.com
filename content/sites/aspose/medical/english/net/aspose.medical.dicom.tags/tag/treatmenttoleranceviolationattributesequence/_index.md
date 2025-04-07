@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0733 VRSQ VM1 Treatment Tolerance Violation Attribute Sequence.
 type: docs
 weight: 49920
-url: /aspose.medical.dicom.tags/tag/treatmenttoleranceviolationattributesequence/
+url: /net/aspose.medical.dicom.tags/tag/treatmenttoleranceviolationattributesequence/
 ---
 
 ## Tag.TreatmentToleranceViolationAttributeSequence field

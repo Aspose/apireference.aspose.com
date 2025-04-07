@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181068 VRDS VM1 Multiplex Group Time Offset.
 type: docs
 weight: 25590
-url: /aspose.medical.dicom.tags/tag/multiplexgrouptimeoffset/
+url: /net/aspose.medical.dicom.tags/tag/multiplexgrouptimeoffset/
 ---
 
 ## Tag.MultiplexGroupTimeOffset field

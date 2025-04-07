@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0123 VRCS VM1 Dose Calibration Conditions Verified Flag.
 type: docs
 weight: 12630
-url: /aspose.medical.dicom.tags/tag/dosecalibrationconditionsverifiedflag/
+url: /net/aspose.medical.dicom.tags/tag/dosecalibrationconditionsverifiedflag/
 ---
 
 ## Tag.DoseCalibrationConditionsVerifiedFlag field

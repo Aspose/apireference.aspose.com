@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140206 VRIS VM1 Data Element Minimum Characters RETIRED.
 type: docs
 weight: 9820
-url: /aspose.medical.dicom.tags/tag/dataelementminimumcharactersretired/
+url: /net/aspose.medical.dicom.tags/tag/dataelementminimumcharactersretired/
 ---
 
 ## Tag.DataElementMinimumCharactersRETIRED field

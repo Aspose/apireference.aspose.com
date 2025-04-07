@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 7Fxx0040 VROW VM1 Variable Coefficients SDDN RETIRED.
 type: docs
 weight: 50710
-url: /aspose.medical.dicom.tags/tag/variablecoefficientssddnretired/
+url: /net/aspose.medical.dicom.tags/tag/variablecoefficientssddnretired/
 ---
 
 ## Tag.VariableCoefficientsSDDNRETIRED field

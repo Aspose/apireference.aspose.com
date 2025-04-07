@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660020 VRFL VM1-n Vector Accuracy.
 type: docs
 weight: 50780
-url: /aspose.medical.dicom.tags/tag/vectoraccuracy/
+url: /net/aspose.medical.dicom.tags/tag/vectoraccuracy/
 ---
 
 ## Tag.VectorAccuracy field

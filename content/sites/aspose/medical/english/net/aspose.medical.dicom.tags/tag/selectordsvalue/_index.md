@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720072 VRDS VM1-n Selector DS Value.
 type: docs
 weight: 42390
-url: /aspose.medical.dicom.tags/tag/selectordsvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectordsvalue/
 ---
 
 ## Tag.SelectorDSValue field

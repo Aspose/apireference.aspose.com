@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100033 VRSH VM1 User Content Label.
 type: docs
 weight: 50610
-url: /aspose.medical.dicom.tags/tag/usercontentlabel/
+url: /net/aspose.medical.dicom.tags/tag/usercontentlabel/
 ---
 
 ## Tag.UserContentLabel field

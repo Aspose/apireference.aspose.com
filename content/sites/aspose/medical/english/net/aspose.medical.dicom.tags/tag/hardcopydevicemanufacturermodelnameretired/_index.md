@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018101B VRLO VM1 Hardcopy Device Manufacturers Model Name RETIRED.
 type: docs
 weight: 18230
-url: /aspose.medical.dicom.tags/tag/hardcopydevicemanufacturermodelnameretired/
+url: /net/aspose.medical.dicom.tags/tag/hardcopydevicemanufacturermodelnameretired/
 ---
 
 ## Tag.HardcopyDeviceManufacturerModelNameRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440012 VRLO VM1 Substance Administration Device ID.
 type: docs
 weight: 46230
-url: /aspose.medical.dicom.tags/tag/substanceadministrationdeviceid/
+url: /net/aspose.medical.dicom.tags/tag/substanceadministrationdeviceid/
 ---
 
 ## Tag.SubstanceAdministrationDeviceID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 4010107C VRCS VM1 Inspection Selection Criteria RETIRED.
 type: docs
 weight: 20430
-url: /aspose.medical.dicom.tags/tag/inspectionselectioncriteriaretired/
+url: /net/aspose.medical.dicom.tags/tag/inspectionselectioncriteriaretired/
 ---
 
 ## Tag.InspectionSelectionCriteriaRETIRED field

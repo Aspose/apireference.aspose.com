@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181085 VRLO VM1 PVC Rejection.
 type: docs
 weight: 33920
-url: /aspose.medical.dicom.tags/tag/pvcrejection/
+url: /net/aspose.medical.dicom.tags/tag/pvcrejection/
 ---
 
 ## Tag.PVCRejection field

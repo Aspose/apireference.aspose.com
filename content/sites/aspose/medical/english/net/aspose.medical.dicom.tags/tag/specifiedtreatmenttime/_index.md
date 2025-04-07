@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3008003A VRDS VM1 Specified Treatment Time.
 type: docs
 weight: 44940
-url: /aspose.medical.dicom.tags/tag/specifiedtreatmenttime/
+url: /net/aspose.medical.dicom.tags/tag/specifiedtreatmenttime/
 ---
 
 ## Tag.SpecifiedTreatmentTime field

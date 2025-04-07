@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720210 VRSQ VM1 Synchronized Scrolling Sequence.
 type: docs
 weight: 46650
-url: /aspose.medical.dicom.tags/tag/synchronizedscrollingsequence/
+url: /net/aspose.medical.dicom.tags/tag/synchronizedscrollingsequence/
 ---
 
 ## Tag.SynchronizedScrollingSequence field

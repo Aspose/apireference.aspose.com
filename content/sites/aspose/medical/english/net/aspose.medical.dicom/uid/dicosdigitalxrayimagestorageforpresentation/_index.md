@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class DICOS Digital X-Ray Image Storage - For Presentation.
 type: docs
 weight: 1170
-url: /aspose.medical.dicom/uid/dicosdigitalxrayimagestorageforpresentation/
+url: /net/aspose.medical.dicom/uid/dicosdigitalxrayimagestorageforpresentation/
 ---
 
 ## Uid.DICOSDigitalXRayImageStorageForPresentation field

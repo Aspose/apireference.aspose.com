@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0066002D VRSQ VM1 Segment Surface Generation Algorithm Identification Sequence.
 type: docs
 weight: 42220
-url: /aspose.medical.dicom.tags/tag/segmentsurfacegenerationalgorithmidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/segmentsurfacegenerationalgorithmidentificationsequence/
 ---
 
 ## Tag.SegmentSurfaceGenerationAlgorithmIdentificationSequence field

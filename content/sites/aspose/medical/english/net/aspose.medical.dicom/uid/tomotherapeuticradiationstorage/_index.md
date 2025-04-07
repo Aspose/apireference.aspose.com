@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Tomotherapeutic Radiation Storage.
 type: docs
 weight: 4660
-url: /aspose.medical.dicom/uid/tomotherapeuticradiationstorage/
+url: /net/aspose.medical.dicom/uid/tomotherapeuticradiationstorage/
 ---
 
 ## Uid.TomotherapeuticRadiationStorage field

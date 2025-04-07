@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0050001A VRCS VM1 Container Component Material.
 type: docs
 weight: 7760
-url: /aspose.medical.dicom.tags/tag/containercomponentmaterial/
+url: /net/aspose.medical.dicom.tags/tag/containercomponentmaterial/
 ---
 
 ## Tag.ContainerComponentMaterial field

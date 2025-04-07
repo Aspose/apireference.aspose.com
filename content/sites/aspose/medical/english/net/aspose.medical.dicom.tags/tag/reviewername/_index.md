@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300E0008 VRPN VM1 Reviewer Name.
 type: docs
 weight: 39240
-url: /aspose.medical.dicom.tags/tag/reviewername/
+url: /net/aspose.medical.dicom.tags/tag/reviewername/
 ---
 
 ## Tag.ReviewerName field

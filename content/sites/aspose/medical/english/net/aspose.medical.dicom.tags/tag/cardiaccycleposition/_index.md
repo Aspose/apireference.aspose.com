@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189236 VRCS VM1 Cardiac Cycle Position.
 type: docs
 weight: 5050
-url: /aspose.medical.dicom.tags/tag/cardiaccycleposition/
+url: /net/aspose.medical.dicom.tags/tag/cardiaccycleposition/
 ---
 
 ## Tag.CardiacCyclePosition field

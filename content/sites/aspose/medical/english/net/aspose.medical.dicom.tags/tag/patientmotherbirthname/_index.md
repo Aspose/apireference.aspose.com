@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00101060 VRPN VM1 Patients Mothers Birth Name.
 type: docs
 weight: 29920
-url: /aspose.medical.dicom.tags/tag/patientmotherbirthname/
+url: /net/aspose.medical.dicom.tags/tag/patientmotherbirthname/
 ---
 
 ## Tag.PatientMotherBirthName field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0319 VRSQ VM1 Filter High Frequency Characteristics Sequence.
 type: docs
 weight: 15350
-url: /aspose.medical.dicom.tags/tag/filterhighfrequencycharacteristicssequence/
+url: /net/aspose.medical.dicom.tags/tag/filterhighfrequencycharacteristicssequence/
 ---
 
 ## Tag.FilterHighFrequencyCharacteristicsSequence field

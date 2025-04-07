@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221265 VRSQ VM1 Ophthalmic Axial Length Quality Metric Type Code Sequence RETIRED.
 type: docs
 weight: 27980
-url: /aspose.medical.dicom.tags/tag/ophthalmicaxiallengthqualitymetrictypecodesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicaxiallengthqualitymetrictypecodesequenceretired/
 ---
 
 ## Tag.OphthalmicAxialLengthQualityMetricTypeCodeSequenceRETIRED field

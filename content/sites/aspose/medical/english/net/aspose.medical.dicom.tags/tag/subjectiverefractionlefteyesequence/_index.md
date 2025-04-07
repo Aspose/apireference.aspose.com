@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460098 VRSQ VM1 Subjective Refraction Left Eye Sequence.
 type: docs
 weight: 46160
-url: /aspose.medical.dicom.tags/tag/subjectiverefractionlefteyesequence/
+url: /net/aspose.medical.dicom.tags/tag/subjectiverefractionlefteyesequence/
 ---
 
 ## Tag.SubjectiveRefractionLeftEyeSequence field

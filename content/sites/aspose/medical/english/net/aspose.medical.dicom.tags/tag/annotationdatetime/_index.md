@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040B034 VRDT VM1 Annotation DateTime.
 type: docs
 weight: 1770
-url: /aspose.medical.dicom.tags/tag/annotationdatetime/
+url: /net/aspose.medical.dicom.tags/tag/annotationdatetime/
 ---
 
 ## Tag.AnnotationDateTime field

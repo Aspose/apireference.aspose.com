@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080113 VRTM VM1 Interpretation Approval Time RETIRED.
 type: docs
 weight: 20940
-url: /aspose.medical.dicom.tags/tag/interpretationapprovaltimeretired/
+url: /net/aspose.medical.dicom.tags/tag/interpretationapprovaltimeretired/
 ---
 
 ## Tag.InterpretationApprovalTimeRETIRED field

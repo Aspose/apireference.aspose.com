@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: JPEG Lossless Hierarchical Process 28 Retired 1.2.840.10008.1.2.4.65.
 type: docs
 weight: 380
-url: /aspose.medical.dicom/transfersyntax/jpegprocess28retired/
+url: /net/aspose.medical.dicom/transfersyntax/jpegprocess28retired/
 ---
 
 ## TransferSyntax.JpegProcess28Retired field

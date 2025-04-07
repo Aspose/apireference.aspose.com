@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700010 VRFL VM2 Bounding Box Top Left Hand Corner.
 type: docs
 weight: 4370
-url: /aspose.medical.dicom.tags/tag/boundingboxtoplefthandcorner/
+url: /net/aspose.medical.dicom.tags/tag/boundingboxtoplefthandcorner/
 ---
 
 ## Tag.BoundingBoxTopLeftHandCorner field

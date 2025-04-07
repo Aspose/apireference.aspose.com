@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140204 VRLO VM1 Data Element Description RETIRED.
 type: docs
 weight: 9780
-url: /aspose.medical.dicom.tags/tag/dataelementdescriptionretired/
+url: /net/aspose.medical.dicom.tags/tag/dataelementdescriptionretired/
 ---
 
 ## Tag.DataElementDescriptionRETIRED field

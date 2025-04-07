@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /aspose.medical.dicom.elements/signedverylong/signedverylong/
+url: /net/aspose.medical.dicom.elements/signedverylong/signedverylong/
 ---
 
 ## SignedVeryLong(Tag, Span&lt;long&gt;) {#constructor_1}

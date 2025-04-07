@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The image width in px units. Read-only Int32.
 type: docs
 weight: 50
-url: /aspose.medical.imaging/rawimage/width/
+url: /net/aspose.medical.imaging/rawimage/width/
 ---
 
 ## RawImage.Width property

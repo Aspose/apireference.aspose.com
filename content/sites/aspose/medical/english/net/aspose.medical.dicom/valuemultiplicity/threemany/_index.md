@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: VM 3-n.
 type: docs
 weight: 120
-url: /aspose.medical.dicom/valuemultiplicity/threemany/
+url: /net/aspose.medical.dicom/valuemultiplicity/threemany/
 ---
 
 ## ValueMultiplicity.ThreeMany field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180037 VRCS VM1 Therapy Type RETIRED.
 type: docs
 weight: 47910
-url: /aspose.medical.dicom.tags/tag/therapytyperetired/
+url: /net/aspose.medical.dicom.tags/tag/therapytyperetired/
 ---
 
 ## Tag.TherapyTypeRETIRED field

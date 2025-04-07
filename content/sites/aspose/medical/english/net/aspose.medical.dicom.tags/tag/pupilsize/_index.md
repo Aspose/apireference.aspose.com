@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460044 VRFD VM1 Pupil Size.
 type: docs
 weight: 33900
-url: /aspose.medical.dicom.tags/tag/pupilsize/
+url: /net/aspose.medical.dicom.tags/tag/pupilsize/
 ---
 
 ## Tag.PupilSize field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022112C VRLT VM1 Calculation Comment.
 type: docs
 weight: 4870
-url: /aspose.medical.dicom.tags/tag/calculationcomment/
+url: /net/aspose.medical.dicom.tags/tag/calculationcomment/
 ---
 
 ## Tag.CalculationComment field

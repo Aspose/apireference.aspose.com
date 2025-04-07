@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00500015 VRFD VM1 Container Component Width.
 type: docs
 weight: 7800
-url: /aspose.medical.dicom.tags/tag/containercomponentwidth/
+url: /net/aspose.medical.dicom.tags/tag/containercomponentwidth/
 ---
 
 ## Tag.ContainerComponentWidth field

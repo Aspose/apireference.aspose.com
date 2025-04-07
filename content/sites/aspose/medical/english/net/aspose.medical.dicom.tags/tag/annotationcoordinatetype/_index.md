@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006A0001 VRCS VM1 Annotation Coordinate Type.
 type: docs
 weight: 1760
-url: /aspose.medical.dicom.tags/tag/annotationcoordinatetype/
+url: /net/aspose.medical.dicom.tags/tag/annotationcoordinatetype/
 ---
 
 ## Tag.AnnotationCoordinateType field

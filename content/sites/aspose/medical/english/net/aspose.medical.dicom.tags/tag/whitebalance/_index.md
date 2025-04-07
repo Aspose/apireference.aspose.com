@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160043 VRUS VM1 White Balance.
 type: docs
 weight: 52460
-url: /aspose.medical.dicom.tags/tag/whitebalance/
+url: /net/aspose.medical.dicom.tags/tag/whitebalance/
 ---
 
 ## Tag.WhiteBalance field

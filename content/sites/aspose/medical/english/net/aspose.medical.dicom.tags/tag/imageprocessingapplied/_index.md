@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289446 VRCS VM1-n Image Processing Applied.
 type: docs
 weight: 19400
-url: /aspose.medical.dicom.tags/tag/imageprocessingapplied/
+url: /net/aspose.medical.dicom.tags/tag/imageprocessingapplied/
 ---
 
 ## Tag.ImageProcessingApplied field

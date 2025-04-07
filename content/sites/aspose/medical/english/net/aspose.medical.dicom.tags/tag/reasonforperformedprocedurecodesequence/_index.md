@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401012 VRSQ VM1 Reason For Performed Procedure Code Sequence.
 type: docs
 weight: 35160
-url: /aspose.medical.dicom.tags/tag/reasonforperformedprocedurecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/reasonforperformedprocedurecodesequence/
 ---
 
 ## Tag.ReasonForPerformedProcedureCodeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00286112 VRUS VM1 Contrast Frame Averaging.
 type: docs
 weight: 8420
-url: /aspose.medical.dicom.tags/tag/contrastframeaveraging/
+url: /net/aspose.medical.dicom.tags/tag/contrastframeaveraging/
 ---
 
 ## Tag.ContrastFrameAveraging field

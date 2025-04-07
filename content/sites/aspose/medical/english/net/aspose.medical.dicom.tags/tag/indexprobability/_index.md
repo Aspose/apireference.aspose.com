@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240341 VRFL VM1 Index Probability.
 type: docs
 weight: 20200
-url: /aspose.medical.dicom.tags/tag/indexprobability/
+url: /net/aspose.medical.dicom.tags/tag/indexprobability/
 ---
 
 ## Tag.IndexProbability field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Color Palette Query/Retrieve Information Model - FIND.
 type: docs
 weight: 350
-url: /aspose.medical.dicom/uid/colorpalettequeryretrieveinformationmodelfind/
+url: /net/aspose.medical.dicom/uid/colorpalettequeryretrieveinformationmodelfind/
 ---
 
 ## Uid.ColorPaletteQueryRetrieveInformationModelFIND field

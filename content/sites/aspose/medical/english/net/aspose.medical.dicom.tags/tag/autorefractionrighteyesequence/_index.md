@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460050 VRSQ VM1 Autorefraction Right Eye Sequence.
 type: docs
 weight: 2960
-url: /aspose.medical.dicom.tags/tag/autorefractionrighteyesequence/
+url: /net/aspose.medical.dicom.tags/tag/autorefractionrighteyesequence/
 ---
 
 ## Tag.AutorefractionRightEyeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class VL Whole Slide Microscopy Image Storage.
 type: docs
 weight: 5050
-url: /aspose.medical.dicom/uid/vlwholeslidemicroscopyimagestorage/
+url: /net/aspose.medical.dicom/uid/vlwholeslidemicroscopyimagestorage/
 ---
 
 ## Uid.VLWholeSlideMicroscopyImageStorage field

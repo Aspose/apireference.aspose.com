@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120060 VRLO VM1 Clinical Trial Coordinating Center Name.
 type: docs
 weight: 5900
-url: /aspose.medical.dicom.tags/tag/clinicaltrialcoordinatingcentername/
+url: /net/aspose.medical.dicom.tags/tag/clinicaltrialcoordinatingcentername/
 ---
 
 ## Tag.ClinicalTrialCoordinatingCenterName field

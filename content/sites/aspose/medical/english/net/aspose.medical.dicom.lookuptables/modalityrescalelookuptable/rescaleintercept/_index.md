@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The modality rescale intercept. Read-only Double.
 type: docs
 weight: 60
-url: /aspose.medical.dicom.lookuptables/modalityrescalelookuptable/rescaleintercept/
+url: /net/aspose.medical.dicom.lookuptables/modalityrescalelookuptable/rescaleintercept/
 ---
 
 ## ModalityRescaleLookUpTable.RescaleIntercept property

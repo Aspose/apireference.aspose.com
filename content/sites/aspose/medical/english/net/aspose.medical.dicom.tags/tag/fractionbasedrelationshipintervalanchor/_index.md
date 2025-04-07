@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100083 VRCS VM1 Fraction-Based Relationship Interval Anchor.
 type: docs
 weight: 16330
-url: /aspose.medical.dicom.tags/tag/fractionbasedrelationshipintervalanchor/
+url: /net/aspose.medical.dicom.tags/tag/fractionbasedrelationshipintervalanchor/
 ---
 
 ## Tag.FractionBasedRelationshipIntervalAnchor field

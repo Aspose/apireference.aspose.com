@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720054 VRLO VM1-n Selector Sequence Pointer Private Creator.
 type: docs
 weight: 42550
-url: /aspose.medical.dicom.tags/tag/selectorsequencepointerprivatecreator/
+url: /net/aspose.medical.dicom.tags/tag/selectorsequencepointerprivatecreator/
 ---
 
 ## Tag.SelectorSequencePointerPrivateCreator field

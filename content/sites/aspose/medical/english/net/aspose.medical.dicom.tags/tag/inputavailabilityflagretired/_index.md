@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404020 VRCS VM1 Input Availability Flag RETIRED.
 type: docs
 weight: 20390
-url: /aspose.medical.dicom.tags/tag/inputavailabilityflagretired/
+url: /net/aspose.medical.dicom.tags/tag/inputavailabilityflagretired/
 ---
 
 ## Tag.InputAvailabilityFlagRETIRED field

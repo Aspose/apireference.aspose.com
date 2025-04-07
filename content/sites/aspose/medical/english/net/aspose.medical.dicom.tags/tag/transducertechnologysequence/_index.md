@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189831 VRSQ VM1 Transducer Technology Sequence.
 type: docs
 weight: 49340
-url: /aspose.medical.dicom.tags/tag/transducertechnologysequence/
+url: /net/aspose.medical.dicom.tags/tag/transducertechnologysequence/
 ---
 
 ## Tag.TransducerTechnologySequence field

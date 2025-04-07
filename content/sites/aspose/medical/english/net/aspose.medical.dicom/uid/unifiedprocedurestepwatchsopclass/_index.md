@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Unified Procedure Step - Watch SOP Class.
 type: docs
 weight: 4840
-url: /aspose.medical.dicom/uid/unifiedprocedurestepwatchsopclass/
+url: /net/aspose.medical.dicom/uid/unifiedprocedurestepwatchsopclass/
 ---
 
 ## Uid.UnifiedProcedureStepWatchSOPClass field

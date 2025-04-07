@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220048 VRFL VM1 Across-scan Spatial Resolution.
 type: docs
 weight: 670
-url: /aspose.medical.dicom.tags/tag/acrossscanspatialresolution/
+url: /net/aspose.medical.dicom.tags/tag/acrossscanspatialresolution/
 ---
 
 ## Tag.AcrossScanSpatialResolution field

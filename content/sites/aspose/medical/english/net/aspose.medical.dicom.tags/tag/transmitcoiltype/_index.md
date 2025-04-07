@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189051 VRCS VM1 Transmit Coil Type.
 type: docs
 weight: 49510
-url: /aspose.medical.dicom.tags/tag/transmitcoiltype/
+url: /net/aspose.medical.dicom.tags/tag/transmitcoiltype/
 ---
 
 ## Tag.TransmitCoilType field

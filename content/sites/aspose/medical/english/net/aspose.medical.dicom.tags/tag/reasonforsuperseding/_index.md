@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010005C VRST VM1 Reason for Superseding.
 type: docs
 weight: 35200
-url: /aspose.medical.dicom.tags/tag/reasonforsuperseding/
+url: /net/aspose.medical.dicom.tags/tag/reasonforsuperseding/
 ---
 
 ## Tag.ReasonForSuperseding field

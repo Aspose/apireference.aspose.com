@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Represents a IElement../aspose.medical.dicom.elements/ielement visitor that descends an entire DicomFile../aspose.medical.dicom/dicomfile or Dataset../aspose.medical.dicom/dataset or MetaInformation../aspose.medical.dicom/metainformation graph visiting each IElement../aspose.medical.dicom.elements/ielement and its nested Dataset../aspose.medical.dicom/datasets in depth-first order.
 type: docs
 weight: 990
-url: /aspose.medical.dicom.traversal/walker/
+url: /net/aspose.medical.dicom.traversal/walker/
 ---
 
 ## Walker class

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000860 VRUS VM1 Response Sequence Number RETIRED.
 type: docs
 weight: 39040
-url: /aspose.medical.dicom.tags/tag/responsesequencenumberretired/
+url: /net/aspose.medical.dicom.tags/tag/responsesequencenumberretired/
 ---
 
 ## Tag.ResponseSequenceNumberRETIRED field

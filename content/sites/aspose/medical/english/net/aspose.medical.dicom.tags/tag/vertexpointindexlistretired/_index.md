@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660025 VROW VM1 Vertex Point Index List RETIRED.
 type: docs
 weight: 50970
-url: /aspose.medical.dicom.tags/tag/vertexpointindexlistretired/
+url: /net/aspose.medical.dicom.tags/tag/vertexpointindexlistretired/
 ---
 
 ## Tag.VertexPointIndexListRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189085 VRCS VM1 Cardiac Signal Source.
 type: docs
 weight: 5090
-url: /aspose.medical.dicom.tags/tag/cardiacsignalsource/
+url: /net/aspose.medical.dicom.tags/tag/cardiacsignalsource/
 ---
 
 ## Tag.CardiacSignalSource field

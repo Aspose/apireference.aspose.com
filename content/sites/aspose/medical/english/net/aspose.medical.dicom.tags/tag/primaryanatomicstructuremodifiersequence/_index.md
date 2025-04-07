@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082230 VRSQ VM1 Primary Anatomic Structure Modifier Sequence.
 type: docs
 weight: 32720
-url: /aspose.medical.dicom.tags/tag/primaryanatomicstructuremodifiersequence/
+url: /net/aspose.medical.dicom.tags/tag/primaryanatomicstructuremodifiersequence/
 ---
 
 ## Tag.PrimaryAnatomicStructureModifierSequence field

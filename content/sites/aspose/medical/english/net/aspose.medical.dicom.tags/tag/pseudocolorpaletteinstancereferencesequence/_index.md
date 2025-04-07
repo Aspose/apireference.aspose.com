@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720705 VRSQ VM1 Pseudo-Color Palette Instance Reference Sequence.
 type: docs
 weight: 33720
-url: /aspose.medical.dicom.tags/tag/pseudocolorpaletteinstancereferencesequence/
+url: /net/aspose.medical.dicom.tags/tag/pseudocolorpaletteinstancereferencesequence/
 ---
 
 ## Tag.PseudoColorPaletteInstanceReferenceSequence field

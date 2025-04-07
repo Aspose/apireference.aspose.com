@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100070 VRSQ VM1 Dosimetric Objective Parameter Sequence.
 type: docs
 weight: 12860
-url: /aspose.medical.dicom.tags/tag/dosimetricobjectiveparametersequence/
+url: /net/aspose.medical.dicom.tags/tag/dosimetricobjectiveparametersequence/
 ---
 
 ## Tag.DosimetricObjectiveParameterSequence field

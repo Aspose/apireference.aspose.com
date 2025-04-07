@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189324 VRFD VM1 Estimated Dose Saving RETIRED.
 type: docs
 weight: 14010
-url: /aspose.medical.dicom.tags/tag/estimateddosesavingretired/
+url: /net/aspose.medical.dicom.tags/tag/estimateddosesavingretired/
 ---
 
 ## Tag.EstimatedDoseSavingRETIRED field

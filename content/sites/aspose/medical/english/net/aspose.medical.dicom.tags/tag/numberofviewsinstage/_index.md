@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008212A VRIS VM1 Number of Views in Stage.
 type: docs
 weight: 27090
-url: /aspose.medical.dicom.tags/tag/numberofviewsinstage/
+url: /net/aspose.medical.dicom.tags/tag/numberofviewsinstage/
 ---
 
 ## Tag.NumberOfViewsInStage field

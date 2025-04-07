@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Implant Template Group Storage.
 type: docs
 weight: 2030
-url: /aspose.medical.dicom/uid/implanttemplategroupstorage/
+url: /net/aspose.medical.dicom/uid/implanttemplategroupstorage/
 ---
 
 ## Uid.ImplantTemplateGroupStorage field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401001 VRSH VM1 Requested Procedure ID.
 type: docs
 weight: 38730
-url: /aspose.medical.dicom.tags/tag/requestedprocedureid/
+url: /net/aspose.medical.dicom.tags/tag/requestedprocedureid/
 ---
 
 ## Tag.RequestedProcedureID field

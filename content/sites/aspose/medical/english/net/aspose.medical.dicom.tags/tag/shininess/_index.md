@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701706 VRFD VM1 Shininess.
 type: docs
 weight: 43240
-url: /aspose.medical.dicom.tags/tag/shininess/
+url: /net/aspose.medical.dicom.tags/tag/shininess/
 ---
 
 ## Tag.Shininess field

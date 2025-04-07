@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Ophthalmic Axial Measurements Storage.
 type: docs
 weight: 2830
-url: /aspose.medical.dicom/uid/ophthalmicaxialmeasurementsstorage/
+url: /net/aspose.medical.dicom/uid/ophthalmicaxialmeasurementsstorage/
 ---
 
 ## Uid.OphthalmicAxialMeasurementsStorage field

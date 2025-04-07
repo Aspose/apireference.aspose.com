@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020052 VRSH VM1 Fluence Mode ID.
 type: docs
 weight: 16100
-url: /aspose.medical.dicom.tags/tag/fluencemodeid/
+url: /net/aspose.medical.dicom.tags/tag/fluencemodeid/
 ---
 
 ## Tag.FluenceModeID field

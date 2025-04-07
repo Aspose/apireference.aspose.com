@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101043 VRFL VM3 OOI Size RETIRED.
 type: docs
 weight: 27700
-url: /aspose.medical.dicom.tags/tag/ooisizeretired/
+url: /net/aspose.medical.dicom.tags/tag/ooisizeretired/
 ---
 
 ## Tag.OOISizeRETIRED field

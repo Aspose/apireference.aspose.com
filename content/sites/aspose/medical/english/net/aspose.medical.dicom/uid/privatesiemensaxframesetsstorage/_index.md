@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Siemens AX Frame Sets Storage.
 type: docs
 weight: 3670
-url: /aspose.medical.dicom/uid/privatesiemensaxframesetsstorage/
+url: /net/aspose.medical.dicom/uid/privatesiemensaxframesetsstorage/
 ---
 
 ## Uid.PrivateSiemensAxFrameSetsStorage field

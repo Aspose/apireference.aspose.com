@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax MPEG-4 AVC/H.264 High Profile / Level 4.2 For 3D Video.
 type: docs
 weight: 2690
-url: /aspose.medical.dicom/uid/mpeg4avch264highprofilelevel42for3dvideo/
+url: /net/aspose.medical.dicom/uid/mpeg4avch264highprofilelevel42for3dvideo/
 ---
 
 ## Uid.MPEG4AVCH264HighProfileLevel42For3DVideo field

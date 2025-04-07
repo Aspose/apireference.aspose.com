@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Default SaveOptionsaspose.medical.dicom.writers/saveoptions. Read-only SaveOptionsaspose.medical.dicom.writers/saveoptions.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.writers/saveoptions/default/
+url: /net/aspose.medical.dicom.writers/saveoptions/default/
 ---
 
 ## SaveOptions.Default property

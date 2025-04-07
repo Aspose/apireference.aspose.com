@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700100 VRCS VM1 Presentation Size Mode.
 type: docs
 weight: 32650
-url: /aspose.medical.dicom.tags/tag/presentationsizemode/
+url: /net/aspose.medical.dicom.tags/tag/presentationsizemode/
 ---
 
 ## Tag.PresentationSizeMode field

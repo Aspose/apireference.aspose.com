@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221643 VRFL VM1 B-scan Slab Thickness.
 type: docs
 weight: 4720
-url: /aspose.medical.dicom.tags/tag/bscanslabthickness/
+url: /net/aspose.medical.dicom.tags/tag/bscanslabthickness/
 ---
 
 ## Tag.BscanSlabThickness field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: LDAP OID dicomApplicationCluster.
 type: docs
 weight: 720
-url: /aspose.medical.dicom/uid/dicomapplicationcluster/
+url: /net/aspose.medical.dicom/uid/dicomapplicationcluster/
 ---
 
 ## Uid.DicomApplicationCluster field

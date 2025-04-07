@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221121 VRFL VM1 IOL Power For Exact Emmetropia.
 type: docs
 weight: 21440
-url: /aspose.medical.dicom.tags/tag/iolpowerforexactemmetropia/
+url: /net/aspose.medical.dicom.tags/tag/iolpowerforexactemmetropia/
 ---
 
 ## Tag.IOLPowerForExactEmmetropia field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Height Map Segmentation Storage.
 type: docs
 weight: 1830
-url: /aspose.medical.dicom/uid/heightmapsegmentationstorage/
+url: /net/aspose.medical.dicom/uid/heightmapsegmentationstorage/
 ---
 
 ## Uid.HeightMapSegmentationStorage field

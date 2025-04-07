@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140050 VRCS VM1 Component Shape RETIRED.
 type: docs
 weight: 7030
-url: /aspose.medical.dicom.tags/tag/componentshaperetired/
+url: /net/aspose.medical.dicom.tags/tag/componentshaperetired/
 ---
 
 ## Tag.ComponentShapeRETIRED field

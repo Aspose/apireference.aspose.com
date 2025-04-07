@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0312 VRSQ VM1 Channel Impedance Sequence.
 type: docs
 weight: 5480
-url: /aspose.medical.dicom.tags/tag/channelimpedancesequence/
+url: /net/aspose.medical.dicom.tags/tag/channelimpedancesequence/
 ---
 
 ## Tag.ChannelImpedanceSequence field

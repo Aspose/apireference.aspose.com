@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0683 VRSQ VM1 Radiation Fluence Modifier Code Sequence.
 type: docs
 weight: 34320
-url: /aspose.medical.dicom.tags/tag/radiationfluencemodifiercodesequence/
+url: /net/aspose.medical.dicom.tags/tag/radiationfluencemodifiercodesequence/
 ---
 
 ## Tag.RadiationFluenceModifierCodeSequence field

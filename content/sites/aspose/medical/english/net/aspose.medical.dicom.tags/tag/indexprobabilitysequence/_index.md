@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240344 VRSQ VM1 Index Probability Sequence.
 type: docs
 weight: 20210
-url: /aspose.medical.dicom.tags/tag/indexprobabilitysequence/
+url: /net/aspose.medical.dicom.tags/tag/indexprobabilitysequence/
 ---
 
 ## Tag.IndexProbabilitySequence field

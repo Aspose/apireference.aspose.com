@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541201 VRIS VM2 Axial Mash.
 type: docs
 weight: 3080
-url: /aspose.medical.dicom.tags/tag/axialmash/
+url: /net/aspose.medical.dicom.tags/tag/axialmash/
 ---
 
 ## Tag.AxialMash field

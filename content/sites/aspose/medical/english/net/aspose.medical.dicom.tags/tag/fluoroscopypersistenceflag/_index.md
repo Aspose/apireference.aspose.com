@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811B3 VRCS VM1 Fluoroscopy Persistence Flag.
 type: docs
 weight: 16130
-url: /aspose.medical.dicom.tags/tag/fluoroscopypersistenceflag/
+url: /net/aspose.medical.dicom.tags/tag/fluoroscopypersistenceflag/
 ---
 
 ## Tag.FluoroscopyPersistenceFlag field

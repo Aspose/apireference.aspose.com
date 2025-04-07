@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Standalone PET Curve Storage Retired.
 type: docs
 weight: 4400
-url: /aspose.medical.dicom/uid/standalonepetcurvestorageretired/
+url: /net/aspose.medical.dicom/uid/standalonepetcurvestorageretired/
 ---
 
 ## Uid.StandalonePETCurveStorageRetired field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700404 VRSQ VM1 Referenced Spatial Registration Sequence.
 type: docs
 weight: 37430
-url: /aspose.medical.dicom.tags/tag/referencedspatialregistrationsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedspatialregistrationsequence/
 ---
 
 ## Tag.ReferencedSpatialRegistrationSequence field

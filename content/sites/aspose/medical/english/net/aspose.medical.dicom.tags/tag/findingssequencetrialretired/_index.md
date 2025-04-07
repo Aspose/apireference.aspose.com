@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A020 VRSQ VM1 Findings Sequence Trial RETIRED.
 type: docs
 weight: 15540
-url: /aspose.medical.dicom.tags/tag/findingssequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/findingssequencetrialretired/
 ---
 
 ## Tag.FindingsSequenceTrialRETIRED field

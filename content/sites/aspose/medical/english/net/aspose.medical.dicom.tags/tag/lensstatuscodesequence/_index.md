@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221024 VRSQ VM1 Lens Status Code Sequence.
 type: docs
 weight: 22680
-url: /aspose.medical.dicom.tags/tag/lensstatuscodesequence/
+url: /net/aspose.medical.dicom.tags/tag/lensstatuscodesequence/
 ---
 
 ## Tag.LensStatusCodeSequence field

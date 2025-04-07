@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240306 VRLO VM1 Data Set Name.
 type: docs
 weight: 9950
-url: /aspose.medical.dicom.tags/tag/datasetname/
+url: /net/aspose.medical.dicom.tags/tag/datasetname/
 ---
 
 ## Tag.DataSetName field

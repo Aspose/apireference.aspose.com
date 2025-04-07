@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160035 VRDS VM1 Camera Elevation Angle.
 type: docs
 weight: 5010
-url: /aspose.medical.dicom.tags/tag/cameraelevationangle/
+url: /net/aspose.medical.dicom.tags/tag/cameraelevationangle/
 ---
 
 ## Tag.CameraElevationAngle field

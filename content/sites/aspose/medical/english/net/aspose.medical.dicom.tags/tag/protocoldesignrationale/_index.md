@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189910 VRUT VM1 Protocol Design Rationale.
 type: docs
 weight: 33650
-url: /aspose.medical.dicom.tags/tag/protocoldesignrationale/
+url: /net/aspose.medical.dicom.tags/tag/protocoldesignrationale/
 ---
 
 ## Tag.ProtocolDesignRationale field

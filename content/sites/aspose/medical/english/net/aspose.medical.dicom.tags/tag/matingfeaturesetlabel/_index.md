@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006863D0 VRLO VM1 Mating Feature Set Label.
 type: docs
 weight: 23810
-url: /aspose.medical.dicom.tags/tag/matingfeaturesetlabel/
+url: /net/aspose.medical.dicom.tags/tag/matingfeaturesetlabel/
 ---
 
 ## Tag.MatingFeatureSetLabel field

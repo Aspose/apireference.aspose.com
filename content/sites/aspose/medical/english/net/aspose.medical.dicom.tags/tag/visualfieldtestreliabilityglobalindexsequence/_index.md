@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240317 VRSQ VM1 Visual Field Test Reliability Global Index Sequence.
 type: docs
 weight: 51510
-url: /aspose.medical.dicom.tags/tag/visualfieldtestreliabilityglobalindexsequence/
+url: /net/aspose.medical.dicom.tags/tag/visualfieldtestreliabilityglobalindexsequence/
 ---
 
 ## Tag.VisualFieldTestReliabilityGlobalIndexSequence field

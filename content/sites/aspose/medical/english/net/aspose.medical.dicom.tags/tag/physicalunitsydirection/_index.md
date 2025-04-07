@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186026 VRUS VM1 Physical Units Y Direction.
 type: docs
 weight: 31260
-url: /aspose.medical.dicom.tags/tag/physicalunitsydirection/
+url: /net/aspose.medical.dicom.tags/tag/physicalunitsydirection/
 ---
 
 ## Tag.PhysicalUnitsYDirection field

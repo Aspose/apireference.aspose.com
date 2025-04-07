@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480301 VRCS VM1 Pixel Origin Interpretation.
 type: docs
 weight: 31480
-url: /aspose.medical.dicom.tags/tag/pixelorigininterpretation/
+url: /net/aspose.medical.dicom.tags/tag/pixelorigininterpretation/
 ---
 
 ## Tag.PixelOriginInterpretation field

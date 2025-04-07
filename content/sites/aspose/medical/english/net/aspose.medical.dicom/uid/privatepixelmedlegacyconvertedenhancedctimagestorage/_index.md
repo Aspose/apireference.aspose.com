@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private PixelMed Legacy Converted Enhanced CT Image Storage.
 type: docs
 weight: 3630
-url: /aspose.medical.dicom/uid/privatepixelmedlegacyconvertedenhancedctimagestorage/
+url: /net/aspose.medical.dicom/uid/privatepixelmedlegacyconvertedenhancedctimagestorage/
 ---
 
 ## Uid.PrivatePixelMedLegacyConvertedEnhancedCtImageStorage field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187000 VRCS VM1 Detector Conditions Nominal Flag.
 type: docs
 weight: 10960
-url: /aspose.medical.dicom.tags/tag/detectorconditionsnominalflag/
+url: /net/aspose.medical.dicom.tags/tag/detectorconditionsnominalflag/
 ---
 
 ## Tag.DetectorConditionsNominalFlag field

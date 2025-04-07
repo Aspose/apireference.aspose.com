@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx0010 VRUS VM1 Number of Points RETIRED.
 type: docs
 weight: 26660
-url: /aspose.medical.dicom.tags/tag/numberofpointsretired/
+url: /net/aspose.medical.dicom.tags/tag/numberofpointsretired/
 ---
 
 ## Tag.NumberOfPointsRETIRED field

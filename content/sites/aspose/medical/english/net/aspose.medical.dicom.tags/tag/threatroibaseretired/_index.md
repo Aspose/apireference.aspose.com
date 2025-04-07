@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101004 VRFL VM3 Threat ROI Base RETIRED.
 type: docs
 weight: 48070
-url: /aspose.medical.dicom.tags/tag/threatroibaseretired/
+url: /net/aspose.medical.dicom.tags/tag/threatroibaseretired/
 ---
 
 ## Tag.ThreatROIBaseRETIRED field

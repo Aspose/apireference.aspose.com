@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200014 VRIS VM1 Isotope Number RETIRED.
 type: docs
 weight: 21740
-url: /aspose.medical.dicom.tags/tag/isotopenumberretired/
+url: /net/aspose.medical.dicom.tags/tag/isotopenumberretired/
 ---
 
 ## Tag.IsotopeNumberRETIRED field

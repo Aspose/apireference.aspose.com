@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 200000A8 VRSQ VM1 Supported Image Display Formats Sequence.
 type: docs
 weight: 46290
-url: /aspose.medical.dicom.tags/tag/supportedimagedisplayformatssequence/
+url: /net/aspose.medical.dicom.tags/tag/supportedimagedisplayformatssequence/
 ---
 
 ## Tag.SupportedImageDisplayFormatsSequence field

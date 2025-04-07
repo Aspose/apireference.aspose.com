@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000110 VRCS VM1 Certificate Type.
 type: docs
 weight: 5330
-url: /aspose.medical.dicom.tags/tag/certificatetype/
+url: /net/aspose.medical.dicom.tags/tag/certificatetype/
 ---
 
 ## Tag.CertificateType field

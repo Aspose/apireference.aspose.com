@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280720 VRUS VM1 Zonal Map Number Format RETIRED.
 type: docs
 weight: 52990
-url: /aspose.medical.dicom.tags/tag/zonalmapnumberformatretired/
+url: /net/aspose.medical.dicom.tags/tag/zonalmapnumberformatretired/
 ---
 
 ## Tag.ZonalMapNumberFormatRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400007 VRLO VM1 Scheduled Procedure Step Description.
 type: docs
 weight: 41350
-url: /aspose.medical.dicom.tags/tag/scheduledprocedurestepdescription/
+url: /net/aspose.medical.dicom.tags/tag/scheduledprocedurestepdescription/
 ---
 
 ## Tag.ScheduledProcedureStepDescription field

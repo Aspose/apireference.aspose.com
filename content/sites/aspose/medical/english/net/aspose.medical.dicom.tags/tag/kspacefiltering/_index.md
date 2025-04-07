@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189064 VRCS VM1 k-space Filtering.
 type: docs
 weight: 22130
-url: /aspose.medical.dicom.tags/tag/kspacefiltering/
+url: /net/aspose.medical.dicom.tags/tag/kspacefiltering/
 ---
 
 ## Tag.KSpaceFiltering field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189417 VRSQ VM1 Frame Acquisition Sequence.
 type: docs
 weight: 16470
-url: /aspose.medical.dicom.tags/tag/frameacquisitionsequence/
+url: /net/aspose.medical.dicom.tags/tag/frameacquisitionsequence/
 ---
 
 ## Tag.FrameAcquisitionSequence field

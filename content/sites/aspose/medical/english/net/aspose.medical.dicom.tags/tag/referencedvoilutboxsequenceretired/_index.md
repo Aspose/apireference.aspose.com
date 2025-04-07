@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20200140 VRSQ VM1 Referenced VOI LUT Box Sequence RETIRED.
 type: docs
 weight: 37680
-url: /aspose.medical.dicom.tags/tag/referencedvoilutboxsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/referencedvoilutboxsequenceretired/
 ---
 
 ## Tag.ReferencedVOILUTBoxSequenceRETIRED field

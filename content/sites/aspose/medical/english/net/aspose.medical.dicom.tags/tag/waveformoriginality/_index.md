@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0004 VRCS VM1 Waveform Originality.
 type: docs
 weight: 52010
-url: /aspose.medical.dicom.tags/tag/waveformoriginality/
+url: /net/aspose.medical.dicom.tags/tag/waveformoriginality/
 ---
 
 ## Tag.WaveformOriginality field

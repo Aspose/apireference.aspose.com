@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280090 VRCS VM1 Blocked Pixels RETIRED.
 type: docs
 weight: 4030
-url: /aspose.medical.dicom.tags/tag/blockedpixelsretired/
+url: /net/aspose.medical.dicom.tags/tag/blockedpixelsretired/
 ---
 
 ## Tag.BlockedPixelsRETIRED field

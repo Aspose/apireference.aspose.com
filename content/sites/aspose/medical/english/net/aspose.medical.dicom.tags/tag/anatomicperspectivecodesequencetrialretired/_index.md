@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082257 VRSQ VM1 Anatomic Perspective Code Sequence Trial RETIRED.
 type: docs
 weight: 1510
-url: /aspose.medical.dicom.tags/tag/anatomicperspectivecodesequencetrialretired/
+url: /net/aspose.medical.dicom.tags/tag/anatomicperspectivecodesequencetrialretired/
 ---
 
 ## Tag.AnatomicPerspectiveCodeSequenceTrialRETIRED field

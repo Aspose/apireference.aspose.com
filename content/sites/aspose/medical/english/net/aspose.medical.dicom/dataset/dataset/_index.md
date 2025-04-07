@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Initialize a new instance of the Datasetaspose.medical.dicom/dataset.
 type: docs
 weight: 10
-url: /aspose.medical.dicom/dataset/dataset/
+url: /net/aspose.medical.dicom/dataset/dataset/
 ---
 
 ## Dataset() {#constructor}

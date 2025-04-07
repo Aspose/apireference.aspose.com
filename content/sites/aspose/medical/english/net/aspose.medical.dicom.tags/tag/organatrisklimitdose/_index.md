@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A002B VRDS VM1 Organ at Risk Limit Dose.
 type: docs
 weight: 28440
-url: /aspose.medical.dicom.tags/tag/organatrisklimitdose/
+url: /net/aspose.medical.dicom.tags/tag/organatrisklimitdose/
 ---
 
 ## Tag.OrganAtRiskLimitDose field

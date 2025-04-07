@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 60xx0022 VRLO VM1 Overlay Description.
 type: docs
 weight: 28980
-url: /aspose.medical.dicom.tags/tag/overlaydescription/
+url: /net/aspose.medical.dicom.tags/tag/overlaydescription/
 ---
 
 ## Tag.OverlayDescription field

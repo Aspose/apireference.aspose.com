@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014600C VRSQ VM1 Induction Source Setting Sequence RETIRED.
 type: docs
 weight: 20310
-url: /aspose.medical.dicom.tags/tag/inductionsourcesettingsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/inductionsourcesettingsequenceretired/
 ---
 
 ## Tag.InductionSourceSettingSequenceRETIRED field

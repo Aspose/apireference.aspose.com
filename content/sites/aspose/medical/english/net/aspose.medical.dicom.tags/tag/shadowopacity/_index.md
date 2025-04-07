@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700258 VRFL VM1 Shadow Opacity.
 type: docs
 weight: 43110
-url: /aspose.medical.dicom.tags/tag/shadowopacity/
+url: /net/aspose.medical.dicom.tags/tag/shadowopacity/
 ---
 
 ## Tag.ShadowOpacity field

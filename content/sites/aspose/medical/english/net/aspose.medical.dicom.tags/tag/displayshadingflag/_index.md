@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0246 VRCS VM1 Display Shading Flag.
 type: docs
 weight: 12240
-url: /aspose.medical.dicom.tags/tag/displayshadingflag/
+url: /net/aspose.medical.dicom.tags/tag/displayshadingflag/
 ---
 
 ## Tag.DisplayShadingFlag field

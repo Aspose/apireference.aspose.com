@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 60
-url: /aspose.medical.dicom.elements/multivaluetextelement/getordefault/
+url: /net/aspose.medical.dicom.elements/multivaluetextelement/getordefault/
 ---
 
 ## GetOrDefault&lt;T&gt;(int) {#getordefault}

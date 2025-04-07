@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400440 VRSQ VM1 Protocol Context Sequence.
 type: docs
 weight: 33630
-url: /aspose.medical.dicom.tags/tag/protocolcontextsequence/
+url: /net/aspose.medical.dicom.tags/tag/protocolcontextsequence/
 ---
 
 ## Tag.ProtocolContextSequence field

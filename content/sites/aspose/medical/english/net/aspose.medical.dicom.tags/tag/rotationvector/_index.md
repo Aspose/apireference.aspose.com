@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540050 VRUS VM1-n Rotation Vector.
 type: docs
 weight: 39680
-url: /aspose.medical.dicom.tags/tag/rotationvector/
+url: /net/aspose.medical.dicom.tags/tag/rotationvector/
 ---
 
 ## Tag.RotationVector field

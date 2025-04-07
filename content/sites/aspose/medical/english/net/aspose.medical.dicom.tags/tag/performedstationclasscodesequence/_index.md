@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404029 VRSQ VM1 Performed Station Class Code Sequence.
 type: docs
 weight: 30790
-url: /aspose.medical.dicom.tags/tag/performedstationclasscodesequence/
+url: /net/aspose.medical.dicom.tags/tag/performedstationclasscodesequence/
 ---
 
 ## Tag.PerformedStationClassCodeSequence field

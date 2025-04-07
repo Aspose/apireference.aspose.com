@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 53110
-url: /aspose.medical.dicom.tags/tag/gethashcode/
+url: /net/aspose.medical.dicom.tags/tag/gethashcode/
 ---
 
 ## Tag.GetHashCode method

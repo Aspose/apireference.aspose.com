@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018100A VRSQ VM1 UDI Sequence.
 type: docs
 weight: 50340
-url: /aspose.medical.dicom.tags/tag/udisequence/
+url: /net/aspose.medical.dicom.tags/tag/udisequence/
 ---
 
 ## Tag.UDISequence field

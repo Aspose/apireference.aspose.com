@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186016 VRUL VM1 Region Flags.
 type: docs
 weight: 38030
-url: /aspose.medical.dicom.tags/tag/regionflags/
+url: /net/aspose.medical.dicom.tags/tag/regionflags/
 ---
 
 ## Tag.RegionFlags field

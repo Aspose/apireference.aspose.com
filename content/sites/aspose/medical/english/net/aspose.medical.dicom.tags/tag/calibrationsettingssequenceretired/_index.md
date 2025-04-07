@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144070 VRSQ VM1 Calibration Settings Sequence RETIRED.
 type: docs
 weight: 4980
-url: /aspose.medical.dicom.tags/tag/calibrationsettingssequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/calibrationsettingssequenceretired/
 ---
 
 ## Tag.CalibrationSettingsSequenceRETIRED field

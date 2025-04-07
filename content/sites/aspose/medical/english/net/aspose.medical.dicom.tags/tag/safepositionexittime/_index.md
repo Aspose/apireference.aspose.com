@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080164 VRTM VM1 Safe Position Exit Time.
 type: docs
 weight: 40870
-url: /aspose.medical.dicom.tags/tag/safepositionexittime/
+url: /net/aspose.medical.dicom.tags/tag/safepositionexittime/
 ---
 
 ## Tag.SafePositionExitTime field

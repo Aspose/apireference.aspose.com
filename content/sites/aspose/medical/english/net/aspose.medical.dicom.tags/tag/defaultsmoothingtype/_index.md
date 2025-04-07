@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 201000A8 VRCS VM1 Default Smoothing Type.
 type: docs
 weight: 10380
-url: /aspose.medical.dicom.tags/tag/defaultsmoothingtype/
+url: /net/aspose.medical.dicom.tags/tag/defaultsmoothingtype/
 ---
 
 ## Tag.DefaultSmoothingType field

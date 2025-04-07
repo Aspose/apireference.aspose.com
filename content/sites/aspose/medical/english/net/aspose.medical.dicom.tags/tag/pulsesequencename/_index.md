@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189005 VRSH VM1 Pulse Sequence Name.
 type: docs
 weight: 33840
-url: /aspose.medical.dicom.tags/tag/pulsesequencename/
+url: /net/aspose.medical.dicom.tags/tag/pulsesequencename/
 ---
 
 ## Tag.PulseSequenceName field

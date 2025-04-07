@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720040 VRLO VM1 Image Set Label.
 type: docs
 weight: 19490
-url: /aspose.medical.dicom.tags/tag/imagesetlabel/
+url: /net/aspose.medical.dicom.tags/tag/imagesetlabel/
 ---
 
 ## Tag.ImageSetLabel field

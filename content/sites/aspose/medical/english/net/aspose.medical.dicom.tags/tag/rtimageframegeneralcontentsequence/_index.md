@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020102 VRSQ VM1 RT Image Frame General Content Sequence.
 type: docs
 weight: 40120
-url: /aspose.medical.dicom.tags/tag/rtimageframegeneralcontentsequence/
+url: /net/aspose.medical.dicom.tags/tag/rtimageframegeneralcontentsequence/
 ---
 
 ## Tag.RTImageFrameGeneralContentSequence field

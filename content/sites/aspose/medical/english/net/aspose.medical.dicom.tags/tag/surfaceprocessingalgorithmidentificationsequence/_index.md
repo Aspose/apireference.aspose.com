@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660035 VRSQ VM1 Surface Processing Algorithm Identification Sequence.
 type: docs
 weight: 46470
-url: /aspose.medical.dicom.tags/tag/surfaceprocessingalgorithmidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/surfaceprocessingalgorithmidentificationsequence/
 ---
 
 ## Tag.SurfaceProcessingAlgorithmIdentificationSequence field

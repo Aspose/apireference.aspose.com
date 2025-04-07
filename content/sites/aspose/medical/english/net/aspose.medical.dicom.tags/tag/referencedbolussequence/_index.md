@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C00B0 VRSQ VM1 Referenced Bolus Sequence.
 type: docs
 weight: 36050
-url: /aspose.medical.dicom.tags/tag/referencedbolussequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedbolussequence/
 ---
 
 ## Tag.ReferencedBolusSequence field

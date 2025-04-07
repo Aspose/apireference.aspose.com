@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0263 VRSH VM1 Brachy Accessory Device ID.
 type: docs
 weight: 4400
-url: /aspose.medical.dicom.tags/tag/brachyaccessorydeviceid/
+url: /net/aspose.medical.dicom.tags/tag/brachyaccessorydeviceid/
 ---
 
 ## Tag.BrachyAccessoryDeviceID field

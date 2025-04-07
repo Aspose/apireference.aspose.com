@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Digital X-Ray Image Storage - For Processing.
 type: docs
 weight: 1260
-url: /aspose.medical.dicom/uid/digitalxrayimagestorageforprocessing/
+url: /net/aspose.medical.dicom/uid/digitalxrayimagestorageforprocessing/
 ---
 
 ## Uid.DigitalXRayImageStorageForProcessing field

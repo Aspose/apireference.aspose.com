@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A030A VRFL VM2 Virtual Source-Axis Distances.
 type: docs
 weight: 51280
-url: /aspose.medical.dicom.tags/tag/virtualsourceaxisdistances/
+url: /net/aspose.medical.dicom.tags/tag/virtualsourceaxisdistances/
 ---
 
 ## Tag.VirtualSourceAxisDistances field

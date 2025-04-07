@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189735 VRSQ VM1 PET Position Sequence.
 type: docs
 weight: 31040
-url: /aspose.medical.dicom.tags/tag/petpositionsequence/
+url: /net/aspose.medical.dicom.tags/tag/petpositionsequence/
 ---
 
 ## Tag.PETPositionSequence field

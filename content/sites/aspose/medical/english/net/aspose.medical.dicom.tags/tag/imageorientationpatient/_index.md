@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200037 VRDS VM6 Image Orientation Patient.
 type: docs
 weight: 19260
-url: /aspose.medical.dicom.tags/tag/imageorientationpatient/
+url: /net/aspose.medical.dicom.tags/tag/imageorientationpatient/
 ---
 
 ## Tag.ImageOrientationPatient field

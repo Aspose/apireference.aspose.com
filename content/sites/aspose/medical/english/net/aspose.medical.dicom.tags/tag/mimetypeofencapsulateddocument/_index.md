@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00420012 VRLO VM1 MIME Type of Encapsulated Document.
 type: docs
 weight: 24550
-url: /aspose.medical.dicom.tags/tag/mimetypeofencapsulateddocument/
+url: /net/aspose.medical.dicom.tags/tag/mimetypeofencapsulateddocument/
 ---
 
 ## Tag.MIMETypeOfEncapsulatedDocument field

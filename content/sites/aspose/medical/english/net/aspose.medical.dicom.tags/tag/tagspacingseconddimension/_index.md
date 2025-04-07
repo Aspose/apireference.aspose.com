@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189218 VRFD VM1 Tag Spacing Second Dimension.
 type: docs
 weight: 47300
-url: /aspose.medical.dicom.tags/tag/tagspacingseconddimension/
+url: /net/aspose.medical.dicom.tags/tag/tagspacingseconddimension/
 ---
 
 ## Tag.TagSpacingSecondDimension field

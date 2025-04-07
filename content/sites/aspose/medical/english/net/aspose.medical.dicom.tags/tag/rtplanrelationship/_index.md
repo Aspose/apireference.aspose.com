@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0055 VRCS VM1 RT Plan Relationship.
 type: docs
 weight: 40370
-url: /aspose.medical.dicom.tags/tag/rtplanrelationship/
+url: /net/aspose.medical.dicom.tags/tag/rtplanrelationship/
 ---
 
 ## Tag.RTPlanRelationship field

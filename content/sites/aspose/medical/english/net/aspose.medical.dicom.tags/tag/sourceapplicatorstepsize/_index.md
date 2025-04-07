@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02A0 VRDS VM1 Source Applicator Step Size.
 type: docs
 weight: 44020
-url: /aspose.medical.dicom.tags/tag/sourceapplicatorstepsize/
+url: /net/aspose.medical.dicom.tags/tag/sourceapplicatorstepsize/
 ---
 
 ## Tag.SourceApplicatorStepSize field

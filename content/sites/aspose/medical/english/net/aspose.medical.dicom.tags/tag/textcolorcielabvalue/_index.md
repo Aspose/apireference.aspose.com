@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700241 VRUS VM3 Text Color CIELab Value.
 type: docs
 weight: 47800
-url: /aspose.medical.dicom.tags/tag/textcolorcielabvalue/
+url: /net/aspose.medical.dicom.tags/tag/textcolorcielabvalue/
 ---
 
 ## Tag.TextColorCIELabValue field

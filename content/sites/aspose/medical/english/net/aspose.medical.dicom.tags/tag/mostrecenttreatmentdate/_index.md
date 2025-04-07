@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080056 VRDA VM1 Most Recent Treatment Date.
 type: docs
 weight: 24950
-url: /aspose.medical.dicom.tags/tag/mostrecenttreatmentdate/
+url: /net/aspose.medical.dicom.tags/tag/mostrecenttreatmentdate/
 ---
 
 ## Tag.MostRecentTreatmentDate field

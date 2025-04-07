@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class RT Beams Treatment Record Storage.
 type: docs
 weight: 4030
-url: /aspose.medical.dicom/uid/rtbeamstreatmentrecordstorage/
+url: /net/aspose.medical.dicom/uid/rtbeamstreatmentrecordstorage/
 ---
 
 ## Uid.RTBeamsTreatmentRecordStorage field

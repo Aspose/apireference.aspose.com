@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080080 VRSQ VM1 Referenced Measured Dose Reference Sequence.
 type: docs
 weight: 36660
-url: /aspose.medical.dicom.tags/tag/referencedmeasureddosereferencesequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedmeasureddosereferencesequence/
 ---
 
 ## Tag.ReferencedMeasuredDoseReferenceSequence field

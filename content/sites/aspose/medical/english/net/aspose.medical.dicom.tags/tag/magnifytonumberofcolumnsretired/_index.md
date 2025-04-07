@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20400074 VRUS VM1 Magnify to Number of Columns RETIRED.
 type: docs
 weight: 23350
-url: /aspose.medical.dicom.tags/tag/magnifytonumberofcolumnsretired/
+url: /net/aspose.medical.dicom.tags/tag/magnifytonumberofcolumnsretired/
 ---
 
 ## Tag.MagnifyToNumberOfColumnsRETIRED field

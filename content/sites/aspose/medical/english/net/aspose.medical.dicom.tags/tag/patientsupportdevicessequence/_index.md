@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0686 VRSQ VM1 Patient Support Devices Sequence.
 type: docs
 weight: 30250
-url: /aspose.medical.dicom.tags/tag/patientsupportdevicessequence/
+url: /net/aspose.medical.dicom.tags/tag/patientsupportdevicessequence/
 ---
 
 ## Tag.PatientSupportDevicesSequence field

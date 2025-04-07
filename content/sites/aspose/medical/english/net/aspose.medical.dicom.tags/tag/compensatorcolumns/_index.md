@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00E8 VRIS VM1 Compensator Columns.
 type: docs
 weight: 6640
-url: /aspose.medical.dicom.tags/tag/compensatorcolumns/
+url: /net/aspose.medical.dicom.tags/tag/compensatorcolumns/
 ---
 
 ## Tag.CompensatorColumns field

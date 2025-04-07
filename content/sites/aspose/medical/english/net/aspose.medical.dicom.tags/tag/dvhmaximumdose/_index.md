@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040072 VRDS VM1 DVH Maximum Dose.
 type: docs
 weight: 13080
-url: /aspose.medical.dicom.tags/tag/dvhmaximumdose/
+url: /net/aspose.medical.dicom.tags/tag/dvhmaximumdose/
 ---
 
 ## Tag.DVHMaximumDose field

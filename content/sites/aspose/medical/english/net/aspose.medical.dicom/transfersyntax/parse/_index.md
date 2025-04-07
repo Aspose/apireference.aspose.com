@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 590
-url: /aspose.medical.dicom/transfersyntax/parse/
+url: /net/aspose.medical.dicom/transfersyntax/parse/
 ---
 
 ## Parse(string, IFormatProvider?) {#parse_1}

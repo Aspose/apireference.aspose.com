@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00142204 VRSQ VM1 Coordinate System Axes Sequence RETIRED.
 type: docs
 weight: 8640
-url: /aspose.medical.dicom.tags/tag/coordinatesystemaxessequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/coordinatesystemaxessequenceretired/
 ---
 
 ## Tag.CoordinateSystemAxesSequenceRETIRED field

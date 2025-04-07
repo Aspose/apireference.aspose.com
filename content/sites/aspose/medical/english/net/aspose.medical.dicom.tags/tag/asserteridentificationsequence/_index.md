@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440103 VRSQ VM1 Asserter Identification Sequence.
 type: docs
 weight: 2500
-url: /aspose.medical.dicom.tags/tag/asserteridentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/asserteridentificationsequence/
 ---
 
 ## Tag.AsserterIdentificationSequence field

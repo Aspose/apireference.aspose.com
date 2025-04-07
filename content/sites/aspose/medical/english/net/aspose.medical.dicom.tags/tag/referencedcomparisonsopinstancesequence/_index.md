@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820005 VRSQ VM1 Referenced Comparison SOP Instance Sequence.
 type: docs
 weight: 36140
-url: /aspose.medical.dicom.tags/tag/referencedcomparisonsopinstancesequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedcomparisonsopinstancesequence/
 ---
 
 ## Tag.ReferencedComparisonSOPInstanceSequence field

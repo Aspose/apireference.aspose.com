@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0126 VRCS VM1 Table Top Eccentric Rotation Direction.
 type: docs
 weight: 46960
-url: /aspose.medical.dicom.tags/tag/tabletopeccentricrotationdirection/
+url: /net/aspose.medical.dicom.tags/tag/tabletopeccentricrotationdirection/
 ---
 
 ## Tag.TableTopEccentricRotationDirection field

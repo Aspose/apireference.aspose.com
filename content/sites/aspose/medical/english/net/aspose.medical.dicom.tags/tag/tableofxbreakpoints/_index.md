@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186052 VRUL VM1-n Table of X Break Points.
 type: docs
 weight: 46850
-url: /aspose.medical.dicom.tags/tag/tableofxbreakpoints/
+url: /net/aspose.medical.dicom.tags/tag/tableofxbreakpoints/
 ---
 
 ## Tag.TableOfXBreakPoints field

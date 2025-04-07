@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100061 VRUT VM1 Prior Treatment Dose Description.
 type: docs
 weight: 33020
-url: /aspose.medical.dicom.tags/tag/priortreatmentdosedescription/
+url: /net/aspose.medical.dicom.tags/tag/priortreatmentdosedescription/
 ---
 
 ## Tag.PriorTreatmentDoseDescription field

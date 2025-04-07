@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018937F VRUT VM1 Decomposition Description.
 type: docs
 weight: 10280
-url: /aspose.medical.dicom.tags/tag/decompositiondescription/
+url: /net/aspose.medical.dicom.tags/tag/decompositiondescription/
 ---
 
 ## Tag.DecompositionDescription field

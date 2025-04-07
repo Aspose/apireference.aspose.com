@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Unified Procedure Step - Query SOP Class.
 type: docs
 weight: 4830
-url: /aspose.medical.dicom/uid/unifiedprocedurestepquerysopclass/
+url: /net/aspose.medical.dicom/uid/unifiedprocedurestepquerysopclass/
 ---
 
 ## Uid.UnifiedProcedureStepQuerySOPClass field

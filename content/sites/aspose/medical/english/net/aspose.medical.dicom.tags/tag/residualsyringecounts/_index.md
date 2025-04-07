@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540017 VRIS VM1 Residual Syringe Counts.
 type: docs
 weight: 38920
-url: /aspose.medical.dicom.tags/tag/residualsyringecounts/
+url: /net/aspose.medical.dicom.tags/tag/residualsyringecounts/
 ---
 
 ## Tag.ResidualSyringeCounts field

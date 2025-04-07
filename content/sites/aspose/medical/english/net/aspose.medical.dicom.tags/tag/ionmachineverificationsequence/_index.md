@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741046 VRSQ VM1 Ion Machine Verification Sequence.
 type: docs
 weight: 21530
-url: /aspose.medical.dicom.tags/tag/ionmachineverificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/ionmachineverificationsequence/
 ---
 
 ## Tag.IonMachineVerificationSequence field

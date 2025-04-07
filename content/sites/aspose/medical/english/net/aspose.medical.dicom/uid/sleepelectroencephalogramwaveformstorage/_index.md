@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Sleep Electroencephalogram Waveform Storage.
 type: docs
 weight: 4290
-url: /aspose.medical.dicom/uid/sleepelectroencephalogramwaveformstorage/
+url: /net/aspose.medical.dicom/uid/sleepelectroencephalogramwaveformstorage/
 ---
 
 ## Uid.SleepElectroencephalogramWaveformStorage field

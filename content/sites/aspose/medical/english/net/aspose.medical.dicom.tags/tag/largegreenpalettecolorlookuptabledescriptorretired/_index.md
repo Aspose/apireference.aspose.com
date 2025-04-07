@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281112 VRUS or SS VM4 Large Green Palette Color Lookup Table Descriptor RETIRED.
 type: docs
 weight: 22250
-url: /aspose.medical.dicom.tags/tag/largegreenpalettecolorlookuptabledescriptorretired/
+url: /net/aspose.medical.dicom.tags/tag/largegreenpalettecolorlookuptabledescriptorretired/
 ---
 
 ## Tag.LargeGreenPaletteColorLookupTableDescriptorRETIRED field

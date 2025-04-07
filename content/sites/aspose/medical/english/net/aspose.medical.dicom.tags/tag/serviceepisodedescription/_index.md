@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380062 VRLO VM1 Service Episode Description.
 type: docs
 weight: 42950
-url: /aspose.medical.dicom.tags/tag/serviceepisodedescription/
+url: /net/aspose.medical.dicom.tags/tag/serviceepisodedescription/
 ---
 
 ## Tag.ServiceEpisodeDescription field

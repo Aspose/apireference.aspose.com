@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189314 VRSQ VM1 CT Reconstruction Sequence.
 type: docs
 weight: 9290
-url: /aspose.medical.dicom.tags/tag/ctreconstructionsequence/
+url: /net/aspose.medical.dicom.tags/tag/ctreconstructionsequence/
 ---
 
 ## Tag.CTReconstructionSequence field

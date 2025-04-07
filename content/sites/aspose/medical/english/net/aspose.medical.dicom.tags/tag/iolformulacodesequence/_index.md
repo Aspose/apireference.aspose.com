@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221028 VRSQ VM1 IOL Formula Code Sequence.
 type: docs
 weight: 21400
-url: /aspose.medical.dicom.tags/tag/iolformulacodesequence/
+url: /net/aspose.medical.dicom.tags/tag/iolformulacodesequence/
 ---
 
 ## Tag.IOLFormulaCodeSequence field

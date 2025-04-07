@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Composite Instance Root Retrieve - GET.
 type: docs
 weight: 410
-url: /aspose.medical.dicom/uid/compositeinstancerootretrieveget/
+url: /net/aspose.medical.dicom/uid/compositeinstancerootretrieveget/
 ---
 
 ## Uid.CompositeInstanceRootRetrieveGET field

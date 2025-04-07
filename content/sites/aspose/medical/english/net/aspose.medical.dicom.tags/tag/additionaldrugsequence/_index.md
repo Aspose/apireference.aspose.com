@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018002A VRSQ VM1 Additional Drug Sequence.
 type: docs
 weight: 820
-url: /aspose.medical.dicom.tags/tag/additionaldrugsequence/
+url: /net/aspose.medical.dicom.tags/tag/additionaldrugsequence/
 ---
 
 ## Tag.AdditionalDrugSequence field

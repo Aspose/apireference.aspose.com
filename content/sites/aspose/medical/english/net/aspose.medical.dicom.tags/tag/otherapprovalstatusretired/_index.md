@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140107 VRCS VM1-n Other Approval Status RETIRED.
 type: docs
 weight: 28590
-url: /aspose.medical.dicom.tags/tag/otherapprovalstatusretired/
+url: /net/aspose.medical.dicom.tags/tag/otherapprovalstatusretired/
 ---
 
 ## Tag.OtherApprovalStatusRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146048 VRDS VM1 Specific Heat of Inspection Surface RETIRED.
 type: docs
 weight: 44870
-url: /aspose.medical.dicom.tags/tag/specificheatofinspectionsurfaceretired/
+url: /net/aspose.medical.dicom.tags/tag/specificheatofinspectionsurfaceretired/
 ---
 
 ## Tag.SpecificHeatOfInspectionSurfaceRETIRED field

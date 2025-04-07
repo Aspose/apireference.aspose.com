@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A162 VRSL VM1-n Rational Numerator Value.
 type: docs
 weight: 35010
-url: /aspose.medical.dicom.tags/tag/rationalnumeratorvalue/
+url: /net/aspose.medical.dicom.tags/tag/rationalnumeratorvalue/
 ---
 
 ## Tag.RationalNumeratorValue field

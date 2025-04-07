@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018993C VRSQ VM1 Reconstruction End Location Sequence.
 type: docs
 weight: 35620
-url: /aspose.medical.dicom.tags/tag/reconstructionendlocationsequence/
+url: /net/aspose.medical.dicom.tags/tag/reconstructionendlocationsequence/
 ---
 
 ## Tag.ReconstructionEndLocationSequence field

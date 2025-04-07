@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Planned Imaging Agent Administration SR Storage.
 type: docs
 weight: 3040
-url: /aspose.medical.dicom/uid/plannedimagingagentadministrationsrstorage/
+url: /net/aspose.medical.dicom/uid/plannedimagingagentadministrationsrstorage/
 ---
 
 ## Uid.PlannedImagingAgentAdministrationSRStorage field

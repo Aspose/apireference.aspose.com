@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018991D VRSQ VM1 Positioning Landmark Sequence.
 type: docs
 weight: 32120
-url: /aspose.medical.dicom.tags/tag/positioninglandmarksequence/
+url: /net/aspose.medical.dicom.tags/tag/positioninglandmarksequence/
 ---
 
 ## Tag.PositioningLandmarkSequence field

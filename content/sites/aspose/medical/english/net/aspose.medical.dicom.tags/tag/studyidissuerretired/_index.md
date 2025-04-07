@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00320012 VRLO VM1 Study ID Issuer RETIRED.
 type: docs
 weight: 46030
-url: /aspose.medical.dicom.tags/tag/studyidissuerretired/
+url: /net/aspose.medical.dicom.tags/tag/studyidissuerretired/
 ---
 
 ## Tag.StudyIDIssuerRETIRED field

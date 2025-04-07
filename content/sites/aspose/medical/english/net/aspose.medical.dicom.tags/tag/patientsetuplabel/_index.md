@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0183 VRLO VM1 Patient Setup Label.
 type: docs
 weight: 30080
-url: /aspose.medical.dicom.tags/tag/patientsetuplabel/
+url: /net/aspose.medical.dicom.tags/tag/patientsetuplabel/
 ---
 
 ## Tag.PatientSetupLabel field

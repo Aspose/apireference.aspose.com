@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460122 VRSQ VM1 Visual Acuity Right Eye Sequence.
 type: docs
 weight: 51350
-url: /aspose.medical.dicom.tags/tag/visualacuityrighteyesequence/
+url: /net/aspose.medical.dicom.tags/tag/visualacuityrighteyesequence/
 ---
 
 ## Tag.VisualAcuityRightEyeSequence field

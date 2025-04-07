@@ -2,7 +2,7 @@
 title: Aspose.Medical
 type: docs
 weight: 10
-url: /
+url: /net/
 description: "Aspose.Medical"
 is_root: true
 ---

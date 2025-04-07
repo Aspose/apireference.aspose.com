@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Ophthalmic Tomography Image Storage.
 type: docs
 weight: 2890
-url: /aspose.medical.dicom/uid/ophthalmictomographyimagestorage/
+url: /net/aspose.medical.dicom/uid/ophthalmictomographyimagestorage/
 ---
 
 ## Uid.OphthalmicTomographyImageStorage field

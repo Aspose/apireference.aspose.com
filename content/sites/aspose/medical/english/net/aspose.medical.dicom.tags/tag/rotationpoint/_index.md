@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700273 VRFL VM2 Rotation Point.
 type: docs
 weight: 39670
-url: /aspose.medical.dicom.tags/tag/rotationpoint/
+url: /net/aspose.medical.dicom.tags/tag/rotationpoint/
 ---
 
 ## Tag.RotationPoint field

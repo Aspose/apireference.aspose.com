@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287018 VRFL VM2 CIExy White Point.
 type: docs
 weight: 5860
-url: /aspose.medical.dicom.tags/tag/ciexywhitepoint/
+url: /net/aspose.medical.dicom.tags/tag/ciexywhitepoint/
 ---
 
 ## Tag.CIExyWhitePoint field

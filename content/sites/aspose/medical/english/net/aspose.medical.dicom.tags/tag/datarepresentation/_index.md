@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289108 VRCS VM1 Data Representation.
 type: docs
 weight: 9930
-url: /aspose.medical.dicom.tags/tag/datarepresentation/
+url: /net/aspose.medical.dicom.tags/tag/datarepresentation/
 ---
 
 ## Tag.DataRepresentation field

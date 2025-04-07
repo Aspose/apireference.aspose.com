@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720208 VRCS VM1 Partial Data Display Handling.
 type: docs
 weight: 29580
-url: /aspose.medical.dicom.tags/tag/partialdatadisplayhandling/
+url: /net/aspose.medical.dicom.tags/tag/partialdatadisplayhandling/
 ---
 
 ## Tag.PartialDataDisplayHandling field

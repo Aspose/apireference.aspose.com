@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020004 VRST VM1 RT Image Description.
 type: docs
 weight: 40100
-url: /aspose.medical.dicom.tags/tag/rtimagedescription/
+url: /net/aspose.medical.dicom.tags/tag/rtimagedescription/
 ---
 
 ## Tag.RTImageDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080110 VRSQ VM1 Treatment Session Application Setup Sequence.
 type: docs
 weight: 49750
-url: /aspose.medical.dicom.tags/tag/treatmentsessionapplicationsetupsequence/
+url: /net/aspose.medical.dicom.tags/tag/treatmentsessionapplicationsetupsequence/
 ---
 
 ## Tag.TreatmentSessionApplicationSetupSequence field

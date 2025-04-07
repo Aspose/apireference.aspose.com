@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Radiopharmaceutical Radiation Dose SR Storage.
 type: docs
 weight: 3860
-url: /aspose.medical.dicom/uid/radiopharmaceuticalradiationdosesrstorage/
+url: /net/aspose.medical.dicom/uid/radiopharmaceuticalradiationdosesrstorage/
 ---
 
 ## Uid.RadiopharmaceuticalRadiationDoseSRStorage field

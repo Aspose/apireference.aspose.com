@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0314 VRDT VM1 Impedance Measurement DateTime.
 type: docs
 weight: 19770
-url: /aspose.medical.dicom.tags/tag/impedancemeasurementdatetime/
+url: /net/aspose.medical.dicom.tags/tag/impedancemeasurementdatetime/
 ---
 
 ## Tag.ImpedanceMeasurementDateTime field

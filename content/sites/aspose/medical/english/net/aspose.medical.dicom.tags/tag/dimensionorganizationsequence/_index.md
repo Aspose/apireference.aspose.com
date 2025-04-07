@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209221 VRSQ VM1 Dimension Organization Sequence.
 type: docs
 weight: 11890
-url: /aspose.medical.dicom.tags/tag/dimensionorganizationsequence/
+url: /net/aspose.medical.dicom.tags/tag/dimensionorganizationsequence/
 ---
 
 ## Tag.DimensionOrganizationSequence field

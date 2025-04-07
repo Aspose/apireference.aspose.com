@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0082000C VRSQ VM1 Structured Constraint Observation Sequence.
 type: docs
 weight: 45810
-url: /aspose.medical.dicom.tags/tag/structuredconstraintobservationsequence/
+url: /net/aspose.medical.dicom.tags/tag/structuredconstraintobservationsequence/
 ---
 
 ## Tag.StructuredConstraintObservationSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002010E VRSQ VM1 Image Receptor Position Sequence.
 type: docs
 weight: 19440
-url: /aspose.medical.dicom.tags/tag/imagereceptorpositionsequence/
+url: /net/aspose.medical.dicom.tags/tag/imagereceptorpositionsequence/
 ---
 
 ## Tag.ImageReceptorPositionSequence field

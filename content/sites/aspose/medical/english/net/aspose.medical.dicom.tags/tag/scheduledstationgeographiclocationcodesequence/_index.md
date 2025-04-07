@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404027 VRSQ VM1 Scheduled Station Geographic Location Code Sequence.
 type: docs
 weight: 41540
-url: /aspose.medical.dicom.tags/tag/scheduledstationgeographiclocationcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/scheduledstationgeographiclocationcodesequence/
 ---
 
 ## Tag.ScheduledStationGeographicLocationCodeSequence field

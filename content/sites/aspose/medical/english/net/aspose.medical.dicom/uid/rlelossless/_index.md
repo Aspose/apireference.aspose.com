@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax RLE Lossless.
 type: docs
 weight: 3970
-url: /aspose.medical.dicom/uid/rlelossless/
+url: /net/aspose.medical.dicom/uid/rlelossless/
 ---
 
 ## Uid.RleLossless field

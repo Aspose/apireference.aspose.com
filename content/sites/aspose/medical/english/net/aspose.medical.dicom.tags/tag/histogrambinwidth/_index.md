@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00603008 VRUS VM1 Histogram Bin Width.
 type: docs
 weight: 18340
-url: /aspose.medical.dicom.tags/tag/histogrambinwidth/
+url: /net/aspose.medical.dicom.tags/tag/histogrambinwidth/
 ---
 
 ## Tag.HistogramBinWidth field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014601A VRDS VM1 Vibration Excitation Voltage RETIRED.
 type: docs
 weight: 51120
-url: /aspose.medical.dicom.tags/tag/vibrationexcitationvoltageretired/
+url: /net/aspose.medical.dicom.tags/tag/vibrationexcitationvoltageretired/
 ---
 
 ## Tag.VibrationExcitationVoltageRETIRED field

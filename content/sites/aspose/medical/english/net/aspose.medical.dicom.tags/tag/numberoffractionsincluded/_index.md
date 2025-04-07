@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0119 VRUS VM1 Number of Fractions Included.
 type: docs
 weight: 26360
-url: /aspose.medical.dicom.tags/tag/numberoffractionsincluded/
+url: /net/aspose.medical.dicom.tags/tag/numberoffractionsincluded/
 ---
 
 ## Tag.NumberOfFractionsIncluded field

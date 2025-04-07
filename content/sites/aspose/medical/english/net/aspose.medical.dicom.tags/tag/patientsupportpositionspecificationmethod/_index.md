@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A065C VRCS VM1 Patient Support Position Specification Method.
 type: docs
 weight: 30330
-url: /aspose.medical.dicom.tags/tag/patientsupportpositionspecificationmethod/
+url: /net/aspose.medical.dicom.tags/tag/patientsupportpositionspecificationmethod/
 ---
 
 ## Tag.PatientSupportPositionSpecificationMethod field

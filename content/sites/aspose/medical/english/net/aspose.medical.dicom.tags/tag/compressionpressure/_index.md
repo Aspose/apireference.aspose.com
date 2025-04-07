@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811A3 VRDS VM1 Compression Pressure.
 type: docs
 weight: 7190
-url: /aspose.medical.dicom.tags/tag/compressionpressure/
+url: /net/aspose.medical.dicom.tags/tag/compressionpressure/
 ---
 
 ## Tag.CompressionPressure field

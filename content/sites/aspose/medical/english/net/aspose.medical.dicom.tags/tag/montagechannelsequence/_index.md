@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040B03C VRSQ VM1 Montage Channel Sequence.
 type: docs
 weight: 24910
-url: /aspose.medical.dicom.tags/tag/montagechannelsequence/
+url: /net/aspose.medical.dicom.tags/tag/montagechannelsequence/
 ---
 
 ## Tag.MontageChannelSequence field

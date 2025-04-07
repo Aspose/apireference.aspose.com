@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144076 VRDA VM1 Procedure Creation Date RETIRED.
 type: docs
 weight: 33340
-url: /aspose.medical.dicom.tags/tag/procedurecreationdateretired/
+url: /net/aspose.medical.dicom.tags/tag/procedurecreationdateretired/
 ---
 
 ## Tag.ProcedureCreationDateRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0074102D VRFD VM1 Table Top Roll Adjusted Angle.
 type: docs
 weight: 47100
-url: /aspose.medical.dicom.tags/tag/tabletoprolladjustedangle/
+url: /net/aspose.medical.dicom.tags/tag/tabletoprolladjustedangle/
 ---
 
 ## Tag.TableTopRollAdjustedAngle field

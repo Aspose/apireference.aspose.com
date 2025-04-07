@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280300 VRCS VM1 Quality Control Image.
 type: docs
 weight: 33990
-url: /aspose.medical.dicom.tags/tag/qualitycontrolimage/
+url: /net/aspose.medical.dicom.tags/tag/qualitycontrolimage/
 ---
 
 ## Tag.QualityControlImage field

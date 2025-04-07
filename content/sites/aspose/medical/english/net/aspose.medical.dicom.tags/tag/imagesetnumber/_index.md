@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720032 VRUS VM1 Image Set Number.
 type: docs
 weight: 19500
-url: /aspose.medical.dicom.tags/tag/imagesetnumber/
+url: /net/aspose.medical.dicom.tags/tag/imagesetnumber/
 ---
 
 ## Tag.ImageSetNumber field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00005130 VRCS VM1 Text Format ID RETIRED.
 type: docs
 weight: 47820
-url: /aspose.medical.dicom.tags/tag/textformatidretired/
+url: /net/aspose.medical.dicom.tags/tag/textformatidretired/
 ---
 
 ## Tag.TextFormatIDRETIRED field

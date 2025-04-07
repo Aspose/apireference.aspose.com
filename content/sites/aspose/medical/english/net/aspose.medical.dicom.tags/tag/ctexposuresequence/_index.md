@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189321 VRSQ VM1 CT Exposure Sequence.
 type: docs
 weight: 9240
-url: /aspose.medical.dicom.tags/tag/ctexposuresequence/
+url: /net/aspose.medical.dicom.tags/tag/ctexposuresequence/
 ---
 
 ## Tag.CTExposureSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209057 VRUL VM1 In-Stack Position Number.
 type: docs
 weight: 20440
-url: /aspose.medical.dicom.tags/tag/instackpositionnumber/
+url: /net/aspose.medical.dicom.tags/tag/instackpositionnumber/
 ---
 
 ## Tag.InStackPositionNumber field

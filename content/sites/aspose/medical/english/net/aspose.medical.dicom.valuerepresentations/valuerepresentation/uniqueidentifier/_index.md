@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Unique Identifier UI.
 type: docs
 weight: 280
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/uniqueidentifier/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/uniqueidentifier/
 ---
 
 ## ValueRepresentation.UniqueIdentifier field

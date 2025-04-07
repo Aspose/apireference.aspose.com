@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00286023 VRCS VM1-n Frame of Interest Type.
 type: docs
 weight: 16630
-url: /aspose.medical.dicom.tags/tag/frameofinteresttype/
+url: /net/aspose.medical.dicom.tags/tag/frameofinteresttype/
 ---
 
 ## Tag.FrameOfInterestType field

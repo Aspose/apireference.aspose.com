@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0422 VRST VM1 General Accessory Description.
 type: docs
 weight: 17120
-url: /aspose.medical.dicom.tags/tag/generalaccessorydescription/
+url: /net/aspose.medical.dicom.tags/tag/generalaccessorydescription/
 ---
 
 ## Tag.GeneralAccessoryDescription field

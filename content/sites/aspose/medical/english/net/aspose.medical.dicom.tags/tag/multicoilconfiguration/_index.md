@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189046 VRLO VM1 Multi-Coil Configuration.
 type: docs
 weight: 25350
-url: /aspose.medical.dicom.tags/tag/multicoilconfiguration/
+url: /net/aspose.medical.dicom.tags/tag/multicoilconfiguration/
 ---
 
 ## Tag.MultiCoilConfiguration field

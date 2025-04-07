@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100054 VRLO VM1 RT Prescription Label.
 type: docs
 weight: 40400
-url: /aspose.medical.dicom.tags/tag/rtprescriptionlabel/
+url: /net/aspose.medical.dicom.tags/tag/rtprescriptionlabel/
 ---
 
 ## Tag.RTPrescriptionLabel field

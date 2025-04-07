@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181204 VRDA VM1 Date of Manufacture.
 type: docs
 weight: 10100
-url: /aspose.medical.dicom.tags/tag/dateofmanufacture/
+url: /net/aspose.medical.dicom.tags/tag/dateofmanufacture/
 ---
 
 ## Tag.DateOfManufacture field

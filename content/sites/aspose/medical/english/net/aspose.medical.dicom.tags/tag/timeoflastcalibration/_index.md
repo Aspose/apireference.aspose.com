@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181201 VRTM VM1-n Time of Last Calibration.
 type: docs
 weight: 48420
-url: /aspose.medical.dicom.tags/tag/timeoflastcalibration/
+url: /net/aspose.medical.dicom.tags/tag/timeoflastcalibration/
 ---
 
 ## Tag.TimeOfLastCalibration field

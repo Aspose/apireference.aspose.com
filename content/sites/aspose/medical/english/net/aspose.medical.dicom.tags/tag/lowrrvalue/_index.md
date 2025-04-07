@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181081 VRIS VM1 Low R-R Value.
 type: docs
 weight: 23120
-url: /aspose.medical.dicom.tags/tag/lowrrvalue/
+url: /net/aspose.medical.dicom.tags/tag/lowrrvalue/
 ---
 
 ## Tag.LowRRValue field

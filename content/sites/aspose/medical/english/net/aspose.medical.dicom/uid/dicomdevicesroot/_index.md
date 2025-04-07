@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: LDAP OID dicomDevicesRoot.
 type: docs
 weight: 840
-url: /aspose.medical.dicom/uid/dicomdevicesroot/
+url: /net/aspose.medical.dicom/uid/dicomdevicesroot/
 ---
 
 ## Uid.DicomDevicesRoot field

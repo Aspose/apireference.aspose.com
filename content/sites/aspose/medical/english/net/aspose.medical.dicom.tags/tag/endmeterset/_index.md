@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3008007A VRDS VM1 End Meterset.
 type: docs
 weight: 13600
-url: /aspose.medical.dicom.tags/tag/endmeterset/
+url: /net/aspose.medical.dicom.tags/tag/endmeterset/
 ---
 
 ## Tag.EndMeterset field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701302 VRCS VM1 Volume Cropping Method.
 type: docs
 weight: 51600
-url: /aspose.medical.dicom.tags/tag/volumecroppingmethod/
+url: /net/aspose.medical.dicom.tags/tag/volumecroppingmethod/
 ---
 
 ## Tag.VolumeCroppingMethod field

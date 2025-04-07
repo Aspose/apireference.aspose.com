@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181637 VRUL VM1 Number of Polygonal Vertices.
 type: docs
 weight: 26670
-url: /aspose.medical.dicom.tags/tag/numberofpolygonalvertices/
+url: /net/aspose.medical.dicom.tags/tag/numberofpolygonalvertices/
 ---
 
 ## Tag.NumberOfPolygonalVertices field

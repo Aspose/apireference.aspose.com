@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0144 VRFL VM1 Table Top Roll Angle.
 type: docs
 weight: 47110
-url: /aspose.medical.dicom.tags/tag/tabletoprollangle/
+url: /net/aspose.medical.dicom.tags/tag/tabletoprollangle/
 ---
 
 ## Tag.TableTopRollAngle field

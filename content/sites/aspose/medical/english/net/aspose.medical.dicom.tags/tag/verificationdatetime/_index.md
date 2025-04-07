@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A030 VRDT VM1 Verification DateTime.
 type: docs
 weight: 50890
-url: /aspose.medical.dicom.tags/tag/verificationdatetime/
+url: /net/aspose.medical.dicom.tags/tag/verificationdatetime/
 ---
 
 ## Tag.VerificationDateTime field

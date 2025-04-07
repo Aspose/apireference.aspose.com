@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022000A VRFL VM1 Emmetropic Magnification.
 type: docs
 weight: 13440
-url: /aspose.medical.dicom.tags/tag/emmetropicmagnification/
+url: /net/aspose.medical.dicom.tags/tag/emmetropicmagnification/
 ---
 
 ## Tag.EmmetropicMagnification field

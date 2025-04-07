@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020001 VROB VM1 File Meta Information Version.
 type: docs
 weight: 15090
-url: /aspose.medical.dicom.tags/tag/filemetainformationversion/
+url: /net/aspose.medical.dicom.tags/tag/filemetainformationversion/
 ---
 
 ## Tag.FileMetaInformationVersion field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008113A VRSQ VM1 Referenced Waveform Sequence.
 type: docs
 weight: 37700
-url: /aspose.medical.dicom.tags/tag/referencedwaveformsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedwaveformsequence/
 ---
 
 ## Tag.ReferencedWaveformSequence field

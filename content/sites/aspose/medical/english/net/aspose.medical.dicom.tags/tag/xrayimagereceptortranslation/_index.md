@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002000D VRDS VM3 X-Ray Image Receptor Translation.
 type: docs
 weight: 52800
-url: /aspose.medical.dicom.tags/tag/xrayimagereceptortranslation/
+url: /net/aspose.medical.dicom.tags/tag/xrayimagereceptortranslation/
 ---
 
 ## Tag.XRayImageReceptorTranslation field

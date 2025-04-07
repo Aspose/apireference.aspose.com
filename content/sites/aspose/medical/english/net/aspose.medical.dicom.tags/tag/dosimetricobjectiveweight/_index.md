@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100074 VRFD VM1 Dosimetric Objective Weight.
 type: docs
 weight: 12910
-url: /aspose.medical.dicom.tags/tag/dosimetricobjectiveweight/
+url: /net/aspose.medical.dicom.tags/tag/dosimetricobjectiveweight/
 ---
 
 ## Tag.DosimetricObjectiveWeight field

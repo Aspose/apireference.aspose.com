@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101062 VRFL VM1 Belt Height RETIRED.
 type: docs
 weight: 3680
-url: /aspose.medical.dicom.tags/tag/beltheightretired/
+url: /net/aspose.medical.dicom.tags/tag/beltheightretired/
 ---
 
 ## Tag.BeltHeightRETIRED field

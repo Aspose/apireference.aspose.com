@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146018 VRSQ VM1 Vibration Source Setting Sequence RETIRED.
 type: docs
 weight: 51140
-url: /aspose.medical.dicom.tags/tag/vibrationsourcesettingsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/vibrationsourcesettingsequenceretired/
 ---
 
 ## Tag.VibrationSourceSettingSequenceRETIRED field

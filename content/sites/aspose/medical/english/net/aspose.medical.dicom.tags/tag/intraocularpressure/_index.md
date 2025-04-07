@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022000B VRFL VM1 Intra Ocular Pressure.
 type: docs
 weight: 21240
-url: /aspose.medical.dicom.tags/tag/intraocularpressure/
+url: /net/aspose.medical.dicom.tags/tag/intraocularpressure/
 ---
 
 ## Tag.IntraOcularPressure field

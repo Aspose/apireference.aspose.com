@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240114 VRSQ VM1 Ophthalmic Patient Clinical Information Left Eye Sequence.
 type: docs
 weight: 28150
-url: /aspose.medical.dicom.tags/tag/ophthalmicpatientclinicalinformationlefteyesequence/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicpatientclinicalinformationlefteyesequence/
 ---
 
 ## Tag.OphthalmicPatientClinicalInformationLeftEyeSequence field

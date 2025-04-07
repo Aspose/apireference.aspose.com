@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540202 VRCS VM1 Type of Detector Motion.
 type: docs
 weight: 50280
-url: /aspose.medical.dicom.tags/tag/typeofdetectormotion/
+url: /net/aspose.medical.dicom.tags/tag/typeofdetectormotion/
 ---
 
 ## Tag.TypeOfDetectorMotion field

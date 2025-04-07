@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300600CB VRSQ VM1 Patient Support Position Sequence.
 type: docs
 weight: 30320
-url: /aspose.medical.dicom.tags/tag/patientsupportpositionsequence/
+url: /net/aspose.medical.dicom.tags/tag/patientsupportpositionsequence/
 ---
 
 ## Tag.PatientSupportPositionSequence field

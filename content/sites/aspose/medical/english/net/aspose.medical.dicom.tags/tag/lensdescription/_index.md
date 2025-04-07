@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460012 VRLO VM1 Lens Description.
 type: docs
 weight: 22580
-url: /aspose.medical.dicom.tags/tag/lensdescription/
+url: /net/aspose.medical.dicom.tags/tag/lensdescription/
 ---
 
 ## Tag.LensDescription field

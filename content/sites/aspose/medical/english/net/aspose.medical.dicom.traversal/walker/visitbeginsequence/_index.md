@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Indicates that sequence element with nested data to be visited.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.traversal/walker/visitbeginsequence/
+url: /net/aspose.medical.dicom.traversal/walker/visitbeginsequence/
 ---
 
 ## Walker.VisitBeginSequence method

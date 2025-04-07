@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460249 VRFL VM1 Axial Power.
 type: docs
 weight: 3090
-url: /aspose.medical.dicom.tags/tag/axialpower/
+url: /net/aspose.medical.dicom.tags/tag/axialpower/
 ---
 
 ## Tag.AxialPower field

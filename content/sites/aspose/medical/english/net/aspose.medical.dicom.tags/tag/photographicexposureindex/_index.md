@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160038 VRDS VM1 Photographic Exposure Index.
 type: docs
 weight: 31170
-url: /aspose.medical.dicom.tags/tag/photographicexposureindex/
+url: /net/aspose.medical.dicom.tags/tag/photographicexposureindex/
 ---
 
 ## Tag.PhotographicExposureIndex field

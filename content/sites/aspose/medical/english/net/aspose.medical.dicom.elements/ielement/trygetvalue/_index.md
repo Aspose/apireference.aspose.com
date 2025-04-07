@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Gets the elements value at the specified position.
 type: docs
 weight: 80
-url: /aspose.medical.dicom.elements/ielement/trygetvalue/
+url: /net/aspose.medical.dicom.elements/ielement/trygetvalue/
 ---
 
 ## TryGetValue&lt;T&gt;(int, out T) {#trygetvalue}

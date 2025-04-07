@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0703 VRSQ VM1 Referenced RT Radiation Record Sequence.
 type: docs
 weight: 37230
-url: /aspose.medical.dicom.tags/tag/referencedrtradiationrecordsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedrtradiationrecordsequence/
 ---
 
 ## Tag.ReferencedRTRadiationRecordSequence field

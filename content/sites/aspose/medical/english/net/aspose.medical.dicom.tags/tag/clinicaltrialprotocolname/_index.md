@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120021 VRLO VM1 Clinical Trial Protocol Name.
 type: docs
 weight: 5940
-url: /aspose.medical.dicom.tags/tag/clinicaltrialprotocolname/
+url: /net/aspose.medical.dicom.tags/tag/clinicaltrialprotocolname/
 ---
 
 ## Tag.ClinicalTrialProtocolName field

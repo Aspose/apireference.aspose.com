@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040E021 VRSQ VM1 DICOM Retrieval Sequence.
 type: docs
 weight: 11560
-url: /aspose.medical.dicom.tags/tag/dicomretrievalsequence/
+url: /net/aspose.medical.dicom.tags/tag/dicomretrievalsequence/
 ---
 
 ## Tag.DICOMRetrievalSequence field

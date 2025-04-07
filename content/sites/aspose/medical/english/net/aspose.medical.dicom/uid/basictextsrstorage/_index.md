@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Basic Text SR Storage.
 type: docs
 weight: 210
-url: /aspose.medical.dicom/uid/basictextsrstorage/
+url: /net/aspose.medical.dicom/uid/basictextsrstorage/
 ---
 
 ## Uid.BasicTextSRStorage field

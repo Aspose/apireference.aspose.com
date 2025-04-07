@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 001811B8 VRSQ VM1 XA Acquisition Phase Details Sequence.
 type: docs
 weight: 52600
-url: /aspose.medical.dicom.tags/tag/xaacquisitionphasedetailssequence/
+url: /net/aspose.medical.dicom.tags/tag/xaacquisitionphasedetailssequence/
 ---
 
 ## Tag.XAAcquisitionPhaseDetailsSequence field

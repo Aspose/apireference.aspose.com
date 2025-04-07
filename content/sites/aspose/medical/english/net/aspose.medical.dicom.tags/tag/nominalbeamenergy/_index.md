@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0114 VRDS VM1 Nominal Beam Energy.
 type: docs
 weight: 25740
-url: /aspose.medical.dicom.tags/tag/nominalbeamenergy/
+url: /net/aspose.medical.dicom.tags/tag/nominalbeamenergy/
 ---
 
 ## Tag.NominalBeamEnergy field

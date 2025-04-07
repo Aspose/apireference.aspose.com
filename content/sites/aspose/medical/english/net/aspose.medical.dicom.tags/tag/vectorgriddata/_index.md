@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00640009 VROF VM1 Vector Grid Data.
 type: docs
 weight: 50810
-url: /aspose.medical.dicom.tags/tag/vectorgriddata/
+url: /net/aspose.medical.dicom.tags/tag/vectorgriddata/
 ---
 
 ## Tag.VectorGridData field

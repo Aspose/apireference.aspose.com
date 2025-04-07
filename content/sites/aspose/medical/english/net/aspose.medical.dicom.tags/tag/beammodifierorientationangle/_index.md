@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0645 VRFD VM1 Beam Modifier Orientation Angle.
 type: docs
 weight: 3560
-url: /aspose.medical.dicom.tags/tag/beammodifierorientationangle/
+url: /net/aspose.medical.dicom.tags/tag/beammodifierorientationangle/
 ---
 
 ## Tag.BeamModifierOrientationAngle field

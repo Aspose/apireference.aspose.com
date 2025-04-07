@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701508 VRFD VM1 MPR View Width.
 type: docs
 weight: 25110
-url: /aspose.medical.dicom.tags/tag/mprviewwidth/
+url: /net/aspose.medical.dicom.tags/tag/mprviewwidth/
 ---
 
 ## Tag.MPRViewWidth field

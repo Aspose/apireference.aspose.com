@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080016 VRUI VM1 SOP Class UID.
 type: docs
 weight: 43850
-url: /aspose.medical.dicom.tags/tag/sopclassuid/
+url: /net/aspose.medical.dicom.tags/tag/sopclassuid/
 ---
 
 ## Tag.SOPClassUID field

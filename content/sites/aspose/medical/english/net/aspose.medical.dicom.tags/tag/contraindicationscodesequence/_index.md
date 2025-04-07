@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018990B VRSQ VM1 Contraindications Code Sequence.
 type: docs
 weight: 8160
-url: /aspose.medical.dicom.tags/tag/contraindicationscodesequence/
+url: /net/aspose.medical.dicom.tags/tag/contraindicationscodesequence/
 ---
 
 ## Tag.ContraindicationsCodeSequence field

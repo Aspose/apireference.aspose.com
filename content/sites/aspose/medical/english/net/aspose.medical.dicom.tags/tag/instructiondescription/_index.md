@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189917 VRUT VM1 Instruction Description.
 type: docs
 weight: 20580
-url: /aspose.medical.dicom.tags/tag/instructiondescription/
+url: /net/aspose.medical.dicom.tags/tag/instructiondescription/
 ---
 
 ## Tag.InstructionDescription field

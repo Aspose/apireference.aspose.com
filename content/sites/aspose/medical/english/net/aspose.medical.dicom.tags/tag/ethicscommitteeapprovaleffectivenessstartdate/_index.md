@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120086 VRDA VM1 Ethics Committee Approval Effectiveness Start Date.
 type: docs
 weight: 14040
-url: /aspose.medical.dicom.tags/tag/ethicscommitteeapprovaleffectivenessstartdate/
+url: /net/aspose.medical.dicom.tags/tag/ethicscommitteeapprovaleffectivenessstartdate/
 ---
 
 ## Tag.EthicsCommitteeApprovalEffectivenessStartDate field

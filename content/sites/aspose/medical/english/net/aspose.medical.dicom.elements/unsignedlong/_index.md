@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Unsigned Long UL VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextUL-Unsigned20Long-Unsigned20binary20integer.
 type: docs
 weight: 560
-url: /aspose.medical.dicom.elements/unsignedlong/
+url: /net/aspose.medical.dicom.elements/unsignedlong/
 ---
 
 ## UnsignedLong class

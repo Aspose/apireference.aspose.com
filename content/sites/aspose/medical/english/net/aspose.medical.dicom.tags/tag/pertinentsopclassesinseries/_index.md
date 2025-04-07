@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100053 VRUI VM1-n Pertinent SOP Classes in Series.
 type: docs
 weight: 30980
-url: /aspose.medical.dicom.tags/tag/pertinentsopclassesinseries/
+url: /net/aspose.medical.dicom.tags/tag/pertinentsopclassesinseries/
 ---
 
 ## Tag.PertinentSOPClassesInSeries field

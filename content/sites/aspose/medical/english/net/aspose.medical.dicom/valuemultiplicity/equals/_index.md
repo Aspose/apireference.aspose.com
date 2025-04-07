@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 210
-url: /aspose.medical.dicom/valuemultiplicity/equals/
+url: /net/aspose.medical.dicom/valuemultiplicity/equals/
 ---
 
 ## Equals(ValueMultiplicity) {#equals}

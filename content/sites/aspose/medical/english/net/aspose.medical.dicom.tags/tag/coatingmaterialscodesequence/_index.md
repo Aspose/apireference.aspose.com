@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006863A4 VRSQ VM1 Coating Materials Code Sequence.
 type: docs
 weight: 6050
-url: /aspose.medical.dicom.tags/tag/coatingmaterialscodesequence/
+url: /net/aspose.medical.dicom.tags/tag/coatingmaterialscodesequence/
 ---
 
 ## Tag.CoatingMaterialsCodeSequence field

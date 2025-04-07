@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686226 VRDT VM1 Effective DateTime.
 type: docs
 weight: 13280
-url: /aspose.medical.dicom.tags/tag/effectivedatetime/
+url: /net/aspose.medical.dicom.tags/tag/effectivedatetime/
 ---
 
 ## Tag.EffectiveDateTime field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: LDAP OID dicomPort.
 type: docs
 weight: 960
-url: /aspose.medical.dicom/uid/dicomport/
+url: /net/aspose.medical.dicom/uid/dicomport/
 ---
 
 ## Uid.DicomPort field

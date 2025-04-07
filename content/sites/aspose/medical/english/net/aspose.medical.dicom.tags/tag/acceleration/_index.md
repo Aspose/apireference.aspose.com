@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160034 VRDS VM1 Acceleration.
 type: docs
 weight: 80
-url: /aspose.medical.dicom.tags/tag/acceleration/
+url: /net/aspose.medical.dicom.tags/tag/acceleration/
 ---
 
 ## Tag.Acceleration field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Wide Field Ophthalmic Photography 3D Coordinates Image Storage.
 type: docs
 weight: 5120
-url: /aspose.medical.dicom/uid/widefieldophthalmicphotography3dcoordinatesimagestorage/
+url: /net/aspose.medical.dicom/uid/widefieldophthalmicphotography3dcoordinatesimagestorage/
 ---
 
 ## Uid.WideFieldOphthalmicPhotography3DCoordinatesImageStorage field

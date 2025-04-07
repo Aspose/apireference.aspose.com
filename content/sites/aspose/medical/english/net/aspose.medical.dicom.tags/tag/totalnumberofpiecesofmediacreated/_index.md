@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 2200000B VRUS VM1 Total Number of Pieces of Media Created.
 type: docs
 weight: 48930
-url: /aspose.medical.dicom.tags/tag/totalnumberofpiecesofmediacreated/
+url: /net/aspose.medical.dicom.tags/tag/totalnumberofpiecesofmediacreated/
 ---
 
 ## Tag.TotalNumberOfPiecesOfMediaCreated field

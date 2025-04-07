@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Enhanced XA Image Storage.
 type: docs
 weight: 1480
-url: /aspose.medical.dicom/uid/enhancedxaimagestorage/
+url: /net/aspose.medical.dicom/uid/enhancedxaimagestorage/
 ---
 
 ## Uid.EnhancedXAImageStorage field

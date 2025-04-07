@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400004 VRDA VM1 Scheduled Procedure Step End Date.
 type: docs
 weight: 41360
-url: /aspose.medical.dicom.tags/tag/scheduledprocedurestependdate/
+url: /net/aspose.medical.dicom.tags/tag/scheduledprocedurestependdate/
 ---
 
 ## Tag.ScheduledProcedureStepEndDate field

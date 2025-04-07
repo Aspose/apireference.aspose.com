@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00660010 VRCS VM1 Manifold.
 type: docs
 weight: 23420
-url: /aspose.medical.dicom.tags/tag/manifold/
+url: /net/aspose.medical.dicom.tags/tag/manifold/
 ---
 
 ## Tag.Manifold field

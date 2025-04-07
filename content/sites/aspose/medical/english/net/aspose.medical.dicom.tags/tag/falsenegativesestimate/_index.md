@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240046 VRFL VM1 False Negatives Estimate.
 type: docs
 weight: 14830
-url: /aspose.medical.dicom.tags/tag/falsenegativesestimate/
+url: /net/aspose.medical.dicom.tags/tag/falsenegativesestimate/
 ---
 
 ## Tag.FalseNegativesEstimate field

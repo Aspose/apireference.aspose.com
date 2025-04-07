@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Adds registers the given tag and its metadata to this tag dictionary. If the given tag is not private then it must be registered in standard dictionary i.e. Defaultaspose.medical.dicom.tags/tagdictionary/default. If the given tag is private then it must be registered in private dictionary i.e. TagDictionaryaspose.medical.dicom.tags/tagdictionary with not nullPrivateCreatoraspose.medical.dicom.tags/tagdictionary/privatecreator. While registering a tag in private dictionary the tags Creatoraspose.medical.dicom.tags/tag/creator will be updated according to the PrivateCreatoraspose.medical.dicom.tags/tagdictionary/privatecreator of this dictionary.
 type: docs
 weight: 40
-url: /aspose.medical.dicom.tags/tagdictionary/add/
+url: /net/aspose.medical.dicom.tags/tagdictionary/add/
 ---
 
 ## Add(Tag, TagMetadata) {#add}

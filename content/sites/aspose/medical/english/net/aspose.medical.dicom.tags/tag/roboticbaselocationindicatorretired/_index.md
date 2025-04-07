@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100090 VRCS VM1 Robotic Base Location Indicator RETIRED.
 type: docs
 weight: 39320
-url: /aspose.medical.dicom.tags/tag/roboticbaselocationindicatorretired/
+url: /net/aspose.medical.dicom.tags/tag/roboticbaselocationindicatorretired/
 ---
 
 ## Tag.RoboticBaseLocationIndicatorRETIRED field

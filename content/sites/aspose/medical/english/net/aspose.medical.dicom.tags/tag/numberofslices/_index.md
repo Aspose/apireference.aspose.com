@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540081 VRUS VM1 Number of Slices.
 type: docs
 weight: 26860
-url: /aspose.medical.dicom.tags/tag/numberofslices/
+url: /net/aspose.medical.dicom.tags/tag/numberofslices/
 ---
 
 ## Tag.NumberOfSlices field

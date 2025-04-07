@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189433 VRLO VM1 Field of View Description.
 type: docs
 weight: 14960
-url: /aspose.medical.dicom.tags/tag/fieldofviewdescription/
+url: /net/aspose.medical.dicom.tags/tag/fieldofviewdescription/
 ---
 
 ## Tag.FieldOfViewDescription field

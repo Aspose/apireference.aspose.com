@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Well-known SOP Instance Printer Configuration Retrieval SOP Instance.
 type: docs
 weight: 3080
-url: /aspose.medical.dicom/uid/printerconfigurationretrievalsopinstance/
+url: /net/aspose.medical.dicom/uid/printerconfigurationretrievalsopinstance/
 ---
 
 ## Uid.PrinterConfigurationRetrievalSOPInstance field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541310 VRIS VM1 Primary Prompts Counts Accumulated.
 type: docs
 weight: 32830
-url: /aspose.medical.dicom.tags/tag/primarypromptscountsaccumulated/
+url: /net/aspose.medical.dicom.tags/tag/primarypromptscountsaccumulated/
 ---
 
 ## Tag.PrimaryPromptsCountsAccumulated field

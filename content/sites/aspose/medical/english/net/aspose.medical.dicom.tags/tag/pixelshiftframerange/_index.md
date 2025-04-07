@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289506 VRUS VM2-2n Pixel Shift Frame Range.
 type: docs
 weight: 31530
-url: /aspose.medical.dicom.tags/tag/pixelshiftframerange/
+url: /net/aspose.medical.dicom.tags/tag/pixelshiftframerange/
 ---
 
 ## Tag.PixelShiftFrameRange field

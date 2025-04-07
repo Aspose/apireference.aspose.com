@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010000E VRCS VM1 Conceptual Volume Combination Flag.
 type: docs
 weight: 7310
-url: /aspose.medical.dicom.tags/tag/conceptualvolumecombinationflag/
+url: /net/aspose.medical.dicom.tags/tag/conceptualvolumecombinationflag/
 ---
 
 ## Tag.ConceptualVolumeCombinationFlag field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181048 VRCS VM1 Contrast/Bolus Ingredient.
 type: docs
 weight: 8270
-url: /aspose.medical.dicom.tags/tag/contrastbolusingredient/
+url: /net/aspose.medical.dicom.tags/tag/contrastbolusingredient/
 ---
 
 ## Tag.ContrastBolusIngredient field

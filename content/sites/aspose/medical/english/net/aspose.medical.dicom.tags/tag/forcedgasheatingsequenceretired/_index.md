@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014603C VRSQ VM1 Forced Gas Heating Sequence RETIRED.
 type: docs
 weight: 16240
-url: /aspose.medical.dicom.tags/tag/forcedgasheatingsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/forcedgasheatingsequenceretired/
 ---
 
 ## Tag.ForcedGasHeatingSequenceRETIRED field

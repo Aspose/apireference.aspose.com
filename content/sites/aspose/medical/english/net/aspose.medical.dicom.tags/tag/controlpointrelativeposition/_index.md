@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02D2 VRDS VM1 Control Point Relative Position.
 type: docs
 weight: 8530
-url: /aspose.medical.dicom.tags/tag/controlpointrelativeposition/
+url: /net/aspose.medical.dicom.tags/tag/controlpointrelativeposition/
 ---
 
 ## Tag.ControlPointRelativePosition field

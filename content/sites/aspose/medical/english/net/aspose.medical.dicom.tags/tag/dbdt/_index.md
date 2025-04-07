@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181318 VRDS VM1 dB/dt.
 type: docs
 weight: 10140
-url: /aspose.medical.dicom.tags/tag/dbdt/
+url: /net/aspose.medical.dicom.tags/tag/dbdt/
 ---
 
 ## Tag.dBdt field

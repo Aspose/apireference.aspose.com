@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181131 VRDS VM1 Table Traverse.
 type: docs
 weight: 47180
-url: /aspose.medical.dicom.tags/tag/tabletraverse/
+url: /net/aspose.medical.dicom.tags/tag/tabletraverse/
 ---
 
 ## Tag.TableTraverse field

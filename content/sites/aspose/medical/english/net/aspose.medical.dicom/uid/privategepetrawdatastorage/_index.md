@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private GE PET Raw Data Storage.
 type: docs
 weight: 3280
-url: /aspose.medical.dicom/uid/privategepetrawdatastorage/
+url: /net/aspose.medical.dicom/uid/privategepetrawdatastorage/
 ---
 
 ## Uid.PrivateGepetRawDataStorage field

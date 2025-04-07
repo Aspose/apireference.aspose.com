@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100065 VRSQ VM1 Therapeutic Role Type Code Sequence.
 type: docs
 weight: 47890
-url: /aspose.medical.dicom.tags/tag/therapeuticroletypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/therapeuticroletypecodesequence/
 ---
 
 ## Tag.TherapeuticRoleTypeCodeSequence field

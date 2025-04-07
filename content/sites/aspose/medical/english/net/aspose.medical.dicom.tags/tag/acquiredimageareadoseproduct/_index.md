@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189473 VRFL VM1 Acquired Image Area Dose Product.
 type: docs
 weight: 150
-url: /aspose.medical.dicom.tags/tag/acquiredimageareadoseproduct/
+url: /net/aspose.medical.dicom.tags/tag/acquiredimageareadoseproduct/
 ---
 
 ## Tag.AcquiredImageAreaDoseProduct field

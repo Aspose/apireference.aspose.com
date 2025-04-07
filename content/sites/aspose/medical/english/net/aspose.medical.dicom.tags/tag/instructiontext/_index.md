@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189916 VRLO VM1 Instruction Text.
 type: docs
 weight: 20640
-url: /aspose.medical.dicom.tags/tag/instructiontext/
+url: /net/aspose.medical.dicom.tags/tag/instructiontext/
 ---
 
 ## Tag.InstructionText field

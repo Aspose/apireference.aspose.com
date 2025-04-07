@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0020 VRSQ VM1 Referenced Fraction Group Sequence.
 type: docs
 weight: 36430
-url: /aspose.medical.dicom.tags/tag/referencedfractiongroupsequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedfractiongroupsequence/
 ---
 
 ## Tag.ReferencedFractionGroupSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080081 VRST VM1 Institution Address.
 type: docs
 weight: 20530
-url: /aspose.medical.dicom.tags/tag/institutionaddress/
+url: /net/aspose.medical.dicom.tags/tag/institutionaddress/
 ---
 
 ## Tag.InstitutionAddress field

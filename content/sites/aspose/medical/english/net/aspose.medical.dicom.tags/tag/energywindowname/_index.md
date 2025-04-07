@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540018 VRSH VM1 Energy Window Name.
 type: docs
 weight: 13670
-url: /aspose.medical.dicom.tags/tag/energywindowname/
+url: /net/aspose.medical.dicom.tags/tag/energywindowname/
 ---
 
 ## Tag.EnergyWindowName field

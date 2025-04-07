@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Tags multiplicity. Read-only ValueMultiplicityaspose.medical.dicom/valuemultiplicity.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.tags/tagmetadata/multiplicity/
+url: /net/aspose.medical.dicom.tags/tagmetadata/multiplicity/
 ---
 
 ## TagMetadata.Multiplicity property

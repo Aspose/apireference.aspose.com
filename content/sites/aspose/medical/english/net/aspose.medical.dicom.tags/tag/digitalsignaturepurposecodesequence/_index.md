@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 04000401 VRSQ VM1 Digital Signature Purpose Code Sequence.
 type: docs
 weight: 11790
-url: /aspose.medical.dicom.tags/tag/digitalsignaturepurposecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/digitalsignaturepurposecodesequence/
 ---
 
 ## Tag.DigitalSignaturePurposeCodeSequence field

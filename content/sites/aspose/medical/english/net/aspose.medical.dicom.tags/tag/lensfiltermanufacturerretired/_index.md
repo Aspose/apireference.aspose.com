@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146028 VRLO VM1 Lens Filter Manufacturer RETIRED.
 type: docs
 weight: 22610
-url: /aspose.medical.dicom.tags/tag/lensfiltermanufacturerretired/
+url: /net/aspose.medical.dicom.tags/tag/lensfiltermanufacturerretired/
 ---
 
 ## Tag.LensFilterManufacturerRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: White 255 255 255 255 pixel.
 type: docs
 weight: 30
-url: /aspose.medical.imaging.pixelformats/bgra32/white/
+url: /net/aspose.medical.imaging.pixelformats/bgra32/white/
 ---
 
 ## Bgra32.White field

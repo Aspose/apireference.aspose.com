@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181401 VRLO VM1 Acquisition Device Processing Code.
 type: docs
 weight: 250
-url: /aspose.medical.dicom.tags/tag/acquisitiondeviceprocessingcode/
+url: /net/aspose.medical.dicom.tags/tag/acquisitiondeviceprocessingcode/
 ---
 
 ## Tag.AcquisitionDeviceProcessingCode field

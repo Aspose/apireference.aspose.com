@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A012C VRDS VM3 Isocenter Position.
 type: docs
 weight: 21600
-url: /aspose.medical.dicom.tags/tag/isocenterposition/
+url: /net/aspose.medical.dicom.tags/tag/isocenterposition/
 ---
 
 ## Tag.IsocenterPosition field

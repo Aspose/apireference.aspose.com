@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240058 VRSQ VM1 Test Point Normals Sequence.
 type: docs
 weight: 47770
-url: /aspose.medical.dicom.tags/tag/testpointnormalssequence/
+url: /net/aspose.medical.dicom.tags/tag/testpointnormalssequence/
 ---
 
 ## Tag.TestPointNormalsSequence field

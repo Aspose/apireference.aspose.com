@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0386 VRFL VM1 Range Modulator Gating Start Water Equivalent Thickness.
 type: docs
 weight: 34820
-url: /aspose.medical.dicom.tags/tag/rangemodulatorgatingstartwaterequivalentthickness/
+url: /net/aspose.medical.dicom.tags/tag/rangemodulatorgatingstartwaterequivalentthickness/
 ---
 
 ## Tag.RangeModulatorGatingStartWaterEquivalentThickness field

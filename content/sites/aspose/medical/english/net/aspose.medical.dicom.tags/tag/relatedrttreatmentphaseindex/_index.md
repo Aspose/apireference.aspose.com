@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3010003F VRUS VM1 Related RT Treatment Phase Index.
 type: docs
 weight: 38240
-url: /aspose.medical.dicom.tags/tag/relatedrttreatmentphaseindex/
+url: /net/aspose.medical.dicom.tags/tag/relatedrttreatmentphaseindex/
 ---
 
 ## Tag.RelatedRTTreatmentPhaseIndex field

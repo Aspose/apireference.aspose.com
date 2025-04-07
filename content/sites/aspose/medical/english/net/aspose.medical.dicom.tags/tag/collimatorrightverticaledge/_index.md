@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181704 VRIS VM1 Collimator Right Vertical Edge.
 type: docs
 weight: 6340
-url: /aspose.medical.dicom.tags/tag/collimatorrightverticaledge/
+url: /net/aspose.medical.dicom.tags/tag/collimatorrightverticaledge/
 ---
 
 ## Tag.CollimatorRightVerticalEdge field

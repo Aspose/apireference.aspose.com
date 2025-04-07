@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080025 VRTM VM1 Treatment Control Point Time.
 type: docs
 weight: 49600
-url: /aspose.medical.dicom.tags/tag/treatmentcontrolpointtime/
+url: /net/aspose.medical.dicom.tags/tag/treatmentcontrolpointtime/
 ---
 
 ## Tag.TreatmentControlPointTime field

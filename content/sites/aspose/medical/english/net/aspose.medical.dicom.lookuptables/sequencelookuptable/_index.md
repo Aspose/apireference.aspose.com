@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Represents Look-Up Table sequence LUT that is based on LUTData LUTDescriptor.
 type: docs
 weight: 840
-url: /aspose.medical.dicom.lookuptables/sequencelookuptable/
+url: /net/aspose.medical.dicom.lookuptables/sequencelookuptable/
 ---
 
 ## SequenceLookupTable class

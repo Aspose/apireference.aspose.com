@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0396 VRFL VM1-n Scan Spot Meterset Weights.
 type: docs
 weight: 41100
-url: /aspose.medical.dicom.tags/tag/scanspotmetersetweights/
+url: /net/aspose.medical.dicom.tags/tag/scanspotmetersetweights/
 ---
 
 ## Tag.ScanSpotMetersetWeights field

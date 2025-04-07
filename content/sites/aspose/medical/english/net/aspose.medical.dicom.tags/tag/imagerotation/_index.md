@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700042 VRUS VM1 Image Rotation.
 type: docs
 weight: 19450
-url: /aspose.medical.dicom.tags/tag/imagerotation/
+url: /net/aspose.medical.dicom.tags/tag/imagerotation/
 ---
 
 ## Tag.ImageRotation field

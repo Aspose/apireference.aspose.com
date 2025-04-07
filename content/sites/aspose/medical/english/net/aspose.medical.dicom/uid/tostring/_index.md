@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 5330
-url: /aspose.medical.dicom/uid/tostring/
+url: /net/aspose.medical.dicom/uid/tostring/
 ---
 
 ## Uid.ToString method

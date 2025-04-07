@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0116 VRSQ VM1 Plan Overview Sequence.
 type: docs
 weight: 31870
-url: /aspose.medical.dicom.tags/tag/planoverviewsequence/
+url: /net/aspose.medical.dicom.tags/tag/planoverviewsequence/
 ---
 
 ## Tag.PlanOverviewSequence field

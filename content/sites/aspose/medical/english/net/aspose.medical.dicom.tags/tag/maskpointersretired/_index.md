@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00286030 VRUS VM1-n Mask Pointers RETIRED.
 type: docs
 weight: 23590
-url: /aspose.medical.dicom.tags/tag/maskpointersretired/
+url: /net/aspose.medical.dicom.tags/tag/maskpointersretired/
 ---
 
 ## Tag.MaskPointersRETIRED field

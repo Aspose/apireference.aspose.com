@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 002804x1 VRUS VM1 Columns For Nth Order Coefficients RETIRED.
 type: docs
 weight: 6490
-url: /aspose.medical.dicom.tags/tag/columnsfornthordercoefficientsretired/
+url: /net/aspose.medical.dicom.tags/tag/columnsfornthordercoefficientsretired/
 ---
 
 ## Tag.ColumnsForNthOrderCoefficientsRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100150 VRST VM1 Configuration Information.
 type: docs
 weight: 7500
-url: /aspose.medical.dicom.tags/tag/configurationinformation/
+url: /net/aspose.medical.dicom.tags/tag/configurationinformation/
 ---
 
 ## Tag.ConfigurationInformation field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Creates Range Of Interest DICOM overlay and adds it to the given dataset.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.imaging.overlays/overlayfactory/createregionofinterestoverlay/
+url: /net/aspose.medical.dicom.imaging.overlays/overlayfactory/createregionofinterestoverlay/
 ---
 
 ## OverlayFactory.CreateRegionOfInterestOverlay method

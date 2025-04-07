@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401104 VRLT VM1 Persons Telecom Information.
 type: docs
 weight: 30930
-url: /aspose.medical.dicom.tags/tag/persontelecominformation/
+url: /net/aspose.medical.dicom.tags/tag/persontelecominformation/
 ---
 
 ## Tag.PersonTelecomInformation field

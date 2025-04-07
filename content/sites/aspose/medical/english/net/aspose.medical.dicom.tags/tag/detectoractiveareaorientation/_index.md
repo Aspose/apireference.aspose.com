@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189558 VRFD VM6 Detector Active Area Orientation.
 type: docs
 weight: 10880
-url: /aspose.medical.dicom.tags/tag/detectoractiveareaorientation/
+url: /net/aspose.medical.dicom.tags/tag/detectoractiveareaorientation/
 ---
 
 ## Tag.DetectorActiveAreaOrientation field

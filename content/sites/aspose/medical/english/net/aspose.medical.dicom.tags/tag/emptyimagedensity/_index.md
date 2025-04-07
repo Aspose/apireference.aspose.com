@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100110 VRCS VM1 Empty Image Density.
 type: docs
 weight: 13460
-url: /aspose.medical.dicom.tags/tag/emptyimagedensity/
+url: /net/aspose.medical.dicom.tags/tag/emptyimagedensity/
 ---
 
 ## Tag.EmptyImageDensity field

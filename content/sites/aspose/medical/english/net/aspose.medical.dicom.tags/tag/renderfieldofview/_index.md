@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701606 VRFD VM6 Render Field of View.
 type: docs
 weight: 38410
-url: /aspose.medical.dicom.tags/tag/renderfieldofview/
+url: /net/aspose.medical.dicom.tags/tag/renderfieldofview/
 ---
 
 ## Tag.RenderFieldOfView field

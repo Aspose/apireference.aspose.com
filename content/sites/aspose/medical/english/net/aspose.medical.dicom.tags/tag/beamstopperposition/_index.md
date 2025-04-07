@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080230 VRCS VM1 Beam Stopper Position.
 type: docs
 weight: 3630
-url: /aspose.medical.dicom.tags/tag/beamstopperposition/
+url: /net/aspose.medical.dicom.tags/tag/beamstopperposition/
 ---
 
 ## Tag.BeamStopperPosition field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060018 VRSQ VM1 Predecessor Structure Set Sequence.
 type: docs
 weight: 32330
-url: /aspose.medical.dicom.tags/tag/predecessorstructuresetsequence/
+url: /net/aspose.medical.dicom.tags/tag/predecessorstructuresetsequence/
 ---
 
 ## Tag.PredecessorStructureSetSequence field

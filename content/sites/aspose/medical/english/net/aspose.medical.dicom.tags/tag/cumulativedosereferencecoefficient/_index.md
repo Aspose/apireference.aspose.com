@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A010C VRDS VM1 Cumulative Dose Reference Coefficient.
 type: docs
 weight: 9320
-url: /aspose.medical.dicom.tags/tag/cumulativedosereferencecoefficient/
+url: /net/aspose.medical.dicom.tags/tag/cumulativedosereferencecoefficient/
 ---
 
 ## Tag.CumulativeDoseReferenceCoefficient field

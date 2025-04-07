@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240095 VRCS VM1 Retest Stimulus Seen.
 type: docs
 weight: 39170
-url: /aspose.medical.dicom.tags/tag/reteststimulusseen/
+url: /net/aspose.medical.dicom.tags/tag/reteststimulusseen/
 ---
 
 ## Tag.RetestStimulusSeen field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189803 VRSQ VM1 Excluded Intervals Sequence.
 type: docs
 weight: 14300
-url: /aspose.medical.dicom.tags/tag/excludedintervalssequence/
+url: /net/aspose.medical.dicom.tags/tag/excludedintervalssequence/
 ---
 
 ## Tag.ExcludedIntervalsSequence field

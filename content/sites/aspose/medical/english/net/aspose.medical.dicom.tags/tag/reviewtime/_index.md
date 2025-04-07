@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300E0005 VRTM VM1 Review Time.
 type: docs
 weight: 39250
-url: /aspose.medical.dicom.tags/tag/reviewtime/
+url: /net/aspose.medical.dicom.tags/tag/reviewtime/
 ---
 
 ## Tag.ReviewTime field

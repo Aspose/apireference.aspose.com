@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: LDAP OID dicomTransferCapability.
 type: docs
 weight: 1070
-url: /aspose.medical.dicom/uid/dicomtransfercapability/
+url: /net/aspose.medical.dicom/uid/dicomtransfercapability/
 ---
 
 ## Uid.DicomTransferCapability field

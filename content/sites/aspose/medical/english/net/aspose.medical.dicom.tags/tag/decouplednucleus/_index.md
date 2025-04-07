@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189060 VRCS VM1-2 De-coupled Nucleus.
 type: docs
 weight: 10310
-url: /aspose.medical.dicom.tags/tag/decouplednucleus/
+url: /net/aspose.medical.dicom.tags/tag/decouplednucleus/
 ---
 
 ## Tag.DecoupledNucleus field

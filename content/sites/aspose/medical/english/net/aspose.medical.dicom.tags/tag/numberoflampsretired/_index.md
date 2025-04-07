@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146035 VRDS VM1 Number of Lamps RETIRED.
 type: docs
 weight: 26500
-url: /aspose.medical.dicom.tags/tag/numberoflampsretired/
+url: /net/aspose.medical.dicom.tags/tag/numberoflampsretired/
 ---
 
 ## Tag.NumberOfLampsRETIRED field

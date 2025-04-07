@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx2006 VRUL VM1 Number of Samples RETIRED.
 type: docs
 weight: 26820
-url: /aspose.medical.dicom.tags/tag/numberofsamplesretired/
+url: /net/aspose.medical.dicom.tags/tag/numberofsamplesretired/
 ---
 
 ## Tag.NumberOfSamplesRETIRED field

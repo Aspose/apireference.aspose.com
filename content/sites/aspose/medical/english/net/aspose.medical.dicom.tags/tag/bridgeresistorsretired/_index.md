@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144088 VRDS VM1 Bridge Resistors RETIRED.
 type: docs
 weight: 4670
-url: /aspose.medical.dicom.tags/tag/bridgeresistorsretired/
+url: /net/aspose.medical.dicom.tags/tag/bridgeresistorsretired/
 ---
 
 ## Tag.BridgeResistorsRETIRED field

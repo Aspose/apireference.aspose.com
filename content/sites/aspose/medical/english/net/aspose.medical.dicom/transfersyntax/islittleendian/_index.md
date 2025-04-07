@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Specifies that the transfer syntax uses a Little Endian notation. Read-only Boolean.
 type: docs
 weight: 630
-url: /aspose.medical.dicom/transfersyntax/islittleendian/
+url: /net/aspose.medical.dicom/transfersyntax/islittleendian/
 ---
 
 ## TransferSyntax.IsLittleEndian property

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181155 VRCS VM1 Radiation Setting.
 type: docs
 weight: 34440
-url: /aspose.medical.dicom.tags/tag/radiationsetting/
+url: /net/aspose.medical.dicom.tags/tag/radiationsetting/
 ---
 
 ## Tag.RadiationSetting field

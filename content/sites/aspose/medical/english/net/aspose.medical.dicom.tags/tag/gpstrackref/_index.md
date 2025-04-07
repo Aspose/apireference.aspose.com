@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016007E VRCS VM1 GPS Track Ref.
 type: docs
 weight: 17710
-url: /aspose.medical.dicom.tags/tag/gpstrackref/
+url: /net/aspose.medical.dicom.tags/tag/gpstrackref/
 ---
 
 ## Tag.GPSTrackRef field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0140 VRFL VM1 Table Top Pitch Angle.
 type: docs
 weight: 47060
-url: /aspose.medical.dicom.tags/tag/tabletoppitchangle/
+url: /net/aspose.medical.dicom.tags/tag/tabletoppitchangle/
 ---
 
 ## Tag.TableTopPitchAngle field

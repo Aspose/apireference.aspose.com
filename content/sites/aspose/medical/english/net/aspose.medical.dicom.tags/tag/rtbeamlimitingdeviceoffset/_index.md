@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A064B VRFD VM2 RT Beam Limiting Device Offset.
 type: docs
 weight: 39990
-url: /aspose.medical.dicom.tags/tag/rtbeamlimitingdeviceoffset/
+url: /net/aspose.medical.dicom.tags/tag/rtbeamlimitingdeviceoffset/
 ---
 
 ## Tag.RTBeamLimitingDeviceOffset field

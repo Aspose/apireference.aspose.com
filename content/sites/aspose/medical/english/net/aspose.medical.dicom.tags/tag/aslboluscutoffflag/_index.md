@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018925C VRCS VM1 ASL Bolus Cut-off Flag.
 type: docs
 weight: 2360
-url: /aspose.medical.dicom.tags/tag/aslboluscutoffflag/
+url: /net/aspose.medical.dicom.tags/tag/aslboluscutoffflag/
 ---
 
 ## Tag.ASLBolusCutoffFlag field

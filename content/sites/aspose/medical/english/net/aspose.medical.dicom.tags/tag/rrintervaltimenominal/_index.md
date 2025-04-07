@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209251 VRFD VM1 R-R Interval Time Nominal.
 type: docs
 weight: 39830
-url: /aspose.medical.dicom.tags/tag/rrintervaltimenominal/
+url: /net/aspose.medical.dicom.tags/tag/rrintervaltimenominal/
 ---
 
 ## Tag.RRIntervalTimeNominal field

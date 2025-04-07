@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040071A VRSQ VM1 Image Center Point Coordinates Sequence.
 type: docs
 weight: 19040
-url: /aspose.medical.dicom.tags/tag/imagecenterpointcoordinatessequence/
+url: /net/aspose.medical.dicom.tags/tag/imagecenterpointcoordinatessequence/
 ---
 
 ## Tag.ImageCenterPointCoordinatesSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701305 VRFD VM4 Plane.
 type: docs
 weight: 31670
-url: /aspose.medical.dicom.tags/tag/plane/
+url: /net/aspose.medical.dicom.tags/tag/plane/
 ---
 
 ## Tag.Plane field

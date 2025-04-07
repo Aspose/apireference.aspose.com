@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014407A VRDA VM1 Procedure Last Modified Date RETIRED.
 type: docs
 weight: 33370
-url: /aspose.medical.dicom.tags/tag/procedurelastmodifieddateretired/
+url: /net/aspose.medical.dicom.tags/tag/procedurelastmodifieddateretired/
 ---
 
 ## Tag.ProcedureLastModifiedDateRETIRED field

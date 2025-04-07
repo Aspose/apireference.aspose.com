@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280069 VRUS VM1 Bits Grouped RETIRED.
 type: docs
 weight: 3770
-url: /aspose.medical.dicom.tags/tag/bitsgroupedretired/
+url: /net/aspose.medical.dicom.tags/tag/bitsgroupedretired/
 ---
 
 ## Tag.BitsGroupedRETIRED field

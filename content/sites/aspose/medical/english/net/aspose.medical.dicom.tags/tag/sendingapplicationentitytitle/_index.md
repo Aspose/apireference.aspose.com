@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020017 VRAE VM1 Sending Application Entity Title.
 type: docs
 weight: 42720
-url: /aspose.medical.dicom.tags/tag/sendingapplicationentitytitle/
+url: /net/aspose.medical.dicom.tags/tag/sendingapplicationentitytitle/
 ---
 
 ## Tag.SendingApplicationEntityTitle field

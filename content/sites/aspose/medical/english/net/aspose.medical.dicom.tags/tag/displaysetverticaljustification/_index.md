@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720718 VRCS VM1 Display Set Vertical Justification.
 type: docs
 weight: 12230
-url: /aspose.medical.dicom.tags/tag/displaysetverticaljustification/
+url: /net/aspose.medical.dicom.tags/tag/displaysetverticaljustification/
 ---
 
 ## Tag.DisplaySetVerticalJustification field

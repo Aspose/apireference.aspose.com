@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0338 VRCS VM1 Lateral Spreading Device Type.
 type: docs
 weight: 22490
-url: /aspose.medical.dicom.tags/tag/lateralspreadingdevicetype/
+url: /net/aspose.medical.dicom.tags/tag/lateralspreadingdevicetype/
 ---
 
 ## Tag.LateralSpreadingDeviceType field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240113 VRCS VM1 Measurement Laterality.
 type: docs
 weight: 24240
-url: /aspose.medical.dicom.tags/tag/measurementlaterality/
+url: /net/aspose.medical.dicom.tags/tag/measurementlaterality/
 ---
 
 ## Tag.MeasurementLaterality field

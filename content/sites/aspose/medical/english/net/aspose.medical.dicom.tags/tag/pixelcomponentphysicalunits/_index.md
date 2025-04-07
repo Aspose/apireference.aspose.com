@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018604C VRUS VM1 Pixel Component Physical Units.
 type: docs
 weight: 31360
-url: /aspose.medical.dicom.tags/tag/pixelcomponentphysicalunits/
+url: /net/aspose.medical.dicom.tags/tag/pixelcomponentphysicalunits/
 ---
 
 ## Tag.PixelComponentPhysicalUnits field

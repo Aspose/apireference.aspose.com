@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A494 VRCS VM1 Archive Requested.
 type: docs
 weight: 2320
-url: /aspose.medical.dicom.tags/tag/archiverequested/
+url: /net/aspose.medical.dicom.tags/tag/archiverequested/
 ---
 
 ## Tag.ArchiveRequested field

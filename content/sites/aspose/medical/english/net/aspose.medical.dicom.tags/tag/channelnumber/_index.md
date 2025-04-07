@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0282 VRIS VM1 Channel Number.
 type: docs
 weight: 5550
-url: /aspose.medical.dicom.tags/tag/channelnumber/
+url: /net/aspose.medical.dicom.tags/tag/channelnumber/
 ---
 
 ## Tag.ChannelNumber field

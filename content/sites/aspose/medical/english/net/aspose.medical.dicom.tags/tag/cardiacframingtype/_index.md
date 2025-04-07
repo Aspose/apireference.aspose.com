@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181064 VRLO VM1 Cardiac Framing Type.
 type: docs
 weight: 5060
-url: /aspose.medical.dicom.tags/tag/cardiacframingtype/
+url: /net/aspose.medical.dicom.tags/tag/cardiacframingtype/
 ---
 
 ## Tag.CardiacFramingType field

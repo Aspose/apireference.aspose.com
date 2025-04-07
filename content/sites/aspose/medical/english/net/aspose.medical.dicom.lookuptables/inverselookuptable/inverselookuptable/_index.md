@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Look-Up Table that describes the Presentation LUT with INVERSE Presentation LUT Shape. INVERSE Presentation LUT Shape output values after inversion are P-Values. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.11.6.html for details.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.lookuptables/inverselookuptable/inverselookuptable/
+url: /net/aspose.medical.dicom.lookuptables/inverselookuptable/inverselookuptable/
 ---
 
 ## InverseLookUpTable constructor

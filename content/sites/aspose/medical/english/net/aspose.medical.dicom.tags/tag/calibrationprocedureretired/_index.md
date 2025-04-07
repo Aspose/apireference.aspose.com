@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144072 VRST VM1 Calibration Procedure RETIRED.
 type: docs
 weight: 4950
-url: /aspose.medical.dicom.tags/tag/calibrationprocedureretired/
+url: /net/aspose.medical.dicom.tags/tag/calibrationprocedureretired/
 ---
 
 ## Tag.CalibrationProcedureRETIRED field

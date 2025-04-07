@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0320 VRSQ VM1 Summarized Filter Lookup Table Sequence.
 type: docs
 weight: 46280
-url: /aspose.medical.dicom.tags/tag/summarizedfilterlookuptablesequence/
+url: /net/aspose.medical.dicom.tags/tag/summarizedfilterlookuptablesequence/
 ---
 
 ## Tag.SummarizedFilterLookupTableSequence field

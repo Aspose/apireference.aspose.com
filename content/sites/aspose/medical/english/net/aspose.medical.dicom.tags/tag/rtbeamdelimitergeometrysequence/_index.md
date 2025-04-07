@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A064C VRSQ VM1 RT Beam Delimiter Geometry Sequence.
 type: docs
 weight: 39950
-url: /aspose.medical.dicom.tags/tag/rtbeamdelimitergeometrysequence/
+url: /net/aspose.medical.dicom.tags/tag/rtbeamdelimitergeometrysequence/
 ---
 
 ## Tag.RTBeamDelimiterGeometrySequence field

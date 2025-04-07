@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200012 VRIS VM1 Acquisition Number.
 type: docs
 weight: 420
-url: /aspose.medical.dicom.tags/tag/acquisitionnumber/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionnumber/
 ---
 
 ## Tag.AcquisitionNumber field

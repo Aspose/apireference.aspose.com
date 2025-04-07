@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300C0008 VRDS VM1 Start Cumulative Meterset Weight.
 type: docs
 weight: 45330
-url: /aspose.medical.dicom.tags/tag/startcumulativemetersetweight/
+url: /net/aspose.medical.dicom.tags/tag/startcumulativemetersetweight/
 ---
 
 ## Tag.StartCumulativeMetersetWeight field

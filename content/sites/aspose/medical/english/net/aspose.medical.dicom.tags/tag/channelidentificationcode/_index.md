@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 003A0301 VRIS VM1 Channel Identification Code.
 type: docs
 weight: 5470
-url: /aspose.medical.dicom.tags/tag/channelidentificationcode/
+url: /net/aspose.medical.dicom.tags/tag/channelidentificationcode/
 ---
 
 ## Tag.ChannelIdentificationCode field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080020 VRDA VM1 Study Date.
 type: docs
 weight: 46000
-url: /aspose.medical.dicom.tags/tag/studydate/
+url: /net/aspose.medical.dicom.tags/tag/studydate/
 ---
 
 ## Tag.StudyDate field

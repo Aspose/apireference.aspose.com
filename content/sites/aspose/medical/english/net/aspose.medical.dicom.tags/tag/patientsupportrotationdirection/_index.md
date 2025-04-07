@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0123 VRCS VM1 Patient Support Rotation Direction.
 type: docs
 weight: 30360
-url: /aspose.medical.dicom.tags/tag/patientsupportrotationdirection/
+url: /net/aspose.medical.dicom.tags/tag/patientsupportrotationdirection/
 ---
 
 ## Tag.PatientSupportRotationDirection field

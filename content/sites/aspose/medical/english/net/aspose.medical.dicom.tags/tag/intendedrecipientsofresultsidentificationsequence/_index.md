@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00401011 VRSQ VM1 Intended Recipients of Results Identification Sequence.
 type: docs
 weight: 20720
-url: /aspose.medical.dicom.tags/tag/intendedrecipientsofresultsidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/intendedrecipientsofresultsidentificationsequence/
 ---
 
 ## Tag.IntendedRecipientsOfResultsIdentificationSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Decimal String DS.
 type: docs
 weight: 70
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/decimalstring/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/decimalstring/
 ---
 
 ## ValueRepresentation.DecimalString field

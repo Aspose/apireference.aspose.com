@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0646 VRSQ VM1 Fixed RT Beam Delimiter Device Sequence.
 type: docs
 weight: 15790
-url: /aspose.medical.dicom.tags/tag/fixedrtbeamdelimiterdevicesequence/
+url: /net/aspose.medical.dicom.tags/tag/fixedrtbeamdelimiterdevicesequence/
 ---
 
 ## Tag.FixedRTBeamDelimiterDeviceSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100005 VRLO VM1 Effective Dose Calculation Method Description.
 type: docs
 weight: 13310
-url: /aspose.medical.dicom.tags/tag/effectivedosecalculationmethoddescription/
+url: /net/aspose.medical.dicom.tags/tag/effectivedosecalculationmethoddescription/
 ---
 
 ## Tag.EffectiveDoseCalculationMethodDescription field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40080117 VRSQ VM1 Interpretation Diagnosis Code Sequence RETIRED.
 type: docs
 weight: 20970
-url: /aspose.medical.dicom.tags/tag/interpretationdiagnosiscodesequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/interpretationdiagnosiscodesequenceretired/
 ---
 
 ## Tag.InterpretationDiagnosisCodeSequenceRETIRED field

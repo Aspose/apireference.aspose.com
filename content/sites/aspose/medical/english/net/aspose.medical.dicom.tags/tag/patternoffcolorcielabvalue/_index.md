@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700252 VRUS VM3 Pattern Off Color CIELab Value.
 type: docs
 weight: 30530
-url: /aspose.medical.dicom.tags/tag/patternoffcolorcielabvalue/
+url: /net/aspose.medical.dicom.tags/tag/patternoffcolorcielabvalue/
 ---
 
 ## Tag.PatternOffColorCIELabValue field

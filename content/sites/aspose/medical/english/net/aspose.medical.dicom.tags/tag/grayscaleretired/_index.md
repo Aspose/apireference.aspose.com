@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281080 VRCS VM1 Gray Scale RETIRED.
 type: docs
 weight: 17970
-url: /aspose.medical.dicom.tags/tag/grayscaleretired/
+url: /net/aspose.medical.dicom.tags/tag/grayscaleretired/
 ---
 
 ## Tag.GrayScaleRETIRED field

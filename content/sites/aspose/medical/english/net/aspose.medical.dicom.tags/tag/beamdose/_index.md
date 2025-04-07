@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0084 VRDS VM1 Beam Dose.
 type: docs
 weight: 3320
-url: /aspose.medical.dicom.tags/tag/beamdose/
+url: /net/aspose.medical.dicom.tags/tag/beamdose/
 ---
 
 ## Tag.BeamDose field

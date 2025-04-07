@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028702D VRSQ VM1 Measurement Pattern Code Sequence.
 type: docs
 weight: 24250
-url: /aspose.medical.dicom.tags/tag/measurementpatterncodesequence/
+url: /net/aspose.medical.dicom.tags/tag/measurementpatterncodesequence/
 ---
 
 ## Tag.MeasurementPatternCodeSequence field

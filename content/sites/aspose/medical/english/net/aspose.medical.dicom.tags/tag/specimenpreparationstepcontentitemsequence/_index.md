@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400612 VRSQ VM1 Specimen Preparation Step Content Item Sequence.
 type: docs
 weight: 45040
-url: /aspose.medical.dicom.tags/tag/specimenpreparationstepcontentitemsequence/
+url: /net/aspose.medical.dicom.tags/tag/specimenpreparationstepcontentitemsequence/
 ---
 
 ## Tag.SpecimenPreparationStepContentItemSequence field

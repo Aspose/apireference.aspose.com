@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100034 VRLO VM1 User Content Long Label.
 type: docs
 weight: 50620
-url: /aspose.medical.dicom.tags/tag/usercontentlonglabel/
+url: /net/aspose.medical.dicom.tags/tag/usercontentlonglabel/
 ---
 
 ## Tag.UserContentLongLabel field

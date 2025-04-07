@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100042 VRUS VM1 Referenced Parent RT Prescription Index.
 type: docs
 weight: 36830
-url: /aspose.medical.dicom.tags/tag/referencedparentrtprescriptionindex/
+url: /net/aspose.medical.dicom.tags/tag/referencedparentrtprescriptionindex/
 ---
 
 ## Tag.ReferencedParentRTPrescriptionIndex field

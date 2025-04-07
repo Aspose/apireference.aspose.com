@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143080 VROB VM1 Bad Pixel Image RETIRED.
 type: docs
 weight: 3180
-url: /aspose.medical.dicom.tags/tag/badpixelimageretired/
+url: /net/aspose.medical.dicom.tags/tag/badpixelimageretired/
 ---
 
 ## Tag.BadPixelImageRETIRED field

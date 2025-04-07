@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460244 VRSQ VM1 Source Image Corneal Processed Data Sequence.
 type: docs
 weight: 44190
-url: /aspose.medical.dicom.tags/tag/sourceimagecornealprocesseddatasequence/
+url: /net/aspose.medical.dicom.tags/tag/sourceimagecornealprocesseddatasequence/
 ---
 
 ## Tag.SourceImageCornealProcessedDataSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Enhanced SR Storage.
 type: docs
 weight: 1460
-url: /aspose.medical.dicom/uid/enhancedsrstorage/
+url: /net/aspose.medical.dicom/uid/enhancedsrstorage/
 ---
 
 ## Uid.EnhancedSRStorage field

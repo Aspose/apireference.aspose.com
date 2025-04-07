@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060049 VRIS VM1-n Attached Contours RETIRED.
 type: docs
 weight: 2730
-url: /aspose.medical.dicom.tags/tag/attachedcontoursretired/
+url: /net/aspose.medical.dicom.tags/tag/attachedcontoursretired/
 ---
 
 ## Tag.AttachedContoursRETIRED field

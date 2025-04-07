@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741210 VRSQ VM1 Scheduled Processing Parameters Sequence.
 type: docs
 weight: 41490
-url: /aspose.medical.dicom.tags/tag/scheduledprocessingparameterssequence/
+url: /net/aspose.medical.dicom.tags/tag/scheduledprocessingparameterssequence/
 ---
 
 ## Tag.ScheduledProcessingParametersSequence field

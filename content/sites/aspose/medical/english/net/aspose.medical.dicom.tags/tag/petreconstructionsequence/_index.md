@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189749 VRSQ VM1 PET Reconstruction Sequence.
 type: docs
 weight: 31050
-url: /aspose.medical.dicom.tags/tag/petreconstructionsequence/
+url: /net/aspose.medical.dicom.tags/tag/petreconstructionsequence/
 ---
 
 ## Tag.PETReconstructionSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00220012 VRFL VM1 Stereo Horizontal Pixel Offset.
 type: docs
 weight: 45520
-url: /aspose.medical.dicom.tags/tag/stereohorizontalpixeloffset/
+url: /net/aspose.medical.dicom.tags/tag/stereohorizontalpixeloffset/
 ---
 
 ## Tag.StereoHorizontalPixelOffset field

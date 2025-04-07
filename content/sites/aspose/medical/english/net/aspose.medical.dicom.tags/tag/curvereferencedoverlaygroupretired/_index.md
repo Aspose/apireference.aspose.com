@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx2610 VRUS VM1 Curve Referenced Overlay Group RETIRED.
 type: docs
 weight: 9550
-url: /aspose.medical.dicom.tags/tag/curvereferencedoverlaygroupretired/
+url: /net/aspose.medical.dicom.tags/tag/curvereferencedoverlaygroupretired/
 ---
 
 ## Tag.CurveReferencedOverlayGroupRETIRED field

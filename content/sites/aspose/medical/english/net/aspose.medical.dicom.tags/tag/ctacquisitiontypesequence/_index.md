@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189301 VRSQ VM1 CT Acquisition Type Sequence.
 type: docs
 weight: 9190
-url: /aspose.medical.dicom.tags/tag/ctacquisitiontypesequence/
+url: /net/aspose.medical.dicom.tags/tag/ctacquisitiontypesequence/
 ---
 
 ## Tag.CTAcquisitionTypeSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300600B4 VRDS VM1 ROI Physical Property Value.
 type: docs
 weight: 39590
-url: /aspose.medical.dicom.tags/tag/roiphysicalpropertyvalue/
+url: /net/aspose.medical.dicom.tags/tag/roiphysicalpropertyvalue/
 ---
 
 ## Tag.ROIPhysicalPropertyValue field

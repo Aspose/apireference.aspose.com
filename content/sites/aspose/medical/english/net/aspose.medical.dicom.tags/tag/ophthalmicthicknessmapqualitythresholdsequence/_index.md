@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221458 VRSQ VM1 Ophthalmic Thickness Map Quality Threshold Sequence.
 type: docs
 weight: 28190
-url: /aspose.medical.dicom.tags/tag/ophthalmicthicknessmapqualitythresholdsequence/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicthicknessmapqualitythresholdsequence/
 ---
 
 ## Tag.OphthalmicThicknessMapQualityThresholdSequence field

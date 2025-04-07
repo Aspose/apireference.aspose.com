@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips Specialised XA Storage.
 type: docs
 weight: 3540
-url: /aspose.medical.dicom/uid/privatephilipsspecialisedxastorage/
+url: /net/aspose.medical.dicom/uid/privatephilipsspecialisedxastorage/
 ---
 
 ## Uid.PrivatePhilipsSpecialisedXaStorage field

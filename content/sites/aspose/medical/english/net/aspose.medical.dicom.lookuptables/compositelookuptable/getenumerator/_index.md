@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 70
-url: /aspose.medical.dicom.lookuptables/compositelookuptable/getenumerator/
+url: /net/aspose.medical.dicom.lookuptables/compositelookuptable/getenumerator/
 ---
 
 ## CompositeLookUpTable.GetEnumerator method

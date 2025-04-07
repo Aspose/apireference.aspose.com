@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240036 VRUS VM1 Patient Not Properly Fixated Quantity.
 type: docs
 weight: 29950
-url: /aspose.medical.dicom.tags/tag/patientnotproperlyfixatedquantity/
+url: /net/aspose.medical.dicom.tags/tag/patientnotproperlyfixatedquantity/
 ---
 
 ## Tag.PatientNotProperlyFixatedQuantity field

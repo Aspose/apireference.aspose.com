@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Replaces the current values by the collection of the given values.
 type: docs
 weight: 150
-url: /aspose.medical.dicom.elements/valueelement-1/replace/
+url: /net/aspose.medical.dicom.elements/valueelement-1/replace/
 ---
 
 ## ValueElement&lt;T&gt;.Replace method

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates DICOM Tag. https//dicom.nema.org/medical/dicom/current/output/chtml/part06/chapter_6.htmlhttps//dicom.nema.org/medical/dicom/current/output/chtml/part06/chapter_6.html.
 type: docs
 weight: 930
-url: /aspose.medical.dicom.tags/tag/
+url: /net/aspose.medical.dicom.tags/tag/
 ---
 
 ## Tag class

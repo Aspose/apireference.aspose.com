@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Tags keyword. Read-only String.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.tags/tagmetadata/keyword/
+url: /net/aspose.medical.dicom.tags/tagmetadata/keyword/
 ---
 
 ## TagMetadata.Keyword property

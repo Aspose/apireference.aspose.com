@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3006002D VRDT VM1 ROI DateTime.
 type: docs
 weight: 39390
-url: /aspose.medical.dicom.tags/tag/roidatetime/
+url: /net/aspose.medical.dicom.tags/tag/roidatetime/
 ---
 
 ## Tag.ROIDateTime field

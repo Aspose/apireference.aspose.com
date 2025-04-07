@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080052 VRDS VM1 Cumulative Dose to Dose Reference.
 type: docs
 weight: 9330
-url: /aspose.medical.dicom.tags/tag/cumulativedosetodosereference/
+url: /net/aspose.medical.dicom.tags/tag/cumulativedosetodosereference/
 ---
 
 ## Tag.CumulativeDoseToDoseReference field

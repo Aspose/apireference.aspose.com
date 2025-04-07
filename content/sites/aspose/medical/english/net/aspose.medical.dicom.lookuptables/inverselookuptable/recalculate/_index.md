@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 60
-url: /aspose.medical.dicom.lookuptables/inverselookuptable/recalculate/
+url: /net/aspose.medical.dicom.lookuptables/inverselookuptable/recalculate/
 ---
 
 ## InverseLookUpTable.Recalculate method

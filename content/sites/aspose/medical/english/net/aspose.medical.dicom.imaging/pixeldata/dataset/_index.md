@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The DICOM Dataset containing the pixel data. Read-only Datasetaspose.medical.dicom.imaging/pixeldata/dataset.
 type: docs
 weight: 70
-url: /aspose.medical.dicom.imaging/pixeldata/dataset/
+url: /net/aspose.medical.dicom.imaging/pixeldata/dataset/
 ---
 
 ## PixelData.Dataset property

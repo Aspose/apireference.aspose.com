@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0066001F VRUS VM1 Vector Dimensionality.
 type: docs
 weight: 50800
-url: /aspose.medical.dicom.tags/tag/vectordimensionality/
+url: /net/aspose.medical.dicom.tags/tag/vectordimensionality/
 ---
 
 ## Tag.VectorDimensionality field

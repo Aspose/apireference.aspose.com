@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160044 VRDS VM1 Digital Zoom Ratio.
 type: docs
 weight: 11820
-url: /aspose.medical.dicom.tags/tag/digitalzoomratio/
+url: /net/aspose.medical.dicom.tags/tag/digitalzoomratio/
 ---
 
 ## Tag.DigitalZoomRatio field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701103 VRUS VM1 Presentation Sequence Position Index.
 type: docs
 weight: 32640
-url: /aspose.medical.dicom.tags/tag/presentationsequencepositionindex/
+url: /net/aspose.medical.dicom.tags/tag/presentationsequencepositionindex/
 ---
 
 ## Tag.PresentationSequencePositionIndex field

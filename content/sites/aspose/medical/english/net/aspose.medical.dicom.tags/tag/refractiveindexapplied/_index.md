@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0052003A VRCS VM1 Refractive Index Applied.
 type: docs
 weight: 37940
-url: /aspose.medical.dicom.tags/tag/refractiveindexapplied/
+url: /net/aspose.medical.dicom.tags/tag/refractiveindexapplied/
 ---
 
 ## Tag.RefractiveIndexApplied field

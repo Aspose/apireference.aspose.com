@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00144058 VRDS VM1 Probe Center Location X RETIRED.
 type: docs
 weight: 33200
-url: /aspose.medical.dicom.tags/tag/probecenterlocationxretired/
+url: /net/aspose.medical.dicom.tags/tag/probecenterlocationxretired/
 ---
 
 ## Tag.ProbeCenterLocationXRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00820017 VRSQ VM1 Assessment Requester Sequence.
 type: docs
 weight: 2600
-url: /aspose.medical.dicom.tags/tag/assessmentrequestersequence/
+url: /net/aspose.medical.dicom.tags/tag/assessmentrequestersequence/
 ---
 
 ## Tag.AssessmentRequesterSequence field

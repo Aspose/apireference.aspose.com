@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460110 VRSQ VM1 Cornea Measurements Sequence.
 type: docs
 weight: 8920
-url: /aspose.medical.dicom.tags/tag/corneameasurementssequence/
+url: /net/aspose.medical.dicom.tags/tag/corneameasurementssequence/
 ---
 
 ## Tag.CorneaMeasurementsSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Converts the string representation of a VR to its typed equivalent.
 type: docs
 weight: 360
-url: /aspose.medical.dicom.valuerepresentations/valuerepresentation/parse/
+url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/parse/
 ---
 
 ## ValueRepresentation.Parse method

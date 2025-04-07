@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008030F VRUT VM1 Private Data Element Encoding.
 type: docs
 weight: 33100
-url: /aspose.medical.dicom.tags/tag/privatedataelementencoding/
+url: /net/aspose.medical.dicom.tags/tag/privatedataelementencoding/
 ---
 
 ## Tag.PrivateDataElementEncoding field

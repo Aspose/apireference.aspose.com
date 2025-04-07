@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00185026 VRDS VM1 Cranial Thermal Index.
 type: docs
 weight: 9100
-url: /aspose.medical.dicom.tags/tag/cranialthermalindex/
+url: /net/aspose.medical.dicom.tags/tag/cranialthermalindex/
 ---
 
 ## Tag.CranialThermalIndex field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460125 VRCS VM1 Viewing Distance Type.
 type: docs
 weight: 51180
-url: /aspose.medical.dicom.tags/tag/viewingdistancetype/
+url: /net/aspose.medical.dicom.tags/tag/viewingdistancetype/
 ---
 
 ## Tag.ViewingDistanceType field

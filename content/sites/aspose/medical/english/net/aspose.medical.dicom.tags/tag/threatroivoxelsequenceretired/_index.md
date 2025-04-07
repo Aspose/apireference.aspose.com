@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101001 VRSQ VM1 Threat ROI Voxel Sequence RETIRED.
 type: docs
 weight: 48100
-url: /aspose.medical.dicom.tags/tag/threatroivoxelsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/threatroivoxelsequenceretired/
 ---
 
 ## Tag.ThreatROIVoxelSequenceRETIRED field

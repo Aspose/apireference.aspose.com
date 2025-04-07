@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181405 VRIS VM1 Relative X-Ray Exposure.
 type: docs
 weight: 38360
-url: /aspose.medical.dicom.tags/tag/relativexrayexposure/
+url: /net/aspose.medical.dicom.tags/tag/relativexrayexposure/
 ---
 
 ## Tag.RelativeXRayExposure field

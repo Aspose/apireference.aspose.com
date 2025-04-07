@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A07A1 VRSQ VM1 Imaging Equipment to Treatment Delivery Device Relationship Sequence.
 type: docs
 weight: 19690
-url: /aspose.medical.dicom.tags/tag/imagingequipmenttotreatmentdeliverydevicerelationshipsequence/
+url: /net/aspose.medical.dicom.tags/tag/imagingequipmenttotreatmentdeliverydevicerelationshipsequence/
 ---
 
 ## Tag.ImagingEquipmentToTreatmentDeliveryDeviceRelationshipSequence field

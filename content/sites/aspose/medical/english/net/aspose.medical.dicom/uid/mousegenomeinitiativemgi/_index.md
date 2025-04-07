@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Coding Scheme Mouse Genome Initiative MGI.
 type: docs
 weight: 2630
-url: /aspose.medical.dicom/uid/mousegenomeinitiativemgi/
+url: /net/aspose.medical.dicom/uid/mousegenomeinitiativemgi/
 ---
 
 ## Uid.MouseGenomeInitiativeMGI field

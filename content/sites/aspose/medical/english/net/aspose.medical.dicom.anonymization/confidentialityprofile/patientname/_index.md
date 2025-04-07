@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Optional. Replacement patient name random or alias.
 type: docs
 weight: 130
-url: /aspose.medical.dicom.anonymization/confidentialityprofile/patientname/
+url: /net/aspose.medical.dicom.anonymization/confidentialityprofile/patientname/
 ---
 
 ## ConfidentialityProfile.PatientName property

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Well-known SOP Instance Summer Color Palette SOP Instance.
 type: docs
 weight: 4580
-url: /aspose.medical.dicom/uid/summercolorpalettesopinstance/
+url: /net/aspose.medical.dicom/uid/summercolorpalettesopinstance/
 ---
 
 ## Uid.SummerColorPaletteSOPInstance field

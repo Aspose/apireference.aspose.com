@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0074102B VRFD VM1 Table Top Eccentric Adjusted Angle.
 type: docs
 weight: 46920
-url: /aspose.medical.dicom.tags/tag/tabletopeccentricadjustedangle/
+url: /net/aspose.medical.dicom.tags/tag/tabletopeccentricadjustedangle/
 ---
 
 ## Tag.TableTopEccentricAdjustedAngle field

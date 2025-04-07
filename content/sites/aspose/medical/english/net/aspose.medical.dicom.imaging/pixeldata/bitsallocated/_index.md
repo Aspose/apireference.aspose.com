@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The number of bits allocated per pixel sample 00280100. Read-only UInt16.
 type: docs
 weight: 40
-url: /aspose.medical.dicom.imaging/pixeldata/bitsallocated/
+url: /net/aspose.medical.dicom.imaging/pixeldata/bitsallocated/
 ---
 
 ## PixelData.BitsAllocated property

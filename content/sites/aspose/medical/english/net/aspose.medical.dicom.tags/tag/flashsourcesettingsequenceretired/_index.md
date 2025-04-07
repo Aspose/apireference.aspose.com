@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014600F VRSQ VM1 Flash Source Setting Sequence RETIRED.
 type: docs
 weight: 15900
-url: /aspose.medical.dicom.tags/tag/flashsourcesettingsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/flashsourcesettingsequenceretired/
 ---
 
 ## Tag.FlashSourceSettingSequenceRETIRED field

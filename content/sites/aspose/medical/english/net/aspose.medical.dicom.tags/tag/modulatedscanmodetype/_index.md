@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0309 VRCS VM1 Modulated Scan Mode Type.
 type: docs
 weight: 24840
-url: /aspose.medical.dicom.tags/tag/modulatedscanmodetype/
+url: /net/aspose.medical.dicom.tags/tag/modulatedscanmodetype/
 ---
 
 ## Tag.ModulatedScanModeType field

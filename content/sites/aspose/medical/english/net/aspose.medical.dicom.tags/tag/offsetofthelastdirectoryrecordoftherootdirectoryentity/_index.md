@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00041202 VRUL VM1 Offset of the Last Directory Record of the Root Directory Entity.
 type: docs
 weight: 27600
-url: /aspose.medical.dicom.tags/tag/offsetofthelastdirectoryrecordoftherootdirectoryentity/
+url: /net/aspose.medical.dicom.tags/tag/offsetofthelastdirectoryrecordoftherootdirectoryentity/
 ---
 
 ## Tag.OffsetOfTheLastDirectoryRecordOfTheRootDirectoryEntity field

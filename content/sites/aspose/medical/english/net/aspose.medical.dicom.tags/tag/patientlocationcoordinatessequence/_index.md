@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300600C9 VRSQ VM1 Patient Location Coordinates Sequence.
 type: docs
 weight: 29910
-url: /aspose.medical.dicom.tags/tag/patientlocationcoordinatessequence/
+url: /net/aspose.medical.dicom.tags/tag/patientlocationcoordinatessequence/
 ---
 
 ## Tag.PatientLocationCoordinatesSequence field

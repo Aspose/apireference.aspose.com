@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A007 VRCS VM1 Findings Flag Trial RETIRED.
 type: docs
 weight: 15500
-url: /aspose.medical.dicom.tags/tag/findingsflagtrialretired/
+url: /net/aspose.medical.dicom.tags/tag/findingsflagtrialretired/
 ---
 
 ## Tag.FindingsFlagTrialRETIRED field

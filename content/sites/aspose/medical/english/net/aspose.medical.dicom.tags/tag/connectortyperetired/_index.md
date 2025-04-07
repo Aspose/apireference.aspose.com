@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145105 VRCS VM1 Connector Type RETIRED.
 type: docs
 weight: 7570
-url: /aspose.medical.dicom.tags/tag/connectortyperetired/
+url: /net/aspose.medical.dicom.tags/tag/connectortyperetired/
 ---
 
 ## Tag.ConnectorTypeRETIRED field

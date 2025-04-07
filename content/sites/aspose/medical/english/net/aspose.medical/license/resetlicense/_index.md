@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 20
-url: /aspose.medical/license/resetlicense/
+url: /net/aspose.medical/license/resetlicense/
 ---
 
 ## License.ResetLicense method

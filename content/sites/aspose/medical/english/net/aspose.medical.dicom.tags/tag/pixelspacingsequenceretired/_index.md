@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 004008D8 VRSQ VM1 Pixel Spacing Sequence RETIRED.
 type: docs
 weight: 31580
-url: /aspose.medical.dicom.tags/tag/pixelspacingsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/pixelspacingsequenceretired/
 ---
 
 ## Tag.PixelSpacingSequenceRETIRED field

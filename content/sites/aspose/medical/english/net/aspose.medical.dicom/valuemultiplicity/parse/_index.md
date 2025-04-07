@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Converts the string representation of a value multiplicity to its typed equivalent.
 type: docs
 weight: 170
-url: /aspose.medical.dicom/valuemultiplicity/parse/
+url: /net/aspose.medical.dicom/valuemultiplicity/parse/
 ---
 
 ## ValueMultiplicity.Parse method

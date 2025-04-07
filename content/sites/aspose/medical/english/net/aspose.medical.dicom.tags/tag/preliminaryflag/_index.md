@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A496 VRCS VM1 Preliminary Flag.
 type: docs
 weight: 32420
-url: /aspose.medical.dicom.tags/tag/preliminaryflag/
+url: /net/aspose.medical.dicom.tags/tag/preliminaryflag/
 ---
 
 ## Tag.PreliminaryFlag field

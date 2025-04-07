@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221628 VRSQ VM1 Ophthalmic En Face Image Quality Rating Sequence.
 type: docs
 weight: 28060
-url: /aspose.medical.dicom.tags/tag/ophthalmicenfaceimagequalityratingsequence/
+url: /net/aspose.medical.dicom.tags/tag/ophthalmicenfaceimagequalityratingsequence/
 ---
 
 ## Tag.OphthalmicEnFaceImageQualityRatingSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00286114 VRFL VM2 Mask Sub-pixel Shift.
 type: docs
 weight: 23610
-url: /aspose.medical.dicom.tags/tag/masksubpixelshift/
+url: /net/aspose.medical.dicom.tags/tag/masksubpixelshift/
 ---
 
 ## Tag.MaskSubPixelShift field

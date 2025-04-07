@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00380500 VRLO VM1 Patient State.
 type: docs
 weight: 30200
-url: /aspose.medical.dicom.tags/tag/patientstate/
+url: /net/aspose.medical.dicom.tags/tag/patientstate/
 ---
 
 ## Tag.PatientState field

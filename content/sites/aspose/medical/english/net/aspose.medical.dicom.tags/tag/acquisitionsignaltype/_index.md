@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020129 VRCS VM1 Acquisition Signal Type.
 type: docs
 weight: 480
-url: /aspose.medical.dicom.tags/tag/acquisitionsignaltype/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionsignaltype/
 ---
 
 ## Tag.AcquisitionSignalType field

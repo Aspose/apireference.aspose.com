@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741238 VRLT VM1 Reason for Cancellation.
 type: docs
 weight: 35100
-url: /aspose.medical.dicom.tags/tag/reasonforcancellation/
+url: /net/aspose.medical.dicom.tags/tag/reasonforcancellation/
 ---
 
 ## Tag.ReasonForCancellation field

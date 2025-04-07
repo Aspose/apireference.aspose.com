@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189182 VRFD VM1 Gradient Output.
 type: docs
 weight: 17740
-url: /aspose.medical.dicom.tags/tag/gradientoutput/
+url: /net/aspose.medical.dicom.tags/tag/gradientoutput/
 ---
 
 ## Tag.GradientOutput field

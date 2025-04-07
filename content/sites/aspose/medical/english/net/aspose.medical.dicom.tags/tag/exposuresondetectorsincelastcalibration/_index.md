@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187010 VRIS VM1 Exposures on Detector Since Last Calibration.
 type: docs
 weight: 14610
-url: /aspose.medical.dicom.tags/tag/exposuresondetectorsincelastcalibration/
+url: /net/aspose.medical.dicom.tags/tag/exposuresondetectorsincelastcalibration/
 ---
 
 ## Tag.ExposuresOnDetectorSinceLastCalibration field

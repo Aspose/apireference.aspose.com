@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287001 VRUS VM1 Number of Display Subsystems.
 type: docs
 weight: 26260
-url: /aspose.medical.dicom.tags/tag/numberofdisplaysubsystems/
+url: /net/aspose.medical.dicom.tags/tag/numberofdisplaysubsystems/
 ---
 
 ## Tag.NumberOfDisplaySubsystems field

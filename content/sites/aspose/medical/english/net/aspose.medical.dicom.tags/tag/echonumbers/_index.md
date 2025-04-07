@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180086 VRIS VM1-n Echo Numbers.
 type: docs
 weight: 13200
-url: /aspose.medical.dicom.tags/tag/echonumbers/
+url: /net/aspose.medical.dicom.tags/tag/echonumbers/
 ---
 
 ## Tag.EchoNumbers field

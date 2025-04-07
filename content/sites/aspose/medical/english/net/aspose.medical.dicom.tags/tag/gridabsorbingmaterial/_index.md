@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00187040 VRLT VM1 Grid Absorbing Material.
 type: docs
 weight: 18010
-url: /aspose.medical.dicom.tags/tag/gridabsorbingmaterial/
+url: /net/aspose.medical.dicom.tags/tag/gridabsorbingmaterial/
 ---
 
 ## Tag.GridAbsorbingMaterial field

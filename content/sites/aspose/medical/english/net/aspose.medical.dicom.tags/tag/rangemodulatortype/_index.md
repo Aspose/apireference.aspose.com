@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0348 VRCS VM1 Range Modulator Type.
 type: docs
 weight: 34890
-url: /aspose.medical.dicom.tags/tag/rangemodulatortype/
+url: /net/aspose.medical.dicom.tags/tag/rangemodulatortype/
 ---
 
 ## Tag.RangeModulatorType field

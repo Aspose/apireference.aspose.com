@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209253 VRSQ VM1 Respiratory Synchronization Sequence.
 type: docs
 weight: 39010
-url: /aspose.medical.dicom.tags/tag/respiratorysynchronizationsequence/
+url: /net/aspose.medical.dicom.tags/tag/respiratorysynchronizationsequence/
 ---
 
 ## Tag.RespiratorySynchronizationSequence field

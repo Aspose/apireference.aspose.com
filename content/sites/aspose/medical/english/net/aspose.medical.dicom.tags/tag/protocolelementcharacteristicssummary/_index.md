@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189923 VRUT VM1 Protocol Element Characteristics Summary.
 type: docs
 weight: 33660
-url: /aspose.medical.dicom.tags/tag/protocolelementcharacteristicssummary/
+url: /net/aspose.medical.dicom.tags/tag/protocolelementcharacteristicssummary/
 ---
 
 ## Tag.ProtocolElementCharacteristicsSummary field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Simplified Adult Echo SR Storage.
 type: docs
 weight: 4280
-url: /aspose.medical.dicom/uid/simplifiedadultechosrstorage/
+url: /net/aspose.medical.dicom/uid/simplifiedadultechosrstorage/
 ---
 
 ## Uid.SimplifiedAdultEchoSRStorage field

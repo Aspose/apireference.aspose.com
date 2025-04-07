@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160020 VRUT VM1 EXIF Version.
 type: docs
 weight: 14360
-url: /aspose.medical.dicom.tags/tag/exifversion/
+url: /net/aspose.medical.dicom.tags/tag/exifversion/
 ---
 
 ## Tag.EXIFVersion field

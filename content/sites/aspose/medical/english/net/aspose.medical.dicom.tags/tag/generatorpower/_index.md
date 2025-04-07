@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181170 VRIS VM1 Generator Power.
 type: docs
 weight: 17270
-url: /aspose.medical.dicom.tags/tag/generatorpower/
+url: /net/aspose.medical.dicom.tags/tag/generatorpower/
 ---
 
 ## Tag.GeneratorPower field

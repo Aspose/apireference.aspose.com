@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A000A VRCS VM1 Plan Intent.
 type: docs
 weight: 31770
-url: /aspose.medical.dicom.tags/tag/planintent/
+url: /net/aspose.medical.dicom.tags/tag/planintent/
 ---
 
 ## Tag.PlanIntent field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00880200 VRSQ VM1 Icon Image Sequence.
 type: docs
 weight: 18720
-url: /aspose.medical.dicom.tags/tag/iconimagesequence/
+url: /net/aspose.medical.dicom.tags/tag/iconimagesequence/
 ---
 
 ## Tag.IconImageSequence field

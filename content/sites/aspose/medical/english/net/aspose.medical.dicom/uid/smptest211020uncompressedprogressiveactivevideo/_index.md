@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Transfer Syntax SMPTE ST 2110-20 Uncompressed Progressive Active Video.
 type: docs
 weight: 4310
-url: /aspose.medical.dicom/uid/smptest211020uncompressedprogressiveactivevideo/
+url: /net/aspose.medical.dicom/uid/smptest211020uncompressedprogressiveactivevideo/
 ---
 
 ## Uid.SMPTEST211020UncompressedProgressiveActiveVideo field

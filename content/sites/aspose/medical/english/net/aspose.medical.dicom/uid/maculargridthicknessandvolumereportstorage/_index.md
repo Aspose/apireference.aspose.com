@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Macular Grid Thickness and Volume Report Storage.
 type: docs
 weight: 2530
-url: /aspose.medical.dicom/uid/maculargridthicknessandvolumereportstorage/
+url: /net/aspose.medical.dicom/uid/maculargridthicknessandvolumereportstorage/
 ---
 
 ## Uid.MacularGridThicknessAndVolumeReportStorage field

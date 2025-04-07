@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181316 VRDS VM1 SAR.
 type: docs
 weight: 40950
-url: /aspose.medical.dicom.tags/tag/sar/
+url: /net/aspose.medical.dicom.tags/tag/sar/
 ---
 
 ## Tag.SAR field

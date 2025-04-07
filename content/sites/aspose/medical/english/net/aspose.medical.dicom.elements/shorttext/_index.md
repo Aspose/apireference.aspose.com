@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Short Text ST VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextST-Short20Text-A20character20string.
 type: docs
 weight: 440
-url: /aspose.medical.dicom.elements/shorttext/
+url: /net/aspose.medical.dicom.elements/shorttext/
 ---
 
 ## ShortText class

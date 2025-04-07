@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209116 VRSQ VM1 Plane Orientation Sequence.
 type: docs
 weight: 31700
-url: /aspose.medical.dicom.tags/tag/planeorientationsequence/
+url: /net/aspose.medical.dicom.tags/tag/planeorientationsequence/
 ---
 
 ## Tag.PlaneOrientationSequence field

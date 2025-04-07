@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Digital Mammography X-Ray Image Storage - For Presentation.
 type: docs
 weight: 1230
-url: /aspose.medical.dicom/uid/digitalmammographyxrayimagestorageforpresentation/
+url: /net/aspose.medical.dicom/uid/digitalmammographyxrayimagestorageforpresentation/
 ---
 
 ## Uid.DigitalMammographyXRayImageStorageForPresentation field

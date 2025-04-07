@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181143 VRDS VM1 Scan Arc.
 type: docs
 weight: 40980
-url: /aspose.medical.dicom.tags/tag/scanarc/
+url: /net/aspose.medical.dicom.tags/tag/scanarc/
 ---
 
 ## Tag.ScanArc field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3008013C VRDS VM1 Delivered Pulse Repetition Interval.
 type: docs
 weight: 10610
-url: /aspose.medical.dicom.tags/tag/deliveredpulserepetitioninterval/
+url: /net/aspose.medical.dicom.tags/tag/deliveredpulserepetitioninterval/
 ---
 
 ## Tag.DeliveredPulseRepetitionInterval field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741025 VRCS VM1 Autosequence Flag.
 type: docs
 weight: 2970
-url: /aspose.medical.dicom.tags/tag/autosequenceflag/
+url: /net/aspose.medical.dicom.tags/tag/autosequenceflag/
 ---
 
 ## Tag.AutosequenceFlag field

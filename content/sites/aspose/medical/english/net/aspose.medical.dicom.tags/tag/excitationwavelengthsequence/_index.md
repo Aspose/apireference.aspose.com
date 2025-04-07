@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189825 VRSQ VM1 Excitation Wavelength Sequence.
 type: docs
 weight: 14290
-url: /aspose.medical.dicom.tags/tag/excitationwavelengthsequence/
+url: /net/aspose.medical.dicom.tags/tag/excitationwavelengthsequence/
 ---
 
 ## Tag.ExcitationWavelengthSequence field

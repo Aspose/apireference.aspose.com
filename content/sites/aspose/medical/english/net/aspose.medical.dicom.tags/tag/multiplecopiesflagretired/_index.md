@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404006 VRCS VM1 Multiple Copies Flag RETIRED.
 type: docs
 weight: 25550
-url: /aspose.medical.dicom.tags/tag/multiplecopiesflagretired/
+url: /net/aspose.medical.dicom.tags/tag/multiplecopiesflagretired/
 ---
 
 ## Tag.MultipleCopiesFlagRETIRED field

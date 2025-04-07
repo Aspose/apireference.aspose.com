@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720075 VROL VM1 Selector OL Value.
 type: docs
 weight: 42490
-url: /aspose.medical.dicom.tags/tag/selectorolvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorolvalue/
 ---
 
 ## Tag.SelectorOLValue field

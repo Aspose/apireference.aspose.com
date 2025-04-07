@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00221649 VRFL VM1 A-scan Rate.
 type: docs
 weight: 2340
-url: /aspose.medical.dicom.tags/tag/ascanrate/
+url: /net/aspose.medical.dicom.tags/tag/ascanrate/
 ---
 
 ## Tag.AscanRate field

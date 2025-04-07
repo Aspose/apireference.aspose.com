@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700041 VRCS VM1 Image Horizontal Flip.
 type: docs
 weight: 19210
-url: /aspose.medical.dicom.tags/tag/imagehorizontalflip/
+url: /net/aspose.medical.dicom.tags/tag/imagehorizontalflip/
 ---
 
 ## Tag.ImageHorizontalFlip field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0784 VRSQ VM1 RT Patient Position Scope Sequence.
 type: docs
 weight: 40250
-url: /aspose.medical.dicom.tags/tag/rtpatientpositionscopesequence/
+url: /net/aspose.medical.dicom.tags/tag/rtpatientpositionscopesequence/
 ---
 
 ## Tag.RTPatientPositionScopeSequence field

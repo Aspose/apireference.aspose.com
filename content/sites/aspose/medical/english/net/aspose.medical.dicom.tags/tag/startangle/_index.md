@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540200 VRDS VM1 Start Angle.
 type: docs
 weight: 45300
-url: /aspose.medical.dicom.tags/tag/startangle/
+url: /net/aspose.medical.dicom.tags/tag/startangle/
 ---
 
 ## Tag.StartAngle field

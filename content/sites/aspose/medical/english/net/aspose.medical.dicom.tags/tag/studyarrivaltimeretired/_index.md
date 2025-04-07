@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00321041 VRTM VM1 Study Arrival Time RETIRED.
 type: docs
 weight: 45950
-url: /aspose.medical.dicom.tags/tag/studyarrivaltimeretired/
+url: /net/aspose.medical.dicom.tags/tag/studyarrivaltimeretired/
 ---
 
 ## Tag.StudyArrivalTimeRETIRED field

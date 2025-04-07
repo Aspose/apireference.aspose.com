@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720200 VRSQ VM1 Display Sets Sequence.
 type: docs
 weight: 12220
-url: /aspose.medical.dicom.tags/tag/displaysetssequence/
+url: /net/aspose.medical.dicom.tags/tag/displaysetssequence/
 ---
 
 ## Tag.DisplaySetsSequence field

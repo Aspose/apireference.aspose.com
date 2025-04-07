@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404002 VRCS VM1 General Purpose Performed Procedure Step Status RETIRED.
 type: docs
 weight: 17230
-url: /aspose.medical.dicom.tags/tag/generalpurposeperformedprocedurestepstatusretired/
+url: /net/aspose.medical.dicom.tags/tag/generalpurposeperformedprocedurestepstatusretired/
 ---
 
 ## Tag.GeneralPurposePerformedProcedureStepStatusRETIRED field

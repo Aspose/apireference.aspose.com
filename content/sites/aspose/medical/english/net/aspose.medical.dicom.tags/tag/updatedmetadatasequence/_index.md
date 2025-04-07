@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0008041E VRSQ VM1 Updated Metadata Sequence.
 type: docs
 weight: 50520
-url: /aspose.medical.dicom.tags/tag/updatedmetadatasequence/
+url: /net/aspose.medical.dicom.tags/tag/updatedmetadatasequence/
 ---
 
 ## Tag.UpdatedMetadataSequence field

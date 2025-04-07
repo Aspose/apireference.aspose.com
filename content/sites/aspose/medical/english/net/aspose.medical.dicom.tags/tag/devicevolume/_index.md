@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00500018 VRDS VM1 Device Volume.
 type: docs
 weight: 11500
-url: /aspose.medical.dicom.tags/tag/devicevolume/
+url: /net/aspose.medical.dicom.tags/tag/devicevolume/
 ---
 
 ## Tag.DeviceVolume field

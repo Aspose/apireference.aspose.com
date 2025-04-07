@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020107 VRFD VM1 Stop Cumulative Meterset.
 type: docs
 weight: 45620
-url: /aspose.medical.dicom.tags/tag/stopcumulativemeterset/
+url: /net/aspose.medical.dicom.tags/tag/stopcumulativemeterset/
 ---
 
 ## Tag.StopCumulativeMeterset field

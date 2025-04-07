@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Well-known SOP Instance Print Queue SOP Instance Retired.
 type: docs
 weight: 3130
-url: /aspose.medical.dicom/uid/printqueuesopinstanceretired/
+url: /net/aspose.medical.dicom/uid/printqueuesopinstanceretired/
 ---
 
 ## Uid.PrintQueueSOPInstanceRetired field

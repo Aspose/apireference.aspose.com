@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00286120 VRSS VM1 TID Offset.
 type: docs
 weight: 48310
-url: /aspose.medical.dicom.tags/tag/tidoffset/
+url: /net/aspose.medical.dicom.tags/tag/tidoffset/
 ---
 
 ## Tag.TIDOffset field

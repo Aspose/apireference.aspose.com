@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 40
-url: /aspose.medical.imaging.pixelformats/bgra32/fromrgba32/
+url: /net/aspose.medical.imaging.pixelformats/bgra32/fromrgba32/
 ---
 
 ## Bgra32.FromRgba32 method

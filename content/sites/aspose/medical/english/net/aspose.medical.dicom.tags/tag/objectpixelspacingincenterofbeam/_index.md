@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189404 VRFL VM2 Object Pixel Spacing in Center of Beam.
 type: docs
 weight: 27240
-url: /aspose.medical.dicom.tags/tag/objectpixelspacingincenterofbeam/
+url: /net/aspose.medical.dicom.tags/tag/objectpixelspacingincenterofbeam/
 ---
 
 ## Tag.ObjectPixelSpacingInCenterOfBeam field

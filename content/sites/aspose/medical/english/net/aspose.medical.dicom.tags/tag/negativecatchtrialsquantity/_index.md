@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240048 VRUS VM1 Negative Catch Trials Quantity.
 type: docs
 weight: 25710
-url: /aspose.medical.dicom.tags/tag/negativecatchtrialsquantity/
+url: /net/aspose.medical.dicom.tags/tag/negativecatchtrialsquantity/
 ---
 
 ## Tag.NegativeCatchTrialsQuantity field

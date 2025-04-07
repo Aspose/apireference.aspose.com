@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00001005 VRAT VM1-n Attribute Identifier List.
 type: docs
 weight: 2780
-url: /aspose.medical.dicom.tags/tag/attributeidentifierlist/
+url: /net/aspose.medical.dicom.tags/tag/attributeidentifierlist/
 ---
 
 ## Tag.AttributeIdentifierList field

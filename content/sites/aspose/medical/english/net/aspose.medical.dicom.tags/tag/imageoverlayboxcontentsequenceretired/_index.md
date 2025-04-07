@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 21300060 VRSQ VM1 Image Overlay Box Content Sequence RETIRED.
 type: docs
 weight: 19300
-url: /aspose.medical.dicom.tags/tag/imageoverlayboxcontentsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/imageoverlayboxcontentsequenceretired/
 ---
 
 ## Tag.ImageOverlayBoxContentSequenceRETIRED field

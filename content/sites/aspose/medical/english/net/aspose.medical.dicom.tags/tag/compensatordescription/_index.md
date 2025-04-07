@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02EB VRLT VM1 Compensator Description.
 type: docs
 weight: 6660
-url: /aspose.medical.dicom.tags/tag/compensatordescription/
+url: /net/aspose.medical.dicom.tags/tag/compensatordescription/
 ---
 
 ## Tag.CompensatorDescription field

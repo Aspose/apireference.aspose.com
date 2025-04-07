@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700248 VRCS VM1 Underlined.
 type: docs
 weight: 50420
-url: /aspose.medical.dicom.tags/tag/underlined/
+url: /net/aspose.medical.dicom.tags/tag/underlined/
 ---
 
 ## Tag.Underlined field

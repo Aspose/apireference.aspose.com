@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082120 VRSH VM1 Stage Name.
 type: docs
 weight: 45260
-url: /aspose.medical.dicom.tags/tag/stagename/
+url: /net/aspose.medical.dicom.tags/tag/stagename/
 ---
 
 ## Tag.StageName field

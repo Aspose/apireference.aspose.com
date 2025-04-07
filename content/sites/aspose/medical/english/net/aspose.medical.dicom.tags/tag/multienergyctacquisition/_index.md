@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189361 VRCS VM1 Multi-energy CT Acquisition.
 type: docs
 weight: 25400
-url: /aspose.medical.dicom.tags/tag/multienergyctacquisition/
+url: /net/aspose.medical.dicom.tags/tag/multienergyctacquisition/
 ---
 
 ## Tag.MultienergyCTAcquisition field

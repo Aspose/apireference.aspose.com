@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0034000D VRSQ VM1 Time of Frame Group Sequence.
 type: docs
 weight: 48400
-url: /aspose.medical.dicom.tags/tag/timeofframegroupsequence/
+url: /net/aspose.medical.dicom.tags/tag/timeofframegroupsequence/
 ---
 
 ## Tag.TimeOfFrameGroupSequence field

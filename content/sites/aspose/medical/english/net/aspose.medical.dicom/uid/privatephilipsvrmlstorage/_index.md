@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Private Philips VRML Storage.
 type: docs
 weight: 3600
-url: /aspose.medical.dicom/uid/privatephilipsvrmlstorage/
+url: /net/aspose.medical.dicom/uid/privatephilipsvrmlstorage/
 ---
 
 ## Uid.PrivatePhilipsVrmlStorage field

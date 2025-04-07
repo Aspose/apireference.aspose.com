@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0028700F VRSQ VM1 QA Results Sequence.
 type: docs
 weight: 33960
-url: /aspose.medical.dicom.tags/tag/qaresultssequence/
+url: /net/aspose.medical.dicom.tags/tag/qaresultssequence/
 ---
 
 ## Tag.QAResultsSequence field

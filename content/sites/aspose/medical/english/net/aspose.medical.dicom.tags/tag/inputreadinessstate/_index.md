@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404041 VRCS VM1 Input Readiness State.
 type: docs
 weight: 20410
-url: /aspose.medical.dicom.tags/tag/inputreadinessstate/
+url: /net/aspose.medical.dicom.tags/tag/inputreadinessstate/
 ---
 
 ## Tag.InputReadinessState field

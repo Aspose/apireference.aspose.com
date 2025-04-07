@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00001031 VRUS VM1 Move Originator Message ID.
 type: docs
 weight: 24990
-url: /aspose.medical.dicom.tags/tag/moveoriginatormessageid/
+url: /net/aspose.medical.dicom.tags/tag/moveoriginatormessageid/
 ---
 
 ## Tag.MoveOriginatorMessageID field

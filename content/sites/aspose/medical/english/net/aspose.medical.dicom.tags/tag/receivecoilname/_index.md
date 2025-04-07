@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181250 VRSH VM1 Receive Coil Name.
 type: docs
 weight: 35270
-url: /aspose.medical.dicom.tags/tag/receivecoilname/
+url: /net/aspose.medical.dicom.tags/tag/receivecoilname/
 ---
 
 ## Tag.ReceiveCoilName field

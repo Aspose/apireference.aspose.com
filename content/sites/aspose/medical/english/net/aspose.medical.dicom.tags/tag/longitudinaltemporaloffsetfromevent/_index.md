@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120052 VRFD VM1 Longitudinal Temporal Offset from Event.
 type: docs
 weight: 23020
-url: /aspose.medical.dicom.tags/tag/longitudinaltemporaloffsetfromevent/
+url: /net/aspose.medical.dicom.tags/tag/longitudinaltemporaloffsetfromevent/
 ---
 
 ## Tag.LongitudinalTemporalOffsetFromEvent field

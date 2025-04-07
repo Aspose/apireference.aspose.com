@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00687002 VRCS VM1 Model Mirroring.
 type: docs
 weight: 24690
-url: /aspose.medical.dicom.tags/tag/modelmirroring/
+url: /net/aspose.medical.dicom.tags/tag/modelmirroring/
 ---
 
 ## Tag.ModelMirroring field

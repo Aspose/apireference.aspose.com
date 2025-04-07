@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700009 VRSQ VM1 Graphic Object Sequence.
 type: docs
 weight: 17930
-url: /aspose.medical.dicom.tags/tag/graphicobjectsequence/
+url: /net/aspose.medical.dicom.tags/tag/graphicobjectsequence/
 ---
 
 ## Tag.GraphicObjectSequence field

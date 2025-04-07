@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100029 VRUS VM1 Segment Characteristics Precedence.
 type: docs
 weight: 42020
-url: /aspose.medical.dicom.tags/tag/segmentcharacteristicsprecedence/
+url: /net/aspose.medical.dicom.tags/tag/segmentcharacteristicsprecedence/
 ---
 
 ## Tag.SegmentCharacteristicsPrecedence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102160 VRSH VM1 Ethnic Group.
 type: docs
 weight: 14050
-url: /aspose.medical.dicom.tags/tag/ethnicgroup/
+url: /net/aspose.medical.dicom.tags/tag/ethnicgroup/
 ---
 
 ## Tag.EthnicGroup field

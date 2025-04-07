@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022001A VRSQ VM1 Channel Description Code Sequence.
 type: docs
 weight: 5440
-url: /aspose.medical.dicom.tags/tag/channeldescriptioncodesequence/
+url: /net/aspose.medical.dicom.tags/tag/channeldescriptioncodesequence/
 ---
 
 ## Tag.ChannelDescriptionCodeSequence field

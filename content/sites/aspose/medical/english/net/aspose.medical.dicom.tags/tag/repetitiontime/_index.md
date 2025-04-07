@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180080 VRDS VM1 Repetition Time.
 type: docs
 weight: 38470
-url: /aspose.medical.dicom.tags/tag/repetitiontime/
+url: /net/aspose.medical.dicom.tags/tag/repetitiontime/
 ---
 
 ## Tag.RepetitionTime field

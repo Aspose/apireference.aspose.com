@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189186 VRSH VM1 Respiratory Signal Source ID.
 type: docs
 weight: 39000
-url: /aspose.medical.dicom.tags/tag/respiratorysignalsourceid/
+url: /net/aspose.medical.dicom.tags/tag/respiratorysignalsourceid/
 ---
 
 ## Tag.RespiratorySignalSourceID field

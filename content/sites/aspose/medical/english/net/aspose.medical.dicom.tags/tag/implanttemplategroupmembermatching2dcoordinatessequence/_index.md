@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00780070 VRSQ VM1 Implant Template Group Member Matching 2D Coordinates Sequence.
 type: docs
 weight: 19940
-url: /aspose.medical.dicom.tags/tag/implanttemplategroupmembermatching2dcoordinatessequence/
+url: /net/aspose.medical.dicom.tags/tag/implanttemplategroupmembermatching2dcoordinatessequence/
 ---
 
 ## Tag.ImplantTemplateGroupMemberMatching2DCoordinatesSequence field

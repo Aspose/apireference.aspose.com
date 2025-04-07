@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020035 VROB VM1 RTV Source Identifier.
 type: docs
 weight: 40820
-url: /aspose.medical.dicom.tags/tag/rtvsourceidentifier/
+url: /net/aspose.medical.dicom.tags/tag/rtvsourceidentifier/
 ---
 
 ## Tag.RTVSourceIdentifier field

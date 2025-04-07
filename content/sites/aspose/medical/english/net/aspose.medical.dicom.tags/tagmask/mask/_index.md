@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: A mask for checking repeating groups. Read-only UInt32.
 type: docs
 weight: 40
-url: /aspose.medical.dicom.tags/tagmask/mask/
+url: /net/aspose.medical.dicom.tags/tagmask/mask/
 ---
 
 ## TagMask.Mask property

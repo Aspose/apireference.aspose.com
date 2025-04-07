@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140056 VRDS VM1 Inner Diameter RETIRED.
 type: docs
 weight: 20370
-url: /aspose.medical.dicom.tags/tag/innerdiameterretired/
+url: /net/aspose.medical.dicom.tags/tag/innerdiameterretired/
 ---
 
 ## Tag.InnerDiameterRETIRED field

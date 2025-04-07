@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281231 VRFD VM1 Minimum Stored Value Mapped.
 type: docs
 weight: 24630
-url: /aspose.medical.dicom.tags/tag/minimumstoredvaluemapped/
+url: /net/aspose.medical.dicom.tags/tag/minimumstoredvaluemapped/
 ---
 
 ## Tag.MinimumStoredValueMapped field

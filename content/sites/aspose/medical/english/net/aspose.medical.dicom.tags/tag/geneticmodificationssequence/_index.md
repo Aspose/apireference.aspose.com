@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00100221 VRSQ VM1 Genetic Modifications Sequence.
 type: docs
 weight: 17310
-url: /aspose.medical.dicom.tags/tag/geneticmodificationssequence/
+url: /net/aspose.medical.dicom.tags/tag/geneticmodificationssequence/
 ---
 
 ## Tag.GeneticModificationsSequence field

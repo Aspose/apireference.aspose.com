@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741407 VRDS VM1 Start Cumulative Time Weight.
 type: docs
 weight: 45340
-url: /aspose.medical.dicom.tags/tag/startcumulativetimeweight/
+url: /net/aspose.medical.dicom.tags/tag/startcumulativetimeweight/
 ---
 
 ## Tag.StartCumulativeTimeWeight field

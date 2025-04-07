@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0078 VRIS VM1 Number of Fractions Planned.
 type: docs
 weight: 26370
-url: /aspose.medical.dicom.tags/tag/numberoffractionsplanned/
+url: /net/aspose.medical.dicom.tags/tag/numberoffractionsplanned/
 ---
 
 ## Tag.NumberOfFractionsPlanned field

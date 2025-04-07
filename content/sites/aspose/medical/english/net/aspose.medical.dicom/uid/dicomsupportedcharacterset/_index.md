@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: LDAP OID dicomSupportedCharacterSet.
 type: docs
 weight: 1040
-url: /aspose.medical.dicom/uid/dicomsupportedcharacterset/
+url: /net/aspose.medical.dicom/uid/dicomsupportedcharacterset/
 ---
 
 ## Uid.DicomSupportedCharacterSet field

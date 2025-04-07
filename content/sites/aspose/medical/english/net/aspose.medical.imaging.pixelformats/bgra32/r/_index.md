@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The red component.
 type: docs
 weight: 100
-url: /aspose.medical.imaging.pixelformats/bgra32/r/
+url: /net/aspose.medical.imaging.pixelformats/bgra32/r/
 ---
 
 ## Bgra32.R field

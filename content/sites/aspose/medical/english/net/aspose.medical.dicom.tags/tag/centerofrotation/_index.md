@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0066001C VRFL VM3 Center of Rotation.
 type: docs
 weight: 5300
-url: /aspose.medical.dicom.tags/tag/centerofrotation/
+url: /net/aspose.medical.dicom.tags/tag/centerofrotation/
 ---
 
 ## Tag.CenterOfRotation field

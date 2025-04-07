@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143100 VRLT VM1 Linearity Correction Technique RETIRED.
 type: docs
 weight: 22810
-url: /aspose.medical.dicom.tags/tag/linearitycorrectiontechniqueretired/
+url: /net/aspose.medical.dicom.tags/tag/linearitycorrectiontechniqueretired/
 ---
 
 ## Tag.LinearityCorrectionTechniqueRETIRED field

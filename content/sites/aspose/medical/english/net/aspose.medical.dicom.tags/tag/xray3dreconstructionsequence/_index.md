@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189530 VRSQ VM1 X-Ray 3D Reconstruction Sequence.
 type: docs
 weight: 52700
-url: /aspose.medical.dicom.tags/tag/xray3dreconstructionsequence/
+url: /net/aspose.medical.dicom.tags/tag/xray3dreconstructionsequence/
 ---
 
 ## Tag.XRay3DReconstructionSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0198 VRSH VM1 Fixation Device Position.
 type: docs
 weight: 15670
-url: /aspose.medical.dicom.tags/tag/fixationdeviceposition/
+url: /net/aspose.medical.dicom.tags/tag/fixationdeviceposition/
 ---
 
 ## Tag.FixationDevicePosition field

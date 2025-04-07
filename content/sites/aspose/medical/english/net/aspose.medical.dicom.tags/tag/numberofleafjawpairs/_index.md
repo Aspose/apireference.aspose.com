@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00BC VRIS VM1 Number of Leaf/Jaw Pairs.
 type: docs
 weight: 26520
-url: /aspose.medical.dicom.tags/tag/numberofleafjawpairs/
+url: /net/aspose.medical.dicom.tags/tag/numberofleafjawpairs/
 ---
 
 ## Tag.NumberOfLeafJawPairs field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0622 VRUS VM1 Expected In-Vivo Measurement Value Index.
 type: docs
 weight: 14380
-url: /aspose.medical.dicom.tags/tag/expectedinvivomeasurementvalueindex/
+url: /net/aspose.medical.dicom.tags/tag/expectedinvivomeasurementvalueindex/
 ---
 
 ## Tag.ExpectedInVivoMeasurementValueIndex field

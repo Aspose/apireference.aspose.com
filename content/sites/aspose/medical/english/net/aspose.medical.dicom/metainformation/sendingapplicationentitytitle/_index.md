@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The Sending Application Entity Title. Read-only String.
 type: docs
 weight: 90
-url: /aspose.medical.dicom/metainformation/sendingapplicationentitytitle/
+url: /net/aspose.medical.dicom/metainformation/sendingapplicationentitytitle/
 ---
 
 ## MetaInformation.SendingApplicationEntityTitle property

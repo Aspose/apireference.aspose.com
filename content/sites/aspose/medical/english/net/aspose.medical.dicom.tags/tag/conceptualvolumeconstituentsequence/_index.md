@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100008 VRSQ VM1 Conceptual Volume Constituent Sequence.
 type: docs
 weight: 7340
-url: /aspose.medical.dicom.tags/tag/conceptualvolumeconstituentsequence/
+url: /net/aspose.medical.dicom.tags/tag/conceptualvolumeconstituentsequence/
 ---
 
 ## Tag.ConceptualVolumeConstituentSequence field

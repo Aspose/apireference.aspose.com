@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The index of the first row of the overlay. Read/Write Int32.
 type: docs
 weight: 90
-url: /aspose.medical.dicom.imaging.overlays/overlaydata/originy/
+url: /net/aspose.medical.dicom.imaging.overlays/overlaydata/originy/
 ---
 
 ## OverlayData.OriginY property

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186048 VRUL VM1 Pixel Component Range Start.
 type: docs
 weight: 31370
-url: /aspose.medical.dicom.tags/tag/pixelcomponentrangestart/
+url: /net/aspose.medical.dicom.tags/tag/pixelcomponentrangestart/
 ---
 
 ## Tag.PixelComponentRangeStart field

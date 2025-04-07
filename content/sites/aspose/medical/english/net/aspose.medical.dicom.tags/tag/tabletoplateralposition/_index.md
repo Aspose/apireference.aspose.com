@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A012A VRDS VM1 Table Top Lateral Position.
 type: docs
 weight: 46980
-url: /aspose.medical.dicom.tags/tag/tabletoplateralposition/
+url: /net/aspose.medical.dicom.tags/tag/tabletoplateralposition/
 ---
 
 ## Tag.TableTopLateralPosition field

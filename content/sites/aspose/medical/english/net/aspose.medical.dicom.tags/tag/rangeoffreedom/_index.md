@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006864A0 VRFD VM2 Range of Freedom.
 type: docs
 weight: 34900
-url: /aspose.medical.dicom.tags/tag/rangeoffreedom/
+url: /net/aspose.medical.dicom.tags/tag/rangeoffreedom/
 ---
 
 ## Tag.RangeOfFreedom field

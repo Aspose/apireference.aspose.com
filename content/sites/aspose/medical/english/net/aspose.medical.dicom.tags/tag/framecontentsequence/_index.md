@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209111 VRSQ VM1 Frame Content Sequence.
 type: docs
 weight: 16500
-url: /aspose.medical.dicom.tags/tag/framecontentsequence/
+url: /net/aspose.medical.dicom.tags/tag/framecontentsequence/
 ---
 
 ## Tag.FrameContentSequence field

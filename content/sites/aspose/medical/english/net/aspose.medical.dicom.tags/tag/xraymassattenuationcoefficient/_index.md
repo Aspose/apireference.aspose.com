@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189384 VRDS VM1 X-Ray Mass Attenuation Coefficient.
 type: docs
 weight: 52810
-url: /aspose.medical.dicom.tags/tag/xraymassattenuationcoefficient/
+url: /net/aspose.medical.dicom.tags/tag/xraymassattenuationcoefficient/
 ---
 
 ## Tag.XRayMassAttenuationCoefficient field

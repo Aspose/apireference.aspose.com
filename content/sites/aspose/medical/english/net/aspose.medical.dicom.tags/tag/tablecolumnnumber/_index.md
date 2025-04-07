@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A805 VRUL VM1 Table Column Number.
 type: docs
 weight: 46730
-url: /aspose.medical.dicom.tags/tag/tablecolumnnumber/
+url: /net/aspose.medical.dicom.tags/tag/tablecolumnnumber/
 ---
 
 ## Tag.TableColumnNumber field

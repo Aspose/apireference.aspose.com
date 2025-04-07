@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00687001 VRCS VM1 Model Modification.
 type: docs
 weight: 24700
-url: /aspose.medical.dicom.tags/tag/modelmodification/
+url: /net/aspose.medical.dicom.tags/tag/modelmodification/
 ---
 
 ## Tag.ModelModification field

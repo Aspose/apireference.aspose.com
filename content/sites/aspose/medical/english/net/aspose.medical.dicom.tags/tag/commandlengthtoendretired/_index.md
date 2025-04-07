@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000001 VRUL VM1 Command Length to End RETIRED.
 type: docs
 weight: 6540
-url: /aspose.medical.dicom.tags/tag/commandlengthtoendretired/
+url: /net/aspose.medical.dicom.tags/tag/commandlengthtoendretired/
 ---
 
 ## Tag.CommandLengthToEndRETIRED field

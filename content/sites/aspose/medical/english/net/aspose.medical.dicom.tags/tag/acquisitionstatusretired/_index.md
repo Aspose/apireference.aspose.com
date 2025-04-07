@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101044 VRCS VM1 Acquisition Status RETIRED.
 type: docs
 weight: 540
-url: /aspose.medical.dicom.tags/tag/acquisitionstatusretired/
+url: /net/aspose.medical.dicom.tags/tag/acquisitionstatusretired/
 ---
 
 ## Tag.AcquisitionStatusRETIRED field

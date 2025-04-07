@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040E008 VRSQ VM1 Document Class Code Sequence.
 type: docs
 weight: 12520
-url: /aspose.medical.dicom.tags/tag/documentclasscodesequence/
+url: /net/aspose.medical.dicom.tags/tag/documentclasscodesequence/
 ---
 
 ## Tag.DocumentClassCodeSequence field

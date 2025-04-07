@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080427 VRUL VM1 Number of Study Records in Instance.
 type: docs
 weight: 26880
-url: /aspose.medical.dicom.tags/tag/numberofstudyrecordsininstance/
+url: /net/aspose.medical.dicom.tags/tag/numberofstudyrecordsininstance/
 ---
 
 ## Tag.NumberOfStudyRecordsInInstance field

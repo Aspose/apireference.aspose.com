@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400253 VRSH VM1 Performed Procedure Step ID.
 type: docs
 weight: 30670
-url: /aspose.medical.dicom.tags/tag/performedprocedurestepid/
+url: /net/aspose.medical.dicom.tags/tag/performedprocedurestepid/
 ---
 
 ## Tag.PerformedProcedureStepID field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686400 VRSQ VM1 Mating Feature Degree of Freedom Sequence.
 type: docs
 weight: 23770
-url: /aspose.medical.dicom.tags/tag/matingfeaturedegreeoffreedomsequence/
+url: /net/aspose.medical.dicom.tags/tag/matingfeaturedegreeoffreedomsequence/
 ---
 
 ## Tag.MatingFeatureDegreeOfFreedomSequence field

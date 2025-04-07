@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181183 VRDS VM1-2 X Focus Center.
 type: docs
 weight: 52660
-url: /aspose.medical.dicom.tags/tag/xfocuscenter/
+url: /net/aspose.medical.dicom.tags/tag/xfocuscenter/
 ---
 
 ## Tag.XFocusCenter field

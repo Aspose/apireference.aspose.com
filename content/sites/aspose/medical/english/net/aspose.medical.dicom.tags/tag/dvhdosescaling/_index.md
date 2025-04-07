@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30040052 VRDS VM1 DVH Dose Scaling.
 type: docs
 weight: 13070
-url: /aspose.medical.dicom.tags/tag/dvhdosescaling/
+url: /net/aspose.medical.dicom.tags/tag/dvhdosescaling/
 ---
 
 ## Tag.DVHDoseScaling field

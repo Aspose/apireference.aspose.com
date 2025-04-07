@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00540302 VRSQ VM1 Administration Route Code Sequence.
 type: docs
 weight: 940
-url: /aspose.medical.dicom.tags/tag/administrationroutecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/administrationroutecodesequence/
 ---
 
 ## Tag.AdministrationRouteCodeSequence field

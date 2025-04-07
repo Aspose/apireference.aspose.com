@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00541002 VRCS VM1 Counts Source.
 type: docs
 weight: 9050
-url: /aspose.medical.dicom.tags/tag/countssource/
+url: /net/aspose.medical.dicom.tags/tag/countssource/
 ---
 
 ## Tag.CountsSource field

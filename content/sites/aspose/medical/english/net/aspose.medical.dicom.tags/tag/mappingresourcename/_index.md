@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080122 VRLO VM1 Mapping Resource Name.
 type: docs
 weight: 23530
-url: /aspose.medical.dicom.tags/tag/mappingresourcename/
+url: /net/aspose.medical.dicom.tags/tag/mappingresourcename/
 ---
 
 ## Tag.MappingResourceName field

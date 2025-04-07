@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400560 VRSQ VM1 Specimen Description Sequence.
 type: docs
 weight: 44960
-url: /aspose.medical.dicom.tags/tag/specimendescriptionsequence/
+url: /net/aspose.medical.dicom.tags/tag/specimendescriptionsequence/
 ---
 
 ## Tag.SpecimenDescriptionSequence field

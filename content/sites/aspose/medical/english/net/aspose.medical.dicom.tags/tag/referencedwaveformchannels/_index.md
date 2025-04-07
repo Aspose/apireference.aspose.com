@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A0B0 VRUS VM2-2n Referenced Waveform Channels.
 type: docs
 weight: 37690
-url: /aspose.medical.dicom.tags/tag/referencedwaveformchannels/
+url: /net/aspose.medical.dicom.tags/tag/referencedwaveformchannels/
 ---
 
 ## Tag.ReferencedWaveformChannels field

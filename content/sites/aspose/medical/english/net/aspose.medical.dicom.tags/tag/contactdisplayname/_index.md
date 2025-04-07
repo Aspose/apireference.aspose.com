@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0074100C VRLO VM1 Contact Display Name.
 type: docs
 weight: 7690
-url: /aspose.medical.dicom.tags/tag/contactdisplayname/
+url: /net/aspose.medical.dicom.tags/tag/contactdisplayname/
 ---
 
 ## Tag.ContactDisplayName field

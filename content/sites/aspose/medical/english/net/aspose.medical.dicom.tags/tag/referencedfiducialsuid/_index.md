@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100031 VRUI VM1 Referenced Fiducials UID.
 type: docs
 weight: 36350
-url: /aspose.medical.dicom.tags/tag/referencedfiducialsuid/
+url: /net/aspose.medical.dicom.tags/tag/referencedfiducialsuid/
 ---
 
 ## Tag.ReferencedFiducialsUID field

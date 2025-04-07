@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440010 VRDT VM1 Substance Administration DateTime.
 type: docs
 weight: 46220
-url: /aspose.medical.dicom.tags/tag/substanceadministrationdatetime/
+url: /net/aspose.medical.dicom.tags/tag/substanceadministrationdatetime/
 ---
 
 ## Tag.SubstanceAdministrationDateTime field

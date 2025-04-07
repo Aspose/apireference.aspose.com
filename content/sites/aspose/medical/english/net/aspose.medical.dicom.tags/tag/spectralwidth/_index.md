@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189052 VRFD VM1-2 Spectral Width.
 type: docs
 weight: 45130
-url: /aspose.medical.dicom.tags/tag/spectralwidth/
+url: /net/aspose.medical.dicom.tags/tag/spectralwidth/
 ---
 
 ## Tag.SpectralWidth field

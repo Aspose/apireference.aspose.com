@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00741030 VRSQ VM1 Delivery Verification Image Sequence.
 type: docs
 weight: 10690
-url: /aspose.medical.dicom.tags/tag/deliveryverificationimagesequence/
+url: /net/aspose.medical.dicom.tags/tag/deliveryverificationimagesequence/
 ---
 
 ## Tag.DeliveryVerificationImageSequence field

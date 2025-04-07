@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140100 VRLO VM1-n Component Welder IDs RETIRED.
 type: docs
 weight: 7070
-url: /aspose.medical.dicom.tags/tag/componentwelderidsretired/
+url: /net/aspose.medical.dicom.tags/tag/componentwelderidsretired/
 ---
 
 ## Tag.ComponentWelderIDsRETIRED field

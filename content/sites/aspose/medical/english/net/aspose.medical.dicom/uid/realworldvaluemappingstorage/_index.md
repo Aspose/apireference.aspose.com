@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Real World Value Mapping Storage.
 type: docs
 weight: 3880
-url: /aspose.medical.dicom/uid/realworldvaluemappingstorage/
+url: /net/aspose.medical.dicom/uid/realworldvaluemappingstorage/
 ---
 
 ## Uid.RealWorldValueMappingStorage field

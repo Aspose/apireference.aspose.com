@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014409A VRSQ VM1 Scanner Settings Sequence RETIRED.
 type: docs
 weight: 41020
-url: /aspose.medical.dicom.tags/tag/scannersettingssequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/scannersettingssequenceretired/
 ---
 
 ## Tag.ScannerSettingsSequenceRETIRED field

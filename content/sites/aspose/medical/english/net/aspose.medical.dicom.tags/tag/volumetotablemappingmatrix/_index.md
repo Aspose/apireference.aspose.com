@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0020930A VRFD VM16 Volume to Table Mapping Matrix.
 type: docs
 weight: 51670
-url: /aspose.medical.dicom.tags/tag/volumetotablemappingmatrix/
+url: /net/aspose.medical.dicom.tags/tag/volumetotablemappingmatrix/
 ---
 
 ## Tag.VolumeToTableMappingMatrix field

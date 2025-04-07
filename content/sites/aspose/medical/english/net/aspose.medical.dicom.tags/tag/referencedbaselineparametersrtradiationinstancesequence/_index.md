@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002011E VRSQ VM1 Referenced Baseline Parameters RT Radiation Instance Sequence.
 type: docs
 weight: 36000
-url: /aspose.medical.dicom.tags/tag/referencedbaselineparametersrtradiationinstancesequence/
+url: /net/aspose.medical.dicom.tags/tag/referencedbaselineparametersrtradiationinstancesequence/
 ---
 
 ## Tag.ReferencedBaselineParametersRTRadiationInstanceSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189724 VRFD VM1 Termination Respiratory Trigger Count Threshold.
 type: docs
 weight: 47720
-url: /aspose.medical.dicom.tags/tag/terminationrespiratorytriggercountthreshold/
+url: /net/aspose.medical.dicom.tags/tag/terminationrespiratorytriggercountthreshold/
 ---
 
 ## Tag.TerminationRespiratoryTriggerCountThreshold field

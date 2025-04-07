@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145112 VRDS VM1 Nominal Beam Angle RETIRED.
 type: docs
 weight: 25730
-url: /aspose.medical.dicom.tags/tag/nominalbeamangleretired/
+url: /net/aspose.medical.dicom.tags/tag/nominalbeamangleretired/
 ---
 
 ## Tag.NominalBeamAngleRETIRED field

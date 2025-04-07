@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400515 VRSQ VM1 Alternate Container Identifier Sequence.
 type: docs
 weight: 1360
-url: /aspose.medical.dicom.tags/tag/alternatecontaineridentifiersequence/
+url: /net/aspose.medical.dicom.tags/tag/alternatecontaineridentifiersequence/
 ---
 
 ## Tag.AlternateContainerIdentifierSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181205 VRDA VM1 Date of Installation.
 type: docs
 weight: 10070
-url: /aspose.medical.dicom.tags/tag/dateofinstallation/
+url: /net/aspose.medical.dicom.tags/tag/dateofinstallation/
 ---
 
 ## Tag.DateOfInstallation field

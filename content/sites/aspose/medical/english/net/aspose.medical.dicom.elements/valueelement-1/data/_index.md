@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Data of the element. Read-only IReadOnlyCollection of T.
 type: docs
 weight: 20
-url: /aspose.medical.dicom.elements/valueelement-1/data/
+url: /net/aspose.medical.dicom.elements/valueelement-1/data/
 ---
 
 ## ValueElement&lt;T&gt;.Data property

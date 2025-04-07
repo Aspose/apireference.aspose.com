@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280060 VRCS VM1 Compression Code RETIRED.
 type: docs
 weight: 7130
-url: /aspose.medical.dicom.tags/tag/compressioncoderetired/
+url: /net/aspose.medical.dicom.tags/tag/compressioncoderetired/
 ---
 
 ## Tag.CompressionCodeRETIRED field

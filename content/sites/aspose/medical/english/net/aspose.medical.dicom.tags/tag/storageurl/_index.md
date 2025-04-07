@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00404073 VRUR VM1 Storage URL.
 type: docs
 weight: 45680
-url: /aspose.medical.dicom.tags/tag/storageurl/
+url: /net/aspose.medical.dicom.tags/tag/storageurl/
 ---
 
 ## Tag.StorageURL field

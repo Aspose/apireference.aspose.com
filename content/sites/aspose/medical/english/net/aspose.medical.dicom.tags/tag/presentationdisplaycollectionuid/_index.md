@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701101 VRUI VM1 Presentation Display Collection UID.
 type: docs
 weight: 32520
-url: /aspose.medical.dicom.tags/tag/presentationdisplaycollectionuid/
+url: /net/aspose.medical.dicom.tags/tag/presentationdisplaycollectionuid/
 ---
 
 ## Tag.PresentationDisplayCollectionUID field

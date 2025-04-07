@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181073 VRTM VM1 Radiopharmaceutical Stop Time.
 type: docs
 weight: 34680
-url: /aspose.medical.dicom.tags/tag/radiopharmaceuticalstoptime/
+url: /net/aspose.medical.dicom.tags/tag/radiopharmaceuticalstoptime/
 ---
 
 ## Tag.RadiopharmaceuticalStopTime field

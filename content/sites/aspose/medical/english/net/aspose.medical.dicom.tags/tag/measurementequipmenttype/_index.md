@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287014 VRCS VM1 Measurement Equipment Type.
 type: docs
 weight: 24220
-url: /aspose.medical.dicom.tags/tag/measurementequipmenttype/
+url: /net/aspose.medical.dicom.tags/tag/measurementequipmenttype/
 ---
 
 ## Tag.MeasurementEquipmentType field

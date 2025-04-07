@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00102293 VRSQ VM1 Patient Breed Code Sequence.
 type: docs
 weight: 29760
-url: /aspose.medical.dicom.tags/tag/patientbreedcodesequence/
+url: /net/aspose.medical.dicom.tags/tag/patientbreedcodesequence/
 ---
 
 ## Tag.PatientBreedCodeSequence field

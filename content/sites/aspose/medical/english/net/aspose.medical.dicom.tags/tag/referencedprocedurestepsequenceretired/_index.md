@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400330 VRSQ VM1 Referenced Procedure Step Sequence RETIRED.
 type: docs
 weight: 36990
-url: /aspose.medical.dicom.tags/tag/referencedprocedurestepsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/referencedprocedurestepsequenceretired/
 ---
 
 ## Tag.ReferencedProcedureStepSequenceRETIRED field

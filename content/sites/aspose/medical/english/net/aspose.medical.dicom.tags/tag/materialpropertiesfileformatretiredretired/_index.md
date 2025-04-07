@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00140045 VRST VM1 Material Properties File Format Retired RETIRED.
 type: docs
 weight: 23740
-url: /aspose.medical.dicom.tags/tag/materialpropertiesfileformatretiredretired/
+url: /net/aspose.medical.dicom.tags/tag/materialpropertiesfileformatretiredretired/
 ---
 
 ## Tag.MaterialPropertiesFileFormatRetiredRETIRED field

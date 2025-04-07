@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189903 VRSQ VM1 Reference Geometry Code Sequence.
 type: docs
 weight: 37740
-url: /aspose.medical.dicom.tags/tag/referencegeometrycodesequence/
+url: /net/aspose.medical.dicom.tags/tag/referencegeometrycodesequence/
 ---
 
 ## Tag.ReferenceGeometryCodeSequence field

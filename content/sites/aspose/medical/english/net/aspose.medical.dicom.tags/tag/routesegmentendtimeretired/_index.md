@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 40101026 VRDT VM1 Route Segment End Time RETIRED.
 type: docs
 weight: 39730
-url: /aspose.medical.dicom.tags/tag/routesegmentendtimeretired/
+url: /net/aspose.medical.dicom.tags/tag/routesegmentendtimeretired/
 ---
 
 ## Tag.RouteSegmentEndTimeRETIRED field

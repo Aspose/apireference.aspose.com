@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00146025 VRST VM1-n Data Streaming Protocol RETIRED.
 type: docs
 weight: 10010
-url: /aspose.medical.dicom.tags/tag/datastreamingprotocolretired/
+url: /net/aspose.medical.dicom.tags/tag/datastreamingprotocolretired/
 ---
 
 ## Tag.DataStreamingProtocolRETIRED field

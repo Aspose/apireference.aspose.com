@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181152 VRIS VM1 Exposure.
 type: docs
 weight: 14430
-url: /aspose.medical.dicom.tags/tag/exposure/
+url: /net/aspose.medical.dicom.tags/tag/exposure/
 ---
 
 ## Tag.Exposure field

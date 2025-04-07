@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0022001D VRSQ VM1 Relative Image Position Code Sequence.
 type: docs
 weight: 38310
-url: /aspose.medical.dicom.tags/tag/relativeimagepositioncodesequence/
+url: /net/aspose.medical.dicom.tags/tag/relativeimagepositioncodesequence/
 ---
 
 ## Tag.RelativeImagePositionCodeSequence field

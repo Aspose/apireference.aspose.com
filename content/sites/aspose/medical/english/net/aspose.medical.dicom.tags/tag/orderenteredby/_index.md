@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00402008 VRPN VM1 Order Entered By.
 type: docs
 weight: 28380
-url: /aspose.medical.dicom.tags/tag/orderenteredby/
+url: /net/aspose.medical.dicom.tags/tag/orderenteredby/
 ---
 
 ## Tag.OrderEnteredBy field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189621 VRSQ VM1 Functional MR Sequence.
 type: docs
 weight: 16880
-url: /aspose.medical.dicom.tags/tag/functionalmrsequence/
+url: /net/aspose.medical.dicom.tags/tag/functionalmrsequence/
 ---
 
 ## Tag.FunctionalMRSequence field

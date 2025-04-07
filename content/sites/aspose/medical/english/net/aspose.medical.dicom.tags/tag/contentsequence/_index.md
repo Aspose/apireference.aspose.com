@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A730 VRSQ VM1 Content Sequence.
 type: docs
 weight: 7920
-url: /aspose.medical.dicom.tags/tag/contentsequence/
+url: /net/aspose.medical.dicom.tags/tag/contentsequence/
 ---
 
 ## Tag.ContentSequence field

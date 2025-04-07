@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 002000AA VRIS VM1 Report Number RETIRED.
 type: docs
 weight: 38550
-url: /aspose.medical.dicom.tags/tag/reportnumberretired/
+url: /net/aspose.medical.dicom.tags/tag/reportnumberretired/
 ---
 
 ## Tag.ReportNumberRETIRED field

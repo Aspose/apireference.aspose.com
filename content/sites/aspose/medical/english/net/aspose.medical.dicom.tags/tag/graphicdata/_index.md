@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700022 VRFL VM2-n Graphic Data.
 type: docs
 weight: 17790
-url: /aspose.medical.dicom.tags/tag/graphicdata/
+url: /net/aspose.medical.dicom.tags/tag/graphicdata/
 ---
 
 ## Tag.GraphicData field

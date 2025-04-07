@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00460076 VRFD VM1 Keratometric Power.
 type: docs
 weight: 22090
-url: /aspose.medical.dicom.tags/tag/keratometricpower/
+url: /net/aspose.medical.dicom.tags/tag/keratometricpower/
 ---
 
 ## Tag.KeratometricPower field

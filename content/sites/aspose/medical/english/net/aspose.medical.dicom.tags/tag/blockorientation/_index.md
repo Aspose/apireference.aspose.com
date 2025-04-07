@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A066C VRCS VM1 Block Orientation.
 type: docs
 weight: 4090
-url: /aspose.medical.dicom.tags/tag/blockorientation/
+url: /net/aspose.medical.dicom.tags/tag/blockorientation/
 ---
 
 ## Tag.BlockOrientation field

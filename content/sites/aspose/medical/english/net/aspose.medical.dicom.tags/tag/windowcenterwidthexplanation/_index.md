@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281055 VRLO VM1-n Window Center amp Width Explanation.
 type: docs
 weight: 52550
-url: /aspose.medical.dicom.tags/tag/windowcenterwidthexplanation/
+url: /net/aspose.medical.dicom.tags/tag/windowcenterwidthexplanation/
 ---
 
 ## Tag.WindowCenterWidthExplanation field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00700005 VRCS VM1 Graphic Annotation Units.
 type: docs
 weight: 17770
-url: /aspose.medical.dicom.tags/tag/graphicannotationunits/
+url: /net/aspose.medical.dicom.tags/tag/graphicannotationunits/
 ---
 
 ## Tag.GraphicAnnotationUnits field

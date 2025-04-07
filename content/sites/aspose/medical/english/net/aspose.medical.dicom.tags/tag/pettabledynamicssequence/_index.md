@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189734 VRSQ VM1 PET Table Dynamics Sequence.
 type: docs
 weight: 31060
-url: /aspose.medical.dicom.tags/tag/pettabledynamicssequence/
+url: /net/aspose.medical.dicom.tags/tag/pettabledynamicssequence/
 ---
 
 ## Tag.PETTableDynamicsSequence field

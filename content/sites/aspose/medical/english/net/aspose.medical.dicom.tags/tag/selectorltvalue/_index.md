@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00720068 VRLT VM1 Selector LT Value.
 type: docs
 weight: 42450
-url: /aspose.medical.dicom.tags/tag/selectorltvalue/
+url: /net/aspose.medical.dicom.tags/tag/selectorltvalue/
 ---
 
 ## Tag.SelectorLTValue field

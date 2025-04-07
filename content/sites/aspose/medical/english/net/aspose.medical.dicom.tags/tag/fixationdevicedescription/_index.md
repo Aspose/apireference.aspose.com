@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0196 VRST VM1 Fixation Device Description.
 type: docs
 weight: 15640
-url: /aspose.medical.dicom.tags/tag/fixationdevicedescription/
+url: /net/aspose.medical.dicom.tags/tag/fixationdevicedescription/
 ---
 
 ## Tag.FixationDeviceDescription field

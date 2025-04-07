@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00143022 VRST VM1 Sensor Name RETIRED.
 type: docs
 weight: 42790
-url: /aspose.medical.dicom.tags/tag/sensornameretired/
+url: /net/aspose.medical.dicom.tags/tag/sensornameretired/
 ---
 
 ## Tag.SensorNameRETIRED field

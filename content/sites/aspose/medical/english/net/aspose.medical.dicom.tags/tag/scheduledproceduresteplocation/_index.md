@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400011 VRSH VM1 Scheduled Procedure Step Location.
 type: docs
 weight: 41400
-url: /aspose.medical.dicom.tags/tag/scheduledproceduresteplocation/
+url: /net/aspose.medical.dicom.tags/tag/scheduledproceduresteplocation/
 ---
 
 ## Tag.ScheduledProcedureStepLocation field

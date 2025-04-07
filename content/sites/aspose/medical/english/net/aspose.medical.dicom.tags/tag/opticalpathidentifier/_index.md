@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480106 VRSH VM1 Optical Path Identifier.
 type: docs
 weight: 28290
-url: /aspose.medical.dicom.tags/tag/opticalpathidentifier/
+url: /net/aspose.medical.dicom.tags/tag/opticalpathidentifier/
 ---
 
 ## Tag.OpticalPathIdentifier field

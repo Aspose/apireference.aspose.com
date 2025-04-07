@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160025 VRDS VM1 Max Aperture Value.
 type: docs
 weight: 23860
-url: /aspose.medical.dicom.tags/tag/maxaperturevalue/
+url: /net/aspose.medical.dicom.tags/tag/maxaperturevalue/
 ---
 
 ## Tag.MaxApertureValue field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00089123 VRUI VM1 Creator-Version UID.
 type: docs
 weight: 9130
-url: /aspose.medical.dicom.tags/tag/creatorversionuid/
+url: /net/aspose.medical.dicom.tags/tag/creatorversionuid/
 ---
 
 ## Tag.CreatorVersionUID field

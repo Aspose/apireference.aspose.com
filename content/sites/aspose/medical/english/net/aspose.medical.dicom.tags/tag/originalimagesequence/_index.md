@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 213000C0 VRSQ VM1 Original Image Sequence.
 type: docs
 weight: 28530
-url: /aspose.medical.dicom.tags/tag/originalimagesequence/
+url: /net/aspose.medical.dicom.tags/tag/originalimagesequence/
 ---
 
 ## Tag.OriginalImageSequence field

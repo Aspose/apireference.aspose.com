@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00480102 VRDS VM6 Image Orientation Slide.
 type: docs
 weight: 19280
-url: /aspose.medical.dicom.tags/tag/imageorientationslide/
+url: /net/aspose.medical.dicom.tags/tag/imageorientationslide/
 ---
 
 ## Tag.ImageOrientationSlide field

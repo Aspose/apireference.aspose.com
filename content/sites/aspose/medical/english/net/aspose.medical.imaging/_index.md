@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
 weight: 190
-url: /aspose.medical.imaging/
+url: /net/aspose.medical.imaging/
 ---
 
 

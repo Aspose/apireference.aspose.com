@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0104 VRIS VM1 Block Number of Points.
 type: docs
 weight: 4080
-url: /aspose.medical.dicom.tags/tag/blocknumberofpoints/
+url: /net/aspose.medical.dicom.tags/tag/blocknumberofpoints/
 ---
 
 ## Tag.BlockNumberOfPoints field

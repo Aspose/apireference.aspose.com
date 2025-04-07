@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A02E6 VRFL VM1-n Isocenter to Compensator Distances.
 type: docs
 weight: 21640
-url: /aspose.medical.dicom.tags/tag/isocentertocompensatordistances/
+url: /net/aspose.medical.dicom.tags/tag/isocentertocompensatordistances/
 ---
 
 ## Tag.IsocenterToCompensatorDistances field

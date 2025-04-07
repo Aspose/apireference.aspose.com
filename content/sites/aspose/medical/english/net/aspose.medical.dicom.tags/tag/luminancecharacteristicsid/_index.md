@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287009 VRUS VM1 Luminance Characteristics ID.
 type: docs
 weight: 23130
-url: /aspose.medical.dicom.tags/tag/luminancecharacteristicsid/
+url: /net/aspose.medical.dicom.tags/tag/luminancecharacteristicsid/
 ---
 
 ## Tag.LuminanceCharacteristicsID field

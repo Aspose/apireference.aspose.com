@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181136 VRDS VM1-n Table Lateral Increment.
 type: docs
 weight: 46800
-url: /aspose.medical.dicom.tags/tag/tablelateralincrement/
+url: /net/aspose.medical.dicom.tags/tag/tablelateralincrement/
 ---
 
 ## Tag.TableLateralIncrement field

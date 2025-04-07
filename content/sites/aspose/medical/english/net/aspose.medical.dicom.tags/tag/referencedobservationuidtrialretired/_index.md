@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A172 VRUI VM1 Referenced Observation UID Trial RETIRED.
 type: docs
 weight: 36720
-url: /aspose.medical.dicom.tags/tag/referencedobservationuidtrialretired/
+url: /net/aspose.medical.dicom.tags/tag/referencedobservationuidtrialretired/
 ---
 
 ## Tag.ReferencedObservationUIDTrialRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189177 VRCS VM1 Operating Mode Type.
 type: docs
 weight: 27750
-url: /aspose.medical.dicom.tags/tag/operatingmodetype/
+url: /net/aspose.medical.dicom.tags/tag/operatingmodetype/
 ---
 
 ## Tag.OperatingModeType field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189938 VRUS VM1-n Source Acquisition Protocol Element Number.
 type: docs
 weight: 43950
-url: /aspose.medical.dicom.tags/tag/sourceacquisitionprotocolelementnumber/
+url: /net/aspose.medical.dicom.tags/tag/sourceacquisitionprotocolelementnumber/
 ---
 
 ## Tag.SourceAcquisitionProtocolElementNumber field

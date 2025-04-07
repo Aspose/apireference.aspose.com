@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181062 VRIS VM1 Nominal Interval.
 type: docs
 weight: 25800
-url: /aspose.medical.dicom.tags/tag/nominalinterval/
+url: /net/aspose.medical.dicom.tags/tag/nominalinterval/
 ---
 
 ## Tag.NominalInterval field

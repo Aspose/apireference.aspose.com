@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20100050 VRCS VM1 Film Size ID.
 type: docs
 weight: 15280
-url: /aspose.medical.dicom.tags/tag/filmsizeid/
+url: /net/aspose.medical.dicom.tags/tag/filmsizeid/
 ---
 
 ## Tag.FilmSizeID field

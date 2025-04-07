@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00281053 VRDS VM1 Rescale Slope.
 type: docs
 weight: 38900
-url: /aspose.medical.dicom.tags/tag/rescaleslope/
+url: /net/aspose.medical.dicom.tags/tag/rescaleslope/
 ---
 
 ## Tag.RescaleSlope field

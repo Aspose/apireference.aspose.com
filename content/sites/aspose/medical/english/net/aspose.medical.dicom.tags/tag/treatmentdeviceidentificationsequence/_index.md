@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A063A VRSQ VM1 Treatment Device Identification Sequence.
 type: docs
 weight: 49640
-url: /aspose.medical.dicom.tags/tag/treatmentdeviceidentificationsequence/
+url: /net/aspose.medical.dicom.tags/tag/treatmentdeviceidentificationsequence/
 ---
 
 ## Tag.TreatmentDeviceIdentificationSequence field

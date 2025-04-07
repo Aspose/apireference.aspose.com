@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Pixel data describe a color image with a single sample per pixel single image plane. The pixel value is used as an index into each of the Red Blue and Green Palette Color Lookup Tables 00281101-1103 amp 1201-1203. This value may be used only when Samples per Pixel 00280002 has a value of 1. When the Photometric Interpretation is Palette Color Red Blue and Green Palette Color Lookup Tables shall be present. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_c.7.6.3.htmlsect_C.7.6.3.1.2textin20PS3.520.-PALETTE20COLOR-Pixel20data20describe. Read-only PhotometricInterpretationaspose.medical.dicom.imaging/photometricinterpretation.
 type: docs
 weight: 30
-url: /aspose.medical.dicom.imaging/photometricinterpretation/palettecolor/
+url: /net/aspose.medical.dicom.imaging/photometricinterpretation/palettecolor/
 ---
 
 ## PhotometricInterpretation.PaletteColor property

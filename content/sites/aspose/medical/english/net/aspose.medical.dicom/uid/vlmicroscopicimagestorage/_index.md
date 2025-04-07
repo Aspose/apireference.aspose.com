@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class VL Microscopic Image Storage.
 type: docs
 weight: 5010
-url: /aspose.medical.dicom/uid/vlmicroscopicimagestorage/
+url: /net/aspose.medical.dicom/uid/vlmicroscopicimagestorage/
 ---
 
 ## Uid.VLMicroscopicImageStorage field

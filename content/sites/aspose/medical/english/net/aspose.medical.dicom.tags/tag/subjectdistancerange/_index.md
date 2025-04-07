@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016004C VRUS VM1 Subject Distance Range.
 type: docs
 weight: 46150
-url: /aspose.medical.dicom.tags/tag/subjectdistancerange/
+url: /net/aspose.medical.dicom.tags/tag/subjectdistancerange/
 ---
 
 ## Tag.SubjectDistanceRange field

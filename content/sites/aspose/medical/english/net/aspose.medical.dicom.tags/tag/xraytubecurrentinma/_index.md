@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189330 VRFD VM1 X-Ray Tube Current in mA.
 type: docs
 weight: 52890
-url: /aspose.medical.dicom.tags/tag/xraytubecurrentinma/
+url: /net/aspose.medical.dicom.tags/tag/xraytubecurrentinma/
 ---
 
 ## Tag.XRayTubeCurrentInmA field

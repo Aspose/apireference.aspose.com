@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00800008 VRSQ VM1 UV Mapping Sequence.
 type: docs
 weight: 50690
-url: /aspose.medical.dicom.tags/tag/uvmappingsequence/
+url: /net/aspose.medical.dicom.tags/tag/uvmappingsequence/
 ---
 
 ## Tag.UVMappingSequence field

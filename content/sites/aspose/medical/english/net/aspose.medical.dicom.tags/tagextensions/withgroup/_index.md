@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Creates a new instance of the Tagaspose.medical.dicom.tags/tag with the Groupaspose.medical.dicom.tags/tag/group equal to the given group and Elementaspose.medical.dicom.tags/tag/element equal to the given tags Elementaspose.medical.dicom.tags/tag/element.
 type: docs
 weight: 10
-url: /aspose.medical.dicom.tags/tagextensions/withgroup/
+url: /net/aspose.medical.dicom.tags/tagextensions/withgroup/
 ---
 
 ## TagExtensions.WithGroup method

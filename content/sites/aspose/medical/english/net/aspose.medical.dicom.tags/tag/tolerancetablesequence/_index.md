@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0040 VRSQ VM1 Tolerance Table Sequence.
 type: docs
 weight: 48670
-url: /aspose.medical.dicom.tags/tag/tolerancetablesequence/
+url: /net/aspose.medical.dicom.tags/tag/tolerancetablesequence/
 ---
 
 ## Tag.ToleranceTableSequence field

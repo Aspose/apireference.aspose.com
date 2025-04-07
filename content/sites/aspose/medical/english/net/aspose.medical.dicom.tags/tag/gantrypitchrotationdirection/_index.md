@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A014C VRCS VM1 Gantry Pitch Rotation Direction.
 type: docs
 weight: 17020
-url: /aspose.medical.dicom.tags/tag/gantrypitchrotationdirection/
+url: /net/aspose.medical.dicom.tags/tag/gantrypitchrotationdirection/
 ---
 
 ## Tag.GantryPitchRotationDirection field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30100020 VRUS VM1 Referenced Segment Reference Index.
 type: docs
 weight: 37320
-url: /aspose.medical.dicom.tags/tag/referencedsegmentreferenceindex/
+url: /net/aspose.medical.dicom.tags/tag/referencedsegmentreferenceindex/
 ---
 
 ## Tag.ReferencedSegmentReferenceIndex field

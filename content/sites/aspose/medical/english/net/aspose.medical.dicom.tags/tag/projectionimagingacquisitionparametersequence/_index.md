@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30020125 VRSQ VM1 Projection Imaging Acquisition Parameter Sequence.
 type: docs
 weight: 33590
-url: /aspose.medical.dicom.tags/tag/projectionimagingacquisitionparametersequence/
+url: /net/aspose.medical.dicom.tags/tag/projectionimagingacquisitionparametersequence/
 ---
 
 ## Tag.ProjectionImagingAcquisitionParameterSequence field

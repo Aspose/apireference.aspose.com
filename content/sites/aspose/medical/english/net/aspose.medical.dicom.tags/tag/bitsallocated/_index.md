@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00280100 VRUS VM1 Bits Allocated.
 type: docs
 weight: 3750
-url: /aspose.medical.dicom.tags/tag/bitsallocated/
+url: /net/aspose.medical.dicom.tags/tag/bitsallocated/
 ---
 
 ## Tag.BitsAllocated field

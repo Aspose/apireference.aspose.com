@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018925D VRSQ VM1 ASL Bolus Cut-off Timing Sequence.
 type: docs
 weight: 2380
-url: /aspose.medical.dicom.tags/tag/aslboluscutofftimingsequence/
+url: /net/aspose.medical.dicom.tags/tag/aslboluscutofftimingsequence/
 ---
 
 ## Tag.ASLBolusCutoffTimingSequence field

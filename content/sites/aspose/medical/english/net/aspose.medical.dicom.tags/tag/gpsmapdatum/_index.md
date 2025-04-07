@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00160082 VRUT VM1 GPS Map Datum.
 type: docs
 weight: 17620
-url: /aspose.medical.dicom.tags/tag/gpsmapdatum/
+url: /net/aspose.medical.dicom.tags/tag/gpsmapdatum/
 ---
 
 ## Tag.GPSMapDatum field

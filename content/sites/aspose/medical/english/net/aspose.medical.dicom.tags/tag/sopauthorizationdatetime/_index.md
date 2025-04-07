@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 01000420 VRDT VM1 SOP Authorization DateTime.
 type: docs
 weight: 43820
-url: /aspose.medical.dicom.tags/tag/sopauthorizationdatetime/
+url: /net/aspose.medical.dicom.tags/tag/sopauthorizationdatetime/
 ---
 
 ## Tag.SOPAuthorizationDateTime field

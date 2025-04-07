@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400281 VRSQ VM1 Performed Procedure Step Discontinuation Reason Code Sequence.
 type: docs
 weight: 30630
-url: /aspose.medical.dicom.tags/tag/performedprocedurestepdiscontinuationreasoncodesequence/
+url: /net/aspose.medical.dicom.tags/tag/performedprocedurestepdiscontinuationreasoncodesequence/
 ---
 
 ## Tag.PerformedProcedureStepDiscontinuationReasonCodeSequence field

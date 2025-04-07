@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 22000005 VRLT VM1 Barcode Value.
 type: docs
 weight: 3200
-url: /aspose.medical.dicom.tags/tag/barcodevalue/
+url: /net/aspose.medical.dicom.tags/tag/barcodevalue/
 ---
 
 ## Tag.BarcodeValue field

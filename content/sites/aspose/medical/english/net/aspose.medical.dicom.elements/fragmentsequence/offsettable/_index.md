@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: The fragment offset table. Read-only UInt32.
 type: docs
 weight: 40
-url: /aspose.medical.dicom.elements/fragmentsequence/offsettable/
+url: /net/aspose.medical.dicom.elements/fragmentsequence/offsettable/
 ---
 
 ## FragmentSequence.OffsetTable property

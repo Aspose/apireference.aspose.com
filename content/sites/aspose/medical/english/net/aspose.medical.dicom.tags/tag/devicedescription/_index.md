@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00500020 VRLO VM1 Device Description.
 type: docs
 weight: 11300
-url: /aspose.medical.dicom.tags/tag/devicedescription/
+url: /net/aspose.medical.dicom.tags/tag/devicedescription/
 ---
 
 ## Tag.DeviceDescription field

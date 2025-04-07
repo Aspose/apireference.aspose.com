@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00400252 VRCS VM1 Performed Procedure Step Status.
 type: docs
 weight: 30710
-url: /aspose.medical.dicom.tags/tag/performedprocedurestepstatus/
+url: /net/aspose.medical.dicom.tags/tag/performedprocedurestepstatus/
 ---
 
 ## Tag.PerformedProcedureStepStatus field

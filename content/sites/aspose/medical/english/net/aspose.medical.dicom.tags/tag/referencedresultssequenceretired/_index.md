@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081100 VRSQ VM1 Referenced Results Sequence RETIRED.
 type: docs
 weight: 37130
-url: /aspose.medical.dicom.tags/tag/referencedresultssequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/referencedresultssequenceretired/
 ---
 
 ## Tag.ReferencedResultsSequenceRETIRED field

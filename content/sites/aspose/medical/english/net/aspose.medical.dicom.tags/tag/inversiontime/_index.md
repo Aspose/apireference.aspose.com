@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00180082 VRDS VM1 Inversion Time.
 type: docs
 weight: 21380
-url: /aspose.medical.dicom.tags/tag/inversiontime/
+url: /net/aspose.medical.dicom.tags/tag/inversiontime/
 ---
 
 ## Tag.InversionTime field

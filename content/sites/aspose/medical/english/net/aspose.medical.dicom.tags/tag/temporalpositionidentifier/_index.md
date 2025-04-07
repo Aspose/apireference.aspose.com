@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00200100 VRIS VM1 Temporal Position Identifier.
 type: docs
 weight: 47600
-url: /aspose.medical.dicom.tags/tag/temporalpositionidentifier/
+url: /net/aspose.medical.dicom.tags/tag/temporalpositionidentifier/
 ---
 
 ## Tag.TemporalPositionIdentifier field

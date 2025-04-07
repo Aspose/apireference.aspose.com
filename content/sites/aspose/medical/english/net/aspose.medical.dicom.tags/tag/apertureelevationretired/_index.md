@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145102 VRDS VM1 Aperture Elevation RETIRED.
 type: docs
 weight: 1980
-url: /aspose.medical.dicom.tags/tag/apertureelevationretired/
+url: /net/aspose.medical.dicom.tags/tag/apertureelevationretired/
 ---
 
 ## Tag.ApertureElevationRETIRED field

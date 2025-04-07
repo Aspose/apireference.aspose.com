@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0018604A VRUL VM1 Pixel Component Range Stop.
 type: docs
 weight: 31380
-url: /aspose.medical.dicom.tags/tag/pixelcomponentrangestop/
+url: /net/aspose.medical.dicom.tags/tag/pixelcomponentrangestop/
 ---
 
 ## Tag.PixelComponentRangeStop field

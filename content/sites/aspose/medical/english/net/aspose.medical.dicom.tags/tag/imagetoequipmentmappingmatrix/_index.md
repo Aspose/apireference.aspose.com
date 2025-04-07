@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289520 VRDS VM16 Image to Equipment Mapping Matrix.
 type: docs
 weight: 19580
-url: /aspose.medical.dicom.tags/tag/imagetoequipmentmappingmatrix/
+url: /net/aspose.medical.dicom.tags/tag/imagetoequipmentmappingmatrix/
 ---
 
 ## Tag.ImageToEquipmentMappingMatrix field

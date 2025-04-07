@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Provide extension methods for Tag./tag.
 type: docs
 weight: 950
-url: /aspose.medical.dicom.tags/tagextensions/
+url: /net/aspose.medical.dicom.tags/tagextensions/
 ---
 
 ## TagExtensions class

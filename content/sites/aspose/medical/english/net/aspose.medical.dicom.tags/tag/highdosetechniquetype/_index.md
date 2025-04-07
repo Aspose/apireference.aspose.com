@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A00C7 VRCS VM1 High-Dose Technique Type.
 type: docs
 weight: 18310
-url: /aspose.medical.dicom.tags/tag/highdosetechniquetype/
+url: /net/aspose.medical.dicom.tags/tag/highdosetechniquetype/
 ---
 
 ## Tag.HighDoseTechniqueType field

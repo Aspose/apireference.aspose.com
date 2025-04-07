@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00120083 VRSQ VM1 Consent for Clinical Trial Use Sequence.
 type: docs
 weight: 7580
-url: /aspose.medical.dicom.tags/tag/consentforclinicaltrialusesequence/
+url: /net/aspose.medical.dicom.tags/tag/consentforclinicaltrialusesequence/
 ---
 
 ## Tag.ConsentForClinicalTrialUseSequence field

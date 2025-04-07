@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189126 VRSQ VM1 Volume Localization Sequence.
 type: docs
 weight: 51630
-url: /aspose.medical.dicom.tags/tag/volumelocalizationsequence/
+url: /net/aspose.medical.dicom.tags/tag/volumelocalizationsequence/
 ---
 
 ## Tag.VolumeLocalizationSequence field

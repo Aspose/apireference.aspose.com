@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00081167 VRUI VM1 Multi-frame Source SOP Instance UID.
 type: docs
 weight: 25510
-url: /aspose.medical.dicom.tags/tag/multiframesourcesopinstanceuid/
+url: /net/aspose.medical.dicom.tags/tag/multiframesourcesopinstanceuid/
 ---
 
 ## Tag.MultiFrameSourceSOPInstanceUID field

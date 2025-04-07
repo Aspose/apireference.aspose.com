@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701702 VRFD VM1 Ambient Reflection Intensity.
 type: docs
 weight: 1410
-url: /aspose.medical.dicom.tags/tag/ambientreflectionintensity/
+url: /net/aspose.medical.dicom.tags/tag/ambientreflectionintensity/
 ---
 
 ## Tag.AmbientReflectionIntensity field

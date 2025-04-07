@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0014603E VRSQ VM1 Vibration/Sonic Heating Sequence RETIRED.
 type: docs
 weight: 51130
-url: /aspose.medical.dicom.tags/tag/vibrationsonicheatingsequenceretired/
+url: /net/aspose.medical.dicom.tags/tag/vibrationsonicheatingsequenceretired/
 ---
 
 ## Tag.VibrationSonicHeatingSequenceRETIRED field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00080413 VRSQ VM1 General Matching Sequence.
 type: docs
 weight: 17220
-url: /aspose.medical.dicom.tags/tag/generalmatchingsequence/
+url: /net/aspose.medical.dicom.tags/tag/generalmatchingsequence/
 ---
 
 ## Tag.GeneralMatchingSequence field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00289444 VRCS VM1 Geometrical Properties.
 type: docs
 weight: 17320
-url: /aspose.medical.dicom.tags/tag/geometricalproperties/
+url: /net/aspose.medical.dicom.tags/tag/geometricalproperties/
 ---
 
 ## Tag.GeometricalProperties field

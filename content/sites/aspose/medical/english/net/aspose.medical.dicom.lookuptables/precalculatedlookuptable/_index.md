@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Fake Look-Up table used to minimize number of recalculations.
 type: docs
 weight: 830
-url: /aspose.medical.dicom.lookuptables/precalculatedlookuptable/
+url: /net/aspose.medical.dicom.lookuptables/precalculatedlookuptable/
 ---
 
 ## PrecalculatedLookUpTable class

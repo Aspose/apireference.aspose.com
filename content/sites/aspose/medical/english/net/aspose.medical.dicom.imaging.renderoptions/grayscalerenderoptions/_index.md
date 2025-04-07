@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Represents options that controls rendering process of grayscale images.
 type: docs
 weight: 720
-url: /aspose.medical.dicom.imaging.renderoptions/grayscalerenderoptions/
+url: /net/aspose.medical.dicom.imaging.renderoptions/grayscalerenderoptions/
 ---
 
 ## GrayscaleRenderOptions class

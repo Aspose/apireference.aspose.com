@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0600 VRUS VM1 RT Control Point Index.
 type: docs
 weight: 40050
-url: /aspose.medical.dicom.tags/tag/rtcontrolpointindex/
+url: /net/aspose.medical.dicom.tags/tag/rtcontrolpointindex/
 ---
 
 ## Tag.RTControlPointIndex field

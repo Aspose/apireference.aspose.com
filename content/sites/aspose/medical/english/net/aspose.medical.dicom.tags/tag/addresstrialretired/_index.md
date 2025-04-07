@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A353 VRST VM1 Address Trial RETIRED.
 type: docs
 weight: 930
-url: /aspose.medical.dicom.tags/tag/addresstrialretired/
+url: /net/aspose.medical.dicom.tags/tag/addresstrialretired/
 ---
 
 ## Tag.AddressTrialRETIRED field

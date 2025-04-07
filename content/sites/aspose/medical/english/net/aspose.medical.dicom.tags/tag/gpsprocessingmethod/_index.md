@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0016008B VROB VM1 GPS Processing Method.
 type: docs
 weight: 17640
-url: /aspose.medical.dicom.tags/tag/gpsprocessingmethod/
+url: /net/aspose.medical.dicom.tags/tag/gpsprocessingmethod/
 ---
 
 ## Tag.GPSProcessingMethod field

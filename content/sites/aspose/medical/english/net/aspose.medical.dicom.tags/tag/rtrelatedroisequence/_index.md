@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060030 VRSQ VM1 RT Related ROI Sequence.
 type: docs
 weight: 40550
-url: /aspose.medical.dicom.tags/tag/rtrelatedroisequence/
+url: /net/aspose.medical.dicom.tags/tag/rtrelatedroisequence/
 ---
 
 ## Tag.RTRelatedROISequence field

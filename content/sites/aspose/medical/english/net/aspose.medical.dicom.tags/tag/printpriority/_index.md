@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 20000020 VRCS VM1 Print Priority.
 type: docs
 weight: 32970
-url: /aspose.medical.dicom.tags/tag/printpriority/
+url: /net/aspose.medical.dicom.tags/tag/printpriority/
 ---
 
 ## Tag.PrintPriority field

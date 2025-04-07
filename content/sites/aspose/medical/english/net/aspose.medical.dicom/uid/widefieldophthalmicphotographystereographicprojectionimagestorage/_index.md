@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class Wide Field Ophthalmic Photography Stereographic Projection Image Storage.
 type: docs
 weight: 5130
-url: /aspose.medical.dicom/uid/widefieldophthalmicphotographystereographicprojectionimagestorage/
+url: /net/aspose.medical.dicom/uid/widefieldophthalmicphotographystereographicprojectionimagestorage/
 ---
 
 ## Uid.WideFieldOphthalmicPhotographyStereographicProjectionImageStorage field

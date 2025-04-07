@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00145113 VRDS VM1 Wedge Offset X RETIRED.
 type: docs
 weight: 52260
-url: /aspose.medical.dicom.tags/tag/wedgeoffsetxretired/
+url: /net/aspose.medical.dicom.tags/tag/wedgeoffsetxretired/
 ---
 
 ## Tag.WedgeOffsetXRETIRED field

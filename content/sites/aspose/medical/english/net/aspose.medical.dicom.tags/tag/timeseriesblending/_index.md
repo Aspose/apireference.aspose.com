@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701B07 VRCS VM1 Time Series Blending.
 type: docs
 weight: 48460
-url: /aspose.medical.dicom.tags/tag/timeseriesblending/
+url: /net/aspose.medical.dicom.tags/tag/timeseriesblending/
 ---
 
 ## Tag.TimeSeriesBlending field

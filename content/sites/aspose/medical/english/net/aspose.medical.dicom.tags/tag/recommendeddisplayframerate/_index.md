@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00082144 VRIS VM1 Recommended Display Frame Rate.
 type: docs
 weight: 35460
-url: /aspose.medical.dicom.tags/tag/recommendeddisplayframerate/
+url: /net/aspose.medical.dicom.tags/tag/recommendeddisplayframerate/
 ---
 
 ## Tag.RecommendedDisplayFrameRate field

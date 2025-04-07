@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00240126 VRFL VM1 Screening Baseline Value.
 type: docs
 weight: 41700
-url: /aspose.medical.dicom.tags/tag/screeningbaselinevalue/
+url: /net/aspose.medical.dicom.tags/tag/screeningbaselinevalue/
 ---
 
 ## Tag.ScreeningBaselineValue field

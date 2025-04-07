@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00209301 VRFD VM3 Image Position Volume.
 type: docs
 weight: 19380
-url: /aspose.medical.dicom.tags/tag/imagepositionvolume/
+url: /net/aspose.medical.dicom.tags/tag/imagepositionvolume/
 ---
 
 ## Tag.ImagePositionVolume field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0273 VRSH VM1 Afterloader Channel ID.
 type: docs
 weight: 1030
-url: /aspose.medical.dicom.tags/tag/afterloaderchannelid/
+url: /net/aspose.medical.dicom.tags/tag/afterloaderchannelid/
 ---
 
 ## Tag.AfterloaderChannelID field

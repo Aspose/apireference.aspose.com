@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Represents a IElement../aspose.medical.dicom.elements/ielement comparison operation. Two data elements considered to be equal if 1 they have the same Tag../aspose.medical.dicom.elements/ielement/tag 2 they have the same ValueRepresentation../aspose.medical.dicom.elements/ielement/valuerepresentation 3 elements data are the same for both elements.
 type: docs
 weight: 80
-url: /aspose.medical.dicom.comparators/elementequalitycomparer/
+url: /net/aspose.medical.dicom.comparators/elementequalitycomparer/
 ---
 
 ## ElementEqualityComparer class

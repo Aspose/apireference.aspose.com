@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30060042 VRCS VM1 Contour Geometric Type.
 type: docs
 weight: 8090
-url: /aspose.medical.dicom.tags/tag/contourgeometrictype/
+url: /net/aspose.medical.dicom.tags/tag/contourgeometrictype/
 ---
 
 ## Tag.ContourGeometricType field

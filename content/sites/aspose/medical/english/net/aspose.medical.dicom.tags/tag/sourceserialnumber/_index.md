@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 30080105 VRLO VM1 Source Serial Number.
 type: docs
 weight: 44470
-url: /aspose.medical.dicom.tags/tag/sourceserialnumber/
+url: /net/aspose.medical.dicom.tags/tag/sourceserialnumber/
 ---
 
 ## Tag.SourceSerialNumber field

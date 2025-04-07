@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00000000 VRUL VM1 Command Group Length.
 type: docs
 weight: 6530
-url: /aspose.medical.dicom.tags/tag/commandgrouplength/
+url: /net/aspose.medical.dicom.tags/tag/commandgrouplength/
 ---
 
 ## Tag.CommandGroupLength field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A375 VRSQ VM1 Current Requested Procedure Evidence Sequence.
 type: docs
 weight: 9430
-url: /aspose.medical.dicom.tags/tag/currentrequestedprocedureevidencesequence/
+url: /net/aspose.medical.dicom.tags/tag/currentrequestedprocedureevidencesequence/
 ---
 
 ## Tag.CurrentRequestedProcedureEvidenceSequence field

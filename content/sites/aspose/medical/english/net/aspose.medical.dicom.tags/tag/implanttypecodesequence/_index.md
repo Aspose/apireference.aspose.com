@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 006863A8 VRSQ VM1 Implant Type Code Sequence.
 type: docs
 weight: 20050
-url: /aspose.medical.dicom.tags/tag/implanttypecodesequence/
+url: /net/aspose.medical.dicom.tags/tag/implanttypecodesequence/
 ---
 
 ## Tag.ImplantTypeCodeSequence field

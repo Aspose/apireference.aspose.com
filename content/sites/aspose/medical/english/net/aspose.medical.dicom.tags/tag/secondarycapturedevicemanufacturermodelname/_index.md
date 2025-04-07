@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00181018 VRLO VM1 Secondary Capture Device Manufacturers Model Name.
 type: docs
 weight: 41790
-url: /aspose.medical.dicom.tags/tag/secondarycapturedevicemanufacturermodelname/
+url: /net/aspose.medical.dicom.tags/tag/secondarycapturedevicemanufacturermodelname/
 ---
 
 ## Tag.SecondaryCaptureDeviceManufacturerModelName field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00186012 VRUS VM1 Region Spatial Format.
 type: docs
 weight: 38100
-url: /aspose.medical.dicom.tags/tag/regionspatialformat/
+url: /net/aspose.medical.dicom.tags/tag/regionspatialformat/
 ---
 
 ## Tag.RegionSpatialFormat field

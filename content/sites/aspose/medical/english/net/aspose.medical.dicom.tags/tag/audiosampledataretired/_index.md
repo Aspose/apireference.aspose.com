@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 50xx200C VROB or OW VM1 Audio Sample Data RETIRED.
 type: docs
 weight: 2860
-url: /aspose.medical.dicom.tags/tag/audiosampledataretired/
+url: /net/aspose.medical.dicom.tags/tag/audiosampledataretired/
 ---
 
 ## Tag.AudioSampleDataRETIRED field

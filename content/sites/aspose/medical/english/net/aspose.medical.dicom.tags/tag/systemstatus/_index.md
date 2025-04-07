@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00287006 VRCS VM1 System Status.
 type: docs
 weight: 46680
-url: /aspose.medical.dicom.tags/tag/systemstatus/
+url: /net/aspose.medical.dicom.tags/tag/systemstatus/
 ---
 
 ## Tag.SystemStatus field

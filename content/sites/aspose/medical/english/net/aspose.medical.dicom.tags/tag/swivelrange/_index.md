@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701A06 VRFD VM1 Swivel Range.
 type: docs
 weight: 46600
-url: /aspose.medical.dicom.tags/tag/swivelrange/
+url: /net/aspose.medical.dicom.tags/tag/swivelrange/
 ---
 
 ## Tag.SwivelRange field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00440102 VRUI VM1 Assertion UID.
 type: docs
 weight: 2550
-url: /aspose.medical.dicom.tags/tag/assertionuid/
+url: /net/aspose.medical.dicom.tags/tag/assertionuid/
 ---
 
 ## Tag.AssertionUID field

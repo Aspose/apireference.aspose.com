@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0070031F VRSQ VM1 Fiducials Property Category Code Sequence.
 type: docs
 weight: 14940
-url: /aspose.medical.dicom.tags/tag/fiducialspropertycategorycodesequence/
+url: /net/aspose.medical.dicom.tags/tag/fiducialspropertycategorycodesequence/
 ---
 
 ## Tag.FiducialsPropertyCategoryCodeSequence field

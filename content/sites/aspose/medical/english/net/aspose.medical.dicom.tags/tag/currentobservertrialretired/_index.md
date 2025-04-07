@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 0040A307 VRPN VM1 Current Observer Trial RETIRED.
 type: docs
 weight: 9410
-url: /aspose.medical.dicom.tags/tag/currentobservertrialretired/
+url: /net/aspose.medical.dicom.tags/tag/currentobservertrialretired/
 ---
 
 ## Tag.CurrentObserverTrialRETIRED field

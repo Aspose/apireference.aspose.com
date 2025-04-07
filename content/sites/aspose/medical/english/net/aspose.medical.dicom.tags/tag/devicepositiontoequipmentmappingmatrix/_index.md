@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 3002010F VRFD VM16 Device Position to Equipment Mapping Matrix.
 type: docs
 weight: 11430
-url: /aspose.medical.dicom.tags/tag/devicepositiontoequipmentmappingmatrix/
+url: /net/aspose.medical.dicom.tags/tag/devicepositiontoequipmentmappingmatrix/
 ---
 
 ## Tag.DevicePositionToEquipmentMappingMatrix field

@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00020036 VROB VM1 RTV Flow Identifier.
 type: docs
 weight: 40790
-url: /aspose.medical.dicom.tags/tag/rtvflowidentifier/
+url: /net/aspose.medical.dicom.tags/tag/rtvflowidentifier/
 ---
 
 ## Tag.RTVFlowIdentifier field

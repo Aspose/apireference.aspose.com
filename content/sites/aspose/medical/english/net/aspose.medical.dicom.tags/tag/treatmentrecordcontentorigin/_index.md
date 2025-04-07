@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A0709 VRCS VM1 Treatment Record Content Origin.
 type: docs
 weight: 49740
-url: /aspose.medical.dicom.tags/tag/treatmentrecordcontentorigin/
+url: /net/aspose.medical.dicom.tags/tag/treatmentrecordcontentorigin/
 ---
 
 ## Tag.TreatmentRecordContentOrigin field

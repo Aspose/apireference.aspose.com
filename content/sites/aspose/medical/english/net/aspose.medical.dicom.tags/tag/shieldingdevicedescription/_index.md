@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 300A01A6 VRST VM1 Shielding Device Description.
 type: docs
 weight: 43170
-url: /aspose.medical.dicom.tags/tag/shieldingdevicedescription/
+url: /net/aspose.medical.dicom.tags/tag/shieldingdevicedescription/
 ---
 
 ## Tag.ShieldingDeviceDescription field

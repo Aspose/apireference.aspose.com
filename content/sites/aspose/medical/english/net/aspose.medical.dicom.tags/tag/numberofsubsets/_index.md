@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189740 VRUS VM1 Number of Subsets.
 type: docs
 weight: 26910
-url: /aspose.medical.dicom.tags/tag/numberofsubsets/
+url: /net/aspose.medical.dicom.tags/tag/numberofsubsets/
 ---
 
 ## Tag.NumberOfSubsets field

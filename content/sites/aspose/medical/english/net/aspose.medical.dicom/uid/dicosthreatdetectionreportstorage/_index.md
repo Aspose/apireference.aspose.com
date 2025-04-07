@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: SOP Class DICOS Threat Detection Report Storage.
 type: docs
 weight: 1200
-url: /aspose.medical.dicom/uid/dicosthreatdetectionreportstorage/
+url: /net/aspose.medical.dicom/uid/dicosthreatdetectionreportstorage/
 ---
 
 ## Uid.DICOSThreatDetectionReportStorage field

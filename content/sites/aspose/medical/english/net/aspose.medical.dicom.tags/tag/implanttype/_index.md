@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00686223 VRCS VM1 Implant Type.
 type: docs
 weight: 20040
-url: /aspose.medical.dicom.tags/tag/implanttype/
+url: /net/aspose.medical.dicom.tags/tag/implanttype/
 ---
 
 ## Tag.ImplantType field

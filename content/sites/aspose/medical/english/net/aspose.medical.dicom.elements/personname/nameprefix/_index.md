@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: Name prefix or empty string. Read-only String.
 type: docs
 weight: 50
-url: /aspose.medical.dicom.elements/personname/nameprefix/
+url: /net/aspose.medical.dicom.elements/personname/nameprefix/
 ---
 
 ## PersonName.NamePrefix property

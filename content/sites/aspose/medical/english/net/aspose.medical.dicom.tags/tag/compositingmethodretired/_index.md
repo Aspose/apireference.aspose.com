@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00701206 VRCS VM1 Compositing Method RETIRED.
 type: docs
 weight: 7080
-url: /aspose.medical.dicom.tags/tag/compositingmethodretired/
+url: /net/aspose.medical.dicom.tags/tag/compositingmethodretired/
 ---
 
 ## Tag.CompositingMethodRETIRED field

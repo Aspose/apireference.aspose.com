@@ -4,7 +4,7 @@ second_title: Aspose.Medical for .NET API Reference
 description: 00189763 VRCS VM1 Patient Motion Corrected.
 type: docs
 weight: 29930
-url: /aspose.medical.dicom.tags/tag/patientmotioncorrected/
+url: /net/aspose.medical.dicom.tags/tag/patientmotioncorrected/
 ---
 
 ## Tag.PatientMotionCorrected field
