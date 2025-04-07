@@ -1,0 +1,10 @@
+baseURL = "https://reference.aspose.com/medical"
+
+# Google Tag Manager settings
+[params.gtm]
+gtm_id = "GTM-NJMHSH"
+
+[[deployment.targets]]
+name = "Production"
+URL = "s3://reference.aspose.com/?prefix=medical/&region=us-west-2"
+
