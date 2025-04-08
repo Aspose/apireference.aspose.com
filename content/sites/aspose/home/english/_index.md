@@ -18,6 +18,7 @@ Create, edit, convert or print Word documents in your application. Includes indi
 {{< blocks/product-item title="JAVA" href="/words/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/words/cpp/" class="btn-c" >}}
 {{< blocks/product-item title="Python" href="/words/python-net/" class="btn-python" >}}
+{{< blocks/product-item title="Node.JS" href="/words/nodejs-net/" class="btn-nodejs" >}}
 
 {{< /blocks/product-card >}}
 
