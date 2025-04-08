@@ -3,19 +3,20 @@ title: Rectangle
 second_title: Aspose.OCR for .NET API Reference
 description: The bounding rectangle of the content area.
 type: docs
-weight: 20
+weight: 40
 url: /net/aspose.ocr/contentarea/rectangle/
 ---
-## ContentArea.Rectangle property
+## ContentArea.Rectangle field
 
 The bounding rectangle of the content area.
 
 ```csharp
-public Rectangle Rectangle { get; set; }
+public Rectangle Rectangle;
 ```
 
 ### See Also
 
+* struct [Rectangle](../../rectangle)
 * class [ContentArea](../../contentarea)
 * namespace [Aspose.OCR](../../contentarea)
 * assembly [Aspose.OCR](../../../)

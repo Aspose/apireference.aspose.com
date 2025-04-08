@@ -44,6 +44,7 @@ AutoDenoisingFilter object.
 
 ### See Also
 
+* struct [Rectangle](../../../aspose.ocr/rectangle)
 * class [PreprocessingFilter](../../preprocessingfilter)
 * namespace [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter)
 * assembly [Aspose.OCR](../../../)

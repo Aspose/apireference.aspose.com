@@ -1,12 +1,12 @@
 ---
 title: Aspose.OCR
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: The Aspose.OCR contains tools for image recognition skew correction text areas detection and spell check.
 type: docs
 weight: 10
 url: /net/aspose.ocr/
 ---
-
+The **Aspose.OCR** contains tools for image recognition, skew correction, text areas detection and spell check.
 
 ## Classes
 
@@ -53,6 +53,7 @@ url: /net/aspose.ocr/
 | [GraphOptimizationLevelOnnx](./graphoptimizationlevelonnx) | Graph optimization level to use with SessionOptions. For technical details, refer to ONNX Runtime documentation. |
 | [InputType](./inputtype) | Types of image/ documents for processing / recognition. |
 | [Language](./language) | Languages used for OCR. ISO 939-3 Code. |
+| [LanguageDetectionLevel](./languagedetectionlevel) | Defines the level of language detection for text recognition in an image. |
 | [LoggingLevel](./logginglevel) | Defines the type of logs to display. |
 | [PdfOptimizationMode](./pdfoptimizationmode) | Significantly reduce the PDF file size at the expense of lower image quality. |
 | [PixelType](./pixeltype) | Determines the type of the pixel data for image recognition. |

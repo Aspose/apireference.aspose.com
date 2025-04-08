@@ -3,7 +3,7 @@ title: UpscaleSmallFont
 second_title: Aspose.OCR for .NET API Reference
 description: Allows you to use additional algorithms specifically for small font recognition. Useful for images with small size characters.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.ocr/baserecognitionsettings/upscalesmallfont/
 ---
 ## BaseRecognitionSettings.UpscaleSmallFont property

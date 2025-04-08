@@ -3,7 +3,7 @@ title: ImageProcessing
 second_title: Aspose.OCR for .NET API Reference
 description: Helper class for Aspose OCR library. Allows to preprocess and save images.
 type: docs
-weight: 290
+weight: 310
 url: /net/aspose.ocr/imageprocessing/
 ---
 ## ImageProcessing class

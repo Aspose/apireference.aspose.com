@@ -3,7 +3,7 @@ title: Country
 second_title: Aspose.OCR for .NET API Reference
 description: For better passport recognition point the passport country.
 type: docs
-weight: 240
+weight: 260
 url: /net/aspose.ocr/country/
 ---
 ## Country enumeration

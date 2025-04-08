@@ -3,7 +3,7 @@ title: Rectangle
 second_title: Aspose.OCR for .NET API Reference
 description: Stores a set of four integers that represent the location and size of a rectangle.
 type: docs
-weight: 420
+weight: 450
 url: /net/aspose.ocr/rectangle/
 ---
 ## Rectangle structure
