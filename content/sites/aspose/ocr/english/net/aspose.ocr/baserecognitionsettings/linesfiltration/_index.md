@@ -3,7 +3,7 @@ title: LinesFiltration
 second_title: Aspose.OCR for .NET API Reference
 description: Allows to recognize text in the tables regions surrounded lines.
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.ocr/baserecognitionsettings/linesfiltration/
 ---
 ## BaseRecognitionSettings.LinesFiltration property

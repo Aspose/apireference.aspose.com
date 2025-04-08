@@ -3,7 +3,7 @@ title: BaseRecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the image recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 150
+weight: 170
 url: /net/aspose.ocr/baserecognitionsettings/
 ---
 ## BaseRecognitionSettings class
@@ -30,6 +30,7 @@ public class BaseRecognitionSettings
 | [DetectAreasMode](../../aspose.ocr/baserecognitionsettings/detectareasmode) { get; set; } | Allows to select the optimal mode for document type areas: document, photo, plain text, column, image. |
 | [IgnoredSymbols](../../aspose.ocr/baserecognitionsettings/ignoredsymbols) { get; set; } | Sets blacklist for recognition symbols. |
 | [Language](../../aspose.ocr/baserecognitionsettings/language) { get; set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
+| [LanguageDetectionLevel](../../aspose.ocr/baserecognitionsettings/languagedetectionlevel) { get; set; } | Specifies the level of language detection for text recognition. Works only if the selected language is Multilanguage, Auto, or Universal. This process is time-consuming and significantly slows down the overall recognition. |
 | [LinesFiltration](../../aspose.ocr/baserecognitionsettings/linesfiltration) { get; set; } | Allows to recognize text in the tables (regions surrounded lines). |
 | [ThreadsCount](../../aspose.ocr/baserecognitionsettings/threadscount) { get; set; } | Gets or sets the number fo threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |
 | [UpscaleSmallFont](../../aspose.ocr/baserecognitionsettings/upscalesmallfont) { get; set; } | Allows you to use additional algorithms specifically for small font recognition. Useful for images with small size characters. |

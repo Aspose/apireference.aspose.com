@@ -169,6 +169,9 @@ public enum Language
 | Mon | `148` | Mongolean alphabet |
 | PersoArabic | `149` | Universal Perso-Arabic alphabet |
 | Islamic | `150` | Universal Perso-Arabic alphabet |
+| Multilanguage | `151` | Automatically detects the language in the input document or image. Supports multiple language families, including Latin, Cyrillic, Arabic, and more. |
+| Auto | `152` | Automatically detects the language in the input document or image. Supports multiple language families, including Latin, Cyrillic, Arabic, and more. |
+| Universal | `153` | Automatically detects the language in the input document or image. Supports multiple language families, including Latin, Cyrillic, Arabic, and more. |
 
 ### See Also
 

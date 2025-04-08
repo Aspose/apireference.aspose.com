@@ -3,7 +3,7 @@ title: ContentArea
 second_title: Aspose.OCR for .NET API Reference
 description: A content area detected in an image.
 type: docs
-weight: 370
+weight: 400
 url: /net/aspose.ocr/contentarea/
 ---
 ## ContentArea class
@@ -20,18 +20,13 @@ public class ContentArea
 | --- | --- |
 | [ContentArea](contentarea)() | The default constructor. |
 
-## Properties
-
-| Name | Description |
-| --- | --- |
-| [Rectangle](../../aspose.ocr/contentarea/rectangle) { get; set; } | The bounding rectangle of the content area. |
-
 ## Fields
 
 | Name | Description |
 | --- | --- |
 | [image](../../aspose.ocr/contentarea/image) | Image region with the content. |
 | [index](../../aspose.ocr/contentarea/index) | The sequential index of the content area, unique within the image. |
+| [Rectangle](../../aspose.ocr/contentarea/rectangle) | The bounding rectangle of the content area. |
 
 ### See Also
 

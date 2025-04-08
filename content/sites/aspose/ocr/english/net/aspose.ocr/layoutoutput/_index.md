@@ -3,7 +3,7 @@ title: LayoutOutput
 second_title: Aspose.OCR for .NET API Reference
 description: Information on detected content areas in the image.
 type: docs
-weight: 360
+weight: 390
 url: /net/aspose.ocr/layoutoutput/
 ---
 ## LayoutOutput class
