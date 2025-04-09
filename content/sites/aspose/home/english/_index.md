@@ -333,6 +333,17 @@ High Code APIs and apps for TeX let you typeset, process, and convert TeX docume
 
 {{% /blocks/product-card %}}
 
+{{% blocks/product-card title="**Aspose.Medical**" href="medical" %}}
+
+{{% blocks/card-item-text %}}
+Aspose.Medical is a .NET healthcare data processing library. It supports multiple medical data formats such as DICOM, and provides comprehensive functionality for reading, modifying, and analyzing medical data.
+{{% /blocks/card-item-text %}}
+
+{{< blocks/product-item title=".NET" href="/medical/net/" class="btn-net" >}}
+
+
+{{% /blocks/product-card %}}
+
 {{% /blocks/product-row %}}
 
 {{< /blocks/product-section >}}
