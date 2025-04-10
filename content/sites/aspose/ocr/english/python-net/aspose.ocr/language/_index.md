@@ -3,7 +3,7 @@ title: Language
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 370
+weight: 440
 url: /python-net/aspose.ocr/language/
 ---
 
@@ -163,6 +163,11 @@ Languages used for OCR.<br/>            ISO 939-3 Code.
 |INDIC||
 |DEVANAGARI||
 |MON||
+|PERSO_ARABIC||
+|ISLAMIC||
+|MULTILANGUAGE||
+|AUTO||
+|UNIVERSAL||
 
 ### See Also
 
