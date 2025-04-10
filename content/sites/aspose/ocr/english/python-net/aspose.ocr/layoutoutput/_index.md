@@ -1,27 +1,33 @@
 ---
-title: LanguageDetectionOutput
+title: LayoutOutput
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 130
-url: /python-net/aspose.ocr/languagedetectionoutput/
+weight: 150
+url: /python-net/aspose.ocr/layoutoutput/
 ---
 
-## LanguageDetectionOutput class
+## LayoutOutput class
 
 
 
-The LanguageDetectionOutput type exposes the following members:
+The LayoutOutput type exposes the following members:
 ## Constructors
 | Name | Description |
 | :- | :- |
-|LanguageDetectionOutput()|Initializes a new instance of the LanguageDetectionOutput class|
+|LayoutOutput()|Initializes a new instance of the LayoutOutput class|
 ## Properties
 | Name | Description |
 | :- | :- |
 |source|  |
 |page|  |
-|languages|  |
+|paragraphs|  |
+|images|  |
+|headers|  |
+|tables|  |
+|lists|  |
+|captions|  |
+|equations|  |
 
 ### See Also
 
