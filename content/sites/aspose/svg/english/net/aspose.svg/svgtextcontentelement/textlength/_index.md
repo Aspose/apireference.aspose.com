@@ -1,7 +1,7 @@
 ---
 title: SVGTextContentElement.TextLength
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTextContentElement property. Corresponds to attribute textLength on the given element
+description: SVGTextContentElement TextLength property. Corresponds to attribute textLength on the given element
 type: docs
 weight: 20
 url: /net/aspose.svg/svgtextcontentelement/textlength/

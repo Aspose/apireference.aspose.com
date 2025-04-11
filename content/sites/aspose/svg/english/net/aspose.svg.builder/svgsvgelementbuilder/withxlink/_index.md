@@ -1,7 +1,7 @@
 ---
 title: SVGSVGElementBuilder.WithXlink
 second_title: Aspose.SVG for .NET API Reference
-description: SVGSVGElementBuilder method. Adds the XLink namespace declaration to the SVG element. This is necessary for using XLink attributes such as xlinkhref
+description: SVGSVGElementBuilder WithXlink method. Adds the XLink namespace declaration to the SVG element. This is necessary for using XLink attributes such as xlinkhref
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/svgsvgelementbuilder/withxlink/

@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.TableValues
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the tableValues attribute for a component transfer function element
+description: SVGBuilderExtensions TableValues method. Sets the tableValues attribute for a component transfer function element
 type: docs
 weight: 2190
 url: /net/aspose.svg.builder/svgbuilderextensions/tablevalues/

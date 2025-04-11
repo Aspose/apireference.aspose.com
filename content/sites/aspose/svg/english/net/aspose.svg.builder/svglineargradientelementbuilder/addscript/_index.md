@@ -1,7 +1,7 @@
 ---
 title: SVGLinearGradientElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGLinearGradientElementBuilder method. Adds a script configuration to the SVG linearGradient element
+description: SVGLinearGradientElementBuilder AddScript method. Adds a script configuration to the SVG linearGradient element
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svglineargradientelementbuilder/addscript/

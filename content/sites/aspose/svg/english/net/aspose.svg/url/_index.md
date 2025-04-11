@@ -3,7 +3,7 @@ title: Url Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Url class. Provides an object representation of a universal identifier URL
 type: docs
-weight: 2660
+weight: 6230
 url: /net/aspose.svg/url/
 ---
 ## Url class
@@ -18,8 +18,8 @@ public class Url : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [Url](url/#constructor)(string) | Initializes a new instance of the `Url` with the specified URL. |
-| [Url](url/#constructor_1)(string, string) | Initializes a new instance of the `Url` with the specified URL and base URL. |
+| [Url](url/#constructor)(*string*) | Initializes a new instance of the `Url` with the specified URL. |
+| [Url](url/#constructor_1)(*string, string*) | Initializes a new instance of the `Url` with the specified URL and base URL. |
 
 ## Properties
 
@@ -42,8 +42,8 @@ public class Url : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [CompareTo](../../aspose.svg/url/compareto/)(Url, bool) | Determines whether the specified `Url`, is equal to this instance. |
-| override [Equals](../../aspose.svg/url/equals/)(object) | Determines whether the specified Object, is equal to this instance. |
+| [CompareTo](../../aspose.svg/url/compareto/)(*Url, bool*) | Determines whether the specified `Url`, is equal to this instance. |
+| override [Equals](../../aspose.svg/url/equals/)(*object*) | Determines whether the specified Object, is equal to this instance. |
 | override [GetHashCode](../../aspose.svg/url/gethashcode/)() | Returns a hash code for this instance. |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
 | [ToJson](../../aspose.svg/url/tojson/)() | Returns a String that represents this instance. |

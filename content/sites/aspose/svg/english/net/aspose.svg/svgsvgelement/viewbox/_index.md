@@ -1,7 +1,7 @@
 ---
 title: SVGSVGElement.ViewBox
 second_title: Aspose.SVG for .NET API Reference
-description: SVGSVGElement property. Corresponds to attribute viewBox on the given element
+description: SVGSVGElement ViewBox property. Corresponds to attribute viewBox on the given element
 type: docs
 weight: 50
 url: /net/aspose.svg/svgsvgelement/viewbox/

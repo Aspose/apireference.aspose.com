@@ -1,7 +1,7 @@
 ---
 title: SVGStyleElementBuilder.Build
 second_title: Aspose.SVG for .NET API Reference
-description: SVGStyleElementBuilder method. Builds the SVG style element with the accumulated CSS rules and adds it to the specified document
+description: SVGStyleElementBuilder Build method. Builds the SVG style element with the accumulated CSS rules and adds it to the specified document
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgstyleelementbuilder/build/

@@ -1,7 +1,7 @@
 ---
 title: OneOf-3.Match
 second_title: Aspose.SVG for .NET API Reference
-description: OneOf method. Executes one of the provided functions based on the underlying type of the value
+description: OneOf Match method. Executes one of the provided functions based on the underlying type of the value
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/oneof-3/match/

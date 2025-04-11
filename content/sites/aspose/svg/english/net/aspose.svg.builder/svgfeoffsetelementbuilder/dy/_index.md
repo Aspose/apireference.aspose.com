@@ -1,7 +1,7 @@
 ---
 title: SVGFEOffsetElementBuilder.Dy
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEOffsetElementBuilder method. Sets the dy attribute of the feOffset element specifying the vertical offset
+description: SVGFEOffsetElementBuilder Dy method. Sets the dy attribute of the feOffset element specifying the vertical offset
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgfeoffsetelementbuilder/dy/

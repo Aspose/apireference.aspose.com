@@ -1,7 +1,7 @@
 ---
 title: SVGRadialGradientElementBuilder.R
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRadialGradientElementBuilder method. Sets the r attribute of the SVG radialGradient element specifying the radius of the gradient
+description: SVGRadialGradientElementBuilder R method. Sets the r attribute of the SVG radialGradient element specifying the radius of the gradient
 type: docs
 weight: 100
 url: /net/aspose.svg.builder/svgradialgradientelementbuilder/r/

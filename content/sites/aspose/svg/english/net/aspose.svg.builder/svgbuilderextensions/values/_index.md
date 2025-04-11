@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Values
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the values attribute specifying the set of values to be used over the course of the animation
+description: SVGBuilderExtensions Values method. Sets the values attribute specifying the set of values to be used over the course of the animation
 type: docs
 weight: 2290
 url: /net/aspose.svg.builder/svgbuilderextensions/values/

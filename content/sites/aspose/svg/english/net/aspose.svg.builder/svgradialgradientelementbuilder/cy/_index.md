@@ -1,7 +1,7 @@
 ---
 title: SVGRadialGradientElementBuilder.Cy
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRadialGradientElementBuilder method. Sets the cy attribute of the SVG radialGradient element specifying the y-coordinate of the center of the gradient
+description: SVGRadialGradientElementBuilder Cy method. Sets the cy attribute of the SVG radialGradient element specifying the y-coordinate of the center of the gradient
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/svgradialgradientelementbuilder/cy/

@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElementBuilder.Order
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEConvolveMatrixElementBuilder method. Sets the order attribute of the feConvolveMatrix element
+description: SVGFEConvolveMatrixElementBuilder Order method. Sets the order attribute of the feConvolveMatrix element
 type: docs
 weight: 80
 url: /net/aspose.svg.builder/svgfeconvolvematrixelementbuilder/order/

@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnChange
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onchange event attribute for handling changes in the elements value
+description: SVGBuilderExtensions OnChange method. Sets the onchange event attribute for handling changes in the elements value
 type: docs
 weight: 1240
 url: /net/aspose.svg.builder/svgbuilderextensions/onchange/

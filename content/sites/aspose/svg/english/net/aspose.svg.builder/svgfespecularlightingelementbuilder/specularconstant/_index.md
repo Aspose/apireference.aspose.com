@@ -1,7 +1,7 @@
 ---
 title: SVGFESpecularLightingElementBuilder.SpecularConstant
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFESpecularLightingElementBuilder method. Sets the specularConstant attribute representing the specular reflection constant
+description: SVGFESpecularLightingElementBuilder SpecularConstant method. Sets the specularConstant attribute representing the specular reflection constant
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfespecularlightingelementbuilder/specularconstant/

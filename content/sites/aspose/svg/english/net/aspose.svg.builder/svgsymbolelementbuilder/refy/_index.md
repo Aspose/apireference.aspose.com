@@ -1,7 +1,7 @@
 ---
 title: SVGSymbolElementBuilder.RefY
 second_title: Aspose.SVG for .NET API Reference
-description: SVGSymbolElementBuilder method. Sets the refY attribute of the symbol element defining the y-coordinate of the reference point of the symbol
+description: SVGSymbolElementBuilder RefY method. Sets the refY attribute of the symbol element defining the y-coordinate of the reference point of the symbol
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgsymbolelementbuilder/refy/

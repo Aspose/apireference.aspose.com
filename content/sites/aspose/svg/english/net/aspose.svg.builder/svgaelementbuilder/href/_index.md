@@ -1,7 +1,7 @@
 ---
 title: SVGAElementBuilder.Href
 second_title: Aspose.SVG for .NET API Reference
-description: SVGAElementBuilder method. Sets the href attribute of the SVG a element specifying the URL of the linked resource
+description: SVGAElementBuilder Href method. Sets the href attribute of the SVG a element specifying the URL of the linked resource
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgaelementbuilder/href/

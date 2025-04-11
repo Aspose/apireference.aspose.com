@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnUnload
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onunload event attribute defining a script to run when the SVG document is unloaded
+description: SVGBuilderExtensions OnUnload method. Sets the onunload event attribute defining a script to run when the SVG document is unloaded
 type: docs
 weight: 1830
 url: /net/aspose.svg.builder/svgbuilderextensions/onunload/

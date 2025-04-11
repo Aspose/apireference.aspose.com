@@ -1,7 +1,7 @@
 ---
 title: SVGLineElementBuilder.Y1
 second_title: Aspose.SVG for .NET API Reference
-description: SVGLineElementBuilder method. Sets the y1 attribute of the SVG line element specifying the y-coordinate of the start point of the line
+description: SVGLineElementBuilder Y1 method. Sets the y1 attribute of the SVG line element specifying the y-coordinate of the start point of the line
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svglineelementbuilder/y1/

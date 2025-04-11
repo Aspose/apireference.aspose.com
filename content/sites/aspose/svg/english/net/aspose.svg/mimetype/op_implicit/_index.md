@@ -1,7 +1,7 @@
 ---
 title: MimeType.op_Implicit
 second_title: Aspose.SVG for .NET API Reference
-description: MimeType method. Performs an implicit conversion from String to MimeType
+description: MimeType op_Implicit method. Performs an implicit conversion from String to MimeType
 type: docs
 weight: 90
 url: /net/aspose.svg/mimetype/op_implicit/

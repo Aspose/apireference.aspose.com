@@ -1,7 +1,7 @@
 ---
 title: SVGTextPositioningElement.Y
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTextPositioningElement property. Corresponds to attribute y on the given element
+description: SVGTextPositioningElement Y property. Corresponds to attribute y on the given element
 type: docs
 weight: 50
 url: /net/aspose.svg/svgtextpositioningelement/y/

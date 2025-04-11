@@ -1,7 +1,7 @@
 ---
 title: SVGGeometryElement.GetEquivalentPathAsIPath
 second_title: Aspose.SVG for .NET API Reference
-description: SVGGeometryElement method. Returns the equivalent path as an instance of IPath
+description: SVGGeometryElement GetEquivalentPathAsIPath method. Returns the equivalent path as an instance of IPath
 type: docs
 weight: 30
 url: /net/aspose.svg/svggeometryelement/getequivalentpathasipath/

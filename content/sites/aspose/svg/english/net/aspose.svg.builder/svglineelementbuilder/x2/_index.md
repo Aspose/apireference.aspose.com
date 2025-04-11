@@ -1,7 +1,7 @@
 ---
 title: SVGLineElementBuilder.X2
 second_title: Aspose.SVG for .NET API Reference
-description: SVGLineElementBuilder method. Sets the x2 attribute of the SVG line element specifying the x-coordinate of the end point of the line
+description: SVGLineElementBuilder X2 method. Sets the x2 attribute of the SVG line element specifying the x-coordinate of the end point of the line
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svglineelementbuilder/x2/

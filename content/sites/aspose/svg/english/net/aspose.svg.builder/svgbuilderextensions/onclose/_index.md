@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnClose
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onclose event attribute for handling close actions on dialog elements
+description: SVGBuilderExtensions OnClose method. Sets the onclose event attribute for handling close actions on dialog elements
 type: docs
 weight: 1260
 url: /net/aspose.svg.builder/svgbuilderextensions/onclose/

@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnEmptied
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onemptied event attribute for handling the emptying of the media elements source
+description: SVGBuilderExtensions OnEmptied method. Sets the onemptied event attribute for handling the emptying of the media elements source
 type: docs
 weight: 1400
 url: /net/aspose.svg.builder/svgbuilderextensions/onemptied/

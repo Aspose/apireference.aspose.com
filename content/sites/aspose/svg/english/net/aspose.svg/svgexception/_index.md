@@ -3,7 +3,7 @@ title: SVGException Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGException class. This exception is raised when a specific SVG operation is impossible to perform
 type: docs
-weight: 4950
+weight: 5590
 url: /net/aspose.svg/svgexception/
 ---
 ## SVGException class
@@ -18,13 +18,21 @@ public class SVGException : PlatformException
 
 | Name | Description |
 | --- | --- |
-| [SVGException](svgexception/)(ushort) | Initializes a new instance of the `SVGException` class. |
+| [SVGException](svgexception/)(*ushort*) | Initializes a new instance of the `SVGException` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Code](../../aspose.svg/svgexception/code/) { get; } | A code identifying the reason why the requested operation could not be performed. The value of this member will be one of the constants in the SVGException code group. |
+| virtual [Data](../../system/exception/data/) { get; } |  |
+| virtual [HelpLink](../../system/exception/helplink/) { get; set; } |  |
+| [HResult](../../system/exception/hresult/) { get; set; } |  |
+| [InnerException](../../system/exception/innerexception/) { get; } |  |
+| virtual [Message](../../system/exception/message/) { get; } |  |
+| virtual [Source](../../system/exception/source/) { get; set; } |  |
+| virtual [StackTrace](../../system/exception/stacktrace/) { get; } |  |
+| [TargetSite](../../system/exception/targetsite/) { get; } |  |
 
 ## Fields
 

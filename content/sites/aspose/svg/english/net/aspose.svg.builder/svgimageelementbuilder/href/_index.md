@@ -1,7 +1,7 @@
 ---
 title: SVGImageElementBuilder.Href
 second_title: Aspose.SVG for .NET API Reference
-description: SVGImageElementBuilder method. Sets the href attribute of the SVG image element specifying the URL of the image to be embedded
+description: SVGImageElementBuilder Href method. Sets the href attribute of the SVG image element specifying the URL of the image to be embedded
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/svgimageelementbuilder/href/

@@ -1,7 +1,7 @@
 ---
 title: SVGFEDropShadowElementBuilder.StdDeviation
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDropShadowElementBuilder method. Sets the standard deviation for the blur effect in the drop shadow
+description: SVGFEDropShadowElementBuilder StdDeviation method. Sets the standard deviation for the blur effect in the drop shadow
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgfedropshadowelementbuilder/stddeviation/

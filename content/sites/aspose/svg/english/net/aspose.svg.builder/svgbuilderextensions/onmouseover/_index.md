@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnMouseOver
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onmouseover event attribute for handling mouse over events on the element
+description: SVGBuilderExtensions OnMouseOver method. Sets the onmouseover event attribute for handling mouse over events on the element
 type: docs
 weight: 1610
 url: /net/aspose.svg.builder/svgbuilderextensions/onmouseover/

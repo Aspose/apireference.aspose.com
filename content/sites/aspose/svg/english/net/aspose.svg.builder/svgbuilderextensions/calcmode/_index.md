@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.CalcMode
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the calcMode attribute defining the calculation mode for the animation
+description: SVGBuilderExtensions CalcMode method. Sets the calcMode attribute defining the calculation mode for the animation
 type: docs
 weight: 630
 url: /net/aspose.svg.builder/svgbuilderextensions/calcmode/

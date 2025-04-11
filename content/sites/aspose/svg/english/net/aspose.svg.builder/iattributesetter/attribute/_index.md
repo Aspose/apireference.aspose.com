@@ -1,7 +1,7 @@
 ---
 title: IAttributeSetter.Attribute
 second_title: Aspose.SVG for .NET API Reference
-description: IAttributeSetter method. Sets or updates an attribute on an SVG element
+description: IAttributeSetter Attribute method. Sets or updates an attribute on an SVG element
 type: docs
 weight: 10
 url: /net/aspose.svg.builder/iattributesetter/attribute/

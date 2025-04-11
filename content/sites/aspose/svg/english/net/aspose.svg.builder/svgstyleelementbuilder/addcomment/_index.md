@@ -1,7 +1,7 @@
 ---
 title: SVGStyleElementBuilder.AddComment
 second_title: Aspose.SVG for .NET API Reference
-description: SVGStyleElementBuilder method. Adds a comment to the style content
+description: SVGStyleElementBuilder AddComment method. Adds a comment to the style content
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgstyleelementbuilder/addcomment/

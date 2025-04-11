@@ -1,7 +1,7 @@
 ---
 title: SVGFEMorphologyElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEMorphologyElementBuilder method. Adds a script configuration to the feMorphology element
+description: SVGFEMorphologyElementBuilder AddScript method. Adds a script configuration to the feMorphology element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfemorphologyelementbuilder/addscript/

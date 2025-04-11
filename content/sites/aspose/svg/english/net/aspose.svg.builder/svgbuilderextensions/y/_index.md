@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.Y
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the y attribute for positioning the text content along the y-axis
+description: SVGBuilderExtensions Y method. Sets the y attribute for positioning the text content along the y-axis
 type: docs
 weight: 2400
 url: /net/aspose.svg.builder/svgbuilderextensions/y/
 ---
-## Y&lt;TBuilder&gt;(this TBuilder, LengthType, params double[]) {#y}
+## Y&lt;TBuilder&gt;(*this TBuilder, [LengthType](../../lengthtype/), params double[]*) {#y}
 
 Sets the 'y' attribute for positioning the text content along the y-axis.
 
@@ -42,7 +42,7 @@ This method sets the 'y' attribute, which determines the vertical position(s) of
 
 ---
 
-## Y&lt;TBuilder&gt;(this TBuilder, double, LengthType) {#y_1}
+## Y&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#y_1}
 
 Sets the 'y' attribute for an SVG element.
 

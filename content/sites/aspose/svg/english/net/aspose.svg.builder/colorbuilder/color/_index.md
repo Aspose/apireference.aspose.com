@@ -1,7 +1,7 @@
 ---
 title: ColorBuilder.Color
 second_title: Aspose.SVG for .NET API Reference
-description: ColorBuilder method. Sets the color value based on a Color object
+description: ColorBuilder Color method. Sets the color value based on a Color object
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/colorbuilder/color/

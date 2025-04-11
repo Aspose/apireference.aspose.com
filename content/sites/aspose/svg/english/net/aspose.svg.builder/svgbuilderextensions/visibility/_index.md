@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Visibility
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the visibility attribute for an SVG element controlling whether the element is visible or not
+description: SVGBuilderExtensions Visibility method. Sets the visibility attribute for an SVG element controlling whether the element is visible or not
 type: docs
 weight: 2310
 url: /net/aspose.svg.builder/svgbuilderextensions/visibility/

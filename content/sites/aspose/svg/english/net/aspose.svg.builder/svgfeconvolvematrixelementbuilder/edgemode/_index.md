@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElementBuilder.EdgeMode
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEConvolveMatrixElementBuilder method. Sets the edgeMode attribute of the feConvolveMatrix element
+description: SVGFEConvolveMatrixElementBuilder EdgeMode method. Sets the edgeMode attribute of the feConvolveMatrix element
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgfeconvolvematrixelementbuilder/edgemode/

@@ -1,7 +1,7 @@
 ---
 title: SVGFEMergeElementBuilder.AddMergeNode
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEMergeElementBuilder method. Adds a merge node configuration to the feMerge element
+description: SVGFEMergeElementBuilder AddMergeNode method. Adds a merge node configuration to the feMerge element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfemergeelementbuilder/addmergenode/

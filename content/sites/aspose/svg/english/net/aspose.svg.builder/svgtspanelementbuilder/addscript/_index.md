@@ -1,7 +1,7 @@
 ---
 title: SVGTSpanElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTSpanElementBuilder method. Adds a script element to the current tspan element
+description: SVGTSpanElementBuilder AddScript method. Adds a script element to the current tspan element
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgtspanelementbuilder/addscript/

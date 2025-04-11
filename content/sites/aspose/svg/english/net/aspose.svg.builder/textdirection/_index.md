@@ -3,7 +3,7 @@ title: TextDirection Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.TextDirection enum. Specifies the directionality of text
 type: docs
-weight: 600
+weight: 1810
 url: /net/aspose.svg.builder/textdirection/
 ---
 ## TextDirection enumeration

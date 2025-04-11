@@ -1,7 +1,7 @@
 ---
 title: Url.CompareTo
 second_title: Aspose.SVG for .NET API Reference
-description: Url method. Determines whether the specified Url is equal to this instance
+description: Url CompareTo method. Determines whether the specified Url is equal to this instance
 type: docs
 weight: 140
 url: /net/aspose.svg/url/compareto/

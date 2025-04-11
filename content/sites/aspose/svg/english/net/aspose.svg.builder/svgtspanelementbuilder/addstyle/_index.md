@@ -1,7 +1,7 @@
 ---
 title: SVGTSpanElementBuilder.AddStyle
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTSpanElementBuilder method. Adds a style element to the current tspan element
+description: SVGTSpanElementBuilder AddStyle method. Adds a style element to the current tspan element
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgtspanelementbuilder/addstyle/

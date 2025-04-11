@@ -3,7 +3,7 @@ title: SVGFEFuncAElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEFuncAElementBuilder class. Builder class for creating SVG feFuncA elements which define the alpha component transfer function
 type: docs
-weight: 880
+weight: 1290
 url: /net/aspose.svg.builder/svgfefuncaelementbuilder/
 ---
 ## SVGFEFuncAElementBuilder class
@@ -32,11 +32,11 @@ public class SVGFEFuncAElementBuilder : SVGElementBuilder<SVGFEFuncAElement>,
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfefuncaelementbuilder/addscript/)(Action&lt;SVGScriptElementBuilder&gt;) | Adds a script configuration to the feFuncA element. |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGFEFuncAElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
+| [AddScript](../../aspose.svg.builder/svgfefuncaelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feFuncA element. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEFuncAElement](../../aspose.svg.filters/svgfefuncaelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 
 ### See Also
 

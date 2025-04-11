@@ -1,7 +1,7 @@
 ---
 title: SVGRectElementBuilder.Ry
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRectElementBuilder method. Sets the ry attribute of the SVG rect element specifying the vertical radius of the rectangles rounded corners
+description: SVGRectElementBuilder Ry method. Sets the ry attribute of the SVG rect element specifying the vertical radius of the rectangles rounded corners
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgrectelementbuilder/ry/

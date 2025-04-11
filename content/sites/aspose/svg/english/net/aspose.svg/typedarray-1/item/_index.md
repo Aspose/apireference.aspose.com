@@ -1,7 +1,7 @@
 ---
 title: TypedArray-1.Item
 second_title: Aspose.SVG for .NET API Reference
-description: TypedArray property. Gets or sets the T at the specified index
+description: TypedArray Item property. Gets or sets the T at the specified index
 type: docs
 weight: 10
 url: /net/aspose.svg/typedarray-1/item/

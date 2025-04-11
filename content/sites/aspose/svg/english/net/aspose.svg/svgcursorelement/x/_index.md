@@ -1,7 +1,7 @@
 ---
 title: SVGCursorElement.X
 second_title: Aspose.SVG for .NET API Reference
-description: SVGCursorElement property. Corresponds to attribute x on the given cursor element
+description: SVGCursorElement X property. Corresponds to attribute x on the given cursor element
 type: docs
 weight: 50
 url: /net/aspose.svg/svgcursorelement/x/

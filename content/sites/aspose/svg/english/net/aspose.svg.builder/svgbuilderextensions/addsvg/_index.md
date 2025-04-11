@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddSvg
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds an svg scalable vector graphics element configuration to the builder
+description: SVGBuilderExtensions AddSvg method. Adds an svg scalable vector graphics element configuration to the builder
 type: docs
 weight: 500
 url: /net/aspose.svg.builder/svgbuilderextensions/addsvg/

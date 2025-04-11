@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnRateChange
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onratechange event attribute for handling events when the playback rate of media is changed
+description: SVGBuilderExtensions OnRateChange method. Sets the onratechange event attribute for handling events when the playback rate of media is changed
 type: docs
 weight: 1690
 url: /net/aspose.svg.builder/svgbuilderextensions/onratechange/

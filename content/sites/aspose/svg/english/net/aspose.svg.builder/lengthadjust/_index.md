@@ -3,7 +3,7 @@ title: LengthAdjust Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.LengthAdjust enum. Specifies how text length adjustments are made in SVG
 type: docs
-weight: 360
+weight: 860
 url: /net/aspose.svg.builder/lengthadjust/
 ---
 ## LengthAdjust enumeration

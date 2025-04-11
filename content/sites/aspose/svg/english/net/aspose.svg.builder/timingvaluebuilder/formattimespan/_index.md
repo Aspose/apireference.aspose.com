@@ -1,7 +1,7 @@
 ---
 title: TimingValueBuilder.FormatTimeSpan
 second_title: Aspose.SVG for .NET API Reference
-description: TimingValueBuilder method. Formats a TimeSpan into a string representation suitable for timing values
+description: TimingValueBuilder FormatTimeSpan method. Formats a TimeSpan into a string representation suitable for timing values
 type: docs
 weight: 100
 url: /net/aspose.svg.builder/timingvaluebuilder/formattimespan/

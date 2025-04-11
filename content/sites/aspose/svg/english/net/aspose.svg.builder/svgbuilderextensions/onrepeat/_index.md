@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnRepeat
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onrepeat attribute defining a script to be run each time the animation repeats
+description: SVGBuilderExtensions OnRepeat method. Sets the onrepeat attribute defining a script to be run each time the animation repeats
 type: docs
 weight: 1700
 url: /net/aspose.svg.builder/svgbuilderextensions/onrepeat/

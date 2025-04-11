@@ -3,7 +3,7 @@ title: FontWeight Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.FontWeight enum. Specifies the different weights of fonts for SVG text elements
 type: docs
-weight: 290
+weight: 330
 url: /net/aspose.svg.builder/fontweight/
 ---
 ## FontWeight enumeration

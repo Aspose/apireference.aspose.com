@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.Fill
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the fill attribute for an SVG element using a custom configuration
+description: SVGBuilderExtensions Fill method. Sets the fill attribute for an SVG element using a custom configuration
 type: docs
 weight: 810
 url: /net/aspose.svg.builder/svgbuilderextensions/fill/
 ---
-## Fill&lt;TBuilder&gt;(this TBuilder, Action&lt;PaintBuilder&gt;) {#fill_2}
+## Fill&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;PaintBuilder&amp;gt;*) {#fill_2}
 
 Sets the 'fill' attribute for an SVG element using a custom configuration.
 
@@ -36,7 +36,7 @@ The builder instance for chaining.
 
 ---
 
-## Fill&lt;TBuilder&gt;(this TBuilder, Color) {#fill_3}
+## Fill&lt;TBuilder&gt;(*this TBuilder, Color*) {#fill_3}
 
 Sets the 'fill' attribute for an SVG element using a color.
 
@@ -65,7 +65,7 @@ The builder instance for chaining.
 
 ---
 
-## Fill&lt;TBuilder&gt;(this TBuilder, Paint) {#fill_1}
+## Fill&lt;TBuilder&gt;(*this TBuilder, [Paint](../../paint/)*) {#fill_1}
 
 Sets the 'fill' attribute for an SVG element using a predefined Paint enum value.
 
@@ -95,7 +95,7 @@ The builder instance for chaining.
 
 ---
 
-## Fill&lt;TBuilder&gt;(this TBuilder, AnimationFill) {#fill}
+## Fill&lt;TBuilder&gt;(*this TBuilder, [AnimationFill](../../animationfill/)*) {#fill}
 
 Sets the 'fill' attribute, defining how the animation should apply styles outside its active duration.
 

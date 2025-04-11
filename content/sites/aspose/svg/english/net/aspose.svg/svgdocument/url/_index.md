@@ -1,7 +1,7 @@
 ---
 title: SVGDocument.URL
 second_title: Aspose.SVG for .NET API Reference
-description: SVGDocument property. The complete URI of the document
+description: SVGDocument URL property. The complete URI of the document
 type: docs
 weight: 60
 url: /net/aspose.svg/svgdocument/url/

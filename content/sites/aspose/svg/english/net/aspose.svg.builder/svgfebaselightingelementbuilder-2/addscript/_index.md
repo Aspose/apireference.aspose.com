@@ -1,7 +1,7 @@
 ---
 title: SVGFEBaseLightingElementBuilder-2.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEBaseLightingElementBuilder method. Adds a script configuration to the element
+description: SVGFEBaseLightingElementBuilder AddScript method. Adds a script configuration to the element
 type: docs
 weight: 10
 url: /net/aspose.svg.builder/svgfebaselightingelementbuilder-2/addscript/

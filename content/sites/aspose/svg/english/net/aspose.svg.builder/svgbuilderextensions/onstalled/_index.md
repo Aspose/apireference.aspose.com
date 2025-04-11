@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnStalled
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onstalled event attribute for handling events when media data transfer is unexpectedly halted
+description: SVGBuilderExtensions OnStalled method. Sets the onstalled event attribute for handling events when media data transfer is unexpectedly halted
 type: docs
 weight: 1780
 url: /net/aspose.svg.builder/svgbuilderextensions/onstalled/

@@ -1,7 +1,7 @@
 ---
 title: PathBuilder.M
 second_title: Aspose.SVG for .NET API Reference
-description: PathBuilder method. Adds a Move To command to the path data
+description: PathBuilder M method. Adds a Move To command to the path data
 type: docs
 weight: 120
 url: /net/aspose.svg.builder/pathbuilder/m/

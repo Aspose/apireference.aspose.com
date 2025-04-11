@@ -1,7 +1,7 @@
 ---
 title: SVGPatternElementBuilder.PatternTransform
 second_title: Aspose.SVG for .NET API Reference
-description: SVGPatternElementBuilder method. Sets the patternTransform attribute of the SVG pattern element applying a transformation to the pattern
+description: SVGPatternElementBuilder PatternTransform method. Sets the patternTransform attribute of the SVG pattern element applying a transformation to the pattern
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgpatternelementbuilder/patterntransform/

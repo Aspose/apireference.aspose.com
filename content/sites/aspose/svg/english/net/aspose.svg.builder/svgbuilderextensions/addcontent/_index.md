@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddContent
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds text content to the SVG element
+description: SVGBuilderExtensions AddContent method. Adds text content to the SVG element
 type: docs
 weight: 90
 url: /net/aspose.svg.builder/svgbuilderextensions/addcontent/

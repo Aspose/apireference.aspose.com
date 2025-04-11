@@ -1,7 +1,7 @@
 ---
 title: SVGMaskElement.MaskUnits
 second_title: Aspose.SVG for .NET API Reference
-description: SVGMaskElement property. Corresponds to attribute maskUnits on the given mask element. Takes one of the constants defined in SVGUnitTypes
+description: SVGMaskElement MaskUnits property. Corresponds to attribute maskUnits on the given mask element. Takes one of the constants defined in SVGUnitTypes
 type: docs
 weight: 30
 url: /net/aspose.svg/svgmaskelement/maskunits/

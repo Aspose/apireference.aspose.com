@@ -1,7 +1,7 @@
 ---
 title: SVGLinearGradientElement.X1
 second_title: Aspose.SVG for .NET API Reference
-description: SVGLinearGradientElement property. Corresponds to attribute x1 on the given linearGradient element
+description: SVGLinearGradientElement X1 property. Corresponds to attribute x1 on the given linearGradient element
 type: docs
 weight: 10
 url: /net/aspose.svg/svglineargradientelement/x1/

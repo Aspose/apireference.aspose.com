@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddStyle
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a style element configuration to the builder
+description: SVGBuilderExtensions AddStyle method. Adds a style element configuration to the builder
 type: docs
 weight: 490
 url: /net/aspose.svg.builder/svgbuilderextensions/addstyle/

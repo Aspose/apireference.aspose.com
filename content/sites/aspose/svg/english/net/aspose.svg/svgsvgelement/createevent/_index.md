@@ -1,7 +1,7 @@
 ---
 title: SVGSVGElement.CreateEvent
 second_title: Aspose.SVG for .NET API Reference
-description: SVGSVGElement method. Creates an Event of a type supported by the implementation
+description: SVGSVGElement CreateEvent method. Creates an Event of a type supported by the implementation
 type: docs
 weight: 110
 url: /net/aspose.svg/svgsvgelement/createevent/

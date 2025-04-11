@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddClipPath
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a clipPath element configuration to the builder
+description: SVGBuilderExtensions AddClipPath method. Adds a clipPath element configuration to the builder
 type: docs
 weight: 80
 url: /net/aspose.svg.builder/svgbuilderextensions/addclippath/

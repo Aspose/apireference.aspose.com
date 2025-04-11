@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnKeyDown
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onkeydown event attribute for handling keydown events on the element
+description: SVGBuilderExtensions OnKeyDown method. Sets the onkeydown event attribute for handling keydown events on the element
 type: docs
 weight: 1490
 url: /net/aspose.svg.builder/svgbuilderextensions/onkeydown/

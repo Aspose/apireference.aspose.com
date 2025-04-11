@@ -1,7 +1,7 @@
 ---
 title: SVGPathElementBuilder.D
 second_title: Aspose.SVG for .NET API Reference
-description: SVGPathElementBuilder method. Sets the d attribute of the SVG path element which defines the shape of the path
+description: SVGPathElementBuilder D method. Sets the d attribute of the SVG path element which defines the shape of the path
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgpathelementbuilder/d/

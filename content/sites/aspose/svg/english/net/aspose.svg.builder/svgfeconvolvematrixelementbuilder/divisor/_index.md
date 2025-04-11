@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElementBuilder.Divisor
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEConvolveMatrixElementBuilder method. Sets the divisor attribute of the feConvolveMatrix element
+description: SVGFEConvolveMatrixElementBuilder Divisor method. Sets the divisor attribute of the feConvolveMatrix element
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgfeconvolvematrixelementbuilder/divisor/

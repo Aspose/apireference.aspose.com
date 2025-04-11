@@ -3,7 +3,7 @@ title: IRectAttributeSetter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IRectAttributeSetter interface. Interface for setting rectangle attributes
 type: docs
-weight: 1330
+weight: 660
 url: /net/aspose.svg.builder/irectattributesetter/
 ---
 ## IRectAttributeSetter interface

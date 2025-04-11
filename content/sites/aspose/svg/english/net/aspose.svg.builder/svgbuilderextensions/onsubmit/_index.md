@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnSubmit
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onsubmit event attribute for handling form submission events
+description: SVGBuilderExtensions OnSubmit method. Sets the onsubmit event attribute for handling form submission events
 type: docs
 weight: 1790
 url: /net/aspose.svg.builder/svgbuilderextensions/onsubmit/

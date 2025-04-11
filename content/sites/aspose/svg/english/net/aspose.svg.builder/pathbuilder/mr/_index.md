@@ -1,7 +1,7 @@
 ---
 title: PathBuilder.Mr
 second_title: Aspose.SVG for .NET API Reference
-description: PathBuilder method. Adds a relative Move To command to the path data
+description: PathBuilder Mr method. Adds a relative Move To command to the path data
 type: docs
 weight: 130
 url: /net/aspose.svg.builder/pathbuilder/mr/

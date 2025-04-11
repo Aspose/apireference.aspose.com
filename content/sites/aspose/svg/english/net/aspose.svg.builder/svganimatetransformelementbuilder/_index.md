@@ -3,7 +3,7 @@ title: SVGAnimateTransformElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGAnimateTransformElementBuilder class. Builder class for constructing an SVG animateTransform element which is used for creating transformation animations within SVG graphics. It enables the building of content within the animateTransform element and provides methods to set various attributes specific to the animateTransform element in SVG
 type: docs
-weight: 1660
+weight: 1100
 url: /net/aspose.svg.builder/svganimatetransformelementbuilder/
 ---
 ## SVGAnimateTransformElementBuilder class
@@ -35,11 +35,11 @@ public class SVGAnimateTransformElementBuilder : SVGElementBuilder<SVGAnimateTra
 
 | Name | Description |
 | --- | --- |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGAnimateTransformElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [Type](../../aspose.svg.builder/svganimatetransformelementbuilder/type/)(TransformationType) | Sets the 'type' attribute of the SVG 'animateTransform' element, specifying the type of transformation. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGAnimateTransformElement](../../aspose.svg/svganimatetransformelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| [Type](../../aspose.svg.builder/svganimatetransformelementbuilder/type/)(*[TransformationType](../transformationtype/)*) | Sets the 'type' attribute of the SVG 'animateTransform' element, specifying the type of transformation. |
 
 ### See Also
 

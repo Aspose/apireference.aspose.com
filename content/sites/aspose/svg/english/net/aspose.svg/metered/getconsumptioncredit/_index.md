@@ -1,7 +1,7 @@
 ---
 title: Metered.GetConsumptionCredit
 second_title: Aspose.SVG for .NET API Reference
-description: Metered method. Gets consumption credit
+description: Metered GetConsumptionCredit method. Gets consumption credit
 type: docs
 weight: 30
 url: /net/aspose.svg/metered/getconsumptioncredit/

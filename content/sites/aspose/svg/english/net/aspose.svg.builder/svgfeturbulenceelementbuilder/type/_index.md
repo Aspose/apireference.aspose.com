@@ -1,7 +1,7 @@
 ---
 title: SVGFETurbulenceElementBuilder.Type
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFETurbulenceElementBuilder method. Sets the type of turbulence fractal noise or turbulence
+description: SVGFETurbulenceElementBuilder Type method. Sets the type of turbulence fractal noise or turbulence
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/svgfeturbulenceelementbuilder/type/

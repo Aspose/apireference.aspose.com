@@ -1,7 +1,7 @@
 ---
 title: AnimationSplineBuilder.Build
 second_title: Aspose.SVG for .NET API Reference
-description: AnimationSplineBuilder method. Builds the animation spline value as a string
+description: AnimationSplineBuilder Build method. Builds the animation spline value as a string
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/animationsplinebuilder/build/

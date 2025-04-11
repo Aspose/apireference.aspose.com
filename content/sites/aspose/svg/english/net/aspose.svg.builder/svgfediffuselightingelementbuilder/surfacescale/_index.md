@@ -1,7 +1,7 @@
 ---
 title: SVGFEDiffuseLightingElementBuilder.SurfaceScale
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDiffuseLightingElementBuilder method. Sets the surfaceScale attribute of the feDiffuseLighting element
+description: SVGFEDiffuseLightingElementBuilder SurfaceScale method. Sets the surfaceScale attribute of the feDiffuseLighting element
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgfediffuselightingelementbuilder/surfacescale/

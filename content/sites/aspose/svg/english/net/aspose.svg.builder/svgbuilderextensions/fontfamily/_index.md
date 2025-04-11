@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.FontFamily
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the font-family attribute for an SVG element
+description: SVGBuilderExtensions FontFamily method. Sets the font-family attribute for an SVG element
 type: docs
 weight: 870
 url: /net/aspose.svg.builder/svgbuilderextensions/fontfamily/

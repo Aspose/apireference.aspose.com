@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnMouseEnter
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onmouseenter event attribute for handling mouse enter events on the element
+description: SVGBuilderExtensions OnMouseEnter method. Sets the onmouseenter event attribute for handling mouse enter events on the element
 type: docs
 weight: 1570
 url: /net/aspose.svg.builder/svgbuilderextensions/onmouseenter/

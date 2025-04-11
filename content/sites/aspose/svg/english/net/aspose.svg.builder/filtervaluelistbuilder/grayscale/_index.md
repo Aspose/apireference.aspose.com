@@ -1,7 +1,7 @@
 ---
 title: FilterValueListBuilder.Grayscale
 second_title: Aspose.SVG for .NET API Reference
-description: FilterValueListBuilder method. Adds a grayscale filter
+description: FilterValueListBuilder Grayscale method. Adds a grayscale filter
 type: docs
 weight: 80
 url: /net/aspose.svg.builder/filtervaluelistbuilder/grayscale/

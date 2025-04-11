@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.Rotate
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets rotation angles for individual characters or segments of the text content
+description: SVGBuilderExtensions Rotate method. Sets rotation angles for individual characters or segments of the text content
 type: docs
 weight: 2000
 url: /net/aspose.svg.builder/svgbuilderextensions/rotate/
 ---
-## Rotate&lt;TBuilder&gt;(this TBuilder, params double[]) {#rotate_1}
+## Rotate&lt;TBuilder&gt;(*this TBuilder, params double[]*) {#rotate_1}
 
 Sets rotation angles for individual characters or segments of the text content.
 
@@ -39,7 +39,7 @@ This method sets the 'rotate' attribute with multiple values, allowing for indiv
 
 ---
 
-## Rotate&lt;TBuilder&gt;(this TBuilder, double) {#rotate}
+## Rotate&lt;TBuilder&gt;(*this TBuilder, double*) {#rotate}
 
 Sets a single rotation angle for the entire text content.
 

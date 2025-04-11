@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnEnded
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onended event attribute for handling the end of media playback
+description: SVGBuilderExtensions OnEnded method. Sets the onended event attribute for handling the end of media playback
 type: docs
 weight: 1420
 url: /net/aspose.svg.builder/svgbuilderextensions/onended/

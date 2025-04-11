@@ -1,7 +1,7 @@
 ---
 title: SVGLineElement.Y1
 second_title: Aspose.SVG for .NET API Reference
-description: SVGLineElement property. Corresponds to attribute y1 on the given line element
+description: SVGLineElement Y1 property. Corresponds to attribute y1 on the given line element
 type: docs
 weight: 30
 url: /net/aspose.svg/svglineelement/y1/

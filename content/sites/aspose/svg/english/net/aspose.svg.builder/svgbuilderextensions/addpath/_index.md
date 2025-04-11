@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.AddPath
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a path element to the SVG builder specifying its path data and styles
+description: SVGBuilderExtensions AddPath method. Adds a path element to the SVG builder specifying its path data and styles
 type: docs
 weight: 400
 url: /net/aspose.svg.builder/svgbuilderextensions/addpath/
 ---
-## AddPath&lt;TBuilder&gt;(this TBuilder, OneOf&lt;string, Action&lt;PathBuilder&gt;&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGPathElementBuilder&gt;) {#addpath}
+## AddPath&lt;TBuilder&gt;(*this TBuilder, OneOf&amp;lt;string, Action&amp;lt;PathBuilder&amp;gt;&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGPathElementBuilder&amp;gt;*) {#addpath}
 
 Adds a 'path' element to the SVG builder, specifying its path data and styles.
 
@@ -47,7 +47,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddPath&lt;TBuilder&gt;(this TBuilder, Action&lt;PathBuilder&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGPathElementBuilder&gt;) {#addpath_1}
+## AddPath&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;PathBuilder&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGPathElementBuilder&amp;gt;*) {#addpath_1}
 
 Overload of AddPath that takes an action to configure a PathBuilder directly.
 
@@ -86,7 +86,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddPath&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGPathElementBuilder&gt;) {#addpath_2}
+## AddPath&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGPathElementBuilder&amp;gt;*) {#addpath_2}
 
 Adds a 'path' element configuration to the builder.
 

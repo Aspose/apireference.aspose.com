@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnMouseOut
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onmouseout event attribute for handling mouse out events on the element
+description: SVGBuilderExtensions OnMouseOut method. Sets the onmouseout event attribute for handling mouse out events on the element
 type: docs
 weight: 1600
 url: /net/aspose.svg.builder/svgbuilderextensions/onmouseout/

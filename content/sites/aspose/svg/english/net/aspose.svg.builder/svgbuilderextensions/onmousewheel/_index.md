@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnMouseWheel
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onmousewheel event attribute for handling mouse wheel events on the element
+description: SVGBuilderExtensions OnMouseWheel method. Sets the onmousewheel event attribute for handling mouse wheel events on the element
 type: docs
 weight: 1630
 url: /net/aspose.svg.builder/svgbuilderextensions/onmousewheel/

@@ -3,7 +3,7 @@ title: MorphologyOperator Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.MorphologyOperator enum. Specifies the type of morphological operation to be applied in SVG filters
 type: docs
-weight: 410
+weight: 920
 url: /net/aspose.svg.builder/morphologyoperator/
 ---
 ## MorphologyOperator enumeration

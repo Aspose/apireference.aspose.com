@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Restart
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the restart attribute defining how the animation should behave when it completes
+description: SVGBuilderExtensions Restart method. Sets the restart attribute defining how the animation should behave when it completes
 type: docs
 weight: 1980
 url: /net/aspose.svg.builder/svgbuilderextensions/restart/

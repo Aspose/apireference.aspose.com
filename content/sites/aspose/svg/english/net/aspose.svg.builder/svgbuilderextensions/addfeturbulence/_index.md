@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.AddFeTurbulence
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds an feTurbulence element to the SVG builder creating a turbulence effect such as clouds or marble using Perlin noise
+description: SVGBuilderExtensions AddFeTurbulence method. Adds an feTurbulence element to the SVG builder creating a turbulence effect such as clouds or marble using Perlin noise
 type: docs
 weight: 290
 url: /net/aspose.svg.builder/svgbuilderextensions/addfeturbulence/
 ---
-## AddFeTurbulence&lt;TBuilder&gt;(this TBuilder, OneOf&lt;double, (double, double)&gt;, int?, double?, StitchTiles?, TurbulenceType?, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFETurbulenceElementBuilder&gt;) {#addfeturbulence}
+## AddFeTurbulence&lt;TBuilder&gt;(*this TBuilder, OneOf&amp;lt;double, (double, double)&amp;gt;, int?, double?, StitchTiles?, TurbulenceType?, OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFETurbulenceElementBuilder&amp;gt;*) {#addfeturbulence}
 
 Adds an 'feTurbulence' element to the SVG builder, creating a turbulence effect, such as clouds or marble, using Perlin noise.
 
@@ -65,7 +65,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeTurbulence&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFETurbulenceElementBuilder&gt;) {#addfeturbulence_1}
+## AddFeTurbulence&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFETurbulenceElementBuilder&amp;gt;*) {#addfeturbulence_1}
 
 Adds an 'feTurbulence' element configuration to the builder. This element creates an image using Perlin noise, useful for creating textures like clouds or marble.
 

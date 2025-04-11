@@ -1,7 +1,7 @@
 ---
 title: SVGCircleElementBuilder.R
 second_title: Aspose.SVG for .NET API Reference
-description: SVGCircleElementBuilder method. Sets the r attribute of the SVG circle element specifying the radius of the circle
+description: SVGCircleElementBuilder R method. Sets the r attribute of the SVG circle element specifying the radius of the circle
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgcircleelementbuilder/r/

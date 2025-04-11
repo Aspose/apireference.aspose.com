@@ -1,7 +1,7 @@
 ---
 title: TransformBuilder.Build
 second_title: Aspose.SVG for .NET API Reference
-description: TransformBuilder method. Builds the transform attribute string
+description: TransformBuilder Build method. Builds the transform attribute string
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/transformbuilder/build/

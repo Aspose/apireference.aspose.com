@@ -1,7 +1,7 @@
 ---
 title: ClipPathBuilder.Ellipse
 second_title: Aspose.SVG for .NET API Reference
-description: ClipPathBuilder method. Defines an elliptical clip path
+description: ClipPathBuilder Ellipse method. Defines an elliptical clip path
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/clippathbuilder/ellipse/

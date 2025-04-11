@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnInput
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the oninput event attribute for handling input events on the element
+description: SVGBuilderExtensions OnInput method. Sets the oninput event attribute for handling input events on the element
 type: docs
 weight: 1470
 url: /net/aspose.svg.builder/svgbuilderextensions/oninput/

@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.svg.builder/oneof-3/oneof/
 ---
-## OneOf(T1) {#constructor}
+## OneOf(*T1*) {#constructor}
 
 Initializes a new instance of the OneOf class with a value of type T1.
 
@@ -26,7 +26,7 @@ public OneOf(T1 value)
 
 ---
 
-## OneOf(T2) {#constructor_1}
+## OneOf(*T2*) {#constructor_1}
 
 Initializes a new instance of the OneOf class with a value of type T2.
 
@@ -46,7 +46,7 @@ public OneOf(T2 value)
 
 ---
 
-## OneOf(T3) {#constructor_2}
+## OneOf(*T3*) {#constructor_2}
 
 Initializes a new instance of the OneOf class with a value of type T3.
 

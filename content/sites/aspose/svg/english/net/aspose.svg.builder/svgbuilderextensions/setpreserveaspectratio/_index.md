@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.SetPreserveAspectRatio
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the preserveAspectRatio attribute for an SVG element
+description: SVGBuilderExtensions SetPreserveAspectRatio method. Sets the preserveAspectRatio attribute for an SVG element
 type: docs
 weight: 2020
 url: /net/aspose.svg.builder/svgbuilderextensions/setpreserveaspectratio/

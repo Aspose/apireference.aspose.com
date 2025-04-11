@@ -1,7 +1,7 @@
 ---
 title: TimingValueBuilder.AddAccessKey
 second_title: Aspose.SVG for .NET API Reference
-description: TimingValueBuilder method. Adds an access key-based timing value
+description: TimingValueBuilder AddAccessKey method. Adds an access key-based timing value
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/timingvaluebuilder/addaccesskey/

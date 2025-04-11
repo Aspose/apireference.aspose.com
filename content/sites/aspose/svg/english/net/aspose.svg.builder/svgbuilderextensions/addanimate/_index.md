@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddAnimate
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds an animate element configuration to the builder
+description: SVGBuilderExtensions AddAnimate method. Adds an animate element configuration to the builder
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgbuilderextensions/addanimate/

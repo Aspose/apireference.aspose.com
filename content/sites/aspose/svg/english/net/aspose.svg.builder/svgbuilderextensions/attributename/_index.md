@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AttributeName
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the attributeName attribute specifying the name of the CSS property or attribute to be animated
+description: SVGBuilderExtensions AttributeName method. Sets the attributeName attribute specifying the name of the CSS property or attribute to be animated
 type: docs
 weight: 590
 url: /net/aspose.svg.builder/svgbuilderextensions/attributename/

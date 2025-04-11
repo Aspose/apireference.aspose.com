@@ -1,7 +1,7 @@
 ---
 title: SVGTextPathElementBuilder.AddA
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTextPathElementBuilder method. Adds an a anchor element configuration to the textPath
+description: SVGTextPathElementBuilder AddA method. Adds an a anchor element configuration to the textPath
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgtextpathelementbuilder/adda/

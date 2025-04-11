@@ -1,7 +1,7 @@
 ---
 title: SVGTextPathElementBuilder.TextLength
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTextPathElementBuilder method. Sets the textLength attribute specifying the length of the text
+description: SVGTextPathElementBuilder TextLength method. Sets the textLength attribute specifying the length of the text
 type: docs
 weight: 110
 url: /net/aspose.svg.builder/svgtextpathelementbuilder/textlength/

@@ -1,7 +1,7 @@
 ---
 title: SVGFESpotLightElementBuilder.Y
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFESpotLightElementBuilder method. Sets the y attribute representing the y-coordinate of the light source
+description: SVGFESpotLightElementBuilder Y method. Sets the y attribute representing the y-coordinate of the light source
 type: docs
 weight: 80
 url: /net/aspose.svg.builder/svgfespotlightelementbuilder/y/

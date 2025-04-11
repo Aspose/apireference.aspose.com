@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddSet
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a set element configuration to the builder
+description: SVGBuilderExtensions AddSet method. Adds a set element configuration to the builder
 type: docs
 weight: 470
 url: /net/aspose.svg.builder/svgbuilderextensions/addset/

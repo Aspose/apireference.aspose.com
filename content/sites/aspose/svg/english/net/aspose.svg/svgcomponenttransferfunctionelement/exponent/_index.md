@@ -1,7 +1,7 @@
 ---
 title: SVGComponentTransferFunctionElement.Exponent
 second_title: Aspose.SVG for .NET API Reference
-description: SVGComponentTransferFunctionElement property. Corresponds to attribute exponent on the given element
+description: SVGComponentTransferFunctionElement Exponent property. Corresponds to attribute exponent on the given element
 type: docs
 weight: 20
 url: /net/aspose.svg/svgcomponenttransferfunctionelement/exponent/

@@ -1,7 +1,7 @@
 ---
 title: SVGTSpanElementBuilder.AddTSpan
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTSpanElementBuilder method. Adds a nested tspan element to the current tspan element
+description: SVGTSpanElementBuilder AddTSpan method. Adds a nested tspan element to the current tspan element
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgtspanelementbuilder/addtspan/

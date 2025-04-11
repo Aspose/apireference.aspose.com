@@ -1,7 +1,7 @@
 ---
 title: DOMTokenList.Contains
 second_title: Aspose.SVG for .NET API Reference
-description: DOMTokenList method. Returns true if the list contains the given token otherwise false
+description: DOMTokenList Contains method. Returns true if the list contains the given token otherwise false
 type: docs
 weight: 50
 url: /net/aspose.svg.collections/domtokenlist/contains/

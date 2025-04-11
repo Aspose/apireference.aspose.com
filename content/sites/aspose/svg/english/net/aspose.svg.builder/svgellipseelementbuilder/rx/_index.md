@@ -1,7 +1,7 @@
 ---
 title: SVGEllipseElementBuilder.Rx
 second_title: Aspose.SVG for .NET API Reference
-description: SVGEllipseElementBuilder method. Sets the rx attribute of the SVG ellipse element specifying the horizontal radius of the ellipse
+description: SVGEllipseElementBuilder Rx method. Sets the rx attribute of the SVG ellipse element specifying the horizontal radius of the ellipse
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgellipseelementbuilder/rx/

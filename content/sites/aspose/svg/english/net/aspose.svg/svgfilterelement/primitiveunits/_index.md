@@ -1,7 +1,7 @@
 ---
 title: SVGFilterElement.PrimitiveUnits
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFilterElement property. Corresponds to attribute primitiveUnits on the given filter element. Takes one of the constants defined in SVGUnitTypes
+description: SVGFilterElement PrimitiveUnits property. Corresponds to attribute primitiveUnits on the given filter element. Takes one of the constants defined in SVGUnitTypes
 type: docs
 weight: 40
 url: /net/aspose.svg/svgfilterelement/primitiveunits/

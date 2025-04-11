@@ -1,7 +1,7 @@
 ---
 title: MaskBuilder.GeometryBox
 second_title: Aspose.SVG for .NET API Reference
-description: MaskBuilder method. Sets the geometry box of the mask
+description: MaskBuilder GeometryBox method. Sets the geometry box of the mask
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/maskbuilder/geometrybox/

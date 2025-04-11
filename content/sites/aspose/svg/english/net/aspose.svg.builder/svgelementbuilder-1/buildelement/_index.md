@@ -1,7 +1,7 @@
 ---
 title: SVGElementBuilder-1.BuildElement
 second_title: Aspose.SVG for .NET API Reference
-description: SVGElementBuilder method. Builds the SVG element as a generic SVGElement
+description: SVGElementBuilder BuildElement method. Builds the SVG element as a generic SVGElement
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgelementbuilder-1/buildelement/

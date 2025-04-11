@@ -3,7 +3,7 @@ title: SVGFEDropShadowElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEDropShadowElementBuilder class. Builder class for creating SVG feDropShadow elements used within SVG filters to apply a drop shadow effect
 type: docs
-weight: 860
+weight: 1270
 url: /net/aspose.svg.builder/svgfedropshadowelementbuilder/
 ---
 ## SVGFEDropShadowElementBuilder class
@@ -32,14 +32,14 @@ public class SVGFEDropShadowElementBuilder : SVGElementBuilder<SVGFEDropShadowEl
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfedropshadowelementbuilder/addscript/)(Action&lt;SVGScriptElementBuilder&gt;) | Adds a script configuration to the feDropShadow element. |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGFEDropShadowElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [Dx](../../aspose.svg.builder/svgfedropshadowelementbuilder/dx/)(double) | Sets the horizontal offset ('dx') for the drop shadow. |
-| [Dy](../../aspose.svg.builder/svgfedropshadowelementbuilder/dy/)(double) | Sets the vertical offset ('dy') for the drop shadow. |
-| [StdDeviation](../../aspose.svg.builder/svgfedropshadowelementbuilder/stddeviation/)(double, double?) | Sets the standard deviation for the blur effect in the drop shadow. |
+| [AddScript](../../aspose.svg.builder/svgfedropshadowelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feDropShadow element. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEDropShadowElement](../../aspose.svg.filters/svgfedropshadowelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| [Dx](../../aspose.svg.builder/svgfedropshadowelementbuilder/dx/)(*double*) | Sets the horizontal offset ('dx') for the drop shadow. |
+| [Dy](../../aspose.svg.builder/svgfedropshadowelementbuilder/dy/)(*double*) | Sets the vertical offset ('dy') for the drop shadow. |
+| [StdDeviation](../../aspose.svg.builder/svgfedropshadowelementbuilder/stddeviation/)(*double, double?*) | Sets the standard deviation for the blur effect in the drop shadow. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: SVGLinearGradientElementBuilder.X1
 second_title: Aspose.SVG for .NET API Reference
-description: SVGLinearGradientElementBuilder method. Sets the x1 attribute of the SVG linearGradient element specifying the x-coordinate of the start point of the gradient
+description: SVGLinearGradientElementBuilder X1 method. Sets the x1 attribute of the SVG linearGradient element specifying the x-coordinate of the start point of the gradient
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/svglineargradientelementbuilder/x1/

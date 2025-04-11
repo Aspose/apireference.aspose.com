@@ -3,7 +3,7 @@ title: GeometryBox Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.GeometryBox enum. Specifies the reference box for mask and clip-path elements in SVG
 type: docs
-weight: 300
+weight: 340
 url: /net/aspose.svg.builder/geometrybox/
 ---
 ## GeometryBox enumeration

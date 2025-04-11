@@ -1,7 +1,7 @@
 ---
 title: FilterValueListBuilder.Invert
 second_title: Aspose.SVG for .NET API Reference
-description: FilterValueListBuilder method. Adds an invert filter
+description: FilterValueListBuilder Invert method. Adds an invert filter
 type: docs
 weight: 100
 url: /net/aspose.svg.builder/filtervaluelistbuilder/invert/

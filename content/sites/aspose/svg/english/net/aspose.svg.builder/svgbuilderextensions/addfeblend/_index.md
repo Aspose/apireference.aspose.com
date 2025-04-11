@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.AddFeBlend
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds an feBlend element to the SVG builder specifying the blend mode and various other properties for the filter effect
+description: SVGBuilderExtensions AddFeBlend method. Adds an feBlend element to the SVG builder specifying the blend mode and various other properties for the filter effect
 type: docs
 weight: 130
 url: /net/aspose.svg.builder/svgbuilderextensions/addfeblend/
 ---
-## AddFeBlend&lt;TBuilder&gt;(this TBuilder, BlendMode?, OneOf&lt;string, FilterInput&gt;, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEBlendElementBuilder&gt;) {#addfeblend_1}
+## AddFeBlend&lt;TBuilder&gt;(*this TBuilder, BlendMode?, OneOf&amp;lt;string, FilterInput&amp;gt;, OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFEBlendElementBuilder&amp;gt;*) {#addfeblend_1}
 
 Adds an 'feBlend' element to the SVG builder, specifying the blend mode and various other properties for the filter effect.
 
@@ -59,7 +59,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeBlend&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFEBlendElementBuilder&gt;) {#addfeblend}
+## AddFeBlend&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEBlendElementBuilder&amp;gt;*) {#addfeblend}
 
 Adds an 'feBlend' element configuration to the builder. This element defines a blend effect between two graphics.
 

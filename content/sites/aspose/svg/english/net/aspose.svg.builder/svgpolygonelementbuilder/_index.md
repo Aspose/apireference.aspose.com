@@ -3,7 +3,7 @@ title: SVGPolygonElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGPolygonElementBuilder class. Builder class for constructing an SVG polygon element. The polygon element is used to create a graphic that contains at least three sides. This class provides methods to set various attributes and animate the polygon element
 type: docs
-weight: 1830
+weight: 1550
 url: /net/aspose.svg.builder/svgpolygonelementbuilder/
 ---
 ## SVGPolygonElementBuilder class
@@ -32,10 +32,10 @@ public class SVGPolygonElementBuilder : SVGElementBuilder<SVGPolygonElement>,
 
 | Name | Description |
 | --- | --- |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGPolygonElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGPolygonElement](../../aspose.svg/svgpolygonelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 
 ### See Also
 

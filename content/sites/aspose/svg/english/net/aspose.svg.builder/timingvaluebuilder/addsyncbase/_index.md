@@ -1,7 +1,7 @@
 ---
 title: TimingValueBuilder.AddSyncbase
 second_title: Aspose.SVG for .NET API Reference
-description: TimingValueBuilder method. Adds a syncbase timing value which synchronizes with another elements timing
+description: TimingValueBuilder AddSyncbase method. Adds a syncbase timing value which synchronizes with another elements timing
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/timingvaluebuilder/addsyncbase/

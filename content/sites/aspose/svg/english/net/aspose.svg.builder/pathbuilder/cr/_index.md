@@ -1,7 +1,7 @@
 ---
 title: PathBuilder.Cr
 second_title: Aspose.SVG for .NET API Reference
-description: PathBuilder method. Adds a relative Cubic Bezier Curve command to the path data
+description: PathBuilder Cr method. Adds a relative Cubic Bezier Curve command to the path data
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/pathbuilder/cr/

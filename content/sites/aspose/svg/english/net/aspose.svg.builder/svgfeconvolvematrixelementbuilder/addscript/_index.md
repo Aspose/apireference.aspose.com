@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEConvolveMatrixElementBuilder method. Adds a script configuration to the element
+description: SVGFEConvolveMatrixElementBuilder AddScript method. Adds a script configuration to the element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfeconvolvematrixelementbuilder/addscript/

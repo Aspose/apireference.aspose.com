@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElementBuilder.TargetY
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEConvolveMatrixElementBuilder method. Sets the targetY attribute of the feConvolveMatrix element
+description: SVGFEConvolveMatrixElementBuilder TargetY method. Sets the targetY attribute of the feConvolveMatrix element
 type: docs
 weight: 110
 url: /net/aspose.svg.builder/svgfeconvolvematrixelementbuilder/targety/

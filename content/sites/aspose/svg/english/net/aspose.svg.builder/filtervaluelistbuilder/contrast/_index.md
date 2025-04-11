@@ -1,7 +1,7 @@
 ---
 title: FilterValueListBuilder.Contrast
 second_title: Aspose.SVG for .NET API Reference
-description: FilterValueListBuilder method. Adds a contrast filter
+description: FilterValueListBuilder Contrast method. Adds a contrast filter
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/filtervaluelistbuilder/contrast/

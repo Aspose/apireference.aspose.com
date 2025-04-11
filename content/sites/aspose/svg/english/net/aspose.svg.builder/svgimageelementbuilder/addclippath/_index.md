@@ -1,7 +1,7 @@
 ---
 title: SVGImageElementBuilder.AddClipPath
 second_title: Aspose.SVG for .NET API Reference
-description: SVGImageElementBuilder method. Adds a clip path configuration to the SVG image element
+description: SVGImageElementBuilder AddClipPath method. Adds a clip path configuration to the SVG image element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgimageelementbuilder/addclippath/

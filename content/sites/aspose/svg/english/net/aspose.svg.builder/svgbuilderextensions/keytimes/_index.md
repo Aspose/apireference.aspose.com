@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.KeyTimes
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the keyTimes attribute defining the times at which the key values are applied
+description: SVGBuilderExtensions KeyTimes method. Sets the keyTimes attribute defining the times at which the key values are applied
 type: docs
 weight: 1070
 url: /net/aspose.svg.builder/svgbuilderextensions/keytimes/

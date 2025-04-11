@@ -1,7 +1,7 @@
 ---
 title: SVGEllipseElementBuilder.Cy
 second_title: Aspose.SVG for .NET API Reference
-description: SVGEllipseElementBuilder method. Sets the cy attribute of the SVG ellipse element specifying the y-coordinate of the center of the ellipse
+description: SVGEllipseElementBuilder Cy method. Sets the cy attribute of the SVG ellipse element specifying the y-coordinate of the center of the ellipse
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgellipseelementbuilder/cy/

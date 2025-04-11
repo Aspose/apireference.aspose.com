@@ -1,7 +1,7 @@
 ---
 title: FilterValueListBuilder.Blur
 second_title: Aspose.SVG for .NET API Reference
-description: FilterValueListBuilder method. Adds a blur filter
+description: FilterValueListBuilder Blur method. Adds a blur filter
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/filtervaluelistbuilder/blur/

@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.FontStyle
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the font-style attribute for an SVG element using a predefined font style value
+description: SVGBuilderExtensions FontStyle method. Sets the font-style attribute for an SVG element using a predefined font style value
 type: docs
 weight: 920
 url: /net/aspose.svg.builder/svgbuilderextensions/fontstyle/

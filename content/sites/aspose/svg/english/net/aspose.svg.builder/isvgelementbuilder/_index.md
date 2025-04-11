@@ -3,7 +3,7 @@ title: ISVGElementBuilder Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ISVGElementBuilder interface. Interface for building SVG Scalable Vector Graphics elements. This interface defines the essential methods and properties required to construct SVG elements programmatically. It extends the IAttributeSetter interface to include attribute setting capabilities
 type: docs
-weight: 1390
+weight: 680
 url: /net/aspose.svg.builder/isvgelementbuilder/
 ---
 ## ISVGElementBuilder interface
@@ -24,7 +24,7 @@ public interface ISVGElementBuilder : IAttributeSetter
 
 | Name | Description |
 | --- | --- |
-| [BuildElement](../../aspose.svg.builder/isvgelementbuilder/buildelement/)(Document) | Builds and returns an SVGElement instance based on the current configuration of the builder. |
+| [BuildElement](../../aspose.svg.builder/isvgelementbuilder/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) | Builds and returns an SVGElement instance based on the current configuration of the builder. |
 
 ### See Also
 

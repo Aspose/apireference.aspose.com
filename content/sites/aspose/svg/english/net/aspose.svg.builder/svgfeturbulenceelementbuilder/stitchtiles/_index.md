@@ -1,7 +1,7 @@
 ---
 title: SVGFETurbulenceElementBuilder.StitchTiles
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFETurbulenceElementBuilder method. Sets the stitch tiles option for the turbulence function
+description: SVGFETurbulenceElementBuilder StitchTiles method. Sets the stitch tiles option for the turbulence function
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/svgfeturbulenceelementbuilder/stitchtiles/

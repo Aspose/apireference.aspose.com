@@ -1,7 +1,7 @@
 ---
 title: SVGStyleElement.Sheet
 second_title: Aspose.SVG for .NET API Reference
-description: SVGStyleElement property. Gets the associated style sheet
+description: SVGStyleElement Sheet property. Gets the associated style sheet
 type: docs
 weight: 20
 url: /net/aspose.svg/svgstyleelement/sheet/

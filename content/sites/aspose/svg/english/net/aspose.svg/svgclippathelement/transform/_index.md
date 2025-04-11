@@ -1,7 +1,7 @@
 ---
 title: SVGClipPathElement.Transform
 second_title: Aspose.SVG for .NET API Reference
-description: SVGClipPathElement property. Corresponds to attribute transform on the given element
+description: SVGClipPathElement Transform property. Corresponds to attribute transform on the given element
 type: docs
 weight: 20
 url: /net/aspose.svg/svgclippathelement/transform/

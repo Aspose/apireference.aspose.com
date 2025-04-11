@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.TextRendering
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the text-rendering attribute for an SVG element providing hints to the renderer about what trade-offs to make when rendering text
+description: SVGBuilderExtensions TextRendering method. Sets the text-rendering attribute for an SVG element providing hints to the renderer about what trade-offs to make when rendering text
 type: docs
 weight: 2240
 url: /net/aspose.svg.builder/svgbuilderextensions/textrendering/

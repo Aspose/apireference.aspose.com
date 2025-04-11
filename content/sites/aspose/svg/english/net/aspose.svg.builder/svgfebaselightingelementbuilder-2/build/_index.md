@@ -1,7 +1,7 @@
 ---
 title: SVGFEBaseLightingElementBuilder-2.Build
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEBaseLightingElementBuilder method. Builds the SVG element applying the light source configuration if specified
+description: SVGFEBaseLightingElementBuilder Build method. Builds the SVG element applying the light source configuration if specified
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfebaselightingelementbuilder-2/build/

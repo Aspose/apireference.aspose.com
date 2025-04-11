@@ -1,7 +1,7 @@
 ---
 title: SVGTextPositioningElement.Rotate
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTextPositioningElement property. Corresponds to attribute rotate on the given element
+description: SVGTextPositioningElement Rotate property. Corresponds to attribute rotate on the given element
 type: docs
 weight: 30
 url: /net/aspose.svg/svgtextpositioningelement/rotate/

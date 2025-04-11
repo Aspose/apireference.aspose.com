@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnDrag
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the ondrag event attribute for handling drag actions on the element
+description: SVGBuilderExtensions OnDrag method. Sets the ondrag event attribute for handling drag actions on the element
 type: docs
 weight: 1310
 url: /net/aspose.svg.builder/svgbuilderextensions/ondrag/

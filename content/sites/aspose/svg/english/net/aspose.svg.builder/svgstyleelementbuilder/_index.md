@@ -3,7 +3,7 @@ title: SVGStyleElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGStyleElementBuilder class. A builder class for constructing an SVG style element. This class facilitates the creation and configuration of an SVG style element with CSS rules
 type: docs
-weight: 1900
+weight: 1630
 url: /net/aspose.svg.builder/svgstyleelementbuilder/
 ---
 ## SVGStyleElementBuilder class
@@ -31,16 +31,16 @@ public class SVGStyleElementBuilder : SVGElementBuilder<SVGStyleElement>, ICoreA
 
 | Name | Description |
 | --- | --- |
-| [AddComment](../../aspose.svg.builder/svgstyleelementbuilder/addcomment/)(string) | Adds a comment to the style content. |
-| [AddRule](../../aspose.svg.builder/svgstyleelementbuilder/addrule/#addrule)(string, Action&lt;RuleBuilder&gt;) | Adds a CSS rule to the style element using a RuleBuilder. |
-| [AddRule](../../aspose.svg.builder/svgstyleelementbuilder/addrule/#addrule_1)(string, string) | Adds a CSS rule to the style element. |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| override [Build](../../aspose.svg.builder/svgstyleelementbuilder/build/#build)(Document) | Builds the SVG style element with the accumulated CSS rules and adds it to the specified document. |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGStyleElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [Media](../../aspose.svg.builder/svgstyleelementbuilder/media/)(string) | Sets the 'media' attribute of the SVG 'style' element. This attribute specifies the media for which the styles are intended, allowing the styles to be conditional on the media type. |
-| [Title](../../aspose.svg.builder/svgstyleelementbuilder/title/)(string) | Sets the 'title' attribute of the SVG 'style' element. This attribute provides an advisory title for the style element, which can be useful for accessibility and tool-tip text. |
-| [Type](../../aspose.svg.builder/svgstyleelementbuilder/type/)(string) | Sets the 'type' attribute of the SVG 'style' element. This attribute specifies the style sheet language of the element's contents. |
+| [AddComment](../../aspose.svg.builder/svgstyleelementbuilder/addcomment/)(*string*) | Adds a comment to the style content. |
+| [AddRule](../../aspose.svg.builder/svgstyleelementbuilder/addrule/#addrule)(*string, Action&amp;lt;RuleBuilder&amp;gt;*) | Adds a CSS rule to the style element using a RuleBuilder. |
+| [AddRule](../../aspose.svg.builder/svgstyleelementbuilder/addrule/#addrule_1)(*string, string*) | Adds a CSS rule to the style element. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| override [Build](../../aspose.svg.builder/svgstyleelementbuilder/build/#build)(*[Document](../../aspose.svg.dom/document/)*) | Builds the SVG style element with the accumulated CSS rules and adds it to the specified document. |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGStyleElement](../../aspose.svg/svgstyleelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| [Media](../../aspose.svg.builder/svgstyleelementbuilder/media/)(*string*) | Sets the 'media' attribute of the SVG 'style' element. This attribute specifies the media for which the styles are intended, allowing the styles to be conditional on the media type. |
+| [Title](../../aspose.svg.builder/svgstyleelementbuilder/title/)(*string*) | Sets the 'title' attribute of the SVG 'style' element. This attribute provides an advisory title for the style element, which can be useful for accessibility and tool-tip text. |
+| [Type](../../aspose.svg.builder/svgstyleelementbuilder/type/)(*string*) | Sets the 'type' attribute of the SVG 'style' element. This attribute specifies the style sheet language of the element's contents. |
 
 ### See Also
 

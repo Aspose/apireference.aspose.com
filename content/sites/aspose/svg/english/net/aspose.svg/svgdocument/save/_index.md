@@ -1,12 +1,12 @@
 ---
 title: SVGDocument.Save
 second_title: Aspose.SVG for .NET API Reference
-description: SVGDocument method. Saves the document to local file specified by url. All resources used in this document will be saved in to adjacent folder whose name will be constructed as output_file_name  _files. If the specified url ends with .svgz the document will be saved as a compressed SVGZ file
+description: SVGDocument Save method. Saves the document to local file specified by url. All resources used in this document will be saved in to adjacent folder whose name will be constructed as output_file_name  _files. If the specified url ends with .svgz the document will be saved as a compressed SVGZ file
 type: docs
 weight: 90
 url: /net/aspose.svg/svgdocument/save/
 ---
-## Save(Url) {#save_4}
+## Save(*[Url](../../url/)*) {#save_4}
 
 Saves the document to local file specified by `url`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files". If the specified `url` ends with ".svgz", the document will be saved as a compressed SVGZ file.
 
@@ -33,7 +33,7 @@ public void Save(Url url)
 
 ---
 
-## Save(string) {#save_8}
+## Save(*string*) {#save_8}
 
 Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -59,7 +59,7 @@ public void Save(string path)
 
 ---
 
-## Save(ResourceHandler) {#save}
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)*) {#save}
 
 Saves the document content and resources using the [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/).
 
@@ -80,7 +80,7 @@ public void Save(ResourceHandler resourceHandler)
 
 ---
 
-## Save(string, SVGSaveFormat) {#save_9}
+## Save(*string, [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)*) {#save_9}
 
 Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -108,7 +108,7 @@ public void Save(string path, SVGSaveFormat saveFormat)
 
 ---
 
-## Save(string, SVGSaveFormat, SVGSaveOptions) {#save_10}
+## Save(*string, [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_10}
 
 Saves the document content and associated resources to the specified file path.
 
@@ -132,7 +132,7 @@ public void Save(string path, SVGSaveFormat saveFormat, SVGSaveOptions saveOptio
 
 ---
 
-## Save(ResourceHandler, SVGSaveFormat) {#save_1}
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)*) {#save_1}
 
 Saves the document content and resources using the [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/).
 
@@ -155,7 +155,7 @@ public void Save(ResourceHandler resourceHandler, SVGSaveFormat saveFormat)
 
 ---
 
-## Save(ResourceHandler, SVGSaveFormat, SVGSaveOptions) {#save_2}
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_2}
 
 Saves the document content and associated resources using the specified [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/).
 
@@ -181,7 +181,7 @@ public void Save(ResourceHandler resourceHandler, SVGSaveFormat saveFormat,
 
 ---
 
-## Save(string, SVGSaveOptions) {#save_11}
+## Save(*string, [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_11}
 
 Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files". If the specified `path` ends with ".svgz", the document will be saved as a compressed SVGZ file.
 
@@ -209,7 +209,7 @@ public void Save(string path, SVGSaveOptions saveOptions)
 
 ---
 
-## Save(ResourceHandler, SVGSaveOptions) {#save_3}
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_3}
 
 Saves the document content and resources using the [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/).
 
@@ -232,7 +232,7 @@ public void Save(ResourceHandler resourceHandler, SVGSaveOptions saveOptions)
 
 ---
 
-## Save(Url, SVGSaveFormat) {#save_5}
+## Save(*[Url](../../url/), [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)*) {#save_5}
 
 Saves the document to local file specified by `url`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -261,7 +261,7 @@ public void Save(Url url, SVGSaveFormat saveFormat)
 
 ---
 
-## Save(Url, SVGSaveOptions) {#save_7}
+## Save(*[Url](../../url/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_7}
 
 Saves the document to local file specified by `url`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files". If the specified `url` ends with ".svgz", the document will be saved as a compressed SVGZ file.
 
@@ -290,7 +290,7 @@ public void Save(Url url, SVGSaveOptions saveOptions)
 
 ---
 
-## Save(Url, SVGSaveFormat, SVGSaveOptions) {#save_6}
+## Save(*[Url](../../url/), [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_6}
 
 Saves the document content and associated resources to the specified [`Url`](../../url/).
 

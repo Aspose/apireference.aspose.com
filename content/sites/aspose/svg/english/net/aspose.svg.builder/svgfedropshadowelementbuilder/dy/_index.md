@@ -1,7 +1,7 @@
 ---
 title: SVGFEDropShadowElementBuilder.Dy
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDropShadowElementBuilder method. Sets the vertical offset dy for the drop shadow
+description: SVGFEDropShadowElementBuilder Dy method. Sets the vertical offset dy for the drop shadow
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgfedropshadowelementbuilder/dy/

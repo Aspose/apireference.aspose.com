@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.StrokeMiterlimit
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the stroke-miterlimit attribute for an SVG element defining the limit on the ratio of the miter length to the stroke width
+description: SVGBuilderExtensions StrokeMiterlimit method. Sets the stroke-miterlimit attribute for an SVG element defining the limit on the ratio of the miter length to the stroke width
 type: docs
 weight: 2130
 url: /net/aspose.svg.builder/svgbuilderextensions/strokemiterlimit/

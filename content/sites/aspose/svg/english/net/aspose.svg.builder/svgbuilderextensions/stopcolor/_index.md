@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.StopColor
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the stop-color attribute for an SVG element defining the color at a gradient stop
+description: SVGBuilderExtensions StopColor method. Sets the stop-color attribute for an SVG element defining the color at a gradient stop
 type: docs
 weight: 2060
 url: /net/aspose.svg.builder/svgbuilderextensions/stopcolor/
 ---
-## StopColor&lt;TBuilder&gt;(this TBuilder, Color) {#stopcolor_1}
+## StopColor&lt;TBuilder&gt;(*this TBuilder, Color*) {#stopcolor_1}
 
 Sets the 'stop-color' attribute for an SVG element, defining the color at a gradient stop.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## StopColor&lt;TBuilder&gt;(this TBuilder, Action&lt;ColorBuilder&gt;) {#stopcolor}
+## StopColor&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;ColorBuilder&amp;gt;*) {#stopcolor}
 
 Sets the 'stop-color' attribute for an SVG element using a custom color configuration.
 

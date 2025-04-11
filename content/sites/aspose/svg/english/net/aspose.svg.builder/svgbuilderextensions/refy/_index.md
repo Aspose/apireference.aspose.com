@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.RefY
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the refY attribute for an SVG element
+description: SVGBuilderExtensions RefY method. Sets the refY attribute for an SVG element
 type: docs
 weight: 1940
 url: /net/aspose.svg.builder/svgbuilderextensions/refy/
 ---
-## RefY&lt;TBuilder&gt;(this TBuilder, double, LengthType) {#refy_1}
+## RefY&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#refy_1}
 
 Sets the 'refY' attribute for an SVG element.
 
@@ -38,7 +38,7 @@ The builder instance for chaining.
 
 ---
 
-## RefY&lt;TBuilder&gt;(this TBuilder, VerticalPosition) {#refy}
+## RefY&lt;TBuilder&gt;(*this TBuilder, [VerticalPosition](../../verticalposition/)*) {#refy}
 
 Sets the 'refY' attribute for an SVG element using a predefined vertical position.
 

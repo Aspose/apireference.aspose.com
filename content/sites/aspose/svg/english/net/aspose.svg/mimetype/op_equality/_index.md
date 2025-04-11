@@ -1,7 +1,7 @@
 ---
 title: MimeType.op_Equality
 second_title: Aspose.SVG for .NET API Reference
-description: MimeType method. Compares two Mime type and returns a boolean indicating if the two do match
+description: MimeType op_Equality method. Compares two Mime type and returns a boolean indicating if the two do match
 type: docs
 weight: 80
 url: /net/aspose.svg/mimetype/op_equality/

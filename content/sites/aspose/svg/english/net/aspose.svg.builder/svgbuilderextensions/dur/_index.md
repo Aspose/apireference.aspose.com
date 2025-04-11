@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.Dur
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the dur attribute specifying the duration of the animation
+description: SVGBuilderExtensions Dur method. Sets the dur attribute specifying the duration of the animation
 type: docs
 weight: 760
 url: /net/aspose.svg.builder/svgbuilderextensions/dur/
 ---
-## Dur&lt;TBuilder&gt;(this TBuilder, TimeSpan) {#dur_1}
+## Dur&lt;TBuilder&gt;(*this TBuilder, TimeSpan*) {#dur_1}
 
 Sets the 'dur' attribute, specifying the duration of the animation.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## Dur&lt;TBuilder&gt;(this TBuilder, Dur) {#dur}
+## Dur&lt;TBuilder&gt;(*this TBuilder, [Dur](../../dur/)*) {#dur}
 
 Sets the 'dur' attribute, specifying the predefined duration type of the animation.
 

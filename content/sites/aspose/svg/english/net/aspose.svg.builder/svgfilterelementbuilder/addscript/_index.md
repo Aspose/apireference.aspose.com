@@ -1,7 +1,7 @@
 ---
 title: SVGFilterElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFilterElementBuilder method. Adds a script configuration to the filter element
+description: SVGFilterElementBuilder AddScript method. Adds a script configuration to the filter element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfilterelementbuilder/addscript/

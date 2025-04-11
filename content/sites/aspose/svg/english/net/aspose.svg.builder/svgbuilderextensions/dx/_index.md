@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.Dx
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the dx attribute to adjust the horizontal position of each character in the text
+description: SVGBuilderExtensions Dx method. Sets the dx attribute to adjust the horizontal position of each character in the text
 type: docs
 weight: 770
 url: /net/aspose.svg.builder/svgbuilderextensions/dx/
 ---
-## Dx&lt;TBuilder&gt;(this TBuilder, LengthType, params double[]) {#dx}
+## Dx&lt;TBuilder&gt;(*this TBuilder, [LengthType](../../lengthtype/), params double[]*) {#dx}
 
 Sets the 'dx' attribute to adjust the horizontal position of each character in the text.
 
@@ -42,7 +42,7 @@ This method allows fine control over the horizontal spacing of characters in the
 
 ---
 
-## Dx&lt;TBuilder&gt;(this TBuilder, double, LengthType) {#dx_1}
+## Dx&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#dx_1}
 
 Sets a single horizontal adjustment value for the text content.
 

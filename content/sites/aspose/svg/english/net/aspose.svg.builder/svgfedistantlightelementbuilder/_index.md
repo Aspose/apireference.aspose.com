@@ -3,7 +3,7 @@ title: SVGFEDistantLightElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEDistantLightElementBuilder class. Builder class for creating SVG feDistantLight elements used within SVG filters to define a distant light source
 type: docs
-weight: 850
+weight: 1260
 url: /net/aspose.svg.builder/svgfedistantlightelementbuilder/
 ---
 ## SVGFEDistantLightElementBuilder class
@@ -31,13 +31,13 @@ public class SVGFEDistantLightElementBuilder : SVGElementBuilder<SVGFEDistantLig
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfedistantlightelementbuilder/addscript/)(Action&lt;SVGScriptElementBuilder&gt;) | Adds a script configuration to the feDistantLight element. |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| [Azimuth](../../aspose.svg.builder/svgfedistantlightelementbuilder/azimuth/)(double) | Sets the 'azimuth' attribute of the feDistantLight element. |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGFEDistantLightElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [Elevation](../../aspose.svg.builder/svgfedistantlightelementbuilder/elevation/)(double) | Sets the 'elevation' attribute of the feDistantLight element. |
+| [AddScript](../../aspose.svg.builder/svgfedistantlightelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feDistantLight element. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| [Azimuth](../../aspose.svg.builder/svgfedistantlightelementbuilder/azimuth/)(*double*) | Sets the 'azimuth' attribute of the feDistantLight element. |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEDistantLightElement](../../aspose.svg.filters/svgfedistantlightelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| [Elevation](../../aspose.svg.builder/svgfedistantlightelementbuilder/elevation/)(*double*) | Sets the 'elevation' attribute of the feDistantLight element. |
 
 ### See Also
 

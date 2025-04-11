@@ -1,7 +1,7 @@
 ---
 title: SVGRadialGradientElement.Fx
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRadialGradientElement property. Corresponds to attribute fx on the given radialGradient element
+description: SVGRadialGradientElement Fx property. Corresponds to attribute fx on the given radialGradient element
 type: docs
 weight: 40
 url: /net/aspose.svg/svgradialgradientelement/fx/

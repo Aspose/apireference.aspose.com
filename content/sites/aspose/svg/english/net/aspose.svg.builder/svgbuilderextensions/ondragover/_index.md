@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnDragOver
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the ondragover event attribute for handling the dragging of an item over a valid drop target
+description: SVGBuilderExtensions OnDragOver method. Sets the ondragover event attribute for handling the dragging of an item over a valid drop target
 type: docs
 weight: 1360
 url: /net/aspose.svg.builder/svgbuilderextensions/ondragover/

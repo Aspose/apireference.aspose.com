@@ -1,7 +1,7 @@
 ---
 title: SVGSVGElementBuilder.ContentScriptType
 second_title: Aspose.SVG for .NET API Reference
-description: SVGSVGElementBuilder method. Sets the contentScriptType attribute of the SVG element. This attribute specifies the default scripting language for the contents of the SVG document
+description: SVGSVGElementBuilder ContentScriptType method. Sets the contentScriptType attribute of the SVG element. This attribute specifies the default scripting language for the contents of the SVG document
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgsvgelementbuilder/contentscripttype/

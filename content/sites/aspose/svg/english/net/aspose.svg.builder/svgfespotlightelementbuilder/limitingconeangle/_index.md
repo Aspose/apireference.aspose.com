@@ -1,7 +1,7 @@
 ---
 title: SVGFESpotLightElementBuilder.LimitingConeAngle
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFESpotLightElementBuilder method. Sets the limitingConeAngle attribute defining the limiting cone of the spotlight
+description: SVGFESpotLightElementBuilder LimitingConeAngle method. Sets the limitingConeAngle attribute defining the limiting cone of the spotlight
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfespotlightelementbuilder/limitingconeangle/

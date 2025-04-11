@@ -1,7 +1,7 @@
 ---
 title: FilterValueListBuilder.Opacity
 second_title: Aspose.SVG for .NET API Reference
-description: FilterValueListBuilder method. Adds an opacity filter
+description: FilterValueListBuilder Opacity method. Adds an opacity filter
 type: docs
 weight: 110
 url: /net/aspose.svg.builder/filtervaluelistbuilder/opacity/

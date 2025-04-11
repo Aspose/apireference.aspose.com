@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.WordSpacing
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the word-spacing attribute for an SVG element specifying the spacing behavior between words
+description: SVGBuilderExtensions WordSpacing method. Sets the word-spacing attribute for an SVG element specifying the spacing behavior between words
 type: docs
 weight: 2340
 url: /net/aspose.svg.builder/svgbuilderextensions/wordspacing/
 ---
-## WordSpacing&lt;TBuilder&gt;(this TBuilder, Spacing) {#wordspacing}
+## WordSpacing&lt;TBuilder&gt;(*this TBuilder, [Spacing](../../spacing/)*) {#wordspacing}
 
 Sets the 'word-spacing' attribute for an SVG element, specifying the spacing behavior between words.
 
@@ -36,7 +36,7 @@ The builder instance for chaining.
 
 ---
 
-## WordSpacing&lt;TBuilder&gt;(this TBuilder, double, LengthType) {#wordspacing_1}
+## WordSpacing&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#wordspacing_1}
 
 Sets the 'word-spacing' attribute for an SVG element, specifying the spacing behavior between words with a custom value.
 

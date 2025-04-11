@@ -1,7 +1,7 @@
 ---
 title: SVGSwitchElementBuilder.AddText
 second_title: Aspose.SVG for .NET API Reference
-description: SVGSwitchElementBuilder method. Adds an SVGTextElement to the switch element using a configuration action
+description: SVGSwitchElementBuilder AddText method. Adds an SVGTextElement to the switch element using a configuration action
 type: docs
 weight: 80
 url: /net/aspose.svg.builder/svgswitchelementbuilder/addtext/

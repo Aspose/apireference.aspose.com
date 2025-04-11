@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.TextLength
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the exact length of the text content
+description: SVGBuilderExtensions TextLength method. Sets the exact length of the text content
 type: docs
 weight: 2220
 url: /net/aspose.svg.builder/svgbuilderextensions/textlength/

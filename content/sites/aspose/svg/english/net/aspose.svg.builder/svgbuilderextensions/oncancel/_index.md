@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnCancel
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the oncancel event attribute for handling user cancellation actions
+description: SVGBuilderExtensions OnCancel method. Sets the oncancel event attribute for handling user cancellation actions
 type: docs
 weight: 1210
 url: /net/aspose.svg.builder/svgbuilderextensions/oncancel/

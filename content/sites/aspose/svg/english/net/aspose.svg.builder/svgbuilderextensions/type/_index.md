@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Type
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the type attribute of a component transfer function element
+description: SVGBuilderExtensions Type method. Sets the type attribute of a component transfer function element
 type: docs
 weight: 2270
 url: /net/aspose.svg.builder/svgbuilderextensions/type/

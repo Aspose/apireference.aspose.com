@@ -1,7 +1,7 @@
 ---
 title: SVGTextPathElement.Method
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTextPathElement property. Corresponds to attribute method on the given textPath element
+description: SVGTextPathElement Method property. Corresponds to attribute method on the given textPath element
 type: docs
 weight: 20
 url: /net/aspose.svg/svgtextpathelement/method/

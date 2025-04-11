@@ -1,7 +1,7 @@
 ---
 title: SVGAElementBuilder.Ping
 second_title: Aspose.SVG for .NET API Reference
-description: SVGAElementBuilder method. Sets the ping attribute of the SVG a element containing a list of URLs to be notified if the link is followed
+description: SVGAElementBuilder Ping method. Sets the ping attribute of the SVG a element containing a list of URLs to be notified if the link is followed
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgaelementbuilder/ping/

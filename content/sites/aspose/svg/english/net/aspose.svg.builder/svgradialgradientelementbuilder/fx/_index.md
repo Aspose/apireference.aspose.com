@@ -1,7 +1,7 @@
 ---
 title: SVGRadialGradientElementBuilder.Fx
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRadialGradientElementBuilder method. Sets the fx attribute of the SVG radialGradient element specifying the x-coordinate of the focal point of the gradient
+description: SVGRadialGradientElementBuilder Fx method. Sets the fx attribute of the SVG radialGradient element specifying the x-coordinate of the focal point of the gradient
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/svgradialgradientelementbuilder/fx/

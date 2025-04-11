@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnFocusOut
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onfocusout event attribute for handling focus-out events on the element
+description: SVGBuilderExtensions OnFocusOut method. Sets the onfocusout event attribute for handling focus-out events on the element
 type: docs
 weight: 1460
 url: /net/aspose.svg.builder/svgbuilderextensions/onfocusout/

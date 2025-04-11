@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.End
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the end attribute defining when the animation should end
+description: SVGBuilderExtensions End method. Sets the end attribute defining when the animation should end
 type: docs
 weight: 790
 url: /net/aspose.svg.builder/svgbuilderextensions/end/

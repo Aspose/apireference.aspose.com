@@ -1,7 +1,7 @@
 ---
 title: SVGFESpecularLightingElementBuilder.KernelUnitLength
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFESpecularLightingElementBuilder method. Sets the kernelUnitLength attribute defining the convolution kernel unit length
+description: SVGFESpecularLightingElementBuilder KernelUnitLength method. Sets the kernelUnitLength attribute defining the convolution kernel unit length
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfespecularlightingelementbuilder/kernelunitlength/

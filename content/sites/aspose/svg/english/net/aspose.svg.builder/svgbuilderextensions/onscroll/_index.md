@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnScroll
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onscroll event attribute for handling scroll events on the element
+description: SVGBuilderExtensions OnScroll method. Sets the onscroll event attribute for handling scroll events on the element
 type: docs
 weight: 1730
 url: /net/aspose.svg.builder/svgbuilderextensions/onscroll/

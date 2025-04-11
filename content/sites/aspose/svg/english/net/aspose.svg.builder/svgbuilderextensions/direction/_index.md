@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Direction
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the direction attribute for an SVG element using a predefined enum value
+description: SVGBuilderExtensions Direction method. Sets the direction attribute for an SVG element using a predefined enum value
 type: docs
 weight: 730
 url: /net/aspose.svg.builder/svgbuilderextensions/direction/

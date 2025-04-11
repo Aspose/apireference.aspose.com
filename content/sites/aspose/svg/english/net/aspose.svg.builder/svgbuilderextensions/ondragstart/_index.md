@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnDragStart
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the ondragstart event attribute for handling the start of a drag operation
+description: SVGBuilderExtensions OnDragStart method. Sets the ondragstart event attribute for handling the start of a drag operation
 type: docs
 weight: 1370
 url: /net/aspose.svg.builder/svgbuilderextensions/ondragstart/

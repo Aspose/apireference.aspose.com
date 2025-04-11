@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddMarker
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a marker element configuration to the builder
+description: SVGBuilderExtensions AddMarker method. Adds a marker element configuration to the builder
 type: docs
 weight: 370
 url: /net/aspose.svg.builder/svgbuilderextensions/addmarker/

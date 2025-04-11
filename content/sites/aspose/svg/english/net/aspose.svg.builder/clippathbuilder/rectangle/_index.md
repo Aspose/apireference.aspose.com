@@ -1,7 +1,7 @@
 ---
 title: ClipPathBuilder.Rectangle
 second_title: Aspose.SVG for .NET API Reference
-description: ClipPathBuilder method. Defines a rectangular clip path with optional rounded corners
+description: ClipPathBuilder Rectangle method. Defines a rectangular clip path with optional rounded corners
 type: docs
 weight: 90
 url: /net/aspose.svg.builder/clippathbuilder/rectangle/

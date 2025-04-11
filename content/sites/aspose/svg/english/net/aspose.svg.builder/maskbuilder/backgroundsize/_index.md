@@ -1,7 +1,7 @@
 ---
 title: MaskBuilder.BackgroundSize
 second_title: Aspose.SVG for .NET API Reference
-description: MaskBuilder method. Sets the background size for the mask
+description: MaskBuilder BackgroundSize method. Sets the background size for the mask
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/maskbuilder/backgroundsize/

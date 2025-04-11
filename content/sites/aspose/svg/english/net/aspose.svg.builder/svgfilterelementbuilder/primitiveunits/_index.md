@@ -1,7 +1,7 @@
 ---
 title: SVGFilterElementBuilder.PrimitiveUnits
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFilterElementBuilder method. Sets the coordinate system for the filters primitive sub-elements
+description: SVGFilterElementBuilder PrimitiveUnits method. Sets the coordinate system for the filters primitive sub-elements
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgfilterelementbuilder/primitiveunits/

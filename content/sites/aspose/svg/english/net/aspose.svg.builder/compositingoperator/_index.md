@@ -3,7 +3,7 @@ title: CompositingOperator Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.CompositingOperator enum. Specifies the type of compositing operation to be applied in SVG masking operations
 type: docs
-weight: 160
+weight: 190
 url: /net/aspose.svg.builder/compositingoperator/
 ---
 ## CompositingOperator enumeration

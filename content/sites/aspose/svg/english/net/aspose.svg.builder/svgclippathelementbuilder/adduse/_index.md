@@ -1,7 +1,7 @@
 ---
 title: SVGClipPathElementBuilder.AddUse
 second_title: Aspose.SVG for .NET API Reference
-description: SVGClipPathElementBuilder method. Adds a use element to the clipPath element
+description: SVGClipPathElementBuilder AddUse method. Adds a use element to the clipPath element
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgclippathelementbuilder/adduse/

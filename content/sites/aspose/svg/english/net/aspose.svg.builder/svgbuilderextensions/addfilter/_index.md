@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.AddFilter
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a filter element to the SVG builder defining a filter effect that can be applied to SVG elements
+description: SVGBuilderExtensions AddFilter method. Adds a filter element to the SVG builder defining a filter effect that can be applied to SVG elements
 type: docs
 weight: 300
 url: /net/aspose.svg.builder/svgbuilderextensions/addfilter/
 ---
-## AddFilter&lt;TBuilder&gt;(this TBuilder, CoordinateUnits?, CoordinateUnits?, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFilterElementBuilder&gt;) {#addfilter_1}
+## AddFilter&lt;TBuilder&gt;(*this TBuilder, CoordinateUnits?, CoordinateUnits?, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFilterElementBuilder&amp;gt;*) {#addfilter_1}
 
 Adds a 'filter' element to the SVG builder, defining a filter effect that can be applied to SVG elements.
 
@@ -56,7 +56,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFilter&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFilterElementBuilder&gt;) {#addfilter}
+## AddFilter&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFilterElementBuilder&amp;gt;*) {#addfilter}
 
 Adds a 'filter' element configuration to the builder.
 

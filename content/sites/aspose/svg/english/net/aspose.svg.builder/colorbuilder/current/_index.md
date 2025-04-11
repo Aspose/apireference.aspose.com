@@ -1,7 +1,7 @@
 ---
 title: ColorBuilder.Current
 second_title: Aspose.SVG for .NET API Reference
-description: ColorBuilder method. Sets the color value to currentColor a CSS keyword that represents the current color context
+description: ColorBuilder Current method. Sets the color value to currentColor a CSS keyword that represents the current color context
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/colorbuilder/current/

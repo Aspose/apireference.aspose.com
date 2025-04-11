@@ -1,7 +1,7 @@
 ---
 title: SVGAElementBuilder.HrefLang
 second_title: Aspose.SVG for .NET API Reference
-description: SVGAElementBuilder method. Sets the hreflang attribute of the SVG a element indicating the language of the linked resource
+description: SVGAElementBuilder HrefLang method. Sets the hreflang attribute of the SVG a element indicating the language of the linked resource
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgaelementbuilder/hreflang/

@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnLoadedData
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onloadeddata event attribute for handling events when media data is loaded
+description: SVGBuilderExtensions OnLoadedData method. Sets the onloadeddata event attribute for handling events when media data is loaded
 type: docs
 weight: 1530
 url: /net/aspose.svg.builder/svgbuilderextensions/onloadeddata/

@@ -1,7 +1,7 @@
 ---
 title: FilterValueListBuilder.Brightness
 second_title: Aspose.SVG for .NET API Reference
-description: FilterValueListBuilder method. Adds a brightness filter
+description: FilterValueListBuilder Brightness method. Adds a brightness filter
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/filtervaluelistbuilder/brightness/

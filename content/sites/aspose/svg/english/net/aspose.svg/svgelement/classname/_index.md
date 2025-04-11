@@ -1,7 +1,7 @@
 ---
 title: SVGElement.ClassName
 second_title: Aspose.SVG for .NET API Reference
-description: SVGElement property. Corresponds to attribute class on the given element
+description: SVGElement ClassName property. Corresponds to attribute class on the given element
 type: docs
 weight: 10
 url: /net/aspose.svg/svgelement/classname/

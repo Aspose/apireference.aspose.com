@@ -3,7 +3,7 @@ title: Overflow Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.Overflow enum. Specifies the overflow behavior for SVG elements
 type: docs
-weight: 430
+weight: 960
 url: /net/aspose.svg.builder/overflow/
 ---
 ## Overflow enumeration

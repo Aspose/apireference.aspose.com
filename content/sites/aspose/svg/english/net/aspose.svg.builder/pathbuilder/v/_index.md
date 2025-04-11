@@ -1,7 +1,7 @@
 ---
 title: PathBuilder.V
 second_title: Aspose.SVG for .NET API Reference
-description: PathBuilder method. Adds a Vertical Line To command to the path data
+description: PathBuilder V method. Adds a Vertical Line To command to the path data
 type: docs
 weight: 200
 url: /net/aspose.svg.builder/pathbuilder/v/

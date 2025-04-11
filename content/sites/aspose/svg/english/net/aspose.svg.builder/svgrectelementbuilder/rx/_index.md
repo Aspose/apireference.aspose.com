@@ -1,7 +1,7 @@
 ---
 title: SVGRectElementBuilder.Rx
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRectElementBuilder method. Sets the rx attribute of the SVG rect element specifying the horizontal radius of the rectangles rounded corners
+description: SVGRectElementBuilder Rx method. Sets the rx attribute of the SVG rect element specifying the horizontal radius of the rectangles rounded corners
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgrectelementbuilder/rx/

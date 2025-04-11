@@ -1,7 +1,7 @@
 ---
 title: SVGStopElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGStopElementBuilder method. Adds a script configuration to the SVG stop element
+description: SVGStopElementBuilder AddScript method. Adds a script configuration to the SVG stop element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgstopelementbuilder/addscript/

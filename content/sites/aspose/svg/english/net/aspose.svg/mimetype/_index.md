@@ -3,7 +3,7 @@ title: MimeType Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.MimeType class. Represents an Internet Media Types
 type: docs
-weight: 2600
+weight: 4430
 url: /net/aspose.svg/mimetype/
 ---
 ## MimeType class
@@ -18,7 +18,7 @@ public class MimeType : IEquatable<MimeType>
 
 | Name | Description |
 | --- | --- |
-| [MimeType](mimetype/)(string) | Initializes a new instance of MIME type based on serialized string value. |
+| [MimeType](mimetype/)(*string*) | Initializes a new instance of MIME type based on serialized string value. |
 
 ## Properties
 
@@ -31,9 +31,9 @@ public class MimeType : IEquatable<MimeType>
 
 | Name | Description |
 | --- | --- |
-| static [FromFileExtension](../../aspose.svg/mimetype/fromfileextension/)(string) | Creates a new MIME type based on file extension. |
-| [Equals](../../aspose.svg/mimetype/equals/#equals)(MimeType) | Indicates whether the current object is equal to another object of the same type. |
-| override [Equals](../../aspose.svg/mimetype/equals/#equals_1)(object) | Determines whether the specified Object is equal to the current Object. |
+| static [FromFileExtension](../../aspose.svg/mimetype/fromfileextension/)(*string*) | Creates a new MIME type based on file extension. |
+| [Equals](../../aspose.svg/mimetype/equals/#equals)(*MimeType*) | Indicates whether the current object is equal to another object of the same type. |
+| override [Equals](../../aspose.svg/mimetype/equals/#equals_1)(*object*) | Determines whether the specified Object is equal to the current Object. |
 | override [GetHashCode](../../aspose.svg/mimetype/gethashcode/)() | Returns a hash code for this instance. |
 | override [ToString](../../aspose.svg/mimetype/tostring/)() | Returns a String that represents Mime type. |
 | [operator ==](../../aspose.svg/mimetype/op_equality/) | Compares two Mime type and returns a boolean indicating if the two do match. |

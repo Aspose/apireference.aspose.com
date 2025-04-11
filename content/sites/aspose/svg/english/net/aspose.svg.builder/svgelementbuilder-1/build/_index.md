@@ -1,12 +1,12 @@
 ---
 title: SVGElementBuilder-1.Build
 second_title: Aspose.SVG for .NET API Reference
-description: SVGElementBuilder method. Builds the SVG element and applies all configurations to it
+description: SVGElementBuilder Build method. Builds the SVG element and applies all configurations to it
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgelementbuilder-1/build/
 ---
-## Build(Document) {#build}
+## Build(*[Document](../../../aspose.svg.dom/document/)*) {#build}
 
 Builds the SVG element and applies all configurations to it.
 
@@ -31,7 +31,7 @@ The constructed and configured SVG element of type *T*.
 
 ---
 
-## Build(T) {#build_1}
+## Build(*T*) {#build_1}
 
 Applies configurations to an existing SVG element.
 

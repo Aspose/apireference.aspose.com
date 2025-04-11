@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.UnicodeBidi
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the unicode-bidi attribute for an SVG element defining how the bidirectional text should be handled
+description: SVGBuilderExtensions UnicodeBidi method. Sets the unicode-bidi attribute for an SVG element defining how the bidirectional text should be handled
 type: docs
 weight: 2280
 url: /net/aspose.svg.builder/svgbuilderextensions/unicodebidi/

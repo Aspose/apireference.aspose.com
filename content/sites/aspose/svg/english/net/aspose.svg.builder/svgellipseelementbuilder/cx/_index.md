@@ -1,7 +1,7 @@
 ---
 title: SVGEllipseElementBuilder.Cx
 second_title: Aspose.SVG for .NET API Reference
-description: SVGEllipseElementBuilder method. Sets the cx attribute of the SVG ellipse element specifying the x-coordinate of the center of the ellipse
+description: SVGEllipseElementBuilder Cx method. Sets the cx attribute of the SVG ellipse element specifying the x-coordinate of the center of the ellipse
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgellipseelementbuilder/cx/

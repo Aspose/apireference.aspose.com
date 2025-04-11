@@ -1,7 +1,7 @@
 ---
 title: SVGTSpanElementBuilder.AddA
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTSpanElementBuilder method. Adds an anchor a element to the current tspan element
+description: SVGTSpanElementBuilder AddA method. Adds an anchor a element to the current tspan element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgtspanelementbuilder/adda/

@@ -1,7 +1,7 @@
 ---
 title: SVGFEDropShadowElementBuilder.Dx
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDropShadowElementBuilder method. Sets the horizontal offset dx for the drop shadow
+description: SVGFEDropShadowElementBuilder Dx method. Sets the horizontal offset dx for the drop shadow
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfedropshadowelementbuilder/dx/

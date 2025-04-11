@@ -1,7 +1,7 @@
 ---
 title: SVGStopElementBuilder.AddStyle
 second_title: Aspose.SVG for .NET API Reference
-description: SVGStopElementBuilder method. Adds a style configuration to the SVG stop element
+description: SVGStopElementBuilder AddStyle method. Adds a style configuration to the SVG stop element
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgstopelementbuilder/addstyle/

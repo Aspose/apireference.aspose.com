@@ -1,7 +1,7 @@
 ---
 title: SVGFECompositeElementBuilder.Operator
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFECompositeElementBuilder method. Sets the operator attribute of the feComposite element
+description: SVGFECompositeElementBuilder Operator method. Sets the operator attribute of the feComposite element
 type: docs
 weight: 80
 url: /net/aspose.svg.builder/svgfecompositeelementbuilder/operator/

@@ -1,7 +1,7 @@
 ---
 title: OneOf-3.op_Implicit
 second_title: Aspose.SVG for .NET API Reference
-description: OneOf method. 
+description: OneOf op_Implicit method. 
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/oneof-3/op_implicit/

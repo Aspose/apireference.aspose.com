@@ -1,7 +1,7 @@
 ---
 title: SVGScriptElement.CrossOrigin
 second_title: Aspose.SVG for .NET API Reference
-description: SVGScriptElement property. Corresponds to attribute crossorigin on the given script element
+description: SVGScriptElement CrossOrigin property. Corresponds to attribute crossorigin on the given script element
 type: docs
 weight: 10
 url: /net/aspose.svg/svgscriptelement/crossorigin/

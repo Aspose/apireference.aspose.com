@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.RepeatCount
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the repeatCount attribute defining how many times the animation should repeat
+description: SVGBuilderExtensions RepeatCount method. Sets the repeatCount attribute defining how many times the animation should repeat
 type: docs
 weight: 1950
 url: /net/aspose.svg.builder/svgbuilderextensions/repeatcount/
 ---
-## RepeatCount&lt;TBuilder&gt;(this TBuilder, int) {#repeatcount_1}
+## RepeatCount&lt;TBuilder&gt;(*this TBuilder, int*) {#repeatcount_1}
 
 Sets the 'repeatCount' attribute, defining how many times the animation should repeat.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## RepeatCount&lt;TBuilder&gt;(this TBuilder, IndefiniteRepeat) {#repeatcount}
+## RepeatCount&lt;TBuilder&gt;(*this TBuilder, [IndefiniteRepeat](../../indefiniterepeat/)*) {#repeatcount}
 
 Sets the 'repeatCount' attribute, defining an indefinite repeat count for the animation using a predefined enum.
 

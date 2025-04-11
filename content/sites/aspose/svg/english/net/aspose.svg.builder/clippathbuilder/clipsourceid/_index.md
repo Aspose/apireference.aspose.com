@@ -1,7 +1,7 @@
 ---
 title: ClipPathBuilder.ClipSourceId
 second_title: Aspose.SVG for .NET API Reference
-description: ClipPathBuilder method. Sets the clip path to reference an external source
+description: ClipPathBuilder ClipSourceId method. Sets the clip path to reference an external source
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/clippathbuilder/clipsourceid/

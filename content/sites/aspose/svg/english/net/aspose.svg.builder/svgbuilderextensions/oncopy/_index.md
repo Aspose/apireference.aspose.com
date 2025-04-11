@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnCopy
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the oncopy event attribute defining a script to run when content is copied from the SVG element
+description: SVGBuilderExtensions OnCopy method. Sets the oncopy event attribute defining a script to run when content is copied from the SVG element
 type: docs
 weight: 1270
 url: /net/aspose.svg.builder/svgbuilderextensions/oncopy/

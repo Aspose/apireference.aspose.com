@@ -1,7 +1,7 @@
 ---
 title: SVGMaskElement.RequiredExtensions
 second_title: Aspose.SVG for .NET API Reference
-description: SVGMaskElement property. Corresponds to attribute requiredExtensions on the given element
+description: SVGMaskElement RequiredExtensions property. Corresponds to attribute requiredExtensions on the given element
 type: docs
 weight: 40
 url: /net/aspose.svg/svgmaskelement/requiredextensions/

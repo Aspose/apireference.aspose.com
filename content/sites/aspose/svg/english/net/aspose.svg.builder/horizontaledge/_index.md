@@ -3,7 +3,7 @@ title: HorizontalEdge Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.HorizontalEdge enum. Specifies the horizontal edge reference for positioning in SVG
 type: docs
-weight: 310
+weight: 350
 url: /net/aspose.svg.builder/horizontaledge/
 ---
 ## HorizontalEdge enumeration

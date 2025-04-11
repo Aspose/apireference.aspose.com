@@ -1,7 +1,7 @@
 ---
 title: SVGFETurbulenceElementBuilder.Seed
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFETurbulenceElementBuilder method. Sets the seed for the random number generator used by the turbulence function
+description: SVGFETurbulenceElementBuilder Seed method. Sets the seed for the random number generator used by the turbulence function
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgfeturbulenceelementbuilder/seed/

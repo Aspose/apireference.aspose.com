@@ -1,7 +1,7 @@
 ---
 title: TransformBuilder.Translate
 second_title: Aspose.SVG for .NET API Reference
-description: TransformBuilder method. Adds a translate transform to the builder
+description: TransformBuilder Translate method. Adds a translate transform to the builder
 type: docs
 weight: 80
 url: /net/aspose.svg.builder/transformbuilder/translate/

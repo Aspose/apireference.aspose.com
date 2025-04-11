@@ -3,7 +3,7 @@ title: SVGFEColorMatrixElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEColorMatrixElementBuilder class. Builder class for creating SVG feColorMatrix elements used in SVG filters
 type: docs
-weight: 790
+weight: 1200
 url: /net/aspose.svg.builder/svgfecolormatrixelementbuilder/
 ---
 ## SVGFEColorMatrixElementBuilder class
@@ -32,12 +32,12 @@ public class SVGFEColorMatrixElementBuilder : SVGElementBuilder<SVGFEColorMatrix
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfecolormatrixelementbuilder/addscript/)(Action&lt;SVGScriptElementBuilder&gt;) | Adds a script configuration to the feColorMatrix element. |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGFEColorMatrixElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [TypeAndValues](../../aspose.svg.builder/svgfecolormatrixelementbuilder/typeandvalues/)(ColorMatrixOperation, params double[]) | Sets the 'type' and 'values' attributes of the feColorMatrix element, specifying the color matrix operation and its parameters. |
+| [AddScript](../../aspose.svg.builder/svgfecolormatrixelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feColorMatrix element. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEColorMatrixElement](../../aspose.svg.filters/svgfecolormatrixelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| [TypeAndValues](../../aspose.svg.builder/svgfecolormatrixelementbuilder/typeandvalues/)(*[ColorMatrixOperation](../colormatrixoperation/), params double[]*) | Sets the 'type' and 'values' attributes of the feColorMatrix element, specifying the color matrix operation and its parameters. |
 
 ### See Also
 

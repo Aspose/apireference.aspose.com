@@ -3,7 +3,7 @@ title: SVGFEMergeElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEMergeElementBuilder class. Builder class for creating SVG feMerge elements which are used to composite together images or parts of images
 type: docs
-weight: 940
+weight: 1350
 url: /net/aspose.svg.builder/svgfemergeelementbuilder/
 ---
 ## SVGFEMergeElementBuilder class
@@ -31,12 +31,12 @@ public class SVGFEMergeElementBuilder : SVGElementBuilder<SVGFEMergeElement>, IC
 
 | Name | Description |
 | --- | --- |
-| [AddMergeNode](../../aspose.svg.builder/svgfemergeelementbuilder/addmergenode/)(Action&lt;SVGFEMergeNodeElementBuilder&gt;) | Adds a merge node configuration to the feMerge element. |
-| [AddScript](../../aspose.svg.builder/svgfemergeelementbuilder/addscript/)(Action&lt;SVGScriptElementBuilder&gt;) | Adds a script configuration to the feMerge element. |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGFEMergeElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
+| [AddMergeNode](../../aspose.svg.builder/svgfemergeelementbuilder/addmergenode/)(*Action&amp;lt;SVGFEMergeNodeElementBuilder&amp;gt;*) | Adds a merge node configuration to the feMerge element. |
+| [AddScript](../../aspose.svg.builder/svgfemergeelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feMerge element. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEMergeElement](../../aspose.svg.filters/svgfemergeelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnDblClick
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the ondblclick event attribute for handling double-click events on the element
+description: SVGBuilderExtensions OnDblClick method. Sets the ondblclick event attribute for handling double-click events on the element
 type: docs
 weight: 1300
 url: /net/aspose.svg.builder/svgbuilderextensions/ondblclick/

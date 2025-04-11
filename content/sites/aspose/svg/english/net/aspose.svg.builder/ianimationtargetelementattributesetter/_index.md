@@ -3,7 +3,7 @@ title: IAnimationTargetElementAttributeSetter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IAnimationTargetElementAttributeSetter interface. Interface for setting target element attributes for animations
 type: docs
-weight: 1080
+weight: 410
 url: /net/aspose.svg.builder/ianimationtargetelementattributesetter/
 ---
 ## IAnimationTargetElementAttributeSetter interface

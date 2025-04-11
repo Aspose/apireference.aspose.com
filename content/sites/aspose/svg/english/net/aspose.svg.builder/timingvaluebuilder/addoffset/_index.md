@@ -1,7 +1,7 @@
 ---
 title: TimingValueBuilder.AddOffset
 second_title: Aspose.SVG for .NET API Reference
-description: TimingValueBuilder method. Adds a time offset to the timing value
+description: TimingValueBuilder AddOffset method. Adds a time offset to the timing value
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/timingvaluebuilder/addoffset/

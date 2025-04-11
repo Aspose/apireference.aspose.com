@@ -1,7 +1,7 @@
 ---
 title: MaskBuilder.CompositingOperator
 second_title: Aspose.SVG for .NET API Reference
-description: MaskBuilder method. Sets the compositing operator for the mask
+description: MaskBuilder CompositingOperator method. Sets the compositing operator for the mask
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/maskbuilder/compositingoperator/

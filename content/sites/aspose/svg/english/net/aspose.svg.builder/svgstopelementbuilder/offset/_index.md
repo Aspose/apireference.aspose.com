@@ -1,7 +1,7 @@
 ---
 title: SVGStopElementBuilder.Offset
 second_title: Aspose.SVG for .NET API Reference
-description: SVGStopElementBuilder method. Sets the offset attribute of the SVG stop element specifying the position of the color stop within the gradient
+description: SVGStopElementBuilder Offset method. Sets the offset attribute of the SVG stop element specifying the position of the color stop within the gradient
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgstopelementbuilder/offset/

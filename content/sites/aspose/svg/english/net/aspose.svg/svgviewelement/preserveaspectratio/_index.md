@@ -1,7 +1,7 @@
 ---
 title: SVGViewElement.PreserveAspectRatio
 second_title: Aspose.SVG for .NET API Reference
-description: SVGViewElement property. Corresponds to attribute preserveAspectRatio on the given element
+description: SVGViewElement PreserveAspectRatio property. Corresponds to attribute preserveAspectRatio on the given element
 type: docs
 weight: 10
 url: /net/aspose.svg/svgviewelement/preserveaspectratio/

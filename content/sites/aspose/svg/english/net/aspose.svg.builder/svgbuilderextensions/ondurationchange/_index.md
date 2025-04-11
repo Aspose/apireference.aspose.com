@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnDurationChange
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the ondurationchange event attribute for handling changes in the duration of the media
+description: SVGBuilderExtensions OnDurationChange method. Sets the ondurationchange event attribute for handling changes in the duration of the media
 type: docs
 weight: 1390
 url: /net/aspose.svg.builder/svgbuilderextensions/ondurationchange/

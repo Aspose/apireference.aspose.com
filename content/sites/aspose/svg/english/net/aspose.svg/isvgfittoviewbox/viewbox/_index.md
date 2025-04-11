@@ -1,7 +1,7 @@
 ---
 title: ISVGFitToViewBox.ViewBox
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGFitToViewBox property. Corresponds to attribute viewBox on the given element
+description: ISVGFitToViewBox ViewBox property. Corresponds to attribute viewBox on the given element
 type: docs
 weight: 20
 url: /net/aspose.svg/isvgfittoviewbox/viewbox/

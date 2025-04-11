@@ -1,7 +1,7 @@
 ---
 title: SVGStyleElementBuilder.Media
 second_title: Aspose.SVG for .NET API Reference
-description: SVGStyleElementBuilder method. Sets the media attribute of the SVG style element. This attribute specifies the media for which the styles are intended allowing the styles to be conditional on the media type
+description: SVGStyleElementBuilder Media method. Sets the media attribute of the SVG style element. This attribute specifies the media for which the styles are intended allowing the styles to be conditional on the media type
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgstyleelementbuilder/media/

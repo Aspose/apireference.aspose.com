@@ -1,7 +1,7 @@
 ---
 title: SVGFEDiffuseLightingElementBuilder.DiffuseConstant
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDiffuseLightingElementBuilder method. Sets the diffuseConstant attribute of the feDiffuseLighting element
+description: SVGFEDiffuseLightingElementBuilder DiffuseConstant method. Sets the diffuseConstant attribute of the feDiffuseLighting element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfediffuselightingelementbuilder/diffuseconstant/

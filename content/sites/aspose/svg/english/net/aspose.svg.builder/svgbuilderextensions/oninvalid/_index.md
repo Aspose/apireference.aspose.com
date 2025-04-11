@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnInvalid
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the oninvalid event attribute for handling invalid events on form elements
+description: SVGBuilderExtensions OnInvalid method. Sets the oninvalid event attribute for handling invalid events on form elements
 type: docs
 weight: 1480
 url: /net/aspose.svg.builder/svgbuilderextensions/oninvalid/

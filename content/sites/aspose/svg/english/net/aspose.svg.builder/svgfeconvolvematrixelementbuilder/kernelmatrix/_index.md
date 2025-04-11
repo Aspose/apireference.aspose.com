@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElementBuilder.KernelMatrix
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEConvolveMatrixElementBuilder method. Sets the kernelMatrix attribute of the feConvolveMatrix element
+description: SVGFEConvolveMatrixElementBuilder KernelMatrix method. Sets the kernelMatrix attribute of the feConvolveMatrix element
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/svgfeconvolvematrixelementbuilder/kernelmatrix/

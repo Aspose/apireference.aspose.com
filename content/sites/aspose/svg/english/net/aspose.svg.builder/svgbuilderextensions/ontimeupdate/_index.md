@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnTimeUpdate
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the ontimeupdate event attribute for handling events when the current playback position of media changes
+description: SVGBuilderExtensions OnTimeUpdate method. Sets the ontimeupdate event attribute for handling events when the current playback position of media changes
 type: docs
 weight: 1810
 url: /net/aspose.svg.builder/svgbuilderextensions/ontimeupdate/

@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnCanPlay
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the oncanplay event attribute for handling media playability checks
+description: SVGBuilderExtensions OnCanPlay method. Sets the oncanplay event attribute for handling media playability checks
 type: docs
 weight: 1220
 url: /net/aspose.svg.builder/svgbuilderextensions/oncanplay/

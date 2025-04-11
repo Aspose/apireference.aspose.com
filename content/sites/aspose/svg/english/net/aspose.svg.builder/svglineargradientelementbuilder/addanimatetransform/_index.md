@@ -1,7 +1,7 @@
 ---
 title: SVGLinearGradientElementBuilder.AddAnimateTransform
 second_title: Aspose.SVG for .NET API Reference
-description: SVGLinearGradientElementBuilder method. Adds an animate transform configuration to the SVG linearGradient element
+description: SVGLinearGradientElementBuilder AddAnimateTransform method. Adds an animate transform configuration to the SVG linearGradient element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svglineargradientelementbuilder/addanimatetransform/

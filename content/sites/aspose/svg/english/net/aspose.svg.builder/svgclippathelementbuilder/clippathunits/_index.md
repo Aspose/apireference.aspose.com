@@ -1,7 +1,7 @@
 ---
 title: SVGClipPathElementBuilder.ClipPathUnits
 second_title: Aspose.SVG for .NET API Reference
-description: SVGClipPathElementBuilder method. Sets the clipPathUnits attribute of the SVG clipPath element specifying the coordinate system for the clipping path
+description: SVGClipPathElementBuilder ClipPathUnits method. Sets the clipPathUnits attribute of the SVG clipPath element specifying the coordinate system for the clipping path
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgclippathelementbuilder/clippathunits/

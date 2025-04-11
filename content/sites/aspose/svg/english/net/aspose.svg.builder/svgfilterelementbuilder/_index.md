@@ -3,7 +3,7 @@ title: SVGFilterElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFilterElementBuilder class. Builder class for creating SVG filter elements which define filter effects that can be applied to SVG graphics
 type: docs
-weight: 1030
+weight: 1440
 url: /net/aspose.svg.builder/svgfilterelementbuilder/
 ---
 ## SVGFilterElementBuilder class
@@ -33,13 +33,13 @@ public class SVGFilterElementBuilder : SVGElementBuilder<SVGFilterElement>,
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfilterelementbuilder/addscript/)(Action&lt;SVGScriptElementBuilder&gt;) | Adds a script configuration to the filter element. |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGFilterElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [FilterUnits](../../aspose.svg.builder/svgfilterelementbuilder/filterunits/)(CoordinateUnits) | Sets the coordinate system for the filter's x, y, width, and height attributes. |
-| [PrimitiveUnits](../../aspose.svg.builder/svgfilterelementbuilder/primitiveunits/)(CoordinateUnits) | Sets the coordinate system for the filter's primitive sub-elements. |
+| [AddScript](../../aspose.svg.builder/svgfilterelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the filter element. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFilterElement](../../aspose.svg/svgfilterelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| [FilterUnits](../../aspose.svg.builder/svgfilterelementbuilder/filterunits/)(*[CoordinateUnits](../coordinateunits/)*) | Sets the coordinate system for the filter's x, y, width, and height attributes. |
+| [PrimitiveUnits](../../aspose.svg.builder/svgfilterelementbuilder/primitiveunits/)(*[CoordinateUnits](../coordinateunits/)*) | Sets the coordinate system for the filter's primitive sub-elements. |
 
 ### See Also
 

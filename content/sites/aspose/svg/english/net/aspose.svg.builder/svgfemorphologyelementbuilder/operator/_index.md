@@ -1,7 +1,7 @@
 ---
 title: SVGFEMorphologyElementBuilder.Operator
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEMorphologyElementBuilder method. Sets the operator attribute of the feMorphology element specifying the type of morphological operation
+description: SVGFEMorphologyElementBuilder Operator method. Sets the operator attribute of the feMorphology element specifying the type of morphological operation
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfemorphologyelementbuilder/operator/

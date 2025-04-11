@@ -1,7 +1,7 @@
 ---
 title: SVGImageElementBuilder.HrefBase64FromBytes
 second_title: Aspose.SVG for .NET API Reference
-description: SVGImageElementBuilder method. Sets the href attribute of the SVG image element using base64 encoded bytes of an image
+description: SVGImageElementBuilder HrefBase64FromBytes method. Sets the href attribute of the SVG image element using base64 encoded bytes of an image
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/svgimageelementbuilder/hrefbase64frombytes/

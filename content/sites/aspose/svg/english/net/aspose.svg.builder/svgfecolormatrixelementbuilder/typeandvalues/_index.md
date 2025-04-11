@@ -1,7 +1,7 @@
 ---
 title: SVGFEColorMatrixElementBuilder.TypeAndValues
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEColorMatrixElementBuilder method. Sets the type and values attributes of the feColorMatrix element specifying the color matrix operation and its parameters
+description: SVGFEColorMatrixElementBuilder TypeAndValues method. Sets the type and values attributes of the feColorMatrix element specifying the color matrix operation and its parameters
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfecolormatrixelementbuilder/typeandvalues/

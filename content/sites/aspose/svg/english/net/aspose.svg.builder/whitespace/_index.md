@@ -3,7 +3,7 @@ title: WhiteSpace Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.WhiteSpace enum. Specifies how white space inside an SVG element is handled
 type: docs
-weight: 720
+weight: 1950
 url: /net/aspose.svg.builder/whitespace/
 ---
 ## WhiteSpace enumeration

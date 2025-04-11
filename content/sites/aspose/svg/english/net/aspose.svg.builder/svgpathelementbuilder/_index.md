@@ -3,7 +3,7 @@ title: SVGPathElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGPathElementBuilder class. Builder class for constructing an SVG path element which is used to define a path in an SVG document. This class provides methods to set various attributes specific to the path element and to build its content
 type: docs
-weight: 1810
+weight: 1530
 url: /net/aspose.svg.builder/svgpathelementbuilder/
 ---
 ## SVGPathElementBuilder class
@@ -32,11 +32,11 @@ public class SVGPathElementBuilder : SVGElementBuilder<SVGPathElement>, IAnimati
 
 | Name | Description |
 | --- | --- |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGPathElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [D](../../aspose.svg.builder/svgpathelementbuilder/d/)(Action&lt;PathBuilder&gt;) | Sets the 'd' attribute of the SVG 'path' element, which defines the shape of the path. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGPathElement](../../aspose.svg/svgpathelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| [D](../../aspose.svg.builder/svgpathelementbuilder/d/)(*Action&amp;lt;PathBuilder&amp;gt;*) | Sets the 'd' attribute of the SVG 'path' element, which defines the shape of the path. |
 
 ### See Also
 

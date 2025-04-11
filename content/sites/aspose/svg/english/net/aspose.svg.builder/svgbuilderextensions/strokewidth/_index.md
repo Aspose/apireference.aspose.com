@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.StrokeWidth
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the stroke-width attribute for an SVG element defining the width of the stroke
+description: SVGBuilderExtensions StrokeWidth method. Sets the stroke-width attribute for an SVG element defining the width of the stroke
 type: docs
 weight: 2150
 url: /net/aspose.svg.builder/svgbuilderextensions/strokewidth/

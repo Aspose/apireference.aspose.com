@@ -1,7 +1,7 @@
 ---
 title: SVGRadialGradientElementBuilder.Cx
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRadialGradientElementBuilder method. Sets the cx attribute of the SVG radialGradient element specifying the x-coordinate of the center of the gradient
+description: SVGRadialGradientElementBuilder Cx method. Sets the cx attribute of the SVG radialGradient element specifying the x-coordinate of the center of the gradient
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgradialgradientelementbuilder/cx/

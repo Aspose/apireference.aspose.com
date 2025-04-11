@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Tabindex
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the tabindex attribute defining the tab order of the SVG element
+description: SVGBuilderExtensions Tabindex method. Sets the tabindex attribute defining the tab order of the SVG element
 type: docs
 weight: 2180
 url: /net/aspose.svg.builder/svgbuilderextensions/tabindex/

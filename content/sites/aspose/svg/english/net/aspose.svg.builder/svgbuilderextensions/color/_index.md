@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.Color
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the color attribute for an SVG element using a custom configuration
+description: SVGBuilderExtensions Color method. Sets the color attribute for an SVG element using a custom configuration
 type: docs
 weight: 670
 url: /net/aspose.svg.builder/svgbuilderextensions/color/
 ---
-## Color&lt;TBuilder&gt;(this TBuilder, Action&lt;ColorBuilder&gt;) {#color}
+## Color&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;ColorBuilder&amp;gt;*) {#color}
 
 Sets the 'color' attribute for an SVG element using a custom configuration.
 
@@ -36,7 +36,7 @@ The builder instance for chaining.
 
 ---
 
-## Color&lt;TBuilder&gt;(this TBuilder, Color) {#color_1}
+## Color&lt;TBuilder&gt;(*this TBuilder, Color*) {#color_1}
 
 Sets the 'color' attribute for an SVG element using a color value.
 

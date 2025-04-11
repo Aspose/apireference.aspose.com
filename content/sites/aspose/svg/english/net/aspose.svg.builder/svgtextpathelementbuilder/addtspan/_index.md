@@ -1,7 +1,7 @@
 ---
 title: SVGTextPathElementBuilder.AddTSpan
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTextPathElementBuilder method. Adds a tspan element configuration to the textPath
+description: SVGTextPathElementBuilder AddTSpan method. Adds a tspan element configuration to the textPath
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgtextpathelementbuilder/addtspan/

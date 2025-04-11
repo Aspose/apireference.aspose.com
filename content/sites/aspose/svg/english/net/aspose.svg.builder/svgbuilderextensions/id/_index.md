@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Id
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the id attribute assigning a unique identifier to the SVG element
+description: SVGBuilderExtensions Id method. Sets the id attribute assigning a unique identifier to the SVG element
 type: docs
 weight: 1020
 url: /net/aspose.svg.builder/svgbuilderextensions/id/

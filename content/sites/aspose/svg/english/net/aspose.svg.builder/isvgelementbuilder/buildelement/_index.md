@@ -1,7 +1,7 @@
 ---
 title: ISVGElementBuilder.BuildElement
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGElementBuilder method. Builds and returns an SVGElement instance based on the current configuration of the builder
+description: ISVGElementBuilder BuildElement method. Builds and returns an SVGElement instance based on the current configuration of the builder
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/isvgelementbuilder/buildelement/

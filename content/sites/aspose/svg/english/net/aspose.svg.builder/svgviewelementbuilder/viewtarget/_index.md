@@ -1,7 +1,7 @@
 ---
 title: SVGViewElementBuilder.ViewTarget
 second_title: Aspose.SVG for .NET API Reference
-description: SVGViewElementBuilder method. Sets the viewTarget attribute of the view element specifying the target elements for the view
+description: SVGViewElementBuilder ViewTarget method. Sets the viewTarget attribute of the view element specifying the target elements for the view
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgviewelementbuilder/viewtarget/

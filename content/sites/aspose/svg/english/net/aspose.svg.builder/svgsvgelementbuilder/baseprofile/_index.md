@@ -1,7 +1,7 @@
 ---
 title: SVGSVGElementBuilder.BaseProfile
 second_title: Aspose.SVG for .NET API Reference
-description: SVGSVGElementBuilder method. Sets the baseProfile attribute of the SVG element. This attribute indicates which subset of the full SVG specification applies to the document
+description: SVGSVGElementBuilder BaseProfile method. Sets the baseProfile attribute of the SVG element. This attribute indicates which subset of the full SVG specification applies to the document
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgsvgelementbuilder/baseprofile/

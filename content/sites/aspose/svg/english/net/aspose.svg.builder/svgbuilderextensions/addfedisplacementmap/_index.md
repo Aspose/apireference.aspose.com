@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.AddFeDisplacementMap
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds an feDisplacementMap element to the SVG builder creating an effect that distorts an image based on the color data from a second source
+description: SVGBuilderExtensions AddFeDisplacementMap method. Adds an feDisplacementMap element to the SVG builder creating an effect that distorts an image based on the color data from a second source
 type: docs
 weight: 190
 url: /net/aspose.svg.builder/svgbuilderextensions/addfedisplacementmap/
 ---
-## AddFeDisplacementMap&lt;TBuilder&gt;(this TBuilder, double?, ChannelSelector?, ChannelSelector?, OneOf&lt;string, FilterInput&gt;, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEDisplacementMapElementBuilder&gt;) {#addfedisplacementmap_1}
+## AddFeDisplacementMap&lt;TBuilder&gt;(*this TBuilder, double?, ChannelSelector?, ChannelSelector?, OneOf&amp;lt;string, FilterInput&amp;gt;, OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFEDisplacementMapElementBuilder&amp;gt;*) {#addfedisplacementmap_1}
 
 Adds an 'feDisplacementMap' element to the SVG builder, creating an effect that distorts an image based on the color data from a second source.
 
@@ -62,7 +62,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeDisplacementMap&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFEDisplacementMapElementBuilder&gt;) {#addfedisplacementmap}
+## AddFeDisplacementMap&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEDisplacementMapElementBuilder&amp;gt;*) {#addfedisplacementmap}
 
 Adds an 'feDisplacementMap' element configuration to the builder. This element displaces an image by a specified vector map.
 

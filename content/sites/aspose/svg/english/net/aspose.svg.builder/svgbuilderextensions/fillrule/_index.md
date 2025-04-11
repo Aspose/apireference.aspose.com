@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.FillRule
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the fill-rule attribute for an SVG element using a predefined FillRule enum value
+description: SVGBuilderExtensions FillRule method. Sets the fill-rule attribute for an SVG element using a predefined FillRule enum value
 type: docs
 weight: 830
 url: /net/aspose.svg.builder/svgbuilderextensions/fillrule/

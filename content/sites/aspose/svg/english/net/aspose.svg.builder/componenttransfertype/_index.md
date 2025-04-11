@@ -3,7 +3,7 @@ title: ComponentTransferType Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ComponentTransferType enum. Specifies the type of component transfer function to be applied in the FeComponentTransfer filter primitive of an SVG
 type: docs
-weight: 140
+weight: 170
 url: /net/aspose.svg.builder/componenttransfertype/
 ---
 ## ComponentTransferType enumeration

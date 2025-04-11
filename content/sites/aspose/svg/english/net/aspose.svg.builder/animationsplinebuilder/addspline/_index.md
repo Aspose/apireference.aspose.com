@@ -1,7 +1,7 @@
 ---
 title: AnimationSplineBuilder.AddSpline
 second_title: Aspose.SVG for .NET API Reference
-description: AnimationSplineBuilder method. Adds a cubic Bézier curve to the animation spline
+description: AnimationSplineBuilder AddSpline method. Adds a cubic Bézier curve to the animation spline
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/animationsplinebuilder/addspline/

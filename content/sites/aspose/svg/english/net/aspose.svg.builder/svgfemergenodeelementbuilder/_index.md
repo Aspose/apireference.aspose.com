@@ -3,7 +3,7 @@ title: SVGFEMergeNodeElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEMergeNodeElementBuilder class. Builder class for creating SVG feMergeNode elements which define the input layers to be used within an feMerge filter
 type: docs
-weight: 950
+weight: 1360
 url: /net/aspose.svg.builder/svgfemergenodeelementbuilder/
 ---
 ## SVGFEMergeNodeElementBuilder class
@@ -31,13 +31,13 @@ public class SVGFEMergeNodeElementBuilder : SVGElementBuilder<SVGFEMergeNodeElem
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfemergenodeelementbuilder/addscript/)(Action&lt;SVGScriptElementBuilder&gt;) | Adds a script configuration to the feMergeNode element. |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGFEMergeNodeElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [In](../../aspose.svg.builder/svgfemergenodeelementbuilder/in/#in)(FilterInput) | Sets the 'in' attribute of the feMergeNode element, specifying the input for this node. |
-| [In](../../aspose.svg.builder/svgfemergenodeelementbuilder/in/#in_1)(string) | Sets the 'in' attribute of the feMergeNode element, specifying the input for this node. |
+| [AddScript](../../aspose.svg.builder/svgfemergenodeelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feMergeNode element. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEMergeNodeElement](../../aspose.svg.filters/svgfemergenodeelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| [In](../../aspose.svg.builder/svgfemergenodeelementbuilder/in/#in)(*[FilterInput](../filterinput/)*) | Sets the 'in' attribute of the feMergeNode element, specifying the input for this node. |
+| [In](../../aspose.svg.builder/svgfemergenodeelementbuilder/in/#in_1)(*string*) | Sets the 'in' attribute of the feMergeNode element, specifying the input for this node. |
 
 ### See Also
 

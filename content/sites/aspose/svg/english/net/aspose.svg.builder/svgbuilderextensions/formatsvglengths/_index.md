@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.FormatSvgLengths
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Formats an array of double values into a string representation of SVG lengths
+description: SVGBuilderExtensions FormatSvgLengths method. Formats an array of double values into a string representation of SVG lengths
 type: docs
 weight: 950
 url: /net/aspose.svg.builder/svgbuilderextensions/formatsvglengths/

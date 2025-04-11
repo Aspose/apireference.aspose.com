@@ -3,7 +3,7 @@ title: FontStretch Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.FontStretch enum. Specifies the different levels of font stretching for SVG text elements
 type: docs
-weight: 270
+weight: 310
 url: /net/aspose.svg.builder/fontstretch/
 ---
 ## FontStretch enumeration

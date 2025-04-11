@@ -1,7 +1,7 @@
 ---
 title: SVGScriptElementBuilder.Href
 second_title: Aspose.SVG for .NET API Reference
-description: SVGScriptElementBuilder method. Sets the href attribute of the SVG script element specifying the URL of an external script file
+description: SVGScriptElementBuilder Href method. Sets the href attribute of the SVG script element specifying the URL of an external script file
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgscriptelementbuilder/href/

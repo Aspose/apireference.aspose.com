@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.ColorRendering
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the color-rendering attribute for an SVG element using a predefined enum value
+description: SVGBuilderExtensions ColorRendering method. Sets the color-rendering attribute for an SVG element using a predefined enum value
 type: docs
 weight: 710
 url: /net/aspose.svg.builder/svgbuilderextensions/colorrendering/

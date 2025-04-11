@@ -3,7 +3,7 @@ title: SVGFEGaussianBlurElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEGaussianBlurElementBuilder class. Builder class for creating SVG feGaussianBlur elements which apply a Gaussian blur filter effect
 type: docs
-weight: 920
+weight: 1330
 url: /net/aspose.svg.builder/svgfegaussianblurelementbuilder/
 ---
 ## SVGFEGaussianBlurElementBuilder class
@@ -32,12 +32,12 @@ public class SVGFEGaussianBlurElementBuilder : SVGElementBuilder<SVGFEGaussianBl
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfegaussianblurelementbuilder/addscript/)(Action&lt;SVGScriptElementBuilder&gt;) | Adds a script configuration to the feGaussianBlur element. |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGFEGaussianBlurElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [StdDeviation](../../aspose.svg.builder/svgfegaussianblurelementbuilder/stddeviation/)(double, double?) | Sets the standard deviation for the Gaussian blur effect. |
+| [AddScript](../../aspose.svg.builder/svgfegaussianblurelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feGaussianBlur element. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEGaussianBlurElement](../../aspose.svg.filters/svgfegaussianblurelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| [StdDeviation](../../aspose.svg.builder/svgfegaussianblurelementbuilder/stddeviation/)(*double, double?*) | Sets the standard deviation for the Gaussian blur effect. |
 
 ### See Also
 

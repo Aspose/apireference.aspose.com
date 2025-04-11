@@ -1,7 +1,7 @@
 ---
 title: SVGFEBaseLightingElementBuilder-2.WithFeSpotLight
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEBaseLightingElementBuilder method. Configures a spot light source for the filter effect
+description: SVGFEBaseLightingElementBuilder WithFeSpotLight method. Configures a spot light source for the filter effect
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgfebaselightingelementbuilder-2/withfespotlight/

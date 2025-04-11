@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a script element configuration to the builder
+description: SVGBuilderExtensions AddScript method. Adds a script element configuration to the builder
 type: docs
 weight: 460
 url: /net/aspose.svg.builder/svgbuilderextensions/addscript/

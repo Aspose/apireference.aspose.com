@@ -1,7 +1,7 @@
 ---
 title: SVGAnimateTransformElementBuilder.Type
 second_title: Aspose.SVG for .NET API Reference
-description: SVGAnimateTransformElementBuilder method. Sets the type attribute of the SVG animateTransform element specifying the type of transformation
+description: SVGAnimateTransformElementBuilder Type method. Sets the type attribute of the SVG animateTransform element specifying the type of transformation
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svganimatetransformelementbuilder/type/

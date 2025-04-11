@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnDragExit
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the ondragexit event attribute for handling the exit of a dragged item from a valid drop target
+description: SVGBuilderExtensions OnDragExit method. Sets the ondragexit event attribute for handling the exit of a dragged item from a valid drop target
 type: docs
 weight: 1340
 url: /net/aspose.svg.builder/svgbuilderextensions/ondragexit/

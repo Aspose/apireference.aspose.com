@@ -1,7 +1,7 @@
 ---
 title: ISVGURIReference.Href
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGURIReference property. Corresponds to attribute xlinkhref on the given element
+description: ISVGURIReference Href property. Corresponds to attribute xlinkhref on the given element
 type: docs
 weight: 10
 url: /net/aspose.svg/isvgurireference/href/

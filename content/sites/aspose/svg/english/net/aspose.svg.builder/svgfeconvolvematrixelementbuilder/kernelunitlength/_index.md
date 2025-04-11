@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElementBuilder.KernelUnitLength
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEConvolveMatrixElementBuilder method. Sets the kernelUnitLength attribute of the feConvolveMatrix element
+description: SVGFEConvolveMatrixElementBuilder KernelUnitLength method. Sets the kernelUnitLength attribute of the feConvolveMatrix element
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/svgfeconvolvematrixelementbuilder/kernelunitlength/

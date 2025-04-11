@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnCanPlayThrough
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the oncanplaythrough event attribute for handling media playability without interruption
+description: SVGBuilderExtensions OnCanPlayThrough method. Sets the oncanplaythrough event attribute for handling media playability without interruption
 type: docs
 weight: 1230
 url: /net/aspose.svg.builder/svgbuilderextensions/oncanplaythrough/

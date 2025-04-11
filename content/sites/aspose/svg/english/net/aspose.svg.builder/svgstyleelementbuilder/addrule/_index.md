@@ -1,12 +1,12 @@
 ---
 title: SVGStyleElementBuilder.AddRule
 second_title: Aspose.SVG for .NET API Reference
-description: SVGStyleElementBuilder method. Adds a CSS rule to the style element
+description: SVGStyleElementBuilder AddRule method. Adds a CSS rule to the style element
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgstyleelementbuilder/addrule/
 ---
-## AddRule(string, string) {#addrule_1}
+## AddRule(*string, string*) {#addrule_1}
 
 Adds a CSS rule to the style element.
 
@@ -31,7 +31,7 @@ The SVGStyleElementBuilder instance for chaining.
 
 ---
 
-## AddRule(string, Action&lt;RuleBuilder&gt;) {#addrule}
+## AddRule(*string, Action&amp;lt;RuleBuilder&amp;gt;*) {#addrule}
 
 Adds a CSS rule to the style element using a RuleBuilder.
 

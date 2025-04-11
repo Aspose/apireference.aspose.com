@@ -1,7 +1,7 @@
 ---
 title: FilterValueListBuilder.Saturate
 second_title: Aspose.SVG for .NET API Reference
-description: FilterValueListBuilder method. Adds a saturate filter
+description: FilterValueListBuilder Saturate method. Adds a saturate filter
 type: docs
 weight: 120
 url: /net/aspose.svg.builder/filtervaluelistbuilder/saturate/

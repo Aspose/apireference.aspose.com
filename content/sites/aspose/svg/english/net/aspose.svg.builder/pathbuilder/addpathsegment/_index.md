@@ -1,7 +1,7 @@
 ---
 title: PathBuilder.AddPathSegment
 second_title: Aspose.SVG for .NET API Reference
-description: PathBuilder method. Adds a custom path segment to the path data
+description: PathBuilder AddPathSegment method. Adds a custom path segment to the path data
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/pathbuilder/addpathsegment/

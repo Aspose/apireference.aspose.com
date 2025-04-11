@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.ClipPath
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the clip-path attribute for an SVG element
+description: SVGBuilderExtensions ClipPath method. Sets the clip-path attribute for an SVG element
 type: docs
 weight: 650
 url: /net/aspose.svg.builder/svgbuilderextensions/clippath/
