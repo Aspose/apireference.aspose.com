@@ -8,7 +8,7 @@ url: /python-net/aspose.svg.dom.xpath/
 is_root: false
 ---
 
-The namespace contains methods to
+The **Aspose.Svg.Dom.XPath**  namespace contains methods to
 navigate through elements and attributes in an XML document.
 
 ### Classes

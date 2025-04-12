@@ -23,6 +23,7 @@ The ResponseMessage type exposes the following members:
 | [content](/svg/python-net/aspose.svg.net/responsemessage/content) | Gets or sets the response content. |
 | [request](/svg/python-net/aspose.svg.net/responsemessage/request) | Gets or sets the associated request. |
 | [is_success](/svg/python-net/aspose.svg.net/responsemessage/is_success) | Gets a value indicating whether this message is success. |
+| [response_uri](/svg/python-net/aspose.svg.net/responsemessage/response_uri) | Gets or sets the response URI. |
 
 
 
