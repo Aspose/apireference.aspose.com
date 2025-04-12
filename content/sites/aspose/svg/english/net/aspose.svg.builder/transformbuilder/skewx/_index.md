@@ -1,7 +1,7 @@
 ---
 title: TransformBuilder.SkewX
 second_title: Aspose.SVG for .NET API Reference
-description: TransformBuilder method. Adds a skewX transform to the builder
+description: TransformBuilder SkewX method. Adds a skewX transform to the builder
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/transformbuilder/skewx/

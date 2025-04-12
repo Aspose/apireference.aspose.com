@@ -3,7 +3,7 @@ title: ClipStrategy Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.ClipStrategy enum. Specifies the strategy for clipping an SVG element. This enum is used to determine how to apply clipping paths or masks to SVG elements during rendering
 type: docs
-weight: 4470
+weight: 4940
 url: /net/aspose.svg.rendering/clipstrategy/
 ---
 ## ClipStrategy enumeration

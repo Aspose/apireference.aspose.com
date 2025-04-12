@@ -1,7 +1,7 @@
 ---
 title: SVGTextPathElementBuilder.Href
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTextPathElementBuilder method. Sets the href attribute specifying a reference to a path element
+description: SVGTextPathElementBuilder Href method. Sets the href attribute specifying a reference to a path element
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgtextpathelementbuilder/href/

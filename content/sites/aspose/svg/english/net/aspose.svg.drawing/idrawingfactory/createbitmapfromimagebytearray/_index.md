@@ -1,7 +1,7 @@
 ---
 title: IDrawingFactory.CreateBitmapFromImageByteArray
 second_title: Aspose.SVG for .NET API Reference
-description: IDrawingFactory method. Creates a bitmap from the specified image byte array
+description: IDrawingFactory CreateBitmapFromImageByteArray method. Creates a bitmap from the specified image byte array
 type: docs
 weight: 20
 url: /net/aspose.svg.drawing/idrawingfactory/createbitmapfromimagebytearray/

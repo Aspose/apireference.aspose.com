@@ -1,7 +1,7 @@
 ---
 title: MutationObserverInit.Keys
 second_title: Aspose.SVG for .NET API Reference
-description: MutationObserverInit property. Gets a collection containing the keys in the MutationObserverInit collection
+description: MutationObserverInit Keys property. Gets a collection containing the keys in the MutationObserverInit collection
 type: docs
 weight: 110
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/keys/

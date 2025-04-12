@@ -1,7 +1,7 @@
 ---
 title: SVGFEImageElementBuilder.AddAnimateTransform
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEImageElementBuilder method. Adds an animate transform configuration to the feImage element
+description: SVGFEImageElementBuilder AddAnimateTransform method. Adds an animate transform configuration to the feImage element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfeimageelementbuilder/addanimatetransform/

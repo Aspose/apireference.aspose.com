@@ -1,7 +1,7 @@
 ---
 title: ISVGDeviceContext.IsGlyphsRenderingSupported
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGDeviceContext property. Gets a value indicating whether the device supports glyphs rendering
+description: ISVGDeviceContext IsGlyphsRenderingSupported property. Gets a value indicating whether the device supports glyphs rendering
 type: docs
 weight: 30
 url: /net/aspose.svg.rendering/isvgdevicecontext/isglyphsrenderingsupported/

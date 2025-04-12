@@ -1,7 +1,7 @@
 ---
 title: ISVGPropertyResolvingContext.TryGetHrefAsByteArray
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGPropertyResolvingContext method. Tries to get the HREF as a byte array with the specified size format and cancellation token
+description: ISVGPropertyResolvingContext TryGetHrefAsByteArray method. Tries to get the HREF as a byte array with the specified size format and cancellation token
 type: docs
 weight: 150
 url: /net/aspose.svg.rendering.styles/isvgpropertyresolvingcontext/trygethrefasbytearray/

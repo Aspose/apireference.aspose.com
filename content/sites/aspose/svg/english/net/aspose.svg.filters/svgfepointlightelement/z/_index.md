@@ -1,7 +1,7 @@
 ---
 title: SVGFEPointLightElement.Z
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEPointLightElement property. Corresponds to attribute z on the given fePointLight element
+description: SVGFEPointLightElement Z property. Corresponds to attribute z on the given fePointLight element
 type: docs
 weight: 30
 url: /net/aspose.svg.filters/svgfepointlightelement/z/

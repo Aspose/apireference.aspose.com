@@ -1,7 +1,7 @@
 ---
 title: IDrawingFactory.CreateSolidBrush
 second_title: Aspose.SVG for .NET API Reference
-description: IDrawingFactory method. Creates a solid brush with the specified color
+description: IDrawingFactory CreateSolidBrush method. Creates a solid brush with the specified color
 type: docs
 weight: 90
 url: /net/aspose.svg.drawing/idrawingfactory/createsolidbrush/

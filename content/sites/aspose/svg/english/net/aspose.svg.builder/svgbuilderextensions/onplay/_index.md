@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnPlay
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onplay event attribute for handling play events typically for media elements
+description: SVGBuilderExtensions OnPlay method. Sets the onplay event attribute for handling play events typically for media elements
 type: docs
 weight: 1660
 url: /net/aspose.svg.builder/svgbuilderextensions/onplay/

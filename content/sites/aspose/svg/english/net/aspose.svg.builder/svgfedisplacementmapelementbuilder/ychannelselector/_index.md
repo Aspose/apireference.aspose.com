@@ -1,7 +1,7 @@
 ---
 title: SVGFEDisplacementMapElementBuilder.YChannelSelector
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDisplacementMapElementBuilder method. Sets the yChannelSelector attribute of the feDisplacementMap element
+description: SVGFEDisplacementMapElementBuilder YChannelSelector method. Sets the yChannelSelector attribute of the feDisplacementMap element
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/svgfedisplacementmapelementbuilder/ychannelselector/

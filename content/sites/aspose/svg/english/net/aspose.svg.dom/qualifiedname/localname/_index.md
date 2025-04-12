@@ -1,7 +1,7 @@
 ---
 title: QualifiedName.LocalName
 second_title: Aspose.SVG for .NET API Reference
-description: QualifiedName property. Gets a string representation of the local part of the QualifiedName
+description: QualifiedName LocalName property. Gets a string representation of the local part of the QualifiedName
 type: docs
 weight: 10
 url: /net/aspose.svg.dom/qualifiedname/localname/

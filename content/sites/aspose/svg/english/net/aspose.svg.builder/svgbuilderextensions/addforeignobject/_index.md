@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddForeignObject
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a foreignObject element configuration to the builder
+description: SVGBuilderExtensions AddForeignObject method. Adds a foreignObject element configuration to the builder
 type: docs
 weight: 310
 url: /net/aspose.svg.builder/svgbuilderextensions/addforeignobject/

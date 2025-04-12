@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnMouseWheel
 second_title: Aspose.SVG for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnMouseWheel event
+description: IGlobalEventHandlers OnMouseWheel event. Gets or sets event handler for OnMouseWheel event
 type: docs
 weight: 310
 url: /net/aspose.svg.dom/iglobaleventhandlers/onmousewheel/

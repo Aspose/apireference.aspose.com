@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegLinetoHorizontalRel.X
 second_title: Aspose.SVG for .NET API Reference
-description: SVGPathSegLinetoHorizontalRel property. The relative X coordinate for the end point of this path segment
+description: SVGPathSegLinetoHorizontalRel X property. The relative X coordinate for the end point of this path segment
 type: docs
 weight: 10
 url: /net/aspose.svg.paths/svgpathseglinetohorizontalrel/x/

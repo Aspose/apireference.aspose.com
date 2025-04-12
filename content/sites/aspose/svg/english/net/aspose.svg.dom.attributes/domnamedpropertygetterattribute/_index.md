@@ -3,7 +3,7 @@ title: DOMNamedPropertyGetterAttribute Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Attributes.DOMNamedPropertyGetterAttribute class. Specifies that the method will be used as named property getter
 type: docs
-weight: 4290
+weight: 2390
 url: /net/aspose.svg.dom.attributes/domnamedpropertygetterattribute/
 ---
 ## DOMNamedPropertyGetterAttribute class
@@ -20,6 +20,12 @@ public sealed class DOMNamedPropertyGetterAttribute : Attribute
 | Name | Description |
 | --- | --- |
 | [DOMNamedPropertyGetterAttribute](domnamedpropertygetterattribute/)() | The default constructor. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnDblClick
 second_title: Aspose.SVG for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnDblClick event
+description: IGlobalEventHandlers OnDblClick event. Gets or sets event handler for OnDblClick event
 type: docs
 weight: 90
 url: /net/aspose.svg.dom/iglobaleventhandlers/ondblclick/

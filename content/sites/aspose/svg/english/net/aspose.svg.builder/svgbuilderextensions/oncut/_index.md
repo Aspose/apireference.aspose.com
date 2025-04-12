@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnCut
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the oncut event attribute defining a script to run when content is cut from the SVG element
+description: SVGBuilderExtensions OnCut method. Sets the oncut event attribute defining a script to run when content is cut from the SVG element
 type: docs
 weight: 1290
 url: /net/aspose.svg.builder/svgbuilderextensions/oncut/

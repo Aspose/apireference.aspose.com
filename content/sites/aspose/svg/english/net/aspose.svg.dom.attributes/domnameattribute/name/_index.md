@@ -1,7 +1,7 @@
 ---
 title: DOMNameAttribute.Name
 second_title: Aspose.SVG for .NET API Reference
-description: DOMNameAttribute property. Gets the DOM name
+description: DOMNameAttribute Name property. Gets the DOM name
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.attributes/domnameattribute/name/

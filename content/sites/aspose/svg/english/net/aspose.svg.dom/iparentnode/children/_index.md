@@ -1,7 +1,7 @@
 ---
 title: IParentNode.Children
 second_title: Aspose.SVG for .NET API Reference
-description: IParentNode property. Returns the child elements
+description: IParentNode Children property. Returns the child elements
 type: docs
 weight: 20
 url: /net/aspose.svg.dom/iparentnode/children/

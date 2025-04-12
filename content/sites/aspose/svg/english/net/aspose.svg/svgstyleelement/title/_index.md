@@ -1,7 +1,7 @@
 ---
 title: SVGStyleElement.Title
 second_title: Aspose.SVG for .NET API Reference
-description: SVGStyleElement property. Corresponds to attribute title on the given element
+description: SVGStyleElement Title property. Corresponds to attribute title on the given element
 type: docs
 weight: 30
 url: /net/aspose.svg/svgstyleelement/title/

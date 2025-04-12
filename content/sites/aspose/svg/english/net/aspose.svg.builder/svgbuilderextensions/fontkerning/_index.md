@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.FontKerning
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the font-kerning attribute for an SVG element using a numeric value and a specific length type
+description: SVGBuilderExtensions FontKerning method. Sets the font-kerning attribute for an SVG element using a numeric value and a specific length type
 type: docs
 weight: 880
 url: /net/aspose.svg.builder/svgbuilderextensions/fontkerning/
 ---
-## FontKerning&lt;TBuilder&gt;(this TBuilder, double, LengthType) {#fontkerning_1}
+## FontKerning&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#fontkerning_1}
 
 Sets the 'font-kerning' attribute for an SVG element using a numeric value and a specific length type.
 
@@ -38,7 +38,7 @@ The builder instance for chaining.
 
 ---
 
-## FontKerning&lt;TBuilder&gt;(this TBuilder, Kerning) {#fontkerning}
+## FontKerning&lt;TBuilder&gt;(*this TBuilder, [Kerning](../../kerning/)*) {#fontkerning}
 
 Sets the 'font-kerning' attribute for an SVG element using a predefined kerning value.
 

@@ -3,7 +3,7 @@ title: INonElementParentNode Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.INonElementParentNode interface. Defines IParentNode that are not Element type
 type: docs
-weight: 3690
+weight: 3160
 url: /net/aspose.svg.dom/inonelementparentnode/
 ---
 ## INonElementParentNode interface
@@ -18,7 +18,7 @@ public interface INonElementParentNode
 
 | Name | Description |
 | --- | --- |
-| [GetElementById](../../aspose.svg.dom/inonelementparentnode/getelementbyid/)(string) | Returns the first element within node's descendants whose ID is elementId. |
+| [GetElementById](../../aspose.svg.dom/inonelementparentnode/getelementbyid/)(*string*) | Returns the first element within node's descendants whose ID is elementId. |
 
 ### See Also
 

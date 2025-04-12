@@ -1,7 +1,7 @@
 ---
 title: Color.FromCmyka
 second_title: Aspose.SVG for .NET API Reference
-description: Color method. Returns a new Color with the requested cyan magenta yellow key black alpha values
+description: Color FromCmyka method. Returns a new Color with the requested cyan magenta yellow key black alpha values
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/color/fromcmyka/

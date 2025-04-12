@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.RepeatDur
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the repeatDur attribute specifying the total duration for which the animation should repeat
+description: SVGBuilderExtensions RepeatDur method. Sets the repeatDur attribute specifying the total duration for which the animation should repeat
 type: docs
 weight: 1960
 url: /net/aspose.svg.builder/svgbuilderextensions/repeatdur/
 ---
-## RepeatDur&lt;TBuilder&gt;(this TBuilder, TimeSpan) {#repeatdur_1}
+## RepeatDur&lt;TBuilder&gt;(*this TBuilder, TimeSpan*) {#repeatdur_1}
 
 Sets the 'repeatDur' attribute, specifying the total duration for which the animation should repeat.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## RepeatDur&lt;TBuilder&gt;(this TBuilder, IndefiniteRepeat) {#repeatdur}
+## RepeatDur&lt;TBuilder&gt;(*this TBuilder, [IndefiniteRepeat](../../indefiniterepeat/)*) {#repeatdur}
 
 Sets the 'repeatDur' attribute, specifying an indefinite total duration for the animation using a predefined enum.
 

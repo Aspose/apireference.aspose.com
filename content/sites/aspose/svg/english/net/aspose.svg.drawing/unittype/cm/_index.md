@@ -1,7 +1,7 @@
 ---
 title: UnitType.Cm
 second_title: Aspose.SVG for .NET API Reference
-description: UnitType field. Measurement is in centimeters
+description: UnitType Cm field. Measurement is in centimeters
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/unittype/cm/

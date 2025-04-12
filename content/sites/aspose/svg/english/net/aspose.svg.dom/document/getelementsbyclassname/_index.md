@@ -1,7 +1,7 @@
 ---
 title: Document.GetElementsByClassName
 second_title: Aspose.SVG for .NET API Reference
-description: Document method. Returns a live NodeList object containing all the elements in the document that have all the classes specified in argument. http//www.w3.org/TR/dom/
+description: Document GetElementsByClassName method. Returns a live NodeList object containing all the elements in the document that have all the classes specified in argument. http//www.w3.org/TR/dom/
 type: docs
 weight: 970
 url: /net/aspose.svg.dom/document/getelementsbyclassname/

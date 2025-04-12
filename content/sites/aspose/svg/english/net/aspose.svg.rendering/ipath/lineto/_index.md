@@ -1,7 +1,7 @@
 ---
 title: IPath.LineTo
 second_title: Aspose.SVG for .NET API Reference
-description: IPath method. Adds a straight line segment from the current point to the specified coordinates
+description: IPath LineTo method. Adds a straight line segment from the current point to the specified coordinates
 type: docs
 weight: 110
 url: /net/aspose.svg.rendering/ipath/lineto/

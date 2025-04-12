@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.AddUse
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a use element configuration to the builder
+description: SVGBuilderExtensions AddUse method. Adds a use element configuration to the builder
 type: docs
 weight: 550
 url: /net/aspose.svg.builder/svgbuilderextensions/adduse/
 ---
-## AddUse&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGUseElementBuilder&gt;) {#adduse}
+## AddUse&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGUseElementBuilder&amp;gt;*) {#adduse}
 
 Adds a 'use' element configuration to the builder.
 
@@ -37,7 +37,7 @@ The builder instance for chaining.
 
 ---
 
-## AddUse&lt;TBuilder&gt;(this TBuilder, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGUseElementBuilder&gt;) {#adduse_1}
+## AddUse&lt;TBuilder&gt;(*this TBuilder, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGUseElementBuilder&amp;gt;*) {#adduse_1}
 
 Adds a 'use' element to the SVG builder, allowing for the reuse of an existing element defined elsewhere in the SVG.
 

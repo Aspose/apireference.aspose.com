@@ -1,12 +1,12 @@
 ---
 title: ICanvas.Clip
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Sets the current clipping path using the specified fill rule
+description: ICanvas Clip method. Sets the current clipping path using the specified fill rule
 type: docs
 weight: 70
 url: /net/aspose.svg.rendering/icanvas/clip/
 ---
-## Clip(FillRule) {#clip}
+## Clip(*[FillRule](../../../aspose.svg.drawing/fillrule/)*) {#clip}
 
 Sets the current clipping path using the specified fill rule.
 
@@ -27,7 +27,7 @@ public void Clip(FillRule mode)
 
 ---
 
-## Clip(IPath, FillRule) {#clip_1}
+## Clip(*[IPath](../../ipath/), [FillRule](../../../aspose.svg.drawing/fillrule/)*) {#clip_1}
 
 Sets the current clipping path using the specified path and fill rule.
 

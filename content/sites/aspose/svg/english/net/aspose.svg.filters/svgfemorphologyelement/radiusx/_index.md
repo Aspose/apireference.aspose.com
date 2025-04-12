@@ -1,7 +1,7 @@
 ---
 title: SVGFEMorphologyElement.RadiusX
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEMorphologyElement property. Corresponds to attribute radius on the given feMorphology element
+description: SVGFEMorphologyElement RadiusX property. Corresponds to attribute radius on the given feMorphology element
 type: docs
 weight: 40
 url: /net/aspose.svg.filters/svgfemorphologyelement/radiusx/

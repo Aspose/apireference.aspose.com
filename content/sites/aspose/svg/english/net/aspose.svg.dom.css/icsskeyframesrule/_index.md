@@ -3,7 +3,7 @@ title: ICSSKeyframesRule Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.ICSSKeyframesRule interface. The CSSKeyframesRule interface represents a complete set of keyframes for a single animation
 type: docs
-weight: 2430
+weight: 2650
 url: /net/aspose.svg.dom.css/icsskeyframesrule/
 ---
 ## ICSSKeyframesRule interface
@@ -25,9 +25,9 @@ public interface ICSSKeyframesRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [AppendRule](../../aspose.svg.dom.css/icsskeyframesrule/appendrule/)(string) | The appendRule method appends the passed CSSKeyframeRule into the list at the passed key |
-| [DeleteRule](../../aspose.svg.dom.css/icsskeyframesrule/deleterule/)(string) | The deleteRule method deletes the CSSKeyframeRule with the passed key. If a rule with this key does not exist, the method does nothing |
-| [FindRule](../../aspose.svg.dom.css/icsskeyframesrule/findrule/)(string) | The findRule method returns the rule with a key matching the passed key. If no such rule exists, a null value is returned |
+| [AppendRule](../../aspose.svg.dom.css/icsskeyframesrule/appendrule/)(*string*) | The appendRule method appends the passed CSSKeyframeRule into the list at the passed key |
+| [DeleteRule](../../aspose.svg.dom.css/icsskeyframesrule/deleterule/)(*string*) | The deleteRule method deletes the CSSKeyframeRule with the passed key. If a rule with this key does not exist, the method does nothing |
+| [FindRule](../../aspose.svg.dom.css/icsskeyframesrule/findrule/)(*string*) | The findRule method returns the rule with a key matching the passed key. If no such rule exists, a null value is returned |
 
 ### See Also
 

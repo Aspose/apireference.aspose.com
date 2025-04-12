@@ -1,7 +1,7 @@
 ---
 title: SVGFEMergeElement.Y
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEMergeElement property. Corresponds to attribute y on the given filter element
+description: SVGFEMergeElement Y property. Corresponds to attribute y on the given filter element
 type: docs
 weight: 50
 url: /net/aspose.svg.filters/svgfemergeelement/y/

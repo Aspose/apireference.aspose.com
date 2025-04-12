@@ -1,7 +1,7 @@
 ---
 title: SVGFECompositeElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFECompositeElementBuilder method. Adds a script configuration to the element
+description: SVGFECompositeElementBuilder AddScript method. Adds a script configuration to the element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfecompositeelementbuilder/addscript/

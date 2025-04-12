@@ -3,7 +3,7 @@ title: ResponseMessage Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.ResponseMessage class. Represents a response message
 type: docs
-weight: 3000
+weight: 4660
 url: /net/aspose.svg.net/responsemessage/
 ---
 ## ResponseMessage class
@@ -18,7 +18,7 @@ public class ResponseMessage : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [ResponseMessage](responsemessage/)(HttpStatusCode) | Initializes a new instance of the `ResponseMessage` class. |
+| [ResponseMessage](responsemessage/)(*HttpStatusCode*) | Initializes a new instance of the `ResponseMessage` class. |
 
 ## Properties
 
@@ -29,6 +29,7 @@ public class ResponseMessage : IDisposable
 | [Headers](../../aspose.svg.net/responsemessage/headers/) { get; } | Gets the headers. |
 | [IsSuccess](../../aspose.svg.net/responsemessage/issuccess/) { get; } | Gets a value indicating whether this message is success. |
 | [Request](../../aspose.svg.net/responsemessage/request/) { get; set; } | Gets or sets the associated request. |
+| [ResponseUri](../../aspose.svg.net/responsemessage/responseuri/) { get; set; } | Gets or sets the response URI. |
 | [StatusCode](../../aspose.svg.net/responsemessage/statuscode/) { get; set; } | Gets or sets the status code. |
 
 ## Methods

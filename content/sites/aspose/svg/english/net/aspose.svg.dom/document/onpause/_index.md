@@ -1,7 +1,7 @@
 ---
 title: Document.OnPause
 second_title: Aspose.SVG for .NET API Reference
-description: Document event. Gets or sets event handler for OnPause event
+description: Document OnPause event. Gets or sets event handler for OnPause event
 type: docs
 weight: 590
 url: /net/aspose.svg.dom/document/onpause/

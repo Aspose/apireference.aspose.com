@@ -1,7 +1,7 @@
 ---
 title: TransformBuilder.Rotate
 second_title: Aspose.SVG for .NET API Reference
-description: TransformBuilder method. Adds a rotate transform to the builder
+description: TransformBuilder Rotate method. Adds a rotate transform to the builder
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/transformbuilder/rotate/

@@ -1,7 +1,7 @@
 ---
 title: ClipPathBuilder.GeometryBox
 second_title: Aspose.SVG for .NET API Reference
-description: ClipPathBuilder method. Sets the geometry box for the clip path
+description: ClipPathBuilder GeometryBox method. Sets the geometry box for the clip path
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/clippathbuilder/geometrybox/

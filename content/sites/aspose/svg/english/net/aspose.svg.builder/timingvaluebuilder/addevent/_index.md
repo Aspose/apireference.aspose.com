@@ -1,7 +1,7 @@
 ---
 title: TimingValueBuilder.AddEvent
 second_title: Aspose.SVG for .NET API Reference
-description: TimingValueBuilder method. Adds an event-based timing value
+description: TimingValueBuilder AddEvent method. Adds an event-based timing value
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/timingvaluebuilder/addevent/

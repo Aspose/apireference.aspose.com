@@ -1,7 +1,7 @@
 ---
 title: ICanvasLinearGradientFactory.Create
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasLinearGradientFactory method. Creates a linear gradient along the line given by the coordinates represented by the parameters
+description: ICanvasLinearGradientFactory Create method. Creates a linear gradient along the line given by the coordinates represented by the parameters
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.canvas/icanvaslineargradientfactory/create/

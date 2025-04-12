@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegArcAbs.LargeArcFlag
 second_title: Aspose.SVG for .NET API Reference
-description: SVGPathSegArcAbs property. The value of the large-arc-flag parameter
+description: SVGPathSegArcAbs LargeArcFlag property. The value of the large-arc-flag parameter
 type: docs
 weight: 20
 url: /net/aspose.svg.paths/svgpathsegarcabs/largearcflag/

@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.ColorProfile
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the color-profile attribute for an SVG element
+description: SVGBuilderExtensions ColorProfile method. Sets the color-profile attribute for an SVG element
 type: docs
 weight: 700
 url: /net/aspose.svg.builder/svgbuilderextensions/colorprofile/

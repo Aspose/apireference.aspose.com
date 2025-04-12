@@ -1,9 +1,9 @@
 ---
 title: ResponseMessage.StatusCode
 second_title: Aspose.SVG for .NET API Reference
-description: ResponseMessage property. Gets or sets the status code
+description: ResponseMessage StatusCode property. Gets or sets the status code
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.svg.net/responsemessage/statuscode/
 ---
 ## ResponseMessage.StatusCode property

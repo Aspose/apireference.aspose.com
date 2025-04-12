@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.ColorInterpolation
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the color-interpolation attribute for an SVG element
+description: SVGBuilderExtensions ColorInterpolation method. Sets the color-interpolation attribute for an SVG element
 type: docs
 weight: 680
 url: /net/aspose.svg.builder/svgbuilderextensions/colorinterpolation/

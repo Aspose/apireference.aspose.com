@@ -1,7 +1,7 @@
 ---
 title: SVGElementBuilder-1.Configurations
 second_title: Aspose.SVG for .NET API Reference
-description: SVGElementBuilder property. Gets the list of configurations to be applied to the SVG element
+description: SVGElementBuilder Configurations property. Gets the list of configurations to be applied to the SVG element
 type: docs
 weight: 10
 url: /net/aspose.svg.builder/svgelementbuilder-1/configurations/

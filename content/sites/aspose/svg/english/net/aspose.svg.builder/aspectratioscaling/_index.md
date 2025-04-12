@@ -3,7 +3,7 @@ title: AspectRatioScaling Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.AspectRatioScaling enum. Specifies the scaling behavior for SVG elements when preserving their aspect ratio
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.svg.builder/aspectratioscaling/
 ---
 ## AspectRatioScaling enumeration

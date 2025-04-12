@@ -1,7 +1,7 @@
 ---
 title: Angle.op_Addition
 second_title: Aspose.SVG for .NET API Reference
-description: Angle method. Implements the operator 
+description: Angle op_Addition method. Implements the operator 
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/angle/op_addition/

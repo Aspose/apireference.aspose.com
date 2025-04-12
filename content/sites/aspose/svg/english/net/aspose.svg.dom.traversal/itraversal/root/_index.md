@@ -1,7 +1,7 @@
 ---
 title: ITraversal.Root
 second_title: Aspose.SVG for .NET API Reference
-description: ITraversal property. The root node of the NodeIterator as specified when it was created
+description: ITraversal Root property. The root node of the NodeIterator as specified when it was created
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.traversal/itraversal/root/

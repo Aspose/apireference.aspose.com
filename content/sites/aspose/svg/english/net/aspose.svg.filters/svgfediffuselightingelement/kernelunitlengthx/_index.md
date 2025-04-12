@@ -1,7 +1,7 @@
 ---
 title: SVGFEDiffuseLightingElement.KernelUnitLengthX
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDiffuseLightingElement property. Corresponds to attribute kernelUnitLength on the given feDiffuseLighting element
+description: SVGFEDiffuseLightingElement KernelUnitLengthX property. Corresponds to attribute kernelUnitLength on the given feDiffuseLighting element
 type: docs
 weight: 40
 url: /net/aspose.svg.filters/svgfediffuselightingelement/kernelunitlengthx/

@@ -1,7 +1,7 @@
 ---
 title: HttpMethod.Get
 second_title: Aspose.SVG for .NET API Reference
-description: HttpMethod property. Represents an HTTP GET protocol method
+description: HttpMethod Get property. Represents an HTTP GET protocol method
 type: docs
 weight: 30
 url: /net/aspose.svg.net/httpmethod/get/

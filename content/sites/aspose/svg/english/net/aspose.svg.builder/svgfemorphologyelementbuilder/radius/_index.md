@@ -1,7 +1,7 @@
 ---
 title: SVGFEMorphologyElementBuilder.Radius
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEMorphologyElementBuilder method. Sets the radius attribute of the feMorphology element defining the radius for the morphological operation
+description: SVGFEMorphologyElementBuilder Radius method. Sets the radius attribute of the feMorphology element defining the radius for the morphological operation
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgfemorphologyelementbuilder/radius/

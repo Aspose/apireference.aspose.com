@@ -1,7 +1,7 @@
 ---
 title: IDevice.GraphicContext
 second_title: Aspose.SVG for .NET API Reference
-description: IDevice property. Gets the graphic context
+description: IDevice GraphicContext property. Gets the graphic context
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/idevice/graphiccontext/

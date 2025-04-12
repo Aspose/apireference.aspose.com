@@ -1,7 +1,7 @@
 ---
 title: IBrush.SupportsShader
 second_title: Aspose.SVG for .NET API Reference
-description: IBrush property. Checks if the brush supports a shader
+description: IBrush SupportsShader property. Checks if the brush supports a shader
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/ibrush/supportsshader/

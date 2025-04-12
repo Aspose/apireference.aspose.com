@@ -1,7 +1,7 @@
 ---
 title: SVGSetElementBuilder.To
 second_title: Aspose.SVG for .NET API Reference
-description: SVGSetElementBuilder method. Sets the to attribute of the SVG set element specifying the final value of the attribute that will be changed during the animation
+description: SVGSetElementBuilder To method. Sets the to attribute of the SVG set element specifying the final value of the attribute that will be changed during the animation
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgsetelementbuilder/to/

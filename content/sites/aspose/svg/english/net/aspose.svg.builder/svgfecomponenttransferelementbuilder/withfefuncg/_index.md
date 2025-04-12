@@ -1,7 +1,7 @@
 ---
 title: SVGFEComponentTransferElementBuilder.WithFeFuncG
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEComponentTransferElementBuilder method. Configures the feFuncG component transfer function for the green channel
+description: SVGFEComponentTransferElementBuilder WithFeFuncG method. Configures the feFuncG component transfer function for the green channel
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgfecomponenttransferelementbuilder/withfefuncg/

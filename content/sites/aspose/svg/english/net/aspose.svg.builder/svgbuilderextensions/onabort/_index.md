@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnAbort
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onabort event attribute defining a script to run when the loading of an SVG document is aborted
+description: SVGBuilderExtensions OnAbort method. Sets the onabort event attribute defining a script to run when the loading of an SVG document is aborted
 type: docs
 weight: 1190
 url: /net/aspose.svg.builder/svgbuilderextensions/onabort/

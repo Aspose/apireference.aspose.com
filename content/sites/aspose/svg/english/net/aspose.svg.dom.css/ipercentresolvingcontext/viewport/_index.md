@@ -1,7 +1,7 @@
 ---
 title: IPercentResolvingContext.Viewport
 second_title: Aspose.SVG for .NET API Reference
-description: IPercentResolvingContext property. Gets the Viewport associated with the percentage resolving context
+description: IPercentResolvingContext Viewport property. Gets the Viewport associated with the percentage resolving context
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/ipercentresolvingcontext/viewport/

@@ -1,7 +1,7 @@
 ---
 title: SVGFilterElement.Y
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFilterElement property. Corresponds to attribute y on the given filter element
+description: SVGFilterElement Y property. Corresponds to attribute y on the given filter element
 type: docs
 weight: 70
 url: /net/aspose.svg/svgfilterelement/y/

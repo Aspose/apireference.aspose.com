@@ -1,7 +1,7 @@
 ---
 title: IColorComponents.Components
 second_title: Aspose.SVG for .NET API Reference
-description: IColorComponents property. Returns the color components as float array
+description: IColorComponents Components property. Returns the color components as float array
 type: docs
 weight: 20
 url: /net/aspose.svg.drawing/icolorcomponents/components/

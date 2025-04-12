@@ -3,7 +3,7 @@ title: MessageHandlerCollection Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.MessageHandlerCollection class. Represents collection of the MessageHandler
 type: docs
-weight: 2940
+weight: 4570
 url: /net/aspose.svg.net/messagehandlercollection/
 ---
 ## MessageHandlerCollection class
@@ -19,6 +19,14 @@ public class MessageHandlerCollection : Collection<MessageHandler>
 | Name | Description |
 | --- | --- |
 | [MessageHandlerCollection](messagehandlercollection/)() | The default constructor. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Count](../../system.collections.objectmodel/collection-1/count/) { get; } |  |
+| [Item](../../system.collections.objectmodel/collection-1/item/) { get; set; } |  |
+| [Items](../../system.collections.objectmodel/collection-1/items/) { get; } |  |
 
 ### See Also
 

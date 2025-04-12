@@ -1,7 +1,7 @@
 ---
 title: ILinearGradientBrush.Clone
 second_title: Aspose.SVG for .NET API Reference
-description: ILinearGradientBrush method. Creates a deep copy of the linear gradient brush. See ILinearGradientBrush
+description: ILinearGradientBrush Clone method. Creates a deep copy of the linear gradient brush. See ILinearGradientBrush
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/ilineargradientbrush/clone/

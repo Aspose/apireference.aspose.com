@@ -1,7 +1,7 @@
 ---
 title: Node.ToString
 second_title: Aspose.SVG for .NET API Reference
-description: Node method. Returns a String that represents this instance
+description: Node ToString method. Returns a String that represents this instance
 type: docs
 weight: 290
 url: /net/aspose.svg.dom/node/tostring/

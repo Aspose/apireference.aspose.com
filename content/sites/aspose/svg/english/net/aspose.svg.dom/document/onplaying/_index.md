@@ -1,7 +1,7 @@
 ---
 title: Document.OnPlaying
 second_title: Aspose.SVG for .NET API Reference
-description: Document event. Gets or sets event handler for OnPlaying event
+description: Document OnPlaying event. Gets or sets event handler for OnPlaying event
 type: docs
 weight: 610
 url: /net/aspose.svg.dom/document/onplaying/

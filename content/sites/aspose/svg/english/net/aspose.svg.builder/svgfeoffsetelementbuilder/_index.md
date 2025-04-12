@@ -3,7 +3,7 @@ title: SVGFEOffsetElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEOffsetElementBuilder class. Builder class for creating SVG feOffset elements which are used to apply an offset effect to an input image
 type: docs
-weight: 970
+weight: 1380
 url: /net/aspose.svg.builder/svgfeoffsetelementbuilder/
 ---
 ## SVGFEOffsetElementBuilder class
@@ -32,13 +32,13 @@ public class SVGFEOffsetElementBuilder : SVGElementBuilder<SVGFEOffsetElement>,
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfeoffsetelementbuilder/addscript/)(Action&lt;SVGScriptElementBuilder&gt;) | Adds a script configuration to the feOffset element. |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGFEOffsetElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [Dx](../../aspose.svg.builder/svgfeoffsetelementbuilder/dx/)(double) | Sets the 'dx' attribute of the feOffset element, specifying the horizontal offset. |
-| [Dy](../../aspose.svg.builder/svgfeoffsetelementbuilder/dy/)(double) | Sets the 'dy' attribute of the feOffset element, specifying the vertical offset. |
+| [AddScript](../../aspose.svg.builder/svgfeoffsetelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feOffset element. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEOffsetElement](../../aspose.svg.filters/svgfeoffsetelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| [Dx](../../aspose.svg.builder/svgfeoffsetelementbuilder/dx/)(*double*) | Sets the 'dx' attribute of the feOffset element, specifying the horizontal offset. |
+| [Dy](../../aspose.svg.builder/svgfeoffsetelementbuilder/dy/)(*double*) | Sets the 'dy' attribute of the feOffset element, specifying the vertical offset. |
 
 ### See Also
 

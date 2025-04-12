@@ -1,12 +1,12 @@
 ---
 title: ICanvas.Fill
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Fills the current path with the specified fill rule
+description: ICanvas Fill method. Fills the current path with the specified fill rule
 type: docs
 weight: 110
 url: /net/aspose.svg.rendering/icanvas/fill/
 ---
-## Fill(FillRule) {#fill}
+## Fill(*[FillRule](../../../aspose.svg.drawing/fillrule/)*) {#fill}
 
 Fills the current path with the specified fill rule.
 
@@ -27,7 +27,7 @@ public void Fill(FillRule mode)
 
 ---
 
-## Fill(IPath, FillRule) {#fill_1}
+## Fill(*[IPath](../../ipath/), [FillRule](../../../aspose.svg.drawing/fillrule/)*) {#fill_1}
 
 Fills the specified path with the specified fill rule.
 

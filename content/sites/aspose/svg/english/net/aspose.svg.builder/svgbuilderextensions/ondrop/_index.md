@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnDrop
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the ondrop event attribute for handling the dropping of an item onto a valid drop target
+description: SVGBuilderExtensions OnDrop method. Sets the ondrop event attribute for handling the dropping of an item onto a valid drop target
 type: docs
 weight: 1380
 url: /net/aspose.svg.builder/svgbuilderextensions/ondrop/

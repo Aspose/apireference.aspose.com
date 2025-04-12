@@ -1,7 +1,7 @@
 ---
 title: SVGMatrix.E
 second_title: Aspose.SVG for .NET API Reference
-description: SVGMatrix property. The E component of the matrix
+description: SVGMatrix E property. The E component of the matrix
 type: docs
 weight: 50
 url: /net/aspose.svg.datatypes/svgmatrix/e/

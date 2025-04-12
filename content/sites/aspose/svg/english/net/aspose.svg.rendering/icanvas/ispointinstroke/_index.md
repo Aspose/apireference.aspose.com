@@ -1,12 +1,12 @@
 ---
 title: ICanvas.IsPointInStroke
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Determines whether the specified point is inside the current stroked path
+description: ICanvas IsPointInStroke method. Determines whether the specified point is inside the current stroked path
 type: docs
 weight: 170
 url: /net/aspose.svg.rendering/icanvas/ispointinstroke/
 ---
-## IsPointInStroke(float, float) {#ispointinstroke_1}
+## IsPointInStroke(*float, float*) {#ispointinstroke_1}
 
 Determines whether the specified point is inside the current stroked path.
 
@@ -31,7 +31,7 @@ public bool IsPointInStroke(float x, float y)
 
 ---
 
-## IsPointInStroke(IPath, float, float) {#ispointinstroke}
+## IsPointInStroke(*[IPath](../../ipath/), float, float*) {#ispointinstroke}
 
 Determines whether the specified point is inside the specified stroked path.
 

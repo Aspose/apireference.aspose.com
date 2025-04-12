@@ -1,7 +1,7 @@
 ---
 title: IStyleSheet.Media
 second_title: Aspose.SVG for .NET API Reference
-description: IStyleSheet property. The intended destination media for style information
+description: IStyleSheet Media property. The intended destination media for style information
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.css/istylesheet/media/

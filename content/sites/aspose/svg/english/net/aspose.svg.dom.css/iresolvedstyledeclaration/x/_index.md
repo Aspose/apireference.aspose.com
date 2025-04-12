@@ -1,7 +1,7 @@
 ---
 title: IResolvedStyleDeclaration.X
 second_title: Aspose.SVG for .NET API Reference
-description: IResolvedStyleDeclaration property. Gets the x-coordinate value
+description: IResolvedStyleDeclaration X property. Gets the x-coordinate value
 type: docs
 weight: 340
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/x/

@@ -1,7 +1,7 @@
 ---
 title: CssOptions.MediaType
 second_title: Aspose.SVG for .NET API Reference
-description: CssOptions property. Gets or sets MediaType which will be used for media queries resolution during rendering. Default value is Print
+description: CssOptions MediaType property. Gets or sets MediaType which will be used for media queries resolution during rendering. Default value is Print
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/cssoptions/mediatype/

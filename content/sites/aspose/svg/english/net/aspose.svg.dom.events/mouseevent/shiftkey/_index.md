@@ -1,7 +1,7 @@
 ---
 title: MouseEvent.ShiftKey
 second_title: Aspose.SVG for .NET API Reference
-description: MouseEvent property. Refer to the shiftKey attribute
+description: MouseEvent ShiftKey property. Refer to the shiftKey attribute
 type: docs
 weight: 120
 url: /net/aspose.svg.dom.events/mouseevent/shiftkey/

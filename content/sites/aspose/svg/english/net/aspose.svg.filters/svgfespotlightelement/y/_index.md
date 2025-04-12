@@ -1,7 +1,7 @@
 ---
 title: SVGFESpotLightElement.Y
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFESpotLightElement property. Corresponds to attribute y on the given feSpotLight element
+description: SVGFESpotLightElement Y property. Corresponds to attribute y on the given feSpotLight element
 type: docs
 weight: 70
 url: /net/aspose.svg.filters/svgfespotlightelement/y/

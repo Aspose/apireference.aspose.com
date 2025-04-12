@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddSymbol
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a symbol element configuration to the builder
+description: SVGBuilderExtensions AddSymbol method. Adds a symbol element configuration to the builder
 type: docs
 weight: 520
 url: /net/aspose.svg.builder/svgbuilderextensions/addsymbol/

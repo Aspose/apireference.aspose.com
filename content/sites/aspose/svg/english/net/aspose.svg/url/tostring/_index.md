@@ -1,7 +1,7 @@
 ---
 title: Url.ToString
 second_title: Aspose.SVG for .NET API Reference
-description: Url method. Returns a String that represents this instance
+description: Url ToString method. Returns a String that represents this instance
 type: docs
 weight: 180
 url: /net/aspose.svg/url/tostring/

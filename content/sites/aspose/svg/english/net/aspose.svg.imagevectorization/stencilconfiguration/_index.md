@@ -3,7 +3,7 @@ title: StencilConfiguration Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.ImageVectorization.StencilConfiguration class. The StencilConfiguration class defines a configuration of stencil effect options
 type: docs
-weight: 6250
+weight: 4390
 url: /net/aspose.svg.imagevectorization/stencilconfiguration/
 ---
 ## StencilConfiguration class

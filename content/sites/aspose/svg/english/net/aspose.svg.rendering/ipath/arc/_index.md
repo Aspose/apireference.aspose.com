@@ -1,12 +1,12 @@
 ---
 title: IPath.Arc
 second_title: Aspose.SVG for .NET API Reference
-description: IPath method. Adds a circular arc to the path
+description: IPath Arc method. Adds a circular arc to the path
 type: docs
 weight: 50
 url: /net/aspose.svg.rendering/ipath/arc/
 ---
-## Arc(float, float, float, float, float) {#arc}
+## Arc(*float, float, float, float, float*) {#arc}
 
 Adds a circular arc to the path.
 
@@ -30,7 +30,7 @@ public void Arc(float x, float y, float radius, float startAngle, float endAngle
 
 ---
 
-## Arc(float, float, float, float, float, bool) {#arc_1}
+## Arc(*float, float, float, float, float, bool*) {#arc_1}
 
 Adds a circular arc to the path.
 

@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Opacity
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the opacity attribute for an SVG element defining its transparency level
+description: SVGBuilderExtensions Opacity method. Sets the opacity attribute for an SVG element defining its transparency level
 type: docs
 weight: 1860
 url: /net/aspose.svg.builder/svgbuilderextensions/opacity/

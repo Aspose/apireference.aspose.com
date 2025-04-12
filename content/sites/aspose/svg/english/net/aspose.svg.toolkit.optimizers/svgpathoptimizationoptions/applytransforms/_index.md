@@ -1,7 +1,7 @@
 ---
 title: SVGPathOptimizationOptions.ApplyTransforms
 second_title: Aspose.SVG for .NET API Reference
-description: SVGPathOptimizationOptions property. Gets or sets the option to apply transformations to the Path segments. It is false by default
+description: SVGPathOptimizationOptions ApplyTransforms property. Gets or sets the option to apply transformations to the Path segments. It is false by default
 type: docs
 weight: 20
 url: /net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/applytransforms/

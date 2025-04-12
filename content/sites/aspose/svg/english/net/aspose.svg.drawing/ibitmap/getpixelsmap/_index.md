@@ -1,7 +1,7 @@
 ---
 title: IBitmap.GetPixelsMap
 second_title: Aspose.SVG for .NET API Reference
-description: IBitmap method. Retrieves the pixel map representation of the bitmap image optionally converting to monochrome and allowing transparency color conversion
+description: IBitmap GetPixelsMap method. Retrieves the pixel map representation of the bitmap image optionally converting to monochrome and allowing transparency color conversion
 type: docs
 weight: 110
 url: /net/aspose.svg.drawing/ibitmap/getpixelsmap/

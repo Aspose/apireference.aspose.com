@@ -1,7 +1,7 @@
 ---
 title: SVGElementBuilder-1.Attribute
 second_title: Aspose.SVG for .NET API Reference
-description: SVGElementBuilder method. Adds an attribute configuration to the SVG element
+description: SVGElementBuilder Attribute method. Adds an attribute configuration to the SVG element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgelementbuilder-1/attribute/

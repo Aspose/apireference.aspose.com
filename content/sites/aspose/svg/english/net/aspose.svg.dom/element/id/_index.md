@@ -1,7 +1,7 @@
 ---
 title: Element.Id
 second_title: Aspose.SVG for .NET API Reference
-description: Element property. The elements identifier. See the id attribute definition in HTML 4.01
+description: Element Id property. The elements identifier. See the id attribute definition in HTML 4.01
 type: docs
 weight: 80
 url: /net/aspose.svg.dom/element/id/

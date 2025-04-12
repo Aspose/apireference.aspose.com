@@ -3,7 +3,7 @@ title: CSSValue Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.CSSValue class. Represents a simple or a complex value. A CSSValue object only occurs in a context of a CSS property
 type: docs
-weight: 4140
+weight: 2560
 url: /net/aspose.svg.dom.css/cssvalue/
 ---
 ## CSSValue class
@@ -25,7 +25,7 @@ public abstract class CSSValue : DOMObject
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.svg.dom.css/cssvalue/equals/)(object) | Determines whether the specified Object is equal to this instance. |
+| override [Equals](../../aspose.svg.dom.css/cssvalue/equals/)(*object*) | Determines whether the specified Object is equal to this instance. |
 | override [GetHashCode](../../aspose.svg.dom.css/cssvalue/gethashcode/)() | Returns a hash code for this instance. |
 | override [GetPlatformType](../../aspose.svg.dom.css/cssvalue/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
 | override [ToString](../../aspose.svg.dom.css/cssvalue/tostring/)() | Returns a String that represents this instance. |

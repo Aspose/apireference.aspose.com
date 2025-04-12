@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElementBuilder.Bias
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEConvolveMatrixElementBuilder method. Sets the bias attribute of the feConvolveMatrix element
+description: SVGFEConvolveMatrixElementBuilder Bias method. Sets the bias attribute of the feConvolveMatrix element
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfeconvolvematrixelementbuilder/bias/

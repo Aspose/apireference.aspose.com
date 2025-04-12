@@ -1,7 +1,7 @@
 ---
 title: IPathBuilder.Build
 second_title: Aspose.SVG for .NET API Reference
-description: IPathBuilder method. Optimizes a given trace into an SVG path segment using the least number of line and Bezier curve commands for accurate representation
+description: IPathBuilder Build method. Optimizes a given trace into an SVG path segment using the least number of line and Bezier curve commands for accurate representation
 type: docs
 weight: 10
 url: /net/aspose.svg.imagevectorization/ipathbuilder/build/

@@ -1,7 +1,7 @@
 ---
 title: Unit.GetHashCode
 second_title: Aspose.SVG for .NET API Reference
-description: Unit method. Returns a hash code for this instance
+description: Unit GetHashCode method. Returns a hash code for this instance
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/unit/gethashcode/

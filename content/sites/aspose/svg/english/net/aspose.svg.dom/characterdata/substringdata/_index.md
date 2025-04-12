@@ -1,7 +1,7 @@
 ---
 title: CharacterData.SubstringData
 second_title: Aspose.SVG for .NET API Reference
-description: CharacterData method. Extracts a range of data from the node
+description: CharacterData SubstringData method. Extracts a range of data from the node
 type: docs
 weight: 70
 url: /net/aspose.svg.dom/characterdata/substringdata/

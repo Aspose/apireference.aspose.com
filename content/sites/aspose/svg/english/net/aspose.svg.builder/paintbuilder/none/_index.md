@@ -1,7 +1,7 @@
 ---
 title: PaintBuilder.None
 second_title: Aspose.SVG for .NET API Reference
-description: PaintBuilder method. Sets the paint to none
+description: PaintBuilder None method. Sets the paint to none
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/paintbuilder/none/

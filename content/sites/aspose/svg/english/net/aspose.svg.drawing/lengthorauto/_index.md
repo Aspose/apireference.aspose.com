@@ -3,7 +3,7 @@ title: LengthOrAuto Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.LengthOrAuto class. Represents a container for storage length or auto units
 type: docs
-weight: 3370
+weight: 3690
 url: /net/aspose.svg.drawing/lengthorauto/
 ---
 ## LengthOrAuto class
@@ -19,7 +19,7 @@ public class LengthOrAuto : Unit
 | Name | Description |
 | --- | --- |
 | [LengthOrAuto](lengthorauto/#constructor)() | Initializes a new instance of the `LengthOrAuto` class and sets state to 'auto'. |
-| [LengthOrAuto](lengthorauto/#constructor_1)(Length) | Initializes a new instance of the `LengthOrAuto` class and sets state to 'lenght'. |
+| [LengthOrAuto](lengthorauto/#constructor_1)(*[Length](../length/)*) | Initializes a new instance of the `LengthOrAuto` class and sets state to 'lenght'. |
 
 ## Properties
 
@@ -33,8 +33,8 @@ public class LengthOrAuto : Unit
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.svg.drawing/unit/equals/)(object) | Determines whether the specified Object, is equal to this instance. |
-| override [Equals](../../aspose.svg.drawing/lengthorauto/equals/#equals)(Unit) | Determines whether the specified [`Unit`](../unit/), is equal to this instance. |
+| override [Equals](../../aspose.svg.drawing/unit/equals/)(*object*) | Determines whether the specified Object, is equal to this instance. |
+| override [Equals](../../aspose.svg.drawing/lengthorauto/equals/#equals)(*[Unit](../unit/)*) | Determines whether the specified [`Unit`](../unit/), is equal to this instance. |
 | override [GetHashCode](../../aspose.svg.drawing/unit/gethashcode/)() | Returns a hash code for this instance. |
 | [SetAuto](../../aspose.svg.drawing/lengthorauto/setauto/)() | Resets container to state 'auto'. |
 | override [ToString](../../aspose.svg.drawing/lengthorauto/tostring/)() | Returns a String that represents this instance. |

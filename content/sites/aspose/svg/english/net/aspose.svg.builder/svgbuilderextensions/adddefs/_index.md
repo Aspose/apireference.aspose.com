@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddDefs
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a defs definitions element configuration to the builder
+description: SVGBuilderExtensions AddDefs method. Adds a defs definitions element configuration to the builder
 type: docs
 weight: 100
 url: /net/aspose.svg.builder/svgbuilderextensions/adddefs/

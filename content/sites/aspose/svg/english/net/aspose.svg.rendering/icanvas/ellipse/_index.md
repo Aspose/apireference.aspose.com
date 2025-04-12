@@ -1,12 +1,12 @@
 ---
 title: ICanvas.Ellipse
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Adds an ellipse to the current path
+description: ICanvas Ellipse method. Adds an ellipse to the current path
 type: docs
 weight: 100
 url: /net/aspose.svg.rendering/icanvas/ellipse/
 ---
-## Ellipse(double, double, double, double, double, double, double) {#ellipse}
+## Ellipse(*double, double, double, double, double, double, double*) {#ellipse}
 
 Adds an ellipse to the current path.
 
@@ -33,7 +33,7 @@ public void Ellipse(double x, double y, double radiusX, double radiusY, double r
 
 ---
 
-## Ellipse(double, double, double, double, double, double, double, bool) {#ellipse_1}
+## Ellipse(*double, double, double, double, double, double, double, bool*) {#ellipse_1}
 
 Adds an ellipse to the current path.
 

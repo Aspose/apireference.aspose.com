@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnPlaying
 second_title: Aspose.SVG for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnPlaying event
+description: IGlobalEventHandlers OnPlaying event. Gets or sets event handler for OnPlaying event
 type: docs
 weight: 340
 url: /net/aspose.svg.dom/iglobaleventhandlers/onplaying/

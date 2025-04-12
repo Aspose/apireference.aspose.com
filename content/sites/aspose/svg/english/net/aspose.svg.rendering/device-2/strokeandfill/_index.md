@@ -1,9 +1,9 @@
 ---
 title: Device-2.StrokeAndFill
 second_title: Aspose.SVG for .NET API Reference
-description: Device method. Strokes and fill current path. This method terminates current path
+description: Device StrokeAndFill method. Strokes and fill current path. This method terminates current path
 type: docs
-weight: 230
+weight: 260
 url: /net/aspose.svg.rendering/device-2/strokeandfill/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeAndFill method

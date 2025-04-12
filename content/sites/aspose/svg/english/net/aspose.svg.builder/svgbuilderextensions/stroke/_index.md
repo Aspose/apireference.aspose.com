@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.Stroke
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the stroke attribute for an SVG element using a custom paint configuration
+description: SVGBuilderExtensions Stroke method. Sets the stroke attribute for an SVG element using a custom paint configuration
 type: docs
 weight: 2080
 url: /net/aspose.svg.builder/svgbuilderextensions/stroke/
 ---
-## Stroke&lt;TBuilder&gt;(this TBuilder, Action&lt;PaintBuilder&gt;) {#stroke_1}
+## Stroke&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;PaintBuilder&amp;gt;*) {#stroke_1}
 
 Sets the 'stroke' attribute for an SVG element using a custom paint configuration.
 
@@ -36,7 +36,7 @@ The builder instance for chaining.
 
 ---
 
-## Stroke&lt;TBuilder&gt;(this TBuilder, Color) {#stroke_2}
+## Stroke&lt;TBuilder&gt;(*this TBuilder, Color*) {#stroke_2}
 
 Sets the 'stroke' attribute for an SVG element using a specific color.
 
@@ -65,7 +65,7 @@ The builder instance for chaining.
 
 ---
 
-## Stroke&lt;TBuilder&gt;(this TBuilder, Paint) {#stroke}
+## Stroke&lt;TBuilder&gt;(*this TBuilder, [Paint](../../paint/)*) {#stroke}
 
 Sets the 'stroke' attribute for an SVG element using a predefined paint value.
 

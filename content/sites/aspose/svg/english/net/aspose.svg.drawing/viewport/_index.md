@@ -3,7 +3,7 @@ title: Viewport Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.Viewport class. Represents a viewport that defines the width and height of a visual area
 type: docs
-weight: 3460
+weight: 3810
 url: /net/aspose.svg.drawing/viewport/
 ---
 ## Viewport class
@@ -18,7 +18,7 @@ public class Viewport
 
 | Name | Description |
 | --- | --- |
-| [Viewport](viewport/)(Length, Length) | Initializes a new instance of the `Viewport` class with the specified width and height. |
+| [Viewport](viewport/)(*[Length](../length/), [Length](../length/)*) | Initializes a new instance of the `Viewport` class with the specified width and height. |
 
 ## Properties
 
@@ -31,7 +31,7 @@ public class Viewport
 
 | Name | Description |
 | --- | --- |
-| static [Load](../../aspose.svg.drawing/viewport/load/)(Page) | Loads a `Viewport` from the specified [`Page`](../page/). |
+| static [Load](../../aspose.svg.drawing/viewport/load/)(*[Page](../page/)*) | Loads a `Viewport` from the specified [`Page`](../page/). |
 
 ### See Also
 

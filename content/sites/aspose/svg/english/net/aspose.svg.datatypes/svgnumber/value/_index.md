@@ -1,7 +1,7 @@
 ---
 title: SVGNumber.Value
 second_title: Aspose.SVG for .NET API Reference
-description: SVGNumber property. The value of the given attribute
+description: SVGNumber Value property. The value of the given attribute
 type: docs
 weight: 10
 url: /net/aspose.svg.datatypes/svgnumber/value/

@@ -3,7 +3,7 @@ title: IDocumentCSS Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.IDocumentCSS interface. This interface represents a document with a CSS view
 type: docs
-weight: 2500
+weight: 2760
 url: /net/aspose.svg.dom.css/idocumentcss/
 ---
 ## IDocumentCSS interface
@@ -18,7 +18,7 @@ public interface IDocumentCSS : IDocumentStyle
 
 | Name | Description |
 | --- | --- |
-| [GetOverrideStyle](../../aspose.svg.dom.css/idocumentcss/getoverridestyle/)(Element, string) | This method is used to retrieve the override style declaration for a specified element and a specified pseudo-element. |
+| [GetOverrideStyle](../../aspose.svg.dom.css/idocumentcss/getoverridestyle/)(*[Element](../../aspose.svg.dom/element/), string*) | This method is used to retrieve the override style declaration for a specified element and a specified pseudo-element. |
 
 ### See Also
 

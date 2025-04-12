@@ -1,7 +1,7 @@
 ---
 title: ICanvas.Rect
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Adds a rectangle to the current path
+description: ICanvas Rect method. Adds a rectangle to the current path
 type: docs
 weight: 230
 url: /net/aspose.svg.rendering/icanvas/rect/

@@ -1,7 +1,7 @@
 ---
 title: IBitmap.VerticalResolution
 second_title: Aspose.SVG for .NET API Reference
-description: IBitmap property. Gets the vertical resolution of the bitmap image
+description: IBitmap VerticalResolution property. Gets the vertical resolution of the bitmap image
 type: docs
 weight: 60
 url: /net/aspose.svg.drawing/ibitmap/verticalresolution/

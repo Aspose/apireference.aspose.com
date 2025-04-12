@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.AddFeSpecularLighting
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds an feSpecularLighting element to the SVG builder applying a specular lighting effect using a specified light source
+description: SVGBuilderExtensions AddFeSpecularLighting method. Adds an feSpecularLighting element to the SVG builder applying a specular lighting effect using a specified light source
 type: docs
 weight: 270
 url: /net/aspose.svg.builder/svgbuilderextensions/addfespecularlighting/
 ---
-## AddFeSpecularLighting&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFEDistantLightElementBuilder&gt;, Color?, double?, double?, double?, OneOf&lt;double, (double, double)&gt;, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFESpecularLightingElementBuilder&gt;) {#addfespecularlighting}
+## AddFeSpecularLighting&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEDistantLightElementBuilder&amp;gt;, Color?, double?, double?, double?, OneOf&amp;lt;double, (double, double)&amp;gt;, OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFESpecularLightingElementBuilder&amp;gt;*) {#addfespecularlighting}
 
 Adds an 'feSpecularLighting' element to the SVG builder, applying a specular lighting effect using a specified light source.
 
@@ -65,7 +65,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeSpecularLighting&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFEPointLightElementBuilder&gt;, Color?, double?, double?, double?, OneOf&lt;double, (double, double)&gt;, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFESpecularLightingElementBuilder&gt;) {#addfespecularlighting_1}
+## AddFeSpecularLighting&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEPointLightElementBuilder&amp;gt;, Color?, double?, double?, double?, OneOf&amp;lt;double, (double, double)&amp;gt;, OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFESpecularLightingElementBuilder&amp;gt;*) {#addfespecularlighting_1}
 
 Adds an 'feSpecularLighting' element to the SVG builder, applying a specular lighting effect using a specified light source.
 
@@ -124,7 +124,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeSpecularLighting&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFESpotLightElementBuilder&gt;, Color?, double?, double?, double?, OneOf&lt;double, (double, double)&gt;, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFESpecularLightingElementBuilder&gt;) {#addfespecularlighting_3}
+## AddFeSpecularLighting&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFESpotLightElementBuilder&amp;gt;, Color?, double?, double?, double?, OneOf&amp;lt;double, (double, double)&amp;gt;, OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFESpecularLightingElementBuilder&amp;gt;*) {#addfespecularlighting_3}
 
 Adds an 'feSpecularLighting' element to the SVG builder, applying a specular lighting effect using a specified light source.
 
@@ -183,7 +183,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeSpecularLighting&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFESpecularLightingElementBuilder&gt;) {#addfespecularlighting_2}
+## AddFeSpecularLighting&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFESpecularLightingElementBuilder&amp;gt;*) {#addfespecularlighting_2}
 
 Adds an 'feSpecularLighting' element configuration to the builder. This element applies a lighting effect to the image, simulating specular reflection.
 

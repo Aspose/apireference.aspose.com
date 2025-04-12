@@ -3,7 +3,7 @@ title: Restart Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.Restart enum. Specifies the restart behavior for SVG animations
 type: docs
-weight: 490
+weight: 1040
 url: /net/aspose.svg.builder/restart/
 ---
 ## Restart enumeration

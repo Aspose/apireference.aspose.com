@@ -1,12 +1,12 @@
 ---
 title: IPdfDeviceFactory.Create
 second_title: Aspose.SVG for .NET API Reference
-description: IPdfDeviceFactory method. Creates a PDF device with the specified rendering options and stream provider
+description: IPdfDeviceFactory Create method. Creates a PDF device with the specified rendering options and stream provider
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering.pdf/ipdfdevicefactory/create/
 ---
-## Create(PdfRenderingOptions, ICreateStreamProvider) {#create}
+## Create(*[PdfRenderingOptions](../../pdfrenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#create}
 
 Creates a PDF device with the specified rendering options and stream provider.
 
@@ -34,7 +34,7 @@ The created PDF device.
 
 ---
 
-## Create(PdfRenderingOptions, string) {#create_2}
+## Create(*[PdfRenderingOptions](../../pdfrenderingoptions/), string*) {#create_2}
 
 Creates a PDF device with the specified rendering options and file path.
 
@@ -61,7 +61,7 @@ The created PDF device.
 
 ---
 
-## Create(PdfRenderingOptions, Stream) {#create_1}
+## Create(*[PdfRenderingOptions](../../pdfrenderingoptions/), Stream*) {#create_1}
 
 Creates a PDF device with the specified rendering options and stream.
 

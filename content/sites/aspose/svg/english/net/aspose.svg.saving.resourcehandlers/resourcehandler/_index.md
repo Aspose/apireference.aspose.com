@@ -3,7 +3,7 @@ title: ResourceHandler Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Saving.ResourceHandlers.ResourceHandler class. This class is responsible for handling resources. It provides methods that allow you to control what will be done with the Resource as well as what reference will be written to the parent Resource
 type: docs
-weight: 2840
+weight: 6020
 url: /net/aspose.svg.saving.resourcehandlers/resourcehandler/
 ---
 ## ResourceHandler class
@@ -18,8 +18,8 @@ public abstract class ResourceHandler
 
 | Name | Description |
 | --- | --- |
-| abstract [HandleResource](../../aspose.svg.saving.resourcehandlers/resourcehandler/handleresource/)(Resource, ResourceHandlingContext) | This method is responsible for handling the resource. In it you can save the [`Resource`](../../aspose.svg.saving/resource/) to the stream or embed it into the parent resource. |
-| virtual [HandleResourceReference](../../aspose.svg.saving.resourcehandlers/resourcehandler/handleresourcereference/)(Resource, ResourceHandlingContext) | This method is responsible for handling the resource reference. In this method, you can set what the reference to the resource being handled will look like. |
+| abstract [HandleResource](../../aspose.svg.saving.resourcehandlers/resourcehandler/handleresource/)(*[Resource](../../aspose.svg.saving/resource/), [ResourceHandlingContext](../../aspose.svg.saving/resourcehandlingcontext/)*) | This method is responsible for handling the resource. In it you can save the [`Resource`](../../aspose.svg.saving/resource/) to the stream or embed it into the parent resource. |
+| virtual [HandleResourceReference](../../aspose.svg.saving.resourcehandlers/resourcehandler/handleresourcereference/)(*[Resource](../../aspose.svg.saving/resource/), [ResourceHandlingContext](../../aspose.svg.saving/resourcehandlingcontext/)*) | This method is responsible for handling the resource reference. In this method, you can set what the reference to the resource being handled will look like. |
 
 ### See Also
 

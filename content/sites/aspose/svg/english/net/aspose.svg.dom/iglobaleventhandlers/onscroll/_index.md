@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnScroll
 second_title: Aspose.SVG for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnScroll event
+description: IGlobalEventHandlers OnScroll event. Gets or sets event handler for OnScroll event
 type: docs
 weight: 390
 url: /net/aspose.svg.dom/iglobaleventhandlers/onscroll/

@@ -1,7 +1,7 @@
 ---
 title: MediaQueryList.Document
 second_title: Aspose.SVG for .NET API Reference
-description: MediaQueryList property. Context objects associated document
+description: MediaQueryList Document property. Context objects associated document
 type: docs
 weight: 10
 url: /net/aspose.svg.window/mediaquerylist/document/

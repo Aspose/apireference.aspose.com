@@ -1,7 +1,7 @@
 ---
 title: CSSValue.op_Equality
 second_title: Aspose.SVG for .NET API Reference
-description: CSSValue method. Implements the operator 
+description: CSSValue op_Equality method. Implements the operator 
 type: docs
 weight: 110
 url: /net/aspose.svg.dom.css/cssvalue/op_equality/

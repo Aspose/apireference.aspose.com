@@ -3,7 +3,7 @@ title: FileProtocolMessageHandler Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.MessageHandlers.FileProtocolMessageHandler class. Represents the file protocol message handler
 type: docs
-weight: 3040
+weight: 4580
 url: /net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/
 ---
 ## FileProtocolMessageHandler class
@@ -30,7 +30,7 @@ public class FileProtocolMessageHandler : MessageHandler
 
 | Name | Description |
 | --- | --- |
-| override [Invoke](../../aspose.svg.net.messagehandlers/fileprotocolmessagehandler/invoke/)(INetworkOperationContext) | When overridden in a derived class is used to implement the message handling. |
+| override [Invoke](../../aspose.svg.net.messagehandlers/fileprotocolmessagehandler/invoke/)(*[INetworkOperationContext](../../aspose.svg.net/inetworkoperationcontext/)*) | When overridden in a derived class is used to implement the message handling. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: IStyleSheet.Title
 second_title: Aspose.SVG for .NET API Reference
-description: IStyleSheet property. The advisory title
+description: IStyleSheet Title property. The advisory title
 type: docs
 weight: 60
 url: /net/aspose.svg.dom.css/istylesheet/title/

@@ -1,7 +1,7 @@
 ---
 title: SVGFEDistantLightElementBuilder.Elevation
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDistantLightElementBuilder method. Sets the elevation attribute of the feDistantLight element
+description: SVGFEDistantLightElementBuilder Elevation method. Sets the elevation attribute of the feDistantLight element
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgfedistantlightelementbuilder/elevation/

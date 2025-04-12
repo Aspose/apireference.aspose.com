@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.FillText
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter method. Fills the specified text string at the specified location
+description: DeviceAdapter FillText method. Fills the specified text string at the specified location
 type: docs
 weight: 180
 url: /net/aspose.svg.rendering/deviceadapter/filltext/

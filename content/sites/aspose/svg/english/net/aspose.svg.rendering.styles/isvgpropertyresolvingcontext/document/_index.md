@@ -1,7 +1,7 @@
 ---
 title: ISVGPropertyResolvingContext.Document
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGPropertyResolvingContext property. Gets the document associated with the context. See Document
+description: ISVGPropertyResolvingContext Document property. Gets the document associated with the context. See Document
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering.styles/isvgpropertyresolvingcontext/document/

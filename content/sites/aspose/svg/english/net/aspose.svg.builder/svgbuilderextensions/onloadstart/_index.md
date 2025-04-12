@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnLoadStart
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onloadstart event attribute for handling events at the start of a media load operation
+description: SVGBuilderExtensions OnLoadStart method. Sets the onloadstart event attribute for handling events at the start of a media load operation
 type: docs
 weight: 1550
 url: /net/aspose.svg.builder/svgbuilderextensions/onloadstart/

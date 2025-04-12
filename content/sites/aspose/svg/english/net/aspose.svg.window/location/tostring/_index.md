@@ -1,7 +1,7 @@
 ---
 title: Location.ToString
 second_title: Aspose.SVG for .NET API Reference
-description: Location method. Returns the Location objects URL
+description: Location ToString method. Returns the Location objects URL
 type: docs
 weight: 130
 url: /net/aspose.svg.window/location/tostring/

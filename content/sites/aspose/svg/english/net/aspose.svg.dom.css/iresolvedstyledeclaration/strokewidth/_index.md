@@ -1,7 +1,7 @@
 ---
 title: IResolvedStyleDeclaration.StrokeWidth
 second_title: Aspose.SVG for .NET API Reference
-description: IResolvedStyleDeclaration property. Gets the stroke width value
+description: IResolvedStyleDeclaration StrokeWidth property. Gets the stroke width value
 type: docs
 weight: 280
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/strokewidth/

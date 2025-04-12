@@ -1,7 +1,7 @@
 ---
 title: IMatrix.Clone
 second_title: Aspose.SVG for .NET API Reference
-description: IMatrix method. Creates a copy of this matrix
+description: IMatrix Clone method. Creates a copy of this matrix
 type: docs
 weight: 90
 url: /net/aspose.svg.drawing/imatrix/clone/

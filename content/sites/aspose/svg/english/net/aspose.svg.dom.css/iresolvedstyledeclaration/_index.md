@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.IResolvedStyleDeclaration interface. Represents a resolved style declaration that provides access to various style properties
 type: docs
-weight: 4460
+weight: 2820
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/
 ---
 ## IResolvedStyleDeclaration interface
@@ -58,8 +58,8 @@ public interface IResolvedStyleDeclaration : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Fill](../../aspose.svg.dom.css/iresolvedstyledeclaration/fill/)(ISVGDeviceContext) | Gets the brush used for filling shapes. |
-| [Stroke](../../aspose.svg.dom.css/iresolvedstyledeclaration/stroke/)(ISVGDeviceContext) | Gets the brush used for stroking shapes. |
+| [Fill](../../aspose.svg.dom.css/iresolvedstyledeclaration/fill/)(*[ISVGDeviceContext](../../aspose.svg.rendering/isvgdevicecontext/)*) | Gets the brush used for filling shapes. |
+| [Stroke](../../aspose.svg.dom.css/iresolvedstyledeclaration/stroke/)(*[ISVGDeviceContext](../../aspose.svg.rendering/isvgdevicecontext/)*) | Gets the brush used for stroking shapes. |
 
 ### See Also
 

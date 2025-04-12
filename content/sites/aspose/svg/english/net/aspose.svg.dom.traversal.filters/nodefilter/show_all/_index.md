@@ -1,7 +1,7 @@
 ---
 title: NodeFilter.SHOW_ALL
 second_title: Aspose.SVG for .NET API Reference
-description: NodeFilter field. Show all Nodes
+description: NodeFilter SHOW_ALL field. Show all Nodes
 type: docs
 weight: 60
 url: /net/aspose.svg.dom.traversal.filters/nodefilter/show_all/

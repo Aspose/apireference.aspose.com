@@ -1,7 +1,7 @@
 ---
 title: SVGRectElement.Height
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRectElement property. Corresponds to attribute height on the given rect element
+description: SVGRectElement Height property. Corresponds to attribute height on the given rect element
 type: docs
 weight: 10
 url: /net/aspose.svg/svgrectelement/height/

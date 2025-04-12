@@ -1,7 +1,7 @@
 ---
 title: Angle.op_Equality
 second_title: Aspose.SVG for .NET API Reference
-description: Angle method. Implements the operator 
+description: Angle op_Equality method. Implements the operator 
 type: docs
 weight: 20
 url: /net/aspose.svg.drawing/angle/op_equality/

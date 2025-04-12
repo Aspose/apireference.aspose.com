@@ -1,7 +1,7 @@
 ---
 title: ISVGTests.RequiredFeatures
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGTests property. Corresponds to attribute requiredFeatures on the given element
+description: ISVGTests RequiredFeatures property. Corresponds to attribute requiredFeatures on the given element
 type: docs
 weight: 20
 url: /net/aspose.svg/isvgtests/requiredfeatures/

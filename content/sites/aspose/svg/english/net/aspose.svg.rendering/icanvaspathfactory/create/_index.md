@@ -1,7 +1,7 @@
 ---
 title: ICanvasPathFactory.Create
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasPathFactory method. Creates a new empty path
+description: ICanvasPathFactory Create method. Creates a new empty path
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/icanvaspathfactory/create/
@@ -27,7 +27,7 @@ The created [`IPath`](../../ipath/).
 
 ---
 
-## Create(IPath) {#create_1}
+## Create(*[IPath](../../ipath/)*) {#create_1}
 
 Creates a new path by copying an existing path.
 

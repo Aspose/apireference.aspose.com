@@ -1,7 +1,7 @@
 ---
 title: SVGFESpotLightElementBuilder.PointsAtZ
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFESpotLightElementBuilder method. Sets the pointsAtZ attribute indicating the z-coordinate towards which the light is pointing
+description: SVGFESpotLightElementBuilder PointsAtZ method. Sets the pointsAtZ attribute indicating the z-coordinate towards which the light is pointing
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgfespotlightelementbuilder/pointsatz/

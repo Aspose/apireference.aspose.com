@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.PlayDuring
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the play-during property definition in CSS2
+description: ICSS2Properties PlayDuring property. See the play-during property definition in CSS2
 type: docs
 weight: 940
 url: /net/aspose.svg.dom.css/icss2properties/playduring/

@@ -1,7 +1,7 @@
 ---
 title: SVGEllipseElement.Cy
 second_title: Aspose.SVG for .NET API Reference
-description: SVGEllipseElement property. Corresponds to attribute cy on the given circle element
+description: SVGEllipseElement Cy property. Corresponds to attribute cy on the given circle element
 type: docs
 weight: 20
 url: /net/aspose.svg/svgellipseelement/cy/

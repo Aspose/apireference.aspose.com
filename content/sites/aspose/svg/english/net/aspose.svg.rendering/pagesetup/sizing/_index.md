@@ -1,7 +1,7 @@
 ---
 title: PageSetup.Sizing
 second_title: Aspose.SVG for .NET API Reference
-description: PageSetup property. Gets or sets the sizing type
+description: PageSetup Sizing property. Gets or sets the sizing type
 type: docs
 weight: 60
 url: /net/aspose.svg.rendering/pagesetup/sizing/

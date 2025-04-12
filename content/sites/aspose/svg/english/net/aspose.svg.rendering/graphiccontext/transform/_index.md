@@ -1,7 +1,7 @@
 ---
 title: GraphicContext.Transform
 second_title: Aspose.SVG for .NET API Reference
-description: GraphicContext method. Modify the current transformation matrix by multiplying the specified matrix
+description: GraphicContext Transform method. Modify the current transformation matrix by multiplying the specified matrix
 type: docs
 weight: 180
 url: /net/aspose.svg.rendering/graphiccontext/transform/

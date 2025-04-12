@@ -1,7 +1,7 @@
 ---
 title: Length.op_Addition
 second_title: Aspose.SVG for .NET API Reference
-description: Length method. Implements the operator 
+description: Length op_Addition method. Implements the operator 
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/length/op_addition/

@@ -3,7 +3,7 @@ title: ByteArrayContent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.ByteArrayContent class. Represents content based on a byte array
 type: docs
-weight: 2850
+weight: 4440
 url: /net/aspose.svg.net/bytearraycontent/
 ---
 ## ByteArrayContent class
@@ -18,7 +18,7 @@ public class ByteArrayContent : Content
 
 | Name | Description |
 | --- | --- |
-| [ByteArrayContent](bytearraycontent/)(byte[]) | Initializes a new instance of the `ByteArrayContent` class. |
+| [ByteArrayContent](bytearraycontent/)(*byte[]*) | Initializes a new instance of the `ByteArrayContent` class. |
 
 ## Properties
 

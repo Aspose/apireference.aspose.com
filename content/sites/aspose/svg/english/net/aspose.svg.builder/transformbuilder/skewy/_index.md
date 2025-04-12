@@ -1,7 +1,7 @@
 ---
 title: TransformBuilder.SkewY
 second_title: Aspose.SVG for .NET API Reference
-description: TransformBuilder method. Adds a skewY transform to the builder
+description: TransformBuilder SkewY method. Adds a skewY transform to the builder
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/transformbuilder/skewy/

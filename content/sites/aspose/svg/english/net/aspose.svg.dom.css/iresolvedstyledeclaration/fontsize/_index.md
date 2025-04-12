@@ -1,7 +1,7 @@
 ---
 title: IResolvedStyleDeclaration.FontSize
 second_title: Aspose.SVG for .NET API Reference
-description: IResolvedStyleDeclaration property. Gets the font size value
+description: IResolvedStyleDeclaration FontSize property. Gets the font size value
 type: docs
 weight: 100
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/fontsize/

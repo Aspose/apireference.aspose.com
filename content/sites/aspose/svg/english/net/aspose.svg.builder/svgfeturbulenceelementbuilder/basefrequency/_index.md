@@ -1,7 +1,7 @@
 ---
 title: SVGFETurbulenceElementBuilder.BaseFrequency
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFETurbulenceElementBuilder method. Sets the base frequency for the turbulence function
+description: SVGFETurbulenceElementBuilder BaseFrequency method. Sets the base frequency for the turbulence function
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfeturbulenceelementbuilder/basefrequency/

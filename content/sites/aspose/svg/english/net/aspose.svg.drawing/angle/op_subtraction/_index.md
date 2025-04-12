@@ -1,7 +1,7 @@
 ---
 title: Angle.op_Subtraction
 second_title: Aspose.SVG for .NET API Reference
-description: Angle method. Implements the operator -
+description: Angle op_Subtraction method. Implements the operator -
 type: docs
 weight: 80
 url: /net/aspose.svg.drawing/angle/op_subtraction/

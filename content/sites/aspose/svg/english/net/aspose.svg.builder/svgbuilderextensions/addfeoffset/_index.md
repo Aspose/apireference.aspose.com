@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.AddFeOffset
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds an feOffset element to the SVG builder creating an offset effect by shifting the input image by a specified vector
+description: SVGBuilderExtensions AddFeOffset method. Adds an feOffset element to the SVG builder creating an offset effect by shifting the input image by a specified vector
 type: docs
 weight: 260
 url: /net/aspose.svg.builder/svgbuilderextensions/addfeoffset/
 ---
-## AddFeOffset&lt;TBuilder&gt;(this TBuilder, double?, double?, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEOffsetElementBuilder&gt;) {#addfeoffset_1}
+## AddFeOffset&lt;TBuilder&gt;(*this TBuilder, double?, double?, OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFEOffsetElementBuilder&amp;gt;*) {#addfeoffset_1}
 
 Adds an 'feOffset' element to the SVG builder, creating an offset effect by shifting the input image by a specified vector.
 
@@ -58,7 +58,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeOffset&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFEOffsetElementBuilder&gt;) {#addfeoffset}
+## AddFeOffset&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEOffsetElementBuilder&amp;gt;*) {#addfeoffset}
 
 Adds an 'feOffset' element configuration to the builder. This element offsets the input image by a specified vector.
 

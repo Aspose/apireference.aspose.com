@@ -1,7 +1,7 @@
 ---
 title: IWindow.FrameElement
 second_title: Aspose.SVG for .NET API Reference
-description: IWindow property. The frameElement object of a Document
+description: IWindow FrameElement property. The frameElement object of a Document
 type: docs
 weight: 20
 url: /net/aspose.svg.window/iwindow/frameelement/

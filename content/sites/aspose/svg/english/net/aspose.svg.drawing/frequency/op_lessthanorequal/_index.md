@@ -1,7 +1,7 @@
 ---
 title: Frequency.op_LessThanOrEqual
 second_title: Aspose.SVG for .NET API Reference
-description: Frequency method. Implements the operator 
+description: Frequency op_LessThanOrEqual method. Implements the operator 
 type: docs
 weight: 70
 url: /net/aspose.svg.drawing/frequency/op_lessthanorequal/

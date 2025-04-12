@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.FontVariant
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the font-variant attribute for an SVG element
+description: SVGBuilderExtensions FontVariant method. Sets the font-variant attribute for an SVG element
 type: docs
 weight: 930
 url: /net/aspose.svg.builder/svgbuilderextensions/fontvariant/

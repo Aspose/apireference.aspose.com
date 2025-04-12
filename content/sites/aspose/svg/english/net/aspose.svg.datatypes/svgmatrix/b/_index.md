@@ -1,7 +1,7 @@
 ---
 title: SVGMatrix.B
 second_title: Aspose.SVG for .NET API Reference
-description: SVGMatrix property. The B component of the matrix
+description: SVGMatrix B property. The B component of the matrix
 type: docs
 weight: 20
 url: /net/aspose.svg.datatypes/svgmatrix/b/

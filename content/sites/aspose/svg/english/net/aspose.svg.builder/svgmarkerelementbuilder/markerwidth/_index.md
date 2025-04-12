@@ -1,7 +1,7 @@
 ---
 title: SVGMarkerElementBuilder.MarkerWidth
 second_title: Aspose.SVG for .NET API Reference
-description: SVGMarkerElementBuilder method. Sets the markerWidth attribute of the SVG marker element specifying the width of the markers viewport
+description: SVGMarkerElementBuilder MarkerWidth method. Sets the markerWidth attribute of the SVG marker element specifying the width of the markers viewport
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgmarkerelementbuilder/markerwidth/

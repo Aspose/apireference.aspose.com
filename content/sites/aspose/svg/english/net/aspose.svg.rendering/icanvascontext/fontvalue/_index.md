@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.FontValue
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the font value
+description: ICanvasContext FontValue property. Gets or sets the font value
 type: docs
 weight: 60
 url: /net/aspose.svg.rendering/icanvascontext/fontvalue/

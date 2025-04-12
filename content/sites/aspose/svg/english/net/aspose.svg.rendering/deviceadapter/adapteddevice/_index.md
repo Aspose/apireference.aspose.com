@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.AdaptedDevice
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter property. Gets or sets the adapted device. See IDevice
+description: DeviceAdapter AdaptedDevice property. Gets or sets the adapted device. See IDevice
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering/deviceadapter/adapteddevice/

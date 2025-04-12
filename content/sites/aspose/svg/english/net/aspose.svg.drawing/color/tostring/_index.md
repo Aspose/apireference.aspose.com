@@ -1,7 +1,7 @@
 ---
 title: Color.ToString
 second_title: Aspose.SVG for .NET API Reference
-description: Color method. Returns a string that consists of the RGBA component values
+description: Color ToString method. Returns a string that consists of the RGBA component values
 type: docs
 weight: 430
 url: /net/aspose.svg.drawing/color/tostring/

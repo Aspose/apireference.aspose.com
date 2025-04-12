@@ -1,7 +1,7 @@
 ---
 title: ISVGPropertyResolvingContext.ViewCSS
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGPropertyResolvingContext property. Gets the CSS view associated with the context. See IViewCSS
+description: ISVGPropertyResolvingContext ViewCSS property. Gets the CSS view associated with the context. See IViewCSS
 type: docs
 weight: 110
 url: /net/aspose.svg.rendering.styles/isvgpropertyresolvingcontext/viewcss/

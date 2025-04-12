@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.ShadowBlur
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the blur level of the shadow
+description: ICanvasContext ShadowBlur property. Gets or sets the blur level of the shadow
 type: docs
 weight: 170
 url: /net/aspose.svg.rendering/icanvascontext/shadowblur/

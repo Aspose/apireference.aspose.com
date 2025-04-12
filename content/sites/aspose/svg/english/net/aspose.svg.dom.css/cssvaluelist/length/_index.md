@@ -1,7 +1,7 @@
 ---
 title: CSSValueList.Length
 second_title: Aspose.SVG for .NET API Reference
-description: CSSValueList property. The number of CSSValues in the list
+description: CSSValueList Length property. The number of CSSValues in the list
 type: docs
 weight: 40
 url: /net/aspose.svg.dom.css/cssvaluelist/length/

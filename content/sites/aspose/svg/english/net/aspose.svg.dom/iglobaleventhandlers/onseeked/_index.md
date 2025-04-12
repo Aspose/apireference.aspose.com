@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnSeeked
 second_title: Aspose.SVG for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnSeeked event
+description: IGlobalEventHandlers OnSeeked event. Gets or sets event handler for OnSeeked event
 type: docs
 weight: 400
 url: /net/aspose.svg.dom/iglobaleventhandlers/onseeked/

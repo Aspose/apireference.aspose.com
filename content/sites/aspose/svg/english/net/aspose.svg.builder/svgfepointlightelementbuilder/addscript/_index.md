@@ -1,7 +1,7 @@
 ---
 title: SVGFEPointLightElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEPointLightElementBuilder method. Adds a script configuration to the fePointLight element
+description: SVGFEPointLightElementBuilder AddScript method. Adds a script configuration to the fePointLight element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfepointlightelementbuilder/addscript/

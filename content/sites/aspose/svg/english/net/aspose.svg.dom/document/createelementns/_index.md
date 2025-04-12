@@ -1,7 +1,7 @@
 ---
 title: Document.CreateElementNS
 second_title: Aspose.SVG for .NET API Reference
-description: Document method. Creates an element of the given qualified name and namespace URI
+description: Document CreateElementNS method. Creates an element of the given qualified name and namespace URI
 type: docs
 weight: 860
 url: /net/aspose.svg.dom/document/createelementns/

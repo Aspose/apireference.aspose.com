@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnReset
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onreset event attribute for handling reset events on forms
+description: SVGBuilderExtensions OnReset method. Sets the onreset event attribute for handling reset events on forms
 type: docs
 weight: 1710
 url: /net/aspose.svg.builder/svgbuilderextensions/onreset/

@@ -1,12 +1,12 @@
 ---
 title: SVGAnimateMotionElementBuilder.Rotate
 second_title: Aspose.SVG for .NET API Reference
-description: SVGAnimateMotionElementBuilder method. Sets the rotate attribute defining the rotation of the animated element
+description: SVGAnimateMotionElementBuilder Rotate method. Sets the rotate attribute defining the rotation of the animated element
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svganimatemotionelementbuilder/rotate/
 ---
-## Rotate(double) {#rotate_1}
+## Rotate(*double*) {#rotate_1}
 
 Sets the 'rotate' attribute, defining the rotation of the animated element.
 
@@ -30,7 +30,7 @@ The current instance of SVGAnimateMotionElementBuilder for method chaining.
 
 ---
 
-## Rotate(Rotate) {#rotate}
+## Rotate(*[Rotate](../../rotate/)*) {#rotate}
 
 Sets the 'rotate' attribute using a predefined rotation value.
 

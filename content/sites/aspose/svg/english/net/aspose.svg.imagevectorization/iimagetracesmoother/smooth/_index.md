@@ -1,7 +1,7 @@
 ---
 title: IImageTraceSmoother.Smooth
 second_title: Aspose.SVG for .NET API Reference
-description: IImageTraceSmoother method. Smoothes trace
+description: IImageTraceSmoother Smooth method. Smoothes trace
 type: docs
 weight: 10
 url: /net/aspose.svg.imagevectorization/iimagetracesmoother/smooth/

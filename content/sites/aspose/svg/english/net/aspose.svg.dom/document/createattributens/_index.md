@@ -1,7 +1,7 @@
 ---
 title: Document.CreateAttributeNS
 second_title: Aspose.SVG for .NET API Reference
-description: Document method. Creates an attribute of the given qualified name and namespace URI
+description: Document CreateAttributeNS method. Creates an attribute of the given qualified name and namespace URI
 type: docs
 weight: 800
 url: /net/aspose.svg.dom/document/createattributens/

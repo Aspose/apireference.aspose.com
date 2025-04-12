@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.CharacterSpacing
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the character spacing
+description: ICanvasContext CharacterSpacing property. Gets or sets the character spacing
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/icanvascontext/characterspacing/

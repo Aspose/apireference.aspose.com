@@ -1,7 +1,7 @@
 ---
 title: SVGFEBlendElement.In2
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEBlendElement property. Corresponds to attribute in2 on the given feBlend element
+description: SVGFEBlendElement In2 property. Corresponds to attribute in2 on the given feBlend element
 type: docs
 weight: 30
 url: /net/aspose.svg.filters/svgfeblendelement/in2/

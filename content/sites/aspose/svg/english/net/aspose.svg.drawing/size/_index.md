@@ -3,7 +3,7 @@ title: Size Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.Size class. Stores a values which specify a Height and Width
 type: docs
-weight: 3420
+weight: 3740
 url: /net/aspose.svg.drawing/size/
 ---
 ## Size class
@@ -19,8 +19,8 @@ public class Size
 | Name | Description |
 | --- | --- |
 | [Size](size/#constructor)() | Initializes a new instance of the `Size` class. |
-| [Size](size/#constructor_2)(int, int) | Initializes a new instance of the `Size` class and specify a Height and Width in pixels. |
-| [Size](size/#constructor_1)(Length, Length) | Initializes a new instance of the `Size` class. |
+| [Size](size/#constructor_2)(*int, int*) | Initializes a new instance of the `Size` class and specify a Height and Width in pixels. |
+| [Size](size/#constructor_1)(*[Length](../length/), [Length](../length/)*) | Initializes a new instance of the `Size` class. |
 
 ## Properties
 

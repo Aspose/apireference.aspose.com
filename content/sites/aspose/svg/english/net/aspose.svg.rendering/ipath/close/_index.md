@@ -1,7 +1,7 @@
 ---
 title: IPath.Close
 second_title: Aspose.SVG for .NET API Reference
-description: IPath method. Closes the current subpath by connecting the current point to the starting point
+description: IPath Close method. Closes the current subpath by connecting the current point to the starting point
 type: docs
 weight: 90
 url: /net/aspose.svg.rendering/ipath/close/

@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.TransformationMatrix
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the transformation matrix. See IMatrix
+description: ICanvasContext TransformationMatrix property. Gets or sets the transformation matrix. See IMatrix
 type: docs
 weight: 260
 url: /net/aspose.svg.rendering/icanvascontext/transformationmatrix/

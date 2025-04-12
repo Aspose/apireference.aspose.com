@@ -1,7 +1,7 @@
 ---
 title: Document.OnLoadStart
 second_title: Aspose.SVG for .NET API Reference
-description: Document event. Gets or sets event handler for OnLoadStart event
+description: Document OnLoadStart event. Gets or sets event handler for OnLoadStart event
 type: docs
 weight: 500
 url: /net/aspose.svg.dom/document/onloadstart/

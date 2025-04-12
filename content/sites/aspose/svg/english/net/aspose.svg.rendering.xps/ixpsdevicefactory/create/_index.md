@@ -1,12 +1,12 @@
 ---
 title: IXpsDeviceFactory.Create
 second_title: Aspose.SVG for .NET API Reference
-description: IXpsDeviceFactory method. Creates an XPS device with the specified rendering options and stream provider
+description: IXpsDeviceFactory Create method. Creates an XPS device with the specified rendering options and stream provider
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering.xps/ixpsdevicefactory/create/
 ---
-## Create(XpsRenderingOptions, ICreateStreamProvider) {#create}
+## Create(*[XpsRenderingOptions](../../xpsrenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#create}
 
 Creates an XPS device with the specified rendering options and stream provider.
 
@@ -34,7 +34,7 @@ The created XPS device.
 
 ---
 
-## Create(XpsRenderingOptions, string) {#create_2}
+## Create(*[XpsRenderingOptions](../../xpsrenderingoptions/), string*) {#create_2}
 
 Creates an XPS device with the specified rendering options and file path.
 
@@ -61,7 +61,7 @@ The created XPS device.
 
 ---
 
-## Create(XpsRenderingOptions, Stream) {#create_1}
+## Create(*[XpsRenderingOptions](../../xpsrenderingoptions/), Stream*) {#create_1}
 
 Creates an XPS device with the specified rendering options and stream.
 

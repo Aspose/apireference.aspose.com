@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.BeginElement
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter method. Begins rendering of the element
+description: DeviceAdapter BeginElement method. Begins rendering of the element
 type: docs
 weight: 70
 url: /net/aspose.svg.rendering/deviceadapter/beginelement/

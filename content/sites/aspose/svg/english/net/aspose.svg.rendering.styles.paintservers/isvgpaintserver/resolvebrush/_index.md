@@ -1,7 +1,7 @@
 ---
 title: ISvgPaintServer.ResolveBrush
 second_title: Aspose.SVG for .NET API Reference
-description: ISvgPaintServer method. Resolves the brush for the paint server
+description: ISvgPaintServer ResolveBrush method. Resolves the brush for the paint server
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering.styles.paintservers/isvgpaintserver/resolvebrush/

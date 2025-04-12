@@ -1,7 +1,7 @@
 ---
 title: MutationRecord.AttributeName
 second_title: Aspose.SVG for .NET API Reference
-description: MutationRecord property. Returns the local name of the changed attribute and null otherwise
+description: MutationRecord AttributeName property. Returns the local name of the changed attribute and null otherwise
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.mutations/mutationrecord/attributename/

@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Slope
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the slope attribute for a component transfer function element
+description: SVGBuilderExtensions Slope method. Sets the slope attribute for a component transfer function element
 type: docs
 weight: 2040
 url: /net/aspose.svg.builder/svgbuilderextensions/slope/

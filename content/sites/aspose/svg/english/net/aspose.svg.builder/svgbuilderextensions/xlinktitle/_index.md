@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.XlinkTitle
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the xlinktitle attribute for an SVG element. This attribute provides a title for the linked resource
+description: SVGBuilderExtensions XlinkTitle method. Sets the xlinktitle attribute for an SVG element. This attribute provides a title for the linked resource
 type: docs
 weight: 2380
 url: /net/aspose.svg.builder/svgbuilderextensions/xlinktitle/

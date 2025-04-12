@@ -1,7 +1,7 @@
 ---
 title: CSSValueList.GetEnumerator
 second_title: Aspose.SVG for .NET API Reference
-description: CSSValueList method. Returns an enumerator that iterates through the collection
+description: CSSValueList GetEnumerator method. Returns an enumerator that iterates through the collection
 type: docs
 weight: 50
 url: /net/aspose.svg.dom.css/cssvaluelist/getenumerator/

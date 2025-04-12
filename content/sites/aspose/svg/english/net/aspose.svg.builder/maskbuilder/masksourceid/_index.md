@@ -1,7 +1,7 @@
 ---
 title: MaskBuilder.MaskSourceId
 second_title: Aspose.SVG for .NET API Reference
-description: MaskBuilder method. Sets the mask source ID for the mask
+description: MaskBuilder MaskSourceId method. Sets the mask source ID for the mask
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/maskbuilder/masksourceid/

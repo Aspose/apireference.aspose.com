@@ -3,7 +3,7 @@ title: ICanvasPathFactory Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.ICanvasPathFactory interface. Represents a factory for creating canvas paths
 type: docs
-weight: 3230
+weight: 5080
 url: /net/aspose.svg.rendering/icanvaspathfactory/
 ---
 ## ICanvasPathFactory interface
@@ -19,7 +19,7 @@ public interface ICanvasPathFactory
 | Name | Description |
 | --- | --- |
 | [Create](../../aspose.svg.rendering/icanvaspathfactory/create/#create)() | Creates a new empty path. |
-| [Create](../../aspose.svg.rendering/icanvaspathfactory/create/#create_1)(IPath) | Creates a new path by copying an existing path. |
+| [Create](../../aspose.svg.rendering/icanvaspathfactory/create/#create_1)(*[IPath](../ipath/)*) | Creates a new path by copying an existing path. |
 
 ### See Also
 

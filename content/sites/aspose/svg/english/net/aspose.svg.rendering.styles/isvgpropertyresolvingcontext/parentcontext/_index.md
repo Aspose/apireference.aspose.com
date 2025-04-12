@@ -1,7 +1,7 @@
 ---
 title: ISVGPropertyResolvingContext.ParentContext
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGPropertyResolvingContext property. Gets the parent property resolving context. See ISVGPropertyResolvingContext
+description: ISVGPropertyResolvingContext ParentContext property. Gets the parent property resolving context. See ISVGPropertyResolvingContext
 type: docs
 weight: 70
 url: /net/aspose.svg.rendering.styles/isvgpropertyresolvingcontext/parentcontext/

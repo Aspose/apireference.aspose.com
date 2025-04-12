@@ -1,7 +1,7 @@
 ---
 title: SVGFEColorMatrixElement.Width
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEColorMatrixElement property. Corresponds to attribute width on the given filter element
+description: SVGFEColorMatrixElement Width property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 60
 url: /net/aspose.svg.filters/svgfecolormatrixelement/width/

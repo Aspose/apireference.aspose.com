@@ -1,7 +1,7 @@
 ---
 title: SVGAElementBuilder.Rel
 second_title: Aspose.SVG for .NET API Reference
-description: SVGAElementBuilder method. Sets the rel attribute of the SVG a element specifying the relationship of the target object to the link object
+description: SVGAElementBuilder Rel method. Sets the rel attribute of the SVG a element specifying the relationship of the target object to the link object
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/svgaelementbuilder/rel/

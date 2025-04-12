@@ -1,7 +1,7 @@
 ---
 title: SVGComponentTransferFunctionElement.Intercept
 second_title: Aspose.SVG for .NET API Reference
-description: SVGComponentTransferFunctionElement property. Corresponds to attribute intercept on the given element
+description: SVGComponentTransferFunctionElement Intercept property. Corresponds to attribute intercept on the given element
 type: docs
 weight: 30
 url: /net/aspose.svg/svgcomponenttransferfunctionelement/intercept/

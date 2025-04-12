@@ -3,7 +3,7 @@ title: ICSSStyleDeclaration Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.ICSSStyleDeclaration interface. The CSSStyleDeclaration interface represents a single CSS declaration block. This interface may be used to determine the style properties currently set in a block or to set style properties explicitly within the block
 type: docs
-weight: 4180
+weight: 2710
 url: /net/aspose.svg.dom.css/icssstyledeclaration/
 ---
 ## ICSSStyleDeclaration interface
@@ -27,12 +27,12 @@ public interface ICSSStyleDeclaration : ICSS2Properties, IEnumerable<string>
 
 | Name | Description |
 | --- | --- |
-| [GetPropertyCSSValue](../../aspose.svg.dom.css/icssstyledeclaration/getpropertycssvalue/)(string) | Used to retrieve the object representation of the value of a CSS property if it has been explicitly set within this declaration block. This method returns null if the property is a shorthand property. Shorthand property values can only be accessed and modified as strings, using the getPropertyValue and setProperty methods. |
-| [GetPropertyPriority](../../aspose.svg.dom.css/icssstyledeclaration/getpropertypriority/)(string) | Used to retrieve the priority of a CSS property (e.g. the "important" qualifier) if the property has been explicitly set in this declaration block. |
-| [GetPropertyValue](../../aspose.svg.dom.css/icssstyledeclaration/getpropertyvalue/)(string) | Used to retrieve the value of a CSS property if it has been explicitly set within this declaration block. |
-| [RemoveProperty](../../aspose.svg.dom.css/icssstyledeclaration/removeproperty/)(string) | Used to remove a CSS property if it has been explicitly set within this declaration block. |
-| [SetProperty](../../aspose.svg.dom.css/icssstyledeclaration/setproperty/#setproperty)(string, string) | Used to set a property value with default priority within this declaration block. Default priority is not "important" i.e. String.Empty |
-| [SetProperty](../../aspose.svg.dom.css/icssstyledeclaration/setproperty/#setproperty_1)(string, string, string) | Used to set a property value and priority within this declaration block. |
+| [GetPropertyCSSValue](../../aspose.svg.dom.css/icssstyledeclaration/getpropertycssvalue/)(*string*) | Used to retrieve the object representation of the value of a CSS property if it has been explicitly set within this declaration block. This method returns null if the property is a shorthand property. Shorthand property values can only be accessed and modified as strings, using the getPropertyValue and setProperty methods. |
+| [GetPropertyPriority](../../aspose.svg.dom.css/icssstyledeclaration/getpropertypriority/)(*string*) | Used to retrieve the priority of a CSS property (e.g. the "important" qualifier) if the property has been explicitly set in this declaration block. |
+| [GetPropertyValue](../../aspose.svg.dom.css/icssstyledeclaration/getpropertyvalue/)(*string*) | Used to retrieve the value of a CSS property if it has been explicitly set within this declaration block. |
+| [RemoveProperty](../../aspose.svg.dom.css/icssstyledeclaration/removeproperty/)(*string*) | Used to remove a CSS property if it has been explicitly set within this declaration block. |
+| [SetProperty](../../aspose.svg.dom.css/icssstyledeclaration/setproperty/#setproperty)(*string, string*) | Used to set a property value with default priority within this declaration block. Default priority is not "important" i.e. String.Empty |
+| [SetProperty](../../aspose.svg.dom.css/icssstyledeclaration/setproperty/#setproperty_1)(*string, string, string*) | Used to set a property value and priority within this declaration block. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: SVGRadialGradientElementBuilder.AddStyle
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRadialGradientElementBuilder method. Adds a style configuration to the SVG radialGradient element
+description: SVGRadialGradientElementBuilder AddStyle method. Adds a style configuration to the SVG radialGradient element
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgradialgradientelementbuilder/addstyle/

@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.StrokeText
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter method. Strokes the specified text string at the specified location
+description: DeviceAdapter StrokeText method. Strokes the specified text string at the specified location
 type: docs
 weight: 260
 url: /net/aspose.svg.rendering/deviceadapter/stroketext/

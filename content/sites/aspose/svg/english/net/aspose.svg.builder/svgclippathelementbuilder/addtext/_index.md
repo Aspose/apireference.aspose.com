@@ -1,7 +1,7 @@
 ---
 title: SVGClipPathElementBuilder.AddText
 second_title: Aspose.SVG for .NET API Reference
-description: SVGClipPathElementBuilder method. Adds a text element to the clipPath element
+description: SVGClipPathElementBuilder AddText method. Adds a text element to the clipPath element
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgclippathelementbuilder/addtext/

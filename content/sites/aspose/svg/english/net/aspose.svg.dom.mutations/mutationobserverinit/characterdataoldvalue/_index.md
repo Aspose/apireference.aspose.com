@@ -1,7 +1,7 @@
 ---
 title: MutationObserverInit.CharacterDataOldValue
 second_title: Aspose.SVG for .NET API Reference
-description: MutationObserverInit property. Set to true if characterData is set to true or omitted and targets data before the mutation needs to be recorded
+description: MutationObserverInit CharacterDataOldValue property. Set to true if characterData is set to true or omitted and targets data before the mutation needs to be recorded
 type: docs
 weight: 60
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/characterdataoldvalue/

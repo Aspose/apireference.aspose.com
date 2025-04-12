@@ -3,7 +3,7 @@ title: ReferrerPolicy Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ReferrerPolicy enum. Specifies the referrer policy to be used when fetching resources
 type: docs
-weight: 470
+weight: 1020
 url: /net/aspose.svg.builder/referrerpolicy/
 ---
 ## ReferrerPolicy enumeration

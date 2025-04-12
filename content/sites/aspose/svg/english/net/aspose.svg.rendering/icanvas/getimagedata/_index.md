@@ -1,7 +1,7 @@
 ---
 title: ICanvas.GetImageData
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Gets the image data of the specified rectangular area
+description: ICanvas GetImageData method. Gets the image data of the specified rectangular area
 type: docs
 weight: 140
 url: /net/aspose.svg.rendering/icanvas/getimagedata/

@@ -1,7 +1,7 @@
 ---
 title: IWindowEventHandlers.OnPageShow
 second_title: Aspose.SVG for .NET API Reference
-description: IWindowEventHandlers event. Gets or sets event handler
+description: IWindowEventHandlers OnPageShow event. Gets or sets event handler
 type: docs
 weight: 90
 url: /net/aspose.svg.window/iwindoweventhandlers/onpageshow/

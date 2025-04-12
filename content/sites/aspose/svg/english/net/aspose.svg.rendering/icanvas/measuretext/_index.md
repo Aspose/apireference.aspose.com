@@ -1,7 +1,7 @@
 ---
 title: ICanvas.MeasureText
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Measures the width of the specified text using the current font properties
+description: ICanvas MeasureText method. Measures the width of the specified text using the current font properties
 type: docs
 weight: 190
 url: /net/aspose.svg.rendering/icanvas/measuretext/

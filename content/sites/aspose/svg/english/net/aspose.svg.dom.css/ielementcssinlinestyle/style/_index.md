@@ -1,7 +1,7 @@
 ---
 title: IElementCSSInlineStyle.Style
 second_title: Aspose.SVG for .NET API Reference
-description: IElementCSSInlineStyle property. Represents Represents a style attribute that allows author to directly apply style information to specific element
+description: IElementCSSInlineStyle Style property. Represents Represents a style attribute that allows author to directly apply style information to specific element
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/ielementcssinlinestyle/style/

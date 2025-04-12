@@ -1,7 +1,7 @@
 ---
 title: SVGFEMorphologyElement.Width
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEMorphologyElement property. Corresponds to attribute width on the given filter element
+description: SVGFEMorphologyElement Width property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 70
 url: /net/aspose.svg.filters/svgfemorphologyelement/width/

@@ -1,7 +1,7 @@
 ---
 title: SVGMarkerElement.OrientType
 second_title: Aspose.SVG for .NET API Reference
-description: SVGMarkerElement property. Corresponds to attribute orient on the given marker element. One of the Marker Orientation Types defined on this interface
+description: SVGMarkerElement OrientType property. Corresponds to attribute orient on the given marker element. One of the Marker Orientation Types defined on this interface
 type: docs
 weight: 50
 url: /net/aspose.svg/svgmarkerelement/orienttype/

@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.FontFamily
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the font-family property definition in CSS2
+description: ICSS2Properties FontFamily property. See the font-family property definition in CSS2
 type: docs
 weight: 480
 url: /net/aspose.svg.dom.css/icss2properties/fontfamily/

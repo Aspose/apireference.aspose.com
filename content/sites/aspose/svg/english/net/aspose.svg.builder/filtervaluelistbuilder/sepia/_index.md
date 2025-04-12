@@ -1,7 +1,7 @@
 ---
 title: FilterValueListBuilder.Sepia
 second_title: Aspose.SVG for .NET API Reference
-description: FilterValueListBuilder method. Adds a sepia filter
+description: FilterValueListBuilder Sepia method. Adds a sepia filter
 type: docs
 weight: 130
 url: /net/aspose.svg.builder/filtervaluelistbuilder/sepia/

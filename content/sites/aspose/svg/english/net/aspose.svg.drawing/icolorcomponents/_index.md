@@ -3,7 +3,7 @@ title: IColorComponents Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.IColorComponents interface. Declares method and properties for processing color components
 type: docs
-weight: 4360
+weight: 3570
 url: /net/aspose.svg.drawing/icolorcomponents/
 ---
 ## IColorComponents interface
@@ -27,7 +27,7 @@ public interface IColorComponents
 | Name | Description |
 | --- | --- |
 | [ToColor](../../aspose.svg.drawing/icolorcomponents/tocolor/)() | Converts the color components to the Color object. |
-| [ToString](../../aspose.svg.drawing/icolorcomponents/tostring/)(bool, bool, int) | Converts color components to string representation. |
+| [ToString](../../aspose.svg.drawing/icolorcomponents/tostring/)(*bool, bool, int*) | Converts color components to string representation. |
 
 ### See Also
 

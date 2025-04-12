@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Display
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the display attribute for an SVG element using a predefined enum value
+description: SVGBuilderExtensions Display method. Sets the display attribute for an SVG element using a predefined enum value
 type: docs
 weight: 740
 url: /net/aspose.svg.builder/svgbuilderextensions/display/

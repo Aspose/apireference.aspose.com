@@ -1,7 +1,7 @@
 ---
 title: ISVGPropertyResolvingContext.GetAbsoluteBoundingBox
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGPropertyResolvingContext method. Gets the absolute bounding box of the element optionally ignoring element transformations
+description: ISVGPropertyResolvingContext GetAbsoluteBoundingBox method. Gets the absolute bounding box of the element optionally ignoring element transformations
 type: docs
 weight: 120
 url: /net/aspose.svg.rendering.styles/isvgpropertyresolvingcontext/getabsoluteboundingbox/

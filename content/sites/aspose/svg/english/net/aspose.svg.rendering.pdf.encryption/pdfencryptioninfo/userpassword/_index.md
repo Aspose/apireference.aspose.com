@@ -1,7 +1,7 @@
 ---
 title: PdfEncryptionInfo.UserPassword
 second_title: Aspose.SVG for .NET API Reference
-description: PdfEncryptionInfo property. Gets or sets the User password
+description: PdfEncryptionInfo UserPassword property. Gets or sets the User password
 type: docs
 weight: 50
 url: /net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/userpassword/

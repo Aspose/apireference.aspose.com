@@ -1,7 +1,7 @@
 ---
 title: Url.GetHashCode
 second_title: Aspose.SVG for .NET API Reference
-description: Url method. Returns a hash code for this instance
+description: Url GetHashCode method. Returns a hash code for this instance
 type: docs
 weight: 160
 url: /net/aspose.svg/url/gethashcode/

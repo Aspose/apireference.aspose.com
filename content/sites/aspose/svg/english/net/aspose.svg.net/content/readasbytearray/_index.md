@@ -1,7 +1,7 @@
 ---
 title: Content.ReadAsByteArray
 second_title: Aspose.SVG for .NET API Reference
-description: Content method. Serialize the HTTP content and return a byte array that represents the content
+description: Content ReadAsByteArray method. Serialize the HTTP content and return a byte array that represents the content
 type: docs
 weight: 30
 url: /net/aspose.svg.net/content/readasbytearray/

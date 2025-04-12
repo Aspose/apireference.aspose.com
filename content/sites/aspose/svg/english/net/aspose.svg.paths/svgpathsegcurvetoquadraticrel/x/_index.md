@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegCurvetoQuadraticRel.X
 second_title: Aspose.SVG for .NET API Reference
-description: SVGPathSegCurvetoQuadraticRel property. The relative X coordinate for the end point of this path segment
+description: SVGPathSegCurvetoQuadraticRel X property. The relative X coordinate for the end point of this path segment
 type: docs
 weight: 10
 url: /net/aspose.svg.paths/svgpathsegcurvetoquadraticrel/x/

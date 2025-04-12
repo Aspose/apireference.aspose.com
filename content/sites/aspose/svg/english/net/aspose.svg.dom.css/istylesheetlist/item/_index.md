@@ -1,7 +1,7 @@
 ---
 title: IStyleSheetList.Item
 second_title: Aspose.SVG for .NET API Reference
-description: IStyleSheetList property. Used to retrieve a style sheet by method itemint index accordind to http//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html
+description: IStyleSheetList Item property. Used to retrieve a style sheet by method itemint index accordind to http//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/istylesheetlist/item/

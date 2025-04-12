@@ -1,7 +1,7 @@
 ---
 title: Node.RemoveChild
 second_title: Aspose.SVG for .NET API Reference
-description: Node method. Removes the child node indicated by oldChild from the list of children and returns it
+description: Node RemoveChild method. Removes the child node indicated by oldChild from the list of children and returns it
 type: docs
 weight: 270
 url: /net/aspose.svg.dom/node/removechild/

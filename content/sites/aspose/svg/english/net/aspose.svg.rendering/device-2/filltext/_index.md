@@ -1,9 +1,9 @@
 ---
 title: Device-2.FillText
 second_title: Aspose.SVG for .NET API Reference
-description: Device method. Fills the specified text string at the specified location
+description: Device FillText method. Fills the specified text string at the specified location
 type: docs
-weight: 160
+weight: 190
 url: /net/aspose.svg.rendering/device-2/filltext/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.FillText method

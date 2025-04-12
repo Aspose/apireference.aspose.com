@@ -1,7 +1,7 @@
 ---
 title: DOMException.Name
 second_title: Aspose.SVG for .NET API Reference
-description: DOMException property. Returns a string that contains one of the strings associated with an error name
+description: DOMException Name property. Returns a string that contains one of the strings associated with an error name
 type: docs
 weight: 40
 url: /net/aspose.svg.dom/domexception/name/

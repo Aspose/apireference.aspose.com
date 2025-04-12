@@ -1,7 +1,7 @@
 ---
 title: ICanvasPattern.SetTransform
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasPattern method. Applies an SVGMatrix representing a linear transform to the pattern
+description: ICanvasPattern SetTransform method. Applies an SVGMatrix representing a linear transform to the pattern
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.canvas/icanvaspattern/settransform/

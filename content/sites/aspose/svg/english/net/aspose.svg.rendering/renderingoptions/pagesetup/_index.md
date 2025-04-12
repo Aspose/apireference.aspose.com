@@ -1,7 +1,7 @@
 ---
 title: RenderingOptions.PageSetup
 second_title: Aspose.SVG for .NET API Reference
-description: RenderingOptions property. Gets a page setup object is used for configuration output page-set
+description: RenderingOptions PageSetup property. Gets a page setup object is used for configuration output page-set
 type: docs
 weight: 50
 url: /net/aspose.svg.rendering/renderingoptions/pagesetup/

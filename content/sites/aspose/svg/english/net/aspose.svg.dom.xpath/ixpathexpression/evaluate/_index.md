@@ -1,7 +1,7 @@
 ---
 title: IXPathExpression.Evaluate
 second_title: Aspose.SVG for .NET API Reference
-description: IXPathExpression method. Evaluates this XPath expression and returns a result
+description: IXPathExpression Evaluate method. Evaluates this XPath expression and returns a result
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.xpath/ixpathexpression/evaluate/

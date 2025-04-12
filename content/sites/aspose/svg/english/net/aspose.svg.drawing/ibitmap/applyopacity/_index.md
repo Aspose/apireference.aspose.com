@@ -1,7 +1,7 @@
 ---
 title: IBitmap.ApplyOpacity
 second_title: Aspose.SVG for .NET API Reference
-description: IBitmap method. Applies the specified opacity to the bitmap image
+description: IBitmap ApplyOpacity method. Applies the specified opacity to the bitmap image
 type: docs
 weight: 80
 url: /net/aspose.svg.drawing/ibitmap/applyopacity/

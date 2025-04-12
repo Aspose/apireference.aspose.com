@@ -1,7 +1,7 @@
 ---
 title: MouseEvent.RelatedTarget
 second_title: Aspose.SVG for .NET API Reference
-description: MouseEvent property. Used to identify a secondary EventTarget related to a UI event depending on the type of event
+description: MouseEvent RelatedTarget property. Used to identify a secondary EventTarget related to a UI event depending on the type of event
 type: docs
 weight: 90
 url: /net/aspose.svg.dom.events/mouseevent/relatedtarget/

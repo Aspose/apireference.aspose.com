@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnReset
 second_title: Aspose.SVG for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnReset event
+description: IGlobalEventHandlers OnReset event. Gets or sets event handler for OnReset event
 type: docs
 weight: 370
 url: /net/aspose.svg.dom/iglobaleventhandlers/onreset/

@@ -3,7 +3,7 @@ title: RequestMessage Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.RequestMessage class. Represents a request message
 type: docs
-weight: 2980
+weight: 4640
 url: /net/aspose.svg.net/requestmessage/
 ---
 ## RequestMessage class
@@ -18,8 +18,8 @@ public class RequestMessage : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [RequestMessage](requestmessage/#constructor_1)(string) | Initializes a new instance of the `RequestMessage` class. |
-| [RequestMessage](requestmessage/#constructor)(Url) | Initializes a new instance of the `RequestMessage` class. |
+| [RequestMessage](requestmessage/#constructor_1)(*string*) | Initializes a new instance of the `RequestMessage` class. |
+| [RequestMessage](requestmessage/#constructor)(*[Url](../../aspose.svg/url/)*) | Initializes a new instance of the `RequestMessage` class. |
 
 ## Properties
 

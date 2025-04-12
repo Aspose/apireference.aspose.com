@@ -1,7 +1,7 @@
 ---
 title: IResolvedStyleDeclaration.FillOpacity
 second_title: Aspose.SVG for .NET API Reference
-description: IResolvedStyleDeclaration property. Gets the opacity of the fill color of an element
+description: IResolvedStyleDeclaration FillOpacity property. Gets the opacity of the fill color of an element
 type: docs
 weight: 70
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/fillopacity/

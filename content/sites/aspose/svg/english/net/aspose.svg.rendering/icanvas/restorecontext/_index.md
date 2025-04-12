@@ -1,7 +1,7 @@
 ---
 title: ICanvas.RestoreContext
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Restores the most recently saved canvas state by popping the top entry from the drawing state stack
+description: ICanvas RestoreContext method. Restores the most recently saved canvas state by popping the top entry from the drawing state stack
 type: docs
 weight: 240
 url: /net/aspose.svg.rendering/icanvas/restorecontext/

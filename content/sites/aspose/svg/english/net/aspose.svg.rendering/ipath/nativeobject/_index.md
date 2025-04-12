@@ -1,7 +1,7 @@
 ---
 title: IPath.NativeObject
 second_title: Aspose.SVG for .NET API Reference
-description: IPath property. Gets the native representation of the path object
+description: IPath NativeObject property. Gets the native representation of the path object
 type: docs
 weight: 30
 url: /net/aspose.svg.rendering/ipath/nativeobject/

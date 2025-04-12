@@ -1,7 +1,7 @@
 ---
 title: ISVGPropertyResolvingContext.HorizontalResolution
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGPropertyResolvingContext property. Gets the horizontal resolution of the context. See Resolution
+description: ISVGPropertyResolvingContext HorizontalResolution property. Gets the horizontal resolution of the context. See Resolution
 type: docs
 weight: 40
 url: /net/aspose.svg.rendering.styles/isvgpropertyresolvingcontext/horizontalresolution/

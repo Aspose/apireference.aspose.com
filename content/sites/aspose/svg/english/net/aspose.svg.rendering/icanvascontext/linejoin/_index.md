@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.LineJoin
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the line join style. See StrokeLineJoin
+description: ICanvasContext LineJoin property. Gets or sets the line join style. See StrokeLineJoin
 type: docs
 weight: 140
 url: /net/aspose.svg.rendering/icanvascontext/linejoin/

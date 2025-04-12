@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AlignmentBaseline
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the alignment-baseline attribute for an SVG element
+description: SVGBuilderExtensions AlignmentBaseline method. Sets the alignment-baseline attribute for an SVG element
 type: docs
 weight: 570
 url: /net/aspose.svg.builder/svgbuilderextensions/alignmentbaseline/

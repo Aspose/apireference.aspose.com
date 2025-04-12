@@ -1,7 +1,7 @@
 ---
 title: SVGFEOffsetElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEOffsetElementBuilder method. Adds a script configuration to the feOffset element
+description: SVGFEOffsetElementBuilder AddScript method. Adds a script configuration to the feOffset element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfeoffsetelementbuilder/addscript/

@@ -1,7 +1,7 @@
 ---
 title: UnitType.Dpi
 second_title: Aspose.SVG for .NET API Reference
-description: UnitType field. Measurement is in dots per inch
+description: UnitType Dpi field. Measurement is in dots per inch
 type: docs
 weight: 60
 url: /net/aspose.svg.drawing/unittype/dpi/

@@ -1,7 +1,7 @@
 ---
 title: LengthOrAuto.op_Implicit
 second_title: Aspose.SVG for .NET API Reference
-description: LengthOrAuto method. Performs an implicit conversion from Length to LengthOrAuto
+description: LengthOrAuto op_Implicit method. Performs an implicit conversion from Length to LengthOrAuto
 type: docs
 weight: 80
 url: /net/aspose.svg.drawing/lengthorauto/op_implicit/

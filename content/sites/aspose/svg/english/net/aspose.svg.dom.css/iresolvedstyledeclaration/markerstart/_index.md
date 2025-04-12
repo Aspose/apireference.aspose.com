@@ -1,7 +1,7 @@
 ---
 title: IResolvedStyleDeclaration.MarkerStart
 second_title: Aspose.SVG for .NET API Reference
-description: IResolvedStyleDeclaration property. Gets the marker used at the start of a shape
+description: IResolvedStyleDeclaration MarkerStart property. Gets the marker used at the start of a shape
 type: docs
 weight: 150
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/markerstart/

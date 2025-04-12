@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.OutlineWidth
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the outline-width property definition in CSS2
+description: ICSS2Properties OutlineWidth property. See the outline-width property definition in CSS2
 type: docs
 weight: 780
 url: /net/aspose.svg.dom.css/icss2properties/outlinewidth/

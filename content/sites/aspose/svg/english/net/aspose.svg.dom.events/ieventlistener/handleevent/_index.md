@@ -1,7 +1,7 @@
 ---
 title: IEventListener.HandleEvent
 second_title: Aspose.SVG for .NET API Reference
-description: IEventListener method. This method is called whenever an event occurs of the type for which the IEventListener interface was registered
+description: IEventListener HandleEvent method. This method is called whenever an event occurs of the type for which the IEventListener interface was registered
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.events/ieventlistener/handleevent/

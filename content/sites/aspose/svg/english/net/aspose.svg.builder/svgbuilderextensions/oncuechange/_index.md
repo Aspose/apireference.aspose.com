@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnCueChange
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the oncuechange event attribute for handling changes in the text tracks active cues
+description: SVGBuilderExtensions OnCueChange method. Sets the oncuechange event attribute for handling changes in the text tracks active cues
 type: docs
 weight: 1280
 url: /net/aspose.svg.builder/svgbuilderextensions/oncuechange/

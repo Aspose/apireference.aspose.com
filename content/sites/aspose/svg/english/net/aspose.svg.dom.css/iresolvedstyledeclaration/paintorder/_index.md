@@ -1,7 +1,7 @@
 ---
 title: IResolvedStyleDeclaration.PaintOrder
 second_title: Aspose.SVG for .NET API Reference
-description: IResolvedStyleDeclaration property. Gets the paint order for rendering an elements fill stroke and markers
+description: IResolvedStyleDeclaration PaintOrder property. Gets the paint order for rendering an elements fill stroke and markers
 type: docs
 weight: 180
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/paintorder/

@@ -1,7 +1,7 @@
 ---
 title: ISVGPropertyResolvingContext.VerticalResolution
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGPropertyResolvingContext property. Gets the vertical resolution of the context. See Resolution
+description: ISVGPropertyResolvingContext VerticalResolution property. Gets the vertical resolution of the context. See Resolution
 type: docs
 weight: 100
 url: /net/aspose.svg.rendering.styles/isvgpropertyresolvingcontext/verticalresolution/

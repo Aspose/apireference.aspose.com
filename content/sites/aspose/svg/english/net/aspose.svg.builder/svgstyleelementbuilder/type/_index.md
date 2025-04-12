@@ -1,7 +1,7 @@
 ---
 title: SVGStyleElementBuilder.Type
 second_title: Aspose.SVG for .NET API Reference
-description: SVGStyleElementBuilder method. Sets the type attribute of the SVG style element. This attribute specifies the style sheet language of the elements contents
+description: SVGStyleElementBuilder Type method. Sets the type attribute of the SVG style element. This attribute specifies the style sheet language of the elements contents
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/svgstyleelementbuilder/type/

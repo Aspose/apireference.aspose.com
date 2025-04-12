@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.BorderBottomColor
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the border-bottom-color property definition in CSS2
+description: ICSS2Properties BorderBottomColor property. See the border-bottom-color property definition in CSS2
 type: docs
 weight: 100
 url: /net/aspose.svg.dom.css/icss2properties/borderbottomcolor/

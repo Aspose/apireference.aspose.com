@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.MinHeight
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the min-height property definition in CSS2
+description: ICSS2Properties MinHeight property. See the min-height property definition in CSS2
 type: docs
 weight: 720
 url: /net/aspose.svg.dom.css/icss2properties/minheight/

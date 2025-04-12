@@ -1,7 +1,7 @@
 ---
 title: PageSetup.RightPage
 second_title: Aspose.SVG for .NET API Reference
-description: PageSetup property. Gets the Even Page configuration
+description: PageSetup RightPage property. Gets the Even Page configuration
 type: docs
 weight: 50
 url: /net/aspose.svg.rendering/pagesetup/rightpage/

@@ -1,7 +1,7 @@
 ---
 title: SVGRadialGradientElementBuilder.Href
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRadialGradientElementBuilder method. Sets the href attribute of the SVG radialGradient element specifying a reference to another gradient
+description: SVGRadialGradientElementBuilder Href method. Sets the href attribute of the SVG radialGradient element specifying a reference to another gradient
 type: docs
 weight: 90
 url: /net/aspose.svg.builder/svgradialgradientelementbuilder/href/

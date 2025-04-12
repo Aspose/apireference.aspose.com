@@ -1,7 +1,7 @@
 ---
 title: ISVGPropertyResolvingContext.DrFactory
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGPropertyResolvingContext property. Gets the drawing factory associated with the context. See IDrawingFactory
+description: ISVGPropertyResolvingContext DrFactory property. Gets the drawing factory associated with the context. See IDrawingFactory
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering.styles/isvgpropertyresolvingcontext/drfactory/

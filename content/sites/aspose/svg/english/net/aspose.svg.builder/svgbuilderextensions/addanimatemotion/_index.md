@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddAnimateMotion
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds an animateMotion element configuration to the builder
+description: SVGBuilderExtensions AddAnimateMotion method. Adds an animateMotion element configuration to the builder
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgbuilderextensions/addanimatemotion/

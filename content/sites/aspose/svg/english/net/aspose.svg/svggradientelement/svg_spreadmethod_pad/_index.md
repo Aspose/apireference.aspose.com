@@ -1,7 +1,7 @@
 ---
 title: SVGGradientElement.SVG_SPREADMETHOD_PAD
 second_title: Aspose.SVG for .NET API Reference
-description: SVGGradientElement field. Corresponds to value pad
+description: SVGGradientElement SVG_SPREADMETHOD_PAD field. Corresponds to value pad
 type: docs
 weight: 50
 url: /net/aspose.svg/svggradientelement/svg_spreadmethod_pad/

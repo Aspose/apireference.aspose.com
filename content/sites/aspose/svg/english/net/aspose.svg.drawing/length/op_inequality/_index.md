@@ -1,7 +1,7 @@
 ---
 title: Length.op_Inequality
 second_title: Aspose.SVG for .NET API Reference
-description: Length method. Implements the operator 
+description: Length op_Inequality method. Implements the operator 
 type: docs
 weight: 50
 url: /net/aspose.svg.drawing/length/op_inequality/

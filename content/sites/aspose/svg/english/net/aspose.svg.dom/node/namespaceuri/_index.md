@@ -1,7 +1,7 @@
 ---
 title: Node.NamespaceURI
 second_title: Aspose.SVG for .NET API Reference
-description: Node property. The namespace URI of this node or null if it is unspecified
+description: Node NamespaceURI property. The namespace URI of this node or null if it is unspecified
 type: docs
 weight: 60
 url: /net/aspose.svg.dom/node/namespaceuri/

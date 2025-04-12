@@ -3,7 +3,7 @@ title: ICSSStyleSheet Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.ICSSStyleSheet interface. The CSSStyleSheet interface is a concrete interface used to represent a CSS style sheet i.e. a style sheet whose content type is text/css
 type: docs
-weight: 4190
+weight: 2730
 url: /net/aspose.svg.dom.css/icssstylesheet/
 ---
 ## ICSSStyleSheet interface
@@ -25,8 +25,8 @@ public interface ICSSStyleSheet : IStyleSheet
 
 | Name | Description |
 | --- | --- |
-| [DeleteRule](../../aspose.svg.dom.css/icssstylesheet/deleterule/)(int) | Used to delete a rule from the style sheet. |
-| [InsertRule](../../aspose.svg.dom.css/icssstylesheet/insertrule/)(string, int) | Used to insert a new rule into the style sheet. The new rule now becomes part of the cascade. |
+| [DeleteRule](../../aspose.svg.dom.css/icssstylesheet/deleterule/)(*int*) | Used to delete a rule from the style sheet. |
+| [InsertRule](../../aspose.svg.dom.css/icssstylesheet/insertrule/)(*string, int*) | Used to insert a new rule into the style sheet. The new rule now becomes part of the cascade. |
 
 ### See Also
 

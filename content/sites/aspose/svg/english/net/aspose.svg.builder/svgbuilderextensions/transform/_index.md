@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Transform
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the transform attribute for an SVG element
+description: SVGBuilderExtensions Transform method. Sets the transform attribute for an SVG element
 type: docs
 weight: 2260
 url: /net/aspose.svg.builder/svgbuilderextensions/transform/

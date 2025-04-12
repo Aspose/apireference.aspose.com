@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.GlobalAlpha
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the global alpha value
+description: ICanvasContext GlobalAlpha property. Gets or sets the global alpha value
 type: docs
 weight: 70
 url: /net/aspose.svg.rendering/icanvascontext/globalalpha/

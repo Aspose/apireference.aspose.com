@@ -1,7 +1,7 @@
 ---
 title: ICSSKeyframesRule.Name
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSKeyframesRule property. This attribute is the name of the keyframes used by the animation-name property
+description: ICSSKeyframesRule Name property. This attribute is the name of the keyframes used by the animation-name property
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.css/icsskeyframesrule/name/

@@ -1,7 +1,7 @@
 ---
 title: IUserAgentService.UserStyleSheet
 second_title: Aspose.SVG for .NET API Reference
-description: IUserAgentService property. Allows to specify style information for a particular document
+description: IUserAgentService UserStyleSheet property. Allows to specify style information for a particular document
 type: docs
 weight: 60
 url: /net/aspose.svg.services/iuseragentservice/userstylesheet/

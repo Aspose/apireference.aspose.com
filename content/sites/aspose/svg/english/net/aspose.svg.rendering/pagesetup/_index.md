@@ -3,7 +3,7 @@ title: PageSetup Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.PageSetup class. Represents a page setup object is used for configuration output page-set
 type: docs
-weight: 3270
+weight: 5230
 url: /net/aspose.svg.rendering/pagesetup/
 ---
 ## PageSetup class
@@ -29,7 +29,7 @@ public class PageSetup
 
 | Name | Description |
 | --- | --- |
-| [SetLeftRightPage](../../aspose.svg.rendering/pagesetup/setleftrightpage/)(Page, Page) | Sets the Left/Right page configuration. |
+| [SetLeftRightPage](../../aspose.svg.rendering/pagesetup/setleftrightpage/)(*[Page](../../aspose.svg.drawing/page/), [Page](../../aspose.svg.drawing/page/)*) | Sets the Left/Right page configuration. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: Unit.FromGradians
 second_title: Aspose.SVG for .NET API Reference
-description: Unit method. Returns a Angle object that is represented in gradians
+description: Unit FromGradians method. Returns a Angle object that is represented in gradians
 type: docs
 weight: 100
 url: /net/aspose.svg.drawing/unit/fromgradians/

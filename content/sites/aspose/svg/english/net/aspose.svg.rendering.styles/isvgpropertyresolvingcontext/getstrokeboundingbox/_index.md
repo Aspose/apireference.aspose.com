@@ -1,7 +1,7 @@
 ---
 title: ISVGPropertyResolvingContext.GetStrokeBoundingBox
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGPropertyResolvingContext method. Gets the bounding box of the elements stroke
+description: ISVGPropertyResolvingContext GetStrokeBoundingBox method. Gets the bounding box of the elements stroke
 type: docs
 weight: 140
 url: /net/aspose.svg.rendering.styles/isvgpropertyresolvingcontext/getstrokeboundingbox/

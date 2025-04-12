@@ -1,7 +1,7 @@
 ---
 title: Time.op_LessThan
 second_title: Aspose.SVG for .NET API Reference
-description: Time method. Implements the operator 
+description: Time op_LessThan method. Implements the operator 
 type: docs
 weight: 60
 url: /net/aspose.svg.drawing/time/op_lessthan/

@@ -1,7 +1,7 @@
 ---
 title: FilterValueListBuilder.DropShadow
 second_title: Aspose.SVG for .NET API Reference
-description: FilterValueListBuilder method. Adds a drop shadow filter
+description: FilterValueListBuilder DropShadow method. Adds a drop shadow filter
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/filtervaluelistbuilder/dropshadow/

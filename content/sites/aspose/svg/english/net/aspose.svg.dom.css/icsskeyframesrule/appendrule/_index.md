@@ -1,7 +1,7 @@
 ---
 title: ICSSKeyframesRule.AppendRule
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSKeyframesRule method. The appendRule method appends the passed CSSKeyframeRule into the list at the passed key
+description: ICSSKeyframesRule AppendRule method. The appendRule method appends the passed CSSKeyframeRule into the list at the passed key
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.css/icsskeyframesrule/appendrule/

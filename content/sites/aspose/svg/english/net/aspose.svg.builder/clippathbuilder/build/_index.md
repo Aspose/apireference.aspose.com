@@ -1,7 +1,7 @@
 ---
 title: ClipPathBuilder.Build
 second_title: Aspose.SVG for .NET API Reference
-description: ClipPathBuilder method. Builds the clip path value as a string
+description: ClipPathBuilder Build method. Builds the clip path value as a string
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/clippathbuilder/build/

@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Mask
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the mask attribute for an SVG element using a custom mask configuration
+description: SVGBuilderExtensions Mask method. Sets the mask attribute for an SVG element using a custom mask configuration
 type: docs
 weight: 1150
 url: /net/aspose.svg.builder/svgbuilderextensions/mask/

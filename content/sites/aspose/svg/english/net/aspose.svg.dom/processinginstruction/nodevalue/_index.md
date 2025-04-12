@@ -1,7 +1,7 @@
 ---
 title: ProcessingInstruction.NodeValue
 second_title: Aspose.SVG for .NET API Reference
-description: ProcessingInstruction property. The value of this node depending on its type
+description: ProcessingInstruction NodeValue property. The value of this node depending on its type
 type: docs
 weight: 30
 url: /net/aspose.svg.dom/processinginstruction/nodevalue/

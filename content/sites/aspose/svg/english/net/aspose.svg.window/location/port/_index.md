@@ -1,7 +1,7 @@
 ---
 title: Location.Port
 second_title: Aspose.SVG for .NET API Reference
-description: Location property. Returns the Location objects URLs port. Can be set to navigate to the same URL with a changed port
+description: Location Port property. Returns the Location objects URLs port. Can be set to navigate to the same URL with a changed port
 type: docs
 weight: 70
 url: /net/aspose.svg.window/location/port/

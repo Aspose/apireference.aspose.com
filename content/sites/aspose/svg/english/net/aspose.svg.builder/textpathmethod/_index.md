@@ -3,7 +3,7 @@ title: TextPathMethod Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.TextPathMethod enum. Specifies the method used to render text along a path
 type: docs
-weight: 630
+weight: 1840
 url: /net/aspose.svg.builder/textpathmethod/
 ---
 ## TextPathMethod enumeration

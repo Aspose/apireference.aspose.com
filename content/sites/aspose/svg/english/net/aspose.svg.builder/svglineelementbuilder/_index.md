@@ -3,7 +3,7 @@ title: SVGLineElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGLineElementBuilder class. Builder class for constructing an SVG line element which is used to draw straight lines within SVG graphics. This class enables the building of content within the line element and provides methods to set various attributes specific to the line element in SVG
 type: docs
-weight: 1770
+weight: 1480
 url: /net/aspose.svg.builder/svglineelementbuilder/
 ---
 ## SVGLineElementBuilder class
@@ -32,14 +32,14 @@ public class SVGLineElementBuilder : SVGElementBuilder<SVGLineElement>, IAnimati
 
 | Name | Description |
 | --- | --- |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGLineElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [X1](../../aspose.svg.builder/svglineelementbuilder/x1/)(double, LengthType) | Sets the 'x1' attribute of the SVG 'line' element, specifying the x-coordinate of the start point of the line. |
-| [X2](../../aspose.svg.builder/svglineelementbuilder/x2/)(double, LengthType) | Sets the 'x2' attribute of the SVG 'line' element, specifying the x-coordinate of the end point of the line. |
-| [Y1](../../aspose.svg.builder/svglineelementbuilder/y1/)(double, LengthType) | Sets the 'y1' attribute of the SVG 'line' element, specifying the y-coordinate of the start point of the line. |
-| [Y2](../../aspose.svg.builder/svglineelementbuilder/y2/)(double, LengthType) | Sets the 'y2' attribute of the SVG 'line' element, specifying the y-coordinate of the end point of the line. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGLineElement](../../aspose.svg/svglineelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| [X1](../../aspose.svg.builder/svglineelementbuilder/x1/)(*double, [LengthType](../lengthtype/)*) | Sets the 'x1' attribute of the SVG 'line' element, specifying the x-coordinate of the start point of the line. |
+| [X2](../../aspose.svg.builder/svglineelementbuilder/x2/)(*double, [LengthType](../lengthtype/)*) | Sets the 'x2' attribute of the SVG 'line' element, specifying the x-coordinate of the end point of the line. |
+| [Y1](../../aspose.svg.builder/svglineelementbuilder/y1/)(*double, [LengthType](../lengthtype/)*) | Sets the 'y1' attribute of the SVG 'line' element, specifying the y-coordinate of the start point of the line. |
+| [Y2](../../aspose.svg.builder/svglineelementbuilder/y2/)(*double, [LengthType](../lengthtype/)*) | Sets the 'y2' attribute of the SVG 'line' element, specifying the y-coordinate of the end point of the line. |
 
 ### See Also
 

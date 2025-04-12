@@ -1,7 +1,7 @@
 ---
 title: SVGFEFloodElement.Result
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEFloodElement property. Corresponds to attribute result on the given filter element
+description: SVGFEFloodElement Result property. Corresponds to attribute result on the given filter element
 type: docs
 weight: 20
 url: /net/aspose.svg.filters/svgfefloodelement/result/

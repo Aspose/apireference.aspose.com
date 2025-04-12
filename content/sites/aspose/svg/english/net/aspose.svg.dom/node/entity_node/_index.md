@@ -1,7 +1,7 @@
 ---
 title: Node.ENTITY_NODE
 second_title: Aspose.SVG for .NET API Reference
-description: Node field. An entity node
+description: Node ENTITY_NODE field. An entity node
 type: docs
 weight: 370
 url: /net/aspose.svg.dom/node/entity_node/

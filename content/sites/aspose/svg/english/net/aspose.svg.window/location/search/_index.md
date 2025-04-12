@@ -1,7 +1,7 @@
 ---
 title: Location.Search
 second_title: Aspose.SVG for .NET API Reference
-description: Location property. Returns the Location objects URLs query includes leading  if non-empty. Can be set to navigate to the same URL with a changed queryignores leading 
+description: Location Search property. Returns the Location objects URLs query includes leading  if non-empty. Can be set to navigate to the same URL with a changed queryignores leading 
 type: docs
 weight: 90
 url: /net/aspose.svg.window/location/search/

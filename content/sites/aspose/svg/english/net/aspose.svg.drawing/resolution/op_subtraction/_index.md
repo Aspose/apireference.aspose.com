@@ -1,7 +1,7 @@
 ---
 title: Resolution.op_Subtraction
 second_title: Aspose.SVG for .NET API Reference
-description: Resolution method. Implements the operator -
+description: Resolution op_Subtraction method. Implements the operator -
 type: docs
 weight: 90
 url: /net/aspose.svg.drawing/resolution/op_subtraction/

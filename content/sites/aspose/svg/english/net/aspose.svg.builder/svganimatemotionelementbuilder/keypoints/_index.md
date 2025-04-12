@@ -1,7 +1,7 @@
 ---
 title: SVGAnimateMotionElementBuilder.KeyPoints
 second_title: Aspose.SVG for .NET API Reference
-description: SVGAnimateMotionElementBuilder method. Sets the keyPoints attribute defining the points at which the animation occurs
+description: SVGAnimateMotionElementBuilder KeyPoints method. Sets the keyPoints attribute defining the points at which the animation occurs
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svganimatemotionelementbuilder/keypoints/

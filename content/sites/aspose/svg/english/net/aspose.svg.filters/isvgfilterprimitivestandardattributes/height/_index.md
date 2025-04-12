@@ -1,7 +1,7 @@
 ---
 title: ISVGFilterPrimitiveStandardAttributes.Height
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGFilterPrimitiveStandardAttributes property. Corresponds to attribute height on the given filter element
+description: ISVGFilterPrimitiveStandardAttributes Height property. Corresponds to attribute height on the given filter element
 type: docs
 weight: 10
 url: /net/aspose.svg.filters/isvgfilterprimitivestandardattributes/height/

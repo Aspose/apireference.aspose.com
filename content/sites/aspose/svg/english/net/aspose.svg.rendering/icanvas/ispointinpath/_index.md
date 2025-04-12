@@ -1,12 +1,12 @@
 ---
 title: ICanvas.IsPointInPath
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Determines whether the specified point is inside the current path using the specified fill rule
+description: ICanvas IsPointInPath method. Determines whether the specified point is inside the current path using the specified fill rule
 type: docs
 weight: 160
 url: /net/aspose.svg.rendering/icanvas/ispointinpath/
 ---
-## IsPointInPath(float, float, FillRule) {#ispointinpath_1}
+## IsPointInPath(*float, float, [FillRule](../../../aspose.svg.drawing/fillrule/)*) {#ispointinpath_1}
 
 Determines whether the specified point is inside the current path using the specified fill rule.
 
@@ -33,7 +33,7 @@ public bool IsPointInPath(float x, float y, FillRule mode)
 
 ---
 
-## IsPointInPath(IPath, float, float, FillRule) {#ispointinpath}
+## IsPointInPath(*[IPath](../../ipath/), float, float, [FillRule](../../../aspose.svg.drawing/fillrule/)*) {#ispointinpath}
 
 Determines whether the specified point is inside the specified path using the specified fill rule.
 

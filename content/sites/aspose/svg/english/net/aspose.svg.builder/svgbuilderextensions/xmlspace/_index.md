@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.XmlSpace
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the xmlspace attribute specifying how white spaces are handled
+description: SVGBuilderExtensions XmlSpace method. Sets the xmlspace attribute specifying how white spaces are handled
 type: docs
 weight: 2390
 url: /net/aspose.svg.builder/svgbuilderextensions/xmlspace/

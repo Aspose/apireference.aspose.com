@@ -1,7 +1,7 @@
 ---
 title: SVGFEColorMatrixElement.Values
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEColorMatrixElement property. Corresponds to attribute values on the given feColorMatrix element
+description: SVGFEColorMatrixElement Values property. Corresponds to attribute values on the given feColorMatrix element
 type: docs
 weight: 50
 url: /net/aspose.svg.filters/svgfecolormatrixelement/values/

@@ -1,7 +1,7 @@
 ---
 title: DocumentFragment.QuerySelector
 second_title: Aspose.SVG for .NET API Reference
-description: DocumentFragment method. Returns the first Element in document which match selector
+description: DocumentFragment QuerySelector method. Returns the first Element in document which match selector
 type: docs
 weight: 120
 url: /net/aspose.svg.dom/documentfragment/queryselector/

@@ -1,7 +1,7 @@
 ---
 title: PdfEncryptionInfo.EncryptionAlgorithm
 second_title: Aspose.SVG for .NET API Reference
-description: PdfEncryptionInfo property. Gets or sets the encryption mode
+description: PdfEncryptionInfo EncryptionAlgorithm property. Gets or sets the encryption mode
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm/

@@ -1,7 +1,7 @@
 ---
 title: Document.CreateAttribute
 second_title: Aspose.SVG for .NET API Reference
-description: Document method. Creates an Attr of the given name
+description: Document CreateAttribute method. Creates an Attr of the given name
 type: docs
 weight: 790
 url: /net/aspose.svg.dom/document/createattribute/

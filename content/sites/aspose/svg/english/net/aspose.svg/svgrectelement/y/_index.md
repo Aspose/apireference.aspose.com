@@ -1,7 +1,7 @@
 ---
 title: SVGRectElement.Y
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRectElement property. Corresponds to attribute y on the given rect element
+description: SVGRectElement Y property. Corresponds to attribute y on the given rect element
 type: docs
 weight: 60
 url: /net/aspose.svg/svgrectelement/y/

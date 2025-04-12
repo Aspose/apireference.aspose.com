@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Overflow
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the overflow attribute for an SVG element controlling how overflow is handled
+description: SVGBuilderExtensions Overflow method. Sets the overflow attribute for an SVG element controlling how overflow is handled
 type: docs
 weight: 1870
 url: /net/aspose.svg.builder/svgbuilderextensions/overflow/

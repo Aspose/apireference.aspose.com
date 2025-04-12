@@ -1,7 +1,7 @@
 ---
 title: IDocumentEvent.CreateEvent
 second_title: Aspose.SVG for .NET API Reference
-description: IDocumentEvent method. Creates an Event of a type supported by the implementation
+description: IDocumentEvent CreateEvent method. Creates an Event of a type supported by the implementation
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.events/idocumentevent/createevent/

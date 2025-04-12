@@ -1,7 +1,7 @@
 ---
 title: Color.FromLch
 second_title: Aspose.SVG for .NET API Reference
-description: Color method. Returns a new Color with the requested luminance chroma hue values
+description: Color FromLch method. Returns a new Color with the requested luminance chroma hue values
 type: docs
 weight: 140
 url: /net/aspose.svg.drawing/color/fromlch/

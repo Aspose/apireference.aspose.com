@@ -1,7 +1,7 @@
 ---
 title: IBitmap.SetTransparent
 second_title: Aspose.SVG for .NET API Reference
-description: IBitmap method. Sets the specified color as transparent in the bitmap image
+description: IBitmap SetTransparent method. Sets the specified color as transparent in the bitmap image
 type: docs
 weight: 140
 url: /net/aspose.svg.drawing/ibitmap/settransparent/

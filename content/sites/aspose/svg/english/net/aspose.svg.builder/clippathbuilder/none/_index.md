@@ -1,7 +1,7 @@
 ---
 title: ClipPathBuilder.None
 second_title: Aspose.SVG for .NET API Reference
-description: ClipPathBuilder method. Sets the clip path to none effectively disabling clipping
+description: ClipPathBuilder None method. Sets the clip path to none effectively disabling clipping
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/clippathbuilder/none/

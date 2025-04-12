@@ -3,7 +3,7 @@ title: SVGSymbolElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGSymbolElementBuilder class. Builder class for creating an SVGSymbolElement which is used to define graphical template objects within SVG
 type: docs
-weight: 1930
+weight: 1650
 url: /net/aspose.svg.builder/svgsymbolelementbuilder/
 ---
 ## SVGSymbolElementBuilder class
@@ -33,12 +33,12 @@ public class SVGSymbolElementBuilder : SVGElementBuilder<SVGSymbolElement>,
 
 | Name | Description |
 | --- | --- |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGSymbolElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [RefX](../../aspose.svg.builder/svgsymbolelementbuilder/refx/)(double, LengthType) | Sets the 'refX' attribute of the symbol element, defining the x-coordinate of the reference point of the symbol. |
-| [RefY](../../aspose.svg.builder/svgsymbolelementbuilder/refy/)(double, LengthType) | Sets the 'refY' attribute of the symbol element, defining the y-coordinate of the reference point of the symbol. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGSymbolElement](../../aspose.svg/svgsymbolelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| [RefX](../../aspose.svg.builder/svgsymbolelementbuilder/refx/)(*double, [LengthType](../lengthtype/)*) | Sets the 'refX' attribute of the symbol element, defining the x-coordinate of the reference point of the symbol. |
+| [RefY](../../aspose.svg.builder/svgsymbolelementbuilder/refy/)(*double, [LengthType](../lengthtype/)*) | Sets the 'refY' attribute of the symbol element, defining the y-coordinate of the reference point of the symbol. |
 
 ### See Also
 

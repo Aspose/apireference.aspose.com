@@ -3,7 +3,7 @@ title: ICanvasSolidFactory Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Canvas.ICanvasSolidFactory interface. Represents a factory for creating solid colors to be used with the HTML canvas rendering context
 type: docs
-weight: 2060
+weight: 2510
 url: /net/aspose.svg.dom.canvas/icanvassolidfactory/
 ---
 ## ICanvasSolidFactory interface
@@ -18,7 +18,7 @@ public interface ICanvasSolidFactory
 
 | Name | Description |
 | --- | --- |
-| [Create](../../aspose.svg.dom.canvas/icanvassolidfactory/create/)(string, Color) | Creates a solid color using the specified string representation and Color object. |
+| [Create](../../aspose.svg.dom.canvas/icanvassolidfactory/create/)(*string, Color*) | Creates a solid color using the specified string representation and Color object. |
 
 ### See Also
 

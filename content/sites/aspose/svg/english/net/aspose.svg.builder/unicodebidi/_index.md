@@ -3,7 +3,7 @@ title: UnicodeBidi Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.UnicodeBidi enum. Specifies the handling of bidirectional text in SVG
 type: docs
-weight: 680
+weight: 1910
 url: /net/aspose.svg.builder/unicodebidi/
 ---
 ## UnicodeBidi enumeration

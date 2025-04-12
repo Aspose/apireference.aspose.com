@@ -1,7 +1,7 @@
 ---
 title: SVGFEDisplacementMapElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDisplacementMapElementBuilder method. Adds a script configuration to the feDisplacementMap element
+description: SVGFEDisplacementMapElementBuilder AddScript method. Adds a script configuration to the feDisplacementMap element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfedisplacementmapelementbuilder/addscript/

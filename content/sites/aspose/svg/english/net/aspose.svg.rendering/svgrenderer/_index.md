@@ -3,7 +3,7 @@ title: SvgRenderer Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.SvgRenderer class. Represents SVG document renderer
 type: docs
-weight: 4690
+weight: 5390
 url: /net/aspose.svg.rendering/svgrenderer/
 ---
 ## SvgRenderer class
@@ -25,13 +25,13 @@ public class SvgRenderer : Renderer<SVGDocument>
 | Name | Description |
 | --- | --- |
 | [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | Releases unmanaged and - optionally - managed resources. |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, SVGDocument) |  |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, params SVGDocument[]) |  |
-| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_5)(IDevice, CancellationToken, params SVGDocument[]) | Defines a method for rendering multiple [`SVGDocument`](../../aspose.svg/svgdocument/)s into a specific [`IDevice`](../idevice/), using a cancellation token to request cancellation of the operation. |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, int, params SVGDocument[]) |  |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, SVGDocument, int) |  |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, SVGDocument, TimeSpan) |  |
-| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_6)(IDevice, TimeSpan, params SVGDocument[]) | Defines method for rendering multiple [`SVGDocument`](../../aspose.svg/svgdocument/)s into specific [`IDevice`](../idevice/). |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.svg/svgdocument/)*) |  |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), params SVGDocument[]*) |  |
+| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_5)(*[IDevice](../idevice/), CancellationToken, params SVGDocument[]*) | Defines a method for rendering multiple [`SVGDocument`](../../aspose.svg/svgdocument/)s into a specific [`IDevice`](../idevice/), using a cancellation token to request cancellation of the operation. |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), int, params SVGDocument[]*) |  |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.svg/svgdocument/), int*) |  |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.svg/svgdocument/), TimeSpan*) |  |
+| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_6)(*[IDevice](../idevice/), TimeSpan, params SVGDocument[]*) | Defines method for rendering multiple [`SVGDocument`](../../aspose.svg/svgdocument/)s into specific [`IDevice`](../idevice/). |
 
 ### See Also
 

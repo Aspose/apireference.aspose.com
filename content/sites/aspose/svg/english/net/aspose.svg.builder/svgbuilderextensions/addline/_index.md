@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.AddLine
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a line element with specified start and end points and styles to the SVG builder
+description: SVGBuilderExtensions AddLine method. Adds a line element with specified start and end points and styles to the SVG builder
 type: docs
 weight: 350
 url: /net/aspose.svg.builder/svgbuilderextensions/addline/
 ---
-## AddLine&lt;TBuilder&gt;(this TBuilder, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGLineElementBuilder&gt;) {#addline}
+## AddLine&lt;TBuilder&gt;(*this TBuilder, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGLineElementBuilder&amp;gt;*) {#addline}
 
 Adds a 'line' element with specified start and end points, and styles to the SVG builder.
 
@@ -51,7 +51,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddLine&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGLineElementBuilder&gt;) {#addline_1}
+## AddLine&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGLineElementBuilder&amp;gt;*) {#addline_1}
 
 Adds a 'line' element configuration to the builder.
 

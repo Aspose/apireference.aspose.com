@@ -1,7 +1,7 @@
 ---
 title: ICanvasSolidFactory.Create
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasSolidFactory method. Creates a solid color using the specified string representation and Color object
+description: ICanvasSolidFactory Create method. Creates a solid color using the specified string representation and Color object
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.canvas/icanvassolidfactory/create/

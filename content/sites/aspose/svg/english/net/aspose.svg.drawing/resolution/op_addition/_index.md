@@ -1,7 +1,7 @@
 ---
 title: Resolution.op_Addition
 second_title: Aspose.SVG for .NET API Reference
-description: Resolution method. Implements the operator 
+description: Resolution op_Addition method. Implements the operator 
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/resolution/op_addition/

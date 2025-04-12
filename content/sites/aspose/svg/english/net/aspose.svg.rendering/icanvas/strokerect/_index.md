@@ -1,7 +1,7 @@
 ---
 title: ICanvas.StrokeRect
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Strokes the specified rectangular area
+description: ICanvas StrokeRect method. Strokes the specified rectangular area
 type: docs
 weight: 270
 url: /net/aspose.svg.rendering/icanvas/strokerect/

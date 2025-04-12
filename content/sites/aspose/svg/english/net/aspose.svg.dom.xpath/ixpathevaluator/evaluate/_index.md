@@ -1,7 +1,7 @@
 ---
 title: IXPathEvaluator.Evaluate
 second_title: Aspose.SVG for .NET API Reference
-description: IXPathEvaluator method. Evaluates an XPath expression string and returns a result of the specified type if possible
+description: IXPathEvaluator Evaluate method. Evaluates an XPath expression string and returns a result of the specified type if possible
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.xpath/ixpathevaluator/evaluate/

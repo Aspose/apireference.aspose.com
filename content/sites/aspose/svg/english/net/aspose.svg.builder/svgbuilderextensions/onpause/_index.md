@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnPause
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onpause event attribute for handling pause events typically for media elements
+description: SVGBuilderExtensions OnPause method. Sets the onpause event attribute for handling pause events typically for media elements
 type: docs
 weight: 1650
 url: /net/aspose.svg.builder/svgbuilderextensions/onpause/

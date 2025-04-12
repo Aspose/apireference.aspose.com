@@ -1,7 +1,7 @@
 ---
 title: SVGFEImageElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEImageElementBuilder method. Adds a script configuration to the feImage element
+description: SVGFEImageElementBuilder AddScript method. Adds a script configuration to the feImage element
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfeimageelementbuilder/addscript/

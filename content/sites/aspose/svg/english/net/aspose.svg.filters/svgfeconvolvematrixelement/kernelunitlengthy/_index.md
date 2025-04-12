@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElement.KernelUnitLengthY
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEConvolveMatrixElement property. Corresponds to attribute kernelUnitLength on the given feConvolveMatrix element
+description: SVGFEConvolveMatrixElement KernelUnitLengthY property. Corresponds to attribute kernelUnitLength on the given feConvolveMatrix element
 type: docs
 weight: 80
 url: /net/aspose.svg.filters/svgfeconvolvematrixelement/kernelunitlengthy/

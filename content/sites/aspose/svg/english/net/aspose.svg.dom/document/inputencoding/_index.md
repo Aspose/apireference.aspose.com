@@ -1,7 +1,7 @@
 ---
 title: Document.InputEncoding
 second_title: Aspose.SVG for .NET API Reference
-description: Document property. Gets the documents encoding
+description: Document InputEncoding property. Gets the documents encoding
 type: docs
 weight: 140
 url: /net/aspose.svg.dom/document/inputencoding/

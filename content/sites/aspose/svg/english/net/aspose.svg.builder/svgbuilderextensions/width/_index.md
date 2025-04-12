@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Width
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the width attribute for an SVG element
+description: SVGBuilderExtensions Width method. Sets the width attribute for an SVG element
 type: docs
 weight: 2330
 url: /net/aspose.svg.builder/svgbuilderextensions/width/

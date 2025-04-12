@@ -1,7 +1,7 @@
 ---
 title: Location.Hash
 second_title: Aspose.SVG for .NET API Reference
-description: Location property. Returns the Location objects URLs fragment includes leading  if non-empty. Can be set to navigate to the same URL with a changed fragmentignores leading 
+description: Location Hash property. Returns the Location objects URLs fragment includes leading  if non-empty. Can be set to navigate to the same URL with a changed fragmentignores leading 
 type: docs
 weight: 10
 url: /net/aspose.svg.window/location/hash/

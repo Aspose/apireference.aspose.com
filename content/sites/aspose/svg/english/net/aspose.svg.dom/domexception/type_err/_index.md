@@ -1,7 +1,7 @@
 ---
 title: DOMException.TYPE_ERR
 second_title: Aspose.SVG for .NET API Reference
-description: DOMException field. The expression cannot be converted to return the specified type
+description: DOMException TYPE_ERR field. The expression cannot be converted to return the specified type
 type: docs
 weight: 270
 url: /net/aspose.svg.dom/domexception/type_err/

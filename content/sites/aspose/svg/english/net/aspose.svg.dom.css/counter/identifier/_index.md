@@ -1,7 +1,7 @@
 ---
 title: Counter.Identifier
 second_title: Aspose.SVG for .NET API Reference
-description: Counter property. This attribute is used for the identifier of the counter
+description: Counter Identifier property. This attribute is used for the identifier of the counter
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/counter/identifier/

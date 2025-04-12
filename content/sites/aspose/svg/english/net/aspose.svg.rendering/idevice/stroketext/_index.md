@@ -1,7 +1,7 @@
 ---
 title: IDevice.StrokeText
 second_title: Aspose.SVG for .NET API Reference
-description: IDevice method. Strokes the specified text string at the specified location
+description: IDevice StrokeText method. Strokes the specified text string at the specified location
 type: docs
 weight: 230
 url: /net/aspose.svg.rendering/idevice/stroketext/

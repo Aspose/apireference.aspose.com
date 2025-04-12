@@ -3,7 +3,7 @@ title: IMatrix Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.IMatrix interface. Represents a matrix used for transformations
 type: docs
-weight: 2180
+weight: 3620
 url: /net/aspose.svg.drawing/imatrix/
 ---
 ## IMatrix interface
@@ -34,22 +34,22 @@ public interface IMatrix
 | [Clone](../../aspose.svg.drawing/imatrix/clone/)() | Creates a copy of this matrix. |
 | [GetElements](../../aspose.svg.drawing/imatrix/getelements/)() | Gets the elements of the matrix as an array. |
 | [Invert](../../aspose.svg.drawing/imatrix/invert/)() | Inverts this matrix. |
-| [Multiply](../../aspose.svg.drawing/imatrix/multiply/#multiply)(IMatrix) | Multiplies this matrix by another matrix. |
-| [Multiply](../../aspose.svg.drawing/imatrix/multiply/#multiply_1)(IMatrix, WebMatrixOrder) | Multiplies this matrix by another matrix in the specified order. |
+| [Multiply](../../aspose.svg.drawing/imatrix/multiply/#multiply)(*IMatrix*) | Multiplies this matrix by another matrix. |
+| [Multiply](../../aspose.svg.drawing/imatrix/multiply/#multiply_1)(*IMatrix, [WebMatrixOrder](../webmatrixorder/)*) | Multiplies this matrix by another matrix in the specified order. |
 | [Reset](../../aspose.svg.drawing/imatrix/reset/)() | Resets the matrix to the identity matrix. |
-| [Rotate](../../aspose.svg.drawing/imatrix/rotate/#rotate)(float) | Rotates the matrix by the specified angle. |
-| [Rotate](../../aspose.svg.drawing/imatrix/rotate/#rotate_1)(float, WebMatrixOrder) | Rotates the matrix by the specified angle in the specified order. |
-| [RotateAt](../../aspose.svg.drawing/imatrix/rotateat/#rotateat)(float, PointF) | Rotates the matrix by the specified angle around the specified point. |
-| [RotateAt](../../aspose.svg.drawing/imatrix/rotateat/#rotateat_1)(float, PointF, WebMatrixOrder) | Rotates the matrix by the specified angle around the specified point in the specified order. |
-| [Scale](../../aspose.svg.drawing/imatrix/scale/#scale)(float, float) | Scales the matrix by the specified scale factors uniformly. |
-| [Scale](../../aspose.svg.drawing/imatrix/scale/#scale_1)(float, float, WebMatrixOrder) | Scales the matrix by the specified scale factors in the specified order. |
-| [Skew](../../aspose.svg.drawing/imatrix/skew/)(float, float) | Applies a skew transformation to the matrix. |
+| [Rotate](../../aspose.svg.drawing/imatrix/rotate/#rotate)(*float*) | Rotates the matrix by the specified angle. |
+| [Rotate](../../aspose.svg.drawing/imatrix/rotate/#rotate_1)(*float, [WebMatrixOrder](../webmatrixorder/)*) | Rotates the matrix by the specified angle in the specified order. |
+| [RotateAt](../../aspose.svg.drawing/imatrix/rotateat/#rotateat)(*float, PointF*) | Rotates the matrix by the specified angle around the specified point. |
+| [RotateAt](../../aspose.svg.drawing/imatrix/rotateat/#rotateat_1)(*float, PointF, [WebMatrixOrder](../webmatrixorder/)*) | Rotates the matrix by the specified angle around the specified point in the specified order. |
+| [Scale](../../aspose.svg.drawing/imatrix/scale/#scale)(*float, float*) | Scales the matrix by the specified scale factors uniformly. |
+| [Scale](../../aspose.svg.drawing/imatrix/scale/#scale_1)(*float, float, [WebMatrixOrder](../webmatrixorder/)*) | Scales the matrix by the specified scale factors in the specified order. |
+| [Skew](../../aspose.svg.drawing/imatrix/skew/)(*float, float*) | Applies a skew transformation to the matrix. |
 | [ToNative](../../aspose.svg.drawing/imatrix/tonative/)() | Converts the matrix to a native representation. |
-| [TransformPoint](../../aspose.svg.drawing/imatrix/transformpoint/)(PointF) | Transforms the specified point using this matrix. |
-| [TransformPoints](../../aspose.svg.drawing/imatrix/transformpoints/)(PointF[]) | Transforms an array of points using this matrix. |
-| [TransformRectangle](../../aspose.svg.drawing/imatrix/transformrectangle/)(RectangleF) | Transforms the specified rectangle using this matrix. |
-| [Translate](../../aspose.svg.drawing/imatrix/translate/#translate)(float, float) | Translates the matrix by the specified offset values. |
-| [Translate](../../aspose.svg.drawing/imatrix/translate/#translate_1)(float, float, WebMatrixOrder) | Translates the matrix by the specified offset values in the specified order. |
+| [TransformPoint](../../aspose.svg.drawing/imatrix/transformpoint/)(*PointF*) | Transforms the specified point using this matrix. |
+| [TransformPoints](../../aspose.svg.drawing/imatrix/transformpoints/)(*PointF[]*) | Transforms an array of points using this matrix. |
+| [TransformRectangle](../../aspose.svg.drawing/imatrix/transformrectangle/)(*RectangleF*) | Transforms the specified rectangle using this matrix. |
+| [Translate](../../aspose.svg.drawing/imatrix/translate/#translate)(*float, float*) | Translates the matrix by the specified offset values. |
+| [Translate](../../aspose.svg.drawing/imatrix/translate/#translate_1)(*float, float, [WebMatrixOrder](../webmatrixorder/)*) | Translates the matrix by the specified offset values in the specified order. |
 
 ### See Also
 

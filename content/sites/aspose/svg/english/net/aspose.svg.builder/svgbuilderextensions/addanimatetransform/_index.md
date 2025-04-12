@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddAnimateTransform
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds an animateTransform element configuration to the builder
+description: SVGBuilderExtensions AddAnimateTransform method. Adds an animateTransform element configuration to the builder
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgbuilderextensions/addanimatetransform/

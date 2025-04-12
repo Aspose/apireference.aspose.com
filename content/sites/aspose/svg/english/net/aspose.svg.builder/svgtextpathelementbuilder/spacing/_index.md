@@ -1,7 +1,7 @@
 ---
 title: SVGTextPathElementBuilder.Spacing
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTextPathElementBuilder method. Sets the spacing attribute specifying the spacing strategy for text along the path
+description: SVGTextPathElementBuilder Spacing method. Sets the spacing attribute specifying the spacing strategy for text along the path
 type: docs
 weight: 90
 url: /net/aspose.svg.builder/svgtextpathelementbuilder/spacing/

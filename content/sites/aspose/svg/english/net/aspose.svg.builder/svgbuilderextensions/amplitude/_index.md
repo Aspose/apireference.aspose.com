@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Amplitude
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the amplitude attribute for a component transfer function element
+description: SVGBuilderExtensions Amplitude method. Sets the amplitude attribute for a component transfer function element
 type: docs
 weight: 580
 url: /net/aspose.svg.builder/svgbuilderextensions/amplitude/

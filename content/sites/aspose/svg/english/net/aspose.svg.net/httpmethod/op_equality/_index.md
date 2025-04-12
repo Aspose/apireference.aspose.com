@@ -1,7 +1,7 @@
 ---
 title: HttpMethod.op_Equality
 second_title: Aspose.SVG for .NET API Reference
-description: HttpMethod method. Implements the equality operator
+description: HttpMethod op_Equality method. Implements the equality operator
 type: docs
 weight: 90
 url: /net/aspose.svg.net/httpmethod/op_equality/

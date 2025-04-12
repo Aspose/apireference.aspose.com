@@ -1,7 +1,7 @@
 ---
 title: DOMObject.GetPlatformType
 second_title: Aspose.SVG for .NET API Reference
-description: DOMObject method. This method is used to retrieve ECMAScript object Type
+description: DOMObject GetPlatformType method. This method is used to retrieve ECMAScript object Type
 type: docs
 weight: 20
 url: /net/aspose.svg.dom/domobject/getplatformtype/

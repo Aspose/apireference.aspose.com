@@ -1,7 +1,7 @@
 ---
 title: SVGSwitchElementBuilder.AddSwitch
 second_title: Aspose.SVG for .NET API Reference
-description: SVGSwitchElementBuilder method. Adds another SVGSwitchElement to the switch element using a configuration action
+description: SVGSwitchElementBuilder AddSwitch method. Adds another SVGSwitchElement to the switch element using a configuration action
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/svgswitchelementbuilder/addswitch/

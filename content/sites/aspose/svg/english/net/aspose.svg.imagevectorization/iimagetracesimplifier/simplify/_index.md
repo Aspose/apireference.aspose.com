@@ -1,7 +1,7 @@
 ---
 title: IImageTraceSimplifier.Simplify
 second_title: Aspose.SVG for .NET API Reference
-description: IImageTraceSimplifier method. Reduces number of points in the trace
+description: IImageTraceSimplifier Simplify method. Reduces number of points in the trace
 type: docs
 weight: 10
 url: /net/aspose.svg.imagevectorization/iimagetracesimplifier/simplify/

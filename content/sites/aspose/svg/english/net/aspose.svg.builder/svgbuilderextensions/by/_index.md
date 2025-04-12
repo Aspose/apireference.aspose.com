@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.By
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the by attribute defining the relative offset value for the animation with a specified length type
+description: SVGBuilderExtensions By method. Sets the by attribute defining the relative offset value for the animation with a specified length type
 type: docs
 weight: 620
 url: /net/aspose.svg.builder/svgbuilderextensions/by/

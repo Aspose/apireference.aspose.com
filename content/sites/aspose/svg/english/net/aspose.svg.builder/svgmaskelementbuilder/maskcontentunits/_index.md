@@ -1,7 +1,7 @@
 ---
 title: SVGMaskElementBuilder.MaskContentUnits
 second_title: Aspose.SVG for .NET API Reference
-description: SVGMaskElementBuilder method. Sets the maskContentUnits attribute of the SVG mask element specifying the coordinate system for the contents of the mask
+description: SVGMaskElementBuilder MaskContentUnits method. Sets the maskContentUnits attribute of the SVG mask element specifying the coordinate system for the contents of the mask
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgmaskelementbuilder/maskcontentunits/

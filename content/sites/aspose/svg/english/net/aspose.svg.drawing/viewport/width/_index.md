@@ -1,7 +1,7 @@
 ---
 title: Viewport.Width
 second_title: Aspose.SVG for .NET API Reference
-description: Viewport property. Gets the width of the viewport
+description: Viewport Width property. Gets the width of the viewport
 type: docs
 weight: 40
 url: /net/aspose.svg.drawing/viewport/width/

@@ -1,7 +1,7 @@
 ---
 title: SVGFEOffsetElementBuilder.Dx
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEOffsetElementBuilder method. Sets the dx attribute of the feOffset element specifying the horizontal offset
+description: SVGFEOffsetElementBuilder Dx method. Sets the dx attribute of the feOffset element specifying the horizontal offset
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfeoffsetelementbuilder/dx/

@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.BeginDocument
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter method. Begins rendering of the document
+description: DeviceAdapter BeginDocument method. Begins rendering of the document
 type: docs
 weight: 60
 url: /net/aspose.svg.rendering/deviceadapter/begindocument/

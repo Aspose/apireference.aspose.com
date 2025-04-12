@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddDesc
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a desc element configuration to the builder. The desc element is used to provide a description for SVG content
+description: SVGBuilderExtensions AddDesc method. Adds a desc element configuration to the builder. The desc element is used to provide a description for SVG content
 type: docs
 weight: 110
 url: /net/aspose.svg.builder/svgbuilderextensions/adddesc/

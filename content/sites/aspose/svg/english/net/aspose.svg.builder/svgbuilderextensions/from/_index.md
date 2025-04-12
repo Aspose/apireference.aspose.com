@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.From
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the from attribute defining the starting value of the animation with a specified length type
+description: SVGBuilderExtensions From method. Sets the from attribute defining the starting value of the animation with a specified length type
 type: docs
 weight: 960
 url: /net/aspose.svg.builder/svgbuilderextensions/from/

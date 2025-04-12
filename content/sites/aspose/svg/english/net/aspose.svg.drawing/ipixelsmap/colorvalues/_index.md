@@ -1,7 +1,7 @@
 ---
 title: IPixelsMap.ColorValues
 second_title: Aspose.SVG for .NET API Reference
-description: IPixelsMap property. Gets the color values of the pixels
+description: IPixelsMap ColorValues property. Gets the color values of the pixels
 type: docs
 weight: 40
 url: /net/aspose.svg.drawing/ipixelsmap/colorvalues/

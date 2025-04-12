@@ -1,7 +1,7 @@
 ---
 title: BezierPathBuilder.MaxIterations
 second_title: Aspose.SVG for .NET API Reference
-description: BezierPathBuilder property. Gets or sets the error threshold. This parameter defines number of iteration for least-squares approximation method. By default it is 30
+description: BezierPathBuilder MaxIterations property. Gets or sets the error threshold. This parameter defines number of iteration for least-squares approximation method. By default it is 30
 type: docs
 weight: 30
 url: /net/aspose.svg.imagevectorization/bezierpathbuilder/maxiterations/

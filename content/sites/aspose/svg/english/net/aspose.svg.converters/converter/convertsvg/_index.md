@@ -1,12 +1,12 @@
 ---
 title: Converter.ConvertSVG
 second_title: Aspose.SVG for .NET API Reference
-description: Converter method. Convert svg document to xps.Result is xps file
+description: Converter ConvertSVG method. Convert svg document to xps.Result is xps file
 type: docs
 weight: 10
 url: /net/aspose.svg.converters/converter/convertsvg/
 ---
-## ConvertSVG(SVGDocument, XpsSaveOptions, string) {#convertsvg_5}
+## ConvertSVG(*[SVGDocument](../../../aspose.svg/svgdocument/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), string*) {#convertsvg_5}
 
 Convert svg document to xps.Result is xps file.
 
@@ -30,7 +30,7 @@ public static void ConvertSVG(SVGDocument source, XpsSaveOptions options, string
 
 ---
 
-## ConvertSVG(Url, XpsSaveOptions, string) {#convertsvg_17}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), string*) {#convertsvg_17}
 
 Convert svg source to xps. Result is xps file.
 
@@ -54,7 +54,7 @@ public static void ConvertSVG(Url url, XpsSaveOptions options, string outputPath
 
 ---
 
-## ConvertSVG(Url, Configuration, XpsSaveOptions, string) {#convertsvg_11}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [Configuration](../../../aspose.svg/configuration/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), string*) {#convertsvg_11}
 
 Convert svg source to xps. Result is xps file.
 
@@ -81,7 +81,7 @@ public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptio
 
 ---
 
-## ConvertSVG(string, XpsSaveOptions, string) {#convertsvg_29}
+## ConvertSVG(*string, [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), string*) {#convertsvg_29}
 
 Convert svg source to xps. Result is xps file.
 
@@ -104,7 +104,7 @@ public static void ConvertSVG(string sourcePath, XpsSaveOptions options, string 
 
 ---
 
-## ConvertSVG(string, Configuration, XpsSaveOptions, string) {#convertsvg_23}
+## ConvertSVG(*string, [Configuration](../../../aspose.svg/configuration/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), string*) {#convertsvg_23}
 
 Convert svg source to xps. Result is xps file.
 
@@ -130,7 +130,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertSVG(string, string, XpsSaveOptions, string) {#convertsvg_41}
+## ConvertSVG(*string, string, [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), string*) {#convertsvg_41}
 
 Convert svg source to xps. Result is xps file.
 
@@ -155,7 +155,7 @@ public static void ConvertSVG(string content, string baseUri, XpsSaveOptions opt
 
 ---
 
-## ConvertSVG(string, string, Configuration, XpsSaveOptions, string) {#convertsvg_35}
+## ConvertSVG(*string, string, [Configuration](../../../aspose.svg/configuration/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), string*) {#convertsvg_35}
 
 Convert svg source to xps. Result is xps file.
 
@@ -182,7 +182,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 ---
 
-## ConvertSVG(SVGDocument, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_4}
+## ConvertSVG(*[SVGDocument](../../../aspose.svg/svgdocument/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_4}
 
 Convert svg source to xps. Result is xps file.
 
@@ -208,7 +208,7 @@ public static void ConvertSVG(SVGDocument document, XpsSaveOptions options,
 
 ---
 
-## ConvertSVG(Url, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_16}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_16}
 
 Convert svg source to xps. Result is xps file.
 
@@ -233,7 +233,7 @@ public static void ConvertSVG(Url url, XpsSaveOptions options, ICreateStreamProv
 
 ---
 
-## ConvertSVG(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_10}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [Configuration](../../../aspose.svg/configuration/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_10}
 
 Convert svg source to xps. Result is xps file.
 
@@ -261,7 +261,7 @@ public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptio
 
 ---
 
-## ConvertSVG(string, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_28}
+## ConvertSVG(*string, [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_28}
 
 Convert svg source to xps. Result is xps file.
 
@@ -286,7 +286,7 @@ public static void ConvertSVG(string sourcePath, XpsSaveOptions options,
 
 ---
 
-## ConvertSVG(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_22}
+## ConvertSVG(*string, [Configuration](../../../aspose.svg/configuration/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_22}
 
 Convert svg source to xps. Result is xps file.
 
@@ -313,7 +313,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertSVG(string, string, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_40}
+## ConvertSVG(*string, string, [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_40}
 
 Convert svg source to xps. Result is xps file.
 
@@ -339,7 +339,7 @@ public static void ConvertSVG(string content, string baseUri, XpsSaveOptions opt
 
 ---
 
-## ConvertSVG(string, string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_34}
+## ConvertSVG(*string, string, [Configuration](../../../aspose.svg/configuration/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_34}
 
 Convert svg source to xps. Result is xps file.
 
@@ -367,7 +367,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 ---
 
-## ConvertSVG(SVGDocument, PdfSaveOptions, string) {#convertsvg_3}
+## ConvertSVG(*[SVGDocument](../../../aspose.svg/svgdocument/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), string*) {#convertsvg_3}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -391,7 +391,7 @@ public static void ConvertSVG(SVGDocument source, PdfSaveOptions options, string
 
 ---
 
-## ConvertSVG(Url, PdfSaveOptions, string) {#convertsvg_15}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), string*) {#convertsvg_15}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -415,7 +415,7 @@ public static void ConvertSVG(Url url, PdfSaveOptions options, string outputPath
 
 ---
 
-## ConvertSVG(Url, Configuration, PdfSaveOptions, string) {#convertsvg_9}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [Configuration](../../../aspose.svg/configuration/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), string*) {#convertsvg_9}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -442,7 +442,7 @@ public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptio
 
 ---
 
-## ConvertSVG(string, PdfSaveOptions, string) {#convertsvg_27}
+## ConvertSVG(*string, [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), string*) {#convertsvg_27}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -465,7 +465,7 @@ public static void ConvertSVG(string sourcePath, PdfSaveOptions options, string 
 
 ---
 
-## ConvertSVG(string, Configuration, PdfSaveOptions, string) {#convertsvg_21}
+## ConvertSVG(*string, [Configuration](../../../aspose.svg/configuration/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), string*) {#convertsvg_21}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -491,7 +491,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertSVG(string, string, PdfSaveOptions, string) {#convertsvg_39}
+## ConvertSVG(*string, string, [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), string*) {#convertsvg_39}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -516,7 +516,7 @@ public static void ConvertSVG(string content, string baseUri, PdfSaveOptions opt
 
 ---
 
-## ConvertSVG(string, string, Configuration, PdfSaveOptions, string) {#convertsvg_33}
+## ConvertSVG(*string, string, [Configuration](../../../aspose.svg/configuration/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), string*) {#convertsvg_33}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -543,7 +543,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 ---
 
-## ConvertSVG(SVGDocument, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_2}
+## ConvertSVG(*[SVGDocument](../../../aspose.svg/svgdocument/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_2}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -569,7 +569,7 @@ public static void ConvertSVG(SVGDocument document, PdfSaveOptions options,
 
 ---
 
-## ConvertSVG(Url, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_14}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_14}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -594,7 +594,7 @@ public static void ConvertSVG(Url url, PdfSaveOptions options, ICreateStreamProv
 
 ---
 
-## ConvertSVG(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_8}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [Configuration](../../../aspose.svg/configuration/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_8}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -622,7 +622,7 @@ public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptio
 
 ---
 
-## ConvertSVG(string, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_26}
+## ConvertSVG(*string, [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_26}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -647,7 +647,7 @@ public static void ConvertSVG(string sourcePath, PdfSaveOptions options,
 
 ---
 
-## ConvertSVG(string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_20}
+## ConvertSVG(*string, [Configuration](../../../aspose.svg/configuration/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_20}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -674,7 +674,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertSVG(string, string, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_38}
+## ConvertSVG(*string, string, [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_38}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -700,7 +700,7 @@ public static void ConvertSVG(string content, string baseUri, PdfSaveOptions opt
 
 ---
 
-## ConvertSVG(string, string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_32}
+## ConvertSVG(*string, string, [Configuration](../../../aspose.svg/configuration/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_32}
 
 Convert svg source to pdf. Result is pdf file.
 
@@ -728,7 +728,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 ---
 
-## ConvertSVG(SVGDocument, ImageSaveOptions, string) {#convertsvg_1}
+## ConvertSVG(*[SVGDocument](../../../aspose.svg/svgdocument/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), string*) {#convertsvg_1}
 
 Convert svg document to image. Result is image file.
 
@@ -752,7 +752,7 @@ public static void ConvertSVG(SVGDocument source, ImageSaveOptions options, stri
 
 ---
 
-## ConvertSVG(Url, ImageSaveOptions, string) {#convertsvg_13}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), string*) {#convertsvg_13}
 
 Convert svg document to image. Result is image file.
 
@@ -776,7 +776,7 @@ public static void ConvertSVG(Url url, ImageSaveOptions options, string outputPa
 
 ---
 
-## ConvertSVG(Url, Configuration, ImageSaveOptions, string) {#convertsvg_7}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [Configuration](../../../aspose.svg/configuration/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), string*) {#convertsvg_7}
 
 Convert svg document to image. Result is image file.
 
@@ -803,7 +803,7 @@ public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOpt
 
 ---
 
-## ConvertSVG(string, ImageSaveOptions, string) {#convertsvg_25}
+## ConvertSVG(*string, [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), string*) {#convertsvg_25}
 
 Convert svg document to image. Result is image file.
 
@@ -826,7 +826,7 @@ public static void ConvertSVG(string sourcePath, ImageSaveOptions options, strin
 
 ---
 
-## ConvertSVG(string, Configuration, ImageSaveOptions, string) {#convertsvg_19}
+## ConvertSVG(*string, [Configuration](../../../aspose.svg/configuration/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), string*) {#convertsvg_19}
 
 Convert svg document to image. Result is image file.
 
@@ -852,7 +852,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertSVG(string, string, ImageSaveOptions, string) {#convertsvg_37}
+## ConvertSVG(*string, string, [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), string*) {#convertsvg_37}
 
 Convert svg document to image. Result is image file.
 
@@ -877,7 +877,7 @@ public static void ConvertSVG(string content, string baseUri, ImageSaveOptions o
 
 ---
 
-## ConvertSVG(string, string, Configuration, ImageSaveOptions, string) {#convertsvg_31}
+## ConvertSVG(*string, string, [Configuration](../../../aspose.svg/configuration/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), string*) {#convertsvg_31}
 
 Convert svg document to image. Result is image file.
 
@@ -904,7 +904,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 ---
 
-## ConvertSVG(SVGDocument, ImageSaveOptions, ICreateStreamProvider) {#convertsvg}
+## ConvertSVG(*[SVGDocument](../../../aspose.svg/svgdocument/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg}
 
 Convert svg source to image. Result is image file.
 
@@ -930,7 +930,7 @@ public static void ConvertSVG(SVGDocument document, ImageSaveOptions options,
 
 ---
 
-## ConvertSVG(Url, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_12}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_12}
 
 Convert svg source to image. Result is image file.
 
@@ -955,7 +955,7 @@ public static void ConvertSVG(Url url, ImageSaveOptions options, ICreateStreamPr
 
 ---
 
-## ConvertSVG(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_6}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [Configuration](../../../aspose.svg/configuration/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_6}
 
 Convert svg source to image. Result is image file.
 
@@ -983,7 +983,7 @@ public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOpt
 
 ---
 
-## ConvertSVG(string, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_24}
+## ConvertSVG(*string, [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_24}
 
 Convert svg source to image. Result is image file.
 
@@ -1008,7 +1008,7 @@ public static void ConvertSVG(string sourcePath, ImageSaveOptions options,
 
 ---
 
-## ConvertSVG(string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_18}
+## ConvertSVG(*string, [Configuration](../../../aspose.svg/configuration/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_18}
 
 Convert svg source to image. Result is image file.
 
@@ -1035,7 +1035,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertSVG(string, string, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_36}
+## ConvertSVG(*string, string, [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_36}
 
 Convert svg source to image. Result is image file.
 
@@ -1061,7 +1061,7 @@ public static void ConvertSVG(string content, string baseUri, ImageSaveOptions o
 
 ---
 
-## ConvertSVG(string, string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_30}
+## ConvertSVG(*string, string, [Configuration](../../../aspose.svg/configuration/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_30}
 
 Convert svg source to image. Result is image file.
 

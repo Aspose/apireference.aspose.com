@@ -1,7 +1,7 @@
 ---
 title: RGBColor.ToNative
 second_title: Aspose.SVG for .NET API Reference
-description: RGBColor method. Converts to the native color object
+description: RGBColor ToNative method. Converts to the native color object
 type: docs
 weight: 50
 url: /net/aspose.svg.dom.css/rgbcolor/tonative/

@@ -1,7 +1,7 @@
 ---
 title: SplinePathBuilder.TraceSimplifier
 second_title: Aspose.SVG for .NET API Reference
-description: SplinePathBuilder property. Gets or sets the trace simplifier
+description: SplinePathBuilder TraceSimplifier property. Gets or sets the trace simplifier
 type: docs
 weight: 30
 url: /net/aspose.svg.imagevectorization/splinepathbuilder/tracesimplifier/

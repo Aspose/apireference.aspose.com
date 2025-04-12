@@ -3,7 +3,7 @@ title: ICompositeElementBuilder Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ICompositeElementBuilder interface. Interface for building composite elements combining various element types
 type: docs
-weight: 1150
+weight: 480
 url: /net/aspose.svg.builder/icompositeelementbuilder/
 ---
 ## ICompositeElementBuilder interface

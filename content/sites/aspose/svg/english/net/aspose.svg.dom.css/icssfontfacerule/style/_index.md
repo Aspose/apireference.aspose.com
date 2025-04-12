@@ -1,7 +1,7 @@
 ---
 title: ICSSFontFaceRule.Style
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSFontFaceRule property. The declaration-block of this rule
+description: ICSSFontFaceRule Style property. The declaration-block of this rule
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/icssfontfacerule/style/

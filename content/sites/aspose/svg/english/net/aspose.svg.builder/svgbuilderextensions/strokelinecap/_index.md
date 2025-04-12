@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.StrokeLineCap
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the stroke-linecap attribute for an SVG element defining the shape to be used at the end of open subpaths when they are stroked
+description: SVGBuilderExtensions StrokeLineCap method. Sets the stroke-linecap attribute for an SVG element defining the shape to be used at the end of open subpaths when they are stroked
 type: docs
 weight: 2110
 url: /net/aspose.svg.builder/svgbuilderextensions/strokelinecap/

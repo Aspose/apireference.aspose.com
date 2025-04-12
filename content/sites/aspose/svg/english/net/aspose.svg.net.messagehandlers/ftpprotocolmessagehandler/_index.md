@@ -3,7 +3,7 @@ title: FtpProtocolMessageHandler Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.MessageHandlers.FtpProtocolMessageHandler class. Represents the ftp protocol message handler
 type: docs
-weight: 3050
+weight: 4590
 url: /net/aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/
 ---
 ## FtpProtocolMessageHandler class
@@ -30,7 +30,7 @@ public class FtpProtocolMessageHandler : MessageHandler
 
 | Name | Description |
 | --- | --- |
-| override [Invoke](../../aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/invoke/)(INetworkOperationContext) | When overridden in a derived class is used to implement the message handling. |
+| override [Invoke](../../aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/invoke/)(*[INetworkOperationContext](../../aspose.svg.net/inetworkoperationcontext/)*) | When overridden in a derived class is used to implement the message handling. |
 
 ### See Also
 

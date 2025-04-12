@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnSelect
 second_title: Aspose.SVG for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnSelect event
+description: IGlobalEventHandlers OnSelect event. Gets or sets event handler for OnSelect event
 type: docs
 weight: 420
 url: /net/aspose.svg.dom/iglobaleventhandlers/onselect/

@@ -1,7 +1,7 @@
 ---
 title: IPath.QuadraticCurveTo
 second_title: Aspose.SVG for .NET API Reference
-description: IPath method. Adds a quadratic Bézier curve segment to the path
+description: IPath QuadraticCurveTo method. Adds a quadratic Bézier curve segment to the path
 type: docs
 weight: 130
 url: /net/aspose.svg.rendering/ipath/quadraticcurveto/

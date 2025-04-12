@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.TextDecoration
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the text-decoration attribute for an SVG element defining decorations that are added to the text
+description: SVGBuilderExtensions TextDecoration method. Sets the text-decoration attribute for an SVG element defining decorations that are added to the text
 type: docs
 weight: 2210
 url: /net/aspose.svg.builder/svgbuilderextensions/textdecoration/

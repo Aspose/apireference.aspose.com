@@ -1,12 +1,12 @@
 ---
 title: SVGFEMergeNodeElementBuilder.In
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEMergeNodeElementBuilder method. Sets the in attribute of the feMergeNode element specifying the input for this node
+description: SVGFEMergeNodeElementBuilder In method. Sets the in attribute of the feMergeNode element specifying the input for this node
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfemergenodeelementbuilder/in/
 ---
-## In(string) {#in_1}
+## In(*string*) {#in_1}
 
 Sets the 'in' attribute of the feMergeNode element, specifying the input for this node.
 
@@ -30,7 +30,7 @@ The current builder instance.
 
 ---
 
-## In(FilterInput) {#in}
+## In(*[FilterInput](../../filterinput/)*) {#in}
 
 Sets the 'in' attribute of the feMergeNode element, specifying the input for this node.
 

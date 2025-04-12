@@ -3,7 +3,7 @@ title: SVGTransform Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.DataTypes.SVGTransform class. SVGTransform is the interface for one of the component transformations within an SVGTransformList thus an SVGTransform object corresponds to a single component e.g. scale or matrix within a transform attribute specification
 type: docs
-weight: 6120
+weight: 2310
 url: /net/aspose.svg.datatypes/svgtransform/
 ---
 ## SVGTransform class
@@ -28,12 +28,12 @@ public class SVGTransform : SVGValueType
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
-| [SetMatrix](../../aspose.svg.datatypes/svgtransform/setmatrix/)(SVGMatrix) | Sets the transform type to SVG_TRANSFORM_MATRIX, with parameter matrix defining the new transformation. The values from the parameter matrix are copied, the matrix parameter does not replace SVGTransform::matrix. |
-| [SetRotate](../../aspose.svg.datatypes/svgtransform/setrotate/)(float, float, float) | Sets the transform type to SVG_TRANSFORM_ROTATE, with parameter angle defining the rotation angle and parameters cx and cy defining the optional center of rotation. |
-| [SetScale](../../aspose.svg.datatypes/svgtransform/setscale/)(float, float) | Sets the transform type to SVG_TRANSFORM_SCALE, with parameters sx and sy defining the scale amounts. |
-| [SetSkewX](../../aspose.svg.datatypes/svgtransform/setskewx/)(float) | Sets the transform type to SVG_TRANSFORM_SKEWX, with parameter angle defining the amount of skew. |
-| [SetSkewY](../../aspose.svg.datatypes/svgtransform/setskewy/)(float) | Sets the transform type to SVG_TRANSFORM_SKEWY, with parameter angle defining the amount of skew. |
-| [SetTranslate](../../aspose.svg.datatypes/svgtransform/settranslate/)(float, float) | Sets the transform type to SVG_TRANSFORM_TRANSLATE, with parameters tx and ty defining the translation amounts. |
+| [SetMatrix](../../aspose.svg.datatypes/svgtransform/setmatrix/)(*[SVGMatrix](../svgmatrix/)*) | Sets the transform type to SVG_TRANSFORM_MATRIX, with parameter matrix defining the new transformation. The values from the parameter matrix are copied, the matrix parameter does not replace SVGTransform::matrix. |
+| [SetRotate](../../aspose.svg.datatypes/svgtransform/setrotate/)(*float, float, float*) | Sets the transform type to SVG_TRANSFORM_ROTATE, with parameter angle defining the rotation angle and parameters cx and cy defining the optional center of rotation. |
+| [SetScale](../../aspose.svg.datatypes/svgtransform/setscale/)(*float, float*) | Sets the transform type to SVG_TRANSFORM_SCALE, with parameters sx and sy defining the scale amounts. |
+| [SetSkewX](../../aspose.svg.datatypes/svgtransform/setskewx/)(*float*) | Sets the transform type to SVG_TRANSFORM_SKEWX, with parameter angle defining the amount of skew. |
+| [SetSkewY](../../aspose.svg.datatypes/svgtransform/setskewy/)(*float*) | Sets the transform type to SVG_TRANSFORM_SKEWY, with parameter angle defining the amount of skew. |
+| [SetTranslate](../../aspose.svg.datatypes/svgtransform/settranslate/)(*float, float*) | Sets the transform type to SVG_TRANSFORM_TRANSLATE, with parameters tx and ty defining the translation amounts. |
 | override [ToString](../../aspose.svg.datatypes/svgtransform/tostring/)() | Returns a String that represents this instance. |
 
 ## Fields

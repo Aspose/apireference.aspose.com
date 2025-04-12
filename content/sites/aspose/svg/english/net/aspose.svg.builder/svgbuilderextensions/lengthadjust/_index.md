@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.LengthAdjust
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the method of length adjustment for the text content
+description: SVGBuilderExtensions LengthAdjust method. Sets the method of length adjustment for the text content
 type: docs
 weight: 1090
 url: /net/aspose.svg.builder/svgbuilderextensions/lengthadjust/

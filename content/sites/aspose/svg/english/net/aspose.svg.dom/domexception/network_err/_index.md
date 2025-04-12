@@ -1,7 +1,7 @@
 ---
 title: DOMException.NETWORK_ERR
 second_title: Aspose.SVG for .NET API Reference
-description: DOMException field. A network error occurred
+description: DOMException NETWORK_ERR field. A network error occurred
 type: docs
 weight: 180
 url: /net/aspose.svg.dom/domexception/network_err/

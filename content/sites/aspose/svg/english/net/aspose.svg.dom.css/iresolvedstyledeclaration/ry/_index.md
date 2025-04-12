@@ -1,7 +1,7 @@
 ---
 title: IResolvedStyleDeclaration.Ry
 second_title: Aspose.SVG for .NET API Reference
-description: IResolvedStyleDeclaration property. Gets the y-radius of an ellipse or vertical radius of an ellipse or circle
+description: IResolvedStyleDeclaration Ry property. Gets the y-radius of an ellipse or vertical radius of an ellipse or circle
 type: docs
 weight: 210
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/ry/

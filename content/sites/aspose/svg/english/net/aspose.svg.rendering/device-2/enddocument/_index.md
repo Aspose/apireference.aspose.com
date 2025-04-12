@@ -1,9 +1,9 @@
 ---
 title: Device-2.EndDocument
 second_title: Aspose.SVG for .NET API Reference
-description: Device method. Ends rendering of the document
+description: Device EndDocument method. Ends rendering of the document
 type: docs
-weight: 120
+weight: 150
 url: /net/aspose.svg.rendering/device-2/enddocument/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndDocument method

@@ -1,7 +1,7 @@
 ---
 title: Resolution.op_GreaterThan
 second_title: Aspose.SVG for .NET API Reference
-description: Resolution method. Implements the operator 
+description: Resolution op_GreaterThan method. Implements the operator 
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/resolution/op_greaterthan/

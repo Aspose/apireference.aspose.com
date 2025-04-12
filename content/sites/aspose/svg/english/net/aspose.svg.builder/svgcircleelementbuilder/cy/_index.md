@@ -1,7 +1,7 @@
 ---
 title: SVGCircleElementBuilder.Cy
 second_title: Aspose.SVG for .NET API Reference
-description: SVGCircleElementBuilder method. Sets the cy attribute of the SVG circle element specifying the y-coordinate of the center of the circle
+description: SVGCircleElementBuilder Cy method. Sets the cy attribute of the SVG circle element specifying the y-coordinate of the center of the circle
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgcircleelementbuilder/cy/

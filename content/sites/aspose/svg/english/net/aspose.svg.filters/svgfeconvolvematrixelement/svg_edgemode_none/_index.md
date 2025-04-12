@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElement.SVG_EDGEMODE_NONE
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEConvolveMatrixElement field. Corresponds to value none
+description: SVGFEConvolveMatrixElement SVG_EDGEMODE_NONE field. Corresponds to value none
 type: docs
 weight: 190
 url: /net/aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_none/

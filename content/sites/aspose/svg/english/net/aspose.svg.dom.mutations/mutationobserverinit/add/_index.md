@@ -1,12 +1,12 @@
 ---
 title: MutationObserverInit.Add
 second_title: Aspose.SVG for .NET API Reference
-description: MutationObserverInit method. Adds an element to the MutationObserverInit collection
+description: MutationObserverInit Add method. Adds an element to the MutationObserverInit collection
 type: docs
 weight: 140
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/add/
 ---
-## Add(KeyValuePair&lt;string, object&gt;) {#add}
+## Add(*KeyValuePair&amp;lt;string, object&amp;gt;*) {#add}
 
 Adds an element to the [`MutationObserverInit`](../) collection.
 
@@ -26,7 +26,7 @@ public void Add(KeyValuePair<string, object> item)
 
 ---
 
-## Add(string, object) {#add_1}
+## Add(*string, object*) {#add_1}
 
 Adds the specified key and value to the [`MutationObserverInit`](../) collection.
 

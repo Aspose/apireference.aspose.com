@@ -1,7 +1,7 @@
 ---
 title: SVGFEImageElement.X
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEImageElement property. Corresponds to attribute x on the given filter element
+description: SVGFEImageElement X property. Corresponds to attribute x on the given filter element
 type: docs
 weight: 60
 url: /net/aspose.svg.filters/svgfeimageelement/x/

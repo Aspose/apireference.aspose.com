@@ -1,7 +1,7 @@
 ---
 title: ICanvas.FillText
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Fills the specified text at the specified position
+description: ICanvas FillText method. Fills the specified text at the specified position
 type: docs
 weight: 130
 url: /net/aspose.svg.rendering/icanvas/filltext/

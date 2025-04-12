@@ -1,9 +1,9 @@
 ---
 title: Device-2.EndElement
 second_title: Aspose.SVG for .NET API Reference
-description: Device method. Ends rendering of the node
+description: Device EndElement method. Ends rendering of the node
 type: docs
-weight: 130
+weight: 160
 url: /net/aspose.svg.rendering/device-2/endelement/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndElement method

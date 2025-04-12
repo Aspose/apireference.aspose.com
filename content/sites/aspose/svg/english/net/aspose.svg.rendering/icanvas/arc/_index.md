@@ -1,12 +1,12 @@
 ---
 title: ICanvas.Arc
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Adds an arc to the current path
+description: ICanvas Arc method. Adds an arc to the current path
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering/icanvas/arc/
 ---
-## Arc(double, double, double, double, double) {#arc}
+## Arc(*double, double, double, double, double*) {#arc}
 
 Adds an arc to the current path.
 
@@ -30,7 +30,7 @@ public void Arc(double x, double y, double radius, double startAngle, double end
 
 ---
 
-## Arc(double, double, double, double, double, bool) {#arc_1}
+## Arc(*double, double, double, double, double, bool*) {#arc_1}
 
 Adds an arc to the current path.
 

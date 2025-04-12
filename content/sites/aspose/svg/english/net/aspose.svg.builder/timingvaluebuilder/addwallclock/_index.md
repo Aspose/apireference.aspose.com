@@ -1,7 +1,7 @@
 ---
 title: TimingValueBuilder.AddWallclock
 second_title: Aspose.SVG for .NET API Reference
-description: TimingValueBuilder method. Adds a wallclock timing value
+description: TimingValueBuilder AddWallclock method. Adds a wallclock timing value
 type: docs
 weight: 80
 url: /net/aspose.svg.builder/timingvaluebuilder/addwallclock/

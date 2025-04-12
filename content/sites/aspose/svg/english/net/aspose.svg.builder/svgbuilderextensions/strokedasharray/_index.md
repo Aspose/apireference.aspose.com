@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.StrokeDashArray
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the stroke-dasharray attribute for an SVG element defining the pattern of dashes and gaps used to paint the stroke
+description: SVGBuilderExtensions StrokeDashArray method. Sets the stroke-dasharray attribute for an SVG element defining the pattern of dashes and gaps used to paint the stroke
 type: docs
 weight: 2090
 url: /net/aspose.svg.builder/svgbuilderextensions/strokedasharray/
 ---
-## StrokeDashArray&lt;TBuilder&gt;(this TBuilder, params double[]) {#strokedasharray_1}
+## StrokeDashArray&lt;TBuilder&gt;(*this TBuilder, params double[]*) {#strokedasharray_1}
 
 Sets the 'stroke-dasharray' attribute for an SVG element, defining the pattern of dashes and gaps used to paint the stroke.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## StrokeDashArray&lt;TBuilder&gt;(this TBuilder, Dash) {#strokedasharray}
+## StrokeDashArray&lt;TBuilder&gt;(*this TBuilder, [Dash](../../dash/)*) {#strokedasharray}
 
 Sets the 'stroke-dasharray' attribute for an SVG element using a predefined dash pattern.
 

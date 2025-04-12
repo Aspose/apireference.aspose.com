@@ -1,7 +1,7 @@
 ---
 title: UnitType.op_Equality
 second_title: Aspose.SVG for .NET API Reference
-description: UnitType method. Determines whether the two specified UnitType values are equal
+description: UnitType op_Equality method. Determines whether the two specified UnitType values are equal
 type: docs
 weight: 340
 url: /net/aspose.svg.drawing/unittype/op_equality/

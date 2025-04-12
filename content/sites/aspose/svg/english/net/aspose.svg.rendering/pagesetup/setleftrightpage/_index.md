@@ -1,7 +1,7 @@
 ---
 title: PageSetup.SetLeftRightPage
 second_title: Aspose.SVG for .NET API Reference
-description: PageSetup method. Sets the Left/Right page configuration
+description: PageSetup SetLeftRightPage method. Sets the Left/Right page configuration
 type: docs
 weight: 70
 url: /net/aspose.svg.rendering/pagesetup/setleftrightpage/

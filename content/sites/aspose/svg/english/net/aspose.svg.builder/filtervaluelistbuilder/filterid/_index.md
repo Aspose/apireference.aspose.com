@@ -1,7 +1,7 @@
 ---
 title: FilterValueListBuilder.FilterId
 second_title: Aspose.SVG for .NET API Reference
-description: FilterValueListBuilder method. Adds a filter by its ID
+description: FilterValueListBuilder FilterId method. Adds a filter by its ID
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/filtervaluelistbuilder/filterid/

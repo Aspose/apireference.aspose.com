@@ -1,12 +1,12 @@
 ---
 title: MaskBuilder.Position
 second_title: Aspose.SVG for .NET API Reference
-description: MaskBuilder method. Sets the position of the mask
+description: MaskBuilder Position method. Sets the position of the mask
 type: docs
 weight: 80
 url: /net/aspose.svg.builder/maskbuilder/position/
 ---
-## Position(double, LengthType) {#position_4}
+## Position(*double, [LengthType](../../lengthtype/)*) {#position_4}
 
 Sets the position of the mask.
 
@@ -32,7 +32,7 @@ The current instance of MaskBuilder.
 
 ---
 
-## Position(double, double, LengthType) {#position_5}
+## Position(*double, double, [LengthType](../../lengthtype/)*) {#position_5}
 
 Sets the position of the mask using horizontal and vertical values.
 
@@ -59,7 +59,7 @@ The current instance of MaskBuilder.
 
 ---
 
-## Position(HorizontalPosition, double, LengthType) {#position_2}
+## Position(*[HorizontalPosition](../../horizontalposition/), double, [LengthType](../../lengthtype/)*) {#position_2}
 
 Sets the position of the mask using a predefined horizontal position and a vertical value.
 
@@ -88,7 +88,7 @@ The current instance of MaskBuilder.
 
 ---
 
-## Position(VerticalPosition, double, LengthType) {#position_3}
+## Position(*[VerticalPosition](../../verticalposition/), double, [LengthType](../../lengthtype/)*) {#position_3}
 
 Sets the position of the mask using a predefined vertical position and a horizontal value.
 
@@ -117,7 +117,7 @@ The current instance of MaskBuilder.
 
 ---
 
-## Position(HorizontalPosition, VerticalPosition) {#position_1}
+## Position(*[HorizontalPosition](../../horizontalposition/), [VerticalPosition](../../verticalposition/)*) {#position_1}
 
 Sets the position of the mask using predefined horizontal and vertical positions.
 
@@ -144,7 +144,7 @@ The current instance of MaskBuilder.
 
 ---
 
-## Position(HorizontalEdge, double, VerticalEdge, double, LengthType) {#position}
+## Position(*[HorizontalEdge](../../horizontaledge/), double, [VerticalEdge](../../verticaledge/), double, [LengthType](../../lengthtype/)*) {#position}
 
 Sets the position of the mask using edges and values.
 

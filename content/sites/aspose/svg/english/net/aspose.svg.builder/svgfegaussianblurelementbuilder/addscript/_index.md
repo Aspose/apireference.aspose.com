@@ -1,7 +1,7 @@
 ---
 title: SVGFEGaussianBlurElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEGaussianBlurElementBuilder method. Adds a script configuration to the feGaussianBlur element
+description: SVGFEGaussianBlurElementBuilder AddScript method. Adds a script configuration to the feGaussianBlur element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfegaussianblurelementbuilder/addscript/

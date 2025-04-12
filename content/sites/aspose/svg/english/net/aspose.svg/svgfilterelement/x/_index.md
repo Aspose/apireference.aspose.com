@@ -1,7 +1,7 @@
 ---
 title: SVGFilterElement.X
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFilterElement property. Corresponds to attribute x on the given filter element
+description: SVGFilterElement X property. Corresponds to attribute x on the given filter element
 type: docs
 weight: 60
 url: /net/aspose.svg/svgfilterelement/x/

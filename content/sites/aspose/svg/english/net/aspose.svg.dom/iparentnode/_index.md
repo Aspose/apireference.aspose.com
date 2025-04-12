@@ -3,7 +3,7 @@ title: IParentNode Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.IParentNode interface. Defines the IParentNode interface that is implemented by any possible parents
 type: docs
-weight: 3700
+weight: 3170
 url: /net/aspose.svg.dom/iparentnode/
 ---
 ## IParentNode interface
@@ -27,8 +27,8 @@ public interface IParentNode : IElementTraversal
 
 | Name | Description |
 | --- | --- |
-| [QuerySelector](../../aspose.svg.dom/iparentnode/queryselector/)(string) | Returns the first element that is a descendant of node that matches selectors. |
-| [QuerySelectorAll](../../aspose.svg.dom/iparentnode/queryselectorall/)(string) | Returns all element descendants of node that match selectors. |
+| [QuerySelector](../../aspose.svg.dom/iparentnode/queryselector/)(*string*) | Returns the first element that is a descendant of node that matches selectors. |
+| [QuerySelectorAll](../../aspose.svg.dom/iparentnode/queryselectorall/)(*string*) | Returns all element descendants of node that match selectors. |
 
 ### See Also
 

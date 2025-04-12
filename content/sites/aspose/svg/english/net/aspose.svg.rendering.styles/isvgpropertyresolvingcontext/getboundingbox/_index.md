@@ -1,7 +1,7 @@
 ---
 title: ISVGPropertyResolvingContext.GetBoundingBox
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGPropertyResolvingContext method. Gets the bounding box of the element
+description: ISVGPropertyResolvingContext GetBoundingBox method. Gets the bounding box of the element
 type: docs
 weight: 130
 url: /net/aspose.svg.rendering.styles/isvgpropertyresolvingcontext/getboundingbox/

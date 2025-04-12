@@ -3,7 +3,7 @@ title: StreamContent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.StreamContent class. Represents content based on a stream
 type: docs
-weight: 3010
+weight: 4670
 url: /net/aspose.svg.net/streamcontent/
 ---
 ## StreamContent class
@@ -18,7 +18,7 @@ public class StreamContent : Content
 
 | Name | Description |
 | --- | --- |
-| [StreamContent](streamcontent/)(Stream) | Initializes a new instance of the `StreamContent` class. |
+| [StreamContent](streamcontent/)(*Stream*) | Initializes a new instance of the `StreamContent` class. |
 
 ## Properties
 

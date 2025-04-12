@@ -1,7 +1,7 @@
 ---
 title: SVGPathSeg.PATHSEG_CLOSEPATH
 second_title: Aspose.SVG for .NET API Reference
-description: SVGPathSeg field. Corresponds to a closepath z path data command
+description: SVGPathSeg PATHSEG_CLOSEPATH field. Corresponds to a closepath z path data command
 type: docs
 weight: 50
 url: /net/aspose.svg.paths/svgpathseg/pathseg_closepath/

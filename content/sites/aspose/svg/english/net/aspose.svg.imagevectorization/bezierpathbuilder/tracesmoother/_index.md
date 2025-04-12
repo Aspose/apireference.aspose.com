@@ -1,7 +1,7 @@
 ---
 title: BezierPathBuilder.TraceSmoother
 second_title: Aspose.SVG for .NET API Reference
-description: BezierPathBuilder property. Gets or sets the trace smoother
+description: BezierPathBuilder TraceSmoother property. Gets or sets the trace smoother
 type: docs
 weight: 40
 url: /net/aspose.svg.imagevectorization/bezierpathbuilder/tracesmoother/

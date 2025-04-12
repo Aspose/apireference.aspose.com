@@ -1,7 +1,7 @@
 ---
 title: TransformBuilder.Scale
 second_title: Aspose.SVG for .NET API Reference
-description: TransformBuilder method. Adds a scale transform to the builder
+description: TransformBuilder Scale method. Adds a scale transform to the builder
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/transformbuilder/scale/

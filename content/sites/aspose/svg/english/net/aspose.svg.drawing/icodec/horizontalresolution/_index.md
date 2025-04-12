@@ -1,7 +1,7 @@
 ---
 title: ICodec.HorizontalResolution
 second_title: Aspose.SVG for .NET API Reference
-description: ICodec property. Gets the horizontal resolution of the image
+description: ICodec HorizontalResolution property. Gets the horizontal resolution of the image
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/icodec/horizontalresolution/

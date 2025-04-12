@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.TextBaseline
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the baseline alignment of text
+description: ICanvasContext TextBaseline property. Gets or sets the baseline alignment of text
 type: docs
 weight: 240
 url: /net/aspose.svg.rendering/icanvascontext/textbaseline/

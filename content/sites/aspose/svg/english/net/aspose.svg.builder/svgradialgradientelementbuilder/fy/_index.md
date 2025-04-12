@@ -1,7 +1,7 @@
 ---
 title: SVGRadialGradientElementBuilder.Fy
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRadialGradientElementBuilder method. Sets the fy attribute of the SVG radialGradient element specifying the y-coordinate of the focal point of the gradient
+description: SVGRadialGradientElementBuilder Fy method. Sets the fy attribute of the SVG radialGradient element specifying the y-coordinate of the focal point of the gradient
 type: docs
 weight: 80
 url: /net/aspose.svg.builder/svgradialgradientelementbuilder/fy/

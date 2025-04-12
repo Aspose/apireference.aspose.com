@@ -1,7 +1,7 @@
 ---
 title: SVGFETurbulenceElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFETurbulenceElementBuilder method. Adds a script configuration to the feTurbulence element
+description: SVGFETurbulenceElementBuilder AddScript method. Adds a script configuration to the feTurbulence element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfeturbulenceelementbuilder/addscript/

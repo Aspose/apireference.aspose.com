@@ -1,7 +1,7 @@
 ---
 title: IDrawingFactory.CreateCodec
 second_title: Aspose.SVG for .NET API Reference
-description: IDrawingFactory method. Creates a codec for the specified image
+description: IDrawingFactory CreateCodec method. Creates a codec for the specified image
 type: docs
 weight: 50
 url: /net/aspose.svg.drawing/idrawingfactory/createcodec/

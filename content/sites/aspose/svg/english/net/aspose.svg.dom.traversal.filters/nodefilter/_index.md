@@ -3,7 +3,7 @@ title: NodeFilter Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Traversal.Filters.NodeFilter class. Filters are objects that know how to filter out nodes
 type: docs
-weight: 3940
+weight: 3300
 url: /net/aspose.svg.dom.traversal.filters/nodefilter/
 ---
 ## NodeFilter class
@@ -18,7 +18,7 @@ public abstract class NodeFilter : DOMObject, INodeFilter
 
 | Name | Description |
 | --- | --- |
-| abstract [AcceptNode](../../aspose.svg.dom.traversal.filters/nodefilter/acceptnode/)(Node) | Test whether a specified node is visible in the logical view of a TreeWalker or NodeIterator. This function will be called by the implementation of TreeWalker and NodeIterator; it is not normally called directly from user code. (Though you could do so if you wanted to use the same filter to guide your own application logic.) |
+| abstract [AcceptNode](../../aspose.svg.dom.traversal.filters/nodefilter/acceptnode/)(*[Node](../../aspose.svg.dom/node/)*) | Test whether a specified node is visible in the logical view of a TreeWalker or NodeIterator. This function will be called by the implementation of TreeWalker and NodeIterator; it is not normally called directly from user code. (Though you could do so if you wanted to use the same filter to guide your own application logic.) |
 | override [GetPlatformType](../../aspose.svg.dom.traversal.filters/nodefilter/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
 
 ## Fields

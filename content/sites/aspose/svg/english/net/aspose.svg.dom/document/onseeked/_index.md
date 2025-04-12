@@ -1,7 +1,7 @@
 ---
 title: Document.OnSeeked
 second_title: Aspose.SVG for .NET API Reference
-description: Document event. Gets or sets event handler for OnSeeked event
+description: Document OnSeeked event. Gets or sets event handler for OnSeeked event
 type: docs
 weight: 680
 url: /net/aspose.svg.dom/document/onseeked/

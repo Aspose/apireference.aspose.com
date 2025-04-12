@@ -1,7 +1,7 @@
 ---
 title: IConfigurationBuilder.AddDiagnostics
 second_title: Aspose.SVG for .NET API Reference
-description: IConfigurationBuilder method. Enables diagnostics for the current configuration
+description: IConfigurationBuilder AddDiagnostics method. Enables diagnostics for the current configuration
 type: docs
 weight: 10
 url: /net/aspose.svg/iconfigurationbuilder/adddiagnostics/

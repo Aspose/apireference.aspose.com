@@ -3,7 +3,7 @@ title: IBlob Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.IO.IBlob interface. A Blob object refers to a byte sequence and has a size attribute which is the total number of bytes in the byte sequence and a type attribute which is an ASCII-encoded string in lower case representing the media type of the byte sequence
 type: docs
-weight: 3120
+weight: 4180
 url: /net/aspose.svg.io/iblob/
 ---
 ## IBlob interface
@@ -25,7 +25,7 @@ public interface IBlob
 
 | Name | Description |
 | --- | --- |
-| [Slice](../../aspose.svg.io/iblob/slice/)(ulong, ulong, string) | Returns a new Blob object with bytes ranging from the optional start parameter up to but not including the optional end parameter, and with a type attribute that is the value of the optional contentType parameter. |
+| [Slice](../../aspose.svg.io/iblob/slice/)(*ulong, ulong, string*) | Returns a new Blob object with bytes ranging from the optional start parameter up to but not including the optional end parameter, and with a type attribute that is the value of the optional contentType parameter. |
 
 ### See Also
 

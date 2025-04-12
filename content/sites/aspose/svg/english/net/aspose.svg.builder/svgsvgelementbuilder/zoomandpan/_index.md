@@ -1,7 +1,7 @@
 ---
 title: SVGSVGElementBuilder.ZoomAndPan
 second_title: Aspose.SVG for .NET API Reference
-description: SVGSVGElementBuilder method. Sets the zoomAndPan attribute of the SVG element. This attribute controls whether the SVG content can be zoomed and panned
+description: SVGSVGElementBuilder ZoomAndPan method. Sets the zoomAndPan attribute of the SVG element. This attribute controls whether the SVG content can be zoomed and panned
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/svgsvgelementbuilder/zoomandpan/

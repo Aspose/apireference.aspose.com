@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.Stress
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the stress property definition in CSS2
+description: ICSS2Properties Stress property. See the stress property definition in CSS2
 type: docs
 weight: 1050
 url: /net/aspose.svg.dom.css/icss2properties/stress/

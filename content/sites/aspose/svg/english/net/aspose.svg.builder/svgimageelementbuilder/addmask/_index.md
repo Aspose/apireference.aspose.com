@@ -1,7 +1,7 @@
 ---
 title: SVGImageElementBuilder.AddMask
 second_title: Aspose.SVG for .NET API Reference
-description: SVGImageElementBuilder method. Adds a mask configuration to the SVG image element
+description: SVGImageElementBuilder AddMask method. Adds a mask configuration to the SVG image element
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgimageelementbuilder/addmask/

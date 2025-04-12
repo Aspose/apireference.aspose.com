@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.AddPolyline
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a polyline element to the SVG builder specifying its vertices and styles
+description: SVGBuilderExtensions AddPolyline method. Adds a polyline element to the SVG builder specifying its vertices and styles
 type: docs
 weight: 430
 url: /net/aspose.svg.builder/svgbuilderextensions/addpolyline/
 ---
-## AddPolyline&lt;TBuilder&gt;(this TBuilder, double[], OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGPolylineElementBuilder&gt;) {#addpolyline}
+## AddPolyline&lt;TBuilder&gt;(*this TBuilder, double[], OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGPolylineElementBuilder&amp;gt;*) {#addpolyline}
 
 Adds a 'polyline' element to the SVG builder, specifying its vertices, and styles.
 
@@ -44,7 +44,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddPolyline&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGPolylineElementBuilder&gt;) {#addpolyline_1}
+## AddPolyline&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGPolylineElementBuilder&amp;gt;*) {#addpolyline_1}
 
 Adds a 'polyline' element configuration to the builder.
 

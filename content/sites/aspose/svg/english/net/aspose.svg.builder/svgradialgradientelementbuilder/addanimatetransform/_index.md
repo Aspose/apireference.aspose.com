@@ -1,7 +1,7 @@
 ---
 title: SVGRadialGradientElementBuilder.AddAnimateTransform
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRadialGradientElementBuilder method. Adds an animate transform configuration to the SVG radialGradient element
+description: SVGRadialGradientElementBuilder AddAnimateTransform method. Adds an animate transform configuration to the SVG radialGradient element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgradialgradientelementbuilder/addanimatetransform/

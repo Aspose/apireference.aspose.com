@@ -1,7 +1,7 @@
 ---
 title: ICanvasRadialGradientFactory.Create
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasRadialGradientFactory method. Creates a radial gradient given by the coordinates of the two circles represented by the parameters
+description: ICanvasRadialGradientFactory Create method. Creates a radial gradient given by the coordinates of the two circles represented by the parameters
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.canvas/icanvasradialgradientfactory/create/

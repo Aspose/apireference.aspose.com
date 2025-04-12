@@ -1,7 +1,7 @@
 ---
 title: IPixelsMap.BitsPerComponent
 second_title: Aspose.SVG for .NET API Reference
-description: IPixelsMap property. Gets the number of bits per color component in the pixel map
+description: IPixelsMap BitsPerComponent property. Gets the number of bits per color component in the pixel map
 type: docs
 weight: 20
 url: /net/aspose.svg.drawing/ipixelsmap/bitspercomponent/

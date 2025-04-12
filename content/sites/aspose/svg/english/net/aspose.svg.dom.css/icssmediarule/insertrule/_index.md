@@ -1,7 +1,7 @@
 ---
 title: ICSSMediaRule.InsertRule
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSMediaRule method. Used to insert a new rule into the media block
+description: ICSSMediaRule InsertRule method. Used to insert a new rule into the media block
 type: docs
 weight: 40
 url: /net/aspose.svg.dom.css/icssmediarule/insertrule/

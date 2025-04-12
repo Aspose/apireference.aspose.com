@@ -1,7 +1,7 @@
 ---
 title: MediaQueryList.Matches
 second_title: Aspose.SVG for .NET API Reference
-description: MediaQueryList property. A boolean value that returns true if the document currently matches the media query list or false if not
+description: MediaQueryList Matches property. A boolean value that returns true if the document currently matches the media query list or false if not
 type: docs
 weight: 20
 url: /net/aspose.svg.window/mediaquerylist/matches/

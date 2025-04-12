@@ -1,7 +1,7 @@
 ---
 title: SVGMatrix.C
 second_title: Aspose.SVG for .NET API Reference
-description: SVGMatrix property. The C component of the matrix
+description: SVGMatrix C property. The C component of the matrix
 type: docs
 weight: 30
 url: /net/aspose.svg.datatypes/svgmatrix/c/

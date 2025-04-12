@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.BaselineShift
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the baseline-shift attribute for an SVG element using a predefined value
+description: SVGBuilderExtensions BaselineShift method. Sets the baseline-shift attribute for an SVG element using a predefined value
 type: docs
 weight: 600
 url: /net/aspose.svg.builder/svgbuilderextensions/baselineshift/
 ---
-## BaselineShift&lt;TBuilder&gt;(this TBuilder, BaseLineShift) {#baselineshift}
+## BaselineShift&lt;TBuilder&gt;(*this TBuilder, [BaseLineShift](../../baselineshift/)*) {#baselineshift}
 
 Sets the 'baseline-shift' attribute for an SVG element using a predefined value.
 
@@ -36,7 +36,7 @@ The builder instance for chaining.
 
 ---
 
-## BaselineShift&lt;TBuilder&gt;(this TBuilder, double, LengthType) {#baselineshift_1}
+## BaselineShift&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#baselineshift_1}
 
 Sets the 'baseline-shift' attribute for an SVG element using a numeric value.
 

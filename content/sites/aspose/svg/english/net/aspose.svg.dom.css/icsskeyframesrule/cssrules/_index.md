@@ -1,7 +1,7 @@
 ---
 title: ICSSKeyframesRule.CSSRules
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSKeyframesRule property. This attribute gives access to the keyframes in the list
+description: ICSSKeyframesRule CSSRules property. This attribute gives access to the keyframes in the list
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/icsskeyframesrule/cssrules/

@@ -1,7 +1,7 @@
 ---
 title: SVGFEDistantLightElementBuilder.Azimuth
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDistantLightElementBuilder method. Sets the azimuth attribute of the feDistantLight element
+description: SVGFEDistantLightElementBuilder Azimuth method. Sets the azimuth attribute of the feDistantLight element
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfedistantlightelementbuilder/azimuth/

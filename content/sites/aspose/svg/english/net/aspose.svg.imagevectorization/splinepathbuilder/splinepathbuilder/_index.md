@@ -22,7 +22,7 @@ public SplinePathBuilder()
 
 ---
 
-## SplinePathBuilder(float) {#constructor_2}
+## SplinePathBuilder(*float*) {#constructor_2}
 
 Initializes a new instance of the [`SplinePathBuilder`](../) class.
 
@@ -42,7 +42,7 @@ public SplinePathBuilder(float tension)
 
 ---
 
-## SplinePathBuilder(IImageTraceSmoother, IImageTraceSimplifier, float) {#constructor_1}
+## SplinePathBuilder(*[IImageTraceSmoother](../../iimagetracesmoother/), [IImageTraceSimplifier](../../iimagetracesimplifier/), float*) {#constructor_1}
 
 Initializes a new instance of the [`SplinePathBuilder`](../) class.
 

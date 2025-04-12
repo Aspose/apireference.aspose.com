@@ -1,12 +1,12 @@
 ---
 title: ISVGElementRendererService.Render
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGElementRendererService method. Renders the specified SVG elements onto the device context using the provided viewport
+description: ISVGElementRendererService Render method. Renders the specified SVG elements onto the device context using the provided viewport
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/isvgelementrendererservice/render/
 ---
-## Render(ISVGDeviceContext, CancellationToken, Viewport, params SVGElement[]) {#render}
+## Render(*[ISVGDeviceContext](../../isvgdevicecontext/), CancellationToken, [Viewport](../../../aspose.svg.drawing/viewport/), params SVGElement[]*) {#render}
 
 Renders the specified SVG elements onto the device context using the provided viewport.
 
@@ -33,7 +33,7 @@ public void Render(ISVGDeviceContext deviceContext, CancellationToken cancellati
 
 ---
 
-## Render(ISVGDeviceContext, CancellationToken, ISVGPropertyResolvingContext, params SVGElement[]) {#render_1}
+## Render(*[ISVGDeviceContext](../../isvgdevicecontext/), CancellationToken, [ISVGPropertyResolvingContext](../../../aspose.svg.rendering.styles/isvgpropertyresolvingcontext/), params SVGElement[]*) {#render_1}
 
 Renders the specified SVG elements onto the device context using the provided property resolving context.
 

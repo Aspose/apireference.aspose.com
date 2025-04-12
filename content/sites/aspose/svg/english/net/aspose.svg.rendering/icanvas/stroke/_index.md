@@ -1,7 +1,7 @@
 ---
 title: ICanvas.Stroke
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Strokes the current path
+description: ICanvas Stroke method. Strokes the current path
 type: docs
 weight: 260
 url: /net/aspose.svg.rendering/icanvas/stroke/
@@ -22,7 +22,7 @@ public void Stroke()
 
 ---
 
-## Stroke(IPath) {#stroke_1}
+## Stroke(*[IPath](../../ipath/)*) {#stroke_1}
 
 Strokes the specified path.
 

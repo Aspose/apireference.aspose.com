@@ -1,12 +1,12 @@
 ---
 title: IDocumentTraversal.CreateNodeIterator
 second_title: Aspose.SVG for .NET API Reference
-description: IDocumentTraversal method. Create a new NodeIterator over the subtree rooted at the specified node
+description: IDocumentTraversal CreateNodeIterator method. Create a new NodeIterator over the subtree rooted at the specified node
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.traversal/idocumenttraversal/createnodeiterator/
 ---
-## CreateNodeIterator(Node) {#createnodeiterator}
+## CreateNodeIterator(*[Node](../../../aspose.svg.dom/node/)*) {#createnodeiterator}
 
 Create a new NodeIterator over the subtree rooted at the specified node.
 
@@ -38,7 +38,7 @@ The newly created NodeIterator.
 
 ---
 
-## CreateNodeIterator(Node, long) {#createnodeiterator_1}
+## CreateNodeIterator(*[Node](../../../aspose.svg.dom/node/), long*) {#createnodeiterator_1}
 
 Create a new NodeIterator over the subtree rooted at the specified node.
 
@@ -71,7 +71,7 @@ The newly created NodeIterator.
 
 ---
 
-## CreateNodeIterator(Node, long, INodeFilter) {#createnodeiterator_2}
+## CreateNodeIterator(*[Node](../../../aspose.svg.dom/node/), long, [INodeFilter](../../inodefilter/)*) {#createnodeiterator_2}
 
 Create a new NodeIterator over the subtree rooted at the specified node.
 

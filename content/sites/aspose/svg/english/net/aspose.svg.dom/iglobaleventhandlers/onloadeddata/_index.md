@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnLoadedData
 second_title: Aspose.SVG for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnLoadedData event
+description: IGlobalEventHandlers OnLoadedData event. Gets or sets event handler for OnLoadedData event
 type: docs
 weight: 210
 url: /net/aspose.svg.dom/iglobaleventhandlers/onloadeddata/

@@ -1,7 +1,7 @@
 ---
 title: SVGListBase-1.GetEnumerator
 second_title: Aspose.SVG for .NET API Reference
-description: SVGListBase method. Gets the enumerator
+description: SVGListBase GetEnumerator method. Gets the enumerator
 type: docs
 weight: 60
 url: /net/aspose.svg.collections/svglistbase-1/getenumerator/

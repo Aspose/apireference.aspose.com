@@ -1,7 +1,7 @@
 ---
 title: MouseEvent.ClientY
 second_title: Aspose.SVG for .NET API Reference
-description: MouseEvent property. The vertical coordinate at which the event occurred relative to the viewport associated with the event
+description: MouseEvent ClientY property. The vertical coordinate at which the event occurred relative to the viewport associated with the event
 type: docs
 weight: 60
 url: /net/aspose.svg.dom.events/mouseevent/clienty/

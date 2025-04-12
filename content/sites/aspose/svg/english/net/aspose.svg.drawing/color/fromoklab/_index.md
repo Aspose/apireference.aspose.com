@@ -1,7 +1,7 @@
 ---
 title: Color.FromOklab
 second_title: Aspose.SVG for .NET API Reference
-description: Color method. Returns a new Color with the requested lightness A B values for OKLAB model
+description: Color FromOklab method. Returns a new Color with the requested lightness A B values for OKLAB model
 type: docs
 weight: 160
 url: /net/aspose.svg.drawing/color/fromoklab/

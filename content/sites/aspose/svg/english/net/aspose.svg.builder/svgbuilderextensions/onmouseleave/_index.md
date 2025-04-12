@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnMouseLeave
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onmouseleave event attribute for handling mouse leave events on the element
+description: SVGBuilderExtensions OnMouseLeave method. Sets the onmouseleave event attribute for handling mouse leave events on the element
 type: docs
 weight: 1580
 url: /net/aspose.svg.builder/svgbuilderextensions/onmouseleave/

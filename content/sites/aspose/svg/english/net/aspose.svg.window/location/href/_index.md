@@ -1,7 +1,7 @@
 ---
 title: Location.Href
 second_title: Aspose.SVG for .NET API Reference
-description: Location property. Returns the Location objects URL. Can be set to navigate to the given URL
+description: Location Href property. Returns the Location objects URL. Can be set to navigate to the given URL
 type: docs
 weight: 40
 url: /net/aspose.svg.window/location/href/

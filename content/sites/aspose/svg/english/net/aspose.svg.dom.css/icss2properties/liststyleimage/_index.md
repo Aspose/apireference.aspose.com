@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.ListStyleImage
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the list-style-image property definition in CSS2
+description: ICSS2Properties ListStyleImage property. See the list-style-image property definition in CSS2
 type: docs
 weight: 600
 url: /net/aspose.svg.dom.css/icss2properties/liststyleimage/

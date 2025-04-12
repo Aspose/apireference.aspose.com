@@ -1,7 +1,7 @@
 ---
 title: SVGFEComponentTransferElementBuilder.WithFeFuncA
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEComponentTransferElementBuilder method. Configures the feFuncA component transfer function for the alpha channel
+description: SVGFEComponentTransferElementBuilder WithFeFuncA method. Configures the feFuncA component transfer function for the alpha channel
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfecomponenttransferelementbuilder/withfefunca/

@@ -1,7 +1,7 @@
 ---
 title: SVGGraphicsElement.SystemLanguage
 second_title: Aspose.SVG for .NET API Reference
-description: SVGGraphicsElement property. Corresponds to attribute systemLanguage on the given element
+description: SVGGraphicsElement SystemLanguage property. Corresponds to attribute systemLanguage on the given element
 type: docs
 weight: 50
 url: /net/aspose.svg/svggraphicselement/systemlanguage/

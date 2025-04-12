@@ -1,7 +1,7 @@
 ---
 title: SVGFEColorMatrixElement.Height
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEColorMatrixElement property. Corresponds to attribute height on the given filter element
+description: SVGFEColorMatrixElement Height property. Corresponds to attribute height on the given filter element
 type: docs
 weight: 10
 url: /net/aspose.svg.filters/svgfecolormatrixelement/height/

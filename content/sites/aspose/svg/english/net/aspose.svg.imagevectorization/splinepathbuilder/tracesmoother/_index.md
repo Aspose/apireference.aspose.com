@@ -1,7 +1,7 @@
 ---
 title: SplinePathBuilder.TraceSmoother
 second_title: Aspose.SVG for .NET API Reference
-description: SplinePathBuilder property. Gets or sets the trace smoother
+description: SplinePathBuilder TraceSmoother property. Gets or sets the trace smoother
 type: docs
 weight: 40
 url: /net/aspose.svg.imagevectorization/splinepathbuilder/tracesmoother/

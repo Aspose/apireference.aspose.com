@@ -3,7 +3,7 @@ title: WheelEvent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Events.WheelEvent class. The WheelEvent interface provides specific contextual information associated with wheel events. To create an instance of the WheelEvent interface use the WheelEvent constructor passing an optional WheelEventInit dictionary
 type: docs
-weight: 4120
+weight: 3100
 url: /net/aspose.svg.dom.events/wheelevent/
 ---
 ## WheelEvent class
@@ -18,8 +18,8 @@ public class WheelEvent : MouseEvent
 
 | Name | Description |
 | --- | --- |
-| [WheelEvent](wheelevent/#constructor)(string) | Initializes a new instance of the `WheelEvent` class. |
-| [WheelEvent](wheelevent/#constructor_1)(string, IDictionary&lt;string, object&gt;) | Initializes a new instance of the `WheelEvent` class. |
+| [WheelEvent](wheelevent/#constructor)(*string*) | Initializes a new instance of the `WheelEvent` class. |
+| [WheelEvent](wheelevent/#constructor_1)(*string, IDictionary&amp;lt;string, object&amp;gt;*) | Initializes a new instance of the `WheelEvent` class. |
 
 ## Properties
 
@@ -57,7 +57,7 @@ public class WheelEvent : MouseEvent
 | Name | Description |
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
-| [InitEvent](../../aspose.svg.dom.events/event/initevent/)(string, bool, bool) | The [`InitEvent`](../event/initevent/) method is used to initialize the value of an [`Event`](../event/) created through the [`IDocumentEvent`](../idocumentevent/) interface. |
+| [InitEvent](../../aspose.svg.dom.events/event/initevent/)(*string, bool, bool*) | The [`InitEvent`](../event/initevent/) method is used to initialize the value of an [`Event`](../event/) created through the [`IDocumentEvent`](../idocumentevent/) interface. |
 | [PreventDefault](../../aspose.svg.dom.events/event/preventdefault/)() | If an event is cancelable, the [`PreventDefault`](../event/preventdefault/) method is used to signify that the event is to be canceled, meaning any default action normally taken by the implementation as a result of the event will not occur. |
 | [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation/)() | Invoking this method prevents event from reaching any event listeners registered after the current one and when dispatched in a tree also prevents event from reaching any other objects. |
 | [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation/)() | The [`StopPropagation`](../event/stoppropagation/) method is used prevent further propagation of an event during event flow. |

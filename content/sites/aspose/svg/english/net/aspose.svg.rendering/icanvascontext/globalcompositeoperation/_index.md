@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.GlobalCompositeOperation
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the global composite operation
+description: ICanvasContext GlobalCompositeOperation property. Gets or sets the global composite operation
 type: docs
 weight: 80
 url: /net/aspose.svg.rendering/icanvascontext/globalcompositeoperation/

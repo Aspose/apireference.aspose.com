@@ -1,7 +1,7 @@
 ---
 title: TextInfo.GlyphInfos
 second_title: Aspose.SVG for .NET API Reference
-description: TextInfo property. Gets information about rendered glyphs
+description: TextInfo GlyphInfos property. Gets information about rendered glyphs
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/textinfo/glyphinfos/

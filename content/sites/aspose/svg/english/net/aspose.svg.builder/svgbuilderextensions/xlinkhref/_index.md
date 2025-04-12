@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.XlinkHref
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the xlinkhref attribute for an SVG element. This attribute is used to define a reference to a resource as a link
+description: SVGBuilderExtensions XlinkHref method. Sets the xlinkhref attribute for an SVG element. This attribute is used to define a reference to a resource as a link
 type: docs
 weight: 2370
 url: /net/aspose.svg.builder/svgbuilderextensions/xlinkhref/

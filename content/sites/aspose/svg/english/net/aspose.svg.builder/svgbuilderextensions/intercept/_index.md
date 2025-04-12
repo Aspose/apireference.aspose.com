@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Intercept
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the intercept attribute for a component transfer function element
+description: SVGBuilderExtensions Intercept method. Sets the intercept attribute for a component transfer function element
 type: docs
 weight: 1050
 url: /net/aspose.svg.builder/svgbuilderextensions/intercept/

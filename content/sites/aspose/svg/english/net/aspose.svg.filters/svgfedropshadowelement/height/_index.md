@@ -1,7 +1,7 @@
 ---
 title: SVGFEDropShadowElement.Height
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDropShadowElement property. Corresponds to attribute height on the given feDropShadow element
+description: SVGFEDropShadowElement Height property. Corresponds to attribute height on the given feDropShadow element
 type: docs
 weight: 30
 url: /net/aspose.svg.filters/svgfedropshadowelement/height/

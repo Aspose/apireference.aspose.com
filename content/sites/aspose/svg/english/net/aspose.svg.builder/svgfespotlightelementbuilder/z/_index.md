@@ -1,7 +1,7 @@
 ---
 title: SVGFESpotLightElementBuilder.Z
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFESpotLightElementBuilder method. Sets the z attribute representing the z-coordinate of the light source
+description: SVGFESpotLightElementBuilder Z method. Sets the z attribute representing the z-coordinate of the light source
 type: docs
 weight: 90
 url: /net/aspose.svg.builder/svgfespotlightelementbuilder/z/

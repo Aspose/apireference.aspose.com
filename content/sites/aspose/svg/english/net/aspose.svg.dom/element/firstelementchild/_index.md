@@ -1,7 +1,7 @@
 ---
 title: Element.FirstElementChild
 second_title: Aspose.SVG for .NET API Reference
-description: Element property. Returns the first child element node of this element. null if this element has no child elements
+description: Element FirstElementChild property. Returns the first child element node of this element. null if this element has no child elements
 type: docs
 weight: 70
 url: /net/aspose.svg.dom/element/firstelementchild/

@@ -1,7 +1,7 @@
 ---
 title: SVGSymbolElementBuilder.RefX
 second_title: Aspose.SVG for .NET API Reference
-description: SVGSymbolElementBuilder method. Sets the refX attribute of the symbol element defining the x-coordinate of the reference point of the symbol
+description: SVGSymbolElementBuilder RefX method. Sets the refX attribute of the symbol element defining the x-coordinate of the reference point of the symbol
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgsymbolelementbuilder/refx/

@@ -1,7 +1,7 @@
 ---
 title: SVGFEDiffuseLightingElement.Height
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDiffuseLightingElement property. Corresponds to attribute height on the given filter element
+description: SVGFEDiffuseLightingElement Height property. Corresponds to attribute height on the given filter element
 type: docs
 weight: 20
 url: /net/aspose.svg.filters/svgfediffuselightingelement/height/

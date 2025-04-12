@@ -1,7 +1,7 @@
 ---
 title: ICSSCounterStyleRule.CounterType
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSCounterStyleRule property. Gets the type of the counter
+description: ICSSCounterStyleRule CounterType property. Gets the type of the counter
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/icsscounterstylerule/countertype/

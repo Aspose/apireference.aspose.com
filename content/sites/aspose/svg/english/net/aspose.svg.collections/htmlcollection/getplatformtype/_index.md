@@ -1,9 +1,9 @@
 ---
 title: HTMLCollection.GetPlatformType
 second_title: Aspose.SVG for .NET API Reference
-description: HTMLCollection method. This method is used to retrieve ECMAScript object Type
+description: HTMLCollection GetPlatformType method. This method is used to retrieve ECMAScript object Type
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.svg.collections/htmlcollection/getplatformtype/
 ---
 ## HTMLCollection.GetPlatformType method

@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.MarginBottom
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the margin-bottom property definition in CSS2
+description: ICSS2Properties MarginBottom property. See the margin-bottom property definition in CSS2
 type: docs
 weight: 640
 url: /net/aspose.svg.dom.css/icss2properties/marginbottom/

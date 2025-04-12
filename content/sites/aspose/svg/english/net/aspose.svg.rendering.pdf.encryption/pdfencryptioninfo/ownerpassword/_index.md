@@ -1,7 +1,7 @@
 ---
 title: PdfEncryptionInfo.OwnerPassword
 second_title: Aspose.SVG for .NET API Reference
-description: PdfEncryptionInfo property. Gets or sets the Owner password
+description: PdfEncryptionInfo OwnerPassword property. Gets or sets the Owner password
 type: docs
 weight: 30
 url: /net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/ownerpassword/

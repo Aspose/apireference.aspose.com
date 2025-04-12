@@ -3,7 +3,7 @@ title: ISvgPaintServer Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Styles.PaintServers.ISvgPaintServer interface. Represents a paint server used in SVG rendering
 type: docs
-weight: 4540
+weight: 5370
 url: /net/aspose.svg.rendering.styles.paintservers/isvgpaintserver/
 ---
 ## ISvgPaintServer interface
@@ -24,7 +24,7 @@ public interface ISvgPaintServer
 
 | Name | Description |
 | --- | --- |
-| [ResolveBrush](../../aspose.svg.rendering.styles.paintservers/isvgpaintserver/resolvebrush/)(ISVGDeviceContext, ISVGPropertyResolvingContext, float, CancellationToken) | Resolves the brush for the paint server. |
+| [ResolveBrush](../../aspose.svg.rendering.styles.paintservers/isvgpaintserver/resolvebrush/)(*[ISVGDeviceContext](../../aspose.svg.rendering/isvgdevicecontext/), [ISVGPropertyResolvingContext](../../aspose.svg.rendering.styles/isvgpropertyresolvingcontext/), float, CancellationToken*) | Resolves the brush for the paint server. |
 
 ### See Also
 

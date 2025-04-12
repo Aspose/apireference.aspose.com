@@ -1,7 +1,7 @@
 ---
 title: SVGMarkerElementBuilder.MarkerHeight
 second_title: Aspose.SVG for .NET API Reference
-description: SVGMarkerElementBuilder method. Sets the markerHeight attribute of the SVG marker element specifying the height of the markers viewport
+description: SVGMarkerElementBuilder MarkerHeight method. Sets the markerHeight attribute of the SVG marker element specifying the height of the markers viewport
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgmarkerelementbuilder/markerheight/

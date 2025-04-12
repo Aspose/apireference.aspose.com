@@ -1,7 +1,7 @@
 ---
 title: SVGTextPathElementBuilder.Side
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTextPathElementBuilder method. Sets the side attribute specifying which side of the path the text is placed on
+description: SVGTextPathElementBuilder Side method. Sets the side attribute specifying which side of the path the text is placed on
 type: docs
 weight: 80
 url: /net/aspose.svg.builder/svgtextpathelementbuilder/side/

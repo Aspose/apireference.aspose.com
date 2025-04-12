@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.FontSize
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the font size
+description: ICanvasContext FontSize property. Gets or sets the font size
 type: docs
 weight: 40
 url: /net/aspose.svg.rendering/icanvascontext/fontsize/

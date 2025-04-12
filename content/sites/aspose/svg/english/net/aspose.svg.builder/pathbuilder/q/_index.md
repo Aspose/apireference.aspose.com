@@ -1,7 +1,7 @@
 ---
 title: PathBuilder.Q
 second_title: Aspose.SVG for .NET API Reference
-description: PathBuilder method. Adds a Quadratic Bezier Curve command to the path data
+description: PathBuilder Q method. Adds a Quadratic Bezier Curve command to the path data
 type: docs
 weight: 140
 url: /net/aspose.svg.builder/pathbuilder/q/

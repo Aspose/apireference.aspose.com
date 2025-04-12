@@ -1,12 +1,12 @@
 ---
 title: SVGFECompositeElementBuilder.In2
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFECompositeElementBuilder method. Sets the in2 attribute of the feComposite element
+description: SVGFECompositeElementBuilder In2 method. Sets the in2 attribute of the feComposite element
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfecompositeelementbuilder/in2/
 ---
-## In2(string) {#in2_1}
+## In2(*string*) {#in2_1}
 
 Sets the 'in2' attribute of the feComposite element.
 
@@ -30,7 +30,7 @@ The current builder instance.
 
 ---
 
-## In2(FilterInput) {#in2}
+## In2(*[FilterInput](../../filterinput/)*) {#in2}
 
 Sets the 'in2' attribute of the feComposite element using a FilterInput.
 

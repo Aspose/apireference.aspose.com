@@ -1,7 +1,7 @@
 ---
 title: Document.OnDurationChange
 second_title: Aspose.SVG for .NET API Reference
-description: Document event. Gets or sets event handler for OnDurationChange event
+description: Document OnDurationChange event. Gets or sets event handler for OnDurationChange event
 type: docs
 weight: 370
 url: /net/aspose.svg.dom/document/ondurationchange/

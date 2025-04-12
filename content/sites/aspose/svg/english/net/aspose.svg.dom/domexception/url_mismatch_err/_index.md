@@ -1,7 +1,7 @@
 ---
 title: DOMException.URL_MISMATCH_ERR
 second_title: Aspose.SVG for .NET API Reference
-description: DOMException field. The given URL does not match another URL
+description: DOMException URL_MISMATCH_ERR field. The given URL does not match another URL
 type: docs
 weight: 290
 url: /net/aspose.svg.dom/domexception/url_mismatch_err/

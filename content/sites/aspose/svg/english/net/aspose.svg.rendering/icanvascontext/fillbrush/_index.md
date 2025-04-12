@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.FillBrush
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the fill brush. See IBrush
+description: ICanvasContext FillBrush property. Gets or sets the fill brush. See IBrush
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering/icanvascontext/fillbrush/

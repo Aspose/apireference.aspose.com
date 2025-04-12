@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.ShapeRendering
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the shape-rendering attribute for an SVG element influencing the rendering of shapes
+description: SVGBuilderExtensions ShapeRendering method. Sets the shape-rendering attribute for an SVG element influencing the rendering of shapes
 type: docs
 weight: 2030
 url: /net/aspose.svg.builder/svgbuilderextensions/shaperendering/

@@ -1,7 +1,7 @@
 ---
 title: IResolvedStyleDeclaration.Display
 second_title: Aspose.SVG for .NET API Reference
-description: IResolvedStyleDeclaration property. Gets the display behavior of an element
+description: IResolvedStyleDeclaration Display property. Gets the display behavior of an element
 type: docs
 weight: 60
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/display/

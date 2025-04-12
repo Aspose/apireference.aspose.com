@@ -1,7 +1,7 @@
 ---
 title: SVGStyleElementBuilder.Title
 second_title: Aspose.SVG for .NET API Reference
-description: SVGStyleElementBuilder method. Sets the title attribute of the SVG style element. This attribute provides an advisory title for the style element which can be useful for accessibility and tool-tip text
+description: SVGStyleElementBuilder Title method. Sets the title attribute of the SVG style element. This attribute provides an advisory title for the style element which can be useful for accessibility and tool-tip text
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/svgstyleelementbuilder/title/

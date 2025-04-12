@@ -1,7 +1,7 @@
 ---
 title: ICanvas.FillRect
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Fills the specified rectangular area with the current fill style
+description: ICanvas FillRect method. Fills the specified rectangular area with the current fill style
 type: docs
 weight: 120
 url: /net/aspose.svg.rendering/icanvas/fillrect/

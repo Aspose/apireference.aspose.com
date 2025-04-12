@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.StrokeLineJoin
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the stroke-linejoin attribute for an SVG element defining the shape used to join two line segments where they meet
+description: SVGBuilderExtensions StrokeLineJoin method. Sets the stroke-linejoin attribute for an SVG element defining the shape used to join two line segments where they meet
 type: docs
 weight: 2120
 url: /net/aspose.svg.builder/svgbuilderextensions/strokelinejoin/

@@ -1,7 +1,7 @@
 ---
 title: SVGUseElementBuilder.Href
 second_title: Aspose.SVG for .NET API Reference
-description: SVGUseElementBuilder method. Sets the href attribute of the use element specifying the URL of the element to be reused
+description: SVGUseElementBuilder Href method. Sets the href attribute of the use element specifying the URL of the element to be reused
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svguseelementbuilder/href/

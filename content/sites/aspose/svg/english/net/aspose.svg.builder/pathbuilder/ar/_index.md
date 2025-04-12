@@ -1,7 +1,7 @@
 ---
 title: PathBuilder.Ar
 second_title: Aspose.SVG for .NET API Reference
-description: PathBuilder method. Adds a relative Elliptical Arc Curve command to the path data
+description: PathBuilder Ar method. Adds a relative Elliptical Arc Curve command to the path data
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/pathbuilder/ar/

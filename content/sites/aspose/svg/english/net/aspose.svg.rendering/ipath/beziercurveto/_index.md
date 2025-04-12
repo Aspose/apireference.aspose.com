@@ -1,7 +1,7 @@
 ---
 title: IPath.BezierCurveTo
 second_title: Aspose.SVG for .NET API Reference
-description: IPath method. Adds a cubic Bézier curve segment to the path
+description: IPath BezierCurveTo method. Adds a cubic Bézier curve segment to the path
 type: docs
 weight: 70
 url: /net/aspose.svg.rendering/ipath/beziercurveto/

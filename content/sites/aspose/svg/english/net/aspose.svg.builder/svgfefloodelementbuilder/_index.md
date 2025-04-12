@@ -3,7 +3,7 @@ title: SVGFEFloodElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEFloodElementBuilder class. Builder class for creating SVG feFlood elements used within SVG filters to create a flood of color
 type: docs
-weight: 870
+weight: 1280
 url: /net/aspose.svg.builder/svgfefloodelementbuilder/
 ---
 ## SVGFEFloodElementBuilder class
@@ -32,11 +32,11 @@ public class SVGFEFloodElementBuilder : SVGElementBuilder<SVGFEFloodElement>,
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfefloodelementbuilder/addscript/)(Action&lt;SVGScriptElementBuilder&gt;) | Adds a script configuration to the feFlood element. |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGFEFloodElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
+| [AddScript](../../aspose.svg.builder/svgfefloodelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feFlood element. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEFloodElement](../../aspose.svg.filters/svgfefloodelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 
 ### See Also
 

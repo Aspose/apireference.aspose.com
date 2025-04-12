@@ -1,7 +1,7 @@
 ---
 title: SVGRadialGradientElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRadialGradientElementBuilder method. Adds a script configuration to the SVG radialGradient element
+description: SVGRadialGradientElementBuilder AddScript method. Adds a script configuration to the SVG radialGradient element
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgradialgradientelementbuilder/addscript/

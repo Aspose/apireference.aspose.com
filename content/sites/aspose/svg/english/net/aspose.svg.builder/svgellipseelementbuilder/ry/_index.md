@@ -1,7 +1,7 @@
 ---
 title: SVGEllipseElementBuilder.Ry
 second_title: Aspose.SVG for .NET API Reference
-description: SVGEllipseElementBuilder method. Sets the ry attribute of the SVG ellipse element specifying the vertical radius of the ellipse
+description: SVGEllipseElementBuilder Ry method. Sets the ry attribute of the SVG ellipse element specifying the vertical radius of the ellipse
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgellipseelementbuilder/ry/

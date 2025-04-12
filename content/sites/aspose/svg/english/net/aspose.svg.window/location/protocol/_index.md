@@ -1,7 +1,7 @@
 ---
 title: Location.Protocol
 second_title: Aspose.SVG for .NET API Reference
-description: Location property. Returns the Location objects URLs scheme. Can be set to navigate to the same URL with a changed scheme
+description: Location Protocol property. Returns the Location objects URLs scheme. Can be set to navigate to the same URL with a changed scheme
 type: docs
 weight: 80
 url: /net/aspose.svg.window/location/protocol/

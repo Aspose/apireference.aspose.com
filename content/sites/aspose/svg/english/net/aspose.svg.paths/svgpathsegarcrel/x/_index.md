@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegArcRel.X
 second_title: Aspose.SVG for .NET API Reference
-description: SVGPathSegArcRel property. The relative X coordinate for the end point of this path segment
+description: SVGPathSegArcRel X property. The relative X coordinate for the end point of this path segment
 type: docs
 weight: 60
 url: /net/aspose.svg.paths/svgpathsegarcrel/x/

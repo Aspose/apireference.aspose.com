@@ -1,7 +1,7 @@
 ---
 title: IResolvedStyleDeclaration.Height
 second_title: Aspose.SVG for .NET API Reference
-description: IResolvedStyleDeclaration property. Gets the height value
+description: IResolvedStyleDeclaration Height property. Gets the height value
 type: docs
 weight: 110
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/height/

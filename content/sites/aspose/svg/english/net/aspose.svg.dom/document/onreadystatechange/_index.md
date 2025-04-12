@@ -1,7 +1,7 @@
 ---
 title: Document.OnReadyStateChange
 second_title: Aspose.SVG for .NET API Reference
-description: Document event. Gets or sets event handler for OnReadyStateChange event
+description: Document OnReadyStateChange event. Gets or sets event handler for OnReadyStateChange event
 type: docs
 weight: 640
 url: /net/aspose.svg.dom/document/onreadystatechange/

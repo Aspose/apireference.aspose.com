@@ -1,7 +1,7 @@
 ---
 title: ICSSPageRule.Style
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSPageRule property. The declaration-block of this rule
+description: ICSSPageRule Style property. The declaration-block of this rule
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.css/icsspagerule/style/

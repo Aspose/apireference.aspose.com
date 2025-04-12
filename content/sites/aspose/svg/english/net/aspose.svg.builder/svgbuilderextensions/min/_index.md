@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.Min
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the min attribute specifying the minimum duration of the animation
+description: SVGBuilderExtensions Min method. Sets the min attribute specifying the minimum duration of the animation
 type: docs
 weight: 1170
 url: /net/aspose.svg.builder/svgbuilderextensions/min/
 ---
-## Min&lt;TBuilder&gt;(this TBuilder, TimeSpan) {#min_1}
+## Min&lt;TBuilder&gt;(*this TBuilder, TimeSpan*) {#min_1}
 
 Sets the 'min' attribute, specifying the minimum duration of the animation.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## Min&lt;TBuilder&gt;(this TBuilder, Media) {#min}
+## Min&lt;TBuilder&gt;(*this TBuilder, [Media](../../media/)*) {#min}
 
 Sets the 'min' attribute, specifying the minimum duration condition for the animation based on media.
 

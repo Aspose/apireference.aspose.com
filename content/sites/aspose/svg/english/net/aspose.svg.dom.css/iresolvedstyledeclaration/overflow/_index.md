@@ -1,7 +1,7 @@
 ---
 title: IResolvedStyleDeclaration.Overflow
 second_title: Aspose.SVG for .NET API Reference
-description: IResolvedStyleDeclaration property. Gets the overflow behavior of an element
+description: IResolvedStyleDeclaration Overflow property. Gets the overflow behavior of an element
 type: docs
 weight: 170
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/overflow/

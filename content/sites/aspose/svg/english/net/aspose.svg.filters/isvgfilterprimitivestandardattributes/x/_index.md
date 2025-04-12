@@ -1,7 +1,7 @@
 ---
 title: ISVGFilterPrimitiveStandardAttributes.X
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGFilterPrimitiveStandardAttributes property. Corresponds to attribute x on the given filter element
+description: ISVGFilterPrimitiveStandardAttributes X property. Corresponds to attribute x on the given filter element
 type: docs
 weight: 40
 url: /net/aspose.svg.filters/isvgfilterprimitivestandardattributes/x/

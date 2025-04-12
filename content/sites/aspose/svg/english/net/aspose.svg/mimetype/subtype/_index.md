@@ -1,7 +1,7 @@
 ---
 title: MimeType.SubType
 second_title: Aspose.SVG for .NET API Reference
-description: MimeType property. Gets the sub media type
+description: MimeType SubType property. Gets the sub media type
 type: docs
 weight: 30
 url: /net/aspose.svg/mimetype/subtype/

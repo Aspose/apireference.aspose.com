@@ -1,7 +1,7 @@
 ---
 title: Time.op_GreaterThanOrEqual
 second_title: Aspose.SVG for .NET API Reference
-description: Time method. Implements the operator 
+description: Time op_GreaterThanOrEqual method. Implements the operator 
 type: docs
 weight: 40
 url: /net/aspose.svg.drawing/time/op_greaterthanorequal/

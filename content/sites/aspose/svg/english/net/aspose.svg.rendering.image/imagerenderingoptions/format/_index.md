@@ -1,7 +1,7 @@
 ---
 title: ImageRenderingOptions.Format
 second_title: Aspose.SVG for .NET API Reference
-description: ImageRenderingOptions property. Sets or gets ImageFormat. By default this property is Png
+description: ImageRenderingOptions Format property. Sets or gets ImageFormat. By default this property is Png
 type: docs
 weight: 30
 url: /net/aspose.svg.rendering.image/imagerenderingoptions/format/

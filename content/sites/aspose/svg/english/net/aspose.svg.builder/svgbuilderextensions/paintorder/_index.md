@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.PaintOrder
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the paint-order attribute for an SVG element determining the order of painting fill stroke and markers
+description: SVGBuilderExtensions PaintOrder method. Sets the paint-order attribute for an SVG element determining the order of painting fill stroke and markers
 type: docs
 weight: 1880
 url: /net/aspose.svg.builder/svgbuilderextensions/paintorder/

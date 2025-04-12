@@ -1,7 +1,7 @@
 ---
 title: ISvgPaintServer.PaintServerType
 second_title: Aspose.SVG for .NET API Reference
-description: ISvgPaintServer property. Gets the type of the paint server SvgPaintServerType
+description: ISvgPaintServer PaintServerType property. Gets the type of the paint server SvgPaintServerType
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering.styles.paintservers/isvgpaintserver/paintservertype/

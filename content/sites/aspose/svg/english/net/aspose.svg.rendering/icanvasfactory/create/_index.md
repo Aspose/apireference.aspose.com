@@ -1,7 +1,7 @@
 ---
 title: ICanvasFactory.Create
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasFactory method. Creates a new canvas with the specified width and height
+description: ICanvasFactory Create method. Creates a new canvas with the specified width and height
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/icanvasfactory/create/

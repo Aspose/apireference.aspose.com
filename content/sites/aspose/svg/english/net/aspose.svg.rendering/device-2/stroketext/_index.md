@@ -1,9 +1,9 @@
 ---
 title: Device-2.StrokeText
 second_title: Aspose.SVG for .NET API Reference
-description: Device method. Strokes the specified text string at the specified location
+description: Device StrokeText method. Strokes the specified text string at the specified location
 type: docs
-weight: 240
+weight: 270
 url: /net/aspose.svg.rendering/device-2/stroketext/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeText method

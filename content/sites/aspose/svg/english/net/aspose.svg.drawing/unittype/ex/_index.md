@@ -1,7 +1,7 @@
 ---
 title: UnitType.Ex
 second_title: Aspose.SVG for .NET API Reference
-description: UnitType field. Measurement is relative to the height of the lowercase letter x of the parent elements font
+description: UnitType Ex field. Measurement is relative to the height of the lowercase letter x of the parent elements font
 type: docs
 weight: 90
 url: /net/aspose.svg.drawing/unittype/ex/

@@ -1,7 +1,7 @@
 ---
 title: MediaQueryList.AddListener
 second_title: Aspose.SVG for .NET API Reference
-description: MediaQueryList method. Add MediaQueryList matches state change event listener
+description: MediaQueryList AddListener method. Add MediaQueryList matches state change event listener
 type: docs
 weight: 50
 url: /net/aspose.svg.window/mediaquerylist/addlistener/

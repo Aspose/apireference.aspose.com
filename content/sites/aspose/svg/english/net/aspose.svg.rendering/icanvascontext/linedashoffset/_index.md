@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.LineDashOffset
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the line dash offset
+description: ICanvasContext LineDashOffset property. Gets or sets the line dash offset
 type: docs
 weight: 120
 url: /net/aspose.svg.rendering/icanvascontext/linedashoffset/

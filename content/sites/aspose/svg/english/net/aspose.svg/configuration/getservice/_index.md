@@ -1,12 +1,12 @@
 ---
 title: Configuration.GetService
 second_title: Aspose.SVG for .NET API Reference
-description: Configuration method. Gets the requested service
+description: Configuration GetService method. Gets the requested service
 type: docs
 weight: 50
 url: /net/aspose.svg/configuration/getservice/
 ---
-## GetService(Type) {#getservice}
+## GetService(*Type*) {#getservice}
 
 Gets the requested service.
 

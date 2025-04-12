@@ -1,7 +1,7 @@
 ---
 title: Node.FirstChild
 second_title: Aspose.SVG for .NET API Reference
-description: Node property. The first child of this node. If there is no such node this returns null
+description: Node FirstChild property. The first child of this node. If there is no such node this returns null
 type: docs
 weight: 30
 url: /net/aspose.svg.dom/node/firstchild/

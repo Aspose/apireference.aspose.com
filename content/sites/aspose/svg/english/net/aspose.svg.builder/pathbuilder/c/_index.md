@@ -1,7 +1,7 @@
 ---
 title: PathBuilder.C
 second_title: Aspose.SVG for .NET API Reference
-description: PathBuilder method. Adds a Cubic Bezier Curve command to the path data
+description: PathBuilder C method. Adds a Cubic Bezier Curve command to the path data
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/pathbuilder/c/

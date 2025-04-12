@@ -1,7 +1,7 @@
 ---
 title: IPath.Rect
 second_title: Aspose.SVG for .NET API Reference
-description: IPath method. Adds a rectangle to the path
+description: IPath Rect method. Adds a rectangle to the path
 type: docs
 weight: 140
 url: /net/aspose.svg.rendering/ipath/rect/

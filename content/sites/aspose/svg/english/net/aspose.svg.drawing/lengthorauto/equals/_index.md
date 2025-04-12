@@ -1,7 +1,7 @@
 ---
 title: LengthOrAuto.Equals
 second_title: Aspose.SVG for .NET API Reference
-description: LengthOrAuto method. Determines whether the specified Unit is equal to this instance
+description: LengthOrAuto Equals method. Determines whether the specified Unit is equal to this instance
 type: docs
 weight: 50
 url: /net/aspose.svg.drawing/lengthorauto/equals/

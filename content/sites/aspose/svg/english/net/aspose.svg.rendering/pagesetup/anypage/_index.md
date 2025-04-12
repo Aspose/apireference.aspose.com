@@ -1,7 +1,7 @@
 ---
 title: PageSetup.AnyPage
 second_title: Aspose.SVG for .NET API Reference
-description: PageSetup property. Gets or sets all pages configuration in the the page-sequence
+description: PageSetup AnyPage property. Gets or sets all pages configuration in the the page-sequence
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/pagesetup/anypage/

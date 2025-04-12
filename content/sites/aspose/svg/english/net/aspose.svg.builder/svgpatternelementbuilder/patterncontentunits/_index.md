@@ -1,7 +1,7 @@
 ---
 title: SVGPatternElementBuilder.PatternContentUnits
 second_title: Aspose.SVG for .NET API Reference
-description: SVGPatternElementBuilder method. Sets the patternContentUnits attribute of the SVG pattern element specifying the coordinate system for the contents of the pattern
+description: SVGPatternElementBuilder PatternContentUnits method. Sets the patternContentUnits attribute of the SVG pattern element specifying the coordinate system for the contents of the pattern
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgpatternelementbuilder/patterncontentunits/

@@ -1,7 +1,7 @@
 ---
 title: ICodec.VerticalResolution
 second_title: Aspose.SVG for .NET API Reference
-description: ICodec property. Gets the vertical resolution of the image
+description: ICodec VerticalResolution property. Gets the vertical resolution of the image
 type: docs
 weight: 40
 url: /net/aspose.svg.drawing/icodec/verticalresolution/

@@ -1,7 +1,7 @@
 ---
 title: RuleBuilder.Attribute
 second_title: Aspose.SVG for .NET API Reference
-description: RuleBuilder method. Sets or updates a style attribute with a specified value
+description: RuleBuilder Attribute method. Sets or updates a style attribute with a specified value
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/rulebuilder/attribute/

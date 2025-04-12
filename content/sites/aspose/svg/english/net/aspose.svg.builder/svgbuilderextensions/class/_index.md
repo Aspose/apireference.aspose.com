@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Class
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the class attribute assigning one or more class names to the SVG element
+description: SVGBuilderExtensions Class method. Sets the class attribute assigning one or more class names to the SVG element
 type: docs
 weight: 640
 url: /net/aspose.svg.builder/svgbuilderextensions/class/

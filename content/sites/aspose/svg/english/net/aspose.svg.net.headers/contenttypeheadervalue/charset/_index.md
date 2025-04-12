@@ -1,7 +1,7 @@
 ---
 title: ContentTypeHeaderValue.CharSet
 second_title: Aspose.SVG for .NET API Reference
-description: ContentTypeHeaderValue property. Gets or sets the character-set for content
+description: ContentTypeHeaderValue CharSet property. Gets or sets the character-set for content
 type: docs
 weight: 10
 url: /net/aspose.svg.net.headers/contenttypeheadervalue/charset/

@@ -1,7 +1,7 @@
 ---
 title: IPath.MoveTo
 second_title: Aspose.SVG for .NET API Reference
-description: IPath method. Moves the current point to the specified coordinates
+description: IPath MoveTo method. Moves the current point to the specified coordinates
 type: docs
 weight: 120
 url: /net/aspose.svg.rendering/ipath/moveto/

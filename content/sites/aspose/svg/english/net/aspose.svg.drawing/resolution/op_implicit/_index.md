@@ -1,7 +1,7 @@
 ---
 title: Resolution.op_Implicit
 second_title: Aspose.SVG for .NET API Reference
-description: Resolution method. Performs an implicit conversion from Double to Resolution
+description: Resolution op_Implicit method. Performs an implicit conversion from Double to Resolution
 type: docs
 weight: 50
 url: /net/aspose.svg.drawing/resolution/op_implicit/

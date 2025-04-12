@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElementBuilder.PreserveAlpha
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEConvolveMatrixElementBuilder method. Sets the preserveAlpha attribute of the feConvolveMatrix element
+description: SVGFEConvolveMatrixElementBuilder PreserveAlpha method. Sets the preserveAlpha attribute of the feConvolveMatrix element
 type: docs
 weight: 90
 url: /net/aspose.svg.builder/svgfeconvolvematrixelementbuilder/preservealpha/

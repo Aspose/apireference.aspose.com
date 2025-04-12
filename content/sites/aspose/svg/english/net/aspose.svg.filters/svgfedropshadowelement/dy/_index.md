@@ -1,7 +1,7 @@
 ---
 title: SVGFEDropShadowElement.Dy
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDropShadowElement property. Corresponds to attribute dy on the given feDropShadow element
+description: SVGFEDropShadowElement Dy property. Corresponds to attribute dy on the given feDropShadow element
 type: docs
 weight: 20
 url: /net/aspose.svg.filters/svgfedropshadowelement/dy/

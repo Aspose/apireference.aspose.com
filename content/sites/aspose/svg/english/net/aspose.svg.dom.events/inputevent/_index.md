@@ -3,7 +3,7 @@ title: InputEvent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Events.InputEvent class. Input events are sent as notifications whenever the DOM is being updated
 type: docs
-weight: 4080
+weight: 3060
 url: /net/aspose.svg.dom.events/inputevent/
 ---
 ## InputEvent class
@@ -18,8 +18,8 @@ public class InputEvent : UIEvent
 
 | Name | Description |
 | --- | --- |
-| [InputEvent](inputevent/#constructor)(string) | Initializes a new instance of the `InputEvent` class. |
-| [InputEvent](inputevent/#constructor_1)(string, IDictionary&lt;string, object&gt;) | Initializes a new instance of the `InputEvent` class. |
+| [InputEvent](inputevent/#constructor)(*string*) | Initializes a new instance of the `InputEvent` class. |
+| [InputEvent](inputevent/#constructor_1)(*string, IDictionary&amp;lt;string, object&amp;gt;*) | Initializes a new instance of the `InputEvent` class. |
 
 ## Properties
 
@@ -44,7 +44,7 @@ public class InputEvent : UIEvent
 | Name | Description |
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
-| [InitEvent](../../aspose.svg.dom.events/event/initevent/)(string, bool, bool) | The [`InitEvent`](../event/initevent/) method is used to initialize the value of an [`Event`](../event/) created through the [`IDocumentEvent`](../idocumentevent/) interface. |
+| [InitEvent](../../aspose.svg.dom.events/event/initevent/)(*string, bool, bool*) | The [`InitEvent`](../event/initevent/) method is used to initialize the value of an [`Event`](../event/) created through the [`IDocumentEvent`](../idocumentevent/) interface. |
 | [PreventDefault](../../aspose.svg.dom.events/event/preventdefault/)() | If an event is cancelable, the [`PreventDefault`](../event/preventdefault/) method is used to signify that the event is to be canceled, meaning any default action normally taken by the implementation as a result of the event will not occur. |
 | [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation/)() | Invoking this method prevents event from reaching any event listeners registered after the current one and when dispatched in a tree also prevents event from reaching any other objects. |
 | [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation/)() | The [`StopPropagation`](../event/stoppropagation/) method is used prevent further propagation of an event during event flow. |

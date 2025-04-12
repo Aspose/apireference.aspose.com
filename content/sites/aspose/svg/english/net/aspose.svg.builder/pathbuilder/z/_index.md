@@ -1,7 +1,7 @@
 ---
 title: PathBuilder.Z
 second_title: Aspose.SVG for .NET API Reference
-description: PathBuilder method. Adds a Close Path command to the path data
+description: PathBuilder Z method. Adds a Close Path command to the path data
 type: docs
 weight: 220
 url: /net/aspose.svg.builder/pathbuilder/z/

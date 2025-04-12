@@ -1,7 +1,7 @@
 ---
 title: IPixelsMap.HasTransparentPixels
 second_title: Aspose.SVG for .NET API Reference
-description: IPixelsMap property. Gets a value indicating whether the pixel map has transparent pixels
+description: IPixelsMap HasTransparentPixels property. Gets a value indicating whether the pixel map has transparent pixels
 type: docs
 weight: 50
 url: /net/aspose.svg.drawing/ipixelsmap/hastransparentpixels/

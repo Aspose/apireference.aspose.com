@@ -3,7 +3,7 @@ title: ISVGPropertyResolvingContext Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Styles.ISVGPropertyResolvingContext interface. Represents a context for resolving SVG properties extending the percent resolving context and property context
 type: docs
-weight: 4530
+weight: 5360
 url: /net/aspose.svg.rendering.styles/isvgpropertyresolvingcontext/
 ---
 ## ISVGPropertyResolvingContext interface
@@ -34,10 +34,10 @@ public interface ISVGPropertyResolvingContext : IPercentResolvingContext
 
 | Name | Description |
 | --- | --- |
-| [GetAbsoluteBoundingBox](../../aspose.svg.rendering.styles/isvgpropertyresolvingcontext/getabsoluteboundingbox/)(bool) | Gets the absolute bounding box of the element, optionally ignoring element transformations. |
+| [GetAbsoluteBoundingBox](../../aspose.svg.rendering.styles/isvgpropertyresolvingcontext/getabsoluteboundingbox/)(*bool*) | Gets the absolute bounding box of the element, optionally ignoring element transformations. |
 | [GetBoundingBox](../../aspose.svg.rendering.styles/isvgpropertyresolvingcontext/getboundingbox/)() | Gets the bounding box of the element. |
 | [GetStrokeBoundingBox](../../aspose.svg.rendering.styles/isvgpropertyresolvingcontext/getstrokeboundingbox/)() | Gets the bounding box of the element's stroke. |
-| [TryGetHrefAsByteArray](../../aspose.svg.rendering.styles/isvgpropertyresolvingcontext/trygethrefasbytearray/)(Url, Size, out byte[], out WebImageFormat, CancellationToken) | Tries to get the HREF as a byte array, with the specified size, format, and cancellation token. |
+| [TryGetHrefAsByteArray](../../aspose.svg.rendering.styles/isvgpropertyresolvingcontext/trygethrefasbytearray/)(*[Url](../../aspose.svg/url/), [Size](../../aspose.svg.drawing/size/), out byte[], out WebImageFormat, CancellationToken*) | Tries to get the HREF as a byte array, with the specified size, format, and cancellation token. |
 
 ### See Also
 

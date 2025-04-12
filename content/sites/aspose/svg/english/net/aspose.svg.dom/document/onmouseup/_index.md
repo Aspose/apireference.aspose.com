@@ -1,7 +1,7 @@
 ---
 title: Document.OnMouseUp
 second_title: Aspose.SVG for .NET API Reference
-description: Document event. Gets or sets event handler for OnMouseUp event
+description: Document OnMouseUp event. Gets or sets event handler for OnMouseUp event
 type: docs
 weight: 570
 url: /net/aspose.svg.dom/document/onmouseup/

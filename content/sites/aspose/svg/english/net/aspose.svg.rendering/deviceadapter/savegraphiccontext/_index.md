@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.SaveGraphicContext
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter method. Pushes a copy of the entire graphics context onto the stack
+description: DeviceAdapter SaveGraphicContext method. Pushes a copy of the entire graphics context onto the stack
 type: docs
 weight: 230
 url: /net/aspose.svg.rendering/deviceadapter/savegraphiccontext/

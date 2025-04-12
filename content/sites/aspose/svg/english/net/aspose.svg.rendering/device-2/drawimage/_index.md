@@ -1,9 +1,9 @@
 ---
 title: Device-2.DrawImage
 second_title: Aspose.SVG for .NET API Reference
-description: Device method. Draws the specified image
+description: Device DrawImage method. Draws the specified image
 type: docs
-weight: 110
+weight: 140
 url: /net/aspose.svg.rendering/device-2/drawimage/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.DrawImage method

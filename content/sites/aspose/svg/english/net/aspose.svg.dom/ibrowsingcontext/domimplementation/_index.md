@@ -1,7 +1,7 @@
 ---
 title: IBrowsingContext.DOMImplementation
 second_title: Aspose.SVG for .NET API Reference
-description: IBrowsingContext property. Gets the DOM implementation
+description: IBrowsingContext DOMImplementation property. Gets the DOM implementation
 type: docs
 weight: 20
 url: /net/aspose.svg.dom/ibrowsingcontext/domimplementation/

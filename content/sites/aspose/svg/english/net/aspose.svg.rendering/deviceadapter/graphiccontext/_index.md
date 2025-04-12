@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.GraphicContext
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter property. Gets the graphic context
+description: DeviceAdapter GraphicContext property. Gets the graphic context
 type: docs
 weight: 30
 url: /net/aspose.svg.rendering/deviceadapter/graphiccontext/

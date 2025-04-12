@@ -3,7 +3,7 @@ title: Page Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.Page class. Represents a page object is used for configuration output page. The lacuna value for page size is A4210x297mm
 type: docs
-weight: 3400
+weight: 3720
 url: /net/aspose.svg.drawing/page/
 ---
 ## Page class
@@ -19,9 +19,9 @@ public class Page
 | Name | Description |
 | --- | --- |
 | [Page](page/#constructor)() | Initializes a new instance of the `Page` class. |
-| [Page](page/#constructor_1)(Margin) | Initializes a new instance of the `Page` class. |
-| [Page](page/#constructor_2)(Size) | Initializes a new instance of the `Page` class. |
-| [Page](page/#constructor_3)(Size, Margin) | Initializes a new instance of the `Page` class. |
+| [Page](page/#constructor_1)(*[Margin](../margin/)*) | Initializes a new instance of the `Page` class. |
+| [Page](page/#constructor_2)(*[Size](../size/)*) | Initializes a new instance of the `Page` class. |
+| [Page](page/#constructor_3)(*[Size](../size/), [Margin](../margin/)*) | Initializes a new instance of the `Page` class. |
 
 ## Properties
 

@@ -1,7 +1,7 @@
 ---
 title: IPath.FillMode
 second_title: Aspose.SVG for .NET API Reference
-description: IPath property. Gets or sets the fill rule for the path. See FillRule
+description: IPath FillMode property. Gets or sets the fill rule for the path. See FillRule
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/ipath/fillmode/

@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.ImageSmoothingEnabled
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets a value indicating whether image smoothing is enabled
+description: ICanvasContext ImageSmoothingEnabled property. Gets or sets a value indicating whether image smoothing is enabled
 type: docs
 weight: 90
 url: /net/aspose.svg.rendering/icanvascontext/imagesmoothingenabled/

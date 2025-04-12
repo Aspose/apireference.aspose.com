@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.SpreadMethod
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the spreadMethod attribute for a gradient element
+description: SVGBuilderExtensions SpreadMethod method. Sets the spreadMethod attribute for a gradient element
 type: docs
 weight: 2050
 url: /net/aspose.svg.builder/svgbuilderextensions/spreadmethod/

@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElement.Y
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEConvolveMatrixElement property. Corresponds to attribute y on the given filter element
+description: SVGFEConvolveMatrixElement Y property. Corresponds to attribute y on the given filter element
 type: docs
 weight: 170
 url: /net/aspose.svg.filters/svgfeconvolvematrixelement/y/

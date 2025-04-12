@@ -3,7 +3,7 @@ title: SVGFETurbulenceElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFETurbulenceElementBuilder class. Builder class for creating SVG feTurbulence elements which create an image using the Perlin turbulence function
 type: docs
-weight: 1020
+weight: 1430
 url: /net/aspose.svg.builder/svgfeturbulenceelementbuilder/
 ---
 ## SVGFETurbulenceElementBuilder class
@@ -32,16 +32,16 @@ public class SVGFETurbulenceElementBuilder : SVGElementBuilder<SVGFETurbulenceEl
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfeturbulenceelementbuilder/addscript/)(Action&lt;SVGScriptElementBuilder&gt;) | Adds a script configuration to the feTurbulence element. |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| [BaseFrequency](../../aspose.svg.builder/svgfeturbulenceelementbuilder/basefrequency/)(double, double?) | Sets the base frequency for the turbulence function. |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGFETurbulenceElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [NumOctaves](../../aspose.svg.builder/svgfeturbulenceelementbuilder/numoctaves/)(int) | Sets the number of octaves for the turbulence function. |
-| [Seed](../../aspose.svg.builder/svgfeturbulenceelementbuilder/seed/)(double) | Sets the seed for the random number generator used by the turbulence function. |
-| [StitchTiles](../../aspose.svg.builder/svgfeturbulenceelementbuilder/stitchtiles/)(StitchTiles) | Sets the stitch tiles option for the turbulence function. |
-| [Type](../../aspose.svg.builder/svgfeturbulenceelementbuilder/type/)(TurbulenceType) | Sets the type of turbulence (fractal noise or turbulence). |
+| [AddScript](../../aspose.svg.builder/svgfeturbulenceelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feTurbulence element. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| [BaseFrequency](../../aspose.svg.builder/svgfeturbulenceelementbuilder/basefrequency/)(*double, double?*) | Sets the base frequency for the turbulence function. |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFETurbulenceElement](../../aspose.svg.filters/svgfeturbulenceelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| [NumOctaves](../../aspose.svg.builder/svgfeturbulenceelementbuilder/numoctaves/)(*int*) | Sets the number of octaves for the turbulence function. |
+| [Seed](../../aspose.svg.builder/svgfeturbulenceelementbuilder/seed/)(*double*) | Sets the seed for the random number generator used by the turbulence function. |
+| [StitchTiles](../../aspose.svg.builder/svgfeturbulenceelementbuilder/stitchtiles/)(*[StitchTiles](../stitchtiles/)*) | Sets the stitch tiles option for the turbulence function. |
+| [Type](../../aspose.svg.builder/svgfeturbulenceelementbuilder/type/)(*[TurbulenceType](../turbulencetype/)*) | Sets the type of turbulence (fractal noise or turbulence). |
 
 ### See Also
 

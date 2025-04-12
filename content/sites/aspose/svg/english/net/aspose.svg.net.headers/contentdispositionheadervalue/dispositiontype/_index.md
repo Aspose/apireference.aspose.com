@@ -1,7 +1,7 @@
 ---
 title: ContentDispositionHeaderValue.DispositionType
 second_title: Aspose.SVG for .NET API Reference
-description: ContentDispositionHeaderValue property. Get or set disposition type
+description: ContentDispositionHeaderValue DispositionType property. Get or set disposition type
 type: docs
 weight: 20
 url: /net/aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/

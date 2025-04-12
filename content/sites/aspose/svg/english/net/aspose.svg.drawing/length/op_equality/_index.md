@@ -1,7 +1,7 @@
 ---
 title: Length.op_Equality
 second_title: Aspose.SVG for .NET API Reference
-description: Length method. Implements the operator 
+description: Length op_Equality method. Implements the operator 
 type: docs
 weight: 20
 url: /net/aspose.svg.drawing/length/op_equality/

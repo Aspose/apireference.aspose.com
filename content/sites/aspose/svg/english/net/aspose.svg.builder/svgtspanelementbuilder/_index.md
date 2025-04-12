@@ -3,7 +3,7 @@ title: SVGTSpanElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGTSpanElementBuilder class. Builder class for creating an SVGTSpanElement which is used to position and style text within an SVG document
 type: docs
-weight: 1970
+weight: 1660
 url: /net/aspose.svg.builder/svgtspanelementbuilder/
 ---
 ## SVGTSpanElementBuilder class
@@ -32,14 +32,14 @@ public class SVGTSpanElementBuilder : SVGElementBuilder<SVGTSpanElement>,
 
 | Name | Description |
 | --- | --- |
-| [AddA](../../aspose.svg.builder/svgtspanelementbuilder/adda/)(Action&lt;SVGAElementBuilder&gt;) | Adds an anchor (a) element to the current tspan element. |
-| [AddScript](../../aspose.svg.builder/svgtspanelementbuilder/addscript/)(Action&lt;SVGScriptElementBuilder&gt;) | Adds a script element to the current tspan element. |
-| [AddStyle](../../aspose.svg.builder/svgtspanelementbuilder/addstyle/)(Action&lt;SVGStyleElementBuilder&gt;) | Adds a style element to the current tspan element. |
-| [AddTSpan](../../aspose.svg.builder/svgtspanelementbuilder/addtspan/)(Action&lt;SVGTSpanElementBuilder&gt;) | Adds a nested tspan element to the current tspan element. |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGTSpanElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
+| [AddA](../../aspose.svg.builder/svgtspanelementbuilder/adda/)(*Action&amp;lt;SVGAElementBuilder&amp;gt;*) | Adds an anchor (a) element to the current tspan element. |
+| [AddScript](../../aspose.svg.builder/svgtspanelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script element to the current tspan element. |
+| [AddStyle](../../aspose.svg.builder/svgtspanelementbuilder/addstyle/)(*Action&amp;lt;SVGStyleElementBuilder&amp;gt;*) | Adds a style element to the current tspan element. |
+| [AddTSpan](../../aspose.svg.builder/svgtspanelementbuilder/addtspan/)(*Action&amp;lt;SVGTSpanElementBuilder&amp;gt;*) | Adds a nested tspan element to the current tspan element. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGTSpanElement](../../aspose.svg/svgtspanelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 
 ### See Also
 

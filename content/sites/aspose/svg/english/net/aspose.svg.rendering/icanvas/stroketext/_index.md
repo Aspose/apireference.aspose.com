@@ -1,7 +1,7 @@
 ---
 title: ICanvas.StrokeText
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Strokes the specified text at the specified position
+description: ICanvas StrokeText method. Strokes the specified text at the specified position
 type: docs
 weight: 280
 url: /net/aspose.svg.rendering/icanvas/stroketext/

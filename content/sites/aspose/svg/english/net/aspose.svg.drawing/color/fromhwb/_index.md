@@ -1,7 +1,7 @@
 ---
 title: Color.FromHwb
 second_title: Aspose.SVG for .NET API Reference
-description: Color method. Returns a new Color with the requested hue whiteness blackness values
+description: Color FromHwb method. Returns a new Color with the requested hue whiteness blackness values
 type: docs
 weight: 90
 url: /net/aspose.svg.drawing/color/fromhwb/

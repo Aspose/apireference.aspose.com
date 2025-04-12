@@ -1,7 +1,7 @@
 ---
 title: PathBuilder.Lr
 second_title: Aspose.SVG for .NET API Reference
-description: PathBuilder method. Adds a relative Line To command to the path data
+description: PathBuilder Lr method. Adds a relative Line To command to the path data
 type: docs
 weight: 110
 url: /net/aspose.svg.builder/pathbuilder/lr/

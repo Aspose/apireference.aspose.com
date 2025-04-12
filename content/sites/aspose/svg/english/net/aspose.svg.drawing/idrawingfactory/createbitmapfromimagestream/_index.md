@@ -1,7 +1,7 @@
 ---
 title: IDrawingFactory.CreateBitmapFromImageStream
 second_title: Aspose.SVG for .NET API Reference
-description: IDrawingFactory method. Creates a bitmap from the specified image stream
+description: IDrawingFactory CreateBitmapFromImageStream method. Creates a bitmap from the specified image stream
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/idrawingfactory/createbitmapfromimagestream/

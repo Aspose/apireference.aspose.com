@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnKeyPress
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onkeypress event attribute for handling keypress events on the element
+description: SVGBuilderExtensions OnKeyPress method. Sets the onkeypress event attribute for handling keypress events on the element
 type: docs
 weight: 1500
 url: /net/aspose.svg.builder/svgbuilderextensions/onkeypress/

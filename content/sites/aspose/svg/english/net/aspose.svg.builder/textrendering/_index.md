@@ -3,7 +3,7 @@ title: TextRendering Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.TextRendering enum. Specifies the text rendering strategy in SVG
 type: docs
-weight: 650
+weight: 1860
 url: /net/aspose.svg.builder/textrendering/
 ---
 ## TextRendering enumeration

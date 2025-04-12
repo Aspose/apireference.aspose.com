@@ -1,7 +1,7 @@
 ---
 title: Configuration.Security
 second_title: Aspose.SVG for .NET API Reference
-description: Configuration property. Gets or sets the sandboxing flag of the configuration
+description: Configuration Security property. Gets or sets the sandboxing flag of the configuration
 type: docs
 weight: 30
 url: /net/aspose.svg/configuration/security/

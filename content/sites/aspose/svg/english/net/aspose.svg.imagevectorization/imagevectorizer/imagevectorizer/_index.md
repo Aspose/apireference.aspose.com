@@ -22,7 +22,7 @@ public ImageVectorizer()
 
 ---
 
-## ImageVectorizer(ImageVectorizerConfiguration) {#constructor_1}
+## ImageVectorizer(*[ImageVectorizerConfiguration](../../imagevectorizerconfiguration/)*) {#constructor_1}
 
 Initializes a new instance of the [`ImageVectorizer`](../) class.
 

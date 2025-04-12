@@ -3,7 +3,7 @@ title: Margin Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.Margin class. Represents page margin
 type: docs
-weight: 3380
+weight: 3700
 url: /net/aspose.svg.drawing/margin/
 ---
 ## Margin class
@@ -19,10 +19,10 @@ public class Margin
 | Name | Description |
 | --- | --- |
 | [Margin](margin/#constructor)() | Initializes a new instance of the `Margin` class. |
-| [Margin](margin/#constructor_3)(int) | Initializes a new instance of the `Margin` class. |
-| [Margin](margin/#constructor_1)(Length) | Initializes a new instance of the `Margin` class. |
-| [Margin](margin/#constructor_4)(int, int, int, int) | Initializes a new instance of the `Margin` class. |
-| [Margin](margin/#constructor_2)(Length, Length, Length, Length) | Initializes a new instance of the `Margin` class. |
+| [Margin](margin/#constructor_3)(*int*) | Initializes a new instance of the `Margin` class. |
+| [Margin](margin/#constructor_1)(*[Length](../length/)*) | Initializes a new instance of the `Margin` class. |
+| [Margin](margin/#constructor_4)(*int, int, int, int*) | Initializes a new instance of the `Margin` class. |
+| [Margin](margin/#constructor_2)(*[Length](../length/), [Length](../length/), [Length](../length/), [Length](../length/)*) | Initializes a new instance of the `Margin` class. |
 
 ## Properties
 

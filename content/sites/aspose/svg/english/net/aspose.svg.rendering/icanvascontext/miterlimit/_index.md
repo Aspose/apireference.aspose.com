@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.MiterLimit
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the miter limit
+description: ICanvasContext MiterLimit property. Gets or sets the miter limit
 type: docs
 weight: 160
 url: /net/aspose.svg.rendering/icanvascontext/miterlimit/

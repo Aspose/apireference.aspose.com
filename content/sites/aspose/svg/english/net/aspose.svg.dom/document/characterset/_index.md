@@ -1,7 +1,7 @@
 ---
 title: Document.CharacterSet
 second_title: Aspose.SVG for .NET API Reference
-description: Document property. Gets the documents encoding
+description: Document CharacterSet property. Gets the documents encoding
 type: docs
 weight: 20
 url: /net/aspose.svg.dom/document/characterset/

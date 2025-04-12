@@ -1,7 +1,7 @@
 ---
 title: IBitmap.ColorSpace
 second_title: Aspose.SVG for .NET API Reference
-description: IBitmap property. Gets the color space ColorSpace of the bitmap image
+description: IBitmap ColorSpace property. Gets the color space ColorSpace of the bitmap image
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/ibitmap/colorspace/

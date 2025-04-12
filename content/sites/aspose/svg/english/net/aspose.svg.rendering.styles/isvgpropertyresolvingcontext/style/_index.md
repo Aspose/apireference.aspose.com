@@ -1,7 +1,7 @@
 ---
 title: ISVGPropertyResolvingContext.Style
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGPropertyResolvingContext property. Gets the resolved style declaration associated with the element. See IResolvedStyleDeclaration
+description: ISVGPropertyResolvingContext Style property. Gets the resolved style declaration associated with the element. See IResolvedStyleDeclaration
 type: docs
 weight: 80
 url: /net/aspose.svg.rendering.styles/isvgpropertyresolvingcontext/style/

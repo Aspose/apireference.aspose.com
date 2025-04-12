@@ -1,7 +1,7 @@
 ---
 title: KeyboardEvent.MetaKey
 second_title: Aspose.SVG for .NET API Reference
-description: KeyboardEvent property. true if the meta Meta key modifier was active
+description: KeyboardEvent MetaKey property. true if the meta Meta key modifier was active
 type: docs
 weight: 80
 url: /net/aspose.svg.dom.events/keyboardevent/metakey/

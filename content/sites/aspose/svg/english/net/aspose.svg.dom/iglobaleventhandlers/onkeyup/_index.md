@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnKeyUp
 second_title: Aspose.SVG for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnKeyUp event
+description: IGlobalEventHandlers OnKeyUp event. Gets or sets event handler for OnKeyUp event
 type: docs
 weight: 190
 url: /net/aspose.svg.dom/iglobaleventhandlers/onkeyup/

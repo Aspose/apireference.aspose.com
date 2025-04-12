@@ -1,7 +1,7 @@
 ---
 title: ICanvas.BezierCurveTo
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Adds a cubic Bézier curve to the current path
+description: ICanvas BezierCurveTo method. Adds a cubic Bézier curve to the current path
 type: docs
 weight: 50
 url: /net/aspose.svg.rendering/icanvas/beziercurveto/

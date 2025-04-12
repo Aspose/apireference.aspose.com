@@ -1,12 +1,12 @@
 ---
 title: SVGFEBlendElementBuilder.In2
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEBlendElementBuilder method. Sets the in2 attribute of the feBlend element specifying the second input for the blending operation
+description: SVGFEBlendElementBuilder In2 method. Sets the in2 attribute of the feBlend element specifying the second input for the blending operation
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfeblendelementbuilder/in2/
 ---
-## In2(string) {#in2_1}
+## In2(*string*) {#in2_1}
 
 Sets the 'in2' attribute of the feBlend element, specifying the second input for the blending operation.
 
@@ -30,7 +30,7 @@ The current builder instance.
 
 ---
 
-## In2(FilterInput) {#in2}
+## In2(*[FilterInput](../../filterinput/)*) {#in2}
 
 Sets the 'in2' attribute of the feBlend element, specifying the second input for the blending operation.
 

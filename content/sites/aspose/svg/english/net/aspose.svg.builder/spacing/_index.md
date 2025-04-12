@@ -3,7 +3,7 @@ title: Spacing Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.Spacing enum. Specifies the spacing behavior for text elements in SVG
 type: docs
-weight: 520
+weight: 1730
 url: /net/aspose.svg.builder/spacing/
 ---
 ## Spacing enumeration

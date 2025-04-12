@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.UnicodeBidi
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the unicode-bidi property definition in CSS2
+description: ICSS2Properties UnicodeBidi property. See the unicode-bidi property definition in CSS2
 type: docs
 weight: 1130
 url: /net/aspose.svg.dom.css/icss2properties/unicodebidi/

@@ -3,7 +3,7 @@ title: SVGUseElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGUseElementBuilder class. Builder class for creating an SVGUseElement which is used to reuse an existing SVG element by referencing it
 type: docs
-weight: 1980
+weight: 1700
 url: /net/aspose.svg.builder/svguseelementbuilder/
 ---
 ## SVGUseElementBuilder class
@@ -31,11 +31,11 @@ public class SVGUseElementBuilder : SVGElementBuilder<SVGUseElement>, IAnimation
 
 | Name | Description |
 | --- | --- |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGUseElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [Href](../../aspose.svg.builder/svguseelementbuilder/href/)(string) | Sets the href attribute of the use element, specifying the URL of the element to be reused. |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGUseElement](../../aspose.svg/svguseelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| [Href](../../aspose.svg.builder/svguseelementbuilder/href/)(*string*) | Sets the href attribute of the use element, specifying the URL of the element to be reused. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: IXPathResult.NumberValue
 second_title: Aspose.SVG for .NET API Reference
-description: IXPathResult property. The value of this number result
+description: IXPathResult NumberValue property. The value of this number result
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.xpath/ixpathresult/numbervalue/

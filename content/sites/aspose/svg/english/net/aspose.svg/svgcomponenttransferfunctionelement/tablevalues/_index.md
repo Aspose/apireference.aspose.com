@@ -1,7 +1,7 @@
 ---
 title: SVGComponentTransferFunctionElement.TableValues
 second_title: Aspose.SVG for .NET API Reference
-description: SVGComponentTransferFunctionElement property. Corresponds to attribute tableValues on the given element
+description: SVGComponentTransferFunctionElement TableValues property. Corresponds to attribute tableValues on the given element
 type: docs
 weight: 60
 url: /net/aspose.svg/svgcomponenttransferfunctionelement/tablevalues/

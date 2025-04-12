@@ -1,7 +1,7 @@
 ---
 title: Unit.FromPoints
 second_title: Aspose.SVG for .NET API Reference
-description: Unit method. Returns a Length object that is represented in points
+description: Unit FromPoints method. Returns a Length object that is represented in points
 type: docs
 weight: 180
 url: /net/aspose.svg.drawing/unit/frompoints/

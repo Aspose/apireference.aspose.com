@@ -1,7 +1,7 @@
 ---
 title: ICanvas.GetPathRect
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Gets the bounding rectangle of the current path
+description: ICanvas GetPathRect method. Gets the bounding rectangle of the current path
 type: docs
 weight: 150
 url: /net/aspose.svg.rendering/icanvas/getpathrect/

@@ -1,7 +1,7 @@
 ---
 title: Entity.NodeType
 second_title: Aspose.SVG for .NET API Reference
-description: Entity property. A code representing the type of the underlying object
+description: Entity NodeType property. A code representing the type of the underlying object
 type: docs
 weight: 30
 url: /net/aspose.svg.dom/entity/nodetype/

@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.Dy
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets multiple vertical adjustment values for the text content
+description: SVGBuilderExtensions Dy method. Sets multiple vertical adjustment values for the text content
 type: docs
 weight: 780
 url: /net/aspose.svg.builder/svgbuilderextensions/dy/
 ---
-## Dy&lt;TBuilder&gt;(this TBuilder, double[], LengthType) {#dy_1}
+## Dy&lt;TBuilder&gt;(*this TBuilder, double[], [LengthType](../../lengthtype/)*) {#dy_1}
 
 Sets multiple vertical adjustment values for the text content.
 
@@ -42,7 +42,7 @@ This method sets the 'dy' attribute with multiple values, allowing for individua
 
 ---
 
-## Dy&lt;TBuilder&gt;(this TBuilder, double, LengthType) {#dy}
+## Dy&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#dy}
 
 Sets a single vertical adjustment value for the text content.
 

@@ -1,7 +1,7 @@
 ---
 title: SVGFEBlendElementBuilder.Mode
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEBlendElementBuilder method. Sets the mode attribute of the feBlend element specifying the blending mode to be used
+description: SVGFEBlendElementBuilder Mode method. Sets the mode attribute of the feBlend element specifying the blending mode to be used
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgfeblendelementbuilder/mode/

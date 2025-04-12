@@ -1,7 +1,7 @@
 ---
 title: SVGScriptElement.Type
 second_title: Aspose.SVG for .NET API Reference
-description: SVGScriptElement property. Corresponds to attribute type on the given script element
+description: SVGScriptElement Type property. Corresponds to attribute type on the given script element
 type: docs
 weight: 30
 url: /net/aspose.svg/svgscriptelement/type/

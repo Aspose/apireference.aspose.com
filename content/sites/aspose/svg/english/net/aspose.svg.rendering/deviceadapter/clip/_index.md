@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.Clip
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter method. Modifies the current clipping path by intersecting it with the current path using the FillMode rule to determine the region to fill. This method terminates current path
+description: DeviceAdapter Clip method. Modifies the current clipping path by intersecting it with the current path using the FillMode rule to determine the region to fill. This method terminates current path
 type: docs
 weight: 90
 url: /net/aspose.svg.rendering/deviceadapter/clip/

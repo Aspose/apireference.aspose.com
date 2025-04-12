@@ -3,7 +3,7 @@ title: RendererTSource Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Renderer1TSource class. The base abstract class for all renderers
 type: docs
-weight: 4430
+weight: 5330
 url: /net/aspose.svg.rendering/renderer-1/
 ---
 ## Renderer&lt;TSource&gt; class
@@ -23,13 +23,13 @@ public abstract class Renderer<TSource> : Renderer
 | Name | Description |
 | --- | --- |
 | [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | Releases unmanaged and - optionally - managed resources. |
-| [Render](../../aspose.svg.rendering/renderer-1/render/#render_3)(IDevice, TSource) | Defines method for rendering !:TSource into specified [`IDevice`](../idevice/). |
-| [Render](../../aspose.svg.rendering/renderer-1/render/#render_6)(IDevice, params TSource[]) | Defines method for rendering multiple !:TSources into specific [`IDevice`](../idevice/). |
-| abstract [Render](../../aspose.svg.rendering/renderer-1/render/#render_1)(IDevice, CancellationToken, params TSource[]) | Defines a method for rendering multiple !:TSources into a specific [`IDevice`](../idevice/), using a cancellation token to request cancellation of the operation. |
-| [Render](../../aspose.svg.rendering/renderer-1/render/#render)(IDevice, int, params TSource[]) | Defines method for rendering multiple !:TSources into specific [`IDevice`](../idevice/). |
-| abstract [Render](../../aspose.svg.rendering/renderer-1/render/#render_2)(IDevice, TimeSpan, params TSource[]) | Defines method for rendering multiple !:TSources into specific [`IDevice`](../idevice/). |
-| [Render](../../aspose.svg.rendering/renderer-1/render/#render_4)(IDevice, TSource, int) | Defines method for rendering !:TSource into specified [`IDevice`](../idevice/). |
-| [Render](../../aspose.svg.rendering/renderer-1/render/#render_5)(IDevice, TSource, TimeSpan) | Defines method for rendering !:TSource into specified [`IDevice`](../idevice/). |
+| [Render](../../aspose.svg.rendering/renderer-1/render/#render_3)(*[IDevice](../idevice/), TSource*) | Defines method for rendering !:TSource into specified [`IDevice`](../idevice/). |
+| [Render](../../aspose.svg.rendering/renderer-1/render/#render_6)(*[IDevice](../idevice/), params TSource[]*) | Defines method for rendering multiple !:TSources into specific [`IDevice`](../idevice/). |
+| abstract [Render](../../aspose.svg.rendering/renderer-1/render/#render_1)(*[IDevice](../idevice/), CancellationToken, params TSource[]*) | Defines a method for rendering multiple !:TSources into a specific [`IDevice`](../idevice/), using a cancellation token to request cancellation of the operation. |
+| [Render](../../aspose.svg.rendering/renderer-1/render/#render)(*[IDevice](../idevice/), int, params TSource[]*) | Defines method for rendering multiple !:TSources into specific [`IDevice`](../idevice/). |
+| abstract [Render](../../aspose.svg.rendering/renderer-1/render/#render_2)(*[IDevice](../idevice/), TimeSpan, params TSource[]*) | Defines method for rendering multiple !:TSources into specific [`IDevice`](../idevice/). |
+| [Render](../../aspose.svg.rendering/renderer-1/render/#render_4)(*[IDevice](../idevice/), TSource, int*) | Defines method for rendering !:TSource into specified [`IDevice`](../idevice/). |
+| [Render](../../aspose.svg.rendering/renderer-1/render/#render_5)(*[IDevice](../idevice/), TSource, TimeSpan*) | Defines method for rendering !:TSource into specified [`IDevice`](../idevice/). |
 
 ### See Also
 

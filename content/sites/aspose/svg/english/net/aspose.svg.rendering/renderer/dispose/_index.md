@@ -1,7 +1,7 @@
 ---
 title: Renderer.Dispose
 second_title: Aspose.SVG for .NET API Reference
-description: Renderer method. Releases unmanaged and - optionally - managed resources
+description: Renderer Dispose method. Releases unmanaged and - optionally - managed resources
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering/renderer/dispose/

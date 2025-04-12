@@ -1,7 +1,7 @@
 ---
 title: ILinkStyle.Sheet
 second_title: Aspose.SVG for .NET API Reference
-description: ILinkStyle property. Gets the associated style sheet
+description: ILinkStyle Sheet property. Gets the associated style sheet
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/ilinkstyle/sheet/

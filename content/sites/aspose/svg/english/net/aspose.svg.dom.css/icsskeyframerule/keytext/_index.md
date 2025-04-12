@@ -1,7 +1,7 @@
 ---
 title: ICSSKeyframeRule.KeyText
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSKeyframeRule property. This attribute represents the keyframe selector as a comma-separated list of percentage values. The from and to keywords map to 0 and 100 respectively
+description: ICSSKeyframeRule KeyText property. This attribute represents the keyframe selector as a comma-separated list of percentage values. The from and to keywords map to 0 and 100 respectively
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/icsskeyframerule/keytext/

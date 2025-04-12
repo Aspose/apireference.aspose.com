@@ -1,7 +1,7 @@
 ---
 title: Document.OnInput
 second_title: Aspose.SVG for .NET API Reference
-description: Document event. Gets or sets event handler for OnInput event
+description: Document OnInput event. Gets or sets event handler for OnInput event
 type: docs
 weight: 420
 url: /net/aspose.svg.dom/document/oninput/

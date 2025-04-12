@@ -1,7 +1,7 @@
 ---
 title: SVGComponentTransferFunctionElement.Slope
 second_title: Aspose.SVG for .NET API Reference
-description: SVGComponentTransferFunctionElement property. Corresponds to attribute slope on the given element
+description: SVGComponentTransferFunctionElement Slope property. Corresponds to attribute slope on the given element
 type: docs
 weight: 50
 url: /net/aspose.svg/svgcomponenttransferfunctionelement/slope/

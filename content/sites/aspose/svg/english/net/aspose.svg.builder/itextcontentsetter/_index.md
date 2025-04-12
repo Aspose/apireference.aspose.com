@@ -3,7 +3,7 @@ title: ITextContentSetter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ITextContentSetter interface. Interface for setting text content
 type: docs
-weight: 1410
+weight: 740
 url: /net/aspose.svg.builder/itextcontentsetter/
 ---
 ## ITextContentSetter interface

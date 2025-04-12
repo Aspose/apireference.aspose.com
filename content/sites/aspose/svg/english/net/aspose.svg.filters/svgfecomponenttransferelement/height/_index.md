@@ -1,7 +1,7 @@
 ---
 title: SVGFEComponentTransferElement.Height
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEComponentTransferElement property. Corresponds to attribute height on the given filter element
+description: SVGFEComponentTransferElement Height property. Corresponds to attribute height on the given filter element
 type: docs
 weight: 10
 url: /net/aspose.svg.filters/svgfecomponenttransferelement/height/

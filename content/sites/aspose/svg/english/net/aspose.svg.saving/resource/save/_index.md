@@ -1,7 +1,7 @@
 ---
 title: Resource.Save
 second_title: Aspose.SVG for .NET API Reference
-description: Resource method. Saves the resource to the provided stream
+description: Resource Save method. Saves the resource to the provided stream
 type: docs
 weight: 70
 url: /net/aspose.svg.saving/resource/save/

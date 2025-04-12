@@ -1,7 +1,7 @@
 ---
 title: IBitmap.ColorTable
 second_title: Aspose.SVG for .NET API Reference
-description: IBitmap property. Gets the color table of the bitmap image
+description: IBitmap ColorTable property. Gets the color table of the bitmap image
 type: docs
 weight: 20
 url: /net/aspose.svg.drawing/ibitmap/colortable/

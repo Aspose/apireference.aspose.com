@@ -1,7 +1,7 @@
 ---
 title: SVGFEGaussianBlurElementBuilder.StdDeviation
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEGaussianBlurElementBuilder method. Sets the standard deviation for the Gaussian blur effect
+description: SVGFEGaussianBlurElementBuilder StdDeviation method. Sets the standard deviation for the Gaussian blur effect
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfegaussianblurelementbuilder/stddeviation/

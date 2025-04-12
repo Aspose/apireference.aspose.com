@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.LetterSpacing
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the letter spacing
+description: ICanvasContext LetterSpacing property. Gets or sets the letter spacing
 type: docs
 weight: 100
 url: /net/aspose.svg.rendering/icanvascontext/letterspacing/

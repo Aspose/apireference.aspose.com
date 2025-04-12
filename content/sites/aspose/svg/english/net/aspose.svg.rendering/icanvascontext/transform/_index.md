@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.Transform
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext method. Applies a transformation matrix to the context. See IMatrix
+description: ICanvasContext Transform method. Applies a transformation matrix to the context. See IMatrix
 type: docs
 weight: 270
 url: /net/aspose.svg.rendering/icanvascontext/transform/

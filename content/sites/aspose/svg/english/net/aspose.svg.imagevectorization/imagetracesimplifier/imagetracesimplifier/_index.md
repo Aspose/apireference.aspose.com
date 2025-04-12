@@ -22,7 +22,7 @@ public ImageTraceSimplifier()
 
 ---
 
-## ImageTraceSimplifier(float) {#constructor_1}
+## ImageTraceSimplifier(*float*) {#constructor_1}
 
 Initializes a new instance of the [`ImageTraceSimplifier`](../) class.
 

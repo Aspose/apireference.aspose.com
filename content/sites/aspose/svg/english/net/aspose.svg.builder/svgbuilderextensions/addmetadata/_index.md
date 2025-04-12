@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddMetadata
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a metadata element configuration to the builder. The metadata element is used to add metadata to SVG content
+description: SVGBuilderExtensions AddMetadata method. Adds a metadata element configuration to the builder. The metadata element is used to add metadata to SVG content
 type: docs
 weight: 390
 url: /net/aspose.svg.builder/svgbuilderextensions/addmetadata/

@@ -1,7 +1,7 @@
 ---
 title: SVGFEBaseLightingElementBuilder-2.WithFeDistantLight
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEBaseLightingElementBuilder method. Configures a distant light source for the filter effect
+description: SVGFEBaseLightingElementBuilder WithFeDistantLight method. Configures a distant light source for the filter effect
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfebaselightingelementbuilder-2/withfedistantlight/

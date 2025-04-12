@@ -3,7 +3,7 @@ title: ProtocolMessageFilter Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.MessageFilters.ProtocolMessageFilter class. Represents implementation of message filter by the resource protocol
 type: docs
-weight: 3070
+weight: 4550
 url: /net/aspose.svg.net.messagefilters/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter class
@@ -18,13 +18,13 @@ public class ProtocolMessageFilter : MessageFilter
 
 | Name | Description |
 | --- | --- |
-| [ProtocolMessageFilter](protocolmessagefilter/)(params string[]) | Initializes a new instance of the `ProtocolMessageFilter` class. |
+| [ProtocolMessageFilter](protocolmessagefilter/)(*params string[]*) | Initializes a new instance of the `ProtocolMessageFilter` class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Match](../../aspose.svg.net.messagefilters/protocolmessagefilter/match/)(INetworkOperationContext) | When overridden in a derived class, tests whether a Context satisfies the filter criteria. |
+| override [Match](../../aspose.svg.net.messagefilters/protocolmessagefilter/match/)(*[INetworkOperationContext](../../aspose.svg.net/inetworkoperationcontext/)*) | When overridden in a derived class, tests whether a Context satisfies the filter criteria. |
 
 ### See Also
 

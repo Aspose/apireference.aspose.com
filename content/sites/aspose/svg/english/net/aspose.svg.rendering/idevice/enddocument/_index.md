@@ -1,7 +1,7 @@
 ---
 title: IDevice.EndDocument
 second_title: Aspose.SVG for .NET API Reference
-description: IDevice method. Ends rendering of the document
+description: IDevice EndDocument method. Ends rendering of the document
 type: docs
 weight: 110
 url: /net/aspose.svg.rendering/idevice/enddocument/

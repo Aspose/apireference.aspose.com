@@ -1,12 +1,12 @@
 ---
 title: IImageDeviceFactory.Create
 second_title: Aspose.SVG for .NET API Reference
-description: IImageDeviceFactory method. Creates an image device with the specified rendering options and stream provider
+description: IImageDeviceFactory Create method. Creates an image device with the specified rendering options and stream provider
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering.image/iimagedevicefactory/create/
 ---
-## Create(ImageRenderingOptions, ICreateStreamProvider) {#create}
+## Create(*[ImageRenderingOptions](../../imagerenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#create}
 
 Creates an image device with the specified rendering options and stream provider.
 
@@ -34,7 +34,7 @@ The created image device.
 
 ---
 
-## Create(ImageRenderingOptions, string) {#create_2}
+## Create(*[ImageRenderingOptions](../../imagerenderingoptions/), string*) {#create_2}
 
 Creates an image device with the specified rendering options and file path.
 
@@ -61,7 +61,7 @@ The created image device.
 
 ---
 
-## Create(ImageRenderingOptions, Stream) {#create_1}
+## Create(*[ImageRenderingOptions](../../imagerenderingoptions/), Stream*) {#create_1}
 
 Creates an image device with the specified rendering options and stream.
 

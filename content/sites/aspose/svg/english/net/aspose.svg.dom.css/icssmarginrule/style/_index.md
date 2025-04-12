@@ -1,7 +1,7 @@
 ---
 title: ICSSMarginRule.Style
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSMarginRule property. The declaration-block of this rule
+description: ICSSMarginRule Style property. The declaration-block of this rule
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.css/icssmarginrule/style/

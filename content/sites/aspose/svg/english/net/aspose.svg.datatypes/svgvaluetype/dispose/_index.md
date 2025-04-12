@@ -1,7 +1,7 @@
 ---
 title: SVGValueType.Dispose
 second_title: Aspose.SVG for .NET API Reference
-description: SVGValueType method. Releases unmanaged and - optionally - managed resources
+description: SVGValueType Dispose method. Releases unmanaged and - optionally - managed resources
 type: docs
 weight: 10
 url: /net/aspose.svg.datatypes/svgvaluetype/dispose/

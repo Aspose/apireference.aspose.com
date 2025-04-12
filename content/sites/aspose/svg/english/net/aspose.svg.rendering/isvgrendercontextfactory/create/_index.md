@@ -1,7 +1,7 @@
 ---
 title: ISVGRenderContextFactory.Create
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGRenderContextFactory method. Creates a new instance of the SVG render context
+description: ISVGRenderContextFactory Create method. Creates a new instance of the SVG render context
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/isvgrendercontextfactory/create/

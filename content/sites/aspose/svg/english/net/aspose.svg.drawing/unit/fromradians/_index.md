@@ -1,7 +1,7 @@
 ---
 title: Unit.FromRadians
 second_title: Aspose.SVG for .NET API Reference
-description: Unit method. Returns a Angle object that is represented in radians
+description: Unit FromRadians method. Returns a Angle object that is represented in radians
 type: docs
 weight: 200
 url: /net/aspose.svg.drawing/unit/fromradians/

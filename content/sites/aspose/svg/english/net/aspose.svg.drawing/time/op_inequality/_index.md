@@ -1,7 +1,7 @@
 ---
 title: Time.op_Inequality
 second_title: Aspose.SVG for .NET API Reference
-description: Time method. Implements the operator 
+description: Time op_Inequality method. Implements the operator 
 type: docs
 weight: 50
 url: /net/aspose.svg.drawing/time/op_inequality/

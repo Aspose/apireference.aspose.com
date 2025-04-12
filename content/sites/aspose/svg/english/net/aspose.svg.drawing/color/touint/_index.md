@@ -1,7 +1,7 @@
 ---
 title: Color.ToUint
 second_title: Aspose.SVG for .NET API Reference
-description: Color method. Encodes the Color ARGB components into unsigned int
+description: Color ToUint method. Encodes the Color ARGB components into unsigned int
 type: docs
 weight: 440
 url: /net/aspose.svg.drawing/color/touint/

@@ -3,7 +3,7 @@ title: IYAttributeSetter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IYAttributeSetter interface. Interface for setting y attributes
 type: docs
-weight: 1490
+weight: 820
 url: /net/aspose.svg.builder/iyattributesetter/
 ---
 ## IYAttributeSetter interface

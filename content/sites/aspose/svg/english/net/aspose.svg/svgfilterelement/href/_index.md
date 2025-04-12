@@ -1,7 +1,7 @@
 ---
 title: SVGFilterElement.Href
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFilterElement property. Corresponds to attribute xlinkhref on the given element
+description: SVGFilterElement Href property. Corresponds to attribute xlinkhref on the given element
 type: docs
 weight: 30
 url: /net/aspose.svg/svgfilterelement/href/

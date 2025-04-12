@@ -1,7 +1,7 @@
 ---
 title: ICanvas.ArcTo
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Adds an arc to the current path connecting the previous point to the start point of the arc with a straight line
+description: ICanvas ArcTo method. Adds an arc to the current path connecting the previous point to the start point of the arc with a straight line
 type: docs
 weight: 30
 url: /net/aspose.svg.rendering/icanvas/arcto/

@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.LetterSpacing
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the letter-spacing property definition in CSS2
+description: ICSS2Properties LetterSpacing property. See the letter-spacing property definition in CSS2
 type: docs
 weight: 570
 url: /net/aspose.svg.dom.css/icss2properties/letterspacing/

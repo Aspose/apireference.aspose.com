@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnInvalid
 second_title: Aspose.SVG for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnInvalid event
+description: IGlobalEventHandlers OnInvalid event. Gets or sets event handler for OnInvalid event
 type: docs
 weight: 160
 url: /net/aspose.svg.dom/iglobaleventhandlers/oninvalid/

@@ -1,7 +1,7 @@
 ---
 title: IStorage.Length
 second_title: Aspose.SVG for .NET API Reference
-description: IStorage property. Returns the number of key/value pairs
+description: IStorage Length property. Returns the number of key/value pairs
 type: docs
 weight: 10
 url: /net/aspose.svg.dom/istorage/length/

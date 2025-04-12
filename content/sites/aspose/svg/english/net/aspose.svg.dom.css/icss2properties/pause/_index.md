@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.Pause
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the pause property definition in CSS2
+description: ICSS2Properties Pause property. See the pause property definition in CSS2
 type: docs
 weight: 890
 url: /net/aspose.svg.dom.css/icss2properties/pause/

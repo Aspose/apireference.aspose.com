@@ -1,7 +1,7 @@
 ---
 title: IGradientBrush.BlendFactors
 second_title: Aspose.SVG for .NET API Reference
-description: IGradientBrush property. Gets or sets the blend factors that define a custom falloff for the gradient
+description: IGradientBrush BlendFactors property. Gets or sets the blend factors that define a custom falloff for the gradient
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/igradientbrush/blendfactors/

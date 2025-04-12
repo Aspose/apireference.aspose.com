@@ -1,7 +1,7 @@
 ---
 title: SVGFEImageElement.Height
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEImageElement property. Corresponds to attribute height on the given filter element
+description: SVGFEImageElement Height property. Corresponds to attribute height on the given filter element
 type: docs
 weight: 10
 url: /net/aspose.svg.filters/svgfeimageelement/height/

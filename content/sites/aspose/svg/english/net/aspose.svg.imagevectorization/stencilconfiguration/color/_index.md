@@ -1,7 +1,7 @@
 ---
 title: StencilConfiguration.Color
 second_title: Aspose.SVG for .NET API Reference
-description: StencilConfiguration property. Gets or sets the color for rendering stencil lines for the MonoColor type
+description: StencilConfiguration Color property. Gets or sets the color for rendering stencil lines for the MonoColor type
 type: docs
 weight: 20
 url: /net/aspose.svg.imagevectorization/stencilconfiguration/color/

@@ -1,7 +1,7 @@
 ---
 title: IDevice.FillText
 second_title: Aspose.SVG for .NET API Reference
-description: IDevice method. Fills the specified text string at the specified location
+description: IDevice FillText method. Fills the specified text string at the specified location
 type: docs
 weight: 150
 url: /net/aspose.svg.rendering/idevice/filltext/

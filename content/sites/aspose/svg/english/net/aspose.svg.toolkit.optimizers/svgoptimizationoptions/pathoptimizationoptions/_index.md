@@ -1,7 +1,7 @@
 ---
 title: SVGOptimizationOptions.PathOptimizationOptions
 second_title: Aspose.SVG for .NET API Reference
-description: SVGOptimizationOptions property. Gets or sets the option SVGPathOptimizationOptions. If this option is null then path element optimization will not be performed
+description: SVGOptimizationOptions PathOptimizationOptions property. Gets or sets the option SVGPathOptimizationOptions. If this option is null then path element optimization will not be performed
 type: docs
 weight: 40
 url: /net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/pathoptimizationoptions/

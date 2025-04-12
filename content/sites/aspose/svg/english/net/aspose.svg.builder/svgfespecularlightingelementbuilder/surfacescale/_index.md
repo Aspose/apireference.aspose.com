@@ -1,7 +1,7 @@
 ---
 title: SVGFESpecularLightingElementBuilder.SurfaceScale
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFESpecularLightingElementBuilder method. Sets the surfaceScale attribute of the feSpecularLighting element defining the height of the surface for the lighting calculation
+description: SVGFESpecularLightingElementBuilder SurfaceScale method. Sets the surfaceScale attribute of the feSpecularLighting element defining the height of the surface for the lighting calculation
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgfespecularlightingelementbuilder/surfacescale/

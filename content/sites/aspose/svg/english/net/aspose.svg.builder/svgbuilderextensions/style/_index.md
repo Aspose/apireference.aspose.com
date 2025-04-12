@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.Style
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the style attribute using a rule builder to define CSS styles
+description: SVGBuilderExtensions Style method. Sets the style attribute using a rule builder to define CSS styles
 type: docs
 weight: 2160
 url: /net/aspose.svg.builder/svgbuilderextensions/style/
 ---
-## Style&lt;TBuilder&gt;(this TBuilder, Action&lt;RuleBuilder&gt;) {#style}
+## Style&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;RuleBuilder&amp;gt;*) {#style}
 
 Sets the 'style' attribute using a rule builder to define CSS styles.
 
@@ -36,7 +36,7 @@ The builder instance for chaining.
 
 ---
 
-## Style&lt;TBuilder&gt;(this TBuilder, string) {#style_1}
+## Style&lt;TBuilder&gt;(*this TBuilder, string*) {#style_1}
 
 Sets the 'style' attribute, defining inline CSS styles for the SVG element.
 

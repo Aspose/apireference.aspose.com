@@ -1,7 +1,7 @@
 ---
 title: ICSSKeyframeRule.Style
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSKeyframeRule property. This attribute represents the style associated with this keyframe
+description: ICSSKeyframeRule Style property. This attribute represents the style associated with this keyframe
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.css/icsskeyframerule/style/

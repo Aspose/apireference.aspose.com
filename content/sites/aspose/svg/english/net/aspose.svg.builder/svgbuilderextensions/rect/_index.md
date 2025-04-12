@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Rect
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the x y width and height attributes for an SVG element to define a rectangle
+description: SVGBuilderExtensions Rect method. Sets the x y width and height attributes for an SVG element to define a rectangle
 type: docs
 weight: 1920
 url: /net/aspose.svg.builder/svgbuilderextensions/rect/

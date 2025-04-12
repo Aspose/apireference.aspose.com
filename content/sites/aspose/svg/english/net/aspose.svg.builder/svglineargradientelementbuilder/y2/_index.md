@@ -1,7 +1,7 @@
 ---
 title: SVGLinearGradientElementBuilder.Y2
 second_title: Aspose.SVG for .NET API Reference
-description: SVGLinearGradientElementBuilder method. Sets the y2 attribute of the SVG linearGradient element specifying the y-coordinate of the end point of the gradient
+description: SVGLinearGradientElementBuilder Y2 method. Sets the y2 attribute of the SVG linearGradient element specifying the y-coordinate of the end point of the gradient
 type: docs
 weight: 90
 url: /net/aspose.svg.builder/svglineargradientelementbuilder/y2/

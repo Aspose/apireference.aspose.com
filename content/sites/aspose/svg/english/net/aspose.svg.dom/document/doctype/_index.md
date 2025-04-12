@@ -1,7 +1,7 @@
 ---
 title: Document.Doctype
 second_title: Aspose.SVG for .NET API Reference
-description: Document property. The Document Type Declaration associated with this document
+description: Document Doctype property. The Document Type Declaration associated with this document
 type: docs
 weight: 90
 url: /net/aspose.svg.dom/document/doctype/

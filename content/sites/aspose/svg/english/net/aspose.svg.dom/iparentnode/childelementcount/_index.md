@@ -1,7 +1,7 @@
 ---
 title: IParentNode.ChildElementCount
 second_title: Aspose.SVG for .NET API Reference
-description: IParentNode property. The childElementCount attribute must return the number of children of the context object that are elements
+description: IParentNode ChildElementCount property. The childElementCount attribute must return the number of children of the context object that are elements
 type: docs
 weight: 10
 url: /net/aspose.svg.dom/iparentnode/childelementcount/

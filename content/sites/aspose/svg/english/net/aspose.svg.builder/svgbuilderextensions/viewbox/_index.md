@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.ViewBox
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the viewBox attribute for an SVG element
+description: SVGBuilderExtensions ViewBox method. Sets the viewBox attribute for an SVG element
 type: docs
 weight: 2300
 url: /net/aspose.svg.builder/svgbuilderextensions/viewbox/

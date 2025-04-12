@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.PointerEvents
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the pointer-events attribute for an SVG element defining how the element reacts to pointer events
+description: SVGBuilderExtensions PointerEvents method. Sets the pointer-events attribute for an SVG element defining how the element reacts to pointer events
 type: docs
 weight: 1900
 url: /net/aspose.svg.builder/svgbuilderextensions/pointerevents/

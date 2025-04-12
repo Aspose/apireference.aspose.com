@@ -1,7 +1,7 @@
 ---
 title: ICanvas.BeginPath
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Begins a new subpath discarding the current path if any
+description: ICanvas BeginPath method. Begins a new subpath discarding the current path if any
 type: docs
 weight: 40
 url: /net/aspose.svg.rendering/icanvas/beginpath/

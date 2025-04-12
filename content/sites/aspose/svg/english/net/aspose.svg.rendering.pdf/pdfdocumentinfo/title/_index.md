@@ -1,7 +1,7 @@
 ---
 title: PdfDocumentInfo.Title
 second_title: Aspose.SVG for .NET API Reference
-description: PdfDocumentInfo property. The documents title
+description: PdfDocumentInfo Title property. The documents title
 type: docs
 weight: 80
 url: /net/aspose.svg.rendering.pdf/pdfdocumentinfo/title/

@@ -1,7 +1,7 @@
 ---
 title: HttpMethod.op_Explicit
 second_title: Aspose.SVG for .NET API Reference
-description: HttpMethod method. Performs an explicit conversion from String to HttpMethod
+description: HttpMethod op_Explicit method. Performs an explicit conversion from String to HttpMethod
 type: docs
 weight: 100
 url: /net/aspose.svg.net/httpmethod/op_explicit/

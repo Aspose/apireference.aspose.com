@@ -1,7 +1,7 @@
 ---
 title: ISVGPropertyResolvingContext.InTextElement
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGPropertyResolvingContext property. Gets or sets a value indicating whether the context is within a text element
+description: ISVGPropertyResolvingContext InTextElement property. Gets or sets a value indicating whether the context is within a text element
 type: docs
 weight: 50
 url: /net/aspose.svg.rendering.styles/isvgpropertyresolvingcontext/intextelement/

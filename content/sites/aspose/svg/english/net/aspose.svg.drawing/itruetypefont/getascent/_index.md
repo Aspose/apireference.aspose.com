@@ -1,7 +1,7 @@
 ---
 title: ITrueTypeFont.GetAscent
 second_title: Aspose.SVG for .NET API Reference
-description: ITrueTypeFont method. Gets the ascent of the font in points using the specified font size
+description: ITrueTypeFont GetAscent method. Gets the ascent of the font in points using the specified font size
 type: docs
 weight: 50
 url: /net/aspose.svg.drawing/itruetypefont/getascent/

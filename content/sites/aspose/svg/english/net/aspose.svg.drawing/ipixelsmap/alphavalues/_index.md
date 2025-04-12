@@ -1,7 +1,7 @@
 ---
 title: IPixelsMap.AlphaValues
 second_title: Aspose.SVG for .NET API Reference
-description: IPixelsMap property. Gets the alpha values of the pixels if applicable. If the pixel map does not support an alpha channel this should return an empty array
+description: IPixelsMap AlphaValues property. Gets the alpha values of the pixels if applicable. If the pixel map does not support an alpha channel this should return an empty array
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/ipixelsmap/alphavalues/

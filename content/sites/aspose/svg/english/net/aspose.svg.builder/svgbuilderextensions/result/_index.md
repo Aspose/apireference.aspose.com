@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Result
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the result attribute for an SVG filter primitive
+description: SVGBuilderExtensions Result method. Sets the result attribute for an SVG filter primitive
 type: docs
 weight: 1990
 url: /net/aspose.svg.builder/svgbuilderextensions/result/

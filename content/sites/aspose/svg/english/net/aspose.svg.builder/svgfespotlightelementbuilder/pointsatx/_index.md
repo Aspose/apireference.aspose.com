@@ -1,7 +1,7 @@
 ---
 title: SVGFESpotLightElementBuilder.PointsAtX
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFESpotLightElementBuilder method. Sets the pointsAtX attribute indicating the x-coordinate towards which the light is pointing
+description: SVGFESpotLightElementBuilder PointsAtX method. Sets the pointsAtX attribute indicating the x-coordinate towards which the light is pointing
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfespotlightelementbuilder/pointsatx/

@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.AddFeImage
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds an feImage element to the SVG builder incorporating an external image into the filter effect
+description: SVGBuilderExtensions AddFeImage method. Adds an feImage element to the SVG builder incorporating an external image into the filter effect
 type: docs
 weight: 230
 url: /net/aspose.svg.builder/svgbuilderextensions/addfeimage/
 ---
-## AddFeImage&lt;TBuilder&gt;(this TBuilder, string, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEImageElementBuilder&gt;) {#addfeimage_1}
+## AddFeImage&lt;TBuilder&gt;(*this TBuilder, string, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFEImageElementBuilder&amp;gt;*) {#addfeimage_1}
 
 Adds an 'feImage' element to the SVG builder, incorporating an external image into the filter effect.
 
@@ -54,7 +54,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeImage&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFEImageElementBuilder&gt;) {#addfeimage}
+## AddFeImage&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEImageElementBuilder&amp;gt;*) {#addfeimage}
 
 Adds an 'feImage' element configuration to the builder. This element fetches an external image and includes it in the filter pipeline.
 

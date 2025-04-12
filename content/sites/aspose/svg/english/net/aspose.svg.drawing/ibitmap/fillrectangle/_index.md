@@ -1,7 +1,7 @@
 ---
 title: IBitmap.FillRectangle
 second_title: Aspose.SVG for .NET API Reference
-description: IBitmap method. Fills the specified rectangle with the specified brush
+description: IBitmap FillRectangle method. Fills the specified rectangle with the specified brush
 type: docs
 weight: 100
 url: /net/aspose.svg.drawing/ibitmap/fillrectangle/

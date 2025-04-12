@@ -1,7 +1,7 @@
 ---
 title: StencilConfiguration.Type
 second_title: Aspose.SVG for .NET API Reference
-description: StencilConfiguration property. Gets or sets the StencilType
+description: StencilConfiguration Type property. Gets or sets the StencilType
 type: docs
 weight: 30
 url: /net/aspose.svg.imagevectorization/stencilconfiguration/type/

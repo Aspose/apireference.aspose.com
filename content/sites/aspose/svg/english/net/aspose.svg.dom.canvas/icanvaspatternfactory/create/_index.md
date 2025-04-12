@@ -1,7 +1,7 @@
 ---
 title: ICanvasPatternFactory.Create
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasPatternFactory method. Creates a pattern using the specified image data and repetition mode
+description: ICanvasPatternFactory Create method. Creates a pattern using the specified image data and repetition mode
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.canvas/icanvaspatternfactory/create/

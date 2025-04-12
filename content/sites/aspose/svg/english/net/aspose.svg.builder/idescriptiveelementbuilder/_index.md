@@ -3,7 +3,7 @@ title: IDescriptiveElementBuilder Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IDescriptiveElementBuilder interface. Interface for building descriptive elements like desc title metadata
 type: docs
-weight: 1180
+weight: 510
 url: /net/aspose.svg.builder/idescriptiveelementbuilder/
 ---
 ## IDescriptiveElementBuilder interface

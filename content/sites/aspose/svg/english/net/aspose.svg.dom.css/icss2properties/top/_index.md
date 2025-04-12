@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.Top
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the top property definition in CSS2
+description: ICSS2Properties Top property. See the top property definition in CSS2
 type: docs
 weight: 1120
 url: /net/aspose.svg.dom.css/icss2properties/top/

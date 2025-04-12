@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnShow
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onshow event attribute typically used for handling events when a context menu is shown
+description: SVGBuilderExtensions OnShow method. Sets the onshow event attribute typically used for handling events when a context menu is shown
 type: docs
 weight: 1770
 url: /net/aspose.svg.builder/svgbuilderextensions/onshow/

@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnWaiting
 second_title: Aspose.SVG for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnWaiting event
+description: IGlobalEventHandlers OnWaiting event. Gets or sets event handler for OnWaiting event
 type: docs
 weight: 500
 url: /net/aspose.svg.dom/iglobaleventhandlers/onwaiting/

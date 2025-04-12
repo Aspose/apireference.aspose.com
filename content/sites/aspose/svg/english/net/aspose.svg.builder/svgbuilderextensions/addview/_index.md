@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddView
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a view element configuration to the builder
+description: SVGBuilderExtensions AddView method. Adds a view element configuration to the builder
 type: docs
 weight: 560
 url: /net/aspose.svg.builder/svgbuilderextensions/addview/

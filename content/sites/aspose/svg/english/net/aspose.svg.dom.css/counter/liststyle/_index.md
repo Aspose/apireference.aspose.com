@@ -1,7 +1,7 @@
 ---
 title: Counter.ListStyle
 second_title: Aspose.SVG for .NET API Reference
-description: Counter property. This attribute is used for the style of the list
+description: Counter ListStyle property. This attribute is used for the style of the list
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.css/counter/liststyle/

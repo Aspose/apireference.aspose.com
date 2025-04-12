@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.LineTo
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter method. Appends a straight line segment from the current point to the point pt. The new current point is pt
+description: DeviceAdapter LineTo method. Appends a straight line segment from the current point to the point pt. The new current point is pt
 type: docs
 weight: 200
 url: /net/aspose.svg.rendering/deviceadapter/lineto/

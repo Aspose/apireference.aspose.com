@@ -1,7 +1,7 @@
 ---
 title: INetworkOperationContext.Response
 second_title: Aspose.SVG for .NET API Reference
-description: INetworkOperationContext property. Gets or sets the response message
+description: INetworkOperationContext Response property. Gets or sets the response message
 type: docs
 weight: 20
 url: /net/aspose.svg.net/inetworkoperationcontext/response/

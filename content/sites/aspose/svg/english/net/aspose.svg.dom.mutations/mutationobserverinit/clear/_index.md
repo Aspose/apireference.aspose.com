@@ -1,7 +1,7 @@
 ---
 title: MutationObserverInit.Clear
 second_title: Aspose.SVG for .NET API Reference
-description: MutationObserverInit method. Removes all the elements from the MutationObserverInit collection
+description: MutationObserverInit Clear method. Removes all the elements from the MutationObserverInit collection
 type: docs
 weight: 150
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/clear/

@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.MarkerEnd
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the marker-end attribute for an SVG element specifying the marker at the end of a path
+description: SVGBuilderExtensions MarkerEnd method. Sets the marker-end attribute for an SVG element specifying the marker at the end of a path
 type: docs
 weight: 1120
 url: /net/aspose.svg.builder/svgbuilderextensions/markerend/
 ---
-## MarkerEnd&lt;TBuilder&gt;(this TBuilder, string) {#markerend_1}
+## MarkerEnd&lt;TBuilder&gt;(*this TBuilder, string*) {#markerend_1}
 
 Sets the 'marker-end' attribute for an SVG element, specifying the marker at the end of a path.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## MarkerEnd&lt;TBuilder&gt;(this TBuilder, MarkerPos) {#markerend}
+## MarkerEnd&lt;TBuilder&gt;(*this TBuilder, [MarkerPos](../../markerpos/)*) {#markerend}
 
 Sets the 'marker-end' attribute for an SVG element using a predefined marker position.
 

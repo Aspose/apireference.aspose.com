@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnSelect
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onselect event attribute for handling text selection events on the element
+description: SVGBuilderExtensions OnSelect method. Sets the onselect event attribute for handling text selection events on the element
 type: docs
 weight: 1760
 url: /net/aspose.svg.builder/svgbuilderextensions/onselect/

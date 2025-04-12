@@ -1,7 +1,7 @@
 ---
 title: SVGFECompositeElementBuilder.K4
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFECompositeElementBuilder method. Sets the k4 attribute of the feComposite element
+description: SVGFECompositeElementBuilder K4 method. Sets the k4 attribute of the feComposite element
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/svgfecompositeelementbuilder/k4/

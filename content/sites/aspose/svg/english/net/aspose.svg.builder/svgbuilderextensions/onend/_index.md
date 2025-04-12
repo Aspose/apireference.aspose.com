@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnEnd
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onend attribute defining a script to be run at the end of the animation
+description: SVGBuilderExtensions OnEnd method. Sets the onend attribute defining a script to be run at the end of the animation
 type: docs
 weight: 1410
 url: /net/aspose.svg.builder/svgbuilderextensions/onend/

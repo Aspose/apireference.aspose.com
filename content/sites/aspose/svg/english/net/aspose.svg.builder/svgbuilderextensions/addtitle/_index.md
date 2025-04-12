@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddTitle
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a title element configuration to the builder. The title element is used to provide a title for SVG content
+description: SVGBuilderExtensions AddTitle method. Adds a title element configuration to the builder. The title element is used to provide a title for SVG content
 type: docs
 weight: 540
 url: /net/aspose.svg.builder/svgbuilderextensions/addtitle/

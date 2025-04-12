@@ -3,7 +3,7 @@ title: NamedNodeMap Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Collections.NamedNodeMap class. Represents collections of attributes that can be accessed by name
 type: docs
-weight: 3490
+weight: 2020
 url: /net/aspose.svg.collections/namednodemap/
 ---
 ## NamedNodeMap class
@@ -25,13 +25,13 @@ public class NamedNodeMap : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [GetNamedItem](../../aspose.svg.collections/namednodemap/getnameditem/)(string) | Retrieves a node specified by name. |
-| [GetNamedItemNS](../../aspose.svg.collections/namednodemap/getnameditemns/)(string, string) | Retrieves a node specified by local name and namespace URI. |
+| [GetNamedItem](../../aspose.svg.collections/namednodemap/getnameditem/)(*string*) | Retrieves a node specified by name. |
+| [GetNamedItemNS](../../aspose.svg.collections/namednodemap/getnameditemns/)(*string, string*) | Retrieves a node specified by local name and namespace URI. |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
-| [RemoveNamedItem](../../aspose.svg.collections/namednodemap/removenameditem/)(string) | Removes a node specified by name. |
-| [RemoveNamedItemNS](../../aspose.svg.collections/namednodemap/removenameditemns/)(string, string) | Removes a node specified by local name and namespace URI. |
-| [SetNamedItem](../../aspose.svg.collections/namednodemap/setnameditem/)(Attr) | Adds a node using its nodeName attribute. If a node with that name is already present in this map, it is replaced by the new one. Replacing a node by itself has no effect. |
-| [SetNamedItemNS](../../aspose.svg.collections/namednodemap/setnameditemns/)(Attr) | Adds a node using its namespaceURI and localName. If a node with that namespace URI and that local name is already present in this map, it is replaced by the new one. Replacing a node by itself has no effect. |
+| [RemoveNamedItem](../../aspose.svg.collections/namednodemap/removenameditem/)(*string*) | Removes a node specified by name. |
+| [RemoveNamedItemNS](../../aspose.svg.collections/namednodemap/removenameditemns/)(*string, string*) | Removes a node specified by local name and namespace URI. |
+| [SetNamedItem](../../aspose.svg.collections/namednodemap/setnameditem/)(*[Attr](../../aspose.svg.dom/attr/)*) | Adds a node using its nodeName attribute. If a node with that name is already present in this map, it is replaced by the new one. Replacing a node by itself has no effect. |
+| [SetNamedItemNS](../../aspose.svg.collections/namednodemap/setnameditemns/)(*[Attr](../../aspose.svg.dom/attr/)*) | Adds a node using its namespaceURI and localName. If a node with that namespace URI and that local name is already present in this map, it is replaced by the new one. Replacing a node by itself has no effect. |
 
 ### See Also
 

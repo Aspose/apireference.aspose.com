@@ -1,7 +1,7 @@
 ---
 title: SVGTextElementBuilder.AddA
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTextElementBuilder method. Adds an a anchor element to the text element enabling hyperlinking parts of the text
+description: SVGTextElementBuilder AddA method. Adds an a anchor element to the text element enabling hyperlinking parts of the text
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgtextelementbuilder/adda/

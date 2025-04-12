@@ -1,7 +1,7 @@
 ---
 title: SVGFETurbulenceElementBuilder.NumOctaves
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFETurbulenceElementBuilder method. Sets the number of octaves for the turbulence function
+description: SVGFETurbulenceElementBuilder NumOctaves method. Sets the number of octaves for the turbulence function
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgfeturbulenceelementbuilder/numoctaves/

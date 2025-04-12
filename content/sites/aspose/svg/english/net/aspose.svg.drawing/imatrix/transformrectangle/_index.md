@@ -1,7 +1,7 @@
 ---
 title: IMatrix.TransformRectangle
 second_title: Aspose.SVG for .NET API Reference
-description: IMatrix method. Transforms the specified rectangle using this matrix
+description: IMatrix TransformRectangle method. Transforms the specified rectangle using this matrix
 type: docs
 weight: 210
 url: /net/aspose.svg.drawing/imatrix/transformrectangle/

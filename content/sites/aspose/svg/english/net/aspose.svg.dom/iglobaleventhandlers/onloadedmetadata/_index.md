@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnLoadedMetadata
 second_title: Aspose.SVG for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnLoadedMetadata event
+description: IGlobalEventHandlers OnLoadedMetadata event. Gets or sets event handler for OnLoadedMetadata event
 type: docs
 weight: 220
 url: /net/aspose.svg.dom/iglobaleventhandlers/onloadedmetadata/

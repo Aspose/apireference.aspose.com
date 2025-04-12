@@ -3,7 +3,7 @@ title: ImageTraceSmoother Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.ImageVectorization.ImageTraceSmoother class. The ImageTraceSimplifier class is responsible for smoothing the number of points in a curve that is approximated by a series of the trace points. This class implement nearest-neighbor approach
 type: docs
-weight: 6200
+weight: 4350
 url: /net/aspose.svg.imagevectorization/imagetracesmoother/
 ---
 ## ImageTraceSmoother class
@@ -19,7 +19,7 @@ public class ImageTraceSmoother : IImageTraceSmoother
 | Name | Description |
 | --- | --- |
 | [ImageTraceSmoother](imagetracesmoother/#constructor)() | Initializes a new instance of the `ImageTraceSmoother` class. |
-| [ImageTraceSmoother](imagetracesmoother/#constructor_1)(int) | Initializes a new instance of the `ImageTraceSmoother` class. |
+| [ImageTraceSmoother](imagetracesmoother/#constructor_1)(*int*) | Initializes a new instance of the `ImageTraceSmoother` class. |
 
 ## Properties
 
@@ -31,7 +31,7 @@ public class ImageTraceSmoother : IImageTraceSmoother
 
 | Name | Description |
 | --- | --- |
-| virtual [Smooth](../../aspose.svg.imagevectorization/imagetracesmoother/smooth/)(IEnumerable&lt;PointF&gt;) | Smoothes the trace. |
+| virtual [Smooth](../../aspose.svg.imagevectorization/imagetracesmoother/smooth/)(*IEnumerable&amp;lt;PointF&amp;gt;*) | Smoothes the trace. |
 
 ### See Also
 

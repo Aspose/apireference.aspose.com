@@ -3,7 +3,7 @@ title: TypeInfo Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.TypeInfo class. The TypeInfo represents a type referenced from Element or Attr nodes specified in the schemas associated with the document
 type: docs
-weight: 3790
+weight: 3370
 url: /net/aspose.svg.dom/typeinfo/
 ---
 ## TypeInfo class
@@ -26,7 +26,7 @@ public class TypeInfo : DOMObject
 | Name | Description |
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
-| [IsDerivedFrom](../../aspose.svg.dom/typeinfo/isderivedfrom/)(string, string, ulong) | This method returns if there is a derivation between the reference type definition, i.e. the TypeInfo on which the method is being called, and the other type definition, i.e. the one passed as parameters. |
+| [IsDerivedFrom](../../aspose.svg.dom/typeinfo/isderivedfrom/)(*string, string, ulong*) | This method returns if there is a derivation between the reference type definition, i.e. the TypeInfo on which the method is being called, and the other type definition, i.e. the one passed as parameters. |
 
 ## Fields
 

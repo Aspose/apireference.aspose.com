@@ -1,7 +1,7 @@
 ---
 title: PathBuilder.Qr
 second_title: Aspose.SVG for .NET API Reference
-description: PathBuilder method. Adds a relative Quadratic Bezier Curve command to the path data
+description: PathBuilder Qr method. Adds a relative Quadratic Bezier Curve command to the path data
 type: docs
 weight: 150
 url: /net/aspose.svg.builder/pathbuilder/qr/

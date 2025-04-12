@@ -1,7 +1,7 @@
 ---
 title: SVGFEDiffuseLightingElement.In1
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDiffuseLightingElement property. Corresponds to attribute in on the given feDiffuseLighting element
+description: SVGFEDiffuseLightingElement In1 property. Corresponds to attribute in on the given feDiffuseLighting element
 type: docs
 weight: 30
 url: /net/aspose.svg.filters/svgfediffuselightingelement/in1/

@@ -1,7 +1,7 @@
 ---
 title: Event.CurrentTarget
 second_title: Aspose.SVG for .NET API Reference
-description: Event property. Used to indicate the IEventTarget whose IEventListeners are currently being processed. This is particularly useful during capturing and bubbling
+description: Event CurrentTarget property. Used to indicate the IEventTarget whose IEventListeners are currently being processed. This is particularly useful during capturing and bubbling
 type: docs
 weight: 40
 url: /net/aspose.svg.dom.events/event/currenttarget/

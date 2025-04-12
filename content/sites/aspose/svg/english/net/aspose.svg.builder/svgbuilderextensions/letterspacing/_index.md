@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.LetterSpacing
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the letter-spacing attribute for an SVG element using a numeric value and a specific length type
+description: SVGBuilderExtensions LetterSpacing method. Sets the letter-spacing attribute for an SVG element using a numeric value and a specific length type
 type: docs
 weight: 1100
 url: /net/aspose.svg.builder/svgbuilderextensions/letterspacing/
 ---
-## LetterSpacing&lt;TBuilder&gt;(this TBuilder, double, LengthType) {#letterspacing_1}
+## LetterSpacing&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#letterspacing_1}
 
 Sets the 'letter-spacing' attribute for an SVG element using a numeric value and a specific length type.
 
@@ -38,7 +38,7 @@ The builder instance for chaining.
 
 ---
 
-## LetterSpacing&lt;TBuilder&gt;(this TBuilder, Spacing) {#letterspacing}
+## LetterSpacing&lt;TBuilder&gt;(*this TBuilder, [Spacing](../../spacing/)*) {#letterspacing}
 
 Sets the 'letter-spacing' attribute for an SVG element using a predefined spacing value.
 

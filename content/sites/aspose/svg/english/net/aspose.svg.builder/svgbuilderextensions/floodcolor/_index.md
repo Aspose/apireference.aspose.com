@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.FloodColor
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the flood-color attribute for an SVG element using a System.Drawing color
+description: SVGBuilderExtensions FloodColor method. Sets the flood-color attribute for an SVG element using a System.Drawing color
 type: docs
 weight: 850
 url: /net/aspose.svg.builder/svgbuilderextensions/floodcolor/
 ---
-## FloodColor&lt;TBuilder&gt;(this TBuilder, Color) {#floodcolor_1}
+## FloodColor&lt;TBuilder&gt;(*this TBuilder, Color*) {#floodcolor_1}
 
 Sets the 'flood-color' attribute for an SVG element using a System.Drawing color.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## FloodColor&lt;TBuilder&gt;(this TBuilder, Action&lt;ColorBuilder&gt;) {#floodcolor}
+## FloodColor&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;ColorBuilder&amp;gt;*) {#floodcolor}
 
 Sets the 'flood-color' attribute for an SVG element using a custom color configuration.
 

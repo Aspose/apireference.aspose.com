@@ -1,7 +1,7 @@
 ---
 title: IDrawingFactory.CreateBitmap
 second_title: Aspose.SVG for .NET API Reference
-description: IDrawingFactory method. Creates a bitmap with the specified width and height
+description: IDrawingFactory CreateBitmap method. Creates a bitmap with the specified width and height
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/idrawingfactory/createbitmap/

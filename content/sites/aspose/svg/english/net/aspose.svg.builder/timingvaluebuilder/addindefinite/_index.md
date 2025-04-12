@@ -1,7 +1,7 @@
 ---
 title: TimingValueBuilder.AddIndefinite
 second_title: Aspose.SVG for .NET API Reference
-description: TimingValueBuilder method. Adds an indefinite timing value
+description: TimingValueBuilder AddIndefinite method. Adds an indefinite timing value
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/timingvaluebuilder/addindefinite/

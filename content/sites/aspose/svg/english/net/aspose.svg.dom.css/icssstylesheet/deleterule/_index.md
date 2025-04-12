@@ -1,7 +1,7 @@
 ---
 title: ICSSStyleSheet.DeleteRule
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSStyleSheet method. Used to delete a rule from the style sheet
+description: ICSSStyleSheet DeleteRule method. Used to delete a rule from the style sheet
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.css/icssstylesheet/deleterule/

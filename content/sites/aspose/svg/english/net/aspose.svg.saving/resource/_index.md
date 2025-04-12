@@ -3,7 +3,7 @@ title: Resource Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Saving.Resource class. This class describes a resource and provides methods for processing it
 type: docs
-weight: 2760
+weight: 6000
 url: /net/aspose.svg.saving/resource/
 ---
 ## Resource class
@@ -28,9 +28,9 @@ public class Resource
 
 | Name | Description |
 | --- | --- |
-| [Embed](../../aspose.svg.saving/resource/embed/)(ResourceHandlingContext) | Embeds this resource within its parent by encoding it as Base64. The encoding result will be written to [`OutputUrl`](./outputurl/). |
-| [Save](../../aspose.svg.saving/resource/save/)(Stream, ResourceHandlingContext) | Saves the resource to the provided stream. |
-| [WithOutputUrl](../../aspose.svg.saving/resource/withoutputurl/)(Url) | Specifies the new URL indicating where the resource will be located after processing. |
+| [Embed](../../aspose.svg.saving/resource/embed/)(*[ResourceHandlingContext](../resourcehandlingcontext/)*) | Embeds this resource within its parent by encoding it as Base64. The encoding result will be written to [`OutputUrl`](./outputurl/). |
+| [Save](../../aspose.svg.saving/resource/save/)(*Stream, [ResourceHandlingContext](../resourcehandlingcontext/)*) | Saves the resource to the provided stream. |
+| [WithOutputUrl](../../aspose.svg.saving/resource/withoutputurl/)(*[Url](../../aspose.svg/url/)*) | Specifies the new URL indicating where the resource will be located after processing. |
 
 ### See Also
 

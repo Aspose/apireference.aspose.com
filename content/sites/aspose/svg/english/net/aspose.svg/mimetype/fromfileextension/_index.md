@@ -1,7 +1,7 @@
 ---
 title: MimeType.FromFileExtension
 second_title: Aspose.SVG for .NET API Reference
-description: MimeType method. Creates a new MIME type based on file extension
+description: MimeType FromFileExtension method. Creates a new MIME type based on file extension
 type: docs
 weight: 20
 url: /net/aspose.svg/mimetype/fromfileextension/

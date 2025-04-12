@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.FontStretch
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the font-stretch attribute for an SVG element using a predefined font stretch value
+description: SVGBuilderExtensions FontStretch method. Sets the font-stretch attribute for an SVG element using a predefined font stretch value
 type: docs
 weight: 910
 url: /net/aspose.svg.builder/svgbuilderextensions/fontstretch/

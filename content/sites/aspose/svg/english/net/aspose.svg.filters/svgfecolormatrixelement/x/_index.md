@@ -1,7 +1,7 @@
 ---
 title: SVGFEColorMatrixElement.X
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEColorMatrixElement property. Corresponds to attribute x on the given filter element
+description: SVGFEColorMatrixElement X property. Corresponds to attribute x on the given filter element
 type: docs
 weight: 70
 url: /net/aspose.svg.filters/svgfecolormatrixelement/x/

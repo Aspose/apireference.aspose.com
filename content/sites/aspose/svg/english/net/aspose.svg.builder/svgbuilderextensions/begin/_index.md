@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Begin
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the begin attribute defining when the animation should start
+description: SVGBuilderExtensions Begin method. Sets the begin attribute defining when the animation should start
 type: docs
 weight: 610
 url: /net/aspose.svg.builder/svgbuilderextensions/begin/

@@ -1,7 +1,7 @@
 ---
 title: Element.ShadowRoot
 second_title: Aspose.SVG for .NET API Reference
-description: Element property. Returns shadowRoot stored on this element or null if its closed
+description: Element ShadowRoot property. Returns shadowRoot stored on this element or null if its closed
 type: docs
 weight: 190
 url: /net/aspose.svg.dom/element/shadowroot/

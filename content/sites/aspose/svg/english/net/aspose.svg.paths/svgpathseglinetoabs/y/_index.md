@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegLinetoAbs.Y
 second_title: Aspose.SVG for .NET API Reference
-description: SVGPathSegLinetoAbs property. The absolute Y coordinate for the end point of this path segment
+description: SVGPathSegLinetoAbs Y property. The absolute Y coordinate for the end point of this path segment
 type: docs
 weight: 20
 url: /net/aspose.svg.paths/svgpathseglinetoabs/y/

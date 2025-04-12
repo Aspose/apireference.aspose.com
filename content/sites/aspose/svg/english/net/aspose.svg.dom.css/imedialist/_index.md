@@ -3,7 +3,7 @@ title: IMediaList Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.IMediaList interface. The MediaList interface provides the abstraction of an ordered collection of media without defining or constraining how this collection is implemented. An empty list is the same as a list that contains the medium all
 type: docs
-weight: 4220
+weight: 2800
 url: /net/aspose.svg.dom.css/imedialist/
 ---
 ## IMediaList interface
@@ -26,8 +26,8 @@ public interface IMediaList : IEnumerable<string>
 
 | Name | Description |
 | --- | --- |
-| [AppendMedium](../../aspose.svg.dom.css/imedialist/appendmedium/)(string) | Adds the medium newMedium to the end of the list. If the newMedium is already used, it is first removed. |
-| [DeleteMedium](../../aspose.svg.dom.css/imedialist/deletemedium/)(string) | Deletes the medium indicated by oldMedium from the list. |
+| [AppendMedium](../../aspose.svg.dom.css/imedialist/appendmedium/)(*string*) | Adds the medium newMedium to the end of the list. If the newMedium is already used, it is first removed. |
+| [DeleteMedium](../../aspose.svg.dom.css/imedialist/deletemedium/)(*string*) | Deletes the medium indicated by oldMedium from the list. |
 
 ### See Also
 

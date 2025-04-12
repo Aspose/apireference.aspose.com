@@ -1,7 +1,7 @@
 ---
 title: XpsDevice.FillText
 second_title: Aspose.SVG for .NET API Reference
-description: XpsDevice method. Fills the specified text string at the specified location
+description: XpsDevice FillText method. Fills the specified text string at the specified location
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering.xps/xpsdevice/filltext/

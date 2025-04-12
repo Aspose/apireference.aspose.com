@@ -3,7 +3,7 @@ title: SVGAnimatedLength Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.DataTypes.SVGAnimatedLength class. Used for attributes of basic type length which can be animated
 type: docs
-weight: 5930
+weight: 2120
 url: /net/aspose.svg.datatypes/svganimatedlength/
 ---
 ## SVGAnimatedLength class

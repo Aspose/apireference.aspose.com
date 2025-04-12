@@ -1,7 +1,7 @@
 ---
 title: ICSSStyleSheet.InsertRule
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSStyleSheet method. Used to insert a new rule into the style sheet. The new rule now becomes part of the cascade
+description: ICSSStyleSheet InsertRule method. Used to insert a new rule into the style sheet. The new rule now becomes part of the cascade
 type: docs
 weight: 40
 url: /net/aspose.svg.dom.css/icssstylesheet/insertrule/

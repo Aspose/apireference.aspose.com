@@ -1,7 +1,7 @@
 ---
 title: UnitType.Rad
 second_title: Aspose.SVG for .NET API Reference
-description: UnitType field. Measurement is in radians
+description: UnitType Rad field. Measurement is in radians
 type: docs
 weight: 220
 url: /net/aspose.svg.drawing/unittype/rad/

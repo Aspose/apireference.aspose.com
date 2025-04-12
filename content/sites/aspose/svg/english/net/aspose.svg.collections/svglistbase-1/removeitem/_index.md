@@ -1,7 +1,7 @@
 ---
 title: SVGListBase-1.RemoveItem
 second_title: Aspose.SVG for .NET API Reference
-description: SVGListBase method. Removes an existing item from the list
+description: SVGListBase RemoveItem method. Removes an existing item from the list
 type: docs
 weight: 100
 url: /net/aspose.svg.collections/svglistbase-1/removeitem/

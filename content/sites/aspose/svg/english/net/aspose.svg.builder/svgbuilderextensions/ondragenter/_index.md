@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnDragEnter
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the ondragenter event attribute for handling the entry of a dragged item into a valid drop target
+description: SVGBuilderExtensions OnDragEnter method. Sets the ondragenter event attribute for handling the entry of a dragged item into a valid drop target
 type: docs
 weight: 1330
 url: /net/aspose.svg.builder/svgbuilderextensions/ondragenter/

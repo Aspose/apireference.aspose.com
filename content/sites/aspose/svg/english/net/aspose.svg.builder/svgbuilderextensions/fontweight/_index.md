@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.FontWeight
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the font-weight attribute for an SVG element using a predefined font weight value
+description: SVGBuilderExtensions FontWeight method. Sets the font-weight attribute for an SVG element using a predefined font weight value
 type: docs
 weight: 940
 url: /net/aspose.svg.builder/svgbuilderextensions/fontweight/

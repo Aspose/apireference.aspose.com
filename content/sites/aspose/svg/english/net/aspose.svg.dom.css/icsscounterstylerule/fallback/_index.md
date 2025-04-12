@@ -1,7 +1,7 @@
 ---
 title: ICSSCounterStyleRule.Fallback
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSCounterStyleRule property. Gets the fallback
+description: ICSSCounterStyleRule Fallback property. Gets the fallback
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.css/icsscounterstylerule/fallback/

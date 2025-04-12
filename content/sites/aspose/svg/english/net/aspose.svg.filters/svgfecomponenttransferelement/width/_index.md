@@ -1,7 +1,7 @@
 ---
 title: SVGFEComponentTransferElement.Width
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEComponentTransferElement property. Corresponds to attribute width on the given filter element
+description: SVGFEComponentTransferElement Width property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 40
 url: /net/aspose.svg.filters/svgfecomponenttransferelement/width/

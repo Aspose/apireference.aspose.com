@@ -1,7 +1,7 @@
 ---
 title: TimingValueBuilder.AddRepeat
 second_title: Aspose.SVG for .NET API Reference
-description: TimingValueBuilder method. Adds a repeat-based timing value
+description: TimingValueBuilder AddRepeat method. Adds a repeat-based timing value
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/timingvaluebuilder/addrepeat/

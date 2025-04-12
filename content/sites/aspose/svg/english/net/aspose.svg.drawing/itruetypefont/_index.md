@@ -3,7 +3,7 @@ title: ITrueTypeFont Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.ITrueTypeFont interface. Declares methods for working with TrueType fonts
 type: docs
-weight: 2230
+weight: 3670
 url: /net/aspose.svg.drawing/itruetypefont/
 ---
 ## ITrueTypeFont interface
@@ -27,9 +27,9 @@ public interface ITrueTypeFont
 
 | Name | Description |
 | --- | --- |
-| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(float) | Gets the ascent of the font in points using the specified font size. |
+| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(*float*) | Gets the ascent of the font in points using the specified font size. |
 | [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | Opens the stream with the font data. The caller is responsible for disposing the stream. |
-| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(float) | Gets the descent of the font in points using the specified font size. |
+| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(*float*) | Gets the descent of the font in points using the specified font size. |
 
 ### See Also
 

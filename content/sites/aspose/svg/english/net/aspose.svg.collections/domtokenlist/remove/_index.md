@@ -1,7 +1,7 @@
 ---
 title: DOMTokenList.Remove
 second_title: Aspose.SVG for .NET API Reference
-description: DOMTokenList method. Removes the specified tokens from the list
+description: DOMTokenList Remove method. Removes the specified tokens from the list
 type: docs
 weight: 70
 url: /net/aspose.svg.collections/domtokenlist/remove/

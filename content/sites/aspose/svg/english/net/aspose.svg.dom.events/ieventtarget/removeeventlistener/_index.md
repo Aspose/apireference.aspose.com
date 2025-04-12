@@ -1,12 +1,12 @@
 ---
 title: IEventTarget.RemoveEventListener
 second_title: Aspose.SVG for .NET API Reference
-description: IEventTarget method. This method allows the removal of event listeners from the event target. If an IEventListener is removed from an EventTarget while it is processing an event it will not be triggered by the current actions. Event Listeners can never be invoked after being removed
+description: IEventTarget RemoveEventListener method. This method allows the removal of event listeners from the event target. If an IEventListener is removed from an EventTarget while it is processing an event it will not be triggered by the current actions. Event Listeners can never be invoked after being removed
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.events/ieventtarget/removeeventlistener/
 ---
-## RemoveEventListener(string, IEventListener) {#removeeventlistener}
+## RemoveEventListener(*string, [IEventListener](../../ieventlistener/)*) {#removeeventlistener}
 
 This method allows the removal of event listeners from the event target. If an [`IEventListener`](../../ieventlistener/) is removed from an [`EventTarget`](../../../aspose.svg.dom/eventtarget/) while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed.
 
@@ -28,7 +28,7 @@ public void RemoveEventListener(string type, IEventListener listener)
 
 ---
 
-## RemoveEventListener(string, IEventListener, bool) {#removeeventlistener_1}
+## RemoveEventListener(*string, [IEventListener](../../ieventlistener/), bool*) {#removeeventlistener_1}
 
 This method allows the removal of event listeners from the event target. If an [`IEventListener`](../../ieventlistener/) is removed from an [`EventTarget`](../../../aspose.svg.dom/eventtarget/) while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed.
 

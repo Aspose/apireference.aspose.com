@@ -1,7 +1,7 @@
 ---
 title: SVGFEMergeElement.X
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEMergeElement property. Corresponds to attribute x on the given filter element
+description: SVGFEMergeElement X property. Corresponds to attribute x on the given filter element
 type: docs
 weight: 40
 url: /net/aspose.svg.filters/svgfemergeelement/x/

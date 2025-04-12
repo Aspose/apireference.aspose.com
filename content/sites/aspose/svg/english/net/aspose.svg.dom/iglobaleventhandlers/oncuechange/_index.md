@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnCueChange
 second_title: Aspose.SVG for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnCueChange event
+description: IGlobalEventHandlers OnCueChange event. Gets or sets event handler for OnCueChange event
 type: docs
 weight: 80
 url: /net/aspose.svg.dom/iglobaleventhandlers/oncuechange/

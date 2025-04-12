@@ -1,7 +1,7 @@
 ---
 title: ISVGDeviceContextFactory.Create
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGDeviceContextFactory method. Creates an SVG device context with the specified device and renderer service
+description: ISVGDeviceContextFactory Create method. Creates an SVG device context with the specified device and renderer service
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/isvgdevicecontextfactory/create/

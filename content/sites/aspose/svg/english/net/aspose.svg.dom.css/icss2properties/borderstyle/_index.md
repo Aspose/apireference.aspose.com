@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.BorderStyle
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the border-style property definition in CSS2
+description: ICSS2Properties BorderStyle property. See the border-style property definition in CSS2
 type: docs
 weight: 240
 url: /net/aspose.svg.dom.css/icss2properties/borderstyle/

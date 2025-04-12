@@ -1,7 +1,7 @@
 ---
 title: SVGTextPathElementBuilder.StartOffset
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTextPathElementBuilder method. Sets the startOffset attribute specifying the starting position of the text on the path
+description: SVGTextPathElementBuilder StartOffset method. Sets the startOffset attribute specifying the starting position of the text on the path
 type: docs
 weight: 100
 url: /net/aspose.svg.builder/svgtextpathelementbuilder/startoffset/

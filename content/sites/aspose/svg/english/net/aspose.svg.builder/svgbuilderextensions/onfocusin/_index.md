@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnFocusIn
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onfocusin event attribute for handling focus-in events on the element
+description: SVGBuilderExtensions OnFocusIn method. Sets the onfocusin event attribute for handling focus-in events on the element
 type: docs
 weight: 1450
 url: /net/aspose.svg.builder/svgbuilderextensions/onfocusin/

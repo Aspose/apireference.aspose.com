@@ -1,7 +1,7 @@
 ---
 title: IMatrix.ToNative
 second_title: Aspose.SVG for .NET API Reference
-description: IMatrix method. Converts the matrix to a native representation
+description: IMatrix ToNative method. Converts the matrix to a native representation
 type: docs
 weight: 180
 url: /net/aspose.svg.drawing/imatrix/tonative/

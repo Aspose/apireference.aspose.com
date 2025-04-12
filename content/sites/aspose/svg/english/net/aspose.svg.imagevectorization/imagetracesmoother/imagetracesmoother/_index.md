@@ -22,7 +22,7 @@ public ImageTraceSmoother()
 
 ---
 
-## ImageTraceSmoother(int) {#constructor_1}
+## ImageTraceSmoother(*int*) {#constructor_1}
 
 Initializes a new instance of the [`ImageTraceSmoother`](../) class.
 

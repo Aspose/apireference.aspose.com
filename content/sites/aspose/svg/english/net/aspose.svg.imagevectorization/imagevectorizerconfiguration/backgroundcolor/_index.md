@@ -1,7 +1,7 @@
 ---
 title: ImageVectorizerConfiguration.BackgroundColor
 second_title: Aspose.SVG for .NET API Reference
-description: ImageVectorizerConfiguration property. Gets or sets background color. Default value is transparent white
+description: ImageVectorizerConfiguration BackgroundColor property. Gets or sets background color. Default value is transparent white
 type: docs
 weight: 20
 url: /net/aspose.svg.imagevectorization/imagevectorizerconfiguration/backgroundcolor/

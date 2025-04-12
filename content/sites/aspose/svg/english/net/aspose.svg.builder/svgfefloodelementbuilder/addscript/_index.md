@@ -1,7 +1,7 @@
 ---
 title: SVGFEFloodElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEFloodElementBuilder method. Adds a script configuration to the feFlood element
+description: SVGFEFloodElementBuilder AddScript method. Adds a script configuration to the feFlood element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfefloodelementbuilder/addscript/

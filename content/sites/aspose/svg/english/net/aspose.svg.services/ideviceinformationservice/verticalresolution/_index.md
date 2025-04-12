@@ -1,7 +1,7 @@
 ---
 title: IDeviceInformationService.VerticalResolution
 second_title: Aspose.SVG for .NET API Reference
-description: IDeviceInformationService property. Gets or sets the vertical resolution
+description: IDeviceInformationService VerticalResolution property. Gets or sets the vertical resolution
 type: docs
 weight: 30
 url: /net/aspose.svg.services/ideviceinformationservice/verticalresolution/

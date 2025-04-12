@@ -1,7 +1,7 @@
 ---
 title: ICanvas.LineTo
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Adds a line segment to the current path
+description: ICanvas LineTo method. Adds a line segment to the current path
 type: docs
 weight: 180
 url: /net/aspose.svg.rendering/icanvas/lineto/

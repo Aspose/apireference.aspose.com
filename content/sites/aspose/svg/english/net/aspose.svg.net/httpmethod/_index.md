@@ -3,7 +3,7 @@ title: HttpMethod Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.HttpMethod class. Represents utility class for retrieving and comparing standard HTTP methods
 type: docs
-weight: 2890
+weight: 4510
 url: /net/aspose.svg.net/httpmethod/
 ---
 ## HttpMethod class
@@ -18,7 +18,7 @@ public class HttpMethod : IEquatable<HttpMethod>
 
 | Name | Description |
 | --- | --- |
-| [HttpMethod](httpmethod/)(string) | Initializes a new instance of the `HttpMethod` class with a specific HTTP method. |
+| [HttpMethod](httpmethod/)(*string*) | Initializes a new instance of the `HttpMethod` class with a specific HTTP method. |
 
 ## Properties
 
@@ -33,8 +33,8 @@ public class HttpMethod : IEquatable<HttpMethod>
 
 | Name | Description |
 | --- | --- |
-| [Equals](../../aspose.svg.net/httpmethod/equals/#equals)(HttpMethod) | Indicates whether the current object is equal to another object of the same type. |
-| override [Equals](../../aspose.svg.net/httpmethod/equals/#equals_1)(object) | Determines whether the specified Object, is equal to this instance. |
+| [Equals](../../aspose.svg.net/httpmethod/equals/#equals)(*HttpMethod*) | Indicates whether the current object is equal to another object of the same type. |
+| override [Equals](../../aspose.svg.net/httpmethod/equals/#equals_1)(*object*) | Determines whether the specified Object, is equal to this instance. |
 | override [GetHashCode](../../aspose.svg.net/httpmethod/gethashcode/)() | Returns a hash code for this instance. |
 | override [ToString](../../aspose.svg.net/httpmethod/tostring/)() | Returns a String that represents this instance. |
 | [operator ==](../../aspose.svg.net/httpmethod/op_equality/) | Implements the equality operator. |

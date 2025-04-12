@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElementBuilder.TargetX
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEConvolveMatrixElementBuilder method. Sets the targetX attribute of the feConvolveMatrix element
+description: SVGFEConvolveMatrixElementBuilder TargetX method. Sets the targetX attribute of the feConvolveMatrix element
 type: docs
 weight: 100
 url: /net/aspose.svg.builder/svgfeconvolvematrixelementbuilder/targetx/

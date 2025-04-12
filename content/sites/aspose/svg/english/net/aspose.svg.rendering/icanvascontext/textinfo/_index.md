@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.TextInfo
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets the text information. See TextInfo
+description: ICanvasContext TextInfo property. Gets the text information. See TextInfo
 type: docs
 weight: 250
 url: /net/aspose.svg.rendering/icanvascontext/textinfo/

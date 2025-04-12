@@ -1,7 +1,7 @@
 ---
 title: Length.op_GreaterThanOrEqual
 second_title: Aspose.SVG for .NET API Reference
-description: Length method. Implements the operator 
+description: Length op_GreaterThanOrEqual method. Implements the operator 
 type: docs
 weight: 40
 url: /net/aspose.svg.drawing/length/op_greaterthanorequal/

@@ -1,7 +1,7 @@
 ---
 title: IBrowsingContext.Security
 second_title: Aspose.SVG for .NET API Reference
-description: IBrowsingContext property. Gets the sandboxing flag
+description: IBrowsingContext Security property. Gets the sandboxing flag
 type: docs
 weight: 50
 url: /net/aspose.svg.dom/ibrowsingcontext/security/

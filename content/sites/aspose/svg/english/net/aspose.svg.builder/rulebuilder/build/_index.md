@@ -1,7 +1,7 @@
 ---
 title: RuleBuilder.Build
 second_title: Aspose.SVG for .NET API Reference
-description: RuleBuilder method. Builds the final CSS style string from the accumulated style attributes
+description: RuleBuilder Build method. Builds the final CSS style string from the accumulated style attributes
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/rulebuilder/build/

@@ -3,7 +3,7 @@ title: Paint Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.Paint enum. Specifies the paint options for the fill and stroke attributes in SVG elements
 type: docs
-weight: 440
+weight: 970
 url: /net/aspose.svg.builder/paint/
 ---
 ## Paint enumeration

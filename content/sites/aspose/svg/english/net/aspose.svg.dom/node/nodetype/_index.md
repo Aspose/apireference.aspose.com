@@ -1,7 +1,7 @@
 ---
 title: Node.NodeType
 second_title: Aspose.SVG for .NET API Reference
-description: Node property. A code representing the type of the underlying object
+description: Node NodeType property. A code representing the type of the underlying object
 type: docs
 weight: 90
 url: /net/aspose.svg.dom/node/nodetype/

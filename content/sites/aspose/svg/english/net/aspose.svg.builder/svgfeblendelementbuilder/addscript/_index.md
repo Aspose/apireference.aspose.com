@@ -1,7 +1,7 @@
 ---
 title: SVGFEBlendElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEBlendElementBuilder method. Adds a script configuration to the feBlend element
+description: SVGFEBlendElementBuilder AddScript method. Adds a script configuration to the feBlend element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfeblendelementbuilder/addscript/

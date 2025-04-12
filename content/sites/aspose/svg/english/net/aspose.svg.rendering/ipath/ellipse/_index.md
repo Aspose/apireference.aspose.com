@@ -1,12 +1,12 @@
 ---
 title: IPath.Ellipse
 second_title: Aspose.SVG for .NET API Reference
-description: IPath method. Adds an elliptical arc to the path
+description: IPath Ellipse method. Adds an elliptical arc to the path
 type: docs
 weight: 100
 url: /net/aspose.svg.rendering/ipath/ellipse/
 ---
-## Ellipse(float, float, float, float, float, float, float) {#ellipse}
+## Ellipse(*float, float, float, float, float, float, float*) {#ellipse}
 
 Adds an elliptical arc to the path.
 
@@ -33,7 +33,7 @@ public void Ellipse(float x, float y, float radiusX, float radiusY, float rotati
 
 ---
 
-## Ellipse(float, float, float, float, float, float, float, bool) {#ellipse_1}
+## Ellipse(*float, float, float, float, float, float, float, bool*) {#ellipse_1}
 
 Adds an elliptical arc to the path.
 

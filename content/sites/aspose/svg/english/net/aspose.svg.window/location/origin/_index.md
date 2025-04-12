@@ -1,7 +1,7 @@
 ---
 title: Location.Origin
 second_title: Aspose.SVG for .NET API Reference
-description: Location property. Returns the Location objects URLs origin
+description: Location Origin property. Returns the Location objects URLs origin
 type: docs
 weight: 50
 url: /net/aspose.svg.window/location/origin/

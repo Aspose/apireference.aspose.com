@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegLinetoVerticalRel.Y
 second_title: Aspose.SVG for .NET API Reference
-description: SVGPathSegLinetoVerticalRel property. The relative Y coordinate for the end point of this path segment
+description: SVGPathSegLinetoVerticalRel Y property. The relative Y coordinate for the end point of this path segment
 type: docs
 weight: 10
 url: /net/aspose.svg.paths/svgpathseglinetoverticalrel/y/

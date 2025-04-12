@@ -1,7 +1,7 @@
 ---
 title: SplinePathBuilder.Build
 second_title: Aspose.SVG for .NET API Reference
-description: SplinePathBuilder method. Constructs a smooth path through a sequence of points by converting Centripetal CatmullRom splines into Bezier curves. This method ensures a natural and smooth transition through each point creating an SVG path that closely follows the provided trace
+description: SplinePathBuilder Build method. Constructs a smooth path through a sequence of points by converting Centripetal CatmullRom splines into Bezier curves. This method ensures a natural and smooth transition through each point creating an SVG path that closely follows the provided trace
 type: docs
 weight: 50
 url: /net/aspose.svg.imagevectorization/splinepathbuilder/build/

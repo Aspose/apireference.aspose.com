@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.Options
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter property. Gets the rendering options
+description: DeviceAdapter Options property. Gets the rendering options
 type: docs
 weight: 40
 url: /net/aspose.svg.rendering/deviceadapter/options/

@@ -1,7 +1,7 @@
 ---
 title: SVGFESpotLightElement.LimitingConeAngle
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFESpotLightElement property. Corresponds to attribute limitingConeAngle on the given feSpotLight element
+description: SVGFESpotLightElement LimitingConeAngle property. Corresponds to attribute limitingConeAngle on the given feSpotLight element
 type: docs
 weight: 10
 url: /net/aspose.svg.filters/svgfespotlightelement/limitingconeangle/

@@ -1,7 +1,7 @@
 ---
 title: Element.ChildElementCount
 second_title: Aspose.SVG for .NET API Reference
-description: Element property. Returns the current number of element nodes that are children of this element. 0 if this element has no child nodes that are of nodeType 1
+description: Element ChildElementCount property. Returns the current number of element nodes that are children of this element. 0 if this element has no child nodes that are of nodeType 1
 type: docs
 weight: 30
 url: /net/aspose.svg.dom/element/childelementcount/

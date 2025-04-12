@@ -1,7 +1,7 @@
 ---
 title: IBrowsingContext.Network
 second_title: Aspose.SVG for .NET API Reference
-description: IBrowsingContext property. Gets the network services
+description: IBrowsingContext Network property. Gets the network services
 type: docs
 weight: 30
 url: /net/aspose.svg.dom/ibrowsingcontext/network/

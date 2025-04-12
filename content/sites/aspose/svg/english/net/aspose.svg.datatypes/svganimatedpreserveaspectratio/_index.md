@@ -3,7 +3,7 @@ title: SVGAnimatedPreserveAspectRatio Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.DataTypes.SVGAnimatedPreserveAspectRatio class. Used for attributes of type SVGPreserveAspectRatio which can be animated
 type: docs
-weight: 5970
+weight: 2160
 url: /net/aspose.svg.datatypes/svganimatedpreserveaspectratio/
 ---
 ## SVGAnimatedPreserveAspectRatio class

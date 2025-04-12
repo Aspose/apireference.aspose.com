@@ -1,7 +1,7 @@
 ---
 title: SVGFEFuncAElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEFuncAElementBuilder method. Adds a script configuration to the feFuncA element
+description: SVGFEFuncAElementBuilder AddScript method. Adds a script configuration to the feFuncA element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfefuncaelementbuilder/addscript/

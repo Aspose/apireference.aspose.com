@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.CubicBezierTo
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter method. Appends a cubic Bézier curve to the current path. The curve extends from the current point to the point pt2 using pt1 and pt2 as the Bézier control points. The new current point is pt3
+description: DeviceAdapter CubicBezierTo method. Appends a cubic Bézier curve to the current path. The curve extends from the current point to the point pt2 using pt1 and pt2 as the Bézier control points. The new current point is pt3
 type: docs
 weight: 110
 url: /net/aspose.svg.rendering/deviceadapter/cubicbezierto/

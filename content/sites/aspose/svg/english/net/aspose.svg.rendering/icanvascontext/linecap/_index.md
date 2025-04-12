@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.LineCap
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the line cap style. See StrokeLineCap
+description: ICanvasContext LineCap property. Gets or sets the line cap style. See StrokeLineCap
 type: docs
 weight: 110
 url: /net/aspose.svg.rendering/icanvascontext/linecap/

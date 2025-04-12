@@ -1,7 +1,7 @@
 ---
 title: SVGCircleElementBuilder.Cx
 second_title: Aspose.SVG for .NET API Reference
-description: SVGCircleElementBuilder method. Sets the cx attribute of the SVG circle element specifying the x-coordinate of the center of the circle
+description: SVGCircleElementBuilder Cx method. Sets the cx attribute of the SVG circle element specifying the x-coordinate of the center of the circle
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgcircleelementbuilder/cx/

@@ -1,7 +1,7 @@
 ---
 title: Document.CreateDocumentType
 second_title: Aspose.SVG for .NET API Reference
-description: Document method. Creates a DocumentType node
+description: Document CreateDocumentType method. Creates a DocumentType node
 type: docs
 weight: 840
 url: /net/aspose.svg.dom/document/createdocumenttype/

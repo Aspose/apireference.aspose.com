@@ -1,7 +1,7 @@
 ---
 title: SVGFESpotLightElement.PointsAtY
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFESpotLightElement property. Corresponds to attribute pointsAtY on the given feSpotLight element
+description: SVGFESpotLightElement PointsAtY property. Corresponds to attribute pointsAtY on the given feSpotLight element
 type: docs
 weight: 30
 url: /net/aspose.svg.filters/svgfespotlightelement/pointsaty/

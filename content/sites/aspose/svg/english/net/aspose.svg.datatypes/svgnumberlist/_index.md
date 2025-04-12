@@ -3,7 +3,7 @@ title: SVGNumberList Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.DataTypes.SVGNumberList class. This interface defines a list of SVGNumber objects
 type: docs
-weight: 6060
+weight: 2250
 url: /net/aspose.svg.datatypes/svgnumberlist/
 ---
 ## SVGNumberList class
@@ -26,16 +26,16 @@ public class SVGNumberList : SVGListBase<SVGNumber>
 
 | Name | Description |
 | --- | --- |
-| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(SVGNumber) |  |
+| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(*[SVGNumber](../svgnumber/)*) |  |
 | [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() |  |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase-1/getenumerator/)() |  |
-| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(ulong) |  |
+| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
-| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(SVGNumber) |  |
-| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(SVGNumber, ulong) |  |
-| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
-| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(SVGNumber, ulong) |  |
+| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(*[SVGNumber](../svgnumber/)*) |  |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(*[SVGNumber](../svgnumber/), ulong*) |  |
+| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |
+| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(*[SVGNumber](../svgnumber/), ulong*) |  |
 | override [ToString](../../aspose.svg.datatypes/svgnumberlist/tostring/)() | Returns a String that represents this instance. |
 
 ### See Also

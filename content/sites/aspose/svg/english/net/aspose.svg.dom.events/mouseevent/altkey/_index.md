@@ -1,7 +1,7 @@
 ---
 title: MouseEvent.AltKey
 second_title: Aspose.SVG for .NET API Reference
-description: MouseEvent property. Refer to the altKey attribute
+description: MouseEvent AltKey property. Refer to the altKey attribute
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.events/mouseevent/altkey/

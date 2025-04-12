@@ -1,7 +1,7 @@
 ---
 title: ISVGRenderContext.ApplyRenderProperties
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGRenderContext method. Applies the render properties and executes the rendering action
+description: ISVGRenderContext ApplyRenderProperties method. Applies the render properties and executes the rendering action
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/isvgrendercontext/applyrenderproperties/

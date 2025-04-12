@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.ShadowOffsetY
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the vertical offset of the shadow
+description: ICanvasContext ShadowOffsetY property. Gets or sets the vertical offset of the shadow
 type: docs
 weight: 210
 url: /net/aspose.svg.rendering/icanvascontext/shadowoffsety/

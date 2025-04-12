@@ -1,7 +1,7 @@
 ---
 title: NameValueHeaderValue.Name
 second_title: Aspose.SVG for .NET API Reference
-description: NameValueHeaderValue property. Gets the parameter name
+description: NameValueHeaderValue Name property. Gets the parameter name
 type: docs
 weight: 10
 url: /net/aspose.svg.net.headers/namevalueheadervalue/name/

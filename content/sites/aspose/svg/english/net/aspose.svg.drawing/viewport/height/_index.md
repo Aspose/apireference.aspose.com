@@ -1,7 +1,7 @@
 ---
 title: Viewport.Height
 second_title: Aspose.SVG for .NET API Reference
-description: Viewport property. Gets the height of the viewport
+description: Viewport Height property. Gets the height of the viewport
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/viewport/height/

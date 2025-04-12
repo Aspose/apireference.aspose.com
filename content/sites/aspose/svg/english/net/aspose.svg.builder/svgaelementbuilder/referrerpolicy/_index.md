@@ -1,7 +1,7 @@
 ---
 title: SVGAElementBuilder.ReferrerPolicy
 second_title: Aspose.SVG for .NET API Reference
-description: SVGAElementBuilder method. Sets the referrerPolicy attribute of the SVG a element specifying how much of the referrer to send along with requests
+description: SVGAElementBuilder ReferrerPolicy method. Sets the referrerPolicy attribute of the SVG a element specifying how much of the referrer to send along with requests
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/svgaelementbuilder/referrerpolicy/

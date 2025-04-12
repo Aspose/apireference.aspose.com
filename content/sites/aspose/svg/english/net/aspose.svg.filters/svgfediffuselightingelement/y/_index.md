@@ -1,7 +1,7 @@
 ---
 title: SVGFEDiffuseLightingElement.Y
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDiffuseLightingElement property. Corresponds to attribute y on the given filter element
+description: SVGFEDiffuseLightingElement Y property. Corresponds to attribute y on the given filter element
 type: docs
 weight: 100
 url: /net/aspose.svg.filters/svgfediffuselightingelement/y/

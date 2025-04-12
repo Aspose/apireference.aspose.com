@@ -1,7 +1,7 @@
 ---
 title: IMatrix.Reset
 second_title: Aspose.SVG for .NET API Reference
-description: IMatrix method. Resets the matrix to the identity matrix
+description: IMatrix Reset method. Resets the matrix to the identity matrix
 type: docs
 weight: 130
 url: /net/aspose.svg.drawing/imatrix/reset/

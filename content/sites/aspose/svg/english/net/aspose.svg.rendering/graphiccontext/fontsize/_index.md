@@ -1,7 +1,7 @@
 ---
 title: GraphicContext.FontSize
 second_title: Aspose.SVG for .NET API Reference
-description: GraphicContext property. Sets or gets text font size
+description: GraphicContext FontSize property. Sets or gets text font size
 type: docs
 weight: 50
 url: /net/aspose.svg.rendering/graphiccontext/fontsize/

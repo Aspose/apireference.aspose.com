@@ -1,12 +1,12 @@
 ---
 title: IDrawingFactory.CreateLinearGradientBrush
 second_title: Aspose.SVG for .NET API Reference
-description: IDrawingFactory method. Creates a linear gradient brush with the specified parameters
+description: IDrawingFactory CreateLinearGradientBrush method. Creates a linear gradient brush with the specified parameters
 type: docs
 weight: 70
 url: /net/aspose.svg.drawing/idrawingfactory/createlineargradientbrush/
 ---
-## CreateLinearGradientBrush(RectangleF, IInterpolationColor[]) {#createlineargradientbrush}
+## CreateLinearGradientBrush(*RectangleF, IInterpolationColor[]*) {#createlineargradientbrush}
 
 Creates a linear gradient brush with the specified parameters.
 
@@ -33,7 +33,7 @@ The created [`ILinearGradientBrush`](../../ilineargradientbrush/).
 
 ---
 
-## CreateLinearGradientBrush(RectangleF, float, bool, IInterpolationColor[], SpreadMode) {#createlineargradientbrush_1}
+## CreateLinearGradientBrush(*RectangleF, float, bool, IInterpolationColor[], [SpreadMode](../../spreadmode/)*) {#createlineargradientbrush_1}
 
 Creates a linear gradient brush with the specified parameters.
 

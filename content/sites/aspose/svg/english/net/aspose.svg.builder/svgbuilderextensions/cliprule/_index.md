@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.ClipRule
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the clip-rule attribute for an SVG element
+description: SVGBuilderExtensions ClipRule method. Sets the clip-rule attribute for an SVG element
 type: docs
 weight: 660
 url: /net/aspose.svg.builder/svgbuilderextensions/cliprule/

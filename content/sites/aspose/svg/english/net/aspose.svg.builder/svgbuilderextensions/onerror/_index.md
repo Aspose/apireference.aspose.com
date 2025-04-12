@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnError
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onerror event attribute for handling error events on the element
+description: SVGBuilderExtensions OnError method. Sets the onerror event attribute for handling error events on the element
 type: docs
 weight: 1430
 url: /net/aspose.svg.builder/svgbuilderextensions/onerror/

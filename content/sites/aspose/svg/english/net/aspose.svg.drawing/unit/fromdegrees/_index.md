@@ -1,7 +1,7 @@
 ---
 title: Unit.FromDegrees
 second_title: Aspose.SVG for .NET API Reference
-description: Unit method. Returns a Angle object that is represented in degrees
+description: Unit FromDegrees method. Returns a Angle object that is represented in degrees
 type: docs
 weight: 60
 url: /net/aspose.svg.drawing/unit/fromdegrees/

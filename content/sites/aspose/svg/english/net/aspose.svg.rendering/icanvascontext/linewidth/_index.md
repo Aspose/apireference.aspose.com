@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.LineWidth
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the line width
+description: ICanvasContext LineWidth property. Gets or sets the line width
 type: docs
 weight: 150
 url: /net/aspose.svg.rendering/icanvascontext/linewidth/

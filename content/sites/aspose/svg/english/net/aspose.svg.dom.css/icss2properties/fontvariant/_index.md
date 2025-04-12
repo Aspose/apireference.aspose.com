@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.FontVariant
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the font-variant property definition in CSS2
+description: ICSS2Properties FontVariant property. See the font-variant property definition in CSS2
 type: docs
 weight: 530
 url: /net/aspose.svg.dom.css/icss2properties/fontvariant/

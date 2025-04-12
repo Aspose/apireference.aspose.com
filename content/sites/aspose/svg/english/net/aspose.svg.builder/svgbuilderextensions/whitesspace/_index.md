@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.WhiteSspace
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the white-space attribute for an SVG element specifying how white space inside the element is handled
+description: SVGBuilderExtensions WhiteSspace method. Sets the white-space attribute for an SVG element specifying how white space inside the element is handled
 type: docs
 weight: 2320
 url: /net/aspose.svg.builder/svgbuilderextensions/whitesspace/

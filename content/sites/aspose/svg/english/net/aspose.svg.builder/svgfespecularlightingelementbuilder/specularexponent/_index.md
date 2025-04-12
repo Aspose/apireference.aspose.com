@@ -1,7 +1,7 @@
 ---
 title: SVGFESpecularLightingElementBuilder.SpecularExponent
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFESpecularLightingElementBuilder method. Sets the specularExponent attribute controlling the focus of the specular highlight
+description: SVGFESpecularLightingElementBuilder SpecularExponent method. Sets the specularExponent attribute controlling the focus of the specular highlight
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgfespecularlightingelementbuilder/specularexponent/

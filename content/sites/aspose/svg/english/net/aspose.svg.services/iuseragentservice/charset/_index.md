@@ -1,7 +1,7 @@
 ---
 title: IUserAgentService.CharSet
 second_title: Aspose.SVG for .NET API Reference
-description: IUserAgentService property. Gets or sets the primary character-set for a document
+description: IUserAgentService CharSet property. Gets or sets the primary character-set for a document
 type: docs
 weight: 10
 url: /net/aspose.svg.services/iuseragentservice/charset/

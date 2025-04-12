@@ -1,7 +1,7 @@
 ---
 title: Frequency.op_Addition
 second_title: Aspose.SVG for .NET API Reference
-description: Frequency method. Implements the operator 
+description: Frequency op_Addition method. Implements the operator 
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/frequency/op_addition/

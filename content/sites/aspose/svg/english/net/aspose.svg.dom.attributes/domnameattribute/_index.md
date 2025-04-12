@@ -3,7 +3,7 @@ title: DOMNameAttribute Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Attributes.DOMNameAttribute class. Specifies the official DOM object name as it defined by the W3C
 type: docs
-weight: 4280
+weight: 2380
 url: /net/aspose.svg.dom.attributes/domnameattribute/
 ---
 ## DOMNameAttribute class
@@ -19,13 +19,14 @@ public sealed class DOMNameAttribute : Attribute
 
 | Name | Description |
 | --- | --- |
-| [DOMNameAttribute](domnameattribute/)(string) | Initializes a new instance of the `DOMNameAttribute` class. |
+| [DOMNameAttribute](domnameattribute/)(*string*) | Initializes a new instance of the `DOMNameAttribute` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Name](../../aspose.svg.dom.attributes/domnameattribute/name/) { get; } | Gets the DOM name. |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
 ### See Also
 

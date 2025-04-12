@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegArcAbs.SweepFlag
 second_title: Aspose.SVG for .NET API Reference
-description: SVGPathSegArcAbs property. The value of the sweep-flag parameter
+description: SVGPathSegArcAbs SweepFlag property. The value of the sweep-flag parameter
 type: docs
 weight: 50
 url: /net/aspose.svg.paths/svgpathsegarcabs/sweepflag/

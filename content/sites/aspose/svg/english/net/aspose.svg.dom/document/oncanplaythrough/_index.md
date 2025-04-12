@@ -1,7 +1,7 @@
 ---
 title: Document.OnCanPlayThrough
 second_title: Aspose.SVG for .NET API Reference
-description: Document event. Gets or sets event handler for OnCanPlayThrough event
+description: Document OnCanPlayThrough event. Gets or sets event handler for OnCanPlayThrough event
 type: docs
 weight: 320
 url: /net/aspose.svg.dom/document/oncanplaythrough/

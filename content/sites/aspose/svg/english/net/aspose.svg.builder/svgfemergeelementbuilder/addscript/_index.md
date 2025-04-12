@@ -1,7 +1,7 @@
 ---
 title: SVGFEMergeElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEMergeElementBuilder method. Adds a script configuration to the feMerge element
+description: SVGFEMergeElementBuilder AddScript method. Adds a script configuration to the feMerge element
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfemergeelementbuilder/addscript/

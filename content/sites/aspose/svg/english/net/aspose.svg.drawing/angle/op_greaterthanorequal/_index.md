@@ -1,7 +1,7 @@
 ---
 title: Angle.op_GreaterThanOrEqual
 second_title: Aspose.SVG for .NET API Reference
-description: Angle method. Implements the operator 
+description: Angle op_GreaterThanOrEqual method. Implements the operator 
 type: docs
 weight: 40
 url: /net/aspose.svg.drawing/angle/op_greaterthanorequal/

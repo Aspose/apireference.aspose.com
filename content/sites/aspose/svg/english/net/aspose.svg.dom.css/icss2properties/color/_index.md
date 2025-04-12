@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.Color
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the color property definition in CSS2
+description: ICSS2Properties Color property. See the color property definition in CSS2
 type: docs
 weight: 340
 url: /net/aspose.svg.dom.css/icss2properties/color/

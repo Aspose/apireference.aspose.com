@@ -1,7 +1,7 @@
 ---
 title: SVGTextElementBuilder.AddTSpan
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTextElementBuilder method. Adds a tspan element to the text element allowing for fine control over individual sections of the text
+description: SVGTextElementBuilder AddTSpan method. Adds a tspan element to the text element allowing for fine control over individual sections of the text
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgtextelementbuilder/addtspan/

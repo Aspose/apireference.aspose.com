@@ -1,7 +1,7 @@
 ---
 title: PdfDevice.FillText
 second_title: Aspose.SVG for .NET API Reference
-description: PdfDevice method. Fills the specified text string at the specified location
+description: PdfDevice FillText method. Fills the specified text string at the specified location
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering.pdf/pdfdevice/filltext/

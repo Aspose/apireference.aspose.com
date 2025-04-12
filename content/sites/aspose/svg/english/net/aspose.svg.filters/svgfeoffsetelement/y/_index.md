@@ -1,7 +1,7 @@
 ---
 title: SVGFEOffsetElement.Y
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEOffsetElement property. Corresponds to attribute y on the given filter element
+description: SVGFEOffsetElement Y property. Corresponds to attribute y on the given filter element
 type: docs
 weight: 80
 url: /net/aspose.svg.filters/svgfeoffsetelement/y/

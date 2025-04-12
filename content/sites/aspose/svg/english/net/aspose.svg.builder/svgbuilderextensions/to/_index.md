@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.To
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the to attribute defining the ending value of the animation with a specified length type
+description: SVGBuilderExtensions To method. Sets the to attribute defining the ending value of the animation with a specified length type
 type: docs
 weight: 2250
 url: /net/aspose.svg.builder/svgbuilderextensions/to/

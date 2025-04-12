@@ -1,7 +1,7 @@
 ---
 title: Length.op_GreaterThan
 second_title: Aspose.SVG for .NET API Reference
-description: Length method. Implements the operator 
+description: Length op_GreaterThan method. Implements the operator 
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/length/op_greaterthan/

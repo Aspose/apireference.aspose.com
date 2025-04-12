@@ -1,7 +1,7 @@
 ---
 title: MessageFilter.Match
 second_title: Aspose.SVG for .NET API Reference
-description: MessageFilter method. When overridden in a derived class tests whether a Context satisfies the filter criteria
+description: MessageFilter Match method. When overridden in a derived class tests whether a Context satisfies the filter criteria
 type: docs
 weight: 10
 url: /net/aspose.svg.net/messagefilter/match/

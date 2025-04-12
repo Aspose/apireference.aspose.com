@@ -1,7 +1,7 @@
 ---
 title: SVGLineElementBuilder.X1
 second_title: Aspose.SVG for .NET API Reference
-description: SVGLineElementBuilder method. Sets the x1 attribute of the SVG line element specifying the x-coordinate of the start point of the line
+description: SVGLineElementBuilder X1 method. Sets the x1 attribute of the SVG line element specifying the x-coordinate of the start point of the line
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svglineelementbuilder/x1/

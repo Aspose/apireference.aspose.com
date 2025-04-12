@@ -3,7 +3,7 @@ title: HttpProtocolMessageHandler Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.MessageHandlers.HttpProtocolMessageHandler class. Represents the http protocol message handler
 type: docs
-weight: 3060
+weight: 4600
 url: /net/aspose.svg.net.messagehandlers/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler class
@@ -30,7 +30,7 @@ public class HttpProtocolMessageHandler : MessageHandler
 
 | Name | Description |
 | --- | --- |
-| override [Invoke](../../aspose.svg.net.messagehandlers/httpprotocolmessagehandler/invoke/)(INetworkOperationContext) | When overridden in a derived class is used to implement the message handling. |
+| override [Invoke](../../aspose.svg.net.messagehandlers/httpprotocolmessagehandler/invoke/)(*[INetworkOperationContext](../../aspose.svg.net/inetworkoperationcontext/)*) | When overridden in a derived class is used to implement the message handling. |
 
 ### See Also
 

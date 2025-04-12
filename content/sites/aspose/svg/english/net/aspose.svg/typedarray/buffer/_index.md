@@ -1,7 +1,7 @@
 ---
 title: TypedArray.Buffer
 second_title: Aspose.SVG for .NET API Reference
-description: TypedArray property. Gets the ArrayBuffer referenced by this instance
+description: TypedArray Buffer property. Gets the ArrayBuffer referenced by this instance
 type: docs
 weight: 10
 url: /net/aspose.svg/typedarray/buffer/
@@ -11,7 +11,7 @@ url: /net/aspose.svg/typedarray/buffer/
 Gets the ArrayBuffer referenced by this instance.
 
 ```csharp
-public ArrayBuffer Buffer { get; }
+public    Buffer { get; }
 ```
 
 ### Property Value

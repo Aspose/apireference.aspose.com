@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnDragEnd
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the ondragend event attribute for handling the end of a drag operation
+description: SVGBuilderExtensions OnDragEnd method. Sets the ondragend event attribute for handling the end of a drag operation
 type: docs
 weight: 1320
 url: /net/aspose.svg.builder/svgbuilderextensions/ondragend/

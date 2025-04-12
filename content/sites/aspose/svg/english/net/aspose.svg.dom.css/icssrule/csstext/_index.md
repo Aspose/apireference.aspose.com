@@ -1,7 +1,7 @@
 ---
 title: ICSSRule.CSSText
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSRule property. The parsable textual representation of the rule. This reflects the current state of the rule and not its initial value
+description: ICSSRule CSSText property. The parsable textual representation of the rule. This reflects the current state of the rule and not its initial value
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/icssrule/csstext/

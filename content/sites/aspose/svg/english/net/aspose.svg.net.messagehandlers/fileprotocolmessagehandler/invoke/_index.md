@@ -1,7 +1,7 @@
 ---
 title: FileProtocolMessageHandler.Invoke
 second_title: Aspose.SVG for .NET API Reference
-description: FileProtocolMessageHandler method. When overridden in a derived class is used to implement the message handling
+description: FileProtocolMessageHandler Invoke method. When overridden in a derived class is used to implement the message handling
 type: docs
 weight: 20
 url: /net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/invoke/

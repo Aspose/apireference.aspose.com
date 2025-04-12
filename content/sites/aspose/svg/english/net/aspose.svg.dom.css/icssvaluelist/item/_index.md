@@ -1,7 +1,7 @@
 ---
 title: ICSSValueList.Item
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSValueList property. Method returns the CSSValue at the specified index. http//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.htmlCSS-CSSValueList
+description: ICSSValueList Item property. Method returns the CSSValue at the specified index. http//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.htmlCSS-CSSValueList
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/icssvaluelist/item/

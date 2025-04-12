@@ -1,7 +1,7 @@
 ---
 title: SVGListBase-1.Item
 second_title: Aspose.SVG for .NET API Reference
-description: SVGListBase property. Returns the indexth item in the list
+description: SVGListBase Item property. Returns the indexth item in the list
 type: docs
 weight: 10
 url: /net/aspose.svg.collections/svglistbase-1/item/

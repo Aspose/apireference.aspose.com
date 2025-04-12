@@ -1,7 +1,7 @@
 ---
 title: SVGFEColorMatrixElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEColorMatrixElementBuilder method. Adds a script configuration to the feColorMatrix element
+description: SVGFEColorMatrixElementBuilder AddScript method. Adds a script configuration to the feColorMatrix element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfecolormatrixelementbuilder/addscript/

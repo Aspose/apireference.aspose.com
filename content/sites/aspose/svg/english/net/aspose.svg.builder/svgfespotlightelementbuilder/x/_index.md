@@ -1,7 +1,7 @@
 ---
 title: SVGFESpotLightElementBuilder.X
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFESpotLightElementBuilder method. Sets the x attribute of the feSpotLight element representing the x-coordinate of the light source
+description: SVGFESpotLightElementBuilder X method. Sets the x attribute of the feSpotLight element representing the x-coordinate of the light source
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/svgfespotlightelementbuilder/x/

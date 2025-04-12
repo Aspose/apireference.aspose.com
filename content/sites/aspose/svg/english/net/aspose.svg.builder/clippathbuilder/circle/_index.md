@@ -1,7 +1,7 @@
 ---
 title: ClipPathBuilder.Circle
 second_title: Aspose.SVG for .NET API Reference
-description: ClipPathBuilder method. Defines a circular clip path
+description: ClipPathBuilder Circle method. Defines a circular clip path
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/clippathbuilder/circle/

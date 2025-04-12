@@ -1,7 +1,7 @@
 ---
 title: Node.LastChild
 second_title: Aspose.SVG for .NET API Reference
-description: Node property. The last child of this node. If there is no such node this returns null
+description: Node LastChild property. The last child of this node. If there is no such node this returns null
 type: docs
 weight: 40
 url: /net/aspose.svg.dom/node/lastchild/

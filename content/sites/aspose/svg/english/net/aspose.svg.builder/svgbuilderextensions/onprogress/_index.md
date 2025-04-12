@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnProgress
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onprogress event attribute for handling events to indicate the progress of an ongoing process
+description: SVGBuilderExtensions OnProgress method. Sets the onprogress event attribute for handling events to indicate the progress of an ongoing process
 type: docs
 weight: 1680
 url: /net/aspose.svg.builder/svgbuilderextensions/onprogress/

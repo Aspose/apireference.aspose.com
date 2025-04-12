@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnCanPlayThrough
 second_title: Aspose.SVG for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnCanPlayThrough event
+description: IGlobalEventHandlers OnCanPlayThrough event. Gets or sets event handler for OnCanPlayThrough event
 type: docs
 weight: 50
 url: /net/aspose.svg.dom/iglobaleventhandlers/oncanplaythrough/

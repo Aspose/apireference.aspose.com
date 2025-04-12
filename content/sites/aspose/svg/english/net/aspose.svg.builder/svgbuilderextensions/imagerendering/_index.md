@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.ImageRendering
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the image-rendering attribute for an SVG element specifying the rendering quality of images
+description: SVGBuilderExtensions ImageRendering method. Sets the image-rendering attribute for an SVG element specifying the rendering quality of images
 type: docs
 weight: 1030
 url: /net/aspose.svg.builder/svgbuilderextensions/imagerendering/

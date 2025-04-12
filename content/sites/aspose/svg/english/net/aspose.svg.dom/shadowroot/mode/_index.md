@@ -1,7 +1,7 @@
 ---
 title: ShadowRoot.Mode
 second_title: Aspose.SVG for .NET API Reference
-description: ShadowRoot property. Mode in which this ShadowRoot operates
+description: ShadowRoot Mode property. Mode in which this ShadowRoot operates
 type: docs
 weight: 20
 url: /net/aspose.svg.dom/shadowroot/mode/

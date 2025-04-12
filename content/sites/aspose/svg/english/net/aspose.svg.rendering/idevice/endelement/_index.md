@@ -1,7 +1,7 @@
 ---
 title: IDevice.EndElement
 second_title: Aspose.SVG for .NET API Reference
-description: IDevice method. Ends rendering of the element
+description: IDevice EndElement method. Ends rendering of the element
 type: docs
 weight: 120
 url: /net/aspose.svg.rendering/idevice/endelement/

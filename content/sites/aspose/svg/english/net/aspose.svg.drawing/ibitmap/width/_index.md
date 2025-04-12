@@ -1,7 +1,7 @@
 ---
 title: IBitmap.Width
 second_title: Aspose.SVG for .NET API Reference
-description: IBitmap property. Gets the width of the bitmap image
+description: IBitmap Width property. Gets the width of the bitmap image
 type: docs
 weight: 70
 url: /net/aspose.svg.drawing/ibitmap/width/

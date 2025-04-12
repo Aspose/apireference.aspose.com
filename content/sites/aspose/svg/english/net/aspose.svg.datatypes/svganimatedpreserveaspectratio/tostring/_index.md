@@ -1,7 +1,7 @@
 ---
 title: SVGAnimatedPreserveAspectRatio.ToString
 second_title: Aspose.SVG for .NET API Reference
-description: SVGAnimatedPreserveAspectRatio method. Returns a String that represents this instance
+description: SVGAnimatedPreserveAspectRatio ToString method. Returns a String that represents this instance
 type: docs
 weight: 10
 url: /net/aspose.svg.datatypes/svganimatedpreserveaspectratio/tostring/

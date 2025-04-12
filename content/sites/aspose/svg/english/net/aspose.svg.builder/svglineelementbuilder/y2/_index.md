@@ -1,7 +1,7 @@
 ---
 title: SVGLineElementBuilder.Y2
 second_title: Aspose.SVG for .NET API Reference
-description: SVGLineElementBuilder method. Sets the y2 attribute of the SVG line element specifying the y-coordinate of the end point of the line
+description: SVGLineElementBuilder Y2 method. Sets the y2 attribute of the SVG line element specifying the y-coordinate of the end point of the line
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svglineelementbuilder/y2/

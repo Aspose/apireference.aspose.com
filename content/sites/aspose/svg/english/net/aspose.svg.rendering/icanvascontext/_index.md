@@ -3,7 +3,7 @@ title: ICanvasContext Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.ICanvasContext interface. Represents the context of an HTML canvas 2D drawing
 type: docs
-weight: 3210
+weight: 5060
 url: /net/aspose.svg.rendering/icanvascontext/
 ---
 ## ICanvasContext interface
@@ -49,7 +49,7 @@ public interface ICanvasContext
 
 | Name | Description |
 | --- | --- |
-| [Transform](../../aspose.svg.rendering/icanvascontext/transform/)(IMatrix) | Applies a transformation matrix to the context. See [`IMatrix`](../../aspose.svg.drawing/imatrix/). |
+| [Transform](../../aspose.svg.rendering/icanvascontext/transform/)(*[IMatrix](../../aspose.svg.drawing/imatrix/)*) | Applies a transformation matrix to the context. See [`IMatrix`](../../aspose.svg.drawing/imatrix/). |
 
 ### See Also
 

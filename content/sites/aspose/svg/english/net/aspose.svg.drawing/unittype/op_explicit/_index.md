@@ -1,7 +1,7 @@
 ---
 title: UnitType.op_Explicit
 second_title: Aspose.SVG for .NET API Reference
-description: UnitType method. Performs an explicit conversion from UnitType to String
+description: UnitType op_Explicit method. Performs an explicit conversion from UnitType to String
 type: docs
 weight: 350
 url: /net/aspose.svg.drawing/unittype/op_explicit/

@@ -1,7 +1,7 @@
 ---
 title: ISVGPaintServerFactory.Create
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGPaintServerFactory method. Creates an SVG paint server object based on the specified URL and document
+description: ISVGPaintServerFactory Create method. Creates an SVG paint server object based on the specified URL and document
 type: docs
 weight: 10
 url: /net/aspose.svg.services/isvgpaintserverfactory/create/

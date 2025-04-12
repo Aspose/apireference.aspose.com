@@ -3,7 +3,7 @@ title: ContentDispositionHeaderValue Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.Headers.ContentDispositionHeaderValue class. Represent Content-Disposition header value
 type: docs
-weight: 3080
+weight: 4480
 url: /net/aspose.svg.net.headers/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue class
@@ -18,7 +18,7 @@ public class ContentDispositionHeaderValue
 
 | Name | Description |
 | --- | --- |
-| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(string) | Create a new instance of this disposition type. |
+| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(*string*) | Create a new instance of this disposition type. |
 
 ## Properties
 
@@ -33,7 +33,7 @@ public class ContentDispositionHeaderValue
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals/)(object) | Determines whether the specified Object is equal to this instance. |
+| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals/)(*object*) | Determines whether the specified Object is equal to this instance. |
 | override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring/)() | Returns a String that represents this instance. |
 
 ### See Also

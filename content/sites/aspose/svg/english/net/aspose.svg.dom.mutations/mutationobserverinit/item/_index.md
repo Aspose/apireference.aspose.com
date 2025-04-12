@@ -1,7 +1,7 @@
 ---
 title: MutationObserverInit.Item
 second_title: Aspose.SVG for .NET API Reference
-description: MutationObserverInit property. Gets or sets the element with the specified key
+description: MutationObserverInit Item property. Gets or sets the element with the specified key
 type: docs
 weight: 100
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/item/

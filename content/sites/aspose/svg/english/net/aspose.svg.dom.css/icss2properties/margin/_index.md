@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.Margin
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the margin property definition in CSS2
+description: ICSS2Properties Margin property. See the margin property definition in CSS2
 type: docs
 weight: 630
 url: /net/aspose.svg.dom.css/icss2properties/margin/

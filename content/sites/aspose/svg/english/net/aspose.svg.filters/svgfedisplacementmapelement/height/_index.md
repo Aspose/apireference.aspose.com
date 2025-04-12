@@ -1,7 +1,7 @@
 ---
 title: SVGFEDisplacementMapElement.Height
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDisplacementMapElement property. Corresponds to attribute height on the given filter element
+description: SVGFEDisplacementMapElement Height property. Corresponds to attribute height on the given filter element
 type: docs
 weight: 10
 url: /net/aspose.svg.filters/svgfedisplacementmapelement/height/

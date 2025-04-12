@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.ListStylePosition
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the list-style-position property definition in CSS2
+description: ICSS2Properties ListStylePosition property. See the list-style-position property definition in CSS2
 type: docs
 weight: 610
 url: /net/aspose.svg.dom.css/icss2properties/liststyleposition/

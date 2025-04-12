@@ -1,7 +1,7 @@
 ---
 title: IColorComponents.ToColor
 second_title: Aspose.SVG for .NET API Reference
-description: IColorComponents method. Converts the color components to the Color object
+description: IColorComponents ToColor method. Converts the color components to the Color object
 type: docs
 weight: 40
 url: /net/aspose.svg.drawing/icolorcomponents/tocolor/

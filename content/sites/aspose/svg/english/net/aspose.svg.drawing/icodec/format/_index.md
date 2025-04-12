@@ -1,7 +1,7 @@
 ---
 title: ICodec.Format
 second_title: Aspose.SVG for .NET API Reference
-description: ICodec property. Gets the format of the image WebImageFormat
+description: ICodec Format property. Gets the format of the image WebImageFormat
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/icodec/format/

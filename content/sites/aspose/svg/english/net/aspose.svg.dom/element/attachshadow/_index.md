@@ -1,7 +1,7 @@
 ---
 title: Element.AttachShadow
 second_title: Aspose.SVG for .NET API Reference
-description: Element method. Creates shadow root and attaches it to current element
+description: Element AttachShadow method. Creates shadow root and attaches it to current element
 type: docs
 weight: 220
 url: /net/aspose.svg.dom/element/attachshadow/

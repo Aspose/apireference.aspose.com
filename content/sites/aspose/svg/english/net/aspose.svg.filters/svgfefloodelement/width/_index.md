@@ -1,7 +1,7 @@
 ---
 title: SVGFEFloodElement.Width
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEFloodElement property. Corresponds to attribute width on the given filter element
+description: SVGFEFloodElement Width property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 30
 url: /net/aspose.svg.filters/svgfefloodelement/width/

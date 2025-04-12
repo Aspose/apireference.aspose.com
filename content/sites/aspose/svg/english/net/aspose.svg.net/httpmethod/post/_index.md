@@ -1,7 +1,7 @@
 ---
 title: HttpMethod.Post
 second_title: Aspose.SVG for .NET API Reference
-description: HttpMethod property. Represents an HTTP POST protocol method
+description: HttpMethod Post property. Represents an HTTP POST protocol method
 type: docs
 weight: 40
 url: /net/aspose.svg.net/httpmethod/post/

@@ -1,9 +1,9 @@
 ---
 title: Device-2.LineTo
 second_title: Aspose.SVG for .NET API Reference
-description: Device method. Appends a straight line segment from the current point to the point pt. The new current point is pt
+description: Device LineTo method. Appends a straight line segment from the current point to the point pt. The new current point is pt
 type: docs
-weight: 180
+weight: 210
 url: /net/aspose.svg.rendering/device-2/lineto/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.LineTo method

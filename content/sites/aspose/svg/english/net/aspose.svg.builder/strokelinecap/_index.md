@@ -3,7 +3,7 @@ title: StrokeLineCap Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.StrokeLineCap enum. Specifies the shape to be used at the end of open subpaths when they are stroked
 type: docs
-weight: 560
+weight: 1770
 url: /net/aspose.svg.builder/strokelinecap/
 ---
 ## StrokeLineCap enumeration

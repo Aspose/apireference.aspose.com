@@ -1,7 +1,7 @@
 ---
 title: Configuration.SetExtension
 second_title: Aspose.SVG for .NET API Reference
-description: Configuration method. Sets the extension for the configuration
+description: Configuration SetExtension method. Sets the extension for the configuration
 type: docs
 weight: 60
 url: /net/aspose.svg/configuration/setextension/

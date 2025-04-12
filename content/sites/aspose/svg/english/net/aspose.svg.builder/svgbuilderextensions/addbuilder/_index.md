@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddBuilder
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds an existing SVG element builder to the current SVG element builder. This method is used to include a predefined SVG element builder into the current builder
+description: SVGBuilderExtensions AddBuilder method. Adds an existing SVG element builder to the current SVG element builder. This method is used to include a predefined SVG element builder into the current builder
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/svgbuilderextensions/addbuilder/

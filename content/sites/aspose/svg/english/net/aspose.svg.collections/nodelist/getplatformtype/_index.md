@@ -1,7 +1,7 @@
 ---
 title: NodeList.GetPlatformType
 second_title: Aspose.SVG for .NET API Reference
-description: NodeList method. This method is used to retrieve ECMAScript object Type
+description: NodeList GetPlatformType method. This method is used to retrieve ECMAScript object Type
 type: docs
 weight: 40
 url: /net/aspose.svg.collections/nodelist/getplatformtype/

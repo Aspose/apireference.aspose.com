@@ -1,7 +1,7 @@
 ---
 title: Frequency.op_GreaterThan
 second_title: Aspose.SVG for .NET API Reference
-description: Frequency method. Implements the operator 
+description: Frequency op_GreaterThan method. Implements the operator 
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/frequency/op_greaterthan/

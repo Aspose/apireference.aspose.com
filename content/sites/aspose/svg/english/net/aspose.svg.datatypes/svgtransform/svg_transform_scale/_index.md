@@ -1,7 +1,7 @@
 ---
 title: SVGTransform.SVG_TRANSFORM_SCALE
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTransform field. A scale transformation
+description: SVGTransform SVG_TRANSFORM_SCALE field. A scale transformation
 type: docs
 weight: 130
 url: /net/aspose.svg.datatypes/svgtransform/svg_transform_scale/

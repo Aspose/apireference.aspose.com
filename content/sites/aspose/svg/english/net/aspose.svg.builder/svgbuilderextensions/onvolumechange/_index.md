@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnVolumeChange
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onvolumechange event attribute for handling events when the volume of media changes
+description: SVGBuilderExtensions OnVolumeChange method. Sets the onvolumechange event attribute for handling events when the volume of media changes
 type: docs
 weight: 1840
 url: /net/aspose.svg.builder/svgbuilderextensions/onvolumechange/

@@ -1,7 +1,7 @@
 ---
 title: Dimension.ToString
 second_title: Aspose.SVG for .NET API Reference
-description: Dimension method. Returns a String that represents this instance
+description: Dimension ToString method. Returns a String that represents this instance
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/dimension/tostring/

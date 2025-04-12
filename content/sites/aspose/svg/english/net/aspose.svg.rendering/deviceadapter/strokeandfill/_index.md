@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.StrokeAndFill
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter method. Strokes and fill current path. This method terminates current path
+description: DeviceAdapter StrokeAndFill method. Strokes and fill current path. This method terminates current path
 type: docs
 weight: 250
 url: /net/aspose.svg.rendering/deviceadapter/strokeandfill/

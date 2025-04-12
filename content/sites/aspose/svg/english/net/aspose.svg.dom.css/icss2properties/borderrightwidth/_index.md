@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.BorderRightWidth
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the border-right-width property definition in CSS2
+description: ICSS2Properties BorderRightWidth property. See the border-right-width property definition in CSS2
 type: docs
 weight: 220
 url: /net/aspose.svg.dom.css/icss2properties/borderrightwidth/

@@ -1,7 +1,7 @@
 ---
 title: Resource.MimeType
 second_title: Aspose.SVG for .NET API Reference
-description: Resource property. Returns the Html.MimeType of this resource. Can be null if the resource was not found
+description: Resource MimeType property. Returns the Html.MimeType of this resource. Can be null if the resource was not found
 type: docs
 weight: 10
 url: /net/aspose.svg.saving/resource/mimetype/

@@ -1,7 +1,7 @@
 ---
 title: SVGClipPathElementBuilder.AddScript
 second_title: Aspose.SVG for .NET API Reference
-description: SVGClipPathElementBuilder method. Adds a script element to the clipPath element
+description: SVGClipPathElementBuilder AddScript method. Adds a script element to the clipPath element
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgclippathelementbuilder/addscript/

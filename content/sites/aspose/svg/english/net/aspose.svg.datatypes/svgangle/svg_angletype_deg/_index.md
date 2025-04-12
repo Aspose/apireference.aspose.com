@@ -1,7 +1,7 @@
 ---
 title: SVGAngle.SVG_ANGLETYPE_DEG
 second_title: Aspose.SVG for .NET API Reference
-description: SVGAngle field. The unit type was explicitly set to degrees
+description: SVGAngle SVG_ANGLETYPE_DEG field. The unit type was explicitly set to degrees
 type: docs
 weight: 80
 url: /net/aspose.svg.datatypes/svgangle/svg_angletype_deg/

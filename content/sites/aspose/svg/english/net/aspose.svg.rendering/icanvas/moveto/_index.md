@@ -1,7 +1,7 @@
 ---
 title: ICanvas.MoveTo
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Moves the starting point of a new subpath to the specified point
+description: ICanvas MoveTo method. Moves the starting point of a new subpath to the specified point
 type: docs
 weight: 200
 url: /net/aspose.svg.rendering/icanvas/moveto/

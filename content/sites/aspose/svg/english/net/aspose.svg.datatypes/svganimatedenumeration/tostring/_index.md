@@ -1,7 +1,7 @@
 ---
 title: SVGAnimatedEnumeration.ToString
 second_title: Aspose.SVG for .NET API Reference
-description: SVGAnimatedEnumeration method. Returns a String that represents this instance
+description: SVGAnimatedEnumeration ToString method. Returns a String that represents this instance
 type: docs
 weight: 10
 url: /net/aspose.svg.datatypes/svganimatedenumeration/tostring/

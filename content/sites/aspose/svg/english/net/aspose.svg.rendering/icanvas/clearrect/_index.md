@@ -1,7 +1,7 @@
 ---
 title: ICanvas.ClearRect
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Clears the specified rectangular area to transparent
+description: ICanvas ClearRect method. Clears the specified rectangular area to transparent
 type: docs
 weight: 60
 url: /net/aspose.svg.rendering/icanvas/clearrect/

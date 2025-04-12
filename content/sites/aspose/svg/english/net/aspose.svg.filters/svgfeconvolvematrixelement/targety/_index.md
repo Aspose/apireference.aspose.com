@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElement.TargetY
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEConvolveMatrixElement property. Corresponds to attribute targetY on the given feConvolveMatrix element
+description: SVGFEConvolveMatrixElement TargetY property. Corresponds to attribute targetY on the given feConvolveMatrix element
 type: docs
 weight: 140
 url: /net/aspose.svg.filters/svgfeconvolvematrixelement/targety/

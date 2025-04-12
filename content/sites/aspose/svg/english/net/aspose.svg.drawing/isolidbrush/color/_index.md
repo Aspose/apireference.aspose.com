@@ -1,7 +1,7 @@
 ---
 title: ISolidBrush.Color
 second_title: Aspose.SVG for .NET API Reference
-description: ISolidBrush property. Get color of the brush
+description: ISolidBrush Color property. Get color of the brush
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/isolidbrush/color/

@@ -3,7 +3,7 @@ title: QualifiedName Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.QualifiedName class. Represents an HTML qualified name
 type: docs
-weight: 3750
+weight: 3260
 url: /net/aspose.svg.dom/qualifiedname/
 ---
 ## QualifiedName class
@@ -27,8 +27,8 @@ public class QualifiedName : IEquatable<QualifiedName>
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.svg.dom/qualifiedname/equals/#equals_1)(object) | Determines whether the specified object is equal to the current object. |
-| [Equals](../../aspose.svg.dom/qualifiedname/equals/#equals)(QualifiedName) | Determines whether the specified QualifiedName is equal to the current object. |
+| override [Equals](../../aspose.svg.dom/qualifiedname/equals/#equals_1)(*object*) | Determines whether the specified object is equal to the current object. |
+| [Equals](../../aspose.svg.dom/qualifiedname/equals/#equals)(*QualifiedName*) | Determines whether the specified QualifiedName is equal to the current object. |
 | override [GetHashCode](../../aspose.svg.dom/qualifiedname/gethashcode/)() | Provides a hash value for the current object. |
 | override [ToString](../../aspose.svg.dom/qualifiedname/tostring/)() | Returns a string that represents the current object. |
 

@@ -1,12 +1,12 @@
 ---
 title: ImageVectorizer.Vectorize
 second_title: Aspose.SVG for .NET API Reference
-description: ImageVectorizer method. Vectorizes raster image from the specified file
+description: ImageVectorizer Vectorize method. Vectorizes raster image from the specified file
 type: docs
 weight: 30
 url: /net/aspose.svg.imagevectorization/imagevectorizer/vectorize/
 ---
-## Vectorize(string) {#vectorize_1}
+## Vectorize(*string*) {#vectorize_1}
 
 Vectorizes raster image from the specified file.
 
@@ -31,7 +31,7 @@ The SVG document.
 
 ---
 
-## Vectorize(Stream) {#vectorize}
+## Vectorize(*Stream*) {#vectorize}
 
 Vectorizes raster image from the specified stream.
 

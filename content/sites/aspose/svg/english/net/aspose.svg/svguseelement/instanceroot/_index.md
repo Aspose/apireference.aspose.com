@@ -1,7 +1,7 @@
 ---
 title: SVGUseElement.InstanceRoot
 second_title: Aspose.SVG for .NET API Reference
-description: SVGUseElement property. The root of the instance tree. See description of SVGElementInstance for a discussion on the instance tree
+description: SVGUseElement InstanceRoot property. The root of the instance tree. See description of SVGElementInstance for a discussion on the instance tree
 type: docs
 weight: 30
 url: /net/aspose.svg/svguseelement/instanceroot/

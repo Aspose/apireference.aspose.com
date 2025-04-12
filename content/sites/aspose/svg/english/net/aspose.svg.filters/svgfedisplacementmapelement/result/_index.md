@@ -1,7 +1,7 @@
 ---
 title: SVGFEDisplacementMapElement.Result
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDisplacementMapElement property. Corresponds to attribute result on the given filter element
+description: SVGFEDisplacementMapElement Result property. Corresponds to attribute result on the given filter element
 type: docs
 weight: 40
 url: /net/aspose.svg.filters/svgfedisplacementmapelement/result/

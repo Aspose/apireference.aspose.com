@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.LightingColor
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the lighting-color attribute for an SVG element using a specified color value
+description: SVGBuilderExtensions LightingColor method. Sets the lighting-color attribute for an SVG element using a specified color value
 type: docs
 weight: 1110
 url: /net/aspose.svg.builder/svgbuilderextensions/lightingcolor/
 ---
-## LightingColor&lt;TBuilder&gt;(this TBuilder, Color) {#lightingcolor_1}
+## LightingColor&lt;TBuilder&gt;(*this TBuilder, Color*) {#lightingcolor_1}
 
 Sets the 'lighting-color' attribute for an SVG element using a specified color value.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## LightingColor&lt;TBuilder&gt;(this TBuilder, Action&lt;ColorBuilder&gt;) {#lightingcolor}
+## LightingColor&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;ColorBuilder&amp;gt;*) {#lightingcolor}
 
 Sets the 'lighting-color' attribute for an SVG element using a custom color configuration.
 

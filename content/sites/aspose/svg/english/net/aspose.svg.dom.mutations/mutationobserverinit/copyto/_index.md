@@ -1,7 +1,7 @@
 ---
 title: MutationObserverInit.CopyTo
 second_title: Aspose.SVG for .NET API Reference
-description: MutationObserverInit method. Copies the MutationObserverInit elements to an existing one-dimensional array starting at the specified array index
+description: MutationObserverInit CopyTo method. Copies the MutationObserverInit elements to an existing one-dimensional array starting at the specified array index
 type: docs
 weight: 180
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/copyto/

@@ -1,7 +1,7 @@
 ---
 title: Resolution.op_Equality
 second_title: Aspose.SVG for .NET API Reference
-description: Resolution method. Implements the operator 
+description: Resolution op_Equality method. Implements the operator 
 type: docs
 weight: 20
 url: /net/aspose.svg.drawing/resolution/op_equality/

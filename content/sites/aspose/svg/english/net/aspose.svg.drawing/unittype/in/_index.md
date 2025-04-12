@@ -1,7 +1,7 @@
 ---
 title: UnitType.In
 second_title: Aspose.SVG for .NET API Reference
-description: UnitType field. Measurement is in inches
+description: UnitType In field. Measurement is in inches
 type: docs
 weight: 120
 url: /net/aspose.svg.drawing/unittype/in/

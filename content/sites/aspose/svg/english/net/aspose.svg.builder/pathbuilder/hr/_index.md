@@ -1,7 +1,7 @@
 ---
 title: PathBuilder.Hr
 second_title: Aspose.SVG for .NET API Reference
-description: PathBuilder method. Adds a relative Horizontal Line To command to the path data
+description: PathBuilder Hr method. Adds a relative Horizontal Line To command to the path data
 type: docs
 weight: 90
 url: /net/aspose.svg.builder/pathbuilder/hr/

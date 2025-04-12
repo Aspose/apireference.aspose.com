@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.FontSizeAdjust
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the font-size-adjust attribute for an SVG element
+description: SVGBuilderExtensions FontSizeAdjust method. Sets the font-size-adjust attribute for an SVG element
 type: docs
 weight: 900
 url: /net/aspose.svg.builder/svgbuilderextensions/fontsizeadjust/
 ---
-## FontSizeAdjust&lt;TBuilder&gt;(this TBuilder, double) {#fontsizeadjust_1}
+## FontSizeAdjust&lt;TBuilder&gt;(*this TBuilder, double*) {#fontsizeadjust_1}
 
 Sets the 'font-size-adjust' attribute for an SVG element.
 
@@ -35,24 +35,12 @@ The builder instance for chaining.
 
 ---
 
-## FontSizeAdjust&lt;TBuilder&gt;(this TBuilder, AdjustSize) {#fontsizeadjust}
-
-Sets the 'font-size-adjust' attribute for an SVG element using a predefined adjust size value.
+## FontSizeAdjust&lt;TBuilder&gt;(*this TBuilder,   *) {#fontsizeadjust}
 
 ```csharp
-public static TBuilder FontSizeAdjust<TBuilder>(this TBuilder builder, AdjustSize value)
+public static TBuilder FontSizeAdjust<TBuilder>(this TBuilder builder,    value)
     where TBuilder : IAttributeSetter, IPresentationAttributeSetter
 ```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| value | The predefined adjust size value to set. |
-
-### Return Value
-
-The builder instance for chaining.
 
 ### See Also
 

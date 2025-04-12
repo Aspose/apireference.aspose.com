@@ -1,7 +1,7 @@
 ---
 title: IPath.AddPath
 second_title: Aspose.SVG for .NET API Reference
-description: IPath method. Adds the specified path to the current path applying the given transformation
+description: IPath AddPath method. Adds the specified path to the current path applying the given transformation
 type: docs
 weight: 40
 url: /net/aspose.svg.rendering/ipath/addpath/

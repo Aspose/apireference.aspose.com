@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.Max
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the max attribute specifying the maximum duration of the animation
+description: SVGBuilderExtensions Max method. Sets the max attribute specifying the maximum duration of the animation
 type: docs
 weight: 1160
 url: /net/aspose.svg.builder/svgbuilderextensions/max/
 ---
-## Max&lt;TBuilder&gt;(this TBuilder, TimeSpan) {#max_1}
+## Max&lt;TBuilder&gt;(*this TBuilder, TimeSpan*) {#max_1}
 
 Sets the 'max' attribute, specifying the maximum duration of the animation.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## Max&lt;TBuilder&gt;(this TBuilder, Media) {#max}
+## Max&lt;TBuilder&gt;(*this TBuilder, [Media](../../media/)*) {#max}
 
 Sets the 'max' attribute, specifying the predefined maximum duration condition for the animation.
 

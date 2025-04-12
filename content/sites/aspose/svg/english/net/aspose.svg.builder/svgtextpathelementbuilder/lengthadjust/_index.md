@@ -1,7 +1,7 @@
 ---
 title: SVGTextPathElementBuilder.LengthAdjust
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTextPathElementBuilder method. Sets the lengthAdjust attribute specifying how text length adjustments are made
+description: SVGTextPathElementBuilder LengthAdjust method. Sets the lengthAdjust attribute specifying how text length adjustments are made
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgtextpathelementbuilder/lengthadjust/

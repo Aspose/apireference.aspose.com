@@ -1,7 +1,7 @@
 ---
 title: SVGFEDiffuseLightingElementBuilder.KernelUnitLength
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDiffuseLightingElementBuilder method. Sets the kernelUnitLength attribute of the feDiffuseLighting element
+description: SVGFEDiffuseLightingElementBuilder KernelUnitLength method. Sets the kernelUnitLength attribute of the feDiffuseLighting element
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfediffuselightingelementbuilder/kernelunitlength/

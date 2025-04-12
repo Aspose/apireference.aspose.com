@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.CaptionSide
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the caption-side property definition in CSS2
+description: ICSS2Properties CaptionSide property. See the caption-side property definition in CSS2
 type: docs
 weight: 310
 url: /net/aspose.svg.dom.css/icss2properties/captionside/

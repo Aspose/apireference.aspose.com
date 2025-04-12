@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.In
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the in attribute for an SVG filter primitive
+description: SVGBuilderExtensions In method. Sets the in attribute for an SVG filter primitive
 type: docs
 weight: 1040
 url: /net/aspose.svg.builder/svgbuilderextensions/in/
 ---
-## In&lt;TBuilder&gt;(this TBuilder, string) {#in_1}
+## In&lt;TBuilder&gt;(*this TBuilder, string*) {#in_1}
 
 Sets the 'in' attribute for an SVG filter primitive.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## In&lt;TBuilder&gt;(this TBuilder, FilterInput) {#in}
+## In&lt;TBuilder&gt;(*this TBuilder, [FilterInput](../../filterinput/)*) {#in}
 
 Sets the 'in' attribute for an SVG filter primitive using a predefined input source.
 

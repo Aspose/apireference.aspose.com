@@ -1,7 +1,7 @@
 ---
 title: IResolvedStyleDeclaration.AlignmentBaseline
 second_title: Aspose.SVG for .NET API Reference
-description: IResolvedStyleDeclaration property. Gets the alignment baseline value
+description: IResolvedStyleDeclaration AlignmentBaseline property. Gets the alignment baseline value
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/alignmentbaseline/

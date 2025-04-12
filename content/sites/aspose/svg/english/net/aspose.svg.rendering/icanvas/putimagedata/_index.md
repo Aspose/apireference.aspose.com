@@ -1,7 +1,7 @@
 ---
 title: ICanvas.PutImageData
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Puts the specified image data onto the canvas at the specified position
+description: ICanvas PutImageData method. Puts the specified image data onto the canvas at the specified position
 type: docs
 weight: 210
 url: /net/aspose.svg.rendering/icanvas/putimagedata/

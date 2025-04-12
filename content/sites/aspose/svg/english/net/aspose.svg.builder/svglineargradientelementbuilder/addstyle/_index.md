@@ -1,7 +1,7 @@
 ---
 title: SVGLinearGradientElementBuilder.AddStyle
 second_title: Aspose.SVG for .NET API Reference
-description: SVGLinearGradientElementBuilder method. Adds a style configuration to the SVG linearGradient element
+description: SVGLinearGradientElementBuilder AddStyle method. Adds a style configuration to the SVG linearGradient element
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svglineargradientelementbuilder/addstyle/

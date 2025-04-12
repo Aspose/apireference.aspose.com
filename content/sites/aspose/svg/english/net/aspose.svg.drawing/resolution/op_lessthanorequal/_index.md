@@ -1,7 +1,7 @@
 ---
 title: Resolution.op_LessThanOrEqual
 second_title: Aspose.SVG for .NET API Reference
-description: Resolution method. Implements the operator 
+description: Resolution op_LessThanOrEqual method. Implements the operator 
 type: docs
 weight: 80
 url: /net/aspose.svg.drawing/resolution/op_lessthanorequal/

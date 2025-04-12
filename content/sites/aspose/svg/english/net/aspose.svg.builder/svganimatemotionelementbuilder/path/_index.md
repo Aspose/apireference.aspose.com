@@ -1,7 +1,7 @@
 ---
 title: SVGAnimateMotionElementBuilder.Path
 second_title: Aspose.SVG for .NET API Reference
-description: SVGAnimateMotionElementBuilder method. Defines the path for the motion animation
+description: SVGAnimateMotionElementBuilder Path method. Defines the path for the motion animation
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svganimatemotionelementbuilder/path/

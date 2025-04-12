@@ -1,7 +1,7 @@
 ---
 title: ICSSCounterStyleRule.Glyphs
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSCounterStyleRule property. Gets the glyphs
+description: ICSSCounterStyleRule Glyphs property. Gets the glyphs
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.css/icsscounterstylerule/glyphs/

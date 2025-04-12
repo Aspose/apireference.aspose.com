@@ -1,7 +1,7 @@
 ---
 title: Viewport.Load
 second_title: Aspose.SVG for .NET API Reference
-description: Viewport method. Loads a Viewport from the specified Page
+description: Viewport Load method. Loads a Viewport from the specified Page
 type: docs
 weight: 20
 url: /net/aspose.svg.drawing/viewport/load/

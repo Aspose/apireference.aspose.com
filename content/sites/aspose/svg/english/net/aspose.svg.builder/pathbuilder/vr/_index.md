@@ -1,7 +1,7 @@
 ---
 title: PathBuilder.Vr
 second_title: Aspose.SVG for .NET API Reference
-description: PathBuilder method. Adds a relative Vertical Line To command to the path data
+description: PathBuilder Vr method. Adds a relative Vertical Line To command to the path data
 type: docs
 weight: 210
 url: /net/aspose.svg.builder/pathbuilder/vr/

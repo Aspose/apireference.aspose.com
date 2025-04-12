@@ -1,7 +1,7 @@
 ---
 title: IElementTraversal.LastElementChild
 second_title: Aspose.SVG for .NET API Reference
-description: IElementTraversal property. Returns the last child element node of this element. null if this element has no child elements
+description: IElementTraversal LastElementChild property. Returns the last child element node of this element. null if this element has no child elements
 type: docs
 weight: 30
 url: /net/aspose.svg.dom.traversal/ielementtraversal/lastelementchild/

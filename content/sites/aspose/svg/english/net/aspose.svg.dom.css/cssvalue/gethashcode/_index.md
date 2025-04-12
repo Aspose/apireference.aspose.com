@@ -1,7 +1,7 @@
 ---
 title: CSSValue.GetHashCode
 second_title: Aspose.SVG for .NET API Reference
-description: CSSValue method. Returns a hash code for this instance
+description: CSSValue GetHashCode method. Returns a hash code for this instance
 type: docs
 weight: 40
 url: /net/aspose.svg.dom.css/cssvalue/gethashcode/

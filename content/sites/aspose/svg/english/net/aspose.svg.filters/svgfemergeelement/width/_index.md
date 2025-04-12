@@ -1,7 +1,7 @@
 ---
 title: SVGFEMergeElement.Width
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEMergeElement property. Corresponds to attribute width on the given filter element
+description: SVGFEMergeElement Width property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 30
 url: /net/aspose.svg.filters/svgfemergeelement/width/

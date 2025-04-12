@@ -1,7 +1,7 @@
 ---
 title: IResolvedStyleDeclaration.Transform
 second_title: Aspose.SVG for .NET API Reference
-description: IResolvedStyleDeclaration property. Gets the transformation matrix
+description: IResolvedStyleDeclaration Transform property. Gets the transformation matrix
 type: docs
 weight: 290
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/transform/

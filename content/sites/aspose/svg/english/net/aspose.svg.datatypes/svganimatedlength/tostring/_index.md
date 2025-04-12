@@ -1,7 +1,7 @@
 ---
 title: SVGAnimatedLength.ToString
 second_title: Aspose.SVG for .NET API Reference
-description: SVGAnimatedLength method. Returns a String that represents this instance
+description: SVGAnimatedLength ToString method. Returns a String that represents this instance
 type: docs
 weight: 10
 url: /net/aspose.svg.datatypes/svganimatedlength/tostring/

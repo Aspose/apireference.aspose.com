@@ -1,7 +1,7 @@
 ---
 title: IStyleSheetList.Length
 second_title: Aspose.SVG for .NET API Reference
-description: IStyleSheetList property. The number of StyleSheets in the list. The range of valid child stylesheet indices is 0 to length-1 inclusive
+description: IStyleSheetList Length property. The number of StyleSheets in the list. The range of valid child stylesheet indices is 0 to length-1 inclusive
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.css/istylesheetlist/length/

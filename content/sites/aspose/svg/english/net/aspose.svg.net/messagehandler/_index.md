@@ -3,7 +3,7 @@ title: MessageHandler Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.MessageHandler class. Represents a base type for message handlers
 type: docs
-weight: 2930
+weight: 4560
 url: /net/aspose.svg.net/messagehandler/
 ---
 ## MessageHandler class
@@ -24,7 +24,7 @@ public abstract class MessageHandler
 
 | Name | Description |
 | --- | --- |
-| abstract [Invoke](../../aspose.svg.net/messagehandler/invoke/)(INetworkOperationContext) | When overridden in a derived class is used to implement the message handling. |
+| abstract [Invoke](../../aspose.svg.net/messagehandler/invoke/)(*[INetworkOperationContext](../inetworkoperationcontext/)*) | When overridden in a derived class is used to implement the message handling. |
 
 ### See Also
 

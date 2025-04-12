@@ -1,7 +1,7 @@
 ---
 title: SVGFESpotLightElementBuilder.PointsAtY
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFESpotLightElementBuilder method. Sets the pointsAtY attribute indicating the y-coordinate towards which the light is pointing
+description: SVGFESpotLightElementBuilder PointsAtY method. Sets the pointsAtY attribute indicating the y-coordinate towards which the light is pointing
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgfespotlightelementbuilder/pointsaty/

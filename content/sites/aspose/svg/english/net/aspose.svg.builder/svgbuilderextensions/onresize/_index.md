@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnResize
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onresize event attribute for handling resize events of the window or elements
+description: SVGBuilderExtensions OnResize method. Sets the onresize event attribute for handling resize events of the window or elements
 type: docs
 weight: 1720
 url: /net/aspose.svg.builder/svgbuilderextensions/onresize/

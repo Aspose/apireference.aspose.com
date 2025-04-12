@@ -1,7 +1,7 @@
 ---
 title: SVGCursorElement.Y
 second_title: Aspose.SVG for .NET API Reference
-description: SVGCursorElement property. Corresponds to attribute y on the given cursor element
+description: SVGCursorElement Y property. Corresponds to attribute y on the given cursor element
 type: docs
 weight: 60
 url: /net/aspose.svg/svgcursorelement/y/

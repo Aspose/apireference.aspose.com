@@ -1,7 +1,7 @@
 ---
 title: ICanvas.DrawImage
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvas method. Draws an image on the canvas
+description: ICanvas DrawImage method. Draws an image on the canvas
 type: docs
 weight: 90
 url: /net/aspose.svg.rendering/icanvas/drawimage/

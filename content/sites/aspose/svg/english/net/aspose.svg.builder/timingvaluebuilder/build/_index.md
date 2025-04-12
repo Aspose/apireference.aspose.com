@@ -1,7 +1,7 @@
 ---
 title: TimingValueBuilder.Build
 second_title: Aspose.SVG for .NET API Reference
-description: TimingValueBuilder method. Builds the final timing value string from the added components
+description: TimingValueBuilder Build method. Builds the final timing value string from the added components
 type: docs
 weight: 90
 url: /net/aspose.svg.builder/timingvaluebuilder/build/

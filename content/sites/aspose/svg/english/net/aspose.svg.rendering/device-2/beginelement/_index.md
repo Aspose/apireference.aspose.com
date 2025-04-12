@@ -1,9 +1,9 @@
 ---
 title: Device-2.BeginElement
 second_title: Aspose.SVG for .NET API Reference
-description: Device method. Begins rendering of the node
+description: Device BeginElement method. Begins rendering of the node
 type: docs
-weight: 50
+weight: 80
 url: /net/aspose.svg.rendering/device-2/beginelement/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginElement method

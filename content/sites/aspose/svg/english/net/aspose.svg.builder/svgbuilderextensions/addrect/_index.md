@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.AddRect
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a rect rectangle element with specified dimensions and styles to the SVG builder
+description: SVGBuilderExtensions AddRect method. Adds a rect rectangle element with specified dimensions and styles to the SVG builder
 type: docs
 weight: 450
 url: /net/aspose.svg.builder/svgbuilderextensions/addrect/
 ---
-## AddRect&lt;TBuilder&gt;(this TBuilder, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGRectElementBuilder&gt;) {#addrect}
+## AddRect&lt;TBuilder&gt;(*this TBuilder, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGRectElementBuilder&amp;gt;*) {#addrect}
 
 Adds a 'rect' (rectangle) element with specified dimensions and styles to the SVG builder.
 
@@ -52,7 +52,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddRect&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGRectElementBuilder&gt;) {#addrect_1}
+## AddRect&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGRectElementBuilder&amp;gt;*) {#addrect_1}
 
 Adds a 'rect' element configuration to the builder.
 

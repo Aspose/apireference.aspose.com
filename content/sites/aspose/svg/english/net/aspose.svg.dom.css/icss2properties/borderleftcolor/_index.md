@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.BorderLeftColor
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the border-left-color property definition in CSS2
+description: ICSS2Properties BorderLeftColor property. See the border-left-color property definition in CSS2
 type: docs
 weight: 160
 url: /net/aspose.svg.dom.css/icss2properties/borderleftcolor/

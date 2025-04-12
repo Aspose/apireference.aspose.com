@@ -1,7 +1,7 @@
 ---
 title: SVGRadialGradientElement.Fr
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRadialGradientElement property. Corresponds to attribute fr on the given radialGradient element
+description: SVGRadialGradientElement Fr property. Corresponds to attribute fr on the given radialGradient element
 type: docs
 weight: 30
 url: /net/aspose.svg/svgradialgradientelement/fr/

@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.DrawImage
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter method. Draws the specified image
+description: DeviceAdapter DrawImage method. Draws the specified image
 type: docs
 weight: 130
 url: /net/aspose.svg.rendering/deviceadapter/drawimage/

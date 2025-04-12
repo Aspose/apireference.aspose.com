@@ -1,12 +1,12 @@
 ---
 title: SVGMarkerElementBuilder.Orient
 second_title: Aspose.SVG for .NET API Reference
-description: SVGMarkerElementBuilder method. Sets the orient attribute of the SVG marker element specifying the orientation of the marker
+description: SVGMarkerElementBuilder Orient method. Sets the orient attribute of the SVG marker element specifying the orientation of the marker
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgmarkerelementbuilder/orient/
 ---
-## Orient(Orient) {#orient}
+## Orient(*[Orient](../../orient/)*) {#orient}
 
 Sets the 'orient' attribute of the SVG 'marker' element, specifying the orientation of the marker.
 
@@ -31,7 +31,7 @@ The current instance of SVGMarkerElementBuilder for method chaining.
 
 ---
 
-## Orient(double, AngleUnits) {#orient_1}
+## Orient(*double, [AngleUnits](../../angleunits/)*) {#orient_1}
 
 Sets the 'orient' attribute of the SVG 'marker' element, specifying the orientation angle of the marker.
 

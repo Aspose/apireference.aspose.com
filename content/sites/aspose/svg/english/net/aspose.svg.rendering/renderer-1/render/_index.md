@@ -1,12 +1,12 @@
 ---
 title: Renderer-1.Render
 second_title: Aspose.SVG for .NET API Reference
-description: Renderer method. Defines method for rendering TSource into specified IDevice
+description: Renderer Render method. Defines method for rendering TSource into specified IDevice
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/renderer-1/render/
 ---
-## Render(IDevice, TSource) {#render_3}
+## Render(*[IDevice](../../idevice/), TSource*) {#render_3}
 
 Defines method for rendering !:TSource into specified [`IDevice`](../../idevice/).
 
@@ -28,7 +28,7 @@ public void Render(IDevice device, TSource source)
 
 ---
 
-## Render(IDevice, TSource, TimeSpan) {#render_5}
+## Render(*[IDevice](../../idevice/), TSource, TimeSpan*) {#render_5}
 
 Defines method for rendering !:TSource into specified [`IDevice`](../../idevice/).
 
@@ -51,7 +51,7 @@ public void Render(IDevice device, TSource source, TimeSpan timeout)
 
 ---
 
-## Render(IDevice, TSource, int) {#render_4}
+## Render(*[IDevice](../../idevice/), TSource, int*) {#render_4}
 
 Defines method for rendering !:TSource into specified [`IDevice`](../../idevice/).
 
@@ -74,7 +74,7 @@ public void Render(IDevice device, TSource source, int timeout)
 
 ---
 
-## Render(IDevice, params TSource[]) {#render_6}
+## Render(*[IDevice](../../idevice/), params TSource[]*) {#render_6}
 
 Defines method for rendering multiple !:TSources into specific [`IDevice`](../../idevice/).
 
@@ -96,7 +96,7 @@ public void Render(IDevice device, params TSource[] sources)
 
 ---
 
-## Render(IDevice, int, params TSource[]) {#render}
+## Render(*[IDevice](../../idevice/), int, params TSource[]*) {#render}
 
 Defines method for rendering multiple !:TSources into specific [`IDevice`](../../idevice/).
 
@@ -119,7 +119,7 @@ public void Render(IDevice device, int timeout, params TSource[] sources)
 
 ---
 
-## Render(IDevice, TimeSpan, params TSource[]) {#render_2}
+## Render(*[IDevice](../../idevice/), TimeSpan, params TSource[]*) {#render_2}
 
 Defines method for rendering multiple !:TSources into specific [`IDevice`](../../idevice/).
 
@@ -142,7 +142,7 @@ public abstract void Render(IDevice device, TimeSpan timeout, params TSource[] s
 
 ---
 
-## Render(IDevice, CancellationToken, params TSource[]) {#render_1}
+## Render(*[IDevice](../../idevice/), CancellationToken, params TSource[]*) {#render_1}
 
 Defines a method for rendering multiple !:TSources into a specific [`IDevice`](../../idevice/), using a cancellation token to request cancellation of the operation.
 

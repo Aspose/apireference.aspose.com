@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.SystemLanguage
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the systemLanguage attribute on the SVG element. This attribute specifies the language preferences for which the SVG document fragment is intended
+description: SVGBuilderExtensions SystemLanguage method. Sets the systemLanguage attribute on the SVG element. This attribute specifies the language preferences for which the SVG document fragment is intended
 type: docs
 weight: 2170
 url: /net/aspose.svg.builder/svgbuilderextensions/systemlanguage/

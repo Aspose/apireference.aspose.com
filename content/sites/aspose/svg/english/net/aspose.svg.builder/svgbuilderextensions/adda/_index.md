@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.AddA
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds an a hyperlink element configuration to the builder
+description: SVGBuilderExtensions AddA method. Adds an a hyperlink element configuration to the builder
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgbuilderextensions/adda/

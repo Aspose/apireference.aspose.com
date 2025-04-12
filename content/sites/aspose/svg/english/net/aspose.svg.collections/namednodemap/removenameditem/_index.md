@@ -1,7 +1,7 @@
 ---
 title: NamedNodeMap.RemoveNamedItem
 second_title: Aspose.SVG for .NET API Reference
-description: NamedNodeMap method. Removes a node specified by name
+description: NamedNodeMap RemoveNamedItem method. Removes a node specified by name
 type: docs
 weight: 50
 url: /net/aspose.svg.collections/namednodemap/removenameditem/

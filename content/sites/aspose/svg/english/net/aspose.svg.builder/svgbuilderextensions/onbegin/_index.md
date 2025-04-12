@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnBegin
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onbegin attribute defining a script to be run at the start of the animation
+description: SVGBuilderExtensions OnBegin method. Sets the onbegin attribute defining a script to be run at the start of the animation
 type: docs
 weight: 1200
 url: /net/aspose.svg.builder/svgbuilderextensions/onbegin/

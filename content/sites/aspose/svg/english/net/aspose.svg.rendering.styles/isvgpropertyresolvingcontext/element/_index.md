@@ -1,7 +1,7 @@
 ---
 title: ISVGPropertyResolvingContext.Element
 second_title: Aspose.SVG for .NET API Reference
-description: ISVGPropertyResolvingContext property. Gets the SVG element associated with the context. See Element
+description: ISVGPropertyResolvingContext Element property. Gets the SVG element associated with the context. See Element
 type: docs
 weight: 30
 url: /net/aspose.svg.rendering.styles/isvgpropertyresolvingcontext/element/

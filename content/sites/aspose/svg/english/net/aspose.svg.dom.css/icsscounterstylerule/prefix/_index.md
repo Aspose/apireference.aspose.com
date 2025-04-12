@@ -1,7 +1,7 @@
 ---
 title: ICSSCounterStyleRule.Prefix
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSCounterStyleRule property. Gets the prefix
+description: ICSSCounterStyleRule Prefix property. Gets the prefix
 type: docs
 weight: 50
 url: /net/aspose.svg.dom.css/icsscounterstylerule/prefix/

@@ -1,7 +1,7 @@
 ---
 title: SVGFECompositeElement.Width
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFECompositeElement property. Corresponds to attribute width on the given filter element
+description: SVGFECompositeElement Width property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 100
 url: /net/aspose.svg.filters/svgfecompositeelement/width/

@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.FontSizeAdjust
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the font-size-adjust property definition in CSS2
+description: ICSS2Properties FontSizeAdjust property. See the font-size-adjust property definition in CSS2
 type: docs
 weight: 500
 url: /net/aspose.svg.dom.css/icss2properties/fontsizeadjust/

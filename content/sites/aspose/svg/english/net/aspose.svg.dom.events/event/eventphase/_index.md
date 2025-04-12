@@ -1,7 +1,7 @@
 ---
 title: Event.EventPhase
 second_title: Aspose.SVG for .NET API Reference
-description: Event property. Used to indicate which phase of event flow is currently being evaluated
+description: Event EventPhase property. Used to indicate which phase of event flow is currently being evaluated
 type: docs
 weight: 60
 url: /net/aspose.svg.dom.events/event/eventphase/

@@ -1,7 +1,7 @@
 ---
 title: IParentNode.QuerySelector
 second_title: Aspose.SVG for .NET API Reference
-description: IParentNode method. Returns the first element that is a descendant of node that matches selectors
+description: IParentNode QuerySelector method. Returns the first element that is a descendant of node that matches selectors
 type: docs
 weight: 50
 url: /net/aspose.svg.dom/iparentnode/queryselector/

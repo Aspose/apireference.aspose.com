@@ -1,7 +1,7 @@
 ---
 title: Document.OnLoadedMetadata
 second_title: Aspose.SVG for .NET API Reference
-description: Document event. Gets or sets event handler for OnLoadedMetadata event
+description: Document OnLoadedMetadata event. Gets or sets event handler for OnLoadedMetadata event
 type: docs
 weight: 490
 url: /net/aspose.svg.dom/document/onloadedmetadata/

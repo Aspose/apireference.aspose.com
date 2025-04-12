@@ -1,7 +1,7 @@
 ---
 title: SVGTextPathElementBuilder.Path
 second_title: Aspose.SVG for .NET API Reference
-description: SVGTextPathElementBuilder method. Configures the path for the text
+description: SVGTextPathElementBuilder Path method. Configures the path for the text
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/svgtextpathelementbuilder/path/

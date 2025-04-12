@@ -1,7 +1,7 @@
 ---
 title: PageSetup.LeftPage
 second_title: Aspose.SVG for .NET API Reference
-description: PageSetup property. Gets the Odd Page configuration
+description: PageSetup LeftPage property. Gets the Odd Page configuration
 type: docs
 weight: 40
 url: /net/aspose.svg.rendering/pagesetup/leftpage/

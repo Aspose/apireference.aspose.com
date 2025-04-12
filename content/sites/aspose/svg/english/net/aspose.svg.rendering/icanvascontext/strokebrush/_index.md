@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.StrokeBrush
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the stroke brush. See IBrush
+description: ICanvasContext StrokeBrush property. Gets or sets the stroke brush. See IBrush
 type: docs
 weight: 220
 url: /net/aspose.svg.rendering/icanvascontext/strokebrush/

@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.RequiredExtensions
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the requiredExtensions attribute on the SVG element. This attribute specifies which extensions are required for the SVG document fragment to be processed
+description: SVGBuilderExtensions RequiredExtensions method. Sets the requiredExtensions attribute on the SVG element. This attribute specifies which extensions are required for the SVG document fragment to be processed
 type: docs
 weight: 1970
 url: /net/aspose.svg.builder/svgbuilderextensions/requiredextensions/

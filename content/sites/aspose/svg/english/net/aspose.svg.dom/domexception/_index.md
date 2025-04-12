@@ -3,7 +3,7 @@ title: DOMException Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.DOMException class. The DOMException interface represents an abnormal event called an exception which occurs as a result of calling a method or accessing a property of a web API. This is basically how error conditions are described in web APIs
 type: docs
-weight: 3580
+weight: 2880
 url: /net/aspose.svg.dom/domexception/
 ---
 ## DOMException class
@@ -18,16 +18,23 @@ public class DOMException : PlatformException
 
 | Name | Description |
 | --- | --- |
-| [DOMException](domexception/#constructor)(string) | Initializes a new instance of the `DOMException` class. |
-| [DOMException](domexception/#constructor_1)(string, string) | Initializes a new instance of the `DOMException` class. |
+| [DOMException](domexception/#constructor)(*string*) | Initializes a new instance of the `DOMException` class. |
+| [DOMException](domexception/#constructor_1)(*string, string*) | Initializes a new instance of the `DOMException` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Code](../../aspose.svg.dom/domexception/code/) { get; } | Returns a value that contains one of the error code constants, or 0 if none match. This field is used for historical reasons. |
+| virtual [Data](../../system/exception/data/) { get; } |  |
+| virtual [HelpLink](../../system/exception/helplink/) { get; set; } |  |
+| [HResult](../../system/exception/hresult/) { get; set; } |  |
+| [InnerException](../../system/exception/innerexception/) { get; } |  |
 | override [Message](../../aspose.svg.dom/domexception/message/) { get; } | Returns a string representing a message or description associated with the given error name. |
 | [Name](../../aspose.svg.dom/domexception/name/) { get; } | Returns a string that contains one of the strings associated with an error name. |
+| virtual [Source](../../system/exception/source/) { get; set; } |  |
+| virtual [StackTrace](../../system/exception/stacktrace/) { get; } |  |
+| [TargetSite](../../system/exception/targetsite/) { get; } |  |
 
 ## Fields
 

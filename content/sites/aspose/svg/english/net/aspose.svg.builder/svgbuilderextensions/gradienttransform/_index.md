@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.GradientTransform
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the gradientTransform attribute for a gradient element
+description: SVGBuilderExtensions GradientTransform method. Sets the gradientTransform attribute for a gradient element
 type: docs
 weight: 980
 url: /net/aspose.svg.builder/svgbuilderextensions/gradienttransform/

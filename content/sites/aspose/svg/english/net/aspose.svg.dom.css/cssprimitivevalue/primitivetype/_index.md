@@ -1,7 +1,7 @@
 ---
 title: CSSPrimitiveValue.PrimitiveType
 second_title: Aspose.SVG for .NET API Reference
-description: CSSPrimitiveValue property. The type of the value as defined by the constants specified above
+description: CSSPrimitiveValue PrimitiveType property. The type of the value as defined by the constants specified above
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/cssprimitivevalue/primitivetype/

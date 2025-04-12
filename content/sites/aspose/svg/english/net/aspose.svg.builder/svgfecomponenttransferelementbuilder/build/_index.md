@@ -1,7 +1,7 @@
 ---
 title: SVGFEComponentTransferElementBuilder.Build
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEComponentTransferElementBuilder method. Builds the SVGFEComponentTransferElement with the configured component transfer functions
+description: SVGFEComponentTransferElementBuilder Build method. Builds the SVGFEComponentTransferElement with the configured component transfer functions
 type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfecomponenttransferelementbuilder/build/

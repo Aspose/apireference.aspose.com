@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Lang
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the lang attribute specifying the language of the elements content
+description: SVGBuilderExtensions Lang method. Sets the lang attribute specifying the language of the elements content
 type: docs
 weight: 1080
 url: /net/aspose.svg.builder/svgbuilderextensions/lang/

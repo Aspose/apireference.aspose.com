@@ -1,7 +1,7 @@
 ---
 title: Element.RemoveAttributeNode
 second_title: Aspose.SVG for .NET API Reference
-description: Element method. Removes the specified attribute node
+description: Element RemoveAttributeNode method. Removes the specified attribute node
 type: docs
 weight: 380
 url: /net/aspose.svg.dom/element/removeattributenode/

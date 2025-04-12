@@ -3,7 +3,7 @@ title: Location Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Window.Location class. Location objects provide a representation of the address of the active document of their Documents browsing context and allow the current entry of the browsing contexts session history to be changed by adding or replacing entries in the history object
 type: docs
-weight: 2700
+weight: 6270
 url: /net/aspose.svg.window/location/
 ---
 ## Location class
@@ -32,10 +32,10 @@ public sealed class Location : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [Assign](../../aspose.svg.window/location/assign/)(string) | Navigates to the given page. |
+| [Assign](../../aspose.svg.window/location/assign/)(*string*) | Navigates to the given page. |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
 | [Reload](../../aspose.svg.window/location/reload/)() | Reloads the current page. |
-| [Replace](../../aspose.svg.window/location/replace/)(string) | Removes the current page from the session history and navigates to the given page. |
+| [Replace](../../aspose.svg.window/location/replace/)(*string*) | Removes the current page from the session history and navigates to the given page. |
 | override [ToString](../../aspose.svg.window/location/tostring/)() | Returns the Location object's URL. |
 
 ### See Also

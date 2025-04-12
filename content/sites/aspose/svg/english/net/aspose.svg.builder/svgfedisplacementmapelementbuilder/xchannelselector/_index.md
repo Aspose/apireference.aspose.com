@@ -1,7 +1,7 @@
 ---
 title: SVGFEDisplacementMapElementBuilder.XChannelSelector
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDisplacementMapElementBuilder method. Sets the xChannelSelector attribute of the feDisplacementMap element
+description: SVGFEDisplacementMapElementBuilder XChannelSelector method. Sets the xChannelSelector attribute of the feDisplacementMap element
 type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgfedisplacementmapelementbuilder/xchannelselector/

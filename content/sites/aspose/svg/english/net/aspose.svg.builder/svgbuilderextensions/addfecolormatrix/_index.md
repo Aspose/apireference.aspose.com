@@ -1,12 +1,12 @@
 ---
 title: SVGBuilderExtensions.AddFeColorMatrix
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds an feColorMatrix element to the SVG builder specifying the type of color matrix operation and various other properties for the filter effect
+description: SVGBuilderExtensions AddFeColorMatrix method. Adds an feColorMatrix element to the SVG builder specifying the type of color matrix operation and various other properties for the filter effect
 type: docs
 weight: 140
 url: /net/aspose.svg.builder/svgbuilderextensions/addfecolormatrix/
 ---
-## AddFeColorMatrix&lt;TBuilder&gt;(this TBuilder, ColorMatrixOperation, double[], OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEColorMatrixElementBuilder&gt;) {#addfecolormatrix}
+## AddFeColorMatrix&lt;TBuilder&gt;(*this TBuilder, [ColorMatrixOperation](../../colormatrixoperation/), double[], OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFEColorMatrixElementBuilder&amp;gt;*) {#addfecolormatrix}
 
 Adds an 'feColorMatrix' element to the SVG builder, specifying the type of color matrix operation and various other properties for the filter effect.
 
@@ -59,7 +59,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeColorMatrix&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFEColorMatrixElementBuilder&gt;) {#addfecolormatrix_1}
+## AddFeColorMatrix&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEColorMatrixElementBuilder&amp;gt;*) {#addfecolormatrix_1}
 
 Adds an 'feColorMatrix' element configuration to the builder. This element applies a matrix transformation to the color and alpha values of every pixel.
 

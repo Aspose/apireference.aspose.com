@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnSeeking
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onseeking event attribute for handling events when a seek operation on media is started
+description: SVGBuilderExtensions OnSeeking method. Sets the onseeking event attribute for handling events when a seek operation on media is started
 type: docs
 weight: 1750
 url: /net/aspose.svg.builder/svgbuilderextensions/onseeking/

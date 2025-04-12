@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Filter
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the filter attribute for an SVG element using a custom configuration
+description: SVGBuilderExtensions Filter method. Sets the filter attribute for an SVG element using a custom configuration
 type: docs
 weight: 840
 url: /net/aspose.svg.builder/svgbuilderextensions/filter/

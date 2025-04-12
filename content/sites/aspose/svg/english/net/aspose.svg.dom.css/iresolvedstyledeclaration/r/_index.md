@@ -1,7 +1,7 @@
 ---
 title: IResolvedStyleDeclaration.R
 second_title: Aspose.SVG for .NET API Reference
-description: IResolvedStyleDeclaration property. Gets the radius of an ellipse or circle
+description: IResolvedStyleDeclaration R property. Gets the radius of an ellipse or circle
 type: docs
 weight: 190
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/r/

@@ -1,9 +1,9 @@
 ---
 title: HTMLCollection.GetEnumerator
 second_title: Aspose.SVG for .NET API Reference
-description: HTMLCollection method. Gets the enumerator
+description: HTMLCollection GetEnumerator method. Gets the enumerator
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.svg.collections/htmlcollection/getenumerator/
 ---
 ## HTMLCollection.GetEnumerator method

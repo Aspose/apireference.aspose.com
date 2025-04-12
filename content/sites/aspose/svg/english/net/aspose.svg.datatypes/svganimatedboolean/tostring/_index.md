@@ -1,7 +1,7 @@
 ---
 title: SVGAnimatedBoolean.ToString
 second_title: Aspose.SVG for .NET API Reference
-description: SVGAnimatedBoolean method. Returns a String that represents this instance
+description: SVGAnimatedBoolean ToString method. Returns a String that represents this instance
 type: docs
 weight: 10
 url: /net/aspose.svg.datatypes/svganimatedboolean/tostring/

@@ -1,7 +1,7 @@
 ---
 title: IPath.IsEmpty
 second_title: Aspose.SVG for .NET API Reference
-description: IPath property. Gets a value indicating whether the path is empty
+description: IPath IsEmpty property. Gets a value indicating whether the path is empty
 type: docs
 weight: 20
 url: /net/aspose.svg.rendering/ipath/isempty/

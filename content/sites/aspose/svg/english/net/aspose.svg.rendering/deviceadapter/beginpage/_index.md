@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.BeginPage
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter method. Begins rendering of the new page
+description: DeviceAdapter BeginPage method. Begins rendering of the new page
 type: docs
 weight: 80
 url: /net/aspose.svg.rendering/deviceadapter/beginpage/

@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Exponent
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the exponent attribute for a component transfer function element
+description: SVGBuilderExtensions Exponent method. Sets the exponent attribute for a component transfer function element
 type: docs
 weight: 800
 url: /net/aspose.svg.builder/svgbuilderextensions/exponent/

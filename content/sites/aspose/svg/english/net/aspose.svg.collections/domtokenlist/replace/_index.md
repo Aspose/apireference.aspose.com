@@ -1,7 +1,7 @@
 ---
 title: DOMTokenList.Replace
 second_title: Aspose.SVG for .NET API Reference
-description: DOMTokenList method. Replaces an existing token with a new token. Does nothing if the first token doesnt exist
+description: DOMTokenList Replace method. Replaces an existing token with a new token. Does nothing if the first token doesnt exist
 type: docs
 weight: 80
 url: /net/aspose.svg.collections/domtokenlist/replace/

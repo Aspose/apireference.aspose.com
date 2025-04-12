@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.VoiceFamily
 second_title: Aspose.SVG for .NET API Reference
-description: ICSS2Properties property. See the voice-family property definition in CSS2
+description: ICSS2Properties VoiceFamily property. See the voice-family property definition in CSS2
 type: docs
 weight: 1160
 url: /net/aspose.svg.dom.css/icss2properties/voicefamily/

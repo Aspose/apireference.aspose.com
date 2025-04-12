@@ -1,7 +1,7 @@
 ---
 title: ICSSMediaRule.Media
 second_title: Aspose.SVG for .NET API Reference
-description: ICSSMediaRule property. A list of media types for this rule
+description: ICSSMediaRule Media property. A list of media types for this rule
 type: docs
 weight: 20
 url: /net/aspose.svg.dom.css/icssmediarule/media/

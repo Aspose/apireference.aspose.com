@@ -1,7 +1,7 @@
 ---
 title: IBitmap.RotateFlip
 second_title: Aspose.SVG for .NET API Reference
-description: IBitmap method. Rotates and flips the bitmap image according to the specified rotation and flip type
+description: IBitmap RotateFlip method. Rotates and flips the bitmap image according to the specified rotation and flip type
 type: docs
 weight: 120
 url: /net/aspose.svg.drawing/ibitmap/rotateflip/

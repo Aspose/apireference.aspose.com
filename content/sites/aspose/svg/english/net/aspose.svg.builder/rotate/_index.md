@@ -3,7 +3,7 @@ title: Rotate Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.Rotate enum. Specifies the rotation behavior for elements during motion animation in SVG
 type: docs
-weight: 500
+weight: 1050
 url: /net/aspose.svg.builder/rotate/
 ---
 ## Rotate enumeration

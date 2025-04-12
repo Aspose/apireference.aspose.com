@@ -1,7 +1,7 @@
 ---
 title: ILinearGradientBrush.ConvertToTextureBrush
 second_title: Aspose.SVG for .NET API Reference
-description: ILinearGradientBrush method. Converts the linear gradient brush to a texture brush. See ITextureBrush
+description: ILinearGradientBrush ConvertToTextureBrush method. Converts the linear gradient brush to a texture brush. See ITextureBrush
 type: docs
 weight: 40
 url: /net/aspose.svg.drawing/ilineargradientbrush/converttotexturebrush/

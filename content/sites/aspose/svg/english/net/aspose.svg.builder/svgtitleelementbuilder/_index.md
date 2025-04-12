@@ -3,7 +3,7 @@ title: SVGTitleElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGTitleElementBuilder class. Builder class for creating an SVGTitleElement which is used to define the title of an SVG document or a part thereof
 type: docs
-weight: 1960
+weight: 1690
 url: /net/aspose.svg.builder/svgtitleelementbuilder/
 ---
 ## SVGTitleElementBuilder class
@@ -32,10 +32,10 @@ public class SVGTitleElementBuilder : SVGElementBuilder<SVGTitleElement>, ICoreA
 
 | Name | Description |
 | --- | --- |
-| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(string, string) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
-| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGTitleElement) |  |
-| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGTitleElement](../../aspose.svg/svgtitleelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: IWindowEventHandlers.OnMessage
 second_title: Aspose.SVG for .NET API Reference
-description: IWindowEventHandlers event. Gets or sets event handler
+description: IWindowEventHandlers OnMessage event. Gets or sets event handler
 type: docs
 weight: 50
 url: /net/aspose.svg.window/iwindoweventhandlers/onmessage/

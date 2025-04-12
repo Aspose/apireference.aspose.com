@@ -1,7 +1,7 @@
 ---
 title: IBitmap.DrawBitmap
 second_title: Aspose.SVG for .NET API Reference
-description: IBitmap method. Draws the specified source rectangle of the given bitmap onto the specified destination rectangle of the current bitmap
+description: IBitmap DrawBitmap method. Draws the specified source rectangle of the given bitmap onto the specified destination rectangle of the current bitmap
 type: docs
 weight: 90
 url: /net/aspose.svg.drawing/ibitmap/drawbitmap/

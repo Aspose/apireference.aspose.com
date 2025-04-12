@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.EndDocument
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter method. Ends rendering of the document
+description: DeviceAdapter EndDocument method. Ends rendering of the document
 type: docs
 weight: 140
 url: /net/aspose.svg.rendering/deviceadapter/enddocument/

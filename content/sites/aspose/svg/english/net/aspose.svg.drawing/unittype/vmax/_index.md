@@ -1,7 +1,7 @@
 ---
 title: UnitType.Vmax
 second_title: Aspose.SVG for .NET API Reference
-description: UnitType field. Measurement is relative to 1 of viewports larger dimension Try it
+description: UnitType Vmax field. Measurement is relative to 1 of viewports larger dimension Try it
 type: docs
 weight: 280
 url: /net/aspose.svg.drawing/unittype/vmax/

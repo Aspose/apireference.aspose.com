@@ -1,7 +1,7 @@
 ---
 title: SVGAnimatedValue-1.BaseVal
 second_title: Aspose.SVG for .NET API Reference
-description: SVGAnimatedValue property. The base value of the given attribute before applying any animations
+description: SVGAnimatedValue BaseVal property. The base value of the given attribute before applying any animations
 type: docs
 weight: 20
 url: /net/aspose.svg.datatypes/svganimatedvalue-1/baseval/

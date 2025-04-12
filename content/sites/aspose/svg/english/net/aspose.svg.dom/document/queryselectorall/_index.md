@@ -1,7 +1,7 @@
 ---
 title: Document.QuerySelectorAll
 second_title: Aspose.SVG for .NET API Reference
-description: Document method. Returns a NodeList of all the Elements in document which match selector
+description: Document QuerySelectorAll method. Returns a NodeList of all the Elements in document which match selector
 type: docs
 weight: 1030
 url: /net/aspose.svg.dom/document/queryselectorall/

@@ -3,7 +3,7 @@ title: CalcMode Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.CalcMode enum. Specifies the calculation modes for interpolating values in SVG animations
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.svg.builder/calcmode/
 ---
 ## CalcMode enumeration

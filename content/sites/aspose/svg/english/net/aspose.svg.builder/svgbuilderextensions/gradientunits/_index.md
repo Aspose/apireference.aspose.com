@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.GradientUnits
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the gradientUnits attribute for a gradient element
+description: SVGBuilderExtensions GradientUnits method. Sets the gradientUnits attribute for a gradient element
 type: docs
 weight: 990
 url: /net/aspose.svg.builder/svgbuilderextensions/gradientunits/

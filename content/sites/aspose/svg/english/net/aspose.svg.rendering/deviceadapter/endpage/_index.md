@@ -1,7 +1,7 @@
 ---
 title: DeviceAdapter.EndPage
 second_title: Aspose.SVG for .NET API Reference
-description: DeviceAdapter method. Ends rendering of the current page
+description: DeviceAdapter EndPage method. Ends rendering of the current page
 type: docs
 weight: 160
 url: /net/aspose.svg.rendering/deviceadapter/endpage/

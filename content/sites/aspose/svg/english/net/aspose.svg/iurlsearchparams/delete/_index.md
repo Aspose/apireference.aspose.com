@@ -1,7 +1,7 @@
 ---
 title: IUrlSearchParams.Delete
 second_title: Aspose.SVG for .NET API Reference
-description: IUrlSearchParams method. Removes all name-value pairs whose name is name
+description: IUrlSearchParams Delete method. Removes all name-value pairs whose name is name
 type: docs
 weight: 20
 url: /net/aspose.svg/iurlsearchparams/delete/

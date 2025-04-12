@@ -1,7 +1,7 @@
 ---
 title: GraphicContext.Clone
 second_title: Aspose.SVG for .NET API Reference
-description: GraphicContext method. Creates a new instance of a GraphicContext class with the same property values as an existing instance
+description: GraphicContext Clone method. Creates a new instance of a GraphicContext class with the same property values as an existing instance
 type: docs
 weight: 170
 url: /net/aspose.svg.rendering/graphiccontext/clone/

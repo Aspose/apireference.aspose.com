@@ -1,7 +1,7 @@
 ---
 title: SVGFEDropShadowElement.Result
 second_title: Aspose.SVG for .NET API Reference
-description: SVGFEDropShadowElement property. Corresponds to attribute result on the given feDropShadow element
+description: SVGFEDropShadowElement Result property. Corresponds to attribute result on the given feDropShadow element
 type: docs
 weight: 50
 url: /net/aspose.svg.filters/svgfedropshadowelement/result/

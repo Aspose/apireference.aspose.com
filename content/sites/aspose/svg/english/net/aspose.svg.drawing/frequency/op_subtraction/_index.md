@@ -1,7 +1,7 @@
 ---
 title: Frequency.op_Subtraction
 second_title: Aspose.SVG for .NET API Reference
-description: Frequency method. Implements the operator -
+description: Frequency op_Subtraction method. Implements the operator -
 type: docs
 weight: 80
 url: /net/aspose.svg.drawing/frequency/op_subtraction/

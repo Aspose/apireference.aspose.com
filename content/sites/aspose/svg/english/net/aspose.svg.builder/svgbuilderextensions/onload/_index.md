@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.OnLoad
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the onload event attribute for handling load events on the element
+description: SVGBuilderExtensions OnLoad method. Sets the onload event attribute for handling load events on the element
 type: docs
 weight: 1520
 url: /net/aspose.svg.builder/svgbuilderextensions/onload/

@@ -1,7 +1,7 @@
 ---
 title: ClipPathBuilder.Polygon
 second_title: Aspose.SVG for .NET API Reference
-description: ClipPathBuilder method. Defines a polygonal clip path
+description: ClipPathBuilder Polygon method. Defines a polygonal clip path
 type: docs
 weight: 80
 url: /net/aspose.svg.builder/clippathbuilder/polygon/

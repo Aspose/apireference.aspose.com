@@ -1,7 +1,7 @@
 ---
 title: IBitmap.Save
 second_title: Aspose.SVG for .NET API Reference
-description: IBitmap method. Saves the bitmap image to the specified stream with the specified image format and quality
+description: IBitmap Save method. Saves the bitmap image to the specified stream with the specified image format and quality
 type: docs
 weight: 130
 url: /net/aspose.svg.drawing/ibitmap/save/

@@ -1,7 +1,7 @@
 ---
 title: SVGScriptElementBuilder.Type
 second_title: Aspose.SVG for .NET API Reference
-description: SVGScriptElementBuilder method. Sets the type attribute of the SVG script element specifying the scripting language type e.g. text/javascript
+description: SVGScriptElementBuilder Type method. Sets the type attribute of the SVG script element specifying the scripting language type e.g. text/javascript
 type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgscriptelementbuilder/type/

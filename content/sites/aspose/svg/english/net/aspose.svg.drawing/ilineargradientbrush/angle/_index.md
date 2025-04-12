@@ -1,7 +1,7 @@
 ---
 title: ILinearGradientBrush.Angle
 second_title: Aspose.SVG for .NET API Reference
-description: ILinearGradientBrush property. Gets or sets the angle measured in degrees clockwise from the x-axis of the gradients orientation line
+description: ILinearGradientBrush Angle property. Gets or sets the angle measured in degrees clockwise from the x-axis of the gradients orientation line
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/ilineargradientbrush/angle/

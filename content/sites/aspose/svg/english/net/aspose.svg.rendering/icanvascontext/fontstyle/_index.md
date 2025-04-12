@@ -1,7 +1,7 @@
 ---
 title: ICanvasContext.FontStyle
 second_title: Aspose.SVG for .NET API Reference
-description: ICanvasContext property. Gets or sets the font style
+description: ICanvasContext FontStyle property. Gets or sets the font style
 type: docs
 weight: 50
 url: /net/aspose.svg.rendering/icanvascontext/fontstyle/

@@ -3,7 +3,7 @@ title: IFileList Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.IO.IFileList interface. Represent the interface for list of files
 type: docs
-weight: 3150
+weight: 4210
 url: /net/aspose.svg.io/ifilelist/
 ---
 ## IFileList interface

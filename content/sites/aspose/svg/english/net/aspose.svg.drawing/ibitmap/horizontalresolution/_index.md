@@ -1,7 +1,7 @@
 ---
 title: IBitmap.HorizontalResolution
 second_title: Aspose.SVG for .NET API Reference
-description: IBitmap property. Gets the horizontal resolution of the bitmap image
+description: IBitmap HorizontalResolution property. Gets the horizontal resolution of the bitmap image
 type: docs
 weight: 50
 url: /net/aspose.svg.drawing/ibitmap/horizontalresolution/

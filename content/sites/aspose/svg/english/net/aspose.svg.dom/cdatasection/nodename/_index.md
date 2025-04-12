@@ -1,7 +1,7 @@
 ---
 title: CDATASection.NodeName
 second_title: Aspose.SVG for .NET API Reference
-description: CDATASection property. The name of this node depending on its type
+description: CDATASection NodeName property. The name of this node depending on its type
 type: docs
 weight: 10
 url: /net/aspose.svg.dom/cdatasection/nodename/

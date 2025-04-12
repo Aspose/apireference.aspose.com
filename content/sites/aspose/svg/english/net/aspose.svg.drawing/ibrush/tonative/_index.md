@@ -1,7 +1,7 @@
 ---
 title: IBrush.ToNative
 second_title: Aspose.SVG for .NET API Reference
-description: IBrush method. Converts the brush to a native representation
+description: IBrush ToNative method. Converts the brush to a native representation
 type: docs
 weight: 30
 url: /net/aspose.svg.drawing/ibrush/tonative/

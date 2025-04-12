@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.Height
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the height attribute for an SVG element
+description: SVGBuilderExtensions Height method. Sets the height attribute for an SVG element
 type: docs
 weight: 1000
 url: /net/aspose.svg.builder/svgbuilderextensions/height/

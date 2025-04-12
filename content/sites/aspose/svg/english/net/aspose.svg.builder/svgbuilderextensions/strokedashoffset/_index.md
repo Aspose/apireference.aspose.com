@@ -1,7 +1,7 @@
 ---
 title: SVGBuilderExtensions.StrokeDashoffset
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Sets the stroke-dashoffset attribute for an SVG element defining the offset for the start of the stroke dash array
+description: SVGBuilderExtensions StrokeDashoffset method. Sets the stroke-dashoffset attribute for an SVG element defining the offset for the start of the stroke dash array
 type: docs
 weight: 2100
 url: /net/aspose.svg.builder/svgbuilderextensions/strokedashoffset/

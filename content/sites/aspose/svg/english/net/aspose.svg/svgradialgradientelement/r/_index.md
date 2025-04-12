@@ -1,7 +1,7 @@
 ---
 title: SVGRadialGradientElement.R
 second_title: Aspose.SVG for .NET API Reference
-description: SVGRadialGradientElement property. Corresponds to attribute r on the given radialGradient element
+description: SVGRadialGradientElement R property. Corresponds to attribute r on the given radialGradient element
 type: docs
 weight: 60
 url: /net/aspose.svg/svgradialgradientelement/r/

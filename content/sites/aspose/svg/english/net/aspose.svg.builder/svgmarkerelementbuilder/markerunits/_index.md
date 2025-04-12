@@ -1,7 +1,7 @@
 ---
 title: SVGMarkerElementBuilder.MarkerUnits
 second_title: Aspose.SVG for .NET API Reference
-description: SVGMarkerElementBuilder method. Sets the markerUnits attribute of the SVG marker element specifying the coordinate system for the markers attributes
+description: SVGMarkerElementBuilder MarkerUnits method. Sets the markerUnits attribute of the SVG marker element specifying the coordinate system for the markers attributes
 type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgmarkerelementbuilder/markerunits/

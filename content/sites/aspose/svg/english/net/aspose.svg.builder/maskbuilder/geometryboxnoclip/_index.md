@@ -1,7 +1,7 @@
 ---
 title: MaskBuilder.GeometryBoxNoclip
 second_title: Aspose.SVG for .NET API Reference
-description: MaskBuilder method. Sets the geometry box of the mask with no clipping
+description: MaskBuilder GeometryBoxNoclip method. Sets the geometry box of the mask with no clipping
 type: docs
 weight: 60
 url: /net/aspose.svg.builder/maskbuilder/geometryboxnoclip/

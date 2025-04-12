@@ -1,7 +1,7 @@
 ---
 title: Location.Pathname
 second_title: Aspose.SVG for .NET API Reference
-description: Location property. Returns the Location objects URLs path. Can be set to navigate to the same URL with a changed path
+description: Location Pathname property. Returns the Location objects URLs path. Can be set to navigate to the same URL with a changed path
 type: docs
 weight: 60
 url: /net/aspose.svg.window/location/pathname/
