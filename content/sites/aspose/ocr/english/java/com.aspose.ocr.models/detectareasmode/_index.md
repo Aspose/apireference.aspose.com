@@ -3,8 +3,8 @@ title: DetectAreasMode
 second_title: Aspose.OCR for Java API Reference
 description: 
 type: docs
-weight: 38
-url: /java/com.aspose.ocr/detectareasmode/
+weight: 23
+url: /java/com.aspose.ocr.models/detectareasmode/
 ---
 
 **Inheritance:**
@@ -21,8 +21,6 @@ public enum DetectAreasMode extends Enum<DetectAreasMode>
 | [MULTICOLUMN](#MULTICOLUMN) | Detects large blocks of text formatted in columns. |
 | [TABLE](#TABLE) | Detects tabular structures in the image and extracts text from individual cells. |
 | [UNIVERSAL](#UNIVERSAL) | Detects all blocks of text in the image, including sparse and irregular text on photos. |
-## Methods
-
 
 ### CURVED_TEXT {#CURVED-TEXT}
 ```
@@ -63,3 +61,4 @@ public static final DetectAreasMode UNIVERSAL
 
 
 Detects all blocks of text in the image, including sparse and irregular text on photos. A versatile option for most images, except for tables and multi-column layouts.
+

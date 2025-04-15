@@ -3,8 +3,8 @@ title: SkewOutput
 second_title: Aspose.OCR for Java API Reference
 description: Data about skew angle in degrees and name of the file
 type: docs
-weight: 33
-url: /java/com.aspose.ocr/skewoutput/
+weight: 18
+url: /java/com.aspose.ocr.models/skewoutput/
 ---
 
 **Inheritance:**
@@ -19,6 +19,7 @@ Data about skew angle in degrees and name of the file.
 | Constructor | Description |
 | --- | --- |
 | [SkewOutput()](#SkewOutput) |  |
+| [SkewOutput(String source, double angle, int page, int imageIndex)](#SkewOutput-java.lang.String-double-int-int) |  |
 ## Fields
 
 | Field | Description |
@@ -33,6 +34,20 @@ Data about skew angle in degrees and name of the file.
 public SkewOutput()
 ```
 
+
+### SkewOutput(String source, double angle, int page, int imageIndex) {#SkewOutput-java.lang.String-double-int-int}
+```
+public SkewOutput(String source, double angle, int page, int imageIndex)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| source | java.lang.String |  |
+| angle | double |  |
+| page | int |  |
+| imageIndex | int |  |
 
 ### Angle {#Angle}
 ```
@@ -65,4 +80,3 @@ public String Source
 
 
 The full path to the file or URL, if any. Empty for streams, byte arrays, base64.
-

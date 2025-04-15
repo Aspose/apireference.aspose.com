@@ -3,7 +3,7 @@ title: RecognitionSettings
 second_title: Aspose.OCR for Java API Reference
 description: Settings for the image recognition
 type: docs
-weight: 30
+weight: 27
 url: /java/com.aspose.ocr/recognitionsettings/
 ---
 
@@ -30,12 +30,13 @@ Settings for the image recognition. Contains elements that allow customizing the
 
 | Method | Description |
 | --- | --- |
-| [setAllowedCharacters(CharactersAllowedType allowedCharacters)](#setAllowedCharacters-com.aspose.ocr.CharactersAllowedType) | Allowed characters set. |
+| [setAllowedCharacters(CharactersAllowedType allowedCharacters)](#setAllowedCharacters-com.aspose.ocr.models.CharactersAllowedType) | Allowed characters set. |
 | [setAllowedCharacters(String allowedCharacters)](#setAllowedCharacters-java.lang.String) | Allowed characters set. |
 | [setAutomaticColorInversion(boolean automaticColorInversion)](#setAutomaticColorInversion-boolean) | Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them. |
-| [setDetectAreasMode(DetectAreasMode detectAreasMode)](#setDetectAreasMode-com.aspose.ocr.DetectAreasMode) | Determines the type of neural network used for areas detection. |
+| [setDetectAreasMode(DetectAreasMode detectAreasMode)](#setDetectAreasMode-com.aspose.ocr.models.DetectAreasMode) | Determines the type of neural network used for areas detection. |
 | [setIgnoredCharacters(String characters)](#setIgnoredCharacters-java.lang.String) | Sets blacklist for recognition symbols. |
-| [setLanguage(Language language)](#setLanguage-com.aspose.ocr.Language) |  |
+| [setLanguage(Language language)](#setLanguage-com.aspose.ocr.models.Language) |  |
+| [setLanguageDetectionLevel(LanguageDetectionLevel languageDetectionLevel)](#setLanguageDetectionLevel-com.aspose.ocr.models.LanguageDetectionLevel) | Specifies the level of language detection for text recognition. |
 | [setLinesFiltration(boolean linesFiltration)](#setLinesFiltration-boolean) | Allows to recognize text in the tables (regions surrounded lines). |
 | [setRecognitionAreas(ArrayList<Rectangle> recognitionAreas)](#setRecognitionAreas-java.util.ArrayList-java.awt.Rectangle) | Sets the list of text areas for processing. |
 | [setRecognizeSingleLine(boolean recognizeSingleLine)](#setRecognizeSingleLine-boolean) | Sets single-line image recognition. |
@@ -134,11 +135,7 @@ public RecognitionSettings(CarPlateRecognitionSettings recSettings)
 
 
 
-
-
-
-
-### setAllowedCharacters(CharactersAllowedType allowedCharacters) {#setAllowedCharacters-com.aspose.ocr.CharactersAllowedType}
+### setAllowedCharacters(CharactersAllowedType allowedCharacters) {#setAllowedCharacters-com.aspose.ocr.models.CharactersAllowedType}
 ```
 public void setAllowedCharacters(CharactersAllowedType allowedCharacters)
 ```
@@ -149,7 +146,7 @@ Allowed characters set. Determines the type of characters allowed for recognitio
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| allowedCharacters | [CharactersAllowedType](../../com.aspose.ocr/charactersallowedtype/) | contains enum @see [CharactersAllowedType](../../com.aspose.ocr/charactersallowedtype/) value. |
+| allowedCharacters | [CharactersAllowedType](../../com.aspose.ocr.models/charactersallowedtype/) | contains enum @see [CharactersAllowedType](../../com.aspose.ocr.models/charactersallowedtype/) value. |
 
 ### setAllowedCharacters(String allowedCharacters) {#setAllowedCharacters-java.lang.String}
 ```
@@ -177,7 +174,7 @@ Detect images with white text on dark/black background and automatically choose 
 | --- | --- | --- |
 | automaticColorInversion | boolean | contains boolean value - a automaticColorInversion is set. True by default. |
 
-### setDetectAreasMode(DetectAreasMode detectAreasMode) {#setDetectAreasMode-com.aspose.ocr.DetectAreasMode}
+### setDetectAreasMode(DetectAreasMode detectAreasMode) {#setDetectAreasMode-com.aspose.ocr.models.DetectAreasMode}
 ```
 public void setDetectAreasMode(DetectAreasMode detectAreasMode)
 ```
@@ -188,7 +185,7 @@ Determines the type of neural network used for areas detection.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| detectAreasMode | [DetectAreasMode](../../com.aspose.ocr/detectareasmode/) | contains enum @see [DetectAreasMode](../../com.aspose.ocr/detectareasmode/) value. |
+| detectAreasMode | [DetectAreasMode](../../com.aspose.ocr.models/detectareasmode/) | contains enum @see [DetectAreasMode](../../com.aspose.ocr.models/detectareasmode/) value. |
 
 ### setIgnoredCharacters(String characters) {#setIgnoredCharacters-java.lang.String}
 ```
@@ -203,7 +200,7 @@ Sets blacklist for recognition symbols.
 | --- | --- | --- |
 | characters | java.lang.String | Characters excluded from recognition. |
 
-### setLanguage(Language language) {#setLanguage-com.aspose.ocr.Language}
+### setLanguage(Language language) {#setLanguage-com.aspose.ocr.models.Language}
 ```
 public void setLanguage(Language language)
 ```
@@ -214,7 +211,20 @@ public void setLanguage(Language language)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| language | [Language](../../com.aspose.ocr/language/) | Sets the language used for OCR. Multi-language (none) by default. |
+| language | [Language](../../com.aspose.ocr.models/language/) | Sets the language used for OCR. Multi-language (none) by default. |
+
+### setLanguageDetectionLevel(LanguageDetectionLevel languageDetectionLevel) {#setLanguageDetectionLevel-com.aspose.ocr.models.LanguageDetectionLevel}
+```
+public void setLanguageDetectionLevel(LanguageDetectionLevel languageDetectionLevel)
+```
+
+
+Specifies the level of language detection for text recognition. Works only if the selected language is Language.MULTILANGUAGE, Language.AUTO, or Language.UNIVERSAL. This process is time-consuming and significantly slows down the overall recognition.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| languageDetectionLevel | [LanguageDetectionLevel](../../com.aspose.ocr.models/languagedetectionlevel/) |  |
 
 ### setLinesFiltration(boolean linesFiltration) {#setLinesFiltration-boolean}
 ```

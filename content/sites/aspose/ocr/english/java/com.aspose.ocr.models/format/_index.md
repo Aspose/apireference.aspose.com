@@ -3,8 +3,8 @@ title: Format
 second_title: Aspose.OCR for Java API Reference
 description: 
 type: docs
-weight: 39
-url: /java/com.aspose.ocr/format/
+weight: 24
+url: /java/com.aspose.ocr.models/format/
 ---
 
 **Inheritance:**
@@ -20,6 +20,7 @@ public enum Format extends Enum<Format>
 | [Epub](#Epub) | Saves the document as an EPUB file. |
 | [Html](#Html) | Saves the document as an HTML file. |
 | [Json](#Json) | Saves the result as an plain text written in JavaScript object notation. |
+| [Md](#Md) | Saves the document as Markdown file. |
 | [Pdf](#Pdf) | Saves the result as a PDF (Adobe Portable Document) Document. |
 | [PdfNoImg](#PdfNoImg) | Saves the document as a Searchable PDF (Adobe Portable Document) Document without image. |
 | [Rtf](#Rtf) | Saves the document as an rtf file. |
@@ -27,6 +28,7 @@ public enum Format extends Enum<Format>
 | [Xlsx](#Xlsx) | Saves the result as an Excel ( 2007 and later) workbook Document. |
 | [Xml](#Xml) | Saves the result as an XML Document. |
 | [hOcr](#hOcr) | Saves the document as a hOCR (.html) file. |
+
 
 ### Docx {#Docx}
 ```
@@ -59,6 +61,14 @@ public static final Format Json
 
 
 Saves the result as an plain text written in JavaScript object notation.
+
+### Md {#Md}
+```
+public static final Format Md
+```
+
+
+Saves the document as Markdown file.
 
 ### Pdf {#Pdf}
 ```

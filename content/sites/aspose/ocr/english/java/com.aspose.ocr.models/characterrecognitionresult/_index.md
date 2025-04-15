@@ -3,8 +3,8 @@ title: CharacterRecognitionResult
 second_title: Aspose.OCR for Java API Reference
 description: Pages with detected characters data
 type: docs
-weight: 14
-url: /java/com.aspose.ocr/characterrecognitionresult/
+weight: 11
+url: /java/com.aspose.ocr.models/characterrecognitionresult/
 ---
 
 **Inheritance:**
@@ -27,7 +27,6 @@ Pages with detected characters data.
 | [ImageIndex](#ImageIndex) | Sequence number of the image on the page. |
 | [Page](#Page) | Page number. |
 | [Source](#Source) | The full path to the file or URL, if any. |
-
 
 ### CharacterRecognitionResult() {#CharacterRecognitionResult}
 ```
@@ -66,3 +65,4 @@ public String Source
 
 
 The full path to the file or URL, if any. Empty for streams, byte arrays, base64.
+
