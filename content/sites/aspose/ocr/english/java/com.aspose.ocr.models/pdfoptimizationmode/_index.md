@@ -3,8 +3,8 @@ title: PdfOptimizationMode
 second_title: Aspose.OCR for Java API Reference
 description: Significantly reduce the PDF file size at the expense of lower image quality
 type: docs
-weight: 42
-url: /java/com.aspose.ocr/pdfoptimizationmode/
+weight: 27
+url: /java/com.aspose.ocr.models/pdfoptimizationmode/
 ---
 
 **Inheritance:**
@@ -25,7 +25,6 @@ Specify the balance between file size and image quality of saved PDFs.
 | [HIGH_QUALITY](#HIGH-QUALITY) | Smaller PDF file size at the expense of slight image downsampling. |
 | [MAXIMUM_QUALITY](#MAXIMUM-QUALITY) | Optimize file size while preserving the highest image quality. |
 | [NONE](#NONE) | Do not optimize PDF size. |
-
 
 ### AGGRESSIVE {#AGGRESSIVE}
 ```
@@ -66,4 +65,3 @@ public static final PdfOptimizationMode NONE
 
 
 Do not optimize PDF size.
-

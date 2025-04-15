@@ -3,8 +3,8 @@ title: Country
 second_title: Aspose.OCR for Java API Reference
 description: For better passport recognition point the passport country
 type: docs
-weight: 34
-url: /java/com.aspose.ocr/country/
+weight: 21
+url: /java/com.aspose.ocr.models/country/
 ---
 
 **Inheritance:**
@@ -45,3 +45,4 @@ public static final Country USA
 
 
 Extract key details from US passport image.
+

@@ -3,8 +3,8 @@ title: Character
 second_title: Aspose.OCR for Java API Reference
 description: Data about detected character
 type: docs
-weight: 13
-url: /java/com.aspose.ocr/character/
+weight: 10
+url: /java/com.aspose.ocr.models/character/
 ---
 
 **Inheritance:**

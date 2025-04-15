@@ -3,7 +3,7 @@ title: RecognitionResult
 second_title: Aspose.OCR for Java API Reference
 description: The results of the image recognition
 type: docs
-weight: 29
+weight: 26
 url: /java/com.aspose.ocr/recognitionresult/
 ---
 
@@ -23,6 +23,7 @@ The results of the image recognition. Contains elements with recognition informa
 
 | Field | Description |
 | --- | --- |
+| [language](#language) | The language of the recognized text in the image. |
 | [recognitionAreasRectangles](#recognitionAreasRectangles) | List recognition results of a list of areas (Rectangles). |
 | [recognitionAreasText](#recognitionAreasText) | List recognition results of a list of areas (Rectangles). |
 | [recognitionCharactersList](#recognitionCharactersList) | A set of characters found by the recognition algorithm and arranged in descending order of probability. |
@@ -42,10 +43,10 @@ The results of the image recognition. Contains elements with recognition informa
 | [getSpellCheckErrorList()](#getSpellCheckErrorList) | Find the misspelled words with suggested spellings for a given input text. |
 | [getSpellCheckErrorList(SpellCheck.SpellCheckLanguage language)](#getSpellCheckErrorList-com.aspose.ocr.SpellCheck.SpellCheckLanguage) | Find the misspelled words with suggested spellings for a given input text. |
 | [save(String fullFileName)](#save-java.lang.String) | Saves the document in the plain text |
-| [save(String fullFileName, Format format)](#save-java.lang.String-com.aspose.ocr.Format) | Saves the document in the plain text or other document format. |
-| [save(String fullFileName, Format format, PdfOptimizationMode optimizePdf)](#save-java.lang.String-com.aspose.ocr.Format-com.aspose.ocr.PdfOptimizationMode) | Saves the document in the plain text or other document format. |
-| [saveSpellCheckCorrectedText(String fullFileName, Format format)](#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.Format) | Saves the corrected with English dictionary text in the document in the plain text or Microsoft Word Text Document format. |
-| [saveSpellCheckCorrectedText(String fullFileName, Format format, SpellCheck.SpellCheckLanguage language)](#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.Format-com.aspose.ocr.SpellCheck.SpellCheckLanguage) | Saves the corrected text in the document in the plain text or other format. |
+| [save(String fullFileName, Format format)](#save-java.lang.String-com.aspose.ocr.models.Format) | Saves the document in the plain text or other document format. |
+| [save(String fullFileName, Format format, PdfOptimizationMode optimizePdf)](#save-java.lang.String-com.aspose.ocr.models.Format-com.aspose.ocr.models.PdfOptimizationMode) | Saves the document in the plain text or other document format. |
+| [saveSpellCheckCorrectedText(String fullFileName, Format format)](#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.models.Format) | Saves the corrected with English dictionary text in the document in the plain text or Microsoft Word Text Document format. |
+| [saveSpellCheckCorrectedText(String fullFileName, Format format, SpellCheck.SpellCheckLanguage language)](#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.models.Format-com.aspose.ocr.SpellCheck.SpellCheckLanguage) | Saves the corrected text in the document in the plain text or other format. |
 | [useUserDictionary(String dictionaryPath)](#useUserDictionary-java.lang.String) | Allows to use own dictionary for spell-check correction. |
 ### RecognitionResult() {#RecognitionResult}
 ```
@@ -54,6 +55,14 @@ public RecognitionResult()
 
 
 Initializes a new instance of the
+
+### language {#language}
+```
+public Language language
+```
+
+
+The language of the recognized text in the image. This value is determined automatically if  Language.AUTO ,  Language.MULTILANGUAGE , or  Language.UNIVERSAL  is selected.
 
 ### recognitionAreasRectangles {#recognitionAreasRectangles}
 ```
@@ -101,7 +110,7 @@ public double skew
 ```
 
 
-Skew angle of the image.
+Skew angle of the image. Will be calculated only in case PreprocessingFilter.AutoSkew()
 
 ### warnings {#warnings}
 ```
@@ -141,7 +150,6 @@ Form JSON string with recognition results.
 
 **Returns:**
 java.lang.String - Recognition results as XML string.
-
 ### getSpellCheckCorrectedText() {#getSpellCheckCorrectedText}
 ```
 public String getSpellCheckCorrectedText()
@@ -209,7 +217,7 @@ Saves the document in the plain text
 | --- | --- | --- |
 | fullFileName | java.lang.String | Filename with a path for saving recognition result |
 
-### save(String fullFileName, Format format) {#save-java.lang.String-com.aspose.ocr.Format}
+### save(String fullFileName, Format format) {#save-java.lang.String-com.aspose.ocr.models.Format}
 ```
 public void save(String fullFileName, Format format)
 ```
@@ -221,9 +229,9 @@ Saves the document in the plain text or other document format.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fullFileName | java.lang.String | Filename with a path for saving recognition result. |
-| format | [Format](../../com.aspose.ocr/format/) | Document format enum type of Format. |
+| format | [Format](../../com.aspose.ocr.models/format/) | Document format enum type of Format. |
 
-### save(String fullFileName, Format format, PdfOptimizationMode optimizePdf) {#save-java.lang.String-com.aspose.ocr.Format-com.aspose.ocr.PdfOptimizationMode}
+### save(String fullFileName, Format format, PdfOptimizationMode optimizePdf) {#save-java.lang.String-com.aspose.ocr.models.Format-com.aspose.ocr.models.PdfOptimizationMode}
 ```
 public void save(String fullFileName, Format format, PdfOptimizationMode optimizePdf)
 ```
@@ -235,10 +243,10 @@ Saves the document in the plain text or other document format.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fullFileName | java.lang.String | Filename with a path for saving recognition result. |
-| format | [Format](../../com.aspose.ocr/format/) | Document format enum type of Format. |
-| optimizePdf | [PdfOptimizationMode](../../com.aspose.ocr/pdfoptimizationmode/) | Reduce the PDF file size by lowering the quality of background images. By default, the original image quality is preserved. |
+| format | [Format](../../com.aspose.ocr.models/format/) | Document format enum type of Format. |
+| optimizePdf | [PdfOptimizationMode](../../com.aspose.ocr.models/pdfoptimizationmode/) | Reduce the PDF file size by lowering the quality of background images. By default, the original image quality is preserved. |
 
-### saveSpellCheckCorrectedText(String fullFileName, Format format) {#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.Format}
+### saveSpellCheckCorrectedText(String fullFileName, Format format) {#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.models.Format}
 ```
 public void saveSpellCheckCorrectedText(String fullFileName, Format format)
 ```
@@ -250,9 +258,9 @@ Saves the corrected with English dictionary text in the document in the plain te
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fullFileName | java.lang.String | Filename with a path for saving recognition result. |
-| format | [Format](../../com.aspose.ocr/format/) | Document format enum type of Format. |
+| format | [Format](../../com.aspose.ocr.models/format/) | Document format enum type of Format. |
 
-### saveSpellCheckCorrectedText(String fullFileName, Format format, SpellCheck.SpellCheckLanguage language) {#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.Format-com.aspose.ocr.SpellCheck.SpellCheckLanguage}
+### saveSpellCheckCorrectedText(String fullFileName, Format format, SpellCheck.SpellCheckLanguage language) {#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.models.Format-com.aspose.ocr.SpellCheck.SpellCheckLanguage}
 ```
 public void saveSpellCheckCorrectedText(String fullFileName, Format format, SpellCheck.SpellCheckLanguage language)
 ```
@@ -264,7 +272,7 @@ Saves the corrected text in the document in the plain text or other format.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fullFileName | java.lang.String | Filename with a path for saving recognition result. |
-| format | [Format](../../com.aspose.ocr/format/) | Document format enum type of Format. |
+| format | [Format](../../com.aspose.ocr.models/format/) | Document format enum type of Format. |
 | language | [SpellCheckLanguage](../../com.aspose.ocr.spellcheck/spellchecklanguage/) | Dictionary for spell check. |
 
 
@@ -280,4 +288,3 @@ Allows to use own dictionary for spell-check correction.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | dictionaryPath | java.lang.String | Full path to the user dictionary (frequency dictionary). Dictionary file format: Plain text file in UTF-8 encoding. Word and Word Frequency are separated by comma, the word is expected in the first column and the frequency in the second column. Every word-frequency-pair in a separate line.A line is defined as a sequence of characters followed by a line feed ("\\n"), a carriage return ("\\r"), or a carriage return immediately followed by a line feed("\\r\\n"). Every word is expected to be in lower case. |
-

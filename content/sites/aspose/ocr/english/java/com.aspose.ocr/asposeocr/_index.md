@@ -29,9 +29,10 @@ Main class for recognize text from images.
 | [CompareImageTexts(String fullPath1, String fullPath2, RecognitionSettings settings, boolean ignoreCase)](#CompareImageTexts-java.lang.String-java.lang.String-com.aspose.ocr.RecognitionSettings-boolean) | Check if two images contain the same text. |
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage) | Corrects text (replaces misspelled words). |
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language, String dictionaryPath)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-java.lang.String) | Corrects text (replaces misspelled words). |
-| [DetectDefects(OcrInput input, DefectType defectType)](#DetectDefects-com.aspose.ocr.OcrInput-com.aspose.ocr.DefectType) | Automatically find problematic areas of an image that can significantly impact the accuracy of OCR. |
+| [DetectDefects(OcrInput input, DefectType defectType)](#DetectDefects-com.aspose.ocr.OcrInput-com.aspose.ocr.models.DefectType) | Automatically find problematic areas of an image that can significantly impact the accuracy of OCR. |
+| [DetectDocumentLayout(OcrInput input)](#DetectDocumentLayout-com.aspose.ocr.OcrInput) | Analyzes the image and identifies the different types of content areas within it. |
 | [DetectLanguages(OcrInput input)](#DetectLanguages-com.aspose.ocr.OcrInput) | Analyzes the text on the image to determine the languages it is written in. |
-| [DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas)](#DetectRectangles-com.aspose.ocr.OcrInput-com.aspose.ocr.AreasType-boolean) | Detects text areas on images. |
+| [DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas)](#DetectRectangles-com.aspose.ocr.OcrInput-com.aspose.ocr.models.AreasType-boolean) | Detects text areas on images. |
 | [ImageHasText(String fullPath, String text)](#ImageHasText-java.lang.String-java.lang.String) | Check if the image contains the provided text fragment with a case-insensitive search. |
 | [ImageHasText(String fullPath, String text, RecognitionSettings settings)](#ImageHasText-java.lang.String-java.lang.String-com.aspose.ocr.RecognitionSettings) | Check if the image contains the provided text fragment with a case-insensitive search. |
 | [ImageHasText(String fullPath, String text, RecognitionSettings settings, boolean ignoreCase)](#ImageHasText-java.lang.String-java.lang.String-com.aspose.ocr.RecognitionSettings-boolean) | Check if the image contains the provided text fragment. |
@@ -44,20 +45,20 @@ Main class for recognize text from images.
 | [Recognize(OcrInput input, RecognitionSettings settings)](#Recognize-com.aspose.ocr.OcrInput-com.aspose.ocr.RecognitionSettings) | Recognizes image with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
 | [RecognizeCarPlate(OcrInput input, CarPlateRecognitionSettings settings)](#RecognizeCarPlate-com.aspose.ocr.OcrInput-com.aspose.ocr.CarPlateRecognitionSettings) | Recognizes car plate with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
 | [RecognizeCharacters(OcrInput input)](#RecognizeCharacters-com.aspose.ocr.OcrInput) | Detects symbols on images. |
-| [RecognizeCharacters(OcrInput input, DetectAreasMode detectAreasMode, Language language)](#RecognizeCharacters-com.aspose.ocr.OcrInput-com.aspose.ocr.DetectAreasMode-com.aspose.ocr.Language) | Detects symbols on images. |
+| [RecognizeCharacters(OcrInput input, DetectAreasMode detectAreasMode, Language language)](#RecognizeCharacters-com.aspose.ocr.OcrInput-com.aspose.ocr.models.DetectAreasMode-com.aspose.ocr.models.Language) | Detects symbols on images. |
 | [RecognizeFast(OcrInput input)](#RecognizeFast-com.aspose.ocr.OcrInput) | Recognizes text on good quality image. |
 | [RecognizeHandwrittenText(OcrInput input)](#RecognizeHandwrittenText-com.aspose.ocr.OcrInput) | Recognizes handwritten text on images. |
 | [RecognizeIDCard(OcrInput input, IDCardRecognitionSettings settings)](#RecognizeIDCard-com.aspose.ocr.OcrInput-com.aspose.ocr.IDCardRecognitionSettings) | Recognizes ID card with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
 | [RecognizeInvoice(OcrInput input, InvoiceRecognitionSettings settings)](#RecognizeInvoice-com.aspose.ocr.OcrInput-com.aspose.ocr.InvoiceRecognitionSettings) | Recognizes invoice with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
 | [RecognizePassport(OcrInput input, PassportRecognitionSettings settings)](#RecognizePassport-com.aspose.ocr.OcrInput-com.aspose.ocr.PassportRecognitionSettings) | Recognizes passport with the ability to specify. |
 | [RecognizeReceipt(OcrInput input, ReceiptRecognitionSettings settings)](#RecognizeReceipt-com.aspose.ocr.OcrInput-com.aspose.ocr.ReceiptRecognitionSettings) | Recognizes receipts with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
-| [SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results)](#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult) | Allows to get multipage document from list of RecognitionResult objects. |
-| [SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath)](#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String) | Allows to get multipage document from list of RecognitionResult objects. |
-| [SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath, PdfOptimizationMode optimizePdf)](#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String-com.aspose.ocr.PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects. |
-| [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult) | Allows to get multipage document from list of RecognitionResult objects. |
-| [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, SpellCheck.SpellCheckLanguage language)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--com.aspose.ocr.SpellCheck.SpellCheckLanguage) | Allows to get multipage document from list of RecognitionResult objects with spell-check correction. |
-| [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String) | Allows to get multipage document from list of RecognitionResult objects. |
-| [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath, PdfOptimizationMode optimizePdf)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String-com.aspose.ocr.PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects. |
+| [SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results)](#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult) | Allows to get multipage document from list of RecognitionResult objects. |
+| [SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath)](#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String) | Allows to get multipage document from list of RecognitionResult objects. |
+| [SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath, PdfOptimizationMode optimizePdf)](#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String-com.aspose.ocr.models.PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects. |
+| [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult) | Allows to get multipage document from list of RecognitionResult objects. |
+| [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, SpellCheck.SpellCheckLanguage language)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--com.aspose.ocr.SpellCheck.SpellCheckLanguage) | Allows to get multipage document from list of RecognitionResult objects with spell-check correction. |
+| [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String) | Allows to get multipage document from list of RecognitionResult objects. |
+| [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath, PdfOptimizationMode optimizePdf)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String-com.aspose.ocr.models.PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects. |
 ### AsposeOCR() {#AsposeOCR}
 ```
 public AsposeOCR()
@@ -80,7 +81,7 @@ Calculates the skew angles of an images. Supports GIF, PNG, JPEG, WBMP, TIFF, JF
 | input | [OcrInput](../../com.aspose.ocr/ocrinput/) | The container with sources.[OcrInput](../../com.aspose.ocr/ocrinput/) |
 
 **Returns:**
-java.util.ArrayList<com.aspose.ocr.SkewOutput> - ArrayList of skew angles in degrees [SkewOutput](../../com.aspose.ocr/skewoutput/)
+java.util.ArrayList<com.aspose.ocr.models.SkewOutput> - ArrayList of skew angles in degrees [SkewOutput](../../com.aspose.ocr.models/skewoutput/)
 ### CompareImageTexts(String fullPath1, String fullPath2) {#CompareImageTexts-java.lang.String-java.lang.String}
 ```
 public boolean CompareImageTexts(String fullPath1, String fullPath2)
@@ -165,7 +166,7 @@ Corrects text (replaces misspelled words).
 
 **Returns:**
 java.lang.String - Text with replaced words.
-### DetectDefects(OcrInput input, DefectType defectType) {#DetectDefects-com.aspose.ocr.OcrInput-com.aspose.ocr.DefectType}
+### DetectDefects(OcrInput input, DefectType defectType) {#DetectDefects-com.aspose.ocr.OcrInput-com.aspose.ocr.models.DefectType}
 ```
 public ArrayList<DefectOutput> DetectDefects(OcrInput input, DefectType defectType)
 ```
@@ -177,10 +178,25 @@ Automatically find problematic areas of an image that can significantly impact t
 | Parameter | Type | Description |
 | --- | --- | --- |
 | input | [OcrInput](../../com.aspose.ocr/ocrinput/) | The container with sources.[OcrInput](../../com.aspose.ocr/ocrinput/) |
-| defectType | [DefectType](../../com.aspose.ocr/defecttype/) | The types of defects to be recognized [DefectType](../../com.aspose.ocr/defecttype/). |
+| defectType | [DefectType](../../com.aspose.ocr.models/defecttype/) | The types of defects to be recognized [DefectType](../../com.aspose.ocr.models/defecttype/). |
 
 **Returns:**
 java.util.ArrayList<com.aspose.ocr.DefectOutput> - ArrayList of [DefectOutput](../../com.aspose.ocr/defectoutput/) with detected text areas or lines.
+### DetectDocumentLayout(OcrInput input) {#DetectDocumentLayout-com.aspose.ocr.OcrInput}
+```
+public ArrayList<LayoutOutput> DetectDocumentLayout(OcrInput input)
+```
+
+
+Analyzes the image and identifies the different types of content areas within it. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput/) | The container with sources.[OcrInput](../../com.aspose.ocr/ocrinput/) |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.models.LayoutOutput> - Detected content areas. ArrayList of [LayoutOutput](../../com.aspose.ocr.models/layoutoutput/)
 ### DetectLanguages(OcrInput input) {#DetectLanguages-com.aspose.ocr.OcrInput}
 ```
 public ArrayList<LanguageDetectionOutput> DetectLanguages(OcrInput input)
@@ -195,8 +211,8 @@ Analyzes the text on the image to determine the languages it is written in. This
 | input | [OcrInput](../../com.aspose.ocr/ocrinput/) | The container with sources.[OcrInput](../../com.aspose.ocr/ocrinput/) |
 
 **Returns:**
-java.util.ArrayList<com.aspose.ocr.LanguageDetectionOutput> - Returns a list of the most probable languages, ranked by likelihood. ArrayList of [LanguageDetectionOutput](../../com.aspose.ocr/languagedetectionoutput/)
-### DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas) {#DetectRectangles-com.aspose.ocr.OcrInput-com.aspose.ocr.AreasType-boolean}
+java.util.ArrayList<com.aspose.ocr.models.LanguageDetectionOutput> - Returns a list of the most probable languages, ranked by likelihood. ArrayList of [LanguageDetectionOutput](../../com.aspose.ocr.models/languagedetectionoutput/)
+### DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas) {#DetectRectangles-com.aspose.ocr.OcrInput-com.aspose.ocr.models.AreasType-boolean}
 ```
 public ArrayList<RectangleOutput> DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas)
 ```
@@ -208,7 +224,7 @@ Detects text areas on images. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, P
 | Parameter | Type | Description |
 | --- | --- | --- |
 | input | [OcrInput](../../com.aspose.ocr/ocrinput/) | The container with sources.[OcrInput](../../com.aspose.ocr/ocrinput/) |
-| areasType | [AreasType](../../com.aspose.ocr/areastype/) | Determinates wich rectangles to return - line or paragraphs. |
+| areasType | [AreasType](../../com.aspose.ocr.models/areastype/) | Determinates wich rectangles to return - line or paragraphs. |
 | isDetectAreas | boolean | Enable automatic text areas detection. |
 
 **Returns:**
@@ -409,8 +425,8 @@ Detects symbols on images. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF,
 | input | [OcrInput](../../com.aspose.ocr/ocrinput/) | The container with sources.[OcrInput](../../com.aspose.ocr/ocrinput/) |
 
 **Returns:**
-java.util.ArrayList<com.aspose.ocr.CharacterRecognitionResult> - ArrayList of [Character](../../com.aspose.ocr/character/) with detected symbols data for each image.
-### RecognizeCharacters(OcrInput input, DetectAreasMode detectAreasMode, Language language) {#RecognizeCharacters-com.aspose.ocr.OcrInput-com.aspose.ocr.DetectAreasMode-com.aspose.ocr.Language}
+java.util.ArrayList<com.aspose.ocr.models.CharacterRecognitionResult> - ArrayList of [Character](../../com.aspose.ocr.models/character/) with detected symbols data for each image.
+### RecognizeCharacters(OcrInput input, DetectAreasMode detectAreasMode, Language language) {#RecognizeCharacters-com.aspose.ocr.OcrInput-com.aspose.ocr.models.DetectAreasMode-com.aspose.ocr.models.Language}
 ```
 public ArrayList<CharacterRecognitionResult> RecognizeCharacters(OcrInput input, DetectAreasMode detectAreasMode, Language language)
 ```
@@ -422,11 +438,11 @@ Detects symbols on images. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | input | [OcrInput](../../com.aspose.ocr/ocrinput/) | The container with sources.[OcrInput](../../com.aspose.ocr/ocrinput/) |
-| detectAreasMode | [DetectAreasMode](../../com.aspose.ocr/detectareasmode/) | Determines the type of neural network used for areas detection. |
-| language | [Language](../../com.aspose.ocr/language/) | Language used for OCR. |
+| detectAreasMode | [DetectAreasMode](../../com.aspose.ocr.models/detectareasmode/) | Determines the type of neural network used for areas detection. |
+| language | [Language](../../com.aspose.ocr.models/language/) | Language used for OCR. |
 
 **Returns:**
-java.util.ArrayList<com.aspose.ocr.CharacterRecognitionResult> - ArrayList of [Character](../../com.aspose.ocr/character/) with detected symbols data.
+java.util.ArrayList<com.aspose.ocr.models.CharacterRecognitionResult> - ArrayList of [Character](../../com.aspose.ocr.models/character/) with detected symbols data.
 ### RecognizeFast(OcrInput input) {#RecognizeFast-com.aspose.ocr.OcrInput}
 ```
 public ArrayList<String> RecognizeFast(OcrInput input)
@@ -521,7 +537,7 @@ Recognizes receipts with the ability to specify Supports GIF, PNG, JPEG, WBMP, T
 
 **Returns:**
 [OcrOutput](../../com.aspose.ocr/ocroutput/) - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
-### SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results) {#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult}
+### SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results) {#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult}
 ```
 public static void SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results)
 ```
@@ -533,10 +549,10 @@ Allows to get multipage document from list of RecognitionResult objects.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | java.io.OutputStream | OutputStream for saving recognition result in the selected format. |
-| saveFormat | [Format](../../com.aspose.ocr/format/) | Document format (Docx, Txt, Pdf, PdfNoImg, Xlsx, Xml, Json, Rtf). |
+| saveFormat | [Format](../../com.aspose.ocr.models/format/) | Document format (Docx, Txt, Pdf, PdfNoImg, Xlsx, Xml, Json, Rtf). |
 | results | java.util.ArrayList<com.aspose.ocr.RecognitionResult> | List of [RecognitionResult](../../com.aspose.ocr/recognitionresult/). objects. |
 
-### SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath) {#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String}
+### SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath) {#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String}
 ```
 public static void SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath)
 ```
@@ -548,11 +564,11 @@ Allows to get multipage document from list of RecognitionResult objects.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | java.io.OutputStream | OutputStream for saving recognition result in the selected format. |
-| saveFormat | [Format](../../com.aspose.ocr/format/) | Document format (Docx, Txt, Pdf, PdfNoImg, Xlsx, Xml, Json, Rtf). |
+| saveFormat | [Format](../../com.aspose.ocr.models/format/) | Document format (Docx, Txt, Pdf, PdfNoImg, Xlsx, Xml, Json, Rtf). |
 | results | java.util.ArrayList<com.aspose.ocr.RecognitionResult> | List of [RecognitionResult](../../com.aspose.ocr/recognitionresult/). objects. |
 | embeddedFontPath | java.lang.String | Optionally. Full path to the user font. |
 
-### SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath, PdfOptimizationMode optimizePdf) {#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String-com.aspose.ocr.PdfOptimizationMode}
+### SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath, PdfOptimizationMode optimizePdf) {#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String-com.aspose.ocr.models.PdfOptimizationMode}
 ```
 public static void SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath, PdfOptimizationMode optimizePdf)
 ```
@@ -564,12 +580,12 @@ Allows to get multipage document from list of RecognitionResult objects.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | java.io.OutputStream | OutputStream for saving recognition result in the selected format. |
-| saveFormat | [Format](../../com.aspose.ocr/format/) | Document format (Docx, Txt, Pdf, PdfNoImg, Xlsx, Xml, Json, Rtf). |
+| saveFormat | [Format](../../com.aspose.ocr.models/format/) | Document format (Docx, Txt, Pdf, PdfNoImg, Xlsx, Xml, Json, Rtf). |
 | results | java.util.ArrayList<com.aspose.ocr.RecognitionResult> | List of [RecognitionResult](../../com.aspose.ocr/recognitionresult/). objects. |
 | embeddedFontPath | java.lang.String | Optionally. Full path to the user font. |
-| optimizePdf | [PdfOptimizationMode](../../com.aspose.ocr/pdfoptimizationmode/) | Reduce the PDF file size by lowering the quality of background images. By default, the original image quality is preserved. |
+| optimizePdf | [PdfOptimizationMode](../../com.aspose.ocr.models/pdfoptimizationmode/) | Reduce the PDF file size by lowering the quality of background images. By default, the original image quality is preserved. |
 
-### SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results) {#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult}
+### SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results) {#SaveMultipageDocument-java.lang.String-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult}
 ```
 public static void SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results)
 ```
@@ -581,10 +597,10 @@ Allows to get multipage document from list of RecognitionResult objects.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fullFileName | java.lang.String | Filename with a path for saving recognition result in the selected format. |
-| saveFormat | [Format](../../com.aspose.ocr/format/) | Document format (Docx, Txt, Pdf, Xlsx, Xml, Json). |
+| saveFormat | [Format](../../com.aspose.ocr.models/format/) | Document format (Docx, Txt, Pdf, Xlsx, Xml, Json). |
 | results | java.util.ArrayList<com.aspose.ocr.RecognitionResult> | List of [RecognitionResult](../../com.aspose.ocr/recognitionresult/). objects. |
 
-### SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, SpellCheck.SpellCheckLanguage language) {#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--com.aspose.ocr.SpellCheck.SpellCheckLanguage}
+### SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, SpellCheck.SpellCheckLanguage language) {#SaveMultipageDocument-java.lang.String-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--com.aspose.ocr.SpellCheck.SpellCheckLanguage}
 ```
 public static void SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, SpellCheck.SpellCheckLanguage language)
 ```
@@ -596,11 +612,11 @@ Allows to get multipage document from list of RecognitionResult objects with spe
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fullFileName | java.lang.String | Filename with a path for saving recognition result in the selected format. |
-| saveFormat | [Format](../../com.aspose.ocr/format/) | Document format (Docx, Txt, Pdf, Xlsx, Xml, Json). |
+| saveFormat | [Format](../../com.aspose.ocr.models/format/) | Document format (Docx, Txt, Pdf, Xlsx, Xml, Json). |
 | results | java.util.ArrayList<com.aspose.ocr.RecognitionResult> | List of [RecognitionResult](../../com.aspose.ocr/recognitionresult/). objects. |
 | language | [SpellCheckLanguage](../../com.aspose.ocr.spellcheck/spellchecklanguage/) | [SpellCheckLanguage](../../com.aspose.ocr.spellcheck/spellchecklanguage/) enum value. |
 
-### SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath) {#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String}
+### SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath) {#SaveMultipageDocument-java.lang.String-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String}
 ```
 public static void SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath)
 ```
@@ -612,11 +628,11 @@ Allows to get multipage document from list of RecognitionResult objects.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fullFileName | java.lang.String | Filename with a path for saving recognition result in the selected format. |
-| saveFormat | [Format](../../com.aspose.ocr/format/) | Document format (Docx, Txt, Pdf, Xlsx, Xml, Json). |
+| saveFormat | [Format](../../com.aspose.ocr.models/format/) | Document format (Docx, Txt, Pdf, Xlsx, Xml, Json). |
 | results | java.util.ArrayList<com.aspose.ocr.RecognitionResult> | List of [RecognitionResult](../../com.aspose.ocr/recognitionresult/). objects. |
 | embeddedFontPath | java.lang.String | Optionally. Full path to the user font. |
 
-### SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath, PdfOptimizationMode optimizePdf) {#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String-com.aspose.ocr.PdfOptimizationMode}
+### SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath, PdfOptimizationMode optimizePdf) {#SaveMultipageDocument-java.lang.String-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String-com.aspose.ocr.models.PdfOptimizationMode}
 ```
 public static void SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath, PdfOptimizationMode optimizePdf)
 ```
@@ -628,7 +644,7 @@ Allows to get multipage document from list of RecognitionResult objects.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fullFileName | java.lang.String | Filename with a path for saving recognition result in the selected format. |
-| saveFormat | [Format](../../com.aspose.ocr/format/) | Document format (Docx, Txt, Pdf, Xlsx, Xml, Json). |
+| saveFormat | [Format](../../com.aspose.ocr.models/format/) | Document format (Docx, Txt, Pdf, Xlsx, Xml, Json). |
 | results | java.util.ArrayList<com.aspose.ocr.RecognitionResult> | List of [RecognitionResult](../../com.aspose.ocr/recognitionresult/). objects. |
 | embeddedFontPath | java.lang.String | Optionally. Full path to the user font. |
-| optimizePdf | [PdfOptimizationMode](../../com.aspose.ocr/pdfoptimizationmode/) | Reduce the PDF file size by lowering the quality of background images. By default, the original image quality is preserved. |
+| optimizePdf | [PdfOptimizationMode](../../com.aspose.ocr.models/pdfoptimizationmode/) | Reduce the PDF file size by lowering the quality of background images. By default, the original image quality is preserved. |

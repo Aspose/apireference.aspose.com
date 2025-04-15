@@ -3,8 +3,8 @@ title: DefectAreas
 second_title: Aspose.OCR for Java API Reference
 description: Image areas containing a certain type of defect
 type: docs
-weight: 15
-url: /java/com.aspose.ocr/defectareas/
+weight: 13
+url: /java/com.aspose.ocr.models/defectareas/
 ---
 
 **Inheritance:**
@@ -25,7 +25,6 @@ Image areas containing a certain type of defect.
 | --- | --- |
 | [defectType](#defectType) | Defect type. |
 | [rectangles](#rectangles) | Image areas where defect was found |
-
 
 ### DefectAreas() {#DefectAreas}
 ```

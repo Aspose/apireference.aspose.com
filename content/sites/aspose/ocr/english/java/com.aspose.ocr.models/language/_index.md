@@ -3,8 +3,8 @@ title: Language
 second_title: Aspose.OCR for Java API Reference
 description: 
 type: docs
-weight: 42
-url: /java/com.aspose.ocr/language/
+weight: 25
+url: /java/com.aspose.ocr.models/language/
 ---
 
 **Inheritance:**
@@ -19,6 +19,7 @@ public enum Language extends Enum<Language>
 | [Afr](#Afr) | Afrikaans alphabet |
 | [Aln](#Aln) | Albanian alphabet |
 | [Ara](#Ara) | Arabic alphabet |
+| [Auto](#Auto) | Automatically detects the language in the input document or image. |
 | [Awa](#Awa) | Awadhi alphabet |
 | [Azb](#Azb) | Azerbaijani�(Azeri) alphabet |
 | [Bcl](#Bcl) | Bikol alphabet |
@@ -72,6 +73,7 @@ public enum Language extends Enum<Language>
 | [Ilo](#Ilo) | Ilocano alphabet |
 | [Ind](#Ind) | Indonesian alphabet |
 | [Indic](#Indic) | Universal recognition of Indic languages based on Devanagari script, including texts with mixed English characters |
+| [Islamic](#Islamic) | Universal Perso-Arabic alphabet |
 | [Ita](#Ita) | Italian alphabet |
 | [Jpn](#Jpn) | Japanese alphabet |
 | [Kan](#Kan) | Kannada alphabet |
@@ -103,6 +105,7 @@ public enum Language extends Enum<Language>
 | [Mtq](#Mtq) | Muong alphabet |
 | [Mtr](#Mtr) | Mewari alphabet |
 | [Mui](#Mui) | Musi alphabet |
+| [Multilanguage](#Multilanguage) | Automatically detects the language in the input document or image. |
 | [Mup](#Mup) | Malvi alphabet |
 | [Nan](#Nan) | Min Nan alphabet |
 | [Nbl](#Nbl) | Ndebele alphabet |
@@ -115,6 +118,7 @@ public enum Language extends Enum<Language>
 | [Pag](#Pag) | Pangasinan alphabet |
 | [Pam](#Pam) | Kapampangan alphabet |
 | [Pcc](#Pcc) | Bouyei�(Buyi, Gi?y) alphabet |
+| [PersoArabic](#PersoArabic) | Universal Perso-Arabic alphabet |
 | [Pes](#Pes) | Persian�(Farsi) alphabet |
 | [Plm](#Plm) | Palembang alphabet |
 | [Pol](#Pol) | Polish alphabet |
@@ -152,6 +156,7 @@ public enum Language extends Enum<Language>
 | [Uig](#Uig) | Uyghur alphabet |
 | [Ukr](#Ukr) | Ukrainian alphabet |
 | [Umb](#Umb) | Umbundu alphabet |
+| [Universal](#Universal) | Automatically detects the language in the input document or image. |
 | [Urd](#Urd) | Urdu alphabet |
 | [Vie](#Vie) | Vietnamese alphabet |
 | [Vmw](#Vmw) | Makua�(Makhuwa) alphabet |
@@ -189,6 +194,14 @@ public static final Language Ara
 
 
 Arabic alphabet
+
+### Auto {#Auto}
+```
+public static final Language Auto
+```
+
+
+Automatically detects the language in the input document or image. Supports multiple language families, including Latin, Cyrillic, Arabic, and more.
 
 ### Awa {#Awa}
 ```
@@ -614,6 +627,14 @@ public static final Language Indic
 
 Universal recognition of Indic languages based on Devanagari script, including texts with mixed English characters
 
+### Islamic {#Islamic}
+```
+public static final Language Islamic
+```
+
+
+Universal Perso-Arabic alphabet
+
 ### Ita {#Ita}
 ```
 public static final Language Ita
@@ -862,6 +883,14 @@ public static final Language Mui
 
 Musi alphabet
 
+### Multilanguage {#Multilanguage}
+```
+public static final Language Multilanguage
+```
+
+
+Automatically detects the language in the input document or image. Supports multiple language families, including Latin, Cyrillic, Arabic, and more.
+
 ### Mup {#Mup}
 ```
 public static final Language Mup
@@ -957,6 +986,14 @@ public static final Language Pcc
 
 
 Bouyei�(Buyi, Gi?y) alphabet
+
+### PersoArabic {#PersoArabic}
+```
+public static final Language PersoArabic
+```
+
+
+Universal Perso-Arabic alphabet
 
 ### Pes {#Pes}
 ```
@@ -1254,6 +1291,14 @@ public static final Language Umb
 
 Umbundu alphabet
 
+### Universal {#Universal}
+```
+public static final Language Universal
+```
+
+
+Automatically detects the language in the input document or image. Supports multiple language families, including Latin, Cyrillic, Arabic, and more.
+
 ### Urd {#Urd}
 ```
 public static final Language Urd
@@ -1357,3 +1402,4 @@ public static final Language Zul
 
 
 Zulu alphabet
+

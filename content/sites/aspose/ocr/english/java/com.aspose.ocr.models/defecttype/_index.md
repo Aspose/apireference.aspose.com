@@ -3,8 +3,8 @@ title: DefectType
 second_title: Aspose.OCR for Java API Reference
 description: The types of image defects
 type: docs
-weight: 35
-url: /java/com.aspose.ocr/defecttype/
+weight: 22
+url: /java/com.aspose.ocr.models/defecttype/
 ---
 
 **Inheritance:**
@@ -23,7 +23,6 @@ The types of image defects.
 | [GLARE](#GLARE) | Areas in an image caused by uneven lighting, such as spot lights or flash. |
 | [LOW_CONTRAST](#LOW-CONTRAST) | Highlights and shadows typically appearing on curved pages. |
 | [SALT_PEPPER_NOISE](#SALT-PEPPER-NOISE) | Random white and black pixels scattered across the area. |
-
 
 ### ALL {#ALL}
 ```
@@ -65,5 +64,3 @@ public static final DefectType SALT_PEPPER_NOISE
 
 Random white and black pixels scattered across the area. Often occurs in digital photographs.
 
-**Returns:**
-[DefectType](../../com.aspose.ocr/defecttype)
