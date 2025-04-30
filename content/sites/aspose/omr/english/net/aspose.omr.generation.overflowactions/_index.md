@@ -13,7 +13,7 @@ The **Aspose.OMR.Generation.OverflowActions** contains behaviours of generated c
 | Class | Description |
 | --- | --- |
 | [Clip](./clip) | Overflowing part will be truncated. By default parent element will take as much space as possible on the page. If that size is not enough - child element will be truncated. |
-| [NoClip](./noclip) | No attemp to control Overflow will be taken. |
+| [NoClip](./noclip) | No attempt to control Overflow will be taken. |
 | [OverflowAction](./overflowaction) | Action to control child element overflowing size of parent element. Pending on realization can produce different results. |
 | [Wrap](./wrap) | Parent element will try to find a place for overflowing child in another parents |
 

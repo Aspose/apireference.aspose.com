@@ -1,14 +1,14 @@
 ---
 title: Overflow
 second_title: Aspose.OMR for .NET API Reference
-description: Describes behaviour in case any of child elements overflow Block size. Overwrites global preset at Overflowaspose.omr.generation/globalpagesettings/overflow
+description: Describes behavior in case any of child elements overflow Block size. Overwrites global preset at Overflowaspose.omr.generation/globalpagesettings/overflow
 type: docs
 weight: 160
 url: /net/aspose.omr.generation.config.elements.parents/blockconfig/overflow/
 ---
 ## BlockConfig.Overflow property
 
-Describes behaviour in case any of child elements overflow Block size. Overwrites global preset at [`Overflow`](../../../aspose.omr.generation/globalpagesettings/overflow)
+Describes behavior in case any of child elements overflow Block size. Overwrites global preset at [`Overflow`](../../../aspose.omr.generation/globalpagesettings/overflow)
 
 ```csharp
 public OverflowAction Overflow { get; set; }
