@@ -1,14 +1,14 @@
 ---
 title: Threshold
 second_title: Aspose.OMR for .NET API Reference
-description: Percent of pixels after which bubbles considered marked
+description: Percent of pixels after which bubbles considered marked. If present override global threshold provided during recognition
 type: docs
 weight: 40
 url: /net/aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/threshold/
 ---
 ## VerticalChoiceBoxConfig.Threshold property
 
-Percent of pixels after which bubbles considered marked
+Percent of pixels after which bubbles considered marked. If present, override global threshold provided during recognition
 
 ```csharp
 public int Threshold { get; set; }

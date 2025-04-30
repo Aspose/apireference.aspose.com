@@ -1,14 +1,14 @@
 ---
 title: RecognitionValues
 second_title: Aspose.OMR for .NET API Reference
-description: Each entry overrides value in the recoginition result for correlating AnswersValuesaspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/answersvalues without affecting displayed value. if no value is set - recognition result will be filled with displayed values from the AnswersValuesaspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/answersvalues Example new List4 A B C D Example new List4 Dog Cat Turtle Dragon
+description: Each entry overrides value in the recognition result for correlating AnswersValuesaspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/answersvalues without affecting displayed value. if no value is set - recognition result will be filled with displayed values from the AnswersValuesaspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/answersvalues Example new List4 A B C D Example new List4 Dog Cat Turtle Dragon
 type: docs
-weight: 90
+weight: 110
 url: /net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/recognitionvalues/
 ---
 ## BubbleArrayConfig.RecognitionValues property
 
-Each entry overrides value in the recoginition result for correlating [`AnswersValues`](../answersvalues) without affecting displayed value. if no value is set - recognition result will be filled with displayed values from the [`AnswersValues`](../answersvalues) Example: new List(4) {"A", "B", "C", "D"} Example: new List(4) {"Dog", "Cat", "Turtle", "Dragon"}
+Each entry overrides value in the recognition result for correlating [`AnswersValues`](../answersvalues) without affecting displayed value. if no value is set - recognition result will be filled with displayed values from the [`AnswersValues`](../answersvalues) Example: new List(4) {"A", "B", "C", "D"} Example: new List(4) {"Dog", "Cat", "Turtle", "Dragon"}
 
 ```csharp
 public List<string> RecognitionValues { get; set; }

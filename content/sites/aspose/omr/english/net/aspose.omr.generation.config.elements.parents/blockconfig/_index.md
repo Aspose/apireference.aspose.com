@@ -38,7 +38,7 @@ public class BlockConfig : ParentConfig
 | [HorizontalPadding](../../aspose.omr.generation.config.elements.parents/blockconfig/horizontalpadding) { get; set; } | Size between border and content of this block set in pixels |
 | [IsClipped](../../aspose.omr.generation.config.elements.parents/blockconfig/isclipped) { get; set; } | If true block, and all it's content will be clipped as picture upon recognition |
 | override [Name](../../aspose.omr.generation.config.elements.parents/blockconfig/name) { get; set; } | Name of Block element |
-| [Overflow](../../aspose.omr.generation.config.elements.parents/blockconfig/overflow) { get; set; } | Describes behaviour in case any of child elements overflow Block size. Overwrites global preset at [`Overflow`](../../aspose.omr.generation/globalpagesettings/overflow) |
+| [Overflow](../../aspose.omr.generation.config.elements.parents/blockconfig/overflow) { get; set; } | Describes behavior in case any of child elements overflow Block size. Overwrites global preset at [`Overflow`](../../aspose.omr.generation/globalpagesettings/overflow) |
 | override [Type](../../aspose.omr.generation.config.elements.parents/blockconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 | [VerticalPadding](../../aspose.omr.generation.config.elements.parents/blockconfig/verticalpadding) { get; set; } | Size between border and content of this block set in pixels |
 

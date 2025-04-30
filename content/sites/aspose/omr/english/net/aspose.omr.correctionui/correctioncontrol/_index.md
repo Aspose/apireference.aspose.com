@@ -1,12 +1,16 @@
 ---
 title: CorrectionControl
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The User Control that allows recognizing images and correct and calibrate recognition parameters
 type: docs
 weight: 900
 url: /net/aspose.omr.correctionui/correctioncontrol/
 ---
 ## CorrectionControl class
+
+The User Control that allows recognizing images and correct and calibrate recognition parameters
+
+CorrectionControl
 
 ```csharp
 public class CorrectionControl : UserControl, IComponentConnector
@@ -16,11 +20,11 @@ public class CorrectionControl : UserControl, IComponentConnector
 
 | Name | Description |
 | --- | --- |
-| [ExportResults](../../aspose.omr.correctionui/correctioncontrol/exportresults)(string) |  |
-| [Initialize](../../aspose.omr.correctionui/correctioncontrol/initialize)() |  |
-| [InitializeComponent](../../aspose.omr.correctionui/correctioncontrol/initializecomponent)() |  |
-| [LoadAndDisplayImage](../../aspose.omr.correctionui/correctioncontrol/loadanddisplayimage)(string) |  |
-| [RecognizeImage](../../aspose.omr.correctionui/correctioncontrol/recognizeimage)() |  |
+| [ExportResults](../../aspose.omr.correctionui/correctioncontrol/exportresults)(string) | Export the recognition results for the image |
+| [Initialize](../../aspose.omr.correctionui/correctioncontrol/initialize)() | Initialize the control |
+| [InitializeComponent](../../aspose.omr.correctionui/correctioncontrol/initializecomponent)() | InitializeComponent |
+| [LoadAndDisplayImage](../../aspose.omr.correctionui/correctioncontrol/loadanddisplayimage)(string) | Load and display the image for the recognition |
+| [RecognizeImage](../../aspose.omr.correctionui/correctioncontrol/recognizeimage)() | Recognize image |
 
 ### See Also
 

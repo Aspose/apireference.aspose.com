@@ -15,7 +15,7 @@ is_root: true
 | [Aspose.OMR.Api](./aspose.omr.api) | The **Aspose.OMR.Api** contains main OMR methods for template generation and images recognition. |
 | [Aspose.OMR.Api.Plugins](./aspose.omr.api.plugins) |  |
 | [Aspose.OMR.BatchProcessings](./aspose.omr.batchprocessings) |  |
-| [Aspose.OMR.CorrectionUI](./aspose.omr.correctionui) |  |
+| [Aspose.OMR.CorrectionUI](./aspose.omr.correctionui) | The **Aspose.OMR.CorrectionUI** contains GUI that can be used in WPF-compatible systems |
 | [Aspose.OMR.Exceptions](./aspose.omr.exceptions) |  |
 | [Aspose.OMR.Generation](./aspose.omr.generation) | The **Aspose.OMR.Generation** contains template generation result. |
 | [Aspose.OMR.Generation.Config](./aspose.omr.generation.config) | The **Aspose.OMR.Generation.Config** contains all classes required to generate forms programmatically see more at https://docs.aspose.com/omr/net/programmatic-forms/ |

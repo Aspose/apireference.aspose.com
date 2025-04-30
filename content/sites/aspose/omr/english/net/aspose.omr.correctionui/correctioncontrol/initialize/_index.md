@@ -1,12 +1,14 @@
 ---
 title: Initialize
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Initialize the control
 type: docs
 weight: 20
 url: /net/aspose.omr.correctionui/correctioncontrol/initialize/
 ---
 ## CorrectionControl.Initialize method
+
+Initialize the control
 
 ```csharp
 public void Initialize()
