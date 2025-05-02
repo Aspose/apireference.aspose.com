@@ -3,7 +3,7 @@ title: Interface IFontCharactersMerger
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfHelpers.IFontCharactersMerger interface. Declares helpers functionality to merge TrueType fonts. Font which is passed by parameter font1 considered as primary. It means that many characteristics related to final merged font such as metrics encoding structure and others will be taken from this primary font
 type: docs
-weight: 960
+weight: 970
 url: /net/aspose.font.ttfhelpers/ifontcharactersmerger/
 ---
 ## IFontCharactersMerger interface

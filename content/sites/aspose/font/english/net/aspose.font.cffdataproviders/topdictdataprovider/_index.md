@@ -3,7 +3,7 @@ title: Class TopDictDataProvider
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.CffDataProviders.TopDictDataProvider class. Declares functionality to read/update CFF Top DICT structure
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/
 ---
 ## TopDictDataProvider class
@@ -34,6 +34,7 @@ public abstract class TopDictDataProvider
 | [Notice](../../aspose.font.cffdataproviders/topdictdataprovider/notice/) { get; set; } | Gets/sets Notice. |
 | [PaintType](../../aspose.font.cffdataproviders/topdictdataprovider/painttype/) { get; set; } | Gets/sets PaintType. |
 | [PostScript](../../aspose.font.cffdataproviders/topdictdataprovider/postscript/) { get; set; } | Gets/sets PostScript. |
+| [PrivateDictProvider](../../aspose.font.cffdataproviders/topdictdataprovider/privatedictprovider/) { get; } | Gets provider for the Private DICT or NULL if no Private dictionary exists for the current top-level dictionary. |
 | [StrokeWidth](../../aspose.font.cffdataproviders/topdictdataprovider/strokewidth/) { get; set; } | Gets/sets StrokeWidth. |
 | [SyntheticBase](../../aspose.font.cffdataproviders/topdictdataprovider/syntheticbase/) { get; set; } | Gets/sets SyntheticBase. |
 | [UidBase](../../aspose.font.cffdataproviders/topdictdataprovider/uidbase/) { get; set; } | Gets/sets UIDBase. |

@@ -3,7 +3,7 @@ title: TopDictDataProvider.SetWeight
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider method. Sets string value for the Weight field and returns SID associated with the newly set string value
 type: docs
-weight: 440
+weight: 450
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/setweight/
 ---
 ## TopDictDataProvider.SetWeight method

@@ -3,7 +3,7 @@ title: Class TtfStatTable.AxisValueTableBase
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfStatTableAxisValueTableBase class. Base class for Axis Value Table structure. Spec Axis Value Tables provide details regarding a specific styleattribute value on some specific axis of design variation or a combination of designvariation axis values and the relationship of those values to labels used as elements in subfamily names
 type: docs
-weight: 1300
+weight: 1310
 url: /net/aspose.font.ttftables/ttfstattable.axisvaluetablebase/
 ---
 ## TtfStatTable.AxisValueTableBase class

@@ -3,7 +3,7 @@ title: Class License
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.License class. Provides methods to license the component
 type: docs
-weight: 500
+weight: 510
 url: /net/aspose.font/license/
 ---
 ## License class

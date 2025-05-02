@@ -3,7 +3,7 @@ title: TopDictDataProvider.SetCopyright
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider method. Sets string value for the Copyright field and returns SID associated with the newly set string value
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/setcopyright/
 ---
 ## TopDictDataProvider.SetCopyright method

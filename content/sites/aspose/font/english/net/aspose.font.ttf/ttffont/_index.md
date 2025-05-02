@@ -3,7 +3,7 @@ title: Class TtfFont
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Ttf.TtfFont class. Represents TrueType Font TTF
 type: docs
-weight: 840
+weight: 850
 url: /net/aspose.font.ttf/ttffont/
 ---
 ## TtfFont class

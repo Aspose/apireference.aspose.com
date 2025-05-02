@@ -3,7 +3,7 @@ title: TopDictDataProvider.SetWeightSid
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider method. Updates SIDstring identifier value for the Weight field in CFF Top DICT data
 type: docs
-weight: 450
+weight: 460
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/setweightsid/
 ---
 ## TopDictDataProvider.SetWeightSid method

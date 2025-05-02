@@ -3,7 +3,7 @@ title: Class FontMetrics
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.FontMetrics class. Represents Font metrics
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.font/fontmetrics/
 ---
 ## FontMetrics class

@@ -3,7 +3,7 @@ title: Class TtfStatTable
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfStatTable class. Represents Style Attributes TableSTAT of the OpenType font
 type: docs
-weight: 1270
+weight: 1280
 url: /net/aspose.font.ttftables/ttfstattable/
 ---
 ## TtfStatTable class

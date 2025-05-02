@@ -3,7 +3,7 @@ title: TopDictDataProvider.UniqueId
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider property. Gets/sets UniqueID
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/uniqueid/
 ---
 ## TopDictDataProvider.UniqueId property

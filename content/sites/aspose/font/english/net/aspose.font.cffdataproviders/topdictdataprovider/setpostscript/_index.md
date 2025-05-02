@@ -3,7 +3,7 @@ title: TopDictDataProvider.SetPostScript
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider method. Sets string value for the PostScript field and returns SID associated with the newly set string value
 type: docs
-weight: 390
+weight: 400
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/setpostscript/
 ---
 ## TopDictDataProvider.SetPostScript method

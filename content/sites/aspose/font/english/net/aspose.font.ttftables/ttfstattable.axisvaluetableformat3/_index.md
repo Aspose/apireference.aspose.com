@@ -3,7 +3,7 @@ title: Class TtfStatTable.AxisValueTableFormat3
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfStatTableAxisValueTableFormat3 class. Represents Axis value table format 3
 type: docs
-weight: 1340
+weight: 1350
 url: /net/aspose.font.ttftables/ttfstattable.axisvaluetableformat3/
 ---
 ## TtfStatTable.AxisValueTableFormat3 class

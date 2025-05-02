@@ -3,7 +3,7 @@ title: TopDictDataProvider.UidBase
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider property. Gets/sets UIDBase
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/uidbase/
 ---
 ## TopDictDataProvider.UidBase property
