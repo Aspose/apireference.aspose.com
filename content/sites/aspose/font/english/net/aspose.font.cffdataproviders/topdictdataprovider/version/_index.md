@@ -3,7 +3,7 @@ title: TopDictDataProvider.Version
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider property. Gets/sets version
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/version/
 ---
 ## TopDictDataProvider.Version property

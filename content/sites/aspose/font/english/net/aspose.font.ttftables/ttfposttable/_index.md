@@ -3,7 +3,7 @@ title: Class TtfPostTable
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfPostTable class. Represents post table of the TTF Font file
 type: docs
-weight: 1250
+weight: 1260
 url: /net/aspose.font.ttftables/ttfposttable/
 ---
 ## TtfPostTable class

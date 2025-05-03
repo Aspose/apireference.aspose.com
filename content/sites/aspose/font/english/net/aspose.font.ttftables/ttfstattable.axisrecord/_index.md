@@ -3,7 +3,7 @@ title: Class TtfStatTable.AxisRecord
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfStatTableAxisRecord class. Represents Axis Record structure. Spec the axis record provides information about a single design axis
 type: docs
-weight: 1280
+weight: 1290
 url: /net/aspose.font.ttftables/ttfstattable.axisrecord/
 ---
 ## TtfStatTable.AxisRecord class

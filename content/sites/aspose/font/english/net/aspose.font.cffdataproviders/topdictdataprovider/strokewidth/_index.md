@@ -3,7 +3,7 @@ title: TopDictDataProvider.StrokeWidth
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider property. Gets/sets StrokeWidth
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/strokewidth/
 ---
 ## TopDictDataProvider.StrokeWidth property

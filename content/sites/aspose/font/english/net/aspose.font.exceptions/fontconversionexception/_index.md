@@ -3,7 +3,7 @@ title: Class FontConversionException
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Exceptions.FontConversionException class. Represents Font conversion exception. The exception can be thrown in case of errors during font conversion process
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.font.exceptions/fontconversionexception/
 ---
 ## FontConversionException class

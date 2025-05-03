@@ -3,7 +3,7 @@ title: Class StringIndexDataProvider
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.CffDataProviders.StringIndexDataProvider class. Declares functionality to access CFF String INDEX structure
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.font.cffdataproviders/stringindexdataprovider/
 ---
 ## StringIndexDataProvider class

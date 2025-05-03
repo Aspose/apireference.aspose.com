@@ -3,7 +3,7 @@ title: TopDictDataProvider.SetPostScriptSid
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider method. Updates SIDstring identifier value for the PostScript field in CFF Top DICT data
 type: docs
-weight: 400
+weight: 410
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/setpostscriptsid/
 ---
 ## TopDictDataProvider.SetPostScriptSid method

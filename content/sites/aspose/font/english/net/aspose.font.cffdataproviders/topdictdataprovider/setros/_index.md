@@ -3,7 +3,7 @@ title: TopDictDataProvider.SetRos
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider method. Sets values for the ROSRegistry Ordering Supplement fieldoperator
 type: docs
-weight: 410
+weight: 420
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/setros/
 ---
 ## SetRos(string, string, int) {#setros_1}

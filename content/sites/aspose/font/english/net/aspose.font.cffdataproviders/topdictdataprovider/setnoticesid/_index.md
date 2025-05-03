@@ -3,7 +3,7 @@ title: TopDictDataProvider.SetNoticeSid
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider method. Updates SIDstring identifier value for Notice fieldoperator in CFF Top DICT data
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/setnoticesid/
 ---
 ## TopDictDataProvider.SetNoticeSid method

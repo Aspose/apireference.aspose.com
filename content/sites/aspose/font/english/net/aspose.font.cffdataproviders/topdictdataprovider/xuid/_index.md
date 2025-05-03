@@ -3,7 +3,7 @@ title: TopDictDataProvider.Xuid
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider property. Gets/sets XUID
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/xuid/
 ---
 ## TopDictDataProvider.Xuid property

@@ -3,7 +3,7 @@ title: TopDictDataProvider.SyntheticBase
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider property. Gets/sets SyntheticBase
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/syntheticbase/
 ---
 ## TopDictDataProvider.SyntheticBase property

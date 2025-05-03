@@ -3,7 +3,7 @@ title: Class NameToCodeMap
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.NameToCodeMap class. Represents name to code map
 type: docs
-weight: 530
+weight: 540
 url: /net/aspose.font/nametocodemap/
 ---
 ## NameToCodeMap class

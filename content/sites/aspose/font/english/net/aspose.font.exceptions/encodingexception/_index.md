@@ -3,7 +3,7 @@ title: Class EncodingException
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Exceptions.EncodingException class. Represents encoding exception. The exception can be thrown in case problem with encoding/decoding text
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.font.exceptions/encodingexception/
 ---
 ## EncodingException class

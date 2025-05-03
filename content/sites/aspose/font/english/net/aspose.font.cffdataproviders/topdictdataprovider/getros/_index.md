@@ -3,7 +3,7 @@ title: TopDictDataProvider.GetRos
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider method. Gets values of the ROSRegistry Ordering Supplement fieldoperator
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/getros/
 ---
 ## GetRos(out string, out string, out int) {#getros_1}

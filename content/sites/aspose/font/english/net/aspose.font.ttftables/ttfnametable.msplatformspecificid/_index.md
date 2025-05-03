@@ -3,7 +3,7 @@ title: Enum TtfNameTable.MSPlatformSpecificId
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfNameTableMSPlatformSpecificId enum. Represents Microsoft platform PlatformSpecificId enumeration
 type: docs
-weight: 1170
+weight: 1180
 url: /net/aspose.font.ttftables/ttfnametable.msplatformspecificid/
 ---
 ## TtfNameTable.MSPlatformSpecificId enumeration

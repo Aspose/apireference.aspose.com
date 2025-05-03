@@ -3,7 +3,7 @@ title: Class FontFileDefinition
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Sources.FontFileDefinition class. Represents Font file definition
 type: docs
-weight: 710
+weight: 720
 url: /net/aspose.font.sources/fontfiledefinition/
 ---
 ## FontFileDefinition class

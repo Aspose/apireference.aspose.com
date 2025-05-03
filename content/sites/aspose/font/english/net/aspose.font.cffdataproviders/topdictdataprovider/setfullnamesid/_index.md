@@ -3,7 +3,7 @@ title: TopDictDataProvider.SetFullNameSid
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider method. Updates SIDstring identifier value for the FullName field in CFF Top DICT data
 type: docs
-weight: 360
+weight: 370
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/setfullnamesid/
 ---
 ## TopDictDataProvider.SetFullNameSid method

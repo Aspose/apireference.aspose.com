@@ -3,7 +3,7 @@ title: TopDictDataProvider.SetFamilyName
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider method. Sets string value for the FamilyName field and returns SID associated with the newly set string value
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/setfamilyname/
 ---
 ## TopDictDataProvider.SetFamilyName method

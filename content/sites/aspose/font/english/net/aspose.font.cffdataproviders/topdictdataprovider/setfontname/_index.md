@@ -3,7 +3,7 @@ title: TopDictDataProvider.SetFontName
 second_title: Aspose.Font for .NET API Reference
 description: TopDictDataProvider method. Sets string value for the FontName field and returns SID associated with the newly set string value
 type: docs
-weight: 330
+weight: 340
 url: /net/aspose.font.cffdataproviders/topdictdataprovider/setfontname/
 ---
 ## TopDictDataProvider.SetFontName method

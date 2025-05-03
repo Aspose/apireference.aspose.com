@@ -3,7 +3,7 @@ title: Class FontDefinition
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Sources.FontDefinition class. Represents Font file set definition. This class contains fields which are not related to font internal data. These fields describe font placement and another data needed to load font from some font sourcefile memory etc
 type: docs
-weight: 700
+weight: 710
 url: /net/aspose.font.sources/fontdefinition/
 ---
 ## FontDefinition class
