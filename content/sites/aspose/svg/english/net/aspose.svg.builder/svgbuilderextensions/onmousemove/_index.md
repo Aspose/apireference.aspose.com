@@ -6,7 +6,7 @@ type: docs
 weight: 1590
 url: /net/aspose.svg.builder/svgbuilderextensions/onmousemove/
 ---
-## SVGBuilderExtensions.OnMouseMove&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnMouseMove<TBuilder> method
 
 Sets the 'onmousemove' event attribute for handling mouse move events on the element.
 

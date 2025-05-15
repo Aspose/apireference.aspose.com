@@ -6,7 +6,7 @@ type: docs
 weight: 1400
 url: /net/aspose.svg.builder/svgbuilderextensions/onemptied/
 ---
-## SVGBuilderExtensions.OnEmptied&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnEmptied<TBuilder> method
 
 Sets the 'onemptied' event attribute for handling the emptying of the media element's source.
 

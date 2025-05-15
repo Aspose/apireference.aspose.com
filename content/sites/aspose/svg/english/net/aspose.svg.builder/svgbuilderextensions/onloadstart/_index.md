@@ -6,7 +6,7 @@ type: docs
 weight: 1550
 url: /net/aspose.svg.builder/svgbuilderextensions/onloadstart/
 ---
-## SVGBuilderExtensions.OnLoadStart&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnLoadStart<TBuilder> method
 
 Sets the 'onloadstart' event attribute for handling events at the start of a media load operation.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 590
 url: /net/aspose.svg.builder/svgbuilderextensions/attributename/
 ---
-## SVGBuilderExtensions.AttributeName&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AttributeName<TBuilder> method
 
 Sets the 'attributeName' attribute, specifying the name of the CSS property or attribute to be animated.
 

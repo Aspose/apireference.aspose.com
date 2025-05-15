@@ -32,9 +32,9 @@ public class SVGClipPathElementBuilder : SVGElementBuilder<SVGClipPathElement>,
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgclippathelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script element to the clipPath element. |
-| [AddText](../../aspose.svg.builder/svgclippathelementbuilder/addtext/)(*Action&amp;lt;SVGTextElementBuilder&amp;gt;*) | Adds a text element to the clipPath element. |
-| [AddUse](../../aspose.svg.builder/svgclippathelementbuilder/adduse/)(*Action&amp;lt;SVGUseElementBuilder&amp;gt;*) | Adds a 'use' element to the clipPath element. |
+| [AddScript](../../aspose.svg.builder/svgclippathelementbuilder/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script element to the clipPath element. |
+| [AddText](../../aspose.svg.builder/svgclippathelementbuilder/addtext/)(*Action&lt;SVGTextElementBuilder&gt;*) | Adds a text element to the clipPath element. |
+| [AddUse](../../aspose.svg.builder/svgclippathelementbuilder/adduse/)(*Action&lt;SVGUseElementBuilder&gt;*) | Adds a 'use' element to the clipPath element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGClipPathElement](../../aspose.svg/svgclippathelement/)*) |  |

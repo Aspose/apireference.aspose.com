@@ -26,7 +26,7 @@ public ErrorEvent(Exception exception)
 
 ---
 
-## ErrorEvent(*IDictionary&amp;lt;string, object&amp;gt;*) {#constructor}
+## ErrorEvent(*IDictionary&lt;string, object&gt;*) {#constructor}
 
 Initializes a new instance of the [`ErrorEvent`](../) class.
 

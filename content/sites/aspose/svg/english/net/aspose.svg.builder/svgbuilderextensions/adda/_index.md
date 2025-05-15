@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgbuilderextensions/adda/
 ---
-## SVGBuilderExtensions.AddA&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddA<TBuilder> method
 
 Adds an 'a' (hyperlink) element configuration to the builder.
 

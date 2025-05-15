@@ -3,7 +3,7 @@ title: WebImageFormat Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.WebImageFormat enum. Specifies the supported image formats
 type: docs
-weight: 3830
+weight: 3700
 url: /net/aspose.svg.drawing/webimageformat/
 ---
 ## WebImageFormat enumeration

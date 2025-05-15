@@ -3,7 +3,7 @@ title: SVGCursorElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGCursorElement class. The SVGCursorElement interface corresponds to the cursor element
 type: docs
-weight: 5520
+weight: 5240
 url: /net/aspose.svg/svgcursorelement/
 ---
 ## SVGCursorElement class

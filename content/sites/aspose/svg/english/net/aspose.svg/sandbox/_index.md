@@ -3,7 +3,7 @@ title: Sandbox Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Sandbox enum. A sandboxing flag set is a set of zero or more of the following flags which are used to restrict the abilities that potentially untrusted resources
 type: docs
-weight: 5970
+weight: 5690
 url: /net/aspose.svg/sandbox/
 ---
 ## Sandbox enumeration

@@ -3,7 +3,7 @@ title: IMatrix.Translate
 second_title: Aspose.SVG for .NET API Reference
 description: IMatrix Translate method. Translates the matrix by the specified offset values in the specified order
 type: docs
-weight: 220
+weight: 210
 url: /net/aspose.svg.drawing/imatrix/translate/
 ---
 ## Translate(*float, float, [WebMatrixOrder](../../webmatrixorder/)*) {#translate_1}

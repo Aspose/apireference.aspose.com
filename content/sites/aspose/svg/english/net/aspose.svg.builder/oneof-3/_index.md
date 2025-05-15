@@ -6,7 +6,7 @@ type: docs
 weight: 940
 url: /net/aspose.svg.builder/oneof-3/
 ---
-## OneOf&lt;T1,T2,T3&gt; class
+## OneOf<T1,T2,T3> class
 
 Represents a value that can be one of three distinct types, T1, T2, or T3.
 
@@ -32,7 +32,7 @@ public class OneOf<T1, T2, T3>
 
 | Name | Description |
 | --- | --- |
-| [Match&lt;TResult&gt;](../../aspose.svg.builder/oneof-3/match/)(*Func&amp;lt;T1, TResult&amp;gt;, Func&amp;lt;T2, TResult&amp;gt;, Func&amp;lt;T3, TResult&amp;gt;*) | Executes one of the provided functions based on the underlying type of the value. |
+| [Match<TResult>](../../aspose.svg.builder/oneof-3/match/)(*Func&lt;T1, TResult&gt;, Func&lt;T2, TResult&gt;, Func&lt;T3, TResult&gt;*) | Executes one of the provided functions based on the underlying type of the value. |
 | [implicit operator](../../aspose.svg.builder/oneof-3/op_implicit/#op_implicit) |  (3 operators) |
 
 ### See Also

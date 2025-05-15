@@ -6,7 +6,7 @@ type: docs
 weight: 1250
 url: /net/aspose.svg.builder/svgbuilderextensions/onclick/
 ---
-## SVGBuilderExtensions.OnClick&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnClick<TBuilder> method
 
 Sets the 'onclick' event attribute for handling click events on the element.
 

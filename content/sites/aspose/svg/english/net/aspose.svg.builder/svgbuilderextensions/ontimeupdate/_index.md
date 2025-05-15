@@ -6,7 +6,7 @@ type: docs
 weight: 1810
 url: /net/aspose.svg.builder/svgbuilderextensions/ontimeupdate/
 ---
-## SVGBuilderExtensions.OnTimeUpdate&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnTimeUpdate<TBuilder> method
 
 Sets the 'ontimeupdate' event attribute for handling events when the current playback position of media changes.
 

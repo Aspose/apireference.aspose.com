@@ -6,7 +6,7 @@ type: docs
 weight: 2020
 url: /net/aspose.svg.builder/svgbuilderextensions/setpreserveaspectratio/
 ---
-## SVGBuilderExtensions.SetPreserveAspectRatio&lt;TBuilder&gt; method
+## SVGBuilderExtensions.SetPreserveAspectRatio<TBuilder> method
 
 Sets the 'preserveAspectRatio' attribute for an SVG element.
 

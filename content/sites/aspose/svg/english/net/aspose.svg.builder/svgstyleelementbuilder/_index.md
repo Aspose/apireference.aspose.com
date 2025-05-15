@@ -32,7 +32,7 @@ public class SVGStyleElementBuilder : SVGElementBuilder<SVGStyleElement>, ICoreA
 | Name | Description |
 | --- | --- |
 | [AddComment](../../aspose.svg.builder/svgstyleelementbuilder/addcomment/)(*string*) | Adds a comment to the style content. |
-| [AddRule](../../aspose.svg.builder/svgstyleelementbuilder/addrule/#addrule)(*string, Action&amp;lt;RuleBuilder&amp;gt;*) | Adds a CSS rule to the style element using a RuleBuilder. |
+| [AddRule](../../aspose.svg.builder/svgstyleelementbuilder/addrule/#addrule)(*string, Action&lt;RuleBuilder&gt;*) | Adds a CSS rule to the style element using a RuleBuilder. |
 | [AddRule](../../aspose.svg.builder/svgstyleelementbuilder/addrule/#addrule_1)(*string, string*) | Adds a CSS rule to the style element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | override [Build](../../aspose.svg.builder/svgstyleelementbuilder/build/#build)(*[Document](../../aspose.svg.dom/document/)*) | Builds the SVG style element with the accumulated CSS rules and adds it to the specified document. |

@@ -6,7 +6,7 @@ type: docs
 weight: 1800
 url: /net/aspose.svg.builder/svgbuilderextensions/onsuspend/
 ---
-## SVGBuilderExtensions.OnSuspend&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnSuspend<TBuilder> method
 
 Sets the 'onsuspend' event attribute for handling events when media data loading is suspended.
 

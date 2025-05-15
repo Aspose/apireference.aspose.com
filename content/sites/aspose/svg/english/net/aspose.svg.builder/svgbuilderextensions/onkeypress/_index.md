@@ -6,7 +6,7 @@ type: docs
 weight: 1500
 url: /net/aspose.svg.builder/svgbuilderextensions/onkeypress/
 ---
-## SVGBuilderExtensions.OnKeyPress&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnKeyPress<TBuilder> method
 
 Sets the 'onkeypress' event attribute for handling keypress events on the element.
 

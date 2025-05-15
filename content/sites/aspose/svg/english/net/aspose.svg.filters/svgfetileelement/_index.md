@@ -3,7 +3,7 @@ title: SVGFETileElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Filters.SVGFETileElement class. The SVGFETileElement interface corresponds to the feTile element
 type: docs
-weight: 4120
+weight: 3990
 url: /net/aspose.svg.filters/svgfetileelement/
 ---
 ## SVGFETileElement class

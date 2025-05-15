@@ -6,7 +6,7 @@ type: docs
 weight: 1430
 url: /net/aspose.svg.builder/svgbuilderextensions/onerror/
 ---
-## SVGBuilderExtensions.OnError&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnError<TBuilder> method
 
 Sets the 'onerror' event attribute for handling error events on the element.
 

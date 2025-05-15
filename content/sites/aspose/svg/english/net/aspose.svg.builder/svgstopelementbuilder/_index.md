@@ -32,8 +32,8 @@ public class SVGStopElementBuilder : SVGElementBuilder<SVGStopElement>,
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgstopelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the SVG 'stop' element. |
-| [AddStyle](../../aspose.svg.builder/svgstopelementbuilder/addstyle/)(*Action&amp;lt;SVGStyleElementBuilder&amp;gt;*) | Adds a style configuration to the SVG 'stop' element. |
+| [AddScript](../../aspose.svg.builder/svgstopelementbuilder/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script configuration to the SVG 'stop' element. |
+| [AddStyle](../../aspose.svg.builder/svgstopelementbuilder/addstyle/)(*Action&lt;SVGStyleElementBuilder&gt;*) | Adds a style configuration to the SVG 'stop' element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGStopElement](../../aspose.svg/svgstopelement/)*) |  |

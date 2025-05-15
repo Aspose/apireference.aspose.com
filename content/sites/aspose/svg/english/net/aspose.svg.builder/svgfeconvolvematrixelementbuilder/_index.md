@@ -32,7 +32,7 @@ public class SVGFEConvolveMatrixElementBuilder : SVGElementBuilder<SVGFEConvolve
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfeconvolvematrixelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the element. |
+| [AddScript](../../aspose.svg.builder/svgfeconvolvematrixelementbuilder/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script configuration to the element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | [Bias](../../aspose.svg.builder/svgfeconvolvematrixelementbuilder/bias/)(*double*) | Sets the 'bias' attribute of the feConvolveMatrix element. |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |

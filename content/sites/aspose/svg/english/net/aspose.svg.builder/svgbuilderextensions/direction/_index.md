@@ -6,7 +6,7 @@ type: docs
 weight: 730
 url: /net/aspose.svg.builder/svgbuilderextensions/direction/
 ---
-## SVGBuilderExtensions.Direction&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Direction<TBuilder> method
 
 Sets the 'direction' attribute for an SVG element using a predefined enum value.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 1530
 url: /net/aspose.svg.builder/svgbuilderextensions/onloadeddata/
 ---
-## SVGBuilderExtensions.OnLoadedData&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnLoadedData<TBuilder> method
 
 Sets the 'onloadeddata' event attribute for handling events when media data is loaded.
 

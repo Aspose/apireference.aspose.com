@@ -6,7 +6,7 @@ type: docs
 weight: 1160
 url: /net/aspose.svg.builder/svgelementbuilder-1/
 ---
-## SVGElementBuilder&lt;T&gt; class
+## SVGElementBuilder<T> class
 
 Represents a base class for building SVG elements of type *T*.
 

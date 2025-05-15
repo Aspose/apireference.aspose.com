@@ -6,7 +6,7 @@ type: docs
 weight: 1070
 url: /net/aspose.svg.builder/svgbuilderextensions/keytimes/
 ---
-## SVGBuilderExtensions.KeyTimes&lt;TBuilder&gt; method
+## SVGBuilderExtensions.KeyTimes<TBuilder> method
 
 Sets the 'keyTimes' attribute, defining the times at which the key values are applied.
 

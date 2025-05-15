@@ -6,7 +6,7 @@ type: docs
 weight: 440
 url: /net/aspose.svg.builder/svgbuilderextensions/addradialgradient/
 ---
-## AddRadialGradient&lt;TBuilder&gt;(*this TBuilder, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, CoordinateUnits?, SpreadMethod?, string, string, Action&amp;lt;SVGRadialGradientElementBuilder&amp;gt;*) {#addradialgradient}
+## AddRadialGradient<TBuilder>(*this TBuilder, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, CoordinateUnits?, SpreadMethod?, string, string, Action&lt;SVGRadialGradientElementBuilder&gt;*) {#addradialgradient}
 
 Adds a 'radialGradient' element to the SVG builder, specifying its center, radius, and focal points, along with other gradient properties.
 
@@ -54,7 +54,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddRadialGradient&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGRadialGradientElementBuilder&amp;gt;*) {#addradialgradient_1}
+## AddRadialGradient<TBuilder>(*this TBuilder, Action&lt;SVGRadialGradientElementBuilder&gt;*) {#addradialgradient_1}
 
 Adds a 'radialGradient' element configuration to the builder.
 

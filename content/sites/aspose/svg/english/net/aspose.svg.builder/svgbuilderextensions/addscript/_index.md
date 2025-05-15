@@ -6,7 +6,7 @@ type: docs
 weight: 460
 url: /net/aspose.svg.builder/svgbuilderextensions/addscript/
 ---
-## SVGBuilderExtensions.AddScript&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddScript<TBuilder> method
 
 Adds a 'script' element configuration to the builder.
 

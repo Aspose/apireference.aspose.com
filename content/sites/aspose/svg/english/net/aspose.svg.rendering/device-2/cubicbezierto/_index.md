@@ -6,12 +6,12 @@ type: docs
 weight: 120
 url: /net/aspose.svg.rendering/device-2/cubicbezierto/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.CubicBezierTo method
+## Device<TGraphicContext,TRenderingOptions>.CubicBezierTo method
 
 Appends a cubic Bézier curve to the current path. The curve extends from the current point to the point pt2, using pt1 and pt2 as the Bézier control points. The new current point is pt3.
 
 ```csharp
-public abstract void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
+public virtual void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
 ```
 
 | Parameter | Type | Description |

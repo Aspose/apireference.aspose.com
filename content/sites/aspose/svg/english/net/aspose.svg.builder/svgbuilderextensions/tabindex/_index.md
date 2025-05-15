@@ -6,7 +6,7 @@ type: docs
 weight: 2180
 url: /net/aspose.svg.builder/svgbuilderextensions/tabindex/
 ---
-## SVGBuilderExtensions.Tabindex&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Tabindex<TBuilder> method
 
 Sets the 'tabindex' attribute, defining the tab order of the SVG element.
 

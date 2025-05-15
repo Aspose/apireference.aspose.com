@@ -6,7 +6,7 @@ type: docs
 weight: 930
 url: /net/aspose.svg.builder/svgbuilderextensions/fontvariant/
 ---
-## SVGBuilderExtensions.FontVariant&lt;TBuilder&gt; method
+## SVGBuilderExtensions.FontVariant<TBuilder> method
 
 Sets the 'font-variant' attribute for an SVG element.
 

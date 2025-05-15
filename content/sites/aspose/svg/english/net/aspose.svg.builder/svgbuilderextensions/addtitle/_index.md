@@ -6,7 +6,7 @@ type: docs
 weight: 540
 url: /net/aspose.svg.builder/svgbuilderextensions/addtitle/
 ---
-## SVGBuilderExtensions.AddTitle&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddTitle<TBuilder> method
 
 Adds a 'title' element configuration to the builder. The 'title' element is used to provide a title for SVG content.
 

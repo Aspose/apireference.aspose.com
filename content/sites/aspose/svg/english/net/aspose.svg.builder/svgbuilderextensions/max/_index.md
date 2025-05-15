@@ -6,7 +6,7 @@ type: docs
 weight: 1160
 url: /net/aspose.svg.builder/svgbuilderextensions/max/
 ---
-## Max&lt;TBuilder&gt;(*this TBuilder, TimeSpan*) {#max_1}
+## Max<TBuilder>(*this TBuilder, TimeSpan*) {#max_1}
 
 Sets the 'max' attribute, specifying the maximum duration of the animation.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## Max&lt;TBuilder&gt;(*this TBuilder, [Media](../../media/)*) {#max}
+## Max<TBuilder>(*this TBuilder, [Media](../../media/)*) {#max}
 
 Sets the 'max' attribute, specifying the predefined maximum duration condition for the animation.
 

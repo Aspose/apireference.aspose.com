@@ -6,7 +6,7 @@ type: docs
 weight: 2400
 url: /net/aspose.svg.builder/svgbuilderextensions/y/
 ---
-## Y&lt;TBuilder&gt;(*this TBuilder, [LengthType](../../lengthtype/), params double[]*) {#y}
+## Y<TBuilder>(*this TBuilder, [LengthType](../../lengthtype/), params double[]*) {#y}
 
 Sets the 'y' attribute for positioning the text content along the y-axis.
 
@@ -42,7 +42,7 @@ This method sets the 'y' attribute, which determines the vertical position(s) of
 
 ---
 
-## Y&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#y_1}
+## Y<TBuilder>(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#y_1}
 
 Sets the 'y' attribute for an SVG element.
 

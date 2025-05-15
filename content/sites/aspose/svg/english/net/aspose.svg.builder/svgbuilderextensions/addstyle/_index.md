@@ -6,7 +6,7 @@ type: docs
 weight: 490
 url: /net/aspose.svg.builder/svgbuilderextensions/addstyle/
 ---
-## SVGBuilderExtensions.AddStyle&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddStyle<TBuilder> method
 
 Adds a 'style' element configuration to the builder.
 

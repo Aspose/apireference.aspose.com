@@ -6,7 +6,7 @@ type: docs
 weight: 850
 url: /net/aspose.svg.builder/svgbuilderextensions/floodcolor/
 ---
-## FloodColor&lt;TBuilder&gt;(*this TBuilder, Color*) {#floodcolor_1}
+## FloodColor<TBuilder>(*this TBuilder, Color*) {#floodcolor_1}
 
 Sets the 'flood-color' attribute for an SVG element using a System.Drawing color.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## FloodColor&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;ColorBuilder&amp;gt;*) {#floodcolor}
+## FloodColor<TBuilder>(*this TBuilder, Action&lt;ColorBuilder&gt;*) {#floodcolor}
 
 Sets the 'flood-color' attribute for an SVG element using a custom color configuration.
 

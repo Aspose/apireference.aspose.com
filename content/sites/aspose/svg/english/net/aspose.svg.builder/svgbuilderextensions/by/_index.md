@@ -6,7 +6,7 @@ type: docs
 weight: 620
 url: /net/aspose.svg.builder/svgbuilderextensions/by/
 ---
-## SVGBuilderExtensions.By&lt;TBuilder&gt; method
+## SVGBuilderExtensions.By<TBuilder> method
 
 Sets the 'by' attribute, defining the relative offset value for the animation with a specified length type.
 

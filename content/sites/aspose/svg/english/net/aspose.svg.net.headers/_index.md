@@ -3,7 +3,7 @@ title: Aspose.Svg.Net.Headers
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Net.Headers provides few data classes for describing header content at networking
 type: docs
-weight: 230
+weight: 220
 url: /net/aspose.svg.net.headers/
 ---
 The **Aspose.Svg.Net.Headers** provides few data classes for describing header content at networking.

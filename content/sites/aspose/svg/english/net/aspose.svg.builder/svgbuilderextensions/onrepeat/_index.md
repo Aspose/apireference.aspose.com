@@ -6,7 +6,7 @@ type: docs
 weight: 1700
 url: /net/aspose.svg.builder/svgbuilderextensions/onrepeat/
 ---
-## SVGBuilderExtensions.OnRepeat&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnRepeat<TBuilder> method
 
 Sets the 'onrepeat' attribute, defining a script to be run each time the animation repeats.
 

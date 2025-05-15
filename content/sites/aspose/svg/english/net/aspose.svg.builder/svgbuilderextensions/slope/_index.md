@@ -6,7 +6,7 @@ type: docs
 weight: 2040
 url: /net/aspose.svg.builder/svgbuilderextensions/slope/
 ---
-## SVGBuilderExtensions.Slope&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Slope<TBuilder> method
 
 Sets the 'slope' attribute for a component transfer function element.
 

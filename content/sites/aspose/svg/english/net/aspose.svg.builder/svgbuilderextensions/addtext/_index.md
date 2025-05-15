@@ -6,7 +6,7 @@ type: docs
 weight: 530
 url: /net/aspose.svg.builder/svgbuilderextensions/addtext/
 ---
-## AddText&lt;TBuilder&gt;(*this TBuilder, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, FontStyle?, string, FontWeight?, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGTextElementBuilder&amp;gt;*) {#addtext_1}
+## AddText<TBuilder>(*this TBuilder, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, FontStyle?, string, FontWeight?, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGTextElementBuilder&gt;*) {#addtext_1}
 
 Adds a 'text' element with specified content and attributes to the SVG builder.
 
@@ -57,7 +57,7 @@ The builder instance for chaining further additions or configurations.
 
 ---
 
-## AddText&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGTextElementBuilder&amp;gt;*) {#addtext}
+## AddText<TBuilder>(*this TBuilder, Action&lt;SVGTextElementBuilder&gt;*) {#addtext}
 
 Adds a 'text' element configuration to the builder.
 

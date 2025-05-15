@@ -6,7 +6,7 @@ type: docs
 weight: 1670
 url: /net/aspose.svg.builder/svgbuilderextensions/onplaying/
 ---
-## SVGBuilderExtensions.OnPlaying&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnPlaying<TBuilder> method
 
 Sets the 'onplaying' event attribute for handling events when the media is actively playing after being paused or stopped for buffering.
 

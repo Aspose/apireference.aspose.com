@@ -6,7 +6,7 @@ type: docs
 weight: 1920
 url: /net/aspose.svg.builder/svgbuilderextensions/rect/
 ---
-## SVGBuilderExtensions.Rect&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Rect<TBuilder> method
 
 Sets the 'x', 'y', 'width', and 'height' attributes for an SVG element to define a rectangle.
 

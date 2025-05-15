@@ -31,10 +31,10 @@ public class Configuration : IDisposable, IServiceProvider
 | Name | Description |
 | --- | --- |
 | static [Create](../../aspose.svg/configuration/create/#create)() | Create and configure the instance of Configuration object. |
-| static [Create](../../aspose.svg/configuration/create/#create_1)(*Action&amp;lt;IConfigurationBuilder&amp;gt;*) | Create and configure the instance of Configuration object. |
+| static [Create](../../aspose.svg/configuration/create/#create_1)(*Action&lt;IConfigurationBuilder&gt;*) | Create and configure the instance of Configuration object. |
 | [Dispose](../../aspose.svg/configuration/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [GetService](../../aspose.svg/configuration/getservice/#getservice)(*Type*) | Gets the requested service. |
-| [GetService&lt;T&gt;](../../aspose.svg/configuration/getservice/#getservice_1)() | Gets the requested service. |
+| [GetService<T>](../../aspose.svg/configuration/getservice/#getservice_1)() | Gets the requested service. |
 | static [SetExtension](../../aspose.svg/configuration/setextension/)(*[IConfigurationExtension](../iconfigurationextension/)*) | Sets the extension for the configuration. |
 
 ### See Also

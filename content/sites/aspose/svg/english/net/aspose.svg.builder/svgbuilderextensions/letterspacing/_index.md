@@ -6,7 +6,7 @@ type: docs
 weight: 1100
 url: /net/aspose.svg.builder/svgbuilderextensions/letterspacing/
 ---
-## LetterSpacing&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#letterspacing_1}
+## LetterSpacing<TBuilder>(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#letterspacing_1}
 
 Sets the 'letter-spacing' attribute for an SVG element using a numeric value and a specific length type.
 
@@ -38,7 +38,7 @@ The builder instance for chaining.
 
 ---
 
-## LetterSpacing&lt;TBuilder&gt;(*this TBuilder, [Spacing](../../spacing/)*) {#letterspacing}
+## LetterSpacing<TBuilder>(*this TBuilder, [Spacing](../../spacing/)*) {#letterspacing}
 
 Sets the 'letter-spacing' attribute for an SVG element using a predefined spacing value.
 

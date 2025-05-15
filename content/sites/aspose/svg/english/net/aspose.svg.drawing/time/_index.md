@@ -3,7 +3,7 @@ title: Time Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.Time class. Represents a time unit
 type: docs
-weight: 3780
+weight: 3660
 url: /net/aspose.svg.drawing/time/
 ---
 ## Time class
@@ -33,11 +33,11 @@ public sealed class Time : Dimension
 | override [ToString](../../aspose.svg.drawing/dimension/tostring/)() | Returns a String that represents this instance. |
 | [operator +](../../aspose.svg.drawing/time/op_addition/) | Implements the operator +. |
 | [operator ==](../../aspose.svg.drawing/time/op_equality/) | Implements the operator ==. |
-| [operator &gt;](../../aspose.svg.drawing/time/op_greaterthan/) | Implements the operator &gt;. |
-| [operator &gt;=](../../aspose.svg.drawing/time/op_greaterthanorequal/) | Implements the operator &gt;=. |
+| [operator >](../../aspose.svg.drawing/time/op_greaterthan/) | Implements the operator &gt;. |
+| [operator >=](../../aspose.svg.drawing/time/op_greaterthanorequal/) | Implements the operator &gt;=. |
 | [operator !=](../../aspose.svg.drawing/time/op_inequality/) | Implements the operator !=. |
-| [operator &lt;](../../aspose.svg.drawing/time/op_lessthan/) | Implements the operator &lt;. |
-| [operator &lt;=](../../aspose.svg.drawing/time/op_lessthanorequal/) | Implements the operator &lt;=. |
+| [operator <](../../aspose.svg.drawing/time/op_lessthan/) | Implements the operator &lt;. |
+| [operator <=](../../aspose.svg.drawing/time/op_lessthanorequal/) | Implements the operator &lt;=. |
 | [operator -](../../aspose.svg.drawing/time/op_subtraction/) | Implements the operator -. |
 
 ### See Also

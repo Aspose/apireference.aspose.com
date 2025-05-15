@@ -3,7 +3,7 @@ title: IDrawingFactory.CreateMatrix
 second_title: Aspose.SVG for .NET API Reference
 description: IDrawingFactory CreateMatrix method. Creates a new matrix with the same contents as the specified matrix
 type: docs
-weight: 80
+weight: 30
 url: /net/aspose.svg.drawing/idrawingfactory/creatematrix/
 ---
 ## CreateMatrix(*[IMatrix](../../imatrix/)*) {#creatematrix_1}

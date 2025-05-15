@@ -6,7 +6,7 @@ type: docs
 weight: 1760
 url: /net/aspose.svg.builder/svgbuilderextensions/onselect/
 ---
-## SVGBuilderExtensions.OnSelect&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnSelect<TBuilder> method
 
 Sets the 'onselect' event attribute for handling text selection events on the element.
 

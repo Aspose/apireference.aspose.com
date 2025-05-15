@@ -6,7 +6,7 @@ type: docs
 weight: 1490
 url: /net/aspose.svg.builder/svgbuilderextensions/onkeydown/
 ---
-## SVGBuilderExtensions.OnKeyDown&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnKeyDown<TBuilder> method
 
 Sets the 'onkeydown' event attribute for handling keydown events on the element.
 

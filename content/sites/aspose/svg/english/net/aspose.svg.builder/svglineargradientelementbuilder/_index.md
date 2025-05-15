@@ -33,9 +33,9 @@ public class SVGLinearGradientElementBuilder : SVGElementBuilder<SVGLinearGradie
 
 | Name | Description |
 | --- | --- |
-| [AddAnimateTransform](../../aspose.svg.builder/svglineargradientelementbuilder/addanimatetransform/)(*Action&amp;lt;SVGAnimateTransformElementBuilder&amp;gt;*) | Adds an animate transform configuration to the SVG 'linearGradient' element. |
-| [AddScript](../../aspose.svg.builder/svglineargradientelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the SVG 'linearGradient' element. |
-| [AddStyle](../../aspose.svg.builder/svglineargradientelementbuilder/addstyle/)(*Action&amp;lt;SVGStyleElementBuilder&amp;gt;*) | Adds a style configuration to the SVG 'linearGradient' element. |
+| [AddAnimateTransform](../../aspose.svg.builder/svglineargradientelementbuilder/addanimatetransform/)(*Action&lt;SVGAnimateTransformElementBuilder&gt;*) | Adds an animate transform configuration to the SVG 'linearGradient' element. |
+| [AddScript](../../aspose.svg.builder/svglineargradientelementbuilder/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script configuration to the SVG 'linearGradient' element. |
+| [AddStyle](../../aspose.svg.builder/svglineargradientelementbuilder/addstyle/)(*Action&lt;SVGStyleElementBuilder&gt;*) | Adds a style configuration to the SVG 'linearGradient' element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGLinearGradientElement](../../aspose.svg/svglineargradientelement/)*) |  |

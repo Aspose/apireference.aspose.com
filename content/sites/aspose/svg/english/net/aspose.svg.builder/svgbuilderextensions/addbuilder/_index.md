@@ -6,7 +6,7 @@ type: docs
 weight: 60
 url: /net/aspose.svg.builder/svgbuilderextensions/addbuilder/
 ---
-## SVGBuilderExtensions.AddBuilder&lt;TBuilder,TElementBuilder&gt; method
+## SVGBuilderExtensions.AddBuilder<TBuilder,TElementBuilder> method
 
 Adds an existing SVG element builder to the current SVG element builder. This method is used to include a predefined SVG element builder into the current builder.
 

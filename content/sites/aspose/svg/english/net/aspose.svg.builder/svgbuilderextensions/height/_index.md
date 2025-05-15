@@ -6,7 +6,7 @@ type: docs
 weight: 1000
 url: /net/aspose.svg.builder/svgbuilderextensions/height/
 ---
-## SVGBuilderExtensions.Height&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Height<TBuilder> method
 
 Sets the 'height' attribute for an SVG element.
 

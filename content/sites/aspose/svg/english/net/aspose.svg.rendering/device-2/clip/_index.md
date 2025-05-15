@@ -6,12 +6,12 @@ type: docs
 weight: 100
 url: /net/aspose.svg.rendering/device-2/clip/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Clip method
+## Device<TGraphicContext,TRenderingOptions>.Clip method
 
 Modifies the current clipping path by intersecting it with the current path, using the FillRule to determine the region to fill. This method terminates current path.
 
 ```csharp
-public abstract void Clip(FillRule rule)
+public virtual void Clip(FillRule rule)
 ```
 
 | Parameter | Type | Description |

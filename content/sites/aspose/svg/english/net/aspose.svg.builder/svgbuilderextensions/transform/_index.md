@@ -6,7 +6,7 @@ type: docs
 weight: 2260
 url: /net/aspose.svg.builder/svgbuilderextensions/transform/
 ---
-## SVGBuilderExtensions.Transform&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Transform<TBuilder> method
 
 Sets the 'transform' attribute for an SVG element.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.svg.builder/svgfebaselightingelementbuilder-2/addscript/
 ---
-## SVGFEBaseLightingElementBuilder&lt;TElement,TBuilder&gt;.AddScript method
+## SVGFEBaseLightingElementBuilder<TElement,TBuilder>.AddScript method
 
 Adds a script configuration to the element.
 

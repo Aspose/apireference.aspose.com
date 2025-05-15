@@ -31,7 +31,7 @@ public class SVGFEDistantLightElementBuilder : SVGElementBuilder<SVGFEDistantLig
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfedistantlightelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feDistantLight element. |
+| [AddScript](../../aspose.svg.builder/svgfedistantlightelementbuilder/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script configuration to the feDistantLight element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | [Azimuth](../../aspose.svg.builder/svgfedistantlightelementbuilder/azimuth/)(*double*) | Sets the 'azimuth' attribute of the feDistantLight element. |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |

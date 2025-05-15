@@ -3,7 +3,7 @@ title: SVGUseElement.Width
 second_title: Aspose.SVG for .NET API Reference
 description: SVGUseElement Width property. Corresponds to attribute width on the given use element
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.svg/svguseelement/width/
 ---
 ## SVGUseElement.Width property

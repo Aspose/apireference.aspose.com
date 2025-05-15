@@ -17,8 +17,8 @@ The **Aspose.Svg.Builder** namespace contains classes and interfaces for buildin
 | [ColorBuilder](./colorbuilder/) | A builder class for constructing color values in various formats. This class provides methods to set color values and build them into string representations that can be used in styling contexts, such as CSS or SVG attributes. |
 | [FilterValueListBuilder](./filtervaluelistbuilder/) | A builder class for creating a list of filter functions for SVG elements. |
 | [MaskBuilder](./maskbuilder/) | A builder class for creating CSS mask properties. This class allows for the construction of complex mask styles using various properties such as mask source, position, size, repeat style, and more. The resulting string can be used in CSS to define the masking behavior of an element. |
-| [OneOf&lt;T1,T2&gt;](./oneof-2/) | Represents a value that can be one of two distinct types, T1 or T2. |
-| [OneOf&lt;T1,T2,T3&gt;](./oneof-3/) | Represents a value that can be one of three distinct types, T1, T2, or T3. |
+| [OneOf<T1,T2>](./oneof-2/) | Represents a value that can be one of two distinct types, T1 or T2. |
+| [OneOf<T1,T2,T3>](./oneof-3/) | Represents a value that can be one of three distinct types, T1, T2, or T3. |
 | [PaintBuilder](./paintbuilder/) | A builder class for creating paint values for SVG elements. |
 | [PathBuilder](./pathbuilder/) | Builder class for creating SVG path data strings. |
 | [RuleBuilder](./rulebuilder/) | A builder class for constructing CSS style rules. This class is used to dynamically build a string of CSS styles by setting various attributes and their values. |
@@ -31,9 +31,9 @@ The **Aspose.Svg.Builder** namespace contains classes and interfaces for buildin
 | [SVGClipPathElementBuilder](./svgclippathelementbuilder/) | Builder class for constructing an SVG 'clipPath' element, which is used to define a clipping path. It enables the building of content within the 'clipPath' element and provides methods to set various attributes specific to the 'clipPath' element in SVG. |
 | [SVGDefsElementBuilder](./svgdefselementbuilder/) | Builder class for constructing an SVG 'defs' element, which is used to define reusable elements. It enables the building of content within the 'defs' element and provides methods to set various attributes specific to the 'defs' element in SVG. |
 | [SVGDescElementBuilder](./svgdescelementbuilder/) | Builder class for constructing an SVG 'desc' element, which is used to provide a description for SVG container elements. It enables the building of content within the 'desc' element and provides methods to set various attributes specific to the 'desc' element in SVG. |
-| [SVGElementBuilder&lt;T&gt;](./svgelementbuilder-1/) | Represents a base class for building SVG elements of type *T*. |
+| [SVGElementBuilder<T>](./svgelementbuilder-1/) | Represents a base class for building SVG elements of type *T*. |
 | [SVGEllipseElementBuilder](./svgellipseelementbuilder/) | Builder class for constructing an SVG 'ellipse' element, which is used to draw ellipses within SVG graphics. It enables the building of content within the 'ellipse' element and provides methods to set various attributes specific to the 'ellipse' element in SVG. |
-| [SVGFEBaseLightingElementBuilder&lt;TElement,TBuilder&gt;](./svgfebaselightingelementbuilder-2/) | Abstract base class for builders of SVG filter effect lighting elements. |
+| [SVGFEBaseLightingElementBuilder<TElement,TBuilder>](./svgfebaselightingelementbuilder-2/) | Abstract base class for builders of SVG filter effect lighting elements. |
 | [SVGFEBlendElementBuilder](./svgfeblendelementbuilder/) | Builder class for creating SVG 'feBlend' elements, used in SVG filters. |
 | [SVGFEColorMatrixElementBuilder](./svgfecolormatrixelementbuilder/) | Builder class for creating SVG 'feColorMatrix' elements, used in SVG filters. |
 | [SVGFEComponentTransferElementBuilder](./svgfecomponenttransferelementbuilder/) | Builder class for creating SVG 'feComponentTransfer' elements, used in SVG filters. |

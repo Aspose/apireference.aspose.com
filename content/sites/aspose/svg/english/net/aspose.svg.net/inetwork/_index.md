@@ -3,7 +3,7 @@ title: INetwork Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.INetwork interface. Provides an interface for network services
 type: docs
-weight: 4520
+weight: 4390
 url: /net/aspose.svg.net/inetwork/
 ---
 ## INetwork interface

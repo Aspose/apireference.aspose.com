@@ -6,7 +6,7 @@ type: docs
 weight: 830
 url: /net/aspose.svg.builder/svgbuilderextensions/fillrule/
 ---
-## SVGBuilderExtensions.FillRule&lt;TBuilder&gt; method
+## SVGBuilderExtensions.FillRule<TBuilder> method
 
 Sets the 'fill-rule' attribute for an SVG element using a predefined FillRule enum value.
 

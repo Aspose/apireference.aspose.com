@@ -6,7 +6,7 @@ type: docs
 weight: 410
 url: /net/aspose.svg.builder/svgbuilderextensions/addpattern/
 ---
-## AddPattern&lt;TBuilder&gt;(*this TBuilder, CoordinateUnits?, CoordinateUnits?, string, string, Action&amp;lt;SVGPatternElementBuilder&amp;gt;*) {#addpattern_1}
+## AddPattern<TBuilder>(*this TBuilder, CoordinateUnits?, CoordinateUnits?, string, string, Action&lt;SVGPatternElementBuilder&gt;*) {#addpattern_1}
 
 Adds a 'pattern' element to the SVG builder, specifying the coordinate system and units for the pattern's content.
 
@@ -43,7 +43,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddPattern&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGPatternElementBuilder&amp;gt;*) {#addpattern}
+## AddPattern<TBuilder>(*this TBuilder, Action&lt;SVGPatternElementBuilder&gt;*) {#addpattern}
 
 Adds a 'pattern' element configuration to the builder.
 

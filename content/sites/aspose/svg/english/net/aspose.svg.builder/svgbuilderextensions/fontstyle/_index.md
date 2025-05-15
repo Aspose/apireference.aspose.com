@@ -6,7 +6,7 @@ type: docs
 weight: 920
 url: /net/aspose.svg.builder/svgbuilderextensions/fontstyle/
 ---
-## SVGBuilderExtensions.FontStyle&lt;TBuilder&gt; method
+## SVGBuilderExtensions.FontStyle<TBuilder> method
 
 Sets the 'font-style' attribute for an SVG element using a predefined font style value.
 

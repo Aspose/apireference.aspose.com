@@ -6,7 +6,7 @@ type: docs
 weight: 1140
 url: /net/aspose.svg.builder/svgbuilderextensions/markerstart/
 ---
-## MarkerStart&lt;TBuilder&gt;(*this TBuilder, string*) {#markerstart_1}
+## MarkerStart<TBuilder>(*this TBuilder, string*) {#markerstart_1}
 
 Sets the 'marker-start' attribute for an SVG element, specifying the marker at the start of a path.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## MarkerStart&lt;TBuilder&gt;(*this TBuilder, [MarkerPos](../../markerpos/)*) {#markerstart}
+## MarkerStart<TBuilder>(*this TBuilder, [MarkerPos](../../markerpos/)*) {#markerstart}
 
 Sets the 'marker-start' attribute for an SVG element using a predefined marker position.
 

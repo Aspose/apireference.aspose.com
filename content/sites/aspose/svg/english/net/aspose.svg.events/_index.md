@@ -3,7 +3,7 @@ title: Aspose.Svg.Events
 second_title: Aspose.SVG for .NET API Reference
 description: The namespace consists of classes for event based interactivity like time events and zooming
 type: docs
-weight: 180
+weight: 170
 url: /net/aspose.svg.events/
 ---
 The namespace consists of classes for event based interactivity like time events and zooming.

@@ -6,7 +6,7 @@ type: docs
 weight: 2350
 url: /net/aspose.svg.builder/svgbuilderextensions/writingmode/
 ---
-## SVGBuilderExtensions.WritingMode&lt;TBuilder&gt; method
+## SVGBuilderExtensions.WritingMode<TBuilder> method
 
 Sets the 'writing-mode' attribute for an SVG element, specifying the direction in which text and inline content are laid out.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 390
 url: /net/aspose.svg.builder/svgbuilderextensions/addmetadata/
 ---
-## SVGBuilderExtensions.AddMetadata&lt;TBuilder,TElement&gt; method
+## SVGBuilderExtensions.AddMetadata<TBuilder,TElement> method
 
 Adds a 'metadata' element configuration to the builder. The 'metadata' element is used to add metadata to SVG content.
 

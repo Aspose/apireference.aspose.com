@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgbuilderextensions/addanimatemotion/
 ---
-## SVGBuilderExtensions.AddAnimateMotion&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddAnimateMotion<TBuilder> method
 
 Adds an 'animateMotion' element configuration to the builder.
 

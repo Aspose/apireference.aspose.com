@@ -32,7 +32,7 @@ public class SVGFETileElementBuilder : SVGElementBuilder<SVGFETileElement>,
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfetileelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feTile element. This method allows the addition of a script element to the feTile element. |
+| [AddScript](../../aspose.svg.builder/svgfetileelementbuilder/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script configuration to the feTile element. This method allows the addition of a script element to the feTile element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFETileElement](../../aspose.svg.filters/svgfetileelement/)*) |  |

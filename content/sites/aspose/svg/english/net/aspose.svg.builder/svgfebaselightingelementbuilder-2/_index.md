@@ -6,7 +6,7 @@ type: docs
 weight: 1180
 url: /net/aspose.svg.builder/svgfebaselightingelementbuilder-2/
 ---
-## SVGFEBaseLightingElementBuilder&lt;TElement,TBuilder&gt; class
+## SVGFEBaseLightingElementBuilder<TElement,TBuilder> class
 
 Abstract base class for builders of SVG filter effect lighting elements.
 
@@ -33,14 +33,14 @@ public abstract class SVGFEBaseLightingElementBuilder<TElement, TBuilder> :
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfebaselightingelementbuilder-2/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the element. |
+| [AddScript](../../aspose.svg.builder/svgfebaselightingelementbuilder-2/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script configuration to the element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | override [Build](../../aspose.svg.builder/svgfebaselightingelementbuilder-2/build/#build)(*[Document](../../aspose.svg.dom/document/)*) | Builds the SVG element, applying the light source configuration if specified. |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*TElement*) |  |
 | [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
-| [WithFeDistantLight](../../aspose.svg.builder/svgfebaselightingelementbuilder-2/withfedistantlight/)(*Action&amp;lt;SVGFEDistantLightElementBuilder&amp;gt;*) | Configures a distant light source for the filter effect. |
-| [WithFePointLight](../../aspose.svg.builder/svgfebaselightingelementbuilder-2/withfepointlight/)(*Action&amp;lt;SVGFEPointLightElementBuilder&amp;gt;*) | Configures a point light source for the filter effect. |
-| [WithFeSpotLight](../../aspose.svg.builder/svgfebaselightingelementbuilder-2/withfespotlight/)(*Action&amp;lt;SVGFESpotLightElementBuilder&amp;gt;*) | Configures a spot light source for the filter effect. |
+| [WithFeDistantLight](../../aspose.svg.builder/svgfebaselightingelementbuilder-2/withfedistantlight/)(*Action&lt;SVGFEDistantLightElementBuilder&gt;*) | Configures a distant light source for the filter effect. |
+| [WithFePointLight](../../aspose.svg.builder/svgfebaselightingelementbuilder-2/withfepointlight/)(*Action&lt;SVGFEPointLightElementBuilder&gt;*) | Configures a point light source for the filter effect. |
+| [WithFeSpotLight](../../aspose.svg.builder/svgfebaselightingelementbuilder-2/withfespotlight/)(*Action&lt;SVGFESpotLightElementBuilder&gt;*) | Configures a spot light source for the filter effect. |
 
 ### See Also
 

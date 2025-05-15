@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgfebaselightingelementbuilder-2/build/
 ---
-## SVGFEBaseLightingElementBuilder&lt;TElement,TBuilder&gt;.Build method
+## SVGFEBaseLightingElementBuilder<TElement,TBuilder>.Build method
 
 Builds the SVG element, applying the light source configuration if specified.
 

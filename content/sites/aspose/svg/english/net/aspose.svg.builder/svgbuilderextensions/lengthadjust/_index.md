@@ -6,7 +6,7 @@ type: docs
 weight: 1090
 url: /net/aspose.svg.builder/svgbuilderextensions/lengthadjust/
 ---
-## SVGBuilderExtensions.LengthAdjust&lt;TBuilder&gt; method
+## SVGBuilderExtensions.LengthAdjust<TBuilder> method
 
 Sets the method of length adjustment for the text content.
 

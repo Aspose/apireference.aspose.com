@@ -6,7 +6,7 @@ type: docs
 weight: 110
 url: /net/aspose.svg.builder/svgbuilderextensions/adddesc/
 ---
-## SVGBuilderExtensions.AddDesc&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddDesc<TBuilder> method
 
 Adds a 'desc' element configuration to the builder. The 'desc' element is used to provide a description for SVG content.
 

@@ -31,7 +31,7 @@ public class SVGFEMergeNodeElementBuilder : SVGElementBuilder<SVGFEMergeNodeElem
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfemergenodeelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feMergeNode element. |
+| [AddScript](../../aspose.svg.builder/svgfemergenodeelementbuilder/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script configuration to the feMergeNode element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEMergeNodeElement](../../aspose.svg.filters/svgfemergenodeelement/)*) |  |

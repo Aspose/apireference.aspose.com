@@ -6,7 +6,7 @@ type: docs
 weight: 2380
 url: /net/aspose.svg.builder/svgbuilderextensions/xlinktitle/
 ---
-## SVGBuilderExtensions.XlinkTitle&lt;TBuilder&gt; method
+## SVGBuilderExtensions.XlinkTitle<TBuilder> method
 
 Sets the 'xlink:title' attribute for an SVG element. This attribute provides a title for the linked resource.
 

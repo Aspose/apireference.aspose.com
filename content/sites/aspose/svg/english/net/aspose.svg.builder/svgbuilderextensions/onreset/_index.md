@@ -6,7 +6,7 @@ type: docs
 weight: 1710
 url: /net/aspose.svg.builder/svgbuilderextensions/onreset/
 ---
-## SVGBuilderExtensions.OnReset&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnReset<TBuilder> method
 
 Sets the 'onreset' event attribute for handling reset events on forms.
 

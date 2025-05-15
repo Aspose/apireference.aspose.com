@@ -6,7 +6,7 @@ type: docs
 weight: 1970
 url: /net/aspose.svg.builder/svgbuilderextensions/requiredextensions/
 ---
-## SVGBuilderExtensions.RequiredExtensions&lt;TBuilder&gt; method
+## SVGBuilderExtensions.RequiredExtensions<TBuilder> method
 
 Sets the 'requiredExtensions' attribute on the SVG element. This attribute specifies which extensions are required for the SVG document fragment to be processed.
 

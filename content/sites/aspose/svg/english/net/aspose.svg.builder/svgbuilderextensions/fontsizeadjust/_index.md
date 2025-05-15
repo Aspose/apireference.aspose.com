@@ -6,7 +6,7 @@ type: docs
 weight: 900
 url: /net/aspose.svg.builder/svgbuilderextensions/fontsizeadjust/
 ---
-## FontSizeAdjust&lt;TBuilder&gt;(*this TBuilder, double*) {#fontsizeadjust_1}
+## FontSizeAdjust<TBuilder>(*this TBuilder, double*) {#fontsizeadjust_1}
 
 Sets the 'font-size-adjust' attribute for an SVG element.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## FontSizeAdjust&lt;TBuilder&gt;(*this TBuilder,   *) {#fontsizeadjust}
+## FontSizeAdjust<TBuilder>(*this TBuilder,   *) {#fontsizeadjust}
 
 ```csharp
 public static TBuilder FontSizeAdjust<TBuilder>(this TBuilder builder,    value)

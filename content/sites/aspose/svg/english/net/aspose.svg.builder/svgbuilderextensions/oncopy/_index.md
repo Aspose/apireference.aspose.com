@@ -6,7 +6,7 @@ type: docs
 weight: 1270
 url: /net/aspose.svg.builder/svgbuilderextensions/oncopy/
 ---
-## SVGBuilderExtensions.OnCopy&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnCopy<TBuilder> method
 
 Sets the 'oncopy' event attribute, defining a script to run when content is copied from the SVG element.
 

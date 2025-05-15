@@ -6,12 +6,12 @@ type: docs
 weight: 80
 url: /net/aspose.svg.rendering/device-2/beginelement/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginElement method
+## Device<TGraphicContext,TRenderingOptions>.BeginElement method
 
 Begins rendering of the node.
 
 ```csharp
-public abstract bool BeginElement(Element element, RectangleF rect)
+public virtual bool BeginElement(Element element, RectangleF rect)
 ```
 
 | Parameter | Type | Description |

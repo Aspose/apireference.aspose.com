@@ -6,7 +6,7 @@ type: docs
 weight: 1410
 url: /net/aspose.svg.builder/svgbuilderextensions/onend/
 ---
-## SVGBuilderExtensions.OnEnd&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnEnd<TBuilder> method
 
 Sets the 'onend' attribute, defining a script to be run at the end of the animation.
 

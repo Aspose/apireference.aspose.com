@@ -6,7 +6,7 @@ type: docs
 weight: 1690
 url: /net/aspose.svg.builder/svgbuilderextensions/onratechange/
 ---
-## SVGBuilderExtensions.OnRateChange&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnRateChange<TBuilder> method
 
 Sets the 'onratechange' event attribute for handling events when the playback rate of media is changed.
 

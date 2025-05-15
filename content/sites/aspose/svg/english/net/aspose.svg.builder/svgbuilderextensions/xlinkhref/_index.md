@@ -6,7 +6,7 @@ type: docs
 weight: 2370
 url: /net/aspose.svg.builder/svgbuilderextensions/xlinkhref/
 ---
-## SVGBuilderExtensions.XlinkHref&lt;TBuilder&gt; method
+## SVGBuilderExtensions.XlinkHref<TBuilder> method
 
 Sets the 'xlink:href' attribute for an SVG element. This attribute is used to define a reference to a resource as a link.
 

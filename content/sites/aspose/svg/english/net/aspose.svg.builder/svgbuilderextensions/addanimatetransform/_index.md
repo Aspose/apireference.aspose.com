@@ -6,7 +6,7 @@ type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgbuilderextensions/addanimatetransform/
 ---
-## SVGBuilderExtensions.AddAnimateTransform&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddAnimateTransform<TBuilder> method
 
 Adds an 'animateTransform' element configuration to the builder.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 2190
 url: /net/aspose.svg.builder/svgbuilderextensions/tablevalues/
 ---
-## SVGBuilderExtensions.TableValues&lt;TBuilder&gt; method
+## SVGBuilderExtensions.TableValues<TBuilder> method
 
 Sets the 'tableValues' attribute for a component transfer function element.
 

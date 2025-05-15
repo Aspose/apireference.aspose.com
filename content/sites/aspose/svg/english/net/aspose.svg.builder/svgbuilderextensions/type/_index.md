@@ -6,7 +6,7 @@ type: docs
 weight: 2270
 url: /net/aspose.svg.builder/svgbuilderextensions/type/
 ---
-## SVGBuilderExtensions.Type&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Type<TBuilder> method
 
 Sets the 'type' attribute of a component transfer function element.
 

@@ -26,7 +26,7 @@ public InputEvent(string type)
 
 ---
 
-## InputEvent(*string, IDictionary&amp;lt;string, object&amp;gt;*) {#constructor_1}
+## InputEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
 Initializes a new instance of the [`InputEvent`](../) class.
 

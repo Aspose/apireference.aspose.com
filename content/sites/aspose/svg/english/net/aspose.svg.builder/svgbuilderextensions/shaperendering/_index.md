@@ -6,7 +6,7 @@ type: docs
 weight: 2030
 url: /net/aspose.svg.builder/svgbuilderextensions/shaperendering/
 ---
-## SVGBuilderExtensions.ShapeRendering&lt;TBuilder&gt; method
+## SVGBuilderExtensions.ShapeRendering<TBuilder> method
 
 Sets the 'shape-rendering' attribute for an SVG element, influencing the rendering of shapes.
 

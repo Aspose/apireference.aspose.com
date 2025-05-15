@@ -32,7 +32,7 @@ public class SVGFEColorMatrixElementBuilder : SVGElementBuilder<SVGFEColorMatrix
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfecolormatrixelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feColorMatrix element. |
+| [AddScript](../../aspose.svg.builder/svgfecolormatrixelementbuilder/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script configuration to the feColorMatrix element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEColorMatrixElement](../../aspose.svg.filters/svgfecolormatrixelement/)*) |  |

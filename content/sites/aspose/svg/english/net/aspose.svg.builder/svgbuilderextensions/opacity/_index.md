@@ -6,7 +6,7 @@ type: docs
 weight: 1860
 url: /net/aspose.svg.builder/svgbuilderextensions/opacity/
 ---
-## SVGBuilderExtensions.Opacity&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Opacity<TBuilder> method
 
 Sets the 'opacity' attribute for an SVG element, defining its transparency level.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 1930
 url: /net/aspose.svg.builder/svgbuilderextensions/refx/
 ---
-## RefX&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#refx_1}
+## RefX<TBuilder>(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#refx_1}
 
 Sets the 'refX' attribute for an SVG element.
 
@@ -38,7 +38,7 @@ The builder instance for chaining.
 
 ---
 
-## RefX&lt;TBuilder&gt;(*this TBuilder, [HorizontalPosition](../../horizontalposition/)*) {#refx}
+## RefX<TBuilder>(*this TBuilder, [HorizontalPosition](../../horizontalposition/)*) {#refx}
 
 Sets the 'refX' attribute for an SVG element using a predefined horizontal position.
 

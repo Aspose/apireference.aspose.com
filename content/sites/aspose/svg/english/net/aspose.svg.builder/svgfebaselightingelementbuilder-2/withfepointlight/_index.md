@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgfebaselightingelementbuilder-2/withfepointlight/
 ---
-## SVGFEBaseLightingElementBuilder&lt;TElement,TBuilder&gt;.WithFePointLight method
+## SVGFEBaseLightingElementBuilder<TElement,TBuilder>.WithFePointLight method
 
 Configures a point light source for the filter effect.
 

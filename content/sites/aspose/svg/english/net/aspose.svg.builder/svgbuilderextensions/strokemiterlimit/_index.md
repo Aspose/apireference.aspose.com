@@ -6,7 +6,7 @@ type: docs
 weight: 2130
 url: /net/aspose.svg.builder/svgbuilderextensions/strokemiterlimit/
 ---
-## SVGBuilderExtensions.StrokeMiterlimit&lt;TBuilder&gt; method
+## SVGBuilderExtensions.StrokeMiterlimit<TBuilder> method
 
 Sets the 'stroke-miterlimit' attribute for an SVG element, defining the limit on the ratio of the miter length to the stroke width.
 

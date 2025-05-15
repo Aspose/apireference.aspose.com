@@ -6,7 +6,7 @@ type: docs
 weight: 1520
 url: /net/aspose.svg.builder/svgbuilderextensions/onload/
 ---
-## SVGBuilderExtensions.OnLoad&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnLoad<TBuilder> method
 
 Sets the 'onload' event attribute for handling load events on the element.
 

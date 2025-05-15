@@ -6,7 +6,7 @@ type: docs
 weight: 1740
 url: /net/aspose.svg.builder/svgbuilderextensions/onseeked/
 ---
-## SVGBuilderExtensions.OnSeeked&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnSeeked<TBuilder> method
 
 Sets the 'onseeked' event attribute for handling events when a seek operation on media is completed.
 

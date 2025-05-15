@@ -3,7 +3,7 @@ title: FillRule Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.FillRule enum. Specifies the fill rule used in rendering SVG and HTML
 type: docs
-weight: 3520
+weight: 3420
 url: /net/aspose.svg.drawing/fillrule/
 ---
 ## FillRule enumeration

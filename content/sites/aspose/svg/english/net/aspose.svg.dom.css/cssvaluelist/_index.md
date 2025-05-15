@@ -3,7 +3,7 @@ title: CSSValueList Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.CSSValueList class. The CSSValueList interface provides the abstraction of an ordered collection of CSS values
 type: docs
-weight: 2570
+weight: 2500
 url: /net/aspose.svg.dom.css/cssvaluelist/
 ---
 ## CSSValueList class
@@ -20,7 +20,7 @@ public class CSSValueList : CSSValue, ICSSValueList, IEnumerable<CSSValue>
 | --- | --- |
 | [CSSValueList](cssvaluelist/#constructor)() | Initializes a new instance of the `CSSValueList` class. |
 | [CSSValueList](cssvaluelist/#constructor_1)(*params CSSValue[]*) | Initializes a new instance of the `CSSValueList` class. |
-| [CSSValueList](cssvaluelist/#constructor_2)(*IEnumerable&amp;lt;CSSValue&amp;gt;*) | Initializes a new instance of the `CSSValueList` class. |
+| [CSSValueList](cssvaluelist/#constructor_2)(*IEnumerable&lt;CSSValue&gt;*) | Initializes a new instance of the `CSSValueList` class. |
 
 ## Properties
 

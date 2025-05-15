@@ -3,7 +3,7 @@ title: GraphicContext Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.GraphicContext class. Holds current graphics control parameters. These parameters define the global framework within which the graphics operators execute
 type: docs
-weight: 5040
+weight: 4890
 url: /net/aspose.svg.rendering/graphiccontext/
 ---
 ## GraphicContext class
@@ -45,12 +45,6 @@ public class GraphicContext : ICloneable
 | --- | --- |
 | virtual [Clone](../../aspose.svg.rendering/graphiccontext/clone/)() | Creates a new instance of a GraphicContext class with the same property values as an existing instance. |
 | virtual [Transform](../../aspose.svg.rendering/graphiccontext/transform/)(*[IMatrix](../../aspose.svg.drawing/imatrix/)*) | Modify the current transformation matrix by multiplying the specified matrix. |
-
-## Events
-
-| Name | Description |
-| --- | --- |
-| event [TransformationMatrixChanged](../../aspose.svg.rendering/graphiccontext/transformationmatrixchanged/) | Event raised when the value of TransformationMatrix changes. |
 
 ### See Also
 

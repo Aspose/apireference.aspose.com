@@ -6,7 +6,7 @@ type: docs
 weight: 740
 url: /net/aspose.svg.builder/svgbuilderextensions/display/
 ---
-## SVGBuilderExtensions.Display&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Display<TBuilder> method
 
 Sets the 'display' attribute for an SVG element using a predefined enum value.
 

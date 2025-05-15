@@ -6,7 +6,7 @@ type: docs
 weight: 1060
 url: /net/aspose.svg.builder/svgbuilderextensions/keysplines/
 ---
-## SVGBuilderExtensions.KeySplines&lt;TBuilder&gt; method
+## SVGBuilderExtensions.KeySplines<TBuilder> method
 
 Sets the 'keySplines' attribute, specifying the control points for the pacing of the animation.
 

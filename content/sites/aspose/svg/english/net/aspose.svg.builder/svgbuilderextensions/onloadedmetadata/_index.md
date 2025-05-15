@@ -6,7 +6,7 @@ type: docs
 weight: 1540
 url: /net/aspose.svg.builder/svgbuilderextensions/onloadedmetadata/
 ---
-## SVGBuilderExtensions.OnLoadedMetadata&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnLoadedMetadata<TBuilder> method
 
 Sets the 'onloadedmetadata' event attribute for handling events when media metadata is loaded.
 

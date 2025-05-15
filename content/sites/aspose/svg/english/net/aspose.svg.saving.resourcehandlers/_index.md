@@ -3,7 +3,7 @@ title: Aspose.Svg.Saving.ResourceHandlers
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Saving.ResourceHandlers namespace contains classes responsible for handling resources
 type: docs
-weight: 360
+weight: 330
 url: /net/aspose.svg.saving.resourcehandlers/
 ---
 The **Aspose.Svg.Saving.ResourceHandlers** namespace contains classes responsible for handling resources.

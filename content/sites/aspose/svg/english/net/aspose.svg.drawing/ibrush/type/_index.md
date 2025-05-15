@@ -3,7 +3,7 @@ title: IBrush.Type
 second_title: Aspose.SVG for .NET API Reference
 description: IBrush Type property. Gets type of brush as BrushType
 type: docs
-weight: 20
+weight: 10
 url: /net/aspose.svg.drawing/ibrush/type/
 ---
 ## IBrush.Type property

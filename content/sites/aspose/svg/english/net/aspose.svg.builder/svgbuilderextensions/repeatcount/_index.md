@@ -6,7 +6,7 @@ type: docs
 weight: 1950
 url: /net/aspose.svg.builder/svgbuilderextensions/repeatcount/
 ---
-## RepeatCount&lt;TBuilder&gt;(*this TBuilder, int*) {#repeatcount_1}
+## RepeatCount<TBuilder>(*this TBuilder, int*) {#repeatcount_1}
 
 Sets the 'repeatCount' attribute, defining how many times the animation should repeat.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## RepeatCount&lt;TBuilder&gt;(*this TBuilder, [IndefiniteRepeat](../../indefiniterepeat/)*) {#repeatcount}
+## RepeatCount<TBuilder>(*this TBuilder, [IndefiniteRepeat](../../indefiniterepeat/)*) {#repeatcount}
 
 Sets the 'repeatCount' attribute, defining an indefinite repeat count for the animation using a predefined enum.
 

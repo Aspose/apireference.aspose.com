@@ -6,12 +6,12 @@ type: docs
 weight: 140
 url: /net/aspose.svg.rendering/device-2/drawimage/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DrawImage method
+## Device<TGraphicContext,TRenderingOptions>.DrawImage method
 
 Draws the specified image.
 
 ```csharp
-public abstract void DrawImage(byte[] data, WebImageFormat imageFormat, RectangleF rect)
+public virtual void DrawImage(byte[] data, WebImageFormat imageFormat, RectangleF rect)
 ```
 
 | Parameter | Type | Description |

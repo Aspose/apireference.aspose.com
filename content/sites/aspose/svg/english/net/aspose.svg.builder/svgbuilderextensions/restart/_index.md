@@ -6,7 +6,7 @@ type: docs
 weight: 1980
 url: /net/aspose.svg.builder/svgbuilderextensions/restart/
 ---
-## SVGBuilderExtensions.Restart&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Restart<TBuilder> method
 
 Sets the 'restart' attribute, defining how the animation should behave when it completes.
 

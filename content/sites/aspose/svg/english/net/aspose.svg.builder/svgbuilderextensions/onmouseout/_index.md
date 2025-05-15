@@ -6,7 +6,7 @@ type: docs
 weight: 1600
 url: /net/aspose.svg.builder/svgbuilderextensions/onmouseout/
 ---
-## SVGBuilderExtensions.OnMouseOut&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnMouseOut<TBuilder> method
 
 Sets the 'onmouseout' event attribute for handling mouse out events on the element.
 

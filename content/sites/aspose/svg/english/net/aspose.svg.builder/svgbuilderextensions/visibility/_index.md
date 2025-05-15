@@ -6,7 +6,7 @@ type: docs
 weight: 2310
 url: /net/aspose.svg.builder/svgbuilderextensions/visibility/
 ---
-## SVGBuilderExtensions.Visibility&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Visibility<TBuilder> method
 
 Sets the 'visibility' attribute for an SVG element, controlling whether the element is visible or not.
 

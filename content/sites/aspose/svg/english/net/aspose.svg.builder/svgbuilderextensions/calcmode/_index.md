@@ -6,7 +6,7 @@ type: docs
 weight: 630
 url: /net/aspose.svg.builder/svgbuilderextensions/calcmode/
 ---
-## SVGBuilderExtensions.CalcMode&lt;TBuilder&gt; method
+## SVGBuilderExtensions.CalcMode<TBuilder> method
 
 Sets the 'calcMode' attribute, defining the calculation mode for the animation.
 

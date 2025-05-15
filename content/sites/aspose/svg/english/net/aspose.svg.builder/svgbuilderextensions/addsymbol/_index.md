@@ -6,7 +6,7 @@ type: docs
 weight: 520
 url: /net/aspose.svg.builder/svgbuilderextensions/addsymbol/
 ---
-## SVGBuilderExtensions.AddSymbol&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddSymbol<TBuilder> method
 
 Adds a 'symbol' element configuration to the builder.
 

@@ -31,7 +31,7 @@ The SVGStyleElementBuilder instance for chaining.
 
 ---
 
-## AddRule(*string, Action&amp;lt;RuleBuilder&amp;gt;*) {#addrule}
+## AddRule(*string, Action&lt;RuleBuilder&gt;*) {#addrule}
 
 Adds a CSS rule to the style element using a RuleBuilder.
 

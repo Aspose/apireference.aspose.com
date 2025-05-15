@@ -6,7 +6,7 @@ type: docs
 weight: 420
 url: /net/aspose.svg.builder/svgbuilderextensions/addpolygon/
 ---
-## AddPolygon&lt;TBuilder&gt;(*this TBuilder, double[], OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGPolygonElementBuilder&amp;gt;*) {#addpolygon}
+## AddPolygon<TBuilder>(*this TBuilder, double[], OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGPolygonElementBuilder&gt;*) {#addpolygon}
 
 Adds a 'polygon' element to the SVG builder, specifying its vertices, and styles.
 
@@ -44,7 +44,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddPolygon&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGPolygonElementBuilder&amp;gt;*) {#addpolygon_1}
+## AddPolygon<TBuilder>(*this TBuilder, Action&lt;SVGPolygonElementBuilder&gt;*) {#addpolygon_1}
 
 Adds a 'polygon' element configuration to the builder.
 

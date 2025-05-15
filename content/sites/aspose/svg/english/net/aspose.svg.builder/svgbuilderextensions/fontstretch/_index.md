@@ -6,7 +6,7 @@ type: docs
 weight: 910
 url: /net/aspose.svg.builder/svgbuilderextensions/fontstretch/
 ---
-## SVGBuilderExtensions.FontStretch&lt;TBuilder&gt; method
+## SVGBuilderExtensions.FontStretch<TBuilder> method
 
 Sets the 'font-stretch' attribute for an SVG element using a predefined font stretch value.
 

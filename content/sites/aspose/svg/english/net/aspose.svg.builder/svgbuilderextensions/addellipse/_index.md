@@ -6,7 +6,7 @@ type: docs
 weight: 120
 url: /net/aspose.svg.builder/svgbuilderextensions/addellipse/
 ---
-## AddEllipse&lt;TBuilder&gt;(*this TBuilder, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGEllipseElementBuilder&amp;gt;*) {#addellipse}
+## AddEllipse<TBuilder>(*this TBuilder, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGEllipseElementBuilder&gt;*) {#addellipse}
 
 Adds an 'ellipse' element to the SVG builder, specifying its center, radii, and styles.
 
@@ -51,7 +51,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddEllipse&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGEllipseElementBuilder&amp;gt;*) {#addellipse_1}
+## AddEllipse<TBuilder>(*this TBuilder, Action&lt;SVGEllipseElementBuilder&gt;*) {#addellipse_1}
 
 Adds an 'ellipse' element configuration to the builder.
 

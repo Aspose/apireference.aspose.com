@@ -6,7 +6,7 @@ type: docs
 weight: 790
 url: /net/aspose.svg.builder/svgbuilderextensions/end/
 ---
-## SVGBuilderExtensions.End&lt;TBuilder&gt; method
+## SVGBuilderExtensions.End<TBuilder> method
 
 Sets the 'end' attribute, defining when the animation should end.
 

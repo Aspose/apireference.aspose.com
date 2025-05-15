@@ -6,7 +6,7 @@ type: docs
 weight: 2150
 url: /net/aspose.svg.builder/svgbuilderextensions/strokewidth/
 ---
-## SVGBuilderExtensions.StrokeWidth&lt;TBuilder&gt; method
+## SVGBuilderExtensions.StrokeWidth<TBuilder> method
 
 Sets the 'stroke-width' attribute for an SVG element, defining the width of the stroke.
 

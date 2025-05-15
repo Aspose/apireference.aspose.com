@@ -6,7 +6,7 @@ type: docs
 weight: 1940
 url: /net/aspose.svg.builder/svgbuilderextensions/refy/
 ---
-## RefY&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#refy_1}
+## RefY<TBuilder>(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#refy_1}
 
 Sets the 'refY' attribute for an SVG element.
 
@@ -38,7 +38,7 @@ The builder instance for chaining.
 
 ---
 
-## RefY&lt;TBuilder&gt;(*this TBuilder, [VerticalPosition](../../verticalposition/)*) {#refy}
+## RefY<TBuilder>(*this TBuilder, [VerticalPosition](../../verticalposition/)*) {#refy}
 
 Sets the 'refY' attribute for an SVG element using a predefined vertical position.
 

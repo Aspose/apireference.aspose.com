@@ -32,7 +32,7 @@ public class SVGFEFuncAElementBuilder : SVGElementBuilder<SVGFEFuncAElement>,
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfefuncaelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feFuncA element. |
+| [AddScript](../../aspose.svg.builder/svgfefuncaelementbuilder/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script configuration to the feFuncA element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEFuncAElement](../../aspose.svg.filters/svgfefuncaelement/)*) |  |

@@ -11,12 +11,11 @@ url: /net/aspose.svg.drawing/ibitmap/colorspace/
 Gets the color space `ColorSpace` of the bitmap image.
 
 ```csharp
-public ColorSpace ColorSpace { get; }
+public     ColorSpace { get; }
 ```
 
 ### See Also
 
-* enum [ColorSpace](../../colorspace/)
 * interface [IBitmap](../)
 * namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

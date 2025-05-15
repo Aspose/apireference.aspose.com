@@ -6,7 +6,7 @@ type: docs
 weight: 1640
 url: /net/aspose.svg.builder/svgbuilderextensions/onpaste/
 ---
-## SVGBuilderExtensions.OnPaste&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnPaste<TBuilder> method
 
 Sets the 'onpaste' event attribute, defining a script to run when content is pasted into the SVG element.
 

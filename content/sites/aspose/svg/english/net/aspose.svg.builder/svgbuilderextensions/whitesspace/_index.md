@@ -6,7 +6,7 @@ type: docs
 weight: 2320
 url: /net/aspose.svg.builder/svgbuilderextensions/whitesspace/
 ---
-## SVGBuilderExtensions.WhiteSspace&lt;TBuilder&gt; method
+## SVGBuilderExtensions.WhiteSspace<TBuilder> method
 
 Sets the 'white-space' attribute for an SVG element, specifying how white space inside the element is handled.
 

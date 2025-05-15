@@ -6,7 +6,7 @@ type: docs
 weight: 510
 url: /net/aspose.svg.builder/svgbuilderextensions/addswitch/
 ---
-## SVGBuilderExtensions.AddSwitch&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddSwitch<TBuilder> method
 
 Adds a 'switch' element configuration to the builder.
 

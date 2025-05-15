@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.svg.builder/svgelementbuilder-1/configurations/
 ---
-## SVGElementBuilder&lt;T&gt;.Configurations property
+## SVGElementBuilder<T>.Configurations property
 
 Gets the list of configurations to be applied to the SVG element.
 

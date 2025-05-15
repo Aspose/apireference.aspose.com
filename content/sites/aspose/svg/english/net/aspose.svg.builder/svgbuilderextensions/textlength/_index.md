@@ -6,7 +6,7 @@ type: docs
 weight: 2220
 url: /net/aspose.svg.builder/svgbuilderextensions/textlength/
 ---
-## SVGBuilderExtensions.TextLength&lt;TBuilder&gt; method
+## SVGBuilderExtensions.TextLength<TBuilder> method
 
 Sets the exact length of the text content.
 

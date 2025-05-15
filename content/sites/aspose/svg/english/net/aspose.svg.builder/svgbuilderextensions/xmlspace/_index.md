@@ -6,7 +6,7 @@ type: docs
 weight: 2390
 url: /net/aspose.svg.builder/svgbuilderextensions/xmlspace/
 ---
-## SVGBuilderExtensions.XmlSpace&lt;TBuilder&gt; method
+## SVGBuilderExtensions.XmlSpace<TBuilder> method
 
 Sets the 'xml:space' attribute, specifying how white spaces are handled.
 

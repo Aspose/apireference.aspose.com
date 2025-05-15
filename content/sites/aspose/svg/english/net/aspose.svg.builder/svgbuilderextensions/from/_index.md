@@ -6,7 +6,7 @@ type: docs
 weight: 960
 url: /net/aspose.svg.builder/svgbuilderextensions/from/
 ---
-## SVGBuilderExtensions.From&lt;TBuilder&gt; method
+## SVGBuilderExtensions.From<TBuilder> method
 
 Sets the 'from' attribute, defining the starting value of the animation with a specified length type.
 

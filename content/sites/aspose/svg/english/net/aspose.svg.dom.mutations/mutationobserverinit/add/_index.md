@@ -6,7 +6,7 @@ type: docs
 weight: 140
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/add/
 ---
-## Add(*KeyValuePair&amp;lt;string, object&amp;gt;*) {#add}
+## Add(*KeyValuePair&lt;string, object&gt;*) {#add}
 
 Adds an element to the [`MutationObserverInit`](../) collection.
 

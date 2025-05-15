@@ -6,7 +6,7 @@ type: docs
 weight: 2230
 url: /net/aspose.svg.builder/svgbuilderextensions/textoverflow/
 ---
-## SVGBuilderExtensions.TextOverflow&lt;TBuilder&gt; method
+## SVGBuilderExtensions.TextOverflow<TBuilder> method
 
 Sets the 'text-overflow' attribute for an SVG element, defining how overflowed content that is not displayed is signaled to the users.
 

@@ -3,7 +3,7 @@ title: INonElementParentNode Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.INonElementParentNode interface. Defines IParentNode that are not Element type
 type: docs
-weight: 3160
+weight: 3070
 url: /net/aspose.svg.dom/inonelementparentnode/
 ---
 ## INonElementParentNode interface

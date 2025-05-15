@@ -6,7 +6,7 @@ type: docs
 weight: 190
 url: /net/aspose.svg.builder/svgbuilderextensions/addfedisplacementmap/
 ---
-## AddFeDisplacementMap&lt;TBuilder&gt;(*this TBuilder, double?, ChannelSelector?, ChannelSelector?, OneOf&amp;lt;string, FilterInput&amp;gt;, OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFEDisplacementMapElementBuilder&amp;gt;*) {#addfedisplacementmap_1}
+## AddFeDisplacementMap<TBuilder>(*this TBuilder, double?, ChannelSelector?, ChannelSelector?, OneOf&lt;string, FilterInput&gt;, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEDisplacementMapElementBuilder&gt;*) {#addfedisplacementmap_1}
 
 Adds an 'feDisplacementMap' element to the SVG builder, creating an effect that distorts an image based on the color data from a second source.
 
@@ -62,7 +62,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeDisplacementMap&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEDisplacementMapElementBuilder&amp;gt;*) {#addfedisplacementmap}
+## AddFeDisplacementMap<TBuilder>(*this TBuilder, Action&lt;SVGFEDisplacementMapElementBuilder&gt;*) {#addfedisplacementmap}
 
 Adds an 'feDisplacementMap' element configuration to the builder. This element displaces an image by a specified vector map.
 

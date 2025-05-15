@@ -6,7 +6,7 @@ type: docs
 weight: 820
 url: /net/aspose.svg.builder/svgbuilderextensions/fillopacity/
 ---
-## SVGBuilderExtensions.FillOpacity&lt;TBuilder&gt; method
+## SVGBuilderExtensions.FillOpacity<TBuilder> method
 
 Sets the 'fill-opacity' attribute for an SVG element. Value must be between 0.0 (fully transparent) and 1.0 (fully opaque).
 

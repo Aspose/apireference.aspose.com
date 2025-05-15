@@ -6,7 +6,7 @@ type: docs
 weight: 340
 url: /net/aspose.svg.builder/svgbuilderextensions/additive/
 ---
-## SVGBuilderExtensions.Additive&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Additive<TBuilder> method
 
 ```csharp
 public static TBuilder Additive<TBuilder>(this TBuilder builder,    value)

@@ -6,7 +6,7 @@ type: docs
 weight: 1790
 url: /net/aspose.svg.builder/svgbuilderextensions/onsubmit/
 ---
-## SVGBuilderExtensions.OnSubmit&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnSubmit<TBuilder> method
 
 Sets the 'onsubmit' event attribute for handling form submission events.
 

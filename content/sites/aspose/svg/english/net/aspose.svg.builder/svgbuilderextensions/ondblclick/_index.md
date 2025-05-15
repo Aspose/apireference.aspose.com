@@ -6,7 +6,7 @@ type: docs
 weight: 1300
 url: /net/aspose.svg.builder/svgbuilderextensions/ondblclick/
 ---
-## SVGBuilderExtensions.OnDblClick&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnDblClick<TBuilder> method
 
 Sets the 'ondblclick' event attribute for handling double-click events on the element.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgbuilderextensions/addanimate/
 ---
-## SVGBuilderExtensions.AddAnimate&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddAnimate<TBuilder> method
 
 Adds an 'animate' element configuration to the builder.
 

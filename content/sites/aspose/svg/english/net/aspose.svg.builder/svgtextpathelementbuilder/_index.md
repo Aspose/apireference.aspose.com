@@ -32,8 +32,8 @@ public class SVGTextPathElementBuilder : SVGElementBuilder<SVGTextPathElement>,
 
 | Name | Description |
 | --- | --- |
-| [AddA](../../aspose.svg.builder/svgtextpathelementbuilder/adda/)(*Action&amp;lt;SVGAElementBuilder&amp;gt;*) | Adds an 'a' (anchor) element configuration to the 'textPath'. |
-| [AddTSpan](../../aspose.svg.builder/svgtextpathelementbuilder/addtspan/)(*Action&amp;lt;SVGTSpanElementBuilder&amp;gt;*) | Adds a 'tspan' element configuration to the 'textPath'. |
+| [AddA](../../aspose.svg.builder/svgtextpathelementbuilder/adda/)(*Action&lt;SVGAElementBuilder&gt;*) | Adds an 'a' (anchor) element configuration to the 'textPath'. |
+| [AddTSpan](../../aspose.svg.builder/svgtextpathelementbuilder/addtspan/)(*Action&lt;SVGTSpanElementBuilder&gt;*) | Adds a 'tspan' element configuration to the 'textPath'. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGTextPathElement](../../aspose.svg/svgtextpathelement/)*) |  |
@@ -41,7 +41,7 @@ public class SVGTextPathElementBuilder : SVGElementBuilder<SVGTextPathElement>,
 | [Href](../../aspose.svg.builder/svgtextpathelementbuilder/href/)(*string*) | Sets the 'href' attribute, specifying a reference to a path element. |
 | [LengthAdjust](../../aspose.svg.builder/svgtextpathelementbuilder/lengthadjust/)(*[LengthAdjust](../lengthadjust/)*) | Sets the 'lengthAdjust' attribute, specifying how text length adjustments are made. |
 | [Method](../../aspose.svg.builder/svgtextpathelementbuilder/method/)(*[TextPathMethod](../textpathmethod/)*) | Sets the 'method' attribute, specifying the text layout method along the path. |
-| [Path](../../aspose.svg.builder/svgtextpathelementbuilder/path/)(*Action&amp;lt;PathBuilder&amp;gt;*) | Configures the path for the text. |
+| [Path](../../aspose.svg.builder/svgtextpathelementbuilder/path/)(*Action&lt;PathBuilder&gt;*) | Configures the path for the text. |
 | [Side](../../aspose.svg.builder/svgtextpathelementbuilder/side/)(*[HorizontalEdge](../horizontaledge/)*) | Sets the 'side' attribute, specifying which side of the path the text is placed on. |
 | [Spacing](../../aspose.svg.builder/svgtextpathelementbuilder/spacing/)(*[TextPathSpacing](../textpathspacing/)*) | Sets the 'spacing' attribute, specifying the spacing strategy for text along the path. |
 | [StartOffset](../../aspose.svg.builder/svgtextpathelementbuilder/startoffset/)(*double, [LengthType](../lengthtype/)*) | Sets the 'startOffset' attribute, specifying the starting position of the text on the path. |

@@ -6,7 +6,7 @@ type: docs
 weight: 1720
 url: /net/aspose.svg.builder/svgbuilderextensions/onresize/
 ---
-## SVGBuilderExtensions.OnResize&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnResize<TBuilder> method
 
 Sets the 'onresize' event attribute for handling resize events of the window or elements.
 

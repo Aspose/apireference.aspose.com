@@ -6,12 +6,12 @@ type: docs
 weight: 60
 url: /net/aspose.svg.rendering/device-2/addrect/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.AddRect method
+## Device<TGraphicContext,TRenderingOptions>.AddRect method
 
 Appends a rectangle to the current path as a complete subpath.
 
 ```csharp
-public abstract void AddRect(RectangleF rect)
+public virtual void AddRect(RectangleF rect)
 ```
 
 | Parameter | Type | Description |

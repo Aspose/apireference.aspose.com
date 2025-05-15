@@ -3,7 +3,7 @@ title: ErrorEvent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Events.ErrorEvent class. The ErrorEvent provides contextual information about an errors that occurred during runtime
 type: docs
-weight: 3000
+weight: 2910
 url: /net/aspose.svg.dom.events/errorevent/
 ---
 ## ErrorEvent class
@@ -19,7 +19,7 @@ public class ErrorEvent : Event
 | Name | Description |
 | --- | --- |
 | [ErrorEvent](errorevent/#constructor_1)(*Exception*) | Initializes a new instance of the `ErrorEvent` class. |
-| [ErrorEvent](errorevent/#constructor)(*IDictionary&amp;lt;string, object&amp;gt;*) | Initializes a new instance of the `ErrorEvent` class. |
+| [ErrorEvent](errorevent/#constructor)(*IDictionary&lt;string, object&gt;*) | Initializes a new instance of the `ErrorEvent` class. |
 
 ## Properties
 

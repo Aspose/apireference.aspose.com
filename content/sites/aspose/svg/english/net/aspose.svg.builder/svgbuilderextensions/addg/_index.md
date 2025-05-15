@@ -6,7 +6,7 @@ type: docs
 weight: 320
 url: /net/aspose.svg.builder/svgbuilderextensions/addg/
 ---
-## SVGBuilderExtensions.AddG&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddG<TBuilder> method
 
 Adds a 'g' (group) element configuration to the builder.
 

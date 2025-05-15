@@ -6,7 +6,7 @@ type: docs
 weight: 2300
 url: /net/aspose.svg.builder/svgbuilderextensions/viewbox/
 ---
-## SVGBuilderExtensions.ViewBox&lt;TBuilder&gt; method
+## SVGBuilderExtensions.ViewBox<TBuilder> method
 
 Sets the 'viewBox' attribute for an SVG element.
 

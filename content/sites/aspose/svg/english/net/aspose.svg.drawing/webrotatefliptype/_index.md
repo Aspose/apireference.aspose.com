@@ -3,7 +3,7 @@ title: WebRotateFlipType Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.WebRotateFlipType enum. Specifies the rotation and flip operation to apply to an image
 type: docs
-weight: 3850
+weight: 3720
 url: /net/aspose.svg.drawing/webrotatefliptype/
 ---
 ## WebRotateFlipType enumeration

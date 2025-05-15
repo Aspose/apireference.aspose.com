@@ -6,7 +6,7 @@ type: docs
 weight: 720
 url: /net/aspose.svg.builder/svgbuilderextensions/cursor/
 ---
-## SVGBuilderExtensions.Cursor&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Cursor<TBuilder> method
 
 Sets the 'cursor' attribute for an SVG element using a predefined enum value.
 

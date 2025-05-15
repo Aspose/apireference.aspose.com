@@ -3,7 +3,7 @@ title: IDrawingFactory.CreateInterpolationColor
 second_title: Aspose.SVG for .NET API Reference
 description: IDrawingFactory CreateInterpolationColor method. Creates an interpolation color with the specified color and position
 type: docs
-weight: 60
+weight: 10
 url: /net/aspose.svg.drawing/idrawingfactory/createinterpolationcolor/
 ---
 ## IDrawingFactory.CreateInterpolationColor method

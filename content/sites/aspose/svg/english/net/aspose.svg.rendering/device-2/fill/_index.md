@@ -6,12 +6,12 @@ type: docs
 weight: 180
 url: /net/aspose.svg.rendering/device-2/fill/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Fill method
+## Device<TGraphicContext,TRenderingOptions>.Fill method
 
 Fills the entire region enclosed by the current path. If the path consists of several disconnected subpaths, it fills the insides of all subpaths, considered together. This method terminates current path.
 
 ```csharp
-public abstract void Fill(FillRule rule)
+public virtual void Fill(FillRule rule)
 ```
 
 | Parameter | Type | Description |

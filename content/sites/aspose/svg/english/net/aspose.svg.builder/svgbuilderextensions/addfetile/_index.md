@@ -6,7 +6,7 @@ type: docs
 weight: 280
 url: /net/aspose.svg.builder/svgbuilderextensions/addfetile/
 ---
-## AddFeTile&lt;TBuilder&gt;(*this TBuilder, OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFETileElementBuilder&amp;gt;*) {#addfetile}
+## AddFeTile<TBuilder>(*this TBuilder, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFETileElementBuilder&gt;*) {#addfetile}
 
 Adds an 'feTile' element to the SVG builder, creating a pattern of tiles by replicating the input image.
 
@@ -56,7 +56,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeTile&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFETileElementBuilder&amp;gt;*) {#addfetile_1}
+## AddFeTile<TBuilder>(*this TBuilder, Action&lt;SVGFETileElementBuilder&gt;*) {#addfetile_1}
 
 Adds an 'feTile' element configuration to the builder. This element fills a rectangle with the repeated, tiled pattern of an input image.
 

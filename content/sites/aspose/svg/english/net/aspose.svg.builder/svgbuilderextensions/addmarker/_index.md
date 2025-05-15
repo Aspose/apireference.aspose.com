@@ -6,7 +6,7 @@ type: docs
 weight: 370
 url: /net/aspose.svg.builder/svgbuilderextensions/addmarker/
 ---
-## SVGBuilderExtensions.AddMarker&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddMarker<TBuilder> method
 
 Adds a 'marker' element configuration to the builder.
 

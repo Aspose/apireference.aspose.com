@@ -32,10 +32,10 @@ public class SVGImageElementBuilder : SVGElementBuilder<SVGImageElement>, IAnima
 
 | Name | Description |
 | --- | --- |
-| [AddClipPath](../../aspose.svg.builder/svgimageelementbuilder/addclippath/)(*Action&amp;lt;SVGClipPathElementBuilder&amp;gt;*) | Adds a clip path configuration to the SVG 'image' element. |
-| [AddMask](../../aspose.svg.builder/svgimageelementbuilder/addmask/)(*Action&amp;lt;SVGMaskElementBuilder&amp;gt;*) | Adds a mask configuration to the SVG 'image' element. |
-| [AddScript](../../aspose.svg.builder/svgimageelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the SVG 'image' element. |
-| [AddStyle](../../aspose.svg.builder/svgimageelementbuilder/addstyle/)(*Action&amp;lt;SVGStyleElementBuilder&amp;gt;*) | Adds a style configuration to the SVG 'image' element. |
+| [AddClipPath](../../aspose.svg.builder/svgimageelementbuilder/addclippath/)(*Action&lt;SVGClipPathElementBuilder&gt;*) | Adds a clip path configuration to the SVG 'image' element. |
+| [AddMask](../../aspose.svg.builder/svgimageelementbuilder/addmask/)(*Action&lt;SVGMaskElementBuilder&gt;*) | Adds a mask configuration to the SVG 'image' element. |
+| [AddScript](../../aspose.svg.builder/svgimageelementbuilder/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script configuration to the SVG 'image' element. |
+| [AddStyle](../../aspose.svg.builder/svgimageelementbuilder/addstyle/)(*Action&lt;SVGStyleElementBuilder&gt;*) | Adds a style configuration to the SVG 'image' element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGImageElement](../../aspose.svg/svgimageelement/)*) |  |
