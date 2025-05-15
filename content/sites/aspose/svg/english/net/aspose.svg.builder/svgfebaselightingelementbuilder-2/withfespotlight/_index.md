@@ -6,7 +6,7 @@ type: docs
 weight: 50
 url: /net/aspose.svg.builder/svgfebaselightingelementbuilder-2/withfespotlight/
 ---
-## SVGFEBaseLightingElementBuilder&lt;TElement,TBuilder&gt;.WithFeSpotLight method
+## SVGFEBaseLightingElementBuilder<TElement,TBuilder>.WithFeSpotLight method
 
 Configures a spot light source for the filter effect.
 

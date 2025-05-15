@@ -6,7 +6,7 @@ type: docs
 weight: 2200
 url: /net/aspose.svg.builder/svgbuilderextensions/textanchor/
 ---
-## SVGBuilderExtensions.TextAnchor&lt;TBuilder&gt; method
+## SVGBuilderExtensions.TextAnchor<TBuilder> method
 
 Sets the 'text-anchor' attribute for an SVG element, defining how the text is horizontally aligned relative to the given point.
 

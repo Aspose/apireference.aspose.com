@@ -6,7 +6,7 @@ type: docs
 weight: 1850
 url: /net/aspose.svg.builder/svgbuilderextensions/onwaiting/
 ---
-## SVGBuilderExtensions.OnWaiting&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnWaiting<TBuilder> method
 
 Sets the 'onwaiting' event attribute for handling events when media playback is delayed due to data buffering.
 

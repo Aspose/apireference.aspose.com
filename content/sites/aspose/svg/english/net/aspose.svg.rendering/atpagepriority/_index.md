@@ -3,7 +3,7 @@ title: AtPagePriority Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.AtPagePriority enum. Specifies possible orders of applying page size declarations
 type: docs
-weight: 4930
+weight: 4800
 url: /net/aspose.svg.rendering/atpagepriority/
 ---
 ## AtPagePriority enumeration

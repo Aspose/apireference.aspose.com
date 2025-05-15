@@ -6,7 +6,7 @@ type: docs
 weight: 680
 url: /net/aspose.svg.builder/svgbuilderextensions/colorinterpolation/
 ---
-## SVGBuilderExtensions.ColorInterpolation&lt;TBuilder&gt; method
+## SVGBuilderExtensions.ColorInterpolation<TBuilder> method
 
 Sets the 'color-interpolation' attribute for an SVG element.
 

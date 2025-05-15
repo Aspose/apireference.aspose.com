@@ -6,7 +6,7 @@ type: docs
 weight: 1380
 url: /net/aspose.svg.builder/svgbuilderextensions/ondrop/
 ---
-## SVGBuilderExtensions.OnDrop&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnDrop<TBuilder> method
 
 Sets the 'ondrop' event attribute for handling the dropping of an item onto a valid drop target.
 

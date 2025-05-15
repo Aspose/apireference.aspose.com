@@ -6,7 +6,7 @@ type: docs
 weight: 980
 url: /net/aspose.svg.builder/svgbuilderextensions/gradienttransform/
 ---
-## SVGBuilderExtensions.GradientTransform&lt;TBuilder&gt; method
+## SVGBuilderExtensions.GradientTransform<TBuilder> method
 
 Sets the 'gradientTransform' attribute for a gradient element.
 

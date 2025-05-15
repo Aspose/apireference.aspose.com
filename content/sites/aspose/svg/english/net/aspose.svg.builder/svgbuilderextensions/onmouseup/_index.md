@@ -6,7 +6,7 @@ type: docs
 weight: 1620
 url: /net/aspose.svg.builder/svgbuilderextensions/onmouseup/
 ---
-## SVGBuilderExtensions.OnMouseUp&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnMouseUp<TBuilder> method
 
 Sets the 'onmouseup' event attribute for handling mouse up events on the element.
 

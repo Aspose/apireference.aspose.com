@@ -6,7 +6,7 @@ type: docs
 weight: 140
 url: /net/aspose.svg.builder/svgbuilderextensions/addfecolormatrix/
 ---
-## AddFeColorMatrix&lt;TBuilder&gt;(*this TBuilder, [ColorMatrixOperation](../../colormatrixoperation/), double[], OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFEColorMatrixElementBuilder&amp;gt;*) {#addfecolormatrix}
+## AddFeColorMatrix<TBuilder>(*this TBuilder, [ColorMatrixOperation](../../colormatrixoperation/), double[], OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEColorMatrixElementBuilder&gt;*) {#addfecolormatrix}
 
 Adds an 'feColorMatrix' element to the SVG builder, specifying the type of color matrix operation and various other properties for the filter effect.
 
@@ -59,7 +59,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeColorMatrix&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEColorMatrixElementBuilder&amp;gt;*) {#addfecolormatrix_1}
+## AddFeColorMatrix<TBuilder>(*this TBuilder, Action&lt;SVGFEColorMatrixElementBuilder&gt;*) {#addfecolormatrix_1}
 
 Adds an 'feColorMatrix' element configuration to the builder. This element applies a matrix transformation to the color and alpha values of every pixel.
 

@@ -32,7 +32,7 @@ public class SVGFECompositeElementBuilder : SVGElementBuilder<SVGFECompositeElem
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfecompositeelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the element. |
+| [AddScript](../../aspose.svg.builder/svgfecompositeelementbuilder/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script configuration to the element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFECompositeElement](../../aspose.svg.filters/svgfecompositeelement/)*) |  |

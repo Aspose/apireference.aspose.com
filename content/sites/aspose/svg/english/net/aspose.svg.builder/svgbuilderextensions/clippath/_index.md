@@ -6,7 +6,7 @@ type: docs
 weight: 650
 url: /net/aspose.svg.builder/svgbuilderextensions/clippath/
 ---
-## SVGBuilderExtensions.ClipPath&lt;TBuilder&gt; method
+## SVGBuilderExtensions.ClipPath<TBuilder> method
 
 Sets the 'clip-path' attribute for an SVG element.
 

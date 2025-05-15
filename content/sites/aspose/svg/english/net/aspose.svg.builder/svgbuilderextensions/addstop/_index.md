@@ -6,7 +6,7 @@ type: docs
 weight: 480
 url: /net/aspose.svg.builder/svgbuilderextensions/addstop/
 ---
-## AddStop&lt;TBuilder&gt;(*this TBuilder, Color?, double?, OneOf&amp;lt;double, (double, StopUnitType)&amp;gt;, string, Action&amp;lt;SVGStopElementBuilder&amp;gt;*) {#addstop_1}
+## AddStop<TBuilder>(*this TBuilder, Color?, double?, OneOf&lt;double, (double, StopUnitType)&gt;, string, Action&lt;SVGStopElementBuilder&gt;*) {#addstop_1}
 
 Adds a 'stop' element to the gradient in the SVG builder, specifying color and opacity at a particular offset.
 
@@ -44,7 +44,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddStop&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGStopElementBuilder&amp;gt;*) {#addstop}
+## AddStop<TBuilder>(*this TBuilder, Action&lt;SVGStopElementBuilder&gt;*) {#addstop}
 
 Adds a 'stop' element configuration to the builder for defining gradient stops.
 

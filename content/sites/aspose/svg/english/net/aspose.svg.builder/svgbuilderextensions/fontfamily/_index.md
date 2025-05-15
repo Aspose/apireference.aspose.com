@@ -6,7 +6,7 @@ type: docs
 weight: 870
 url: /net/aspose.svg.builder/svgbuilderextensions/fontfamily/
 ---
-## SVGBuilderExtensions.FontFamily&lt;TBuilder&gt; method
+## SVGBuilderExtensions.FontFamily<TBuilder> method
 
 Sets the 'font-family' attribute for an SVG element.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 1230
 url: /net/aspose.svg.builder/svgbuilderextensions/oncanplaythrough/
 ---
-## SVGBuilderExtensions.OnCanPlayThrough&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnCanPlayThrough<TBuilder> method
 
 Sets the 'oncanplaythrough' event attribute for handling media playability without interruption.
 

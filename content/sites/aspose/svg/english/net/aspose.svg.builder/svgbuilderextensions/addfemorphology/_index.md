@@ -6,7 +6,7 @@ type: docs
 weight: 250
 url: /net/aspose.svg.builder/svgbuilderextensions/addfemorphology/
 ---
-## AddFeMorphology&lt;TBuilder&gt;(*this TBuilder, MorphologyOperator?, OneOf&amp;lt;double, (double, double)&amp;gt;, OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFEMorphologyElementBuilder&amp;gt;*) {#addfemorphology_1}
+## AddFeMorphology<TBuilder>(*this TBuilder, MorphologyOperator?, OneOf&lt;double, (double, double)&gt;, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEMorphologyElementBuilder&gt;*) {#addfemorphology_1}
 
 Adds an 'feMorphology' element to the SVG builder, applying a morphological operation to the input image.
 
@@ -60,7 +60,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeMorphology&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEMorphologyElementBuilder&amp;gt;*) {#addfemorphology}
+## AddFeMorphology<TBuilder>(*this TBuilder, Action&lt;SVGFEMorphologyElementBuilder&gt;*) {#addfemorphology}
 
 Adds an 'feMorphology' element configuration to the builder. This element is used to apply morphological operations like dilation or erosion on the input image.
 

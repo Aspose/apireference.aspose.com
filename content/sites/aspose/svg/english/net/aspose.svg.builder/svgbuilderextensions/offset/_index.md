@@ -6,7 +6,7 @@ type: docs
 weight: 1180
 url: /net/aspose.svg.builder/svgbuilderextensions/offset/
 ---
-## SVGBuilderExtensions.Offset&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Offset<TBuilder> method
 
 Sets the 'offset' attribute for a component transfer function element.
 

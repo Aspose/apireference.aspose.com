@@ -6,7 +6,7 @@ type: docs
 weight: 880
 url: /net/aspose.svg.builder/svgbuilderextensions/fontkerning/
 ---
-## FontKerning&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#fontkerning_1}
+## FontKerning<TBuilder>(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#fontkerning_1}
 
 Sets the 'font-kerning' attribute for an SVG element using a numeric value and a specific length type.
 
@@ -38,7 +38,7 @@ The builder instance for chaining.
 
 ---
 
-## FontKerning&lt;TBuilder&gt;(*this TBuilder, [Kerning](../../kerning/)*) {#fontkerning}
+## FontKerning<TBuilder>(*this TBuilder, [Kerning](../../kerning/)*) {#fontkerning}
 
 Sets the 'font-kerning' attribute for an SVG element using a predefined kerning value.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 1020
 url: /net/aspose.svg.builder/svgbuilderextensions/id/
 ---
-## SVGBuilderExtensions.Id&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Id<TBuilder> method
 
 Sets the 'id' attribute, assigning a unique identifier to the SVG element.
 

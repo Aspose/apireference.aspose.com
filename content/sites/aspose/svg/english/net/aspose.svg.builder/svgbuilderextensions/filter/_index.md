@@ -6,7 +6,7 @@ type: docs
 weight: 840
 url: /net/aspose.svg.builder/svgbuilderextensions/filter/
 ---
-## SVGBuilderExtensions.Filter&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Filter<TBuilder> method
 
 Sets the 'filter' attribute for an SVG element using a custom configuration.
 

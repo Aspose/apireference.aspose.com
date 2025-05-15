@@ -6,7 +6,7 @@ type: docs
 weight: 470
 url: /net/aspose.svg.builder/svgbuilderextensions/addset/
 ---
-## SVGBuilderExtensions.AddSet&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddSet<TBuilder> method
 
 Adds a 'set' element configuration to the builder.
 

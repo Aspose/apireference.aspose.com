@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.svg.builder/svgelementbuilder-1/attribute/
 ---
-## SVGElementBuilder&lt;T&gt;.Attribute method
+## SVGElementBuilder<T>.Attribute method
 
 Adds an attribute configuration to the SVG element.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 1290
 url: /net/aspose.svg.builder/svgbuilderextensions/oncut/
 ---
-## SVGBuilderExtensions.OnCut&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnCut<TBuilder> method
 
 Sets the 'oncut' event attribute, defining a script to run when content is cut from the SVG element.
 

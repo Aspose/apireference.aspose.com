@@ -6,7 +6,7 @@ type: docs
 weight: 1030
 url: /net/aspose.svg.builder/svgbuilderextensions/imagerendering/
 ---
-## SVGBuilderExtensions.ImageRendering&lt;TBuilder&gt; method
+## SVGBuilderExtensions.ImageRendering<TBuilder> method
 
 Sets the 'image-rendering' attribute for an SVG element, specifying the rendering quality of images.
 

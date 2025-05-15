@@ -3,7 +3,7 @@ title: KeyboardEvent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Events.KeyboardEvent class. The KeyboardEvent interface provides specific contextual information associated with keyboard devices. Each keyboard event references a key using a value. Keyboard events are commonly directed at the element that has the focus
 type: docs
-weight: 3070
+weight: 2980
 url: /net/aspose.svg.dom.events/keyboardevent/
 ---
 ## KeyboardEvent class
@@ -19,7 +19,7 @@ public class KeyboardEvent : UIEvent
 | Name | Description |
 | --- | --- |
 | [KeyboardEvent](keyboardevent/#constructor)(*string*) | Initializes a new instance of the `KeyboardEvent` class. |
-| [KeyboardEvent](keyboardevent/#constructor_1)(*string, IDictionary&amp;lt;string, object&amp;gt;*) | Initializes a new instance of the `KeyboardEvent` class. |
+| [KeyboardEvent](keyboardevent/#constructor_1)(*string, IDictionary&lt;string, object&gt;*) | Initializes a new instance of the `KeyboardEvent` class. |
 
 ## Properties
 

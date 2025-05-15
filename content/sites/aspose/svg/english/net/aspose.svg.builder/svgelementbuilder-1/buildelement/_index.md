@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /net/aspose.svg.builder/svgelementbuilder-1/buildelement/
 ---
-## SVGElementBuilder&lt;T&gt;.BuildElement method
+## SVGElementBuilder<T>.BuildElement method
 
 Builds the SVG element as a generic SVGElement.
 

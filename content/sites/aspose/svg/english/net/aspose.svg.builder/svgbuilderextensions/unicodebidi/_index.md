@@ -6,7 +6,7 @@ type: docs
 weight: 2280
 url: /net/aspose.svg.builder/svgbuilderextensions/unicodebidi/
 ---
-## SVGBuilderExtensions.UnicodeBidi&lt;TBuilder&gt; method
+## SVGBuilderExtensions.UnicodeBidi<TBuilder> method
 
 Sets the 'unicode-bidi' attribute for an SVG element, defining how the bidirectional text should be handled.
 

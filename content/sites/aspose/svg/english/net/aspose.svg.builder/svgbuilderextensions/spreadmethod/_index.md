@@ -6,7 +6,7 @@ type: docs
 weight: 2050
 url: /net/aspose.svg.builder/svgbuilderextensions/spreadmethod/
 ---
-## SVGBuilderExtensions.SpreadMethod&lt;TBuilder&gt; method
+## SVGBuilderExtensions.SpreadMethod<TBuilder> method
 
 Sets the 'spreadMethod' attribute for a gradient element.
 

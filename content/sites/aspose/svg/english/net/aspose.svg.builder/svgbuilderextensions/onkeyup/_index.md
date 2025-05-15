@@ -6,7 +6,7 @@ type: docs
 weight: 1510
 url: /net/aspose.svg.builder/svgbuilderextensions/onkeyup/
 ---
-## SVGBuilderExtensions.OnKeyUp&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnKeyUp<TBuilder> method
 
 Sets the 'onkeyup' event attribute for handling keyup events on the element.
 

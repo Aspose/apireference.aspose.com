@@ -6,7 +6,7 @@ type: docs
 weight: 1990
 url: /net/aspose.svg.builder/svgbuilderextensions/result/
 ---
-## SVGBuilderExtensions.Result&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Result<TBuilder> method
 
 Sets the 'result' attribute for an SVG filter primitive.
 

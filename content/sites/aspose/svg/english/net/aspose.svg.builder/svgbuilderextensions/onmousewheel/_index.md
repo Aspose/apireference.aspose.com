@@ -6,7 +6,7 @@ type: docs
 weight: 1630
 url: /net/aspose.svg.builder/svgbuilderextensions/onmousewheel/
 ---
-## SVGBuilderExtensions.OnMouseWheel&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnMouseWheel<TBuilder> method
 
 Sets the 'onmousewheel' event attribute for handling mouse wheel events on the element.
 

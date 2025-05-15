@@ -6,7 +6,7 @@ type: docs
 weight: 1750
 url: /net/aspose.svg.builder/svgbuilderextensions/onseeking/
 ---
-## SVGBuilderExtensions.OnSeeking&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnSeeking<TBuilder> method
 
 Sets the 'onseeking' event attribute for handling events when a seek operation on media is started.
 

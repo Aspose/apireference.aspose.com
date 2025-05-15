@@ -6,7 +6,7 @@ type: docs
 weight: 580
 url: /net/aspose.svg.builder/svgbuilderextensions/amplitude/
 ---
-## SVGBuilderExtensions.Amplitude&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Amplitude<TBuilder> method
 
 Sets the 'amplitude' attribute for a component transfer function element.
 

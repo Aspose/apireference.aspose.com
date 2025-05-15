@@ -6,7 +6,7 @@ type: docs
 weight: 80
 url: /net/aspose.svg.builder/svgbuilderextensions/addclippath/
 ---
-## SVGBuilderExtensions.AddClipPath&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddClipPath<TBuilder> method
 
 Adds a 'clipPath' element configuration to the builder.
 

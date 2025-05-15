@@ -6,7 +6,7 @@ type: docs
 weight: 100
 url: /net/aspose.svg.builder/svgbuilderextensions/adddefs/
 ---
-## SVGBuilderExtensions.AddDefs&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddDefs<TBuilder> method
 
 Adds a 'defs' (definitions) element configuration to the builder.
 

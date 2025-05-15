@@ -6,7 +6,7 @@ type: docs
 weight: 2140
 url: /net/aspose.svg.builder/svgbuilderextensions/strokeopacity/
 ---
-## SVGBuilderExtensions.StrokeOpacity&lt;TBuilder&gt; method
+## SVGBuilderExtensions.StrokeOpacity<TBuilder> method
 
 Sets the 'stroke-opacity' attribute for an SVG element, defining the opacity of the stroke.
 

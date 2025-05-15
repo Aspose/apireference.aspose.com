@@ -6,7 +6,7 @@ type: docs
 weight: 2010
 url: /net/aspose.svg.builder/svgbuilderextensions/setattribute/
 ---
-## SVGBuilderExtensions.SetAttribute&lt;TBuilder&gt; method
+## SVGBuilderExtensions.SetAttribute<TBuilder> method
 
 Sets an attribute on the SVG element. This method is used to add or modify an attribute of the SVG element being built.
 

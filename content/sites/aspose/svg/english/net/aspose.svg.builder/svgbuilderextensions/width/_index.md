@@ -6,7 +6,7 @@ type: docs
 weight: 2330
 url: /net/aspose.svg.builder/svgbuilderextensions/width/
 ---
-## SVGBuilderExtensions.Width&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Width<TBuilder> method
 
 Sets the 'width' attribute for an SVG element.
 

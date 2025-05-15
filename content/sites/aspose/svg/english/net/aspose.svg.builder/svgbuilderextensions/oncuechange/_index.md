@@ -6,7 +6,7 @@ type: docs
 weight: 1280
 url: /net/aspose.svg.builder/svgbuilderextensions/oncuechange/
 ---
-## SVGBuilderExtensions.OnCueChange&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnCueChange<TBuilder> method
 
 Sets the 'oncuechange' event attribute for handling changes in the text track's active cues.
 

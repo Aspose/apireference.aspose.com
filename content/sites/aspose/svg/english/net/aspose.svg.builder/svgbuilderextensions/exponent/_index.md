@@ -6,7 +6,7 @@ type: docs
 weight: 800
 url: /net/aspose.svg.builder/svgbuilderextensions/exponent/
 ---
-## SVGBuilderExtensions.Exponent&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Exponent<TBuilder> method
 
 Sets the 'exponent' attribute for a component transfer function element.
 

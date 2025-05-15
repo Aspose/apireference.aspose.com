@@ -6,7 +6,7 @@ type: docs
 weight: 770
 url: /net/aspose.svg.builder/svgbuilderextensions/dx/
 ---
-## Dx&lt;TBuilder&gt;(*this TBuilder, [LengthType](../../lengthtype/), params double[]*) {#dx}
+## Dx<TBuilder>(*this TBuilder, [LengthType](../../lengthtype/), params double[]*) {#dx}
 
 Sets the 'dx' attribute to adjust the horizontal position of each character in the text.
 
@@ -42,7 +42,7 @@ This method allows fine control over the horizontal spacing of characters in the
 
 ---
 
-## Dx&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#dx_1}
+## Dx<TBuilder>(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#dx_1}
 
 Sets a single horizontal adjustment value for the text content.
 

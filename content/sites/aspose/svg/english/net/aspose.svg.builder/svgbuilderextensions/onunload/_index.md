@@ -6,7 +6,7 @@ type: docs
 weight: 1830
 url: /net/aspose.svg.builder/svgbuilderextensions/onunload/
 ---
-## SVGBuilderExtensions.OnUnload&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnUnload<TBuilder> method
 
 Sets the 'onunload' event attribute, defining a script to run when the SVG document is unloaded.
 

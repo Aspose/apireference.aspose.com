@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.svg.builder/oneof-2/match/
 ---
-## OneOf&lt;T1,T2&gt;.Match&lt;TResult&gt; method
+## OneOf<T1,T2>.Match<TResult> method
 
 Executes one of the provided functions based on the underlying type of the value.
 

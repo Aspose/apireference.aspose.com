@@ -6,7 +6,7 @@ type: docs
 weight: 1660
 url: /net/aspose.svg.builder/svgbuilderextensions/onplay/
 ---
-## SVGBuilderExtensions.OnPlay&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnPlay<TBuilder> method
 
 Sets the 'onplay' event attribute for handling play events, typically for media elements.
 

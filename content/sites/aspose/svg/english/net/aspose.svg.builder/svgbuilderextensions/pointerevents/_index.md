@@ -6,7 +6,7 @@ type: docs
 weight: 1900
 url: /net/aspose.svg.builder/svgbuilderextensions/pointerevents/
 ---
-## SVGBuilderExtensions.PointerEvents&lt;TBuilder&gt; method
+## SVGBuilderExtensions.PointerEvents<TBuilder> method
 
 Sets the 'pointer-events' attribute for an SVG element, defining how the element reacts to pointer events.
 

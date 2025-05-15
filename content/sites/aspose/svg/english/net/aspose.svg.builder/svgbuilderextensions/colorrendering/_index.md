@@ -6,7 +6,7 @@ type: docs
 weight: 710
 url: /net/aspose.svg.builder/svgbuilderextensions/colorrendering/
 ---
-## SVGBuilderExtensions.ColorRendering&lt;TBuilder&gt; method
+## SVGBuilderExtensions.ColorRendering<TBuilder> method
 
 Sets the 'color-rendering' attribute for an SVG element using a predefined enum value.
 

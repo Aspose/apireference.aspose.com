@@ -6,7 +6,7 @@ type: docs
 weight: 1010
 url: /net/aspose.svg.builder/svgbuilderextensions/href/
 ---
-## SVGBuilderExtensions.Href&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Href<TBuilder> method
 
 Sets the 'href' attribute for an SVG element, specifying a URL to link to.
 

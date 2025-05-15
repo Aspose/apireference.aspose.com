@@ -6,7 +6,7 @@ type: docs
 weight: 1220
 url: /net/aspose.svg.builder/svgbuilderextensions/oncanplay/
 ---
-## SVGBuilderExtensions.OnCanPlay&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnCanPlay<TBuilder> method
 
 Sets the 'oncanplay' event attribute for handling media playability checks.
 

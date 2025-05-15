@@ -6,7 +6,7 @@ type: docs
 weight: 1190
 url: /net/aspose.svg.builder/svgbuilderextensions/onabort/
 ---
-## SVGBuilderExtensions.OnAbort&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnAbort<TBuilder> method
 
 Sets the 'onabort' event attribute, defining a script to run when the loading of an SVG document is aborted.
 

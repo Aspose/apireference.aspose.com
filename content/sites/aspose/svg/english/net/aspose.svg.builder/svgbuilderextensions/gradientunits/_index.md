@@ -6,7 +6,7 @@ type: docs
 weight: 990
 url: /net/aspose.svg.builder/svgbuilderextensions/gradientunits/
 ---
-## SVGBuilderExtensions.GradientUnits&lt;TBuilder&gt; method
+## SVGBuilderExtensions.GradientUnits<TBuilder> method
 
 Sets the 'gradientUnits' attribute for a gradient element.
 

@@ -3,7 +3,7 @@ title: IBrush Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.IBrush interface. Declares method for getting of brush type
 type: docs
-weight: 3550
+weight: 3450
 url: /net/aspose.svg.drawing/ibrush/
 ---
 ## IBrush interface
@@ -18,14 +18,7 @@ public interface IBrush : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [SupportsShader](../../aspose.svg.drawing/ibrush/supportsshader/) { get; } | Checks if the brush supports a shader. |
 | [Type](../../aspose.svg.drawing/ibrush/type/) { get; } | Gets type of brush as [`BrushType`](../brushtype/). |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| [ToNative](../../aspose.svg.drawing/ibrush/tonative/)() | Converts the brush to a native representation. |
 
 ### See Also
 

@@ -11,7 +11,7 @@ url: /net/aspose.svg.drawing/ibitmap/getpixelsmap/
 Retrieves the pixel map representation of the bitmap image, optionally converting to monochrome and allowing transparency color conversion.
 
 ```csharp
-public IPixelsMap GetPixelsMap(bool convertToMonochrome, bool allowTransparencyColorConversion)
+public     GetPixelsMap(bool convertToMonochrome, bool allowTransparencyColorConversion)
 ```
 
 | Parameter | Type | Description |
@@ -21,11 +21,10 @@ public IPixelsMap GetPixelsMap(bool convertToMonochrome, bool allowTransparencyC
 
 ### Return Value
 
-The pixel map representation of the bitmap image [`IPixelsMap`](../../ipixelsmap/).
+The pixel map representation of the bitmap image IPixelsMap.
 
 ### See Also
 
-* interface [IPixelsMap](../../ipixelsmap/)
 * interface [IBitmap](../)
 * namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

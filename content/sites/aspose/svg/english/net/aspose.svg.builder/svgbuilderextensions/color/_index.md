@@ -6,7 +6,7 @@ type: docs
 weight: 670
 url: /net/aspose.svg.builder/svgbuilderextensions/color/
 ---
-## Color&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;ColorBuilder&amp;gt;*) {#color}
+## Color<TBuilder>(*this TBuilder, Action&lt;ColorBuilder&gt;*) {#color}
 
 Sets the 'color' attribute for an SVG element using a custom configuration.
 
@@ -36,7 +36,7 @@ The builder instance for chaining.
 
 ---
 
-## Color&lt;TBuilder&gt;(*this TBuilder, Color*) {#color_1}
+## Color<TBuilder>(*this TBuilder, Color*) {#color_1}
 
 Sets the 'color' attribute for an SVG element using a color value.
 

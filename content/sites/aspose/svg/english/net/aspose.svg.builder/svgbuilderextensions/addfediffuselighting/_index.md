@@ -6,7 +6,7 @@ type: docs
 weight: 180
 url: /net/aspose.svg.builder/svgbuilderextensions/addfediffuselighting/
 ---
-## AddFeDiffuseLighting&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEDistantLightElementBuilder&amp;gt;, Color?, double?, double?, OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFEDiffuseLightingElementBuilder&amp;gt;*) {#addfediffuselighting_1}
+## AddFeDiffuseLighting<TBuilder>(*this TBuilder, Action&lt;SVGFEDistantLightElementBuilder&gt;, Color?, double?, double?, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEDiffuseLightingElementBuilder&gt;*) {#addfediffuselighting_1}
 
 Adds an 'feDiffuseLighting' element to the SVG builder, applying a diffuse lighting effect using a specified light source.
 
@@ -63,7 +63,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeDiffuseLighting&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEPointLightElementBuilder&amp;gt;, Color?, double?, double?, OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFEDiffuseLightingElementBuilder&amp;gt;*) {#addfediffuselighting_2}
+## AddFeDiffuseLighting<TBuilder>(*this TBuilder, Action&lt;SVGFEPointLightElementBuilder&gt;, Color?, double?, double?, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEDiffuseLightingElementBuilder&gt;*) {#addfediffuselighting_2}
 
 Adds an 'feDiffuseLighting' element to the SVG builder, applying a diffuse lighting effect using a specified light source.
 
@@ -120,7 +120,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeDiffuseLighting&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFESpotLightElementBuilder&amp;gt;, Color?, double?, double?, OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFEDiffuseLightingElementBuilder&amp;gt;*) {#addfediffuselighting_3}
+## AddFeDiffuseLighting<TBuilder>(*this TBuilder, Action&lt;SVGFESpotLightElementBuilder&gt;, Color?, double?, double?, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEDiffuseLightingElementBuilder&gt;*) {#addfediffuselighting_3}
 
 Adds an 'feDiffuseLighting' element to the SVG builder, applying a diffuse lighting effect using a specified light source.
 
@@ -177,7 +177,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeDiffuseLighting&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEDiffuseLightingElementBuilder&amp;gt;*) {#addfediffuselighting}
+## AddFeDiffuseLighting<TBuilder>(*this TBuilder, Action&lt;SVGFEDiffuseLightingElementBuilder&gt;*) {#addfediffuselighting}
 
 Adds an 'feDiffuseLighting' element configuration to the builder. This element provides a lighting effect on an image.
 

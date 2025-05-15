@@ -6,7 +6,7 @@ type: docs
 weight: 1260
 url: /net/aspose.svg.builder/svgbuilderextensions/onclose/
 ---
-## SVGBuilderExtensions.OnClose&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnClose<TBuilder> method
 
 Sets the 'onclose' event attribute for handling close actions on dialog elements.
 

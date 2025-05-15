@@ -6,7 +6,7 @@ type: docs
 weight: 970
 url: /net/aspose.svg.builder/svgbuilderextensions/glyphorientationvertical/
 ---
-## SVGBuilderExtensions.GlyphOrientationVertical&lt;TBuilder&gt; method
+## SVGBuilderExtensions.GlyphOrientationVertical<TBuilder> method
 
 Sets the 'glyph-orientation-vertical' attribute for an SVG element, specifying the orientation of glyphs.
 

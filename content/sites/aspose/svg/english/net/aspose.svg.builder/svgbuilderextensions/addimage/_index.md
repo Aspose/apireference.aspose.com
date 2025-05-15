@@ -6,7 +6,7 @@ type: docs
 weight: 330
 url: /net/aspose.svg.builder/svgbuilderextensions/addimage/
 ---
-## AddImage&lt;TBuilder&gt;(*this TBuilder, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, string, Action&amp;lt;SVGImageElementBuilder&amp;gt;*) {#addimage_1}
+## AddImage<TBuilder>(*this TBuilder, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, string, Action&lt;SVGImageElementBuilder&gt;*) {#addimage_1}
 
 Adds an 'image' element to the SVG builder, embedding an external image into the SVG document.
 
@@ -48,7 +48,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddImage&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGImageElementBuilder&amp;gt;*) {#addimage}
+## AddImage<TBuilder>(*this TBuilder, Action&lt;SVGImageElementBuilder&gt;*) {#addimage}
 
 Adds an 'image' element configuration to the builder.
 

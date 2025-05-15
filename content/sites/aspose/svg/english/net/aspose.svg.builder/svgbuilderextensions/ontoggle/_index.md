@@ -6,7 +6,7 @@ type: docs
 weight: 1820
 url: /net/aspose.svg.builder/svgbuilderextensions/ontoggle/
 ---
-## SVGBuilderExtensions.OnToggle&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnToggle<TBuilder> method
 
 Sets the 'ontoggle' event attribute for handling events when the user toggles a control, like a `details` element.
 

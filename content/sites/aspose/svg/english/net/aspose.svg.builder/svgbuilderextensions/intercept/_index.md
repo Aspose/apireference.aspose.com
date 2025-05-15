@@ -6,7 +6,7 @@ type: docs
 weight: 1050
 url: /net/aspose.svg.builder/svgbuilderextensions/intercept/
 ---
-## SVGBuilderExtensions.Intercept&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Intercept<TBuilder> method
 
 Sets the 'intercept' attribute for a component transfer function element.
 

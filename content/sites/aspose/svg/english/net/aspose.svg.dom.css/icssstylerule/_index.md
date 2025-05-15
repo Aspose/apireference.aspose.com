@@ -3,7 +3,7 @@ title: ICSSStyleRule Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.ICSSStyleRule interface. The CSSStyleRule interface represents a single rule set in a CSS style sheet
 type: docs
-weight: 2720
+weight: 2650
 url: /net/aspose.svg.dom.css/icssstylerule/
 ---
 ## ICSSStyleRule interface

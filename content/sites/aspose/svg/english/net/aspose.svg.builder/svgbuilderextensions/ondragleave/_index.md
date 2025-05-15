@@ -6,7 +6,7 @@ type: docs
 weight: 1350
 url: /net/aspose.svg.builder/svgbuilderextensions/ondragleave/
 ---
-## SVGBuilderExtensions.OnDragLeave&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnDragLeave<TBuilder> method
 
 Sets the 'ondragleave' event attribute for handling the leaving of a dragged item from a valid drop target.
 

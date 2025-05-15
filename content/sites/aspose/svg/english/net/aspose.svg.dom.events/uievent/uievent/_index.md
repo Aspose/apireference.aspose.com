@@ -26,7 +26,7 @@ public UIEvent(string type)
 
 ---
 
-## UIEvent(*string, IDictionary&amp;lt;string, object&amp;gt;*) {#constructor_1}
+## UIEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
 Initializes a new instance of the [`UIEvent`](../) class.
 

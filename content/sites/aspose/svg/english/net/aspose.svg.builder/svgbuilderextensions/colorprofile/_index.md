@@ -6,7 +6,7 @@ type: docs
 weight: 700
 url: /net/aspose.svg.builder/svgbuilderextensions/colorprofile/
 ---
-## SVGBuilderExtensions.ColorProfile&lt;TBuilder&gt; method
+## SVGBuilderExtensions.ColorProfile<TBuilder> method
 
 Sets the 'color-profile' attribute for an SVG element.
 

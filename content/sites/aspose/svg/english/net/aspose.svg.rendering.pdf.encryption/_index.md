@@ -3,7 +3,7 @@ title: Aspose.Svg.Rendering.Pdf.Encryption
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Rendering.Pdf.Encryption namespace contains data classes describing pdf encryption details like password encryption algorithm and so on
 type: docs
-weight: 310
+weight: 300
 url: /net/aspose.svg.rendering.pdf.encryption/
 ---
 The **Aspose.Svg.Rendering.Pdf.Encryption** namespace contains data classes describing pdf encryption details like password, encryption algorithm and so on.

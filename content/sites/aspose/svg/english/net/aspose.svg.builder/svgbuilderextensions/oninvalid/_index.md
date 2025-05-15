@@ -6,7 +6,7 @@ type: docs
 weight: 1480
 url: /net/aspose.svg.builder/svgbuilderextensions/oninvalid/
 ---
-## SVGBuilderExtensions.OnInvalid&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnInvalid<TBuilder> method
 
 Sets the 'oninvalid' event attribute for handling invalid events on form elements.
 

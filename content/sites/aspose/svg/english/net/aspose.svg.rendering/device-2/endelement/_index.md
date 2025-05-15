@@ -6,12 +6,12 @@ type: docs
 weight: 160
 url: /net/aspose.svg.rendering/device-2/endelement/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndElement method
+## Device<TGraphicContext,TRenderingOptions>.EndElement method
 
 Ends rendering of the node.
 
 ```csharp
-public abstract void EndElement(Element element)
+public virtual void EndElement(Element element)
 ```
 
 | Parameter | Type | Description |

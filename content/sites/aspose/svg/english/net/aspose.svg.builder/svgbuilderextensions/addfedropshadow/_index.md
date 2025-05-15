@@ -6,7 +6,7 @@ type: docs
 weight: 200
 url: /net/aspose.svg.builder/svgbuilderextensions/addfedropshadow/
 ---
-## AddFeDropShadow&lt;TBuilder&gt;(*this TBuilder, double?, double?, OneOf&amp;lt;double, (double, double)&amp;gt;, OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFEDropShadowElementBuilder&amp;gt;*) {#addfedropshadow_1}
+## AddFeDropShadow<TBuilder>(*this TBuilder, double?, double?, OneOf&lt;double, (double, double)&gt;, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEDropShadowElementBuilder&gt;*) {#addfedropshadow_1}
 
 Adds an 'feDropShadow' element to the SVG builder, creating a drop shadow effect for the input graphic.
 
@@ -60,7 +60,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeDropShadow&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEDropShadowElementBuilder&amp;gt;*) {#addfedropshadow}
+## AddFeDropShadow<TBuilder>(*this TBuilder, Action&lt;SVGFEDropShadowElementBuilder&gt;*) {#addfedropshadow}
 
 Adds an 'feDropShadow' element configuration to the builder. This element creates a drop shadow effect.
 

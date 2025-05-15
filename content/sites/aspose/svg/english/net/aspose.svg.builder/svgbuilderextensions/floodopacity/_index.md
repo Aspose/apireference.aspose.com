@@ -6,7 +6,7 @@ type: docs
 weight: 860
 url: /net/aspose.svg.builder/svgbuilderextensions/floodopacity/
 ---
-## SVGBuilderExtensions.FloodOpacity&lt;TBuilder&gt; method
+## SVGBuilderExtensions.FloodOpacity<TBuilder> method
 
 Sets the 'flood-opacity' attribute for an SVG element. Value must be between 0.0 (fully transparent) and 1.0 (fully opaque).
 

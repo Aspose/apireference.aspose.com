@@ -18,6 +18,8 @@ public static class Converter
 
 | Name | Description |
 | --- | --- |
+| static [ConvertImageToSVG](../../aspose.svg.converters/converter/convertimagetosvg/#convertimagetosvg)(*[ImageVectorizerConfiguration](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/), Stream, string*) | Converts a raster image provided as a Stream to SVG format. |
+| static [ConvertImageToSVG](../../aspose.svg.converters/converter/convertimagetosvg/#convertimagetosvg_1)(*[ImageVectorizerConfiguration](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/), string, string*) | Converts a raster image located on disk to SVG format. |
 | static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_24)(*string, [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | Convert svg source to image. Result is image file. |
 | static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_25)(*string, [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), string*) | Convert svg document to image. Result is image file. |
 | static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_26)(*string, [PdfSaveOptions](../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | Convert svg source to pdf. Result is pdf file. |

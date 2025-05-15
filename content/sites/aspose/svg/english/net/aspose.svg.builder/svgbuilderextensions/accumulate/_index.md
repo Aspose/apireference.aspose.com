@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.svg.builder/svgbuilderextensions/accumulate/
 ---
-## SVGBuilderExtensions.Accumulate&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Accumulate<TBuilder> method
 
 ```csharp
 public static TBuilder Accumulate<TBuilder>(this TBuilder builder,    value)

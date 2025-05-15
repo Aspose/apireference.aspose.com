@@ -6,7 +6,7 @@ type: docs
 weight: 220
 url: /net/aspose.svg.builder/svgbuilderextensions/addfegaussianblur/
 ---
-## AddFeGaussianBlur&lt;TBuilder&gt;(*this TBuilder, OneOf&amp;lt;double, (double, double)&amp;gt;, OneOf&amp;lt;string, FilterInput&amp;gt;, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFEGaussianBlurElementBuilder&amp;gt;*) {#addfegaussianblur}
+## AddFeGaussianBlur<TBuilder>(*this TBuilder, OneOf&lt;double, (double, double)&gt;, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEGaussianBlurElementBuilder&gt;*) {#addfegaussianblur}
 
 Adds an 'feGaussianBlur' element to the SVG builder, applying a Gaussian blur effect to the input image.
 
@@ -57,7 +57,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeGaussianBlur&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEGaussianBlurElementBuilder&amp;gt;*) {#addfegaussianblur_1}
+## AddFeGaussianBlur<TBuilder>(*this TBuilder, Action&lt;SVGFEGaussianBlurElementBuilder&gt;*) {#addfegaussianblur_1}
 
 Adds an 'feGaussianBlur' element configuration to the builder. This element applies a Gaussian blur to the input image.
 

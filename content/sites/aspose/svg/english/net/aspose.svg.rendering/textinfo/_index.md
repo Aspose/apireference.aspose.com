@@ -3,7 +3,7 @@ title: TextInfo Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.TextInfo class. Contains information about rendered text
 type: docs
-weight: 5400
+weight: 5120
 url: /net/aspose.svg.rendering/textinfo/
 ---
 ## TextInfo class

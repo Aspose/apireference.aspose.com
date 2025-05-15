@@ -6,7 +6,7 @@ type: docs
 weight: 2290
 url: /net/aspose.svg.builder/svgbuilderextensions/values/
 ---
-## SVGBuilderExtensions.Values&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Values<TBuilder> method
 
 Sets the 'values' attribute, specifying the set of values to be used over the course of the animation.
 

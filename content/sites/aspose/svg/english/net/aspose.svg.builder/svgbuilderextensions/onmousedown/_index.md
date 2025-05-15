@@ -6,7 +6,7 @@ type: docs
 weight: 1560
 url: /net/aspose.svg.builder/svgbuilderextensions/onmousedown/
 ---
-## SVGBuilderExtensions.OnMouseDown&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnMouseDown<TBuilder> method
 
 Sets the 'onmousedown' event attribute for handling mouse down events on the element.
 

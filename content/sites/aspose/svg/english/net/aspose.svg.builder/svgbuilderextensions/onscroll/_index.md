@@ -6,7 +6,7 @@ type: docs
 weight: 1730
 url: /net/aspose.svg.builder/svgbuilderextensions/onscroll/
 ---
-## SVGBuilderExtensions.OnScroll&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnScroll<TBuilder> method
 
 Sets the 'onscroll' event attribute for handling scroll events on the element.
 

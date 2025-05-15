@@ -32,7 +32,7 @@ public class SVGFEFloodElementBuilder : SVGElementBuilder<SVGFEFloodElement>,
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfefloodelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feFlood element. |
+| [AddScript](../../aspose.svg.builder/svgfefloodelementbuilder/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script configuration to the feFlood element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEFloodElement](../../aspose.svg.filters/svgfefloodelement/)*) |  |

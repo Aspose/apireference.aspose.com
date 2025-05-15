@@ -3,7 +3,7 @@ title: Angle Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.Angle class. The angle data type
 type: docs
-weight: 3460
+weight: 3370
 url: /net/aspose.svg.drawing/angle/
 ---
 ## Angle class
@@ -33,11 +33,11 @@ public sealed class Angle : Dimension
 | override [ToString](../../aspose.svg.drawing/dimension/tostring/)() | Returns a String that represents this instance. |
 | [operator +](../../aspose.svg.drawing/angle/op_addition/) | Implements the operator +. |
 | [operator ==](../../aspose.svg.drawing/angle/op_equality/) | Implements the operator ==. |
-| [operator &gt;](../../aspose.svg.drawing/angle/op_greaterthan/) | Implements the operator &gt;. |
-| [operator &gt;=](../../aspose.svg.drawing/angle/op_greaterthanorequal/) | Implements the operator &gt;=. |
+| [operator >](../../aspose.svg.drawing/angle/op_greaterthan/) | Implements the operator &gt;. |
+| [operator >=](../../aspose.svg.drawing/angle/op_greaterthanorequal/) | Implements the operator &gt;=. |
 | [operator !=](../../aspose.svg.drawing/angle/op_inequality/) | Implements the operator !=. |
-| [operator &lt;](../../aspose.svg.drawing/angle/op_lessthan/) | Implements the operator &lt;. |
-| [operator &lt;=](../../aspose.svg.drawing/angle/op_lessthanorequal/) | Implements the operator &lt;=. |
+| [operator <](../../aspose.svg.drawing/angle/op_lessthan/) | Implements the operator &lt;. |
+| [operator <=](../../aspose.svg.drawing/angle/op_lessthanorequal/) | Implements the operator &lt;=. |
 | [operator -](../../aspose.svg.drawing/angle/op_subtraction/) | Implements the operator -. |
 
 ### See Also

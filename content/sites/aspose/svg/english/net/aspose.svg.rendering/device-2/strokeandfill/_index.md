@@ -6,12 +6,12 @@ type: docs
 weight: 260
 url: /net/aspose.svg.rendering/device-2/strokeandfill/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeAndFill method
+## Device<TGraphicContext,TRenderingOptions>.StrokeAndFill method
 
 Strokes and fill current path. This method terminates current path.
 
 ```csharp
-public abstract void StrokeAndFill(FillRule rule)
+public virtual void StrokeAndFill(FillRule rule)
 ```
 
 | Parameter | Type | Description |

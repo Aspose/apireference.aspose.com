@@ -36,7 +36,7 @@ public class SVGPathElementBuilder : SVGElementBuilder<SVGPathElement>, IAnimati
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGPathElement](../../aspose.svg/svgpathelement/)*) |  |
 | [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
-| [D](../../aspose.svg.builder/svgpathelementbuilder/d/)(*Action&amp;lt;PathBuilder&amp;gt;*) | Sets the 'd' attribute of the SVG 'path' element, which defines the shape of the path. |
+| [D](../../aspose.svg.builder/svgpathelementbuilder/d/)(*Action&lt;PathBuilder&gt;*) | Sets the 'd' attribute of the SVG 'path' element, which defines the shape of the path. |
 
 ### See Also
 

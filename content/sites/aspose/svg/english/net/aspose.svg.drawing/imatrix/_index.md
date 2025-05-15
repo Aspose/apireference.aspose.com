@@ -3,7 +3,7 @@ title: IMatrix Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.IMatrix interface. Represents a matrix used for transformations
 type: docs
-weight: 3620
+weight: 3510
 url: /net/aspose.svg.drawing/imatrix/
 ---
 ## IMatrix interface
@@ -44,7 +44,6 @@ public interface IMatrix
 | [Scale](../../aspose.svg.drawing/imatrix/scale/#scale)(*float, float*) | Scales the matrix by the specified scale factors uniformly. |
 | [Scale](../../aspose.svg.drawing/imatrix/scale/#scale_1)(*float, float, [WebMatrixOrder](../webmatrixorder/)*) | Scales the matrix by the specified scale factors in the specified order. |
 | [Skew](../../aspose.svg.drawing/imatrix/skew/)(*float, float*) | Applies a skew transformation to the matrix. |
-| [ToNative](../../aspose.svg.drawing/imatrix/tonative/)() | Converts the matrix to a native representation. |
 | [TransformPoint](../../aspose.svg.drawing/imatrix/transformpoint/)(*PointF*) | Transforms the specified point using this matrix. |
 | [TransformPoints](../../aspose.svg.drawing/imatrix/transformpoints/)(*PointF[]*) | Transforms an array of points using this matrix. |
 | [TransformRectangle](../../aspose.svg.drawing/imatrix/transformrectangle/)(*RectangleF*) | Transforms the specified rectangle using this matrix. |

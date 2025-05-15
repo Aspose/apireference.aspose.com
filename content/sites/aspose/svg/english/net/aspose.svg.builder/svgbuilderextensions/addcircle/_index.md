@@ -6,7 +6,7 @@ type: docs
 weight: 70
 url: /net/aspose.svg.builder/svgbuilderextensions/addcircle/
 ---
-## AddCircle&lt;TBuilder&gt;(*this TBuilder, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGCircleElementBuilder&amp;gt;*) {#addcircle}
+## AddCircle<TBuilder>(*this TBuilder, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGCircleElementBuilder&gt;*) {#addcircle}
 
 Adds a 'circle' element with specified center, radius, and styles to the SVG builder.
 
@@ -50,7 +50,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddCircle&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGCircleElementBuilder&amp;gt;*) {#addcircle_1}
+## AddCircle<TBuilder>(*this TBuilder, Action&lt;SVGCircleElementBuilder&gt;*) {#addcircle_1}
 
 Adds a 'circle' element configuration to the builder.
 

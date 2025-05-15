@@ -6,7 +6,7 @@ type: docs
 weight: 1130
 url: /net/aspose.svg.builder/svgbuilderextensions/markermid/
 ---
-## MarkerMid&lt;TBuilder&gt;(*this TBuilder, string*) {#markermid_1}
+## MarkerMid<TBuilder>(*this TBuilder, string*) {#markermid_1}
 
 Sets the 'marker-mid' attribute for an SVG element, specifying the marker at the mid points of a path.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## MarkerMid&lt;TBuilder&gt;(*this TBuilder, [MarkerPos](../../markerpos/)*) {#markermid}
+## MarkerMid<TBuilder>(*this TBuilder, [MarkerPos](../../markerpos/)*) {#markermid}
 
 Sets the 'marker-mid' attribute for an SVG element using a predefined marker position.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 310
 url: /net/aspose.svg.builder/svgbuilderextensions/addforeignobject/
 ---
-## SVGBuilderExtensions.AddForeignObject&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddForeignObject<TBuilder> method
 
 Adds a 'foreignObject' element configuration to the builder.
 

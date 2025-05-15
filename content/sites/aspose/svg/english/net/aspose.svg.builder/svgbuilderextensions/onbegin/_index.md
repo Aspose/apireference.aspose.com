@@ -6,7 +6,7 @@ type: docs
 weight: 1200
 url: /net/aspose.svg.builder/svgbuilderextensions/onbegin/
 ---
-## SVGBuilderExtensions.OnBegin&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnBegin<TBuilder> method
 
 Sets the 'onbegin' attribute, defining a script to be run at the start of the animation.
 

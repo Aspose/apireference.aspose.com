@@ -6,7 +6,7 @@ type: docs
 weight: 1910
 url: /net/aspose.svg.builder/svgbuilderextensions/points/
 ---
-## Points&lt;TBuilder&gt;(*this TBuilder, params double[]*) {#points}
+## Points<TBuilder>(*this TBuilder, params double[]*) {#points}
 
 Sets the 'points' attribute for an SVG element using an array of doubles.
 
@@ -41,7 +41,7 @@ The builder instance for chaining.
 
 ---
 
-## Points&lt;TBuilder&gt;(*this TBuilder, params PointF[]*) {#points_1}
+## Points<TBuilder>(*this TBuilder, params PointF[]*) {#points_1}
 
 Sets the 'points' attribute for an SVG element using an array of PointF objects.
 

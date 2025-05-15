@@ -6,7 +6,7 @@ type: docs
 weight: 2240
 url: /net/aspose.svg.builder/svgbuilderextensions/textrendering/
 ---
-## SVGBuilderExtensions.TextRendering&lt;TBuilder&gt; method
+## SVGBuilderExtensions.TextRendering<TBuilder> method
 
 Sets the 'text-rendering' attribute for an SVG element, providing hints to the renderer about what trade-offs to make when rendering text.
 

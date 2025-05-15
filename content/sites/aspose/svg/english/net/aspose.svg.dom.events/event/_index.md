@@ -3,7 +3,7 @@ title: Event Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Events.Event class. The Event is used to provide contextual information about an event to the handler processing the event
 type: docs
-weight: 3010
+weight: 2920
 url: /net/aspose.svg.dom.events/event/
 ---
 ## Event class
@@ -19,7 +19,7 @@ public class Event : DOMObject
 | Name | Description |
 | --- | --- |
 | [Event](event/#constructor)(*string*) | Initializes a new instance of the `Event` class. |
-| [Event](event/#constructor_1)(*string, IDictionary&amp;lt;string, object&amp;gt;*) | Initializes a new instance of the `Event` class. |
+| [Event](event/#constructor_1)(*string, IDictionary&lt;string, object&gt;*) | Initializes a new instance of the `Event` class. |
 
 ## Properties
 

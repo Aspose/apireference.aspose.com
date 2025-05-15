@@ -6,7 +6,7 @@ type: docs
 weight: 2120
 url: /net/aspose.svg.builder/svgbuilderextensions/strokelinejoin/
 ---
-## SVGBuilderExtensions.StrokeLineJoin&lt;TBuilder&gt; method
+## SVGBuilderExtensions.StrokeLineJoin<TBuilder> method
 
 Sets the 'stroke-linejoin' attribute for an SVG element, defining the shape used to join two line segments where they meet.
 

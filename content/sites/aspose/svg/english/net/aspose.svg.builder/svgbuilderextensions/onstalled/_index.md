@@ -6,7 +6,7 @@ type: docs
 weight: 1780
 url: /net/aspose.svg.builder/svgbuilderextensions/onstalled/
 ---
-## SVGBuilderExtensions.OnStalled&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnStalled<TBuilder> method
 
 Sets the 'onstalled' event attribute for handling events when media data transfer is unexpectedly halted.
 

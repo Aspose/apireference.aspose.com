@@ -3,7 +3,7 @@ title: MessageFilter Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.MessageFilter class. Represents abstract base class for different classes of filters used to query messages
 type: docs
-weight: 4540
+weight: 4410
 url: /net/aspose.svg.net/messagefilter/
 ---
 ## MessageFilter class

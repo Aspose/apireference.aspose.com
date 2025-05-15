@@ -32,9 +32,9 @@ public class SVGTextElementBuilder : SVGElementBuilder<SVGTextElement>, IAnimati
 
 | Name | Description |
 | --- | --- |
-| [AddA](../../aspose.svg.builder/svgtextelementbuilder/adda/)(*Action&amp;lt;SVGAElementBuilder&amp;gt;*) | Adds an 'a' (anchor) element to the text element, enabling hyperlinking parts of the text. |
-| [AddTextPath](../../aspose.svg.builder/svgtextelementbuilder/addtextpath/)(*Action&amp;lt;SVGTextPathElementBuilder&amp;gt;*) | Adds a 'textPath' element to the text element, allowing the text to follow a defined path. |
-| [AddTSpan](../../aspose.svg.builder/svgtextelementbuilder/addtspan/)(*Action&amp;lt;SVGTSpanElementBuilder&amp;gt;*) | Adds a 'tspan' element to the text element, allowing for fine control over individual sections of the text. |
+| [AddA](../../aspose.svg.builder/svgtextelementbuilder/adda/)(*Action&lt;SVGAElementBuilder&gt;*) | Adds an 'a' (anchor) element to the text element, enabling hyperlinking parts of the text. |
+| [AddTextPath](../../aspose.svg.builder/svgtextelementbuilder/addtextpath/)(*Action&lt;SVGTextPathElementBuilder&gt;*) | Adds a 'textPath' element to the text element, allowing the text to follow a defined path. |
+| [AddTSpan](../../aspose.svg.builder/svgtextelementbuilder/addtspan/)(*Action&lt;SVGTSpanElementBuilder&gt;*) | Adds a 'tspan' element to the text element, allowing for fine control over individual sections of the text. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGTextElement](../../aspose.svg/svgtextelement/)*) |  |

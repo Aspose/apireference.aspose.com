@@ -6,7 +6,7 @@ type: docs
 weight: 240
 url: /net/aspose.svg.builder/svgbuilderextensions/addfemerge/
 ---
-## SVGBuilderExtensions.AddFeMerge&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddFeMerge<TBuilder> method
 
 Adds an 'feMerge' element configuration to the builder. This element allows filter effects to be applied concurrently instead of sequentially.
 

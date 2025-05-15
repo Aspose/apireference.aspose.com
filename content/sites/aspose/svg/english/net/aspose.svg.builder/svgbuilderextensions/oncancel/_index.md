@@ -6,7 +6,7 @@ type: docs
 weight: 1210
 url: /net/aspose.svg.builder/svgbuilderextensions/oncancel/
 ---
-## SVGBuilderExtensions.OnCancel&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnCancel<TBuilder> method
 
 Sets the 'oncancel' event attribute for handling user cancellation actions.
 

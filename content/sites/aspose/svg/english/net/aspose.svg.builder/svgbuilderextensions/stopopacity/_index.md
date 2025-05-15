@@ -6,7 +6,7 @@ type: docs
 weight: 2070
 url: /net/aspose.svg.builder/svgbuilderextensions/stopopacity/
 ---
-## SVGBuilderExtensions.StopOpacity&lt;TBuilder&gt; method
+## SVGBuilderExtensions.StopOpacity<TBuilder> method
 
 Sets the 'stop-opacity' attribute for an SVG element, defining the opacity at a gradient stop.
 

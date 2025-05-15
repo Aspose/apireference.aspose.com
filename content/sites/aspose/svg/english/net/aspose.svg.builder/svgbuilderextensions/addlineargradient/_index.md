@@ -6,7 +6,7 @@ type: docs
 weight: 360
 url: /net/aspose.svg.builder/svgbuilderextensions/addlineargradient/
 ---
-## AddLinearGradient&lt;TBuilder&gt;(*this TBuilder, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, CoordinateUnits?, SpreadMethod?, string, string, Action&amp;lt;SVGLinearGradientElementBuilder&amp;gt;*) {#addlineargradient}
+## AddLinearGradient<TBuilder>(*this TBuilder, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, CoordinateUnits?, SpreadMethod?, string, string, Action&lt;SVGLinearGradientElementBuilder&gt;*) {#addlineargradient}
 
 Adds a 'linearGradient' element to the SVG builder, specifying its start and end positions, along with other gradient properties.
 
@@ -52,7 +52,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddLinearGradient&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGLinearGradientElementBuilder&amp;gt;*) {#addlineargradient_1}
+## AddLinearGradient<TBuilder>(*this TBuilder, Action&lt;SVGLinearGradientElementBuilder&gt;*) {#addlineargradient_1}
 
 Adds a 'linearGradient' element configuration to the builder.
 

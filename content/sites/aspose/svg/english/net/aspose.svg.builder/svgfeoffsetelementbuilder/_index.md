@@ -32,7 +32,7 @@ public class SVGFEOffsetElementBuilder : SVGElementBuilder<SVGFEOffsetElement>,
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfeoffsetelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feOffset element. |
+| [AddScript](../../aspose.svg.builder/svgfeoffsetelementbuilder/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script configuration to the feOffset element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEOffsetElement](../../aspose.svg.filters/svgfeoffsetelement/)*) |  |

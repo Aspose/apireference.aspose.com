@@ -3,7 +3,7 @@ title: IUserAgentService Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Services.IUserAgentService interface. An interface that is described a user agent environment
 type: docs
-weight: 6160
+weight: 5870
 url: /net/aspose.svg.services/iuseragentservice/
 ---
 ## IUserAgentService interface

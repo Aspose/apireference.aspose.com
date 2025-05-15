@@ -6,7 +6,7 @@ type: docs
 weight: 2250
 url: /net/aspose.svg.builder/svgbuilderextensions/to/
 ---
-## SVGBuilderExtensions.To&lt;TBuilder&gt; method
+## SVGBuilderExtensions.To<TBuilder> method
 
 Sets the 'to' attribute, defining the ending value of the animation with a specified length type.
 

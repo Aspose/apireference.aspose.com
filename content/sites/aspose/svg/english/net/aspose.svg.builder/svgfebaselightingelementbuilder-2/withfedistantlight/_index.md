@@ -6,7 +6,7 @@ type: docs
 weight: 30
 url: /net/aspose.svg.builder/svgfebaselightingelementbuilder-2/withfedistantlight/
 ---
-## SVGFEBaseLightingElementBuilder&lt;TElement,TBuilder&gt;.WithFeDistantLight method
+## SVGFEBaseLightingElementBuilder<TElement,TBuilder>.WithFeDistantLight method
 
 Configures a distant light source for the filter effect.
 

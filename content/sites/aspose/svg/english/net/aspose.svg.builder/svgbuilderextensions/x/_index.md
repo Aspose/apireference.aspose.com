@@ -6,7 +6,7 @@ type: docs
 weight: 2360
 url: /net/aspose.svg.builder/svgbuilderextensions/x/
 ---
-## X&lt;TBuilder&gt;(*this TBuilder, [LengthType](../../lengthtype/), params double[]*) {#x}
+## X<TBuilder>(*this TBuilder, [LengthType](../../lengthtype/), params double[]*) {#x}
 
 Sets the 'x' attribute for positioning the text content along the x-axis.
 
@@ -42,7 +42,7 @@ This method sets the 'x' attribute, which determines the horizontal position(s) 
 
 ---
 
-## X&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#x_1}
+## X<TBuilder>(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#x_1}
 
 Sets the 'x' attribute for an SVG element.
 

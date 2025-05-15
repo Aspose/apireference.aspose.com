@@ -6,7 +6,7 @@ type: docs
 weight: 2160
 url: /net/aspose.svg.builder/svgbuilderextensions/style/
 ---
-## Style&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;RuleBuilder&amp;gt;*) {#style}
+## Style<TBuilder>(*this TBuilder, Action&lt;RuleBuilder&gt;*) {#style}
 
 Sets the 'style' attribute using a rule builder to define CSS styles.
 
@@ -36,7 +36,7 @@ The builder instance for chaining.
 
 ---
 
-## Style&lt;TBuilder&gt;(*this TBuilder, string*) {#style_1}
+## Style<TBuilder>(*this TBuilder, string*) {#style_1}
 
 Sets the 'style' attribute, defining inline CSS styles for the SVG element.
 

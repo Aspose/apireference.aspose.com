@@ -6,7 +6,7 @@ type: docs
 weight: 210
 url: /net/aspose.svg.builder/svgbuilderextensions/addfeflood/
 ---
-## AddFeFlood&lt;TBuilder&gt;(*this TBuilder, Color?, double?, string, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;double, (double, LengthType)&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, OneOf&amp;lt;Color, Paint, string&amp;gt;, string, Action&amp;lt;SVGFEFloodElementBuilder&amp;gt;*) {#addfeflood_1}
+## AddFeFlood<TBuilder>(*this TBuilder, Color?, double?, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEFloodElementBuilder&gt;*) {#addfeflood_1}
 
 Adds an 'feFlood' element to the SVG builder, creating a uniform flood color effect over the entire filter subregion.
 
@@ -56,7 +56,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeFlood&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;SVGFEFloodElementBuilder&amp;gt;*) {#addfeflood}
+## AddFeFlood<TBuilder>(*this TBuilder, Action&lt;SVGFEFloodElementBuilder&gt;*) {#addfeflood}
 
 Adds an 'feFlood' element configuration to the builder. This element fills the filter subregion with a specified color.
 

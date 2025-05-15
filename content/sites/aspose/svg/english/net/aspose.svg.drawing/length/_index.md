@@ -3,7 +3,7 @@ title: Length Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.Length class. Represents a length measurement unit
 type: docs
-weight: 3680
+weight: 3560
 url: /net/aspose.svg.drawing/length/
 ---
 ## Length class
@@ -33,11 +33,11 @@ public sealed class Length : Dimension
 | override [ToString](../../aspose.svg.drawing/dimension/tostring/)() | Returns a String that represents this instance. |
 | [operator +](../../aspose.svg.drawing/length/op_addition/) | Implements the operator +. |
 | [operator ==](../../aspose.svg.drawing/length/op_equality/) | Implements the operator ==. |
-| [operator &gt;](../../aspose.svg.drawing/length/op_greaterthan/) | Implements the operator &gt;. |
-| [operator &gt;=](../../aspose.svg.drawing/length/op_greaterthanorequal/) | Implements the operator &gt;=. |
+| [operator >](../../aspose.svg.drawing/length/op_greaterthan/) | Implements the operator &gt;. |
+| [operator >=](../../aspose.svg.drawing/length/op_greaterthanorequal/) | Implements the operator &gt;=. |
 | [operator !=](../../aspose.svg.drawing/length/op_inequality/) | Implements the operator !=. |
-| [operator &lt;](../../aspose.svg.drawing/length/op_lessthan/) | Implements the operator &lt;. |
-| [operator &lt;=](../../aspose.svg.drawing/length/op_lessthanorequal/) | Implements the operator &lt;=. |
+| [operator <](../../aspose.svg.drawing/length/op_lessthan/) | Implements the operator &lt;. |
+| [operator <=](../../aspose.svg.drawing/length/op_lessthanorequal/) | Implements the operator &lt;=. |
 | [operator -](../../aspose.svg.drawing/length/op_subtraction/) | Implements the operator -. |
 
 ### See Also

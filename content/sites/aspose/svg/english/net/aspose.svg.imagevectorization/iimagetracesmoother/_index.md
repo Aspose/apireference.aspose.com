@@ -3,7 +3,7 @@ title: IImageTraceSmoother Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.ImageVectorization.IImageTraceSmoother interface. The IImageTraceSmoother interface is responsible for smoothing trace
 type: docs
-weight: 4320
+weight: 4190
 url: /net/aspose.svg.imagevectorization/iimagetracesmoother/
 ---
 ## IImageTraceSmoother interface
@@ -18,7 +18,7 @@ public interface IImageTraceSmoother
 
 | Name | Description |
 | --- | --- |
-| [Smooth](../../aspose.svg.imagevectorization/iimagetracesmoother/smooth/)(*IEnumerable&amp;lt;PointF&amp;gt;*) | Smoothes trace. |
+| [Smooth](../../aspose.svg.imagevectorization/iimagetracesmoother/smooth/)(*IEnumerable&lt;PointF&gt;*) | Smoothes trace. |
 
 ### See Also
 

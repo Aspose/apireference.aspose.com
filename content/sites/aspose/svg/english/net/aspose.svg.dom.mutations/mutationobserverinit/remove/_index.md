@@ -6,7 +6,7 @@ type: docs
 weight: 200
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/remove/
 ---
-## Remove(*KeyValuePair&amp;lt;string, object&amp;gt;*) {#remove}
+## Remove(*KeyValuePair&lt;string, object&gt;*) {#remove}
 
 Removes the specified key/value pair from the [`MutationObserverInit`](../) collection.
 

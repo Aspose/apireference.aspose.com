@@ -6,7 +6,7 @@ type: docs
 weight: 600
 url: /net/aspose.svg.builder/svgbuilderextensions/baselineshift/
 ---
-## BaselineShift&lt;TBuilder&gt;(*this TBuilder, [BaseLineShift](../../baselineshift/)*) {#baselineshift}
+## BaselineShift<TBuilder>(*this TBuilder, [BaseLineShift](../../baselineshift/)*) {#baselineshift}
 
 Sets the 'baseline-shift' attribute for an SVG element using a predefined value.
 
@@ -36,7 +36,7 @@ The builder instance for chaining.
 
 ---
 
-## BaselineShift&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#baselineshift_1}
+## BaselineShift<TBuilder>(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#baselineshift_1}
 
 Sets the 'baseline-shift' attribute for an SVG element using a numeric value.
 

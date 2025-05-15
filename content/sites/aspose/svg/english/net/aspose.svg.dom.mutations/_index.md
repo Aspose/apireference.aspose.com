@@ -3,7 +3,7 @@ title: Aspose.Svg.Dom.Mutations
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Dom.Mutations provides opportunity to observe DOM mutations and getting specific callback information
 type: docs
-weight: 120
+weight: 110
 url: /net/aspose.svg.dom.mutations/
 ---
 The **Aspose.Svg.Dom.Mutations** provides opportunity to observe DOM mutations and getting specific callback information.

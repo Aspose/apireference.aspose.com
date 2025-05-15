@@ -6,7 +6,7 @@ type: docs
 weight: 1320
 url: /net/aspose.svg.builder/svgbuilderextensions/ondragend/
 ---
-## SVGBuilderExtensions.OnDragEnd&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnDragEnd<TBuilder> method
 
 Sets the 'ondragend' event attribute for handling the end of a drag operation.
 

@@ -31,7 +31,7 @@ public class SVGFEPointLightElementBuilder : SVGElementBuilder<SVGFEPointLightEl
 
 | Name | Description |
 | --- | --- |
-| [AddScript](../../aspose.svg.builder/svgfepointlightelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the fePointLight element. |
+| [AddScript](../../aspose.svg.builder/svgfepointlightelementbuilder/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script configuration to the fePointLight element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEPointLightElement](../../aspose.svg.filters/svgfepointlightelement/)*) |  |

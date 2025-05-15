@@ -6,7 +6,7 @@ type: docs
 weight: 2060
 url: /net/aspose.svg.builder/svgbuilderextensions/stopcolor/
 ---
-## StopColor&lt;TBuilder&gt;(*this TBuilder, Color*) {#stopcolor_1}
+## StopColor<TBuilder>(*this TBuilder, Color*) {#stopcolor_1}
 
 Sets the 'stop-color' attribute for an SVG element, defining the color at a gradient stop.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## StopColor&lt;TBuilder&gt;(*this TBuilder, Action&amp;lt;ColorBuilder&amp;gt;*) {#stopcolor}
+## StopColor<TBuilder>(*this TBuilder, Action&lt;ColorBuilder&gt;*) {#stopcolor}
 
 Sets the 'stop-color' attribute for an SVG element using a custom color configuration.
 

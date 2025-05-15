@@ -40,7 +40,7 @@ public class SVGAnimateMotionElementBuilder : SVGElementBuilder<SVGAnimateMotion
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGAnimateMotionElement](../../aspose.svg/svganimatemotionelement/)*) |  |
 | [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | [KeyPoints](../../aspose.svg.builder/svganimatemotionelementbuilder/keypoints/)(*params double[]*) | Sets the 'keyPoints' attribute, defining the points at which the animation occurs. |
-| [Path](../../aspose.svg.builder/svganimatemotionelementbuilder/path/)(*Action&amp;lt;PathBuilder&amp;gt;*) | Defines the path for the motion animation. |
+| [Path](../../aspose.svg.builder/svganimatemotionelementbuilder/path/)(*Action&lt;PathBuilder&gt;*) | Defines the path for the motion animation. |
 | [Rotate](../../aspose.svg.builder/svganimatemotionelementbuilder/rotate/#rotate_1)(*double*) | Sets the 'rotate' attribute, defining the rotation of the animated element. |
 | [Rotate](../../aspose.svg.builder/svganimatemotionelementbuilder/rotate/#rotate)(*[Rotate](../rotate/)*) | Sets the 'rotate' attribute using a predefined rotation value. |
 

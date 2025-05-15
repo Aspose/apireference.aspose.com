@@ -6,7 +6,7 @@ type: docs
 weight: 1770
 url: /net/aspose.svg.builder/svgbuilderextensions/onshow/
 ---
-## SVGBuilderExtensions.OnShow&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnShow<TBuilder> method
 
 Sets the 'onshow' event attribute, typically used for handling events when a context menu is shown.
 

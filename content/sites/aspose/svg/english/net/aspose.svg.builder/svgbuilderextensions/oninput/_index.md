@@ -6,7 +6,7 @@ type: docs
 weight: 1470
 url: /net/aspose.svg.builder/svgbuilderextensions/oninput/
 ---
-## SVGBuilderExtensions.OnInput&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnInput<TBuilder> method
 
 Sets the 'oninput' event attribute for handling input events on the element.
 

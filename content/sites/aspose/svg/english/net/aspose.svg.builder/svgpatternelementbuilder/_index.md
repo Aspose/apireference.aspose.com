@@ -39,7 +39,7 @@ public class SVGPatternElementBuilder : SVGElementBuilder<SVGPatternElement>,
 | [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | [Href](../../aspose.svg.builder/svgpatternelementbuilder/href/)(*string*) | Sets the 'href' attribute of the SVG 'pattern' element, specifying a reference to another pattern which this pattern inherits attributes from. |
 | [PatternContentUnits](../../aspose.svg.builder/svgpatternelementbuilder/patterncontentunits/)(*[CoordinateUnits](../coordinateunits/)*) | Sets the 'patternContentUnits' attribute of the SVG 'pattern' element, specifying the coordinate system for the contents of the pattern. |
-| [PatternTransform](../../aspose.svg.builder/svgpatternelementbuilder/patterntransform/)(*Func&amp;lt;TransformBuilder, TransformBuilder&amp;gt;*) | Sets the 'patternTransform' attribute of the SVG 'pattern' element, applying a transformation to the pattern. |
+| [PatternTransform](../../aspose.svg.builder/svgpatternelementbuilder/patterntransform/)(*Func&lt;TransformBuilder, TransformBuilder&gt;*) | Sets the 'patternTransform' attribute of the SVG 'pattern' element, applying a transformation to the pattern. |
 | [PatternUnits](../../aspose.svg.builder/svgpatternelementbuilder/patternunits/)(*[CoordinateUnits](../coordinateunits/)*) | Sets the 'patternUnits' attribute of the SVG 'pattern' element, specifying the coordinate system for the pattern's x, y, width, and height. |
 
 ### See Also

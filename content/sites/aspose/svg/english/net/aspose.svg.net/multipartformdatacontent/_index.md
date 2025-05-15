@@ -3,7 +3,7 @@ title: MultipartFormDataContent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.MultipartFormDataContent class. Represent content for multipart/form-data encoding algorithm
 type: docs
-weight: 4620
+weight: 4490
 url: /net/aspose.svg.net/multipartformdatacontent/
 ---
 ## MultipartFormDataContent class

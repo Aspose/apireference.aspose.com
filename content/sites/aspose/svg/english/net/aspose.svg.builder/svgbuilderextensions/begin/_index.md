@@ -6,7 +6,7 @@ type: docs
 weight: 610
 url: /net/aspose.svg.builder/svgbuilderextensions/begin/
 ---
-## SVGBuilderExtensions.Begin&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Begin<TBuilder> method
 
 Sets the 'begin' attribute, defining when the animation should start.
 

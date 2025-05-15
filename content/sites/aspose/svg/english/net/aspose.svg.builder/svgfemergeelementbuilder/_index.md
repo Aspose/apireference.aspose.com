@@ -31,8 +31,8 @@ public class SVGFEMergeElementBuilder : SVGElementBuilder<SVGFEMergeElement>, IC
 
 | Name | Description |
 | --- | --- |
-| [AddMergeNode](../../aspose.svg.builder/svgfemergeelementbuilder/addmergenode/)(*Action&amp;lt;SVGFEMergeNodeElementBuilder&amp;gt;*) | Adds a merge node configuration to the feMerge element. |
-| [AddScript](../../aspose.svg.builder/svgfemergeelementbuilder/addscript/)(*Action&amp;lt;SVGScriptElementBuilder&amp;gt;*) | Adds a script configuration to the feMerge element. |
+| [AddMergeNode](../../aspose.svg.builder/svgfemergeelementbuilder/addmergenode/)(*Action&lt;SVGFEMergeNodeElementBuilder&gt;*) | Adds a merge node configuration to the feMerge element. |
+| [AddScript](../../aspose.svg.builder/svgfemergeelementbuilder/addscript/)(*Action&lt;SVGScriptElementBuilder&gt;*) | Adds a script configuration to the feMerge element. |
 | [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEMergeElement](../../aspose.svg.filters/svgfemergeelement/)*) |  |

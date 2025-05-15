@@ -6,7 +6,7 @@ type: docs
 weight: 750
 url: /net/aspose.svg.builder/svgbuilderextensions/dominantbaseline/
 ---
-## SVGBuilderExtensions.DominantBaseline&lt;TBuilder&gt; method
+## SVGBuilderExtensions.DominantBaseline<TBuilder> method
 
 Sets the 'dominant-baseline' attribute for an SVG element using a predefined enum value.
 

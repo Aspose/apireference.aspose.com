@@ -3,7 +3,7 @@ title: Converter.ConvertSVG
 second_title: Aspose.SVG for .NET API Reference
 description: Converter ConvertSVG method. Convert svg document to xps.Result is xps file
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.svg.converters/converter/convertsvg/
 ---
 ## ConvertSVG(*[SVGDocument](../../../aspose.svg/svgdocument/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), string*) {#convertsvg_5}

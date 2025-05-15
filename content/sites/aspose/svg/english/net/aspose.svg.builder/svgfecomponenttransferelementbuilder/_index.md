@@ -36,10 +36,10 @@ public class SVGFEComponentTransferElementBuilder :
 | override [Build](../../aspose.svg.builder/svgfecomponenttransferelementbuilder/build/#build)(*[Document](../../aspose.svg.dom/document/)*) | Builds the SVGFEComponentTransferElement with the configured component transfer functions. |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGFEComponentTransferElement](../../aspose.svg.filters/svgfecomponenttransferelement/)*) |  |
 | [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
-| [WithFeFuncA](../../aspose.svg.builder/svgfecomponenttransferelementbuilder/withfefunca/)(*Action&amp;lt;SVGFEFuncAElementBuilder&amp;gt;*) | Configures the 'feFuncA' component transfer function for the alpha channel. |
-| [WithFeFuncB](../../aspose.svg.builder/svgfecomponenttransferelementbuilder/withfefuncb/)(*Action&amp;lt;SVGFEFuncBElementBuilder&amp;gt;*) | Configures the 'feFuncB' component transfer function for the blue channel. |
-| [WithFeFuncG](../../aspose.svg.builder/svgfecomponenttransferelementbuilder/withfefuncg/)(*Action&amp;lt;SVGFEFuncGElementBuilder&amp;gt;*) | Configures the 'feFuncG' component transfer function for the green channel. |
-| [WithFeFuncR](../../aspose.svg.builder/svgfecomponenttransferelementbuilder/withfefuncr/)(*Action&amp;lt;SVGFEFuncRElementBuilder&amp;gt;*) | Configures the 'feFuncR' component transfer function for the red channel. |
+| [WithFeFuncA](../../aspose.svg.builder/svgfecomponenttransferelementbuilder/withfefunca/)(*Action&lt;SVGFEFuncAElementBuilder&gt;*) | Configures the 'feFuncA' component transfer function for the alpha channel. |
+| [WithFeFuncB](../../aspose.svg.builder/svgfecomponenttransferelementbuilder/withfefuncb/)(*Action&lt;SVGFEFuncBElementBuilder&gt;*) | Configures the 'feFuncB' component transfer function for the blue channel. |
+| [WithFeFuncG](../../aspose.svg.builder/svgfecomponenttransferelementbuilder/withfefuncg/)(*Action&lt;SVGFEFuncGElementBuilder&gt;*) | Configures the 'feFuncG' component transfer function for the green channel. |
+| [WithFeFuncR](../../aspose.svg.builder/svgfecomponenttransferelementbuilder/withfefuncr/)(*Action&lt;SVGFEFuncRElementBuilder&gt;*) | Configures the 'feFuncR' component transfer function for the red channel. |
 
 ### See Also
 

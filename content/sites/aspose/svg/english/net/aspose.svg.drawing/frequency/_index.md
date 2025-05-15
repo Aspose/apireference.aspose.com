@@ -3,7 +3,7 @@ title: Frequency Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.Frequency class. The frequency unit
 type: docs
-weight: 3530
+weight: 3430
 url: /net/aspose.svg.drawing/frequency/
 ---
 ## Frequency class
@@ -33,11 +33,11 @@ public sealed class Frequency : Dimension
 | override [ToString](../../aspose.svg.drawing/dimension/tostring/)() | Returns a String that represents this instance. |
 | [operator +](../../aspose.svg.drawing/frequency/op_addition/) | Implements the operator +. |
 | [operator ==](../../aspose.svg.drawing/frequency/op_equality/) | Implements the operator ==. |
-| [operator &gt;](../../aspose.svg.drawing/frequency/op_greaterthan/) | Implements the operator &gt;. |
-| [operator &gt;=](../../aspose.svg.drawing/frequency/op_greaterthanorequal/) | Implements the operator &gt;=. |
+| [operator >](../../aspose.svg.drawing/frequency/op_greaterthan/) | Implements the operator &gt;. |
+| [operator >=](../../aspose.svg.drawing/frequency/op_greaterthanorequal/) | Implements the operator &gt;=. |
 | [operator !=](../../aspose.svg.drawing/frequency/op_inequality/) | Implements the operator !=. |
-| [operator &lt;](../../aspose.svg.drawing/frequency/op_lessthan/) | Implements the operator &lt;. |
-| [operator &lt;=](../../aspose.svg.drawing/frequency/op_lessthanorequal/) | Implements the operator &lt;=. |
+| [operator <](../../aspose.svg.drawing/frequency/op_lessthan/) | Implements the operator &lt;. |
+| [operator <=](../../aspose.svg.drawing/frequency/op_lessthanorequal/) | Implements the operator &lt;=. |
 | [operator -](../../aspose.svg.drawing/frequency/op_subtraction/) | Implements the operator -. |
 
 ### See Also

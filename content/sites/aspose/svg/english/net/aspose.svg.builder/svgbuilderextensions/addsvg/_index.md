@@ -6,7 +6,7 @@ type: docs
 weight: 500
 url: /net/aspose.svg.builder/svgbuilderextensions/addsvg/
 ---
-## SVGBuilderExtensions.AddSvg&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddSvg<TBuilder> method
 
 Adds an 'svg' (scalable vector graphics) element configuration to the builder.
 

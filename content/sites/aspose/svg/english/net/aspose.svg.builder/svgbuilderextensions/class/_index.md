@@ -6,7 +6,7 @@ type: docs
 weight: 640
 url: /net/aspose.svg.builder/svgbuilderextensions/class/
 ---
-## SVGBuilderExtensions.Class&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Class<TBuilder> method
 
 Sets the 'class' attribute, assigning one or more class names to the SVG element.
 

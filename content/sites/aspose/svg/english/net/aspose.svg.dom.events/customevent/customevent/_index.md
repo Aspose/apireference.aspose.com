@@ -26,7 +26,7 @@ public CustomEvent(string type)
 
 ---
 
-## CustomEvent(*string, IDictionary&amp;lt;string, object&amp;gt;*) {#constructor_1}
+## CustomEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
 Initializes a new instance of the [`CustomEvent`](../) class.
 

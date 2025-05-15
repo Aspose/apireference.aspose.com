@@ -6,7 +6,7 @@ type: docs
 weight: 1960
 url: /net/aspose.svg.builder/svgbuilderextensions/repeatdur/
 ---
-## RepeatDur&lt;TBuilder&gt;(*this TBuilder, TimeSpan*) {#repeatdur_1}
+## RepeatDur<TBuilder>(*this TBuilder, TimeSpan*) {#repeatdur_1}
 
 Sets the 'repeatDur' attribute, specifying the total duration for which the animation should repeat.
 
@@ -35,7 +35,7 @@ The builder instance for chaining.
 
 ---
 
-## RepeatDur&lt;TBuilder&gt;(*this TBuilder, [IndefiniteRepeat](../../indefiniterepeat/)*) {#repeatdur}
+## RepeatDur<TBuilder>(*this TBuilder, [IndefiniteRepeat](../../indefiniterepeat/)*) {#repeatdur}
 
 Sets the 'repeatDur' attribute, specifying an indefinite total duration for the animation using a predefined enum.
 

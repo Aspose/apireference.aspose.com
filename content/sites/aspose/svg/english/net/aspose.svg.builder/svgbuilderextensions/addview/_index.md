@@ -6,7 +6,7 @@ type: docs
 weight: 560
 url: /net/aspose.svg.builder/svgbuilderextensions/addview/
 ---
-## SVGBuilderExtensions.AddView&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddView<TBuilder> method
 
 Adds a 'view' element configuration to the builder.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 660
 url: /net/aspose.svg.builder/svgbuilderextensions/cliprule/
 ---
-## SVGBuilderExtensions.ClipRule&lt;TBuilder&gt; method
+## SVGBuilderExtensions.ClipRule<TBuilder> method
 
 Sets the 'clip-rule' attribute for an SVG element.
 

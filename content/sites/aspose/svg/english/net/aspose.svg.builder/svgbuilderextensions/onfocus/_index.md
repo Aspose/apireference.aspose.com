@@ -6,7 +6,7 @@ type: docs
 weight: 1440
 url: /net/aspose.svg.builder/svgbuilderextensions/onfocus/
 ---
-## SVGBuilderExtensions.OnFocus&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnFocus<TBuilder> method
 
 Sets the 'onfocus' event attribute for handling focus events on the element.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 2170
 url: /net/aspose.svg.builder/svgbuilderextensions/systemlanguage/
 ---
-## SVGBuilderExtensions.SystemLanguage&lt;TBuilder&gt; method
+## SVGBuilderExtensions.SystemLanguage<TBuilder> method
 
 Sets the 'systemLanguage' attribute on the SVG element. This attribute specifies the language preferences for which the SVG document fragment is intended.
 

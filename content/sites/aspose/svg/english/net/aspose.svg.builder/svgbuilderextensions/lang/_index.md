@@ -6,7 +6,7 @@ type: docs
 weight: 1080
 url: /net/aspose.svg.builder/svgbuilderextensions/lang/
 ---
-## SVGBuilderExtensions.Lang&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Lang<TBuilder> method
 
 Sets the 'lang' attribute, specifying the language of the element's content.
 

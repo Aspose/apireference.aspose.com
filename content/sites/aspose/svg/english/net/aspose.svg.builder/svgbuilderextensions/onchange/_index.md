@@ -6,7 +6,7 @@ type: docs
 weight: 1240
 url: /net/aspose.svg.builder/svgbuilderextensions/onchange/
 ---
-## SVGBuilderExtensions.OnChange&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnChange<TBuilder> method
 
 Sets the 'onchange' event attribute for handling changes in the element's value.
 

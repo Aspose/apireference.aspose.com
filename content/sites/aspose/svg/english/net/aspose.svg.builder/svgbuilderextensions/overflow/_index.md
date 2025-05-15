@@ -6,7 +6,7 @@ type: docs
 weight: 1870
 url: /net/aspose.svg.builder/svgbuilderextensions/overflow/
 ---
-## SVGBuilderExtensions.Overflow&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Overflow<TBuilder> method
 
 Sets the 'overflow' attribute for an SVG element, controlling how overflow is handled.
 

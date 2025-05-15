@@ -6,7 +6,7 @@ type: docs
 weight: 1390
 url: /net/aspose.svg.builder/svgbuilderextensions/ondurationchange/
 ---
-## SVGBuilderExtensions.OnDurationChange&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnDurationChange<TBuilder> method
 
 Sets the 'ondurationchange' event attribute for handling changes in the duration of the media.
 

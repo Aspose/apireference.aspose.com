@@ -6,7 +6,7 @@ type: docs
 weight: 1150
 url: /net/aspose.svg.builder/svgbuilderextensions/mask/
 ---
-## SVGBuilderExtensions.Mask&lt;TBuilder&gt; method
+## SVGBuilderExtensions.Mask<TBuilder> method
 
 Sets the 'mask' attribute for an SVG element using a custom mask configuration.
 

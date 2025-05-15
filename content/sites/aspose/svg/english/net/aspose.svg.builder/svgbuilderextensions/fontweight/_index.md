@@ -6,7 +6,7 @@ type: docs
 weight: 940
 url: /net/aspose.svg.builder/svgbuilderextensions/fontweight/
 ---
-## SVGBuilderExtensions.FontWeight&lt;TBuilder&gt; method
+## SVGBuilderExtensions.FontWeight<TBuilder> method
 
 Sets the 'font-weight' attribute for an SVG element using a predefined font weight value.
 

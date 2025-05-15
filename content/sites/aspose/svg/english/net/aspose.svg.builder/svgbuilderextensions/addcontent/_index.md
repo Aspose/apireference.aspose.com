@@ -6,7 +6,7 @@ type: docs
 weight: 90
 url: /net/aspose.svg.builder/svgbuilderextensions/addcontent/
 ---
-## SVGBuilderExtensions.AddContent&lt;TBuilder&gt; method
+## SVGBuilderExtensions.AddContent<TBuilder> method
 
 Adds text content to the SVG element.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 890
 url: /net/aspose.svg.builder/svgbuilderextensions/fontsize/
 ---
-## FontSize&lt;TBuilder&gt;(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#fontsize_1}
+## FontSize<TBuilder>(*this TBuilder, double, [LengthType](../../lengthtype/)*) {#fontsize_1}
 
 Sets the 'font-size' attribute for an SVG element using a numeric value and a specific length type.
 
@@ -38,7 +38,7 @@ The builder instance for chaining.
 
 ---
 
-## FontSize&lt;TBuilder&gt;(*this TBuilder, [FontSize](../../fontsize/)*) {#fontsize}
+## FontSize<TBuilder>(*this TBuilder, [FontSize](../../fontsize/)*) {#fontsize}
 
 Sets the 'font-size' attribute for an SVG element using a predefined font size value.
 

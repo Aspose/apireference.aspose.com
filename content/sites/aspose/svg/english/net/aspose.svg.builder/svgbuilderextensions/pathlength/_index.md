@@ -6,7 +6,7 @@ type: docs
 weight: 1890
 url: /net/aspose.svg.builder/svgbuilderextensions/pathlength/
 ---
-## SVGBuilderExtensions.PathLength&lt;TBuilder&gt; method
+## SVGBuilderExtensions.PathLength<TBuilder> method
 
 Sets the 'pathLength' attribute for an SVG path element.
 

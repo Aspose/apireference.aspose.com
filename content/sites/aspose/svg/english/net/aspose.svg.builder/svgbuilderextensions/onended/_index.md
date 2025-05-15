@@ -6,7 +6,7 @@ type: docs
 weight: 1420
 url: /net/aspose.svg.builder/svgbuilderextensions/onended/
 ---
-## SVGBuilderExtensions.OnEnded&lt;TBuilder&gt; method
+## SVGBuilderExtensions.OnEnded<TBuilder> method
 
 Sets the 'onended' event attribute for handling the end of media playback.
 
