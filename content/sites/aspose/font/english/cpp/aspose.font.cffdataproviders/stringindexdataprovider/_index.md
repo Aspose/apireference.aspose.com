@@ -4,7 +4,7 @@ linktitle: StringIndexDataProvider
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::StringIndexDataProvider class. Declares functionality to access CFF String INDEX structure in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.font.cffdataproviders/stringindexdataprovider/
 ---
 ## StringIndexDataProvider class

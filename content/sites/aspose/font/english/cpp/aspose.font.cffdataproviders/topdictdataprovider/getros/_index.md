@@ -4,7 +4,7 @@ linktitle: GetRos
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::GetRos method. Gets values of the ROS(Registry Ordering Supplement) field(operator). String identifiers (SID) are used for output string types in C++.'
 type: docs
-weight: 2600
+weight: 2700
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/getros/
 ---
 ## TopDictDataProvider::GetRos(int32_t\&, int32_t\&, int32_t\&) method

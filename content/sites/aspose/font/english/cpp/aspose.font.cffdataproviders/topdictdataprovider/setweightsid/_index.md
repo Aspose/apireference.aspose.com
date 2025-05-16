@@ -4,7 +4,7 @@ linktitle: SetWeightSid
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::SetWeightSid method. Updates SID(string identifier) value for the Weight field in CFF Top DICT data in C++.'
 type: docs
-weight: 7000
+weight: 7100
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/setweightsid/
 ---
 ## TopDictDataProvider::SetWeightSid method

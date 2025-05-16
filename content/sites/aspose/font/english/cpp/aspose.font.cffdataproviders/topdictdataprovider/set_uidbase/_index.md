@@ -4,7 +4,7 @@ linktitle: set_UidBase
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::set_UidBase method. Gets/sets UIDBase in C++.'
 type: docs
-weight: 4500
+weight: 4600
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/set_uidbase/
 ---
 ## TopDictDataProvider::set_UidBase method

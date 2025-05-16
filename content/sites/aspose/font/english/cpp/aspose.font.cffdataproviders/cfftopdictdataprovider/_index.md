@@ -4,7 +4,7 @@ linktitle: CffTopDictDataProvider
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::CffDataProviders::CffTopDictDataProvider class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font.cffdataproviders/cfftopdictdataprovider/
 ---
 ## CffTopDictDataProvider class

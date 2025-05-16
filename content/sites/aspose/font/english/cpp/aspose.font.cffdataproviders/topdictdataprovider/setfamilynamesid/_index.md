@@ -4,7 +4,7 @@ linktitle: SetFamilyNameSid
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::SetFamilyNameSid method. Updates SID(string identifier) value for the FamilyName field in CFF Top DICT data in C++.'
 type: docs
-weight: 5700
+weight: 5800
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/setfamilynamesid/
 ---
 ## TopDictDataProvider::SetFamilyNameSid method

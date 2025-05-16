@@ -4,7 +4,7 @@ linktitle: set_PaintType
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::set_PaintType method. Gets/sets PaintType in C++.'
 type: docs
-weight: 4100
+weight: 4200
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/set_painttype/
 ---
 ## TopDictDataProvider::set_PaintType method

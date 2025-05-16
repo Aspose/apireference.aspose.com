@@ -4,7 +4,7 @@ linktitle: set_FamilyName
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::set_FamilyName method. Gets/sets FamilyName in C++.'
 type: docs
-weight: 3300
+weight: 3400
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/set_familyname/
 ---
 ## TopDictDataProvider::set_FamilyName method

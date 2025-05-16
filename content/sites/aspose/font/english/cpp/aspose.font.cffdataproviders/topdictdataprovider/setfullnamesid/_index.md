@@ -4,7 +4,7 @@ linktitle: SetFullNameSid
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::SetFullNameSid method. Updates SID(string identifier) value for the FullName field in CFF Top DICT data in C++.'
 type: docs
-weight: 6100
+weight: 6200
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/setfullnamesid/
 ---
 ## TopDictDataProvider::SetFullNameSid method

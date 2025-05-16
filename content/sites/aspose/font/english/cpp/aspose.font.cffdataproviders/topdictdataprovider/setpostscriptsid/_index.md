@@ -4,7 +4,7 @@ linktitle: SetPostScriptSid
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::SetPostScriptSid method. Updates SID(string identifier) value for the PostScript field in CFF Top DICT data in C++.'
 type: docs
-weight: 6500
+weight: 6600
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/setpostscriptsid/
 ---
 ## TopDictDataProvider::SetPostScriptSid method

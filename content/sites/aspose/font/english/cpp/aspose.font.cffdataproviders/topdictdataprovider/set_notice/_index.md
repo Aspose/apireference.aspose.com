@@ -4,7 +4,7 @@ linktitle: set_Notice
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::set_Notice method. Gets/sets Notice in C++.'
 type: docs
-weight: 4000
+weight: 4100
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/set_notice/
 ---
 ## TopDictDataProvider::set_Notice method

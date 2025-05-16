@@ -4,7 +4,7 @@ linktitle: SetCopyright
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::SetCopyright method. Sets string value for the Copyright field and returns SID associated with the newly set string value in C++.'
 type: docs
-weight: 5400
+weight: 5500
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/setcopyright/
 ---
 ## TopDictDataProvider::SetCopyright method

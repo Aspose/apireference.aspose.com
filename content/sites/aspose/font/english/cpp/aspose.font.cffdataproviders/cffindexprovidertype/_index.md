@@ -4,7 +4,7 @@ linktitle: CffIndexProviderType
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::CffIndexProviderType enum. Specifies INDEX structures supported by the index provider interface family in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/aspose.font.cffdataproviders/cffindexprovidertype/
 ---
 ## CffIndexProviderType enum

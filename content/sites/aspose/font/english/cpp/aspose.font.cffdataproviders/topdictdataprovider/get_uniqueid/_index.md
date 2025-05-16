@@ -4,7 +4,7 @@ linktitle: get_UniqueId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::get_UniqueId method. Gets/sets UniqueID in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/get_uniqueid/
 ---
 ## TopDictDataProvider::get_UniqueId method
