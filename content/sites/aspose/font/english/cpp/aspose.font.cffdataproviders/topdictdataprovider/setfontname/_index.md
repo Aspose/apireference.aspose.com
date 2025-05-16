@@ -4,7 +4,7 @@ linktitle: SetFontName
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::SetFontName method. Sets string value for the FontName field and returns SID associated with the newly set string value in C++.'
 type: docs
-weight: 5800
+weight: 5900
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/setfontname/
 ---
 ## TopDictDataProvider::SetFontName method

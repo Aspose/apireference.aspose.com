@@ -4,7 +4,7 @@ linktitle: set_IsFixedPitch
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::set_IsFixedPitch method. Gets/sets value for the isFixedPitch field in C++.'
 type: docs
-weight: 3800
+weight: 3900
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/set_isfixedpitch/
 ---
 ## TopDictDataProvider::set_IsFixedPitch method

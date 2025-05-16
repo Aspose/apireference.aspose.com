@@ -14,10 +14,12 @@ url: /cpp/aspose.font.cffdataproviders/
 
 | Class | Description |
 | --- | --- |
+| [CffPrivateDictDataProvider](./cffprivatedictdataprovider/) |  |
 | [CffTopDictDataProvider](./cfftopdictdataprovider/) |  |
 | [ICffIndexDataProvider](./icffindexdataprovider/) | Basic interface for accessing INDEX structures of CFF fonts. |
 | [IStringIndexAdapter](./istringindexadapter/) |  |
 | [NameIndexDataProvider](./nameindexdataprovider/) | Declares functionality to access CFF Name INDEX structure. |
+| [PrivateDictDataProvider](./privatedictdataprovider/) | Declares functionality to read/update CFF Private DICT structure. |
 | [StringIndexDataProvider](./stringindexdataprovider/) | Declares functionality to access CFF String INDEX structure. |
 | [TopDictDataProvider](./topdictdataprovider/) | Declares functionality to read/update CFF Top DICT structure. |
 ## Enums

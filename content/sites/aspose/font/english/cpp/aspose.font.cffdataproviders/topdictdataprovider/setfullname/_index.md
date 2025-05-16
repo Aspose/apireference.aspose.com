@@ -4,7 +4,7 @@ linktitle: SetFullName
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::SetFullName method. Sets string value for the FullName field and returns SID associated with the newly set string value in C++.'
 type: docs
-weight: 6000
+weight: 6100
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/setfullname/
 ---
 ## TopDictDataProvider::SetFullName method

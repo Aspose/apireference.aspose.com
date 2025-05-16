@@ -4,7 +4,7 @@ linktitle: ICffIndexDataProvider
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::ICffIndexDataProvider class. Basic interface for accessing INDEX structures of CFF fonts in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font.cffdataproviders/icffindexdataprovider/
 ---
 ## ICffIndexDataProvider class

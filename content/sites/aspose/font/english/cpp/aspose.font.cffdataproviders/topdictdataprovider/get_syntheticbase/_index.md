@@ -4,7 +4,7 @@ linktitle: get_SyntheticBase
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::get_SyntheticBase method. Gets/sets SyntheticBase in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/get_syntheticbase/
 ---
 ## TopDictDataProvider::get_SyntheticBase method

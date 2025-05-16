@@ -4,7 +4,7 @@ linktitle: SetRos
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::SetRos method. Sets values for the ROS(Registry Ordering Supplement) field(operator). String identifiers (SID) should be used for registry and ordering parameters in C++.'
 type: docs
-weight: 6600
+weight: 6700
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/setros/
 ---
 ## TopDictDataProvider::SetRos(int32_t, int32_t, int32_t) method

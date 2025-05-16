@@ -4,7 +4,7 @@ linktitle: set_Copyright
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::set_Copyright method. Gets/sets Copyright in C++.'
 type: docs
-weight: 3200
+weight: 3300
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/set_copyright/
 ---
 ## TopDictDataProvider::set_Copyright method

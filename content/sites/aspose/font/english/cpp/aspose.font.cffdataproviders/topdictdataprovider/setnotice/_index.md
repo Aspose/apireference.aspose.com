@@ -4,7 +4,7 @@ linktitle: SetNotice
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::SetNotice method. Sets string value for the Notice field(operator) and returns SID associated with the newly set string value in C++.'
 type: docs
-weight: 6200
+weight: 6300
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/setnotice/
 ---
 ## TopDictDataProvider::SetNotice method

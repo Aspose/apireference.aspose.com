@@ -4,7 +4,7 @@ linktitle: set_CidFontRevision
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::set_CidFontRevision method. Gets/sets CIDFontRevision in C++.'
 type: docs
-weight: 2900
+weight: 3000
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/set_cidfontrevision/
 ---
 ## TopDictDataProvider::set_CidFontRevision method

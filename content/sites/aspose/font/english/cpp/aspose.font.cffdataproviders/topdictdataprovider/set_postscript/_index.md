@@ -4,7 +4,7 @@ linktitle: set_PostScript
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::set_PostScript method. Gets/sets PostScript in C++.'
 type: docs
-weight: 4200
+weight: 4300
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/set_postscript/
 ---
 ## TopDictDataProvider::set_PostScript method

@@ -4,7 +4,7 @@ linktitle: SetFontNameSid
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::SetFontNameSid method. Updates SID(string identifier) value for the FontName field in CFF Top DICT data in C++.'
 type: docs
-weight: 5900
+weight: 6000
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/setfontnamesid/
 ---
 ## TopDictDataProvider::SetFontNameSid method

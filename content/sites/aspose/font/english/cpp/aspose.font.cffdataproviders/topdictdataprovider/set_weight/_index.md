@@ -4,7 +4,7 @@ linktitle: set_Weight
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::set_Weight method. Gets/sets Weight in C++.'
 type: docs
-weight: 5000
+weight: 5100
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/set_weight/
 ---
 ## TopDictDataProvider::set_Weight method

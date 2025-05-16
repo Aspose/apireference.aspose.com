@@ -4,7 +4,7 @@ linktitle: set_FontBBox
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::set_FontBBox method. Gets/sets FontBBox in C++.'
 type: docs
-weight: 3400
+weight: 3500
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/set_fontbbox/
 ---
 ## TopDictDataProvider::set_FontBBox method

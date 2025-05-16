@@ -4,7 +4,7 @@ linktitle: TopDictDataProvider
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider class. Declares functionality to read/update CFF Top DICT structure in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/
 ---
 ## TopDictDataProvider class
@@ -36,6 +36,7 @@ class TopDictDataProvider : public System::Object
 | [get_Notice](./get_notice/)() | Gets/sets Notice. |
 | [get_PaintType](./get_painttype/)() | Gets/sets PaintType. |
 | [get_PostScript](./get_postscript/)() | Gets/sets PostScript. |
+| [get_PrivateDictProvider](./get_privatedictprovider/)() | Gets provider for the Private DICT or NULL if no Private dictionary exists for the current top-level dictionary. |
 | [get_StrokeWidth](./get_strokewidth/)() | Gets/sets StrokeWidth. |
 | [get_SyntheticBase](./get_syntheticbase/)() | Gets/sets SyntheticBase. |
 | [get_UidBase](./get_uidbase/)() | Gets/sets UIDBase. |

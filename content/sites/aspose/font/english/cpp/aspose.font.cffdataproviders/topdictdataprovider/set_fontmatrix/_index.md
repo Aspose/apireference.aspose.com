@@ -4,7 +4,7 @@ linktitle: set_FontMatrix
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::set_FontMatrix method. Gets/sets FontMatrix in C++.'
 type: docs
-weight: 3500
+weight: 3600
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/set_fontmatrix/
 ---
 ## TopDictDataProvider::set_FontMatrix method

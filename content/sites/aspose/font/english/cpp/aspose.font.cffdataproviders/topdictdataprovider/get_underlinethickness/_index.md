@@ -4,7 +4,7 @@ linktitle: get_UnderlineThickness
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::get_UnderlineThickness method. Gets/sets UnderlineThickness in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/get_underlinethickness/
 ---
 ## TopDictDataProvider::get_UnderlineThickness method

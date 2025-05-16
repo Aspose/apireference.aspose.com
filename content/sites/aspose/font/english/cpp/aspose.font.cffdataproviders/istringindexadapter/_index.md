@@ -4,7 +4,7 @@ linktitle: IStringIndexAdapter
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::CffDataProviders::IStringIndexAdapter class in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.font.cffdataproviders/istringindexadapter/
 ---
 ## IStringIndexAdapter class

@@ -4,7 +4,7 @@ linktitle: SetVersion
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::SetVersion method. Sets string value for the version field(operator) and returns SID associated with the newly set string value in C++.'
 type: docs
-weight: 6700
+weight: 6800
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/setversion/
 ---
 ## TopDictDataProvider::SetVersion method

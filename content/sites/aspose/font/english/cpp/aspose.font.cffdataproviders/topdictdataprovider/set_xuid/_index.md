@@ -4,7 +4,7 @@ linktitle: set_Xuid
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::TopDictDataProvider::set_Xuid method. Gets/sets XUID in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/aspose.font.cffdataproviders/topdictdataprovider/set_xuid/
 ---
 ## TopDictDataProvider::set_Xuid method

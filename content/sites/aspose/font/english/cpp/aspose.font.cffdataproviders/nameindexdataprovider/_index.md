@@ -4,7 +4,7 @@ linktitle: NameIndexDataProvider
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::CffDataProviders::NameIndexDataProvider class. Declares functionality to access CFF Name INDEX structure in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.font.cffdataproviders/nameindexdataprovider/
 ---
 ## NameIndexDataProvider class
