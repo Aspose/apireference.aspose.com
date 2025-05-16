@@ -1,13 +1,15 @@
 ---
 title: MetaInfoEqualityComparer
 second_title: Aspose.Medical for .NET API Reference
-description: 
+description: Represents a MetaInformation../aspose.medical.dicom/metainformation comparison operation. Two MetaInformation../aspose.medical.dicom/metainformation instances considered to be equal if 1 they have the same number of data elements 2 for each position index data elements must be equal. Two data elements considered to be equal if 1 they have the same Tag../aspose.medical.dicom.elements/ielement/tag 2 they have the same ValueRepresentation../aspose.medical.dicom.elements/ielement/valuerepresentation 3 elements data are the same for both elements.
 type: docs
 weight: 90
 url: /net/aspose.medical.dicom.comparators/metainfoequalitycomparer/
 ---
 
 ## MetaInfoEqualityComparer class
+
+Represents a [`MetaInformation`](../../aspose.medical.dicom/metainformation) comparison operation. Two [`MetaInformation`](../../aspose.medical.dicom/metainformation) instances considered to be equal if: 1) they have the same number of data elements; 2) for each position (index) data elements must be equal. Two data elements considered to be equal if: 1) they have the same [`Tag`](../../aspose.medical.dicom.elements/ielement/tag); 2) they have the same [`ValueRepresentation`](../../aspose.medical.dicom.elements/ielement/valuerepresentation); 3) element's data are the same for both elements.
 
 ```csharp
 public sealed class MetaInfoEqualityComparer : IEqualityComparer<MetaInformation>
@@ -17,8 +19,8 @@ public sealed class MetaInfoEqualityComparer : IEqualityComparer<MetaInformation
 
 | Name | Description |
 | --- | --- |
-| static [Default](../../aspose.medical.dicom.comparators/metainfoequalitycomparer/default) { get; } |  |
-| [IncludeImplementationVersionName](../../aspose.medical.dicom.comparators/metainfoequalitycomparer/includeimplementationversionname) { get; set; } |  |
+| static [Default](../../aspose.medical.dicom.comparators/metainfoequalitycomparer/default) { get; } | Gets an object that performs a [`MetaInformation`](../../aspose.medical.dicom/metainformation) comparison operation. Read-only [`MetaInfoEqualityComparer`](../metainfoequalitycomparer). |
+| [IncludeImplementationVersionName](../../aspose.medical.dicom.comparators/metainfoequalitycomparer/includeimplementationversionname) { get; set; } | Specifies whether [`ImplementationVersionName`](../../aspose.medical.dicom.tags/tag/implementationversionname) should be included into comparison or not. Read-only, Boolean. |
 
 ## Methods
 

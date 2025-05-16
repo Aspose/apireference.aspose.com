@@ -3,7 +3,7 @@ title: op_Inequality
 second_title: Aspose.Medical for .NET API Reference
 description: Determines whether two specified tags have different values.
 type: docs
-weight: 53140
+weight: 53150
 url: /net/aspose.medical.dicom.tags/tag/op_inequality/
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: ResetLicense
 second_title: Aspose.Medical for .NET API Reference
-description: 
+description: Resets the license.
 type: docs
 weight: 20
 url: /net/aspose.medical/license/resetlicense/
@@ -9,8 +9,22 @@ url: /net/aspose.medical/license/resetlicense/
 
 ## License.ResetLicense method
 
+Resets the license.
+
 ```csharp
 public void ResetLicense()
+```
+
+### Remarks
+
+Use this method to reset license in component.
+
+### Examples
+
+```csharp
+[C#]
+  License license = new License();
+  license.ResetLicense();
 ```
 
 ### See Also

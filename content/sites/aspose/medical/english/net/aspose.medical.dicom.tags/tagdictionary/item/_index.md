@@ -25,7 +25,7 @@ The [`TagMetadata`](../../tagmetadata) for the given *tag*.
 
 ### See Also
 
-* class [TagMetadata](../../tagmetadata)
+* record [TagMetadata](../../tagmetadata)
 * class [Tag](../../tag)
 * class [TagDictionary](../../tagdictionary)
 * namespace [Aspose.Medical.Dicom.Tags](../../tagdictionary)

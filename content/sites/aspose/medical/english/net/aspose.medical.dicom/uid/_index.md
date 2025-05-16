@@ -3,7 +3,7 @@ title: Uid
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates DICOM UID. https//dicom.nema.org/dicom/2013/output/chtml/part06/chapter_A.htmlhttps//dicom.nema.org/dicom/2013/output/chtml/part06/chapter_A.html.
 type: docs
-weight: 1000
+weight: 1070
 url: /net/aspose.medical.dicom/uid/
 ---
 
@@ -37,7 +37,7 @@ public sealed class Uid : IEquatable<Uid>, ISpanParsable<Uid>
 | [Equals](../../aspose.medical.dicom/uid/equals#equals)(Uid) |  |
 | override [GetHashCode](../../aspose.medical.dicom/uid/gethashcode)() |  |
 | override [ToString](../../aspose.medical.dicom/uid/tostring)() |  |
-| static [TryParse](../../aspose.medical.dicom/uid/tryparse#tryparse)(ReadOnlySpan&lt;char&gt;, IFormatProvider?, out Uid) |  |
+| static [TryParse](../../aspose.medical.dicom/uid/tryparse#tryparse)(ReadOnlySpan&lt;char&gt;, IFormatProvider, out Uid) |  |
 | static [TryParse](../../aspose.medical.dicom/uid/tryparse#tryparse_1)(string, IFormatProvider, out Uid) |  |
 | [operator ==](../../aspose.medical.dicom/uid/op_equality) | Determines whether two specified objects have the same value. |
 | [operator !=](../../aspose.medical.dicom/uid/op_inequality) | Determines whether two specified objects have different values. |

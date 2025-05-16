@@ -3,7 +3,7 @@ title: UnknownTag
 second_title: Aspose.Medical for .NET API Reference
 description: Metadata for not registered unknown tags.
 type: docs
-weight: 80
+weight: 100
 url: /net/aspose.medical.dicom.tags/tagdictionary/unknowntag/
 ---
 
@@ -17,7 +17,7 @@ public static readonly TagMetadata UnknownTag;
 
 ### See Also
 
-* class [TagMetadata](../../tagmetadata)
+* record [TagMetadata](../../tagmetadata)
 * class [TagDictionary](../../tagdictionary)
 * namespace [Aspose.Medical.Dicom.Tags](../../tagdictionary)
 * assembly [Aspose.Medical](../../../)

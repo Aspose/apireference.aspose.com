@@ -3,7 +3,7 @@ title: Walker
 second_title: Aspose.Medical for .NET API Reference
 description: Represents a IElement../aspose.medical.dicom.elements/ielement visitor that descends an entire DicomFile../aspose.medical.dicom/dicomfile or Dataset../aspose.medical.dicom/dataset or MetaInformation../aspose.medical.dicom/metainformation graph visiting each IElement../aspose.medical.dicom.elements/ielement and its nested Dataset../aspose.medical.dicom/datasets in depth-first order.
 type: docs
-weight: 990
+weight: 1060
 url: /net/aspose.medical.dicom.traversal/walker/
 ---
 
@@ -23,7 +23,7 @@ public abstract class Walker
 | virtual [Visit](../../aspose.medical.dicom.traversal/walker/visit#visit_3)(ApplicationEntity) | Visits the [`ApplicationEntity`](../../aspose.medical.dicom.elements/applicationentity)*element*. |
 | virtual [Visit](../../aspose.medical.dicom.traversal/walker/visit#visit_4)(AttributeTag) | Visits the [`AttributeTag`](../../aspose.medical.dicom.elements/attributetag)*element*. |
 | virtual [Visit](../../aspose.medical.dicom.traversal/walker/visit#visit_5)(CodeString) | Visits the [`CodeString`](../../aspose.medical.dicom.elements/codestring)*element*. |
-| [Visit](../../aspose.medical.dicom.traversal/walker/visit#visit)(Dataset) | Visits the entire graph of elements of the given *dataset*. |
+| virtual [Visit](../../aspose.medical.dicom.traversal/walker/visit#visit)(Dataset) | Visits the entire graph of elements of the given *dataset*. |
 | virtual [Visit](../../aspose.medical.dicom.traversal/walker/visit#visit_6)(Date) | Visits the [`Date`](../../aspose.medical.dicom.elements/date)*element*. |
 | virtual [Visit](../../aspose.medical.dicom.traversal/walker/visit#visit_7)(DateTime) | Visits the [`DateTime`](../../aspose.medical.dicom.elements/datetime)*element*. |
 | virtual [Visit](../../aspose.medical.dicom.traversal/walker/visit#visit_8)(DecimalString) | Visits the [`DecimalString`](../../aspose.medical.dicom.elements/decimalstring)*element*. |

@@ -23,6 +23,7 @@ is_root: true
 | [Aspose.Medical.Dicom.Imaging.Overlays](./aspose.medical.dicom.imaging.overlays) |  |
 | [Aspose.Medical.Dicom.Imaging.RenderOptions](./aspose.medical.dicom.imaging.renderoptions) |  |
 | [Aspose.Medical.Dicom.LookUpTables](./aspose.medical.dicom.lookuptables) |  |
+| [Aspose.Medical.Dicom.Serialization](./aspose.medical.dicom.serialization) |  |
 | [Aspose.Medical.Dicom.Tags](./aspose.medical.dicom.tags) |  |
 | [Aspose.Medical.Dicom.Traversal](./aspose.medical.dicom.traversal) |  |
 | [Aspose.Medical.Dicom.ValueRepresentations](./aspose.medical.dicom.valuerepresentations) |  |

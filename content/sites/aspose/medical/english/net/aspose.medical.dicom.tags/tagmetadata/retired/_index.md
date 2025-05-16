@@ -3,7 +3,7 @@ title: Retired
 second_title: Aspose.Medical for .NET API Reference
 description: Indicates whether the tag is retired or not. Read-only Boolean.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.medical.dicom.tags/tagmetadata/retired/
 ---
 
@@ -17,7 +17,7 @@ public bool Retired { get; set; }
 
 ### See Also
 
-* class [TagMetadata](../../tagmetadata)
+* record [TagMetadata](../../tagmetadata)
 * namespace [Aspose.Medical.Dicom.Tags](../../tagmetadata)
 * assembly [Aspose.Medical](../../../)
 

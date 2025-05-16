@@ -3,7 +3,7 @@ title: CompareTo
 second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
-weight: 53090
+weight: 53100
 url: /net/aspose.medical.dicom.tags/tag/compareto/
 ---
 

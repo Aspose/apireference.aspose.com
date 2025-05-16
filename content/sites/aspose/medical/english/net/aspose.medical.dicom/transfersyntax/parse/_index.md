@@ -33,6 +33,12 @@ public static TransferSyntax Parse(string s, IFormatProvider? provider)
 public static TransferSyntax Parse(ReadOnlySpan<char> s, IFormatProvider? provider)
 ```
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| [MedicalApiException](../../../aspose.medical.errors/medicalapiexception) | The given string is not a valid Transfer Syntax. |
+
 ### See Also
 
 * class [TransferSyntax](../../transfersyntax)

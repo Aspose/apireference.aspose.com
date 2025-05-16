@@ -3,7 +3,7 @@ title: PrivateCreatorTag
 second_title: Aspose.Medical for .NET API Reference
 description: Metadata for private elements in the ranges gggg 0001-000F and gggg 0100-0FFF where gggg is odd. http//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_7.8.htmlhttp//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_7.8.html.
 type: docs
-weight: 70
+weight: 90
 url: /net/aspose.medical.dicom.tags/tagdictionary/privatecreatortag/
 ---
 
@@ -17,7 +17,7 @@ public static readonly TagMetadata PrivateCreatorTag;
 
 ### See Also
 
-* class [TagMetadata](../../tagmetadata)
+* record [TagMetadata](../../tagmetadata)
 * class [TagDictionary](../../tagdictionary)
 * namespace [Aspose.Medical.Dicom.Tags](../../tagdictionary)
 * assembly [Aspose.Medical](../../../)

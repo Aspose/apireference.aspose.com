@@ -3,7 +3,7 @@ title: IsPrivate
 second_title: Aspose.Medical for .NET API Reference
 description: Indicates whether the tag is private or not. Read-only Boolean.
 type: docs
-weight: 53070
+weight: 53080
 url: /net/aspose.medical.dicom.tags/tag/isprivate/
 ---
 

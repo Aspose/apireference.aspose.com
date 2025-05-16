@@ -3,7 +3,7 @@ title: TransferSyntax
 second_title: Aspose.Medical for .NET API Reference
 description: A DICOM file Transfer Syntax. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/chapter_A.htmlhttps//dicom.nema.org/medical/dicom/current/output/chtml/part05/chapter_A.html.
 type: docs
-weight: 980
+weight: 1050
 url: /net/aspose.medical.dicom/transfersyntax/
 ---
 
@@ -38,7 +38,7 @@ public sealed class TransferSyntax : ISpanParsable<TransferSyntax>
 | static [Parse](../../aspose.medical.dicom/transfersyntax/parse#parse_1)(string, IFormatProvider?) |  |
 | override [ToString](../../aspose.medical.dicom/transfersyntax/tostring)() |  |
 | static [Register](../../aspose.medical.dicom/transfersyntax/register)(Uid, bool, bool) | Registers transfer syntax. |
-| static [TryParse](../../aspose.medical.dicom/transfersyntax/tryparse#tryparse)(ReadOnlySpan&lt;char&gt;, IFormatProvider?, out TransferSyntax) |  |
+| static [TryParse](../../aspose.medical.dicom/transfersyntax/tryparse#tryparse)(ReadOnlySpan&lt;char&gt;, IFormatProvider, out TransferSyntax) |  |
 | static [TryParse](../../aspose.medical.dicom/transfersyntax/tryparse#tryparse_1)(string, IFormatProvider, out TransferSyntax) |  |
 
 ## Fields

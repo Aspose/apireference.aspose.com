@@ -3,7 +3,7 @@ title: GetPrivateCreator
 second_title: Aspose.Medical for .NET API Reference
 description: Returns the registered PrivateCreatoraspose.medical.dicom.tags/tagdictionary/privatecreator for the given creator if it is already registered otherwise registers the private creator and returns the registered PrivateCreatoraspose.medical.dicom.tags/tagdictionary/privatecreator.
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.medical.dicom.tags/tagdictionary/getprivatecreator/
 ---
 
@@ -27,7 +27,7 @@ The [`PrivateCreator`](../privatecreator).
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Private creator can only be registered in {nameof(Default)} dictionary. |
+| ArgumentException | Private creator can only be registered in `Default` dictionary. |
 
 ### See Also
 

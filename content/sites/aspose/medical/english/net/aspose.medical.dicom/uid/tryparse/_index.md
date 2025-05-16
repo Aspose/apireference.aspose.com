@@ -10,7 +10,7 @@ url: /net/aspose.medical.dicom/uid/tryparse/
 ## TryParse(string, IFormatProvider, out Uid) {#tryparse_1}
 
 ```csharp
-public static bool TryParse(string? s, IFormatProvider? provider, out Uid result)
+public static bool TryParse(string? s, IFormatProvider? provider, out Uid? result)
 ```
 
 ### See Also
@@ -21,10 +21,10 @@ public static bool TryParse(string? s, IFormatProvider? provider, out Uid result
 
 ---
 
-## TryParse(ReadOnlySpan&lt;char&gt;, IFormatProvider?, out Uid) {#tryparse}
+## TryParse(ReadOnlySpan&lt;char&gt;, IFormatProvider, out Uid) {#tryparse}
 
 ```csharp
-public static bool TryParse(ReadOnlySpan<char> s, IFormatProvider? provider, out Uid result)
+public static bool TryParse(ReadOnlySpan<char> s, IFormatProvider? provider, out Uid? result)
 ```
 
 ### See Also

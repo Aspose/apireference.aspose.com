@@ -3,7 +3,7 @@ title: Metadata
 second_title: Aspose.Medical for .NET API Reference
 description: Contains additional meta-information about this tag such as keyword description value multiplicity default value representation etc. Read-only TagMetadataaspose.medical.dicom.tags/tagmetadata.
 type: docs
-weight: 53080
+weight: 53090
 url: /net/aspose.medical.dicom.tags/tag/metadata/
 ---
 
@@ -17,7 +17,7 @@ public TagMetadata Metadata { get; }
 
 ### See Also
 
-* class [TagMetadata](../../tagmetadata)
+* record [TagMetadata](../../tagmetadata)
 * class [Tag](../../tag)
 * namespace [Aspose.Medical.Dicom.Tags](../../tag)
 * assembly [Aspose.Medical](../../../)

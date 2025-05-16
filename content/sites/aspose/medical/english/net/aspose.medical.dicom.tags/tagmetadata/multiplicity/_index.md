@@ -18,7 +18,7 @@ public ValueMultiplicity Multiplicity { get; set; }
 ### See Also
 
 * class [ValueMultiplicity](../../../aspose.medical.dicom/valuemultiplicity)
-* class [TagMetadata](../../tagmetadata)
+* record [TagMetadata](../../tagmetadata)
 * namespace [Aspose.Medical.Dicom.Tags](../../tagmetadata)
 * assembly [Aspose.Medical](../../../)
 

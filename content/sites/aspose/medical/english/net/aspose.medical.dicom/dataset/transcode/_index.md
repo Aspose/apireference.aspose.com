@@ -3,7 +3,7 @@ title: Transcode
 second_title: Aspose.Medical for .NET API Reference
 description: Transcodes this Datasetaspose.medical.dicom/dataset to the given syntax.
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.medical.dicom/dataset/transcode/
 ---
 

@@ -11,7 +11,7 @@ url: /net/aspose.medical.dicom.imaging/photometricinterpretation/tryparse/
 
 ```csharp
 public static bool TryParse(string? s, IFormatProvider? provider, 
-    out PhotometricInterpretation result)
+    out PhotometricInterpretation? result)
 ```
 
 ### See Also
@@ -22,11 +22,11 @@ public static bool TryParse(string? s, IFormatProvider? provider,
 
 ---
 
-## TryParse(ReadOnlySpan&lt;char&gt;, IFormatProvider?, out PhotometricInterpretation) {#tryparse}
+## TryParse(ReadOnlySpan&lt;char&gt;, IFormatProvider, out PhotometricInterpretation) {#tryparse}
 
 ```csharp
 public static bool TryParse(ReadOnlySpan<char> s, IFormatProvider? provider, 
-    out PhotometricInterpretation result)
+    out PhotometricInterpretation? result)
 ```
 
 ### See Also

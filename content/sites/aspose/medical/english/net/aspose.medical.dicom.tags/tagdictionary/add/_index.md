@@ -29,7 +29,7 @@ public void Add(Tag tag, TagMetadata metadata)
 ### See Also
 
 * class [Tag](../../tag)
-* class [TagMetadata](../../tagmetadata)
+* record [TagMetadata](../../tagmetadata)
 * class [TagDictionary](../../tagdictionary)
 * namespace [Aspose.Medical.Dicom.Tags](../../tagdictionary)
 * assembly [Aspose.Medical](../../../)
@@ -49,10 +49,16 @@ public void Add(TagMask mask, TagMetadata metadata)
 | mask | TagMask | Tag mask that defines (reserves) range of tags. |
 | metadata | TagMetadata | Metadata describing tags corresponding to the given *mask*. |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| [MedicalApiException](../../../aspose.medical.errors/medicalapiexception) | Private Creator can only be set for private tags. - or Metadata related to wrong mask (mask != metadata.MaskedTag) |
+
 ### See Also
 
 * class [TagMask](../../tagmask)
-* class [TagMetadata](../../tagmetadata)
+* record [TagMetadata](../../tagmetadata)
 * class [TagDictionary](../../tagdictionary)
 * namespace [Aspose.Medical.Dicom.Tags](../../tagdictionary)
 * assembly [Aspose.Medical](../../../)
