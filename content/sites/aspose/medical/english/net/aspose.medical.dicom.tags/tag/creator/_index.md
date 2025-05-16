@@ -3,7 +3,7 @@ title: Creator
 second_title: Aspose.Medical for .NET API Reference
 description: Private creator of this tag. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_7.8.htmlsect_7.8.1https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_7.8.htmlsect_7.8.1 Read / Write PrivateCreatoraspose.medical.dicom.tags/privatecreator.
 type: docs
-weight: 53040
+weight: 53050
 url: /net/aspose.medical.dicom.tags/tag/creator/
 ---
 

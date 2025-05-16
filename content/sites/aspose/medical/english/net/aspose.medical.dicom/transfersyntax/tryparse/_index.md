@@ -10,7 +10,7 @@ url: /net/aspose.medical.dicom/transfersyntax/tryparse/
 ## TryParse(string, IFormatProvider, out TransferSyntax) {#tryparse_1}
 
 ```csharp
-public static bool TryParse(string? s, IFormatProvider? provider, out TransferSyntax result)
+public static bool TryParse(string? s, IFormatProvider? provider, out TransferSyntax? result)
 ```
 
 ### See Also
@@ -21,11 +21,11 @@ public static bool TryParse(string? s, IFormatProvider? provider, out TransferSy
 
 ---
 
-## TryParse(ReadOnlySpan&lt;char&gt;, IFormatProvider?, out TransferSyntax) {#tryparse}
+## TryParse(ReadOnlySpan&lt;char&gt;, IFormatProvider, out TransferSyntax) {#tryparse}
 
 ```csharp
 public static bool TryParse(ReadOnlySpan<char> s, IFormatProvider? provider, 
-    out TransferSyntax result)
+    out TransferSyntax? result)
 ```
 
 ### See Also

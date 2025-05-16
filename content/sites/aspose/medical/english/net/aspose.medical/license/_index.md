@@ -1,13 +1,15 @@
 ---
 title: License
 second_title: Aspose.Medical for .NET API Reference
-description: 
+description: Provides methods to license the component.
 type: docs
-weight: 1120
+weight: 1190
 url: /net/aspose.medical/license/
 ---
 
 ## License class
+
+Provides methods to license the component.
 
 ```csharp
 public sealed class License
@@ -23,9 +25,9 @@ public sealed class License
 
 | Name | Description |
 | --- | --- |
-| [ResetLicense](../../aspose.medical/license/resetlicense)() |  |
-| [SetLicense](../../aspose.medical/license/setlicense#setlicense)(Stream) |  |
-| [SetLicense](../../aspose.medical/license/setlicense#setlicense_1)(string) |  |
+| [ResetLicense](../../aspose.medical/license/resetlicense)() | Resets the license. |
+| [SetLicense](../../aspose.medical/license/setlicense#setlicense)(Stream) | Licenses the component. |
+| [SetLicense](../../aspose.medical/license/setlicense#setlicense_1)(string) | Licenses the component. |
 
 ### See Also
 

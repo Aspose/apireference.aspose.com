@@ -3,7 +3,7 @@ title: PrivateCreator
 second_title: Aspose.Medical for .NET API Reference
 description: Allows to reserve the block of Private Data Elements and identify private data elements. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_7.8.htmlsect_7.8.1https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_7.8.htmlsect_7.8.1.
 type: docs
-weight: 920
+weight: 990
 url: /net/aspose.medical.dicom.tags/privatecreator/
 ---
 
@@ -35,6 +35,7 @@ public sealed class PrivateCreator : IComparable<PrivateCreator>, IEquatable<Pri
 | override [Equals](../../aspose.medical.dicom.tags/privatecreator/equals#equals_1)(object) |  |
 | [Equals](../../aspose.medical.dicom.tags/privatecreator/equals#equals)(PrivateCreator) |  |
 | override [GetHashCode](../../aspose.medical.dicom.tags/privatecreator/gethashcode)() |  |
+| override [ToString](../../aspose.medical.dicom.tags/privatecreator/tostring)() |  |
 | [operator ==](../../aspose.medical.dicom.tags/privatecreator/op_equality) | Checks whether two [`PrivateCreator`](../privatecreator) objects are equal. |
 | [implicit operator](../../aspose.medical.dicom.tags/privatecreator/op_implicit) | Converts the [`PrivateCreator`](../privatecreator) to String. |
 | [operator !=](../../aspose.medical.dicom.tags/privatecreator/op_inequality) | Checks whether two [`PrivateCreator`](../privatecreator) objects are not equal. |

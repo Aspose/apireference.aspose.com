@@ -48,7 +48,7 @@ public sealed class PhotometricInterpretation : IEquatable<PhotometricInterpreta
 | [Equals](../../aspose.medical.dicom.imaging/photometricinterpretation/equals#equals)(PhotometricInterpretation) |  |
 | override [GetHashCode](../../aspose.medical.dicom.imaging/photometricinterpretation/gethashcode)() |  |
 | override [ToString](../../aspose.medical.dicom.imaging/photometricinterpretation/tostring)() |  |
-| static [TryParse](../../aspose.medical.dicom.imaging/photometricinterpretation/tryparse#tryparse)(ReadOnlySpan&lt;char&gt;, IFormatProvider?, out PhotometricInterpretation) |  |
+| static [TryParse](../../aspose.medical.dicom.imaging/photometricinterpretation/tryparse#tryparse)(ReadOnlySpan&lt;char&gt;, IFormatProvider, out PhotometricInterpretation) |  |
 | static [TryParse](../../aspose.medical.dicom.imaging/photometricinterpretation/tryparse#tryparse_1)(string, IFormatProvider, out PhotometricInterpretation) |  |
 | [operator ==](../../aspose.medical.dicom.imaging/photometricinterpretation/op_equality) | Determines whether two specified objects have the same value. |
 | [operator !=](../../aspose.medical.dicom.imaging/photometricinterpretation/op_inequality) | Determines whether two specified objects have different values. |

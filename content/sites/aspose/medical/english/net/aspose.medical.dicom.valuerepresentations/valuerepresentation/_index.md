@@ -3,7 +3,7 @@ title: ValueRepresentation
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates DICOM VR value representation. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmlhttps//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.html
 type: docs
-weight: 1030
+weight: 1100
 url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/
 ---
 
@@ -12,7 +12,7 @@ url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/
 Encapsulates DICOM VR (value representation). [https://dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.html](https://dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.html)
 
 ```csharp
-public sealed class ValueRepresentation : IEquatable<ValueRepresentation>
+public sealed class ValueRepresentation : IEquatable<ValueRepresentation>, IStructuralEquatable
 ```
 
 ## Properties
@@ -37,7 +37,9 @@ public sealed class ValueRepresentation : IEquatable<ValueRepresentation>
 | static [Parse](../../aspose.medical.dicom.valuerepresentations/valuerepresentation/parse)(string) | Converts the string representation of a VR to its typed equivalent. |
 | override [Equals](../../aspose.medical.dicom.valuerepresentations/valuerepresentation/equals#equals_1)(object) |  |
 | [Equals](../../aspose.medical.dicom.valuerepresentations/valuerepresentation/equals#equals)(ValueRepresentation) |  |
-| override [GetHashCode](../../aspose.medical.dicom.valuerepresentations/valuerepresentation/gethashcode)() |  |
+| [Equals](../../aspose.medical.dicom.valuerepresentations/valuerepresentation/equals#equals_2)(object?, IEqualityComparer) |  |
+| override [GetHashCode](../../aspose.medical.dicom.valuerepresentations/valuerepresentation/gethashcode#gethashcode)() |  |
+| [GetHashCode](../../aspose.medical.dicom.valuerepresentations/valuerepresentation/gethashcode#gethashcode_1)(IEqualityComparer) |  |
 | override [ToString](../../aspose.medical.dicom.valuerepresentations/valuerepresentation/tostring)() |  |
 | [operator ==](../../aspose.medical.dicom.valuerepresentations/valuerepresentation/op_equality) | Determines whether two specified objects have the same value. |
 | [operator !=](../../aspose.medical.dicom.valuerepresentations/valuerepresentation/op_inequality) | Determines whether two specified objects have different values. |

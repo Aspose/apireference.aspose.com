@@ -33,7 +33,7 @@ public void Visit(DicomFile file)
 Visits the entire graph of elements of the given *dataset*.
 
 ```csharp
-public void Visit(Dataset dataset)
+public virtual void Visit(Dataset dataset)
 ```
 
 | Parameter | Type | Description |

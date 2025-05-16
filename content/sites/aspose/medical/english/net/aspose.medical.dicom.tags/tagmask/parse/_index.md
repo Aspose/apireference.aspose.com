@@ -12,13 +12,14 @@ url: /net/aspose.medical.dicom.tags/tagmask/parse/
 Converts the string representation of a masked tag in to its typed equivalent.
 
 ```csharp
-public static TagMask Parse(string group, string element)
+public static TagMask Parse(string group, string element, PrivateCreator? creator)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | group | String | String representation of a group of masked tag. |
 | element | String | String representation of an element of masked tag. |
+| creator | PrivateCreator | DICOM Tag Private Creator element related to this mask. |
 
 ### Return Value
 
@@ -32,6 +33,7 @@ A [`TagMask`](../../tagmask) equivalent to the masked tag specified in *group* a
 
 ### See Also
 
+* class [PrivateCreator](../../privatecreator)
 * class [TagMask](../../tagmask)
 * namespace [Aspose.Medical.Dicom.Tags](../../tagmask)
 * assembly [Aspose.Medical](../../../)

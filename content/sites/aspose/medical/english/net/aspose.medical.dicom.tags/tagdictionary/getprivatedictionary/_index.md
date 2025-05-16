@@ -3,7 +3,7 @@ title: GetPrivateDictionary
 second_title: Aspose.Medical for .NET API Reference
 description: Returns a TagDictionaryaspose.medical.dicom.tags/tagdictionary intended to manage private elements related to the given privateCreator.
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.medical.dicom.tags/tagdictionary/getprivatedictionary/
 ---
 
@@ -23,7 +23,7 @@ public TagDictionary GetPrivateDictionary(PrivateCreator privateCreator)
 
 | exception | condition |
 | --- | --- |
-| ArgumentException |  |
+| ArgumentException | Nested private dictionaries are not allowed. - or - GetPrivateDictionary was called outside of `Default` dictionary. |
 
 ### See Also
 

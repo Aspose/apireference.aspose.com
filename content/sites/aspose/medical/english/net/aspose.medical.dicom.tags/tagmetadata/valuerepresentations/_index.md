@@ -3,7 +3,7 @@ title: ValueRepresentations
 second_title: Aspose.Medical for .NET API Reference
 description: Tags default value representation. Read-only ValueRepresentationaspose.medical.dicom.valuerepresentations/valuerepresentation.
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.medical.dicom.tags/tagmetadata/valuerepresentations/
 ---
 
@@ -18,7 +18,7 @@ public ValueRepresentation[] ValueRepresentations { get; set; }
 ### See Also
 
 * class [ValueRepresentation](../../../aspose.medical.dicom.valuerepresentations/valuerepresentation)
-* class [TagMetadata](../../tagmetadata)
+* record [TagMetadata](../../tagmetadata)
 * namespace [Aspose.Medical.Dicom.Tags](../../tagmetadata)
 * assembly [Aspose.Medical](../../../)
 

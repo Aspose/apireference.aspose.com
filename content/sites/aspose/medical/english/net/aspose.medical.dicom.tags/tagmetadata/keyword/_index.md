@@ -3,7 +3,7 @@ title: Keyword
 second_title: Aspose.Medical for .NET API Reference
 description: Tags keyword. Read-only String.
 type: docs
-weight: 20
+weight: 10
 url: /net/aspose.medical.dicom.tags/tagmetadata/keyword/
 ---
 
@@ -17,7 +17,7 @@ public string Keyword { get; set; }
 
 ### See Also
 
-* class [TagMetadata](../../tagmetadata)
+* record [TagMetadata](../../tagmetadata)
 * namespace [Aspose.Medical.Dicom.Tags](../../tagmetadata)
 * assembly [Aspose.Medical](../../../)
 

@@ -3,7 +3,7 @@ title: TagMask
 second_title: Aspose.Medical for .NET API Reference
 description: A tag mask for checking repeating groups. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_7.8.htmlsect_7.8.1https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_7.8.htmlsect_7.8.1.
 type: docs
-weight: 960
+weight: 1030
 url: /net/aspose.medical.dicom.tags/tagmask/
 ---
 
@@ -28,7 +28,7 @@ public sealed class TagMask
 
 | Name | Description |
 | --- | --- |
-| static [Parse](../../aspose.medical.dicom.tags/tagmask/parse)(string, string) | Converts the string representation of a masked tag in to its typed equivalent. |
+| static [Parse](../../aspose.medical.dicom.tags/tagmask/parse)(string, string, PrivateCreator?) | Converts the string representation of a masked tag in to its typed equivalent. |
 | [IsMatch](../../aspose.medical.dicom.tags/tagmask/ismatch)(Tag) | Returns a value indicating whether the given *tag* matches this mask. |
 | override [ToString](../../aspose.medical.dicom.tags/tagmask/tostring)() |  |
 

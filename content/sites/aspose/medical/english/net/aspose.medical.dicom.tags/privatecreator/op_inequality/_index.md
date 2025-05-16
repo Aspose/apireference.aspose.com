@@ -3,7 +3,7 @@ title: op_Inequality
 second_title: Aspose.Medical for .NET API Reference
 description: Checks whether two PrivateCreatoraspose.medical.dicom.tags/privatecreator objects are not equal.
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.medical.dicom.tags/privatecreator/op_inequality/
 ---
 

@@ -3,7 +3,7 @@ title: Group
 second_title: Aspose.Medical for .NET API Reference
 description: Tag Group. The 1st 4 numbers in DICOM tag definition e.g. for DICOM Tag 00280010 0028 - Group. Read-only UInt16.
 type: docs
-weight: 53060
+weight: 53070
 url: /net/aspose.medical.dicom.tags/tag/group/
 ---
 

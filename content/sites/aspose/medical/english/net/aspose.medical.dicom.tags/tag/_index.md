@@ -3,7 +3,7 @@ title: Tag
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates DICOM Tag. https//dicom.nema.org/medical/dicom/current/output/chtml/part06/chapter_6.htmlhttps//dicom.nema.org/medical/dicom/current/output/chtml/part06/chapter_6.html.
 type: docs
-weight: 930
+weight: 1000
 url: /net/aspose.medical.dicom.tags/tag/
 ---
 
@@ -30,6 +30,7 @@ public sealed class Tag : IComparable<Tag>, IEquatable<Tag>
 | Name | Description |
 | --- | --- |
 | static [GetOrCreate](../../aspose.medical.dicom.tags/tag/getorcreate)(ushort, ushort) |  |
+| static [Parse](../../aspose.medical.dicom.tags/tag/parse)(ReadOnlySpan&lt;char&gt;, PrivateCreator?) | Converts text representation of a tag to typed value [`Tag`](../tag). The format is: ({Group},{Element}:{Creator}). [Creator] is optional. The parentheses are optional. |
 | [CompareTo](../../aspose.medical.dicom.tags/tag/compareto)(Tag) |  |
 | override [Equals](../../aspose.medical.dicom.tags/tag/equals#equals_1)(object) |  |
 | [Equals](../../aspose.medical.dicom.tags/tag/equals#equals)(Tag) |  |

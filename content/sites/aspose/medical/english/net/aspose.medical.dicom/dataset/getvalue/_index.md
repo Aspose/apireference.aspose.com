@@ -3,7 +3,7 @@ title: GetValue
 second_title: Aspose.Medical for .NET API Reference
 description: Gets the index-th element value of the specified tag.
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.medical.dicom/dataset/getvalue/
 ---
 

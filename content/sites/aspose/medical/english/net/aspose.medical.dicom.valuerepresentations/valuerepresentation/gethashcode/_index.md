@@ -7,10 +7,24 @@ weight: 480
 url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/gethashcode/
 ---
 
-## ValueRepresentation.GetHashCode method
+## GetHashCode() {#gethashcode}
 
 ```csharp
 public override int GetHashCode()
+```
+
+### See Also
+
+* class [ValueRepresentation](../../valuerepresentation)
+* namespace [Aspose.Medical.Dicom.ValueRepresentations](../../valuerepresentation)
+* assembly [Aspose.Medical](../../../)
+
+---
+
+## GetHashCode(IEqualityComparer) {#gethashcode_1}
+
+```csharp
+public int GetHashCode(IEqualityComparer comparer)
 ```
 
 ### See Also

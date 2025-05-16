@@ -57,6 +57,7 @@ public sealed class MetaInformation : Dataset
 | [GetEnumerator](../../aspose.medical.dicom/dataset/getenumerator)() |  |
 | [GetOrDefault](../../aspose.medical.dicom/dataset/getordefault)(Tag) | Returns the [`IElement`](../../aspose.medical.dicom.elements/ielement) of the specified tag or `default` if the tag is not in the dataset. |
 | [GetOrDefault&lt;T&gt;](../../aspose.medical.dicom/dataset/getordefault)(Tag) | Returns the *T* of the specified tag or `default` if the tag is not in the dataset. |
+| [GetPrivateTag](../../aspose.medical.dicom/dataset/getprivatetag)(Tag) | Converts a dictionary tag to a valid private tag for this dataset. |
 | [GetSingleValue&lt;T&gt;](../../aspose.medical.dicom/dataset/getsinglevalue)(Tag) | Gets the element value of the specified *tag*, whose Value Multiplicity has to be |
 | [GetSingleValueOrDefault&lt;T&gt;](../../aspose.medical.dicom/dataset/getsinglevalueordefault)(Tag, T) | Gets the element value of the specified *tag*, whose Value Multiplicity has to be |
 | [GetValue&lt;T&gt;](../../aspose.medical.dicom/dataset/getvalue)(Tag, Index) | Gets the *index*-th element value of the specified *tag*. |

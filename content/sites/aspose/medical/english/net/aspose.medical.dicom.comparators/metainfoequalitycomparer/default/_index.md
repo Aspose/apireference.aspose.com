@@ -1,13 +1,15 @@
 ---
 title: Default
 second_title: Aspose.Medical for .NET API Reference
-description: 
+description: Gets an object that performs a MetaInformationaspose.medical.dicom/metainformation comparison operation. Read-only MetaInfoEqualityCompareraspose.medical.dicom.comparators/metainfoequalitycomparer.
 type: docs
 weight: 10
 url: /net/aspose.medical.dicom.comparators/metainfoequalitycomparer/default/
 ---
 
 ## MetaInfoEqualityComparer.Default property
+
+Gets an object that performs a [`MetaInformation`](../../../aspose.medical.dicom/metainformation) comparison operation. Read-only [`MetaInfoEqualityComparer`](../../metainfoequalitycomparer).
 
 ```csharp
 public static MetaInfoEqualityComparer Default { get; }

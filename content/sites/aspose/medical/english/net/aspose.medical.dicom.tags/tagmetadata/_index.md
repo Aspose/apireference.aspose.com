@@ -3,25 +3,26 @@ title: TagMetadata
 second_title: Aspose.Medical for .NET API Reference
 description: Tag./tag metainformation such as Value Multiplicity default Value Representation description etc.
 type: docs
-weight: 970
+weight: 1040
 url: /net/aspose.medical.dicom.tags/tagmetadata/
 ---
 
-## TagMetadata class
+## TagMetadata record
 
 [`Tag`](../tag) metainformation such as Value Multiplicity, default Value Representation, description, etc.
 
 ```csharp
-public sealed class TagMetadata
+public record TagMetadata
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Description](../../aspose.medical.dicom.tags/tagmetadata/description) { get; set; } | Description of Field. Read-only String. |
 | [Keyword](../../aspose.medical.dicom.tags/tagmetadata/keyword) { get; set; } | Tag's keyword. Read-only String. |
+| [MaskedTag](../../aspose.medical.dicom.tags/tagmetadata/maskedtag) { get; set; } | Tag mask that defines (reserves) range of tags. Read-only [`TagMask`](../tagmask)?. |
 | [Multiplicity](../../aspose.medical.dicom.tags/tagmetadata/multiplicity) { get; set; } | Tag's multiplicity. Read-only [`ValueMultiplicity`](../../aspose.medical.dicom/valuemultiplicity). |
+| [Name](../../aspose.medical.dicom.tags/tagmetadata/name) { get; set; } | Tag's name. Read-only String. |
 | [Retired](../../aspose.medical.dicom.tags/tagmetadata/retired) { get; set; } | Indicates whether the tag is retired or not. Read-only Boolean. |
 | [ValueRepresentations](../../aspose.medical.dicom.tags/tagmetadata/valuerepresentations) { get; set; } | Tag's default value representation. Read-only [`ValueRepresentation`](../../aspose.medical.dicom.valuerepresentations/valuerepresentation)[]. |
 

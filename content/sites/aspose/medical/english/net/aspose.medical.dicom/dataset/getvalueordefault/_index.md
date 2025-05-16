@@ -3,7 +3,7 @@ title: GetValueOrDefault
 second_title: Aspose.Medical for .NET API Reference
 description: Gets the index-th element value of the specified tag or the defaultValue if the requested value is not contained in the dataset.
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.medical.dicom/dataset/getvalueordefault/
 ---
 
