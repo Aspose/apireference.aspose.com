@@ -3,7 +3,7 @@ title: lookup_prefix method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 510
+weight: 500
 url: /python-net/aspose.svg/svgpathelement/lookup_prefix/
 is_root: false
 ---

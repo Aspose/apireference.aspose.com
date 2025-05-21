@@ -3,7 +3,7 @@ title: blend_positions property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 50
 url: /python-net/aspose.svg.drawing/ilineargradientbrush/blend_positions/
 is_root: false
 ---

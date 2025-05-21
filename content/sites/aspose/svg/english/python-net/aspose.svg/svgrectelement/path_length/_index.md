@@ -3,7 +3,7 @@ title: path_length property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 890
+weight: 880
 url: /python-net/aspose.svg/svgrectelement/path_length/
 is_root: false
 ---

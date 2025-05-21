@@ -3,7 +3,7 @@ title: child_element_count property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 630
+weight: 620
 url: /python-net/aspose.svg/svglineelement/child_element_count/
 is_root: false
 ---

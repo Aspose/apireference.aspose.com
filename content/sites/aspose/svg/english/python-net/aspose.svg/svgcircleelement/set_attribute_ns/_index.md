@@ -3,7 +3,7 @@ title: set_attribute_ns method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 450
 url: /python-net/aspose.svg/svgcircleelement/set_attribute_ns/
 is_root: false
 ---

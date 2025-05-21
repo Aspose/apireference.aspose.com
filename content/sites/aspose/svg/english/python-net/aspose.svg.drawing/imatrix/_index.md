@@ -3,7 +3,7 @@ title: IMatrix class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 120
 url: /python-net/aspose.svg.drawing/imatrix/
 is_root: false
 ---
@@ -50,7 +50,6 @@ The IMatrix type exposes the following members:
 | [skew](/svg/python-net/aspose.svg.drawing/imatrix/skew/#float-float) | Applies a skew transformation to the matrix. |
 | [reset](/svg/python-net/aspose.svg.drawing/imatrix/reset/#) | Resets the matrix to the identity matrix. |
 | [clone](/svg/python-net/aspose.svg.drawing/imatrix/clone/#) | Creates a copy of this matrix. |
-| [to_native](/svg/python-net/aspose.svg.drawing/imatrix/to_native/#) | Converts the matrix to a native representation. |
 
 
 

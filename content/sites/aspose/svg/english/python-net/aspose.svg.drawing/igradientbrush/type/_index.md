@@ -3,7 +3,7 @@ title: type property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 80
 url: /python-net/aspose.svg.drawing/igradientbrush/type/
 is_root: false
 ---

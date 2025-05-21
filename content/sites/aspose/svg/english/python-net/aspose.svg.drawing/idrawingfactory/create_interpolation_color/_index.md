@@ -3,7 +3,7 @@ title: create_interpolation_color method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 20
 url: /python-net/aspose.svg.drawing/idrawingfactory/create_interpolation_color/
 is_root: false
 ---

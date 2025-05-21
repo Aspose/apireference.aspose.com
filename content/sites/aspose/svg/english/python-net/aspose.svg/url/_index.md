@@ -3,7 +3,7 @@ title: Url class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 690
+weight: 670
 url: /python-net/aspose.svg/url/
 is_root: false
 ---
@@ -50,7 +50,6 @@ The Url type exposes the following members:
 | :- | :- |
 | [get_platform_type](/svg/python-net/aspose.svg/url/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
 | [to_json](/svg/python-net/aspose.svg/url/to_json/#) | Returns a String that represents this instance. |
-| [compare_to](/svg/python-net/aspose.svg/url/compare_to/#aspose.svg.Url-bool) | Determines whether the specified [`Url`](/svg/python-net/aspose.svg/url), is equal to this instance. |
 
 
 

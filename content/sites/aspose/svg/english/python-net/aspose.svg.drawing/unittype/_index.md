@@ -3,7 +3,7 @@ title: UnitType class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 260
 url: /python-net/aspose.svg.drawing/unittype/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: IStyleSheet class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 270
 url: /python-net/aspose.svg.dom.css/istylesheet/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: remove_attribute_node method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 370
 url: /python-net/aspose.svg/svgcircleelement/remove_attribute_node/
 is_root: false
 ---

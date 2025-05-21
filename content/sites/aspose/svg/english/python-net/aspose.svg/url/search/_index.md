@@ -3,7 +3,7 @@ title: search property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 140
 url: /python-net/aspose.svg/url/search/
 is_root: false
 ---

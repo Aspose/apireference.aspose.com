@@ -3,7 +3,7 @@ title: Resolution class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 220
 url: /python-net/aspose.svg.drawing/resolution/
 is_root: false
 ---

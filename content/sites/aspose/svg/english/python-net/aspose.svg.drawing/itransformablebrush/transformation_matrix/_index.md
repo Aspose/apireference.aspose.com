@@ -3,7 +3,7 @@ title: transformation_matrix property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 40
 url: /python-net/aspose.svg.drawing/itransformablebrush/transformation_matrix/
 is_root: false
 ---

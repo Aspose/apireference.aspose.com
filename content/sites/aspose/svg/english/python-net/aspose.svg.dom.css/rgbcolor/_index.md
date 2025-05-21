@@ -3,7 +3,7 @@ title: RGBColor class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 300
 url: /python-net/aspose.svg.dom.css/rgbcolor/
 is_root: false
 ---

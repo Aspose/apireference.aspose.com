@@ -3,7 +3,7 @@ title: convert_svg method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /python-net/aspose.svg.converters/converter/convert_svg/
 is_root: false
 ---

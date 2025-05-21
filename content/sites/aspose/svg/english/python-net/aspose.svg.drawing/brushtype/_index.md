@@ -3,7 +3,7 @@ title: BrushType enumeration
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 270
 url: /python-net/aspose.svg.drawing/brushtype/
 is_root: false
 ---

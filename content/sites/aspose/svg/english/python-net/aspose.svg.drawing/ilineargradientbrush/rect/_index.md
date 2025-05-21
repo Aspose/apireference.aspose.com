@@ -3,7 +3,7 @@ title: rect property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 70
 url: /python-net/aspose.svg.drawing/ilineargradientbrush/rect/
 is_root: false
 ---

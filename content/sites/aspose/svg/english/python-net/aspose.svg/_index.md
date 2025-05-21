@@ -81,8 +81,6 @@ navigate or render the SVG file as per your requirements.
 | [`SVGTitleElement`](/svg/python-net/aspose.svg/svgtitleelement) | The SVGTitleElement interface corresponds to the ‘title’ element. |
 | [`SVGUseElement`](/svg/python-net/aspose.svg/svguseelement) | The SVGUseElement interface corresponds to the ‘use’ element. |
 | [`SVGViewElement`](/svg/python-net/aspose.svg/svgviewelement) | The SVGViewElement interface corresponds to the ‘view’ element. |
-| [`TypedArray`](/svg/python-net/aspose.svg/typedarray) | TypedArray objects present an array-like view of an underlying binary data buffer. |
-| [`Uint8ClampedArray`](/svg/python-net/aspose.svg/uint8clampedarray) | Represents an array of 8-bit unsigned integers clamped to 0-255; if you specified a value that is out of the range of [0,255], 0 or 255 will be set instead; |
 | [`Url`](/svg/python-net/aspose.svg/url) | Provides an object representation of a universal identifier (URL). |
 
 

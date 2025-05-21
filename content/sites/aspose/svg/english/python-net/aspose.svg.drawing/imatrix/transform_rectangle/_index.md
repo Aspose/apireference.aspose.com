@@ -3,7 +3,7 @@ title: transform_rectangle method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 130
 url: /python-net/aspose.svg.drawing/imatrix/transform_rectangle/
 is_root: false
 ---

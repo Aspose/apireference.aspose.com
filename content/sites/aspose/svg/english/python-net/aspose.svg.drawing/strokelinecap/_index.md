@@ -3,7 +3,7 @@ title: StrokeLineCap enumeration
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 310
 url: /python-net/aspose.svg.drawing/strokelinecap/
 is_root: false
 ---

@@ -15,7 +15,6 @@ classes responsible for rendering to raster formats: jpeg, png, bmp, gif, tiff.
 ### Classes
 | Class | Description |
 | :- | :- |
-| [`IImageDeviceFactory`](/svg/python-net/aspose.svg.rendering.image/iimagedevicefactory) | Represents a factory for creating image devices. |
 | [`ImageDevice`](/svg/python-net/aspose.svg.rendering.image/imagedevice) | Represents rendering to raster formats: jpeg, png, bmp, gif, tiff. |
 | [`ImageRenderingOptions`](/svg/python-net/aspose.svg.rendering.image/imagerenderingoptions) | Represents rendering options for [`ImageDevice`](/svg/python-net/aspose.svg.rendering.image/imagedevice). This options is used to specify output image format, compression, resolution etc. |
 | [`TextOptions`](/svg/python-net/aspose.svg.rendering.image/textoptions) | Represents text rendering options for [`ImageDevice`](/svg/python-net/aspose.svg.rendering.image/imagedevice). |

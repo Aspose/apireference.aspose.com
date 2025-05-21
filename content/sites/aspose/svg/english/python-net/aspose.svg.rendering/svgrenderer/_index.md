@@ -3,7 +3,7 @@ title: SvgRenderer class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 90
 url: /python-net/aspose.svg.rendering/svgrenderer/
 is_root: false
 ---

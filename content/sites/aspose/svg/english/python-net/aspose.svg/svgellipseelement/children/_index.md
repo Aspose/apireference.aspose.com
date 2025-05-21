@@ -3,7 +3,7 @@ title: children property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 640
 url: /python-net/aspose.svg/svgellipseelement/children/
 is_root: false
 ---

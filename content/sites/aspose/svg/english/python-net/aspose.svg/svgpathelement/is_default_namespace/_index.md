@@ -3,7 +3,7 @@ title: is_default_namespace method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 460
 url: /python-net/aspose.svg/svgpathelement/is_default_namespace/
 is_root: false
 ---

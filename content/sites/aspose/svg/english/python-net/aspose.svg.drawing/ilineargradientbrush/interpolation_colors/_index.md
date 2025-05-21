@@ -3,7 +3,7 @@ title: interpolation_colors property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 60
 url: /python-net/aspose.svg.drawing/ilineargradientbrush/interpolation_colors/
 is_root: false
 ---

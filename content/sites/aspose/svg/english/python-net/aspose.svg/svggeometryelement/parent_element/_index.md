@@ -3,7 +3,7 @@ title: parent_element property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 860
+weight: 850
 url: /python-net/aspose.svg/svggeometryelement/parent_element/
 is_root: false
 ---

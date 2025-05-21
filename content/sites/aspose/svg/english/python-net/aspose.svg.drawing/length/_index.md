@@ -3,7 +3,7 @@ title: Length class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 170
 url: /python-net/aspose.svg.drawing/length/
 is_root: false
 ---

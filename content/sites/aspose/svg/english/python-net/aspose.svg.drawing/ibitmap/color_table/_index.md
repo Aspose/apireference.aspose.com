@@ -3,7 +3,7 @@ title: color_table property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 90
 url: /python-net/aspose.svg.drawing/ibitmap/color_table/
 is_root: false
 ---

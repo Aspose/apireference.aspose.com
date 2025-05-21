@@ -3,7 +3,7 @@ title: node_name property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1000
+weight: 990
 url: /python-net/aspose.svg/svgpathelement/node_name/
 is_root: false
 ---

@@ -10,13 +10,8 @@ is_root: false
 
 ## begin_element {#aspose.svg.dom.Element-aspose.pydrawing.RectangleF}
 
-Begins rendering of the element.
 
 
-### Returns 
-
-
-Returns [true] if element should be processed.
 
 
 ```python
@@ -27,12 +22,11 @@ def begin_element(self, element, rect):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| element | aspose.svg.dom.Element | The [`Element`](/svg/python-net/aspose.svg.dom/element). |
-| rect | aspose.pydrawing.RectangleF | Bounding box of the node. |
+| element | aspose.svg.dom.Element |  |
+| rect | aspose.pydrawing.RectangleF |  |
 
 
 
 ### See Also
 * module [`aspose.svg.rendering.pdf`](../../)
-* class [`Element`](/svg/python-net/aspose.svg.dom/element)
 * class [`PdfDevice`](/svg/python-net/aspose.svg.rendering.pdf/pdfdevice)

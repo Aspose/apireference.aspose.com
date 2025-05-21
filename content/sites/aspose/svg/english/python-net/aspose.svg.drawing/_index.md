@@ -21,14 +21,12 @@ drawing attribute objects like brushes, colors and fonts.
 | [`Frequency`](/svg/python-net/aspose.svg.drawing/frequency) | The 'frequency' unit. |
 | [`IBitmap`](/svg/python-net/aspose.svg.drawing/ibitmap) | Represents a bitmap image. |
 | [`IBrush`](/svg/python-net/aspose.svg.drawing/ibrush) | Declares method for getting of brush type. |
-| [`ICodec`](/svg/python-net/aspose.svg.drawing/icodec) | Represents a codec for decoding images. |
 | [`IColorComponents`](/svg/python-net/aspose.svg.drawing/icolorcomponents) | Declares method and properties for processing color components. |
 | [`IDrawingFactory`](/svg/python-net/aspose.svg.drawing/idrawingfactory) | Represents a factory for creating drawing-related objects. |
 | [`IGradientBrush`](/svg/python-net/aspose.svg.drawing/igradientbrush) | Declare methods for getting common properties of gradient brushes. |
 | [`IInterpolationColor`](/svg/python-net/aspose.svg.drawing/iinterpolationcolor) | Desclares methods for getting interpolation color. |
 | [`ILinearGradientBrush`](/svg/python-net/aspose.svg.drawing/ilineargradientbrush) | Defines an interface for a brush with a linear gradient. |
 | [`IMatrix`](/svg/python-net/aspose.svg.drawing/imatrix) | Represents a matrix used for transformations. |
-| [`IPixelsMap`](/svg/python-net/aspose.svg.drawing/ipixelsmap) | Represents a map of pixel data. |
 | [`ISolidBrush`](/svg/python-net/aspose.svg.drawing/isolidbrush) | Defines brush interface of a single color |
 | [`ITextureBrush`](/svg/python-net/aspose.svg.drawing/itexturebrush) | Defines brush interface that uses an image to fill the interior of a shape. |
 | [`ITransformableBrush`](/svg/python-net/aspose.svg.drawing/itransformablebrush) | Desclares methods for getting transformation matrix and wrap mode. |
@@ -43,7 +41,6 @@ drawing attribute objects like brushes, colors and fonts.
 | [`Time`](/svg/python-net/aspose.svg.drawing/time) | Represents a time unit. |
 | [`Unit`](/svg/python-net/aspose.svg.drawing/unit) | Provides the base class for units of measurement. |
 | [`UnitType`](/svg/python-net/aspose.svg.drawing/unittype) | Specifies the unit of measurement. |
-| [`Viewport`](/svg/python-net/aspose.svg.drawing/viewport) | Represents a viewport that defines the width and height of a visual area. |
 
 
 ### Enumerations
@@ -51,7 +48,6 @@ drawing attribute objects like brushes, colors and fonts.
 | :- | :- |
 | [`BrushType`](/svg/python-net/aspose.svg.drawing/brushtype) | Specifies the type of brush. |
 | [`ColorModel`](/svg/python-net/aspose.svg.drawing/colormodel) | This enumeration is used to select the color model for working with color components. |
-| [`ColorSpace`](/svg/python-net/aspose.svg.drawing/colorspace) | Specifies the color space or color model used in a pixel map [`IPixelsMap`](/svg/python-net/aspose.svg.drawing/ipixelsmap). |
 | [`FillRule`](/svg/python-net/aspose.svg.drawing/fillrule) | Specifies the fill rule used in rendering SVG and HTML. |
 | [`SpreadMode`](/svg/python-net/aspose.svg.drawing/spreadmode) | Specifies how a texture or gradient is tiled when it is smaller than the area being filled. |
 | [`StrokeLineCap`](/svg/python-net/aspose.svg.drawing/strokelinecap) | Specifies the line cap used in rendering SVG and HTML. |

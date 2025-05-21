@@ -3,7 +3,7 @@ title: FillRule enumeration
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 290
 url: /python-net/aspose.svg.drawing/fillrule/
 is_root: false
 ---

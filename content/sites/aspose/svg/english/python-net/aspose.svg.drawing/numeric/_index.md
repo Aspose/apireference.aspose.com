@@ -3,7 +3,7 @@ title: Numeric class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 200
 url: /python-net/aspose.svg.drawing/numeric/
 is_root: false
 ---

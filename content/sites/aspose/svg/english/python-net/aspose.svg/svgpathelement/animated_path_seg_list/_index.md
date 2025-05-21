@@ -3,7 +3,7 @@ title: animated_path_seg_list property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 800
+weight: 790
 url: /python-net/aspose.svg/svgpathelement/animated_path_seg_list/
 is_root: false
 ---

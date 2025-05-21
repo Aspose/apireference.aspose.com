@@ -3,7 +3,7 @@ title: text_content property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1000
+weight: 990
 url: /python-net/aspose.svg/svgpolylineelement/text_content/
 is_root: false
 ---

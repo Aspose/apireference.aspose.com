@@ -3,7 +3,7 @@ title: color_map property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 30
 url: /python-net/aspose.svg.drawing/itexturebrush/color_map/
 is_root: false
 ---

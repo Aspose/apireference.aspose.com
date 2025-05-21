@@ -3,7 +3,7 @@ title: animated_points property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 600
 url: /python-net/aspose.svg/svgpolygonelement/animated_points/
 is_root: false
 ---

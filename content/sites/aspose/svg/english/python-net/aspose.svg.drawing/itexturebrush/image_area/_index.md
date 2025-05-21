@@ -3,7 +3,7 @@ title: image_area property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 50
 url: /python-net/aspose.svg.drawing/itexturebrush/image_area/
 is_root: false
 ---

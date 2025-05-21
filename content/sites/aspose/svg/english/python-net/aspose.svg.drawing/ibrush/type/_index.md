@@ -3,7 +3,7 @@ title: type property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 30
 url: /python-net/aspose.svg.drawing/ibrush/type/
 is_root: false
 ---

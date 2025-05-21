@@ -3,7 +3,7 @@ title: IDevice class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 50
 url: /python-net/aspose.svg.rendering/idevice/
 is_root: false
 ---

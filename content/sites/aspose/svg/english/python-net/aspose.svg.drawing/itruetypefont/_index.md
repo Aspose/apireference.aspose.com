@@ -3,7 +3,7 @@ title: ITrueTypeFont class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 160
 url: /python-net/aspose.svg.drawing/itruetypefont/
 is_root: false
 ---

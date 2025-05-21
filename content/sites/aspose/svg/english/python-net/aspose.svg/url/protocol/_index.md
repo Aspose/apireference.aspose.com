@@ -3,7 +3,7 @@ title: protocol property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 130
 url: /python-net/aspose.svg/url/protocol/
 is_root: false
 ---

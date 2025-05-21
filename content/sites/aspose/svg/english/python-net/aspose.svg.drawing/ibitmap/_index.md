@@ -23,7 +23,6 @@ The IBitmap type exposes the following members:
 | [height](/svg/python-net/aspose.svg.drawing/ibitmap/height) | Gets the height of the bitmap image. |
 | [horizontal_resolution](/svg/python-net/aspose.svg.drawing/ibitmap/horizontal_resolution) | Gets the horizontal resolution of the bitmap image. |
 | [vertical_resolution](/svg/python-net/aspose.svg.drawing/ibitmap/vertical_resolution) | Gets the vertical resolution of the bitmap image. |
-| [color_space](/svg/python-net/aspose.svg.drawing/ibitmap/color_space) | Gets the color space [`IBitmap.color_space`](/svg/python-net/aspose.svg.drawing/ibitmap#color_space) of the bitmap image. |
 | [color_table](/svg/python-net/aspose.svg.drawing/ibitmap/color_table) | Gets the color table of the bitmap image. |
 | [format](/svg/python-net/aspose.svg.drawing/ibitmap/format) | Gets the format of the bitmap image [`WebImageFormat`](/svg/python-net/aspose.svg.drawing/webimageformat). |
 
@@ -37,7 +36,6 @@ The IBitmap type exposes the following members:
 | [draw_bitmap](/svg/python-net/aspose.svg.drawing/ibitmap/draw_bitmap/#aspose.pydrawing.Rectangle-aspose.pydrawing.Rectangle-aspose.svg.drawing.IBitmap) | Draws the specified source rectangle of the given bitmap onto the specified destination rectangle of the current bitmap. |
 | [fill_rectangle](/svg/python-net/aspose.svg.drawing/ibitmap/fill_rectangle/#aspose.pydrawing.Rectangle-aspose.svg.drawing.IBrush) | Fills the specified rectangle with the specified brush. |
 | [rotate_flip](/svg/python-net/aspose.svg.drawing/ibitmap/rotate_flip/#aspose.svg.drawing.WebRotateFlipType) | Rotates and flips the bitmap image according to the specified rotation and flip type. |
-| [get_pixels_map](/svg/python-net/aspose.svg.drawing/ibitmap/get_pixels_map/#bool-bool) | Retrieves the pixel map representation of the bitmap image, optionally converting to monochrome and allowing transparency color conversion. |
 
 
 

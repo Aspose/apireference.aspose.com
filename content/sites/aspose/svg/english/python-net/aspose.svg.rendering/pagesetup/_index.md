@@ -3,7 +3,7 @@ title: PageSetup class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 60
 url: /python-net/aspose.svg.rendering/pagesetup/
 is_root: false
 ---

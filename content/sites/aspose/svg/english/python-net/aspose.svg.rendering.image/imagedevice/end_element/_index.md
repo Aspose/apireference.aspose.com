@@ -10,7 +10,7 @@ is_root: false
 
 ## end_element {#aspose.svg.dom.Element}
 
-Ends rendering of the element.
+
 
 
 
@@ -22,11 +22,10 @@ def end_element(self, element):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| element | aspose.svg.dom.Element | The [`Element`](/svg/python-net/aspose.svg.dom/element). |
+| element | aspose.svg.dom.Element |  |
 
 
 
 ### See Also
 * module [`aspose.svg.rendering.image`](../../)
-* class [`Element`](/svg/python-net/aspose.svg.dom/element)
 * class [`ImageDevice`](/svg/python-net/aspose.svg.rendering.image/imagedevice)

@@ -3,7 +3,7 @@ title: format property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 100
 url: /python-net/aspose.svg.drawing/ibitmap/format/
 is_root: false
 ---

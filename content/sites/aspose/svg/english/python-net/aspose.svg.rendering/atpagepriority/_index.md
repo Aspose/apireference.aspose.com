@@ -3,7 +3,7 @@ title: AtPagePriority enumeration
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 110
 url: /python-net/aspose.svg.rendering/atpagepriority/
 is_root: false
 ---

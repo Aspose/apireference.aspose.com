@@ -3,7 +3,7 @@ title: Sandbox enumeration
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 730
+weight: 710
 url: /python-net/aspose.svg/sandbox/
 is_root: false
 ---

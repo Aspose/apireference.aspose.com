@@ -3,7 +3,7 @@ title: get_platform_type method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 370
 url: /python-net/aspose.svg/svgpathelement/get_platform_type/
 is_root: false
 ---

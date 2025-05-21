@@ -3,7 +3,7 @@ title: ry property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 970
+weight: 960
 url: /python-net/aspose.svg/svgellipseelement/ry/
 is_root: false
 ---

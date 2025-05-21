@@ -3,7 +3,7 @@ title: farthest_viewport_element property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 880
+weight: 870
 url: /python-net/aspose.svg/svgpathelement/farthest_viewport_element/
 is_root: false
 ---

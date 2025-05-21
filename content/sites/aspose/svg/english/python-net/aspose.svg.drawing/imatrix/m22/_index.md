@@ -3,7 +3,7 @@ title: m22 property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 210
 url: /python-net/aspose.svg.drawing/imatrix/m22/
 is_root: false
 ---

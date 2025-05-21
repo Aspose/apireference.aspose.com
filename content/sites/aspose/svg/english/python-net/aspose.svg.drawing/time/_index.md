@@ -3,7 +3,7 @@ title: Time class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 240
 url: /python-net/aspose.svg.drawing/time/
 is_root: false
 ---

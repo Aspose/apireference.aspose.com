@@ -3,7 +3,7 @@ title: outer_html property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 850
+weight: 840
 url: /python-net/aspose.svg/svgellipseelement/outer_html/
 is_root: false
 ---

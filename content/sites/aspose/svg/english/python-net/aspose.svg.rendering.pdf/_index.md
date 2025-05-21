@@ -15,7 +15,6 @@ responsible for rendering to a pdf document.
 ### Classes
 | Class | Description |
 | :- | :- |
-| [`IPdfDeviceFactory`](/svg/python-net/aspose.svg.rendering.pdf/ipdfdevicefactory) | Represents a factory for creating PDF devices. |
 | [`PdfDevice`](/svg/python-net/aspose.svg.rendering.pdf/pdfdevice) | Represents rendering to a pdf document. |
 | [`PdfDocumentInfo`](/svg/python-net/aspose.svg.rendering.pdf/pdfdocumentinfo) | Represents the information about the PDF document. |
 | [`PdfRenderingOptions`](/svg/python-net/aspose.svg.rendering.pdf/pdfrenderingoptions) | Represents rendering options for [`PdfDevice`](/svg/python-net/aspose.svg.rendering.pdf/pdfdevice). |

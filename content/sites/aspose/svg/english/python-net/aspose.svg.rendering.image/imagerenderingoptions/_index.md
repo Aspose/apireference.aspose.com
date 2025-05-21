@@ -3,7 +3,7 @@ title: ImageRenderingOptions class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 20
 url: /python-net/aspose.svg.rendering.image/imagerenderingoptions/
 is_root: false
 ---

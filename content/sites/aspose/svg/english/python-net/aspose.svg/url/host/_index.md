@@ -3,7 +3,7 @@ title: host property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 60
 url: /python-net/aspose.svg/url/host/
 is_root: false
 ---

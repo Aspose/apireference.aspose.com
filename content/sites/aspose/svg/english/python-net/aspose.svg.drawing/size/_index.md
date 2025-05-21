@@ -3,7 +3,7 @@ title: Size class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 230
 url: /python-net/aspose.svg.drawing/size/
 is_root: false
 ---

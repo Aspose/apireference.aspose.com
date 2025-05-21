@@ -3,7 +3,7 @@ title: next_sibling property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 790
+weight: 780
 url: /python-net/aspose.svg/svggeometryelement/next_sibling/
 is_root: false
 ---

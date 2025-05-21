@@ -3,7 +3,7 @@ title: CSSEngineMode enumeration
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 320
 url: /python-net/aspose.svg.dom.css/cssenginemode/
 is_root: false
 ---

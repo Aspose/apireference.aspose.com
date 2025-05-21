@@ -3,7 +3,7 @@ title: is_same_node method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 490
+weight: 480
 url: /python-net/aspose.svg/svgpathelement/is_same_node/
 is_root: false
 ---

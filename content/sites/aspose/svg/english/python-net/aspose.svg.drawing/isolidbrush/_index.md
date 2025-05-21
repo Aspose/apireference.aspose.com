@@ -3,7 +3,7 @@ title: ISolidBrush class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 130
 url: /python-net/aspose.svg.drawing/isolidbrush/
 is_root: false
 ---
@@ -21,13 +21,6 @@ The ISolidBrush type exposes the following members:
 | :- | :- |
 | [color](/svg/python-net/aspose.svg.drawing/isolidbrush/color) | Get color of the brush. |
 | [type](/svg/python-net/aspose.svg.drawing/isolidbrush/type) | Gets type of brush as [`BrushType`](/svg/python-net/aspose.svg.drawing/brushtype). |
-| [supports_shader](/svg/python-net/aspose.svg.drawing/isolidbrush/supports_shader) | Checks if the brush supports a shader. |
-
-
-### Methods
-| Method | Description |
-| :- | :- |
-| [to_native](/svg/python-net/aspose.svg.drawing/isolidbrush/to_native/#) | Converts the brush to a native representation. |
 
 
 

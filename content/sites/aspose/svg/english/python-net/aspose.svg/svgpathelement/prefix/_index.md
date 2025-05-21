@@ -3,7 +3,7 @@ title: prefix property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1100
+weight: 1090
 url: /python-net/aspose.svg/svgpathelement/prefix/
 is_root: false
 ---

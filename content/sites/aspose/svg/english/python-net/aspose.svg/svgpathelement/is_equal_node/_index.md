@@ -3,7 +3,7 @@ title: is_equal_node method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 480
+weight: 470
 url: /python-net/aspose.svg/svgpathelement/is_equal_node/
 is_root: false
 ---

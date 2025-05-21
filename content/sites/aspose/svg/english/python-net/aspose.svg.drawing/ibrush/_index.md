@@ -20,13 +20,6 @@ The IBrush type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [type](/svg/python-net/aspose.svg.drawing/ibrush/type) | Gets type of brush as [`BrushType`](/svg/python-net/aspose.svg.drawing/brushtype). |
-| [supports_shader](/svg/python-net/aspose.svg.drawing/ibrush/supports_shader) | Checks if the brush supports a shader. |
-
-
-### Methods
-| Method | Description |
-| :- | :- |
-| [to_native](/svg/python-net/aspose.svg.drawing/ibrush/to_native/#) | Converts the brush to a native representation. |
 
 
 

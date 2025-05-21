@@ -3,7 +3,7 @@ title: height property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 110
 url: /python-net/aspose.svg.drawing/ibitmap/height/
 is_root: false
 ---

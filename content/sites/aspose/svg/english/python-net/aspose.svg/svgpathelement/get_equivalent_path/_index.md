@@ -10,13 +10,13 @@ is_root: false
 
 ## get_equivalent_path {#}
 
-Returns a new instance instance of the [`SVGPathSegList`](/svg/python-net/aspose.svg.paths/svgpathseglist) which represents [`SVGGeometryElement`](/svg/python-net/aspose.svg/svggeometryelement) as path segments.
+Returns a new instance of the [`SVGPathSegList`](/svg/python-net/aspose.svg.paths/svgpathseglist) which represents [`SVGGeometryElement`](/svg/python-net/aspose.svg/svggeometryelement) as path segments.
 
 
 ### Returns 
 
 
-A new instance instance of the [`SVGPathSegList`](/svg/python-net/aspose.svg.paths/svgpathseglist).
+A new instance of the [`SVGPathSegList`](/svg/python-net/aspose.svg.paths/svgpathseglist).
 
 
 ```python

@@ -3,7 +3,7 @@ title: transform property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1010
+weight: 1000
 url: /python-net/aspose.svg/svgpolylineelement/transform/
 is_root: false
 ---

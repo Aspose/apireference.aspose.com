@@ -3,7 +3,7 @@ title: ATTRIBUTE_NODE property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 490
+weight: 480
 url: /python-net/aspose.svg/svggeometryelement/attribute_node/
 is_root: false
 ---

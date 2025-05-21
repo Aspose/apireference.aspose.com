@@ -3,7 +3,7 @@ title: remove_child method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 390
 url: /python-net/aspose.svg/svgellipseelement/remove_child/
 is_root: false
 ---

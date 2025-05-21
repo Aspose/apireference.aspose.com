@@ -3,7 +3,7 @@ title: TextOptions class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 30
 url: /python-net/aspose.svg.rendering.image/textoptions/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: is_identity property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 160
 url: /python-net/aspose.svg.drawing/imatrix/is_identity/
 is_root: false
 ---

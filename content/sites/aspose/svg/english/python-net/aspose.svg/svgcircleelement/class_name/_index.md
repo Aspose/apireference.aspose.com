@@ -3,7 +3,7 @@ title: class_name property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 660
 url: /python-net/aspose.svg/svgcircleelement/class_name/
 is_root: false
 ---

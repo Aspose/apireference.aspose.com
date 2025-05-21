@@ -63,6 +63,8 @@ The Converter type exposes the following members:
 | [convert_svg](/svg/python-net/aspose.svg.converters/converter/convert_svg/#str-aspose.svg.Configuration-aspose.svg.saving.ImageSaveOptions-aspose.svg.io.ICreateStreamProvider) | Convert svg source to image. Result is image file. |
 | [convert_svg](/svg/python-net/aspose.svg.converters/converter/convert_svg/#str-str-aspose.svg.saving.ImageSaveOptions-aspose.svg.io.ICreateStreamProvider) | Convert svg source to image. Result is image file. |
 | [convert_svg](/svg/python-net/aspose.svg.converters/converter/convert_svg/#str-str-aspose.svg.Configuration-aspose.svg.saving.ImageSaveOptions-aspose.svg.io.ICreateStreamProvider) | Convert svg source to image. Result is image file. |
+| [convert_image_to_svg](/svg/python-net/aspose.svg.converters/converter/convert_image_to_svg/#aspose.svg.imagevectorization.ImageVectorizerConfiguration-str-str) | Converts a raster image located on disk to SVG format. |
+| [convert_image_to_svg](/svg/python-net/aspose.svg.converters/converter/convert_image_to_svg/#aspose.svg.imagevectorization.ImageVectorizerConfiguration-io.RawIOBase-str) | Converts a raster image provided as a Stream to SVG format. |
 
 
 

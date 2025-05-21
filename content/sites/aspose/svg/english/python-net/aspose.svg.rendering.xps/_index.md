@@ -15,7 +15,6 @@ options classes responsible for rendering to a xps document.
 ### Classes
 | Class | Description |
 | :- | :- |
-| [`IXpsDeviceFactory`](/svg/python-net/aspose.svg.rendering.xps/ixpsdevicefactory) | Represents a factory for creating XPS devices. |
 | [`XpsDevice`](/svg/python-net/aspose.svg.rendering.xps/xpsdevice) | Represents rendering to a xps document. |
 | [`XpsRenderingOptions`](/svg/python-net/aspose.svg.rendering.xps/xpsrenderingoptions) | Represents rendering options for [`XpsDevice`](/svg/python-net/aspose.svg.rendering.xps/xpsdevice). |
 

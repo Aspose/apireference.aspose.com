@@ -3,7 +3,7 @@ title: set_attribute method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 420
 url: /python-net/aspose.svg/svgpolygonelement/set_attribute/
 is_root: false
 ---

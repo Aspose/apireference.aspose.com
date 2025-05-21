@@ -3,7 +3,7 @@ title: remove_attribute method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 360
 url: /python-net/aspose.svg/svglineelement/remove_attribute/
 is_root: false
 ---

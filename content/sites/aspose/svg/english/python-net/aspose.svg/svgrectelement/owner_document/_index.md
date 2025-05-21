@@ -3,7 +3,7 @@ title: owner_document property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 850
+weight: 840
 url: /python-net/aspose.svg/svgrectelement/owner_document/
 is_root: false
 ---

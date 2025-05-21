@@ -3,7 +3,7 @@ title: WebRotateFlipType enumeration
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 360
 url: /python-net/aspose.svg.drawing/webrotatefliptype/
 is_root: false
 ---

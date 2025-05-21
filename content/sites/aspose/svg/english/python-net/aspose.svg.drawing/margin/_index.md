@@ -3,7 +3,7 @@ title: Margin class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 190
 url: /python-net/aspose.svg.drawing/margin/
 is_root: false
 ---

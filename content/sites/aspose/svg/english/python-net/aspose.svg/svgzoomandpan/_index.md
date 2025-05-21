@@ -3,7 +3,7 @@ title: SVGZoomAndPan enumeration
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 720
+weight: 700
 url: /python-net/aspose.svg/svgzoomandpan/
 is_root: false
 ---

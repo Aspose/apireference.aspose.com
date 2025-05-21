@@ -84,7 +84,6 @@ The SVGUseElement type exposes the following members:
 | [y](/svg/python-net/aspose.svg/svguseelement/y) | Corresponds to attribute ‘y’ on the given ‘use’ element. |
 | [width](/svg/python-net/aspose.svg/svguseelement/width) | Corresponds to attribute ‘width’ on the given ‘use’ element. |
 | [height](/svg/python-net/aspose.svg/svguseelement/height) | Corresponds to attribute ‘height’ on the given ‘use’ element. |
-| [instance_root](/svg/python-net/aspose.svg/svguseelement/instance_root) | The root of the "instance tree". See description of SVGElementInstance for a discussion on the instance tree. |
 | [href](/svg/python-net/aspose.svg/svguseelement/href) | Corresponds to attribute ‘xlink:href’ on the given element. |
 
 

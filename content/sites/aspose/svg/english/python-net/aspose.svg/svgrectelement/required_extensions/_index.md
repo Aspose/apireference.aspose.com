@@ -3,7 +3,7 @@ title: required_extensions property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 930
+weight: 920
 url: /python-net/aspose.svg/svgrectelement/required_extensions/
 is_root: false
 ---

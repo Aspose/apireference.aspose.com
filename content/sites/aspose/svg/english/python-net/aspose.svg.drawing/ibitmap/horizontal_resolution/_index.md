@@ -3,7 +3,7 @@ title: horizontal_resolution property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 120
 url: /python-net/aspose.svg.drawing/ibitmap/horizontal_resolution/
 is_root: false
 ---

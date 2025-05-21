@@ -3,7 +3,7 @@ title: Rect class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 310
 url: /python-net/aspose.svg.dom.css/rect/
 is_root: false
 ---

@@ -17,9 +17,6 @@ Gets a [`TextInfo`](/svg/python-net/aspose.svg.rendering/textinfo) object which 
 @property
 def text_info(self):
     ...
-@text_info.setter
-def text_info(self, value):
-    ...
 ```
 
 ### See Also

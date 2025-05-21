@@ -3,7 +3,7 @@ title: SizingType enumeration
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 130
 url: /python-net/aspose.svg.rendering/sizingtype/
 is_root: false
 ---

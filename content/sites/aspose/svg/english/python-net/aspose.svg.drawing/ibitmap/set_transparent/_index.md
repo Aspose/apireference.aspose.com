@@ -3,7 +3,7 @@ title: set_transparent method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 70
 url: /python-net/aspose.svg.drawing/ibitmap/set_transparent/
 is_root: false
 ---

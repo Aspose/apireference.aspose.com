@@ -3,7 +3,7 @@ title: has_attributes method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 240
 url: /python-net/aspose.svg/svgellipseelement/has_attributes/
 is_root: false
 ---

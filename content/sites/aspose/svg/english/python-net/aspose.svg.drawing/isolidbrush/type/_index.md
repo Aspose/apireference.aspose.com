@@ -3,7 +3,7 @@ title: type property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 40
 url: /python-net/aspose.svg.drawing/isolidbrush/type/
 is_root: false
 ---

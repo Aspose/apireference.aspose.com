@@ -3,7 +3,7 @@ title: get_total_length method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 400
 url: /python-net/aspose.svg/svgpathelement/get_total_length/
 is_root: false
 ---

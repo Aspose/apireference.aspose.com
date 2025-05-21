@@ -3,7 +3,7 @@ title: PdfRenderingOptions class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 30
 url: /python-net/aspose.svg.rendering.pdf/pdfrenderingoptions/
 is_root: false
 ---

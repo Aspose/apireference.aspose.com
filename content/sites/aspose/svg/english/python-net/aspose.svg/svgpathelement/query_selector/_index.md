@@ -3,7 +3,7 @@ title: query_selector method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 530
+weight: 520
 url: /python-net/aspose.svg/svgpathelement/query_selector/
 is_root: false
 ---

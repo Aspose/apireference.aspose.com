@@ -3,7 +3,7 @@ title: lookup_namespace_uri method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 500
+weight: 490
 url: /python-net/aspose.svg/svgpathelement/lookup_namespace_uri/
 is_root: false
 ---

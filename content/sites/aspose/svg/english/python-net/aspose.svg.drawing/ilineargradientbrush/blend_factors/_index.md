@@ -3,7 +3,7 @@ title: blend_factors property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 40
 url: /python-net/aspose.svg.drawing/ilineargradientbrush/blend_factors/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: TextInfo class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 100
 url: /python-net/aspose.svg.rendering/textinfo/
 is_root: false
 ---
