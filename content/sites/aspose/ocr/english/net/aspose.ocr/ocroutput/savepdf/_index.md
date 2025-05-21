@@ -6,12 +6,13 @@ type: docs
 weight: 40
 url: /net/aspose.ocr/ocroutput/savepdf/
 ---
-## SavePdf(string, string, PdfOptimizationMode) {#savepdf_3}
+## SavePdf(string, string, PdfOptimizationMode) {#savepdf_1}
 
 Save all recognition results into a searchable PDF file, with the original images set as the background.
 
 ```csharp
-public void SavePdf(string fullFileName, string embeddedFontPath, PdfOptimizationMode optimizePdf)
+public void SavePdf(string fullFileName, string embeddedFontPath = null, 
+    PdfOptimizationMode optimizePdf = PdfOptimizationMode.MAXIMUM_QUALITY)
 ```
 
 | Parameter | Type | Description |
@@ -29,58 +30,18 @@ public void SavePdf(string fullFileName, string embeddedFontPath, PdfOptimizatio
 
 ---
 
-## SavePdf(string) {#savepdf_2}
-
-Save all recognition results into a searchable PDF file, with the original images set as the background.
-
-```csharp
-public void SavePdf(string fullFileName)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fullFileName | String | Filename with a path for saving recognition result in the selected format. |
-
-### See Also
-
-* class [OcrOutput](../../ocroutput)
-* namespace [Aspose.OCR](../../ocroutput)
-* assembly [Aspose.OCR](../../../)
-
----
-
-## SavePdf(Stream) {#savepdf}
+## SavePdf(MemoryStream, string, PdfOptimizationMode) {#savepdf}
 
 Save all recognition results into an in-memory searchable PDF document, embedding the original images as the background.
 
 ```csharp
-public void SavePdf(Stream stream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | MemoryStream for saving recognition result in the selected format. |
-
-### See Also
-
-* class [OcrOutput](../../ocroutput)
-* namespace [Aspose.OCR](../../ocroutput)
-* assembly [Aspose.OCR](../../../)
-
----
-
-## SavePdf(Stream, string, PdfOptimizationMode) {#savepdf_1}
-
-Save all recognition results into an in-memory searchable PDF document, embedding the original images as the background.
-
-```csharp
-public void SavePdf(Stream stream, string embeddedFontPath = null, 
+public void SavePdf(MemoryStream stream, string embeddedFontPath = null, 
     PdfOptimizationMode optimizePdf = PdfOptimizationMode.MAXIMUM_QUALITY)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | Stream | MemoryStream for saving recognition result in the selected format. |
+| stream | MemoryStream | MemoryStream for saving recognition result in the selected format. |
 | embeddedFontPath | String | Optionally. Full path to the user font. |
 | optimizePdf | PdfOptimizationMode | Reduce the PDF file size by lowering the quality of background images. By default, the original image quality is preserved. |
 

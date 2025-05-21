@@ -40,7 +40,6 @@ public RecognitionSettings(Language language = Language.Latin,
 ### See Also
 
 * enum [Language](../../language)
-* struct [Rectangle](../../rectangle)
 * class [RecognitionSettings](../../recognitionsettings)
 * namespace [Aspose.OCR](../../recognitionsettings)
 * assembly [Aspose.OCR](../../../)

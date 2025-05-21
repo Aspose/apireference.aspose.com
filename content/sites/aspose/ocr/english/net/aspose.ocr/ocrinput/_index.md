@@ -3,7 +3,7 @@ title: OcrInput
 second_title: Aspose.OCR for .NET API Reference
 description: Container to collect all images / documents for preprocessing / recognition.
 type: docs
-weight: 430
+weight: 400
 url: /net/aspose.ocr/ocrinput/
 ---
 ## OcrInput class
@@ -18,8 +18,7 @@ public class OcrInput : IDisposable, IEnumerable<ImageData>
 
 | Name | Description |
 | --- | --- |
-| [OcrInput](ocrinput#constructor)(InputType) | Constructor to create container and set the type of images/documents and filters for further preprocessing / recognition. |
-| [OcrInput](ocrinput#constructor_1)(InputType, PreprocessingFilter) | Constructor to create container and set the type of images/documents and filters for further preprocessing / recognition. |
+| [OcrInput](ocrinput)(InputType, PreprocessingFilter) | Constructor to create container and set the type of images/documents and filters for further preprocessing / recognition. |
 
 ## Properties
 
@@ -31,11 +30,12 @@ public class OcrInput : IDisposable, IEnumerable<ImageData>
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.ocr/ocrinput/add#add_1)(Stream) | Add the memory stream containing the image for recognition / processing. The type of the image must correspond to the type specified in the constructor. |
-| [Add](../../aspose.ocr/ocrinput/add#add_3)(string) | Add the path or URI containing the image for recognition / processing. The type of the image must correspond to the type specified in the constructor. |
-| [Add](../../aspose.ocr/ocrinput/add#add_2)(Stream, int, int) | Add the memory stream containing the multipage image for recognition / processing. The type of the image must correspond to the type specified in the constructor. |
-| [Add](../../aspose.ocr/ocrinput/add#add_4)(string, int, int) | Add the multipage images / documents for recognition / processing. The type of the image must correspond to the type specified in the constructor. |
-| [Add](../../aspose.ocr/ocrinput/add#add)(byte[], int, int, PixelType) | Add the decoded image to the list for recognition / processing. The type of the image must correspond to the type specified in the constructor (SingleImage). |
+| [Add](../../aspose.ocr/ocrinput/add#add_2)(MemoryStream) | Add the memory stream containing the image for recognition / processing. The type of the image must correspond to the type specified in the constructor. |
+| [Add](../../aspose.ocr/ocrinput/add#add_4)(string) | Add the path or URI containing the image for recognition / processing. The type of the image must correspond to the type specified in the constructor. |
+| [Add](../../aspose.ocr/ocrinput/add#add)(Color[], int, int) | Add the decoded image to the list for recognition / processing. The type of the image must correspond to the type specified in the constructor (SingleImage). |
+| [Add](../../aspose.ocr/ocrinput/add#add_3)(MemoryStream, int, int) | Add the memory stream containing the multipage image for recognition / processing. The type of the image must correspond to the type specified in the constructor. |
+| [Add](../../aspose.ocr/ocrinput/add#add_5)(string, int, int) | Add the multipage images / documents for recognition / processing. The type of the image must correspond to the type specified in the constructor. |
+| [Add](../../aspose.ocr/ocrinput/add#add_1)(byte[], int, int, PixelType) | Add the decoded image to the list for recognition / processing. The type of the image must correspond to the type specified in the constructor (SingleImage). |
 | [AddBase64](../../aspose.ocr/ocrinput/addbase64)(string) | Add the base64 string containing the image for recognition / processing. The type of the image must correspond to the type specified in the constructor. |
 | [Clear](../../aspose.ocr/ocrinput/clear)() | Set the amount of items for processing / recognition as 0. Clear the collection. |
 | [ClearFilters](../../aspose.ocr/ocrinput/clearfilters)() | Remove all filters. |

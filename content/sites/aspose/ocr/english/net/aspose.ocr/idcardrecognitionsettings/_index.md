@@ -3,7 +3,7 @@ title: IDCardRecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the ID Card recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 190
+weight: 170
 url: /net/aspose.ocr/idcardrecognitionsettings/
 ---
 ## IDCardRecognitionSettings class
