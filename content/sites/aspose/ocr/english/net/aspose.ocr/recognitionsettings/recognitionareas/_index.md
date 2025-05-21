@@ -16,7 +16,6 @@ public List<Rectangle> RecognitionAreas { get; set; }
 
 ### See Also
 
-* struct [Rectangle](../../rectangle)
 * class [RecognitionSettings](../../recognitionsettings)
 * namespace [Aspose.OCR](../../recognitionsettings)
 * assembly [Aspose.OCR](../../../)

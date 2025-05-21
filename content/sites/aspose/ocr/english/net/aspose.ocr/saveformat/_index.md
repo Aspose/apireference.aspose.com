@@ -3,7 +3,7 @@ title: SaveFormat
 second_title: Aspose.OCR for .NET API Reference
 description: For recognition result saving
 type: docs
-weight: 160
+weight: 140
 url: /net/aspose.ocr/saveformat/
 ---
 ## SaveFormat enumeration
