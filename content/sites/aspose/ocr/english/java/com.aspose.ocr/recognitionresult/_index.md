@@ -38,6 +38,7 @@ The results of the image recognition. Contains elements with recognition informa
 | [GetJson()](#GetJson) | Form JSON string with recognition results. |
 | [GetKeywords()](#GetKeywords) | Get keywords from pasport (Test mode. |
 | [GetXml()](#GetXml) | Form JSON string with recognition results. |
+| [SetKeyword(String key, RecognitionResult.LinesResult result)](#SetKeyword-java.lang.String-com.aspose.ocr.RecognitionResult.LinesResult) |  |
 | [getSpellCheckCorrectedText()](#getSpellCheckCorrectedText) | Corrects text (replaces misspelled words). |
 | [getSpellCheckCorrectedText(SpellCheck.SpellCheckLanguage language)](#getSpellCheckCorrectedText-com.aspose.ocr.SpellCheck.SpellCheckLanguage) | Corrects text (replaces misspelled words). |
 | [getSpellCheckErrorList()](#getSpellCheckErrorList) | Find the misspelled words with suggested spellings for a given input text. |
@@ -47,7 +48,9 @@ The results of the image recognition. Contains elements with recognition informa
 | [save(String fullFileName, Format format, PdfOptimizationMode optimizePdf)](#save-java.lang.String-com.aspose.ocr.models.Format-com.aspose.ocr.models.PdfOptimizationMode) | Saves the document in the plain text or other document format. |
 | [saveSpellCheckCorrectedText(String fullFileName, Format format)](#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.models.Format) | Saves the corrected with English dictionary text in the document in the plain text or Microsoft Word Text Document format. |
 | [saveSpellCheckCorrectedText(String fullFileName, Format format, SpellCheck.SpellCheckLanguage language)](#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.models.Format-com.aspose.ocr.SpellCheck.SpellCheckLanguage) | Saves the corrected text in the document in the plain text or other format. |
+| [toString()](#toString) |  |
 | [useUserDictionary(String dictionaryPath)](#useUserDictionary-java.lang.String) | Allows to use own dictionary for spell-check correction. |
+
 ### RecognitionResult() {#RecognitionResult}
 ```
 public RecognitionResult()
@@ -150,6 +153,13 @@ Form JSON string with recognition results.
 
 **Returns:**
 java.lang.String - Recognition results as XML string.
+### SetKeyword(String key, RecognitionResult.LinesResult result) {#SetKeyword-java.lang.String-com.aspose.ocr.RecognitionResult.LinesResult}
+```
+public void SetKeyword(String key, RecognitionResult.LinesResult result)
+```
+
+
+
 ### getSpellCheckCorrectedText() {#getSpellCheckCorrectedText}
 ```
 public String getSpellCheckCorrectedText()
@@ -274,8 +284,6 @@ Saves the corrected text in the document in the plain text or other format.
 | fullFileName | java.lang.String | Filename with a path for saving recognition result. |
 | format | [Format](../../com.aspose.ocr.models/format/) | Document format enum type of Format. |
 | language | [SpellCheckLanguage](../../com.aspose.ocr.spellcheck/spellchecklanguage/) | Dictionary for spell check. |
-
-
 ### useUserDictionary(String dictionaryPath) {#useUserDictionary-java.lang.String}
 ```
 public void useUserDictionary(String dictionaryPath)
