@@ -9,8 +9,11 @@ url: /java/com.aspose.ocr/asposeocr/
 
 **Inheritance:**
 java.lang.Object
+
+**All Implemented Interfaces:**
+java.lang.AutoCloseable
 ```
-public class AsposeOCR
+public class AsposeOCR implements AutoCloseable
 ```
 
 Main class for recognize text from images.
@@ -59,6 +62,7 @@ Main class for recognize text from images.
 | [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, SpellCheck.SpellCheckLanguage language)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--com.aspose.ocr.SpellCheck.SpellCheckLanguage) | Allows to get multipage document from list of RecognitionResult objects with spell-check correction. |
 | [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String) | Allows to get multipage document from list of RecognitionResult objects. |
 | [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath, PdfOptimizationMode optimizePdf)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String-com.aspose.ocr.models.PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects. |
+| [close()](#close) |  |
 ### AsposeOCR() {#AsposeOCR}
 ```
 public AsposeOCR()
@@ -648,3 +652,10 @@ Allows to get multipage document from list of RecognitionResult objects.
 | results | java.util.ArrayList<com.aspose.ocr.RecognitionResult> | List of [RecognitionResult](../../com.aspose.ocr/recognitionresult/). objects. |
 | embeddedFontPath | java.lang.String | Optionally. Full path to the user font. |
 | optimizePdf | [PdfOptimizationMode](../../com.aspose.ocr.models/pdfoptimizationmode/) | Reduce the PDF file size by lowering the quality of background images. By default, the original image quality is preserved. |
+
+### close() {#close}
+```
+public void close()
+```
+
+

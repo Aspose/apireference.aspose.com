@@ -18,6 +18,7 @@ url: /java/com.aspose.ocr.models/
 | [DefectAreas](../com.aspose.ocr.models/defectareas/) | Image areas containing a certain type of defect. |
 | [LanguageDetectionOutput](../com.aspose.ocr.models/languagedetectionoutput/) | Languages detected in the image text. |
 | [LayoutOutput](../com.aspose.ocr.models/layoutoutput/) | Information on detected content areas in the image. |
+| [OnnxRuntimeSessionOptions](../com.aspose.ocr.models/onnxruntimesessionoptions/) | Configuration options for creating ONNX InferenceSession. |
 | [SkewOutput](../com.aspose.ocr.models/skewoutput/) | Data about skew angle in degrees and name of the file. |
 
 ## Enumerations
@@ -29,7 +30,9 @@ url: /java/com.aspose.ocr.models/
 | [Country](../com.aspose.ocr.models/country/) | For better passport recognition point the passport country. |
 | [DefectType](../com.aspose.ocr.models/defecttype/) | The types of image defects. |
 | [DetectAreasMode](../com.aspose.ocr.models/detectareasmode/) |  |
+| [ExecutionModeOnnx](../com.aspose.ocr.models/executionmodeonnx/) |  |
 | [Format](../com.aspose.ocr.models/format/) |  |
+| [GraphOptimizationLevelOnnx](../com.aspose.ocr.models/graphoptimizationlevelonnx/) |  |
 | [Language](../com.aspose.ocr.models/language/) |  |
 | [LanguageDetectionLevel](../com.aspose.ocr.models/languagedetectionlevel/) | Defines the level of language detection for text recognition in an image. |
 | [PdfOptimizationMode](../com.aspose.ocr.models/pdfoptimizationmode/) | Significantly reduce the PDF file size at the expense of lower image quality. |
