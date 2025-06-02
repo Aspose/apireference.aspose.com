@@ -1,12 +1,28 @@
 ---
 title: PsDocument.PsDocument
 second_title: Aspose.Page for .NET API Reference
-description: PsDocument constructor. Initializes empty PsDocument with initialized page
+description: PsDocument constructor. Initializes empty PsDocument. This constructor is used only for additional operations that are not related to PostScript files for example converting fonts
 type: docs
 weight: 10
 url: /net/aspose.page.eps/psdocument/psdocument/
 ---
-## PsDocument(string, PsSaveOptions) {#constructor_5}
+## PsDocument() {#constructor}
+
+Initializes empty [`PsDocument`](../). This constructor is used only for additional operations that are not related to PostScript files, for example, converting fonts.
+
+```csharp
+public PsDocument()
+```
+
+### See Also
+
+* class [PsDocument](../)
+* namespace [Aspose.Page.EPS](../../psdocument/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## PsDocument(string, PsSaveOptions) {#constructor_6}
 
 Initializes empty [`PsDocument`](../) with initialized page.
 
@@ -28,7 +44,7 @@ public PsDocument(string outPsFilePath, PsSaveOptions options)
 
 ---
 
-## PsDocument(Stream, PsSaveOptions) {#constructor_1}
+## PsDocument(Stream, PsSaveOptions) {#constructor_2}
 
 Initializes empty [`PsDocument`](../) with initialized page.
 
@@ -50,7 +66,7 @@ public PsDocument(Stream outPsStream, PsSaveOptions options)
 
 ---
 
-## PsDocument(string, PsSaveOptions, bool) {#constructor_6}
+## PsDocument(string, PsSaveOptions, bool) {#constructor_7}
 
 Initializes empty [`PsDocument`](../).
 
@@ -73,7 +89,7 @@ public PsDocument(string outPsFilePath, PsSaveOptions options, bool multipaged)
 
 ---
 
-## PsDocument(Stream, PsSaveOptions, bool) {#constructor_2}
+## PsDocument(Stream, PsSaveOptions, bool) {#constructor_3}
 
 Initializes empty [`PsDocument`](../).
 
@@ -96,7 +112,7 @@ public PsDocument(Stream outPsStream, PsSaveOptions options, bool multipaged)
 
 ---
 
-## PsDocument(string, PsSaveOptions, int) {#constructor_7}
+## PsDocument(string, PsSaveOptions, int) {#constructor_8}
 
 Initializes empty [`PsDocument`](../) when the number of Postscript document pages is known in advance.
 
@@ -119,7 +135,7 @@ public PsDocument(string outPsFilePath, PsSaveOptions options, int numberOfPages
 
 ---
 
-## PsDocument(Stream, PsSaveOptions, int) {#constructor_3}
+## PsDocument(Stream, PsSaveOptions, int) {#constructor_4}
 
 Initializes empty [`PsDocument`](../) when the number of Postscript document pages is known in advance.
 
@@ -142,7 +158,7 @@ public PsDocument(Stream outPsStream, PsSaveOptions options, int numberOfPages)
 
 ---
 
-## PsDocument(string) {#constructor_4}
+## PsDocument(string) {#constructor_5}
 
 Initializes [`PsDocument`](../) with an input PS/EPS file.
 
@@ -162,7 +178,7 @@ public PsDocument(string psFilePath)
 
 ---
 
-## PsDocument(Stream) {#constructor}
+## PsDocument(Stream) {#constructor_1}
 
 Initializes [`PsDocument`](../) with a stream of PS/EPS file.
 

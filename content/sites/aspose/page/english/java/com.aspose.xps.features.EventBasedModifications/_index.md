@@ -3,7 +3,7 @@ title: com.aspose.xps.features.EventBasedModifications
 second_title: Aspose.Page for Java API Reference
 description: The com.aspose.xps.features.EventBasedModifications package provides classes related to event-based modifications of XPS documents.
 type: docs
-weight: 16
+weight: 17
 url: /java/com.aspose.xps.features.eventbasedmodifications/
 ---
 

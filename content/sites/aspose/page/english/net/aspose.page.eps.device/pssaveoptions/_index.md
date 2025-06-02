@@ -27,6 +27,7 @@ public class PsSaveOptions : SaveOptions
 | --- | --- |
 | [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders/) { get; set; } | Specifies additional folders where converter should find fonts for input document. Default folder are standard fonts folder where OS finds fonts for internal needs. |
 | [BackgroundColor](../../aspose.page.eps.device/pssaveoptions/backgroundcolor/) { get; set; } | The background color. |
+| virtual [ConvertFontsToTTF](../../aspose.page/saveoptions/convertfontstottf/) { get; set; } | Specifies whether to save non-TrueType fonts to TTF. It significantly decreases the volume of the resulting document in PS to PDF conversion and increases the speed of conversion of PS files with a large quantity of text in non-TrueType fonts to any output format. However there is small vertical shift of text when converting PostSctipt file to image. |
 | virtual [Debug](../../aspose.page/saveoptions/debug/) { get; set; } | Specifies whether debug information must be printed to standard output stream or not. |
 | [EmbedFonts](../../aspose.page.eps.device/pssaveoptions/embedfonts/) { get; set; } | Indicates whether to embed used fonts in PS document. |
 | [EmbedFontsAs](../../aspose.page.eps.device/pssaveoptions/embedfontsas/) { get; set; } | A type of font in which to embed fonts in PS document. |

@@ -3,7 +3,7 @@ title: PsDocument.SetTransform
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Set current transformation to this one
 type: docs
-weight: 480
+weight: 500
 url: /net/aspose.page.eps/psdocument/settransform/
 ---
 ## PsDocument.SetTransform method

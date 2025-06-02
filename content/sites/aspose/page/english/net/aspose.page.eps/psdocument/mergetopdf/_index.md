@@ -3,7 +3,7 @@ title: PsDocument.MergeToPdf
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Merges PS/EPS files to a device
 type: docs
-weight: 350
+weight: 370
 url: /net/aspose.page.eps/psdocument/mergetopdf/
 ---
 ## MergeToPdf(string, string[], SaveOptions) {#mergetopdf_1}

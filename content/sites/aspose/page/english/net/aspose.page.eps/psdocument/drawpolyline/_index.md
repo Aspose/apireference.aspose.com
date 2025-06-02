@@ -3,7 +3,7 @@ title: PsDocument.DrawPolyline
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Draws a polyline
 type: docs
-weight: 170
+weight: 190
 url: /net/aspose.page.eps/psdocument/drawpolyline/
 ---
 ## DrawPolyline(int[], int[], int) {#drawpolyline_1}

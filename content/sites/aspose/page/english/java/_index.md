@@ -10,6 +10,7 @@ is_root: true
 | Package | Description |
 | --- | --- |
 | [com.aspose.eps](./com.aspose.eps) | The **com.aspose.eps** is a root package for all classes that deal with PS/EPS files. |
+| [com.aspose.eps.cpp](./com.aspose.eps.cpp) |  |
 | [com.aspose.eps.device](./com.aspose.eps.device) | The **com.aspose.eps.device** package provides classes of possible devices and save options that can be used while converting PS/EPS to other formats. |
 | [com.aspose.eps.plugins](./com.aspose.eps.plugins) | The \`\`\` **com.aspose.eps.plugins** \`\`\` contains EPS plugins classes. |
 | [com.aspose.page](./com.aspose.page) | The **Aspose.Page** is a root package for all classes of Aspose.Page library which are either directly in it like **Device** or indirectly through several subpackages. |

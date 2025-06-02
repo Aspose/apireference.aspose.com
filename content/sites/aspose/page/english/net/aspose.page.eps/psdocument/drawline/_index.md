@@ -3,7 +3,7 @@ title: PsDocument.DrawLine
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Draws a line segment
 type: docs
-weight: 140
+weight: 160
 url: /net/aspose.page.eps/psdocument/drawline/
 ---
 ## PsDocument.DrawLine method

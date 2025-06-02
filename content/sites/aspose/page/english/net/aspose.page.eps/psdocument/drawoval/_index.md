@@ -3,7 +3,7 @@ title: PsDocument.DrawOval
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Draws an oval
 type: docs
-weight: 150
+weight: 170
 url: /net/aspose.page.eps/psdocument/drawoval/
 ---
 ## PsDocument.DrawOval method

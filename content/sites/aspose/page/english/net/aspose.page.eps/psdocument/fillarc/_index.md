@@ -3,7 +3,7 @@ title: PsDocument.FillArc
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Fills an arc
 type: docs
-weight: 260
+weight: 280
 url: /net/aspose.page.eps/psdocument/fillarc/
 ---
 ## PsDocument.FillArc method
