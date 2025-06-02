@@ -3,7 +3,7 @@ title: FontDefinition
 second_title: Aspose.Font for Java API Reference
 description: Represents Font file set definition.
 type: docs
-weight: 35
+weight: 36
 url: /java/com.aspose.font/fontdefinition/
 ---
 **Inheritance:**
@@ -31,14 +31,23 @@ Represents Font file set definition. This class contains fields which are not re
 
 | Method | Description |
 | --- | --- |
-| [open(String fileName, FontType fontType)](#open-java.lang.String-com.aspose.font.FontType-) | Returns FontDefinition for font file and font type. |
-| [open(StreamSource source, FontType fontType)](#open-com.aspose.font.StreamSource-com.aspose.font.FontType-) | Returns FontDefinition for font stream source and font type. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getFileDefinitions()](#getFileDefinitions--) | Gets file definitions collection. |
 | [getFontName()](#getFontName--) | Returns Font name. |
 | [getFontNames()](#getFontNames--) | Gets Font names as a  MultiLanguageString . |
+| [getFontType()](#getFontType--) | Gets Font type. |
 | [getPostscriptName()](#getPostscriptName--) | Gets postscript Font name. |
 | [getPostscriptNames()](#getPostscriptNames--) | Gets postscript Font names as a  MultiLanguageString . |
-| [getFontType()](#getFontType--) | Gets Font type. |
-| [getFileDefinitions()](#getFileDefinitions--) | Gets file definitions collection. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [open(StreamSource source, FontType fontType)](#open-com.aspose.font.StreamSource-com.aspose.font.FontType-) | Returns FontDefinition for font stream source and font type. |
+| [open(String fileName, FontType fontType)](#open-java.lang.String-com.aspose.font.FontType-) | Returns FontDefinition for font file and font type. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### FontDefinition(FontType fontType, String fileExtension, StreamSource streamSource) {#FontDefinition-com.aspose.font.FontType-java.lang.String-com.aspose.font.StreamSource-}
 ```
 public FontDefinition(FontType fontType, String fileExtension, StreamSource streamSource)
@@ -191,38 +200,41 @@ Creates multi-file Font definition.
 | fontType | [FontType](../../com.aspose.font/fonttype) | Font type. |
 | fileDefinitions | [FontFileDefinition\[\]](../../com.aspose.font/fontfiledefinition) | Array of FontFileDefinition objects. |
 
-### open(String fileName, FontType fontType) {#open-java.lang.String-com.aspose.font.FontType-}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public static FontDefinition open(String fileName, FontType fontType)
+public boolean equals(Object arg0)
 ```
 
 
-Returns FontDefinition for font file and font type.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | java.lang.String | Font file name. |
-| fontType | [FontType](../../com.aspose.font/fonttype) | Font type. |
+| arg0 | java.lang.Object |  |
 
 **Returns:**
-[FontDefinition](../../com.aspose.font/fontdefinition) - FontDefinition.
-### open(StreamSource source, FontType fontType) {#open-com.aspose.font.StreamSource-com.aspose.font.FontType-}
+boolean
+### getClass() {#getClass--}
 ```
-public static FontDefinition open(StreamSource source, FontType fontType)
+public final native Class<?> getClass()
 ```
 
 
-Returns FontDefinition for font stream source and font type.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | [StreamSource](../../com.aspose.font/streamsource) | Font stream source. |
-| fontType | [FontType](../../com.aspose.font/fonttype) | Font type. |
 
 **Returns:**
-[FontDefinition](../../com.aspose.font/fontdefinition) - FontDefinition.
+java.lang.Class<?>
+### getFileDefinitions() {#getFileDefinitions--}
+```
+public FontFileDefinition[] getFileDefinitions()
+```
+
+
+Gets file definitions collection.
+
+**Returns:**
+com.aspose.font.FontFileDefinition[] - File definitions collection.
 ### getFontName() {#getFontName--}
 ```
 public String getFontName()
@@ -243,6 +255,16 @@ Gets Font names as a  MultiLanguageString .
 
 **Returns:**
 [MultiLanguageString](../../com.aspose.font/multilanguagestring) - Font names as a  MultiLanguageString .
+### getFontType() {#getFontType--}
+```
+public FontType getFontType()
+```
+
+
+Gets Font type.
+
+**Returns:**
+[FontType](../../com.aspose.font/fonttype) - Font type.
 ### getPostscriptName() {#getPostscriptName--}
 ```
 public String getPostscriptName()
@@ -263,23 +285,106 @@ Gets postscript Font names as a  MultiLanguageString .
 
 **Returns:**
 [MultiLanguageString](../../com.aspose.font/multilanguagestring) - Postscript Font names as a  MultiLanguageString .
-### getFontType() {#getFontType--}
+### hashCode() {#hashCode--}
 ```
-public FontType getFontType()
+public native int hashCode()
 ```
 
 
-Gets Font type.
+
 
 **Returns:**
-[FontType](../../com.aspose.font/fonttype) - Font type.
-### getFileDefinitions() {#getFileDefinitions--}
+int
+### notify() {#notify--}
 ```
-public FontFileDefinition[] getFileDefinitions()
+public final native void notify()
 ```
 
 
-Gets file definitions collection.
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### open(StreamSource source, FontType fontType) {#open-com.aspose.font.StreamSource-com.aspose.font.FontType-}
+```
+public static FontDefinition open(StreamSource source, FontType fontType)
+```
+
+
+Returns FontDefinition for font stream source and font type.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| source | [StreamSource](../../com.aspose.font/streamsource) | Font stream source. |
+| fontType | [FontType](../../com.aspose.font/fonttype) | Font type. |
 
 **Returns:**
-com.aspose.font.FontFileDefinition[] - File definitions collection.
+[FontDefinition](../../com.aspose.font/fontdefinition) - FontDefinition.
+### open(String fileName, FontType fontType) {#open-java.lang.String-com.aspose.font.FontType-}
+```
+public static FontDefinition open(String fileName, FontType fontType)
+```
+
+
+Returns FontDefinition for font file and font type.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileName | java.lang.String | Font file name. |
+| fontType | [FontType](../../com.aspose.font/fonttype) | Font type. |
+
+**Returns:**
+[FontDefinition](../../com.aspose.font/fontdefinition) - FontDefinition.
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

@@ -3,7 +3,7 @@ title: FontEnvironment
 second_title: Aspose.Font for Java API Reference
 description: Provides information about the current environment and platform.
 type: docs
-weight: 36
+weight: 37
 url: /java/com.aspose.font/fontenvironment/
 ---
 **Inheritance:**
@@ -17,11 +17,56 @@ Provides information about the current environment and platform.
 
 | Method | Description |
 | --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getCffCommonFontsSettings()](#getCffCommonFontsSettings--) | Settings common to CFF fonts. |
+| [getClass()](#getClass--) |  |
 | [getCurrent()](#getCurrent--) | Gets current environment. |
 | [getCurrentPlatformId()](#getCurrentPlatformId--) | Gets current platform id. |
-| [getStrictness()](#getStrictness--) | Some Fonts may contain unexpected data, non-specified features, or may be roughly cropped. |
-| [setStrictness(FontEnvironment.ParsingStrictness value)](#setStrictness-com.aspose.font.FontEnvironment.ParsingStrictness-) | Some Fonts may contain unexpected data, non-specified features, or may be roughly cropped. |
 | [getFontSpecificEncodings()](#getFontSpecificEncodings--) | Stores specific encodings for consumer-aware Fonts. |
+| [getStrictness()](#getStrictness--) | Some Fonts may contain unexpected data, non-specified features, or may be roughly cropped. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setStrictness(FontEnvironment.ParsingStrictness value)](#setStrictness-com.aspose.font.FontEnvironment.ParsingStrictness-) | Some Fonts may contain unexpected data, non-specified features, or may be roughly cropped. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getCffCommonFontsSettings() {#getCffCommonFontsSettings--}
+```
+public static CffFontsSettings getCffCommonFontsSettings()
+```
+
+
+Settings common to CFF fonts.
+
+**Returns:**
+[CffFontsSettings](../../com.aspose.font/cfffontssettings)
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getCurrent() {#getCurrent--}
 ```
 public static FontEnvironment getCurrent()
@@ -42,6 +87,16 @@ Gets current platform id.
 
 **Returns:**
 int - Current platform id.
+### getFontSpecificEncodings() {#getFontSpecificEncodings--}
+```
+public FontSpecificEncodings getFontSpecificEncodings()
+```
+
+
+Stores specific encodings for consumer-aware Fonts. For example, PDF uses Adobe Symbol and ZapfDingbats specific encodings.
+
+**Returns:**
+[FontSpecificEncodings](../../com.aspose.font/fontspecificencodings) - Specific encodings for consumer-aware Fonts.
 ### getStrictness() {#getStrictness--}
 ```
 public FontEnvironment.ParsingStrictness getStrictness()
@@ -52,6 +107,32 @@ Some Fonts may contain unexpected data, non-specified features, or may be roughl
 
 **Returns:**
 [ParsingStrictness](../../com.aspose.font/parsingstrictness) - Strictness.
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setStrictness(FontEnvironment.ParsingStrictness value) {#setStrictness-com.aspose.font.FontEnvironment.ParsingStrictness-}
 ```
 public void setStrictness(FontEnvironment.ParsingStrictness value)
@@ -65,13 +146,48 @@ Some Fonts may contain unexpected data, non-specified features, or may be roughl
 | --- | --- | --- |
 | value | [ParsingStrictness](../../com.aspose.font/parsingstrictness) | Strictness. |
 
-### getFontSpecificEncodings() {#getFontSpecificEncodings--}
+### toString() {#toString--}
 ```
-public FontSpecificEncodings getFontSpecificEncodings()
+public String toString()
 ```
 
 
-Stores specific encodings for consumer-aware Fonts. For example, PDF uses Adobe Symbol and ZapfDingbats specific encodings.
+
 
 **Returns:**
-[FontSpecificEncodings](../../com.aspose.font/fontspecificencodings) - Specific encodings for consumer-aware Fonts.
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

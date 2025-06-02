@@ -3,7 +3,7 @@ title: FontMetrics
 second_title: Aspose.Font for Java API Reference
 description: Represents font metrics.
 type: docs
-weight: 40
+weight: 41
 url: /java/com.aspose.font/fontmetrics/
 ---
 **Inheritance:**
@@ -20,30 +20,54 @@ Represents font metrics.
 
 | Method | Description |
 | --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getAscender()](#getAscender--) | Gets Ascender value. |
-| [setAscender(double value)](#setAscender-double-) | Sets Ascender value. |
+| [getAscender(double fontSize)](#getAscender-double-) | Returns ascender for specific Font size. |
+| [getClass()](#getClass--) |  |
 | [getDescender()](#getDescender--) | Gets Descender value. |
-| [setDescender(double value)](#setDescender-double-) | Sets Descender value. |
-| [getTypoDescender()](#getTypoDescender--) | Gets TypoDescender value. |
-| [setTypoDescender(double value)](#setTypoDescender-double-) | Sets TypoDescender value. |
-| [getTypoAscender()](#getTypoAscender--) | Gets TypoAscender value. |
-| [setTypoAscender(double value)](#setTypoAscender-double-) | Sets TypoAscender value. |
-| [getLineGap()](#getLineGap--) | Gets LineGap value. |
-| [getTypoLineGap()](#getTypoLineGap--) | Gets TypoLineGap value. |
-| [isFixedPitch()](#isFixedPitch--) | Gets IsFixedPitch value. |
+| [getDescender(double fontSize)](#getDescender-double-) | Returns descender for specific Font size. |
 | [getFontBBox()](#getFontBBox--) | Gets FontBBox value. |
 | [getFontMatrix()](#getFontMatrix--) | Gets FontMatrix value. |
-| [getUnitsPerEM()](#getUnitsPerEM--) | Gets UnitsPerEM value. |
-| [setUnitsPerEM(long value)](#setUnitsPerEM-long-) | Sets UnitsPerEM value. |
-| [getAscender(double fontSize)](#getAscender-double-) | Returns ascender for specific Font size. |
-| [getDescender(double fontSize)](#getDescender-double-) | Returns descender for specific Font size. |
-| [getTypoDescender(double fontSize)](#getTypoDescender-double-) | Returns typographic descender for specific font size |
-| [getTypoAscender(double fontSize)](#getTypoAscender-double-) | Returns typographic ascender for specific Font size. |
-| [getTypoLineGap(double fontSize)](#getTypoLineGap-double-) | Returns line gap for specific Font size. |
-| [getGlyphWidth(GlyphId glyphId)](#getGlyphWidth-com.aspose.font.GlyphId-) | Returns glyph width. |
 | [getGlyphBBox(GlyphId glyphId)](#getGlyphBBox-com.aspose.font.GlyphId-) | Returns glyph Bbox. |
+| [getGlyphWidth(GlyphId glyphId)](#getGlyphWidth-com.aspose.font.GlyphId-) | Returns glyph width. |
 | [getKerningValue(GlyphId prevGlyphId, GlyphId nextGlyphId)](#getKerningValue-com.aspose.font.GlyphId-com.aspose.font.GlyphId-) | Returns kerning value for the glyph pair. |
+| [getLineGap()](#getLineGap--) | Gets LineGap value. |
+| [getTypoAscender()](#getTypoAscender--) | Gets TypoAscender value. |
+| [getTypoAscender(double fontSize)](#getTypoAscender-double-) | Returns typographic ascender for specific Font size. |
+| [getTypoDescender()](#getTypoDescender--) | Gets TypoDescender value. |
+| [getTypoDescender(double fontSize)](#getTypoDescender-double-) | Returns typographic descender for specific font size |
+| [getTypoLineGap()](#getTypoLineGap--) | Gets TypoLineGap value. |
+| [getTypoLineGap(double fontSize)](#getTypoLineGap-double-) | Returns line gap for specific Font size. |
+| [getUnitsPerEM()](#getUnitsPerEM--) | Gets UnitsPerEM value. |
+| [hashCode()](#hashCode--) |  |
+| [isFixedPitch()](#isFixedPitch--) | Gets IsFixedPitch value. |
 | [measureString(String unicode, double fontSize)](#measureString-java.lang.String-double-) | Measures string and returns string width. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setAscender(double value)](#setAscender-double-) | Sets Ascender value. |
+| [setDescender(double value)](#setDescender-double-) | Sets Descender value. |
+| [setTypoAscender(double value)](#setTypoAscender-double-) | Sets TypoAscender value. |
+| [setTypoDescender(double value)](#setTypoDescender-double-) | Sets TypoDescender value. |
+| [setUnitsPerEM(long value)](#setUnitsPerEM-long-) | Sets UnitsPerEM value. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
 ### getAscender() {#getAscender--}
 ```
 public double getAscender()
@@ -54,19 +78,31 @@ Gets Ascender value.
 
 **Returns:**
 double - Ascender value.
-### setAscender(double value) {#setAscender-double-}
+### getAscender(double fontSize) {#getAscender-double-}
 ```
-public void setAscender(double value)
+public double getAscender(double fontSize)
 ```
 
 
-Sets Ascender value.
+Returns ascender for specific Font size.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | Ascender value. |
+| fontSize | double | Font size. |
 
+**Returns:**
+double - Ascender value.
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getDescender() {#getDescender--}
 ```
 public double getDescender()
@@ -77,95 +113,21 @@ Gets Descender value.
 
 **Returns:**
 double - Descender value.
-### setDescender(double value) {#setDescender-double-}
+### getDescender(double fontSize) {#getDescender-double-}
 ```
-public void setDescender(double value)
+public double getDescender(double fontSize)
 ```
 
 
-Sets Descender value.
+Returns descender for specific Font size.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | Descender value. |
-
-### getTypoDescender() {#getTypoDescender--}
-```
-public double getTypoDescender()
-```
-
-
-Gets TypoDescender value.
+| fontSize | double | Font size. |
 
 **Returns:**
-double - TypoDescender value.
-### setTypoDescender(double value) {#setTypoDescender-double-}
-```
-public void setTypoDescender(double value)
-```
-
-
-Sets TypoDescender value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | TypoDescender value. |
-
-### getTypoAscender() {#getTypoAscender--}
-```
-public double getTypoAscender()
-```
-
-
-Gets TypoAscender value.
-
-**Returns:**
-double - TypoAscender value.
-### setTypoAscender(double value) {#setTypoAscender-double-}
-```
-public void setTypoAscender(double value)
-```
-
-
-Sets TypoAscender value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | TypoAscender value. |
-
-### getLineGap() {#getLineGap--}
-```
-public double getLineGap()
-```
-
-
-Gets LineGap value.
-
-**Returns:**
-double - LineGap value.
-### getTypoLineGap() {#getTypoLineGap--}
-```
-public double getTypoLineGap()
-```
-
-
-Gets TypoLineGap value.
-
-**Returns:**
-double - TypoLineGap value.
-### isFixedPitch() {#isFixedPitch--}
-```
-public boolean isFixedPitch()
-```
-
-
-Gets IsFixedPitch value.
-
-**Returns:**
-boolean - IsFixedPitch value.
+double - Descender value.
 ### getFontBBox() {#getFontBBox--}
 ```
 public FontBBox getFontBBox()
@@ -186,36 +148,79 @@ Gets FontMatrix value.
 
 **Returns:**
 [TransformationMatrix](../../com.aspose.font/transformationmatrix) - FontMatrix value.
-### getUnitsPerEM() {#getUnitsPerEM--}
+### getGlyphBBox(GlyphId glyphId) {#getGlyphBBox-com.aspose.font.GlyphId-}
 ```
-public long getUnitsPerEM()
-```
-
-
-Gets UnitsPerEM value.
-
-**Returns:**
-long - UnitsPerEM value.
-### setUnitsPerEM(long value) {#setUnitsPerEM-long-}
-```
-public void setUnitsPerEM(long value)
+public FontBBox getGlyphBBox(GlyphId glyphId)
 ```
 
 
-Sets UnitsPerEM value.
+Returns glyph Bbox. Returns FontBBox if BBox was not defined for the glyph. May be overridden by specific font encoding inheritors.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | long | UnitsPerEM value. |
+| glyphId | [GlyphId](../../com.aspose.font/glyphid) | Glyph identifier. |
 
-### getAscender(double fontSize) {#getAscender-double-}
+**Returns:**
+[FontBBox](../../com.aspose.font/fontbbox) - Glyph BBox.
+### getGlyphWidth(GlyphId glyphId) {#getGlyphWidth-com.aspose.font.GlyphId-}
 ```
-public double getAscender(double fontSize)
+public double getGlyphWidth(GlyphId glyphId)
 ```
 
 
-Returns ascender for specific Font size.
+Returns glyph width. May be overridden by specific font encoding inheritors.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| glyphId | [GlyphId](../../com.aspose.font/glyphid) | Glyph identifier. |
+
+**Returns:**
+double - Glyph width.
+### getKerningValue(GlyphId prevGlyphId, GlyphId nextGlyphId) {#getKerningValue-com.aspose.font.GlyphId-com.aspose.font.GlyphId-}
+```
+public double getKerningValue(GlyphId prevGlyphId, GlyphId nextGlyphId)
+```
+
+
+Returns kerning value for the glyph pair.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| prevGlyphId | [GlyphId](../../com.aspose.font/glyphid) | First glyph in pair. |
+| nextGlyphId | [GlyphId](../../com.aspose.font/glyphid) | Font size. |
+
+**Returns:**
+double - Kerning value.
+### getLineGap() {#getLineGap--}
+```
+public double getLineGap()
+```
+
+
+Gets LineGap value.
+
+**Returns:**
+double - LineGap value.
+### getTypoAscender() {#getTypoAscender--}
+```
+public double getTypoAscender()
+```
+
+
+Gets TypoAscender value.
+
+**Returns:**
+double - TypoAscender value.
+### getTypoAscender(double fontSize) {#getTypoAscender-double-}
+```
+public double getTypoAscender(double fontSize)
+```
+
+
+Returns typographic ascender for specific Font size.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -223,22 +228,17 @@ Returns ascender for specific Font size.
 | fontSize | double | Font size. |
 
 **Returns:**
-double - Ascender value.
-### getDescender(double fontSize) {#getDescender-double-}
+double - Typographic ascender value.
+### getTypoDescender() {#getTypoDescender--}
 ```
-public double getDescender(double fontSize)
+public double getTypoDescender()
 ```
 
 
-Returns descender for specific Font size.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontSize | double | Font size. |
+Gets TypoDescender value.
 
 **Returns:**
-double - Descender value.
+double - TypoDescender value.
 ### getTypoDescender(double fontSize) {#getTypoDescender-double-}
 ```
 public double getTypoDescender(double fontSize)
@@ -256,21 +256,16 @@ param fontSize Font size.
 
 **Returns:**
 double - Typographic descender value.
-### getTypoAscender(double fontSize) {#getTypoAscender-double-}
+### getTypoLineGap() {#getTypoLineGap--}
 ```
-public double getTypoAscender(double fontSize)
+public double getTypoLineGap()
 ```
 
 
-Returns typographic ascender for specific Font size.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontSize | double | Font size. |
+Gets TypoLineGap value.
 
 **Returns:**
-double - Typographic ascender value.
+double - TypoLineGap value.
 ### getTypoLineGap(double fontSize) {#getTypoLineGap-double-}
 ```
 public double getTypoLineGap(double fontSize)
@@ -286,52 +281,36 @@ Returns line gap for specific Font size.
 
 **Returns:**
 double - Line gap value.
-### getGlyphWidth(GlyphId glyphId) {#getGlyphWidth-com.aspose.font.GlyphId-}
+### getUnitsPerEM() {#getUnitsPerEM--}
 ```
-public double getGlyphWidth(GlyphId glyphId)
+public long getUnitsPerEM()
 ```
 
 
-Returns glyph width. May be overridden by specific font encoding inheritors.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| glyphId | [GlyphId](../../com.aspose.font/glyphid) | Glyph identifier. |
+Gets UnitsPerEM value.
 
 **Returns:**
-double - Glyph width.
-### getGlyphBBox(GlyphId glyphId) {#getGlyphBBox-com.aspose.font.GlyphId-}
+long - UnitsPerEM value.
+### hashCode() {#hashCode--}
 ```
-public FontBBox getGlyphBBox(GlyphId glyphId)
+public native int hashCode()
 ```
 
 
-Returns glyph Bbox. Returns FontBBox if BBox was not defined for the glyph. May be overridden by specific font encoding inheritors.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| glyphId | [GlyphId](../../com.aspose.font/glyphid) | Glyph identifier. |
 
 **Returns:**
-[FontBBox](../../com.aspose.font/fontbbox) - Glyph BBox.
-### getKerningValue(GlyphId prevGlyphId, GlyphId nextGlyphId) {#getKerningValue-com.aspose.font.GlyphId-com.aspose.font.GlyphId-}
+int
+### isFixedPitch() {#isFixedPitch--}
 ```
-public double getKerningValue(GlyphId prevGlyphId, GlyphId nextGlyphId)
+public boolean isFixedPitch()
 ```
 
 
-Returns kerning value for the glyph pair.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| prevGlyphId | [GlyphId](../../com.aspose.font/glyphid) | First glyph in pair. |
-| nextGlyphId | [GlyphId](../../com.aspose.font/glyphid) | Font size. |
+Gets IsFixedPitch value.
 
 **Returns:**
-double - Kerning value.
+boolean - IsFixedPitch value.
 ### measureString(String unicode, double fontSize) {#measureString-java.lang.String-double-}
 ```
 public abstract double measureString(String unicode, double fontSize)
@@ -348,3 +327,129 @@ Measures string and returns string width.
 
 **Returns:**
 double - String width.
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setAscender(double value) {#setAscender-double-}
+```
+public void setAscender(double value)
+```
+
+
+Sets Ascender value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | Ascender value. |
+
+### setDescender(double value) {#setDescender-double-}
+```
+public void setDescender(double value)
+```
+
+
+Sets Descender value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | Descender value. |
+
+### setTypoAscender(double value) {#setTypoAscender-double-}
+```
+public void setTypoAscender(double value)
+```
+
+
+Sets TypoAscender value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | TypoAscender value. |
+
+### setTypoDescender(double value) {#setTypoDescender-double-}
+```
+public void setTypoDescender(double value)
+```
+
+
+Sets TypoDescender value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | TypoDescender value. |
+
+### setUnitsPerEM(long value) {#setUnitsPerEM-long-}
+```
+public void setUnitsPerEM(long value)
+```
+
+
+Sets UnitsPerEM value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | long | UnitsPerEM value. |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

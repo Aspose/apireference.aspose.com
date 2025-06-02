@@ -22,36 +22,50 @@ Provides functionality for retrieving creators of text service objects
 
 | Method | Description |
 | --- | --- |
-| [getMorseDecoder()](#getMorseDecoder--) | Gets the  IMorseDecoder  instance. |
-| [getMorseEncoder()](#getMorseEncoder--) | Gets the  IMorseEncoder  instance. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getFontMorseDecoder()](#getFontMorseDecoder--) | Gets the  IFontMorseDecoder  instance. |
 | [getFontMorseEncoder()](#getFontMorseEncoder--) | Gets the  IFontMorseEncoder  instance. |
+| [getMorseDecoder()](#getMorseDecoder--) | Gets the  IMorseDecoder  instance. |
+| [getMorseEncoder()](#getMorseEncoder--) | Gets the  IMorseEncoder  instance. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### TextUtilsFactory() {#TextUtilsFactory--}
 ```
 public TextUtilsFactory()
 ```
 
 
-### getMorseDecoder() {#getMorseDecoder--}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public IMorseDecoder getMorseDecoder()
+public boolean equals(Object arg0)
 ```
 
 
-Gets the  IMorseDecoder  instance.
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
 
 **Returns:**
-[IMorseDecoder](../../com.aspose.font.textutils/imorsedecoder) - The  IMorseDecoder  instance.
-### getMorseEncoder() {#getMorseEncoder--}
+boolean
+### getClass() {#getClass--}
 ```
-public IMorseEncoder getMorseEncoder()
+public final native Class<?> getClass()
 ```
 
 
-Gets the  IMorseEncoder  instance.
+
 
 **Returns:**
-[IMorseEncoder](../../com.aspose.font.textutils/imorseencoder) - The  IMorseEncoder  instance.
+java.lang.Class<?>
 ### getFontMorseDecoder() {#getFontMorseDecoder--}
 ```
 public IFontMorseDecoder getFontMorseDecoder()
@@ -72,3 +86,94 @@ Gets the  IFontMorseEncoder  instance.
 
 **Returns:**
 [IFontMorseEncoder](../../com.aspose.font.textutils/ifontmorseencoder) - The  IFontMorseEncoder  instance.
+### getMorseDecoder() {#getMorseDecoder--}
+```
+public IMorseDecoder getMorseDecoder()
+```
+
+
+Gets the  IMorseDecoder  instance.
+
+**Returns:**
+[IMorseDecoder](../../com.aspose.font.textutils/imorsedecoder) - The  IMorseDecoder  instance.
+### getMorseEncoder() {#getMorseEncoder--}
+```
+public IMorseEncoder getMorseEncoder()
+```
+
+
+Gets the  IMorseEncoder  instance.
+
+**Returns:**
+[IMorseEncoder](../../com.aspose.font.textutils/imorseencoder) - The  IMorseEncoder  instance.
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

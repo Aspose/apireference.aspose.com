@@ -3,7 +3,7 @@ title: ISupportsNameAddressing
 second_title: Aspose.Font for Java API Reference
 description: Defines members that are specific to encodings that support glyph name addressing
 type: docs
-weight: 123
+weight: 129
 url: /java/com.aspose.font/isupportsnameaddressing/
 ---```
 public interface ISupportsNameAddressing

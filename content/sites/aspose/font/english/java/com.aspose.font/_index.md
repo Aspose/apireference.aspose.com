@@ -21,11 +21,12 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [AxisValueTableFormat2](../com.aspose.font/axisvaluetableformat2) | Represents Axis value table format 2 |
 | [AxisValueTableFormat3](../com.aspose.font/axisvaluetableformat3) | Represents Axis value table format 3 |
 | [AxisValueTableFormat4](../com.aspose.font/axisvaluetableformat4) | Represents Axis value table format 4 |
-| [ByteContentStreamSource](../com.aspose.font/bytecontentstreamsource) | Represents a stream source based on content stream. |
+| [ByteContentStreamSource](../com.aspose.font/bytecontentstreamsource) | Represents a stream source based on \_content stream. |
 | [CffEncoding](../com.aspose.font/cffencoding) | Represents CFF font encoding. |
 | [CffFont](../com.aspose.font/cfffont) | Represents Compact Font Format (CFF). |
 | [CffFontException](../com.aspose.font/cfffontexception) | Represents common processing related exception for fonts of CFF format. |
 | [CffFontMetrics](../com.aspose.font/cfffontmetrics) | CFF font metrics implementation |
+| [CffFontsSettings](../com.aspose.font/cfffontssettings) | Provides settings common to CFF fonts. |
 | [CffParsingException](../com.aspose.font/cffparsingexception) | Represents parse exception for fonts of cff format. |
 | [ClosePath](../com.aspose.font/closepath) | Represents ClosePath operation. |
 | [CompositeGlyph](../com.aspose.font/compositeglyph) | Represents a font composite glyph. |
@@ -47,6 +48,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [FontMetrics](../com.aspose.font/fontmetrics) | Represents font metrics. |
 | [FontNotSupportedOperationException](../com.aspose.font/fontnotsupportedoperationexception) | Represents not supported operation exception. |
 | [FontSpecificEncodings](../com.aspose.font/fontspecificencodings) | Represents specific encodings for consumer-aware Fonts. |
+| [FontStyle](../com.aspose.font/fontstyle) | Font style enumeration |
 | [GaspRange](../com.aspose.font/gasprange) | The array of GaspRange records provides recommended behaviors for various ppem sizes |
 | [Glyph](../com.aspose.font/glyph) | Represents a Font glyph. |
 | [GlyphId](../com.aspose.font/glyphid) | Represents glyph ids, available in the Font. |
@@ -67,13 +69,16 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [MoveTo](../com.aspose.font/moveto) | Represents MoveTo operation. |
 | [MultiLanguageString](../com.aspose.font/multilanguagestring) | Represents multi language string. |
 | [NameId](../com.aspose.font/nameid) | Represents NameId enumeration. |
+| [NameIndexDataProvider](../com.aspose.font/nameindexdataprovider) | Provides settings common to CFF fonts. |
 | [NameRecord](../com.aspose.font/namerecord) | Represents NameRecord structure of the 'name' table |
 | [NameToCodeMap](../com.aspose.font/nametocodemap) | Represents name to code map. |
 | [PathSegmentCollection](../com.aspose.font/pathsegmentcollection) | Represents a path segments collection. |
 | [RenderingUtils](../com.aspose.font/renderingutils) | Provides utility methods for rendering. |
 | [SegmentPath](../com.aspose.font/segmentpath) | Represents rendering path. |
 | [StreamSource](../com.aspose.font/streamsource) | Defines a way to get a file stream when it is needed. |
+| [StringIndexDataProvider](../com.aspose.font/stringindexdataprovider) | Declares functionality to access CFF String INDEX structure. |
 | [SvgConversionException](../com.aspose.font/svgconversionexception) | Represents Font conversion exception for SVG format. |
+| [TopDictDataProvider](../com.aspose.font/topdictdataprovider) | Declares functionality to read/update CFF Top DICT structure. |
 | [TransformationMatrix](../com.aspose.font/transformationmatrix) | Represents 3x3 matrix | A B 0 | | C D 0 | | TX TY 1 |. |
 | [TtcFontFileDefinition](../com.aspose.font/ttcfontfiledefinition) | Represents file definition for TTC Font. |
 | [TtcFontSource](../com.aspose.font/ttcfontsource) | Represents TTC Font source. |
@@ -126,6 +131,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 
 | Interface | Description |
 | --- | --- |
+| [ICffIndexDataProvider](../com.aspose.font/icffindexdataprovider) | Basic interface for accessing INDEX structures of CFF fonts. |
 | [IEncodingParameters](../com.aspose.font/iencodingparameters) | Common interface to support encoding parameters. |
 | [IFont](../com.aspose.font/ifont) | Declares common functionality for all font formats. |
 | [IFontCharactersMerger](../com.aspose.font/ifontcharactersmerger) | Declares helpers functionality to merge TrueType fonts. |
@@ -143,8 +149,9 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 
 | Enum | Description |
 | --- | --- |
+| [CffIndexProviderType](../com.aspose.font/cffindexprovidertype) | Specifies INDEX structures supported by the index provider interface family. |
+| [CffUpdateStringIndexStrategy](../com.aspose.font/cffupdatestringindexstrategy) | Specifies how to add strings to CFF String INDEX storage. |
 | [FontSavingFormats](../com.aspose.font/fontsavingformats) | Specifies Font type. |
-| [FontStyle](../com.aspose.font/fontstyle) | Font style enumeration |
 | [FontType](../com.aspose.font/fonttype) | Specifies Font type. |
 | [GlyphIdType](../com.aspose.font/glyphidtype) | Specifies types of glyph id. |
 | [GlyphState](../com.aspose.font/glyphstate) | Specifies the glyph state. |

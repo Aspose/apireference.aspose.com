@@ -3,7 +3,7 @@ title: Glyph
 second_title: Aspose.Font for Java API Reference
 description: Represents a Font glyph.
 type: docs
-weight: 44
+weight: 46
 url: /java/com.aspose.font/glyph/
 ---
 **Inheritance:**
@@ -20,46 +20,70 @@ Represents a Font glyph.
 
 | Method | Description |
 | --- | --- |
-| [getState()](#getState--) | Gets glyph state. |
-| [isEmpty()](#isEmpty--) | True if the glyph doesn't contain drawing instructions. |
-| [getPath()](#getPath--) | Gets glyph path. |
+| [clone()](#clone--) | Returns copy of glyph. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getGlyphBBox()](#getGlyphBBox--) | Gets glyph BBox. |
 | [getLeftSidebearingX()](#getLeftSidebearingX--) | Gets glyph side bearing x coordinate. |
 | [getLeftSidebearingY()](#getLeftSidebearingY--) | Gets glyph side bearing y coordinate. |
+| [getPath()](#getPath--) | Gets glyph path. |
+| [getSourceResolution()](#getSourceResolution--) | Gets resolution of the source command set. |
+| [getState()](#getState--) | Gets glyph state. |
 | [getWidthVectorX()](#getWidthVectorX--) | Gets glyph width vector. |
 | [getWidthVectorY()](#getWidthVectorY--) | Gets glyph width vector. |
-| [getSourceResolution()](#getSourceResolution--) | Gets resolution of the source command set. |
-| [getGlyphBBox()](#getGlyphBBox--) | Gets glyph BBox. |
-| [clone()](#clone--) | Returns copy of glyph. |
-### getState() {#getState--}
+| [hashCode()](#hashCode--) |  |
+| [isEmpty()](#isEmpty--) | True if the glyph doesn't contain drawing instructions. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### clone() {#clone--}
 ```
-public GlyphState getState()
+public Object clone()
 ```
 
 
-Gets glyph state.
+Returns copy of glyph.
 
 **Returns:**
-[GlyphState](../../com.aspose.font/glyphstate) - Glyph state.
-### isEmpty() {#isEmpty--}
+java.lang.Object - Copy of Glyph.
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public boolean isEmpty()
+public boolean equals(Object arg0)
 ```
 
 
-True if the glyph doesn't contain drawing instructions.
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
 
 **Returns:**
-boolean - True if the glyph doesn't contain drawing instructions.
-### getPath() {#getPath--}
+boolean
+### getClass() {#getClass--}
 ```
-public SegmentPath getPath()
+public final native Class<?> getClass()
 ```
 
 
-Gets glyph path.
+
 
 **Returns:**
-[SegmentPath](../../com.aspose.font/segmentpath) - Glyph path.
+java.lang.Class<?>
+### getGlyphBBox() {#getGlyphBBox--}
+```
+public FontBBox getGlyphBBox()
+```
+
+
+Gets glyph BBox.
+
+**Returns:**
+[FontBBox](../../com.aspose.font/fontbbox) - Glyph BBox
 ### getLeftSidebearingX() {#getLeftSidebearingX--}
 ```
 public double getLeftSidebearingX()
@@ -80,6 +104,36 @@ Gets glyph side bearing y coordinate.
 
 **Returns:**
 double - Glyph side bearing y coordinate.
+### getPath() {#getPath--}
+```
+public SegmentPath getPath()
+```
+
+
+Gets glyph path.
+
+**Returns:**
+[SegmentPath](../../com.aspose.font/segmentpath) - Glyph path.
+### getSourceResolution() {#getSourceResolution--}
+```
+public int getSourceResolution()
+```
+
+
+Gets resolution of the source command set.
+
+**Returns:**
+int - Resolution of the source command set.
+### getState() {#getState--}
+```
+public GlyphState getState()
+```
+
+
+Gets glyph state.
+
+**Returns:**
+[GlyphState](../../com.aspose.font/glyphstate) - Glyph state.
 ### getWidthVectorX() {#getWidthVectorX--}
 ```
 public double getWidthVectorX()
@@ -100,33 +154,84 @@ Gets glyph width vector. Coordinate y.
 
 **Returns:**
 double - Glyph width vector. Coordinate y.
-### getSourceResolution() {#getSourceResolution--}
+### hashCode() {#hashCode--}
 ```
-public int getSourceResolution()
+public native int hashCode()
 ```
 
 
-Gets resolution of the source command set.
+
 
 **Returns:**
-int - Resolution of the source command set.
-### getGlyphBBox() {#getGlyphBBox--}
+int
+### isEmpty() {#isEmpty--}
 ```
-public FontBBox getGlyphBBox()
+public boolean isEmpty()
 ```
 
 
-Gets glyph BBox.
+True if the glyph doesn't contain drawing instructions.
 
 **Returns:**
-[FontBBox](../../com.aspose.font/fontbbox) - Glyph BBox
-### clone() {#clone--}
+boolean - True if the glyph doesn't contain drawing instructions.
+### notify() {#notify--}
 ```
-public Object clone()
+public final native void notify()
 ```
 
 
-Returns copy of glyph.
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
 
 **Returns:**
-java.lang.Object - Copy of Glyph.
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

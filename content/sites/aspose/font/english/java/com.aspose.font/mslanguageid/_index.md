@@ -3,7 +3,7 @@ title: MSLanguageId
 second_title: Aspose.Font for Java API Reference
 description: Microsoft platform language id enumeration.
 type: docs
-weight: 57
+weight: 59
 url: /java/com.aspose.font/mslanguageid/
 ---
 **Inheritance:**
@@ -53,7 +53,7 @@ Microsoft platform language id enumeration.
 | [Catalan](#Catalan) | Catalan (Region: Catalan, CAT) LanguageId value |
 | [Chinese_Hong_Kong](#Chinese-Hong-Kong) | Chinese (Region: Hong Kong S.A.R.) |
 | [Chinese_Macao](#Chinese-Macao) | Chinese (Region: Macao S.A.R.) |
-| [Chinese_PRC](#Chinese-PRC) | Chinese (Region: People\\u0432\\u0402\\u2122s Republic of China) LanguageId value |
+| [Chinese_PRC](#Chinese-PRC) | Chinese (Region: People\\u2019s Republic of China) LanguageId value |
 | [Chinese_Singapore](#Chinese-Singapore) | Chinese (Region: Singapore) LanguageId value |
 | [Chinese_Taiwan](#Chinese-Taiwan) | Chinese (Region: Taiwan) LanguageId value |
 | [Corsican](#Corsican) | Corsican (Region: France) LanguageId value |
@@ -112,15 +112,13 @@ Microsoft platform language id enumeration.
 | [Inuktitut](#Inuktitut) | Inuktitut (Region: Canada) LanguageId value |
 | [Inuktitut_Latin](#Inuktitut-Latin) | Inuktitut (Latin, Region: Canada) LanguageId value |
 | [Irish](#Irish) | Irish (Region: Ireland) LanguageId value |
-| [isiXhosa](#isiXhosa) | isiXhosa (Region: South Africa, SA) LanguageId value |
-| [isiZulu](#isiZulu) | isiZulu (Region: South Africa, SA) LanguageId value |
 | [Italian_Italy](#Italian-Italy) | Italian (Standard, Region: Italy, ITA) LanguageId value |
 | [Italian_Switzerland](#Italian-Switzerland) | Italian (Swiss, Region: Switzerland, ITS) LanguageId value |
 | [Japanese](#Japanese) | Japanese (Region: Japan) LanguageId value |
 | [Kannada](#Kannada) | Kannada (Region: India) LanguageId value |
 | [Kazakh](#Kazakh) | Kazakh (Region: Kazakhstan) LanguageId value |
 | [Khmer](#Khmer) | Khmer (Region: Cambodia) LanguageId value |
-| [Kiche](#Kiche) | K\\u0432\\u0402\\u2122iche (Region: Guatemala) LanguageId value |
+| [Kiche](#Kiche) | K\\u2019iche (Region: Guatemala) LanguageId value |
 | [Kinyarwanda](#Kinyarwanda) | Kinyarwanda (Region: Rwanda) LanguageId value |
 | [Kiswahili](#Kiswahili) | Kiswahili (Region: Kenya) LanguageId value |
 | [Konkani](#Konkani) | Konkani (Region: India) LanguageId value |
@@ -141,7 +139,7 @@ Microsoft platform language id enumeration.
 | [Marathi](#Marathi) | Marathi (Region: India) LanguageId value |
 | [Mohawk](#Mohawk) | Mohawk (Region: Mohawk) LanguageId value |
 | [Mongolian_Cyrillic](#Mongolian-Cyrillic) | Mongolian (Cyrillic, Region: Mongolia) LanguageId value |
-| [Mongolian_Traditional](#Mongolian-Traditional) | Mongolian (Traditional, Region: People\\u0432\\u0402\\u2122s Republic of China) LanguageId value |
+| [Mongolian_Traditional](#Mongolian-Traditional) | Mongolian (Traditional, Region: People\\u2019s Republic of China) LanguageId value |
 | [Nepali](#Nepali) | Nepali (Region: Nepal) LanguageId value |
 | [Norwegian_Bokmal](#Norwegian-Bokmal) | Norwegian (Bokmal, Region: Norway, NOR) LanguageId value |
 | [Norwegian_Nynorsk](#Norwegian-Nynorsk) | Norwegian (Nynorsk, Region: Norway, NON) LanguageId value |
@@ -188,12 +186,12 @@ Microsoft platform language id enumeration.
 | [Spanish_Guatemala](#Spanish-Guatemala) | Spanish (Region: Guatemala) LanguageId value |
 | [Spanish_Honduras](#Spanish-Honduras) | Spanish (Region: Honduras) LanguageId value |
 | [Spanish_Mexico](#Spanish-Mexico) | Spanish (Mexican, Region: Mexico, ESM) LanguageId value |
+| [Spanish_Modern_Sort](#Spanish-Modern-Sort) | Spanish (Modern Sort, Region: Spain, ESN) LanguageId value |
 | [Spanish_Nicaragua](#Spanish-Nicaragua) | Spanish (Region: Nicaragua) LanguageId value |
 | [Spanish_Panama](#Spanish-Panama) | Spanish (Region: Panama) LanguageId value |
 | [Spanish_Paraguay](#Spanish-Paraguay) | Spanish (Region: Paraguay) LanguageId value |
 | [Spanish_Peru](#Spanish-Peru) | Spanish (Region: Peru) LanguageId value |
 | [Spanish_Puerto_Rico](#Spanish-Puerto-Rico) | Spanish (Region: Puerto Rico) LanguageId value |
-| [Spanish_Modern_Sort](#Spanish-Modern-Sort) | Spanish (Modern Sort, Region: Spain, ESN) LanguageId value |
 | [Spanish_Traditional_Sort](#Spanish-Traditional-Sort) | Spanish (Traditional Sort, Region: Spain, ESP) LanguageId value |
 | [Spanish_United_States](#Spanish-United-States) | Spanish (Region: United States) LanguageId value |
 | [Spanish_Uruguay](#Spanish-Uruguay) | Spanish (Region: Uruguay) LanguageId value |
@@ -222,11 +220,22 @@ Microsoft platform language id enumeration.
 | [Yakut](#Yakut) | Yakut (Region: Russia) LanguageId value |
 | [Yi](#Yi) | Yi (Region: PRC) LanguageId value |
 | [Yoruba](#Yoruba) | Yoruba (Region: Nigeria) LanguageId value |
+| [isiXhosa](#isiXhosa) | isiXhosa (Region: South Africa, SA) LanguageId value |
+| [isiZulu](#isiZulu) | isiZulu (Region: South Africa, SA) LanguageId value |
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getId()](#getId--) | Get the integer value. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Afrikaans {#Afrikaans}
 ```
 public static final MSLanguageId Afrikaans
@@ -521,7 +530,7 @@ public static final MSLanguageId Chinese_PRC
 ```
 
 
-Chinese (Region: People\\u0432\\u0402\\u2122s Republic of China) LanguageId value
+Chinese (Region: People\\u2019s Republic of China) LanguageId value
 
 ### Chinese_Singapore {#Chinese-Singapore}
 ```
@@ -987,22 +996,6 @@ public static final MSLanguageId Irish
 
 Irish (Region: Ireland) LanguageId value
 
-### isiXhosa {#isiXhosa}
-```
-public static final MSLanguageId isiXhosa
-```
-
-
-isiXhosa (Region: South Africa, SA) LanguageId value
-
-### isiZulu {#isiZulu}
-```
-public static final MSLanguageId isiZulu
-```
-
-
-isiZulu (Region: South Africa, SA) LanguageId value
-
 ### Italian_Italy {#Italian-Italy}
 ```
 public static final MSLanguageId Italian_Italy
@@ -1057,7 +1050,7 @@ public static final MSLanguageId Kiche
 ```
 
 
-K\\u0432\\u0402\\u2122iche (Region: Guatemala) LanguageId value
+K\\u2019iche (Region: Guatemala) LanguageId value
 
 ### Kinyarwanda {#Kinyarwanda}
 ```
@@ -1225,7 +1218,7 @@ public static final MSLanguageId Mongolian_Traditional
 ```
 
 
-Mongolian (Traditional, Region: People\\u0432\\u0402\\u2122s Republic of China) LanguageId value
+Mongolian (Traditional, Region: People\\u2019s Republic of China) LanguageId value
 
 ### Nepali {#Nepali}
 ```
@@ -1595,6 +1588,14 @@ public static final MSLanguageId Spanish_Mexico
 
 Spanish (Mexican, Region: Mexico, ESM) LanguageId value
 
+### Spanish_Modern_Sort {#Spanish-Modern-Sort}
+```
+public static final MSLanguageId Spanish_Modern_Sort
+```
+
+
+Spanish (Modern Sort, Region: Spain, ESN) LanguageId value
+
 ### Spanish_Nicaragua {#Spanish-Nicaragua}
 ```
 public static final MSLanguageId Spanish_Nicaragua
@@ -1634,14 +1635,6 @@ public static final MSLanguageId Spanish_Puerto_Rico
 
 
 Spanish (Region: Puerto Rico) LanguageId value
-
-### Spanish_Modern_Sort {#Spanish-Modern-Sort}
-```
-public static final MSLanguageId Spanish_Modern_Sort
-```
-
-
-Spanish (Modern Sort, Region: Spain, ESN) LanguageId value
 
 ### Spanish_Traditional_Sort {#Spanish-Traditional-Sort}
 ```
@@ -1867,6 +1860,47 @@ public static final MSLanguageId Yoruba
 
 Yoruba (Region: Nigeria) LanguageId value
 
+### isiXhosa {#isiXhosa}
+```
+public static final MSLanguageId isiXhosa
+```
+
+
+isiXhosa (Region: South Africa, SA) LanguageId value
+
+### isiZulu {#isiZulu}
+```
+public static final MSLanguageId isiZulu
+```
+
+
+isiZulu (Region: South Africa, SA) LanguageId value
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getId() {#getId--}
 ```
 public int getId()
@@ -1877,3 +1911,74 @@ Get the integer value.
 
 **Returns:**
 int - The integer value.
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+
