@@ -20,59 +20,24 @@ Represents CFF font encoding.
 
 | Method | Description |
 | --- | --- |
-| [gidToUnicode(GlyphId gid)](#gidToUnicode-com.aspose.font.GlyphId-) | Decodes Gid to unicode. |
-| [encode(long gid, long charCode)](#encode-long-long-) | Encodes the glyph. |
-| [unicodeToGid(long unicode)](#unicodeToGid-long-) | Decodes a unicode and returns glyph id. |
 | [decodeToGid(long charCode)](#decodeToGid-long-) | Gets Gid for charCode passed. |
 | [decodeToGidParameterized(IEncodingParameters parameters, long charCode)](#decodeToGidParameterized-com.aspose.font.IEncodingParameters-long-) | Parameterized decode method. |
+| [encode(long gid, long charCode)](#encode-long-long-) | Encodes the glyph. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getNameToCharCodeIndex()](#getNameToCharCodeIndex--) | Returns name to character code encoding map. |
 | [getNameToGidIndex()](#getNameToGidIndex--) | Returns name to character code encoding map. |
 | [getNameToSidIndex()](#getNameToSidIndex--) | Returns name to character code encoding map. |
 | [getSidName(int sid)](#getSidName-int-) | Gets name for the SID specified. |
-### gidToUnicode(GlyphId gid) {#gidToUnicode-com.aspose.font.GlyphId-}
-```
-public long gidToUnicode(GlyphId gid)
-```
-
-
-Decodes Gid to unicode. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ( GlyphStringId ) class or ( GlyphUInt32Id ) class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| gid | [GlyphId](../../com.aspose.font/glyphid) | Glyph identifier of symbol to decode. |
-
-**Returns:**
-long - Unicode value related to glyph id passed.
-### encode(long gid, long charCode) {#encode-long-long-}
-```
-public void encode(long gid, long charCode)
-```
-
-
-Encodes the glyph. Not supported for CFF Font types.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| gid | long | Glyph id |
-| charCode | long | CharCode associated with the glyph id. |
-
-### unicodeToGid(long unicode) {#unicodeToGid-long-}
-```
-public GlyphId unicodeToGid(long unicode)
-```
-
-
-Decodes a unicode and returns glyph id. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ( GlyphStringId ) class or ( GlyphUInt32Id ) class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| unicode | long | Unicode to get glyph identifier for. |
-
-**Returns:**
-[GlyphId](../../com.aspose.font/glyphid) - Glyph identifier related to unicode passed.
+| [gidToUnicode(GlyphId gid)](#gidToUnicode-com.aspose.font.GlyphId-) | Decodes Gid to unicode. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [unicodeToGid(long unicode)](#unicodeToGid-long-) | Decodes a unicode and returns glyph id. |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### decodeToGid(long charCode) {#decodeToGid-long-}
 ```
 public GlyphId decodeToGid(long charCode)
@@ -104,6 +69,45 @@ Parameterized decode method. Not supported for CFF Font type.
 
 **Returns:**
 [GlyphId](../../com.aspose.font/glyphid) - Glyph identifier related to charCode passed.
+### encode(long gid, long charCode) {#encode-long-long-}
+```
+public void encode(long gid, long charCode)
+```
+
+
+Encodes the glyph. Not supported for CFF Font types.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| gid | long | Glyph id |
+| charCode | long | CharCode associated with the glyph id. |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getNameToCharCodeIndex() {#getNameToCharCodeIndex--}
 ```
 public NameToCodeMap getNameToCharCodeIndex()
@@ -149,3 +153,104 @@ Gets name for the SID specified.
 
 **Returns:**
 java.lang.String - Name from string INDEX if found.
+### gidToUnicode(GlyphId gid) {#gidToUnicode-com.aspose.font.GlyphId-}
+```
+public long gidToUnicode(GlyphId gid)
+```
+
+
+Decodes Gid to unicode. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ( GlyphStringId ) class or ( GlyphUInt32Id ) class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| gid | [GlyphId](../../com.aspose.font/glyphid) | Glyph identifier of symbol to decode. |
+
+**Returns:**
+long - Unicode value related to glyph id passed.
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### unicodeToGid(long unicode) {#unicodeToGid-long-}
+```
+public GlyphId unicodeToGid(long unicode)
+```
+
+
+Decodes a unicode and returns glyph id. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ( GlyphStringId ) class or ( GlyphUInt32Id ) class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| unicode | long | Unicode to get glyph identifier for. |
+
+**Returns:**
+[GlyphId](../../com.aspose.font/glyphid) - Glyph identifier related to unicode passed.
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

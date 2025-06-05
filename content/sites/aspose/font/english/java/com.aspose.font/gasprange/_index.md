@@ -3,7 +3,7 @@ title: GaspRange
 second_title: Aspose.Font for Java API Reference
 description: The array of GaspRange records provides recommended behaviors for various ppem sizes
 type: docs
-weight: 43
+weight: 45
 url: /java/com.aspose.font/gasprange/
 ---
 **Inheritance:**
@@ -17,16 +17,25 @@ The array of GaspRange records provides recommended behaviors for various ppem s
 
 | Constructor | Description |
 | --- | --- |
-| [GaspRange(int rangeMaxPPEM, EnumSet<RangeGaspBehaviorFlags> rangeGaspBehaviorFlags)](#GaspRange-int-java.util.EnumSet-com.aspose.font.RangeGaspBehaviorFlags--) |  |
+| [GaspRange(int rangeMaxPPEM, AsFoEnumSet<RangeGaspBehaviorFlags> rangeGaspBehaviorFlags)](#GaspRange-int-com.aspose.font.util.AsFoEnumSet-com.aspose.font.RangeGaspBehaviorFlags--) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getRangeMaxPPEM()](#getRangeMaxPPEM--) | Gets the upper limit of range, in PPEM. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getRangeGaspBehaviorFlags()](#getRangeGaspBehaviorFlags--) | Gets the flags describing desired rasterizer behavior. |
-### GaspRange(int rangeMaxPPEM, EnumSet<RangeGaspBehaviorFlags> rangeGaspBehaviorFlags) {#GaspRange-int-java.util.EnumSet-com.aspose.font.RangeGaspBehaviorFlags--}
+| [getRangeMaxPPEM()](#getRangeMaxPPEM--) | Gets the upper limit of range, in PPEM. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### GaspRange(int rangeMaxPPEM, AsFoEnumSet<RangeGaspBehaviorFlags> rangeGaspBehaviorFlags) {#GaspRange-int-com.aspose.font.util.AsFoEnumSet-com.aspose.font.RangeGaspBehaviorFlags--}
 ```
-public GaspRange(int rangeMaxPPEM, EnumSet<RangeGaspBehaviorFlags> rangeGaspBehaviorFlags)
+public GaspRange(int rangeMaxPPEM, AsFoEnumSet<RangeGaspBehaviorFlags> rangeGaspBehaviorFlags)
 ```
 
 
@@ -34,8 +43,43 @@ public GaspRange(int rangeMaxPPEM, EnumSet<RangeGaspBehaviorFlags> rangeGaspBeha
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rangeMaxPPEM | int |  |
-| rangeGaspBehaviorFlags | java.util.EnumSet<com.aspose.font.RangeGaspBehaviorFlags> |  |
+| rangeGaspBehaviorFlags | com.aspose.font.util.AsFoEnumSet<com.aspose.font.RangeGaspBehaviorFlags> |  |
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getRangeGaspBehaviorFlags() {#getRangeGaspBehaviorFlags--}
+```
+public AsFoEnumSet<RangeGaspBehaviorFlags> getRangeGaspBehaviorFlags()
+```
+
+
+Gets the flags describing desired rasterizer behavior.
+
+**Returns:**
+[AsFoEnumSet](../../com.aspose.font.util/asfoenumset) - The flags describing desired rasterizer behavior.
 ### getRangeMaxPPEM() {#getRangeMaxPPEM--}
 ```
 public int getRangeMaxPPEM()
@@ -46,13 +90,74 @@ Gets the upper limit of range, in PPEM.
 
 **Returns:**
 int - The upper limit of range, in PPEM.
-### getRangeGaspBehaviorFlags() {#getRangeGaspBehaviorFlags--}
+### hashCode() {#hashCode--}
 ```
-public EnumSet<RangeGaspBehaviorFlags> getRangeGaspBehaviorFlags()
+public native int hashCode()
 ```
 
 
-Gets the flags describing desired rasterizer behavior.
+
 
 **Returns:**
-java.util.EnumSet<com.aspose.font.RangeGaspBehaviorFlags> - The flags describing desired rasterizer behavior.
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

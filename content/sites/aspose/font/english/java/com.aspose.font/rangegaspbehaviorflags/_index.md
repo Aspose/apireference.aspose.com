@@ -3,7 +3,7 @@ title: RangeGaspBehaviorFlags
 second_title: Aspose.Font for Java API Reference
 description: Flags describing desired rasterizer behavior.
 type: docs
-weight: 132
+weight: 139
 url: /java/com.aspose.font/rangegaspbehaviorflags/
 ---
 **Inheritance:**
@@ -17,27 +17,42 @@ Flags describing desired rasterizer behavior.
 
 | Field | Description |
 | --- | --- |
-| [neither](#neither) | Optional for very large sizes, typically ppem > 2048 (0x0000). |
-| [GASP_GRIDFIT](#GASP-GRIDFIT) | Use gridfitting (0x0001). |
 | [GASP_DOGRAY](#GASP-DOGRAY) | Use grayscale rendering (0x0002). |
+| [GASP_GRIDFIT](#GASP-GRIDFIT) | Use gridfitting (0x0001). |
 | [GASP_SYMMETRIC_GRIDFIT](#GASP-SYMMETRIC-GRIDFIT) | Use gridfitting with ClearType symmetric smoothing (0x0004). |
 | [GASP_SYMMETRIC_SMOOTHING](#GASP-SYMMETRIC-SMOOTHING) | Use smoothing along multiple axes with ClearType® (0x0008). |
 | [Reserved](#Reserved) | Reserved flags - set to 0 (0xfff0). |
+| [neither](#neither) | Optional for very large sizes, typically ppem > 2048 (0x0000). |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [values()](#values--) |  |
-| [valueOf(String name)](#valueOf-java.lang.String-) |  |
-| [toInteger(EnumSet<RangeGaspBehaviorFlags> flags)](#toInteger-java.util.EnumSet-com.aspose.font.RangeGaspBehaviorFlags--) | Returns the integer value corresponding to a set of flags. |
+| [<T>valueOf(Class<T> arg0, String arg1)](#-T-valueOf-java.lang.Class-T--java.lang.String-) |  |
+| [compareTo(E arg0)](#compareTo-E-) |  |
+| [describeConstable()](#describeConstable--) |  |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getDeclaringClass()](#getDeclaringClass--) |  |
 | [getFlags(int value)](#getFlags-int-) | Returns a set of flags corresponding to an integer value. |
-### neither {#neither}
+| [hashCode()](#hashCode--) |  |
+| [name()](#name--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [ordinal()](#ordinal--) |  |
+| [toInteger(AsFoEnumSet<RangeGaspBehaviorFlags> flags)](#toInteger-com.aspose.font.util.AsFoEnumSet-com.aspose.font.RangeGaspBehaviorFlags--) | Returns the integer value corresponding to a set of flags. |
+| [toString()](#toString--) |  |
+| [valueOf(String name)](#valueOf-java.lang.String-) |  |
+| [values()](#values--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### GASP_DOGRAY {#GASP-DOGRAY}
 ```
-public static final RangeGaspBehaviorFlags neither
+public static final RangeGaspBehaviorFlags GASP_DOGRAY
 ```
 
 
-Optional for very large sizes, typically ppem > 2048 (0x0000).
+Use grayscale rendering (0x0002).
 
 ### GASP_GRIDFIT {#GASP-GRIDFIT}
 ```
@@ -46,14 +61,6 @@ public static final RangeGaspBehaviorFlags GASP_GRIDFIT
 
 
 Use gridfitting (0x0001).
-
-### GASP_DOGRAY {#GASP-DOGRAY}
-```
-public static final RangeGaspBehaviorFlags GASP_DOGRAY
-```
-
-
-Use grayscale rendering (0x0002).
 
 ### GASP_SYMMETRIC_GRIDFIT {#GASP-SYMMETRIC-GRIDFIT}
 ```
@@ -79,16 +86,176 @@ public static final RangeGaspBehaviorFlags Reserved
 
 Reserved flags - set to 0 (0xfff0).
 
-### values() {#values--}
+### neither {#neither}
 ```
-public static RangeGaspBehaviorFlags[] values()
+public static final RangeGaspBehaviorFlags neither
+```
+
+
+Optional for very large sizes, typically ppem > 2048 (0x0000).
+
+### <T>valueOf(Class<T> arg0, String arg1) {#-T-valueOf-java.lang.Class-T--java.lang.String-}
+```
+public static T <T>valueOf(Class<T> arg0, String arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Class<T> |  |
+| arg1 | java.lang.String |  |
+
+**Returns:**
+T
+### compareTo(E arg0) {#compareTo-E-}
+```
+public final int compareTo(E arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | E |  |
+
+**Returns:**
+int
+### describeConstable() {#describeConstable--}
+```
+public final Optional<Enum.EnumDesc<E>> describeConstable()
 ```
 
 
 
 
 **Returns:**
-com.aspose.font.RangeGaspBehaviorFlags[]
+java.util.Optional<java.lang.Enum.EnumDesc<E>>
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public final boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getDeclaringClass() {#getDeclaringClass--}
+```
+public final Class<E> getDeclaringClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<E>
+### getFlags(int value) {#getFlags-int-}
+```
+public static AsFoEnumSet<RangeGaspBehaviorFlags> getFlags(int value)
+```
+
+
+Returns a set of flags corresponding to an integer value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | The integer value. |
+
+**Returns:**
+[AsFoEnumSet](../../com.aspose.font.util/asfoenumset) - The set of flags corresponding to the integer value.
+### hashCode() {#hashCode--}
+```
+public final int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### name() {#name--}
+```
+public final String name()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### ordinal() {#ordinal--}
+```
+public final int ordinal()
+```
+
+
+
+
+**Returns:**
+int
+### toInteger(AsFoEnumSet<RangeGaspBehaviorFlags> flags) {#toInteger-com.aspose.font.util.AsFoEnumSet-com.aspose.font.RangeGaspBehaviorFlags--}
+```
+public static int toInteger(AsFoEnumSet<RangeGaspBehaviorFlags> flags)
+```
+
+
+Returns the integer value corresponding to a set of flags.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| flags | com.aspose.font.util.AsFoEnumSet<com.aspose.font.RangeGaspBehaviorFlags> | A set of flags. |
+
+**Returns:**
+int - The integer value corresponding to a set of flags.
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
 ### valueOf(String name) {#valueOf-java.lang.String-}
 ```
 public static RangeGaspBehaviorFlags valueOf(String name)
@@ -104,33 +271,48 @@ public static RangeGaspBehaviorFlags valueOf(String name)
 
 **Returns:**
 [RangeGaspBehaviorFlags](../../com.aspose.font/rangegaspbehaviorflags)
-### toInteger(EnumSet<RangeGaspBehaviorFlags> flags) {#toInteger-java.util.EnumSet-com.aspose.font.RangeGaspBehaviorFlags--}
+### values() {#values--}
 ```
-public static int toInteger(EnumSet<RangeGaspBehaviorFlags> flags)
+public static RangeGaspBehaviorFlags[] values()
 ```
 
 
-Returns the integer value corresponding to a set of flags.
+
+
+**Returns:**
+com.aspose.font.RangeGaspBehaviorFlags[]
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| flags | java.util.EnumSet<com.aspose.font.RangeGaspBehaviorFlags> | A set of flags. |
+| arg0 | long |  |
 
-**Returns:**
-int - The integer value corresponding to a set of flags.
-### getFlags(int value) {#getFlags-int-}
+### wait(long arg0, int arg1) {#wait-long-int-}
 ```
-public static EnumSet<RangeGaspBehaviorFlags> getFlags(int value)
+public final void wait(long arg0, int arg1)
 ```
 
 
-Returns a set of flags corresponding to an integer value.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | The integer value. |
+| arg0 | long |  |
+| arg1 | int |  |
 
-**Returns:**
-java.util.EnumSet<com.aspose.font.RangeGaspBehaviorFlags> - The set of flags corresponding to the integer value.

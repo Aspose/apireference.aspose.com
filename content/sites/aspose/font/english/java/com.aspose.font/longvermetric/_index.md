@@ -22,37 +22,25 @@ Represents vertical metrics record.
 
 | Method | Description |
 | --- | --- |
-| [getAdvanceHeight()](#getAdvanceHeight--) | Gets advance height value. |
-| [getTopSideBearing()](#getTopSideBearing--) | Gets top side bearing value. |
 | [clone()](#clone--) |  |
-| [equals(Object obj)](#equals-java.lang.Object-) |  |
 | [equals(TtfVmtxTable.LongVerMetric obj1, TtfVmtxTable.LongVerMetric obj2)](#equals-com.aspose.font.TtfVmtxTable.LongVerMetric-com.aspose.font.TtfVmtxTable.LongVerMetric-) |  |
+| [equals(Object obj)](#equals-java.lang.Object-) |  |
+| [getAdvanceHeight()](#getAdvanceHeight--) | Gets advance height value. |
+| [getClass()](#getClass--) |  |
+| [getTopSideBearing()](#getTopSideBearing--) | Gets top side bearing value. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### LongVerMetric() {#LongVerMetric--}
 ```
 public LongVerMetric()
 ```
 
 
-### getAdvanceHeight() {#getAdvanceHeight--}
-```
-public int getAdvanceHeight()
-```
-
-
-Gets advance height value.
-
-**Returns:**
-int - The advance height value.
-### getTopSideBearing() {#getTopSideBearing--}
-```
-public short getTopSideBearing()
-```
-
-
-Gets top side bearing value.
-
-**Returns:**
-short - The top side bearing value.
 ### clone() {#clone--}
 ```
 public TtfVmtxTable.LongVerMetric clone()
@@ -63,21 +51,6 @@ public TtfVmtxTable.LongVerMetric clone()
 
 **Returns:**
 [LongVerMetric](../../com.aspose.font/longvermetric)
-### equals(Object obj) {#equals-java.lang.Object-}
-```
-public boolean equals(Object obj)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | java.lang.Object |  |
-
-**Returns:**
-boolean
 ### equals(TtfVmtxTable.LongVerMetric obj1, TtfVmtxTable.LongVerMetric obj2) {#equals-com.aspose.font.TtfVmtxTable.LongVerMetric-com.aspose.font.TtfVmtxTable.LongVerMetric-}
 ```
 public static boolean equals(TtfVmtxTable.LongVerMetric obj1, TtfVmtxTable.LongVerMetric obj2)
@@ -94,3 +67,119 @@ public static boolean equals(TtfVmtxTable.LongVerMetric obj1, TtfVmtxTable.LongV
 
 **Returns:**
 boolean
+### equals(Object obj) {#equals-java.lang.Object-}
+```
+public boolean equals(Object obj)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getAdvanceHeight() {#getAdvanceHeight--}
+```
+public int getAdvanceHeight()
+```
+
+
+Gets advance height value.
+
+**Returns:**
+int - The advance height value.
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getTopSideBearing() {#getTopSideBearing--}
+```
+public short getTopSideBearing()
+```
+
+
+Gets top side bearing value.
+
+**Returns:**
+short - The top side bearing value.
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

@@ -3,7 +3,7 @@ title: IGlyphOutlinePainter
 second_title: Aspose.Font for Java API Reference
 description: Defines a outline way to draw glyphs.
 type: docs
-weight: 119
+weight: 125
 url: /java/com.aspose.font/iglyphoutlinepainter/
 ---
 **All Implemented Interfaces:**
@@ -17,35 +17,17 @@ Defines a outline way to draw glyphs.
 
 | Method | Description |
 | --- | --- |
-| [moveTo(MoveTo moveTo)](#moveTo-com.aspose.font.MoveTo-) | Processes MoveTo operation. |
-| [lineTo(LineTo lineTo)](#lineTo-com.aspose.font.LineTo-) | Processes LineTo operation. |
-| [curveTo(CurveTo curveTo)](#curveTo-com.aspose.font.CurveTo-) | Processes CurveTo operation. |
 | [closePath()](#closePath--) | Processes ClosePath operation. |
-### moveTo(MoveTo moveTo) {#moveTo-com.aspose.font.MoveTo-}
+| [curveTo(CurveTo curveTo)](#curveTo-com.aspose.font.CurveTo-) | Processes CurveTo operation. |
+| [lineTo(LineTo lineTo)](#lineTo-com.aspose.font.LineTo-) | Processes LineTo operation. |
+| [moveTo(MoveTo moveTo)](#moveTo-com.aspose.font.MoveTo-) | Processes MoveTo operation. |
+### closePath() {#closePath--}
 ```
-public abstract void moveTo(MoveTo moveTo)
-```
-
-
-Processes MoveTo operation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| moveTo | [MoveTo](../../com.aspose.font/moveto) | MoveTo reference |
-
-### lineTo(LineTo lineTo) {#lineTo-com.aspose.font.LineTo-}
-```
-public abstract void lineTo(LineTo lineTo)
+public abstract void closePath()
 ```
 
 
-Processes LineTo operation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| lineTo | [LineTo](../../com.aspose.font/lineto) | LineTo reference |
+Processes ClosePath operation.
 
 ### curveTo(CurveTo curveTo) {#curveTo-com.aspose.font.CurveTo-}
 ```
@@ -60,11 +42,29 @@ Processes CurveTo operation.
 | --- | --- | --- |
 | curveTo | [CurveTo](../../com.aspose.font/curveto) | CurveTo reference |
 
-### closePath() {#closePath--}
+### lineTo(LineTo lineTo) {#lineTo-com.aspose.font.LineTo-}
 ```
-public abstract void closePath()
+public abstract void lineTo(LineTo lineTo)
 ```
 
 
-Processes ClosePath operation.
+Processes LineTo operation.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| lineTo | [LineTo](../../com.aspose.font/lineto) | LineTo reference |
+
+### moveTo(MoveTo moveTo) {#moveTo-com.aspose.font.MoveTo-}
+```
+public abstract void moveTo(MoveTo moveTo)
+```
+
+
+Processes MoveTo operation.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| moveTo | [MoveTo](../../com.aspose.font/moveto) | MoveTo reference |
 

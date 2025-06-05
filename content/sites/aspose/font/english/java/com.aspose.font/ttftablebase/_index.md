@@ -3,7 +3,7 @@ title: TtfTableBase
 second_title: Aspose.Font for Java API Reference
 description: Represents TTF table definition.
 type: docs
-weight: 102
+weight: 107
 url: /java/com.aspose.font/ttftablebase/
 ---
 **Inheritance:**
@@ -17,18 +17,42 @@ Represents TTF table definition.
 
 | Method | Description |
 | --- | --- |
-| [getTtfTables()](#getTtfTables--) | Reference to TTF table repository. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getOffset()](#getOffset--) | Gets offset from beginning of sfnt. |
-### getTtfTables() {#getTtfTables--}
+| [getTtfTables()](#getTtfTables--) | Reference to TTF table repository. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public TtfTableRepository getTtfTables()
+public boolean equals(Object arg0)
 ```
 
 
-Reference to TTF table repository.
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
 
 **Returns:**
-[TtfTableRepository](../../com.aspose.font/ttftablerepository) - Reference to TTF table repository.
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getOffset() {#getOffset--}
 ```
 public long getOffset()
@@ -39,3 +63,84 @@ Gets offset from beginning of sfnt.
 
 **Returns:**
 long - Offset from beginning of sfnt.
+### getTtfTables() {#getTtfTables--}
+```
+public TtfTableRepository getTtfTables()
+```
+
+
+Reference to TTF table repository.
+
+**Returns:**
+[TtfTableRepository](../../com.aspose.font/ttftablerepository) - Reference to TTF table repository.
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

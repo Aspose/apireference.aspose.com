@@ -3,7 +3,7 @@ title: FileSystemStreamSource
 second_title: Aspose.Font for Java API Reference
 description: Represents a stream source based on file system.
 type: docs
-weight: 29
+weight: 30
 url: /java/com.aspose.font/filesystemstreamsource/
 ---
 **Inheritance:**
@@ -22,10 +22,22 @@ Represents a stream source based on file system.
 
 | Method | Description |
 | --- | --- |
-| [getFileName()](#getFileName--) | Gets file name. |
-| [setFileName(String value)](#setFileName-java.lang.String-) | Sets file name. |
-| [getFontStream()](#getFontStream--) | Returns Font file stream. |
 | [deepClone()](#deepClone--) | Clones the FileSystemStreamSource object. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getFileName()](#getFileName--) | Gets file name. |
+| [getFontStream()](#getFontStream--) | Returns Font file stream. |
+| [getOffset()](#getOffset--) | Gets offset inside the source. |
+| [hashCode()](#hashCode--) |  |
+| [mustCloseAfterUse()](#mustCloseAfterUse--) | The inheritors may prevent stream from closing. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setFileName(String value)](#setFileName-java.lang.String-) | Sets file name. |
+| [setOffset(long value)](#setOffset-long-) | Sets offset inside the source. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### FileSystemStreamSource(String fileName) {#FileSystemStreamSource-java.lang.String-}
 ```
 public FileSystemStreamSource(String fileName)
@@ -39,6 +51,41 @@ Initializes new  FileSystemStreamSource  object.
 | --- | --- | --- |
 | fileName | java.lang.String | File name. |
 
+### deepClone() {#deepClone--}
+```
+public Object deepClone()
+```
+
+
+Clones the FileSystemStreamSource object.
+
+**Returns:**
+java.lang.Object - Copy of FileSystemStreamSource object.
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getFileName() {#getFileName--}
 ```
 public String getFileName()
@@ -49,6 +96,62 @@ Gets file name.
 
 **Returns:**
 java.lang.String - File name.
+### getFontStream() {#getFontStream--}
+```
+public InputStream getFontStream()
+```
+
+
+Returns Font file stream. Don't forget to close the stream after use.
+
+**Returns:**
+java.io.InputStream - Font file stream.
+### getOffset() {#getOffset--}
+```
+public long getOffset()
+```
+
+
+Gets offset inside the source.
+
+**Returns:**
+long - Offset inside the source.
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### mustCloseAfterUse() {#mustCloseAfterUse--}
+```
+public boolean mustCloseAfterUse()
+```
+
+
+The inheritors may prevent stream from closing. Returns true if the stream source wants the stream to be closed after use. Otherwise returns false.
+
+**Returns:**
+boolean - True if the stream source wants the stream to be closed after use, otherwise false.
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setFileName(String value) {#setFileName-java.lang.String-}
 ```
 public void setFileName(String value)
@@ -62,23 +165,61 @@ Sets file name.
 | --- | --- | --- |
 | value | java.lang.String | File name. |
 
-### getFontStream() {#getFontStream--}
+### setOffset(long value) {#setOffset-long-}
 ```
-public InputStream getFontStream()
+public void setOffset(long value)
 ```
 
 
-Returns Font file stream. Don't forget to close the stream after use.
+Sets offset inside the source.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | long | Offset inside the source. |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
 
 **Returns:**
-java.io.InputStream - Font file stream.
-### deepClone() {#deepClone--}
+java.lang.String
+### wait() {#wait--}
 ```
-public Object deepClone()
+public final void wait()
 ```
 
 
-Clones the FileSystemStreamSource object.
 
-**Returns:**
-java.lang.Object - Copy of FileSystemStreamSource object.
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

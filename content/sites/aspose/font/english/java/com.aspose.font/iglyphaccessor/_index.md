@@ -3,7 +3,7 @@ title: IGlyphAccessor
 second_title: Aspose.Font for Java API Reference
 description: Defines functionality to retrieve specified glyph identifiers and glyphs.
 type: docs
-weight: 118
+weight: 124
 url: /java/com.aspose.font/iglyphaccessor/
 ---```
 public interface IGlyphAccessor
@@ -14,20 +14,10 @@ Defines functionality to retrieve specified glyph identifiers and glyphs.
 
 | Method | Description |
 | --- | --- |
-| [getGlyphIdType()](#getGlyphIdType--) | Glyph id type specification. |
 | [getAllGlyphIds()](#getAllGlyphIds--) | Returns all glyph ids, available in the Font. |
-| [getGlyphsForText(String text)](#getGlyphsForText-java.lang.String-) | Get glyphs representation for text. |
 | [getGlyphById(GlyphId id)](#getGlyphById-com.aspose.font.GlyphId-) | Returns glyph by glyph id. |
-### getGlyphIdType() {#getGlyphIdType--}
-```
-public abstract GlyphIdType getGlyphIdType()
-```
-
-
-Glyph id type specification.
-
-**Returns:**
-[GlyphIdType](../../com.aspose.font/glyphidtype) - Id type specification.
+| [getGlyphIdType()](#getGlyphIdType--) | Glyph id type specification. |
+| [getGlyphsForText(String text)](#getGlyphsForText-java.lang.String-) | Get glyphs representation for text. |
 ### getAllGlyphIds() {#getAllGlyphIds--}
 ```
 public abstract GlyphId[] getAllGlyphIds()
@@ -38,21 +28,6 @@ Returns all glyph ids, available in the Font. Glyph id is a unique number for a 
 
 **Returns:**
 com.aspose.font.GlyphId[] - Glyph identifiers.
-### getGlyphsForText(String text) {#getGlyphsForText-java.lang.String-}
-```
-public abstract GlyphId[] getGlyphsForText(String text)
-```
-
-
-Get glyphs representation for text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | java.lang.String | Input text. |
-
-**Returns:**
-com.aspose.font.GlyphId[] - GlyphId array.
 ### getGlyphById(GlyphId id) {#getGlyphById-com.aspose.font.GlyphId-}
 ```
 public abstract Glyph getGlyphById(GlyphId id)
@@ -68,3 +43,28 @@ Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is fon
 
 **Returns:**
 [Glyph](../../com.aspose.font/glyph) - Glyph
+### getGlyphIdType() {#getGlyphIdType--}
+```
+public abstract GlyphIdType getGlyphIdType()
+```
+
+
+Glyph id type specification.
+
+**Returns:**
+[GlyphIdType](../../com.aspose.font/glyphidtype) - Id type specification.
+### getGlyphsForText(String text) {#getGlyphsForText-java.lang.String-}
+```
+public abstract GlyphId[] getGlyphsForText(String text)
+```
+
+
+Get glyphs representation for text.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | java.lang.String | Input text. |
+
+**Returns:**
+com.aspose.font.GlyphId[] - GlyphId array.
