@@ -30,6 +30,7 @@ Class for XPS-as-PDF saving options.
 | [getBatchSize()](#getBatchSize--) | Returns the size of a portion of pages to pass from node to node. |
 | [getBeforePageSavingEventHandlers()](#getBeforePageSavingEventHandlers--) | Returns the collection of event handlers that performs modifications to an XPS page just before it is saved. |
 | [getClass()](#getClass--) |  |
+| [getConvertFontsToTTF()](#getConvertFontsToTTF--) | Gets the flag showing if it is necessary to save non-TrueType fonts to TTF. |
 | [getEncryptionDetails()](#getEncryptionDetails--) | Returns the encryption details. |
 | [getExceptions()](#getExceptions--) | Returns a list of non-critical errors. |
 | [getImageCompression()](#getImageCompression--) | Returns the compression type to be used for all images in the document. |
@@ -48,6 +49,7 @@ Class for XPS-as-PDF saving options.
 | [preserveText(boolean value)](#preserveText-boolean-) | In XPS, some text elements may contain references to alternate glyph forms that do not correspond to any character code in the font. |
 | [setAdditionalFontsFolders(String[] fontsFolders)](#setAdditionalFontsFolders-java.lang.String---) | Specifies additional fonts folders where converter should find fonts for input document. |
 | [setBatchSize(int value)](#setBatchSize-int-) | Sets the size of a portion of pages to pass from node to node. |
+| [setConvertFontsToTTF(boolean value)](#setConvertFontsToTTF-boolean-) | Specifies whether to save non-TrueType fonts to TTF. |
 | [setDebug(boolean debug)](#setDebug-boolean-) | Specifies the flag that allows output of warnings and messages during conversion. |
 | [setEncryptionDetails(PdfEncryptionDetails value)](#setEncryptionDetails-com.aspose.xps.rendering.PdfEncryptionDetails-) | Sets the encryption details. |
 | [setImageCompression(PdfImageCompression value)](#setImageCompression-com.aspose.xps.rendering.PdfImageCompression-) | Sets the compression type to be used for all images in the document. |
@@ -125,6 +127,16 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getConvertFontsToTTF() {#getConvertFontsToTTF--}
+```
+public boolean getConvertFontsToTTF()
+```
+
+
+Gets the flag showing if it is necessary to save non-TrueType fonts to TTF.
+
+**Returns:**
+boolean - The flag value.
 ### getEncryptionDetails() {#getEncryptionDetails--}
 ```
 public PdfEncryptionDetails getEncryptionDetails()
@@ -309,6 +321,19 @@ Sets the size of a portion of pages to pass from node to node.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int | The size of a portion of pages to pass from node to node. |
+
+### setConvertFontsToTTF(boolean value) {#setConvertFontsToTTF-boolean-}
+```
+public void setConvertFontsToTTF(boolean value)
+```
+
+
+Specifies whether to save non-TrueType fonts to TTF. It significantly decreases the volume of the resulting document in PS to PDF conversion and increases the speed of conversion of PS files with a large quantity of text in non-TrueType fonts to any output format. However there is small vertical shift of text when converting PostSctipt file to image.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | The flag value. |
 
 ### setDebug(boolean debug) {#setDebug-boolean-}
 ```

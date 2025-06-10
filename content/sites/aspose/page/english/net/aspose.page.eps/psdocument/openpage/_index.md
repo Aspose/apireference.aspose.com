@@ -3,7 +3,7 @@ title: PsDocument.OpenPage
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Creates new page and make it current one
 type: docs
-weight: 360
+weight: 380
 url: /net/aspose.page.eps/psdocument/openpage/
 ---
 ## OpenPage(float, float) {#openpage}

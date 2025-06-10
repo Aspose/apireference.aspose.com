@@ -26,10 +26,10 @@ public SizeF(SizeF size)
 
 ---
 
-## SizeF(#=zWfgi6R$WbIywKCegIXZ99gI=) {#constructor}
+## SizeF(#=zyi_zu_RJr3HNfCxekqwC6Y8=) {#constructor}
 
 ```csharp
-public SizeF(#=zWfgi6R$WbIywKCegIXZ99gI= pt)
+public SizeF(#=zyi_zu_RJr3HNfCxekqwC6Y8= pt)
 ```
 
 ### See Also

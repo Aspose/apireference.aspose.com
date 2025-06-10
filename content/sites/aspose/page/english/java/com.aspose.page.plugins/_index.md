@@ -3,7 +3,7 @@ title: com.aspose.page.plugins
 second_title: Aspose.Page for Java API Reference
 description: The com.aspose.page.plugins contains interfaces and classes common for all Aspose.Page plugins.
 type: docs
-weight: 14
+weight: 15
 url: /java/com.aspose.page.plugins/
 ---
 

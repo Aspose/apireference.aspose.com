@@ -28,6 +28,7 @@ This class contains options necessary for managing conversion process.
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getAdditionalFontsFolders()](#getAdditionalFontsFolders--) | Returns additional fonts folders where converter should find fonts for input document. |
 | [getClass()](#getClass--) |  |
+| [getConvertFontsToTTF()](#getConvertFontsToTTF--) | Gets the flag showing if it is necessary to save non-TrueType fonts to TTF. |
 | [getExceptions()](#getExceptions--) | Returns a list of non-critical errors. |
 | [getJpegQualityLevel()](#getJpegQualityLevel--) | Returns the value specifying the level of compression for an image. |
 | [getSize()](#getSize--) | Gets a size of the page or image. |
@@ -37,6 +38,7 @@ This class contains options necessary for managing conversion process.
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setAdditionalFontsFolders(String[] fontsFolders)](#setAdditionalFontsFolders-java.lang.String---) | Specifies additional fonts folders where converter should find fonts for input document. |
+| [setConvertFontsToTTF(boolean value)](#setConvertFontsToTTF-boolean-) | Specifies whether to save non-TrueType fonts to TTF. |
 | [setDebug(boolean debug)](#setDebug-boolean-) | Specifies the flag that allows output of warnings and messages during conversion. |
 | [setJpegQualityLevel(int value)](#setJpegQualityLevel-int-) | Sets the value specifying the level of compression for an image. |
 | [setSize(Dimension size)](#setSize-java.awt.Dimension-) | Specifies a size of the page or image. |
@@ -128,6 +130,16 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getConvertFontsToTTF() {#getConvertFontsToTTF--}
+```
+public boolean getConvertFontsToTTF()
+```
+
+
+Gets the flag showing if it is necessary to save non-TrueType fonts to TTF.
+
+**Returns:**
+boolean - The flag value.
 ### getExceptions() {#getExceptions--}
 ```
 public List<Exception> getExceptions()
@@ -216,6 +228,19 @@ Specifies additional fonts folders where converter should find fonts for input d
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fontsFolders | java.lang.String[] | An array of fonts folders. |
+
+### setConvertFontsToTTF(boolean value) {#setConvertFontsToTTF-boolean-}
+```
+public void setConvertFontsToTTF(boolean value)
+```
+
+
+Specifies whether to save non-TrueType fonts to TTF. It significantly decreases the volume of the resulting document in PS to PDF conversion and increases the speed of conversion of PS files with a large quantity of text in non-TrueType fonts to any output format. However there is small vertical shift of text when converting PostSctipt file to image.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | The flag value. |
 
 ### setDebug(boolean debug) {#setDebug-boolean-}
 ```

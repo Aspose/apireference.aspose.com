@@ -27,6 +27,7 @@ This class contains options necessary for managing conversion process.
 | [getAdditionalFontsFolders()](#getAdditionalFontsFolders--) | Returns additional fonts folders where converter should find fonts for input document. |
 | [getBackgroundColor()](#getBackgroundColor--) |  |
 | [getClass()](#getClass--) |  |
+| [getConvertFontsToTTF()](#getConvertFontsToTTF--) | Gets the flag showing if it is necessary to save non-TrueType fonts to TTF. |
 | [getEmbedFontsAs()](#getEmbedFontsAs--) |  |
 | [getExceptions()](#getExceptions--) | Returns a list of non-critical errors. |
 | [getJpegQualityLevel()](#getJpegQualityLevel--) | Returns the value specifying the level of compression for an image. |
@@ -43,6 +44,7 @@ This class contains options necessary for managing conversion process.
 | [notifyAll()](#notifyAll--) |  |
 | [setAdditionalFontsFolders(String[] fontsFolders)](#setAdditionalFontsFolders-java.lang.String---) | Specifies additional fonts folders where converter should find fonts for input document. |
 | [setBackgroundColor(Color backgroundColor)](#setBackgroundColor-java.awt.Color-) |  |
+| [setConvertFontsToTTF(boolean value)](#setConvertFontsToTTF-boolean-) | Specifies whether to save non-TrueType fonts to TTF. |
 | [setDebug(boolean debug)](#setDebug-boolean-) | Specifies the flag that allows output of warnings and messages during conversion. |
 | [setEmbedFonts(boolean embedFonts)](#setEmbedFonts-boolean-) | Specifies whether to embed used fonts in PS document |
 | [setEmbedFontsAs(String embedFontsAs)](#setEmbedFontsAs-java.lang.String-) | Specify font type in which to embed fonts in PS document |
@@ -123,6 +125,16 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getConvertFontsToTTF() {#getConvertFontsToTTF--}
+```
+public boolean getConvertFontsToTTF()
+```
+
+
+Gets the flag showing if it is necessary to save non-TrueType fonts to TTF.
+
+**Returns:**
+boolean - The flag value.
 ### getEmbedFontsAs() {#getEmbedFontsAs--}
 ```
 public String getEmbedFontsAs()
@@ -284,6 +296,19 @@ public void setBackgroundColor(Color backgroundColor)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | backgroundColor | java.awt.Color | Specifies background color |
+
+### setConvertFontsToTTF(boolean value) {#setConvertFontsToTTF-boolean-}
+```
+public void setConvertFontsToTTF(boolean value)
+```
+
+
+Specifies whether to save non-TrueType fonts to TTF. It significantly decreases the volume of the resulting document in PS to PDF conversion and increases the speed of conversion of PS files with a large quantity of text in non-TrueType fonts to any output format. However there is small vertical shift of text when converting PostSctipt file to image.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | The flag value. |
 
 ### setDebug(boolean debug) {#setDebug-boolean-}
 ```

@@ -3,7 +3,7 @@ title: PsDocument.DrawImage
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Draw image
 type: docs
-weight: 130
+weight: 150
 url: /net/aspose.page.eps/psdocument/drawimage/
 ---
 ## DrawImage(Bitmap) {#drawimage}

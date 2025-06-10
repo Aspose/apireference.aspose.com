@@ -3,7 +3,7 @@ title: com.aspose.xps
 second_title: Aspose.Page for Java API Reference
 description: The com.aspose.xps is a root package for all classes that deal with XPS document.
 type: docs
-weight: 15
+weight: 16
 url: /java/com.aspose.xps/
 ---
 

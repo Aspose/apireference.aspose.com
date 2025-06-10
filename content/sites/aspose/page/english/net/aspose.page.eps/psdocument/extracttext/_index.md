@@ -3,7 +3,7 @@ title: PsDocument.ExtractText
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Extract text from PS file. The text can be extracted only if it is written with Type 42 TrueType font or Type 0 font with Type 42 fonts in its Vector Map
 type: docs
-weight: 230
+weight: 250
 url: /net/aspose.page.eps/psdocument/extracttext/
 ---
 ## PsDocument.ExtractText method

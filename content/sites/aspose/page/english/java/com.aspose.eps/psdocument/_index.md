@@ -17,6 +17,7 @@ This class encapsulates PS/EPS documents.
 
 | Constructor | Description |
 | --- | --- |
+| [PsDocument()](#PsDocument--) | Initializes empty  PsDocument  with initialized page. |
 | [PsDocument(OutputStream psStream, PsSaveOptions options)](#PsDocument-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-) | Initializes empty  PsDocument  with initialized page. |
 | [PsDocument(OutputStream psStream, PsSaveOptions options, boolean multipaged)](#PsDocument-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-boolean-) | Initializes empty  PsDocument . |
 | [PsDocument(OutputStream psStream, PsSaveOptions options, int numberOfPages)](#PsDocument-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-int-) | Initializes empty  PsDocument  when the number of Postscript document pages is known in advance. |
@@ -31,6 +32,9 @@ This class encapsulates PS/EPS documents.
 | [clipRectangle(Rectangle2D.Float rect)](#clipRectangle-java.awt.geom.Rectangle2D.Float-) | Adds clipping rectangle to current graphics state. |
 | [clipText(String text, Font font, float x, float y)](#clipText-java.lang.String-java.awt.Font-float-float-) | Adds clip from an outline of given text in given font. |
 | [closePage()](#closePage--) | Complete current page. |
+| [convertType1FontToTTF(String type1FontFilePath, String outputDir)](#convertType1FontToTTF-java.lang.String-java.lang.String-) | Converts Type 1 font to TrueType. |
+| [convertType3FontToTTF(String type3FontFilePath, OutputStream outputStream)](#convertType3FontToTTF-java.lang.String-java.io.OutputStream-) | Converts Type 3 font to TrueType. |
+| [convertType3FontToTTF(String type3FontFilePath, String outputDir)](#convertType3FontToTTF-java.lang.String-java.lang.String-) | Converts Type 3 font to TrueType. |
 | [cropEps(OutputStream epsStream, float[] cropBox)](#cropEps-java.io.OutputStream-float---) | Crops given  PsDocument  as EPS file. |
 | [draw(Shape shape)](#draw-java.awt.Shape-) | Draw an arbitrary path. |
 | [drawExplicitImageMask(BufferedImage image24bpp, BufferedImage alphaMask1bpp, AffineTransform transform)](#drawExplicitImageMask-java.awt.image.BufferedImage-java.awt.image.BufferedImage-java.awt.geom.AffineTransform-) | Draw masked image. |
@@ -106,6 +110,14 @@ This class encapsulates PS/EPS documents.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 | [writeGraphicsRestore()](#writeGraphicsRestore--) | Writes restoring of the current graphics state (see PostScript specification on operator "grestore"). |
 | [writeGraphicsSave()](#writeGraphicsSave--) | Writes saving of the current graphics state (see PostScript specification on operator "gsave"). |
+### PsDocument() {#PsDocument--}
+```
+public PsDocument()
+```
+
+
+Initializes empty  PsDocument  with initialized page. This constructor is used only for additional operations that are not related to PostScript files, for example, converting fonts.
+
 ### PsDocument(OutputStream psStream, PsSaveOptions options) {#PsDocument-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-}
 ```
 public PsDocument(OutputStream psStream, PsSaveOptions options)
@@ -238,6 +250,48 @@ public void closePage()
 
 
 Complete current page.
+
+### convertType1FontToTTF(String type1FontFilePath, String outputDir) {#convertType1FontToTTF-java.lang.String-java.lang.String-}
+```
+public void convertType1FontToTTF(String type1FontFilePath, String outputDir)
+```
+
+
+Converts Type 1 font to TrueType. The name of the converted TTF font file will be the same as input Type 1 font with ".ttf" extension. TTF file will be saved to assigned output directory.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type1FontFilePath | java.lang.String | The Type 1 font file path.. |
+| outputDir | java.lang.String | Output dir where to save resulting TrueType font. |
+
+### convertType3FontToTTF(String type3FontFilePath, OutputStream outputStream) {#convertType3FontToTTF-java.lang.String-java.io.OutputStream-}
+```
+public void convertType3FontToTTF(String type3FontFilePath, OutputStream outputStream)
+```
+
+
+Converts Type 3 font to TrueType. TTF file will be saved to the provided output stream.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type3FontFilePath | java.lang.String | The Type 3 font file path. |
+| outputStream | java.io.OutputStream | Output stream where to save resulting TrueType font. |
+
+### convertType3FontToTTF(String type3FontFilePath, String outputDir) {#convertType3FontToTTF-java.lang.String-java.lang.String-}
+```
+public void convertType3FontToTTF(String type3FontFilePath, String outputDir)
+```
+
+
+Converts Type 3 font to TrueType. The name of the converted TTF font file will be the same as input Type 3 font with ".ttf" extension. TTF file will be saved to assigned output directory.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type3FontFilePath | java.lang.String | The Type 3 font file path.. |
+| outputDir | java.lang.String | Output dir where to save resulting TrueType font. |
 
 ### cropEps(OutputStream epsStream, float[] cropBox) {#cropEps-java.io.OutputStream-float---}
 ```

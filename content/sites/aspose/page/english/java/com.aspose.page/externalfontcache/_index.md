@@ -18,10 +18,18 @@ Use this class to obtain font encapsulation in a form that is accepted by Device
 | Constructor | Description |
 | --- | --- |
 | [ExternalFontCache()](#ExternalFontCache--) |  |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [DEFAULT_SIZE](#DEFAULT-SIZE) | Default font size. |
+| [DEFAULT_STYLE](#DEFAULT-STYLE) | Default font style. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [FetchTrFont(String familyName)](#FetchTrFont-java.lang.String-) | Fetches DrFont by font family name, default size (1) and dafault style (PLAIN). |
+| [FetchTrFont(String familyName, int style)](#FetchTrFont-java.lang.String-int-) | Fetches DrFont by font family name, default size (1) and style. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [fetchDrFont(String familyName, float sizePoints, int style)](#fetchDrFont-java.lang.String-float-int-) | Fetches DrFont by font family name, size and style. |
 | [fetchDrFont(String familyName, float sizePoints, int style, int fontCapitals)](#fetchDrFont-java.lang.String-float-int-int-) | Fetches DrFont by font family name, size, style and font capitals. |
@@ -43,6 +51,53 @@ public ExternalFontCache()
 ```
 
 
+### DEFAULT_SIZE {#DEFAULT-SIZE}
+```
+public static final float DEFAULT_SIZE
+```
+
+
+Default font size.
+
+### DEFAULT_STYLE {#DEFAULT-STYLE}
+```
+public static final int DEFAULT_STYLE
+```
+
+
+Default font style.
+
+### FetchTrFont(String familyName) {#FetchTrFont-java.lang.String-}
+```
+public DrFont FetchTrFont(String familyName)
+```
+
+
+Fetches DrFont by font family name, default size (1) and dafault style (PLAIN).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| familyName | java.lang.String | Font family name. |
+
+**Returns:**
+com.aspose.foundation.drawing.DrFont - DrFont.
+### FetchTrFont(String familyName, int style) {#FetchTrFont-java.lang.String-int-}
+```
+public DrFont FetchTrFont(String familyName, int style)
+```
+
+
+Fetches DrFont by font family name, default size (1) and style.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| familyName | java.lang.String | Font family name. |
+| style | int | Font style. |
+
+**Returns:**
+com.aspose.foundation.drawing.DrFont - DrFont.
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)

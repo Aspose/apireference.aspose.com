@@ -3,7 +3,7 @@ title: SaveOptions.Size
 second_title: Aspose.Page for .NET API Reference
 description: SaveOptions property. Gets/sets the size of the image
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.page/saveoptions/size/
 ---
 ## SaveOptions.Size property

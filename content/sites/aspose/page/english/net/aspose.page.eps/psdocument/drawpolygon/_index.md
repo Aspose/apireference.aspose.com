@@ -3,7 +3,7 @@ title: PsDocument.DrawPolygon
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Draws a polygon
 type: docs
-weight: 160
+weight: 180
 url: /net/aspose.page.eps/psdocument/drawpolygon/
 ---
 ## DrawPolygon(int[], int[], int) {#drawpolygon_1}

@@ -3,7 +3,7 @@ title: com.aspose.eps.plugins
 second_title: Aspose.Page for Java API Reference
 description: The com.aspose.eps.plugins contains EPS plugins classes.
 type: docs
-weight: 12
+weight: 13
 url: /java/com.aspose.eps.plugins/
 ---
 

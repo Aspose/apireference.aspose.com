@@ -18,14 +18,15 @@ public sealed class PsDocument : Document
 
 | Name | Description |
 | --- | --- |
-| [PsDocument](psdocument/#constructor)(Stream) | Initializes `PsDocument` with a stream of PS/EPS file. |
-| [PsDocument](psdocument/#constructor_4)(string) | Initializes `PsDocument` with an input PS/EPS file. |
-| [PsDocument](psdocument/#constructor_1)(Stream, PsSaveOptions) | Initializes empty `PsDocument` with initialized page. |
-| [PsDocument](psdocument/#constructor_5)(string, PsSaveOptions) | Initializes empty `PsDocument` with initialized page. |
-| [PsDocument](psdocument/#constructor_2)(Stream, PsSaveOptions, bool) | Initializes empty `PsDocument`. |
-| [PsDocument](psdocument/#constructor_3)(Stream, PsSaveOptions, int) | Initializes empty `PsDocument` when the number of Postscript document pages is known in advance. |
-| [PsDocument](psdocument/#constructor_6)(string, PsSaveOptions, bool) | Initializes empty `PsDocument`. |
-| [PsDocument](psdocument/#constructor_7)(string, PsSaveOptions, int) | Initializes empty `PsDocument` when the number of Postscript document pages is known in advance. |
+| [PsDocument](psdocument/#constructor)() | Initializes empty `PsDocument`. This constructor is used only for additional operations that are not related to PostScript files, for example, converting fonts. |
+| [PsDocument](psdocument/#constructor_1)(Stream) | Initializes `PsDocument` with a stream of PS/EPS file. |
+| [PsDocument](psdocument/#constructor_5)(string) | Initializes `PsDocument` with an input PS/EPS file. |
+| [PsDocument](psdocument/#constructor_2)(Stream, PsSaveOptions) | Initializes empty `PsDocument` with initialized page. |
+| [PsDocument](psdocument/#constructor_6)(string, PsSaveOptions) | Initializes empty `PsDocument` with initialized page. |
+| [PsDocument](psdocument/#constructor_3)(Stream, PsSaveOptions, bool) | Initializes empty `PsDocument`. |
+| [PsDocument](psdocument/#constructor_4)(Stream, PsSaveOptions, int) | Initializes empty `PsDocument` when the number of Postscript document pages is known in advance. |
+| [PsDocument](psdocument/#constructor_7)(string, PsSaveOptions, bool) | Initializes empty `PsDocument`. |
+| [PsDocument](psdocument/#constructor_8)(string, PsSaveOptions, int) | Initializes empty `PsDocument` when the number of Postscript document pages is known in advance. |
 
 ## Properties
 
@@ -43,6 +44,9 @@ public sealed class PsDocument : Document
 | [ClipRectangle](../../aspose.page.eps/psdocument/cliprectangle/)(RectangleF) | Adds clipping rectangle to current graphics state. |
 | [ClipText](../../aspose.page.eps/psdocument/cliptext/)(string, Font, float, float) | Adds clip from an outline of given text in given font. |
 | [ClosePage](../../aspose.page.eps/psdocument/closepage/)() | Complete current page. |
+| [ConvertType1FontToTTF](../../aspose.page.eps/psdocument/converttype1fonttottf/)(string, string) | Converts Type 1 font to TrueType. The name of the converted TTF font will be the same as input Type 1 font with ".ttf" extension. TTF file will be saved to assigned output directory. |
+| [ConvertType3FontToTTF](../../aspose.page.eps/psdocument/converttype3fonttottf/#converttype3fonttottf)(string, Stream) | Converts Type 3 font to TrueType stream. |
+| [ConvertType3FontToTTF](../../aspose.page.eps/psdocument/converttype3fonttottf/#converttype3fonttottf_1)(string, string) | Converts Type 3 font to TrueType. The name of the converted TTF font will be the same as input Type 3 font file with ".ttf" extension. TTF file will be saved to assigned output directory. |
 | [CropEps](../../aspose.page.eps/psdocument/cropeps/#cropeps)(Stream, float[]) | Crops given `PsDocument` as EPS file. It saves initial EPS file with updated existing %%BoundingBox or new one will be created. |
 | [CropEps](../../aspose.page.eps/psdocument/cropeps/#cropeps_1)(string, float[]) | Crops given `PsDocument` as EPS file. It saves initial EPS file with updated existing %%BoundingBox or new one will be created. |
 | [Draw](../../aspose.page.eps/psdocument/draw/)(GraphicsPath) | Draw an arbitrary path. |
