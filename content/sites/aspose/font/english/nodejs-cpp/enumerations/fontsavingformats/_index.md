@@ -22,4 +22,4 @@ public enum FontSavingFormats
 | WOFF | `1` | WOFF(Web Open Font Format). |
 | WOFF2 | `2` | WOFF File Format 2.0 |
 | SVG | `3` | SVG(Scalable Vector Graphics) Font format |
-
+| OTF | `4` | OTF (OpenType) Font format |
