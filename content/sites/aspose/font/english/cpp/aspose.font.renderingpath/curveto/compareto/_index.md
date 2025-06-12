@@ -4,7 +4,7 @@ linktitle: CompareTo
 second_title: Aspose.Font for C++
 description: 'How to use CompareTo method of Aspose::Font::RenderingPath::CurveTo class in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font.renderingpath/curveto/compareto/
 ---
 ## CurveTo::CompareTo method

@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::RenderingPath::MoveTo::Clone method. Creates a new object that is a copy of the current instance in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font.renderingpath/moveto/clone/
 ---
 ## MoveTo::Clone method

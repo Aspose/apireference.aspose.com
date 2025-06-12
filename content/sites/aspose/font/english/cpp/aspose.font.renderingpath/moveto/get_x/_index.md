@@ -4,7 +4,7 @@ linktitle: get_X
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::RenderingPath::MoveTo::get_X method. Gets coordinate x in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.font.renderingpath/moveto/get_x/
 ---
 ## MoveTo::get_X method
