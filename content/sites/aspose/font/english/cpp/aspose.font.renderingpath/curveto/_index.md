@@ -23,6 +23,7 @@ class CurveTo : public Aspose::Font::RenderingPath::IPathSegment
 | [Clone](./clone/)() override | Creates a new object that is a copy of the current instance. |
 | [CompareTo](./compareto/)(System::SharedPtr\<IPathSegment\>) override |  |
 | [Copy](./copy/)() override | Creates copy of the segment object. |
+| [CurveTo](./curveto/)(double, double, double, double, double, double) | Initializes new [CurveTo](./) object. |
 | [get_X1](./get_x1/)() const | Gets coordinate x1. |
 | [get_X2](./get_x2/)() const | Gets coordinate x2. |
 | [get_X3](./get_x3/)() const | Gets coordinate x3. |

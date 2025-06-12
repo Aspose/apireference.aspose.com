@@ -4,7 +4,7 @@ linktitle: get_X1
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::RenderingPath::CurveTo::get_X1 method. Gets coordinate x1 in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.font.renderingpath/curveto/get_x1/
 ---
 ## CurveTo::get_X1 method

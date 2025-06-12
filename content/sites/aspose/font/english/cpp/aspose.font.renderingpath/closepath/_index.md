@@ -21,6 +21,7 @@ class ClosePath : public Aspose::Font::RenderingPath::IPathSegment
 | Method | Description |
 | --- | --- |
 | [Clone](./clone/)() override | Creates a new object that is a copy of the current instance. |
+| [ClosePath](./closepath/)(double, double) | Initializes new [ClosePath](./) object. |
 | [CompareTo](./compareto/)(System::SharedPtr\<IPathSegment\>) override |  |
 | [Copy](./copy/)() override | Creates copy of the segment object. |
 | [get_X](./get_x/)() const | Gets coordinate x. |

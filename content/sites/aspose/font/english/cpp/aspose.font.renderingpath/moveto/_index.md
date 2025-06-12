@@ -25,6 +25,7 @@ class MoveTo : public Aspose::Font::RenderingPath::IPathSegment
 | [Copy](./copy/)() override | Creates copy of the segment object. |
 | [get_X](./get_x/)() const | Gets coordinate x. |
 | [get_Y](./get_y/)() const | Gets coordinate y. |
+| [MoveTo](./moveto/)(double, double) | Initializes new [MoveTo](./) object. |
 | [Shift](./shift/)(double, double) override | Performs shift by x and y coordinates. |
 | [Transform](./transform/)(System::SharedPtr\<TransformationMatrix\>) override | Transforms coordinates with the transformation matrix. |
 ## See Also

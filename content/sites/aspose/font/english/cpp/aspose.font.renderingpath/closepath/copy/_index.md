@@ -4,7 +4,7 @@ linktitle: Copy
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::RenderingPath::ClosePath::Copy method. Creates copy of the segment object in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.font.renderingpath/closepath/copy/
 ---
 ## ClosePath::Copy method

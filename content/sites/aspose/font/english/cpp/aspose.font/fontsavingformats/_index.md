@@ -24,6 +24,7 @@ enum class FontSavingFormats
 | WOFF | 1 | [WOFF(Web Open Font Format)](./). |
 | WOFF2 | 2 | WOFF File Format 2.0. |
 | SVG | 3 | [SVG(Scalable Vector Graphics)](./)[Font](../font/) format. |
+| OTF | 4 | OpenType [Font](../font/). OpenType [Font](../font/) format is an extension of the TrueType [Font](../font/) format, adding support for PostScript [Font](../font/) data. |
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: get_Y
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::RenderingPath::ClosePath::get_Y method. Gets coordinate y in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.font.renderingpath/closepath/get_y/
 ---
 ## ClosePath::get_Y method
