@@ -11,7 +11,7 @@ url: /net/aspose.ocr/imagedata/stream/
 Image in stream.
 
 ```csharp
-public MemoryStream Stream;
+public Stream Stream;
 ```
 
 ### See Also

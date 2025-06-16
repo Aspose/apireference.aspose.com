@@ -3,7 +3,7 @@ title: Duration
 second_title: Aspose.OCR for .NET API Reference
 description: The time from the start of the recognition process to the moment the current image is recognized.
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.ocr.models.events/ocrpagerecognizeeventsargs/duration/
 ---
 ## OcrPageRecognizeEventsArgs.Duration property

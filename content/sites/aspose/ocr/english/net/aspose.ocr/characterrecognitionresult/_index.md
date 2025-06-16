@@ -3,7 +3,7 @@ title: CharacterRecognitionResult
 second_title: Aspose.OCR for .NET API Reference
 description: Pages with detected characters data.
 type: docs
-weight: 390
+weight: 410
 url: /net/aspose.ocr/characterrecognitionresult/
 ---
 ## CharacterRecognitionResult class
@@ -25,7 +25,6 @@ public class CharacterRecognitionResult
 | Name | Description |
 | --- | --- |
 | [Characters](../../aspose.ocr/characterrecognitionresult/characters) { get; set; } | Data about detected characters on the page. |
-| [ImageIndex](../../aspose.ocr/characterrecognitionresult/imageindex) { get; set; } | Sequence number of the image on the page. |
 | [Page](../../aspose.ocr/characterrecognitionresult/page) { get; set; } | Page number. |
 | [Source](../../aspose.ocr/characterrecognitionresult/source) { get; set; } | The full path to the file or URL, if any. Empty for streams, byte arrays, base64. |
 

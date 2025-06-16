@@ -20,12 +20,9 @@ public class RecognitionResult
 | --- | --- |
 | [FileName](../../aspose.ocr/recognitionresult/filename) { get; set; } | Full path to the file. |
 | [Image](../../aspose.ocr/recognitionresult/image) { get; set; } | Gets or sets image for pdf creation. |
-| [RecognitionAreasRectangles](../../aspose.ocr/recognitionresult/recognitionareasrectangles) { get; } | Gets rectangles coordinates. |
-| [RecognitionAreasText](../../aspose.ocr/recognitionresult/recognitionareastext) { get; } | Gets list recognition results of a list of areas (Rectangles). |
 | [RecognitionCharactersList](../../aspose.ocr/recognitionresult/recognitioncharacterslist) { get; } | A set of characters found by the recognition algorithm and arranged in descending order of probability. |
 | [RecognitionLinesResult](../../aspose.ocr/recognitionresult/recognitionlinesresult) { get; } | Gets a list of recognition results with a list of rows (Rectangles). |
 | [RecognitionText](../../aspose.ocr/recognitionresult/recognitiontext) { get; set; } | Gets recognition result in one string. |
-| [Skew](../../aspose.ocr/recognitionresult/skew) { get; set; } | Gets skew angle. |
 | [Warnings](../../aspose.ocr/recognitionresult/warnings) { get; } | Gets list of the warning messages describing non-critical faults appeared during generation. |
 
 ## Methods
@@ -37,16 +34,18 @@ public class RecognitionResult
 | [GetSpellCheckCorrectedText](../../aspose.ocr/recognitionresult/getspellcheckcorrectedtext)(SpellCheckLanguage, string) | Corrects text (replaces misspelled words). |
 | [GetSpellCheckErrorList](../../aspose.ocr/recognitionresult/getspellcheckerrorlist)(SpellCheckLanguage, string) | Find the misspelled words with suggested spellings for a given input text. |
 | [GetXml](../../aspose.ocr/recognitionresult/getxml)() | Form XML string with recognition results. |
-| [Save](../../aspose.ocr/recognitionresult/save#save_1)(MemoryStream, SaveFormat, string, PdfOptimizationMode) | Saves the document as the plain text, PDF or Microsoft Word Document. |
-| [Save](../../aspose.ocr/recognitionresult/save#save_3)(string, SaveFormat, string, PdfOptimizationMode) | Saves the document as the plain text, PDF or Microsoft Word Document. |
-| [Save](../../aspose.ocr/recognitionresult/save#save)(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string, string, PdfOptimizationMode) | Saves the document as the plain text, PDF or Microsoft Word Document. |
-| [Save](../../aspose.ocr/recognitionresult/save#save_2)(string, SaveFormat, bool, SpellCheckLanguage, string, string, PdfOptimizationMode) | Saves the document as the plain text, PDF or Microsoft Word Document. |
+| [Save](../../aspose.ocr/recognitionresult/save#save)(Stream, SaveFormat, PdfOptimizationMode) | Saves the document as the plain text, PDF or Microsoft Word Document. |
+| [Save](../../aspose.ocr/recognitionresult/save#save_2)(string, SaveFormat, PdfOptimizationMode) | Saves the document as the plain text, PDF or Microsoft Word Document. |
+| [Save](../../aspose.ocr/recognitionresult/save#save_4)(string, SaveFormat, string, PdfOptimizationMode) | Saves the document as the plain text, PDF or Microsoft Word Document. |
+| [Save](../../aspose.ocr/recognitionresult/save#save_1)(Stream, SaveFormat, bool, SpellCheckLanguage, string) | Saves the document as the plain text, PDF or Microsoft Word Document. |
+| [Save](../../aspose.ocr/recognitionresult/save#save_3)(string, SaveFormat, bool, SpellCheckLanguage, string, string, PdfOptimizationMode) | Saves the document as the plain text, PDF or Microsoft Word Document. |
 | [operator +](../../aspose.ocr/recognitionresult/op_addition) | To complete the full result from recognized fragments (lines). |
 
 ## Other Members
 
 | Name | Description |
 | --- | --- |
+| class [Keyword](recognitionresult.keyword) | KeyValuePair for passport keyword. |
 | class [LinesResult](recognitionresult.linesresult) | Recognized text from row with row coordinates. |
 
 ### See Also

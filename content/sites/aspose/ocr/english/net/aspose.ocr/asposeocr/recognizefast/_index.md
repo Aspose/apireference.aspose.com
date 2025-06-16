@@ -3,7 +3,7 @@ title: RecognizeFast
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on images / documents. Supports GIF PNG JPEG BMP TIFF JFIF stream directory arrays archives.
 type: docs
-weight: 160
+weight: 150
 url: /net/aspose.ocr/asposeocr/recognizefast/
 ---
 ## AsposeOcr.RecognizeFast method

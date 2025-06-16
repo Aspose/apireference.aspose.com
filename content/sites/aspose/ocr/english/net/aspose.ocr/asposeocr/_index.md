@@ -30,7 +30,6 @@ public class AsposeOcr : IDisposable
 | [DetectDefects](../../aspose.ocr/asposeocr/detectdefects)(OcrInput, DefectType) | Automatically find problematic areas of an image that can significantly impact the accuracy of OCR. Supports PNG, JPEG, BMP, TIFF, JFIF, and GIF images provided as a file, stream, or pixel array. Supports bulk recognition. |
 | [DetectDocumentLayout](../../aspose.ocr/asposeocr/detectdocumentlayout)(OcrInput) | Analyzes the image and identifies the different types of content areas within it. Supports PNG, JPEG, BMP, TIFF, JFIF, and GIF images from files, streams, and pixel arrays. Can bulk process folders and archives. |
 | [DetectLanguages](../../aspose.ocr/asposeocr/detectlanguages)(OcrInput) | Analyzes the text on the image to determine the languages it is written in. This allows to select the most suitable recognition language and helps in further text processing tasks such as spellchecking or translation. |
-| [DetectRectangles](../../aspose.ocr/asposeocr/detectrectangles#detectrectangles_1)(OcrInput, AreasType, bool) | Detects text areas on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives. |
 | [Dispose](../../aspose.ocr/asposeocr/dispose)() | Clear resources for recognition. |
 | [ImageHasText](../../aspose.ocr/asposeocr/imagehastext#imagehastext_1)(string, Regex, RecognitionSettings, bool) | Check if the image text matches the provided regular expression. |
 | [ImageHasText](../../aspose.ocr/asposeocr/imagehastext#imagehastext)(string, string, RecognitionSettings, bool, bool) | Check if the image contains the provided text fragment. |
@@ -54,10 +53,29 @@ public class AsposeOcr : IDisposable
 | [RecognizePassport](../../aspose.ocr/asposeocr/recognizepassport#recognizepassport_1)(OcrInput, PassportRecognitionSettings) | Recognizes text on passport. |
 | [RecognizeReceipt](../../aspose.ocr/asposeocr/recognizereceipt#recognizereceipt)(OcrInput) | Recognizes text on receipts. |
 | [RecognizeReceipt](../../aspose.ocr/asposeocr/recognizereceipt#recognizereceipt_1)(OcrInput, ReceiptRecognitionSettings) | Recognizes text on receipts. |
-| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_1)(MemoryStream, SaveFormat, List&lt;RecognitionResult&gt;, string, PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects |
-| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_3)(string, SaveFormat, List&lt;RecognitionResult&gt;, string, PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects |
-| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument)(MemoryStream, SaveFormat, List&lt;RecognitionResult&gt;, bool, SpellCheckLanguage, string, string, PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects |
-| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_2)(string, SaveFormat, List&lt;RecognitionResult&gt;, bool, SpellCheckLanguage, string, string, PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects |
+| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument)(Stream, SaveFormat, List&lt;RecognitionResult&gt;) | Allows to get multipage document from list of RecognitionResult objects |
+| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_6)(string, SaveFormat, List&lt;RecognitionResult&gt;) | Allows to get multipage document from list of RecognitionResult objects |
+| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_1)(Stream, SaveFormat, List&lt;RecognitionResult&gt;, PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects |
+| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_4)(Stream, SaveFormat, List&lt;RecognitionResult&gt;, string) | Allows to get multipage document from list of RecognitionResult objects |
+| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_7)(string, SaveFormat, List&lt;RecognitionResult&gt;, PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects |
+| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_5)(Stream, SaveFormat, List&lt;RecognitionResult&gt;, string, PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects |
+| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_9)(string, SaveFormat, List&lt;RecognitionResult&gt;, string, PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects |
+| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_2)(Stream, SaveFormat, List&lt;RecognitionResult&gt;, bool, SpellCheckLanguage, string, string) | Allows to get multipage document from list of RecognitionResult objects |
+| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_3)(Stream, SaveFormat, List&lt;RecognitionResult&gt;, bool, SpellCheckLanguage, string, string, PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects |
+| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_8)(string, SaveFormat, List&lt;RecognitionResult&gt;, bool, SpellCheckLanguage, string, string, PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| static [DebugMode](../../aspose.ocr/asposeocr/debugmode) | Enables debug mode. When enabled, the system saves intermediate image processing results such as preprocessed images and images with drawn text-line rectangles. |
+| static [DebugModeSaveDirectory](../../aspose.ocr/asposeocr/debugmodesavedirectory) | Directory where debug results will be saved. If not set, the current working directory will be used by default. |
+
+## Events
+
+| Name | Description |
+| --- | --- |
+| event [OcrProgress](../../aspose.ocr/asposeocr/ocrprogress) | An event to track the progress of multi-page image recognition. |
 
 ### See Also
 

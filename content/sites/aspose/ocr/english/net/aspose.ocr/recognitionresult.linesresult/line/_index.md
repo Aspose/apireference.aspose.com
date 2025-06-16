@@ -3,7 +3,7 @@ title: Line
 second_title: Aspose.OCR for .NET API Reference
 description: Row coordinates.
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.ocr/recognitionresult.linesresult/line/
 ---
 ## RecognitionResult.LinesResult.Line property
@@ -16,6 +16,7 @@ public Rectangle Line { get; set; }
 
 ### See Also
 
+* struct [Rectangle](../../rectangle)
 * class [LinesResult](../../recognitionresult.linesresult)
 * namespace [Aspose.OCR](../../recognitionresult.linesresult)
 * assembly [Aspose.OCR](../../../)
