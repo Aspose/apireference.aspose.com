@@ -16,6 +16,11 @@ The AsposeOcr type exposes the following members:
 | Name | Description |
 | :- | :- |
 |AsposeOcr()|Initializes a new instance of the [AsposeOcr](/ocr/python-net/aspose.ocr/asposeocr/) class.<br/>            Empty constructor.|
+## Properties
+| Name | Description |
+| :- | :- |
+|set_debug_mode|  |
+|set_debug_mode_save_directory|  |
 ## Methods
 | Name | Description |
 | :- | :- |
