@@ -3,7 +3,7 @@ title: PassportRecognitionSettings
 second_title: Aspose.OCR for Java API Reference
 description: Settings for the Passport recognition Contains elements that allow customizing the recognition process
 type: docs
-weight: 26
+weight: 23
 url: /java/com.aspose.ocr/passportrecognitionsettings/
 ---
 
@@ -23,15 +23,15 @@ Settings for the Passport recognition Contains elements that allow customizing t
 
 | Method | Description |
 | --- | --- |
-| [setAllowedCharacters(CharactersAllowedType allowedCharacters)](#setAllowedCharacters-com.aspose.ocr.CharactersAllowedType) | Allowed characters set. |
+| [setAllowedCharacters(CharactersAllowedType allowedCharacters)](#setAllowedCharacters-com.aspose.ocr.models.CharactersAllowedType) | Allowed characters set. |
 | [setAllowedCharacters(String allowedCharacters)](#setAllowedCharacters-java.lang.String) | Allowed characters set. |
 | [setAutomaticColorInversion(boolean automaticColorInversion)](#setAutomaticColorInversion-boolean) | Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them. |
-| [setCountry(Country country)](#setCountry-com.aspose.ocr.Country) | Set the template for passport recognition and to extract the keywords. |
+| [setCountry(Country country)](#setCountry-com.aspose.ocr.models.Country) | Set the template for passport recognition and to extract the keywords. |
 | [setIgnoredCharacters(String characters)](#setIgnoredCharacters-java.lang.String) | Sets blacklist for recognition symbols. |
-| [setLanguage(Language language)](#setLanguage-com.aspose.ocr.Language) |  |
+| [setLanguage(Language language)](#setLanguage-com.aspose.ocr.models.Language) |  |
+| [setLanguageDetectionLevel(LanguageDetectionLevel languageDetectionLevel)](#setLanguageDetectionLevel-com.aspose.ocr.models.LanguageDetectionLevel) | Specifies the level of language detection for text recognition. |
 | [setThreadsCount(int threadsCount)](#setThreadsCount-int) | Gets or sets the number of threads for processing. |
 | [setUpscaleSmallFont(boolean upscaleSmallFont)](#setUpscaleSmallFont-boolean) | Allows you to use additional algorithms specifically for small font recognition. |
-
 ### PassportRecognitionSettings() {#PassportRecognitionSettings}
 ```
 public PassportRecognitionSettings()
@@ -41,8 +41,7 @@ public PassportRecognitionSettings()
 
 
 
-
-### setAllowedCharacters(CharactersAllowedType allowedCharacters) {#setAllowedCharacters-com.aspose.ocr.CharactersAllowedType}
+### setAllowedCharacters(CharactersAllowedType allowedCharacters) {#setAllowedCharacters-com.aspose.ocr.models.CharactersAllowedType}
 ```
 public void setAllowedCharacters(CharactersAllowedType allowedCharacters)
 ```
@@ -53,7 +52,7 @@ Allowed characters set. Determines the type of characters allowed for recognitio
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| allowedCharacters | [CharactersAllowedType](../../com.aspose.ocr/charactersallowedtype/) | contains enum @see [CharactersAllowedType](../../com.aspose.ocr/charactersallowedtype/) value. |
+| allowedCharacters | [CharactersAllowedType](../../com.aspose.ocr.models/charactersallowedtype/) | contains enum @see [CharactersAllowedType](../../com.aspose.ocr.models/charactersallowedtype/) value. |
 
 ### setAllowedCharacters(String allowedCharacters) {#setAllowedCharacters-java.lang.String}
 ```
@@ -81,7 +80,7 @@ Detect images with white text on dark/black background and automatically choose 
 | --- | --- | --- |
 | automaticColorInversion | boolean | contains boolean value - a automaticColorInversion is set. |
 
-### setCountry(Country country) {#setCountry-com.aspose.ocr.Country}
+### setCountry(Country country) {#setCountry-com.aspose.ocr.models.Country}
 ```
 public void setCountry(Country country)
 ```
@@ -92,7 +91,7 @@ Set the template for passport recognition and to extract the keywords.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| country | [Country](../../com.aspose.ocr/country/) |  |
+| country | [Country](../../com.aspose.ocr.models/country/) | passport country. |
 
 ### setIgnoredCharacters(String characters) {#setIgnoredCharacters-java.lang.String}
 ```
@@ -107,7 +106,7 @@ Sets blacklist for recognition symbols.
 | --- | --- | --- |
 | characters | java.lang.String | Characters excluded from recognition. |
 
-### setLanguage(Language language) {#setLanguage-com.aspose.ocr.Language}
+### setLanguage(Language language) {#setLanguage-com.aspose.ocr.models.Language}
 ```
 public void setLanguage(Language language)
 ```
@@ -118,7 +117,20 @@ public void setLanguage(Language language)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| language | [Language](../../com.aspose.ocr/language/) | Sets the language used for OCR. Multi-language (none) by default. |
+| language | [Language](../../com.aspose.ocr.models/language/) | Sets the language used for OCR. Multi-language (none) by default. |
+
+### setLanguageDetectionLevel(LanguageDetectionLevel languageDetectionLevel) {#setLanguageDetectionLevel-com.aspose.ocr.models.LanguageDetectionLevel}
+```
+public void setLanguageDetectionLevel(LanguageDetectionLevel languageDetectionLevel)
+```
+
+
+Specifies the level of language detection for text recognition. Works only if the selected language is Language.MULTILANGUAGE, Language.AUTO, or Language.UNIVERSAL. This process is time-consuming and significantly slows down the overall recognition.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| languageDetectionLevel | [LanguageDetectionLevel](../../com.aspose.ocr.models/languagedetectionlevel/) | enum value to set level (Paragraph, Word, Page). |
 
 ### setThreadsCount(int threadsCount) {#setThreadsCount-int}
 ```
@@ -145,4 +157,3 @@ Allows you to use additional algorithms specifically for small font recognition.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | upscaleSmallFont | boolean | contains boolean value - a upscaleSmallFont is set. |
-
