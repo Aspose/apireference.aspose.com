@@ -22,6 +22,12 @@ Main class for recognize text from images.
 | Constructor | Description |
 | --- | --- |
 | [AsposeOCR()](#AsposeOCR) | Public constructor. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [DebugMode](#DebugMode) | Enables debug mode. |
+| [DebugModeSaveDirectory](#DebugModeSaveDirectory) | Directory where debug results will be saved. |
 ## Methods
 
 | Method | Description |
@@ -63,6 +69,7 @@ Main class for recognize text from images.
 | [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String) | Allows to get multipage document from list of RecognitionResult objects. |
 | [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath, PdfOptimizationMode optimizePdf)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.models.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String-com.aspose.ocr.models.PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects. |
 | [close()](#close) |  |
+
 ### AsposeOCR() {#AsposeOCR}
 ```
 public AsposeOCR()
@@ -70,6 +77,22 @@ public AsposeOCR()
 
 
 Public constructor.
+
+### DebugMode {#DebugMode}
+```
+public static boolean DebugMode
+```
+
+
+Enables debug mode. When enabled, the system saves intermediate image processing results such as preprocessed images and images with drawn text-line rectangles.
+
+### DebugModeSaveDirectory {#DebugModeSaveDirectory}
+```
+public static String DebugModeSaveDirectory
+```
+
+
+Directory where debug results will be saved. If not set, the current working directory will be used by default.
 
 ### CalculateSkew(OcrInput input) {#CalculateSkew-com.aspose.ocr.OcrInput}
 ```
@@ -657,5 +680,4 @@ Allows to get multipage document from list of RecognitionResult objects.
 ```
 public void close()
 ```
-
 

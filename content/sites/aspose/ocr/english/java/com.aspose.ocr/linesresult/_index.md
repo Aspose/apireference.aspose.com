@@ -16,6 +16,7 @@ public class RecognitionResult.LinesResult
 
 | Field | Description |
 | --- | --- |
+| [confidence](#confidence) | The confidence score assigned to the recognized text line, represented as a floating-point value between 0.0 and 1.0. |
 | [line](#line) |  |
 | [textInLine](#textInLine) |  |
 ## Methods
@@ -31,6 +32,18 @@ public class RecognitionResult.LinesResult
 | [wait()](#wait) |  |
 | [wait(long arg0)](#wait-long) |  |
 | [wait(long arg0, int arg1)](#wait-long-int) |  |
+### confidence {#confidence}
+```
+public double confidence
+```
+
+
+The confidence score assigned to the recognized text line, represented as a floating-point value between 0.0 and 1.0. A score of 1.0 indicates the highest level of recognition certainty.
+
+This value is always set to 0 when using a temporary license. Confidence is only calculated for the following languages: Chinese language group, Arabic, Hindi, European, Korean, Japanese, Telugu, Tamil, and Kannada.
+
+Confidence is not calculated for ExtLatin or languages that contain diacritical marks.
+
 ### line {#line}
 ```
 public Rectangle line
