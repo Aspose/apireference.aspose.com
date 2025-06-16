@@ -3,7 +3,7 @@ title: FileName
 second_title: Aspose.OCR for .NET API Reference
 description: Processed file name.
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.ocr.models.events/ocrpagerecognizeeventsargs/filename/
 ---
 ## OcrPageRecognizeEventsArgs.FileName property

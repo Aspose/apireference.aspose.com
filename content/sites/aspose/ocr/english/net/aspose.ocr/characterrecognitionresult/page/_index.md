@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.OCR for .NET API Reference
 description: Page number.
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.ocr/characterrecognitionresult/page/
 ---
 ## CharacterRecognitionResult.Page property

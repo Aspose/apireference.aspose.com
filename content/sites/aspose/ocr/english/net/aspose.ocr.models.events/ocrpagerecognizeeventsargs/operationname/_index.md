@@ -3,7 +3,7 @@ title: OperationName
 second_title: Aspose.OCR for .NET API Reference
 description: The name of the transaction in progress.
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.ocr.models.events/ocrpagerecognizeeventsargs/operationname/
 ---
 ## OcrPageRecognizeEventsArgs.OperationName property

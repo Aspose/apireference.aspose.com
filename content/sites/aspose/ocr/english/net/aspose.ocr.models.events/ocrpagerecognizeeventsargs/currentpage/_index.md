@@ -3,7 +3,7 @@ title: CurrentPage
 second_title: Aspose.OCR for .NET API Reference
 description: The page that started to be recognized.
 type: docs
-weight: 20
+weight: 10
 url: /net/aspose.ocr.models.events/ocrpagerecognizeeventsargs/currentpage/
 ---
 ## OcrPageRecognizeEventsArgs.CurrentPage property
