@@ -4,7 +4,7 @@ linktitle: SetPageDevice
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::SetPageDevice method. Sets page device parameters (see operator "setpagedevice" PostScript spesification). Among these can be page size and color etc in C++.'
 type: docs
-weight: 4600
+weight: 4700
 url: /cpp/aspose.page.eps/psdocument/setpagedevice/
 ---
 ## PsDocument::SetPageDevice method

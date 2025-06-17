@@ -4,7 +4,7 @@ linktitle: DrawPolygon
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::DrawPolygon method. Draws a poligone in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/aspose.page.eps/psdocument/drawpolygon/
 ---
 ## PsDocument::DrawPolygon(System::ArrayPtr\<double\>, System::ArrayPtr\<double\>, int32_t) method

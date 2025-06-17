@@ -4,7 +4,7 @@ linktitle: DrawPolyline
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::DrawPolyline method. Draws a polyline in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/aspose.page.eps/psdocument/drawpolyline/
 ---
 ## PsDocument::DrawPolyline(System::ArrayPtr\<double\>, System::ArrayPtr\<double\>, int32_t) method

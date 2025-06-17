@@ -4,7 +4,7 @@ linktitle: FillText
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::FillText method. Adds a text string by filling interrior of glyphs in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/aspose.page.eps/psdocument/filltext/
 ---
 ## PsDocument::FillText(System::String, System::ArrayPtr\<float\>, System::SharedPtr\<Aspose::Page::Font::DrFont\>, float, float) method

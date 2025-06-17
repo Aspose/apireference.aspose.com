@@ -4,7 +4,7 @@ linktitle: DrawRoundRect
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::DrawRoundRect method. Draws a round rectangle in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/aspose.page.eps/psdocument/drawroundrect/
 ---
 ## PsDocument::DrawRoundRect method

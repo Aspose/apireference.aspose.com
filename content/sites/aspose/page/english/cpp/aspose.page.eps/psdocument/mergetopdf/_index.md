@@ -4,7 +4,7 @@ linktitle: MergeToPdf
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::MergeToPdf method. Merges PS/EPS files to a device in C++.'
 type: docs
-weight: 3600
+weight: 3700
 url: /cpp/aspose.page.eps/psdocument/mergetopdf/
 ---
 ## PsDocument::MergeToPdf(System::SharedPtr\<System::IO::Stream\>, System::ArrayPtr\<System::String\>, System::SharedPtr\<SaveOptions\>) method

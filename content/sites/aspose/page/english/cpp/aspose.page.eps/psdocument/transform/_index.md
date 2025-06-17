@@ -4,7 +4,7 @@ linktitle: Transform
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::Transform method. Adds transformation to current graphics state (concatenates this matrix with current one) in C++.'
 type: docs
-weight: 5200
+weight: 5300
 url: /cpp/aspose.page.eps/psdocument/transform/
 ---
 ## PsDocument::Transform method

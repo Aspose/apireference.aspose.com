@@ -4,7 +4,7 @@ linktitle: Save
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::Save method. Saves given PsDocument as EPS file. This method is used only when PsDocument was created from scratch in C++.'
 type: docs
-weight: 4100
+weight: 4200
 url: /cpp/aspose.page.eps/psdocument/save/
 ---
 ## PsDocument::Save() method

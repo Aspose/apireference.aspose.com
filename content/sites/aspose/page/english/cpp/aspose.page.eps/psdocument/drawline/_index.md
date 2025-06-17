@@ -4,7 +4,7 @@ linktitle: DrawLine
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::DrawLine method. Draws a line segment in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/aspose.page.eps/psdocument/drawline/
 ---
 ## PsDocument::DrawLine method

@@ -4,7 +4,7 @@ linktitle: Draw
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::Draw method. Draw an arbitrary path in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/aspose.page.eps/psdocument/draw/
 ---
 ## PsDocument::Draw method
