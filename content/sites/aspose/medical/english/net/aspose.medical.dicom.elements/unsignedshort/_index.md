@@ -3,7 +3,7 @@ title: UnsignedShort
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Unsigned Short US VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextUS-Unsigned20Short-Unsigned20binary20integer.
 type: docs
-weight: 570
+weight: 1120
 url: /net/aspose.medical.dicom.elements/unsignedshort/
 ---
 

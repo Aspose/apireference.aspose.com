@@ -3,7 +3,7 @@ title: IntegerString
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Integer String IS VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextIS-Integer20String-A20string20of.
 type: docs
-weight: 270
+weight: 820
 url: /net/aspose.medical.dicom.elements/integerstring/
 ---
 

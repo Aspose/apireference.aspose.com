@@ -3,7 +3,7 @@ title: OverlayData
 second_title: Aspose.Medical for .NET API Reference
 description: DICOM image overlay. An Overlay Plane describes graphics or bit-mapped text that is associated with an Image. It may also describe a Region of Interest in an Image. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.9.2.html for details.
 type: docs
-weight: 640
+weight: 630
 url: /net/aspose.medical.dicom.imaging.overlays/overlaydata/
 ---
 

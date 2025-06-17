@@ -3,7 +3,7 @@ title: TextElement
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates basic functionality for VR types that depend on text encodings.
 type: docs
-weight: 490
+weight: 1040
 url: /net/aspose.medical.dicom.elements/textelement/
 ---
 

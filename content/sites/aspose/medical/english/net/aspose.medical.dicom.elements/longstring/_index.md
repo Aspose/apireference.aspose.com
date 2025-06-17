@@ -3,7 +3,7 @@ title: LongString
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Long String LO VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextLO-Long20String-A20character20string.
 type: docs
-weight: 280
+weight: 830
 url: /net/aspose.medical.dicom.elements/longstring/
 ---
 

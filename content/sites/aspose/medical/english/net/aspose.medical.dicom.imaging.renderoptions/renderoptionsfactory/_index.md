@@ -3,7 +3,7 @@ title: RenderOptionsFactory
 second_title: Aspose.Medical for .NET API Reference
 description: Provides functionality to create GrayscaleRenderOptions./grayscalerenderoptions that controls image rendering process.
 type: docs
-weight: 730
+weight: 620
 url: /net/aspose.medical.dicom.imaging.renderoptions/renderoptionsfactory/
 ---
 

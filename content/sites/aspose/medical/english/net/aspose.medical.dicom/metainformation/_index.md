@@ -3,7 +3,7 @@ title: MetaInformation
 second_title: Aspose.Medical for .NET API Reference
 description: Representation of the file meta information in a DICOM file. https//dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.htmltable_7.1-1https//dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.htmltable_7.1-1.
 type: docs
-weight: 910
+weight: 110
 url: /net/aspose.medical.dicom/metainformation/
 ---
 

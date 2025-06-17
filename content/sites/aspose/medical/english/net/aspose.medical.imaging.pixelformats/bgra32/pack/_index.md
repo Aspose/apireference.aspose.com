@@ -13,7 +13,7 @@ Packs the given numeric pixel value into [`Bgra32`](../../bgra32) pixel.
 
 ```csharp
 public void Pack<T>(T value)
-    where T : struct, IBinaryInteger<T>, IBinaryInteger<T>
+    where T : struct, IBinaryInteger<T>
 ```
 
 | Parameter | Description |

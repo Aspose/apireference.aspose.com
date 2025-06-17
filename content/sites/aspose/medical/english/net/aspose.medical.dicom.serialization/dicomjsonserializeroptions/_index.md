@@ -1,15 +1,15 @@
 ---
 title: DicomJsonSerializerOptions
 second_title: Aspose.Medical for .NET API Reference
-description: Provides options that controls serialization/deserialization process of DICOM objects.
+description: Provides options that controls serialization/deserialization JSON process of DICOM objects.
 type: docs
-weight: 960
+weight: 310
 url: /net/aspose.medical.dicom.serialization/dicomjsonserializeroptions/
 ---
 
 ## DicomJsonSerializerOptions record
 
-Provides options that controls serialization/deserialization process of DICOM objects.
+Provides options that controls serialization/deserialization (JSON) process of DICOM objects.
 
 ```csharp
 public record DicomJsonSerializerOptions
