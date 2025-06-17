@@ -3,7 +3,7 @@ title: ValueElementT
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates basic functionality for non text VR types VR types that use .NET structures as underlying value type and Attribute Tag VR.
 type: docs
-weight: 590
+weight: 1140
 url: /net/aspose.medical.dicom.elements/valueelement-1/
 ---
 

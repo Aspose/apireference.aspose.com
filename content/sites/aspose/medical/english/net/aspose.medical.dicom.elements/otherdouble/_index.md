@@ -3,7 +3,7 @@ title: OtherDouble
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Other Double OD VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextOD-Other20Double-A20stream20of.
 type: docs
-weight: 350
+weight: 900
 url: /net/aspose.medical.dicom.elements/otherdouble/
 ---
 

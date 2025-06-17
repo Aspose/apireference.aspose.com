@@ -3,7 +3,7 @@ title: TagMetadata
 second_title: Aspose.Medical for .NET API Reference
 description: Tag./tag metainformation such as Value Multiplicity default Value Representation description etc.
 type: docs
-weight: 1040
+weight: 260
 url: /net/aspose.medical.dicom.tags/tagmetadata/
 ---
 

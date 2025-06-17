@@ -3,7 +3,7 @@ title: DatasetEqualityComparer
 second_title: Aspose.Medical for .NET API Reference
 description: Represents a Dataset../aspose.medical.dicom/dataset comparison operation. Two datasets considered to be equal if 1 they have the same number of data elements 2 for each position index data elements must be equal. Two data elements considered to be equal if 1 they have the same Tag../aspose.medical.dicom.elements/ielement/tag 2 they have the same ValueRepresentation../aspose.medical.dicom.elements/ielement/valuerepresentation 3 elements data are the same for both elements.
 type: docs
-weight: 60
+weight: 1150
 url: /net/aspose.medical.dicom.comparators/datasetequalitycomparer/
 ---
 

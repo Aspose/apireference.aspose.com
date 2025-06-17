@@ -3,7 +3,7 @@ title: BitDepth
 second_title: Aspose.Medical for .NET API Reference
 description: Provides Bit depth information for image rendering process from a DICOM Dataset.
 type: docs
-weight: 710
+weight: 600
 url: /net/aspose.medical.dicom.imaging.renderoptions/bitdepth/
 ---
 

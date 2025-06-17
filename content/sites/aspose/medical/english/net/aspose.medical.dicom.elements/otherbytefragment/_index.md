@@ -3,7 +3,7 @@ title: OtherByteFragment
 second_title: Aspose.Medical for .NET API Reference
 description: Represents a fragment sequence of Other Byte OB items. Intended for handling OB fragments of encapsulated compressed pixel data.
 type: docs
-weight: 340
+weight: 890
 url: /net/aspose.medical.dicom.elements/otherbytefragment/
 ---
 

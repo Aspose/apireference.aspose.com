@@ -7,18 +7,20 @@ weight: 20
 url: /net/aspose.medical.dicom/dicomfile/open/
 ---
 
-## Open(Stream, Encoding?) {#open}
+## Open(Stream, Encoding?, ITagDataReadingStrategy?) {#open}
 
 Reads the specified DICOM file and returns the [`DicomFile`](../../dicomfile).
 
 ```csharp
-public static DicomFile Open(Stream stream, Encoding? fallbackEncoding = null)
+public static DicomFile Open(Stream stream, Encoding? fallbackEncoding = null, 
+    ITagDataReadingStrategy? strategy = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | The stream with DICOM file data. |
 | fallbackEncoding | Encoding | Encoding to use if encoding cannot be obtained from DICOM file. |
+| strategy | ITagDataReadingStrategy | The options controlling how DICOM tag data is accessed from a dataset, including strategies for immediate loading, deferred (on-demand) loading, or selective reading of large-value elements. |
 
 ### Return Value
 
@@ -32,24 +34,27 @@ The [`DicomFile`](../../dicomfile) instance.
 
 ### See Also
 
+* interface [ITagDataReadingStrategy](../../../aspose.medical.dicom.readers/itagdatareadingstrategy)
 * class [DicomFile](../../dicomfile)
 * namespace [Aspose.Medical.Dicom](../../dicomfile)
 * assembly [Aspose.Medical](../../../)
 
 ---
 
-## Open(string, Encoding?) {#open_1}
+## Open(string, Encoding?, ITagDataReadingStrategy?) {#open_1}
 
 Reads the specified DICOM file and returns the [`DicomFile`](../../dicomfile).
 
 ```csharp
-public static DicomFile Open(string file, Encoding? fallbackEncoding = null)
+public static DicomFile Open(string file, Encoding? fallbackEncoding = null, 
+    ITagDataReadingStrategy? strategy = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | file | String | The file name of the DICOM file. |
 | fallbackEncoding | Encoding | Encoding to use if encoding cannot be obtained from DICOM file. |
+| strategy | ITagDataReadingStrategy | The options controlling how DICOM tag data is accessed from a dataset, including strategies for immediate loading, deferred (on-demand) loading, or selective reading of large-value elements. |
 
 ### Return Value
 
@@ -65,6 +70,7 @@ The [`DicomFile`](../../dicomfile) instance.
 
 ### See Also
 
+* interface [ITagDataReadingStrategy](../../../aspose.medical.dicom.readers/itagdatareadingstrategy)
 * class [DicomFile](../../dicomfile)
 * namespace [Aspose.Medical.Dicom](../../dicomfile)
 * assembly [Aspose.Medical](../../../)

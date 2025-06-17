@@ -3,7 +3,7 @@ title: Age.Unit
 second_title: Aspose.Medical for .NET API Reference
 description: Age measurement units. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmlhttps//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.html Table 6.2-1 Age String.
 type: docs
-weight: 130
+weight: 1240
 url: /net/aspose.medical.dicom.elements/age.unit/
 ---
 

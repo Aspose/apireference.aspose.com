@@ -3,7 +3,7 @@ title: IPixelTSelf
 second_title: Aspose.Medical for .NET API Reference
 description: Represents a generic pixel type.
 type: docs
-weight: 1160
+weight: 50
 url: /net/aspose.medical.imaging.pixelformats/ipixel-1/
 ---
 
@@ -13,7 +13,7 @@ Represents a generic pixel type.
 
 ```csharp
 public interface IPixel<TSelf> : IEquatable<TSelf>
-    where TSelf : struct, IPixel, IPixel
+    where TSelf : struct, IPixel
 ```
 
 | Parameter | Description |

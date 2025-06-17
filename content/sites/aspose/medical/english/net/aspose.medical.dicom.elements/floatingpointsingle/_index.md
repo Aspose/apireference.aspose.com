@@ -3,7 +3,7 @@ title: FloatingPointSingle
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Floating Point Single FL VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextFL-Floating20Point20Single-Single20precision20binary.c
 type: docs
-weight: 240
+weight: 790
 url: /net/aspose.medical.dicom.elements/floatingpointsingle/
 ---
 

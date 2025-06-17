@@ -3,7 +3,7 @@ title: VoiLinearExactLookupTable
 second_title: Aspose.Medical for .NET API Reference
 description: VOI Look-Up table with Linear exact transformation function without offset from center. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.11.2.html.
 type: docs
-weight: 850
+weight: 490
 url: /net/aspose.medical.dicom.lookuptables/voilinearexactlookuptable/
 ---
 

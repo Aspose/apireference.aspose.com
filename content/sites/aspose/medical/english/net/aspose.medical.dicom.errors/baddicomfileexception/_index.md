@@ -3,7 +3,7 @@ title: BadDicomFileException
 second_title: Aspose.Medical for .NET API Reference
 description: Indicates that a DICOM file has incorrect structure or not a valid DICOM file at all.
 type: docs
-weight: 600
+weight: 670
 url: /net/aspose.medical.dicom.errors/baddicomfileexception/
 ---
 
