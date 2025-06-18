@@ -41,7 +41,11 @@ JSON object
   var fGetXmpMetadata = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      const json = AsposeXMPAddNamedValue(event.target.result, e.target.files[0].name, e.target.files[0].name + "_out.eps");
+      const namedValues = [
+        ["xmpTPg:MaxPageSize", [["stDim:newKey", "NewValue"],["stDim:newKey2", "NewValue2"]] ],
+        ["xmpTPg:SwatchGroups", [["xmpG:newKey", "NewValue"]] ]
+      ];
+      const json = AsposeXMPAddNamedValue(event.target.result, e.target.files[0].name, e.target.files[0].name + "_out.eps", namedValues);
       if (json.errorCode == 0) {
           document.getElementById('output').textContent = json.XMP;
           DownloadFile(json.fileNameResult, "image/eps");
@@ -67,8 +71,11 @@ JSON object
   const fPsAsPdf = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      /*Convert a Postscript to PNG and save - Ask Web Worker*/
-      AsposePageWebWorker.postMessage({ "operation": 'AsposeXMPAddNamedValue', "params": [event.target.result, e.target.files[0].name,e.target.files[0].name + "_out.eps"] }, [event.target.result]);
+      const namedValues = [
+        ["xmpTPg:MaxPageSize", [["stDim:newKey", "NewValue"],["stDim:newKey2", "NewValue2"]] ],
+        ["xmpTPg:SwatchGroups", [["xmpG:newKey", "NewValue"]] ]
+      ];
+      AsposePageWebWorker.postMessage({ "operation": 'AsposeXMPAddNamedValue', "params": [event.target.result, e.target.files[0].name, e.target.files[0].name + "_out.eps", namedValues] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
   };

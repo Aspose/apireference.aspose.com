@@ -64,7 +64,7 @@ JSON object
   const fPsAsPdf = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      /*Convert a Postscript to PNG and save - Ask Web Worker*/
+      /*Merge a Postscript to PDF - Ask Web Worker*/
       AsposePageWebWorker.postMessage({ "operation": 'AsposePSMergeToPdf', "params": [event.target.result, e.target.files[0].name, true] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);

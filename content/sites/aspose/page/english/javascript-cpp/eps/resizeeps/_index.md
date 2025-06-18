@@ -70,7 +70,7 @@ JSON object
   const fResizeEps = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      AsposePageWebWorker.postMessage({ "operation": 'AsposeResizeEps', "params": [event.target.result, e.target.files[0].name, e.target.files[0].name + "_resized.eps", 200, 100, 'Module.Units.Points'] }, [event.target.result]);
+      AsposePageWebWorker.postMessage({ "operation": 'AsposeResizeEPS', "params": [event.target.result, e.target.files[0].name, e.target.files[0].name + "_resized.eps", 200, 100, 'Module.Units.Points'] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
   };

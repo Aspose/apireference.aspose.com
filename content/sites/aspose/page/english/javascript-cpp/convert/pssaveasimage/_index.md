@@ -68,7 +68,7 @@ JSON object
     const file_reader = new FileReader();
     file_reader.onload = event => {
       /*Convert a Postscript to PNG and save - Ask Web Worker*/
-      AsposePageWebWorker.postMessage({ "operation": 'PSSaveAsImage', "params": [event.target.result, e.target.files[0].name, 'Module.ImageFormat.Png'] }, [event.target.result]);
+      AsposePageWebWorker.postMessage({ "operation": 'AsposePSSaveAsImage', "params": [event.target.result, e.target.files[0].name, 'Module.ImageFormat.Png'] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
   };
