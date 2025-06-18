@@ -44,7 +44,6 @@ console.log("Aspose.Page for Node.js via C++ examples.");
 
 AsposePage().then(AsposePageModule => {
 
-    //PSMergeToPdf - convert to postscript to image
     const json = AsposePageModule.AsposePSMergeToPdf(ps_files,"PsMergedToPdfResult.pdf",true);
     console.log("PSMergeToPdf => %O",  json.errorCode == 0 ? json.fileNameResult : json.errorText);
 },

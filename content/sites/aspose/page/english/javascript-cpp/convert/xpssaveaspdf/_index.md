@@ -39,7 +39,7 @@ JSON object
   var fXpsAsPdf = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      const json = XPSSaveAsImage(event.target.result, e.target.files[0].name, true);
+      const json = XPSSaveAsPdf(event.target.result, e.target.files[0].name, true);
       if (json.errorCode == 0) {
         DownloadFile(json.fileNameResult, "image/pdf");
       }

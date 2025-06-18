@@ -44,7 +44,6 @@ console.log("Aspose.Page for Node.js via C++ examples.");
 
 AsposePage().then(AsposePageModule => {
 
-    //XPSMergeToXps - convert to postscript to image
     const json = AsposePageModule.AsposeXPSMergeToXps(xps_files,"XpsMergedToXpsResult.xps");
     console.log("XPSMergeToXps => %O",  json.errorCode == 0 ? json.fileNameResult : json.errorText);
 

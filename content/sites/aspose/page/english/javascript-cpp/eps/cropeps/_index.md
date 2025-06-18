@@ -72,7 +72,7 @@ JSON object
   const fCropEps = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      AsposePageWebWorker.postMessage({ "operation": 'AsposeCropEps', "params": [event.target.result, e.target.files[0].name, 30, 5, 240, 36] }, [event.target.result]);
+      AsposePageWebWorker.postMessage({ "operation": 'AsposeCropEPS', "params": [event.target.result, e.target.files[0].name, 30, 5, 240, 36] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
   };
