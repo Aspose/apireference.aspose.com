@@ -3,7 +3,7 @@ title: ConfidentialityProfile
 second_title: Aspose.Medical for .NET API Reference
 description: Describes a Confidentiality Profile that controls the anonymization process. It allows for specifying which data should be anonymized and how it should be modified. See https//dicom.nema.org/medical/dicom/current/output/chtml/part15/chapter_E.html.
 type: docs
-weight: 1200
+weight: 30
 url: /net/aspose.medical.dicom.anonymization/confidentialityprofile/
 ---
 

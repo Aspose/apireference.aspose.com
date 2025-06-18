@@ -3,7 +3,7 @@ title: MultiValueTextElement
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates basic functionality for multi-value text VR types doesnt support charset customization.
 type: docs
-weight: 860
+weight: 310
 url: /net/aspose.medical.dicom.elements/multivaluetextelement/
 ---
 

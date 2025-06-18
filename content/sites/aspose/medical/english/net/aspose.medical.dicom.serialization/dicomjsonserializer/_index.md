@@ -3,7 +3,7 @@ title: DicomJsonSerializer
 second_title: Aspose.Medical for .NET API Reference
 description: Provides functionality to serialize DICOM objects to JSON and to deserialize JSON into DICOM objects.
 type: docs
-weight: 300
+weight: 950
 url: /net/aspose.medical.dicom.serialization/dicomjsonserializer/
 ---
 
