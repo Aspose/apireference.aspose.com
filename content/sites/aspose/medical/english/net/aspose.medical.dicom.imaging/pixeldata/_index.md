@@ -3,7 +3,7 @@ title: PixelData
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulated base functionality for reading and writing DICOM images pixel data according to the specified transfer syntax.
 type: docs
-weight: 570
+weight: 680
 url: /net/aspose.medical.dicom.imaging/pixeldata/
 ---
 

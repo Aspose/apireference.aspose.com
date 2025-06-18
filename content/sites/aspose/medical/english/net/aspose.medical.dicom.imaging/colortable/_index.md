@@ -3,7 +3,7 @@ title: ColorTable
 second_title: Aspose.Medical for .NET API Reference
 description: Allows to manage color look-up tables with 256 color items.
 type: docs
-weight: 550
+weight: 620
 url: /net/aspose.medical.dicom.imaging/colortable/
 ---
 
