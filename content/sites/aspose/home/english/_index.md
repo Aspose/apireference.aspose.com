@@ -35,7 +35,7 @@ Create, edit or convert PDF documents in your application. Includes individual p
 {{< blocks/product-item title="Python" href="/pdf/python-net/" class="btn-python" >}}
 {{< blocks/product-item title="Node.JS via C++" href="/pdf/nodejs-cpp/" class="btn-nodejs" >}}
 {{< blocks/product-item title="Go via C++" href="/pdf/go-cpp/" class="btn-c" >}}
-{{< blocks/product-item title="Rust via C++" href="/pdf/rust-cpp/" class="btn-c" >}}
+{{< blocks/product-item title="Rust via C++" href="/pdf/rust-cpp/" class="btn-rust" >}}
 {{< /blocks/product-card >}}
 
 {{< blocks/product-card title="**Aspose.Cells**" href="cells" >}}
