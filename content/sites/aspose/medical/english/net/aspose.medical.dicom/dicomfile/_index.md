@@ -36,8 +36,8 @@ public sealed class DicomFile
 
 | Name | Description |
 | --- | --- |
-| static [Open](../../aspose.medical.dicom/dicomfile/open#open)(Stream, Encoding?) | Reads the specified DICOM file and returns the [`DicomFile`](../dicomfile). |
-| static [Open](../../aspose.medical.dicom/dicomfile/open#open_1)(string, Encoding?) | Reads the specified DICOM file and returns the [`DicomFile`](../dicomfile). |
+| static [Open](../../aspose.medical.dicom/dicomfile/open#open)(Stream, Encoding?, ITagDataReadingStrategy?) | Reads the specified DICOM file and returns the [`DicomFile`](../dicomfile). |
+| static [Open](../../aspose.medical.dicom/dicomfile/open#open_1)(string, Encoding?, ITagDataReadingStrategy?) | Reads the specified DICOM file and returns the [`DicomFile`](../dicomfile). |
 | [RenderImage](../../aspose.medical.dicom/dicomfile/renderimage#renderimage_1)(int) | Renders the DICOM image stored at the given *frameIndex* in `Pixel Data` into [`RawImage`](../../aspose.medical.imaging/rawimage). |
 | [RenderImage](../../aspose.medical.dicom/dicomfile/renderimage#renderimage)(RenderOptions, int) | Renders the DICOM image stored at the given *frameIndex* in `Pixel Data` into [`RawImage`](../../aspose.medical.imaging/rawimage). |
 | [Save](../../aspose.medical.dicom/dicomfile/save#save)(Stream, SaveOptions?) | Saves DICOM file into the given stream. |

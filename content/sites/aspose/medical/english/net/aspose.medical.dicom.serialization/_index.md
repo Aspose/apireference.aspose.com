@@ -3,7 +3,7 @@ title: Aspose.Medical.Dicom.Serialization
 second_title: Aspose.Medical for .NET API Reference
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.medical.dicom.serialization/
 ---
 
@@ -16,7 +16,9 @@ url: /net/aspose.medical.dicom.serialization/
 | [DatasetJsonConverter](./datasetjsonconverter) | Converts [`Dataset`](../aspose.medical.dicom/dataset) to and from JSON using the `System.Text.Json`. |
 | [DicomFileJsonConverter](./dicomfilejsonconverter) | Converts [`DicomFile`](../aspose.medical.dicom/dicomfile) to and from JSON using the `System.Text.Json`. |
 | [DicomJsonSerializer](./dicomjsonserializer) | Provides functionality to serialize DICOM objects to JSON and to deserialize JSON into DICOM objects. |
-| [DicomJsonSerializerOptions](./dicomjsonserializeroptions) | Provides options that controls serialization/deserialization process of DICOM objects. |
+| [DicomJsonSerializerOptions](./dicomjsonserializeroptions) | Provides options that controls serialization/deserialization (JSON) process of DICOM objects. |
+| [DicomXmlSerializer](./dicomxmlserializer) | Provides functionality to serialize DICOM objects to XML and to deserialize XML into DICOM objects. |
+| [DicomXmlSerializerOptions](./dicomxmlserializeroptions) | Provides options that controls serialization/deserialization (XML) process of DICOM objects. |
 ## Interfaces
 
 | Interface | Description |
