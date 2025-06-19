@@ -13,6 +13,12 @@ url: /net/aspose.medical.dicom.elements/decimalstring/decimalstring/
 public DecimalString(Tag tag, Span<decimal> data)
 ```
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| [DicomValidationException](../../../aspose.medical.dicom.valuevalidation/dicomvalidationexception) | The provided data are invalid. |
+
 ### See Also
 
 * class [Tag](../../../aspose.medical.dicom.tags/tag)
@@ -27,6 +33,12 @@ public DecimalString(Tag tag, Span<decimal> data)
 ```csharp
 public DecimalString(Tag tag, Span<string> data)
 ```
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| [DicomValidationException](../../../aspose.medical.dicom.valuevalidation/dicomvalidationexception) | The provided data are invalid. |
 
 ### See Also
 

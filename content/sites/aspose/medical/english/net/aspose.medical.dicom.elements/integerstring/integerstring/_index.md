@@ -13,6 +13,12 @@ url: /net/aspose.medical.dicom.elements/integerstring/integerstring/
 public IntegerString(Tag tag, Span<int> data)
 ```
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| [DicomValidationException](../../../aspose.medical.dicom.valuevalidation/dicomvalidationexception) | The provided data are invalid. |
+
 ### See Also
 
 * class [Tag](../../../aspose.medical.dicom.tags/tag)
@@ -27,6 +33,12 @@ public IntegerString(Tag tag, Span<int> data)
 ```csharp
 public IntegerString(Tag tag, Span<string> data)
 ```
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| [DicomValidationException](../../../aspose.medical.dicom.valuevalidation/dicomvalidationexception) | The provided data are invalid. |
 
 ### See Also
 
