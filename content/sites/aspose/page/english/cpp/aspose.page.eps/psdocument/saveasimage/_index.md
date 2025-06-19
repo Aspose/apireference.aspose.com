@@ -4,7 +4,7 @@ linktitle: SaveAsImage
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::SaveAsImage method. Saves PS/EPS file to images bytes arrays in C++.'
 type: docs
-weight: 4200
+weight: 4300
 url: /cpp/aspose.page.eps/psdocument/saveasimage/
 ---
 ## PsDocument::SaveAsImage method

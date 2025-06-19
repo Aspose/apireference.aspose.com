@@ -4,7 +4,7 @@ linktitle: Shear
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::Shear method. Rotates current graphics state counterclockwise around a point in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument::Shear method

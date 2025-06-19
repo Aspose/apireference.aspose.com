@@ -4,7 +4,7 @@ linktitle: SaveAsPdf
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::SaveAsPdf method. Saves PS/EPS file to PDF stream in C++.'
 type: docs
-weight: 4300
+weight: 4400
 url: /cpp/aspose.page.eps/psdocument/saveaspdf/
 ---
 ## PsDocument::SaveAsPdf(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Device::PdfSaveOptions\>) method

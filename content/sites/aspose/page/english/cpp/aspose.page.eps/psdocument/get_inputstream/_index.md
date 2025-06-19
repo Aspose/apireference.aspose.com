@@ -4,7 +4,7 @@ linktitle: get_InputStream
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::get_InputStream method. Initializes PsDocument with a stream and load options in C++.'
 type: docs
-weight: 3100
+weight: 3200
 url: /cpp/aspose.page.eps/psdocument/get_inputstream/
 ---
 ## PsDocument::get_InputStream method

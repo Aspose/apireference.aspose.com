@@ -26,6 +26,8 @@ class PsDocument : public Aspose::Page::Document
 | [ClipText](./cliptext/)(System::String, System::SharedPtr\<System::Drawing::Font\>, float, float) | Adds clip from an outline of given text in given font. |
 | [ClosePage](./closepage/)() | Complete current page. |
 | [ConvertType1FontToTTF](./converttype1fonttottf/)(System::String, System::String) | Converts Type 1 font to [TrueType](../../aspose.truetype/). The name of the converted TTF font will be the same as input Type 1 font with ".ttf" extension. TTF file will be saved to assigned output directory. |
+| [ConvertType3FontToTTF](./converttype3fonttottf/)(System::String, System::String) | Converts Type 3 font to [TrueType](../../aspose.truetype/). The name of the converted TTF font will be the same as input Type 3 font file with ".ttf" extension. TTF file will be saved to assigned output directory. |
+| [ConvertType3FontToTTF](./converttype3fonttottf/)(System::String, System::SharedPtr\<System::IO::Stream\>) | Converts Type 3 font to [TrueType](../../aspose.truetype/) stream. |
 | [CropEps](./cropeps/)(System::String, System::ArrayPtr\<float\>) | Crops given [PsDocument](./) as [EPS](../) file. It saves initial [EPS](../) file with updated existing %BoundingBox or new one will be created. |
 | [CropEps](./cropeps/)(System::SharedPtr\<System::IO::Stream\>, System::ArrayPtr\<float\>) | Crops given [PsDocument](./) as [EPS](../) file. It saves initial [EPS](../) file with updated existing %BoundingBox or new one will be created. |
 | [Draw](./draw/)(System::SharedPtr\<System::Drawing::Drawing2D::GraphicsPath\>) | Draw an arbitrary path. |

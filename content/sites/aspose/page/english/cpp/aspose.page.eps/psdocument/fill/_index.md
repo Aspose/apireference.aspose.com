@@ -4,7 +4,7 @@ linktitle: Fill
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::Fill method. Fill an arbitrary path in C++.'
 type: docs
-weight: 2300
+weight: 2400
 url: /cpp/aspose.page.eps/psdocument/fill/
 ---
 ## PsDocument::Fill method

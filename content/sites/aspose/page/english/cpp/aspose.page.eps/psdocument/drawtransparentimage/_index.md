@@ -4,7 +4,7 @@ linktitle: DrawTransparentImage
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::DrawTransparentImage method. Draw transformed transparent image. If image doesn''t have Alpha channel it will be drawn as opaque image in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/aspose.page.eps/psdocument/drawtransparentimage/
 ---
 ## PsDocument::DrawTransparentImage method

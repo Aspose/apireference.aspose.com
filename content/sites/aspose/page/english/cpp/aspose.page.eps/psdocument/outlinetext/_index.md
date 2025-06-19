@@ -4,7 +4,7 @@ linktitle: OutlineText
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::OutlineText method. Adds a text string by drawing glyphs contours in C++.'
 type: docs
-weight: 3800
+weight: 3900
 url: /cpp/aspose.page.eps/psdocument/outlinetext/
 ---
 ## PsDocument::OutlineText(System::String, System::ArrayPtr\<float\>, System::SharedPtr\<Aspose::Page::Font::DrFont\>, float, float) method
