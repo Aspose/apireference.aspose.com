@@ -250,6 +250,8 @@ Create or manipulate XPS files and convert XPS, PS & EPS files to PDF and image 
 {{< blocks/product-item title="JAVA" href="/page/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/page/cpp/" class="btn-c" >}}
 {{< blocks/product-item title="Python" href="/page/python-net/" class="btn-python" >}}
+{{< blocks/product-item title="JavaScript via C++" href="/page/python-net/" class="btn-nodejs" >}}
+{{< blocks/product-item title="Node.JS via C++" href="/page/nodejs-cpp/" class="btn-nodejs" >}}
 
 {{< /blocks/product-card >}}
 
@@ -319,6 +321,8 @@ Load, Draw and Save Fonts including TrueType, CFF, OpenType, and Type1, with no 
 {{< blocks/product-item title=".NET" href="/font/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/font/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/font/cpp/" class="btn-c" >}}
+{{< blocks/product-item title="JavaScript via C++" href="/font/python-net/" class="btn-nodejs" >}}
+{{< blocks/product-item title="Node.JS via C++" href="/font/nodejs-cpp/" class="btn-nodejs" >}}
 
 {{% /blocks/product-card %}}
 
