@@ -3,7 +3,7 @@ title: SVGDefsElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGDefsElement class. The SVGDefsElement interface corresponds to the defs element
 type: docs
-weight: 5250
+weight: 5230
 url: /net/aspose.svg/svgdefselement/
 ---
 ## SVGDefsElement class

@@ -3,7 +3,7 @@ title: DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContext
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Device2PageWritingStrategyTGraphicContextTRenderingOptions enum. Specifies types of strategies for writing pages into output streamstreams
 type: docs
-weight: 4850
+weight: 4830
 url: /net/aspose.svg.rendering/device-2.pagewritingstrategy-2/
 ---
 ## Device<TGraphicContext,TRenderingOptions>.PageWritingStrategy<TGraphicContext,TRenderingOptions> enumeration

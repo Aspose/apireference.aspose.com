@@ -3,7 +3,7 @@ title: IConfigurationExtension Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.IConfigurationExtension interface. Represents an extension for configuration allowing the addition and retrieval of key-value pairs
 type: docs
-weight: 4030
+weight: 4010
 url: /net/aspose.svg/iconfigurationextension/
 ---
 ## IConfigurationExtension interface

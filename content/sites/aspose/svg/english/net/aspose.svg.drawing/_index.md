@@ -30,7 +30,6 @@ The **Aspose.Svg.Drawing** namespace contains objects and interfaces to specify 
 
 | Interface | Description |
 | --- | --- |
-| [IBitmap](./ibitmap/) | Represents a bitmap image. |
 | [IBrush](./ibrush/) | Declares method for getting of brush type. |
 | [IColorComponents](./icolorcomponents/) | Declares method and properties for processing color components. |
 | [IDrawingFactory](./idrawingfactory/) | Represents a factory for creating drawing-related objects. |
@@ -55,4 +54,3 @@ The **Aspose.Svg.Drawing** namespace contains objects and interfaces to specify 
 | [WebFontStyle](./webfontstyle/) | Specifies the formatting applied to the text. |
 | [WebImageFormat](./webimageformat/) | Specifies the supported image formats. |
 | [WebMatrixOrder](./webmatrixorder/) | Specifies the order in which matrix transformations are applied. |
-| [WebRotateFlipType](./webrotatefliptype/) | Specifies the rotation and flip operation to apply to an image. |

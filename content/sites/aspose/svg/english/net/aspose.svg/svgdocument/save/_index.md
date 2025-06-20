@@ -194,12 +194,6 @@ public void Save(string path, SVGSaveOptions saveOptions)
 | path | String | Local path to output file. |
 | saveOptions | SVGSaveOptions | SVG save options. |
 
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentException | Raised if the specified `path` is not a valid local file path. |
-
 ### See Also
 
 * class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)

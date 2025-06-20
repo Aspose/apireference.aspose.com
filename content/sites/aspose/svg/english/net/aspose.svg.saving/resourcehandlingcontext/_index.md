@@ -3,7 +3,7 @@ title: ResourceHandlingContext Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Saving.ResourceHandlingContext class. This class contains information used when processing resources
 type: docs
-weight: 5760
+weight: 5740
 url: /net/aspose.svg.saving/resourcehandlingcontext/
 ---
 ## ResourceHandlingContext class

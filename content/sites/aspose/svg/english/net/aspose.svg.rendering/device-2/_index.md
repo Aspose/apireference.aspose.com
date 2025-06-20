@@ -3,7 +3,7 @@ title: DeviceTGraphicContextTRenderingOptions Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Device2TGraphicContextTRenderingOptions class. Represents base class for implementation particular rendering devices
 type: docs
-weight: 4830
+weight: 4810
 url: /net/aspose.svg.rendering/device-2/
 ---
 ## Device<TGraphicContext,TRenderingOptions> class
