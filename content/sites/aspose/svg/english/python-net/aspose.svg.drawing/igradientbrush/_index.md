@@ -3,7 +3,7 @@ title: IGradientBrush class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 80
 url: /python-net/aspose.svg.drawing/igradientbrush/
 is_root: false
 ---

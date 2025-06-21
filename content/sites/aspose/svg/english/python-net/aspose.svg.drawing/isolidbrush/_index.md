@@ -3,7 +3,7 @@ title: ISolidBrush class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 120
 url: /python-net/aspose.svg.drawing/isolidbrush/
 is_root: false
 ---

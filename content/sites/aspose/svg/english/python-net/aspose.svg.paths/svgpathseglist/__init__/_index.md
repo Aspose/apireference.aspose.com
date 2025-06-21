@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#list}
+## __init__ {#System.Collections.Generic.List<SVGPathSeg>}
 
 Constructs a new instance of SVGPathSegList
 
@@ -36,7 +36,7 @@ def __init__(self, enumerable):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| enumerable | list |  |
+| enumerable | System.Collections.Generic.List<SVGPathSeg> |  |
 
 
 

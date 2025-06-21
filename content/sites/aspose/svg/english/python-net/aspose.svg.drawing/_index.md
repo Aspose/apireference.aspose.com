@@ -19,7 +19,6 @@ drawing attribute objects like brushes, colors and fonts.
 | [`Color`](/svg/python-net/aspose.svg.drawing/color) | The Color class lets you specify colors as <br/>Red-Green-Blue (RGB) values,<br/>Hue-Saturation-Luminosity (HSL) values,<br/>Hue-Saturation-Value (HSV) values,<br/>Hue-Whiteness-Blackness (HWB) values,<br/>lightness-A-B (LAB) values,<br/>Luminance-Chroma-Hue (LCH) values,<br/>Cyan-Magenta-Yellow-Key (CMYK) values,<br/>Natural colors (NCOL) values,<br/>or with a color name. <br/>An Alpha channel is also available to indicate transparency. |
 | [`Dimension`](/svg/python-net/aspose.svg.drawing/dimension) | Provides the base class for dimensions. <br/>The general term 'dimension' refers to a number with a unit attached to it, and are denoted by [`UnitType`](/svg/python-net/aspose.svg.drawing/unittype). |
 | [`Frequency`](/svg/python-net/aspose.svg.drawing/frequency) | The 'frequency' unit. |
-| [`IBitmap`](/svg/python-net/aspose.svg.drawing/ibitmap) | Represents a bitmap image. |
 | [`IBrush`](/svg/python-net/aspose.svg.drawing/ibrush) | Declares method for getting of brush type. |
 | [`IColorComponents`](/svg/python-net/aspose.svg.drawing/icolorcomponents) | Declares method and properties for processing color components. |
 | [`IDrawingFactory`](/svg/python-net/aspose.svg.drawing/idrawingfactory) | Represents a factory for creating drawing-related objects. |
@@ -55,6 +54,5 @@ drawing attribute objects like brushes, colors and fonts.
 | [`WebFontStyle`](/svg/python-net/aspose.svg.drawing/webfontstyle) | Specifies the formatting applied to the text. |
 | [`WebImageFormat`](/svg/python-net/aspose.svg.drawing/webimageformat) | Specifies the supported image formats. |
 | [`WebMatrixOrder`](/svg/python-net/aspose.svg.drawing/webmatrixorder) | Specifies the order in which matrix transformations are applied. |
-| [`WebRotateFlipType`](/svg/python-net/aspose.svg.drawing/webrotatefliptype) | Specifies the rotation and flip operation to apply to an image. |
 
 

@@ -3,7 +3,7 @@ title: WebFontStyle enumeration
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 320
 url: /python-net/aspose.svg.drawing/webfontstyle/
 is_root: false
 ---

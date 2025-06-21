@@ -3,7 +3,7 @@ title: ITrueTypeFont class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 150
 url: /python-net/aspose.svg.drawing/itruetypefont/
 is_root: false
 ---
@@ -23,6 +23,7 @@ The ITrueTypeFont type exposes the following members:
 | [sub_family_name](/svg/python-net/aspose.svg.drawing/itruetypefont/sub_family_name) | The Subfamily name distinguishes the font in a group with the same Family name.<br/>This is assumed to address style (italic, oblique) and weight (light, bold, black, etc.).<br/>A font with no particular differences in weight or style should have the string "Regular". |
 | [full_font_name](/svg/python-net/aspose.svg.drawing/itruetypefont/full_font_name) | Full font name is generally represented as combination of Family and Subfamily names. |
 | [data_size](/svg/python-net/aspose.svg.drawing/itruetypefont/data_size) | Gets the size of the font data in bytes. |
+| [style](/svg/python-net/aspose.svg.drawing/itruetypefont/style) | Get the font style that combines the values of the font-face rule and data from the font. |
 
 
 ### Methods

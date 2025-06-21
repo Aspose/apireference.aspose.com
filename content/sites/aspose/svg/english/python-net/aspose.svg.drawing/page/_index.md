@@ -3,7 +3,7 @@ title: Page class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 200
 url: /python-net/aspose.svg.drawing/page/
 is_root: false
 ---

@@ -119,9 +119,7 @@ def save(self, resource_handler, save_format):
 
 ## save {#str-aspose.svg.saving.SVGSaveOptions}
 
-Saves the document to local file specified by `path`. All resources used in this document will be saved in 
-to adjacent folder, whose name will be constructed as: output_file_name + "_files".
-If the specified `path` ends with ".svgz", the document will be saved as a compressed SVGZ file.
+Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files". If the specified `path` ends with ".svgz", the document will be saved as a compressed SVGZ file.
 
 
 
@@ -135,12 +133,6 @@ def save(self, path, save_options):
 | :- | :- | :- |
 | path | str | Local path to output file. |
 | save_options | aspose.svg.saving.SVGSaveOptions | SVG save options. |
-### Exceptions
-| Exception | Description |
-| :- | :- |
-| ArgumentException | Raised if the specified `path` is not a valid local file path. |
-
-
 
 
 ## save {#aspose.svg.saving.resourcehandlers.ResourceHandler-aspose.svg.saving.SVGSaveOptions}

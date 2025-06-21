@@ -11,7 +11,7 @@ is_root: false
 ## style property
 
 
-Gets the style of the font.
+Get the font style that combines the values of the font-face rule and data from the font.
 ### Definition:
 ```python
 @property
@@ -22,3 +22,4 @@ def style(self):
 ### See Also
 * module [`aspose.svg.drawing`](../../)
 * class [`ITrueTypeFont`](/svg/python-net/aspose.svg.drawing/itruetypefont)
+* class [`WebFontStyle`](/svg/python-net/aspose.svg.drawing/webfontstyle)

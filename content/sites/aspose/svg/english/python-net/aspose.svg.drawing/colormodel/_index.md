@@ -3,7 +3,7 @@ title: ColorModel enumeration
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 270
 url: /python-net/aspose.svg.drawing/colormodel/
 is_root: false
 ---

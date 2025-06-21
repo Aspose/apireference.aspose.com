@@ -3,7 +3,7 @@ title: ITextureBrush class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 130
 url: /python-net/aspose.svg.drawing/itexturebrush/
 is_root: false
 ---

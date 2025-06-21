@@ -3,7 +3,7 @@ title: IBrush class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 50
 url: /python-net/aspose.svg.drawing/ibrush/
 is_root: false
 ---

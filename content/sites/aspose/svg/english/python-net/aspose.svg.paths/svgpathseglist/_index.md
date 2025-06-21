@@ -26,7 +26,7 @@ The SVGPathSegList type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/svg/python-net/aspose.svg.paths/svgpathseglist/__init__/#) | Initializes a new instance of the [`SVGPathSegList`](/svg/python-net/aspose.svg.paths/svgpathseglist) class. |
-| [__init__](/svg/python-net/aspose.svg.paths/svgpathseglist/__init__/#list) | Constructs a new instance of SVGPathSegList |
+| [__init__](/svg/python-net/aspose.svg.paths/svgpathseglist/__init__/#System.Collections.Generic.List<SVGPathSeg>) | Constructs a new instance of SVGPathSegList |
 
 
 ### Properties

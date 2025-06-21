@@ -3,7 +3,7 @@ title: IColorComponents class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 60
 url: /python-net/aspose.svg.drawing/icolorcomponents/
 is_root: false
 ---
