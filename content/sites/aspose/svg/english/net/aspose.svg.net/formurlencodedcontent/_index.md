@@ -3,7 +3,7 @@ title: FormUrlEncodedContent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.FormUrlEncodedContent class. A container for name/value tuples encoded using application/x-www-form-urlencoded MIME type
 type: docs
-weight: 4340
+weight: 4320
 url: /net/aspose.svg.net/formurlencodedcontent/
 ---
 ## FormUrlEncodedContent class

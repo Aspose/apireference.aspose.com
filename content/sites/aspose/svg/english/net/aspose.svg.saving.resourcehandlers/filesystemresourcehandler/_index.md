@@ -3,7 +3,7 @@ title: FileSystemResourceHandler Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Saving.ResourceHandlers.FileSystemResourceHandler class. This class is an implementation of the ResourceHandler class designed to save resources to the local file system
 type: docs
-weight: 5730
+weight: 5710
 url: /net/aspose.svg.saving.resourcehandlers/filesystemresourcehandler/
 ---
 ## FileSystemResourceHandler class

@@ -3,7 +3,7 @@ title: ITrueTypeFont Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.ITrueTypeFont interface. Declares methods for working with TrueType fonts
 type: docs
-weight: 3550
+weight: 3540
 url: /net/aspose.svg.drawing/itruetypefont/
 ---
 ## ITrueTypeFont interface
@@ -21,6 +21,7 @@ public interface ITrueTypeFont
 | [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | Gets the size of the font data in bytes. |
 | [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | Gets the name of the font family. |
 | [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | Full font name is generally represented as combination of Family and Subfamily names. |
+| [Style](../../aspose.svg.drawing/itruetypefont/style/) { get; } | Get the font style that combines the values of the font-face rule and data from the font. |
 | [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | The Subfamily name distinguishes the font in a group with the same Family name. This is assumed to address style (italic, oblique) and weight (light, bold, black, etc.). A font with no particular differences in weight or style should have the string "Regular". |
 
 ## Methods

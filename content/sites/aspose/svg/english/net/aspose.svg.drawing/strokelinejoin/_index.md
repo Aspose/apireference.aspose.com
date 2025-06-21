@@ -3,7 +3,7 @@ title: StrokeLineJoin Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.StrokeLineJoin enum. Specifies the line join style used in rendering SVG and HTML
 type: docs
-weight: 3650
+weight: 3640
 url: /net/aspose.svg.drawing/strokelinejoin/
 ---
 ## StrokeLineJoin enumeration

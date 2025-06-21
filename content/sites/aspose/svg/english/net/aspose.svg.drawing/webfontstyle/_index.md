@@ -3,7 +3,7 @@ title: WebFontStyle Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.WebFontStyle enum. Specifies the formatting applied to the text
 type: docs
-weight: 3690
+weight: 3680
 url: /net/aspose.svg.drawing/webfontstyle/
 ---
 ## WebFontStyle enumeration

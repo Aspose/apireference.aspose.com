@@ -3,7 +3,7 @@ title: SVGPathSegArcRel Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Paths.SVGPathSegArcRel class. The SVGPathSegArcRel interface corresponds to a relative arcto a path data command
 type: docs
-weight: 4600
+weight: 4580
 url: /net/aspose.svg.paths/svgpathsegarcrel/
 ---
 ## SVGPathSegArcRel class

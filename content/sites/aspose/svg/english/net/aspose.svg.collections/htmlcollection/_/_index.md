@@ -1,15 +1,15 @@
 ---
 title: HTMLCollection._
 second_title: Aspose.SVG for .NET API Reference
-description: HTMLCollection       method. 
+description: HTMLCollection       method. 
 type: docs
 weight: 30
 url: /net/aspose.svg.collections/htmlcollection/_/
 ---
-## HTMLCollection.      method
+## HTMLCollection.      method
 
 ```csharp
-public Element      (string name)
+public Element      (string name)
 ```
 
 ### See Also
