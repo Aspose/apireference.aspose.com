@@ -18,7 +18,6 @@ The SizeF type exposes the following members:
 | Name | Description |
 | :- | :- |
 | `SizeF(size)` | Initializes a new instance of the SizeF class |
-| `SizeF(pt)` | Initializes a new instance of the SizeF class |
 | `SizeF(width, height)` | Initializes a new instance of the SizeF class |
 | `SizeF()` | Initializes a new instance of the SizeF class |
 ## Properties
