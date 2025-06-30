@@ -17,6 +17,7 @@ The PsDocument type exposes the following members:
 ## Constructors
 | Name | Description |
 | :- | :- |
+| `PsDocument()` | Initializes empty [PsDocument](/page/python-net/aspose.page.eps/psdocument/). This constructor is used only for additional operations that are not related to PostScript files,<br/>            for example, converting fonts. |
 | `PsDocument(out_ps_file_path, options)` | Initializes a new instance of the PsDocument class |
 | `PsDocument(out_ps_stream, options)` | Initializes a new instance of the PsDocument class |
 | `PsDocument(out_ps_file_path, options, multipaged)` | Initializes a new instance of the PsDocument class |
@@ -45,6 +46,8 @@ The PsDocument type exposes the following members:
 | `save_image_as_eps(image_file_path, eps_file_path, options)` | Saves PNG/JPEG/TIFF/BMP/GIF/EMF image from file to EPS file. |
 | `save_image_as_eps(image, eps_file_path, options)` | Saves Bitmap object to EPS file. |
 | `save_image_as_eps(image, eps_stream, options)` | Saves Bitmap object to EPS output stream. |
+| `convert_type_3_font_to_ttf(type_3_font_file_path, output_dir)` | Converts Type 3 font to TrueType.<br/>            The name of the converted TTF font will be the same as input Type 3 font file with ".ttf" extension.<br/>            TTF file will be saved to assigned output directory. |
+| `convert_type_3_font_to_ttf(type_3_font_file_path, output_stream)` | Converts Type 3 font to TrueType stream. |
 | `open_page(width, height)` | Creates new page and make it current one. |
 | `open_page(page_name)` | Creates new page with document's size and make it current one. |
 | `rotate(angle_radians)` | Adds rotation counterclockwise about the origin to current graphics state (rotate current matrix). |
@@ -84,6 +87,7 @@ The PsDocument type exposes the following members:
 | `extract_text(options, start_page, end_page)` | Extract text from PS file. The text can be extracted only if it is written with Type 42 (TrueType) font or Type 0 font with Type 42 fonts in its Vector Map. |
 | `extract_eps_size()` | Reads EPS file and extracts a size of EPS image from %%BoundingBox comment or default page size (595, 842) if it doesn't exist. |
 | `extract_eps_bounding_box()` | Reads EPS file and extracts bounding box of EPS image from %%BoundingBox comment or bounds for default page size (0, 0, 595, 842) if it doesn't exist. |
+| `convert_type_1_font_to_ttf(type_1_font_file_path, output_dir)` | Converts Type 1 font to TrueType.<br/>            The name of the converted TTF font will be the same as input Type 1 font with ".ttf" extension.<br/>            TTF file will be saved to assigned output directory. |
 | `set_page_size(width, height)` | Sets page size. To create pages with different sizes in one document use |
 | `close_page()` | Complete current page. |
 | `write_graphics_save()` | Writes saving of the current graphics state (See PostScript specification on operator "gsave"). |
