@@ -25,6 +25,10 @@ Class for processing templates and images.
 | [notifyAll()](#notifyAll) |  |
 | [recalculate(RecognitionResult result)](#recalculate-com.aspose.omr.RecognitionResult) | Updates recognition result using fine tuned parameters. |
 | [recalculate(RecognitionResult result, int recognitionThreshold)](#recalculate-com.aspose.omr.RecognitionResult-int) | Updates recognition result using fine tuned parameters. |
+| [recognizeImage(BufferedImage bufferedImage)](#recognizeImage-java.awt.image.BufferedImage) | Recognizes image |
+| [recognizeImage(BufferedImage bufferedImage, int recognitionThreshold)](#recognizeImage-java.awt.image.BufferedImage-int) | Recognizes image |
+| [recognizeImage(InputStream inputStream)](#recognizeImage-java.io.InputStream) | Recognizes image |
+| [recognizeImage(InputStream inputStream, int recognitionThreshold)](#recognizeImage-java.io.InputStream-int) | Recognizes image |
 | [recognizeImage(String imagePath)](#recognizeImage-java.lang.String) | Recognizes image |
 | [recognizeImage(String imagePath, int recognitionThreshold)](#recognizeImage-java.lang.String-int) | Recognizes image |
 | [toString()](#toString) |  |
@@ -109,6 +113,68 @@ Updates recognition result using fine tuned parameters.
 | result | [RecognitionResult](../../com.aspose.omr/recognitionresult/) | The recognition result to update. |
 | recognitionThreshold | int | (Optional) The recognition threshold in range (0..100). Only elements filled above threshold will be counted as filled. |
 
+### recognizeImage(BufferedImage bufferedImage) {#recognizeImage-java.awt.image.BufferedImage}
+```
+public final RecognitionResult recognizeImage(BufferedImage bufferedImage)
+```
+
+
+Recognizes image
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bufferedImage | java.awt.image.BufferedImage | Image to recognize |
+
+**Returns:**
+[RecognitionResult](../../com.aspose.omr/recognitionresult/) - The recognition result
+### recognizeImage(BufferedImage bufferedImage, int recognitionThreshold) {#recognizeImage-java.awt.image.BufferedImage-int}
+```
+public final RecognitionResult recognizeImage(BufferedImage bufferedImage, int recognitionThreshold)
+```
+
+
+Recognizes image
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bufferedImage | java.awt.image.BufferedImage | Image to recognize |
+| recognitionThreshold | int | (Optional) The recognition threshold in range (0..100). Only elements filled above threshold will be counted as filled. |
+
+**Returns:**
+[RecognitionResult](../../com.aspose.omr/recognitionresult/) - The recognition result
+### recognizeImage(InputStream inputStream) {#recognizeImage-java.io.InputStream}
+```
+public final RecognitionResult recognizeImage(InputStream inputStream)
+```
+
+
+Recognizes image
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Stream of the image |
+
+**Returns:**
+[RecognitionResult](../../com.aspose.omr/recognitionresult/) - The recognition result
+### recognizeImage(InputStream inputStream, int recognitionThreshold) {#recognizeImage-java.io.InputStream-int}
+```
+public final RecognitionResult recognizeImage(InputStream inputStream, int recognitionThreshold)
+```
+
+
+Recognizes image
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Stream of the image |
+| recognitionThreshold | int | (Optional) The recognition threshold in range (0..100). Only elements filled above threshold will be counted as filled. |
+
+**Returns:**
+[RecognitionResult](../../com.aspose.omr/recognitionresult/) - The recognition result
 ### recognizeImage(String imagePath) {#recognizeImage-java.lang.String}
 ```
 public final RecognitionResult recognizeImage(String imagePath)
