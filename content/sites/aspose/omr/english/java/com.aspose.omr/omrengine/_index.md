@@ -29,6 +29,7 @@ The OMR engine. Handles the creation of the template and image processing classe
 | [generateTemplate(String markupPath, ImageCollection collection)](#generateTemplate-java.lang.String-com.aspose.omr.ImageCollection) | Creates template (.omr) and template image based on text markup |
 | [generateTemplate(String markupPath, ImageCollection collection, GlobalPageSettings settings)](#generateTemplate-java.lang.String-com.aspose.omr.ImageCollection-com.aspose.omr.GlobalPageSettings) | Creates template (.omr) and template image based on text markup |
 | [getClass()](#getClass) |  |
+| [getTemplateProcessor(InputStream inputStream)](#getTemplateProcessor-java.io.InputStream) | Creates the [TemplateProcessor](../../com.aspose.omr/templateprocessor/) instance that allows working with specified template. |
 | [getTemplateProcessor(String templatePath)](#getTemplateProcessor-java.lang.String) | Creates the [TemplateProcessor](../../com.aspose.omr/templateprocessor/) instance that allows working with specified template. |
 | [hashCode()](#hashCode) |  |
 | [notify()](#notify) |  |
@@ -132,6 +133,21 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getTemplateProcessor(InputStream inputStream) {#getTemplateProcessor-java.io.InputStream}
+```
+public final TemplateProcessor getTemplateProcessor(InputStream inputStream)
+```
+
+
+Creates the [TemplateProcessor](../../com.aspose.omr/templateprocessor/) instance that allows working with specified template.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | content stream of the OMR template file |
+
+**Returns:**
+[TemplateProcessor](../../com.aspose.omr/templateprocessor/) - The [TemplateProcessor](../../com.aspose.omr/templateprocessor/) instance
 ### getTemplateProcessor(String templatePath) {#getTemplateProcessor-java.lang.String}
 ```
 public final TemplateProcessor getTemplateProcessor(String templatePath)
