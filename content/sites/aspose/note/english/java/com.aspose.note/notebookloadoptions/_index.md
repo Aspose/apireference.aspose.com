@@ -3,7 +3,7 @@ title: NotebookLoadOptions
 second_title: Aspose.Note for Java API Reference
 description: Options used to load a notebook.
 type: docs
-weight: 48
+weight: 58
 url: /java/com.aspose.note/notebookloadoptions/
 ---
 
@@ -23,10 +23,19 @@ Options used to load a notebook.
 
 | Method | Description |
 | --- | --- |
-| [getInstantLoading()](#getInstantLoading--) | Gets or sets a value indicating whether children documents should be loaded while the parent document is loading. |
-| [setInstantLoading(boolean value)](#setInstantLoading-boolean-) | Gets or sets a value indicating whether children documents should be loaded while the parent document is loading. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getDeferredLoading()](#getDeferredLoading--) | Gets or sets a value indicating whether children documents should be loaded explicitly later. |
+| [getInstantLoading()](#getInstantLoading--) | Gets or sets a value indicating whether children documents should be loaded while the parent document is loading. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [setDeferredLoading(boolean value)](#setDeferredLoading-boolean-) | Gets or sets a value indicating whether children documents should be loaded explicitly later. |
+| [setInstantLoading(boolean value)](#setInstantLoading-boolean-) | Gets or sets a value indicating whether children documents should be loaded while the parent document is loading. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### NotebookLoadOptions() {#NotebookLoadOptions--}
 ```
 public NotebookLoadOptions()
@@ -35,6 +44,45 @@ public NotebookLoadOptions()
 
 Initializes a new instance of the  NotebookLoadOptions  class.
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getDeferredLoading() {#getDeferredLoading--}
+```
+public final boolean getDeferredLoading()
+```
+
+
+Gets or sets a value indicating whether children documents should be loaded explicitly later.
+
+--------------------
+
+Default value is  false , so child documents will be loaded implicitly. Value  true  is indicating that user should call  Notebook.loadChildDocument  or for each notebook's child node after notebook itself is loaded. If value is  true ,  NotebookLoadOptions.instantLoading  option will be ignored. If notebook is loading from stream, the value is always  true  despite was explicitly set by user to  false .
+
+**Returns:**
+boolean
 ### getInstantLoading() {#getInstantLoading--}
 ```
 public boolean getInstantLoading()
@@ -49,6 +97,49 @@ Default value is  false , so child documents will be loaded "lazily", i.e. their
 
 **Returns:**
 boolean
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setDeferredLoading(boolean value) {#setDeferredLoading-boolean-}
+```
+public final void setDeferredLoading(boolean value)
+```
+
+
+Gets or sets a value indicating whether children documents should be loaded explicitly later.
+
+--------------------
+
+Default value is  false , so child documents will be loaded implicitly. Value  true  is indicating that user should call  Notebook.loadChildDocument  or for each notebook's child node after notebook itself is loaded. If value is  true ,  NotebookLoadOptions.instantLoading  option will be ignored. If notebook is loading from stream, the value is always  true  despite was explicitly set by user to  false .
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
+
 ### setInstantLoading(boolean value) {#setInstantLoading-boolean-}
 ```
 public void setInstantLoading(boolean value)
@@ -66,34 +157,48 @@ Default value is  false , so child documents will be loaded "lazily", i.e. their
 | --- | --- | --- |
 | value | boolean |  |
 
-### getDeferredLoading() {#getDeferredLoading--}
+### toString() {#toString--}
 ```
-public final boolean getDeferredLoading()
+public String toString()
 ```
 
 
-Gets or sets a value indicating whether children documents should be loaded explicitly later.
 
---------------------
-
-Default value is  false , so child documents will be loaded implicitly. Value  true  is indicating that user should call  Notebook.loadChildDocument  or for each notebook's child node after notebook itself is loaded. If value is  true ,  NotebookLoadOptions.instantLoading  option will be ignored. If notebook is loading from stream, the value is always  true  despite was explicitly set by user to  false .
 
 **Returns:**
-boolean
-### setDeferredLoading(boolean value) {#setDeferredLoading-boolean-}
+java.lang.String
+### wait() {#wait--}
 ```
-public final void setDeferredLoading(boolean value)
+public final void wait()
 ```
 
 
-Gets or sets a value indicating whether children documents should be loaded explicitly later.
 
---------------------
 
-Default value is  false , so child documents will be loaded implicitly. Value  true  is indicating that user should call  Notebook.loadChildDocument  or for each notebook's child node after notebook itself is loaded. If value is  true ,  NotebookLoadOptions.instantLoading  option will be ignored. If notebook is loading from stream, the value is always  true  despite was explicitly set by user to  false .
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean |  |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

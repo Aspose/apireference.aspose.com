@@ -3,7 +3,7 @@ title: Margins
 second_title: Aspose.Note for Java API Reference
 description: Specifies the dimensions of the margins of a node.
 type: docs
-weight: 39
+weight: 49
 url: /java/com.aspose.note/margins/
 ---
 
@@ -32,22 +32,31 @@ Specifies the dimensions of the margins of a node.
 
 | Method | Description |
 | --- | --- |
+| [Clone()](#Clone--) |  |
+| [CloneTo(T arg0)](#CloneTo-T-) |  |
+| [CloneTo(Margins that)](#CloneTo-com.aspose.note.Margins-) |  |
+| [clone()](#clone--) |  |
+| [equals(Margins other)](#equals-com.aspose.note.Margins-) |  |
+| [equals(Margins obj1, Margins obj2)](#equals-com.aspose.note.Margins-com.aspose.note.Margins-) |  |
+| [equals(Object obj)](#equals-java.lang.Object-) | Tests whether two  T:Margins  structures are equal. |
+| [getBottom()](#getBottom--) | Gets or sets the bottom margin width. |
+| [getClass()](#getClass--) |  |
+| [getLeft()](#getLeft--) | Gets or sets the left margin width. |
+| [getRight()](#getRight--) | Gets or sets the right margin width. |
+| [getTop()](#getTop--) | Gets or sets the top margin width. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [op_Equality(Margins lhs, Margins rhs)](#op-Equality-com.aspose.note.Margins-com.aspose.note.Margins-) | Tests whether two  T:Margins  structures are equal. |
 | [op_Inequality(Margins lhs, Margins rhs)](#op-Inequality-com.aspose.note.Margins-com.aspose.note.Margins-) | Tests whether two  T:Margins  structures are not equal. |
-| [equals(Margins other)](#equals-com.aspose.note.Margins-) |  |
-| [equals(Object obj)](#equals-java.lang.Object-) | Tests whether two  T:Margins  structures are equal. |
-| [getLeft()](#getLeft--) | Gets or sets the left margin width. |
-| [setLeft(float value)](#setLeft-float-) | Gets or sets the left margin width. |
-| [getRight()](#getRight--) | Gets or sets the right margin width. |
-| [setRight(float value)](#setRight-float-) | Gets or sets the right margin width. |
-| [getTop()](#getTop--) | Gets or sets the top margin width. |
-| [setTop(float value)](#setTop-float-) | Gets or sets the top margin width. |
-| [getBottom()](#getBottom--) | Gets or sets the bottom margin width. |
 | [setBottom(float value)](#setBottom-float-) | Gets or sets the bottom margin width. |
-| [CloneTo(Margins that)](#CloneTo-com.aspose.note.Margins-) |  |
-| [Clone()](#Clone--) |  |
-| [clone()](#clone--) |  |
-| [equals(Margins obj1, Margins obj2)](#equals-com.aspose.note.Margins-com.aspose.note.Margins-) |  |
+| [setLeft(float value)](#setLeft-float-) | Gets or sets the left margin width. |
+| [setRight(float value)](#setRight-float-) | Gets or sets the right margin width. |
+| [setTop(float value)](#setTop-float-) | Gets or sets the top margin width. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Margins() {#Margins--}
 ```
 public Margins()
@@ -77,6 +86,174 @@ public static final Margins Empty
 
 
 The empty margins.
+
+### Clone() {#Clone--}
+```
+public Margins Clone()
+```
+
+
+
+
+**Returns:**
+[Margins](../../com.aspose.note/margins)
+### CloneTo(T arg0) {#CloneTo-T-}
+```
+public abstract void CloneTo(T arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | T |  |
+
+### CloneTo(Margins that) {#CloneTo-com.aspose.note.Margins-}
+```
+public void CloneTo(Margins that)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| that | [Margins](../../com.aspose.note/margins) |  |
+
+### clone() {#clone--}
+```
+public Object clone()
+```
+
+
+
+
+**Returns:**
+java.lang.Object
+### equals(Margins other) {#equals-com.aspose.note.Margins-}
+```
+public boolean equals(Margins other)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| other | [Margins](../../com.aspose.note/margins) |  |
+
+**Returns:**
+boolean
+### equals(Margins obj1, Margins obj2) {#equals-com.aspose.note.Margins-com.aspose.note.Margins-}
+```
+public static boolean equals(Margins obj1, Margins obj2)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj1 | [Margins](../../com.aspose.note/margins) |  |
+| obj2 | [Margins](../../com.aspose.note/margins) |  |
+
+**Returns:**
+boolean
+### equals(Object obj) {#equals-java.lang.Object-}
+```
+public boolean equals(Object obj)
+```
+
+
+Tests whether two  T:Margins  structures are equal.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | java.lang.Object | Any object. |
+
+**Returns:**
+boolean - The  bool .
+### getBottom() {#getBottom--}
+```
+public float getBottom()
+```
+
+
+Gets or sets the bottom margin width.
+
+**Returns:**
+float
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getLeft() {#getLeft--}
+```
+public float getLeft()
+```
+
+
+Gets or sets the left margin width.
+
+**Returns:**
+float
+### getRight() {#getRight--}
+```
+public float getRight()
+```
+
+
+Gets or sets the right margin width.
+
+**Returns:**
+float
+### getTop() {#getTop--}
+```
+public float getTop()
+```
+
+
+Gets or sets the top margin width.
+
+**Returns:**
+float
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
 
 ### op_Equality(Margins lhs, Margins rhs) {#op-Equality-com.aspose.note.Margins-com.aspose.note.Margins-}
 ```
@@ -110,115 +287,6 @@ Tests whether two  T:Margins  structures are not equal.
 
 **Returns:**
 boolean - The  bool .
-### equals(Margins other) {#equals-com.aspose.note.Margins-}
-```
-public boolean equals(Margins other)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| other | [Margins](../../com.aspose.note/margins) |  |
-
-**Returns:**
-boolean
-### equals(Object obj) {#equals-java.lang.Object-}
-```
-public boolean equals(Object obj)
-```
-
-
-Tests whether two  T:Margins  structures are equal.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | java.lang.Object | Any object. |
-
-**Returns:**
-boolean - The  bool .
-### getLeft() {#getLeft--}
-```
-public float getLeft()
-```
-
-
-Gets or sets the left margin width.
-
-**Returns:**
-float
-### setLeft(float value) {#setLeft-float-}
-```
-public void setLeft(float value)
-```
-
-
-Gets or sets the left margin width.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float |  |
-
-### getRight() {#getRight--}
-```
-public float getRight()
-```
-
-
-Gets or sets the right margin width.
-
-**Returns:**
-float
-### setRight(float value) {#setRight-float-}
-```
-public void setRight(float value)
-```
-
-
-Gets or sets the right margin width.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float |  |
-
-### getTop() {#getTop--}
-```
-public float getTop()
-```
-
-
-Gets or sets the top margin width.
-
-**Returns:**
-float
-### setTop(float value) {#setTop-float-}
-```
-public void setTop(float value)
-```
-
-
-Gets or sets the top margin width.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float |  |
-
-### getBottom() {#getBottom--}
-```
-public float getBottom()
-```
-
-
-Gets or sets the bottom margin width.
-
-**Returns:**
-float
 ### setBottom(float value) {#setBottom-float-}
 ```
 public void setBottom(float value)
@@ -232,9 +300,66 @@ Gets or sets the bottom margin width.
 | --- | --- | --- |
 | value | float |  |
 
-### CloneTo(Margins that) {#CloneTo-com.aspose.note.Margins-}
+### setLeft(float value) {#setLeft-float-}
 ```
-public void CloneTo(Margins that)
+public void setLeft(float value)
+```
+
+
+Gets or sets the left margin width.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float |  |
+
+### setRight(float value) {#setRight-float-}
+```
+public void setRight(float value)
+```
+
+
+Gets or sets the right margin width.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float |  |
+
+### setTop(float value) {#setTop-float-}
+```
+public void setTop(float value)
+```
+
+
+Gets or sets the top margin width.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float |  |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
 ```
 
 
@@ -243,31 +368,11 @@ public void CloneTo(Margins that)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| that | [Margins](../../com.aspose.note/margins) |  |
+| arg0 | long |  |
 
-### Clone() {#Clone--}
+### wait(long arg0, int arg1) {#wait-long-int-}
 ```
-public Margins Clone()
-```
-
-
-
-
-**Returns:**
-[Margins](../../com.aspose.note/margins)
-### clone() {#clone--}
-```
-public Object clone()
-```
-
-
-
-
-**Returns:**
-java.lang.Object
-### equals(Margins obj1, Margins obj2) {#equals-com.aspose.note.Margins-com.aspose.note.Margins-}
-```
-public static boolean equals(Margins obj1, Margins obj2)
+public final void wait(long arg0, int arg1)
 ```
 
 
@@ -276,8 +381,6 @@ public static boolean equals(Margins obj1, Margins obj2)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj1 | [Margins](../../com.aspose.note/margins) |  |
-| obj2 | [Margins](../../com.aspose.note/margins) |  |
+| arg0 | long |  |
+| arg1 | int |  |
 
-**Returns:**
-boolean

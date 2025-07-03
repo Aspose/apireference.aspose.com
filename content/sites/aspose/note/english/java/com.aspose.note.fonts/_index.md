@@ -3,7 +3,7 @@ title: com.aspose.note.fonts
 second_title: Aspose.Note for Java API Reference
 description: The com.aspose.note.fonts namespace contains classes which provides functionality to manipulate by fonts environment for a document.
 type: docs
-weight: 11
+weight: 27
 url: /java/com.aspose.note.fonts/
 ---
 

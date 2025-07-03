@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.Note for Java API Reference
 description: Represents a page.
 type: docs
-weight: 59
+weight: 69
 url: /java/com.aspose.note/page/
 ---
 
@@ -23,31 +23,57 @@ Represents a page.
 
 | Method | Description |
 | --- | --- |
-| [getPageContentRevisionSummary()](#getPageContentRevisionSummary--) | Gets or sets the revision summary for the page and it's child nodes. |
-| [setPageContentRevisionSummary(RevisionSummary value)](#setPageContentRevisionSummary-com.aspose.note.RevisionSummary-) | Gets or sets the revision summary for the page and it's child nodes. |
-| [getTitle()](#getTitle--) | Gets or sets the title. |
-| [setTitle(Title value)](#setTitle-com.aspose.note.Title-) | Gets or sets the title. |
-| [getLastModifiedTime()](#getLastModifiedTime--) | Gets or sets the last modified time. |
-| [setLastModifiedTime(Date value)](#setLastModifiedTime-java.util.Date-) | Gets or sets the last modified time. |
-| [getCreationTime()](#getCreationTime--) | Gets or sets the creation time. |
-| [setCreationTime(Date value)](#setCreationTime-java.util.Date-) | Gets or sets the creation time. |
-| [getLevel()](#getLevel--) | Gets or sets the level. |
-| [setLevel(byte value)](#setLevel-byte-) | Gets or sets the level. |
-| [getMargin()](#getMargin--) | Gets or sets the margin. |
-| [setMargin(Margins value)](#setMargin-com.aspose.note.Margins-) | Gets or sets the margin. |
-| [getAuthor()](#getAuthor--) | Gets or sets the author. |
-| [setAuthor(String value)](#setAuthor-java.lang.String-) | Gets or sets the author. |
-| [getBackgroundColor()](#getBackgroundColor--) | Gets or sets page's background color. |
-| [setBackgroundColor(Color value)](#setBackgroundColor-java.awt.Color-) | Gets or sets page's background color. |
-| [getSizeType()](#getSizeType--) | Gets or sets the size type of a page. |
-| [setSizeType(int value)](#setSizeType-int-) | Gets or sets the size type of a page. |
-| [getPageLayoutSize()](#getPageLayoutSize--) | Gets page's layout size displayed in the editor. |
-| [setPageLayoutSize(Dimension2D value)](#setPageLayoutSize-java.awt.geom.Dimension2D-) | Sets page's layout size displayed in the editor. |
-| [isConflictPage()](#isConflictPage--) | Gets or sets a value indicating whether this page is a conflict page. |
-| [setConflictPage(boolean value)](#setConflictPage-boolean-) | Gets or sets a value indicating whether this page is a conflict page. |
+| [<T1>appendChildFirst(T1 newChild)](#-T1-appendChildFirst-T1-) | Adds the node to the front of the list of child nodes for this node. |
+| [<T1>appendChildLast(T1 newChild)](#-T1-appendChildLast-T1-) | Adds the node to the end of the list of child nodes for this node. |
+| [<T1>getChildNodes(Class<T1> typeParameterClass)](#-T1-getChildNodes-java.lang.Class-T1--) | Get all child nodes by the node type. |
+| [<T1>insertChild(int i, T1 newChild)](#-T1-insertChild-int-T1-) | Inserts the node to the specified position in the list of child nodes for this node. |
+| [<T1>removeChild(T1 oldChild)](#-T1-removeChild-T1-) | Removes the child node. |
 | [accept(DocumentVisitor visitor)](#accept-com.aspose.note.DocumentVisitor-) | Accepts the visitor of the node. |
-| [deepClone(boolean cloneHistory)](#deepClone-boolean-) | Clones the page. |
 | [deepClone()](#deepClone--) | Clones the page. |
+| [deepClone(boolean cloneHistory)](#deepClone-boolean-) | Clones the page. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getAuthor()](#getAuthor--) | Gets or sets the author. |
+| [getBackgroundColor()](#getBackgroundColor--) | Gets or sets page's background color. |
+| [getClass()](#getClass--) |  |
+| [getCreationTime()](#getCreationTime--) | Gets or sets the creation time. |
+| [getDocument()](#getDocument--) | Gets the document of the node. |
+| [getFirstChild()](#getFirstChild--) | Gets the first child node of this node. |
+| [getLastChild()](#getLastChild--) | Gets the last child node of this node. |
+| [getLastModifiedTime()](#getLastModifiedTime--) | Gets or sets the last modified time. |
+| [getLevel()](#getLevel--) | Gets or sets the level. |
+| [getMargin()](#getMargin--) | Gets or sets the margin. |
+| [getNextSibling()](#getNextSibling--) | Gets the next node at the same node tree level. |
+| [getNodeId()](#getNodeId--) | Gets the node's ID. |
+| [getNodeType()](#getNodeType--) | Gets the node type. |
+| [getPageContentRevisionSummary()](#getPageContentRevisionSummary--) | Gets or sets the revision summary for the page and it's child nodes. |
+| [getPageLayoutSize()](#getPageLayoutSize--) | Gets page's layout size displayed in the editor. |
+| [getParentNode()](#getParentNode--) | Gets the parent node. |
+| [getPreviousSibling()](#getPreviousSibling--) | Gets the previous node at the same node tree level. |
+| [getSizeType()](#getSizeType--) | Gets or sets the size type of a page. |
+| [getTitle()](#getTitle--) | Gets or sets the title. |
+| [hashCode()](#hashCode--) |  |
+| [insertChildrenRange(int i, T[] newChildren)](#insertChildrenRange-int-T...-) | Inserts the node's sequence starting from specified position in the list of child nodes for this node. |
+| [insertChildrenRange(int i, Iterable<T> newChildren)](#insertChildrenRange-int-java.lang.Iterable-T--) | Inserts the node's sequence starting from specified position in the list of child nodes for this node. |
+| [isComposite()](#isComposite--) | Checks whether the node is composite. |
+| [isConflictPage()](#isConflictPage--) | Gets or sets a value indicating whether this page is a conflict page. |
+| [iterator()](#iterator--) | Returns an enumerator that iterates through child nodes of the  CompositeNode\{T\} . |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setAuthor(String value)](#setAuthor-java.lang.String-) | Gets or sets the author. |
+| [setBackgroundColor(Color value)](#setBackgroundColor-java.awt.Color-) | Gets or sets page's background color. |
+| [setConflictPage(boolean value)](#setConflictPage-boolean-) | Gets or sets a value indicating whether this page is a conflict page. |
+| [setCreationTime(Date value)](#setCreationTime-java.util.Date-) | Gets or sets the creation time. |
+| [setLastModifiedTime(Date value)](#setLastModifiedTime-java.util.Date-) | Gets or sets the last modified time. |
+| [setLevel(byte value)](#setLevel-byte-) | Gets or sets the level. |
+| [setMargin(Margins value)](#setMargin-com.aspose.note.Margins-) | Gets or sets the margin. |
+| [setPageContentRevisionSummary(RevisionSummary value)](#setPageContentRevisionSummary-com.aspose.note.RevisionSummary-) | Gets or sets the revision summary for the page and it's child nodes. |
+| [setPageLayoutSize(Dimension2D value)](#setPageLayoutSize-java.awt.geom.Dimension2D-) | Sets page's layout size displayed in the editor. |
+| [setSizeType(int value)](#setSizeType-int-) | Gets or sets the size type of a page. |
+| [setTitle(Title value)](#setTitle-com.aspose.note.Title-) | Gets or sets the title. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Page() {#Page--}
 ```
 public Page()
@@ -56,148 +82,137 @@ public Page()
 
 Initializes a new instance of the  Page  class.
 
-### getPageContentRevisionSummary() {#getPageContentRevisionSummary--}
+### <T1>appendChildFirst(T1 newChild) {#-T1-appendChildFirst-T1-}
 ```
-public RevisionSummary getPageContentRevisionSummary()
-```
-
-
-Gets or sets the revision summary for the page and it's child nodes.
-
-**Returns:**
-[RevisionSummary](../../com.aspose.note/revisionsummary)
-### setPageContentRevisionSummary(RevisionSummary value) {#setPageContentRevisionSummary-com.aspose.note.RevisionSummary-}
-```
-public void setPageContentRevisionSummary(RevisionSummary value)
+public T1 <T1>appendChildFirst(T1 newChild)
 ```
 
 
-Gets or sets the revision summary for the page and it's child nodes.
+Adds the node to the front of the list of child nodes for this node.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [RevisionSummary](../../com.aspose.note/revisionsummary) |  |
-
-### getTitle() {#getTitle--}
-```
-public Title getTitle()
-```
-
-
-Gets or sets the title.
-
-Value: The  Title .
+| newChild | T1 | The node to add. |
 
 **Returns:**
-[Title](../../com.aspose.note/title)
-### setTitle(Title value) {#setTitle-com.aspose.note.Title-}
+T1 - The added node.
+### <T1>appendChildLast(T1 newChild) {#-T1-appendChildLast-T1-}
 ```
-public void setTitle(Title value)
+public T1 <T1>appendChildLast(T1 newChild)
 ```
 
 
-Gets or sets the title.
-
-Value: The  Title .
+Adds the node to the end of the list of child nodes for this node.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Title](../../com.aspose.note/title) |  |
-
-### getLastModifiedTime() {#getLastModifiedTime--}
-```
-public Date getLastModifiedTime()
-```
-
-
-Gets or sets the last modified time.
+| newChild | T1 | The node to add. |
 
 **Returns:**
-java.util.Date
-### setLastModifiedTime(Date value) {#setLastModifiedTime-java.util.Date-}
+T1 - The added node.
+### <T1>getChildNodes(Class<T1> typeParameterClass) {#-T1-getChildNodes-java.lang.Class-T1--}
 ```
-public void setLastModifiedTime(Date value)
+public List<T1> <T1>getChildNodes(Class<T1> typeParameterClass)
 ```
 
 
-Gets or sets the last modified time.
+Get all child nodes by the node type.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.util.Date |  |
-
-### getCreationTime() {#getCreationTime--}
-```
-public Date getCreationTime()
-```
-
-
-Gets or sets the creation time.
+| typeParameterClass | java.lang.Class<T1> |  |
 
 **Returns:**
-java.util.Date
-### setCreationTime(Date value) {#setCreationTime-java.util.Date-}
+java.util.List<T1> - A list of child nodes.
+
+ T1 : The type of elements in the returned list.
+### <T1>insertChild(int i, T1 newChild) {#-T1-insertChild-int-T1-}
 ```
-public void setCreationTime(Date value)
+public T1 <T1>insertChild(int i, T1 newChild)
 ```
 
 
-Gets or sets the creation time.
+Inserts the node to the specified position in the list of child nodes for this node.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.util.Date |  |
-
-### getLevel() {#getLevel--}
-```
-public byte getLevel()
-```
-
-
-Gets or sets the level.
+| i | int | Position to insert |
+| newChild | T1 | The node to insert. |
 
 **Returns:**
-byte
-### setLevel(byte value) {#setLevel-byte-}
+T1 - The added node.
+### <T1>removeChild(T1 oldChild) {#-T1-removeChild-T1-}
 ```
-public void setLevel(byte value)
+public T1 <T1>removeChild(T1 oldChild)
 ```
 
 
-Gets or sets the level.
+Removes the child node.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | byte |  |
-
-### getMargin() {#getMargin--}
-```
-public Margins getMargin()
-```
-
-
-Gets or sets the margin.
+| oldChild | T1 | The node to remove. |
 
 **Returns:**
-[Margins](../../com.aspose.note/margins)
-### setMargin(Margins value) {#setMargin-com.aspose.note.Margins-}
+T1 - The removed node.
+### accept(DocumentVisitor visitor) {#accept-com.aspose.note.DocumentVisitor-}
 ```
-public void setMargin(Margins value)
+public void accept(DocumentVisitor visitor)
 ```
 
 
-Gets or sets the margin.
+Accepts the visitor of the node.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Margins](../../com.aspose.note/margins) |  |
+| visitor | [DocumentVisitor](../../com.aspose.note/documentvisitor) | The object of a class derived from the  DocumentVisitor . |
 
+### deepClone() {#deepClone--}
+```
+public final Page deepClone()
+```
+
+
+Clones the page.
+
+**Returns:**
+[Page](../../com.aspose.note/page) - A clone of the page.
+### deepClone(boolean cloneHistory) {#deepClone-boolean-}
+```
+public final Page deepClone(boolean cloneHistory)
+```
+
+
+Clones the page.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| cloneHistory | boolean | Specifies if page's history should be cloned.. |
+
+**Returns:**
+[Page](../../com.aspose.note/page) - A clone of the page.
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
 ### getAuthor() {#getAuthor--}
 ```
 public String getAuthor()
@@ -208,19 +223,6 @@ Gets or sets the author.
 
 **Returns:**
 java.lang.String
-### setAuthor(String value) {#setAuthor-java.lang.String-}
-```
-public void setAuthor(String value)
-```
-
-
-Gets or sets the author.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String |  |
-
 ### getBackgroundColor() {#getBackgroundColor--}
 ```
 public final Color getBackgroundColor()
@@ -231,50 +233,130 @@ Gets or sets page's background color.
 
 **Returns:**
 java.awt.Color
-### setBackgroundColor(Color value) {#setBackgroundColor-java.awt.Color-}
+### getClass() {#getClass--}
 ```
-public final void setBackgroundColor(Color value)
-```
-
-
-Gets or sets page's background color.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.awt.Color |  |
-
-### getSizeType() {#getSizeType--}
-```
-public final int getSizeType()
+public final native Class<?> getClass()
 ```
 
 
-Gets or sets the size type of a page.
 
---------------------
 
-By default, a page resizes automatically. The default value is [PageSizeType.SizeByContent](../../com.aspose.note/pagesizetype\#SizeByContent).
+**Returns:**
+java.lang.Class<?>
+### getCreationTime() {#getCreationTime--}
+```
+public Date getCreationTime()
+```
+
+
+Gets or sets the creation time.
+
+**Returns:**
+java.util.Date
+### getDocument() {#getDocument--}
+```
+public Document getDocument()
+```
+
+
+Gets the document of the node.
+
+Value: The document.
+
+**Returns:**
+[Document](../../com.aspose.note/document)
+### getFirstChild() {#getFirstChild--}
+```
+public T getFirstChild()
+```
+
+
+Gets the first child node of this node.
+
+**Returns:**
+T
+### getLastChild() {#getLastChild--}
+```
+public T getLastChild()
+```
+
+
+Gets the last child node of this node.
+
+**Returns:**
+T
+### getLastModifiedTime() {#getLastModifiedTime--}
+```
+public Date getLastModifiedTime()
+```
+
+
+Gets or sets the last modified time.
+
+**Returns:**
+java.util.Date
+### getLevel() {#getLevel--}
+```
+public byte getLevel()
+```
+
+
+Gets or sets the level.
+
+**Returns:**
+byte
+### getMargin() {#getMargin--}
+```
+public Margins getMargin()
+```
+
+
+Gets or sets the margin.
+
+**Returns:**
+[Margins](../../com.aspose.note/margins)
+### getNextSibling() {#getNextSibling--}
+```
+public INode getNextSibling()
+```
+
+
+Gets the next node at the same node tree level.
+
+Value: The next sibling.
+
+**Returns:**
+[INode](../../com.aspose.note/inode)
+### getNodeId() {#getNodeId--}
+```
+public ExtendedGuid getNodeId()
+```
+
+
+Gets the node's ID.
+
+**Returns:**
+[ExtendedGuid](../../com.aspose.note.revision.types/extendedguid)
+### getNodeType() {#getNodeType--}
+```
+public int getNodeType()
+```
+
+
+Gets the node type.
 
 **Returns:**
 int
-### setSizeType(int value) {#setSizeType-int-}
+### getPageContentRevisionSummary() {#getPageContentRevisionSummary--}
 ```
-public final void setSizeType(int value)
+public RevisionSummary getPageContentRevisionSummary()
 ```
 
 
-Gets or sets the size type of a page.
+Gets or sets the revision summary for the page and it's child nodes.
 
---------------------
-
-By default, a page resizes automatically. The default value is [PageSizeType.SizeByContent](../../com.aspose.note/pagesizetype\#SizeByContent).
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int |  |
-
+**Returns:**
+[RevisionSummary](../../com.aspose.note/revisionsummary)
 ### getPageLayoutSize() {#getPageLayoutSize--}
 ```
 public final Dimension2D getPageLayoutSize()
@@ -289,23 +371,102 @@ This value is used by Microsoft OneNote application to display underlying page l
 
 **Returns:**
 java.awt.geom.Dimension2D
-### setPageLayoutSize(Dimension2D value) {#setPageLayoutSize-java.awt.geom.Dimension2D-}
+### getParentNode() {#getParentNode--}
 ```
-public final void setPageLayoutSize(Dimension2D value)
+public ICompositeNode getParentNode()
 ```
 
 
-Sets page's layout size displayed in the editor.
+Gets the parent node.
+
+**Returns:**
+[ICompositeNode](../../com.aspose.note/icompositenode)
+### getPreviousSibling() {#getPreviousSibling--}
+```
+public INode getPreviousSibling()
+```
+
+
+Gets the previous node at the same node tree level.
+
+Value: The previous sibling.
+
+**Returns:**
+[INode](../../com.aspose.note/inode)
+### getSizeType() {#getSizeType--}
+```
+public final int getSizeType()
+```
+
+
+Gets or sets the size type of a page.
 
 --------------------
 
-This value is used by Microsoft OneNote application to display underlying page layout when document is opened. It doesn't affect printing and saving of the document anyway. When Page.SizeType property is set to PageSizeType.SizeByContent this property returns real size of the content.
+By default, a page resizes automatically. The default value is [PageSizeType.SizeByContent](../../com.aspose.note/pagesizetype\#SizeByContent).
+
+**Returns:**
+int
+### getTitle() {#getTitle--}
+```
+public Title getTitle()
+```
+
+
+Gets or sets the title.
+
+Value: The  Title .
+
+**Returns:**
+[Title](../../com.aspose.note/title)
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### insertChildrenRange(int i, T[] newChildren) {#insertChildrenRange-int-T...-}
+```
+public final void insertChildrenRange(int i, T[] newChildren)
+```
+
+
+Inserts the node's sequence starting from specified position in the list of child nodes for this node.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.awt.geom.Dimension2D |  |
+| i | int | Position to insert |
+| newChildren | T[] | The sequence of nodes to be inserted. |
 
+### insertChildrenRange(int i, Iterable<T> newChildren) {#insertChildrenRange-int-java.lang.Iterable-T--}
+```
+public final void insertChildrenRange(int i, Iterable<T> newChildren)
+```
+
+
+Inserts the node's sequence starting from specified position in the list of child nodes for this node.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| i | int | Position to insert |
+| newChildren | java.lang.Iterable<T> | The sequence of nodes to be inserted. |
+
+### isComposite() {#isComposite--}
+```
+public final boolean isComposite()
+```
+
+
+Checks whether the node is composite. If true then the node can have child nodes.
+
+**Returns:**
+boolean
 ### isConflictPage() {#isConflictPage--}
 ```
 public final boolean isConflictPage()
@@ -324,6 +485,58 @@ Detailed sample of manipulating by conflict page can be found in the online docu
 
 **Returns:**
 boolean
+### iterator() {#iterator--}
+```
+public System.Collections.Generic.IGenericEnumerator<T> iterator()
+```
+
+
+Returns an enumerator that iterates through child nodes of the  CompositeNode\{T\} .
+
+**Returns:**
+com.aspose.ms.System.Collections.Generic.IGenericEnumerator<T> - A  T:IEnumerator1  for the  CompositeNode\{T\} .
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setAuthor(String value) {#setAuthor-java.lang.String-}
+```
+public void setAuthor(String value)
+```
+
+
+Gets or sets the author.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
+
+### setBackgroundColor(Color value) {#setBackgroundColor-java.awt.Color-}
+```
+public final void setBackgroundColor(Color value)
+```
+
+
+Gets or sets page's background color.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.awt.Color |  |
+
 ### setConflictPage(boolean value) {#setConflictPage-boolean-}
 ```
 public final void setConflictPage(boolean value)
@@ -345,41 +558,162 @@ Detailed sample of manipulating by conflict page can be found in the online docu
 | --- | --- | --- |
 | value | boolean |  |
 
-### accept(DocumentVisitor visitor) {#accept-com.aspose.note.DocumentVisitor-}
+### setCreationTime(Date value) {#setCreationTime-java.util.Date-}
 ```
-public void accept(DocumentVisitor visitor)
+public void setCreationTime(Date value)
 ```
 
 
-Accepts the visitor of the node.
+Gets or sets the creation time.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | [DocumentVisitor](../../com.aspose.note/documentvisitor) | The object of a class derived from the  DocumentVisitor . |
+| value | java.util.Date |  |
 
-### deepClone(boolean cloneHistory) {#deepClone-boolean-}
+### setLastModifiedTime(Date value) {#setLastModifiedTime-java.util.Date-}
 ```
-public final Page deepClone(boolean cloneHistory)
+public void setLastModifiedTime(Date value)
 ```
 
 
-Clones the page.
+Gets or sets the last modified time.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cloneHistory | boolean | Specifies if page's history should be cloned.. |
+| value | java.util.Date |  |
 
-**Returns:**
-[Page](../../com.aspose.note/page) - A clone of the page.
-### deepClone() {#deepClone--}
+### setLevel(byte value) {#setLevel-byte-}
 ```
-public final Page deepClone()
+public void setLevel(byte value)
 ```
 
 
-Clones the page.
+Gets or sets the level.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | byte |  |
+
+### setMargin(Margins value) {#setMargin-com.aspose.note.Margins-}
+```
+public void setMargin(Margins value)
+```
+
+
+Gets or sets the margin.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Margins](../../com.aspose.note/margins) |  |
+
+### setPageContentRevisionSummary(RevisionSummary value) {#setPageContentRevisionSummary-com.aspose.note.RevisionSummary-}
+```
+public void setPageContentRevisionSummary(RevisionSummary value)
+```
+
+
+Gets or sets the revision summary for the page and it's child nodes.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [RevisionSummary](../../com.aspose.note/revisionsummary) |  |
+
+### setPageLayoutSize(Dimension2D value) {#setPageLayoutSize-java.awt.geom.Dimension2D-}
+```
+public final void setPageLayoutSize(Dimension2D value)
+```
+
+
+Sets page's layout size displayed in the editor.
+
+--------------------
+
+This value is used by Microsoft OneNote application to display underlying page layout when document is opened. It doesn't affect printing and saving of the document anyway. When Page.SizeType property is set to PageSizeType.SizeByContent this property returns real size of the content.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.awt.geom.Dimension2D |  |
+
+### setSizeType(int value) {#setSizeType-int-}
+```
+public final void setSizeType(int value)
+```
+
+
+Gets or sets the size type of a page.
+
+--------------------
+
+By default, a page resizes automatically. The default value is [PageSizeType.SizeByContent](../../com.aspose.note/pagesizetype\#SizeByContent).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
+### setTitle(Title value) {#setTitle-com.aspose.note.Title-}
+```
+public void setTitle(Title value)
+```
+
+
+Gets or sets the title.
+
+Value: The  Title .
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Title](../../com.aspose.note/title) |  |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
 
 **Returns:**
-[Page](../../com.aspose.note/page) - A clone of the page.
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

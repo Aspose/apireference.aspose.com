@@ -3,7 +3,7 @@ title: TableColumn
 second_title: Aspose.Note for Java API Reference
 description: Represents a table column.
 type: docs
-weight: 78
+weight: 89
 url: /java/com.aspose.note/tablecolumn/
 ---
 
@@ -23,16 +23,60 @@ Represents a table column.
 
 | Method | Description |
 | --- | --- |
-| [getWidth()](#getWidth--) | Gets the width. |
-| [setWidth(float value)](#setWidth-float-) | Sets the width. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getLockedWidth()](#getLockedWidth--) | Gets a value indicating whether a table column has locked width and does not resize automatically to fit table content. |
+| [getWidth()](#getWidth--) | Gets the width. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [setLockedWidth(boolean value)](#setLockedWidth-boolean-) | Sets a value indicating whether a table column has locked width and does not resize automatically to fit table content. |
+| [setWidth(float value)](#setWidth-float-) | Sets the width. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### TableColumn() {#TableColumn--}
 ```
 public TableColumn()
 ```
 
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getLockedWidth() {#getLockedWidth--}
+```
+public boolean getLockedWidth()
+```
+
+
+Gets a value indicating whether a table column has locked width and does not resize automatically to fit table content. By default, column width is not locked.
+
+**Returns:**
+boolean
 ### getWidth() {#getWidth--}
 ```
 public float getWidth()
@@ -43,6 +87,45 @@ Gets the width.
 
 **Returns:**
 float
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setLockedWidth(boolean value) {#setLockedWidth-boolean-}
+```
+public void setLockedWidth(boolean value)
+```
+
+
+Sets a value indicating whether a table column has locked width and does not resize automatically to fit table content. By default, column width is not locked.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
+
 ### setWidth(float value) {#setWidth-float-}
 ```
 public void setWidth(float value)
@@ -56,26 +139,48 @@ Sets the width.
 | --- | --- | --- |
 | value | float |  |
 
-### getLockedWidth() {#getLockedWidth--}
+### toString() {#toString--}
 ```
-public boolean getLockedWidth()
+public String toString()
 ```
 
 
-Gets a value indicating whether a table column has locked width and does not resize automatically to fit table content. By default, column width is not locked.
+
 
 **Returns:**
-boolean
-### setLockedWidth(boolean value) {#setLockedWidth-boolean-}
+java.lang.String
+### wait() {#wait--}
 ```
-public void setLockedWidth(boolean value)
+public final void wait()
 ```
 
 
-Sets a value indicating whether a table column has locked width and does not resize automatically to fit table content. By default, column width is not locked.
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean |  |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

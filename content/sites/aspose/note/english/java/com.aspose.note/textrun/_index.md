@@ -3,7 +3,7 @@ title: TextRun
 second_title: Aspose.Note for Java API Reference
 description: The class representing a piece of text with associated style.
 type: docs
-weight: 81
+weight: 92
 url: /java/com.aspose.note/textrun/
 ---
 
@@ -26,11 +26,20 @@ The class representing a piece of text with associated style.
 
 | Method | Description |
 | --- | --- |
-| [getText()](#getText--) | Gets the text. |
-| [setText(String value)](#setText-java.lang.String-) | Sets the text. |
-| [getStyle()](#getStyle--) | Gets the style. |
-| [setStyle(TextStyle value)](#setStyle-com.aspose.note.TextStyle-) | Sets the style. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getLength()](#getLength--) | Gets the length of the associated text. |
+| [getStyle()](#getStyle--) | Gets the style. |
+| [getText()](#getText--) | Gets the text. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setStyle(TextStyle value)](#setStyle-com.aspose.note.TextStyle-) | Sets the style. |
+| [setText(String value)](#setText-java.lang.String-) | Sets the text. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### TextRun(String text, TextStyle style) {#TextRun-java.lang.String-com.aspose.note.TextStyle-}
 ```
 public TextRun(String text, TextStyle style)
@@ -79,29 +88,41 @@ public TextRun()
 
 Initializes a new instance of the [TextRun](../../com.aspose.note/textrun) class with empty text and default style.
 
-### getText() {#getText--}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public final String getText()
-```
-
-
-Gets the text.
-
-**Returns:**
-java.lang.String
-### setText(String value) {#setText-java.lang.String-}
-```
-public final void setText(String value)
+public boolean equals(Object arg0)
 ```
 
 
-Sets the text.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.String |  |
+| arg0 | java.lang.Object |  |
 
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getLength() {#getLength--}
+```
+public final int getLength()
+```
+
+
+Gets the length of the associated text.
+
+**Returns:**
+int
 ### getStyle() {#getStyle--}
 ```
 public final TextStyle getStyle()
@@ -112,6 +133,42 @@ Gets the style.
 
 **Returns:**
 [TextStyle](../../com.aspose.note/textstyle)
+### getText() {#getText--}
+```
+public final String getText()
+```
+
+
+Gets the text.
+
+**Returns:**
+java.lang.String
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setStyle(TextStyle value) {#setStyle-com.aspose.note.TextStyle-}
 ```
 public final void setStyle(TextStyle value)
@@ -125,13 +182,61 @@ Sets the style.
 | --- | --- | --- |
 | value | [TextStyle](../../com.aspose.note/textstyle) |  |
 
-### getLength() {#getLength--}
+### setText(String value) {#setText-java.lang.String-}
 ```
-public final int getLength()
+public final void setText(String value)
 ```
 
 
-Gets the length of the associated text.
+Sets the text.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
 
 **Returns:**
-int
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

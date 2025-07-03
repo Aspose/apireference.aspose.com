@@ -3,7 +3,7 @@ title: Outline
 second_title: Aspose.Note for Java API Reference
 description: Represents a Outline.
 type: docs
-weight: 56
+weight: 66
 url: /java/com.aspose.note/outline/
 ---
 
@@ -26,24 +26,53 @@ Represents a Outline.
 
 | Method | Description |
 | --- | --- |
-| [getLastModifiedTime()](#getLastModifiedTime--) | Gets or sets the last modified time. |
-| [setLastModifiedTime(Date value)](#setLastModifiedTime-java.util.Date-) | Gets or sets the last modified time. |
-| [getMaxWidth()](#getMaxWidth--) | Gets or sets the max width. |
-| [setMaxWidth(float value)](#setMaxWidth-float-) | Gets or sets the max width. |
-| [getMinWidth()](#getMinWidth--) | Gets or sets the min width. |
-| [setMinWidth(float value)](#setMinWidth-float-) | Gets or sets the min width. |
-| [getMaxHeight()](#getMaxHeight--) | Gets or sets the max height. |
-| [setMaxHeight(float value)](#setMaxHeight-float-) | Gets or sets the max height. |
-| [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset. |
-| [setHorizontalOffset(float value)](#setHorizontalOffset-float-) | Gets or sets the horizontal offset. |
-| [getVerticalOffset()](#getVerticalOffset--) | Gets or sets the vertical offset. |
-| [setVerticalOffset(float value)](#setVerticalOffset-float-) | Gets or sets the vertical offset. |
-| [getReservedWidth()](#getReservedWidth--) | Gets or sets the reserved width. |
-| [setReservedWidth(float value)](#setReservedWidth-float-) | Gets or sets the reserved width. |
-| [getDescendantsCannotBeMoved()](#getDescendantsCannotBeMoved--) | Gets whether descendants of the outline can be moved. |
-| [setDescendantsCannotBeMoved(boolean value)](#setDescendantsCannotBeMoved-boolean-) | Gets whether descendants of the outline can be moved. |
-| [getInternalIndentPosition()](#getInternalIndentPosition--) |  |
+| [<T1>appendChildFirst(T1 newChild)](#-T1-appendChildFirst-T1-) | Adds the node to the front of the list of child nodes for this node. |
+| [<T1>appendChildLast(T1 newChild)](#-T1-appendChildLast-T1-) | Adds the node to the end of the list of child nodes for this node. |
+| [<T1>getChildNodes(Class<T1> typeParameterClass)](#-T1-getChildNodes-java.lang.Class-T1--) | Get all child nodes by the node type. |
+| [<T1>insertChild(int i, T1 newChild)](#-T1-insertChild-int-T1-) | Inserts the node to the specified position in the list of child nodes for this node. |
+| [<T1>removeChild(T1 oldChild)](#-T1-removeChild-T1-) | Removes the child node. |
 | [accept(DocumentVisitor visitor)](#accept-com.aspose.note.DocumentVisitor-) | Accepts the visitor of the node. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getDescendantsCannotBeMoved()](#getDescendantsCannotBeMoved--) | Gets whether descendants of the outline can be moved. |
+| [getDocument()](#getDocument--) | Gets the document of the node. |
+| [getFirstChild()](#getFirstChild--) | Gets the first child node of this node. |
+| [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset. |
+| [getIndentPosition()](#getIndentPosition--) | Gets or sets the indent position. |
+| [getInternalIndentPosition()](#getInternalIndentPosition--) |  |
+| [getLastChild()](#getLastChild--) | Gets the last child node of this node. |
+| [getLastModifiedTime()](#getLastModifiedTime--) | Gets or sets the last modified time. |
+| [getMaxHeight()](#getMaxHeight--) | Gets or sets the max height. |
+| [getMaxWidth()](#getMaxWidth--) | Gets or sets the max width. |
+| [getMinWidth()](#getMinWidth--) | Gets or sets the min width. |
+| [getNextSibling()](#getNextSibling--) | Gets the next node at the same node tree level. |
+| [getNodeId()](#getNodeId--) | Gets the node's ID. |
+| [getNodeType()](#getNodeType--) | Gets the node type. |
+| [getParentNode()](#getParentNode--) | Gets the parent node. |
+| [getPreviousSibling()](#getPreviousSibling--) | Gets the previous node at the same node tree level. |
+| [getReservedWidth()](#getReservedWidth--) | Gets or sets the reserved width. |
+| [getVerticalOffset()](#getVerticalOffset--) | Gets or sets the vertical offset. |
+| [hashCode()](#hashCode--) |  |
+| [insertChildrenRange(int i, T[] newChildren)](#insertChildrenRange-int-T...-) | Inserts the node's sequence starting from specified position in the list of child nodes for this node. |
+| [insertChildrenRange(int i, Iterable<T> newChildren)](#insertChildrenRange-int-java.lang.Iterable-T--) | Inserts the node's sequence starting from specified position in the list of child nodes for this node. |
+| [isComposite()](#isComposite--) | Checks whether the node is composite. |
+| [iterator()](#iterator--) | Returns an enumerator that iterates through child nodes of the  CompositeNode\{T\} . |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setDescendantsCannotBeMoved(boolean value)](#setDescendantsCannotBeMoved-boolean-) | Gets whether descendants of the outline can be moved. |
+| [setHorizontalOffset(float value)](#setHorizontalOffset-float-) | Gets or sets the horizontal offset. |
+| [setIndentPosition(byte value)](#setIndentPosition-byte-) | Gets or sets the indent position. |
+| [setIndentPosition(int value)](#setIndentPosition-int-) |  |
+| [setLastModifiedTime(Date value)](#setLastModifiedTime-java.util.Date-) | Gets or sets the last modified time. |
+| [setMaxHeight(float value)](#setMaxHeight-float-) | Gets or sets the max height. |
+| [setMaxWidth(float value)](#setMaxWidth-float-) | Gets or sets the max width. |
+| [setMinWidth(float value)](#setMinWidth-float-) | Gets or sets the min width. |
+| [setReservedWidth(float value)](#setReservedWidth-float-) | Gets or sets the reserved width. |
+| [setVerticalOffset(float value)](#setVerticalOffset-float-) | Gets or sets the vertical offset. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Outline() {#Outline--}
 ```
 public Outline()
@@ -52,167 +81,122 @@ public Outline()
 
 Initializes a new instance of the [Outline](../../com.aspose.note/outline) class.
 
-### getLastModifiedTime() {#getLastModifiedTime--}
+### <T1>appendChildFirst(T1 newChild) {#-T1-appendChildFirst-T1-}
 ```
-public Date getLastModifiedTime()
-```
-
-
-Gets or sets the last modified time.
-
-**Returns:**
-java.util.Date
-### setLastModifiedTime(Date value) {#setLastModifiedTime-java.util.Date-}
-```
-public void setLastModifiedTime(Date value)
+public T1 <T1>appendChildFirst(T1 newChild)
 ```
 
 
-Gets or sets the last modified time.
+Adds the node to the front of the list of child nodes for this node.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.util.Date |  |
-
-### getMaxWidth() {#getMaxWidth--}
-```
-public float getMaxWidth()
-```
-
-
-Gets or sets the max width.
+| newChild | T1 | The node to add. |
 
 **Returns:**
-float
-### setMaxWidth(float value) {#setMaxWidth-float-}
+T1 - The added node.
+### <T1>appendChildLast(T1 newChild) {#-T1-appendChildLast-T1-}
 ```
-public void setMaxWidth(float value)
+public T1 <T1>appendChildLast(T1 newChild)
 ```
 
 
-Gets or sets the max width.
+Adds the node to the end of the list of child nodes for this node.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float |  |
-
-### getMinWidth() {#getMinWidth--}
-```
-public float getMinWidth()
-```
-
-
-Gets or sets the min width.
+| newChild | T1 | The node to add. |
 
 **Returns:**
-float
-### setMinWidth(float value) {#setMinWidth-float-}
+T1 - The added node.
+### <T1>getChildNodes(Class<T1> typeParameterClass) {#-T1-getChildNodes-java.lang.Class-T1--}
 ```
-public void setMinWidth(float value)
+public List<T1> <T1>getChildNodes(Class<T1> typeParameterClass)
 ```
 
 
-Gets or sets the min width.
+Get all child nodes by the node type.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float |  |
-
-### getMaxHeight() {#getMaxHeight--}
-```
-public float getMaxHeight()
-```
-
-
-Gets or sets the max height.
+| typeParameterClass | java.lang.Class<T1> |  |
 
 **Returns:**
-float
-### setMaxHeight(float value) {#setMaxHeight-float-}
+java.util.List<T1> - A list of child nodes.
+
+ T1 : The type of elements in the returned list.
+### <T1>insertChild(int i, T1 newChild) {#-T1-insertChild-int-T1-}
 ```
-public void setMaxHeight(float value)
+public T1 <T1>insertChild(int i, T1 newChild)
 ```
 
 
-Gets or sets the max height.
+Inserts the node to the specified position in the list of child nodes for this node.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float |  |
-
-### getHorizontalOffset() {#getHorizontalOffset--}
-```
-public float getHorizontalOffset()
-```
-
-
-Gets or sets the horizontal offset.
+| i | int | Position to insert |
+| newChild | T1 | The node to insert. |
 
 **Returns:**
-float
-### setHorizontalOffset(float value) {#setHorizontalOffset-float-}
+T1 - The added node.
+### <T1>removeChild(T1 oldChild) {#-T1-removeChild-T1-}
 ```
-public void setHorizontalOffset(float value)
+public T1 <T1>removeChild(T1 oldChild)
 ```
 
 
-Gets or sets the horizontal offset.
+Removes the child node.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float |  |
-
-### getVerticalOffset() {#getVerticalOffset--}
-```
-public float getVerticalOffset()
-```
-
-
-Gets or sets the vertical offset.
+| oldChild | T1 | The node to remove. |
 
 **Returns:**
-float
-### setVerticalOffset(float value) {#setVerticalOffset-float-}
+T1 - The removed node.
+### accept(DocumentVisitor visitor) {#accept-com.aspose.note.DocumentVisitor-}
 ```
-public void setVerticalOffset(float value)
+public void accept(DocumentVisitor visitor)
 ```
 
 
-Gets or sets the vertical offset.
+Accepts the visitor of the node.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float |  |
+| visitor | [DocumentVisitor](../../com.aspose.note/documentvisitor) | The object of a class derived from the  DocumentVisitor . |
 
-### getReservedWidth() {#getReservedWidth--}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public float getReservedWidth()
-```
-
-
-Gets or sets the reserved width.
-
-**Returns:**
-float
-### setReservedWidth(float value) {#setReservedWidth-float-}
-```
-public void setReservedWidth(float value)
+public boolean equals(Object arg0)
 ```
 
 
-Gets or sets the reserved width.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float |  |
+| arg0 | java.lang.Object |  |
 
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getDescendantsCannotBeMoved() {#getDescendantsCannotBeMoved--}
 ```
 public boolean getDescendantsCannotBeMoved()
@@ -223,6 +207,256 @@ Gets whether descendants of the outline can be moved.
 
 **Returns:**
 boolean
+### getDocument() {#getDocument--}
+```
+public Document getDocument()
+```
+
+
+Gets the document of the node.
+
+Value: The document.
+
+**Returns:**
+[Document](../../com.aspose.note/document)
+### getFirstChild() {#getFirstChild--}
+```
+public T getFirstChild()
+```
+
+
+Gets the first child node of this node.
+
+**Returns:**
+T
+### getHorizontalOffset() {#getHorizontalOffset--}
+```
+public float getHorizontalOffset()
+```
+
+
+Gets or sets the horizontal offset.
+
+**Returns:**
+float
+### getIndentPosition() {#getIndentPosition--}
+```
+public final byte getIndentPosition()
+```
+
+
+Gets or sets the indent position.
+
+**Returns:**
+byte
+### getInternalIndentPosition() {#getInternalIndentPosition--}
+```
+public int getInternalIndentPosition()
+```
+
+
+Gets the amount of items to sum up in RgOutlineIndentDistance array to get indent size.
+
+**Returns:**
+int
+### getLastChild() {#getLastChild--}
+```
+public T getLastChild()
+```
+
+
+Gets the last child node of this node.
+
+**Returns:**
+T
+### getLastModifiedTime() {#getLastModifiedTime--}
+```
+public Date getLastModifiedTime()
+```
+
+
+Gets or sets the last modified time.
+
+**Returns:**
+java.util.Date
+### getMaxHeight() {#getMaxHeight--}
+```
+public float getMaxHeight()
+```
+
+
+Gets or sets the max height.
+
+**Returns:**
+float
+### getMaxWidth() {#getMaxWidth--}
+```
+public float getMaxWidth()
+```
+
+
+Gets or sets the max width.
+
+**Returns:**
+float
+### getMinWidth() {#getMinWidth--}
+```
+public float getMinWidth()
+```
+
+
+Gets or sets the min width.
+
+**Returns:**
+float
+### getNextSibling() {#getNextSibling--}
+```
+public INode getNextSibling()
+```
+
+
+Gets the next node at the same node tree level.
+
+Value: The next sibling.
+
+**Returns:**
+[INode](../../com.aspose.note/inode)
+### getNodeId() {#getNodeId--}
+```
+public ExtendedGuid getNodeId()
+```
+
+
+Gets the node's ID.
+
+**Returns:**
+[ExtendedGuid](../../com.aspose.note.revision.types/extendedguid)
+### getNodeType() {#getNodeType--}
+```
+public int getNodeType()
+```
+
+
+Gets the node type.
+
+**Returns:**
+int
+### getParentNode() {#getParentNode--}
+```
+public ICompositeNode getParentNode()
+```
+
+
+Gets the parent node.
+
+**Returns:**
+[ICompositeNode](../../com.aspose.note/icompositenode)
+### getPreviousSibling() {#getPreviousSibling--}
+```
+public INode getPreviousSibling()
+```
+
+
+Gets the previous node at the same node tree level.
+
+Value: The previous sibling.
+
+**Returns:**
+[INode](../../com.aspose.note/inode)
+### getReservedWidth() {#getReservedWidth--}
+```
+public float getReservedWidth()
+```
+
+
+Gets or sets the reserved width.
+
+**Returns:**
+float
+### getVerticalOffset() {#getVerticalOffset--}
+```
+public float getVerticalOffset()
+```
+
+
+Gets or sets the vertical offset.
+
+**Returns:**
+float
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### insertChildrenRange(int i, T[] newChildren) {#insertChildrenRange-int-T...-}
+```
+public final void insertChildrenRange(int i, T[] newChildren)
+```
+
+
+Inserts the node's sequence starting from specified position in the list of child nodes for this node.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| i | int | Position to insert |
+| newChildren | T[] | The sequence of nodes to be inserted. |
+
+### insertChildrenRange(int i, Iterable<T> newChildren) {#insertChildrenRange-int-java.lang.Iterable-T--}
+```
+public final void insertChildrenRange(int i, Iterable<T> newChildren)
+```
+
+
+Inserts the node's sequence starting from specified position in the list of child nodes for this node.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| i | int | Position to insert |
+| newChildren | java.lang.Iterable<T> | The sequence of nodes to be inserted. |
+
+### isComposite() {#isComposite--}
+```
+public final boolean isComposite()
+```
+
+
+Checks whether the node is composite. If true then the node can have child nodes.
+
+**Returns:**
+boolean
+### iterator() {#iterator--}
+```
+public System.Collections.Generic.IGenericEnumerator<T> iterator()
+```
+
+
+Returns an enumerator that iterates through child nodes of the  CompositeNode\{T\} .
+
+**Returns:**
+com.aspose.ms.System.Collections.Generic.IGenericEnumerator<T> - A  T:IEnumerator1  for the  CompositeNode\{T\} .
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setDescendantsCannotBeMoved(boolean value) {#setDescendantsCannotBeMoved-boolean-}
 ```
 public void setDescendantsCannotBeMoved(boolean value)
@@ -236,26 +470,169 @@ Gets whether descendants of the outline can be moved.
 | --- | --- | --- |
 | value | boolean |  |
 
-### getInternalIndentPosition() {#getInternalIndentPosition--}
+### setHorizontalOffset(float value) {#setHorizontalOffset-float-}
 ```
-public int getInternalIndentPosition()
-```
-
-
-Gets the amount of items to sum up in RgOutlineIndentDistance array to get indent size.
-
-**Returns:**
-int
-### accept(DocumentVisitor visitor) {#accept-com.aspose.note.DocumentVisitor-}
-```
-public void accept(DocumentVisitor visitor)
+public void setHorizontalOffset(float value)
 ```
 
 
-Accepts the visitor of the node.
+Gets or sets the horizontal offset.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | [DocumentVisitor](../../com.aspose.note/documentvisitor) | The object of a class derived from the  DocumentVisitor . |
+| value | float |  |
+
+### setIndentPosition(byte value) {#setIndentPosition-byte-}
+```
+public final Self setIndentPosition(byte value)
+```
+
+
+Gets or sets the indent position.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | byte |  |
+
+**Returns:**
+Self
+### setIndentPosition(int value) {#setIndentPosition-int-}
+```
+public final Self setIndentPosition(int value)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
+**Returns:**
+Self
+### setLastModifiedTime(Date value) {#setLastModifiedTime-java.util.Date-}
+```
+public void setLastModifiedTime(Date value)
+```
+
+
+Gets or sets the last modified time.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.util.Date |  |
+
+### setMaxHeight(float value) {#setMaxHeight-float-}
+```
+public void setMaxHeight(float value)
+```
+
+
+Gets or sets the max height.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float |  |
+
+### setMaxWidth(float value) {#setMaxWidth-float-}
+```
+public void setMaxWidth(float value)
+```
+
+
+Gets or sets the max width.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float |  |
+
+### setMinWidth(float value) {#setMinWidth-float-}
+```
+public void setMinWidth(float value)
+```
+
+
+Gets or sets the min width.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float |  |
+
+### setReservedWidth(float value) {#setReservedWidth-float-}
+```
+public void setReservedWidth(float value)
+```
+
+
+Gets or sets the reserved width.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float |  |
+
+### setVerticalOffset(float value) {#setVerticalOffset-float-}
+```
+public void setVerticalOffset(float value)
+```
+
+
+Gets or sets the vertical offset.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float |  |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 
