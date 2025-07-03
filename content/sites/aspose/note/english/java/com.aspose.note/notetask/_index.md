@@ -26,26 +26,12 @@ Represents a note task.
 | [createNoFollowUpDate()](#createNoFollowUpDate--) | \* Creates a new note tag with NoFollowUpDateFlag icon. |
 | [equals(NoteTask other)](#equals-com.aspose.note.NoteTask-) | Determines whether the specified object is equal to the current object. |
 | [equals(Object obj)](#equals-java.lang.Object-) | Determines whether the specified object is equal to the current object. |
-| [getChecked()](#getChecked--) | Gets a value indicating whether the CheckBox is in the checked state. |
-| [getClass()](#getClass--) |  |
-| [getCompletedTime()](#getCompletedTime--) | Gets or sets the completed time. |
-| [getCreationTime()](#getCreationTime--) | Gets or sets the creation time. |
 | [getDueDate()](#getDueDate--) | Gets or sets the due date. |
 | [getIcon()](#getIcon--) | Gets or sets the icon. |
 | [getLabel()](#getLabel--) |  |
-| [getStatus()](#getStatus--) | Gets or sets the status. |
 | [hashCode()](#hashCode--) | Serves as a hash function for the type. |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setCompleted()](#setCompleted--) | Sets the tag to completed state using current time as completed time. |
-| [setCompleted(Date completedTime)](#setCompleted-java.util.Date-) | Sets the tag to completed state. |
-| [setCreationTime(Date value)](#setCreationTime-java.util.Date-) | Gets or sets the creation time. |
 | [setDueDate(Date value)](#setDueDate-java.util.Date-) | Gets or sets the due date. |
 | [setOpen()](#setOpen--) | Sets the tag to open state. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### createCustomFollowUpDate(Date dueDate) {#createCustomFollowUpDate-java.util.Date-}
 ```
 public static NoteTask createCustomFollowUpDate(Date dueDate)
@@ -125,7 +111,7 @@ Determines whether the specified object is equal to the current object.
 | other | [NoteTask](../../com.aspose.note/notetask) | The object. |
 
 **Returns:**
-boolean - The  bool .
+boolean - The `bool`.
 ### equals(Object obj) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object obj)
@@ -140,51 +126,7 @@ Determines whether the specified object is equal to the current object.
 | obj | java.lang.Object | The object. |
 
 **Returns:**
-boolean - The  bool .
-### getChecked() {#getChecked--}
-```
-public final boolean getChecked()
-```
-
-
-Gets a value indicating whether the CheckBox is in the checked state.
-
-**Returns:**
-boolean
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getCompletedTime() {#getCompletedTime--}
-```
-public final Date getCompletedTime()
-```
-
-
-Gets or sets the completed time.
-
-Value: The  Nullable\{DateTime\} .
-
-**Returns:**
-java.util.Date
-### getCreationTime() {#getCreationTime--}
-```
-public final Date getCreationTime()
-```
-
-
-Gets or sets the creation time.
-
-Value: The java.util.Date.
-
-**Returns:**
-java.util.Date
+boolean - The `bool`.
 ### getDueDate() {#getDueDate--}
 ```
 public Date getDueDate()
@@ -193,7 +135,7 @@ public Date getDueDate()
 
 Gets or sets the due date.
 
-Value: The  DateTime .
+Value: The `DateTime`.
 
 **Returns:**
 java.util.Date
@@ -219,18 +161,6 @@ public String getLabel()
 
 **Returns:**
 java.lang.String
-### getStatus() {#getStatus--}
-```
-public final int getStatus()
-```
-
-
-Gets or sets the status.
-
-Value: The [TagStatus](../../com.aspose.note/tagstatus).
-
-**Returns:**
-int
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()
@@ -240,59 +170,7 @@ public int hashCode()
 Serves as a hash function for the type.
 
 **Returns:**
-int - The  int .
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setCompleted() {#setCompleted--}
-```
-public final void setCompleted()
-```
-
-
-Sets the tag to completed state using current time as completed time.
-
-### setCompleted(Date completedTime) {#setCompleted-java.util.Date-}
-```
-public final void setCompleted(Date completedTime)
-```
-
-
-Sets the tag to completed state.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| completedTime | java.util.Date | The completed time. |
-
-### setCreationTime(Date value) {#setCreationTime-java.util.Date-}
-```
-public final void setCreationTime(Date value)
-```
-
-
-Gets or sets the creation time.
-
-Value: The java.util.Date.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.util.Date |  |
-
+int - The `int`.
 ### setDueDate(Date value) {#setDueDate-java.util.Date-}
 ```
 public void setDueDate(Date value)
@@ -301,7 +179,7 @@ public void setDueDate(Date value)
 
 Gets or sets the due date.
 
-Value: The  DateTime .
+Value: The `DateTime`.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -315,49 +193,4 @@ public void setOpen()
 
 
 Sets the tag to open state.
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**Returns:**
-java.lang.String
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
 
