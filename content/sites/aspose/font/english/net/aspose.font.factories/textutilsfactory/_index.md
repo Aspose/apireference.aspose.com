@@ -3,7 +3,7 @@ title: Class TextUtilsFactory
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Factories.TextUtilsFactory class. Provides functionality for retrieving creators of text service objects
 type: docs
-weight: 240
+weight: 260
 url: /net/aspose.font.factories/textutilsfactory/
 ---
 ## TextUtilsFactory class
@@ -24,6 +24,7 @@ public class TextUtilsFactory
 
 | Name | Description |
 | --- | --- |
+| [GetFontCharactersMerger](../../aspose.font.factories/textutilsfactory/getfontcharactersmerger/)(Font, Font, FontType) | Gets instance of [`FontCharactersMerger`](../../aspose.font.common_fontmerger/fontcharactersmerger/) class. |
 | [GetFontMorseDecoder](../../aspose.font.factories/textutilsfactory/getfontmorsedecoder/)() | Gets [`IFontMorseDecoder`](../../aspose.font.textutils/ifontmorsedecoder/) instance. |
 | [GetFontMorseEncoder](../../aspose.font.factories/textutilsfactory/getfontmorseencoder/)() | Gets [`IFontMorseEncoder`](../../aspose.font.textutils/ifontmorseencoder/) instance. |
 | [GetMorseDecoder](../../aspose.font.factories/textutilsfactory/getmorsedecoder/)() | Gets [`IMorseDecoder`](../../aspose.font.textutils/imorsedecoder/) instance. |

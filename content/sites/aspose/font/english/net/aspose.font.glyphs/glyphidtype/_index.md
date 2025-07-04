@@ -3,7 +3,7 @@ title: Enum GlyphIdType
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Glyphs.GlyphIdType enum. Specifies types of glyph id
 type: docs
-weight: 400
+weight: 420
 url: /net/aspose.font.glyphs/glyphidtype/
 ---
 ## GlyphIdType enumeration

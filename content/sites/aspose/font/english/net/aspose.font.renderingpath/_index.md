@@ -3,7 +3,7 @@ title: Aspose.Font.RenderingPath
 second_title: Aspose.Font for .NET API Reference
 description: The Aspose.Font.RenderingPath namespace provides classes describing graphical paths objects used in Aspose.Font
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.font.renderingpath/
 ---
 The **Aspose.Font.RenderingPath** namespace provides classes describing graphical paths objects used in Aspose.Font.
