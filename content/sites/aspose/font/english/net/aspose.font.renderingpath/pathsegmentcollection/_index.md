@@ -3,7 +3,7 @@ title: Class PathSegmentCollection
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.RenderingPath.PathSegmentCollection class. Represents a path segments collection
 type: docs
-weight: 670
+weight: 690
 url: /net/aspose.font.renderingpath/pathsegmentcollection/
 ---
 ## PathSegmentCollection class

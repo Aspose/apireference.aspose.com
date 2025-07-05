@@ -3,7 +3,7 @@ title: Class FontNotSupportedOperationException
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Exceptions.FontNotSupportedOperationException class. Represents not supported operation exception. The exception can be thrown in case some operation is not supported for particular Font type
 type: docs
-weight: 200
+weight: 220
 url: /net/aspose.font.exceptions/fontnotsupportedoperationexception/
 ---
 ## FontNotSupportedOperationException class

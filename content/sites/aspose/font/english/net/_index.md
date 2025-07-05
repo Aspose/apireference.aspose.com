@@ -15,6 +15,7 @@ is_root: true
 | [Aspose.Font.Cff](./aspose.font.cff/) | The **Aspose.Font.Cff** namespace provides classes describing objects related to CFF Font format. |
 | [Aspose.Font.CffDataProviders](./aspose.font.cffdataproviders/) | The **Aspose.Font.CffDataProviders** namespace provides classes used to retrieve and update data from various CFF structures. |
 | [Aspose.Font.CffExceptions](./aspose.font.cffexceptions/) | The **Aspose.Font.CffExceptions** namespace provides classes describing exceptions related to Compact Font Format. |
+| [Aspose.Font.Common_FontMerger](./aspose.font.common_fontmerger/) | The **Aspose.Font.Common_FontMerger** namespace provides functionality for combining fonts. |
 | [Aspose.Font.Exceptions](./aspose.font.exceptions/) | The **Aspose.Font.Exceptions** namespace provides classes describing exceptions used in Aspose.Font. |
 | [Aspose.Font.Factories](./aspose.font.factories/) | The **Aspose.Font.Factories** namespace provides a family of classes used to create objects of various types. |
 | [Aspose.Font.Glyphs](./aspose.font.glyphs/) | The **Aspose.Font.Glyphs** namespace provides classes describing glyph objects. |

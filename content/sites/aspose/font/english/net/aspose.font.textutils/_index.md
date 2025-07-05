@@ -3,7 +3,7 @@ title: Aspose.Font.TextUtils
 second_title: Aspose.Font for .NET API Reference
 description: The Aspose.Font.TextUtils namespace provides classes and interfaces for text processing
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.font.textutils/
 ---
 The **Aspose.Font.TextUtils** namespace provides classes and interfaces for text processing.

@@ -3,7 +3,7 @@ title: Class TtfFontMetrics
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Ttf.TtfFontMetrics class. Represents TTF Font metrics
 type: docs
-weight: 860
+weight: 880
 url: /net/aspose.font.ttf/ttffontmetrics/
 ---
 ## TtfFontMetrics class

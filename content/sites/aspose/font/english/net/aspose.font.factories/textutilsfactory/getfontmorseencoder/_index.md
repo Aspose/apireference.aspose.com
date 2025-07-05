@@ -3,7 +3,7 @@ title: TextUtilsFactory.GetFontMorseEncoder
 second_title: Aspose.Font for .NET API Reference
 description: TextUtilsFactory method. Gets IFontMorseEncoder instance
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.font.factories/textutilsfactory/getfontmorseencoder/
 ---
 ## TextUtilsFactory.GetFontMorseEncoder method

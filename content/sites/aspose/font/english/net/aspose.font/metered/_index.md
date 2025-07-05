@@ -3,7 +3,7 @@ title: Class Metered
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Metered class. Provides methods to set metered key
 type: docs
-weight: 520
+weight: 540
 url: /net/aspose.font/metered/
 ---
 ## Metered class

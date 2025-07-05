@@ -3,7 +3,7 @@ title: Class FontFactory
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.FontFactory class. Contains functionality for opening fonts of different types and other methods for creating various objects
 type: docs
-weight: 290
+weight: 310
 url: /net/aspose.font/fontfactory/
 ---
 ## FontFactory class
