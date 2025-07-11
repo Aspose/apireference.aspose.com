@@ -12,6 +12,8 @@ The **Aspose.OCR** contains tools for image recognition, skew correction, text a
 
 | Class | Description |
 | --- | --- |
+| [AsposeAI](./asposeai) | Main API for AI component from Aspose OCR library |
+| [AsposeAIModelConfig](./asposeaimodelconfig) | Represents configuration settings for loading an LLM model. |
 | [AsposeOcr](./asposeocr) | Main API for Aspose OCR library |
 | [BaseRecognitionSettings](./baserecognitionsettings) | Settings for the image recognition. Contains elements that allow customizing the recognition process. |
 | [CarPlateRecognitionSettings](./carplaterecognitionsettings) | Settings for the car number recognition. Contains elements that allow customizing the recognition process. |

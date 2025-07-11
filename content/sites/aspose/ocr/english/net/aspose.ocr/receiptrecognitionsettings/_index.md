@@ -3,7 +3,7 @@ title: ReceiptRecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the receipt recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.ocr/receiptrecognitionsettings/
 ---
 ## ReceiptRecognitionSettings class
