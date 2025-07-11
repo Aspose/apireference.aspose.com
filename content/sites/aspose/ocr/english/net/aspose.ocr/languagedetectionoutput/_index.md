@@ -3,7 +3,7 @@ title: LanguageDetectionOutput
 second_title: Aspose.OCR for .NET API Reference
 description: Languages detected in the image text.
 type: docs
-weight: 350
+weight: 360
 url: /net/aspose.ocr/languagedetectionoutput/
 ---
 ## LanguageDetectionOutput class
@@ -24,7 +24,7 @@ public class LanguageDetectionOutput
 
 | Name | Description |
 | --- | --- |
-| [languages](../../aspose.ocr/languagedetectionoutput/languages) { get; } | A ranked list of languages detected in the image text, ordered by likelihood. |
+| [Languages](../../aspose.ocr/languagedetectionoutput/languages) { get; set; } | A ranked list of languages detected in the image text, ordered by likelihood. |
 | [Page](../../aspose.ocr/languagedetectionoutput/page) { get; set; } | Page number. |
 | [Source](../../aspose.ocr/languagedetectionoutput/source) { get; set; } | The full path to the file or URL, if any. Empty for streams, byte arrays, base64. |
 

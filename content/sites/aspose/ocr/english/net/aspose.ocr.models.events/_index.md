@@ -3,7 +3,7 @@ title: Aspose.OCR.Models.Events
 second_title: Aspose.OCR for .NET API Reference
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.ocr.models.events/
 ---
 
