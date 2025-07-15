@@ -21,7 +21,7 @@ Aspose.Page is a .NET API and is built to allow developers to work with XPS and 
 
 These are links to some useful resources:
 - [Aspose.Page for .NET API Reference](/page/net/)
-- [Aspose.Page for .NET API Tutorials](/tutorials/page/net/)
+- [Aspose.Page for .NET API Tutorials](https://tutorials.aspose.com/page/net/)
 
 
 ## Aspose.Page for Java
@@ -37,7 +37,7 @@ Aspose.Page is a Java API is built to allow developers to work with XPS and EPS/
 
 These are links to some useful resources:
 - [Aspose.Page for Java API Reference](/page/java/)
-- [Aspose.Page for Java API Tutorials](/tutorials/page/java/)
+- [Aspose.Page for Java API Tutorials](https://tutorials.aspose.com/page/java/)
 
 
 ## Aspose.Page for C++
