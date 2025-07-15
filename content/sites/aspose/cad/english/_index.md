@@ -36,7 +36,7 @@ Aspose.CAD for .NET is a cross-platform library, compatible with .NET Framework,
 
 These are links to some useful resources:
 - [Aspose.CAD for .NET API Reference](/cad/net/)
-- [Aspose.CAD for .NET API Tutorials](/tutorials/cad/net/)
+- [Aspose.CAD for .NET API Tutorials](https://tutorials.aspose.com/cad/net/)
 
 ## Aspose.CAD for Java
 
@@ -51,7 +51,7 @@ Aspose.CAD for Java is a cross-platform library, compatible with Java version 1.
 
 These are links to some useful resources:
 - [Aspose.CAD for Java API Reference](/cad/java/)
-
+- [Aspose.CAD for Java API Tutorials](https://tutorials.aspose.com/cad/java/)
 ## Aspose.CAD for JasperReports
 
 {{% alert color="primary" %}}
