@@ -23,7 +23,7 @@ The component is implemented using Managed C# and can be used with any .NET lang
 
 These are links to some useful resources:
 - [Aspose.OCR for .NET API Reference](/ocr/net/)
-
+- [Aspose.OCR for .NET API Tutorials](https://tutorials.aspose.com/ocr/net/)
 ## Aspose.OCR for Java
 
 {{% alert color="primary" %}}
@@ -40,7 +40,7 @@ Aspose.OCR for Java comes with fully featured demos and working examples written
 These are links to some useful resources:
 
 - [Aspose.OCR for Java API Reference](/ocr/java/)
-
+- [Aspose.OCR for Java API Tutorials](https://tutorials.aspose.com/ocr/java/)
 
 ## Aspose.OCR for C++
 
