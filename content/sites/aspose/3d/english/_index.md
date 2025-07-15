@@ -21,6 +21,8 @@ The API is user friendly and saves time and money than creating a similar soluti
 
 These are links to some useful resources:
 - [Aspose.3D for .NET API Reference](/3d/net/)
+- [Aspose.3D for .NET API Tutorials](https://tutorials.aspose.com/3d/net/)
+
 
 ## Aspose.3D for Java
 
@@ -37,6 +39,7 @@ The API is user friendly and saves time and money than creating a similar soluti
 
 These are links to some useful resources:
 - [Aspose.3D for Java API Reference](/3d/java/)
+- [Aspose.3D for Java API Tutorials](https://tutorials.aspose.com/3d/java/)
 
 ## Aspose.3D for Python via .NET
 
