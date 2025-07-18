@@ -98,7 +98,9 @@ class PsDocument : public Aspose::Page::Document
 | [Rotate](./rotate/)(int32_t) | Adds rotation counterclockwise about the origin to current graphics state (rotate current matrix). |
 | [Save](./save/)(System::SharedPtr\<System::IO::Stream\>) | Saves given [PsDocument](./) as [EPS](../) file. This method is used only after updating [XMP](../../aspose.page.eps.xmp/) metadata. It saves initial [EPS](../) file with updated existing metadata or new one created while calling GetMetadata method. In the last case all necessary PostScript code and [EPS](../) comments are added. |
 | [Save](./save/)() | Saves given [PsDocument](./) as [EPS](../) file. This method is used only when [PsDocument](./) was created from scratch. |
-| [SaveAsImage](./saveasimage/)(System::SharedPtr\<Device::ImageSaveOptions\>) | Saves PS/EPS file to images bytes arrays. |
+| [SaveAsImage](./saveasimage/)(System::SharedPtr\<Device::ImageSaveOptions\>) | Saves PS/EPS file to image file. The output directory and the file name will be the same as from input PS file. The file extension will correspond to image format in "option" param. |
+| [SaveAsImage](./saveasimage/)(System::SharedPtr\<Device::ImageSaveOptions\>, System::String, System::String) | Saves PS/EPS file to image file. The output directory and the file name will be the same as from input PS file. The file extension will correspond to image format in "option" param. |
+| [SaveAsImagesBytes](./saveasimagesbytes/)(System::SharedPtr\<Device::ImageSaveOptions\>) | Saves PS/EPS file to images bytes arrays. |
 | [SaveAsPdf](./saveaspdf/)(System::String, System::SharedPtr\<Device::PdfSaveOptions\>) | Saves PS/EPS file to PDF file. |
 | [SaveAsPdf](./saveaspdf/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Device::PdfSaveOptions\>) | Saves PS/EPS file to PDF stream. |
 | static [SaveImageAsEps](./saveimageaseps/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Device::PsSaveOptions\>) | Saves PNG/JPEG/TIFF/BMP/GIF/EMF image from input stream to [EPS](../) output stream. |
