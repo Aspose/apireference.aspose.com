@@ -18,9 +18,8 @@ public struct SizeF
 
 | Name | Description |
 | --- | --- |
-| [SizeF](sizef/#constructor)(#=zyi_zu_RJr3HNfCxekqwC6Y8=) |  |
-| [SizeF](sizef/#constructor_1)(SizeF) | Initializes a new instance of the `SizeF` structure from the specified existing `SizeF` structure. |
-| [SizeF](sizef/#constructor_2)(float, float) | Initializes a new instance of the `SizeF` structure from the specified dimensions. |
+| [SizeF](sizef/#constructor)(SizeF) | Initializes a new instance of the `SizeF` structure from the specified existing `SizeF` structure. |
+| [SizeF](sizef/#constructor_1)(float, float) | Initializes a new instance of the `SizeF` structure from the specified dimensions. |
 
 ## Properties
 

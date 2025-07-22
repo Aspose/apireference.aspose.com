@@ -106,7 +106,9 @@ public sealed class PsDocument : Document
 | [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate)(int) | Adds rotation counterclockwise about the origin to current graphics state (rotate current matrix). |
 | [Save](../../aspose.page.eps/psdocument/save/#save)() | Saves given `PsDocument` as EPS file. This method is used only when PsDocument was created from scratch. |
 | [Save](../../aspose.page.eps/psdocument/save/#save_1)(Stream) | Saves given `PsDocument` as EPS file. This method is used only after updating XMP metadata. It saves initial EPS file with updated existing metadata or new one created while calling GetMetadata method. In the last case all necessary PostScript code and EPS comments are added. |
-| [SaveAsImage](../../aspose.page.eps/psdocument/saveasimage/)(ImageSaveOptions) | Saves PS/EPS file to images bytes arrays. |
+| [SaveAsImage](../../aspose.page.eps/psdocument/saveasimage/#saveasimage)(ImageSaveOptions) | Saves PS/EPS file to image file. The output directory and the file name will be the same as from input PS file. The file extension will correspond to image format in "option" param.  Contains necessary parameters for saving image and flags that specify output of errors thrown during conversion. |
+| [SaveAsImage](../../aspose.page.eps/psdocument/saveasimage/#saveasimage_1)(ImageSaveOptions, string, string) |  |
+| [SaveAsImagesBytes](../../aspose.page.eps/psdocument/saveasimagesbytes/)(ImageSaveOptions) | Saves PS/EPS file to images bytes arrays. |
 | [SaveAsPdf](../../aspose.page.eps/psdocument/saveaspdf/#saveaspdf)(Stream, PdfSaveOptions) | Saves PS/EPS file to PDF stream. |
 | [SaveAsPdf](../../aspose.page.eps/psdocument/saveaspdf/#saveaspdf_1)(string, PdfSaveOptions) | Saves PS/EPS file to PDF file. |
 | [Scale](../../aspose.page.eps/psdocument/scale/)(float, float) | Adds scale to current graphics state (scale current matrix). |
