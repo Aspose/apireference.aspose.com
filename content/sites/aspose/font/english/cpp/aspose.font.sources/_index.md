@@ -4,7 +4,7 @@ linktitle: Aspose::Font::Sources
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::Sources namespace in C++.'
 type: docs
-weight: 1300
+weight: 1500
 url: /cpp/aspose.font.sources/
 ---
 

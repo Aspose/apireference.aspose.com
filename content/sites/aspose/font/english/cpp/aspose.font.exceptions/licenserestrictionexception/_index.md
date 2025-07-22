@@ -4,7 +4,7 @@ linktitle: LicenseRestrictionException
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::Exceptions::LicenseRestrictionException typedef in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.font.exceptions/licenserestrictionexception/
 ---
 ## LicenseRestrictionException typedef

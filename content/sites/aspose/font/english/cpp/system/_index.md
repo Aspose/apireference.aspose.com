@@ -4,7 +4,7 @@ linktitle: System
 second_title: Aspose.Font for C++
 description: 'How to use System namespace in C++.'
 type: docs
-weight: 2200
+weight: 2400
 url: /cpp/system/
 ---
 

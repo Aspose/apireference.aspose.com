@@ -4,7 +4,7 @@ linktitle: GetMorseDecoder
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Factories::TextUtilsFactory::GetMorseDecoder method. Gets IMorseDecoder instance in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.font.factories/textutilsfactory/getmorsedecoder/
 ---
 ## TextUtilsFactory::GetMorseDecoder method

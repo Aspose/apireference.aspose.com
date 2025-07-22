@@ -4,7 +4,7 @@ linktitle: SvgConversionException
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::Exceptions::SvgConversionException typedef in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/aspose.font.exceptions/svgconversionexception/
 ---
 ## SvgConversionException typedef

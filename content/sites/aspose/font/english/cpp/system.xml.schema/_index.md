@@ -4,7 +4,7 @@ linktitle: System::Xml::Schema
 second_title: Aspose.Font for C++
 description: 'How to use System::Xml::Schema namespace in C++.'
 type: docs
-weight: 7600
+weight: 7800
 url: /cpp/system.xml.schema/
 ---
 

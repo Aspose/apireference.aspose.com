@@ -4,7 +4,7 @@ linktitle: System::Xml::XPath
 second_title: Aspose.Font for C++
 description: 'How to use System::Xml::XPath namespace in C++.'
 type: docs
-weight: 7800
+weight: 8000
 url: /cpp/system.xml.xpath/
 ---
 

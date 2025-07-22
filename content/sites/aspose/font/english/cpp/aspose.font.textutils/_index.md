@@ -4,7 +4,7 @@ linktitle: Aspose::Font::TextUtils
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::TextUtils namespace in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/aspose.font.textutils/
 ---
 

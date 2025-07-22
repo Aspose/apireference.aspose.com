@@ -4,7 +4,7 @@ linktitle: Aspose::Font::TtfCommon
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::TtfCommon namespace in C++.'
 type: docs
-weight: 1700
+weight: 1900
 url: /cpp/aspose.font.ttfcommon/
 ---
 

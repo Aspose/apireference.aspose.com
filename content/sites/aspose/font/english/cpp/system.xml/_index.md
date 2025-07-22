@@ -4,7 +4,7 @@ linktitle: System::Xml
 second_title: Aspose.Font for C++
 description: 'How to use System::Xml namespace in C++.'
 type: docs
-weight: 7400
+weight: 7600
 url: /cpp/system.xml/
 ---
 

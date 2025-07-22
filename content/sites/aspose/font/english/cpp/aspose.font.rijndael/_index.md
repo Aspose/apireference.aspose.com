@@ -4,7 +4,7 @@ linktitle: Aspose::Font::Rijndael
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::Rijndael namespace in C++.'
 type: docs
-weight: 1200
+weight: 1400
 url: /cpp/aspose.font.rijndael/
 ---
 
