@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.page.drawing/sizef/sizef/
 ---
-## SizeF(SizeF) {#constructor_1}
+## SizeF(SizeF) {#constructor}
 
 Initializes a new instance of the [`SizeF`](../) structure from the specified existing [`SizeF`](../) structure.
 
@@ -26,21 +26,7 @@ public SizeF(SizeF size)
 
 ---
 
-## SizeF(#=zyi_zu_RJr3HNfCxekqwC6Y8=) {#constructor}
-
-```csharp
-public SizeF(#=zyi_zu_RJr3HNfCxekqwC6Y8= pt)
-```
-
-### See Also
-
-* struct [SizeF](../)
-* namespace [Aspose.Page.Drawing](../../sizef/)
-* assembly [Aspose.Page](../../../)
-
----
-
-## SizeF(float, float) {#constructor_2}
+## SizeF(float, float) {#constructor_1}
 
 Initializes a new instance of the [`SizeF`](../) structure from the specified dimensions.
 

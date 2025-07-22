@@ -87,7 +87,9 @@ This class encapsulates PS/EPS documents.
 | [save()](#save--) | Saves given PsDocument as PS file. |
 | [save(Device device, SaveOptions options)](#save-com.aspose.page.Device-com.aspose.page.SaveOptions-) | Saves PS/EPS file to a device. |
 | [save(OutputStream epsStream)](#save-java.io.OutputStream-) | Saves given PsDocument as EPS file. |
-| [saveAsImage(ImageSaveOptions options)](#saveAsImage-com.aspose.eps.device.ImageSaveOptions-) | Saves PS/EPS file to images bytes arrays. |
+| [saveAsImage(ImageSaveOptions options)](#saveAsImage-com.aspose.eps.device.ImageSaveOptions-) | Saves PS/EPS file to image file. |
+| [saveAsImage(ImageSaveOptions options, String outDir, String fileNameTemplate)](#saveAsImage-com.aspose.eps.device.ImageSaveOptions-java.lang.String-java.lang.String-) | Saves PS/EPS file to image file. |
+| [saveAsImagesBytes(ImageSaveOptions options)](#saveAsImagesBytes-com.aspose.eps.device.ImageSaveOptions-) | Saves PS/EPS file to images bytes arrays. |
 | [saveAsPdf(OutputStream pdfStream, PdfSaveOptions options)](#saveAsPdf-java.io.OutputStream-com.aspose.eps.device.PdfSaveOptions-) | Saves PS/EPS file to an output PDF stream. |
 | [saveAsPdf(String outPdfFilePath, PdfSaveOptions options)](#saveAsPdf-java.lang.String-com.aspose.eps.device.PdfSaveOptions-) | Saves PS/EPS file to PDF file. |
 | [saveImageAsEps(BufferedImage image, OutputStream epsStream, PsSaveOptions options)](#saveImageAsEps-java.awt.image.BufferedImage-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-) | Saves BufferedImage object to EPS file. |
@@ -1043,7 +1045,35 @@ Saves given PsDocument as EPS file. This method is used only after updating XMP 
 
 ### saveAsImage(ImageSaveOptions options) {#saveAsImage-com.aspose.eps.device.ImageSaveOptions-}
 ```
-public byte[][] saveAsImage(ImageSaveOptions options)
+public void saveAsImage(ImageSaveOptions options)
+```
+
+
+Saves PS/EPS file to image file. The output directory and the file name will be the same as from input PS file. The file extension will correspond to image format in "option" param.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| options | [ImageSaveOptions](../../com.aspose.eps.device/imagesaveoptions) | Contains necessary parameters for saving image and flags that specify output of errors thrown during conversion. |
+
+### saveAsImage(ImageSaveOptions options, String outDir, String fileNameTemplate) {#saveAsImage-com.aspose.eps.device.ImageSaveOptions-java.lang.String-java.lang.String-}
+```
+public void saveAsImage(ImageSaveOptions options, String outDir, String fileNameTemplate)
+```
+
+
+Saves PS/EPS file to image file. The output directory and the file name will be the same as from input PS file. The file extension will correspond to image format in "option" param.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| options | [ImageSaveOptions](../../com.aspose.eps.device/imagesaveoptions) | Contains necessary parameters for saving image and flags that specify output of errors thrown during conversion. |
+| outDir | java.lang.String | The output directory where the image file will be saved. |
+| fileNameTemplate | java.lang.String | The file name template for the image. If the input PS/EPS file is 1-paged it will be precisely the file name, otherwise "\_[n]", where "n" - a number of page starting from 0, suffix will be appended to this. The file extension will correspond to image format in "option" param. |
+
+### saveAsImagesBytes(ImageSaveOptions options) {#saveAsImagesBytes-com.aspose.eps.device.ImageSaveOptions-}
+```
+public byte[][] saveAsImagesBytes(ImageSaveOptions options)
 ```
 
 

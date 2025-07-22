@@ -4,7 +4,7 @@ linktitle: SetPageSize
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::SetPageSize method. Sets page size. To create pages with different sizes in one document use SetPageDevice method just after this method in C++.'
 type: docs
-weight: 4800
+weight: 4900
 url: /cpp/aspose.page.eps/psdocument/setpagesize/
 ---
 ## PsDocument::SetPageSize method

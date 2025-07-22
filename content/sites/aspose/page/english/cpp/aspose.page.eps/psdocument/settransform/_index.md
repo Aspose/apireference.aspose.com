@@ -4,7 +4,7 @@ linktitle: SetTransform
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::SetTransform method. Set current transformation to this one in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/aspose.page.eps/psdocument/settransform/
 ---
 ## PsDocument::SetTransform method

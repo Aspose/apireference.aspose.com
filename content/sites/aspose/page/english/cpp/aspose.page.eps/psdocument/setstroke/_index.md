@@ -4,7 +4,7 @@ linktitle: SetStroke
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::SetStroke method. Sets stroke in current graphics state in C++.'
 type: docs
-weight: 5000
+weight: 5100
 url: /cpp/aspose.page.eps/psdocument/setstroke/
 ---
 ## PsDocument::SetStroke method

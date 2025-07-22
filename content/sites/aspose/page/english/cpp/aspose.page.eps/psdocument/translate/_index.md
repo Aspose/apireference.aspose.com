@@ -4,7 +4,7 @@ linktitle: Translate
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::Translate method. Adds translation to current graphics state (translates current matrix) in C++.'
 type: docs
-weight: 5400
+weight: 5500
 url: /cpp/aspose.page.eps/psdocument/translate/
 ---
 ## PsDocument::Translate method
