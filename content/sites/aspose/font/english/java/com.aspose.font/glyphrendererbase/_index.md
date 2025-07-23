@@ -3,7 +3,7 @@ title: GlyphRendererBase
 second_title: Aspose.Font for Java API Reference
 description: Represents base class for glyph renderers.
 type: docs
-weight: 50
+weight: 52
 url: /java/com.aspose.font/glyphrendererbase/
 ---
 **Inheritance:**

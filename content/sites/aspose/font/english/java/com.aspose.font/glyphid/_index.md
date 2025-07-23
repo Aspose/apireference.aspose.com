@@ -3,7 +3,7 @@ title: GlyphId
 second_title: Aspose.Font for Java API Reference
 description: Represents glyph ids available in the Font.
 type: docs
-weight: 47
+weight: 49
 url: /java/com.aspose.font/glyphid/
 ---
 **Inheritance:**

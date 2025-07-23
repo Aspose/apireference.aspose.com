@@ -3,7 +3,7 @@ title: Version16Dot16
 second_title: Aspose.Font for Java API Reference
 description: Represents Version16Dot16 datatype
 type: docs
-weight: 115
+weight: 117
 url: /java/com.aspose.font/version16dot16/
 ---
 **Inheritance:**

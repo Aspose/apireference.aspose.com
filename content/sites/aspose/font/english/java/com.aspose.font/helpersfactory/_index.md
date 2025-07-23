@@ -3,7 +3,7 @@ title: HelpersFactory
 second_title: Aspose.Font for Java API Reference
 description: Creates objects related to TtfHelpers namespace
 type: docs
-weight: 53
+weight: 55
 url: /java/com.aspose.font/helpersfactory/
 ---
 **Inheritance:**

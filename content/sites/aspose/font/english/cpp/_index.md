@@ -17,9 +17,11 @@ is_root: true
 | [Aspose::Font::Cff](./aspose.font.cff/) |  |
 | [Aspose::Font::CffDataProviders](./aspose.font.cffdataproviders/) |  |
 | [Aspose::Font::CffExceptions](./aspose.font.cffexceptions/) |  |
+| [Aspose::Font::Common_FontMerger](./aspose.font.common_fontmerger/) |  |
 | [Aspose::Font::Exceptions](./aspose.font.exceptions/) |  |
 | [Aspose::Font::Factories](./aspose.font.factories/) |  |
 | [Aspose::Font::Glyphs](./aspose.font.glyphs/) |  |
+| [Aspose::Font::Interfaces](./aspose.font.interfaces/) |  |
 | [Aspose::Font::Licensing](./aspose.font.licensing/) |  |
 | [Aspose::Font::Renderers](./aspose.font.renderers/) |  |
 | [Aspose::Font::Rendering](./aspose.font.rendering/) |  |

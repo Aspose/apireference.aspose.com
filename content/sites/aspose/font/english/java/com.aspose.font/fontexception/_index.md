@@ -3,7 +3,7 @@ title: FontException
 second_title: Aspose.Font for Java API Reference
 description: Represents common Font processing related exception.
 type: docs
-weight: 38
+weight: 39
 url: /java/com.aspose.font/fontexception/
 ---
 **Inheritance:**

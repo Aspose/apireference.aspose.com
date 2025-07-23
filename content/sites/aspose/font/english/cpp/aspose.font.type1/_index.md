@@ -4,7 +4,7 @@ linktitle: Aspose::Font::Type1
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::Type1 namespace in C++.'
 type: docs
-weight: 2000
+weight: 2200
 url: /cpp/aspose.font.type1/
 ---
 

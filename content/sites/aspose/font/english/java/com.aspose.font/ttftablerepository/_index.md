@@ -3,7 +3,7 @@ title: TtfTableRepository
 second_title: Aspose.Font for Java API Reference
 description: repository of TTF tables
 type: docs
-weight: 108
+weight: 110
 url: /java/com.aspose.font/ttftablerepository/
 ---
 **Inheritance:**

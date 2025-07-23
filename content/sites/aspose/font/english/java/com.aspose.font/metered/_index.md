@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.Font for Java API Reference
 description: Provides methods to set metered key.
 type: docs
-weight: 61
+weight: 63
 url: /java/com.aspose.font/metered/
 ---
 **Inheritance:**

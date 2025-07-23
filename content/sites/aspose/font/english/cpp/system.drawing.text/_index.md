@@ -4,7 +4,7 @@ linktitle: System::Drawing::Text
 second_title: Aspose.Font for C++
 description: 'How to use System::Drawing::Text namespace in C++.'
 type: docs
-weight: 3800
+weight: 4000
 url: /cpp/system.drawing.text/
 ---
 

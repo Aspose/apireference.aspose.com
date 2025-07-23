@@ -3,7 +3,7 @@ title: TtfHheaTable
 second_title: Aspose.Font for Java API Reference
 description: Represents hhea table of the TTF Font file.
 type: docs
-weight: 97
+weight: 99
 url: /java/com.aspose.font/ttfhheatable/
 ---
 **Inheritance:**

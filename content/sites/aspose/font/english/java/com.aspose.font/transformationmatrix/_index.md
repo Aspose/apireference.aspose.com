@@ -3,7 +3,7 @@ title: TransformationMatrix
 second_title: Aspose.Font for Java API Reference
 description: Represents 3x3 matrix  A   B   0   C   D   0   TX  TY  1 .
 type: docs
-weight: 75
+weight: 77
 url: /java/com.aspose.font/transformationmatrix/
 ---
 **Inheritance:**

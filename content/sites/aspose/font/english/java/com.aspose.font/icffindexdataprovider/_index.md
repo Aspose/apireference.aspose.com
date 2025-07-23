@@ -3,7 +3,7 @@ title: ICffIndexDataProvider
 second_title: Aspose.Font for Java API Reference
 description: Basic interface for accessing INDEX structures of CFF fonts.
 type: docs
-weight: 117
+weight: 119
 url: /java/com.aspose.font/icffindexdataprovider/
 ---```
 public interface ICffIndexDataProvider

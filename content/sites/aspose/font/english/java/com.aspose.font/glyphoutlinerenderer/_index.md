@@ -3,7 +3,7 @@ title: GlyphOutlineRenderer
 second_title: Aspose.Font for Java API Reference
 description: Represents glyph outline renderer.
 type: docs
-weight: 49
+weight: 51
 url: /java/com.aspose.font/glyphoutlinerenderer/
 ---
 **Inheritance:**

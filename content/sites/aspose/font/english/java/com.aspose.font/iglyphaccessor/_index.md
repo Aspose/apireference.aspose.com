@@ -3,7 +3,7 @@ title: IGlyphAccessor
 second_title: Aspose.Font for Java API Reference
 description: Defines functionality to retrieve specified glyph identifiers and glyphs.
 type: docs
-weight: 124
+weight: 126
 url: /java/com.aspose.font/iglyphaccessor/
 ---```
 public interface IGlyphAccessor

@@ -3,7 +3,7 @@ title: TtfHmtxTable
 second_title: Aspose.Font for Java API Reference
 description: Represents hmtx table of the TTF Font file.
 type: docs
-weight: 98
+weight: 100
 url: /java/com.aspose.font/ttfhmtxtable/
 ---
 **Inheritance:**

@@ -4,7 +4,7 @@ linktitle: FontNotSupportedOperationException
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::Exceptions::FontNotSupportedOperationException typedef in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.font.exceptions/fontnotsupportedoperationexception/
 ---
 ## FontNotSupportedOperationException typedef

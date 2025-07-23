@@ -3,7 +3,7 @@ title: IncorrectFontDataException
 second_title: Aspose.Font for Java API Reference
 description: Represents exceptions for cases when some values of Font object are invalid.
 type: docs
-weight: 54
+weight: 56
 url: /java/com.aspose.font/incorrectfontdataexception/
 ---
 **Inheritance:**

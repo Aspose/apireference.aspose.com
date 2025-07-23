@@ -3,7 +3,7 @@ title: TtfLtshTable
 second_title: Aspose.Font for Java API Reference
 description: Represents Linear Threshold table of the TTF Font file.
 type: docs
-weight: 100
+weight: 102
 url: /java/com.aspose.font/ttfltshtable/
 ---
 **Inheritance:**

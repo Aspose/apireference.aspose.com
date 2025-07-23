@@ -4,7 +4,7 @@ linktitle: Aspose::Font::Ttf
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::Ttf namespace in C++.'
 type: docs
-weight: 1500
+weight: 1700
 url: /cpp/aspose.font.ttf/
 ---
 

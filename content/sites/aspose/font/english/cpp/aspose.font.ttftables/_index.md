@@ -4,7 +4,7 @@ linktitle: Aspose::Font::TtfTables
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::TtfTables namespace in C++.'
 type: docs
-weight: 1900
+weight: 2100
 url: /cpp/aspose.font.ttftables/
 ---
 

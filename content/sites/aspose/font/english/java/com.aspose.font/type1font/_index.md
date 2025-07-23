@@ -3,7 +3,7 @@ title: Type1Font
 second_title: Aspose.Font for Java API Reference
 description: Represents Type1 Font.
 type: docs
-weight: 112
+weight: 114
 url: /java/com.aspose.font/type1font/
 ---
 **Inheritance:**

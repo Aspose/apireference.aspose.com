@@ -4,7 +4,7 @@ linktitle: System::Resources
 second_title: Aspose.Font for C++
 description: 'How to use System::Resources namespace in C++.'
 type: docs
-weight: 5100
+weight: 5300
 url: /cpp/system.resources/
 ---
 

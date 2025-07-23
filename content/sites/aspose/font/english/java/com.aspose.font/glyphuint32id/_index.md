@@ -3,7 +3,7 @@ title: GlyphUInt32Id
 second_title: Aspose.Font for Java API Reference
 description: Represents integer glyph id.
 type: docs
-weight: 52
+weight: 54
 url: /java/com.aspose.font/glyphuint32id/
 ---
 **Inheritance:**

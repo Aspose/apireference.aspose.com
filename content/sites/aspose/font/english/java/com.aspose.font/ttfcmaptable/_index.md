@@ -3,7 +3,7 @@ title: TtfCMapTable
 second_title: Aspose.Font for Java API Reference
 description: Represents cmap table of the TTF Font file.
 type: docs
-weight: 86
+weight: 88
 url: /java/com.aspose.font/ttfcmaptable/
 ---
 **Inheritance:**

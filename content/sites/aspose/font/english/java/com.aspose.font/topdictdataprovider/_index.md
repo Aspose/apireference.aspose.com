@@ -3,7 +3,7 @@ title: TopDictDataProvider
 second_title: Aspose.Font for Java API Reference
 description: Declares functionality to read/update CFF Top DICT structure.
 type: docs
-weight: 74
+weight: 76
 url: /java/com.aspose.font/topdictdataprovider/
 ---
 **Inheritance:**
