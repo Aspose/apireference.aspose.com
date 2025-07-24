@@ -3,7 +3,7 @@ title: PersonName
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Person Name PN VR type. A character string encoded using a 5 component convention. The character code 5CH the BACKSLASH  in ISO-IR 6 shall not be present as it is used as the delimiter between Values in multivalued Data Elements. The string may be padded with trailing spaces. For human use the five components in their order of occurrence are
 type: docs
-weight: 410
+weight: 420
 url: /net/aspose.medical.dicom.elements/personname/
 ---
 

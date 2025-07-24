@@ -3,7 +3,7 @@ title: RenderOptions
 second_title: Aspose.Medical for .NET API Reference
 description: Options that control rendering process of DICOM image frame.
 type: docs
-weight: 630
+weight: 640
 url: /net/aspose.medical.dicom.imaging.options/renderoptions/
 ---
 

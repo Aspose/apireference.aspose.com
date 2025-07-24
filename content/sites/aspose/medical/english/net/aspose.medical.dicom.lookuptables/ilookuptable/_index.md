@@ -3,7 +3,7 @@ title: ILookUpTable
 second_title: Aspose.Medical for .NET API Reference
 description: Represents a Look-Up Table LUT. LUT specification https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.11.html. LUT is a mapping function that defines how to convert pixel values in a DICOM image from one color space to another. Its a way of adjusting the color appearance of medical images X-rays MRIs and CT scans.
 type: docs
-weight: 750
+weight: 760
 url: /net/aspose.medical.dicom.lookuptables/ilookuptable/
 ---
 

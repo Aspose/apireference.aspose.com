@@ -3,7 +3,7 @@ title: DicomFileEqualityComparer
 second_title: Aspose.Medical for .NET API Reference
 description: Represents a DicomFile../aspose.medical.dicom/dicomfile comparison operation. Two DICOM files considered to be equal if 1 their MetaInfo../aspose.medical.dicom/dicomfile/metainfo are equal 2 their Dataset../aspose.medical.dicom/dicomfile/dataset are equal. DatasetEqualityComparer./datasetequalitycomparer for the information about Dataset../aspose.medical.dicom/dataset MetaInformation../aspose.medical.dicom/metainformation comparison.
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.medical.dicom.comparators/dicomfileequalitycomparer/
 ---
 

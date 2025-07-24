@@ -3,7 +3,7 @@ title: Date
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Date DA VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextDA-Date-A20string20of.
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.medical.dicom.elements/date/
 ---
 

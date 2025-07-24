@@ -3,7 +3,7 @@ title: Sequence
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Sequence of Items SQ VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextSQ-Sequence20of20Items-Value20is20a.
 type: docs
-weight: 420
+weight: 430
 url: /net/aspose.medical.dicom.elements/sequence/
 ---
 

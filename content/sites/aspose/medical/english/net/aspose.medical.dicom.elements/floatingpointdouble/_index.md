@@ -3,7 +3,7 @@ title: FloatingPointDouble
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Floating Point Double FD VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextFD-Floating20Point20Double-Double20precision20binary.
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.medical.dicom.elements/floatingpointdouble/
 ---
 

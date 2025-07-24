@@ -3,7 +3,7 @@ title: ModalityRescaleLookUpTable
 second_title: Aspose.Medical for .NET API Reference
 description: Represents Modality Rescale LUT Modality LUT Module when Rescale Slope or Rescale Intercept are used at least one of them. The output ranges from minimum pixel valueRescale SlopeRescale Intercept to maximum pixel valueRescale SlopeRescale Intercept where the minimum and maximum pixel values are determined by Bits Stored and Pixel Representation. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.11.html
 type: docs
-weight: 790
+weight: 800
 url: /net/aspose.medical.dicom.lookuptables/modalityrescalelookuptable/
 ---
 

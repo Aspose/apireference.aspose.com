@@ -3,7 +3,7 @@ title: ITagDataReadingStrategy
 second_title: Aspose.Medical for .NET API Reference
 description: Provides configuration for controlling how DICOM tag data is accessed from a dataset including strategies for immediate loading deferred on-demand loading or selective reading of large-value elements.
 type: docs
-weight: 920
+weight: 930
 url: /net/aspose.medical.dicom.readers/itagdatareadingstrategy/
 ---
 

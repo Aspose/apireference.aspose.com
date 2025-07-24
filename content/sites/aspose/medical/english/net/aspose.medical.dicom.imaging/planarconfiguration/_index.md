@@ -3,7 +3,7 @@ title: PlanarConfiguration
 second_title: Aspose.Medical for .NET API Reference
 description: Planar Configuration 00280006 indicates whether the color pixel data are sent color-by-plane or color-by-pixel. This Attribute shall be present if Samples per Pixel 00280002 has a value greater than 1. It shall not be present otherwise. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.8.5.6.htmlsect_C.8.5.6.1.16.
 type: docs
-weight: 700
+weight: 710
 url: /net/aspose.medical.dicom.imaging/planarconfiguration/
 ---
 

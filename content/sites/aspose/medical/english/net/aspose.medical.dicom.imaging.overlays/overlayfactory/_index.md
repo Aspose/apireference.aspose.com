@@ -3,7 +3,7 @@ title: OverlayFactory
 second_title: Aspose.Medical for .NET API Reference
 description: Provides factory methods to create OverlayData./overlaydata.
 type: docs
-weight: 650
+weight: 660
 url: /net/aspose.medical.dicom.imaging.overlays/overlayfactory/
 ---
 
