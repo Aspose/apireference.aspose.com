@@ -10,14 +10,18 @@ is_root: false
 
 ## get_elements_by_class_name {#str}
 
-Returns a live NodeList object containing all the elements in the document that have all the classes specified in argument.
-http://www.w3.org/TR/dom/
+This method returns an array-like object of all child elements which have all the given class name(s).
+
+
+When called on the document object, the complete document is searched, including the root node. 
+You may also call this method on any element; it will return only elements which are descendants 
+of the specified root element with the given class name(s).
 
 
 ### Returns 
 
 
-The [`Element`](/svg/python-net/aspose.svg.dom/element).
+A live [`HTMLCollection`](/svg/python-net/aspose.svg.collections/htmlcollection) of found elements.
 
 
 ```python
@@ -28,12 +32,13 @@ def get_elements_by_class_name(self, class_names):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| class_names | str | The string string that contains an unordered set of unique space-separated tokens representing classes (class names) |
+| class_names | str | The string that contains an unordered set of unique space-separated tokens representing classes (class names) |
+### Remarks
 
+Refer to official [spec](https://dom.spec.whatwg.org/#dom-document-getelementsbyclassname).
 
 
 ### See Also
 * module [`aspose.svg`](../../)
-* class [`Element`](/svg/python-net/aspose.svg.dom/element)
 * class [`HTMLCollection`](/svg/python-net/aspose.svg.collections/htmlcollection)
 * class [`SVGDocument`](/svg/python-net/aspose.svg/svgdocument)

@@ -51,7 +51,7 @@ The UIEvent type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/svg/python-net/aspose.svg.dom.events/uievent/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/svg/python-net/aspose.svg.dom.events/uievent/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [init_event](/svg/python-net/aspose.svg.dom.events/uievent/init_event/#str-bool-bool) | The [`Event.init_event`](/svg/python-net/aspose.svg.dom.events/event/init_event) method is used to initialize the value of an [`Event`](/svg/python-net/aspose.svg.dom.events/event) created through the<br/>[`IDocumentEvent`](/svg/python-net/aspose.svg.dom.events/idocumentevent) interface. |
 | [prevent_default](/svg/python-net/aspose.svg.dom.events/uievent/prevent_default/#) | If an event is cancelable, the [`Event.prevent_default`](/svg/python-net/aspose.svg.dom.events/event/prevent_default) method is used to signify that the event is to be canceled,<br/>meaning any default action normally taken by the implementation as a result of the event will not occur. |
 | [stop_propagation](/svg/python-net/aspose.svg.dom.events/uievent/stop_propagation/#) | The [`Event.stop_propagation`](/svg/python-net/aspose.svg.dom.events/event/stop_propagation) method is used prevent further propagation of an event during event flow. |

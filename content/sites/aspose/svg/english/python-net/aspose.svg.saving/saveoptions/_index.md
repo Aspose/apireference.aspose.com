@@ -3,7 +3,7 @@ title: SaveOptions class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /python-net/aspose.svg.saving/saveoptions/
 is_root: false
 ---

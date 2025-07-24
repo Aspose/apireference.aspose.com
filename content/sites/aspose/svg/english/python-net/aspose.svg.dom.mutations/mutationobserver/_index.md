@@ -26,7 +26,7 @@ The MutationObserver type exposes the following members:
 | :- | :- |
 | [observe](/svg/python-net/aspose.svg.dom.mutations/mutationobserver/observe/#aspose.svg.dom.Node) | Instructs the user agent to observe a given target (a node) and report any mutations based on the criteria given by options (an object).<br/>The options argument allows for setting mutation observation options via object members. |
 | [observe](/svg/python-net/aspose.svg.dom.mutations/mutationobserver/observe/#aspose.svg.dom.Node-aspose.svg.dom.mutations.MutationObserverInit) | Instructs the user agent to observe a given target (a node) and report any mutations based on the criteria given by options (an object).<br/>The options argument allows for setting mutation observation options via object members. |
-| [get_platform_type](/svg/python-net/aspose.svg.dom.mutations/mutationobserver/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/svg/python-net/aspose.svg.dom.mutations/mutationobserver/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [disconnect](/svg/python-net/aspose.svg.dom.mutations/mutationobserver/disconnect/#) | Stops observer from observing any mutations. Until the observe() method is used again, observer’s callback will not be invoked. |
 | [take_records](/svg/python-net/aspose.svg.dom.mutations/mutationobserver/take_records/#) | The method returns a copy of the record queue and then empty the record queue. |
 

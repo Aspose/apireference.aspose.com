@@ -10,13 +10,13 @@ is_root: false
 
 ## get_elements_by_tag_name {#str}
 
-Returns a NodeList of all descendant Elements with a given tag name, in document order.
+Returns [`HTMLCollection`](/svg/python-net/aspose.svg.collections/htmlcollection) object containing all [`Element`](/svg/python-net/aspose.svg.dom/element) with a given tag name, in document order.
 
 
 ### Returns 
 
 
-Returns attribute
+A live [`HTMLCollection`](/svg/python-net/aspose.svg.collections/htmlcollection) of found elements.
 
 
 ```python
@@ -27,11 +27,14 @@ def get_elements_by_tag_name(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The tag name. |
+| name | str | String representation of tag name. |
+### Remarks
 
+Refer to official [spec](https://dom.spec.whatwg.org/#dom-element-getelementsbytagname).
 
 
 ### See Also
 * module [`aspose.svg.filters`](../../)
+* class [`Element`](/svg/python-net/aspose.svg.dom/element)
 * class [`HTMLCollection`](/svg/python-net/aspose.svg.collections/htmlcollection)
 * class [`SVGFEDiffuseLightingElement`](/svg/python-net/aspose.svg.filters/svgfediffuselightingelement)

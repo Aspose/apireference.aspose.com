@@ -38,7 +38,7 @@ The Location type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/svg/python-net/aspose.svg.window/location/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/svg/python-net/aspose.svg.window/location/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [assign](/svg/python-net/aspose.svg.window/location/assign/#str) | Navigates to the given page. |
 | [replace](/svg/python-net/aspose.svg.window/location/replace/#str) | Removes the current page from the session history and navigates to the given page. |
 | [reload](/svg/python-net/aspose.svg.window/location/reload/#) | Reloads the current page. |

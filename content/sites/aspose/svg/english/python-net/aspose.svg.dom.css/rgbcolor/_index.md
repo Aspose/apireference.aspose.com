@@ -24,16 +24,16 @@ The RGBColor type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [red](/svg/python-net/aspose.svg.dom.css/rgbcolor/red) | This attribute is used for the red value of the RGB color. |
-| [green](/svg/python-net/aspose.svg.dom.css/rgbcolor/green) | This attribute is used for the green value of the RGB color. |
-| [blue](/svg/python-net/aspose.svg.dom.css/rgbcolor/blue) | This attribute is used for the blue value of the RGB color. |
-| [alpha](/svg/python-net/aspose.svg.dom.css/rgbcolor/alpha) | This attribute is used for the alpha value of the RGB color. |
+| [red](/svg/python-net/aspose.svg.dom.css/rgbcolor/red) | Gets the red component value of this Color class. |
+| [green](/svg/python-net/aspose.svg.dom.css/rgbcolor/green) | Gets the green component value of this Color class. |
+| [blue](/svg/python-net/aspose.svg.dom.css/rgbcolor/blue) | Gets the blue component value of this Color class. |
+| [alpha](/svg/python-net/aspose.svg.dom.css/rgbcolor/alpha) | Gets the alpha component value of this Color class. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/svg/python-net/aspose.svg.dom.css/rgbcolor/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/svg/python-net/aspose.svg.dom.css/rgbcolor/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [to_native](/svg/python-net/aspose.svg.dom.css/rgbcolor/to_native/#) | Converts to the native color object. |
 
 

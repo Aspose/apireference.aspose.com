@@ -10,13 +10,13 @@ is_root: false
 
 ## has_child_nodes {#}
 
-Returns whether this node has any children.
+Returns a boolean value indicating whether the given [`Node`](/svg/python-net/aspose.svg.dom/node) has child nodes or not.
 
 
 ### Returns 
 
 
-`true` if has child nodes otherwise, `false`.
+A boolean value that is if the node has child nodes, and otherwise.
 
 
 ```python
@@ -30,4 +30,5 @@ def has_child_nodes(self):
 
 ### See Also
 * module [`aspose.svg`](../../)
+* class [`Node`](/svg/python-net/aspose.svg.dom/node)
 * class [`SVGUseElement`](/svg/python-net/aspose.svg/svguseelement)

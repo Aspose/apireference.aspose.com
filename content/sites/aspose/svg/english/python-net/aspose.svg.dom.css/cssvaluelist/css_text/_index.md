@@ -11,7 +11,7 @@ is_root: false
 ## css_text property
 
 
-A string representation of the current value.
+The  property of the [`CSSValue`](/svg/python-net/aspose.svg.dom.css/cssvalue) interface represents the current computed CSS property value.
 ### Definition:
 ```python
 @property
@@ -24,4 +24,5 @@ def css_text(self, value):
 
 ### See Also
 * module [`aspose.svg.dom.css`](../../)
+* class [`CSSValue`](/svg/python-net/aspose.svg.dom.css/cssvalue)
 * class [`CSSValueList`](/svg/python-net/aspose.svg.dom.css/cssvaluelist)

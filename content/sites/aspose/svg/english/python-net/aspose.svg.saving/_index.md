@@ -21,6 +21,7 @@ conversion/saving process.
 | [`ResourceHandlingContext`](/svg/python-net/aspose.svg.saving/resourcehandlingcontext) | This class contains information used when processing resources. |
 | [`ResourceHandlingOptions`](/svg/python-net/aspose.svg.saving/resourcehandlingoptions) | Represents resource handling options. |
 | [`SVGSaveOptions`](/svg/python-net/aspose.svg.saving/svgsaveoptions) | Represents SVG save options. |
+| [`SVGZSaveOptions`](/svg/python-net/aspose.svg.saving/svgzsaveoptions) | Represents SVGZ save options. |
 | [`SaveOptions`](/svg/python-net/aspose.svg.saving/saveoptions) | This is an abstract base class for classes that allow the user to specify additional options when saving a document into a particular format. |
 | [`XpsSaveOptions`](/svg/python-net/aspose.svg.saving/xpssaveoptions) | Specific options data class. |
 

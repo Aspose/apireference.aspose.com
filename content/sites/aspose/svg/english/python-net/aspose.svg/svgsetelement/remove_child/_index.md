@@ -10,13 +10,13 @@ is_root: false
 
 ## remove_child {#aspose.svg.dom.Node}
 
-Removes the child node indicated by oldChild from the list of children, and returns it.
+Removes a child node from the DOM and returns the removed node.
 
 
 ### Returns 
 
 
-Returns node
+Unlike [`Node.clone_node`](/svg/python-net/aspose.svg.dom/node/clone_node) the return value preserves the [`IEventListener`](/svg/python-net/aspose.svg.dom.events/ieventlistener) objects associated with it.
 
 
 ```python
@@ -27,11 +27,12 @@ def remove_child(self, child):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| child | aspose.svg.dom.Node | The old child. |
+| child | aspose.svg.dom.Node | A [`Node`](/svg/python-net/aspose.svg.dom/node) that is the child node to be removed from the DOM. |
 
 
 
 ### See Also
 * module [`aspose.svg`](../../)
+* class [`IEventListener`](/svg/python-net/aspose.svg.dom.events/ieventlistener)
 * class [`Node`](/svg/python-net/aspose.svg.dom/node)
 * class [`SVGSetElement`](/svg/python-net/aspose.svg/svgsetelement)

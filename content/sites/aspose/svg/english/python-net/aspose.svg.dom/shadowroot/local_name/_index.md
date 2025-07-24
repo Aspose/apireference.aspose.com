@@ -11,8 +11,16 @@ is_root: false
 ## local_name property
 
 
-Returns the local part of the qualified name of this node.
-For nodes of any type other than ELEMENT_NODE and ATTRIBUTE_NODE and nodes created with a DOM Level 1 method, such as Document.createElement(), this is always null.
+Returns the local part of the qualified name of this node. 
+For nodes of any type other than [`Node.ELEMENT_NODE`](/svg/python-net/aspose.svg.dom/node) and [`Node.ATTRIBUTE_NODE`](/svg/python-net/aspose.svg.dom/node)
+and nodes created with a DOM Level 1 method, such as [`Document.create_element`](/svg/python-net/aspose.svg.dom/document/create_element), this is always null.
+
+### Remarks 
+
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-element-localname).
 ### Definition:
 ```python
 @property

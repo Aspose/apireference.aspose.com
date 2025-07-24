@@ -10,7 +10,10 @@ is_root: false
 
 ## dispatch_event {#aspose.svg.dom.events.Event}
 
-This method allows the dispatch of events into the implementations event model.
+Dispatches an Event at the specified [`IEventTarget`](/svg/python-net/aspose.svg.dom.events/ieventtarget), (synchronously) invoking
+the affected EventListeners in the appropriate order. 
+The normal event processing rules (including the capturing and optional bubbling phase) also apply to events 
+dispatched manually with [`IEventTarget.dispatch_event`](/svg/python-net/aspose.svg.dom.events/ieventtarget/dispatch_event).
 
 
 ### Returns 
@@ -45,4 +48,5 @@ The target of the event is the [`EventTarget`](/svg/python-net/aspose.svg.dom/ev
 * module [`aspose.svg`](../../)
 * class [`DOMException`](/svg/python-net/aspose.svg.dom/domexception)
 * class [`EventTarget`](/svg/python-net/aspose.svg.dom/eventtarget)
+* class [`IEventTarget`](/svg/python-net/aspose.svg.dom.events/ieventtarget)
 * class [`SVGPathElement`](/svg/python-net/aspose.svg/svgpathelement)

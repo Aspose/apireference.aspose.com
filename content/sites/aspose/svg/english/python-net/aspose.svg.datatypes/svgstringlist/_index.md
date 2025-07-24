@@ -45,7 +45,7 @@ The SVGStringList type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/svg/python-net/aspose.svg.datatypes/svgstringlist/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/svg/python-net/aspose.svg.datatypes/svgstringlist/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [clear](/svg/python-net/aspose.svg.datatypes/svgstringlist/clear/#) |  |
 | [initialize](/svg/python-net/aspose.svg.datatypes/svgstringlist/initialize/#str) |  |
 | [get_item](/svg/python-net/aspose.svg.datatypes/svgstringlist/get_item/#int) |  |

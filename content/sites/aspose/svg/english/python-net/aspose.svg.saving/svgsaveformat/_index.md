@@ -3,7 +3,7 @@ title: SVGSaveFormat enumeration
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /python-net/aspose.svg.saving/svgsaveformat/
 is_root: false
 ---

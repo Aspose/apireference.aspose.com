@@ -33,13 +33,13 @@ The CSSValueList type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [css_text](/svg/python-net/aspose.svg.dom.css/cssvaluelist/css_text) | A string representation of the current value. |
+| [css_text](/svg/python-net/aspose.svg.dom.css/cssvaluelist/css_text) | The  property of the [`CSSValue`](/svg/python-net/aspose.svg.dom.css/cssvalue) interface represents the current computed CSS property value. |
 | [css_value_type](/svg/python-net/aspose.svg.dom.css/cssvaluelist/css_value_type) | A code defining the type of the value. |
 | [CSS_INHERIT](/svg/python-net/aspose.svg.dom.css/cssvaluelist/css_inherit) | The value is inherited and the cssText contains "inherit". |
 | [CSS_PRIMITIVE_VALUE](/svg/python-net/aspose.svg.dom.css/cssvaluelist/css_primitive_value) | The value is a primitive value and an instance of the CSSPrimitiveValue interface can be obtained by using binding-specific casting methods on this instance of the CSSValue interface. |
 | [CSS_VALUE_LIST](/svg/python-net/aspose.svg.dom.css/cssvaluelist/css_value_list) | The value is a CSSValue list and an instance of the CSSValueList interface can be obtained by using binding-specific casting methods on this instance of the CSSValue interface. |
 | [CSS_CUSTOM](/svg/python-net/aspose.svg.dom.css/cssvaluelist/css_custom) | The value is a custom value. |
-| [length](/svg/python-net/aspose.svg.dom.css/cssvaluelist/length) | The number of CSSValues in the list. |
+| [length](/svg/python-net/aspose.svg.dom.css/cssvaluelist/length) | The length read-only property of the CSSValueList interface represents the number of CSSValues in the list.<br/>The range of valid values of the indices is 0 to length-1 inclusive. |
 
 
 

@@ -38,7 +38,7 @@ The SVGNumberList type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/svg/python-net/aspose.svg.datatypes/svgnumberlist/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/svg/python-net/aspose.svg.datatypes/svgnumberlist/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [clear](/svg/python-net/aspose.svg.datatypes/svgnumberlist/clear/#) |  |
 | [initialize](/svg/python-net/aspose.svg.datatypes/svgnumberlist/initialize/#aspose.svg.datatypes.SVGNumber) |  |
 | [get_item](/svg/python-net/aspose.svg.datatypes/svgnumberlist/get_item/#int) |  |

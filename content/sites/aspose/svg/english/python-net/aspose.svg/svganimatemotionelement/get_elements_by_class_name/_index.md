@@ -10,14 +10,13 @@ is_root: false
 
 ## get_elements_by_class_name {#str}
 
-Returns a live NodeList object containing all the elements in the document that have all the classes specified in argument.
-http://www.w3.org/TR/dom/
+Returns [`HTMLCollection`](/svg/python-net/aspose.svg.collections/htmlcollection) object containing all the elements within [`Element`](/svg/python-net/aspose.svg.dom/element) that have all the classes specified in argument.
 
 
 ### Returns 
 
 
-The [`Element`](/svg/python-net/aspose.svg.dom/element).
+A live [`HTMLCollection`](/svg/python-net/aspose.svg.collections/htmlcollection) of found elements.
 
 
 ```python
@@ -28,8 +27,10 @@ def get_elements_by_class_name(self, class_names):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| class_names | str | The string string that contains an unordered set of unique space-separated tokens representing classes (class names) |
+| class_names | str | The string that contains an unordered set of unique space-separated tokens representing classes (class names) |
+### Remarks
 
+Refer to official [spec](https://dom.spec.whatwg.org/#dom-element-getelementsbyclassname).
 
 
 ### See Also

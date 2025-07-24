@@ -3,7 +3,7 @@ title: XpsSaveOptions class
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /python-net/aspose.svg.saving/xpssaveoptions/
 is_root: false
 ---

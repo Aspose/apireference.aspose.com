@@ -57,7 +57,7 @@ The SVGPathSegCurvetoQuadraticAbs type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/svg/python-net/aspose.svg.paths/svgpathsegcurvetoquadraticabs/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/svg/python-net/aspose.svg.paths/svgpathsegcurvetoquadraticabs/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 
 
 
