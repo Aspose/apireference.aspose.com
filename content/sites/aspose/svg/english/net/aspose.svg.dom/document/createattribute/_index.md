@@ -1,14 +1,14 @@
 ---
 title: Document.CreateAttribute
 second_title: Aspose.SVG for .NET API Reference
-description: Document CreateAttribute method. Creates an Attr of the given name
+description: Document CreateAttribute method. This method creates a new attribute node and returns it. The object created is a node implementing the Attr class. The DOM does not enforce what sort of attributes can be added to a particular element in this manner
 type: docs
 weight: 790
 url: /net/aspose.svg.dom/document/createattribute/
 ---
 ## Document.CreateAttribute method
 
-Creates an Attr of the given name.
+This method creates a new attribute node, and returns it. The object created is a node implementing the [`Attr`](../../attr/) class. The DOM does not enforce what sort of attributes can be added to a particular element in this manner.
 
 ```csharp
 public Attr CreateAttribute(string localName)
@@ -16,11 +16,11 @@ public Attr CreateAttribute(string localName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| localName | String | The attribute name. |
+| localName | String | localName is a string containing the name of the attribute. |
 
 ### Return Value
 
-The [`Attr`](../../attr/).
+A [`Attr`](../../attr/) node.
 
 ### See Also
 

@@ -98,34 +98,11 @@ public void Save(string path, SVGSaveFormat saveFormat)
 | exception | condition |
 | --- | --- |
 | ArgumentException | Raised if the specified `path` is not a valid local file path. |
+| ArgumentOutOfRangeException | Thrown when the specified *saveFormat* value is not recognised by the current implementation. |
 
 ### See Also
 
 * enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
-* class [SVGDocument](../)
-* namespace [Aspose.Svg](../../../aspose.svg/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## Save(*string, [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_10}
-
-Saves the document content and associated resources to the specified file path.
-
-```csharp
-public void Save(string path, SVGSaveFormat saveFormat, SVGSaveOptions saveOptions)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| path | String | The file path where the document will be saved. |
-| saveFormat | SVGSaveFormat | The format in which the document should be saved. |
-| saveOptions | SVGSaveOptions | Options specifying additional parameters for saving, such as vectorization preferences. |
-
-### See Also
-
-* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
-* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
 * namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)
@@ -181,9 +158,9 @@ public void Save(ResourceHandler resourceHandler, SVGSaveFormat saveFormat,
 
 ---
 
-## Save(*string, [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_11}
+## Save(*string, [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_10}
 
-Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files". If the specified `path` ends with ".svgz", the document will be saved as a compressed SVGZ file.
+Saves the document as an `.svg` file to the local path specified by *path*. Any external resources are written to a sibling folder named `{output_file_name}_files`.
 
 ```csharp
 public void Save(string path, SVGSaveOptions saveOptions)
@@ -191,12 +168,46 @@ public void Save(string path, SVGSaveOptions saveOptions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | String | Local path to output file. |
-| saveOptions | SVGSaveOptions | SVG save options. |
+| path | String | Absolute or relative path of the target `.svg` file. |
+| saveOptions | SVGSaveOptions | Options that control plain-SVG serialization. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentException | Thrown if *path* is not a valid local file path. |
 
 ### See Also
 
 * class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## Save(*string, [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)*) {#save_11}
+
+Saves the document as a compressed `.svgz` file to the local path specified by *path*. Any external resources are written to a sibling folder named `{output_file_name}_files`.
+
+```csharp
+public void Save(string path, SVGZSaveOptions saveOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| path | String | Absolute or relative path of the target `.svgz` file. |
+| saveOptions | SVGZSaveOptions | Options that control SVGZ serialization. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentException | Thrown if *path* is not a valid local file path. |
+
+### See Also
+
+* class [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)
 * class [SVGDocument](../)
 * namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)
@@ -243,7 +254,8 @@ public void Save(Url url, SVGSaveFormat saveFormat)
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Raised if the specified `url` is not a valid local file URL. |
+| ArgumentException | Thrown when *url* does not represent a valid local file location (e.g., it is null, relative, or points to a non-file scheme). |
+| ArgumentOutOfRangeException | Thrown when the supplied *saveFormat* value is not recognised by the current implementation. |
 
 ### See Also
 
@@ -255,9 +267,9 @@ public void Save(Url url, SVGSaveFormat saveFormat)
 
 ---
 
-## Save(*[Url](../../url/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_7}
+## Save(*[Url](../../url/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_6}
 
-Saves the document to local file specified by `url`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files". If the specified `url` ends with ".svgz", the document will be saved as a compressed SVGZ file.
+Saves the document as an `.svg` file to *url*. All external resources are placed in a sibling folder named `{output_file_name}_files`.
 
 ```csharp
 public void Save(Url url, SVGSaveOptions saveOptions)
@@ -265,14 +277,14 @@ public void Save(Url url, SVGSaveOptions saveOptions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| url | Url | Local URL to output file. |
-| saveOptions | SVGSaveOptions | SVG save options. |
+| url | Url | Local path of the target `.svg` file. |
+| saveOptions | SVGSaveOptions | Options that control plain-SVG serialization. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Raised if the specified `url` is not a valid local file URL. |
+| ArgumentException | Thrown if *url* is not a valid local file path. |
 
 ### See Also
 
@@ -284,25 +296,29 @@ public void Save(Url url, SVGSaveOptions saveOptions)
 
 ---
 
-## Save(*[Url](../../url/), [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_6}
+## Save(*[Url](../../url/), [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)*) {#save_7}
 
-Saves the document content and associated resources to the specified [`Url`](../../url/).
+Saves the document as a compressed `.svgz` file to *url*. All external resources are placed in a sibling folder named `{output_file_name}_files`.
 
 ```csharp
-public void Save(Url url, SVGSaveFormat saveFormat, SVGSaveOptions saveOptions)
+public void Save(Url url, SVGZSaveOptions saveOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| url | Url | The target [`Url`](../../url/) where the document will be saved. |
-| saveFormat | SVGSaveFormat | The format in which the document should be saved. |
-| saveOptions | SVGSaveOptions | Options specifying additional parameters for saving, such as vectorization preferences. |
+| url | Url | Local path of the target `.svgz` file. |
+| saveOptions | SVGZSaveOptions | Options that control SVGZ serialization. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentException | Thrown if *url* is not a valid local file path. |
 
 ### See Also
 
 * class [Url](../../url/)
-* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
-* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
+* class [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)
 * class [SVGDocument](../)
 * namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

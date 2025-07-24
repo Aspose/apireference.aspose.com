@@ -1,14 +1,16 @@
 ---
 title: EventTarget.AddEventListener
 second_title: Aspose.SVG for .NET API Reference
-description: EventTarget AddEventListener method. This method allows the registration of event listeners on the event target
+description: EventTarget AddEventListener method. Sets up a function that will be called whenever the specified event is delivered to the target
 type: docs
 weight: 20
 url: /net/aspose.svg.dom/eventtarget/addeventlistener/
 ---
 ## AddEventListener(*string, [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/), bool*) {#addeventlistener}
 
-This method allows the registration of event listeners on the event target.
+Sets up a function that will be called whenever the specified event is delivered to the target.
+
+It works by adding a function, or an object that implements [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/), to the list of event listeners for the specified event type on the [`EventTarget`](../) on which it's called. If the function or object, is already in the list of event listeners for this target, they are not added a second time.
 
 ```csharp
 public void AddEventListener(string type, DOMEventHandler handler, bool useCapture)
@@ -37,7 +39,9 @@ If multiple identical Event Listeners are registered on the same [`EventTarget`]
 
 ## AddEventListener(*string, [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)*) {#addeventlistener_1}
 
-This method allows the registration of event listeners on the event target.
+Sets up a function that will be called whenever the specified event is delivered to the target.
+
+It works by adding a function, or an object that implements [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/), to the list of event listeners for the specified event type on the [`EventTarget`](../) on which it's called. If the function or object, is already in the list of event listeners for this target, they are not added a second time.
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener)
@@ -65,7 +69,9 @@ If multiple identical Event Listeners are registered on the same [`EventTarget`]
 
 ## AddEventListener(*string, [IEventListener](../../../aspose.svg.dom.events/ieventlistener/), bool*) {#addeventlistener_2}
 
-This method allows the registration of event listeners on the event target.
+Sets up a function that will be called whenever the specified event is delivered to the target.
+
+It works by adding a function, or an object that implements [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/), to the list of event listeners for the specified event type on the [`EventTarget`](../) on which it's called. If the function or object, is already in the list of event listeners for this target, they are not added a second time.
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener, bool useCapture)

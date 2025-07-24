@@ -1,14 +1,14 @@
 ---
 title: Node.Prefix
 second_title: Aspose.SVG for .NET API Reference
-description: Node Prefix property. The namespace prefix of this node or null if it is unspecified. When it is defined to be null setting it has no effect
+description: Node Prefix property. Returns the namespace prefix of the specified element or null if no prefix is specified
 type: docs
 weight: 140
 url: /net/aspose.svg.dom/node/prefix/
 ---
 ## Node.Prefix property
 
-The namespace prefix of this node, or null if it is unspecified. When it is defined to be null, setting it has no effect
+Returns the namespace prefix of the specified element, or null if no prefix is specified.
 
 ```csharp
 public virtual string Prefix { get; set; }
@@ -16,7 +16,13 @@ public virtual string Prefix { get; set; }
 
 ### Property Value
 
-The prefix.
+The property returns associated namespace prefix.
+
+## Remarks
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-element-prefix).
 
 ### See Also
 

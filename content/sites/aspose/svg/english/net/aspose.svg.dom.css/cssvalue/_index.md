@@ -18,7 +18,7 @@ public abstract class CSSValue : DOMObject
 
 | Name | Description |
 | --- | --- |
-| abstract [CSSText](../../aspose.svg.dom.css/cssvalue/csstext/) { get; set; } | A string representation of the current value. |
+| abstract [CSSText](../../aspose.svg.dom.css/cssvalue/csstext/) { get; set; } | The CSSText property of the `CSSValue` interface represents the current computed CSS property value. |
 | [CSSValueType](../../aspose.svg.dom.css/cssvalue/cssvaluetype/) { get; } | A code defining the type of the value. |
 
 ## Methods

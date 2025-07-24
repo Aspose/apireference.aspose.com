@@ -1,18 +1,30 @@
 ---
 title: Node.OwnerDocument
 second_title: Aspose.SVG for .NET API Reference
-description: Node OwnerDocument property. The Document object associated with this node. This is also the Document object used to create new nodes. When this node is a Document or a DocumentType which is not used with any Document yet this is null
+description: Node OwnerDocument property. Returns the top-level document object of the node
 type: docs
 weight: 110
 url: /net/aspose.svg.dom/node/ownerdocument/
 ---
 ## Node.OwnerDocument property
 
-The Document object associated with this node. This is also the Document object used to create new nodes. When this node is a Document or a DocumentType which is not used with any Document yet, this is null.
+Returns the top-level document object of the node.
 
 ```csharp
 public virtual Document OwnerDocument { get; }
 ```
+
+### Property Value
+
+A [`Document`](../../document/) that is the top-level object in which all the child nodes are created.
+
+If this property is used on a node that is itself a document, the value is null.
+
+## Remarks
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-ownerdocument).
 
 ### See Also
 

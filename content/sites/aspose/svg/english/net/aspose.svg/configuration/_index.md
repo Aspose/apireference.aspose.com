@@ -24,7 +24,7 @@ public class Configuration : IDisposable, IServiceProvider
 
 | Name | Description |
 | --- | --- |
-| [Security](../../aspose.svg/configuration/security/) { get; set; } | Gets or sets the sandboxing flag of the configuration. |
+| [Security](../../aspose.svg/configuration/security/) { get; set; } | This property allows you to set a number of restrictions on the content loaded in the frame, for example, block forms and scripts. Refer to article about [sandboxing](https://docs.aspose.com/html/net/environment-configuration/#sandboxing). |
 
 ## Methods
 

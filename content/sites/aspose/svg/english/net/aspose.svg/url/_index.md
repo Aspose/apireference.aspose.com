@@ -3,7 +3,7 @@ title: Url Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Url class. Provides an object representation of a universal identifier URL
 type: docs
-weight: 5890
+weight: 5900
 url: /net/aspose.svg/url/
 ---
 ## Url class
@@ -44,7 +44,7 @@ public class Url : DOMObject
 | --- | --- |
 | override [Equals](../../aspose.svg/url/equals/)(*object*) | Determines whether the specified Object, is equal to this instance. |
 | override [GetHashCode](../../aspose.svg/url/gethashcode/)() | Returns a hash code for this instance. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object Type. |
 | [ToJson](../../aspose.svg/url/tojson/)() | Returns a String that represents this instance. |
 | override [ToString](../../aspose.svg/url/tostring/)() | Returns a String that represents this instance. |
 
