@@ -1,18 +1,26 @@
 ---
 title: RGBColor.Red
 second_title: Aspose.SVG for .NET API Reference
-description: RGBColor Red property. This attribute is used for the red value of the RGB color
+description: RGBColor Red property. Gets the red component value of this Color class
 type: docs
 weight: 40
 url: /net/aspose.svg.dom.css/rgbcolor/red/
 ---
 ## RGBColor.Red property
 
-This attribute is used for the red value of the RGB color.
+Gets the red component value of this Color class.
 
 ```csharp
 public CSSPrimitiveValue Red { get; }
 ```
+
+### Property Value
+
+The red component value of this Color.
+
+## Remarks
+
+The color of each pixel is represented as a 32-bit number: 8 bits each for alpha, red, green, and blue (ARGB). The alpha component specifies the transparency of the color: 0 is fully transparent, and 255 is fully opaque. Likewise, an A value of 255 represents an opaque color. An A value from 1 through 254 represents a semitransparent color. The color becomes more opaque as A approaches 255.
 
 ### See Also
 

@@ -1,14 +1,16 @@
 ---
 title: CSSValue.CSSText
 second_title: Aspose.SVG for .NET API Reference
-description: CSSValue CSSText property. A string representation of the current value
+description: CSSValue CSSText property. The CSSText property of the CSSValue interface represents the current computed CSS property value
 type: docs
 weight: 10
 url: /net/aspose.svg.dom.css/cssvalue/csstext/
 ---
 ## CSSValue.CSSText property
 
-A string representation of the current value.
+The CSSText property of the [`CSSValue`](../) interface represents the current computed CSS property value.
+
+Note: This property was part of an attempt to create a typed CSS Object Model. This attempt has been abandoned, and most browsers do not implement it.
 
 ```csharp
 public abstract string CSSText { get; set; }
@@ -16,7 +18,7 @@ public abstract string CSSText { get; set; }
 
 ### Property Value
 
-The CSS text.
+A DOMString representing the current CSS property value.
 
 ### See Also
 

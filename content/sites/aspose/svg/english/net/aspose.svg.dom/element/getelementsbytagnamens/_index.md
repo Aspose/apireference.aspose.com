@@ -1,14 +1,14 @@
 ---
 title: Element.GetElementsByTagNameNS
 second_title: Aspose.SVG for .NET API Reference
-description: Element GetElementsByTagNameNS method. Returns a NodeList of all the descendant Elements with a given local name and namespace URI in document order
+description: Element GetElementsByTagNameNS method. Returns HTMLCollection object containing all elements with a given local name and namespace URI string in document order
 type: docs
 weight: 300
 url: /net/aspose.svg.dom/element/getelementsbytagnamens/
 ---
 ## Element.GetElementsByTagNameNS method
 
-Returns a NodeList of all the descendant Elements with a given local name and namespace URI in document order.
+Returns [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) object containing all [`elements`](../) with a given local name and namespace URI string in document order.
 
 ```csharp
 public HTMLCollection GetElementsByTagNameNS(string namespaceURI, string localName)
@@ -16,12 +16,16 @@ public HTMLCollection GetElementsByTagNameNS(string namespaceURI, string localNa
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| namespaceURI | String | The namespace URI. |
-| localName | String | Name of the local. |
+| namespaceURI | String | The namespace URI string representation. |
+| localName | String | String representation of local name. |
 
 ### Return Value
 
-Returns elements
+A live [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) of found elements.
+
+## Remarks
+
+Refer to official [spec](https://dom.spec.whatwg.org/#dom-element-getelementsbytagnamens).
 
 ### See Also
 

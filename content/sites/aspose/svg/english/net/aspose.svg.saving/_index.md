@@ -19,6 +19,7 @@ The **Aspose.Svg.Saving** namespace is presented by data classes for description
 | [ResourceHandlingOptions](./resourcehandlingoptions/) | Represents resource handling options. |
 | [SaveOptions](./saveoptions/) | This is an abstract base class for classes that allow the user to specify additional options when saving a document into a particular format. |
 | [SVGSaveOptions](./svgsaveoptions/) | Represents SVG save options. |
+| [SVGZSaveOptions](./svgzsaveoptions/) | Represents SVGZ save options. |
 | [XpsSaveOptions](./xpssaveoptions/) | Specific options data class. |
 ## Enumeration
 

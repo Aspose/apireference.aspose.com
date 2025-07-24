@@ -1,14 +1,14 @@
 ---
 title: EventTarget.DispatchEvent
 second_title: Aspose.SVG for .NET API Reference
-description: EventTarget DispatchEvent method. This method allows the dispatch of events into the implementations event model
+description: EventTarget DispatchEvent method. Dispatches an Event at the specified IEventTarget synchronously invoking the affected EventListeners in the appropriate order. The normal event processing rules including the capturing and optional bubbling phase also apply to events dispatched manually with DispatchEvent
 type: docs
 weight: 30
 url: /net/aspose.svg.dom/eventtarget/dispatchevent/
 ---
 ## EventTarget.DispatchEvent method
 
-This method allows the dispatch of events into the implementations event model.
+Dispatches an Event at the specified [`IEventTarget`](../../../aspose.svg.dom.events/ieventtarget/), (synchronously) invoking the affected EventListeners in the appropriate order. The normal event processing rules (including the capturing and optional bubbling phase) also apply to events dispatched manually with [`DispatchEvent`](../../../aspose.svg.dom.events/ieventtarget/dispatchevent/).
 
 ```csharp
 public bool DispatchEvent(Event @event)

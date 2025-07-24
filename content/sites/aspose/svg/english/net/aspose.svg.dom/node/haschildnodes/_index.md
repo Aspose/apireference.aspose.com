@@ -1,14 +1,14 @@
 ---
 title: Node.HasChildNodes
 second_title: Aspose.SVG for .NET API Reference
-description: Node HasChildNodes method. Returns whether this node has any children
+description: Node HasChildNodes method. Returns a boolean value indicating whether the given Node has child nodes or not
 type: docs
 weight: 190
 url: /net/aspose.svg.dom/node/haschildnodes/
 ---
 ## Node.HasChildNodes method
 
-Returns whether this node has any children.
+Returns a boolean value indicating whether the given [`Node`](../) has child nodes or not.
 
 ```csharp
 public bool HasChildNodes()
@@ -16,7 +16,7 @@ public bool HasChildNodes()
 
 ### Return Value
 
-`true` if has child nodes otherwise, `false`.
+A boolean value that is true if the node has child nodes, and false otherwise.
 
 ### See Also
 

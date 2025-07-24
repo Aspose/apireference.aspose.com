@@ -34,7 +34,7 @@ public class TimeEvent : Event
 
 | Name | Description |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object Type. |
 | [InitEvent](../../aspose.svg.dom.events/event/initevent/)(*string, bool, bool*) | The [`InitEvent`](../../aspose.svg.dom.events/event/initevent/) method is used to initialize the value of an [`Event`](../../aspose.svg.dom.events/event/) created through the [`IDocumentEvent`](../../aspose.svg.dom.events/idocumentevent/) interface. |
 | [InitTimeEvent](../../aspose.svg.events/timeevent/inittimeevent/)(*string, [IAbstractView](../../aspose.svg.dom.views/iabstractview/), long*) | The initTimeEvent method is used to initialize the value of a TimeEvent created through the DocumentEvent interface. This method may only be called before the TimeEvent has been dispatched via the dispatchEvent method, though it may be called multiple times during that phase if necessary. If called multiple times, the final invocation takes precedence. |
 | [PreventDefault](../../aspose.svg.dom.events/event/preventdefault/)() | If an event is cancelable, the [`PreventDefault`](../../aspose.svg.dom.events/event/preventdefault/) method is used to signify that the event is to be canceled, meaning any default action normally taken by the implementation as a result of the event will not occur. |

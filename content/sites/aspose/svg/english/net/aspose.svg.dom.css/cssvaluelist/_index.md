@@ -26,10 +26,10 @@ public class CSSValueList : CSSValue, ICSSValueList, IEnumerable<CSSValue>
 
 | Name | Description |
 | --- | --- |
-| override [CSSText](../../aspose.svg.dom.css/cssvaluelist/csstext/) { get; set; } | A string representation of the current value. |
+| override [CSSText](../../aspose.svg.dom.css/cssvaluelist/csstext/) { get; set; } | The CSSText property of the [`CSSValue`](../cssvalue/) interface represents the current computed CSS property value. |
 | [CSSValueType](../../aspose.svg.dom.css/cssvalue/cssvaluetype/) { get; } | A code defining the type of the value. |
 | [Item](../../aspose.svg.dom.css/cssvaluelist/item/) { get; } | Gets the [`CSSValue`](../cssvalue/) at the specified index. |
-| [Length](../../aspose.svg.dom.css/cssvaluelist/length/) { get; } | The number of CSSValues in the list. |
+| [Length](../../aspose.svg.dom.css/cssvaluelist/length/) { get; } | The length read-only property of the CSSValueList interface represents the number of CSSValues in the list. The range of valid values of the indices is 0 to length-1 inclusive. |
 
 ## Methods
 

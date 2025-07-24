@@ -26,7 +26,7 @@ public class SVGPoint : SVGValueType
 | Name | Description |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object Type. |
 | [MatrixTransform](../../aspose.svg.datatypes/svgpoint/matrixtransform/)(*[SVGMatrix](../svgmatrix/)*) | Applies a 2x3 matrix transformation on this SVGPoint object and returns a new, transformed SVGPoint object: newpoint = matrix* thispoint |
 | override [ToString](../../aspose.svg.datatypes/svgpoint/tostring/)() | Returns a String that represents this instance. |
 

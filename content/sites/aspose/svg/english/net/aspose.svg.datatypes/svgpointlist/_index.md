@@ -31,7 +31,7 @@ public class SVGPointList : SVGListBase<SVGPoint>
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase-1/getenumerator/)() |  |
 | [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object Type. |
 | [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(*[SVGPoint](../svgpoint/)*) |  |
 | [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(*[SVGPoint](../svgpoint/), ulong*) |  |
 | [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |

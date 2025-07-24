@@ -18,16 +18,16 @@ public class RGBColor : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [Alpha](../../aspose.svg.dom.css/rgbcolor/alpha/) { get; } | This attribute is used for the alpha value of the RGB color. |
-| [Blue](../../aspose.svg.dom.css/rgbcolor/blue/) { get; } | This attribute is used for the blue value of the RGB color. |
-| [Green](../../aspose.svg.dom.css/rgbcolor/green/) { get; } | This attribute is used for the green value of the RGB color. |
-| [Red](../../aspose.svg.dom.css/rgbcolor/red/) { get; } | This attribute is used for the red value of the RGB color. |
+| [Alpha](../../aspose.svg.dom.css/rgbcolor/alpha/) { get; } | Gets the alpha component value of this Color class. |
+| [Blue](../../aspose.svg.dom.css/rgbcolor/blue/) { get; } | Gets the blue component value of this Color class. |
+| [Green](../../aspose.svg.dom.css/rgbcolor/green/) { get; } | Gets the green component value of this Color class. |
+| [Red](../../aspose.svg.dom.css/rgbcolor/red/) { get; } | Gets the red component value of this Color class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object Type. |
 | [ToNative](../../aspose.svg.dom.css/rgbcolor/tonative/)() | Converts to the native color object. |
 
 ### See Also

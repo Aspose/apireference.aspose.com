@@ -3,7 +3,7 @@ title: SVGOptimizationOptions Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Toolkit.Optimizers.SVGOptimizationOptions class. SVGOptimizationOptions is a class for storing options for optimizing SVG documents
 type: docs
-weight: 5860
+weight: 5870
 url: /net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/
 ---
 ## SVGOptimizationOptions class
