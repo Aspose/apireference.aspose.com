@@ -3,7 +3,7 @@ title: OtherFloat
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Other Float OF VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextOF-Other20Float-A20stream20of.
 type: docs
-weight: 360
+weight: 370
 url: /net/aspose.medical.dicom.elements/otherfloat/
 ---
 

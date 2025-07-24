@@ -3,7 +3,7 @@ title: VoiLinearLookupTable
 second_title: Aspose.Medical for .NET API Reference
 description: VOI Look-Up table with Linear transformation function with offset from center. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.11.2.html.
 type: docs
-weight: 860
+weight: 870
 url: /net/aspose.medical.dicom.lookuptables/voilinearlookuptable/
 ---
 

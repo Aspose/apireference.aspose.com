@@ -3,7 +3,7 @@ title: DateTime
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Date Time DT VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextDT-Date20Time-A20concatenated20date.
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.medical.dicom.elements/datetime/
 ---
 

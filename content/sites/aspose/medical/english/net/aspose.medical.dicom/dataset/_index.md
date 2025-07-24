@@ -3,7 +3,7 @@ title: Dataset
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates DICOM Dataset.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.medical.dicom/dataset/
 ---
 

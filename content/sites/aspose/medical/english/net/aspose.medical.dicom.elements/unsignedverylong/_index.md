@@ -3,7 +3,7 @@ title: UnsignedVeryLong
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates the Unsigned Very Long UV VR type. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmltextSee20Note202-UV-Unsigned20642Dbit.
 type: docs
-weight: 580
+weight: 590
 url: /net/aspose.medical.dicom.elements/unsignedverylong/
 ---
 

@@ -3,7 +3,7 @@ title: VoiSequenceLookupTable
 second_title: Aspose.Medical for .NET API Reference
 description: Represents VOI LUT Sequence when VOI LUT has VOI LUT Sequence specified. The output range is from 0 to 2n-1 where n is the third value of LUT Descriptor. This range is always unsigned. See https//dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.11.html
 type: docs
-weight: 880
+weight: 890
 url: /net/aspose.medical.dicom.lookuptables/voisequencelookuptable/
 ---
 

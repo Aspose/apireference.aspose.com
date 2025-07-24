@@ -3,7 +3,7 @@ title: DicomFileJsonConverter
 second_title: Aspose.Medical for .NET API Reference
 description: Converts DicomFile../aspose.medical.dicom/dicomfile to and from JSON using the System.Text.Json.
 type: docs
-weight: 950
+weight: 960
 url: /net/aspose.medical.dicom.serialization/dicomfilejsonconverter/
 ---
 
