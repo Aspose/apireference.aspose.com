@@ -13,7 +13,7 @@ url: /python-net/aspose.gis.geometries/igeometrycollection/
 
 **Inheritance:** IGeometry
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.5.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
@@ -722,7 +722,7 @@ Gets approximate or equivalent non-curve version of this geometry using the defa
 
 | Type | Description |
 | :- | :- |
-| [IGeometryCollection](/psd/python-net/aspose.gis.geometries/igeometrycollection) | A geometry, that has no curve geometries. This is the equivalent of <DOM Element: class at 0x1d98ccaaf70>.IGeometryCollection.to_linear_geometry()(float) with<br/>            default <c>tolerance</c>. Default <c>tolerance</c>s value is dependent on [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/)<br/>            of this geometry:<br/>            <ul><br/>            <li> For projected SRS Tolerance is 0.001 meters (in SRS units) </li><br/>            <li> For geographic SRS Tolerance is <c>1e-5</c> degrees (in SRS units) </li><br/>            <li> For unknown SRS Tolerance is <c>1e-5</c> </li><br/>            </ul><br/>            For more details on what transformations are applied refer to <DOM Element: class at 0x1d98ccaaf70>.IGeometryCollection.to_linear_geometry()(float) specification. |
+| [IGeometryCollection](/psd/python-net/aspose.gis.geometries/igeometrycollection) | A geometry, that has no curve geometries. This is the equivalent of <DOM Element: class at 0x220622e3f70>.IGeometryCollection.to_linear_geometry()(float) with<br/>            default <c>tolerance</c>. Default <c>tolerance</c>s value is dependent on [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/)<br/>            of this geometry:<br/>            <ul><br/>            <li> For projected SRS Tolerance is 0.001 meters (in SRS units) </li><br/>            <li> For geographic SRS Tolerance is <c>1e-5</c> degrees (in SRS units) </li><br/>            <li> For unknown SRS Tolerance is <c>1e-5</c> </li><br/>            </ul><br/>            For more details on what transformations are applied refer to <DOM Element: class at 0x220622e3f70>.IGeometryCollection.to_linear_geometry()(float) specification. |
 
 
 ### Method: to_linear_geometry(tolerance) {#to_linear_geometry_tolerance_34}

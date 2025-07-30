@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/ifeaturestyle/
 
 **Full Name:** aspose.gis.IFeatureStyle
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.5.0
 
 
 

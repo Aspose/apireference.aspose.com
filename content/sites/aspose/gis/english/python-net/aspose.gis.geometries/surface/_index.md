@@ -13,7 +13,7 @@ url: /python-net/aspose.gis.geometries/surface/
 
 **Inheritance:** IGeometry, ISurface, Geometry
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.5.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
@@ -867,7 +867,7 @@ Gets approximate or equivalent non-curve version of this geometry using the defa
 
 | Type | Description |
 | :- | :- |
-| [IPolygon](/psd/python-net/aspose.gis.geometries/ipolygon) | A [IPolygon](/psd/python-net/aspose.gis.geometries/ipolygon/) that approximates or equivalent to this <c>ISurface</c>.<br/>            This is the equivalent of <DOM Element: class at 0x1d98ce3bca0>.ISurface.to_linear_geometry()(float) with<br/>            default <c>tolerance</c>. Default <c>tolerance</c>s value is dependent on [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/)<br/>            of this geometry:<br/>            <ul><br/>            <li> For projected SRS Tolerance is 0.001 meters (in SRS units) </li><br/>            <li> For geographic SRS Tolerance is <c>1e-5</c> degrees (in SRS units) </li><br/>            <li> For unknown SRS Tolerance is <c>1e-5</c> </li><br/>            </ul><br/>            For more details on what transformations are applied refer to <DOM Element: class at 0x1d98ce3bca0>.ISurface.to_linear_geometry()(float) specification. |
+| [IPolygon](/psd/python-net/aspose.gis.geometries/ipolygon) | A [IPolygon](/psd/python-net/aspose.gis.geometries/ipolygon/) that approximates or equivalent to this <c>ISurface</c>.<br/>            This is the equivalent of <DOM Element: class at 0x22062477ca0>.ISurface.to_linear_geometry()(float) with<br/>            default <c>tolerance</c>. Default <c>tolerance</c>s value is dependent on [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/)<br/>            of this geometry:<br/>            <ul><br/>            <li> For projected SRS Tolerance is 0.001 meters (in SRS units) </li><br/>            <li> For geographic SRS Tolerance is <c>1e-5</c> degrees (in SRS units) </li><br/>            <li> For unknown SRS Tolerance is <c>1e-5</c> </li><br/>            </ul><br/>            For more details on what transformations are applied refer to <DOM Element: class at 0x22062477ca0>.ISurface.to_linear_geometry()(float) specification. |
 
 
 ### Method: to_linear_geometry(tolerance) {#to_linear_geometry_tolerance_41}

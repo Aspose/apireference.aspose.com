@@ -11,7 +11,7 @@ Altitude mode for KML geometries.
 
 **Full Name:** aspose.gis.formats.kml.AltitudeModes
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.5.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.geometries/igeometry/
 
 **Full Name:** aspose.gis.geometries.IGeometry
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.5.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
@@ -685,7 +685,7 @@ Gets approximate or equivalent non-curve version of this geometry using the defa
 
 | Type | Description |
 | :- | :- |
-| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | A geometry that has no curve geometries. This is the equivalent of <DOM Element: class at 0x1d98cc8a310>.IGeometry.to_linear_geometry()(float) with<br/>            default <c>tolerance</c>. Default <c>tolerance</c> is defined by [IGeometry.spatial_reference_system](/psd/python-net/aspose.gis.geometries/igeometry/)<br/>            of this geometry:<br/>            <ul><br/>            <li> For projected SRS Tolerance is 0.001 meters (in SRS units) </li><br/>            <li> For geographic SRS Tolerance is <c>1e-5</c> degrees (in SRS units) </li><br/>            <li> For unknown SRS Tolerance is <c>1e-5</c> </li><br/>            </ul><br/>            For more details on what transformations are applied refer to <DOM Element: class at 0x1d98cc8a310>.IGeometry.to_linear_geometry()(float) specification. |
+| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | A geometry that has no curve geometries. This is the equivalent of <DOM Element: class at 0x220622c7310>.IGeometry.to_linear_geometry()(float) with<br/>            default <c>tolerance</c>. Default <c>tolerance</c> is defined by [IGeometry.spatial_reference_system](/psd/python-net/aspose.gis.geometries/igeometry/)<br/>            of this geometry:<br/>            <ul><br/>            <li> For projected SRS Tolerance is 0.001 meters (in SRS units) </li><br/>            <li> For geographic SRS Tolerance is <c>1e-5</c> degrees (in SRS units) </li><br/>            <li> For unknown SRS Tolerance is <c>1e-5</c> </li><br/>            </ul><br/>            For more details on what transformations are applied refer to <DOM Element: class at 0x220622c7310>.IGeometry.to_linear_geometry()(float) specification. |
 
 
 ### Method: to_linear_geometry(tolerance) {#to_linear_geometry_tolerance_32}

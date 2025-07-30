@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/extent/
 
 **Full Name:** aspose.gis.Extent
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.5.0
 
 ## **Constructors**
 | **Name** | **Description** |

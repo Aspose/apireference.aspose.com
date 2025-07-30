@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/driver/
 
 **Full Name:** aspose.gis.Driver
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.5.0
 
 
 

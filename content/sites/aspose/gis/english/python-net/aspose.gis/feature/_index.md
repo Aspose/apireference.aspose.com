@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/feature/
 
 **Full Name:** aspose.gis.Feature
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.5.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

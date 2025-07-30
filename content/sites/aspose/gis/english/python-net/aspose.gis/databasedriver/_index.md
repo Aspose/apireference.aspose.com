@@ -13,7 +13,7 @@ url: /python-net/aspose.gis/databasedriver/
 
 **Inheritance:** Driver
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.5.0
 
 
 

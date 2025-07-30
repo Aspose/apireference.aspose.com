@@ -1,7 +1,7 @@
 ---
 title: VectorLayer Class
 type: docs
-weight: 3900
+weight: 3910
 url: /python-net/aspose.gis/vectorlayer/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.gis/vectorlayer/
 
 **Inheritance:** FeaturesSequence
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.5.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
@@ -64,15 +64,19 @@ url: /python-net/aspose.gis/vectorlayer/
 | [use_attributes_index(index_path, attribute_name, force_rebuild)](#use_attributes_index_index_path_attribute_name_force_rebuild_36) | Loads attribute index to speed up filtering by attributes value in filter methods like Aspose.Gis.FeaturesSequence.WhereGreater``1(string,``0).<br/>            If index does not exist creates it first. Use <paramref name="forceRebuild" /> to force index recreation. |
 | [use_spatial_index(index_path, force_rebuild)](#use_spatial_index_index_path_force_rebuild_37) | Loads spatial index to speed up filtering by attributes value in filter methods like Aspose.Gis.FeaturesSequence.WhereIntersects(Aspose.Gis.Geometries.IGeometry)<br/>            and Aspose.Gis.VectorLayer.NearestTo(float,float).<br/>            If index does not exist creates it first. Use <paramref name="forceRebuild" /> to force index recreation. |
 | [use_spatial_index(index_path, force_rebuild)](#use_spatial_index_index_path_force_rebuild_38) | Loads spatial index to speed up filtering by attributes value in filter methods like Aspose.Gis.FeaturesSequence.WhereIntersects(Aspose.Gis.Geometries.IGeometry)<br/>            and Aspose.Gis.VectorLayer.NearestTo(float,float).<br/>            If index does not exist creates it first. Use <paramref name="forceRebuild" /> to force index recreation. |
-| [where_greater(attribute_name, value)](#where_greater_attribute_name_value_39) | Selects features with attribute value greater than the provided value. |
-| [where_greater_or_equal(attribute_name, value)](#where_greater_or_equal_attribute_name_value_40) | Selects features with attribute value greater or equal to the provided value. |
-| [where_intersects(extent)](#where_intersects_extent_41) | Filters features based on the extent. |
-| [where_intersects(geometry)](#where_intersects_geometry_42) | Filters features based on the provided geometry. |
-| [where_intersects(sequence)](#where_intersects_sequence_43) | Filters features based on the union of all geometries in other features sequence. |
-| [where_not_null(attribute_name)](#where_not_null_attribute_name_44) | Selects features with attribute not equal to null. |
-| [where_null(attribute_name)](#where_null_attribute_name_45) | Selects features with attribute equal to null. |
-| [where_set(attribute_name)](#where_set_attribute_name_46) | Selects features with attribute set. |
-| [where_unset(attribute_name)](#where_unset_attribute_name_47) | Selects features where specified attribute is not set. |
+| [where_equal(attribute_name, value)](#where_equal_attribute_name_value_39) | Selects features with attribute value equal to the provided value. |
+| [where_greater(attribute_name, value)](#where_greater_attribute_name_value_40) | Selects features with attribute value greater than the provided value. |
+| [where_greater_or_equal(attribute_name, value)](#where_greater_or_equal_attribute_name_value_41) | Selects features with attribute value greater or equal to the provided value. |
+| [where_intersects(extent)](#where_intersects_extent_42) | Filters features based on the extent. |
+| [where_intersects(geometry)](#where_intersects_geometry_43) | Filters features based on the provided geometry. |
+| [where_intersects(sequence)](#where_intersects_sequence_44) | Filters features based on the union of all geometries in other features sequence. |
+| [where_not_equal(attribute_name, value)](#where_not_equal_attribute_name_value_45) | Selects features with attribute value not equal to the provided value. |
+| [where_not_null(attribute_name)](#where_not_null_attribute_name_46) | Selects features with attribute not equal to null. |
+| [where_null(attribute_name)](#where_null_attribute_name_47) | Selects features with attribute equal to null. |
+| [where_set(attribute_name)](#where_set_attribute_name_48) | Selects features with attribute set. |
+| [where_smaller(attribute_name, value)](#where_smaller_attribute_name_value_49) | Selects features with attribute value smaller than the provided value. |
+| [where_smaller_or_equal(attribute_name, value)](#where_smaller_or_equal_attribute_name_value_50) | Selects features with attribute value smaller or equal to the provided value. |
+| [where_unset(attribute_name)](#where_unset_attribute_name_51) | Selects features where specified attribute is not set. |
 
 
 ### Method: add(feature) {#add_feature_1}
@@ -815,7 +819,30 @@ Loads spatial index to speed up filtering by attributes value in filter methods 
 | index_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | Path to the index file. |
 | force_rebuild | bool | Whether to recreate index even if it already exists. |
 
-### Method: where_greater(attribute_name, value) {#where_greater_attribute_name_value_39}
+### Method: where_equal(attribute_name, value) {#where_equal_attribute_name_value_39}
+
+
+```
+ where_equal(attribute_name, value) 
+```
+
+Selects features with attribute value equal to the provided value.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| attribute_name | string | Attribute to filter by. |
+| value | object | Value to compare against. |
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value equal to the provided value. |
+
+
+### Method: where_greater(attribute_name, value) {#where_greater_attribute_name_value_40}
 
 
 ```
@@ -838,7 +865,7 @@ Selects features with attribute value greater than the provided value.
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value greater than the provided value. |
 
 
-### Method: where_greater_or_equal(attribute_name, value) {#where_greater_or_equal_attribute_name_value_40}
+### Method: where_greater_or_equal(attribute_name, value) {#where_greater_or_equal_attribute_name_value_41}
 
 
 ```
@@ -861,7 +888,7 @@ Selects features with attribute value greater or equal to the provided value.
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value greater or equal to the provided value. |
 
 
-### Method: where_intersects(extent) {#where_intersects_extent_41}
+### Method: where_intersects(extent) {#where_intersects_extent_42}
 
 
 ```
@@ -883,7 +910,7 @@ Filters features based on the extent.
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features that intersect with the provided geometry. |
 
 
-### Method: where_intersects(geometry) {#where_intersects_geometry_42}
+### Method: where_intersects(geometry) {#where_intersects_geometry_43}
 
 
 ```
@@ -905,7 +932,7 @@ Filters features based on the provided geometry.
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features that intersect with the provided geometry. |
 
 
-### Method: where_intersects(sequence) {#where_intersects_sequence_43}
+### Method: where_intersects(sequence) {#where_intersects_sequence_44}
 
 
 ```
@@ -927,7 +954,30 @@ Filters features based on the union of all geometries in other features sequence
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features that intersect with the union of all geometries in other features sequence. |
 
 
-### Method: where_not_null(attribute_name) {#where_not_null_attribute_name_44}
+### Method: where_not_equal(attribute_name, value) {#where_not_equal_attribute_name_value_45}
+
+
+```
+ where_not_equal(attribute_name, value) 
+```
+
+Selects features with attribute value not equal to the provided value.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| attribute_name | string | Attribute to filter by. |
+| value | object | Value to compare against. |
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value not equal to the provided value. |
+
+
+### Method: where_not_null(attribute_name) {#where_not_null_attribute_name_46}
 
 
 ```
@@ -949,7 +999,7 @@ Selects features with attribute not equal to null.
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value not equal to null. |
 
 
-### Method: where_null(attribute_name) {#where_null_attribute_name_45}
+### Method: where_null(attribute_name) {#where_null_attribute_name_47}
 
 
 ```
@@ -971,7 +1021,7 @@ Selects features with attribute equal to null.
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value equal to null. |
 
 
-### Method: where_set(attribute_name) {#where_set_attribute_name_46}
+### Method: where_set(attribute_name) {#where_set_attribute_name_48}
 
 
 ```
@@ -993,7 +1043,53 @@ Selects features with attribute set.
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with set attribute value. |
 
 
-### Method: where_unset(attribute_name) {#where_unset_attribute_name_47}
+### Method: where_smaller(attribute_name, value) {#where_smaller_attribute_name_value_49}
+
+
+```
+ where_smaller(attribute_name, value) 
+```
+
+Selects features with attribute value smaller than the provided value.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| attribute_name | string | Attribute to filter by. |
+| value | object | Value to compare against. |
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value smaller than the provided value. |
+
+
+### Method: where_smaller_or_equal(attribute_name, value) {#where_smaller_or_equal_attribute_name_value_50}
+
+
+```
+ where_smaller_or_equal(attribute_name, value) 
+```
+
+Selects features with attribute value smaller or equal to the provided value.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| attribute_name | string | Attribute to filter by. |
+| value | object | Value to compare against. |
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value smaller or equal to the provided value. |
+
+
+### Method: where_unset(attribute_name) {#where_unset_attribute_name_51}
 
 
 ```

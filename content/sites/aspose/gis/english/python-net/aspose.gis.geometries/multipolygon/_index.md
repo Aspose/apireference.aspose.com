@@ -13,7 +13,7 @@ url: /python-net/aspose.gis.geometries/multipolygon/
 
 **Inheritance:** IGeometry, IGeometryCollection, IMultiSurface, IMultiPolygon, MultiSurface
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.5.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -929,7 +929,7 @@ Gets approximate or equivalent non-curve version of this geometry using the defa
 
 | Type | Description |
 | :- | :- |
-| [IMultiPolygon](/psd/python-net/aspose.gis.geometries/imultipolygon) | A [IMultiPolygon](/psd/python-net/aspose.gis.geometries/imultipolygon/) that approximates or equivalent to this [IMultiSurface](/psd/python-net/aspose.gis.geometries/imultisurface/).<br/>            This is the equivalent of <DOM Element: class at 0x1d98cdc6310>.IMultiSurface.to_linear_geometry()(float) with<br/>            default <c>tolerance</c>. Default <c>tolerance</c>s value is dependent on [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/)<br/>            of this geometry:<br/>            <ul><br/>            <li> For projected SRS Tolerance is 0.001 meters (in SRS units) </li><br/>            <li> For geographic SRS Tolerance is <c>1e-5</c> degrees (in SRS units) </li><br/>            <li> For unknown SRS Tolerance is <c>1e-5</c> </li><br/>            </ul><br/>            For more details on what transformations are applied refer to <DOM Element: class at 0x1d98cdc6310>.IMultiSurface.to_linear_geometry()(float) specification. |
+| [IMultiPolygon](/psd/python-net/aspose.gis.geometries/imultipolygon) | A [IMultiPolygon](/psd/python-net/aspose.gis.geometries/imultipolygon/) that approximates or equivalent to this [IMultiSurface](/psd/python-net/aspose.gis.geometries/imultisurface/).<br/>            This is the equivalent of <DOM Element: class at 0x22062402310>.IMultiSurface.to_linear_geometry()(float) with<br/>            default <c>tolerance</c>. Default <c>tolerance</c>s value is dependent on [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/)<br/>            of this geometry:<br/>            <ul><br/>            <li> For projected SRS Tolerance is 0.001 meters (in SRS units) </li><br/>            <li> For geographic SRS Tolerance is <c>1e-5</c> degrees (in SRS units) </li><br/>            <li> For unknown SRS Tolerance is <c>1e-5</c> </li><br/>            </ul><br/>            For more details on what transformations are applied refer to <DOM Element: class at 0x22062402310>.IMultiSurface.to_linear_geometry()(float) specification. |
 
 
 ### Method: to_linear_geometry(tolerance) {#to_linear_geometry_tolerance_44}

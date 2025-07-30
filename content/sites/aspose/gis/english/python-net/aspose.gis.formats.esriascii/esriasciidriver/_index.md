@@ -13,7 +13,7 @@ url: /python-net/aspose.gis.formats.esriascii/esriasciidriver/
 
 **Inheritance:** RasterDriver
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.5.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

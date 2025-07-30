@@ -33,6 +33,7 @@ url: /python-net/aspose.gis/
 | [IFeatureStyle](/psd/python-net/aspose.gis/ifeaturestyle/) | The interface root class of the feature styles hierarchy. |
 | [License](/psd/python-net/aspose.gis/license/) | Provides methods to license the component. |
 | [Metered](/psd/python-net/aspose.gis/metered/) | Provides methods to set metered key. |
+| [MultiStreamPath](/psd/python-net/aspose.gis/multistreampath/) | This class works with formats which contains several files. |
 | [NumericFormat](/psd/python-net/aspose.gis/numericformat/) | [NumericFormat](/psd/python-net/aspose.gis/numericformat/) are used to format common numeric types in text. |
 | [PrecisionModel](/psd/python-net/aspose.gis/precisionmodel/) | [PrecisionModel](/psd/python-net/aspose.gis/precisionmodel/) specifies a number of significant digits in a coordinate. |
 | [RasterDriver](/psd/python-net/aspose.gis/rasterdriver/) | A driver for a specific raster based format. |

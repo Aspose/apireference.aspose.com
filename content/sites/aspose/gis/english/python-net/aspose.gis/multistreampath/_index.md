@@ -1,23 +1,29 @@
 ---
-title: AbstractPath Class
+title: MultiStreamPath Class
 type: docs
-weight: 10
-url: /python-net/aspose.gis/abstractpath/
+weight: 2620
+url: /python-net/aspose.gis/multistreampath/
 ---
 
-**Summary:** An <c>AbstractPath</c> is a base class for classes that specify a unique location in an environment similar to a filesystem,<br/>            like a local filesystem, a remote file storage or a ZIP archive, among others.
+**Summary:** This class works with formats which contains several files.
 
 **Module:** [aspose.gis](/psd/python-net/aspose.gis/)
 
-**Full Name:** aspose.gis.AbstractPath
+**Full Name:** aspose.gis.MultiStreamPath
+
+**Inheritance:** AbstractPath
 
 **Aspose.PSD Version:** 25.5.0
 
+## **Constructors**
+| **Name** | **Description** |
+| :- | :- |
+| [MultiStreamPath(entry_file_name, file_names, streams)](#MultiStreamPath_entry_file_name_file_names_streams_1) | Initializes a new instance of the [MultiStreamPath](/psd/python-net/aspose.gis/multistreampath/) class. |
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | location | string | r | Gets a string representation of the location of this <c>AbstractPath</c>. |
-| separator | char | r | Gets a separator character used to separate directory levels of the [AbstractPath.location](/psd/python-net/aspose.gis/abstractpath/) string. |
+| separator | char | r | Gets a separator character used to separate directory levels of the [MultiStreamPath.location](/psd/python-net/aspose.gis/multistreampath/) string. |
 ## **Methods**
 | **Name** | **Description** |
 | :- | :- |
@@ -30,9 +36,26 @@ url: /python-net/aspose.gis/abstractpath/
 | [get_file_name_without_extension()](#get_file_name_without_extension__6) | Returns the file name of this [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) without the extension. |
 | [is_file()](#is_file__7) | Gets a value indicating whether this path points to an existing file that can be opened for reading. |
 | [list_directory()](#list_directory__8) | Returns paths located inside this <c>AbstractPath</c>, if it's a directory. |
-| [open(access)](#open_access_9) | Opens this <c>AbstractPath</c> as a file. |
+| [open(access)](#open_access_9) | Abstracts a set of open streaming multi-file formats a path for accessing data. |
 | [with_extension(new_extension)](#with_extension_new_extension_10) | Returns a new [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) with the file extension changed to the specified value. |
 
+
+### Constructor: MultiStreamPath(entry_file_name, file_names, streams) {#MultiStreamPath_entry_file_name_file_names_streams_1}
+
+
+```
+ MultiStreamPath(entry_file_name, file_names, streams) 
+```
+
+Initializes a new instance of the [MultiStreamPath](/psd/python-net/aspose.gis/multistreampath/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| entry_file_name | string | Name of the entry file. |
+| file_names | string | The file names. |
+| streams | _io.BufferedRandom[] | The streams. |
 
 ### Method: combine(location) {#combine_location_1}
 
@@ -187,7 +210,7 @@ Returns paths located inside this <c>AbstractPath</c>, if it's a directory.
  open(access) 
 ```
 
-Opens this <c>AbstractPath</c> as a file.
+Abstracts a set of open streaming multi-file formats a path for accessing data.
 
 **Parameters:**
 
@@ -199,7 +222,7 @@ Opens this <c>AbstractPath</c> as a file.
 
 | Type | Description |
 | :- | :- |
-| _io.BufferedRandom | A stream opened with the specified FileAccess. |
+| _io.BufferedRandom | This can be either a   or the stream originally passed by the client. |
 
 
 ### Method: with_extension(new_extension) {#with_extension_new_extension_10}
