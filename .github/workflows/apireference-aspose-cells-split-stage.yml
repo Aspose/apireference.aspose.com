@@ -24,6 +24,7 @@ jobs:
           - java
           - net
           - nodejs-cpp
+          - javascript-cpp
 
     steps:
       - name: Checkout main repository
