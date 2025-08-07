@@ -76,7 +76,11 @@ defaultContentLang = 'en'
 	    	[[languages.en.menu.main]]
 	     	  name = "Aspose.Cells for Go via C++"
 			  url = "/go-cpp/"
-			  weight = 80
+			  weight = 90
+	    	[[languages.en.menu.main]]
+	     	  name = "Aspose.Cells for JavaScript via C++"
+			  url = "/javascript-cpp/"
+			  weight = 95
 		[languages.ru]
 	    contentDir = 'content/sites/aspose/cells/russian'
 	    languageName = 'Русский'
@@ -120,6 +124,10 @@ defaultContentLang = 'en'
 	          name = "Aspose.Cells для Go через C++"
 	          url = "../go-cpp/"
 	          weight = 90
+	        [[languages.ru.menu.main]]
+	          name = "Aspose.Cells для JavaScript через C++"
+	          url = "../javascript-cpp/"
+	          weight = 95
 		[languages.zh]
 	    contentDir = 'content/sites/aspose/cells/chinese'
 	    languageName = '中文'
@@ -163,6 +171,10 @@ defaultContentLang = 'en'
 	          name = "Aspose.Cells for Go via C++"
 	          url = "../go-cpp/"
 	          weight = 90
+	        [[languages.zh.menu.main]]
+	          name = "Aspose.Cells for JavaScript via C++"
+	          url = "../javascript-cpp/"
+	          weight = 95
 		[languages.ar]
 	    contentDir = 'content/sites/aspose/cells/arabic'
 	    languageName = 'العربية'
@@ -206,6 +218,10 @@ defaultContentLang = 'en'
 	          name = "Aspose.Cells لـ Go عبر C++"
 	          url = "../go-cpp/"
 	          weight = 90
+	        [[languages.ar.menu.main]]
+	          name = "Aspose.Cells لـ JavaScript عبر C++"
+	          url = "../javascript-cpp/"
+	          weight = 95
 		[languages.fr]
 	    contentDir = 'content/sites/aspose/cells/french'
 	    languageName = 'Français'
@@ -249,6 +265,10 @@ defaultContentLang = 'en'
 	          name = "Aspose.Cells pour Go via C++"
 	          url = "../go-cpp/"
 	          weight = 90
+	        [[languages.fr.menu.main]]
+	          name = "Aspose.Cells pour JavaScript via C++"
+	          url = "../javascript-cpp/"
+	          weight = 95
 		[languages.de]
 	    contentDir = 'content/sites/aspose/cells/german'
 	    languageName = 'Deutsch'
@@ -292,6 +312,10 @@ defaultContentLang = 'en'
 	          name = "Aspose.Cells für Go über C++"
 	          url = "../go-cpp/"
 	          weight = 90
+	        [[languages.de.menu.main]]
+	          name = "Aspose.Cells für JavaScript über C++"
+	          url = "../javascript-cpp/"
+	          weight = 95
 		[languages.it]
 	    contentDir = 'content/sites/aspose/cells/italian'
 	    languageName = 'Italiano'
@@ -335,6 +359,10 @@ defaultContentLang = 'en'
 	          name = "Aspose.Cells per Go tramite C++"
 	          url = "../go-cpp/"
 	          weight = 90
+	        [[languages.it.menu.main]]
+	          name = "Aspose.Cells per JavaScript tramite C++"
+	          url = "../javascript-cpp/"
+	          weight = 95
 		[languages.es]
 	    contentDir = 'content/sites/aspose/cells/spanish'
 	    languageName = 'Español'
@@ -378,6 +406,10 @@ defaultContentLang = 'en'
 	          name = "Aspose.Cells para Go mediante C++"
 	          url = "../go-cpp/"
 	          weight = 90
+	        [[languages.es.menu.main]]
+	          name = "Aspose.Cells para JavaScript mediante C++"
+	          url = "../javascript-cpp/"
+	          weight = 95
 		[languages.sv]
 	    contentDir = 'content/sites/aspose/cells/swedish'
 	    languageName = 'Svenska'
@@ -421,6 +453,10 @@ defaultContentLang = 'en'
 	          name = "Aspose.Cells för Go via C++"
 	          url = "../go-cpp/"
 	          weight = 90
+	        [[languages.sv.menu.main]]
+	          name = "Aspose.Cells för JavaScript via C++"
+	          url = "../javascript-cpp/"
+	          weight = 95
 		[languages.tr]
 	    contentDir = 'content/sites/aspose/cells/turkish'
 	    languageName = 'Türkçe'
@@ -464,6 +500,10 @@ defaultContentLang = 'en'
 	          name = "Aspose.Cells için Go üzerinden C++"
 	          url = "../go-cpp/"
 	          weight = 90
+	        [[languages.tr.menu.main]]
+	          name = "Aspose.Cells için JavaScript üzerinden C++"
+	          url = "../javascript-cpp/"
+	          weight = 95
 
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 
