@@ -53,7 +53,7 @@ Create, edit or convert Excel spreadsheets in your application. Includes individ
 {{< blocks/product-item title="Python via .NET" href="/cells/python-net/" class="btn-python" >}}
 {{< blocks/product-item title="Node.JS via C++" href="/cells/nodejs-cpp/" class="btn-nodejs" >}}
 {{< blocks/product-item title="Go via C++" href="/cells/go-cpp/" class="btn-c" >}}
-
+{{< blocks/product-item title="JavaScript via C++" href="/cells/javascript-cpp/" class="btn-nodejs" >}}
 {{< /blocks/product-card >}}
 
 {{< blocks/product-card title="**Aspose.Email**" href="email" >}}
