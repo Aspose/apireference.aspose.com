@@ -3,7 +3,7 @@ title: DrawingColor
 second_title: Aspose.OMR for Java API Reference
 description: Color used in template generation
 type: docs
-weight: 34
+weight: 35
 url: /java/com.aspose.omr/drawingcolor/
 ---
 

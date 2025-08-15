@@ -3,7 +3,7 @@ title: IOmrElement
 second_title: Aspose.OMR for Java API Reference
 description: The interface for the OMR elements
 type: docs
-weight: 30
+weight: 31
 url: /java/com.aspose.omr/iomrelement/
 ---
 ```

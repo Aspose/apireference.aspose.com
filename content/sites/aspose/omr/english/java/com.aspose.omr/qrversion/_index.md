@@ -3,7 +3,7 @@ title: QrVersion
 second_title: Aspose.OMR for Java API Reference
 description: 
 type: docs
-weight: 37
+weight: 38
 url: /java/com.aspose.omr/qrversion/
 ---
 

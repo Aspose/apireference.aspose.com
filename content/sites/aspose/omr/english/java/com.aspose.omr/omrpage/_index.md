@@ -35,6 +35,7 @@ Represents single omr page
 | [getHeight()](#getHeight) | Gets or sets page height |
 | [getImageFormat()](#getImageFormat) | Gets or sets the image file format |
 | [getImageName()](#getImageName) | Gets or sets the image data |
+| [getRotationPointPosition()](#getRotationPointPosition) | Gets or sets the RotationPointPosition |
 | [getWidth()](#getWidth) | Gets or sets page width |
 | [hashCode()](#hashCode) |  |
 | [notify()](#notify) |  |
@@ -43,6 +44,7 @@ Represents single omr page
 | [setHeight(double value)](#setHeight-double) | Gets or sets page height |
 | [setImageFormat(String value)](#setImageFormat-java.lang.String) | Gets or sets the image file format |
 | [setImageName(String value)](#setImageName-java.lang.String) | Gets or sets the image name |
+| [setRotationPointPosition(RotationPointPosition value)](#setRotationPointPosition-com.aspose.omr.RotationPointPosition) | Gets or sets the RotationPointPosition |
 | [setWidth(double value)](#setWidth-double) | Gets or sets page width |
 | [toString()](#toString) |  |
 | [wait()](#wait) |  |
@@ -217,6 +219,16 @@ Gets or sets the image data
 
 **Returns:**
 java.lang.String - the image name
+### getRotationPointPosition() {#getRotationPointPosition}
+```
+public final RotationPointPosition getRotationPointPosition()
+```
+
+
+Gets or sets the RotationPointPosition
+
+**Returns:**
+[RotationPointPosition](../../com.aspose.omr/rotationpointposition/) - RotationPointPosition
 ### getWidth() {#getWidth}
 ```
 public final double getWidth()
@@ -304,6 +316,19 @@ Gets or sets the image name
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.lang.String | image name |
+
+### setRotationPointPosition(RotationPointPosition value) {#setRotationPointPosition-com.aspose.omr.RotationPointPosition}
+```
+public final void setRotationPointPosition(RotationPointPosition value)
+```
+
+
+Gets or sets the RotationPointPosition
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [RotationPointPosition](../../com.aspose.omr/rotationpointposition/) | RotationPointPosition |
 
 ### setWidth(double value) {#setWidth-double}
 ```
