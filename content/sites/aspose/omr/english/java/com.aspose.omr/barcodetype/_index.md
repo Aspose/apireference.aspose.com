@@ -3,7 +3,7 @@ title: BarcodeType
 second_title: Aspose.OMR for Java API Reference
 description: Type of Barcodes allowed in barcode generationrecognition
 type: docs
-weight: 32
+weight: 33
 url: /java/com.aspose.omr/barcodetype/
 ---
 

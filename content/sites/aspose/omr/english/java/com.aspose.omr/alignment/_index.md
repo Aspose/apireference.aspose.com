@@ -3,7 +3,7 @@ title: Alignment
 second_title: Aspose.OMR for Java API Reference
 description: 
 type: docs
-weight: 31
+weight: 32
 url: /java/com.aspose.omr/alignment/
 ---
 

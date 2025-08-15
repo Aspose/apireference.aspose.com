@@ -1,29 +1,31 @@
 ---
-title: PaperSize
+title: RotationPointPosition
 second_title: Aspose.OMR for Java API Reference
-description: Supported Paper sizes
+description: 
 type: docs
-weight: 37
-url: /java/com.aspose.omr/papersize/
+weight: 39
+url: /java/com.aspose.omr/rotationpointposition/
 ---
 
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 ```
-public enum PaperSize extends Enum<PaperSize>
+public enum RotationPointPosition extends Enum<RotationPointPosition>
 ```
-
-Supported Paper sizes
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [A4](#A4) | A4 size(2480 x 3508 pixels) |
-| [Legal](#Legal) | Legal size(2551 x 4205 pixels) |
-| [Letter](#Letter) | Letter size(2551 x 3295 pixels) |
-| [Tabloid](#Tabloid) | Tabloid, 11" x 17" size(3295 x 5102) |
-| [p8519](#p8519) | 8.5" x 19" size(2551 x 5702) |
-| [p8521](#p8521) | 8.5 x 21" size(2551 x 6302) |
+| [BottomLeft1](#BottomLeft1) |  |
+| [BottomLeft2](#BottomLeft2) |  |
+| [BottomRight1](#BottomRight1) |  |
+| [BottomRight2](#BottomRight2) |  |
+| [ID](#ID) |  |
+| [TopLeft1](#TopLeft1) |  |
+| [TopLeft2](#TopLeft2) |  |
+| [TopRight1](#TopRight1) |  |
+| [TopRight2](#TopRight2) |  |
+| [undefined](#undefined) |  |
 ## Methods
 
 | Method | Description |
@@ -44,53 +46,65 @@ Supported Paper sizes
 | [wait()](#wait) |  |
 | [wait(long arg0)](#wait-long) |  |
 | [wait(long arg0, int arg1)](#wait-long-int) |  |
-### A4 {#A4}
+### BottomLeft1 {#BottomLeft1}
 ```
-public static final PaperSize A4
-```
-
-
-A4 size(2480 x 3508 pixels)
-
-### Legal {#Legal}
-```
-public static final PaperSize Legal
+public static final RotationPointPosition BottomLeft1
 ```
 
 
-Legal size(2551 x 4205 pixels)
-
-### Letter {#Letter}
+### BottomLeft2 {#BottomLeft2}
 ```
-public static final PaperSize Letter
+public static final RotationPointPosition BottomLeft2
 ```
 
 
-Letter size(2551 x 3295 pixels)
-
-### Tabloid {#Tabloid}
+### BottomRight1 {#BottomRight1}
 ```
-public static final PaperSize Tabloid
+public static final RotationPointPosition BottomRight1
 ```
 
 
-Tabloid, 11" x 17" size(3295 x 5102)
-
-### p8519 {#p8519}
+### BottomRight2 {#BottomRight2}
 ```
-public static final PaperSize p8519
+public static final RotationPointPosition BottomRight2
 ```
 
 
-8.5" x 19" size(2551 x 5702)
-
-### p8521 {#p8521}
+### ID {#ID}
 ```
-public static final PaperSize p8521
+public int ID
 ```
 
 
-8.5 x 21" size(2551 x 6302)
+### TopLeft1 {#TopLeft1}
+```
+public static final RotationPointPosition TopLeft1
+```
+
+
+### TopLeft2 {#TopLeft2}
+```
+public static final RotationPointPosition TopLeft2
+```
+
+
+### TopRight1 {#TopRight1}
+```
+public static final RotationPointPosition TopRight1
+```
+
+
+### TopRight2 {#TopRight2}
+```
+public static final RotationPointPosition TopRight2
+```
+
+
+### undefined {#undefined}
+```
+public static final RotationPointPosition undefined
+```
+
 
 ### <T>valueOf(Class<T> arg0, String arg1) {#-T-valueOf-java.lang.Class-T--java.lang.String}
 ```
@@ -216,7 +230,7 @@ public String toString()
 java.lang.String
 ### valueOf(String name) {#valueOf-java.lang.String}
 ```
-public static PaperSize valueOf(String name)
+public static RotationPointPosition valueOf(String name)
 ```
 
 
@@ -228,17 +242,17 @@ public static PaperSize valueOf(String name)
 | name | java.lang.String |  |
 
 **Returns:**
-[PaperSize](../../com.aspose.omr/papersize/)
+[RotationPointPosition](../../com.aspose.omr/rotationpointposition/)
 ### values() {#values}
 ```
-public static PaperSize[] values()
+public static RotationPointPosition[] values()
 ```
 
 
 
 
 **Returns:**
-com.aspose.omr.PaperSize[]
+com.aspose.omr.RotationPointPosition[]
 ### wait() {#wait}
 ```
 public final void wait()

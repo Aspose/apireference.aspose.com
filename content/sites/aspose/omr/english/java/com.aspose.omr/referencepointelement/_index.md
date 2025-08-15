@@ -22,6 +22,7 @@ public class ReferencePointElement extends OmrElement
 | Field | Description |
 | --- | --- |
 | [ElementType](#ElementType) |  |
+| [ReferenceType](#ReferenceType) |  |
 ## Methods
 
 | Method | Description |
@@ -55,6 +56,12 @@ public ReferencePointElement()
 ### ElementType {#ElementType}
 ```
 public String ElementType
+```
+
+
+### ReferenceType {#ReferenceType}
+```
+public ReferencePointType ReferenceType
 ```
 
 

@@ -3,7 +3,7 @@ title: TemplateProcessor
 second_title: Aspose.OMR for Java API Reference
 description: Class for processing templates and images
 type: docs
-weight: 29
+weight: 30
 url: /java/com.aspose.omr/templateprocessor/
 ---
 

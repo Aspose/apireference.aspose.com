@@ -34,6 +34,7 @@ The  **com.aspose.omr** package provides classes for creating and recognizing om
 | [Orientations](../com.aspose.omr/orientations/) | Possible question orientation |
 | [RecognitionResult](../com.aspose.omr/recognitionresult/) | The result of the image recognition. |
 | [ReferencePointElement](../com.aspose.omr/referencepointelement/) |  |
+| [ReferencePointsSettings](../com.aspose.omr/referencepointssettings/) | The global settings for reference points applicable to all page elements. |
 | [TemplateProcessor](../com.aspose.omr/templateprocessor/) | Class for processing templates and images. |
 
 ## Interfaces
@@ -53,3 +54,4 @@ The  **com.aspose.omr** package provides classes for creating and recognizing om
 | [FontStyle](../com.aspose.omr/fontstyle/) |  |
 | [PaperSize](../com.aspose.omr/papersize/) | Supported Paper sizes |
 | [QrVersion](../com.aspose.omr/qrversion/) |  |
+| [RotationPointPosition](../com.aspose.omr/rotationpointposition/) |  |

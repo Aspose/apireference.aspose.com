@@ -30,6 +30,7 @@ The global settings applicable to all page elements.
 | [FontSize](#FontSize) | The size of the Font |
 | [FontStyle](#FontStyle) | The style of the Font |
 | [PaperSize](#PaperSize) | Page size. |
+| [ReferencePoints](#ReferencePoints) | Settings describing behavior for Reference Point of the template: black squares at the corners and rotation marker black rectangle between. |
 ## Methods
 
 | Method | Description |
@@ -102,6 +103,14 @@ public PaperSize PaperSize
 
 
 Page size. Uses paper proportions at 300 dpi.
+
+### ReferencePoints {#ReferencePoints}
+```
+public ReferencePointsSettings ReferencePoints
+```
+
+
+Settings describing behavior for Reference Point of the template: black squares at the corners and rotation marker black rectangle between. \*
 
 ### equals(Object arg0) {#equals-java.lang.Object}
 ```
