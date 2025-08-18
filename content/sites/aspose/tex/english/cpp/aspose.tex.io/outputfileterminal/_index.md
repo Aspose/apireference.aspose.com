@@ -21,7 +21,7 @@ class OutputFileTerminal : public Aspose::TeX::IO::IOutputTerminal
 | Method | Description |
 | --- | --- |
 | [get_Writer](./get_writer/)() override | Gets the writer for the output terminal. |
-| [OutputFileTerminal](./outputfileterminal/)(System::SharedPtr\<IOutputWorkingDirectory\>) | Creates new instance. |
+| [OutputFileTerminal](./outputfileterminal/)(System::SharedPtr\<Aspose::TeX::IO::IOutputWorkingDirectory\>) | Creates new instance. |
 ## See Also
 
 * Class [IOutputTerminal](../ioutputterminal/)

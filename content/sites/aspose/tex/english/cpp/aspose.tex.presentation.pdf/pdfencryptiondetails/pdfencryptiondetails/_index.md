@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/pdfencryptiondetails/
 Initializes a new instance of the [PdfEncryptionDetailsCore](../) class.
 
 ```cpp
-Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::PdfEncryptionDetails(System::String userPassword, System::String ownerPassword, int32_t permissions, PdfEncryptionAlgorithm encryptionAlgorithm)
+Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::PdfEncryptionDetails(System::String userPassword, System::String ownerPassword, int32_t permissions, Aspose::TeX::Presentation::Pdf::PdfEncryptionAlgorithm encryptionAlgorithm)
 ```
 
 
@@ -22,7 +22,7 @@ Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::PdfEncryptionDetails(Syste
 | userPassword | System::String | The user password. |
 | ownerPassword | System::String | The owner password. |
 | permissions | int32_t | The permissions. |
-| encryptionAlgorithm | PdfEncryptionAlgorithm | The encryption algorithm. |
+| encryptionAlgorithm | Aspose::TeX::Presentation::Pdf::PdfEncryptionAlgorithm | The encryption algorithm. |
 
 ## See Also
 

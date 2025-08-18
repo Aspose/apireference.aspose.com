@@ -22,7 +22,7 @@ class MathRendererPlugin : public Aspose::TeX::Plugins::IPlugin,
 | Method | Description |
 | --- | --- |
 | [Dispose](./dispose/)() override | Disposes this instance. |
-| [Process](./process/)(System::SharedPtr\<IPluginOptions\>) override | Runs Math Renderer processing with the specified parameters. |
+| [Process](./process/)(System::SharedPtr\<Aspose::TeX::Plugins::IPluginOptions\>) override | Runs Math Renderer processing with the specified parameters. |
 ## See Also
 
 * Class [IPlugin](../iplugin/)

@@ -23,8 +23,8 @@ class LaTeXRepairerEngine : public Aspose::TeX::ObjectTeXEngine
 | [ApplyFixes](./applyfixes/)(System::SharedPtr\<System::IO::MemoryStream\>, System::String, System::SharedPtr\<Aspose::TeX::IO::IOutputWorkingDirectory\>) |  |
 | [FixDocumentClass](./fixdocumentclass/)() |  |
 | [get_DoneFixes](./get_donefixes/)() |  |
-| [LaTeXRepairerEngine](./latexrepairerengine/)(System::String, System::SharedPtr\<LaTeXRepairerOptions\>) | Create a new instance. |
-| [LaTeXRepairerEngine](./latexrepairerengine/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<LaTeXRepairerOptions\>, System::SharedPtr\<LaTeXRepairerEngine\>, int32_t) |  |
+| [LaTeXRepairerEngine](./latexrepairerengine/)(System::String, System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerOptions\>) | Create a new instance. |
+| [LaTeXRepairerEngine](./latexrepairerengine/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerOptions\>, System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerEngine\>, int32_t) |  |
 | [set_Verbosity](./set_verbosity/)(Aspose::TeX::Verbosity) |  |
 | [WriteLog](./writelog/)(System::SharedPtr\<System::IO::StreamWriter\>) |  |
 ## See Also

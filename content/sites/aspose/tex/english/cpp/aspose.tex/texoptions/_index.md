@@ -20,7 +20,7 @@ class TeXOptions : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [ConsoleAppOptions](./consoleappoptions/)(System::SharedPtr\<TeXConfig\>) | Returns options for use in a console application. |
+| static [ConsoleAppOptions](./consoleappoptions/)(System::SharedPtr\<Aspose::TeX::TeXConfig\>) | Returns options for use in a console application. |
 | [get_DateTime](./get_datetime/)() const | Gets/sets a certain value for date/time primitives like \year, \month, \day and \time. |
 | [get_Executables](./get_executables/)() const | A customizable collection of objects that emulate executables, which can be executed using the \write18 commands in Object [TeX](../). |
 | [get_FullInputFileNames](./get_fullinputfilenames/)() const | Gets/sets the flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins. |
@@ -39,17 +39,17 @@ class TeXOptions : public System::Object
 | [set_DateTime](./set_datetime/)(System::DateTime) | Gets/sets a certain value for date/time primitives like \year, \month, \day and \time. |
 | [set_FullInputFileNames](./set_fullinputfilenames/)(bool) | Gets/sets the flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins. |
 | [set_IgnoreMissingPackages](./set_ignoremissingpackages/)(bool) | Gets/sets the flag that instructs the engine whether to halt on missing package read attempt or ignore it. |
-| [set_InputWorkingDirectory](./set_inputworkingdirectory/)(System::SharedPtr\<IO::IInputWorkingDirectory\>) | Gets/sets input working directory. |
+| [set_InputWorkingDirectory](./set_inputworkingdirectory/)(System::SharedPtr\<Aspose::TeX::IO::IInputWorkingDirectory\>) | Gets/sets input working directory. |
 | [set_Interaction](./set_interaction/)(Aspose::TeX::Interaction) | Gets/sets the interaction mode to run a [TeX](../) engine in. |
 | [set_JobName](./set_jobname/)(System::String) | Gets/set the name of the job. |
 | [set_NoLigatures](./set_noligatures/)(bool) | Gets/sets the flag that cancels ligatures in all fonts. |
-| [set_OutputWorkingDirectory](./set_outputworkingdirectory/)(System::SharedPtr\<IO::IOutputWorkingDirectory\>) | Gets/sets output working directory. |
+| [set_OutputWorkingDirectory](./set_outputworkingdirectory/)(System::SharedPtr\<Aspose::TeX::IO::IOutputWorkingDirectory\>) | Gets/sets output working directory. |
 | [set_Repeat](./set_repeat/)(bool) | Gets/sets the flag that indicates whether it is necessary to run the [TeX](../) job twice in case, for example, there are references in input [TeX](../) file(s). In general, this behavior is useful when the engine collects some data along the typesetting process and stores it in an auxilliary file, all at the first run. And at the second run, the engine somehow uses that data. |
-| [set_RequiredInputDirectory](./set_requiredinputdirectory/)(System::SharedPtr\<IO::IInputWorkingDirectory\>) | Gets/sets the directory for the required input, e.g., packages that are beyond [Aspose.TeX](../)'s LaTeX support. |
+| [set_RequiredInputDirectory](./set_requiredinputdirectory/)(System::SharedPtr\<Aspose::TeX::IO::IInputWorkingDirectory\>) | Gets/sets the directory for the required input, e.g., packages that are beyond [Aspose.TeX](../)'s LaTeX support. |
 | [set_SaveOptions](./set_saveoptions/)(System::SharedPtr\<Aspose::TeX::Presentation::SaveOptions\>) | Gets/sets options used for rendering into destination format (XPS, PDF, image, etc.). Default value is the set of default options for rendering to XPS. |
 | [set_ShellMode](./set_shellmode/)(Aspose::TeX::ShellMode) | Determines the availability of \write18. |
-| [set_TerminalIn](./set_terminalin/)(System::SharedPtr\<IO::IInputTerminal\>) | Gets/sets the input terminal reader. |
-| [set_TerminalOut](./set_terminalout/)(System::SharedPtr\<IO::IOutputTerminal\>) | Gets/sets the output terminal writer. |
+| [set_TerminalIn](./set_terminalin/)(System::SharedPtr\<Aspose::TeX::IO::IInputTerminal\>) | Gets/sets the input terminal reader. |
+| [set_TerminalOut](./set_terminalout/)(System::SharedPtr\<Aspose::TeX::IO::IOutputTerminal\>) | Gets/sets the output terminal writer. |
 ## See Also
 
 * Class [Object](../../system/object/)

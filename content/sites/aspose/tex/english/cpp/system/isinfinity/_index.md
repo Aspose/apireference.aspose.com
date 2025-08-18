@@ -4,7 +4,7 @@ linktitle: IsInfinity
 second_title: Aspose.TeX for C++
 description: 'System::IsInfinity method. Determines if the specified value represents infinity in C++.'
 type: docs
-weight: 20100
+weight: 20700
 url: /cpp/system/isinfinity/
 ---
 ## System::IsInfinity method

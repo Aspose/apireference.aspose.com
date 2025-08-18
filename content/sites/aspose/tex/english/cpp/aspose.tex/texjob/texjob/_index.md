@@ -7,20 +7,20 @@ type: docs
 weight: 100
 url: /cpp/aspose.tex/texjob/texjob/
 ---
-## TeXJob::TeXJob(System::SharedPtr\<Presentation::Device\>, System::SharedPtr\<TeXOptions\>) constructor
+## TeXJob::TeXJob(System::SharedPtr\<Aspose::TeX::Presentation::Device\>, System::SharedPtr\<Aspose::TeX::TeXOptions\>) constructor
 
 
 Creates a [TeX](../../) job for running the engine in production mode to typeset a [TeX](../../) document. The engine will prompt the file name as soon as it starts. Thus this run is supposed to be interactive.
 
 ```cpp
-Aspose::TeX::TeXJob::TeXJob(System::SharedPtr<Presentation::Device> device, System::SharedPtr<TeXOptions> options)
+Aspose::TeX::TeXJob::TeXJob(System::SharedPtr<Aspose::TeX::Presentation::Device> device, System::SharedPtr<Aspose::TeX::TeXOptions> options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| device | System::SharedPtr\<Presentation::Device\> | The device defining output representation. |
-| options | System::SharedPtr\<TeXOptions\> | [TeX](../../) engine run options. |
+| device | System::SharedPtr\<Aspose::TeX::Presentation::Device\> | The device defining output representation. |
+| options | System::SharedPtr\<Aspose::TeX::TeXOptions\> | [TeX](../../) engine run options. |
 
 ## See Also
 
@@ -30,21 +30,21 @@ Aspose::TeX::TeXJob::TeXJob(System::SharedPtr<Presentation::Device> device, Syst
 * Class [TeXJob](../)
 * Namespace [Aspose::TeX](../../)
 * Library [Aspose.TeX for C++](../../../)
-## TeXJob::TeXJob(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Presentation::Device\>, System::SharedPtr\<TeXOptions\>) constructor
+## TeXJob::TeXJob(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::TeX::Presentation::Device\>, System::SharedPtr\<Aspose::TeX::TeXOptions\>) constructor
 
 
 Creates a [TeX](../../) job for running the engine in production mode to typeset a [TeX](../../) file.
 
 ```cpp
-Aspose::TeX::TeXJob::TeXJob(System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<Presentation::Device> device, System::SharedPtr<TeXOptions> options)
+Aspose::TeX::TeXJob::TeXJob(System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<Aspose::TeX::Presentation::Device> device, System::SharedPtr<Aspose::TeX::TeXOptions> options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | System::SharedPtr\<System::IO::Stream\> | The stream containing the [TeX](../../) file. |
-| device | System::SharedPtr\<Presentation::Device\> | The device defining output representation. |
-| options | System::SharedPtr\<TeXOptions\> | [TeX](../../) engine run options. |
+| device | System::SharedPtr\<Aspose::TeX::Presentation::Device\> | The device defining output representation. |
+| options | System::SharedPtr\<Aspose::TeX::TeXOptions\> | [TeX](../../) engine run options. |
 
 ## See Also
 
@@ -55,21 +55,21 @@ Aspose::TeX::TeXJob::TeXJob(System::SharedPtr<System::IO::Stream> stream, System
 * Class [TeXJob](../)
 * Namespace [Aspose::TeX](../../)
 * Library [Aspose.TeX for C++](../../../)
-## TeXJob::TeXJob(System::String, System::SharedPtr\<Presentation::Device\>, System::SharedPtr\<TeXOptions\>) constructor
+## TeXJob::TeXJob(System::String, System::SharedPtr\<Aspose::TeX::Presentation::Device\>, System::SharedPtr\<Aspose::TeX::TeXOptions\>) constructor
 
 
 Creates a [TeX](../../) job for running the engine in production mode to typeset a [TeX](../../) file.
 
 ```cpp
-Aspose::TeX::TeXJob::TeXJob(System::String path, System::SharedPtr<Presentation::Device> device, System::SharedPtr<TeXOptions> options)
+Aspose::TeX::TeXJob::TeXJob(System::String path, System::SharedPtr<Aspose::TeX::Presentation::Device> device, System::SharedPtr<Aspose::TeX::TeXOptions> options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | path | System::String | The path to the [TeX](../../) file. |
-| device | System::SharedPtr\<Presentation::Device\> | The device defining output representation. |
-| options | System::SharedPtr\<TeXOptions\> | [TeX](../../) engine run options. |
+| device | System::SharedPtr\<Aspose::TeX::Presentation::Device\> | The device defining output representation. |
+| options | System::SharedPtr\<Aspose::TeX::TeXOptions\> | [TeX](../../) engine run options. |
 
 ## See Also
 

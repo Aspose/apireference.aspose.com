@@ -20,7 +20,7 @@ class IOutputDataContainer : public virtual System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [AddOutputDataTarget](./addoutputdatatarget/)(System::SharedPtr\<IDataSource\>) | Adds a new input data target to the collection. |
+| virtual [AddOutputDataTarget](./addoutputdatatarget/)(System::SharedPtr\<Aspose::TeX::Plugins::IDataSource\>) | Adds a new input data target to the collection. |
 | virtual [get_OutputDataCollection](./get_outputdatacollection/)() | Gets the collection of output data targets. |
 ## See Also
 

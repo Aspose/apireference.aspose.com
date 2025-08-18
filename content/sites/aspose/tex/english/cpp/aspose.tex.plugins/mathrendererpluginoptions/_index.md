@@ -23,8 +23,8 @@ class MathRendererPluginOptions : public Aspose::TeX::Features::MathRendererOpti
 
 | Method | Description |
 | --- | --- |
-| [AddInputDataSource](./addinputdatasource/)(System::SharedPtr\<IDataSource\>) override | Adds a new data source to the collection. |
-| [AddOutputDataTarget](./addoutputdatatarget/)(System::SharedPtr\<IDataSource\>) override | Adds a new input data target to the collection. |
+| [AddInputDataSource](./addinputdatasource/)(System::SharedPtr\<Aspose::TeX::Plugins::IDataSource\>) override | Adds a new data source to the collection. |
+| [AddOutputDataTarget](./addoutputdatatarget/)(System::SharedPtr\<Aspose::TeX::Plugins::IDataSource\>) override | Adds a new input data target to the collection. |
 | [get_InputDataCollection](./get_inputdatacollection/)() override | Gets the collection of data sources. |
 | virtual [get_OperationName](./get_operationname/)() | Returns operation name. |
 | [get_OutputDataCollection](./get_outputdatacollection/)() override | Gets collection of added targets for saving operation results. |

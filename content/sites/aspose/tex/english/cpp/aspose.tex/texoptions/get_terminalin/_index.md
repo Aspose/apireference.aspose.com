@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texoptions/get_terminalin/
 Gets/sets the input terminal reader.
 
 ```cpp
-System::SharedPtr<IO::IInputTerminal> Aspose::TeX::TeXOptions::get_TerminalIn() const
+System::SharedPtr<Aspose::TeX::IO::IInputTerminal> Aspose::TeX::TeXOptions::get_TerminalIn() const
 ```
 
 ## See Also

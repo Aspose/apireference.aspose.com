@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/mathrendererpluginoptions/get_inputdatacollection/
 Gets the collection of data sources.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<IDataSource>>> Aspose::TeX::Plugins::MathRendererPluginOptions::get_InputDataCollection() override
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Aspose::TeX::Plugins::IDataSource>>> Aspose::TeX::Plugins::MathRendererPluginOptions::get_InputDataCollection() override
 ```
 
 ## See Also

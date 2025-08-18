@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.resourceproviders/formatprovider/get_objecttex/
 Default format provider for ObjectTeX engine extension.
 
 ```cpp
-static System::SharedPtr<FormatProvider> Aspose::TeX::ResourceProviders::FormatProvider::get_ObjectTeX()
+static System::SharedPtr<Aspose::TeX::ResourceProviders::FormatProvider> Aspose::TeX::ResourceProviders::FormatProvider::get_ObjectTeX()
 ```
 
 ## See Also

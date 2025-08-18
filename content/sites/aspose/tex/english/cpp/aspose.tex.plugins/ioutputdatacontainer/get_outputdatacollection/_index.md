@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/ioutputdatacontainer/get_outputdatacollection/
 Gets the collection of output data targets.
 
 ```cpp
-virtual System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<IDataSource>>> Aspose::TeX::Plugins::IOutputDataContainer::get_OutputDataCollection()=0
+virtual System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Aspose::TeX::Plugins::IDataSource>>> Aspose::TeX::Plugins::IOutputDataContainer::get_OutputDataCollection()=0
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texoptions/set_requiredinputdirectory/
 Gets/sets the directory for the required input, e.g., packages that are beyond [Aspose.TeX](../../)'s LaTeX support.
 
 ```cpp
-void Aspose::TeX::TeXOptions::set_RequiredInputDirectory(System::SharedPtr<IO::IInputWorkingDirectory> value)
+void Aspose::TeX::TeXOptions::set_RequiredInputDirectory(System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> value)
 ```
 
 ## See Also

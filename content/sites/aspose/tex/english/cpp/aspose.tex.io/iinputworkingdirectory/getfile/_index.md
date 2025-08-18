@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.io/iinputworkingdirectory/getfile/
 Returns the stream to read from. MUST NOT return a null object. In case a stream cannot be returned, it MUST return a [NamedStream](../../namedstream/) object with a null Stream property value instead.
 
 ```cpp
-virtual System::SharedPtr<NamedStream> Aspose::TeX::IO::IInputWorkingDirectory::GetFile(System::String fileName, bool searchSubdirectories=false)=0
+virtual System::SharedPtr<Aspose::TeX::IO::NamedStream> Aspose::TeX::IO::IInputWorkingDirectory::GetFile(System::String fileName, bool searchSubdirectories=false)=0
 ```
 
 

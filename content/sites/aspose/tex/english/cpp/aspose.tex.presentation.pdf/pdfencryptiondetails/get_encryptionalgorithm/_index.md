@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/get_encryptionalgorit
 Gets the encryption mode.
 
 ```cpp
-PdfEncryptionAlgorithm Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::get_EncryptionAlgorithm() const
+Aspose::TeX::Presentation::Pdf::PdfEncryptionAlgorithm Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::get_EncryptionAlgorithm() const
 ```
 
 ## Remarks

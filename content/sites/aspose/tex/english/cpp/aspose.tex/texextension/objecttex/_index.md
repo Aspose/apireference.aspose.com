@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texextension/objecttex/
 ObjectTeX extension.
 
 ```cpp
-static System::SharedPtr<TeXExtension> & Aspose::TeX::TeXExtension::ObjectTeX()
+static System::SharedPtr<Aspose::TeX::TeXExtension> & Aspose::TeX::TeXExtension::ObjectTeX()
 ```
 
 ## See Also

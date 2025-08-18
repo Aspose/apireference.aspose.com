@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texconfig/objecttex/
 Gets the configuration of ObjectTeX engine extension with provided format preloaded.
 
 ```cpp
-static System::SharedPtr<TeXConfig> Aspose::TeX::TeXConfig::ObjectTeX(System::SharedPtr<Aspose::TeX::ResourceProviders::FormatProvider> formatProvider=nullptr)
+static System::SharedPtr<Aspose::TeX::TeXConfig> Aspose::TeX::TeXConfig::ObjectTeX(System::SharedPtr<Aspose::TeX::ResourceProviders::FormatProvider> formatProvider=nullptr)
 ```
 
 

@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.plugins/iinputdatacontainer/addinputdatasource/
 Adds a new input data source to the collection.
 
 ```cpp
-virtual void Aspose::TeX::Plugins::IInputDataContainer::AddInputDataSource(System::SharedPtr<IDataSource> dataSource)=0
+virtual void Aspose::TeX::Plugins::IInputDataContainer::AddInputDataSource(System::SharedPtr<Aspose::TeX::Plugins::IDataSource> dataSource)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dataSource | System::SharedPtr\<IDataSource\> | The data source. |
+| dataSource | System::SharedPtr\<Aspose::TeX::Plugins::IDataSource\> | The data source. |
 
 ## See Also
 

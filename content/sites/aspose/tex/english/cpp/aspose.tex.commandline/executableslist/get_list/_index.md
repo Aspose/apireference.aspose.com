@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.commandline/executableslist/get_list/
 Displays the collection as a read-only list of executables' names.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<Executable>>::KeyCollection> Aspose::TeX::CommandLine::ExecutablesList::get_List()
+System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<Aspose::TeX::CommandLine::Executable>>::KeyCollection> Aspose::TeX::CommandLine::ExecutablesList::get_List()
 ```
 
 ## See Also

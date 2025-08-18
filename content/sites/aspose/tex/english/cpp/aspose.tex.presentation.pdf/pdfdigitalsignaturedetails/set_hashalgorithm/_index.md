@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfdigitalsignaturedetails/set_hashalgorit
 Hash algorithm.
 
 ```cpp
-void Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::set_HashAlgorithm(PdfDigitalSignatureHashAlgorithm value)
+void Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::set_HashAlgorithm(Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureHashAlgorithm value)
 ```
 
 ## Remarks

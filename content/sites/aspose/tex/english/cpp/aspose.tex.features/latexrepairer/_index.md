@@ -20,7 +20,7 @@ class LaTeXRepairer : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [LaTeXRepairer](./latexrepairer/)(System::String, System::SharedPtr\<LaTeXRepairerOptions\>) | Creates a new instance. |
+| [LaTeXRepairer](./latexrepairer/)(System::String, System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerOptions\>) | Creates a new instance. |
 | [Run](./run/)() | Runs LaTeX file repair and check jobs. |
 ## See Also
 

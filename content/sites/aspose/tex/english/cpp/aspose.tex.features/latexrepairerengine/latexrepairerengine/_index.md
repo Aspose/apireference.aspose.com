@@ -7,13 +7,13 @@ type: docs
 weight: 100
 url: /cpp/aspose.tex.features/latexrepairerengine/latexrepairerengine/
 ---
-## LaTeXRepairerEngine::LaTeXRepairerEngine(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<LaTeXRepairerOptions\>, System::SharedPtr\<LaTeXRepairerEngine\>, int32_t) constructor
+## LaTeXRepairerEngine::LaTeXRepairerEngine(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerOptions\>, System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerEngine\>, int32_t) constructor
 
 
 
 
 ```cpp
-Aspose::TeX::Features::LaTeXRepairerEngine::LaTeXRepairerEngine(System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<LaTeXRepairerOptions> options, System::SharedPtr<LaTeXRepairerEngine> engine, int32_t stage)
+Aspose::TeX::Features::LaTeXRepairerEngine::LaTeXRepairerEngine(System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<Aspose::TeX::Features::LaTeXRepairerOptions> options, System::SharedPtr<Aspose::TeX::Features::LaTeXRepairerEngine> engine, int32_t stage)
 ```
 
 ## See Also
@@ -25,20 +25,20 @@ Aspose::TeX::Features::LaTeXRepairerEngine::LaTeXRepairerEngine(System::SharedPt
 * Class [LaTeXRepairerEngine](../)
 * Namespace [Aspose::TeX::Features](../../)
 * Library [Aspose.TeX for C++](../../../)
-## LaTeXRepairerEngine::LaTeXRepairerEngine(System::String, System::SharedPtr\<LaTeXRepairerOptions\>) constructor
+## LaTeXRepairerEngine::LaTeXRepairerEngine(System::String, System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerOptions\>) constructor
 
 
 Create a new instance.
 
 ```cpp
-Aspose::TeX::Features::LaTeXRepairerEngine::LaTeXRepairerEngine(System::String path, System::SharedPtr<LaTeXRepairerOptions> options)
+Aspose::TeX::Features::LaTeXRepairerEngine::LaTeXRepairerEngine(System::String path, System::SharedPtr<Aspose::TeX::Features::LaTeXRepairerOptions> options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | path | System::String | Path to the file containing [TeX](../../../aspose.tex/) input. |
-| options | System::SharedPtr\<LaTeXRepairerOptions\> | Typesetting options. |
+| options | System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerOptions\> | Typesetting options. |
 
 ## See Also
 

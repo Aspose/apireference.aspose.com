@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texoptions/get_terminalout/
 Gets/sets the output terminal writer.
 
 ```cpp
-System::SharedPtr<IO::IOutputTerminal> Aspose::TeX::TeXOptions::get_TerminalOut() const
+System::SharedPtr<Aspose::TeX::IO::IOutputTerminal> Aspose::TeX::TeXOptions::get_TerminalOut() const
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/mathrendererpluginoptions/get_outputdatacollection/
 Gets collection of added targets for saving operation results.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<IDataSource>>> Aspose::TeX::Plugins::MathRendererPluginOptions::get_OutputDataCollection() override
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Aspose::TeX::Plugins::IDataSource>>> Aspose::TeX::Plugins::MathRendererPluginOptions::get_OutputDataCollection() override
 ```
 
 ## See Also

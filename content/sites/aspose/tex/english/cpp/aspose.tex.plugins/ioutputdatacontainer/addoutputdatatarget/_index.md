@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.plugins/ioutputdatacontainer/addoutputdatatarget/
 Adds a new input data target to the collection.
 
 ```cpp
-virtual void Aspose::TeX::Plugins::IOutputDataContainer::AddOutputDataTarget(System::SharedPtr<IDataSource> dataTarget)=0
+virtual void Aspose::TeX::Plugins::IOutputDataContainer::AddOutputDataTarget(System::SharedPtr<Aspose::TeX::Plugins::IDataSource> dataTarget)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dataTarget | System::SharedPtr\<IDataSource\> | The data target. |
+| dataTarget | System::SharedPtr\<Aspose::TeX::Plugins::IDataSource\> | The data target. |
 
 ## See Also
 

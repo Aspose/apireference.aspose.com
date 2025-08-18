@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.io/outputfileterminal/outputfileterminal/
 Creates new instance.
 
 ```cpp
-Aspose::TeX::IO::OutputFileTerminal::OutputFileTerminal(System::SharedPtr<IOutputWorkingDirectory> workingDirectory)
+Aspose::TeX::IO::OutputFileTerminal::OutputFileTerminal(System::SharedPtr<Aspose::TeX::IO::IOutputWorkingDirectory> workingDirectory)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| workingDirectory | System::SharedPtr\<IOutputWorkingDirectory\> | The working directory. |
+| workingDirectory | System::SharedPtr\<Aspose::TeX::IO::IOutputWorkingDirectory\> | The working directory. |
 
 ## See Also
 

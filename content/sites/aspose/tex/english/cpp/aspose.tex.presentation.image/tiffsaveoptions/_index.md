@@ -22,7 +22,7 @@ class TiffSaveOptions : public Aspose::TeX::Presentation::Image::ImageSaveOption
 | --- | --- |
 | [get_Compression](./get_compression/)() const | Gets/sets the TIFF compression scheme. |
 | [get_Multipage](./get_multipage/)() const | Gets/sets the flag that defines if multiple images should be saved in a single multipage TIFF file. |
-| [set_Compression](./set_compression/)(TiffCompression) | Gets/sets the TIFF compression scheme. |
+| [set_Compression](./set_compression/)(Aspose::TeX::Presentation::Image::TiffCompression) | Gets/sets the TIFF compression scheme. |
 | [set_Multipage](./set_multipage/)(bool) | Gets/sets the flag that defines if multiple images should be saved in a single multipage TIFF file. |
 | [TiffSaveOptions](./tiffsaveoptions/)() | Creates new instance of options. |
 ## See Also

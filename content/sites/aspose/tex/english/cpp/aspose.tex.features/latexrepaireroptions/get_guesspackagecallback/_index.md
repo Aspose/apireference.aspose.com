@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/latexrepaireroptions/get_guesspackagecallback/
 Gets/sets the callback to externally guess a required package by command name.
 
 ```cpp
-System::SharedPtr<IGuessPackageCallback> Aspose::TeX::Features::LaTeXRepairerOptions::get_GuessPackageCallback() const
+System::SharedPtr<Aspose::TeX::Features::IGuessPackageCallback> Aspose::TeX::Features::LaTeXRepairerOptions::get_GuessPackageCallback() const
 ```
 
 ## See Also

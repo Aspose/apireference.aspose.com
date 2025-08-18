@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texoptions/get_executables/
 A customizable collection of objects that emulate executables, which can be executed using the \write18 commands in Object [TeX](../../).
 
 ```cpp
-System::SharedPtr<CommandLine::ExecutablesList> Aspose::TeX::TeXOptions::get_Executables() const
+System::SharedPtr<Aspose::TeX::CommandLine::ExecutablesList> Aspose::TeX::TeXOptions::get_Executables() const
 ```
 
 ## See Also

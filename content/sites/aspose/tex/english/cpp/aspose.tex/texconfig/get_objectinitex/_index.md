@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texconfig/get_objectinitex/
 Gets the configuration of ObjectTeX engine extension with no format preloaded, i.e. in INITEX mode. Supposed to be used for format preparation.
 
 ```cpp
-static System::SharedPtr<TeXConfig> Aspose::TeX::TeXConfig::get_ObjectIniTeX()
+static System::SharedPtr<Aspose::TeX::TeXConfig> Aspose::TeX::TeXConfig::get_ObjectIniTeX()
 ```
 
 ## See Also

@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.plugins/figurerendererplugin/process/
 Runs Figure Renderer processing with the specified parameters.
 
 ```cpp
-System::SharedPtr<ResultContainer> Aspose::TeX::Plugins::FigureRendererPlugin::Process(System::SharedPtr<IPluginOptions> options) override
+System::SharedPtr<Aspose::TeX::Plugins::ResultContainer> Aspose::TeX::Plugins::FigureRendererPlugin::Process(System::SharedPtr<Aspose::TeX::Plugins::IPluginOptions> options) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<IPluginOptions\> | An options object containing instructions for the FigureRenderer. |
+| options | System::SharedPtr\<Aspose::TeX::Plugins::IPluginOptions\> | An options object containing instructions for the FigureRenderer. |
 
 ### ReturnValue
 

@@ -13,13 +13,13 @@ url: /cpp/aspose.tex/texoptions/consoleappoptions/
 Returns options for use in a console application.
 
 ```cpp
-static System::SharedPtr<TeXOptions> Aspose::TeX::TeXOptions::ConsoleAppOptions(System::SharedPtr<TeXConfig> config)
+static System::SharedPtr<Aspose::TeX::TeXOptions> Aspose::TeX::TeXOptions::ConsoleAppOptions(System::SharedPtr<Aspose::TeX::TeXConfig> config)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| config | System::SharedPtr\<TeXConfig\> | A [TeX](../../) config. |
+| config | System::SharedPtr\<Aspose::TeX::TeXConfig\> | A [TeX](../../) config. |
 
 ### ReturnValue
 

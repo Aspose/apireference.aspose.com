@@ -20,7 +20,7 @@ class IInputDataContainer : public virtual System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [AddInputDataSource](./addinputdatasource/)(System::SharedPtr\<IDataSource\>) | Adds a new input data source to the collection. |
+| virtual [AddInputDataSource](./addinputdatasource/)(System::SharedPtr\<Aspose::TeX::Plugins::IDataSource\>) | Adds a new input data source to the collection. |
 | virtual [get_InputDataCollection](./get_inputdatacollection/)() | Gets the collection of input data sources. |
 ## See Also
 

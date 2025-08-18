@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texoptions/set_inputworkingdirectory/
 Gets/sets input working directory.
 
 ```cpp
-void Aspose::TeX::TeXOptions::set_InputWorkingDirectory(System::SharedPtr<IO::IInputWorkingDirectory> value)
+void Aspose::TeX::TeXOptions::set_InputWorkingDirectory(System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> value)
 ```
 
 ## See Also

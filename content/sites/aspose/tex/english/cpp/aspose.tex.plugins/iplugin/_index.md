@@ -20,7 +20,7 @@ class IPlugin : public virtual System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [Process](./process/)(System::SharedPtr\<IPluginOptions\>) | Runs plugin execution with defined options. |
+| virtual [Process](./process/)(System::SharedPtr\<Aspose::TeX::Plugins::IPluginOptions\>) | Runs plugin execution with defined options. |
 ## See Also
 
 * Class [Object](../../system/object/)

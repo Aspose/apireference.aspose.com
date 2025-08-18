@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texconfig/get_objectlatex/
 Gets the configuration of ObjectTeX engine extension with ObjectLaTeX format preloaded.
 
 ```cpp
-static System::SharedPtr<TeXConfig> Aspose::TeX::TeXConfig::get_ObjectLaTeX()
+static System::SharedPtr<Aspose::TeX::TeXConfig> Aspose::TeX::TeXConfig::get_ObjectLaTeX()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: operator+
 second_title: Aspose.TeX for C++
 description: 'System::operator+ method. String concatenation in C++.'
 type: docs
-weight: 24100
+weight: 24700
 url: /cpp/system/operator+/
 ---
 ## System::operator+(const char_t, const String\&) method

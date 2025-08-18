@@ -20,11 +20,11 @@ class TeXJob : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [CreateFormat](./createformat/)(System::String, System::SharedPtr\<TeXOptions\>) | Runs [TeX](../) engine in INITEX mode to create a format file (.fmt). |
+| static [CreateFormat](./createformat/)(System::String, System::SharedPtr\<Aspose::TeX::TeXOptions\>) | Runs [TeX](../) engine in INITEX mode to create a format file (.fmt). |
 | [Run](./run/)() | Runs [TeX](../) job. |
-| [TeXJob](./texjob/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Presentation::Device\>, System::SharedPtr\<TeXOptions\>) | Creates a [TeX](../) job for running the engine in production mode to typeset a [TeX](../) file. |
-| [TeXJob](./texjob/)(System::String, System::SharedPtr\<Presentation::Device\>, System::SharedPtr\<TeXOptions\>) | Creates a [TeX](../) job for running the engine in production mode to typeset a [TeX](../) file. |
-| [TeXJob](./texjob/)(System::SharedPtr\<Presentation::Device\>, System::SharedPtr\<TeXOptions\>) | Creates a [TeX](../) job for running the engine in production mode to typeset a [TeX](../) document. The engine will prompt the file name as soon as it starts. Thus this run is supposed to be interactive. |
+| [TeXJob](./texjob/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::TeX::Presentation::Device\>, System::SharedPtr\<Aspose::TeX::TeXOptions\>) | Creates a [TeX](../) job for running the engine in production mode to typeset a [TeX](../) file. |
+| [TeXJob](./texjob/)(System::String, System::SharedPtr\<Aspose::TeX::Presentation::Device\>, System::SharedPtr\<Aspose::TeX::TeXOptions\>) | Creates a [TeX](../) job for running the engine in production mode to typeset a [TeX](../) file. |
+| [TeXJob](./texjob/)(System::SharedPtr\<Aspose::TeX::Presentation::Device\>, System::SharedPtr\<Aspose::TeX::TeXOptions\>) | Creates a [TeX](../) job for running the engine in production mode to typeset a [TeX](../) document. The engine will prompt the file name as soon as it starts. Thus this run is supposed to be interactive. |
 ## See Also
 
 * Class [Object](../../system/object/)

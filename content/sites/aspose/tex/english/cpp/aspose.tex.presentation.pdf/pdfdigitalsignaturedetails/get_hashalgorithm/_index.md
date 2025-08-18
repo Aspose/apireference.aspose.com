@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfdigitalsignaturedetails/get_hashalgorit
 Hash algorithm.
 
 ```cpp
-PdfDigitalSignatureHashAlgorithm Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::get_HashAlgorithm() const
+Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureHashAlgorithm Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::get_HashAlgorithm() const
 ```
 
 ## Remarks

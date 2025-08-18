@@ -21,7 +21,7 @@ class MathRenderer : public System::Object
 | Method | Description |
 | --- | --- |
 | [MathRenderer](./mathrenderer/)() | Creates a new instance. |
-| [Render](./render/)(System::String, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<MathRendererOptions\>) | Renders a math formula. |
+| [Render](./render/)(System::String, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::TeX::Features::MathRendererOptions\>) | Renders a math formula. |
 ## See Also
 
 * Class [Object](../../system/object/)

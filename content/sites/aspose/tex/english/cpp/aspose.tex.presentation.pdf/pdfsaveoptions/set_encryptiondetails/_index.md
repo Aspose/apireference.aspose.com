@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfsaveoptions/set_encryptiondetails/
 Sets a encryption details. If not set, then no encryption will be performed.
 
 ```cpp
-void Aspose::TeX::Presentation::Pdf::PdfSaveOptions::set_EncryptionDetails(System::SharedPtr<PdfEncryptionDetails> value)
+void Aspose::TeX::Presentation::Pdf::PdfSaveOptions::set_EncryptionDetails(System::SharedPtr<Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails> value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texoptions/set_outputworkingdirectory/
 Gets/sets output working directory.
 
 ```cpp
-void Aspose::TeX::TeXOptions::set_OutputWorkingDirectory(System::SharedPtr<IO::IOutputWorkingDirectory> value)
+void Aspose::TeX::TeXOptions::set_OutputWorkingDirectory(System::SharedPtr<Aspose::TeX::IO::IOutputWorkingDirectory> value)
 ```
 
 ## See Also

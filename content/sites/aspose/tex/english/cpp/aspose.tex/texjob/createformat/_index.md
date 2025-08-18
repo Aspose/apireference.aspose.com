@@ -13,14 +13,14 @@ url: /cpp/aspose.tex/texjob/createformat/
 Runs [TeX](../../) engine in INITEX mode to create a format file (.fmt).
 
 ```cpp
-static void Aspose::TeX::TeXJob::CreateFormat(System::String path, System::SharedPtr<TeXOptions> options)
+static void Aspose::TeX::TeXJob::CreateFormat(System::String path, System::SharedPtr<Aspose::TeX::TeXOptions> options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | path | System::String | The path to the main format source file. |
-| options | System::SharedPtr\<TeXOptions\> | [TeX](../../) engine run options. |
+| options | System::SharedPtr\<Aspose::TeX::TeXOptions\> | [TeX](../../) engine run options. |
 
 ## See Also
 

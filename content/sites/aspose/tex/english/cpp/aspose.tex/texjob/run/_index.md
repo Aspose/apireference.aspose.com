@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texjob/run/
 Runs [TeX](../../) job.
 
 ```cpp
-TeXJobResult Aspose::TeX::TeXJob::Run()
+Aspose::TeX::TeXJobResult Aspose::TeX::TeXJob::Run()
 ```
 
 

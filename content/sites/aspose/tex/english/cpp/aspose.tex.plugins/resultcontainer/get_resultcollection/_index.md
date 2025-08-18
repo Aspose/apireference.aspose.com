@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/resultcontainer/get_resultcollection/
 Gets the collection of plugin execution results.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<IOperationResult>>> Aspose::TeX::Plugins::ResultContainer::get_ResultCollection() const
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Aspose::TeX::Plugins::IOperationResult>>> Aspose::TeX::Plugins::ResultContainer::get_ResultCollection() const
 ```
 
 ## See Also

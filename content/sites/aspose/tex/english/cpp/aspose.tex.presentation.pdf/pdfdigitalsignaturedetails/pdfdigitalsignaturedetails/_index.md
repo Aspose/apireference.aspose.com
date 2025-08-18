@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfdigitalsignaturedetails/pdfdigitalsigna
 Initializes a new instance of the [PdfDigitalSignatureDetails](../) class.
 
 ```cpp
-Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::PdfDigitalSignatureDetails(System::SharedPtr<System::Security::Cryptography::X509Certificates::X509Certificate2> certificate, System::String reason, System::String location, System::DateTime signatureDate, PdfDigitalSignatureHashAlgorithm hashAlgorithm)
+Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::PdfDigitalSignatureDetails(System::SharedPtr<System::Security::Cryptography::X509Certificates::X509Certificate2> certificate, System::String reason, System::String location, System::DateTime signatureDate, Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureHashAlgorithm hashAlgorithm)
 ```
 
 
@@ -23,7 +23,7 @@ Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::PdfDigitalSignatureD
 | reason | System::String | The reason. |
 | location | System::String | The location. |
 | signatureDate | System::DateTime | The signature date. |
-| hashAlgorithm | PdfDigitalSignatureHashAlgorithm | The hash algorithm. |
+| hashAlgorithm | Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureHashAlgorithm | The hash algorithm. |
 
 ## See Also
 

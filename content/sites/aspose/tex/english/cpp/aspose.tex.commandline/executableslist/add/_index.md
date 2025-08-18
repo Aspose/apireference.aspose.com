@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.commandline/executableslist/add/
 Adds a new executable to the collection.
 
 ```cpp
-void Aspose::TeX::CommandLine::ExecutablesList::Add(System::SharedPtr<Executable> exec)
+void Aspose::TeX::CommandLine::ExecutablesList::Add(System::SharedPtr<Aspose::TeX::CommandLine::Executable> exec)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| exec | System::SharedPtr\<Executable\> | An instance of [Executable](../../executable/)'s subclass. |
+| exec | System::SharedPtr\<Aspose::TeX::CommandLine::Executable\> | An instance of [Executable](../../executable/)'s subclass. |
 
 ## See Also
 

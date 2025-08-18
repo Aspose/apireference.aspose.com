@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/figurerendererpluginoptions/get_inputdatacollection
 Gets the collection of data sources.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<IDataSource>>> Aspose::TeX::Plugins::FigureRendererPluginOptions::get_InputDataCollection() override
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Aspose::TeX::Plugins::IDataSource>>> Aspose::TeX::Plugins::FigureRendererPluginOptions::get_InputDataCollection() override
 ```
 
 ## See Also

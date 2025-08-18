@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/iinputdatacontainer/get_inputdatacollection/
 Gets the collection of input data sources.
 
 ```cpp
-virtual System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<IDataSource>>> Aspose::TeX::Plugins::IInputDataContainer::get_InputDataCollection()=0
+virtual System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Aspose::TeX::Plugins::IDataSource>>> Aspose::TeX::Plugins::IInputDataContainer::get_InputDataCollection()=0
 ```
 
 ## See Also

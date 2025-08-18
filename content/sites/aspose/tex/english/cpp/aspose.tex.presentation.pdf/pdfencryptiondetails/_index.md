@@ -24,8 +24,8 @@ class PdfEncryptionDetails : public System::Object
 | [get_OwnerPassword](./get_ownerpassword/)() const | Gets the Owner password. |
 | [get_Permissions](./get_permissions/)() const | Gets the permissions. |
 | [get_UserPassword](./get_userpassword/)() const | Gets the User password. |
-| [PdfEncryptionDetails](./pdfencryptiondetails/)(System::String, System::String, int32_t, PdfEncryptionAlgorithm) | Initializes a new instance of the [PdfEncryptionDetailsCore](../) class. |
-| [set_EncryptionAlgorithm](./set_encryptionalgorithm/)(PdfEncryptionAlgorithm) | Sets the encryption mode. |
+| [PdfEncryptionDetails](./pdfencryptiondetails/)(System::String, System::String, int32_t, Aspose::TeX::Presentation::Pdf::PdfEncryptionAlgorithm) | Initializes a new instance of the [PdfEncryptionDetailsCore](../) class. |
+| [set_EncryptionAlgorithm](./set_encryptionalgorithm/)(Aspose::TeX::Presentation::Pdf::PdfEncryptionAlgorithm) | Sets the encryption mode. |
 | [set_OwnerPassword](./set_ownerpassword/)(System::String) | Sets the Owner password. |
 | [set_Permissions](./set_permissions/)(int32_t) | Sets the permissions. |
 | [set_UserPassword](./set_userpassword/)(System::String) | Sets the User password. |

@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/figurerenderer/render/
 Renders some LaTeX code.
 
 ```cpp
-System::Drawing::SizeF Aspose::TeX::Features::FigureRenderer::Render(System::String latexBody, System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<FigureRendererOptions> figureRendererOptions)
+System::Drawing::SizeF Aspose::TeX::Features::FigureRenderer::Render(System::String latexBody, System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<Aspose::TeX::Features::FigureRendererOptions> figureRendererOptions)
 ```
 
 
@@ -21,7 +21,7 @@ System::Drawing::SizeF Aspose::TeX::Features::FigureRenderer::Render(System::Str
 | --- | --- | --- |
 | latexBody | System::String | The LaTeX file body. |
 | stream | System::SharedPtr\<System::IO::Stream\> | The stream to write the output to. |
-| figureRendererOptions | System::SharedPtr\<FigureRendererOptions\> | The rendering options. |
+| figureRendererOptions | System::SharedPtr\<Aspose::TeX::Features::FigureRendererOptions\> | The rendering options. |
 
 ### ReturnValue
 
