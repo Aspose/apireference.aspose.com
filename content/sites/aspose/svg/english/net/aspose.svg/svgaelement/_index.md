@@ -3,7 +3,7 @@ title: SVGAElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGAElement class. The SVGAElement interface corresponds to the a element
 type: docs
-weight: 5140
+weight: 5150
 url: /net/aspose.svg/svgaelement/
 ---
 ## SVGAElement class

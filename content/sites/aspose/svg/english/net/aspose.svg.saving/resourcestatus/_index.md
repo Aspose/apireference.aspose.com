@@ -3,7 +3,7 @@ title: ResourceStatus Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Saving.ResourceStatus enum. Indicates the resource status
 type: docs
-weight: 5760
+weight: 5770
 url: /net/aspose.svg.saving/resourcestatus/
 ---
 ## ResourceStatus enumeration

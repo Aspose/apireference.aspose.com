@@ -3,7 +3,7 @@ title: Resource Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Saving.Resource class. This class describes a resource and provides methods for processing it
 type: docs
-weight: 5700
+weight: 5710
 url: /net/aspose.svg.saving/resource/
 ---
 ## Resource class

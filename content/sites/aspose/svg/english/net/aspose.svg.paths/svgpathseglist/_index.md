@@ -19,7 +19,7 @@ public class SVGPathSegList : SVGListBase<SVGPathSeg>
 | Name | Description |
 | --- | --- |
 | [SVGPathSegList](svgpathseglist/#constructor)() | Initializes a new instance of the `SVGPathSegList` class. |
-| [SVGPathSegList](svgpathseglist/#constructor_1)(*List&lt;SVGPathSeg&gt;*) | Initializes a new instance of the `SVGPathSegList` class. |
+| [SVGPathSegList](svgpathseglist/#constructor_1)(*IEnumerable&lt;SVGPathSeg&gt;*) | Initializes a new instance of the `SVGPathSegList` class. |
 
 ## Properties
 

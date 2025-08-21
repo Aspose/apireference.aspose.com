@@ -35,7 +35,7 @@ public void Save(Url url)
 
 ## Save(*string*) {#save_8}
 
-Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
+Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files". If the specified `url` ends with ".svgz", the document will be saved as a compressed SVGZ file.
 
 ```csharp
 public void Save(string path)
@@ -122,36 +122,16 @@ public void Save(ResourceHandler resourceHandler, SVGSaveFormat saveFormat)
 | resourceHandler | ResourceHandler | The resource handler [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/). |
 | saveFormat | SVGSaveFormat | Format in which document is saved. |
 
-### See Also
+### Exceptions
 
-* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
-* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
-* class [SVGDocument](../)
-* namespace [Aspose.Svg](../../../aspose.svg/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_2}
-
-Saves the document content and associated resources using the specified [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/).
-
-```csharp
-public void Save(ResourceHandler resourceHandler, SVGSaveFormat saveFormat, 
-    SVGSaveOptions saveOptions)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resourceHandler | ResourceHandler | The resource handler to manage document resources, such as file system or memory-based storage. |
-| saveFormat | SVGSaveFormat | The format in which the document should be saved. |
-| saveOptions | SVGSaveOptions | Options that specify additional saving parameters, such as vectorization preferences. |
+| exception | condition |
+| --- | --- |
+| ArgumentOutOfRangeException | Thrown when the specified *saveFormat* value is not recognised by the current implementation. |
 
 ### See Also
 
 * class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
 * enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
-* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
 * namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)
@@ -186,35 +166,7 @@ public void Save(string path, SVGSaveOptions saveOptions)
 
 ---
 
-## Save(*string, [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)*) {#save_11}
-
-Saves the document as a compressed `.svgz` file to the local path specified by *path*. Any external resources are written to a sibling folder named `{output_file_name}_files`.
-
-```csharp
-public void Save(string path, SVGZSaveOptions saveOptions)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| path | String | Absolute or relative path of the target `.svgz` file. |
-| saveOptions | SVGZSaveOptions | Options that control SVGZ serialization. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentException | Thrown if *path* is not a valid local file path. |
-
-### See Also
-
-* class [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)
-* class [SVGDocument](../)
-* namespace [Aspose.Svg](../../../aspose.svg/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_3}
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_2}
 
 Saves the document content and resources using the [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/).
 
@@ -318,6 +270,57 @@ public void Save(Url url, SVGZSaveOptions saveOptions)
 ### See Also
 
 * class [Url](../../url/)
+* class [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)
+* class [SVGDocument](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)*) {#save_3}
+
+Saves the document content and associated resources using the specified [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/).
+
+```csharp
+public void Save(ResourceHandler resourceHandler, SVGZSaveOptions saveOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| resourceHandler | ResourceHandler | The resource handler to manage document resources, such as file system or memory-based storage. |
+| saveOptions | SVGZSaveOptions | Options that specify additional saving parameters, such as vectorization preferences. |
+
+### See Also
+
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
+* class [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)
+* class [SVGDocument](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## Save(*string, [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)*) {#save_11}
+
+Saves the document as a compressed `.svgz` file to the local path specified by *path*. Any external resources are written to a sibling folder named `{output_file_name}_files`.
+
+```csharp
+public void Save(string path, SVGZSaveOptions saveOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| path | String | Absolute or relative path of the target `.svgz` file. |
+| saveOptions | SVGZSaveOptions | Options that control SVGZ serialization. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentException | Thrown if *path* is not a valid local file path. |
+
+### See Also
+
 * class [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)
 * class [SVGDocument](../)
 * namespace [Aspose.Svg](../../../aspose.svg/)

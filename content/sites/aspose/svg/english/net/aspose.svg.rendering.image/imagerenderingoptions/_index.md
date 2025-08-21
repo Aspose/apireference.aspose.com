@@ -3,7 +3,7 @@ title: ImageRenderingOptions Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Image.ImageRenderingOptions class. Represents rendering options for ImageDevice. This options is used to specify output image format compression resolution etc
 type: docs
-weight: 4930
+weight: 4940
 url: /net/aspose.svg.rendering.image/imagerenderingoptions/
 ---
 ## ImageRenderingOptions class
