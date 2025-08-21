@@ -37,5 +37,6 @@ The **Aspose.Svg.Rendering** namespace consists of numerous renderer objects as 
 | Enumeration | Description |
 | --- | --- |
 | [AtPagePriority](./atpagepriority/) | Specifies possible orders of applying page size declarations. |
+| [BooleanPathOp](./booleanpathop/) | Specifies the boolean operation used when combining two paths. |
 | [MediaType](./mediatype/) | Specifies possible media types used during rendering. |
 | [SizingType](./sizingtype/) | Represents the enumeration of page sizing types. |

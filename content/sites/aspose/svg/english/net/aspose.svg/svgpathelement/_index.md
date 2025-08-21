@@ -3,7 +3,7 @@ title: SVGPathElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGPathElement class. The SVGPathElement interface corresponds to the path element
 type: docs
-weight: 5430
+weight: 5440
 url: /net/aspose.svg/svgpathelement/
 ---
 ## SVGPathElement class
@@ -73,6 +73,7 @@ public class SVGPathElement : SVGGeometryElement, ISVGAnimatedPathData
 | [AttachShadow](../../aspose.svg.dom/element/attachshadow/)(*[ShadowRootMode](../../aspose.svg.dom/shadowrootmode/)*) | Creates shadow root and attaches it to current element. |
 | [CloneNode](../../aspose.svg.dom/node/clonenode/)() | Returns a duplicate of the node on which this method was called. |
 | [CloneNode](../../aspose.svg.dom/node/clonenode/)(*bool*) | Returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not. |
+| [Combine](../../aspose.svg/svggeometryelement/combine/)(*[SVGGeometryElement](../svggeometryelement/), [BooleanPathOp](../../aspose.svg.rendering/booleanpathop/)*) | Combines this geometry with another SVG geometry using a boolean operation, and returns a new `<path>` element containing the result. |
 | [CreateSVGPathSegArcAbs](../../aspose.svg/svgpathelement/createsvgpathsegarcabs/)(*float, float, float, float, float, bool, bool*) | Returns a stand-alone, parentless SVGPathSegArcAbs object. |
 | [CreateSVGPathSegArcRel](../../aspose.svg/svgpathelement/createsvgpathsegarcrel/)(*float, float, float, float, float, bool, bool*) | Returns a stand-alone, parentless SVGPathSegArcRel object. |
 | [CreateSVGPathSegClosePath](../../aspose.svg/svgpathelement/createsvgpathsegclosepath/)() | Returns a stand-alone, parentless SVGPathSegClosePath object. |

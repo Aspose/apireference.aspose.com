@@ -3,7 +3,7 @@ title: SVGSymbolElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGSymbolElement class. The SVGSymbolElement interface corresponds to the symbol element
 type: docs
-weight: 5560
+weight: 5570
 url: /net/aspose.svg/svgsymbolelement/
 ---
 ## SVGSymbolElement class

@@ -3,7 +3,7 @@ title: SVGRectElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGRectElement class. The SVGRectElement interface corresponds to the rect element
 type: docs
-weight: 5480
+weight: 5490
 url: /net/aspose.svg/svgrectelement/
 ---
 ## SVGRectElement class
@@ -77,6 +77,7 @@ public class SVGRectElement : SVGGeometryElement
 | [AttachShadow](../../aspose.svg.dom/element/attachshadow/)(*[ShadowRootMode](../../aspose.svg.dom/shadowrootmode/)*) | Creates shadow root and attaches it to current element. |
 | [CloneNode](../../aspose.svg.dom/node/clonenode/)() | Returns a duplicate of the node on which this method was called. |
 | [CloneNode](../../aspose.svg.dom/node/clonenode/)(*bool*) | Returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not. |
+| [Combine](../../aspose.svg/svggeometryelement/combine/)(*[SVGGeometryElement](../svggeometryelement/), [BooleanPathOp](../../aspose.svg.rendering/booleanpathop/)*) | Combines this geometry with another SVG geometry using a boolean operation, and returns a new `<path>` element containing the result. |
 | [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent/)(*[Event](../../aspose.svg.dom.events/event/)*) | Dispatches an Event at the specified [`IEventTarget`](../../aspose.svg.dom.events/ieventtarget/), (synchronously) invoking the affected EventListeners in the appropriate order. The normal event processing rules (including the capturing and optional bubbling phase) also apply to events dispatched manually with [`DispatchEvent`](../../aspose.svg.dom.events/ieventtarget/dispatchevent/). |
 | [Dispose](../../aspose.svg.dom/eventtarget/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [GetAttribute](../../aspose.svg.dom/element/getattribute/)(*string*) | Retrieves an attribute value by name. |

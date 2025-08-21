@@ -22,17 +22,17 @@ public SVGPathSegList()
 
 ---
 
-## SVGPathSegList(*List&lt;SVGPathSeg&gt;*) {#constructor_1}
+## SVGPathSegList(*IEnumerable&lt;SVGPathSeg&gt;*) {#constructor_1}
 
 Initializes a new instance of the [`SVGPathSegList`](../) class.
 
 ```csharp
-public SVGPathSegList(List<SVGPathSeg> enumerable)
+public SVGPathSegList(IEnumerable<SVGPathSeg> enumerable)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| enumerable | List`1 | The enumerable. |
+| enumerable | IEnumerable`1 | The enumerable. |
 
 ### See Also
 
