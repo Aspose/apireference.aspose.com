@@ -1,6 +1,7 @@
 baseURL: "https://reference2.aspose.com/cells/python-net/zh"
 title: "Aspose API References"
 staticdir: 'content/sites/aspose/cells-python-net/static'
+contentDir: 'content/sites/aspose/cells-python-net/chinese'  # Add this line
 enableRobotsTXT: true
 enableGitInfo: true
 disableKinds: ["taxonomy", "taxonomyTerm", "page", "RSS"]
