@@ -1,5 +1,6 @@
 baseURL: "https://reference2.aspose.com/cells/python-net"
 title: "Aspose API References"
+contentDir: 'content/sites/aspose/cells-python-net/english'  # Add this line
 staticdir: 'content/sites/aspose/cells-python-net/static'
 enableRobotsTXT: true
 enableGitInfo: true
