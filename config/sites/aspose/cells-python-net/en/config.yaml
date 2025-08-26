@@ -1,0 +1,91 @@
+baseURL: "https://reference.aspose.com/cells/python-net"
+title: "Aspose API References"
+staticdir: 'content/sites/aspose/cells-python-net/static'
+enableRobotsTXT: true
+enableGitInfo: true
+disableKinds: ["taxonomy", "taxonomyTerm", "page", "RSS"]
+
+theme: ["api-theme"]
+
+params:
+  menu:
+    en: "aspose-en"
+  gtm:
+    gtm_id: "GTM-NJMHSH"
+  meta:
+    msapplication_TileColor: "#2b5797"
+    msapplication_config: "https://cms.admin.containerize.com/templates/asposecloud/images/browserconfig.xml"
+    theme_color: "#ffffff"
+    author: "Aspose"
+  containerize:
+    menu: "aspose-en"
+  copyright: "The Aspose Authors"
+  privacy_policy: "https://policies.google.com/privacy"
+  topbar_search_active: false
+  logo_rel_link: ""
+  title_404_page: "404 - Page Not Found | Aspose API References"
+  images: ["images/Aspose-image-for-open-graph.jpg"]
+  description: "Class Libraries & REST APIs for the developers to manipulate & process Files from Word, Excel, PowerPoint, Visio, PDF, CAD & several other categories in Web, Desktop or Mobile apps. Develop & deploy on Windows, Linux, MacOS & Android platforms."
+  ui:
+    sidebar_menu_compact: true
+    breadcrumb_disable: false
+    sidebar_search_disable: false
+    navbar_logo: false
+    footer_about_disable: false
+
+defaultContentLang: 'en'
+languages:
+  en:
+    contentDir: 'content/sites/aspose/cells-python-net/english'
+    languageName: 'English'
+    languageCode: "en"
+    flag: "flag-us"
+    weight: 10
+
+ignoreFiles: ["(?i:readme.md)", '\.spin$']
+
+imaging:
+  resampleFilter: "CatmullRom"
+  quality: 75
+  anchor: "smart"
+
+markup:
+  tableOfContents:
+    endLevel: 2
+    ordered: true
+    startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: false
+    tabWidth: 4
+
+minify:
+  disableCSS: false
+  disableHTML: false
+  disableJS: false
+  disableJSON: false
+  disableSVG: false
+  disableXML: false
+  minifyOutput: true
+
+deployment:
+  matchers:
+    - pattern: "^.+\\.(xml)$"
+      contentType: "application/xml"
+      gzip: true
+      force: true
+  targets:
+    - name: "Production"
+      URL: "s3://reference.aspose.com/?prefix=cells/python-net/&region=us-west-2"
+    - name: "Stage"
+      URL: "s3://reference2.aspose.com/?prefix=cells/python-net/&region=us-west-2"
