@@ -67,10 +67,10 @@ jobs:
         run: npm install -D --save autoprefixer postcss-cli
 
       - name: Build English Site
-        run: hugo --configDir config/sites/aspose/cells-python-net/en --environment staging --minify --gc --cacheDir ~/.cache/hugo_cache
+        run: hugo --config config/sites/aspose/cells-python-net/en/config.yaml --environment staging --minify --gc --cacheDir ~/.cache/hugo_cache
 
       - name: Deploy English Site to S3
-        run: hugo --configDir config/sites/aspose/cells-python-net/en --environment staging deploy --target "Stage" --maxDeletes 0
+        run: hugo --config config/sites/aspose/cells-python-net/en/config.yaml --environment staging deploy --target "Stage" --maxDeletes 0
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
@@ -133,10 +133,10 @@ jobs:
         run: npm install -D --save autoprefixer postcss-cli
 
       - name: Build Russian Site
-        run: hugo --configDir config/sites/aspose/cells-python-net/ru --environment staging --minify --gc --cacheDir ~/.cache/hugo_cache
+        run: hugo --config config/sites/aspose/cells-python-net/ru/config.yaml --environment staging --minify --gc --cacheDir ~/.cache/hugo_cache
 
       - name: Deploy Russian Site to S3
-        run: hugo --configDir config/sites/aspose/cells-python-net/ru --environment staging deploy --target "Stage" --maxDeletes 0
+        run: hugo --config config/sites/aspose/cells-python-net/ru/config.yaml --environment staging deploy --target "Stage" --maxDeletes 0
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
@@ -199,10 +199,10 @@ jobs:
         run: npm install -D --save autoprefixer postcss-cli
 
       - name: Build Chinese Site
-        run: hugo --configDir config/sites/aspose/cells-python-net/zh --environment staging --minify --gc --cacheDir ~/.cache/hugo_cache
+        run: hugo --config config/sites/aspose/cells-python-net/zh/config.yaml --environment staging --minify --gc --cacheDir ~/.cache/hugo_cache
 
       - name: Deploy Chinese Site to S3
-        run: hugo --configDir config/sites/aspose/cells-python-net/zh --environment staging deploy --target "Stage" --maxDeletes 0
+        run: hugo --config config/sites/aspose/cells-python-net/zh/config.yaml --environment staging deploy --target "Stage" --maxDeletes 0
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
