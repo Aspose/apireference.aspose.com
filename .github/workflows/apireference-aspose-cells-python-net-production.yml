@@ -34,7 +34,7 @@ jobs:
           path: |
             resources
             ~/.cache/hugo_cache
-          key: ${{ runner.os }}-hugo-${{ hashFiles('**/go.sum', 'config/sites/aspose/cells-python-net/**') }}
+          key: ${{ runner.os }}-hugo-${{ hashFiles('config/sites/aspose/cells-python-net/config.yaml') }}-${{ github.sha }}
           restore-keys: |
             ${{ runner.os }}-hugo-
 
@@ -43,7 +43,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          key: ${{ runner.os }}-node-${{ hashFiles('package*.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
 
@@ -53,9 +53,9 @@ jobs:
         id: theme-cache
         with:
           path: themes/api-theme
-          key: ${{ runner.os }}-theme-${{ github.sha }}
+          key: ${{ runner.os }}-theme-cells-${{ github.run_id }}
           restore-keys: |
-            ${{ runner.os }}-theme-
+            ${{ runner.os }}-theme-cells-
 
       - name: Checkout theme repo
         if: steps.theme-cache.outputs.cache-hit != 'true'
