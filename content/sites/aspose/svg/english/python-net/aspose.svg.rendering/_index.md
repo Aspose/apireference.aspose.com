@@ -32,6 +32,7 @@ render documents/files into IDevice implementation.
 | Enumeration | Description |
 | :- | :- |
 | [`AtPagePriority`](/svg/python-net/aspose.svg.rendering/atpagepriority) | Specifies possible orders of applying page size declarations. |
+| [`BooleanPathOp`](/svg/python-net/aspose.svg.rendering/booleanpathop) | Specifies the boolean operation used when combining two paths. |
 | [`MediaType`](/svg/python-net/aspose.svg.rendering/mediatype) | Specifies possible media types used during rendering. |
 | [`SizingType`](/svg/python-net/aspose.svg.rendering/sizingtype) | Represents the enumeration of page sizing types. |
 

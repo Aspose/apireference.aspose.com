@@ -3,7 +3,7 @@ title: replace_child method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 420
 url: /python-net/aspose.svg/svgcircleelement/replace_child/
 is_root: false
 ---

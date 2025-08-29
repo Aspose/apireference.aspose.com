@@ -3,7 +3,7 @@ title: attributes property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 620
 url: /python-net/aspose.svg/svgpolylineelement/attributes/
 is_root: false
 ---

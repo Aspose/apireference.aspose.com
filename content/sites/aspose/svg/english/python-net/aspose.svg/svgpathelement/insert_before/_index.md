@@ -3,7 +3,7 @@ title: insert_before method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 460
 url: /python-net/aspose.svg/svgpathelement/insert_before/
 is_root: false
 ---

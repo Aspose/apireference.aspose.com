@@ -3,7 +3,7 @@ title: class_list property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 660
 url: /python-net/aspose.svg/svgrectelement/class_list/
 is_root: false
 ---

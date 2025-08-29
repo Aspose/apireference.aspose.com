@@ -15,7 +15,6 @@ Represents SVGZ save options.
 
 
 **Inheritance:** [`SVGZSaveOptions`](/svg/python-net/aspose.svg.saving/svgzsaveoptions) → 
-[`SVGSaveOptions`](/svg/python-net/aspose.svg.saving/svgsaveoptions) → 
 [`SaveOptions`](/svg/python-net/aspose.svg.saving/saveoptions)
 
 
@@ -39,6 +38,5 @@ The SVGZSaveOptions type exposes the following members:
 ### See Also
 * module [`aspose.svg.saving`](..)
 * class [`ResourceHandlingOptions`](/svg/python-net/aspose.svg.saving/resourcehandlingoptions)
-* class [`SVGSaveOptions`](/svg/python-net/aspose.svg.saving/svgsaveoptions)
 * class [`SVGZSaveOptions`](/svg/python-net/aspose.svg.saving/svgzsaveoptions)
 * class [`SaveOptions`](/svg/python-net/aspose.svg.saving/saveoptions)

@@ -3,7 +3,7 @@ title: get_elements_by_tag_name_ns method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 360
 url: /python-net/aspose.svg/svgpathelement/get_elements_by_tag_name_ns/
 is_root: false
 ---

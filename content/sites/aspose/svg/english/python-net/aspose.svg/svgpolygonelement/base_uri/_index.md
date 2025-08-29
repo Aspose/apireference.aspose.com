@@ -3,7 +3,7 @@ title: base_uri property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 620
+weight: 630
 url: /python-net/aspose.svg/svgpolygonelement/base_uri/
 is_root: false
 ---

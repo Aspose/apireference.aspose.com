@@ -3,7 +3,7 @@ title: ENTITY_NODE property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 560
 url: /python-net/aspose.svg/svggeometryelement/entity_node/
 is_root: false
 ---

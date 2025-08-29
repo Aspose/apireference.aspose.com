@@ -3,7 +3,7 @@ title: toggle_attribute method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 470
 url: /python-net/aspose.svg/svgpolylineelement/toggle_attribute/
 is_root: false
 ---

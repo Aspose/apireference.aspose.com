@@ -3,7 +3,7 @@ title: DOCUMENT_TYPE_NODE property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 720
+weight: 730
 url: /python-net/aspose.svg/svgpathelement/document_type_node/
 is_root: false
 ---

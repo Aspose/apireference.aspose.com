@@ -3,7 +3,7 @@ title: remove method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 360
 url: /python-net/aspose.svg/svgpolylineelement/remove/
 is_root: false
 ---

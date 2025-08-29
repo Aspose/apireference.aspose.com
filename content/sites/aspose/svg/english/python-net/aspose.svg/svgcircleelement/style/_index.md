@@ -3,7 +3,7 @@ title: style property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 970
+weight: 980
 url: /python-net/aspose.svg/svgcircleelement/style/
 is_root: false
 ---

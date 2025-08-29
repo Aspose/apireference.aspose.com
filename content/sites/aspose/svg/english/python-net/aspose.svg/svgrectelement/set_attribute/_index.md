@@ -3,7 +3,7 @@ title: set_attribute method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 430
 url: /python-net/aspose.svg/svgrectelement/set_attribute/
 is_root: false
 ---

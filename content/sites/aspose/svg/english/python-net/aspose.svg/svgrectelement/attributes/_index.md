@@ -3,7 +3,7 @@ title: attributes property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 600
+weight: 610
 url: /python-net/aspose.svg/svgrectelement/attributes/
 is_root: false
 ---

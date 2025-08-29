@@ -3,7 +3,7 @@ title: DOCUMENT_FRAGMENT_NODE property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 700
+weight: 710
 url: /python-net/aspose.svg/svgpathelement/document_fragment_node/
 is_root: false
 ---

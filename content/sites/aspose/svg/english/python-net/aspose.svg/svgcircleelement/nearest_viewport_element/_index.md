@@ -3,7 +3,7 @@ title: nearest_viewport_element property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 780
+weight: 790
 url: /python-net/aspose.svg/svgcircleelement/nearest_viewport_element/
 is_root: false
 ---

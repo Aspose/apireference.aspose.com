@@ -3,7 +3,7 @@ title: create_svg_path_seg_lineto_vertical_rel method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /python-net/aspose.svg/svgpathelement/create_svg_path_seg_lineto_vertical_rel/
 is_root: false
 ---

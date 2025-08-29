@@ -3,7 +3,7 @@ title: get_attribute_node_ns method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 300
 url: /python-net/aspose.svg/svgpathelement/get_attribute_node_ns/
 is_root: false
 ---

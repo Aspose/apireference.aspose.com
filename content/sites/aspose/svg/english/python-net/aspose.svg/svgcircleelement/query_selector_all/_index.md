@@ -3,7 +3,7 @@ title: query_selector_all method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 350
 url: /python-net/aspose.svg/svgcircleelement/query_selector_all/
 is_root: false
 ---
