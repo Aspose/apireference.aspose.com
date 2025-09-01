@@ -3,7 +3,7 @@ title: ListLocal
 second_title: Aspose.OCR for .NET API Reference
 description: Lists all local models available in the configured directory.
 type: docs
-weight: 80
+weight: 60
 url: /net/aspose.ocr/asposeai/listlocal/
 ---
 ## AsposeAI.ListLocal method

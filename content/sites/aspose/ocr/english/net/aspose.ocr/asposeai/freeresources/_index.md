@@ -3,7 +3,7 @@ title: FreeResources
 second_title: Aspose.OCR for .NET API Reference
 description: Releases all AI-related resources and disposes loaded models.
 type: docs
-weight: 50
+weight: 30
 url: /net/aspose.ocr/asposeai/freeresources/
 ---
 ## AsposeAI.FreeResources method

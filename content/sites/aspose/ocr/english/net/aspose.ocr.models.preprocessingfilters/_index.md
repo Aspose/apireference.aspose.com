@@ -1,12 +1,12 @@
 ---
 title: Aspose.OCR.Models.PreprocessingFilters
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: The Aspose.OCR.Models.PreprocessingFilters contains base class for image processing commands..
 type: docs
 weight: 50
 url: /net/aspose.ocr.models.preprocessingfilters/
 ---
-
+The **Aspose.OCR.Models.PreprocessingFilters** contains base class for image processing commands..
 
 ## Classes
 

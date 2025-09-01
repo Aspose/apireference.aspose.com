@@ -3,7 +3,7 @@ title: HuggingFaceRepoId
 second_title: Aspose.OCR for .NET API Reference
 description: ID of the model on HuggingFace e.g. openai/gpt2. If specified the model will be downloaded from HuggingFace. Default bartowski/Qwen2.5-3B-Instruct-GGUF.
 type: docs
-weight: 60
+weight: 80
 url: /net/aspose.ocr/asposeaimodelconfig/huggingfacerepoid/
 ---
 ## AsposeAIModelConfig.HuggingFaceRepoId property

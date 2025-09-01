@@ -3,7 +3,7 @@ title: RecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the image recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 300
+weight: 330
 url: /net/aspose.ocr/recognitionsettings/
 ---
 ## RecognitionSettings class
@@ -28,15 +28,15 @@ public class RecognitionSettings : BaseRecognitionSettings
 | [AllowedCharacters](../../aspose.ocr/baserecognitionsettings/allowedcharacters) { get; set; } | Allowed characters set. Determines the type of characters allowed for recognition result. |
 | [AllowedSymbols](../../aspose.ocr/baserecognitionsettings/allowedsymbols) { get; set; } | Set the allowed characters with alphabet property. |
 | [AutomaticColorInversion](../../aspose.ocr/baserecognitionsettings/automaticcolorinversion) { get; set; } | Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them. |
-| [DetectAreasMode](../../aspose.ocr/baserecognitionsettings/detectareasmode) { get; set; } | Allows to select the optimal mode for document type areas: document, photo, plain text, column, image. |
+| [DetectAreasMode](../../aspose.ocr/recognitionsettings/detectareasmode) { get; set; } | Allows to select the optimal mode for document type areas: document, photo, plain text, column, image. |
 | [IgnoredSymbols](../../aspose.ocr/baserecognitionsettings/ignoredsymbols) { get; set; } | Sets blacklist for recognition symbols. |
 | [Language](../../aspose.ocr/baserecognitionsettings/language) { get; set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
-| [LanguageDetectionLevel](../../aspose.ocr/baserecognitionsettings/languagedetectionlevel) { get; set; } | Specifies the level of language detection for text recognition. Works only if the selected language is Multilanguage, Auto, or Universal. This process is time-consuming and significantly slows down the overall recognition. |
-| [LinesFiltration](../../aspose.ocr/baserecognitionsettings/linesfiltration) { get; set; } | Allows to recognize text in the tables (regions surrounded lines). |
+| [LanguageDetectionLevel](../../aspose.ocr/recognitionsettings/languagedetectionlevel) { get; set; } | Specifies the level of language detection for text recognition. Works only if the selected language is Multilanguage, Auto, or Universal. This process is time-consuming and significantly slows down the overall recognition. |
+| [LinesFiltration](../../aspose.ocr/recognitionsettings/linesfiltration) { get; set; } | Allows to recognize text in the tables (regions surrounded lines). |
 | [RecognitionAreas](../../aspose.ocr/recognitionsettings/recognitionareas) { get; set; } | Gets or sets the list of text areas for processing.  Allows to manually specify the areas with text for more accurate recognition.  Disables AutoSkew. |
 | [RecognizeSingleLine](../../aspose.ocr/recognitionsettings/recognizesingleline) { get; set; } | Sets single-line image recognition. Disabled (false) by default. Disable all the processing steps associated with splitting into lines. Set this parameter to true if your image contains only one line. Disables RecognitionAreas settings, so all areas settings will be ignored. |
 | [ThreadsCount](../../aspose.ocr/baserecognitionsettings/threadscount) { get; set; } | Gets or sets the number fo threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |
-| [UpscaleSmallFont](../../aspose.ocr/baserecognitionsettings/upscalesmallfont) { get; set; } | Allows you to use additional algorithms specifically for small font recognition. Useful for images with small size characters. |
+| [UpscaleSmallFont](../../aspose.ocr/recognitionsettings/upscalesmallfont) { get; set; } | Allows you to use additional algorithms specifically for small font recognition. Useful for images with small size characters. |
 
 ### See Also
 

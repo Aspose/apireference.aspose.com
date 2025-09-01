@@ -3,7 +3,7 @@ title: IOcrAIPostProcessor
 second_title: Aspose.OCR for .NET API Reference
 description: Interface for applying AI-based postprocessing to OCR recognition results.
 type: docs
-weight: 520
+weight: 580
 url: /net/aspose.ocr.ai/iocraipostprocessor/
 ---
 ## IOcrAIPostProcessor interface
@@ -18,9 +18,10 @@ public interface IOcrAIPostProcessor
 
 | Name | Description |
 | --- | --- |
-| [Process](../../aspose.ocr.ai/iocraipostprocessor/process#process_1)(List&lt;string&gt;) | Processes a list of plain text recognition results using AI (useful for unstructured scenarios). |
-| [Process](../../aspose.ocr.ai/iocraipostprocessor/process#process)(OcrOutput) | Processes a structured OCR result using AI improvements (e.g., spell checking, grammar correction). |
+| [Process](../../aspose.ocr.ai/iocraipostprocessor/process#process_1)(List&lt;string&gt;) | Processes a list of text results using this AI post-processor. |
+| [Process](../../aspose.ocr.ai/iocraipostprocessor/process#process)(OcrOutput, AITableDetectionMode, Rectangle) | Processes OCR results using this AI post-processor, optionally detecting tables in a specified mode or region. |
 | [SetAI](../../aspose.ocr.ai/iocraipostprocessor/setai)(AsposeAI) | Injects an instance of the AsposeAI class that provides access to AI functionality. This allows for decoupling the processor from a specific AI implementation. |
+| [SetDefaultModel](../../aspose.ocr.ai/iocraipostprocessor/setdefaultmodel)(AsposeAIModelConfig) | Sets the default AI model configuration to use for this processor. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.OCR for .NET API Reference
 description: Provides methods to set metered key.
 type: docs
-weight: 30
+weight: 50
 url: /net/aspose.ocr/metered/
 ---
 ## Metered class

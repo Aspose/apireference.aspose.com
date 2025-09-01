@@ -3,7 +3,7 @@ title: GetLocalPath
 second_title: Aspose.OCR for .NET API Reference
 description: Gets the currently configured local model directory path.
 type: docs
-weight: 60
+weight: 40
 url: /net/aspose.ocr/asposeai/getlocalpath/
 ---
 ## AsposeAI.GetLocalPath method

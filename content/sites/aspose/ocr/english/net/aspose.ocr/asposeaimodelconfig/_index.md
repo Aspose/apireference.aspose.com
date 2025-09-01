@@ -25,8 +25,10 @@ public class AsposeAIModelConfig
 | Name | Description |
 | --- | --- |
 | [AllowAutoDownload](../../aspose.ocr/asposeaimodelconfig/allowautodownload) { get; set; } | If true, the model will be automatically downloaded if not available locally. |
+| [ContextSize](../../aspose.ocr/asposeaimodelconfig/contextsize) { get; set; } | Defines the maximum number of tokens the LLM can use as context during inference. If null, the default context size defined by the model will be used. Larger values allow the model to consider more text but may require more memory. |
 | [DirectoryModelPath](../../aspose.ocr/asposeaimodelconfig/directorymodelpath) { get; set; } | Optional path where downloaded or processed models will be cached. If not set, a default system location will be used. |
 | [FileModelPath](../../aspose.ocr/asposeaimodelconfig/filemodelpath) { get; set; } | Local path to the folder containing the model files. If specified, this will be used instead of downloading. Default empty. |
+| [GpuLayers](../../aspose.ocr/asposeaimodelconfig/gpulayers) { get; set; } | Number of GPU layers to use for the model. If not specified, the default value (40) will be used. Set to 0 to run entirely on the CPU. |
 | [HuggingFaceQuantization](../../aspose.ocr/asposeaimodelconfig/huggingfacequantization) { get; set; } | Optional quantization type to use when downloading from HuggingFace. Examples: "int8", "fp16", "none". Default q4_k_m. |
 | [HuggingFaceRepoId](../../aspose.ocr/asposeaimodelconfig/huggingfacerepoid) { get; set; } | ID of the model on HuggingFace (e.g., "openai/gpt2"). If specified, the model will be downloaded from HuggingFace. Default bartowski/Qwen2.5-3B-Instruct-GGUF. |
 

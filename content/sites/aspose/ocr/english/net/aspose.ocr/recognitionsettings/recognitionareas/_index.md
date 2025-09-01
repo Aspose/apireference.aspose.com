@@ -3,7 +3,7 @@ title: RecognitionAreas
 second_title: Aspose.OCR for .NET API Reference
 description: Gets or sets the list of text areas for processing.  Allows to manually specify the areas with text for more accurate recognition.  Disables AutoSkew.
 type: docs
-weight: 20
+weight: 50
 url: /net/aspose.ocr/recognitionsettings/recognitionareas/
 ---
 ## RecognitionSettings.RecognitionAreas property
@@ -16,6 +16,7 @@ public List<Rectangle> RecognitionAreas { get; set; }
 
 ### See Also
 
+* struct [Rectangle](../../rectangle)
 * class [RecognitionSettings](../../recognitionsettings)
 * namespace [Aspose.OCR](../../recognitionsettings)
 * assembly [Aspose.OCR](../../../)

@@ -1,14 +1,14 @@
 ---
 title: AsposeAI
 second_title: Aspose.OCR for .NET API Reference
-description: Main API for AI component from Aspose OCR library
+description: Main API for the AI component in the Aspose OCR library. Provides integration with AI-powered postprocessors such as spell-checking table extraction and layout correction.
 type: docs
 weight: 20
 url: /net/aspose.ocr/asposeai/
 ---
 ## AsposeAI class
 
-Main API for AI component from Aspose OCR library
+Main API for the AI component in the Aspose OCR library. Provides integration with AI-powered postprocessors such as spell-checking, table extraction, and layout correction.
 
 ```csharp
 public class AsposeAI : IDisposable
@@ -19,25 +19,24 @@ public class AsposeAI : IDisposable
 | Name | Description |
 | --- | --- |
 | [AsposeAI](asposeai#constructor)() | Initializes a new instance of the AsposeAI class with default settings. Automatic model downloads are enabled. |
-| [AsposeAI](asposeai#constructor_2)(AsposeAIModelConfig) | Initializes a new instance of the AsposeAI class with the specified model configuration. |
 | [AsposeAI](asposeai#constructor_1)(ILogger) | Initializes a new instance of the AsposeAI class with a custom logger. Automatic model downloads are enabled. |
-| [AsposeAI](asposeai#constructor_3)(AsposeAIModelConfig, ILogger) | Initializes a new instance of the AsposeAI class with the specified model configuration and logger. |
-| [AsposeAI](asposeai#constructor_4)(bool, ILogger, AsposeLLMApiConfig, AsposeLLMModelConfig, AsposeLLMChatSessionConfig) | Initializes a new instance of the AsposeAI class with full customization options. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddPostProcessor](../../aspose.ocr/asposeai/addpostprocessor)(IOcrAIPostProcessor) | Adds an AI postprocessor to be applied to OCR results. |
-| [CorrectResult](../../aspose.ocr/asposeai/correctresult#correctresult)(OcrOutput) | Applies AI spell-check correction to the full OCR output. |
-| [CorrectResult](../../aspose.ocr/asposeai/correctresult#correctresult_1)(RecognitionResult) | Applies AI spell-check correction to a single recognition result (e.g., one image or page). |
 | [Dispose](../../aspose.ocr/asposeai/dispose)() | Disposes internal resources used by the AsposeAI instance. |
 | [FreeResources](../../aspose.ocr/asposeai/freeresources)() | Releases all AI-related resources and disposes loaded models. |
 | [GetLocalPath](../../aspose.ocr/asposeai/getlocalpath)() | Gets the currently configured local model directory path. |
 | [IsInitialized](../../aspose.ocr/asposeai/isinitialized)() | Checks whether the AI engine has been initialized. |
 | [ListLocal](../../aspose.ocr/asposeai/listlocal)() | Lists all local models available in the configured directory. |
-| [RunPostprocessor](../../aspose.ocr/asposeai/runpostprocessor#runpostprocessor_1)(List&lt;string&gt;) | Applies all registered AI postprocessors to a list of recognized text strings. |
-| [RunPostprocessor](../../aspose.ocr/asposeai/runpostprocessor#runpostprocessor)(OcrOutput) | Applies all registered AI postprocessors to a structured OCR result. |
+| [RunPostprocessor](../../aspose.ocr/asposeai/runpostprocessor#runpostprocessor_1)(List&lt;string&gt;) | Applies registered AI postprocessor to a list of recognized text strings. |
+| [RunPostprocessor](../../aspose.ocr/asposeai/runpostprocessor#runpostprocessor)(OcrOutput, AITableDetectionMode) | Applies registered AI post-processor to the given structured OCR result. This may include spelling correction, table detection, table formatting, and other AI-powered enhancements depending on the configured processors. |
+| [SetPostProcessor](../../aspose.ocr/asposeai/setpostprocessor)(IOcrAIPostProcessor, AsposeAIModelConfig) | Adds an AI postprocessor to be applied to OCR results. If *customSettings* is provided, the specified or default AI model will be loaded and configured automatically before applying the postprocessor. |
+
+### Remarks
+
+⚠️ **Disclaimer:** By using AI-powered features, you are solely responsible for ensuring compliance with any applicable laws, licensing terms, third-party AI model usage policies, and data privacy regulations. Aspose does not take responsibility for the accuracy, licensing, or reliability of external AI models.
 
 ### See Also
 

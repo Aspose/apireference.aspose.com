@@ -3,7 +3,7 @@ title: CarPlateRecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the car number recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 180
+weight: 220
 url: /net/aspose.ocr/carplaterecognitionsettings/
 ---
 ## CarPlateRecognitionSettings class
@@ -11,7 +11,7 @@ url: /net/aspose.ocr/carplaterecognitionsettings/
 Settings for the car number recognition. Contains elements that allow customizing the recognition process.
 
 ```csharp
-public class CarPlateRecognitionSettings
+public class CarPlateRecognitionSettings : BaseRecognitionSettings
 ```
 
 ## Constructors
@@ -25,14 +25,16 @@ public class CarPlateRecognitionSettings
 
 | Name | Description |
 | --- | --- |
-| [AllowedCharacters](../../aspose.ocr/carplaterecognitionsettings/allowedcharacters) { get; set; } | Allowed characters set. Determines the type of characters allowed for recognition result. |
-| [AllowedSymbols](../../aspose.ocr/carplaterecognitionsettings/allowedsymbols) { get; set; } | Set the allowed characters with alphabet property. |
-| [AutomaticColorInversion](../../aspose.ocr/carplaterecognitionsettings/automaticcolorinversion) { get; set; } | Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them. |
-| [IgnoredSymbols](../../aspose.ocr/carplaterecognitionsettings/ignoredsymbols) { get; set; } | Sets blacklist for recognition symbols. |
-| [Language](../../aspose.ocr/carplaterecognitionsettings/language) { get; set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
+| [AllowedCharacters](../../aspose.ocr/baserecognitionsettings/allowedcharacters) { get; set; } | Allowed characters set. Determines the type of characters allowed for recognition result. |
+| [AllowedSymbols](../../aspose.ocr/baserecognitionsettings/allowedsymbols) { get; set; } | Set the allowed characters with alphabet property. |
+| [AutomaticColorInversion](../../aspose.ocr/baserecognitionsettings/automaticcolorinversion) { get; set; } | Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them. |
+| [IgnoredSymbols](../../aspose.ocr/baserecognitionsettings/ignoredsymbols) { get; set; } | Sets blacklist for recognition symbols. |
+| [Language](../../aspose.ocr/baserecognitionsettings/language) { get; set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
+| [ThreadsCount](../../aspose.ocr/baserecognitionsettings/threadscount) { get; set; } | Gets or sets the number fo threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |
 
 ### See Also
 
+* class [BaseRecognitionSettings](../baserecognitionsettings)
 * namespace [Aspose.OCR](../../aspose.ocr)
 * assembly [Aspose.OCR](../../)
 

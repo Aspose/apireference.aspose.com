@@ -1,14 +1,14 @@
 ---
 title: SpellCheckAIProcessor
 second_title: Aspose.OCR for .NET API Reference
-description: AI postprocessor that applies spelling correction to OCR results using AsposeAI.
+description: AI post-processor that uses AsposeAI to apply spelling correction to OCR recognition results.
 type: docs
-weight: 530
+weight: 590
 url: /net/aspose.ocr.ai/spellcheckaiprocessor/
 ---
 ## SpellCheckAIProcessor class
 
-AI postprocessor that applies spelling correction to OCR results using AsposeAI.
+AI post-processor that uses AsposeAI to apply spelling correction to OCR recognition results.
 
 ```csharp
 public class SpellCheckAIProcessor : IOcrAIPostProcessor
@@ -19,6 +19,13 @@ public class SpellCheckAIProcessor : IOcrAIPostProcessor
 | Name | Description |
 | --- | --- |
 | [SpellCheckAIProcessor](spellcheckaiprocessor)() | The default constructor. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetResult](../../aspose.ocr.ai/spellcheckaiprocessor/getresult)() | Gets the OCR results after spelling correction has been applied. |
+| [SaveTxt](../../aspose.ocr.ai/spellcheckaiprocessor/savetxt)(string) | Saves the corrected OCR results to a TXT file. |
 
 ### See Also
 

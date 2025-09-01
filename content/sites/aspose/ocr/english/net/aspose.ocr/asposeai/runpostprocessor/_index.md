@@ -1,26 +1,28 @@
 ---
 title: RunPostprocessor
 second_title: Aspose.OCR for .NET API Reference
-description: Applies all registered AI postprocessors to a structured OCR result.
+description: Applies registered AI post-processor to the given structured OCR result. This may include spelling correction table detection table formatting and other AI-powered enhancements depending on the configured processors.
 type: docs
-weight: 90
+weight: 70
 url: /net/aspose.ocr/asposeai/runpostprocessor/
 ---
-## RunPostprocessor(OcrOutput) {#runpostprocessor}
+## RunPostprocessor(OcrOutput, AITableDetectionMode) {#runpostprocessor}
 
-Applies all registered AI postprocessors to a structured OCR result.
+Applies registered AI post-processor to the given structured OCR result. This may include spelling correction, table detection, table formatting, and other AI-powered enhancements depending on the configured processors.
 
 ```csharp
-public void RunPostprocessor(OcrOutput res)
+public void RunPostprocessor(OcrOutput res, AITableDetectionMode mode = AITableDetectionMode.NONE)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| res | OcrOutput | The OCR result to process. |
+| res | OcrOutput | The structured OCR result to process. |
+| mode | AITableDetectionMode | Defines the table detection mode: |
 
 ### See Also
 
 * class [OcrOutput](../../ocroutput)
+* enum [AITableDetectionMode](../../../aspose.ocr.ai/aitabledetectionmode)
 * class [AsposeAI](../../asposeai)
 * namespace [Aspose.OCR](../../asposeai)
 * assembly [Aspose.OCR](../../../)
@@ -29,7 +31,7 @@ public void RunPostprocessor(OcrOutput res)
 
 ## RunPostprocessor(List&lt;string&gt;) {#runpostprocessor_1}
 
-Applies all registered AI postprocessors to a list of recognized text strings.
+Applies registered AI postprocessor to a list of recognized text strings.
 
 ```csharp
 public void RunPostprocessor(List<string> res)

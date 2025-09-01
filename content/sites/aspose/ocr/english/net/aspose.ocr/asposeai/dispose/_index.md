@@ -3,7 +3,7 @@ title: Dispose
 second_title: Aspose.OCR for .NET API Reference
 description: Disposes internal resources used by the AsposeAI instance.
 type: docs
-weight: 40
+weight: 20
 url: /net/aspose.ocr/asposeai/dispose/
 ---
 ## AsposeAI.Dispose method

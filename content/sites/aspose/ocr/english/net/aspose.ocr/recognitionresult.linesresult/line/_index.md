@@ -16,6 +16,7 @@ public Rectangle Line { get; set; }
 
 ### See Also
 
+* struct [Rectangle](../../rectangle)
 * class [LinesResult](../../recognitionresult.linesresult)
 * namespace [Aspose.OCR](../../recognitionresult.linesresult)
 * assembly [Aspose.OCR](../../../)

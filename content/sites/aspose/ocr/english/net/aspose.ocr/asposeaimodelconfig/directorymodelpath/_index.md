@@ -3,7 +3,7 @@ title: DirectoryModelPath
 second_title: Aspose.OCR for .NET API Reference
 description: Optional path where downloaded or processed models will be cached. If not set a default system location will be used.
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.ocr/asposeaimodelconfig/directorymodelpath/
 ---
 ## AsposeAIModelConfig.DirectoryModelPath property

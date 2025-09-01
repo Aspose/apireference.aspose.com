@@ -32,7 +32,39 @@ List of [`RecognitionResult`](../../recognitionresult) objects with image recogn
 
 ---
 
-## Recognize(OcrInput, RecognitionSettings, CancellationToken) {#recognize_2}
+## Recognize(OcrInput, AsposeOcrPresets) {#recognize_1}
+
+Recognizes text from the given OCR input using a predefined preset configuration.
+
+```csharp
+public OcrOutput Recognize(OcrInput images, AsposeOcrPresets preset)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| images | OcrInput | The OCR input data (images, PDFs, etc.). |
+| preset | AsposeOcrPresets | The selected OCR preset containing recognition settings. |
+
+### Return Value
+
+An [`OcrOutput`](../../ocroutput) object containing the recognition results.
+
+### Remarks
+
+The method automatically selects the appropriate recognition pipeline based on the preset. If the preset includes custom settings, they will be used instead of defaults.
+
+### See Also
+
+* class [OcrOutput](../../ocroutput)
+* class [OcrInput](../../ocrinput)
+* class [AsposeOcrPresets](../../asposeocrpresets)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## Recognize(OcrInput, RecognitionSettings, CancellationToken) {#recognize_3}
 
 Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
@@ -62,7 +94,7 @@ List of [`RecognitionResult`](../../recognitionresult) objects with image recogn
 
 ---
 
-## Recognize(OcrInput, RecognitionSettings) {#recognize_1}
+## Recognize(OcrInput, RecognitionSettings) {#recognize_2}
 
 Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 

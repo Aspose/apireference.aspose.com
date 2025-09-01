@@ -1,26 +1,31 @@
 ---
 title: Process
 second_title: Aspose.OCR for .NET API Reference
-description: Processes a structured OCR result using AI improvements e.g. spell checking grammar correction.
+description: Processes OCR results using this AI post-processor optionally detecting tables in a specified mode or region.
 type: docs
 weight: 10
 url: /net/aspose.ocr.ai/iocraipostprocessor/process/
 ---
-## Process(OcrOutput) {#process}
+## Process(OcrOutput, AITableDetectionMode, Rectangle) {#process}
 
-Processes a structured OCR result using AI improvements (e.g., spell checking, grammar correction).
+Processes OCR results using this AI post-processor, optionally detecting tables in a specified mode or region.
 
 ```csharp
-public void Process(OcrOutput result)
+public void Process(OcrOutput results, AITableDetectionMode mode = AITableDetectionMode.NONE, 
+    Rectangle customRectangle = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| result | OcrOutput | The OCR output object to be modified. |
+| results | OcrOutput | The structured OCR output to process. |
+| mode | AITableDetectionMode | Table detection mode to apply. Default is NONE. |
+| customRectangle | Rectangle | Optional region to limit processing to a specific area of the image. |
 
 ### See Also
 
 * class [OcrOutput](../../../aspose.ocr/ocroutput)
+* enum [AITableDetectionMode](../../aitabledetectionmode)
+* struct [Rectangle](../../../aspose.ocr/rectangle)
 * interface [IOcrAIPostProcessor](../../iocraipostprocessor)
 * namespace [Aspose.OCR.AI](../../iocraipostprocessor)
 * assembly [Aspose.OCR](../../../)
@@ -29,7 +34,7 @@ public void Process(OcrOutput result)
 
 ## Process(List&lt;string&gt;) {#process_1}
 
-Processes a list of plain text recognition results using AI (useful for unstructured scenarios).
+Processes a list of text results using this AI post-processor.
 
 ```csharp
 public void Process(List<string> results)
@@ -37,7 +42,7 @@ public void Process(List<string> results)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| results | List`1 | The list of recognized text strings to be improved by AI. |
+| results | List`1 | The list of text strings to process. |
 
 ### See Also
 

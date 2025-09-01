@@ -3,7 +3,7 @@ title: LanguageDetectionOutput.DetectedLanguage
 second_title: Aspose.OCR for .NET API Reference
 description: KeyValuePair for language and accuracy.
 type: docs
-weight: 360
+weight: 400
 url: /net/aspose.ocr/languagedetectionoutput.detectedlanguage/
 ---
 ## LanguageDetectionOutput.DetectedLanguage class

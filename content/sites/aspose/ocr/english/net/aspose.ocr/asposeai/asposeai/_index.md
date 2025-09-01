@@ -22,49 +22,6 @@ public AsposeAI()
 
 ---
 
-## AsposeAI(AsposeAIModelConfig) {#constructor_2}
-
-Initializes a new instance of the AsposeAI class with the specified model configuration.
-
-```csharp
-public AsposeAI(AsposeAIModelConfig customSettings)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| customSettings | AsposeAIModelConfig | The custom model configuration to use. [`AsposeAIModelConfig`](../../asposeaimodelconfig) |
-
-### See Also
-
-* class [AsposeAIModelConfig](../../asposeaimodelconfig)
-* class [AsposeAI](../../asposeai)
-* namespace [Aspose.OCR](../../asposeai)
-* assembly [Aspose.OCR](../../../)
-
----
-
-## AsposeAI(AsposeAIModelConfig, ILogger) {#constructor_3}
-
-Initializes a new instance of the AsposeAI class with the specified model configuration and logger.
-
-```csharp
-public AsposeAI(AsposeAIModelConfig customSettings, ILogger customLogger)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| customSettings | AsposeAIModelConfig | The custom model configuration to use. [`AsposeAIModelConfig`](../../asposeaimodelconfig) |
-| customLogger | ILogger | The custom logger instance to use. Must inherit from the ILogger abstract class, and implement its abstract methods. ILogger |
-
-### See Also
-
-* class [AsposeAIModelConfig](../../asposeaimodelconfig)
-* class [AsposeAI](../../asposeai)
-* namespace [Aspose.OCR](../../asposeai)
-* assembly [Aspose.OCR](../../../)
-
----
-
 ## AsposeAI(ILogger) {#constructor_1}
 
 Initializes a new instance of the AsposeAI class with a custom logger. Automatic model downloads are enabled.
@@ -76,32 +33,6 @@ public AsposeAI(ILogger customLogger)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | customLogger | ILogger | The custom logger instance to use. Must inherit from the ILogger abstract class, and implement its abstract methods. ILogger |
-
-### See Also
-
-* class [AsposeAI](../../asposeai)
-* namespace [Aspose.OCR](../../asposeai)
-* assembly [Aspose.OCR](../../../)
-
----
-
-## AsposeAI(bool, ILogger, AsposeLLMApiConfig, AsposeLLMModelConfig, AsposeLLMChatSessionConfig) {#constructor_4}
-
-Initializes a new instance of the AsposeAI class with full customization options.
-
-```csharp
-public AsposeAI(bool allowAutomaticDownloads, ILogger customLogger = null, 
-    AsposeLLMApiConfig apiConfig = null, AsposeLLMModelConfig modelConfig = null, 
-    AsposeLLMChatSessionConfig chatConfig = null)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| allowAutomaticDownloads | Boolean | If true, models will be downloaded automatically if not available locally. |
-| customLogger | ILogger | The custom logger instance to use. Must inherit from the ILogger abstract class, and implement its abstract methods. ILogger |
-| apiConfig | AsposeLLMApiConfig | Optional configuration for the LLM API. AsposeLLMApiConfig |
-| modelConfig | AsposeLLMModelConfig | Optional configuration for the model. AsposeLLMModelConfig |
-| chatConfig | AsposeLLMChatSessionConfig | Optional configuration for chat session parameters. AsposeLLMChatSessionConfig |
 
 ### See Also
 
