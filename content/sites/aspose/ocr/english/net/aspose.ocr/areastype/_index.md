@@ -3,7 +3,7 @@ title: AreasType
 second_title: Aspose.OCR for .NET API Reference
 description: Determines the type of regions detected by the model.
 type: docs
-weight: 50
+weight: 70
 url: /net/aspose.ocr/areastype/
 ---
 ## AreasType enumeration

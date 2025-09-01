@@ -3,7 +3,7 @@ title: AddRange
 second_title: Aspose.OCR for .NET API Reference
 description: Adds the elements of the specified collection to the end of the OcrOutputaspose.ocr/ocroutput list. This method overrides the default AddRange behavior to perform additional operations if needed.
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.ocr/ocroutput/addrange/
 ---
 ## OcrOutput.AddRange method

@@ -3,7 +3,7 @@ title: AsposeOcr
 second_title: Aspose.OCR for .NET API Reference
 description: Main API for Aspose OCR library
 type: docs
-weight: 20
+weight: 40
 url: /net/aspose.ocr/asposeocr/
 ---
 ## AsposeOcr class
@@ -35,8 +35,9 @@ public class AsposeOcr : IDisposable
 | [ImageHasText](../../aspose.ocr/asposeocr/imagehastext#imagehastext)(string, string, RecognitionSettings, bool, bool) | Check if the image contains the provided text fragment. |
 | [ImageTextDiff](../../aspose.ocr/asposeocr/imagetextdiff)(string, string, RecognitionSettings, bool, bool) | Compare the texts on the two images and return a number representing how similar they are (0 to 1). |
 | [Recognize](../../aspose.ocr/asposeocr/recognize#recognize)(OcrInput) | Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives. |
-| [Recognize](../../aspose.ocr/asposeocr/recognize#recognize_1)(OcrInput, RecognitionSettings) | Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives. |
-| [Recognize](../../aspose.ocr/asposeocr/recognize#recognize_2)(OcrInput, RecognitionSettings, CancellationToken) | Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives. |
+| [Recognize](../../aspose.ocr/asposeocr/recognize#recognize_1)(OcrInput, AsposeOcrPresets) | Recognizes text from the given OCR input using a predefined preset configuration. |
+| [Recognize](../../aspose.ocr/asposeocr/recognize#recognize_2)(OcrInput, RecognitionSettings) | Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives. |
+| [Recognize](../../aspose.ocr/asposeocr/recognize#recognize_3)(OcrInput, RecognitionSettings, CancellationToken) | Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives. |
 | [RecognizeCarPlate](../../aspose.ocr/asposeocr/recognizecarplate#recognizecarplate)(OcrInput) | Recognizes text on car plate. |
 | [RecognizeCarPlate](../../aspose.ocr/asposeocr/recognizecarplate#recognizecarplate_1)(OcrInput, CarPlateRecognitionSettings) | Recognizes text on car plate. |
 | [RecognizeCharacters](../../aspose.ocr/asposeocr/recognizecharacters#recognizecharacters)(OcrInput) | Detects symbols on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives. |

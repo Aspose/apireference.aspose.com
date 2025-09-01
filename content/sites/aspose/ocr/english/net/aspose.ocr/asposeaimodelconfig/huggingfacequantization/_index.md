@@ -3,7 +3,7 @@ title: HuggingFaceQuantization
 second_title: Aspose.OCR for .NET API Reference
 description: Optional quantization type to use when downloading from HuggingFace. Examples int8 fp16 none. Default q4_k_m.
 type: docs
-weight: 50
+weight: 70
 url: /net/aspose.ocr/asposeaimodelconfig/huggingfacequantization/
 ---
 ## AsposeAIModelConfig.HuggingFaceQuantization property

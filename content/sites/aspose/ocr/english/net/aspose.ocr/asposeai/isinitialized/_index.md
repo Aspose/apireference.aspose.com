@@ -3,7 +3,7 @@ title: IsInitialized
 second_title: Aspose.OCR for .NET API Reference
 description: Checks whether the AI engine has been initialized.
 type: docs
-weight: 70
+weight: 50
 url: /net/aspose.ocr/asposeai/isinitialized/
 ---
 ## AsposeAI.IsInitialized method

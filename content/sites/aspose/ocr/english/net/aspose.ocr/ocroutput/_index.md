@@ -3,7 +3,7 @@ title: OcrOutput
 second_title: Aspose.OCR for .NET API Reference
 description: A container class to store and manage the results of OCR operations.
 type: docs
-weight: 430
+weight: 470
 url: /net/aspose.ocr/ocroutput/
 ---
 ## OcrOutput class
@@ -22,15 +22,25 @@ public class OcrOutput : List<RecognitionResult>
 | [OcrOutput](ocroutput#constructor_1)(int) | Initializes a new instance of the [`OcrOutput`](../ocroutput) class with a specified initial capacity. This constructor creates a new [`OcrOutput`](../ocroutput) with a predefined number of elements allocated, optimizing for performance when the size is known ahead of time. |
 | [OcrOutput](ocroutput#constructor_2)(IEnumerable&lt;RecognitionResult&gt;, OcrInput) | Initializes a new instance of the [`OcrOutput`](../ocroutput) class with a specified collection of [`RecognitionResult`](../recognitionresult). This constructor creates a new [`OcrOutput`](../ocroutput) by copying the elements from the provided collection. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [IsReadOnly](../../aspose.ocr/ocroutput/isreadonly) { get; } | Always returns false since OcrOutput is mutable. |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | [AddRange](../../aspose.ocr/ocroutput/addrange#addrange)(IEnumerable&lt;RecognitionResult&gt;) | Adds the elements of the specified collection to the end of the [`OcrOutput`](../ocroutput) list. This method overrides the default AddRange behavior to perform additional operations, if needed. |
-| [Save](../../aspose.ocr/ocroutput/save#save)(MemoryStream, SaveFormat, string, PdfOptimizationMode) | Save all recognition results to a memory stream in the specified format. |
-| [Save](../../aspose.ocr/ocroutput/save#save_1)(string, SaveFormat, string, PdfOptimizationMode) | Save all recognition result to a file. |
-| [SavePdf](../../aspose.ocr/ocroutput/savepdf#savepdf)(MemoryStream, string, PdfOptimizationMode) | Save all recognition results into an in-memory searchable PDF document, embedding the original images as the background. |
-| [SavePdf](../../aspose.ocr/ocroutput/savepdf#savepdf_1)(string, string, PdfOptimizationMode) | Save all recognition results into a searchable PDF file, with the original images set as the background. |
+| [Save](../../aspose.ocr/ocroutput/save#save)(Stream, SaveFormat) | Save all recognition results to a memory stream in the specified format. |
+| [Save](../../aspose.ocr/ocroutput/save#save_2)(string, SaveFormat) | Save all recognition result to a file. |
+| [Save](../../aspose.ocr/ocroutput/save#save_1)(Stream, SaveFormat, string, PdfOptimizationMode) | Save all recognition results to a memory stream in the specified format. |
+| [Save](../../aspose.ocr/ocroutput/save#save_3)(string, SaveFormat, string, PdfOptimizationMode) | Save all recognition result to a file. |
+| [SavePdf](../../aspose.ocr/ocroutput/savepdf#savepdf)(Stream) | Save all recognition results into an in-memory searchable PDF document, embedding the original images as the background. |
+| [SavePdf](../../aspose.ocr/ocroutput/savepdf#savepdf_2)(string) | Save all recognition results into a searchable PDF file, with the original images set as the background. |
+| [SavePdf](../../aspose.ocr/ocroutput/savepdf#savepdf_1)(Stream, string, PdfOptimizationMode) | Save all recognition results into an in-memory searchable PDF document, embedding the original images as the background. |
+| [SavePdf](../../aspose.ocr/ocroutput/savepdf#savepdf_3)(string, string, PdfOptimizationMode) | Save all recognition results into a searchable PDF file, with the original images set as the background. |
 
 ### See Also
 
