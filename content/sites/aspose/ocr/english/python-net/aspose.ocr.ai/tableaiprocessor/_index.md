@@ -19,13 +19,9 @@ The TableAIProcessor type exposes the following members:
 ## Methods
 | Name | Description |
 | :- | :- |
-|process(results, mode, custom_rectangle)|  |
-|process(results)|  |
 |get_result()|  |
 |save_txt(filename)|  |
 |save_xlsx(filename)|  |
-|set_ai(aspose_ai)|  |
-|set_default_model(custom_settings)|  |
 
 ### See Also
 
