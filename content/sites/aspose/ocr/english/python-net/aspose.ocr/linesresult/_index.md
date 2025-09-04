@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 245
-url: /ocr/python-net/aspose.ocr/linesresult
+url: /python-net/aspose.ocr/linesresult
 ---
 
 ## LinesResult class
