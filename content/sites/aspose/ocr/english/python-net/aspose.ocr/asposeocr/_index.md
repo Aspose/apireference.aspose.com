@@ -3,7 +3,7 @@ title: AsposeOcr
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 10
+weight: 30
 url: /python-net/aspose.ocr/asposeocr/
 ---
 
@@ -25,6 +25,7 @@ The AsposeOcr type exposes the following members:
 | Name | Description |
 | :- | :- |
 |recognize(images)|Recognizes text on images / documents.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.|
+|recognize(images, preset)|  |
 |recognize(images, settings)|Recognizes text on images / documents.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.|
 |recognize_receipt(images)|Recognizes text on receipts.|
 |recognize_receipt(images, settings)|Recognizes text on receipts.|
