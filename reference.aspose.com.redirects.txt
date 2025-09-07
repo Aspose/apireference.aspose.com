@@ -19,7 +19,7 @@ rewrite /(pub|tex|words|slides|pdf|cells)/cpp/class/(.*)\.(.*)_(.*)_(.*) https:/
 rewrite /(pub|tex|words|slides|pdf|cells)/cpp/class/(.*)\.(.*)_(.*) https://reference.aspose.com/$1/cpp/$2/$3$4 permanent;
 rewrite /(pub|tex|words|slides|pdf|cells)/cpp/class/(.*)\.(.*) https://reference.aspose.com/$1/cpp/$2/$3 permanent;
 rewrite /(.*)/index/?$ https://reference.aspose.com/$1/ permanent;
-rewrite /pdf/net/aspose.pdf.facades.pdffileeditor/(pagebreak|contentsresizeparameters|contentsresizevalue|corrupteditem)(.*) https://reference.aspose.com/pdf/net/aspose.pdf.facades/pdffileeditor.$1$2 permanent;
+rewrite /pdf/net/aspose.pdf.facades.pdffileeditor/(pagebreak|contentsresizeparameters|contentsresizevalue|corrupteditem)[^s](.*) https://reference.aspose.com/pdf/net/aspose.pdf.facades/pdffileeditor.$1$2 permanent;
 rewrite /pdf/net/aspose.pdf.facades/pdffileeditor.(pagebreak|contentsresizeparameters|contentsresizevalue|corrupteditem)/constructors(.*) https://reference.aspose.com/pdf/net/aspose.pdf.facades/pdffileeditor.$1/$1/ permanent; 
 rewrite /(.*)/(methods|constructors|properties|fields)/?$ https://reference.aspose.com/$1 permanent;
 rewrite /(.*?/net)/([^.]+).([^.]+).([^.]+)/(.*)/methods/([0-9]+) https://reference.aspose.com/$1/$2.$3/$4/$5#$5_$6 permanent;
