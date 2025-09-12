@@ -11,7 +11,6 @@ on:
     branches: [ main ]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -26,7 +25,6 @@ jobs:
         with:
             submodules: true  # Fetch Hugo themes
             fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
       # Cache Hugo resources and modules
       - name: Cache Hugo resources
         uses: actions/cache@v4
@@ -37,7 +35,6 @@ jobs:
           key: ${{ runner.os }}-hugo-${{ hashFiles('config/sites/aspose/cells-python-net/config.yaml') }}-${{ github.sha }}
           restore-keys: |
             ${{ runner.os }}-hugo-
-
       # Cache node modules for faster npm installs
       - name: Cache node modules
         uses: actions/cache@v4
@@ -46,7 +43,6 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('package*.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
-
       # Cache the theme repository
       - name: Cache api-theme
         uses: actions/cache@v4
@@ -56,7 +52,6 @@ jobs:
           key: ${{ runner.os }}-theme-cells-${{ github.run_id }}
           restore-keys: |
             ${{ runner.os }}-theme-cells-
-
       - name: Checkout theme repo
         if: steps.theme-cache.outputs.cache-hit != 'true'
         uses: actions/checkout@v4
@@ -66,34 +61,39 @@ jobs:
           fetch-depth: 0
           ref: cells
           path: themes/api-theme      
-
-      # Step 2 - Sets up the latest version of Hugo
+      # Step 2 - Sets up Hugo with deploy support
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.135.0'  # Use specific version with deploy support
           extended: true
-
       - name: Install Dependencies
         run: |
           npm install -D --save autoprefixer postcss-cli
-
       # Also specifies the theme we want to use
       - name: Build
         run: |
-          export HUGO_NUMWORKERMULTIPLIER=1
-          export GOMEMLIMIT=3GiB
           hugo --configDir config/sites/aspose/cells-python-net \
                 --environment staging \
                 --minify \
                 --gc \
                 --cacheDir ~/.cache/hugo_cache
-        
-      - name: Deploy apireference2.aspose.com(cells)(python-net)(Staging) to S3
-        run: hugo --configDir config/sites/aspose/cells-python-net --environment staging deploy --target "Stage" --maxDeletes 0
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+      
+      # Configure AWS credentials
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.ACCESS_KEY }}
+          aws-secret-access-key: ${{ secrets.SECRET_ACCESS }}
+          aws-region: us-west-2
+          
+      - name: Deploy to S3 using AWS CLI
+        run: |
+          aws s3 sync public/ s3://${{ secrets.S3_BUCKET_STAGING }}/cells/python-net/ \
+            --delete \
+            --exclude "*.map" \
+            --cache-control "public, max-age=3600"
+            
       - name: invalidate
         uses: chetan/invalidate-cloudfront-action@v2
         env:
