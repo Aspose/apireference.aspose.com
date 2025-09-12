@@ -87,11 +87,20 @@ jobs:
                 --gc \
                 --cacheDir ~/.cache/hugo_cache
         
-      - name: Deploy apireference2.aspose.com(cells)(python-net)(Production) to S3
-        run: hugo --configDir config/sites/aspose/cells-python-net --environment production deploy --target "Production" --maxDeletes 0
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+      # Configure AWS credentials
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.ACCESS_KEY }}
+          aws-secret-access-key: ${{ secrets.SECRET_ACCESS }}
+          aws-region: us-west-2
+          
+      - name: Deploy to S3 using AWS CLI
+        run: |
+          aws s3 sync public/ s3://${{ secrets.S3_BUCKET }}/cells/python-net/ \
+            --delete \
+            --exclude "*.map" \
+            --cache-control "public, max-age=3600"
 
       # Invalidate Cloudfront Home Page
       - name: invalidate
