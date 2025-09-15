@@ -3,7 +3,7 @@ title: BaseRecognitionSettings
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /python-net/aspose.ocr/baserecognitionsettings/
 ---
 
@@ -12,23 +12,15 @@ url: /python-net/aspose.ocr/baserecognitionsettings/
 Settings for the image recognition.<br/>            Contains elements that allow customizing the recognition process.
 
 The BaseRecognitionSettings type exposes the following members:
-## Constructors
-| Name | Description |
-| :- | :- |
-|BaseRecognitionSettings(language)|Initializes a new instance of the BaseRecognitionSettings class|
 ## Properties
 | Name | Description |
 | :- | :- |
 |threads_count|Gets or sets the number fo threads for processing.|
 |language|Gets or sets the language used for OCR.|
-|language_detection_level|  |
 |ignored_symbols|Sets blacklist for recognition symbols.|
 |allowed_symbols|Set the allowed characters with alphabet property.|
-|lines_filtration|Allows to recognize text in the tables (regions surrounded lines).|
 |allowed_characters|Allowed characters set. Determines the type of characters allowed for recognition result.|
-|detect_areas_mode|Allows to select the optimal mode for document type areas: document, photo, plain text, column, image.|
 |automatic_color_inversion|Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them.|
-|upscale_small_font|Allows you to use additional algorithms specifically for small font recognition.<br/>            Useful for images with small size characters.|
 
 ### See Also
 

@@ -14,6 +14,9 @@ url: /python-net/aspose.ocr.ai/
 | Class | Description |
 | :- | :- |
 |[AIResult](/ocr/python-net/aspose.ocr.ai/airesult/)||
+|[AsposeAI](/ocr/python-net/aspose.ocr.ai/asposeai/)||
+|[AsposeAIModelConfig](/ocr/python-net/aspose.ocr.ai/asposeaimodelconfig/)||
+|[IOcrAIPostProcessor](/ocr/python-net/aspose.ocr.ai/iocraipostprocessor/)||
 |[SpellCheckAIProcessor](/ocr/python-net/aspose.ocr.ai/spellcheckaiprocessor/)||
 |[TableAIProcessor](/ocr/python-net/aspose.ocr.ai/tableaiprocessor/)||
 ## Enumerations
