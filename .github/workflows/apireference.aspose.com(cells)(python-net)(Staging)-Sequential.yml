@@ -2,11 +2,11 @@ name: apireference.aspose.com(cells)(python-net)(Staging) - Sequential
 
 on:
   push:
-    branches: [ main]
+    branches: [ master]
     paths:
       - 'content/sites/aspose/cells-python-net/**'
   pull_request:
-    branches: [ main]
+    branches: [ master]
   workflow_dispatch:
 
 jobs:
