@@ -6,26 +6,21 @@ type: docs
 weight: 10
 url: /net/aspose.ocr.ai/iocraipostprocessor/process/
 ---
-## Process(OcrOutput, AITableDetectionMode, Rectangle) {#process}
+## Process(OcrOutput) {#process}
 
 Processes OCR results using this AI post-processor, optionally detecting tables in a specified mode or region.
 
 ```csharp
-public void Process(OcrOutput results, AITableDetectionMode mode = AITableDetectionMode.NONE, 
-    Rectangle customRectangle = default)
+public void Process(OcrOutput results)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | results | OcrOutput | The structured OCR output to process. |
-| mode | AITableDetectionMode | Table detection mode to apply. Default is NONE. |
-| customRectangle | Rectangle | Optional region to limit processing to a specific area of the image. |
 
 ### See Also
 
 * class [OcrOutput](../../../aspose.ocr/ocroutput)
-* enum [AITableDetectionMode](../../aitabledetectionmode)
-* struct [Rectangle](../../../aspose.ocr/rectangle)
 * interface [IOcrAIPostProcessor](../../iocraipostprocessor)
 * namespace [Aspose.OCR.AI](../../iocraipostprocessor)
 * assembly [Aspose.OCR](../../../)

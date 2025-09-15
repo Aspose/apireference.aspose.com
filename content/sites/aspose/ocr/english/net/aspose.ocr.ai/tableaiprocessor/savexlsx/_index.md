@@ -3,7 +3,7 @@ title: SaveXlsx
 second_title: Aspose.OCR for .NET API Reference
 description: Saves the extracted structured tables into an XLSX Excel file.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.ocr.ai/tableaiprocessor/savexlsx/
 ---
 ## TableAIProcessor.SaveXlsx method

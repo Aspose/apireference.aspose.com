@@ -14,6 +14,7 @@ Contains tools for image recognition, skew correction, text areas detection and 
 | Class | Description |
 | :- | :- |
 |[AsposeOcr](/ocr/python-net/aspose.ocr/asposeocr/)|Main API for Aspose OCR library|
+|[AsposeOcrPresets](/ocr/python-net/aspose.ocr/asposeocrpresets/)||
 |[BaseRecognitionSettings](/ocr/python-net/aspose.ocr/baserecognitionsettings/)|Settings for the image recognition.<br/>            Contains elements that allow customizing the recognition process.|
 |[CarPlateRecognitionSettings](/ocr/python-net/aspose.ocr/carplaterecognitionsettings/)|Settings for the car number recognition.<br/>            Contains elements that allow customizing the recognition process.|
 |[Character](/ocr/python-net/aspose.ocr/character/)|Data about detected character.|

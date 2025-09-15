@@ -3,7 +3,7 @@ title: OcrRecognizeEventHandler
 second_title: Aspose.OCR for .NET API Reference
 description: A delegate to track the progress of multi-page image recognition.
 type: docs
-weight: 30
+weight: 10
 url: /net/aspose.ocr/ocrrecognizeeventhandler/
 ---
 ## OcrRecognizeEventHandler delegate

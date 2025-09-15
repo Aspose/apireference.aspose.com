@@ -3,7 +3,7 @@ title: AsposeOcrPresets
 second_title: Aspose.OCR for .NET API Reference
 description: Represents a collection of predefined OCR presets for common recognition scenarios. Allows fast configuration of recognition settings without manual parameter tuning.
 type: docs
-weight: 80
+weight: 60
 url: /net/aspose.ocr/asposeocrpresets/
 ---
 ## AsposeOcrPresets class

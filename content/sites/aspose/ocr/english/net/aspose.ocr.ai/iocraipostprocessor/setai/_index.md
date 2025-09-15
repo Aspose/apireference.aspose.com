@@ -20,7 +20,7 @@ public void SetAI(AsposeAI asposeAI)
 
 ### See Also
 
-* class [AsposeAI](../../../aspose.ocr/asposeai)
+* class [AsposeAI](../../asposeai)
 * interface [IOcrAIPostProcessor](../../iocraipostprocessor)
 * namespace [Aspose.OCR.AI](../../iocraipostprocessor)
 * assembly [Aspose.OCR](../../../)

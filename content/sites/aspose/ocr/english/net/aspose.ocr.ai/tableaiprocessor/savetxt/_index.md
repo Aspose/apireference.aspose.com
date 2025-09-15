@@ -3,7 +3,7 @@ title: SaveTxt
 second_title: Aspose.OCR for .NET API Reference
 description: Saves the extracted tables and processed text results into a TXT file.
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.ocr.ai/tableaiprocessor/savetxt/
 ---
 ## TableAIProcessor.SaveTxt method

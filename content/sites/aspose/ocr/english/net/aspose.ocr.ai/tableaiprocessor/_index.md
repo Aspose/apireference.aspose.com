@@ -3,7 +3,7 @@ title: TableAIProcessor
 second_title: Aspose.OCR for .NET API Reference
 description: AI post-processor that analyzes OCR results and extracts structured tables. Uses AI-based processing to improve table layout detection and formatting.
 type: docs
-weight: 600
+weight: 550
 url: /net/aspose.ocr.ai/tableaiprocessor/
 ---
 ## TableAIProcessor class
@@ -18,13 +18,14 @@ public class TableAIProcessor : IOcrAIPostProcessor
 
 | Name | Description |
 | --- | --- |
-| [TableAIProcessor](tableaiprocessor)() | The default constructor. |
+| [TableAIProcessor](tableaiprocessor)(AITableDetectionMode) | Initializes a new instance of the [`TableAIProcessor`](../tableaiprocessor) class with the specified table detection mode. The mode defines how tables are detected, structured, and processed from the recognized text. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | [GetResult](../../aspose.ocr.ai/tableaiprocessor/getresult)() | Gets the processed OCR results after table detection and structuring. |
+| [SaveMd](../../aspose.ocr.ai/tableaiprocessor/savemd)(string) | Saves the extracted structured tables into a Markdown (.md) file. |
 | [SaveTxt](../../aspose.ocr.ai/tableaiprocessor/savetxt)(string) | Saves the extracted tables and processed text results into a TXT file. |
 | [SaveXlsx](../../aspose.ocr.ai/tableaiprocessor/savexlsx)(string) | Saves the extracted structured tables into an XLSX (Excel) file. |
 

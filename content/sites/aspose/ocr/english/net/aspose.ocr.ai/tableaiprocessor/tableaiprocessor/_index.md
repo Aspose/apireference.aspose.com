@@ -1,21 +1,26 @@
 ---
 title: TableAIProcessor
 second_title: Aspose.OCR for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the TableAIProcessoraspose.ocr.ai/tableaiprocessor class with the specified table detection mode. The mode defines how tables are detected structured and processed from the recognized text.
 type: docs
 weight: 10
 url: /net/aspose.ocr.ai/tableaiprocessor/tableaiprocessor/
 ---
 ## TableAIProcessor constructor
 
-The default constructor.
+Initializes a new instance of the [`TableAIProcessor`](../../tableaiprocessor) class with the specified table detection mode. The mode defines how tables are detected, structured, and processed from the recognized text.
 
 ```csharp
-public TableAIProcessor()
+public TableAIProcessor(AITableDetectionMode mode = AITableDetectionMode.NONE)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| mode | AITableDetectionMode | The table detection mode to use. Use NONE to process the entire image as one table without explicit detection, or AUTO to automatically detect and structure tables. |
 
 ### See Also
 
+* enum [AITableDetectionMode](../../aitabledetectionmode)
 * class [TableAIProcessor](../../tableaiprocessor)
 * namespace [Aspose.OCR.AI](../../tableaiprocessor)
 * assembly [Aspose.OCR](../../../)

@@ -3,7 +3,7 @@ title: CarPlateRecognitionSettings
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /python-net/aspose.ocr/carplaterecognitionsettings/
 ---
 
@@ -20,6 +20,7 @@ The CarPlateRecognitionSettings type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
+|threads_count|Gets or sets the number fo threads for processing.|
 |language|Gets or sets the language used for OCR.|
 |ignored_symbols|Sets blacklist for recognition symbols.|
 |allowed_symbols|Set the allowed characters with alphabet property.|

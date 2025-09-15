@@ -3,7 +3,7 @@ title: AsposeOcrPresets.OcrPreset
 second_title: Aspose.OCR for .NET API Reference
 description: Available recognition presets for typical use cases.
 type: docs
-weight: 90
+weight: 570
 url: /net/aspose.ocr/asposeocrpresets.ocrpreset/
 ---
 ## AsposeOcrPresets.OcrPreset enumeration
