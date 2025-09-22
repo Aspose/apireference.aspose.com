@@ -6,9 +6,29 @@ type: docs
 weight: 420
 url: /net/aspose.page.eps/psdocument/save/
 ---
-## Save(Stream) {#save_1}
+## Save(string) {#save_2}
 
 Saves given [`PsDocument`](../) as EPS file. This method is used only after updating XMP metadata. It saves initial EPS file with updated existing metadata or new one created while calling GetMetadata method. In the last case all necessary PostScript code and EPS comments are added.
+
+```csharp
+public void Save(string outEpsFilePath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outEpsFilePath | String | An output EPS file path. |
+
+### See Also
+
+* class [PsDocument](../)
+* namespace [Aspose.Page.EPS](../../psdocument/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## Save(Stream) {#save_1}
+
+Saves given [`PsDocument`](../) to the stream. This method is used only after updating XMP metadata. It saves initial EPS file with updated existing metadata or new one created while calling GetMetadata method. In the last case all necessary PostScript code and EPS comments are added.
 
 ```csharp
 public void Save(Stream epsStream)
@@ -28,7 +48,7 @@ public void Save(Stream epsStream)
 
 ## Save() {#save}
 
-Saves given [`PsDocument`](../) as EPS file. This method is used only when PsDocument was created from scratch.
+Saves given [`PsDocument`](../) as PS or EPS file. This method is used only when PsDocument was created from scratch.
 
 ```csharp
 public void Save()
