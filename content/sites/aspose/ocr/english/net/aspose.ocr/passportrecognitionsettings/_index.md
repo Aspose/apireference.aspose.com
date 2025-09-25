@@ -31,6 +31,7 @@ public class PassportRecognitionSettings : BaseRecognitionSettings
 | [Country](../../aspose.ocr/passportrecognitionsettings/country) { get; set; } | Set the template for passport recognition and to extract the keywords. |
 | [IgnoredSymbols](../../aspose.ocr/baserecognitionsettings/ignoredsymbols) { get; set; } | Sets blacklist for recognition symbols. |
 | [Language](../../aspose.ocr/baserecognitionsettings/language) { get; set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
+| [RecognizeVerticalLines](../../aspose.ocr/baserecognitionsettings/recognizeverticallines) { get; set; } | Gets or sets a value indicating whether vertical text lines should be detected and recognized in addition to horizontal ones. Default is `false`. |
 | [ThreadsCount](../../aspose.ocr/baserecognitionsettings/threadscount) { get; set; } | Gets or sets the number fo threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |
 
 ### See Also
