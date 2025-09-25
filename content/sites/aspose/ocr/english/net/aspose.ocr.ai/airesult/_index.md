@@ -3,7 +3,7 @@ title: AIResult
 second_title: Aspose.OCR for .NET API Reference
 description: Represents the transformed and processed result of text recognition.
 type: docs
-weight: 560
+weight: 500
 url: /net/aspose.ocr.ai/airesult/
 ---
 ## AIResult class

@@ -3,7 +3,7 @@ title: DefectType
 second_title: Aspose.OCR for .NET API Reference
 description: The types of image defects.
 type: docs
-weight: 110
+weight: 80
 url: /net/aspose.ocr/defecttype/
 ---
 ## DefectType enumeration

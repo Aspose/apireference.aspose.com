@@ -3,7 +3,7 @@ title: CharacterRecognitionResult
 second_title: Aspose.OCR for .NET API Reference
 description: Pages with detected characters data.
 type: docs
-weight: 450
+weight: 390
 url: /net/aspose.ocr/characterrecognitionresult/
 ---
 ## CharacterRecognitionResult class

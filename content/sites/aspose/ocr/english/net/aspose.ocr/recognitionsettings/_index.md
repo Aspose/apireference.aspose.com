@@ -3,7 +3,7 @@ title: RecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the image recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 330
+weight: 280
 url: /net/aspose.ocr/recognitionsettings/
 ---
 ## RecognitionSettings class
@@ -35,6 +35,7 @@ public class RecognitionSettings : BaseRecognitionSettings
 | [LinesFiltration](../../aspose.ocr/recognitionsettings/linesfiltration) { get; set; } | Allows to recognize text in the tables (regions surrounded lines). |
 | [RecognitionAreas](../../aspose.ocr/recognitionsettings/recognitionareas) { get; set; } | Gets or sets the list of text areas for processing.  Allows to manually specify the areas with text for more accurate recognition.  Disables AutoSkew. |
 | [RecognizeSingleLine](../../aspose.ocr/recognitionsettings/recognizesingleline) { get; set; } | Sets single-line image recognition. Disabled (false) by default. Disable all the processing steps associated with splitting into lines. Set this parameter to true if your image contains only one line. Disables RecognitionAreas settings, so all areas settings will be ignored. |
+| [RecognizeVerticalLines](../../aspose.ocr/baserecognitionsettings/recognizeverticallines) { get; set; } | Gets or sets a value indicating whether vertical text lines should be detected and recognized in addition to horizontal ones. Default is `false`. |
 | [ThreadsCount](../../aspose.ocr/baserecognitionsettings/threadscount) { get; set; } | Gets or sets the number fo threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |
 | [UpscaleSmallFont](../../aspose.ocr/recognitionsettings/upscalesmallfont) { get; set; } | Allows you to use additional algorithms specifically for small font recognition. Useful for images with small size characters. |
 

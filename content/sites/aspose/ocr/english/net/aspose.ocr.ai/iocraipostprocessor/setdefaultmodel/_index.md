@@ -20,7 +20,7 @@ public void SetDefaultModel(AsposeAIModelConfig customSettings)
 
 ### See Also
 
-* class [AsposeAIModelConfig](../../../aspose.ocr/asposeaimodelconfig)
+* class [AsposeAIModelConfig](../../asposeaimodelconfig)
 * interface [IOcrAIPostProcessor](../../iocraipostprocessor)
 * namespace [Aspose.OCR.AI](../../iocraipostprocessor)
 * assembly [Aspose.OCR](../../../)

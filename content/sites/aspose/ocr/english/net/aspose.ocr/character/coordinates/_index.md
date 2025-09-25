@@ -16,7 +16,6 @@ public Rectangle Coordinates { get; set; }
 
 ### See Also
 
-* struct [Rectangle](../../rectangle)
 * class [Character](../../character)
 * namespace [Aspose.OCR](../../character)
 * assembly [Aspose.OCR](../../../)

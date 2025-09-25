@@ -3,7 +3,7 @@ title: PdfOptimizationMode
 second_title: Aspose.OCR for .NET API Reference
 description: Significantly reduce the PDF file size at the expense of lower image quality.
 type: docs
-weight: 150
+weight: 120
 url: /net/aspose.ocr/pdfoptimizationmode/
 ---
 ## PdfOptimizationMode enumeration

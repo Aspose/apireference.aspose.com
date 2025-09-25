@@ -3,7 +3,7 @@ title: ExecutionModeOnnx
 second_title: Aspose.OCR for .NET API Reference
 description: Controls whether you want to execute operators in the graph one-by-one or in concurrently.
 type: docs
-weight: 280
+weight: 230
 url: /net/aspose.ocr/executionmodeonnx/
 ---
 ## ExecutionModeOnnx enumeration
