@@ -25,6 +25,7 @@ public class ImageGraphicContext : GraphicContext
 | Name | Description |
 | --- | --- |
 | virtual [CharacterSpacing](../../aspose.svg.rendering/graphiccontext/characterspacing/) { get; set; } | Sets or gets character spacing. |
+| [CurrentElement](../../aspose.svg.rendering/graphiccontext/currentelement/) { get; } | Gets current processed element. |
 | virtual [FillBrush](../../aspose.svg.rendering/graphiccontext/fillbrush/) { get; set; } | Sets or gets the brush object that is used to fill the interiors of paths. |
 | virtual [Font](../../aspose.svg.rendering/graphiccontext/font/) { get; set; } | Sets or gets the true type font object that is used for rendering text. |
 | virtual [FontSize](../../aspose.svg.rendering/graphiccontext/fontsize/) { get; set; } | Sets or gets text font size. |
