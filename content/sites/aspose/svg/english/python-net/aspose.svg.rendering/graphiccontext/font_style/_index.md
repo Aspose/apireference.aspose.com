@@ -3,7 +3,7 @@ title: font_style property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /python-net/aspose.svg.rendering/graphiccontext/font_style/
 is_root: false
 ---

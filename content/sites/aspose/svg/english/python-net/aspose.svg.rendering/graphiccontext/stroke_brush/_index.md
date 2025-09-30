@@ -3,7 +3,7 @@ title: stroke_brush property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /python-net/aspose.svg.rendering/graphiccontext/stroke_brush/
 is_root: false
 ---

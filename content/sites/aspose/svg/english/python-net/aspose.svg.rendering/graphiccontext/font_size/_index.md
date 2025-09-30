@@ -3,7 +3,7 @@ title: font_size property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /python-net/aspose.svg.rendering/graphiccontext/font_size/
 is_root: false
 ---

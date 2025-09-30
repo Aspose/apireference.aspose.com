@@ -3,7 +3,7 @@ title: miter_limit property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /python-net/aspose.svg.rendering/graphiccontext/miter_limit/
 is_root: false
 ---

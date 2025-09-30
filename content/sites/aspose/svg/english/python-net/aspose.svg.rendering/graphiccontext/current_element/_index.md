@@ -1,27 +1,25 @@
 ﻿---
-title: line_dash_offset property
+title: current_element property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /python-net/aspose.svg.rendering/graphiccontext/line_dash_offset/
+weight: 60
+url: /python-net/aspose.svg.rendering/graphiccontext/current_element/
 is_root: false
 ---
 
-## line_dash_offset property
+## current_element property
 
 
-Sets or gets the phase offset of the current line dash pattern.
+Gets current processed element.
 ### Definition:
 ```python
 @property
-def line_dash_offset(self):
-    ...
-@line_dash_offset.setter
-def line_dash_offset(self, value):
+def current_element(self):
     ...
 ```
 
 ### See Also
 * module [`aspose.svg.rendering`](../../)
+* class [`Element`](/svg/python-net/aspose.svg.dom/element)
 * class [`GraphicContext`](/svg/python-net/aspose.svg.rendering/graphiccontext)
