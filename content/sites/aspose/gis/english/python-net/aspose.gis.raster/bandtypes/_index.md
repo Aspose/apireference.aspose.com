@@ -11,7 +11,7 @@ The types of a raster band.
 
 **Full Name:** aspose.gis.raster.BandTypes
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

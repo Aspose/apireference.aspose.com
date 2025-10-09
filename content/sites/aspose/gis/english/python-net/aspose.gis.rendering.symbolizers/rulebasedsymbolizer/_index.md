@@ -13,7 +13,7 @@ url: /python-net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/
 
 **Inheritance:** VectorSymbolizer
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

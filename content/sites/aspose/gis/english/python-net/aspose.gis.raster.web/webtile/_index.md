@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.raster.web/webtile/
 
 **Full Name:** aspose.gis.raster.web.WebTile
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
@@ -21,12 +21,29 @@ url: /python-net/aspose.gis.raster.web/webtile/
 ## **Methods**
 | **Name** | **Description** |
 | :- | :- |
-| [as_path()](#as_path__1) | Presents the tile content as a Url or Path to a file. |
-| [as_raster()](#as_raster__2) | Presents the tile content as a Raster layer. |
-| [get_extent()](#get_extent__3) | Presents a spatial extent of this layer. |
+| [as_binary()](#as_binary__1) | Returns the image byte sequence |
+| [as_path()](#as_path__2) | Presents the tile content as a Url or Path to a file. |
+| [as_raster()](#as_raster__3) | Presents the tile content as a Raster layer. |
+| [get_extent()](#get_extent__4) | Presents a spatial extent of this layer. |
 
 
-### Method: as_path() {#as_path__1}
+### Method: as_binary() {#as_binary__1}
+
+
+```
+ as_binary() 
+```
+
+Returns the image byte sequence
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| byte | Byte sequence |
+
+
+### Method: as_path() {#as_path__2}
 
 
 ```
@@ -42,7 +59,7 @@ Presents the tile content as a Url or Path to a file.
 | string | Url or Path to a file |
 
 
-### Method: as_raster() {#as_raster__2}
+### Method: as_raster() {#as_raster__3}
 
 
 ```
@@ -58,7 +75,7 @@ Presents the tile content as a Raster layer.
 | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer) | The Raster. |
 
 
-### Method: get_extent() {#get_extent__3}
+### Method: get_extent() {#get_extent__4}
 
 
 ```

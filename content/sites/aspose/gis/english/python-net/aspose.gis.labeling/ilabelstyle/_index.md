@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.labeling/ilabelstyle/
 
 **Full Name:** aspose.gis.labeling.ILabelStyle
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
 | **Name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.rendering.formats.bmp
 type: docs
-weight: 700
+weight: 720
 url: /python-net/aspose.gis.rendering.formats.bmp/
 ---
 

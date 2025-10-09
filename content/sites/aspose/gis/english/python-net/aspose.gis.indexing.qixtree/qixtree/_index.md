@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.indexing.qixtree/qixtree/
 
 **Full Name:** aspose.gis.indexing.qixtree.QixTree
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
 | **Name** | **Description** |

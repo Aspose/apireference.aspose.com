@@ -11,7 +11,7 @@ Specifies a stroke style.
 
 **Full Name:** aspose.gis.rendering.StrokeStyle
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

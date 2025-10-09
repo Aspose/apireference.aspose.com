@@ -1,7 +1,7 @@
 ---
 title: IAttributesConverter Class
 type: docs
-weight: 1420
+weight: 1470
 url: /python-net/aspose.gis/iattributesconverter/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/iattributesconverter/
 
 **Full Name:** aspose.gis.IAttributesConverter
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
 | **Name** | **Description** |

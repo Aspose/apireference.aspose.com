@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.formats.worldfile
 type: docs
-weight: 460
+weight: 480
 url: /python-net/aspose.gis.formats.worldfile/
 ---
 

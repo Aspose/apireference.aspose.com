@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.spatialreferencing/bursawolfparameters/
 
 **Full Name:** aspose.gis.spatialreferencing.BursaWolfParameters
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.indexing.rtree/rtreeoptions/
 
 **Full Name:** aspose.gis.indexing.rtree.RTreeOptions
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

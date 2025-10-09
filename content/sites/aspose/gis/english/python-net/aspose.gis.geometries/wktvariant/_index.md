@@ -11,7 +11,7 @@ The variant of Well-Known Text
 
 **Full Name:** aspose.gis.geometries.WktVariant
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

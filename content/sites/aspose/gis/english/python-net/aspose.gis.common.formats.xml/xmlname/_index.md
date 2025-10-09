@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.common.formats.xml/xmlname/
 
 **Full Name:** aspose.gis.common.formats.xml.XmlName
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

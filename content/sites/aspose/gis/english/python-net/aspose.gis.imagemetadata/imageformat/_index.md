@@ -11,7 +11,7 @@ Specifies the file format of the image.
 
 **Full Name:** aspose.gis.imagemetadata.ImageFormat
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.imagemetadata
 type: docs
-weight: 540
+weight: 560
 url: /python-net/aspose.gis.imagemetadata/
 ---
 

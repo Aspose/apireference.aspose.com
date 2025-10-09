@@ -11,7 +11,7 @@ Determines the rendering order.
 
 **Full Name:** aspose.gis.rendering.symbolizers.RenderingOrder
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

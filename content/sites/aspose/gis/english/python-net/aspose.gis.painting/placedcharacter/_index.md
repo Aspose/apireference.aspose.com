@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.painting/placedcharacter/
 
 **Full Name:** aspose.gis.painting.PlacedCharacter
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.common.formats.mapinfo/mapinfosizes/
 
 **Full Name:** aspose.gis.common.formats.mapinfo.MapInfoSizes
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

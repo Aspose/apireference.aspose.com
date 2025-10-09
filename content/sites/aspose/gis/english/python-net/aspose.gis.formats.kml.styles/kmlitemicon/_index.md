@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.formats.kml.styles/kmlitemicon/
 
 **Full Name:** aspose.gis.formats.kml.styles.KmlItemIcon
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

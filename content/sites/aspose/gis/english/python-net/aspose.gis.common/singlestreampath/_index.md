@@ -13,7 +13,7 @@ url: /python-net/aspose.gis.common/singlestreampath/
 
 **Inheritance:** AbstractPathInternal
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

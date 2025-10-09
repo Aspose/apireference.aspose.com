@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.formats.inmemory
 type: docs
-weight: 330
+weight: 340
 url: /python-net/aspose.gis.formats.inmemory/
 ---
 

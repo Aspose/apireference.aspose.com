@@ -1,7 +1,7 @@
 ---
 title: AltitudeModes Enumeration
 type: docs
-weight: 140
+weight: 230
 url: /python-net/aspose.gis.formats.kml/altitudemodes/
 ---
 
@@ -11,7 +11,7 @@ Altitude mode for KML geometries.
 
 **Full Name:** aspose.gis.formats.kml.AltitudeModes
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

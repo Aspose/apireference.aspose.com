@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.formats.xyztile
 type: docs
-weight: 470
+weight: 490
 url: /python-net/aspose.gis.formats.xyztile/
 ---
 

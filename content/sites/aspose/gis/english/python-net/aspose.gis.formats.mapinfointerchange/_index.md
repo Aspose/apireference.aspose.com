@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.formats.mapinfointerchange
 type: docs
-weight: 370
+weight: 390
 url: /python-net/aspose.gis.formats.mapinfointerchange/
 ---
 

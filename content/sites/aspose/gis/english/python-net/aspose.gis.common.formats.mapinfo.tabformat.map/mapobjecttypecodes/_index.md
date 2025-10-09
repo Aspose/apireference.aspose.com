@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapobjecttypeco
 
 **Full Name:** aspose.gis.common.formats.mapinfo.tabformat.map.MapObjectTypeCodes
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

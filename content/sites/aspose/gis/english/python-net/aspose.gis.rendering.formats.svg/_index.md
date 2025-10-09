@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.rendering.formats.svg
 type: docs
-weight: 730
+weight: 750
 url: /python-net/aspose.gis.rendering.formats.svg/
 ---
 

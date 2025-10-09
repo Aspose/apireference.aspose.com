@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.geotools.wayanalyzer/wayoptions/
 
 **Full Name:** aspose.gis.geotools.wayanalyzer.WayOptions
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

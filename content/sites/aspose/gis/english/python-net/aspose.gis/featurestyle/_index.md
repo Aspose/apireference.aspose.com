@@ -1,7 +1,7 @@
 ---
 title: FeatureStyle Class
 type: docs
-weight: 840
+weight: 860
 url: /python-net/aspose.gis/featurestyle/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.gis/featurestyle/
 
 **Inheritance:** IFeatureStyle
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

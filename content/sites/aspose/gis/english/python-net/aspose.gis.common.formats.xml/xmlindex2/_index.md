@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.common.formats.xml/xmlindex2/
 
 **Full Name:** aspose.gis.common.formats.xml.XmlIndex2
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

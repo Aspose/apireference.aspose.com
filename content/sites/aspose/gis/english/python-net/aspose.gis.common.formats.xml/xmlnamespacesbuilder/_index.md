@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.common.formats.xml/xmlnamespacesbuilder/
 
 **Full Name:** aspose.gis.common.formats.xml.XmlNamespacesBuilder
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.formats.sqlserver
 type: docs
-weight: 430
+weight: 450
 url: /python-net/aspose.gis.formats.sqlserver/
 ---
 

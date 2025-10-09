@@ -1,7 +1,7 @@
 ---
 title: Drivers Class
 type: docs
-weight: 630
+weight: 640
 url: /python-net/aspose.gis/drivers/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/drivers/
 
 **Full Name:** aspose.gis.Drivers
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
@@ -24,6 +24,7 @@ url: /python-net/aspose.gis/drivers/
 | gdal [static] | [GdalDriver](/psd/python-net/aspose.gis.formats.gdal/gdaldriver/) | r | A driver for the GDAL format. |
 | geo_json [static] | [GeoJsonDriver](/psd/python-net/aspose.gis.formats.geojson/geojsondriver/) | r | A driver for the GeoJSON format. |
 | geo_json_seq [static] | [GeoJsonSeqDriver](/psd/python-net/aspose.gis.formats.geojsonseq/geojsonseqdriver/) | r | A driver for the GeoJsonSeq: sequence of GeoJSON features. |
+| geo_package [static] | [GeoPackageDriver](/psd/python-net/aspose.gis.formats.geopackage/geopackagedriver/) | r | A driver for the GeoPackage format. |
 | geo_tiff [static] | [GeoTiffDriver](/psd/python-net/aspose.gis.formats.geotiff/geotiffdriver/) | r | A driver for the GeoTIFF or TIFF raster format. |
 | gml [static] | [GmlDriver](/psd/python-net/aspose.gis.formats.gml/gmldriver/) | r | A driver for the GML format. |
 | gpx [static] | [GpxDriver](/psd/python-net/aspose.gis.formats.gpx/gpxdriver/) | r | A driver for the GPX format. |

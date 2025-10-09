@@ -1,7 +1,7 @@
 ---
 title: PointFormats Enumeration
 type: docs
-weight: 4720
+weight: 4880
 url: /python-net/aspose.gis/pointformats/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/pointformats/
 
 **Full Name:** aspose.gis.PointFormats
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

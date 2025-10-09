@@ -11,7 +11,7 @@ A unit of measurement.
 
 **Full Name:** aspose.gis.rendering.Unit
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

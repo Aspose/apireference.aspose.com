@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.formats.kml.styles
 type: docs
-weight: 360
+weight: 380
 url: /python-net/aspose.gis.formats.kml.styles/
 ---
 

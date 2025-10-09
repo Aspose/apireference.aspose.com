@@ -1,7 +1,7 @@
 ---
 title: Dataset Class
 type: docs
-weight: 580
+weight: 590
 url: /python-net/aspose.gis/dataset/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/dataset/
 
 **Full Name:** aspose.gis.Dataset
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

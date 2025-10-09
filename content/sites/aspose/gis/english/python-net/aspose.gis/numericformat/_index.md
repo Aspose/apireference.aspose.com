@@ -1,7 +1,7 @@
 ---
 title: NumericFormat Class
 type: docs
-weight: 2720
+weight: 2870
 url: /python-net/aspose.gis/numericformat/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/numericformat/
 
 **Full Name:** aspose.gis.NumericFormat
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

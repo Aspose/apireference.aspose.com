@@ -13,7 +13,7 @@ url: /python-net/aspose.gis.labeling.line/parallellineplacer/
 
 **Inheritance:** IAlongLinePlacer
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

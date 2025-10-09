@@ -11,7 +11,7 @@ Topological dimension of a [Geometry](/psd/python-net/aspose.gis.geometries/geom
 
 **Full Name:** aspose.gis.geometries.GeometryDimension
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: FeaturesSequence Class
 type: docs
-weight: 850
+weight: 870
 url: /python-net/aspose.gis/featuressequence/
 ---
 
@@ -11,12 +11,12 @@ url: /python-net/aspose.gis/featuressequence/
 
 **Full Name:** aspose.gis.FeaturesSequence
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| attributes | [FeatureAttributeCollection](/psd/python-net/aspose.gis/featureattributecollection) | r | Gets the collection of custom attributes for features in this [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+| attributes | [BaseFeatureAttributeCollection](/psd/python-net/aspose.gis/basefeatureattributecollection) | r | Gets the collection of custom attributes for features in this [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 | spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | r | Gets spatial reference system of this features sequence. |
 ## **Methods**
 | **Name** | **Description** |

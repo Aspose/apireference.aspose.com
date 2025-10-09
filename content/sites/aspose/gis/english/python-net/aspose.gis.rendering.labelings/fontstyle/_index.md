@@ -11,7 +11,7 @@ Specifies style to be applied to text.
 
 **Full Name:** aspose.gis.rendering.labelings.FontStyle
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

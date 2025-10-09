@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.formats.database.dataediting/databaseeditabledatasou
 
 **Full Name:** aspose.gis.formats.database.dataediting.DatabaseEditableDataSourceBuilder
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
 | **Name** | **Description** |

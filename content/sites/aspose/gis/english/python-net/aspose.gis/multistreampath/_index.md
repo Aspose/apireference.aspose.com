@@ -1,7 +1,7 @@
 ---
 title: MultiStreamPath Class
 type: docs
-weight: 2620
+weight: 2760
 url: /python-net/aspose.gis/multistreampath/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.gis/multistreampath/
 
 **Inheritance:** AbstractPath
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

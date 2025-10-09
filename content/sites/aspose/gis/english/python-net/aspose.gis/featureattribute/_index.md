@@ -1,7 +1,7 @@
 ---
 title: FeatureAttribute Class
 type: docs
-weight: 820
+weight: 840
 url: /python-net/aspose.gis/featureattribute/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/featureattribute/
 
 **Full Name:** aspose.gis.FeatureAttribute
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

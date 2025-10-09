@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.epsg/geographiccrsentry/
 
 **Full Name:** aspose.gis.epsg.GeographicCrsEntry
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.rendering/rastermapresampling/
 
 **Full Name:** aspose.gis.rendering.RasterMapResampling
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

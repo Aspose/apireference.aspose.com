@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.common.formats.gdbtable/gdbfieldtype/
 
 **Full Name:** aspose.gis.common.formats.gdbtable.GdbFieldType
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

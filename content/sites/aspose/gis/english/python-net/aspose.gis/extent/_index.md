@@ -1,7 +1,7 @@
 ---
 title: Extent Class
 type: docs
-weight: 800
+weight: 820
 url: /python-net/aspose.gis/extent/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/extent/
 
 **Full Name:** aspose.gis.Extent
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

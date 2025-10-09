@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.formats.database.fromdefinition/queryablelayerextens
 
 **Full Name:** aspose.gis.formats.database.fromdefinition.QueryableLayerExtension
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 
 

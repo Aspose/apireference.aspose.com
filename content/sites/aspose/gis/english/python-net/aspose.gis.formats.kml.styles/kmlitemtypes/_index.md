@@ -11,7 +11,7 @@ Specifies how a kml:Feature and its contents shall be displayed as items in a li
 
 **Full Name:** aspose.gis.formats.kml.styles.KmlItemTypes
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -11,7 +11,7 @@ Specifies the color mode for a graphic element.
 
 **Full Name:** aspose.gis.formats.kml.styles.KmlColorModes
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

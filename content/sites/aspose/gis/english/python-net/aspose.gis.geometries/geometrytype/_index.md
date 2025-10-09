@@ -11,7 +11,7 @@ The type of a geometry in a layer.
 
 **Full Name:** aspose.gis.geometries.GeometryType
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

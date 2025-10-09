@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/abstractpath/
 
 **Full Name:** aspose.gis.AbstractPath
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

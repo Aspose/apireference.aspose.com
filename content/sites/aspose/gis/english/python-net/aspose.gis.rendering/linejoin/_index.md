@@ -11,7 +11,7 @@ Determines how lines are rendered at intersections of line segments.
 
 **Full Name:** aspose.gis.rendering.LineJoin
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

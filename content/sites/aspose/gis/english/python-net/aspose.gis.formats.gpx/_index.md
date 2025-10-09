@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.formats.gpx
 type: docs
-weight: 310
+weight: 320
 url: /python-net/aspose.gis.formats.gpx/
 ---
 

@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.projections/projectionmethodidentifier/
 
 **Full Name:** aspose.gis.projections.ProjectionMethodIdentifier
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

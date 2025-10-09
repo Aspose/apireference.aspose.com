@@ -11,7 +11,7 @@ Specifies units fof an image coordinate system.
 
 **Full Name:** aspose.gis.formats.kml.styles.KmlUnits
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

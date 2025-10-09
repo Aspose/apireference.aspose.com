@@ -11,7 +11,7 @@ A shape type of the marker.
 
 **Full Name:** aspose.gis.rendering.symbolizers.MarkerShapeType
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

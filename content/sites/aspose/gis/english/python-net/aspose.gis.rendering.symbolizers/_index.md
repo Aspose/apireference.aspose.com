@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.rendering.symbolizers
 type: docs
-weight: 760
+weight: 780
 url: /python-net/aspose.gis.rendering.symbolizers/
 ---
 

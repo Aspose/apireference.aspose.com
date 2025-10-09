@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.labeling.line/straightensegments/
 
 **Full Name:** aspose.gis.labeling.line.StraightenSegments
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

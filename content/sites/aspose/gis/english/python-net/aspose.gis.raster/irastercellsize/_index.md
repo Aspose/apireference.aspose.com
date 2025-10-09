@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.raster/irastercellsize/
 
 **Full Name:** aspose.gis.raster.IRasterCellSize
 
-**Aspose.PSD Version:** 25.5.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
