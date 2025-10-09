@@ -13,7 +13,7 @@ url: /python-net/aspose.gis.rendering.formats.svg/svgrenderer/
 
 **Inheritance:** Renderer
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
 | **Name** | **Description** |

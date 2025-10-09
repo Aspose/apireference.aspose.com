@@ -3,7 +3,7 @@ title: Class EsriJsonDriver
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.EsriJson.EsriJsonDriver class. A driver for the EsriJson format
 type: docs
-weight: 230
+weight: 1820
 url: /net/aspose.gis.formats.esrijson/esrijsondriver/
 ---
 ## EsriJsonDriver class

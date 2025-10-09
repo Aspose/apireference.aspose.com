@@ -1,14 +1,14 @@
 ---
 title: SingleBandColor.SingleBandColor
 second_title: Aspose.GIS for .NET API Reference
-description: SingleBandColor constructor. The default constructor
+description: SingleBandColor constructor. Initializes a new instance of the SingleBandColor class
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.colorizers/singlebandcolor/singlebandcolor/
 ---
 ## SingleBandColor constructor
 
-The default constructor.
+Initializes a new instance of the [`SingleBandColor`](../) class.
 
 ```csharp
 public SingleBandColor()

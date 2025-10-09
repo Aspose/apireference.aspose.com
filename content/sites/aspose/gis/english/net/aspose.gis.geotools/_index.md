@@ -3,7 +3,7 @@ title: Aspose.Gis.GeoTools
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.GeoTools namespace contains classes that represent geo tools
 type: docs
-weight: 240
+weight: 490
 url: /net/aspose.gis.geotools/
 ---
 `Aspose.Gis.GeoTools` namespace contains classes that represent geo tools.
@@ -12,6 +12,8 @@ url: /net/aspose.gis.geotools/
 
 | Class | Description |
 | --- | --- |
+| [GeneratorTiles](./generatortiles/) | Generator of tiles |
+| [GeneratorTilesRenderOptions](./generatortilesrenderoptions/) | Options to render tiles |
 | [GeoGenerator](./geogenerator/) | Generator of random points, lines and polygons on given planes. |
 | [GeometryOperations](./geometryoperations/) | The geometry operations class provides additional geoprocessing algorithms for geometries. |
 | [LineGeneratorOptions](./linegeneratoroptions/) | Options from produce lines on surface or area. |

@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.common.formats.wkb/wkbtype/
 
 **Full Name:** aspose.gis.common.formats.wkb.WkbType
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

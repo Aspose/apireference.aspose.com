@@ -3,7 +3,7 @@ title: FeaturesSequence.WhereNotNull
 second_title: Aspose.GIS for .NET API Reference
 description: FeaturesSequence method. Selects features with attribute not equal to null
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.gis/featuressequence/wherenotnull/
 ---
 ## FeaturesSequence.WhereNotNull method

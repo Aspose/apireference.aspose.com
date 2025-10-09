@@ -3,7 +3,7 @@ title: Class EsriJsonOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.EsriJson.EsriJsonOptions class. Driverspecific options for EsriJson format
 type: docs
-weight: 240
+weight: 1830
 url: /net/aspose.gis.formats.esrijson/esrijsonoptions/
 ---
 ## EsriJsonOptions class

@@ -3,7 +3,7 @@ title: Class TopoJsonOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.TopoJson.TopoJsonOptions class. Driverspecific options for TopoJSON format
 type: docs
-weight: 730
+weight: 2370
 url: /net/aspose.gis.formats.topojson/topojsonoptions/
 ---
 ## TopoJsonOptions class

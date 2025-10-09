@@ -3,7 +3,7 @@ title: Aspose.Gis.Geometries
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Geometries namespace contains classes that represent geometry data
 type: docs
-weight: 230
+weight: 480
 url: /net/aspose.gis.geometries/
 ---
 `Aspose.Gis.Geometries` namespace contains classes that represent geometry data.
@@ -34,7 +34,7 @@ url: /net/aspose.gis.geometries/
 | --- | --- |
 | [ICircularString](./icircularstring/) | A multi-vertex curve with circular interpolation between points. |
 | [ICompoundCurve](./icompoundcurve/) | A curve that represents a sequence of contiguous curves such that adjacent curves are joined at their end points. |
-| [ICurve](./icurve/) | A [`ICurve`](../aspose.gis.geometries/icurve/) is a sequence of points. |
+| [ICurve](./icurve/) | An interface for ICurve type [`ICurve`](../aspose.gis.geometries/icurve/) is a sequence of points. |
 | [ICurvePolygon](./icurvepolygon/) | A planar surface, defined by 1 exterior boundary and 0 or more interior boundaries. |
 | [IGeometry](./igeometry/) | The interface root class of Geometries hierarchy |
 | [IGeometryCollection](./igeometrycollection/) | A [`IGeometryCollection`](../aspose.gis.geometries/igeometrycollection/) is a [`IGeometry`](../aspose.gis.geometries/igeometry/) that is a collection of one or more geometries. |
@@ -46,7 +46,7 @@ url: /net/aspose.gis.geometries/
 | [IMultiPolygon](./imultipolygon/) | A [`IMultiPolygon`](../aspose.gis.geometries/imultipolygon/) is a one-dimensional [`IGeometryCollection`](../aspose.gis.geometries/igeometrycollection/) whose elements are [`IPolygon`](../aspose.gis.geometries/ipolygon/)s. |
 | [IMultiSurface](./imultisurface/) | A [`IMultiPolygon`](../aspose.gis.geometries/imultipolygon/) is a one-dimensional [`IGeometryCollection`](../aspose.gis.geometries/igeometrycollection/) whose elements are [`ISurface`](../aspose.gis.geometries/isurface/)s. |
 | [IPoint](./ipoint/) | A single location in coordinate space. |
-| [IPolygon](./ipolygon/) | A [`ICurvePolygon`](../aspose.gis.geometries/icurvepolygon/) whose boundaries are defined by linear rings. |
+| [IPolygon](./ipolygon/) | A [`IPolygon`](../aspose.gis.geometries/ipolygon/) whose boundaries are defined by linear rings. |
 | [ISurface](./isurface/) | A [`ISurface`](../aspose.gis.geometries/isurface/) is a two-dimensional geometric object. |
 ## Enumeration
 

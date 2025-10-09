@@ -13,7 +13,7 @@ url: /python-net/aspose.gis.formats.gml/gmloptions/
 
 **Inheritance:** DriverOptions
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -22,6 +22,7 @@ url: /python-net/aspose.gis.formats.gml/gmloptions/
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
+| application_namespace | string | r/w | This specifies a custom namespace to be used as the application namespace for generating the gml document. |
 | close_linear_ring | bool | r/w | Determines if close a unclosed [GeometryType.LINEAR_RING](/psd/python-net/aspose.gis.geometries/geometrytype/) in each geometry. Defaults to <see langword="false" />. |
 | create_midpoints | bool | r/w | Determines if add a new point in the middle to each segment of geometry. Defaults to <see langword="false" />. |
 | delete_near_points | bool | r/w | Determines if delete near points in each geometry. Defaults to <see langword="false" />. |

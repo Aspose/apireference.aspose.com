@@ -1,7 +1,7 @@
 ---
 title: License Class
 type: docs
-weight: 2110
+weight: 2240
 url: /python-net/aspose.gis/license/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/license/
 
 **Full Name:** aspose.gis.License
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

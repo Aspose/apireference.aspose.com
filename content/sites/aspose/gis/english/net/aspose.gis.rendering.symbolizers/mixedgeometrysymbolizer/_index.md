@@ -3,7 +3,7 @@ title: Class MixedGeometrySymbolizer
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Symbolizers.MixedGeometrySymbolizer class. Applies correct symbolizer to a feature geometry according to its geometry type
 type: docs
-weight: 1990
+weight: 4330
 url: /net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/
 ---
 ## MixedGeometrySymbolizer class
@@ -18,7 +18,7 @@ public class MixedGeometrySymbolizer : VectorSymbolizer
 
 | Name | Description |
 | --- | --- |
-| [MixedGeometrySymbolizer](mixedgeometrysymbolizer/)() | The default constructor. |
+| [MixedGeometrySymbolizer](mixedgeometrysymbolizer/)() | Creates new instance. |
 
 ## Properties
 

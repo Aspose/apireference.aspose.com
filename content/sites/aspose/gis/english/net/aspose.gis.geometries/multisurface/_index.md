@@ -3,7 +3,7 @@ title: Class MultiSurface
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Geometries.MultiSurface class. A MultiSurface is a onedimensional GeometryCollection whose elements are ISurfaces
 type: docs
-weight: 1280
+weight: 2960
 url: /net/aspose.gis.geometries/multisurface/
 ---
 ## MultiSurface class
@@ -88,7 +88,7 @@ public class MultiSurface : GeometryCollection, IMultiSurface
 | [ToLinearGeometry](../../aspose.gis.geometries/multisurface/tolineargeometry/#tolineargeometry_4)() | Gets approximate or equivalent non-curve version of this geometry using the default `tolerance`. (3 methods) |
 | [ToLinearGeometry](../../aspose.gis.geometries/multisurface/tolineargeometry/#tolineargeometry_5)(double) | Gets approximate or equivalent non-curve version of this geometry using the specified `tolerance`. (3 methods) |
 | override [ToString](../../aspose.gis.geometries/geometry/tostring/)() | Returns a string that represents the current object. |
-| [ToSvg](../../aspose.gis.geometries/geometry/tosvg/)() | Translates this geometry to Svg representation. |
+| [ToSvg](../../aspose.gis.geometries/geometry/tosvg/)(Extent) | Translates this geometry to Svg representation. |
 | [Touches](../../aspose.gis.geometries/geometry/touches/)(IGeometry) | Determines if this geometry and a specified geometry touch. |
 | [Union](../../aspose.gis.geometries/geometry/union/)(IGeometry) | Unites this geometry and a specified geometry. |
 | [Within](../../aspose.gis.geometries/geometry/within/)(Extent) | Determines whether this geometry is within a specified extent. |

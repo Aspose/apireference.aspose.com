@@ -3,7 +3,7 @@ title: Class PostGisDriver
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.PostGis.PostGisDriver class. A driver for the PostGIS database
 type: docs
-weight: 660
+weight: 2290
 url: /net/aspose.gis.formats.postgis/postgisdriver/
 ---
 ## PostGisDriver class
@@ -18,6 +18,8 @@ public class PostGisDriver : DatabaseDriver
 
 | Name | Description |
 | --- | --- |
+| [FromDefinition](../../aspose.gis.formats.postgis/postgisdriver/fromdefinition/)(string) | Allows the start of the process of configuring the data source [`IFromDefinitionDataSource`](../../aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/) for further work with it. |
+| [FromQuery](../../aspose.gis.formats.postgis/postgisdriver/fromquery/)(string) | Configuring the data source for custom database queries. |
 | override [OpenDataset](../../aspose.gis.formats.postgis/postgisdriver/opendataset/)(IDbConnection) | Opens the dataset. |
 
 ### See Also

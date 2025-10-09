@@ -3,7 +3,7 @@ title: Class LayeredSymbolizer
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Symbolizers.LayeredSymbolizer class. A symbolizer that renders several other symbolizers
 type: docs
-weight: 1940
+weight: 4280
 url: /net/aspose.gis.rendering.symbolizers/layeredsymbolizer/
 ---
 ## LayeredSymbolizer class

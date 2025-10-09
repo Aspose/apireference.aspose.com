@@ -3,7 +3,7 @@ title: Interface IGeometry
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Geometries.IGeometry interface. The interface root class of Geometries hierarchy
 type: docs
-weight: 1100
+weight: 2780
 url: /net/aspose.gis.geometries/igeometry/
 ---
 ## IGeometry interface

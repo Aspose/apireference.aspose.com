@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.common.io/outputbuffer/
 
 **Full Name:** aspose.gis.common.io.OutputBuffer
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

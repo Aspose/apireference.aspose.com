@@ -3,7 +3,7 @@ title: Class GeocentricSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.GeocentricSpatialReferenceSystem class. Geocentric SRS is 3 dimensional cartesian SRS with origin at earth center
 type: docs
-weight: 2200
+weight: 4540
 url: /net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/
 ---
 ## GeocentricSpatialReferenceSystem class

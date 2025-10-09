@@ -3,7 +3,7 @@ title: Class FileGdbCoordinatePrecisionGrid
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.FileGdb.FileGdbCoordinatePrecisionGrid class. A coordinate precision grid inside a FileGDB layer
 type: docs
-weight: 250
+weight: 1840
 url: /net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/
 ---
 ## FileGdbCoordinatePrecisionGrid class

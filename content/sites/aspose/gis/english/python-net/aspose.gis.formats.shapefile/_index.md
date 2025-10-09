@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.formats.shapefile
 type: docs
-weight: 420
+weight: 440
 url: /python-net/aspose.gis.formats.shapefile/
 ---
 

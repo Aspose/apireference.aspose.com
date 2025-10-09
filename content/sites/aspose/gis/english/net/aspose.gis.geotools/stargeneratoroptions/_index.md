@@ -3,7 +3,7 @@ title: Class StarGeneratorOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.GeoTools.StarGeneratorOptions class. Generatorspecific options for ProducePolygons
 type: docs
-weight: 950
+weight: 2630
 url: /net/aspose.gis.geotools/stargeneratoroptions/
 ---
 ## StarGeneratorOptions class
@@ -18,7 +18,7 @@ public class StarGeneratorOptions
 
 | Name | Description |
 | --- | --- |
-| [StarGeneratorOptions](stargeneratoroptions/)() | The default constructor. |
+| [StarGeneratorOptions](stargeneratoroptions/)() | Create an instance with init fields by default. |
 
 ## Properties
 

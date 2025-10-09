@@ -1,7 +1,7 @@
 ---
 title: VectorLayer Class
 type: docs
-weight: 3900
+weight: 4060
 url: /python-net/aspose.gis/vectorlayer/
 ---
 
@@ -13,12 +13,12 @@ url: /python-net/aspose.gis/vectorlayer/
 
 **Inheritance:** FeaturesSequence
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| attributes | [FeatureAttributeCollection](/psd/python-net/aspose.gis/featureattributecollection) | r | Gets the collection of custom attributes for features in this [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+| attributes | [BaseFeatureAttributeCollection](/psd/python-net/aspose.gis/basefeatureattributecollection) | r | Gets the collection of custom attributes for features in this [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 | count | int | r | Gets the number of features in this layer. |
 | driver | [Driver](/psd/python-net/aspose.gis/driver) | r | Gets the [VectorLayer.driver](/psd/python-net/aspose.gis/vectorlayer/) that instantiated this layer. |
 | geometry_type | [GeometryType](/psd/python-net/aspose.gis.geometries/geometrytype/) | r | Gets the type of the geometry for the layer. |
@@ -45,34 +45,39 @@ url: /python-net/aspose.gis/vectorlayer/
 | [create(path, driver, spatial_reference_system)](#create_path_driver_spatial_reference_system_17) | Creates the layer and opens it for appending. |
 | [create(path, driver, spatial_reference_system)](#create_path_driver_spatial_reference_system_18) | Creates the layer and opens it for appending. |
 | [get_extent()](#get_extent__19) | Gets a spatial extent of this layer. |
-| [join(layer, options)](#join_layer_options_20) | Joins a layer to the current layer. |
-| [join_by_geometry(layer, options)](#join_by_geometry_layer_options_21) | Joins a layer to the current layer by geometry. |
-| [nearest_to(point)](#nearest_to_point_22) | Gets the nearest feature to the provided point. |
-| [nearest_to(x, y)](#nearest_to_x_y_23) | Gets the nearest feature to the provided coordinate. |
-| [open(path, driver)](#open_path_driver_24) | Open the layer for reading. |
+| [intersection_by_geometry(layer)](#intersection_by_geometry_layer_20) | Intersect a layer to the current layer by geometry. |
+| [join(layer, options)](#join_layer_options_21) | Joins a layer to the current layer. |
+| [join_by_geometry(layer, options)](#join_by_geometry_layer_options_22) | Joins a layer to the current layer by geometry. |
+| [nearest_to(point)](#nearest_to_point_23) | Gets the nearest feature to the provided point. |
+| [nearest_to(x, y)](#nearest_to_x_y_24) | Gets the nearest feature to the provided coordinate. |
 | [open(path, driver)](#open_path_driver_25) | Open the layer for reading. |
-| [open(path, driver, options)](#open_path_driver_options_26) | Open the layer for reading. |
+| [open(path, driver)](#open_path_driver_26) | Open the layer for reading. |
 | [open(path, driver, options)](#open_path_driver_options_27) | Open the layer for reading. |
-| [remove_at(index)](#remove_at_index_28) | Remove the [Feature](/psd/python-net/aspose.gis/feature/) at the specified index. |
-| [replace_at(index, feature)](#replace_at_index_feature_29) | Replace the [Feature](/psd/python-net/aspose.gis/feature/) at the specified index. |
-| [save_to(destination_path, destination_driver)](#save_to_destination_path_destination_driver_30) | Saves features sequence to layer. |
+| [open(path, driver, options)](#open_path_driver_options_28) | Open the layer for reading. |
+| [remove_at(index)](#remove_at_index_29) | Remove the [Feature](/psd/python-net/aspose.gis/feature/) at the specified index. |
+| [replace_at(index, feature)](#replace_at_index_feature_30) | Replace the [Feature](/psd/python-net/aspose.gis/feature/) at the specified index. |
 | [save_to(destination_path, destination_driver)](#save_to_destination_path_destination_driver_31) | Saves features sequence to layer. |
-| [save_to(destination_path, destination_driver, options)](#save_to_destination_path_destination_driver_options_32) | Saves features sequence to layer. |
+| [save_to(destination_path, destination_driver)](#save_to_destination_path_destination_driver_32) | Saves features sequence to layer. |
 | [save_to(destination_path, destination_driver, options)](#save_to_destination_path_destination_driver_options_33) | Saves features sequence to layer. |
-| [split_to()](#split_to__34) | Split features by geometry type. |
-| [use_attributes_index(index_path, attribute_name, force_rebuild)](#use_attributes_index_index_path_attribute_name_force_rebuild_35) | Loads attribute index to speed up filtering by attributes value in filter methods like Aspose.Gis.FeaturesSequence.WhereGreater``1(string,``0).<br/>            If index does not exist creates it first. Use <paramref name="forceRebuild" /> to force index recreation. |
+| [save_to(destination_path, destination_driver, options)](#save_to_destination_path_destination_driver_options_34) | Saves features sequence to layer. |
+| [split_to()](#split_to__35) | Split features by geometry type. |
 | [use_attributes_index(index_path, attribute_name, force_rebuild)](#use_attributes_index_index_path_attribute_name_force_rebuild_36) | Loads attribute index to speed up filtering by attributes value in filter methods like Aspose.Gis.FeaturesSequence.WhereGreater``1(string,``0).<br/>            If index does not exist creates it first. Use <paramref name="forceRebuild" /> to force index recreation. |
-| [use_spatial_index(index_path, force_rebuild)](#use_spatial_index_index_path_force_rebuild_37) | Loads spatial index to speed up filtering by attributes value in filter methods like Aspose.Gis.FeaturesSequence.WhereIntersects(Aspose.Gis.Geometries.IGeometry)<br/>            and Aspose.Gis.VectorLayer.NearestTo(float,float).<br/>            If index does not exist creates it first. Use <paramref name="forceRebuild" /> to force index recreation. |
+| [use_attributes_index(index_path, attribute_name, force_rebuild)](#use_attributes_index_index_path_attribute_name_force_rebuild_37) | Loads attribute index to speed up filtering by attributes value in filter methods like Aspose.Gis.FeaturesSequence.WhereGreater``1(string,``0).<br/>            If index does not exist creates it first. Use <paramref name="forceRebuild" /> to force index recreation. |
 | [use_spatial_index(index_path, force_rebuild)](#use_spatial_index_index_path_force_rebuild_38) | Loads spatial index to speed up filtering by attributes value in filter methods like Aspose.Gis.FeaturesSequence.WhereIntersects(Aspose.Gis.Geometries.IGeometry)<br/>            and Aspose.Gis.VectorLayer.NearestTo(float,float).<br/>            If index does not exist creates it first. Use <paramref name="forceRebuild" /> to force index recreation. |
-| [where_greater(attribute_name, value)](#where_greater_attribute_name_value_39) | Selects features with attribute value greater than the provided value. |
-| [where_greater_or_equal(attribute_name, value)](#where_greater_or_equal_attribute_name_value_40) | Selects features with attribute value greater or equal to the provided value. |
-| [where_intersects(extent)](#where_intersects_extent_41) | Filters features based on the extent. |
-| [where_intersects(geometry)](#where_intersects_geometry_42) | Filters features based on the provided geometry. |
-| [where_intersects(sequence)](#where_intersects_sequence_43) | Filters features based on the union of all geometries in other features sequence. |
-| [where_not_null(attribute_name)](#where_not_null_attribute_name_44) | Selects features with attribute not equal to null. |
-| [where_null(attribute_name)](#where_null_attribute_name_45) | Selects features with attribute equal to null. |
-| [where_set(attribute_name)](#where_set_attribute_name_46) | Selects features with attribute set. |
-| [where_unset(attribute_name)](#where_unset_attribute_name_47) | Selects features where specified attribute is not set. |
+| [use_spatial_index(index_path, force_rebuild)](#use_spatial_index_index_path_force_rebuild_39) | Loads spatial index to speed up filtering by attributes value in filter methods like Aspose.Gis.FeaturesSequence.WhereIntersects(Aspose.Gis.Geometries.IGeometry)<br/>            and Aspose.Gis.VectorLayer.NearestTo(float,float).<br/>            If index does not exist creates it first. Use <paramref name="forceRebuild" /> to force index recreation. |
+| [where_equal(attribute_name, value)](#where_equal_attribute_name_value_40) | Selects features with attribute value equal to the provided value. |
+| [where_greater(attribute_name, value)](#where_greater_attribute_name_value_41) | Selects features with attribute value greater than the provided value. |
+| [where_greater_or_equal(attribute_name, value)](#where_greater_or_equal_attribute_name_value_42) | Selects features with attribute value greater or equal to the provided value. |
+| [where_intersects(extent)](#where_intersects_extent_43) | Filters features based on the extent. |
+| [where_intersects(geometry)](#where_intersects_geometry_44) | Filters features based on the provided geometry. |
+| [where_intersects(sequence)](#where_intersects_sequence_45) | Filters features based on the union of all geometries in other features sequence. |
+| [where_not_equal(attribute_name, value)](#where_not_equal_attribute_name_value_46) | Selects features with attribute value not equal to the provided value. |
+| [where_not_null(attribute_name)](#where_not_null_attribute_name_47) | Selects features with attribute not equal to null. |
+| [where_null(attribute_name)](#where_null_attribute_name_48) | Selects features with attribute equal to null. |
+| [where_set(attribute_name)](#where_set_attribute_name_49) | Selects features with attribute set. |
+| [where_smaller(attribute_name, value)](#where_smaller_attribute_name_value_50) | Selects features with attribute value smaller than the provided value. |
+| [where_smaller_or_equal(attribute_name, value)](#where_smaller_or_equal_attribute_name_value_51) | Selects features with attribute value smaller or equal to the provided value. |
+| [where_unset(attribute_name)](#where_unset_attribute_name_52) | Selects features where specified attribute is not set. |
 
 
 ### Method: add(feature) {#add_feature_1}
@@ -451,7 +456,29 @@ Gets a spatial extent of this layer.
 | [Extent](/psd/python-net/aspose.gis/extent) | A spatial extent of this layer. |
 
 
-### Method: join(layer, options) {#join_layer_options_20}
+### Method: intersection_by_geometry(layer) {#intersection_by_geometry_layer_20}
+
+
+```
+ intersection_by_geometry(layer) 
+```
+
+Intersect a layer to the current layer by geometry.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | A layer to intersect. |
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | A new layer as a result of intersection two layers. |
+
+
+### Method: join(layer, options) {#join_layer_options_21}
 
 
 ```
@@ -474,7 +501,7 @@ Joins a layer to the current layer.
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | A new layer as a result of join two layers. |
 
 
-### Method: join_by_geometry(layer, options) {#join_by_geometry_layer_options_21}
+### Method: join_by_geometry(layer, options) {#join_by_geometry_layer_options_22}
 
 
 ```
@@ -497,7 +524,7 @@ Joins a layer to the current layer by geometry.
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | A new layer as a result of join two layers. |
 
 
-### Method: nearest_to(point) {#nearest_to_point_22}
+### Method: nearest_to(point) {#nearest_to_point_23}
 
 
 ```
@@ -519,7 +546,7 @@ Gets the nearest feature to the provided point.
 | [Feature](/psd/python-net/aspose.gis/feature) | The nearest feature to the provided point. |
 
 
-### Method: nearest_to(x, y) {#nearest_to_x_y_23}
+### Method: nearest_to(x, y) {#nearest_to_x_y_24}
 
 
 ```
@@ -542,7 +569,7 @@ Gets the nearest feature to the provided coordinate.
 | [Feature](/psd/python-net/aspose.gis/feature) | The nearest feature to the provided coordinate. |
 
 
-### Method: open(path, driver)  [static] {#open_path_driver_24}
+### Method: open(path, driver)  [static] {#open_path_driver_25}
 
 
 ```
@@ -565,7 +592,7 @@ Open the layer for reading.
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | A read-only layer. |
 
 
-### Method: open(path, driver)  [static] {#open_path_driver_25}
+### Method: open(path, driver)  [static] {#open_path_driver_26}
 
 
 ```
@@ -580,30 +607,6 @@ Open the layer for reading.
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | Path to the file. |
 | driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | Driver to use. |
-
-**Returns**
-
-| Type | Description |
-| :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | A read-only layer. |
-
-
-### Method: open(path, driver, options)  [static] {#open_path_driver_options_26}
-
-
-```
- open(path, driver, options) 
-```
-
-Open the layer for reading.
-
-**Parameters:**
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| path | string | Path to the file. |
-| driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | Driver to use. |
-| options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | Driver-specific options. |
 
 **Returns**
 
@@ -625,6 +628,30 @@ Open the layer for reading.
 
 | Parameter | Type | Description |
 | :- | :- | :- |
+| path | string | Path to the file. |
+| driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | Driver to use. |
+| options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | Driver-specific options. |
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | A read-only layer. |
+
+
+### Method: open(path, driver, options)  [static] {#open_path_driver_options_28}
+
+
+```
+ open(path, driver, options) 
+```
+
+Open the layer for reading.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | Path to the file. |
 | driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | Driver to use. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | Driver-specific options. |
@@ -636,7 +663,7 @@ Open the layer for reading.
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | A read-only layer. |
 
 
-### Method: remove_at(index) {#remove_at_index_28}
+### Method: remove_at(index) {#remove_at_index_29}
 
 
 ```
@@ -651,7 +678,7 @@ Remove the [Feature](/psd/python-net/aspose.gis/feature/) at the specified index
 | :- | :- | :- |
 | index | int | The index of the feature. |
 
-### Method: replace_at(index, feature) {#replace_at_index_feature_29}
+### Method: replace_at(index, feature) {#replace_at_index_feature_30}
 
 
 ```
@@ -667,7 +694,7 @@ Replace the [Feature](/psd/python-net/aspose.gis/feature/) at the specified inde
 | index | int | The index of the feature. |
 | feature | [Feature](/psd/python-net/aspose.gis/feature) | The feature to set. |
 
-### Method: save_to(destination_path, destination_driver) {#save_to_destination_path_destination_driver_30}
+### Method: save_to(destination_path, destination_driver) {#save_to_destination_path_destination_driver_31}
 
 
 ```
@@ -683,7 +710,7 @@ Saves features sequence to layer.
 | destination_path | string | Path to the output layer. |
 | destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | The format driver for the output layer. |
 
-### Method: save_to(destination_path, destination_driver) {#save_to_destination_path_destination_driver_31}
+### Method: save_to(destination_path, destination_driver) {#save_to_destination_path_destination_driver_32}
 
 
 ```
@@ -698,23 +725,6 @@ Saves features sequence to layer.
 | :- | :- | :- |
 | destination_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | Path to the output layer. |
 | destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | The format driver for the output layer. |
-
-### Method: save_to(destination_path, destination_driver, options) {#save_to_destination_path_destination_driver_options_32}
-
-
-```
- save_to(destination_path, destination_driver, options) 
-```
-
-Saves features sequence to layer.
-
-**Parameters:**
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| destination_path | string | Path to the output layer. |
-| destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | The format driver for the output layer. |
-| options | [SavingOptions](/psd/python-net/aspose.gis/savingoptions) | Options for the saving procedure. |
 
 ### Method: save_to(destination_path, destination_driver, options) {#save_to_destination_path_destination_driver_options_33}
 
@@ -729,11 +739,28 @@ Saves features sequence to layer.
 
 | Parameter | Type | Description |
 | :- | :- | :- |
+| destination_path | string | Path to the output layer. |
+| destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | The format driver for the output layer. |
+| options | [SavingOptions](/psd/python-net/aspose.gis/savingoptions) | Options for the saving procedure. |
+
+### Method: save_to(destination_path, destination_driver, options) {#save_to_destination_path_destination_driver_options_34}
+
+
+```
+ save_to(destination_path, destination_driver, options) 
+```
+
+Saves features sequence to layer.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
 | destination_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | Path to the output layer. |
 | destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | The format driver for the output layer. |
 | options | [SavingOptions](/psd/python-net/aspose.gis/savingoptions) | Options for the saving procedure. |
 
-### Method: split_to() {#split_to__34}
+### Method: split_to() {#split_to__35}
 
 
 ```
@@ -749,7 +776,7 @@ Split features by geometry type.
 | [VectorLayer[]](/psd/python-net/aspose.gis/vectorlayer) | Layers with the same type of geometry. |
 
 
-### Method: use_attributes_index(index_path, attribute_name, force_rebuild) {#use_attributes_index_index_path_attribute_name_force_rebuild_35}
+### Method: use_attributes_index(index_path, attribute_name, force_rebuild) {#use_attributes_index_index_path_attribute_name_force_rebuild_36}
 
 
 ```
@@ -766,7 +793,7 @@ Loads attribute index to speed up filtering by attributes value in filter method
 | attribute_name | string | Name of the attribute to build index on. |
 | force_rebuild | bool | Whether to recreate index even if it already exists. |
 
-### Method: use_attributes_index(index_path, attribute_name, force_rebuild) {#use_attributes_index_index_path_attribute_name_force_rebuild_36}
+### Method: use_attributes_index(index_path, attribute_name, force_rebuild) {#use_attributes_index_index_path_attribute_name_force_rebuild_37}
 
 
 ```
@@ -781,22 +808,6 @@ Loads attribute index to speed up filtering by attributes value in filter method
 | :- | :- | :- |
 | index_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | Path to the index file. |
 | attribute_name | string | Name of the attribute to build index on. |
-| force_rebuild | bool | Whether to recreate index even if it already exists. |
-
-### Method: use_spatial_index(index_path, force_rebuild) {#use_spatial_index_index_path_force_rebuild_37}
-
-
-```
- use_spatial_index(index_path, force_rebuild) 
-```
-
-Loads spatial index to speed up filtering by attributes value in filter methods like Aspose.Gis.FeaturesSequence.WhereIntersects(Aspose.Gis.Geometries.IGeometry)<br/>            and Aspose.Gis.VectorLayer.NearestTo(float,float).<br/>            If index does not exist creates it first. Use <paramref name="forceRebuild" /> to force index recreation.
-
-**Parameters:**
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| index_path | string | Path to the index file. |
 | force_rebuild | bool | Whether to recreate index even if it already exists. |
 
 ### Method: use_spatial_index(index_path, force_rebuild) {#use_spatial_index_index_path_force_rebuild_38}
@@ -812,10 +823,49 @@ Loads spatial index to speed up filtering by attributes value in filter methods 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
+| index_path | string | Path to the index file. |
+| force_rebuild | bool | Whether to recreate index even if it already exists. |
+
+### Method: use_spatial_index(index_path, force_rebuild) {#use_spatial_index_index_path_force_rebuild_39}
+
+
+```
+ use_spatial_index(index_path, force_rebuild) 
+```
+
+Loads spatial index to speed up filtering by attributes value in filter methods like Aspose.Gis.FeaturesSequence.WhereIntersects(Aspose.Gis.Geometries.IGeometry)<br/>            and Aspose.Gis.VectorLayer.NearestTo(float,float).<br/>            If index does not exist creates it first. Use <paramref name="forceRebuild" /> to force index recreation.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
 | index_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | Path to the index file. |
 | force_rebuild | bool | Whether to recreate index even if it already exists. |
 
-### Method: where_greater(attribute_name, value) {#where_greater_attribute_name_value_39}
+### Method: where_equal(attribute_name, value) {#where_equal_attribute_name_value_40}
+
+
+```
+ where_equal(attribute_name, value) 
+```
+
+Selects features with attribute value equal to the provided value.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| attribute_name | string | Attribute to filter by. |
+| value | object | Value to compare against. |
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value equal to the provided value. |
+
+
+### Method: where_greater(attribute_name, value) {#where_greater_attribute_name_value_41}
 
 
 ```
@@ -838,7 +888,7 @@ Selects features with attribute value greater than the provided value.
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value greater than the provided value. |
 
 
-### Method: where_greater_or_equal(attribute_name, value) {#where_greater_or_equal_attribute_name_value_40}
+### Method: where_greater_or_equal(attribute_name, value) {#where_greater_or_equal_attribute_name_value_42}
 
 
 ```
@@ -861,7 +911,7 @@ Selects features with attribute value greater or equal to the provided value.
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value greater or equal to the provided value. |
 
 
-### Method: where_intersects(extent) {#where_intersects_extent_41}
+### Method: where_intersects(extent) {#where_intersects_extent_43}
 
 
 ```
@@ -883,7 +933,7 @@ Filters features based on the extent.
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features that intersect with the provided geometry. |
 
 
-### Method: where_intersects(geometry) {#where_intersects_geometry_42}
+### Method: where_intersects(geometry) {#where_intersects_geometry_44}
 
 
 ```
@@ -905,7 +955,7 @@ Filters features based on the provided geometry.
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features that intersect with the provided geometry. |
 
 
-### Method: where_intersects(sequence) {#where_intersects_sequence_43}
+### Method: where_intersects(sequence) {#where_intersects_sequence_45}
 
 
 ```
@@ -927,7 +977,30 @@ Filters features based on the union of all geometries in other features sequence
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features that intersect with the union of all geometries in other features sequence. |
 
 
-### Method: where_not_null(attribute_name) {#where_not_null_attribute_name_44}
+### Method: where_not_equal(attribute_name, value) {#where_not_equal_attribute_name_value_46}
+
+
+```
+ where_not_equal(attribute_name, value) 
+```
+
+Selects features with attribute value not equal to the provided value.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| attribute_name | string | Attribute to filter by. |
+| value | object | Value to compare against. |
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value not equal to the provided value. |
+
+
+### Method: where_not_null(attribute_name) {#where_not_null_attribute_name_47}
 
 
 ```
@@ -949,7 +1022,7 @@ Selects features with attribute not equal to null.
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value not equal to null. |
 
 
-### Method: where_null(attribute_name) {#where_null_attribute_name_45}
+### Method: where_null(attribute_name) {#where_null_attribute_name_48}
 
 
 ```
@@ -971,7 +1044,7 @@ Selects features with attribute equal to null.
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value equal to null. |
 
 
-### Method: where_set(attribute_name) {#where_set_attribute_name_46}
+### Method: where_set(attribute_name) {#where_set_attribute_name_49}
 
 
 ```
@@ -993,7 +1066,53 @@ Selects features with attribute set.
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with set attribute value. |
 
 
-### Method: where_unset(attribute_name) {#where_unset_attribute_name_47}
+### Method: where_smaller(attribute_name, value) {#where_smaller_attribute_name_value_50}
+
+
+```
+ where_smaller(attribute_name, value) 
+```
+
+Selects features with attribute value smaller than the provided value.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| attribute_name | string | Attribute to filter by. |
+| value | object | Value to compare against. |
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value smaller than the provided value. |
+
+
+### Method: where_smaller_or_equal(attribute_name, value) {#where_smaller_or_equal_attribute_name_value_51}
+
+
+```
+ where_smaller_or_equal(attribute_name, value) 
+```
+
+Selects features with attribute value smaller or equal to the provided value.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| attribute_name | string | Attribute to filter by. |
+| value | object | Value to compare against. |
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | Features with attribute value smaller or equal to the provided value. |
+
+
+### Method: where_unset(attribute_name) {#where_unset_attribute_name_52}
 
 
 ```

@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/
 
 **Full Name:** aspose.gis.formats.filegdb.FileGdbCoordinatePrecisionGrid
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

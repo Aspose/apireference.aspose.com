@@ -3,7 +3,7 @@ title: Class Projection
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.Projection class. Represents a projection method with parameters that transforms longitude latitude to x y
 type: docs
-weight: 2350
+weight: 4690
 url: /net/aspose.gis.spatialreferencing/projection/
 ---
 ## Projection class

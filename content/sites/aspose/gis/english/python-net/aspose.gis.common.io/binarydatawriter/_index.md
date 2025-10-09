@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.common.io/binarydatawriter/
 
 **Full Name:** aspose.gis.common.io.BinaryDataWriter
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

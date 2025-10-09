@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.epsg/primemeridianentry/
 
 **Full Name:** aspose.gis.epsg.PrimeMeridianEntry
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

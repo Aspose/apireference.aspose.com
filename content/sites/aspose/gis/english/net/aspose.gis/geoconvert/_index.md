@@ -3,7 +3,7 @@ title: Class GeoConvert
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.GeoConvert class. Converts coordinates to/from the different formats
 type: docs
-weight: 780
+weight: 2430
 url: /net/aspose.gis/geoconvert/
 ---
 ## GeoConvert class

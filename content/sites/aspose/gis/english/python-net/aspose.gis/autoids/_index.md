@@ -1,7 +1,7 @@
 ---
 title: AutoIds Enumeration
 type: docs
-weight: 4260
+weight: 4430
 url: /python-net/aspose.gis/autoids/
 ---
 
@@ -11,7 +11,7 @@ Auto-generate ids.
 
 **Full Name:** aspose.gis.AutoIds
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

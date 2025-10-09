@@ -3,7 +3,7 @@ title: Class LocalSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.LocalSpatialReferenceSystem class. Local SRS related coordinates to some object not earth
 type: docs
-weight: 2290
+weight: 4630
 url: /net/aspose.gis.spatialreferencing/localspatialreferencesystem/
 ---
 ## LocalSpatialReferenceSystem class

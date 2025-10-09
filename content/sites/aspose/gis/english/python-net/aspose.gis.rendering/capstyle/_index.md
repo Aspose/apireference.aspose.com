@@ -11,7 +11,7 @@ Specifies how lines are rendered at their ends.
 
 **Full Name:** aspose.gis.rendering.CapStyle
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -11,11 +11,12 @@ url: /python-net/aspose.gis.common.formats.mapinfo.tabformat/tabfiledata/
 
 **Full Name:** aspose.gis.common.formats.mapinfo.tabformat.TabFileData
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
+| coordinate_system | [CoordinateSystem](/psd/python-net/aspose.gis.common.formats.mapinfo/coordinatesystem) | r |    |
 | fields | System.Collections.Generic.IReadOnlyList<Column> | r |    |
 | table_encoding | System.Text.Encoding | r |    |
 | table_type | string | r |    |

@@ -1,14 +1,14 @@
 ---
 title: Interface ICurve
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Geometries.ICurve interface. A ICurve is a sequence of points
+description: Aspose.Gis.Geometries.ICurve interface. An interface for ICurve type ICurve is a sequence of points
 type: docs
-weight: 1080
+weight: 2760
 url: /net/aspose.gis.geometries/icurve/
 ---
 ## ICurve interface
 
-A `ICurve` is a sequence of points.
+An interface for ICurve type `ICurve` is a sequence of points.
 
 ```csharp
 public interface ICurve : IGeometry

@@ -3,7 +3,7 @@ title: Class NumericFormat
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.NumericFormat class. NumericFormat are used to format common numeric types in text
 type: docs
-weight: 1390
+weight: 3440
 url: /net/aspose.gis/numericformat/
 ---
 ## NumericFormat class

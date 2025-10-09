@@ -3,7 +3,7 @@ title: Enum VerticalAnchor
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Symbolizers.VerticalAnchor enum. Specifies side to be aligned vertically
 type: docs
-weight: 2090
+weight: 4430
 url: /net/aspose.gis.rendering.symbolizers/verticalanchor/
 ---
 ## VerticalAnchor enumeration

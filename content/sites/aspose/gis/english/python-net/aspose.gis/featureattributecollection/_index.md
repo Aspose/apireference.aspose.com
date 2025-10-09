@@ -1,7 +1,7 @@
 ---
 title: FeatureAttributeCollection Class
 type: docs
-weight: 830
+weight: 850
 url: /python-net/aspose.gis/featureattributecollection/
 ---
 
@@ -11,7 +11,9 @@ url: /python-net/aspose.gis/featureattributecollection/
 
 **Full Name:** aspose.gis.FeatureAttributeCollection
 
-**Aspose.PSD Version:** 24.12.0
+**Inheritance:** BaseFeatureAttributeCollection
+
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

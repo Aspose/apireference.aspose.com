@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.geotools.layersmap/maptilesoptions/
 
 **Full Name:** aspose.gis.geotools.layersmap.MapTilesOptions
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

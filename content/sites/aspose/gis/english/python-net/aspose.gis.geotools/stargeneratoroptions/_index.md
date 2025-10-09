@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.geotools/stargeneratoroptions/
 
 **Full Name:** aspose.gis.geotools.StarGeneratorOptions
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

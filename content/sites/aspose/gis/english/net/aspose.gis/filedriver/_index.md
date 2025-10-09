@@ -3,7 +3,7 @@ title: Class FileDriver
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.FileDriver class. A driver for a specific file based format
 type: docs
-weight: 180
+weight: 1670
 url: /net/aspose.gis/filedriver/
 ---
 ## FileDriver class

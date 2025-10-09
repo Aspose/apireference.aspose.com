@@ -3,7 +3,7 @@ title: Class ShapefileDriver
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.Shapefile.ShapefileDriver class. A driver for the Shapefile format
 type: docs
-weight: 680
+weight: 2310
 url: /net/aspose.gis.formats.shapefile/shapefiledriver/
 ---
 ## ShapefileDriver class
@@ -42,10 +42,8 @@ public class ShapefileDriver : FileDriver
 | override [CreateLayer](../../aspose.gis.formats.shapefile/shapefiledriver/createlayer/#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | Creates a layer and opens it for adding new features. |
 | [CreateLayer](../../aspose.gis.formats.shapefile/shapefiledriver/createlayer/#createlayer_4)(AbstractPath, ShapefileOptions, SpatialReferenceSystem) | Creates a layer and opens it for adding new features. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string, DriverOptions, SpatialReferenceSystem) | Creates the layer and opens it for appending. |
-| override [EditLayer](../../aspose.gis.formats.shapefile/shapefiledriver/editlayer/#editlayer)(AbstractPath, DriverOptions) | Opens a layer for editing. |
-| [EditLayer](../../aspose.gis.formats.shapefile/shapefiledriver/editlayer/#editlayer_1)(AbstractPath, ShapefileOptions) | Opens a layer for editing. |
+| virtual [EditLayer](../../aspose.gis/filedriver/editlayer/)(AbstractPath, DriverOptions) | Opens a layer for editing. |
 | [EditLayer](../../aspose.gis/filedriver/editlayer/)(string, DriverOptions) | Opens a layer for editing. |
-| [EditLayer](../../aspose.gis.formats.shapefile/shapefiledriver/editlayer/#editlayer_3)(string, ShapefileOptions) | Opens a layer for editing. |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset/)(AbstractPath) | Opens the dataset. |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset/)(string) | Opens the dataset. |
 | virtual [OpenDataset](../../aspose.gis/filedriver/opendataset/)(AbstractPath, DriverOptions) | Opens the dataset. |

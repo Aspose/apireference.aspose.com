@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.formats.infile
 type: docs
-weight: 320
+weight: 330
 url: /python-net/aspose.gis.formats.infile/
 ---
 

@@ -3,7 +3,7 @@ title: GeometryOperations.CreateMidpoints
 second_title: Aspose.GIS for .NET API Reference
 description: GeometryOperations method. Create midpoints by adding a new point in the middle to each segment
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.gis.geotools/geometryoperations/createmidpoints/
 ---
 ## GeometryOperations.CreateMidpoints method

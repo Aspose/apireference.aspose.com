@@ -3,7 +3,7 @@ title: Enum ParameterType
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.ParameterType enum. Determines type of parameter in Projection
 type: docs
-weight: 2300
+weight: 4640
 url: /net/aspose.gis.spatialreferencing/parametertype/
 ---
 ## ParameterType enumeration

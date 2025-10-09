@@ -3,7 +3,7 @@ title: Class InMemoryDriver
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.InMemory.InMemoryDriver class. A driver for work with data in memory
 type: docs
-weight: 400
+weight: 2010
 url: /net/aspose.gis.formats.inmemory/inmemorydriver/
 ---
 ## InMemoryDriver class
@@ -33,7 +33,8 @@ public sealed class InMemoryDriver : FileDriver
 | [CreateDataset](../../aspose.gis/filedriver/createdataset/)(string, DriverOptions) | Creates a dataset. |
 | [CreateLayer](../../aspose.gis.formats.inmemory/inmemorydriver/createlayer/#createlayer)() | Creates a layer and opens it for adding new features. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(AbstractPath) | Creates the layer and opens it for appending. |
-| [CreateLayer](../../aspose.gis.formats.inmemory/inmemorydriver/createlayer/#createlayer_5)(SpatialReferenceSystem) | Creates a layer and opens it for adding new features. |
+| [CreateLayer](../../aspose.gis.formats.inmemory/inmemorydriver/createlayer/#createlayer_5)(FeaturesSequence) | Creates a layer from features sequence and opens it for adding new features. |
+| [CreateLayer](../../aspose.gis.formats.inmemory/inmemorydriver/createlayer/#createlayer_6)(SpatialReferenceSystem) | Creates a layer and opens it for adding new features. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string) | Creates the layer and opens it for appending. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(AbstractPath, DriverOptions) | Creates the layer and opens it for appending. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(AbstractPath, SpatialReferenceSystem) | Creates the layer and opens it for appending. |

@@ -3,7 +3,7 @@ title: Class GisException
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.GisException class. The exception that is thrown when an error occurs during GIS data processing
 type: docs
-weight: 1340
+weight: 3020
 url: /net/aspose.gis/gisexception/
 ---
 ## GisException class

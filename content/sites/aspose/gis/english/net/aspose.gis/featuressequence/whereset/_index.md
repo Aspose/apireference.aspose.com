@@ -3,7 +3,7 @@ title: FeaturesSequence.WhereSet
 second_title: Aspose.GIS for .NET API Reference
 description: FeaturesSequence method. Selects features with attribute set
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.gis/featuressequence/whereset/
 ---
 ## FeaturesSequence.WhereSet method

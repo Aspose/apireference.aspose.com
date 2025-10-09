@@ -20,7 +20,7 @@ public ICurve GetInteriorRing(int index)
 
 ### Return Value
 
-The interior ring.
+The interior ring value
 
 ### See Also
 

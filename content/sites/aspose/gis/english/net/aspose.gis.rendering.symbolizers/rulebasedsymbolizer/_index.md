@@ -3,7 +3,7 @@ title: Class RuleBasedSymbolizer
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Symbolizers.RuleBasedSymbolizer class. Applies a symbolizer to feature geometries according to userdefined rules
 type: docs
-weight: 2040
+weight: 4380
 url: /net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/
 ---
 ## RuleBasedSymbolizer class

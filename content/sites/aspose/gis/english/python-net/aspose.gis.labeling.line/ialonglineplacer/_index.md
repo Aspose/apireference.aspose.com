@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.labeling.line/ialonglineplacer/
 
 **Full Name:** aspose.gis.labeling.line.IAlongLinePlacer
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
 | **Name** | **Description** |

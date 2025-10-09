@@ -1,14 +1,14 @@
 ---
 title: SpatialReferenceSystem.CreateLocal
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem method. Create local SRS
+description: SpatialReferenceSystem method. Create local Spatial Reference System
 type: docs
 weight: 370
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/createlocal/
 ---
 ## SpatialReferenceSystem.CreateLocal method
 
-Create local SRS.
+Create local Spatial Reference System.
 
 ```csharp
 public static LocalSpatialReferenceSystem CreateLocal(string name, LocalDatum datum, Unit unit, 
@@ -17,7 +17,7 @@ public static LocalSpatialReferenceSystem CreateLocal(string name, LocalDatum da
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | Name of SRS. |
+| name | String | Name of Spatial Reference System. |
 | datum | LocalDatum | Datum to be used in SRS. |
 | unit | Unit | Unit to be used in SRS. |
 | axises | ICollection`1 | Axises to be used in SRS. Must be non empty |
@@ -25,12 +25,13 @@ public static LocalSpatialReferenceSystem CreateLocal(string name, LocalDatum da
 
 ### Return Value
 
-New Local SRS.
+New Local Spatial Reference System.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
+| InvalidOperationException | There must be at least one axis. |
 | InvalidOperationException | *axises* is empty. |
 | ArgumentNullException | Any argument, except *identifier* is null. |
 

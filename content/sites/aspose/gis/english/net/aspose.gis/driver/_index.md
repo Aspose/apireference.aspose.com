@@ -3,7 +3,7 @@ title: Class Driver
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Driver class. A base class for drivers to GIS data
 type: docs
-weight: 90
+weight: 1440
 url: /net/aspose.gis/driver/
 ---
 ## Driver class

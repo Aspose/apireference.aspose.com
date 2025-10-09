@@ -6,7 +6,7 @@ type: docs
 weight: 110
 url: /net/aspose.gis.rendering/map/add/
 ---
-## Add(VectorLayer, bool) {#add_7}
+## Add(VectorLayer, bool) {#add_8}
 
 Creates a [`VectorMapLayer`](../../vectormaplayer/) with default symbolizer and adds it to the map. Layers are rendered in addition order.
 
@@ -34,7 +34,7 @@ public void Add(VectorLayer layer, bool keepOpen = false)
 
 ---
 
-## Add(VectorLayer, VectorSymbolizer, bool) {#add_6}
+## Add(VectorLayer, VectorSymbolizer, bool) {#add_7}
 
 Creates and adds a [`VectorMapLayer`](../../vectormaplayer/) to the map. Layers are rendered in addition order.
 
@@ -64,7 +64,7 @@ public void Add(VectorLayer layer, VectorSymbolizer symbolizer, bool keepOpen = 
 
 ---
 
-## Add(VectorLayer, VectorSymbolizer, Labeling, bool) {#add_5}
+## Add(VectorLayer, VectorSymbolizer, Labeling, bool) {#add_6}
 
 Creates and adds a [`VectorMapLayer`](../../vectormaplayer/) to the map. Layers are rendered in addition order.
 
@@ -91,6 +91,41 @@ public void Add(VectorLayer layer, VectorSymbolizer symbolizer, Labeling labelin
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
 * class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [Map](../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
+
+---
+
+## Add(VectorLayer, VectorSymbolizer, Labeling, SpatialReferenceSystem, bool) {#add_5}
+
+Creates and adds a [`VectorMapLayer`](../../vectormaplayer/) to the map. Layers are rendered in addition order.
+
+```csharp
+public void Add(VectorLayer layer, VectorSymbolizer symbolizer, Labeling labeling, 
+    SpatialReferenceSystem defaultReferenceSystem, bool keepOpen = false)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| layer | VectorLayer | A vector layer to represent by [`VectorMapLayer`](../../vectormaplayer/). |
+| symbolizer | VectorSymbolizer | A symbolizer to use for rendering. If `null`, default symbolizer is used. |
+| labeling | Labeling | Labeling to use to label features in layer. If `null`, default [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) will be used. |
+| defaultReferenceSystem | SpatialReferenceSystem | Specifies a value for a source spatial reference (layer\sequence) if that is missing. Default **null** will be used. |
+| keepOpen | Boolean | `true` to leave the layer open after the [`Map`](../) object is disposed; otherwise, `false`. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Layer is `null`. |
+
+### See Also
+
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [Map](../)
 * namespace [Aspose.Gis.Rendering](../../map/)
 * assembly [Aspose.GIS](../../../)

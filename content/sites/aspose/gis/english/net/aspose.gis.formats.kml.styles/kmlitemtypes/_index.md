@@ -3,7 +3,7 @@ title: Enum KmlItemTypes
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.Kml.Styles.KmlItemTypes enum. Specifies how a kmlFeature and its contents shall be displayed as items in a list view
 type: docs
-weight: 540
+weight: 2160
 url: /net/aspose.gis.formats.kml.styles/kmlitemtypes/
 ---
 ## KmlItemTypes enumeration

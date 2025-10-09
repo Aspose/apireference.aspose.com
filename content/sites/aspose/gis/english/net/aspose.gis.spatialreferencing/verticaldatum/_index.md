@@ -3,7 +3,7 @@ title: Class VerticalDatum
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.VerticalDatum class. Indicates method used for vertical measurements
 type: docs
-weight: 2410
+weight: 4750
 url: /net/aspose.gis.spatialreferencing/verticaldatum/
 ---
 ## VerticalDatum class

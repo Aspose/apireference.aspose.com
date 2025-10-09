@@ -3,7 +3,7 @@ title: Aspose.Gis.Formats.OsmXml
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.OsmXml namespace provides classes for working with OSM XML format
 type: docs
-weight: 170
+weight: 390
 url: /net/aspose.gis.formats.osmxml/
 ---
 `Aspose.Gis.Formats.OsmXml` namespace provides classes for working with OSM XML format.

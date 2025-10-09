@@ -3,7 +3,7 @@ title: GeometryOperations.OrderGeometryCollection
 second_title: Aspose.GIS for .NET API Reference
 description: GeometryOperations method. Order geometry collection by type to four collection point line polygon and other type
 type: docs
-weight: 40
+weight: 80
 url: /net/aspose.gis.geotools/geometryoperations/ordergeometrycollection/
 ---
 ## GeometryOperations.OrderGeometryCollection method

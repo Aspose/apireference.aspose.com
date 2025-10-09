@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.formats.osmxml
 type: docs
-weight: 390
+weight: 410
 url: /python-net/aspose.gis.formats.osmxml/
 ---
 

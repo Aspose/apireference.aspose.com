@@ -3,7 +3,7 @@ title: Class SpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.SpatialReferenceSystem class. Spatial reference system maps coordinates to places on Earth. There are different types of SRS see Type. Whats more if type of SRS is Geographic or Projected SRS can be compound or single see IsCompound
 type: docs
-weight: 2360
+weight: 4700
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/
 ---
 ## SpatialReferenceSystem class
@@ -63,7 +63,7 @@ public abstract class SpatialReferenceSystem : IdentifiableObject
 | static [CreateCompound](../../aspose.gis.spatialreferencing/spatialreferencesystem/createcompound/)(string, SpatialReferenceSystem, SpatialReferenceSystem, Identifier) | Create compound SRS. |
 | static [CreateGeocentric](../../aspose.gis.spatialreferencing/spatialreferencesystem/creategeocentric/)(GeocentricSpatialReferenceSystemParameters, Identifier) | Create geocentric SRS from custom parameters. |
 | static [CreateGeographic](../../aspose.gis.spatialreferencing/spatialreferencesystem/creategeographic/)(GeographicSpatialReferenceSystemParameters, Identifier) | Create geographic SRS from custom parameters. |
-| static [CreateLocal](../../aspose.gis.spatialreferencing/spatialreferencesystem/createlocal/)(string, LocalDatum, Unit, ICollection&lt;Axis&gt;, Identifier) | Create local SRS. |
+| static [CreateLocal](../../aspose.gis.spatialreferencing/spatialreferencesystem/createlocal/)(string, LocalDatum, Unit, ICollection&lt;Axis&gt;, Identifier) | Create local Spatial Reference System. |
 | static [CreateProjected](../../aspose.gis.spatialreferencing/spatialreferencesystem/createprojected/)(ProjectedSpatialReferenceSystemParameters, Identifier) | Create projected SRS from custom parameters. |
 | static [CreateVertical](../../aspose.gis.spatialreferencing/spatialreferencesystem/createvertical/)(string, VerticalDatum, Unit, Axis, Identifier) | Create vertical SRS. |
 | static [IsEquivalent](../../aspose.gis.spatialreferencing/spatialreferencesystem/isequivalent/)(SpatialReferenceSystem, SpatialReferenceSystem) | Determines if two SRS are equivalent. Same coordinates of equivalent SRS match same place on Earth. Some parameters of equivalent SRS can be different, for example [`Name`](../identifiableobject/name/). |

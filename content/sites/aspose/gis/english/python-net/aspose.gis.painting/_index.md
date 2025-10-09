@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.painting
 type: docs
-weight: 610
+weight: 630
 url: /python-net/aspose.gis.painting/
 ---
 

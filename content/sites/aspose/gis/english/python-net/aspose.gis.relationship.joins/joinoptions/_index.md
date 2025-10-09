@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.relationship.joins/joinoptions/
 
 **Full Name:** aspose.gis.relationship.joins.JoinOptions
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

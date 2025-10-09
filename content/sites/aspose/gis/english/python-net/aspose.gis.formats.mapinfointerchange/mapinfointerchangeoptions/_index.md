@@ -13,7 +13,7 @@ url: /python-net/aspose.gis.formats.mapinfointerchange/mapinfointerchangeoptions
 
 **Inheritance:** DriverOptions
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -22,10 +22,12 @@ url: /python-net/aspose.gis.formats.mapinfointerchange/mapinfointerchangeoptions
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
+| charset | string | r/w | Determines charset, by default is Neutral |
 | close_linear_ring | bool | r/w | Determines if close a unclosed [GeometryType.LINEAR_RING](/psd/python-net/aspose.gis.geometries/geometrytype/) in each geometry. Defaults to <see langword="false" />. |
 | create_midpoints | bool | r/w | Determines if add a new point in the middle to each segment of geometry. Defaults to <see langword="false" />. |
 | delete_near_points | bool | r/w | Determines if delete near points in each geometry. Defaults to <see langword="false" />. |
 | delete_near_points_distance | double | r/w | Determines distance for [DriverOptions.delete_near_points](/psd/python-net/aspose.gis/driveroptions/). Defaults to <see langword="0" />. |
+| delimiter | string | r/w | Determines delimiter for attributes in mid file, by default is tab character |
 | linearization_tolerance | double | r/w | A tolerance to use to linearize curve geometries. |
 | m_precision_model | [PrecisionModel](/psd/python-net/aspose.gis/precisionmodel) | r/w | A [PrecisionModel](/psd/python-net/aspose.gis/precisionmodel/) that will be applied to M coordinate<br/>            when geometries are added to the [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) or when they are read from the [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/).<br/>            The default value is [PrecisionModel.exact](/psd/python-net/aspose.gis/precisionmodel/). |
 | simplify_segments | bool | r/w | Determines if delete points lying on the same segment in each geometry. Defaults to <see langword="false" />. |

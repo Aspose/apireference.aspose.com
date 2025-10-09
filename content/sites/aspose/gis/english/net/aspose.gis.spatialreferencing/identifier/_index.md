@@ -3,7 +3,7 @@ title: Class Identifier
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.Identifier class. Represents an identifier  a reference to external description of an object. If you create a SRS from WKT Identifier corresponds to AUTHORITY keyword
 type: docs
-weight: 2270
+weight: 4610
 url: /net/aspose.gis.spatialreferencing/identifier/
 ---
 ## Identifier class

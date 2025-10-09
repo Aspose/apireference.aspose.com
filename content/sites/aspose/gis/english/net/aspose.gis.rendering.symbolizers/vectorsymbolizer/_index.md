@@ -3,7 +3,7 @@ title: Class VectorSymbolizer
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Symbolizers.VectorSymbolizer class. The abstract root class for the symbolizers that render vector features
 type: docs
-weight: 2080
+weight: 4420
 url: /net/aspose.gis.rendering.symbolizers/vectorsymbolizer/
 ---
 ## VectorSymbolizer class

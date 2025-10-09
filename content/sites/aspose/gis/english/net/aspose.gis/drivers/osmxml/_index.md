@@ -3,7 +3,7 @@ title: Drivers.OsmXml
 second_title: Aspose.GIS for .NET API Reference
 description: Drivers property. A driver for the OSM XML format
 type: docs
-weight: 150
+weight: 180
 url: /net/aspose.gis/drivers/osmxml/
 ---
 ## Drivers.OsmXml property

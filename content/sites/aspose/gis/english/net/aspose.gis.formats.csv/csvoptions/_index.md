@@ -3,7 +3,7 @@ title: Class CsvOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.Csv.CsvOptions class. Driverspecific options for CSV format
 type: docs
-weight: 200
+weight: 1700
 url: /net/aspose.gis.formats.csv/csvoptions/
 ---
 ## CsvOptions class

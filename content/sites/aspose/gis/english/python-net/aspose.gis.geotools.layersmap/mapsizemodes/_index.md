@@ -11,7 +11,7 @@ Map size modes for [LayersMapBuilder](/psd/python-net/aspose.gis.geotools.layers
 
 **Full Name:** aspose.gis.geotools.layersmap.MapSizeModes
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

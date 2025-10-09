@@ -3,7 +3,7 @@ title: Class TopoJsonTransform
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.TopoJson.TopoJsonTransform class. A transform object that can be used in order to quantize coordinates when writing a TopoJSON file
 type: docs
-weight: 740
+weight: 2380
 url: /net/aspose.gis.formats.topojson/topojsontransform/
 ---
 ## TopoJsonTransform class

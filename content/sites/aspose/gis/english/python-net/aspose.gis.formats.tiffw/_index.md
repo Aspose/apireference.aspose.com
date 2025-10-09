@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.formats.tiffw
 type: docs
-weight: 440
+weight: 460
 url: /python-net/aspose.gis.formats.tiffw/
 ---
 

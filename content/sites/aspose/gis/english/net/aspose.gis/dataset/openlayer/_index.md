@@ -3,7 +3,7 @@ title: Dataset.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
 description: Dataset method. Opens the layer with specified name for reading
 type: docs
-weight: 110
+weight: 130
 url: /net/aspose.gis/dataset/openlayer/
 ---
 ## Dataset.OpenLayer method

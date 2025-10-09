@@ -3,7 +3,7 @@ title: Class JoinByGeometryOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Relationship.Joins.JoinByGeometryOptions class. Options for layers joining
 type: docs
-weight: 1580
+weight: 3920
 url: /net/aspose.gis.relationship.joins/joinbygeometryoptions/
 ---
 ## JoinByGeometryOptions class

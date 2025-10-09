@@ -3,7 +3,7 @@ title: Class JpegRenderer
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Formats.Jpeg.JpegRenderer class. A Renderer that renders Map into JPEG file
 type: docs
-weight: 1680
+weight: 4020
 url: /net/aspose.gis.rendering.formats.jpeg/jpegrenderer/
 ---
 ## JpegRenderer class

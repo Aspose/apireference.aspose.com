@@ -3,7 +3,7 @@ title: Class LineLabelPlacement
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Labelings.LineLabelPlacement class. Line label placement places labels along line
 type: docs
-weight: 1760
+weight: 4100
 url: /net/aspose.gis.rendering.labelings/linelabelplacement/
 ---
 ## LineLabelPlacement class

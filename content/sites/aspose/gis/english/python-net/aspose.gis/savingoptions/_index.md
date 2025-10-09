@@ -1,7 +1,7 @@
 ---
 title: SavingOptions Class
 type: docs
-weight: 3430
+weight: 3590
 url: /python-net/aspose.gis/savingoptions/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/savingoptions/
 
 **Full Name:** aspose.gis.SavingOptions
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

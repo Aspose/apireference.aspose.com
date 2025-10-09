@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.rendering.colorizers/rastercolorizer/
 
 **Full Name:** aspose.gis.rendering.colorizers.RasterColorizer
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

@@ -1,14 +1,14 @@
 ---
 title: MixedGeometrySymbolizer.MixedGeometrySymbolizer
 second_title: Aspose.GIS for .NET API Reference
-description: MixedGeometrySymbolizer constructor. The default constructor
+description: MixedGeometrySymbolizer constructor. Creates new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/mixedgeometrysymbolizer/
 ---
 ## MixedGeometrySymbolizer constructor
 
-The default constructor.
+Creates new instance.
 
 ```csharp
 public MixedGeometrySymbolizer()

@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.labeling
 type: docs
-weight: 590
+weight: 610
 url: /python-net/aspose.gis.labeling/
 ---
 

@@ -3,7 +3,7 @@ title: Class OsmXmlDriver
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.OsmXml.OsmXmlDriver class. A driver for the OSM XML format
 type: docs
-weight: 640
+weight: 2260
 url: /net/aspose.gis.formats.osmxml/osmxmldriver/
 ---
 ## OsmXmlDriver class
@@ -36,11 +36,12 @@ public sealed class OsmXmlDriver : FileDriver
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(AbstractPath, DriverOptions) | Creates the layer and opens it for appending. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(AbstractPath, SpatialReferenceSystem) | Creates the layer and opens it for appending. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string, DriverOptions) | Creates the layer and opens it for appending. |
-| [CreateLayer](../../aspose.gis.formats.osmxml/osmxmldriver/createlayer/#createlayer_7)(string, OsmXmlOptions) | Creates a layer and opens it for adding new features. |
+| [CreateLayer](../../aspose.gis.formats.osmxml/osmxmldriver/createlayer/#createlayer_8)(string, OsmXmlOptions) | Creates a layer and opens it for adding new features. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string, SpatialReferenceSystem) | Creates the layer and opens it for appending. |
 | override [CreateLayer](../../aspose.gis.formats.osmxml/osmxmldriver/createlayer/#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | Creates a layer and opens it for adding new features. |
+| [CreateLayer](../../aspose.gis.formats.osmxml/osmxmldriver/createlayer/#createlayer_3)(AbstractPath, OsmXmlOptions, SpatialReferenceSystem) | Creates a layer and opens it for adding new features. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string, DriverOptions, SpatialReferenceSystem) | Creates the layer and opens it for appending. |
-| [CreateLayer](../../aspose.gis.formats.osmxml/osmxmldriver/createlayer/#createlayer_8)(string, OsmXmlOptions, SpatialReferenceSystem) | Creates a layer and opens it for adding new features. |
+| [CreateLayer](../../aspose.gis.formats.osmxml/osmxmldriver/createlayer/#createlayer_9)(string, OsmXmlOptions, SpatialReferenceSystem) | Creates a layer and opens it for adding new features. |
 | virtual [EditLayer](../../aspose.gis/filedriver/editlayer/)(AbstractPath, DriverOptions) | Opens a layer for editing. |
 | [EditLayer](../../aspose.gis/filedriver/editlayer/)(string, DriverOptions) | Opens a layer for editing. |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset/)(AbstractPath) | Opens the dataset. |

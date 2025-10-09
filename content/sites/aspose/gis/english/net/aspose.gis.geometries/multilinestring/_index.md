@@ -3,7 +3,7 @@ title: Class MultiLineString
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Geometries.MultiLineString class. A MultiLineString is a onedimensional GeometryCollection whose elements are LineStrings
 type: docs
-weight: 1250
+weight: 2930
 url: /net/aspose.gis.geometries/multilinestring/
 ---
 ## MultiLineString class
@@ -89,7 +89,7 @@ public class MultiLineString : MultiCurve, IMultiLineString
 | [ToLinearGeometry](../../aspose.gis.geometries/multicurve/tolineargeometry/)() | Gets approximate or equivalent non-curve version of this geometry using the default `tolerance`. (3 methods) |
 | [ToLinearGeometry](../../aspose.gis.geometries/multicurve/tolineargeometry/)(double) | Gets approximate or equivalent non-curve version of this geometry using the specified `tolerance`. (3 methods) |
 | override [ToString](../../aspose.gis.geometries/geometry/tostring/)() | Returns a string that represents the current object. |
-| [ToSvg](../../aspose.gis.geometries/geometry/tosvg/)() | Translates this geometry to Svg representation. |
+| [ToSvg](../../aspose.gis.geometries/geometry/tosvg/)(Extent) | Translates this geometry to Svg representation. |
 | [Touches](../../aspose.gis.geometries/geometry/touches/)(IGeometry) | Determines if this geometry and a specified geometry touch. |
 | [Union](../../aspose.gis.geometries/geometry/union/)(IGeometry) | Unites this geometry and a specified geometry. |
 | [Within](../../aspose.gis.geometries/geometry/within/)(Extent) | Determines whether this geometry is within a specified extent. |

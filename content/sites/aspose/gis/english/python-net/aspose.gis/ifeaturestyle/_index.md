@@ -1,7 +1,7 @@
 ---
 title: IFeatureStyle Class
 type: docs
-weight: 1510
+weight: 1560
 url: /python-net/aspose.gis/ifeaturestyle/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/ifeaturestyle/
 
 **Full Name:** aspose.gis.IFeatureStyle
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 
 

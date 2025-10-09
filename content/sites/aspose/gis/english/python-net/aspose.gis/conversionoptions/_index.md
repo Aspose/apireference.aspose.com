@@ -1,7 +1,7 @@
 ---
 title: ConversionOptions Class
 type: docs
-weight: 370
+weight: 380
 url: /python-net/aspose.gis/conversionoptions/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/conversionoptions/
 
 **Full Name:** aspose.gis.ConversionOptions
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

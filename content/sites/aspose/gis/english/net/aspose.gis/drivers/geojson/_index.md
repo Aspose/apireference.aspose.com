@@ -3,7 +3,7 @@ title: Drivers.GeoJson
 second_title: Aspose.GIS for .NET API Reference
 description: Drivers property. A driver for the GeoJSON format
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.gis/drivers/geojson/
 ---
 ## Drivers.GeoJson property

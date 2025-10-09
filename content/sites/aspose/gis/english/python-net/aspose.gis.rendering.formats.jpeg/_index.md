@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.rendering.formats.jpeg
 type: docs
-weight: 710
+weight: 730
 url: /python-net/aspose.gis.rendering.formats.jpeg/
 ---
 

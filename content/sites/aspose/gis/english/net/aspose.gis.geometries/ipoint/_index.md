@@ -3,7 +3,7 @@ title: Interface IPoint
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Geometries.IPoint interface. A single location in coordinate space
 type: docs
-weight: 1190
+weight: 2870
 url: /net/aspose.gis.geometries/ipoint/
 ---
 ## IPoint interface

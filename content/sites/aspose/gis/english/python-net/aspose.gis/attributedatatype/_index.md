@@ -1,7 +1,7 @@
 ---
 title: AttributeDataType Enumeration
 type: docs
-weight: 4250
+weight: 4420
 url: /python-net/aspose.gis/attributedatatype/
 ---
 
@@ -11,7 +11,7 @@ The data type of a feature attribute.
 
 **Full Name:** aspose.gis.AttributeDataType
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.relationship.joins
 type: docs
-weight: 660
+weight: 680
 url: /python-net/aspose.gis.relationship.joins/
 ---
 

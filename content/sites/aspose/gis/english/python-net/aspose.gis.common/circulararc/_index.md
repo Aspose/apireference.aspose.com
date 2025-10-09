@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.common/circulararc/
 
 **Full Name:** aspose.gis.common.CircularArc
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

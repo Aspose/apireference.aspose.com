@@ -11,7 +11,7 @@ Specifies side to be aligned horizontally.
 
 **Full Name:** aspose.gis.rendering.symbolizers.HorizontalAnchor
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

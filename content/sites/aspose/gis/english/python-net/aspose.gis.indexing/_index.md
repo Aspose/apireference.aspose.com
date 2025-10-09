@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.indexing
 type: docs
-weight: 550
+weight: 570
 url: /python-net/aspose.gis.indexing/
 ---
 

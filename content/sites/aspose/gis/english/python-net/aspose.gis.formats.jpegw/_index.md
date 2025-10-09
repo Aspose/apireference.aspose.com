@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.formats.jpegw
 type: docs
-weight: 340
+weight: 350
 url: /python-net/aspose.gis.formats.jpegw/
 ---
 

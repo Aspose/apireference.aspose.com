@@ -3,7 +3,7 @@ title: Class RasterCellSize
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Raster.RasterCellSize class. Describes the size scale and rotation of a raster cell on a map
 type: docs
-weight: 1470
+weight: 3810
 url: /net/aspose.gis.raster/rastercellsize/
 ---
 ## RasterCellSize class
@@ -18,7 +18,7 @@ public class RasterCellSize : IRasterCellSize
 
 | Name | Description |
 | --- | --- |
-| [RasterCellSize](rastercellsize/)() | The default constructor. |
+| [RasterCellSize](rastercellsize/)() | Create an instance of `RasterCellSize`. |
 
 ## Properties
 

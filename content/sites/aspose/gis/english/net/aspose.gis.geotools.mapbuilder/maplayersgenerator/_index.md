@@ -3,7 +3,7 @@ title: Class MapLayersGenerator
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.GeoTools.MapBuilder.MapLayersGenerator class. Map layers generator
 type: docs
-weight: 900
+weight: 2580
 url: /net/aspose.gis.geotools.mapbuilder/maplayersgenerator/
 ---
 ## MapLayersGenerator class
@@ -24,6 +24,7 @@ public class MapLayersGenerator
 
 | Name | Description |
 | --- | --- |
+| static [GetListOfLayers](../../aspose.gis.geotools.mapbuilder/maplayersgenerator/getlistoflayers/)(MapGeneratorOptions) | Get list of layers: roadLayer, buildingLayer, parkLayer, parkRoadLayer, industrialLayer. |
 | static [ProduceMap](../../aspose.gis.geotools.mapbuilder/maplayersgenerator/producemap/)(MapGeneratorOptions) | Produce map. |
 
 ### See Also

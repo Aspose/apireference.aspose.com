@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.rendering.symbolizers/rule/
 
 **Full Name:** aspose.gis.rendering.symbolizers.Rule
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

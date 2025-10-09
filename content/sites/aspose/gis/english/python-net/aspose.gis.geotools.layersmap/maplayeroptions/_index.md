@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.geotools.layersmap/maplayeroptions/
 
 **Full Name:** aspose.gis.geotools.layersmap.MapLayerOptions
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -3,7 +3,7 @@ title: Enum KmlUnits
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.Kml.Styles.KmlUnits enum. Specifies units fof an image coordinate system
 type: docs
-weight: 590
+weight: 2210
 url: /net/aspose.gis.formats.kml.styles/kmlunits/
 ---
 ## KmlUnits enumeration

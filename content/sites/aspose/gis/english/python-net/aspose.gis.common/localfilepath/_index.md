@@ -13,7 +13,7 @@ url: /python-net/aspose.gis.common/localfilepath/
 
 **Inheritance:** AbstractPathInternal
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -3,7 +3,7 @@ title: Aspose.Gis.Formats.Kml
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.Kml namespace provides classes for working with KML format
 type: docs
-weight: 130
+weight: 350
 url: /net/aspose.gis.formats.kml/
 ---
 `Aspose.Gis.Formats.Kml` namespace provides classes for working with KML format.

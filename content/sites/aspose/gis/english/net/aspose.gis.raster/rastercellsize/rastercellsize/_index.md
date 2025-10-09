@@ -1,14 +1,14 @@
 ---
 title: RasterCellSize.RasterCellSize
 second_title: Aspose.GIS for .NET API Reference
-description: RasterCellSize constructor. The default constructor
+description: RasterCellSize constructor. Create an instance of RasterCellSize
 type: docs
 weight: 10
 url: /net/aspose.gis.raster/rastercellsize/rastercellsize/
 ---
 ## RasterCellSize constructor
 
-The default constructor.
+Create an instance of [`RasterCellSize`](../).
 
 ```csharp
 public RasterCellSize()

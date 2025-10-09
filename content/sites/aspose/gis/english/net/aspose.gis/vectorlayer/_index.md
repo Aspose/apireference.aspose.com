@@ -3,7 +3,7 @@ title: Class VectorLayer
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.VectorLayer class. Represents a vector layer. A vector layer is a collection of geographic features stored in a file
 type: docs
-weight: 2430
+weight: 5050
 url: /net/aspose.gis/vectorlayer/
 ---
 ## VectorLayer class
@@ -41,7 +41,7 @@ public abstract class VectorLayer : FeaturesSequence, IDisposable
 | static [Open](../../aspose.gis/vectorlayer/open/#open_2)(string, FileDriver) | Open the layer for reading. |
 | static [Open](../../aspose.gis/vectorlayer/open/#open_1)(AbstractPath, FileDriver, DriverOptions) | Open the layer for reading. |
 | static [Open](../../aspose.gis/vectorlayer/open/#open_3)(string, FileDriver, DriverOptions) | Open the layer for reading. |
-| [Add](../../aspose.gis/vectorlayer/add/#add)(Feature) | Adds a new feature to the layer, if supported by the `VectorLayer`'s [`Driver`](./driver/). |
+| virtual [Add](../../aspose.gis/vectorlayer/add/#add)(Feature) | Adds a new feature to the layer, if supported by the `VectorLayer`'s [`Driver`](./driver/). |
 | virtual [Add](../../aspose.gis/vectorlayer/add/#add_1)(Feature, IFeatureStyle) | Adds a new feature with the specified style to the layer, if supported by the `VectorLayer`'s [`Driver`](./driver/). |
 | [AsInMemory](../../aspose.gis/vectorlayer/asinmemory/)() | Create a layer clon as the InMemory format. |
 | [ConstructFeature](../../aspose.gis/vectorlayer/constructfeature/)() | Creates (but does not add to the layer) a new feature with attributes matching the collection of attributes of this layer. When done with setting data for the feature, use [`Add`](./add/) to add the feature to the layer. |
@@ -49,6 +49,7 @@ public abstract class VectorLayer : FeaturesSequence, IDisposable
 | [CopyAttributes](../../aspose.gis/vectorlayer/copyattributes/#copyattributes_1)(FeaturesSequence, IAttributesConverter) | Copies attributes of other `VectorLayer` to this one. |
 | [Dispose](../../aspose.gis/vectorlayer/dispose/)() | Releases the resources used by the `VectorLayer`. |
 | override [Equals](../../aspose.gis/vectorlayer/equals/)(object) | Determines whether the specified object is equal to the current object. |
+| virtual [FindIndex](../../aspose.gis/vectorlayer/findindex/)(Func&lt;Feature, bool&gt;) | Searching for a [`Feature`](../feature/) index according to the condition. |
 | abstract [GetEnumerator](../../aspose.gis/featuressequence/getenumerator/)() | Returns an enumerator that iterates through the collection. |
 | virtual [GetExtent](../../aspose.gis/featuressequence/getextent/)() | Gets a spatial extent of this layer. |
 | [Join](../../aspose.gis/vectorlayer/join/)(VectorLayer, JoinOptions) | Joins a layer to the current layer. |
@@ -72,6 +73,7 @@ public abstract class VectorLayer : FeaturesSequence, IDisposable
 | virtual [WhereIntersects](../../aspose.gis/featuressequence/whereintersects/)(Extent) | Filters features based on the extent. |
 | [WhereIntersects](../../aspose.gis/featuressequence/whereintersects/)(FeaturesSequence) | Filters features based on the union of all geometries in other features sequence. |
 | virtual [WhereIntersects](../../aspose.gis/featuressequence/whereintersects/)(IGeometry) | Filters features based on the provided geometry. |
+| virtual [WhereLinq](../../aspose.gis/featuressequence/wherelinq/)(Func&lt;Feature, bool&gt;) | Combining selection criteria into a single query using linq. |
 | virtual [WhereNotEqual&lt;T&gt;](../../aspose.gis/featuressequence/wherenotequal/)(string, T) | Selects features with attribute value not equal to the provided value. |
 | virtual [WhereNotNull](../../aspose.gis/featuressequence/wherenotnull/)(string) | Selects features with attribute not equal to null. |
 | virtual [WhereNull](../../aspose.gis/featuressequence/wherenull/)(string) | Selects features with attribute equal to null. |

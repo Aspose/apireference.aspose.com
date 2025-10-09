@@ -11,7 +11,7 @@ url: /net/aspose.gis/vectorlayer/add/
 Adds a new feature to the layer, if supported by the [`VectorLayer`](../)'s [`Driver`](../driver/).
 
 ```csharp
-public void Add(Feature feature)
+public virtual void Add(Feature feature)
 ```
 
 | Parameter | Type | Description |

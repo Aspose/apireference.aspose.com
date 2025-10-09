@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.geometries
 type: docs
-weight: 480
+weight: 500
 url: /python-net/aspose.gis.geometries/
 ---
 

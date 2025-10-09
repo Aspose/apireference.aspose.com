@@ -3,7 +3,7 @@ title: Class DatabaseDriver
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.DatabaseDriver class. A driver for a specific database based format
 type: docs
-weight: 60
+weight: 1410
 url: /net/aspose.gis/databasedriver/
 ---
 ## DatabaseDriver class

@@ -3,7 +3,7 @@ title: Class FeaturesSequence
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.FeaturesSequence class. FeaturesSequence represents a set of vector features
 type: docs
-weight: 170
+weight: 1660
 url: /net/aspose.gis/featuressequence/
 ---
 ## FeaturesSequence class
@@ -38,6 +38,7 @@ public abstract class FeaturesSequence : IEnumerable<Feature>
 | virtual [WhereIntersects](../../aspose.gis/featuressequence/whereintersects/#whereintersects)(Extent) | Filters features based on the extent. |
 | [WhereIntersects](../../aspose.gis/featuressequence/whereintersects/#whereintersects_1)(FeaturesSequence) | Filters features based on the union of all geometries in other features sequence. |
 | virtual [WhereIntersects](../../aspose.gis/featuressequence/whereintersects/#whereintersects_2)(IGeometry) | Filters features based on the provided geometry. |
+| virtual [WhereLinq](../../aspose.gis/featuressequence/wherelinq/)(Func&lt;Feature, bool&gt;) | Combining selection criteria into a single query using linq. |
 | virtual [WhereNotEqual&lt;T&gt;](../../aspose.gis/featuressequence/wherenotequal/)(string, T) | Selects features with attribute value not equal to the provided value. |
 | virtual [WhereNotNull](../../aspose.gis/featuressequence/wherenotnull/)(string) | Selects features with attribute not equal to null. |
 | virtual [WhereNull](../../aspose.gis/featuressequence/wherenull/)(string) | Selects features with attribute equal to null. |

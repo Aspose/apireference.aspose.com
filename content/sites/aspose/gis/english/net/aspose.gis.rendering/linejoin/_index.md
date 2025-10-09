@@ -3,7 +3,7 @@ title: Enum LineJoin
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.LineJoin enum. Determines how lines are rendered at intersections of line segments
 type: docs
-weight: 1820
+weight: 4160
 url: /net/aspose.gis.rendering/linejoin/
 ---
 ## LineJoin enumeration

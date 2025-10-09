@@ -3,7 +3,7 @@ title: Class Geometry
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Geometries.Geometry class. The abstract root class of the geometries hierarchy
 type: docs
-weight: 1020
+weight: 2700
 url: /net/aspose.gis.geometries/geometry/
 ---
 ## Geometry class
@@ -73,7 +73,7 @@ public abstract class Geometry : IGeometry
 | [ToLinearGeometry](../../aspose.gis.geometries/geometry/tolineargeometry/#tolineargeometry)() | Gets approximate or equivalent non-curve version of this geometry using the default `tolerance`. |
 | [ToLinearGeometry](../../aspose.gis.geometries/geometry/tolineargeometry/#tolineargeometry_1)(double) | Gets approximate or equivalent non-curve version of this geometry using the specified `tolerance`. |
 | override [ToString](../../aspose.gis.geometries/geometry/tostring/)() | Returns a string that represents the current object. |
-| [ToSvg](../../aspose.gis.geometries/geometry/tosvg/)() | Translates this geometry to Svg representation. |
+| [ToSvg](../../aspose.gis.geometries/geometry/tosvg/)(Extent) | Translates this geometry to Svg representation. |
 | [Touches](../../aspose.gis.geometries/geometry/touches/)(IGeometry) | Determines if this geometry and a specified geometry touch. |
 | [Union](../../aspose.gis.geometries/geometry/union/)(IGeometry) | Unites this geometry and a specified geometry. |
 | [Within](../../aspose.gis.geometries/geometry/within/#within)(Extent) | Determines whether this geometry is within a specified extent. |

@@ -3,7 +3,7 @@ title: Class GeographicSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.GeographicSpatialReferenceSystem class. A Geographic SRS is an SRS that is based on longitude and latitude. A Geographic SRS can be two dimensional or three dimensional. If geographic SRS is three dimensional then it is actually a compound SRS of two dimensional SRS and vertical SRS
 type: docs
-weight: 2240
+weight: 4580
 url: /net/aspose.gis.spatialreferencing/geographicspatialreferencesystem/
 ---
 ## GeographicSpatialReferenceSystem class

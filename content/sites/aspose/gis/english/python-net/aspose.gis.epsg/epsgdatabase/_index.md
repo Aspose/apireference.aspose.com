@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.epsg/epsgdatabase/
 
 **Full Name:** aspose.gis.epsg.EpsgDatabase
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 
 

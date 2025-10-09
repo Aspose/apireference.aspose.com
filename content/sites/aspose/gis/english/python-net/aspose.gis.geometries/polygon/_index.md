@@ -13,7 +13,7 @@ url: /python-net/aspose.gis.geometries/polygon/
 
 **Inheritance:** IGeometry, ISurface, IPolygon, ICurvePolygon, Surface
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -87,8 +87,9 @@ url: /python-net/aspose.gis.geometries/polygon/
 | [to_svg(extent)](#to_svg_extent_44) | Translates this geometry to Svg representation. |
 | [touches(other)](#touches_other_45) | Determines if this geometry and a specified geometry touch. |
 | [union(other)](#union_other_46) | Unites this geometry and a specified geometry. |
-| [within(extent)](#within_extent_47) | Determines whether this geometry is within a specified extent. |
-| [within(other)](#within_other_48) | Determines whether this geometry is within a specified geometry. |
+| [union(other)](#union_other_47) | Unites this geometry and a specified geometry. |
+| [within(extent)](#within_extent_48) | Determines whether this geometry is within a specified extent. |
+| [within(other)](#within_other_49) | Determines whether this geometry is within a specified geometry. |
 
 
 ### Constructor: Polygon() {#Polygon__1}
@@ -954,7 +955,7 @@ Gets approximate or equivalent non-curve version of this geometry using the defa
 
 | Type | Description |
 | :- | :- |
-| [IPolygon](/psd/python-net/aspose.gis.geometries/ipolygon) | A [IPolygon](/psd/python-net/aspose.gis.geometries/ipolygon/) that approximates or equivalent to this <c>ISurface</c>.<br/>            This is the equivalent of <DOM Element: class at 0x1d98ce3bca0>.ISurface.to_linear_geometry()(float) with<br/>            default <c>tolerance</c>. Default <c>tolerance</c>s value is dependent on [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/)<br/>            of this geometry:<br/>            <ul><br/>            <li> For projected SRS Tolerance is 0.001 meters (in SRS units) </li><br/>            <li> For geographic SRS Tolerance is <c>1e-5</c> degrees (in SRS units) </li><br/>            <li> For unknown SRS Tolerance is <c>1e-5</c> </li><br/>            </ul><br/>            For more details on what transformations are applied refer to <DOM Element: class at 0x1d98ce3bca0>.ISurface.to_linear_geometry()(float) specification. |
+| [IPolygon](/psd/python-net/aspose.gis.geometries/ipolygon) | A [IPolygon](/psd/python-net/aspose.gis.geometries/ipolygon/) that approximates or equivalent to this <c>ISurface</c>.<br/>            This is the equivalent of <DOM Element: class at 0x2a1793609d0>.ISurface.to_linear_geometry()(float) with<br/>            default <c>tolerance</c>. Default <c>tolerance</c>s value is dependent on [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/)<br/>            of this geometry:<br/>            <ul><br/>            <li> For projected SRS Tolerance is 0.001 meters (in SRS units) </li><br/>            <li> For geographic SRS Tolerance is <c>1e-5</c> degrees (in SRS units) </li><br/>            <li> For unknown SRS Tolerance is <c>1e-5</c> </li><br/>            </ul><br/>            For more details on what transformations are applied refer to <DOM Element: class at 0x2a1793609d0>.ISurface.to_linear_geometry()(float) specification. |
 
 
 ### Method: to_linear_geometry(tolerance) {#to_linear_geometry_tolerance_43}
@@ -1045,7 +1046,29 @@ Unites this geometry and a specified geometry.
 | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | A geometry that represents a union of this geometry and an argument. The result geometry contains<br/>            point set that present in this geometry or in an argument. |
 
 
-### Method: within(extent) {#within_extent_47}
+### Method: union(other) {#union_other_47}
+
+
+```
+ union(other) 
+```
+
+Unites this geometry and a specified geometry.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| other | [IGeometry[]](/psd/python-net/aspose.gis.geometries/igeometry) | A geometry to unite with. |
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | A geometry that represents a union of this geometry and an argument. The result geometry contains<br/>            point set that present in this geometry or in an argument. |
+
+
+### Method: within(extent) {#within_extent_48}
 
 
 ```
@@ -1067,7 +1090,7 @@ Determines whether this geometry is within a specified extent.
 | bool | <see langword="true" /> if this geometry is within extent; <see langword="false" /> otherwise. |
 
 
-### Method: within(other) {#within_other_48}
+### Method: within(other) {#within_other_49}
 
 
 ```

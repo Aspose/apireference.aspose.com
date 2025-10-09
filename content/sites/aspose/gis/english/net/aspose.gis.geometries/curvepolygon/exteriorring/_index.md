@@ -16,7 +16,7 @@ public ICurve ExteriorRing { get; set; }
 
 ### Property Value
 
-The exterior ring.
+The exterior ring value.
 
 ### Exceptions
 

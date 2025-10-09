@@ -3,7 +3,7 @@ title: Class Feature
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Feature class. A geographic feature composed of a geometry and userdefined attributes
 type: docs
-weight: 130
+weight: 1620
 url: /net/aspose.gis/feature/
 ---
 ## Feature class

@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.formats.mapinfotab
 type: docs
-weight: 380
+weight: 400
 url: /python-net/aspose.gis.formats.mapinfotab/
 ---
 

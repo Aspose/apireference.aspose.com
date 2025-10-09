@@ -13,7 +13,7 @@ url: /python-net/aspose.gis.formats.esrijson/esrijsondriver/
 
 **Inheritance:** FileDriver
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

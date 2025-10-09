@@ -3,7 +3,7 @@ title: ShapefileDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
 description: ShapefileDriver method. Opens a layer for reading
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.gis.formats.shapefile/shapefiledriver/openlayer/
 ---
 ## OpenLayer(string, ShapefileOptions) {#openlayer_5}

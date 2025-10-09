@@ -62,13 +62,13 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 
 ---
 
-## VectorMapLayer(FeaturesSequence, VectorSymbolizer, Labeling) {#constructor_2}
+## VectorMapLayer(FeaturesSequence, VectorSymbolizer, Labeling, SpatialReferenceSystem) {#constructor_2}
 
 Creates new instance with default symbolizer.
 
 ```csharp
 public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer, 
-    Labeling labeling)
+    Labeling labeling, SpatialReferenceSystem defaultReferenceSystem = null)
 ```
 
 | Parameter | Type | Description |
@@ -76,6 +76,7 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 | featuresSequence | FeaturesSequence | Features sequence. |
 | symbolizer | VectorSymbolizer | Symbolizer to use to render layer. If `null`, default symbolizer will be used. |
 | labeling | Labeling | Labeling to use to label features in layer. If `null`, default [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) will be used. |
+| defaultReferenceSystem | SpatialReferenceSystem | Specifies a value for a source spatial reference (layer\sequence) if that is missing. Default **null** will be used. |
 
 ### Exceptions
 
@@ -88,13 +89,14 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 * class [FeaturesSequence](../../../aspose.gis/featuressequence/)
 * class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
 * class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [VectorMapLayer](../)
 * namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## VectorMapLayer(VectorLayer, bool) {#constructor_5}
+## VectorMapLayer(VectorLayer, bool) {#constructor_6}
 
 Creates new instance with default symbolizer.
 
@@ -122,7 +124,7 @@ public VectorMapLayer(VectorLayer layer, bool keepOpen = true)
 
 ---
 
-## VectorMapLayer(VectorLayer, VectorSymbolizer, bool) {#constructor_4}
+## VectorMapLayer(VectorLayer, VectorSymbolizer, bool) {#constructor_5}
 
 Creates new instance.
 
@@ -152,7 +154,7 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, bool keepO
 
 ---
 
-## VectorMapLayer(VectorLayer, VectorSymbolizer, Labeling, bool) {#constructor_3}
+## VectorMapLayer(VectorLayer, VectorSymbolizer, Labeling, bool) {#constructor_4}
 
 Creates new instance.
 
@@ -179,6 +181,41 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
 * class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [VectorMapLayer](../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
+* assembly [Aspose.GIS](../../../)
+
+---
+
+## VectorMapLayer(VectorLayer, VectorSymbolizer, Labeling, SpatialReferenceSystem, bool) {#constructor_3}
+
+Creates new instance.
+
+```csharp
+public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling labeling, 
+    SpatialReferenceSystem defaultReferenceSystem, bool keepOpen = true)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| layer | VectorLayer | Vector layer. |
+| symbolizer | VectorSymbolizer | Symbolizer to use to render layer. If `null`, default symbolizer will be used. |
+| labeling | Labeling | Labeling to use to label features in layer. If `null`, default [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) will be used. |
+| defaultReferenceSystem | SpatialReferenceSystem | Specifies a value for a source spatial reference (layer\sequence) if that is missing. Default **null** will be used. |
+| keepOpen | Boolean | `true` to leave the layer open after the [`VectorMapLayer`](../) object is disposed; otherwise, `false`. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Layer is `null`. |
+
+### See Also
+
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [VectorMapLayer](../)
 * namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
 * assembly [Aspose.GIS](../../../)

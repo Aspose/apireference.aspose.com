@@ -11,7 +11,7 @@ Specifies side to be aligned vertically.
 
 **Full Name:** aspose.gis.rendering.symbolizers.VerticalAnchor
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

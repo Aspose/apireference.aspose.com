@@ -3,7 +3,7 @@ title: Class Axis
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.Axis class. An axis describes one dimension of SRS
 type: docs
-weight: 2140
+weight: 4480
 url: /net/aspose.gis.spatialreferencing/axis/
 ---
 ## Axis class

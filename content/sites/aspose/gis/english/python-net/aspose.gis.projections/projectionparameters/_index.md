@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.projections/projectionparameters/
 
 **Full Name:** aspose.gis.projections.ProjectionParameters
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

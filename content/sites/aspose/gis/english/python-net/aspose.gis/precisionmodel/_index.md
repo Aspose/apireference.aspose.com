@@ -1,7 +1,7 @@
 ---
 title: PrecisionModel Class
 type: docs
-weight: 3040
+weight: 3200
 url: /python-net/aspose.gis/precisionmodel/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/precisionmodel/
 
 **Full Name:** aspose.gis.PrecisionModel
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

@@ -3,7 +3,7 @@ title: Dataset.GetLayerName
 second_title: Aspose.GIS for .NET API Reference
 description: Dataset method. Gets the name of the layer at specified index
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.gis/dataset/getlayername/
 ---
 ## Dataset.GetLayerName method

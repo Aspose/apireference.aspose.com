@@ -3,7 +3,7 @@ title: Aspose.Gis.GeoTools.MapBuilder
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.GeoTools namespace contains classes that represent geo tools
 type: docs
-weight: 270
+weight: 520
 url: /net/aspose.gis.geotools.mapbuilder/
 ---
 `Aspose.Gis.GeoTools` namespace contains classes that represent geo tools.

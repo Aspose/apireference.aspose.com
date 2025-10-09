@@ -3,7 +3,7 @@ title: Class Metered
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Metered class. Provides methods to set metered key
 type: docs
-weight: 1380
+weight: 3420
 url: /net/aspose.gis/metered/
 ---
 ## Metered class
@@ -36,6 +36,12 @@ Metered.SetMeteredKey("PublicKey", "PrivateKey");
 [Visual Basic]
 
 Metered.SetMeteredKey("PublicKey", "PrivateKey")
+```
+
+the component jar file:
+
+```csharp
+Metered.setMeteredKey("PublicKey", "PrivateKey");
 ```
 
 ### See Also

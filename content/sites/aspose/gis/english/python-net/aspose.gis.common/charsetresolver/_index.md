@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.common/charsetresolver/
 
 **Full Name:** aspose.gis.common.CharsetResolver
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
 | **Name** | **Description** |

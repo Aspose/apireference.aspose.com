@@ -3,7 +3,7 @@ title: Class WebTile
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Raster.Web.WebTile class. Abstract Web Tile Model
 type: docs
-weight: 1540
+weight: 3880
 url: /net/aspose.gis.raster.web/webtile/
 ---
 ## WebTile class

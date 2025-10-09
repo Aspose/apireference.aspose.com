@@ -11,7 +11,7 @@ Specifies a filling pattern.
 
 **Full Name:** aspose.gis.rendering.FillStyle
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

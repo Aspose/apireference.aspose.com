@@ -3,7 +3,7 @@ title: Class KmlIconResource
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.Kml.Styles.KmlIconResource class. Specifies an icon resource location
 type: docs
-weight: 500
+weight: 2120
 url: /net/aspose.gis.formats.kml.styles/kmliconresource/
 ---
 ## KmlIconResource class

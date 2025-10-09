@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.indexing.bplustree
 type: docs
-weight: 560
+weight: 580
 url: /python-net/aspose.gis.indexing.bplustree/
 ---
 

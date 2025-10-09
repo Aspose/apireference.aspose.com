@@ -3,7 +3,7 @@ title: ShapefileDriver.SupportsSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
 description: ShapefileDriver method. Determines whether specified spatial reference system is supported by the driver
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.gis.formats.shapefile/shapefiledriver/supportsspatialreferencesystem/
 ---
 ## ShapefileDriver.SupportsSpatialReferenceSystem method

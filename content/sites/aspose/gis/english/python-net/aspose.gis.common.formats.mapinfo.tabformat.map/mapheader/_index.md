@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapheader/
 
 **Full Name:** aspose.gis.common.formats.mapinfo.tabformat.map.MapHeader
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

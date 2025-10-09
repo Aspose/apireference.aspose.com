@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.common.formats.mapinfo.styling/symbol/
 
 **Full Name:** aspose.gis.common.formats.mapinfo.styling.Symbol
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -3,7 +3,7 @@ title: Class ShapefileOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.Shapefile.ShapefileOptions class. Driverspecific options for Shapefile format. At the moment the driver provides no customizable options
 type: docs
-weight: 690
+weight: 2320
 url: /net/aspose.gis.formats.shapefile/shapefileoptions/
 ---
 ## ShapefileOptions class

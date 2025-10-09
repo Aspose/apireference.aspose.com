@@ -3,7 +3,7 @@ title: Class License
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.License class. Provides methods to license the component
 type: docs
-weight: 1370
+weight: 3410
 url: /net/aspose.gis/license/
 ---
 ## License class
@@ -18,7 +18,7 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [License](license/)() | The default constructor. |
+| [License](license/)() | Initializes a new instance of this class. |
 
 ## Methods
 
@@ -29,7 +29,7 @@ public class License
 
 ## Examples
 
-In this example, an attempt will be made to find a license file named MyLicense.lic in the folder that contains the component, in the folder that contains the calling assembly, in the folder of the entry assembly and then in the embedded resources of the calling assembly.
+In this example, an attempt will be made to find a license file named MyLicense.lic in the folder that contains  the component, in the folder that contains the calling assembly, in the folder of the entry assembly and then in the embedded resources of the calling assembly.
 
 ```csharp
 [C#]
@@ -42,6 +42,13 @@ license.SetLicense("MyLicense.lic");
 
 Dim license As license = New license
 License.SetLicense("MyLicense.lic")
+```
+
+the component jar file:
+
+```csharp
+License license = new License();
+license.setLicense("MyLicense.lic");
 ```
 
 ### See Also

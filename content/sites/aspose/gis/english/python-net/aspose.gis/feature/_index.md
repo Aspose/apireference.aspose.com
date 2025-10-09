@@ -1,7 +1,7 @@
 ---
 title: Feature Class
 type: docs
-weight: 810
+weight: 830
 url: /python-net/aspose.gis/feature/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.gis/feature/
 
 **Full Name:** aspose.gis.Feature
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

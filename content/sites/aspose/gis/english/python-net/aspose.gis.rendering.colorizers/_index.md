@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.rendering.colorizers
 type: docs
-weight: 680
+weight: 700
 url: /python-net/aspose.gis.rendering.colorizers/
 ---
 

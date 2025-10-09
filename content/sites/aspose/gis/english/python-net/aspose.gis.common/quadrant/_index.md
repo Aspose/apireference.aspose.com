@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.common/quadrant/
 
 **Full Name:** aspose.gis.common.Quadrant
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

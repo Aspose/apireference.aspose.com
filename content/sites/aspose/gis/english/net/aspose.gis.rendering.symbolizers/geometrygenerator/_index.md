@@ -3,7 +3,7 @@ title: Class GeometryGenerator
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Symbolizers.GeometryGenerator class. Decorate a symbolizer to modify features geometry before rendering
 type: docs
-weight: 1920
+weight: 4260
 url: /net/aspose.gis.rendering.symbolizers/geometrygenerator/
 ---
 ## GeometryGenerator class

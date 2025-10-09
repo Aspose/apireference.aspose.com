@@ -3,7 +3,7 @@ title: Interface ICircularString
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Geometries.ICircularString interface. A multivertex curve with circular interpolation between points
 type: docs
-weight: 1060
+weight: 2740
 url: /net/aspose.gis.geometries/icircularstring/
 ---
 ## ICircularString interface

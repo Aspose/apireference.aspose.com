@@ -1,14 +1,14 @@
 ---
 title: PointGeneratorOptions.PointGeneratorOptions
 second_title: Aspose.GIS for .NET API Reference
-description: PointGeneratorOptions constructor. The default constructor
+description: PointGeneratorOptions constructor. Create an instance using default options
 type: docs
 weight: 10
 url: /net/aspose.gis.geotools/pointgeneratoroptions/pointgeneratoroptions/
 ---
 ## PointGeneratorOptions constructor
 
-The default constructor.
+Create an instance using default options.
 
 ```csharp
 public PointGeneratorOptions()

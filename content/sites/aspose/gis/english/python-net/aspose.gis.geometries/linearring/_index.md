@@ -13,7 +13,7 @@ url: /python-net/aspose.gis.geometries/linearring/
 
 **Inheritance:** IGeometry, ICurve, ILineString, ILinearRing, LineString
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -91,8 +91,9 @@ url: /python-net/aspose.gis.geometries/linearring/
 | [to_svg(extent)](#to_svg_extent_46) | Translates this geometry to Svg representation. |
 | [touches(other)](#touches_other_47) | Determines if this geometry and a specified geometry touch. |
 | [union(other)](#union_other_48) | Unites this geometry and a specified geometry. |
-| [within(extent)](#within_extent_49) | Determines whether this geometry is within a specified extent. |
-| [within(other)](#within_other_50) | Determines whether this geometry is within a specified geometry. |
+| [union(other)](#union_other_49) | Unites this geometry and a specified geometry. |
+| [within(extent)](#within_extent_50) | Determines whether this geometry is within a specified extent. |
+| [within(other)](#within_other_51) | Determines whether this geometry is within a specified geometry. |
 
 
 ### Constructor: LinearRing() {#LinearRing__1}
@@ -986,7 +987,7 @@ Gets approximate or equivalent non-curve version of this geometry using the defa
 
 | Type | Description |
 | :- | :- |
-| [ILineString](/psd/python-net/aspose.gis.geometries/ilinestring) | A [ILineString](/psd/python-net/aspose.gis.geometries/ilinestring/) that approximates or equivalent to this curve.<br/>            This is the equivalent of <DOM Element: class at 0x1d98cc378b0>.ICurve.to_linear_geometry()(float) with<br/>            default <c>tolerance</c>. Default <c>tolerance</c>s value is dependent on [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/)<br/>            of this geometry:<br/>            <ul><br/>            <li> For projected SRS Tolerance is 0.001 meters (in SRS units) </li><br/>            <li> For geographic SRS Tolerance is <c>1e-5</c> degrees (in SRS units) </li><br/>            <li> For unknown SRS Tolerance is <c>1e-5</c> </li><br/>            </ul><br/>            For more details on what transformations are applied refer to <DOM Element: class at 0x1d98cc378b0>.ICurve.to_linear_geometry()(float) specification. |
+| [ILineString](/psd/python-net/aspose.gis.geometries/ilinestring) | A [ILineString](/psd/python-net/aspose.gis.geometries/ilinestring/) that approximates or equivalent to this curve.<br/>            This is the equivalent of <DOM Element: class at 0x2a1791540d0>.ICurve.to_linear_geometry()(float) with<br/>            default <c>tolerance</c>. Default <c>tolerance</c>s value is dependent on [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/)<br/>            of this geometry:<br/>            <ul><br/>            <li> For projected SRS Tolerance is 0.001 meters (in SRS units) </li><br/>            <li> For geographic SRS Tolerance is <c>1e-5</c> degrees (in SRS units) </li><br/>            <li> For unknown SRS Tolerance is <c>1e-5</c> </li><br/>            </ul><br/>            For more details on what transformations are applied refer to <DOM Element: class at 0x2a1791540d0>.ICurve.to_linear_geometry()(float) specification. |
 
 
 ### Method: to_linear_geometry(tolerance) {#to_linear_geometry_tolerance_45}
@@ -1077,7 +1078,29 @@ Unites this geometry and a specified geometry.
 | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | A geometry that represents a union of this geometry and an argument. The result geometry contains<br/>            point set that present in this geometry or in an argument. |
 
 
-### Method: within(extent) {#within_extent_49}
+### Method: union(other) {#union_other_49}
+
+
+```
+ union(other) 
+```
+
+Unites this geometry and a specified geometry.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| other | [IGeometry[]](/psd/python-net/aspose.gis.geometries/igeometry) | A geometry to unite with. |
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | A geometry that represents a union of this geometry and an argument. The result geometry contains<br/>            point set that present in this geometry or in an argument. |
+
+
+### Method: within(extent) {#within_extent_50}
 
 
 ```
@@ -1099,7 +1122,7 @@ Determines whether this geometry is within a specified extent.
 | bool | <see langword="true" /> if this geometry is within extent; <see langword="false" /> otherwise. |
 
 
-### Method: within(other) {#within_other_50}
+### Method: within(other) {#within_other_51}
 
 
 ```

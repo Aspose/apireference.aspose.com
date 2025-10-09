@@ -11,13 +11,14 @@ url: /python-net/aspose.gis.common.formats.mapinfo/unitid/
 
 **Full Name:** aspose.gis.common.formats.mapinfo.UnitId
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |
 | :- | :- |
 | CENTIMETER |  |
 | CHAIN |  |
+| DEGREE |  |
 | EMPTY |  |
 | INCH |  |
 | INTERNATIONAL_FOOT |  |

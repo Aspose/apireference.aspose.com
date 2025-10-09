@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.labeling.line/measuredlinesegment/
 
 **Full Name:** aspose.gis.labeling.line.MeasuredLineSegment
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

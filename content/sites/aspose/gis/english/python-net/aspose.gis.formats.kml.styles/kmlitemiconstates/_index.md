@@ -11,7 +11,7 @@ Specifies the current state of a kml:NetworkLink or kml:Folder.
 
 **Full Name:** aspose.gis.formats.kml.styles.KmlItemIconStates
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

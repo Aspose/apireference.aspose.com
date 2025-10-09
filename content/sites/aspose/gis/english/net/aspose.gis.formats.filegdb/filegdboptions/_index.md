@@ -3,7 +3,7 @@ title: Class FileGdbOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.FileGdb.FileGdbOptions class. Driverspecific options for FileGDB format
 type: docs
-weight: 270
+weight: 1860
 url: /net/aspose.gis.formats.filegdb/filegdboptions/
 ---
 ## FileGdbOptions class
@@ -30,7 +30,10 @@ public sealed class FileGdbOptions : DriverOptions
 | [DeleteNearPoints](../../aspose.gis/driveroptions/deletenearpoints/) { get; set; } | Determines if delete near points in each geometry. Defaults to `false`. |
 | [DeleteNearPointsDistance](../../aspose.gis/driveroptions/deletenearpointsdistance/) { get; set; } | Determines distance for [`DeleteNearPoints`](../../aspose.gis/driveroptions/deletenearpoints/). Defaults to `0`. |
 | [EnsureValidCoordinatesRange](../../aspose.gis.formats.filegdb/filegdboptions/ensurevalidcoordinatesrange/) { get; set; } | Whether coordinates should be in valid range. |
+| [ExpectedGeometryType](../../aspose.gis.formats.filegdb/filegdboptions/expectedgeometrytype/) { get; set; } | Expected geometry type for layer. If this option is set then we allow adding only geometries with this type |
 | [GeometryFieldName](../../aspose.gis.formats.filegdb/filegdboptions/geometryfieldname/) { get; set; } | Name of the geometry field. |
+| [HasM](../../aspose.gis.formats.filegdb/filegdboptions/hasm/) { get; set; } | Can geometries of layer have 'm' coordinate. By defualt is true |
+| [HasZ](../../aspose.gis.formats.filegdb/filegdboptions/hasz/) { get; set; } | Can geometries of layer have 'z' coordinate. By defualt is true |
 | [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance/) { get; set; } | A tolerance to use to linearize curve geometries. |
 | [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel/) { get; set; } | A [`PrecisionModel`](../../aspose.gis/precisionmodel/) that will be applied to M coordinate when geometries are added to the [`VectorLayer`](../../aspose.gis/vectorlayer/) or when they are read from the [`VectorLayer`](../../aspose.gis/vectorlayer/). The default value is [`Exact`](../../aspose.gis/precisionmodel/exact/). |
 | [MTolerance](../../aspose.gis.formats.filegdb/filegdboptions/mtolerance/) { get; set; } | M snapping tolerance. |

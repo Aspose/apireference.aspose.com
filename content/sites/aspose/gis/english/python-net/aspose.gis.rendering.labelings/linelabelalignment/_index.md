@@ -11,7 +11,7 @@ Specifies how the label is aligned with the line.
 
 **Full Name:** aspose.gis.rendering.labelings.LineLabelAlignment
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Members**
 | **Member name** | **Description** |

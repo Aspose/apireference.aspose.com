@@ -3,7 +3,7 @@ title: Class KmlOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.Kml.KmlOptions class. Driverspecific options for KML format
 type: docs
-weight: 430
+weight: 2050
 url: /net/aspose.gis.formats.kml/kmloptions/
 ---
 ## KmlOptions class

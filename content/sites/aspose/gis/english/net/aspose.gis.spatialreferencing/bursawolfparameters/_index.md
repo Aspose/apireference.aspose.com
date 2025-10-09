@@ -3,7 +3,7 @@ title: Class BursaWolfParameters
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.BursaWolfParameters class. Class that contains parameters of BursaWolf formula to transform to another datum
 type: docs
-weight: 2160
+weight: 4500
 url: /net/aspose.gis.spatialreferencing/bursawolfparameters/
 ---
 ## BursaWolfParameters class

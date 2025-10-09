@@ -11,7 +11,7 @@ url: /python-net/aspose.gis.common.formats.xml/trackingxmlreader/
 
 **Full Name:** aspose.gis.common.formats.xml.TrackingXmlReader
 
-**Aspose.PSD Version:** 24.12.0
+**Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

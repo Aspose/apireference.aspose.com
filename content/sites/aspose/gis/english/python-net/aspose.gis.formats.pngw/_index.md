@@ -1,7 +1,7 @@
 ---
 title: aspose.gis.formats.pngw
 type: docs
-weight: 400
+weight: 420
 url: /python-net/aspose.gis.formats.pngw/
 ---
 
