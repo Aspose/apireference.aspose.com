@@ -3,7 +3,7 @@ title: Class Skeleton
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Skeleton class. The Skeleton is mainly used by CAD software to help designer to manipulate the transformation of skeletal structure its usually useless outside the CAD softwares. To make the skeleton hierarchy acts like one object in CAD software its necessary to mark the top Skeleton node as the root one by setting Type to Skeleton and all children set to Bone
 type: docs
-weight: 680
+weight: 710
 url: /net/aspose.threed.entities/skeleton/
 ---
 ## Skeleton class

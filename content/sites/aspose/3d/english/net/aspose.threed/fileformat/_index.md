@@ -3,7 +3,7 @@ title: Class FileFormat
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.FileFormat class. File format definition
 type: docs
-weight: 1030
+weight: 1060
 url: /net/aspose.threed/fileformat/
 ---
 ## FileFormat class

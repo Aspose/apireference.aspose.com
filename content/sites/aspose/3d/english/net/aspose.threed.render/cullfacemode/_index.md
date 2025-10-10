@@ -3,7 +3,7 @@ title: Enum CullFaceMode
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.CullFaceMode enum. What face to cull
 type: docs
-weight: 1830
+weight: 1930
 url: /net/aspose.threed.render/cullfacemode/
 ---
 ## CullFaceMode enumeration

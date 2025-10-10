@@ -3,7 +3,7 @@ title: Enum TextureFilter
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.TextureFilter enum. Filter options during texture sampling
 type: docs
-weight: 2520
+weight: 2620
 url: /net/aspose.threed.shading/texturefilter/
 ---
 ## TextureFilter enumeration

@@ -3,7 +3,7 @@ title: Class CircleShape
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.CircleShape class. IFC compatible circle profile which can be used to construct a mesh through LinearExtrusion
 type: docs
-weight: 1600
+weight: 1700
 url: /net/aspose.threed.profiles/circleshape/
 ---
 ## CircleShape class

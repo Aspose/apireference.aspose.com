@@ -3,7 +3,7 @@ title: Class ImportException
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.ImportException class. Exception when Aspose.3D failed to open the specified source
 type: docs
-weight: 1500
+weight: 1600
 url: /net/aspose.threed/importexception/
 ---
 ## ImportException class

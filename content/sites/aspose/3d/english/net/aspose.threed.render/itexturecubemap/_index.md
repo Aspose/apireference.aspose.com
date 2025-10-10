@@ -3,7 +3,7 @@ title: Interface ITextureCubemap
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.ITextureCubemap interface. Cube map texture
 type: docs
-weight: 2040
+weight: 2140
 url: /net/aspose.threed.render/itexturecubemap/
 ---
 ## ITextureCubemap interface

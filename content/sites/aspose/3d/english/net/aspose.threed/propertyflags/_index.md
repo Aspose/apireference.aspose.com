@@ -3,7 +3,7 @@ title: Enum PropertyFlags
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.PropertyFlags enum. Propertys flags
 type: docs
-weight: 1780
+weight: 1880
 url: /net/aspose.threed/propertyflags/
 ---
 ## PropertyFlags enumeration

@@ -3,7 +3,7 @@ title: Class Ellipse
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Ellipse class. An Ellipse defines a set of points that form the shape of ellipse
 type: docs
-weight: 360
+weight: 380
 url: /net/aspose.threed.entities/ellipse/
 ---
 ## Ellipse class

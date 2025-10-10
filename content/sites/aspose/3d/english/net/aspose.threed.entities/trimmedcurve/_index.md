@@ -3,7 +3,7 @@ title: Class TrimmedCurve
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.TrimmedCurve class. A bounded curve that trimmed the basis curve at both ends
 type: docs
-weight: 780
+weight: 810
 url: /net/aspose.threed.entities/trimmedcurve/
 ---
 ## TrimmedCurve class

@@ -3,7 +3,7 @@ title: Class HollowRectangleShape
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.HollowRectangleShape class. IFC compatible hollow rectangular shape with both inner/outer rounding corners
 type: docs
-weight: 1650
+weight: 1750
 url: /net/aspose.threed.profiles/hollowrectangleshape/
 ---
 ## HollowRectangleShape class

@@ -3,7 +3,7 @@ title: Enum VertexFieldDataType
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.VertexFieldDataType enum. Vertex fields data type
 type: docs
-weight: 2830
+weight: 2930
 url: /net/aspose.threed.utilities/vertexfielddatatype/
 ---
 ## VertexFieldDataType enumeration

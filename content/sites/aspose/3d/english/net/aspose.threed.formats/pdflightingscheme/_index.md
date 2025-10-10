@@ -3,7 +3,7 @@ title: Enum PdfLightingScheme
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.PdfLightingScheme enum. LightingScheme specifies the lighting to apply to 3D artwork
 type: docs
-weight: 1300
+weight: 1390
 url: /net/aspose.threed.formats/pdflightingscheme/
 ---
 ## PdfLightingScheme enumeration

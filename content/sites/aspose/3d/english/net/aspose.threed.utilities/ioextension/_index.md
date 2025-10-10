@@ -3,7 +3,7 @@ title: Class IOExtension
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.IOExtension class. Utilities to write matrix/vector to binary writer
 type: docs
-weight: 2670
+weight: 2770
 url: /net/aspose.threed.utilities/ioextension/
 ---
 ## IOExtension class

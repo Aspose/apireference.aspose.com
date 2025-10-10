@@ -3,7 +3,7 @@ title: Class VertexDeclaration
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.VertexDeclaration class. The declaration of a custom defined vertexs structure
 type: docs
-weight: 2810
+weight: 2910
 url: /net/aspose.threed.utilities/vertexdeclaration/
 ---
 ## VertexDeclaration class

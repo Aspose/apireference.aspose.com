@@ -3,7 +3,7 @@ title: Class FbxLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.FbxLoadOptions class. Load options for Fbx format
 type: docs
-weight: 1140
+weight: 1170
 url: /net/aspose.threed.formats/fbxloadoptions/
 ---
 ## FbxLoadOptions class

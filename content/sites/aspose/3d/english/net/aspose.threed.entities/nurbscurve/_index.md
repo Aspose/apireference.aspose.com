@@ -3,7 +3,7 @@ title: Class NurbsCurve
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.NurbsCurve class. NURBS curve is a curve represented by NURBSNonuniform rational basis spline A NURBS curve is defined by its Order a set of weighted ControlPoints and a KnotVectors The w component in control point is used as control points weight whatever it is a TwoDimensional or ThreeDimensional
 type: docs
-weight: 490
+weight: 520
 url: /net/aspose.threed.entities/nurbscurve/
 ---
 ## NurbsCurve class
@@ -28,6 +28,7 @@ public class NurbsCurve : Curve
 | [Color](../../aspose.threed.entities/curve/color/) { get; set; } | Gets or sets the color of the line, default value is white(1, 1, 1) |
 | [ControlPoints](../../aspose.threed.entities/nurbscurve/controlpoints/) { get; } | Gets all control points |
 | [CurveType](../../aspose.threed.entities/nurbscurve/curvetype/) { get; set; } | Gets or sets the type of the curve. |
+| [Degree](../../aspose.threed.entities/nurbscurve/degree/) { get; set; } | Gets or sets the degree of a NURBS curve, the degree are defined as Order - 1 |
 | [Dimension](../../aspose.threed.entities/nurbscurve/dimension/) { get; set; } | Gets or sets the curve's dimension. |
 | [Excluded](../../aspose.threed/entity/excluded/) { get; set; } | Gets or sets whether to exclude this entity during exporting. |
 | [KnotVectors](../../aspose.threed.entities/nurbscurve/knotvectors/) { get; } | Gets the knot vector, it is a sequence of parameter values that determines where and how the control points affect the NURBS curve. |

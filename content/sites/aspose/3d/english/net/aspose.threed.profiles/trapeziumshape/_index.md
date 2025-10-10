@@ -3,7 +3,7 @@ title: Class TrapeziumShape
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.TrapeziumShape class. IFC compatible Trapezium shape defined by parameters
 type: docs
-weight: 1730
+weight: 1830
 url: /net/aspose.threed.profiles/trapeziumshape/
 ---
 ## TrapeziumShape class

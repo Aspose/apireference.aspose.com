@@ -3,7 +3,7 @@ title: Class Frustum
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Frustum class. The base class of Camera and Light
 type: docs
-weight: 380
+weight: 400
 url: /net/aspose.threed.entities/frustum/
 ---
 ## Frustum class

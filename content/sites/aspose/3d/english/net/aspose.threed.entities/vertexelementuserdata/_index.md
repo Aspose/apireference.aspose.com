@@ -3,7 +3,7 @@ title: Class VertexElementUserData
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementUserData class. Defines custom user data for specified components. Usually its applicationspecific data for special purpose
 type: docs
-weight: 940
+weight: 970
 url: /net/aspose.threed.entities/vertexelementuserdata/
 ---
 ## VertexElementUserData class

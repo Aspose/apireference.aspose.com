@@ -3,7 +3,7 @@ title: Aspose.ThreeD.Profiles
 second_title: Aspose.3D for .NET API Reference
 description: All 2D profile classes are defined in this namespace
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.threed.profiles/
 ---
 All 2D profile classes are defined in this namespace.

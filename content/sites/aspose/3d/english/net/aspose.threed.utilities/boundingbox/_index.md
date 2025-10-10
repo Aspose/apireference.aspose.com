@@ -3,7 +3,7 @@ title: Struct BoundingBox
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.BoundingBox struct. The axisaligned bounding box
 type: docs
-weight: 2570
+weight: 2670
 url: /net/aspose.threed.utilities/boundingbox/
 ---
 ## BoundingBox structure

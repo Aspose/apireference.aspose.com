@@ -3,7 +3,7 @@ title: PointCloud.GetEntityRendererKey
 second_title: Aspose.3D for .NET API Reference
 description: PointCloud method. Gets the key of the entity renderer registered in the renderer
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.threed.entities/pointcloud/getentityrendererkey/
 ---
 ## PointCloud.GetEntityRendererKey method

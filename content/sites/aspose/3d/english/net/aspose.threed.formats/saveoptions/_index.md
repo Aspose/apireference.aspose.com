@@ -3,7 +3,7 @@ title: Class SaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.SaveOptions class. The base class to configure options in file saving for different types
 type: docs
-weight: 1400
+weight: 1490
 url: /net/aspose.threed.formats/saveoptions/
 ---
 ## SaveOptions class

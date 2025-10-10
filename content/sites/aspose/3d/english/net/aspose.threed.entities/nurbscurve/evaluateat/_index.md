@@ -3,7 +3,7 @@ title: NurbsCurve.EvaluateAt
 second_title: Aspose.3D for .NET API Reference
 description: NurbsCurve method. Evaluate the curves point at specified position
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.threed.entities/nurbscurve/evaluateat/
 ---
 ## NurbsCurve.EvaluateAt method

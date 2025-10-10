@@ -3,7 +3,7 @@ title: Class VertexElement
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElement class. Base class of vertex elements. A vertex element type is identified by VertexElementType. A VertexElement describes how the vertex element is mapped to a geometry surface and how the mapping information is arranged in memory. A VertexElement contains Normals UVs or other kind of information
 type: docs
-weight: 790
+weight: 820
 url: /net/aspose.threed.entities/vertexelement/
 ---
 ## VertexElement class

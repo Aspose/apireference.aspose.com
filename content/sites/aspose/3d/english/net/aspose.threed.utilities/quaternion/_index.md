@@ -3,7 +3,7 @@ title: Struct Quaternion
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.Quaternion struct. Quaternion is usually used to perform rotation in computer graphics
 type: docs
-weight: 2710
+weight: 2810
 url: /net/aspose.threed.utilities/quaternion/
 ---
 ## Quaternion structure

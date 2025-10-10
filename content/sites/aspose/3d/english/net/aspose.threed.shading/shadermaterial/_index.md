@@ -3,7 +3,7 @@ title: Class ShaderMaterial
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.ShaderMaterial class. A shader material allows to describe the material by external rendering engine or shader language. ShaderMaterial uses ShaderTechnique to describe the concrete rendering details and the most suitable one will be used according to the final rendering platform. For example your ShaderMaterial instance can have two technique one is defined by HLSL and another is defined by GLSL Under nonwindow platform the GLSL should be used instead of HLSL
 type: docs
-weight: 2480
+weight: 2580
 url: /net/aspose.threed.shading/shadermaterial/
 ---
 ## ShaderMaterial class

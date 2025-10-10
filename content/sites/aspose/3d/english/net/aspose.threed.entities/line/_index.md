@@ -3,7 +3,7 @@ title: Class Line
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Line class. A polyline is a path defined by a set of points with ControlPoints and connected by Segments which means it can also be a set of connected line segments. The line is usually a linear object which means it cannot be used to represent a curve in order to represent a curve uses NurbsCurve
 type: docs
-weight: 450
+weight: 480
 url: /net/aspose.threed.entities/line/
 ---
 ## Line class

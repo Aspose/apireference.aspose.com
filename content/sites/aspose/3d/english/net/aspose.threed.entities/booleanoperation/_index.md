@@ -3,7 +3,7 @@ title: Enum BooleanOperation
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.BooleanOperation enum. Meshs Boolean operation
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.threed.entities/booleanoperation/
 ---
 ## BooleanOperation enumeration

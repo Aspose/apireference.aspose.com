@@ -3,7 +3,7 @@ title: Class ArbitraryProfile
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.ArbitraryProfile class. This class allows you to construct a 2D profile directly from arbitrary curve
 type: docs
-weight: 1570
+weight: 1670
 url: /net/aspose.threed.profiles/arbitraryprofile/
 ---
 ## ArbitraryProfile class
@@ -27,6 +27,7 @@ public class ArbitraryProfile : Profile
 | --- | --- |
 | [Curve](../../aspose.threed.profiles/arbitraryprofile/curve/) { get; set; } | The Curve used to construct the profile |
 | [Excluded](../../aspose.threed/entity/excluded/) { get; set; } | Gets or sets whether to exclude this entity during exporting. |
+| [Holes](../../aspose.threed.profiles/arbitraryprofile/holes/) { get; } | Holes of the profile, also represented as curve |
 | virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name. |
 | [ParentNode](../../aspose.threed/entity/parentnode/) { get; set; } | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
 | [ParentNodes](../../aspose.threed/entity/parentnodes/) { get; } | Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing |

@@ -3,7 +3,7 @@ title: Enum PixelMapMode
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.PixelMapMode enum. 
 type: docs
-weight: 2120
+weight: 2220
 url: /net/aspose.threed.render/pixelmapmode/
 ---
 ## PixelMapMode enumeration

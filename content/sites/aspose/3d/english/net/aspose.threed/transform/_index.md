@@ -3,7 +3,7 @@ title: Class Transform
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Transform class. A transform contains information that allow access to objects translate/scale/rotation or transform matrix at minimum cost This is used by local transform
 type: docs
-weight: 2550
+weight: 2650
 url: /net/aspose.threed/transform/
 ---
 ## Transform class

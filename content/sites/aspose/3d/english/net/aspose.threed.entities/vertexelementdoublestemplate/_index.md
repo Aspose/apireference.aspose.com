@@ -3,7 +3,7 @@ title: Class VertexElementDoublesTemplate
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementDoublesTemplate class. A helper class for defining concrete VertexElement implementations
 type: docs
-weight: 810
+weight: 840
 url: /net/aspose.threed.entities/vertexelementdoublestemplate/
 ---
 ## VertexElementDoublesTemplate class
@@ -11,7 +11,7 @@ url: /net/aspose.threed.entities/vertexelementdoublestemplate/
 A helper class for defining concrete [`VertexElement`](../vertexelement/) implementations.
 
 ```csharp
-public abstract class VertexElementDoublesTemplate : VertexElement
+public class VertexElementDoublesTemplate : VertexElement
 ```
 
 ## Properties

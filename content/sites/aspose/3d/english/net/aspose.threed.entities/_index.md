@@ -12,6 +12,8 @@ All geometry and entities are defined in this namespace
 
 | Class | Description |
 | --- | --- |
+| [BooleanOperand](./booleanoperand/) | This class encapsulates the transformed mesh as Boolean operation's operand. |
+| [BooleanOperator](./booleanoperator/) | Boolean operator allows you to apply Boolean operation on two [`IMeshConvertible`](../aspose.threed.entities/imeshconvertible/) instances. |
 | [Box](./box/) | Box. |
 | [Camera](./camera/) | The camera describes the eye point of the viewer looking at the scene. |
 | [Circle](./circle/) | A [`Circle`](../aspose.threed.entities/circle/) curve consists of a set of points in the edge of the circle shape. |
@@ -22,6 +24,7 @@ All geometry and entities are defined in this namespace
 | [Ellipse](./ellipse/) | An [`Ellipse`](../aspose.threed.entities/ellipse/) defines a set of points that form the shape of ellipse. |
 | [Frustum](./frustum/) | The base class of [`Camera`](../aspose.threed.entities/camera/) and [`Light`](../aspose.threed.entities/light/) |
 | [Geometry](./geometry/) | The base class of all renderable geometric objects (like [`Mesh`](../aspose.threed.entities/mesh/), [`NurbsSurface`](../aspose.threed.entities/nurbssurface/), [`Patch`](../aspose.threed.entities/patch/) and etc.). |
+| [HalfSpace](./halfspace/) | [`HalfSpace`](../aspose.threed.entities/halfspace/) represents a infinity space which is split by a plane, this can be used with [`BooleanOperator`](../aspose.threed.entities/booleanoperator/) |
 | [Light](./light/) | The light illuminates the scene. |
 | [Line](./line/) | A polyline is a path defined by a set of points with [`ControlPoints`](../aspose.threed.entities/geometry/controlpoints/), and connected by [`Segments`](../aspose.threed.entities/line/segments/), which means it can also be a set of connected line segments. The line is usually a linear object, which means it cannot be used to represent a curve, in order to represent a curve, uses [`NurbsCurve`](../aspose.threed.entities/nurbscurve/). |
 | [LinearExtrusion](./linearextrusion/) | Linear extrusion takes a 2D shape as input and extends the shape in the 3rd dimension. |

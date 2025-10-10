@@ -3,7 +3,7 @@ title: Class Text
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.Text class. Text profile this profile describes contours using font and text
 type: docs
-weight: 1720
+weight: 1820
 url: /net/aspose.threed.profiles/text/
 ---
 ## Text class

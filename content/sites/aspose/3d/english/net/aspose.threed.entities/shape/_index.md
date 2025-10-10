@@ -3,7 +3,7 @@ title: Class Shape
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Shape class. The shape describes the deformation on a set of control points which is similar to the cluster deformer in Maya. For example we can add a shape to a created geometry. And the shape and the geometry have the same topological information but different position of the control points. With varying amounts of influence the geometry performs a deformation effect
 type: docs
-weight: 670
+weight: 700
 url: /net/aspose.threed.entities/shape/
 ---
 ## Shape class

@@ -3,7 +3,7 @@ title: Mesh.op_Subtraction
 second_title: Aspose.3D for .NET API Reference
 description: Mesh method. Calculate the difference of two meshes
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.threed.entities/mesh/op_subtraction/
 ---
 ## Mesh Subtraction operator

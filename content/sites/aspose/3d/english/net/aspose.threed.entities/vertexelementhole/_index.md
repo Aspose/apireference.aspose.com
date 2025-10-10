@@ -3,7 +3,7 @@ title: Class VertexElementHole
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementHole class. Defines if specified polygon is hole
 type: docs
-weight: 830
+weight: 860
 url: /net/aspose.threed.entities/vertexelementhole/
 ---
 ## VertexElementHole class

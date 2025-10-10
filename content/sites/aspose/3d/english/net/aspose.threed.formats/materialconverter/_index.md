@@ -3,7 +3,7 @@ title: Delegate MaterialConverter
 second_title: Aspose.3D for .NET API Reference
 description: Custom converter to convert the geometrys original material to GLTFs PBR material
 type: docs
-weight: 1240
+weight: 1330
 url: /net/aspose.threed.formats/materialconverter/
 ---
 ## MaterialConverter delegate

@@ -3,7 +3,7 @@ title: Class VertexElementBinormal
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementBinormal class. Defines the binormal vectors for specified components
 type: docs
-weight: 800
+weight: 830
 url: /net/aspose.threed.entities/vertexelementbinormal/
 ---
 ## VertexElementBinormal class

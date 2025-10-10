@@ -3,7 +3,7 @@ title: Class TextureData
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.TextureData class. This class contains the raw data and format definition of a texture
 type: docs
-weight: 2360
+weight: 2460
 url: /net/aspose.threed.render/texturedata/
 ---
 ## TextureData class

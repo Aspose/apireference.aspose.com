@@ -3,7 +3,7 @@ title: Class TrialException
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.TrialException class. This is raised in Scene.Open/Scene.Save when no licenses are applied. You can turn off this exception by setting SuppressTrialException to true
 type: docs
-weight: 2560
+weight: 2660
 url: /net/aspose.threed/trialexception/
 ---
 ## TrialException class

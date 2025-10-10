@@ -3,7 +3,7 @@ title: Class NurbsDirection
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.NurbsDirection class. A 3D NurbsSurface has two direction the U and V the NurbsDirection defines data for each direction. A direction is actually a NURBS curve that means its also defined by its Order a KnotVectors and a set of weighted control pointsdefined in NurbsSurface
 type: docs
-weight: 500
+weight: 530
 url: /net/aspose.threed.entities/nurbsdirection/
 ---
 ## NurbsDirection class
@@ -18,13 +18,14 @@ public class NurbsDirection
 
 | Name | Description |
 | --- | --- |
-| [NurbsDirection](nurbsdirection/)() | The default constructor. |
+| [NurbsDirection](nurbsdirection/)() | Construct a new instance of `NurbsDirection` |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Count](../../aspose.threed.entities/nurbsdirection/count/) { get; set; } | Gets or sets the count of control points in current direction. |
+| [Degree](../../aspose.threed.entities/nurbsdirection/degree/) { get; set; } | Gets or sets the degree of a NURBS curve, the degree are defined as Order - 1 |
 | [Divisions](../../aspose.threed.entities/nurbsdirection/divisions/) { get; set; } | Gets or sets the number of divisions between adjacent control points in current direction. |
 | [KnotVectors](../../aspose.threed.entities/nurbsdirection/knotvectors/) { get; } | Gets the knot vector, it is a sequence of parameter values that determines where and how the control points affect the NURBS curve. |
 | [Multiplicity](../../aspose.threed.entities/nurbsdirection/multiplicity/) { get; } | Gets the multiplicity. |

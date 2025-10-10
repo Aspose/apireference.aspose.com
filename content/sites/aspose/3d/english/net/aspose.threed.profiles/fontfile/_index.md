@@ -3,7 +3,7 @@ title: Class FontFile
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.FontFile class. Font file contains definitions for glyphs this is used to create text profile
 type: docs
-weight: 1620
+weight: 1720
 url: /net/aspose.threed.profiles/fontfile/
 ---
 ## FontFile class

@@ -3,7 +3,7 @@ title: Struct Vector4
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.Vector4 struct. A vector with four components
 type: docs
-weight: 2790
+weight: 2890
 url: /net/aspose.threed.utilities/vector4/
 ---
 ## Vector4 structure

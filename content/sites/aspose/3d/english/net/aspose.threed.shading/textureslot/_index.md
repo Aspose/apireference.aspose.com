@@ -3,7 +3,7 @@ title: Class TextureSlot
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.TextureSlot class. Texture slot in Material can be enumerated through material instance
 type: docs
-weight: 2530
+weight: 2630
 url: /net/aspose.threed.shading/textureslot/
 ---
 ## TextureSlot class

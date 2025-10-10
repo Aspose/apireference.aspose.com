@@ -3,7 +3,7 @@ title: Class LoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.LoadOptions class. The base class to configure options in file loading for different types
 type: docs
-weight: 1230
+weight: 1320
 url: /net/aspose.threed.formats/loadoptions/
 ---
 ## LoadOptions class

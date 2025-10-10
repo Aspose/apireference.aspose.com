@@ -3,7 +3,7 @@ title: Delegate FileSystemFactory
 second_title: Aspose.3D for .NET API Reference
 description: SaveOptions and LoadOptions will create a LocalFileSystem for default. This can be a security issue in server environment. Use your own FileSystemFactory to FileSystemFactory to improve server side security
 type: docs
-weight: 1160
+weight: 1190
 url: /net/aspose.threed.formats/filesystemfactory/
 ---
 ## FileSystemFactory delegate

@@ -3,7 +3,7 @@ title: Struct RelativeRectangle
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.RelativeRectangle struct. Relative rectangle The formula between relative component to absolute value is Scale  Reference Width  offset So if we want it to represent an absolute value leave all scale fields zero and use offset fields instead
 type: docs
-weight: 2730
+weight: 2830
 url: /net/aspose.threed.utilities/relativerectangle/
 ---
 ## RelativeRectangle structure

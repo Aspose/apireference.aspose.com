@@ -3,7 +3,7 @@ title: Aspose.ThreeD.Shading
 second_title: Aspose.3D for .NET API Reference
 description: All shading related classes are defined in this namespace
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.threed.shading/
 ---
 All shading related classes are defined in this namespace.

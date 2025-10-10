@@ -3,7 +3,7 @@ title: Enum RotationMode
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.RotationMode enum. The frustums rotation mode
 type: docs
-weight: 660
+weight: 690
 url: /net/aspose.threed.entities/rotationmode/
 ---
 ## RotationMode enumeration

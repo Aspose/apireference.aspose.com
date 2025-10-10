@@ -3,7 +3,7 @@ title: Enum NurbsType
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.NurbsType enum. NURBS types
 type: docs
-weight: 520
+weight: 550
 url: /net/aspose.threed.entities/nurbstype/
 ---
 ## NurbsType enumeration

@@ -3,7 +3,7 @@ title: Class Light
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Light class. The light illuminates the scene
 type: docs
-weight: 430
+weight: 460
 url: /net/aspose.threed.entities/light/
 ---
 ## Light class

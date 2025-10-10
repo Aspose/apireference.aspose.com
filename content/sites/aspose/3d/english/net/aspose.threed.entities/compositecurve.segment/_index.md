@@ -3,7 +3,7 @@ title: Class CompositeCurve.Segment
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.CompositeCurveSegment class. 
 type: docs
-weight: 310
+weight: 330
 url: /net/aspose.threed.entities/compositecurve.segment/
 ---
 ## CompositeCurve.Segment class

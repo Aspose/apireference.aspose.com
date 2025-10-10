@@ -3,7 +3,7 @@ title: Enum LightType
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.LightType enum. Light types
 type: docs
-weight: 440
+weight: 470
 url: /net/aspose.threed.entities/lighttype/
 ---
 ## LightType enumeration

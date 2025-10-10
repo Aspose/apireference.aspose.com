@@ -3,7 +3,7 @@ title: Class Renderer
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.Renderer class. The context about renderer
 type: docs
-weight: 2240
+weight: 2340
 url: /net/aspose.threed.render/renderer/
 ---
 ## Renderer class

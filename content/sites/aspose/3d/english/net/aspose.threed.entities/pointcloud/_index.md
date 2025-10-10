@@ -3,7 +3,7 @@ title: Class PointCloud
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.PointCloud class. The point cloud contains no topology information but only the control points and the vertex elements
 type: docs
-weight: 570
+weight: 600
 url: /net/aspose.threed.entities/pointcloud/
 ---
 ## PointCloud class
@@ -28,6 +28,7 @@ public class PointCloud : Geometry
 | [CastShadows](../../aspose.threed.entities/geometry/castshadows/) { get; set; } | Gets or sets whether this geometry can cast shadow |
 | [ControlPoints](../../aspose.threed.entities/geometry/controlpoints/) { get; } | Gets all control points |
 | [Deformers](../../aspose.threed.entities/geometry/deformers/) { get; } | Gets all deformers associated with this geometry. |
+| [Dimension](../../aspose.threed.entities/pointcloud/dimension/) { get; set; } | If a dimension value is present for the point cloud, it indicates an organized point cloud. Without a specified size, it is considered an unorganized point cloud. Organized point cloud means it has an image-like structure. |
 | [Excluded](../../aspose.threed/entity/excluded/) { get; set; } | Gets or sets whether to exclude this entity during exporting. |
 | virtual [Name](../../aspose.threed/a3dobject/name/) { get; set; } | Gets or sets the name. |
 | [ParentNode](../../aspose.threed/entity/parentnode/) { get; set; } | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |

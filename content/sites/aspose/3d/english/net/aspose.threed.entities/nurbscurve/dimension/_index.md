@@ -3,7 +3,7 @@ title: NurbsCurve.Dimension
 second_title: Aspose.3D for .NET API Reference
 description: NurbsCurve property. Gets or sets the curves dimension
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.threed.entities/nurbscurve/dimension/
 ---
 ## NurbsCurve.Dimension property

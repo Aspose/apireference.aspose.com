@@ -3,7 +3,7 @@ title: Class Dish
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Dish class. Parameterized dish
 type: docs
-weight: 350
+weight: 370
 url: /net/aspose.threed.entities/dish/
 ---
 ## Dish class

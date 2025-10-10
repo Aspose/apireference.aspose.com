@@ -3,7 +3,7 @@ title: Class Property
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Property class. Class to hold userdefined properties
 type: docs
-weight: 1760
+weight: 1860
 url: /net/aspose.threed/property/
 ---
 ## Property class

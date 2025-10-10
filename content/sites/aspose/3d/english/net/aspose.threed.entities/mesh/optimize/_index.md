@@ -3,7 +3,7 @@ title: Mesh.Optimize
 second_title: Aspose.3D for .NET API Reference
 description: Mesh method. Optimize the meshs memory usage by eliminating duplicated control points
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.threed.entities/mesh/optimize/
 ---
 ## Optimize(bool) {#optimize}

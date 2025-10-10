@@ -3,7 +3,7 @@ title: Class GltfLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.GltfLoadOptions class. Load options for glTF format
 type: docs
-weight: 1180
+weight: 1270
 url: /net/aspose.threed.formats/gltfloadoptions/
 ---
 ## GltfLoadOptions class

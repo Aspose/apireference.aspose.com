@@ -3,7 +3,7 @@ title: Aspose.ThreeD.Render
 second_title: Aspose.3D for .NET API Reference
 description: All rendering related classes are defined in this namespace
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.threed.render/
 ---
 All rendering related classes are defined in this namespace

@@ -3,7 +3,7 @@ title: Class PbrMaterial
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.PbrMaterial class. Material for physically based rendering based on albedo color/metallic/roughness
 type: docs
-weight: 2450
+weight: 2550
 url: /net/aspose.threed.shading/pbrmaterial/
 ---
 ## PbrMaterial class

@@ -3,7 +3,7 @@ title: Class SemanticAttribute
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.SemanticAttribute class. Allow user to use their own structure for static declaration of VertexDeclaration
 type: docs
-weight: 2750
+weight: 2850
 url: /net/aspose.threed.utilities/semanticattribute/
 ---
 ## SemanticAttribute class

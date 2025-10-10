@@ -3,7 +3,7 @@ title: Enum MappingMode
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.MappingMode enum. Determines how the element is mapped to a surface. The MappingMode defined how VertexElement is mapped to the surface of geometry
 type: docs
-weight: 470
+weight: 500
 url: /net/aspose.threed.entities/mappingmode/
 ---
 ## MappingMode enumeration
