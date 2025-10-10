@@ -3,7 +3,7 @@ title: Class U3dSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.U3dSaveOptions class. Save options for universal 3d
 type: docs
-weight: 1440
+weight: 1530
 url: /net/aspose.threed.formats/u3dsaveoptions/
 ---
 ## U3dSaveOptions class

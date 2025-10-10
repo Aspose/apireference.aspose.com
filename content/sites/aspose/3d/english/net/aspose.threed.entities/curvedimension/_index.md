@@ -3,7 +3,7 @@ title: Enum CurveDimension
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.CurveDimension enum. The dimension of the curves
 type: docs
-weight: 330
+weight: 350
 url: /net/aspose.threed.entities/curvedimension/
 ---
 ## CurveDimension enumeration

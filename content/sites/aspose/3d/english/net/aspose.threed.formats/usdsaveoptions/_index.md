@@ -3,7 +3,7 @@ title: Class UsdSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.UsdSaveOptions class. Save options for USD/USDZ formats
 type: docs
-weight: 1450
+weight: 1540
 url: /net/aspose.threed.formats/usdsaveoptions/
 ---
 ## UsdSaveOptions class

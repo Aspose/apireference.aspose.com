@@ -3,7 +3,7 @@ title: Class UShape
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.UShape class. IFC compatible Ushape defined by parameters
 type: docs
-weight: 1740
+weight: 1840
 url: /net/aspose.threed.profiles/ushape/
 ---
 ## UShape class

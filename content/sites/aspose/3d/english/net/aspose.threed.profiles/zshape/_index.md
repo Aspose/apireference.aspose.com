@@ -3,7 +3,7 @@ title: Class ZShape
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.ZShape class. IFC compatible Zshape profile defined by parameters
 type: docs
-weight: 1750
+weight: 1850
 url: /net/aspose.threed.profiles/zshape/
 ---
 ## ZShape class

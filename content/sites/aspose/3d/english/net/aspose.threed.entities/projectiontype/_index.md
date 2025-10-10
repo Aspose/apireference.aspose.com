@@ -3,7 +3,7 @@ title: Enum ProjectionType
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.ProjectionType enum. Cameras projection types
 type: docs
-weight: 610
+weight: 640
 url: /net/aspose.threed.entities/projectiontype/
 ---
 ## ProjectionType enumeration

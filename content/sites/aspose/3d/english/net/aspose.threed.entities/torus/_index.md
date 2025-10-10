@@ -3,7 +3,7 @@ title: Class Torus
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Torus class. Parameterized torus
 type: docs
-weight: 740
+weight: 770
 url: /net/aspose.threed.entities/torus/
 ---
 ## Torus class

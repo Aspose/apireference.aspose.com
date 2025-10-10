@@ -3,7 +3,7 @@ title: Class LambertMaterial
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.LambertMaterial class. Material for lambert shading model
 type: docs
-weight: 2430
+weight: 2530
 url: /net/aspose.threed.shading/lambertmaterial/
 ---
 ## LambertMaterial class

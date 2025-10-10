@@ -3,7 +3,7 @@ title: Class ShaderVariable
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.ShaderVariable class. Shader variable
 type: docs
-weight: 2320
+weight: 2420
 url: /net/aspose.threed.render/shadervariable/
 ---
 ## ShaderVariable class

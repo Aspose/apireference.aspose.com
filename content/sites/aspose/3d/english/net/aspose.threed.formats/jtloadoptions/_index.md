@@ -3,7 +3,7 @@ title: Class JtLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.JtLoadOptions class. Load options for Siemens JT
 type: docs
-weight: 1220
+weight: 1310
 url: /net/aspose.threed.formats/jtloadoptions/
 ---
 ## JtLoadOptions class

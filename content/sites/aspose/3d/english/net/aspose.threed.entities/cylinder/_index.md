@@ -3,7 +3,7 @@ title: Class Cylinder
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Cylinder class. Parameterized Cylinder. It can also be used to represent the cone when one of radiusTop/radiusBottom is zero
 type: docs
-weight: 340
+weight: 360
 url: /net/aspose.threed.entities/cylinder/
 ---
 ## Cylinder class

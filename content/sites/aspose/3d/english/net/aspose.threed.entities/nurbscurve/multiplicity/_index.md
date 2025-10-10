@@ -3,7 +3,7 @@ title: NurbsCurve.Multiplicity
 second_title: Aspose.3D for .NET API Reference
 description: NurbsCurve property. Gets the multiplicity
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.threed.entities/nurbscurve/multiplicity/
 ---
 ## NurbsCurve.Multiplicity property

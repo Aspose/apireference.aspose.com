@@ -22,6 +22,7 @@ The base namespace of Aspose.3D
 | [FileFormat](./fileformat/) | File format definition |
 | [FileFormatType](./fileformattype/) | File format type |
 | [GlobalTransform](./globaltransform/) | Global transform is similar to [`Transform`](../aspose.threed/transform/) but it's immutable while it represents the final evaluated transformation. Right-hand coordinate system is used while evaluating global transform |
+| [Group](./group/) | A [`Group`](../aspose.threed/group/) represents the logical relationships of [`Node`](../aspose.threed/node/). |
 | [ImageRenderOptions](./imagerenderoptions/) | Options for [`Render`](../aspose.threed/scene/render/) and [`Render`](../aspose.threed/scene/render/) |
 | [ImportException](./importexception/) | Exception when Aspose.3D failed to open the specified source |
 | [License](./license/) | Provides methods to license the component. |

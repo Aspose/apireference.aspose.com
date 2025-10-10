@@ -3,7 +3,7 @@ title: Class EntityRendererKey
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.EntityRendererKey class. The key of registered entity renderer
 type: docs
-weight: 1890
+weight: 1990
 url: /net/aspose.threed.render/entityrendererkey/
 ---
 ## EntityRendererKey class

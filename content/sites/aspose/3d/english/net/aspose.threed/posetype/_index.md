@@ -3,7 +3,7 @@ title: Enum PoseType
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.PoseType enum. Pose type
 type: docs
-weight: 1560
+weight: 1660
 url: /net/aspose.threed/posetype/
 ---
 ## PoseType enumeration

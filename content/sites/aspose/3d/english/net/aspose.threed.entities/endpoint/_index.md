@@ -3,7 +3,7 @@ title: Struct EndPoint
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.EndPoint struct. The end point to trim the curve can be a parameter value or a Cartesian point
 type: docs
-weight: 370
+weight: 390
 url: /net/aspose.threed.entities/endpoint/
 ---
 ## EndPoint structure

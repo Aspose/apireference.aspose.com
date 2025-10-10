@@ -3,7 +3,7 @@ title: NurbsCurve.Order
 second_title: Aspose.3D for .NET API Reference
 description: NurbsCurve property. Gets or sets the order of a NURBS curve it defines the number of nearby control points that influence any given point on the curve
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.threed.entities/nurbscurve/order/
 ---
 ## NurbsCurve.Order property

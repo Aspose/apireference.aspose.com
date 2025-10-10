@@ -3,7 +3,7 @@ title: Enum ReferenceMode
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.ReferenceMode enum. ReferenceMode defines how mapping information is stored and referenced by
 type: docs
-weight: 640
+weight: 670
 url: /net/aspose.threed.entities/referencemode/
 ---
 ## ReferenceMode enumeration

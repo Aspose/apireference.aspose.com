@@ -3,7 +3,7 @@ title: Enum SplitMeshPolicy
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.SplitMeshPolicy enum. Share vertex/control point data between submeshes or each submesh has its own compacted data
 type: docs
-weight: 710
+weight: 740
 url: /net/aspose.threed.entities/splitmeshpolicy/
 ---
 ## SplitMeshPolicy enumeration

@@ -3,7 +3,7 @@ title: Enum IndexDataType
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.IndexDataType enum. The data type of the elements in IIndexBuffer
 type: docs
-weight: 2090
+weight: 2190
 url: /net/aspose.threed.render/indexdatatype/
 ---
 ## IndexDataType enumeration

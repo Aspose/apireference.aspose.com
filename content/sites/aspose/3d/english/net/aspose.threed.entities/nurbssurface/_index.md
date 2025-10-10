@@ -3,7 +3,7 @@ title: Class NurbsSurface
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.NurbsSurface class. NurbsSurface is a surface represented by NURBSNonuniform rational basis spline A NurbsSurface is defined by two NurbsDirectionU and V. The w component in control point is used as control points weight whatever the directions type is a TwoDimensional or ThreeDimensional
 type: docs
-weight: 510
+weight: 540
 url: /net/aspose.threed.entities/nurbssurface/
 ---
 ## NurbsSurface class

@@ -3,7 +3,7 @@ title: Class XLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.XLoadOptions class. The Load options for DirectX X files
 type: docs
-weight: 1460
+weight: 1550
 url: /net/aspose.threed.formats/xloadoptions/
 ---
 ## XLoadOptions class

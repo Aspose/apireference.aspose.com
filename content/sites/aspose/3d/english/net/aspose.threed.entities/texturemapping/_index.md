@@ -3,7 +3,7 @@ title: Enum TextureMapping
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.TextureMapping enum. The texture mapping type for VertexElementUV Describes which kind of texture mapping is used
 type: docs
-weight: 730
+weight: 760
 url: /net/aspose.threed.entities/texturemapping/
 ---
 ## TextureMapping enumeration

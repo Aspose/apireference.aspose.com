@@ -3,7 +3,7 @@ title: NurbsDirection.Multiplicity
 second_title: Aspose.3D for .NET API Reference
 description: NurbsDirection property. Gets the multiplicity
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.threed.entities/nurbsdirection/multiplicity/
 ---
 ## NurbsDirection.Multiplicity property

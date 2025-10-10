@@ -3,7 +3,7 @@ title: Class VertexElementEdgeCrease
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementEdgeCrease class. Defines the edge crease for specified components
 type: docs
-weight: 820
+weight: 850
 url: /net/aspose.threed.entities/vertexelementedgecrease/
 ---
 ## VertexElementEdgeCrease class

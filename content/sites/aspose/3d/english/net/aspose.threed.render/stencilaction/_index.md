@@ -3,7 +3,7 @@ title: Enum StencilAction
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.StencilAction enum. The stencil test actions
 type: docs
-weight: 2330
+weight: 2430
 url: /net/aspose.threed.render/stencilaction/
 ---
 ## StencilAction enumeration

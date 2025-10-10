@@ -3,7 +3,7 @@ title: Class Microsoft3MFFormat
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.Microsoft3MFFormat class. File format instance for Microsoft 3MF with 3MF related utilities
 type: docs
-weight: 1250
+weight: 1340
 url: /net/aspose.threed.formats/microsoft3mfformat/
 ---
 ## Microsoft3MFFormat class

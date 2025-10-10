@@ -3,7 +3,7 @@ title: Enum PresetShaders
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.PresetShaders enum. This defines the preset internal shaders used by the renderer
 type: docs
-weight: 2160
+weight: 2260
 url: /net/aspose.threed.render/presetshaders/
 ---
 ## PresetShaders enumeration

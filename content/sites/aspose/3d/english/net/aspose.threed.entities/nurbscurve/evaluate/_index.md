@@ -3,7 +3,7 @@ title: NurbsCurve.Evaluate
 second_title: Aspose.3D for .NET API Reference
 description: NurbsCurve method. Evaluate the NURBS curve
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.threed.entities/nurbscurve/evaluate/
 ---
 ## NurbsCurve.Evaluate method

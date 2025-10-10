@@ -3,7 +3,7 @@ title: Enum DracoCompressionLevel
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.DracoCompressionLevel enum. Compression level for draco file
 type: docs
-weight: 1110
+weight: 1140
 url: /net/aspose.threed.formats/dracocompressionlevel/
 ---
 ## DracoCompressionLevel enumeration

@@ -3,7 +3,7 @@ title: Mesh.op_BitwiseOr
 second_title: Aspose.3D for .NET API Reference
 description: Mesh method. Calculate the union of two meshes
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.threed.entities/mesh/op_bitwiseor/
 ---
 ## Mesh BitwiseOr operator

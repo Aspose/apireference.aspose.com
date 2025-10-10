@@ -3,7 +3,7 @@ title: Mesh.op_BitwiseAnd
 second_title: Aspose.3D for .NET API Reference
 description: Mesh method. Calculate the intersection of two meshes
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.threed.entities/mesh/op_bitwiseand/
 ---
 ## Mesh BitwiseAnd operator

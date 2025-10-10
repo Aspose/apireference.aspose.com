@@ -16,6 +16,7 @@ is_root: true
 | [Aspose.ThreeD.Deformers](./aspose.threed.deformers/) | All deformer classes are defined in this namespace |
 | [Aspose.ThreeD.Entities](./aspose.threed.entities/) | All geometry and entities are defined in this namespace |
 | [Aspose.ThreeD.Formats](./aspose.threed.formats/) | IO related customization are defined in this namespace. |
+| [Aspose.ThreeD.Formats.GLTF](./aspose.threed.formats.gltf/) |  |
 | [Aspose.ThreeD.Profiles](./aspose.threed.profiles/) | All 2D profile classes are defined in this namespace. |
 | [Aspose.ThreeD.Render](./aspose.threed.render/) | All rendering related classes are defined in this namespace |
 | [Aspose.ThreeD.Shading](./aspose.threed.shading/) | All shading related classes are defined in this namespace. |

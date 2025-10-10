@@ -3,7 +3,7 @@ title: Class ObjSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.ObjSaveOptions class. Save options for wavefront obj file
 type: docs
-weight: 1280
+weight: 1370
 url: /net/aspose.threed.formats/objsaveoptions/
 ---
 ## ObjSaveOptions class

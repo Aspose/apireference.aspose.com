@@ -3,7 +3,7 @@ title: Class VertexElementTangent
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementTangent class. Defines tangent vectors for specified components
 type: docs
-weight: 900
+weight: 930
 url: /net/aspose.threed.entities/vertexelementtangent/
 ---
 ## VertexElementTangent class

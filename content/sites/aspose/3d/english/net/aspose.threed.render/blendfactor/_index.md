@@ -3,7 +3,7 @@ title: Enum BlendFactor
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.BlendFactor enum. Blend factor specify pixel arithmetic
 type: docs
-weight: 1790
+weight: 1890
 url: /net/aspose.threed.render/blendfactor/
 ---
 ## BlendFactor enumeration

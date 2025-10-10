@@ -3,7 +3,7 @@ title: Class HollowCircleShape
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.HollowCircleShape class. IFC compatible hollow circle profile
 type: docs
-weight: 1640
+weight: 1740
 url: /net/aspose.threed.profiles/hollowcircleshape/
 ---
 ## HollowCircleShape class

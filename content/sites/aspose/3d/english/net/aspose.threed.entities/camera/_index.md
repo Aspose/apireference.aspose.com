@@ -3,7 +3,7 @@ title: Class Camera
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Camera class. The camera describes the eye point of the viewer looking at the scene
 type: docs
-weight: 280
+weight: 300
 url: /net/aspose.threed.entities/camera/
 ---
 ## Camera class

@@ -3,7 +3,7 @@ title: Enum FileContentType
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.FileContentType enum. File content type
 type: docs
-weight: 1020
+weight: 1050
 url: /net/aspose.threed/filecontenttype/
 ---
 ## FileContentType enumeration

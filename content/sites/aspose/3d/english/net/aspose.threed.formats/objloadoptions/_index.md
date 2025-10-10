@@ -3,7 +3,7 @@ title: Class ObjLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.ObjLoadOptions class. Load options for wavefront obj
 type: docs
-weight: 1270
+weight: 1360
 url: /net/aspose.threed.formats/objloadoptions/
 ---
 ## ObjLoadOptions class

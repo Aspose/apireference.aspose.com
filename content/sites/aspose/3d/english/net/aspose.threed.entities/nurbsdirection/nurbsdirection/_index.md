@@ -1,14 +1,14 @@
 ---
 title: NurbsDirection.NurbsDirection
 second_title: Aspose.3D for .NET API Reference
-description: NurbsDirection constructor. The default constructor
+description: NurbsDirection constructor. Construct a new instance of NurbsDirection
 type: docs
 weight: 10
 url: /net/aspose.threed.entities/nurbsdirection/nurbsdirection/
 ---
 ## NurbsDirection constructor
 
-The default constructor.
+Construct a new instance of [`NurbsDirection`](../)
 
 ```csharp
 public NurbsDirection()

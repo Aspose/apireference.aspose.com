@@ -3,7 +3,7 @@ title: Class PhongMaterial
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.PhongMaterial class. Material for blinnphong shading model
 type: docs
-weight: 2470
+weight: 2570
 url: /net/aspose.threed.shading/phongmaterial/
 ---
 ## PhongMaterial class

@@ -3,7 +3,7 @@ title: Class Geometry
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Geometry class. The base class of all renderable geometric objects like Mesh NurbsSurface Patch and etc
 type: docs
-weight: 390
+weight: 410
 url: /net/aspose.threed.entities/geometry/
 ---
 ## Geometry class

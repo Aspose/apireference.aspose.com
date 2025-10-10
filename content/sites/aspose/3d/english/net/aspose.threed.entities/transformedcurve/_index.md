@@ -3,7 +3,7 @@ title: Class TransformedCurve
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.TransformedCurve class. A TransformedCurve gives a curve a placement by using a transformation matrix. This allows to perform a transformation inside a TrimmedCurve or CompositeCurve
 type: docs
-weight: 750
+weight: 780
 url: /net/aspose.threed.entities/transformedcurve/
 ---
 ## TransformedCurve class

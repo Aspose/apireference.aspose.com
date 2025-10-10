@@ -3,7 +3,7 @@ title: Class Metered
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Metered class. Provides methods to set metered key
 type: docs
-weight: 1520
+weight: 1620
 url: /net/aspose.threed/metered/
 ---
 ## Metered class

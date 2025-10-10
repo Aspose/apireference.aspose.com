@@ -3,7 +3,7 @@ title: Class RvmSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.RvmSaveOptions class. Save options for Aveva PDMS RVM file
 type: docs
-weight: 1390
+weight: 1480
 url: /net/aspose.threed.formats/rvmsaveoptions/
 ---
 ## RvmSaveOptions class

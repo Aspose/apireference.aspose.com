@@ -3,7 +3,7 @@ title: Interface IRenderQueue
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.IRenderQueue interface. Entity renderer uses this queue to manage render tasks
 type: docs
-weight: 1970
+weight: 2070
 url: /net/aspose.threed.render/irenderqueue/
 ---
 ## IRenderQueue interface

@@ -3,7 +3,7 @@ title: Class Sphere
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Sphere class. Parameterized sphere
 type: docs
-weight: 700
+weight: 730
 url: /net/aspose.threed.entities/sphere/
 ---
 ## Sphere class

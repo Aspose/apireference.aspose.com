@@ -3,7 +3,7 @@ title: Struct FVector4
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.FVector4 struct. A float vector with four components
 type: docs
-weight: 2640
+weight: 2740
 url: /net/aspose.threed.utilities/fvector4/
 ---
 ## FVector4 structure

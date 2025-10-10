@@ -3,7 +3,7 @@ title: Interface IDescriptorSet
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.IDescriptorSet interface. The descriptor sets describes different resources that can be used to bind to the render pipeline like buffers textures
 type: docs
-weight: 1940
+weight: 2040
 url: /net/aspose.threed.render/idescriptorset/
 ---
 ## IDescriptorSet interface

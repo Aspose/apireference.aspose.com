@@ -3,7 +3,7 @@ title: Class CompositeCurve
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.CompositeCurve class. A CompositeCurve is consisting of several curve segments
 type: docs
-weight: 300
+weight: 320
 url: /net/aspose.threed.entities/compositecurve/
 ---
 ## CompositeCurve class

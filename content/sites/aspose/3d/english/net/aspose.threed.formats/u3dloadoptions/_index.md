@@ -3,7 +3,7 @@ title: Class U3dLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.U3dLoadOptions class. Load options for universal 3d
 type: docs
-weight: 1430
+weight: 1520
 url: /net/aspose.threed.formats/u3dloadoptions/
 ---
 ## U3dLoadOptions class

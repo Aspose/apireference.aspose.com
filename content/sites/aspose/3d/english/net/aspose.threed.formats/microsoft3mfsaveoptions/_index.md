@@ -3,7 +3,7 @@ title: Class Microsoft3MFSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.Microsoft3MFSaveOptions class. Save options for Microsoft 3MF file
 type: docs
-weight: 1260
+weight: 1350
 url: /net/aspose.threed.formats/microsoft3mfsaveoptions/
 ---
 ## Microsoft3MFSaveOptions class

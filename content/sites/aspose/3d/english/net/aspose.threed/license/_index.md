@@ -3,7 +3,7 @@ title: Class License
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.License class. Provides methods to license the component
 type: docs
-weight: 1510
+weight: 1610
 url: /net/aspose.threed/license/
 ---
 ## License class

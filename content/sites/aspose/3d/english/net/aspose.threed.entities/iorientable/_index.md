@@ -3,7 +3,7 @@ title: Interface IOrientable
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.IOrientable interface. Orientable entities shall implement this interface
 type: docs
-weight: 420
+weight: 450
 url: /net/aspose.threed.entities/iorientable/
 ---
 ## IOrientable interface

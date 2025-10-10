@@ -3,7 +3,7 @@ title: Class EllipseShape
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.EllipseShape class. IFC compatible ellipse shape that defined by parameters. The center position of the profile is in the center of the bounding box
 type: docs
-weight: 1610
+weight: 1710
 url: /net/aspose.threed.profiles/ellipseshape/
 ---
 ## EllipseShape class

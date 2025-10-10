@@ -3,7 +3,7 @@ title: Class ShaderSource
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.ShaderSource class. The source code of shader
 type: docs
-weight: 2300
+weight: 2400
 url: /net/aspose.threed.render/shadersource/
 ---
 ## ShaderSource class

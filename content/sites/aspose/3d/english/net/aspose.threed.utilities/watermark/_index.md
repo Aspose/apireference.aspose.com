@@ -3,7 +3,7 @@ title: Class Watermark
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.Watermark class. Utility to encode/decode blind watermark to/from a mesh
 type: docs
-weight: 2850
+weight: 2950
 url: /net/aspose.threed.utilities/watermark/
 ---
 ## Watermark class

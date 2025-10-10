@@ -3,7 +3,7 @@ title: Struct Rect
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.Rect struct. A class to represent the rectangle
 type: docs
-weight: 2720
+weight: 2820
 url: /net/aspose.threed.utilities/rect/
 ---
 ## Rect structure

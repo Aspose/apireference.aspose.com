@@ -3,7 +3,7 @@ title: NurbsCurve.Rational
 second_title: Aspose.3D for .NET API Reference
 description: NurbsCurve property. Gets or sets whether it is rational this value indicates whether this NurbsCurve is rational spline or nonrational spline. Nonrational Bspline is a special case of rational Bsplines
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.threed.entities/nurbscurve/rational/
 ---
 ## NurbsCurve.Rational property

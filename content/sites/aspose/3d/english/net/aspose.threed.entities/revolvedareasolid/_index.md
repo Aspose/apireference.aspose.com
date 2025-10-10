@@ -3,7 +3,7 @@ title: Class RevolvedAreaSolid
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.RevolvedAreaSolid class. This class represents a solid model by revolving a cross section provided by a profile about an axis
 type: docs
-weight: 650
+weight: 680
 url: /net/aspose.threed.entities/revolvedareasolid/
 ---
 ## RevolvedAreaSolid class

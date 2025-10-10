@@ -3,7 +3,7 @@ title: Interface IIndexBuffer
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.IIndexBuffer interface. The index buffer describes the geometry used in rendering pipeline
 type: docs
-weight: 1950
+weight: 2050
 url: /net/aspose.threed.render/iindexbuffer/
 ---
 ## IIndexBuffer interface
