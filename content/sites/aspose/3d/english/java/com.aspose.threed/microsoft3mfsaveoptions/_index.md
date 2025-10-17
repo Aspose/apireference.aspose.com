@@ -3,7 +3,7 @@ title: Microsoft3MFSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for Microsoft 3MF file.
 type: docs
-weight: 101
+weight: 105
 url: /java/com.aspose.threed/microsoft3mfsaveoptions/
 ---
 

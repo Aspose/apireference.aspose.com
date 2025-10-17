@@ -3,7 +3,7 @@ title: FbxSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for Fbx file.
 type: docs
-weight: 61
+weight: 63
 url: /java/com.aspose.threed/fbxsaveoptions/
 ---
 
@@ -27,7 +27,7 @@ Save options for Fbx file.
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
 | [getEmbedTextures()](#getEmbedTextures--) | Gets whether to embed the texture to the final output file. |
-| [getEnableCompression()](#getEnableCompression--) | Compression large binary data in the FBX file(e.g. animation data, control points, vertex element data, indices), default value is true. |
+| [getEnableCompression()](#getEnableCompression--) | Compression large binary data in the FBX file(e.g. |
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
 | [getExportLegacyMaterialProperties()](#getExportLegacyMaterialProperties--) | Gets whether export legacy material properties, used for back compatibility. |
 | [getExportTextures()](#getExportTextures--) | Try to copy textures used in scene to output directory. |
@@ -44,7 +44,7 @@ Save options for Fbx file.
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setEmbedTextures(boolean value)](#setEmbedTextures-boolean-) | Sets whether to embed the texture to the final output file. |
-| [setEnableCompression(boolean value)](#setEnableCompression-boolean-) | Compression large binary data in the FBX file(e.g. animation data, control points, vertex element data, indices), default value is true. |
+| [setEnableCompression(boolean value)](#setEnableCompression-boolean-) | Compression large binary data in the FBX file(e.g. |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
 | [setExportLegacyMaterialProperties(boolean value)](#setExportLegacyMaterialProperties-boolean-) | Sets whether export legacy material properties, used for back compatibility. |
 | [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |

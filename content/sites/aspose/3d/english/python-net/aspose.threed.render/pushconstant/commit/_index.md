@@ -23,8 +23,8 @@ def commit(self, stage, command_list):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stage | [`ShaderStage`](/3d/python-net/aspose.threed.render/shaderstage) |  |
-| command_list | [`ICommandList`](/3d/python-net/aspose.threed.render/icommandlist) |  |
+| stage | aspose.threed.render.ShaderStage |  |
+| command_list | aspose.threed.render.ICommandList |  |
 
 
 

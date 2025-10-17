@@ -23,7 +23,7 @@ def compare_to(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [`VertexField`](/3d/python-net/aspose.threed.utilities/vertexfield) |  |
+| other | aspose.threed.utilities.VertexField |  |
 
 
 

@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## \_\_init\_\_(self, msg) {#str}
+## \_\_init\_\_(self, msg) {#System.String}
 
 Constructor of [`TrialException`](/3d/python-net/aspose.threed/trialexception)
 
@@ -38,7 +38,7 @@ def __init__(self, msg):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| msg | str |  |
+| msg | System.String |  |
 
 
 

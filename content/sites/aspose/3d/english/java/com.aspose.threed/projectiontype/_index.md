@@ -3,7 +3,7 @@ title: ProjectionType
 second_title: Aspose.3D for Java API Reference
 description: Cameras projection types.
 type: docs
-weight: 290
+weight: 295
 url: /java/com.aspose.threed/projectiontype/
 ---
 

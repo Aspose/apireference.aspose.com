@@ -3,7 +3,7 @@ title: visible property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 270
 url: /python-net/aspose.threed.entities/pointcloud/visible/
 is_root: false
 ---

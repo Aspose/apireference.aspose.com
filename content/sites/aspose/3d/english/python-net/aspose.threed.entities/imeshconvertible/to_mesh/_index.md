@@ -32,3 +32,4 @@ def to_mesh(self):
 ### See Also
 * module [`aspose.threed.entities`](../../)
 * class [`IMeshConvertible`](/3d/python-net/aspose.threed.entities/imeshconvertible)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)

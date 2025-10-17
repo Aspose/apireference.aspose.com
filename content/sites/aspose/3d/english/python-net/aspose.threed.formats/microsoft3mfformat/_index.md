@@ -24,6 +24,7 @@ The Microsoft3MFFormat type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [formats](/3d/python-net/aspose.threed.formats/microsoft3mfformat/formats) | Access to all supported formats |
 | [version](/3d/python-net/aspose.threed.formats/microsoft3mfformat/version) | Gets file format version |
 | [can_export](/3d/python-net/aspose.threed.formats/microsoft3mfformat/can_export) | Gets whether Aspose.3D supports export scene to current file format. |
 | [can_import](/3d/python-net/aspose.threed.formats/microsoft3mfformat/can_import) | Gets whether Aspose.3D supports import scene from current file format. |
@@ -87,15 +88,15 @@ The Microsoft3MFFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`detect(, stream, file_name)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/detect/#io.rawiobase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
-| [`detect(, file_name)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
-| [`get_format_by_extension(, extension_name)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
+| [`detect(, stream, file_name)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/detect/#io.rawiobase-system.string) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [`detect(, file_name)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/detect/#system.string) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
+| [`get_format_by_extension(, extension_name)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/get_format_by_extension/#system.string) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
 | [`create_load_options(self)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/create_load_options/#) | Create a default load options for this file format |
 | [`create_save_options(self)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/create_save_options/#) | Create a default save options for this file format |
 | [`is_buildable(self, node)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/is_buildable/#aspose.threed.node) | Check if this node is marked as a build. |
 | [`get_transform_for_build(self, node)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/get_transform_for_build/#aspose.threed.node) | Get transform matrix for node used in build. |
-| [`set_buildable(self, node, value, transform)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/set_buildable/#aspose.threed.node-bool-nullable<aspose.threed.utilities.matrix4>) |  |
-| [`set_object_type(self, node, model_type)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/set_object_type/#aspose.threed.node-str) | Set the model type for specified node.<br/>Possible value:<br/>model<br/>surface<br/>solidsupport<br/>support<br/>other |
+| [`set_buildable(self, node, value, transform)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/set_buildable/#aspose.threed.node-bool-system.nullable`1[[aspose.threed.utilities.matrix4]]) |  |
+| [`set_object_type(self, node, model_type)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/set_object_type/#aspose.threed.node-system.string) | Set the model type for specified node.<br/>Possible value:<br/>model<br/>surface<br/>solidsupport<br/>support<br/>other |
 | [`get_object_type(self, node)`](/3d/python-net/aspose.threed.formats/microsoft3mfformat/get_object_type/#aspose.threed.node) | Gets the model type for specified node. |
 
 

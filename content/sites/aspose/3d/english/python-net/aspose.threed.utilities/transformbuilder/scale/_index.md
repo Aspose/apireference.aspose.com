@@ -53,7 +53,7 @@ def scale(self, s):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| s | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) |  |
+| s | aspose.threed.utilities.Vector3 |  |
 
 ### Example 
 

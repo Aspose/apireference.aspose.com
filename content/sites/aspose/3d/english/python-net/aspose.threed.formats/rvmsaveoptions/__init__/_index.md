@@ -38,7 +38,7 @@ def __init__(self, content_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| content_type | [`FileContentType`](/3d/python-net/aspose.threed/filecontenttype) | Text or binary RVM file? |
+| content_type | aspose.threed.FileContentType | Text or binary RVM file? |
 
 
 

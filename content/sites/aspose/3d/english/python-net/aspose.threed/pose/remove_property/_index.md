@@ -28,10 +28,10 @@ def remove_property(self, property):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property | [`Property`](/3d/python-net/aspose.threed/property) | Which property to remove |
+| property | aspose.threed.Property | Which property to remove |
 
 
-## remove_property(self, property) {#str}
+## remove_property(self, property) {#System.String}
 
 Remove the specified property identified by name
 
@@ -51,7 +51,7 @@ def remove_property(self, property):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property | str | Which property to remove |
+| property | System.String | Which property to remove |
 
 
 

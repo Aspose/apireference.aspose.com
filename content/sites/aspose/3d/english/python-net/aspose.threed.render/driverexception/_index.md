@@ -19,7 +19,7 @@ The DriverException type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self, code, message)`](/3d/python-net/aspose.threed.render/driverexception/__init__/#int-str) | Initialize an instance of [`DriverException`](/3d/python-net/aspose.threed.render/driverexception) with specified native driver error code and message. |
+| [`__init__(self, code, message)`](/3d/python-net/aspose.threed.render/driverexception/__init__/#int-system.string) | Initialize an instance of [`DriverException`](/3d/python-net/aspose.threed.render/driverexception) with specified native driver error code and message. |
 
 
 ### Properties

@@ -3,7 +3,7 @@ title: VertexElementPolygonGroup
 second_title: Aspose.3D for Java API Reference
 description: Defines polygon group for specified components to group related polygons together.
 type: docs
-weight: 210
+weight: 215
 url: /java/com.aspose.threed/vertexelementpolygongroup/
 ---
 

@@ -28,7 +28,7 @@ def transform_to(self, target_system):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| target_system | [`AxisSystem`](/3d/python-net/aspose.threed/axissystem) | Target axis system |
+| target_system | aspose.threed.AxisSystem | Target axis system |
 
 
 

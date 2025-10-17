@@ -45,7 +45,7 @@ print(f"The first node of the file is {node.name}")
 ```
 
 
-## get_child(self, node_name) {#str}
+## get_child(self, node_name) {#System.String}
 
 Gets the child node with the specified name
 
@@ -65,7 +65,7 @@ def get_child(self, node_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node_name | str | The child name to find. |
+| node_name | System.String | The child name to find. |
 
 ### Example 
 

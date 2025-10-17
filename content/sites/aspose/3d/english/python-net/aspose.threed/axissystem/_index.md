@@ -21,8 +21,8 @@ The AxisSystem type exposes the following members:
 | :- | :- |
 | [`__init__(self, coordinate_system, up, front)`](/3d/python-net/aspose.threed/axissystem/__init__/#aspose.threed.coordinatesystem-aspose.threed.axis-aspose.threed.axis) | Constructs a new axis system |
 | [`__init__(self, coordinate_system, up)`](/3d/python-net/aspose.threed/axissystem/__init__/#aspose.threed.coordinatesystem-aspose.threed.axis) | Constructs a new axis system |
-| [`__init__(self, up, front)`](/3d/python-net/aspose.threed/axissystem/__init__/#aspose.threed.axis-nullable<axis>) | Constructs a new instance of AxisSystem |
-| [`__init__(self, coordinate_system, up, front)`](/3d/python-net/aspose.threed/axissystem/__init__/#nullable<coordinatesystem>-nullable<axis>-nullable<axis>) | Constructs a new instance of AxisSystem |
+| [`__init__(self, up, front)`](/3d/python-net/aspose.threed/axissystem/__init__/#aspose.threed.axis-system.nullable`1[[aspose.threed.axis]]) | Constructs a new instance of AxisSystem |
+| [`__init__(self, coordinate_system, up, front)`](/3d/python-net/aspose.threed/axissystem/__init__/#system.nullable`1[[aspose.threed.coordinatesystem]]-system.nullable`1[[aspose.threed.axis]]-system.nullable`1[[aspose.threed.axis]]) | Constructs a new instance of AxisSystem |
 
 
 ### Properties

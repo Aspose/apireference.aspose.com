@@ -28,7 +28,7 @@ def create_element_uv(self, uv_mapping):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| uv_mapping | [`TextureMapping`](/3d/python-net/aspose.threed.entities/texturemapping) | Which texture mapping type to create |
+| uv_mapping | aspose.threed.entities.TextureMapping | Which texture mapping type to create |
 
 
 ## create_element_uv(self, uv_mapping, mapping_mode, reference_mode) {#aspose.threed.entities.TextureMapping-aspose.threed.entities.MappingMode-aspose.threed.entities.ReferenceMode}
@@ -51,9 +51,9 @@ def create_element_uv(self, uv_mapping, mapping_mode, reference_mode):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| uv_mapping | [`TextureMapping`](/3d/python-net/aspose.threed.entities/texturemapping) | Which texture mapping type to create |
-| mapping_mode | [`MappingMode`](/3d/python-net/aspose.threed.entities/mappingmode) | Default mapping mode |
-| reference_mode | [`ReferenceMode`](/3d/python-net/aspose.threed.entities/referencemode) | Default reference mode |
+| uv_mapping | aspose.threed.entities.TextureMapping | Which texture mapping type to create |
+| mapping_mode | aspose.threed.entities.MappingMode | Default mapping mode |
+| reference_mode | aspose.threed.entities.ReferenceMode | Default reference mode |
 
 
 

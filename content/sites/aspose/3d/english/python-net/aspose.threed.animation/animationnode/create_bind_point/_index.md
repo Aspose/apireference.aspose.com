@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/animationnode/create_bind_point/
 is_root: false
 ---
 
-## create_bind_point(self, obj, prop_name) {#aspose.threed.A3DObject-str}
+## create_bind_point(self, obj, prop_name) {#aspose.threed.A3DObject-System.String}
 
 Creates a BindPoint based on the property data type.
 
@@ -28,11 +28,12 @@ def create_bind_point(self, obj, prop_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| obj | [`A3DObject`](/3d/python-net/aspose.threed/a3dobject) | Object. |
-| prop_name | str | Property name. |
+| obj | aspose.threed.A3DObject | Object. |
+| prop_name | System.String | Property name. |
 
 
 
 ### See Also
 * module [`aspose.threed.animation`](../../)
 * class [`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode)
+* class [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint)

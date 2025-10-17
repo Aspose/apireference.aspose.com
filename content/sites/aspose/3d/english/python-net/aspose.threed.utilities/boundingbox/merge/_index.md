@@ -23,7 +23,7 @@ def merge(self, pt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pt | [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) | The point to be merged into the bounding box |
+| pt | aspose.threed.utilities.Vector4 | The point to be merged into the bounding box |
 
 ### Example 
 
@@ -55,7 +55,7 @@ def merge(self, pt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pt | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The point to be merged into the bounding box |
+| pt | aspose.threed.utilities.Vector3 | The point to be merged into the bounding box |
 
 ### Example 
 
@@ -87,7 +87,7 @@ def merge(self, bb):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| bb | [`BoundingBox`](/3d/python-net/aspose.threed.utilities/boundingbox) | The bounding box to merge |
+| bb | aspose.threed.utilities.BoundingBox | The bounding box to merge |
 
 
 ## merge(self, x, y, z) {#float-float-float}

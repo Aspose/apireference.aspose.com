@@ -32,3 +32,4 @@ def create_save_options(self):
 ### See Also
 * module [`aspose.threed.formats`](../../)
 * class [`PlyFormat`](/3d/python-net/aspose.threed.formats/plyformat)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)

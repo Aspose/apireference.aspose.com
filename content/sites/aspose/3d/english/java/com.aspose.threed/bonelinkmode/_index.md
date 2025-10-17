@@ -3,7 +3,7 @@ title: BoneLinkMode
 second_title: Aspose.3D for Java API Reference
 description: A bones link mode refers to the way in which a bone is connected or linked to its parent bone within a hierarchical structure.
 type: docs
-weight: 262
+weight: 267
 url: /java/com.aspose.threed/bonelinkmode/
 ---
 

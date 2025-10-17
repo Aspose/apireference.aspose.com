@@ -44,7 +44,7 @@ scene.save("output.fbx")
 ```
 
 
-## create_child_node(self, node_name) {#str}
+## create_child_node(self, node_name) {#System.String}
 
 Create a new child node with given node name
 
@@ -64,7 +64,7 @@ def create_child_node(self, node_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node_name | str | The new child node's name |
+| node_name | System.String | The new child node's name |
 
 ### Example 
 
@@ -103,7 +103,7 @@ def create_child_node(self, entity):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | Default entity attached to the node |
+| entity | aspose.threed.Entity | Default entity attached to the node |
 
 ### Example 
 
@@ -121,7 +121,7 @@ scene.save("output.fbx")
 ```
 
 
-## create_child_node(self, node_name, entity) {#str-aspose.threed.Entity}
+## create_child_node(self, node_name, entity) {#System.String-aspose.threed.Entity}
 
 Create a new child node with given node name
 
@@ -141,11 +141,11 @@ def create_child_node(self, node_name, entity):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node_name | str | The new child node's name |
-| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | Default entity attached to the node |
+| node_name | System.String | The new child node's name |
+| entity | aspose.threed.Entity | Default entity attached to the node |
 
 
-## create_child_node(self, node_name, entity, material) {#str-aspose.threed.Entity-aspose.threed.shading.Material}
+## create_child_node(self, node_name, entity, material) {#System.String-aspose.threed.Entity-aspose.threed.shading.Material}
 
 Create a new child node with given node name, and attach specified entity and a material
 
@@ -165,8 +165,8 @@ def create_child_node(self, node_name, entity, material):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node_name | str | The new child node's name |
-| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | Default entity attached to the node |
+| node_name | System.String | The new child node's name |
+| entity | aspose.threed.Entity | Default entity attached to the node |
 | material | aspose.threed.shading.Material | The material attached to the node |
 
 

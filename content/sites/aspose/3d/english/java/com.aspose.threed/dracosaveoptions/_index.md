@@ -3,7 +3,7 @@ title: DracoSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for Google draco files
 type: docs
-weight: 45
+weight: 47
 url: /java/com.aspose.threed/dracosaveoptions/
 ---
 

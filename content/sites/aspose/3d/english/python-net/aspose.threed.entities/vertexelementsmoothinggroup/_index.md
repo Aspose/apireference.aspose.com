@@ -3,7 +3,7 @@ title: VertexElementSmoothingGroup class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 490
+weight: 520
 url: /python-net/aspose.threed.entities/vertexelementsmoothinggroup/
 is_root: false
 ---
@@ -36,6 +36,8 @@ The VertexElementSmoothingGroup type exposes the following members:
 | [name](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/reference_mode) | Gets or sets how the element is referenced. |
+| [indices](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/indices) | Gets the indices data |
+| [data](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/data) | Gets the vertex data |
 
 
 ### Methods

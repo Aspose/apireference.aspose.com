@@ -23,9 +23,9 @@ def set_trs(self, translation, rotation, scale):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| translation | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Translation. |
-| rotation | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Euler angles for rotation, fields are in degree. |
-| scale | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Scale. |
+| translation | aspose.threed.utilities.Vector3 | Translation. |
+| rotation | aspose.threed.utilities.Vector3 | Euler angles for rotation, fields are in degree. |
+| scale | aspose.threed.utilities.Vector3 | Scale. |
 
 
 

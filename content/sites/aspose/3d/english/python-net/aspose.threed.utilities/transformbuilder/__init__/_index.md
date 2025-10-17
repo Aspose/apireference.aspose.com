@@ -23,7 +23,7 @@ def __init__(self, order):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| order | [`ComposeOrder`](/3d/python-net/aspose.threed.utilities/composeorder) |  |
+| order | aspose.threed.utilities.ComposeOrder |  |
 
 
 ## \_\_init\_\_(self, initial, order) {#aspose.threed.utilities.Matrix4-aspose.threed.utilities.ComposeOrder}
@@ -41,8 +41,8 @@ def __init__(self, initial, order):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| initial | [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) |  |
-| order | [`ComposeOrder`](/3d/python-net/aspose.threed.utilities/composeorder) |  |
+| initial | aspose.threed.utilities.Matrix4 |  |
+| order | aspose.threed.utilities.ComposeOrder |  |
 
 
 

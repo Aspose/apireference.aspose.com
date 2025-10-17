@@ -3,7 +3,7 @@ title: Node class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /python-net/aspose.threed/node/
 is_root: false
 ---
@@ -31,8 +31,8 @@ The Node type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [`__init__(self)`](/3d/python-net/aspose.threed/node/__init__/#) | Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class. |
-| [`__init__(self, name, entity)`](/3d/python-net/aspose.threed/node/__init__/#str-aspose.threed.entity) | Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class. |
-| [`__init__(self, name)`](/3d/python-net/aspose.threed/node/__init__/#str) | Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class. |
+| [`__init__(self, name, entity)`](/3d/python-net/aspose.threed/node/__init__/#system.string-aspose.threed.entity) | Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class. |
+| [`__init__(self, name)`](/3d/python-net/aspose.threed/node/__init__/#system.string) | Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class. |
 
 
 ### Properties
@@ -59,24 +59,24 @@ The Node type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`remove_property(self, property)`](/3d/python-net/aspose.threed/node/remove_property/#aspose.threed.property) | Removes a dynamic property. |
-| [`remove_property(self, property)`](/3d/python-net/aspose.threed/node/remove_property/#str) | Remove the specified property identified by name |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed/node/remove_property/#system.string) | Remove the specified property identified by name |
 | [`create_child_node(self)`](/3d/python-net/aspose.threed/node/create_child_node/#) | Creates a child node |
-| [`create_child_node(self, node_name)`](/3d/python-net/aspose.threed/node/create_child_node/#str) | Create a new child node with given node name |
+| [`create_child_node(self, node_name)`](/3d/python-net/aspose.threed/node/create_child_node/#system.string) | Create a new child node with given node name |
 | [`create_child_node(self, entity)`](/3d/python-net/aspose.threed/node/create_child_node/#aspose.threed.entity) | Create a new child node with given entity attached |
-| [`create_child_node(self, node_name, entity)`](/3d/python-net/aspose.threed/node/create_child_node/#str-aspose.threed.entity) | Create a new child node with given node name |
-| [`create_child_node(self, node_name, entity, material)`](/3d/python-net/aspose.threed/node/create_child_node/#str-aspose.threed.entity-aspose.threed.shading.material) | Create a new child node with given node name, and attach specified entity and a material |
+| [`create_child_node(self, node_name, entity)`](/3d/python-net/aspose.threed/node/create_child_node/#system.string-aspose.threed.entity) | Create a new child node with given node name |
+| [`create_child_node(self, node_name, entity, material)`](/3d/python-net/aspose.threed/node/create_child_node/#system.string-aspose.threed.entity-aspose.threed.shading.material) | Create a new child node with given node name, and attach specified entity and a material |
 | [`get_child(self, index)`](/3d/python-net/aspose.threed/node/get_child/#int) | Gets the child node at specified index. |
-| [`get_child(self, node_name)`](/3d/python-net/aspose.threed/node/get_child/#str) | Gets the child node with the specified name |
-| [`get_property(self, property)`](/3d/python-net/aspose.threed/node/get_property/#str) | Get the value of specified property |
-| [`set_property(self, property, value)`](/3d/python-net/aspose.threed/node/set_property/#str-any) | Sets the value of specified property |
-| [`find_property(self, property_name)`](/3d/python-net/aspose.threed/node/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_child(self, node_name)`](/3d/python-net/aspose.threed/node/get_child/#system.string) | Gets the child node with the specified name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed/node/get_property/#system.string) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed/node/set_property/#system.string-system.object) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed/node/find_property/#system.string) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [`merge(self, node)`](/3d/python-net/aspose.threed/node/merge/#aspose.threed.node) | Detach everything under the node and attach them to current node. |
 | [`evaluate_global_transform(self, with_geometric_transform)`](/3d/python-net/aspose.threed/node/evaluate_global_transform/#bool) | Evaluate the global transform, include the geometric transform or not. |
 | [`get_bounding_box(self)`](/3d/python-net/aspose.threed/node/get_bounding_box/#) | Calculate the bounding box of the node |
 | [`add_entity(self, entity)`](/3d/python-net/aspose.threed/node/add_entity/#aspose.threed.entity) | Add an entity to the node. |
 | [`add_child_node(self, node)`](/3d/python-net/aspose.threed/node/add_child_node/#aspose.threed.node) | Add a child node to this node |
-| [`select_single_object(self, path)`](/3d/python-net/aspose.threed/node/select_single_object/#str) | Select single object under current node using XPath-like query syntax. |
-| [`select_objects(self, path)`](/3d/python-net/aspose.threed/node/select_objects/#str) | Select multiple objects under current node using XPath-like query syntax. |
+| [`select_single_object(self, path)`](/3d/python-net/aspose.threed/node/select_single_object/#system.string) | Select single object under current node using XPath-like query syntax. |
+| [`select_objects(self, path)`](/3d/python-net/aspose.threed/node/select_objects/#system.string) | Select multiple objects under current node using XPath-like query syntax. |
 
 
 

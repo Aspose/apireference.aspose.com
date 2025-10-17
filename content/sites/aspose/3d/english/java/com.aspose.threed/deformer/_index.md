@@ -3,7 +3,7 @@ title: Deformer
 second_title: Aspose.3D for Java API Reference
 description: Base class for  and
 type: docs
-weight: 39
+weight: 41
 url: /java/com.aspose.threed/deformer/
 ---
 

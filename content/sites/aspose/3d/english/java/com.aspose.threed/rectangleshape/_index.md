@@ -3,7 +3,7 @@ title: RectangleShape
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible rectangular shape with rounding corners.
 type: docs
-weight: 141
+weight: 145
 url: /java/com.aspose.threed/rectangleshape/
 ---
 
@@ -19,6 +19,7 @@ IFC compatible rectangular shape with rounding corners.
 | Constructor | Description |
 | --- | --- |
 | [RectangleShape()](#RectangleShape--) | Constructor of [RectangleShape](../../com.aspose.threed/rectangleshape) |
+| [RectangleShape(double xdim, double ydim)](#RectangleShape-double-double-) | Constructor of [RectangleShape](../../com.aspose.threed/rectangleshape) with specified dimension on x and y axis. |
 ## Methods
 
 | Method | Description |
@@ -62,6 +63,20 @@ public RectangleShape()
 
 
 Constructor of [RectangleShape](../../com.aspose.threed/rectangleshape)
+
+### RectangleShape(double xdim, double ydim) {#RectangleShape-double-double-}
+```
+public RectangleShape(double xdim, double ydim)
+```
+
+
+Constructor of [RectangleShape](../../com.aspose.threed/rectangleshape) with specified dimension on x and y axis.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| xdim | double |  |
+| ydim | double |  |
 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```

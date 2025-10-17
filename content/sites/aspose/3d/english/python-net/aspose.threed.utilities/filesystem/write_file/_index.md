@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/filesystem/write_file/
 is_root: false
 ---
 
-## write_file(self, file_name, options) {#str-aspose.threed.formats.IOConfig}
+## write_file(self, file_name, options) {#System.String-aspose.threed.formats.IOConfig}
 
 Create a stream for writing dependencies.
 
@@ -28,7 +28,7 @@ def write_file(self, file_name, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | The file's name to open for writing |
+| file_name | System.String | The file's name to open for writing |
 | options | aspose.threed.formats.IOConfig | Save or load options |
 ### Exceptions
 | Exception | Description |

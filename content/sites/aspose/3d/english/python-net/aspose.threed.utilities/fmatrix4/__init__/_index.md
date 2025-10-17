@@ -38,7 +38,7 @@ def __init__(self, mat):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mat | [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) | The [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) instance. |
+| mat | aspose.threed.utilities.Matrix4 | The [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) instance. |
 
 
 ## \_\_init\_\_(self, r0, r1, r2, r3) {#aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4}
@@ -56,10 +56,10 @@ def __init__(self, r0, r1, r2, r3):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| r0 | [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4) | R0. |
-| r1 | [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4) | R1. |
-| r2 | [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4) | R2. |
-| r3 | [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4) | R3. |
+| r0 | aspose.threed.utilities.FVector4 | R0. |
+| r1 | aspose.threed.utilities.FVector4 | R1. |
+| r2 | aspose.threed.utilities.FVector4 | R2. |
+| r3 | aspose.threed.utilities.FVector4 | R3. |
 
 
 ## \_\_init\_\_(self, m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33) {#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float}

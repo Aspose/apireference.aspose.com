@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## \_\_init\_\_(self, name) {#str}
+## \_\_init\_\_(self, name) {#System.String}
 
 Constructor of [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus)
 
@@ -38,7 +38,7 @@ def __init__(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str |  |
+| name | System.String |  |
 
 
 

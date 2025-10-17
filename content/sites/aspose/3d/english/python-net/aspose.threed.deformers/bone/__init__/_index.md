@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## \_\_init\_\_(self, name) {#str}
+## \_\_init\_\_(self, name) {#System.String}
 
 Initializes a new instance of the [`Bone`](/3d/python-net/aspose.threed.deformers/bone) class.
 
@@ -38,7 +38,7 @@ def __init__(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name. |
+| name | System.String | Name. |
 
 
 

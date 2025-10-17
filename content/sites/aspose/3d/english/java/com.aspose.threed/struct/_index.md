@@ -3,7 +3,7 @@ title: Struct
 second_title: Aspose.3D for Java API Reference
 description: Created by lexchou on 11/13/2017.
 type: docs
-weight: 257
+weight: 262
 url: /java/com.aspose.threed/struct/
 ---
 

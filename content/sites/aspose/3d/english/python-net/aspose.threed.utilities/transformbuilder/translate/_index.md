@@ -23,7 +23,7 @@ def translate(self, v):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| v | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) |  |
+| v | aspose.threed.utilities.Vector3 |  |
 
 ### Example 
 

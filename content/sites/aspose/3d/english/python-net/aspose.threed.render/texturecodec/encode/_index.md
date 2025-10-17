@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/texturecodec/encode/
 is_root: false
 ---
 
-## encode(, texture, stream, format) {#aspose.threed.render.TextureData-io.RawIOBase-str}
+## encode(, texture, stream, format) {#aspose.threed.render.TextureData-io.RawIOBase-System.String}
 
 Encode texture data into stream using specified format
 
@@ -24,9 +24,9 @@ def encode(texture, stream, format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| texture | [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) | The texture to be encoded |
+| texture | aspose.threed.render.TextureData | The texture to be encoded |
 | stream | io.RawIOBase | The output stream |
-| format | str | The image format of encoded data, like png/jpg |
+| format | System.String | The image format of encoded data, like png/jpg |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

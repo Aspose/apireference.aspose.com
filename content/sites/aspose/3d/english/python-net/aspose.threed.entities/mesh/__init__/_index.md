@@ -43,7 +43,7 @@ def __init__(self, height_map):
 | height_map | aspose.threed.render.TextureData | Input height map |
 
 
-## \_\_init\_\_(self, name) {#str}
+## \_\_init\_\_(self, name) {#System.String}
 
 Initializes a new instance of the [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) class.
 
@@ -58,7 +58,7 @@ def __init__(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name. |
+| name | System.String | Name. |
 
 
 ## \_\_init\_\_(self, height_map, transform) {#aspose.threed.render.TextureData-aspose.threed.utilities.Matrix4}

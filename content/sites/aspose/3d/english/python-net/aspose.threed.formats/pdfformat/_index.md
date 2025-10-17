@@ -24,6 +24,7 @@ The PdfFormat type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [formats](/3d/python-net/aspose.threed.formats/pdfformat/formats) | Access to all supported formats |
 | [version](/3d/python-net/aspose.threed.formats/pdfformat/version) | Gets file format version |
 | [can_export](/3d/python-net/aspose.threed.formats/pdfformat/can_export) | Gets whether Aspose.3D supports export scene to current file format. |
 | [can_import](/3d/python-net/aspose.threed.formats/pdfformat/can_import) | Gets whether Aspose.3D supports import scene from current file format. |
@@ -87,14 +88,14 @@ The PdfFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`detect(, stream, file_name)`](/3d/python-net/aspose.threed.formats/pdfformat/detect/#io.rawiobase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
-| [`detect(, file_name)`](/3d/python-net/aspose.threed.formats/pdfformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
-| [`extract(self, file_name, password)`](/3d/python-net/aspose.threed.formats/pdfformat/extract/#str-bytes) | Extract raw 3D content from PDF file. |
+| [`detect(, stream, file_name)`](/3d/python-net/aspose.threed.formats/pdfformat/detect/#io.rawiobase-system.string) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [`detect(, file_name)`](/3d/python-net/aspose.threed.formats/pdfformat/detect/#system.string) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
+| [`extract(self, file_name, password)`](/3d/python-net/aspose.threed.formats/pdfformat/extract/#system.string-bytes) | Extract raw 3D content from PDF file. |
 | [`extract(self, stream, password)`](/3d/python-net/aspose.threed.formats/pdfformat/extract/#io.rawiobase-bytes) | Extract raw 3D content from PDF stream. |
-| [`extract_scene(self, file_name)`](/3d/python-net/aspose.threed.formats/pdfformat/extract_scene/#str) | Extract 3D scenes from PDF file. |
-| [`extract_scene(self, file_name, password)`](/3d/python-net/aspose.threed.formats/pdfformat/extract_scene/#str-bytes) | Extract 3D scenes from PDF file. |
+| [`extract_scene(self, file_name)`](/3d/python-net/aspose.threed.formats/pdfformat/extract_scene/#system.string) | Extract 3D scenes from PDF file. |
+| [`extract_scene(self, file_name, password)`](/3d/python-net/aspose.threed.formats/pdfformat/extract_scene/#system.string-bytes) | Extract 3D scenes from PDF file. |
 | [`extract_scene(self, stream, password)`](/3d/python-net/aspose.threed.formats/pdfformat/extract_scene/#io.rawiobase-bytes) | Extract raw 3D content from PDF stream. |
-| [`get_format_by_extension(, extension_name)`](/3d/python-net/aspose.threed.formats/pdfformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
+| [`get_format_by_extension(, extension_name)`](/3d/python-net/aspose.threed.formats/pdfformat/get_format_by_extension/#system.string) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
 | [`create_load_options(self)`](/3d/python-net/aspose.threed.formats/pdfformat/create_load_options/#) | Create a default load options for this file format |
 | [`create_save_options(self)`](/3d/python-net/aspose.threed.formats/pdfformat/create_save_options/#) | Create a default save options for this file format |
 

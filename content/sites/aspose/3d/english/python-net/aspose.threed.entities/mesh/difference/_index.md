@@ -8,27 +8,24 @@ url: /python-net/aspose.threed.entities/mesh/difference/
 is_root: false
 ---
 
-## difference {#aspose.threed.entities.Mesh-aspose.threed.entities.Mesh}
-
-Calculate the difference of two meshes
+## difference(, a, b) {#aspose.threed.entities.Mesh-aspose.threed.entities.Mesh}
 
 
-### Returns 
 
-
-Result mesh
 
 
 ```python
-def difference(self, a, b):
+
+@staticmethod
+def difference(a, b):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| a | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | First mesh |
-| b | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | Second mesh |
+| a | aspose.threed.entities.Mesh |  |
+| b | aspose.threed.entities.Mesh |  |
 
 
 

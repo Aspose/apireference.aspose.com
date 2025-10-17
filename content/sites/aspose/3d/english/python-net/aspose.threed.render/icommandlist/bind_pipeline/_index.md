@@ -23,7 +23,7 @@ def bind_pipeline(self, pipeline):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pipeline | [`IPipeline`](/3d/python-net/aspose.threed.render/ipipeline) |  |
+| pipeline | aspose.threed.render.IPipeline |  |
 
 
 

@@ -3,7 +3,7 @@ title: Pose class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /python-net/aspose.threed/pose/
 is_root: false
 ---
@@ -25,7 +25,7 @@ The Pose type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self, name)`](/3d/python-net/aspose.threed/pose/__init__/#str) | Initializes a new instance of the [`Pose`](/3d/python-net/aspose.threed/pose) class. |
+| [`__init__(self, name)`](/3d/python-net/aspose.threed/pose/__init__/#system.string) | Initializes a new instance of the [`Pose`](/3d/python-net/aspose.threed/pose) class. |
 | [`__init__(self)`](/3d/python-net/aspose.threed/pose/__init__/#) | Initializes a new instance of the [`Pose`](/3d/python-net/aspose.threed/pose) class. |
 
 
@@ -42,12 +42,12 @@ The Pose type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`remove_property(self, property)`](/3d/python-net/aspose.threed/pose/remove_property/#aspose.threed.property) | Removes a dynamic property. |
-| [`remove_property(self, property)`](/3d/python-net/aspose.threed/pose/remove_property/#str) | Remove the specified property identified by name |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed/pose/remove_property/#system.string) | Remove the specified property identified by name |
 | [`add_bone_pose(self, node, matrix, local_matrix)`](/3d/python-net/aspose.threed/pose/add_bone_pose/#aspose.threed.node-aspose.threed.utilities.matrix4-bool) | Saves pose transformation matrix for the given bone node. |
 | [`add_bone_pose(self, node, matrix)`](/3d/python-net/aspose.threed/pose/add_bone_pose/#aspose.threed.node-aspose.threed.utilities.matrix4) | Saves pose transformation matrix for the given bone node. <br/>Global transformation matrix is implied. |
-| [`get_property(self, property)`](/3d/python-net/aspose.threed/pose/get_property/#str) | Get the value of specified property |
-| [`set_property(self, property, value)`](/3d/python-net/aspose.threed/pose/set_property/#str-any) | Sets the value of specified property |
-| [`find_property(self, property_name)`](/3d/python-net/aspose.threed/pose/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed/pose/get_property/#system.string) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed/pose/set_property/#system.string-system.object) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed/pose/find_property/#system.string) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 
 
 

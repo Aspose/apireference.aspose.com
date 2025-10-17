@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.3D for Java API Reference
 description: Provides methods to license the component.
 type: docs
-weight: 89
+weight: 93
 url: /java/com.aspose.threed/license/
 ---
 

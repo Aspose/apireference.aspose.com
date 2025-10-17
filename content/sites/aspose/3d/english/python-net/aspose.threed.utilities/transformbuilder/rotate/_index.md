@@ -23,7 +23,7 @@ def rotate(self, q):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| q | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) |  |
+| q | aspose.threed.utilities.Quaternion |  |
 
 ### Example 
 

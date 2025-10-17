@@ -32,3 +32,4 @@ def create_save_options(self):
 ### See Also
 * module [`aspose.threed.formats`](../../)
 * class [`DracoFormat`](/3d/python-net/aspose.threed.formats/dracoformat)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)

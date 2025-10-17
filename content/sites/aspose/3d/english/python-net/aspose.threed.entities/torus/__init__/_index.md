@@ -62,7 +62,7 @@ def __init__(self, radius, tube, arc):
 | arc | float | Arc. |
 
 
-## \_\_init\_\_(self, name, radius, tube, radial_segments, tubular_segments, arc) {#str-float-float-int-int-float}
+## \_\_init\_\_(self, name, radius, tube, radial_segments, tubular_segments, arc) {#System.String-float-float-int-int-float}
 
 Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class.
 
@@ -77,7 +77,7 @@ def __init__(self, name, radius, tube, radial_segments, tubular_segments, arc):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name. |
+| name | System.String | Name. |
 | radius | float | The radius of the torus. |
 | tube | float | The radius of the torus' tube. |
 | radial_segments | int | Radial segments. |

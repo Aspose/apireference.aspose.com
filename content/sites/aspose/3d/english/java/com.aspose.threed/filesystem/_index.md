@@ -3,7 +3,7 @@ title: FileSystem
 second_title: Aspose.3D for Java API Reference
 description: File system encapsulation.
 type: docs
-weight: 65
+weight: 67
 url: /java/com.aspose.threed/filesystem/
 ---
 

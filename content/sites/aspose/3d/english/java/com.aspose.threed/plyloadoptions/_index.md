@@ -3,7 +3,7 @@ title: PlyLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: Load options for PLY files
 type: docs
-weight: 126
+weight: 130
 url: /java/com.aspose.threed/plyloadoptions/
 ---
 

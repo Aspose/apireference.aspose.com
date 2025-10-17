@@ -3,7 +3,7 @@ title: EndPoint
 second_title: Aspose.3D for Java API Reference
 description: The end point to trim the curve can be a parameter value or a Cartesian point.
 type: docs
-weight: 49
+weight: 51
 url: /java/com.aspose.threed/endpoint/
 ---
 

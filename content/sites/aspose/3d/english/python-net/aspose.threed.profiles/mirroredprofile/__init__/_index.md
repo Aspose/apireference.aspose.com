@@ -23,7 +23,7 @@ def __init__(self, base_profile):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| base_profile | [`Profile`](/3d/python-net/aspose.threed.profiles/profile) | The base profile to be mirrored. |
+| base_profile | aspose.threed.profiles.Profile | The base profile to be mirrored. |
 
 
 

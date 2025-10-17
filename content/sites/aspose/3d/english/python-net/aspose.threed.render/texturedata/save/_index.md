@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/texturedata/save/
 is_root: false
 ---
 
-## save(self, file_name) {#str}
+## save(self, file_name) {#System.String}
 
 Save texture data into image file
 
@@ -23,10 +23,10 @@ def save(self, file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | The file name of where the image will be saved. |
+| file_name | System.String | The file name of where the image will be saved. |
 
 
-## save(self, stream, format) {#io.RawIOBase-str}
+## save(self, stream, format) {#io.RawIOBase-System.String}
 
 Save texture data into specified image format
 
@@ -42,10 +42,10 @@ def save(self, stream, format):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | The stream that holds the saved image |
-| format | str | Image format, usually file extension |
+| format | System.String | Image format, usually file extension |
 
 
-## save(self, file_name, format) {#str-str}
+## save(self, file_name, format) {#System.String-System.String}
 
 Save texture data into image file
 
@@ -60,8 +60,8 @@ def save(self, file_name, format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | The file name of where the image will be saved. |
-| format | str | Image format of the output file. |
+| file_name | System.String | The file name of where the image will be saved. |
+| format | System.String | Image format of the output file. |
 
 
 

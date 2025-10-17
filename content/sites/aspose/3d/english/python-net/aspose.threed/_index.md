@@ -23,6 +23,7 @@ The base namespace of Aspose.3D
 | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) | File format definition |
 | [`FileFormatType`](/3d/python-net/aspose.threed/fileformattype) | File format type |
 | [`GlobalTransform`](/3d/python-net/aspose.threed/globaltransform) | Global transform is similar to [`Transform`](/3d/python-net/aspose.threed/transform) but it's immutable while it represents the final evaluated transformation.<br/>Right-hand coordinate system is used while evaluating global transform |
+| [`Group`](/3d/python-net/aspose.threed/group) | A [`Group`](/3d/python-net/aspose.threed/group) represents the logical relationships of [`Node`](/3d/python-net/aspose.threed/node). |
 | [`INamedObject`](/3d/python-net/aspose.threed/inamedobject) | Object that has a name |
 | [`ImageRenderOptions`](/3d/python-net/aspose.threed/imagerenderoptions) | Options for [`Scene.render`](/3d/python-net/aspose.threed/scene/render) and  [`Scene.render`](/3d/python-net/aspose.threed/scene/render) |
 | [`ImportException`](/3d/python-net/aspose.threed/importexception) | Exception when Aspose.3D failed to open the specified source |

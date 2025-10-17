@@ -3,7 +3,7 @@ title: RectangleShape class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /python-net/aspose.threed.profiles/rectangleshape/
 is_root: false
 ---
@@ -29,6 +29,7 @@ The RectangleShape type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [`__init__(self)`](/3d/python-net/aspose.threed.profiles/rectangleshape/__init__/#) | Constructor of [`RectangleShape`](/3d/python-net/aspose.threed.profiles/rectangleshape) |
+| [`__init__(self, xdim, ydim)`](/3d/python-net/aspose.threed.profiles/rectangleshape/__init__/#float-float) | Constructor of [`RectangleShape`](/3d/python-net/aspose.threed.profiles/rectangleshape) with specified dimension on x and y axis. |
 
 
 ### Properties
@@ -49,10 +50,10 @@ The RectangleShape type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`remove_property(self, property)`](/3d/python-net/aspose.threed.profiles/rectangleshape/remove_property/#aspose.threed.property) | Removes a dynamic property. |
-| [`remove_property(self, property)`](/3d/python-net/aspose.threed.profiles/rectangleshape/remove_property/#str) | Remove the specified property identified by name |
-| [`get_property(self, property)`](/3d/python-net/aspose.threed.profiles/rectangleshape/get_property/#str) | Get the value of specified property |
-| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.profiles/rectangleshape/set_property/#str-any) | Sets the value of specified property |
-| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.profiles/rectangleshape/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.profiles/rectangleshape/remove_property/#system.string) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.profiles/rectangleshape/get_property/#system.string) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.profiles/rectangleshape/set_property/#system.string-system.object) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.profiles/rectangleshape/find_property/#system.string) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [`get_bounding_box(self)`](/3d/python-net/aspose.threed.profiles/rectangleshape/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [`get_entity_renderer_key(self)`](/3d/python-net/aspose.threed.profiles/rectangleshape/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 | [`get_extent(self)`](/3d/python-net/aspose.threed.profiles/rectangleshape/get_extent/#) | Gets the extent in x and y dimension. |

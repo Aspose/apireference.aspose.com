@@ -3,7 +3,7 @@ title: CShape
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible C-shape profile that defined by parameters.
 type: docs
-weight: 25
+weight: 27
 url: /java/com.aspose.threed/cshape/
 ---
 

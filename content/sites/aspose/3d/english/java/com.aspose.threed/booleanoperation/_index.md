@@ -3,7 +3,7 @@ title: BooleanOperation
 second_title: Aspose.3D for Java API Reference
 description: Meshs Boolean operation
 type: docs
-weight: 263
+weight: 268
 url: /java/com.aspose.threed/booleanoperation/
 ---
 

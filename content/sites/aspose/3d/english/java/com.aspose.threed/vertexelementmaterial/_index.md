@@ -3,7 +3,7 @@ title: VertexElementMaterial
 second_title: Aspose.3D for Java API Reference
 description: Defines material index for specified components.
 type: docs
-weight: 208
+weight: 213
 url: /java/com.aspose.threed/vertexelementmaterial/
 ---
 

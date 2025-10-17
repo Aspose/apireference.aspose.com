@@ -23,7 +23,7 @@ def rotate_euler_radian(self, r):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| r | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) |  |
+| r | aspose.threed.utilities.Vector3 |  |
 
 ### Example 
 

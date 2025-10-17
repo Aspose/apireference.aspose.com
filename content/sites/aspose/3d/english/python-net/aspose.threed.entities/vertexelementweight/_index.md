@@ -3,7 +3,7 @@ title: VertexElementWeight class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 580
+weight: 610
 url: /python-net/aspose.threed.entities/vertexelementweight/
 is_root: false
 ---
@@ -35,6 +35,7 @@ The VertexElementWeight type exposes the following members:
 | [name](/3d/python-net/aspose.threed.entities/vertexelementweight/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementweight/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementweight/reference_mode) | Gets or sets how the element is referenced. |
+| [indices](/3d/python-net/aspose.threed.entities/vertexelementweight/indices) | Gets the indices data |
 
 
 ### Methods

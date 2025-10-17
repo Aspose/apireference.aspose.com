@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/scene/save/
 is_root: false
 ---
 
-## save(self, file_name) {#str}
+## save(self, file_name) {#System.String}
 
 Saves the scene to specified path using specified file format.
 
@@ -23,7 +23,7 @@ def save(self, file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | File name. |
+| file_name | System.String | File name. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |
@@ -62,7 +62,7 @@ def save(self, stream, format):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | Input stream, user is responsible for closing the stream. |
-| format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) | Format. |
+| format | aspose.threed.FileFormat | Format. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |
@@ -131,7 +131,7 @@ with BytesIO() as ms:
 ```
 
 
-## save(self, file_name, format) {#str-aspose.threed.FileFormat}
+## save(self, file_name, format) {#System.String-aspose.threed.FileFormat}
 
 Saves the scene to specified path using specified file format.
 
@@ -146,8 +146,8 @@ def save(self, file_name, format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | File name. |
-| format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) | Format. |
+| file_name | System.String | File name. |
+| format | aspose.threed.FileFormat | Format. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |
@@ -170,7 +170,7 @@ scene.save("output.usdz", FileFormat.USDZ)
 ```
 
 
-## save(self, file_name, options) {#str-aspose.threed.formats.SaveOptions}
+## save(self, file_name, options) {#System.String-aspose.threed.formats.SaveOptions}
 
 Saves the scene to specified path using specified file format.
 
@@ -185,7 +185,7 @@ def save(self, file_name, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | File name. |
+| file_name | System.String | File name. |
 | options | aspose.threed.formats.SaveOptions | More detailed configuration to save the stream. |
 ### Exceptions
 | Exception | Description |

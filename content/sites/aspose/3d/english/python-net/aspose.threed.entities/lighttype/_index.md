@@ -3,7 +3,7 @@ title: LightType enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 620
+weight: 650
 url: /python-net/aspose.threed.entities/lighttype/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: RectangularTorus class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 330
 url: /python-net/aspose.threed.entities/rectangulartorus/
 is_root: false
 ---
@@ -28,7 +28,7 @@ The RectangularTorus type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [`__init__(self)`](/3d/python-net/aspose.threed.entities/rectangulartorus/__init__/#) | Constructor of [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus) |
-| [`__init__(self, name)`](/3d/python-net/aspose.threed.entities/rectangulartorus/__init__/#str) | Constructor of [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus) |
+| [`__init__(self, name)`](/3d/python-net/aspose.threed.entities/rectangulartorus/__init__/#system.string) | Constructor of [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus) |
 
 
 ### Properties
@@ -54,10 +54,10 @@ The RectangularTorus type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/rectangulartorus/remove_property/#aspose.threed.property) | Removes a dynamic property. |
-| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/rectangulartorus/remove_property/#str) | Remove the specified property identified by name |
-| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/rectangulartorus/get_property/#str) | Get the value of specified property |
-| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/rectangulartorus/set_property/#str-any) | Sets the value of specified property |
-| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/rectangulartorus/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/rectangulartorus/remove_property/#system.string) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/rectangulartorus/get_property/#system.string) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/rectangulartorus/set_property/#system.string-system.object) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/rectangulartorus/find_property/#system.string) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [`get_bounding_box(self)`](/3d/python-net/aspose.threed.entities/rectangulartorus/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [`get_entity_renderer_key(self)`](/3d/python-net/aspose.threed.entities/rectangulartorus/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 | [`to_mesh(self)`](/3d/python-net/aspose.threed.entities/rectangulartorus/to_mesh/#) | Convert this primitive to [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) |

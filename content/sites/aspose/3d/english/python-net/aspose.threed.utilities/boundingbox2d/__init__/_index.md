@@ -38,8 +38,8 @@ def __init__(self, minimum, maximum):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| minimum | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) | The minimum corner |
-| maximum | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) | The maximum corner |
+| minimum | aspose.threed.utilities.Vector2 | The minimum corner |
+| maximum | aspose.threed.utilities.Vector2 | The maximum corner |
 
 
 

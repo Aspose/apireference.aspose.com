@@ -3,7 +3,7 @@ title: Microsoft3MFFormat
 second_title: Aspose.3D for Java API Reference
 description: File format instance for Microsoft 3MF with 3MF related utilities.
 type: docs
-weight: 100
+weight: 104
 url: /java/com.aspose.threed/microsoft3mfformat/
 ---
 

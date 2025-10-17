@@ -3,7 +3,7 @@ title: TriMesh
 second_title: Aspose.3D for Java API Reference
 description: A TriMesh contains raw data that can be used by GPU directly.
 type: docs
-weight: 189
+weight: 194
 url: /java/com.aspose.threed/trimesh/
 ---
 
@@ -97,9 +97,9 @@ A TriMesh contains raw data that can be used by GPU directly. This class is a ut
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-| [write16bIndicesTo(Stream stream)](#write16bIndicesTo-com.aspose.threed.Stream-) | Write the indices data as 16bit integer to the stream |
+| [write16bIndicesTo(Stream stream)](#write16bIndicesTo-com.aspose.threed.Stream-) | Write the indices data as 16bit integer to the stream **Example:** |
 | [write16bIndicesTo(OutputStream stream)](#write16bIndicesTo-java.io.OutputStream-) | Write the indices data as 16bit integer to the stream |
-| [write32bIndicesTo(Stream stream)](#write32bIndicesTo-com.aspose.threed.Stream-) | Write the indices data as 32bit integer to the stream |
+| [write32bIndicesTo(Stream stream)](#write32bIndicesTo-com.aspose.threed.Stream-) | Write the indices data as 32bit integer to the stream **Example:** |
 | [write32bIndicesTo(OutputStream stream)](#write32bIndicesTo-java.io.OutputStream-) | Write the indices data as 32bit integer to the stream |
 | [writeVerticesTo(Stream stream)](#writeVerticesTo-com.aspose.threed.Stream-) | Write vertices data to the specified stream |
 | [writeVerticesTo(OutputStream stream)](#writeVerticesTo-java.io.OutputStream-) | Write vertices data to the specified stream |
@@ -588,7 +588,51 @@ public void loadVerticesFromBytes(byte[] verticesInBytes)
 ```
 
 
-Load vertices from bytes, the length of bytes must be an integer multiple of vertex size.
+Load vertices from bytes, the length of bytes must be an integer multiple of vertex size. **Example:** The following code shows how to create an empty TriMesh and manually load vertices from raw bytes.
+
+```
+var indices = new int[] { 0,  1,  2 };
+  var vertices = new byte[]{
+      0, 0, 0, 191,
+      0, 0, 0, 0,
+      0, 0, 0, 191,
+      0, 0, 0, 191,
+      0, 0, 0, 0,
+      0, 0, 0, 63,
+      0, 0, 0, 63,
+      0, 0, 0, 0,
+      0, 0, 0, 63
+  };
+  VertexDeclaration vd = new VertexDeclaration();
+  vd.AddField(VertexFieldDataType.FVector3, VertexFieldSemantic.Position);
+  //create an empty TriMesh with specified vertex declaration
+  var triMesh = new TriMesh("", vd);
+  //load vertices directly from bytes
+  triMesh.LoadVerticesFromBytes(vertices);
+  triMesh.AddTriangle(0, 1, 2);
+```
+
+```
+int[] indices = new int[] { 0,  1,  2 };
+  byte[] vertices = new byte[]{
+      0, 0, 0, 191,
+      0, 0, 0, 0,
+      0, 0, 0, 191,
+      0, 0, 0, 191,
+      0, 0, 0, 0,
+      0, 0, 0, 63,
+      0, 0, 0, 63,
+      0, 0, 0, 0,
+      0, 0, 0, 63
+  };
+  VertexDeclaration vd = new VertexDeclaration();
+  vd.addField(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.POSITION);
+  //create an empty TriMesh with specified vertex declaration
+  var triMesh = new TriMesh("", vd);
+  //load vertices directly from bytes
+  triMesh.loadVerticesFromBytes(vertices);
+  triMesh.addTriangle(0, 1, 2);
+```
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -883,12 +927,7 @@ public void write16bIndicesTo(Stream stream)
 ```
 
 
-Write the indices data as 16bit integer to the stream
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | [Stream](../../com.aspose.threed/stream) | **Example:**
+Write the indices data as 16bit integer to the stream **Example:**
 
 ```
 //convert a mesh to TriMesh, the layout is automatically inferred from input mesh
@@ -901,7 +940,12 @@ Write the indices data as 16bit integer to the stream
           //save indices as ushort to stream, 504 indices * 2 bytes per index
           triMesh.write16bIndicesTo(s);
       }
-``` |
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | [Stream](../../com.aspose.threed/stream) |  |
 
 ### write16bIndicesTo(OutputStream stream) {#write16bIndicesTo-java.io.OutputStream-}
 ```
@@ -933,12 +977,7 @@ public void write32bIndicesTo(Stream stream)
 ```
 
 
-Write the indices data as 32bit integer to the stream
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | [Stream](../../com.aspose.threed/stream) | **Example:**
+Write the indices data as 32bit integer to the stream **Example:**
 
 ```
 //convert a mesh to TriMesh, the layout is automatically inferred from input mesh
@@ -951,7 +990,12 @@ Write the indices data as 32bit integer to the stream
           //save indices as ushort to stream, 504 indices * 2 bytes per index
           triMesh.write32bIndicesTo(s);
       }
-``` |
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | [Stream](../../com.aspose.threed/stream) |  |
 
 ### write32bIndicesTo(OutputStream stream) {#write32bIndicesTo-java.io.OutputStream-}
 ```

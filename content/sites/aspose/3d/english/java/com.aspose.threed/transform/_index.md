@@ -3,7 +3,7 @@ title: Transform
 second_title: Aspose.3D for Java API Reference
 description: A transform contains information that allow access to objects translate/scale/rotation or transform matrix at minimum cost  This is used by local transform.
 type: docs
-weight: 185
+weight: 190
 url: /java/com.aspose.threed/transform/
 ---
 
@@ -419,19 +419,19 @@ public Transform setEulerAngles(double rx, double ry, double rz)
 ```
 
 
-Sets the Euler angles in degrees of current transform.
+Sets the Euler angles in degrees of current transform. **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setEulerAngles(90, 0, 0);
+```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rx | double |  |
 | ry | double |  |
-| rz | double | **Example:**
-
-```
-Node node = new Node();
-     node.getTransform().setEulerAngles(90, 0, 0);
-``` |
+| rz | double |  |
 
 **Returns:**
 [Transform](../../com.aspose.threed/transform)
@@ -681,7 +681,12 @@ public Transform setRotation(double rw, double rx, double ry, double rz)
 ```
 
 
-Sets the rotation(as quaternion components) of current transform.
+Sets the rotation(as quaternion components) of current transform. **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setRotation(1, 0, 0, 0);
+```
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -689,12 +694,7 @@ Sets the rotation(as quaternion components) of current transform.
 | rw | double |  |
 | rx | double |  |
 | ry | double |  |
-| rz | double | **Example:**
-
-```
-Node node = new Node();
-     node.getTransform().setRotation(1, 0, 0, 0);
-``` |
+| rz | double |  |
 
 **Returns:**
 [Transform](../../com.aspose.threed/transform)
@@ -730,19 +730,19 @@ public Transform setScale(double sx, double sy, double sz)
 ```
 
 
-Sets the scale of current transform.
+Sets the scale of current transform. **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setScale(2, 2, 2);
+```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sx | double |  |
 | sy | double |  |
-| sz | double | **Example:**
-
-```
-Node node = new Node();
-     node.getTransform().setScale(2, 2, 2);
-``` |
+| sz | double |  |
 
 **Returns:**
 [Transform](../../com.aspose.threed/transform)
@@ -832,19 +832,19 @@ public Transform setTranslation(double tx, double ty, double tz)
 ```
 
 
-Sets the translation of current transform.
+Sets the translation of current transform. **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setTranslation(10, 0, 0);
+```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | tx | double |  |
 | ty | double |  |
-| tz | double | **Example:**
-
-```
-Node node = new Node();
-     node.getTransform().setTranslation(10, 0, 0);
-``` |
+| tz | double |  |
 
 **Returns:**
 [Transform](../../com.aspose.threed/transform)

@@ -3,7 +3,7 @@ title: Curve
 second_title: Aspose.3D for Java API Reference
 description: The base class of all curve implementations.
 type: docs
-weight: 36
+weight: 38
 url: /java/com.aspose.threed/curve/
 ---
 

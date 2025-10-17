@@ -3,7 +3,7 @@ title: U3dSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for universal 3d
 type: docs
-weight: 193
+weight: 198
 url: /java/com.aspose.threed/u3dsaveoptions/
 ---
 

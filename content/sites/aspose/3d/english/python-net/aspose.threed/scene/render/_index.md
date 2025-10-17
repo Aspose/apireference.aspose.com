@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/scene/render/
 is_root: false
 ---
 
-## render(self, camera, file_name) {#aspose.threed.entities.Camera-str}
+## render(self, camera, file_name) {#aspose.threed.entities.Camera-System.String}
 
 Render the scene into external file from given camera's perspective.
 The default output size is 1024x768 and output format is png
@@ -25,7 +25,7 @@ def render(self, camera, file_name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | camera | aspose.threed.entities.Camera | From which camera's perspective to render the scene |
-| file_name | str | The file name of output file |
+| file_name | System.String | The file name of output file |
 
 
 ## render(self, camera, bitmap) {#aspose.threed.entities.Camera-aspose.threed.render.TextureData}
@@ -64,10 +64,10 @@ def render(self, camera, bitmap, options):
 | :- | :- | :- |
 | camera | aspose.threed.entities.Camera | From which camera's perspective to render the scene |
 | bitmap | aspose.threed.render.TextureData | Target of the rendered result |
-| options | [`ImageRenderOptions`](/3d/python-net/aspose.threed/imagerenderoptions) | The option to customize some internal settings. |
+| options | aspose.threed.ImageRenderOptions | The option to customize some internal settings. |
 
 
-## render(self, camera, file_name, size, format) {#aspose.threed.entities.Camera-str-aspose.threed.utilities.Vector2-str}
+## render(self, camera, file_name, size, format) {#aspose.threed.entities.Camera-System.String-aspose.threed.utilities.Vector2-System.String}
 
 Render the scene into external file from given camera's perspective.
 
@@ -83,12 +83,12 @@ def render(self, camera, file_name, size, format):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | camera | aspose.threed.entities.Camera | From which camera's perspective to render the scene |
-| file_name | str | The file name of output file |
+| file_name | System.String | The file name of output file |
 | size | aspose.threed.utilities.Vector2 | The size of final rendered image |
-| format | str | The image format of the output file |
+| format | System.String | The image format of the output file |
 
 
-## render(self, camera, file_name, size, format, options) {#aspose.threed.entities.Camera-str-aspose.threed.utilities.Vector2-str-aspose.threed.ImageRenderOptions}
+## render(self, camera, file_name, size, format, options) {#aspose.threed.entities.Camera-System.String-aspose.threed.utilities.Vector2-System.String-aspose.threed.ImageRenderOptions}
 
 Render the scene into external file from given camera's perspective.
 
@@ -104,10 +104,10 @@ def render(self, camera, file_name, size, format, options):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | camera | aspose.threed.entities.Camera | From which camera's perspective to render the scene |
-| file_name | str | The file name of output file |
+| file_name | System.String | The file name of output file |
 | size | aspose.threed.utilities.Vector2 | The size of final rendered image |
-| format | str | The image format of the output file |
-| options | [`ImageRenderOptions`](/3d/python-net/aspose.threed/imagerenderoptions) | The option to customize some internal settings. |
+| format | System.String | The image format of the output file |
+| options | aspose.threed.ImageRenderOptions | The option to customize some internal settings. |
 
 
 

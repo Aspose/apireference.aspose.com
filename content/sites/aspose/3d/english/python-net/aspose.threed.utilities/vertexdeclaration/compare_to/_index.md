@@ -23,7 +23,7 @@ def compare_to(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [`VertexDeclaration`](/3d/python-net/aspose.threed.utilities/vertexdeclaration) |  |
+| other | aspose.threed.utilities.VertexDeclaration |  |
 
 
 

@@ -28,7 +28,7 @@ def read_double(self, field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| field | [`VertexField`](/3d/python-net/aspose.threed.utilities/vertexfield) | The field with a float/double compatible data type |
+| field | aspose.threed.utilities.VertexField | The field with a float/double compatible data type |
 
 
 

@@ -30,7 +30,7 @@ def from_mesh(declaration, mesh):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | declaration | aspose.threed.utilities.VertexDeclaration | Vertex's type definition, or memory layout |
-| mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | Source mesh |
+| mesh | aspose.threed.entities.Mesh | Source mesh |
 
 ### Example 
 
@@ -79,7 +79,7 @@ def from_mesh(mesh, use_float):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) |  |
+| mesh | aspose.threed.entities.Mesh |  |
 | use_float | bool | Use float type instead of double type for each vertex element component. |
 
 ### Example 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/hollowcircleshape/find_property/
 is_root: false
 ---
 
-## find_property(self, property_name) {#str}
+## find_property(self, property_name) {#System.String}
 
 Finds the property.
 It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) 
@@ -30,10 +30,11 @@ def find_property(self, property_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | Property name. |
+| property_name | System.String | Property name. |
 
 
 
 ### See Also
 * module [`aspose.threed.profiles`](../../)
 * class [`HollowCircleShape`](/3d/python-net/aspose.threed.profiles/hollowcircleshape)
+* class [`Property`](/3d/python-net/aspose.threed/property)

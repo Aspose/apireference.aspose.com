@@ -3,12 +3,12 @@ title: get_property method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /python-net/aspose.threed.entities/mesh/get_property/
 is_root: false
 ---
 
-## get_property(self, property) {#str}
+## get_property(self, property) {#System.String}
 
 Get the value of specified property
 
@@ -28,7 +28,7 @@ def get_property(self, property):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property | str | Property name |
+| property | System.String | Property name |
 
 
 

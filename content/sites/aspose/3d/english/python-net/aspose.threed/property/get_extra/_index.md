@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/property/get_extra/
 is_root: false
 ---
 
-## get_extra(self, name) {#str}
+## get_extra(self, name) {#System.String}
 
 Gets extra data of the property associated by name.
 
@@ -28,7 +28,7 @@ def get_extra(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the property's extra data |
+| name | System.String | The name of the property's extra data |
 
 
 

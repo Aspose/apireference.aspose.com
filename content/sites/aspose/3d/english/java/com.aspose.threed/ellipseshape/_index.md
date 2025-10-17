@@ -3,7 +3,7 @@ title: EllipseShape
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible ellipse shape that defined by parameters.
 type: docs
-weight: 48
+weight: 50
 url: /java/com.aspose.threed/ellipseshape/
 ---
 

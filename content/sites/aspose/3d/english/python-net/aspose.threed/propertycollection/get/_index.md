@@ -8,13 +8,14 @@ url: /python-net/aspose.threed/propertycollection/get/
 is_root: false
 ---
 
-## get {#str}
+## get(self, property) {#System.String}
 
 
 
 
 
 ```python
+
 def get(self, property):
     ...
 ```
@@ -22,7 +23,7 @@ def get(self, property):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property | str |  |
+| property | System.String |  |
 
 
 

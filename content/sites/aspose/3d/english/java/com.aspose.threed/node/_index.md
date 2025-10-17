@@ -3,7 +3,7 @@ title: Node
 second_title: Aspose.3D for Java API Reference
 description: Represents an element in the scene graph.
 type: docs
-weight: 106
+weight: 110
 url: /java/com.aspose.threed/node/
 ---
 
@@ -614,19 +614,19 @@ public void merge(Node node)
 ```
 
 
-Detach everything under the node and attach them to current node.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| node | [Node](../../com.aspose.threed/node) | **Example:** The following code shows how to merge two 3D files into one file
+Detach everything under the node and attach them to current node. **Example:** The following code shows how to merge two 3D files into one file
 
 ```
 Scene scene1 = Scene.fromFile("scene1.fbx");
      Scene scene2 = Scene.fromFile("scene2.fbx");
      scene1.getRootNode().merge(scene2.getRootNode());
      scene1.save("merged.fbx");
-``` |
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| node | [Node](../../com.aspose.threed/node) |  |
 
 ### notify() {#notify--}
 ```

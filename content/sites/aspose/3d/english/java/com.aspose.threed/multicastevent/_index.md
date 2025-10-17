@@ -3,7 +3,7 @@ title: MulticastEvent
 second_title: Aspose.3D for Java API Reference
 description: Created by lexchou on 4/24/2017.
 type: docs
-weight: 105
+weight: 109
 url: /java/com.aspose.threed/multicastevent/
 ---
 

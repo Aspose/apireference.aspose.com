@@ -3,7 +3,7 @@ title: CompositeCurve
 second_title: Aspose.3D for Java API Reference
 description: A  is consisting of several curve segments.
 type: docs
-weight: 32
+weight: 34
 url: /java/com.aspose.threed/compositecurve/
 ---
 

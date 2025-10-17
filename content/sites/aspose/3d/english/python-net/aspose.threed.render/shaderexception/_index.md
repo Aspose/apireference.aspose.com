@@ -19,7 +19,7 @@ The ShaderException type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self, message)`](/3d/python-net/aspose.threed.render/shaderexception/__init__/#str) | Constructor of [`ShaderException`](/3d/python-net/aspose.threed.render/shaderexception) |
+| [`__init__(self, message)`](/3d/python-net/aspose.threed.render/shaderexception/__init__/#system.string) | Constructor of [`ShaderException`](/3d/python-net/aspose.threed.render/shaderexception) |
 
 
 

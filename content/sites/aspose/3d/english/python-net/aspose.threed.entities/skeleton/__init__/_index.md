@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## \_\_init\_\_(self, name) {#str}
+## \_\_init\_\_(self, name) {#System.String}
 
 Initializes a new instance of the [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton) class.
 
@@ -38,7 +38,26 @@ def __init__(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name. |
+| name | System.String | Name. |
+
+
+## \_\_init\_\_(self, name, type) {#System.String-aspose.threed.entities.SkeletonType}
+
+Initializes a new instance of the [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton) class.
+
+
+
+```python
+
+def __init__(self, name, type):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| name | System.String | Entity's name. |
+| type | aspose.threed.entities.SkeletonType | Skeleton type |
 
 
 

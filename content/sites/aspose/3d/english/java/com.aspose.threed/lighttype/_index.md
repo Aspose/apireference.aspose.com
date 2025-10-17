@@ -3,7 +3,7 @@ title: LightType
 second_title: Aspose.3D for Java API Reference
 description: Light types.
 type: docs
-weight: 279
+weight: 284
 url: /java/com.aspose.threed/lighttype/
 ---
 

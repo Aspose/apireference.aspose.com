@@ -28,7 +28,7 @@ def create_shader_program(self, shader_source):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| shader_source | [`ShaderSource`](/3d/python-net/aspose.threed.render/shadersource) | The source code of the shader |
+| shader_source | aspose.threed.render.ShaderSource | The source code of the shader |
 
 
 

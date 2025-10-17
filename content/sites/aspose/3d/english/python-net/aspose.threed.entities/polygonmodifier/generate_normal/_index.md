@@ -29,7 +29,7 @@ def generate_normal(mesh):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) |  |
+| mesh | aspose.threed.entities.Mesh |  |
 
 
 

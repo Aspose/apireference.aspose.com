@@ -3,7 +3,7 @@ title: TextureSlot
 second_title: Aspose.3D for Java API Reference
 description: Texture slot in  can be enumerated through material instance.
 type: docs
-weight: 183
+weight: 188
 url: /java/com.aspose.threed/textureslot/
 ---
 

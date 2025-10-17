@@ -32,3 +32,4 @@ def create_save_options(self):
 ### See Also
 * module [`aspose.threed.formats`](../../)
 * class [`Microsoft3MFFormat`](/3d/python-net/aspose.threed.formats/microsoft3mfformat)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)

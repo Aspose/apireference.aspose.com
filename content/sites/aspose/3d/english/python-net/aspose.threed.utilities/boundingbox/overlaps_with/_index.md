@@ -28,7 +28,7 @@ def overlaps_with(self, box):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| box | [`BoundingBox`](/3d/python-net/aspose.threed.utilities/boundingbox) | The other bounding box to test |
+| box | aspose.threed.utilities.BoundingBox | The other bounding box to test |
 
 ### Example 
 

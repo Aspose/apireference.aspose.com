@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/texturedata/from_file/
 is_root: false
 ---
 
-## from_file(, file_name) {#str}
+## from_file(, file_name) {#System.String}
 
 Load a texture from file
 
@@ -29,7 +29,7 @@ def from_file(file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str |  |
+| file_name | System.String |  |
 
 
 

@@ -38,7 +38,7 @@ def __init__(self, file_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) |  |
+| file_format | aspose.threed.FileFormat |  |
 
 
 

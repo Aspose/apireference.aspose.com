@@ -28,7 +28,7 @@ def concatenate(self, m2):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| m2 | [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4) | M2. |
+| m2 | aspose.threed.utilities.FMatrix4 | M2. |
 
 
 ## concatenate(self, m2) {#aspose.threed.utilities.Matrix4}
@@ -51,7 +51,7 @@ def concatenate(self, m2):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| m2 | [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) | M2. |
+| m2 | aspose.threed.utilities.Matrix4 | M2. |
 
 
 

@@ -3,7 +3,7 @@ title: Cylinder
 second_title: Aspose.3D for Java API Reference
 description: Parameterized Cylinder.
 type: docs
-weight: 38
+weight: 40
 url: /java/com.aspose.threed/cylinder/
 ---
 

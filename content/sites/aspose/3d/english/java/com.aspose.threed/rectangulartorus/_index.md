@@ -3,7 +3,7 @@ title: RectangularTorus
 second_title: Aspose.3D for Java API Reference
 description: Parameterized rectangular torus.
 type: docs
-weight: 142
+weight: 146
 url: /java/com.aspose.threed/rectangulartorus/
 ---
 

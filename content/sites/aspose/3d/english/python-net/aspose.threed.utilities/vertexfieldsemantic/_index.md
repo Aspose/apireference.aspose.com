@@ -31,6 +31,8 @@ The VertexFieldSemantic type exposes the following members:
 | VISIBILITY | Visibility for components |
 | SPECULAR | Specular colors |
 | WEIGHT | Blend weights |
+| MORPH_POSITION | Position data for morph target |
+| MORPH_NORMAL | Normal data for morph target |
 
 
 

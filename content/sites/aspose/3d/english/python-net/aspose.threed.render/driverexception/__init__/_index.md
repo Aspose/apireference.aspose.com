@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/driverexception/__init__/
 is_root: false
 ---
 
-## \_\_init\_\_(self, code, message) {#int-str}
+## \_\_init\_\_(self, code, message) {#int-System.String}
 
 Initialize an instance of [`DriverException`](/3d/python-net/aspose.threed.render/driverexception) with specified native driver error code and message.
 
@@ -24,7 +24,7 @@ def __init__(self, code, message):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | code | int |  |
-| message | str |  |
+| message | System.String |  |
 
 
 

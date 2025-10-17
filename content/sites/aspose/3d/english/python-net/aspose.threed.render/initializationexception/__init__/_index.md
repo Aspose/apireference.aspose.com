@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## \_\_init\_\_(self, msg) {#str}
+## \_\_init\_\_(self, msg) {#System.String}
 
 Initialize an [`InitializationException`](/3d/python-net/aspose.threed.render/initializationexception) instance with specified exception message.
 
@@ -38,7 +38,7 @@ def __init__(self, msg):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| msg | str |  |
+| msg | System.String |  |
 
 
 

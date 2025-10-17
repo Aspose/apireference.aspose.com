@@ -44,7 +44,7 @@ def add(self, time, value, interpolation):
 | :- | :- | :- |
 | time | float | Time position(measured in seconds) |
 | value | float | The value at this time position |
-| interpolation | [`Interpolation`](/3d/python-net/aspose.threed.animation/interpolation) | The interpolation type of this key frame |
+| interpolation | aspose.threed.animation.Interpolation | The interpolation type of this key frame |
 
 
 

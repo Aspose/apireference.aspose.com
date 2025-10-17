@@ -32,3 +32,4 @@ def to_mesh(self):
 ### See Also
 * module [`aspose.threed.entities`](../../)
 * class [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)

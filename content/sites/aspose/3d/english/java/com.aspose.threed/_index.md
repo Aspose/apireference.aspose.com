@@ -24,6 +24,8 @@ url: /java/com.aspose.threed/
 | [BindPoint](../com.aspose.threed/bindpoint) | A [BindPoint](../com.aspose.threed/bindpoint) is usually created on an object's property, some property types contains multiple component fields(like a Vector3 field), [BindPoint](../com.aspose.threed/bindpoint) will generate channel for each component field and connects the field to one or more keyframe sequence instance(s) through the channels. |
 | [Bone](../com.aspose.threed/bone) | A bone defines the subset of the geometry's control point, and defined blend weight for each control point. |
 | [BonePose](../com.aspose.threed/bonepose) | The [BonePose](../com.aspose.threed/bonepose) contains the transformation matrix for a bone node |
+| [BooleanOperand](../com.aspose.threed/booleanoperand) | This class encapsulates the transformed mesh as Boolean operation's operand. |
+| [BooleanOperator](../com.aspose.threed/booleanoperator) | Boolean operator allows you to apply Boolean operation on two [IMeshConvertible](../com.aspose.threed/imeshconvertible) instances. |
 | [BoundingBox](../com.aspose.threed/boundingbox) | The axis-aligned bounding box **Example:** The following code shows how to get a bounding box from an Entity instance. |
 | [BoundingBox2D](../com.aspose.threed/boundingbox2d) | The axis-aligned bounding box for [Vector2](../com.aspose.threed/vector2) |
 | [Box](../com.aspose.threed/box) | Box. |
@@ -76,7 +78,9 @@ url: /java/com.aspose.threed/
 | [GlobalTransform](../com.aspose.threed/globaltransform) | Global transform is similar to [Transform](../com.aspose.threed/transform) but it's immutable while it represents the final evaluated transformation. |
 | [GltfLoadOptions](../com.aspose.threed/gltfloadoptions) | Load options for glTF format |
 | [GltfSaveOptions](../com.aspose.threed/gltfsaveoptions) | Save options for glTF format. |
+| [Group](../com.aspose.threed/group) | A [Group](../com.aspose.threed/group) represents the logical relationships of [Node](../com.aspose.threed/node). |
 | [HShape](../com.aspose.threed/hshape) | The [HShape](../com.aspose.threed/hshape) provides the defining parameters of an 'H' or 'I' shape. |
+| [HalfSpace](../com.aspose.threed/halfspace) | [HalfSpace](../com.aspose.threed/halfspace) represents a infinity space which is split by a plane, this can be used with [BooleanOperator](../com.aspose.threed/booleanoperator) |
 | [HollowCircleShape](../com.aspose.threed/hollowcircleshape) | IFC compatible hollow circle profile. |
 | [HollowRectangleShape](../com.aspose.threed/hollowrectangleshape) | IFC compatible hollow rectangular shape with both inner/outer rounding corners. |
 | [Html5SaveOptions](../com.aspose.threed/html5saveoptions) | Save options for HTML5 |
@@ -85,7 +89,7 @@ url: /java/com.aspose.threed/
 | [ImageRenderOptions](../com.aspose.threed/imagerenderoptions) | Options for [Scene](../com.aspose.threed/scene) and [Scene](../com.aspose.threed/scene) |
 | [ImportException](../com.aspose.threed/importexception) | Exception when Aspose.3D failed to open the specified source |
 | [InitializationException](../com.aspose.threed/initializationexception) | Exceptions in render pipeline initialization |
-| [Int2D](../com.aspose.threed/int2d) | Created by lexchou on 5/17/2017. 2-dimensional int array wrapper |
+| [Int2D](../com.aspose.threed/int2d) | Created by lexchou on 5/17/2017. |
 | [JavaXImageCodec](../com.aspose.threed/javaximagecodec) |  |
 | [JtLoadOptions](../com.aspose.threed/jtloadoptions) | Load options for Siemens JT |
 | [KeyFrame](../com.aspose.threed/keyframe) | A key frame is mainly defined by a time and a value, for some interpolation types, tangent/tension/bias/continuity is also used by calculating the final sampled value. |
@@ -179,6 +183,12 @@ url: /java/com.aspose.threed/
 | [StlSaveOptions](../com.aspose.threed/stlsaveoptions) | Save options for STL |
 | [Stream](../com.aspose.threed/stream) | Created by lexchou on 12/14/2016. |
 | [Structs](../com.aspose.threed/structs) | Base class of struct array |
+| [StructuralMetadata](../com.aspose.threed/structuralmetadata) | This class provides support for EXT\_structural\_metadata, only used in glTF. |
+| [StructuralMetadata.ClassType](../com.aspose.threed/structuralmetadata.classtype) | Class definition in metadata |
+| [StructuralMetadata.EnumType](../com.aspose.threed/structuralmetadata.enumtype) | The enum type definition |
+| [StructuralMetadata.EnumValue](../com.aspose.threed/structuralmetadata.enumvalue) | The value definition of enum type. |
+| [StructuralMetadata.Property](../com.aspose.threed/structuralmetadata.property) | The property definition in meta data's classes |
+| [StructuralMetadata.PropertyTable](../com.aspose.threed/structuralmetadata.propertytable) | Property table. |
 | [SweptAreaSolid](../com.aspose.threed/sweptareasolid) | A [SweptAreaSolid](../com.aspose.threed/sweptareasolid) constructs a geometry by sweeping a profile along a directrix. |
 | [TShape](../com.aspose.threed/tshape) | IFC compatible T-shape defined by parameters. |
 | [Text](../com.aspose.threed/text) | Text profile, this profile describes contours using font and text. |

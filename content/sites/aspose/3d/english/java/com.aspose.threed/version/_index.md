@@ -3,7 +3,7 @@ title: Version
 second_title: Aspose.3D for Java API Reference
 description: Created by lexchou on 4/17/2017.
 type: docs
-weight: 199
+weight: 204
 url: /java/com.aspose.threed/version/
 ---
 

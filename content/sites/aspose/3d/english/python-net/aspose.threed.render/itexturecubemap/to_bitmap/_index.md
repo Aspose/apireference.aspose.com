@@ -23,7 +23,7 @@ def to_bitmap(self, side):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| side | [`CubeFace`](/3d/python-net/aspose.threed.render/cubeface) |  |
+| side | aspose.threed.render.CubeFace |  |
 
 
 

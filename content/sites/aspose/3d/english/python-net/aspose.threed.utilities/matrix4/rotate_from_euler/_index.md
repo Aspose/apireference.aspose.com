@@ -29,7 +29,7 @@ def rotate_from_euler(eul):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| eul | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Rotation in radian |
+| eul | aspose.threed.utilities.Vector3 | Rotation in radian |
 
 ### Example 
 

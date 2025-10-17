@@ -23,8 +23,8 @@ def __init__(self, scene, prop):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| scene | [`Scene`](/3d/python-net/aspose.threed/scene) | The scene that contains the animation. |
-| prop | [`Property`](/3d/python-net/aspose.threed/property) | Property. |
+| scene | aspose.threed.Scene | The scene that contains the animation. |
+| prop | aspose.threed.Property | Property. |
 
 
 

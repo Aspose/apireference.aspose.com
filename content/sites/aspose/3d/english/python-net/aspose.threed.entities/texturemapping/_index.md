@@ -3,7 +3,7 @@ title: TextureMapping enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 740
 url: /python-net/aspose.threed.entities/texturemapping/
 is_root: false
 ---

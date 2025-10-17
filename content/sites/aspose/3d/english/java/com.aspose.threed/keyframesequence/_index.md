@@ -3,7 +3,7 @@ title: KeyframeSequence
 second_title: Aspose.3D for Java API Reference
 description: The sequence of key-frames it describes the transformation of a sampled value over time.
 type: docs
-weight: 86
+weight: 90
 url: /java/com.aspose.threed/keyframesequence/
 ---
 

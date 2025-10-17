@@ -41,16 +41,16 @@ The BindPoint type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`remove_property(self, property)`](/3d/python-net/aspose.threed.animation/bindpoint/remove_property/#aspose.threed.property) | Removes a dynamic property. |
-| [`remove_property(self, property)`](/3d/python-net/aspose.threed.animation/bindpoint/remove_property/#str) | Remove the specified property identified by name |
-| [`add_channel(self, name, value)`](/3d/python-net/aspose.threed.animation/bindpoint/add_channel/#str-any) | Adds the specified channel property. |
-| [`add_channel(self, name, type, value)`](/3d/python-net/aspose.threed.animation/bindpoint/add_channel/#str-type-any) |  |
-| [`get_property(self, property)`](/3d/python-net/aspose.threed.animation/bindpoint/get_property/#str) | Get the value of specified property |
-| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.animation/bindpoint/set_property/#str-any) | Sets the value of specified property |
-| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.animation/bindpoint/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [`get_keyframe_sequence(self, channel_name)`](/3d/python-net/aspose.threed.animation/bindpoint/get_keyframe_sequence/#str) | Gets the first keyframe sequence in specified channel |
-| [`create_keyframe_sequence(self, name)`](/3d/python-net/aspose.threed.animation/bindpoint/create_keyframe_sequence/#str) | Creates a new curve and connects it to the first channel of the curve mapping |
-| [`bind_keyframe_sequence(self, channel_name, sequence)`](/3d/python-net/aspose.threed.animation/bindpoint/bind_keyframe_sequence/#str-aspose.threed.animation.keyframesequence) | Bind the keyframe sequence to specified channel |
-| [`get_channel(self, channel_name)`](/3d/python-net/aspose.threed.animation/bindpoint/get_channel/#str) | Gets channel by given name |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.animation/bindpoint/remove_property/#system.string) | Remove the specified property identified by name |
+| [`add_channel(self, name, value)`](/3d/python-net/aspose.threed.animation/bindpoint/add_channel/#system.string-system.object) | Adds the specified channel property. |
+| [`add_channel(self, name, type, value)`](/3d/python-net/aspose.threed.animation/bindpoint/add_channel/#system.string-system.type-system.object) | Adds the specified channel property. |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.animation/bindpoint/get_property/#system.string) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.animation/bindpoint/set_property/#system.string-system.object) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.animation/bindpoint/find_property/#system.string) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_keyframe_sequence(self, channel_name)`](/3d/python-net/aspose.threed.animation/bindpoint/get_keyframe_sequence/#system.string) | Gets the first keyframe sequence in specified channel |
+| [`create_keyframe_sequence(self, name)`](/3d/python-net/aspose.threed.animation/bindpoint/create_keyframe_sequence/#system.string) | Creates a new curve and connects it to the first channel of the curve mapping |
+| [`bind_keyframe_sequence(self, channel_name, sequence)`](/3d/python-net/aspose.threed.animation/bindpoint/bind_keyframe_sequence/#system.string-aspose.threed.animation.keyframesequence) | Bind the keyframe sequence to specified channel |
+| [`get_channel(self, channel_name)`](/3d/python-net/aspose.threed.animation/bindpoint/get_channel/#system.string) | Gets channel by given name |
 | [`reset_channels(self)`](/3d/python-net/aspose.threed.animation/bindpoint/reset_channels/#) | Empties the property channels of this animation curve mapping. |
 
 

@@ -1,9 +1,9 @@
 ---
 title: Int2D
 second_title: Aspose.3D for Java API Reference
-description: Created by lexchou on 5/17/2017. 2-dimensional int array wrapper
+description: Created by lexchou on 5/17/2017.
 type: docs
-weight: 82
+weight: 86
 url: /java/com.aspose.threed/int2d/
 ---
 

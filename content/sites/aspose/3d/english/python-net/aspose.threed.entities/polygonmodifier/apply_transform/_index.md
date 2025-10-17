@@ -24,7 +24,7 @@ def apply_transform(node, transform):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node | [`Node`](/3d/python-net/aspose.threed/node) | Which node's geometries will be applied with given transform |
+| node | aspose.threed.Node | Which node's geometries will be applied with given transform |
 | transform | aspose.threed.utilities.Matrix4 | The transformation matrix that will be applied to control points. |
 
 

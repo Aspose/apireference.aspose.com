@@ -3,7 +3,7 @@ title: Mesh
 second_title: Aspose.3D for Java API Reference
 description: A mesh is made of many n-sided polygons.
 type: docs
-weight: 98
+weight: 102
 url: /java/com.aspose.threed/mesh/
 ---
 
@@ -44,6 +44,8 @@ Mesh mesh = new Mesh();
 | Method | Description |
 | --- | --- |
 | [<T>getDeformers2()](#-T-getDeformers2--) | Gets all deformers with specified deformer types |
+| [addControlPoint(double x, double y, double z)](#addControlPoint-double-double-double-) | Add a new control point to the mesh, this is more efficient. |
+| [addControlPoint(double x, double y, double z, double w)](#addControlPoint-double-double-double-double-) | Add a new control point to the mesh, this is more efficient. |
 | [addElement(VertexElement element)](#addElement-com.aspose.threed.VertexElement-) | Adds an existing vertex element to current geometry |
 | [clone()](#clone--) |  |
 | [createElement(VertexElementType type)](#createElement-com.aspose.threed.VertexElementType-) | Creates a vertex element with specified type and add it to the geometry. |
@@ -82,6 +84,7 @@ Mesh mesh = new Mesh();
 | [getVisible()](#getVisible--) | Gets if the geometry is visible |
 | [hashCode()](#hashCode--) |  |
 | [intersect(Mesh a, Mesh b)](#intersect-com.aspose.threed.Mesh-com.aspose.threed.Mesh-) | Calculate the intersection of two meshes |
+| [isManifold()](#isManifold--) | Check if current mesh is a manifold mesh. |
 | [iterator()](#iterator--) | Gets the enumerator for each inner polygons. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
@@ -137,6 +140,37 @@ Gets all deformers with specified deformer types
 
 **Returns:**
 java.util.Collection<T> - Deformer collection
+### addControlPoint(double x, double y, double z) {#addControlPoint-double-double-double-}
+```
+public void addControlPoint(double x, double y, double z)
+```
+
+
+Add a new control point to the mesh, this is more efficient.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | double | The x component of the control point |
+| y | double | The y component of the control point |
+| z | double | The z component of the control point |
+
+### addControlPoint(double x, double y, double z, double w) {#addControlPoint-double-double-double-double-}
+```
+public void addControlPoint(double x, double y, double z, double w)
+```
+
+
+Add a new control point to the mesh, this is more efficient.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | double | The x component of the control point |
+| y | double | The y component of the control point |
+| z | double | The z component of the control point |
+| w | double | The w component of the control point |
+
 ### addElement(VertexElement element) {#addElement-com.aspose.threed.VertexElement-}
 ```
 public void addElement(VertexElement element)
@@ -648,6 +682,16 @@ Calculate the intersection of two meshes
 
 **Returns:**
 [Mesh](../../com.aspose.threed/mesh) - Result mesh **Example:** The following code shows how to calculate the difference of two meshes:
+### isManifold() {#isManifold--}
+```
+public boolean isManifold()
+```
+
+
+Check if current mesh is a manifold mesh. This function will not cache the manifold calculation result.
+
+**Returns:**
+boolean - true if the mesh is a manifold mesh.
 ### iterator() {#iterator--}
 ```
 public Iterator<int[]> iterator()

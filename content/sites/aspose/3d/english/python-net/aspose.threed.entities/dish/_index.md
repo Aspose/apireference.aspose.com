@@ -3,7 +3,7 @@ title: Dish class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 90
 url: /python-net/aspose.threed.entities/dish/
 is_root: false
 ---
@@ -29,7 +29,7 @@ The Dish type exposes the following members:
 | :- | :- |
 | [`__init__(self)`](/3d/python-net/aspose.threed.entities/dish/__init__/#) | Create a new dish instance with default radius(10) and default height(5) |
 | [`__init__(self, radius, height)`](/3d/python-net/aspose.threed.entities/dish/__init__/#float-float) | Create a new dish instance with specified radius and height |
-| [`__init__(self, name, radius, height, width_segments, height_segments)`](/3d/python-net/aspose.threed.entities/dish/__init__/#str-float-float-int-int) | Create a new dish instance with specified radius and height |
+| [`__init__(self, name, radius, height, width_segments, height_segments)`](/3d/python-net/aspose.threed.entities/dish/__init__/#system.string-float-float-int-int) | Create a new dish instance with specified radius and height |
 
 
 ### Properties
@@ -53,10 +53,10 @@ The Dish type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/dish/remove_property/#aspose.threed.property) | Removes a dynamic property. |
-| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/dish/remove_property/#str) | Remove the specified property identified by name |
-| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/dish/get_property/#str) | Get the value of specified property |
-| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/dish/set_property/#str-any) | Sets the value of specified property |
-| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/dish/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/dish/remove_property/#system.string) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/dish/get_property/#system.string) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/dish/set_property/#system.string-system.object) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/dish/find_property/#system.string) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [`get_bounding_box(self)`](/3d/python-net/aspose.threed.entities/dish/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [`get_entity_renderer_key(self)`](/3d/python-net/aspose.threed.entities/dish/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 | [`to_mesh(self)`](/3d/python-net/aspose.threed.entities/dish/to_mesh/#) | Convert current object to mesh |

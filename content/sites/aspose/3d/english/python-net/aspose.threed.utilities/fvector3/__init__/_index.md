@@ -38,7 +38,7 @@ def __init__(self, vec):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| vec | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Vector3 in double type |
+| vec | aspose.threed.utilities.Vector3 | Vector3 in double type |
 
 
 ## \_\_init\_\_(self, vec) {#aspose.threed.utilities.Vector4}
@@ -56,7 +56,7 @@ def __init__(self, vec):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| vec | [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) | Vector4 in double type |
+| vec | aspose.threed.utilities.Vector4 | Vector4 in double type |
 
 
 ## \_\_init\_\_(self, x, y, z) {#float-float-float}

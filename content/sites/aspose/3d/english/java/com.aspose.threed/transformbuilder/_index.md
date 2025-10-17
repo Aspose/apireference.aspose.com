@@ -3,7 +3,7 @@ title: TransformBuilder
 second_title: Aspose.3D for Java API Reference
 description: The  is used to build transform matrix by a chain of transformations.
 type: docs
-weight: 186
+weight: 191
 url: /java/com.aspose.threed/transformbuilder/
 ---
 
@@ -45,22 +45,22 @@ TransformBuilder tb = new TransformBuilder();
 | [prepend(Matrix4 m)](#prepend-com.aspose.threed.Matrix4-) | Prepend the new transform matrix to the transform chain. |
 | [rearrange(Axis newX, Axis newY, Axis newZ)](#rearrange-com.aspose.threed.Axis-com.aspose.threed.Axis-com.aspose.threed.Axis-) | Rearrange the layout of the axis. |
 | [reset()](#reset--) | Reset the transform to identity matrix |
-| [rotate(Quaternion q)](#rotate-com.aspose.threed.Quaternion-) | Chain a rotation by a quaternion |
+| [rotate(Quaternion q)](#rotate-com.aspose.threed.Quaternion-) | Chain a rotation by a quaternion **Example:** |
 | [rotateDegree(Vector3 rot, RotationOrder order)](#rotateDegree-com.aspose.threed.Vector3-com.aspose.threed.RotationOrder-) | Append rotation with specified order |
 | [rotateDegree(double angle, Vector3 axis)](#rotateDegree-double-com.aspose.threed.Vector3-) | Chain a rotation transform in degree |
-| [rotateEulerDegree(double degX, double degY, double degZ)](#rotateEulerDegree-double-double-double-) | Chain a rotation by Euler angles in degree |
-| [rotateEulerRadian(Vector3 r)](#rotateEulerRadian-com.aspose.threed.Vector3-) | Chain a rotation by Euler angles in radian |
-| [rotateEulerRadian(double x, double y, double z)](#rotateEulerRadian-double-double-double-) | Chain a rotation by Euler angles in radian |
+| [rotateEulerDegree(double degX, double degY, double degZ)](#rotateEulerDegree-double-double-double-) | Chain a rotation by Euler angles in degree **Example:** |
+| [rotateEulerRadian(Vector3 r)](#rotateEulerRadian-com.aspose.threed.Vector3-) | Chain a rotation by Euler angles in radian **Example:** |
+| [rotateEulerRadian(double x, double y, double z)](#rotateEulerRadian-double-double-double-) | Chain a rotation by Euler angles in radian **Example:** |
 | [rotateRadian(Vector3 rot, RotationOrder order)](#rotateRadian-com.aspose.threed.Vector3-com.aspose.threed.RotationOrder-) | Append rotation with specified order |
 | [rotateRadian(double angle, Vector3 axis)](#rotateRadian-double-com.aspose.threed.Vector3-) | Chain a rotation transform in radian |
-| [scale(Vector3 s)](#scale-com.aspose.threed.Vector3-) | Chain a scale transform |
-| [scale(double s)](#scale-double-) | Chain a scaling transform matrix with a component scaled by s |
-| [scale(double x, double y, double z)](#scale-double-double-double-) | Chain a scaling transform matrix |
+| [scale(Vector3 s)](#scale-com.aspose.threed.Vector3-) | Chain a scale transform **Example:** |
+| [scale(double s)](#scale-double-) | Chain a scaling transform matrix with a component scaled by s **Example:** |
+| [scale(double x, double y, double z)](#scale-double-double-double-) | Chain a scaling transform matrix **Example:** |
 | [setComposeOrder(ComposeOrder value)](#setComposeOrder-com.aspose.threed.ComposeOrder-) | Sets the chain compose order. |
 | [setMatrix(Matrix4 value)](#setMatrix-com.aspose.threed.Matrix4-) | Sets the current matrix value |
 | [toString()](#toString--) |  |
-| [translate(Vector3 v)](#translate-com.aspose.threed.Vector3-) | Chain a translation transform |
-| [translate(double tx, double ty, double tz)](#translate-double-double-double-) | Chain a translation transform |
+| [translate(Vector3 v)](#translate-com.aspose.threed.Vector3-) | Chain a translation transform **Example:** |
+| [translate(double tx, double ty, double tz)](#translate-double-double-double-) | Chain a translation transform **Example:** |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
@@ -244,18 +244,18 @@ public TransformBuilder rotate(Quaternion q)
 ```
 
 
-Chain a rotation by a quaternion
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| q | [Quaternion](../../com.aspose.threed/quaternion) | **Example:**
+Chain a rotation by a quaternion **Example:**
 
 ```
 TransformBuilder tb = new TransformBuilder();
      tb.rotate(Quaternion.fromEulerAngle(0, Math.PI, 0));
      System.out.printf("Transform Matrix: %s", tb.getMatrix());
-``` |
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| q | [Quaternion](../../com.aspose.threed/quaternion) |  |
 
 **Returns:**
 [TransformBuilder](../../com.aspose.threed/transformbuilder)
@@ -301,20 +301,20 @@ public TransformBuilder rotateEulerDegree(double degX, double degY, double degZ)
 ```
 
 
-Chain a rotation by Euler angles in degree
+Chain a rotation by Euler angles in degree **Example:**
+
+```
+TransformBuilder tb = new TransformBuilder();
+     tb.rotateEulerDegree(0, 90, 0);
+     System.out.printf("Transform Matrix: %s", tb.getMatrix());
+```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | degX | double |  |
 | degY | double |  |
-| degZ | double | **Example:**
-
-```
-TransformBuilder tb = new TransformBuilder();
-     tb.rotateEulerDegree(0, 90, 0);
-     System.out.printf("Transform Matrix: %s", tb.getMatrix());
-``` |
+| degZ | double |  |
 
 **Returns:**
 [TransformBuilder](../../com.aspose.threed/transformbuilder)
@@ -324,18 +324,18 @@ public TransformBuilder rotateEulerRadian(Vector3 r)
 ```
 
 
-Chain a rotation by Euler angles in radian
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| r | [Vector3](../../com.aspose.threed/vector3) | **Example:**
+Chain a rotation by Euler angles in radian **Example:**
 
 ```
 TransformBuilder tb = new TransformBuilder();
      tb.rotateEulerRadian(new Vector3(0, Math.PI, 0));
      System.out.printf("Transform Matrix: %s", tb.getMatrix());
-``` |
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| r | [Vector3](../../com.aspose.threed/vector3) |  |
 
 **Returns:**
 [TransformBuilder](../../com.aspose.threed/transformbuilder)
@@ -345,20 +345,20 @@ public TransformBuilder rotateEulerRadian(double x, double y, double z)
 ```
 
 
-Chain a rotation by Euler angles in radian
+Chain a rotation by Euler angles in radian **Example:**
+
+```
+TransformBuilder tb = new TransformBuilder();
+     tb.rotateEulerRadian(0, Math.PI, 0);
+     System.out.printf("Transform Matrix: %s", tb.getMatrix());
+```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | x | double |  |
 | y | double |  |
-| z | double | **Example:**
-
-```
-TransformBuilder tb = new TransformBuilder();
-     tb.rotateEulerRadian(0, Math.PI, 0);
-     System.out.printf("Transform Matrix: %s", tb.getMatrix());
-``` |
+| z | double |  |
 
 **Returns:**
 [TransformBuilder](../../com.aspose.threed/transformbuilder)
@@ -373,14 +373,14 @@ Append rotation with specified order
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rot | [Vector3](../../com.aspose.threed/vector3) | Rotation in radian |
-| order | [RotationOrder](../../com.aspose.threed/rotationorder) | **Example:**
+| rot | [Vector3](../../com.aspose.threed/vector3) | Rotation in radian **Example:**
 
 ```
 TransformBuilder tb = new TransformBuilder();
      tb.rotateRadian(new Vector3(0.3, 0.4, 0.1), RotationOrder.YZX);
      System.out.printf("Transform Matrix: %s", tb.getMatrix());
 ``` |
+| order | [RotationOrder](../../com.aspose.threed/rotationorder) |  |
 
 ### rotateRadian(double angle, Vector3 axis) {#rotateRadian-double-com.aspose.threed.Vector3-}
 ```
@@ -410,18 +410,18 @@ public TransformBuilder scale(Vector3 s)
 ```
 
 
-Chain a scale transform
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| s | [Vector3](../../com.aspose.threed/vector3) | **Example:**
+Chain a scale transform **Example:**
 
 ```
 TransformBuilder tb = new TransformBuilder();
      tb.scale(new Vector3(10, 10, 10));
      System.out.printf("Transform Matrix: %s", tb.getMatrix());
-``` |
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| s | [Vector3](../../com.aspose.threed/vector3) |  |
 
 **Returns:**
 [TransformBuilder](../../com.aspose.threed/transformbuilder)
@@ -431,18 +431,18 @@ public TransformBuilder scale(double s)
 ```
 
 
-Chain a scaling transform matrix with a component scaled by s
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| s | double | **Example:**
+Chain a scaling transform matrix with a component scaled by s **Example:**
 
 ```
 TransformBuilder tb = new TransformBuilder();
      tb.scale(10);
      System.out.printf("Transform Matrix: %s", tb.getMatrix());
-``` |
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| s | double |  |
 
 **Returns:**
 [TransformBuilder](../../com.aspose.threed/transformbuilder)
@@ -452,20 +452,20 @@ public TransformBuilder scale(double x, double y, double z)
 ```
 
 
-Chain a scaling transform matrix
+Chain a scaling transform matrix **Example:**
+
+```
+TransformBuilder tb = new TransformBuilder();
+     tb.scale(10, 10, 10);
+     System.out.printf("Transform Matrix: %s", tb.getMatrix());
+```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | x | double |  |
 | y | double |  |
-| z | double | **Example:**
-
-```
-TransformBuilder tb = new TransformBuilder();
-     tb.scale(10, 10, 10);
-     System.out.printf("Transform Matrix: %s", tb.getMatrix());
-``` |
+| z | double |  |
 
 **Returns:**
 [TransformBuilder](../../com.aspose.threed/transformbuilder)
@@ -511,18 +511,18 @@ public TransformBuilder translate(Vector3 v)
 ```
 
 
-Chain a translation transform
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| v | [Vector3](../../com.aspose.threed/vector3) | **Example:**
+Chain a translation transform **Example:**
 
 ```
 TransformBuilder tb = new TransformBuilder();
      tb.translate(new Vector3(0, 10, 0));
      System.out.printf("Transform Matrix: %s", tb.getMatrix());
-``` |
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| v | [Vector3](../../com.aspose.threed/vector3) |  |
 
 **Returns:**
 [TransformBuilder](../../com.aspose.threed/transformbuilder)
@@ -532,20 +532,20 @@ public TransformBuilder translate(double tx, double ty, double tz)
 ```
 
 
-Chain a translation transform
+Chain a translation transform **Example:**
+
+```
+TransformBuilder tb = new TransformBuilder();
+     tb.translate(0, 10, 0);
+     System.out.printf("Transform Matrix: %s", tb.getMatrix());
+```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | tx | double |  |
 | ty | double |  |
-| tz | double | **Example:**
-
-```
-TransformBuilder tb = new TransformBuilder();
-     tb.translate(0, 10, 0);
-     System.out.printf("Transform Matrix: %s", tb.getMatrix());
-``` |
+| tz | double |  |
 
 **Returns:**
 [TransformBuilder](../../com.aspose.threed/transformbuilder)

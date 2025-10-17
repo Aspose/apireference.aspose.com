@@ -3,7 +3,7 @@ title: scene property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /python-net/aspose.threed.profiles/arbitraryprofile/scene/
 is_root: false
 ---

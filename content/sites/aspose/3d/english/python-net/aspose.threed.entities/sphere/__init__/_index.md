@@ -61,7 +61,7 @@ def __init__(self, radius, width_segments, height_segments):
 | height_segments | int | Height segments. |
 
 
-## \_\_init\_\_(self, name, radius, width_segments, height_segments, phi_start, phi_length, theta_start, theta_length) {#str-float-int-int-float-float-float-float}
+## \_\_init\_\_(self, name, radius, width_segments, height_segments, phi_start, phi_length, theta_start, theta_length) {#System.String-float-int-int-float-float-float-float}
 
 Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class.
 
@@ -76,7 +76,7 @@ def __init__(self, name, radius, width_segments, height_segments, phi_start, phi
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name. |
+| name | System.String | Name. |
 | radius | float | Radius of the sphere. |
 | width_segments | int | Width segments. |
 | height_segments | int | Height segments. |

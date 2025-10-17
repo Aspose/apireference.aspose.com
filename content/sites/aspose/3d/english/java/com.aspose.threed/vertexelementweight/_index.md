@@ -3,7 +3,7 @@ title: VertexElementWeight
 second_title: Aspose.3D for Java API Reference
 description: Defines blend weight for specified components.
 type: docs
-weight: 221
+weight: 226
 url: /java/com.aspose.threed/vertexelementweight/
 ---
 

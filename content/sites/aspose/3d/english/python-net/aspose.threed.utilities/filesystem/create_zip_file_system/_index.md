@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/filesystem/create_zip_file_system/
 is_root: false
 ---
 
-## create_zip_file_system(, file_name) {#str}
+## create_zip_file_system(, file_name) {#System.String}
 
 File system to provide to the read-only access to speicified zip file or zip stream.
 File system will be disposed after the open/save operation.
@@ -30,7 +30,7 @@ def create_zip_file_system(file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | File name to the zip file. |
+| file_name | System.String | File name to the zip file. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |
@@ -39,7 +39,7 @@ def create_zip_file_system(file_name):
 
 
 
-## create_zip_file_system(, stream, base_dir) {#io.RawIOBase-str}
+## create_zip_file_system(, stream, base_dir) {#io.RawIOBase-System.String}
 
 Create a file system to provide to the read-only access to speicified zip file or zip stream.
 File system will be disposed after the open/save operation.
@@ -62,7 +62,7 @@ def create_zip_file_system(stream, base_dir):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | The stream to access the zip file |
-| base_dir | str | The base directory inside the zip file. |
+| base_dir | System.String | The base directory inside the zip file. |
 ### Remarks
 
 This is a read-only file system, so no write operations are supported.### Exceptions

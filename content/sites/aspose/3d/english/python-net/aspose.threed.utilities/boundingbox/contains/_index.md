@@ -28,7 +28,7 @@ def contains(self, p):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| p | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The point to test |
+| p | aspose.threed.utilities.Vector3 | The point to test |
 
 ### Example 
 
@@ -43,6 +43,29 @@ pt = Vector3(4, 4, 4)
 print("Bounding box overlaps = "  + str(boundingBox.contains(pt)))
 
 ```
+
+
+## contains(self, bbox) {#aspose.threed.utilities.BoundingBox}
+
+The bounding box to check if it's inside current bounding box.
+
+
+### Returns 
+
+
+
+
+
+```python
+
+def contains(self, bbox):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| bbox | aspose.threed.utilities.BoundingBox |  |
 
 
 

@@ -3,7 +3,7 @@ title: ITexture1D
 second_title: Aspose.3D for Java API Reference
 description: 1D texture
 type: docs
-weight: 247
+weight: 252
 url: /java/com.aspose.threed/itexture1d/
 ---
 

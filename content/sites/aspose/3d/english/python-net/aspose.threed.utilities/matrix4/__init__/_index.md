@@ -38,7 +38,7 @@ def __init__(self, m):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| m | [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4) |  |
+| m | aspose.threed.utilities.FMatrix4 |  |
 
 
 ## \_\_init\_\_(self, m) {#list}
@@ -74,10 +74,10 @@ def __init__(self, r0, r1, r2, r3):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| r0 | [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) | R0. |
-| r1 | [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) | R1. |
-| r2 | [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) | R2. |
-| r3 | [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) | R3. |
+| r0 | aspose.threed.utilities.Vector4 | R0. |
+| r1 | aspose.threed.utilities.Vector4 | R1. |
+| r2 | aspose.threed.utilities.Vector4 | R2. |
+| r3 | aspose.threed.utilities.Vector4 | R3. |
 
 
 ## \_\_init\_\_(self, m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33) {#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float}

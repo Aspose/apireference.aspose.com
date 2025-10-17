@@ -23,7 +23,7 @@ def __init__(self, content_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| content_type | [`FileContentType`](/3d/python-net/aspose.threed/filecontenttype) |  |
+| content_type | aspose.threed.FileContentType |  |
 
 
 ## \_\_init\_\_(self, format) {#aspose.threed.FileFormat}
@@ -41,7 +41,7 @@ def __init__(self, format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) |  |
+| format | aspose.threed.FileFormat |  |
 
 
 

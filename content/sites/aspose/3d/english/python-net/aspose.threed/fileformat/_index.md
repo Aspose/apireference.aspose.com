@@ -19,6 +19,7 @@ The FileFormat type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [formats](/3d/python-net/aspose.threed/fileformat/formats) | Access to all supported formats |
 | [version](/3d/python-net/aspose.threed/fileformat/version) | Gets file format version |
 | [can_export](/3d/python-net/aspose.threed/fileformat/can_export) | Gets whether Aspose.3D supports export scene to current file format. |
 | [can_import](/3d/python-net/aspose.threed/fileformat/can_import) | Gets whether Aspose.3D supports import scene from current file format. |
@@ -82,9 +83,9 @@ The FileFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`detect(, stream, file_name)`](/3d/python-net/aspose.threed/fileformat/detect/#io.rawiobase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
-| [`detect(, file_name)`](/3d/python-net/aspose.threed/fileformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
-| [`get_format_by_extension(, extension_name)`](/3d/python-net/aspose.threed/fileformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
+| [`detect(, stream, file_name)`](/3d/python-net/aspose.threed/fileformat/detect/#io.rawiobase-system.string) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [`detect(, file_name)`](/3d/python-net/aspose.threed/fileformat/detect/#system.string) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
+| [`get_format_by_extension(, extension_name)`](/3d/python-net/aspose.threed/fileformat/get_format_by_extension/#system.string) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
 | [`create_load_options(self)`](/3d/python-net/aspose.threed/fileformat/create_load_options/#) | Create a default load options for this file format |
 | [`create_save_options(self)`](/3d/python-net/aspose.threed/fileformat/create_save_options/#) | Create a default save options for this file format |
 

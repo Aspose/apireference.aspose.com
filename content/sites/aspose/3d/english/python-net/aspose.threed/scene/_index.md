@@ -3,7 +3,7 @@ title: Scene class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /python-net/aspose.threed/scene/
 is_root: false
 ---
@@ -29,7 +29,7 @@ The Scene type exposes the following members:
 | :- | :- |
 | [`__init__(self)`](/3d/python-net/aspose.threed/scene/__init__/#) | Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class. |
 | [`__init__(self, entity)`](/3d/python-net/aspose.threed/scene/__init__/#aspose.threed.entity) | Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class with an entity attached to a new node. |
-| [`__init__(self, parent_scene, name)`](/3d/python-net/aspose.threed/scene/__init__/#aspose.threed.scene-str) | Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class as a sub-scene. |
+| [`__init__(self, parent_scene, name)`](/3d/python-net/aspose.threed/scene/__init__/#aspose.threed.scene-system.string) | Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class as a sub-scene. |
 
 
 ### Properties
@@ -52,27 +52,27 @@ The Scene type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`remove_property(self, property)`](/3d/python-net/aspose.threed/scene/remove_property/#aspose.threed.property) | Removes a dynamic property. |
-| [`remove_property(self, property)`](/3d/python-net/aspose.threed/scene/remove_property/#str) | Remove the specified property identified by name |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed/scene/remove_property/#system.string) | Remove the specified property identified by name |
 | [`open(self, stream)`](/3d/python-net/aspose.threed/scene/open/#io.rawiobase) | Opens the scene from given stream |
-| [`open(self, file_name, options)`](/3d/python-net/aspose.threed/scene/open/#str-aspose.threed.formats.loadoptions) | Opens the scene from given path using specified file format. |
-| [`open(self, file_name)`](/3d/python-net/aspose.threed/scene/open/#str) | Opens the scene from given path |
+| [`open(self, file_name, options)`](/3d/python-net/aspose.threed/scene/open/#system.string-aspose.threed.formats.loadoptions) | Opens the scene from given path using specified file format. |
+| [`open(self, file_name)`](/3d/python-net/aspose.threed/scene/open/#system.string) | Opens the scene from given path |
 | [`save(self, stream, format)`](/3d/python-net/aspose.threed/scene/save/#io.rawiobase-aspose.threed.fileformat) | Saves the scene to stream using specified file format. |
 | [`save(self, stream, options)`](/3d/python-net/aspose.threed/scene/save/#io.rawiobase-aspose.threed.formats.saveoptions) | Saves the scene to stream using specified file format. |
-| [`save(self, file_name)`](/3d/python-net/aspose.threed/scene/save/#str) | Saves the scene to specified path using specified file format. |
-| [`save(self, file_name, format)`](/3d/python-net/aspose.threed/scene/save/#str-aspose.threed.fileformat) | Saves the scene to specified path using specified file format. |
-| [`save(self, file_name, options)`](/3d/python-net/aspose.threed/scene/save/#str-aspose.threed.formats.saveoptions) | Saves the scene to specified path using specified file format. |
-| [`render(self, camera, file_name)`](/3d/python-net/aspose.threed/scene/render/#aspose.threed.entities.camera-str) | Render the scene into external file from given camera's perspective.<br/>The default output size is 1024x768 and output format is png |
-| [`render(self, camera, file_name, size, format)`](/3d/python-net/aspose.threed/scene/render/#aspose.threed.entities.camera-str-aspose.threed.utilities.vector2-str) | Render the scene into external file from given camera's perspective. |
-| [`render(self, camera, file_name, size, format, options)`](/3d/python-net/aspose.threed/scene/render/#aspose.threed.entities.camera-str-aspose.threed.utilities.vector2-str-aspose.threed.imagerenderoptions) | Render the scene into external file from given camera's perspective. |
+| [`save(self, file_name)`](/3d/python-net/aspose.threed/scene/save/#system.string) | Saves the scene to specified path using specified file format. |
+| [`save(self, file_name, format)`](/3d/python-net/aspose.threed/scene/save/#system.string-aspose.threed.fileformat) | Saves the scene to specified path using specified file format. |
+| [`save(self, file_name, options)`](/3d/python-net/aspose.threed/scene/save/#system.string-aspose.threed.formats.saveoptions) | Saves the scene to specified path using specified file format. |
+| [`render(self, camera, file_name)`](/3d/python-net/aspose.threed/scene/render/#aspose.threed.entities.camera-system.string) | Render the scene into external file from given camera's perspective.<br/>The default output size is 1024x768 and output format is png |
+| [`render(self, camera, file_name, size, format)`](/3d/python-net/aspose.threed/scene/render/#aspose.threed.entities.camera-system.string-aspose.threed.utilities.vector2-system.string) | Render the scene into external file from given camera's perspective. |
+| [`render(self, camera, file_name, size, format, options)`](/3d/python-net/aspose.threed/scene/render/#aspose.threed.entities.camera-system.string-aspose.threed.utilities.vector2-system.string-aspose.threed.imagerenderoptions) | Render the scene into external file from given camera's perspective. |
 | [`render(self, camera, bitmap)`](/3d/python-net/aspose.threed/scene/render/#aspose.threed.entities.camera-aspose.threed.render.texturedata) | Render the scene into bitmap from given camera's perspective. |
 | [`render(self, camera, bitmap, options)`](/3d/python-net/aspose.threed/scene/render/#aspose.threed.entities.camera-aspose.threed.render.texturedata-aspose.threed.imagerenderoptions) | Render the scene into bitmap from given camera's perspective. |
-| [`get_property(self, property)`](/3d/python-net/aspose.threed/scene/get_property/#str) | Get the value of specified property |
-| [`set_property(self, property, value)`](/3d/python-net/aspose.threed/scene/set_property/#str-any) | Sets the value of specified property |
-| [`find_property(self, property_name)`](/3d/python-net/aspose.threed/scene/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [`get_animation_clip(self, name)`](/3d/python-net/aspose.threed/scene/get_animation_clip/#str) | Gets a named [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed/scene/get_property/#system.string) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed/scene/set_property/#system.string-system.object) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed/scene/find_property/#system.string) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_animation_clip(self, name)`](/3d/python-net/aspose.threed/scene/get_animation_clip/#system.string) | Gets a named [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) |
 | [`clear(self)`](/3d/python-net/aspose.threed/scene/clear/#) | Clears the scene content and restores the default settings. |
-| [`create_animation_clip(self, name)`](/3d/python-net/aspose.threed/scene/create_animation_clip/#str) | A shorthand function to create and register the [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)<br/>The first [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) will be assigned to the [`Scene.current_animation_clip`](/3d/python-net/aspose.threed/scene#current_animation_clip) |
-| [`from_file(, file_name)`](/3d/python-net/aspose.threed/scene/from_file/#str) | Opens the scene from given path |
+| [`create_animation_clip(self, name)`](/3d/python-net/aspose.threed/scene/create_animation_clip/#system.string) | A shorthand function to create and register the [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)<br/>The first [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) will be assigned to the [`Scene.current_animation_clip`](/3d/python-net/aspose.threed/scene#current_animation_clip) |
+| [`from_file(, file_name)`](/3d/python-net/aspose.threed/scene/from_file/#system.string) | Opens the scene from given path |
 
 
 

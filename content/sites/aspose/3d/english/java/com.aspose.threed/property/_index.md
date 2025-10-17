@@ -1,40 +1,101 @@
 ---
-title: Property
+title: StructuralMetadata.Property
 second_title: Aspose.3D for Java API Reference
-description: Class to hold user-defined properties.
+description: The property definition in meta datas classes
 type: docs
-weight: 135
-url: /java/com.aspose.threed/property/
+weight: 13
+url: /java/com.aspose.threed/structuralmetadata.property/
 ---
 
 **Inheritance:**
 java.lang.Object
 ```
-public abstract class Property
+public static class StructuralMetadata.Property
 ```
 
-Class to hold user-defined properties.
+The property definition in meta data's classes
+## Constructors
+
+| Constructor | Description |
+| --- | --- |
+| [Property(String name, String displayName, String description, Class<?> type, boolean normalized, Integer count)](#Property-java.lang.String-java.lang.String-java.lang.String-java.lang.Class----boolean-java.lang.Integer-) | Constructor of metadata's property |
+| [Property(String name, String displayName, String description, StructuralMetadata.EnumType type, boolean array, Integer count)](#Property-java.lang.String-java.lang.String-java.lang.String-com.aspose.threed.StructuralMetadata.EnumType-boolean-java.lang.Integer-) | Constructor of metadata's property |
+| [Property(String name, Class<?> type)](#Property-java.lang.String-java.lang.Class----) | Constructor of metadata's property |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBindPoint(AnimationNode anim, boolean create)](#getBindPoint-com.aspose.threed.AnimationNode-boolean-) | Gets the property bind point on specified animation instance. |
 | [getClass()](#getClass--) |  |
-| [getExtra(String name)](#getExtra-java.lang.String-) | Gets extra data of the property associated by name. |
-| [getKeyframeSequence(AnimationNode anim, boolean create)](#getKeyframeSequence-com.aspose.threed.AnimationNode-boolean-) | Gets the keyframe sequence on specified animation instance. |
-| [getName()](#getName--) | Gets the name of the property |
-| [getValue()](#getValue--) | Gets the value. |
-| [getValueType()](#getValueType--) | Gets the type of the property value. |
+| [getCount()](#getCount--) | Count of the data for fixed-size array. |
+| [getDescription()](#getDescription--) | The description of the property |
+| [getDisplayName()](#getDisplayName--) | The name of the property, used by UI for representation. |
+| [getEnumType()](#getEnumType--) | The enum type |
+| [getName()](#getName--) | The unique name of the property |
+| [getNormalized()](#getNormalized--) | Is the data normalized. |
+| [getType()](#getType--) | The data type of the property |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [setExtra(String name, Object value)](#setExtra-java.lang.String-java.lang.Object-) | Sets extra data of the property associated by name. |
-| [setValue(Object value)](#setValue-java.lang.Object-) | Sets the value. |
-| [toString()](#toString--) | Returns a string that represents the current [Property](../../com.aspose.threed/property). |
+| [setCount(Integer value)](#setCount-java.lang.Integer-) | Count of the data for fixed-size array. |
+| [setDescription(String value)](#setDescription-java.lang.String-) | The description of the property |
+| [setDisplayName(String value)](#setDisplayName-java.lang.String-) | The name of the property, used by UI for representation. |
+| [setEnumType(StructuralMetadata.EnumType value)](#setEnumType-com.aspose.threed.StructuralMetadata.EnumType-) | The enum type |
+| [setNormalized(boolean value)](#setNormalized-boolean-) | Is the data normalized. |
+| [toString()](#toString--) | Gets the string representation of this instance. |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### Property(String name, String displayName, String description, Class<?> type, boolean normalized, Integer count) {#Property-java.lang.String-java.lang.String-java.lang.String-java.lang.Class----boolean-java.lang.Integer-}
+```
+public Property(String name, String displayName, String description, Class<?> type, boolean normalized, Integer count)
+```
+
+
+Constructor of metadata's property
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String | The unique name of the property |
+| displayName | java.lang.String | The name of the property, used by UI for representation. |
+| description | java.lang.String | The description of the property |
+| type | java.lang.Class<?> | Data type of the property |
+| normalized | boolean | Is the data normalized |
+| count | java.lang.Integer | Count of the data for fixed-size array |
+
+### Property(String name, String displayName, String description, StructuralMetadata.EnumType type, boolean array, Integer count) {#Property-java.lang.String-java.lang.String-java.lang.String-com.aspose.threed.StructuralMetadata.EnumType-boolean-java.lang.Integer-}
+```
+public Property(String name, String displayName, String description, StructuralMetadata.EnumType type, boolean array, Integer count)
+```
+
+
+Constructor of metadata's property
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String | The unique name of the property |
+| displayName | java.lang.String | The name of the property, used by UI for representation. |
+| description | java.lang.String | The description of the property |
+| type | [EnumType](../../com.aspose.threed/enumtype) | Data type of the property |
+| array | boolean | Is each property value array or scalar |
+| count | java.lang.Integer | Count of the data for fixed-size array |
+
+### Property(String name, Class<?> type) {#Property-java.lang.String-java.lang.Class----}
+```
+public Property(String name, Class<?> type)
+```
+
+
+Constructor of metadata's property
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String | The unique name of the property |
+| type | java.lang.Class<?> | Data type of the property |
+
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -50,22 +111,6 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
-### getBindPoint(AnimationNode anim, boolean create) {#getBindPoint-com.aspose.threed.AnimationNode-boolean-}
-```
-public BindPoint getBindPoint(AnimationNode anim, boolean create)
-```
-
-
-Gets the property bind point on specified animation instance.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| anim | [AnimationNode](../../com.aspose.threed/animationnode) | On which animation to create the bind point. |
-| create | boolean | Create the property bind point if it's not found. |
-
-**Returns:**
-[BindPoint](../../com.aspose.threed/bindpoint) - The property bind point on specified animation instance
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -76,67 +121,76 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getExtra(String name) {#getExtra-java.lang.String-}
+### getCount() {#getCount--}
 ```
-public Object getExtra(String name)
+public Integer getCount()
 ```
 
 
-Gets extra data of the property associated by name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | The name of the property's extra data |
+Count of the data for fixed-size array.
 
 **Returns:**
-java.lang.Object - The extra data associated by name
-### getKeyframeSequence(AnimationNode anim, boolean create) {#getKeyframeSequence-com.aspose.threed.AnimationNode-boolean-}
+java.lang.Integer - Count of the data for fixed-size array.
+### getDescription() {#getDescription--}
 ```
-public KeyframeSequence getKeyframeSequence(AnimationNode anim, boolean create)
+public String getDescription()
 ```
 
 
-Gets the keyframe sequence on specified animation instance.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| anim | [AnimationNode](../../com.aspose.threed/animationnode) | On which animation to create the keyframe sequence. |
-| create | boolean | Create the keyframe sequence if it's not found. |
+The description of the property
 
 **Returns:**
-[KeyframeSequence](../../com.aspose.threed/keyframesequence) - The keyframe sequence on specified animation instance
+java.lang.String - The description of the property
+### getDisplayName() {#getDisplayName--}
+```
+public String getDisplayName()
+```
+
+
+The name of the property, used by UI for representation.
+
+**Returns:**
+java.lang.String - The name of the property, used by UI for representation.
+### getEnumType() {#getEnumType--}
+```
+public StructuralMetadata.EnumType getEnumType()
+```
+
+
+The enum type
+
+**Returns:**
+[EnumType](../../com.aspose.threed/enumtype) - The enum type
 ### getName() {#getName--}
 ```
 public String getName()
 ```
 
 
-Gets the name of the property
+The unique name of the property
 
 **Returns:**
-java.lang.String - the name of the property
-### getValue() {#getValue--}
+java.lang.String - The unique name of the property
+### getNormalized() {#getNormalized--}
 ```
-public abstract Object getValue()
+public boolean getNormalized()
 ```
 
 
-Gets the value.
+Is the data normalized.
 
 **Returns:**
-java.lang.Object - the value.
-### getValueType() {#getValueType--}
+boolean - Is the data normalized.
+### getType() {#getType--}
 ```
-public abstract Class<?> getValueType()
+public Class<?> getType()
 ```
 
 
-Gets the type of the property value.
+The data type of the property
 
 **Returns:**
-java.lang.Class<?> - the type of the property value.
+java.lang.Class<?> - The data type of the property
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -163,32 +217,70 @@ public final native void notifyAll()
 
 
 
-### setExtra(String name, Object value) {#setExtra-java.lang.String-java.lang.Object-}
+### setCount(Integer value) {#setCount-java.lang.Integer-}
 ```
-public void setExtra(String name, Object value)
+public void setCount(Integer value)
 ```
 
 
-Sets extra data of the property associated by name.
+Count of the data for fixed-size array.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | java.lang.String | The name of the property's extra data |
-| value | java.lang.Object | The value of the property's extra data |
+| value | java.lang.Integer | New value |
 
-### setValue(Object value) {#setValue-java.lang.Object-}
+### setDescription(String value) {#setDescription-java.lang.String-}
 ```
-public abstract void setValue(Object value)
+public void setDescription(String value)
 ```
 
 
-Sets the value.
+The description of the property
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.Object | New value |
+| value | java.lang.String | New value |
+
+### setDisplayName(String value) {#setDisplayName-java.lang.String-}
+```
+public void setDisplayName(String value)
+```
+
+
+The name of the property, used by UI for representation.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | New value |
+
+### setEnumType(StructuralMetadata.EnumType value) {#setEnumType-com.aspose.threed.StructuralMetadata.EnumType-}
+```
+public void setEnumType(StructuralMetadata.EnumType value)
+```
+
+
+The enum type
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [EnumType](../../com.aspose.threed/enumtype) | New value |
+
+### setNormalized(boolean value) {#setNormalized-boolean-}
+```
+public void setNormalized(boolean value)
+```
+
+
+Is the data normalized.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
 
 ### toString() {#toString--}
 ```
@@ -196,10 +288,10 @@ public String toString()
 ```
 
 
-Returns a string that represents the current [Property](../../com.aspose.threed/property).
+Gets the string representation of this instance.
 
 **Returns:**
-java.lang.String - A string that represents the current [Property](../../com.aspose.threed/property).
+java.lang.String
 ### wait() {#wait--}
 ```
 public final void wait()

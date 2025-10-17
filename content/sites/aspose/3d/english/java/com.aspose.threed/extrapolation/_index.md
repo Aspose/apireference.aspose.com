@@ -3,7 +3,7 @@ title: Extrapolation
 second_title: Aspose.3D for Java API Reference
 description: Extrapolation defines how to do when sampled value is out of the range which defined by the first and last key-frames.
 type: docs
-weight: 55
+weight: 57
 url: /java/com.aspose.threed/extrapolation/
 ---
 

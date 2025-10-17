@@ -3,7 +3,7 @@ title: Box
 second_title: Aspose.3D for Java API Reference
 description: Box.
 type: docs
-weight: 24
+weight: 26
 url: /java/com.aspose.threed/box/
 ---
 

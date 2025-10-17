@@ -31,4 +31,5 @@ def to_mesh(self):
 
 ### See Also
 * module [`aspose.threed.entities`](../../)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
 * class [`Plane`](/3d/python-net/aspose.threed.entities/plane)

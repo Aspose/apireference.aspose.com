@@ -30,7 +30,7 @@ def from_angle_axis(a, axis):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | a | float | Clockwise rotation in radian |
-| axis | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Axis |
+| axis | aspose.threed.utilities.Vector3 | Axis |
 
 
 

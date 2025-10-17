@@ -29,7 +29,7 @@ def rotate(q):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| q | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) | Rotation quaternion |
+| q | aspose.threed.utilities.Quaternion | Rotation quaternion |
 
 
 ## rotate(, angle, axis) {#float-aspose.threed.utilities.Vector3}
@@ -54,7 +54,7 @@ def rotate(angle, axis):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | angle | float | Rotate angle in radian |
-| axis | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Rotation axis |
+| axis | aspose.threed.utilities.Vector3 | Rotation axis |
 
 ### Example 
 

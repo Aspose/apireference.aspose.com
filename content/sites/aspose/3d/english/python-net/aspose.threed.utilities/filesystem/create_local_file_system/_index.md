@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/filesystem/create_local_file_system/
 is_root: false
 ---
 
-## create_local_file_system(, directory) {#str}
+## create_local_file_system(, directory) {#System.String}
 
 Initialize a new [`FileSystem`](/3d/python-net/aspose.threed.utilities/filesystem) that only access local directory.
 All file read/write on this FileSystem instance will be mapped to specified directory.
@@ -30,7 +30,7 @@ def create_local_file_system(directory):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| directory | str | The directory in your physical file system as the virtual root directory. |
+| directory | System.String | The directory in your physical file system as the virtual root directory. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

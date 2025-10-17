@@ -26,9 +26,9 @@ def load_data(self, mesh):
 | mesh | aspose.threed.entities.TriMesh |  |
 
 
-## load_data(self, array) {#Array}
+## load_data(self, array) {#System.Array}
 
-
+Load data from array
 
 
 
@@ -41,7 +41,7 @@ def load_data(self, array):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| array | Array |  |
+| array | System.Array |  |
 
 
 ## load_data(self, data) {#bytes}

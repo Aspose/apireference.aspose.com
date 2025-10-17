@@ -23,11 +23,11 @@ def __init__(self, coordinate_system, up):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| coordinate_system | [`CoordinateSystem`](/3d/python-net/aspose.threed/coordinatesystem) | The coordinate system used in this axis system |
-| up | [`Axis`](/3d/python-net/aspose.threed/axis) | The up vector of the axis system |
+| coordinate_system | aspose.threed.CoordinateSystem | The coordinate system used in this axis system |
+| up | aspose.threed.Axis | The up vector of the axis system |
 
 
-## \_\_init\_\_(self, up, front) {#aspose.threed.Axis-Nullable<Axis>}
+## \_\_init\_\_(self, up, front) {#aspose.threed.Axis-System.Nullable`1[[Aspose.ThreeD.Axis]]}
 
 Constructs a new instance of AxisSystem
 
@@ -42,8 +42,8 @@ def __init__(self, up, front):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| up | [`Axis`](/3d/python-net/aspose.threed/axis) |  |
-| front | Nullable<Axis> |  |
+| up | aspose.threed.Axis |  |
+| front | System.Nullable`1[[Aspose.ThreeD.Axis]] |  |
 
 
 ## \_\_init\_\_(self, coordinate_system, up, front) {#aspose.threed.CoordinateSystem-aspose.threed.Axis-aspose.threed.Axis}
@@ -61,12 +61,12 @@ def __init__(self, coordinate_system, up, front):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| coordinate_system | [`CoordinateSystem`](/3d/python-net/aspose.threed/coordinatesystem) | The coordinate system used in this axis system |
-| up | [`Axis`](/3d/python-net/aspose.threed/axis) | The up vector of the axis system |
-| front | [`Axis`](/3d/python-net/aspose.threed/axis) | The front vector of the axis system |
+| coordinate_system | aspose.threed.CoordinateSystem | The coordinate system used in this axis system |
+| up | aspose.threed.Axis | The up vector of the axis system |
+| front | aspose.threed.Axis | The front vector of the axis system |
 
 
-## \_\_init\_\_(self, coordinate_system, up, front) {#Nullable<CoordinateSystem>-Nullable<Axis>-Nullable<Axis>}
+## \_\_init\_\_(self, coordinate_system, up, front) {#System.Nullable`1[[Aspose.ThreeD.CoordinateSystem]]-System.Nullable`1[[Aspose.ThreeD.Axis]]-System.Nullable`1[[Aspose.ThreeD.Axis]]}
 
 Constructs a new instance of AxisSystem
 
@@ -81,9 +81,9 @@ def __init__(self, coordinate_system, up, front):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| coordinate_system | Nullable<CoordinateSystem> |  |
-| up | Nullable<Axis> |  |
-| front | Nullable<Axis> |  |
+| coordinate_system | System.Nullable`1[[Aspose.ThreeD.CoordinateSystem]] |  |
+| up | System.Nullable`1[[Aspose.ThreeD.Axis]] |  |
+| front | System.Nullable`1[[Aspose.ThreeD.Axis]] |  |
 
 
 

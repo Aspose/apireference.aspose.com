@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/microsoft3mfformat/set_buildable/
 is_root: false
 ---
 
-## set_buildable(self, node, value, transform) {#aspose.threed.Node-bool-Nullable<Aspose.ThreeD.Utilities.Matrix4>}
+## set_buildable(self, node, value, transform) {#aspose.threed.Node-bool-System.Nullable`1[[Aspose.ThreeD.Utilities.Matrix4]]}
 
 
 
@@ -23,9 +23,9 @@ def set_buildable(self, node, value, transform):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node | [`Node`](/3d/python-net/aspose.threed/node) |  |
+| node | aspose.threed.Node |  |
 | value | bool |  |
-| transform | Nullable<Aspose.ThreeD.Utilities.Matrix4> |  |
+| transform | System.Nullable`1[[Aspose.ThreeD.Utilities.Matrix4]] |  |
 
 
 

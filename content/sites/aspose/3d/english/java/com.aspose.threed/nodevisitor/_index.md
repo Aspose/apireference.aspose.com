@@ -3,7 +3,7 @@ title: NodeVisitor
 second_title: Aspose.3D for Java API Reference
 description: A callback to travel through the whole node hierarchy.
 type: docs
-weight: 256
+weight: 261
 url: /java/com.aspose.threed/nodevisitor/
 ---
 ```

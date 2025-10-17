@@ -28,7 +28,7 @@ def concat(self, rhs):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rhs | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) |  |
+| rhs | aspose.threed.utilities.Quaternion |  |
 
 
 

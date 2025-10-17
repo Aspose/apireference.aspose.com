@@ -23,7 +23,7 @@ def transform_pixel_format(self, pixel_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pixel_format | [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat) | Destination pixel format |
+| pixel_format | aspose.threed.render.PixelFormat | Destination pixel format |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

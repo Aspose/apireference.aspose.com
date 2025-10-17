@@ -37,3 +37,4 @@ def decode(stream, reverse_y):
 ### See Also
 * module [`aspose.threed.render`](../../)
 * class [`TextureCodec`](/3d/python-net/aspose.threed.render/texturecodec)
+* class [`TextureData`](/3d/python-net/aspose.threed.render/texturedata)

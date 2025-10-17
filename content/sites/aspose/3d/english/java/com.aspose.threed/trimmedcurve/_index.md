@@ -3,7 +3,7 @@ title: TrimmedCurve
 second_title: Aspose.3D for Java API Reference
 description: A bounded curve that trimmed the basis curve at both ends.
 type: docs
-weight: 191
+weight: 196
 url: /java/com.aspose.threed/trimmedcurve/
 ---
 

@@ -3,7 +3,7 @@ title: Discreet3dsSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for 3DS file.
 type: docs
-weight: 42
+weight: 44
 url: /java/com.aspose.threed/discreet3dssaveoptions/
 ---
 

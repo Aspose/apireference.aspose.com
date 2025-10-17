@@ -38,7 +38,7 @@ def __init__(self, vec):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| vec | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Vec. |
+| vec | aspose.threed.utilities.Vector3 | Vec. |
 
 
 ## \_\_init\_\_(self, vec) {#aspose.threed.utilities.FVector4}
@@ -56,7 +56,7 @@ def __init__(self, vec):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| vec | [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4) | Vec. |
+| vec | aspose.threed.utilities.FVector4 | Vec. |
 
 
 ## \_\_init\_\_(self, vec, w) {#aspose.threed.utilities.Vector3-float}
@@ -74,7 +74,7 @@ def __init__(self, vec, w):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| vec | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Vec. |
+| vec | aspose.threed.utilities.Vector3 | Vec. |
 | w | float | The width. |
 
 

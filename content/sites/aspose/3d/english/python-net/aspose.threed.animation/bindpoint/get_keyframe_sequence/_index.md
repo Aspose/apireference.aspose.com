@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/bindpoint/get_keyframe_sequence/
 is_root: false
 ---
 
-## get_keyframe_sequence(self, channel_name) {#str}
+## get_keyframe_sequence(self, channel_name) {#System.String}
 
 Gets the first keyframe sequence in specified channel
 
@@ -28,10 +28,11 @@ def get_keyframe_sequence(self, channel_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| channel_name | str | The channel name to find |
+| channel_name | System.String | The channel name to find |
 
 
 
 ### See Also
 * module [`aspose.threed.animation`](../../)
 * class [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint)
+* class [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence)

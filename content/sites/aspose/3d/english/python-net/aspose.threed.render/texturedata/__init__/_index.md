@@ -40,7 +40,7 @@ def __init__(self, width, height, pixel_format):
 | :- | :- | :- |
 | width | int |  |
 | height | int |  |
-| pixel_format | [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat) |  |
+| pixel_format | aspose.threed.render.PixelFormat |  |
 
 
 ## \_\_init\_\_(self, width, height, stride, bytes_per_pixel, pixel_format, data) {#int-int-int-int-aspose.threed.render.PixelFormat-bytes}
@@ -62,7 +62,7 @@ def __init__(self, width, height, stride, bytes_per_pixel, pixel_format, data):
 | height | int |  |
 | stride | int |  |
 | bytes_per_pixel | int |  |
-| pixel_format | [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat) |  |
+| pixel_format | aspose.threed.render.PixelFormat |  |
 | data | bytes |  |
 
 

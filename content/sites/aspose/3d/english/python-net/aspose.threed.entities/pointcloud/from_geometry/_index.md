@@ -29,7 +29,7 @@ def from_geometry(g):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| g | [`Geometry`](/3d/python-net/aspose.threed.entities/geometry) |  |
+| g | aspose.threed.entities.Geometry |  |
 
 
 ## from_geometry(, g, density) {#aspose.threed.entities.Geometry-int}
@@ -54,7 +54,7 @@ def from_geometry(g, density):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| g | [`Geometry`](/3d/python-net/aspose.threed.entities/geometry) | Mesh or other geometry instance |
+| g | aspose.threed.entities.Geometry | Mesh or other geometry instance |
 | density | int | Number of points per unit triangle |
 
 

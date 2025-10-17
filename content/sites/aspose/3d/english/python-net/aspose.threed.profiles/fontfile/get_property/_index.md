@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/fontfile/get_property/
 is_root: false
 ---
 
-## get_property(self, property) {#str}
+## get_property(self, property) {#System.String}
 
 Get the value of specified property
 
@@ -28,7 +28,7 @@ def get_property(self, property):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property | str | Property name |
+| property | System.String | Property name |
 
 
 

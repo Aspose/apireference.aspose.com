@@ -15,6 +15,7 @@ All 2D profile classes are defined in this namespace.
 | :- | :- |
 | [`ArbitraryProfile`](/3d/python-net/aspose.threed.profiles/arbitraryprofile) | This class allows you to construct a 2D profile directly from arbitrary curve. |
 | [`CShape`](/3d/python-net/aspose.threed.profiles/cshape) | IFC compatible C-shape profile that defined by parameters.<br/>The center position of the profile is in the center of the bounding box. |
+| [`CenterLineProfile`](/3d/python-net/aspose.threed.profiles/centerlineprofile) | IFC compatible center line profile |
 | [`CircleShape`](/3d/python-net/aspose.threed.profiles/circleshape) | IFC compatible circle profile, which can be used to construct a mesh through [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion) |
 | [`EllipseShape`](/3d/python-net/aspose.threed.profiles/ellipseshape) | IFC compatible ellipse shape that defined by parameters.<br/>The center position of the profile is in the center of the bounding box. |
 | [`FontFile`](/3d/python-net/aspose.threed.profiles/fontfile) | Font file contains definitions for glyphs, this is used to create text profile. |

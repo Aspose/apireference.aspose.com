@@ -54,12 +54,12 @@ The PbrSpecularMaterial type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`remove_property(self, property)`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/remove_property/#aspose.threed.property) | Removes a dynamic property. |
-| [`remove_property(self, property)`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/remove_property/#str) | Remove the specified property identified by name |
-| [`get_property(self, property)`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/get_property/#str) | Get the value of specified property |
-| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/set_property/#str-any) | Sets the value of specified property |
-| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [`get_texture(self, slot_name)`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/get_texture/#str) | Gets the texture from the specified slot, it can be material's property name or shader's parameter name |
-| [`set_texture(self, slot_name, texture)`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/set_texture/#str-aspose.threed.shading.texturebase) | Sets the texture to specified slot |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/remove_property/#system.string) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/get_property/#system.string) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/set_property/#system.string-system.object) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/find_property/#system.string) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_texture(self, slot_name)`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/get_texture/#system.string) | Gets the texture from the specified slot, it can be material's property name or shader's parameter name |
+| [`set_texture(self, slot_name, texture)`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/set_texture/#system.string-aspose.threed.shading.texturebase) | Sets the texture to specified slot |
 
 
 

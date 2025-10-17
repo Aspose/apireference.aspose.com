@@ -3,7 +3,7 @@ title: IOExtension
 second_title: Aspose.3D for Java API Reference
 description: Utilities to write matrix/vector to binary writer
 type: docs
-weight: 78
+weight: 82
 url: /java/com.aspose.threed/ioextension/
 ---
 

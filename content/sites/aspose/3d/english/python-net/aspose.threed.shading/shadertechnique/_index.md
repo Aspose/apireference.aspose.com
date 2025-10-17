@@ -38,7 +38,7 @@ The ShaderTechnique type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`add_binding(self, property, shader_parameter)`](/3d/python-net/aspose.threed.shading/shadertechnique/add_binding/#str-str) | Binds the dynamic property to shader parameter |
+| [`add_binding(self, property, shader_parameter)`](/3d/python-net/aspose.threed.shading/shadertechnique/add_binding/#system.string-system.string) | Binds the dynamic property to shader parameter |
 
 
 

@@ -3,7 +3,7 @@ title: CenterLineProfile
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible center line profile
 type: docs
-weight: 28
+weight: 30
 url: /java/com.aspose.threed/centerlineprofile/
 ---
 

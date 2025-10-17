@@ -3,7 +3,7 @@ title: scene property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 220
 url: /python-net/aspose.threed.entities/nurbscurve/scene/
 is_root: false
 ---

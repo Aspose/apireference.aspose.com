@@ -30,7 +30,7 @@ def merge_mesh(scene):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| scene | [`Scene`](/3d/python-net/aspose.threed/scene) | The scene to merge |
+| scene | aspose.threed.Scene | The scene to merge |
 
 ### Example 
 
@@ -93,7 +93,7 @@ def merge_mesh(node):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node | [`Node`](/3d/python-net/aspose.threed/node) | The node to merge |
+| node | aspose.threed.Node | The node to merge |
 
 ### Example 
 
@@ -118,4 +118,5 @@ newScene.save("test.obj")
 
 ### See Also
 * module [`aspose.threed.entities`](../../)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
 * class [`PolygonModifier`](/3d/python-net/aspose.threed.entities/polygonmodifier)

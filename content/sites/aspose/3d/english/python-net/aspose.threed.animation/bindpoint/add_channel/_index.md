@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/bindpoint/add_channel/
 is_root: false
 ---
 
-## add_channel(self, name, value) {#str-any}
+## add_channel(self, name, value) {#System.String-System.Object}
 
 Adds the specified channel property.
 
@@ -28,14 +28,19 @@ def add_channel(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name. |
-| value | any | Value. |
+| name | System.String | Name. |
+| value | System.Object | Value. |
 
 
-## add_channel(self, name, type, value) {#str-Type-any}
+## add_channel(self, name, type, value) {#System.String-System.Type-System.Object}
+
+Adds the specified channel property.
 
 
+### Returns 
 
+
+true, if channel was added, false otherwise.
 
 
 ```python
@@ -47,9 +52,9 @@ def add_channel(self, name, type, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str |  |
-| type | Type |  |
-| value | any |  |
+| name | System.String | Name. |
+| type | System.Type | Type. |
+| value | System.Object | Value. |
 
 
 

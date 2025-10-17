@@ -43,10 +43,11 @@ The BoundingBox type exposes the following members:
 | [`merge(self, pt)`](/3d/python-net/aspose.threed.utilities/boundingbox/merge/#aspose.threed.utilities.vector3) | Merge current bounding box with given point |
 | [`merge(self, x, y, z)`](/3d/python-net/aspose.threed.utilities/boundingbox/merge/#float-float-float) | Merge current bounding box with given point |
 | [`merge(self, bb)`](/3d/python-net/aspose.threed.utilities/boundingbox/merge/#aspose.threed.utilities.boundingbox) | Merges the new box into the current bounding box. |
+| [`contains(self, p)`](/3d/python-net/aspose.threed.utilities/boundingbox/contains/#aspose.threed.utilities.vector3) | Check if the point p is inside the bounding box |
+| [`contains(self, bbox)`](/3d/python-net/aspose.threed.utilities/boundingbox/contains/#aspose.threed.utilities.boundingbox) | The bounding box to check if it's inside current bounding box. |
 | [`scale(self)`](/3d/python-net/aspose.threed.utilities/boundingbox/scale/#) | Calculates the absolute largest coordinate value of any contained point. |
 | [`from_geometry(, geometry)`](/3d/python-net/aspose.threed.utilities/boundingbox/from_geometry/#aspose.threed.entities.geometry) | Construct a bounding box from given geometry |
 | [`overlaps_with(self, box)`](/3d/python-net/aspose.threed.utilities/boundingbox/overlaps_with/#aspose.threed.utilities.boundingbox) | Check if current bounding box overlaps with specified bounding box. |
-| [`contains(self, p)`](/3d/python-net/aspose.threed.utilities/boundingbox/contains/#aspose.threed.utilities.vector3) | Check if the point p is inside the bounding box |
 
 
 

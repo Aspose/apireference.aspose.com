@@ -3,7 +3,7 @@ title: FileContentType enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 270
 url: /python-net/aspose.threed/filecontenttype/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: IBuffer
 second_title: Aspose.3D for Java API Reference
 description: The base interface of all managed buffers used in rendering
 type: docs
-weight: 234
+weight: 239
 url: /java/com.aspose.threed/ibuffer/
 ---
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/animationnode/get_bind_point/
 is_root: false
 ---
 
-## get_bind_point(self, target, prop_name, create) {#aspose.threed.A3DObject-str-bool}
+## get_bind_point(self, target, prop_name, create) {#aspose.threed.A3DObject-System.String-bool}
 
 Gets the animation bind point on given property.
 
@@ -28,8 +28,8 @@ def get_bind_point(self, target, prop_name, create):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| target | [`A3DObject`](/3d/python-net/aspose.threed/a3dobject) | On which object to create the bind point. |
-| prop_name | str | The property's name. |
+| target | aspose.threed.A3DObject | On which object to create the bind point. |
+| prop_name | System.String | The property's name. |
 | create | bool | If set to `true` create the bind point if it's not existing. |
 
 
@@ -37,3 +37,4 @@ def get_bind_point(self, target, prop_name, create):
 ### See Also
 * module [`aspose.threed.animation`](../../)
 * class [`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode)
+* class [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint)

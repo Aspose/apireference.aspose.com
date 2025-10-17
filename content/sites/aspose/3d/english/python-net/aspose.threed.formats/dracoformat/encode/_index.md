@@ -28,8 +28,8 @@ def encode(self, entity, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to be encoded |
-| options | [`DracoSaveOptions`](/3d/python-net/aspose.threed.formats/dracosaveoptions) | Extra options for encoding the point cloud |
+| entity | aspose.threed.Entity | The entity to be encoded |
+| options | aspose.threed.formats.DracoSaveOptions | Extra options for encoding the point cloud |
 
 ### Example 
 
@@ -65,9 +65,9 @@ def encode(self, entity, stream, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to be encoded |
+| entity | aspose.threed.Entity | The entity to be encoded |
 | stream | io.RawIOBase | The stream that encoded data will be written to |
-| options | [`DracoSaveOptions`](/3d/python-net/aspose.threed.formats/dracosaveoptions) | Extra options for encoding the point cloud |
+| options | aspose.threed.formats.DracoSaveOptions | Extra options for encoding the point cloud |
 ### Exceptions
 | Exception | Description |
 | :- | :- |
@@ -94,7 +94,7 @@ decodedMesh = pycore.cast(Mesh, FileFormat.DRACO.decode(draco))
 ```
 
 
-## encode(self, entity, file_name, options) {#aspose.threed.Entity-str-aspose.threed.formats.DracoSaveOptions}
+## encode(self, entity, file_name, options) {#aspose.threed.Entity-System.String-aspose.threed.formats.DracoSaveOptions}
 
 Encode the entity to specified file
 
@@ -109,9 +109,9 @@ def encode(self, entity, file_name, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to be encoded |
-| file_name | str | The file name to be written |
-| options | [`DracoSaveOptions`](/3d/python-net/aspose.threed.formats/dracosaveoptions) | Extra options for encoding the point cloud |
+| entity | aspose.threed.Entity | The entity to be encoded |
+| file_name | System.String | The file name to be written |
+| options | aspose.threed.formats.DracoSaveOptions | Extra options for encoding the point cloud |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

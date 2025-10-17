@@ -29,7 +29,7 @@ def from_material(material):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| material | [`Material`](/3d/python-net/aspose.threed.shading/material) |  |
+| material | aspose.threed.shading.Material |  |
 
 ### Example 
 

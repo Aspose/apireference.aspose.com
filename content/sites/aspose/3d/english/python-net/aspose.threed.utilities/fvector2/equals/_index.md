@@ -28,7 +28,7 @@ def equals(self, rhs):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rhs | [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2) |  |
+| rhs | aspose.threed.utilities.FVector2 |  |
 
 
 

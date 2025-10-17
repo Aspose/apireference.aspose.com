@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/dracoformat/decode/
 is_root: false
 ---
 
-## decode(self, file_name) {#str}
+## decode(self, file_name) {#System.String}
 
 Decode the point cloud or mesh from specified file name
 
@@ -28,7 +28,7 @@ def decode(self, file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | The file name contains the drc file |
+| file_name | System.String | The file name contains the drc file |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

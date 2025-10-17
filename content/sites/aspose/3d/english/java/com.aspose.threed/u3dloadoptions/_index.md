@@ -3,7 +3,7 @@ title: U3dLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: Load options for universal 3d
 type: docs
-weight: 192
+weight: 197
 url: /java/com.aspose.threed/u3dloadoptions/
 ---
 

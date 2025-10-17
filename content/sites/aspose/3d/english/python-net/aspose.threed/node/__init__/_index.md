@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## \_\_init\_\_(self, name) {#str}
+## \_\_init\_\_(self, name) {#System.String}
 
 Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class.
 
@@ -38,10 +38,10 @@ def __init__(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name. |
+| name | System.String | Name. |
 
 
-## \_\_init\_\_(self, name, entity) {#str-aspose.threed.Entity}
+## \_\_init\_\_(self, name, entity) {#System.String-aspose.threed.Entity}
 
 Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class.
 
@@ -56,8 +56,8 @@ def __init__(self, name, entity):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name. |
-| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | Default entity. |
+| name | System.String | Name. |
+| entity | aspose.threed.Entity | Default entity. |
 
 
 

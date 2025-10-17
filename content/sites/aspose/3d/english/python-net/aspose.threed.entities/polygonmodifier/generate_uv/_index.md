@@ -29,7 +29,7 @@ def generate_uv(mesh):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | The input mesh |
+| mesh | aspose.threed.entities.Mesh | The input mesh |
 
 
 ## generate_uv(, mesh, normals) {#aspose.threed.entities.Mesh-aspose.threed.entities.VertexElementNormal}
@@ -53,11 +53,12 @@ def generate_uv(mesh, normals):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | The input mesh |
-| normals | [`VertexElementNormal`](/3d/python-net/aspose.threed.entities/vertexelementnormal) | The normal data |
+| mesh | aspose.threed.entities.Mesh | The input mesh |
+| normals | aspose.threed.entities.VertexElementNormal | The normal data |
 
 
 
 ### See Also
 * module [`aspose.threed.entities`](../../)
 * class [`PolygonModifier`](/3d/python-net/aspose.threed.entities/polygonmodifier)
+* class [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv)

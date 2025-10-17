@@ -23,8 +23,8 @@ def frame_end(self, renderer, render_queue):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| renderer | [`Renderer`](/3d/python-net/aspose.threed.render/renderer) | Current renderer |
-| render_queue | [`IRenderQueue`](/3d/python-net/aspose.threed.render/irenderqueue) | Render queue |
+| renderer | aspose.threed.render.Renderer | Current renderer |
+| render_queue | aspose.threed.render.IRenderQueue | Render queue |
 
 
 

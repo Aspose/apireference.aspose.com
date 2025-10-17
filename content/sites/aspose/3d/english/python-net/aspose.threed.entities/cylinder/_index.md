@@ -3,7 +3,7 @@ title: Cylinder class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 80
 url: /python-net/aspose.threed.entities/cylinder/
 is_root: false
 ---
@@ -32,7 +32,7 @@ The Cylinder type exposes the following members:
 | [`__init__(self, radius, height)`](/3d/python-net/aspose.threed.entities/cylinder/__init__/#float-float) | Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class. |
 | [`__init__(self, radius_top, radius_bottom, height)`](/3d/python-net/aspose.threed.entities/cylinder/__init__/#float-float-float) | Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class. |
 | [`__init__(self, radius_top, radius_bottom, height, radial_segments, height_segments, open_ended)`](/3d/python-net/aspose.threed.entities/cylinder/__init__/#float-float-float-int-int-bool) | Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class. |
-| [`__init__(self, name, radius_top, radius_bottom, height, radial_segments, height_segments, open_ended, theta_start, theta_length)`](/3d/python-net/aspose.threed.entities/cylinder/__init__/#str-float-float-float-int-int-bool-float-float) | Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class. |
+| [`__init__(self, name, radius_top, radius_bottom, height, radial_segments, height_segments, open_ended, theta_start, theta_length)`](/3d/python-net/aspose.threed.entities/cylinder/__init__/#system.string-float-float-float-int-int-bool-float-float) | Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class. |
 
 
 ### Properties
@@ -65,10 +65,10 @@ The Cylinder type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/cylinder/remove_property/#aspose.threed.property) | Removes a dynamic property. |
-| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/cylinder/remove_property/#str) | Remove the specified property identified by name |
-| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/cylinder/get_property/#str) | Get the value of specified property |
-| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/cylinder/set_property/#str-any) | Sets the value of specified property |
-| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/cylinder/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/cylinder/remove_property/#system.string) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/cylinder/get_property/#system.string) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/cylinder/set_property/#system.string-system.object) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/cylinder/find_property/#system.string) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [`get_bounding_box(self)`](/3d/python-net/aspose.threed.entities/cylinder/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [`get_entity_renderer_key(self)`](/3d/python-net/aspose.threed.entities/cylinder/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 | [`to_mesh(self)`](/3d/python-net/aspose.threed.entities/cylinder/to_mesh/#) | Convert current object to mesh |

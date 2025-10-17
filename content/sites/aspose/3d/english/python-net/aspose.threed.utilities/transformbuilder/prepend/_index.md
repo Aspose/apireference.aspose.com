@@ -23,7 +23,7 @@ def prepend(self, m):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| m | [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) |  |
+| m | aspose.threed.utilities.Matrix4 |  |
 
 
 

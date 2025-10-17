@@ -3,7 +3,7 @@ title: VertexField
 second_title: Aspose.3D for Java API Reference
 description: Vertexs field memory layout description.
 type: docs
-weight: 222
+weight: 227
 url: /java/com.aspose.threed/vertexfield/
 ---
 

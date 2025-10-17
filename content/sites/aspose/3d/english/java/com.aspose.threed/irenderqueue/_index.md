@@ -3,7 +3,7 @@ title: IRenderQueue
 second_title: Aspose.3D for Java API Reference
 description: Entity renderer uses this queue to manage render tasks.
 type: docs
-weight: 243
+weight: 248
 url: /java/com.aspose.threed/irenderqueue/
 ---
 ```

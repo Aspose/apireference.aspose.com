@@ -3,7 +3,7 @@ title: Camera
 second_title: Aspose.3D for Java API Reference
 description: The camera describes the eye point of the viewer looking at the scene.
 type: docs
-weight: 26
+weight: 28
 url: /java/com.aspose.threed/camera/
 ---
 

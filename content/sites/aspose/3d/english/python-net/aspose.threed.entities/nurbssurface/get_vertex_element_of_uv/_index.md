@@ -28,7 +28,7 @@ def get_vertex_element_of_uv(self, texture_mapping):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| texture_mapping | [`TextureMapping`](/3d/python-net/aspose.threed.entities/texturemapping) |  |
+| texture_mapping | aspose.threed.entities.TextureMapping |  |
 
 
 

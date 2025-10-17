@@ -3,7 +3,7 @@ title: FVector3
 second_title: Aspose.3D for Java API Reference
 description: A float vector with three components.
 type: docs
-weight: 58
+weight: 60
 url: /java/com.aspose.threed/fvector3/
 ---
 

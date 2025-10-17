@@ -65,7 +65,7 @@ def __init__(self, xbottom, ybottom, xtop, ytop, height):
 | height | float | The height of the pyramid |
 
 
-## \_\_init\_\_(self, name, xbottom, ybottom, xtop, ytop, height) {#str-float-float-float-float-float}
+## \_\_init\_\_(self, name, xbottom, ybottom, xtop, ytop, height) {#System.String-float-float-float-float-float}
 
 Construct a new pyramid instance with specified bottom area and top area and height.
 
@@ -80,7 +80,7 @@ def __init__(self, name, xbottom, ybottom, xtop, ytop, height):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the pyramid |
+| name | System.String | The name of the pyramid |
 | xbottom | float | The x-direction length of the bottom area |
 | ybottom | float | The y-direction length of the bottom area |
 | xtop | float | The x-direction length of the top area |

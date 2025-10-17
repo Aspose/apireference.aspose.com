@@ -3,7 +3,7 @@ title: BoundingBox
 second_title: Aspose.3D for Java API Reference
 description: The axis-aligned bounding box Example  The following code shows how to get a bounding box from an Entity instance.
 type: docs
-weight: 22
+weight: 24
 url: /java/com.aspose.threed/boundingbox/
 ---
 

@@ -23,7 +23,7 @@ def copy_to(self, target):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| target | [`VertexElementDoublesTemplate`](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate) | Target. |
+| target | aspose.threed.entities.VertexElementDoublesTemplate | Target. |
 
 
 

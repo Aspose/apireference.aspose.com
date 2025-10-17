@@ -3,7 +3,7 @@ title: PatchDirectionType
 second_title: Aspose.3D for Java API Reference
 description: Patch directions types.
 type: docs
-weight: 282
+weight: 287
 url: /java/com.aspose.threed/patchdirectiontype/
 ---
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/entityrenderer/__init__/
 is_root: false
 ---
 
-## \_\_init\_\_(self, key) {#str}
+## \_\_init\_\_(self, key) {#System.String}
 
 Constructor of [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer)
 
@@ -23,10 +23,10 @@ def __init__(self, key):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| key | str | The key of the entity renderer |
+| key | System.String | The key of the entity renderer |
 
 
-## \_\_init\_\_(self, key, features) {#str-aspose.threed.render.EntityRendererFeatures}
+## \_\_init\_\_(self, key, features) {#System.String-aspose.threed.render.EntityRendererFeatures}
 
 Constructor of [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer)
 
@@ -41,8 +41,8 @@ def __init__(self, key, features):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| key | str | The key of the entity renderer |
-| features | [`EntityRendererFeatures`](/3d/python-net/aspose.threed.render/entityrendererfeatures) | The extra features of the entity renderer |
+| key | System.String | The key of the entity renderer |
+| features | aspose.threed.render.EntityRendererFeatures | The extra features of the entity renderer |
 
 
 

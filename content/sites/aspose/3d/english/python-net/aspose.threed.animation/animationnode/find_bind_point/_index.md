@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/animationnode/find_bind_point/
 is_root: false
 ---
 
-## find_bind_point(self, target, name) {#aspose.threed.A3DObject-str}
+## find_bind_point(self, target, name) {#aspose.threed.A3DObject-System.String}
 
 Finds the bind point by target and name.
 
@@ -28,11 +28,12 @@ def find_bind_point(self, target, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| target | [`A3DObject`](/3d/python-net/aspose.threed/a3dobject) | Bind point's target to find. |
-| name | str | Bind point's name to find. |
+| target | aspose.threed.A3DObject | Bind point's target to find. |
+| name | System.String | Bind point's name to find. |
 
 
 
 ### See Also
 * module [`aspose.threed.animation`](../../)
 * class [`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode)
+* class [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint)

@@ -28,7 +28,7 @@ def cross(self, v):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| v | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) |  |
+| v | aspose.threed.utilities.Vector2 |  |
 
 
 

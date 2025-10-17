@@ -3,7 +3,7 @@ title: EntityRendererFeatures
 second_title: Aspose.3D for Java API Reference
 description: The extra features that the entity renderer will provide
 type: docs
-weight: 52
+weight: 54
 url: /java/com.aspose.threed/entityrendererfeatures/
 ---
 

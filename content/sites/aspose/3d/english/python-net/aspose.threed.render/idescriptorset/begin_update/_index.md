@@ -31,4 +31,5 @@ def begin_update(self):
 
 ### See Also
 * module [`aspose.threed.render`](../../)
+* class [`DescriptorSetUpdater`](/3d/python-net/aspose.threed.render/descriptorsetupdater)
 * class [`IDescriptorSet`](/3d/python-net/aspose.threed.render/idescriptorset)

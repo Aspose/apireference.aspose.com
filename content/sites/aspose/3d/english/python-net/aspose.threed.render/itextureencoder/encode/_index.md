@@ -23,7 +23,7 @@ def encode(self, texture, stream):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| texture | [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) | The texture data to be encoded |
+| texture | aspose.threed.render.TextureData | The texture data to be encoded |
 | stream | io.RawIOBase | The output stream |
 ### Exceptions
 | Exception | Description |

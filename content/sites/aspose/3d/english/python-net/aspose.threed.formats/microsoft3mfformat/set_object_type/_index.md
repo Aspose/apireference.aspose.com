@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/microsoft3mfformat/set_object_type/
 is_root: false
 ---
 
-## set_object_type(self, node, model_type) {#aspose.threed.Node-str}
+## set_object_type(self, node, model_type) {#aspose.threed.Node-System.String}
 
 Set the model type for specified node.
 Possible value:
@@ -29,8 +29,8 @@ def set_object_type(self, node, model_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node | [`Node`](/3d/python-net/aspose.threed/node) |  |
-| model_type | str |  |
+| node | aspose.threed.Node |  |
+| model_type | System.String |  |
 
 
 

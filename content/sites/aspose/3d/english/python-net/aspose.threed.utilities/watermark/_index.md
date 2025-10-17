@@ -19,11 +19,11 @@ The Watermark type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`encode_watermark(, input, text)`](/3d/python-net/aspose.threed.utilities/watermark/encode_watermark/#aspose.threed.entities.mesh-str) | Encode a text into mesh' blind watermark. |
-| [`encode_watermark(, input, text, password)`](/3d/python-net/aspose.threed.utilities/watermark/encode_watermark/#aspose.threed.entities.mesh-str-str) | Encode a text into mesh' blind watermark. |
-| [`encode_watermark(, input, text, password, permanent)`](/3d/python-net/aspose.threed.utilities/watermark/encode_watermark/#aspose.threed.entities.mesh-str-str-bool) | Encode a text into mesh' blind watermark. |
+| [`encode_watermark(, input, text)`](/3d/python-net/aspose.threed.utilities/watermark/encode_watermark/#aspose.threed.entities.mesh-system.string) | Encode a text into mesh' blind watermark. |
+| [`encode_watermark(, input, text, password)`](/3d/python-net/aspose.threed.utilities/watermark/encode_watermark/#aspose.threed.entities.mesh-system.string-system.string) | Encode a text into mesh' blind watermark. |
+| [`encode_watermark(, input, text, password, permanent)`](/3d/python-net/aspose.threed.utilities/watermark/encode_watermark/#aspose.threed.entities.mesh-system.string-system.string-bool) | Encode a text into mesh' blind watermark. |
 | [`decode_watermark(, input)`](/3d/python-net/aspose.threed.utilities/watermark/decode_watermark/#aspose.threed.entities.mesh) | Decode the watermark from a mesh |
-| [`decode_watermark(, input, password)`](/3d/python-net/aspose.threed.utilities/watermark/decode_watermark/#aspose.threed.entities.mesh-str) | Decode the watermark from a mesh |
+| [`decode_watermark(, input, password)`](/3d/python-net/aspose.threed.utilities/watermark/decode_watermark/#aspose.threed.entities.mesh-system.string) | Decode the watermark from a mesh |
 
 
 

@@ -20,7 +20,7 @@ The SemanticAttribute type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [`__init__(self, semantic)`](/3d/python-net/aspose.threed.utilities/semanticattribute/__init__/#aspose.threed.utilities.vertexfieldsemantic) | Initialize a [`SemanticAttribute`](/3d/python-net/aspose.threed.utilities/semanticattribute) |
-| [`__init__(self, semantic, alias)`](/3d/python-net/aspose.threed.utilities/semanticattribute/__init__/#aspose.threed.utilities.vertexfieldsemantic-str) | Initialize a [`SemanticAttribute`](/3d/python-net/aspose.threed.utilities/semanticattribute) |
+| [`__init__(self, semantic, alias)`](/3d/python-net/aspose.threed.utilities/semanticattribute/__init__/#aspose.threed.utilities.vertexfieldsemantic-system.string) | Initialize a [`SemanticAttribute`](/3d/python-net/aspose.threed.utilities/semanticattribute) |
 
 
 ### Properties

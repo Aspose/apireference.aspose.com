@@ -3,7 +3,7 @@ title: u property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /python-net/aspose.threed.entities/patch/u/
 is_root: false
 ---

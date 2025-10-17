@@ -8,27 +8,24 @@ url: /python-net/aspose.threed.entities/mesh/intersect/
 is_root: false
 ---
 
-## intersect {#aspose.threed.entities.Mesh-aspose.threed.entities.Mesh}
-
-Calculate the intersection of two meshes
+## intersect(, a, b) {#aspose.threed.entities.Mesh-aspose.threed.entities.Mesh}
 
 
-### Returns 
 
-
-Result mesh
 
 
 ```python
-def intersect(self, a, b):
+
+@staticmethod
+def intersect(a, b):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| a | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | First mesh |
-| b | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | Second mesh |
+| a | aspose.threed.entities.Mesh |  |
+| b | aspose.threed.entities.Mesh |  |
 
 
 

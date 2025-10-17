@@ -3,7 +3,7 @@ title: Patch class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 250
 url: /python-net/aspose.threed.entities/patch/
 is_root: false
 ---
@@ -32,7 +32,7 @@ The Patch type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [`__init__(self)`](/3d/python-net/aspose.threed.entities/patch/__init__/#) | Initializes a new instance of the [`Patch`](/3d/python-net/aspose.threed.entities/patch) class. |
-| [`__init__(self, name)`](/3d/python-net/aspose.threed.entities/patch/__init__/#str) | Initializes a new instance of the [`Patch`](/3d/python-net/aspose.threed.entities/patch) class. |
+| [`__init__(self, name)`](/3d/python-net/aspose.threed.entities/patch/__init__/#system.string) | Initializes a new instance of the [`Patch`](/3d/python-net/aspose.threed.entities/patch) class. |
 
 
 ### Properties
@@ -46,6 +46,7 @@ The Patch type exposes the following members:
 | [parent_node](/3d/python-net/aspose.threed.entities/patch/parent_node) | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
 | [visible](/3d/python-net/aspose.threed.entities/patch/visible) | Gets or sets if the geometry is visible |
 | [deformers](/3d/python-net/aspose.threed.entities/patch/deformers) | Gets all deformers associated with this geometry. |
+| [control_points](/3d/python-net/aspose.threed.entities/patch/control_points) | Gets all control points |
 | [cast_shadows](/3d/python-net/aspose.threed.entities/patch/cast_shadows) | Gets or sets whether this geometry can cast shadow |
 | [receive_shadows](/3d/python-net/aspose.threed.entities/patch/receive_shadows) | Gets or sets whether this geometry can receive shadow. |
 | [vertex_elements](/3d/python-net/aspose.threed.entities/patch/vertex_elements) | Gets all vertex elements |
@@ -57,14 +58,14 @@ The Patch type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/patch/remove_property/#aspose.threed.property) | Removes a dynamic property. |
-| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/patch/remove_property/#str) | Remove the specified property identified by name |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/patch/remove_property/#system.string) | Remove the specified property identified by name |
 | [`create_element(self, type)`](/3d/python-net/aspose.threed.entities/patch/create_element/#aspose.threed.entities.vertexelementtype) | Creates a vertex element with specified type and add it to the geometry. |
 | [`create_element(self, type, mapping_mode, reference_mode)`](/3d/python-net/aspose.threed.entities/patch/create_element/#aspose.threed.entities.vertexelementtype-aspose.threed.entities.mappingmode-aspose.threed.entities.referencemode) | Creates a vertex element with specified type and add it to the geometry. |
 | [`create_element_uv(self, uv_mapping)`](/3d/python-net/aspose.threed.entities/patch/create_element_uv/#aspose.threed.entities.texturemapping) | Creates a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type. |
 | [`create_element_uv(self, uv_mapping, mapping_mode, reference_mode)`](/3d/python-net/aspose.threed.entities/patch/create_element_uv/#aspose.threed.entities.texturemapping-aspose.threed.entities.mappingmode-aspose.threed.entities.referencemode) | Creates a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type. |
-| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/patch/get_property/#str) | Get the value of specified property |
-| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/patch/set_property/#str-any) | Sets the value of specified property |
-| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/patch/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/patch/get_property/#system.string) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/patch/set_property/#system.string-system.object) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/patch/find_property/#system.string) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [`get_bounding_box(self)`](/3d/python-net/aspose.threed.entities/patch/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [`get_entity_renderer_key(self)`](/3d/python-net/aspose.threed.entities/patch/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 | [`get_element(self, type)`](/3d/python-net/aspose.threed.entities/patch/get_element/#aspose.threed.entities.vertexelementtype) | Gets a vertex element with specified type |

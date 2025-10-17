@@ -38,7 +38,7 @@ def __init__(self, format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) | Instance of [`FileFormat`](/3d/python-net/aspose.threed/fileformat), it should be a valid FBX format. |
+| format | aspose.threed.FileFormat | Instance of [`FileFormat`](/3d/python-net/aspose.threed/fileformat), it should be a valid FBX format. |
 
 
 

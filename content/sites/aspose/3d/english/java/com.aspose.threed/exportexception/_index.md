@@ -3,7 +3,7 @@ title: ExportException
 second_title: Aspose.3D for Java API Reference
 description: Exceptions when Aspose.3D failed to export the scene to file
 type: docs
-weight: 54
+weight: 56
 url: /java/com.aspose.threed/exportexception/
 ---
 

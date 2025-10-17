@@ -3,7 +3,7 @@ title: StlSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for STL
 type: docs
-weight: 173
+weight: 177
 url: /java/com.aspose.threed/stlsaveoptions/
 ---
 

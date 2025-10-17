@@ -28,7 +28,7 @@ def dot(self, rhs):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rhs | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) | Right hand side value. |
+| rhs | aspose.threed.utilities.Vector2 | Right hand side value. |
 
 
 

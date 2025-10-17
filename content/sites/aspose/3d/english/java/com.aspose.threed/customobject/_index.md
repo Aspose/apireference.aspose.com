@@ -3,7 +3,7 @@ title: CustomObject
 second_title: Aspose.3D for Java API Reference
 description: Meta data or custom objects used in 3D files are managed by this class.
 type: docs
-weight: 37
+weight: 39
 url: /java/com.aspose.threed/customobject/
 ---
 

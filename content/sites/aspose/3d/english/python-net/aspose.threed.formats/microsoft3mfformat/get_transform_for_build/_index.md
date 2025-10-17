@@ -28,7 +28,7 @@ def get_transform_for_build(self, node):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node | [`Node`](/3d/python-net/aspose.threed/node) | Which node to get transform matrix for 3MF build. |
+| node | aspose.threed.Node | Which node to get transform matrix for 3MF build. |
 
 
 

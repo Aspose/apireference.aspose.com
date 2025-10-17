@@ -34,4 +34,5 @@ def create_uniform_buffer(self, size):
 
 ### See Also
 * module [`aspose.threed.render`](../../)
+* class [`IBuffer`](/3d/python-net/aspose.threed.render/ibuffer)
 * class [`RenderFactory`](/3d/python-net/aspose.threed.render/renderfactory)

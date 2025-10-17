@@ -3,7 +3,7 @@ title: Dish
 second_title: Aspose.3D for Java API Reference
 description: Parameterized dish.
 type: docs
-weight: 43
+weight: 45
 url: /java/com.aspose.threed/dish/
 ---
 

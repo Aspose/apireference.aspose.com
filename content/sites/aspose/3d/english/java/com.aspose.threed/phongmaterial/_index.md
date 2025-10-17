@@ -3,7 +3,7 @@ title: PhongMaterial
 second_title: Aspose.3D for Java API Reference
 description: Material for blinn-phong shading model.
 type: docs
-weight: 122
+weight: 126
 url: /java/com.aspose.threed/phongmaterial/
 ---
 

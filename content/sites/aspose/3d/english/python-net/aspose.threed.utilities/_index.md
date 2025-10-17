@@ -20,7 +20,7 @@ All utility classes are defined in this namespace.
 | [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3) | A float vector with three components. |
 | [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4) | A float vector with four components. |
 | [`FileSystem`](/3d/python-net/aspose.threed.utilities/filesystem) | File system encapsulation.<br/>Aspose.3D will use this to read/write dependencies. |
-| [`IOUtils`](/3d/python-net/aspose.threed.utilities/ioutils) |  |
+| [`IOExtension`](/3d/python-net/aspose.threed.utilities/ioextension) | Utilities to write matrix/vector to binary writer |
 | [`MathUtils`](/3d/python-net/aspose.threed.utilities/mathutils) | A set of useful mathematical utilities. |
 | [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) | 4x4 matrix implementation. |
 | [`ParseException`](/3d/python-net/aspose.threed.utilities/parseexception) | Exception when Aspose.3D failed to parse the input. |

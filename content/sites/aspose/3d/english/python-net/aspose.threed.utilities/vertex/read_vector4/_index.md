@@ -28,10 +28,11 @@ def read_vector4(self, field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| field | [`VertexField`](/3d/python-net/aspose.threed.utilities/vertexfield) | The field with a Vector4/FVector4 data type |
+| field | aspose.threed.utilities.VertexField | The field with a Vector4/FVector4 data type |
 
 
 
 ### See Also
 * module [`aspose.threed.utilities`](../../)
+* class [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4)
 * class [`Vertex`](/3d/python-net/aspose.threed.utilities/vertex)

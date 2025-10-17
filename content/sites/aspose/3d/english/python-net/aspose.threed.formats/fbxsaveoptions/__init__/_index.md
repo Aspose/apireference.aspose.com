@@ -23,7 +23,7 @@ def __init__(self, format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) | Instance of [`FileFormat`](/3d/python-net/aspose.threed/fileformat), it should be a valid FBX format. |
+| format | aspose.threed.FileFormat | Instance of [`FileFormat`](/3d/python-net/aspose.threed/fileformat), it should be a valid FBX format. |
 
 
 ## \_\_init\_\_(self, content_type) {#aspose.threed.FileContentType}
@@ -41,7 +41,7 @@ def __init__(self, content_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| content_type | [`FileContentType`](/3d/python-net/aspose.threed/filecontenttype) | Binary or ASCII |
+| content_type | aspose.threed.FileContentType | Binary or ASCII |
 
 
 

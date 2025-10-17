@@ -3,7 +3,7 @@ title: NurbsCurve
 second_title: Aspose.3D for Java API Reference
 description: NURBS curve is a curve represented by NURBSNon-uniform rational basis spline  A NURBS curve is defined by its  a set of weighted  and a  The w component in control point is used as control points weight whatever it is a  or
 type: docs
-weight: 108
+weight: 112
 url: /java/com.aspose.threed/nurbscurve/
 ---
 
@@ -37,6 +37,7 @@ public class NurbsCurve extends Curve
 | [getColor()](#getColor--) | Gets the color of the line, default value is white(1, 1, 1) |
 | [getControlPoints()](#getControlPoints--) | Gets all control points |
 | [getCurveType()](#getCurveType--) | Gets the type of the curve. |
+| [getDegree()](#getDegree--) | Gets the degree of a NURBS curve, the degree are defined as Order - 1 |
 | [getDimension()](#getDimension--) | Gets the curve's dimension. |
 | [getEntityRendererKey()](#getEntityRendererKey--) | Gets the key of the entity renderer registered in the renderer |
 | [getExcluded()](#getExcluded--) | Gets whether to exclude this entity during exporting. |
@@ -57,6 +58,7 @@ public class NurbsCurve extends Curve
 | [removeProperty(String property)](#removeProperty-java.lang.String-) | Remove the specified property identified by name |
 | [setColor(Vector3 value)](#setColor-com.aspose.threed.Vector3-) | Sets the color of the line, default value is white(1, 1, 1) |
 | [setCurveType(NurbsType value)](#setCurveType-com.aspose.threed.NurbsType-) | Sets the type of the curve. |
+| [setDegree(int value)](#setDegree-int-) | Sets the degree of a NURBS curve, the degree are defined as Order - 1 |
 | [setDimension(CurveDimension value)](#setDimension-com.aspose.threed.CurveDimension-) | Sets the curve's dimension. |
 | [setExcluded(boolean value)](#setExcluded-boolean-) | Sets whether to exclude this entity during exporting. |
 | [setName(String value)](#setName-java.lang.String-) | Sets the name. |
@@ -216,6 +218,16 @@ Gets the type of the curve.
 
 **Returns:**
 [NurbsType](../../com.aspose.threed/nurbstype) - the type of the curve.
+### getDegree() {#getDegree--}
+```
+public int getDegree()
+```
+
+
+Gets the degree of a NURBS curve, the degree are defined as Order - 1
+
+**Returns:**
+int - the degree of a NURBS curve, the degree are defined as Order - 1
 ### getDimension() {#getDimension--}
 ```
 public CurveDimension getDimension()
@@ -432,6 +444,19 @@ Sets the type of the curve.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [NurbsType](../../com.aspose.threed/nurbstype) | New value |
+
+### setDegree(int value) {#setDegree-int-}
+```
+public void setDegree(int value)
+```
+
+
+Sets the degree of a NURBS curve, the degree are defined as Order - 1
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | New value |
 
 ### setDimension(CurveDimension value) {#setDimension-com.aspose.threed.CurveDimension-}
 ```

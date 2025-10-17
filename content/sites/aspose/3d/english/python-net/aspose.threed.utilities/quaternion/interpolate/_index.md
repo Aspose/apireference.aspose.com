@@ -30,8 +30,8 @@ def interpolate(t, from_address, to):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | t | float | The coefficient to interpolate. |
-| from_address | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) | Source quaternion. |
-| to | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) | Target quaternion. |
+| from_address | aspose.threed.utilities.Quaternion | Source quaternion. |
+| to | aspose.threed.utilities.Quaternion | Target quaternion. |
 
 
 

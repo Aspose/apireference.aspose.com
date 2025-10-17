@@ -3,7 +3,7 @@ title: Structs
 second_title: Aspose.3D for Java API Reference
 description: Base class of struct array
 type: docs
-weight: 175
+weight: 179
 url: /java/com.aspose.threed/structs/
 ---
 

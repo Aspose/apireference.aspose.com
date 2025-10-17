@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/propertycollection/find_property/
 is_root: false
 ---
 
-## find_property(self, property) {#str}
+## find_property(self, property) {#System.String}
 
 Finds the property.
 It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) 
@@ -30,10 +30,11 @@ def find_property(self, property):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property | str | Property name. |
+| property | System.String | Property name. |
 
 
 
 ### See Also
 * module [`aspose.threed`](../../)
+* class [`Property`](/3d/python-net/aspose.threed/property)
 * class [`PropertyCollection`](/3d/python-net/aspose.threed/propertycollection)

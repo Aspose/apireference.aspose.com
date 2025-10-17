@@ -31,4 +31,5 @@ def create_load_options(self):
 
 ### See Also
 * module [`aspose.threed.formats`](../../)
+* class [`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions)
 * class [`Microsoft3MFFormat`](/3d/python-net/aspose.threed.formats/microsoft3mfformat)

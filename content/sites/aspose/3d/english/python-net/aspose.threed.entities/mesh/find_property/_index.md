@@ -3,12 +3,12 @@ title: find_property method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /python-net/aspose.threed.entities/mesh/find_property/
 is_root: false
 ---
 
-## find_property(self, property_name) {#str}
+## find_property(self, property_name) {#System.String}
 
 Finds the property.
 It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) 
@@ -30,10 +30,11 @@ def find_property(self, property_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | Property name. |
+| property_name | System.String | Property name. |
 
 
 
 ### See Also
 * module [`aspose.threed.entities`](../../)
 * class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
+* class [`Property`](/3d/python-net/aspose.threed/property)

@@ -3,7 +3,7 @@ title: ColladaSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for collada
 type: docs
-weight: 31
+weight: 33
 url: /java/com.aspose.threed/colladasaveoptions/
 ---
 

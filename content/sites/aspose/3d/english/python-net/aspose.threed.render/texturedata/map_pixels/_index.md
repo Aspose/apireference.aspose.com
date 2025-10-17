@@ -28,7 +28,7 @@ def map_pixels(self, map_mode):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| map_mode | [`PixelMapMode`](/3d/python-net/aspose.threed.render/pixelmapmode) | Map mode |
+| map_mode | aspose.threed.render.PixelMapMode | Map mode |
 
 
 ## map_pixels(self, map_mode, format) {#aspose.threed.render.PixelMapMode-aspose.threed.render.PixelFormat}
@@ -51,8 +51,8 @@ def map_pixels(self, map_mode, format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| map_mode | [`PixelMapMode`](/3d/python-net/aspose.threed.render/pixelmapmode) | Map mode |
-| format | [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat) | Pixel format |
+| map_mode | aspose.threed.render.PixelMapMode | Map mode |
+| format | aspose.threed.render.PixelFormat | Pixel format |
 
 
 ## map_pixels(self, rect, map_mode, format) {#aspose.threed.utilities.Rect-aspose.threed.render.PixelMapMode-aspose.threed.render.PixelFormat}
@@ -76,8 +76,8 @@ def map_pixels(self, rect, map_mode, format):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | rect | aspose.threed.utilities.Rect | The area of pixels to be accessed |
-| map_mode | [`PixelMapMode`](/3d/python-net/aspose.threed.render/pixelmapmode) | Map mode |
-| format | [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat) | Pixel format |
+| map_mode | aspose.threed.render.PixelMapMode | Map mode |
+| format | aspose.threed.render.PixelFormat | Pixel format |
 ### Exceptions
 | Exception | Description |
 | :- | :- |
@@ -89,4 +89,5 @@ def map_pixels(self, rect, map_mode, format):
 
 ### See Also
 * module [`aspose.threed.render`](../../)
+* class [`PixelMapping`](/3d/python-net/aspose.threed.render/pixelmapping)
 * class [`TextureData`](/3d/python-net/aspose.threed.render/texturedata)

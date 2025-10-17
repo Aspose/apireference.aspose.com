@@ -24,7 +24,7 @@ def add_bone_pose(self, node, matrix):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node | [`Node`](/3d/python-net/aspose.threed/node) | Bone Node. |
+| node | aspose.threed.Node | Bone Node. |
 | matrix | aspose.threed.utilities.Matrix4 | Transformation matrix. |
 
 
@@ -43,7 +43,7 @@ def add_bone_pose(self, node, matrix, local_matrix):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node | [`Node`](/3d/python-net/aspose.threed/node) | Bone Node. |
+| node | aspose.threed.Node | Bone Node. |
 | matrix | aspose.threed.utilities.Matrix4 | Transformation matrix. |
 | local_matrix | bool | If set to `true` means to use local matrix otherwise means global matrix. |
 

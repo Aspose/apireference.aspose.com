@@ -28,7 +28,7 @@ def compare_to(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) |  |
+| other | aspose.threed.utilities.Vector3 |  |
 
 
 

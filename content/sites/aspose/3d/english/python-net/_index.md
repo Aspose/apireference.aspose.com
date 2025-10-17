@@ -16,6 +16,7 @@ is_root: true
 | [`aspose.threed.deformers`](/3d/python-net/aspose.threed.deformers) | All deformer classes are defined in this namespace |
 | [`aspose.threed.entities`](/3d/python-net/aspose.threed.entities) | All geometry and entities are defined in this namespace |
 | [`aspose.threed.formats`](/3d/python-net/aspose.threed.formats) | IO related customization are defined in this namespace. |
+| [`aspose.threed.formats.gltf`](/3d/python-net/aspose.threed.formats.gltf) |  |
 | [`aspose.threed.profiles`](/3d/python-net/aspose.threed.profiles) | All 2D profile classes are defined in this namespace. |
 | [`aspose.threed.render`](/3d/python-net/aspose.threed.render) | All rendering related classes are defined in this namespace |
 | [`aspose.threed.shading`](/3d/python-net/aspose.threed.shading) | All shading related classes are defined in this namespace. |

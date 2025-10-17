@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimesh/__init__/
 is_root: false
 ---
 
-## \_\_init\_\_(self, name, declaration) {#str-aspose.threed.utilities.VertexDeclaration}
+## \_\_init\_\_(self, name, declaration) {#System.String-aspose.threed.utilities.VertexDeclaration}
 
 Initialize an instance of [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)
 
@@ -23,7 +23,7 @@ def __init__(self, name, declaration):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of this TriMesh |
+| name | System.String | The name of this TriMesh |
 | declaration | aspose.threed.utilities.VertexDeclaration | The vertex's declaration |
 
 

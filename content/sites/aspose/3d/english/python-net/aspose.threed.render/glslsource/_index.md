@@ -39,7 +39,7 @@ The GLSLSource type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`define_include(self, file_name, content)`](/3d/python-net/aspose.threed.render/glslsource/define_include/#str-str) | Define virtual file for #include in GLSL source code |
+| [`define_include(self, file_name, content)`](/3d/python-net/aspose.threed.render/glslsource/define_include/#system.string-system.string) | Define virtual file for #include in GLSL source code |
 
 
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/rvmformat/detect/
 is_root: false
 ---
 
-## detect(, file_name) {#str}
+## detect(, file_name) {#System.String}
 
 Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header.
 
@@ -29,7 +29,7 @@ def detect(file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | Path to the file to detect file format. |
+| file_name | System.String | Path to the file to detect file format. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |
@@ -49,7 +49,7 @@ print(f"Input file format: {fmt}")
 ```
 
 
-## detect(, stream, file_name) {#io.RawIOBase-str}
+## detect(, stream, file_name) {#io.RawIOBase-System.String}
 
 Detect the file format from data stream, file name is optional for guessing types that has no magic header.
 
@@ -71,7 +71,7 @@ def detect(stream, file_name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | Stream containing data to detect |
-| file_name | str | Original file name of the data, used as hint. |
+| file_name | System.String | Original file name of the data, used as hint. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

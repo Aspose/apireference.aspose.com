@@ -3,7 +3,7 @@ title: AlphaSource
 second_title: Aspose.3D for Java API Reference
 description: Defines whether the texture contains the alpha channel.
 type: docs
-weight: 258
+weight: 263
 url: /java/com.aspose.threed/alphasource/
 ---
 

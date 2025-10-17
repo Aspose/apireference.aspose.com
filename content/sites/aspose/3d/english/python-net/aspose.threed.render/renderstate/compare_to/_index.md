@@ -28,7 +28,7 @@ def compare_to(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [`RenderState`](/3d/python-net/aspose.threed.render/renderstate) | Another render state to compare |
+| other | aspose.threed.render.RenderState | Another render state to compare |
 
 
 

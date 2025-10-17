@@ -3,7 +3,7 @@ title: Vertex
 second_title: Aspose.3D for Java API Reference
 description: Vertex reference used to access the raw vertex in .
 type: docs
-weight: 200
+weight: 205
 url: /java/com.aspose.threed/vertex/
 ---
 

@@ -23,7 +23,7 @@ def add_child_node(self, node):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node | [`Node`](/3d/python-net/aspose.threed/node) | The child node to be attached |
+| node | aspose.threed.Node | The child node to be attached |
 
 ### Example 
 

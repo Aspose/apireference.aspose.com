@@ -28,7 +28,7 @@ def dot(self, q):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| q | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) | The quaternion |
+| q | aspose.threed.utilities.Quaternion | The quaternion |
 
 
 

@@ -38,7 +38,7 @@ def __init__(self, vec):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| vec | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) | Vector2 in double type |
+| vec | aspose.threed.utilities.Vector2 | Vector2 in double type |
 
 
 ## \_\_init\_\_(self, x, y) {#float-float}

@@ -38,7 +38,7 @@ def __init__(self, basis_curve, transformation):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| basis_curve | [`Curve`](/3d/python-net/aspose.threed.entities/curve) |  |
+| basis_curve | aspose.threed.entities.Curve |  |
 | transformation | aspose.threed.utilities.Matrix4 |  |
 
 

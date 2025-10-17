@@ -3,7 +3,7 @@ title: FileStream
 second_title: Aspose.3D for Java API Reference
 description: Created by lexchou on 6/16/2017.
 type: docs
-weight: 64
+weight: 66
 url: /java/com.aspose.threed/filestream/
 ---
 

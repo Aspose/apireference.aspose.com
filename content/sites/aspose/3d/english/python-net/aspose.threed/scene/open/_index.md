@@ -47,7 +47,7 @@ with open("input.fbx", "rb") as stream:
 ```
 
 
-## open(self, file_name) {#str}
+## open(self, file_name) {#System.String}
 
 Opens the scene from given path
 
@@ -62,7 +62,7 @@ def open(self, file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | File name. |
+| file_name | System.String | File name. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |
@@ -85,7 +85,7 @@ scene.open("input.fbx")
 ```
 
 
-## open(self, file_name, options) {#str-aspose.threed.formats.LoadOptions}
+## open(self, file_name, options) {#System.String-aspose.threed.formats.LoadOptions}
 
 Opens the scene from given path using specified file format.
 
@@ -100,7 +100,7 @@ def open(self, file_name, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | File name. |
+| file_name | System.String | File name. |
 | options | aspose.threed.formats.LoadOptions | More detailed configuration to open the stream. |
 ### Exceptions
 | Exception | Description |

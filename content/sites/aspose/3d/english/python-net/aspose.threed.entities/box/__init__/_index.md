@@ -43,7 +43,7 @@ def __init__(self, length, width, height):
 | height | float | Height of the box aligned in y-axis. |
 
 
-## \_\_init\_\_(self, name, length, width, height, length_segments, width_segments, height_segments) {#str-float-float-float-int-int-int}
+## \_\_init\_\_(self, name, length, width, height, length_segments, width_segments, height_segments) {#System.String-float-float-float-int-int-int}
 
 Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class.
 
@@ -58,7 +58,7 @@ def __init__(self, name, length, width, height, length_segments, width_segments,
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name of the box. |
+| name | System.String | Name of the box. |
 | length | float | Length of the box aligned in z-axis. |
 | width | float | Width of the box aligned in x-axis. |
 | height | float | Height of the box aligned in y-axis. |

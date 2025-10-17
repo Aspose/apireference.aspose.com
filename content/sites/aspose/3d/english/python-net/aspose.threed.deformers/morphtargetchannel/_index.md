@@ -25,7 +25,7 @@ The MorphTargetChannel type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self, name)`](/3d/python-net/aspose.threed.deformers/morphtargetchannel/__init__/#str) | Initializes a new instance of the [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel) class. |
+| [`__init__(self, name)`](/3d/python-net/aspose.threed.deformers/morphtargetchannel/__init__/#system.string) | Initializes a new instance of the [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel) class. |
 | [`__init__(self)`](/3d/python-net/aspose.threed.deformers/morphtargetchannel/__init__/#) | Initializes a new instance of the [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel) class. |
 
 
@@ -44,10 +44,10 @@ The MorphTargetChannel type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`remove_property(self, property)`](/3d/python-net/aspose.threed.deformers/morphtargetchannel/remove_property/#aspose.threed.property) | Removes a dynamic property. |
-| [`remove_property(self, property)`](/3d/python-net/aspose.threed.deformers/morphtargetchannel/remove_property/#str) | Remove the specified property identified by name |
-| [`get_property(self, property)`](/3d/python-net/aspose.threed.deformers/morphtargetchannel/get_property/#str) | Get the value of specified property |
-| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.deformers/morphtargetchannel/set_property/#str-any) | Sets the value of specified property |
-| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.deformers/morphtargetchannel/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.deformers/morphtargetchannel/remove_property/#system.string) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.deformers/morphtargetchannel/get_property/#system.string) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.deformers/morphtargetchannel/set_property/#system.string-system.object) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.deformers/morphtargetchannel/find_property/#system.string) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [`get_weight(self, target)`](/3d/python-net/aspose.threed.deformers/morphtargetchannel/get_weight/#aspose.threed.entities.shape) | Gets the weight for the specified target, if the target is not belongs to this channel, default value 0 is returned. |
 | [`set_weight(self, target, weight)`](/3d/python-net/aspose.threed.deformers/morphtargetchannel/set_weight/#aspose.threed.entities.shape-float) | Sets the weight for the specified target, default value is 1, range should between 0~1 |
 

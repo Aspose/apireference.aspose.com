@@ -30,8 +30,8 @@ def slerp(t, v1, v2):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | t | float | t is between 0 to 1 |
-| v1 | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) | First value |
-| v2 | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) | Second value |
+| v1 | aspose.threed.utilities.Quaternion | First value |
+| v2 | aspose.threed.utilities.Quaternion | Second value |
 
 
 

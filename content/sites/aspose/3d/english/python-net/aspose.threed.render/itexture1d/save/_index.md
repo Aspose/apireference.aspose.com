@@ -23,10 +23,10 @@ def save(self, bitmap):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| bitmap | [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) | Result bitmap to save. |
+| bitmap | aspose.threed.render.TextureData | Result bitmap to save. |
 
 
-## save(self, path, format) {#str-str}
+## save(self, path, format) {#System.String-System.String}
 
 Save the texture content to external file.
 
@@ -41,8 +41,8 @@ def save(self, path, format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| path | str | File name to save. |
-| format | str | Image format |
+| path | System.String | File name to save. |
+| format | System.String | Image format |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

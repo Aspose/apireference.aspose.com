@@ -23,7 +23,7 @@ def initialize(self, renderer):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| renderer | [`Renderer`](/3d/python-net/aspose.threed.render/renderer) |  |
+| renderer | aspose.threed.render.Renderer |  |
 
 
 

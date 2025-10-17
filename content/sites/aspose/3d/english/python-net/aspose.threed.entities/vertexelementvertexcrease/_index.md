@@ -3,7 +3,7 @@ title: VertexElementVertexCrease class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 560
+weight: 590
 url: /python-net/aspose.threed.entities/vertexelementvertexcrease/
 is_root: false
 ---
@@ -35,6 +35,7 @@ The VertexElementVertexCrease type exposes the following members:
 | [name](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease/reference_mode) | Gets or sets how the element is referenced. |
+| [indices](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease/indices) | Gets the indices data |
 
 
 ### Methods

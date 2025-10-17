@@ -38,7 +38,7 @@ def __init__(self, vec):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| vec | [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3) | The x coordinate. |
+| vec | aspose.threed.utilities.FVector3 | The x coordinate. |
 
 
 ## \_\_init\_\_(self, v) {#float}
@@ -74,7 +74,7 @@ def __init__(self, vec4):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| vec4 | [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) | Vec4. |
+| vec4 | aspose.threed.utilities.Vector4 | Vec4. |
 
 
 ## \_\_init\_\_(self, x, y, z) {#float-float-float}

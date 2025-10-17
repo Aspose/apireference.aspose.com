@@ -28,7 +28,7 @@ def cross(self, rhs):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rhs | [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3) | Right hand side value. |
+| rhs | aspose.threed.utilities.FVector3 | Right hand side value. |
 
 
 

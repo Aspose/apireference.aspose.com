@@ -3,7 +3,7 @@ title: ComposeOrder
 second_title: Aspose.3D for Java API Reference
 description: The order to compose transform matrix
 type: docs
-weight: 267
+weight: 272
 url: /java/com.aspose.threed/composeorder/
 ---
 

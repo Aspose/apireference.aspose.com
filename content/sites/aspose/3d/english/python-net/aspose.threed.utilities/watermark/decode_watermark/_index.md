@@ -58,7 +58,7 @@ watermark = Watermark.decode_watermark(mesh)
 ```
 
 
-## decode_watermark(, input, password) {#aspose.threed.entities.Mesh-str}
+## decode_watermark(, input, password) {#aspose.threed.entities.Mesh-System.String}
 
 Decode the watermark from a mesh
 
@@ -80,7 +80,7 @@ def decode_watermark(input, password):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | input | aspose.threed.entities.Mesh | The mesh to extract watermark |
-| password | str | The password to decrypt the watermark |
+| password | System.String | The password to decrypt the watermark |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

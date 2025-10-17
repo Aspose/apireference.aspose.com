@@ -28,7 +28,7 @@ def equals(self, rhs):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rhs | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) | The right hand side value. |
+| rhs | aspose.threed.utilities.Vector2 | The right hand side value. |
 
 
 

@@ -3,7 +3,7 @@ title: BoundingBox2D
 second_title: Aspose.3D for Java API Reference
 description: The axis-aligned bounding box for
 type: docs
-weight: 23
+weight: 25
 url: /java/com.aspose.threed/boundingbox2d/
 ---
 

@@ -3,7 +3,7 @@ title: EntityRenderer
 second_title: Aspose.3D for Java API Reference
 description: Subclass this to implement rendering for different kind of entities.
 type: docs
-weight: 51
+weight: 53
 url: /java/com.aspose.threed/entityrenderer/
 ---
 

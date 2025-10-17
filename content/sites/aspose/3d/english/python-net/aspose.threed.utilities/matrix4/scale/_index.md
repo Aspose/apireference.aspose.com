@@ -29,7 +29,7 @@ def scale(s):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| s | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Scaling factories applies to the x-axis, the y-axis and the z-axis |
+| s | aspose.threed.utilities.Vector3 | Scaling factories applies to the x-axis, the y-axis and the z-axis |
 
 ### Example 
 

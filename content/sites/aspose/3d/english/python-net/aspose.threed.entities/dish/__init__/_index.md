@@ -42,7 +42,7 @@ def __init__(self, radius, height):
 | height | float | The height of the dish |
 
 
-## \_\_init\_\_(self, name, radius, height, width_segments, height_segments) {#str-float-float-int-int}
+## \_\_init\_\_(self, name, radius, height, width_segments, height_segments) {#System.String-float-float-int-int}
 
 Create a new dish instance with specified radius and height
 
@@ -57,7 +57,7 @@ def __init__(self, name, radius, height, width_segments, height_segments):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the dish |
+| name | System.String | The name of the dish |
 | radius | float | The radius of the dish |
 | height | float | The height of the dish |
 | width_segments | int | The width segment of the dish |

@@ -23,7 +23,7 @@ def copy_to(self, target):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| target | [`VertexElementVector4`](/3d/python-net/aspose.threed.entities/vertexelementvector4) | Target. |
+| target | aspose.threed.entities.VertexElementVector4 | Target. |
 
 
 

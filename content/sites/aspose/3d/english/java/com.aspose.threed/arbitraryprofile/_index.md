@@ -31,6 +31,7 @@ This class allows you to construct a 2D profile directly from arbitrary curve.
 | [getCurve()](#getCurve--) | The Curve used to construct the profile |
 | [getEntityRendererKey()](#getEntityRendererKey--) | Gets the key of the entity renderer registered in the renderer |
 | [getExcluded()](#getExcluded--) | Gets whether to exclude this entity during exporting. |
+| [getHoles()](#getHoles--) | Holes of the profile, also represented as curve |
 | [getName()](#getName--) | Gets the name. |
 | [getParentNode()](#getParentNode--) | Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
 | [getParentNodes()](#getParentNodes--) | Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing |
@@ -159,6 +160,16 @@ Gets whether to exclude this entity during exporting.
 
 **Returns:**
 boolean - whether to exclude this entity during exporting.
+### getHoles() {#getHoles--}
+```
+public ArrayList<Curve> getHoles()
+```
+
+
+Holes of the profile, also represented as curve
+
+**Returns:**
+java.util.ArrayList<com.aspose.threed.Curve> - Holes of the profile, also represented as curve
 ### getName() {#getName--}
 ```
 public String getName()

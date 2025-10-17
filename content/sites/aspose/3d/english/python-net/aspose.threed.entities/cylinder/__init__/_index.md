@@ -85,7 +85,7 @@ def __init__(self, radius_top, radius_bottom, height, radial_segments, height_se
 | open_ended | bool | If set to `true` the cylinder would have no bottom/top caps.. |
 
 
-## \_\_init\_\_(self, name, radius_top, radius_bottom, height, radial_segments, height_segments, open_ended, theta_start, theta_length) {#str-float-float-float-int-int-bool-float-float}
+## \_\_init\_\_(self, name, radius_top, radius_bottom, height, radial_segments, height_segments, open_ended, theta_start, theta_length) {#System.String-float-float-float-int-int-bool-float-float}
 
 Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
@@ -100,7 +100,7 @@ def __init__(self, name, radius_top, radius_bottom, height, radial_segments, hei
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of this object |
+| name | System.String | The name of this object |
 | radius_top | float | Radius of cylinder's top cap. |
 | radius_bottom | float | Radius of cylinder's bottom cap. |
 | height | float | Height of the cylinder. |

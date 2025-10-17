@@ -3,7 +3,7 @@ title: EventCallback
 second_title: Aspose.3D for Java API Reference
 description: Created by lexchou on 4/24/2017.
 type: docs
-weight: 232
+weight: 237
 url: /java/com.aspose.threed/eventcallback/
 ---
 ```

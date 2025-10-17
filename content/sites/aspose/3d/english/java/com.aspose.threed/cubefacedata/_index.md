@@ -3,7 +3,7 @@ title: CubeFaceData
 second_title: Aspose.3D for Java API Reference
 description: Data for each face of the cube map texture.
 type: docs
-weight: 34
+weight: 36
 url: /java/com.aspose.threed/cubefacedata/
 ---
 

@@ -23,8 +23,8 @@ def load(self, face, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| face | [`CubeFace`](/3d/python-net/aspose.threed.render/cubeface) |  |
-| data | [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) |  |
+| face | aspose.threed.render.CubeFace |  |
+| data | aspose.threed.render.TextureData |  |
 
 
 

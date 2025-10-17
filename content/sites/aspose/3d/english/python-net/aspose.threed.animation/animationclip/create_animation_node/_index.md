@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/animationclip/create_animation_node/
 is_root: false
 ---
 
-## create_animation_node(self, node_name) {#str}
+## create_animation_node(self, node_name) {#System.String}
 
 A shorthand function to create and register the animation node on current clip.
 
@@ -28,7 +28,7 @@ def create_animation_node(self, node_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node_name | str | New animation node's name |
+| node_name | System.String | New animation node's name |
 
 
 

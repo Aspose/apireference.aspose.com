@@ -3,7 +3,7 @@ title: FileFormat
 second_title: Aspose.3D for Java API Reference
 description: File format definition
 type: docs
-weight: 62
+weight: 64
 url: /java/com.aspose.threed/fileformat/
 ---
 

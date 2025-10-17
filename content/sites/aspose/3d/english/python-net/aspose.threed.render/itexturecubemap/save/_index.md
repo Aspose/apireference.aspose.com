@@ -23,8 +23,8 @@ def save(self, side, bitmap):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| side | [`CubeFace`](/3d/python-net/aspose.threed.render/cubeface) |  |
-| bitmap | [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) |  |
+| side | aspose.threed.render.CubeFace |  |
+| bitmap | aspose.threed.render.TextureData |  |
 
 
 

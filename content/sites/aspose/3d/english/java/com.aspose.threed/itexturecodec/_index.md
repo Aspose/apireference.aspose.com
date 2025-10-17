@@ -3,7 +3,7 @@ title: ITextureCodec
 second_title: Aspose.3D for Java API Reference
 description: Codec for textures
 type: docs
-weight: 249
+weight: 254
 url: /java/com.aspose.threed/itexturecodec/
 ---
 ```

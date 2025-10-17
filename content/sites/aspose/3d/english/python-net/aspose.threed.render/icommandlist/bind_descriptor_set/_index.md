@@ -23,7 +23,7 @@ def bind_descriptor_set(self, descriptor_set):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| descriptor_set | [`IDescriptorSet`](/3d/python-net/aspose.threed.render/idescriptorset) |  |
+| descriptor_set | aspose.threed.render.IDescriptorSet |  |
 
 
 

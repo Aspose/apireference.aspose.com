@@ -24,7 +24,7 @@ def register_codec(codec):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| codec | [`ITextureCodec`](/3d/python-net/aspose.threed.render/itexturecodec) |  |
+| codec | aspose.threed.render.ITextureCodec |  |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

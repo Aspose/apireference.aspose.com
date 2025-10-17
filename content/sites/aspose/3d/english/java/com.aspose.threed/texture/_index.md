@@ -3,7 +3,7 @@ title: Texture
 second_title: Aspose.3D for Java API Reference
 description: This class defines the texture from an external file.
 type: docs
-weight: 179
+weight: 184
 url: /java/com.aspose.threed/texture/
 ---
 

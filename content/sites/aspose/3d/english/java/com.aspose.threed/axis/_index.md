@@ -3,7 +3,7 @@ title: Axis
 second_title: Aspose.3D for Java API Reference
 description: The coordinate axis.
 type: docs
-weight: 260
+weight: 265
 url: /java/com.aspose.threed/axis/
 ---
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/bindpoint/get_channel/
 is_root: false
 ---
 
-## get_channel(self, channel_name) {#str}
+## get_channel(self, channel_name) {#System.String}
 
 Gets channel by given name
 
@@ -28,10 +28,11 @@ def get_channel(self, channel_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| channel_name | str | The channel name to find |
+| channel_name | System.String | The channel name to find |
 
 
 
 ### See Also
 * module [`aspose.threed.animation`](../../)
+* class [`AnimationChannel`](/3d/python-net/aspose.threed.animation/animationchannel)
 * class [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint)

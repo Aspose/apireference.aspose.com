@@ -37,4 +37,5 @@ def to_absolute(self, left, top, width, height):
 
 ### See Also
 * module [`aspose.threed.utilities`](../../)
+* class [`Rect`](/3d/python-net/aspose.threed.utilities/rect)
 * class [`RelativeRectangle`](/3d/python-net/aspose.threed.utilities/relativerectangle)

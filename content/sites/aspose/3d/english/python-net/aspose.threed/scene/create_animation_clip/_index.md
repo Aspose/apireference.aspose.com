@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/scene/create_animation_clip/
 is_root: false
 ---
 
-## create_animation_clip(self, name) {#str}
+## create_animation_clip(self, name) {#System.String}
 
 A shorthand function to create and register the [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)
 The first [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) will be assigned to the [`Scene.current_animation_clip`](/3d/python-net/aspose.threed/scene#current_animation_clip)
@@ -29,7 +29,7 @@ def create_animation_clip(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Animation clip's name |
+| name | System.String | Animation clip's name |
 
 
 

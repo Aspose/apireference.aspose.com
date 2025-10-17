@@ -3,7 +3,7 @@ title: to_degree method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 70
 url: /python-net/aspose.threed.utilities/mathutils/to_degree/
 is_root: false
 ---
@@ -29,7 +29,7 @@ def to_degree(radian):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| radian | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The radian value. |
+| radian | aspose.threed.utilities.Vector3 | The radian value. |
 
 ### Example 
 

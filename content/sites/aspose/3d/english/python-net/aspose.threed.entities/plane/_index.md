@@ -3,7 +3,7 @@ title: Plane class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 270
 url: /python-net/aspose.threed.entities/plane/
 is_root: false
 ---
@@ -29,7 +29,7 @@ The Plane type exposes the following members:
 | :- | :- |
 | [`__init__(self)`](/3d/python-net/aspose.threed.entities/plane/__init__/#) | Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane) with default size 1x1. |
 | [`__init__(self, length, width)`](/3d/python-net/aspose.threed.entities/plane/__init__/#float-float) | Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane). |
-| [`__init__(self, name, length, width, length_segments, width_segments)`](/3d/python-net/aspose.threed.entities/plane/__init__/#str-float-float-int-int) | Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane). |
+| [`__init__(self, name, length, width, length_segments, width_segments)`](/3d/python-net/aspose.threed.entities/plane/__init__/#system.string-float-float-int-int) | Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane). |
 
 
 ### Properties
@@ -54,10 +54,10 @@ The Plane type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/plane/remove_property/#aspose.threed.property) | Removes a dynamic property. |
-| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/plane/remove_property/#str) | Remove the specified property identified by name |
-| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/plane/get_property/#str) | Get the value of specified property |
-| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/plane/set_property/#str-any) | Sets the value of specified property |
-| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/plane/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/plane/remove_property/#system.string) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/plane/get_property/#system.string) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/plane/set_property/#system.string-system.object) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/plane/find_property/#system.string) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [`get_bounding_box(self)`](/3d/python-net/aspose.threed.entities/plane/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [`get_entity_renderer_key(self)`](/3d/python-net/aspose.threed.entities/plane/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 | [`to_mesh(self)`](/3d/python-net/aspose.threed.entities/plane/to_mesh/#) | Convert current object to mesh |

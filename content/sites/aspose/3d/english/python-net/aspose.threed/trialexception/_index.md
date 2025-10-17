@@ -3,7 +3,7 @@ title: TrialException class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /python-net/aspose.threed/trialexception/
 is_root: false
 ---
@@ -20,7 +20,7 @@ The TrialException type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self, msg)`](/3d/python-net/aspose.threed/trialexception/__init__/#str) | Constructor of [`TrialException`](/3d/python-net/aspose.threed/trialexception) |
+| [`__init__(self, msg)`](/3d/python-net/aspose.threed/trialexception/__init__/#system.string) | Constructor of [`TrialException`](/3d/python-net/aspose.threed/trialexception) |
 | [`__init__(self)`](/3d/python-net/aspose.threed/trialexception/__init__/#) | Constructor of [`TrialException`](/3d/python-net/aspose.threed/trialexception) |
 
 

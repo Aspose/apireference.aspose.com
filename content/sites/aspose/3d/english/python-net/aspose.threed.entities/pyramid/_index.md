@@ -3,7 +3,7 @@ title: Pyramid class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 320
 url: /python-net/aspose.threed.entities/pyramid/
 is_root: false
 ---
@@ -30,7 +30,7 @@ The Pyramid type exposes the following members:
 | [`__init__(self)`](/3d/python-net/aspose.threed.entities/pyramid/__init__/#) | Construct a new pyramid instance with default bottom area(10, 10) and default height(5) |
 | [`__init__(self, xbottom, ybottom, height)`](/3d/python-net/aspose.threed.entities/pyramid/__init__/#float-float-float) | Construct a new pyramid instance with specified bottom area |
 | [`__init__(self, xbottom, ybottom, xtop, ytop, height)`](/3d/python-net/aspose.threed.entities/pyramid/__init__/#float-float-float-float-float) | Construct a new pyramid instance with specified bottom area and top area and height. |
-| [`__init__(self, name, xbottom, ybottom, xtop, ytop, height)`](/3d/python-net/aspose.threed.entities/pyramid/__init__/#str-float-float-float-float-float) | Construct a new pyramid instance with specified bottom area and top area and height. |
+| [`__init__(self, name, xbottom, ybottom, xtop, ytop, height)`](/3d/python-net/aspose.threed.entities/pyramid/__init__/#system.string-float-float-float-float-float) | Construct a new pyramid instance with specified bottom area and top area and height. |
 
 
 ### Properties
@@ -54,10 +54,10 @@ The Pyramid type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/pyramid/remove_property/#aspose.threed.property) | Removes a dynamic property. |
-| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/pyramid/remove_property/#str) | Remove the specified property identified by name |
-| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/pyramid/get_property/#str) | Get the value of specified property |
-| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/pyramid/set_property/#str-any) | Sets the value of specified property |
-| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/pyramid/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/pyramid/remove_property/#system.string) | Remove the specified property identified by name |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/pyramid/get_property/#system.string) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/pyramid/set_property/#system.string-system.object) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/pyramid/find_property/#system.string) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [`get_bounding_box(self)`](/3d/python-net/aspose.threed.entities/pyramid/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [`get_entity_renderer_key(self)`](/3d/python-net/aspose.threed.entities/pyramid/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 | [`to_mesh(self)`](/3d/python-net/aspose.threed.entities/pyramid/to_mesh/#) | Convert current object to mesh |

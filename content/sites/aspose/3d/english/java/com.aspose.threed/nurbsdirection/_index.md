@@ -3,7 +3,7 @@ title: NurbsDirection
 second_title: Aspose.3D for Java API Reference
 description: A 3D  has two direction the  and  the  defines data for each direction.
 type: docs
-weight: 109
+weight: 113
 url: /java/com.aspose.threed/nurbsdirection/
 ---
 
@@ -18,7 +18,7 @@ A 3D [NurbsSurface](../../com.aspose.threed/nurbssurface) has two direction, the
 
 | Constructor | Description |
 | --- | --- |
-| [NurbsDirection()](#NurbsDirection--) |  |
+| [NurbsDirection()](#NurbsDirection--) | Construct a new instance of [NurbsDirection](../../com.aspose.threed/nurbsdirection) |
 ## Methods
 
 | Method | Description |
@@ -26,6 +26,7 @@ A 3D [NurbsSurface](../../com.aspose.threed/nurbssurface) has two direction, the
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
 | [getCount()](#getCount--) | Gets the count of control points in current direction. |
+| [getDegree()](#getDegree--) | Gets the degree of a NURBS curve, the degree are defined as Order - 1 |
 | [getDivisions()](#getDivisions--) | Gets the number of divisions between adjacent control points in current direction. |
 | [getKnotVectors()](#getKnotVectors--) | Gets the knot vector, it is a sequence of parameter values that determines where and how the control points affect the NURBS curve. |
 | [getMultiplicity()](#getMultiplicity--) | Gets the multiplicity. |
@@ -35,6 +36,7 @@ A 3D [NurbsSurface](../../com.aspose.threed/nurbssurface) has two direction, the
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setCount(int value)](#setCount-int-) | Sets the count of control points in current direction. |
+| [setDegree(int value)](#setDegree-int-) | Sets the degree of a NURBS curve, the degree are defined as Order - 1 |
 | [setDivisions(int value)](#setDivisions-int-) | Sets the number of divisions between adjacent control points in current direction. |
 | [setOrder(int value)](#setOrder-int-) | Sets the order of a NURBS curve, it defines the number of nearby control points that influence any given point on the curve. |
 | [setType(NurbsType value)](#setType-com.aspose.threed.NurbsType-) | Sets the type of the current direction. |
@@ -47,6 +49,8 @@ A 3D [NurbsSurface](../../com.aspose.threed/nurbssurface) has two direction, the
 public NurbsDirection()
 ```
 
+
+Construct a new instance of [NurbsDirection](../../com.aspose.threed/nurbsdirection)
 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
@@ -83,6 +87,16 @@ Gets the count of control points in current direction.
 
 **Returns:**
 int - the count of control points in current direction.
+### getDegree() {#getDegree--}
+```
+public int getDegree()
+```
+
+
+Gets the degree of a NURBS curve, the degree are defined as Order - 1
+
+**Returns:**
+int - the degree of a NURBS curve, the degree are defined as Order - 1
 ### getDivisions() {#getDivisions--}
 ```
 public int getDivisions()
@@ -166,6 +180,19 @@ public void setCount(int value)
 
 
 Sets the count of control points in current direction.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | New value |
+
+### setDegree(int value) {#setDegree-int-}
+```
+public void setDegree(int value)
+```
+
+
+Sets the degree of a NURBS curve, the degree are defined as Order - 1
 
 **Parameters:**
 | Parameter | Type | Description |

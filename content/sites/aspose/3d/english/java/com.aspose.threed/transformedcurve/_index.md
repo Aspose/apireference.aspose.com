@@ -3,7 +3,7 @@ title: TransformedCurve
 second_title: Aspose.3D for Java API Reference
 description: A  gives a curve a placement by using a transformation matrix.
 type: docs
-weight: 187
+weight: 192
 url: /java/com.aspose.threed/transformedcurve/
 ---
 

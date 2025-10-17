@@ -23,7 +23,7 @@ def __init__(self, mesh):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | On which mesh to build polygon. |
+| mesh | aspose.threed.entities.Mesh | On which mesh to build polygon. |
 
 
 

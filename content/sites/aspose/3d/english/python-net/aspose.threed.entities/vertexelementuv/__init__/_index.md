@@ -39,7 +39,7 @@ def __init__(self, texture_mapping):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| texture_mapping | [`TextureMapping`](/3d/python-net/aspose.threed.entities/texturemapping) | The texture mapping type. |
+| texture_mapping | aspose.threed.entities.TextureMapping | The texture mapping type. |
 
 
 

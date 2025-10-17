@@ -23,7 +23,7 @@ def encode(self, entity, stream):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to encode |
+| entity | aspose.threed.Entity | The entity to encode |
 | stream | io.RawIOBase | The stream to write to, this method will not close this stream |
 
 ### Example 
@@ -42,7 +42,7 @@ FileFormat.PLY.encode(mesh, "sphere.ply")
 ```
 
 
-## encode(self, entity, file_name) {#aspose.threed.Entity-str}
+## encode(self, entity, file_name) {#aspose.threed.Entity-System.String}
 
 Encode the entity and save the result into an external file.
 
@@ -57,8 +57,8 @@ def encode(self, entity, file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to encode |
-| file_name | str | The file to write to |
+| entity | aspose.threed.Entity | The entity to encode |
+| file_name | System.String | The file to write to |
 
 ### Example 
 
@@ -91,9 +91,9 @@ def encode(self, entity, stream, opt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to encode |
+| entity | aspose.threed.Entity | The entity to encode |
 | stream | io.RawIOBase | The stream to write to, this method will not close this stream |
-| opt | [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) | Save options |
+| opt | aspose.threed.formats.PlySaveOptions | Save options |
 
 ### Example 
 
@@ -111,7 +111,7 @@ FileFormat.PLY.encode(mesh, "sphere.ply")
 ```
 
 
-## encode(self, entity, file_name, opt) {#aspose.threed.Entity-str-aspose.threed.formats.PlySaveOptions}
+## encode(self, entity, file_name, opt) {#aspose.threed.Entity-System.String-aspose.threed.formats.PlySaveOptions}
 
 Encode the entity and save the result into an external file.
 
@@ -126,9 +126,9 @@ def encode(self, entity, file_name, opt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to encode |
-| file_name | str | The file to write to |
-| opt | [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) | Save options |
+| entity | aspose.threed.Entity | The entity to encode |
+| file_name | System.String | The file to write to |
+| opt | aspose.threed.formats.PlySaveOptions | Save options |
 
 ### Example 
 

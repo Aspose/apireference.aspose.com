@@ -28,7 +28,7 @@ def bind(self, buffer):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| buffer | [`IBuffer`](/3d/python-net/aspose.threed.render/ibuffer) |  |
+| buffer | aspose.threed.render.IBuffer |  |
 
 
 ## bind(self, texture) {#aspose.threed.render.ITextureUnit}
@@ -51,7 +51,7 @@ def bind(self, texture):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| texture | [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit) | The texture unit to bind |
+| texture | aspose.threed.render.ITextureUnit | The texture unit to bind |
 
 
 ## bind(self, binding, buffer) {#int-aspose.threed.render.IBuffer}
@@ -75,7 +75,7 @@ def bind(self, binding, buffer):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | binding | int | Binding location |
-| buffer | [`IBuffer`](/3d/python-net/aspose.threed.render/ibuffer) | The entire buffer to bind |
+| buffer | aspose.threed.render.IBuffer | The entire buffer to bind |
 
 
 ## bind(self, binding, texture) {#int-aspose.threed.render.ITextureUnit}
@@ -99,7 +99,7 @@ def bind(self, binding, texture):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | binding | int | The binding location |
-| texture | [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit) | The texture unit to bind |
+| texture | aspose.threed.render.ITextureUnit | The texture unit to bind |
 
 
 ## bind(self, buffer, offset, size) {#aspose.threed.render.IBuffer-int-int}
@@ -122,7 +122,7 @@ def bind(self, buffer, offset, size):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| buffer | [`IBuffer`](/3d/python-net/aspose.threed.render/ibuffer) | Which buffer to bind |
+| buffer | aspose.threed.render.IBuffer | Which buffer to bind |
 | offset | int | Offset of the buffer to bind |
 | size | int | Size of the buffer to bind |
 
@@ -148,7 +148,7 @@ def bind(self, binding, buffer, offset, size):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | binding | int | Binding location |
-| buffer | [`IBuffer`](/3d/python-net/aspose.threed.render/ibuffer) | The buffer to bind |
+| buffer | aspose.threed.render.IBuffer | The buffer to bind |
 | offset | int | Offset of the buffer to bind |
 | size | int | Size of the buffer to bind |
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/scene/get_animation_clip/
 is_root: false
 ---
 
-## get_animation_clip(self, name) {#str}
+## get_animation_clip(self, name) {#System.String}
 
 Gets a named [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)
 
@@ -28,7 +28,7 @@ def get_animation_clip(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)'s name to look up |
+| name | System.String | The [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)'s name to look up |
 
 
 

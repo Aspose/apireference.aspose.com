@@ -3,7 +3,7 @@ title: Ellipse
 second_title: Aspose.3D for Java API Reference
 description: An  defines a set of points that form the shape of ellipse.
 type: docs
-weight: 47
+weight: 49
 url: /java/com.aspose.threed/ellipse/
 ---
 

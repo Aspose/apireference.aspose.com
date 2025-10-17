@@ -23,7 +23,7 @@ def merge(self, node):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node | [`Node`](/3d/python-net/aspose.threed/node) |  |
+| node | aspose.threed.Node |  |
 
 ### Example 
 

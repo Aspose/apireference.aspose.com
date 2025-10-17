@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## \_\_init\_\_(self, name) {#str}
+## \_\_init\_\_(self, name) {#System.String}
 
 Constructor of [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud)
 
@@ -38,7 +38,7 @@ def __init__(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of this entity |
+| name | System.String | The name of this entity |
 
 
 

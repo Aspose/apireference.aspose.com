@@ -3,7 +3,7 @@ title: IIndexBuffer
 second_title: Aspose.3D for Java API Reference
 description: The index buffer describes the geometry used in rendering pipeline.
 type: docs
-weight: 237
+weight: 242
 url: /java/com.aspose.threed/iindexbuffer/
 ---
 

@@ -23,7 +23,7 @@ def render(self, render_target):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| render_target | [`IRenderTarget`](/3d/python-net/aspose.threed.render/irendertarget) |  |
+| render_target | aspose.threed.render.IRenderTarget |  |
 
 
 

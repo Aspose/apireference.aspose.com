@@ -29,7 +29,7 @@ def translate(t):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| t | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Translate offset |
+| t | aspose.threed.utilities.Vector3 | Translate offset |
 
 ### Example 
 

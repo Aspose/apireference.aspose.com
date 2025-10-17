@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: Aspose.3D for Java API Reference
 description: The base class to configure options in file loading for different types
 type: docs
-weight: 93
+weight: 97
 url: /java/com.aspose.threed/loadoptions/
 ---
 

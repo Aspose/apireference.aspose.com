@@ -23,8 +23,8 @@ def execute(self, post_processing, result):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| post_processing | [`PostProcessing`](/3d/python-net/aspose.threed.render/postprocessing) |  |
-| result | [`IRenderTarget`](/3d/python-net/aspose.threed.render/irendertarget) |  |
+| post_processing | aspose.threed.render.PostProcessing |  |
+| result | aspose.threed.render.IRenderTarget |  |
 
 
 

@@ -3,7 +3,7 @@ title: FVector2
 second_title: Aspose.3D for Java API Reference
 description: A float vector with two components.
 type: docs
-weight: 57
+weight: 59
 url: /java/com.aspose.threed/fvector2/
 ---
 
@@ -46,7 +46,7 @@ A float vector with two components.
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [op_eq(FVector2 a, FVector2 b)](#op-eq-com.aspose.threed.FVector2-com.aspose.threed.FVector2-) | == Operator overloading |
-| [op_ne(FVector2 a, FVector2 b)](#op-ne-com.aspose.threed.FVector2-com.aspose.threed.FVector2-) | ! |
+| [op_ne(FVector2 a, FVector2 b)](#op-ne-com.aspose.threed.FVector2-com.aspose.threed.FVector2-) | != Operator overloading |
 | [sub(FVector2 a, FVector2 b)](#sub-com.aspose.threed.FVector2-com.aspose.threed.FVector2-) | \- Operator overloading |
 | [toString()](#toString--) | Returns a string that represents the [FVector2](../../com.aspose.threed/fvector2) |
 | [wait()](#wait--) |  |

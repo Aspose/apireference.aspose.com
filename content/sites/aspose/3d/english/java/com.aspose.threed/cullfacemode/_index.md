@@ -3,7 +3,7 @@ title: CullFaceMode
 second_title: Aspose.3D for Java API Reference
 description: What face to cull
 type: docs
-weight: 35
+weight: 37
 url: /java/com.aspose.threed/cullfacemode/
 ---
 

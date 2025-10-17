@@ -39,6 +39,8 @@ The Quaternion type exposes the following members:
 | :- | :- |
 | [`from_euler_angle(, pitch, yaw, roll)`](/3d/python-net/aspose.threed.utilities/quaternion/from_euler_angle/#float-float-float) | Creates quaternion from given Euler angle |
 | [`from_euler_angle(, euler_angle)`](/3d/python-net/aspose.threed.utilities/quaternion/from_euler_angle/#aspose.threed.utilities.vector3) | Creates quaternion from given Euler angle |
+| [`to_matrix(self)`](/3d/python-net/aspose.threed.utilities/quaternion/to_matrix/#) | Convert the rotation presented by quaternion to transform matrix. |
+| [`to_matrix(self, translation)`](/3d/python-net/aspose.threed.utilities/quaternion/to_matrix/#aspose.threed.utilities.vector3) | Convert the rotation presented by quaternion to transform matrix. |
 | [`conjugate(self)`](/3d/python-net/aspose.threed.utilities/quaternion/conjugate/#) | Returns a conjugate quaternion of current quaternion |
 | [`inverse(self)`](/3d/python-net/aspose.threed.utilities/quaternion/inverse/#) | Returns a inverse quaternion of current quaternion |
 | [`dot(self, q)`](/3d/python-net/aspose.threed.utilities/quaternion/dot/#aspose.threed.utilities.quaternion) | Dots product |
@@ -48,7 +50,6 @@ The Quaternion type exposes the following members:
 | [`concat(self, rhs)`](/3d/python-net/aspose.threed.utilities/quaternion/concat/#aspose.threed.utilities.quaternion) | Concatenate two quaternions |
 | [`from_angle_axis(, a, axis)`](/3d/python-net/aspose.threed.utilities/quaternion/from_angle_axis/#float-aspose.threed.utilities.vector3) | Creates a quaternion around given axis and rotate in clockwise |
 | [`from_rotation(, orig, dest)`](/3d/python-net/aspose.threed.utilities/quaternion/from_rotation/#aspose.threed.utilities.vector3-aspose.threed.utilities.vector3) | Creates a quaternion that rotate from original to destination direction |
-| [`to_matrix(self)`](/3d/python-net/aspose.threed.utilities/quaternion/to_matrix/#) | Convert the rotation presented by quaternion to transform matrix. |
 | [`interpolate(, t, from_address, to)`](/3d/python-net/aspose.threed.utilities/quaternion/interpolate/#float-aspose.threed.utilities.quaternion-aspose.threed.utilities.quaternion) | Populates this quaternion with the interpolated value between the given quaternion arguments for a t between from and to. |
 | [`slerp(, t, v1, v2)`](/3d/python-net/aspose.threed.utilities/quaternion/slerp/#float-aspose.threed.utilities.quaternion-aspose.threed.utilities.quaternion) | Perform spherical linear interpolation between two values |
 

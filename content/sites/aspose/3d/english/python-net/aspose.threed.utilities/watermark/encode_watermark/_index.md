@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/watermark/encode_watermark/
 is_root: false
 ---
 
-## encode_watermark(, input, text) {#aspose.threed.entities.Mesh-str}
+## encode_watermark(, input, text) {#aspose.threed.entities.Mesh-System.String}
 
 Encode a text into mesh' blind watermark.
 
@@ -30,7 +30,7 @@ def encode_watermark(input, text):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | input | aspose.threed.entities.Mesh | Mesh to encode a blind watermark |
-| text | str | Text to encode to the mesh |
+| text | System.String | Text to encode to the mesh |
 ### Remarks
 
 Both [`Watermark.encode_watermark`](/3d/python-net/aspose.threed.utilities/watermark/encode_watermark) and [`Watermark.decode_watermark`](/3d/python-net/aspose.threed.utilities/watermark/decode_watermark) will perform license check
@@ -53,7 +53,7 @@ Scene(encodedMesh).save("test.ply")
 ```
 
 
-## encode_watermark(, input, text, password) {#aspose.threed.entities.Mesh-str-str}
+## encode_watermark(, input, text, password) {#aspose.threed.entities.Mesh-System.String-System.String}
 
 Encode a text into mesh' blind watermark.
 
@@ -75,8 +75,8 @@ def encode_watermark(input, text, password):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | input | aspose.threed.entities.Mesh | Mesh to encode a blind watermark |
-| text | str | Text to encode to the mesh |
-| password | str | Password to protect the watermark, it's optional |
+| text | System.String | Text to encode to the mesh |
+| password | System.String | Password to protect the watermark, it's optional |
 ### Remarks
 
 Both [`Watermark.encode_watermark`](/3d/python-net/aspose.threed.utilities/watermark/encode_watermark) and [`Watermark.decode_watermark`](/3d/python-net/aspose.threed.utilities/watermark/decode_watermark) will perform license check
@@ -99,7 +99,7 @@ Scene(encodedMesh).save("test.ply")
 ```
 
 
-## encode_watermark(, input, text, password, permanent) {#aspose.threed.entities.Mesh-str-str-bool}
+## encode_watermark(, input, text, password, permanent) {#aspose.threed.entities.Mesh-System.String-System.String-bool}
 
 Encode a text into mesh' blind watermark.
 
@@ -121,8 +121,8 @@ def encode_watermark(input, text, password, permanent):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | input | aspose.threed.entities.Mesh | Mesh to encode a blind watermark |
-| text | str | Text to encode to the mesh |
-| password | str | Password to protect the watermark, it's optional |
+| text | System.String | Text to encode to the mesh |
+| password | System.String | Password to protect the watermark, it's optional |
 | permanent | bool | The permanent watermark will not be overwritten or removed. |
 ### Remarks
 

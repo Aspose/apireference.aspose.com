@@ -3,14 +3,14 @@ title: VertexElementIntsTemplate
 second_title: Aspose.3D for Java API Reference
 description: A helper class for defining concrete  implementations.
 type: docs
-weight: 207
+weight: 212
 url: /java/com.aspose.threed/vertexelementintstemplate/
 ---
 
 **Inheritance:**
 java.lang.Object, [com.aspose.threed.VertexElement](../../com.aspose.threed/vertexelement)
 ```
-public abstract class VertexElementIntsTemplate extends VertexElement
+public class VertexElementIntsTemplate extends VertexElement
 ```
 
 A helper class for defining concrete [VertexElement](../../com.aspose.threed/vertexelement) implementations.
@@ -20,6 +20,7 @@ A helper class for defining concrete [VertexElement](../../com.aspose.threed/ver
 | --- | --- |
 | [clear()](#clear--) | Removes all elements from the direct and the index arrays. |
 | [clone(boolean withData)](#clone-boolean-) | Deep clone the vertex element |
+| [clone(boolean withDirect, boolean withIndice)](#clone-boolean-boolean-) |  |
 | [copyTo(VertexElementIntsTemplate target)](#copyTo-com.aspose.threed.VertexElementIntsTemplate-) | Copies data to specified element |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
@@ -61,6 +62,22 @@ Deep clone the vertex element
 | Parameter | Type | Description |
 | --- | --- | --- |
 | withData | boolean | Clone the vertex with direct and index array |
+
+**Returns:**
+[VertexElement](../../com.aspose.threed/vertexelement)
+### clone(boolean withDirect, boolean withIndice) {#clone-boolean-boolean-}
+```
+public VertexElement clone(boolean withDirect, boolean withIndice)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| withDirect | boolean |  |
+| withIndice | boolean |  |
 
 **Returns:**
 [VertexElement](../../com.aspose.threed/vertexelement)

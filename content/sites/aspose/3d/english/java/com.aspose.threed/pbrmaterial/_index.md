@@ -3,7 +3,7 @@ title: PbrMaterial
 second_title: Aspose.3D for Java API Reference
 description: Material for physically based rendering based on albedo color/metallic/roughness
 type: docs
-weight: 117
+weight: 121
 url: /java/com.aspose.threed/pbrmaterial/
 ---
 
@@ -35,7 +35,7 @@ Material for physically based rendering based on albedo color/metallic/roughness
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [findProperty(String propertyName)](#findProperty-java.lang.String-) | Finds the property. |
-| [fromMaterial(Material material)](#fromMaterial-com.aspose.threed.Material-) | Allow convert other material to PbrMaterial |
+| [fromMaterial(Material material)](#fromMaterial-com.aspose.threed.Material-) | Allow convert other material to PbrMaterial **Example:** |
 | [getAlbedo()](#getAlbedo--) | Gets the base color of the material |
 | [getAlbedoTexture()](#getAlbedoTexture--) | Gets the texture for albedo |
 | [getClass()](#getClass--) |  |
@@ -175,12 +175,7 @@ public static PbrMaterial fromMaterial(Material material)
 ```
 
 
-Allow convert other material to PbrMaterial
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| material | [Material](../../com.aspose.threed/material) | **Example:**
+Allow convert other material to PbrMaterial **Example:**
 
 ```
 var mat = new LambertMaterial();
@@ -189,7 +184,12 @@ var mat = new LambertMaterial();
      mat.setTexture(Material.MAP_DIFFUSE, tex);
      mat.setDiffuseColor(new Vector3(0.3, 0.9, 0.4));
      PbrMaterial pbr = PbrMaterial.fromMaterial(mat);
-``` |
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| material | [Material](../../com.aspose.threed/material) |  |
 
 **Returns:**
 [PbrMaterial](../../com.aspose.threed/pbrmaterial)

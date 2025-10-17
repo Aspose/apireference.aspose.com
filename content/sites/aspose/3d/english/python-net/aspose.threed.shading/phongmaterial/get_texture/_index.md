@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.shading/phongmaterial/get_texture/
 is_root: false
 ---
 
-## get_texture(self, slot_name) {#str}
+## get_texture(self, slot_name) {#System.String}
 
 Gets the texture from the specified slot, it can be material's property name or shader's parameter name
 
@@ -28,7 +28,7 @@ def get_texture(self, slot_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| slot_name | str | Slot name. |
+| slot_name | System.String | Slot name. |
 
 ### Example 
 
@@ -50,3 +50,4 @@ tex = pycore.cast(Texture, mat.get_texture(Material.MAP_DIFFUSE))
 ### See Also
 * module [`aspose.threed.shading`](../../)
 * class [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial)
+* class [`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase)

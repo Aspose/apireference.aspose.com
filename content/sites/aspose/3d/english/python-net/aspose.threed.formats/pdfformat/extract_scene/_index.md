@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/pdfformat/extract_scene/
 is_root: false
 ---
 
-## extract_scene(self, file_name) {#str}
+## extract_scene(self, file_name) {#System.String}
 
 Extract 3D scenes from PDF file.
 
@@ -28,7 +28,7 @@ def extract_scene(self, file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | File name of input PDF file |
+| file_name | System.String | File name of input PDF file |
 
 ### Example 
 
@@ -45,7 +45,7 @@ for i in range(len(scenes)):
 ```
 
 
-## extract_scene(self, file_name, password) {#str-bytes}
+## extract_scene(self, file_name, password) {#System.String-bytes}
 
 Extract 3D scenes from PDF file.
 
@@ -65,7 +65,7 @@ def extract_scene(self, file_name, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | File name of input PDF file |
+| file_name | System.String | File name of input PDF file |
 | password | bytes | Password of the PDF file |
 
 ### Example 

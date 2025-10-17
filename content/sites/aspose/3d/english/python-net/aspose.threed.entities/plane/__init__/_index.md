@@ -42,7 +42,7 @@ def __init__(self, length, width):
 | width | float | Width of the plane. |
 
 
-## \_\_init\_\_(self, name, length, width, length_segments, width_segments) {#str-float-float-int-int}
+## \_\_init\_\_(self, name, length, width, length_segments, width_segments) {#System.String-float-float-int-int}
 
 Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane).
 
@@ -57,7 +57,7 @@ def __init__(self, name, length, width, length_segments, width_segments):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name. |
+| name | System.String | Name. |
 | length | float | Length of the plane. |
 | width | float | Width of the plane. |
 | length_segments | int | Length segments. |

@@ -3,7 +3,7 @@ title: DrawOperation
 second_title: Aspose.3D for Java API Reference
 description: The primitive types to render
 type: docs
-weight: 272
+weight: 277
 url: /java/com.aspose.threed/drawoperation/
 ---
 

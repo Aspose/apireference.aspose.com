@@ -3,7 +3,7 @@ title: WeightedMode
 second_title: Aspose.3D for Java API Reference
 description: Weighted mode.
 type: docs
-weight: 226
+weight: 231
 url: /java/com.aspose.threed/weightedmode/
 ---
 

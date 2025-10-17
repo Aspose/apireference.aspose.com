@@ -3,7 +3,7 @@ title: DracoFormat
 second_title: Aspose.3D for Java API Reference
 description: Google Draco format Example         The following code shows how to encode and decode a Mesh to/from byte array
 type: docs
-weight: 44
+weight: 46
 url: /java/com.aspose.threed/dracoformat/
 ---
 

@@ -3,7 +3,7 @@ title: Scene
 second_title: Aspose.3D for Java API Reference
 description: 
 type: docs
-weight: 157
+weight: 161
 url: /java/com.aspose.threed/scene/
 ---
 

@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Aspose.3D for Java API Reference
 description: The base class to configure options in file saving for different types
 type: docs
-weight: 156
+weight: 160
 url: /java/com.aspose.threed/saveoptions/
 ---
 

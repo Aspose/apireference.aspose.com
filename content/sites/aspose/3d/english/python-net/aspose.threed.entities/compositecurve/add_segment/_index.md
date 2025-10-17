@@ -23,7 +23,7 @@ def add_segment(self, curve, same_direction):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| curve | [`Curve`](/3d/python-net/aspose.threed.entities/curve) | The curve to add |
+| curve | aspose.threed.entities.Curve | The curve to add |
 | same_direction | bool | Same direction with current curve. |
 
 

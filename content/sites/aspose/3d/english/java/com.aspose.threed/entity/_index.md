@@ -3,7 +3,7 @@ title: Entity
 second_title: Aspose.3D for Java API Reference
 description: The base class of all entities.
 type: docs
-weight: 50
+weight: 52
 url: /java/com.aspose.threed/entity/
 ---
 

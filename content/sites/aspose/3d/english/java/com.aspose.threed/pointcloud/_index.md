@@ -3,7 +3,7 @@ title: PointCloud
 second_title: Aspose.3D for Java API Reference
 description: The point cloud contains no topology information but only the control points and the vertex elements.
 type: docs
-weight: 128
+weight: 132
 url: /java/com.aspose.threed/pointcloud/
 ---
 
@@ -39,6 +39,7 @@ The point cloud contains no topology information but only the control points and
 | [getClass()](#getClass--) |  |
 | [getControlPoints()](#getControlPoints--) | Gets all control points |
 | [getDeformers()](#getDeformers--) | Gets all deformers associated with this geometry. |
+| [getDimension()](#getDimension--) | If a dimension value is present for the point cloud, it indicates an organized point cloud. |
 | [getElement(VertexElementType type)](#getElement-com.aspose.threed.VertexElementType-) | Gets a vertex element with specified type |
 | [getEntityRendererKey()](#getEntityRendererKey--) | Gets the key of the entity renderer registered in the renderer |
 | [getExcluded()](#getExcluded--) | Gets whether to exclude this entity during exporting. |
@@ -58,6 +59,7 @@ The point cloud contains no topology information but only the control points and
 | [removeProperty(Property property)](#removeProperty-com.aspose.threed.Property-) | Removes a dynamic property. |
 | [removeProperty(String property)](#removeProperty-java.lang.String-) | Remove the specified property identified by name |
 | [setCastShadows(boolean value)](#setCastShadows-boolean-) | Sets whether this geometry can cast shadow |
+| [setDimension(Vector2 value)](#setDimension-com.aspose.threed.Vector2-) | If a dimension value is present for the point cloud, it indicates an organized point cloud. |
 | [setExcluded(boolean value)](#setExcluded-boolean-) | Sets whether to exclude this entity during exporting. |
 | [setName(String value)](#setName-java.lang.String-) | Sets the name. |
 | [setParentNode(Node value)](#setParentNode-com.aspose.threed.Node-) | Sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
@@ -294,6 +296,16 @@ Gets all deformers associated with this geometry.
 
 **Returns:**
 java.util.List<com.aspose.threed.Deformer> - all deformers associated with this geometry.
+### getDimension() {#getDimension--}
+```
+public Vector2 getDimension()
+```
+
+
+If a dimension value is present for the point cloud, it indicates an organized point cloud. Without a specified size, it is considered an unorganized point cloud. Organized point cloud means it has an image-like structure.
+
+**Returns:**
+[Vector2](../../com.aspose.threed/vector2) - If a dimension value is present for the point cloud, it indicates an organized point cloud. Without a specified size, it is considered an unorganized point cloud. Organized point cloud means it has an image-like structure.
 ### getElement(VertexElementType type) {#getElement-com.aspose.threed.VertexElementType-}
 ```
 public VertexElement getElement(VertexElementType type)
@@ -507,6 +519,19 @@ Sets whether this geometry can cast shadow
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean | New value |
+
+### setDimension(Vector2 value) {#setDimension-com.aspose.threed.Vector2-}
+```
+public void setDimension(Vector2 value)
+```
+
+
+If a dimension value is present for the point cloud, it indicates an organized point cloud. Without a specified size, it is considered an unorganized point cloud. Organized point cloud means it has an image-like structure.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Vector2](../../com.aspose.threed/vector2) | New value |
 
 ### setExcluded(boolean value) {#setExcluded-boolean-}
 ```

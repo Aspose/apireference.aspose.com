@@ -3,7 +3,7 @@ title: PixelMapMode
 second_title: Aspose.3D for Java API Reference
 description: 
 type: docs
-weight: 286
+weight: 291
 url: /java/com.aspose.threed/pixelmapmode/
 ---
 

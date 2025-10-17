@@ -3,7 +3,7 @@ title: ImportException class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /python-net/aspose.threed/importexception/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The ImportException type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self, msg)`](/3d/python-net/aspose.threed/importexception/__init__/#str) | Initializes a new instance |
+| [`__init__(self, msg)`](/3d/python-net/aspose.threed/importexception/__init__/#system.string) | Initializes a new instance |
 
 
 

@@ -29,7 +29,7 @@ def from_euler_angle(euler_angle):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| euler_angle | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Euler angle in radian |
+| euler_angle | aspose.threed.utilities.Vector3 | Euler angle in radian |
 
 
 ## from_euler_angle(, pitch, yaw, roll) {#float-float-float}

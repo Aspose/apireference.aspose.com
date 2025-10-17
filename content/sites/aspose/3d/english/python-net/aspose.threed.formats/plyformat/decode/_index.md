@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/plyformat/decode/
 is_root: false
 ---
 
-## decode(self, file_name) {#str}
+## decode(self, file_name) {#System.String}
 
 Decode a point cloud or mesh from the specified stream.
 
@@ -28,7 +28,7 @@ def decode(self, file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | The input stream |
+| file_name | System.String | The input stream |
 
 ### Example 
 
@@ -88,7 +88,7 @@ mesh = pycore.cast(Mesh, FileFormat.PLY.decode("sphere.ply"))
 ```
 
 
-## decode(self, file_name, opt) {#str-aspose.threed.formats.PlyLoadOptions}
+## decode(self, file_name, opt) {#System.String-aspose.threed.formats.PlyLoadOptions}
 
 Decode a point cloud or mesh from the specified stream.
 
@@ -108,8 +108,8 @@ def decode(self, file_name, opt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | The input stream |
-| opt | [`PlyLoadOptions`](/3d/python-net/aspose.threed.formats/plyloadoptions) | The load option of PLY format |
+| file_name | System.String | The input stream |
+| opt | aspose.threed.formats.PlyLoadOptions | The load option of PLY format |
 
 ### Example 
 
@@ -150,7 +150,7 @@ def decode(self, stream, opt):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | The input stream |
-| opt | [`PlyLoadOptions`](/3d/python-net/aspose.threed.formats/plyloadoptions) | The load option of PLY format |
+| opt | aspose.threed.formats.PlyLoadOptions | The load option of PLY format |
 
 ### Example 
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/fontfile/from_file/
 is_root: false
 ---
 
-## from_file(, file_name) {#str}
+## from_file(, file_name) {#System.String}
 
 Load FontFile from file name
 
@@ -29,7 +29,7 @@ def from_file(file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | Path to the font file |
+| file_name | System.String | Path to the font file |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

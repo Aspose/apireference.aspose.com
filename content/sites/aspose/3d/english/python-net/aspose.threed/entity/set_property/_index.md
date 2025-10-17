@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/entity/set_property/
 is_root: false
 ---
 
-## set_property(self, property, value) {#str-any}
+## set_property(self, property, value) {#System.String-System.Object}
 
 Sets the value of specified property
 
@@ -23,8 +23,8 @@ def set_property(self, property, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property | str | Property name |
-| value | any | The value of the property |
+| property | System.String | Property name |
+| value | System.Object | The value of the property |
 
 
 

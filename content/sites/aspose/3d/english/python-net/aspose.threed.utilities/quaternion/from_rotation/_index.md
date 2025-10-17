@@ -29,8 +29,8 @@ def from_rotation(orig, dest):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| orig | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Original direction |
-| dest | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Destination direction |
+| orig | aspose.threed.utilities.Vector3 | Original direction |
+| dest | aspose.threed.utilities.Vector3 | Destination direction |
 
 
 

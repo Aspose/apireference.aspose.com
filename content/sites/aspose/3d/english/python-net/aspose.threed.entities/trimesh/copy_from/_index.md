@@ -29,7 +29,7 @@ def copy_from(input, vd):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| input | [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) | The input TriMesh for copying |
+| input | aspose.threed.entities.TriMesh | The input TriMesh for copying |
 | vd | aspose.threed.utilities.VertexDeclaration | The new vertex declaration of the output TriMesh |
 
 

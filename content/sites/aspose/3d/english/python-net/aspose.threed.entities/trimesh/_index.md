@@ -3,7 +3,7 @@ title: TriMesh class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 410
 url: /python-net/aspose.threed.entities/trimesh/
 is_root: false
 ---
@@ -27,7 +27,7 @@ The TriMesh type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self, name, declaration)`](/3d/python-net/aspose.threed.entities/trimesh/__init__/#str-aspose.threed.utilities.vertexdeclaration) | Initialize an instance of [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) |
+| [`__init__(self, name, declaration)`](/3d/python-net/aspose.threed.entities/trimesh/__init__/#system.string-aspose.threed.utilities.vertexdeclaration) | Initialize an instance of [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) |
 
 
 ### Properties
@@ -51,14 +51,14 @@ The TriMesh type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/trimesh/remove_property/#aspose.threed.property) | Removes a dynamic property. |
-| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/trimesh/remove_property/#str) | Remove the specified property identified by name |
+| [`remove_property(self, property)`](/3d/python-net/aspose.threed.entities/trimesh/remove_property/#system.string) | Remove the specified property identified by name |
 | [`from_mesh(, declaration, mesh)`](/3d/python-net/aspose.threed.entities/trimesh/from_mesh/#aspose.threed.utilities.vertexdeclaration-aspose.threed.entities.mesh) | Create a TriMesh from given mesh object with given vertex layout. |
 | [`from_mesh(, mesh, use_float)`](/3d/python-net/aspose.threed.entities/trimesh/from_mesh/#aspose.threed.entities.mesh-bool) | Create a TriMesh from given mesh object, the vertex declaration are based on the input mesh's structure. |
 | [`indices_to_array(self, result)`](/3d/python-net/aspose.threed.entities/trimesh/indices_to_array/#any) |  |
 | [`indices_to_array(self, result)`](/3d/python-net/aspose.threed.entities/trimesh/indices_to_array/#any) |  |
-| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/trimesh/get_property/#str) | Get the value of specified property |
-| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/trimesh/set_property/#str-any) | Sets the value of specified property |
-| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/trimesh/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [`get_property(self, property)`](/3d/python-net/aspose.threed.entities/trimesh/get_property/#system.string) | Get the value of specified property |
+| [`set_property(self, property, value)`](/3d/python-net/aspose.threed.entities/trimesh/set_property/#system.string-system.object) | Sets the value of specified property |
+| [`find_property(self, property_name)`](/3d/python-net/aspose.threed.entities/trimesh/find_property/#system.string) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [`get_bounding_box(self)`](/3d/python-net/aspose.threed.entities/trimesh/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [`get_entity_renderer_key(self)`](/3d/python-net/aspose.threed.entities/trimesh/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 | [`copy_from(, input, vd)`](/3d/python-net/aspose.threed.entities/trimesh/copy_from/#aspose.threed.entities.trimesh-aspose.threed.utilities.vertexdeclaration) | Copy the [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) from input with new vertex layout |

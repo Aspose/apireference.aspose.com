@@ -29,7 +29,7 @@ def from_asset_info(asset_info):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| asset_info | [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) | From which asset info to read coordinate system, up and front vector. |
+| asset_info | aspose.threed.AssetInfo | From which asset info to read coordinate system, up and front vector. |
 
 
 

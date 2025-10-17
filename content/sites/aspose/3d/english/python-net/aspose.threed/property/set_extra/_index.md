@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/property/set_extra/
 is_root: false
 ---
 
-## set_extra(self, name, value) {#str-any}
+## set_extra(self, name, value) {#System.String-System.Object}
 
 Sets extra data of the property associated by name.
 
@@ -23,8 +23,8 @@ def set_extra(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the property's extra data |
-| value | any | The value of the property's extra data |
+| name | System.String | The name of the property's extra data |
+| value | System.Object | The value of the property's extra data |
 
 
 

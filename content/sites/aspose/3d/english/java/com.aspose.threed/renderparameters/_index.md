@@ -3,7 +3,7 @@ title: RenderParameters
 second_title: Aspose.3D for Java API Reference
 description: Describe the parameters of the render target
 type: docs
-weight: 145
+weight: 149
 url: /java/com.aspose.threed/renderparameters/
 ---
 

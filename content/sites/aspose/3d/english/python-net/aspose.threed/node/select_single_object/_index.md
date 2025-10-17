@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/node/select_single_object/
 is_root: false
 ---
 
-## select_single_object(self, path) {#str}
+## select_single_object(self, path) {#System.String}
 
 Select single object under current node using XPath-like query syntax.
 
@@ -28,7 +28,7 @@ def select_single_object(self, path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| path | str | The XPath-like query |
+| path | System.String | The XPath-like query |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

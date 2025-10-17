@@ -23,7 +23,7 @@ def add_entity(self, entity):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to be attached to the node |
+| entity | aspose.threed.Entity | The entity to be attached to the node |
 
 
 

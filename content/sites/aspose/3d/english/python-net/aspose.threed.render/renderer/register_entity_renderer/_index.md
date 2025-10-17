@@ -23,7 +23,7 @@ def register_entity_renderer(self, renderer):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| renderer | [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer) |  |
+| renderer | aspose.threed.render.EntityRenderer |  |
 
 
 

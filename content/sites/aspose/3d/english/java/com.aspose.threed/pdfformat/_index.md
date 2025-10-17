@@ -3,7 +3,7 @@ title: PdfFormat
 second_title: Aspose.3D for Java API Reference
 description: Adobes Portable Document Format Example         The following code shows how to extract all supported 3D scenes from a 3D PDF file and write them to obj format.
 type: docs
-weight: 119
+weight: 123
 url: /java/com.aspose.threed/pdfformat/
 ---
 

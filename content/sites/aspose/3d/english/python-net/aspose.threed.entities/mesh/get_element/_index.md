@@ -3,7 +3,7 @@ title: get_element method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /python-net/aspose.threed.entities/mesh/get_element/
 is_root: false
 ---
@@ -28,7 +28,7 @@ def get_element(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`VertexElementType`](/3d/python-net/aspose.threed.entities/vertexelementtype) | which vertex element type to find |
+| type | aspose.threed.entities.VertexElementType | which vertex element type to find |
 
 
 

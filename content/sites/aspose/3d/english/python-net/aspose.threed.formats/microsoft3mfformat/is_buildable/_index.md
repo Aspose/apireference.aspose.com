@@ -28,7 +28,7 @@ def is_buildable(self, node):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node | [`Node`](/3d/python-net/aspose.threed/node) | Which node to check |
+| node | aspose.threed.Node | Which node to check |
 
 
 

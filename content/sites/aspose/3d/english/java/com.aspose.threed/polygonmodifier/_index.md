@@ -3,7 +3,7 @@ title: PolygonModifier
 second_title: Aspose.3D for Java API Reference
 description: Utilities to modify polygons
 type: docs
-weight: 130
+weight: 134
 url: /java/com.aspose.threed/polygonmodifier/
 ---
 
@@ -347,13 +347,7 @@ public static void splitMesh(Node node, SplitMeshPolicy policy)
 ```
 
 
-Split mesh into sub-meshes by [VertexElementMaterial](../../com.aspose.threed/vertexelementmaterial). Each sub-mesh will use only one material. Perform mesh splitting on a node
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| node | [Node](../../com.aspose.threed/node) |  |
-| policy | [SplitMeshPolicy](../../com.aspose.threed/splitmeshpolicy) | **Example:** The following code shows how to split a box into sub meshes using material indices.
+Split mesh into sub-meshes by [VertexElementMaterial](../../com.aspose.threed/vertexelementmaterial). Each sub-mesh will use only one material. Perform mesh splitting on a node **Example:** The following code shows how to split a box into sub meshes using material indices.
 
 ```
 // Create a mesh of box(A box is composed by 6 planes)
@@ -370,7 +364,13 @@ Split mesh into sub-meshes by [VertexElementMaterial](../../com.aspose.threed/ve
  			mat.setIndices(new int[] { 0, 0, 0, 1, 1, 1 });
  			// We used the CompactData policy, each plane will has its own control point information or control point-based vertex element information.
  			planes = PolygonModifier.splitMesh(box, SplitMeshPolicy.COMPACT_DATA);
-``` |
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| node | [Node](../../com.aspose.threed/node) |  |
+| policy | [SplitMeshPolicy](../../com.aspose.threed/splitmeshpolicy) |  |
 
 ### splitMesh(Node node, SplitMeshPolicy policy, boolean createChildNodes) {#splitMesh-com.aspose.threed.Node-com.aspose.threed.SplitMeshPolicy-boolean-}
 ```
@@ -443,13 +443,7 @@ public static void splitMesh(Scene scene, SplitMeshPolicy policy)
 ```
 
 
-Split mesh into sub-meshes by [VertexElementMaterial](../../com.aspose.threed/vertexelementmaterial). Each sub-mesh will use only one material. Perform mesh splitting on all nodes of the scene.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| scene | [Scene](../../com.aspose.threed/scene) |  |
-| policy | [SplitMeshPolicy](../../com.aspose.threed/splitmeshpolicy) | **Example:** The following code shows how to split a box into sub meshes using material indices.
+Split mesh into sub-meshes by [VertexElementMaterial](../../com.aspose.threed/vertexelementmaterial). Each sub-mesh will use only one material. Perform mesh splitting on all nodes of the scene. **Example:** The following code shows how to split a box into sub meshes using material indices.
 
 ```
 // Create a mesh of box(A box is composed by 6 planes)
@@ -466,7 +460,13 @@ Split mesh into sub-meshes by [VertexElementMaterial](../../com.aspose.threed/ve
  			mat.setIndices(new int[] { 0, 0, 0, 1, 1, 1 });
  			// We used the CompactData policy, each plane will has its own control point information or control point-based vertex element information.
  			planes = PolygonModifier.splitMesh(box, SplitMeshPolicy.COMPACT_DATA);
-``` |
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| scene | [Scene](../../com.aspose.threed/scene) |  |
+| policy | [SplitMeshPolicy](../../com.aspose.threed/splitmeshpolicy) |  |
 
 ### splitMesh(Scene scene, SplitMeshPolicy policy, boolean removeOldMesh) {#splitMesh-com.aspose.threed.Scene-com.aspose.threed.SplitMeshPolicy-boolean-}
 ```
@@ -474,14 +474,7 @@ public static void splitMesh(Scene scene, SplitMeshPolicy policy, boolean remove
 ```
 
 
-Split mesh into sub-meshes by [VertexElementMaterial](../../com.aspose.threed/vertexelementmaterial). Each sub-mesh will use only one material. Perform mesh splitting on all nodes of the scene.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| scene | [Scene](../../com.aspose.threed/scene) |  |
-| policy | [SplitMeshPolicy](../../com.aspose.threed/splitmeshpolicy) |  |
-| removeOldMesh | boolean | **Example:** The following code shows how to split a box into sub meshes using material indices.
+Split mesh into sub-meshes by [VertexElementMaterial](../../com.aspose.threed/vertexelementmaterial). Each sub-mesh will use only one material. Perform mesh splitting on all nodes of the scene. **Example:** The following code shows how to split a box into sub meshes using material indices.
 
 ```
 // Create a mesh of box(A box is composed by 6 planes)
@@ -498,7 +491,14 @@ Split mesh into sub-meshes by [VertexElementMaterial](../../com.aspose.threed/ve
  			mat.setIndices(new int[] { 0, 0, 0, 1, 1, 1 });
  			// We used the CompactData policy, each plane will has its own control point information or control point-based vertex element information.
  			planes = PolygonModifier.splitMesh(box, SplitMeshPolicy.COMPACT_DATA);
-``` |
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| scene | [Scene](../../com.aspose.threed/scene) |  |
+| policy | [SplitMeshPolicy](../../com.aspose.threed/splitmeshpolicy) |  |
+| removeOldMesh | boolean |  |
 
 ### toString() {#toString--}
 ```

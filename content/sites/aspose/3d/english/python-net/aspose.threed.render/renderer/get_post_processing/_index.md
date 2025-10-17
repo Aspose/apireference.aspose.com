@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderer/get_post_processing/
 is_root: false
 ---
 
-## get_post_processing(self, name) {#str}
+## get_post_processing(self, name) {#System.String}
 
 Gets a built-in post-processor that supported by the renderer.
 
@@ -28,10 +28,11 @@ def get_post_processing(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str |  |
+| name | System.String |  |
 
 
 
 ### See Also
 * module [`aspose.threed.render`](../../)
+* class [`PostProcessing`](/3d/python-net/aspose.threed.render/postprocessing)
 * class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)
