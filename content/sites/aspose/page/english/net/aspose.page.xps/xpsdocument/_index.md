@@ -113,7 +113,9 @@ public sealed class XpsDocument : Document, IDisposable
 | [RemovePageAt](../../aspose.page.xps/xpsdocument/removepageat/)(int) | Removes a page from the document at *index* position. |
 | [Save](../../aspose.page.xps/xpsdocument/save/#save)(Stream) | Saves XPS document to stream. |
 | [Save](../../aspose.page.xps/xpsdocument/save/#save_1)(string) | Saves XPS document to XPS file located at the *path*. |
-| [SaveAsImage](../../aspose.page.xps/xpsdocument/saveasimage/)(ImageSaveOptions) | Saves the document in a bitmap image format. |
+| [SaveAsImage](../../aspose.page.xps/xpsdocument/saveasimage/#saveasimage)(ImageSaveOptions) | Saves the document to image file.The output directory and the file name will be the same as from input PS file. The file extension will correspond to image format in "options" param. If the document was initialized with a stream that is not FileStream, image file will be saved in the current folder with default file name template. |
+| [SaveAsImage](../../aspose.page.xps/xpsdocument/saveasimage/#saveasimage_1)(ImageSaveOptions, string, string) |  |
+| [SaveAsImageBytes](../../aspose.page.xps/xpsdocument/saveasimagebytes/)(ImageSaveOptions) | Saves the document in a bitmap image format ast bytes arrays. |
 | [SaveAsPdf](../../aspose.page.xps/xpsdocument/saveaspdf/#saveaspdf)(Stream, PdfSaveOptions) | Saves the document in PDF format. |
 | [SaveAsPdf](../../aspose.page.xps/xpsdocument/saveaspdf/#saveaspdf_1)(string, PdfSaveOptions) | Saves the document in PDF format. |
 | [SaveAsPs](../../aspose.page.xps/xpsdocument/saveasps/#saveasps)(Stream, PsSaveOptions) | Saves the document in PS format. |

@@ -3,7 +3,7 @@ title: XpsDocument.SaveAsPdf
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Saves the document in PDF format
 type: docs
-weight: 550
+weight: 560
 url: /net/aspose.page.xps/xpsdocument/saveaspdf/
 ---
 ## SaveAsPdf(string, PdfSaveOptions) {#saveaspdf_1}

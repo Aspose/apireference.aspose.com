@@ -131,7 +131,9 @@ Class incapsulating the main entity of XPS document that provides manipulation m
 | [save(Device device, SaveOptions options)](#save-com.aspose.page.Device-com.aspose.page.SaveOptions-) | Saves the document using the  Device  instance. |
 | [save(OutputStream stream)](#save-java.io.OutputStream-) | Saves XPS document to stream. |
 | [save(String path)](#save-java.lang.String-) | Saves XPS document to the XPS file located at the  path . |
-| [saveAsImage(ImageSaveOptions options)](#saveAsImage-com.aspose.xps.rendering.ImageSaveOptions-) | Saves the document in a bitmap image format. |
+| [saveAsImage(ImageSaveOptions options)](#saveAsImage-com.aspose.xps.rendering.ImageSaveOptions-) | Saves the document to image file.The output directory and the file name will be the same as from input XPS file. |
+| [saveAsImage(ImageSaveOptions options, String outDir, String fileNameTemplate)](#saveAsImage-com.aspose.xps.rendering.ImageSaveOptions-java.lang.String-java.lang.String-) | Saves the document to image file to the specified directory with the specified file name. |
+| [saveAsImageBytes(ImageSaveOptions options)](#saveAsImageBytes-com.aspose.xps.rendering.ImageSaveOptions-) | Saves the document in a bitmap image format as bytes arrays. |
 | [saveAsPdf(OutputStream stream, PdfSaveOptions options)](#saveAsPdf-java.io.OutputStream-com.aspose.xps.rendering.PdfSaveOptions-) | Saves the document in PDF format. |
 | [saveAsPdf(String outPdfFilePath, PdfSaveOptions options)](#saveAsPdf-java.lang.String-com.aspose.xps.rendering.PdfSaveOptions-) | Saves the document in PDF format. |
 | [saveAsPs(OutputStream stream, PsSaveOptions options)](#saveAsPs-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-) | Saves the document in PS format. |
@@ -1722,11 +1724,39 @@ Saves XPS document to the XPS file located at the  path .
 
 ### saveAsImage(ImageSaveOptions options) {#saveAsImage-com.aspose.xps.rendering.ImageSaveOptions-}
 ```
-public byte[][][] saveAsImage(ImageSaveOptions options)
+public void saveAsImage(ImageSaveOptions options)
 ```
 
 
-Saves the document in a bitmap image format.
+Saves the document to image file.The output directory and the file name will be the same as from input XPS file. The file extension will correspond to the image format in "options" param. If the document was initialized with a stream that is not FileInputStream, image file will be saved in the current folder with default file name template.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| options | [ImageSaveOptions](../../com.aspose.xps.rendering/imagesaveoptions) | Options for saving the document in a bitmap image format. |
+
+### saveAsImage(ImageSaveOptions options, String outDir, String fileNameTemplate) {#saveAsImage-com.aspose.xps.rendering.ImageSaveOptions-java.lang.String-java.lang.String-}
+```
+public void saveAsImage(ImageSaveOptions options, String outDir, String fileNameTemplate)
+```
+
+
+Saves the document to image file to the specified directory with the specified file name. The file extension will correspond to the image format in "options" param.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| options | [ImageSaveOptions](../../com.aspose.xps.rendering/imagesaveoptions) | Options for saving the document in a bitmap image format. |
+| outDir | java.lang.String | The output directory where image file will be saved. |
+| fileNameTemplate | java.lang.String | The file name template for image (without extension). If the input XPS file is 1-paged it will be precisely the file name, otherwise "\_[n]", where "n" - a number of page starting from 1, suffix will be appended to this. The file extension will correspond to image format in "option" param. |
+
+### saveAsImageBytes(ImageSaveOptions options) {#saveAsImageBytes-com.aspose.xps.rendering.ImageSaveOptions-}
+```
+public byte[][][] saveAsImageBytes(ImageSaveOptions options)
+```
+
+
+Saves the document in a bitmap image format as bytes arrays.
 
 **Parameters:**
 | Parameter | Type | Description |
