@@ -18,8 +18,11 @@ This class encapsulates PS/EPS documents.
 | Constructor | Description |
 | --- | --- |
 | [PsDocument()](#PsDocument--) | Initializes empty  PsDocument  with initialized page. |
+| [PsDocument(String outPsFilePath, PsSaveOptions options)](#PsDocument-java.lang.String-com.aspose.eps.device.PsSaveOptions-) | Initializes empty  PsDocument  with initialized page. |
 | [PsDocument(OutputStream psStream, PsSaveOptions options)](#PsDocument-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-) | Initializes empty  PsDocument  with initialized page. |
+| [PsDocument(String outPsFilePath, PsSaveOptions options, boolean multipaged)](#PsDocument-java.lang.String-com.aspose.eps.device.PsSaveOptions-boolean-) | Initializes empty  PsDocument . |
 | [PsDocument(OutputStream psStream, PsSaveOptions options, boolean multipaged)](#PsDocument-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-boolean-) | Initializes empty  PsDocument . |
+| [PsDocument(String outPsFilePath, PsSaveOptions options, int numberOfPages)](#PsDocument-java.lang.String-com.aspose.eps.device.PsSaveOptions-int-) | Initializes empty  PsDocument  when the number of Postscript document pages is known in advance. |
 | [PsDocument(OutputStream psStream, PsSaveOptions options, int numberOfPages)](#PsDocument-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-int-) | Initializes empty  PsDocument  when the number of Postscript document pages is known in advance. |
 | [PsDocument(String psFilePath)](#PsDocument-java.lang.String-) | Initializes  PsDocument  with an input PS/EPS file. |
 | [PsDocument(InputStream psStream)](#PsDocument-java.io.InputStream-) | Initializes  PsDocument  with a stream of PS/EPS file. |
@@ -84,11 +87,12 @@ This class encapsulates PS/EPS documents.
 | [resizeEps(OutputStream epsStream, DimensionF newSizeInUnits, Units units)](#resizeEps-java.io.OutputStream-com.aspose.page.DimensionF-com.aspose.page.Units-) | Resizes given  PsDocument  as EPS file. |
 | [rotate(float angleRadians)](#rotate-float-) | Adds rotation counterclockwise about the origin to current graphics state (rotate current matrix). |
 | [rotate(int angleDegrees)](#rotate-int-) | Adds rotation counterclockwise about the origin to current graphics state (rotate current matrix). |
-| [save()](#save--) | Saves given PsDocument as PS file. |
+| [save()](#save--) | Saves given PsDocument as PS or EPS file. |
 | [save(Device device, SaveOptions options)](#save-com.aspose.page.Device-com.aspose.page.SaveOptions-) | Saves PS/EPS file to a device. |
-| [save(OutputStream epsStream)](#save-java.io.OutputStream-) | Saves given PsDocument as EPS file. |
+| [save(OutputStream epsStream)](#save-java.io.OutputStream-) | Saves given PsDocument to the stream. |
+| [save(String outEpsFilePath)](#save-java.lang.String-) | Saves given PsDocument as EPS file. |
 | [saveAsImage(ImageSaveOptions options)](#saveAsImage-com.aspose.eps.device.ImageSaveOptions-) | Saves PS/EPS file to image file. |
-| [saveAsImage(ImageSaveOptions options, String outDir, String fileNameTemplate)](#saveAsImage-com.aspose.eps.device.ImageSaveOptions-java.lang.String-java.lang.String-) | Saves PS/EPS file to image file. |
+| [saveAsImage(ImageSaveOptions options, String outDir, String fileNameTemplate)](#saveAsImage-com.aspose.eps.device.ImageSaveOptions-java.lang.String-java.lang.String-) | Saves PS/EPS file to image file to the specified directory with the specified file name. |
 | [saveAsImagesBytes(ImageSaveOptions options)](#saveAsImagesBytes-com.aspose.eps.device.ImageSaveOptions-) | Saves PS/EPS file to images bytes arrays. |
 | [saveAsPdf(OutputStream pdfStream, PdfSaveOptions options)](#saveAsPdf-java.io.OutputStream-com.aspose.eps.device.PdfSaveOptions-) | Saves PS/EPS file to an output PDF stream. |
 | [saveAsPdf(String outPdfFilePath, PdfSaveOptions options)](#saveAsPdf-java.lang.String-com.aspose.eps.device.PdfSaveOptions-) | Saves PS/EPS file to PDF file. |
@@ -120,6 +124,20 @@ public PsDocument()
 
 Initializes empty  PsDocument  with initialized page. This constructor is used only for additional operations that are not related to PostScript files, for example, converting fonts.
 
+### PsDocument(String outPsFilePath, PsSaveOptions options) {#PsDocument-java.lang.String-com.aspose.eps.device.PsSaveOptions-}
+```
+public PsDocument(String outPsFilePath, PsSaveOptions options)
+```
+
+
+Initializes empty  PsDocument  with initialized page.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outPsFilePath | java.lang.String | The output PS/EPS file path. |
+| options | [PsSaveOptions](../../com.aspose.eps.device/pssaveoptions) | A set of parameters controlling saving of PostScript file. |
+
 ### PsDocument(OutputStream psStream, PsSaveOptions options) {#PsDocument-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-}
 ```
 public PsDocument(OutputStream psStream, PsSaveOptions options)
@@ -133,6 +151,21 @@ Initializes empty  PsDocument  with initialized page.
 | --- | --- | --- |
 | psStream | java.io.OutputStream | Stream where to save PS/EPS file. |
 | options | [PsSaveOptions](../../com.aspose.eps.device/pssaveoptions) | A set of parameters controlling saving of PostScript file. |
+
+### PsDocument(String outPsFilePath, PsSaveOptions options, boolean multipaged) {#PsDocument-java.lang.String-com.aspose.eps.device.PsSaveOptions-boolean-}
+```
+public PsDocument(String outPsFilePath, PsSaveOptions options, boolean multipaged)
+```
+
+
+Initializes empty  PsDocument .
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outPsFilePath | java.lang.String | The output PS/EPS file path. |
+| options | [PsSaveOptions](../../com.aspose.eps.device/pssaveoptions) | A set of parameters controlling saving of PostScript file. |
+| multipaged | boolean | If false page will not be initialized. In this case page initialization should be performed via explicit "openPage(width, height) call." |
 
 ### PsDocument(OutputStream psStream, PsSaveOptions options, boolean multipaged) {#PsDocument-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-boolean-}
 ```
@@ -148,6 +181,21 @@ Initializes empty  PsDocument .
 | psStream | java.io.OutputStream | Stream where to save PS/EPS file. |
 | options | [PsSaveOptions](../../com.aspose.eps.device/pssaveoptions) | A set of parameters controlling saving of PostScript file. |
 | multipaged | boolean | If false page will not be initialized. In this case page initialization should be performed via explicit "openPage(width, height) call." |
+
+### PsDocument(String outPsFilePath, PsSaveOptions options, int numberOfPages) {#PsDocument-java.lang.String-com.aspose.eps.device.PsSaveOptions-int-}
+```
+public PsDocument(String outPsFilePath, PsSaveOptions options, int numberOfPages)
+```
+
+
+Initializes empty  PsDocument  when the number of Postscript document pages is known in advance.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outPsFilePath | java.lang.String | The output PS/EPS file path. |
+| options | [PsSaveOptions](../../com.aspose.eps.device/pssaveoptions) | A set of parameters controlling saving of PostScript file. |
+| numberOfPages | int | The number of pages in the PostScript document. |
 
 ### PsDocument(OutputStream psStream, PsSaveOptions options, int numberOfPages) {#PsDocument-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-int-}
 ```
@@ -1014,7 +1062,7 @@ public void save()
 ```
 
 
-Saves given PsDocument as PS file. This method is used only when PsDocument was created from scratch.
+Saves given PsDocument as PS or EPS file. This method is used only when PsDocument was created from scratch.
 
 ### save(Device device, SaveOptions options) {#save-com.aspose.page.Device-com.aspose.page.SaveOptions-}
 ```
@@ -1036,12 +1084,25 @@ public void save(OutputStream epsStream)
 ```
 
 
-Saves given PsDocument as EPS file. This method is used only after updating XMP metadata. It saves initial EPS file with updated existing metadata or new one created while calling getMetadata method. In the last case all necessary PostScript code and EPS comments are added.
+Saves given PsDocument to the stream. This method is used only after updating XMP metadata. It saves initial EPS file with updated existing metadata or new one created while calling getMetadata method. In the last case all necessary PostScript code and EPS comments are added.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | epsStream | java.io.OutputStream | Stream of output EPS file. |
+
+### save(String outEpsFilePath) {#save-java.lang.String-}
+```
+public void save(String outEpsFilePath)
+```
+
+
+Saves given PsDocument as EPS file. This method is used only after updating XMP metadata. It saves initial EPS file with updated existing metadata or new one created while calling getMetadata method. In the last case all necessary PostScript code and EPS comments are added.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outEpsFilePath | java.lang.String | An output EPS file path.. |
 
 ### saveAsImage(ImageSaveOptions options) {#saveAsImage-com.aspose.eps.device.ImageSaveOptions-}
 ```
@@ -1049,7 +1110,7 @@ public void saveAsImage(ImageSaveOptions options)
 ```
 
 
-Saves PS/EPS file to image file. The output directory and the file name will be the same as from input PS file. The file extension will correspond to image format in "option" param.
+Saves PS/EPS file to image file. The output directory and the file name will be the same as from input PS file. The file extension will correspond to image format in "options" param. If the document was initialized with a stream that is not derived from FileInputStream, image file will be saved in the current folder with default file name template.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1062,14 +1123,14 @@ public void saveAsImage(ImageSaveOptions options, String outDir, String fileName
 ```
 
 
-Saves PS/EPS file to image file. The output directory and the file name will be the same as from input PS file. The file extension will correspond to image format in "option" param.
+Saves PS/EPS file to image file to the specified directory with the specified file name. The file extension will correspond to the image format in "options" param.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | options | [ImageSaveOptions](../../com.aspose.eps.device/imagesaveoptions) | Contains necessary parameters for saving image and flags that specify output of errors thrown during conversion. |
 | outDir | java.lang.String | The output directory where the image file will be saved. |
-| fileNameTemplate | java.lang.String | The file name template for the image. If the input PS/EPS file is 1-paged it will be precisely the file name, otherwise "\_[n]", where "n" - a number of page starting from 0, suffix will be appended to this. The file extension will correspond to image format in "option" param. |
+| fileNameTemplate | java.lang.String | The file name template for the image (without extension). If the input PS/EPS file is 1-paged it will be precisely the file name, otherwise "\_[n]", where "n" - a number of page starting from 0, suffix will be appended to this. The file extension will correspond to image format in "option" param. |
 
 ### saveAsImagesBytes(ImageSaveOptions options) {#saveAsImagesBytes-com.aspose.eps.device.ImageSaveOptions-}
 ```
