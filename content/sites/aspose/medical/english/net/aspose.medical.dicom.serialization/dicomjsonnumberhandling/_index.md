@@ -3,7 +3,7 @@ title: DicomJsonNumberHandling
 second_title: Aspose.Medical for .NET API Reference
 description: Determines how the DICOM numbers VR IS DS SV and UV should be handled when serializing and deserializing.
 type: docs
-weight: 970
+weight: 1020
 url: /net/aspose.medical.dicom.serialization/dicomjsonnumberhandling/
 ---
 

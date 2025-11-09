@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.Medical for .NET API Reference
 description: Provides methods to license the component.
 type: docs
-weight: 1250
+weight: 1340
 url: /net/aspose.medical/license/
 ---
 

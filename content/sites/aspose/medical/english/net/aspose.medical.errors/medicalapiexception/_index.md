@@ -3,7 +3,7 @@ title: MedicalApiException
 second_title: Aspose.Medical for .NET API Reference
 description: A generic exception that may occur in Aspose.Medical.
 type: docs
-weight: 1190
+weight: 1280
 url: /net/aspose.medical.errors/medicalapiexception/
 ---
 

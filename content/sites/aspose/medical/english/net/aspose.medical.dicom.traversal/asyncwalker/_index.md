@@ -3,7 +3,7 @@ title: AsyncWalker
 second_title: Aspose.Medical for .NET API Reference
 description: Represents a IElement../aspose.medical.dicom.elements/ielement asynchronous visitor that descends an entire DicomFile../aspose.medical.dicom/dicomfile or Dataset../aspose.medical.dicom/dataset or MetaInformation../aspose.medical.dicom/metainformation graph visiting each IElement../aspose.medical.dicom.elements/ielement and its nested Dataset../aspose.medical.dicom/datasets in depth-first order.
 type: docs
-weight: 1110
+weight: 1160
 url: /net/aspose.medical.dicom.traversal/asyncwalker/
 ---
 

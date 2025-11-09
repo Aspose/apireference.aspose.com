@@ -20,7 +20,7 @@ public interface IDicomEncoding
 | Name | Description |
 | --- | --- |
 | [Decode](../../aspose.medical.common.text/idicomencoding/decode)(Span&lt;byte&gt;, Encoding[], ReadOnlySpan&lt;byte&gt;) | Decodes all the byte fragments in the specified Byte array into a String using a set of the given *encodings*. |
-| [GetByteCount](../../aspose.medical.common.text/idicomencoding/getbytecount)(string, Encoding[], ReadOnlySpan&lt;byte&gt;) |  |
+| [GetByteCount](../../aspose.medical.common.text/idicomencoding/getbytecount)(string, Encoding[], ReadOnlySpan&lt;byte&gt;) | Calculates the number of bytes that encoding all the characters in the specified string would produce, given the same fallback and delimiter logic as your GetBytes method. |
 | [GetBytes](../../aspose.medical.common.text/idicomencoding/getbytes)(string, Encoding[], byte, ReadOnlySpan&lt;byte&gt;) | Encodes all the characters in the specified string into a Byte's array. |
 | [GetCharset](../../aspose.medical.common.text/idicomencoding/getcharset)(Encoding, bool) | Get DICOM character set from .NET Encoding. |
 | [GetEncoding](../../aspose.medical.common.text/idicomencoding/getencoding)(string) | Returns the Encoding corresponding to *charset* (DICOM Specific Character Set). |

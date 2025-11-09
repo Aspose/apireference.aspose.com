@@ -3,7 +3,7 @@ title: UidType
 second_title: Aspose.Medical for .NET API Reference
 description: Represents the type of the UID.
 type: docs
-weight: 1140
+weight: 1190
 url: /net/aspose.medical.dicom/uidtype/
 ---
 

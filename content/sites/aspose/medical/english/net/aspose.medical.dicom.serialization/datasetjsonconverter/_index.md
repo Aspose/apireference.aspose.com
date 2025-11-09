@@ -3,7 +3,7 @@ title: DatasetJsonConverter
 second_title: Aspose.Medical for .NET API Reference
 description: Converts Dataset../aspose.medical.dicom/dataset to and from JSON using the System.Text.Json.
 type: docs
-weight: 950
+weight: 1000
 url: /net/aspose.medical.dicom.serialization/datasetjsonconverter/
 ---
 

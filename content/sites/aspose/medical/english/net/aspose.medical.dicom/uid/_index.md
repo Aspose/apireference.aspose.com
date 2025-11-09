@@ -3,7 +3,7 @@ title: Uid
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates DICOM UID. https//dicom.nema.org/dicom/2013/output/chtml/part06/chapter_A.htmlhttps//dicom.nema.org/dicom/2013/output/chtml/part06/chapter_A.html.
 type: docs
-weight: 1130
+weight: 1180
 url: /net/aspose.medical.dicom/uid/
 ---
 

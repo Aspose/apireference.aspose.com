@@ -1,7 +1,7 @@
 ---
 title: GetByteCount
 second_title: Aspose.Medical for .NET API Reference
-description: 
+description: Calculates the number of bytes that encoding all the characters in the specified string would produce given the same fallback and delimiter logic as your GetBytes method.
 type: docs
 weight: 20
 url: /net/aspose.medical.common.text/dicomencoding/getbytecount/
@@ -9,9 +9,21 @@ url: /net/aspose.medical.common.text/dicomencoding/getbytecount/
 
 ## DicomEncoding.GetByteCount method
 
+Calculates the number of bytes that encoding all the characters in the specified string would produce, given the same fallback and delimiter logic as your GetBytes method.
+
 ```csharp
 public virtual int GetByteCount(string data, Encoding[] encodings, ReadOnlySpan<byte> delimiters)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| data | String | The string containing the characters to encode. |
+| encodings | Encoding[] | Encodings used to encode the given *data* (for final‐fallback). |
+| delimiters | ReadOnlySpan`1 | Delimiters in text values that reset the encoding. |
+
+### Return Value
+
+The total number of bytes that your GetBytes would have returned.
 
 ### See Also
 

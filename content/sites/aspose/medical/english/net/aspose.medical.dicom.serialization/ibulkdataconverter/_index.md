@@ -3,7 +3,7 @@ title: IBulkDataConverter
 second_title: Aspose.Medical for .NET API Reference
 description: Defines the contract for objects that allows writing DICOM Element data as a reference to a blob of data specified in the BulkData element. See https//dicom.nema.org/medical/dicom/current/output/chtml/part19/chapter_A.htmltable_A.1.5-2.
 type: docs
-weight: 1020
+weight: 1070
 url: /net/aspose.medical.dicom.serialization/ibulkdataconverter/
 ---
 

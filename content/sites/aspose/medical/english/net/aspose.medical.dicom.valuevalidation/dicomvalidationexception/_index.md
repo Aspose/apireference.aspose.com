@@ -3,7 +3,7 @@ title: DicomValidationException
 second_title: Aspose.Medical for .NET API Reference
 description: This exception indicates that DICOM element is invalid.
 type: docs
-weight: 1170
+weight: 1220
 url: /net/aspose.medical.dicom.valuevalidation/dicomvalidationexception/
 ---
 

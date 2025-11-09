@@ -3,7 +3,7 @@ title: ValueMultiplicity
 second_title: Aspose.Medical for .NET API Reference
 description: The Value Multiplicity specifies how many values with VR can be placed in the Value Field. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.4.htmlhttps//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.4.html
 type: docs
-weight: 1150
+weight: 1200
 url: /net/aspose.medical.dicom/valuemultiplicity/
 ---
 
