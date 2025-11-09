@@ -3,7 +3,7 @@ title: DicomXmlSerializerOptions
 second_title: Aspose.Medical for .NET API Reference
 description: Provides options that controls serialization/deserialization XML process of DICOM objects.
 type: docs
-weight: 1010
+weight: 1060
 url: /net/aspose.medical.dicom.serialization/dicomxmlserializeroptions/
 ---
 

@@ -3,7 +3,7 @@ title: IBulkDataLoader
 second_title: Aspose.Medical for .NET API Reference
 description: Defines the contract for objects that allows the recipient to retrieve data from a reference to a blob of data specified in BulkData element. See https//dicom.nema.org/medical/dicom/current/output/chtml/part19/chapter_A.htmltable_A.1.5-2.
 type: docs
-weight: 1030
+weight: 1080
 url: /net/aspose.medical.dicom.serialization/ibulkdataloader/
 ---
 

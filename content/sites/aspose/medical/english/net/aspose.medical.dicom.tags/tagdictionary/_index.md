@@ -3,7 +3,7 @@ title: TagDictionary
 second_title: Aspose.Medical for .NET API Reference
 description: The class is intended to look up tags in a dictionary for relevant information such as VR type value multiplicity.
 type: docs
-weight: 1060
+weight: 1110
 url: /net/aspose.medical.dicom.tags/tagdictionary/
 ---
 

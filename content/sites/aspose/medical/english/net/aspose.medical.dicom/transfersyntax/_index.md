@@ -3,7 +3,7 @@ title: TransferSyntax
 second_title: Aspose.Medical for .NET API Reference
 description: A DICOM file Transfer Syntax. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/chapter_A.htmlhttps//dicom.nema.org/medical/dicom/current/output/chtml/part05/chapter_A.html.
 type: docs
-weight: 1100
+weight: 1150
 url: /net/aspose.medical.dicom/transfersyntax/
 ---
 

@@ -36,12 +36,16 @@ public sealed class DicomFile
 
 | Name | Description |
 | --- | --- |
-| static [Open](../../aspose.medical.dicom/dicomfile/open#open)(Stream, Encoding?, ITagDataReadingStrategy?) | Reads the specified DICOM file and returns the [`DicomFile`](../dicomfile). |
-| static [Open](../../aspose.medical.dicom/dicomfile/open#open_1)(string, Encoding?, ITagDataReadingStrategy?) | Reads the specified DICOM file and returns the [`DicomFile`](../dicomfile). |
+| static [Open](../../aspose.medical.dicom/dicomfile/open#open)(Pipe, ReadDicomPipeOptions?, ITagDataReadingStrategy?) | Reads a DICOM file from a Pipe and returns the [`DicomFile`](../dicomfile). |
+| static [Open](../../aspose.medical.dicom/dicomfile/open#open_1)(PipeReader, ReadDicomPipeOptions?, ITagDataReadingStrategy?) | Reads a DICOM file from a PipeReader and returns the [`DicomFile`](../dicomfile). |
+| static [Open](../../aspose.medical.dicom/dicomfile/open#open_2)(Stream, ReadDicomStreamOptions?, ITagDataReadingStrategy?) | Reads a DICOM file from a Stream and returns the [`DicomFile`](../dicomfile). |
+| static [Open](../../aspose.medical.dicom/dicomfile/open#open_3)(string, ReadDicomFileOptions?, ITagDataReadingStrategy?) | Reads a DICOM file from a file path and returns the [`DicomFile`](../dicomfile). |
 | [RenderImage](../../aspose.medical.dicom/dicomfile/renderimage#renderimage_1)(int) | Renders the DICOM image stored at the given *frameIndex* in `Pixel Data` into [`RawImage`](../../aspose.medical.imaging/rawimage). |
 | [RenderImage](../../aspose.medical.dicom/dicomfile/renderimage#renderimage)(RenderOptions, int) | Renders the DICOM image stored at the given *frameIndex* in `Pixel Data` into [`RawImage`](../../aspose.medical.imaging/rawimage). |
-| [Save](../../aspose.medical.dicom/dicomfile/save#save)(Stream, SaveOptions?) | Saves DICOM file into the given stream. |
-| [Save](../../aspose.medical.dicom/dicomfile/save#save_1)(string, SaveOptions?) | Saves DICOM file into the given file. |
+| [Save](../../aspose.medical.dicom/dicomfile/save#save_2)(Stream, SaveDicomToStreamOptions?) | Saves DICOM file into the given stream. |
+| [Save](../../aspose.medical.dicom/dicomfile/save#save_3)(string, SaveDicomToFileOptions?) | Saves DICOM file into the given file. |
+| [Save](../../aspose.medical.dicom/dicomfile/save#save)(Pipe, bool, SaveDicomToPipeOptions?) | Saves this DICOM file to a Pipe using the specified save options. |
+| [Save](../../aspose.medical.dicom/dicomfile/save#save_1)(PipeWriter, bool, SaveDicomToPipeOptions?) | Saves this DICOM file to a PipeWriter using the specified save options. |
 | [Transcode](../../aspose.medical.dicom/dicomfile/transcode)(TransferSyntax) | Transcodes this [`DicomFile`](../dicomfile) from [`MetaInfo`](./metainfo).[`TransferSyntax`](../metainformation/transfersyntax) to the given *syntax*. |
 
 ### See Also

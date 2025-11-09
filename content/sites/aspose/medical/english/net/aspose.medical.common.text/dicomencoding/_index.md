@@ -26,7 +26,7 @@ public class DicomEncoding : IDicomEncoding
 | Name | Description |
 | --- | --- |
 | virtual [Decode](../../aspose.medical.common.text/dicomencoding/decode)(Span&lt;byte&gt;, Encoding[], ReadOnlySpan&lt;byte&gt;) | Decodes all the byte fragments in the specified Byte array into a String using a set of the given *encodings*. |
-| virtual [GetByteCount](../../aspose.medical.common.text/dicomencoding/getbytecount)(string, Encoding[], ReadOnlySpan&lt;byte&gt;) |  |
+| virtual [GetByteCount](../../aspose.medical.common.text/dicomencoding/getbytecount)(string, Encoding[], ReadOnlySpan&lt;byte&gt;) | Calculates the number of bytes that encoding all the characters in the specified string would produce, given the same fallback and delimiter logic as your GetBytes method. |
 | virtual [GetBytes](../../aspose.medical.common.text/dicomencoding/getbytes)(string, Encoding[], byte, ReadOnlySpan&lt;byte&gt;) | Encodes all the characters in the specified string into a Byte's array. |
 | virtual [GetCharset](../../aspose.medical.common.text/dicomencoding/getcharset)(Encoding, bool) | Get DICOM character set from .NET Encoding. |
 | [GetEncoding](../../aspose.medical.common.text/dicomencoding/getencoding)(string) | Returns the Encoding corresponding to *charset* (DICOM Specific Character Set). |

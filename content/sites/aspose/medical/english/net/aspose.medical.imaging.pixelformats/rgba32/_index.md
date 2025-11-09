@@ -3,7 +3,7 @@ title: Rgba32
 second_title: Aspose.Medical for .NET API Reference
 description: Packed pixel contains four 8-bit unsigned normalized values 0..255. The components are stored in Red Green Blue and Alpha order least significant to most significant byte. NOTE the structure is mutable.
 type: docs
-weight: 1230
+weight: 1320
 url: /net/aspose.medical.imaging.pixelformats/rgba32/
 ---
 

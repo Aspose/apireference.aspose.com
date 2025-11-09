@@ -3,7 +3,7 @@ title: DicomXmlSerializer
 second_title: Aspose.Medical for .NET API Reference
 description: Provides functionality to serialize DICOM objects to XML and to deserialize XML into DICOM objects.
 type: docs
-weight: 1000
+weight: 1050
 url: /net/aspose.medical.dicom.serialization/dicomxmlserializer/
 ---
 

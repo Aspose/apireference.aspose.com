@@ -3,7 +3,7 @@ title: ValueRepresentation
 second_title: Aspose.Medical for .NET API Reference
 description: Encapsulates DICOM VR value representation. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.htmlhttps//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_6.2.html
 type: docs
-weight: 1160
+weight: 1210
 url: /net/aspose.medical.dicom.valuerepresentations/valuerepresentation/
 ---
 

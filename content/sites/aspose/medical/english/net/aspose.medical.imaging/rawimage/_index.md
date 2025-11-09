@@ -3,7 +3,7 @@ title: RawImage
 second_title: Aspose.Medical for .NET API Reference
 description: A raw BGRA 32 bit 8-bit unsigned normalized values ranging from 0 to 255 image. The color components are stored in blue green red and alpha order least significant to most significant byte.
 type: docs
-weight: 1240
+weight: 1330
 url: /net/aspose.medical.imaging/rawimage/
 ---
 

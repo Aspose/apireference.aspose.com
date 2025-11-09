@@ -3,7 +3,7 @@ title: TagMask
 second_title: Aspose.Medical for .NET API Reference
 description: A tag mask for checking repeating groups. https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_7.8.htmlsect_7.8.1https//dicom.nema.org/medical/dicom/current/output/chtml/part05/sect_7.8.htmlsect_7.8.1.
 type: docs
-weight: 1080
+weight: 1130
 url: /net/aspose.medical.dicom.tags/tagmask/
 ---
 

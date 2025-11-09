@@ -19,6 +19,13 @@ public DicomFile(DicomFile file)
 | --- | --- | --- |
 | file | DicomFile | A DICOM file with the initial data that will be copied to the newly created [`DicomFile`](../../dicomfile). |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| [MedicalApiException](../../../aspose.medical.errors/medicalapiexception) | The provided data are invalid. |
+| [DicomValidationException](../../../aspose.medical.dicom.valuevalidation/dicomvalidationexception) | A DICOM Data element can't be cloned. |
+
 ### See Also
 
 * class [DicomFile](../../dicomfile)

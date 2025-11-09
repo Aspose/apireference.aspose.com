@@ -7,44 +7,90 @@ weight: 70
 url: /net/aspose.medical.dicom/dicomfile/save/
 ---
 
-## Save(string, SaveOptions?) {#save_1}
+## Save(string, SaveDicomToFileOptions?) {#save_3}
 
 Saves DICOM file into the given file.
 
 ```csharp
-public void Save(string fileName, SaveOptions? options = null)
+public void Save(string fileName, SaveDicomToFileOptions? options = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | String | Destination file name this DICOM file to be saved. |
-| options | SaveOptions | Save options. |
+| options | SaveDicomToFileOptions | Save options. |
 
 ### See Also
 
-* record [SaveOptions](../../../aspose.medical.dicom.writers/saveoptions)
+* record [SaveDicomToFileOptions](../../../aspose.medical.dicom.writers/savedicomtofileoptions)
 * class [DicomFile](../../dicomfile)
 * namespace [Aspose.Medical.Dicom](../../dicomfile)
 * assembly [Aspose.Medical](../../../)
 
 ---
 
-## Save(Stream, SaveOptions?) {#save}
+## Save(Stream, SaveDicomToStreamOptions?) {#save_2}
 
 Saves DICOM file into the given stream.
 
 ```csharp
-public void Save(Stream stream, SaveOptions? options = null)
+public void Save(Stream stream, SaveDicomToStreamOptions? options = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Destination stream this DICOM file to be saved. |
-| options | SaveOptions | Save options. |
+| options | SaveDicomToStreamOptions | Save options. |
 
 ### See Also
 
-* record [SaveOptions](../../../aspose.medical.dicom.writers/saveoptions)
+* record [SaveDicomToStreamOptions](../../../aspose.medical.dicom.writers/savedicomtostreamoptions)
+* class [DicomFile](../../dicomfile)
+* namespace [Aspose.Medical.Dicom](../../dicomfile)
+* assembly [Aspose.Medical](../../../)
+
+---
+
+## Save(PipeWriter, bool, SaveDicomToPipeOptions?) {#save_1}
+
+Saves this DICOM file to a PipeWriter using the specified save options.
+
+```csharp
+public void Save(PipeWriter writer, bool completeOnDispose, SaveDicomToPipeOptions? options = null)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| writer | PipeWriter | The destination PipeWriter that receives the serialized DICOM bytes. |
+| completeOnDispose | Boolean | When `true`, completes *writer* after the save finishes (during disposal of internal resources); when `false`, leaves the writer open for further use by the caller. |
+| options | SaveDicomToPipeOptions | Optional save options. When `null`, library defaults are used. |
+
+### See Also
+
+* record [SaveDicomToPipeOptions](../../../aspose.medical.dicom.writers/savedicomtopipeoptions)
+* class [DicomFile](../../dicomfile)
+* namespace [Aspose.Medical.Dicom](../../dicomfile)
+* assembly [Aspose.Medical](../../../)
+
+---
+
+## Save(Pipe, bool, SaveDicomToPipeOptions?) {#save}
+
+Saves this DICOM file to a Pipe using the specified save options.
+
+```csharp
+public void Save(Pipe pipe, bool completeOnDispose, SaveDicomToPipeOptions? options = null)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pipe | Pipe | The destination Pipe whose Writer receives the serialized DICOM bytes. The caller is responsible for draining Reader. |
+| completeOnDispose | Boolean | When `true`, completes Writer after the save finishes (during disposal of internal resources); when `false`, leaves the writer open for further use by the caller. |
+| options | SaveDicomToPipeOptions | Optional save options. When `null`, library defaults are used. |
+
+### See Also
+
+* record [SaveDicomToPipeOptions](../../../aspose.medical.dicom.writers/savedicomtopipeoptions)
 * class [DicomFile](../../dicomfile)
 * namespace [Aspose.Medical.Dicom](../../dicomfile)
 * assembly [Aspose.Medical](../../../)
