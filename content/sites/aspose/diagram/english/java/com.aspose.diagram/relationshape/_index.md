@@ -1,46 +1,47 @@
 ---
-title: LayerMem
+title: RelationShape
 second_title: Aspose.Diagram for Java API Reference
-description: Contains the LayerMember element which specifies each layer to which the shape is assigned.
+description: Contains elements that define a shape and relationflag.
 type: docs
-weight: 216
-url: /java/com.aspose.diagram/layermem/
+weight: 332
+url: /java/com.aspose.diagram/relationshape/
 ---
 
 **Inheritance:**
 java.lang.Object
 ```
-public class LayerMem
+public class RelationShape
 ```
 
-Contains the LayerMember element, which specifies each layer to which the shape is assigned.
+Contains elements that define a shape and relationflag.
+## Constructors
+
+| Constructor | Description |
+| --- | --- |
+| [RelationShape()](#RelationShape--) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [deepClone()](#deepClone--) | Creates deep copy of this instance. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
-| [getDel()](#getDel--) | A flag indicating whether the element has been deleted locally. |
-| [getLayerMember()](#getLayerMember--) | Specifies the layer or layers to which the shape is assigned. |
+| [getFlag()](#getFlag--) | flag |
+| [getShape()](#getShape--) | the shape |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [setDel(int value)](#setDel-int-) | For the description of this property, please see [getDel()](../../com.aspose.diagram/layermem\#getDel--) |
+| [setFlag(int value)](#setFlag-int-) | For the description of this property, please see [getFlag()](../../com.aspose.diagram/relationshape\#getFlag--) |
+| [setShape(Shape value)](#setShape-com.aspose.diagram.Shape-) | For the description of this property, please see [getShape()](../../com.aspose.diagram/relationshape\#getShape--) |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### deepClone() {#deepClone--}
+### RelationShape() {#RelationShape--}
 ```
-public Object deepClone()
+public RelationShape()
 ```
 
 
-Creates deep copy of this instance.
-
-**Returns:**
-java.lang.Object - 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -66,26 +67,26 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getDel() {#getDel--}
+### getFlag() {#getFlag--}
 ```
-public int getDel()
+public int getFlag()
 ```
 
 
-A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally.
+flag
 
 **Returns:**
 int
-### getLayerMember() {#getLayerMember--}
+### getShape() {#getShape--}
 ```
-public Str2Value getLayerMember()
+public Shape getShape()
 ```
 
 
-Specifies the layer or layers to which the shape is assigned. Layer assignment is specified based on the zero-based index of layers for the page. If a shape is assigned to more than one layer, each layer index appears separated by a semicolon.
+the shape
 
 **Returns:**
-[Str2Value](../../com.aspose.diagram/str2value)
+[Shape](../../com.aspose.diagram/shape)
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -112,18 +113,31 @@ public final native void notifyAll()
 
 
 
-### setDel(int value) {#setDel-int-}
+### setFlag(int value) {#setFlag-int-}
 ```
-public void setDel(int value)
+public void setFlag(int value)
 ```
 
 
-For the description of this property, please see [getDel()](../../com.aspose.diagram/layermem\#getDel--)
+For the description of this property, please see [getFlag()](../../com.aspose.diagram/relationshape\#getFlag--)
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int |  |
+
+### setShape(Shape value) {#setShape-com.aspose.diagram.Shape-}
+```
+public void setShape(Shape value)
+```
+
+
+For the description of this property, please see [getShape()](../../com.aspose.diagram/relationshape\#getShape--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Shape](../../com.aspose.diagram/shape) |  |
 
 ### toString() {#toString--}
 ```
