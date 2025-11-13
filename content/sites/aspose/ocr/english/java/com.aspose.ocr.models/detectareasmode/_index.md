@@ -3,7 +3,7 @@ title: DetectAreasMode
 second_title: Aspose.OCR for Java API Reference
 description: 
 type: docs
-weight: 23
+weight: 28
 url: /java/com.aspose.ocr.models/detectareasmode/
 ---
 
@@ -17,6 +17,7 @@ public enum DetectAreasMode extends Enum<DetectAreasMode>
 | Field | Description |
 | --- | --- |
 | [CURVED_TEXT](#CURVED-TEXT) | Automatically straightens curved lines of text in the image, improving recognition accuracy and allowing more text to be recovered and extracted. |
+| [FORMULA](#FORMULA) | Detects all blocks with mathematical formulas. |
 | [LEAN](#LEAN) | Prioritizes speed and reduces resource consumption by omitting support for complex layouts. |
 | [MULTICOLUMN](#MULTICOLUMN) | Detects large blocks of text formatted in columns. |
 | [TABLE](#TABLE) | Detects tabular structures in the image and extracts text from individual cells. |
@@ -29,6 +30,14 @@ public static final DetectAreasMode CURVED_TEXT
 
 
 Automatically straightens curved lines of text in the image, improving recognition accuracy and allowing more text to be recovered and extracted. Requires significant processing power and RAM.
+
+### FORMULA {#FORMULA}
+```
+public static final DetectAreasMode FORMULA
+```
+
+
+Detects all blocks with mathematical formulas.
 
 ### LEAN {#LEAN}
 ```
