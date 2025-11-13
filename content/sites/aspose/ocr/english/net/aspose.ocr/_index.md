@@ -33,6 +33,10 @@ The **Aspose.OCR** contains tools for image recognition, skew correction, text a
 | [OcrInput](./ocrinput) | Container to collect all images / documents for preprocessing / recognition. |
 | [OcrOutput](./ocroutput) | A container class to store and manage the results of OCR operations. |
 | [OcrRecognizeEventHandler](./ocrrecognizeeventhandler) | A delegate to track the progress of multi-page image recognition. |
+| [OCRTable](./ocrtable) | Represents structured table data for the entire OCR document. |
+| [OCRTableCell](./ocrtablecell) | Represents one table cell with recognized text and position information. |
+| [OCRTablePage](./ocrtablepage) | Represents one page with recognized tabular data. |
+| [OCRTableRow](./ocrtablerow) | Represents a single row within a recognized table. |
 | [OnnxRuntimeSessionOptions](./onnxruntimesessionoptions) | Configuration options for creating ONNX InferenceSession. We recommend keeping the optimized defaults unless you are absolutely certain about the modifications. For technical details, refer to ONNX Runtime documentation. |
 | [PassportRecognitionSettings](./passportrecognitionsettings) | Settings for the passport recognition. Contains elements that allow customizing the recognition process. |
 | [ReceiptRecognitionSettings](./receiptrecognitionsettings) | Settings for the receipt recognition. Contains elements that allow customizing the recognition process. |

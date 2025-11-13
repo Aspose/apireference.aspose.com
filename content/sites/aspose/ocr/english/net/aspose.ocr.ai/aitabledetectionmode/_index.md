@@ -3,7 +3,7 @@ title: AITableDetectionMode
 second_title: Aspose.OCR for .NET API Reference
 description: Defines the table detection modes used to improve table layout recognition.
 type: docs
-weight: 510
+weight: 550
 url: /net/aspose.ocr.ai/aitabledetectionmode/
 ---
 ## AITableDetectionMode enumeration

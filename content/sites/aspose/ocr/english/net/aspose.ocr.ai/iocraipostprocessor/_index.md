@@ -3,7 +3,7 @@ title: IOcrAIPostProcessor
 second_title: Aspose.OCR for .NET API Reference
 description: Interface for applying AI-based postprocessing to OCR recognition results.
 type: docs
-weight: 530
+weight: 570
 url: /net/aspose.ocr.ai/iocraipostprocessor/
 ---
 ## IOcrAIPostProcessor interface

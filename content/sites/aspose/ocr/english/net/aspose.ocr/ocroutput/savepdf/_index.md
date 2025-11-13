@@ -3,7 +3,7 @@ title: SavePdf
 second_title: Aspose.OCR for .NET API Reference
 description: Save all recognition results into a searchable PDF file with the original images set as the background.
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.ocr/ocroutput/savepdf/
 ---
 ## SavePdf(string, string, PdfOptimizationMode) {#savepdf_1}
