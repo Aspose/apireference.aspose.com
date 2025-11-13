@@ -3,7 +3,7 @@ title: RecognitionResult.LinesResult
 second_title: Aspose.OCR for .NET API Reference
 description: Recognized text from row with row coordinates.
 type: docs
-weight: 580
+weight: 620
 url: /net/aspose.ocr/recognitionresult.linesresult/
 ---
 ## RecognitionResult.LinesResult class

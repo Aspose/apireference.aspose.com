@@ -3,7 +3,7 @@ title: RecognizeReceipt
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on receipts.
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.ocr/asposeocr/recognizereceipt/
 ---
 ## RecognizeReceipt(OcrInput) {#recognizereceipt}

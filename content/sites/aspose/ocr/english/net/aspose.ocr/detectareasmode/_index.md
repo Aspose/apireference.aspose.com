@@ -23,6 +23,7 @@ public enum DetectAreasMode
 | UNIVERSAL | `2` | Detects all blocks of text in the image, including sparse and irregular text on photos. A versatile option for most images, except for tables and multi-column layouts. |
 | TABLE | `4` | Detects tabular structures in the image and extracts text from individual cells. Recommended for scanned spreadsheets, reports, and other table-based documents. |
 | CURVED_TEXT | `5` | Automatically straightens curved lines of text in the image, improving recognition accuracy and allowing more text to be recovered and extracted. Requires significant processing power and RAM. |
+| FORMULA | `6` | Detects all blocks with mathematical formulas. |
 
 ### Remarks
 

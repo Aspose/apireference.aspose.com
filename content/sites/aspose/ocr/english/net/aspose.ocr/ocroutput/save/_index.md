@@ -3,7 +3,7 @@ title: Save
 second_title: Aspose.OCR for .NET API Reference
 description: Save all recognition result to a file.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.ocr/ocroutput/save/
 ---
 ## Save(string, SaveFormat, string, PdfOptimizationMode) {#save_1}
