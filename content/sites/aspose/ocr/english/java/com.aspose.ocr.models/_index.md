@@ -18,6 +18,10 @@ url: /java/com.aspose.ocr.models/
 | [DefectAreas](../com.aspose.ocr.models/defectareas/) | Image areas containing a certain type of defect. |
 | [LanguageDetectionOutput](../com.aspose.ocr.models/languagedetectionoutput/) | Languages detected in the image text. |
 | [LayoutOutput](../com.aspose.ocr.models/layoutoutput/) | Information on detected content areas in the image. |
+| [OCRTable](../com.aspose.ocr.models/ocrtable/) | Represents structured table data for the entire OCR document. |
+| [OCRTableCell](../com.aspose.ocr.models/ocrtablecell/) | Represents one table cell with recognized text and position information. |
+| [OCRTablePage](../com.aspose.ocr.models/ocrtablepage/) | Represents one page with recognized tabular data. |
+| [OCRTableRow](../com.aspose.ocr.models/ocrtablerow/) | Represents a single row within a recognized table. |
 | [OnnxRuntimeSessionOptions](../com.aspose.ocr.models/onnxruntimesessionoptions/) | Configuration options for creating ONNX InferenceSession. |
 | [SkewOutput](../com.aspose.ocr.models/skewoutput/) | Data about skew angle in degrees and name of the file. |
 
