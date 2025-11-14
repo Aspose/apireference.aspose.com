@@ -79,6 +79,7 @@ public abstract class CSSPrimitiveValue : CSSValue
 | const [CSS_VMAX](../../aspose.svg.dom.css/cssprimitivevalue/css_vmax/) | The value is a percentage of the viewport width or height, whichever is larger. |
 | const [CSS_VMIN](../../aspose.svg.dom.css/cssprimitivevalue/css_vmin/) | The value is a percentage of the viewport width or height, whichever is smaller. |
 | const [CSS_VW](../../aspose.svg.dom.css/cssprimitivevalue/css_vw/) | The value is a percentage of the full viewport width. |
+| const [CSS_X](../../aspose.svg.dom.css/cssprimitivevalue/css_x/) | The value is a dots per ‘px’ unit (x). |
 
 ### See Also
 
