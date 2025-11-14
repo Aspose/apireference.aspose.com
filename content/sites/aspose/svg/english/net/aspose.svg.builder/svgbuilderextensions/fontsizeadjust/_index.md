@@ -35,10 +35,10 @@ The builder instance for chaining.
 
 ---
 
-## FontSizeAdjust<TBuilder>(*this TBuilder,   *) {#fontsizeadjust}
+## FontSizeAdjust<TBuilder>(*this TBuilder, *) {#fontsizeadjust}
 
 ```csharp
-public static TBuilder FontSizeAdjust<TBuilder>(this TBuilder builder,    value)
+public static TBuilder FontSizeAdjust<TBuilder>(this TBuilder builder,  value)
     where TBuilder : IAttributeSetter, IPresentationAttributeSetter
 ```
 

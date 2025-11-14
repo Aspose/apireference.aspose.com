@@ -9,7 +9,7 @@ url: /net/aspose.svg.builder/svgbuilderextensions/additive/
 ## SVGBuilderExtensions.Additive<TBuilder> method
 
 ```csharp
-public static TBuilder Additive<TBuilder>(this TBuilder builder,    value)
+public static TBuilder Additive<TBuilder>(this TBuilder builder,  value)
     where TBuilder : ISVGElementBuilder, IAnimationAdditionAttributeSetter
 ```
 

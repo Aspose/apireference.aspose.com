@@ -25,9 +25,9 @@ public abstract class HTMLCollection : DOMObject, IEnumerable<Element>
 
 | Name | Description |
 | --- | --- |
-| [  ​ ](../../aspose.svg.collections/htmlcollection/  ​ /)(*string*) |  |
 | abstract [GetEnumerator](../../aspose.svg.collections/htmlcollection/getenumerator/)() | Gets the enumerator. |
 | override [GetPlatformType](../../aspose.svg.collections/htmlcollection/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
+| [NamedItem](../../aspose.svg.collections/htmlcollection/nameditem/)(*string*) | Returns the item in the collection matched specified name. |
 
 ### See Also
 
