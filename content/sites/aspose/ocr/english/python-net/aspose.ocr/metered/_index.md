@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 140
+weight: 190
 url: /python-net/aspose.ocr/metered/
 ---
 

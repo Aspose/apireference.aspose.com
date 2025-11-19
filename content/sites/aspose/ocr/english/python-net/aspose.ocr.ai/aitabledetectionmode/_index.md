@@ -3,7 +3,7 @@ title: AITableDetectionMode
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 50
+weight: 70
 url: /python-net/aspose.ocr.ai/aitabledetectionmode/
 ---
 

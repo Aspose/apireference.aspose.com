@@ -3,7 +3,7 @@ title: RecognitionResult
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 190
+weight: 290
 url: /python-net/aspose.ocr/recognitionresult/
 ---
 

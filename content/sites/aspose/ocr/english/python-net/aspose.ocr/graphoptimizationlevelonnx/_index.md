@@ -3,7 +3,7 @@ title: GraphOptimizationLevelOnnx
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 500
+weight: 540
 url: /python-net/aspose.ocr/graphoptimizationlevelonnx/
 ---
 

@@ -3,7 +3,7 @@ title: RectangleOutput
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 240
+weight: 340
 url: /python-net/aspose.ocr/rectangleoutput/
 ---
 

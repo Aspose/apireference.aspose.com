@@ -3,7 +3,7 @@ title: Rectangle
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 230
+weight: 330
 url: /python-net/aspose.ocr/rectangle/
 ---
 

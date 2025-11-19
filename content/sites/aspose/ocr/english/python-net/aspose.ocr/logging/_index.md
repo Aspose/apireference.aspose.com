@@ -3,7 +3,7 @@ title: Logging
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 130
+weight: 180
 url: /python-net/aspose.ocr/logging/
 ---
 

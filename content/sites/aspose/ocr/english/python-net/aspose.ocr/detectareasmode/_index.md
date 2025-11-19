@@ -3,7 +3,7 @@ title: DetectAreasMode
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 350
+weight: 520
 url: /python-net/aspose.ocr/detectareasmode/
 ---
 
@@ -19,6 +19,7 @@ Determines the type of neural network used for areas detection.
 |UNIVERSAL|Detects all blocks of text in the image, including sparse and irregular text on photos. A versatile option for most images, except for tables and multi-column layouts.|
 |TABLE|Detects tabular structures in the image and extracts text from individual cells. Recommended for scanned spreadsheets, reports, and other table-based documents.|
 |CURVED_TEXT|Automatically straightens curved lines of text in the image, improving recognition accuracy and allowing more text to be recovered and extracted. Requires significant processing power and RAM.|
+|FORMULA||
 
 ### See Also
 
