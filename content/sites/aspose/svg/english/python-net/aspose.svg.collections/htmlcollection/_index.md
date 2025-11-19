@@ -39,6 +39,7 @@ Returns the index-th item in the collection. If index is greater than or equal t
 | Method | Description |
 | :- | :- |
 | [get_platform_type](/svg/python-net/aspose.svg.collections/htmlcollection/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [named_item](/svg/python-net/aspose.svg.collections/htmlcollection/named_item/#str) | Returns the item in the collection matched specified name. |
 
 
 

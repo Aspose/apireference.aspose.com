@@ -3,7 +3,7 @@ title: HTMLCollection indexer
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /python-net/aspose.svg.collections/htmlcollection/__getitem__/
 is_root: false
 ---
