@@ -212,3 +212,5 @@ pattern = "^.+\\.(xml)$"
 contentType = "application/xml"
 gzip = true
 force = true
+
+uglyURLs = true
