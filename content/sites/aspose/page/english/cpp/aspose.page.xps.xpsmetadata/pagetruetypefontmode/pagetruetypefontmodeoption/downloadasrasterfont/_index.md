@@ -10,7 +10,7 @@ url: /cpp/aspose.page.xps.xpsmetadata/pagetruetypefontmode/pagetruetypefontmodeo
 ## DownloadAsRasterFont field
 
 
-[TrueType](../../../../aspose.truetype/) font is downloaded as raster font.
+**TrueType** font is downloaded as raster font.
 
 ```cpp
 static System::SharedPtr<PageTrueTypeFontMode::PageTrueTypeFontModeOption> Aspose::Page::XPS::XpsMetadata::PageTrueTypeFontMode::PageTrueTypeFontModeOption::DownloadAsRasterFont

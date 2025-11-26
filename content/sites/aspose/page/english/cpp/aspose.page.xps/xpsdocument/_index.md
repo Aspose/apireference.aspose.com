@@ -42,8 +42,8 @@ class XpsDocument : public Aspose::Page::Document,
 | [CreateColor](./createcolor/)(float, float, float) | Creates a new color in scRGB color space. |
 | [CreateColor](./createcolor/)(System::String, const System::ArrayPtr\<float\>\&) | Creates a new color in ICC based color space. |
 | [CreateColor](./createcolor/)(System::SharedPtr\<XpsModel::XpsIccProfile\>, const System::ArrayPtr\<float\>\&) | Creates a new color in ICC based color space. |
-| [CreateFont](./createfont/)(System::String, System::Drawing::FontStyle) | Creates a new [TrueType](../../aspose.truetype/) font resource. |
-| [CreateFont](./createfont/)(System::SharedPtr\<System::IO::Stream\>) | Creates a new [TrueType](../../aspose.truetype/) font resource out of stream. |
+| [CreateFont](./createfont/)(System::String, System::Drawing::FontStyle) | Creates a new **TrueType** font resource. |
+| [CreateFont](./createfont/)(System::SharedPtr\<System::IO::Stream\>) | Creates a new **TrueType** font resource out of stream. |
 | [CreateGlyphs](./createglyphs/)(System::String, float, System::Drawing::FontStyle, float, float, System::String) | Creates new glyphs. |
 | [CreateGlyphs](./createglyphs/)(System::SharedPtr\<XpsModel::XpsFont\>, float, float, float, System::String) | Creates new glyphs. |
 | [CreateGradientStop](./creategradientstop/)(System::SharedPtr\<XpsModel::XpsColor\>, float) | Creates a new gradient stop. |
@@ -103,7 +103,9 @@ class XpsDocument : public Aspose::Page::Document,
 | [RemovePageAt](./removepageat/)(int32_t) | Removes a page from the document at *index*  position. |
 | [Save](./save/)(System::String) | Saves [XPS](../) document to [XPS](../) file located at the *path* . |
 | [Save](./save/)(System::SharedPtr\<System::IO::Stream\>) | Saves [XPS](../) document to stream. |
-| [SaveAsImage](./saveasimage/)(System::SharedPtr\<Presentation::Image::ImageSaveOptions\>) | Saves the document in a bitmap image format. |
+| [SaveAsImage](./saveasimage/)(System::SharedPtr\<Presentation::Image::ImageSaveOptions\>) | Saves the document to image file.The output directory and the file name will be the same as from input [XPS](../) file. The file extension will correspond to image format in "options" param. If the document was initialized with a stream that is not FileStream, image file will be saved in the current folder with default file name template. |
+| [SaveAsImage](./saveasimage/)(System::SharedPtr\<Presentation::Image::ImageSaveOptions\>, System::String, System::String) | Saves the document to image file to the specified directory with the specified file name. The file extension will correspond to the image format in "options" param. |
+| [SaveAsImageBytes](./saveasimagebytes/)(System::SharedPtr\<Presentation::Image::ImageSaveOptions\>) | Saves the document in a bitmap image format as bytes arrays. |
 | [SaveAsPdf](./saveaspdf/)(System::String, System::SharedPtr\<Presentation::Pdf::PdfSaveOptions\>) | Saves the document in PDF format. |
 | [SaveAsPdf](./saveaspdf/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Presentation::Pdf::PdfSaveOptions\>) | Saves the document in PDF format. |
 | [SaveAsPs](./saveasps/)(System::String, System::SharedPtr\<EPS::Device::PsSaveOptions\>) | Saves the document in PS format. |

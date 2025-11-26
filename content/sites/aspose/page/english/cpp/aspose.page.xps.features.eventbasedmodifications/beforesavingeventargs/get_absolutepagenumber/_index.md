@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/beforesavingeventargs
 The current absolute page number across all documents within the [XPS](../../../aspose.page.xps/) package.
 
 ```cpp
-int32_t Aspose::Page::XPS::Features::EventBasedModifications::BeforeSavingEventArgs<typename>::get_AbsolutePageNumber() const
+int32_t Aspose::Page::XPS::Features::EventBasedModifications::BeforeSavingEventArgs<T>::get_AbsolutePageNumber() const
 ```
 
 ## See Also

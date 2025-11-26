@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/pageconstants/margins_zero/
 "Zero" page margins value
 
 ```cpp
-static const System::String & Aspose::Page::EPS::PageConstants::MARGINS_ZERO()
+static System::String & Aspose::Page::EPS::PageConstants::MARGINS_ZERO()
 ```
 
 ## See Also

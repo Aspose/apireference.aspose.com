@@ -28,7 +28,7 @@ class PdfCanvas : public Aspose::Page::EPS::Device::PdfNode
 | [PdfCanvas](./pdfcanvas/)() |  |
 | [set_Clip](./set_clip/)(System::SharedPtr\<System::Drawing::Drawing2D::GraphicsPath\>) |  |
 | [set_Paint](./set_paint/)(System::SharedPtr\<System::Drawing::Brush\>) |  |
-| [set_RenderTransform](./set_rendertransform/)(System::SharedPtr\<Aspose::Foundation::Drawing::DrMatrix\>) |  |
+| [set_RenderTransform](./set_rendertransform/)(System::SharedPtr\<Foundation::Drawing::DrMatrix\>) |  |
 ## See Also
 
 * Class [PdfNode](../pdfnode/)

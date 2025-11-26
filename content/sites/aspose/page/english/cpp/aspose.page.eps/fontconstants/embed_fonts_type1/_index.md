@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/fontconstants/embed_fonts_type1/
 "Type1" font type value for "EMBED_FONTS_AS" key
 
 ```cpp
-static const System::String & Aspose::Page::EPS::FontConstants::EMBED_FONTS_TYPE1()
+static System::String & Aspose::Page::EPS::FontConstants::EMBED_FONTS_TYPE1()
 ```
 
 ## See Also

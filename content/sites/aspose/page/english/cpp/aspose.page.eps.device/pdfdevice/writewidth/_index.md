@@ -4,7 +4,7 @@ linktitle: WriteWidth
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::WriteWidth method. Writes out the width of the stroke in C++.'
 type: docs
-weight: 8000
+weight: 8100
 url: /cpp/aspose.page.eps.device/pdfdevice/writewidth/
 ---
 ## PdfDevice::WriteWidth method

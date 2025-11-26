@@ -4,7 +4,7 @@ linktitle: SUBJECT
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::SUBJECT method. "Subject" property value in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/aspose.page.eps.device/pdfdevice/subject/
 ---
 ## PdfDevice::SUBJECT method

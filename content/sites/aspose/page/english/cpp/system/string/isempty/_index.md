@@ -4,7 +4,7 @@ linktitle: IsEmpty
 second_title: Aspose.Page for C++
 description: 'System::String::IsEmpty method. Checks if string is both non-null and empty in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/system/string/isempty/
 ---
 ## String::IsEmpty method

@@ -4,7 +4,7 @@ linktitle: SetHeader
 second_title: Aspose.Page for C++
 description: 'How to use SetHeader method of Aspose::Page::EPS::Device::PdfDevice class in C++.'
 type: docs
-weight: 5500
+weight: 5600
 url: /cpp/aspose.page.eps.device/pdfdevice/setheader/
 ---
 ## PdfDevice::SetHeader method
@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps.device/pdfdevice/setheader/
 
 
 ```cpp
-virtual void Aspose::Page::EPS::Device::PdfDevice::SetHeader(System::SharedPtr<Aspose::Page::EPS::Postscript::TrFont> font, System::SharedPtr<Aspose::Page::EPS::Graphics2d::TagString> left, System::SharedPtr<Aspose::Page::EPS::Graphics2d::TagString> center, System::SharedPtr<Aspose::Page::EPS::Graphics2d::TagString> right, int32_t underlineThickness)
+virtual void Aspose::Page::EPS::Device::PdfDevice::SetHeader(System::SharedPtr<Postscript::TrFont> font, System::SharedPtr<Graphics2d::TagString> left, System::SharedPtr<Graphics2d::TagString> center, System::SharedPtr<Graphics2d::TagString> right, int32_t underlineThickness)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: ReNewForMerge
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::ReNewForMerge method. Reset device to initial state for whole document while merging several documents. Used for reseting output stream in C++.'
 type: docs
-weight: 4300
+weight: 4400
 url: /cpp/aspose.page.eps.device/pdfdevice/renewformerge/
 ---
 ## PdfDevice::ReNewForMerge method

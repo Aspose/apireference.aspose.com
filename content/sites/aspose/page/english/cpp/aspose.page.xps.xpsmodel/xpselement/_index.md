@@ -14,7 +14,7 @@ Class incapsulating common [XPS](../../aspose.page.xps/) element features.
 
 ```cpp
 class XpsElement : public Aspose::Page::XPS::XpsModel::XpsObject,
-                   public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsContentElement>>
+                   public System::Collections::Generic::IEnumerable<System::SharedPtr<XpsContentElement>>
 ```
 
 ## Methods
@@ -34,7 +34,6 @@ class XpsElement : public Aspose::Page::XPS::XpsModel::XpsObject,
 | [GetEnumerator](./getenumerator/)() override | Implementation of [System::Collections::Generic::IEnumerable<XpsContentElement>](../../system.collections.generic/ienumerable/) interface. |
 | [idx_get](./idx_get/)(int32_t) | Provides access to element's children by index *i* . |
 | [set_Parent](./set_parent/)(System::SharedPtr\<XpsElement\>) |  |
-| [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | [virtualizeBeginConstIterator](./virtualizebeginconstiterator/)() const override | Gets iterator pointing to the first element (if any)of the const-qualified instance of the collection. |
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override | Gets iterator pointing to the first element (if any) of the collection. |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override | Gets iterator pointing right after the last element (if any)of the const-qualified instance of the collection. |

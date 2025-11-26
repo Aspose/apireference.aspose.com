@@ -27,19 +27,19 @@ Aspose::Page::XPS::Presentation::Xps::TiffDataReader::TiffDataReader(System::Arr
 * Class [TiffDataReader](../)
 * Namespace [Aspose::Page::XPS::Presentation::Xps](../../)
 * Library [Aspose.Page for C++](../../../)
-## TiffDataReader::TiffDataReader(System::SharedPtr\<Aspose::Foundation::BigEndianBinaryReader\>) constructor
+## TiffDataReader::TiffDataReader(System::SharedPtr\<Foundation::BigEndianBinaryReader\>) constructor
 
 
 Initializes a new instance of the [TiffDataReader](../) class.
 
 ```cpp
-Aspose::Page::XPS::Presentation::Xps::TiffDataReader::TiffDataReader(System::SharedPtr<Aspose::Foundation::BigEndianBinaryReader> reader)
+Aspose::Page::XPS::Presentation::Xps::TiffDataReader::TiffDataReader(System::SharedPtr<Foundation::BigEndianBinaryReader> reader)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| reader | System::SharedPtr\<Aspose::Foundation::BigEndianBinaryReader\> | The reader. |
+| reader | System::SharedPtr\<Foundation::BigEndianBinaryReader\> | The reader. |
 
 ## See Also
 

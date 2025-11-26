@@ -4,7 +4,7 @@ linktitle: ClipRect
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::ClipRect method. Clips rectangle. Calls clip(Rectangle2D) in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/aspose.page.eps.device/pdfdevice/cliprect/
 ---
 ## PdfDevice::ClipRect method

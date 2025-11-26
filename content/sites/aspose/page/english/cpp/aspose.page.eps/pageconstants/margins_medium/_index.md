@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/pageconstants/margins_medium/
 "Medium" page margins value
 
 ```cpp
-static const System::String & Aspose::Page::EPS::PageConstants::MARGINS_MEDIUM()
+static System::String & Aspose::Page::EPS::PageConstants::MARGINS_MEDIUM()
 ```
 
 ## See Also

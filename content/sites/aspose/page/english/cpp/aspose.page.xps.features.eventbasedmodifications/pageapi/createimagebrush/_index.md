@@ -7,19 +7,19 @@ type: docs
 weight: 1100
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createimagebrush/
 ---
-## PageAPI::CreateImageBrush(System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsImage\>, System::Drawing::RectangleF, System::Drawing::RectangleF) method
+## PageAPI::CreateImageBrush(System::SharedPtr\<XpsModel::XpsImage\>, System::Drawing::RectangleF, System::Drawing::RectangleF) method
 
 
 Creates a new image brush.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsImageBrush> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateImageBrush(System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsImage> image, System::Drawing::RectangleF viewbox, System::Drawing::RectangleF viewport)
+System::SharedPtr<XpsModel::XpsImageBrush> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateImageBrush(System::SharedPtr<XpsModel::XpsImage> image, System::Drawing::RectangleF viewbox, System::Drawing::RectangleF viewport)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsImage\> | An image resource. |
+| image | System::SharedPtr\<XpsModel::XpsImage\> | An image resource. |
 | viewbox | System::Drawing::RectangleF | The position and dimensions of the brush's source content. |
 | viewport | System::Drawing::RectangleF | The region in the containing coordinate space of the prime brush tile that is (possibly repeatedly) applied to fill the region to which the brush is applied |
 
@@ -42,7 +42,7 @@ New image brush.
 Creates a new image brush.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsImageBrush> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateImageBrush(System::String imagePath, System::Drawing::RectangleF viewbox, System::Drawing::RectangleF viewport)
+System::SharedPtr<XpsModel::XpsImageBrush> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateImageBrush(System::String imagePath, System::Drawing::RectangleF viewbox, System::Drawing::RectangleF viewport)
 ```
 
 

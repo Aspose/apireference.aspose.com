@@ -21,7 +21,6 @@ class XpsColor : public System::Object
 | Method | Description |
 | --- | --- |
 | virtual [ToColor](./tocolor/)() | Convenience method for getting .NET native representation of any color/. |
-| virtual [ToString](./tostring/)() const | Analog of C# Object.ToString() method. Enables converting custom objects to string. |
 ## See Also
 
 * Class [Object](../../system/object/)

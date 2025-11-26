@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createcolor/
 Creates a new color in scRGB color space.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsColor> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateColor(float a, float r, float g, float b)
+System::SharedPtr<XpsModel::XpsColor> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateColor(float a, float r, float g, float b)
 ```
 
 
@@ -41,7 +41,7 @@ New color.
 Creates a new color in scRGB color space.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsColor> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateColor(float r, float g, float b)
+System::SharedPtr<XpsModel::XpsColor> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateColor(float r, float g, float b)
 ```
 
 
@@ -68,7 +68,7 @@ New color.
 Creates a new color in sRGB color space.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsColor> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateColor(int32_t a, int32_t r, int32_t g, int32_t b)
+System::SharedPtr<XpsModel::XpsColor> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateColor(int32_t a, int32_t r, int32_t g, int32_t b)
 ```
 
 
@@ -96,7 +96,7 @@ New color.
 Creates a new color in sRGB color space.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsColor> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateColor(int32_t r, int32_t g, int32_t b)
+System::SharedPtr<XpsModel::XpsColor> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateColor(int32_t r, int32_t g, int32_t b)
 ```
 
 
@@ -123,7 +123,7 @@ New color.
 Creates a new color.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsColor> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateColor(System::Drawing::Color color)
+System::SharedPtr<XpsModel::XpsColor> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateColor(System::Drawing::Color color)
 ```
 
 
@@ -143,19 +143,19 @@ New color.
 * Class [PageAPI](../)
 * Namespace [Aspose::Page::XPS::Features::EventBasedModifications](../../)
 * Library [Aspose.Page for C++](../../../)
-## PageAPI::CreateColor(System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsIccProfile\>, const System::ArrayPtr\<float\>\&) method
+## PageAPI::CreateColor(System::SharedPtr\<XpsModel::XpsIccProfile\>, const System::ArrayPtr\<float\>\&) method
 
 
 Creates a new color in ICC based color space.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsColor> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateColor(System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsIccProfile> iccProfile, const System::ArrayPtr<float> &components)
+System::SharedPtr<XpsModel::XpsColor> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateColor(System::SharedPtr<XpsModel::XpsIccProfile> iccProfile, const System::ArrayPtr<float> &components)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| iccProfile | System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsIccProfile\> | The ICC profile resource. |
+| iccProfile | System::SharedPtr\<XpsModel::XpsIccProfile\> | The ICC profile resource. |
 | components | const System::ArrayPtr\<float\>\& | Color components. |
 
 ### ReturnValue
@@ -177,7 +177,7 @@ New color.
 Creates a new color in ICC based color space.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsColor> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateColor(System::String path, const System::ArrayPtr<float> &components)
+System::SharedPtr<XpsModel::XpsColor> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateColor(System::String path, const System::ArrayPtr<float> &components)
 ```
 
 

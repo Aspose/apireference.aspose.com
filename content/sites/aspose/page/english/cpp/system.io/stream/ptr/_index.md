@@ -4,7 +4,7 @@ linktitle: Ptr
 second_title: Aspose.Page for C++
 description: 'System::IO::Stream::Ptr typedef. An alias for a shared pointer to this class in C++.'
 type: docs
-weight: 2700
+weight: 3000
 url: /cpp/system.io/stream/ptr/
 ---
 ## Ptr typedef
@@ -13,7 +13,7 @@ url: /cpp/system.io/stream/ptr/
 An alias for a shared pointer to this class.
 
 ```cpp
-SharedPtr<Stream> System::IO::Stream::Ptr
+typedef SharedPtr<Stream> System::IO::Stream::Ptr
 ```
 
 ## See Also

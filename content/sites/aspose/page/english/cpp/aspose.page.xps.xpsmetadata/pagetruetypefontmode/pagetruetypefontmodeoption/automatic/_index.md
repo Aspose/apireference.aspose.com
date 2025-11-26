@@ -10,7 +10,7 @@ url: /cpp/aspose.page.xps.xpsmetadata/pagetruetypefontmode/pagetruetypefontmodeo
 ## Automatic field
 
 
-Automatic handling of [TrueType](../../../../aspose.truetype/) font.
+Automatic handling of **TrueType** font.
 
 ```cpp
 static System::SharedPtr<PageTrueTypeFontMode::PageTrueTypeFontModeOption> Aspose::Page::XPS::XpsMetadata::PageTrueTypeFontMode::PageTrueTypeFontModeOption::Automatic

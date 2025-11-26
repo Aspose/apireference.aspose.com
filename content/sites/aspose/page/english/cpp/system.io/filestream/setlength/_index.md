@@ -4,7 +4,7 @@ linktitle: SetLength
 second_title: Aspose.Page for C++
 description: 'System::IO::FileStream::SetLength method. Sets the length of the stream represented by the current object in C++.'
 type: docs
-weight: 1600
+weight: 1800
 url: /cpp/system.io/filestream/setlength/
 ---
 ## FileStream::SetLength method

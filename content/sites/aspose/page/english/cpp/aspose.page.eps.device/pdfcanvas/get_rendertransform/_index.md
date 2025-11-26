@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps.device/pdfcanvas/get_rendertransform/
 
 
 ```cpp
-System::SharedPtr<Aspose::Foundation::Drawing::DrMatrix> Aspose::Page::EPS::Device::PdfCanvas::get_RenderTransform() const
+System::SharedPtr<Foundation::Drawing::DrMatrix> Aspose::Page::EPS::Device::PdfCanvas::get_RenderTransform() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: ParameterizedThreadStart
 second_title: Aspose.Page for C++
 description: 'System::Threading::ParameterizedThreadStart typedef. Thread function with single parameter in C++.'
 type: docs
-weight: 1700
+weight: 2100
 url: /cpp/system.threading/parameterizedthreadstart/
 ---
 ## ParameterizedThreadStart typedef

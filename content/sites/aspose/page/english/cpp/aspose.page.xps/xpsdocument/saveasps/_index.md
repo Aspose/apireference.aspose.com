@@ -4,7 +4,7 @@ linktitle: SaveAsPs
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::SaveAsPs method. Saves the document in PS format in C++.'
 type: docs
-weight: 5700
+weight: 5800
 url: /cpp/aspose.page.xps/xpsdocument/saveasps/
 ---
 ## XpsDocument::SaveAsPs(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<EPS::Device::PsSaveOptions\>) method

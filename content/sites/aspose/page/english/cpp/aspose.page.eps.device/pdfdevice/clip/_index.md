@@ -4,7 +4,7 @@ linktitle: Clip
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::Clip method. Clips using given shape. Dispatches to writeClip(Rectangle), writeClip(RectangleF) or writeClip(Shape) in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/aspose.page.eps.device/pdfdevice/clip/
 ---
 ## PdfDevice::Clip method

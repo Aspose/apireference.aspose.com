@@ -4,7 +4,7 @@ linktitle: Create
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::Create method. Creates a copy of this device in C++.'
 type: docs
-weight: 2300
+weight: 2400
 url: /cpp/aspose.page.eps.device/pdfdevice/create/
 ---
 ## PdfDevice::Create() method

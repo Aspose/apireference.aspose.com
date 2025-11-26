@@ -4,7 +4,7 @@ linktitle: PrintTo
 second_title: Aspose.Page for C++
 description: 'System::PrintTo method. Writes the value represented by the specified object to the specified output stream in C++.'
 type: docs
-weight: 32100
+weight: 35300
 url: /cpp/system/printto/
 ---
 ## System::PrintTo(const Decimal\&, ::std::ostream *) method

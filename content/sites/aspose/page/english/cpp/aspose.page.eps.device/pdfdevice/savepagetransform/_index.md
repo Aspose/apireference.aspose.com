@@ -4,7 +4,7 @@ linktitle: SavePageTransform
 second_title: Aspose.Page for C++
 description: 'How to use SavePageTransform method of Aspose::Page::EPS::Device::PdfDevice class in C++.'
 type: docs
-weight: 4700
+weight: 4800
 url: /cpp/aspose.page.eps.device/pdfdevice/savepagetransform/
 ---
 ## PdfDevice::SavePageTransform method

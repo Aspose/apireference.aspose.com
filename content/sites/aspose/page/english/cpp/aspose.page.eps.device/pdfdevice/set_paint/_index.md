@@ -4,7 +4,7 @@ linktitle: set_Paint
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::set_Paint method. Returns or specifies current paint in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/aspose.page.eps.device/pdfdevice/set_paint/
 ---
 ## PdfDevice::set_Paint method

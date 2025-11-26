@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createradialg
 Creates a new radial gradient brush.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsRadialGradientBrush> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateRadialGradientBrush(System::Drawing::PointF center, System::Drawing::PointF gradientOrigin, float radiusX, float radiusY)
+System::SharedPtr<XpsModel::XpsRadialGradientBrush> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateRadialGradientBrush(System::Drawing::PointF center, System::Drawing::PointF gradientOrigin, float radiusX, float radiusY)
 ```
 
 
@@ -36,19 +36,19 @@ New radial gradient brush.
 * Class [PageAPI](../)
 * Namespace [Aspose::Page::XPS::Features::EventBasedModifications](../../)
 * Library [Aspose.Page for C++](../../../)
-## PageAPI::CreateRadialGradientBrush(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsGradientStop\>\>\>, System::Drawing::PointF, System::Drawing::PointF, float, float) method
+## PageAPI::CreateRadialGradientBrush(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<XpsModel::XpsGradientStop\>\>\>, System::Drawing::PointF, System::Drawing::PointF, float, float) method
 
 
 Creates a new radial gradient brush.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsRadialGradientBrush> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateRadialGradientBrush(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsGradientStop>>> gradientStops, System::Drawing::PointF center, System::Drawing::PointF gradientOrigin, float radiusX, float radiusY)
+System::SharedPtr<XpsModel::XpsRadialGradientBrush> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateRadialGradientBrush(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<XpsModel::XpsGradientStop>>> gradientStops, System::Drawing::PointF center, System::Drawing::PointF gradientOrigin, float radiusX, float radiusY)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| gradientStops | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsGradientStop\>\>\> | The list of gradient stops. |
+| gradientStops | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<XpsModel::XpsGradientStop\>\>\> | The list of gradient stops. |
 | center | System::Drawing::PointF | The center point of the radial gradient (that is, the center of the ellipse). |
 | gradientOrigin | System::Drawing::PointF | The origin point of the radial gradient. |
 | radiusX | float | The radius in the x dimension of the ellipse which defines the radial gradient. |

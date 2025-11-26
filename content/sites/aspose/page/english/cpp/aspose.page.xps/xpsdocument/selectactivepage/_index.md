@@ -4,7 +4,7 @@ linktitle: SelectActivePage
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::SelectActivePage method. Selects an active document page for editing in C++.'
 type: docs
-weight: 5900
+weight: 6000
 url: /cpp/aspose.page.xps/xpsdocument/selectactivepage/
 ---
 ## XpsDocument::SelectActivePage method

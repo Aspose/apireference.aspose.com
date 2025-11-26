@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::String::Equals method. String equality comparison. Uses System::StringComparison::Ordinal comparison mode in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system/string/equals/
 ---
 ## String::Equals(const String\&) const method
@@ -34,7 +34,7 @@ true if strings match, false otherwise.
 ## String::Equals(const String\&, System::StringComparison) const method
 
 
-[String](../) equality comparison. Several modes provided by StringComparison enumeration are supported.
+[String](../) equality comparison. Several modes provided by [StringComparison](../../stringcomparison/) enumeration are supported.
 
 ```cpp
 bool System::String::Equals(const String &str, System::StringComparison comparison_type) const

@@ -4,7 +4,7 @@ linktitle: TypeCode
 second_title: Aspose.Page for C++
 description: 'System::TypeCode enum. Represents the type of an object in C++.'
 type: docs
-weight: 8500
+weight: 8800
 url: /cpp/system/typecode/
 ---
 ## TypeCode enum
@@ -21,7 +21,7 @@ enum class TypeCode
 | Name | Value | Description |
 | --- | --- | --- |
 | Empty | 0 | A null reference. |
-| Object | 1 | A general type representing any reference or value type not explicitly represented by another TypeCode. |
+| Object | 1 | A general type representing any reference or value type not explicitly represented by another [TypeCode](./). |
 | DBNull | 2 | A database null (column) value. |
 | Boolean | 3 | A simple type representing [Boolean](../boolean/) values of true or false. |
 | Char | 4 | An integral type representing unsigned 16-bit integers with values between 0 and 65535. |

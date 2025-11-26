@@ -4,7 +4,7 @@ linktitle: Draw
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::Draw method. Draws a path in C++.'
 type: docs
-weight: 2600
+weight: 2700
 url: /cpp/aspose.page.eps.device/pdfdevice/draw/
 ---
 ## PdfDevice::Draw method

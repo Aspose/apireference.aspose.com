@@ -10,7 +10,7 @@ url: /cpp/aspose.page.xps.xpsmodel/xpsfont/
 ## XpsFont class
 
 
-Class incapsulating a [TrueType](../../aspose.truetype/) font resource.
+Class incapsulating a **TrueType** font resource.
 
 ```cpp
 class XpsFont : public Aspose::Page::XPS::XpsModel::XpsFileResource

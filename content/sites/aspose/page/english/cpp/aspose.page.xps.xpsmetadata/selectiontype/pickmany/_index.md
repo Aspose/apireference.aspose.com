@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.xpsmetadata/selectiontype/pickmany/
 PickMany value.
 
 ```cpp
-static System::SharedPtr<SelectionType> & Aspose::Page::XPS::XpsMetadata::SelectionType::PickMany()
+static System::SharedPtr<Aspose::Page::XPS::XpsMetadata::SelectionType> & Aspose::Page::XPS::XpsMetadata::SelectionType::PickMany()
 ```
 
 ## See Also

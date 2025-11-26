@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/pageconstants/background/
 Background key.
 
 ```cpp
-static const System::String & Aspose::Page::EPS::PageConstants::BACKGROUND()
+static System::String & Aspose::Page::EPS::PageConstants::BACKGROUND()
 ```
 
 ## See Also

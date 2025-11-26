@@ -4,7 +4,7 @@ linktitle: ToByteArray
 second_title: Aspose.Page for C++
 description: 'System::String::ToByteArray method. Converts string or substring to array of bytes in C++.'
 type: docs
-weight: 4500
+weight: 4700
 url: /cpp/system/string/tobytearray/
 ---
 ## String::ToByteArray method

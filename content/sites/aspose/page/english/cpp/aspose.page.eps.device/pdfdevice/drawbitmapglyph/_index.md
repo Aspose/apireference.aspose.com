@@ -4,7 +4,7 @@ linktitle: DrawBitmapGlyph
 second_title: Aspose.Page for C++
 description: 'How to use DrawBitmapGlyph method of Aspose::Page::EPS::Device::PdfDevice class in C++.'
 type: docs
-weight: 2700
+weight: 2800
 url: /cpp/aspose.page.eps.device/pdfdevice/drawbitmapglyph/
 ---
 ## PdfDevice::DrawBitmapGlyph method

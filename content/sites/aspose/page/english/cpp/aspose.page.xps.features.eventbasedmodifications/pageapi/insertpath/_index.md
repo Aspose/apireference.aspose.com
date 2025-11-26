@@ -13,14 +13,14 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/insertpath/
 Inserts a new path to the page at *index*  position.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsPath> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::InsertPath(int32_t index, System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsPathGeometry> data)
+System::SharedPtr<XpsModel::XpsPath> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::InsertPath(int32_t index, System::SharedPtr<XpsModel::XpsPathGeometry> data)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | Position at which a new path should be inserted. |
-| data | System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsPathGeometry\> | The geometry of the path. |
+| data | System::SharedPtr\<XpsModel::XpsPathGeometry\> | The geometry of the path. |
 
 ### ReturnValue
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features/hyperlinkcollector/collecthyperlinks/
 Collects [XPS](../../../aspose.page.xps/) elements with hyperlinks of all types.
 
 ```cpp
-static System::SharedPtr<System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsHyperlinkElement>>> Aspose::Page::XPS::Features::HyperlinkCollector::CollectHyperlinks(System::SharedPtr<XpsDocument> document)
+static System::SharedPtr<System::Collections::Generic::ICollection<System::SharedPtr<XpsModel::XpsHyperlinkElement>>> Aspose::Page::XPS::Features::HyperlinkCollector::CollectHyperlinks(System::SharedPtr<XpsDocument> document)
 ```
 
 
@@ -40,7 +40,7 @@ The collection containing hyperlinked [XPS](../../../aspose.page.xps/) elements.
 Collects [XPS](../../../aspose.page.xps/) elements with hyperlinks of a certain type.
 
 ```cpp
-template<typename T> static System::SharedPtr<System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsHyperlinkElement>>> Aspose::Page::XPS::Features::HyperlinkCollector::CollectHyperlinks(System::SharedPtr<XpsDocument> document)
+template<typename T> static System::SharedPtr<System::Collections::Generic::ICollection<System::SharedPtr<XpsModel::XpsHyperlinkElement>>> Aspose::Page::XPS::Features::HyperlinkCollector::CollectHyperlinks(System::SharedPtr<XpsDocument> document)
 ```
 
 

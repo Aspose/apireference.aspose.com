@@ -4,7 +4,7 @@ linktitle: Copy
 second_title: Aspose.Page for C++
 description: 'How to use Copy method of Aspose::Page::EPS::Device::PdfDevice class in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/aspose.page.eps.device/pdfdevice/copy/
 ---
 ## PdfDevice::Copy method

@@ -26,7 +26,7 @@ The **Aspose.Page.Xps.XpsModel** namespace provides classes that describe elemen
 | [XpsElementLinkTarget](./xpselementlinktarget/) | Class incapsulating the relative named-address hyperlink target. |
 | [XpsExternalLinkTarget](./xpsexternallinktarget/) | Class incapsulating the external hyperlink target. |
 | [XpsFileResource](./xpsfileresource/) | Class incapsulating common features of all file resources. |
-| [XpsFont](./xpsfont/) | Class incapsulating a [TrueType](../aspose.truetype/) font resource. |
+| [XpsFont](./xpsfont/) | Class incapsulating a **TrueType** font resource. |
 | [XpsGlyphMapping](./xpsglyphmapping/) |  |
 | [XpsGlyphs](./xpsglyphs/) | Class incapsulating Glyphs element features. This element represents a run of uniformly-formatted text from a single font. It provides information necessary for accurate rendering and supports search and selection features in viewing consumers. |
 | [XpsGlyphsClusterMap](./xpsglyphsclustermap/) |  |

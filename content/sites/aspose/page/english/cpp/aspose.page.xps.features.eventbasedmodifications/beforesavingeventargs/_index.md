@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/beforesavingeventargs
 Defines the base class for arguments of various before-saving events.
 
 ```cpp
-template<typename>class BeforeSavingEventArgs : public System::Object
+template<typename T>class BeforeSavingEventArgs : public System::Object
 ```
 
 

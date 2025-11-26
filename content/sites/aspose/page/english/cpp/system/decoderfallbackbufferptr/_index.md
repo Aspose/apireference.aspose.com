@@ -4,7 +4,7 @@ linktitle: DecoderFallbackBufferPtr
 second_title: Aspose.Page for C++
 description: 'System::DecoderFallbackBufferPtr typedef. An alias for a smart pointer that points to an instance of System::Text::DecoderFallbackBuffer class in C++.'
 type: docs
-weight: 9700
+weight: 10000
 url: /cpp/system/decoderfallbackbufferptr/
 ---
 ## DecoderFallbackBufferPtr typedef

@@ -4,7 +4,7 @@ linktitle: SendOrPostCallback
 second_title: Aspose.Page for C++
 description: 'How to use System::Threading::SendOrPostCallback typedef in C++.'
 type: docs
-weight: 1800
+weight: 2200
 url: /cpp/system.threading/sendorpostcallback/
 ---
 ## SendOrPostCallback typedef

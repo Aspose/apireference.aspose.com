@@ -10,7 +10,7 @@ url: /cpp/aspose.page.xps/xpsdocument/createfont/
 ## XpsDocument::CreateFont(System::SharedPtr\<System::IO::Stream\>) method
 
 
-Creates a new [TrueType](../../../aspose.truetype/) font resource out of stream.
+Creates a new **TrueType** font resource out of stream.
 
 ```cpp
 System::SharedPtr<XpsModel::XpsFont> Aspose::Page::XPS::XpsDocument::CreateFont(System::SharedPtr<System::IO::Stream> stream)
@@ -23,7 +23,7 @@ System::SharedPtr<XpsModel::XpsFont> Aspose::Page::XPS::XpsDocument::CreateFont(
 
 ### ReturnValue
 
-New [TrueType](../../../aspose.truetype/) font resource.
+New **TrueType** font resource.
 
 ## See Also
 
@@ -36,7 +36,7 @@ New [TrueType](../../../aspose.truetype/) font resource.
 ## XpsDocument::CreateFont(System::String, System::Drawing::FontStyle) method
 
 
-Creates a new [TrueType](../../../aspose.truetype/) font resource.
+Creates a new **TrueType** font resource.
 
 ```cpp
 System::SharedPtr<XpsModel::XpsFont> Aspose::Page::XPS::XpsDocument::CreateFont(System::String fontFamily, System::Drawing::FontStyle fontStyle)
@@ -50,7 +50,7 @@ System::SharedPtr<XpsModel::XpsFont> Aspose::Page::XPS::XpsDocument::CreateFont(
 
 ### ReturnValue
 
-New [TrueType](../../../aspose.truetype/) font resource.
+New **TrueType** font resource.
 
 ## See Also
 

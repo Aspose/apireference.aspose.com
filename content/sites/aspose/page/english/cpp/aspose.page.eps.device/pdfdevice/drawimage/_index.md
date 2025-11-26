@@ -4,7 +4,7 @@ linktitle: DrawImage
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::DrawImage method. Draws an image with assigned transform and background in C++.'
 type: docs
-weight: 2800
+weight: 2900
 url: /cpp/aspose.page.eps.device/pdfdevice/drawimage/
 ---
 ## PdfDevice::DrawImage method

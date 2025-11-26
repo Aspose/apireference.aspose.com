@@ -4,7 +4,7 @@ linktitle: Discard
 second_title: Aspose.Page for C++
 description: 'System::Discard method. Returns the default-constructed temporary instance of the specified type, which can be placed instead of discarding ''_'' argument in C++.'
 type: docs
-weight: 15300
+weight: 16400
 url: /cpp/system/discard/
 ---
 ## System::Discard method
@@ -13,7 +13,7 @@ url: /cpp/system/discard/
 Returns the default-constructed temporary instance of the specified type, which can be placed instead of discarding '_' argument.
 
 ```cpp
-template<typename T> auto System::Discard()
+template<typename T> T & System::Discard(T &&initial=Details::DefaultValue<T>())
 ```
 
 

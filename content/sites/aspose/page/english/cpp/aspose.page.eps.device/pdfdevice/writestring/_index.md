@@ -4,7 +4,7 @@ linktitle: WriteString
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::WriteString method. Writes out string with specified font in C++.'
 type: docs
-weight: 7600
+weight: 7700
 url: /cpp/aspose.page.eps.device/pdfdevice/writestring/
 ---
 ## PdfDevice::WriteString method

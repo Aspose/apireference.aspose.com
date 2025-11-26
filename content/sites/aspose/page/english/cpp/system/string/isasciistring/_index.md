@@ -4,7 +4,7 @@ linktitle: IsAsciiString
 second_title: Aspose.Page for C++
 description: 'System::String::IsAsciiString method. Indicates if a String contains ASCII symbols only in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/system/string/isasciistring/
 ---
 ## String::IsAsciiString method

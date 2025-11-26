@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::Dispose method. Disposes the graphics context. If on creation restoreOnDispose was true, writeGraphicsRestore() will be called in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/aspose.page.eps.device/pdfdevice/dispose/
 ---
 ## PdfDevice::Dispose method

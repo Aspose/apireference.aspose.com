@@ -66,7 +66,7 @@ class UserProperties : public System::Collections::Generic::Dictionary<System::S
 | static [SetProperty](./setproperty/)(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>, System::String, bool) | Sets boolean property value in specified properties table. |
 | virtual [SetProperty](./setproperty/)(System::String, System::SharedPtr\<System::Drawing::Drawing2D::Matrix\>) | Sets matrix property value. |
 | static [SetProperty](./setproperty/)(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>, System::String, System::SharedPtr\<System::Drawing::Drawing2D::Matrix\>) | Sets matrix property value in specified properties table. |
-| [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |
+| [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | [UserProperties](./userproperties/)() | Initializes an empty instance of [UserProperties](./) class. |
 | [UserProperties](./userproperties/)(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>) | Initializes an of [UserProperties](./) class with default values. |
 | [UserProperties](./userproperties/)(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>, System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>) | Constructs [UserProperties](./) with a defaults and altDefaults table, which are searched in that order. |

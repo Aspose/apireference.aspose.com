@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.xpsmodel/xpsarray/add/
 Adds a new object into array.
 
 ```cpp
-T Aspose::Page::XPS::XpsModel::XpsArray<typename>::Add(T obj)
+T Aspose::Page::XPS::XpsModel::XpsArray<T>::Add(T obj)
 ```
 
 

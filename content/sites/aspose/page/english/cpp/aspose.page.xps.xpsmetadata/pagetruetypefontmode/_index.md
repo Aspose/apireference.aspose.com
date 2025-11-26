@@ -10,7 +10,7 @@ url: /cpp/aspose.page.xps.xpsmetadata/pagetruetypefontmode/
 ## PageTrueTypeFontMode class
 
 
-Describes the method of [TrueType](../../aspose.truetype/) font handling to be used. [https://docs.microsoft.com/en-us/windows/win32/printdocs/pagetruetypefontmode](https://docs.microsoft.com/en-us/windows/win32/printdocs/pagetruetypefontmode).
+Describes the method of **TrueType** font handling to be used. [https://docs.microsoft.com/en-us/windows/win32/printdocs/pagetruetypefontmode](https://docs.microsoft.com/en-us/windows/win32/printdocs/pagetruetypefontmode).
 
 ```cpp
 class PageTrueTypeFontMode : public Aspose::Page::XPS::XpsMetadata::Feature,

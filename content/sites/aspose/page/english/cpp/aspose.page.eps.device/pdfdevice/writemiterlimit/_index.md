@@ -4,7 +4,7 @@ linktitle: WriteMiterLimit
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::WriteMiterLimit method. Writes out the miter limit of the stroke in C++.'
 type: docs
-weight: 7400
+weight: 7500
 url: /cpp/aspose.page.eps.device/pdfdevice/writemiterlimit/
 ---
 ## PdfDevice::WriteMiterLimit method

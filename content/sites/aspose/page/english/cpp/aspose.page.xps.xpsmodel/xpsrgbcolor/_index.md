@@ -21,7 +21,6 @@ class XpsRgbColor : public Aspose::Page::XPS::XpsModel::XpsColor
 | Method | Description |
 | --- | --- |
 | [ToColor](./tocolor/)() override | Convenience method for getting .NET native representation of RGB color. |
-| [ToString](./tostring/)() const override | Analog of C# Object.ToString() method. Enables converting custom objects to string. |
 ## See Also
 
 * Class [XpsColor](../xpscolor/)

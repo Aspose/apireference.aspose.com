@@ -290,6 +290,63 @@ True if 'is' returns true, false otherwise.
 * Class [ObjectExt](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
+## ObjectExt::Is(const SmartPtr\<V\>\&) method
+
+
+Implements 'is' operator translation. Specialization value types boxed to interfaces.
+
+```cpp
+template<class T,class V> static std::enable_if<System::IsBoxable<T>::value &&!IsNullable<T>::value &&!std::is_enum<T>::value &&!std::is_same<V, Object>::value, bool>::type System::ObjectExt::Is(const SmartPtr<V> &obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Target type. |
+| V | Type of the pointed object. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const SmartPtr\<V\>\& | [Object](../../object/) to test for 'is' operator. |
+
+### ReturnValue
+
+True if 'is' returns true, false otherwise.
+
+## See Also
+
+* Class [Object](../../object/)
+* Class [SmartPtr](../../smartptr/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ObjectExt::Is(const T\&) method
+
+
+Implements 'is' operator translation. Specialization for boxable (value) types which exactly is that they are.
+
+```cpp
+template<class T> static std::enable_if<System::IsBoxable<T>::value, bool>::type System::ObjectExt::Is(const T &obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Target type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const T\& | [Object](../../object/) to test for 'is' operator. Ignored. |
+
+### ReturnValue
+
+Always true
+
+## See Also
+
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## ObjectExt::Is(const U\&) method
 
 

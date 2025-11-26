@@ -4,7 +4,7 @@ linktitle: virtualizeEndIterator
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsElement::virtualizeEndIterator method. Gets iterator pointing right after the last element (if any) of the collection in C++.'
 type: docs
-weight: 1600
+weight: 1500
 url: /cpp/aspose.page.xps.xpsmodel/xpselement/virtualizeenditerator/
 ---
 ## XpsElement::virtualizeEndIterator method

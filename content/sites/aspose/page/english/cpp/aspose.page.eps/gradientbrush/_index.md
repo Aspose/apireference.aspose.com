@@ -21,6 +21,7 @@ class GradientBrush : public System::Drawing::Brush
 | Method | Description |
 | --- | --- |
 | [Clone](./clone/)() override | Clones this brush. |
+| [Dispose](./dispose/)() override | Releases all resources used by this [T:Aspose::Page::EPS::GradientBrush](../) object. |
 | [get_Bounds](./get_bounds/)() const | Returns or specifies bounds for this gradient brushes. |
 | [get_NativeBrush](./get_nativebrush/)() const | Returns native gradient brush. |
 | [get_WrapMode](./get_wrapmode/)() const | Returns or specifies wrap mode for this gradient brush. It can be WrapMode.Clamp, that results in throwing exception in native gradient brushes. |

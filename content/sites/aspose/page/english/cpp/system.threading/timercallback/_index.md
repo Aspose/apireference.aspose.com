@@ -4,7 +4,7 @@ linktitle: TimerCallback
 second_title: Aspose.Page for C++
 description: 'System::Threading::TimerCallback typedef. Callback function to be called by timer in C++.'
 type: docs
-weight: 2000
+weight: 2400
 url: /cpp/system.threading/timercallback/
 ---
 ## TimerCallback typedef

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/insertcanvas/
 Inserts a new canvas to the page at *index*  position.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsCanvas> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::InsertCanvas(int32_t index)
+System::SharedPtr<XpsModel::XpsCanvas> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::InsertCanvas(int32_t index)
 ```
 
 

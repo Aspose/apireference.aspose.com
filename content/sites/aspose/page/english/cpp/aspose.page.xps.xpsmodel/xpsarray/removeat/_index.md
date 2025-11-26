@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.xpsmodel/xpsarray/removeat/
 Removes an object from array at specified position.
 
 ```cpp
-T Aspose::Page::XPS::XpsModel::XpsArray<typename>::RemoveAt(int32_t index)
+T Aspose::Page::XPS::XpsModel::XpsArray<T>::RemoveAt(int32_t index)
 ```
 
 

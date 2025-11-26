@@ -4,7 +4,7 @@ linktitle: is_parametrized_test
 second_title: Aspose.Page for C++
 description: 'How to use is_parametrized_test method of  class in C++.'
 type: docs
-weight: 19800
+weight: 22200
 url: /cpp/system/is_parametrized_test/
 ---
 ## System::is_parametrized_test method

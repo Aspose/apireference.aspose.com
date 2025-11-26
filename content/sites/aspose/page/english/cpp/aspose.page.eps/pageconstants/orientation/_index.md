@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/pageconstants/orientation/
 Orientation key, for the named orienation of page, Portret or Landscape.
 
 ```cpp
-static const System::String & Aspose::Page::EPS::PageConstants::ORIENTATION()
+static System::String & Aspose::Page::EPS::PageConstants::ORIENTATION()
 ```
 
 ## See Also

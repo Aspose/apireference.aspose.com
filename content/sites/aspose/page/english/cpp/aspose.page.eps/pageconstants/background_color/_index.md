@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/pageconstants/background_color/
 Background color key.
 
 ```cpp
-static const System::String & Aspose::Page::EPS::PageConstants::BACKGROUND_COLOR()
+static System::String & Aspose::Page::EPS::PageConstants::BACKGROUND_COLOR()
 ```
 
 ## See Also

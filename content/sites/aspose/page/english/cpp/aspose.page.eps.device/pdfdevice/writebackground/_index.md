@@ -4,7 +4,7 @@ linktitle: WriteBackground
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::WriteBackground method. Writes out current background in C++.'
 type: docs
-weight: 6400
+weight: 6500
 url: /cpp/aspose.page.eps.device/pdfdevice/writebackground/
 ---
 ## PdfDevice::WriteBackground method

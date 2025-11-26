@@ -4,7 +4,7 @@ linktitle: Is
 second_title: Aspose.Page for C++
 description: 'System::String::Is method. Checks if string object is of type specified by TypeInfo passed in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/system/string/is/
 ---
 ## String::Is method

@@ -4,7 +4,7 @@ linktitle: ToWCS
 second_title: Aspose.Page for C++
 description: 'System::String::ToWCS method. Converts string to std::wstring in C++.'
 type: docs
-weight: 5500
+weight: 5700
 url: /cpp/system/string/towcs/
 ---
 ## String::ToWCS method

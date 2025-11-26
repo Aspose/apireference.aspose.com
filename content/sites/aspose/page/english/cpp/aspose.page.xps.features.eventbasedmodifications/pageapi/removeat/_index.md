@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/removeat/
 Removes an element at *index*  position from the page.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsContentElement> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::RemoveAt(int32_t index)
+System::SharedPtr<XpsModel::XpsContentElement> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::RemoveAt(int32_t index)
 ```
 
 

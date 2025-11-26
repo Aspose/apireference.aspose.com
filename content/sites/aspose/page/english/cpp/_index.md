@@ -78,6 +78,7 @@ is_root: true
 | [System::Text](./system.text/) |  |
 | [System::Text::RegularExpressions](./system.text.regularexpressions/) |  |
 | [System::Threading](./system.threading/) |  |
+| [System::Threading::Tasks](./system.threading.tasks/) |  |
 | [System::Timers](./system.timers/) |  |
 | [System::Web](./system.web/) |  |
 | [System::Web::Services](./system.web.services/) |  |

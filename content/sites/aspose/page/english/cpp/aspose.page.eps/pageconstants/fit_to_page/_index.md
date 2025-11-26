@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/pageconstants/fit_to_page/
 Fit content to page key.
 
 ```cpp
-static const System::String & Aspose::Page::EPS::PageConstants::FIT_TO_PAGE()
+static System::String & Aspose::Page::EPS::PageConstants::FIT_TO_PAGE()
 ```
 
 ## See Also

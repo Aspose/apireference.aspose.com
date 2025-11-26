@@ -4,7 +4,7 @@ linktitle: String
 second_title: Aspose.Page for C++
 description: 'System::String class. String class used across the library. Is a substitute for C# System.String when translating code. For optimization reasons, isn''t considered an Object subclass. This type should be allocated on stack and passed to functions by value or by reference. Never use System::SmartPtr class to manage objects of this type in C++.'
 type: docs
-weight: 5600
+weight: 5800
 url: /cpp/system/string/
 ---
 ## String class
@@ -20,6 +20,7 @@ class String
 
 | Method | Description |
 | --- | --- |
+| [ASPOSECPP_VALUE_TYPE_IMPLEMENTS_INTERFACES](./asposecpp_value_type_implements_interfaces/)() | [String](./) is value type on C++ side which implicitly (without inheritance) implements some interfaces. |
 | [begin](./begin/)() const | Returns pointer to the beginning of actual string buffer. Never reallocates anything. Doesn't guarantee buffer to be null-terminated. |
 | [Clone](./clone/)() const | Creates a copy of current string. |
 | static [Compare](./compare/)(const String\&, int, const String\&, int, int, bool) | Less-equal-greater-compares two substrings. |
@@ -36,13 +37,14 @@ class String
 | static [Concat](./concat/)(const String\&, const String\&, const String\&) | Concatenates strings. |
 | static [Concat](./concat/)(const String\&, const String\&, const String\&, const String\&) | Concatenates strings. |
 | [Contains](./contains/)(const String\&) const | Checks if str is a substring of current string. |
+| [Contains](./contains/)(char16_t) const | Checks if string contains given character. |
 | static [Copy](./copy/)(const String\&) | Creates string copy. |
 | [CopyTo](./copyto/)(int, const ArrayPtr\<char_t\>\&, int, int) const | Copies string characters into existing array elements. No resize is being done. |
 | [end](./end/)() const | Returns pointer to the end of actual string buffer. Never reallocates anything. Doesn't guarantee buffer to be null-terminated. |
 | [EndsWith](./endswith/)(const String\&) const | Checks if string ends with specified substring. |
 | [EndsWith](./endswith/)(const String\&, System::StringComparison) const | Checks if string ends with specified substring. |
 | [EndsWith](./endswith/)(const String\&, bool, const SharedPtr\<System::Globalization::CultureInfo\>\&) const | Checks if string ends with specified substring. |
-| [Equals](./equals/)(const String\&, System::StringComparison) const | [String](./) equality comparison. Several modes provided by StringComparison enumeration are supported. |
+| [Equals](./equals/)(const String\&, System::StringComparison) const | [String](./) equality comparison. Several modes provided by [StringComparison](../stringcomparison/) enumeration are supported. |
 | [Equals](./equals/)(const String\&) const | [String](./) equality comparison. Uses [System::StringComparison::Ordinal](../stringcomparison/) comparison mode. |
 | static [Equals](./equals/)(const String\&, const String\&) | Equal-compares two strings using Ordial comparison mode. |
 | static [Equals](./equals/)(const String\&, const String\&, System::StringComparison) | Equal-compares two strings. |
@@ -128,6 +130,7 @@ class String
 | [operator=](./operator=/)(String\&&) | Move assignment operator. |
 | [operator==](./operator==/)(const String\&) const | Equality comparison operator. |
 | [operator==](./operator==/)(std::nullptr_t) const | Checks if string is null. Applies same logic as [IsNull()](./isnull/) call. |
+| [operator>](./operator_/)(const String\&) const | Order-compares strings. |
 | [operator[]](./operator[]/)(int) const | Gets character at specified position. |
 | [PadLeft](./padleft/)(int, char_t) const | Adds padding on the left of original string. |
 | [PadRight](./padright/)(int, char_t) const | Adds padding on the right of original string. |

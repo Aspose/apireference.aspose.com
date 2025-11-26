@@ -4,7 +4,7 @@ linktitle: SystemWOStreamWrapper
 second_title: Aspose.Page for C++
 description: 'System::IO::SystemWOStreamWrapper typedef. Specializations of BasicSystemOStreamWrapper for wchar_t character types in C++.'
 type: docs
-weight: 5200
+weight: 5300
 url: /cpp/system.io/systemwostreamwrapper/
 ---
 ## SystemWOStreamWrapper typedef

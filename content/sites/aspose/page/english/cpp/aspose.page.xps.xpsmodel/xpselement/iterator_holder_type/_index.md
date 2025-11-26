@@ -4,7 +4,7 @@ linktitle: iterator_holder_type
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsElement::iterator_holder_type typedef. A collection type whose iterator types is used as iterator types in the current collection in C++.'
 type: docs
-weight: 1900
+weight: 1800
 url: /cpp/aspose.page.xps.xpsmodel/xpselement/iterator_holder_type/
 ---
 ## iterator_holder_type typedef

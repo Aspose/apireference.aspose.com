@@ -4,7 +4,7 @@ linktitle: PdfDevice
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::PdfDevice constructor. Clone constructor. Initializes new instance of PdfDevice with existing device in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/aspose.page.eps.device/pdfdevice/pdfdevice/
 ---
 ## PdfDevice::PdfDevice(System::SharedPtr\<PdfDevice\>, bool) constructor
@@ -65,7 +65,6 @@ Aspose::Page::EPS::Device::PdfDevice::PdfDevice(System::SharedPtr<System::IO::St
 | ros | System::SharedPtr\<System::IO::Stream\> | Output stream. |
 | size | System::Drawing::Size | [Page](../../../aspose.page/) size. |
 ## Remarks
-
 
 
 

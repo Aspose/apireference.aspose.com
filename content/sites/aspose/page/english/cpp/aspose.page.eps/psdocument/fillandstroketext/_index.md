@@ -27,8 +27,6 @@ void Aspose::Page::EPS::PsDocument::FillAndStrokeText(System::String text, Syste
 | fillPaint | System::SharedPtr\<System::Drawing::Brush\> | The fill used for painting glyphs interior. |
 | stroke | System::SharedPtr\<System::Drawing::Pen\> | The stroke used for drawing glyphs contours. |
 
-
-
 ## See Also
 
 * Class [String](../../../system/string/)
@@ -60,8 +58,6 @@ void Aspose::Page::EPS::PsDocument::FillAndStrokeText(System::String text, Syste
 | fillPaint | System::SharedPtr\<System::Drawing::Brush\> | The fill used for painting glyphs interior. |
 | stroke | System::SharedPtr\<System::Drawing::Pen\> | The stroke used for drawing glyphs contours. |
 
-
-
 ## See Also
 
 * Class [String](../../../system/string/)
@@ -92,8 +88,6 @@ void Aspose::Page::EPS::PsDocument::FillAndStrokeText(System::String text, Syste
 | fillPaint | System::SharedPtr\<System::Drawing::Brush\> | The fill used for painting glyphs interior. |
 | stroke | System::SharedPtr\<System::Drawing::Pen\> | The stroke used for drawing glyphs contours. |
 
-
-
 ## See Also
 
 * Class [String](../../../system/string/)
@@ -122,8 +116,6 @@ void Aspose::Page::EPS::PsDocument::FillAndStrokeText(System::String text, Syste
 | y | float | Y coordinate for text origin. |
 | fillPaint | System::SharedPtr\<System::Drawing::Brush\> | The fill used for painting glyphs interior. |
 | stroke | System::SharedPtr\<System::Drawing::Pen\> | The stroke used for drawing glyphs contours. |
-
-
 
 ## See Also
 

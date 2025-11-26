@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/beforesavingeventargs
 The current page number relative to the current document within the [XPS](../../../aspose.page.xps/) package.
 
 ```cpp
-int32_t Aspose::Page::XPS::Features::EventBasedModifications::BeforeSavingEventArgs<typename>::get_RelativePageNumber() const
+int32_t Aspose::Page::XPS::Features::EventBasedModifications::BeforeSavingEventArgs<T>::get_RelativePageNumber() const
 ```
 
 ## See Also

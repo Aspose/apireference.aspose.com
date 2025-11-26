@@ -4,7 +4,7 @@ linktitle: get_CurrentPageNumber
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::get_CurrentPageNumber method. Current page number in C++.'
 type: docs
-weight: 3300
+weight: 3400
 url: /cpp/aspose.page.eps.device/pdfdevice/get_currentpagenumber/
 ---
 ## PdfDevice::get_CurrentPageNumber method

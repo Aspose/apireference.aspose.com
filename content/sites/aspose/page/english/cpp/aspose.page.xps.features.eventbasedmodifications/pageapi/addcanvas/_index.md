@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/addcanvas/
 Adds a new canvas to the page.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsCanvas> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::AddCanvas()
+System::SharedPtr<XpsModel::XpsCanvas> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::AddCanvas()
 ```
 
 

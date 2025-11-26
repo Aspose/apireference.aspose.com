@@ -4,7 +4,7 @@ linktitle: System::Xml
 second_title: Aspose.Page for C++
 description: 'How to use System::Xml namespace in C++.'
 type: docs
-weight: 7300
+weight: 7400
 url: /cpp/system.xml/
 ---
 
@@ -64,7 +64,7 @@ url: /cpp/system.xml/
 | Enum | Description |
 | --- | --- |
 | [ConformanceLevel](./conformancelevel/) | Specifies the amount of input or output checking that [XmlReader](./xmlreader/) and [XmlWriter](./xmlwriter/) objects perform. |
-| [DtdProcessing](./dtdprocessing/) | Specifies the options for processing DTDs. The DtdProcessing enumeration is used by the [XmlReaderSettings](./xmlreadersettings/) class. |
+| [DtdProcessing](./dtdprocessing/) | Specifies the options for processing DTDs. The [DtdProcessing](./dtdprocessing/) enumeration is used by the [XmlReaderSettings](./xmlreadersettings/) class. |
 | [EntityHandling](./entityhandling/) | Specifies how the [XmlTextReader](./xmltextreader/) or [XmlValidatingReader](./xmlvalidatingreader/) handle entities. |
 | [ExceptionType](./exceptiontype/) |  |
 | [Formatting](./formatting/) | Specifies formatting options for the [XmlTextWriter](./xmltextwriter/). |

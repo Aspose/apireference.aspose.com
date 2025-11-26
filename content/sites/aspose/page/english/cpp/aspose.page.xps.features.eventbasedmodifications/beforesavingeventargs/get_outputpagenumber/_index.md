@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/beforesavingeventargs
 The current output number. It differs from **AbsolutePageNumber** if the **PageNumbers** save option is specified.
 
 ```cpp
-int32_t Aspose::Page::XPS::Features::EventBasedModifications::BeforeSavingEventArgs<typename>::get_OutputPageNumber() const
+int32_t Aspose::Page::XPS::Features::EventBasedModifications::BeforeSavingEventArgs<T>::get_OutputPageNumber() const
 ```
 
 ## See Also

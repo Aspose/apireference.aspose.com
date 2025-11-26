@@ -4,7 +4,7 @@ linktitle: SetFooter
 second_title: Aspose.Page for C++
 description: 'How to use SetFooter method of Aspose::Page::EPS::Device::PdfDevice class in C++.'
 type: docs
-weight: 5400
+weight: 5500
 url: /cpp/aspose.page.eps.device/pdfdevice/setfooter/
 ---
 ## PdfDevice::SetFooter method
@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps.device/pdfdevice/setfooter/
 
 
 ```cpp
-virtual void Aspose::Page::EPS::Device::PdfDevice::SetFooter(System::SharedPtr<Aspose::Page::EPS::Postscript::TrFont> font, System::SharedPtr<Aspose::Page::EPS::Graphics2d::TagString> left, System::SharedPtr<Aspose::Page::EPS::Graphics2d::TagString> center, System::SharedPtr<Aspose::Page::EPS::Graphics2d::TagString> right, int32_t underlineThickness)
+virtual void Aspose::Page::EPS::Device::PdfDevice::SetFooter(System::SharedPtr<Postscript::TrFont> font, System::SharedPtr<Graphics2d::TagString> left, System::SharedPtr<Graphics2d::TagString> center, System::SharedPtr<Graphics2d::TagString> right, int32_t underlineThickness)
 ```
 
 ## See Also

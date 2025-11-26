@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/beforepagesavingevent
 The base class for before-page-saving event handlers.
 
 ```cpp
-class BeforePageSavingEventHandler : public Aspose::Page::XPS::Features::EventBasedModifications::IBeforeSavingEventHandler<System::SharedPtr<Aspose::Page::XPS::Features::EventBasedModifications::PageAPI>>
+class BeforePageSavingEventHandler : public Aspose::Page::XPS::Features::EventBasedModifications::IBeforeSavingEventHandler<System::SharedPtr<PageAPI>>
 ```
 
 ## Methods

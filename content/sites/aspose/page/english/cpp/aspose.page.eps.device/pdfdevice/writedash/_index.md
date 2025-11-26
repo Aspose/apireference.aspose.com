@@ -4,7 +4,7 @@ linktitle: WriteDash
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::WriteDash method. Writes out the dash of the stroke in C++.'
 type: docs
-weight: 6800
+weight: 6900
 url: /cpp/aspose.page.eps.device/pdfdevice/writedash/
 ---
 ## PdfDevice::WriteDash method

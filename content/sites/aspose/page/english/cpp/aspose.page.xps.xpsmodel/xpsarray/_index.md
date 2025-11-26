@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.xpsmodel/xpsarray/
 Class incapsulating common [XPS](../../aspose.page.xps/) model array object features.
 
 ```cpp
-template<typename>class XpsArray : public Aspose::Page::XPS::XpsModel::XpsObject
+template<typename T>class XpsArray : public Aspose::Page::XPS::XpsModel::XpsObject
 ```
 
 

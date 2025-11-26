@@ -10,7 +10,7 @@ url: /cpp/aspose.page.eps/psdocument/converttype1fonttottf/
 ## PsDocument::ConvertType1FontToTTF method
 
 
-Converts Type 1 font to [TrueType](../../../aspose.truetype/). The name of the converted TTF font will be the same as input Type 1 font with ".ttf" extension. TTF file will be saved to assigned output directory.
+Converts Type 1 font to **TrueType**. The name of the converted TTF font will be the same as input Type 1 font with ".ttf" extension. TTF file will be saved to assigned output directory.
 
 ```cpp
 void Aspose::Page::EPS::PsDocument::ConvertType1FontToTTF(System::String type1FontFilePath, System::String outputDir)
@@ -20,7 +20,7 @@ void Aspose::Page::EPS::PsDocument::ConvertType1FontToTTF(System::String type1Fo
 | Parameter | Type | Description |
 | --- | --- | --- |
 | type1FontFilePath | System::String | The Type 1 font file path. |
-| outputDir | System::String | Output dir where to save resulting [TrueType](../../../aspose.truetype/) font. |
+| outputDir | System::String | Output dir where to save resulting **TrueType** font. |
 
 ## See Also
 

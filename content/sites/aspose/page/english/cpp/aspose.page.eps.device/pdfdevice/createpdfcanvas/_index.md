@@ -4,7 +4,7 @@ linktitle: CreatePdfCanvas
 second_title: Aspose.Page for C++
 description: 'How to use CreatePdfCanvas method of Aspose::Page::EPS::Device::PdfDevice class in C++.'
 type: docs
-weight: 2400
+weight: 2500
 url: /cpp/aspose.page.eps.device/pdfdevice/createpdfcanvas/
 ---
 ## PdfDevice::CreatePdfCanvas method

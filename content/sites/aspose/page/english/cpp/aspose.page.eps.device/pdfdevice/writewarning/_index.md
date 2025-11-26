@@ -4,7 +4,7 @@ linktitle: WriteWarning
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::WriteWarning method. Writes out a warning, by default to System.err in C++.'
 type: docs
-weight: 7900
+weight: 8000
 url: /cpp/aspose.page.eps.device/pdfdevice/writewarning/
 ---
 ## PdfDevice::WriteWarning method

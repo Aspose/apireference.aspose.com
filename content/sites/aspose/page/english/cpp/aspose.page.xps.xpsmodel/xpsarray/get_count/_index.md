@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.xpsmodel/xpsarray/get_count/
 Returns number of elements.
 
 ```cpp
-int32_t Aspose::Page::XPS::XpsModel::XpsArray<typename>::get_Count()
+int32_t Aspose::Page::XPS::XpsModel::XpsArray<T>::get_Count()
 ```
 
 ## See Also

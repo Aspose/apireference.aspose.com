@@ -4,7 +4,7 @@ linktitle: EndsWith
 second_title: Aspose.Page for C++
 description: 'System::String::EndsWith method. Checks if string ends with specified substring in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system/string/endswith/
 ---
 ## String::EndsWith(const String\&) const method

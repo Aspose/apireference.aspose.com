@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.xpsmodel/xpsarray/settemplateweakptr/
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
 
 ```cpp
-void Aspose::Page::XPS::XpsModel::XpsArray<typename>::SetTemplateWeakPtr(uint32_t argument) override
+void Aspose::Page::XPS::XpsModel::XpsArray<T>::SetTemplateWeakPtr(uint32_t argument) override
 ```
 
 

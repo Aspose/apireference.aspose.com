@@ -56,8 +56,6 @@ Aspose::Page::EPS::Device::ImageSaveOptions::ImageSaveOptions(Aspose::Page::Draw
 | imageFormat | Aspose::Page::Drawing::Imaging::ImageFormat | The format of the image. |
 | supressErrors | bool | Specifies whether errors must be suppressed or not. If true suppressed errors are added to [Exceptions](../) list. |
 
-
-
 ## See Also
 
 * Enum [ImageFormat](../../../aspose.page.drawing.imaging/imageformat/)

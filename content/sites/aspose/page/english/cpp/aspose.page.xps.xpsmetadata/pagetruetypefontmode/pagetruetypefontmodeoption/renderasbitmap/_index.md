@@ -10,7 +10,7 @@ url: /cpp/aspose.page.xps.xpsmetadata/pagetruetypefontmode/pagetruetypefontmodeo
 ## RenderAsBitmap field
 
 
-[TrueType](../../../../aspose.truetype/) font is rendered as a bitmap.
+**TrueType** font is rendered as a bitmap.
 
 ```cpp
 static System::SharedPtr<PageTrueTypeFontMode::PageTrueTypeFontModeOption> Aspose::Page::XPS::XpsMetadata::PageTrueTypeFontMode::PageTrueTypeFontModeOption::RenderAsBitmap

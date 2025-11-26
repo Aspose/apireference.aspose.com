@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.presentation/ieventbasedmodificationoptions/get_before
 The collection of event handlers that performs modifications to an [XPS](../../../aspose.page.xps/) page just before it is saved.
 
 ```cpp
-virtual System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::Page::XPS::Features::EventBasedModifications::BeforePageSavingEventHandler>>> Aspose::Page::XPS::Presentation::IEventBasedModificationOptions::get_BeforePageSavingEventHandlers()=0
+virtual System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Features::EventBasedModifications::BeforePageSavingEventHandler>>> Aspose::Page::XPS::Presentation::IEventBasedModificationOptions::get_BeforePageSavingEventHandlers()=0
 ```
 
 ## See Also

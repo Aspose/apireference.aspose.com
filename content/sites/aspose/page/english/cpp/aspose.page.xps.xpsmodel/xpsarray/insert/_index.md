@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.xpsmodel/xpsarray/insert/
 Inserts a new object into array at specified position.
 
 ```cpp
-T Aspose::Page::XPS::XpsModel::XpsArray<typename>::Insert(int32_t index, T obj)
+T Aspose::Page::XPS::XpsModel::XpsArray<T>::Insert(int32_t index, T obj)
 ```
 
 

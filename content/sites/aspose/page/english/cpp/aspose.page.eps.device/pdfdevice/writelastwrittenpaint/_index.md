@@ -4,7 +4,7 @@ linktitle: WriteLastWrittenPaint
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::WriteLastWrittenPaint method. Writes out last written paint. It is useful in cases when after writing paint graphics restore ("Q") was performed in C++.'
 type: docs
-weight: 7300
+weight: 7400
 url: /cpp/aspose.page.eps.device/pdfdevice/writelastwrittenpaint/
 ---
 ## PdfDevice::WriteLastWrittenPaint method

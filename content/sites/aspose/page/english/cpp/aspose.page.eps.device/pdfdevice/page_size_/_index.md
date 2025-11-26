@@ -1,23 +1,24 @@
 ---
-title: Aspose::Page::EPS::Device::PdfDevice::PAGE_SIZE_ field
+title: Aspose::Page::EPS::Device::PdfDevice::PAGE_SIZE_ method
 linktitle: PAGE_SIZE_
 second_title: Aspose.Page for C++
-description: 'Aspose::Page::EPS::Device::PdfDevice::PAGE_SIZE_ field. "Page size" property key in C++.'
+description: 'Aspose::Page::EPS::Device::PdfDevice::PAGE_SIZE_ method. "Page size" property key in C++.'
 type: docs
-weight: 8100
+weight: 1300
 url: /cpp/aspose.page.eps.device/pdfdevice/page_size_/
 ---
-## PAGE_SIZE_ field
+## PdfDevice::PAGE_SIZE_ method
 
 
 "Page size" property key.
 
 ```cpp
-static System::String Aspose::Page::EPS::Device::PdfDevice::PAGE_SIZE_
+static System::String & Aspose::Page::EPS::Device::PdfDevice::PAGE_SIZE_()
 ```
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfDevice](../)
 * Namespace [Aspose::Page::EPS::Device](../../)
 * Library [Aspose.Page for C++](../../../)

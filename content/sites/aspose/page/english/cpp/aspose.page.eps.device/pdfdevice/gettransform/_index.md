@@ -4,7 +4,7 @@ linktitle: GetTransform
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::GetTransform method. Gets current transform in C++.'
 type: docs
-weight: 3800
+weight: 3900
 url: /cpp/aspose.page.eps.device/pdfdevice/gettransform/
 ---
 ## PdfDevice::GetTransform method

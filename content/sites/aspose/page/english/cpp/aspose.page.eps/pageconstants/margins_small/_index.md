@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/pageconstants/margins_small/
 "Small" page margins value
 
 ```cpp
-static const System::String & Aspose::Page::EPS::PageConstants::MARGINS_SMALL()
+static System::String & Aspose::Page::EPS::PageConstants::MARGINS_SMALL()
 ```
 
 ## See Also

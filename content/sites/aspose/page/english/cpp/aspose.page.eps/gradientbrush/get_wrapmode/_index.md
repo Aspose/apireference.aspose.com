@@ -4,7 +4,7 @@ linktitle: get_WrapMode
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::GradientBrush::get_WrapMode method. Returns or specifies wrap mode for this gradient brush. It can be WrapMode.Clamp, that results in throwing exception in native gradient brushes in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.page.eps/gradientbrush/get_wrapmode/
 ---
 ## GradientBrush::get_WrapMode method

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps.xmp/xmpmetadata/
 Provides access to [XMP](../) metadata stream.
 
 ```cpp
-class XmpMetadata : public System::Collections::Generic::IDictionary<System::String, System::SharedPtr<Aspose::Page::EPS::XMP::XmpValue>>
+class XmpMetadata : public System::Collections::Generic::IDictionary<System::String, System::SharedPtr<XmpValue>>
 ```
 
 ## Methods

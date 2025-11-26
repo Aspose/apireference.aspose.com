@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.xpsmodel/xpspathgeometry/
 Class incapsulating PathGeometry property element features. This element contains a set of path figures specified either with the Figures attribute or with a child PathFigure element.
 
 ```cpp
-class XpsPathGeometry : public Aspose::Page::XPS::XpsModel::XpsArray<System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsPathFigure>>,
+class XpsPathGeometry : public Aspose::Page::XPS::XpsModel::XpsArray<System::SharedPtr<XpsPathFigure>>,
                         public Aspose::Page::XPS::XpsModel::ITransformableProperty
 ```
 

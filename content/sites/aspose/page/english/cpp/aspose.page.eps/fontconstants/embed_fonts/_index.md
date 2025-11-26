@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/fontconstants/embed_fonts/
 Key of property indicating whether to embed fonts in saved document.
 
 ```cpp
-static const System::String & Aspose::Page::EPS::FontConstants::EMBED_FONTS()
+static System::String & Aspose::Page::EPS::FontConstants::EMBED_FONTS()
 ```
 
 ## See Also

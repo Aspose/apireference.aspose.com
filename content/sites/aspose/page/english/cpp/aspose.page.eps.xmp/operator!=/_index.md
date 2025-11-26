@@ -2,7 +2,7 @@
 title: Aspose::Page::EPS::XMP::operator!= method
 linktitle: operator!=
 second_title: Aspose.Page for C++
-description: 'How to use operator!= method of  class in C++.'
+description: 'Aspose::Page::EPS::XMP::operator!= method. Implements the operator != in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.page.eps.xmp/operator!=/
@@ -10,11 +10,21 @@ url: /cpp/aspose.page.eps.xmp/operator!=/
 ## Aspose::Page::EPS::XMP::operator!= method
 
 
-
+Implements the operator !=.
 
 ```cpp
 bool Aspose::Page::EPS::XMP::operator!=(const System::SharedPtr<XmpField> &field1, const System::SharedPtr<XmpField> &field2)
 ```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| field1 | const System::SharedPtr\<XmpField\>\& | The field1. |
+| field2 | const System::SharedPtr\<XmpField\>\& | The field2. |
+
+### ReturnValue
+
+The result of the operator.
 
 ## See Also
 

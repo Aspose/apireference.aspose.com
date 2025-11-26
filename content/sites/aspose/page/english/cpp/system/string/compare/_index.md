@@ -4,7 +4,7 @@ linktitle: Compare
 second_title: Aspose.Page for C++
 description: 'System::String::Compare method. Less-equal-greater-compares two strings in C++.'
 type: docs
-weight: 6000
+weight: 6200
 url: /cpp/system/string/compare/
 ---
 ## String::Compare(const String\&, const String\&, bool, const SharedPtr\<System::Globalization::CultureInfo\>\&) method
