@@ -4,7 +4,7 @@ linktitle: ThreadState
 second_title: Aspose.Page for C++
 description: 'System::Threading::ThreadState enum. State of the thread in C++.'
 type: docs
-weight: 1600
+weight: 2000
 url: /cpp/system.threading/threadstate/
 ---
 ## ThreadState enum

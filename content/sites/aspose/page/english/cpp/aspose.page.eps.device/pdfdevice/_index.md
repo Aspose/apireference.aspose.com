@@ -60,6 +60,7 @@ class PdfDevice : public Aspose::Page::Device,
 | [OpenPage](./openpage/)(float, float) override | Makes necessary preparation of the device before each page rendering. |
 | static [ORIENTATION](./orientation/)() | "Orientation" property key. |
 | static [PAGE_MARGINS](./page_margins/)() | "Page margins" property key. |
+| static [PAGE_SIZE_](./page_size_/)() | "Page size" property key. |
 | [PdfDevice](./pdfdevice/)(System::SharedPtr\<System::IO::Stream\>) | Initializes new instance of [PdfDevice](./) with output stream. |
 | [PdfDevice](./pdfdevice/)(System::SharedPtr\<System::IO::Stream\>, System::Drawing::Size) | Initializes new instance of [PdfDevice](./) with output stream and specified size of a page. |
 | [PdfDevice](./pdfdevice/)(System::SharedPtr\<PdfDevice\>, bool) | Clone constructor. Initializes new instance of [PdfDevice](./) with existing device. |
@@ -76,8 +77,8 @@ class PdfDevice : public Aspose::Page::Device,
 | [set_Paint](./set_paint/)(System::SharedPtr\<System::Drawing::Brush\>) override | Returns or specifies current paint. |
 | [set_Stroke](./set_stroke/)(System::SharedPtr\<System::Drawing::Pen\>) override | Returns or specifies current stroke. |
 | [SetClip](./setclip/)(System::SharedPtr\<System::Drawing::Drawing2D::GraphicsPath\>) override | Specifies the clip of the device. |
-| virtual [SetFooter](./setfooter/)(System::SharedPtr\<Aspose::Page::EPS::Postscript::TrFont\>, System::SharedPtr\<Aspose::Page::EPS::Graphics2d::TagString\>, System::SharedPtr\<Aspose::Page::EPS::Graphics2d::TagString\>, System::SharedPtr\<Aspose::Page::EPS::Graphics2d::TagString\>, int32_t) |  |
-| virtual [SetHeader](./setheader/)(System::SharedPtr\<Aspose::Page::EPS::Postscript::TrFont\>, System::SharedPtr\<Aspose::Page::EPS::Graphics2d::TagString\>, System::SharedPtr\<Aspose::Page::EPS::Graphics2d::TagString\>, System::SharedPtr\<Aspose::Page::EPS::Graphics2d::TagString\>, int32_t) |  |
+| virtual [SetFooter](./setfooter/)(System::SharedPtr\<Postscript::TrFont\>, System::SharedPtr\<Graphics2d::TagString\>, System::SharedPtr\<Graphics2d::TagString\>, System::SharedPtr\<Graphics2d::TagString\>, int32_t) |  |
+| virtual [SetHeader](./setheader/)(System::SharedPtr\<Postscript::TrFont\>, System::SharedPtr\<Graphics2d::TagString\>, System::SharedPtr\<Graphics2d::TagString\>, System::SharedPtr\<Graphics2d::TagString\>, int32_t) |  |
 | [SetSaveFromPatternCreate](./setsavefrompatterncreate/)() |  |
 | [SetTransform](./settransform/)(System::SharedPtr\<System::Drawing::Drawing2D::Matrix\>) override | Specifies the current transform. Since most output formats do not implement this functionality, the inverse transform of the currentTransform is calculated and multiplied by the transform to be set.The result is then forwarded by a call to writeTransform(Transform). |
 | [Shear](./shear/)(double, double) override | Shears the current transformation matrix. Calls writeTransform(Transform). |
@@ -115,12 +116,11 @@ class PdfDevice : public Aspose::Page::Device,
 
 | Field | Description |
 | --- | --- |
-| static [PAGE_SIZE_](./page_size_/) | "Page size" property key. |
 | static [VERSION](./version/) | "Version" property key. |
 | static [VERSION5](./version5/) | "Version of Adobe Acrobat Reader" property value. |
 
 ## Deprecated
-PdfDevice class is deprecated beginning from 24.3. Please use SaveAsPdf method in PsDocument class instead. In 24.6 this class will be entirely hidden False 
+PdfDevice class is deprecated beginning from 24.3. Please use SaveAsPdf method in PsDocument class instead. In 24.6 this class will be entirely hidden 
 
 ## See Also
 

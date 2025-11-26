@@ -4,7 +4,7 @@ linktitle: ThreadStart
 second_title: Aspose.Page for C++
 description: 'System::Threading::ThreadStart typedef. Thread function with no parameters in C++.'
 type: docs
-weight: 1900
+weight: 2300
 url: /cpp/system.threading/threadstart/
 ---
 ## ThreadStart typedef

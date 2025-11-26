@@ -4,7 +4,7 @@ linktitle: IndexOfAny
 second_title: Aspose.Page for C++
 description: 'System::String::IndexOfAny method. Character forward lookup in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system/string/indexofany/
 ---
 ## String::IndexOfAny(char_t, int) const method

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/pageconstants/page_margins/
 [Page](../../../aspose.page/) margins key.
 
 ```cpp
-static const System::String & Aspose::Page::EPS::PageConstants::PAGE_MARGINS()
+static System::String & Aspose::Page::EPS::PageConstants::PAGE_MARGINS()
 ```
 
 ## See Also

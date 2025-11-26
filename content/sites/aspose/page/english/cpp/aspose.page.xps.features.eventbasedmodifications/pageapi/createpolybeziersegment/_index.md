@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createpolybez
 Creates a new set of cubic Bézier curves.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsPolyBezierSegment> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePolyBezierSegment(System::ArrayPtr<System::Drawing::PointF> points, bool isStroked=true)
+System::SharedPtr<XpsModel::XpsPolyBezierSegment> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePolyBezierSegment(System::ArrayPtr<System::Drawing::PointF> points, bool isStroked=true)
 ```
 
 

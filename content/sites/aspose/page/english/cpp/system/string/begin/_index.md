@@ -4,7 +4,7 @@ linktitle: begin
 second_title: Aspose.Page for C++
 description: 'System::String::begin method. Returns pointer to the beginning of actual string buffer. Never reallocates anything. Doesn''t guarantee buffer to be null-terminated in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system/string/begin/
 ---
 ## String::begin method

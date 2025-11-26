@@ -4,7 +4,7 @@ linktitle: get_WarningMessage
 second_title: Aspose.Page for C++
 description: 'How to use get_WarningMessage method of Aspose::Page::EPS::Device::PdfDevice class in C++.'
 type: docs
-weight: 3600
+weight: 3700
 url: /cpp/aspose.page.eps.device/pdfdevice/get_warningmessage/
 ---
 ## PdfDevice::get_WarningMessage method

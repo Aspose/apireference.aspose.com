@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.presentation.pdf/pdfsaveoptions/get_beforepagesavingev
 The collection of event handlers that performs modifications to an [XPS](../../../aspose.page.xps/) page just before it is saved.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::Page::XPS::Features::EventBasedModifications::BeforePageSavingEventHandler>>> Aspose::Page::XPS::Presentation::Pdf::PdfSaveOptions::get_BeforePageSavingEventHandlers() override
+System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Features::EventBasedModifications::BeforePageSavingEventHandler>>> Aspose::Page::XPS::Presentation::Pdf::PdfSaveOptions::get_BeforePageSavingEventHandlers() override
 ```
 
 ## See Also

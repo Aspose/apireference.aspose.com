@@ -36,8 +36,6 @@ Fetches [DrFont](../) by font family name, size, style and alternative font fami
 Fetches [DrFont](../) by font family name, size, style, font capitals and alternative font family name.
 
 
-
-
 Fetches [System::Drawing::Font](../../../system.drawing/font/) by font family name, style and size.
 
 

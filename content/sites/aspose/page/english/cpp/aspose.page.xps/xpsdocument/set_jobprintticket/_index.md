@@ -4,7 +4,7 @@ linktitle: set_JobPrintTicket
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::set_JobPrintTicket method. Returns/sets document''s job print ticket in C++.'
 type: docs
-weight: 6000
+weight: 6100
 url: /cpp/aspose.page.xps/xpsdocument/set_jobprintticket/
 ---
 ## XpsDocument::set_JobPrintTicket method

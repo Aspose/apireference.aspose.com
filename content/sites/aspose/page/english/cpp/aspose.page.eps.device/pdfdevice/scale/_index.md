@@ -4,7 +4,7 @@ linktitle: Scale
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::Scale method. Scales the current transformation matrix. Calls writeTransform(Transform) in C++.'
 type: docs
-weight: 4800
+weight: 4900
 url: /cpp/aspose.page.eps.device/pdfdevice/scale/
 ---
 ## PdfDevice::Scale method

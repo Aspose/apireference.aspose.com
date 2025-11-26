@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createsolidco
 Creates a new solid color brush.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsSolidColorBrush> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateSolidColorBrush(System::Drawing::Color color)
+System::SharedPtr<XpsModel::XpsSolidColorBrush> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateSolidColorBrush(System::Drawing::Color color)
 ```
 
 
@@ -33,19 +33,19 @@ New solid color brush.
 * Class [PageAPI](../)
 * Namespace [Aspose::Page::XPS::Features::EventBasedModifications](../../)
 * Library [Aspose.Page for C++](../../../)
-## PageAPI::CreateSolidColorBrush(System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsColor\>) method
+## PageAPI::CreateSolidColorBrush(System::SharedPtr\<XpsModel::XpsColor\>) method
 
 
 Creates a new solid color brush.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsSolidColorBrush> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateSolidColorBrush(System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsColor> color)
+System::SharedPtr<XpsModel::XpsSolidColorBrush> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateSolidColorBrush(System::SharedPtr<XpsModel::XpsColor> color)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color | System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsColor\> | The color for filled elements. |
+| color | System::SharedPtr\<XpsModel::XpsColor\> | The color for filled elements. |
 
 ### ReturnValue
 

@@ -35,7 +35,7 @@ void Aspose::Page::EPS::PsDocument::ResizeEps(System::SharedPtr<System::IO::Stre
 ## PsDocument::ResizeEps(System::String, System::Drawing::SizeF, Units) method
 
 
-Resizes given [PsDocument](../) as [EPS](../../) file. This method is used only after extracting [EPS](../../) size. It saves initial [EPS](../../) file with updated existing %BoundingBox or new one will be created. [Page](../../../aspose.page/) transformation matrix also will be set.
+Resizes given [PsDocument](../) as [EPS](../../) file. This method is used only after extracting [EPS](../../) size. It saves initial [EPS](../../) filD:\ASPOSE.GIT\aspose.pdf.cpp\cs_porter_produce\Aspose.Page.Cpp.Page.Cpp\eps\src_eps\PsDocument.hThe output directory where image file will be saved.e with updated existing %BoundingBox or new one will be created. [Page](../../../aspose.page/) transformation matrix also will be set.
 
 ```cpp
 void Aspose::Page::EPS::PsDocument::ResizeEps(System::String outEpsFilePath, System::Drawing::SizeF newSizeInUnits, Units units)

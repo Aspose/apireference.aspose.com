@@ -22,7 +22,6 @@ class XpsIccBasedColor : public Aspose::Page::XPS::XpsModel::XpsColor
 | --- | --- |
 | [get_IccProfile](./get_iccprofile/)() | Returns ICC profile resource the color based on. |
 | [ToColor](./tocolor/)() override | Convenience method for getting .NET native representation of ICC based color. |
-| [ToString](./tostring/)() const override | Analog of C# Object.ToString() method. Enables converting custom objects to string. |
 ## See Also
 
 * Class [XpsColor](../xpscolor/)

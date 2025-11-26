@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/pageconstants/orientation_landscape/
 "Landscape" orientation value
 
 ```cpp
-static const System::String & Aspose::Page::EPS::PageConstants::ORIENTATION_LANDSCAPE()
+static System::String & Aspose::Page::EPS::PageConstants::ORIENTATION_LANDSCAPE()
 ```
 
 ## See Also

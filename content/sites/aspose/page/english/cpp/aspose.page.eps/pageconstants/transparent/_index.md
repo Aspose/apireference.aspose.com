@@ -4,7 +4,7 @@ linktitle: TRANSPARENT
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PageConstants::TRANSPARENT method. Transparent background key in C++.'
 type: docs
-weight: 2600
+weight: 2700
 url: /cpp/aspose.page.eps/pageconstants/transparent/
 ---
 ## PageConstants::TRANSPARENT method
@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/pageconstants/transparent/
 Transparent background key.
 
 ```cpp
-static const System::String & Aspose::Page::EPS::PageConstants::TRANSPARENT()
+static System::String & Aspose::Page::EPS::PageConstants::TRANSPARENT()
 ```
 
 ## See Also

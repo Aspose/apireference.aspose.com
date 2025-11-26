@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::String::Clone method. Creates a copy of current string in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system/string/clone/
 ---
 ## String::Clone method

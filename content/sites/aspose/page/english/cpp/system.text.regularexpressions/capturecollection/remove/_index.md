@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::CaptureCollection::Remove method. Disables collection ammendment in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/system.text.regularexpressions/capturecollection/remove/
 ---
 ## CaptureCollection::Remove method

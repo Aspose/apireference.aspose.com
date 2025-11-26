@@ -4,7 +4,7 @@ linktitle: IsNull
 second_title: Aspose.Page for C++
 description: 'System::String::IsNull method. Checks if string is considered null. String is null and only if it is constructed via String() constructor, moved, copied or assigned from null string or reset() method was called in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/system/string/isnull/
 ---
 ## String::IsNull method

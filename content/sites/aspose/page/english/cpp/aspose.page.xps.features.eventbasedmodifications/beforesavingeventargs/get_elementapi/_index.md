@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/beforesavingeventargs
 Gets the modification API of the element that is about to be saved.
 
 ```cpp
-T Aspose::Page::XPS::Features::EventBasedModifications::BeforeSavingEventArgs<typename>::get_ElementAPI() const
+T Aspose::Page::XPS::Features::EventBasedModifications::BeforeSavingEventArgs<T>::get_ElementAPI() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: MidpointRounding
 second_title: Aspose.Page for C++
 description: 'System::MidpointRounding enum. Specifies the behavior of rounding functions in C++.'
 type: docs
-weight: 8000
+weight: 8300
 url: /cpp/system/midpointrounding/
 ---
 ## MidpointRounding enum

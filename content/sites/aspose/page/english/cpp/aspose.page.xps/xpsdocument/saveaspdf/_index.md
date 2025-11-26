@@ -4,7 +4,7 @@ linktitle: SaveAsPdf
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::SaveAsPdf method. Saves the document in PDF format in C++.'
 type: docs
-weight: 5600
+weight: 5700
 url: /cpp/aspose.page.xps/xpsdocument/saveaspdf/
 ---
 ## XpsDocument::SaveAsPdf(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Presentation::Pdf::PdfSaveOptions\>) method

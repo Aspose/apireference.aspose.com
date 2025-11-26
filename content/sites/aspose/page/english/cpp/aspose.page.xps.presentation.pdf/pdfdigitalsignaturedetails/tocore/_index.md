@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.presentation.pdf/pdfdigitalsignaturedetails/tocore/
 
 
 ```cpp
-System::SharedPtr<Aspose::Rendering::Pdf::PdfDigitalSignatureDetailsCore> Aspose::Page::XPS::Presentation::Pdf::PdfDigitalSignatureDetails::ToCore()
+System::SharedPtr<Rendering::Pdf::PdfDigitalSignatureDetailsCore> Aspose::Page::XPS::Presentation::Pdf::PdfDigitalSignatureDetails::ToCore()
 ```
 
 ## See Also

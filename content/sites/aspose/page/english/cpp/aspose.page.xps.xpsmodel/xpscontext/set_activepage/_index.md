@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.xpsmodel/xpscontext/set_activepage/
 
 
 ```cpp
-void Aspose::Page::XPS::XpsModel::XpsContext::set_ActivePage(System::Collections::Generic::KeyValuePair<int32_t, System::SharedPtr<Aspose::Page::XPS::XpsPackageParts::FixedPage>> value)
+void Aspose::Page::XPS::XpsModel::XpsContext::set_ActivePage(System::Collections::Generic::KeyValuePair<int32_t, System::SharedPtr<XpsPackageParts::FixedPage>> value)
 ```
 
 ## See Also

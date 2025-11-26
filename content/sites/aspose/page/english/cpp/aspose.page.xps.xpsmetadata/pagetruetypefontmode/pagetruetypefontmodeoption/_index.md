@@ -20,11 +20,11 @@ class PageTrueTypeFontModeOption : public Aspose::Page::XPS::XpsMetadata::Option
 
 | Field | Description |
 | --- | --- |
-| static [Automatic](./automatic/) | Automatic handling of [TrueType](../../../aspose.truetype/) font. |
-| static [DownloadAsNativeTrueTypeFont](./downloadasnativetruetypefont/) | [TrueType](../../../aspose.truetype/) font is downloaded as native true type font. |
-| static [DownloadAsOutlineFont](./downloadasoutlinefont/) | [TrueType](../../../aspose.truetype/) font is downloaded as outline font. |
-| static [DownloadAsRasterFont](./downloadasrasterfont/) | [TrueType](../../../aspose.truetype/) font is downloaded as raster font. |
-| static [RenderAsBitmap](./renderasbitmap/) | [TrueType](../../../aspose.truetype/) font is rendered as a bitmap. |
+| static [Automatic](./automatic/) | Automatic handling of **TrueType** font. |
+| static [DownloadAsNativeTrueTypeFont](./downloadasnativetruetypefont/) | **TrueType** font is downloaded as native true type font. |
+| static [DownloadAsOutlineFont](./downloadasoutlinefont/) | **TrueType** font is downloaded as outline font. |
+| static [DownloadAsRasterFont](./downloadasrasterfont/) | **TrueType** font is downloaded as raster font. |
+| static [RenderAsBitmap](./renderasbitmap/) | **TrueType** font is rendered as a bitmap. |
 ## See Also
 
 * Class [Option](../../option/)

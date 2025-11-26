@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.xpspackageparts/fixedpage/get_page/
 
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsPage> Aspose::Page::XPS::XpsPackageParts::FixedPage::get_Page() const
+System::SharedPtr<XpsModel::XpsPage> Aspose::Page::XPS::XpsPackageParts::FixedPage::get_Page() const
 ```
 
 ## See Also

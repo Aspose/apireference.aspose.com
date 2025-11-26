@@ -2,7 +2,7 @@
 title: Aspose::Page::EPS::PsDocument::SaveAsImage method
 linktitle: SaveAsImage
 second_title: Aspose.Page for C++
-description: 'Aspose::Page::EPS::PsDocument::SaveAsImage method. Saves PS/EPS file to image file. The output directory and the file name will be the same as from input PS file. The file extension will correspond to image format in "option" param in C++.'
+description: 'Aspose::Page::EPS::PsDocument::SaveAsImage method. Saves PS/EPS file to image file. The output directory and the file name will be the same as from input PS file. The file extension will correspond to image format in "options" param. If the document was initialized with a stream that is not FileStream, image file will be saved in the current folder with default file name template in C++.'
 type: docs
 weight: 4300
 url: /cpp/aspose.page.eps/psdocument/saveasimage/
@@ -10,7 +10,7 @@ url: /cpp/aspose.page.eps/psdocument/saveasimage/
 ## PsDocument::SaveAsImage(System::SharedPtr\<Device::ImageSaveOptions\>) method
 
 
-Saves PS/EPS file to image file. The output directory and the file name will be the same as from input PS file. The file extension will correspond to image format in "option" param.
+Saves PS/EPS file to image file. The output directory and the file name will be the same as from input PS file. The file extension will correspond to image format in "options" param. If the document was initialized with a stream that is not FileStream, image file will be saved in the current folder with default file name template.
 
 ```cpp
 void Aspose::Page::EPS::PsDocument::SaveAsImage(System::SharedPtr<Device::ImageSaveOptions> options)
@@ -26,7 +26,7 @@ void Aspose::Page::EPS::PsDocument::SaveAsImage(System::SharedPtr<Device::ImageS
 ## PsDocument::SaveAsImage(System::SharedPtr\<Device::ImageSaveOptions\>, System::String, System::String) method
 
 
-Saves PS/EPS file to image file. The output directory and the file name will be the same as from input PS file. The file extension will correspond to image format in "option" param.
+Saves PS/EPS file to image file to the specified directory with the specified file name. The file extension will correspond to the image format in "options" param.
 
 ```cpp
 void Aspose::Page::EPS::PsDocument::SaveAsImage(System::SharedPtr<Device::ImageSaveOptions> options, System::String outDir, System::String fileNameTemplate)

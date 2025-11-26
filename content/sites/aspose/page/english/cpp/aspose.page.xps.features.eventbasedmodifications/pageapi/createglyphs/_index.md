@@ -7,19 +7,19 @@ type: docs
 weight: 900
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createglyphs/
 ---
-## PageAPI::CreateGlyphs(System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsFont\>, float, float, float, System::String) method
+## PageAPI::CreateGlyphs(System::SharedPtr\<XpsModel::XpsFont\>, float, float, float, System::String) method
 
 
 Creates new glyphs.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsGlyphs> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateGlyphs(System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsFont> font, float fontRenderingEmSize, float originX, float originY, System::String unicodeString)
+System::SharedPtr<XpsModel::XpsGlyphs> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateGlyphs(System::SharedPtr<XpsModel::XpsFont> font, float fontRenderingEmSize, float originX, float originY, System::String unicodeString)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| font | System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsFont\> | [Font](../../../aspose.page.font/) resource. |
+| font | System::SharedPtr\<XpsModel::XpsFont\> | [Font](../../../aspose.page.font/) resource. |
 | fontRenderingEmSize | float | [Font](../../../aspose.page.font/) size. |
 | originX | float | Glyphs origin X coordinate. |
 | originY | float | Glyphs origin Y coordinate. |
@@ -44,7 +44,7 @@ New glyphs.
 Creates new glyphs.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsGlyphs> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateGlyphs(System::String fontFamily, float fontRenderingEmSize, System::Drawing::FontStyle fontStyle, float originX, float originY, System::String unicodeString)
+System::SharedPtr<XpsModel::XpsGlyphs> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateGlyphs(System::String fontFamily, float fontRenderingEmSize, System::Drawing::FontStyle fontStyle, float originX, float originY, System::String unicodeString)
 ```
 
 

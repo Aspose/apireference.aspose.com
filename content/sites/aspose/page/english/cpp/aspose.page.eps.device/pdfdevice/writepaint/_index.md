@@ -4,7 +4,7 @@ linktitle: WritePaint
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::WritePaint method. Writes out paint in C++.'
 type: docs
-weight: 7500
+weight: 7600
 url: /cpp/aspose.page.eps.device/pdfdevice/writepaint/
 ---
 ## PdfDevice::WritePaint(System::SharedPtr\<System::Drawing::Brush\>) method

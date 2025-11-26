@@ -4,7 +4,7 @@ linktitle: operator[]
 second_title: Aspose.Page for C++
 description: 'System::String::operator[] method. Gets character at specified position in C++.'
 type: docs
-weight: 3200
+weight: 3400
 url: /cpp/system/string/operator[]/
 ---
 ## String::operator[] method

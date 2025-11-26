@@ -4,7 +4,7 @@ linktitle: Normalize
 second_title: Aspose.Page for C++
 description: 'System::String::Normalize method. Normalizes unicode string using normalization form specified in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/system/string/normalize/
 ---
 ## String::Normalize method

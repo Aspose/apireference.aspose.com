@@ -4,7 +4,7 @@ linktitle: SmartPtr
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr class. Pointer class to wrap types being allocated on heap. Use it to manage memory for classes inheriting Object. This pointer type follows intrusive pointer semantics. Reference counter is stored either in Object itself or in counter structure which is tied to Object instance tightly. In any case, all SmartPtr instances form single ownership group regardless how they were created which is unlike how std::shared_ptr class behaves. Converting raw pointer to SmartPtr is safe given there are other SmartPtr instances holding shared references to the same object. SmartPtr class instance can be in one of two states: shared pointer and weak pointer. To keep object alive, one should have count of shared references to it positive. Both weak and shared pointers can be used to access pointed object (to call methods, read or write fields, etc.), but weak pointers do not participate to shared pointer reference counting. Object is being deleted when the last ''shared'' SmartPtr pointer to it is being destroyed. So, make sure that this doesn''t happen when no other shared SmartPtr pointers to object exist, e. g. during object construction or destruction. Use System::Object::ThisProtector sentry objects (in C++ code) or CppCTORSelfReference or CppSelfReference attribute (in C# code being translated) to fix this issue. Similarily, make sure to break loop references by using System::WeakPtr pointer class or System::SmartPtrMode::Weak pointer mode (in C++ code) or CppWeakPtr attribute (in C# code being translated). If two or more objects reference each other using ''shared'' pointers, they will never be deleted. If pointer type (weak or shared) should be switched in runtime, use System::SmartPtr<T>::set_Mode() method or System::DynamicWeakPtr class. SmartPtr class doesn''t contain any virtual methods. You should only inherit it if you''re creating a memory management strategy of your own. This type is a pointer to manage other object''s deletion. It should be allocated on stack and passed to functions either by value or by const reference in C++.'
 type: docs
-weight: 5400
+weight: 5500
 url: /cpp/system/smartptr/
 ---
 ## SmartPtr class
@@ -24,18 +24,18 @@ template<class T>class SmartPtr
 
 | Method | Description |
 | --- | --- |
-| [begin](./begin/)() | Accessor for [begin()](./begin/) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [begin()](./begin/) method. |
-| [begin](./begin/)() const | Accessor for [begin()](./begin/) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [begin()](./begin/) method. |
+| [begin](./begin/)() | Accessor for [begin()](./begin/) method of an underling collection. Only compiles if [SmartPtr_](./smartptr_/) is specialization type with [begin()](./begin/) method. |
+| [begin](./begin/)() const | Accessor for [begin()](./begin/) method of an underling collection. Only compiles if [SmartPtr_](./smartptr_/) is specialization type with [begin()](./begin/) method. |
 | [Cast](./cast/)() const | Casts pointer to its type itself. |
 | [Cast](./cast/)() const | Casts pointer to base type using static_cast. |
 | [Cast](./cast/)() const | Casts pointer to derived type dynamic_cast. |
 | [Cast](./cast/)() const | Casts pointer to derived type dynamic_cast. |
-| [cbegin](./cbegin/)() const | Accessor for [cbegin()](./cbegin/) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [cbegin()](./cbegin/) method. |
-| [cend](./cend/)() const | Accessor for [cend()](./cend/) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [cend()](./cend/) method. |
+| [cbegin](./cbegin/)() const | Accessor for [cbegin()](./cbegin/) method of an underling collection. Only compiles if [SmartPtr_](./smartptr_/) is specialization type with [cbegin()](./cbegin/) method. |
+| [cend](./cend/)() const | Accessor for [cend()](./cend/) method of an underling collection. Only compiles if [SmartPtr_](./smartptr_/) is specialization type with [cend()](./cend/) method. |
 | [const_pointer_cast](./const_pointer_cast/)() const | Casts pointer to different type using const_cast on pointed object. |
 | [dynamic_pointer_cast](./dynamic_pointer_cast/)() const | Casts pointer to different type using dynamic_cast on pointed object. |
-| [end](./end/)() | Accessor for [end()](./end/) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [end()](./end/) method. |
-| [end](./end/)() const | Accessor for [end()](./end/) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [end()](./end/) method. |
+| [end](./end/)() | Accessor for [end()](./end/) method of an underling collection. Only compiles if [SmartPtr_](./smartptr_/) is specialization type with [end()](./end/) method. |
+| [end](./end/)() const | Accessor for [end()](./end/) method of an underling collection. Only compiles if [SmartPtr_](./smartptr_/) is specialization type with [end()](./end/) method. |
 | [get](./get/)() const | Gets pointed object. |
 | [get_Mode](./get_mode/)() const | Gets pointer mode. |
 | [get_shared](./get_shared/)() const | Gets pointed object, but asserts that pointer is in shared mode. |
@@ -61,7 +61,7 @@ template<class T>class SmartPtr
 | [operator=](./operator=/)(Pointee_ *) | Assigns raw pointer to [SmartPtr](./) object. |
 | [operator=](./operator=/)(std::nullptr_t) | Sets pointer value to nullptr. |
 | [operator==](./operator==/)(std::nullptr_t) const | Checks if pointer points to nullptr. |
-| [operator[]](./operator[]/)(IdxType) const | Accessor for array elements. Only compiles if SmartPtr_ is specialization of [System::Array](../array/). |
+| [operator[]](./operator[]/)(IdxType) const | Accessor for array elements. Only compiles if [SmartPtr_](./smartptr_/) is specialization of [System::Array](../array/). |
 | [RemoveAliasing](./removealiasing/)() const | Removes aliasing (created by an aliasing constructor) from pointer, makes sure it manages (if shared) or tracks (if weak) the same object it points to. |
 | [reset](./reset/)(Pointee_ *) | Sets pointed object. |
 | [reset](./reset/)() | Makes pointer pointing to nullptr. |
@@ -77,14 +77,14 @@ template<class T>class SmartPtr
 | explicit [SmartPtr](./smartptr/)(const Y\&) | Initializes empty array. Used to translate some C# code constructs. |
 | [SmartPtr](./smartptr/)(const SmartPtr\<P\>\&, Pointee_ *, SmartPtrMode) | Constructs a [SmartPtr](./) which shares ownership information with the initial value of ptr, but holds an unrelated and unmanaged pointer p. |
 | [static_pointer_cast](./static_pointer_cast/)() const | Casts pointer to different type using static_cast on pointed object. |
-| [ToObjectPtr](./toobjectptr/)() const | Converts any pointer type to pointer to [Object](../object/). Doesn't require Pointee_ type to be complete. |
-| static [Type](./type/)() | Shortcut to get [System::TypeInfo](../typeinfo/) object for the Pointee_ type. |
+| [ToObjectPtr](./toobjectptr/)() const | Converts any pointer type to pointer to [Object](../object/). Doesn't require [Pointee_](./pointee_/) type to be complete. |
+| static [Type](./type/)() | Shortcut to get [System::TypeInfo](../typeinfo/) object for the [Pointee_](./pointee_/) type. |
 | [~SmartPtr](./~smartptr/)() | Destroys [SmartPtr](./) object. If required, decreases pointed object's reference counter and deletes object. |
 ## Typedefs
 
 | Typedef | Description |
 | --- | --- |
-| [ArrayType](./arraytype/) | Same as Pointee_, if it is a specialization of [System::Array](../array/), and void otherwise. |
+| [ArrayType](./arraytype/) | Same as [Pointee_](./pointee_/), if it is a specialization of [System::Array](../array/), and void otherwise. |
 | [Pointee_](./pointee_/) | Pointed type. |
 | [SmartPtr_](./smartptr_/) | Specialized smart pointer type. |
 | [ValueType](./valuetype/) | Storage type of pointed array. Only meaningful if T is a specialization of [System::Array](../array/). |

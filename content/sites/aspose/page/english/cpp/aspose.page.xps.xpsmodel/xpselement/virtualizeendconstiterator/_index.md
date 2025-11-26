@@ -4,7 +4,7 @@ linktitle: virtualizeEndConstIterator
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsElement::virtualizeEndConstIterator method. Gets iterator pointing right after the last element (if any)of the const-qualified instance of the collection in C++.'
 type: docs
-weight: 1500
+weight: 1400
 url: /cpp/aspose.page.xps.xpsmodel/xpselement/virtualizeendconstiterator/
 ---
 ## XpsElement::virtualizeEndConstIterator method

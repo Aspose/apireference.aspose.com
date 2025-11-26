@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps.device/pdfcanvas/set_rendertransform/
 
 
 ```cpp
-void Aspose::Page::EPS::Device::PdfCanvas::set_RenderTransform(System::SharedPtr<Aspose::Foundation::Drawing::DrMatrix> value)
+void Aspose::Page::EPS::Device::PdfCanvas::set_RenderTransform(System::SharedPtr<Foundation::Drawing::DrMatrix> value)
 ```
 
 ## See Also

@@ -13,13 +13,13 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createpath/
 Creates a new path.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsPath> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePath(System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsPathGeometry> data)
+System::SharedPtr<XpsModel::XpsPath> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePath(System::SharedPtr<XpsModel::XpsPathGeometry> data)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| data | System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsPathGeometry\> | The geometry of the path. |
+| data | System::SharedPtr\<XpsModel::XpsPathGeometry\> | The geometry of the path. |
 
 ### ReturnValue
 

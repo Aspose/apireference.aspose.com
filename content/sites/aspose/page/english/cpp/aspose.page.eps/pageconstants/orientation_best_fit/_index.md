@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/pageconstants/orientation_best_fit/
 "Best fit" orientation value
 
 ```cpp
-static const System::String & Aspose::Page::EPS::PageConstants::ORIENTATION_BEST_FIT()
+static System::String & Aspose::Page::EPS::PageConstants::ORIENTATION_BEST_FIT()
 ```
 
 ## See Also

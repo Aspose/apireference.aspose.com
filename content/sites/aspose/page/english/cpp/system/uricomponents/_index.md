@@ -4,7 +4,7 @@ linktitle: UriComponents
 second_title: Aspose.Page for C++
 description: 'System::UriComponents enum. Represents URI components in C++.'
 type: docs
-weight: 8600
+weight: 8900
 url: /cpp/system/uricomponents/
 ---
 ## UriComponents enum

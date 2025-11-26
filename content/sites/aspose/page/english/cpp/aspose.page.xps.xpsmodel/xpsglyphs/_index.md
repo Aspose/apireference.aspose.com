@@ -23,7 +23,7 @@ class XpsGlyphs : public Aspose::Page::XPS::XpsModel::XpsContentElement
 | [Clone](./clone/)() | Clone this glyphs. |
 | [get_BidiLevel](./get_bidilevel/)() const | Returns/sets the value specifying the Unicode algorithm bidirectional nesting level. Even values imply left-to-right layout, odd values imply right-to-left layout. Right-to-left layout places the run origin at the right side of the first glyph, with positive advance widths (representing advances to the left) placing subsequent glyphs to the left of the previous glyph. |
 | [get_Fill](./get_fill/)() | Returns/sets the brush used to fill the shape of the rendered glyphs. |
-| [get_Font](./get_font/)() | Returns font resource for the [TrueType](../../aspose.truetype/) font used to typeset elements text. |
+| [get_Font](./get_font/)() | Returns font resource for the **TrueType** font used to typeset elements text. |
 | [get_FontRenderingEmSize](./get_fontrenderingemsize/)() const | Returns/sets the font size in drawing surface units, expressed as a float in units of the effective coordinate space. |
 | [get_Indices](./get_indices/)() |  |
 | [get_IsSideways](./get_issideways/)() const | Returns/sets the value indicating that a glyph is turned on its side, with the origin being defined as the top center of the unturned glyph. |

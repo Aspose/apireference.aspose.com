@@ -22,7 +22,7 @@ class XpsContext : public System::Object
 | --- | --- |
 | [get_ActivePage](./get_activepage/)() |  |
 | [Restrict](./restrict/)(int32_t) |  |
-| [set_ActivePage](./set_activepage/)(System::Collections::Generic::KeyValuePair\<int32_t, System::SharedPtr\<Aspose::Page::XPS::XpsPackageParts::FixedPage\>\>) |  |
+| [set_ActivePage](./set_activepage/)(System::Collections::Generic::KeyValuePair\<int32_t, System::SharedPtr\<XpsPackageParts::FixedPage\>\>) |  |
 ## See Also
 
 * Class [Object](../../system/object/)

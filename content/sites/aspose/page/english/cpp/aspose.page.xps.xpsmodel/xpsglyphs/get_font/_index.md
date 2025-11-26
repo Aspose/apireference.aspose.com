@@ -10,7 +10,7 @@ url: /cpp/aspose.page.xps.xpsmodel/xpsglyphs/get_font/
 ## XpsGlyphs::get_Font method
 
 
-Returns font resource for the [TrueType](../../../aspose.truetype/) font used to typeset elements text.
+Returns font resource for the **TrueType** font used to typeset elements text.
 
 ```cpp
 System::SharedPtr<XpsFont> Aspose::Page::XPS::XpsModel::XpsGlyphs::get_Font()

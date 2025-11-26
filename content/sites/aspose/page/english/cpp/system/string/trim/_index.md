@@ -4,7 +4,7 @@ linktitle: Trim
 second_title: Aspose.Page for C++
 description: 'System::String::Trim method. Removes all whitespace characters from both beginning and end of the string in C++.'
 type: docs
-weight: 5600
+weight: 5800
 url: /cpp/system/string/trim/
 ---
 ## String::Trim() const method

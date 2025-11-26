@@ -27,7 +27,7 @@ class TiffDataReader : public System::Object
 | [get_IsConformXpsSpecification](./get_isconformxpsspecification/)() | Returns true if TIFF image conforms [XPS](../../aspose.page.xps/) specification and can be inserted into [XPS](../../aspose.page.xps/) document as is. |
 | static [IsTiff](./istiff/)(System::ArrayPtr\<uint8_t\>) | Documentation for the format is in Aspose.Words\Doc. |
 | [TiffDataReader](./tiffdatareader/)(System::ArrayPtr\<uint8_t\>) | Initializes a new instance of the [TiffDataReader](./) class. |
-| [TiffDataReader](./tiffdatareader/)(System::SharedPtr\<Aspose::Foundation::BigEndianBinaryReader\>) | Initializes a new instance of the [TiffDataReader](./) class. |
+| [TiffDataReader](./tiffdatareader/)(System::SharedPtr\<Foundation::BigEndianBinaryReader\>) | Initializes a new instance of the [TiffDataReader](./) class. |
 ## See Also
 
 * Class [Object](../../system/object/)

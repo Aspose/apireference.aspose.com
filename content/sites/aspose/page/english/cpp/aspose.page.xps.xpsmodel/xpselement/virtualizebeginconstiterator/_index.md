@@ -4,7 +4,7 @@ linktitle: virtualizeBeginConstIterator
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsElement::virtualizeBeginConstIterator method. Gets iterator pointing to the first element (if any)of the const-qualified instance of the collection in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/aspose.page.xps.xpsmodel/xpselement/virtualizebeginconstiterator/
 ---
 ## XpsElement::virtualizeBeginConstIterator method

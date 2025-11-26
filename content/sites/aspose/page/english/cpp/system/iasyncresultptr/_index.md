@@ -4,7 +4,7 @@ linktitle: IAsyncResultPtr
 second_title: Aspose.Page for C++
 description: 'System::IAsyncResultPtr typedef. Shared pointer to IAsyncResult in C++.'
 type: docs
-weight: 11700
+weight: 12100
 url: /cpp/system/iasyncresultptr/
 ---
 ## IAsyncResultPtr typedef

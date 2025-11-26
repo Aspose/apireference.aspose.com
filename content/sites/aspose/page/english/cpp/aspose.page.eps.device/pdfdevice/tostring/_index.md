@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::ToString method. Returns the name of device type in C++.'
 type: docs
-weight: 6000
+weight: 6100
 url: /cpp/aspose.page.eps.device/pdfdevice/tostring/
 ---
 ## PdfDevice::ToString method

@@ -4,7 +4,7 @@ linktitle: WriteTransform
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::WriteTransform method. Write the given transformation matrix to the file in C++.'
 type: docs
-weight: 7800
+weight: 7900
 url: /cpp/aspose.page.eps.device/pdfdevice/writetransform/
 ---
 ## PdfDevice::WriteTransform method

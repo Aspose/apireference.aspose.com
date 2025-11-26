@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.xpsmodel/xpspathfigure/
 Class incapsulating PathFigure element features. This element is composed of a set of one or more line or curve segments.
 
 ```cpp
-class XpsPathFigure : public Aspose::Page::XPS::XpsModel::XpsArray<System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsPathSegment>>
+class XpsPathFigure : public Aspose::Page::XPS::XpsModel::XpsArray<System::SharedPtr<XpsPathSegment>>
 ```
 
 ## Methods

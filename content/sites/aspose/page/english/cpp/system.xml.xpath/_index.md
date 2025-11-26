@@ -4,7 +4,7 @@ linktitle: System::Xml::XPath
 second_title: Aspose.Page for C++
 description: 'How to use System::Xml::XPath namespace in C++.'
 type: docs
-weight: 7700
+weight: 7800
 url: /cpp/system.xml.xpath/
 ---
 

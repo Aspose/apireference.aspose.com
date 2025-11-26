@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.xpsmodel/xpsarray/remove/
 Removes an object from array.
 
 ```cpp
-T Aspose::Page::XPS::XpsModel::XpsArray<typename>::Remove(T obj)
+T Aspose::Page::XPS::XpsModel::XpsArray<T>::Remove(T obj)
 ```
 
 

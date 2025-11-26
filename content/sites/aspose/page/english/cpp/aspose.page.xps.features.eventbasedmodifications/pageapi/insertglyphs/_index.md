@@ -7,20 +7,20 @@ type: docs
 weight: 3000
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/insertglyphs/
 ---
-## PageAPI::InsertGlyphs(int32_t, System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsFont\>, float, float, float, System::String) method
+## PageAPI::InsertGlyphs(int32_t, System::SharedPtr\<XpsModel::XpsFont\>, float, float, float, System::String) method
 
 
 Inserts new glyphs to the page at *index*  position.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsGlyphs> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::InsertGlyphs(int32_t index, System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsFont> font, float fontSize, float originX, float originY, System::String unicodeString)
+System::SharedPtr<XpsModel::XpsGlyphs> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::InsertGlyphs(int32_t index, System::SharedPtr<XpsModel::XpsFont> font, float fontSize, float originX, float originY, System::String unicodeString)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | Position at which new glyphs should be inserted. |
-| font | System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsFont\> | [Font](../../../aspose.page.font/) resource. |
+| font | System::SharedPtr\<XpsModel::XpsFont\> | [Font](../../../aspose.page.font/) resource. |
 | fontSize | float | [Font](../../../aspose.page.font/) size. |
 | originX | float | Glyphs origin X coordinate. |
 | originY | float | Glyphs origin Y coordinate. |
@@ -45,7 +45,7 @@ Inserted glyphs.
 Inserts new glyphs to the page at *index*  position.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsGlyphs> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::InsertGlyphs(int32_t index, System::String fontFamily, float fontSize, System::Drawing::FontStyle fontStyle, float originX, float originY, System::String unicodeString)
+System::SharedPtr<XpsModel::XpsGlyphs> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::InsertGlyphs(int32_t index, System::String fontFamily, float fontSize, System::Drawing::FontStyle fontStyle, float originX, float originY, System::String unicodeString)
 ```
 
 

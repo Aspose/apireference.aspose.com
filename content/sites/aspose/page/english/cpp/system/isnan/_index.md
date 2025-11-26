@@ -4,7 +4,7 @@ linktitle: IsNaN
 second_title: Aspose.Page for C++
 description: 'System::IsNaN method. Determines if the specified value is Not-A-Number value in C++.'
 type: docs
-weight: 20500
+weight: 22700
 url: /cpp/system/isnan/
 ---
 ## System::IsNaN method

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createpolylin
 Creates a new polygonal drawing containing an arbitrary number of individual vertices.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsPolyLineSegment> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePolyLineSegment(System::ArrayPtr<System::Drawing::PointF> points, bool isStroked=true)
+System::SharedPtr<XpsModel::XpsPolyLineSegment> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePolyLineSegment(System::ArrayPtr<System::Drawing::PointF> points, bool isStroked=true)
 ```
 
 

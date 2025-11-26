@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/pageconstants/margins_large/
 "Large" page margins value
 
 ```cpp
-static const System::String & Aspose::Page::EPS::PageConstants::MARGINS_LARGE()
+static System::String & Aspose::Page::EPS::PageConstants::MARGINS_LARGE()
 ```
 
 ## See Also

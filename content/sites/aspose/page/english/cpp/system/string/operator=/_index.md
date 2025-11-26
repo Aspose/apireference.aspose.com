@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'System::String::operator= method. Assignment operator in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/system/string/operator=/
 ---
 ## String::operator=(const String\&) method

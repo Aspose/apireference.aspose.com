@@ -4,7 +4,7 @@ linktitle: CompareTo
 second_title: Aspose.Page for C++
 description: 'System::String::CompareTo method. Compares two strings in ''less-equals-more'' style. Uses current culture in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system/string/compareto/
 ---
 ## String::CompareTo method

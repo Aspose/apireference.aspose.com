@@ -4,7 +4,7 @@ linktitle: UpdatePageParameters
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::UpdatePageParameters method. Updates page parameters from other multi-paged device in C++.'
 type: docs
-weight: 6300
+weight: 6400
 url: /cpp/aspose.page.eps.device/pdfdevice/updatepageparameters/
 ---
 ## PdfDevice::UpdatePageParameters method

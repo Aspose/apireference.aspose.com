@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/creategradien
 Creates a new gradient stop.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsGradientStop> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateGradientStop(System::Drawing::Color color, float offset)
+System::SharedPtr<XpsModel::XpsGradientStop> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateGradientStop(System::Drawing::Color color, float offset)
 ```
 
 
@@ -34,19 +34,19 @@ New gradient stop.
 * Class [PageAPI](../)
 * Namespace [Aspose::Page::XPS::Features::EventBasedModifications](../../)
 * Library [Aspose.Page for C++](../../../)
-## PageAPI::CreateGradientStop(System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsColor\>, float) method
+## PageAPI::CreateGradientStop(System::SharedPtr\<XpsModel::XpsColor\>, float) method
 
 
 Creates a new gradient stop.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsGradientStop> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateGradientStop(System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsColor> color, float offset)
+System::SharedPtr<XpsModel::XpsGradientStop> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateGradientStop(System::SharedPtr<XpsModel::XpsColor> color, float offset)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color | System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsColor\> | The gradient stop color. |
+| color | System::SharedPtr\<XpsModel::XpsColor\> | The gradient stop color. |
 | offset | float | The gradient offset. |
 
 ### ReturnValue

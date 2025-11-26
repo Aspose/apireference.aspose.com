@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.xpsmetadata/selectiontype/pickone/
 PickOne value.
 
 ```cpp
-static System::SharedPtr<SelectionType> & Aspose::Page::XPS::XpsMetadata::SelectionType::PickOne()
+static System::SharedPtr<Aspose::Page::XPS::XpsMetadata::SelectionType> & Aspose::Page::XPS::XpsMetadata::SelectionType::PickOne()
 ```
 
 ## See Also

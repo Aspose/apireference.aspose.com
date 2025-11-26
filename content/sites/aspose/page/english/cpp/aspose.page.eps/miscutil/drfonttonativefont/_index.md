@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/miscutil/drfonttonativefont/
 
 
 ```cpp
-static System::SharedPtr<System::Drawing::Font> Aspose::Page::EPS::MiscUtil::DrFontToNativeFont(System::SharedPtr<Aspose::Foundation::Drawing::DrFont> drFont)
+static System::SharedPtr<System::Drawing::Font> Aspose::Page::EPS::MiscUtil::DrFontToNativeFont(System::SharedPtr<Foundation::Drawing::DrFont> drFont)
 ```
 
 ## See Also

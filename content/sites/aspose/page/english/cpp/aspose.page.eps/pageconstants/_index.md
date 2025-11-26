@@ -29,7 +29,7 @@ class PageConstants : public System::Object
 | static [GetMargins](./getmargins/)(System::SharedPtr\<Margins\>, System::String) | Calculate page margins мфдгуы in specified orientation |
 | static [GetSize](./getsize/)(const System::String\&) | Calculates page size in "Portrait" page orientation |
 | static [GetSize](./getsize/)(const System::String\&, const System::String\&) | Calculates page size in given page orientation |
-| static [GetSize](./getsize/)(Aspose::Page::Drawing::Size, System::String) | Calculates page size in given page orientation |
+| static [GetSize](./getsize/)(Drawing::Size, System::String) | Calculates page size in given page orientation |
 | static [MARGINS_LARGE](./margins_large/)() | "Large" page margins value |
 | static [MARGINS_MEDIUM](./margins_medium/)() | "Medium" page margins value |
 | static [MARGINS_SMALL](./margins_small/)() | "Small" page margins value |
@@ -39,6 +39,7 @@ class PageConstants : public System::Object
 | static [ORIENTATION_LANDSCAPE](./orientation_landscape/)() | "Landscape" orientation value |
 | static [ORIENTATION_PORTRAIT](./orientation_portrait/)() | "Portrait" orientation value |
 | static [PAGE_MARGINS](./page_margins/)() | [Page](../../aspose.page/) margins key. |
+| static [PAGE_SIZE_](./page_size_/)() | [Page](../../aspose.page/) size key. |
 | static [SIZE_A3](./size_a3/)() | "A3" page size value |
 | static [SIZE_A4](./size_a4/)() | "A4" page size value |
 | static [SIZE_A5](./size_a5/)() | "A5" page size value |
@@ -53,7 +54,6 @@ class PageConstants : public System::Object
 
 | Field | Description |
 | --- | --- |
-| static [PAGE_SIZE_](./page_size_/) | [Page](../../aspose.page/) size key. |
 | static [VIEWING_ORIENTATION](./viewing_orientation/) | Viewing orientation key, for rotation matrix distinguishing orientation of content on the page. The default viewing orientation matrix is identity. |
 ## See Also
 

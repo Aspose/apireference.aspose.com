@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/creatematrix/
 Creates a new affine transformation matrix.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsMatrix> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateMatrix(float m11, float m12, float m21, float m22, float m31, float m32)
+System::SharedPtr<XpsModel::XpsMatrix> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateMatrix(float m11, float m12, float m21, float m22, float m31, float m32)
 ```
 
 

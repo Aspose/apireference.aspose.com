@@ -16,9 +16,6 @@ Gets xml:lang qualifier.
 static System::SharedPtr<XmpField> Aspose::Page::EPS::XMP::XmpField::get_Lang()
 ```
 
-
-
-
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)

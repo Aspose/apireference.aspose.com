@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/pageconstants/orientation_portrait/
 "Portrait" orientation value
 
 ```cpp
-static const System::String & Aspose::Page::EPS::PageConstants::ORIENTATION_PORTRAIT()
+static System::String & Aspose::Page::EPS::PageConstants::ORIENTATION_PORTRAIT()
 ```
 
 ## See Also

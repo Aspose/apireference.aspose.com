@@ -4,7 +4,7 @@ linktitle: IsNormalized
 second_title: Aspose.Page for C++
 description: 'System::String::IsNormalized method. Checks if unicode string is normalized using normalization form specified in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/system/string/isnormalized/
 ---
 ## String::IsNormalized method

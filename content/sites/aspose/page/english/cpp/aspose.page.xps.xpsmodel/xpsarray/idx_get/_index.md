@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.xpsmodel/xpsarray/idx_get/
 Provides access to array's element by index *i* .
 
 ```cpp
-T Aspose::Page::XPS::XpsModel::XpsArray<typename>::idx_get(int32_t i)
+T Aspose::Page::XPS::XpsModel::XpsArray<T>::idx_get(int32_t i)
 ```
 
 

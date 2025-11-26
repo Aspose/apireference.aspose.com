@@ -4,7 +4,7 @@ linktitle: WeakPtr
 second_title: Aspose.Page for C++
 description: 'System::WeakPtr class. Subclass of System::SmartPtr which sets itself to weak mode at construction. Please note that this class doesn''t guarantee that its instance will always remain in weak mode as set_Mode() is still accessible. This type is a pointer to manage other object''s deletion. It should be allocated on stack and passed to functions either by value or by const reference in C++.'
 type: docs
-weight: 7200
+weight: 7500
 url: /cpp/system/weakptr/
 ---
 ## WeakPtr class
@@ -26,7 +26,7 @@ template<class T>class WeakPtr : public System::SmartPtr<T>
 | --- | --- |
 | [expired](./expired/)() const | Checks if referenced object was already deleted. |
 | [get_weak](./get_weak/)() const | Gets referenced object. Asserts that pointer is in weak mode. |
-| [operator=](./operator=/)(Q\&&) | Assigns value to weak pointer. Calls into specific assignment operator of SmartPtr_. |
+| [operator=](./operator=/)(Q\&&) | Assigns value to weak pointer. Calls into specific assignment operator of [SmartPtr_](./smartptr_/). |
 | [operator==](./operator==/)(std::nullptr_t) const | Checks if weak pointer is null. |
 | [WeakPtr](./weakptr/)(std::nullptr_t) | Creates null pointer. |
 | [WeakPtr](./weakptr/)(Pointee_ *) | Creates weak pointer to given object. |

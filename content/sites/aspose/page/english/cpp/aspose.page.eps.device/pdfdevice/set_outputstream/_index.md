@@ -4,7 +4,7 @@ linktitle: set_OutputStream
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::set_OutputStream method. Specifies or returns an output stream in C++.'
 type: docs
-weight: 5000
+weight: 5100
 url: /cpp/aspose.page.eps.device/pdfdevice/set_outputstream/
 ---
 ## PdfDevice::set_OutputStream method

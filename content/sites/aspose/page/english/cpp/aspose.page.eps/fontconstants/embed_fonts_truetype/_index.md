@@ -13,7 +13,7 @@ url: /cpp/aspose.page.eps/fontconstants/embed_fonts_truetype/
 "TrueType" font type value for "EMBED_FONTS_AS" key
 
 ```cpp
-static const System::String & Aspose::Page::EPS::FontConstants::EMBED_FONTS_TRUETYPE()
+static System::String & Aspose::Page::EPS::FontConstants::EMBED_FONTS_TRUETYPE()
 ```
 
 ## See Also

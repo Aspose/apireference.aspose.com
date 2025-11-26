@@ -10,7 +10,7 @@ url: /cpp/aspose.page.eps/psdocument/converttype3fonttottf/
 ## PsDocument::ConvertType3FontToTTF(System::String, System::SharedPtr\<System::IO::Stream\>) method
 
 
-Converts Type 3 font to [TrueType](../../../aspose.truetype/) stream.
+Converts Type 3 font to **TrueType** stream.
 
 ```cpp
 void Aspose::Page::EPS::PsDocument::ConvertType3FontToTTF(System::String type3FontFilePath, System::SharedPtr<System::IO::Stream> outputStream)
@@ -20,7 +20,7 @@ void Aspose::Page::EPS::PsDocument::ConvertType3FontToTTF(System::String type3Fo
 | Parameter | Type | Description |
 | --- | --- | --- |
 | type3FontFilePath | System::String | The Type 3 font file path. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Output stream where to save resulting [TrueType](../../../aspose.truetype/) font. |
+| outputStream | System::SharedPtr\<System::IO::Stream\> | Output stream where to save resulting **TrueType** font. |
 
 ## See Also
 
@@ -33,7 +33,7 @@ void Aspose::Page::EPS::PsDocument::ConvertType3FontToTTF(System::String type3Fo
 ## PsDocument::ConvertType3FontToTTF(System::String, System::String) method
 
 
-Converts Type 3 font to [TrueType](../../../aspose.truetype/). The name of the converted TTF font will be the same as input Type 3 font file with ".ttf" extension. TTF file will be saved to assigned output directory.
+Converts Type 3 font to **TrueType**. The name of the converted TTF font will be the same as input Type 3 font file with ".ttf" extension. TTF file will be saved to assigned output directory.
 
 ```cpp
 void Aspose::Page::EPS::PsDocument::ConvertType3FontToTTF(System::String type3FontFilePath, System::String outputDir)
@@ -43,7 +43,7 @@ void Aspose::Page::EPS::PsDocument::ConvertType3FontToTTF(System::String type3Fo
 | Parameter | Type | Description |
 | --- | --- | --- |
 | type3FontFilePath | System::String | The Type 3 font file path. |
-| outputDir | System::String | Output dir where to save resulting [TrueType](../../../aspose.truetype/) font. |
+| outputDir | System::String | Output dir where to save resulting **TrueType** font. |
 
 ## See Also
 

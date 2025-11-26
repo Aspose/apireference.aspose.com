@@ -4,7 +4,7 @@ linktitle: SharedPtr
 second_title: Aspose.Page for C++
 description: 'System::SharedPtr typedef. Alias for smart pointer widely used in the library in C++.'
 type: docs
-weight: 12200
+weight: 12700
 url: /cpp/system/sharedptr/
 ---
 ## SharedPtr typedef

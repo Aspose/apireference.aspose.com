@@ -4,7 +4,7 @@ linktitle: Fill
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::Fill method. Fills a path in C++.'
 type: docs
-weight: 3100
+weight: 3200
 url: /cpp/aspose.page.eps.device/pdfdevice/fill/
 ---
 ## PdfDevice::Fill method

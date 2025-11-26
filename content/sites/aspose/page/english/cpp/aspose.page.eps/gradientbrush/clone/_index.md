@@ -13,13 +13,13 @@ url: /cpp/aspose.page.eps/gradientbrush/clone/
 Clones this brush.
 
 ```cpp
-System::SharedPtr<System::Drawing::Brush> Aspose::Page::EPS::GradientBrush::Clone() override
+System::SharedPtr<System::Object> Aspose::Page::EPS::GradientBrush::Clone() override
 ```
 
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Brush](../../../system.drawing/brush/)
+* Class [Object](../../../system/object/)
 * Class [GradientBrush](../)
 * Namespace [Aspose::Page::EPS](../../)
 * Library [Aspose.Page for C++](../../../)

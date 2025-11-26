@@ -4,7 +4,7 @@ linktitle: FillLastClip
 second_title: Aspose.Page for C++
 description: 'How to use FillLastClip method of Aspose::Page::EPS::Device::PdfDevice class in C++.'
 type: docs
-weight: 3200
+weight: 3300
 url: /cpp/aspose.page.eps.device/pdfdevice/filllastclip/
 ---
 ## PdfDevice::FillLastClip method

@@ -4,7 +4,7 @@ linktitle: ApartmentState
 second_title: Aspose.Page for C++
 description: 'System::Threading::ApartmentState enum. Sets apartment state of the thread in C++.'
 type: docs
-weight: 1400
+weight: 1800
 url: /cpp/system.threading/apartmentstate/
 ---
 ## ApartmentState enum

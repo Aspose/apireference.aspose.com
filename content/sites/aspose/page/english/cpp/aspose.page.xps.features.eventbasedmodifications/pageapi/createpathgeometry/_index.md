@@ -13,7 +13,7 @@ url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createpathgeo
 Creates a new path geometry.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsPathGeometry> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePathGeometry()
+System::SharedPtr<XpsModel::XpsPathGeometry> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePathGeometry()
 ```
 
 
@@ -32,19 +32,19 @@ New path geometry.
 * Class [PageAPI](../)
 * Namespace [Aspose::Page::XPS::Features::EventBasedModifications](../../)
 * Library [Aspose.Page for C++](../../../)
-## PageAPI::CreatePathGeometry(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsPathFigure\>\>\>) method
+## PageAPI::CreatePathGeometry(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<XpsModel::XpsPathFigure\>\>\>) method
 
 
 Creates a new path geometry with specified list of path figures.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsPathGeometry> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePathGeometry(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsPathFigure>>> pathFigures)
+System::SharedPtr<XpsModel::XpsPathGeometry> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePathGeometry(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<XpsModel::XpsPathFigure>>> pathFigures)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pathFigures | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsPathFigure\>\>\> | List of path figures. |
+| pathFigures | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<XpsModel::XpsPathFigure\>\>\> | List of path figures. |
 
 ### ReturnValue
 
@@ -65,7 +65,7 @@ New path geometry.
 Creates a new path geometry specified with abbreviated form.
 
 ```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsPathGeometry> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePathGeometry(System::String abbreviatedGeometry)
+System::SharedPtr<XpsModel::XpsPathGeometry> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePathGeometry(System::String abbreviatedGeometry)
 ```
 
 

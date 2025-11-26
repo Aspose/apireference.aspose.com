@@ -4,7 +4,7 @@ linktitle: StartDocument
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::StartDocument method. Makes necessary preparation of device before start rendering of document in C++.'
 type: docs
-weight: 5900
+weight: 6000
 url: /cpp/aspose.page.eps.device/pdfdevice/startdocument/
 ---
 ## PdfDevice::StartDocument method

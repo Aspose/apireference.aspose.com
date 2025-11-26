@@ -4,7 +4,7 @@ linktitle: GetFinalWrittenLength
 second_title: Aspose.Page for C++
 description: 'How to use GetFinalWrittenLength method of Aspose::Page::EPS::Device::PdfDevice class in C++.'
 type: docs
-weight: 3700
+weight: 3800
 url: /cpp/aspose.page.eps.device/pdfdevice/getfinalwrittenlength/
 ---
 ## PdfDevice::GetFinalWrittenLength method

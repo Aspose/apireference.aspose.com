@@ -20,7 +20,7 @@ class MiscUtil : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [DrFontToNativeFont](./drfonttonativefont/)(System::SharedPtr\<Aspose::Foundation::Drawing::DrFont\>) |  |
+| static [DrFontToNativeFont](./drfonttonativefont/)(System::SharedPtr\<Foundation::Drawing::DrFont\>) |  |
 ## See Also
 
 * Class [Object](../../system/object/)

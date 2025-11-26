@@ -53,8 +53,6 @@ void Aspose::Page::EPS::PsDocument::OutlineText(System::String text, System::Arr
 | y | float | Y coordinate for text origin. |
 | stroke | System::SharedPtr\<System::Drawing::Pen\> | The stroke used for drawing glyphs outlines. |
 
-
-
 ## See Also
 
 * Class [String](../../../system/string/)
@@ -163,8 +161,6 @@ void Aspose::Page::EPS::PsDocument::OutlineText(System::String text, System::Sha
 | x | float | X coordinate for text origin. |
 | y | float | Y coordinate for text origin. |
 | stroke | System::SharedPtr\<System::Drawing::Pen\> | The stroke used for drawing glyphs outlines. |
-
-
 
 ## See Also
 

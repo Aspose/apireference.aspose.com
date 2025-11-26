@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.Page for C++
 description: 'System::String::IndexOf method. Character forward lookup in substring in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/system/string/indexof/
 ---
 ## String::IndexOf(char_t, int, int) const method

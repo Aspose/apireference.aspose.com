@@ -10,7 +10,7 @@ url: /cpp/aspose.page.xps.xpsmetadata/pagetruetypefontmode/pagetruetypefontmodeo
 ## DownloadAsOutlineFont field
 
 
-[TrueType](../../../../aspose.truetype/) font is downloaded as outline font.
+**TrueType** font is downloaded as outline font.
 
 ```cpp
 static System::SharedPtr<PageTrueTypeFontMode::PageTrueTypeFontModeOption> Aspose::Page::XPS::XpsMetadata::PageTrueTypeFontMode::PageTrueTypeFontModeOption::DownloadAsOutlineFont
