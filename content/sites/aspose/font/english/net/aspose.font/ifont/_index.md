@@ -20,8 +20,8 @@ public interface IFont
 | --- | --- |
 | [Encoding](../../aspose.font/ifont/encoding/) { get; } | Gets Font encoding. |
 | [FontDefinition](../../aspose.font/ifont/fontdefinition/) { get; } | Gets Font definition. |
-| [FontFamily](../../aspose.font/ifont/fontfamily/) { get; set; } | Gets or Sets Font family. |
-| [FontName](../../aspose.font/ifont/fontname/) { get; set; } | Gets or Sets Font face name. |
+| [FontFamily](../../aspose.font/ifont/fontfamily/) { get; set; } | Gets or sets Font family. |
+| [FontName](../../aspose.font/ifont/fontname/) { get; set; } | Gets or sets Font face name. |
 | [FontNames](../../aspose.font/ifont/fontnames/) { get; } | Gets Font names. |
 | [FontSaver](../../aspose.font/ifont/fontsaver/) { get; } | Gets Font save functionality. |
 | [FontStyle](../../aspose.font/ifont/fontstyle/) { get; } | Gets Font style. This is a value computed and represented in generalized type. |
@@ -30,7 +30,7 @@ public interface IFont
 | [Metrics](../../aspose.font/ifont/metrics/) { get; } | Gets Font metrics. |
 | [NumGlyphs](../../aspose.font/ifont/numglyphs/) { get; } | Gets number of glyphs in the Font. |
 | [PostscriptNames](../../aspose.font/ifont/postscriptnames/) { get; } | Gets postscript Font names. |
-| [Style](../../aspose.font/ifont/style/) { get; set; } | Gets or Sets Font style. This is a raw string value provided by Font file. |
+| [Style](../../aspose.font/ifont/style/) { get; set; } | Gets or sets Font style. This is a raw string value provided by Font file. |
 
 ## Methods
 

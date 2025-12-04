@@ -30,6 +30,7 @@ is_root: true
 | [Aspose.Font.TtfHelpers](./aspose.font.ttfhelpers/) | The **Aspose.Font.TtfHelpers** namespace provides classes and interfaces for work with expanded functionality on TTF font objects |
 | [Aspose.Font.TtfTables](./aspose.font.ttftables/) | The **Aspose.Font.TtfTables** namespace provides classes for work with different tables of TrueType format. |
 | [Aspose.Font.Type1](./aspose.font.type1/) | The **Aspose.Font.Type1** namespace provides classes describing objects related to Type1 Font format. |
+| [Aspose.Font.Utils](./aspose.font.utils/) | Documentation placeholder for the `Aspose.Font.Utils` namespace. |
 | [Aspose.Font.WoffExceptions](./aspose.font.woffexceptions/) | The **Aspose.Font.WoffExceptions** namespace provides exceptions classes related to WOFF Font format. |
 
 
