@@ -1,14 +1,12 @@
 ---
 title: ResourceAssignment.Stop
 second_title: Aspose.Tasks for .NET API Reference
-description: ResourceAssignment property. Gets or sets a value of Stop
+description: ResourceAssignment property. 
 type: docs
 weight: 560
 url: /net/aspose.tasks/resourceassignment/stop/
 ---
 ## ResourceAssignment.Stop property
-
-Gets or sets a value of Stop.
 
 ```csharp
 public DateTime Stop { get; set; }

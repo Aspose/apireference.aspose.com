@@ -1,14 +1,12 @@
 ---
 title: VisualObjectPlacement.BorderLineThickness
 second_title: Aspose.Tasks for .NET API Reference
-description: VisualObjectPlacement property. Gets or sets border line thickness allowed values are 0  5
+description: VisualObjectPlacement property. 
 type: docs
 weight: 40
 url: /net/aspose.tasks.visualization/visualobjectplacement/borderlinethickness/
 ---
 ## VisualObjectPlacement.BorderLineThickness property
-
-Gets or sets border line thickness (allowed values are 0 - 5).
 
 ```csharp
 public byte BorderLineThickness { get; set; }

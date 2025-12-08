@@ -1,14 +1,12 @@
 ---
 title: PrimaveraProjectProperties.IgnoreOtherProjectRelationships
 second_title: Aspose.Tasks for .NET API Reference
-description: PrimaveraProjectProperties property. Gets a flag which defines whether to ignore activity relationships between projects
+description: PrimaveraProjectProperties property. 
 type: docs
-weight: 30
+weight: 50
 url: /net/aspose.tasks/primaveraprojectproperties/ignoreotherprojectrelationships/
 ---
 ## PrimaveraProjectProperties.IgnoreOtherProjectRelationships property
-
-Gets a flag which defines whether to ignore activity relationships between projects.
 
 ```csharp
 public bool IgnoreOtherProjectRelationships { get; }

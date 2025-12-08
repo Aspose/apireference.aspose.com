@@ -1,27 +1,16 @@
 ---
 title: View.op_GreaterThanOrEqual
 second_title: Aspose.Tasks for .NET API Reference
-description: View method. Returns a value indicating whether this instance is greater than or equal to a specified object
+description: View method. 
 type: docs
 weight: 190
 url: /net/aspose.tasks/view/op_greaterthanorequal/
 ---
 ## View GreaterThanOrEqual operator
 
-Returns a value indicating whether this instance is greater than or equal to a specified object.
-
 ```csharp
 public static bool operator >=(View a, View b)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| a | View | The first view. |
-| b | View | The second view. |
-
-### Return Value
-
-a value indicating whether this instance is greater than or equal to a specified object
 
 ### See Also
 

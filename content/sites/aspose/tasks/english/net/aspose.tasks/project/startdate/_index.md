@@ -1,14 +1,12 @@
 ---
 title: Project.StartDate
 second_title: Aspose.Tasks for .NET API Reference
-description: Project property. Gets or sets a value of StartDate
+description: Project property. 
 type: docs
 weight: 860
 url: /net/aspose.tasks/project/startdate/
 ---
 ## Project.StartDate property
-
-Gets or sets a value of StartDate.
 
 ```csharp
 public DateTime StartDate { get; set; }

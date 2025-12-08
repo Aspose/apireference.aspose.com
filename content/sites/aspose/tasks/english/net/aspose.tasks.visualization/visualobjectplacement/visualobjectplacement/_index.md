@@ -1,14 +1,14 @@
 ---
 title: VisualObjectPlacement.VisualObjectPlacement
 second_title: Aspose.Tasks for .NET API Reference
-description: VisualObjectPlacement constructor. Initializes a new instance of the VisualObjectPlacement class
+description: VisualObjectPlacement constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.tasks.visualization/visualobjectplacement/visualobjectplacement/
 ---
 ## VisualObjectPlacement constructor
 
-Initializes a new instance of the [`VisualObjectPlacement`](../) class.
+The default constructor.
 
 ```csharp
 public VisualObjectPlacement()

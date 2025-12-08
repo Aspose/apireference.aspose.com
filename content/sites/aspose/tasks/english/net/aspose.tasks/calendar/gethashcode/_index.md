@@ -1,22 +1,16 @@
 ---
 title: Calendar.GetHashCode
 second_title: Aspose.Tasks for .NET API Reference
-description: Calendar method. Returns a hash code for the instance of the class
+description: Calendar method. 
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.tasks/calendar/gethashcode/
 ---
 ## Calendar.GetHashCode method
 
-Returns a hash code for the instance of the class.
-
 ```csharp
 public override int GetHashCode()
 ```
-
-### Return Value
-
-a hash code for this object.
 
 ### See Also
 

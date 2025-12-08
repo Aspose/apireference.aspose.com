@@ -1,14 +1,12 @@
 ---
 title: Task.OvertimeCost
 second_title: Aspose.Tasks for .NET API Reference
-description: Task property. Gets or sets a value of OvertimeCost
+description: Task property. 
 type: docs
 weight: 910
 url: /net/aspose.tasks/task/overtimecost/
 ---
 ## Task.OvertimeCost property
-
-Gets or sets a value of OvertimeCost.
 
 ```csharp
 public decimal OvertimeCost { get; set; }

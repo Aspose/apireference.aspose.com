@@ -1,14 +1,12 @@
 ---
 title: Class FontDescriptor
 second_title: Aspose.Tasks for .NET API Reference
-description: Aspose.Tasks.Visualization.FontDescriptor class. Represents font information
+description: Aspose.Tasks.Visualization.FontDescriptor class. 
 type: docs
-weight: 2930
+weight: 2960
 url: /net/aspose.tasks.visualization/fontdescriptor/
 ---
 ## FontDescriptor class
-
-Represents font information.
 
 ```csharp
 public sealed class FontDescriptor
@@ -18,17 +16,17 @@ public sealed class FontDescriptor
 
 | Name | Description |
 | --- | --- |
-| [FontDescriptor](fontdescriptor/#constructor)(FontDescriptor, FontStyles) | Initializes a new instance of the `FontDescriptor` class with the specified font and style. |
-| [FontDescriptor](fontdescriptor/#constructor_1)(string, float) | Initializes a new instance of the `FontDescriptor` class with the specified font family and size. |
-| [FontDescriptor](fontdescriptor/#constructor_2)(string, float, FontStyles) | Initializes a new instance of the `FontDescriptor` class with the specified font family, size and style. |
+| [FontDescriptor](fontdescriptor/#constructor)(FontDescriptor, FontStyles) |  |
+| [FontDescriptor](fontdescriptor/#constructor_1)(string, float) |  |
+| [FontDescriptor](fontdescriptor/#constructor_2)(string, float, FontStyles) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FontFamily](../../aspose.tasks.visualization/fontdescriptor/fontfamily/) { get; } | Gets the name of the font's family. |
-| [Size](../../aspose.tasks.visualization/fontdescriptor/size/) { get; } | Gets size of the font. |
-| [Style](../../aspose.tasks.visualization/fontdescriptor/style/) { get; } | Gets style of the font. |
+| [FontFamily](../../aspose.tasks.visualization/fontdescriptor/fontfamily/) { get; } |  |
+| [Size](../../aspose.tasks.visualization/fontdescriptor/size/) { get; } |  |
+| [Style](../../aspose.tasks.visualization/fontdescriptor/style/) { get; } |  |
 
 ### See Also
 

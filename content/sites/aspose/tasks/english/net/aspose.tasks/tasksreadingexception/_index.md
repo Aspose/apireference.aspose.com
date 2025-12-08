@@ -1,14 +1,12 @@
 ---
 title: Class TasksReadingException
 second_title: Aspose.Tasks for .NET API Reference
-description: Aspose.Tasks.TasksReadingException class. Represents the standard internal reading exception type
+description: Aspose.Tasks.TasksReadingException class. 
 type: docs
-weight: 2460
+weight: 2490
 url: /net/aspose.tasks/tasksreadingexception/
 ---
 ## TasksReadingException class
-
-Represents the standard internal reading exception type.
 
 ```csharp
 public class TasksReadingException : TasksLoggedException
@@ -18,32 +16,8 @@ public class TasksReadingException : TasksLoggedException
 
 | Name | Description |
 | --- | --- |
-| [LogText](../../aspose.tasks/tasksloggedexception/logtext/) { get; } | Gets the exception logging information. |
-| [Operation](../../aspose.tasks/tasksloggedexception/operation/) { get; } | Gets the exception operation information. |
-
-## Examples
-
-Shows how to handle project' reading/writing exceptions.
-
-```csharp
-try
-{
-    var project = new Project(DataDir + "project.mpp");
-    project.Save(OutDir + "HandleExceptions_out.mpp", SaveFileFormat.Mpp);
-}
-catch (TasksReadingException ex)
-{
-    Console.WriteLine("Message: ");
-    Console.WriteLine(ex.Message);
-    Console.WriteLine("Log: ");
-    Console.WriteLine(ex.LogText);
-    if (ex.InnerException != null)
-    {
-        Console.WriteLine("Inner exception message: ");
-        Console.WriteLine(ex.InnerException.Message);
-    }
-}
-```
+| [LogText](../../aspose.tasks/tasksloggedexception/logtext/) { get; } |  |
+| [Operation](../../aspose.tasks/tasksloggedexception/operation/) { get; } |  |
 
 ### See Also
 

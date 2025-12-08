@@ -1,14 +1,12 @@
 ---
 title: VisualObjectPlacement.BorderLineColor
 second_title: Aspose.Tasks for .NET API Reference
-description: VisualObjectPlacement property. Gets or sets border line color
+description: VisualObjectPlacement property. 
 type: docs
 weight: 30
 url: /net/aspose.tasks.visualization/visualobjectplacement/borderlinecolor/
 ---
 ## VisualObjectPlacement.BorderLineColor property
-
-Gets or sets border line color.
 
 ```csharp
 public Color BorderLineColor { get; set; }

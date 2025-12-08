@@ -1,14 +1,12 @@
 ---
 title: Resource.BCWS
 second_title: Aspose.Tasks for .NET API Reference
-description: Resource property. Gets or sets a value of BCWS
+description: Resource property. 
 type: docs
 weight: 180
 url: /net/aspose.tasks/resource/bcws/
 ---
 ## Resource.BCWS property
-
-Gets or sets a value of BCWS.
 
 ```csharp
 public double BCWS { get; set; }

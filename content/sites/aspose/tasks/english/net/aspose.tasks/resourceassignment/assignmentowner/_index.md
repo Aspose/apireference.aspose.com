@@ -1,14 +1,12 @@
 ---
 title: ResourceAssignment.AssignmentOwner
 second_title: Aspose.Tasks for .NET API Reference
-description: ResourceAssignment property. Gets or sets a value of AssignmentOwner
+description: ResourceAssignment property. 
 type: docs
 weight: 100
 url: /net/aspose.tasks/resourceassignment/assignmentowner/
 ---
 ## ResourceAssignment.AssignmentOwner property
-
-Gets or sets a value of AssignmentOwner.
 
 ```csharp
 public string AssignmentOwner { get; set; }

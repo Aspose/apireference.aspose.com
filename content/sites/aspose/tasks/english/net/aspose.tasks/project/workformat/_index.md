@@ -1,14 +1,12 @@
 ---
 title: Project.WorkFormat
 second_title: Aspose.Tasks for .NET API Reference
-description: Project property. Gets or sets a value of WorkFormat
+description: Project property. 
 type: docs
 weight: 1040
 url: /net/aspose.tasks/project/workformat/
 ---
 ## Project.WorkFormat property
-
-Gets or sets a value of WorkFormat.
 
 ```csharp
 public TimeUnitType WorkFormat { get; set; }

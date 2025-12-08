@@ -1,36 +1,15 @@
 ---
 title: Asn.OvertimeWork
 second_title: Aspose.Tasks for .NET API Reference
-description: Asn field. The scheduled overtime work of an assignment
+description: Asn field. 
 type: docs
 weight: 380
 url: /net/aspose.tasks/asn/overtimework/
 ---
 ## Asn.OvertimeWork field
 
-The scheduled overtime work of an assignment.
-
 ```csharp
 public static readonly Key<Duration, AsnKey> OvertimeWork;
-```
-
-## Examples
-
-Shows how to read overtime/remaining works/costs of an assignment.
-
-```csharp
-var project = new Project(DataDir + "ResourceAssignmentOvertimes.mpp");
-
-// Print assignment overtimes
-foreach (var ra in project.ResourceAssignments)
-{
-    Console.WriteLine(ra.Get(Asn.OvertimeWork).ToString());
-    Console.WriteLine(ra.Get(Asn.OvertimeCost));
-    Console.WriteLine(ra.Get(Asn.RemainingWork).ToString());
-    Console.WriteLine(ra.Get(Asn.RemainingCost));
-    Console.WriteLine(ra.Get(Asn.RemainingOvertimeWork).ToString());
-    Console.WriteLine(ra.Get(Asn.RemainingOvertimeCost));
-}
 ```
 
 ### See Also

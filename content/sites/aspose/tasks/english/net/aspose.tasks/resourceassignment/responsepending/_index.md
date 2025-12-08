@@ -1,14 +1,12 @@
 ---
 title: ResourceAssignment.ResponsePending
 second_title: Aspose.Tasks for .NET API Reference
-description: ResourceAssignment property. Gets or sets a value indicating whether ResponsePending is set or not
+description: ResourceAssignment property. 
 type: docs
 weight: 520
 url: /net/aspose.tasks/resourceassignment/responsepending/
 ---
 ## ResourceAssignment.ResponsePending property
-
-Gets or sets a value indicating whether ResponsePending is set or not.
 
 ```csharp
 public bool ResponsePending { get; set; }

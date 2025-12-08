@@ -1,14 +1,12 @@
 ---
 title: ResourceAssignment.HasFixedRateUnits
 second_title: Aspose.Tasks for .NET API Reference
-description: ResourceAssignment property. Gets or sets a value indicating whether HasFixedRateUnits is set or not
+description: ResourceAssignment property. 
 type: docs
 weight: 300
 url: /net/aspose.tasks/resourceassignment/hasfixedrateunits/
 ---
 ## ResourceAssignment.HasFixedRateUnits property
-
-Gets or sets a value indicating whether HasFixedRateUnits is set or not.
 
 ```csharp
 public bool HasFixedRateUnits { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: HtmlSaveOptions.PageSavingCallback
 second_title: Aspose.Tasks for .NET API Reference
-description: HtmlSaveOptions property. Gets or sets a userdefined callback which is used to get an output stream for each rendered page
+description: HtmlSaveOptions property. 
 type: docs
 weight: 140
 url: /net/aspose.tasks.saving/htmlsaveoptions/pagesavingcallback/
 ---
 ## HtmlSaveOptions.PageSavingCallback property
-
-Gets or sets a user-defined callback which is used to get an output stream for each rendered page.
 
 ```csharp
 public IPageSavingCallback PageSavingCallback { get; set; }

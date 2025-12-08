@@ -1,14 +1,12 @@
 ---
 title: Project.Category
 second_title: Aspose.Tasks for .NET API Reference
-description: Project property. Gets or sets a value of Category
+description: Project property. 
 type: docs
 weight: 140
 url: /net/aspose.tasks/project/category/
 ---
 ## Project.Category property
-
-Gets or sets a value of Category.
 
 ```csharp
 public string Category { get; set; }

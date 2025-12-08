@@ -1,35 +1,15 @@
 ---
 title: DbSettings.ConnectionString
 second_title: Aspose.Tasks for .NET API Reference
-description: DbSettings property. Gets or sets the connection string
+description: DbSettings property. 
 type: docs
 weight: 10
 url: /net/aspose.tasks.connectivity/dbsettings/connectionstring/
 ---
 ## DbSettings.ConnectionString property
 
-Gets or sets the connection string.
-
 ```csharp
 public string ConnectionString { get; set; }
-```
-
-## Examples
-
-Shows how to read a project from a Primavera XML file with multiple projects by using a provider name.
-
-```csharp
-var connectionString = "Data Source=" + DataDir + "\\PPMDBSQLite.db";
-
-// Create Primavera DB Settings using connection string and project id
-var settings = new PrimaveraDbSettings(connectionString, 4502);
-settings.ProviderInvariantName = "System.Data.SQLite";
-
-Console.WriteLine("Connection String: " + settings.ConnectionString);
-Console.WriteLine("Provider Name: " + settings.ProviderInvariantName);
-
-var project = new Project(settings);
-project.Save(OutDir + "SupportForSQLiteDatabase_out.mpp", SaveFileFormat.Mpp);
 ```
 
 ### See Also

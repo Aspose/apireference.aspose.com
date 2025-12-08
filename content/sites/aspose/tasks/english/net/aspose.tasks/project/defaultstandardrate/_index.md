@@ -1,14 +1,12 @@
 ---
 title: Project.DefaultStandardRate
 second_title: Aspose.Tasks for .NET API Reference
-description: Project property. Gets or sets a value of DefaultStandardRate
+description: Project property. 
 type: docs
 weight: 320
 url: /net/aspose.tasks/project/defaultstandardrate/
 ---
 ## Project.DefaultStandardRate property
-
-Gets or sets a value of DefaultStandardRate.
 
 ```csharp
 public double DefaultStandardRate { get; set; }

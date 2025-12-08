@@ -1,14 +1,12 @@
 ---
 title: PageSettings.PaperSizeId
 second_title: Aspose.Tasks for .NET API Reference
-description: PageSettings property. Gets or sets an integer representing one of the PrinterPaperSize values or a custom page size id. This value can be used to get PaperSize from OS settings 
+description: PageSettings property. 
 type: docs
 weight: 80
 url: /net/aspose.tasks.visualization/pagesettings/papersizeid/
 ---
 ## PageSettings.PaperSizeId property
-
-Gets or sets an integer representing one of the PrinterPaperSize values or a custom page size id. This value can be used to get PaperSize from OS settings .
 
 ```csharp
 public int PaperSizeId { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: Enum Legend
 second_title: Aspose.Tasks for .NET API Reference
-description: Aspose.Tasks.Visualization.Legend enum. Specifies the possible options used when rendering views legend
+description: Aspose.Tasks.Visualization.Legend enum. 
 type: docs
-weight: 3100
+weight: 3130
 url: /net/aspose.tasks.visualization/legend/
 ---
 ## Legend enumeration
-
-Specifies the possible options used when rendering view's legend.
 
 ```csharp
 public enum Legend
@@ -18,9 +16,9 @@ public enum Legend
 
 | Name | Value | Description |
 | --- | --- | --- |
-| NoLegend | `0` | No legend is rendered. |
-| AfterLastPage | `1` | The legend is rendered on a separate page after the last page of the project's pages. |
-| OnEveryPage | `2` | The legend is rendered on every page. |
+| NoLegend | `0` |  |
+| AfterLastPage | `1` |  |
+| OnEveryPage | `2` |  |
 
 ### See Also
 

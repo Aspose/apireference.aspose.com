@@ -1,14 +1,12 @@
 ---
 title: PrimaveraTaskProperties.SecondaryConstraintType
 second_title: Aspose.Tasks for .NET API Reference
-description: PrimaveraTaskProperties property. Gets a type of secondary constraint
+description: PrimaveraTaskProperties property. 
 type: docs
 weight: 330
 url: /net/aspose.tasks/primaverataskproperties/secondaryconstrainttype/
 ---
 ## PrimaveraTaskProperties.SecondaryConstraintType property
-
-Gets a type of secondary constraint.
 
 ```csharp
 public PrimaveraConstraintType SecondaryConstraintType { get; }

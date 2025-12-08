@@ -1,14 +1,12 @@
 ---
 title: Resource.Initials
 second_title: Aspose.Tasks for .NET API Reference
-description: Resource property. Gets or sets a value of Initials
+description: Resource property. 
 type: docs
 weight: 410
 url: /net/aspose.tasks/resource/initials/
 ---
 ## Resource.Initials property
-
-Gets or sets a value of Initials.
 
 ```csharp
 public string Initials { get; set; }

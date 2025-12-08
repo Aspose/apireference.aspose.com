@@ -1,14 +1,12 @@
 ---
 title: ResourceAssignment.Hyperlink
 second_title: Aspose.Tasks for .NET API Reference
-description: ResourceAssignment property. Gets or sets a value of Hyperlink
+description: ResourceAssignment property. 
 type: docs
 weight: 310
 url: /net/aspose.tasks/resourceassignment/hyperlink/
 ---
 ## ResourceAssignment.Hyperlink property
-
-Gets or sets a value of Hyperlink.
 
 ```csharp
 public string Hyperlink { get; set; }

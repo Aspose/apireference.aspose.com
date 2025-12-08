@@ -1,14 +1,12 @@
 ---
 title: ReadOnlyCollectionBase1.Count
 second_title: Aspose.Tasks for .NET API Reference
-description: ReadOnlyCollectionBase property. Gets the number of objects contained in the object
+description: ReadOnlyCollectionBase property. 
 type: docs
 weight: 10
 url: /net/aspose.tasks/readonlycollectionbase-1/count/
 ---
 ## ReadOnlyCollectionBase&lt;T&gt;.Count property
-
-Gets the number of objects contained in the object.
 
 ```csharp
 public int Count { get; }

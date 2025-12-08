@@ -1,14 +1,12 @@
 ---
 title: ResourceAssignment.HyperlinkSubAddress
 second_title: Aspose.Tasks for .NET API Reference
-description: ResourceAssignment property. Gets or sets a value of HyperlinkSubAddress
+description: ResourceAssignment property. 
 type: docs
 weight: 330
 url: /net/aspose.tasks/resourceassignment/hyperlinksubaddress/
 ---
 ## ResourceAssignment.HyperlinkSubAddress property
-
-Gets or sets a value of HyperlinkSubAddress.
 
 ```csharp
 public string HyperlinkSubAddress { get; set; }

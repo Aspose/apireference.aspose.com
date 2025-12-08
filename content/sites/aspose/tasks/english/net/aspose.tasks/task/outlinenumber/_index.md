@@ -1,14 +1,12 @@
 ---
 title: Task.OutlineNumber
 second_title: Aspose.Tasks for .NET API Reference
-description: Task property. Gets or sets a value of OutlineNumber
+description: Task property. 
 type: docs
 weight: 900
 url: /net/aspose.tasks/task/outlinenumber/
 ---
 ## Task.OutlineNumber property
-
-Gets or sets a value of OutlineNumber.
 
 ```csharp
 public string OutlineNumber { get; set; }

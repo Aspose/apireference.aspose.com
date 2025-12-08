@@ -1,14 +1,12 @@
 ---
 title: Enum WorkGroupType
 second_title: Aspose.Tasks for .NET API Reference
-description: Aspose.Tasks.WorkGroupType enum. Specifies the type of a workgroup
+description: Aspose.Tasks.WorkGroupType enum. 
 type: docs
-weight: 3540
+weight: 3570
 url: /net/aspose.tasks/workgrouptype/
 ---
 ## WorkGroupType enumeration
-
-Specifies the type of a workgroup.
 
 ```csharp
 public enum WorkGroupType
@@ -18,24 +16,10 @@ public enum WorkGroupType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Default | `0` | Indicates Default work group type. |
-| None | `1` | Indicates None work group type. |
-| Email | `2` | Indicates Email work group type. |
-| Web | `3` | Indicates Web work group type. |
-
-## Examples
-
-Shows how to set work group of a resource.
-
-```csharp
-var project = new Project();
-
-// ...
-var resource = project.Resources.Add("Resource");
-resource.Set(Rsc.Workgroup, WorkGroupType.Web);
-
-// ...
-```
+| Default | `0` |  |
+| None | `1` |  |
+| Email | `2` |  |
+| Web | `3` |  |
 
 ### See Also
 

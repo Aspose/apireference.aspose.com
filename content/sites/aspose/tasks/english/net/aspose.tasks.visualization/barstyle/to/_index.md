@@ -1,14 +1,12 @@
 ---
 title: BarStyle.To
 second_title: Aspose.Tasks for .NET API Reference
-description: BarStyle property. Gets or sets a finish point position of the gantt bar
+description: BarStyle property. 
 type: docs
 weight: 210
 url: /net/aspose.tasks.visualization/barstyle/to/
 ---
 ## BarStyle.To property
-
-Gets or sets a finish point position of the gantt bar.
 
 ```csharp
 public Field To { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: Project.Guid
 second_title: Aspose.Tasks for .NET API Reference
-description: Project property. Gets or sets a value of Guid
+description: Project property. 
 type: docs
 weight: 460
 url: /net/aspose.tasks/project/guid/
 ---
 ## Project.Guid property
-
-Gets or sets a value of Guid.
 
 ```csharp
 public Guid Guid { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: LevelingResult.LevelingResult
 second_title: Aspose.Tasks for .NET API Reference
-description: LevelingResult constructor. Initializes a new instance of the LevelingResult class
+description: LevelingResult constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.tasks.leveling/levelingresult/levelingresult/
 ---
 ## LevelingResult constructor
 
-Initializes a new instance of the [`LevelingResult`](../) class.
+The default constructor.
 
 ```csharp
 public LevelingResult()

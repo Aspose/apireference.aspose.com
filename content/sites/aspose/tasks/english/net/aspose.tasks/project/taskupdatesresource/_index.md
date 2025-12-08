@@ -1,14 +1,12 @@
 ---
 title: Project.TaskUpdatesResource
 second_title: Aspose.Tasks for .NET API Reference
-description: Project property. Gets or sets a value indicating whether TaskUpdatesResource is set or not
+description: Project property. 
 type: docs
 weight: 930
 url: /net/aspose.tasks/project/taskupdatesresource/
 ---
 ## Project.TaskUpdatesResource property
-
-Gets or sets a value indicating whether TaskUpdatesResource is set or not.
 
 ```csharp
 public NullableBool TaskUpdatesResource { get; set; }

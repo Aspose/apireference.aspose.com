@@ -12,6 +12,6 @@ url: /net/aspose.tasks.attributes/
 
 | Class | Description |
 | --- | --- |
-| [EntityFieldAttribute](./entityfieldattribute/) | Represents an attribute for entity properties. |
+| [EntityFieldAttribute](./entityfieldattribute/) |  |
 
 

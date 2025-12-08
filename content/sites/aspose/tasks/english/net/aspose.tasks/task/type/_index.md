@@ -1,14 +1,12 @@
 ---
 title: Task.Type
 second_title: Aspose.Tasks for .NET API Reference
-description: Task property. Gets or sets a value of Type
+description: Task property. 
 type: docs
 weight: 1240
 url: /net/aspose.tasks/task/type/
 ---
 ## Task.Type property
-
-Gets or sets a value of Type.
 
 ```csharp
 public TaskType Type { get; set; }

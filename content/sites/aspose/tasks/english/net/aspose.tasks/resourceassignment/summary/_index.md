@@ -1,14 +1,12 @@
 ---
 title: ResourceAssignment.Summary
 second_title: Aspose.Tasks for .NET API Reference
-description: ResourceAssignment property. Gets or sets a value indicating whether Summary is set or not
+description: ResourceAssignment property. 
 type: docs
 weight: 570
 url: /net/aspose.tasks/resourceassignment/summary/
 ---
 ## ResourceAssignment.Summary property
-
-Gets or sets a value indicating whether Summary is set or not.
 
 ```csharp
 public bool Summary { get; set; }

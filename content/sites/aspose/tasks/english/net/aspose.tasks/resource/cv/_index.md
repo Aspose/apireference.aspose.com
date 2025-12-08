@@ -1,14 +1,12 @@
 ---
 title: Resource.CV
 second_title: Aspose.Tasks for .NET API Reference
-description: Resource property. Gets or sets a value of CV
+description: Resource property. 
 type: docs
 weight: 300
 url: /net/aspose.tasks/resource/cv/
 ---
 ## Resource.CV property
-
-Gets or sets a value of CV.
 
 ```csharp
 public double CV { get; set; }

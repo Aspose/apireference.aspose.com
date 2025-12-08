@@ -1,14 +1,14 @@
 ---
 title: PrimaveraReadOptions.PrimaveraReadOptions
 second_title: Aspose.Tasks for .NET API Reference
-description: PrimaveraReadOptions constructor. Initializes a new instance of the PrimaveraReadOptions class
+description: PrimaveraReadOptions constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.tasks/primaverareadoptions/primaverareadoptions/
 ---
 ## PrimaveraReadOptions constructor
 
-Initializes a new instance of the [`PrimaveraReadOptions`](../) class.
+The default constructor.
 
 ```csharp
 public PrimaveraReadOptions()

@@ -1,22 +1,16 @@
 ---
 title: BaselineCollection.Add
 second_title: Aspose.Tasks for .NET API Reference
-description: BaselineCollection method. This is the stub implementation of ICollections Add method that only throws NotSupportedException
+description: BaselineCollection method. 
 type: docs
 weight: 40
 url: /net/aspose.tasks/baselinecollection/add/
 ---
 ## BaselineCollection.Add method
 
-This is the stub implementation of ICollection's Add method, that only throws NotSupportedException
-
 ```csharp
 public void Add(Baseline item)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | Baseline | The item to remove. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Project.DefaultTaskType
 second_title: Aspose.Tasks for .NET API Reference
-description: Project property. Gets or sets a value of DefaultTaskType
+description: Project property. 
 type: docs
 weight: 350
 url: /net/aspose.tasks/project/defaulttasktype/
 ---
 ## Project.DefaultTaskType property
-
-Gets or sets a value of DefaultTaskType.
 
 ```csharp
 public TaskType DefaultTaskType { get; set; }

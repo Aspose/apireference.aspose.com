@@ -1,14 +1,14 @@
 ---
 title: GraphicalIndicatorsInfo.GraphicalIndicatorsInfo
 second_title: Aspose.Tasks for .NET API Reference
-description: GraphicalIndicatorsInfo constructor. Initializes a new instance of the GraphicalIndicatorsInfo type
+description: GraphicalIndicatorsInfo constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.tasks/graphicalindicatorsinfo/graphicalindicatorsinfo/
 ---
 ## GraphicalIndicatorsInfo constructor
 
-Initializes a new instance of the [`GraphicalIndicatorsInfo`](../) type.
+The default constructor.
 
 ```csharp
 public GraphicalIndicatorsInfo()

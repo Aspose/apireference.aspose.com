@@ -1,14 +1,12 @@
 ---
 title: Enum HtmlImageType
 second_title: Aspose.Tasks for .NET API Reference
-description: Aspose.Tasks.HtmlImageType enum. Represents HTML image type
+description: Aspose.Tasks.HtmlImageType enum. 
 type: docs
 weight: 820
 url: /net/aspose.tasks/htmlimagetype/
 ---
 ## HtmlImageType enumeration
-
-Represents HTML image type.
 
 ```csharp
 public enum HtmlImageType
@@ -18,133 +16,14 @@ public enum HtmlImageType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Jpeg | `0` | JPEG JFIF. |
-| Png | `1` | Portable Network Graphics. |
-| Bmp | `2` | Windows Bitmap. |
-| Gif | `3` | Gif image format |
-| Tiff | `4` | Tiff image format |
-| Svg | `5` | SVG image format |
-| Svgz | `6` | Compressed SVG |
-| Unknown | `7` | Unknown format |
-
-## Examples
-
-Shows how to work with image saving arguments.
-
-```csharp
-public void ResourcePrefixForNestedResourcesExample()
-{
-    var project = new Project(DataDir + "Project1.mpp");
-    var options = ResourcePrefixForNestedResources.GetSaveOptions(1);
-    project.Save(OutDir + "document_out.html", options);
-}
-
-private class ResourcePrefixForNestedResources : ICssSavingCallback, IFontSavingCallback, IImageSavingCallback
-{
-    public void CssSaving(CssSavingArgs args)
-    {
-        if (!Directory.Exists(OutDir + "css/"))
-        {
-            Directory.CreateDirectory(OutDir + "css/");
-        }
-
-        var stream = new FileStream(OutDir + "css/" + args.FileName, FileMode.Create);
-        args.Stream = stream;
-        args.KeepStreamOpen = false;
-        args.Uri = OutDir + "css/" + args.FileName;
-    }
-
-    public void FontSaving(FontSavingArgs args)
-    {
-        if (!Directory.Exists(OutDir + "fonts/"))
-        {
-            Directory.CreateDirectory(OutDir + "fonts/");
-        }
-
-        var stream = new FileStream(OutDir + "fonts/" + args.FileName, FileMode.Create);
-        args.Stream = stream;
-        args.KeepStreamOpen = false;
-        args.Uri = OutDir + "fonts/" + args.FileName;
-    }
-
-    public void ImageSaving(ImageSavingArgs args)
-    {
-        if (!Directory.Exists(OutDir + "resources/"))
-        {
-            Directory.CreateDirectory(OutDir + "resources/");
-        }
-
-        if (!Directory.Exists(OutDir + "resources/nestedResources/"))
-        {
-            Directory.CreateDirectory(OutDir + "resources/nestedResources/");
-        }
-
-        if (args.FileName.EndsWith("png"))
-        {
-            var stream1 = new FileStream(OutDir + "resources/nestedResources/" + args.FileName, FileMode.Create);
-            args.Stream = stream1;
-            args.KeepStreamOpen = false;
-            args.Uri = OutDir + "resources/" + args.FileName;
-
-            // args.NestedUri = dataDir + "nestedResources/" + args.FileName;
-        }
-        else
-        {
-            var stream2 = new FileStream(OutDir + "resources/" + args.FileName, FileMode.Create);
-            args.Stream = stream2;
-            args.KeepStreamOpen = false;
-            args.Uri = OutDir + "resources/" + args.FileName;
-        }
-    }
-
-    public static HtmlSaveOptions GetSaveOptions(int pageNumber)
-    {
-        var options = new HtmlSaveOptions
-                          {
-                              Pages = new List<int>(),
-                              IncludeProjectNameInPageHeader = false,
-                              IncludeProjectNameInTitle = false,
-                              PageSize = PageSize.A3,
-                              Timescale = Timescale.ThirdsOfMonths,
-                              ReduceFooterGap = true,
-                              FontFaceTypes = FontFaceType.Ttf,
-                              ExportCss = ResourceExportType.AsFile,
-                              ExportFonts = ResourceExportType.AsFile,
-                              ExportImages = ResourceExportType.AsFile
-                          };
-
-        var program = new ResourcePrefixForNestedResources();
-        options.FontSavingCallback = program;
-        options.CssSavingCallback = program;
-        options.ImageSavingCallback = program;
-
-        options.Pages.Clear();
-        options.Pages.Add(pageNumber);
-
-        if (!Directory.Exists(DataDir + "fonts"))
-        {
-            Directory.CreateDirectory(DataDir + "fonts");
-        }
-
-        if (!Directory.Exists(DataDir + "resources"))
-        {
-            Directory.CreateDirectory(DataDir + "resources");
-        }
-
-        if (!Directory.Exists(DataDir + "nestedResources"))
-        {
-            Directory.CreateDirectory(DataDir + "resources/nestedResources");
-        }
-
-        if (!Directory.Exists(DataDir + "css"))
-        {
-            Directory.CreateDirectory(DataDir + "css");
-        }
-
-        return options;
-    }
-}
-```
+| Jpeg | `0` |  |
+| Png | `1` |  |
+| Bmp | `2` |  |
+| Gif | `3` |  |
+| Tiff | `4` |  |
+| Svg | `5` |  |
+| Svgz | `6` |  |
+| Unknown | `7` |  |
 
 ### See Also
 

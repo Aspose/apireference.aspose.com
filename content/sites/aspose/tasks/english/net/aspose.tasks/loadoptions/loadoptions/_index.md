@@ -1,14 +1,14 @@
 ---
 title: LoadOptions.LoadOptions
 second_title: Aspose.Tasks for .NET API Reference
-description: LoadOptions constructor. Initializes a new instance of the LoadOptions class
+description: LoadOptions constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.tasks/loadoptions/loadoptions/
 ---
 ## LoadOptions constructor
 
-Initializes a new instance of the [`LoadOptions`](../) class.
+The default constructor.
 
 ```csharp
 public LoadOptions()

@@ -1,14 +1,12 @@
 ---
 title: Resource.Work
 second_title: Aspose.Tasks for .NET API Reference
-description: Resource property. Gets or sets a value of Work
+description: Resource property. 
 type: docs
 weight: 780
 url: /net/aspose.tasks/resource/work/
 ---
 ## Resource.Work property
-
-Gets or sets a value of Work.
 
 ```csharp
 public Duration Work { get; set; }

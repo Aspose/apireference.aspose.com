@@ -1,14 +1,12 @@
 ---
 title: VisualObjectPlacement.TaskId
 second_title: Aspose.Tasks for .NET API Reference
-description: VisualObjectPlacement property. Gets or sets Id of task if Attach to task options is selected 1 otherwise
+description: VisualObjectPlacement property. 
 type: docs
 weight: 100
 url: /net/aspose.tasks.visualization/visualobjectplacement/taskid/
 ---
 ## VisualObjectPlacement.TaskId property
-
-Gets or sets Id of task if 'Attach to task' options is selected, -1 otherwise.
 
 ```csharp
 public int TaskId { get; set; }

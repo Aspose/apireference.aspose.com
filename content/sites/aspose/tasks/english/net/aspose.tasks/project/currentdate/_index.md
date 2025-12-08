@@ -1,14 +1,12 @@
 ---
 title: Project.CurrentDate
 second_title: Aspose.Tasks for .NET API Reference
-description: Project property. Gets or sets a value of CurrentDate
+description: Project property. 
 type: docs
 weight: 240
 url: /net/aspose.tasks/project/currentdate/
 ---
 ## Project.CurrentDate property
-
-Gets or sets a value of CurrentDate.
 
 ```csharp
 public DateTime CurrentDate { get; set; }

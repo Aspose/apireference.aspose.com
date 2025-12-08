@@ -1,14 +1,12 @@
 ---
 title: ResourceAssignment.UpdateNeeded
 second_title: Aspose.Tasks for .NET API Reference
-description: ResourceAssignment property. Gets or sets a value indicating whether UpdateNeeded is set or not
+description: ResourceAssignment property. 
 type: docs
 weight: 630
 url: /net/aspose.tasks/resourceassignment/updateneeded/
 ---
 ## ResourceAssignment.UpdateNeeded property
-
-Gets or sets a value indicating whether UpdateNeeded is set or not.
 
 ```csharp
 public bool UpdateNeeded { get; set; }

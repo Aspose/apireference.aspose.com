@@ -1,14 +1,12 @@
 ---
 title: Task.DurationFormat
 second_title: Aspose.Tasks for .NET API Reference
-description: Task property. Gets or sets a value of DurationFormat
+description: Task property. 
 type: docs
 weight: 340
 url: /net/aspose.tasks/task/durationformat/
 ---
 ## Task.DurationFormat property
-
-Gets or sets a value of DurationFormat.
 
 ```csharp
 public TimeUnitType DurationFormat { get; set; }

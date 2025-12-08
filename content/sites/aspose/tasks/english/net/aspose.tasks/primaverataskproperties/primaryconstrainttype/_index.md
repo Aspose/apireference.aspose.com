@@ -1,14 +1,12 @@
 ---
 title: PrimaveraTaskProperties.PrimaryConstraintType
 second_title: Aspose.Tasks for .NET API Reference
-description: PrimaveraTaskProperties property. Gets a type of primary constraint
+description: PrimaveraTaskProperties property. 
 type: docs
 weight: 200
 url: /net/aspose.tasks/primaverataskproperties/primaryconstrainttype/
 ---
 ## PrimaveraTaskProperties.PrimaryConstraintType property
-
-Gets a type of primary constraint.
 
 ```csharp
 public PrimaveraConstraintType PrimaryConstraintType { get; }

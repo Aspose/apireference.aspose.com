@@ -1,14 +1,12 @@
 ---
 title: Task.FinishVariance
 second_title: Aspose.Tasks for .NET API Reference
-description: Task property. Gets or sets a value of FinishVariance
+description: Task property. 
 type: docs
 weight: 470
 url: /net/aspose.tasks/task/finishvariance/
 ---
 ## Task.FinishVariance property
-
-Gets or sets a value of FinishVariance.
 
 ```csharp
 public Duration FinishVariance { get; set; }

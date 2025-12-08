@@ -1,14 +1,12 @@
 ---
 title: PrimaveraProjectInfo.Name
 second_title: Aspose.Tasks for .NET API Reference
-description: PrimaveraProjectInfo property. Gets projects name
+description: PrimaveraProjectInfo property. 
 type: docs
 weight: 20
 url: /net/aspose.tasks.primavera/primaveraprojectinfo/name/
 ---
 ## PrimaveraProjectInfo.Name property
-
-Gets project's name.
 
 ```csharp
 public string Name { get; }

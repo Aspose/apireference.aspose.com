@@ -1,14 +1,12 @@
 ---
 title: Project.HonorConstraints
 second_title: Aspose.Tasks for .NET API Reference
-description: Project property. Gets or sets a value indicating whether HonorConstraints is set or not
+description: Project property. 
 type: docs
 weight: 470
 url: /net/aspose.tasks/project/honorconstraints/
 ---
 ## Project.HonorConstraints property
-
-Gets or sets a value indicating whether HonorConstraints is set or not.
 
 ```csharp
 public NullableBool HonorConstraints { get; set; }
