@@ -1,12 +1,14 @@
 ---
 title: Project.StatusDate
 second_title: Aspose.Tasks for .NET API Reference
-description: Project property. 
+description: Project property. Gets or sets a value of StatusDate
 type: docs
 weight: 870
 url: /net/aspose.tasks/project/statusdate/
 ---
 ## Project.StatusDate property
+
+Gets or sets a value of StatusDate.
 
 ```csharp
 public DateTime StatusDate { get; set; }

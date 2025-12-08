@@ -1,12 +1,14 @@
 ---
 title: FontDescriptor.Style
 second_title: Aspose.Tasks for .NET API Reference
-description: FontDescriptor property. 
+description: FontDescriptor property. Gets style of the font
 type: docs
 weight: 40
 url: /net/aspose.tasks.visualization/fontdescriptor/style/
 ---
 ## FontDescriptor.Style property
+
+Gets style of the font.
 
 ```csharp
 public FontStyles Style { get; }

@@ -1,12 +1,14 @@
 ---
 title: Class ResourceValidationException
 second_title: Aspose.Tasks for .NET API Reference
-description: Aspose.Tasks.ResourceValidationException class. 
+description: Aspose.Tasks.ResourceValidationException class. Represents an exception which is thrown when errors are found in resources properties
 type: docs
-weight: 1810
+weight: 1780
 url: /net/aspose.tasks/resourcevalidationexception/
 ---
 ## ResourceValidationException class
+
+Represents an exception which is thrown when errors are found in resource's properties.
 
 ```csharp
 public class ResourceValidationException : ValidationException
@@ -16,7 +18,7 @@ public class ResourceValidationException : ValidationException
 
 | Name | Description |
 | --- | --- |
-| [Resource](../../aspose.tasks/resourcevalidationexception/resource/) { get; } |  |
+| [Resource](../../aspose.tasks/resourcevalidationexception/resource/) { get; } | Gets the resource which caused the exception. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: Project.LastAuthor
 second_title: Aspose.Tasks for .NET API Reference
-description: Project property. 
+description: Project property. Gets or sets a value of LastAuthor
 type: docs
 weight: 520
 url: /net/aspose.tasks/project/lastauthor/
 ---
 ## Project.LastAuthor property
+
+Gets or sets a value of LastAuthor.
 
 ```csharp
 public string LastAuthor { get; set; }

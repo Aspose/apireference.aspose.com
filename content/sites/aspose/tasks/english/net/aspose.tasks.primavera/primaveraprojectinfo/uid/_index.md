@@ -1,12 +1,14 @@
 ---
 title: PrimaveraProjectInfo.Uid
 second_title: Aspose.Tasks for .NET API Reference
-description: PrimaveraProjectInfo property. 
+description: PrimaveraProjectInfo property. Gets projects Uid
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.tasks.primavera/primaveraprojectinfo/uid/
 ---
 ## PrimaveraProjectInfo.Uid property
+
+Gets project's Uid.
 
 ```csharp
 public int Uid { get; }

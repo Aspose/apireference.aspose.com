@@ -1,12 +1,14 @@
 ---
 title: Resource.Created
 second_title: Aspose.Tasks for .NET API Reference
-description: Resource property. 
+description: Resource property. Gets or sets a value of Created
 type: docs
 weight: 290
 url: /net/aspose.tasks/resource/created/
 ---
 ## Resource.Created property
+
+Gets or sets a value of Created.
 
 ```csharp
 public DateTime Created { get; set; }

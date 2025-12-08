@@ -1,12 +1,14 @@
 ---
 title: GraphicalIndicatorCriteriaValue.GraphicalIndicatorCriteriaValue
 second_title: Aspose.Tasks for .NET API Reference
-description: GraphicalIndicatorCriteriaValue constructor. 
+description: GraphicalIndicatorCriteriaValue constructor. Creates an instance of GraphicalIndicatorCriteriaValue class with constant decimal value
 type: docs
 weight: 10
 url: /net/aspose.tasks/graphicalindicatorcriteriavalue/graphicalindicatorcriteriavalue/
 ---
 ## GraphicalIndicatorCriteriaValue(decimal) {#constructor_3}
+
+Creates an instance of GraphicalIndicatorCriteriaValue class with constant decimal value.
 
 ```csharp
 public GraphicalIndicatorCriteriaValue(decimal value)
@@ -22,6 +24,8 @@ public GraphicalIndicatorCriteriaValue(decimal value)
 
 ## GraphicalIndicatorCriteriaValue(DateTime) {#constructor_2}
 
+Creates an instance of GraphicalIndicatorCriteriaValue class with constant DateTime value.
+
 ```csharp
 public GraphicalIndicatorCriteriaValue(DateTime dateValue)
 ```
@@ -35,6 +39,8 @@ public GraphicalIndicatorCriteriaValue(DateTime dateValue)
 ---
 
 ## GraphicalIndicatorCriteriaValue(string) {#constructor_4}
+
+Creates an instance of GraphicalIndicatorCriteriaValue class with constant string value.
 
 ```csharp
 public GraphicalIndicatorCriteriaValue(string textValue)
@@ -50,6 +56,8 @@ public GraphicalIndicatorCriteriaValue(string textValue)
 
 ## GraphicalIndicatorCriteriaValue(Duration) {#constructor}
 
+Creates an instance of GraphicalIndicatorCriteriaValue class with constant Duration value.
+
 ```csharp
 public GraphicalIndicatorCriteriaValue(Duration durationValue)
 ```
@@ -64,6 +72,8 @@ public GraphicalIndicatorCriteriaValue(Duration durationValue)
 ---
 
 ## GraphicalIndicatorCriteriaValue(bool) {#constructor_1}
+
+Creates an instance of GraphicalIndicatorCriteriaValue class with constant flag (bool) value.
 
 ```csharp
 public GraphicalIndicatorCriteriaValue(bool flagValue)

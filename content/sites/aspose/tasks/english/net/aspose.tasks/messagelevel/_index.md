@@ -1,12 +1,14 @@
 ---
 title: Enum MessageLevel
 second_title: Aspose.Tasks for .NET API Reference
-description: Aspose.Tasks.MessageLevel enum. 
+description: Aspose.Tasks.MessageLevel enum. Defines the possible message verbosity levels
 type: docs
 weight: 990
 url: /net/aspose.tasks/messagelevel/
 ---
 ## MessageLevel enumeration
+
+Defines the possible message verbosity levels.
 
 ```csharp
 public enum MessageLevel
@@ -16,12 +18,12 @@ public enum MessageLevel
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| Error | `1` |  |
-| Critical | `2` |  |
-| Warning | `3` |  |
-| Information | `4` |  |
-| Verbose | `5` |  |
+| None | `0` | Do not output messages. |
+| Error | `1` | Output only error messages. |
+| Critical | `2` | Output critical messages. |
+| Warning | `3` | Output warnings. |
+| Information | `4` | Output information messages. |
+| Verbose | `5` | Output debug messages. |
 
 ### See Also
 

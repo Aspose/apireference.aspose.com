@@ -1,15 +1,29 @@
 ---
 title: Prj.DurationFormat
 second_title: Aspose.Tasks for .NET API Reference
-description: Prj field. 
+description: Prj field. The format for expressing the bulk duration
 type: docs
 weight: 300
 url: /net/aspose.tasks/prj/durationformat/
 ---
 ## Prj.DurationFormat field
 
+The format for expressing the bulk duration.
+
 ```csharp
 public static readonly Key<TimeUnitType, PrjKey> DurationFormat;
+```
+
+## Examples
+
+Shows how to read/write Prj.DurationFormat property.
+
+```csharp
+var project = new Project();
+
+project.Set(Prj.DurationFormat, TimeUnitType.Day);
+
+Console.WriteLine("Duration Format: " + project.Get(Prj.DurationFormat));
 ```
 
 ### See Also

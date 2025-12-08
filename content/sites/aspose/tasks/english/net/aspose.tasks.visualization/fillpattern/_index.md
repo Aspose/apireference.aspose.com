@@ -1,12 +1,14 @@
 ---
 title: Enum FillPattern
 second_title: Aspose.Tasks for .NET API Reference
-description: Aspose.Tasks.Visualization.FillPattern enum. 
+description: Aspose.Tasks.Visualization.FillPattern enum. Fill pattern used in middle shape of a gantt bar
 type: docs
-weight: 2950
+weight: 2920
 url: /net/aspose.tasks.visualization/fillpattern/
 ---
 ## FillPattern enumeration
+
+Fill pattern used in middle shape of a gantt bar.
 
 ```csharp
 public enum FillPattern
@@ -16,18 +18,18 @@ public enum FillPattern
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Hollow | `0` |  |
-| SolidFill | `1` |  |
-| LightFill | `2` |  |
-| MediumFill | `3` |  |
-| DarkFill | `4` |  |
-| DiagonalLeft | `5` |  |
-| DiagonalRight | `6` |  |
-| DiagonalCross | `7` |  |
-| LineVertical | `8` |  |
-| LineHorizontal | `9` |  |
-| LineCross | `10` |  |
-| SolidFillWithDashedBorder | `11` |  |
+| Hollow | `0` | Hollow pattern. |
+| SolidFill | `1` | Solid fill pattern. |
+| LightFill | `2` | Light fill pattern. |
+| MediumFill | `3` | Medium fill pattern. |
+| DarkFill | `4` | Dark fill pattern. |
+| DiagonalLeft | `5` | Diagonal left pattern. |
+| DiagonalRight | `6` | Diagonal right pattern. |
+| DiagonalCross | `7` | Diagonal cross pattern. |
+| LineVertical | `8` | Line vertical pattern. |
+| LineHorizontal | `9` | Line horizontal pattern. |
+| LineCross | `10` | Line cross pattern. |
+| SolidFillWithDashedBorder | `11` | Solid with dashed border pattern. |
 
 ### See Also
 

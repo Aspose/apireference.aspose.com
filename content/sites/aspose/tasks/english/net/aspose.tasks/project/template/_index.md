@@ -1,12 +1,14 @@
 ---
 title: Project.Template
 second_title: Aspose.Tasks for .NET API Reference
-description: Project property. 
+description: Project property. Gets or sets a value of Template
 type: docs
 weight: 940
 url: /net/aspose.tasks/project/template/
 ---
 ## Project.Template property
+
+Gets or sets a value of Template.
 
 ```csharp
 public string Template { get; set; }

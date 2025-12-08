@@ -1,12 +1,14 @@
 ---
 title: ResourceAssignment.ActualWorkProtected
 second_title: Aspose.Tasks for .NET API Reference
-description: ResourceAssignment property. 
+description: ResourceAssignment property. Gets or sets a value of ActualWorkProtected
 type: docs
 weight: 80
 url: /net/aspose.tasks/resourceassignment/actualworkprotected/
 ---
 ## ResourceAssignment.ActualWorkProtected property
+
+Gets or sets a value of ActualWorkProtected.
 
 ```csharp
 public Duration ActualWorkProtected { get; set; }

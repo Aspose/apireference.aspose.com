@@ -1,12 +1,14 @@
 ---
 title: Enum PrimaveraPercentCompleteType
 second_title: Aspose.Tasks for .NET API Reference
-description: Aspose.Tasks.Primavera.PrimaveraPercentCompleteType enum. 
+description: Aspose.Tasks.Primavera.PrimaveraPercentCompleteType enum. Specifies value of  Complete Type field for Primavera activities
 type: docs
 weight: 1270
 url: /net/aspose.tasks.primavera/primaverapercentcompletetype/
 ---
 ## PrimaveraPercentCompleteType enumeration
+
+Specifies value of '% Complete Type' field for Primavera activities.
 
 ```csharp
 public enum PrimaveraPercentCompleteType
@@ -16,10 +18,10 @@ public enum PrimaveraPercentCompleteType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| Duration | `1` |  |
-| Physical | `2` |  |
-| Units | `3` |  |
+| None | `0` | Not specified or not applicable. |
+| Duration | `1` | Duration % Complete type. |
+| Physical | `2` | Physical % Complete type. |
+| Units | `3` | Units % Complete type. |
 
 ### See Also
 

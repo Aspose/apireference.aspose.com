@@ -1,12 +1,14 @@
 ---
 title: Resource.BudgetWork
 second_title: Aspose.Tasks for .NET API Reference
-description: Resource property. 
+description: Resource property. Gets or sets a value of BudgetWork
 type: docs
 weight: 210
 url: /net/aspose.tasks/resource/budgetwork/
 ---
 ## Resource.BudgetWork property
+
+Gets or sets a value of BudgetWork.
 
 ```csharp
 public Duration BudgetWork { get; set; }

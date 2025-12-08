@@ -1,12 +1,14 @@
 ---
 title: Task.LevelingCanSplit
 second_title: Aspose.Tasks for .NET API Reference
-description: Task property. 
+description: Task property. Gets or sets a value indicating whether LevelingCanSplit is set or not
 type: docs
 weight: 800
 url: /net/aspose.tasks/task/levelingcansplit/
 ---
 ## Task.LevelingCanSplit property
+
+Gets or sets a value indicating whether LevelingCanSplit is set or not.
 
 ```csharp
 public NullableBool LevelingCanSplit { get; set; }

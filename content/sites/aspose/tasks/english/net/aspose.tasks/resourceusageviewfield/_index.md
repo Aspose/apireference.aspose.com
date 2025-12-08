@@ -1,12 +1,14 @@
 ---
 title: Enum ResourceUsageViewField
 second_title: Aspose.Tasks for .NET API Reference
-description: Aspose.Tasks.ResourceUsageViewField enum. 
+description: Aspose.Tasks.ResourceUsageViewField enum. Represents possible fields in ResourceUsageView object resource usage view field
 type: docs
-weight: 1790
+weight: 1760
 url: /net/aspose.tasks/resourceusageviewfield/
 ---
 ## ResourceUsageViewField enumeration
+
+Represents possible fields in [`ResourceUsageView`](../resourceusageview/) object resource usage view field.
 
 ```csharp
 public enum ResourceUsageViewField
@@ -16,75 +18,89 @@ public enum ResourceUsageViewField
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Undefined | `-1` |  |
-| Work | `0` |  |
-| OvertimeWork | `1` |  |
-| ActualWork | `2` |  |
-| ActualOvertimeWork | `3` |  |
-| CumulativeWork | `4` |  |
-| BaselineWork | `5` |  |
-| Overallocation | `6` |  |
-| PercentAllocation | `7` |  |
-| PeakUnits | `8` |  |
-| Cost | `9` |  |
-| ActualCost | `10` |  |
-| BaselineCost | `11` |  |
-| CumulativeCost | `12` |  |
-| BCWS | `13` |  |
-| BCWP | `14` |  |
-| ACWP | `15` |  |
-| SV | `16` |  |
-| CV | `17` |  |
-| RegularWork | `18` |  |
-| RemainingAvailability | `19` |  |
-| UnitAvailability | `20` |  |
-| WorkAvailability | `21` |  |
-| Baseline1Work | `22` |  |
-| Baseline1Cost | `23` |  |
-| Baseline2Work | `24` |  |
-| Baseline2Cost | `25` |  |
-| Baseline3Work | `26` |  |
-| Baseline3Cost | `27` |  |
-| Baseline4Work | `28` |  |
-| Baseline4Cost | `29` |  |
-| Baseline5Work | `30` |  |
-| Baseline5Cost | `31` |  |
-| Baseline6Work | `32` |  |
-| Baseline6Cost | `33` |  |
-| Baseline7Work | `34` |  |
-| Baseline7Cost | `35` |  |
-| Baseline8Work | `36` |  |
-| Baseline8Cost | `37` |  |
-| Baseline9Work | `38` |  |
-| Baseline9Cost | `39` |  |
-| Baseline10Work | `40` |  |
-| Baseline10Cost | `41` |  |
-| BudgetWork | `42` |  |
-| BudgetCost | `43` |  |
-| BaselineBudgetWork | `44` |  |
-| BaselineBudgetCost | `45` |  |
-| Baseline1BudgetWork | `46` |  |
-| Baseline1BudgetCost | `47` |  |
-| Baseline2BudgetWork | `48` |  |
-| Baseline2BudgetCost | `49` |  |
-| Baseline3BudgetWork | `50` |  |
-| Baseline3BudgetCost | `51` |  |
-| Baseline4BudgetWork | `52` |  |
-| Baseline4BudgetCost | `53` |  |
-| Baseline5BudgetWork | `54` |  |
-| Baseline5BudgetCost | `55` |  |
-| Baseline6BudgetWork | `56` |  |
-| Baseline6BudgetCost | `57` |  |
-| Baseline7BudgetWork | `58` |  |
-| Baseline7BudgetCost | `59` |  |
-| Baseline8BudgetWork | `60` |  |
-| Baseline8BudgetCost | `61` |  |
-| Baseline9BudgetWork | `62` |  |
-| Baseline9BudgetCost | `63` |  |
-| Baseline10BudgetWork | `64` |  |
-| Baseline10BudgetCost | `65` |  |
-| AllResourceRows | `66` |  |
-| AllAssignmentRows | `67` |  |
+| Undefined | `-1` | Indicates Undefined resource usage view field resource usage view field. |
+| Work | `0` | Indicates Work resource usage view field. |
+| OvertimeWork | `1` | Indicates Overtime Work resource usage view field. |
+| ActualWork | `2` | Indicates Actual Work resource usage view field. |
+| ActualOvertimeWork | `3` | Indicates Actual Overtime Work resource usage view field. |
+| CumulativeWork | `4` | Indicates Cumulative Work resource usage view field. |
+| BaselineWork | `5` | Indicates Baseline Work resource usage view field. |
+| Overallocation | `6` | Indicates Overallocation resource usage view field. |
+| PercentAllocation | `7` | Indicates Percent Allocation resource usage view field. |
+| PeakUnits | `8` | Indicates Peak Units resource usage view field. |
+| Cost | `9` | Indicates Cost resource usage view field. |
+| ActualCost | `10` | Indicates Actual Cost resource usage view field. |
+| BaselineCost | `11` | Indicates Baseline Cost resource usage view field. |
+| CumulativeCost | `12` | Indicates Cumulative Cost resource usage view field. |
+| BCWS | `13` | Indicates BCWS resource usage view field. |
+| BCWP | `14` | Indicates BCWP resource usage view field. |
+| ACWP | `15` | Indicates ACWP resource usage view field. |
+| SV | `16` | Indicates SV resource usage view field. |
+| CV | `17` | Indicates CV resource usage view field. |
+| RegularWork | `18` | Indicates Regular Work resource usage view field. |
+| RemainingAvailability | `19` | Indicates Remaining Availability resource usage view field. |
+| UnitAvailability | `20` | Indicates Unit Availability resource usage view field. |
+| WorkAvailability | `21` | Indicates Work Availability resource usage view field. |
+| Baseline1Work | `22` | Indicates Baseline1 Work resource usage view field. |
+| Baseline1Cost | `23` | Indicates Baseline1 Cost resource usage view field. |
+| Baseline2Work | `24` | Indicates Baseline2 Work resource usage view field. |
+| Baseline2Cost | `25` | Indicates Baseline2 Cost resource usage view field. |
+| Baseline3Work | `26` | Indicates Baseline3 Work resource usage view field. |
+| Baseline3Cost | `27` | Indicates Baseline3 Cost resource usage view field. |
+| Baseline4Work | `28` | Indicates Baseline4 Work resource usage view field. |
+| Baseline4Cost | `29` | Indicates Baseline4 Cost resource usage view field. |
+| Baseline5Work | `30` | Indicates Baseline5 Work resource usage view field. |
+| Baseline5Cost | `31` | Indicates Baseline5 Cost resource usage view field. |
+| Baseline6Work | `32` | Indicates Baseline6 Work resource usage view field. |
+| Baseline6Cost | `33` | Indicates Baseline6 Cost resource usage view field. |
+| Baseline7Work | `34` | Indicates Baseline7 Work resource usage view field. |
+| Baseline7Cost | `35` | Indicates Baseline7 Cost resource usage view field. |
+| Baseline8Work | `36` | Indicates Baseline8 Work resource usage view field. |
+| Baseline8Cost | `37` | Indicates Baseline8 Cost resource usage view field. |
+| Baseline9Work | `38` | Indicates Baseline9 Work resource usage view field. |
+| Baseline9Cost | `39` | Indicates Baseline9 Cost resource usage view field. |
+| Baseline10Work | `40` | Indicates Baseline10 Work resource usage view field. |
+| Baseline10Cost | `41` | Indicates Baseline10 Cost resource usage view field. |
+| BudgetWork | `42` | Indicates Budget Work resource usage view field. |
+| BudgetCost | `43` | Indicates Budget Cost resource usage view field. |
+| BaselineBudgetWork | `44` | Indicates Baseline Budget Work resource usage view field. |
+| BaselineBudgetCost | `45` | Indicates Baseline Budget Cost resource usage view field. |
+| Baseline1BudgetWork | `46` | Indicates Baseline1 Budget Work resource usage view field. |
+| Baseline1BudgetCost | `47` | Indicates Baseline1 Budget Cost resource usage view field. |
+| Baseline2BudgetWork | `48` | Indicates Baseline2 Budget Work resource usage view field. |
+| Baseline2BudgetCost | `49` | Indicates Baseline2 Budget Cost resource usage view field. |
+| Baseline3BudgetWork | `50` | Indicates Baseline3 Budget Work resource usage view field. |
+| Baseline3BudgetCost | `51` | Indicates Baseline3 Budget Cost resource usage view field. |
+| Baseline4BudgetWork | `52` | Indicates Baseline4 Budget Work resource usage view field. |
+| Baseline4BudgetCost | `53` | Indicates Baseline4 Budget Cost resource usage view field. |
+| Baseline5BudgetWork | `54` | Indicates Baseline5 Budget Work resource usage view field. |
+| Baseline5BudgetCost | `55` | Indicates Baseline5 Budget Cost resource usage view field. |
+| Baseline6BudgetWork | `56` | Indicates Baseline6 Budget Work resource usage view field. |
+| Baseline6BudgetCost | `57` | Indicates Baseline6 Budget Cost resource usage view field. |
+| Baseline7BudgetWork | `58` | Indicates Baseline7 Budget Work resource usage view field. |
+| Baseline7BudgetCost | `59` | Indicates Baseline7 Budget Cost resource usage view field. |
+| Baseline8BudgetWork | `60` | Indicates Baseline8 Budget Work resource usage view field. |
+| Baseline8BudgetCost | `61` | Indicates Baseline8 Budget Cost resource usage view field. |
+| Baseline9BudgetWork | `62` | Indicates Baseline9 Budget Work resource usage view field. |
+| Baseline9BudgetCost | `63` | Indicates Baseline9 Budget Cost resource usage view field. |
+| Baseline10BudgetWork | `64` | Indicates Baseline10 Budget Work resource usage view field. |
+| Baseline10BudgetCost | `65` | Indicates Baseline10 Budget Cost resource usage view field. |
+| AllResourceRows | `66` | Indicates All Resource Rows resource usage view field. |
+| AllAssignmentRows | `67` | Indicates All Assignment Rows resource usage view field. |
+
+## Examples
+
+Shows how to read resource usage view fields.
+
+```csharp
+var project = new Project(DataDir + "ResourceUsageView.mpp");
+
+var view = (ResourceUsageView)project.Views.ToList()[2];
+foreach (var field in view.FieldCollection)
+{
+    Console.WriteLine("Field: " + field);
+}
+```
 
 ### See Also
 

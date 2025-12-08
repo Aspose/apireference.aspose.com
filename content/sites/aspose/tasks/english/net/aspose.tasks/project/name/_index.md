@@ -1,12 +1,14 @@
 ---
 title: Project.Name
 second_title: Aspose.Tasks for .NET API Reference
-description: Project property. 
+description: Project property. Gets or sets a value of Name
 type: docs
 weight: 640
 url: /net/aspose.tasks/project/name/
 ---
 ## Project.Name property
+
+Gets or sets a value of Name.
 
 ```csharp
 public string Name { get; set; }

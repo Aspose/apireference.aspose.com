@@ -1,12 +1,14 @@
 ---
 title: Resource.Id
 second_title: Aspose.Tasks for .NET API Reference
-description: Resource property. 
+description: Resource property. Gets or sets a value of Id
 type: docs
 weight: 390
 url: /net/aspose.tasks/resource/id/
 ---
 ## Resource.Id property
+
+Gets or sets a value of Id.
 
 ```csharp
 public int Id { get; set; }
