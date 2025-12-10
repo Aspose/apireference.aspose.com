@@ -35,13 +35,14 @@ jobs:
         with:
           repository: Aspose/api-theme
           token: ${{ secrets.REPO_TOKEN }}
+          ref: pdf
           fetch-depth: 0
           path: themes/api-theme      
       # Step 2 - Sets up the latest version of Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.119.0'
           extended: true
       - name: Install Dependicies1
         run:  npm install -D --save autoprefixer
