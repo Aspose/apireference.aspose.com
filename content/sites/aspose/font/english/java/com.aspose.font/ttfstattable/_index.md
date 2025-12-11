@@ -3,7 +3,7 @@ title: TtfStatTable
 second_title: Aspose.Font for Java API Reference
 description: 
 type: docs
-weight: 106
+weight: 108
 url: /java/com.aspose.font/ttfstattable/
 ---
 **Inheritance:**

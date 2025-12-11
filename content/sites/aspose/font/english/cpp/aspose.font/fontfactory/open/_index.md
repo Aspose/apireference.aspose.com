@@ -13,7 +13,7 @@ url: /cpp/aspose.font/fontfactory/open/
 Opens a font, using font type and font data byte array.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Font> Aspose::Font::FontFactory::Open(FontType fontType, System::ArrayPtr<uint8_t> fontData)
+System::SharedPtr<Font> Aspose::Font::FontFactory::Open(FontType fontType, System::ArrayPtr<uint8_t> fontData)
 ```
 
 
@@ -41,7 +41,7 @@ System::SharedPtr<Aspose::Font::Font> Aspose::Font::FontFactory::Open(FontType f
 Opens a font, using font type and stream source.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Font> Aspose::Font::FontFactory::Open(FontType fontType, System::SharedPtr<Sources::StreamSource> fontStreamSource)
+System::SharedPtr<Font> Aspose::Font::FontFactory::Open(FontType fontType, System::SharedPtr<Sources::StreamSource> fontStreamSource)
 ```
 
 
@@ -69,7 +69,7 @@ System::SharedPtr<Aspose::Font::Font> Aspose::Font::FontFactory::Open(FontType f
 Opens a font, using font type and font file name.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Font> Aspose::Font::FontFactory::Open(FontType fontType, System::String fileName)
+System::SharedPtr<Font> Aspose::Font::FontFactory::Open(FontType fontType, System::String fileName)
 ```
 
 
@@ -97,7 +97,7 @@ System::SharedPtr<Aspose::Font::Font> Aspose::Font::FontFactory::Open(FontType f
 Opens a font, using FontDefinition object.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Font> Aspose::Font::FontFactory::Open(System::SharedPtr<Sources::FontDefinition> fontDefinition)
+System::SharedPtr<Font> Aspose::Font::FontFactory::Open(System::SharedPtr<Sources::FontDefinition> fontDefinition)
 ```
 
 

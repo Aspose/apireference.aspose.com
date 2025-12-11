@@ -13,13 +13,13 @@ url: /cpp/aspose.font.type1/type1encoding/gidtounicode/
 Decodes Gid to Unicode. Glyph id is a unique number for a glyph, which is font type dependent. For example: [Type1](../../)'s id is a glyph name, instance of ([GlyphStringId](../)) class. TTF's id is an int index, instance of ([GlyphUInt32Id](../)) class.
 
 ```cpp
-uint32_t Aspose::Font::Type1::Type1Encoding::GidToUnicode(System::SharedPtr<Aspose::Font::Glyphs::GlyphId> gid) override
+uint32_t Aspose::Font::Type1::Type1Encoding::GidToUnicode(System::SharedPtr<Glyphs::GlyphId> gid) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| gid | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | Glyph identifier of symbol to decode. |
+| gid | System::SharedPtr\<Glyphs::GlyphId\> | Glyph identifier of symbol to decode. |
 
 ### ReturnValue
 

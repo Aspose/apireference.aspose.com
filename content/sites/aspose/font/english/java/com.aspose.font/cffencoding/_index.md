@@ -1,7 +1,7 @@
 ---
 title: CffEncoding
 second_title: Aspose.Font for Java API Reference
-description: Represents CFF font encoding.
+description: Represents CFF _font encoding.
 type: docs
 weight: 18
 url: /java/com.aspose.font/cffencoding/
@@ -15,7 +15,7 @@ java.lang.Object
 public class CffEncoding implements IFontEncoding, ISupportsNameAddressing
 ```
 
-Represents CFF font encoding.
+Represents CFF \_font encoding.
 ## Methods
 
 | Method | Description |
@@ -44,7 +44,7 @@ public GlyphId decodeToGid(long charCode)
 ```
 
 
-Gets Gid for charCode passed. This method designed for a CFF CIDFonts, where charCode must be a valid CID value. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ( GlyphStringId ) class or ( GlyphUInt32Id ) class.
+Gets Gid for charCode passed. This method designed for a CFF CIDFonts, where charCode must be a valid CID value. Glyph id is a unique number for a glyph, which is \_font type dependent. CFF Font glyph id can be instance of ( GlyphStringId ) class or ( GlyphUInt32Id ) class.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -152,14 +152,14 @@ Gets name for the SID specified.
 | sid | int | String identfier. |
 
 **Returns:**
-java.lang.String - Name from string INDEX if found.
+java.lang.String - Name from String INDEX if found.
 ### gidToUnicode(GlyphId gid) {#gidToUnicode-com.aspose.font.GlyphId-}
 ```
 public long gidToUnicode(GlyphId gid)
 ```
 
 
-Decodes Gid to unicode. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ( GlyphStringId ) class or ( GlyphUInt32Id ) class.
+Decodes Gid to unicode. Glyph id is a unique number for a glyph, which is \_font type dependent. CFF Font glyph id can be instance of ( GlyphStringId ) class or ( GlyphUInt32Id ) class.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -210,7 +210,7 @@ public GlyphId unicodeToGid(long unicode)
 ```
 
 
-Decodes a unicode and returns glyph id. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of ( GlyphStringId ) class or ( GlyphUInt32Id ) class.
+Decodes a unicode and returns glyph id. Glyph id is a unique number for a glyph, which is \_font type dependent. CFF Font glyph id can be instance of ( GlyphStringId ) class or ( GlyphUInt32Id ) class.
 
 **Parameters:**
 | Parameter | Type | Description |

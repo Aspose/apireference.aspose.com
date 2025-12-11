@@ -13,7 +13,7 @@ url: /cpp/aspose.font.renderingpath/pathsegmentcollection/
 Represents a path segments collection.
 
 ```cpp
-class PathSegmentCollection : public System::Collections::Generic::List<System::SharedPtr<Aspose::Font::RenderingPath::IPathSegment>>
+class PathSegmentCollection : public System::Collections::Generic::List<System::SharedPtr<IPathSegment>>
 ```
 
 ## Methods

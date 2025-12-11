@@ -4,7 +4,7 @@ linktitle: System::Security::Permissions
 second_title: Aspose.Font for C++
 description: 'How to use System::Security::Permissions namespace in C++.'
 type: docs
-weight: 6300
+weight: 6400
 url: /cpp/system.security.permissions/
 ---
 

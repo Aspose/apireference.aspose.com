@@ -3,7 +3,7 @@ title: Type1Encoding
 second_title: Aspose.Font for Java API Reference
 description: Represents Type1 Font encoding.
 type: docs
-weight: 111
+weight: 113
 url: /java/com.aspose.font/type1encoding/
 ---
 **Inheritance:**

@@ -7,13 +7,13 @@ type: docs
 weight: 200
 url: /cpp/aspose.font.interfaces/ifontglyphfiller/encodeglyph/
 ---
-## IFontGlyphFiller::EncodeGlyph(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>, uint32_t) method
+## IFontGlyphFiller::EncodeGlyph(System::SharedPtr\<Glyphs::GlyphId\>, uint32_t) method
 
 
 
 
 ```cpp
-virtual void Aspose::Font::Interfaces::IFontGlyphFiller::EncodeGlyph(System::SharedPtr<Aspose::Font::Glyphs::GlyphId> glyphId, uint32_t unicode)=0
+virtual void Aspose::Font::Interfaces::IFontGlyphFiller::EncodeGlyph(System::SharedPtr<Glyphs::GlyphId> glyphId, uint32_t unicode)=0
 ```
 
 ## See Also
@@ -23,13 +23,13 @@ virtual void Aspose::Font::Interfaces::IFontGlyphFiller::EncodeGlyph(System::Sha
 * Class [IFontGlyphFiller](../)
 * Namespace [Aspose::Font::Interfaces](../../)
 * Library [Aspose.Font for C++](../../../)
-## IFontGlyphFiller::EncodeGlyph(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>, uint32_t, System::String) method
+## IFontGlyphFiller::EncodeGlyph(System::SharedPtr\<Glyphs::GlyphId\>, uint32_t, System::String) method
 
 
 
 
 ```cpp
-virtual void Aspose::Font::Interfaces::IFontGlyphFiller::EncodeGlyph(System::SharedPtr<Aspose::Font::Glyphs::GlyphId> glyphId, uint32_t unicode, System::String glyphName)=0
+virtual void Aspose::Font::Interfaces::IFontGlyphFiller::EncodeGlyph(System::SharedPtr<Glyphs::GlyphId> glyphId, uint32_t unicode, System::String glyphName)=0
 ```
 
 ## See Also

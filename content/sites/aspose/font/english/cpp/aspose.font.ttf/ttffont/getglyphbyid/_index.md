@@ -7,19 +7,19 @@ type: docs
 weight: 1800
 url: /cpp/aspose.font.ttf/ttffont/getglyphbyid/
 ---
-## TtfFont::GetGlyphById(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>) method
+## TtfFont::GetGlyphById(System::SharedPtr\<Glyphs::GlyphId\>) method
 
 
 Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. TTF [Font](../../../aspose.font/font/) glyph id can be instance of ([GlyphStringId](../)) class or ([GlyphUInt32Id](../)) class. Name (string) glyph addressing is supported for TTF Fonts via Post table mapping. In case CFF [Font](../../../aspose.font/font/) inside, the CFF structures are used to address glyphs by name.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Glyphs::Glyph> Aspose::Font::Ttf::TtfFont::GetGlyphById(System::SharedPtr<Aspose::Font::Glyphs::GlyphId> id) override
+System::SharedPtr<Glyphs::Glyph> Aspose::Font::Ttf::TtfFont::GetGlyphById(System::SharedPtr<Glyphs::GlyphId> id) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | Glyph id. |
+| id | System::SharedPtr\<Glyphs::GlyphId\> | Glyph id. |
 
 ### ReturnValue
 
@@ -39,7 +39,7 @@ Glyph.
 Returns glyph by glyph name. Name (string) glyph addressing is supported for TTF fonts via Post table mapping. In case CFF [Font](../../../aspose.font/font/) inside, the CFF structures are used to address glyphs by name.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Glyphs::Glyph> Aspose::Font::Ttf::TtfFont::GetGlyphById(System::String glyphName)
+System::SharedPtr<Glyphs::Glyph> Aspose::Font::Ttf::TtfFont::GetGlyphById(System::String glyphName)
 ```
 
 
@@ -65,7 +65,7 @@ Glyph.
 Returns glyph by glyph id.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Glyphs::Glyph> Aspose::Font::Ttf::TtfFont::GetGlyphById(uint32_t id)
+System::SharedPtr<Glyphs::Glyph> Aspose::Font::Ttf::TtfFont::GetGlyphById(uint32_t id)
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.font/ifontsubset/get_originalfont/
 Gets original font of the [Font](../../font/) subset.
 
 ```cpp
-virtual System::SharedPtr<Aspose::Font::Font> Aspose::Font::IFontSubset::get_OriginalFont()=0
+virtual System::SharedPtr<Font> Aspose::Font::IFontSubset::get_OriginalFont()=0
 ```
 
 ## See Also

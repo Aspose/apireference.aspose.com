@@ -13,7 +13,7 @@ url: /cpp/aspose.font.ttftables/ttfcmaptable/getplatformtables/
 Returns CMap subtables for planformId and platformSpecificId.
 
 ```cpp
-System::ArrayPtr<System::SharedPtr<Aspose::Font::TtfCMapFormats::TtfCMapFormatBaseTable>> Aspose::Font::TtfTables::TtfCMapTable::GetPlatformTables(uint16_t platformId, uint16_t platformSpecificId)
+System::ArrayPtr<System::SharedPtr<TtfCMapFormats::TtfCMapFormatBaseTable>> Aspose::Font::TtfTables::TtfCMapTable::GetPlatformTables(uint16_t platformId, uint16_t platformSpecificId)
 ```
 
 

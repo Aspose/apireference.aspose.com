@@ -4,7 +4,7 @@ linktitle: System::Net::Sockets
 second_title: Aspose.Font for C++
 description: 'How to use System::Net::Sockets namespace in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/system.net.sockets/
 ---
 

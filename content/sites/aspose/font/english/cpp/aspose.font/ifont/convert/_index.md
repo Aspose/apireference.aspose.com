@@ -13,7 +13,7 @@ url: /cpp/aspose.font/ifont/convert/
 Converts the [Font](../../font/) into another format.
 
 ```cpp
-virtual System::SharedPtr<Aspose::Font::Font> Aspose::Font::IFont::Convert(Aspose::Font::FontType fontType)=0
+virtual System::SharedPtr<Font> Aspose::Font::IFont::Convert(Aspose::Font::FontType fontType)=0
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: System::Reflection
 second_title: Aspose.Font for C++
 description: 'How to use System::Reflection namespace in C++.'
 type: docs
-weight: 5200
+weight: 5300
 url: /cpp/system.reflection/
 ---
 
@@ -35,5 +35,5 @@ url: /cpp/system.reflection/
 
 | Typedef | Description |
 | --- | --- |
-| [ReflectionTypeLoadException](./reflectiontypeloadexception/) | ReflectionTypeLoadException is thrown by the Module.GetTypes method if any of the classes in a module fail to load. Never wrap the ReflectionTypeLoadException class instances into [System::SmartPtr](../system/smartptr/). |
-| [TargetInvocationException](./targetinvocationexception/) | TargetInvocationException is thrown by methods invoked through reflection. Never wrap the TargetInvocationException class instances into [System::SmartPtr](../system/smartptr/). |
+| [ReflectionTypeLoadException](./reflectiontypeloadexception/) | [ReflectionTypeLoadException](./reflectiontypeloadexception/) is thrown by the Module.GetTypes method if any of the classes in a module fail to load. Never wrap the [ReflectionTypeLoadException](./reflectiontypeloadexception/) class instances into [System::SmartPtr](../system/smartptr/). |
+| [TargetInvocationException](./targetinvocationexception/) | [TargetInvocationException](./targetinvocationexception/) is thrown by methods invoked through reflection. Never wrap the [TargetInvocationException](./targetinvocationexception/) class instances into [System::SmartPtr](../system/smartptr/). |

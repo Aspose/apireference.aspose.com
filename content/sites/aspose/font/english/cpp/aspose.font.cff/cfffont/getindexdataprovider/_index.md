@@ -13,13 +13,13 @@ url: /cpp/aspose.font.cff/cfffont/getindexdataprovider/
 Gets provider for the specified CFF INDEX structure type.
 
 ```cpp
-System::SharedPtr<Aspose::Font::CffDataProviders::ICffIndexDataProvider> Aspose::Font::Cff::CffFont::GetIndexDataProvider(Aspose::Font::CffDataProviders::CffIndexProviderType indexType)
+System::SharedPtr<CffDataProviders::ICffIndexDataProvider> Aspose::Font::Cff::CffFont::GetIndexDataProvider(CffDataProviders::CffIndexProviderType indexType)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| indexType | Aspose::Font::CffDataProviders::CffIndexProviderType | Type of INDEX structure |
+| indexType | CffDataProviders::CffIndexProviderType | Type of INDEX structure |
 
 ### ReturnValue
 

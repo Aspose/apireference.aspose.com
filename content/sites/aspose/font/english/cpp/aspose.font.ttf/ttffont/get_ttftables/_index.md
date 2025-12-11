@@ -13,7 +13,7 @@ url: /cpp/aspose.font.ttf/ttffont/get_ttftables/
 Gets TTF tables.
 
 ```cpp
-virtual System::SharedPtr<Aspose::Font::TtfTables::TtfTableRepository> Aspose::Font::Ttf::TtfFont::get_TtfTables()
+virtual System::SharedPtr<TtfTables::TtfTableRepository> Aspose::Font::Ttf::TtfFont::get_TtfTables()
 ```
 
 ## See Also

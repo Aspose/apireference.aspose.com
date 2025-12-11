@@ -13,7 +13,7 @@ url: /cpp/aspose.font.ttftables/operator==/
 
 
 ```cpp
-bool Aspose::Font::TtfTables::operator==(const TtfGaspTable::GaspRange &o1, const TtfGaspTable::GaspRange &o2)
+DECLARE_USING_GLOBAL_OPERATORS bool Aspose::Font::TtfTables::operator==(const TtfGaspTable::GaspRange &o1, const TtfGaspTable::GaspRange &o2)
 ```
 
 ## See Also

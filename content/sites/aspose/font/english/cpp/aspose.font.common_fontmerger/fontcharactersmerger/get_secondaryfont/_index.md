@@ -13,7 +13,7 @@ url: /cpp/aspose.font.common_fontmerger/fontcharactersmerger/get_secondaryfont/
 Gets secondary font.
 
 ```cpp
-virtual System::SharedPtr<Aspose::Font::Font> Aspose::Font::Common_FontMerger::FontCharactersMerger::get_SecondaryFont()=0
+virtual System::SharedPtr<Font> Aspose::Font::Common_FontMerger::FontCharactersMerger::get_SecondaryFont()=0
 ```
 
 ## See Also

@@ -20,9 +20,9 @@ enum class AxisValueTableFlags : uint16_t
 
 | Name | Value | Description |
 | --- | --- | --- |
-| OlderSiblingFontAttribute | 1 | If set, this axis value table provides axis value information that is applicable to other fonts within the same font family. This is used if the other fonts were released earlier and did not include information about values for some axis. If newer versions of the other fonts include the information themselves and are present, then this table is ignored. |
-| ElidableAxisValueName | 2 | If set, it indicates that the axis value represents the “normal” value for the axis and may be omitted when composing name strings. |
-| Reserved | 65532 | Reserved for future use. |
+| OlderSiblingFontAttribute | n/a | If set, this axis value table provides axis value information that is applicable to other fonts within the same font family. This is used if the other fonts were released earlier and did not include information about values for some axis. If newer versions of the other fonts include the information themselves and are present, then this table is ignored. |
+| ElidableAxisValueName | n/a | If set, it indicates that the axis value represents the “normal” value for the axis and may be omitted when composing name strings. |
+| Reserved | n/a | Reserved for future use. |
 
 ## See Also
 

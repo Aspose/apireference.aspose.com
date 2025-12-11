@@ -3,7 +3,7 @@ title: TtfCvtTable
 second_title: Aspose.Font for Java API Reference
 description: Represents Control Value Table CVT of the TTF Font file.
 type: docs
-weight: 88
+weight: 90
 url: /java/com.aspose.font/ttfcvttable/
 ---
 **Inheritance:**

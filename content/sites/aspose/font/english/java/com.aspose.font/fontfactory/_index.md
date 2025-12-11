@@ -3,7 +3,7 @@ title: FontFactory
 second_title: Aspose.Font for Java API Reference
 description: Contains functionality for opening fonts of different types and other methods  for creating various objects.
 type: docs
-weight: 39
+weight: 40
 url: /java/com.aspose.font/fontfactory/
 ---
 **Inheritance:**

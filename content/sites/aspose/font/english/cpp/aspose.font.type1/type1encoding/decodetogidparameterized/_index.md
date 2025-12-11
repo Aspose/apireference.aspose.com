@@ -13,7 +13,7 @@ url: /cpp/aspose.font.type1/type1encoding/decodetogidparameterized/
 Parameterized decode method. Not supported for [Type1](../../)[Font](../../../aspose.font/font/) type.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Glyphs::GlyphId> Aspose::Font::Type1::Type1Encoding::DecodeToGidParameterized(System::SharedPtr<IEncodingParameters> parameters, uint32_t charCode) override
+System::SharedPtr<Glyphs::GlyphId> Aspose::Font::Type1::Type1Encoding::DecodeToGidParameterized(System::SharedPtr<IEncodingParameters> parameters, uint32_t charCode) override
 ```
 
 

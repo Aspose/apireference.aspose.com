@@ -3,7 +3,7 @@ title: FontStyle
 second_title: Aspose.Font for Java API Reference
 description: Font style enumeration
 type: docs
-weight: 44
+weight: 46
 url: /java/com.aspose.font/fontstyle/
 ---
 **Inheritance:**

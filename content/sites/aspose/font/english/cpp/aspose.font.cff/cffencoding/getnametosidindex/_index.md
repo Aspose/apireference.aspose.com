@@ -21,8 +21,6 @@ System::SharedPtr<NameToCodeMap> Aspose::Font::Cff::CffEncoding::GetNameToSidInd
 
 Name to character code encoding map.
 
-
-
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)

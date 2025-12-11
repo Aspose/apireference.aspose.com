@@ -3,7 +3,7 @@ title: MSLanguageId
 second_title: Aspose.Font for Java API Reference
 description: Microsoft platform language id enumeration.
 type: docs
-weight: 59
+weight: 61
 url: /java/com.aspose.font/mslanguageid/
 ---
 **Inheritance:**

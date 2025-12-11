@@ -4,7 +4,7 @@ linktitle: System::Web::Services::Description
 second_title: Aspose.Font for C++
 description: 'How to use System::Web::Services::Description namespace in C++.'
 type: docs
-weight: 7200
+weight: 7400
 url: /cpp/system.web.services.description/
 ---
 

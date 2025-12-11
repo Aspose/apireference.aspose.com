@@ -4,7 +4,7 @@ linktitle: System::Collections
 second_title: Aspose.Font for C++
 description: 'How to use System::Collections namespace in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/system.collections/
 ---
 

@@ -20,7 +20,7 @@ class CffPrivateDictDataProvider : public Aspose::Font::CffDataProviders::Privat
 
 | Method | Description |
 | --- | --- |
-| [CffPrivateDictDataProvider](./cffprivatedictdataprovider/)(System::SharedPtr\<Aspose::Font::Cff::Internals::CffCidChildFont\>) |  |
+| [CffPrivateDictDataProvider](./cffprivatedictdataprovider/)(System::SharedPtr\<Cff::Internals::CffCidChildFont\>) |  |
 ## See Also
 
 * Class [PrivateDictDataProvider](../privatedictdataprovider/)

@@ -20,9 +20,9 @@ enum class FontStyle
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Regular | 1 | Specifies the regular [Font](../font/) style. |
-| Bold | 2 | Specifies the bold [Font](../font/) style. |
-| Italic | 4 | Specifies the italic [Font](../font/) style. |
+| Regular | n/a | Specifies the regular [Font](../font/) style. |
+| Bold | n/a | Specifies the bold [Font](../font/) style. |
+| Italic | n/a | Specifies the italic [Font](../font/) style. |
 
 ## See Also
 

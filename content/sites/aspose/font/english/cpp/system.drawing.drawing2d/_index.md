@@ -4,7 +4,7 @@ linktitle: System::Drawing::Drawing2D
 second_title: Aspose.Font for C++
 description: 'How to use System::Drawing::Drawing2D namespace in C++.'
 type: docs
-weight: 3700
+weight: 3800
 url: /cpp/system.drawing.drawing2d/
 ---
 

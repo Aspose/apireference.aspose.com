@@ -4,7 +4,7 @@ linktitle: System::Xml::Serialization
 second_title: Aspose.Font for C++
 description: 'How to use System::Xml::Serialization namespace in C++.'
 type: docs
-weight: 7900
+weight: 8100
 url: /cpp/system.xml.serialization/
 ---
 

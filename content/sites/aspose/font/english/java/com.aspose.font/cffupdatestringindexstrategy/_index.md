@@ -3,7 +3,7 @@ title: CffUpdateStringIndexStrategy
 second_title: Aspose.Font for Java API Reference
 description: Specifies how to add strings to CFF String INDEX storage.
 type: docs
-weight: 131
+weight: 133
 url: /java/com.aspose.font/cffupdatestringindexstrategy/
 ---
 **Inheritance:**

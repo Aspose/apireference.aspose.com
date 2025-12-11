@@ -3,7 +3,7 @@ title: Type1MetricFont
 second_title: Aspose.Font for Java API Reference
 description: Type1 metric font implementation.
 type: docs
-weight: 114
+weight: 116
 url: /java/com.aspose.font/type1metricfont/
 ---
 **Inheritance:**

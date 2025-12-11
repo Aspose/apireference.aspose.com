@@ -3,7 +3,7 @@ title: Glyph
 second_title: Aspose.Font for Java API Reference
 description: Represents a Font glyph.
 type: docs
-weight: 46
+weight: 48
 url: /java/com.aspose.font/glyph/
 ---
 **Inheritance:**

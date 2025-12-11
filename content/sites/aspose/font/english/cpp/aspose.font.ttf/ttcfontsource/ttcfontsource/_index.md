@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.font.ttf/ttcfontsource/ttcfontsource/
 ---
-## TtcFontSource::TtcFontSource(System::SharedPtr\<Aspose::Font::Sources::StreamSource\>) constructor
+## TtcFontSource::TtcFontSource(System::SharedPtr\<Sources::StreamSource\>) constructor
 
 
 Creates TTC [Font](../../../aspose.font/font/) source based on IStreamSource stream providing object.
 
 ```cpp
-Aspose::Font::Ttf::TtcFontSource::TtcFontSource(System::SharedPtr<Aspose::Font::Sources::StreamSource> source)
+Aspose::Font::Ttf::TtcFontSource::TtcFontSource(System::SharedPtr<Sources::StreamSource> source)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| source | System::SharedPtr\<Aspose::Font::Sources::StreamSource\> | Source stream to extract TTC [Font](../../../aspose.font/font/) collection data from. |
+| source | System::SharedPtr\<Sources::StreamSource\> | Source stream to extract TTC [Font](../../../aspose.font/font/) collection data from. |
 
 ## See Also
 

@@ -24,8 +24,6 @@ void Aspose::Font::TtfTables::TtfNameTable::AddMultiLanguageNames(System::Shared
 | platformSpecificId | uint16_t | Platform-specific encoding identifier |
 | nameId | TtfNameTable::NameId | Name identifier, logical string category, specified by [NameId](../nameid/) enumeration |
 
-
-
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)

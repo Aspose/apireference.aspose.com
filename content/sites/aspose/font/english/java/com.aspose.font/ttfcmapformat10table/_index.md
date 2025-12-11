@@ -3,7 +3,7 @@ title: TtfCMapFormat10Table
 second_title: Aspose.Font for Java API Reference
 description: Represents Format10 CMap subtable of the TTF Font file.
 type: docs
-weight: 79
+weight: 81
 url: /java/com.aspose.font/ttfcmapformat10table/
 ---
 **Inheritance:**

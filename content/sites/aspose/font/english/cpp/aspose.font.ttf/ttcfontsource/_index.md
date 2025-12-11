@@ -21,7 +21,7 @@ class TtcFontSource : public Aspose::Font::IFontSource
 | Method | Description |
 | --- | --- |
 | [GetFontDefinitions](./getfontdefinitions/)() override | Returns [Font](../../aspose.font/font/) definition array of the TTC [Font](../../aspose.font/font/) source. |
-| [TtcFontSource](./ttcfontsource/)(System::SharedPtr\<Aspose::Font::Sources::StreamSource\>) | Creates TTC [Font](../../aspose.font/font/) source based on IStreamSource stream providing object. |
+| [TtcFontSource](./ttcfontsource/)(System::SharedPtr\<Sources::StreamSource\>) | Creates TTC [Font](../../aspose.font/font/) source based on IStreamSource stream providing object. |
 | [TtcFontSource](./ttcfontsource/)(System::String) | Creates TTC [Font](../../aspose.font/font/) source based on ttc font collection file path. |
 ## See Also
 

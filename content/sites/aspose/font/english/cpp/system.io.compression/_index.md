@@ -4,7 +4,7 @@ linktitle: System::IO::Compression
 second_title: Aspose.Font for C++
 description: 'How to use System::IO::Compression namespace in C++.'
 type: docs
-weight: 4300
+weight: 4400
 url: /cpp/system.io.compression/
 ---
 

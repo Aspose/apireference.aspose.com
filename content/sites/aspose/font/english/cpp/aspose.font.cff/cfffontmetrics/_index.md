@@ -25,9 +25,9 @@ class CffFontMetrics : public Aspose::Font::FontMetrics
 | [get_FontBBox](./get_fontbbox/)() override | Gets [FontBBox](../../aspose.font/fontbbox/) value. |
 | [get_FontMatrix](./get_fontmatrix/)() override | Gets FontMatrix value. |
 | [get_UnitsPerEM](./get_unitsperem/)() override | Gets UnitsPerEM value. |
-| [GetFontMatrixForGlyph](./getfontmatrixforglyph/)(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>) | Calculates transformation matrix for glyph specified by id. |
-| [GetGlyphWidth](./getglyphwidth/)(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>) override | Returns glyph width. May be overridden by specific [Font](../../aspose.font/font/) encoding inheritors. |
-| [MeasureString](./measurestring/)(System::String, double) override | Measures string and returns string width. |
+| [GetFontMatrixForGlyph](./getfontmatrixforglyph/)(System::SharedPtr\<Glyphs::GlyphId\>) | Calculates transformation matrix for glyph specified by id. |
+| [GetGlyphWidth](./getglyphwidth/)(System::SharedPtr\<Glyphs::GlyphId\>) override | Returns glyph width. May be overridden by specific [Font](../../aspose.font/font/) encoding inheritors. |
+| [MeasureString](./measurestring/)(System::String, double) override | Sets glyph width. |
 ## See Also
 
 * Class [FontMetrics](../../aspose.font/fontmetrics/)

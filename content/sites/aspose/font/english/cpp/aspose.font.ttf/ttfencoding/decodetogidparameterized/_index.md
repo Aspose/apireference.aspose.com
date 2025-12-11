@@ -13,7 +13,7 @@ url: /cpp/aspose.font.ttf/ttfencoding/decodetogidparameterized/
 Parametrized version allows to use specific CMap table (not unicode).
 
 ```cpp
-System::SharedPtr<Aspose::Font::Glyphs::GlyphId> Aspose::Font::Ttf::TtfEncoding::DecodeToGidParameterized(System::SharedPtr<IEncodingParameters> parameters, uint32_t charCode) override
+System::SharedPtr<Glyphs::GlyphId> Aspose::Font::Ttf::TtfEncoding::DecodeToGidParameterized(System::SharedPtr<IEncodingParameters> parameters, uint32_t charCode) override
 ```
 
 

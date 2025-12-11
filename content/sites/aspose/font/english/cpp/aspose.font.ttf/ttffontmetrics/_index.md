@@ -29,9 +29,9 @@ class TtfFontMetrics : public Aspose::Font::FontMetrics
 | [get_TypoDescender](./get_typodescender/)() override | Gets TypoDescender value. |
 | [get_TypoLineGap](./get_typolinegap/)() override | Gets TypoLineGap value. |
 | [get_UnitsPerEM](./get_unitsperem/)() override | Gets UnitsPerEM value. |
-| [GetGlyphWidth](./getglyphwidth/)(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>) override | Returns glyphs width by glyph id. |
-| [GetKerningValue](./getkerningvalue/)(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>, System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>) override | Returns kerning value for the glyph pair. |
-| [MeasureString](./measurestring/)(System::String, double) override | Measures string and returns string width. |
+| [GetGlyphWidth](./getglyphwidth/)(System::SharedPtr\<Glyphs::GlyphId\>) override | Returns glyphs width by glyph id. |
+| [GetKerningValue](./getkerningvalue/)(System::SharedPtr\<Glyphs::GlyphId\>, System::SharedPtr\<Glyphs::GlyphId\>) override | Returns kerning value for the glyph pair. |
+| [MeasureString](./measurestring/)(System::String, double) override | Sets glyph width. |
 | [MeasureString](./measurestring/)(System::ArrayPtr\<uint32_t\>, double) | Measures text represented as array of character codes and returns string width. |
 | [set_Ascender](./set_ascender/)(double) override | Gets ascender value. |
 | [set_Descender](./set_descender/)(double) override | Gets descender value. |

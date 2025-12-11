@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.Font for Java API Reference
 description: Provides methods to license the component.
 type: docs
-weight: 55
+weight: 57
 url: /java/com.aspose.font/license/
 ---
 **Inheritance:**

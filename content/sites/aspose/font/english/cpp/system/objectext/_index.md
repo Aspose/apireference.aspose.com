@@ -29,6 +29,7 @@ class ObjectExt : public System::ObjectType
 | static [CastToIList](./casttoilist/)(const SmartPtr\<Object\>\&) |  |
 | static [Coalesce](./coalesce/)(T0, T1) | Implementation of '??' operator translation for non-nullable types. |
 | static [Coalesce](./coalesce/)(System::Nullable\<T0\>, T1) | Implementation of '??' operator translation for nullable types. |
+| static [CoalesceAssign](./coalesceassign/)(T0\&, T1) | Implementation of '??=' operator translation. |
 | static [CoalesceInternal](./coalesceinternal/)(RT1, F) | Implementation of '??' operator translation for non-nullable types. Overload for case if RT2 is convertable to RT1. |
 | static [Equals](./equals/)(const T\&, const T2\&) |  |
 | static [Equals](./equals/)(const T\&, const T2\&) | Substitution for C# [Object.Equals](../object/equals/) calls working for any type in C++. Overload for smart pointer types. |
@@ -40,6 +41,7 @@ class ObjectExt : public System::ObjectType
 | static [ExplicitCastToObject](./explicitcasttoobject/)(const T\&) |  |
 | static [ExplicitCastToObject](./explicitcasttoobject/)(const T\&) |  |
 | static [GetHashCode](./gethashcode/)(const T\&) | Implements [GetHashCode()](./gethashcode/) calls; works on both [Object](../object/) subclasses and unrelated types. |
+| static [Is](./is/)(const T\&) | Implements 'is' operator translation. Specialization for boxable (value) types which exactly is that they are. |
 | static [Is](./is/)(const U\&) | Implements 'is' operator translation. Specialization for pointer types optimized for 'final' classes. |
 | static [Is](./is/)(const U\&) | Implements 'is' operator translation. Specialization for pointer types. |
 | static [Is](./is/)(const Object\&) | Implements 'is' operator translation. Specialization for value types. |
@@ -49,6 +51,7 @@ class ObjectExt : public System::ObjectType
 | static [Is](./is/)(const SmartPtr\<Object\>\&) | Implements 'is' operator translation. Specialization for nullable types. |
 | static [Is](./is/)(const SmartPtr\<Object\>\&) | Implements 'is' operator translation. Specialization for boxable types with == operator defined. |
 | static [Is](./is/)(const SmartPtr\<Object\>\&) | Implements 'is' operator translation. Specialization for boxable types without defined ==. |
+| static [Is](./is/)(const SmartPtr\<V\>\&) | Implements 'is' operator translation. Specialization value types boxed to interfaces. |
 | static [Is](./is/)(const SmartPtr\<U\>\&) | Implements 'is' operator translation. Specialization for enum types. |
 | static [Is](./is/)(const WeakPtr\<U\>\&) | Implements 'is' operator translation. Specialization for enum types vs weak pointers. |
 | static [Is](./is/)(const Nullable\<U\>\&) | Implements 'is' operator translation. Specialization for [Nullable](../nullable/) type. |

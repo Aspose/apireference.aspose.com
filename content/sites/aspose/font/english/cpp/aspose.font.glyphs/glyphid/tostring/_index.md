@@ -13,7 +13,7 @@ url: /cpp/aspose.font.glyphs/glyphid/tostring/
 Returns string representation the glyph id.
 
 ```cpp
-System::String Aspose::Font::Glyphs::GlyphId::ToString() const override=0
+System::String Aspose::Font::Glyphs::GlyphId::ToString() const =0
 ```
 
 

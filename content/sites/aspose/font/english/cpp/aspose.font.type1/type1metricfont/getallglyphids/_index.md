@@ -13,7 +13,7 @@ url: /cpp/aspose.font.type1/type1metricfont/getallglyphids/
 Returns all glyph ids, available in the [Font](../../../aspose.font/font/). Not supported for [Type1MetricFont](../) type.
 
 ```cpp
-System::ArrayPtr<System::SharedPtr<Aspose::Font::Glyphs::GlyphId>> Aspose::Font::Type1::Type1MetricFont::GetAllGlyphIds() override
+System::ArrayPtr<System::SharedPtr<Glyphs::GlyphId>> Aspose::Font::Type1::Type1MetricFont::GetAllGlyphIds() override
 ```
 
 

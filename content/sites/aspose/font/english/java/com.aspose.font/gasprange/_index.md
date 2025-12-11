@@ -3,7 +3,7 @@ title: GaspRange
 second_title: Aspose.Font for Java API Reference
 description: The array of GaspRange records provides recommended behaviors for various ppem sizes
 type: docs
-weight: 45
+weight: 47
 url: /java/com.aspose.font/gasprange/
 ---
 **Inheritance:**

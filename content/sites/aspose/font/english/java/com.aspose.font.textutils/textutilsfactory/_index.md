@@ -24,6 +24,7 @@ Provides functionality for retrieving creators of text service objects
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
+| [getFontCharactersMerger(Font primaryFont, Font secondaryFont, FontType outType)](#getFontCharactersMerger-com.aspose.font.Font-com.aspose.font.Font-com.aspose.font.FontType-) |  |
 | [getFontMorseDecoder()](#getFontMorseDecoder--) | Gets the  IFontMorseDecoder  instance. |
 | [getFontMorseEncoder()](#getFontMorseEncoder--) | Gets the  IFontMorseEncoder  instance. |
 | [getMorseDecoder()](#getMorseDecoder--) | Gets the  IMorseDecoder  instance. |
@@ -66,6 +67,23 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getFontCharactersMerger(Font primaryFont, Font secondaryFont, FontType outType) {#getFontCharactersMerger-com.aspose.font.Font-com.aspose.font.Font-com.aspose.font.FontType-}
+```
+public FontCharactersMerger getFontCharactersMerger(Font primaryFont, Font secondaryFont, FontType outType)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| primaryFont | [Font](../../com.aspose.font/font) |  |
+| secondaryFont | [Font](../../com.aspose.font/font) |  |
+| outType | [FontType](../../com.aspose.font/fonttype) |  |
+
+**Returns:**
+[FontCharactersMerger](../../com.aspose.font/fontcharactersmerger)
 ### getFontMorseDecoder() {#getFontMorseDecoder--}
 ```
 public IFontMorseDecoder getFontMorseDecoder()

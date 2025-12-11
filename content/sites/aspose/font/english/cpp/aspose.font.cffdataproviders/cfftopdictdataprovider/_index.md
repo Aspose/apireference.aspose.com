@@ -20,7 +20,7 @@ class CffTopDictDataProvider : public Aspose::Font::CffDataProviders::TopDictDat
 
 | Method | Description |
 | --- | --- |
-| [CffTopDictDataProvider](./cfftopdictdataprovider/)(System::SharedPtr\<Aspose::Font::Cff::Internals::CffCidChildFont\>) |  |
+| [CffTopDictDataProvider](./cfftopdictdataprovider/)(System::SharedPtr\<Cff::Internals::CffCidChildFont\>) |  |
 ## See Also
 
 * Class [TopDictDataProvider](../topdictdataprovider/)

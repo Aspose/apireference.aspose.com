@@ -4,7 +4,7 @@ linktitle: System::Collections::Specialized
 second_title: Aspose.Font for C++
 description: 'How to use System::Collections::Specialized namespace in C++.'
 type: docs
-weight: 2900
+weight: 3000
 url: /cpp/system.collections.specialized/
 ---
 

@@ -25,10 +25,10 @@ class RenderingUtils
 
 | Method | Description |
 | --- | --- |
-| static [DrawText](./drawtext/)(System::SharedPtr\<Aspose::Font::Font\>, System::String, double) | [Rendering](../../aspose.font.rendering/) text in BitMap. Return result in PNG-format as stream of bytes. |
-| static [DrawText](./drawtext/)(System::SharedPtr\<Aspose::Font::Font\>, System::String, double, RenderingUtils::LineSpacingType, int32_t, int32_t) | [Rendering](../../aspose.font.rendering/) text in BitMap. Return result in PNG-format as stream of bytes. |
-| static [DrawText](./drawtext/)(System::SharedPtr\<Aspose::Font::Font\>, System::ArrayPtr\<System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>\>, double) | [Rendering](../../aspose.font.rendering/) text in BitMap. Return result in PNG-format as stream of bytes. |
-| static [DrawText](./drawtext/)(System::SharedPtr\<Aspose::Font::Font\>, System::ArrayPtr\<System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>\>, double, RenderingUtils::LineSpacingType, int32_t, int32_t) | [Rendering](../../aspose.font.rendering/) text in BitMap. Return result in PNG-format as stream of bytes. |
+| static [DrawText](./drawtext/)(System::SharedPtr\<Font\>, System::String, double) | [Rendering](../../aspose.font.rendering/) text in BitMap. Return result in PNG-format as stream of bytes. |
+| static [DrawText](./drawtext/)(System::SharedPtr\<Font\>, System::String, double, RenderingUtils::LineSpacingType, int32_t, int32_t) | [Rendering](../../aspose.font.rendering/) text in BitMap. Return result in PNG-format as stream of bytes. |
+| static [DrawText](./drawtext/)(System::SharedPtr\<Font\>, System::ArrayPtr\<System::SharedPtr\<Glyphs::GlyphId\>\>, double) | [Rendering](../../aspose.font.rendering/) text in BitMap. Return result in PNG-format as stream of bytes. |
+| static [DrawText](./drawtext/)(System::SharedPtr\<Font\>, System::ArrayPtr\<System::SharedPtr\<Glyphs::GlyphId\>\>, double, RenderingUtils::LineSpacingType, int32_t, int32_t) | [Rendering](../../aspose.font.rendering/) text in BitMap. Return result in PNG-format as stream of bytes. |
 | [RenderingUtils](./renderingutils/)() |  |
 ## See Also
 

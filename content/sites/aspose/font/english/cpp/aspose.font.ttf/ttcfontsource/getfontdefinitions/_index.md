@@ -13,7 +13,7 @@ url: /cpp/aspose.font.ttf/ttcfontsource/getfontdefinitions/
 Returns [Font](../../../aspose.font/font/) definition array of the TTC [Font](../../../aspose.font/font/) source.
 
 ```cpp
-System::ArrayPtr<System::SharedPtr<Aspose::Font::Sources::FontDefinition>> Aspose::Font::Ttf::TtcFontSource::GetFontDefinitions() override
+System::ArrayPtr<System::SharedPtr<Sources::FontDefinition>> Aspose::Font::Ttf::TtcFontSource::GetFontDefinitions() override
 ```
 
 

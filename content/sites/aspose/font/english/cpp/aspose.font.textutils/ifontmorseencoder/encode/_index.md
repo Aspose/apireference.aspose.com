@@ -13,7 +13,7 @@ url: /cpp/aspose.font.textutils/ifontmorseencoder/encode/
 Encodes text in Morse code and returns result as set of glyphs(glyphId). Heuristic analysis is used to calculate the alphabet of the input text.
 
 ```cpp
-virtual System::ArrayPtr<System::SharedPtr<Aspose::Font::Glyphs::GlyphId>> Aspose::Font::TextUtils::IFontMorseEncoder::Encode(System::String text, System::SharedPtr<IFont> font, char16_t inputSeparator=u' ', char16_t outputSeparator=u'/')=0
+virtual System::ArrayPtr<System::SharedPtr<Glyphs::GlyphId>> Aspose::Font::TextUtils::IFontMorseEncoder::Encode(System::String text, System::SharedPtr<IFont> font, char16_t inputSeparator=u' ', char16_t outputSeparator=u'/')=0
 ```
 
 
@@ -26,9 +26,7 @@ virtual System::ArrayPtr<System::SharedPtr<Aspose::Font::Glyphs::GlyphId>> Aspos
 
 ### ReturnValue
 
-Glyphs(glyphId) related to encoded text, ie "... --- ..." for the input text "SOS"
-
-
+[Glyphs(glyphId)](../../../aspose.font.glyphs/) related to encoded text, ie "... --- ..." for the input text "SOS"
 
 ## See Also
 
@@ -64,8 +62,6 @@ virtual System::SharedPtr<System::IO::Stream> Aspose::Font::TextUtils::IFontMors
 ### ReturnValue
 
 Text, encoded by Morse code, in PNG-format as stream of bytes
-
-
 
 ## See Also
 
@@ -103,9 +99,6 @@ virtual System::SharedPtr<System::IO::Stream> Aspose::Font::TextUtils::IFontMors
 
 Text, encoded by Morse code, in PNG-format as stream of bytes
 
-
-
-
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
@@ -123,7 +116,7 @@ Text, encoded by Morse code, in PNG-format as stream of bytes
 Encodes text by Morse code and returns result as set of glyphs(glyph identifiers).
 
 ```cpp
-virtual System::ArrayPtr<System::SharedPtr<Aspose::Font::Glyphs::GlyphId>> Aspose::Font::TextUtils::IFontMorseEncoder::Encode(System::String text, System::SharedPtr<IFont> font, MorseAlphabets alphabet, char16_t inputSeparator=u' ', char16_t outputSeparator=u'/')=0
+virtual System::ArrayPtr<System::SharedPtr<Glyphs::GlyphId>> Aspose::Font::TextUtils::IFontMorseEncoder::Encode(System::String text, System::SharedPtr<IFont> font, MorseAlphabets alphabet, char16_t inputSeparator=u' ', char16_t outputSeparator=u'/')=0
 ```
 
 
@@ -137,10 +130,7 @@ virtual System::ArrayPtr<System::SharedPtr<Aspose::Font::Glyphs::GlyphId>> Aspos
 
 ### ReturnValue
 
-Glyphs(glyphId) related to encoded text, ie "... --- ..." for the input text "SOS"
-
-
-
+[Glyphs(glyphId)](../../../aspose.font.glyphs/) related to encoded text, ie "... --- ..." for the input text "SOS"
 
 ## See Also
 

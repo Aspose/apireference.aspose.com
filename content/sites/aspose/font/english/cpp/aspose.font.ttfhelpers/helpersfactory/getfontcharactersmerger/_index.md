@@ -13,14 +13,14 @@ url: /cpp/aspose.font.ttfhelpers/helpersfactory/getfontcharactersmerger/
 Creates [IFontCharactersMerger](../../ifontcharactersmerger/) instance.
 
 ```cpp
-static System::SharedPtr<IFontCharactersMerger> Aspose::Font::TtfHelpers::HelpersFactory::GetFontCharactersMerger(System::SharedPtr<Aspose::Font::Ttf::TtfFont> font1, System::SharedPtr<Aspose::Font::Ttf::TtfFont> font2)
+static System::SharedPtr<IFontCharactersMerger> Aspose::Font::TtfHelpers::HelpersFactory::GetFontCharactersMerger(System::SharedPtr<Ttf::TtfFont> font1, System::SharedPtr<Ttf::TtfFont> font2)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| font1 | System::SharedPtr\<Aspose::Font::Ttf::TtfFont\> | First font to merge, this font will be considered as primary font |
-| font2 | System::SharedPtr\<Aspose::Font::Ttf::TtfFont\> | Second font to merge |
+| font1 | System::SharedPtr\<Ttf::TtfFont\> | First font to merge, this font will be considered as primary font |
+| font2 | System::SharedPtr\<Ttf::TtfFont\> | Second font to merge |
 
 ### ReturnValue
 

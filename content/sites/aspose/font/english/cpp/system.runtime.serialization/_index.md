@@ -4,7 +4,7 @@ linktitle: System::Runtime::Serialization
 second_title: Aspose.Font for C++
 description: 'How to use System::Runtime::Serialization namespace in C++.'
 type: docs
-weight: 5600
+weight: 5700
 url: /cpp/system.runtime.serialization/
 ---
 

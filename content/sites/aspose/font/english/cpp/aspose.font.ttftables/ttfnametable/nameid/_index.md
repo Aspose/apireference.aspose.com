@@ -10,7 +10,7 @@ url: /cpp/aspose.font.ttftables/ttfnametable/nameid/
 ## NameId enum
 
 
-Represents NameId.
+Represents [NameId](./).
 
 ```cpp
 enum class NameId : uint16_t

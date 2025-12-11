@@ -13,7 +13,7 @@ url: /cpp/aspose.font.cff/cfffontssettings/set_updatestringsstrategy/
 Strategy for updating strings in the CFF String INDEX structure. The AddStringAsIs option is used by default.
 
 ```cpp
-void Aspose::Font::Cff::CffFontsSettings::set_UpdateStringsStrategy(Aspose::Font::CffDataProviders::CffUpdateStringIndexStrategy value)
+void Aspose::Font::Cff::CffFontsSettings::set_UpdateStringsStrategy(CffDataProviders::CffUpdateStringIndexStrategy value)
 ```
 
 ## See Also

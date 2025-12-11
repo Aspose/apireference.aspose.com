@@ -4,7 +4,7 @@ linktitle: System::Data::Common
 second_title: Aspose.Font for C++
 description: 'How to use System::Data::Common namespace in C++.'
 type: docs
-weight: 3300
+weight: 3400
 url: /cpp/system.data.common/
 ---
 

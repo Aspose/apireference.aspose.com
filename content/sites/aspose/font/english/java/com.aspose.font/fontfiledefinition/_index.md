@@ -3,7 +3,7 @@ title: FontFileDefinition
 second_title: Aspose.Font for Java API Reference
 description: Represents Font file definition.
 type: docs
-weight: 40
+weight: 41
 url: /java/com.aspose.font/fontfiledefinition/
 ---
 **Inheritance:**

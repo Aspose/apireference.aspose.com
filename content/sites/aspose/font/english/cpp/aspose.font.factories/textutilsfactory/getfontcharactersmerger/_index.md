@@ -13,21 +13,19 @@ url: /cpp/aspose.font.factories/textutilsfactory/getfontcharactersmerger/
 Gets instance of [FontCharactersMerger](../) class.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Common_FontMerger::FontCharactersMerger> Aspose::Font::Factories::TextUtilsFactory::GetFontCharactersMerger(System::SharedPtr<Aspose::Font::Font> primaryFont, System::SharedPtr<Aspose::Font::Font> secondaryFont, FontType outType)
+System::SharedPtr<Common_FontMerger::FontCharactersMerger> Aspose::Font::Factories::TextUtilsFactory::GetFontCharactersMerger(System::SharedPtr<Font> primaryFont, System::SharedPtr<Font> secondaryFont, FontType outType)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| primaryFont | System::SharedPtr\<Aspose::Font::Font\> | Primary font to take glyphs from |
-| secondaryFont | System::SharedPtr\<Aspose::Font::Font\> | Secondary font to take glyphs from |
+| primaryFont | System::SharedPtr\<Font\> | Primary font to take glyphs from |
+| secondaryFont | System::SharedPtr\<Font\> | Secondary font to take glyphs from |
 | outType | FontType | The format of the output merged font. |
 
 ### ReturnValue
 
 Fonts merger interface or null if no appropriate merger found for input font format
-
-
 
 ## See Also
 

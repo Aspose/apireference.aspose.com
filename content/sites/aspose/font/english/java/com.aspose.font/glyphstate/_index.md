@@ -3,7 +3,7 @@ title: GlyphState
 second_title: Aspose.Font for Java API Reference
 description: Specifies the glyph state.
 type: docs
-weight: 135
+weight: 137
 url: /java/com.aspose.font/glyphstate/
 ---
 **Inheritance:**

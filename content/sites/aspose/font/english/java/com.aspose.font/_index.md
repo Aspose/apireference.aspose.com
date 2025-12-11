@@ -22,7 +22,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [AxisValueTableFormat3](../com.aspose.font/axisvaluetableformat3) | Represents Axis value table format 3 |
 | [AxisValueTableFormat4](../com.aspose.font/axisvaluetableformat4) | Represents Axis value table format 4 |
 | [ByteContentStreamSource](../com.aspose.font/bytecontentstreamsource) | Represents a stream source based on \_content stream. |
-| [CffEncoding](../com.aspose.font/cffencoding) | Represents CFF font encoding. |
+| [CffEncoding](../com.aspose.font/cffencoding) | Represents CFF \_font encoding. |
 | [CffFont](../com.aspose.font/cfffont) | Represents Compact Font Format (CFF). |
 | [CffFontException](../com.aspose.font/cfffontexception) | Represents common processing related exception for fonts of CFF format. |
 | [CffFontMetrics](../com.aspose.font/cfffontmetrics) | CFF font metrics implementation |
@@ -38,6 +38,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [Font](../com.aspose.font/font) | Represents base Font class. |
 | [FontAgrumentException](../com.aspose.font/fontagrumentexception) | Represents Font argument exception. |
 | [FontBBox](../com.aspose.font/fontbbox) | represents font bounding box. |
+| [FontCharactersMerger](../com.aspose.font/fontcharactersmerger) | Declares functionality to merge fonts of different types. |
 | [FontConversionException](../com.aspose.font/fontconversionexception) | Represents Font conversion exception. |
 | [FontCreationException](../com.aspose.font/fontcreationexception) | Represents Font creation exception. |
 | [FontDefinition](../com.aspose.font/fontdefinition) | Represents Font file set definition. |
@@ -45,6 +46,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [FontException](../com.aspose.font/fontexception) | Represents common Font processing related exception. |
 | [FontFactory](../com.aspose.font/fontfactory) | Contains functionality for opening fonts of different types and other methods for creating various objects. |
 | [FontFileDefinition](../com.aspose.font/fontfiledefinition) | Represents Font file definition. |
+| [FontMergeException](../com.aspose.font/fontmergeexception) | Represents Font merge exception. |
 | [FontMetrics](../com.aspose.font/fontmetrics) | Represents font metrics. |
 | [FontNotSupportedOperationException](../com.aspose.font/fontnotsupportedoperationexception) | Represents not supported operation exception. |
 | [FontSpecificEncodings](../com.aspose.font/fontspecificencodings) | Represents specific encodings for consumer-aware Fonts. |

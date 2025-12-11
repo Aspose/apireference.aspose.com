@@ -13,7 +13,7 @@ url: /cpp/aspose.font.glyphs/compositeglyphcomponentlist/
 Represents composite glyph components list.
 
 ```cpp
-class CompositeGlyphComponentList : public System::Collections::Generic::List<System::SharedPtr<Aspose::Font::Glyphs::CompositeGlyphComponent>>
+class CompositeGlyphComponentList : public System::Collections::Generic::List<System::SharedPtr<CompositeGlyphComponent>>
 ```
 
 ## Methods

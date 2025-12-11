@@ -2,7 +2,7 @@
 title: Aspose::Font::IFontMetrics::GetGlyphBBox method
 linktitle: GetGlyphBBox
 second_title: Aspose.Font for C++
-description: 'Aspose::Font::IFontMetrics::GetGlyphBBox method. Returns glyph BBox in C++.'
+description: 'Aspose::Font::IFontMetrics::GetGlyphBBox method. Sets glyph width in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.font/ifontmetrics/getglyphbbox/
@@ -10,7 +10,7 @@ url: /cpp/aspose.font/ifontmetrics/getglyphbbox/
 ## IFontMetrics::GetGlyphBBox method
 
 
-Returns glyph BBox.
+Sets glyph width.
 
 ```cpp
 virtual System::SharedPtr<Aspose::Font::FontBBox> Aspose::Font::IFontMetrics::GetGlyphBBox(System::SharedPtr<Glyphs::GlyphId> glyphId)=0
@@ -19,11 +19,16 @@ virtual System::SharedPtr<Aspose::Font::FontBBox> Aspose::Font::IFontMetrics::Ge
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| glyphId | System::SharedPtr\<Glyphs::GlyphId\> | glyph identifier |
+| glyphId | System::SharedPtr\<Glyphs::GlyphId\> | Glyph identifier. |
 
 ### ReturnValue
 
 glyph BBox
+## Remarks
+
+
+
+Returns glyph BBox.
 
 ## See Also
 

@@ -7,20 +7,20 @@ type: docs
 weight: 300
 url: /cpp/aspose.font.common_fontmerger/fontcharactersmerger/mergefonts/
 ---
-## FontCharactersMerger::MergeFonts(System::ArrayPtr\<System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>\>, System::ArrayPtr\<System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>\>, System::String) method
+## FontCharactersMerger::MergeFonts(System::ArrayPtr\<System::SharedPtr\<Glyphs::GlyphId\>\>, System::ArrayPtr\<System::SharedPtr\<Glyphs::GlyphId\>\>, System::String) method
 
 
 Merges fonts based on glyphs lists passed. Searches for a character code for every glyph passed and adds found character code with correspondent glyph into resultant new font.
 
 ```cpp
-virtual System::SharedPtr<Aspose::Font::Font> Aspose::Font::Common_FontMerger::FontCharactersMerger::MergeFonts(System::ArrayPtr<System::SharedPtr<Aspose::Font::Glyphs::GlyphId>> primaryFontGlyphs, System::ArrayPtr<System::SharedPtr<Aspose::Font::Glyphs::GlyphId>> secondaryFontGlyphs, System::String newFontName)=0
+virtual System::SharedPtr<Font> Aspose::Font::Common_FontMerger::FontCharactersMerger::MergeFonts(System::ArrayPtr<System::SharedPtr<Glyphs::GlyphId>> primaryFontGlyphs, System::ArrayPtr<System::SharedPtr<Glyphs::GlyphId>> secondaryFontGlyphs, System::String newFontName)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| primaryFontGlyphs | System::ArrayPtr\<System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>\> | List of glyphs to take from primary font |
-| secondaryFontGlyphs | System::ArrayPtr\<System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>\> | List of glyphs to take from secondary font |
+| primaryFontGlyphs | System::ArrayPtr\<System::SharedPtr\<Glyphs::GlyphId\>\> | List of glyphs to take from primary font |
+| secondaryFontGlyphs | System::ArrayPtr\<System::SharedPtr\<Glyphs::GlyphId\>\> | List of glyphs to take from secondary font |
 | newFontName | System::String | Desired name for resultant font |
 
 ### ReturnValue
@@ -43,7 +43,7 @@ Merged font
 Merges fonts based on character codes lists passed. To create desired resultant font just pass symbol codes from original fonts you want to include into resultant font. [Glyphs](../../../aspose.font.glyphs/) related to codes passed will be found automatically. For example, if you want to include into resultant font glyphs related to letters A and B from first font and glyphs, related to letters C and D from second font, just call this method like this: **MergeFonts(new uint[] { 'A', 'B' }, new uint[] { 'C', 'D' }, "NewFont")**
 
 ```cpp
-virtual System::SharedPtr<Aspose::Font::Font> Aspose::Font::Common_FontMerger::FontCharactersMerger::MergeFonts(System::ArrayPtr<uint32_t> primaryFontCharCodes, System::ArrayPtr<uint32_t> secondaryFontCharCodes, System::String newFontName)=0
+virtual System::SharedPtr<Font> Aspose::Font::Common_FontMerger::FontCharactersMerger::MergeFonts(System::ArrayPtr<uint32_t> primaryFontCharCodes, System::ArrayPtr<uint32_t> secondaryFontCharCodes, System::String newFontName)=0
 ```
 
 
@@ -66,20 +66,20 @@ Merged font
 * Class [FontCharactersMerger](../)
 * Namespace [Aspose::Font::Common_FontMerger](../../)
 * Library [Aspose.Font for C++](../../../)
-## FontCharactersMerger::MergeFonts(System::SharedPtr\<System::Collections::Generic::IDictionary\<uint32_t, System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>\>\>, System::SharedPtr\<System::Collections::Generic::IDictionary\<uint32_t, System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>\>\>, System::String) method
+## FontCharactersMerger::MergeFonts(System::SharedPtr\<System::Collections::Generic::IDictionary\<uint32_t, System::SharedPtr\<Glyphs::GlyphId\>\>\>, System::SharedPtr\<System::Collections::Generic::IDictionary\<uint32_t, System::SharedPtr\<Glyphs::GlyphId\>\>\>, System::String) method
 
 
 This method version designed for cases when you want to set character codes for glyphs in resultant font explicitly. It's not mandatory that code for glyph you provided is included in original font. The sense of code passed is that it will be associated with correspondent glyph identifier in resultant font. So, rule to process every pair passed by dictionary parameter[code, glyph ideitifier] is that only glyph identifer will be taken from original font and then it will be linked with correspondent code in resultant font. It can be helpful when some codes from first font conflict with same codes from second font.
 
 ```cpp
-virtual System::SharedPtr<Aspose::Font::Font> Aspose::Font::Common_FontMerger::FontCharactersMerger::MergeFonts(System::SharedPtr<System::Collections::Generic::IDictionary<uint32_t, System::SharedPtr<Aspose::Font::Glyphs::GlyphId>>> primaryFontDict, System::SharedPtr<System::Collections::Generic::IDictionary<uint32_t, System::SharedPtr<Aspose::Font::Glyphs::GlyphId>>> secondaryFontDict, System::String newFontName)=0
+virtual System::SharedPtr<Font> Aspose::Font::Common_FontMerger::FontCharactersMerger::MergeFonts(System::SharedPtr<System::Collections::Generic::IDictionary<uint32_t, System::SharedPtr<Glyphs::GlyphId>>> primaryFontDict, System::SharedPtr<System::Collections::Generic::IDictionary<uint32_t, System::SharedPtr<Glyphs::GlyphId>>> secondaryFontDict, System::String newFontName)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| primaryFontDict | System::SharedPtr\<System::Collections::Generic::IDictionary\<uint32_t, System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>\>\> | Dictionary with pairs [symbol code, glyph identifier] from primary font |
-| secondaryFontDict | System::SharedPtr\<System::Collections::Generic::IDictionary\<uint32_t, System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>\>\> | Dictionary with pairs [symbol code, glyph identifier] from secondary font |
+| primaryFontDict | System::SharedPtr\<System::Collections::Generic::IDictionary\<uint32_t, System::SharedPtr\<Glyphs::GlyphId\>\>\> | Dictionary with pairs [symbol code, glyph identifier] from primary font |
+| secondaryFontDict | System::SharedPtr\<System::Collections::Generic::IDictionary\<uint32_t, System::SharedPtr\<Glyphs::GlyphId\>\>\> | Dictionary with pairs [symbol code, glyph identifier] from secondary font |
 | newFontName | System::String | Desired name for resultant font |
 
 ### ReturnValue

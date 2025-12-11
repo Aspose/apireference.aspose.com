@@ -22,7 +22,7 @@ class CffFontsSettings : public System::Object
 | --- | --- |
 | [CffFontsSettings](./cfffontssettings/)() | Constructor. |
 | [get_UpdateStringsStrategy](./get_updatestringsstrategy/)() const | Strategy for updating strings in the CFF String INDEX structure. The AddStringAsIs option is used by default. |
-| [set_UpdateStringsStrategy](./set_updatestringsstrategy/)(Aspose::Font::CffDataProviders::CffUpdateStringIndexStrategy) | Strategy for updating strings in the CFF String INDEX structure. The AddStringAsIs option is used by default. |
+| [set_UpdateStringsStrategy](./set_updatestringsstrategy/)(CffDataProviders::CffUpdateStringIndexStrategy) | Strategy for updating strings in the CFF String INDEX structure. The AddStringAsIs option is used by default. |
 ## See Also
 
 * Class [Object](../../system/object/)

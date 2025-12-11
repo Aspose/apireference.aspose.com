@@ -13,7 +13,7 @@ url: /cpp/aspose.font.cffdataproviders/cfftopdictdataprovider/cfftopdictdataprov
 
 
 ```cpp
-Aspose::Font::CffDataProviders::CffTopDictDataProvider::CffTopDictDataProvider(System::SharedPtr<Aspose::Font::Cff::Internals::CffCidChildFont> font)
+Aspose::Font::CffDataProviders::CffTopDictDataProvider::CffTopDictDataProvider(System::SharedPtr<Cff::Internals::CffCidChildFont> font)
 ```
 
 ## See Also

@@ -3,7 +3,7 @@ title: TtfPostTable
 second_title: Aspose.Font for Java API Reference
 description: Represents post table of the TTF font file
 type: docs
-weight: 104
+weight: 106
 url: /java/com.aspose.font/ttfposttable/
 ---
 **Inheritance:**

@@ -20,7 +20,7 @@ class GlyphOutlineRenderer : public Aspose::Font::Renderers::GlyphRendererBase
 
 | Method | Description |
 | --- | --- |
-| [GlyphOutlineRenderer](./glyphoutlinerenderer/)(System::SharedPtr\<Aspose::Font::Rendering::IGlyphOutlinePainter\>) | Initializes new [GlyphOutlineRenderer](./) object. |
+| [GlyphOutlineRenderer](./glyphoutlinerenderer/)(System::SharedPtr\<Rendering::IGlyphOutlinePainter\>) | Initializes new [GlyphOutlineRenderer](./) object. |
 ## See Also
 
 * Class [GlyphRendererBase](../glyphrendererbase/)

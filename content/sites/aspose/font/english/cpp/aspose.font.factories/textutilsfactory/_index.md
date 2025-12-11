@@ -20,7 +20,7 @@ class TextUtilsFactory : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [GetFontCharactersMerger](./getfontcharactersmerger/)(System::SharedPtr\<Aspose::Font::Font\>, System::SharedPtr\<Aspose::Font::Font\>, FontType) | Gets instance of [FontCharactersMerger](../) class. |
+| [GetFontCharactersMerger](./getfontcharactersmerger/)(System::SharedPtr\<Font\>, System::SharedPtr\<Font\>, FontType) | Gets instance of [FontCharactersMerger](../) class. |
 | [GetFontMorseDecoder](./getfontmorsedecoder/)() | Gets [IFontMorseDecoder](../) instance. |
 | [GetFontMorseEncoder](./getfontmorseencoder/)() | Gets [IFontMorseEncoder](../) instance. |
 | [GetMorseDecoder](./getmorsedecoder/)() | Gets [IMorseDecoder](../) instance. |

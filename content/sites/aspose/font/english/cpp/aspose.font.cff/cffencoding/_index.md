@@ -28,7 +28,7 @@ class CffEncoding : public Aspose::Font::IFontEncoding,
 | [GetNameToGidIndex](./getnametogidindex/)() | Returns name to character code encoding map. Note: Character code is not a unicode. Character code is a char index in [Font](../../aspose.font/font/) encoding "table". |
 | [GetNameToSidIndex](./getnametosidindex/)() | Returns name to character code encoding map. Note: Character code is not a unicode. Character code is a char index in [Font](../../aspose.font/font/) encoding "table". |
 | [GetSidName](./getsidname/)(int32_t) | Gets name for the SID specified. |
-| [GidToUnicode](./gidtounicode/)(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>) override | Decodes Gid to unicode. Glyph id is a unique number for a glyph, which is font type dependent. CFF [Font](../../aspose.font/font/) glyph id can be instance of ([GlyphStringId](../)) class or ([GlyphUInt32Id](../)) class. |
+| [GidToUnicode](./gidtounicode/)(System::SharedPtr\<Glyphs::GlyphId\>) override | Decodes Gid to unicode. Glyph id is a unique number for a glyph, which is font type dependent. CFF [Font](../../aspose.font/font/) glyph id can be instance of ([GlyphStringId](../)) class or ([GlyphUInt32Id](../)) class. |
 | [UnicodeToGid](./unicodetogid/)(uint32_t) override | Decodes a unicode and returns glyph id. Glyph id is a unique number for a glyph, which is font type dependent. CFF [Font](../../aspose.font/font/) glyph id can be instance of ([GlyphStringId](../)) class or ([GlyphUInt32Id](../)) class. |
 ## See Also
 

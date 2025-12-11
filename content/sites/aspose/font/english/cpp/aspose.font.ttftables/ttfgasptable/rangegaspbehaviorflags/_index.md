@@ -20,12 +20,12 @@ enum class RangeGaspBehaviorFlags : uint16_t
 
 | Name | Value | Description |
 | --- | --- | --- |
-| neither | 0 | Optional for very large sizes, typically ppem>2048 |
-| GASP_GRIDFIT | 1 | Use gridfitting. |
-| GASP_DOGRAY | 2 | Use grayscale rendering. |
-| GASP_SYMMETRIC_GRIDFIT | 4 | Use gridfitting with ClearType symmetric smoothing Only supported in version 1 'gasp'. |
-| GASP_SYMMETRIC_SMOOTHING | 8 | Use smoothing along multiple axes with ClearType® Only supported in version 1 'gasp'. |
-| Reserved | 65520 | Reserved flags — set to 0. |
+| neither | n/a | Optional for very large sizes, typically ppem>2048. |
+| GASP_GRIDFIT | n/a | Use gridfitting. |
+| GASP_DOGRAY | n/a | Use grayscale rendering. |
+| GASP_SYMMETRIC_GRIDFIT | n/a | Use gridfitting with ClearType symmetric smoothing Only supported in version 1 'gasp'. |
+| GASP_SYMMETRIC_SMOOTHING | n/a | Use smoothing along multiple axes with ClearType® Only supported in version 1 'gasp'. |
+| Reserved | n/a | Reserved flags — set to 0. |
 
 ## See Also
 

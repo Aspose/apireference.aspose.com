@@ -7,19 +7,19 @@ type: docs
 weight: 1500
 url: /cpp/aspose.font.type1/type1font/getglyphbyid/
 ---
-## Type1Font::GetGlyphById(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>) method
+## Type1Font::GetGlyphById(System::SharedPtr\<Glyphs::GlyphId\>) method
 
 
 Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. [Type1](../../)[Font](../../../aspose.font/font/) glyph id can be instance of ([GlyphStringId](../)) class or ([GlyphUInt32Id](../)) class.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Glyphs::Glyph> Aspose::Font::Type1::Type1Font::GetGlyphById(System::SharedPtr<Aspose::Font::Glyphs::GlyphId> id) override
+System::SharedPtr<Glyphs::Glyph> Aspose::Font::Type1::Type1Font::GetGlyphById(System::SharedPtr<Glyphs::GlyphId> id) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | Glyph id. |
+| id | System::SharedPtr\<Glyphs::GlyphId\> | Glyph id. |
 
 ### ReturnValue
 
@@ -39,7 +39,7 @@ Glyph.
 Returns glyph by glyph id.
 
 ```cpp
-virtual System::SharedPtr<Aspose::Font::Glyphs::Glyph> Aspose::Font::Type1::Type1Font::GetGlyphById(System::String id)
+virtual System::SharedPtr<Glyphs::Glyph> Aspose::Font::Type1::Type1Font::GetGlyphById(System::String id)
 ```
 
 
@@ -65,7 +65,7 @@ Glyph.
 Returns glyph by glyph id.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Glyphs::Glyph> Aspose::Font::Type1::Type1Font::GetGlyphById(uint32_t id)
+System::SharedPtr<Glyphs::Glyph> Aspose::Font::Type1::Type1Font::GetGlyphById(uint32_t id)
 ```
 
 

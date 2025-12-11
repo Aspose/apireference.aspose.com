@@ -13,7 +13,7 @@ url: /cpp/aspose.font.ttftables/ttfmaxptable/get_tableversion/
 Gets format version. Use properties MajorNumber and MinorNUmber of object [Version16Dot16](../) in hexademical notation to detect version used.
 
 ```cpp
-System::SharedPtr<Aspose::Font::TtfCommon::Version16Dot16> Aspose::Font::TtfTables::TtfMaxpTable::get_TableVersion() const
+System::SharedPtr<TtfCommon::Version16Dot16> Aspose::Font::TtfTables::TtfMaxpTable::get_TableVersion() const
 ```
 
 ## See Also

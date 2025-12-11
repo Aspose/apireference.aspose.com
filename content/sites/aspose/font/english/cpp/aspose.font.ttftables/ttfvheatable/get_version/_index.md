@@ -13,7 +13,7 @@ url: /cpp/aspose.font.ttftables/ttfvheatable/get_version/
 Gets Version number of the vertical header table.
 
 ```cpp
-System::SharedPtr<Aspose::Font::TtfCommon::Version16Dot16> Aspose::Font::TtfTables::TtfVheaTable::get_Version()
+System::SharedPtr<TtfCommon::Version16Dot16> Aspose::Font::TtfTables::TtfVheaTable::get_Version()
 ```
 
 ## See Also
