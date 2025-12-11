@@ -4,7 +4,7 @@ linktitle: System::Collections::ObjectModel
 second_title: Aspose.Font for C++
 description: 'How to use System::Collections::ObjectModel namespace in C++.'
 type: docs
-weight: 2800
+weight: 2900
 url: /cpp/system.collections.objectmodel/
 ---
 

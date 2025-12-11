@@ -13,7 +13,7 @@ url: /cpp/aspose.font.ttftables/ttfposttable/get_tableformat/
 Gets fixed format(version) of this table. Use properties MajorNumber and MinorNUmber of object [Version16Dot16](../) in hexademical notation to detect version used.
 
 ```cpp
-System::SharedPtr<Aspose::Font::TtfCommon::Version16Dot16> Aspose::Font::TtfTables::TtfPostTable::get_TableFormat()
+System::SharedPtr<TtfCommon::Version16Dot16> Aspose::Font::TtfTables::TtfPostTable::get_TableFormat()
 ```
 
 ## See Also

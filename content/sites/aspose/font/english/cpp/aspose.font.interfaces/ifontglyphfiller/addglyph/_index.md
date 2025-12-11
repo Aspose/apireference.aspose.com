@@ -13,7 +13,7 @@ url: /cpp/aspose.font.interfaces/ifontglyphfiller/addglyph/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Font::Glyphs::GlyphId> Aspose::Font::Interfaces::IFontGlyphFiller::AddGlyph(System::SharedPtr<Aspose::Font::Glyphs::Glyph> glyph)=0
+virtual System::SharedPtr<Glyphs::GlyphId> Aspose::Font::Interfaces::IFontGlyphFiller::AddGlyph(System::SharedPtr<Glyphs::Glyph> glyph)=0
 ```
 
 ## See Also

@@ -28,8 +28,6 @@ virtual System::String Aspose::Font::TextUtils::IMorseDecoder::Decode(System::St
 
 Decoded text
 
-
-
 ## See Also
 
 * Class [String](../../../system/string/)

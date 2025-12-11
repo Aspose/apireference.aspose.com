@@ -27,8 +27,8 @@ class TtfNameTable : public Aspose::Font::TtfTables::TtfTableBase
 | [MacPlatformSpecificId](./macplatformspecificid/) | Represents Macintosh platform PlatformSpecificId enumeration. |
 | [MSLanguageId](./mslanguageid/) | Microsoft platform language id enumeration. |
 | [MSPlatformSpecificId](./msplatformspecificid/) | Represents Microsoft platform PlatformSpecificId enumeration. |
-| [NameId](./nameid/) | Represents NameId. |
-| [PlatformId](./platformid/) | Represents PlatformId enumeration. |
+| [NameId](./nameid/) | Represents [NameId](./nameid/). |
+| [PlatformId](./platformid/) | Represents [PlatformId](./platformid/) enumeration. |
 | [UnicodePlatformSpecificId](./unicodeplatformspecificid/) | Represents unicode platform-specific enumeration. |
 ## Methods
 
@@ -46,7 +46,7 @@ class TtfNameTable : public Aspose::Font::TtfTables::TtfTableBase
 | [GetMultiLanguageNameById](./getmultilanguagenamebyid/)(TtfNameTable::NameId, TtfNameTable::PlatformId) | Returns a name by nameId using platform identifier passed. |
 | [GetMultiLanguageNameById](./getmultilanguagenamebyid/)(TtfNameTable::NameId, TtfNameTable::PlatformId, uint16_t) | Returns a name as object of type [MultiLanguageString](../../aspose.font/multilanguagestring/). Method collects all [NameRecord](./namerecord/) structures which coincide with passed parameters nameId, platformId and platformSpecificId and then builds resultant object based on this structures list. |
 | [GetNameById](./getnamebyid/)(TtfNameTable::NameId) | Returns a name by nameId if found, null otherwise. |
-| [GetNameRecordsByNameId](./getnamerecordsbynameid/)(TtfNameTable::NameId) | Returns all [NameRecord](./namerecord/) structures which NameId field is equal to passed *nameId*  value. If no records found, empty array will be returned. |
+| [GetNameRecordsByNameId](./getnamerecordsbynameid/)(TtfNameTable::NameId) | Returns all [NameRecord](./namerecord/) structures which [NameId](./nameid/) field is equal to passed *nameId*  value. If no records found, empty array will be returned. |
 | [UpdateName](./updatename/)(TtfNameTable::PlatformId, uint16_t, TtfNameTable::NameId, uint16_t, System::String) | Updates name in record(s) which related to specified platform (combination of platformId and platformSpecificId), category (nameId) and language (languageId). |
 | [UpdateNamesByNameId](./updatenamesbynameid/)(TtfNameTable::NameId, System::String) | Selects all records which related to logical string category, specified by parameter nameId and updates name field (string data) in these records. Fields related to platform (platformID, Platform-specific encoding ID) and language (Language ID) are not affected by this method. Only name string data is replaced with a new name. Use this method with caution, cause it will replace original names for all platforms and languages, related to nameId. It can make a conflicts for cases when original names had different values, cause replace operation changes all these values with new single one.And this new value may have a logical inconsistency with some platforms and languages. This method is useful for cases when original name has single representation for all platforms and languages, for example, when name string data is in english language. |
 ## See Also

@@ -13,13 +13,13 @@ url: /cpp/aspose.font.renderers/glyphoutlinerenderer/glyphoutlinerenderer/
 Initializes new [GlyphOutlineRenderer](../) object.
 
 ```cpp
-Aspose::Font::Renderers::GlyphOutlineRenderer::GlyphOutlineRenderer(System::SharedPtr<Aspose::Font::Rendering::IGlyphOutlinePainter> painter)
+Aspose::Font::Renderers::GlyphOutlineRenderer::GlyphOutlineRenderer(System::SharedPtr<Rendering::IGlyphOutlinePainter> painter)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| painter | System::SharedPtr\<Aspose::Font::Rendering::IGlyphOutlinePainter\> | Glyph painter. |
+| painter | System::SharedPtr\<Rendering::IGlyphOutlinePainter\> | Glyph painter. |
 
 ## See Also
 

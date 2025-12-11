@@ -4,7 +4,7 @@ linktitle: ValueType
 second_title: Aspose.Font for C++
 description: 'System::Nullable::ValueType typedef. An alias for a type of the value represented by this class in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/system/nullable/valuetype/
 ---
 ## ValueType typedef
@@ -13,7 +13,7 @@ url: /cpp/system/nullable/valuetype/
 An alias for a type of the value represented by this class.
 
 ```cpp
-T System::Nullable< T >::ValueType
+typedef T System::Nullable< T >::ValueType
 ```
 
 ## See Also

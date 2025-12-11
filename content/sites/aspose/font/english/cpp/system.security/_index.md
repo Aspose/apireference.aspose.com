@@ -4,7 +4,7 @@ linktitle: System::Security
 second_title: Aspose.Font for C++
 description: 'How to use System::Security namespace in C++.'
 type: docs
-weight: 5700
+weight: 5800
 url: /cpp/system.security/
 ---
 

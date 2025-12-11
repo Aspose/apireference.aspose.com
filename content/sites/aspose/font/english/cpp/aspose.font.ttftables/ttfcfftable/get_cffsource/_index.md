@@ -13,7 +13,7 @@ url: /cpp/aspose.font.ttftables/ttfcfftable/get_cffsource/
 Raw bytes for outlines in Compact [Font](../../../aspose.font/font/) Format representation.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Sources::StreamSource> Aspose::Font::TtfTables::TtfCffTable::get_CffSource()
+System::SharedPtr<Sources::StreamSource> Aspose::Font::TtfTables::TtfCffTable::get_CffSource()
 ```
 
 ## See Also

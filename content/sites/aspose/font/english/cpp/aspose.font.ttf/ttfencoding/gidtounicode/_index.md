@@ -13,13 +13,13 @@ url: /cpp/aspose.font.ttf/ttfencoding/gidtounicode/
 Decodes glyph id to unicode. Glyph id is a unique number for a glyph, which is font type dependent. For example: [Type1](../../../aspose.font.type1/)'s id is a glyph name, instance of ([GlyphStringId](../)) class. TTF's id is an int index, instance of ([GlyphUInt32Id](../)) class.
 
 ```cpp
-uint32_t Aspose::Font::Ttf::TtfEncoding::GidToUnicode(System::SharedPtr<Aspose::Font::Glyphs::GlyphId> glyphId) override
+uint32_t Aspose::Font::Ttf::TtfEncoding::GidToUnicode(System::SharedPtr<Glyphs::GlyphId> glyphId) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| glyphId | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | Glyph identifier of symbol to decode. |
+| glyphId | System::SharedPtr\<Glyphs::GlyphId\> | Glyph identifier of symbol to decode. |
 
 ### ReturnValue
 

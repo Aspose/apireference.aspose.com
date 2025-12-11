@@ -4,7 +4,7 @@ linktitle: System::Xml::Resolvers
 second_title: Aspose.Font for C++
 description: 'How to use System::Xml::Resolvers namespace in C++.'
 type: docs
-weight: 7700
+weight: 7900
 url: /cpp/system.xml.resolvers/
 ---
 

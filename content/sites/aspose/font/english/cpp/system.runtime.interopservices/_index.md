@@ -4,7 +4,7 @@ linktitle: System::Runtime::InteropServices
 second_title: Aspose.Font for C++
 description: 'How to use System::Runtime::InteropServices namespace in C++.'
 type: docs
-weight: 5500
+weight: 5600
 url: /cpp/system.runtime.interopservices/
 ---
 

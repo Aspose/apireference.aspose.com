@@ -13,13 +13,13 @@ url: /cpp/aspose.font.ttf/ttffontmetrics/getglyphwidth/
 Returns glyphs width by glyph id.
 
 ```cpp
-double Aspose::Font::Ttf::TtfFontMetrics::GetGlyphWidth(System::SharedPtr<Aspose::Font::Glyphs::GlyphId> glyphId) override
+double Aspose::Font::Ttf::TtfFontMetrics::GetGlyphWidth(System::SharedPtr<Glyphs::GlyphId> glyphId) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| glyphId | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | Glyph identifier. |
+| glyphId | System::SharedPtr\<Glyphs::GlyphId\> | Glyph identifier. |
 
 ### ReturnValue
 

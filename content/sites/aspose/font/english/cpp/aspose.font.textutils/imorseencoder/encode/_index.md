@@ -54,8 +54,6 @@ virtual System::String Aspose::Font::TextUtils::IMorseEncoder::Encode(System::St
 
 Encoded text, ie "... --- ..." for the input text "SOS"
 
-
-
 ## See Also
 
 * Class [String](../../../system/string/)

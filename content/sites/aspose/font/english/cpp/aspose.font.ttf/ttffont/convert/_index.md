@@ -13,7 +13,7 @@ url: /cpp/aspose.font.ttf/ttffont/convert/
 Converts the [Font](../../../aspose.font/font/) into another format.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Font> Aspose::Font::Ttf::TtfFont::Convert(Aspose::Font::FontType fontType) override
+System::SharedPtr<Font> Aspose::Font::Ttf::TtfFont::Convert(Aspose::Font::FontType fontType) override
 ```
 
 
@@ -43,7 +43,7 @@ Note: TTF [Font](../../../aspose.font/font/) type is now supported only.
 Converts the [Font](../../../aspose.font/font/) into another format with limiting character set.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Font> Aspose::Font::Ttf::TtfFont::Convert(Aspose::Font::FontType fontType, System::SharedPtr<System::Collections::Generic::ICollection<uint32_t>> limitingCharacterSet)
+System::SharedPtr<Font> Aspose::Font::Ttf::TtfFont::Convert(Aspose::Font::FontType fontType, System::SharedPtr<System::Collections::Generic::ICollection<uint32_t>> limitingCharacterSet)
 ```
 
 

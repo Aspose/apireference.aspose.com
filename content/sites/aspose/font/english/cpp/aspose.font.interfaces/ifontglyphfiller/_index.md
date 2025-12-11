@@ -20,9 +20,9 @@ class IFontGlyphFiller : public System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [AddGlyph](./addglyph/)(System::SharedPtr\<Aspose::Font::Glyphs::Glyph\>) |  |
-| virtual [EncodeGlyph](./encodeglyph/)(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>, uint32_t) |  |
-| virtual [EncodeGlyph](./encodeglyph/)(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>, uint32_t, System::String) |  |
+| virtual [AddGlyph](./addglyph/)(System::SharedPtr\<Glyphs::Glyph\>) |  |
+| virtual [EncodeGlyph](./encodeglyph/)(System::SharedPtr\<Glyphs::GlyphId\>, uint32_t) |  |
+| virtual [EncodeGlyph](./encodeglyph/)(System::SharedPtr\<Glyphs::GlyphId\>, uint32_t, System::String) |  |
 ## See Also
 
 * Class [Object](../../system/object/)

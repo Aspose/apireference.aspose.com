@@ -13,7 +13,7 @@ url: /cpp/aspose.font.glyphs/glyph/get_path/
 Gets glyph path.
 
 ```cpp
-virtual System::SharedPtr<Aspose::Font::RenderingPath::SegmentPath> Aspose::Font::Glyphs::Glyph::get_Path()
+virtual System::SharedPtr<RenderingPath::SegmentPath> Aspose::Font::Glyphs::Glyph::get_Path()
 ```
 
 ## See Also

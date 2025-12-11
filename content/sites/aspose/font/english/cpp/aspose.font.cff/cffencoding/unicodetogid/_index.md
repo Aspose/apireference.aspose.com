@@ -13,7 +13,7 @@ url: /cpp/aspose.font.cff/cffencoding/unicodetogid/
 Decodes a unicode and returns glyph id. Glyph id is a unique number for a glyph, which is font type dependent. CFF [Font](../../../aspose.font/font/) glyph id can be instance of ([GlyphStringId](../)) class or ([GlyphUInt32Id](../)) class.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Glyphs::GlyphId> Aspose::Font::Cff::CffEncoding::UnicodeToGid(uint32_t unicode) override
+System::SharedPtr<Glyphs::GlyphId> Aspose::Font::Cff::CffEncoding::UnicodeToGid(uint32_t unicode) override
 ```
 
 

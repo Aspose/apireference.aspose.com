@@ -7,20 +7,20 @@ type: docs
 weight: 100
 url: /cpp/aspose.font.renderers/glyphrendererbase/renderglyph/
 ---
-## GlyphRendererBase::RenderGlyph(System::SharedPtr\<IFont\>, System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>) method
+## GlyphRendererBase::RenderGlyph(System::SharedPtr\<IFont\>, System::SharedPtr\<Glyphs::GlyphId\>) method
 
 
 Renders glyph.
 
 ```cpp
-void Aspose::Font::Renderers::GlyphRendererBase::RenderGlyph(System::SharedPtr<IFont> font, System::SharedPtr<Aspose::Font::Glyphs::GlyphId> glyphId) override
+void Aspose::Font::Renderers::GlyphRendererBase::RenderGlyph(System::SharedPtr<IFont> font, System::SharedPtr<Glyphs::GlyphId> glyphId) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | font | System::SharedPtr\<IFont\> | The [Font](../../../aspose.font/font/) that contains the glyph. |
-| glyphId | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | Physical glyph index inside [Font](../../../aspose.font/font/). Note that this is not a unicode. |
+| glyphId | System::SharedPtr\<Glyphs::GlyphId\> | Physical glyph index inside [Font](../../../aspose.font/font/). Note that this is not a unicode. |
 
 ## See Also
 
@@ -30,21 +30,21 @@ void Aspose::Font::Renderers::GlyphRendererBase::RenderGlyph(System::SharedPtr<I
 * Class [GlyphRendererBase](../)
 * Namespace [Aspose::Font::Renderers](../../)
 * Library [Aspose.Font for C++](../../../)
-## GlyphRendererBase::RenderGlyph(System::SharedPtr\<IFont\>, System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>, System::SharedPtr\<Aspose::Font::Glyphs::Glyph\>, System::SharedPtr\<TransformationMatrix\>) method
+## GlyphRendererBase::RenderGlyph(System::SharedPtr\<IFont\>, System::SharedPtr\<Glyphs::GlyphId\>, System::SharedPtr\<Glyphs::Glyph\>, System::SharedPtr\<TransformationMatrix\>) method
 
 
 Renders glyph, an objective of this overloaded version - to be used with cache for glyphs.
 
 ```cpp
-void Aspose::Font::Renderers::GlyphRendererBase::RenderGlyph(System::SharedPtr<IFont> font, System::SharedPtr<Aspose::Font::Glyphs::GlyphId> glyphId, System::SharedPtr<Aspose::Font::Glyphs::Glyph> glyph, System::SharedPtr<TransformationMatrix> glyphPlacementMatrix) override
+void Aspose::Font::Renderers::GlyphRendererBase::RenderGlyph(System::SharedPtr<IFont> font, System::SharedPtr<Glyphs::GlyphId> glyphId, System::SharedPtr<Glyphs::Glyph> glyph, System::SharedPtr<TransformationMatrix> glyphPlacementMatrix) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | font | System::SharedPtr\<IFont\> | The font that contains the glyph. |
-| glyphId | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | Physical glyph index inside [Font](../../../aspose.font/font/). Note that this is not a unicode. |
-| glyph | System::SharedPtr\<Aspose::Font::Glyphs::Glyph\> | Glyph to render. |
+| glyphId | System::SharedPtr\<Glyphs::GlyphId\> | Physical glyph index inside [Font](../../../aspose.font/font/). Note that this is not a unicode. |
+| glyph | System::SharedPtr\<Glyphs::Glyph\> | Glyph to render. |
 | glyphPlacementMatrix | System::SharedPtr\<TransformationMatrix\> | Matrix that is applied to glyph coordinates. |
 
 ## See Also
@@ -57,20 +57,20 @@ void Aspose::Font::Renderers::GlyphRendererBase::RenderGlyph(System::SharedPtr<I
 * Class [GlyphRendererBase](../)
 * Namespace [Aspose::Font::Renderers](../../)
 * Library [Aspose.Font for C++](../../../)
-## GlyphRendererBase::RenderGlyph(System::SharedPtr\<IFont\>, System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>, System::SharedPtr\<TransformationMatrix\>) method
+## GlyphRendererBase::RenderGlyph(System::SharedPtr\<IFont\>, System::SharedPtr\<Glyphs::GlyphId\>, System::SharedPtr\<TransformationMatrix\>) method
 
 
 Renders glyph.
 
 ```cpp
-void Aspose::Font::Renderers::GlyphRendererBase::RenderGlyph(System::SharedPtr<IFont> font, System::SharedPtr<Aspose::Font::Glyphs::GlyphId> glyphId, System::SharedPtr<TransformationMatrix> glyphPlacementMatrix) override
+void Aspose::Font::Renderers::GlyphRendererBase::RenderGlyph(System::SharedPtr<IFont> font, System::SharedPtr<Glyphs::GlyphId> glyphId, System::SharedPtr<TransformationMatrix> glyphPlacementMatrix) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | font | System::SharedPtr\<IFont\> | The [Font](../../../aspose.font/font/) that contains the glyph. |
-| glyphId | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | Physical glyph index inside [Font](../../../aspose.font/font/). Note that this is not a unicode. |
+| glyphId | System::SharedPtr\<Glyphs::GlyphId\> | Physical glyph index inside [Font](../../../aspose.font/font/). Note that this is not a unicode. |
 | glyphPlacementMatrix | System::SharedPtr\<TransformationMatrix\> | Matrix that is applied to glyph coordinates. |
 
 ## See Also

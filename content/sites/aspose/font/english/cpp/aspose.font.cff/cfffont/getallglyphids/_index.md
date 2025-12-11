@@ -13,7 +13,7 @@ url: /cpp/aspose.font.cff/cfffont/getallglyphids/
 Returns array of all glyph ids, available in the [Font](../../../aspose.font/font/). Glyph id is a unique number for a glyph, which is font type dependent. CFF [Font](../../../aspose.font/font/) glyph id can be instance of ([GlyphStringId](../)) class or ([GlyphUInt32Id](../)) class.
 
 ```cpp
-System::ArrayPtr<System::SharedPtr<Aspose::Font::Glyphs::GlyphId>> Aspose::Font::Cff::CffFont::GetAllGlyphIds() override
+System::ArrayPtr<System::SharedPtr<Glyphs::GlyphId>> Aspose::Font::Cff::CffFont::GetAllGlyphIds() override
 ```
 
 

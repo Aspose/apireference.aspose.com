@@ -13,7 +13,7 @@ url: /cpp/aspose.font.common_fontmerger/fontcharactersmerger/get_primaryfont/
 Gets primary font.
 
 ```cpp
-virtual System::SharedPtr<Aspose::Font::Font> Aspose::Font::Common_FontMerger::FontCharactersMerger::get_PrimaryFont()=0
+virtual System::SharedPtr<Font> Aspose::Font::Common_FontMerger::FontCharactersMerger::get_PrimaryFont()=0
 ```
 
 ## See Also

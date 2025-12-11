@@ -32,7 +32,7 @@ class IFontMetrics : public virtual System::Object
 | virtual [get_UnitsPerEM](./get_unitsperem/)() | Gets units per em. |
 | virtual [GetAscender](./getascender/)(double) | Returns ascender for specific [Font](../font/) size. |
 | virtual [GetDescender](./getdescender/)(double) | Returns descender for specific [Font](../font/) size. |
-| virtual [GetGlyphBBox](./getglyphbbox/)(System::SharedPtr\<Glyphs::GlyphId\>) | Returns glyph BBox. |
+| virtual [GetGlyphBBox](./getglyphbbox/)(System::SharedPtr\<Glyphs::GlyphId\>) | Sets glyph width. |
 | virtual [GetGlyphWidth](./getglyphwidth/)(System::SharedPtr\<Glyphs::GlyphId\>) | Returns glyph width. |
 | virtual [GetKerningValue](./getkerningvalue/)(System::SharedPtr\<Glyphs::GlyphId\>, System::SharedPtr\<Glyphs::GlyphId\>) | Returns kerning value for the glyph pair. |
 | virtual [GetTypoAscender](./gettypoascender/)(double) | Returns typographic ascender for specific [Font](../font/) size. |

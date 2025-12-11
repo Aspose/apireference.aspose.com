@@ -13,14 +13,14 @@ url: /cpp/aspose.font.ttf/ttffontmetrics/getkerningvalue/
 Returns kerning value for the glyph pair.
 
 ```cpp
-double Aspose::Font::Ttf::TtfFontMetrics::GetKerningValue(System::SharedPtr<Aspose::Font::Glyphs::GlyphId> prevGlyphId, System::SharedPtr<Aspose::Font::Glyphs::GlyphId> nextGlyphId) override
+double Aspose::Font::Ttf::TtfFontMetrics::GetKerningValue(System::SharedPtr<Glyphs::GlyphId> prevGlyphId, System::SharedPtr<Glyphs::GlyphId> nextGlyphId) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prevGlyphId | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | First glyph in pair. |
-| nextGlyphId | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | [Font](../../../aspose.font/font/) size. |
+| prevGlyphId | System::SharedPtr\<Glyphs::GlyphId\> | First glyph in pair. |
+| nextGlyphId | System::SharedPtr\<Glyphs::GlyphId\> | [Font](../../../aspose.font/font/) size. |
 
 ### ReturnValue
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.font.ttf/ttffont/getglyphsfortext/
 Get glyphs representation for text.
 
 ```cpp
-System::ArrayPtr<System::SharedPtr<Aspose::Font::Glyphs::GlyphId>> Aspose::Font::Ttf::TtfFont::GetGlyphsForText(System::String text) override
+System::ArrayPtr<System::SharedPtr<Glyphs::GlyphId>> Aspose::Font::Ttf::TtfFont::GetGlyphsForText(System::String text) override
 ```
 
 

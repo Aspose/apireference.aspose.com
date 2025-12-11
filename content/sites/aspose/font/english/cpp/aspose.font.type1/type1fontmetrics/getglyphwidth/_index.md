@@ -13,13 +13,13 @@ url: /cpp/aspose.font.type1/type1fontmetrics/getglyphwidth/
 Returns glyph width. May be ovridden by specific font encoding inheritors.
 
 ```cpp
-double Aspose::Font::Type1::Type1FontMetrics::GetGlyphWidth(System::SharedPtr<Aspose::Font::Glyphs::GlyphId> glyphId) override
+double Aspose::Font::Type1::Type1FontMetrics::GetGlyphWidth(System::SharedPtr<Glyphs::GlyphId> glyphId) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| glyphId | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | Glyph identifier. |
+| glyphId | System::SharedPtr\<Glyphs::GlyphId\> | Glyph identifier. |
 
 ### ReturnValue
 

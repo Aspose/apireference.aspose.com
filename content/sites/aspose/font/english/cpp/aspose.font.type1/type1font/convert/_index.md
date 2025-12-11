@@ -13,7 +13,7 @@ url: /cpp/aspose.font.type1/type1font/convert/
 Converts the [Font](../../../aspose.font/font/) into another format.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Font> Aspose::Font::Type1::Type1Font::Convert(Aspose::Font::FontType fontType) override
+System::SharedPtr<Font> Aspose::Font::Type1::Type1Font::Convert(Aspose::Font::FontType fontType) override
 ```
 
 

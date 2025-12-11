@@ -4,7 +4,7 @@ linktitle: System::Net::Http::Headers
 second_title: Aspose.Font for C++
 description: 'How to use System::Net::Http::Headers namespace in C++.'
 type: docs
-weight: 4800
+weight: 4900
 url: /cpp/system.net.http.headers/
 ---
 

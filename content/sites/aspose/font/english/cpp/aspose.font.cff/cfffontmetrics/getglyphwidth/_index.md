@@ -13,13 +13,13 @@ url: /cpp/aspose.font.cff/cfffontmetrics/getglyphwidth/
 Returns glyph width. May be overridden by specific [Font](../../../aspose.font/font/) encoding inheritors.
 
 ```cpp
-double Aspose::Font::Cff::CffFontMetrics::GetGlyphWidth(System::SharedPtr<Aspose::Font::Glyphs::GlyphId> glyphId) override
+double Aspose::Font::Cff::CffFontMetrics::GetGlyphWidth(System::SharedPtr<Glyphs::GlyphId> glyphId) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| glyphId | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | Glyph identifier. |
+| glyphId | System::SharedPtr\<Glyphs::GlyphId\> | Glyph identifier. |
 
 ### ReturnValue
 

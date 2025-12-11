@@ -4,7 +4,7 @@ linktitle: System::Security::Cryptography
 second_title: Aspose.Font for C++
 description: 'How to use System::Security::Cryptography namespace in C++.'
 type: docs
-weight: 5900
+weight: 6000
 url: /cpp/system.security.cryptography/
 ---
 

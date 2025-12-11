@@ -2,7 +2,7 @@
 title: Aspose::Font::operator== method
 linktitle: operator==
 second_title: Aspose.Font for C++
-description: 'How to use operator== method of  class in C++.'
+description: 'Aspose::Font::operator== method. Equality operator implementation in C++.'
 type: docs
 weight: 3900
 url: /cpp/aspose.font/operator==/
@@ -10,11 +10,21 @@ url: /cpp/aspose.font/operator==/
 ## Aspose::Font::operator==(const System::SharedPtr\<MultiLanguageString\>\&, const System::String\&) method
 
 
-
+Equality operator implementation.
 
 ```cpp
 bool Aspose::Font::operator==(const System::SharedPtr<MultiLanguageString> &obj1, const System::String &obj2)
 ```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj1 | const System::SharedPtr\<MultiLanguageString\>\& | first object to compare |
+| obj2 | const System::String\& | second object to compare |
+
+### ReturnValue
+
+comparison result
 
 ## See Also
 
@@ -26,11 +36,21 @@ bool Aspose::Font::operator==(const System::SharedPtr<MultiLanguageString> &obj1
 ## Aspose::Font::operator==(const System::String\&, const System::SharedPtr\<MultiLanguageString\>\&) method
 
 
-
+Equality operator implementation.
 
 ```cpp
 bool Aspose::Font::operator==(const System::String &obj1, const System::SharedPtr<MultiLanguageString> &obj2)
 ```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj1 | const System::String\& | string to compare |
+| obj2 | const System::SharedPtr\<MultiLanguageString\>\& | multilanguage string to compare |
+
+### ReturnValue
+
+comparison result
 
 ## See Also
 

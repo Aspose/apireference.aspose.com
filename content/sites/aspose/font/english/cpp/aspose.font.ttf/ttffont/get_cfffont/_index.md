@@ -13,7 +13,7 @@ url: /cpp/aspose.font.ttf/ttffont/get_cfffont/
 Gets CFF [Font](../../../aspose.font/font/) if present.
 
 ```cpp
-virtual System::SharedPtr<Aspose::Font::Font> Aspose::Font::Ttf::TtfFont::get_CffFont()
+virtual System::SharedPtr<Font> Aspose::Font::Ttf::TtfFont::get_CffFont()
 ```
 
 ## See Also

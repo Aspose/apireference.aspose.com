@@ -7,19 +7,19 @@ type: docs
 weight: 800
 url: /cpp/aspose.font.type1/type1metricfont/getglyphbyid/
 ---
-## Type1MetricFont::GetGlyphById(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>) method
+## Type1MetricFont::GetGlyphById(System::SharedPtr\<Glyphs::GlyphId\>) method
 
 
 Returns glyph by glyph id. Not supported for [Type1MetricFont](../) type.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Glyphs::Glyph> Aspose::Font::Type1::Type1MetricFont::GetGlyphById(System::SharedPtr<Aspose::Font::Glyphs::GlyphId> id) override
+System::SharedPtr<Glyphs::Glyph> Aspose::Font::Type1::Type1MetricFont::GetGlyphById(System::SharedPtr<Glyphs::GlyphId> id) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | Glyph identifier. |
+| id | System::SharedPtr\<Glyphs::GlyphId\> | Glyph identifier. |
 
 ### ReturnValue
 
@@ -39,7 +39,7 @@ Glyph.
 Returns glyph by glyph id. Not supported for [Type1MetricFont](../) type.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Glyphs::Glyph> Aspose::Font::Type1::Type1MetricFont::GetGlyphById(System::String id) override
+System::SharedPtr<Glyphs::Glyph> Aspose::Font::Type1::Type1MetricFont::GetGlyphById(System::String id) override
 ```
 
 

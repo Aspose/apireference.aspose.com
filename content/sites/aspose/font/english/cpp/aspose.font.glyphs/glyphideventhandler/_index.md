@@ -13,7 +13,7 @@ url: /cpp/aspose.font.glyphs/glyphideventhandler/
 
 
 ```cpp
-using Aspose::Font::Glyphs::GlyphIdEventHandler =  System::MulticastDelegate<void(System::SharedPtr<System::Object>, System::SharedPtr<GlyphIdEventArgs>)>
+using Aspose::Font::Glyphs::GlyphIdEventHandler =  System::MulticastDelegate<void(System::SharedPtr<System::Object>, System::SharedPtr<Aspose::Font::Glyphs::GlyphIdEventArgs>)>
 ```
 
 ## See Also

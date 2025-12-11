@@ -13,7 +13,7 @@ url: /cpp/aspose.font.glyphs/glyphidlist/
 Represents glyph id list.
 
 ```cpp
-class GlyphIdList : public System::Collections::Generic::List<System::SharedPtr<Aspose::Font::Glyphs::GlyphId>>
+class GlyphIdList : public System::Collections::Generic::List<System::SharedPtr<GlyphId>>
 ```
 
 ## Methods

@@ -28,7 +28,7 @@ class Type1MetricFont : public Aspose::Font::Type1::Type1Font
 | [get_Style](./get_style/)() override | Gets [Font](../../aspose.font/font/) style. |
 | [GetAllGlyphIds](./getallglyphids/)() override | Returns all glyph ids, available in the [Font](../../aspose.font/font/). Not supported for [Type1MetricFont](./) type. |
 | [GetGlyphById](./getglyphbyid/)(System::String) override | Returns glyph by glyph id. Not supported for [Type1MetricFont](./) type. |
-| [GetGlyphById](./getglyphbyid/)(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>) override | Returns glyph by glyph id. Not supported for [Type1MetricFont](./) type. |
+| [GetGlyphById](./getglyphbyid/)(System::SharedPtr\<Glyphs::GlyphId\>) override | Returns glyph by glyph id. Not supported for [Type1MetricFont](./) type. |
 ## See Also
 
 * Class [Type1Font](../type1font/)

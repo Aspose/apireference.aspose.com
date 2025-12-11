@@ -13,7 +13,7 @@ url: /cpp/aspose.font.cffdataproviders/cffprivatedictdataprovider/cffprivatedict
 
 
 ```cpp
-Aspose::Font::CffDataProviders::CffPrivateDictDataProvider::CffPrivateDictDataProvider(System::SharedPtr<Aspose::Font::Cff::Internals::CffCidChildFont> font)
+Aspose::Font::CffDataProviders::CffPrivateDictDataProvider::CffPrivateDictDataProvider(System::SharedPtr<Cff::Internals::CffCidChildFont> font)
 ```
 
 ## See Also

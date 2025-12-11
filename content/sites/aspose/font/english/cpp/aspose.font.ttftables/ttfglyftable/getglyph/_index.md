@@ -13,7 +13,7 @@ url: /cpp/aspose.font.ttftables/ttfglyftable/getglyph/
 Returns a glyph by glyph index.
 
 ```cpp
-virtual System::SharedPtr<Aspose::Font::Glyphs::Glyph> Aspose::Font::TtfTables::TtfGlyfTable::GetGlyph(uint32_t glyphIndex)
+virtual System::SharedPtr<Glyphs::Glyph> Aspose::Font::TtfTables::TtfGlyfTable::GetGlyph(uint32_t glyphIndex)
 ```
 
 

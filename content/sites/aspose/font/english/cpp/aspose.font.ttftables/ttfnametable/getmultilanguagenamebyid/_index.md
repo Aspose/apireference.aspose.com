@@ -52,9 +52,6 @@ System::SharedPtr<MultiLanguageString> Aspose::Font::TtfTables::TtfNameTable::Ge
 
 Name.
 
-
-
-
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
@@ -83,9 +80,6 @@ System::SharedPtr<MultiLanguageString> Aspose::Font::TtfTables::TtfNameTable::Ge
 ### ReturnValue
 
 Name.
-
-
-
 
 ## See Also
 

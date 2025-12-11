@@ -4,7 +4,7 @@ linktitle: System::Text
 second_title: Aspose.Font for C++
 description: 'How to use System::Text namespace in C++.'
 type: docs
-weight: 6600
+weight: 6700
 url: /cpp/system.text/
 ---
 

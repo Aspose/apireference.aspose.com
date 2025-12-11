@@ -13,7 +13,7 @@ url: /cpp/aspose.font.ttf/ttfencoding/unicodetogid/
 Decodes a unicode and returns glyph id.
 
 ```cpp
-System::SharedPtr<Aspose::Font::Glyphs::GlyphId> Aspose::Font::Ttf::TtfEncoding::UnicodeToGid(uint32_t unicode) override
+System::SharedPtr<Glyphs::GlyphId> Aspose::Font::Ttf::TtfEncoding::UnicodeToGid(uint32_t unicode) override
 ```
 
 

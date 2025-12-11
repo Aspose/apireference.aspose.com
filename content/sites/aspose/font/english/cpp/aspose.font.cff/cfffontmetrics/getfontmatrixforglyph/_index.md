@@ -13,13 +13,13 @@ url: /cpp/aspose.font.cff/cfffontmetrics/getfontmatrixforglyph/
 Calculates transformation matrix for glyph specified by id.
 
 ```cpp
-System::SharedPtr<TransformationMatrix> Aspose::Font::Cff::CffFontMetrics::GetFontMatrixForGlyph(System::SharedPtr<Aspose::Font::Glyphs::GlyphId> glyphId)
+System::SharedPtr<TransformationMatrix> Aspose::Font::Cff::CffFontMetrics::GetFontMatrixForGlyph(System::SharedPtr<Glyphs::GlyphId> glyphId)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| glyphId | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | Glyph identifier. |
+| glyphId | System::SharedPtr\<Glyphs::GlyphId\> | Glyph identifier. |
 
 ### ReturnValue
 

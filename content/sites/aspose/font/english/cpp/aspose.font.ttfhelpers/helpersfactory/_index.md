@@ -20,7 +20,7 @@ class HelpersFactory
 
 | Method | Description |
 | --- | --- |
-| static [GetFontCharactersMerger](./getfontcharactersmerger/)(System::SharedPtr\<Aspose::Font::Ttf::TtfFont\>, System::SharedPtr\<Aspose::Font::Ttf::TtfFont\>) | Creates [IFontCharactersMerger](../ifontcharactersmerger/) instance. |
+| static [GetFontCharactersMerger](./getfontcharactersmerger/)(System::SharedPtr\<Ttf::TtfFont\>, System::SharedPtr\<Ttf::TtfFont\>) | Creates [IFontCharactersMerger](../ifontcharactersmerger/) instance. |
 | [HelpersFactory](./helpersfactory/)() |  |
 ## See Also
 

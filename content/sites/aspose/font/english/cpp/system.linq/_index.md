@@ -4,7 +4,7 @@ linktitle: System::Linq
 second_title: Aspose.Font for C++
 description: 'How to use System::Linq namespace in C++.'
 type: docs
-weight: 4400
+weight: 4500
 url: /cpp/system.linq/
 ---
 

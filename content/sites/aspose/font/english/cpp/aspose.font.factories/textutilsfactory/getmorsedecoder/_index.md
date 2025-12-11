@@ -13,7 +13,7 @@ url: /cpp/aspose.font.factories/textutilsfactory/getmorsedecoder/
 Gets [IMorseDecoder](../) instance.
 
 ```cpp
-System::SharedPtr<Aspose::Font::TextUtils::IMorseDecoder> Aspose::Font::Factories::TextUtilsFactory::GetMorseDecoder()
+System::SharedPtr<TextUtils::IMorseDecoder> Aspose::Font::Factories::TextUtilsFactory::GetMorseDecoder()
 ```
 
 

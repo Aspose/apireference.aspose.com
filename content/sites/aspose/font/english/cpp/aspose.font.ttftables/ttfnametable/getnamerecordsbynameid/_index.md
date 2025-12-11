@@ -10,7 +10,7 @@ url: /cpp/aspose.font.ttftables/ttfnametable/getnamerecordsbynameid/
 ## TtfNameTable::GetNameRecordsByNameId method
 
 
-Returns all [NameRecord](../namerecord/) structures which NameId field is equal to passed *nameId*  value. If no records found, empty array will be returned.
+Returns all [NameRecord](../namerecord/) structures which [NameId](../nameid/) field is equal to passed *nameId*  value. If no records found, empty array will be returned.
 
 ```cpp
 System::ArrayPtr<System::SharedPtr<TtfNameTable::NameRecord>> Aspose::Font::TtfTables::TtfNameTable::GetNameRecordsByNameId(TtfNameTable::NameId nameId)

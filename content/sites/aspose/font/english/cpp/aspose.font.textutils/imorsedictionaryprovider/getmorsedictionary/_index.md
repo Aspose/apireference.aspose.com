@@ -13,7 +13,7 @@ url: /cpp/aspose.font.textutils/imorsedictionaryprovider/getmorsedictionary/
 Provides Morse dictionary for selected language.
 
 ```cpp
-virtual System::SharedPtr<Aspose::Font::Utils::Morse::MorseTranslationDictionary> Aspose::Font::TextUtils::IMorseDictionaryProvider::GetMorseDictionary(MorseAlphabets alphabets)=0
+virtual System::SharedPtr<Utils::Morse::MorseTranslationDictionary> Aspose::Font::TextUtils::IMorseDictionaryProvider::GetMorseDictionary(MorseAlphabets alphabets)=0
 ```
 
 

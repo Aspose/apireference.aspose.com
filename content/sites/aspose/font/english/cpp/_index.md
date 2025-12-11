@@ -35,6 +35,7 @@ is_root: true
 | [Aspose::Font::TtfHelpers](./aspose.font.ttfhelpers/) |  |
 | [Aspose::Font::TtfTables](./aspose.font.ttftables/) |  |
 | [Aspose::Font::Type1](./aspose.font.type1/) |  |
+| [Aspose::Font::Utils](./aspose.font.utils/) |  |
 | [Aspose::Font::WoffExceptions](./aspose.font.woffexceptions/) |  |
 | [System](./system/) |  |
 | [System::Collections](./system.collections/) |  |
@@ -81,6 +82,7 @@ is_root: true
 | [System::Text](./system.text/) |  |
 | [System::Text::RegularExpressions](./system.text.regularexpressions/) |  |
 | [System::Threading](./system.threading/) |  |
+| [System::Threading::Tasks](./system.threading.tasks/) |  |
 | [System::Timers](./system.timers/) |  |
 | [System::Web](./system.web/) |  |
 | [System::Web::Services](./system.web.services/) |  |

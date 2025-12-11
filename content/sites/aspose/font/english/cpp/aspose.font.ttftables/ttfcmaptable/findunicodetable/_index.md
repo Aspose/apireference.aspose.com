@@ -13,7 +13,7 @@ url: /cpp/aspose.font.ttftables/ttfcmaptable/findunicodetable/
 Searches and returns unicode CMap. if there is ucs-4 CMap - returns it first; otherwise - returns any unicode cmap it can find.
 
 ```cpp
-System::SharedPtr<Aspose::Font::TtfCMapFormats::TtfCMapFormatBaseTable> Aspose::Font::TtfTables::TtfCMapTable::FindUnicodeTable()
+System::SharedPtr<TtfCMapFormats::TtfCMapFormatBaseTable> Aspose::Font::TtfTables::TtfCMapTable::FindUnicodeTable()
 ```
 
 
