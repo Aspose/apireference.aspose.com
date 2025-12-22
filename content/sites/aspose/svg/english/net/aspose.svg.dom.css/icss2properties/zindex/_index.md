@@ -3,7 +3,7 @@ title: ICSS2Properties.ZIndex
 second_title: Aspose.SVG for .NET API Reference
 description: ICSS2Properties ZIndex property. See the z-index property definition in CSS2
 type: docs
-weight: 1220
+weight: 1250
 url: /net/aspose.svg.dom.css/icss2properties/zindex/
 ---
 ## ICSS2Properties.ZIndex property

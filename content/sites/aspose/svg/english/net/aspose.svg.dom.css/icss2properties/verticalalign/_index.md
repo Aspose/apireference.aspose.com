@@ -3,7 +3,7 @@ title: ICSS2Properties.VerticalAlign
 second_title: Aspose.SVG for .NET API Reference
 description: ICSS2Properties VerticalAlign property. See the vertical-align property definition in CSS2
 type: docs
-weight: 1140
+weight: 1170
 url: /net/aspose.svg.dom.css/icss2properties/verticalalign/
 ---
 ## ICSS2Properties.VerticalAlign property
