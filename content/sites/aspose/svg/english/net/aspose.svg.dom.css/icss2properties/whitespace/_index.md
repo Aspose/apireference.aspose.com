@@ -3,7 +3,7 @@ title: ICSS2Properties.WhiteSpace
 second_title: Aspose.SVG for .NET API Reference
 description: ICSS2Properties WhiteSpace property. See the white-space property definition in CSS2
 type: docs
-weight: 1180
+weight: 1210
 url: /net/aspose.svg.dom.css/icss2properties/whitespace/
 ---
 ## ICSS2Properties.WhiteSpace property
