@@ -4,7 +4,7 @@ linktitle: System::Xml::Serialization
 second_title: Aspose.TeX for C++
 description: 'How to use System::Xml::Serialization namespace in C++.'
 type: docs
-weight: 6700
+weight: 6800
 url: /cpp/system.xml.serialization/
 ---
 

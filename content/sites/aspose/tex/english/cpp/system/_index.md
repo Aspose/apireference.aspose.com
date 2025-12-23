@@ -39,7 +39,7 @@ url: /cpp/system/
 | [EnumValues](./enumvalues/) | Provides meta information about enumeration constants of enum type **E**. |
 | [EnumValuesBase](./enumvaluesbase/) | A base class for a class that represents meta information of enumeration type. |
 | [EventArgs](./eventargs/) | The base class for classes that represent a context that is passed to the event subscribers when an event is triggered. Objects of this class should only be allocated using [System::MakeObject()](./makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](./smartptr/) pointer and use this pointer to pass it to functions as argument. |
-| [ExceptionWrapper](./exceptionwrapper/) | Template that represents wrapper of exceptions that are derived from Exception class. |
+| [ExceptionWrapper](./exceptionwrapper/) | Template that represents wrapper of exceptions that are derived from [Exception](./exception/) class. |
 | [FlagsAttribute](./flagsattribute/) | Indicates that an enumeration can be treated as a bit field; that is, a set of. |
 | [Func](./func/) | Function delegate. This type should be allocated on stack and passed to functions by value or by reference. Never use [System::SmartPtr](./smartptr/) class to manage objects of this type. |
 | [GC](./gc/) | Represents an emulated Garbage Collection which acts more like a stub which effectively does nothing. This is a static type with no instance services. You should never create instances of it by any means. |
@@ -118,7 +118,7 @@ url: /cpp/system/
 | [Action](./action/) | Delegate type that references methods that have no return value. |
 | [ArrayPtr](./arrayptr/) | Alias for 'pointer to array' type. |
 | [AsyncCallback](./asynccallback/) | A delegate type that represents a method to be called when asynchronous operation completes. |
-| [BadImageFormatException](./badimageformatexception/) | The exception that is thrown when the file image of a dynamic link library (DLL) or an executable program is invalid. Never wrap the BadImageFormatException class instances into [System::SmartPtr](./smartptr/). |
+| [BadImageFormatException](./badimageformatexception/) | The exception that is thrown when the file image of a dynamic link library (DLL) or an executable program is invalid. Never wrap the [BadImageFormatException](./badimageformatexception/) class instances into [System::SmartPtr](./smartptr/). |
 | [ByteArrayPtr](./bytearrayptr/) | An alias for a smart pointer object that points to an array of unsigned 8-bit integers. |
 | [Converter](./converter/) | Represents a pointer to the invokable entity that accepts a single argument of the **TInput** type and returns a value of the **TOutput** type. |
 | [DecoderFallbackBufferPtr](./decoderfallbackbufferptr/) | An alias for a smart pointer that points to an instance of [System::Text::DecoderFallbackBuffer](../system.text/decoderfallbackbuffer/) class. |
@@ -141,16 +141,19 @@ url: /cpp/system/
 | [FileInfoPtr](./fileinfoptr/) | An alias for a smart pointer that points to an instance of [System::IO::FileInfo](../system.io/fileinfo/) class. |
 | [FileStreamPtr](./filestreamptr/) | An alias for a smart pointer that points to an instance of [System::IO::FileStream](../system.io/filestream/) class. |
 | [FileSystemInfoPtr](./filesysteminfoptr/) | An alias for a smart pointer that points to an instance of [System::IO::FileSystemInfo](../system.io/filesysteminfo/) class. |
+| [FunctionPtr](./functionptr/) | An alias for function type with default calling convention. |
 | [IAsyncResultPtr](./iasyncresultptr/) | Shared pointer to [IAsyncResult](./iasyncresult/). |
 | [IFormatProviderPtr](./iformatproviderptr/) | An alias for a smart pointer that points to an instance of [System::IFormatProvider](./iformatprovider/) class. |
 | [MakeConstRef_t](./makeconstref_t/) | Helper type for [MakeConstRef](./makeconstref/) modifier. |
 | [MemoryStreamPtr](./memorystreamptr/) | An alias for a smart pointer that points to an instance of [System::IO::MemoryStream](../system.io/memorystream/) class. |
 | [Predicate](./predicate/) | Represents a pointer to a predicate - an invokable entity that accepts a single argument and returns a bool value. |
+| [RTaskPtr](./rtaskptr/) | An alias for a smart pointer that points to an instance of [System::Threading::Tasks::ResultTask](../system.threading.tasks/resulttask/) class. |
 | [SharedPtr](./sharedptr/) | Alias for smart pointer widely used in the library. |
 | [StreamPtr](./streamptr/) | An alias for a smart pointer that points to an instance of [System::IO::Stream](../system.io/stream/) class. |
 | [StreamReaderPtr](./streamreaderptr/) | An alias for a smart pointer that points to an instance of [System::IO::StreamReader](../system.io/streamreader/) class. |
 | [StreamWriterPtr](./streamwriterptr/) | An alias for a smart pointer that points to an instance of [System::IO::StreamWriter](../system.io/streamwriter/) class. |
 | [StringComparerPtr](./stringcomparerptr/) | An alias for a shared pointer to an instance of [StringComparer](./stringcomparer/) class. |
+| [TaskPtr](./taskptr/) | An alias for a smart pointer that points to an instance of [System::Threading::Tasks::Task](../system.threading.tasks/task/) class. |
 | [TimeZoneInfoPtr](./timezoneinfoptr/) | Alias for shared pointer to an instance of [TimeZoneInfo](./timezoneinfo/) class. |
 | [TimeZonePtr](./timezoneptr/) | Shared pointer to an instance of [TimeZone](./timezone/) class. |
 ## Functions
@@ -170,6 +173,11 @@ url: /cpp/system/
 | AsCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | AsCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | AsCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| AsCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| AsCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| Build | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| BuildArray | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| BuildObject | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | Cast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | Cast_noexcept | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | CastEnumerableTo | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
@@ -218,24 +226,36 @@ url: /cpp/system/
 | ExplicitCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | ExplicitCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | ExplicitCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| ExplicitCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| ExplicitCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| ExplicitCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | ForceStaticCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | ForEachMemberGVName | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| GEqual | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| Get | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| Get | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| Get | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| Get | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | get_pointer | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | GetHashCode | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | GetHashCode | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | GetHashCode | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | GetHashCode | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | GetHashCode | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| Greater | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| InitObject | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| Is | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| Is | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| Is | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | is_parametrized_test | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | is_vp_test | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
-| IsConstant | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
-| IsDeclaration | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IsEnumMetaInfoDefined | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IsEnumMetaInfoDefined | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IsInfinity | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IsNaN | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IsNegativeInfinity | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IsPositiveInfinity | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| IsTuple | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IterateOver | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IterateOver | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IterateOver | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
@@ -243,15 +263,23 @@ url: /cpp/system/
 | IterateOver | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IterateOver | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IterateOver | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| LEqual | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| Less | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeArray | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeArray | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeArray | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| MakeAsync | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| MakeAsync | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeObject | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeObject | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeScopeGuard | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeSharedPtr | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeSharedPtr | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeTuple | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| MakeValueAsync | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| MakeValueAsync | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| MakeYieldEnumerable | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| MakeYieldEnumerator | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MemberwiseClone | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | ObjectType::GetType< System::DateTime > | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | ObjectType::GetType< System::String > | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
@@ -367,6 +395,7 @@ url: /cpp/system/
 | Ref | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | Ref | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | SafeInvoke | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| Set | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | setter_decrement_wrap | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | setter_decrement_wrap | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | setter_decrement_wrap | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
@@ -397,3 +426,5 @@ url: /cpp/system/
 | StaticCastArray | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | StaticCastArray | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | TieTuple | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| With | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| With | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

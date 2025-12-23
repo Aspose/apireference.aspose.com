@@ -4,7 +4,7 @@ linktitle: get_pointer
 second_title: Aspose.TeX for C++
 description: 'System::get_pointer method. Gets referenced object of smart pointer in C++.'
 type: docs
-weight: 19500
+weight: 21100
 url: /cpp/system/get_pointer/
 ---
 ## System::get_pointer method

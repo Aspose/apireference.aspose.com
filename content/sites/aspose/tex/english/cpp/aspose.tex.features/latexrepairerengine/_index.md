@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/latexrepairerengine/
 
 
 ```cpp
-class LaTeXRepairerEngine : public Aspose::TeX::ObjectTeXEngine
+class LaTeXRepairerEngine : public ObjectTeXEngine
 ```
 
 ## Methods

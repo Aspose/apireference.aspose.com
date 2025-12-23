@@ -4,7 +4,7 @@ linktitle: operator!=
 second_title: Aspose.TeX for C++
 description: 'How to use operator!= method of  class in C++.'
 type: docs
-weight: 23000
+weight: 25800
 url: /cpp/system/operator!=/
 ---
 ## System::operator!=(ArraySegment\<T\>, ArraySegment\<T\>) method

@@ -4,7 +4,7 @@ linktitle: TieTuple
 second_title: Aspose.TeX for C++
 description: 'System::TieTuple method. Creates tuple bound to some values in C++.'
 type: docs
-weight: 37100
+weight: 40000
 url: /cpp/system/tietuple/
 ---
 ## System::TieTuple method
@@ -13,7 +13,7 @@ url: /cpp/system/tietuple/
 Creates tuple bound to some values.
 
 ```cpp
-template<typename...> static ValueTuple<Args...> System::TieTuple(Args &&... args)
+template<typename...> ValueTuple<Args...> System::TieTuple(Args &&... args)
 ```
 
 

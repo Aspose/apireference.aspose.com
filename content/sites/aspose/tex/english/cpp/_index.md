@@ -15,7 +15,7 @@ is_root: true
 | --- | --- |
 | [Aspose::TeX](./aspose.tex/) | The **[Aspose.TeX](./aspose.tex/)** is a root namespace for all classes of the [Aspose.TeX](./aspose.tex/) library which are either directly contained within it, such as **[TeXJob](./aspose.tex/texjob/)**, or indirectly through several nested namespaces. |
 | [Aspose::TeX::CommandLine](./aspose.tex.commandline/) | The **[Aspose.TeX.CommandLine](./aspose.tex.commandline/)** namespace provides classes for handling Object [TeX](./aspose.tex/)'s **\write18** primitive. |
-| [Aspose::TeX::Features](./aspose.tex.features/) | The **[Aspose.TeX.Features](./aspose.tex.features/)** namespace provides additional TeX(LaTeX) features. |
+| [Aspose::TeX::Features](./aspose.tex.features/) | The **[Aspose.TeX.Features](./aspose.tex.features/)** namespace provides additional [TeX(LaTeX)](./aspose.tex/) features. |
 | [Aspose::TeX::IO](./aspose.tex.io/) | The **[Aspose.TeX.IO](./aspose.tex.io/)** namespace provides classes for I/O that [TeX](./aspose.tex/) engine performs. |
 | [Aspose::TeX::Plugins](./aspose.tex.plugins/) |  |
 | [Aspose::TeX::Presentation](./aspose.tex.presentation/) | The **[Aspose.TeX.Presentation](./aspose.tex.presentation/)** namespace provides common classes for typesetting [TeX](./aspose.tex/) files to other formats. |
@@ -69,6 +69,7 @@ is_root: true
 | [System::Text](./system.text/) |  |
 | [System::Text::RegularExpressions](./system.text.regularexpressions/) |  |
 | [System::Threading](./system.threading/) |  |
+| [System::Threading::Tasks](./system.threading.tasks/) |  |
 | [System::Timers](./system.timers/) |  |
 | [System::Web](./system.web/) |  |
 | [System::Web::Services](./system.web.services/) |  |

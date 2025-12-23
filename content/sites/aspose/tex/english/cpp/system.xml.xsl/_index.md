@@ -4,7 +4,7 @@ linktitle: System::Xml::Xsl
 second_title: Aspose.TeX for C++
 description: 'How to use System::Xml::Xsl namespace in C++.'
 type: docs
-weight: 6900
+weight: 7000
 url: /cpp/system.xml.xsl/
 ---
 

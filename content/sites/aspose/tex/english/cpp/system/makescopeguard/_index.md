@@ -4,7 +4,7 @@ linktitle: MakeScopeGuard
 second_title: Aspose.TeX for C++
 description: 'System::MakeScopeGuard method. A factory function that creates instances of ScopedGuard class in C++.'
 type: docs
-weight: 22300
+weight: 24700
 url: /cpp/system/makescopeguard/
 ---
 ## System::MakeScopeGuard method

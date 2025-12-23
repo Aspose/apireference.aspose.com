@@ -8,7 +8,7 @@ weight: 300
 url: /cpp/aspose.tex.features/
 ---
 
-The **[Aspose.TeX.Features](./)** namespace provides additional TeX(LaTeX) features.
+The **[Aspose.TeX.Features](./)** namespace provides additional [TeX(LaTeX)](../aspose.tex/) features.
 
 ## Classes
 
