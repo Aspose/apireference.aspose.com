@@ -3,7 +3,7 @@ title: min_height property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 810
+weight: 840
 url: /python-net/aspose.svg.dom.css/icssstyledeclaration/min_height/
 is_root: false
 ---

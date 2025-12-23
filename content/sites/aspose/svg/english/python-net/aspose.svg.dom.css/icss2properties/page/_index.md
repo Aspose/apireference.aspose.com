@@ -3,7 +3,7 @@ title: page property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 870
+weight: 900
 url: /python-net/aspose.svg.dom.css/icss2properties/page/
 is_root: false
 ---

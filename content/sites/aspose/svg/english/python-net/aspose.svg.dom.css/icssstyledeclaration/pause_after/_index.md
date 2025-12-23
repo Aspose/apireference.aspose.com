@@ -3,7 +3,7 @@ title: pause_after property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1000
+weight: 1030
 url: /python-net/aspose.svg.dom.css/icssstyledeclaration/pause_after/
 is_root: false
 ---

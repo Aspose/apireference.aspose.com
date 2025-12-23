@@ -3,7 +3,7 @@ title: orphans property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 760
+weight: 790
 url: /python-net/aspose.svg.dom.css/icss2properties/orphans/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: max_height property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 790
+weight: 820
 url: /python-net/aspose.svg.dom.css/icssstyledeclaration/max_height/
 is_root: false
 ---

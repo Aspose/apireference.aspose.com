@@ -3,7 +3,7 @@ title: outline_style property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 860
+weight: 890
 url: /python-net/aspose.svg.dom.css/icssstyledeclaration/outline_style/
 is_root: false
 ---

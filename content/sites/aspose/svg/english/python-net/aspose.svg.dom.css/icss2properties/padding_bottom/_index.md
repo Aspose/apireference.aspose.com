@@ -3,7 +3,7 @@ title: padding_bottom property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 830
+weight: 860
 url: /python-net/aspose.svg.dom.css/icss2properties/padding_bottom/
 is_root: false
 ---

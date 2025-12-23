@@ -3,7 +3,7 @@ title: right property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1080
+weight: 1110
 url: /python-net/aspose.svg.dom.css/icssstyledeclaration/right/
 is_root: false
 ---

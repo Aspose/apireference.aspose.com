@@ -3,7 +3,7 @@ title: visibility property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1170
+weight: 1200
 url: /python-net/aspose.svg.dom.css/icss2properties/visibility/
 is_root: false
 ---

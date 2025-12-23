@@ -3,7 +3,7 @@ title: CSS_GRAD property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 260
 url: /python-net/aspose.svg.dom.css/cssprimitivevalue/css_grad/
 is_root: false
 ---

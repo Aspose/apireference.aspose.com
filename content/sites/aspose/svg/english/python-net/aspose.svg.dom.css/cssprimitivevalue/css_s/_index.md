@@ -3,7 +3,7 @@ title: CSS_S property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 440
 url: /python-net/aspose.svg.dom.css/cssprimitivevalue/css_s/
 is_root: false
 ---

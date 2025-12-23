@@ -68,6 +68,7 @@ The CSSPrimitiveValue type exposes the following members:
 | [CSS_VMIN](/svg/python-net/aspose.svg.dom.css/cssprimitivevalue/css_vmin) | The value is a percentage of the viewport width or height, whichever is smaller. |
 | [CSS_VMAX](/svg/python-net/aspose.svg.dom.css/cssprimitivevalue/css_vmax) | The value is a percentage of the viewport width or height, whichever is larger. |
 | [CSS_X](/svg/python-net/aspose.svg.dom.css/cssprimitivevalue/css_x) | The value is a dots per ‘px’ unit (x). |
+| [CSS_FR](/svg/python-net/aspose.svg.dom.css/cssprimitivevalue/css_fr) | A flexible length or flex is a dimension with the fr unit, which represents a fraction of the leftover space in the grid container |
 
 
 ### Methods

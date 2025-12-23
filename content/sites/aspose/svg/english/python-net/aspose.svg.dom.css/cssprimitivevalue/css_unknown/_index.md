@@ -3,7 +3,7 @@ title: CSS_UNKNOWN property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 460
 url: /python-net/aspose.svg.dom.css/cssprimitivevalue/css_unknown/
 is_root: false
 ---

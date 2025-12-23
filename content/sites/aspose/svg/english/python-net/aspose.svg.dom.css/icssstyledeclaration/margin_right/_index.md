@@ -3,7 +3,7 @@ title: margin_right property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 750
+weight: 780
 url: /python-net/aspose.svg.dom.css/icssstyledeclaration/margin_right/
 is_root: false
 ---

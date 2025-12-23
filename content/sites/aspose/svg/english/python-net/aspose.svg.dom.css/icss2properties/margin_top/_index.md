@@ -3,7 +3,7 @@ title: margin_top property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 690
+weight: 720
 url: /python-net/aspose.svg.dom.css/icss2properties/margin_top/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: unicode_bidi property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1230
+weight: 1260
 url: /python-net/aspose.svg.dom.css/icssstyledeclaration/unicode_bidi/
 is_root: false
 ---

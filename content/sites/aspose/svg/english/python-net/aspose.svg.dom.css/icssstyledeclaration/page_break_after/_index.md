@@ -3,7 +3,7 @@ title: page_break_after property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 950
+weight: 980
 url: /python-net/aspose.svg.dom.css/icssstyledeclaration/page_break_after/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: speak_numeral property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1120
+weight: 1150
 url: /python-net/aspose.svg.dom.css/icssstyledeclaration/speak_numeral/
 is_root: false
 ---

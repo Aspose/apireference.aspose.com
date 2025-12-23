@@ -3,7 +3,7 @@ title: list_style property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 680
+weight: 710
 url: /python-net/aspose.svg.dom.css/icssstyledeclaration/list_style/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: position property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 970
+weight: 1000
 url: /python-net/aspose.svg.dom.css/icss2properties/position/
 is_root: false
 ---

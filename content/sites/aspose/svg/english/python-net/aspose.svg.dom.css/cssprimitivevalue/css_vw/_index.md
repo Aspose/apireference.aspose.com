@@ -3,7 +3,7 @@ title: CSS_VW property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 510
+weight: 520
 url: /python-net/aspose.svg.dom.css/cssprimitivevalue/css_vw/
 is_root: false
 ---

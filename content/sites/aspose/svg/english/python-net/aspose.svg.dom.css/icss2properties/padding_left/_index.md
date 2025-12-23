@@ -3,7 +3,7 @@ title: padding_left property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 840
+weight: 870
 url: /python-net/aspose.svg.dom.css/icss2properties/padding_left/
 is_root: false
 ---

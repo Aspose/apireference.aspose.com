@@ -3,7 +3,7 @@ title: text_decoration property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1180
+weight: 1210
 url: /python-net/aspose.svg.dom.css/icssstyledeclaration/text_decoration/
 is_root: false
 ---

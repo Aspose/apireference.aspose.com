@@ -3,7 +3,7 @@ title: speak_punctuation property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1050
+weight: 1080
 url: /python-net/aspose.svg.dom.css/icss2properties/speak_punctuation/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: widows property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1290
+weight: 1320
 url: /python-net/aspose.svg.dom.css/icssstyledeclaration/widows/
 is_root: false
 ---
