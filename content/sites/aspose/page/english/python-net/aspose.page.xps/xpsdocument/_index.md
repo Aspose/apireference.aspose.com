@@ -39,6 +39,8 @@ The XpsDocument type exposes the following members:
 | `save(stream)` | Saves XPS document to stream. |
 | `save_as_pdf(out_pdf_file_path, options)` | Saves the document in PDF format. |
 | `save_as_pdf(stream, options)` | Saves the document in PDF format. |
+| `save_as_image(options)` | Saves the document to image file.The output directory and the file name will be the same as from input XPS file.<br/>            The file extension will correspond to image format in "options" param.<br/>            If the document was initialized with a stream that is not FileStream, image file will be saved in the current folder with default file name template. |
+| `save_as_image(options, out_dir, file_name_template)` | None |
 | `save_as_ps(out_ps_file_path, options)` | Saves the document in PS format. |
 | `save_as_ps(stream, options)` | Saves the document in PS format. |
 | `merge_to_pdf(files_for_merge, out_pdf_file_path, options)` | Merging XPS documents to PDF using the [Device](/page/python-net/aspose.page/device/) instance. |
@@ -96,7 +98,7 @@ The XpsDocument type exposes the following members:
 | `create_font(stream)` | Creates a new TrueType font resource out of stream. |
 | `select_active_document(document_number)` | Selects an active document for editing. |
 | `select_active_page(page_number)` | Selects an active document page for editing. |
-| `save_as_image(options)` | Saves the document in a bitmap image format. |
+| `save_as_image_bytes(options)` | Saves the document in a bitmap image format as bytes arrays. |
 | `get_document_print_ticket(document_index)` | Returns the print ticket of the document indexed by |
 | `set_document_print_ticket(document_index, print_ticket)` | Links the |
 | `get_page_print_ticket(document_index, page_index)` | Returns the print ticket of the page indexed by |
