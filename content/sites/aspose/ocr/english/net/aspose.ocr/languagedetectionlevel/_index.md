@@ -3,7 +3,7 @@ title: LanguageDetectionLevel
 second_title: Aspose.OCR for .NET API Reference
 description: Defines the level of language detection for text recognition in an image.
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.ocr/languagedetectionlevel/
 ---
 ## LanguageDetectionLevel enumeration

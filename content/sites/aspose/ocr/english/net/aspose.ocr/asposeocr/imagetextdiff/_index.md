@@ -3,7 +3,7 @@ title: ImageTextDiff
 second_title: Aspose.OCR for .NET API Reference
 description: Compare the texts on the two images and return a number representing how similar they are 0 to 1.
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.ocr/asposeocr/imagetextdiff/
 ---
 ## AsposeOcr.ImageTextDiff method

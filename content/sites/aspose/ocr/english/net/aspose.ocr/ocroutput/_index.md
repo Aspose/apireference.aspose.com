@@ -3,7 +3,7 @@ title: OcrOutput
 second_title: Aspose.OCR for .NET API Reference
 description: A container class to store and manage the results of OCR operations.
 type: docs
-weight: 410
+weight: 440
 url: /net/aspose.ocr/ocroutput/
 ---
 ## OcrOutput class

@@ -1,12 +1,12 @@
 ---
 title: Aspose.OCR
 second_title: Aspose.OCR for .NET API Reference
-description: The Aspose.OCR contains tools for image recognition skew correction text areas detection and spell check.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.ocr/
 ---
-The **Aspose.OCR** contains tools for image recognition, skew correction, text areas detection and spell check.
+
 
 ## Classes
 
@@ -42,6 +42,7 @@ The **Aspose.OCR** contains tools for image recognition, skew correction, text a
 | [ReceiptRecognitionSettings](./receiptrecognitionsettings) | Settings for the receipt recognition. Contains elements that allow customizing the recognition process. |
 | [RecognitionResult](./recognitionresult) | The results of the image recognition. Contains elements with recognition information and methods for result export. |
 | [RecognitionSettings](./recognitionsettings) | Settings for the image recognition. Contains elements that allow customizing the recognition process. |
+| [RectangleOutput](./rectangleoutput) | Data about detected text areas or lines. |
 | [Resources](./resources) | Manage downloadable resources that enhance Aspose.OCR recognition capabilities. |
 | [SkewOutput](./skewoutput) | Data about skew angle in degrees and name of the file. |
 ## Enumeration

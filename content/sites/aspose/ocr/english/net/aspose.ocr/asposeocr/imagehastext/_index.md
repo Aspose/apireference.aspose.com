@@ -3,7 +3,7 @@ title: ImageHasText
 second_title: Aspose.OCR for .NET API Reference
 description: Check if the image contains the provided text fragment.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.ocr/asposeocr/imagehastext/
 ---
 ## ImageHasText(string, string, RecognitionSettings, bool, bool) {#imagehastext}

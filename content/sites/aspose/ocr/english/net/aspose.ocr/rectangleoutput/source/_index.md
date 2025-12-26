@@ -3,7 +3,7 @@ title: Source
 second_title: Aspose.OCR for .NET API Reference
 description: The full path to the file or URL if any. Empty for streams byte arrays base64.
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.ocr/rectangleoutput/source/
 ---
 ## RectangleOutput.Source property

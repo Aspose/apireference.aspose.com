@@ -30,6 +30,8 @@ public class AsposeOcr : IDisposable
 | [DetectDefects](../../aspose.ocr/asposeocr/detectdefects)(OcrInput, DefectType) | Automatically find problematic areas of an image that can significantly impact the accuracy of OCR. Supports PNG, JPEG, BMP, TIFF, JFIF, and GIF images provided as a file, stream, or pixel array. Supports bulk recognition. |
 | [DetectDocumentLayout](../../aspose.ocr/asposeocr/detectdocumentlayout)(OcrInput) | Analyzes the image and identifies the different types of content areas within it. Supports PNG, JPEG, BMP, TIFF, JFIF, and GIF images from files, streams, and pixel arrays. Can bulk process folders and archives. |
 | [DetectLanguages](../../aspose.ocr/asposeocr/detectlanguages)(OcrInput) | Analyzes the text on the image to determine the languages it is written in. This allows to select the most suitable recognition language and helps in further text processing tasks such as spellchecking or translation. |
+| [DetectRectangles](../../aspose.ocr/asposeocr/detectrectangles#detectrectangles)(OcrInput) | Detects text areas on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives. |
+| [DetectRectangles](../../aspose.ocr/asposeocr/detectrectangles#detectrectangles_1)(OcrInput, AreasType, bool) | Detects text areas on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives. |
 | [Dispose](../../aspose.ocr/asposeocr/dispose)() | Clear resources for recognition. |
 | [ImageHasText](../../aspose.ocr/asposeocr/imagehastext#imagehastext_1)(string, Regex, RecognitionSettings, bool) | Check if the image text matches the provided regular expression. |
 | [ImageHasText](../../aspose.ocr/asposeocr/imagehastext#imagehastext)(string, string, RecognitionSettings, bool, bool) | Check if the image contains the provided text fragment. |
@@ -44,6 +46,7 @@ public class AsposeOcr : IDisposable
 | [RecognizeCharacters](../../aspose.ocr/asposeocr/recognizecharacters#recognizecharacters_1)(OcrInput, DetectAreasMode, Language) | Detects symbols on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives. |
 | [RecognizeFast](../../aspose.ocr/asposeocr/recognizefast)(OcrInput) | Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives. |
 | [RecognizeFormula](../../aspose.ocr/asposeocr/recognizeformula)(OcrInput, bool) | Recognizes mathematical formulas from the provided input images. |
+| [RecognizeFormulaAI](../../aspose.ocr/asposeocr/recognizeformulaai)(OcrInput) | Recognizes mathematical formulas from the provided input images using AI. |
 | [RecognizeHandwrittenText](../../aspose.ocr/asposeocr/recognizehandwrittentext)(OcrInput) | Recognizes handwritten text on images. |
 | [RecognizeIDCard](../../aspose.ocr/asposeocr/recognizeidcard#recognizeidcard)(OcrInput) | Recognizes text on ID card. |
 | [RecognizeIDCard](../../aspose.ocr/asposeocr/recognizeidcard#recognizeidcard_1)(OcrInput, IDCardRecognitionSettings) | Recognizes text on ID card. |

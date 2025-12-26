@@ -3,7 +3,7 @@ title: AsposeAIModelConfig
 second_title: Aspose.OCR for .NET API Reference
 description: Represents configuration settings for loading an LLM model.
 type: docs
-weight: 560
+weight: 590
 url: /net/aspose.ocr.ai/asposeaimodelconfig/
 ---
 ## AsposeAIModelConfig class
@@ -29,7 +29,7 @@ public class AsposeAIModelConfig
 | [DirectoryModelPath](../../aspose.ocr.ai/asposeaimodelconfig/directorymodelpath) { get; set; } | Optional path where downloaded or processed models will be cached. If not set, a default system location will be used. |
 | [FileModelPath](../../aspose.ocr.ai/asposeaimodelconfig/filemodelpath) { get; set; } | Local path to the folder containing the model files. If specified, this will be used instead of downloading. Default empty. |
 | [GpuLayers](../../aspose.ocr.ai/asposeaimodelconfig/gpulayers) { get; set; } | Number of GPU layers to use for the model. If not specified, the default value (40) will be used. Set to 0 to run entirely on the CPU. |
-| [HuggingFaceQuantization](../../aspose.ocr.ai/asposeaimodelconfig/huggingfacequantization) { get; set; } | Optional quantization type to use when downloading from HuggingFace. Examples: "int8", "fp16", "none". Default q4_k_m. |
+| [HuggingFaceFileName](../../aspose.ocr.ai/asposeaimodelconfig/huggingfacefilename) { get; set; } | Optional model's name to use when downloading from HuggingFace. Examples: "TableGPT2-7B.Q4_K_S.gguf". Default for table AI - TableGPT2-7B.Q4_K_S.gguf. |
 | [HuggingFaceRepoId](../../aspose.ocr.ai/asposeaimodelconfig/huggingfacerepoid) { get; set; } | ID of the model on HuggingFace (e.g., "openai/gpt2"). If specified, the model will be downloaded from HuggingFace. Default bartowski/Qwen2.5-3B-Instruct-GGUF. |
 
 ### See Also

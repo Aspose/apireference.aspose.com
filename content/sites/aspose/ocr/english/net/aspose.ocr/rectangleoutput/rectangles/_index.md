@@ -3,7 +3,7 @@ title: Rectangles
 second_title: Aspose.OCR for .NET API Reference
 description: List of detected text areas or lines.
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.ocr/rectangleoutput/rectangles/
 ---
 ## RectangleOutput.Rectangles property

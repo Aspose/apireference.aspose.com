@@ -3,7 +3,7 @@ title: GraphOptimizationLevelOnnx
 second_title: Aspose.OCR for .NET API Reference
 description: Graph optimization level to use with SessionOptions. For technical details refer to ONNX Runtime documentation.
 type: docs
-weight: 240
+weight: 260
 url: /net/aspose.ocr/graphoptimizationlevelonnx/
 ---
 ## GraphOptimizationLevelOnnx enumeration

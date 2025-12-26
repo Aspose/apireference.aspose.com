@@ -3,7 +3,7 @@ title: InvoiceRecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the invoice recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 190
+weight: 210
 url: /net/aspose.ocr/invoicerecognitionsettings/
 ---
 ## InvoiceRecognitionSettings class
