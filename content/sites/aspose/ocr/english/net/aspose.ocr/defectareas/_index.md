@@ -3,7 +3,7 @@ title: DefectAreas
 second_title: Aspose.OCR for .NET API Reference
 description: Image areas containing a certain type of defect.
 type: docs
-weight: 350
+weight: 370
 url: /net/aspose.ocr/defectareas/
 ---
 ## DefectAreas class

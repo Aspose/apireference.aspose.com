@@ -3,7 +3,7 @@ title: RecognizeFormula
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes mathematical formulas from the provided input images.
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.ocr/asposeocr/recognizeformula/
 ---
 ## AsposeOcr.RecognizeFormula method

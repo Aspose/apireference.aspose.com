@@ -3,7 +3,7 @@ title: DebugMode
 second_title: Aspose.OCR for .NET API Reference
 description: Enables debug mode. When enabled the system saves intermediate image processing results such as preprocessed images and images with drawn text-line rectangles.
 type: docs
-weight: 230
+weight: 250
 url: /net/aspose.ocr/asposeocr/debugmode/
 ---
 ## AsposeOcr.DebugMode field

@@ -3,7 +3,7 @@ title: CarPlateRecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the car number recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 170
+weight: 190
 url: /net/aspose.ocr/carplaterecognitionsettings/
 ---
 ## CarPlateRecognitionSettings class

@@ -3,7 +3,7 @@ title: PixelType
 second_title: Aspose.OCR for .NET API Reference
 description: Determines the type of the pixel data for image recognition.
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.ocr/pixeltype/
 ---
 ## PixelType enumeration

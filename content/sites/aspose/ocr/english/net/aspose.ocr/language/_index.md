@@ -3,7 +3,7 @@ title: Language
 second_title: Aspose.OCR for .NET API Reference
 description: Languages used for OCR. ISO 939-3 Code.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.ocr/language/
 ---
 ## Language enumeration

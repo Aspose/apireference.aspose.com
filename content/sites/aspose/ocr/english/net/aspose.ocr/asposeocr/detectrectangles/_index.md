@@ -6,7 +6,33 @@ type: docs
 weight: 90
 url: /net/aspose.ocr/asposeocr/detectrectangles/
 ---
-## AsposeOcr.DetectRectangles method
+## DetectRectangles(OcrInput) {#detectrectangles}
+
+Detects text areas on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.
+
+```csharp
+public List<RectangleOutput> DetectRectangles(OcrInput images)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
+
+### Return Value
+
+List of [`RectangleOutput`](../../rectangleoutput) with detected text areas or lines.
+
+### See Also
+
+* class [RectangleOutput](../../rectangleoutput)
+* class [OcrInput](../../ocrinput)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## DetectRectangles(OcrInput, AreasType, bool) {#detectrectangles_1}
 
 Detects text areas on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.
 

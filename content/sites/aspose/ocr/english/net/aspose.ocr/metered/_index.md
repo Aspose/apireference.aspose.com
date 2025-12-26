@@ -18,7 +18,7 @@ public class Metered
 
 | Name | Description |
 | --- | --- |
-| [Metered](metered)() | Initializes a new instance of this class. |
+| [Metered](metered)() | The default constructor. |
 
 ## Methods
 
@@ -43,13 +43,6 @@ matered.SetMeteredKey("PublicKey", "PrivateKey");
 
 Dim matered As Metered = New Metered
 matered.SetMeteredKey("PublicKey", "PrivateKey")
-```
-
-the component jar file:
-
-```csharp
-Metered matered = new Metered();
-matered.setMeteredKey("PublicKey", "PrivateKey");
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: OnnxRuntimeSessionOptions
 second_title: Aspose.OCR for .NET API Reference
 description: Configuration options for creating ONNX InferenceSession. We recommend keeping the optimized defaults unless you are absolutely certain about the modifications. For technical details refer to ONNX Runtime documentation.
 type: docs
-weight: 220
+weight: 240
 url: /net/aspose.ocr/onnxruntimesessionoptions/
 ---
 ## OnnxRuntimeSessionOptions class

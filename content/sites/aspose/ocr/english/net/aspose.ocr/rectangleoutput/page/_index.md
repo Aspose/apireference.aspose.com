@@ -1,14 +1,14 @@
 ---
 title: Page
 second_title: Aspose.OCR for .NET API Reference
-description: Page number.
+description: Page number for multi-page images.
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.ocr/rectangleoutput/page/
 ---
 ## RectangleOutput.Page property
 
-Page number.
+Page number for multi-page images.
 
 ```csharp
 public int Page { get; set; }

@@ -3,7 +3,7 @@ title: DebugModeSaveDirectory
 second_title: Aspose.OCR for .NET API Reference
 description: Directory where debug results will be saved. If not set the current working directory will be used by default.
 type: docs
-weight: 240
+weight: 260
 url: /net/aspose.ocr/asposeocr/debugmodesavedirectory/
 ---
 ## AsposeOcr.DebugModeSaveDirectory field

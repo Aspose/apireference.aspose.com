@@ -3,7 +3,7 @@ title: PassportRecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the passport recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 260
+weight: 280
 url: /net/aspose.ocr/passportrecognitionsettings/
 ---
 ## PassportRecognitionSettings class

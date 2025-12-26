@@ -3,7 +3,7 @@ title: LoggingLevel
 second_title: Aspose.OCR for .NET API Reference
 description: Defines the type of logs to display.
 type: docs
-weight: 210
+weight: 230
 url: /net/aspose.ocr/logginglevel/
 ---
 ## LoggingLevel enumeration
