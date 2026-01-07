@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: apireference2.aspose.com(email)(Stage)
+name: qa-reference.aspose.com(email)(Stage)
 
 # Controls when the action will run. 
 on:
@@ -50,7 +50,7 @@ jobs:
       # Also specifies the theme we want to use
       - name: Build
         run: hugo --configDir config/sites/aspose/email --environment staging --minify        
-      - name: Deploy apireference2.aspose.com(email)(Stage) to S3
+      - name: Deploy qa-reference.aspose.com(email)(Stage) to S3
         run: hugo --configDir config/sites/aspose/email --environment staging deploy --target "Stage" --maxDeletes 0
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}

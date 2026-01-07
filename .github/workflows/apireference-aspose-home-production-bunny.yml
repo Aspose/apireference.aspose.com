@@ -53,7 +53,7 @@ jobs:
 
       - name: Sync to Ceph S3
         run: |
-          aws s3 sync ./public/ s3://reference-aspose-com/home/ \
+          aws s3 sync ./public/ s3://reference-aspose-com/ \
             --endpoint-url https://s3.dynabic.com \
             --acl public-read \
         env:
@@ -66,6 +66,6 @@ jobs:
         run: |
           curl -siG \
             -H "X-Api-Key: ${{ secrets.BUNNY_API_KEY }}" \
-            --data-urlencode "url=https://reference.aspose.com/home" \
+            --data-urlencode "url=https://reference.aspose.com/" \
             "https://api.dynabic.com/bn/purge?async=true"
         

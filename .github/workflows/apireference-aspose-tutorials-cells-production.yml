@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: apireference2.aspose.com(tutorials)(cells)(Production)
+name: qa-reference.aspose.com(tutorials)(cells)(Production)
 
 # Controls when the action will run. 
 on:
@@ -52,7 +52,7 @@ jobs:
       - name: Build
         run: hugo --configDir config/sites/aspose/tutorials-cells --environment production --minify
         
-      - name: Deploy apireference2.aspose.com(tutorials)(cells)(Production) to S3
+      - name: Deploy qa-reference.aspose.com(tutorials)(cells)(Production) to S3
         run: hugo --configDir config/sites/aspose/tutorials-cells --environment production deploy --target "Production" --maxDeletes 0
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}

@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: apireference2.aspose.com(page)(Stage)
+name: qa-reference.aspose.com(page)(Stage)
 
 # Controls when the action will run. 
 on:
@@ -52,7 +52,7 @@ jobs:
       - name: Build
         run: hugo --configDir config/sites/aspose/page --environment staging --minify
         
-      - name: Deploy apireference2.aspose.com(page)(Stage) to S3
+      - name: Deploy qa-reference.aspose.com(page)(Stage) to S3
         run: hugo --configDir config/sites/aspose/page --environment staging deploy --target "Stage" --maxDeletes 0
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}

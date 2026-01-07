@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: apireference2.aspose.com(imaging)(Stage)
+name: qa-reference.aspose.com(imaging)(Stage)
 
 # Controls when the action will run. 
 on:
@@ -70,7 +70,7 @@ jobs:
         run: |
             find ${{ github.workspace }}/public -iname 'sitemap.xml' -execdir mv -i '{}' ${{ matrix.configure_one_product }}.xml \;
             mv ${{ github.workspace }}/total.imaging.sitemap public/sitemap.xml;
-      - name: Deploy apireference2.aspose.com(imaging)(Stage) to S3
+      - name: Deploy qa-reference.aspose.com(imaging)(Stage) to S3
         run: hugo --configDir config/sites/aspose/imaging --environment staging deploy --target "Stage" --maxDeletes=0 --force
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
