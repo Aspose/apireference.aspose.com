@@ -1,0 +1,200 @@
+# Master workflow to trigger all production BunnyCDN workflows
+
+name: All Production Workflows (BunnyCDN)
+
+# Controls when the action will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  trigger-all-production:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger home-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-home-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger 3d-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-3d-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger barcode-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-barcode-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger cad-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-cad-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger cad-python-net-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-cad-python-net-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger cells-python-net-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-cells-python-net-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger cells-split-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-cells-split-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger diagram-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-diagram-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger drawing-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-drawing-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger email-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-email-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger finance-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-finance-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger font-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-font-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger gis-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-gis-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger html-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-html-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger imaging-split-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-imaging-split-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger note-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-note-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger ocr-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-ocr-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger omr-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-omr-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger page-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-page-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger pdf-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-pdf-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger psd-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-psd-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger pub-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-pub-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger svg-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-svg-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger tasks-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-tasks-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger tex-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-tex-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger tutorials-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-tutorials-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger tutorials-cells-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-tutorials-cells-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger tutorials-pdf-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-tutorials-pdf-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger tutorials-words-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-tutorials-words-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger words-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-words-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger zip-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-zip-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}

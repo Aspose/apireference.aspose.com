@@ -1,0 +1,200 @@
+# Master workflow to trigger all staging BunnyCDN workflows
+
+name: All Staging Workflows (BunnyCDN)
+
+# Controls when the action will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  trigger-all-staging:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger home-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-home-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger 3d-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-3d-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger barcode-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-barcode-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger cad-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-cad-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger cad-python-net-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-cad-python-net-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger cells-python-net-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-cells-python-net-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger cells-split-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-cells-split-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger diagram-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-diagram-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger drawing-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-drawing-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger email-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-email-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger finance-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-finance-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger font-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-font-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger gis-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-gis-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger html-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-html-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger imaging-split-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-imaging-split-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger note-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-note-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger ocr-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-ocr-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger omr-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-omr-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger page-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-page-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger pdf-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-pdf-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger psd-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-psd-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger pub-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-pub-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger svg-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-svg-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger tasks-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-tasks-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger tex-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-tex-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger tutorials-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-tutorials-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger tutorials-cells-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-tutorials-cells-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger tutorials-pdf-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-tutorials-pdf-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger tutorials-words-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-tutorials-words-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger words-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-words-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger zip-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: reference-aspose-zip-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}

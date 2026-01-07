@@ -1,0 +1,81 @@
+name: qa-reference.aspose.com(cells)(Stage) (BunnyCDN)
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'content/sites/aspose/cells/**'
+
+  pull_request:
+    branches: [ main ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      matrix:
+        configure_one_product:
+          - cpp
+          - go-cpp
+          - java
+          - net
+          - nodejs-cpp
+          - javascript-cpp
+
+    steps:
+      - name: Checkout main repository
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Checkout theme repository
+        uses: actions/checkout@v2
+        with:
+          repository: Aspose/api-theme
+          token: ${{ secrets.REPO_TOKEN }}
+          fetch-depth: 0
+          ref: imaging
+          path: themes/api-theme
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.119.0'
+          extended: true
+
+      - name: Install Dependencies
+        run: |
+          npm install -D --save autoprefixer
+          npm install -D --save postcss-cli
+
+      - name: Configure build environment
+        env:
+          CONFIGURE_ONE_PRODUCT: ${{ matrix.configure_one_product }}
+          CONFIGURE_FAMILY: 'cells'
+        run: npm run configure
+
+      - name: Display config.json
+        run: cat ${{ github.workspace }}/config.json
+
+      - name: Build
+        run: hugo --configDir config/sites/aspose/cells --config "config.json" --environment staging --minify --cleanDestinationDir
+
+      - name: Prepare the public folder
+        run: |
+          find ${{ github.workspace }}/public -iname 'sitemap.xml' -execdir mv -i '{}' ${{ matrix.configure_one_product }}.xml \;
+          mv ${{ github.workspace }}/total.cells.sitemap public/sitemap.xml
+
+
+      - name: Invalidate CloudFront cache
+        uses: chetan/invalidate-cloudfront-action@v2
+        env:
+          DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION }}
+          PATHS: /cells/${{ matrix.configure_one_product }}/*
+          AWS_REGION: 'us-west-2'
+          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}

@@ -1,0 +1,104 @@
+# This is a basic workflow to help you get started with Actions
+name: qa-reference.aspose.com(cells)(python-net)(Staging) (BunnyCDN)
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ main ]
+    paths:
+      - 'content/sites/aspose/cells-python-net/**'
+  pull_request:
+    branches: [ main ]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+            submodules: true  # Fetch Hugo themes
+            fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      # Cache Hugo resources and modules
+      - name: Cache Hugo resources
+        uses: actions/cache@v4
+        with:
+          path: |
+            resources
+            ~/.cache/hugo_cache
+          key: ${{ runner.os }}-hugo-${{ hashFiles('config/sites/aspose/cells-python-net/config.yaml') }}-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-
+      # Cache node modules for faster npm installs
+      - name: Cache node modules
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('package*.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      # Cache the theme repository
+      - name: Cache api-theme
+        uses: actions/cache@v4
+        id: theme-cache
+        with:
+          path: themes/api-theme
+          key: ${{ runner.os }}-theme-cells-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-theme-cells-
+      - name: Checkout theme repo
+        if: steps.theme-cache.outputs.cache-hit != 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: Aspose/api-theme
+          token: ${{ secrets.REPO_TOKEN }}
+          fetch-depth: 0
+          ref: cells
+          path: themes/api-theme      
+      # Step 2 - Sets up Hugo with deploy support
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.135.0'  # Use specific version with deploy support
+          extended: true
+      - name: Install Dependencies
+        run: |
+          npm install -D --save autoprefixer postcss-cli
+      # Also specifies the theme we want to use
+      - name: Build
+        run: |
+          hugo --configDir config/sites/aspose/cells-python-net \
+                --environment staging \
+                --minify \
+                --gc \
+                --cacheDir ~/.cache/hugo_cache
+      
+      # Configure AWS credentials
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.ACCESS_KEY }}
+          aws-secret-access-key: ${{ secrets.SECRET_ACCESS }}
+          aws-region: us-west-2
+          
+      - name: Deploy to S3 using AWS CLI
+        run: |
+          aws s3 sync public/ s3://${{ secrets.S3_BUCKET_STAGING }}/cells/python-net/ \
+            --delete \
+            --exclude "*.map" \
+            --cache-control "public, max-age=3600"
+            
+      - name: invalidate
+        uses: chetan/invalidate-cloudfront-action@v2
+        env:
+          DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION }}
+          PATHS: /cells/python-net/*
+          AWS_REGION: 'us-west-2'
+          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
