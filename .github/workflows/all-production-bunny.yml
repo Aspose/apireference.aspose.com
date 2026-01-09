@@ -162,31 +162,7 @@ jobs:
         with:
           workflow: reference-aspose-tex-production-bunny.yml
           token: ${{ secrets.REPO_TOKEN }}
-
-      - name: Trigger tutorials-production-bunny
-        uses: benc-uk/workflow-dispatch@v1
-        with:
-          workflow: reference-aspose-tutorials-production-bunny.yml
-          token: ${{ secrets.REPO_TOKEN }}
-
-      - name: Trigger tutorials-cells-production-bunny
-        uses: benc-uk/workflow-dispatch@v1
-        with:
-          workflow: reference-aspose-tutorials-cells-production-bunny.yml
-          token: ${{ secrets.REPO_TOKEN }}
-
-      - name: Trigger tutorials-pdf-production-bunny
-        uses: benc-uk/workflow-dispatch@v1
-        with:
-          workflow: reference-aspose-tutorials-pdf-production-bunny.yml
-          token: ${{ secrets.REPO_TOKEN }}
-
-      - name: Trigger tutorials-words-production-bunny
-        uses: benc-uk/workflow-dispatch@v1
-        with:
-          workflow: reference-aspose-tutorials-words-production-bunny.yml
-          token: ${{ secrets.REPO_TOKEN }}
-
+          
       - name: Trigger words-production-bunny
         uses: benc-uk/workflow-dispatch@v1
         with:

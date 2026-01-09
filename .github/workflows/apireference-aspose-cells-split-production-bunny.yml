@@ -73,3 +73,21 @@ jobs:
         run: |
             find ${{ github.workspace }}/public -iname 'sitemap.xml' -execdir mv -i '{}' ${{ matrix.configure_one_product }}.xml \;
             mv ${{ github.workspace }}/total.cells.sitemap public/sitemap.xml;
+
+      - name: Sync to Ceph S3
+        run: |
+          aws s3 sync ./public/ s3://reference-aspose-com/cells/ \
+            --endpoint-url https://s3.dynabic.com \
+            --acl public-read \
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.CEPH_S3_LIVE_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.CEPH_S3_LIVE_SECRET_KEY }}
+          AWS_DEFAULT_REGION: us-east-1
+          AWS_ENDPOINT_URL: https://s3-admin.dynabic.com
+
+      - name: Purge BunnyCDN Cache
+        run: |
+          curl -siG \
+            -H "X-Api-Key: ${{ secrets.BUNNY_API_KEY }}" \
+            --data-urlencode "url=https://reference.aspose.com/cells/${{ matrix.configure_one_product }}" \
+            "https://api.dynabic.com/bn/purge?async=true"
