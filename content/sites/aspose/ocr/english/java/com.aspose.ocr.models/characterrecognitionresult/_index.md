@@ -24,7 +24,6 @@ Pages with detected characters data.
 | Field | Description |
 | --- | --- |
 | [Characters](#Characters) | Data about detected characters on the page. |
-| [ImageIndex](#ImageIndex) | Sequence number of the image on the page. |
 | [Page](#Page) | Page number. |
 | [Source](#Source) | The full path to the file or URL, if any. |
 
@@ -41,14 +40,6 @@ public ArrayList<Character> Characters
 
 
 Data about detected characters on the page.
-
-### ImageIndex {#ImageIndex}
-```
-public int ImageIndex
-```
-
-
-Sequence number of the image on the page.
 
 ### Page {#Page}
 ```
