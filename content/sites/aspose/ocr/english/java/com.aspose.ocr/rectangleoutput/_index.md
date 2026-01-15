@@ -3,7 +3,7 @@ title: RectangleOutput
 second_title: Aspose.OCR for Java API Reference
 description: Data about detected text areas or lines
 type: docs
-weight: 31
+weight: 28
 url: /java/com.aspose.ocr/rectangleoutput/
 ---
 
@@ -23,24 +23,14 @@ Data about detected text areas or lines.
 
 | Field | Description |
 | --- | --- |
-| [ImageIndex](#ImageIndex) | Sequence number of the image on the page. |
 | [Page](#Page) | Page number. |
 | [Rectangles](#Rectangles) | List of detected text areas or lines. |
 | [Source](#Source) | The full path to the file or URL, if any. |
-
 ### RectangleOutput() {#RectangleOutput}
 ```
 public RectangleOutput()
 ```
 
-
-### ImageIndex {#ImageIndex}
-```
-public int ImageIndex
-```
-
-
-Sequence number of the image on the page.
 
 ### Page {#Page}
 ```

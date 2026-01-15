@@ -24,12 +24,9 @@ The results of the image recognition. Contains elements with recognition informa
 | Field | Description |
 | --- | --- |
 | [language](#language) | The language of the recognized text in the image. |
-| [recognitionAreasRectangles](#recognitionAreasRectangles) | List recognition results of a list of areas (Rectangles). |
-| [recognitionAreasText](#recognitionAreasText) | List recognition results of a list of areas (Rectangles). |
 | [recognitionCharactersList](#recognitionCharactersList) | A set of characters found by the recognition algorithm and arranged in descending order of probability. |
 | [recognitionLinesResult](#recognitionLinesResult) | Gets a list of recognition results with a list of rows (Rectangles). |
 | [recognitionText](#recognitionText) | Recognition result of all page or one area. |
-| [skew](#skew) | Skew angle of the image. |
 | [warnings](#warnings) | Gets or sets list of the warnings messages describing non-critical faults appeared during generation. |
 ## Methods
 
@@ -67,22 +64,6 @@ public Language language
 
 The language of the recognized text in the image. This value is determined automatically if  Language.AUTO ,  Language.MULTILANGUAGE , or  Language.UNIVERSAL  is selected.
 
-### recognitionAreasRectangles {#recognitionAreasRectangles}
-```
-public ArrayList<Rectangle> recognitionAreasRectangles
-```
-
-
-List recognition results of a list of areas (Rectangles).
-
-### recognitionAreasText {#recognitionAreasText}
-```
-public ArrayList<String> recognitionAreasText
-```
-
-
-List recognition results of a list of areas (Rectangles).
-
 ### recognitionCharactersList {#recognitionCharactersList}
 ```
 public ArrayList<char[]> recognitionCharactersList
@@ -106,14 +87,6 @@ public String recognitionText
 
 
 Recognition result of all page or one area.
-
-### skew {#skew}
-```
-public double skew
-```
-
-
-Skew angle of the image. Will be calculated only in case PreprocessingFilter.AutoSkew()
 
 ### warnings {#warnings}
 ```

@@ -3,7 +3,7 @@ title: SkewOutput
 second_title: Aspose.OCR for Java API Reference
 description: Data about skew angle in degrees and name of the file
 type: docs
-weight: 18
+weight: 23
 url: /java/com.aspose.ocr.models/skewoutput/
 ---
 
@@ -19,13 +19,12 @@ Data about skew angle in degrees and name of the file.
 | Constructor | Description |
 | --- | --- |
 | [SkewOutput()](#SkewOutput) |  |
-| [SkewOutput(String source, double angle, int page, int imageIndex)](#SkewOutput-java.lang.String-double-int-int) |  |
+| [SkewOutput(String source, double angle, int page)](#SkewOutput-java.lang.String-double-int) |  |
 ## Fields
 
 | Field | Description |
 | --- | --- |
 | [Angle](#Angle) | Skew angle in degrees. |
-| [ImageIndex](#ImageIndex) | Sequence number of the image on the page. |
 | [Page](#Page) | Page number. |
 | [Source](#Source) | The full path to the file or URL, if any. |
 
@@ -35,9 +34,9 @@ public SkewOutput()
 ```
 
 
-### SkewOutput(String source, double angle, int page, int imageIndex) {#SkewOutput-java.lang.String-double-int-int}
+### SkewOutput(String source, double angle, int page) {#SkewOutput-java.lang.String-double-int}
 ```
-public SkewOutput(String source, double angle, int page, int imageIndex)
+public SkewOutput(String source, double angle, int page)
 ```
 
 
@@ -47,7 +46,6 @@ public SkewOutput(String source, double angle, int page, int imageIndex)
 | source | java.lang.String |  |
 | angle | double |  |
 | page | int |  |
-| imageIndex | int |  |
 
 ### Angle {#Angle}
 ```
@@ -56,14 +54,6 @@ public double Angle
 
 
 Skew angle in degrees.
-
-### ImageIndex {#ImageIndex}
-```
-public int ImageIndex
-```
-
-
-Sequence number of the image on the page.
 
 ### Page {#Page}
 ```
