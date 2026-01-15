@@ -1,26 +1,26 @@
 ---
-title: Character
+title: OCRTableCell
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 50
-url: /python-net/aspose.ocr/character/
+weight: 210
+url: /python-net/aspose.ocr/ocrtablecell/
 ---
 
-## Character class
+## OCRTableCell class
 
-Data about detected character.
 
-The Character type exposes the following members:
+
+The OCRTableCell type exposes the following members:
 ## Constructors
 | Name | Description |
 | :- | :- |
-|Character()|Initializes a new instance of the Character class|
+|OCRTableCell()|Initializes a new instance of the OCRTableCell class|
 ## Properties
 | Name | Description |
 | :- | :- |
-|value|Detected character.|
-|coordinates|Character coordinates.|
+|column_index|  |
+|text|  |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: OcrOutput
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 160
+weight: 250
 url: /python-net/aspose.ocr/ocroutput/
 ---
 
@@ -30,6 +30,7 @@ The OcrOutput type exposes the following members:
 |save(stream, save_format)|  |
 |save(stream, save_format, embedded_font_path, optimize_pdf)|  |
 |add_range(collection)|  |
+|get_table_data()|  |
 
 ### See Also
 

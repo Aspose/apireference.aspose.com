@@ -3,7 +3,7 @@ title: CharactersAllowedType
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 320
+weight: 490
 url: /python-net/aspose.ocr/charactersallowedtype/
 ---
 

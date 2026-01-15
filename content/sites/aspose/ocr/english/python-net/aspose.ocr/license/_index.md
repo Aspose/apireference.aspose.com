@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 120
+weight: 170
 url: /python-net/aspose.ocr/license/
 ---
 

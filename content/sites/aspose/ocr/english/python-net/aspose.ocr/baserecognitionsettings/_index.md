@@ -15,6 +15,7 @@ The BaseRecognitionSettings type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
+|recognize_vertical_lines|  |
 |threads_count|Gets or sets the number fo threads for processing.|
 |language|Gets or sets the language used for OCR.|
 |ignored_symbols|Sets blacklist for recognition symbols.|

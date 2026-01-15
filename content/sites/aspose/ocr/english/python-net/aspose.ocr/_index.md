@@ -31,6 +31,10 @@ Contains tools for image recognition, skew correction, text areas detection and 
 |[License](/ocr/python-net/aspose.ocr/license/)|Provides methods to license the component.|
 |[Logging](/ocr/python-net/aspose.ocr/logging/)|Class to create log configurations.|
 |[Metered](/ocr/python-net/aspose.ocr/metered/)|Provides methods to set metered key.|
+|[OCRTable](/ocr/python-net/aspose.ocr/ocrtable/)||
+|[OCRTableCell](/ocr/python-net/aspose.ocr/ocrtablecell/)||
+|[OCRTablePage](/ocr/python-net/aspose.ocr/ocrtablepage/)||
+|[OCRTableRow](/ocr/python-net/aspose.ocr/ocrtablerow/)||
 |[OcrInput](/ocr/python-net/aspose.ocr/ocrinput/)|Container to collect all images / documents for preprocessing / recognition.|
 |[OcrOutput](/ocr/python-net/aspose.ocr/ocroutput/)||
 |[OnnxRuntimeSessionOptions](/ocr/python-net/aspose.ocr/onnxruntimesessionoptions/)||

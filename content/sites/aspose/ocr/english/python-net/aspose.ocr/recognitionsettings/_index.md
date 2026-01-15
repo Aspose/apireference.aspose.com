@@ -3,7 +3,7 @@ title: RecognitionSettings
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 280
+weight: 320
 url: /python-net/aspose.ocr/recognitionsettings/
 ---
 
@@ -20,6 +20,7 @@ The RecognitionSettings type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
+|recognize_vertical_lines|  |
 |threads_count|Gets or sets the number fo threads for processing.|
 |language|Gets or sets the language used for OCR.|
 |ignored_symbols|Sets blacklist for recognition symbols.|

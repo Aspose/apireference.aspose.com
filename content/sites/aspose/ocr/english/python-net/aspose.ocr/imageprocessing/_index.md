@@ -3,7 +3,7 @@ title: ImageProcessing
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 100
+weight: 120
 url: /python-net/aspose.ocr/imageprocessing/
 ---
 

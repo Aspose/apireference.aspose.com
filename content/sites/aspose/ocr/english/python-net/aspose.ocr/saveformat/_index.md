@@ -3,7 +3,7 @@ title: SaveFormat
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 490
+weight: 610
 url: /python-net/aspose.ocr/saveformat/
 ---
 
@@ -26,6 +26,7 @@ For recognition result saving
 |PDF_NO_IMG|Saves the document as a Searchable PDF (Adobe Portable Document) Document without image.|
 |HOCR||
 |MD||
+|CSV||
 
 ### See Also
 

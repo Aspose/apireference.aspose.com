@@ -3,7 +3,7 @@ title: RecognitionResult
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 190
+weight: 290
 url: /python-net/aspose.ocr/recognitionresult/
 ---
 
@@ -16,12 +16,9 @@ The RecognitionResult type exposes the following members:
 | Name | Description |
 | :- | :- |
 |recognition_lines_result|Gets a list of recognition results with a list of rows (Rectangles).|
-|recognition_areas_text|Gets list recognition results of a list of areas (Rectangles).|
-|recognition_areas_rectangles|Gets rectangles coordinates.|
 |recognition_characters_list|A set of characters found by the recognition algorithm and arranged in descending order of probability.|
 |recognition_text|Gets recognition result in one string.|
 |file_name|Full path to the file.|
-|skew|Gets skew angle.|
 |warnings|Gets list of the warning messages describing non-critical faults appeared during generation.|
 ## Methods
 | Name | Description |
