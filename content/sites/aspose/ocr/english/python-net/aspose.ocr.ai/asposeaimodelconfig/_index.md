@@ -22,7 +22,7 @@ The AsposeAIModelConfig type exposes the following members:
 |hugging_face_repo_id|  |
 |directory_model_path|  |
 |allow_auto_download|  |
-|hugging_face_quantization|  |
+|hugging_face_file_name|  |
 |file_model_path|  |
 |context_size|  |
 |gpu_layers|  |

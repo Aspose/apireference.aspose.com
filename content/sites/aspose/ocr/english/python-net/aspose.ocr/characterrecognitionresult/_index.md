@@ -21,7 +21,6 @@ The CharacterRecognitionResult type exposes the following members:
 | :- | :- |
 |source|The full path to the file or URL, if any. Empty for streams, byte arrays, base64.|
 |page|Page number.|
-|image_index|Sequence number of the image on the page.|
 |characters|Data about detected characters on the page.|
 
 ### See Also
