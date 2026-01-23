@@ -3,7 +3,7 @@ title: BubbleArrayConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Display possible answers as options each inside circlebubble. Can only be used inside CustomRowConfig./customrowconfig
 type: docs
-weight: 840
+weight: 310
 url: /net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/
 ---
 ## BubbleArrayConfig class
@@ -30,13 +30,13 @@ public class BubbleArrayConfig : BaseConfig
 | [FontFamily](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontfamily) { get; set; } | The font family of the text |
 | [FontSize](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontsize) { get; set; } | The size of the text font |
 | [FontStyle](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontstyle) { get; set; } | The style of the text |
-| [Height](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/height) { get; set; } | If present overrides height in pixels of one bubble array row To set overflowing behavior see [`Overflow`](../../aspose.omr.generation/globalpagesettings/overflow) default value is -1. If default value is used - height of the bubble array will be scaled automatically. |
-| [HorizontalPadding](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/horizontalpadding) { get; set; } | Number of additional pixels between each of the bubble On left and right sides default value is 0 |
+| [Height](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/height) { get; set; } | Overrides height of bubble array row in pixels Partially visible or overflowing content will be removed. For details see - [`Clip`](../../aspose.omr.generation.overflowactions/clip) default value is -1. By default height of the bubble array will be scaled automatically. |
+| [HorizontalPadding](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/horizontalpadding) { get; set; } | Number of additional pixels on left and right sides inside bubble row Default value is 0 |
 | override [Name](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/name) { get; set; } | Name of bubble Array. Does not participate in displaying or generation of element |
 | [RecognitionValues](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/recognitionvalues) { get; set; } | Each entry overrides value in the recognition result for correlating [`AnswersValues`](./answersvalues) without affecting displayed value. if no value is set - recognition result will be filled with displayed values from the [`AnswersValues`](./answersvalues) Example: new List(4) {"A", "B", "C", "D"} Example: new List(4) {"Dog", "Cat", "Turtle", "Dragon"} |
-| [Threshold](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/threshold) { get; set; } | Percent of pixels after which bubbles considered marked. If present, override global threshold provided during recognition Default value is -1. If default value is set - global value of threshold will be used. |
+| [Threshold](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/threshold) { get; set; } | Override global threshold provided during recognition Percent of pixels from 0 to 100 after which bubbles considered marked. Default value is -1.By default global value of threshold will be used. |
 | override [Type](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
-| [VerticalPadding](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/verticalpadding) { get; set; } | Number of additional pixels between each of the bubble On top and the bottom sides default value is 0 |
+| [VerticalPadding](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/verticalpadding) { get; set; } | Number of additional pixels on top and bottom sides inside bubble row Default value is 0. |
 
 ### See Also
 

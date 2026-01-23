@@ -3,7 +3,7 @@ title: Recalculate
 second_title: Aspose.OMR for .NET API Reference
 description: Updates recognition result using fine tuned parameters.
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.omr.api/templateprocessor/recalculate/
 ---
 ## TemplateProcessor.Recalculate method

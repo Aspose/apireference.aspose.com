@@ -3,7 +3,7 @@ title: ChoiceBoxAnswerConfig
 second_title: Aspose.OMR for .NET API Reference
 description: One of possible answers. Question is set using - of ChoiceBoxConfig./choiceboxconfig
 type: docs
-weight: 550
+weight: 270
 url: /net/aspose.omr.generation.config.elements/choiceboxanswerconfig/
 ---
 ## ChoiceBoxAnswerConfig class

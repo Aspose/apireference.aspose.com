@@ -1,14 +1,14 @@
 ---
 title: HorizontalPadding
 second_title: Aspose.OMR for .NET API Reference
-description: Number of additional pixels between each of the bubble On left and right sides default value is 0
+description: Number of additional pixels on left and right sides inside bubble row Default value is 0
 type: docs
 weight: 90
 url: /net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/horizontalpadding/
 ---
 ## BubbleArrayConfig.HorizontalPadding property
 
-Number of additional pixels between each of the bubble On left and right sides default value is 0
+Number of additional pixels on left and right sides inside bubble row Default value is 0
 
 ```csharp
 public int HorizontalPadding { get; set; }

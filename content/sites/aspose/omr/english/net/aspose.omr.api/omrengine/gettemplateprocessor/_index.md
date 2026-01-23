@@ -53,6 +53,12 @@ public TemplateProcessor GetTemplateProcessor(string templatePath,
 
 The [`TemplateProcessor`](../../templateprocessor) instance
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| FileNotFoundException | In case templatePath does not point to existing file |
+
 ### See Also
 
 * class [TemplateProcessor](../../templateprocessor)

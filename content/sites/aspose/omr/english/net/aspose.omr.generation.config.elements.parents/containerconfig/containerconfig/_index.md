@@ -1,14 +1,14 @@
 ---
 title: ContainerConfig
 second_title: Aspose.OMR for .NET API Reference
-description: Create default instance with default values
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.omr.generation.config.elements.parents/containerconfig/containerconfig/
 ---
 ## ContainerConfig constructor
 
-Create default instance with default values
+The default constructor.
 
 ```csharp
 public ContainerConfig()

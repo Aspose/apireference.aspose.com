@@ -3,7 +3,7 @@ title: RotationPointPosition
 second_title: Aspose.OMR for .NET API Reference
 description: All available positions for Rotation Point on generated Template
 type: docs
-weight: 160
+weight: 920
 url: /net/aspose.omr.generation/rotationpointposition/
 ---
 ## RotationPointPosition enumeration
@@ -18,7 +18,7 @@ public enum RotationPointPosition
 
 | Name | Value | Description |
 | --- | --- | --- |
-| undefined | `0` | Rotation poinst is not selected |
+| undefined | `0` | Rotation point is not selected |
 | TopLeft1 | `10` | TopLeft position under Top Left Reference Point |
 | TopLeft2 | `11` | TopLeft position next to Top Left Reference Point |
 | TopRight1 | `20` | TopRight position under to Top Right Reference Point |

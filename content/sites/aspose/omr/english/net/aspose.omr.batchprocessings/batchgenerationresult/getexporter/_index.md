@@ -16,7 +16,7 @@ public TemplateExporter GetExporter()
 
 ### Return Value
 
-New isntance of TemplateExporter bound to this BatchGenerationResult
+New instance of TemplateExporter bound to this BatchGenerationResult
 
 ### See Also
 

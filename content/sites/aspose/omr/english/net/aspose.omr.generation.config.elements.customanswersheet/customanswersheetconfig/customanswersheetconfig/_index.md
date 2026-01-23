@@ -1,14 +1,14 @@
 ---
 title: CustomAnswerSheetConfig
 second_title: Aspose.OMR for .NET API Reference
-description: Initialize instance with default values
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/customanswersheetconfig/
 ---
 ## CustomAnswerSheetConfig constructor
 
-Initialize instance with default values
+The default constructor.
 
 ```csharp
 public CustomAnswerSheetConfig()

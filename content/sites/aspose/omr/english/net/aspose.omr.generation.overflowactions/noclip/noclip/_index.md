@@ -1,14 +1,14 @@
 ---
 title: NoClip
 second_title: Aspose.OMR for .NET API Reference
-description: Initialize NoAction instance
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.omr.generation.overflowactions/noclip/noclip/
 ---
 ## NoClip constructor
 
-Initialize NoAction instance
+The default constructor.
 
 ```csharp
 public NoClip()

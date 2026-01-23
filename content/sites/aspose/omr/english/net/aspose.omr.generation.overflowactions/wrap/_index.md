@@ -3,7 +3,7 @@ title: Wrap
 second_title: Aspose.OMR for .NET API Reference
 description: Parent element will try to find a place for overflowing child in another parents
 type: docs
-weight: 290
+weight: 880
 url: /net/aspose.omr.generation.overflowactions/wrap/
 ---
 ## Wrap class

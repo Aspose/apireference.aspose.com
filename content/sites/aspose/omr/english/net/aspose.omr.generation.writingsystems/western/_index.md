@@ -3,7 +3,7 @@ title: Western
 second_title: Aspose.OMR for .NET API Reference
 description: Default locale settings for 123 and LTR
 type: docs
-weight: 250
+weight: 990
 url: /net/aspose.omr.generation.writingsystems/western/
 ---
 ## Western class

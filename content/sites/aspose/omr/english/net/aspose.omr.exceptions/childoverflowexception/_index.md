@@ -3,7 +3,7 @@ title: ChildOverflowException
 second_title: Aspose.OMR for .NET API Reference
 description: Exception that is being used in template generation. Triggered on when LongWordHandling../aspose.omr.generation/globalpagesettings/longwordhandling set to ThrowException And child element overflow boundaries set by parentcontainer element
 type: docs
-weight: 870
+weight: 150
 url: /net/aspose.omr.exceptions/childoverflowexception/
 ---
 ## ChildOverflowException class

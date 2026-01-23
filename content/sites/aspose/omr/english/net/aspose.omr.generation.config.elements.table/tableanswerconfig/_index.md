@@ -3,7 +3,7 @@ title: TableAnswerConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Element of TableHeaderConfig./tableheaderconfig. Represent column header.
 type: docs
-weight: 670
+weight: 530
 url: /net/aspose.omr.generation.config.elements.table/tableanswerconfig/
 ---
 ## TableAnswerConfig class

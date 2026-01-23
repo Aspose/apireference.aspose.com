@@ -3,7 +3,7 @@ title: ChoiceBoxConfig
 second_title: Aspose.OMR for .NET API Reference
 description: The choice box is a basic element that represents a single question with set amount of answers.
 type: docs
-weight: 560
+weight: 280
 url: /net/aspose.omr.generation.config.elements/choiceboxconfig/
 ---
 ## ChoiceBoxConfig class
@@ -18,7 +18,7 @@ public class ChoiceBoxConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [ChoiceBoxConfig](choiceboxconfig)() | Create default instance of ChoiceBoxConfig |
+| [ChoiceBoxConfig](choiceboxconfig)() | The default constructor. |
 
 ## Properties
 

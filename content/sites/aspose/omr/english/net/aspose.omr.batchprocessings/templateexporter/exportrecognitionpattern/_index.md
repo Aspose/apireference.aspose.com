@@ -16,7 +16,7 @@ public void ExportRecognitionPattern(Stream writeable)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| writeable | Stream | writeable stream for recognition pattern |
+| writeable | Stream | writable stream for recognition pattern |
 
 ### See Also
 

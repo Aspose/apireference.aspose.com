@@ -1,14 +1,14 @@
 ---
 title: RotationMarkerPosition
 second_title: Aspose.OMR for .NET API Reference
-description: Desired rotation marker position on tempalte. If not set - TopRight1 will be used. Marker drawn as a fifth black rectangle.
+description: Desired rotation marker position on template. If not set - TopRight1 will be used. Marker drawn as a fifth black rectangle.
 type: docs
 weight: 30
 url: /net/aspose.omr.generation/referencepointssettings/rotationmarkerposition/
 ---
 ## ReferencePointsSettings.RotationMarkerPosition property
 
-Desired rotation marker position on tempalte. If not set - TopRight1 will be used. Marker drawn as a fifth black rectangle.
+Desired rotation marker position on template. If not set - TopRight1 will be used. Marker drawn as a fifth black rectangle.
 
 ```csharp
 public RotationPointPosition RotationMarkerPosition { get; set; }

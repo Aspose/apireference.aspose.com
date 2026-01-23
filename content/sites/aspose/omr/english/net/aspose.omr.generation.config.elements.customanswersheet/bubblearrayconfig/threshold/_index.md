@@ -1,14 +1,14 @@
 ---
 title: Threshold
 second_title: Aspose.OMR for .NET API Reference
-description: Percent of pixels after which bubbles considered marked. If present override global threshold provided during recognition Default value is -1. If default value is set - global value of threshold will be used.
+description: Override global threshold provided during recognition Percent of pixels from 0 to 100 after which bubbles considered marked. Default value is -1.By default global value of threshold will be used.
 type: docs
 weight: 120
 url: /net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/threshold/
 ---
 ## BubbleArrayConfig.Threshold property
 
-Percent of pixels after which bubbles considered marked. If present, override global threshold provided during recognition Default value is -1. If default value is set - global value of threshold will be used.
+Override global threshold provided during recognition Percent of pixels from 0 to 100 after which bubbles considered marked. Default value is -1.By default global value of threshold will be used.
 
 ```csharp
 public int Threshold { get; set; }

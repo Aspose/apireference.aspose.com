@@ -3,7 +3,7 @@ title: PixelOffset
 second_title: Aspose.OMR for .NET API Reference
 description: Offset set in pixels px.
 type: docs
-weight: 140
+weight: 900
 url: /net/aspose.omr.generation/pixeloffset/
 ---
 ## PixelOffset class

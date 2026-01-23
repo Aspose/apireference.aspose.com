@@ -3,7 +3,7 @@ title: ScoreHeaderConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Column in ScoreGroupConfig./scoregroupconfig that will store amount of points for each answer. If absent - that column will not be drawn.
 type: docs
-weight: 730
+weight: 490
 url: /net/aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/
 ---
 ## ScoreHeaderConfig class

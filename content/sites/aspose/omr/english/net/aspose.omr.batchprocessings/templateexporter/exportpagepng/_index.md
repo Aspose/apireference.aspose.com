@@ -16,7 +16,7 @@ public void ExportPagePng(Stream writeable)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| writeable | Stream | Writeable stream |
+| writeable | Stream | Writable stream |
 
 ### Exceptions
 

@@ -3,7 +3,7 @@ title: RecognizeFolder
 second_title: Aspose.OMR for .NET API Reference
 description: Recognizes images from folder
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.omr.api/templateprocessor/recognizefolder/
 ---
 ## TemplateProcessor.RecognizeFolder method

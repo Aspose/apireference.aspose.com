@@ -3,7 +3,7 @@ title: ScoreAnswerConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Answer with scored value
 type: docs
-weight: 710
+weight: 470
 url: /net/aspose.omr.generation.config.elements.scoregroup/scoreanswerconfig/
 ---
 ## ScoreAnswerConfig class

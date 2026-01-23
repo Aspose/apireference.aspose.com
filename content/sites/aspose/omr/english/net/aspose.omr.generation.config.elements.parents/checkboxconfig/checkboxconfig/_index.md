@@ -1,14 +1,14 @@
 ---
 title: CheckBoxConfig
 second_title: Aspose.OMR for .NET API Reference
-description: Create default instance of CheckBoxConfig
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.omr.generation.config.elements.parents/checkboxconfig/checkboxconfig/
 ---
 ## CheckBoxConfig constructor
 
-Create default instance of CheckBoxConfig
+The default constructor.
 
 ```csharp
 public CheckBoxConfig()

@@ -1,14 +1,14 @@
 ---
 title: ImageCollection
 second_title: Aspose.OMR for .NET API Reference
-description: Initialize a new instance of class
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.omr.api/imagecollection/imagecollection/
 ---
 ## ImageCollection constructor
 
-Initialize a new instance of class
+The default constructor.
 
 ```csharp
 public ImageCollection()

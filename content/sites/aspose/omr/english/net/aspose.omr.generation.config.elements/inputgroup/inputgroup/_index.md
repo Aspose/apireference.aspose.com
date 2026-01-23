@@ -1,14 +1,14 @@
 ---
 title: InputGroup
 second_title: Aspose.OMR for .NET API Reference
-description: Create instance with default parameters
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.omr.generation.config.elements/inputgroup/inputgroup/
 ---
 ## InputGroup constructor
 
-Create instance with default parameters
+The default constructor.
 
 ```csharp
 public InputGroup()

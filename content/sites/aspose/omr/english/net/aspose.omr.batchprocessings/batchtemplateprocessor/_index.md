@@ -3,7 +3,7 @@ title: BatchTemplateProcessor
 second_title: Aspose.OMR for .NET API Reference
 description: A tool for recognizing scans with a specific recognition pattern
 type: docs
-weight: 940
+weight: 90
 url: /net/aspose.omr.batchprocessings/batchtemplateprocessor/
 ---
 ## BatchTemplateProcessor class
@@ -21,6 +21,12 @@ public class BatchTemplateProcessor
 | [Recognize](../../aspose.omr.batchprocessings/batchtemplateprocessor/recognize#recognize)(IEnumerable&lt;string&gt;, int) | Recognize multiple files |
 | [Recognize](../../aspose.omr.batchprocessings/batchtemplateprocessor/recognize#recognize_1)(Stream, int) | Recognize one template from stream |
 | [Recognize](../../aspose.omr.batchprocessings/batchtemplateprocessor/recognize#recognize_2)(string, int) | Recognize Folder or File |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [ApplyLightShadeProcessing](../../aspose.omr.batchprocessings/batchtemplateprocessor/applylightshadeprocessing) | Optional recognition setting. When set to true all Recognize methods will include additional pre-processing. This preprocessing is useful for highlighting marks with a very light shade. e.g. faint pencil marks. |
 
 ### See Also
 

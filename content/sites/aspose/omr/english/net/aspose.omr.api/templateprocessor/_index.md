@@ -3,7 +3,7 @@ title: TemplateProcessor
 second_title: Aspose.OMR for .NET API Reference
 description: Class for processing templates and images.  Each instance of this class works with a single OMR template. It is able to recognize images of the template specified in the constructor.
 type: docs
-weight: 1010
+weight: 50
 url: /net/aspose.omr.api/templateprocessor/
 ---
 ## TemplateProcessor class
@@ -24,6 +24,12 @@ public class TemplateProcessor
 | [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize_2)(string, int) | Recognizes file |
 | [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize_3)(string[], int) | Recognize multiple files as a single multipage file |
 | [RecognizeFolder](../../aspose.omr.api/templateprocessor/recognizefolder)(string, int) | Recognizes images from folder |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [ApplyLightShadeProcessing](../../aspose.omr.api/templateprocessor/applylightshadeprocessing) | Optional recognition setting. When set to true all Recognize methods will include additional pre-processing. This preprocessing is useful for highlighting marks with a very light shade. e.g. faint pencil marks. |
 
 ### Examples
 

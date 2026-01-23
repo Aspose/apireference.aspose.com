@@ -1,14 +1,14 @@
 ---
 title: ImageCollection
 second_title: Aspose.OMR for .NET API Reference
-description: Collection of Images that can be used for template Generation. e.g. Aspose.OMR.Api.OmrEngine.GenerateStream GlobalPageSettings ImageCollection Encoding Can be useful when your images are not in the file system.
+description: Collection of Images that can be used for template Generation. e.g. Generate./omrengine/generate Can be useful when your images are not in the file system.
 type: docs
-weight: 980
+weight: 10
 url: /net/aspose.omr.api/imagecollection/
 ---
 ## ImageCollection class
 
-Collection of Images that can be used for template Generation. e.g. !:Aspose.OMR.Api.OmrEngine.Generate(Stream, GlobalPageSettings, ImageCollection, Encoding) Can be useful when your images are not in the file system.
+Collection of Images that can be used for template Generation. e.g. [`Generate`](../omrengine/generate) Can be useful when your images are not in the file system.
 
 ```csharp
 public class ImageCollection
@@ -18,7 +18,7 @@ public class ImageCollection
 
 | Name | Description |
 | --- | --- |
-| [ImageCollection](imagecollection)() | Initialize a new instance of class |
+| [ImageCollection](imagecollection)() | The default constructor. |
 
 ## Methods
 

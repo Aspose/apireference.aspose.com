@@ -3,7 +3,7 @@ title: PositionedBlockConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Grouping element. Position any child in absolute coordinates on canvas
 type: docs
-weight: 820
+weight: 450
 url: /net/aspose.omr.generation.config.elements.parents/positionedblockconfig/
 ---
 ## PositionedBlockConfig class
@@ -18,7 +18,7 @@ public class PositionedBlockConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [PositionedBlockConfig](positionedblockconfig)() | Create instance with default parameters |
+| [PositionedBlockConfig](positionedblockconfig)() | The default constructor. |
 
 ## Properties
 

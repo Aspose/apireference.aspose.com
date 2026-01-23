@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Aspose.OMR for .NET API Reference
-description: If present overrides height in pixels of one bubble array row To set overflowing behavior see Overflowaspose.omr.generation/globalpagesettings/overflow default value is -1. If default value is used - height of the bubble array will be scaled automatically.
+description: Overrides height of bubble array row in pixels Partially visible or overflowing content will be removed. For details see - Clipaspose.omr.generation.overflowactions/clip default value is -1. By default height of the bubble array will be scaled automatically.
 type: docs
 weight: 80
 url: /net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/height/
 ---
 ## BubbleArrayConfig.Height property
 
-If present overrides height in pixels of one bubble array row To set overflowing behavior see [`Overflow`](../../../aspose.omr.generation/globalpagesettings/overflow) default value is -1. If default value is used - height of the bubble array will be scaled automatically.
+Overrides height of bubble array row in pixels Partially visible or overflowing content will be removed. For details see - [`Clip`](../../../aspose.omr.generation.overflowactions/clip) default value is -1. By default height of the bubble array will be scaled automatically.
 
 ```csharp
 public int Height { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: AnswerSheetConfig
 second_title: Aspose.OMR for .NET API Reference
-description: Create instance width default values
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.omr.generation.config.elements/answersheetconfig/answersheetconfig/
 ---
 ## AnswerSheetConfig constructor
 
-Create instance width default values
+The default constructor.
 
 ```csharp
 public AnswerSheetConfig()

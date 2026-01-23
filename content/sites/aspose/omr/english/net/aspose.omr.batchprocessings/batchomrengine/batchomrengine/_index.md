@@ -1,21 +1,22 @@
 ---
 title: BatchOmrEngine
 second_title: Aspose.OMR for .NET API Reference
-description: Create instance of main dataset aggregator
+description: Create instance of BatchOmrEngine Optional internal storage for memory efficiency. Reuse same factory for multiple instances of BatchOmrEngine to improve performance
 type: docs
 weight: 10
 url: /net/aspose.omr.batchprocessings/batchomrengine/batchomrengine/
 ---
 ## BatchOmrEngine constructor
 
-Create instance of main dataset aggregator
+Create instance of BatchOmrEngine Optional internal storage for memory efficiency. Reuse same factory for multiple instances of BatchOmrEngine to improve performance
 
 ```csharp
-public BatchOmrEngine()
+public BatchOmrEngine(PoolFactory factory = null)
 ```
 
 ### See Also
 
+* class [PoolFactory](../../../aspose.omr.buffers/poolfactory)
 * class [BatchOmrEngine](../../batchomrengine)
 * namespace [Aspose.OMR.BatchProcessings](../../batchomrengine)
 * assembly [Aspose.OMR](../../../)

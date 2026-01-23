@@ -3,7 +3,7 @@ title: OmrEngine
 second_title: Aspose.OMR for .NET API Reference
 description: The OMR engine. Handles the creation of the template and image processing classes and GUI components.
 type: docs
-weight: 990
+weight: 20
 url: /net/aspose.omr.api/omrengine/
 ---
 ## OmrEngine class
@@ -18,7 +18,7 @@ public class OmrEngine
 
 | Name | Description |
 | --- | --- |
-| [OmrEngine](omrengine)() | The default constructor. |
+| [OmrEngine](omrengine)(PoolFactory) | Create instance of OmrEngine Internal storage for memory efficiency. Reuse same factory for multiple instances of OmrEngine to improve performance |
 
 ## Methods
 

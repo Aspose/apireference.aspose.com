@@ -3,7 +3,7 @@ title: BorderStyle
 second_title: Aspose.OMR for .NET API Reference
 description: Describe border for one selected side of
 type: docs
-weight: 310
+weight: 240
 url: /net/aspose.omr.generation.config/borderstyle/
 ---
 ## BorderStyle class

@@ -3,7 +3,7 @@ title: RecognitionResult
 second_title: Aspose.OMR for .NET API Reference
 description: The result of the image recognition. Contains all OMR elements with detailed recognition information and methods for results export.
 type: docs
-weight: 50
+weight: 1040
 url: /net/aspose.omr.model/recognitionresult/
 ---
 ## RecognitionResult class

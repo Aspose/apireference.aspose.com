@@ -13,7 +13,7 @@ url: /net/aspose.omr.batchprocessings/
 | Class | Description |
 | --- | --- |
 | [BatchGenerationResult](./batchgenerationresult) | Result of multiple template generation. |
-| [BatchOmrEngine](./batchomrengine) | Main aggregator for a batch processing |
+| [BatchOmrEngine](./batchomrengine) | Main API entrance for a batch processing |
 | [BatchRecognitionResult](./batchrecognitionresult) | Result of a batch recognition of a collection of scans |
 | [BatchTemplateProcessor](./batchtemplateprocessor) | A tool for recognizing scans with a specific recognition pattern |
 | [DataRecord](./datarecord) | Represent data for single instance of the form |
