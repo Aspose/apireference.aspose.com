@@ -3,7 +3,7 @@ title: VerticalChoiceBoxConfig
 second_title: Aspose.OMR for .NET API Reference
 description: The VerticalChoiceBox consists of a AnswerConfig./answerconfig element that contains a short response and ContentConfig../aspose.omr.generation.config.elements/contentconfig elements that describe the response option in detail. It can also contain a WriteInConfig../aspose.omr.generation.config.elements/writeinconfig element in which the user can enter his own answer.
 type: docs
-weight: 830
+weight: 460
 url: /net/aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/
 ---
 ## VerticalChoiceBoxConfig class

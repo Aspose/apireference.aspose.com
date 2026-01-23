@@ -1,14 +1,14 @@
 ---
 title: MultiselectException
 second_title: Aspose.OMR for .NET API Reference
-description: Exception that is being used in template recognition. Thrown during a Recognize../aspose.omr.api/templateprocessor/recognize call. Triggered by multiple answers per question and element multiselect set to true Can be controlled by Multiselect../aspose.omr.generation.config.elements/choiceboxconfig/multiselectDefault settings is set with Exception in Aspose.OMR.Api.OmrEngine.GetTemplateProcessorstring
+description: Exception that is being used in template recognition. Thrown during a Recognize../aspose.omr.api/templateprocessor/recognize call. Triggered by multiple answers per question and element multi-select set to true Can be controlled by Multiselect../aspose.omr.generation.config.elements/choiceboxconfig/multiselectDefault settings is set with Exception in GetTemplateProcessor../aspose.omr.api/omrengine/gettemplateprocessor
 type: docs
-weight: 880
+weight: 170
 url: /net/aspose.omr.exceptions/multiselectexception/
 ---
 ## MultiselectException class
 
-Exception that is being used in template recognition. Thrown during a [`Recognize`](../../aspose.omr.api/templateprocessor/recognize) call. Triggered by multiple answers per question and element multiselect set to true Can be controlled by [`Multiselect`](../../aspose.omr.generation.config.elements/choiceboxconfig/multiselect)Default settings is set with Exception in !:Aspose.OMR.Api.OmrEngine.GetTemplateProcessor(string)
+Exception that is being used in template recognition. Thrown during a [`Recognize`](../../aspose.omr.api/templateprocessor/recognize) call. Triggered by multiple answers per question and element multi-select set to true Can be controlled by [`Multiselect`](../../aspose.omr.generation.config.elements/choiceboxconfig/multiselect)Default settings is set with Exception in [`GetTemplateProcessor`](../../aspose.omr.api/omrengine/gettemplateprocessor)
 
 ```csharp
 public class MultiselectException : OMRException

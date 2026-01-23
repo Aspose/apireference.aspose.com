@@ -3,7 +3,7 @@ title: QRVersion
 second_title: Aspose.OMR for .NET API Reference
 description: Type of QR that will be used for BarcodeConfig../aspose.omr.generation.config.elements/barcodeconfig Responsible for maximum amount of bytes encoded by QR. If unsure - use Auto. Library will select appropriate size automatically
 type: docs
-weight: 460
+weight: 710
 url: /net/aspose.omr.generation.config.enums/qrversion/
 ---
 ## QRVersion enumeration

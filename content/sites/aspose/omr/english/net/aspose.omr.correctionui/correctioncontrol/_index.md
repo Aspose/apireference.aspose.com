@@ -3,7 +3,7 @@ title: CorrectionControl
 second_title: Aspose.OMR for .NET API Reference
 description: The User Control that allows recognizing images and correct and calibrate recognition parameters
 type: docs
-weight: 900
+weight: 140
 url: /net/aspose.omr.correctionui/correctioncontrol/
 ---
 ## CorrectionControl class

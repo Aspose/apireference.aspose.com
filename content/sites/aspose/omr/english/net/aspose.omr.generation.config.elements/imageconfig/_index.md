@@ -3,7 +3,7 @@ title: ImageConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents Image element. Inserted from file system using provided path
 type: docs
-weight: 620
+weight: 370
 url: /net/aspose.omr.generation.config.elements/imageconfig/
 ---
 ## ImageConfig class
@@ -18,7 +18,7 @@ public class ImageConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [ImageConfig](imageconfig)() | Create instance with default values |
+| [ImageConfig](imageconfig)() | The default constructor. |
 
 ## Properties
 

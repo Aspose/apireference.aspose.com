@@ -3,7 +3,7 @@ title: TableTitleConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents TableTitle element. Display title. Used with TableConfig./tableconfig
 type: docs
-weight: 700
+weight: 560
 url: /net/aspose.omr.generation.config.elements.table/tabletitleconfig/
 ---
 ## TableTitleConfig class
@@ -18,7 +18,7 @@ public class TableTitleConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [TableTitleConfig](tabletitleconfig)() | Create instance with default values |
+| [TableTitleConfig](tabletitleconfig)() | The default constructor. |
 
 ## Properties
 

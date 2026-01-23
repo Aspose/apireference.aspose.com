@@ -3,7 +3,7 @@ title: Orientation
 second_title: Aspose.OMR for .NET API Reference
 description: The orientation
 type: docs
-weight: 90
+weight: 840
 url: /net/aspose.omr.generation/orientation/
 ---
 ## Orientation enumeration

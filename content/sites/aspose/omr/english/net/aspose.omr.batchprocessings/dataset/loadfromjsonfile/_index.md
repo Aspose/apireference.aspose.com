@@ -1,14 +1,14 @@
 ---
 title: LoadFromJsonFile
 second_title: Aspose.OMR for .NET API Reference
-description: Import dataset from .json file by path Suiatable for big and small datasets
+description: Import dataset from .json file by path Suitable for big and small datasets
 type: docs
 weight: 20
 url: /net/aspose.omr.batchprocessings/dataset/loadfromjsonfile/
 ---
 ## DataSet.LoadFromJsonFile method
 
-Import dataset from .json file by path Suiatable for big and small datasets
+Import dataset from .json file by path Suitable for big and small datasets
 
 ```csharp
 public static DataSet LoadFromJsonFile(string filePath, Encoding encoding = null)

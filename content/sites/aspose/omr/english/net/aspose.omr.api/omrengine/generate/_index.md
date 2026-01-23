@@ -17,7 +17,7 @@ public GenerationResult Generate(Stream markupStream, GlobalPageSettings setting
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| markupStream | Stream | Readable stream which contains markup lines for tempalte config(txt or json) |
+| markupStream | Stream | Readable stream which contains markup lines for template config(txt or json) |
 | settings | GlobalPageSettings | global settings used in template generation for all pages |
 | collection | ImageCollection | Collection of images that can be used for a template generation. Allow to use images from MemoryStream instead of file system |
 | encoding | Encoding | markup lines encoding, by default UTF-8 is used |
@@ -31,6 +31,7 @@ Generation result
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | markupPath |
+| [RuntimeExceptionOMR](../../../aspose.omr.exceptions/runtimeexceptionomr) | template generation |
 
 ### See Also
 
@@ -54,7 +55,7 @@ public GenerationResult Generate(string markupPath, GlobalPageSettings settings 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| markupPath | String | Path to a file which contains markup lines for tempalte config(txt or json) |
+| markupPath | String | Path to a file which contains markup lines for template config(txt or json) |
 | settings | GlobalPageSettings | global settings used in template generation for all pages |
 | imagesPaths | String[] | Path to images that will be used for a template generation |
 | encoding | Encoding | markup lines encoding, by default UTF-8 is used |
@@ -69,6 +70,7 @@ Generation result
 | --- | --- |
 | ArgumentNullException | markupPath |
 | FileNotFoundException | markupPath |
+| [RuntimeExceptionOMR](../../../aspose.omr.exceptions/runtimeexceptionomr) | template generation |
 
 ### See Also
 
@@ -104,6 +106,7 @@ Generation result
 | exception | condition |
 | --- | --- |
 | ArgumentNullException |  |
+| [RuntimeExceptionOMR](../../../aspose.omr.exceptions/runtimeexceptionomr) | template generation |
 
 ### See Also
 
@@ -134,6 +137,12 @@ public GenerationResult Generate(TemplateConfig config, GlobalPageSettings setti
 ### Return Value
 
 Generation result
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| [RuntimeExceptionOMR](../../../aspose.omr.exceptions/runtimeexceptionomr) | template generation |
 
 ### See Also
 

@@ -95,7 +95,7 @@ public BatchGenerationResult Generate(DataSet dataSet, string[] layoutLines,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | dataSet | DataSet | Collection of data sets used in template form generation |
-| layoutLines | String[] | sorted array of lines representing template layour |
+| layoutLines | String[] | sorted array of lines representing template layout |
 | settings | GlobalPageSettings | page settings used in every template form generation |
 | collection | ImageCollection | collection of images used in every template form generation |
 

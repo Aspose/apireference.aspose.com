@@ -1,12 +1,12 @@
 ---
 title: Aspose.OMR.Generation.Config.Enums
 second_title: Aspose.OMR for .NET API Reference
-description: The Aspose.OMR.Generation.Config.Enums contains enumerations required to generate forms programmatically see more at https//docs.aspose.com/omr/net/programmatic-forms/
+description: 
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.omr.generation.config.enums/
 ---
-The **Aspose.OMR.Generation.Config.Enums** contains enumerations required to generate forms programmatically see more at https://docs.aspose.com/omr/net/programmatic-forms/
+
 
 ## Enumeration
 

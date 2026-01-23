@@ -3,7 +3,7 @@ title: OverflowAction
 second_title: Aspose.OMR for .NET API Reference
 description: Action to control child element overflowing size of parent element. Pending on realization can produce different results.
 type: docs
-weight: 280
+weight: 870
 url: /net/aspose.omr.generation.overflowactions/overflowaction/
 ---
 ## OverflowAction class

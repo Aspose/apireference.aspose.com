@@ -3,7 +3,7 @@ title: BatchGenerationResult
 second_title: Aspose.OMR for .NET API Reference
 description: Result of multiple template generation.
 type: docs
-weight: 910
+weight: 60
 url: /net/aspose.omr.batchprocessings/batchgenerationresult/
 ---
 ## BatchGenerationResult class

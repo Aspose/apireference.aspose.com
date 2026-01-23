@@ -1,14 +1,14 @@
 ---
 title: Records
 second_title: Aspose.OMR for .NET API Reference
-description: Collection of the template instances Lazilly called during template generations
+description: Collection of the template instances Lazily called during template generations
 type: docs
 weight: 50
 url: /net/aspose.omr.batchprocessings/dataset/records/
 ---
 ## DataSet.Records property
 
-Collection of the template instances Lazilly called during template generations
+Collection of the template instances Lazily called during template generations
 
 ```csharp
 public IEnumerable<DataRecord> Records { get; set; }

@@ -1,21 +1,22 @@
 ---
 title: OmrEngine
 second_title: Aspose.OMR for .NET API Reference
-description: The default constructor.
+description: Create instance of OmrEngine Internal storage for memory efficiency. Reuse same factory for multiple instances of OmrEngine to improve performance
 type: docs
 weight: 10
 url: /net/aspose.omr.api/omrengine/omrengine/
 ---
 ## OmrEngine constructor
 
-The default constructor.
+Create instance of OmrEngine Internal storage for memory efficiency. Reuse same factory for multiple instances of OmrEngine to improve performance
 
 ```csharp
-public OmrEngine()
+public OmrEngine(PoolFactory factory = null)
 ```
 
 ### See Also
 
+* class [PoolFactory](../../../aspose.omr.buffers/poolfactory)
 * class [OmrEngine](../../omrengine)
 * namespace [Aspose.OMR.Api](../../omrengine)
 * assembly [Aspose.OMR](../../../)

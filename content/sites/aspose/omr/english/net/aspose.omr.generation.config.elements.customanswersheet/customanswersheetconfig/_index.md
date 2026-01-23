@@ -3,7 +3,7 @@ title: CustomAnswerSheetConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Repeat custom rows. To describe custom row use - CustomRowConfig./customrowconfig
 type: docs
-weight: 850
+weight: 320
 url: /net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/
 ---
 ## CustomAnswerSheetConfig class
@@ -18,7 +18,7 @@ public class CustomAnswerSheetConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [CustomAnswerSheetConfig](customanswersheetconfig)() | Initialize instance with default values |
+| [CustomAnswerSheetConfig](customanswersheetconfig)() | The default constructor. |
 
 ## Properties
 

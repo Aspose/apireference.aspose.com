@@ -1,14 +1,14 @@
 ---
 title: BatchOmrEngine
 second_title: Aspose.OMR for .NET API Reference
-description: Main aggregator for a batch processing
+description: Main API entrance for a batch processing
 type: docs
-weight: 920
+weight: 70
 url: /net/aspose.omr.batchprocessings/batchomrengine/
 ---
 ## BatchOmrEngine class
 
-Main aggregator for a batch processing
+Main API entrance for a batch processing
 
 ```csharp
 public class BatchOmrEngine
@@ -18,13 +18,13 @@ public class BatchOmrEngine
 
 | Name | Description |
 | --- | --- |
-| [BatchOmrEngine](batchomrengine)() | Create instance of main dataset aggregator |
+| [BatchOmrEngine](batchomrengine)(PoolFactory) | Create instance of BatchOmrEngine Optional internal storage for memory efficiency. Reuse same factory for multiple instances of BatchOmrEngine to improve performance |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddPlugin](../../aspose.omr.batchprocessings/batchomrengine/addplugin)(IPlugin) | Register new plugin |
+| [AddPlugin](../../aspose.omr.batchprocessings/batchomrengine/addplugin)(IPlugin) | Register new plug-in |
 | [Generate](../../aspose.omr.batchprocessings/batchomrengine/generate#generate)(DataSet, Stream, GlobalPageSettings, ImageCollection) | Generate multiple templates using layout template and set of data entries |
 | [Generate](../../aspose.omr.batchprocessings/batchomrengine/generate#generate_1)(DataSet, string, GlobalPageSettings, ImageCollection) | Generate multiple templates using layout template and set of data entries |
 | [Generate](../../aspose.omr.batchprocessings/batchomrengine/generate#generate_2)(DataSet, string[], GlobalPageSettings, ImageCollection) | Generate multiple templates using layout template and set of data entries |

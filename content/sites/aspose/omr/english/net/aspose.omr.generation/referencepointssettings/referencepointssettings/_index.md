@@ -1,14 +1,14 @@
 ---
 title: ReferencePointsSettings
 second_title: Aspose.OMR for .NET API Reference
-description: Create new instance of settings with default values. By default we use pixel offset.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.omr.generation/referencepointssettings/referencepointssettings/
 ---
 ## ReferencePointsSettings constructor
 
-Create new instance of settings with default values. By default we use pixel offset.
+The default constructor.
 
 ```csharp
 public ReferencePointsSettings()

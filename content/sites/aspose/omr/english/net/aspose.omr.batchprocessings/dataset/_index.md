@@ -3,7 +3,7 @@ title: DataSet
 second_title: Aspose.OMR for .NET API Reference
 description: Collection of fields for each of the template instances. Used for batch Generation and batch Recognition BatchOmrEngine./batchomrengine
 type: docs
-weight: 960
+weight: 110
 url: /net/aspose.omr.batchprocessings/dataset/
 ---
 ## DataSet class
@@ -24,15 +24,15 @@ public class DataSet
 
 | Name | Description |
 | --- | --- |
-| [Records](../../aspose.omr.batchprocessings/dataset/records) { get; set; } | Collection of the template instances Lazilly called during template generations |
+| [Records](../../aspose.omr.batchprocessings/dataset/records) { get; set; } | Collection of the template instances Lazily called during template generations |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [LoadFromJsonFile](../../aspose.omr.batchprocessings/dataset/loadfromjsonfile)(string, Encoding) | Import dataset from .json file by path Suiatable for big and small datasets |
-| static [LoadFromJsonStream](../../aspose.omr.batchprocessings/dataset/loadfromjsonstream)(Stream, Encoding) | Deserialize content of stream into DataSet object Suiatable for big datasets |
-| static [LoadFromJsonString](../../aspose.omr.batchprocessings/dataset/loadfromjsonstring)(string) | Import dataset from .json file content Suiatable for small datasets |
+| static [LoadFromJsonFile](../../aspose.omr.batchprocessings/dataset/loadfromjsonfile)(string, Encoding) | Import dataset from .json file by path Suitable for big and small datasets |
+| static [LoadFromJsonStream](../../aspose.omr.batchprocessings/dataset/loadfromjsonstream)(Stream, Encoding) | Deserialize content of stream into DataSet object Suitable for big datasets |
+| static [LoadFromJsonString](../../aspose.omr.batchprocessings/dataset/loadfromjsonstring)(string) | Import dataset from .json file content Suitable for small datasets |
 
 ### See Also
 

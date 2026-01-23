@@ -1,14 +1,14 @@
 ---
 title: AddPlugin
 second_title: Aspose.OMR for .NET API Reference
-description: Register new plugin
+description: Register new plug-in
 type: docs
 weight: 20
 url: /net/aspose.omr.batchprocessings/batchomrengine/addplugin/
 ---
 ## BatchOmrEngine.AddPlugin method
 
-Register new plugin
+Register new plug-in
 
 ```csharp
 public void AddPlugin(IPlugin plugin)

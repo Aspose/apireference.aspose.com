@@ -3,7 +3,7 @@ title: Persian
 second_title: Aspose.OMR for .NET API Reference
 description: Persian locale settings Right to Left ١۲ ۳
 type: docs
-weight: 230
+weight: 970
 url: /net/aspose.omr.generation.writingsystems/persian/
 ---
 ## Persian class

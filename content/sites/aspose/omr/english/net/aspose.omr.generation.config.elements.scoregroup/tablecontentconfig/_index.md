@@ -3,7 +3,7 @@ title: TableContentConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Text inside table structure
 type: docs
-weight: 750
+weight: 510
 url: /net/aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/
 ---
 ## TableContentConfig class

@@ -3,7 +3,7 @@ title: Recognize
 second_title: Aspose.OMR for .NET API Reference
 description: Recognizes file
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.omr.api/templateprocessor/recognize/
 ---
 ## Recognize(string, int) {#recognize_2}

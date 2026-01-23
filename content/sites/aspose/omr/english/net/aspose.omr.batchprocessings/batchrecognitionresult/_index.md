@@ -3,7 +3,7 @@ title: BatchRecognitionResult
 second_title: Aspose.OMR for .NET API Reference
 description: Result of a batch recognition of a collection of scans
 type: docs
-weight: 930
+weight: 80
 url: /net/aspose.omr.batchprocessings/batchrecognitionresult/
 ---
 ## BatchRecognitionResult class

@@ -3,7 +3,7 @@ title: OMRException
 second_title: Aspose.OMR for .NET API Reference
 description: Base class for all OMR exceptions. Incapsulates all application logic violations.
 type: docs
-weight: 890
+weight: 180
 url: /net/aspose.omr.exceptions/omrexception/
 ---
 ## OMRException class

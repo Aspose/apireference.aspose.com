@@ -1,12 +1,12 @@
 ---
 title: Aspose.OMR.Generation.Config.Elements.Table
 second_title: Aspose.OMR for .NET API Reference
-description: The Aspose.OMR.Generation.Config.Elements.Table contains Table elements required to generate forms programmatically see more at https//docs.aspose.com/omr/net/programmatic-forms/tableconfig/
+description: 
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.omr.generation.config.elements.table/
 ---
-The **Aspose.OMR.Generation.Config.Elements.Table** contains Table elements required to generate forms programmatically see more at https://docs.aspose.com/omr/net/programmatic-forms/tableconfig/
+
 
 ## Classes
 

@@ -3,7 +3,7 @@ title: ParagraphTypeEnum
 second_title: Aspose.OMR for .NET API Reference
 description: Type of ParagraphConfig../aspose.omr.generation.config.elements.parents/paragraphconfig
 type: docs
-weight: 450
+weight: 700
 url: /net/aspose.omr.generation.config.enums/paragraphtypeenum/
 ---
 ## ParagraphTypeEnum enumeration

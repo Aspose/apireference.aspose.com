@@ -3,7 +3,7 @@ title: Presets
 second_title: Aspose.OMR for .NET API Reference
 description: Provides shorthand commands for rapid generation and recognition of OMR forms with predefined design. This API enables form creation without needing to learn Aspose.OMR markup languages and form recognition without a pattern file. For advanced control over form design and recognition use OmrEngine./omrengine
 type: docs
-weight: 1000
+weight: 40
 url: /net/aspose.omr.api/presets/
 ---
 ## Presets class

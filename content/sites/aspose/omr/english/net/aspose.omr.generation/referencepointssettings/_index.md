@@ -1,14 +1,14 @@
 ---
 title: ReferencePointsSettings
 second_title: Aspose.OMR for .NET API Reference
-description: Settings descibing behaviour for Reference Point of the template e.g. Black squares at the corners and rotation marker black rectangle between.
+description: Settings describing behavior for Reference Point of the template black squares at the corners and rotation marker black rectangle between.
 type: docs
-weight: 150
+weight: 910
 url: /net/aspose.omr.generation/referencepointssettings/
 ---
 ## ReferencePointsSettings class
 
-Settings descibing behaviour for Reference Point of the template e.g. Black squares at the corners and rotation marker black rectangle between.
+Settings describing behavior for Reference Point of the template: black squares at the corners and rotation marker black rectangle between.
 
 ```csharp
 public class ReferencePointsSettings
@@ -18,14 +18,14 @@ public class ReferencePointsSettings
 
 | Name | Description |
 | --- | --- |
-| [ReferencePointsSettings](referencepointssettings)() | Create new instance of settings with default values. By default we use pixel offset. |
+| [ReferencePointsSettings](referencepointssettings)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Offset](../../aspose.omr.generation/referencepointssettings/offset) { get; set; } | Offset for all reference points. System of measurement depends on derived type. Calculated from the top left corner of the template |
-| [RotationMarkerPosition](../../aspose.omr.generation/referencepointssettings/rotationmarkerposition) { get; set; } | Desired rotation marker position on tempalte. If not set - TopRight1 will be used. Marker drawn as a fifth black rectangle. |
+| [RotationMarkerPosition](../../aspose.omr.generation/referencepointssettings/rotationmarkerposition) { get; set; } | Desired rotation marker position on template. If not set - TopRight1 will be used. Marker drawn as a fifth black rectangle. |
 
 ### See Also
 

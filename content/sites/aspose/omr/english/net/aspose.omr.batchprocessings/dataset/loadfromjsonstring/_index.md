@@ -1,14 +1,14 @@
 ---
 title: LoadFromJsonString
 second_title: Aspose.OMR for .NET API Reference
-description: Import dataset from .json file content Suiatable for small datasets
+description: Import dataset from .json file content Suitable for small datasets
 type: docs
 weight: 40
 url: /net/aspose.omr.batchprocessings/dataset/loadfromjsonstring/
 ---
 ## DataSet.LoadFromJsonString method
 
-Import dataset from .json file content Suiatable for small datasets
+Import dataset from .json file content Suitable for small datasets
 
 ```csharp
 public static DataSet LoadFromJsonString(string jsonContent)

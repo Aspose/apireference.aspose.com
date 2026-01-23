@@ -1,14 +1,14 @@
 ---
 title: GridConfig
 second_title: Aspose.OMR for .NET API Reference
-description: Create instance using default values
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.omr.generation.config.elements/gridconfig/gridconfig/
 ---
 ## GridConfig constructor
 
-Create instance using default values
+The default constructor.
 
 ```csharp
 public GridConfig()

@@ -1,14 +1,14 @@
 ---
 title: LoadFromJsonStream
 second_title: Aspose.OMR for .NET API Reference
-description: Deserialize content of stream into DataSet object Suiatable for big datasets
+description: Deserialize content of stream into DataSet object Suitable for big datasets
 type: docs
 weight: 30
 url: /net/aspose.omr.batchprocessings/dataset/loadfromjsonstream/
 ---
 ## DataSet.LoadFromJsonStream method
 
-Deserialize content of stream into DataSet object Suiatable for big datasets
+Deserialize content of stream into DataSet object Suitable for big datasets
 
 ```csharp
 public static DataSet LoadFromJsonStream(Stream readable, Encoding encoding = null)

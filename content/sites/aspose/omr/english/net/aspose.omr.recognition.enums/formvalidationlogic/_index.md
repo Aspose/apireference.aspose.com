@@ -3,7 +3,7 @@ title: FormValidationLogic
 second_title: Aspose.OMR for .NET API Reference
 description: Patterns that control behavior of non-standarderror cases during a recognition process.
 type: docs
-weight: 30
+weight: 1050
 url: /net/aspose.omr.recognition.enums/formvalidationlogic/
 ---
 ## FormValidationLogic enumeration

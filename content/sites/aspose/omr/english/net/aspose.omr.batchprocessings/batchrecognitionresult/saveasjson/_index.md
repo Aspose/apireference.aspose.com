@@ -36,7 +36,7 @@ public void SaveAsJson(Stream writeable)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| writeable | Stream | writeable stream |
+| writeable | Stream | writable stream |
 
 ### See Also
 

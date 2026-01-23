@@ -3,7 +3,7 @@ title: Color
 second_title: Aspose.OMR for .NET API Reference
 description: The Colors
 type: docs
-weight: 70
+weight: 220
 url: /net/aspose.omr.generation/color/
 ---
 ## Color enumeration

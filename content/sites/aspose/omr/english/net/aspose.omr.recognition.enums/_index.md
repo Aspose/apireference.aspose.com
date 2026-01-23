@@ -3,7 +3,7 @@ title: Aspose.OMR.Recognition.Enums
 second_title: Aspose.OMR for .NET API Reference
 description: 
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.omr.recognition.enums/
 ---
 

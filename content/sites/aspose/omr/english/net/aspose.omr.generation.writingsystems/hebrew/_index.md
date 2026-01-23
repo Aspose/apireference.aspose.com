@@ -3,7 +3,7 @@ title: Hebrew
 second_title: Aspose.OMR for .NET API Reference
 description: Hebrew Culture preset. RightToLeft and גבא
 type: docs
-weight: 210
+weight: 960
 url: /net/aspose.omr.generation.writingsystems/hebrew/
 ---
 ## Hebrew class

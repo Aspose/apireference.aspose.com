@@ -1,14 +1,14 @@
 ---
 title: ChoiceBoxConfig
 second_title: Aspose.OMR for .NET API Reference
-description: Create default instance of ChoiceBoxConfig
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.omr.generation.config.elements/choiceboxconfig/choiceboxconfig/
 ---
 ## ChoiceBoxConfig constructor
 
-Create default instance of ChoiceBoxConfig
+The default constructor.
 
 ```csharp
 public ChoiceBoxConfig()

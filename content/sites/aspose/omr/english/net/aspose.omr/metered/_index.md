@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.OMR for .NET API Reference
 description: Provides methods to set metered key.
 type: docs
-weight: 10
+weight: 1020
 url: /net/aspose.omr/metered/
 ---
 ## Metered class
@@ -18,7 +18,7 @@ public class Metered
 
 | Name | Description |
 | --- | --- |
-| [Metered](metered)() | Initializes a new instance of this class. |
+| [Metered](metered)() | The default constructor. |
 
 ## Methods
 
@@ -45,13 +45,6 @@ matered.SetMeteredKey("PublicKey", "PrivateKey");
 
 Dim matered As Metered = New Metered
 matered.SetMeteredKey("PublicKey", "PrivateKey")
-```
-
-the component jar file:
-
-```csharp
-Metered matered = new Metered();
-matered.setMeteredKey("PublicKey", "PrivateKey");
 ```
 
 ### See Also

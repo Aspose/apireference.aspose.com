@@ -3,7 +3,7 @@ title: Clip
 second_title: Aspose.OMR for .NET API Reference
 description: Overflowing part will be truncated. By default parent element will take as much space as possible on the page. If that size is not enough - child element will be truncated.
 type: docs
-weight: 260
+weight: 850
 url: /net/aspose.omr.generation.overflowactions/clip/
 ---
 ## Clip class

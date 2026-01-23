@@ -3,7 +3,7 @@ title: NoClip
 second_title: Aspose.OMR for .NET API Reference
 description: No attempt to control Overflow will be taken.
 type: docs
-weight: 270
+weight: 860
 url: /net/aspose.omr.generation.overflowactions/noclip/
 ---
 ## NoClip class
@@ -18,7 +18,7 @@ public class NoClip : OverflowAction
 
 | Name | Description |
 | --- | --- |
-| [NoClip](noclip)() | Initialize NoAction instance |
+| [NoClip](noclip)() | The default constructor. |
 
 ### See Also
 

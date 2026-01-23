@@ -3,7 +3,7 @@ title: DigitReplacement
 second_title: Aspose.OMR for .NET API Reference
 description: Digits can be replaced
 type: docs
-weight: 200
+weight: 950
 url: /net/aspose.omr.generation.writingsystems/digitreplacement/
 ---
 ## DigitReplacement class

@@ -3,7 +3,7 @@ title: QuestionConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents Question element. Commonly used in TableConfig./tableconfig as rows.
 type: docs
-weight: 660
+weight: 520
 url: /net/aspose.omr.generation.config.elements.table/questionconfig/
 ---
 ## QuestionConfig class

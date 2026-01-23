@@ -3,7 +3,7 @@ title: BubbleSize
 second_title: Aspose.OMR for .NET API Reference
 description: The sizes of a bubbles
 type: docs
-weight: 60
+weight: 210
 url: /net/aspose.omr.generation/bubblesize/
 ---
 ## BubbleSize enumeration
