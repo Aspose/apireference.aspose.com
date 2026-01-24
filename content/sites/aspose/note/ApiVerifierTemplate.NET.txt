@@ -1085,3 +1085,5 @@ M:Aspose.Note.UnsupportedFileFormatException.#ctor(System.Runtime.Serialization.
 P:Aspose.Note.UnsupportedFileFormatException.FileFormat
 T:Aspose.Note.UnsupportedSaveFormatException
 M:Aspose.Note.UnsupportedSaveFormatException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+
+
