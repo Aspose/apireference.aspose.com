@@ -33,9 +33,9 @@ url: /net/aspose.ocr/
 | [OcrInput](./ocrinput) | Container to collect all images / documents for preprocessing / recognition. |
 | [OcrOutput](./ocroutput) | A container class to store and manage the results of OCR operations. |
 | [OcrRecognizeEventHandler](./ocrrecognizeeventhandler) | A delegate to track the progress of multi-page image recognition. |
-| [OCRTable](./ocrtable) | Represents structured table data for the entire OCR document. |
+| [OCRTable](./ocrtable) | Represents one table with recognized tabular data. |
 | [OCRTableCell](./ocrtablecell) | Represents one table cell with recognized text and position information. |
-| [OCRTablePage](./ocrtablepage) | Represents one page with recognized tabular data. |
+| [OCRTablePage](./ocrtablepage) | Represents structured table data for the entire OCR document's page. |
 | [OCRTableRow](./ocrtablerow) | Represents a single row within a recognized table. |
 | [OnnxRuntimeSessionOptions](./onnxruntimesessionoptions) | Configuration options for creating ONNX InferenceSession. We recommend keeping the optimized defaults unless you are absolutely certain about the modifications. For technical details, refer to ONNX Runtime documentation. |
 | [PassportRecognitionSettings](./passportrecognitionsettings) | Settings for the passport recognition. Contains elements that allow customizing the recognition process. |

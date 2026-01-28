@@ -1,14 +1,14 @@
 ---
 title: FileName
 second_title: Aspose.OCR for .NET API Reference
-description: Gets or sets the name of the image whose recognition result was additionally processed by the LLM model.
+description: Gets or sets the name of the source image file.
 type: docs
 weight: 20
 url: /net/aspose.ocr.ai/airesult/filename/
 ---
 ## AIResult.FileName property
 
-Gets or sets the name of the image whose recognition result was additionally processed by the LLM model.
+Gets or sets the name of the source image file.
 
 ```csharp
 public string FileName { get; set; }

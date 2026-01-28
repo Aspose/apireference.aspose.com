@@ -12,9 +12,10 @@ url: /net/aspose.ocr.ai/
 
 | Class | Description |
 | --- | --- |
-| [AIResult](./airesult) | Represents the transformed and processed result of text recognition. |
+| [AIResult](./airesult) | Represents an AI-processed recognition result. |
 | [AsposeAI](./asposeai) | Main API for the AI component in the Aspose OCR library. Provides integration with AI-powered postprocessors such as spell-checking, table extraction, and layout correction. |
 | [AsposeAIModelConfig](./asposeaimodelconfig) | Represents configuration settings for loading an LLM model. |
+| [KeywordsAIProcessor](./keywordsaiprocessor) | AI post-processor that analyzes OCR results and extracts structured tables. Uses AI-based processing to improve table layout detection and formatting. |
 | [SpellCheckAIProcessor](./spellcheckaiprocessor) | AI post-processor that uses AsposeAI to apply spelling correction to OCR recognition results. |
 | [TableAIProcessor](./tableaiprocessor) | AI post-processor that analyzes OCR results and extracts structured tables. Uses AI-based processing to improve table layout detection and formatting. |
 ## Interfaces

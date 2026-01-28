@@ -3,7 +3,7 @@ title: TableAIProcessor
 second_title: Aspose.OCR for .NET API Reference
 description: AI post-processor that analyzes OCR results and extracts structured tables. Uses AI-based processing to improve table layout detection and formatting.
 type: docs
-weight: 620
+weight: 630
 url: /net/aspose.ocr.ai/tableaiprocessor/
 ---
 ## TableAIProcessor class
