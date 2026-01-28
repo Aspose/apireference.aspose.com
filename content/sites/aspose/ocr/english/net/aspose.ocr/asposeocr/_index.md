@@ -58,6 +58,7 @@ public class AsposeOcr : IDisposable
 | [RecognizePassport](../../aspose.ocr/asposeocr/recognizepassport#recognizepassport_1)(OcrInput, PassportRecognitionSettings) | Recognizes text on passport. |
 | [RecognizeReceipt](../../aspose.ocr/asposeocr/recognizereceipt#recognizereceipt)(OcrInput) | Recognizes text on receipts. |
 | [RecognizeReceipt](../../aspose.ocr/asposeocr/recognizereceipt#recognizereceipt_1)(OcrInput, ReceiptRecognitionSettings) | Recognizes text on receipts. |
+| [RecognizeTables](../../aspose.ocr/asposeocr/recognizetables)(OcrInput, Language) | Detect tables and structure and recognizes text cells. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives. |
 | static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_1)(MemoryStream, SaveFormat, List&lt;RecognitionResult&gt;, string, PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects |
 | static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_3)(string, SaveFormat, List&lt;RecognitionResult&gt;, string, PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects |
 | static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument)(MemoryStream, SaveFormat, List&lt;RecognitionResult&gt;, bool, SpellCheckLanguage, string, string, PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects |

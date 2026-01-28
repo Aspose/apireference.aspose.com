@@ -1,30 +1,30 @@
 ---
 title: GetTableData
 second_title: Aspose.OCR for .NET API Reference
-description: Returns structured table data extracted from all recognized pages.
+description: Returns structured table data extracted from all recognized pages. Useful if the entire page is one table.
 type: docs
 weight: 40
 url: /net/aspose.ocr/ocroutput/gettabledata/
 ---
 ## OcrOutput.GetTableData method
 
-Returns structured table data extracted from all recognized pages.
+Returns structured table data extracted from all recognized pages. Useful if the entire page is one table.
 
 ```csharp
-public OCRTable GetTableData()
+public List<OCRTablePage> GetTableData()
 ```
 
 ### Return Value
 
-A [`OCRTable`](../../ocrtable) structure representing all tables in the document.
+A [`OCRTablePage`](../../ocrtablepage) structure representing all tables in the document (one page contains one table).
 
 ### Remarks
 
-Each page contains rows, and each row contains cells with recognized text and optional position information.
+Each page structured as one table and contains rows, and each row contains cells with recognized text and optional position information.
 
 ### See Also
 
-* class [OCRTable](../../ocrtable)
+* class [OCRTablePage](../../ocrtablepage)
 * class [OcrOutput](../../ocroutput)
 * namespace [Aspose.OCR](../../ocroutput)
 * assembly [Aspose.OCR](../../../)

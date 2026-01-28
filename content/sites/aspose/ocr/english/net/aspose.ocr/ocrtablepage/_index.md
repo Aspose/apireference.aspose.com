@@ -1,14 +1,14 @@
 ---
 title: OCRTablePage
 second_title: Aspose.OCR for .NET API Reference
-description: Represents one page with recognized tabular data.
+description: Represents structured table data for the entire OCR documents page.
 type: docs
-weight: 480
+weight: 470
 url: /net/aspose.ocr/ocrtablepage/
 ---
 ## OCRTablePage class
 
-Represents one page with recognized tabular data.
+Represents structured table data for the entire OCR document's page.
 
 ```csharp
 public class OCRTablePage
@@ -24,12 +24,11 @@ public class OCRTablePage
 
 | Name | Description |
 | --- | --- |
-| [PageIndex](../../aspose.ocr/ocrtablepage/pageindex) { get; set; } | Zero-based index of the page in the OCR document. |
-| [Rows](../../aspose.ocr/ocrtablepage/rows) { get; set; } | Collection of recognized table rows on this page. |
+| [Tables](../../aspose.ocr/ocrtablepage/tables) { get; set; } | Collection of tables with recognized table data. |
 
 ### Remarks
 
-Each page stores the list of table rows detected on that page. If no table is detected, the [`Rows`](./rows) list will be empty.
+This object aggregates all recognized tables across one processed page. Page may contains one or more detected tables, represented as [`OCRTable`](../ocrtable) entries.
 
 ### See Also
 

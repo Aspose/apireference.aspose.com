@@ -33,7 +33,7 @@ public class OcrOutput : List<RecognitionResult>
 | Name | Description |
 | --- | --- |
 | [AddRange](../../aspose.ocr/ocroutput/addrange#addrange)(IEnumerable&lt;RecognitionResult&gt;) | Adds the elements of the specified collection to the end of the [`OcrOutput`](../ocroutput) list. This method overrides the default AddRange behavior to perform additional operations, if needed. |
-| [GetTableData](../../aspose.ocr/ocroutput/gettabledata)() | Returns structured table data extracted from all recognized pages. |
+| [GetTableData](../../aspose.ocr/ocroutput/gettabledata)() | Returns structured table data extracted from all recognized pages. Useful if the entire page is one table. |
 | [Save](../../aspose.ocr/ocroutput/save#save)(MemoryStream, SaveFormat, string, PdfOptimizationMode) | Save all recognition results to a memory stream in the specified format. |
 | [Save](../../aspose.ocr/ocroutput/save#save_1)(string, SaveFormat, string, PdfOptimizationMode) | Save all recognition result to a file. |
 | [SavePdf](../../aspose.ocr/ocroutput/savepdf#savepdf)(MemoryStream, string, PdfOptimizationMode) | Save all recognition results into an in-memory searchable PDF document, embedding the original images as the background. |

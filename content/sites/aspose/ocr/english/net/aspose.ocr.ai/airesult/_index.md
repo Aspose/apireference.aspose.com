@@ -1,14 +1,14 @@
 ---
 title: AIResult
 second_title: Aspose.OCR for .NET API Reference
-description: Represents the transformed and processed result of text recognition.
+description: Represents an AI-processed recognition result.
 type: docs
 weight: 570
 url: /net/aspose.ocr.ai/airesult/
 ---
 ## AIResult class
 
-Represents the transformed and processed result of text recognition.
+Represents an AI-processed recognition result.
 
 ```csharp
 public class AIResult
@@ -24,8 +24,8 @@ public class AIResult
 
 | Name | Description |
 | --- | --- |
-| [FileName](../../aspose.ocr.ai/airesult/filename) { get; set; } | Gets or sets the name of the image whose recognition result was additionally processed by the LLM model. |
-| [RecognitionText](../../aspose.ocr.ai/airesult/recognitiontext) { get; set; } | Gets or sets the transformed and processed result of text recognition. |
+| [FileName](../../aspose.ocr.ai/airesult/filename) { get; set; } | Gets or sets the name of the source image file. |
+| [Result](../../aspose.ocr.ai/airesult/result) { get; set; } | Gets or sets the AI-processed result. The value may contain plain text or structured data in JSON format, depending on the applied AI processor. |
 
 ### See Also
 

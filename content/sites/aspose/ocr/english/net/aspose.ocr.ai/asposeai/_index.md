@@ -3,7 +3,7 @@ title: AsposeAI
 second_title: Aspose.OCR for .NET API Reference
 description: Main API for the AI component in the Aspose OCR library. Provides integration with AI-powered postprocessors such as spell-checking table extraction and layout correction.
 type: docs
-weight: 630
+weight: 640
 url: /net/aspose.ocr.ai/asposeai/
 ---
 ## AsposeAI class
