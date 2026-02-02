@@ -57,6 +57,8 @@ The AsposeOcr type exposes the following members:
 |recognize_handwritten_text(images)|Recognizes handwritten text on images.|
 |detect_document_layout(images)|  |
 |recognize_formula(images, detect_areas)|  |
+|recognize_formula_ai(images)|  |
+|recognize_tables(images, language)|  |
 |calculate_skew(images)|Calculates the skew angles of an images.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.|
 |detect_defects(images, defect_type)|Automatically find problematic areas of an image that can significantly impact the accuracy of OCR.<br/>            Supports PNG, JPEG, BMP, TIFF, JFIF, and GIF images provided as a file, stream, or pixel array. Supports bulk recognition.|
 |detect_languages(images)|  |

@@ -19,7 +19,8 @@ The OCRTable type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
-|pages|  |
+|table_index|  |
+|rows|  |
 
 ### See Also
 
