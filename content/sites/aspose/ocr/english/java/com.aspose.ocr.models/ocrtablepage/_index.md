@@ -1,7 +1,7 @@
 ---
 title: OCRTablePage
 second_title: Aspose.OCR for Java API Reference
-description: Represents one page with recognized tabular data
+description: Represents structured table data for the entire OCR documents page
 type: docs
 weight: 18
 url: /java/com.aspose.ocr.models/ocrtablepage/
@@ -13,9 +13,9 @@ java.lang.Object
 public class OCRTablePage
 ```
 
-Represents one page with recognized tabular data.
+Represents structured table data for the entire OCR document's page.
 
-Each page stores the list of table rows detected on that page. If no table is detected, the \#rows.rows list will be empty.
+This object aggregates all recognized tables across one processed page. Each page may contain one or more detected tables, represented as [OCRTable](../../com.aspose.ocr.models/ocrtable/) entries.
 ## Constructors
 
 | Constructor | Description |
@@ -25,24 +25,33 @@ Each page stores the list of table rows detected on that page. If no table is de
 
 | Method | Description |
 | --- | --- |
-| [getPageIndex()](#getPageIndex) |  |
-| [getRows()](#getRows) |  |
+| [getTables()](#getTables) |  |
 ### OCRTablePage() {#OCRTablePage}
 ```
 public OCRTablePage()
 ```
 
-### getPageIndex() {#getPageIndex}
+
+### addTable(OCRTable table) {#addTable-com.aspose.ocr.models.OCRTable}
 ```
-public int getPageIndex()
+public void addTable(OCRTable table)
 ```
-**Returns:**
-int
 
 
-### getRows() {#getRows}
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| table | [OCRTable](../../com.aspose.ocr.models/ocrtable/) |  |
+
+### getTables() {#getTables}
 ```
-public List<OCRTableRow> getRows()
+public List<OCRTable> getTables()
 ```
+
+
+
+
 **Returns:**
-java.util.List<com.aspose.ocr.models.OCRTableRow>
+java.util.List<com.aspose.ocr.models.OCRTable>

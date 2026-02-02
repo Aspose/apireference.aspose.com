@@ -1,7 +1,7 @@
 ---
 title: OCRTable
 second_title: Aspose.OCR for Java API Reference
-description: Represents structured table data for the entire OCR document
+description: Represents one table with recognized tabular data
 type: docs
 weight: 16
 url: /java/com.aspose.ocr.models/ocrtable/
@@ -13,9 +13,9 @@ java.lang.Object
 public class OCRTable
 ```
 
-Represents structured table data for the entire OCR document.
+Represents one table with recognized tabular data.
 
-This object aggregates all recognized tables across all processed pages. Each page may contain one or more detected tables, represented as [OCRTablePage](../../com.aspose.ocr.models/ocrtablepage/) entries.
+Each table stores the list of table rows.
 ## Constructors
 
 | Constructor | Description |
@@ -25,16 +25,60 @@ This object aggregates all recognized tables across all processed pages. Each pa
 
 | Method | Description |
 | --- | --- |
-| [getPages()](#getPages) |  |
+| [getRows()](#getRows) |  |
+| [getTableIndex()](#getTableIndex) |  |
+| [setRows(List<OCRTableRow> rows)](#setRows-java.util.List-com.aspose.ocr.models.OCRTableRow) |  |
+| [setTableIndex(int tableIndex)](#setTableIndex-int) |  |
+
 ### OCRTable() {#OCRTable}
 ```
 public OCRTable()
 ```
 
-### getPages() {#getPages}
+### getRows() {#getRows}
 ```
-public List<OCRTablePage> getPages()
+public List<OCRTableRow> getRows()
 ```
 
+
+
+
 **Returns:**
-java.util.List<com.aspose.ocr.models.OCRTablePage>
+java.util.List<com.aspose.ocr.models.OCRTableRow>
+### getTableIndex() {#getTableIndex}
+```
+public int getTableIndex()
+```
+
+
+
+
+**Returns:**
+int
+
+
+### setRows(List<OCRTableRow> rows) {#setRows-java.util.List-com.aspose.ocr.models.OCRTableRow}
+```
+public void setRows(List<OCRTableRow> rows)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rows | java.util.List<com.aspose.ocr.models.OCRTableRow> |  |
+
+### setTableIndex(int tableIndex) {#setTableIndex-int}
+```
+public void setTableIndex(int tableIndex)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| tableIndex | int |  |
