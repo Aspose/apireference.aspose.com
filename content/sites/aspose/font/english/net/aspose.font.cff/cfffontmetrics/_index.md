@@ -43,6 +43,7 @@ public class CffFontMetrics : FontMetrics
 | virtual [GetTypoDescender](../../aspose.font/fontmetrics/gettypodescender/)(double) | Returns descender for specific Font size. |
 | virtual [GetTypoLineGap](../../aspose.font/fontmetrics/gettypolinegap/)(double) | Returns line gap for specific Font size. |
 | override [MeasureString](../../aspose.font.cff/cfffontmetrics/measurestring/)(string, double) | Measures string and returns string width. |
+| override [SetGlyphWidth](../../aspose.font.cff/cfffontmetrics/setglyphwidth/)(GlyphId, double) | Sets glyph width. |
 
 ### See Also
 

@@ -43,6 +43,7 @@ public class TtfFontMetrics : FontMetrics
 | virtual [GetTypoLineGap](../../aspose.font/fontmetrics/gettypolinegap/)(double) | Returns line gap for specific Font size. |
 | override [MeasureString](../../aspose.font.ttf/ttffontmetrics/measurestring/#measurestring)(string, double) | Measures string and returns string width. |
 | [MeasureString](../../aspose.font.ttf/ttffontmetrics/measurestring/#measurestring_1)(uint[], double) | Measures text represented as array of character codes and returns string width. |
+| override [SetGlyphWidth](../../aspose.font.ttf/ttffontmetrics/setglyphwidth/)(GlyphId, double) | Sets glyph width. |
 
 ### See Also
 
