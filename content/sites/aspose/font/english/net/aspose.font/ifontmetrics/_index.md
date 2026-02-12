@@ -42,6 +42,7 @@ public interface IFontMetrics
 | [GetTypoDescender](../../aspose.font/ifontmetrics/gettypodescender/)(double) | Returns typographic descender for specific Font size. |
 | [GetTypoLineGap](../../aspose.font/ifontmetrics/gettypolinegap/)(double) | Returns line gap for specific Font size. |
 | [MeasureString](../../aspose.font/ifontmetrics/measurestring/)(string, double) | Measures string and returns string width. |
+| [SetGlyphWidth](../../aspose.font/ifontmetrics/setglyphwidth/)(GlyphId, double) | Sets glyph width. |
 
 ### See Also
 

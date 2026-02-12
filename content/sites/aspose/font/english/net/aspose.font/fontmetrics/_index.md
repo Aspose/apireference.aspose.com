@@ -42,6 +42,7 @@ public abstract class FontMetrics : IFontMetrics
 | virtual [GetTypoDescender](../../aspose.font/fontmetrics/gettypodescender/)(double) | Returns descender for specific Font size. |
 | virtual [GetTypoLineGap](../../aspose.font/fontmetrics/gettypolinegap/)(double) | Returns line gap for specific Font size. |
 | abstract [MeasureString](../../aspose.font/fontmetrics/measurestring/)(string, double) | Measures string and returns string width. |
+| abstract [SetGlyphWidth](../../aspose.font/fontmetrics/setglyphwidth/)(GlyphId, double) | Sets glyph width. |
 
 ### See Also
 
