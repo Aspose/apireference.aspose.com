@@ -4,7 +4,7 @@ linktitle: MakeValueAsync
 second_title: Aspose.Font for C++
 description: 'How to use MakeValueAsync method of  class in C++.'
 type: docs
-weight: 25100
+weight: 25200
 url: /cpp/system/makevalueasync/
 ---
 ## System::MakeValueAsync(const Details::AsyncFunction\&) method

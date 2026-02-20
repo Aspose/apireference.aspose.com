@@ -31,13 +31,14 @@ class TtfFontMetrics : public Aspose::Font::FontMetrics
 | [get_UnitsPerEM](./get_unitsperem/)() override | Gets UnitsPerEM value. |
 | [GetGlyphWidth](./getglyphwidth/)(System::SharedPtr\<Glyphs::GlyphId\>) override | Returns glyphs width by glyph id. |
 | [GetKerningValue](./getkerningvalue/)(System::SharedPtr\<Glyphs::GlyphId\>, System::SharedPtr\<Glyphs::GlyphId\>) override | Returns kerning value for the glyph pair. |
-| [MeasureString](./measurestring/)(System::String, double) override | Sets glyph width. |
+| [MeasureString](./measurestring/)(System::String, double) override | Measures string and returns string width. |
 | [MeasureString](./measurestring/)(System::ArrayPtr\<uint32_t\>, double) | Measures text represented as array of character codes and returns string width. |
 | [set_Ascender](./set_ascender/)(double) override | Gets ascender value. |
 | [set_Descender](./set_descender/)(double) override | Gets descender value. |
 | [set_TypoAscender](./set_typoascender/)(double) override | Gets TypoAscender value. |
 | [set_TypoDescender](./set_typodescender/)(double) override | Gets TypoDescender value. |
 | [set_UnitsPerEM](./set_unitsperem/)(uint32_t) override | Gets UnitsPerEM value. |
+| [SetGlyphWidth](./setglyphwidth/)(System::SharedPtr\<Glyphs::GlyphId\>, double) override | Sets glyph width. |
 ## See Also
 
 * Class [FontMetrics](../../aspose.font/fontmetrics/)

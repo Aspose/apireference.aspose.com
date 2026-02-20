@@ -4,7 +4,7 @@ linktitle: With
 second_title: Aspose.Font for C++
 description: 'System::With method. Clones reference record and applies initializer functor to it in C++.'
 type: docs
-weight: 40100
+weight: 40200
 url: /cpp/system/with/
 ---
 ## System::With(const SharedPtr\<T\>\&, const A\&) method

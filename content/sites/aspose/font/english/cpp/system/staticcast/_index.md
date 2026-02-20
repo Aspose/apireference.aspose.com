@@ -4,7 +4,7 @@ linktitle: StaticCast
 second_title: Aspose.Font for C++
 description: 'System::StaticCast method. Performs static cast on non-pointer objects in C++.'
 type: docs
-weight: 38500
+weight: 38600
 url: /cpp/system/staticcast/
 ---
 ## System::StaticCast(const TFrom\&) method

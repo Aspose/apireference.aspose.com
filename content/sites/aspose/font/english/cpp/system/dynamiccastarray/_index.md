@@ -4,7 +4,7 @@ linktitle: DynamicCastArray
 second_title: Aspose.Font for C++
 description: 'System::DynamicCastArray method. Performs casting of elements of the specified array to different type in C++.'
 type: docs
-weight: 17900
+weight: 18000
 url: /cpp/system/dynamiccastarray/
 ---
 ## System::DynamicCastArray method
