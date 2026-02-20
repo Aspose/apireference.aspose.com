@@ -4,7 +4,7 @@ linktitle: TieTuple
 second_title: Aspose.Font for C++
 description: 'System::TieTuple method. Creates tuple bound to some values in C++.'
 type: docs
-weight: 40000
+weight: 40100
 url: /cpp/system/tietuple/
 ---
 ## System::TieTuple method

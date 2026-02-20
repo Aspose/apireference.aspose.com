@@ -4,7 +4,7 @@ linktitle: ConfigureAwait
 second_title: Aspose.Font for C++
 description: 'System::Threading::Tasks::ResultTask::ConfigureAwait method. Configures how awaits on this result task should behave regarding context capture in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.threading.tasks/resulttask/configureawait/
 ---
 ## ResultTask::ConfigureAwait method

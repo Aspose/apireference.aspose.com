@@ -27,7 +27,8 @@ class CffFontMetrics : public Aspose::Font::FontMetrics
 | [get_UnitsPerEM](./get_unitsperem/)() override | Gets UnitsPerEM value. |
 | [GetFontMatrixForGlyph](./getfontmatrixforglyph/)(System::SharedPtr\<Glyphs::GlyphId\>) | Calculates transformation matrix for glyph specified by id. |
 | [GetGlyphWidth](./getglyphwidth/)(System::SharedPtr\<Glyphs::GlyphId\>) override | Returns glyph width. May be overridden by specific [Font](../../aspose.font/font/) encoding inheritors. |
-| [MeasureString](./measurestring/)(System::String, double) override | Sets glyph width. |
+| [MeasureString](./measurestring/)(System::String, double) override | Measures string and returns string width. |
+| [SetGlyphWidth](./setglyphwidth/)(System::SharedPtr\<Glyphs::GlyphId\>, double) override | Sets glyph width. |
 ## See Also
 
 * Class [FontMetrics](../../aspose.font/fontmetrics/)

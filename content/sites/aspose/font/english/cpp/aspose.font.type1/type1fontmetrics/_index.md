@@ -36,6 +36,7 @@ class Type1FontMetrics : public Aspose::Font::FontMetrics
 | [GetGlyphWidth](./getglyphwidth/)(System::SharedPtr\<Glyphs::GlyphId\>) override | Returns glyph width. May be ovridden by specific font encoding inheritors. |
 | [MeasureString](./measurestring/)(System::String, double) override | Measures string and returns string width. |
 | [set_UnitsPerEM](./set_unitsperem/)(uint32_t) override | Gets underline UnitsPerEM value. |
+| [SetGlyphWidth](./setglyphwidth/)(System::SharedPtr\<Glyphs::GlyphId\>, double) override | Sets glyph width. |
 ## See Also
 
 * Class [FontMetrics](../../aspose.font/fontmetrics/)

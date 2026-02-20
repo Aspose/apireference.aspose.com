@@ -4,7 +4,7 @@ linktitle: IsTuple
 second_title: Aspose.Font for C++
 description: 'System::IsTuple method. Checks if object is tuple (implements ITuple interface). Used in positional pattern implementation in C++.'
 type: docs
-weight: 23000
+weight: 23100
 url: /cpp/system/istuple/
 ---
 ## System::IsTuple method

@@ -4,7 +4,7 @@ linktitle: Less
 second_title: Aspose.Font for C++
 description: 'System::Less method. Implements ''<'' relative pattern translation in C++.'
 type: docs
-weight: 23900
+weight: 24000
 url: /cpp/system/less/
 ---
 ## System::Less method

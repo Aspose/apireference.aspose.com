@@ -4,7 +4,7 @@ linktitle: set_Result
 second_title: Aspose.Font for C++
 description: 'System::Threading::Tasks::ResultTask::set_Result method. Sets the result value for the task in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system.threading.tasks/resulttask/set_result/
 ---
 ## ResultTask::set_Result method

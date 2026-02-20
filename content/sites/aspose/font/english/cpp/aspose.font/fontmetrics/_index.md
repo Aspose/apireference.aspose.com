@@ -44,6 +44,7 @@ class FontMetrics : public Aspose::Font::IFontMetrics
 | [set_TypoAscender](./set_typoascender/)(double) override | Gets TypoAscender value. |
 | [set_TypoDescender](./set_typodescender/)(double) override | Gets TypoDescender value. |
 | [set_UnitsPerEM](./set_unitsperem/)(uint32_t) override | Gets UnitsPerEM value. |
+| virtual [SetGlyphWidth](./setglyphwidth/)(System::SharedPtr\<Glyphs::GlyphId\>, double) | Sets glyph width. |
 ## See Also
 
 * Class [IFontMetrics](../ifontmetrics/)

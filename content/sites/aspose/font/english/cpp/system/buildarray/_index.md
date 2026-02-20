@@ -4,7 +4,7 @@ linktitle: BuildArray
 second_title: Aspose.Font for C++
 description: 'System::BuildArray method. Build an array in C++.'
 type: docs
-weight: 15100
+weight: 15200
 url: /cpp/system/buildarray/
 ---
 ## System::BuildArray method

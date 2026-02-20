@@ -4,7 +4,7 @@ linktitle: Build
 second_title: Aspose.Font for C++
 description: 'System::Build method. Build an object with direct ownership in C++.'
 type: docs
-weight: 15000
+weight: 15100
 url: /cpp/system/build/
 ---
 ## System::Build method

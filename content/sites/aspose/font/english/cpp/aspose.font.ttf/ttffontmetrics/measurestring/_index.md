@@ -35,7 +35,7 @@ String width.
 ## TtfFontMetrics::MeasureString(System::String, double) method
 
 
-Sets glyph width.
+Measures string and returns string width.
 
 ```cpp
 double Aspose::Font::Ttf::TtfFontMetrics::MeasureString(System::String unicode, double fontSize) override
@@ -44,17 +44,12 @@ double Aspose::Font::Ttf::TtfFontMetrics::MeasureString(System::String unicode, 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| glyphId | System::String | Glyph identifier. |
-| value | double | New width |
+| unicode | System::String | Unicode string. |
+| fontSize | double | [Font](../../../aspose.font/font/) size. |
 
 ### ReturnValue
 
 String width.
-## Remarks
-
-
-
-Measures string and returns string width.
 
 ## See Also
 
