@@ -34,38 +34,24 @@ JSON object
 ### Examples
 
 ```js
-  var fGetPageCount = function (e) {
-    const file_reader = new FileReader();
-    file_reader.onload = (event) => {
-      const json = AsposeGetXpsPageCount(event.target.result, e.target.files[0].name);
-      if (json.errorCode == 0) {
-        document.getElementById('output').textContent = "Pages count: " + json.pageCount.toString();
-      }
-      else 
-        document.getElementById('output').textContent = json.errorText;
-    }
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  }
+const AsposePage = require('asposepagenodejs');
+
+const xps_file = "./data/example.xps";
+
+console.log("Aspose.Page for Node.js via C++ examples.");
+
+AsposePage().then(AsposePageModule => {
+
+    let json = AsposePageModule.AsposePageAbout();
+    console.log("AsposePageAbout => %O",  json.errorCode == 0 ? JSON.parse(JSON.stringify(json).replace('"errorCode":0,"errorText":"",','')) : "error:" + json.errorText);
+
+    //AsposeGetXpsPageCount
+    json = AsposePageModule.AsposeGetXpsPageCount(xps_file);
+    console.log("AsposeGetXpsPageCount => %O",  json.errorCode == 0 ? JSON.parse(JSON.stringify(json).replace('"errorCode":0,"errorText":"",','')) : json.errorText);
+
+},
+    reason => {console.log(`The unknown error has occurred: ${reason}`);}
+);
 ```
 
-**Web Worker example**:
-```js
-
-  /*Create Web Worker*/
-  const AsposePageWebWorker = new Worker("AsposePageforJS.js");
-  AsposePageWebWorker.onerror = evt => console.log(`Error from Web Worker: ${evt.message}`);
-  AsposePageWebWorker.onmessage = evt => document.getElementById('output').textContent = 
-    (evt.data == 'ready') ? 'library loaded!' :
-      (evt.data.json.errorCode == 0) ? `Number of pages      : ${evt.data.json.pageCount}` : `Error: ${evt.data.json.errorText}`;
-
-  /*Event handler*/
-  const fGetPagesCount = e => {
-    const file_reader = new FileReader();
-    file_reader.onload = event => {
-      AsposePageWebWorker.postMessage({ "operation": 'AsposeGetXpsPageCount', "params": [event.target.result, e.target.files[0].name] }, [event.target.result]);
-    };
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  };
-
-```
 

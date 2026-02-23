@@ -42,6 +42,12 @@ is_root: true
 | [AsposeXMPAddNamespace](./xmp/xmpaddnamespace/) | Merge a Postscript files to PDF. |
 | [AsposeXMPAddSimpleProperties](./xmp/xmpaddsimpleproperties/) | Merge a Postscript files to PDF. |
 
+## XPS functions
+
+| Function | Description |
+| -------- | ----------- |
+| [AsposeGetXpsPageCount](./xps/getxpspagecount/) | Get the number of pages in the xps-document. |
+
 ## Core Functions
 
 | Function | Description |
