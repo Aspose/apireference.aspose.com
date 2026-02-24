@@ -36,6 +36,9 @@ The PsDocument type exposes the following members:
 | :- | :- |
 | `save_as_pdf(out_pdf_file_path, options)` | Saves PS/EPS file to PDF file. |
 | `save_as_pdf(pdf_stream, options)` | Saves PS/EPS file to PDF stream. |
+| `save_as_image(options)` | Saves PS/EPS file to image file. The output directory and the file name will be the same as from input PS file.<br/>            The file extension will correspond to image format in "options" param.<br/>            If the document was initialized with a stream that is not FileStream, image file will be saved in the current folder with default file name template. |
+| `save_as_image(options, out_dir, file_name_template)` | None |
+| `save(out_eps_file_path)` | Saves PS/EPS file to PDF file. |
 | `save(eps_stream)` | Saves PS/EPS file to PDF stream. |
 | `save()` | Saves PS/EPS file to PDF file. |
 | `resize_eps(out_eps_file_path, new_size_in_units, units)` | Resizes given [PsDocument](/page/python-net/aspose.page.eps/psdocument/) as EPS file. This method is used only after extracting EPS size.<br/>            It saves initial EPS file with updated existing %%BoundingBox or new one will be created. Page transformation matrix also will be set. |
@@ -82,7 +85,7 @@ The PsDocument type exposes the following members:
 | `draw_image(image, transform, bkg)` | Draw transformed image with background. |
 | `merge_to_pdf(out_pdf_file_path, files_for_merge, options)` | Merges PS/EPS files to a device. |
 | `merge_to_pdf(pdf_stream, files_for_merge, options)` | Merges PS/EPS files to a device. |
-| `save_as_image(options)` | Saves PS/EPS file to images bytes arrays. |
+| `save_as_images_bytes(options)` | Saves PS/EPS file to images bytes arrays. |
 | `get_xmp_metadata()` | Reads PS/EPS file and extracts XmpMetdata if it already exists or add new one if it doesn't exist. |
 | `extract_text(options, start_page, end_page)` | Extract text from PS file. The text can be extracted only if it is written with Type 42 (TrueType) font or Type 0 font with Type 42 fonts in its Vector Map. |
 | `extract_eps_size()` | Reads EPS file and extracts a size of EPS image from %%BoundingBox comment or default page size (595, 842) if it doesn't exist. |

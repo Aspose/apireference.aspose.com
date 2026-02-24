@@ -56,6 +56,12 @@ is_root: true
 | -------- | ----------- |
 | [AsposeSaveImageAsEps](./image/saveimageaseps/) | Save image as EPS file. |
 
+## XPS functions
+
+| Function | Description |
+| -------- | ----------- |
+| [AsposeGetXpsPageCount](./xps/getxpspagecount/) | Get the number of pages in the xps-document. |
+
 ## Core Functions
 
 | Function | Description |
