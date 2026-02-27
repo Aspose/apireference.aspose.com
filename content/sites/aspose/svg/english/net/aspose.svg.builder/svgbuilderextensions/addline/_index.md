@@ -1,11 +1,42 @@
 ---
 title: SVGBuilderExtensions.AddLine
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions AddLine method. Adds a line element with specified start and end points and styles to the SVG builder
+description: SVGBuilderExtensions AddLine method. Adds a line element configuration to the builder
 type: docs
 weight: 350
 url: /net/aspose.svg.builder/svgbuilderextensions/addline/
 ---
+## AddLine<TBuilder>(*this TBuilder, Action&lt;SVGLineElementBuilder&gt;*) {#addline_1}
+
+Adds a 'line' element configuration to the builder.
+
+```csharp
+public static TBuilder AddLine<TBuilder>(this TBuilder builder, 
+    Action<SVGLineElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, IShapeElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The builder instance. |
+| configure | The configuration action for the 'line' element. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* class [SVGLineElementBuilder](../../svglineelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IShapeElementBuilder](../../ishapeelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## AddLine<TBuilder>(*this TBuilder, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGLineElementBuilder&gt;*) {#addline}
 
 Adds a 'line' element with specified start and end points, and styles to the SVG builder.
@@ -42,37 +73,6 @@ The builder instance, allowing for method chaining.
 * enum [LengthType](../../lengthtype/)
 * class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
-* class [SVGLineElementBuilder](../../svglineelementbuilder/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IShapeElementBuilder](../../ishapeelementbuilder/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## AddLine<TBuilder>(*this TBuilder, Action&lt;SVGLineElementBuilder&gt;*) {#addline_1}
-
-Adds a 'line' element configuration to the builder.
-
-```csharp
-public static TBuilder AddLine<TBuilder>(this TBuilder builder, 
-    Action<SVGLineElementBuilder> configure)
-    where TBuilder : ISVGElementBuilder, IShapeElementBuilder
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| configure | The configuration action for the 'line' element. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
 * class [SVGLineElementBuilder](../../svglineelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
 * interface [IShapeElementBuilder](../../ishapeelementbuilder/)

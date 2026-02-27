@@ -1,11 +1,42 @@
 ---
 title: SVGBuilderExtensions.AddImage
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions AddImage method. Adds an image element to the SVG builder embedding an external image into the SVG document
+description: SVGBuilderExtensions AddImage method. Adds an image element configuration to the builder
 type: docs
 weight: 330
 url: /net/aspose.svg.builder/svgbuilderextensions/addimage/
 ---
+## AddImage<TBuilder>(*this TBuilder, Action&lt;SVGImageElementBuilder&gt;*) {#addimage}
+
+Adds an 'image' element configuration to the builder.
+
+```csharp
+public static TBuilder AddImage<TBuilder>(this TBuilder builder, 
+    Action<SVGImageElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, ICompositeElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The builder instance. |
+| configure | The configuration action for the 'image' element. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* class [SVGImageElementBuilder](../../svgimageelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [ICompositeElementBuilder](../../icompositeelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## AddImage<TBuilder>(*this TBuilder, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, string, Action&lt;SVGImageElementBuilder&gt;*) {#addimage_1}
 
 Adds an 'image' element to the SVG builder, embedding an external image into the SVG document.
@@ -39,37 +70,6 @@ The builder instance, allowing for method chaining.
 
 * class [OneOf&lt;T1,T2&gt;](../../oneof-2/)
 * enum [LengthType](../../lengthtype/)
-* class [SVGImageElementBuilder](../../svgimageelementbuilder/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [ICompositeElementBuilder](../../icompositeelementbuilder/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## AddImage<TBuilder>(*this TBuilder, Action&lt;SVGImageElementBuilder&gt;*) {#addimage}
-
-Adds an 'image' element configuration to the builder.
-
-```csharp
-public static TBuilder AddImage<TBuilder>(this TBuilder builder, 
-    Action<SVGImageElementBuilder> configure)
-    where TBuilder : ISVGElementBuilder, ICompositeElementBuilder
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| configure | The configuration action for the 'image' element. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
 * class [SVGImageElementBuilder](../../svgimageelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
 * interface [ICompositeElementBuilder](../../icompositeelementbuilder/)

@@ -1,11 +1,42 @@
 ---
 title: SVGBuilderExtensions.AddLinearGradient
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions AddLinearGradient method. Adds a linearGradient element to the SVG builder specifying its start and end positions along with other gradient properties
+description: SVGBuilderExtensions AddLinearGradient method. Adds a linearGradient element configuration to the builder
 type: docs
 weight: 360
 url: /net/aspose.svg.builder/svgbuilderextensions/addlineargradient/
 ---
+## AddLinearGradient<TBuilder>(*this TBuilder, Action&lt;SVGLinearGradientElementBuilder&gt;*) {#addlineargradient_1}
+
+Adds a 'linearGradient' element configuration to the builder.
+
+```csharp
+public static TBuilder AddLinearGradient<TBuilder>(this TBuilder builder, 
+    Action<SVGLinearGradientElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, IPaintServerElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The builder instance. |
+| configure | The configuration action for the 'linearGradient' element. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* class [SVGLinearGradientElementBuilder](../../svglineargradientelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IPaintServerElementBuilder](../../ipaintserverelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## AddLinearGradient<TBuilder>(*this TBuilder, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, CoordinateUnits?, SpreadMethod?, string, string, Action&lt;SVGLinearGradientElementBuilder&gt;*) {#addlineargradient}
 
 Adds a 'linearGradient' element to the SVG builder, specifying its start and end positions, along with other gradient properties.
@@ -46,37 +77,6 @@ The builder instance, allowing for method chaining.
 * class [SVGLinearGradientElementBuilder](../../svglineargradientelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
 * interface [IShapeElementBuilder](../../ishapeelementbuilder/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## AddLinearGradient<TBuilder>(*this TBuilder, Action&lt;SVGLinearGradientElementBuilder&gt;*) {#addlineargradient_1}
-
-Adds a 'linearGradient' element configuration to the builder.
-
-```csharp
-public static TBuilder AddLinearGradient<TBuilder>(this TBuilder builder, 
-    Action<SVGLinearGradientElementBuilder> configure)
-    where TBuilder : ISVGElementBuilder, IPaintServerElementBuilder
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| configure | The configuration action for the 'linearGradient' element. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
-* class [SVGLinearGradientElementBuilder](../../svglineargradientelementbuilder/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IPaintServerElementBuilder](../../ipaintserverelementbuilder/)
 * class [SVGBuilderExtensions](../)
 * namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
 * assembly [Aspose.SVG](../../../)

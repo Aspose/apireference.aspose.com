@@ -1,11 +1,42 @@
 ---
 title: SVGBuilderExtensions.AddStop
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions AddStop method. Adds a stop element to the gradient in the SVG builder specifying color and opacity at a particular offset
+description: SVGBuilderExtensions AddStop method. Adds a stop element configuration to the builder for defining gradient stops
 type: docs
 weight: 480
 url: /net/aspose.svg.builder/svgbuilderextensions/addstop/
 ---
+## AddStop<TBuilder>(*this TBuilder, Action&lt;SVGStopElementBuilder&gt;*) {#addstop}
+
+Adds a 'stop' element configuration to the builder for defining gradient stops.
+
+```csharp
+public static TBuilder AddStop<TBuilder>(this TBuilder builder, 
+    Action<SVGStopElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, IGradientStopElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The builder instance. |
+| configure | The configuration action for the 'stop' element. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* class [SVGStopElementBuilder](../../svgstopelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IGradientStopElementBuilder](../../igradientstopelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## AddStop<TBuilder>(*this TBuilder, Color?, double?, OneOf&lt;double, (double, StopUnitType)&gt;, string, Action&lt;SVGStopElementBuilder&gt;*) {#addstop_1}
 
 Adds a 'stop' element to the gradient in the SVG builder, specifying color and opacity at a particular offset.
@@ -35,37 +66,6 @@ The builder instance, allowing for method chaining.
 
 * class [OneOf&lt;T1,T2&gt;](../../oneof-2/)
 * enum [StopUnitType](../../stopunittype/)
-* class [SVGStopElementBuilder](../../svgstopelementbuilder/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IGradientStopElementBuilder](../../igradientstopelementbuilder/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## AddStop<TBuilder>(*this TBuilder, Action&lt;SVGStopElementBuilder&gt;*) {#addstop}
-
-Adds a 'stop' element configuration to the builder for defining gradient stops.
-
-```csharp
-public static TBuilder AddStop<TBuilder>(this TBuilder builder, 
-    Action<SVGStopElementBuilder> configure)
-    where TBuilder : ISVGElementBuilder, IGradientStopElementBuilder
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| configure | The configuration action for the 'stop' element. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
 * class [SVGStopElementBuilder](../../svgstopelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
 * interface [IGradientStopElementBuilder](../../igradientstopelementbuilder/)
