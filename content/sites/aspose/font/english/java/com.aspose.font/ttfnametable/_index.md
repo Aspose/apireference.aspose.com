@@ -3,7 +3,7 @@ title: TtfNameTable
 second_title: Aspose.Font for Java API Reference
 description: Represents name table of the TTF Font file.
 type: docs
-weight: 104
+weight: 105
 url: /java/com.aspose.font/ttfnametable/
 ---
 **Inheritance:**

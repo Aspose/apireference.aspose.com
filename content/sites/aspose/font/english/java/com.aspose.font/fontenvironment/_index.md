@@ -3,7 +3,7 @@ title: FontEnvironment
 second_title: Aspose.Font for Java API Reference
 description: Provides information about the current environment and platform.
 type: docs
-weight: 38
+weight: 39
 url: /java/com.aspose.font/fontenvironment/
 ---
 **Inheritance:**

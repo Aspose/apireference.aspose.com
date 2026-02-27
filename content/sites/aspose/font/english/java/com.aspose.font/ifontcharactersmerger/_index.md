@@ -3,7 +3,7 @@ title: IFontCharactersMerger
 second_title: Aspose.Font for Java API Reference
 description: Declares helpers functionality to merge TrueType fonts.
 type: docs
-weight: 122
+weight: 123
 url: /java/com.aspose.font/ifontcharactersmerger/
 ---```
 public interface IFontCharactersMerger

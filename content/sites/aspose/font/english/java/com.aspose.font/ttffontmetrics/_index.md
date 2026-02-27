@@ -3,7 +3,7 @@ title: TtfFontMetrics
 second_title: Aspose.Font for Java API Reference
 description: Represents TTF Font metrics.
 type: docs
-weight: 94
+weight: 95
 url: /java/com.aspose.font/ttffontmetrics/
 ---
 **Inheritance:**
@@ -44,6 +44,7 @@ Represents TTF Font metrics.
 | [notifyAll()](#notifyAll--) |  |
 | [setAscender(double value)](#setAscender-double-) | Sets ascender value. |
 | [setDescender(double value)](#setDescender-double-) | Sets descender value. |
+| [setGlyphWidth(GlyphId glyphId, double value)](#setGlyphWidth-com.aspose.font.GlyphId-double-) | Sets glyph width. |
 | [setTypoAscender(double value)](#setTypoAscender-double-) | Sets TypoAscender value. |
 | [setTypoDescender(double value)](#setTypoDescender-double-) | Sets TypoDescender value. |
 | [setUnitsPerEM(long value)](#setUnitsPerEM-long-) |  |
@@ -382,6 +383,20 @@ Sets descender value.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | double | Descender value. |
+
+### setGlyphWidth(GlyphId glyphId, double value) {#setGlyphWidth-com.aspose.font.GlyphId-double-}
+```
+public void setGlyphWidth(GlyphId glyphId, double value)
+```
+
+
+Sets glyph width.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| glyphId | [GlyphId](../../com.aspose.font/glyphid) | Glyph identifier. |
+| value | double | New width. |
 
 ### setTypoAscender(double value) {#setTypoAscender-double-}
 ```

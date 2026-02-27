@@ -3,7 +3,7 @@ title: SvgConversionException
 second_title: Aspose.Font for Java API Reference
 description: Represents Font conversion exception for SVG format.
 type: docs
-weight: 75
+weight: 76
 url: /java/com.aspose.font/svgconversionexception/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: CffIndexProviderType
 second_title: Aspose.Font for Java API Reference
 description: Specifies INDEX structures supported by the index provider interface family.
 type: docs
-weight: 132
+weight: 133
 url: /java/com.aspose.font/cffindexprovidertype/
 ---
 **Inheritance:**

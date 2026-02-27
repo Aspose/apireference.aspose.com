@@ -3,7 +3,7 @@ title: FontMergeException
 second_title: Aspose.Font for Java API Reference
 description: Represents Font merge exception.
 type: docs
-weight: 42
+weight: 43
 url: /java/com.aspose.font/fontmergeexception/
 ---
 **Inheritance:**

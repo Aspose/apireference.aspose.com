@@ -3,7 +3,7 @@ title: IFontMetrics
 second_title: Aspose.Font for Java API Reference
 description: Defines an interface for Font metrics tools.
 type: docs
-weight: 124
+weight: 125
 url: /java/com.aspose.font/ifontmetrics/
 ---```
 public interface IFontMetrics
@@ -35,6 +35,7 @@ Defines an interface for Font metrics tools.
 | [measureString(String unicode, double fontSize)](#measureString-java.lang.String-double-) | Measures string and returns string width. |
 | [setAscender(double value)](#setAscender-double-) |  |
 | [setDescender(double value)](#setDescender-double-) |  |
+| [setGlyphWidth(GlyphId glyphId, double value)](#setGlyphWidth-com.aspose.font.GlyphId-double-) | Specifies glyph width. |
 | [setTypoAscender(double value)](#setTypoAscender-double-) |  |
 | [setTypoDescender(double value)](#setTypoDescender-double-) |  |
 | [setUnitsPerEM(long value)](#setUnitsPerEM-long-) |  |
@@ -300,6 +301,20 @@ public abstract void setDescender(double value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | double |  |
+
+### setGlyphWidth(GlyphId glyphId, double value) {#setGlyphWidth-com.aspose.font.GlyphId-double-}
+```
+public abstract void setGlyphWidth(GlyphId glyphId, double value)
+```
+
+
+Specifies glyph width.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| glyphId | [GlyphId](../../com.aspose.font/glyphid) | Glyph identifier. |
+| value | double | Glyph width value. |
 
 ### setTypoAscender(double value) {#setTypoAscender-double-}
 ```

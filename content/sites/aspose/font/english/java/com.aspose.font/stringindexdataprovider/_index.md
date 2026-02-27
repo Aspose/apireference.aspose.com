@@ -3,7 +3,7 @@ title: StringIndexDataProvider
 second_title: Aspose.Font for Java API Reference
 description: Declares functionality to access CFF String INDEX structure.
 type: docs
-weight: 74
+weight: 75
 url: /java/com.aspose.font/stringindexdataprovider/
 ---
 **Inheritance:**
