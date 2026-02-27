@@ -1,11 +1,42 @@
 ---
 title: SVGBuilderExtensions.AddFeConvolveMatrix
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions AddFeConvolveMatrix method. Adds an feConvolveMatrix element to the SVG builder applying a matrix convolution filter effect
+description: SVGBuilderExtensions AddFeConvolveMatrix method. Adds an feConvolveMatrix element configuration to the builder. This element applies a matrix convolution filter effect
 type: docs
 weight: 170
 url: /net/aspose.svg.builder/svgbuilderextensions/addfeconvolvematrix/
 ---
+## AddFeConvolveMatrix<TBuilder>(*this TBuilder, Action&lt;SVGFEConvolveMatrixElementBuilder&gt;*) {#addfeconvolvematrix_1}
+
+Adds an 'feConvolveMatrix' element configuration to the builder. This element applies a matrix convolution filter effect.
+
+```csharp
+public static TBuilder AddFeConvolveMatrix<TBuilder>(this TBuilder builder, 
+    Action<SVGFEConvolveMatrixElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The builder instance. |
+| configure | The configuration action for the 'feConvolveMatrix' element. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* class [SVGFEConvolveMatrixElementBuilder](../../svgfeconvolvematrixelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## AddFeConvolveMatrix<TBuilder>(*this TBuilder, double[], double?, double?, int?, int?, EdgeMode?, bool?, OneOf&lt;int, (int, int)&gt;, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEConvolveMatrixElementBuilder&gt;*) {#addfeconvolvematrix}
 
 Adds an 'feConvolveMatrix' element to the SVG builder, applying a matrix convolution filter effect.
@@ -58,37 +89,6 @@ The builder instance, allowing for method chaining.
 * enum [LengthType](../../lengthtype/)
 * class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
-* class [SVGFEConvolveMatrixElementBuilder](../../svgfeconvolvematrixelementbuilder/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## AddFeConvolveMatrix<TBuilder>(*this TBuilder, Action&lt;SVGFEConvolveMatrixElementBuilder&gt;*) {#addfeconvolvematrix_1}
-
-Adds an 'feConvolveMatrix' element configuration to the builder. This element applies a matrix convolution filter effect.
-
-```csharp
-public static TBuilder AddFeConvolveMatrix<TBuilder>(this TBuilder builder, 
-    Action<SVGFEConvolveMatrixElementBuilder> configure)
-    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| configure | The configuration action for the 'feConvolveMatrix' element. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
 * class [SVGFEConvolveMatrixElementBuilder](../../svgfeconvolvematrixelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
 * interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)

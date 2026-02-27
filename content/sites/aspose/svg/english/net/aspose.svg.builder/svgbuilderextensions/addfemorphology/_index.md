@@ -1,11 +1,42 @@
 ---
 title: SVGBuilderExtensions.AddFeMorphology
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions AddFeMorphology method. Adds an feMorphology element to the SVG builder applying a morphological operation to the input image
+description: SVGBuilderExtensions AddFeMorphology method. Adds an feMorphology element configuration to the builder. This element is used to apply morphological operations like dilation or erosion on the input image
 type: docs
 weight: 250
 url: /net/aspose.svg.builder/svgbuilderextensions/addfemorphology/
 ---
+## AddFeMorphology<TBuilder>(*this TBuilder, Action&lt;SVGFEMorphologyElementBuilder&gt;*) {#addfemorphology}
+
+Adds an 'feMorphology' element configuration to the builder. This element is used to apply morphological operations like dilation or erosion on the input image.
+
+```csharp
+public static TBuilder AddFeMorphology<TBuilder>(this TBuilder builder, 
+    Action<SVGFEMorphologyElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The builder instance. |
+| configure | The configuration action for the 'feMorphology' element. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* class [SVGFEMorphologyElementBuilder](../../svgfemorphologyelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## AddFeMorphology<TBuilder>(*this TBuilder, MorphologyOperator?, OneOf&lt;double, (double, double)&gt;, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEMorphologyElementBuilder&gt;*) {#addfemorphology_1}
 
 Adds an 'feMorphology' element to the SVG builder, applying a morphological operation to the input image.
@@ -51,37 +82,6 @@ The builder instance, allowing for method chaining.
 * enum [LengthType](../../lengthtype/)
 * class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
-* class [SVGFEMorphologyElementBuilder](../../svgfemorphologyelementbuilder/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## AddFeMorphology<TBuilder>(*this TBuilder, Action&lt;SVGFEMorphologyElementBuilder&gt;*) {#addfemorphology}
-
-Adds an 'feMorphology' element configuration to the builder. This element is used to apply morphological operations like dilation or erosion on the input image.
-
-```csharp
-public static TBuilder AddFeMorphology<TBuilder>(this TBuilder builder, 
-    Action<SVGFEMorphologyElementBuilder> configure)
-    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| configure | The configuration action for the 'feMorphology' element. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
 * class [SVGFEMorphologyElementBuilder](../../svgfemorphologyelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
 * interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)

@@ -1,11 +1,42 @@
 ---
 title: SVGBuilderExtensions.AddFeFlood
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions AddFeFlood method. Adds an feFlood element to the SVG builder creating a uniform flood color effect over the entire filter subregion
+description: SVGBuilderExtensions AddFeFlood method. Adds an feFlood element configuration to the builder. This element fills the filter subregion with a specified color
 type: docs
 weight: 210
 url: /net/aspose.svg.builder/svgbuilderextensions/addfeflood/
 ---
+## AddFeFlood<TBuilder>(*this TBuilder, Action&lt;SVGFEFloodElementBuilder&gt;*) {#addfeflood}
+
+Adds an 'feFlood' element configuration to the builder. This element fills the filter subregion with a specified color.
+
+```csharp
+public static TBuilder AddFeFlood<TBuilder>(this TBuilder builder, 
+    Action<SVGFEFloodElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The builder instance. |
+| configure | The configuration action for the 'feFlood' element. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* class [SVGFEFloodElementBuilder](../../svgfefloodelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## AddFeFlood<TBuilder>(*this TBuilder, Color?, double?, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEFloodElementBuilder&gt;*) {#addfeflood_1}
 
 Adds an 'feFlood' element to the SVG builder, creating a uniform flood color effect over the entire filter subregion.
@@ -47,37 +78,6 @@ The builder instance, allowing for method chaining.
 * enum [LengthType](../../lengthtype/)
 * class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
-* class [SVGFEFloodElementBuilder](../../svgfefloodelementbuilder/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## AddFeFlood<TBuilder>(*this TBuilder, Action&lt;SVGFEFloodElementBuilder&gt;*) {#addfeflood}
-
-Adds an 'feFlood' element configuration to the builder. This element fills the filter subregion with a specified color.
-
-```csharp
-public static TBuilder AddFeFlood<TBuilder>(this TBuilder builder, 
-    Action<SVGFEFloodElementBuilder> configure)
-    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| configure | The configuration action for the 'feFlood' element. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
 * class [SVGFEFloodElementBuilder](../../svgfefloodelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
 * interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)

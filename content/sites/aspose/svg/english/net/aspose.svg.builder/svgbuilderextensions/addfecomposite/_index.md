@@ -1,11 +1,42 @@
 ---
 title: SVGBuilderExtensions.AddFeComposite
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions AddFeComposite method. Adds an feComposite element to the SVG builder specifying the composite operation and various other properties for combining input images
+description: SVGBuilderExtensions AddFeComposite method. Adds an feComposite element configuration to the builder. This element performs a bitwise combination of two input graphics
 type: docs
 weight: 160
 url: /net/aspose.svg.builder/svgbuilderextensions/addfecomposite/
 ---
+## AddFeComposite<TBuilder>(*this TBuilder, Action&lt;SVGFECompositeElementBuilder&gt;*) {#addfecomposite}
+
+Adds an 'feComposite' element configuration to the builder. This element performs a bitwise combination of two input graphics.
+
+```csharp
+public static TBuilder AddFeComposite<TBuilder>(this TBuilder builder, 
+    Action<SVGFECompositeElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The builder instance. |
+| configure | The configuration action for the 'feComposite' element. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* class [SVGFECompositeElementBuilder](../../svgfecompositeelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## AddFeComposite<TBuilder>(*this TBuilder, CompositeOperator?, double?, double?, double?, double?, OneOf&lt;string, FilterInput&gt;, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFECompositeElementBuilder&gt;*) {#addfecomposite_1}
 
 Adds an 'feComposite' element to the SVG builder, specifying the composite operation and various other properties for combining input images.
@@ -55,37 +86,6 @@ The builder instance, allowing for method chaining.
 * enum [LengthType](../../lengthtype/)
 * class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
-* class [SVGFECompositeElementBuilder](../../svgfecompositeelementbuilder/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## AddFeComposite<TBuilder>(*this TBuilder, Action&lt;SVGFECompositeElementBuilder&gt;*) {#addfecomposite}
-
-Adds an 'feComposite' element configuration to the builder. This element performs a bitwise combination of two input graphics.
-
-```csharp
-public static TBuilder AddFeComposite<TBuilder>(this TBuilder builder, 
-    Action<SVGFECompositeElementBuilder> configure)
-    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| configure | The configuration action for the 'feComposite' element. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
 * class [SVGFECompositeElementBuilder](../../svgfecompositeelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
 * interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)

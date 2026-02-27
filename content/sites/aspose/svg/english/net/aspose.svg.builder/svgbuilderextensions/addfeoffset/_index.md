@@ -1,11 +1,42 @@
 ---
 title: SVGBuilderExtensions.AddFeOffset
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions AddFeOffset method. Adds an feOffset element to the SVG builder creating an offset effect by shifting the input image by a specified vector
+description: SVGBuilderExtensions AddFeOffset method. Adds an feOffset element configuration to the builder. This element offsets the input image by a specified vector
 type: docs
 weight: 260
 url: /net/aspose.svg.builder/svgbuilderextensions/addfeoffset/
 ---
+## AddFeOffset<TBuilder>(*this TBuilder, Action&lt;SVGFEOffsetElementBuilder&gt;*) {#addfeoffset}
+
+Adds an 'feOffset' element configuration to the builder. This element offsets the input image by a specified vector.
+
+```csharp
+public static TBuilder AddFeOffset<TBuilder>(this TBuilder builder, 
+    Action<SVGFEOffsetElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The builder instance. |
+| configure | The configuration action for the 'feOffset' element. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* class [SVGFEOffsetElementBuilder](../../svgfeoffsetelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## AddFeOffset<TBuilder>(*this TBuilder, double?, double?, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEOffsetElementBuilder&gt;*) {#addfeoffset_1}
 
 Adds an 'feOffset' element to the SVG builder, creating an offset effect by shifting the input image by a specified vector.
@@ -49,37 +80,6 @@ The builder instance, allowing for method chaining.
 * enum [LengthType](../../lengthtype/)
 * class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
-* class [SVGFEOffsetElementBuilder](../../svgfeoffsetelementbuilder/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## AddFeOffset<TBuilder>(*this TBuilder, Action&lt;SVGFEOffsetElementBuilder&gt;*) {#addfeoffset}
-
-Adds an 'feOffset' element configuration to the builder. This element offsets the input image by a specified vector.
-
-```csharp
-public static TBuilder AddFeOffset<TBuilder>(this TBuilder builder, 
-    Action<SVGFEOffsetElementBuilder> configure)
-    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| configure | The configuration action for the 'feOffset' element. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
 * class [SVGFEOffsetElementBuilder](../../svgfeoffsetelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
 * interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)

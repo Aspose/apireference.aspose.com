@@ -1,11 +1,42 @@
 ---
 title: SVGBuilderExtensions.AddFeSpecularLighting
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions AddFeSpecularLighting method. Adds an feSpecularLighting element to the SVG builder applying a specular lighting effect using a specified light source
+description: SVGBuilderExtensions AddFeSpecularLighting method. Adds an feSpecularLighting element configuration to the builder. This element applies a lighting effect to the image simulating specular reflection
 type: docs
 weight: 270
 url: /net/aspose.svg.builder/svgbuilderextensions/addfespecularlighting/
 ---
+## AddFeSpecularLighting<TBuilder>(*this TBuilder, Action&lt;SVGFESpecularLightingElementBuilder&gt;*) {#addfespecularlighting_2}
+
+Adds an 'feSpecularLighting' element configuration to the builder. This element applies a lighting effect to the image, simulating specular reflection.
+
+```csharp
+public static TBuilder AddFeSpecularLighting<TBuilder>(this TBuilder builder, 
+    Action<SVGFESpecularLightingElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The builder instance. |
+| configure | The configuration action for the 'feSpecularLighting' element. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* class [SVGFESpecularLightingElementBuilder](../../svgfespecularlightingelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## AddFeSpecularLighting<TBuilder>(*this TBuilder, Action&lt;SVGFEDistantLightElementBuilder&gt;, Color?, double?, double?, double?, OneOf&lt;double, (double, double)&gt;, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFESpecularLightingElementBuilder&gt;*) {#addfespecularlighting}
 
 Adds an 'feSpecularLighting' element to the SVG builder, applying a specular lighting effect using a specified light source.
@@ -174,37 +205,6 @@ The builder instance, allowing for method chaining.
 * enum [LengthType](../../lengthtype/)
 * class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
-* class [SVGFESpecularLightingElementBuilder](../../svgfespecularlightingelementbuilder/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## AddFeSpecularLighting<TBuilder>(*this TBuilder, Action&lt;SVGFESpecularLightingElementBuilder&gt;*) {#addfespecularlighting_2}
-
-Adds an 'feSpecularLighting' element configuration to the builder. This element applies a lighting effect to the image, simulating specular reflection.
-
-```csharp
-public static TBuilder AddFeSpecularLighting<TBuilder>(this TBuilder builder, 
-    Action<SVGFESpecularLightingElementBuilder> configure)
-    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| configure | The configuration action for the 'feSpecularLighting' element. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
 * class [SVGFESpecularLightingElementBuilder](../../svgfespecularlightingelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
 * interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)

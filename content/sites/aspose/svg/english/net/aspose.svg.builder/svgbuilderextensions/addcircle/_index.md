@@ -1,11 +1,42 @@
 ---
 title: SVGBuilderExtensions.AddCircle
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions AddCircle method. Adds a circle element with specified center radius and styles to the SVG builder
+description: SVGBuilderExtensions AddCircle method. Adds a circle element configuration to the builder
 type: docs
 weight: 70
 url: /net/aspose.svg.builder/svgbuilderextensions/addcircle/
 ---
+## AddCircle<TBuilder>(*this TBuilder, Action&lt;SVGCircleElementBuilder&gt;*) {#addcircle_1}
+
+Adds a 'circle' element configuration to the builder.
+
+```csharp
+public static TBuilder AddCircle<TBuilder>(this TBuilder builder, 
+    Action<SVGCircleElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, IShapeElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The builder instance. |
+| configure | The configuration action for the 'circle' element. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* class [SVGCircleElementBuilder](../../svgcircleelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IShapeElementBuilder](../../ishapeelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## AddCircle<TBuilder>(*this TBuilder, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGCircleElementBuilder&gt;*) {#addcircle}
 
 Adds a 'circle' element with specified center, radius, and styles to the SVG builder.
@@ -41,37 +72,6 @@ The builder instance, allowing for method chaining.
 * enum [LengthType](../../lengthtype/)
 * class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
-* class [SVGCircleElementBuilder](../../svgcircleelementbuilder/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IShapeElementBuilder](../../ishapeelementbuilder/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## AddCircle<TBuilder>(*this TBuilder, Action&lt;SVGCircleElementBuilder&gt;*) {#addcircle_1}
-
-Adds a 'circle' element configuration to the builder.
-
-```csharp
-public static TBuilder AddCircle<TBuilder>(this TBuilder builder, 
-    Action<SVGCircleElementBuilder> configure)
-    where TBuilder : ISVGElementBuilder, IShapeElementBuilder
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| configure | The configuration action for the 'circle' element. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
 * class [SVGCircleElementBuilder](../../svgcircleelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
 * interface [IShapeElementBuilder](../../ishapeelementbuilder/)

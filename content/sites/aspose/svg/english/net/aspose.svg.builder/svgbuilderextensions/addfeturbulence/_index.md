@@ -1,11 +1,42 @@
 ---
 title: SVGBuilderExtensions.AddFeTurbulence
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions AddFeTurbulence method. Adds an feTurbulence element to the SVG builder creating a turbulence effect such as clouds or marble using Perlin noise
+description: SVGBuilderExtensions AddFeTurbulence method. Adds an feTurbulence element configuration to the builder. This element creates an image using Perlin noise useful for creating textures like clouds or marble
 type: docs
 weight: 290
 url: /net/aspose.svg.builder/svgbuilderextensions/addfeturbulence/
 ---
+## AddFeTurbulence<TBuilder>(*this TBuilder, Action&lt;SVGFETurbulenceElementBuilder&gt;*) {#addfeturbulence_1}
+
+Adds an 'feTurbulence' element configuration to the builder. This element creates an image using Perlin noise, useful for creating textures like clouds or marble.
+
+```csharp
+public static TBuilder AddFeTurbulence<TBuilder>(this TBuilder builder, 
+    Action<SVGFETurbulenceElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The builder instance. |
+| configure | The configuration action for the 'feTurbulence' element. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* class [SVGFETurbulenceElementBuilder](../../svgfeturbulenceelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## AddFeTurbulence<TBuilder>(*this TBuilder, OneOf&lt;double, (double, double)&gt;, int?, double?, StitchTiles?, TurbulenceType?, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFETurbulenceElementBuilder&gt;*) {#addfeturbulence}
 
 Adds an 'feTurbulence' element to the SVG builder, creating a turbulence effect, such as clouds or marble, using Perlin noise.
@@ -56,37 +87,6 @@ The builder instance, allowing for method chaining.
 * enum [LengthType](../../lengthtype/)
 * class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
-* class [SVGFETurbulenceElementBuilder](../../svgfeturbulenceelementbuilder/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## AddFeTurbulence<TBuilder>(*this TBuilder, Action&lt;SVGFETurbulenceElementBuilder&gt;*) {#addfeturbulence_1}
-
-Adds an 'feTurbulence' element configuration to the builder. This element creates an image using Perlin noise, useful for creating textures like clouds or marble.
-
-```csharp
-public static TBuilder AddFeTurbulence<TBuilder>(this TBuilder builder, 
-    Action<SVGFETurbulenceElementBuilder> configure)
-    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| configure | The configuration action for the 'feTurbulence' element. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
 * class [SVGFETurbulenceElementBuilder](../../svgfeturbulenceelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
 * interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)

@@ -1,11 +1,42 @@
 ---
 title: SVGBuilderExtensions.AddFeDisplacementMap
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions AddFeDisplacementMap method. Adds an feDisplacementMap element to the SVG builder creating an effect that distorts an image based on the color data from a second source
+description: SVGBuilderExtensions AddFeDisplacementMap method. Adds an feDisplacementMap element configuration to the builder. This element displaces an image by a specified vector map
 type: docs
 weight: 190
 url: /net/aspose.svg.builder/svgbuilderextensions/addfedisplacementmap/
 ---
+## AddFeDisplacementMap<TBuilder>(*this TBuilder, Action&lt;SVGFEDisplacementMapElementBuilder&gt;*) {#addfedisplacementmap}
+
+Adds an 'feDisplacementMap' element configuration to the builder. This element displaces an image by a specified vector map.
+
+```csharp
+public static TBuilder AddFeDisplacementMap<TBuilder>(this TBuilder builder, 
+    Action<SVGFEDisplacementMapElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The builder instance. |
+| configure | The configuration action for the 'feDisplacementMap' element. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* class [SVGFEDisplacementMapElementBuilder](../../svgfedisplacementmapelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## AddFeDisplacementMap<TBuilder>(*this TBuilder, double?, ChannelSelector?, ChannelSelector?, OneOf&lt;string, FilterInput&gt;, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEDisplacementMapElementBuilder&gt;*) {#addfedisplacementmap_1}
 
 Adds an 'feDisplacementMap' element to the SVG builder, creating an effect that distorts an image based on the color data from a second source.
@@ -53,37 +84,6 @@ The builder instance, allowing for method chaining.
 * enum [LengthType](../../lengthtype/)
 * class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
-* class [SVGFEDisplacementMapElementBuilder](../../svgfedisplacementmapelementbuilder/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## AddFeDisplacementMap<TBuilder>(*this TBuilder, Action&lt;SVGFEDisplacementMapElementBuilder&gt;*) {#addfedisplacementmap}
-
-Adds an 'feDisplacementMap' element configuration to the builder. This element displaces an image by a specified vector map.
-
-```csharp
-public static TBuilder AddFeDisplacementMap<TBuilder>(this TBuilder builder, 
-    Action<SVGFEDisplacementMapElementBuilder> configure)
-    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| configure | The configuration action for the 'feDisplacementMap' element. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
 * class [SVGFEDisplacementMapElementBuilder](../../svgfedisplacementmapelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
 * interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)

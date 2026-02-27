@@ -1,11 +1,42 @@
 ---
 title: SVGBuilderExtensions.AddPath
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions AddPath method. Adds a path element to the SVG builder specifying its path data and styles
+description: SVGBuilderExtensions AddPath method. Adds a path element configuration to the builder
 type: docs
 weight: 400
 url: /net/aspose.svg.builder/svgbuilderextensions/addpath/
 ---
+## AddPath<TBuilder>(*this TBuilder, Action&lt;SVGPathElementBuilder&gt;*) {#addpath_2}
+
+Adds a 'path' element configuration to the builder.
+
+```csharp
+public static TBuilder AddPath<TBuilder>(this TBuilder builder, 
+    Action<SVGPathElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, IShapeElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The builder instance. |
+| configure | The configuration action for the 'path' element. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* class [SVGPathElementBuilder](../../svgpathelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IShapeElementBuilder](../../ishapeelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## AddPath<TBuilder>(*this TBuilder, OneOf&lt;string, Action&lt;PathBuilder&gt;&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGPathElementBuilder&gt;*) {#addpath}
 
 Adds a 'path' element to the SVG builder, specifying its path data and styles.
@@ -77,37 +108,6 @@ The builder instance, allowing for method chaining.
 * class [PathBuilder](../../pathbuilder/)
 * class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
-* class [SVGPathElementBuilder](../../svgpathelementbuilder/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IShapeElementBuilder](../../ishapeelementbuilder/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## AddPath<TBuilder>(*this TBuilder, Action&lt;SVGPathElementBuilder&gt;*) {#addpath_2}
-
-Adds a 'path' element configuration to the builder.
-
-```csharp
-public static TBuilder AddPath<TBuilder>(this TBuilder builder, 
-    Action<SVGPathElementBuilder> configure)
-    where TBuilder : ISVGElementBuilder, IShapeElementBuilder
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| configure | The configuration action for the 'path' element. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
 * class [SVGPathElementBuilder](../../svgpathelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
 * interface [IShapeElementBuilder](../../ishapeelementbuilder/)

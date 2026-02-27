@@ -1,11 +1,41 @@
 ---
 title: SVGBuilderExtensions.Fill
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions Fill method. Sets the fill attribute for an SVG element using a custom configuration
+description: SVGBuilderExtensions Fill method. Sets the fill attribute defining how the animation should apply styles outside its active duration
 type: docs
 weight: 810
 url: /net/aspose.svg.builder/svgbuilderextensions/fill/
 ---
+## Fill<TBuilder>(*this TBuilder, [AnimationFill](../../animationfill/)*) {#fill}
+
+Sets the 'fill' attribute, defining how the animation should apply styles outside its active duration.
+
+```csharp
+public static TBuilder Fill<TBuilder>(this TBuilder builder, AnimationFill value)
+    where TBuilder : ISVGElementBuilder, IAnimationTimingAttributeSetter
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The SVG element builder. |
+| value | The fill behavior of the animation. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* enum [AnimationFill](../../animationfill/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IAnimationTimingAttributeSetter](../../ianimationtimingattributesetter/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## Fill<TBuilder>(*this TBuilder, Action&lt;PaintBuilder&gt;*) {#fill_2}
 
 Sets the 'fill' attribute for an SVG element using a custom configuration.
@@ -89,36 +119,6 @@ The builder instance for chaining.
 * enum [Paint](../../paint/)
 * interface [IAttributeSetter](../../iattributesetter/)
 * interface [IPresentationAttributeSetter](../../ipresentationattributesetter/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## Fill<TBuilder>(*this TBuilder, [AnimationFill](../../animationfill/)*) {#fill}
-
-Sets the 'fill' attribute, defining how the animation should apply styles outside its active duration.
-
-```csharp
-public static TBuilder Fill<TBuilder>(this TBuilder builder, AnimationFill value)
-    where TBuilder : ISVGElementBuilder, IAnimationTimingAttributeSetter
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The SVG element builder. |
-| value | The fill behavior of the animation. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
-* enum [AnimationFill](../../animationfill/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IAnimationTimingAttributeSetter](../../ianimationtimingattributesetter/)
 * class [SVGBuilderExtensions](../)
 * namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
 * assembly [Aspose.SVG](../../../)

@@ -1,11 +1,42 @@
 ---
 title: SVGBuilderExtensions.AddFeComponentTransfer
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions AddFeComponentTransfer method. Adds an feComponentTransfer element to the SVG builder allowing for component-wise remapping of data for color channels
+description: SVGBuilderExtensions AddFeComponentTransfer method. Adds an feComponentTransfer element configuration to the builder. This element performs component-wise remapping of data for color channels
 type: docs
 weight: 150
 url: /net/aspose.svg.builder/svgbuilderextensions/addfecomponenttransfer/
 ---
+## AddFeComponentTransfer<TBuilder>(*this TBuilder, Action&lt;SVGFEComponentTransferElementBuilder&gt;*) {#addfecomponenttransfer}
+
+Adds an 'feComponentTransfer' element configuration to the builder. This element performs component-wise remapping of data for color channels.
+
+```csharp
+public static TBuilder AddFeComponentTransfer<TBuilder>(this TBuilder builder, 
+    Action<SVGFEComponentTransferElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder. |
+| builder | The builder instance. |
+| configure | The configuration action for the 'feComponentTransfer' element. |
+
+### Return Value
+
+The builder instance for chaining.
+
+### See Also
+
+* class [SVGFEComponentTransferElementBuilder](../../svgfecomponenttransferelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## AddFeComponentTransfer<TBuilder>(*this TBuilder, Action&lt;SVGFEFuncAElementBuilder&gt;, Action&lt;SVGFEFuncRElementBuilder&gt;, Action&lt;SVGFEFuncGElementBuilder&gt;, Action&lt;SVGFEFuncBElementBuilder&gt;, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEComponentTransferElementBuilder&gt;*) {#addfecomponenttransfer_1}
 
 Adds an 'feComponentTransfer' element to the SVG builder, allowing for component-wise remapping of data for color channels.
@@ -57,37 +88,6 @@ The builder instance, allowing for method chaining.
 * enum [LengthType](../../lengthtype/)
 * class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
-* class [SVGFEComponentTransferElementBuilder](../../svgfecomponenttransferelementbuilder/)
-* interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
-* class [SVGBuilderExtensions](../)
-* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## AddFeComponentTransfer<TBuilder>(*this TBuilder, Action&lt;SVGFEComponentTransferElementBuilder&gt;*) {#addfecomponenttransfer}
-
-Adds an 'feComponentTransfer' element configuration to the builder. This element performs component-wise remapping of data for color channels.
-
-```csharp
-public static TBuilder AddFeComponentTransfer<TBuilder>(this TBuilder builder, 
-    Action<SVGFEComponentTransferElementBuilder> configure)
-    where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
-```
-
-| Parameter | Description |
-| --- | --- |
-| TBuilder | The type of the SVG element builder. |
-| builder | The builder instance. |
-| configure | The configuration action for the 'feComponentTransfer' element. |
-
-### Return Value
-
-The builder instance for chaining.
-
-### See Also
-
 * class [SVGFEComponentTransferElementBuilder](../../svgfecomponenttransferelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
 * interface [IFilterPrimitiveElementBuilder](../../ifilterprimitiveelementbuilder/)
