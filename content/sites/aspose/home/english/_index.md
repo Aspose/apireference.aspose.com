@@ -348,6 +348,16 @@ Aspose.Medical is a .NET healthcare data processing library. It supports multipl
 
 {{% /blocks/product-card %}}
 
+{{% blocks/product-card title="**Aspose.LLM**" href="llm" %}}
+
+{{% blocks/card-item-text %}}
+Integrate large language model capabilities into your .NET applications. Run AI chat sessions, manage presets, and stream responses without external API dependencies.
+{{% /blocks/card-item-text %}}
+
+{{< blocks/product-item title=".NET" href="/llm/net/" class="btn-net" >}}
+
+{{% /blocks/product-card %}}
+
 {{% /blocks/product-row %}}
 
 {{< /blocks/product-section >}}
