@@ -44,6 +44,7 @@ CFF font metrics implementation
 | [notifyAll()](#notifyAll--) |  |
 | [setAscender(double value)](#setAscender-double-) | Sets Ascender value. |
 | [setDescender(double value)](#setDescender-double-) | Sets Descender value. |
+| [setGlyphWidth(GlyphId glyphId, double value)](#setGlyphWidth-com.aspose.font.GlyphId-double-) |  |
 | [setTypoAscender(double value)](#setTypoAscender-double-) | Sets TypoAscender value. |
 | [setTypoDescender(double value)](#setTypoDescender-double-) | Sets TypoDescender value. |
 | [setUnitsPerEM(long value)](#setUnitsPerEM-long-) | Sets UnitsPerEM value. |
@@ -381,6 +382,20 @@ Sets Descender value.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | double | Descender value. |
+
+### setGlyphWidth(GlyphId glyphId, double value) {#setGlyphWidth-com.aspose.font.GlyphId-double-}
+```
+public void setGlyphWidth(GlyphId glyphId, double value)
+```
+
+
+Sets glyph width.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| glyphId | [GlyphId](../../com.aspose.font/glyphid) |  |
+| value | double |  |
 
 ### setTypoAscender(double value) {#setTypoAscender-double-}
 ```

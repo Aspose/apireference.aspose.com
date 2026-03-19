@@ -32,6 +32,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [CompositeGlyph](../com.aspose.font/compositeglyph) | Represents a font composite glyph. |
 | [CompositeGlyphComponent](../com.aspose.font/compositeglyphcomponent) | Represents composite glyph component (glyph with placement matrix). |
 | [CompositeGlyphComponentList](../com.aspose.font/compositeglyphcomponentlist) | Represents composite glyph components list. |
+| [CompressionUtils](../com.aspose.font/compressionutils) | Provides utility methods for compression and decompression. |
 | [CurveTo](../com.aspose.font/curveto) | Represents CurveTo operation. |
 | [EncodingException](../com.aspose.font/encodingexception) | Represents encoding exception. |
 | [FileSystemStreamSource](../com.aspose.font/filesystemstreamsource) | Represents a stream source based on file system. |

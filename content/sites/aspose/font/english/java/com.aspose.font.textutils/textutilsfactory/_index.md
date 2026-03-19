@@ -30,6 +30,7 @@ Provides functionality for retrieving creators of text service objects
 | [getMorseDecoder()](#getMorseDecoder--) | Gets the  IMorseDecoder  instance. |
 | [getMorseEncoder()](#getMorseEncoder--) | Gets the  IMorseEncoder  instance. |
 | [hashCode()](#hashCode--) |  |
+| [isCffSimpleFontMerging(Font primaryFont, Font secondaryFont, FontType outType)](#isCffSimpleFontMerging-com.aspose.font.Font-com.aspose.font.Font-com.aspose.font.FontType-) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [toString()](#toString--) |  |
@@ -134,6 +135,23 @@ public native int hashCode()
 
 **Returns:**
 int
+### isCffSimpleFontMerging(Font primaryFont, Font secondaryFont, FontType outType) {#isCffSimpleFontMerging-com.aspose.font.Font-com.aspose.font.Font-com.aspose.font.FontType-}
+```
+public static boolean isCffSimpleFontMerging(Font primaryFont, Font secondaryFont, FontType outType)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| primaryFont | [Font](../../com.aspose.font/font) |  |
+| secondaryFont | [Font](../../com.aspose.font/font) |  |
+| outType | [FontType](../../com.aspose.font/fonttype) |  |
+
+**Returns:**
+boolean
 ### notify() {#notify--}
 ```
 public final native void notify()

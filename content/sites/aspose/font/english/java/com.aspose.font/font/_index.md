@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.Font for Java API Reference
 description: Represents base Font class.
 type: docs
-weight: 31
+weight: 32
 url: /java/com.aspose.font/font/
 ---
 **Inheritance:**

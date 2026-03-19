@@ -3,7 +3,7 @@ title: Type1FontMetrics
 second_title: Aspose.Font for Java API Reference
 description: Represents Type1 Font metrics.
 type: docs
-weight: 115
+weight: 116
 url: /java/com.aspose.font/type1fontmetrics/
 ---
 **Inheritance:**
@@ -51,6 +51,7 @@ Represents Type1 Font metrics.
 | [notifyAll()](#notifyAll--) |  |
 | [setAscender(double value)](#setAscender-double-) | Sets Ascender value. |
 | [setDescender(double value)](#setDescender-double-) | Sets Descender value. |
+| [setGlyphWidth(GlyphId glyphId, double value)](#setGlyphWidth-com.aspose.font.GlyphId-double-) | Sets glyph width. |
 | [setTypoAscender(double value)](#setTypoAscender-double-) | Sets TypoAscender value. |
 | [setTypoDescender(double value)](#setTypoDescender-double-) | Sets TypoDescender value. |
 | [setUnitsPerEM(long value)](#setUnitsPerEM-long-) |  |
@@ -453,6 +454,20 @@ Sets Descender value.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | double | Descender value. |
+
+### setGlyphWidth(GlyphId glyphId, double value) {#setGlyphWidth-com.aspose.font.GlyphId-double-}
+```
+public void setGlyphWidth(GlyphId glyphId, double value)
+```
+
+
+Sets glyph width.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| glyphId | [GlyphId](../../com.aspose.font/glyphid) | Glyph identifier. |
+| value | double | New width. |
 
 ### setTypoAscender(double value) {#setTypoAscender-double-}
 ```

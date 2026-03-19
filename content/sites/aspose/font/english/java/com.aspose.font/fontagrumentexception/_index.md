@@ -3,7 +3,7 @@ title: FontAgrumentException
 second_title: Aspose.Font for Java API Reference
 description: Represents Font argument exception.
 type: docs
-weight: 32
+weight: 33
 url: /java/com.aspose.font/fontagrumentexception/
 ---
 **Inheritance:**

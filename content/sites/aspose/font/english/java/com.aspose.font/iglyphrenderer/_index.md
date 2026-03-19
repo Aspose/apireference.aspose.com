@@ -3,7 +3,7 @@ title: IGlyphRenderer
 second_title: Aspose.Font for Java API Reference
 description: Interface used to render glyphs.
 type: docs
-weight: 129
+weight: 130
 url: /java/com.aspose.font/iglyphrenderer/
 ---```
 public interface IGlyphRenderer

@@ -3,7 +3,7 @@ title: FontCharactersMerger
 second_title: Aspose.Font for Java API Reference
 description: Declares functionality to merge fonts of different types.
 type: docs
-weight: 34
+weight: 35
 url: /java/com.aspose.font/fontcharactersmerger/
 ---
 **Inheritance:**

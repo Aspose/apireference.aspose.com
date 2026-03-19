@@ -3,7 +3,7 @@ title: NameIndexDataProvider
 second_title: Aspose.Font for Java API Reference
 description: Provides settings common to CFF fonts.
 type: docs
-weight: 67
+weight: 68
 url: /java/com.aspose.font/nameindexdataprovider/
 ---
 **Inheritance:**

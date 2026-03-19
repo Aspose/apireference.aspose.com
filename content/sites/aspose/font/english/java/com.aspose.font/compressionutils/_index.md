@@ -1,29 +1,29 @@
 ---
-title: FontStyle
+title: CompressionUtils
 second_title: Aspose.Font for Java API Reference
-description: Font style enumeration
+description: Provides utility methods for compression and decompression.
 type: docs
-weight: 47
-url: /java/com.aspose.font/fontstyle/
+weight: 28
+url: /java/com.aspose.font/compressionutils/
 ---
 **Inheritance:**
 java.lang.Object
 ```
-public final class FontStyle
+public class CompressionUtils
 ```
 
-Font style enumeration
-## Fields
+Provides utility methods for compression and decompression.
+## Constructors
 
-| Field | Description |
+| Constructor | Description |
 | --- | --- |
-| [Bold](#Bold) | Specifies the bold Font style. |
-| [Italic](#Italic) | Specifies the italic Font style. |
-| [Regular](#Regular) | Specifies the regular Font style. |
+| [CompressionUtils()](#CompressionUtils--) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [decodeByBrotli(byte[] input)](#decodeByBrotli-byte---) | Decompresses the given Brotli-compressed byte array. |
+| [encodeByBrotli(byte[] buff, int buffLength)](#encodeByBrotli-byte---int-) | Compresses the given byte array using the Brotli algorithm. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
 | [hashCode()](#hashCode--) |  |
@@ -33,30 +33,43 @@ Font style enumeration
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Bold {#Bold}
+### CompressionUtils() {#CompressionUtils--}
 ```
-public static final int Bold
-```
-
-
-Specifies the bold Font style.
-
-### Italic {#Italic}
-```
-public static final int Italic
+public CompressionUtils()
 ```
 
 
-Specifies the italic Font style.
-
-### Regular {#Regular}
+### decodeByBrotli(byte[] input) {#decodeByBrotli-byte---}
 ```
-public static final int Regular
+public static byte[] decodeByBrotli(byte[] input)
 ```
 
 
-Specifies the regular Font style.
+Decompresses the given Brotli-compressed byte array.
 
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | byte[] | The compressed data. |
+
+**Returns:**
+byte[] - The decompressed byte array.
+### encodeByBrotli(byte[] buff, int buffLength) {#encodeByBrotli-byte---int-}
+```
+public static byte[] encodeByBrotli(byte[] buff, int buffLength)
+```
+
+
+Compresses the given byte array using the Brotli algorithm.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buff | byte[] | The input buffer to compress. |
+| buffLength | int | The length of the data to compress. |
+
+**Returns:**
+byte[] - The compressed byte array.
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
