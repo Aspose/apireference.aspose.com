@@ -33,6 +33,14 @@ is_root: true
 | [AsposeFontSetInfo](./metadata/asposefontsetinfo/) | Set info (metadata) in a Font-file. |
 
 
+## Glyph Font functions
+
+| Function | Description |
+| -------- | ----------- |
+| [AsposeFontGetGlyphCount](./glyph/asposefontgetglyphcount/) | Get glyph count of font. |
+| [AsposeFontGetMetrics](./glyph/asposefontgetmetrics/) | Get metrics of font. |
+
+
 ## Core Functions
 
 | Function | Description |
@@ -48,6 +56,7 @@ is_root: true
 | [AsposeFontAbout](./misc/asposefontabout/) | Get info about Product. |
 | [DownloadFile](./misc/downloadfile/) | Make a link in HTML to download the file. |
 | [DownloadFileAuto](./misc/downloadfileauto)| Make a link in HTML to download the file and start download after 2 seconds. |
+
 
 ## Enumerations
 
