@@ -19,8 +19,7 @@ The OCRTablePage type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
-|page_index|  |
-|rows|  |
+|tables|  |
 
 ### See Also
 

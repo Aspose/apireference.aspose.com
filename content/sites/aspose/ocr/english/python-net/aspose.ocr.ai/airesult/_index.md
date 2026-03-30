@@ -19,7 +19,7 @@ The AIResult type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
-|recognition_text|  |
+|result|  |
 |file_name|  |
 
 ### See Also
