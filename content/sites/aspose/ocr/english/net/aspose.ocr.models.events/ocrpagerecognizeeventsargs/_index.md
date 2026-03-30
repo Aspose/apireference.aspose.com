@@ -3,7 +3,7 @@ title: OcrPageRecognizeEventsArgs
 second_title: Aspose.OCR for .NET API Reference
 description: Class for OcrProgress event recognition arguments.
 type: docs
-weight: 550
+weight: 530
 url: /net/aspose.ocr.models.events/ocrpagerecognizeeventsargs/
 ---
 ## OcrPageRecognizeEventsArgs class

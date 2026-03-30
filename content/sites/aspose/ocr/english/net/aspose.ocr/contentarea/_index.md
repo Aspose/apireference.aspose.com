@@ -3,7 +3,7 @@ title: ContentArea
 second_title: Aspose.OCR for .NET API Reference
 description: A content area detected in an image.
 type: docs
-weight: 400
+weight: 380
 url: /net/aspose.ocr/contentarea/
 ---
 ## ContentArea class

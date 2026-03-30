@@ -3,7 +3,7 @@ title: ExecutionMode
 second_title: Aspose.OCR for .NET API Reference
 description: Execution mode for the session. By default operators are executed concurrently whenever possible.
 type: docs
-weight: 10
+weight: 30
 url: /net/aspose.ocr/onnxruntimesessionoptions/executionmode/
 ---
 ## OnnxRuntimeSessionOptions.ExecutionMode property

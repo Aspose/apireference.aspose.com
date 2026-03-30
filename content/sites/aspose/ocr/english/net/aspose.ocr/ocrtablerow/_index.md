@@ -3,7 +3,7 @@ title: OCRTableRow
 second_title: Aspose.OCR for .NET API Reference
 description: Represents a single row within a recognized table.
 type: docs
-weight: 490
+weight: 470
 url: /net/aspose.ocr/ocrtablerow/
 ---
 ## OCRTableRow class

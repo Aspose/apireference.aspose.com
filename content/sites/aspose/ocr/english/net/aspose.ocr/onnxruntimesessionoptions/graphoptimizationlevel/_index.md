@@ -3,7 +3,7 @@ title: GraphOptimizationLevel
 second_title: Aspose.OCR for .NET API Reference
 description: Graph optimization level for the session. By default all available optimizations are enabled for maximum performance.
 type: docs
-weight: 20
+weight: 40
 url: /net/aspose.ocr/onnxruntimesessionoptions/graphoptimizationlevel/
 ---
 ## OnnxRuntimeSessionOptions.GraphOptimizationLevel property

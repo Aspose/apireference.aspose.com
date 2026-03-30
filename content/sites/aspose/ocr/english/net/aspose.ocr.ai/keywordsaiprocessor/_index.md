@@ -1,14 +1,14 @@
 ---
 title: KeywordsAIProcessor
 second_title: Aspose.OCR for .NET API Reference
-description: AI post-processor that analyzes OCR results and extracts structured tables. Uses AI-based processing to improve table layout detection and formatting.
+description: AI post-processor that analyzes OCR results and extracts keywords and values.
 type: docs
-weight: 610
+weight: 590
 url: /net/aspose.ocr.ai/keywordsaiprocessor/
 ---
 ## KeywordsAIProcessor class
 
-AI post-processor that analyzes OCR results and extracts structured tables. Uses AI-based processing to improve table layout detection and formatting.
+AI post-processor that analyzes OCR results and extracts keywords and values.
 
 ```csharp
 public class KeywordsAIProcessor : IOcrAIPostProcessor
@@ -18,7 +18,7 @@ public class KeywordsAIProcessor : IOcrAIPostProcessor
 
 | Name | Description |
 | --- | --- |
-| [KeywordsAIProcessor](keywordsaiprocessor)() | The default constructor. |
+| [KeywordsAIProcessor](keywordsaiprocessor)() | Initializes a new instance of the [`KeywordsAIProcessor`](../keywordsaiprocessor) class. Performs AI-based keyword and numeric value search in OCR-recognized text. |
 
 ## Methods
 

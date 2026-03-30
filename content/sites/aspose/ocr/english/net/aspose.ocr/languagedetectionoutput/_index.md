@@ -3,7 +3,7 @@ title: LanguageDetectionOutput
 second_title: Aspose.OCR for .NET API Reference
 description: Languages detected in the image text.
 type: docs
-weight: 360
+weight: 340
 url: /net/aspose.ocr/languagedetectionoutput/
 ---
 ## LanguageDetectionOutput class

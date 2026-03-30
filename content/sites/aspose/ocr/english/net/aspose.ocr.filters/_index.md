@@ -1,12 +1,12 @@
 ---
 title: Aspose.OCR.Filters
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: The Aspose.OCR.Filters contains interpolations used forscale images.
 type: docs
 weight: 30
 url: /net/aspose.ocr.filters/
 ---
-
+The **Aspose.OCR.Filters** contains interpolations, used forscale images.
 
 ## Enumeration
 

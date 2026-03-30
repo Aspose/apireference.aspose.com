@@ -3,7 +3,7 @@ title: IntraOpNumThreads
 second_title: Aspose.OCR for .NET API Reference
 description: Number of threads for a single operations.
 type: docs
-weight: 40
+weight: 60
 url: /net/aspose.ocr/onnxruntimesessionoptions/intraopnumthreads/
 ---
 ## OnnxRuntimeSessionOptions.IntraOpNumThreads property

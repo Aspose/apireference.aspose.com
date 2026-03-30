@@ -3,7 +3,7 @@ title: InterOpNumThreads
 second_title: Aspose.OCR for .NET API Reference
 description: Number of threads for running multiple operations in parallel. If sequential execution ExecutionModeOnnx.ORT_SEQUENTIAL is enabled in ExecutionMode property this value is ignored.
 type: docs
-weight: 30
+weight: 50
 url: /net/aspose.ocr/onnxruntimesessionoptions/interopnumthreads/
 ---
 ## OnnxRuntimeSessionOptions.InterOpNumThreads property
