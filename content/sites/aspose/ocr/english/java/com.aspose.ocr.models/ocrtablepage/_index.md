@@ -25,7 +25,9 @@ This object aggregates all recognized tables across one processed page. Each pag
 
 | Method | Description |
 | --- | --- |
+| [addTable(OCRTable table)](#addTable-com.aspose.ocr.models.OCRTable) |  |
 | [getTables()](#getTables) |  |
+
 ### OCRTablePage() {#OCRTablePage}
 ```
 public OCRTablePage()
@@ -44,6 +46,8 @@ public void addTable(OCRTable table)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | table | [OCRTable](../../com.aspose.ocr.models/ocrtable/) |  |
+
+
 
 ### getTables() {#getTables}
 ```

@@ -29,7 +29,6 @@ Each table stores the list of table rows.
 | [getTableIndex()](#getTableIndex) |  |
 | [setRows(List<OCRTableRow> rows)](#setRows-java.util.List-com.aspose.ocr.models.OCRTableRow) |  |
 | [setTableIndex(int tableIndex)](#setTableIndex-int) |  |
-
 ### OCRTable() {#OCRTable}
 ```
 public OCRTable()
@@ -39,22 +38,18 @@ public OCRTable()
 ```
 public List<OCRTableRow> getRows()
 ```
-
-
-
-
 **Returns:**
 java.util.List<com.aspose.ocr.models.OCRTableRow>
+
+
 ### getTableIndex() {#getTableIndex}
 ```
 public int getTableIndex()
 ```
-
-
-
-
 **Returns:**
 int
+
+
 
 
 ### setRows(List<OCRTableRow> rows) {#setRows-java.util.List-com.aspose.ocr.models.OCRTableRow}
