@@ -3,7 +3,7 @@ title: OCRTable
 second_title: Aspose.OCR for .NET API Reference
 description: Represents one table with recognized tabular data.
 type: docs
-weight: 480
+weight: 460
 url: /net/aspose.ocr/ocrtable/
 ---
 ## OCRTable class
@@ -29,7 +29,7 @@ public class OCRTable
 
 ### Remarks
 
-Each page stores the list of table rows detected on that page. If no table is detected, the [`Rows`](./rows) list will be empty.
+Each table stores the list of table rows.
 
 ### See Also
 

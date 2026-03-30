@@ -3,7 +3,7 @@ title: RecognitionResult
 second_title: Aspose.OCR for .NET API Reference
 description: The results of the image recognition. Contains elements with recognition information and methods for result export.
 type: docs
-weight: 150
+weight: 140
 url: /net/aspose.ocr/recognitionresult/
 ---
 ## RecognitionResult class

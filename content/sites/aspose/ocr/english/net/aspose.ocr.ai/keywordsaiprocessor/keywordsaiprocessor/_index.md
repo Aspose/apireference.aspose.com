@@ -1,14 +1,14 @@
 ---
 title: KeywordsAIProcessor
 second_title: Aspose.OCR for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the KeywordsAIProcessoraspose.ocr.ai/keywordsaiprocessor class. Performs AI-based keyword and numeric value search in OCR-recognized text.
 type: docs
 weight: 10
 url: /net/aspose.ocr.ai/keywordsaiprocessor/keywordsaiprocessor/
 ---
 ## KeywordsAIProcessor constructor
 
-The default constructor.
+Initializes a new instance of the [`KeywordsAIProcessor`](../../keywordsaiprocessor) class. Performs AI-based keyword and numeric value search in OCR-recognized text.
 
 ```csharp
 public KeywordsAIProcessor()

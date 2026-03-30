@@ -3,7 +3,7 @@ title: Character
 second_title: Aspose.OCR for .NET API Reference
 description: Data about detected character.
 type: docs
-weight: 410
+weight: 390
 url: /net/aspose.ocr/character/
 ---
 ## Character class

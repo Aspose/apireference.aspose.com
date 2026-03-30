@@ -3,7 +3,7 @@ title: OnnxRuntimeSessionOptions
 second_title: Aspose.OCR for .NET API Reference
 description: Configuration options for creating ONNX InferenceSession. We recommend keeping the optimized defaults unless you are absolutely certain about the modifications. For technical details refer to ONNX Runtime documentation.
 type: docs
-weight: 240
+weight: 220
 url: /net/aspose.ocr/onnxruntimesessionoptions/
 ---
 ## OnnxRuntimeSessionOptions class
@@ -18,6 +18,8 @@ public static class OnnxRuntimeSessionOptions
 
 | Name | Description |
 | --- | --- |
+| static [EnableCpuMemArena](../../aspose.ocr/onnxruntimesessionoptions/enablecpumemarena) { get; set; } | Enables or disables the CPU memory arena allocator used by ONNX Runtime. When enabled, memory is pooled and reused for better performance, but may lead to increased memory consumption in multi-threaded scenarios. Disable to reduce peak memory usage at the cost of performance. |
+| static [EnableMemoryPattern](../../aspose.ocr/onnxruntimesessionoptions/enablememorypattern) { get; set; } | Enables or disables memory pattern optimization for input tensors. When enabled, ONNX Runtime caches memory allocation patterns for faster execution, but may increase memory usage for dynamic input shapes. Disable if inputs vary significantly or to reduce memory footprint. |
 | static [ExecutionMode](../../aspose.ocr/onnxruntimesessionoptions/executionmode) { get; set; } | Execution mode for the session. By default, operators are executed concurrently, whenever possible. |
 | static [GraphOptimizationLevel](../../aspose.ocr/onnxruntimesessionoptions/graphoptimizationlevel) { get; set; } | Graph optimization level for the session. By default, all available optimizations are enabled for maximum performance. |
 | static [InterOpNumThreads](../../aspose.ocr/onnxruntimesessionoptions/interopnumthreads) { get; set; } | Number of threads for running multiple operations in parallel. If sequential execution (ExecutionModeOnnx.ORT_SEQUENTIAL) is enabled in ExecutionMode property, this value is ignored. |

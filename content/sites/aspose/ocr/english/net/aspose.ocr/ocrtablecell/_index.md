@@ -3,7 +3,7 @@ title: OCRTableCell
 second_title: Aspose.OCR for .NET API Reference
 description: Represents one table cell with recognized text and position information.
 type: docs
-weight: 500
+weight: 480
 url: /net/aspose.ocr/ocrtablecell/
 ---
 ## OCRTableCell class
