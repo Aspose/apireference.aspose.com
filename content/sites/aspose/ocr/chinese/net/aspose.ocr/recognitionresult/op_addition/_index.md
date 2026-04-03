@@ -1,32 +1,32 @@
 ---
-title: RecognitionResult.op_Addition
-second_title: Aspose.OCR for .NET API 参考
-description: RecognitionResult 方法. 完成识别片段行的完整结果
+title: op_Addition
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 完成从已识别的片段行获取完整结果。
 type: docs
-weight: 140
+weight: 130
 url: /zh/net/aspose.ocr/recognitionresult/op_addition/
 ---
 ## RecognitionResult Addition operator
 
-完成识别片段（行）的完整结果。
+完成来自已识别片段（行）的完整结果。
 
 ```csharp
 public static RecognitionResult operator +(RecognitionResult main, RecognitionResult part)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| main | RecognitionResult | 将向其添加右操作数的对象。 |
-| part | RecognitionResult | 右操作数。 |
+| main | RecognitionResult | 右操作数将被添加到的对象。 |
+| 部分 | RecognitionResult | 右操作数。 |
 
 ### 返回值
 
 左操作数。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../)
-* 命名空间 [Aspose.OCR](../../recognitionresult/)
-* 部件 [Aspose.OCR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OCR](../../recognitionresult)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

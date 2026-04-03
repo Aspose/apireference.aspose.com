@@ -1,9 +1,9 @@
 ---
-title: RecognitionResult.RecognitionCharactersList
-second_title: Aspose.OCR for .NET API 参考
-description: RecognitionResult 财产. 识别算法找到的一组字符按概率降序排列
+title: RecognitionCharactersList
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 识别算法找到的一组字符，按概率降序排列。
 type: docs
-weight: 40
+weight: 30
 url: /zh/net/aspose.ocr/recognitionresult/recognitioncharacterslist/
 ---
 ## RecognitionResult.RecognitionCharactersList property
@@ -14,14 +14,14 @@ url: /zh/net/aspose.ocr/recognitionresult/recognitioncharacterslist/
 public List<char[]> RecognitionCharactersList { get; }
 ```
 
-### 评论
+### 备注
 
-符号数组Char具有最大概率和备选方案。
+具有最高概率及其备选项的 Char 符号数组。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../)
-* 命名空间 [Aspose.OCR](../../recognitionresult/)
-* 部件 [Aspose.OCR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OCR](../../recognitionresult)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

@@ -1,23 +1,23 @@
 ---
-title: RecognitionResult.Image
-second_title: Aspose.OCR for .NET API 参考
-description: RecognitionResult 财产. 获取或设置用于创建 pdf 的图像
+title: 图像
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 获取或设置用于 PDF 创建的图像。
 type: docs
-weight: 10
+weight: 20
 url: /zh/net/aspose.ocr/recognitionresult/image/
 ---
 ## RecognitionResult.Image property
 
-获取或设置用于创建 pdf 的图像。
+获取或设置用于 PDF 创建的图像。
 
 ```csharp
-public List<byte[][]> Image { get; set; }
+public byte[][] Image { get; set; }
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../)
-* 命名空间 [Aspose.OCR](../../recognitionresult/)
-* 部件 [Aspose.OCR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OCR](../../recognitionresult)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

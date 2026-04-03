@@ -1,27 +1,27 @@
 ---
-title: Delegate OcrRecognizeEventHandler
-second_title: Aspose.OCR for .NET API 参考
-description: 跟踪多页图像识别进度的委托
+title: OcrRecognizeEventHandler
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 用于跟踪多页图像识别进度的委托。
 type: docs
-weight: 180
+weight: 10
 url: /zh/net/aspose.ocr/ocrrecognizeeventhandler/
 ---
 ## OcrRecognizeEventHandler delegate
 
-跟踪多页图像识别进度的委托。
+用于跟踪多页图像识别进度的委托。
 
 ```csharp
 public delegate void OcrRecognizeEventHandler(OcrPageRecognizeEventsArgs e);
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| e | OcrPageRecognizeEventsArgs | 的实例[`OcrPageRecognizeEventsArgs`](../../aspose.ocr.models.events/ocrpagerecognizeeventsargs/) |
+| e | OcrPageRecognizeEventsArgs | [`OcrPageRecognizeEventsArgs`](../../aspose.ocr.models.events/ocrpagerecognizeeventsargs) 的实例 |
 
-### 也可以看看
+### 另请参见
 
-* class [OcrPageRecognizeEventsArgs](../../aspose.ocr.models.events/ocrpagerecognizeeventsargs/)
-* 命名空间 [Aspose.OCR](../../aspose.ocr/)
-* 部件 [Aspose.OCR](../../)
+* class [OcrPageRecognizeEventsArgs](../../aspose.ocr.models.events/ocrpagerecognizeeventsargs)
+* namespace [Aspose.OCR](../../aspose.ocr)
+* assembly [Aspose.OCR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

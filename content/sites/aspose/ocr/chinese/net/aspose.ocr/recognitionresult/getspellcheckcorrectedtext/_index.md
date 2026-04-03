@@ -1,34 +1,34 @@
 ---
-title: RecognitionResult.GetSpellCheckCorrectedText
-second_title: Aspose.OCR for .NET API 参考
-description: RecognitionResult 方法. 更正文本替换拼写错误的单词
+title: GetSpellCheckCorrectedText
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: Corrects text replaces misspelled words.
 type: docs
-weight: 100
+weight: 90
 url: /zh/net/aspose.ocr/recognitionresult/getspellcheckcorrectedtext/
 ---
 ## RecognitionResult.GetSpellCheckCorrectedText method
 
-更正文本（替换拼写错误的单词）。
+纠正文本（替换拼写错误的单词）。
 
 ```csharp
 public string GetSpellCheckCorrectedText(SpellCheckLanguage language = SpellCheckLanguage.Eng, 
     string dictionaryPath = null)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| language | SpellCheckLanguage | 要使用的词典。 |
-| dictionaryPath | String | 可选。用户词典（频率词典）的完整路径。 词典文件格式： UTF-8 编码的纯文本文件。 单词和单词频率由空格或制表符分隔。默认情况下，单词在第一列中，频率在第二列中。 每个单词-单独一行中的频率对。一行定义为字符序列后跟换行符 ("\n")、回车符 ("\r")、 或回车符后紧跟换行符("\r\n"). 每个单词都应该是小写的。 |
+| language | SpellCheckLanguage | Dictionary to use. |
+| dictionaryPath | String | Optionally. Full path to the user dictionary (frequency dictionary). Dictionary file format: Plain text file in UTF-8 encoding. Word and Word Frequency are separated by space or tab.Per default, the word is expected in the first column and the frequency in the second column. Every word-frequency-pair in a separate line.A line is defined as a sequence of characters followed by a line feed ("\n"), a carriage return ("\r"), or a carriage return immediately followed by a line feed("\r\n"). Every word is expected to be in lower case. |
 
 ### 返回值
 
-带有替换词的文本。
+Text with replaced words.
 
-### 也可以看看
+### 另请参见
 
-* enum [SpellCheckLanguage](../../../aspose.ocr.spellchecker/spellchecklanguage/)
-* class [RecognitionResult](../)
-* 命名空间 [Aspose.OCR](../../recognitionresult/)
-* 部件 [Aspose.OCR](../../../)
+* enum [SpellCheckLanguage](../../../aspose.ocr.spellchecker/spellchecklanguage)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OCR](../../recognitionresult)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

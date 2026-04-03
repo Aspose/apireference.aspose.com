@@ -1,9 +1,9 @@
 ---
-title: PreprocessingFilter.AutoSkew
-second_title: Aspose.OCR for .NET API 参考
-description: PreprocessingFilter 方法. 启用自动图像倾斜校正
+title: 自动倾斜校正
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 启用自动图像倾斜校正。
 type: docs
-weight: 40
+weight: 60
 url: /zh/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/autoskew/
 ---
 ## AutoSkew() {#autoskew}
@@ -18,34 +18,34 @@ public static PreprocessingFilter AutoSkew()
 
 AutoSkewFilter 对象。
 
-### 也可以看看
+### 另请参见
 
-* class [PreprocessingFilter](../)
-* 命名空间 [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter/)
-* 部件 [Aspose.OCR](../../../)
+* class [PreprocessingFilter](../../preprocessingfilter)
+* namespace [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter)
+* assembly [Aspose.OCR](../../../)
 
 ---
 
 ## AutoSkew(Rectangle) {#autoskew_1}
 
-启用自动图像部分倾斜校正。
+启用图像部分的自动倾斜校正。
 
 ```csharp
 public static PreprocessingFilter AutoSkew(Rectangle area)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| area | Rectangle | 要校正的图像部分的坐标。 |
+| 区域 | Rectangle | 要校正的图像部分的坐标。 |
 
 ### 返回值
 
 AutoSkewFilter 对象。
 
-### 也可以看看
+### 另请参见
 
-* class [PreprocessingFilter](../)
-* 命名空间 [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter/)
-* 部件 [Aspose.OCR](../../../)
+* class [PreprocessingFilter](../../preprocessingfilter)
+* namespace [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

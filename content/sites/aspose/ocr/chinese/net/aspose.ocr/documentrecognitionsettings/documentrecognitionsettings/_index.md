@@ -1,35 +1,35 @@
 ---
-title: DocumentRecognitionSettings.DocumentRecognitionSettings
-second_title: Aspose.OCR for .NET API 参考
-description: DocumentRecognitionSettings 构造函数. 初始化一个新的实例DocumentRecognitionSettings具有短属性集的类.
+title: DocumentRecognitionSettings
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 使用简短的属性集初始化 DocumentRecognitionSettingsaspose.ocr/documentrecognitionsettings 类的新实例。
 type: docs
 weight: 10
 url: /zh/net/aspose.ocr/documentrecognitionsettings/documentrecognitionsettings/
 ---
 ## DocumentRecognitionSettings(int, int) {#constructor}
 
-初始化一个新的实例[`DocumentRecognitionSettings`](../)具有短属性集的类.
+使用简短的属性集初始化 [`DocumentRecognitionSettings`](../../documentrecognitionsettings) 类的新实例。
 
 ```csharp
 public DocumentRecognitionSettings(int startPage = 0, int pagesNumber = 1)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| startPage | Int32 | 设置第一页进行识别。默认为 0。 |
-| pagesNumber | Int32 | 设置识别多页 pdf 文件的页数。 |
+| startPage | Int32 | 设置识别的起始页。默认值为 0。 |
+| pagesNumber | Int32 | 设置多页 PDF 文件的识别页数。 |
 
-### 也可以看看
+### 另请参见
 
-* class [DocumentRecognitionSettings](../)
-* 命名空间 [Aspose.OCR](../../documentrecognitionsettings/)
-* 部件 [Aspose.OCR](../../../)
+* class [DocumentRecognitionSettings](../../documentrecognitionsettings)
+* namespace [Aspose.OCR](../../documentrecognitionsettings)
+* assembly [Aspose.OCR](../../../)
 
 ---
 
 ## DocumentRecognitionSettings(int, int, Language, bool, bool, int) {#constructor_1}
 
-初始化一个新的实例[`DocumentRecognitionSettings`](../)具有全套属性的类.
+使用完整的属性集初始化 [`DocumentRecognitionSettings`](../../documentrecognitionsettings) 类的新实例。
 
 ```csharp
 public DocumentRecognitionSettings(int startPage, int pagesNumber, 
@@ -37,20 +37,20 @@ public DocumentRecognitionSettings(int startPage, int pagesNumber,
     int threshold = 0)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| startPage | Int32 | 设置第一页进行识别。默认为 0。 |
-| pagesNumber | Int32 | 设置识别多页 pdf 文件的页数。 |
-| language | Language | 用于 OCR 的语言。 |
+| startPage | Int32 | 设置识别的起始页。默认值为 0。 |
+| pagesNumber | Int32 | 设置多页 PDF 文件的识别页数。 |
+| language | 语言 | 用于 OCR 的语言。 |
 | detectAreas | Boolean | 启用自动文本区域检测。 |
 | autoSkew | Boolean | 启用自动图像倾斜校正。 |
 | threshold | Int32 | 自定义图像二值化阈值。 |
 
-### 也可以看看
+### 另请参见
 
-* enum [Language](../../language/)
-* class [DocumentRecognitionSettings](../)
-* 命名空间 [Aspose.OCR](../../documentrecognitionsettings/)
-* 部件 [Aspose.OCR](../../../)
+* enum [Language](../../language)
+* class [DocumentRecognitionSettings](../../documentrecognitionsettings)
+* namespace [Aspose.OCR](../../documentrecognitionsettings)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

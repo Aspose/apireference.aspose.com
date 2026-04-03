@@ -1,29 +1,29 @@
 ---
-title: Struct SuggestedWord
-second_title: Aspose.OCR for .NET API 参考
-description: Aspose.OCR.SpellChecker.SuggestedWord 结构. 从 GetSpellCheckErrorList. 返回的拼写建议
+title: SuggestedWord
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 从 GetSpellCheckErrorList 返回的拼写建议。
 type: docs
-weight: 280
+weight: 500
 url: /zh/net/aspose.ocr.spellchecker/suggestedword/
 ---
 ## SuggestedWord structure
 
-从 GetSpellCheckErrorList. 返回的拼写建议
+从 GetSpellCheckErrorList 返回的拼写建议。
 
 ```csharp
 public struct SuggestedWord
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Distance](../../aspose.ocr.spellchecker/suggestedword/distance/) { get; set; } | 搜索到建议的距离。 |
-| [Word](../../aspose.ocr.spellchecker/suggestedword/word/) { get; set; } | 建议的正确拼写单词。 |
+| [Distance](../../aspose.ocr.spellchecker/suggestedword/distance) { get; set; } | 搜索词与建议之间的距离。 |
+| [Word](../../aspose.ocr.spellchecker/suggestedword/word) { get; set; } | 建议的正确拼写单词。 |
 
-### 也可以看看
+### 另请参见
 
-* 命名空间 [Aspose.OCR.SpellChecker](../../aspose.ocr.spellchecker/)
-* 部件 [Aspose.OCR](../../)
+* namespace [Aspose.OCR.SpellChecker](../../aspose.ocr.spellchecker)
+* assembly [Aspose.OCR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

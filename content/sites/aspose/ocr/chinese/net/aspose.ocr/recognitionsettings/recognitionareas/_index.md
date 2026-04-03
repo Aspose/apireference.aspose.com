@@ -1,23 +1,23 @@
 ---
-title: RecognitionSettings.RecognitionAreas
-second_title: Aspose.OCR for .NET API 参考
-description: RecognitionSettings 财产. 获取或设置要处理的文本区域列表  允许手动指定带有文字的区域以便更准确地识别 如果设置了自定义区域DetectAreas和AutoSkew属性将被忽略  禁用 DetectAreas 和 AutoSkew
+title: RecognitionAreas
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 获取或设置用于处理的文本区域列表。允许手动指定包含文本的区域以获得更准确的识别。禁用 AutoSkew。
 type: docs
-weight: 20
+weight: 50
 url: /zh/net/aspose.ocr/recognitionsettings/recognitionareas/
 ---
 ## RecognitionSettings.RecognitionAreas property
 
-获取或设置要处理的文本区域列表。  允许手动指定带有文字的区域，以便更准确地识别。 如果设置了自定义区域DetectAreas和!:AutoSkew属性将被忽略。  禁用 DetectAreas 和 AutoSkew。
+获取或设置用于处理的文本区域列表。允许手动指定包含文本的区域以获得更准确的识别。禁用 AutoSkew。
 
 ```csharp
-public List<Rectangle> RecognitionAreas { set; }
+public List<Rectangle> RecognitionAreas { get; set; }
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionSettings](../)
-* 命名空间 [Aspose.OCR](../../recognitionsettings/)
-* 部件 [Aspose.OCR](../../../)
+* class [RecognitionSettings](../../recognitionsettings)
+* namespace [Aspose.OCR](../../recognitionsettings)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

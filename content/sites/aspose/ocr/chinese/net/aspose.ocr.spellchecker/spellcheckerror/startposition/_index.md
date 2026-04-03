@@ -1,7 +1,7 @@
 ---
-title: SpellCheckError.StartPosition
-second_title: Aspose.OCR for .NET API 参考
-description: SpellCheckError 财产. 单词在输入文本中的位置
+title: StartPosition
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 输入文本中单词的位置。
 type: docs
 weight: 20
 url: /zh/net/aspose.ocr.spellchecker/spellcheckerror/startposition/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.ocr.spellchecker/spellcheckerror/startposition/
 public int StartPosition { get; set; }
 ```
 
-### 也可以看看
+### 另请参见
 
-* struct [SpellCheckError](../)
-* 命名空间 [Aspose.OCR.SpellChecker](../../spellcheckerror/)
-* 部件 [Aspose.OCR](../../../)
+* struct [SpellCheckError](../../spellcheckerror)
+* namespace [Aspose.OCR.SpellChecker](../../spellcheckerror)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

@@ -1,71 +1,69 @@
 ---
-title: AsposeOcr.RecognizeCarPlate
-second_title: Aspose.OCR for .NET API 参考
-description: AsposeOcr 方法. 识别车牌
+title: RecognizeCarPlate
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 识别车牌上的文本。
 type: docs
-weight: 110
+weight: 140
 url: /zh/net/aspose.ocr/asposeocr/recognizecarplate/
 ---
-## RecognizeCarPlate(string, CarPlateRecognitionSettings) {#recognizecarplate_1}
+## RecognizeCarPlate(OcrInput) {#recognizecarplate}
 
-识别车牌。
+识别车牌上的文本。
 
 ```csharp
-public RecognitionResult RecognizeCarPlate(string fullPath, 
-    CarPlateRecognitionSettings settings = null)
+public OcrOutput RecognizeCarPlate(OcrInput images)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| fullPath | String | 车牌图像的路径。 |
-| settings | CarPlateRecognitionSettings | 识别设置[`CarPlateRecognitionSettings`](../../carplaterecognitionsettings/). |
+| images | OcrInput | 包含源的容器[`OcrInput`](../../ocrinput)。 |
 
 ### 返回值
 
-这[`RecognitionResult`](../../recognitionresult/)具有图像识别结果的对象。
+包含图像识别结果的 [`RecognitionResult`](../../recognitionresult) 对象列表。
 
-### 评论
+### 备注
 
-识别具有指定能力的车牌[`CarPlateRecognitionSettings`](../../carplaterecognitionsettings/). 支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
+识别车牌，并可指定 [`CarPlateRecognitionSettings`](../../carplaterecognitionsettings)。支持 GIF、PNG、JPEG、BMP、TIFF、JFIF、流、目录、数组、存档。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../../recognitionresult/)
-* class [CarPlateRecognitionSettings](../../carplaterecognitionsettings/)
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [OcrOutput](../../ocroutput)
+* class [OcrInput](../../ocrinput)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
 ---
 
-## RecognizeCarPlate(MemoryStream, CarPlateRecognitionSettings) {#recognizecarplate}
+## RecognizeCarPlate(OcrInput, CarPlateRecognitionSettings) {#recognizecarplate_1}
 
-识别车牌。
+识别车牌上的文本。
 
 ```csharp
-public RecognitionResult RecognizeCarPlate(MemoryStream stream, 
-    CarPlateRecognitionSettings settings = null)
+public OcrOutput RecognizeCarPlate(OcrInput images, CarPlateRecognitionSettings settings)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| stream | MemoryStream | 包含收据图像的内存流。 |
-| settings | CarPlateRecognitionSettings | 识别设置[`CarPlateRecognitionSettings`](../../carplaterecognitionsettings/). |
+| images | OcrInput | 包含源的容器[`OcrInput`](../../ocrinput)。 |
+| settings | CarPlateRecognitionSettings | 识别设置 [`CarPlateRecognitionSettings`](../../carplaterecognitionsettings)。 |
 
 ### 返回值
 
-这[`RecognitionResult`](../../recognitionresult/)具有图像识别结果的对象。
+包含图像识别结果的 [`RecognitionResult`](../../recognitionresult) 对象列表。
 
-### 评论
+### 备注
 
-识别具有指定能力的车牌[`CarPlateRecognitionSettings`](../../carplaterecognitionsettings/). 支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
+识别车牌，并可指定 [`CarPlateRecognitionSettings`](../../carplaterecognitionsettings)。支持 GIF、PNG、JPEG、BMP、TIFF、JFIF、流、目录、数组、存档。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../../recognitionresult/)
-* class [CarPlateRecognitionSettings](../../carplaterecognitionsettings/)
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [OcrOutput](../../ocroutput)
+* class [OcrInput](../../ocrinput)
+* class [CarPlateRecognitionSettings](../../carplaterecognitionsettings)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

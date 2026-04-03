@@ -1,55 +1,33 @@
 ---
-title: AsposeOcr.CalculateSkew
-second_title: Aspose.OCR for .NET API 参考
-description: AsposeOcr 方法. 计算图像的倾斜角度
+title: CalculateSkew
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 计算图像的倾斜角度。支持 GIF、PNG、JPEG、BMP、TIFF、JFIF 流、文件夹、数组和归档。
 type: docs
 weight: 30
 url: /zh/net/aspose.ocr/asposeocr/calculateskew/
 ---
-## CalculateSkew(MemoryStream) {#calculateskew}
+## AsposeOcr.CalculateSkew method
 
-计算图像的倾斜角度。
+计算图像的倾斜角度。支持 GIF、PNG、JPEG、BMP、TIFF、JFIF、流、文件夹、数组、归档。
 
 ```csharp
-public float CalculateSkew(MemoryStream stream)
+public List<SkewOutput> CalculateSkew(OcrInput images)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| stream | MemoryStream | 包含图像的内存流。 |
+| images | OcrInput | 包含源的容器[`OcrInput`](../../ocrinput)。 |
 
 ### 返回值
 
-以度为单位的倾斜角度。
+倾斜角度列表（单位：度）[`SkewOutput`](../../skewoutput)。
 
-### 也可以看看
+### 另请参见
 
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [SkewOutput](../../skewoutput)
+* class [OcrInput](../../ocrinput)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
----
-
-## CalculateSkew(string) {#calculateskew_1}
-
-计算图像的倾斜角度。
-
-```csharp
-public float CalculateSkew(string fullPath)
-```
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| fullPath | String | 图片的完整路径。 |
-
-### 返回值
-
-以度为单位的倾斜角度。
-
-### 也可以看看
-
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
-
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

@@ -1,35 +1,35 @@
 ---
-title: RecognitionResult.GetSpellCheckErrorList
-second_title: Aspose.OCR for .NET API 参考
-description: RecognitionResult 方法. 根据给定输入文本的建议拼写查找拼写错误的单词
+title: GetSpellCheckErrorList
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 查找给定输入文本中拼写错误的单词并提供建议拼写。
 type: docs
-weight: 110
+weight: 100
 url: /zh/net/aspose.ocr/recognitionresult/getspellcheckerrorlist/
 ---
 ## RecognitionResult.GetSpellCheckErrorList method
 
-根据给定输入文本的建议拼写查找拼写错误的单词。
+查找给定输入文本中拼写错误的单词并提供建议拼写。
 
 ```csharp
 public List<SpellCheckError> GetSpellCheckErrorList(
     SpellCheckLanguage language = SpellCheckLanguage.Eng, string dictionaryPath = null)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| language | SpellCheckLanguage | 要使用的词典。 |
-| dictionaryPath | String | 可选。用户词典（频率词典）的完整路径。 词典文件格式： UTF-8 编码的纯文本文件。 单词和单词频率由空格或制表符分隔。默认情况下，单词在第一列中，频率在第二列中。 每个单词-单独一行中的频率对。一行定义为字符序列后跟换行符 ("\n")、回车符 ("\r")、 或回车符后紧跟换行符("\r\n"). 每个单词都应该是小写的。 |
+| language | SpellCheckLanguage | Dictionary to use. |
+| dictionaryPath | String | Optionally. Full path to the user dictionary (frequency dictionary). Dictionary file format: Plain text file in UTF-8 encoding. Word and Word Frequency are separated by space or tab.Per default, the word is expected in the first column and the frequency in the second column. Every word-frequency-pair in a separate line.A line is defined as a sequence of characters followed by a line feed ("\n"), a carriage return ("\r"), or a carriage return immediately followed by a line feed("\r\n"). Every word is expected to be in lower case. |
 
 ### 返回值
 
-SpellCheckError 对象列表表示拼写错误的单词，其中列出了每个拼写错误的单词的建议正确拼写， 和编辑距离。
+一个 SpellCheckError 对象的列表，表示拼写错误的单词，并为每个拼写错误的单词提供建议的正确拼写列表，以及编辑距离。
 
-### 也可以看看
+### 另请参见
 
-* struct [SpellCheckError](../../../aspose.ocr.spellchecker/spellcheckerror/)
-* enum [SpellCheckLanguage](../../../aspose.ocr.spellchecker/spellchecklanguage/)
-* class [RecognitionResult](../)
-* 命名空间 [Aspose.OCR](../../recognitionresult/)
-* 部件 [Aspose.OCR](../../../)
+* struct [SpellCheckError](../../../aspose.ocr.spellchecker/spellcheckerror)
+* enum [SpellCheckLanguage](../../../aspose.ocr.spellchecker/spellchecklanguage)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OCR](../../recognitionresult)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

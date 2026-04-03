@@ -1,23 +1,23 @@
 ---
-title: SpellCheckError.Word
-second_title: Aspose.OCR for .NET API 参考
-description: SpellCheckError 财产. 单词被拼错了
+title: 单词
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 被拼错的单词。
 type: docs
 weight: 40
 url: /zh/net/aspose.ocr.spellchecker/spellcheckerror/word/
 ---
 ## SpellCheckError.Word property
 
-单词被拼错了。
+被拼错的单词。
 
 ```csharp
 public string Word { get; set; }
 ```
 
-### 也可以看看
+### 另请参见
 
-* struct [SpellCheckError](../)
-* 命名空间 [Aspose.OCR.SpellChecker](../../spellcheckerror/)
-* 部件 [Aspose.OCR](../../../)
+* struct [SpellCheckError](../../spellcheckerror)
+* namespace [Aspose.OCR.SpellChecker](../../spellcheckerror)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

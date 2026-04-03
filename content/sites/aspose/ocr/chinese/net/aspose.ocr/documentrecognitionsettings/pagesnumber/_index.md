@@ -1,27 +1,27 @@
 ---
-title: DocumentRecognitionSettings.PagesNumber
-second_title: Aspose.OCR for .NET API 参考
-description: DocumentRecognitionSettings 财产. 设置识别多页pdf文件的页数.
+title: PagesNumber
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 设置多页 PDF 文件的识别页数。
 type: docs
 weight: 20
 url: /zh/net/aspose.ocr/documentrecognitionsettings/pagesnumber/
 ---
 ## DocumentRecognitionSettings.PagesNumber property
 
-设置识别多页pdf文件的页数.
+设置多页 PDF 文件的识别页数。
 
 ```csharp
 public int PagesNumber { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-默认是`1个` .
+默认值为 `1`。
 
-### 也可以看看
+### 另请参见
 
-* class [DocumentRecognitionSettings](../)
-* 命名空间 [Aspose.OCR](../../documentrecognitionsettings/)
-* 部件 [Aspose.OCR](../../../)
+* class [DocumentRecognitionSettings](../../documentrecognitionsettings)
+* namespace [Aspose.OCR](../../documentrecognitionsettings)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

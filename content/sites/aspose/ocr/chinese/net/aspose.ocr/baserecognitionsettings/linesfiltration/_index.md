@@ -1,27 +1,27 @@
 ---
-title: BaseRecognitionSettings.LinesFiltration
-second_title: Aspose.OCR for .NET API 参考
-description: BaseRecognitionSettings 财产. 允许识别表格中的文本区域包围线
+title: 线条过滤
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 允许识别被线条包围的表格区域中的文本。
 type: docs
 weight: 90
 url: /zh/net/aspose.ocr/baserecognitionsettings/linesfiltration/
 ---
 ## BaseRecognitionSettings.LinesFiltration property
 
-允许识别表格中的文本（区域包围线）。
+允许识别表格中的文本（被线条包围的区域）。
 
 ```csharp
 public bool LinesFiltration { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`错误的`允许提高性能并且不检测表和删除行；否则`真的`.默认是`错误的` .
+`false` 可提升性能且不检测表格并移除线条；否则为 `true`。默认值为 `false`。
 
-### 也可以看看
+### 另请参见
 
-* class [BaseRecognitionSettings](../)
-* 命名空间 [Aspose.OCR](../../baserecognitionsettings/)
-* 部件 [Aspose.OCR](../../../)
+* class [BaseRecognitionSettings](../../baserecognitionsettings)
+* namespace [Aspose.OCR](../../baserecognitionsettings)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

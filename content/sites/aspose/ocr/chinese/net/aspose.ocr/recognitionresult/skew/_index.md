@@ -1,9 +1,9 @@
 ---
-title: RecognitionResult.Skew
-second_title: Aspose.OCR for .NET API 参考
-description: RecognitionResult 财产. 获取倾斜角度
+title: 倾斜
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 获取倾斜角度。
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.ocr/recognitionresult/skew/
 ---
 ## RecognitionResult.Skew property
@@ -11,13 +11,13 @@ url: /zh/net/aspose.ocr/recognitionresult/skew/
 获取倾斜角度。
 
 ```csharp
-public float Skew { get; }
+public float Skew { get; set; }
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../)
-* 命名空间 [Aspose.OCR](../../recognitionresult/)
-* 部件 [Aspose.OCR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OCR](../../recognitionresult)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

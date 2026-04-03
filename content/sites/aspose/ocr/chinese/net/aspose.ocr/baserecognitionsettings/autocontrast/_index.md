@@ -1,7 +1,7 @@
 ---
-title: BaseRecognitionSettings.AutoContrast
-second_title: Aspose.OCR for .NET API 参考
-description: BaseRecognitionSettings 财产. 允许在识别前对图像使用额外的对比度校正算法
+title: 自动对比度
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 允许在识别前对图像使用额外的对比度校正算法。
 type: docs
 weight: 30
 url: /zh/net/aspose.ocr/baserecognitionsettings/autocontrast/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.ocr/baserecognitionsettings/autocontrast/
 public bool AutoContrast { get; set; }
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [BaseRecognitionSettings](../)
-* 命名空间 [Aspose.OCR](../../baserecognitionsettings/)
-* 部件 [Aspose.OCR](../../../)
+* class [BaseRecognitionSettings](../../baserecognitionsettings)
+* namespace [Aspose.OCR](../../baserecognitionsettings)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

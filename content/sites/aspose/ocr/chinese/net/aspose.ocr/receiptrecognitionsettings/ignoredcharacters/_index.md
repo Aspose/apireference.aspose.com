@@ -1,23 +1,23 @@
 ---
-title: ReceiptRecognitionSettings.IgnoredCharacters
-second_title: Aspose.OCR for .NET API 参考
-description: ReceiptRecognitionSettings 财产. 为识别符号设置黑名单
+title: 忽略的字符
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 设置识别符号的黑名单。
 type: docs
 weight: 40
 url: /zh/net/aspose.ocr/receiptrecognitionsettings/ignoredcharacters/
 ---
 ## ReceiptRecognitionSettings.IgnoredCharacters property
 
-为识别符号设置黑名单。
+设置识别符号的黑名单。
 
 ```csharp
 public string IgnoredCharacters { get; set; }
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [ReceiptRecognitionSettings](../)
-* 命名空间 [Aspose.OCR](../../receiptrecognitionsettings/)
-* 部件 [Aspose.OCR](../../../)
+* class [ReceiptRecognitionSettings](../../receiptrecognitionsettings)
+* namespace [Aspose.OCR](../../receiptrecognitionsettings)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

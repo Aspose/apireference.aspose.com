@@ -1,24 +1,24 @@
 ---
-title: BaseRecognitionSettings.Language
-second_title: Aspose.OCR for .NET API 参考
-description: BaseRecognitionSettings 财产. 获取或设置用于 OCR 的语言  确定识别时使用的字母表 默认为多语言
+title: 语言
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 获取或设置用于 OCR 的语言。确定识别期间使用的字母表。默认情况下为多语言。
 type: docs
-weight: 80
+weight: 60
 url: /zh/net/aspose.ocr/baserecognitionsettings/language/
 ---
 ## BaseRecognitionSettings.Language property
 
-获取或设置用于 OCR 的语言。  确定识别时使用的字母表。 默认为多语言。
+获取或设置用于 OCR 的语言。确定识别期间使用的字母表。默认情况下为多语言。
 
 ```csharp
-public Language Language { set; }
+public Language Language { get; set; }
 ```
 
-### 也可以看看
+### 另请参见
 
-* enum [Language](../../language/)
-* class [BaseRecognitionSettings](../)
-* 命名空间 [Aspose.OCR](../../baserecognitionsettings/)
-* 部件 [Aspose.OCR](../../../)
+* enum [Language](../../language)
+* class [BaseRecognitionSettings](../../baserecognitionsettings)
+* namespace [Aspose.OCR](../../baserecognitionsettings)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

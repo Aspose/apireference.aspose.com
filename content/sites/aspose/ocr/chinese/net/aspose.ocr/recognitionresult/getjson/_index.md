@@ -1,31 +1,31 @@
 ---
-title: RecognitionResult.GetJson
-second_title: Aspose.OCR for .NET API 参考
-description: RecognitionResult 方法. 形成带有识别结果的 JSON 字符串
+title: GetJson
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 生成包含识别结果的 JSON 字符串。
 type: docs
-weight: 90
+weight: 70
 url: /zh/net/aspose.ocr/recognitionresult/getjson/
 ---
 ## RecognitionResult.GetJson method
 
-形成带有识别结果的 JSON 字符串。
+生成包含识别结果的 JSON 字符串。
 
 ```csharp
 public string GetJson(bool isReadable = false)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| isReadable | Boolean | 确定 json 是否是人类可读的。 |
+| isReadable | Boolean | 确定 json 是否为人类可读格式。 |
 
 ### 返回值
 
-识别结果为 JSON 字符串。
+识别结果以 JSON 字符串形式返回。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../)
-* 命名空间 [Aspose.OCR](../../recognitionresult/)
-* 部件 [Aspose.OCR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OCR](../../recognitionresult)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

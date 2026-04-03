@@ -1,70 +1,69 @@
 ---
-title: AsposeOcr.RecognizeIDCard
-second_title: Aspose.OCR for .NET API 参考
-description: AsposeOcr 方法. 识别身份证上的文字
+title: RecognizeIDCard
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 识别身份证上的文本。
 type: docs
-weight: 130
+weight: 200
 url: /zh/net/aspose.ocr/asposeocr/recognizeidcard/
 ---
-## RecognizeIDCard(string, IDCardRecognitionSettings) {#recognizeidcard_1}
+## RecognizeIDCard(OcrInput) {#recognizeidcard}
 
-识别身份证上的文字。
+识别身份证上的文本。
 
 ```csharp
-public RecognitionResult RecognizeIDCard(string fullPath, IDCardRecognitionSettings settings = null)
+public OcrOutput RecognizeIDCard(OcrInput images)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| fullPath | String | 图片的路径。 |
-| settings | IDCardRecognitionSettings | 识别设置[`IDCardRecognitionSettings`](../../idcardrecognitionsettings/). |
+| images | OcrInput | 包含源的容器[`OcrInput`](../../ocrinput)。 |
 
 ### 返回值
 
-这[`RecognitionResult`](../../recognitionresult/)具有图像识别结果的对象。
+包含图像识别结果的 [`RecognitionResult`](../../recognitionresult) 对象列表。
 
-### 评论
+### 备注
 
-识别具有指定能力的图像[`IDCardRecognitionSettings`](../../idcardrecognitionsettings/). 支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
+识别身份证，并可指定 [`IDCardRecognitionSettings`](../../idcardrecognitionsettings)。支持 GIF、PNG、JPEG、BMP、TIFF、JFIF、流、目录、数组、存档。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../../recognitionresult/)
-* class [IDCardRecognitionSettings](../../idcardrecognitionsettings/)
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [OcrOutput](../../ocroutput)
+* class [OcrInput](../../ocrinput)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
 ---
 
-## RecognizeIDCard(MemoryStream, IDCardRecognitionSettings) {#recognizeidcard}
+## RecognizeIDCard(OcrInput, IDCardRecognitionSettings) {#recognizeidcard_1}
 
-识别身份证上的文字。
+识别身份证上的文本。
 
 ```csharp
-public RecognitionResult RecognizeIDCard(MemoryStream stream, 
-    IDCardRecognitionSettings settings = null)
+public OcrOutput RecognizeIDCard(OcrInput images, IDCardRecognitionSettings settings)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| stream | MemoryStream | 包含收据图像的内存流。 |
-| settings | IDCardRecognitionSettings | 识别设置[`IDCardRecognitionSettings`](../../idcardrecognitionsettings/). |
+| images | OcrInput | 包含源的容器[`OcrInput`](../../ocrinput)。 |
+| settings | IDCardRecognitionSettings | 识别设置 [`IDCardRecognitionSettings`](../../idcardrecognitionsettings)。 |
 
 ### 返回值
 
-这[`RecognitionResult`](../../recognitionresult/)具有图像识别结果的对象。
+包含图像识别结果的 [`RecognitionResult`](../../recognitionresult) 对象列表。
 
-### 评论
+### 备注
 
-识别具有指定能力的图像[`IDCardRecognitionSettings`](../../idcardrecognitionsettings/). 支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
+识别身份证，并可指定 [`IDCardRecognitionSettings`](../../idcardrecognitionsettings)。支持 GIF、PNG、JPEG、BMP、TIFF、JFIF、流、目录、数组、存档。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../../recognitionresult/)
-* class [IDCardRecognitionSettings](../../idcardrecognitionsettings/)
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [OcrOutput](../../ocroutput)
+* class [OcrInput](../../ocrinput)
+* class [IDCardRecognitionSettings](../../idcardrecognitionsettings)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

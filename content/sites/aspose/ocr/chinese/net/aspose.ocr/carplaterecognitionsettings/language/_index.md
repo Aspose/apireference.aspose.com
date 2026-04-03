@@ -1,24 +1,24 @@
 ---
-title: CarPlateRecognitionSettings.Language
-second_title: Aspose.OCR for .NET API 参考
-description: CarPlateRecognitionSettings 财产. 获取或设置用于 OCR 的语言  确定识别时使用的字母表 默认为多语言
+title: 语言
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 获取或设置用于 OCR 的语言。确定识别期间使用的字母表。默认情况下为多语言。
 type: docs
-weight: 40
+weight: 60
 url: /zh/net/aspose.ocr/carplaterecognitionsettings/language/
 ---
 ## CarPlateRecognitionSettings.Language property
 
-获取或设置用于 OCR 的语言。  确定识别时使用的字母表。 默认为多语言。
+获取或设置用于 OCR 的语言。确定识别期间使用的字母表。默认情况下为多语言。
 
 ```csharp
-public Language Language { set; }
+public Language Language { get; set; }
 ```
 
-### 也可以看看
+### 另请参见
 
-* enum [Language](../../language/)
-* class [CarPlateRecognitionSettings](../)
-* 命名空间 [Aspose.OCR](../../carplaterecognitionsettings/)
-* 部件 [Aspose.OCR](../../../)
+* enum [Language](../../language)
+* class [CarPlateRecognitionSettings](../../carplaterecognitionsettings)
+* namespace [Aspose.OCR](../../carplaterecognitionsettings)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

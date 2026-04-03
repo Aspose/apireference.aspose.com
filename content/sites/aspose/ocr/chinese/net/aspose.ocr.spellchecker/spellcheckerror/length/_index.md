@@ -1,23 +1,23 @@
 ---
-title: SpellCheckError.Length
-second_title: Aspose.OCR for .NET API 参考
-description: SpellCheckError 财产. 输入文本中拼错单词的长度
+title: 长度
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 输入文本中 Msspelled 单词的长度。
 type: docs
 weight: 10
 url: /zh/net/aspose.ocr.spellchecker/spellcheckerror/length/
 ---
 ## SpellCheckError.Length property
 
-输入文本中拼错单词的长度。
+输入文本中拼写错误单词的长度。
 
 ```csharp
 public int Length { get; set; }
 ```
 
-### 也可以看看
+### 另请参见
 
-* struct [SpellCheckError](../)
-* 命名空间 [Aspose.OCR.SpellChecker](../../spellcheckerror/)
-* 部件 [Aspose.OCR](../../../)
+* struct [SpellCheckError](../../spellcheckerror)
+* namespace [Aspose.OCR.SpellChecker](../../spellcheckerror)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

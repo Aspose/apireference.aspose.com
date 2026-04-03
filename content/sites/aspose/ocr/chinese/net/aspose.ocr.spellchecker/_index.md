@@ -1,23 +1,17 @@
 ---
 title: Aspose.OCR.SpellChecker
-second_title: Aspose.OCR for .NET API 参考
-description: 
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 该 Aspose.OCR.SpellChecker 包含用于拼写错误文本纠正的类。
 type: docs
-weight: 50
+weight: 60
 url: /zh/net/aspose.ocr.spellchecker/
 ---
+该 **Aspose.OCR.SpellChecker** 包含用于纠正拼写错误文本的类。
 
-
-## 结构
-
-| 结构 | 描述 |
-| --- | --- |
-| [SpellCheckError](./spellcheckerror/) | 用附加数据表示拼写错误的单词。 |
-| [SuggestedWord](./suggestedword/) | 从 GetSpellCheckErrorList. 返回的拼写建议 |
 ## 枚举
 
 | 枚举 | 描述 |
 | --- | --- |
-| [SpellCheckLanguage](./spellchecklanguage/) | 用于拼写检查的语言（现有词典）。 |
+| [SpellCheckLanguage](./spellchecklanguage) | 用于拼写检查的语言（现有词典）。 |
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

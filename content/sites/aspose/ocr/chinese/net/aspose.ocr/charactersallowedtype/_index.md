@@ -1,9 +1,9 @@
 ---
-title: Enum CharactersAllowedType
-second_title: Aspose.OCR for .NET API 参考
-description: Aspose.OCR.CharactersAllowedType 枚举. 确定识别结果允许的字符类型
+title: CharactersAllowedType
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 确定识别结果允许的字符类型。
 type: docs
-weight: 50
+weight: 70
 url: /zh/net/aspose.ocr/charactersallowedtype/
 ---
 ## CharactersAllowedType enumeration
@@ -14,21 +14,21 @@ url: /zh/net/aspose.ocr/charactersallowedtype/
 public enum CharactersAllowedType
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | ALL | `0` | 识别所有字符。 |
-| LATIN_ALPHABET | `1` | 仅当字符是拉丁字母时才识别。 |
-| DIGITS | `2` | 仅当字符为十六进制数字时才识别。 |
+| LATIN_ALPHABET | `1` | 仅在字符是拉丁字母时进行识别。 |
+| DIGITS | `2` | 仅在字符是十六进制数字时进行识别。 |
 
-### 评论
+### 备注
 
-用于[`RecognitionSettings`](../recognitionsettings/)指示将识别哪些字符。
+在 [`RecognitionSettings`](../recognitionsettings) 中使用，以指示将识别哪些字符。
 
-### 也可以看看
+### 另请参见
 
-* 命名空间 [Aspose.OCR](../../aspose.ocr/)
-* 部件 [Aspose.OCR](../../)
+* namespace [Aspose.OCR](../../aspose.ocr)
+* assembly [Aspose.OCR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

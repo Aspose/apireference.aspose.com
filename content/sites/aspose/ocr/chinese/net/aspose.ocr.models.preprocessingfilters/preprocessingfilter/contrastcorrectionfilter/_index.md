@@ -1,14 +1,14 @@
 ---
-title: PreprocessingFilter.ContrastCorrectionFilter
-second_title: Aspose.OCR for .NET API 参考
-description: PreprocessingFilter 方法. 对比度校正滤镜.
+title: ContrastCorrectionFilter
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 对比度校正过滤器。
 type: docs
-weight: 60
+weight: 80
 url: /zh/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/contrastcorrectionfilter/
 ---
 ## ContrastCorrectionFilter() {#contrastcorrectionfilter}
 
-对比度校正滤镜.
+对比度校正过滤器。
 
 ```csharp
 public static PreprocessingFilter ContrastCorrectionFilter()
@@ -18,34 +18,34 @@ public static PreprocessingFilter ContrastCorrectionFilter()
 
 ContrastCorrectionFilter 对象。
 
-### 也可以看看
+### 另请参见
 
-* class [PreprocessingFilter](../)
-* 命名空间 [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter/)
-* 部件 [Aspose.OCR](../../../)
+* class [PreprocessingFilter](../../preprocessingfilter)
+* namespace [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter)
+* assembly [Aspose.OCR](../../../)
 
 ---
 
 ## ContrastCorrectionFilter(Rectangle) {#contrastcorrectionfilter_1}
 
-图像部分的对比度校正滤镜。
+图像部分的对比度校正过滤器。
 
 ```csharp
 public static PreprocessingFilter ContrastCorrectionFilter(Rectangle area)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| area | Rectangle | 要校正的图像部分的坐标。 |
+| 区域 | Rectangle | 要校正的图像部分的坐标。 |
 
 ### 返回值
 
 ContrastCorrectionFilter 对象。
 
-### 也可以看看
+### 另请参见
 
-* class [PreprocessingFilter](../)
-* 命名空间 [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter/)
-* 部件 [Aspose.OCR](../../../)
+* class [PreprocessingFilter](../../preprocessingfilter)
+* namespace [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

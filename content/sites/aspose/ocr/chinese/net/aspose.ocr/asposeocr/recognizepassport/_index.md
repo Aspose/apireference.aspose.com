@@ -1,71 +1,69 @@
 ---
-title: AsposeOcr.RecognizePassport
-second_title: Aspose.OCR for .NET API 参考
-description: AsposeOcr 方法. 识别护照上的文字
+title: RecognizePassport
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 识别护照上的文本。
 type: docs
-weight: 210
+weight: 230
 url: /zh/net/aspose.ocr/asposeocr/recognizepassport/
 ---
-## RecognizePassport(string, PassportRecognitionSettings) {#recognizepassport_1}
+## RecognizePassport(OcrInput) {#recognizepassport}
 
-识别护照上的文字。
+识别护照上的文本。
 
 ```csharp
-public RecognitionResult RecognizePassport(string fullPath, 
-    PassportRecognitionSettings settings = null)
+public OcrOutput RecognizePassport(OcrInput images)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| fullPath | String | 图片的路径。 |
-| settings | PassportRecognitionSettings | 识别设置[`PassportRecognitionSettings`](../../passportrecognitionsettings/). |
+| images | OcrInput | 包含源的容器[`OcrInput`](../../ocrinput)。 |
 
 ### 返回值
 
-这[`RecognitionResult`](../../recognitionresult/)具有图像识别结果的对象。
+包含图像识别结果的 [`RecognitionResult`](../../recognitionresult) 对象列表。
 
-### 评论
+### 备注
 
-识别具有指定能力的图像[`PassportRecognitionSettings`](../../passportrecognitionsettings/). 支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
+识别护照，并可指定 [`PassportRecognitionSettings`](../../passportrecognitionsettings)。支持 GIF、PNG、JPEG、BMP、TIFF、JFIF、流、目录、数组、存档。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../../recognitionresult/)
-* class [PassportRecognitionSettings](../../passportrecognitionsettings/)
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [OcrOutput](../../ocroutput)
+* class [OcrInput](../../ocrinput)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
 ---
 
-## RecognizePassport(MemoryStream, PassportRecognitionSettings) {#recognizepassport}
+## RecognizePassport(OcrInput, PassportRecognitionSettings) {#recognizepassport_1}
 
-识别护照上的文字。
+识别护照上的文本。
 
 ```csharp
-public RecognitionResult RecognizePassport(MemoryStream stream, 
-    PassportRecognitionSettings settings = null)
+public OcrOutput RecognizePassport(OcrInput images, PassportRecognitionSettings settings)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| stream | MemoryStream | 包含收据图像的内存流。 |
-| settings | PassportRecognitionSettings | 识别设置[`PassportRecognitionSettings`](../../passportrecognitionsettings/). |
+| images | OcrInput | 包含源的容器[`OcrInput`](../../ocrinput)。 |
+| settings | PassportRecognitionSettings | 识别设置 [`PassportRecognitionSettings`](../../passportrecognitionsettings)。 |
 
 ### 返回值
 
-这[`RecognitionResult`](../../recognitionresult/)具有图像识别结果的对象。
+包含图像识别结果的 [`RecognitionResult`](../../recognitionresult) 对象列表。
 
-### 评论
+### 备注
 
-识别具有指定能力的图像[`PassportRecognitionSettings`](../../passportrecognitionsettings/). 支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
+识别护照，并可指定 [`PassportRecognitionSettings`](../../passportrecognitionsettings)。支持 GIF、PNG、JPEG、BMP、TIFF、JFIF、流、目录、数组、存档。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../../recognitionresult/)
-* class [PassportRecognitionSettings](../../passportrecognitionsettings/)
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [OcrOutput](../../ocroutput)
+* class [OcrInput](../../ocrinput)
+* class [PassportRecognitionSettings](../../passportrecognitionsettings)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

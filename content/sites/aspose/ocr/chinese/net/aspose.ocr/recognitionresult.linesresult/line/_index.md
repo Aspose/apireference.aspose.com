@@ -1,23 +1,23 @@
 ---
-title: RecognitionResult.LinesResult.Line
-second_title: Aspose.OCR for .NET API 参考
-description: LinesResult 财产. 行坐标.
+title: 行
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 行坐标。
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.ocr/recognitionresult.linesresult/line/
 ---
 ## RecognitionResult.LinesResult.Line property
 
-行坐标.
+行坐标。
 
 ```csharp
 public Rectangle Line { get; set; }
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [LinesResult](../)
-* 命名空间 [Aspose.OCR](../../recognitionresult.linesresult/)
-* 部件 [Aspose.OCR](../../../)
+* class [LinesResult](../../recognitionresult.linesresult)
+* namespace [Aspose.OCR](../../recognitionresult.linesresult)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

@@ -1,7 +1,7 @@
 ---
-title: Logging.Console
-second_title: Aspose.OCR for .NET API 参考
-description: Logging 财产. 设置或获取  日志显示在控制台上
+title: Console
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 设置或获取 - 日志显示在控制台上。
 type: docs
 weight: 10
 url: /zh/net/aspose.ocr/logging/console/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.ocr/logging/console/
 public static bool Console { get; set; }
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [Logging](../)
-* 命名空间 [Aspose.OCR](../../logging/)
-* 部件 [Aspose.OCR](../../../)
+* class [Logging](../../logging)
+* namespace [Aspose.OCR](../../logging)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

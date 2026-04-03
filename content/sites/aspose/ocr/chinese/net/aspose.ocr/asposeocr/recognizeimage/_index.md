@@ -1,7 +1,7 @@
 ---
-title: AsposeOcr.RecognizeImage
-second_title: Aspose.OCR for .NET API 参考
-description: AsposeOcr 方法. 识别图像上的文本
+title: RecognizeImage
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 识别图像上的文本。
 type: docs
 weight: 140
 url: /zh/net/aspose.ocr/asposeocr/recognizeimage/
@@ -14,23 +14,23 @@ url: /zh/net/aspose.ocr/asposeocr/recognizeimage/
 public string RecognizeImage(string fullPath)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| fullPath | String | 图片的路径。 |
+| fullPath | String | 图像的路径。 |
 
 ### 返回值
 
-识别的文本。
+已识别的文本。
 
-### 评论
+### 备注
 
-使用自动图像倾斜校正和文本区域检测。 支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
+使用自动图像倾斜校正和文本区域检测。支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
 
-### 也可以看看
+### 另请参见
 
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
 ---
 
@@ -42,26 +42,26 @@ public string RecognizeImage(string fullPath)
 public RecognitionResult RecognizeImage(string fullPath, RecognitionSettings settings)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| fullPath | String | 图片的路径。 |
-| settings | RecognitionSettings | 识别设置。 |
+| fullPath | String | 图像的路径。 |
+| settings | RecognitionSettings | Recognition settings. |
 
 ### 返回值
 
-这[`RecognitionResult`](../../recognitionresult/)具有图像识别结果的对象。
+包含图像识别结果的 [`RecognitionResult`](../../recognitionresult) 对象。
 
-### 评论
+### 备注
 
-识别具有指定能力的图像[`RecognitionSettings`](../../recognitionsettings/). 支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
+识别图像并可指定[`RecognitionSettings`](../../recognitionsettings)。支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../../recognitionresult/)
-* class [RecognitionSettings](../../recognitionsettings/)
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* class [RecognitionSettings](../../recognitionsettings)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
 ---
 
@@ -73,50 +73,50 @@ public RecognitionResult RecognizeImage(string fullPath, RecognitionSettings set
 public string RecognizeImage(MemoryStream stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| stream | MemoryStream | 包含图像的内存流。 |
+| 流 | MemoryStream | 包含图像的内存流。 |
 
 ### 返回值
 
-识别的文本。
+已识别的文本。
 
-### 评论
+### 备注
 
-使用自动图像倾斜校正和文本区域检测。 支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
+使用自动图像倾斜校正和文本区域检测。支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
 
-### 也可以看看
+### 另请参见
 
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
 ---
 
 ## RecognizeImage(MemoryStream, RecognitionSettings) {#recognizeimage_2}
 
-识别图像上的文本。  识别具有指定能力的图像[`RecognitionSettings`](../../recognitionsettings/). 支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
+识别图像上的文本。可通过指定 [`RecognitionSettings`](../../recognitionsettings) 来识别图像。支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
 
 ```csharp
 public RecognitionResult RecognizeImage(MemoryStream stream, RecognitionSettings settings)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| stream | MemoryStream | 包含图像的内存流。 |
-| settings | RecognitionSettings | 识别设置。 |
+| 流 | MemoryStream | 包含图像的内存流。 |
+| settings | RecognitionSettings | Recognition settings. |
 
 ### 返回值
 
-这[`RecognitionResult`](../../recognitionresult/)具有图像识别结果的对象。
+包含图像识别结果的 [`RecognitionResult`](../../recognitionresult) 对象。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../../recognitionresult/)
-* class [RecognitionSettings](../../recognitionsettings/)
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* class [RecognitionSettings](../../recognitionsettings)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
 ---
 
@@ -129,30 +129,30 @@ public RecognitionResult RecognizeImage(byte[] imageData, int width, int height,
     PixelType pixelFormat, RecognitionSettings settings = null)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| imageData | Byte[] | 字节数组中的解码图像。使用 bitsPerPixel &gt; 1 的 RGB 照明技术。 |
+| imageData | Byte[] | 以字节数组形式解码的图像。对于 bitsPerPixel > 1，使用 RGB 照明技术。 |
 | width | Int32 | 图像宽度。 |
-| height | Int32 | 图像高度。 |
-| pixelFormat | PixelType | 支持字节、rgb、bgr、rgba。 |
-| settings | RecognitionSettings | 识别设置。 |
+| 高度 | Int32 | 图像高度。 |
+| pixelFormat | PixelType | 支持 byte、rgb、bgr、rgba。 |
+| settings | RecognitionSettings | Recognition settings. |
 
 ### 返回值
 
-这[`RecognitionResult`](../../recognitionresult/)具有图像识别结果的对象。
+包含图像识别结果的 [`RecognitionResult`](../../recognitionresult) 对象。
 
-### 评论
+### 备注
 
-识别具有指定能力的图像[`RecognitionSettings`](../../recognitionsettings/) . 支持行解码字节数据。
+识别图像并可指定 [`RecognitionSettings`](../../recognitionsettings)。支持行解码字节数据。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../../recognitionresult/)
-* enum [PixelType](../../pixeltype/)
-* class [RecognitionSettings](../../recognitionsettings/)
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* enum [PixelType](../../pixeltype)
+* class [RecognitionSettings](../../recognitionsettings)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
 ---
 
@@ -165,27 +165,27 @@ public RecognitionResult RecognizeImage(Color[] imageData, int width, int height
     RecognitionSettings settings = null)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| imageData | Color[] | Aspose.Drawing.Color 数组中的解码图像。 |
+| imageData | Color[] | 在 Aspose.Drawing.Color 数组中的解码图像。 |
 | width | Int32 | 图像宽度。 |
-| height | Int32 | 图像高度。 |
-| settings | RecognitionSettings | 识别设置。 |
+| 高度 | Int32 | 图像高度。 |
+| settings | RecognitionSettings | Recognition settings. |
 
 ### 返回值
 
-这[`RecognitionResult`](../../recognitionresult/)具有图像识别结果的对象。
+包含图像识别结果的 [`RecognitionResult`](../../recognitionresult) 对象。
 
-### 评论
+### 备注
 
-识别具有指定能力的图像[`RecognitionSettings`](../../recognitionsettings/) . 支持行解码字节数据。
+识别图像并可指定 [`RecognitionSettings`](../../recognitionsettings)。支持行解码字节数据。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../../recognitionresult/)
-* class [RecognitionSettings](../../recognitionsettings/)
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* class [RecognitionSettings](../../recognitionsettings)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

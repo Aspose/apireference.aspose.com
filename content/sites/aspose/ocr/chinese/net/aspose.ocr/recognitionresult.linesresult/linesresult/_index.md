@@ -1,23 +1,23 @@
 ---
-title: RecognitionResult.LinesResult.LinesResult
-second_title: Aspose.OCR for .NET API 参考
-description: LinesResult 构造函数. 默认构造函数
+title: LinesResult
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: LinesResult 对象的构造函数。
 type: docs
 weight: 10
 url: /zh/net/aspose.ocr/recognitionresult.linesresult/linesresult/
 ---
 ## RecognitionResult.LinesResult constructor
 
-默认构造函数。
+LinesResult 对象的构造函数。
 
 ```csharp
 public LinesResult()
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [LinesResult](../)
-* 命名空间 [Aspose.OCR](../../recognitionresult.linesresult/)
-* 部件 [Aspose.OCR](../../../)
+* class [LinesResult](../../recognitionresult.linesresult)
+* namespace [Aspose.OCR](../../recognitionresult.linesresult)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

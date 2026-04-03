@@ -1,31 +1,31 @@
 ---
-title: AsposeOcr.CalculateSkewFromUri
-second_title: Aspose.OCR for .NET API 参考
-description: AsposeOcr 方法. 根据 URI. 计算图像的倾斜角度
+title: CalculateSkewFromUri
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 从 URI 计算图像的倾斜角度。
 type: docs
 weight: 40
 url: /zh/net/aspose.ocr/asposeocr/calculateskewfromuri/
 ---
 ## AsposeOcr.CalculateSkewFromUri method
 
-根据 URI. 计算图像的倾斜角度
+从 URI 计算图像的倾斜角度。
 
 ```csharp
 public float CalculateSkewFromUri(string uri)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| uri | String | 图片的 URI 链接。 |
+| uri | String | URI link to the image. |
 
 ### 返回值
 
-以度为单位的倾斜角度。
+倾斜角度（单位：度）。
 
-### 也可以看看
+### 另请参见
 
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

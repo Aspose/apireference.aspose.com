@@ -1,14 +1,14 @@
 ---
-title: PreprocessingFilter.GetEnumerator
-second_title: Aspose.OCR for .NET API 参考
-description: PreprocessingFilter 方法. 用于IEnumarable接口实现
+title: GetEnumerator
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 用于 IEnumarable 接口的实现。
 type: docs
-weight: 160
+weight: 180
 url: /zh/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/getenumerator/
 ---
 ## PreprocessingFilter.GetEnumerator method
 
-用于IEnumarable接口实现。
+用于 IEnumarable 接口的实现。
 
 ```csharp
 public IEnumerator GetEnumerator()
@@ -16,12 +16,12 @@ public IEnumerator GetEnumerator()
 
 ### 返回值
 
-枚举器
+IEnumerator
 
-### 也可以看看
+### 另请参见
 
-* class [PreprocessingFilter](../)
-* 命名空间 [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter/)
-* 部件 [Aspose.OCR](../../../)
+* class [PreprocessingFilter](../../preprocessingfilter)
+* namespace [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

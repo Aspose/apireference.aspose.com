@@ -1,62 +1,62 @@
 ---
-title: AsposeOcr.RecognizePdf
-second_title: Aspose.OCR for .NET API 参考
-description: AsposeOcr 方法. 从扫描的 pdf 中识别文本提取图像  识别具有指定能力的 pdf 文件DocumentRecognitionSettings. 仅支持扫描的 PDF不支持可搜索的 PDF.
+title: RecognizePdf
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 从扫描的 PDF 中提取图像识别文本。识别 PDF 文件，可指定 DocumentRecognitionSettingsaspose.ocr/documentrecognitionsettings。仅支持扫描的 PDF。不支持可搜索的 PDF。
 type: docs
 weight: 220
 url: /zh/net/aspose.ocr/asposeocr/recognizepdf/
 ---
 ## RecognizePdf(string, DocumentRecognitionSettings) {#recognizepdf_1}
 
-从扫描的 pdf 中识别文本（提取图像）。  识别具有指定能力的 pdf 文件[`DocumentRecognitionSettings`](../../documentrecognitionsettings/). 仅支持扫描的 PDF。不支持可搜索的 PDF.
+从扫描的 PDF（提取图像）中识别文本。识别 PDF 文件，可指定 [`DocumentRecognitionSettings`](../../documentrecognitionsettings)。仅支持扫描的 PDF。不支持可搜索的 PDF。
 
 ```csharp
 public List<RecognitionResult> RecognizePdf(string fullPath, DocumentRecognitionSettings settings)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| fullPath | String | 图片的完整路径。 |
-| settings | DocumentRecognitionSettings | 识别设置。 |
+| fullPath | String | 图像的完整路径。 |
+| settings | DocumentRecognitionSettings | Recognition settings. |
 
 ### 返回值
 
-这[`RecognitionResult`](../../recognitionresult/)具有图像识别结果的对象。
+包含图像识别结果的 [`RecognitionResult`](../../recognitionresult) 对象。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../../recognitionresult/)
-* class [DocumentRecognitionSettings](../../documentrecognitionsettings/)
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* class [DocumentRecognitionSettings](../../documentrecognitionsettings)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
 ---
 
 ## RecognizePdf(MemoryStream, DocumentRecognitionSettings) {#recognizepdf}
 
-从扫描的 pdf 中识别文本（提取图像）。  识别具有指定能力的 pdf 文件[`RecognitionSettings`](../../recognitionsettings/). 仅支持扫描的 PDF。不支持可搜索的 PDF.
+从扫描的 PDF（提取图像）中识别文本。识别 PDF 文件，可指定 [`RecognitionSettings`](../../recognitionsettings)。仅支持扫描的 PDF。不支持可搜索的 PDF。
 
 ```csharp
 public List<RecognitionResult> RecognizePdf(MemoryStream stream, 
     DocumentRecognitionSettings settings)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| stream | MemoryStream | 带有 pdf 文件的内存流。 |
-| settings | DocumentRecognitionSettings | 识别设置。 |
+| 流 | MemoryStream | 包含 PDF 文件的内存流。 |
+| settings | DocumentRecognitionSettings | Recognition settings. |
 
 ### 返回值
 
-这[`RecognitionResult`](../../recognitionresult/)具有图像识别结果的对象。
+包含图像识别结果的 [`RecognitionResult`](../../recognitionresult) 对象。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../../recognitionresult/)
-* class [DocumentRecognitionSettings](../../documentrecognitionsettings/)
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* class [DocumentRecognitionSettings](../../documentrecognitionsettings)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

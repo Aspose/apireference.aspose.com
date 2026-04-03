@@ -1,9 +1,9 @@
 ---
-title: RecognitionResult.RecognitionAreasRectangles
-second_title: Aspose.OCR for .NET API 参考
-description: RecognitionResult 财产. 获取矩形坐标
+title: RecognitionAreasRectangles
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 获取矩形坐标。
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.ocr/recognitionresult/recognitionareasrectangles/
 ---
 ## RecognitionResult.RecognitionAreasRectangles property
@@ -14,10 +14,10 @@ url: /zh/net/aspose.ocr/recognitionresult/recognitionareasrectangles/
 public List<Rectangle> RecognitionAreasRectangles { get; }
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../)
-* 命名空间 [Aspose.OCR](../../recognitionresult/)
-* 部件 [Aspose.OCR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OCR](../../recognitionresult)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

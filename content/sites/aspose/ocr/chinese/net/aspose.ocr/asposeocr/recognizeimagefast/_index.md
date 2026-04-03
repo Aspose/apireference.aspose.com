@@ -1,55 +1,55 @@
 ---
-title: AsposeOcr.RecognizeImageFast
-second_title: Aspose.OCR for .NET API 参考
-description: AsposeOcr 方法. 以良好的质量识别图像上的文本不使用歪斜校正和区域检测在快速模式下工作
+title: RecognizeImageFast
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 对图像进行高质量文字识别。不使用倾斜校正和区域检测。以快速模式运行。
 type: docs
-weight: 150
+weight: 130
 url: /zh/net/aspose.ocr/asposeocr/recognizeimagefast/
 ---
 ## RecognizeImageFast(string) {#recognizeimagefast_1}
 
-以良好的质量识别图像上的文本。不使用歪斜校正和区域检测。在快速模式下工作。
+对图像进行高质量文字识别。不使用倾斜校正和区域检测。以快速模式运行。
 
 ```csharp
 public string RecognizeImageFast(string fullPath)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| fullPath | String | 图片的完整路径。 |
+| fullPath | String | 图像的完整路径。 |
 
 ### 返回值
 
-识别的文本。
+已识别的文本。
 
-### 也可以看看
+### 另请参见
 
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
 ---
 
 ## RecognizeImageFast(MemoryStream) {#recognizeimagefast}
 
-以良好的质量识别图像上的文本。不使用歪斜校正和区域检测。在快速模式下工作。
+对图像进行高质量文字识别。不使用倾斜校正和区域检测。以快速模式运行。
 
 ```csharp
 public string RecognizeImageFast(MemoryStream stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| stream | MemoryStream | 包含图像的内存流。 |
+| 流 | MemoryStream | 包含图像的内存流。 |
 
 ### 返回值
 
-识别的文本。
+已识别的文本。
 
-### 也可以看看
+### 另请参见
 
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

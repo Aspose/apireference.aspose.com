@@ -1,9 +1,9 @@
 ---
-title: Enum AreasType
-second_title: Aspose.OCR for .NET API 参考
-description: Aspose.OCR.AreasType 枚举. 确定模型检测到的区域类型
+title: AreasType
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 确定模型检测到的区域类型。
 type: docs
-weight: 10
+weight: 50
 url: /zh/net/aspose.ocr/areastype/
 ---
 ## AreasType enumeration
@@ -14,21 +14,21 @@ url: /zh/net/aspose.ocr/areastype/
 public enum AreasType
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | PARAGRAPHS | `1` | 将区域设置为段落 |
-| LINES | `2` | 将区域设置为 lines |
-| WORDS | `3` | 将区域设置为 words |
+| LINES | `2` | 将区域设置为行 |
+| WORDS | `3` | 将区域设置为单词 |
 
-### 评论
+### 备注
 
-用于[`GetRectangles`](../asposeocr/getrectangles/)指示将获得哪个结果 - 段落坐标或行坐标.
+在 !:AsposeOcr.GetRectangles(string, AreasType, bool) 中使用，以指示将获得的结果——段落坐标或行坐标。
 
-### 也可以看看
+### 另请参见
 
-* 命名空间 [Aspose.OCR](../../aspose.ocr/)
-* 部件 [Aspose.OCR](../../)
+* namespace [Aspose.OCR](../../aspose.ocr)
+* assembly [Aspose.OCR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

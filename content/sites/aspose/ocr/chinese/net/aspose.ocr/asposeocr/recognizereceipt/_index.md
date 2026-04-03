@@ -1,71 +1,69 @@
 ---
-title: AsposeOcr.RecognizeReceipt
-second_title: Aspose.OCR for .NET API 参考
-description: AsposeOcr 方法. 识别图像上的文本
+title: RecognizeReceipt
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 识别收据上的文本。
 type: docs
-weight: 230
+weight: 240
 url: /zh/net/aspose.ocr/asposeocr/recognizereceipt/
 ---
-## RecognizeReceipt(string, ReceiptRecognitionSettings) {#recognizereceipt_1}
+## RecognizeReceipt(OcrInput) {#recognizereceipt}
 
-识别图像上的文本。
+识别收据上的文本。
 
 ```csharp
-public RecognitionResult RecognizeReceipt(string fullPath, 
-    ReceiptRecognitionSettings settings = null)
+public OcrOutput RecognizeReceipt(OcrInput images)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| fullPath | String | 图片的路径。 |
-| settings | ReceiptRecognitionSettings | 识别设置[`ReceiptRecognitionSettings`](../../receiptrecognitionsettings/). |
+| images | OcrInput | 包含源的容器[`OcrInput`](../../ocrinput)。 |
 
 ### 返回值
 
-这[`RecognitionResult`](../../recognitionresult/)具有图像识别结果的对象。
+包含图像识别结果的 [`RecognitionResult`](../../recognitionresult) 对象列表。
 
-### 评论
+### 备注
 
-识别具有指定能力的图像[`ReceiptRecognitionSettings`](../../receiptrecognitionsettings/). 支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
+识别发票，并可指定 [`ReceiptRecognitionSettings`](../../receiptrecognitionsettings)。支持 GIF、PNG、JPEG、BMP、TIFF、JFIF、流、目录、数组、存档。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../../recognitionresult/)
-* class [ReceiptRecognitionSettings](../../receiptrecognitionsettings/)
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [OcrOutput](../../ocroutput)
+* class [OcrInput](../../ocrinput)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
 ---
 
-## RecognizeReceipt(MemoryStream, ReceiptRecognitionSettings) {#recognizereceipt}
+## RecognizeReceipt(OcrInput, ReceiptRecognitionSettings) {#recognizereceipt_1}
 
-识别图像上的文本。
+识别收据上的文本。
 
 ```csharp
-public RecognitionResult RecognizeReceipt(MemoryStream stream, 
-    ReceiptRecognitionSettings settings = null)
+public OcrOutput RecognizeReceipt(OcrInput images, ReceiptRecognitionSettings settings)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| stream | MemoryStream | 包含收据图像的内存流。 |
-| settings | ReceiptRecognitionSettings | 识别设置[`ReceiptRecognitionSettings`](../../receiptrecognitionsettings/). |
+| images | OcrInput | 包含源的容器[`OcrInput`](../../ocrinput)。 |
+| settings | ReceiptRecognitionSettings | 识别设置 [`ReceiptRecognitionSettings`](../../receiptrecognitionsettings)。 |
 
 ### 返回值
 
-这[`RecognitionResult`](../../recognitionresult/)具有图像识别结果的对象。
+包含图像识别结果的 [`RecognitionResult`](../../recognitionresult) 对象列表。
 
-### 评论
+### 备注
 
-识别具有指定能力的图像[`ReceiptRecognitionSettings`](../../receiptrecognitionsettings/). 支持 GIF、PNG、JPEG、BMP、TIFF、JFIF。
+识别发票，并可指定 [`ReceiptRecognitionSettings`](../../receiptrecognitionsettings)。支持 GIF、PNG、JPEG、BMP、TIFF、JFIF、流、目录、数组、存档。
 
-### 也可以看看
+### 另请参见
 
-* class [RecognitionResult](../../recognitionresult/)
-* class [ReceiptRecognitionSettings](../../receiptrecognitionsettings/)
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [OcrOutput](../../ocroutput)
+* class [OcrInput](../../ocrinput)
+* class [ReceiptRecognitionSettings](../../receiptrecognitionsettings)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

@@ -1,43 +1,23 @@
 ---
-title: AsposeOcr.AsposeOcr
-second_title: Aspose.OCR for .NET API 参考
-description: AsposeOcr 构造函数. 初始化一个新的实例AsposeOcrclass. 空构造函数.
+title: AsposeOcr
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 初始化 AsposeOcraspose.ocr/asposeocr 类的新实例。空构造函数。
 type: docs
 weight: 10
 url: /zh/net/aspose.ocr/asposeocr/asposeocr/
 ---
-## AsposeOcr() {#constructor}
+## AsposeOcr constructor
 
-初始化一个新的实例[`AsposeOcr`](../)class. 空构造函数.
+初始化 [`AsposeOcr`](../../asposeocr) 类的新实例。空构造函数。
 
 ```csharp
 public AsposeOcr()
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
 
----
-
-## AsposeOcr(string) {#constructor_1}
-
-初始化一个新的实例[`AsposeOcr`](../) class. 使用 alphabet property. 设置允许的字符
-
-```csharp
-public AsposeOcr(string alphabet)
-```
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| alphabet | String | 允许的字符集。 |
-
-### 也可以看看
-
-* class [AsposeOcr](../)
-* 命名空间 [Aspose.OCR](../../asposeocr/)
-* 部件 [Aspose.OCR](../../../)
-
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

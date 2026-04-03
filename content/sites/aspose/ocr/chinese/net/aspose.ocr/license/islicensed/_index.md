@@ -1,27 +1,27 @@
 ---
-title: License.IsLicensed
-second_title: Aspose.OCR for .NET API 参考
-description: License 财产. 获取指示产品是否已获得许可的值
+title: IsLicensed
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 获取一个值，指示产品是否已授权。
 type: docs
 weight: 20
 url: /zh/net/aspose.ocr/license/islicensed/
 ---
 ## License.IsLicensed property
 
-获取指示产品是否已获得许可的值。
+获取一个值，指示产品是否已授权。
 
 ```csharp
 public bool IsLicensed { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`产品是否获得许可；否则，`错误的` .
+`true` 如果产品已授权；否则为 `false`。
 
-### 也可以看看
+### 另请参见
 
-* class [License](../)
-* 命名空间 [Aspose.OCR](../../license/)
-* 部件 [Aspose.OCR](../../../)
+* class [License](../../license)
+* namespace [Aspose.OCR](../../license)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

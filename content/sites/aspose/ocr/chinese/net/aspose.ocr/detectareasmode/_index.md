@@ -1,9 +1,9 @@
 ---
-title: Enum DetectAreasMode
-second_title: Aspose.OCR for .NET API 参考
-description: Aspose.OCR.DetectAreasMode 枚举. 确定用于区域检测的神经网络类型
+title: DetectAreasMode
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 确定用于区域检测的神经网络类型。
 type: docs
-weight: 60
+weight: 90
 url: /zh/net/aspose.ocr/detectareasmode/
 ---
 ## DetectAreasMode enumeration
@@ -14,24 +14,24 @@ url: /zh/net/aspose.ocr/detectareasmode/
 public enum DetectAreasMode
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| NONE | `0` | 不检测段落。 更适合没有图片的简单单栏文档。 |
-| DOCUMENT | `1` | 检测段落对文档使用 NN 模型。 更适合多列文档、带有图片或其他非文本对象的文档。 |
-| PHOTO | `2` | 检测段落对照片使用 NN 模型。 更适合包含大量图片和其他非文本对象的图像。 |
-| COMBINE | `3` | 检测带有文本的段落，然后使用其他 NN 模型检测段落内部的区域。 更适合具有复杂结构的图像。 |
-| TABLE | `4` | 检测带有文本的单元格。 具有表格结构的图像的首选模式。 |
-| CURVED_TEXT | `5` | 检测线条并识别弯曲图像上的文本。 书籍和杂志页面照片的首选模式。 |
+| LEAN | `0` | 通过省略对复杂布局的支持来优先考虑速度并降低资源消耗。仅适用于没有插图或格式的少量文本行的简单图像。 |
+| MULTICOLUMN | `1` | 检测以列格式的大块文本。是书页、文章或合同等多列布局的最佳选择。 |
+| UNIVERSAL | `2` | 检测图像中的所有文本块，包括照片上稀疏和不规则的文字。是大多数图像的通用选项，表格和多列布局除外。 |
+| TABLE | `4` | 检测图像中的表格结构并提取各单元格的文字。推荐用于扫描的电子表格、报告及其他基于表格的文档。 |
+| CURVED_TEXT | `5` | 自动校正图像中弯曲的文字行，提升识别准确率并使更多文字得以恢复和提取。需要大量的处理能力和内存。 |
+| FORMULA | `6` | 检测所有包含数学公式的块。 |
 
-### 评论
+### 备注
 
-用于[`RecognitionSettings`](../recognitionsettings/)指定要识别的图像类型。
+在 [`RecognitionSettings`](../recognitionsettings) 中使用，用于指定要识别的图像类型。
 
-### 也可以看看
+### 另请参见
 
-* 命名空间 [Aspose.OCR](../../aspose.ocr/)
-* 部件 [Aspose.OCR](../../)
+* namespace [Aspose.OCR](../../aspose.ocr)
+* assembly [Aspose.OCR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

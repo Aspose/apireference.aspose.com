@@ -1,23 +1,23 @@
 ---
-title: BaseRecognitionSettings.AutoDenoising
-second_title: Aspose.OCR for .NET API 参考
-description: BaseRecognitionSettings 财产. 允许使用额外的神经网络来改善图像  减少噪声 适用于具有扫描伪影失真斑点光斑渐变外来元素的图像
+title: 自动去噪
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 启用额外神经网络以改进图像——降低噪声。对包含扫描伪影、失真、斑点、耀光、渐变、外来元素的图像有用。
 type: docs
 weight: 40
 url: /zh/net/aspose.ocr/baserecognitionsettings/autodenoising/
 ---
 ## BaseRecognitionSettings.AutoDenoising property
 
-允许使用额外的神经网络来改善图像 - 减少噪声。 适用于具有扫描伪影、失真、斑点、光斑、渐变、外来元素的图像。
+启用额外的神经网络以提升图像——降低噪声。适用于带有扫描伪影、失真、斑点、耀光、渐变或异物的图像。
 
 ```csharp
 public bool AutoDenoising { get; set; }
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [BaseRecognitionSettings](../)
-* 命名空间 [Aspose.OCR](../../baserecognitionsettings/)
-* 部件 [Aspose.OCR](../../../)
+* class [BaseRecognitionSettings](../../baserecognitionsettings)
+* namespace [Aspose.OCR](../../baserecognitionsettings)
+* assembly [Aspose.OCR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->

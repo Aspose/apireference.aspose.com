@@ -1,28 +1,44 @@
 ---
-title: PassportRecognitionSettings.PassportRecognitionSettings
-second_title: Aspose.OCR for .NET API 参考
-description: PassportRecognitionSettings 构造函数. 初始化一个新的实例PassportRecognitionSettings具有全套属性的类.
+title: PassportRecognitionSettings
+second_title: Aspose.OCR 适用于 .NET API 参考
+description: 使用完整属性集初始化 PassportRecognitionSettingsaspose.ocr/passportrecognitionsettings 类的新实例。
 type: docs
 weight: 10
 url: /zh/net/aspose.ocr/passportrecognitionsettings/passportrecognitionsettings/
 ---
-## PassportRecognitionSettings constructor
+## PassportRecognitionSettings(Language) {#constructor_1}
 
-初始化一个新的实例[`PassportRecognitionSettings`](../)具有全套属性的类.
+使用完整属性集初始化 [`PassportRecognitionSettings`](../../passportrecognitionsettings) 类的新实例。
 
 ```csharp
-public PassportRecognitionSettings(Language language = Language.None)
+public PassportRecognitionSettings(Language language)
 ```
 
-| 范围 | 类型 | 描述 |
+| Parameter | Type | 描述 |
 | --- | --- | --- |
-| language | Language | 用于 OCR 的语言。 |
+| language | 语言 | 用于 OCR 的语言。 |
 
-### 也可以看看
+### 另请参见
 
-* enum [Language](../../language/)
-* class [PassportRecognitionSettings](../)
-* 命名空间 [Aspose.OCR](../../passportrecognitionsettings/)
-* 部件 [Aspose.OCR](../../../)
+* enum [Language](../../language)
+* class [PassportRecognitionSettings](../../passportrecognitionsettings)
+* namespace [Aspose.OCR](../../passportrecognitionsettings)
+* assembly [Aspose.OCR](../../../)
 
+---
 
+## PassportRecognitionSettings() {#constructor}
+
+使用默认属性集初始化 [`PassportRecognitionSettings`](../../passportrecognitionsettings) 类的新实例。
+
+```csharp
+public PassportRecognitionSettings()
+```
+
+### 另请参见
+
+* class [PassportRecognitionSettings](../../passportrecognitionsettings)
+* namespace [Aspose.OCR](../../passportrecognitionsettings)
+* assembly [Aspose.OCR](../../../)
+
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OCR.dll 生成 -->
