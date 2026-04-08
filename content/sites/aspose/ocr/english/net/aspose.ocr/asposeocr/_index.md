@@ -32,6 +32,7 @@ public class AsposeOcr : IDisposable
 | [DetectLanguages](../../aspose.ocr/asposeocr/detectlanguages)(OcrInput) | Analyzes the text on the image to determine the languages it is written in. This allows to select the most suitable recognition language and helps in further text processing tasks such as spellchecking or translation. |
 | [DetectRectangles](../../aspose.ocr/asposeocr/detectrectangles#detectrectangles)(OcrInput) | Detects text areas on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives. |
 | [DetectRectangles](../../aspose.ocr/asposeocr/detectrectangles#detectrectangles_1)(OcrInput, AreasType, bool) | Detects text areas on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives. |
+| [DetectTables](../../aspose.ocr/asposeocr/detecttables)(OcrInput) | Detects table regions on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives. |
 | [Dispose](../../aspose.ocr/asposeocr/dispose)() | Clear resources for recognition. |
 | [ImageHasText](../../aspose.ocr/asposeocr/imagehastext#imagehastext_1)(string, Regex, RecognitionSettings, bool) | Check if the image text matches the provided regular expression. |
 | [ImageHasText](../../aspose.ocr/asposeocr/imagehastext#imagehastext)(string, string, RecognitionSettings, bool, bool) | Check if the image contains the provided text fragment. |

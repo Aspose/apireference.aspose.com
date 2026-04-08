@@ -3,7 +3,7 @@ title: RecognizeTables
 second_title: Aspose.OCR for .NET API Reference
 description: Detect tables and structure recognizes text cells. Supports GIF PNG JPEG BMP TIFF JFIF stream directory arrays archives.
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.ocr/asposeocr/recognizetables/
 ---
 ## AsposeOcr.RecognizeTables method
