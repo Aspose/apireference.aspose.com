@@ -24,7 +24,7 @@ public enum AreasType
 
 ### Remarks
 
-Used in the !:AsposeOcr.GetRectangles(string, AreasType, bool) to indicate which result will be obtained - paragraph coordinates or line coordinates.
+Used in the [`DetectRectangles`](../asposeocr/detectrectangles) to indicate which result will be obtained - paragraph coordinates or line coordinates.
 
 ### See Also
 
