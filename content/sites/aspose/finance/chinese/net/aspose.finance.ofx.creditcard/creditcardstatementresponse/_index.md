@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementResponse
-second_title: Aspose.Finance for .NET API 参考
-description: 信用卡下载响应类
+second_title: Aspose.Finance 适用于 .NET API 参考
+description: 信用卡下载响应类。
 type: docs
 weight: 2010
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementresponse/
 ---
 ## CreditCardStatementResponse class
 
-信用卡下载响应类
+信用卡下载响应类。
 
 ```csharp
 public class CreditCardStatementResponse
@@ -16,31 +16,31 @@ public class CreditCardStatementResponse
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [CreditCardStatementResponse](creditcardstatementresponse)() | 初始化一个新的实例[`CreditCardStatementResponse`](../creditcardstatementresponse)类. |
+| [CreditCardStatementResponse](creditcardstatementresponse)() | 初始化 [`CreditCardStatementResponse`](../creditcardstatementresponse) 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [AvailableBalance](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/availablebalance) { get; set; } | 获取或设置 from[`AvailableBalance`](./availablebalance). |
-| [BalanceList](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/balancelist) { get; set; } | 获取或设置的集合[`Balance`](../../aspose.finance.ofx/balance). |
-| [BankTransactionList](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/banktransactionlist) { get; set; } | 获取或设置 from[`BankTransactionList`](./banktransactionlist). |
-| [CashAdvanceBalanceAmount](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/cashadvancebalanceamount) { get; set; } | 获取或设置下载时预支现金的当前余额。 |
-| [CreditCardAccountFrom](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/creditcardaccountfrom) { get; set; } | 获取或设置 from[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
-| [Currency](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/currency) { get; set; } | 获取或设置语句的默认货币。 |
-| [InterestRateCash](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratecash) { get; set; } | 获取或设置下载时有效的现金垫款的当前利率。 |
-| [InterestRatePurchases](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratepurchases) { get; set; } | 获取或设置下载时有效购买的当前利率。 |
-| [InterestRateTransfer](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratetransfer) { get; set; } | 获取或设置下载时有效的余额转账的当前利率。 |
-| [LedgerBalance](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/ledgerbalance) { get; set; } | 获取或设置 from[`LedgerBalance`](./ledgerbalance). |
+| [AvailableBalance](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/availablebalance) { get; set; } | 获取或设置 [`AvailableBalance`](./availablebalance) 的来源。 |
+| [BalanceList](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/balancelist) { get; set; } | 获取或设置 [`Balance`](../../aspose.finance.ofx/balance) 的集合。 |
+| [BankTransactionList](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/banktransactionlist) { get; set; } | 获取或设置 [`BankTransactionList`](./banktransactionlist) 的来源。 |
+| [CashAdvanceBalanceAmount](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/cashadvancebalanceamount) { get; set; } | 获取或设置下载时现金预支的当前余额金额。 |
+| [CreditCardAccountFrom](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/creditcardaccountfrom) { get; set; } | 获取或设置 [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) 的来源。 |
+| [Currency](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/currency) { get; set; } | 获取或设置报表的默认货币。 |
+| [InterestRateCash](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratecash) { get; set; } | 获取或设置下载时生效的现金预支当前利率。 |
+| [InterestRatePurchases](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratepurchases) { get; set; } | 获取或设置下载时生效的购买当前利率。 |
+| [InterestRateTransfer](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratetransfer) { get; set; } | 获取或设置下载时生效的余额转账当前利率。 |
+| [LedgerBalance](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/ledgerbalance) { get; set; } | 获取或设置 [`LedgerBalance`](./ledgerbalance) 的来源。 |
 | [MarketingInformation](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/marketinginformation) { get; set; } | 获取或设置营销信息。 |
-| [PendingTransactionList](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/pendingtransactionlist) { get; set; } | 获取或设置 from[`PendingTransactionList`](./pendingtransactionlist). |
-| [RewardInfo](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/rewardinfo) { get; set; } | 获取或设置[`RewardInfoType`](../../aspose.finance.ofx/rewardinfotype). |
+| [PendingTransactionList](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/pendingtransactionlist) { get; set; } | 获取或设置 [`PendingTransactionList`](./pendingtransactionlist) 的来源。 |
+| [RewardInfo](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/rewardinfo) { get; set; } | 获取或设置 [`RewardInfoType`](../../aspose.finance.ofx/rewardinfotype)。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Finance.Ofx.CreditCard](../../aspose.finance.ofx.creditcard)
-* 部件 [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx.CreditCard](../../aspose.finance.ofx.creditcard)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.Finance.dll 生成 -->

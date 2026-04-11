@@ -1,14 +1,14 @@
 ---
 title: StatementTransaction
-second_title: Aspose.Finance for .NET API 参考
-description: 此类描述单个事务它标识交易的类型和过帐日期该类还可以提供额外的信息来帮助客户识别交易支票号码收款人姓名和备忘录交易可以有一个标准工业代码客户可以使用该代码对交易进行分类
+second_title: Aspose.Finance 适用于 .NET API 参考
+description: 此类描述单个交易。它标识交易的类型以及交易的发布日期。该类还可以提供额外信息，以帮助客户识别交易的支票号码、收款人名称和备注。交易可以拥有标准行业代码，客户可使用该代码对交易进行分类。
 type: docs
-weight: 5700
+weight: 5730
 url: /zh/net/aspose.finance.ofx/statementtransaction/
 ---
 ## StatementTransaction class
 
-此类描述单个事务。它标识交易的类型和过帐日期。该类还可以提供额外的信息来帮助客户识别交易：支票号码、收款人姓名和备忘录。交易可以有一个标准工业代码，客户可以使用该代码对交易进行分类。
+此类描述单个交易。它标识交易的类型以及记账日期。该类还可以提供额外信息，以帮助客户识别交易：支票号码、收款人名称和备注。交易可以包含标准行业分类代码，客户可使用该代码对交易进行分类。
 
 ```csharp
 public class StatementTransaction
@@ -16,40 +16,40 @@ public class StatementTransaction
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [StatementTransaction](statementtransaction)() | 初始化一个新的实例[`StatementTransaction`](../statementtransaction)类. |
+| [StatementTransaction](statementtransaction)() | 初始化一个新的 [`StatementTransaction`](../statementtransaction) 类实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [AccountTo](../../aspose.finance.ofx/statementtransaction/accountto) { get; set; } | 获取或设置帐户，[`BankAccount`](../bankaccount)或者[`CreditCardAccount`](../creditcardaccount). |
-| [AvailableDate](../../aspose.finance.ofx/statementtransaction/availabledate) { get; set; } | 获取或设置资金可用的日期（起息日）。 |
-| [CheckNumber](../../aspose.finance.ofx/statementtransaction/checknumber) { get; set; } | 获取或设置校验号 |
-| [CorrectFinancialInstitutionTransactionId](../../aspose.finance.ofx/statementtransaction/correctfinancialinstitutiontransactionid) { get; set; } | 获取或设置更正的事务 ID。如果存在，则此记录更正的先前发送的交易的 FinancialInstitutionTransactionId。 |
-| [CorrectiveAction](../../aspose.finance.ofx/statementtransaction/correctiveaction) { get; set; } | 获取或设置纠正措施。 |
-| [Currency](../../aspose.finance.ofx/statementtransaction/currency) { get; set; } | 获取或设置[`Currency`](./currency). |
-| [ExtendedName](../../aspose.finance.ofx/statementtransaction/extendedname) { get; set; } | 获取或设置收款人扩展名或交易描述。 |
-| [FinancialInstitutionTransactionId](../../aspose.finance.ofx/statementtransaction/financialinstitutiontransactionid) { get; set; } | 获取或设置金融机构下发的交易ID。 |
-| [ImageDatas](../../aspose.finance.ofx/statementtransaction/imagedatas) { get; set; } | 获取或设置的集合[`ImageData`](../imagedata). |
+| [AccountTo](../../aspose.finance.ofx/statementtransaction/accountto) { get; set; } | 获取或设置目标账户，[`BankAccount`](../bankaccount) 或 [`CreditCardAccount`](../creditcardaccount)。 |
+| [AvailableDate](../../aspose.finance.ofx/statementtransaction/availabledate) { get; set; } | 获取或设置资金可用的日期（价值日期）。 |
+| [CheckNumber](../../aspose.finance.ofx/statementtransaction/checknumber) { get; set; } | 获取或设置支票号码。 |
+| [CorrectFinancialInstitutionTransactionId](../../aspose.finance.ofx/statementtransaction/correctfinancialinstitutiontransactionid) { get; set; } | 获取或设置已更正的交易 ID。如果存在，则为先前发送的交易的 FinancialInstitutionTransactionId，该交易被此记录更正。 |
+| [CorrectiveAction](../../aspose.finance.ofx/statementtransaction/correctiveaction) { get; set; } | 获取或设置更正操作。 |
+| [Currency](../../aspose.finance.ofx/statementtransaction/currency) { get; set; } | 获取或设置[`Currency`](./currency)。 |
+| [ExtendedName](../../aspose.finance.ofx/statementtransaction/extendedname) { get; set; } | 获取或设置收款人的扩展名称或交易描述。 |
+| [FinancialInstitutionTransactionId](../../aspose.finance.ofx/statementtransaction/financialinstitutiontransactionid) { get; set; } | 获取或设置金融机构颁发的交易 ID。 |
+| [ImageDatas](../../aspose.finance.ofx/statementtransaction/imagedatas) { get; set; } | 获取或设置 [`ImageData`](../imagedata) 的集合。 |
 | [Investment401kSource](../../aspose.finance.ofx/statementtransaction/investment401ksource) { get; set; } | 获取或设置此交易的现金来源。 |
 | [Memo](../../aspose.finance.ofx/statementtransaction/memo) { get; set; } | 获取或设置额外信息。 |
-| [Name](../../aspose.finance.ofx/statementtransaction/name) { get; set; } | 获取或设置收款人姓名或交易描述。 |
-| [OriginCurrency](../../aspose.finance.ofx/statementtransaction/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency). |
-| [Payee](../../aspose.finance.ofx/statementtransaction/payee) { get; set; } | 获取或设置[`Payee`](./payee). |
+| [Name](../../aspose.finance.ofx/statementtransaction/name) { get; set; } | 获取或设置收款人名称或交易描述。 |
+| [OriginCurrency](../../aspose.finance.ofx/statementtransaction/origincurrency) { get; set; } | 获取或设置原始[`Currency`](./currency)。 |
+| [Payee](../../aspose.finance.ofx/statementtransaction/payee) { get; set; } | 获取或设置 [`Payee`](./payee)。 |
 | [PayeeId](../../aspose.finance.ofx/statementtransaction/payeeid) { get; set; } | 获取或设置收款人标识符（如果可用）。 |
-| [PostedDate](../../aspose.finance.ofx/statementtransaction/posteddate) { get; set; } | 获取或设置交易过帐到帐户的日期。 |
-| [ReferenceNumber](../../aspose.finance.ofx/statementtransaction/referencenumber) { get; set; } | 获取或设置唯一标识事务的参考号。 |
-| [ServerTransactionId](../../aspose.finance.ofx/statementtransaction/servertransactionid) { get; set; } | 获取或设置服务器分配的事务 ID。 |
-| [StandardIndustrialCode](../../aspose.finance.ofx/statementtransaction/standardindustrialcode) { get; set; } | 获取或设置标准工业代码。 |
-| [TransactionAmount](../../aspose.finance.ofx/statementtransaction/transactionamount) { get; set; } | 获取或设置交易金额 |
+| [PostedDate](../../aspose.finance.ofx/statementtransaction/posteddate) { get; set; } | 获取或设置交易记账到账户的日期。 |
+| [ReferenceNumber](../../aspose.finance.ofx/statementtransaction/referencenumber) { get; set; } | 获取或设置唯一标识交易的参考编号。 |
+| [ServerTransactionId](../../aspose.finance.ofx/statementtransaction/servertransactionid) { get; set; } | 获取或设置服务器分配的交易 ID。 |
+| [StandardIndustrialCode](../../aspose.finance.ofx/statementtransaction/standardindustrialcode) { get; set; } | 获取或设置标准行业代码。 |
+| [TransactionAmount](../../aspose.finance.ofx/statementtransaction/transactionamount) { get; set; } | 获取或设置交易金额。 |
 | [TransactionType](../../aspose.finance.ofx/statementtransaction/transactiontype) { get; set; } | 获取或设置交易类型。 |
-| [UserDate](../../aspose.finance.ofx/statementtransaction/userdate) { get; set; } | 获取或设置用户发起交易的日期，如果已知的话。 |
+| [UserDate](../../aspose.finance.ofx/statementtransaction/userdate) { get; set; } | 获取或设置用户发起交易的日期（如果已知）。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Finance.Ofx](../../aspose.finance.ofx)
-* 部件 [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx](../../aspose.finance.ofx)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.Finance.dll 生成 -->

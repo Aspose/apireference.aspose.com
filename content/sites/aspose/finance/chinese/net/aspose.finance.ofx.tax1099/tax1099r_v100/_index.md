@@ -1,14 +1,14 @@
 ---
 title: Tax1099R_V100
-second_title: Aspose.Finance for .NET API 参考
-description: 税 1099R V100 表格类
+second_title: Aspose.Finance 适用于 .NET API 参考
+description: 税务 1099R V100 表格类。
 type: docs
-weight: 6040
+weight: 6070
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099r_v100/
 ---
 ## Tax1099R_V100 class
 
-税 1099R V100 表格类。
+税务 1099R V100 表格类。
 
 ```csharp
 public class Tax1099R_V100 : AbstractTaxForm1099
@@ -16,46 +16,46 @@ public class Tax1099R_V100 : AbstractTaxForm1099
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Tax1099R_V100](tax1099r_v100)() | 初始化一个新的实例[`Tax1099R_V100`](../tax1099r_v100)类. |
+| [Tax1099R_V100](tax1099r_v100)() | 初始化 [`Tax1099R_V100`](../tax1099r_v100) 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [AmountAllocableIRR](../../aspose.finance.ofx.tax1099/tax1099r_v100/amountallocableirr) { get; set; } | 获取或设置可分配给 IRR 的金额。 |
-| [AnnualContractDistribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/annualcontractdistribution) { get; set; } | 获取或设置年度合约分配。 |
+| [AmountAllocableIRR](../../aspose.finance.ofx.tax1099/tax1099r_v100/amountallocableirr) { get; set; } | 获取或设置分配给 IRR 的金额。 |
+| [AnnualContractDistribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/annualcontractdistribution) { get; set; } | 获取或设置年度合同分配。 |
 | [AnnualContractPercentage](../../aspose.finance.ofx.tax1099/tax1099r_v100/annualcontractpercentage) { get; set; } | 获取或设置年度合同百分比。 |
 | [CapitalGain](../../aspose.finance.ofx.tax1099/tax1099r_v100/capitalgain) { get; set; } | 获取或设置资本收益。 |
-| [Corrected](../../aspose.finance.ofx.tax1099/abstracttaxform1099/corrected) { get; set; } | 获取或设置这是否是一个更正的形式。 |
-| [DistributionCodes](../../aspose.finance.ofx.tax1099/tax1099r_v100/distributioncodes) { get; set; } | 获取或设置分布代码。 |
-| [EmployeeContribInsurance](../../aspose.finance.ofx.tax1099/tax1099r_v100/employeecontribinsurance) { get; set; } | 获取或设置员工/指定罗斯贡献，保险费。 |
-| [FederalTaxWithheld](../../aspose.finance.ofx.tax1099/tax1099r_v100/federaltaxwithheld) { get; set; } | 获取或设置预扣的联邦所得税。 |
-| [FirstYearDesignRoth](../../aspose.finance.ofx.tax1099/tax1099r_v100/firstyeardesignroth) { get; set; } | 获取或设置指定 ROTH 的第一年，格式为“YYYY”。 |
-| [GrossDistribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/grossdistribution) { get; set; } | 获取或设置总分布。 |
-| [IraSepSimp](../../aspose.finance.ofx.tax1099/tax1099r_v100/irasepsimp) { get; set; } | 获取或设置 IRA/SEP/SIMPLE. |
-| [LocalTaxWithheldAggregates](../../aspose.finance.ofx.tax1099/tax1099r_v100/localtaxwithheldaggregates) { get; set; } | 获取或设置的集合[`LocalTaxWithheldAggregate`](../localtaxwithheldaggregate). |
-| [NetUnrealizedAppreciationEmployer](../../aspose.finance.ofx.tax1099/tax1099r_v100/netunrealizedappreciationemployer) { get; set; } | 获取或设置雇主证券的未实现净增值。 |
-| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099r_v100/payeraddress) { get; set; } | 获取或设置[`PayerAddress`](./payeraddress). |
-| [PayerId](../../aspose.finance.ofx.tax1099/tax1099r_v100/payerid) { get; set; } | 获取或设置付款人的联邦标识号。 |
+| [Corrected](../../aspose.finance.ofx.tax1099/abstracttaxform1099/corrected) { get; set; } | 获取或设置此表单是否为更正表单。 |
+| [DistributionCodes](../../aspose.finance.ofx.tax1099/tax1099r_v100/distributioncodes) { get; set; } | 获取或设置分配代码。 |
+| [EmployeeContribInsurance](../../aspose.finance.ofx.tax1099/tax1099r_v100/employeecontribinsurance) { get; set; } | 获取或设置员工/指定的 Roth 供款、保险费。 |
+| [FederalTaxWithheld](../../aspose.finance.ofx.tax1099/tax1099r_v100/federaltaxwithheld) { get; set; } | 获取或设置已预扣的联邦所得税。 |
+| [FirstYearDesignRoth](../../aspose.finance.ofx.tax1099/tax1099r_v100/firstyeardesignroth) { get; set; } | 获取或设置指定的首个 ROTH 年份，格式为 “YYYY”。 |
+| [GrossDistribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/grossdistribution) { get; set; } | 获取或设置总分配额。 |
+| [IraSepSimp](../../aspose.finance.ofx.tax1099/tax1099r_v100/irasepsimp) { get; set; } | 获取或设置 IRA/SEP/SIMPLE。 |
+| [LocalTaxWithheldAggregates](../../aspose.finance.ofx.tax1099/tax1099r_v100/localtaxwithheldaggregates) { get; set; } | 获取或设置 [`LocalTaxWithheldAggregate`](../localtaxwithheldaggregate) 的集合。 |
+| [NetUnrealizedAppreciationEmployer](../../aspose.finance.ofx.tax1099/tax1099r_v100/netunrealizedappreciationemployer) { get; set; } | 获取或设置雇主证券的净未实现增值。 |
+| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099r_v100/payeraddress) { get; set; } | 获取或设置 [`PayerAddress`](./payeraddress)。 |
+| [PayerId](../../aspose.finance.ofx.tax1099/tax1099r_v100/payerid) { get; set; } | 获取或设置付款人的联邦识别号码。 |
 | [PercentageTotalDistribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/percentagetotaldistribution) { get; set; } | 获取或设置您在总分配中的百分比。 |
-| [RecipientAccount](../../aspose.finance.ofx.tax1099/tax1099r_v100/recipientaccount) { get; set; } | 获取或设置收件人的帐号。 |
-| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099r_v100/recipientaddress) { get; set; } | 获取或设置[`RecipientAddress`](./recipientaddress). |
-| [RecipientId](../../aspose.finance.ofx.tax1099/tax1099r_v100/recipientid) { get; set; } | 获取或设置收件人的标识号。 |
-| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | 获取或设置主机服务器分配给表单的ID。 |
-| [StateTaxWithheldAggregates](../../aspose.finance.ofx.tax1099/tax1099r_v100/statetaxwithheldaggregates) { get; set; } | 获取或设置的集合[`StateTaxWithheldAggregate`](../statetaxwithheldaggregate). |
+| [RecipientAccount](../../aspose.finance.ofx.tax1099/tax1099r_v100/recipientaccount) { get; set; } | 获取或设置收款人的账户号码。 |
+| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099r_v100/recipientaddress) { get; set; } | 获取或设置 [`RecipientAddress`](./recipientaddress)。 |
+| [RecipientId](../../aspose.finance.ofx.tax1099/tax1099r_v100/recipientid) { get; set; } | 获取或设置收款人的识别号码。 |
+| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | 获取或设置主机服务器分配给表单的 ID。 |
+| [StateTaxWithheldAggregates](../../aspose.finance.ofx.tax1099/tax1099r_v100/statetaxwithheldaggregates) { get; set; } | 获取或设置 [`StateTaxWithheldAggregate`](../statetaxwithheldaggregate) 的集合。 |
 | [TaxableAmount](../../aspose.finance.ofx.tax1099/tax1099r_v100/taxableamount) { get; set; } | 获取或设置应税金额。 |
 | [TaxableAmountNotDetermined](../../aspose.finance.ofx.tax1099/tax1099r_v100/taxableamountnotdetermined) { get; set; } | 获取或设置未确定的应税金额 |
-| [TaxYear](../../aspose.finance.ofx.tax1099/abstracttaxform1099/taxyear) { get; set; } | 获取或设置此表单的纳税年度。 |
-| [TotalDistribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/totaldistribution) { get; set; } | 获取或设置总分布。 |
-| [TotalEmployeeContribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/totalemployeecontribution) { get; set; } | 获取或设置员工贡献总额。 |
-| [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | 获取或设置表单是否为void。 |
+| [TaxYear](../../aspose.finance.ofx.tax1099/abstracttaxform1099/taxyear) { get; set; } | 获取或设置此表单的税务年度。 |
+| [TotalDistribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/totaldistribution) { get; set; } | 获取或设置总分配。 |
+| [TotalEmployeeContribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/totalemployeecontribution) { get; set; } | 获取或设置员工总供款。 |
+| [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | 获取或设置表单是否作废。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [AbstractTaxForm1099](../abstracttaxform1099)
-* 命名空间 [Aspose.Finance.Ofx.Tax1099](../../aspose.finance.ofx.tax1099)
-* 部件 [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx.Tax1099](../../aspose.finance.ofx.tax1099)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.Finance.dll 生成 -->

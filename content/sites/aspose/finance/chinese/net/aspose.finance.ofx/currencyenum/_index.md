@@ -1,31 +1,31 @@
 ---
 title: CurrencyEnum
-second_title: Aspose.Finance for .NET API 参考
-description: 货币标识符枚举基于 ISO4217.
+second_title: Aspose.Finance 适用于 .NET API 参考
+description: 基于 ISO-4217 的货币标识符枚举。
 type: docs
 weight: 2100
 url: /zh/net/aspose.finance.ofx/currencyenum/
 ---
 ## CurrencyEnum enumeration
 
-货币标识符枚举，基于 ISO-4217.
+货币标识符 enum，基于 ISO-4217。
 
 ```csharp
 public enum CurrencyEnum
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| AED | `0` | 阿拉伯联合酋长国迪拉姆 |
+| AED | `0` | 阿联酋迪拉姆 |
 | AFN | `1` | 阿富汗阿富汗尼 |
 | ALL | `2` | 阿尔巴尼亚列克 |
 | AMD | `3` | 亚美尼亚德拉姆 |
-| ANG | `4` | 荷属安的列斯盾 |
-| AOA | `5` | 安哥拉宽扎 |
+| ANG | `4` | 荷兰安的列斯盾 |
+| AOA | `5` | 安哥拉克瓦查 |
 | ARS | `6` | 阿根廷比索 |
-| AUD | `7` | 澳元 |
+| AUD | `7` | 澳大利亚元 |
 | AWG | `8` | 阿鲁巴弗罗林 |
 | AZN | `9` | 阿塞拜疆马纳特 |
 | BAM | `10` | 波斯尼亚和黑塞哥维那可兑换马克 |
@@ -39,17 +39,17 @@ public enum CurrencyEnum
 | BOB | `18` | 玻利维亚诺 |
 | BRL | `19` | 巴西雷亚尔 |
 | BSD | `20` | 巴哈马元 |
-| BTN | `21` | 不丹人 ngultrum |
+| BTN | `21` | 不丹努尔特鲁姆 |
 | BWP | `22` | 博茨瓦纳普拉 |
 | BYR | `23` | 白俄罗斯卢布 |
 | BZD | `24` | 伯利兹元 |
-| CAD | `25` | 加元 |
+| CAD | `25` | 加拿大元 |
 | CDF | `26` | 刚果法郎 |
 | CHF | `27` | 瑞士法郎 |
 | CLP | `28` | 智利比索 |
 | CNY | `29` | 人民币 |
 | COP | `30` | 哥伦比亚比索 |
-| CRC | `31` | 哥斯达黎加冒号 |
+| CRC | `31` | 哥斯达黎加科朗 |
 | CUP | `32` | 古巴比索 |
 | CVE | `33` | 佛得角埃斯库多 |
 | CZK | `34` | 捷克克朗 |
@@ -65,7 +65,7 @@ public enum CurrencyEnum
 | FKP | `44` | 福克兰群岛镑 |
 | GBP | `45` | 英镑 |
 | GEL | `46` | 格鲁吉亚拉里 |
-| GHS | `47` | 加纳塞地 |
+| GHS | `47` | 加纳塞迪 |
 | GIP | `48` | 直布罗陀镑 |
 | GMD | `49` | 冈比亚达拉西 |
 | GNF | `50` | 几内亚法郎 |
@@ -73,59 +73,59 @@ public enum CurrencyEnum
 | GYD | `52` | 圭亚那元 |
 | HKD | `53` | 港元 |
 | HNL | `54` | 洪都拉斯伦皮拉 |
-| HRK | `55` | 克罗地亚库纳 |
-| HTG | `56` | 海地古德 |
-| HUF | `57` | 匈牙利福林 |
-| IDR | `58` | 印尼盾 |
-| ILS | `59` | 以色列新谢克尔 |
-| INR | `60` | 印度卢比 |
-| IQD | `61` | 伊拉克第纳尔 |
-| IRR | `62` | 伊朗里亚尔 |
-| ISK | `63` | 冰岛克朗 |
-| JMD | `64` | 牙买加元 |
-| JOD | `65` | 约旦第纳尔 |
-| JPY | `66` | 日元 |
-| KES | `67` | 肯尼亚先令 |
-| KGS | `68` | 吉尔吉斯斯坦索姆 |
-| KHR | `69` | 柬埔寨瑞尔 |
-| KMF | `70` | 科摩罗法郎 |
-| KPW | `71` | 朝鲜元 |
-| KRW | `72` | 韩元 |
-| KWD | `73` | 科威特第纳尔 |
-| KYD | `74` | 开曼群岛元 |
-| KZT | `75` | 哈萨克斯坦腾格 |
-| LAK | `76` | 老挝基普 |
-| LBP | `77` | 黎巴嫩镑 |
-| LKR | `78` | 斯里兰卡卢比 |
-| LRD | `79` | 利比里亚元 |
-| LSL | `80` | 莱索托洛蒂 |
-| LTL | `81` | 立陶宛立特 |
-| LVL | `82` | 拉脱维亚lats |
-| LYD | `83` | 利比亚第纳尔 |
-| MAD | `84` | 摩洛哥迪拉姆 |
-| MDL | `85` | 摩尔多瓦列伊 |
-| MGF | `86` | 马达加斯加 ariary |
-| MKD | `87` | 马其顿代纳尔 |
-| MMK | `88` | 缅甸缅元 |
-| MNT | `89` | 蒙古图格里克 |
-| MOP | `90` | 澳门元 |
-| MRO | `91` | 毛里塔尼亚乌吉亚人 |
-| MUR | `92` | 毛里求斯卢比 |
-| MVR | `93` | 马尔代夫拉菲亚a |
-| MWK | `94` | 马拉维克瓦查 |
-| MXN | `95` | 墨西哥比索 |
-| MYR | `96` | 马来西亚林吉特 |
-| MZN | `97` | 莫桑比克梅蒂卡尔 |
-| NAD | `98` | 纳米比亚元 |
-| NGN | `99` | 尼日利亚奈拉 |
-| NIO | `100` | 科尔多瓦oro |
-| NOK | `101` | 挪威克朗 |
-| NPR | `102` | 尼泊尔卢比 |
-| NZD | `103` | 新西兰元 |
-| OMR | `104` | 阿曼里亚尔 |
-| PAB | `105` | 巴拿马巴尔博亚 |
-| PEN | `106` | 秘鲁新溶胶 |
-| PGK | `107` | 巴布亚新几内亚基那 |
+| HRK | `55` | Croatian kuna |
+| HTG | `56` | Haitian gourde |
+| HUF | `57` | Hungarian forint |
+| IDR | `58` | Indonesian rupiah |
+| ILS | `59` | Israeli new sheqel |
+| INR | `60` | Indian rupee |
+| IQD | `61` | Iraqi dinar |
+| IRR | `62` | Iranian rial |
+| ISK | `63` | Icelandic króna |
+| JMD | `64` | Jamaican dollar |
+| JOD | `65` | Jordanian dinar |
+| JPY | `66` | Japanese yen |
+| KES | `67` | Kenyan shilling |
+| KGS | `68` | Kyrgyzstani som |
+| KHR | `69` | Cambodian riel |
+| KMF | `70` | Comoro franc |
+| KPW | `71` | North Korean won |
+| KRW | `72` | South Korean won |
+| KWD | `73` | Kuwaiti dinar |
+| KYD | `74` | Cayman Islands dollar |
+| KZT | `75` | Kazakhstani tenge |
+| LAK | `76` | Lao kip |
+| LBP | `77` | Lebanese pound |
+| LKR | `78` | Sri Lanka rupee |
+| LRD | `79` | Liberian dollar |
+| LSL | `80` | Lesotho loti |
+| LTL | `81` | Lithuanian litas |
+| LVL | `82` | Latvian lats |
+| LYD | `83` | Libyan dinar |
+| MAD | `84` | Moroccan dirham |
+| MDL | `85` | Moldovan leu |
+| MGF | `86` | Malagasy ariary |
+| MKD | `87` | Macedonian denar |
+| MMK | `88` | Myanma kyat |
+| MNT | `89` | Mongolian tugrik |
+| MOP | `90` | Macanese pataca |
+| MRO | `91` | Mauritanian ouguiya |
+| MUR | `92` | Mauritian rupee |
+| MVR | `93` | Maldivian rufiyaa |
+| MWK | `94` | Malawian kwacha |
+| MXN | `95` | Mexican peso |
+| MYR | `96` | Malaysian ringgit |
+| MZN | `97` | Mozambican metical |
+| NAD | `98` | Namibian dollar |
+| NGN | `99` | Nigerian naira |
+| NIO | `100` | Cordoba oro |
+| NOK | `101` | Norwegian krone |
+| NPR | `102` | Nepalese rupee |
+| NZD | `103` | New Zealand dollar |
+| OMR | `104` | Omani rial |
+| PAB | `105` | 巴拿马巴波亚 |
+| PEN | `106` | 秘鲁新索尔 |
+| PGK | `107` | 巴布亚新几内亚基纳 |
 | PHP | `108` | 菲律宾比索 |
 | PKR | `109` | 巴基斯坦卢比 |
 | PLN | `110` | 波兰兹罗提 |
@@ -138,16 +138,16 @@ public enum CurrencyEnum
 | SBD | `117` | 所罗门群岛元 |
 | SCR | `118` | 塞舌尔卢比 |
 | SDG | `119` | 苏丹镑 |
-| SEK | `120` | 瑞典克朗/克朗 |
+| SEK | `120` | 瑞典克朗 |
 | SGD | `121` | 新加坡元 |
-| SHP | `122` | 圣赫勒拿镑 |
+| SHP | `122` | 圣赫勒拿磅 |
 | SLL | `123` | 塞拉利昂利昂 |
 | SOS | `124` | 索马里先令 |
 | SRD | `125` | 苏里南元 |
 | SSP | `126` | 南苏丹镑 |
 | STD | `127` | 圣多美和普林西比多布拉 |
 | SYP | `128` | 叙利亚镑 |
-| SZL | `129` | 埃马兰吉尼 |
+| SZL | `129` | 里兰吉尼 |
 | THB | `130` | 泰铢 |
 | TJS | `131` | 塔吉克斯坦索莫尼 |
 | TMT | `132` | 土库曼斯坦马纳特 |
@@ -161,28 +161,28 @@ public enum CurrencyEnum
 | UGX | `140` | 乌干达先令 |
 | USD | `141` | 美元 |
 | UYU | `142` | 乌拉圭比索 |
-| UZS | `143` | 乌兹别克斯坦 som |
-| VEF | `144` | 委内瑞拉玻利瓦尔 fuerte |
-| VND | `145` | 越南语 đồng |
-| VUV | `146` | 瓦努阿图 vatu |
+| UZS | `143` | 乌兹别克斯坦苏姆 |
+| VEF | `144` | 委内瑞拉强势玻利瓦尔 |
+| VND | `145` | 越南盾 |
+| VUV | `146` | 瓦努阿图瓦图 |
 | WST | `147` | 萨摩亚塔拉 |
-| XAF | `148` | 非洲金融共同体法郎BEAC |
-| XAG | `149` | 银（一金衡盎司） |
-| XAU | `150` | 黄金（一金衡盎司） |
+| XAF | `148` | CFA 法郎（BEAC） |
+| XAG | `149` | 银（1盎司） |
+| XAU | `150` | 金（1盎司） |
 | XCD | `151` | 东加勒比元 |
 | XDR | `152` | 特别提款权 |
-| XOF | `153` | 非洲金融共同体法郎 BCEAO |
-| XPD | `154` | 钯（一金衡盎司） |
-| XPF | `155` | 太平洋法郎 |
-| XPT | `156` | 铂（一金衡盎司） |
+| XOF | `153` | CFA 法郎（BCEAO） |
+| XPD | `154` | 钯（1盎司） |
+| XPF | `155` | CFP 法郎 |
+| XPT | `156` | 白金（1盎司） |
 | YER | `157` | 也门里亚尔 |
 | ZAR | `158` | 南非兰特 |
 | ZWL | `159` | 津巴布韦元 |
 | ZMW | `160` | 赞比亚克瓦查 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Finance.Ofx](../../aspose.finance.ofx)
-* 部件 [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx](../../aspose.finance.ofx)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.Finance.dll 生成 -->
