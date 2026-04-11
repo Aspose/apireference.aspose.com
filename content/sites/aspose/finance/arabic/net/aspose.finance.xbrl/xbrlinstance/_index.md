@@ -1,14 +1,14 @@
 ---
 title: XbrlInstance
-second_title: Aspose.Finance لمرجع .NET API
-description: مثيل XBRL هو جزء XML مع عنصر جذر به علامة xbrl. يحتوي مثيل XBRL على حقائق عن تقرير الأعمال  مع كل حقيقة تتطابق مع ملفConcept./concept المحددة في DTS الداعمة. يحتوي مثيل XBRL أيضًا على سياقات ووحدات توفر معلومات إضافية مطلوبة لتفسير الحقائق في المثال.
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: مثيل XBRL هو جزء XML يحتوي على عنصر جذر يحمل علامة xbrl. يحتوي مثيل XBRL على حقائق تقرير الأعمال حيث يتطابق كل حقيقة مع مفهوم Concept./concept معرف في نظام DTS الداعم لها. كما يحتوي مثيل XBRL على سياقات ووحدات توفر معلومات إضافية ضرورية لتفسير الحقائق في المثيل.
 type: docs
-weight: 8200
+weight: 8250
 url: /ar/net/aspose.finance.xbrl/xbrlinstance/
 ---
 ## XbrlInstance class
 
-مثيل XBRL هو جزء XML مع عنصر جذر به علامة xbrl. يحتوي مثيل XBRL على حقائق عن تقرير الأعمال ، مع كل حقيقة تتطابق مع ملف[`Concept`](../concept) المحددة في DTS الداعمة. يحتوي مثيل XBRL أيضًا على سياقات ووحدات توفر معلومات إضافية مطلوبة لتفسير الحقائق في المثال.
+مثيل XBRL هو جزء XML يحتوي على عنصر جذر يحمل علامة xbrl. يحتوي مثيل XBRL على حقائق تقرير الأعمال، حيث يتطابق كل حقيقة مع [`Concept`](../concept) معرف في نظام DTS الداعم لها. كما يحتوي مثيل XBRL على سياقات ووحدات توفر معلومات إضافية ضرورية لتفسير الحقائق في المثيل.
 
 ```csharp
 public class XbrlInstance
@@ -16,41 +16,42 @@ public class XbrlInstance
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ArcroleReferences](../../aspose.finance.xbrl/xbrlinstance/arcrolereferences) { get; set; } | يحصل أو يحدد مجموعة[`ArcroleReference`](../arcrolereference) كائنات في مثيل XBRL. |
-| [Contexts](../../aspose.finance.xbrl/xbrlinstance/contexts) { get; set; } | يحصل أو يحدد مجموعة[`Context`](../context) كائنات في مثيل XBRL. |
-| [Facts](../../aspose.finance.xbrl/xbrlinstance/facts) { get; } | يحصل على مجموعة[`Fact`](../fact) كائنات في مثيل XBRL. |
-| [FootnoteLinks](../../aspose.finance.xbrl/xbrlinstance/footnotelinks) { get; set; } | يحصل أو يحدد مجموعة[`FootnoteLink`](../footnotelink) كائنات في مثيل XBRL. |
-| [Items](../../aspose.finance.xbrl/xbrlinstance/items) { get; } | يحصل على مجموعة[`Item`](../item) كائنات في مثيل XBRL. |
-| [LinkbaseRefCollection](../../aspose.finance.xbrl/xbrlinstance/linkbaserefcollection) { get; } | يحصل على ملف[`LinkbaseRefCollection`](./linkbaserefcollection) في ال[`XbrlInstance`](../xbrlinstance) . |
-| [RoleReferences](../../aspose.finance.xbrl/xbrlinstance/rolereferences) { get; set; } | يحصل أو يحدد مجموعة[`RoleReference`](../rolereference) كائنات في مثيل XBRL. |
-| [SchemaLocation](../../aspose.finance.xbrl/xbrlinstance/schemalocation) { get; set; } | الحصول على أو تعيين موقع المخطط |
-| [SchemaRefs](../../aspose.finance.xbrl/xbrlinstance/schemarefs) { get; } | يحصل على مجموعة SchemaRef . |
-| [Units](../../aspose.finance.xbrl/xbrlinstance/units) { get; set; } | يحصل أو يحدد مجموعة[`Unit`](../unit) كائنات في مثيل XBRL. |
-| [ValidationErrors](../../aspose.finance.xbrl/xbrlinstance/validationerrors) { get; } | يحصل على مجموعة أخطاء التحقق من الصحة. |
-| [XbrlDocument](../../aspose.finance.xbrl/xbrlinstance/xbrldocument) { get; } | احصل على ملف[`XbrlDocument`](./xbrldocument) الذي يحتوي على هذا المثال. |
+| [ArcroleReferences](../../aspose.finance.xbrl/xbrlinstance/arcrolereferences) { get; set; } | يحصل أو يضبط مجموعة كائنات [`ArcroleReference`](../arcrolereference) في مثيل XBRL. |
+| [Contexts](../../aspose.finance.xbrl/xbrlinstance/contexts) { get; set; } | يحصل أو يضبط مجموعة كائنات [`Context`](../context) في مثيل XBRL. |
+| [Facts](../../aspose.finance.xbrl/xbrlinstance/facts) { get; } | يحصل على مجموعة كائنات [`Fact`](../fact) في مثيل XBRL. |
+| [FootnoteLinks](../../aspose.finance.xbrl/xbrlinstance/footnotelinks) { get; set; } | يحصل أو يضبط مجموعة كائنات [`FootnoteLink`](../footnotelink) في مثيل XBRL. |
+| [Items](../../aspose.finance.xbrl/xbrlinstance/items) { get; } | يحصل على مجموعة كائنات [`Item`](../item) في مثيل XBRL. |
+| [LinkbaseRefCollection](../../aspose.finance.xbrl/xbrlinstance/linkbaserefcollection) { get; } | يحصل على [`LinkbaseRefCollection`](./linkbaserefcollection) في [`XbrlInstance`](../xbrlinstance). |
+| [RoleReferences](../../aspose.finance.xbrl/xbrlinstance/rolereferences) { get; set; } | يحصل أو يضبط مجموعة كائنات [`RoleReference`](../rolereference) في مثيل XBRL. |
+| [SchemaLocation](../../aspose.finance.xbrl/xbrlinstance/schemalocation) { get; set; } | يحصل أو يضبط موقع المخطط |
+| [SchemaRefs](../../aspose.finance.xbrl/xbrlinstance/schemarefs) { get; } | يحصل على مجموعة SchemaRef. |
+| [Units](../../aspose.finance.xbrl/xbrlinstance/units) { get; set; } | يحصل أو يضبط مجموعة كائنات [`Unit`](../unit) في مثيل XBRL. |
+| [ValidationErrors](../../aspose.finance.xbrl/xbrlinstance/validationerrors) { get; } | يحصل على مجموعة أخطاء التحقق. |
+| [XbrlDocument](../../aspose.finance.xbrl/xbrlinstance/xbrldocument) { get; } | احصل على [`XbrlDocument`](./xbrldocument) الذي يحتوي على هذا المثيل. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [CreateElement](../../aspose.finance.xbrl/xbrlinstance/createelement)(string, string, string) | إنشاء عنصر جديد. |
-| [GetAllLinkbaseRefCollections](../../aspose.finance.xbrl/xbrlinstance/getalllinkbaserefcollections)() | الحصول على كافة مجموعات مرجع قاعدة الارتباط في مثيل xbrl ومراجع المخطط. |
-| [GetArcroleTypeByURI](../../aspose.finance.xbrl/xbrlinstance/getarcroletypebyuri)(string) | يحصل على ArcroleType الذي يحتوي على عنوان URL المحدد. |
-| [GetConceptById](../../aspose.finance.xbrl/xbrlinstance/getconceptbyid)(string) | يحصل على المفهوم الذي يحتوي على المعرف المحدد. |
-| [GetConceptByLoc](../../aspose.finance.xbrl/xbrlinstance/getconceptbyloc)(Loc) | يحصل على المفهوم من خلال محدد المواقع. |
-| [GetConceptByName](../../aspose.finance.xbrl/xbrlinstance/getconceptbyname)(string) | يحصل على المفهوم الذي يحمل الاسم المحدد . |
-| [GetContextById](../../aspose.finance.xbrl/xbrlinstance/getcontextbyid)(string) | يحصل على السياق الذي يحتوي على المعرف المحدد. |
-| [GetPresentationLinks](../../aspose.finance.xbrl/xbrlinstance/getpresentationlinks)(string, string) | يحصل على روابط العرض التقديمي في مثيل xbrl. |
-| [GetRoleTypeByURI](../../aspose.finance.xbrl/xbrlinstance/getroletypebyuri)(string) | يحصل على نوع الدور الذي يحتوي على uri المحدد. |
-| [GetUnitById](../../aspose.finance.xbrl/xbrlinstance/getunitbyid)(string) | يحصل على الوحدة ذات المعرف المحدد . |
-| [IsValid](../../aspose.finance.xbrl/xbrlinstance/isvalid)() | للتحقق مما إذا كان مثيل XBRL هذا صالحًا. |
-| [Validate](../../aspose.finance.xbrl/xbrlinstance/validate)() | يتحقق من صحة مثيل XBRL . |
+| [GetAllLinkbaseRefCollections](../../aspose.finance.xbrl/xbrlinstance/getalllinkbaserefcollections)() | احصل على جميع مجموعات مراجع قاعدة الروابط في مثيل xbrl ومراجع المخطط. |
+| [GetArcroleTypeByURI](../../aspose.finance.xbrl/xbrlinstance/getarcroletypebyuri)(string) | يحصل على ArcroleType الذي له uri المحدد. |
+| [GetConceptById](../../aspose.finance.xbrl/xbrlinstance/getconceptbyid)(string) | يحصل على المفهوم الذي يملك المعرف المحدد. |
+| [GetConceptByLoc](../../aspose.finance.xbrl/xbrlinstance/getconceptbyloc)(Loc) | يحصل على المفهوم بواسطة المحدد. |
+| [GetConceptByName](../../aspose.finance.xbrl/xbrlinstance/getconceptbyname)(string) | يحصل على المفهوم الذي له الاسم المحدد. |
+| [GetConceptByUriAndName](../../aspose.finance.xbrl/xbrlinstance/getconceptbyuriandname)(string, string) | يحصل على المفهوم الذي له الـ uri والاسم المحددين. |
+| [GetContextById](../../aspose.finance.xbrl/xbrlinstance/getcontextbyid)(string) | يحصل على السياق الذي له المعرف المحدد. |
+| [GetPresentationLinks](../../aspose.finance.xbrl/xbrlinstance/getpresentationlinks)(string, string) | يحصل على روابط العرض في مثيل xbrl. |
+| [GetRoleTypeByURI](../../aspose.finance.xbrl/xbrlinstance/getroletypebyuri)(string) | يحصل على RoleType الذي له uri المحدد. |
+| [GetUnitById](../../aspose.finance.xbrl/xbrlinstance/getunitbyid)(string) | يحصل على الوحدة التي لها المعرف المحدد. |
+| [IsValid](../../aspose.finance.xbrl/xbrlinstance/isvalid)() | يتحقق مما إذا كان مثيل XBRL هذا صالحًا. |
+| [Validate](../../aspose.finance.xbrl/xbrlinstance/validate)() | يُصادق على مثيل XBRL هذا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Finance.Xbrl](../../aspose.finance.xbrl)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Xbrl](../../aspose.finance.xbrl)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

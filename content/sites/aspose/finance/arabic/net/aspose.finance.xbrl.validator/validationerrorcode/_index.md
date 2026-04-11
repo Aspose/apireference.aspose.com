@@ -1,97 +1,97 @@
 ---
-title: ValidationErrorCode
-second_title: Aspose.Finance لمرجع .NET API
-description: تعداد رمز خطأ التحقق .
+title: رمز_خطأ_التحقق
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: تعداد رموز أخطاء التحقق.
 type: docs
-weight: 8160
+weight: 8210
 url: /ar/net/aspose.finance.xbrl.validator/validationerrorcode/
 ---
 ## ValidationErrorCode enumeration
 
-تعداد رمز خطأ التحقق .
+تعداد رموز أخطاء التحقق.
 
 ```csharp
 public enum ValidationErrorCode
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| SchemaRefNoTypeSimple | `0` | يجب أن يحدث نوع SchemaRef ويجب أن يحتوي على محتوى ثابت "بسيط". |
-| SchemaRefNoHref | `1` | يجب أن يحتوي المخطط على سمة href . |
-| ContextNoId | `2` | يجب أن يتضمن معرّف السياق سمة المعرّف. |
-| ContextNoEntity | `3` | عنصر الكيان هو المحتوى المطلوب لعنصر السياق. |
+| SchemaRefNoTypeSimple | `0` | يجب أن يحدث نوع SchemaRef ويجب أن يحتوي على المحتوى الثابت \"simple\". |
+| SchemaRefNoHref | `1` | يجب أن يحتوي SchemaRef على سمة href. |
+| ContextNoId | `2` | يجب أن يتضمن معرف السياق سمة المعرف. |
+| ContextNoEntity | `3` | عنصر الكيان هو محتوى مطلوب لعنصر السياق. |
 | ContextEntityNoIdentifier | `4` | يجب أن يحتوي عنصر الكيان على عنصر معرف |
-| ContextPeriodNoStartTime | `5` | النوع peroid هو المدة ، لكن ليس له تاريخ بدء. |
-| ContextPeriodNoEndTime | `6` | النوع peroid هو المدة ، لكن ليس له تاريخ انتهاء . |
-| ContextPeriodStartAfterEnd | `7` | النوع peroid هو المدة ، لكن تاريخ الانتهاء يسبق تاريخ البدء. |
-| ContextInstantNoTime | `8` | النوع peroid هو فوري ، لكن ليس له تاريخ فوري. |
+| ContextPeriodNoStartTime | `5` | نوع فترة السياق هو مدة، لكن لا يوجد تاريخ بدء. |
+| ContextPeriodNoEndTime | `6` | نوع فترة السياق هو مدة، لكن لا يوجد تاريخ انتهاء. |
+| ContextPeriodStartAfterEnd | `7` | نوع فترة السياق هو مدة، لكن تاريخ الانتهاء قبل تاريخ البدء. |
+| ContextInstantNoTime | `8` | نوع فترة السياق هو لحظة، لكن لا يوجد تاريخ لحظي. |
 | ContextScenarioXbrlNamespace | `9` | لا يمكن أن يحتوي سيناريو السياق على عقدة مساحة اسم xbrl. |
-| ContextScenarioXbrlSubstitutionGroup | `10` | لا يمكن أن يحتوي سيناريو السياق على عنصر في مجموعة الاستبدال للعناصر المحددة في مساحة اسم xbrl. |
-| ContextScenarioEmpty | `11` | لا يمكن أن يكون سيناريو السياق فارغًا " |
-| ContextSegmentXbrlNamespace | `12` | لا يمكن أن يحتوي مقطع السياق على عقدة مساحة اسم xbrl. |
-| ContextSegmentXbrlSubstitutionGroup | `13` | لا يمكن أن يحتوي مقطع السياق على عنصر في مجموعة الاستبدال للعناصر المحددة في مساحة الاسم xbrl. |
-| ContextSegmentEmpty | `14` | لا يمكن ترك مقطع السياق فارغًا |
-| ItemNoContext | `15` | يجب أن يكون للعنصر سياق . |
-| ItemPeroidTypeConflictWithContext | `16` | العنصر به نوع فترة يتعارض مع السياق . |
-| ItemNumericNoUnit | `17` | العنصر رقمي ويجب أن يحتوي على وحدة . |
-| MonetaryItemNoSingleUnitMeasure | `18` | العنصر هو نوع نقدي ويجب أن يحتوي على وحدة قياس واحدة. |
-| MonetaryItemNoISO4217 | `19` | العنصر هو نوع نقدي ويجب أن يحتوي على مقياس وحدة نمط Iso 4217. |
-| ShareItemNoSingleUnitMeasure | `20` | العنصر هو نوع المشاركة ويجب أن يحتوي على وحدة قياس واحدة. |
-| ShareItemNoShareUnitMeasure | `21` | العنصر هو نوع المشاركة ويجب أن يحتوي على xbrli: قياس وحدة الأسهم. |
-| NillItemWithPrecisionOrDecimals | `22` | العنصر صفري ويجب ألا يحتوي على دقة أو كسور عشرية. |
-| FractionItemWithPrecisionOrDecimals | `23` | العنصر هو نوع كسر ويجب ألا يحتوي على دقة أو كسور عشرية. |
-| NumericItemWithBothPrecisionAndDecimals | `24` | العنصر هو نوع رقمي ويجب ألا يحتوي على كل من الدقة والأرقام العشرية. |
-| NumericItemWithoutPrecisionOrDecimals | `25` | العنصر هو نوع رقمي ويجب أن يحتوي إما على الدقة أو الكسور العشرية. |
-| NonNumericItemWithPrecisionOrDecimals | `26` | العنصر ليس نوعًا رقميًا ويجب ألا يحتوي على دقة أو كسور عشرية. |
-| FootnoteArcFromNotFound | `27` | لا يمكن العثور على قوس الحاشية السفلية من Loc . |
-| FootnoteArcToNotFound | `28` | لا يمكن العثور على قوس الحاشية السفلية في الحاشية السفلية. |
-| DefinitionArcFromNotFound | `29` | تعريف القوس لا يمكن العثور عليه من Loc . |
-| DefinitionArcToNotFound | `30` | تعريف القوس لا يمكن العثور عليه إلى Loc . |
-| EssenceAliasDefinitionArcDifferentType | `31` | تعريف القوس البديل له أنواع مختلفة. |
-| EssenceAliasDefinitionArcDifferentPeriodType | `32` | تعريف الجوهر المستعار له أنواع مختلفة من الفترة. |
-| EssenceAliasDefinitionArcDifferentBalance | `33` | تعريف الجوهر المستعار له أرصدة مختلفة. |
-| CalculationArcFromNotFound | `34` | لا يمكن العثور على قوس الحساب من Loc. |
-| CalculationArcToNotFound | `35` | لا يمكن العثور على قوس الحساب إلى Loc . |
-| CalculationArcZeroWeight | `36` | قوس الحساب له وزن صفري . |
-| CalculationArcSummationItemNonNumeric | `37` | قوس حساب عنصر التجميع له مفهوم غير رقمي. |
-| CalculationArcIllegalBalancecWeight | `38` | قوس حساب عنصر التجميع له مفهوم غير رقمي. |
-| LabelArcFromNotFound | `39` | لا يمكن العثور على Label arc من Loc . |
-| LabelArcToNotFound | `40` | لا يمكن العثور على Label arc to Label. |
-| PresentationArcFromNotFound | `41` | لا يمكن العثور على قوس العرض من Loc. |
-| PresentationArcToNotFound | `42` | لا يمكن العثور على قوس العرض في Loc. |
-| PresentationArcPreferredLabelNotFound | `43` | لا يمكن العثور على قوس العرض التقديمي المفضل. |
-| ReferenceArcFromNotFound | `44` | لا يمكن العثور على القوس المرجعي من Loc. |
-| ReferenceArcToNotFound | `45` | لا يمكن العثور على القوس المرجعي للمرجع . |
-| InlineFactMissContext | `46` | الحقيقة المضمنة لا يمكنها العثور على السياق . |
-| InlineFactMissUnit | `47` | الحقيقة المضمنة لا يمكن العثور على الوحدة . |
-| InlineDuplicatedId | `48` | يحتوي مستند Xbrl المضمن على معرف مكرر. |
-| InlineRelationshipMissFromRef | `49` | لا يمكن العثور على العلاقة المضمنة من المرجع . |
-| InlineRelationshipMissToRef | `50` | لا يمكن العثور على العلاقة المضمنة للمرجع . |
-| InlineRelationshipIllegalFromRef | `51` | العلاقة المضمنة غير قانونية من المرجع . |
-| InlineRelationshipIllegalToRef | `52` | العلاقة المضمنة غير قانونية للمرجع . |
-| InlineContinuationNotMatch | `53` | ميزة المتابعة المضمنة غير قانونية للمطابقة . |
-| InlineFootnoteNotlang | `54` | لا تحتوي الحاشية السفلية المضمنة على لغة . |
-| InlineFractionIllegalChildElement | `55` | يحتوي الكسر المضمن على عنصر تابع غير قانوني . |
-| InlineFractionIllegalAttrbuites | `56` | يحتوي الكسر المضمن على سمات غير قانونية . |
-| InlineFractionIllegalAncestor | `57` | يحتوي الكسر المضمن على أصل غير قانوني . |
-| InlineFractionTermNegative | `58` | الكسر المضمن له مصطلح سلبي . |
-| InlineHeaderIllegalAncestor | `59` | يحتوي الكسر المضمن على علامة غير قانونية . |
-| InlineHeaderDisplayNone | `60` | لا تحتوي عقدة div الأب في الرأس المضمنة على نمط "عرض: لا شيء" . |
-| InlineHeaderIllegalChildElement | `61` | يحتوي الرأس المضمن على أكثر من عنصر "مخفي" أو أكثر من عنصر "موارد". |
-| InlineNonFractionIllegalAncestor | `62` | يحتوي nonFraction على سلف غير قانوني. |
-| InlineNonFractionIllegalChildElement | `63` | يحتوي nonFraction على عنصر فرعي غير قانوني. |
-| InlineNonFractionIllegalProperties | `64` | يحتوي nonFraction على خصائص غير قانونية. |
-| InlineNonFractionTermNegative | `65` | غير مضمنة تحتوي على مصطلح سلبي . |
-| InlineTupleIllegalChildElement | `66` | تحتوي المجموعة المضمنة على عنصر غير قانوني. |
-| InlineContinuationNoId | `67` | يجب أن يكون لعنصر المتابعة ix: سمة معرف .. |
-| InlineContinuationIllegalAncestor | `68` | يجب ألا يكون العنصر التاسع: تابعًا تابعًا لعنصر ix: مخفي. |
-| InlineExcludeIllegalAncestor | `69` | يجب أن يكون العنصر التاسع: استبعاد عنصر تابع لـ ix واحد على الأقل: استمرار ، ix: حاشية سفلية أو ix: عنصر غير رقمي. |
+| ContextScenarioXbrlSubstitutionGroup | `10` | لا يمكن أن يحتوي سيناريو السياق على عنصر في مجموعة الاستبدال للعناصر المعرفة في مساحة اسم xbrl. |
+| ContextScenarioEmpty | `11` | لا يمكن أن يكون سيناريو السياق فارغًا\" |
+| ContextSegmentXbrlNamespace | `12` | لا يمكن أن يحتوي جزء السياق على عقدة مساحة اسم xbrl. |
+| ContextSegmentXbrlSubstitutionGroup | `13` | لا يمكن أن يحتوي جزء السياق على عنصر في مجموعة الاستبدال للعناصر المعرفة في مساحة اسم xbrl. |
+| ContextSegmentEmpty | `14` | لا يمكن أن يكون جزء السياق فارغًا |
+| ItemNoContext | `15` | يجب أن يحتوي البند على سياق. |
+| ItemPeroidTypeConflictWithContext | `16` | العنصر لديه تعارض في نوع الفترة مع السياق. |
+| ItemNumericNoUnit | `17` | العنصر رقمي ويجب أن يكون له وحدة. |
+| MonetaryItemNoSingleUnitMeasure | `18` | العنصر من نوع نقدي ويجب أن يحتوي على وحدة قياس واحدة. |
+| MonetaryItemNoISO4217 | `19` | العنصر من نوع نقدي ويجب أن يحتوي على وحدة قياس بنمط Iso 4217. |
+| ShareItemNoSingleUnitMeasure | `20` | العنصر من نوع حصة ويجب أن يحتوي على وحدة قياس واحدة. |
+| ShareItemNoShareUnitMeasure | `21` | العنصر من نوع حصة ويجب أن يحتوي على وحدة قياس xbrli:shares. |
+| NillItemWithPrecisionOrDecimals | `22` | العنصر فارغ ولا يجب أن يحتوي على الدقة أو الكسور. |
+| FractionItemWithPrecisionOrDecimals | `23` | العنصر من نوع كسر ولا يجب أن يحتوي على الدقة أو الكسور. |
+| NumericItemWithBothPrecisionAndDecimals | `24` | العنصر من نوع رقمي ولا يجب أن يحتوي على كل من الدقة والكسور. |
+| NumericItemWithoutPrecisionOrDecimals | `25` | العنصر من نوع رقمي ويجب أن يحتوي على الدقة أو الكسور. |
+| NonNumericItemWithPrecisionOrDecimals | `26` | العنصر ليس من نوع رقمي ولا يجب أن يحتوي على الدقة أو الكسور. |
+| FootnoteArcFromNotFound | `27` | قوس الحاشية لا يمكن العثور عليه من Loc. |
+| FootnoteArcToNotFound | `28` | قوس الحاشية لا يمكن العثور عليه إلى الحاشية. |
+| DefinitionArcFromNotFound | `29` | قوس التعريف لا يمكن العثور عليه من Loc. |
+| DefinitionArcToNotFound | `30` | قوس التعريف لا يمكن العثور عليه إلى Loc. |
+| EssenceAliasDefinitionArcDifferentType | `31` | قوس تعريف Essence-alias يحتوي على أنواع مختلفة. |
+| EssenceAliasDefinitionArcDifferentPeriodType | `32` | قوس تعريف Essence-alias يحتوي على periodTypes مختلفة. |
+| EssenceAliasDefinitionArcDifferentBalance | `33` | قوس تعريف Essence-alias يحتوي على أرصدة مختلفة. |
+| CalculationArcFromNotFound | `34` | قوس الحساب لا يمكن العثور عليه من Loc. |
+| CalculationArcToNotFound | `35` | قوس الحساب لا يمكن العثور عليه إلى Loc. |
+| CalculationArcZeroWeight | `36` | قوس الحساب لديه وزن صفر. |
+| CalculationArcSummationItemNonNumeric | `37` | قوس حساب عنصر الجمع يحتوي على مفهوم غير رقمي. |
+| CalculationArcIllegalBalancecWeight | `38` | قوس حساب عنصر الجمع يحتوي على مفهوم غير رقمي. |
+| LabelArcFromNotFound | `39` | قوس التسمية لا يمكن العثور عليه من Loc. |
+| LabelArcToNotFound | `40` | قوس التسمية لا يمكن العثور عليه إلى Label. |
+| PresentationArcFromNotFound | `41` | قوس العرض لا يمكن العثور عليه من Loc. |
+| PresentationArcToNotFound | `42` | Presentation arc لا يمكنه العثور على Loc. |
+| PresentationArcPreferredLabelNotFound | `43` | Presentation arc لا يمكنه العثور على preferredLabel. |
+| ReferenceArcFromNotFound | `44` | Reference arc لا يمكنه العثور على من Loc. |
+| ReferenceArcToNotFound | `45` | Reference arc لا يمكنه العثور على إلى Reference. |
+| InlineFactMissContext | `46` | Inline Fact لا يمكنه العثور على context. |
+| InlineFactMissUnit | `47` | Inline Fact لا يمكنه العثور على unit. |
+| InlineDuplicatedId | `48` | وثيقة Inline Xbrl تحتوي على معرف مكرر. |
+| InlineRelationshipMissFromRef | `49` | Inline relationship لا يمكنه العثور على من ref. |
+| InlineRelationshipMissToRef | `50` | Inline relationship لا يمكنه العثور على إلى ref. |
+| InlineRelationshipIllegalFromRef | `51` | Inline relationship يحتوي على from ref غير قانوني. |
+| InlineRelationshipIllegalToRef | `52` | Inline relationship يحتوي على to ref غير قانوني. |
+| InlineContinuationNotMatch | `53` | Inline Continuation يحتوي على to match غير قانوني. |
+| InlineFootnoteNotlang | `54` | Inline Footnote لا يحتوي على lang. |
+| InlineFractionIllegalChildElement | `55` | Inline Fraction يحتوي على childelement غير قانوني. |
+| InlineFractionIllegalAttrbuites | `56` | Inline Fraction يحتوي على attrbuites غير قانوني. |
+| InlineFractionIllegalAncestor | `57` | Inline Fraction يحتوي على Ancestor غير قانوني. |
+| InlineFractionTermNegative | `58` | Inline Fraction يحتوي على Term Negative. |
+| InlineHeaderIllegalAncestor | `59` | Inline Fraction يحتوي على tag غير قانوني. |
+| InlineHeaderDisplayNone | `60` | العنصر الأب div لـ Inline header لا يحتوي على النمط "display:none". |
+| InlineHeaderIllegalChildElement | `61` | Inline header يحتوي على أكثر من عنصر "hidden" أو أكثر من عنصر "resources". |
+| InlineNonFractionIllegalAncestor | `62` | Inline nonFraction يحتوي على Ancestor غير قانوني. |
+| InlineNonFractionIllegalChildElement | `63` | Inline nonFraction يحتوي على Child Elemnt غير قانوني. |
+| InlineNonFractionIllegalProperties | `64` | Inline nonFraction يحتوي على Properties غير قانوني. |
+| InlineNonFractionTermNegative | `65` | Inline nonFraction يحتوي على Term Negative. |
+| InlineTupleIllegalChildElement | `66` | Inline tuple يحتوي على عنصر غير قانوني. |
+| InlineContinuationNoId | `67` | يجب أن يحتوي عنصر ix:continuation على سمة id.. |
+| InlineContinuationIllegalAncestor | `68` | يجب ألا يكون عنصر ix:continuation تابعًا لعنصر ix:hidden. |
+| InlineExcludeIllegalAncestor | `69` | يجب أن يكون عنصر ix:exclude تابعًا لعنصر واحد على الأقل من عناصر ix:continuation أو ix:footnote أو ix:nonNumeric. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Finance.Xbrl.Validator](../../aspose.finance.xbrl.validator)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Xbrl.Validator](../../aspose.finance.xbrl.validator)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

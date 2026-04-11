@@ -1,6 +1,6 @@
 ---
 title: Aspose.Finance.Xbrl
-second_title: Aspose.Finance لمرجع .NET API
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
 description: 
 type: docs
 weight: 210
@@ -8,76 +8,78 @@ url: /ar/net/aspose.finance.xbrl/
 ---
 
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [Arc](./arc) | فئة الملخص الأساسية لـ Xlink بنوع القوس. |
-| [ArcroleReference](./arcrolereference) | تُستخدم هذه الفئة لحل قيم arcrole المخصصة المستخدمة في Linkbase أو مثيل XBRL. |
-| [ArcroleType](./arcroletype) | تُستخدم هذه الفئة لتحديد نوع دور القوس المخصص. |
-| [CalculationArc](./calculationarc) | هذه الفئة هي أ[`Xlink`](../aspose.finance.xbrl/xlink)مع نوع القوس. يحدد كيفية ارتباط المفاهيم ببعضها البعض لأغراض الحساب. |
-| [CalculationLink](./calculationlink) | تصف هذه الفئة علاقات الحساب بين المفاهيم في التصنيفات. |
-| [CalculationLinkbaseRef](./calculationlinkbaseref) | تستخدم هذه الفئة لحساب مرجع قاعدة الارتباط. |
-| [Concept](./concept) | يتم تعريف المفاهيم بطريقتين متكافئتين. بالمعنى النحوي ، المفهوم هو تعريف عنصر مخطط XML ، تعريف العنصر ليكون في مجموعة استبدال عنصر العنصر أو في مجموعة استبدال عنصر المجموعة. على المستوى الدلالي ، المفهوم هو تعريف لنوع من الحقائق التي يمكن الإبلاغ عنها حول أنشطة أو طبيعة نشاط تجاري. |
-| [Context](./context) | تحتوي هذه الفئة على الكيان والفترة والسيناريو الذي يوفر مجتمعة السياق المناسب لفهم قيم العناصر. |
-| [ContextEntity](./contextentity) | كيان ملف[`Context`](../aspose.finance.xbrl/context) . |
-| [ContextPeriod](./contextperiod) | ملف[`Context`](../aspose.finance.xbrl/context) . |
-| [ContextSenario](./contextsenario) | سيناريو[`Context`](../aspose.finance.xbrl/context) . |
-| [DefinitionArc](./definitionarc) | هذه الفئة هي أ[`Xlink`](../aspose.finance.xbrl/xlink) بنوع القوس. يحدد أنواعًا مختلفة من العلاقات بين المفاهيم . |
-| [DefinitionLink](./definitionlink) | هذه الفئة مخصصة لاحتواء مجموعة متنوعة من العلاقات المتنوعة بين المفاهيم في التصنيفات. |
-| [DefinitionLinkbaseRef](./definitionlinkbaseref) | تستخدم هذه الفئة لتعريف مرجع قاعدة الارتباط. |
-| [DimensionMember](./dimensionmember) | تمثل الفئة عضو البعد. تم تعريفه في https://www.xbrl.org/specification/dimensions/rec-2012-01-25/dimensions-rec-2006-09-18+corrected-errata-2012-01-25-clean.html. |
-| [Fact](./fact) | يمكن أن تكون الحقيقة بسيطة ، وفي هذه الحالة يجب التعبير عن قيمها كمحتوى بسيط ، ويمكن أن تكون الحقائق مركبة ، وفي هذه الحالة تتكون قيمتها من حقيقة أخرى بسيطة و / أو مركبة. يتم التعبير عن حقيقة بسيطة باستخدام[`Item`](../aspose.finance.xbrl/item) . يتم التعبير عن الحقائق المركبة باستخدام[`Tuple`](../aspose.finance.xbrl/tuple) tuple . |
-| [Footnote](./footnote) | هذه الفئة هي أ[`Xlink`](../aspose.finance.xbrl/xlink) بنوع المورد . إنه يُصدر المورد الوحيد المسموح به في[`FootnoteLink`](../aspose.finance.xbrl/footnotelink) . |
-| [FootnoteArc](./footnotearc) | هذه الفئة هي أ[`Xlink`](../aspose.finance.xbrl/xlink) بنوع القوس . إنه مضمن فيFootnoteLink . |
-| [FootnoteLink](./footnotelink) | تحتوي هذه الفئة على محددات مواقع وموارد وأقواس تصف العلاقات غير المنتظمة بين الحقائق في مثيل XBRL. |
-| [Item](./item) | العنصر هو عنصر في مجموعة الاستبدال لعنصر عنصر XBRL. يحتوي على قيمة الحقيقة البسيطة وإشارة إلى السياق (ووحدة العناصر الرقمية) اللازمة لتفسير هذه الحقيقة بشكل صحيح. |
-| [Label](./label) | هذه الفئة هي أ[`Xlink`](../aspose.finance.xbrl/xlink) مع نوع المورد. على الرغم من أن كل تصنيف يحدد مجموعة واحدة من العناصر التي تمثل مجموعة من مفاهيم إعداد التقارير التجارية ، وثائق XBRL التي يمكن للبشر قراءتها لهذه المفاهيم ، بما في ذلك الملصقات (السلاسل المستخدمة كأسماء يمكن قراءتها بواسطة الإنسان لكل مفهوم) وتفسيرية أخرى الوثائق ، الواردة في عنصر الموارد في التسمية Linkbase. |
-| [LabelArc](./labelarc) | هذه الفئة هي أ[`Xlink`](../aspose.finance.xbrl/xlink) بنوع القوس. يربط المفاهيم مع[`Label`](../aspose.finance.xbrl/label) الموارد . |
-| [LabelLink](./labellink) | تهدف هذه الفئة إلى احتواء العلاقات بين المفاهيم والوثائق النصية والتسميات لتلك المفاهيم. |
-| [LabelLinkbaseRef](./labellinkbaseref) | يتم استخدام هذه الفئة لتسمية مرجع قاعدة الارتباط. |
-| [LinkbaseRef](./linkbaseref) | هذه الفئة تستخدم لربط مرجع القاعدة. |
-| [LinkbaseRefCollection](./linkbaserefcollection) | مجموعة مراجع قاعدة ارتباط المخطط . |
-| [Loc](./loc) | هذه الفئة هي أ[`Xlink`](../aspose.finance.xbrl/xlink) مع نوع محدد . |
-| [LocalCacheService](./localcacheservice) | هذه الفئة هي خدمة ذاكرة تخزين مؤقت محلية للملفات الخارجية للمخطط وقاعدة الارتباط. |
-| [Locator](./locator) | فئة الملخص الأساسية لـ Xlink بنوع محدد المواقع. |
-| [PresentationArc](./presentationarc) | هذه الفئة هي أ[`Xlink`](../aspose.finance.xbrl/xlink) مع نوع القوس. يحدد كيفية ارتباط المفاهيم ببعضها البعض للعرض التقديمي. |
-| [PresentationLink](./presentationlink) | تهدف هذه الفئة إلى وصف العلاقات التقديمية بين المفاهيم في التصنيفات . |
-| [PresentationLinkbaseRef](./presentationlinkbaseref) | تستخدم هذه الفئة لعرض مرجع قاعدة الرابط . |
-| [QualifiedName](./qualifiedname) | نوع مخطط XML "QName" كما هو محدد في http://www.w3.org/2001/XMLSchema مساحة الاسم . |
-| [Reference](./reference) | هذه الفئة هي أ[`Xlink`](../aspose.finance.xbrl/xlink) مع نوع المورد. إنه يمكّن تصنيفات XBRL من تأسيس تعريفات المفاهيم في بيانات موثوقة في المؤلفات التجارية والمالية والمحاسبية المنشورة. |
-| [ReferenceArc](./referencearc) | هذه الفئة هي أ[`Xlink`](../aspose.finance.xbrl/xlink) بنوع القوس . يربط المفاهيم بالموارد المرجعية. |
-| [ReferenceLink](./referencelink) | تهدف هذه الفئة إلى احتواء العلاقات بين المفاهيم والمراجع إلى البيانات الموثوقة في الأدبيات التجارية والمالية والمحاسبية المنشورة والتي تعطي معنى للمفاهيم. |
-| [ReferenceLinkbaseRef](./referencelinkbaseref) | يتم استخدام هذه الفئة للإشارة إلى مرجع قاعدة الارتباط. |
-| [ReferencePart](./referencepart) | العضو التابع لـ[`Reference`](../aspose.finance.xbrl/reference) . |
-| [Resource](./resource) | فئة الملخص الأساسية لـ Xlink بنوع المورد. |
-| [RoleReference](./rolereference) | تُستخدم هذه الفئة في مثيل XBRL للإشارة إلى تعريفات أي قيم سمات دور مخصصة مستخدمة في روابط الحواشي السفلية في مثيل XBRL. |
-| [RoleType](./roletype) | تُستخدم هذه الفئة لتحديد نوع الدور المخصص. |
-| [SaveOptions](./saveoptions) | يمثل خيارات حفظ . |
-| [SchemaRef](./schemaref) | هذه الفئة هي مرجع لمخطط التصنيف الذي يصبح جزءًا من DTS الذي يدعم مثيل XBRL. |
-| [SchemaRefCollection](./schemarefcollection) | مجموعة مراجع المخطط . |
-| [SecHtmlReportSaveOption](./sechtmlreportsaveoption) | يمثل خيارات حفظ تقرير html الثاني . |
+| [Arc](./arc) | الفئة الأساسية المجردة لـ Xlink بنوع Arc. |
+| [ArcroleReference](./arcrolereference) | هذه الفئة تُستخدم لحل قيم arcrole المخصصة التي تُستعمل في Linkbase أو XBRL Instance. |
+| [ArcroleType](./arcroletype) | هذه الفئة تُستخدم لتعريف نوع arc role المخصص. |
+| [CalculationArc](./calculationarc) | هذه الفئة هي [`Xlink`](../aspose.finance.xbrl/xlink) بنوع Arc. إنها تحدد كيف ترتبط المفاهيم ببعضها لبعض لأغراض الحساب. |
+| [CalculationLink](./calculationlink) | هذه الفئة تصف علاقات الحساب بين المفاهيم في التصنيفات. |
+| [CalculationLinkbaseRef](./calculationlinkbaseref) | هذه الفئة تُستخدم لإشارة linkbase الحساب. |
+| [Concept](./concept) | يتم تعريف المفاهيم بطريقتين مكافئتين. من الناحية التركيبية، المفهوم هو تعريف عنصر XML Schema، يحدد أن يكون العنصر في مجموعة استبدال عنصر item أو في مجموعة استبدال عنصر tuple. على المستوى الدلالي، المفهوم هو تعريف لنوع من الحقائق يمكن الإبلاغ عنها حول أنشطة أو طبيعة نشاط تجاري. |
+| [Context](./context) | هذه الفئة تحتوي على الكيان والفترة والسيناريو الذين يوفّرون معًا السياق المناسب لفهم قيم العناصر. |
+| [ContextEntity](./contextentity) | الكيان الخاص بـ [`Context`](../aspose.finance.xbrl/context). |
+| [ContextPeriod](./contextperiod) | الفترة الخاصة بـ [`Context`](../aspose.finance.xbrl/context). |
+| [ContextSenario](./contextsenario) | السيناريو الخاص بـ [`Context`](../aspose.finance.xbrl/context). |
+| [DefinitionArc](./definitionarc) | هذه الفئة هي [`Xlink`](../aspose.finance.xbrl/xlink) بنوع Arc. إنها تحدد أنواعًا مختلفة من العلاقات بين المفاهيم. |
+| [DefinitionLink](./definitionlink) | هذه الفئة مُصممة لاحتواء مجموعة متنوعة من العلاقات المتنوعة بين المفاهيم في التصنيفات. |
+| [DefinitionLinkbaseRef](./definitionlinkbaseref) | هذه الفئة تُستخدم لتعريف مرجع قاعدة الروابط. |
+| [DimensionMember](./dimensionmember) | الفئة تمثل عضو البُعد. تم تعريفها في https://www.xbrl.org/specification/dimensions/rec-2012-01-25/dimensions-rec-2006-09-18+corrected-errata-2012-01-25-clean.html. |
+| [Fact](./fact) | يمكن أن تكون الحقيقة بسيطة، وفي هذه الحالة يجب التعبير عن قيمها كمحتوى بسيط، ويمكن أن تكون الحقائق مركبة، وفي هذه الحالة تُكوَّن قيمتها من حقائق بسيطة و/أو مركبة أخرى. تُعبّر الحقائق البسيطة باستخدام [`Item`](../aspose.finance.xbrl/item). تُعبّر الحقائق المركبة باستخدام [`Tuple`](../aspose.finance.xbrl/tuple)tuple. |
+| [Footnote](./footnote) | هذه الفئة هي [`Xlink`](../aspose.finance.xbrl/xlink) من نوع Resource. إنها المورد الوحيد المسموح به في [`FootnoteLink`](../aspose.finance.xbrl/footnotelink). |
+| [FootnoteArc](./footnotearc) | هذه الفئة هي [`Xlink`](../aspose.finance.xbrl/xlink) من نوع Arc. وهي موجودة في FootnoteLink. |
+| [FootnoteLink](./footnotelink) | هذه الفئة تحتوي على Locators وresources وarcs التي تصف العلاقات غير المنتظمة بين الحقائق في مثال XBRL. |
+| [IOConfig](./ioconfig) |  |
+| [Item](./item) | العنصر هو عنصر في مجموعة الاستبدال لعنصر عنصر XBRL. يحتوي على قيمة الحقيقة البسيطة وإشارة إلى السياق (والوحدة للعناصر الرقمية) اللازمة لتفسير تلك الحقيقة بشكل صحيح. |
+| [Label](./label) | هذه الفئة هي [`Xlink`](../aspose.finance.xbrl/xlink) من نوع Resource. على الرغم من أن كل تصنيف يحدد مجموعة واحدة من العناصر التي تمثل مجموعة من مفاهيم التقارير التجارية، فإن وثائق XBRL القابلة للقراءة البشرية لتلك المفاهيم، بما في ذلك التسميات (السلاسل المستخدمة كأسماء قابلة للقراءة البشرية لكل مفهوم) وغيرها من الوثائق التوضيحية، موجودة في عنصر مورد في قاعدة روابط التسميات. |
+| [LabelArc](./labelarc) | هذه الفئة هي [`Xlink`](../aspose.finance.xbrl/xlink) من نوع Arc. إنها تربط المفاهيم بموارد [`Label`](../aspose.finance.xbrl/label). |
+| [LabelLink](./labellink) | هذه الفئة مُصممة لاحتواء العلاقات بين المفاهيم والوثائق النصية والتسميات لتلك المفاهيم. |
+| [LabelLinkbaseRef](./labellinkbaseref) | هذه الفئة تُستخدم لتسمية مرجع قاعدة الروابط. |
+| [LinkbaseRef](./linkbaseref) | هذه الفئة تُستخدم لمرجع قاعدة الروابط. |
+| [LinkbaseRefCollection](./linkbaserefcollection) | مجموعة من مراجع قاعدة الروابط للمخطط. |
+| [LoadOptions](./loadoptions) | الفئة الأساسية لتكوين الخيارات في تحميل الملفات للأنواع المختلفة |
+| [Loc](./loc) | هذه الفئة هي [`Xlink`](../aspose.finance.xbrl/xlink) من نوع Locator. |
+| [LocalCacheService](./localcacheservice) | هذه الفئة هي خدمة ذاكرة تخزين مؤقت محلية لملفات المخطط و قاعدة الروابط الخارجية. |
+| [Locator](./locator) | الفئة الأساسية المجردة لـ Xlink من نوع Locator. |
+| [PresentationArc](./presentationarc) | هذه الفئة هي [`Xlink`](../aspose.finance.xbrl/xlink) من نوع Arc. إنها تحدد كيف ترتبط المفاهيم ببعضها لتقديم العرض. |
+| [PresentationLink](./presentationlink) | هذه الفئة مُصممة لوصف العلاقات التقديمية بين المفاهيم في التصنيفات. |
+| [PresentationLinkbaseRef](./presentationlinkbaseref) | هذه الفئة تُستخدم لمرجع قاعدة الروابط التقديمية. |
+| [QualifiedName](./qualifiedname) | نوع مخطط XML "QName" كما هو معرف في مساحة الاسم http://www.w3.org/2001/XMLSchema. |
+| [Reference](./reference) | هذه الفئة هي [`Xlink`](../aspose.finance.xbrl/xlink) من نوع Resource. إنها تمكّن تصنيفات XBRL من ربط تعريفات المفاهيم ببيانات موثوقة في الأدبيات التجارية والمالية والمحاسبية المنشورة. |
+| [ReferenceArc](./referencearc) | هذه الفئة هي [`Xlink`](../aspose.finance.xbrl/xlink) من نوع Arc. إنها تربط المفاهيم بموارد المراجع. |
+| [ReferenceLink](./referencelink) | هذه الفئة مُصممة لاحتواء العلاقات بين المفاهيم والمراجع إلى البيانات الموثوقة في الأدبيات التجارية والمالية والمحاسبية المنشورة التي تعطي معنى للمفاهيم. |
+| [ReferenceLinkbaseRef](./referencelinkbaseref) | هذه الفئة تُستخدم لمرجع قاعدة الروابط. |
+| [ReferencePart](./referencepart) | العضو الفرعي لـ [`Reference`](../aspose.finance.xbrl/reference). |
+| [Resource](./resource) | الفئة الأساسية المجردة لـ Xlink من نوع Resource. |
+| [RoleReference](./rolereference) | يُستخدم هذا الصنف في نسخة XBRL للإشارة إلى تعريفات أي قيم سمات دور مخصصة تُستَخدم في روابط الحواشي السفلية في نسخة XBRL. |
+| [RoleType](./roletype) | يُستخدم هذا الصنف لتحديد نوع الدور المخصص. |
+| [SaveOptions](./saveoptions) | يمثل خيارات الحفظ. |
+| [SchemaRef](./schemaref) | هذا الصنف هو إشارة إلى مخطط تصنيف يصبح جزءًا من نظام DTS الداعم لنسخة XBRL. |
+| [SchemaRefCollection](./schemarefcollection) | مجموعة من مراجع المخطط. |
+| [SecHtmlReportSaveOption](./sechtmlreportsaveoption) | يمثل الخيارات لحفظ تقرير sec html. |
 | [SimpleLink](./simplelink) | نوع بسيط Xlink. |
-| [Tuple](./tuple) | المجموعة هي عنصر في مجموعة الاستبدال لعنصر مجموعة XBRL . يتم استخدام Tuple لربط أجزاء حقيقة مركبة معًا. هذه الأجزاء المكونة هي نفسها حقائق ولكن يجب تفسيرها في ضوء بعضها البعض. على سبيل المثال ، يجب تجميع اسم وعمر وتعويض مدير شركة معًا لفهمها بشكل صحيح. |
-| [Unit](./unit) | تُستخدم هذه الفئة لتحديد الوحدات التي تم قياس العنصر الرقمي بها. |
-| [XbrlDocument](./xbrldocument) | مستند XBRL يحتوي على مثيل XBRL واحد أو أكثر. |
-| [XbrlException](./xbrlexception) | الاستثناء الذي يتم طرحه عند حدوث خطأ Aspose.Finance.Xbrl المحدد. |
-| [XbrlInstance](./xbrlinstance) | مثيل XBRL هو جزء XML مع عنصر جذر به علامة xbrl. يحتوي مثيل XBRL على حقائق عن تقرير الأعمال ، مع كل حقيقة تتطابق مع ملف[`Concept`](../aspose.finance.xbrl/concept) المحددة في DTS الداعمة. يحتوي مثيل XBRL أيضًا على سياقات ووحدات توفر معلومات إضافية مطلوبة لتفسير الحقائق في المثال. |
-| [XbrlInstanceCollection](./xbrlinstancecollection) | مجموعة مثيلات XBRL . |
-| [Xlink](./xlink) | فئة الملخص لجميع أنواع الروابط في XBRL ، مثل الارتباط البسيط والرابط الموسع وما إلى ذلك. |
+| [Tuple](./tuple) | المجموعة (tuple) هي عنصر في مجموعة الاستبدال لعنصر مجموعة XBRL. تُستخدم المجموعات لربط أجزاء حقيقة مركبة معًا. تلك الأجزاء المكوّنة هي في حد ذاتها حقائق ولكن يجب تفسيرها في ضوء بعضها البعض. على سبيل المثال، يجب تجميع الاسم والعمر والتعويض لمدير شركة معًا لتُفهم بشكل صحيح. |
+| [Unit](./unit) | يُستخدم هذا الصنف لتحديد الوحدات التي تم قياس العنصر الرقمي بها. |
+| [XbrlDocument](./xbrldocument) | مستند XBRL يحتوي على نسخة XBRL واحدة أو أكثر. |
+| [XbrlException](./xbrlexception) | الاستثناء الذي يُرمى عندما يحدث خطأ محدد في Aspose.Finance.Xbrl. |
+| [XbrlInstance](./xbrlinstance) | نسخة XBRL هي جزء XML يحتوي على عنصر جذر يحمل وسم xbrl. تحتوي نسخة XBRL على حقائق تقرير الأعمال، حيث يتطابق كل حقيقة مع [`Concept`](../aspose.finance.xbrl/concept) معرف في نظام DTS الداعم لها. كما تحتوي نسخة XBRL على سياقات ووحدات توفر معلومات إضافية ضرورية لتفسير الحقائق في النسخة. |
+| [XbrlInstanceCollection](./xbrlinstancecollection) | مجموعة من نسخ XBRL. |
+| [Xlink](./xlink) | فئة مجردة لجميع أنواع الروابط في XBRL، مثل الرابط البسيط، الرابط الموسع، وما إلى ذلك. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [ArcUse](./arcuse) | تعداد استخدام القوس . |
-| [ContextPeriodType](./contextperiodtype) | [`ContextPeriod`](../aspose.finance.xbrl/contextperiod) اكتب التعداد . |
-| [ElementBalanceType](./elementbalancetype) | [`Concept`](../aspose.finance.xbrl/concept) تعداد نوع الرصيد. |
-| [ElementPeriodType](./elementperiodtype) | [`Concept`](../aspose.finance.xbrl/concept) تعداد نوع الفترة . |
-| [ElementSubstitutionGroup](./elementsubstitutiongroup) | [`Concept`](../aspose.finance.xbrl/concept) تعداد نوع الاستبدال. |
-| [ReferenceRole](./referencerole) | تعداد الدور المرجعي . |
+| [ArcUse](./arcuse) | تعداد استخدام القوس. |
+| [ContextPeriodType](./contextperiodtype) | تعداد نوع [`ContextPeriod`](../aspose.finance.xbrl/contextperiod). |
+| [ElementBalanceType](./elementbalancetype) | تعداد نوع التوازن لـ [`Concept`](../aspose.finance.xbrl/concept). |
+| [ElementPeriodType](./elementperiodtype) | تعداد نوع الفترة لـ [`Concept`](../aspose.finance.xbrl/concept). |
+| [ElementSubstitutionGroup](./elementsubstitutiongroup) | تعداد نوع الاستبدال لـ [`Concept`](../aspose.finance.xbrl/concept). |
+| [ReferenceRole](./referencerole) | تعداد دور المرجع. |
 | [SaveFormat](./saveformat) |  |
-| [UnitType](./unittype) | تعداد نوع الوحدة . |
+| [UnitType](./unittype) | تعداد نوع الوحدة. |
 | [XbrlExceptionType](./xbrlexceptiontype) | يمثل رمز نوع الاستثناء المخصص. |
-| [XlinkType](./xlinktype) | تعداد نوع Xlink . |
+| [XlinkType](./xlinktype) | تعداد نوع Xlink. |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

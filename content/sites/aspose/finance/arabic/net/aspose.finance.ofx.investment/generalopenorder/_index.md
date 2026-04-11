@@ -1,47 +1,47 @@
 ---
 title: GeneralOpenOrder
-second_title: Aspose.Finance لمرجع .NET API
-description: تحتوي الفئة على حقول مشتركة لجميع الطلبات المفتوحة.
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: الفئة تحتوي على حقول مشتركة لجميع الأوامر المفتوحة.
 type: docs
-weight: 2830
+weight: 2840
 url: /ar/net/aspose.finance.ofx.investment/generalopenorder/
 ---
 ## GeneralOpenOrder class
 
-تحتوي الفئة على حقول مشتركة لجميع الطلبات المفتوحة.
+الفئة تحتوي على حقول مشتركة لجميع الأوامر المفتوحة.
 
 ```csharp
 public class GeneralOpenOrder
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GeneralOpenOrder](generalopenorder)() | يقوم بتهيئة مثيل جديد من[`GeneralOpenOrder`](../generalopenorder) فئة . |
+| [GeneralOpenOrder](generalopenorder)() | Initializes a new instance of [`GeneralOpenOrder`](../generalopenorder) class. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Currency](../../aspose.finance.ofx.investment/generalopenorder/currency) { get; set; } | يحصل أو يحدد ملف[`Currency`](./currency) . |
-| [Duration](../../aspose.finance.ofx.investment/generalopenorder/duration) { get; set; } | الحصول على أو تحديد المدة التي يكون فيها الأمر جيدًا . |
-| [FITransactionId](../../aspose.finance.ofx.investment/generalopenorder/fitransactionid) { get; set; } | الحصول على أو تعيين معرف المعاملة الفريد المخصص لـ FI. |
-| [Investment401kSource](../../aspose.finance.ofx.investment/generalopenorder/investment401ksource) { get; set; } | الحصول على أو تحديد مصدر الأموال لهذا الطلب لحسابات 401 (k) . |
-| [LimitPrice](../../aspose.finance.ofx.investment/generalopenorder/limitprice) { get; set; } | الحصول على السعر المحدد أو تعيينه . |
-| [Memo](../../aspose.finance.ofx.investment/generalopenorder/memo) { get; set; } | الحصول على المعلومات الأخرى حول الطلب أو تعيينها. |
-| [MinUnits](../../aspose.finance.ofx.investment/generalopenorder/minunits) { get; set; } | الحصول على أو تعيين الحد الأدنى لعدد الوحدات التي يجب ملؤها للأمر. |
-| [PlacedDate](../../aspose.finance.ofx.investment/generalopenorder/placeddate) { get; set; } | الحصول على أو تحديد التاريخ والوقت الذي تم فيه تقديم الطلب. |
-| [Restriction](../../aspose.finance.ofx.investment/generalopenorder/restriction) { get; set; } | الحصول على أو تعيين القيد الخاص على الأمر. |
-| [SecurityId](../../aspose.finance.ofx.investment/generalopenorder/securityid) { get; set; } | يحصل أو يحدد ملف[`SecurityId`](./securityid) . |
-| [ServerId](../../aspose.finance.ofx.investment/generalopenorder/serverid) { get; set; } | الحصول على أو تعيين معرف المعاملة الفريد المعين من قبل الخادم. |
-| [StopPrice](../../aspose.finance.ofx.investment/generalopenorder/stopprice) { get; set; } | الحصول على سعر الإيقاف أو تحديده. |
-| [SubAccount](../../aspose.finance.ofx.investment/generalopenorder/subaccount) { get; set; } | الحصول على نوع الحساب الفرعي أو تحديده. |
-| [Units](../../aspose.finance.ofx.investment/generalopenorder/units) { get; set; } | الحصول على أو تحديد كمية الأمان التي يكون الأمر المفتوح لها . |
+| [Currency](../../aspose.finance.ofx.investment/generalopenorder/currency) { get; set; } | يحصل أو يضبط الـ [`Currency`](./currency). |
+| [Duration](../../aspose.finance.ofx.investment/generalopenorder/duration) { get; set; } | Gets or sets how long the order is good for. |
+| [FITransactionId](../../aspose.finance.ofx.investment/generalopenorder/fitransactionid) { get; set; } | Gets or sets the unique FI-assigned transaction ID. |
+| [Investment401kSource](../../aspose.finance.ofx.investment/generalopenorder/investment401ksource) { get; set; } | Gets or sets the source of money for this order for 401(k) accounts. |
+| [LimitPrice](../../aspose.finance.ofx.investment/generalopenorder/limitprice) { get; set; } | Gets or sets the limit price. |
+| [Memo](../../aspose.finance.ofx.investment/generalopenorder/memo) { get; set; } | Gets or sets the other information about order. |
+| [MinUnits](../../aspose.finance.ofx.investment/generalopenorder/minunits) { get; set; } | Gets or sets the minimum number of units that must be filled for the order. |
+| [PlacedDate](../../aspose.finance.ofx.investment/generalopenorder/placeddate) { get; set; } | Gets or sets the date-time the order was placed. |
+| [Restriction](../../aspose.finance.ofx.investment/generalopenorder/restriction) { get; set; } | Gets or sets the special restriction on the order. |
+| [SecurityId](../../aspose.finance.ofx.investment/generalopenorder/securityid) { get; set; } | يحصل أو يضبط الـ[`SecurityId`](./securityid). |
+| [ServerId](../../aspose.finance.ofx.investment/generalopenorder/serverid) { get; set; } | Gets or sets the unique server-assigned transaction ID. |
+| [StopPrice](../../aspose.finance.ofx.investment/generalopenorder/stopprice) { get; set; } | Gets or sets the stop price. |
+| [SubAccount](../../aspose.finance.ofx.investment/generalopenorder/subaccount) { get; set; } | يحصل أو يعيّن نوع الحساب الفرعي. |
+| [Units](../../aspose.finance.ofx.investment/generalopenorder/units) { get; set; } | Gets or sets the quantity of the security the open order is for. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Finance.Ofx.Investment](../../aspose.finance.ofx.investment)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx.Investment](../../aspose.finance.ofx.investment)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

@@ -1,6 +1,6 @@
 ---
 title: CreditCardStatementResponse
-second_title: Aspose.Finance لمرجع .NET API
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
 description: فئة استجابة تنزيل بطاقة الائتمان.
 type: docs
 weight: 2010
@@ -14,33 +14,33 @@ url: /ar/net/aspose.finance.ofx.creditcard/creditcardstatementresponse/
 public class CreditCardStatementResponse
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CreditCardStatementResponse](creditcardstatementresponse)() | يقوم بتهيئة مثيل جديد من[`CreditCardStatementResponse`](../creditcardstatementresponse) فئة . |
+| [CreditCardStatementResponse](creditcardstatementresponse)() | يقوم بإنشاء نسخة جديدة من الفئة [`CreditCardStatementResponse`](../creditcardstatementresponse). |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AvailableBalance](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/availablebalance) { get; set; } | الحصول على أو تعيين من[`AvailableBalance`](./availablebalance) . |
-| [BalanceList](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/balancelist) { get; set; } | يحصل أو يحدد مجموعة[`Balance`](../../aspose.finance.ofx/balance) . |
-| [BankTransactionList](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/banktransactionlist) { get; set; } | الحصول على أو تعيين من[`BankTransactionList`](./banktransactionlist) . |
-| [CashAdvanceBalanceAmount](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/cashadvancebalanceamount) { get; set; } | الحصول على أو تعيين مبلغ الرصيد الحالي للسلف النقدية وقت التنزيل. |
-| [CreditCardAccountFrom](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/creditcardaccountfrom) { get; set; } | الحصول على أو تعيين من[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) . |
-| [Currency](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/currency) { get; set; } | الحصول على العملة الافتراضية للبيان أو تعيينها. |
-| [InterestRateCash](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratecash) { get; set; } | الحصول على أو تحديد معدل الفائدة الحالي للسلف النقدية السارية وقت التنزيل. |
-| [InterestRatePurchases](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratepurchases) { get; set; } | الحصول على أو تحديد معدل الفائدة الحالي للمشتريات السارية وقت التنزيل. |
-| [InterestRateTransfer](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratetransfer) { get; set; } | الحصول على أو تحديد معدل الفائدة الحالي لعمليات تحويل الأرصدة السارية وقت التنزيل. |
-| [LedgerBalance](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/ledgerbalance) { get; set; } | الحصول على أو تعيين من[`LedgerBalance`](./ledgerbalance) . |
-| [MarketingInformation](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/marketinginformation) { get; set; } | الحصول على معلومات التسويق أو تعيينها. |
-| [PendingTransactionList](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/pendingtransactionlist) { get; set; } | الحصول على أو تعيين من[`PendingTransactionList`](./pendingtransactionlist) . |
-| [RewardInfo](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/rewardinfo) { get; set; } | يحصل أو يحدد ملف[`RewardInfoType`](../../aspose.finance.ofx/rewardinfotype) . |
+| [AvailableBalance](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/availablebalance) { get; set; } | يحصل أو يضبط الـ from of [`AvailableBalance`](./availablebalance). |
+| [BalanceList](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/balancelist) { get; set; } | يحصل أو يضبط مجموعة الـ [`Balance`](../../aspose.finance.ofx/balance). |
+| [BankTransactionList](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/banktransactionlist) { get; set; } | يحصل أو يضبط الـ from of [`BankTransactionList`](./banktransactionlist). |
+| [CashAdvanceBalanceAmount](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/cashadvancebalanceamount) { get; set; } | يحصل أو يضبط مقدار الرصيد الحالي للسحوبات النقدية في وقت التحميل. |
+| [CreditCardAccountFrom](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/creditcardaccountfrom) { get; set; } | يحصل أو يضبط الـ from of [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
+| [Currency](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/currency) { get; set; } | يحصل أو يضبط العملة الافتراضية للبيان. |
+| [InterestRateCash](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratecash) { get; set; } | يحصل أو يضبط معدل الفائدة الحالي للسحوبات النقدية الساري في وقت التحميل. |
+| [InterestRatePurchases](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratepurchases) { get; set; } | يحصل أو يضبط معدل الفائدة الحالي للمشتريات الساري في وقت التحميل. |
+| [InterestRateTransfer](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratetransfer) { get; set; } | يحصل أو يضبط معدل الفائدة الحالي لتحويلات الرصيد الساري في وقت التحميل. |
+| [LedgerBalance](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/ledgerbalance) { get; set; } | يحصل أو يضبط الـ from of [`LedgerBalance`](./ledgerbalance). |
+| [MarketingInformation](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/marketinginformation) { get; set; } | يحصل أو يضبط معلومات التسويق. |
+| [PendingTransactionList](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/pendingtransactionlist) { get; set; } | يحصل أو يضبط الـ from of [`PendingTransactionList`](./pendingtransactionlist). |
+| [RewardInfo](../../aspose.finance.ofx.creditcard/creditcardstatementresponse/rewardinfo) { get; set; } | يحصل أو يضبط الـ [`RewardInfoType`](../../aspose.finance.ofx/rewardinfotype). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Finance.Ofx.CreditCard](../../aspose.finance.ofx.creditcard)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx.CreditCard](../../aspose.finance.ofx.creditcard)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

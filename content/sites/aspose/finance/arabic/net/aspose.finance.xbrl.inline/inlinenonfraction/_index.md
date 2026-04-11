@@ -1,14 +1,14 @@
 ---
 title: InlineNonfraction
-second_title: Aspose.Finance لمرجع .NET API
-description: هذه الفئة مخصصة لعنصر XBRL الرقمي الذي ليس من النوع الكسور في مستند XBRL المضمن.
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: هذه الفئة مخصصة للعنصر الرقمي XBRL الذي ليس fractionItemType في مستند XBRL مضمن.
 type: docs
-weight: 7700
+weight: 7740
 url: /ar/net/aspose.finance.xbrl.inline/inlinenonfraction/
 ---
 ## InlineNonfraction class
 
-هذه الفئة مخصصة لعنصر XBRL الرقمي الذي ليس من النوع الكسور في مستند XBRL المضمن.
+هذه الفئة مخصصة للعنصر الرقمي XBRL الذي ليس fractionItemType في مستند XBRL مضمن.
 
 ```csharp
 public class InlineNonfraction : InlineFact
@@ -16,30 +16,30 @@ public class InlineNonfraction : InlineFact
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ContextRef](../../aspose.finance.xbrl.inline/inlinenonfraction/contextref) { get; set; } | الحصول على أو تعيين المرجع لملف[`Context`](../../aspose.finance.xbrl/context) التابع[`InlineNonfraction`](../inlinenonfraction) . |
-| [Decimals](../../aspose.finance.xbrl.inline/inlinenonfraction/decimals) { get; set; } | يحصل أو يحدد الرقم العشري لملف[`InlineNonfraction`](../inlinenonfraction) . |
-| [Format](../../aspose.finance.xbrl.inline/inlinenonfraction/format) { get; set; } | الحصول على تنسيق ملف[`InlineNonfraction`](../inlinenonfraction) . |
-| [Hidden](../../aspose.finance.xbrl.inline/inlinefact/hidden) { get; set; } | الحصول على أو تحديد ما إذا كانت هذه الحقيقة مخفية. |
-| [Id](../../aspose.finance.xbrl.inline/inlinefact/id) { get; set; } | الحصول على معرف الحقيقة المضمنة أو تعيينه. |
-| [InfiniteDecimals](../../aspose.finance.xbrl.inline/inlinenonfraction/infinitedecimals) { get; set; } | الحصول على أو تحديد ما إذا كان يحتوي على عدد عشري لانهائي. |
-| [InfinitePrecision](../../aspose.finance.xbrl.inline/inlinenonfraction/infiniteprecision) { get; set; } | الحصول على أو تحديد ما إذا كانت الدقة غير محدودة. |
-| [Name](../../aspose.finance.xbrl.inline/inlinefact/name) { get; set; } | الحصول على الاسم المؤهل للحقيقة المضمنة أو تعيينه. |
-| [Order](../../aspose.finance.xbrl.inline/inlinenonfraction/order) { get; set; } | الحصول على أو تحديد ترتيب ملف[`InlineNonfraction`](../inlinenonfraction) . |
-| [Precision](../../aspose.finance.xbrl.inline/inlinenonfraction/precision) { get; set; } | الحصول على دقة ملف[`InlineNonfraction`](../inlinenonfraction) . |
-| [Scale](../../aspose.finance.xbrl.inline/inlinenonfraction/scale) { get; set; } | الحصول على أو تحديد مقياس[`InlineNonfraction`](../inlinenonfraction) . |
-| [SchemaConcept](../../aspose.finance.xbrl.inline/inlinenonfraction/schemaconcept) { get; } | يحصل على مفهوم[`InlineNonfraction`](../inlinenonfraction) . |
-| [Sign](../../aspose.finance.xbrl.inline/inlinenonfraction/sign) { get; set; } | يحصل أو يحدد علامة ملف[`InlineNonfraction`](../inlinenonfraction) . |
-| [TargetId](../../aspose.finance.xbrl.inline/inlinenonfraction/targetid) { get; set; } | الحصول على أو تعيين المعرف الهدف لملف[`InlineNonfraction`](../inlinenonfraction) . |
-| [TupleRefId](../../aspose.finance.xbrl.inline/inlinenonfraction/tuplerefid) { get; set; } | الحصول على أو تعيين معرف المرجع لمجموعة ملفات[`InlineNonfraction`](../inlinenonfraction) . |
-| [UnitRef](../../aspose.finance.xbrl.inline/inlinenonfraction/unitref) { get; set; } | الحصول على أو تعيين المرجع لملف[`Unit`](../../aspose.finance.xbrl/unit) التابع[`InlineNonfraction`](../inlinenonfraction) . |
-| [Value](../../aspose.finance.xbrl.inline/inlinenonfraction/value) { get; set; } | الحصول على أو تحديد قيمة ملف[`InlineNonfraction`](../inlinenonfraction) . |
+| [ContextRef](../../aspose.finance.xbrl.inline/inlinenonfraction/contextref) { get; set; } | الحصول أو تعيين المرجع إلى الـ [`Context`](../../aspose.finance.xbrl/context) للـ [`InlineNonfraction`](../inlinenonfraction). |
+| [Decimals](../../aspose.finance.xbrl.inline/inlinenonfraction/decimals) { get; set; } | الحصول أو تعيين القيمة العشرية للـ [`InlineNonfraction`](../inlinenonfraction). |
+| [Format](../../aspose.finance.xbrl.inline/inlinenonfraction/format) { get; set; } | الحصول أو تعيين تنسيق الـ [`InlineNonfraction`](../inlinenonfraction). |
+| [Hidden](../../aspose.finance.xbrl.inline/inlinefact/hidden) { get; set; } | يحصل أو يضبط ما إذا كانت هذه الحقيقة مخفية. |
+| [Id](../../aspose.finance.xbrl.inline/inlinefact/id) { get; set; } | يحصل أو يضبط المعرف للحقية المضمنة. |
+| [InfiniteDecimals](../../aspose.finance.xbrl.inline/inlinenonfraction/infinitedecimals) { get; set; } | الحصول أو تعيين ما إذا كان يحتوي على قيمة عشرية لا نهائية. |
+| [InfinitePrecision](../../aspose.finance.xbrl.inline/inlinenonfraction/infiniteprecision) { get; set; } | الحصول أو تعيين ما إذا كان يحتوي على دقة لا نهائية. |
+| [Name](../../aspose.finance.xbrl.inline/inlinefact/name) { get; set; } | يحصل أو يضبط الاسم المؤهل للحقية المضمنة. |
+| [Order](../../aspose.finance.xbrl.inline/inlinenonfraction/order) { get; set; } | الحصول أو تعيين ترتيب الـ [`InlineNonfraction`](../inlinenonfraction). |
+| [Precision](../../aspose.finance.xbrl.inline/inlinenonfraction/precision) { get; set; } | الحصول أو تعيين دقة الـ [`InlineNonfraction`](../inlinenonfraction). |
+| [Scale](../../aspose.finance.xbrl.inline/inlinenonfraction/scale) { get; set; } | الحصول أو تعيين مقياس الـ [`InlineNonfraction`](../inlinenonfraction). |
+| [SchemaConcept](../../aspose.finance.xbrl.inline/inlinenonfraction/schemaconcept) { get; } | الحصول على مفهوم الـ [`InlineNonfraction`](../inlinenonfraction). |
+| [Sign](../../aspose.finance.xbrl.inline/inlinenonfraction/sign) { get; set; } | الحصول أو تعيين إشارة الـ [`InlineNonfraction`](../inlinenonfraction). |
+| [TargetId](../../aspose.finance.xbrl.inline/inlinenonfraction/targetid) { get; set; } | الحصول أو تعيين معرف الهدف للـ [`InlineNonfraction`](../inlinenonfraction). |
+| [TupleRefId](../../aspose.finance.xbrl.inline/inlinenonfraction/tuplerefid) { get; set; } | يحصل أو يعيّن معرف إشارة المجموعة للـ [`InlineNonfraction`](../inlinenonfraction). |
+| [UnitRef](../../aspose.finance.xbrl.inline/inlinenonfraction/unitref) { get; set; } | يحصل أو يعيّن الإشارة إلى الـ [`Unit`](../../aspose.finance.xbrl/unit) للـ [`InlineNonfraction`](../inlinenonfraction). |
+| [Value](../../aspose.finance.xbrl.inline/inlinenonfraction/value) { get; set; } | يحصل أو يعيّن قيمة الـ [`InlineNonfraction`](../inlinenonfraction). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InlineFact](../inlinefact)
-* مساحة الاسم [Aspose.Finance.Xbrl.Inline](../../aspose.finance.xbrl.inline)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Xbrl.Inline](../../aspose.finance.xbrl.inline)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

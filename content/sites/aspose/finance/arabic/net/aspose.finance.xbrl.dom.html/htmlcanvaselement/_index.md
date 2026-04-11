@@ -1,14 +1,14 @@
 ---
 title: HTMLCanvasElement
-second_title: Aspose.Finance لمرجع .NET API
-description: توفر الفئة خصائص وطرق لمعالجة تخطيط عناصر لوحة الرسم وعرضها.
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: الصفّ يوفّر خصائص وطرقًا للتلاعب بتخطيط وعرض عناصر canvas.
 type: docs
-weight: 6780
+weight: 6810
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlcanvaselement/
 ---
 ## HTMLCanvasElement class
 
-توفر الفئة خصائص وطرق لمعالجة تخطيط عناصر لوحة الرسم وعرضها.
+الصفّ يوفّر خصائص وطرقًا للتلاعب بتخطيط وعرض عناصر canvas.
 
 ```csharp
 public class HTMLCanvasElement : HTMLElement
@@ -16,53 +16,53 @@ public class HTMLCanvasElement : HTMLElement
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Attributes](../../aspose.finance.xbrl.dom/element/attributes) { get; } | يحصل على سمات العنصر . |
-| virtual [BaseURI](../../aspose.finance.xbrl.dom/node/baseuri) { get; } | الحصول على URI الأساسي المطلق لهذه العقدة أو فارغًا إذا لم يتمكن التطبيق من الحصول على URI مطلق. |
-| [ChildElements](../../aspose.finance.xbrl.dom/element/childelements) { get; } | الحصول على العناصر الفرعية للعنصر . |
-| [ChildNodes](../../aspose.finance.xbrl.dom/node/childnodes) { get; } | يحصل على العقد الفرعية . |
-| [ClassName](../../aspose.finance.xbrl.dom.html/htmlelement/classname) { get; set; } | الحصول على أو تعيين سمة فئة العنصر. تمت إعادة تسمية هذه السمة بسبب التعارض مع الكلمة الأساسية "الفئة" المعروضة في العديد من اللغات. راجع تعريف سمة الفئة في HTML 4.01. |
-| [Dir](../../aspose.finance.xbrl.dom.html/htmlelement/dir) { get; set; } | الحصول على أو تحديد الاتجاه الأساسي للنص المحايد اتجاهيًا واتجاه الجداول. راجع تعريف سمة dir في HTML 4.01. |
-| [FirstChild](../../aspose.finance.xbrl.dom/node/firstchild) { get; } | الحصول على الطفل الأول لهذه العقدة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعود فارغًا. |
-| [HasChildNodes](../../aspose.finance.xbrl.dom/node/haschildnodes) { get; } | التعرف على ما إذا كانت هذه العقدة بها أي توابع. |
-| [Id](../../aspose.finance.xbrl.dom.html/htmlelement/id) { get; set; } | الحصول على أو تحديد معرف العنصر. راجع تعريف سمة المعرف في HTML 4.01. |
-| [Lang](../../aspose.finance.xbrl.dom.html/htmlelement/lang) { get; set; } | الحصول على أو تعيين رمز اللغة المحدد في RFC 1766. راجع تعريف سمة lang في HTML 4.01. |
-| [LastChild](../../aspose.finance.xbrl.dom/node/lastchild) { get; } | الحصول على آخر تابع لهذه العقدة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعود فارغًا. |
-| override [LocalName](../../aspose.finance.xbrl.dom/element/localname) { get; } | الحصول على الاسم المحلي للعنصر. |
-| override [NamespaceURI](../../aspose.finance.xbrl.dom/element/namespaceuri) { get; } | يحصل على مساحة الاسم URI للعنصر. |
-| [NextSibling](../../aspose.finance.xbrl.dom/node/nextsibling) { get; } | يحصل على العقدة التي تلي هذه العقدة مباشرة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعود فارغًا. |
-| override [NodeName](../../aspose.finance.xbrl.dom/element/nodename) { get; } | الحصول على اسم عقدة العنصر. |
-| [NodeType](../../aspose.finance.xbrl.dom/node/nodetype) { get; } | يحصل على نوع العقدة . |
-| virtual [NodeValue](../../aspose.finance.xbrl.dom/node/nodevalue) { get; set; } | الحصول على أو تحديد قيمة هذه العقدة ، حسب نوعها. |
+| [Attributes](../../aspose.finance.xbrl.dom/element/attributes) { get; } | يحصل على سمات العنصر. |
+| virtual [BaseURI](../../aspose.finance.xbrl.dom/node/baseuri) { get; } | يحصل على عنوان URI الأساسي المطلق لهذه العقدة أو null إذا لم يتمكن التنفيذ من الحصول على عنوان URI مطلق. |
+| [ChildElements](../../aspose.finance.xbrl.dom/element/childelements) { get; } | يحصل على العناصر الفرعية للعنصر. |
+| [ChildNodes](../../aspose.finance.xbrl.dom/node/childnodes) { get; } | يحصل على العقد الفرعية. |
+| [ClassName](../../aspose.finance.xbrl.dom.html/htmlelement/classname) { get; set; } | يحصل أو يعيّن سمة الفئة للعنصر. تم إعادة تسمية هذه السمة بسبب تعارضات مع كلمة "class" المفتاحية التي تُعرض في العديد من اللغات. راجع تعريف سمة الفئة في HTML 4.01. |
+| [Dir](../../aspose.finance.xbrl.dom.html/htmlelement/dir) { get; set; } | يحصل أو يعيّن الاتجاه الأساسي للنص المحايد اتجاهيًا واتجاه الجداول. راجع تعريف سمة dir في HTML 4.01. |
+| [FirstChild](../../aspose.finance.xbrl.dom/node/firstchild) { get; } | يحصل على العنصر الفرعي الأول لهذه العقدة. إذا لم توجد مثل هذه العقدة، فإنها تُعيد null. |
+| [HasChildNodes](../../aspose.finance.xbrl.dom/node/haschildnodes) { get; } | يحصل على ما إذا كانت هذه العقدة لديها أي أبناء. |
+| [Id](../../aspose.finance.xbrl.dom.html/htmlelement/id) { get; set; } | يحصل أو يعيّن معرف العنصر. راجع تعريف سمة id في HTML 4.01. |
+| [Lang](../../aspose.finance.xbrl.dom.html/htmlelement/lang) { get; set; } | يحصل أو يعيّن رمز اللغة المحدد في RFC 1766. راجع تعريف سمة lang في HTML 4.01. |
+| [LastChild](../../aspose.finance.xbrl.dom/node/lastchild) { get; } | يحصل على العنصر الفرعي الأخير لهذه العقدة. إذا لم توجد مثل هذه العقدة، فإنها تُعيد null. |
+| override [LocalName](../../aspose.finance.xbrl.dom/element/localname) { get; } | يحصل على الاسم المحلي للعنصر. |
+| override [NamespaceURI](../../aspose.finance.xbrl.dom/element/namespaceuri) { get; } | يحصل على عنوان URI للمساحة الاسمية للعنصر. |
+| [NextSibling](../../aspose.finance.xbrl.dom/node/nextsibling) { get; } | يحصل على العقدة التي تلي هذه العقدة مباشرة. إذا لم توجد مثل هذه العقدة، فإنها تُعيد null. |
+| override [NodeName](../../aspose.finance.xbrl.dom/element/nodename) { get; } | يحصل على اسم العقدة للعنصر. |
+| [NodeType](../../aspose.finance.xbrl.dom/node/nodetype) { get; } | يحصل على نوع العقدة. |
+| virtual [NodeValue](../../aspose.finance.xbrl.dom/node/nodevalue) { get; set; } | يحصل أو يعيّن قيمة هذه العقدة، حسب نوعها. |
 | [OwnerDocument](../../aspose.finance.xbrl.dom/node/ownerdocument) { get; } | يحصل على كائن المستند المرتبط بهذه العقدة. |
-| [ParentElement](../../aspose.finance.xbrl.dom/element/parentelement) { get; } | يحصل على العنصر الأصل للعنصر. |
-| [ParentNode](../../aspose.finance.xbrl.dom/node/parentnode) { get; } | يحصل على العقدة الأصلية . |
-| override [Prefix](../../aspose.finance.xbrl.dom/element/prefix) { get; } | الحصول على بادئة العنصر. |
-| [PreviousSibling](../../aspose.finance.xbrl.dom/node/previoussibling) { get; } | يحصل على العقدة التي تسبق هذه العقدة مباشرة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعود فارغًا. |
+| [ParentElement](../../aspose.finance.xbrl.dom/element/parentelement) { get; } | يحصل على العنصر الأب للعنصر. |
+| [ParentNode](../../aspose.finance.xbrl.dom/node/parentnode) { get; } | يحصل على العقدة الأب. |
+| override [Prefix](../../aspose.finance.xbrl.dom/element/prefix) { get; } | يحصل على البادئة للعنصر. |
+| [PreviousSibling](../../aspose.finance.xbrl.dom/node/previoussibling) { get; } | يحصل على العقدة التي تسبق هذه العقدة مباشرةً. إذا لم توجد مثل هذه العقدة، فإنها تُعيد null. |
 | override [TextContent](../../aspose.finance.xbrl.dom/element/textcontent) { get; set; } | يحصل على محتوى النص للعنصر. |
-| [Title](../../aspose.finance.xbrl.dom.html/htmlelement/title) { get; set; } | الحصول على العنوان الاستشاري للعنصر أو تعيينه. راجع تعريف سمة العنوان في HTML 4.01. |
+| [Title](../../aspose.finance.xbrl.dom.html/htmlelement/title) { get; set; } | يحصل أو يعيّن العنوان الاستشاري للعنصر. راجع تعريف سمة title في HTML 4.01. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AppendChild](../../aspose.finance.xbrl.dom/node/appendchild)(Node) | يضيف العقدة newChild إلى نهاية قائمة الأطفال لهذه العقدة . |
-| [GetAttribute](../../aspose.finance.xbrl.dom/element/getattribute)(string) | يحصل على قيمة سمة بالاسم. |
-| [GetAttributeNS](../../aspose.finance.xbrl.dom/element/getattributens)(string, string) | الحصول على قيمة سمة حسب الاسم المحلي ومساحة URI. |
-| [HasAttribute](../../aspose.finance.xbrl.dom/element/hasattribute)(string) | إرجاع صحيح عندما يتم تحديد سمة تحمل اسمًا معينًا في هذا العنصر أو عندما تكون لها قيمة افتراضية ، أو خطأ بخلاف ذلك. |
-| [HasAttributeNS](../../aspose.finance.xbrl.dom/element/hasattributens)(string, string) | إرجاع صحيح عندما يتم تحديد سمة ذات اسم محلي ومساحة اسم URI على هذا العنصر أو لها قيمة افتراضية ، خطأ بخلاف ذلك. |
-| [RemoveAttribute](../../aspose.finance.xbrl.dom/element/removeattribute)(string) | يزيل سمة حسب الاسم. |
-| [RemoveAttributeNS](../../aspose.finance.xbrl.dom/element/removeattributens)(string, string) | يزيل سمة حسب الاسم المحلي ومساحة URI. |
-| [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | يزيل العقدة الفرعية التي أشار إليها الطفل الكبير من قائمة الأطفال. |
-| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | يستبدل العقدة الفرعية الطفل القديم بالعقدة التابعة للطفل الجديد في قائمة الأطفال ، ويعيد العقدة الفرعية القديمة. |
-| [SetAttribute](../../aspose.finance.xbrl.dom/element/setattribute)(string, string) | إضافة سمة جديدة. إذا كانت السمة التي تحمل هذا الاسم موجودة بالفعل في العنصر ، فسيتم تغيير قيمتها لتصبح قيمة معلمة القيمة. |
-| [SetAttributeNS](../../aspose.finance.xbrl.dom/element/setattributens)(string, string, string) | إضافة سمة جديدة. إذا كانت سمة تحمل نفس الاسم المحلي ومساحة URI موجودة بالفعل على العنصر ، فسيتم تغيير بادئتها لتكون جزء البادئة من الاسم المؤهل ، ويتم تغيير قيمتها لتكون معلمة القيمة. |
+| [AppendChild](../../aspose.finance.xbrl.dom/node/appendchild)(Node) | يضيف العقدة newChild إلى نهاية قائمة الأطفال لهذه العقدة. |
+| [GetAttribute](../../aspose.finance.xbrl.dom/element/getattribute)(string) | يحصل على قيمة السمة بالاسم. |
+| [GetAttributeNS](../../aspose.finance.xbrl.dom/element/getattributens)(string, string) | يحصل على قيمة السمة بالاسم المحلي وURI مساحة الاسم. |
+| [HasAttribute](../../aspose.finance.xbrl.dom/element/hasattribute)(string) | يرجع true عندما تكون سمة بالاسم المحدد مُحددة على هذا العنصر أو لها قيمة افتراضية، وإلا يرجع false. |
+| [HasAttributeNS](../../aspose.finance.xbrl.dom/element/hasattributens)(string, string) | يرجع true عندما تكون سمة بالاسم المحلي وURI مساحة الاسم المحددين مُحددة على هذا العنصر أو لها قيمة افتراضية، وإلا يرجع false. |
+| [RemoveAttribute](../../aspose.finance.xbrl.dom/element/removeattribute)(string) | يزيل سمة بالاسم. |
+| [RemoveAttributeNS](../../aspose.finance.xbrl.dom/element/removeattributens)(string, string) | يزيل سمة بالاسم المحلي وURI مساحة الاسم. |
+| [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | يزيل عقدة الطفل المشار إليها بـ old child من قائمة الأطفال. |
+| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | يستبدل عقدة الطفل old child بـ new child في قائمة الأطفال، ويُعيد عقدة الطفل القديمة. |
+| [SetAttribute](../../aspose.finance.xbrl.dom/element/setattribute)(string, string) | يضيف سمة جديدة. إذا كانت سمة بهذا الاسم موجودة بالفعل في العنصر، يتم تغيير قيمتها لتصبح قيمة المعامل value. |
+| [SetAttributeNS](../../aspose.finance.xbrl.dom/element/setattributens)(string, string, string) | يضيف سمة جديدة. إذا كانت سمة بنفس الاسم المحلي وURI مساحة الاسم موجودة بالفعل على العنصر، يتم تغيير بادئتها لتصبح الجزء البادئ من qualifiedName، وتُغيّر قيمتها لتصبح قيمة المعامل value. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HTMLElement](../htmlelement)
-* مساحة الاسم [Aspose.Finance.Xbrl.Dom.Html](../../aspose.finance.xbrl.dom.html)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Xbrl.Dom.Html](../../aspose.finance.xbrl.dom.html)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

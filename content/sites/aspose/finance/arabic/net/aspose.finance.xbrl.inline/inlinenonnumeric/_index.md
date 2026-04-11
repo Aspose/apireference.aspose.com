@@ -1,14 +1,14 @@
 ---
 title: InlineNonnumeric
-second_title: Aspose.Finance لمرجع .NET API
-description: هذه الفئة مخصصة لعنصر XBRL غير الرقمي في مستند XBRL المضمن.
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: هذه الفئة مخصصة للعنصر غير الرقمي XBRL في مستند XBRL مضمن.
 type: docs
-weight: 7710
+weight: 7750
 url: /ar/net/aspose.finance.xbrl.inline/inlinenonnumeric/
 ---
 ## InlineNonnumeric class
 
-هذه الفئة مخصصة لعنصر XBRL غير الرقمي في مستند XBRL المضمن.
+هذه الفئة مخصصة للعنصر غير الرقمي XBRL في مستند XBRL مضمن.
 
 ```csharp
 public class InlineNonnumeric : InlineFact
@@ -16,26 +16,26 @@ public class InlineNonnumeric : InlineFact
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ContextRef](../../aspose.finance.xbrl.inline/inlinenonnumeric/contextref) { get; set; } | الحصول على أو تعيين المرجع لملف[`Context`](../../aspose.finance.xbrl/context) التابع[`InlineNonnumeric`](../inlinenonnumeric) . |
-| [ContinuedAt](../../aspose.finance.xbrl.inline/inlinenonnumeric/continuedat) { get; set; } | الحصول على أو تعيين معرّف مرجع المتابعة الخاص بـ[`InlineNonnumeric`](../inlinenonnumeric) . |
-| [Escape](../../aspose.finance.xbrl.inline/inlinenonnumeric/escape) { get; set; } | يحصل أو يحدد ما إذا كان قد تم الهروب . |
-| [Format](../../aspose.finance.xbrl.inline/inlinenonnumeric/format) { get; set; } | الحصول على تنسيق ملف[`InlineNonnumeric`](../inlinenonnumeric) . |
-| [Hidden](../../aspose.finance.xbrl.inline/inlinefact/hidden) { get; set; } | الحصول على أو تحديد ما إذا كانت هذه الحقيقة مخفية. |
-| [Id](../../aspose.finance.xbrl.inline/inlinefact/id) { get; set; } | الحصول على معرف الحقيقة المضمنة أو تعيينه. |
-| [Name](../../aspose.finance.xbrl.inline/inlinefact/name) { get; set; } | الحصول على الاسم المؤهل للحقيقة المضمنة أو تعيينه. |
-| [Order](../../aspose.finance.xbrl.inline/inlinenonnumeric/order) { get; set; } | الحصول على أو تحديد ترتيب ملف[`InlineNonnumeric`](../inlinenonnumeric) . |
-| [SchemaConcept](../../aspose.finance.xbrl.inline/inlinenonnumeric/schemaconcept) { get; } | يحصل على مفهوم[`InlineNonnumeric`](../inlinenonnumeric) . |
-| [SchemaElement](../../aspose.finance.xbrl.inline/inlinenonnumeric/schemaelement) { get; } | يحصل على مفهوم[`InlineNonnumeric`](../inlinenonnumeric) . |
-| [TargetId](../../aspose.finance.xbrl.inline/inlinenonnumeric/targetid) { get; set; } | الحصول على أو تعيين المعرف الهدف لملف[`InlineNonnumeric`](../inlinenonnumeric) . |
-| [TupleRefId](../../aspose.finance.xbrl.inline/inlinenonnumeric/tuplerefid) { get; set; } | الحصول على أو تعيين معرف المرجع لمجموعة ملفات[`InlineNonnumeric`](../inlinenonnumeric) . |
-| [Value](../../aspose.finance.xbrl.inline/inlinenonnumeric/value) { get; set; } | الحصول على أو تحديد قيمة ملف[`InlineNonnumeric`](../inlinenonnumeric) . |
+| [ContextRef](../../aspose.finance.xbrl.inline/inlinenonnumeric/contextref) { get; set; } | يحصل أو يضبط المرجع إلى [`Context`](../../aspose.finance.xbrl/context) الخاص بـ [`InlineNonnumeric`](../inlinenonnumeric). |
+| [ContinuedAt](../../aspose.finance.xbrl.inline/inlinenonnumeric/continuedat) { get; set; } | يحصل أو يضبط معرف إشارة الاستمرار لـ [`InlineNonnumeric`](../inlinenonnumeric). |
+| [Escape](../../aspose.finance.xbrl.inline/inlinenonnumeric/escape) { get; set; } | يحصل أو يضبط ما إذا كان مُهَرَّبًا. |
+| [Format](../../aspose.finance.xbrl.inline/inlinenonnumeric/format) { get; set; } | يحصل أو يضبط تنسيق الـ [`InlineNonnumeric`](../inlinenonnumeric). |
+| [Hidden](../../aspose.finance.xbrl.inline/inlinefact/hidden) { get; set; } | يحصل أو يضبط ما إذا كانت هذه الحقيقة مخفية. |
+| [Id](../../aspose.finance.xbrl.inline/inlinefact/id) { get; set; } | يحصل أو يضبط المعرف للحقية المضمنة. |
+| [Name](../../aspose.finance.xbrl.inline/inlinefact/name) { get; set; } | يحصل أو يضبط الاسم المؤهل للحقية المضمنة. |
+| [Order](../../aspose.finance.xbrl.inline/inlinenonnumeric/order) { get; set; } | يحصل أو يضبط ترتيب الـ [`InlineNonnumeric`](../inlinenonnumeric). |
+| [SchemaConcept](../../aspose.finance.xbrl.inline/inlinenonnumeric/schemaconcept) { get; } | يحصل على مفهوم الـ [`InlineNonnumeric`](../inlinenonnumeric). |
+| [SchemaElement](../../aspose.finance.xbrl.inline/inlinenonnumeric/schemaelement) { get; } | يحصل على مفهوم الـ [`InlineNonnumeric`](../inlinenonnumeric). |
+| [TargetId](../../aspose.finance.xbrl.inline/inlinenonnumeric/targetid) { get; set; } | يحصل أو يضبط معرف الهدف للـ [`InlineNonnumeric`](../inlinenonnumeric). |
+| [TupleRefId](../../aspose.finance.xbrl.inline/inlinenonnumeric/tuplerefid) { get; set; } | يحصل أو يضبط معرف إشارة المجموعة للـ [`InlineNonnumeric`](../inlinenonnumeric). |
+| [Value](../../aspose.finance.xbrl.inline/inlinenonnumeric/value) { get; set; } | يحصل أو يضبط قيمة الـ [`InlineNonnumeric`](../inlinenonnumeric). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InlineFact](../inlinefact)
-* مساحة الاسم [Aspose.Finance.Xbrl.Inline](../../aspose.finance.xbrl.inline)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Xbrl.Inline](../../aspose.finance.xbrl.inline)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

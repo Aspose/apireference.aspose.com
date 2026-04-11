@@ -1,46 +1,46 @@
 ---
 title: Investment401k
-second_title: Aspose.Finance لمرجع .NET API
-description: فئة معلومات حساب الاستثمار 401 k .
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: فئة معلومات حساب 401k الاستثماري.
 type: docs
-weight: 2890
+weight: 2900
 url: /ar/net/aspose.finance.ofx.investment/investment401k/
 ---
 ## Investment401k class
 
-فئة معلومات حساب الاستثمار 401 (k) .
+فئة معلومات حساب 401(k) الاستثماري.
 
 ```csharp
 public class Investment401k
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Investment401k](investment401k)() | يقوم بتهيئة مثيل جديد من[`Investment401k`](../investment401k) فئة . |
+| [Investment401k](investment401k)() | ينشئ مثلاً جديداً من الفئة [`Investment401k`](../investment401k). |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BrokerContactInformation](../../aspose.finance.ofx.investment/investment401k/brokercontactinformation) { get; set; } | الحصول على أو تعيين اسم جهة الاتصال لدى الوسيط ، بالإضافة إلى أي معلومات اتصال متاحة ، مثل رقم الهاتف. |
-| [ContributionInformation](../../aspose.finance.ofx.investment/investment401k/contributioninformation) { get; set; } | يحصل أو يحدد مجموعة[`ContributionSecurity`](../contributionsecurity) . |
-| [CurrentVestPercent](../../aspose.finance.ofx.investment/investment401k/currentvestpercent) { get; set; } | الحصول على أو تحديد النسبة المئوية المقدرة لمساهمات صاحب العمل الممنوحة اعتبارًا من التاريخ الحالي. |
-| [DeferPercentAfterTax](../../aspose.finance.ofx.investment/investment401k/deferpercentaftertax) { get; set; } | الحصول على أو تحديد النسبة المئوية لراتب الموظف المؤجل بعد الضريبة . |
-| [DeferPercentPreTax](../../aspose.finance.ofx.investment/investment401k/deferpercentpretax) { get; set; } | الحصول على أو تحديد النسبة المئوية لراتب الموظف المؤجل قبل الضريبة . |
-| [EmployerContactInformation](../../aspose.finance.ofx.investment/investment401k/employercontactinformation) { get; set; } | الحصول على أو تعيين اسم جهة الاتصال لدى صاحب العمل ، بالإضافة إلى أي معلومات اتصال متاحة ، مثل رقم الهاتف. |
-| [EmployerName](../../aspose.finance.ofx.investment/investment401k/employername) { get; set; } | الحصول على أو تحديد اسم صاحب العمل. |
-| [Investment401kSummary](../../aspose.finance.ofx.investment/investment401k/investment401ksummary) { get; set; } | يحصل أو يحدد ملف[`Investment401kSummary`](./investment401ksummary) . |
-| [LoanInfos](../../aspose.finance.ofx.investment/investment401k/loaninfos) { get; set; } | يحصل أو يحدد مجموعة[`LoanInfo`](../loaninfo) . |
-| [MatchInfo](../../aspose.finance.ofx.investment/investment401k/matchinfo) { get; set; } | يحصل أو يحدد ملف[`MatchInfo`](./matchinfo) . |
-| [PlanId](../../aspose.finance.ofx.investment/investment401k/planid) { get; set; } | الحصول على رقم الخطة أو تحديده . |
-| [PlanJoinDate](../../aspose.finance.ofx.investment/investment401k/planjoindate) { get; set; } | الحصول على أو تحديد تاريخ انضمام الموظف إلى الخطة. |
-| [VestInfos](../../aspose.finance.ofx.investment/investment401k/vestinfos) { get; set; } | يحصل أو يحدد مجموعة[`VestInfo`](../vestinfo) . |
+| [BrokerContactInformation](../../aspose.finance.ofx.investment/investment401k/brokercontactinformation) { get; set; } | يحصل أو يضبط اسم شخص الاتصال لدى الوسيط، بالإضافة إلى أي معلومات اتصال متاحة، مثل رقم الهاتف. |
+| [ContributionInformation](../../aspose.finance.ofx.investment/investment401k/contributioninformation) { get; set; } | يحصل أو يضبط مجموعة [`ContributionSecurity`](../contributionsecurity). |
+| [CurrentVestPercent](../../aspose.finance.ofx.investment/investment401k/currentvestpercent) { get; set; } | يحصل أو يضبط النسبة التقديرية لمساهمات صاحب العمل المستحقة حتى التاريخ الحالي. |
+| [DeferPercentAfterTax](../../aspose.finance.ofx.investment/investment401k/deferpercentaftertax) { get; set; } | الحصول أو تعيين نسبة راتب الموظف المؤجلة بعد الضريبة. |
+| [DeferPercentPreTax](../../aspose.finance.ofx.investment/investment401k/deferpercentpretax) { get; set; } | الحصول أو تعيين نسبة راتب الموظف المؤجلة قبل الضريبة. |
+| [EmployerContactInformation](../../aspose.finance.ofx.investment/investment401k/employercontactinformation) { get; set; } | الحصول أو تعيين اسم شخص الاتصال في صاحب العمل، بالإضافة إلى أي معلومات اتصال متاحة، مثل رقم الهاتف. |
+| [EmployerName](../../aspose.finance.ofx.investment/investment401k/employername) { get; set; } | الحصول أو تعيين اسم صاحب العمل. |
+| [Investment401kSummary](../../aspose.finance.ofx.investment/investment401k/investment401ksummary) { get; set; } | الحصول أو تعيين [`Investment401kSummary`](./investment401ksummary). |
+| [LoanInfos](../../aspose.finance.ofx.investment/investment401k/loaninfos) { get; set; } | الحصول أو تعيين مجموعة [`LoanInfo`](../loaninfo). |
+| [MatchInfo](../../aspose.finance.ofx.investment/investment401k/matchinfo) { get; set; } | الحصول أو تعيين [`MatchInfo`](./matchinfo). |
+| [PlanId](../../aspose.finance.ofx.investment/investment401k/planid) { get; set; } | الحصول أو تعيين رقم الخطة. |
+| [PlanJoinDate](../../aspose.finance.ofx.investment/investment401k/planjoindate) { get; set; } | الحصول أو تعيين تاريخ انضمام الموظف إلى الخطة. |
+| [VestInfos](../../aspose.finance.ofx.investment/investment401k/vestinfos) { get; set; } | الحصول أو تعيين مجموعة [`VestInfo`](../vestinfo). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Finance.Ofx.Investment](../../aspose.finance.ofx.investment)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx.Investment](../../aspose.finance.ofx.investment)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

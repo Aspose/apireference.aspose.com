@@ -1,47 +1,47 @@
 ---
 title: Tax1098_V100
-second_title: Aspose.Finance لمرجع .NET API
-description: فئة النموذج 1098 V100  بيان فائدة الرهن العقاري.
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: فئة نموذج Tax 1098 V100 لبيان فائدة الرهن العقاري.
 type: docs
-weight: 5830
+weight: 5860
 url: /ar/net/aspose.finance.ofx.tax1098/tax1098_v100/
 ---
 ## Tax1098_V100 class
 
-فئة النموذج 1098 V100 ، بيان فائدة الرهن العقاري.
+فئة نموذج الضريبة 1098 V100، بيان فائدة الرهن العقاري.
 
 ```csharp
 public class Tax1098_V100 : AbstractTax1098
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Tax1098_V100](tax1098_v100)() | يقوم بتهيئة مثيل جديد من[`Tax1098_V100`](../tax1098_v100) فئة . |
+| [Tax1098_V100](tax1098_v100)() | إنشاء نسخة جديدة من الفئة [`Tax1098_V100`](../tax1098_v100). |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098_v100/accountnumber) { get; set; } | الحصول على رقم الحساب أو تحديده . |
-| [BorrowerAddress](../../aspose.finance.ofx.tax1098/tax1098_v100/borroweraddress) { get; set; } | يحصل أو يحدد ملف[`BorrowerAddress`](./borroweraddress) . |
-| [BorrowerId](../../aspose.finance.ofx.tax1098/tax1098_v100/borrowerid) { get; set; } | الحصول على أو تحديد رقم الضمان الاجتماعي للمقترض. |
-| [LenderAddress](../../aspose.finance.ofx.tax1098/tax1098_v100/lenderaddress) { get; set; } | يحصل أو يحدد ملف[`LenderAddress`](./lenderaddress) . |
-| [LenderId](../../aspose.finance.ofx.tax1098/tax1098_v100/lenderid) { get; set; } | الحصول على أو تحديد رقم التعريف الفيدرالي للمقرض. |
-| [MortgageInsurancePremium](../../aspose.finance.ofx.tax1098/tax1098_v100/mortgageinsurancepremium) { get; set; } | الحصول على أو تحديد قسط تأمين الرهن العقاري. |
-| [MortgageInterest](../../aspose.finance.ofx.tax1098/tax1098_v100/mortgageinterest) { get; set; } | الحصول على أو تعيين فائدة الرهن العقاري المستلمة من المقترض (المقترضين) . |
-| [OtherLoanInfo](../../aspose.finance.ofx.tax1098/tax1098_v100/otherloaninfo) { get; set; } | الحصول على أو تعيين التفاصيل الإضافية المقدمة من المُقرض. |
-| [OverpaidRefund](../../aspose.finance.ofx.tax1098/tax1098_v100/overpaidrefund) { get; set; } | الحصول على أو تعيين استرداد الفوائد الزائدة. |
-| [Points](../../aspose.finance.ofx.tax1098/tax1098_v100/points) { get; set; } | الحصول على أو تحديد النقاط المدفوعة عند شراء المسكن الرئيسي. |
-| [PropertyTax](../../aspose.finance.ofx.tax1098/tax1098_v100/propertytax) { get; set; } | الحصول على أو تعيين ضرائب الملكية. |
-| [ServerId](../../aspose.finance.ofx.tax1098/tax1098_v100/serverid) { get; set; } | الحصول على أو تعيين المعرف المعين من قبل الخادم المضيف على النموذج . |
-| [TaxYear](../../aspose.finance.ofx.tax1098/tax1098_v100/taxyear) { get; set; } | الحصول على أو تحديد السنة الضريبية لهذا النموذج ، بتنسيق "YYYY" . |
+| [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098_v100/accountnumber) { get; set; } | يحصل أو يعيّن رقم الحساب. |
+| [BorrowerAddress](../../aspose.finance.ofx.tax1098/tax1098_v100/borroweraddress) { get; set; } | الحصول أو تعيين [`BorrowerAddress`](./borroweraddress). |
+| [BorrowerId](../../aspose.finance.ofx.tax1098/tax1098_v100/borrowerid) { get; set; } | الحصول أو تعيين رقم الضمان الاجتماعي للمقترض. |
+| [LenderAddress](../../aspose.finance.ofx.tax1098/tax1098_v100/lenderaddress) { get; set; } | الحصول أو تعيين [`LenderAddress`](./lenderaddress). |
+| [LenderId](../../aspose.finance.ofx.tax1098/tax1098_v100/lenderid) { get; set; } | الحصول أو تعيين الرقم الفيدرالي للتعريف الخاص بالمقرض. |
+| [MortgageInsurancePremium](../../aspose.finance.ofx.tax1098/tax1098_v100/mortgageinsurancepremium) { get; set; } | الحصول أو تعيين قسط تأمين الرهن العقاري. |
+| [MortgageInterest](../../aspose.finance.ofx.tax1098/tax1098_v100/mortgageinterest) { get; set; } | الحصول أو تعيين فائدة الرهن العقاري المستلمة من المقترض(ين). |
+| [OtherLoanInfo](../../aspose.finance.ofx.tax1098/tax1098_v100/otherloaninfo) { get; set; } | الحصول أو تعيين التفاصيل الإضافية المقدمة من المقرض. |
+| [OverpaidRefund](../../aspose.finance.ofx.tax1098/tax1098_v100/overpaidrefund) { get; set; } | الحصول أو تعيين استرداد الفائدة المدفوعة زائدًا. |
+| [Points](../../aspose.finance.ofx.tax1098/tax1098_v100/points) { get; set; } | الحصول أو تعيين النقاط المدفوعة عند شراء السكن الرئيسي. |
+| [PropertyTax](../../aspose.finance.ofx.tax1098/tax1098_v100/propertytax) { get; set; } | الحصول أو تعيين ضرائب العقار. |
+| [ServerId](../../aspose.finance.ofx.tax1098/tax1098_v100/serverid) { get; set; } | Gets or sets the ID assigned by the host server to the form. |
+| [TaxYear](../../aspose.finance.ofx.tax1098/tax1098_v100/taxyear) { get; set; } | يحصل أو يعيّن سنة الضريبة لهذا النموذج، بالتنسيق “YYYY”. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractTax1098](../abstracttax1098)
-* مساحة الاسم [Aspose.Finance.Ofx.Tax1098](../../aspose.finance.ofx.tax1098)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx.Tax1098](../../aspose.finance.ofx.tax1098)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

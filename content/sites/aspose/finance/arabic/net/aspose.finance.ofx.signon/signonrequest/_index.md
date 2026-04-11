@@ -1,52 +1,52 @@
 ---
 title: SignonRequest
-second_title: Aspose.Finance لمرجع .NET API
-description: فئة طلب التوقيع.
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: فئة طلب تسجيل الدخول.
 type: docs
-weight: 5410
+weight: 5440
 url: /ar/net/aspose.finance.ofx.signon/signonrequest/
 ---
 ## SignonRequest class
 
-فئة طلب التوقيع.
+فئة طلب تسجيل الدخول.
 
 ```csharp
 public class SignonRequest
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SignonRequest](signonrequest)() | يقوم بتهيئة مثيل جديد من[`SignonRequest`](../signonrequest) فئة . |
+| [SignonRequest](signonrequest)() | ينشئ مثيلًا جديدًا من الفئة [`SignonRequest`](../signonrequest). |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AccessKey](../../aspose.finance.ofx.signon/signonrequest/accesskey) { get; set; } | الحصول على أو تعيين قيمة مفتاح الوصول المستلمة في استجابة تسجيل الدخول السابقة ، ولا يتم إرسالها في حالة تسجيل الدخول لأول مرة أو عدم إرسالها بواسطة FI . |
-| [AccessToken](../../aspose.finance.ofx.signon/signonrequest/accesstoken) { get; set; } | الحصول على أو تعيين الرمز المميز المرتب خارج النطاق لاستخدامه للمصادقة. |
-| [AppId](../../aspose.finance.ofx.signon/signonrequest/appid) { get; set; } | الحصول على أو تحديد معرف تطبيق العميل |
-| [AppKey](../../aspose.finance.ofx.signon/signonrequest/appkey) { get; set; } | الحصول على أو تحديد مفتاح / معرف التطبيق ؛ مرتبة خارج النطاق بين الخادم والعميل. |
-| [AppVersion](../../aspose.finance.ofx.signon/signonrequest/appversion) { get; set; } | الحصول على إصدار تطبيق العميل أو تحديده. |
-| [AuthToken](../../aspose.finance.ofx.signon/signonrequest/authtoken) { get; set; } | الحصول على أو تعيين رمز المصادقة المطلوب لجلسة تسجيل الدخول هذه فقط. يتم توفير بيانات الاعتماد للمستخدم خارج النطاق . |
-| [ClientDate](../../aspose.finance.ofx.signon/signonrequest/clientdate) { get; set; } | الحصول على أو تحديد تاريخ ووقت الطلب من جهاز الكمبيوتر العميل. |
-| [ClientUserId](../../aspose.finance.ofx.signon/signonrequest/clientuserid) { get; set; } | الحصول على أو تعيين المعرف الفريد الذي يحدد هوية مستخدم OFX. |
-| [FinancialInstitution](../../aspose.finance.ofx.signon/signonrequest/financialinstitution) { get; set; } | يحصل أو يحدد ملف[`FinancialInstitution`](./financialinstitution) . |
-| [GenerateUserKey](../../aspose.finance.ofx.signon/signonrequest/generateuserkey) { get; set; } | الحصول على أو تحديد ما إذا كان طلب الخادم لإرجاع USERKEY للاستخدام المستقبلي ، |
-| [Language](../../aspose.finance.ofx.signon/signonrequest/language) { get; set; } | الحصول على أو تعيين اللغة المطلوبة للاستجابات النصية. |
-| [MFAChallengeAnswers](../../aspose.finance.ofx.signon/signonrequest/mfachallengeanswers) { get; set; } | يحصل أو يحدد مجموعة[`MFAChallengeAnswer`](../mfachallengeanswer) . |
-| [OfxExtension](../../aspose.finance.ofx.signon/signonrequest/ofxextension) { get; set; } | يحصل أو يحدد ملف[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
-| [SessionCookie](../../aspose.finance.ofx.signon/signonrequest/sessioncookie) { get; set; } | الحصول على أو تعيين قيمة ملف تعريف ارتباط الجلسة المتلقاة في استجابة تسجيل الدخول السابقة ، ولا يتم إرسالها في حالة تسجيل الدخول لأول مرة أو إذا لم يتم إرسالها بواسطة FI |
-| [UserCredential1](../../aspose.finance.ofx.signon/signonrequest/usercredential1) { get; set; } | الحصول على أو تعيين بيانات اعتماد المستخدم الإضافية المطلوبة بواسطة الخادم. |
-| [UserCredential2](../../aspose.finance.ofx.signon/signonrequest/usercredential2) { get; set; } | الحصول على أو تعيين بيانات اعتماد المستخدم الإضافية المطلوبة بواسطة الخادم. |
-| [UserId](../../aspose.finance.ofx.signon/signonrequest/userid) { get; set; } | الحصول على سلسلة تعريف المستخدم أو تعيينها. |
-| [UserKey](../../aspose.finance.ofx.signon/signonrequest/userkey) { get; set; } | الحصول على أو تعيين السياق المصادق عليه مسبقًا. |
-| [UserPassword](../../aspose.finance.ofx.signon/signonrequest/userpassword) { get; set; } | الحصول على أو تعيين كلمة مرور المستخدم على الخادم. |
+| [AccessKey](../../aspose.finance.ofx.signon/signonrequest/accesskey) { get; set; } | يحصل أو يعيّن قيمة مفتاح الوصول المستلمة في استجابة تسجيل الدخول السابقة، لا تُرسل إذا كان أول تسجيل دخول أو لم تُرسل من قبل FI. |
+| [AccessToken](../../aspose.finance.ofx.signon/signonrequest/accesstoken) { get; set; } | يحصل أو يعيّن الرمز المُنظَّم خارج القناة لاستخدامه في المصادقة. |
+| [AppId](../../aspose.finance.ofx.signon/signonrequest/appid) { get; set; } | يحصل أو يعيّن معرف تطبيق العميل |
+| [AppKey](../../aspose.finance.ofx.signon/signonrequest/appkey) { get; set; } | يحصل أو يعيّن مفتاح/معرّف التطبيق؛ مُنظَّم خارج القناة بين الخادم والعميل. |
+| [AppVersion](../../aspose.finance.ofx.signon/signonrequest/appversion) { get; set; } | يحصل أو يعيّن نسخة تطبيق العميل. |
+| [AuthToken](../../aspose.finance.ofx.signon/signonrequest/authtoken) { get; set; } | يحصل أو يعيّن رمز المصادقة المطلوب لهذه جلسة تسجيل الدخول فقط. يتم توفير الاعتماد للمستخدم خارج القناة. |
+| [ClientDate](../../aspose.finance.ofx.signon/signonrequest/clientdate) { get; set; } | يحصل أو يعيّن تاريخ ووقت الطلب من جهاز العميل. |
+| [ClientUserId](../../aspose.finance.ofx.signon/signonrequest/clientuserid) { get; set; } | يحصل أو يعيّن المعرف الفريد الذي يحدد مستخدم OFX. |
+| [FinancialInstitution](../../aspose.finance.ofx.signon/signonrequest/financialinstitution) { get; set; } | يحصل أو يعيّن الـ[`FinancialInstitution`](./financialinstitution). |
+| [GenerateUserKey](../../aspose.finance.ofx.signon/signonrequest/generateuserkey) { get; set; } | يحصل أو يعيّن ما إذا كان طلب الخادم لإرجاع USERKEY للاستخدام المستقبلي، |
+| [Language](../../aspose.finance.ofx.signon/signonrequest/language) { get; set; } | يحصل أو يعيّن اللغة المطلوبة لاستجابات النص. |
+| [MFAChallengeAnswers](../../aspose.finance.ofx.signon/signonrequest/mfachallengeanswers) { get; set; } | يحصل أو يعيّن مجموعة [`MFAChallengeAnswer`](../mfachallengeanswer). |
+| [OfxExtension](../../aspose.finance.ofx.signon/signonrequest/ofxextension) { get; set; } | الحصول أو تعيين [`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [SessionCookie](../../aspose.finance.ofx.signon/signonrequest/sessioncookie) { get; set; } | يحصل أو يعيّن قيمة ملف تعريف الارتباط للجلسة المستلمة في استجابة تسجيل الدخول السابقة، لا تُرسل إذا كان أول تسجيل دخول أو إذا لم يرسلها المؤسسة المالية. |
+| [UserCredential1](../../aspose.finance.ofx.signon/signonrequest/usercredential1) { get; set; } | يحصل أو يعيّن بيانات الاعتماد الإضافية للمستخدم المطلوبة من قبل الخادم. |
+| [UserCredential2](../../aspose.finance.ofx.signon/signonrequest/usercredential2) { get; set; } | يحصل أو يعيّن بيانات الاعتماد الإضافية للمستخدم المطلوبة من قبل الخادم. |
+| [UserId](../../aspose.finance.ofx.signon/signonrequest/userid) { get; set; } | يحصل أو يعيّن سلسلة تعريف المستخدم. |
+| [UserKey](../../aspose.finance.ofx.signon/signonrequest/userkey) { get; set; } | يحصل أو يعيّن السياق المصادق عليه مسبقًا. |
+| [UserPassword](../../aspose.finance.ofx.signon/signonrequest/userpassword) { get; set; } | يحصل أو يعيّن كلمة مرور المستخدم على الخادم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Finance.Ofx.Signon](../../aspose.finance.ofx.signon)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx.Signon](../../aspose.finance.ofx.signon)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

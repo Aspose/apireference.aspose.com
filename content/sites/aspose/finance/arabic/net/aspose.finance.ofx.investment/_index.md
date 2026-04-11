@@ -1,6 +1,6 @@
 ---
 title: Aspose.Finance.Ofx.Investment
-second_title: Aspose.Finance لمرجع .NET API
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
 description: 
 type: docs
 weight: 110
@@ -8,114 +8,114 @@ url: /ar/net/aspose.finance.ofx.investment/
 ---
 
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
 | [AbstractInvestmentBuyTransaction](./abstractinvestmentbuytransaction) | فئة أساسية مجردة للفئات المتعلقة بمعاملات شراء الاستثمار. |
-| [AbstractInvestmentSellTransaction](./abstractinvestmentselltransaction) | فئة أساسية مجردة للفئات ذات الصلة بعمليات البيع الاستثمارية. |
-| [AbstractInvestmentTransaction](./abstractinvestmenttransaction) | فئة أساسية مجردة من الفئات ذات الصلة بصفقات الاستثمار (ليس شراء / بيع). |
-| [AbstractInvestmentTransactionBase](./abstractinvestmenttransactionbase) | فئة أساسية مجردة للفئات ذات الصلة بصفقات الاستثمار. |
-| [AbstractOpenOrder](./abstractopenorder) | فئة أساسية مجردة لجميع الفئات ذات الصلة بالأمر المفتوح. |
-| [AbstractPositionBase](./abstractpositionbase) | فئة أساسية مجردة للفئات ذات الصلة بمركز الاستثمار. |
-| [BuyDebt](./buydebt) | فئة معاملات شراء الديون الاستثمارية. |
-| [BuyMutualFund](./buymutualfund) | فئة معاملة صندوق الاستثمار المشترك لشراء الاستثمار . |
-| [BuyOption](./buyoption) | فئة معاملة خيار شراء الاستثمار. |
-| [BuyOther](./buyother) | استثمار شراء فئة معاملة أخرى. |
-| [BuyStock](./buystock) | فئة معاملة شراء الأسهم الاستثمارية. |
-| [ClosureOption](./closureoption) | استثمار إغلاق مركز لفئة معاملة الخيار . |
+| [AbstractInvestmentSellTransaction](./abstractinvestmentselltransaction) | فئة أساسية مجردة للفئات المتعلقة بمعاملات بيع الاستثمار. |
+| [AbstractInvestmentTransaction](./abstractinvestmenttransaction) | فئة أساسية مجردة للفئات المتعلقة بمعاملات الاستثمار (ليس شراء/بيع). |
+| [AbstractInvestmentTransactionBase](./abstractinvestmenttransactionbase) | فئة أساسية مجردة للفئات المتعلقة بمعاملات الاستثمار. |
+| [AbstractOpenOrder](./abstractopenorder) | فئة أساسية مجردة لجميع الفئات المتعلقة بأوامر الفتح. |
+| [AbstractPositionBase](./abstractpositionbase) | فئة أساسية مجردة للفئات المتعلقة بمراكز الاستثمار. |
+| [BuyDebt](./buydebt) | فئة معاملة شراء دين الاستثمار. |
+| [BuyMutualFund](./buymutualfund) | فئة معاملة شراء صندوق استثماري مشترك. |
+| [BuyOption](./buyoption) | فئة معاملة شراء خيار الاستثمار. |
+| [BuyOther](./buyother) | فئة معاملة شراء أخرى للاستثمار. |
+| [BuyStock](./buystock) | فئة معاملة شراء أسهم الاستثمار. |
+| [ClosureOption](./closureoption) | فئة إغلاق مركز استثماري لصفقة خيار. |
 | [ContributionAmt](./contributionamt) | فئة تخصيص مبلغ المساهمة. |
-| [ContributionPct](./contributionpct) | فئة تخصيص النسبة المئوية للمساهمة . |
-| [Contributions](./contributions) | 401 (k) فئة المساهمة ، وهذا يشمل مدفوعات القرض. |
+| [ContributionPct](./contributionpct) | فئة تخصيص نسبة المساهمة. |
+| [Contributions](./contributions) | فئة مساهمة 401(k)، وتشمل دفعات القرض. |
 | [ContributionSecurity](./contributionsecurity) | فئة أمان المساهمة. |
-| [Earnings](./earnings) | 401 (ك) فئة الأرباح. هذا هو تغيير القيمة السوقية. ويشمل توزيعات الأرباح / الفوائد ، وأرباح رأس المال - المحققة وغير المحققة. |
-| [GeneralOpenOrder](./generalopenorder) | تحتوي الفئة على حقول مشتركة لجميع الطلبات المفتوحة. |
-| [InceptToDate](./incepttodate) | إجمالي المساهمات حتى تاريخه (منذ التأسيس) |
-| [Income](./income) | فئة دخل الاستثمار . |
-| [IncPosition](./incposition) | قم بتضمين مراكز الاستثمار ردًا على ذلك . |
-| [Investment401k](./investment401k) | فئة معلومات حساب الاستثمار 401 (k) . |
-| [Investment401kBalance](./investment401kbalance) | تحتوي الفئة على رصيد نقدي اختياري. يحتوي أيضًا على أرصدة الحسابات الفرعية 401 (k) القياسية. |
-| [Investment401kSummary](./investment401ksummary) | قائمة المساهمات لحساب 401 (k) . |
-| [InvestmentBalance](./investmentbalance) | فئة أرصدة الاستثمار. |
-| [InvestmentBankTransaction](./investmentbanktransaction) | تُستخدم هذه الفئة لتنزيل المعاملات المصرفية في تنزيل كشف حساب الاستثمار. |
+| [Earnings](./earnings) | فئة أرباح 401(k). هذا هو تغير القيمة السوقية. يشمل الأرباح/الفوائد، وأرباح رأس المال - المحققة وغير المحققة. |
+| [GeneralOpenOrder](./generalopenorder) | الفئة تحتوي على حقول مشتركة لجميع الأوامر المفتوحة. |
+| [InceptToDate](./incepttodate) | إجمالي المساهمات حتى الآن (منذ الإنشاء). |
+| [Income](./income) | فئة دخل الاستثمار. |
+| [IncPosition](./incposition) | تضمين مراكز الاستثمار في الاستجابة. |
+| [Investment401k](./investment401k) | فئة معلومات حساب 401(k) الاستثماري. |
+| [Investment401kBalance](./investment401kbalance) | الفئة تحتوي على رصيد نقدي اختياري. كما تحتوي على أرصدة الحسابات الفرعية القياسية لـ 401(k). |
+| [Investment401kSummary](./investment401ksummary) | قائمة المساهمات في حساب 401(k). |
+| [InvestmentBalance](./investmentbalance) | فئة رصيد الاستثمارات. |
+| [InvestmentBankTransaction](./investmentbanktransaction) | تُستخدم هذه الفئة لتنزيل معاملات البنك في تنزيل كشف الاستثمار. |
 | [InvestmentBuy](./investmentbuy) | فئة معاملة شراء الاستثمار. |
-| [InvestmentClosing](./investmentclosing) | توفر هذه الفئة معلومات الصورة لاسترداد العميل لصور بيان الاستثمار. |
-| [InvestmentExpense](./investmentexpense) | فئة مصروفات الاستثمار. |
+| [InvestmentClosing](./investmentclosing) | توفر هذه الفئة معلومات الصورة لاسترجاع العميل لصور كشف الاستثمار. |
+| [InvestmentExpense](./investmentexpense) | فئة نفقات الاستثمار. |
 | [InvestmentMailRequest](./investmentmailrequest) | فئة طلب البريد الإلكتروني للاستثمار. |
-| [InvestmentMailResponse](./investmentmailresponse) | فئة استجابة البريد الإلكتروني الاستثماري . |
-| [InvestmentMailSyncRequest](./investmentmailsyncrequest) | فئة طلب مزامنة البريد الإلكتروني الاستثماري . |
-| [InvestmentMailSyncResponse](./investmentmailsyncresponse) | فئة استجابة مزامنة البريد الإلكتروني الاستثماري . |
-| [InvestmentMailTransactionRequest](./investmentmailtransactionrequest) | فئة طلب معاملة البريد الإلكتروني الاستثماري . |
-| [InvestmentMailTransactionResponse](./investmentmailtransactionresponse) | فئة استجابة معاملة البريد الإلكتروني الاستثماري. |
-| [InvestmentOpenOrderList](./investmentopenorderlist) | فئة قائمة الأوامر المفتوحة للاستثمار. |
-| [InvestmentPosition](./investmentposition) | تحتوي الفئة على الحقول ذات الصلة بجميع أنواع مراكز الاستثمار. |
-| [InvestmentPositionList](./investmentpositionlist) | فئة قائمة وضع الاستثمار . |
+| [InvestmentMailResponse](./investmentmailresponse) | فئة استجابة البريد الإلكتروني للاستثمار. |
+| [InvestmentMailSyncRequest](./investmentmailsyncrequest) | فئة طلب مزامنة البريد الإلكتروني للاستثمار. |
+| [InvestmentMailSyncResponse](./investmentmailsyncresponse) | فئة استجابة مزامنة البريد الإلكتروني للاستثمار. |
+| [InvestmentMailTransactionRequest](./investmentmailtransactionrequest) | فئة طلب معاملة البريد الإلكتروني للاستثمار. |
+| [InvestmentMailTransactionResponse](./investmentmailtransactionresponse) | فئة استجابة معاملة البريد الإلكتروني للاستثمار. |
+| [InvestmentOpenOrderList](./investmentopenorderlist) | فئة قائمة أوامر الفتح للاستثمار. |
+| [InvestmentPosition](./investmentposition) | تحتوي الفئة على حقول ذات صلة بجميع أنواع مراكز الاستثمار. |
+| [InvestmentPositionList](./investmentpositionlist) | فئة قائمة مراكز الاستثمار. |
 | [InvestmentSell](./investmentsell) | فئة معاملة بيع الاستثمار. |
-| [InvestmentStatementEndRequest](./investmentstatementendrequest) | فئة طلب البيان الختامي . |
-| [InvestmentStatementEndResponse](./investmentstatementendresponse) | فئة استجابة البيان الختامي . |
-| [InvestmentStatementEndTransactionRequest](./investmentstatementendtransactionrequest) | فئة طلب معاملة كشف الحساب الختامي . |
-| [InvestmentStatementEndTransactionResponse](./investmentstatementendtransactionresponse) | فئة استجابة معاملة بيان إغلاق الاستثمار. |
-| [InvestmentStatementRequest](./investmentstatementrequest) | فئة طلب بيان الاستثمار . |
-| [InvestmentStatementResponse](./investmentstatementresponse) | فئة استجابة بيان الاستثمار. |
-| [InvestmentStatementTransactionRequest](./investmentstatementtransactionrequest) | طلب معاملة كشف حساب استثمار class |
-| [InvestmentStatementTransactionResponse](./investmentstatementtransactionresponse) | فئة استجابة معاملة بيان الاستثمار. |
-| [InvestmentTransaction](./investmenttransaction) | تحتوي هذه الفئة على حقول مشتركة للعديد من معاملات الاستثمار. |
+| [InvestmentStatementEndRequest](./investmentstatementendrequest) | فئة طلب إغلاق البيان. |
+| [InvestmentStatementEndResponse](./investmentstatementendresponse) | فئة استجابة إغلاق البيان. |
+| [InvestmentStatementEndTransactionRequest](./investmentstatementendtransactionrequest) | فئة طلب معاملة إغلاق كشف الاستثمار. |
+| [InvestmentStatementEndTransactionResponse](./investmentstatementendtransactionresponse) | فئة استجابة معاملة إغلاق كشف الاستثمار. |
+| [InvestmentStatementRequest](./investmentstatementrequest) | فئة طلب كشف الاستثمار. |
+| [InvestmentStatementResponse](./investmentstatementresponse) | فئة استجابة كشف الاستثمار. |
+| [InvestmentStatementTransactionRequest](./investmentstatementtransactionrequest) | فئة طلب معاملة كشف الاستثمار |
+| [InvestmentStatementTransactionResponse](./investmentstatementtransactionresponse) | فئة استجابة معاملة كشف الاستثمار. |
+| [InvestmentTransaction](./investmenttransaction) | تحتوي هذه الفئة على حقول شائعة للعديد من معاملات الاستثمار. |
 | [InvestmentTransactionList](./investmenttransactionlist) | فئة قائمة معاملات الاستثمار. |
-| [JournalFund](./journalfund) | تسجيل المقتنيات النقدية بين الحسابات الفرعية ضمن نفس حساب الاستثمار. |
-| [JournalSecurity](./journalsecurity) | تسجيل المقتنيات الأمنية بين الحسابات الفرعية ضمن نفس حساب الاستثمار. |
-| [LoanInfo](./loaninfo) | القروض المستحقة على الحساب |
-| [MarginInterest](./margininterest) | فئة الفائدة على هامش الاستثمار. |
+| [JournalFund](./journalfund) | تسجيل احتياطات النقد بين الحسابات الفرعية داخل نفس حساب الاستثمار. |
+| [JournalSecurity](./journalsecurity) | تسجيل حيازات الأوراق المالية بين الحسابات الفرعية داخل نفس حساب الاستثمار. |
+| [LoanInfo](./loaninfo) | القروض المستحقة ضد الحساب |
+| [MarginInterest](./margininterest) | فئة فائدة الهامش الاستثماري. |
 | [MatchInfo](./matchinfo) | تحتوي هذه الفئة على معلومات مطابقة صاحب العمل. |
-| [OpenOrderBuyDebt](./openorderbuydebt) | طلب فتح فئة الديون . |
-| [OpenOrderBuyMutualFund](./openorderbuymutualfund) | طلب فتح شراء فئة صندوق استثمار مشترك. |
-| [OpenOrderBuyOption](./openorderbuyoption) | فتح فئة خيار شراء الأمر . |
-| [OpenOrderBuyOther](./openorderbuyother) | فتح أمر شراء فئة أخرى. |
-| [OpenOrderBuyStock](./openorderbuystock) | طلب فتح شراء فئة الأسهم . |
-| [OpenOrderSellDebt](./openorderselldebt) | أمر فتح بيع فئة الديون. |
-| [OpenOrderSellMutualFund](./openordersellmutualfund) | طلب بيع فئة صندوق استثمار مشترك. |
-| [OpenOrderSellOption](./openorderselloption) | فتح فئة خيار بيع أمر . |
-| [OpenOrderSellOther](./openordersellother) | فتح أمر بيع فئة أخرى . |
-| [OpenOrderSellStock](./openordersellstock) | طلب بيع فئة الأسهم . |
-| [OpenOrderSwitchMutualFund](./openorderswitchmutualfund) | فتح الأمر بتبديل فئة صندوق الاستثمار المشترك. |
-| [PeriodToDate](./periodtodate) | المساهمات حتى تاريخه عن الفترة . |
-| [PositionDebt](./positiondebt) | فئة دين الوضع الاستثماري . |
-| [PositionMutualFund](./positionmutualfund) | فئة دين الوضع الاستثماري . |
-| [PositionOption](./positionoption) | فئة خيار مركز الاستثمار . |
-| [PositionOther](./positionother) | وضع الاستثمار فئة أخرى . |
-| [PositionStock](./positionstock) | فئة مخزون وضع الاستثمار. |
-| [Reinvest](./reinvest) | إعادة استثمار فئة الدخل . |
-| [ReturnOfCapital](./returnofcapital) | إرجاع فئة رأس المال . |
-| [SellDebt](./selldebt) | فئة الديون بيع الاستثمار . |
-| [SellMutualFund](./sellmutualfund) | استثمار بيع فئة صندوق الاستثمار المشترك. |
-| [SellOption](./selloption) | فئة خيار بيع الاستثمار . |
-| [SellOther](./sellother) | بيع نوع آخر من فئة الأمان. |
-| [SellStock](./sellstock) | فئة الأسهم بيع الاستثمار . |
-| [Split](./split) | فئة الأسهم الاستثمارية أو الصناديق المشتركة المنقسمة . |
-| [Transfer](./transfer) | فئة تحويل الاستثمار. |
-| [VestInfo](./vestinfo) | تواريخ تغيير السترة. يوفر نسبة الاستحقاق اعتبارًا من أي تاريخ معين في الماضي أو الحالي أو في المستقبل. |
-| [Withdrawals](./withdrawals) | 401 (k) فئة السحب ، وهذا يشمل عمليات سحب القروض. |
-| [YearToDate](./yeartodate) | المساهمات حتى تاريخه لهذا العام الميلادي . |
+| [OpenOrderBuyDebt](./openorderbuydebt) | فئة طلب شراء الدين المفتوح. |
+| [OpenOrderBuyMutualFund](./openorderbuymutualfund) | فئة طلب شراء الصندوق المشترك المفتوح. |
+| [OpenOrderBuyOption](./openorderbuyoption) | فئة طلب شراء الخيار المفتوح. |
+| [OpenOrderBuyOther](./openorderbuyother) | فئة طلب شراء أخرى مفتوحة. |
+| [OpenOrderBuyStock](./openorderbuystock) | فئة طلب شراء السهم المفتوح. |
+| [OpenOrderSellDebt](./openorderselldebt) | فئة طلب بيع الدين المفتوح. |
+| [OpenOrderSellMutualFund](./openordersellmutualfund) | فئة طلب بيع الصندوق المشترك المفتوح. |
+| [OpenOrderSellOption](./openorderselloption) | فئة طلب بيع الخيار المفتوح. |
+| [OpenOrderSellOther](./openordersellother) | فئة طلب بيع أخرى مفتوحة. |
+| [OpenOrderSellStock](./openordersellstock) | فئة طلب بيع السهم المفتوح. |
+| [OpenOrderSwitchMutualFund](./openorderswitchmutualfund) | فئة طلب تحويل الصندوق المشترك المفتوح. |
+| [PeriodToDate](./periodtodate) | المساهمات حتى الآن للفترة. |
+| [PositionDebt](./positiondebt) | فئة موقف الاستثمار في الدين. |
+| [PositionMutualFund](./positionmutualfund) | فئة موقف الاستثمار في الدين. |
+| [PositionOption](./positionoption) | فئة موقف الاستثمار في الخيار. |
+| [PositionOther](./positionother) | فئة موقف الاستثمار الأخرى. |
+| [PositionStock](./positionstock) | فئة موقف الاستثمار في السهم. |
+| [Reinvest](./reinvest) | فئة إعادة استثمار الدخل. |
+| [ReturnOfCapital](./returnofcapital) | فئة عائد رأس المال. |
+| [SellDebt](./selldebt) | فئة بيع الدين الاستثماري. |
+| [SellMutualFund](./sellmutualfund) | فئة بيع الصندوق المشترك الاستثماري. |
+| [SellOption](./selloption) | فئة بيع الخيار الاستثماري. |
+| [SellOther](./sellother) | استثمار بيع نوع آخر من الأوراق المالية فئة. |
+| [SellStock](./sellstock) | استثمار بيع الأسهم فئة. |
+| [Split](./split) | استثمار أسهم أو صندوق مشترك تقسيم فئة. |
+| [Transfer](./transfer) | استثمار تحويل فئة. |
+| [VestInfo](./vestinfo) | تواريخ تغيير الاستحقاق. يوفر نسبة الاستحقاق اعتبارًا من أي تاريخ ماضي أو حالي أو مستقبلي. |
+| [Withdrawals](./withdrawals) | فئة سحب 401(k)، وهذا يشمل سحب القروض. |
+| [YearToDate](./yeartodate) | المساهمات حتى الآن لهذا العام التقويمي. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [BuyEnum](./buyenum) | نوع الشراء enum. |
+| [BuyEnum](./buyenum) | تعداد نوع الشراء. |
 | [ContributionAmtTypeEnum](./contributionamttypeenum) |  |
-| [ContributionPctTypeEnum](./contributionpcttypeenum) | تعداد نوع المساهمة غير اللائق . |
-| [ContributionTypeEnum](./contributiontypeenum) | نوع تخصيص المساهمة . |
-| [DurationEnum](./durationenum) | تعداد المدة . |
+| [ContributionPctTypeEnum](./contributionpcttypeenum) | تعداد نوع نسبة المساهمة. |
+| [ContributionTypeEnum](./contributiontypeenum) | نوع تخصيص المساهمة. |
+| [DurationEnum](./durationenum) | تعداد المدة. |
 | [IncomeEnum](./incomeenum) | تعداد نوع دخل الاستثمار. |
-| [InOutEnum](./inoutenum) | تعداد نوع إجراء النقل. |
-| [OptionActionEnum](./optionactionenum) | تعداد نوع إجراء الخيار . |
-| [OptionBuyEnum](./optionbuyenum) | نوع شراء الخيار التعداد . |
-| [OptionSellEnum](./optionsellenum) | تعداد بيع الخيار . |
-| [PositionTypeEnum](./positiontypeenum) | تعداد نوع المركز . |
-| [RelatedEnum](./relatedenum) | تعداد نوع حركة الخيار ذي الصلة . |
-| [RestrictionEnum](./restrictionenum) | تعداد التقييد . |
-| [SecuredEnum](./securedenum) | تعداد النوع الآمن . |
+| [InOutEnum](./inoutenum) | تعداد نوع إجراء التحويل. |
+| [OptionActionEnum](./optionactionenum) | تعداد نوع إجراء الخيار. |
+| [OptionBuyEnum](./optionbuyenum) | تعداد نوع شراء الخيار. |
+| [OptionSellEnum](./optionsellenum) | تعداد بيع الخيار. |
+| [PositionTypeEnum](./positiontypeenum) | تعداد نوع المركز. |
+| [RelatedEnum](./relatedenum) | تعداد نوع معاملة الخيار ذات الصلة. |
+| [RestrictionEnum](./restrictionenum) | تعداد القيود. |
+| [SecuredEnum](./securedenum) | تعداد النوع المؤمّن. |
 | [SellReasonEnum](./sellreasonenum) | تعداد سبب البيع. |
 | [SellTypeEnum](./selltypeenum) | تعداد نوع البيع. |
-| [SubAccountEnum](./subaccountenum) | تعداد نوع الحساب الفرعي . |
-| [UnitTypeEnum](./unittypeenum) | تعداد نوع الوحدة . |
+| [SubAccountEnum](./subaccountenum) | تعداد نوع الحساب الفرعي. |
+| [UnitTypeEnum](./unittypeenum) | تعداد نوع الوحدة. |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

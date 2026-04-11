@@ -1,9 +1,9 @@
 ---
 title: InvestmentBuy
-second_title: Aspose.Finance لمرجع .NET API
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
 description: فئة معاملة شراء الاستثمار.
 type: docs
-weight: 2940
+weight: 2950
 url: /ar/net/aspose.finance.ofx.investment/investmentbuy/
 ---
 ## InvestmentBuy class
@@ -14,41 +14,41 @@ url: /ar/net/aspose.finance.ofx.investment/investmentbuy/
 public class InvestmentBuy : AbstractInvestmentTransaction
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [InvestmentBuy](investmentbuy)() | يقوم بتهيئة مثيل جديد من[`InvestmentBuy`](../investmentbuy) فئة . |
+| [InvestmentBuy](investmentbuy)() | ينشئ مثيلاً جديدًا من فئة [`InvestmentBuy`](../investmentbuy). |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Commission](../../aspose.finance.ofx.investment/investmentbuy/commission) { get; set; } | الحصول على عمولة المعاملة أو تعيينها. |
-| [Currency](../../aspose.finance.ofx.investment/investmentbuy/currency) { get; set; } | يحصل أو يحدد ملف[`Currency`](./currency) . |
-| [Fees](../../aspose.finance.ofx.investment/investmentbuy/fees) { get; set; } | الحصول على الرسوم المطبقة على التجارة أو تحديدها . |
-| [Investment401kSource](../../aspose.finance.ofx.investment/investmentbuy/investment401ksource) { get; set; } | الحصول على أو تحديد مصدر الأموال لهذه المعاملة. |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | يحصل أو يحدد ملف[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction) . |
-| [Load](../../aspose.finance.ofx.investment/investmentbuy/load) { get; set; } | الحصول على أو تعيين الحمل على المعاملة. |
-| [LoanId](../../aspose.finance.ofx.investment/investmentbuy/loanid) { get; set; } | الحصول على أو تعيين المعاملة المستحقة لقرض أو سداد قرض ، والقرض الذي كان عليه. لحسابات 401 (ك) فقط. |
-| [LoanInterest](../../aspose.finance.ofx.investment/investmentbuy/loaninterest) { get; set; } | الحصول على أو تحديد مقدار الفائدة من سداد القرض. لحسابات 401 (k) فقط. |
-| [LoanPrincipal](../../aspose.finance.ofx.investment/investmentbuy/loanprincipal) { get; set; } | الحصول على أو تحديد مقدار سداد القرض الأساسي. لحسابات 401 (k) فقط. |
-| [Markup](../../aspose.finance.ofx.investment/investmentbuy/markup) { get; set; } | الحصول على أو تحديد جزء من سعر الوحدة المنسوب إلى علامة التاجر. |
-| [OriginCurrency](../../aspose.finance.ofx.investment/investmentbuy/origincurrency) { get; set; } | الحصول على الأصل أو تعيينه[`Currency`](./currency) . |
-| [PayrollDate](../../aspose.finance.ofx.investment/investmentbuy/payrolldate) { get; set; } | الحصول على أو تحديد تاريخ الحصول على الأموال لهذه المعاملة من خلال خصم كشوف المرتبات لحسابات 401 (k) . |
-| [PriorYearContribution](../../aspose.finance.ofx.investment/investmentbuy/prioryearcontribution) { get; set; } | الحصول على أو تحديد ما إذا كان هذا الشراء قد تم بمساهمة السنة السابقة لحسابات 401 (ك) . |
-| [SecurityId](../../aspose.finance.ofx.investment/investmentbuy/securityid) { get; set; } | يحصل أو يحدد ملف[`SecurityId`](./securityid) . |
-| [SubAccountFund](../../aspose.finance.ofx.investment/investmentbuy/subaccountfund) { get; set; } | الحصول على أو تحديد من أين أتت الأموال الخاصة بالمعاملة أو انتقل إليها. |
-| [SubAccountSecurity](../../aspose.finance.ofx.investment/investmentbuy/subaccountsecurity) { get; set; } | الحصول على أو تعيين نوع الحساب الفرعي لـ security |
-| [Taxes](../../aspose.finance.ofx.investment/investmentbuy/taxes) { get; set; } | الحصول على أو تعيين الضرائب على التجارة . |
-| [Total](../../aspose.finance.ofx.investment/investmentbuy/total) { get; set; } | الحصول على إجمالي المعاملة أو تعيينه. |
-| [UnitPrice](../../aspose.finance.ofx.investment/investmentbuy/unitprice) { get; set; } | الحصول على السعر لكل وحدة مسعرة بشكل شائع أو تحديده. لا يشمل الترميز / تخفيض السعر. سعر السهم للأسهم والصناديق المشتركة وغيرها. النسبة المئوية للسندات. لكل سهم (وليس عقد) للخيارات . |
-| [Units](../../aspose.finance.ofx.investment/investmentbuy/units) { get; set; } | الحصول على الوحدات أو تعيينها. للإجراءات المستندة إلى الأمان بخلاف تجزئة المخزون. الأسهم في الأسهم والصناديق المشتركة وغيرها. القيمة الاسمية للسندات. عقود الخيارات. |
+| [Commission](../../aspose.finance.ofx.investment/investmentbuy/commission) { get; set; } | يحصل أو يضبط عمولة المعاملة. |
+| [Currency](../../aspose.finance.ofx.investment/investmentbuy/currency) { get; set; } | يحصل أو يضبط الـ [`Currency`](./currency). |
+| [Fees](../../aspose.finance.ofx.investment/investmentbuy/fees) { get; set; } | يحصل أو يضبط الرسوم المطبقة على الصفقة. |
+| [Investment401kSource](../../aspose.finance.ofx.investment/investmentbuy/investment401ksource) { get; set; } | يحصل أو يضبط مصدر المال لهذه المعاملة. |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | يحصل أو يضبط الـ[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [Load](../../aspose.finance.ofx.investment/investmentbuy/load) { get; set; } | يحصل أو يضبط الحمولة على المعاملة. |
+| [LoanId](../../aspose.finance.ofx.investment/investmentbuy/loanid) { get; set; } | يحصل أو يضبط ما إذا كانت المعاملة ناتجة عن قرض أو سداد قرض، وأي قرض كان. لحسابات 401(k) فقط. |
+| [LoanInterest](../../aspose.finance.ofx.investment/investmentbuy/loaninterest) { get; set; } | يحصل أو يضبط مقدار الفائدة في سداد القرض. لحسابات 401(k) فقط. |
+| [LoanPrincipal](../../aspose.finance.ofx.investment/investmentbuy/loanprincipal) { get; set; } | يحصل أو يضبط مقدار الأصل في سداد القرض. لحسابات 401(k) فقط. |
+| [Markup](../../aspose.finance.ofx.investment/investmentbuy/markup) { get; set; } | يحصل أو يضبط الجزء من سعر الوحدة الذي يُعزى إلى هامش الوكيل. |
+| [OriginCurrency](../../aspose.finance.ofx.investment/investmentbuy/origincurrency) { get; set; } | يحصل أو يضبط أصل الـ[`Currency`](./currency). |
+| [PayrollDate](../../aspose.finance.ofx.investment/investmentbuy/payrolldate) { get; set; } | يحصل أو يضبط تاريخ الحصول على الأموال لهذه المعاملة عبر خصم الرواتب لحسابات 401(k). |
+| [PriorYearContribution](../../aspose.finance.ofx.investment/investmentbuy/prioryearcontribution) { get; set; } | يحصل أو يضبط ما إذا تم إجراء هذه الشراء بمساهمة من السنة السابقة لحسابات 401(k). |
+| [SecurityId](../../aspose.finance.ofx.investment/investmentbuy/securityid) { get; set; } | يحصل أو يضبط الـ[`SecurityId`](./securityid). |
+| [SubAccountFund](../../aspose.finance.ofx.investment/investmentbuy/subaccountfund) { get; set; } | يحصل أو يعيّن من أين جاء المال للمعاملة أو إلى أين يذهب. |
+| [SubAccountSecurity](../../aspose.finance.ofx.investment/investmentbuy/subaccountsecurity) { get; set; } | يحصل أو يعيّن نوع الحساب الفرعي للأمان |
+| [Taxes](../../aspose.finance.ofx.investment/investmentbuy/taxes) { get; set; } | يحصل أو يضبط الضرائب على الصفقة. |
+| [Total](../../aspose.finance.ofx.investment/investmentbuy/total) { get; set; } | يحصل أو يعيّن إجمالي المعاملة. |
+| [UnitPrice](../../aspose.finance.ofx.investment/investmentbuy/unitprice) { get; set; } | يحصل أو يعيّن السعر لكل وحدة تُقتبس عادةً. لا يشمل markup/markdown. سعر السهم للأسهم، الصناديق المشتركة، وغيرها. نسبة القيمة الاسمية للسندات. لكل سهم (ليس عقد) للخيارات. |
+| [Units](../../aspose.finance.ofx.investment/investmentbuy/units) { get; set; } | يحصل أو يعيّن الوحدات. لإجراءات قائمة على الأوراق المالية غير تقسيم الأسهم. الأسهم للأسهم، الصناديق المشتركة، وغيرها. القيمة الاسمية للسندات. العقود للخيارات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractInvestmentTransaction](../abstractinvestmenttransaction)
-* مساحة الاسم [Aspose.Finance.Ofx.Investment](../../aspose.finance.ofx.investment)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx.Investment](../../aspose.finance.ofx.investment)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

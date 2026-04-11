@@ -1,9 +1,9 @@
 ---
 title: LoanAccountInfo
-second_title: Aspose.Finance لمرجع .NET API
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
 description: معلومات حساب القرض.
 type: docs
-weight: 4030
+weight: 4050
 url: /ar/net/aspose.finance.ofx/loanaccountinfo/
 ---
 ## LoanAccountInfo class
@@ -14,39 +14,39 @@ url: /ar/net/aspose.finance.ofx/loanaccountinfo/
 public class LoanAccountInfo : AbstractAccountInfo
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LoanAccountInfo](loanaccountinfo)() | يقوم بتهيئة مثيل جديد من[`LoanAccountInfo`](../loanaccountinfo) فئة . |
+| [LoanAccountInfo](loanaccountinfo)() | يُنشئ مثيلاً جديدًا للفئة [`LoanAccountInfo`](../loanaccountinfo). |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AccountClassification](../../aspose.finance.ofx/loanaccountinfo/accountclassification) { get; set; } | الحصول على تصنيف الحساب أو تعيينه. |
-| [BalloonAmount](../../aspose.finance.ofx/loanaccountinfo/balloonamount) { get; set; } | الحصول على أو تحديد مبلغ البالون ، غير مضمن أو صفر للقروض العادية ، وإلا مبلغ البالون . |
-| [LoanAccountFrom](../../aspose.finance.ofx/loanaccountinfo/loanaccountfrom) { get; set; } | الحصول على أو تعيين من[`LoanAccount`](../loanaccount) . |
-| [LoanFrequency](../../aspose.finance.ofx/loanaccountinfo/loanfrequency) { get; set; } | الحصول على أو تحديد تكرار المدفوعات . |
-| [LoanInitialBalance](../../aspose.finance.ofx/loanaccountinfo/loaninitialbalance) { get; set; } | الحصول على أو تحديد رصيد القرض الأولي |
-| [LoanInitialNumberPayments](../../aspose.finance.ofx/loanaccountinfo/loaninitialnumberpayments) { get; set; } | الحصول على أو تحديد العدد الأولي لمدفوعات القرض. |
-| [LoanInterest](../../aspose.finance.ofx/loanaccountinfo/loaninterest) { get; set; } | الحصول على أو تعيين فائدة القرض. |
-| [LoanInterestRate](../../aspose.finance.ofx/loanaccountinfo/loaninterestrate) { get; set; } | الحصول على أو تحديد معدل القرض . |
-| [LoanMaturityDate](../../aspose.finance.ofx/loanaccountinfo/loanmaturitydate) { get; set; } | الحصول على أو تحديد تاريخ انتهاء القرض المتوقع. |
-| [LoanPayment](../../aspose.finance.ofx/loanaccountinfo/loanpayment) { get; set; } | الحصول على دفعة القرض أو تعيينها. |
-| [LoanRemainingPayments](../../aspose.finance.ofx/loanaccountinfo/loanremainingpayments) { get; set; } | الحصول على أو تحديد العدد المتبقي من مدفوعات القرض |
-| [LoanStartDate](../../aspose.finance.ofx/loanaccountinfo/loanstartdate) { get; set; } | الحصول على تاريخ بدء القرض أو تحديده . |
-| [LoanType](../../aspose.finance.ofx/loanaccountinfo/loantype) { get; set; } | الحصول على نوع القرض أو تعيينه. |
-| [PrincipalBalance](../../aspose.finance.ofx/loanaccountinfo/principalbalance) { get; set; } | الحصول على نوع الرصيد الأساسي للقرض أو تعيينه. |
-| [ServiceStatus](../../aspose.finance.ofx/loanaccountinfo/servicestatus) { get; set; } | الحصول على حالة الحساب أو تعيينها . |
-| [SupportTransactionDetailDownload](../../aspose.finance.ofx/loanaccountinfo/supporttransactiondetaildownload) { get; set; } | إذا كان الحساب يدعم تنزيلات تفاصيل المعاملة ، نعم ، إذا كان الرصيد فقط ، لا. |
-| [TransferDestination](../../aspose.finance.ofx/loanaccountinfo/transferdestination) { get; set; } | إذا تم تمكين الحساب كوجهة للتحويل بين البنوك أو بين البنوك ، نعم ، بخلاف ذلك ، لا. |
-| [TransferSource](../../aspose.finance.ofx/loanaccountinfo/transfersource) { get; set; } | إذا تم تمكين الحساب كمصدر للتحويل بين البنوك أو بين البنوك ، نعم ، بخلاف ذلك ، لا. |
+| [AccountClassification](../../aspose.finance.ofx/loanaccountinfo/accountclassification) { get; set; } | يحصل أو يعيّن تصنيف الحساب. |
+| [BalloonAmount](../../aspose.finance.ofx/loanaccountinfo/balloonamount) { get; set; } | يحصل أو يعيّن مبلغ البالون، غير مشمول أو صفر للقروض العادية، وإلا يكون مبلغ البالون. |
+| [LoanAccountFrom](../../aspose.finance.ofx/loanaccountinfo/loanaccountfrom) { get; set; } | يحصل أو يعيّن الشكل الخاص بـ [`LoanAccount`](../loanaccount). |
+| [LoanFrequency](../../aspose.finance.ofx/loanaccountinfo/loanfrequency) { get; set; } | يحصل أو يعيّن تكرار الدفعات. |
+| [LoanInitialBalance](../../aspose.finance.ofx/loanaccountinfo/loaninitialbalance) { get; set; } | يحصل أو يعيّن رصيد القرض الأولي |
+| [LoanInitialNumberPayments](../../aspose.finance.ofx/loanaccountinfo/loaninitialnumberpayments) { get; set; } | يحصل أو يعيّن عدد الدفعات القرضية الأولية. |
+| [LoanInterest](../../aspose.finance.ofx/loanaccountinfo/loaninterest) { get; set; } | يحصل أو يعيّن فائدة القرض. |
+| [LoanInterestRate](../../aspose.finance.ofx/loanaccountinfo/loaninterestrate) { get; set; } | الحصول أو تعيين معدل القرض. |
+| [LoanMaturityDate](../../aspose.finance.ofx/loanaccountinfo/loanmaturitydate) { get; set; } | يحصل أو يعيّن تاريخ انتهاء القرض المتوقع. |
+| [LoanPayment](../../aspose.finance.ofx/loanaccountinfo/loanpayment) { get; set; } | الحصول أو تعيين دفعة القرض. |
+| [LoanRemainingPayments](../../aspose.finance.ofx/loanaccountinfo/loanremainingpayments) { get; set; } | الحصول أو تعيين عدد دفعات القرض المتبقية |
+| [LoanStartDate](../../aspose.finance.ofx/loanaccountinfo/loanstartdate) { get; set; } | يحصل أو يعيّن تاريخ بدء القرض. |
+| [LoanType](../../aspose.finance.ofx/loanaccountinfo/loantype) { get; set; } | الحصول أو تعيين نوع القرض. |
+| [PrincipalBalance](../../aspose.finance.ofx/loanaccountinfo/principalbalance) { get; set; } | الحصول أو تعيين نوع رصيد أصل القرض. |
+| [ServiceStatus](../../aspose.finance.ofx/loanaccountinfo/servicestatus) { get; set; } | الحصول أو تعيين حالة الحساب. |
+| [SupportTransactionDetailDownload](../../aspose.finance.ofx/loanaccountinfo/supporttransactiondetaildownload) { get; set; } | إذا كان الحساب يدعم تنزيل تفاصيل المعاملات، نعم؛ إذا كان للرصيد فقط، لا. |
+| [TransferDestination](../../aspose.finance.ofx/loanaccountinfo/transferdestination) { get; set; } | إذا كان الحساب مفعلاً كوجهة لتحويل داخلي أو بين البنوك، نعم؛ وإلا، لا. |
+| [TransferSource](../../aspose.finance.ofx/loanaccountinfo/transfersource) { get; set; } | إذا كان الحساب مفعلاً كمصدر لتحويل داخلي أو بين البنوك، نعم؛ وإلا، لا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractAccountInfo](../abstractaccountinfo)
-* مساحة الاسم [Aspose.Finance.Ofx](../../aspose.finance.ofx)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx](../../aspose.finance.ofx)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

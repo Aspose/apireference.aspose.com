@@ -1,48 +1,48 @@
 ---
 title: LoanInfo
-second_title: Aspose.Finance لمرجع .NET API
-description: القروض المستحقة على الحساب
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: القروض المستحقة ضد الحساب
 type: docs
-weight: 3190
+weight: 3200
 url: /ar/net/aspose.finance.ofx.investment/loaninfo/
 ---
 ## LoanInfo class
 
-القروض المستحقة على الحساب
+القروض المستحقة ضد الحساب
 
 ```csharp
 public class LoanInfo
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LoanInfo](loaninfo)() | يقوم بتهيئة مثيل جديد من[`LoanInfo`](../loaninfo) فئة . |
+| [LoanInfo](loaninfo)() | يُنشئ مثيلًا جديدًا لفئة [`LoanInfo`](../loaninfo). |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CurrentLoanBalance](../../aspose.finance.ofx.investment/loaninfo/currentloanbalance) { get; set; } | الحصول على أو تعيين الرصيد الحالي الرئيسي للقرض. |
-| [DateAsOf](../../aspose.finance.ofx.investment/loaninfo/dateasof) { get; set; } | الحصول على أو تحديد تاريخ ووقت رصيد القرض الحالي. |
-| [InitialLoanBalance](../../aspose.finance.ofx.investment/loaninfo/initialloanbalance) { get; set; } | الحصول على أو تحديد رصيد القرض الأولي . |
-| [LoanDescription](../../aspose.finance.ofx.investment/loaninfo/loandescription) { get; set; } | الحصول على أو تعيين وصف القرض |
-| [LoanId](../../aspose.finance.ofx.investment/loaninfo/loanid) { get; set; } | الحصول على أو تحديد معرّف هذا القرض. |
-| [LoanInterestToDate](../../aspose.finance.ofx.investment/loaninfo/loaninteresttodate) { get; set; } | الحصول على أو تعيين إجمالي المهتمين المدفوع حتى الآن على هذا القرض. |
-| [LoanMaturityDate](../../aspose.finance.ofx.investment/loaninfo/loanmaturitydate) { get; set; } | الحصول على أو تحديد تاريخ انتهاء القرض المتوقع. |
-| [LoanNextPaymentDate](../../aspose.finance.ofx.investment/loaninfo/loannextpaymentdate) { get; set; } | الحصول على أو تحديد تاريخ استحقاق الدفع التالي . |
-| [LoanPaymentAmount](../../aspose.finance.ofx.investment/loaninfo/loanpaymentamount) { get; set; } | الحصول على أو تعيين مبلغ دفعة القرض. |
-| [LoanPaymentFrequency](../../aspose.finance.ofx.investment/loaninfo/loanpaymentfrequency) { get; set; } | الحصول على أو تحديد عدد مرات سداد القروض. |
-| [LoanPaymentsInitial](../../aspose.finance.ofx.investment/loaninfo/loanpaymentsinitial) { get; set; } | الحصول على أو تحديد العدد الأولي لمدفوعات القرض. |
-| [LoanPaymentsRemaining](../../aspose.finance.ofx.investment/loaninfo/loanpaymentsremaining) { get; set; } | الحصول على أو تحديد العدد المتبقي من مدفوعات القرض. |
-| [LoanRate](../../aspose.finance.ofx.investment/loaninfo/loanrate) { get; set; } | الحصول على أو تحديد معدل الفائدة السنوي للقرض. |
-| [LoanStartDate](../../aspose.finance.ofx.investment/loaninfo/loanstartdate) { get; set; } | الحصول على تاريخ بدء القرض أو تحديده . |
-| [LoanTotalProjectInterest](../../aspose.finance.ofx.investment/loaninfo/loantotalprojectinterest) { get; set; } | الحصول على أو تعيين إجمالي الفائدة المتوقعة التي سيتم دفعها على هذا القرض. |
+| [CurrentLoanBalance](../../aspose.finance.ofx.investment/loaninfo/currentloanbalance) { get; set; } | يحصل أو يعيّن رصيد أصل القرض الحالي. |
+| [DateAsOf](../../aspose.finance.ofx.investment/loaninfo/dateasof) { get; set; } | يحصل أو يعيّن التاريخ والوقت لرصيد القرض الحالي. |
+| [InitialLoanBalance](../../aspose.finance.ofx.investment/loaninfo/initialloanbalance) { get; set; } | يحصل أو يعيّن رصيد القرض الأولي. |
+| [LoanDescription](../../aspose.finance.ofx.investment/loaninfo/loandescription) { get; set; } | يحصل أو يعيّن وصف القرض |
+| [LoanId](../../aspose.finance.ofx.investment/loaninfo/loanid) { get; set; } | يحصل أو يعيّن معرف هذا القرض. |
+| [LoanInterestToDate](../../aspose.finance.ofx.investment/loaninfo/loaninteresttodate) { get; set; } | يحصل أو يعيّن إجمالي الفائدة المدفوعة حتى الآن على هذا القرض. |
+| [LoanMaturityDate](../../aspose.finance.ofx.investment/loaninfo/loanmaturitydate) { get; set; } | يحصل أو يعيّن تاريخ انتهاء القرض المتوقع. |
+| [LoanNextPaymentDate](../../aspose.finance.ofx.investment/loaninfo/loannextpaymentdate) { get; set; } | يحصل أو يعيّن تاريخ الاستحقاق للدفع التالي. |
+| [LoanPaymentAmount](../../aspose.finance.ofx.investment/loaninfo/loanpaymentamount) { get; set; } | يحصل أو يعيّن مبلغ سداد القرض. |
+| [LoanPaymentFrequency](../../aspose.finance.ofx.investment/loaninfo/loanpaymentfrequency) { get; set; } | يحصل أو يعيّن تكرار سداد القرض. |
+| [LoanPaymentsInitial](../../aspose.finance.ofx.investment/loaninfo/loanpaymentsinitial) { get; set; } | يحصل أو يعيّن عدد الدفعات القرضية الأولية. |
+| [LoanPaymentsRemaining](../../aspose.finance.ofx.investment/loaninfo/loanpaymentsremaining) { get; set; } | يحصل أو يعيّن عدد الدفعات المتبقية للقرض. |
+| [LoanRate](../../aspose.finance.ofx.investment/loaninfo/loanrate) { get; set; } | يحصل أو يعيّن معدل الفائدة السنوية للقرض. |
+| [LoanStartDate](../../aspose.finance.ofx.investment/loaninfo/loanstartdate) { get; set; } | يحصل أو يعيّن تاريخ بدء القرض. |
+| [LoanTotalProjectInterest](../../aspose.finance.ofx.investment/loaninfo/loantotalprojectinterest) { get; set; } | يحصل أو يعيّن إجمالي الفائدة المتوقعة التي ستدفع على هذا القرض. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Finance.Ofx.Investment](../../aspose.finance.ofx.investment)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx.Investment](../../aspose.finance.ofx.investment)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

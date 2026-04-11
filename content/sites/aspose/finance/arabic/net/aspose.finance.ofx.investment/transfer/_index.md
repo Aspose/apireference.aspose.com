@@ -1,45 +1,45 @@
 ---
-title: Transfer
-second_title: Aspose.Finance لمرجع .NET API
-description: فئة تحويل الاستثمار.
+title: تحويل
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: استثمار تحويل فئة.
 type: docs
-weight: 3570
+weight: 3580
 url: /ar/net/aspose.finance.ofx.investment/transfer/
 ---
 ## Transfer class
 
-فئة تحويل الاستثمار.
+استثمار تحويل فئة.
 
 ```csharp
 public class Transfer : AbstractInvestmentTransaction
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Transfer](transfer)() | يقوم بتهيئة مثيل جديد من[`Transfer`](../transfer) فئة . |
+| [Transfer](transfer)() | يُنشئ مثيلاً جديدًا من فئة [`Transfer`](../transfer). |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AverageCostBasis](../../aspose.finance.ofx.investment/transfer/averagecostbasis) { get; set; } | الحصول على أو تعيين أساس متوسط التكلفة لهذا الموضع . |
-| [Investment401kSource](../../aspose.finance.ofx.investment/transfer/investment401ksource) { get; set; } | الحصول على أو تعيين مصدر الأموال لهذا الأمان في هذا الوضع. |
-| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/transfer/investmentaccountfrom) { get; set; } | الحصول على أو تعيين من[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) . |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | يحصل أو يحدد ملف[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction) . |
-| [PositionType](../../aspose.finance.ofx.investment/transfer/positiontype) { get; set; } | الحصول على نوع المركز أو تحديده. |
-| [PurchaseDate](../../aspose.finance.ofx.investment/transfer/purchasedate) { get; set; } | الحصول على تاريخ الشراء الأصلي للأمان أو تعيينه. |
-| [SecurityId](../../aspose.finance.ofx.investment/transfer/securityid) { get; set; } | يحصل أو يحدد ملف[`SecurityId`](./securityid) . |
-| [SubAccountSecurity](../../aspose.finance.ofx.investment/transfer/subaccountsecurity) { get; set; } | الحصول على نوع الحساب الفرعي للأمان أو تعيينه. |
-| [TransferAction](../../aspose.finance.ofx.investment/transfer/transferaction) { get; set; } | الحصول على أو تعيين إجراء عمليات النقل . |
-| [UnitPrice](../../aspose.finance.ofx.investment/transfer/unitprice) { get; set; } | الحصول على السعر لكل وحدة مسعرة بشكل شائع أو تحديده. لا يشمل الترميز / تخفيض السعر. سعر السهم للأسهم والصناديق المشتركة وغيرها. النسبة المئوية للسندات. لكل سهم (وليس عقد) للخيارات . |
-| [Units](../../aspose.finance.ofx.investment/transfer/units) { get; set; } | الحصول على الوحدات أو تعيينها. للإجراءات المستندة إلى الأمان بخلاف تجزئة المخزون. الأسهم في الأسهم والصناديق المشتركة وغيرها. القيمة الاسمية للسندات. عقود الخيارات. |
+| [AverageCostBasis](../../aspose.finance.ofx.investment/transfer/averagecostbasis) { get; set; } | يحصل أو يعيّن متوسط أساس التكلفة لهذا المركز. |
+| [Investment401kSource](../../aspose.finance.ofx.investment/transfer/investment401ksource) { get; set; } | يحصل أو يعيّن مصدر المال لهذا الأمان في هذا الموقع. |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/transfer/investmentaccountfrom) { get; set; } | يحصل أو يضبط قيمة from لـ [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | يحصل أو يضبط الـ[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [PositionType](../../aspose.finance.ofx.investment/transfer/positiontype) { get; set; } | يحصل أو يعيّن نوع الموقع. |
+| [PurchaseDate](../../aspose.finance.ofx.investment/transfer/purchasedate) { get; set; } | يسترجع أو يعيّن تاريخ الشراء الأصلي للأمان. |
+| [SecurityId](../../aspose.finance.ofx.investment/transfer/securityid) { get; set; } | يحصل أو يضبط الـ[`SecurityId`](./securityid). |
+| [SubAccountSecurity](../../aspose.finance.ofx.investment/transfer/subaccountsecurity) { get; set; } | يحصل أو يضبط نوع الحساب الفرعي للأمان. |
+| [TransferAction](../../aspose.finance.ofx.investment/transfer/transferaction) { get; set; } | يسترجع أو يعيّن الإجراء لعمليات التحويل. |
+| [UnitPrice](../../aspose.finance.ofx.investment/transfer/unitprice) { get; set; } | يحصل أو يعيّن السعر لكل وحدة تُقتبس عادةً. لا يشمل markup/markdown. سعر السهم للأسهم، الصناديق المشتركة، وغيرها. نسبة القيمة الاسمية للسندات. لكل سهم (ليس عقد) للخيارات. |
+| [Units](../../aspose.finance.ofx.investment/transfer/units) { get; set; } | يحصل أو يعيّن الوحدات. لإجراءات قائمة على الأوراق المالية غير تقسيم الأسهم. الأسهم للأسهم، الصناديق المشتركة، وغيرها. القيمة الاسمية للسندات. العقود للخيارات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractInvestmentTransaction](../abstractinvestmenttransaction)
-* مساحة الاسم [Aspose.Finance.Ofx.Investment](../../aspose.finance.ofx.investment)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx.Investment](../../aspose.finance.ofx.investment)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

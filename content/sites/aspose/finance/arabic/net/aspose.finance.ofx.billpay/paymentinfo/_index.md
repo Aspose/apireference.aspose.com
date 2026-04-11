@@ -1,45 +1,45 @@
 ---
 title: PaymentInfo
-second_title: Aspose.Finance لمرجع .NET API
-description: يتم استخدام فئة معلومات الدفع لتحديد معلومات الدفع التفصيلية. يتم استخدامه لكل من الدفعات الفردية والمدفوعات المتكررة.
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: تُستخدم فئة معلومات الدفع لتحديد معلومات الدفع التفصيلية. تُستخدم لكل من الدفعات الفردية والدفعات المتكررة.
 type: docs
 weight: 1070
 url: /ar/net/aspose.finance.ofx.billpay/paymentinfo/
 ---
 ## PaymentInfo class
 
-يتم استخدام فئة معلومات الدفع لتحديد معلومات الدفع التفصيلية. يتم استخدامه لكل من الدفعات الفردية والمدفوعات المتكررة.
+تُستخدم فئة معلومات الدفع لتحديد معلومات الدفع التفصيلية. تُستخدم لكل من الدفعات الفردية والدفعات المتكررة.
 
 ```csharp
 public class PaymentInfo
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PaymentInfo](paymentinfo)() | يقوم بتهيئة مثيل جديد من[`PaymentInfo`](../paymentinfo) فئة . |
+| [PaymentInfo](paymentinfo)() | يُنشئ مثيلاً جديدًا من الفئة [`PaymentInfo`](../paymentinfo). |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.billpay/paymentinfo/bankaccountfrom) { get; set; } | الحصول على أو تعيين من[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
-| [BankAccountTo](../../aspose.finance.ofx.billpay/paymentinfo/bankaccountto) { get; set; } | الحصول على أو تعيين إلى[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
-| [BillPubInfo](../../aspose.finance.ofx.billpay/paymentinfo/billpubinfo) { get; set; } | يحصل أو يحدد ملف[`BillPubInfo`](./billpubinfo) . |
-| [BillReferenceInformation](../../aspose.finance.ofx.billpay/paymentinfo/billreferenceinformation) { get; set; } | الحصول على المعلومات المرجعية التي يوفرها محرر الفاتورة أو تعيينها عند دفع الفاتورة ، إذا كانت متوفرة. |
-| [DueDate](../../aspose.finance.ofx.billpay/paymentinfo/duedate) { get; set; } | الحصول على أو تحديد تاريخ استحقاق الدفع أو التاريخ الذي يجب أن يتلقى فيه المدفوع لأمره الدفعة. |
-| [ExtendedPayments](../../aspose.finance.ofx.billpay/paymentinfo/extendedpayments) { get; set; } | يحصل أو يحدد مجموعة[`ExtendedPayment`](../extendedpayment) . |
-| [Memo](../../aspose.finance.ofx.billpay/paymentinfo/memo) { get; set; } | الحصول على أو تعيين المذكرة من المستخدم إلى المدفوع لأمره. |
-| [Payee](../../aspose.finance.ofx.billpay/paymentinfo/payee) { get; set; } | الحصول على أو تعيين كاملة[`Payee`](./payee) معلومات الفواتير . |
-| [PayeeAccount](../../aspose.finance.ofx.billpay/paymentinfo/payeeaccount) { get; set; } | الحصول على أو تحديد رقم حساب المستخدم مع المستفيد. |
-| [PayeeId](../../aspose.finance.ofx.billpay/paymentinfo/payeeid) { get; set; } | الحصول على أو تعيين معرف المدفوع لأمر الخادم (مطلوب إذا تم تعيينه). |
-| [PayeeListId](../../aspose.finance.ofx.billpay/paymentinfo/payeelistid) { get; set; } | الحصول على أو تعيين معرف قائمة المدفوع لأمره (مطلوب إذا تم تعيينه) ، |
-| [TransferAmount](../../aspose.finance.ofx.billpay/paymentinfo/transferamount) { get; set; } | الحصول على مبلغ الدفعة أو تعيينه. |
+| [BankAccountFrom](../../aspose.finance.ofx.billpay/paymentinfo/bankaccountfrom) { get; set; } | يحصل أو يعيّن الـ from لـ [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [BankAccountTo](../../aspose.finance.ofx.billpay/paymentinfo/bankaccountto) { get; set; } | يحصل أو يضبط الخاصية to من [`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [BillPubInfo](../../aspose.finance.ofx.billpay/paymentinfo/billpubinfo) { get; set; } | يحصل أو يعيّن الـ [`BillPubInfo`](./billpubinfo). |
+| [BillReferenceInformation](../../aspose.finance.ofx.billpay/paymentinfo/billreferenceinformation) { get; set; } | يحصل أو يعيّن معلومات المرجع التي يزودها الفاتور عند دفع الفاتورة، إذا كانت متوفرة. |
+| [DueDate](../../aspose.finance.ofx.billpay/paymentinfo/duedate) { get; set; } | الحصول أو تعيين تاريخ استحقاق الدفع أو التاريخ الذي يجب استلام الدفع فيه من قبل المستفيد. |
+| [ExtendedPayments](../../aspose.finance.ofx.billpay/paymentinfo/extendedpayments) { get; set; } | الحصول أو تعيين مجموعة [`ExtendedPayment`](../extendedpayment). |
+| [Memo](../../aspose.finance.ofx.billpay/paymentinfo/memo) { get; set; } | الحصول أو تعيين المذكرة من المستخدم إلى المستفيد. |
+| [Payee](../../aspose.finance.ofx.billpay/paymentinfo/payee) { get; set; } | الحصول أو تعيين معلومات الفوترة الكاملة لـ [`Payee`](./payee). |
+| [PayeeAccount](../../aspose.finance.ofx.billpay/paymentinfo/payeeaccount) { get; set; } | الحصول أو تعيين رقم حساب المستخدم مع المستفيد. |
+| [PayeeId](../../aspose.finance.ofx.billpay/paymentinfo/payeeid) { get; set; } | الحصول أو تعيين معرف المستفيد على الخادم (مطلوب إذا تم تعيينه). |
+| [PayeeListId](../../aspose.finance.ofx.billpay/paymentinfo/payeelistid) { get; set; } | الحصول أو تعيين معرف قائمة المستفيد (مطلوب إذا تم تعيينه)، |
+| [TransferAmount](../../aspose.finance.ofx.billpay/paymentinfo/transferamount) { get; set; } | الحصول أو تعيين مبلغ الدفع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Finance.Ofx.BillPay](../../aspose.finance.ofx.billpay)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx.BillPay](../../aspose.finance.ofx.billpay)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

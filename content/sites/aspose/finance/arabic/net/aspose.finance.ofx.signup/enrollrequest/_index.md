@@ -1,51 +1,51 @@
 ---
 title: EnrollRequest
-second_title: Aspose.Finance لمرجع .NET API
-description: فئة طلب التسجيل .
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: فئة طلب التسجيل.
 type: docs
-weight: 5600
+weight: 5630
 url: /ar/net/aspose.finance.ofx.signup/enrollrequest/
 ---
 ## EnrollRequest class
 
-فئة طلب التسجيل .
+فئة طلب التسجيل.
 
 ```csharp
 public class EnrollRequest
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [EnrollRequest](enrollrequest)() | يقوم بتهيئة مثيل جديد من[`EnrollRequest`](../enrollrequest) فئة . |
+| [EnrollRequest](enrollrequest)() | يُنشئ مثيلاً جديدًا من الفئة [`EnrollRequest`](../enrollrequest). |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AccountFrom](../../aspose.finance.ofx.signup/enrollrequest/accountfrom) { get; set; } | الحصول على أو تعيين من[`BankAccount`](../../aspose.finance.ofx/bankaccount) أو[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) أو[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) أو[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount) . |
-| [Address1](../../aspose.finance.ofx.signup/enrollrequest/address1) { get; set; } | الحصول على سطر العنوان أو تعيينه 1. |
-| [Address2](../../aspose.finance.ofx.signup/enrollrequest/address2) { get; set; } | الحصول على سطر العنوان أو تعيينه 2. |
-| [Address3](../../aspose.finance.ofx.signup/enrollrequest/address3) { get; set; } | الحصول على سطر العنوان أو تعيينه 3. |
-| [BirthDate](../../aspose.finance.ofx.signup/enrollrequest/birthdate) { get; set; } | الحصول على أو تحديد تاريخ الميلاد . |
-| [City](../../aspose.finance.ofx.signup/enrollrequest/city) { get; set; } | الحصول على أو تحديد المدينة . |
-| [Country](../../aspose.finance.ofx.signup/enrollrequest/country) { get; set; } | الحصول على رمز البلد أو تعيينه. رمز البلد المكون من 3 أحرف من ISO / DIS-3166. |
-| [DayPhone](../../aspose.finance.ofx.signup/enrollrequest/dayphone) { get; set; } | الحصول على أو تحديد رقم الهاتف أثناء النهار. |
-| [Email](../../aspose.finance.ofx.signup/enrollrequest/email) { get; set; } | الحصول على عنوان البريد الإلكتروني الإلكتروني أو تعيينه. |
-| [EveningPhone](../../aspose.finance.ofx.signup/enrollrequest/eveningphone) { get; set; } | الحصول على رقم هاتف المساء أو تحديده. |
-| [FirstName](../../aspose.finance.ofx.signup/enrollrequest/firstname) { get; set; } | الحصول على الاسم الأول للمستخدم أو تعيينه . |
-| [LastName](../../aspose.finance.ofx.signup/enrollrequest/lastname) { get; set; } | الحصول على أو تعيين الاسم الأخير للمستخدم. |
-| [MiddleName](../../aspose.finance.ofx.signup/enrollrequest/middlename) { get; set; } | الحصول على أو تحديد الاسم الأوسط للمستخدم. |
-| [PostalCode](../../aspose.finance.ofx.signup/enrollrequest/postalcode) { get; set; } | الحصول على أو تعيين الرمز البريدي |
-| [SecurityName](../../aspose.finance.ofx.signup/enrollrequest/securityname) { get; set; } | الحصول على أو تحديد اسم الأم قبل الزواج أو ما يعادله . |
-| [State](../../aspose.finance.ofx.signup/enrollrequest/state) { get; set; } | الحصول على أو تعيين الولاية أو المقاطعة. |
-| [TaxId](../../aspose.finance.ofx.signup/enrollrequest/taxid) { get; set; } | الحصول على أو تعيين المعرف المستخدم للأغراض الضريبية (مثل SSN) ، قد يكون هو نفسه معرف المستخدم. |
-| [UserId](../../aspose.finance.ofx.signup/enrollrequest/userid) { get; set; } | الحصول على أو تعيين معرف المستخدم الفعلي إذا كان معروفًا بالفعل ، أو معرف المستخدم المفضل إذا كان بإمكان المستخدم الاختيار. |
+| [AccountFrom](../../aspose.finance.ofx.signup/enrollrequest/accountfrom) { get; set; } | يحصل أو يعيّن المصدر لـ [`BankAccount`](../../aspose.finance.ofx/bankaccount) أو [`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) أو [`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) أو [`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [Address1](../../aspose.finance.ofx.signup/enrollrequest/address1) { get; set; } | يحصل أو يعيّن سطر العنوان 1. |
+| [Address2](../../aspose.finance.ofx.signup/enrollrequest/address2) { get; set; } | يحصل أو يعيّن سطر العنوان 2. |
+| [Address3](../../aspose.finance.ofx.signup/enrollrequest/address3) { get; set; } | يحصل أو يعيّن سطر العنوان 3. |
+| [BirthDate](../../aspose.finance.ofx.signup/enrollrequest/birthdate) { get; set; } | يحصل أو يعيّن تاريخ الميلاد. |
+| [City](../../aspose.finance.ofx.signup/enrollrequest/city) { get; set; } | يحصل أو يعيّن المدينة. |
+| [Country](../../aspose.finance.ofx.signup/enrollrequest/country) { get; set; } | يحصل أو يعيّن رمز الدولة. رمز الدولة مكوّن من 3 أحرف وفقًا لـ ISO/DIS-3166. |
+| [DayPhone](../../aspose.finance.ofx.signup/enrollrequest/dayphone) { get; set; } | يحصل أو يعيّن رقم الهاتف خلال النهار. |
+| [Email](../../aspose.finance.ofx.signup/enrollrequest/email) { get; set; } | يحصل أو يعيّن عنوان البريد الإلكتروني. |
+| [EveningPhone](../../aspose.finance.ofx.signup/enrollrequest/eveningphone) { get; set; } | يحصل أو يعيّن رقم الهاتف المسائي. |
+| [FirstName](../../aspose.finance.ofx.signup/enrollrequest/firstname) { get; set; } | يحصل أو يعيّن الاسم الأول للمستخدم. |
+| [LastName](../../aspose.finance.ofx.signup/enrollrequest/lastname) { get; set; } | يحصل أو يعيّن اسم العائلة للمستخدم. |
+| [MiddleName](../../aspose.finance.ofx.signup/enrollrequest/middlename) { get; set; } | يحصل أو يعيّن الاسم الأوسط للمستخدم. |
+| [PostalCode](../../aspose.finance.ofx.signup/enrollrequest/postalcode) { get; set; } | يحصل أو يضبط الرمز البريدي |
+| [SecurityName](../../aspose.finance.ofx.signup/enrollrequest/securityname) { get; set; } | يحصل أو يضبط اسم العائلة الأصلي للأم أو ما يعادله. |
+| [State](../../aspose.finance.ofx.signup/enrollrequest/state) { get; set; } | يحصل أو يعيّن الولاية أو المقاطعة. |
+| [TaxId](../../aspose.finance.ofx.signup/enrollrequest/taxid) { get; set; } | يحصل أو يضبط المعرف المستخدم لأغراض الضرائب (مثل رقم الضمان الاجتماعي)، قد يكون هو نفسه معرف المستخدم. |
+| [UserId](../../aspose.finance.ofx.signup/enrollrequest/userid) { get; set; } | يحصل أو يضبط معرف المستخدم الفعلي إذا كان معروفًا بالفعل، أو معرف المستخدم المفضّل إذا كان المستخدم يستطيع الاختيار. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Finance.Ofx.Signup](../../aspose.finance.ofx.signup)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx.Signup](../../aspose.finance.ofx.signup)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

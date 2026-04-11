@@ -1,61 +1,61 @@
 ---
 title: Tax1099R_V100
-second_title: Aspose.Finance لمرجع .NET API
-description: فئة النموذج 1099R V100 الضريبة .
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: فئة نموذج الضريبة 1099R V100.
 type: docs
-weight: 6040
+weight: 6070
 url: /ar/net/aspose.finance.ofx.tax1099/tax1099r_v100/
 ---
 ## Tax1099R_V100 class
 
-فئة النموذج 1099R V100 الضريبة .
+فئة نموذج الضريبة 1099R V100.
 
 ```csharp
 public class Tax1099R_V100 : AbstractTaxForm1099
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Tax1099R_V100](tax1099r_v100)() | يقوم بتهيئة مثيل جديد من[`Tax1099R_V100`](../tax1099r_v100) فئة . |
+| [Tax1099R_V100](tax1099r_v100)() | يقوم بإنشاء نسخة جديدة من الفئة [`Tax1099R_V100`](../tax1099r_v100). |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AmountAllocableIRR](../../aspose.finance.ofx.tax1099/tax1099r_v100/amountallocableirr) { get; set; } | الحصول على أو تعيين المبلغ المخصص لـ IRR. |
-| [AnnualContractDistribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/annualcontractdistribution) { get; set; } | الحصول على توزيع العقد السنوي أو تعيينه. |
-| [AnnualContractPercentage](../../aspose.finance.ofx.tax1099/tax1099r_v100/annualcontractpercentage) { get; set; } | الحصول على أو تحديد النسبة المئوية للعقد السنوي. |
-| [CapitalGain](../../aspose.finance.ofx.tax1099/tax1099r_v100/capitalgain) { get; set; } | الحصول على أو تحديد مكاسب رأس المال. |
-| [Corrected](../../aspose.finance.ofx.tax1099/abstracttaxform1099/corrected) { get; set; } | الحصول على أو تحديد ما إذا كان هذا نموذجًا مصححًا. |
-| [DistributionCodes](../../aspose.finance.ofx.tax1099/tax1099r_v100/distributioncodes) { get; set; } | الحصول على أو تعيين أكواد التوزيع. |
-| [EmployeeContribInsurance](../../aspose.finance.ofx.tax1099/tax1099r_v100/employeecontribinsurance) { get; set; } | الحصول على أو تعيين الموظف / المعين روث ، أقساط التأمين. |
-| [FederalTaxWithheld](../../aspose.finance.ofx.tax1099/tax1099r_v100/federaltaxwithheld) { get; set; } | الحصول على أو تعيين ضريبة الدخل الفيدرالية المقتطعة. |
-| [FirstYearDesignRoth](../../aspose.finance.ofx.tax1099/tax1099r_v100/firstyeardesignroth) { get; set; } | الحصول على أو تعيين السنة الأولى المعينة ROTH ، بتنسيق "YYYY" . |
-| [GrossDistribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/grossdistribution) { get; set; } | الحصول على التوزيع الإجمالي أو تعيينه. |
-| [IraSepSimp](../../aspose.finance.ofx.tax1099/tax1099r_v100/irasepsimp) { get; set; } | الحصول على أو تعيين IRA / SEP / SIMPLE. |
-| [LocalTaxWithheldAggregates](../../aspose.finance.ofx.tax1099/tax1099r_v100/localtaxwithheldaggregates) { get; set; } | يحصل أو يحدد مجموعة[`LocalTaxWithheldAggregate`](../localtaxwithheldaggregate) . |
-| [NetUnrealizedAppreciationEmployer](../../aspose.finance.ofx.tax1099/tax1099r_v100/netunrealizedappreciationemployer) { get; set; } | الحصول على أو تعيين صافي التقدير غير المحقق في الأوراق المالية لصاحب العمل. |
-| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099r_v100/payeraddress) { get; set; } | يحصل أو يحدد ملف[`PayerAddress`](./payeraddress) . |
-| [PayerId](../../aspose.finance.ofx.tax1099/tax1099r_v100/payerid) { get; set; } | الحصول على أو تعيين رقم التعريف الفيدرالي للدافع . |
-| [PercentageTotalDistribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/percentagetotaldistribution) { get; set; } | الحصول على أو تحديد النسبة المئوية للتوزيع الإجمالي. |
-| [RecipientAccount](../../aspose.finance.ofx.tax1099/tax1099r_v100/recipientaccount) { get; set; } | الحصول على أو تحديد رقم حساب المستلم. |
-| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099r_v100/recipientaddress) { get; set; } | يحصل أو يحدد ملف[`RecipientAddress`](./recipientaddress) . |
-| [RecipientId](../../aspose.finance.ofx.tax1099/tax1099r_v100/recipientid) { get; set; } | الحصول على أو تحديد رقم تعريف المستلم. |
-| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | الحصول على أو تعيين المعرف المعين من قبل الخادم المضيف للنموذج . |
-| [StateTaxWithheldAggregates](../../aspose.finance.ofx.tax1099/tax1099r_v100/statetaxwithheldaggregates) { get; set; } | يحصل أو يحدد مجموعة[`StateTaxWithheldAggregate`](../statetaxwithheldaggregate) . |
-| [TaxableAmount](../../aspose.finance.ofx.tax1099/tax1099r_v100/taxableamount) { get; set; } | الحصول على المبلغ الخاضع للضريبة أو تعيينه. |
-| [TaxableAmountNotDetermined](../../aspose.finance.ofx.tax1099/tax1099r_v100/taxableamountnotdetermined) { get; set; } | الحصول على أو تعيين المبلغ الخاضع للضريبة غير محدد |
-| [TaxYear](../../aspose.finance.ofx.tax1099/abstracttaxform1099/taxyear) { get; set; } | الحصول على أو تحديد السنة الضريبية لهذا النموذج . |
-| [TotalDistribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/totaldistribution) { get; set; } | الحصول على التوزيع الإجمالي أو تعيينه. |
-| [TotalEmployeeContribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/totalemployeecontribution) { get; set; } | الحصول على أو تعيين إجمالي مساهمات الموظفين. |
-| [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | الحصول على أو تحديد ما إذا كان النموذج باطلاً. |
+| [AmountAllocableIRR](../../aspose.finance.ofx.tax1099/tax1099r_v100/amountallocableirr) { get; set; } | يحصل أو يعيّن المبلغ القابل للتخصيص لـ IRR. |
+| [AnnualContractDistribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/annualcontractdistribution) { get; set; } | يحصل أو يعيّن توزيع العقد السنوي. |
+| [AnnualContractPercentage](../../aspose.finance.ofx.tax1099/tax1099r_v100/annualcontractpercentage) { get; set; } | يحصل أو يعيّن نسبة العقد السنوية. |
+| [CapitalGain](../../aspose.finance.ofx.tax1099/tax1099r_v100/capitalgain) { get; set; } | يحصل أو يعيّن الربح الرأسمالي. |
+| [Corrected](../../aspose.finance.ofx.tax1099/abstracttaxform1099/corrected) { get; set; } | يحصل أو يعيّن ما إذا كان هذا نموذجاً مصحّحاً. |
+| [DistributionCodes](../../aspose.finance.ofx.tax1099/tax1099r_v100/distributioncodes) { get; set; } | يحصل أو يعيّن رموز التوزيع. |
+| [EmployeeContribInsurance](../../aspose.finance.ofx.tax1099/tax1099r_v100/employeecontribinsurance) { get; set; } | يحصل أو يعيّن مساهمة الموظف/المعين لروث، أقساط التأمين. |
+| [FederalTaxWithheld](../../aspose.finance.ofx.tax1099/tax1099r_v100/federaltaxwithheld) { get; set; } | يحصل أو يضبط الضريبة الفيدرالية على الدخل المحتجزة. |
+| [FirstYearDesignRoth](../../aspose.finance.ofx.tax1099/tax1099r_v100/firstyeardesignroth) { get; set; } | يحصل أو يعيّن السنة الأولى المعينة لروث، بالتنسيق “YYYY”. |
+| [GrossDistribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/grossdistribution) { get; set; } | يحصل أو يعيّن التوزيع الإجمالي. |
+| [IraSepSimp](../../aspose.finance.ofx.tax1099/tax1099r_v100/irasepsimp) { get; set; } | يحصل أو يعيّن IRA/SEP/SIMPLE. |
+| [LocalTaxWithheldAggregates](../../aspose.finance.ofx.tax1099/tax1099r_v100/localtaxwithheldaggregates) { get; set; } | يحصل أو يعيّن مجموعة [`LocalTaxWithheldAggregate`](../localtaxwithheldaggregate). |
+| [NetUnrealizedAppreciationEmployer](../../aspose.finance.ofx.tax1099/tax1099r_v100/netunrealizedappreciationemployer) { get; set; } | يحصل أو يعيّن صافي التقدير غير المحقق في أوراق مالية صاحب العمل. |
+| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099r_v100/payeraddress) { get; set; } | يحصل أو يعيّن الـ[`PayerAddress`](./payeraddress). |
+| [PayerId](../../aspose.finance.ofx.tax1099/tax1099r_v100/payerid) { get; set; } | يحصل أو يضبط الرقم التعريفي الفيدرالي للدافع. |
+| [PercentageTotalDistribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/percentagetotaldistribution) { get; set; } | يحصل أو يعيّن نسبتك من إجمالي التوزيع. |
+| [RecipientAccount](../../aspose.finance.ofx.tax1099/tax1099r_v100/recipientaccount) { get; set; } | يحصل أو يعيّن رقم حساب المستلم. |
+| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099r_v100/recipientaddress) { get; set; } | يحصل أو يعيّن الـ[`RecipientAddress`](./recipientaddress). |
+| [RecipientId](../../aspose.finance.ofx.tax1099/tax1099r_v100/recipientid) { get; set; } | يحصل أو يعيّن رقم تعريف المستلم. |
+| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | يحصل أو يعيّن المعرف المخصص من قبل خادم المضيف للنموذج. |
+| [StateTaxWithheldAggregates](../../aspose.finance.ofx.tax1099/tax1099r_v100/statetaxwithheldaggregates) { get; set; } | يحصل أو يعيّن مجموعة [`StateTaxWithheldAggregate`](../statetaxwithheldaggregate). |
+| [TaxableAmount](../../aspose.finance.ofx.tax1099/tax1099r_v100/taxableamount) { get; set; } | يحصل أو يعيّن المبلغ الخاضع للضريبة. |
+| [TaxableAmountNotDetermined](../../aspose.finance.ofx.tax1099/tax1099r_v100/taxableamountnotdetermined) { get; set; } | يحصل أو يعيّن المبلغ الخاضع للضريبة غير المحدد |
+| [TaxYear](../../aspose.finance.ofx.tax1099/abstracttaxform1099/taxyear) { get; set; } | يحصل أو يعيّن سنة الضريبة لهذا النموذج. |
+| [TotalDistribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/totaldistribution) { get; set; } | يحصل أو يعيّن إجمالي التوزيع. |
+| [TotalEmployeeContribution](../../aspose.finance.ofx.tax1099/tax1099r_v100/totalemployeecontribution) { get; set; } | يحصل أو يعيّن إجمالي مساهمات الموظف. |
+| [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | يحصل أو يعيّن ما إذا كان النموذج باطلاً. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractTaxForm1099](../abstracttaxform1099)
-* مساحة الاسم [Aspose.Finance.Ofx.Tax1099](../../aspose.finance.ofx.tax1099)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx.Tax1099](../../aspose.finance.ofx.tax1099)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

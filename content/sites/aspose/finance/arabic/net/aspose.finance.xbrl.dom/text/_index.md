@@ -1,14 +1,14 @@
 ---
-title: Text
-second_title: Aspose.Finance لمرجع .NET API
-description: تمثل الفئة المحتوى النصي.
+title: نص
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: الفئة تمثل المحتوى النصي.
 type: docs
-weight: 7460
+weight: 7490
 url: /ar/net/aspose.finance.xbrl.dom/text/
 ---
 ## Text class
 
-تمثل الفئة المحتوى النصي.
+الفئة تمثل المحتوى النصي.
 
 ```csharp
 public class Text : CharacterData
@@ -16,44 +16,44 @@ public class Text : CharacterData
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [BaseURI](../../aspose.finance.xbrl.dom/node/baseuri) { get; } | الحصول على URI الأساسي المطلق لهذه العقدة أو فارغًا إذا لم يتمكن التطبيق من الحصول على URI مطلق. |
-| [ChildNodes](../../aspose.finance.xbrl.dom/node/childnodes) { get; } | يحصل على العقد الفرعية . |
-| [Data](../../aspose.finance.xbrl.dom/characterdata/data) { get; set; } | الحصول على بيانات الأحرف الخاصة بالعقدة التي تنفذ هذه الواجهة أو تعيينها. |
-| [FirstChild](../../aspose.finance.xbrl.dom/node/firstchild) { get; } | الحصول على الطفل الأول لهذه العقدة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعود فارغًا. |
-| [HasChildNodes](../../aspose.finance.xbrl.dom/node/haschildnodes) { get; } | التعرف على ما إذا كانت هذه العقدة بها أي توابع. |
-| [LastChild](../../aspose.finance.xbrl.dom/node/lastchild) { get; } | الحصول على آخر تابع لهذه العقدة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعود فارغًا. |
-| [Length](../../aspose.finance.xbrl.dom/characterdata/length) { get; } | الحصول على عدد وحدات 16 بت المتوفرة من خلال البيانات. قد يكون لهذا القيمة صفر ، أي أن عُقد CharacterData قد تكون فارغة. |
-| virtual [LocalName](../../aspose.finance.xbrl.dom/node/localname) { get; } | الحصول على الجزء المحلي من الاسم المؤهل لهذه العقدة. |
-| virtual [NamespaceURI](../../aspose.finance.xbrl.dom/node/namespaceuri) { get; } | يحصل على مساحة الاسم URI لهذه العقدة. |
-| [NextSibling](../../aspose.finance.xbrl.dom/node/nextsibling) { get; } | يحصل على العقدة التي تلي هذه العقدة مباشرة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعود فارغًا. |
-| override [NodeName](../../aspose.finance.xbrl.dom/text/nodename) { get; } | الحصول على اسم هذا النص. |
-| [NodeType](../../aspose.finance.xbrl.dom/node/nodetype) { get; } | يحصل على نوع العقدة . |
-| virtual [NodeValue](../../aspose.finance.xbrl.dom/node/nodevalue) { get; set; } | الحصول على أو تحديد قيمة هذه العقدة ، حسب نوعها. |
+| virtual [BaseURI](../../aspose.finance.xbrl.dom/node/baseuri) { get; } | يحصل على عنوان URI الأساسي المطلق لهذه العقدة أو null إذا لم يتمكن التنفيذ من الحصول على عنوان URI مطلق. |
+| [ChildNodes](../../aspose.finance.xbrl.dom/node/childnodes) { get; } | يحصل على العقد الفرعية. |
+| [Data](../../aspose.finance.xbrl.dom/characterdata/data) { get; set; } | يحصل أو يضبط بيانات الأحرف للعقدة التي تنفذ هذه الواجهة. |
+| [FirstChild](../../aspose.finance.xbrl.dom/node/firstchild) { get; } | يحصل على العنصر الفرعي الأول لهذه العقدة. إذا لم توجد مثل هذه العقدة، فإنها تُعيد null. |
+| [HasChildNodes](../../aspose.finance.xbrl.dom/node/haschildnodes) { get; } | يحصل على ما إذا كانت هذه العقدة لديها أي أبناء. |
+| [LastChild](../../aspose.finance.xbrl.dom/node/lastchild) { get; } | يحصل على العنصر الفرعي الأخير لهذه العقدة. إذا لم توجد مثل هذه العقدة، فإنها تُعيد null. |
+| [Length](../../aspose.finance.xbrl.dom/characterdata/length) { get; } | يحصل على عدد الوحدات ذات 16 بت المتاحة عبر البيانات. قد تكون القيمة صفر، أي أن عقد CharacterData قد تكون فارغة. |
+| virtual [LocalName](../../aspose.finance.xbrl.dom/node/localname) { get; } | يحصل على الجزء المحلي من الاسم المؤهل لهذه العقدة. |
+| virtual [NamespaceURI](../../aspose.finance.xbrl.dom/node/namespaceuri) { get; } | يحصل على URI مساحة الاسم لهذه العقدة. |
+| [NextSibling](../../aspose.finance.xbrl.dom/node/nextsibling) { get; } | يحصل على العقدة التي تلي هذه العقدة مباشرة. إذا لم توجد مثل هذه العقدة، فإنها تُعيد null. |
+| override [NodeName](../../aspose.finance.xbrl.dom/text/nodename) { get; } | يحصل على اسم هذا النص. |
+| [NodeType](../../aspose.finance.xbrl.dom/node/nodetype) { get; } | يحصل على نوع العقدة. |
+| virtual [NodeValue](../../aspose.finance.xbrl.dom/node/nodevalue) { get; set; } | يحصل أو يعيّن قيمة هذه العقدة، حسب نوعها. |
 | [OwnerDocument](../../aspose.finance.xbrl.dom/node/ownerdocument) { get; } | يحصل على كائن المستند المرتبط بهذه العقدة. |
-| [ParentNode](../../aspose.finance.xbrl.dom/node/parentnode) { get; } | يحصل على العقدة الأصلية . |
-| virtual [Prefix](../../aspose.finance.xbrl.dom/node/prefix) { get; set; } | الحصول على بادئة مساحة الاسم لهذه العقدة أو تعيينها. |
-| [PreviousSibling](../../aspose.finance.xbrl.dom/node/previoussibling) { get; } | يحصل على العقدة التي تسبق هذه العقدة مباشرة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعود فارغًا. |
-| virtual [TextContent](../../aspose.finance.xbrl.dom/node/textcontent) { get; set; } | الحصول على أو تحديد محتوى النص لهذه العقدة وتوابعها. |
+| [ParentNode](../../aspose.finance.xbrl.dom/node/parentnode) { get; } | يحصل على العقدة الأب. |
+| virtual [Prefix](../../aspose.finance.xbrl.dom/node/prefix) { get; set; } | يحصل أو يضبط بادئة مساحة الاسم لهذه العقدة. |
+| [PreviousSibling](../../aspose.finance.xbrl.dom/node/previoussibling) { get; } | يحصل على العقدة التي تسبق هذه العقدة مباشرةً. إذا لم توجد مثل هذه العقدة، فإنها تُعيد null. |
+| virtual [TextContent](../../aspose.finance.xbrl.dom/node/textcontent) { get; set; } | يحصل أو يضبط محتوى النص لهذه العقدة وفروعها. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AppendChild](../../aspose.finance.xbrl.dom/node/appendchild)(Node) | يضيف العقدة newChild إلى نهاية قائمة الأطفال لهذه العقدة . |
-| virtual [AppendData](../../aspose.finance.xbrl.dom/characterdata/appenddata)(string) | تلحق السلسلة بنهاية بيانات الحرف الخاصة بالعقدة. |
-| virtual [DeleteData](../../aspose.finance.xbrl.dom/characterdata/deletedata)(int, int) | يزيل نطاقًا من المحتوى من العقدة . |
-| virtual [InsertData](../../aspose.finance.xbrl.dom/characterdata/insertdata)(int, string) | لإدراج سلسلة في الإزاحة المحددة. |
-| [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | يزيل العقدة الفرعية التي أشار إليها الطفل الكبير من قائمة الأطفال. |
-| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | يستبدل العقدة الفرعية الطفل القديم بالعقدة التابعة للطفل الجديد في قائمة الأطفال ، ويعيد العقدة الفرعية القديمة. |
-| virtual [ReplaceData](../../aspose.finance.xbrl.dom/characterdata/replacedata)(int, int, string) | يستبدل الأحرف التي تبدأ من الإزاحة المحددة بالسلسلة المحددة. |
-| virtual [Substring](../../aspose.finance.xbrl.dom/characterdata/substring)(int, int) | استخراج نطاق من البيانات من العقدة. |
+| [AppendChild](../../aspose.finance.xbrl.dom/node/appendchild)(Node) | يضيف العقدة newChild إلى نهاية قائمة الأطفال لهذه العقدة. |
+| virtual [AppendData](../../aspose.finance.xbrl.dom/characterdata/appenddata)(string) | يضيف السلسلة إلى نهاية بيانات الأحرف للعقدة. |
+| virtual [DeleteData](../../aspose.finance.xbrl.dom/characterdata/deletedata)(int, int) | يزيل نطاقًا من المحتوى من العقدة. |
+| virtual [InsertData](../../aspose.finance.xbrl.dom/characterdata/insertdata)(int, string) | يدرج سلسلة في الموضع المحدد. |
+| [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | يزيل عقدة الطفل المشار إليها بـ old child من قائمة الأطفال. |
+| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | يستبدل عقدة الطفل old child بـ new child في قائمة الأطفال، ويُعيد عقدة الطفل القديمة. |
+| virtual [ReplaceData](../../aspose.finance.xbrl.dom/characterdata/replacedata)(int, int, string) | يستبدل الأحرف التي تبدأ من الموضع المحدد بالسلسلة المحددة. |
+| virtual [Substring](../../aspose.finance.xbrl.dom/characterdata/substring)(int, int) | يستخرج نطاقًا من البيانات من العقدة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CharacterData](../characterdata)
-* مساحة الاسم [Aspose.Finance.Xbrl.Dom](../../aspose.finance.xbrl.dom)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Xbrl.Dom](../../aspose.finance.xbrl.dom)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

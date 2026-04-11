@@ -1,188 +1,188 @@
 ---
 title: CurrencyEnum
-second_title: Aspose.Finance لمرجع .NET API
-description: تعداد معرفات العملات  بناءً على ISO4217.
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+description: تعداد معرفات العملات بناءً على ISO-4217.
 type: docs
 weight: 2100
 url: /ar/net/aspose.finance.ofx/currencyenum/
 ---
 ## CurrencyEnum enumeration
 
-تعداد معرفات العملات ، بناءً على ISO-4217.
+تعداد معرفات العملة، بناءً على ISO-4217.
 
 ```csharp
 public enum CurrencyEnum
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| AED | `0` | درهم إماراتي |
-| AFN | `1` | الأفغانية الأفغانية |
-| ALL | `2` | lek الألبانية |
-| AMD | `3` | دراما أرمينية |
-| ANG | `4` | جلدر جزر الأنتيل الهولندية |
-| AOA | `5` | كوانزا الأنجولية |
-| ARS | `6` | بيزو أرجنتيني |
-| AUD | `7` | دولار أسترالي |
-| AWG | `8` | أروبا florin |
-| AZN | `9` | مانات أذربيجان |
-| BAM | `10` | مارك البوسنة والهرسك قابل للتحويل |
-| BBD | `11` | دولار بربادوس |
-| BDT | `12` | تاكا بنجلاديشي |
-| BGN | `13` | ليف بلغاري |
-| BHD | `14` | دينار بحريني |
-| BIF | `15` | فرنك بوروندي |
-| BMD | `16` | دولار برمودي |
-| BND | `17` | دولار بروناي |
+| AED | `0` | درهم الإمارات العربية المتحدة |
+| AFN | `1` | الأفغاني الأفغاني |
+| ALL | `2` | ليك ألباني |
+| AMD | `3` | درام أرميني |
+| ANG | `4` | غيلدر جزر الأنتيل الهولندية |
+| AOA | `5` | Angolan kwanza |
+| ARS | `6` | Argentine peso |
+| AUD | `7` | Australian dollar |
+| AWG | `8` | Aruban florin |
+| AZN | `9` | Azerbaijani manat |
+| BAM | `10` | Bosnia and Herzegovina convertible mark |
+| BBD | `11` | Barbados dollar |
+| BDT | `12` | Bangladeshi taka |
+| BGN | `13` | Bulgarian lev |
+| BHD | `14` | Bahraini dinar |
+| BIF | `15` | Burundian franc |
+| BMD | `16` | Bermudian dollar |
+| BND | `17` | Brunei dollar |
 | BOB | `18` | Boliviano |
-| BRL | `19` | ريال برازيلي |
-| BSD | `20` | دولار باهامي |
-| BTN | `21` | نولترم بوتاني |
-| BWP | `22` | بوتسوانا بولا |
-| BYR | `23` | روبل بيلاروسي |
-| BZD | `24` | دولار بليزي |
-| CAD | `25` | دولار كندي |
-| CDF | `26` | فرنك كونغولي |
-| CHF | `27` | فرنك سويسري |
-| CLP | `28` | بيزو تشيلي |
-| CNY | `29` | يوان صيني |
+| BRL | `19` | Brazilian real |
+| BSD | `20` | Bahamian dollar |
+| BTN | `21` | Bhutanese ngultrum |
+| BWP | `22` | Botswana pula |
+| BYR | `23` | Belarusian ruble |
+| BZD | `24` | Belize dollar |
+| CAD | `25` | Canadian dollar |
+| CDF | `26` | Congolese franc |
+| CHF | `27` | Swiss franc |
+| CLP | `28` | Chilean peso |
+| CNY | `29` | Chinese yuan |
 | COP | `30` | بيزو كولومبي |
 | CRC | `31` | كولون كوستاريكي |
 | CUP | `32` | بيزو كوبي |
-| CVE | `33` | اسكودو الرأس الأخضر |
-| CZK | `34` | الكورونا التشيكية |
+| CVE | `33` | إسكودو جزر الرأس الأخضر |
+| CZK | `34` | كورونا تشيكية |
 | DJF | `35` | فرنك جيبوتي |
-| DKK | `36` | كرونة دانمركية |
-| DOP | `37` | بيزو دومنيكاني |
+| DKK | `36` | كرونة دنماركية |
+| DOP | `37` | بيزو دومينيكي |
 | DZD | `38` | دينار جزائري |
 | EGP | `39` | جنيه مصري |
-| ERN | `40` | نكفا إريتريا |
-| ETB | `41` | بير أثيوبي |
-| EUR | `42` | Euro |
+| ERN | `40` | ناكفا إريتري |
+| ETB | `41` | بير إثيوبي |
+| EUR | `42` | يورو |
 | FJD | `43` | دولار فيجي |
 | FKP | `44` | جنيه جزر فوكلاند |
-| GBP | `45` | الجنيه الاسترليني |
+| GBP | `45` | جنيه إسترليني |
 | GEL | `46` | لاري جورجي |
-| GHS | `47` | cedi الغاني |
+| GHS | `47` | سيدي غاني |
 | GIP | `48` | جنيه جبل طارق |
-| GMD | `49` | dalasi الجامبي |
+| GMD | `49` | دالاسي غامبي |
 | GNF | `50` | فرنك غيني |
-| GTQ | `51` | كتزال جواتيمالي |
-| GYD | `52` | دولار جوياني |
-| HKD | `53` | دولار هونج كونج |
-| HNL | `54` | لمبيرا هندوراسي |
-| HRK | `55` | كونا كرواتي |
-| HTG | `56` | غورد هايتي |
-| HUF | `57` | forint المجري |
-| IDR | `58` | روبية إندونيسية |
-| ILS | `59` | شيكل إسرائيلي جديد |
-| INR | `60` | روبية هندية |
-| IQD | `61` | دينار عراقي |
-| IRR | `62` | ريال إيراني |
-| ISK | `63` | كرونا آيسلندية |
-| JMD | `64` | دولار جامايكي |
-| JOD | `65` | دينار أردني |
-| JPY | `66` | ين ياباني |
-| KES | `67` | شلن كينيي |
-| KGS | `68` | سوم قرغيزستاني |
-| KHR | `69` | رييل كمبودي |
-| KMF | `70` | فرنك كومورو |
-| KPW | `71` | وون كوريا الشمالية |
-| KRW | `72` | وون كوريا الجنوبية |
-| KWD | `73` | دينار كويتي |
-| KYD | `74` | دولار جزر كايمان |
-| KZT | `75` | التنج الكازاخستاني |
-| LAK | `76` | لاو kip |
-| LBP | `77` | ليرة لبنانية |
-| LKR | `78` | روبية سريلانكا |
-| LRD | `79` | دولار ليبيري |
-| LSL | `80` | ليسوتو loti |
-| LTL | `81` | ليتاس ليتوانية |
+| GTQ | `51` | كويتزال غواتيمالي |
+| GYD | `52` | دولار غياني |
+| HKD | `53` | دولار هونغ كونغ |
+| HNL | `54` | لمبيرا هندوري |
+| HRK | `55` | Croatian kuna |
+| HTG | `56` | Haitian gourde |
+| HUF | `57` | Hungarian forint |
+| IDR | `58` | Indonesian rupiah |
+| ILS | `59` | Israeli new sheqel |
+| INR | `60` | Indian rupee |
+| IQD | `61` | Iraqi dinar |
+| IRR | `62` | Iranian rial |
+| ISK | `63` | Icelandic króna |
+| JMD | `64` | Jamaican dollar |
+| JOD | `65` | Jordanian dinar |
+| JPY | `66` | Japanese yen |
+| KES | `67` | Kenyan shilling |
+| KGS | `68` | Kyrgyzstani som |
+| KHR | `69` | Cambodian riel |
+| KMF | `70` | Comoro franc |
+| KPW | `71` | North Korean won |
+| KRW | `72` | South Korean won |
+| KWD | `73` | Kuwaiti dinar |
+| KYD | `74` | Cayman Islands dollar |
+| KZT | `75` | Kazakhstani tenge |
+| LAK | `76` | Lao kip |
+| LBP | `77` | Lebanese pound |
+| LKR | `78` | Sri Lanka rupee |
+| LRD | `79` | Liberian dollar |
+| LSL | `80` | لوتي ليسوتو |
+| LTL | `81` | ليتاس ليتواني |
 | LVL | `82` | لاتس لاتفيا |
 | LYD | `83` | دينار ليبي |
 | MAD | `84` | درهم مغربي |
-| MDL | `85` | le المولدوفي |
-| MGF | `86` | الأريمية الملغاشية |
+| MDL | `85` | ليو مولدوفي |
+| MGF | `86` | أرياري ملغاشي |
 | MKD | `87` | دينار مقدوني |
-| MMK | `88` | ميانما كيات |
-| MNT | `89` | tugrik المنغولي |
-| MOP | `90` | باتاكا ماكاوي |
+| MMK | `88` | كيات ميانمار |
+| MNT | `89` | توغريك منغولي |
+| MOP | `90` | باتاكا ماكاوية |
 | MRO | `91` | أوقية موريتانية |
-| MUR | `92` | روبية موريشيوسية |
-| MVR | `93` | روفية جزر المالديف |
-| MWK | `94` | كواتشا مالاوى |
+| MUR | `92` | روبية موريشيوس |
+| MVR | `93` | روفية مالديفية |
+| MWK | `94` | كواشا مالاوي |
 | MXN | `95` | بيزو مكسيكي |
 | MYR | `96` | رينغيت ماليزي |
-| MZN | `97` | متكال موزمبيقي |
+| MZN | `97` | ميتقال موزمبيقي |
 | NAD | `98` | دولار ناميبي |
-| NGN | `99` | نيرة نيجيرية |
-| NIO | `100` | قرطبة oro |
+| NGN | `99` | نايرا نيجيرية |
+| NIO | `100` | كوردوبا أورو |
 | NOK | `101` | كرونة نرويجية |
 | NPR | `102` | روبية نيبالية |
 | NZD | `103` | دولار نيوزيلندي |
 | OMR | `104` | ريال عماني |
-| PAB | `105` | بالبوا بنمي |
-| PEN | `106` | sol بيرو نويفو |
-| PGK | `107` | كينا بابوا غينيا الجديدة |
-| PHP | `108` | بيزو فلبيني |
-| PKR | `109` | روبية باكستانية |
-| PLN | `110` | الزلوتي_البولندي |
-| PYG | `111` | غواراني باراغواي |
-| QAR | `112` | ريال قطري |
-| RON | `113` | leu الرومانية الجديدة |
-| RUB | `114` | الروسية rouble |
-| RWF | `115` | فرنك رواندي |
-| SAR | `116` | ريال سعودي |
-| SBD | `117` | دولار جزر سليمان |
-| SCR | `118` | روبية سيشيلية |
-| SDG | `119` | جنيه سوداني |
-| SEK | `120` | كرونا سويدية / كرونة |
-| SGD | `121` | دولار سنغافوري |
-| SHP | `122` | جنيه سانت هيلينا |
-| SLL | `123` | ليون سيراليوني |
-| SOS | `124` | شلن صومالي |
-| SRD | `125` | دولار سورينامي |
-| SSP | `126` | جنيه جنوب السودان |
-| STD | `127` | ساو تومي وبرينسيبي dobra |
-| SYP | `128` | ليرة سورية |
-| SZL | `129` | ليلانجيني |
-| THB | `130` | بات تايلندي |
-| TJS | `131` | سوموني طاجيكستاني |
-| TMT | `132` | مانات تركمانستان |
-| TND | `133` | دينار تونسي |
-| TOP | `134` | تونغا باʻانجا |
-| TRY | `135` | ليرة تركية |
-| TTD | `136` | دولار ترينيداد وتوباغو |
-| TWD | `137` | دولار تايواني جديد |
-| TZS | `138` | شلن تنزاني |
-| UAH | `139` | هريفنيا أوكرانية |
-| UGX | `140` | شلن أوغندي |
-| USD | `141` | دولار أمريكي |
-| UYU | `142` | بيزو أوروغواي |
-| UZS | `143` | أوزبكستان som |
-| VEF | `144` | فتحة بوليفار فنزويلية |
-| VND | `145` | الفيتنامية đồng |
-| VUV | `146` | فانواتو vatu |
-| WST | `147` | ساموا تالا |
-| XAF | `148` | فرنك CFA BEAC |
-| XAG | `149` | فضة (أونصة تروي واحدة) |
-| XAU | `150` | ذهب (أونصة تروي واحدة) |
-| XCD | `151` | دولار شرق الكاريبي |
-| XDR | `152` | حقوق السحب الخاصة |
-| XOF | `153` | فرنك سي إف إيه BCEAO |
-| XPD | `154` | البلاديوم (أونصة تروي واحدة) |
+| PAB | `105` | Panamanian balboa |
+| PEN | `106` | Peruvian nuevo sol |
+| PGK | `107` | Papua New Guinean kina |
+| PHP | `108` | Philippine peso |
+| PKR | `109` | Pakistani rupee |
+| PLN | `110` | Polish złoty |
+| PYG | `111` | Paraguayan guaraní |
+| QAR | `112` | Qatari riyal |
+| RON | `113` | Romanian new leu |
+| RUB | `114` | Russian rouble |
+| RWF | `115` | Rwandan franc |
+| SAR | `116` | Saudi riyal |
+| SBD | `117` | Solomon Islands dollar |
+| SCR | `118` | Seychelles rupee |
+| SDG | `119` | Sudanese pound |
+| SEK | `120` | Swedish krona/kronor |
+| SGD | `121` | Singapore dollar |
+| SHP | `122` | Saint Helena pound |
+| SLL | `123` | Sierra Leonean leone |
+| SOS | `124` | Somali shilling |
+| SRD | `125` | Surinamese dollar |
+| SSP | `126` | South Sudanese pound |
+| STD | `127` | São Tomé and Príncipe dobra |
+| SYP | `128` | Syrian pound |
+| SZL | `129` | Lilangeni |
+| THB | `130` | Thai baht |
+| TJS | `131` | Tajikistani somoni |
+| TMT | `132` | Turkmenistani manat |
+| TND | `133` | Tunisian dinar |
+| TOP | `134` | Tongan paʻanga |
+| TRY | `135` | Turkish lira |
+| TTD | `136` | Trinidad and Tobago dollar |
+| TWD | `137` | New Taiwan dollar |
+| TZS | `138` | Tanzanian shilling |
+| UAH | `139` | Ukrainian hryvnia |
+| UGX | `140` | Ugandan shilling |
+| USD | `141` | United States dollar |
+| UYU | `142` | Uruguayan peso |
+| UZS | `143` | Uzbekistan som |
+| VEF | `144` | Venezuelan bolívar fuerte |
+| VND | `145` | Vietnamese đồng |
+| VUV | `146` | Vanuatu vatu |
+| WST | `147` | Samoan tala |
+| XAF | `148` | CFA franc BEAC |
+| XAG | `149` | Silver (one troy ounce) |
+| XAU | `150` | Gold (one troy ounce) |
+| XCD | `151` | East Caribbean dollar |
+| XDR | `152` | Special Drawing Rights |
+| XOF | `153` | CFA Franc BCEAO |
+| XPD | `154` | Palladium (one troy ounce) |
 | XPF | `155` | فرنك CFP |
-| XPT | `156` | البلاتين (أونصة تروي واحدة) |
+| XPT | `156` | بلاتين (أونصة تروي واحدة) |
 | YER | `157` | ريال يمني |
 | ZAR | `158` | راند جنوب أفريقي |
 | ZWL | `159` | دولار زيمبابوي |
-| ZMW | `160` | كواشا زامبية |
+| ZMW | `160` | كواشا زامبي |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Finance.Ofx](../../aspose.finance.ofx)
-* المجسم [Aspose.Finance](../../)
+* namespace [Aspose.Finance.Ofx](../../aspose.finance.ofx)
+* assembly [Aspose.Finance](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->

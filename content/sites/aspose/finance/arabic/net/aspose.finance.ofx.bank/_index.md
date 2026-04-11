@@ -1,6 +1,6 @@
 ---
 title: Aspose.Finance.Ofx.Bank
-second_title: Aspose.Finance لمرجع .NET API
+second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
 description: 
 type: docs
 weight: 30
@@ -8,66 +8,66 @@ url: /ar/net/aspose.finance.ofx.bank/
 ---
 
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
 | [AbstractCheckInfo](./abstractcheckinfo) | فئة أساسية مجردة لجميع الفئات المتعلقة بمعلومات الشيك. |
-| [AbstractIntraRequest](./abstractintrarequest) | فئة أساسية مجردة لجميع الفئات ذات الصلة بطلب التحويل بين البنوك. |
-| [AbstractIntraResponse](./abstractintraresponse) | فئة أساسية مجردة لجميع الفئات ذات الصلة باستجابة التحويل الداخلي. |
-| [AbstractMailResponse](./abstractmailresponse) | فئة أساسية مجردة لجميع الفئات ذات الصلة بالرد على البريد المصرفي. |
-| [AbstractRecurringIntraRequest](./abstractrecurringintrarequest) | فئة أساسية مجردة لجميع الفئات ذات الصلة بطلبات التحويل المتكررة داخل البنك. |
-| [AbstractRecurringIntraResponse](./abstractrecurringintraresponse) | فئة أساسية مجردة لجميع الفئات ذات الصلة باستجابة التحويل المتكررة داخل البنوك. |
-| [BankMailRequest](./bankmailrequest) | فئة طلب البريد الإلكتروني المصرفي . |
+| [AbstractIntraRequest](./abstractintrarequest) | فئة أساسية مجردة لجميع الفئات المتعلقة بطلب التحويل داخل البنك. |
+| [AbstractIntraResponse](./abstractintraresponse) | فئة أساسية مجردة لجميع الفئات المتعلقة باستجابة التحويل داخل البنك. |
+| [AbstractMailResponse](./abstractmailresponse) | فئة أساسية مجردة لجميع الفئات المتعلقة باستجابة بريد البنك. |
+| [AbstractRecurringIntraRequest](./abstractrecurringintrarequest) | فئة أساسية مجردة لجميع الفئات المتعلقة بطلب التحويل المتكرر داخل البنك. |
+| [AbstractRecurringIntraResponse](./abstractrecurringintraresponse) | فئة أساسية مجردة لجميع الفئات المتعلقة باستجابة التحويل المتكرر داخل البنك. |
+| [BankMailRequest](./bankmailrequest) | فئة طلب البريد الإلكتروني للبنك. |
 | [BankMailResponse](./bankmailresponse) | فئة استجابة البريد الإلكتروني للبنك. |
-| [BankMailSyncRequest](./bankmailsyncrequest) | فئة طلب مزامنة البريد المصرفي . |
-| [BankMailSyncResponse](./bankmailsyncresponse) | فئة استجابة مزامنة البريد المصرفي . |
-| [BankMailTransactionRequest](./bankmailtransactionrequest) | فئة طلب معاملة البريد المصرفي . |
-| [BankMailTransactionResponse](./bankmailtransactionresponse) | فئة استجابة معاملة البريد المصرفي. |
-| [CheckDescription](./checkdescription) | يجب أن يتضمن وصف الشيك اسم المدفوع لأمره أو وصفه. يمكن أن يتضمن أيضًا رقم الشيك والتاريخ الذي كتب فيه المستخدم الشيك ومبلغ المعاملة. |
-| [CheckMailResponse](./checkmailresponse) | فحص فئة استجابة رسالة إعلام البريد. يقوم الخادم بإرجاع هذه الاستجابة (عند إرجاع الشيك) ، إذا تلقى رسالة مزامنة للبريد الإلكتروني المصرفي. |
-| [CheckRange](./checkrange) | تحقق من فئة النطاق . |
-| [Closing](./closing) | يستخدم حساب التحقق أو التوفير أو سوق المال أو القرص المضغوط أو حد الائتمان الفئة لوصف معلومات إغلاق كشف الحساب. |
-| [DepositMailResponse](./depositmailresponse) | فئة استجابة رسالة إعلام الإيداع. يقوم الخادم بإرجاع هذه الاستجابة (عند إرجاع الإيداع) ، إذا تلقى رسالة مزامنة للبريد الإلكتروني المصرفي. |
-| [IntraCancellationRequest](./intracancellationrequest) | فئة طلب إلغاء التحويل بين البنوك . |
-| [IntraCancellationResponse](./intracancellationresponse) | فئة الاستجابة لإلغاء التحويل بين البنوك. |
-| [IntraModRequest](./intramodrequest) | فئة طلب تعديل التحويل بين البنوك . |
-| [IntraModResponse](./intramodresponse) | فئة استجابة تعديل التحويل بين البنوك. |
-| [IntraRequest](./intrarequest) | فئة طلب التحويل بين البنوك. |
-| [IntraResponse](./intraresponse) | فئة استجابة التحويل بين البنوك. |
-| [IntraSyncRequest](./intrasyncrequest) | فئة طلب مزامنة المعاملات Intrabank . |
-| [IntraSyncResponse](./intrasyncresponse) | فئة استجابة مزامنة معاملات Intrabank . |
-| [IntraTransactionRequest](./intratransactionrequest) | فئة طلب معاملة التحويل بين البنوك. |
-| [IntraTransactionResponse](./intratransactionresponse) | فئة استجابة معاملة التحويل بين البنوك. |
-| [RecurringIntraCancellationRequest](./recurringintracancellationrequest) | فئة طلب إلغاء التحويل المتكرر داخل البنك. |
-| [RecurringIntraCancellationResponse](./recurringintracancellationresponse) | فئة استجابة إلغاء التحويل المتكرر داخل البنك. |
-| [RecurringIntraModRequest](./recurringintramodrequest) | فئة طلب التعديل المتكرر داخل البنك. |
-| [RecurringIntraModResponse](./recurringintramodresponse) | فئة استجابة متكررة للتعديل داخل البنك. |
+| [BankMailSyncRequest](./bankmailsyncrequest) | فئة طلب مزامنة بريد البنك. |
+| [BankMailSyncResponse](./bankmailsyncresponse) | فئة استجابة مزامنة بريد البنك. |
+| [BankMailTransactionRequest](./bankmailtransactionrequest) | فئة طلب معاملة بريد البنك. |
+| [BankMailTransactionResponse](./bankmailtransactionresponse) | فئة استجابة معاملة بريد البنك. |
+| [CheckDescription](./checkdescription) | يجب أن يتضمن وصف الشيك اسم المستفيد أو وصفًا. يمكنه أيضًا أن يتضمن رقم الشيك، وتاريخ كتابة المستخدم للشيك، ومبلغ المعاملة. |
+| [CheckMailResponse](./checkmailresponse) | فئة استجابة رسالة إشعار بريد الشيك. يُعيد الخادم هذه الاستجابة (عند إرجاع شيك)، إذا استلم رسالة مزامنة بريدية مصرفية. |
+| [CheckRange](./checkrange) | فئة نطاق الشيك. |
+| [Closing](./closing) | يستخدم حساب التحقق أو التوفير أو السوق المالية أو شهادة الإيداع أو خط الائتمان هذه الفئة لوصف معلومات إغلاق كشف الحساب. |
+| [DepositMailResponse](./depositmailresponse) | فئة استجابة رسالة إشعار بريد الإيداع. يُعيد الخادم هذه الاستجابة (عند إرجاع إيداع)، إذا استلم رسالة مزامنة بريدية مصرفية. |
+| [IntraCancellationRequest](./intracancellationrequest) | فئة طلب إلغاء التحويل الداخلي. |
+| [IntraCancellationResponse](./intracancellationresponse) | فئة استجابة إلغاء التحويل الداخلي. |
+| [IntraModRequest](./intramodrequest) | فئة طلب تعديل التحويل الداخلي. |
+| [IntraModResponse](./intramodresponse) | فئة استجابة تعديل التحويل الداخلي. |
+| [IntraRequest](./intrarequest) | فئة طلب التحويل الداخلي. |
+| [IntraResponse](./intraresponse) | فئة استجابة التحويل الداخلي. |
+| [IntraSyncRequest](./intrasyncrequest) | فئة طلب مزامنة المعاملة الداخلية. |
+| [IntraSyncResponse](./intrasyncresponse) | فئة استجابة مزامنة المعاملة الداخلية. |
+| [IntraTransactionRequest](./intratransactionrequest) | فئة طلب معاملة التحويل الداخلي. |
+| [IntraTransactionResponse](./intratransactionresponse) | فئة استجابة معاملة التحويل الداخلي. |
+| [RecurringIntraCancellationRequest](./recurringintracancellationrequest) | فئة طلب إلغاء التحويل الداخلي المتكرر. |
+| [RecurringIntraCancellationResponse](./recurringintracancellationresponse) | فئة استجابة إلغاء التحويل الداخلي المتكرر. |
+| [RecurringIntraModRequest](./recurringintramodrequest) | فئة طلب تعديل التحويل الداخلي المتكرر. |
+| [RecurringIntraModResponse](./recurringintramodresponse) | فئة استجابة تعديل التحويل الداخلي المتكرر. |
 | [RecurringIntraRequest](./recurringintrarequest) | فئة طلب التحويل المتكرر داخل البنك. |
-| [RecurringIntraResponse](./recurringintraresponse) | فئة استجابة التحويل المتكررة داخل البنوك. |
-| [RecurringIntraSyncRequest](./recurringintrasyncrequest) | فئة طلب مزامنة المعاملات المتكررة داخل البنك. |
-| [RecurringIntraSyncResponse](./recurringintrasyncresponse) | فئة استجابة مزامنة المعاملات المتكررة داخل البنك. |
-| [RecurringIntraTransactionRequest](./recurringintratransactionrequest) | فئة طلب المعاملات المتكررة داخل البنك. |
-| [RecurringIntraTransactionResponse](./recurringintratransactionresponse) | فئة استجابة المعاملات المتكررة داخل البنك. |
-| [StatementEndRequest](./statementendrequest) | فئة طلب البيان الختامي . |
-| [StatementEndResponse](./statementendresponse) | فئة استجابة البيان الختامي . |
-| [StatementEndTransactionRequest](./statementendtransactionrequest) | فئة طلب معاملة كشف الحساب الختامي . |
-| [StatementEndTransactionResponse](./statementendtransactionresponse) | فئة استجابة معاملة كشف الحساب الختامي . |
-| [StatementRequest](./statementrequest) | طلب كشف حساب class |
+| [RecurringIntraResponse](./recurringintraresponse) | فئة استجابة التحويل المتكرر داخل البنك. |
+| [RecurringIntraSyncRequest](./recurringintrasyncrequest) | فئة طلب مزامنة المعاملة المتكررة داخل البنك. |
+| [RecurringIntraSyncResponse](./recurringintrasyncresponse) | فئة استجابة مزامنة المعاملة المتكررة داخل البنك. |
+| [RecurringIntraTransactionRequest](./recurringintratransactionrequest) | فئة طلب المعاملة المتكررة داخل البنك. |
+| [RecurringIntraTransactionResponse](./recurringintratransactionresponse) | فئة استجابة المعاملة المتكررة داخل البنك. |
+| [StatementEndRequest](./statementendrequest) | فئة طلب إغلاق البيان. |
+| [StatementEndResponse](./statementendresponse) | فئة استجابة إغلاق البيان. |
+| [StatementEndTransactionRequest](./statementendtransactionrequest) | فئة طلب معاملة إغلاق البيان. |
+| [StatementEndTransactionResponse](./statementendtransactionresponse) | فئة استجابة معاملة إغلاق البيان. |
+| [StatementRequest](./statementrequest) | فئة طلب البيان |
 | [StatementResponse](./statementresponse) | فئة استجابة البيان. |
-| [StatementTransactionRequest](./statementtransactionrequest) | فئة طلب معاملة كشف الحساب . |
-| [StatementTransactionResponse](./statementtransactionresponse) | فئة استجابة معاملة كشف الحساب. |
-| [StopCheckNumber](./stopchecknumber) | إيقاف فئة عنصر التحقق . |
-| [StopCheckRequest](./stopcheckrequest) | فئة طلب إيقاف الشيك . |
-| [StopCheckResponse](./stopcheckresponse) | إيقاف فحص فئة الاستجابة . |
-| [StopCheckSyncRequest](./stopchecksyncrequest) | إيقاف فحص فئة طلب المزامنة . |
-| [StopCheckSyncResponse](./stopchecksyncresponse) | إيقاف تحقق من فئة استجابة المزامنة . |
-| [StopCheckTransactionRequest](./stopchecktransactionrequest) | فئة طلب معاملة إيقاف الشيك . |
-| [StopCheckTransactionResponse](./stopchecktransactionresponse) | إيقاف فئة استجابة معاملة التحقق . |
+| [StatementTransactionRequest](./statementtransactionrequest) | فئة طلب معاملة البيان. |
+| [StatementTransactionResponse](./statementtransactionresponse) | فئة استجابة معاملة البيان. |
+| [StopCheckNumber](./stopchecknumber) | فئة عنصر إيقاف الفحص. |
+| [StopCheckRequest](./stopcheckrequest) | فئة طلب إيقاف الفحص. |
+| [StopCheckResponse](./stopcheckresponse) | فئة استجابة إيقاف الفحص. |
+| [StopCheckSyncRequest](./stopchecksyncrequest) | فئة طلب مزامنة إيقاف الفحص. |
+| [StopCheckSyncResponse](./stopchecksyncresponse) | فئة استجابة مزامنة إيقاف الفحص. |
+| [StopCheckTransactionRequest](./stopchecktransactionrequest) | فئة طلب معاملة إيقاف الفحص. |
+| [StopCheckTransactionResponse](./stopchecktransactionresponse) | فئة استجابة معاملة إيقاف الفحص. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [CheckStatusEnum](./checkstatusenum) | تحقق من تعداد الحالة . |
+| [CheckStatusEnum](./checkstatusenum) | عدد حالة الفحص. |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->
+<!-- لا تقم بالتعديل: تم إنشاؤه بواسطة xmldocmd لـ Aspose.Finance.dll -->
