@@ -1,0 +1,18 @@
+﻿---
+title: owner_document property
+second_title: Aspose.Finance for Python via .NET API References
+description: 
+type: docs
+weight: 330
+url: /el/python-net/aspose.finance.xbrl.dom.xbrlinstance/xbrlinstancedivideelement/owner_document/
+is_root: false
+---
+
+## owner_document property
+
+
+Gets the document object associated with this node.
+
+### See Also
+* module [aspose.finance.xbrl.dom.xbrlinstance](../../)
+* class [XbrlInstanceDivideElement](/finance/python-net/aspose.finance.xbrl.dom.xbrlinstance/xbrlinstancedivideelement)
