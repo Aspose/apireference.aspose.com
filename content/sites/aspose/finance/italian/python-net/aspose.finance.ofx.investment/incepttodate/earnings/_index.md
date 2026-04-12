@@ -1,0 +1,18 @@
+﻿---
+title: earnings property
+second_title: Aspose.Finance for Python via .NET API References
+description: 
+type: docs
+weight: 40
+url: /it/python-net/aspose.finance.ofx.investment/incepttodate/earnings/
+is_root: false
+---
+
+## earnings property
+
+
+Gets or sets the [InceptToDate.earnings](/finance/python-net/aspose.finance.ofx.investment/incepttodate#earnings).
+
+### See Also
+* module [aspose.finance.ofx.investment](../../)
+* class [InceptToDate](/finance/python-net/aspose.finance.ofx.investment/incepttodate)
