@@ -1,7 +1,7 @@
 ---
 title: HTMLElement
 second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: جميع فئات عناصر HTML تُشتق من هذه الفئة. العناصر التي تعرض فقط سمات HTML الأساسية ممثلة بهذه الفئة. هذه العناصر هي كما يلي: الخاصة SUB SUP SPAN BDOfont TT I B U S STRIKE BIG SMALL phrase EM STRONG DFN CODE SAMP KBD VAR CITE ACRONYM ABBR list DD DTNOFRAMES NOSCRIPTADDRESS CENTERT.
+description: جميع فئات عناصر HTML تُشتق من هذه الفئة. العناصر التي تعرض فقط سمات HTML الأساسية ممثلة بهذه الفئة. هذه العناصر هي كما يلي الخاصة SUB SUP SPAN BDOfont TT I B U S STRIKE BIG SMALL phrase EM STRONG DFN CODE SAMP KBD VAR CITE ACRONYM ABBR list DD DTNOFRAMES NOSCRIPTADDRESS CENTERT.
 type: docs
 weight: 6860
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlelement/
