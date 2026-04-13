@@ -1,0 +1,18 @@
+﻿---
+title: id property
+second_title: Aspose.Finance for Python via .NET API References
+description: 
+type: docs
+weight: 280
+url: /es/python-net/aspose.finance.xbrl.dom.html/htmlframeelement/id/
+is_root: false
+---
+
+## id property
+
+
+Gets or sets the element's identifier. See the id attribute definition in HTML 4.01.
+
+### See Also
+* module [aspose.finance.xbrl.dom.html](../../)
+* class [HTMLFrameElement](/finance/python-net/aspose.finance.xbrl.dom.html/htmlframeelement)

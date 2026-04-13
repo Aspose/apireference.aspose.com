@@ -1,0 +1,18 @@
+﻿---
+title: prefix property
+second_title: Aspose.Finance for Python via .NET API References
+description: 
+type: docs
+weight: 400
+url: /es/python-net/aspose.finance.xbrl.dom.html/htmlbasefontelement/prefix/
+is_root: false
+---
+
+## prefix property
+
+
+Gets the prefix of the element.
+
+### See Also
+* module [aspose.finance.xbrl.dom.html](../../)
+* class [HTMLBaseFontElement](/finance/python-net/aspose.finance.xbrl.dom.html/htmlbasefontelement)
