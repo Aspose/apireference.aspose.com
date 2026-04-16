@@ -1,3 +1,14 @@
+name: qa-reference.aspose.com(finance)(Stage)
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'content/sites/aspose/finance/**'
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
