@@ -1,29 +1,18 @@
-name: qa-reference.aspose.com(finance)(Stage)
-
-on:
-  push:
-    branches: [ main ]
-    paths:
-      - 'content/sites/aspose/finance/**'
-  pull_request:
-    branches: [ main ]
-  workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
-      fail-fast: false    # if one group fails, others keep running
+      fail-fast: false
       matrix:
         include:
           - group: "en-ru-zh-ar"
-            disable: "fr,de,it,es,sv,tr,ja,hi,ko,el,id,nl"
+            disable: '["fr","de","it","es","sv","tr","ja","hi","ko","el","id","nl"]'
           - group: "fr-de-it-es"
-            disable: "en,ru,zh,ar,sv,tr,ja,hi,ko,el,id,nl"
+            disable: '["en","ru","zh","ar","sv","tr","ja","hi","ko","el","id","nl"]'
           - group: "sv-tr-ja-hi"
-            disable: "en,ru,zh,ar,fr,de,it,es,ko,el,id,nl"
+            disable: '["en","ru","zh","ar","fr","de","it","es","ko","el","id","nl"]'
           - group: "ko-el-id-nl"
-            disable: "en,ru,zh,ar,fr,de,it,es,sv,tr,ja,hi"
+            disable: '["en","ru","zh","ar","fr","de","it","es","sv","tr","ja","hi"]'
 
     steps:
       - name: Checkout
@@ -56,24 +45,22 @@ jobs:
       - name: Install Dependencies
         run: npm install -D --save autoprefixer postcss-cli
 
-      - name: Build
+      - name: Configure language group
         run: |
-          hugo --configDir config/sites/aspose/finance \
-               --environment staging \
-               --disableLanguages "${{ matrix.disable }}" \
-               --minify
+          echo 'enableGitInfo = false' >> config/sites/aspose/finance/staging/config.toml
+          echo 'disableLanguages = ${{ matrix.disable }}' >> config/sites/aspose/finance/staging/config.toml
+
+      - name: Build
+        run: hugo --configDir config/sites/aspose/finance --environment staging --minify
 
       - name: Deploy to S3
-        run: |
-          hugo --configDir config/sites/aspose/finance \
-               --environment staging \
-               deploy --target "Stage" --maxDeletes 0
+        run: hugo --configDir config/sites/aspose/finance --environment staging deploy --target "Stage" --maxDeletes 0
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
 
   invalidate:
-    needs: build    # waits for ALL 4 matrix jobs to finish
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Invalidate CloudFront
