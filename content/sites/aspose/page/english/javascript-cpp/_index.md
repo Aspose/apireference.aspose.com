@@ -43,6 +43,13 @@ is_root: true
 | [AsposeXMPAddNamespace](./xmp/xmpaddnamespace/) | Merge a Postscript files to PDF. |
 | [AsposeXMPAddSimpleProperties](./xmp/xmpaddsimpleproperties/) | Merge a Postscript files to PDF. |
 
+## PostScript functions
+
+| Function | Description |
+| -------- | ----------- |
+| [AsposePSGetBoundingBox](./ps/psgetboundingbox/) | Get bounds of PS file. |
+| [AsposePSExtractText](./ps/psextracttext/) | Extract text from PS file. |
+
 ## EPS functions
 
 | Function | Description |
