@@ -2,7 +2,7 @@
 title: "EPS functions"
 second_title: Aspose.Page for JavaScript via C++
 description:  "Functions for working with EPS files."
-weight: 40
+weight: 41
 type: docs
 url: /javascript-cpp/eps/
 ---
