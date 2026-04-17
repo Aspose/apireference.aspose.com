@@ -1,22 +1,22 @@
 ---
-title: "EPS functions"
+title: "PS functions"
 second_title: Aspose.Page for JavaScript via C++
-description:  "Functions for working with EPS files."
-weight: 41
+description:  "Functions for working with PS files."
+weight: 40
 type: docs
-url: /javascript-cpp/eps/
+url: /nodejs-cpp/ps/
 ---
 
 ## EPS Functions
 
 |      Name      |  Description   |
 | -------------- | -------------- |
-| [AsposeCropEPS](./cropeps/) | Crop EPS file. |
-| [AsposeResizeEPS](./resizeeps/) | Resize EPS file. |
+| [AsposePSGetBoundingBox](./psgetboundingbox/) | Get bounds of PS file. |
+| [AsposePSExtractText](./psextracttext/) | Extract text from PS file. |
 
 ## Detailed Description
 
-Manipulate size of EPS file.
+Manipulate PS file.
 
 
 ```js
