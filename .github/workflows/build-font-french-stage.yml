@@ -1,0 +1,16 @@
+name: Build Font French Stage
+
+on:
+  repository_dispatch:
+    types: [ build-font-french-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-font/Aspose.Font-API-References"
+      product_name: "font"
+      disable_languages: '["en","ru","zh","ar","de","it","es","sv","tr"]'
+      cf_path: "/font/fr/*"
+    secrets: inherit
