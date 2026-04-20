@@ -1,0 +1,17 @@
+name: Build Diagram Netherlands Stage
+
+on:
+  repository_dispatch:
+    types: [ build-diagram-netherlands-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-diagram/Aspose.Diagram-API-References"
+      product_name: "diagram"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","es","sv","tr"]'
+      cf_path: "/diagram/nl/*"
+      theme_ref: "beta"
+    secrets: inherit

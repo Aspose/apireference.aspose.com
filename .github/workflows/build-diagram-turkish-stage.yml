@@ -1,0 +1,17 @@
+name: Build Diagram Turkish Stage
+
+on:
+  repository_dispatch:
+    types: [ build-diagram-turkish-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-diagram/Aspose.Diagram-API-References"
+      product_name: "diagram"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv"]'
+      cf_path: "/diagram/tr/*"
+      theme_ref: "beta"
+    secrets: inherit

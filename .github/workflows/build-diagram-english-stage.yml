@@ -1,0 +1,17 @@
+name: Build Diagram English Stage
+
+on:
+  repository_dispatch:
+    types: [ build-diagram-english-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-diagram/Aspose.Diagram-API-References"
+      product_name: "diagram"
+      disable_languages: '["ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/diagram/*"
+      theme_ref: "beta"
+    secrets: inherit
