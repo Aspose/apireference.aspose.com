@@ -1,0 +1,17 @@
+name: Build Finance English Stage
+
+on:
+  repository_dispatch:
+    types: [ build-finance-english-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-finance/Aspose.Finance-API-References"
+      product_name: "finance"
+      disable_languages: '["ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/finance/*"
+      theme_ref: "beta"
+    secrets: inherit

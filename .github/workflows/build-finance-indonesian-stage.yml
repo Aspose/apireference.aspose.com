@@ -1,0 +1,17 @@
+name: Build Finance Indonesian Stage
+
+on:
+  repository_dispatch:
+    types: [ build-finance-indonesian-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-finance/Aspose.Finance-API-References"
+      product_name: "finance"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/finance/*"
+      theme_ref: "beta"
+    secrets: inherit
