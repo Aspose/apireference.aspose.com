@@ -1,0 +1,17 @@
+name: Build Cells German Stage
+
+on:
+  repository_dispatch:
+    types: [ build-cells-german-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-cells/Aspose.Cells-API-References"
+      product_name: "cells"
+      disable_languages: '["en","ru","zh","ar","fr","it","es","sv","tr"]'
+      cf_path: "/cells/de/*"
+      theme_ref: "beta"
+    secrets: inherit

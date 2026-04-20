@@ -1,0 +1,17 @@
+name: Build Cells Chinese Stage
+
+on:
+  repository_dispatch:
+    types: [ build-cells-chinese-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-cells/Aspose.Cells-API-References"
+      product_name: "cells"
+      disable_languages: '["en","ru","ar","fr","de","it","es","sv","tr"]'
+      cf_path: "/cells/zh/*"
+      theme_ref: "beta"
+    secrets: inherit
