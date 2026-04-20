@@ -1,0 +1,36 @@
+---
+title: "Aspose::Font::Ttf::TtfFont::GetGlyphsForText طريقة"
+linktitle: "GetGlyphsForText"
+second_title: "Aspose.Font لـ C++"
+description: "Aspose::Font::Ttf::TtfFont::GetGlyphsForText طريقة. احصل على تمثيل الحروف للنص في C++."
+type: docs
+weight: 2000
+url: /ar/cpp/aspose.font.ttf/ttffont/getglyphsfortext/
+---
+## TtfFont::GetGlyphsForText method
+
+
+احصل على تمثيل الرموز للنص.
+
+```cpp
+System::ArrayPtr<System::SharedPtr<Glyphs::GlyphId>> Aspose::Font::Ttf::TtfFont::GetGlyphsForText(System::String text) override
+```
+
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| نص | System::String | نص الإدخال. |
+
+### ReturnValue
+
+مصفوفة GlyphId.
+
+## انظر أيضًا
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [GlyphId](../../../aspose.font.glyphs/glyphid/)
+* Class [String](../../../system/string/)
+* Class [TtfFont](../)
+* Namespace [Aspose::Font::Ttf](../../)
+* Library [Aspose.Font for C++](../../../)
