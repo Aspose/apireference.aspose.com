@@ -1,0 +1,17 @@
+name: Build ZIP Indian Stage
+
+on:
+  repository_dispatch:
+    types: [ build-zip-indian-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-zip/Aspose.ZIP-API-References"
+      product_name: "zip"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/zip/*"
+      theme_ref: "beta"
+    secrets: inherit

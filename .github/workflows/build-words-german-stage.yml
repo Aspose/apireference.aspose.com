@@ -1,0 +1,17 @@
+name: Build Words German Stage
+
+on:
+  repository_dispatch:
+    types: [ build-words-german-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-words/Aspose.Words-API-References"
+      product_name: "words"
+      disable_languages: '["en","ru","zh","ar","fr","it","es","sv","tr"]'
+      cf_path: "/words/*"
+      theme_ref: "beta"
+    secrets: inherit

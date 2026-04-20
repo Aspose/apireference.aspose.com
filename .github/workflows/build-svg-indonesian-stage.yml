@@ -1,0 +1,17 @@
+name: Build SVG Indonesian Stage
+
+on:
+  repository_dispatch:
+    types: [ build-svg-indonesian-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-svg/Aspose.SVG-API-References"
+      product_name: "svg"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/svg/*"
+      theme_ref: "beta"
+    secrets: inherit

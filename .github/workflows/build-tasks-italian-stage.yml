@@ -1,0 +1,17 @@
+name: Build Tasks Italian Stage
+
+on:
+  repository_dispatch:
+    types: [ build-tasks-italian-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-tasks/Aspose.Tasks-API-References"
+      product_name: "tasks"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/tasks/*"
+      theme_ref: "beta"
+    secrets: inherit

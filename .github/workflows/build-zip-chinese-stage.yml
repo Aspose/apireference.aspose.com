@@ -1,0 +1,17 @@
+name: Build ZIP Chinese Stage
+
+on:
+  repository_dispatch:
+    types: [ build-zip-chinese-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-zip/Aspose.ZIP-API-References"
+      product_name: "zip"
+      disable_languages: '["en","ru","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/zip/*"
+      theme_ref: "beta"
+    secrets: inherit
