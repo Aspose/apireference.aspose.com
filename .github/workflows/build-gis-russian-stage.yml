@@ -1,0 +1,17 @@
+name: Build GIS Russian Stage
+
+on:
+  repository_dispatch:
+    types: [ build-gis-russian-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-gis/Aspose.GIS-API-Reference"
+      product_name: "gis"
+      disable_languages: '["en","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/gis/*"
+      theme_ref: "beta"
+    secrets: inherit

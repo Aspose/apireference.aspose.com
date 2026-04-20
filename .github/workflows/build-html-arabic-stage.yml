@@ -1,0 +1,17 @@
+name: Build HTML Arabic Stage
+
+on:
+  repository_dispatch:
+    types: [ build-html-arabic-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-html/Aspose.HTML-API-References"
+      product_name: "html"
+      disable_languages: '["en","ru","zh","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/html/*"
+      theme_ref: "beta"
+    secrets: inherit
