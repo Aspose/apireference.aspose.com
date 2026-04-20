@@ -1,0 +1,17 @@
+name: Build OCR Swedish Stage
+
+on:
+  repository_dispatch:
+    types: [ build-ocr-swedish-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-ocr/Aspose.OCR-API-References"
+      product_name: "ocr"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","tr"]'
+      cf_path: "/ocr/*"
+      theme_ref: "beta"
+    secrets: inherit

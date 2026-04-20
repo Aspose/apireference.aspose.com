@@ -1,0 +1,17 @@
+name: Build OMR French Stage
+
+on:
+  repository_dispatch:
+    types: [ build-omr-french-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-omr/Aspose.OMR-API-References"
+      product_name: "omr"
+      disable_languages: '["en","ru","zh","ar","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/omr/*"
+      theme_ref: "beta"
+    secrets: inherit
