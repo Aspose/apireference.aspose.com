@@ -1,0 +1,17 @@
+name: Build Note Turkish Stage
+
+on:
+  repository_dispatch:
+    types: [ build-note-turkish-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-note/Aspose.Note-API-References"
+      product_name: "note"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv"]'
+      cf_path: "/note/*"
+      theme_ref: "beta"
+    secrets: inherit
