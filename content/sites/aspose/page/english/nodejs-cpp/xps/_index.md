@@ -2,7 +2,7 @@
 title: "XPS functions"
 second_title: Aspose.Page for JavaScript via C++
 description:  "Functions for working with XPS files."
-weight: 42
+weight: 41
 type: docs
 url: /nodejs-cpp/xps/
 ---

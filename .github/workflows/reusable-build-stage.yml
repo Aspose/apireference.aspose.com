@@ -15,6 +15,10 @@ on:
       cf_path:
         required: true
         type: string
+      theme_ref:
+        required: false
+        type: string
+        default: main
     secrets:
       REPO_TOKEN:
         required: true
@@ -40,6 +44,7 @@ jobs:
         with:
           repository: Aspose/api-theme
           token: ${{ secrets.REPO_TOKEN }}
+          ref: ${{ inputs.theme_ref }}
           fetch-depth: 1
           path: themes/api-theme
 

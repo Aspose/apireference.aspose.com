@@ -13,4 +13,5 @@ jobs:
       product_name: "font"
       disable_languages: '["en","ru","zh","ar","de","it","es","sv","tr"]'
       cf_path: "/font/fr/*"
+      theme_ref: "beta"
     secrets: inherit

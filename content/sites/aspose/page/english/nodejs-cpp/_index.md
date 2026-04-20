@@ -42,31 +42,11 @@ is_root: true
 | [AsposeXMPAddNamespace](./xmp/xmpaddnamespace/) | Merge a Postscript files to PDF. |
 | [AsposeXMPAddSimpleProperties](./xmp/xmpaddsimpleproperties/) | Merge a Postscript files to PDF. |
 
-## PS functions
-
-| Function | Description |
-| -------- | ----------- |
-| [AsposePSGetBoundingBox](./ps/psgetboundingbox/) | Get bounding box of PS file. |
-| [AsposePSExtractText](./ps/psextracttext/) | Extract text from PS file. |
-
-## EPS functions
-
-| Function | Description |
-| -------- | ----------- |
-| [AsposeCropEPS](./eps/cropeps/) | Crops EPS file. |
-| [AsposeResizeEPS](./eps/resizeeps/) | Resize EPS file. |
-
 ## XPS functions
 
 | Function | Description |
 | -------- | ----------- |
 | [AsposeGetXpsPageCount](./xps/getxpspagecount/) | Get the number of pages in the xps-document. |
-
-## Image functions
-
-| Function | Description |
-| -------- | ----------- |
-| [AsposeSaveImageAsEps](./image/saveimageaseps/) | Save image as EPS file. |
 
 ## Core Functions
 
