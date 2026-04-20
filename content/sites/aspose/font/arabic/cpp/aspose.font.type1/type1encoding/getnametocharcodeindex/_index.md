@@ -2,7 +2,7 @@
 title: "Aspose::Font::Type1::Type1Encoding::GetNameToCharCodeIndex طريقة"
 linktitle: "GetNameToCharCodeIndex"
 second_title: "Aspose.Font لـ C++"
-description: "Aspose::Font::Type1::Type1Encoding::GetNameToCharCodeIndex طريقة. تُرجع خريطة الترميز من الاسم إلى رمز الحرف. ملاحظة: رمز الحرف ليس Unicode. رمز الحرف هو فهرس حرف في \\"جدول\\" ترميز الخط في C++."
+description: "Aspose::Font::Type1::Type1Encoding::GetNameToCharCodeIndex طريقة. تُرجع خريطة الترميز من الاسم إلى رمز الحرف. ملاحظة: رمز الحرف ليس Unicode. رمز الحرف هو فهرس حرف في \"جدول\" ترميز الخط في C++."
 type: docs
 weight: 400
 url: /ar/cpp/aspose.font.type1/type1encoding/getnametocharcodeindex/

@@ -2,7 +2,7 @@
 title: "Aspose::Font::TtfTables::TtfOs2Table فئة"
 linktitle: "TtfOs2Table"
 second_title: "Aspose.Font لـ C++"
-description: "Aspose::Font::TtfTables::TtfOs2Table فئة. يمثل جدول \\"OS/2\\" لملف TTF Font في C++."
+description: "Aspose::Font::TtfTables::TtfOs2Table فئة. يمثل جدول \"OS/2\" لملف TTF Font في C++."
 type: docs
 weight: 1400
 url: /ar/cpp/aspose.font.ttftables/ttfos2table/

@@ -2,7 +2,7 @@
 title: "System::Text::DecoderReplacementFallback::DecoderReplacementFallback constructor"
 linktitle: "DecoderReplacementFallback"
 second_title: "Aspose.Font لـ C++"
-description: "System::Text::DecoderReplacementFallback::DecoderReplacementFallback constructor. مُنشئ يستخدم سلسلة الاستبدال الافتراضية \\"?\\" في C++."
+description: "System::Text::DecoderReplacementFallback::DecoderReplacementFallback constructor. مُنشئ يستخدم سلسلة الاستبدال الافتراضية \"?\" في C++."
 type: docs
 weight: 100
 url: /ar/cpp/system.text/decoderreplacementfallback/decoderreplacementfallback/

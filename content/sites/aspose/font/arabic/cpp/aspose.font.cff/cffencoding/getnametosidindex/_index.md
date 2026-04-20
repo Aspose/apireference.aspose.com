@@ -2,7 +2,7 @@
 title: "طريقة Aspose::Font::Cff::CffEncoding::GetNameToSidIndex"
 linktitle: "GetNameToSidIndex"
 second_title: "Aspose.Font لـ C++"
-description: "طريقة Aspose::Font::Cff::CffEncoding::GetNameToSidIndex. تُرجع خريطة الترميز من الاسم إلى رمز الحرف. ملاحظة: رمز الحرف ليس يونيكود. رمز الحرف هو فهرس حرف في \\"جدول\\" ترميز Font في C++."
+description: "طريقة Aspose::Font::Cff::CffEncoding::GetNameToSidIndex. تُرجع خريطة الترميز من الاسم إلى رمز الحرف. ملاحظة: رمز الحرف ليس يونيكود. رمز الحرف هو فهرس حرف في \"جدول\" ترميز Font في C++."
 type: docs
 weight: 600
 url: /ar/cpp/aspose.font.cff/cffencoding/getnametosidindex/

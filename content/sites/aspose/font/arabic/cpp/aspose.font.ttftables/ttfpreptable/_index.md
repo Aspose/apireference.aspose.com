@@ -2,7 +2,7 @@
 title: "Aspose::Font::TtfTables::TtfPrepTable فئة"
 linktitle: "TtfPrepTable"
 second_title: "Aspose.Font لـ C++"
-description: "Aspose::Font::TtfTables::TtfPrepTable فئة. يمثل جدول \\"prep\\" لملف TTF Font في C++."
+description: "Aspose::Font::TtfTables::TtfPrepTable فئة. يمثل جدول \"prep\" لملف TTF Font في C++."
 type: docs
 weight: 1600
 url: /ar/cpp/aspose.font.ttftables/ttfpreptable/
