@@ -1,0 +1,17 @@
+name: Build Cells Python NET Swedish Stage
+
+on:
+  repository_dispatch:
+    types: [ build-cells-python-net-swedish-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-cells/Aspose.Cells-Python-NET-API-References"
+      product_name: "cells-python-net"
+      disable_languages: '["en","ru","zh","ar","fr","de","it","es","tr"]'
+      cf_path: "/cells/python-net/sv/*"
+      theme_ref: "beta"
+    secrets: inherit
