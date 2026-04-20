@@ -1,0 +1,17 @@
+name: Build Email Chinese Stage
+
+on:
+  repository_dispatch:
+    types: [ build-email-chinese-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-email/Aspose.Email-API-References"
+      product_name: "email"
+      disable_languages: '["en","ru"]'
+      cf_path: "/email/*"
+      theme_ref: "beta"
+    secrets: inherit
