@@ -1,0 +1,17 @@
+name: Build 3D Japanese Stage
+
+on:
+  repository_dispatch:
+    types: [ build-3d-japanese-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-3d/Aspose.3D-API-References"
+      product_name: "3d"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ko","nl","es","sv","tr"]'
+      cf_path: "/3d/ja/*"
+      theme_ref: "beta"
+    secrets: inherit

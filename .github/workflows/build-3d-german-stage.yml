@@ -1,0 +1,17 @@
+name: Build 3D German Stage
+
+on:
+  repository_dispatch:
+    types: [ build-3d-german-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-3d/Aspose.3D-API-References"
+      product_name: "3d"
+      disable_languages: '["en","ru","zh","ar","fr","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/3d/de/*"
+      theme_ref: "beta"
+    secrets: inherit

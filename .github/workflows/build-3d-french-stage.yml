@@ -1,0 +1,17 @@
+name: Build 3D French Stage
+
+on:
+  repository_dispatch:
+    types: [ build-3d-french-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-3d/Aspose.3D-API-References"
+      product_name: "3d"
+      disable_languages: '["en","ru","zh","ar","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/3d/fr/*"
+      theme_ref: "beta"
+    secrets: inherit
