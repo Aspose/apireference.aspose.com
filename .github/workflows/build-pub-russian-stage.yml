@@ -1,0 +1,17 @@
+name: Build PUB Russian Stage
+
+on:
+  repository_dispatch:
+    types: [ build-pub-russian-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-pub/Aspose.PUB-API-References"
+      product_name: "pub"
+      disable_languages: '["en","zh","ar","fr","de","it","es","sv","tr"]'
+      cf_path: "/pub/*"
+      theme_ref: "beta"
+    secrets: inherit

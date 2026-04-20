@@ -1,0 +1,17 @@
+name: Build PSD Indonesian Stage
+
+on:
+  repository_dispatch:
+    types: [ build-psd-indonesian-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-psd/Aspose.PSD-API-References"
+      product_name: "psd"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/psd/*"
+      theme_ref: "beta"
+    secrets: inherit
