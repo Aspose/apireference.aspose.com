@@ -1,0 +1,69 @@
+name: All TEX Production Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-tex-arabic-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-arabic-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-chinese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-chinese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-english-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-english-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-french-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-french-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-german-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-german-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-italian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-italian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-russian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-russian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-spanish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-spanish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-swedish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-swedish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-turkish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-turkish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

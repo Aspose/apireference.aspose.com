@@ -1,0 +1,69 @@
+name: All PUB Staging Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-pub-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

@@ -1,0 +1,69 @@
+name: All IMAGING Production Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-imaging-arabic-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-arabic-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-chinese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-chinese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-english-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-english-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-french-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-french-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-german-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-german-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-italian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-italian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-russian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-russian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-spanish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-spanish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-swedish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-swedish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-turkish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-turkish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

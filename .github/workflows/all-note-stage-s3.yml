@@ -1,0 +1,105 @@
+name: All NOTE Staging Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-note-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

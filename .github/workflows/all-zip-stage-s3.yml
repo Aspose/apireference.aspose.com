@@ -1,0 +1,105 @@
+name: All ZIP Staging Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-zip-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

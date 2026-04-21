@@ -1,0 +1,105 @@
+name: All NOTE Staging Workflows (BunnyCDN)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-note-arabic-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-arabic-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-chinese-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-chinese-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-english-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-english-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-french-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-french-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-german-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-german-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-greece-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-greece-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-indian-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-indian-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-indonesian-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-indonesian-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-italian-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-italian-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-japanese-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-japanese-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-korean-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-korean-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-netherlands-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-netherlands-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-russian-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-russian-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-spanish-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-spanish-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-swedish-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-swedish-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-turkish-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-turkish-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

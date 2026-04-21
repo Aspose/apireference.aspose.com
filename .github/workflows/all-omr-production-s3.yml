@@ -1,0 +1,105 @@
+name: All OMR Production Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-omr-arabic-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-arabic-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-chinese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-chinese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-english-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-english-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-french-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-french-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-german-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-german-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-greece-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-greece-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-indian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-indian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-indonesian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-indonesian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-italian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-italian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-japanese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-japanese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-korean-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-korean-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-netherlands-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-netherlands-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-russian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-russian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-spanish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-spanish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-swedish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-swedish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-turkish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-turkish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

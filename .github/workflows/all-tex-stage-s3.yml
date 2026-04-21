@@ -1,0 +1,69 @@
+name: All TEX Staging Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-tex-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

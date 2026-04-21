@@ -1,0 +1,105 @@
+name: All DIAGRAM Staging Workflows (BunnyCDN)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-diagram-arabic-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-arabic-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-chinese-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-chinese-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-english-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-english-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-french-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-french-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-german-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-german-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-greece-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-greece-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-indian-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-indian-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-indonesian-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-indonesian-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-italian-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-italian-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-japanese-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-japanese-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-korean-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-korean-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-netherlands-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-netherlands-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-russian-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-russian-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-spanish-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-spanish-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-swedish-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-swedish-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-turkish-stage-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-turkish-stage-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

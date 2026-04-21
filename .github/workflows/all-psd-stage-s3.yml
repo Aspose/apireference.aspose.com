@@ -1,0 +1,105 @@
+name: All PSD Staging Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-psd-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

@@ -1,0 +1,129 @@
+name: All CELLS Production Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-cells-arabic-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-arabic-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-chinese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-chinese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-english-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-english-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-french-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-french-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-german-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-german-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-italian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-italian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-arabic-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-arabic-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-chinese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-chinese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-english-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-english-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-french-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-french-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-german-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-german-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-italian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-italian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-russian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-russian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-spanish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-spanish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-swedish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-swedish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-turkish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-turkish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-russian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-russian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-spanish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-spanish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-swedish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-swedish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-turkish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-turkish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

@@ -1,0 +1,93 @@
+name: All PDF Production Workflows (BunnyCDN)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-pdf-arabic-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-arabic-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-chinese-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-chinese-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-english-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-english-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-french-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-french-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-german-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-german-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-indonesian-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-indonesian-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-italian-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-italian-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-japanese-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-japanese-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-korean-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-korean-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-portuguese-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-portuguese-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-russian-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-russian-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-spanish-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-spanish-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-swedish-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-swedish-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-turkish-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-turkish-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

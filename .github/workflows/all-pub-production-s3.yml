@@ -1,0 +1,69 @@
+name: All PUB Production Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-pub-arabic-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-arabic-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-chinese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-chinese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-english-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-english-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-french-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-french-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-german-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-german-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-italian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-italian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-russian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-russian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-spanish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-spanish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-swedish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-swedish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-turkish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-turkish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

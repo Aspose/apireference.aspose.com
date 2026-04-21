@@ -1,0 +1,105 @@
+name: All GIS Staging Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-gis-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

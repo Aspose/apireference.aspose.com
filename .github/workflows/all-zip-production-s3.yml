@@ -1,0 +1,105 @@
+name: All ZIP Production Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-zip-arabic-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-arabic-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-chinese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-chinese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-english-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-english-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-french-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-french-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-german-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-german-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-greece-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-greece-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-indian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-indian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-indonesian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-indonesian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-italian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-italian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-japanese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-japanese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-korean-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-korean-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-netherlands-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-netherlands-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-russian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-russian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-spanish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-spanish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-swedish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-swedish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-turkish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-turkish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

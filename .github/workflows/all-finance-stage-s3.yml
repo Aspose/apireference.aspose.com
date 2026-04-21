@@ -1,0 +1,105 @@
+name: All FINANCE Staging Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-finance-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

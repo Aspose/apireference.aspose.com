@@ -1,0 +1,69 @@
+name: All WORDS Production Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-words-arabic-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-arabic-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-chinese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-chinese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-english-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-english-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-french-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-french-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-german-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-german-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-italian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-italian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-russian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-russian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-spanish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-spanish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-swedish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-swedish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-turkish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-turkish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

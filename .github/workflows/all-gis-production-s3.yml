@@ -1,0 +1,105 @@
+name: All GIS Production Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-gis-arabic-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-arabic-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-chinese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-chinese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-english-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-english-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-french-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-french-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-german-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-german-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-greece-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-greece-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-indian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-indian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-indonesian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-indonesian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-italian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-italian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-japanese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-japanese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-korean-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-korean-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-netherlands-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-netherlands-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-russian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-russian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-spanish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-spanish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-swedish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-swedish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-turkish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-turkish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

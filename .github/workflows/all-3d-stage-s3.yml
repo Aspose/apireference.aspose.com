@@ -1,0 +1,105 @@
+name: All 3D Staging Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-3d-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

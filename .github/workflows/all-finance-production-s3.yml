@@ -1,0 +1,105 @@
+name: All FINANCE Production Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-finance-arabic-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-arabic-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-chinese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-chinese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-english-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-english-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-french-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-french-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-german-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-german-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-greece-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-greece-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-indian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-indian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-indonesian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-indonesian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-italian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-italian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-japanese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-japanese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-korean-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-korean-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-netherlands-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-netherlands-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-russian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-russian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-spanish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-spanish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-swedish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-swedish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-turkish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-turkish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

@@ -1,0 +1,105 @@
+name: All SVG Staging Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-svg-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

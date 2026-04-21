@@ -1,0 +1,27 @@
+name: All EMAIL Staging Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-email-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-email-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-email-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-email-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-email-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-email-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

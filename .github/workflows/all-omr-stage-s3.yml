@@ -1,0 +1,105 @@
+name: All OMR Staging Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-omr-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

@@ -1,0 +1,105 @@
+name: All 3D Production Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-3d-arabic-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-arabic-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-chinese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-chinese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-english-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-english-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-french-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-french-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-german-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-german-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-greece-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-greece-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-indian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-indian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-indonesian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-indonesian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-italian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-italian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-japanese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-japanese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-korean-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-korean-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-netherlands-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-netherlands-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-russian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-russian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-spanish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-spanish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-swedish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-swedish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-turkish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-turkish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

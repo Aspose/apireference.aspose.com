@@ -1,0 +1,105 @@
+name: All NOTE Production Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-note-arabic-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-arabic-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-chinese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-chinese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-english-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-english-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-french-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-french-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-german-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-german-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-greece-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-greece-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-indian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-indian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-indonesian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-indonesian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-italian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-italian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-japanese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-japanese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-korean-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-korean-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-netherlands-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-netherlands-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-russian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-russian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-spanish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-spanish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-swedish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-swedish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-turkish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-turkish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

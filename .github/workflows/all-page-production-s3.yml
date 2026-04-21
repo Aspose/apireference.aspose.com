@@ -1,0 +1,105 @@
+name: All PAGE Production Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-page-arabic-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-arabic-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-chinese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-chinese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-english-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-english-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-french-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-french-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-german-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-german-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-greece-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-greece-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-indian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-indian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-indonesian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-indonesian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-italian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-italian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-japanese-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-japanese-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-korean-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-korean-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-netherlands-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-netherlands-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-russian-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-russian-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-spanish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-spanish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-swedish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-swedish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-turkish-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-turkish-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
