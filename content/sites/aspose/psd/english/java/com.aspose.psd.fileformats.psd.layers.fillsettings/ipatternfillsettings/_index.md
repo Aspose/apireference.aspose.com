@@ -3,7 +3,7 @@ title: IPatternFillSettings
 second_title: Aspose.PSD for Java API Reference
 description: Interface for Pattern fill settings
 type: docs
-weight: 25
+weight: 24
 url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/
 ---
 

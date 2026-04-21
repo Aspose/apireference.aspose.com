@@ -3,7 +3,7 @@ title: IFillSettings
 second_title: Aspose.PSD for Java API Reference
 description: Base interface for fill settings
 type: docs
-weight: 22
+weight: 21
 url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/
 ---
 ```

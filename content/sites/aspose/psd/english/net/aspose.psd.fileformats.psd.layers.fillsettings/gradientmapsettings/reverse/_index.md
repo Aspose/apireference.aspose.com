@@ -3,7 +3,7 @@ title: GradientMapSettings.Reverse
 second_title: Aspose.PSD for .NET API Reference
 description: GradientMapSettings property. Gets or sets a value indicating whether this GradientFillSettings is reverse
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientmapsettings/reverse/
 ---
 {{< psd/tize >}}

@@ -1,0 +1,1971 @@
+name: All New Staging Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-3d-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-3d-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-3d-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-barcode-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-barcode-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-python-net-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-python-net-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-cells-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cells-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-diagram-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-diagram-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-drawing-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-drawing-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-email-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-email-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-email-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-email-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-email-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-email-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-finance-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-finance-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-font-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-font-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-font-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-font-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-font-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-font-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-font-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-font-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-font-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-font-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-font-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-font-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-font-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-font-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-font-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-font-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-font-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-font-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-font-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-font-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-gis-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-gis-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-html-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-html-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-imaging-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-imaging-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-note-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-note-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-ocr-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-ocr-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-omr-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-omr-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-page-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-page-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-portuguese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-portuguese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pdf-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pdf-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-psd-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-psd-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-pub-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-pub-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-svg-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-svg-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tasks-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tasks-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-tex-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-tex-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-words-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-words-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-arabic-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-arabic-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-chinese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-chinese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-french-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-french-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-german-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-german-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-greece-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-greece-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-indian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-indian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-indonesian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-indonesian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-italian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-italian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-japanese-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-japanese-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-korean-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-korean-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-netherlands-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-netherlands-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-russian-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-russian-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-spanish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-spanish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-swedish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-swedish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger build-zip-turkish-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-zip-turkish-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}
+

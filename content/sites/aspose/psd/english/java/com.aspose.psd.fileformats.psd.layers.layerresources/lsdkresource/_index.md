@@ -3,7 +3,7 @@ title: LsdkResource
 second_title: Aspose.PSD for Java API Reference
 description: The lsdk layer resource nested layer section resource.
 type: docs
-weight: 56
+weight: 55
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lsdkresource/
 ---
 
