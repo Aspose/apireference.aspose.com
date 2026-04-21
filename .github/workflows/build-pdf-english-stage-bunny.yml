@@ -1,0 +1,16 @@
+name: Build Pdf English Stage (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-pdf-english-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-pdf/Aspose.PDF-API-References"
+      product_name: "pdf"
+      disable_languages: '["ru","zh","ar","fr","de","id","it","ja","ko","pt","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

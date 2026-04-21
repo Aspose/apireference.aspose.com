@@ -1,0 +1,17 @@
+name: Build Words English Production
+
+on:
+  repository_dispatch:
+    types: [ build-words-english-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-words/Aspose.Words-API-References"
+      product_name: "words"
+      disable_languages: '["ru","zh","ar","fr","de","it","es","sv","tr"]'
+      cf_path: "/words/*"
+      theme_ref: "beta"
+    secrets: inherit

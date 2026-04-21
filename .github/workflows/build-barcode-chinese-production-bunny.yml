@@ -1,0 +1,16 @@
+name: Build Barcode Chinese Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-barcode-chinese-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-barcode/Aspose.BarCode-API-References"
+      product_name: "barcode"
+      disable_languages: '["en","ru","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

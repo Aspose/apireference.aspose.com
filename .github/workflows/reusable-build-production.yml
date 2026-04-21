@@ -1,0 +1,96 @@
+name: Reusable Production Build
+
+on:
+  workflow_call:
+    inputs:
+      product_repo:
+        required: true
+        type: string
+      product_name:
+        required: true
+        type: string
+      disable_languages:
+        required: true
+        type: string
+      cf_path:
+        required: true
+        type: string
+      theme_ref:
+        required: false
+        type: string
+        default: main
+    secrets:
+      REPO_TOKEN:
+        required: true
+      ACCESS_KEY:
+        required: true
+      SECRET_ACCESS:
+        required: true
+      AWS_DISTRIBUTION_PROD:
+        required: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Hugo site
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+
+      - name: Checkout theme
+        uses: actions/checkout@v2
+        with:
+          repository: Aspose/api-theme
+          token: ${{ secrets.REPO_TOKEN }}
+          ref: ${{ inputs.theme_ref }}
+          fetch-depth: 1
+          path: themes/api-theme
+
+      - name: Checkout product content
+        uses: actions/checkout@v2
+        with:
+          repository: ${{ inputs.product_repo }}
+          token: ${{ secrets.REPO_TOKEN }}
+          fetch-depth: 1
+          path: content/sites/aspose/${{ inputs.product_name }}
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.119.0'
+          extended: true
+
+      - name: Cache node modules
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('package.json') }}
+          restore-keys: ${{ runner.os }}-node-
+
+      - name: Install Dependencies
+        run: npm install -D --save autoprefixer postcss-cli
+
+      - name: Configure language
+        run: |
+          echo 'enableGitInfo = false' >> config/sites/aspose/${{ inputs.product_name }}/production/config.toml
+          echo 'disableLanguages = ${{ inputs.disable_languages }}' >> config/sites/aspose/${{ inputs.product_name }}/production/config.toml
+
+      - name: Build
+        run: hugo --configDir config/sites/aspose/${{ inputs.product_name }} --environment production --minify
+
+      - name: Deploy to S3
+        run: hugo --configDir config/sites/aspose/${{ inputs.product_name }} --environment production deploy --target "Production" --maxDeletes 0
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+
+      - name: Invalidate CloudFront
+        uses: chetan/invalidate-cloudfront-action@v2
+        env:
+          DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}
+          PATHS: ${{ inputs.cf_path }}
+          AWS_REGION: 'us-west-2'
+          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}

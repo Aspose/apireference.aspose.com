@@ -1,0 +1,17 @@
+name: Build Finance Indian Production
+
+on:
+  repository_dispatch:
+    types: [ build-finance-indian-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-finance/Aspose.Finance-API-References"
+      product_name: "finance"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/finance/*"
+      theme_ref: "beta"
+    secrets: inherit

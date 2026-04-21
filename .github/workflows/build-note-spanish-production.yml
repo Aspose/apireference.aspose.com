@@ -1,0 +1,17 @@
+name: Build Note Spanish Production
+
+on:
+  repository_dispatch:
+    types: [ build-note-spanish-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-note/Aspose.Note-API-References"
+      product_name: "note"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","sv","tr"]'
+      cf_path: "/note/*"
+      theme_ref: "beta"
+    secrets: inherit

@@ -1,0 +1,17 @@
+name: Build Note Italian Production
+
+on:
+  repository_dispatch:
+    types: [ build-note-italian-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-note/Aspose.Note-API-References"
+      product_name: "note"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/note/*"
+      theme_ref: "beta"
+    secrets: inherit

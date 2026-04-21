@@ -1,0 +1,16 @@
+name: Build Font Arabic Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-font-arabic-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-font/Aspose.Font-API-References"
+      product_name: "font"
+      disable_languages: '["en","ru","zh","fr","de","it","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

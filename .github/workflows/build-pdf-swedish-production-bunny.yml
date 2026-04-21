@@ -1,0 +1,16 @@
+name: Build Pdf Swedish Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-pdf-swedish-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-pdf/Aspose.PDF-API-References"
+      product_name: "pdf"
+      disable_languages: '["en","ru","zh","ar","fr","de","id","it","ja","ko","pt","es","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

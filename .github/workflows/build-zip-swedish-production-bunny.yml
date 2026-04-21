@@ -1,0 +1,16 @@
+name: Build Zip Swedish Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-zip-swedish-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-zip/Aspose.ZIP-API-References"
+      product_name: "zip"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

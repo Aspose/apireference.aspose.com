@@ -1,0 +1,17 @@
+name: Build Cells-python-net Arabic Production
+
+on:
+  repository_dispatch:
+    types: [ build-cells-python-net-arabic-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-cells/Aspose.Cells-Python-NET-API-References"
+      product_name: "cells-python-net"
+      disable_languages: '["en","ru","zh","fr","de","it","es","sv","tr"]'
+      cf_path: "/cells/python-net/ar/*"
+      theme_ref: "beta"
+    secrets: inherit

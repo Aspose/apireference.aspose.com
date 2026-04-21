@@ -1,0 +1,17 @@
+name: Build Font Arabic Production
+
+on:
+  repository_dispatch:
+    types: [ build-font-arabic-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-font/Aspose.Font-API-References"
+      product_name: "font"
+      disable_languages: '["en","ru","zh","fr","de","it","es","sv","tr"]'
+      cf_path: "/font/ar/*"
+      theme_ref: "beta"
+    secrets: inherit

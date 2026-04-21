@@ -1,0 +1,17 @@
+name: Build Pdf Spanish Production
+
+on:
+  repository_dispatch:
+    types: [ build-pdf-spanish-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-pdf/Aspose.PDF-API-References"
+      product_name: "pdf"
+      disable_languages: '["en","ru","zh","ar","fr","de","id","it","ja","ko","pt","sv","tr"]'
+      cf_path: "/pdf/*"
+      theme_ref: "beta"
+    secrets: inherit

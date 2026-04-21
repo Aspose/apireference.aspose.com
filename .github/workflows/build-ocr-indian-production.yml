@@ -1,0 +1,17 @@
+name: Build Ocr Indian Production
+
+on:
+  repository_dispatch:
+    types: [ build-ocr-indian-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-ocr/Aspose.OCR-API-References"
+      product_name: "ocr"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/ocr/*"
+      theme_ref: "beta"
+    secrets: inherit

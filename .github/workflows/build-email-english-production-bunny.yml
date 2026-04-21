@@ -1,0 +1,16 @@
+name: Build Email English Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-email-english-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-email/Aspose.Email-API-References"
+      product_name: "email"
+      disable_languages: '["ru","zh"]'
+      theme_ref: "beta"
+    secrets: inherit

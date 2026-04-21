@@ -1,0 +1,16 @@
+name: Build Svg Russian Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-svg-russian-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-svg/Aspose.SVG-API-References"
+      product_name: "svg"
+      disable_languages: '["en","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

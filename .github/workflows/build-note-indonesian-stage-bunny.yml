@@ -1,0 +1,16 @@
+name: Build Note Indonesian Stage (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-note-indonesian-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-note/Aspose.Note-API-References"
+      product_name: "note"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","it","ja","ko","nl","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

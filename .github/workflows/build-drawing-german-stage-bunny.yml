@@ -1,0 +1,16 @@
+name: Build Drawing German Stage (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-drawing-german-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-drawing/Aspose.Drawing-API-Reference"
+      product_name: "drawing"
+      disable_languages: '["en","ru","zh","ar","fr","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

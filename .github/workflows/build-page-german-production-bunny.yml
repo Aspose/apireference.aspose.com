@@ -1,0 +1,16 @@
+name: Build Page German Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-page-german-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-page/Aspose.Page-API-References"
+      product_name: "page"
+      disable_languages: '["en","ru","zh","ar","fr","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

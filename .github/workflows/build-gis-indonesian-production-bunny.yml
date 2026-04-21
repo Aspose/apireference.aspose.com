@@ -1,0 +1,16 @@
+name: Build Gis Indonesian Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-gis-indonesian-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-gis/Aspose.GIS-API-Reference"
+      product_name: "gis"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","it","ja","ko","nl","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

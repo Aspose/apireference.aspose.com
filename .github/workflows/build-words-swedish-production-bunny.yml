@@ -1,0 +1,16 @@
+name: Build Words Swedish Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-words-swedish-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-words/Aspose.Words-API-References"
+      product_name: "words"
+      disable_languages: '["en","ru","zh","ar","fr","de","it","es","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

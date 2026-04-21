@@ -1,0 +1,16 @@
+name: Build Omr Swedish Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-omr-swedish-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-omr/Aspose.OMR-API-References"
+      product_name: "omr"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

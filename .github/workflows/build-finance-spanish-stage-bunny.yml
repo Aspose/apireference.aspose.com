@@ -1,0 +1,16 @@
+name: Build Finance Spanish Stage (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-finance-spanish-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-finance/Aspose.Finance-API-References"
+      product_name: "finance"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

@@ -1,0 +1,16 @@
+name: Build Tasks Chinese Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-tasks-chinese-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-tasks/Aspose.Tasks-API-References"
+      product_name: "tasks"
+      disable_languages: '["en","ru","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

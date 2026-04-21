@@ -1,0 +1,17 @@
+name: Build 3d Indian Production
+
+on:
+  repository_dispatch:
+    types: [ build-3d-indian-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-3d/Aspose.3D-API-References"
+      product_name: "3d"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/3d/hi/*"
+      theme_ref: "beta"
+    secrets: inherit

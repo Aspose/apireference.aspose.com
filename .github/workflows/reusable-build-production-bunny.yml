@@ -1,0 +1,96 @@
+name: Reusable Production Build (BunnyCDN)
+
+on:
+  workflow_call:
+    inputs:
+      product_repo:
+        required: true
+        type: string
+      product_name:
+        required: true
+        type: string
+      disable_languages:
+        required: true
+        type: string
+      theme_ref:
+        required: false
+        type: string
+        default: main
+    secrets:
+      REPO_TOKEN:
+        required: true
+      CEPH_S3_LIVE_ACCESS_KEY:
+        required: true
+      CEPH_S3_LIVE_SECRET_KEY:
+        required: true
+      BUNNY_API_KEY:
+        required: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Hugo site
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+
+      - name: Checkout theme
+        uses: actions/checkout@v2
+        with:
+          repository: Aspose/api-theme
+          token: ${{ secrets.REPO_TOKEN }}
+          ref: ${{ inputs.theme_ref }}
+          fetch-depth: 1
+          path: themes/api-theme
+
+      - name: Checkout product content
+        uses: actions/checkout@v2
+        with:
+          repository: ${{ inputs.product_repo }}
+          token: ${{ secrets.REPO_TOKEN }}
+          fetch-depth: 1
+          path: content/sites/aspose/${{ inputs.product_name }}
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.119.0'
+          extended: true
+
+      - name: Cache node modules
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('package.json') }}
+          restore-keys: ${{ runner.os }}-node-
+
+      - name: Install Dependencies
+        run: npm install -D --save autoprefixer postcss-cli
+
+      - name: Configure language
+        run: |
+          echo 'enableGitInfo = false' >> config/sites/aspose/${{ inputs.product_name }}/production/config.toml
+          echo 'disableLanguages = ${{ inputs.disable_languages }}' >> config/sites/aspose/${{ inputs.product_name }}/production/config.toml
+
+      - name: Build
+        run: hugo --configDir config/sites/aspose/${{ inputs.product_name }} --environment production --minify
+
+      - name: Sync to Ceph S3
+        run: |
+          aws s3 sync ./public/ s3://reference-aspose-com/${{ inputs.product_name }}/ \
+            --endpoint-url https://s3.dynabic.com \
+            --acl public-read \
+            --delete
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.CEPH_S3_LIVE_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.CEPH_S3_LIVE_SECRET_KEY }}
+          AWS_DEFAULT_REGION: us-east-1
+
+      - name: Purge BunnyCDN Cache
+        run: |
+          curl -siG \
+            -H "X-Api-Key: ${{ secrets.BUNNY_API_KEY }}" \
+            --data-urlencode "url=https://reference.aspose.com/${{ inputs.product_name }}" \
+            "https://api.dynabic.com/bn/purge?async=true"

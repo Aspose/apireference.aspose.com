@@ -1,0 +1,17 @@
+name: Build Tex Chinese Production
+
+on:
+  repository_dispatch:
+    types: [ build-tex-chinese-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-tex/Aspose.TeX-API-References"
+      product_name: "tex"
+      disable_languages: '["en","ru","ar","fr","de","it","es","sv","tr"]'
+      cf_path: "/tex/*"
+      theme_ref: "beta"
+    secrets: inherit

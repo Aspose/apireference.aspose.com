@@ -1,0 +1,16 @@
+name: Build Pdf Korean Stage (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-pdf-korean-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-pdf/Aspose.PDF-API-References"
+      product_name: "pdf"
+      disable_languages: '["en","ru","zh","ar","fr","de","id","it","ja","pt","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

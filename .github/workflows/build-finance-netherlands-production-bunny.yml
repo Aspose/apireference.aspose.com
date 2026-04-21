@@ -1,0 +1,16 @@
+name: Build Finance Netherlands Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-finance-netherlands-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-finance/Aspose.Finance-API-References"
+      product_name: "finance"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

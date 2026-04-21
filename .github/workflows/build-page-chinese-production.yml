@@ -1,0 +1,17 @@
+name: Build Page Chinese Production
+
+on:
+  repository_dispatch:
+    types: [ build-page-chinese-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-page/Aspose.Page-API-References"
+      product_name: "page"
+      disable_languages: '["en","ru","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/page/*"
+      theme_ref: "beta"
+    secrets: inherit

@@ -1,0 +1,16 @@
+name: Build 3d German Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-3d-german-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-3d/Aspose.3D-API-References"
+      product_name: "3d"
+      disable_languages: '["en","ru","zh","ar","fr","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

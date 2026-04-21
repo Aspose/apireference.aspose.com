@@ -1,0 +1,17 @@
+name: Build Words Arabic Production
+
+on:
+  repository_dispatch:
+    types: [ build-words-arabic-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-words/Aspose.Words-API-References"
+      product_name: "words"
+      disable_languages: '["en","ru","zh","fr","de","it","es","sv","tr"]'
+      cf_path: "/words/*"
+      theme_ref: "beta"
+    secrets: inherit

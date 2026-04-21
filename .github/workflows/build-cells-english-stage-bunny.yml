@@ -1,0 +1,16 @@
+name: Build Cells English Stage (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-cells-english-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-cells/Aspose.Cells-API-References"
+      product_name: "cells"
+      disable_languages: '["ru","zh","ar","fr","de","it","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

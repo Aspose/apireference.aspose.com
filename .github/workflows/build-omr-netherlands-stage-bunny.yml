@@ -1,0 +1,16 @@
+name: Build Omr Netherlands Stage (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-omr-netherlands-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-omr/Aspose.OMR-API-References"
+      product_name: "omr"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

@@ -1,0 +1,16 @@
+name: Build Drawing Swedish Stage (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-drawing-swedish-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-drawing/Aspose.Drawing-API-Reference"
+      product_name: "drawing"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

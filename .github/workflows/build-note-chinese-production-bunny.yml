@@ -1,0 +1,16 @@
+name: Build Note Chinese Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-note-chinese-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-note/Aspose.Note-API-References"
+      product_name: "note"
+      disable_languages: '["en","ru","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

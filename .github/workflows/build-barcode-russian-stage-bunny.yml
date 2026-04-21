@@ -1,0 +1,16 @@
+name: Build Barcode Russian Stage (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-barcode-russian-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-barcode/Aspose.BarCode-API-References"
+      product_name: "barcode"
+      disable_languages: '["en","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

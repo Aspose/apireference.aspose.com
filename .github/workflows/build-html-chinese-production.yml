@@ -1,0 +1,17 @@
+name: Build Html Chinese Production
+
+on:
+  repository_dispatch:
+    types: [ build-html-chinese-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-html/Aspose.HTML-API-References"
+      product_name: "html"
+      disable_languages: '["en","ru","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/html/*"
+      theme_ref: "beta"
+    secrets: inherit

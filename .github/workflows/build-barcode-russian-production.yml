@@ -1,0 +1,17 @@
+name: Build Barcode Russian Production
+
+on:
+  repository_dispatch:
+    types: [ build-barcode-russian-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-barcode/Aspose.BarCode-API-References"
+      product_name: "barcode"
+      disable_languages: '["en","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/barcode/ru/*"
+      theme_ref: "beta"
+    secrets: inherit

@@ -1,0 +1,16 @@
+name: Build Imaging Russian Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-imaging-russian-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-imaging/Aspose.Imaging-API-References"
+      product_name: "imaging"
+      disable_languages: '["en","zh","ar","fr","de","it","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

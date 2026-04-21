@@ -1,0 +1,16 @@
+name: Build Psd Japanese Stage (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-psd-japanese-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-psd/Aspose.PSD-API-References"
+      product_name: "psd"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ko","nl","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

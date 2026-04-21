@@ -1,0 +1,16 @@
+name: Build Page Spanish Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-page-spanish-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-page/Aspose.Page-API-References"
+      product_name: "page"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

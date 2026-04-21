@@ -1,0 +1,16 @@
+name: Build Email Chinese Stage (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-email-chinese-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-email/Aspose.Email-API-References"
+      product_name: "email"
+      disable_languages: '["en","ru"]'
+      theme_ref: "beta"
+    secrets: inherit

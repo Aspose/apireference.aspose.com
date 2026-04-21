@@ -1,0 +1,17 @@
+name: Build Psd English Production
+
+on:
+  repository_dispatch:
+    types: [ build-psd-english-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-psd/Aspose.PSD-API-References"
+      product_name: "psd"
+      disable_languages: '["ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/psd/*"
+      theme_ref: "beta"
+    secrets: inherit

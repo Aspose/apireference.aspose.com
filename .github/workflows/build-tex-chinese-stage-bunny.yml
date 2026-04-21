@@ -1,0 +1,16 @@
+name: Build Tex Chinese Stage (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-tex-chinese-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-tex/Aspose.TeX-API-References"
+      product_name: "tex"
+      disable_languages: '["en","ru","ar","fr","de","it","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

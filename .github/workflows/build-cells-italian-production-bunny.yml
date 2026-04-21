@@ -1,0 +1,16 @@
+name: Build Cells Italian Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-cells-italian-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-cells/Aspose.Cells-API-References"
+      product_name: "cells"
+      disable_languages: '["en","ru","zh","ar","fr","de","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

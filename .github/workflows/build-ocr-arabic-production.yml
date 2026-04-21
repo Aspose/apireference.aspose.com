@@ -1,0 +1,17 @@
+name: Build Ocr Arabic Production
+
+on:
+  repository_dispatch:
+    types: [ build-ocr-arabic-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-ocr/Aspose.OCR-API-References"
+      product_name: "ocr"
+      disable_languages: '["en","ru","zh","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/ocr/*"
+      theme_ref: "beta"
+    secrets: inherit

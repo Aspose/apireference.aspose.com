@@ -1,0 +1,17 @@
+name: Build Svg French Production
+
+on:
+  repository_dispatch:
+    types: [ build-svg-french-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-svg/Aspose.SVG-API-References"
+      product_name: "svg"
+      disable_languages: '["en","ru","zh","ar","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
+      cf_path: "/svg/*"
+      theme_ref: "beta"
+    secrets: inherit

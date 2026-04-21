@@ -1,0 +1,16 @@
+name: Build Html Japanese Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-html-japanese-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-html/Aspose.HTML-API-References"
+      product_name: "html"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ko","nl","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

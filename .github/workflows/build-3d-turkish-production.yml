@@ -1,0 +1,17 @@
+name: Build 3d Turkish Production
+
+on:
+  repository_dispatch:
+    types: [ build-3d-turkish-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-3d/Aspose.3D-API-References"
+      product_name: "3d"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv"]'
+      cf_path: "/3d/tr/*"
+      theme_ref: "beta"
+    secrets: inherit

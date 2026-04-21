@@ -1,0 +1,17 @@
+name: Build Font English Production
+
+on:
+  repository_dispatch:
+    types: [ build-font-english-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-font/Aspose.Font-API-References"
+      product_name: "font"
+      disable_languages: '["ru","zh","ar","fr","de","it","es","sv","tr"]'
+      cf_path: "/font/*"
+      theme_ref: "beta"
+    secrets: inherit

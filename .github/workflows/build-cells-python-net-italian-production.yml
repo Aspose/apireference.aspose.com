@@ -1,0 +1,17 @@
+name: Build Cells-python-net Italian Production
+
+on:
+  repository_dispatch:
+    types: [ build-cells-python-net-italian-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-cells/Aspose.Cells-Python-NET-API-References"
+      product_name: "cells-python-net"
+      disable_languages: '["en","ru","zh","ar","fr","de","es","sv","tr"]'
+      cf_path: "/cells/python-net/it/*"
+      theme_ref: "beta"
+    secrets: inherit

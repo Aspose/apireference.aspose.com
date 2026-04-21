@@ -1,0 +1,17 @@
+name: Build Font Spanish Production
+
+on:
+  repository_dispatch:
+    types: [ build-font-spanish-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-font/Aspose.Font-API-References"
+      product_name: "font"
+      disable_languages: '["en","ru","zh","ar","fr","de","it","sv","tr"]'
+      cf_path: "/font/es/*"
+      theme_ref: "beta"
+    secrets: inherit

@@ -1,0 +1,16 @@
+name: Build Tasks Swedish Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-tasks-swedish-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-tasks/Aspose.Tasks-API-References"
+      product_name: "tasks"
+      disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

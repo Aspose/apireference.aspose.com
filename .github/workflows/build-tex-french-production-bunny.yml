@@ -1,0 +1,16 @@
+name: Build Tex French Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-tex-french-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-tex/Aspose.TeX-API-References"
+      product_name: "tex"
+      disable_languages: '["en","ru","zh","ar","de","it","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

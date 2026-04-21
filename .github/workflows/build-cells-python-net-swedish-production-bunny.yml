@@ -1,0 +1,16 @@
+name: Build Cells-python-net Swedish Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-cells-python-net-swedish-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-cells/Aspose.Cells-Python-NET-API-References"
+      product_name: "cells-python-net"
+      disable_languages: '["en","ru","zh","ar","fr","de","it","es","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

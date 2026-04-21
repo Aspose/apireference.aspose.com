@@ -1,0 +1,16 @@
+name: Build Cells-python-net Chinese Stage (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-cells-python-net-chinese-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-cells/Aspose.Cells-Python-NET-API-References"
+      product_name: "cells-python-net"
+      disable_languages: '["en","ru","ar","fr","de","it","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

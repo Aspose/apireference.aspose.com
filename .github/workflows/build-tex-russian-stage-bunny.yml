@@ -1,0 +1,16 @@
+name: Build Tex Russian Stage (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-tex-russian-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-tex/Aspose.TeX-API-References"
+      product_name: "tex"
+      disable_languages: '["en","zh","ar","fr","de","it","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit

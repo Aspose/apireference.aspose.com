@@ -1,0 +1,16 @@
+name: Build Pdf French Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-pdf-french-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-pdf/Aspose.PDF-API-References"
+      product_name: "pdf"
+      disable_languages: '["en","ru","zh","ar","de","id","it","ja","ko","pt","es","sv","tr"]'
+      theme_ref: "beta"
+    secrets: inherit
