@@ -42,6 +42,7 @@ Main class for recognize text from images.
 | [DetectDocumentLayout(OcrInput input)](#DetectDocumentLayout-com.aspose.ocr.OcrInput) | Analyzes the image and identifies the different types of content areas within it. |
 | [DetectLanguages(OcrInput input)](#DetectLanguages-com.aspose.ocr.OcrInput) | Analyzes the text on the image to determine the languages it is written in. |
 | [DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas)](#DetectRectangles-com.aspose.ocr.OcrInput-com.aspose.ocr.models.AreasType-boolean) | Detects text areas on images. |
+| [DetectTables(OcrInput images)](#DetectTables-com.aspose.ocr.OcrInput) | Detects table regions on images. |
 | [ImageHasText(String fullPath, String text)](#ImageHasText-java.lang.String-java.lang.String) | Check if the image contains the provided text fragment with a case-insensitive search. |
 | [ImageHasText(String fullPath, String text, RecognitionSettings settings)](#ImageHasText-java.lang.String-java.lang.String-com.aspose.ocr.RecognitionSettings) | Check if the image contains the provided text fragment with a case-insensitive search. |
 | [ImageHasText(String fullPath, String text, RecognitionSettings settings, boolean ignoreCase)](#ImageHasText-java.lang.String-java.lang.String-com.aspose.ocr.RecognitionSettings-boolean) | Check if the image contains the provided text fragment. |
@@ -258,6 +259,21 @@ Detects text areas on images. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, P
 
 **Returns:**
 java.util.ArrayList<com.aspose.ocr.RectangleOutput> - ArrayList of [RectangleOutput](../../com.aspose.ocr/rectangleoutput/) with detected text areas or lines.
+### DetectTables(OcrInput images) {#DetectTables-com.aspose.ocr.OcrInput}
+```
+public ArrayList<RectangleOutput> DetectTables(OcrInput images)
+```
+
+
+Detects table regions on images. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| images | [OcrInput](../../com.aspose.ocr/ocrinput/) | The container with sources.[OcrInput](../../com.aspose.ocr/ocrinput/) |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.RectangleOutput> - ArrayList of [RectangleOutput](../../com.aspose.ocr/rectangleoutput/) with detected table areas.
 ### ImageHasText(String fullPath, String text) {#ImageHasText-java.lang.String-java.lang.String}
 ```
 public boolean ImageHasText(String fullPath, String text)
