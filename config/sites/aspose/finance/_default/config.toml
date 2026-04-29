@@ -5,6 +5,7 @@ staticdir = 'content/sites/aspose/finance/static'
 enableRobotsTXT = true
 enableGitInfo = true
 disableKinds = ["taxonomy", "taxonomyTerm", "page", "RSS"]
+timeout = 60000
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
 theme = ["api-theme"]
