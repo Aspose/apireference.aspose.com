@@ -71,8 +71,8 @@ jobs:
 
       - name: Configure language
         run: |
-          echo 'enableGitInfo = false' >> config/sites/aspose/${{ inputs.product_name }}/staging/config.toml
-          echo 'disableLanguages = ${{ inputs.disable_languages }}' >> config/sites/aspose/${{ inputs.product_name }}/staging/config.toml
+          CONFIG="config/sites/aspose/${{ inputs.product_name }}/staging/config.toml"
+          { printf 'enableGitInfo = false\ndisableLanguages = ${{ inputs.disable_languages }}\n'; cat "$CONFIG"; } > "${CONFIG}.tmp" && mv "${CONFIG}.tmp" "$CONFIG"
 
       - name: Build
         run: hugo --configDir config/sites/aspose/${{ inputs.product_name }} --environment staging --minify
