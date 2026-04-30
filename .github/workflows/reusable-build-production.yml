@@ -75,11 +75,9 @@ jobs:
       - name: Configure language
         run: |
           CONFIG="config/sites/aspose/${{ inputs.product_name }}/production/config.toml"
-          ALL=$(grep -oP '\[languages\.\K[a-z-]+' "config/sites/aspose/${{ inputs.product_name }}/_default/config.toml" | sort -u)
           DISABLE_LANGS='${{ inputs.disable_languages }}'
-          DISABLED=$(echo "$DISABLE_LANGS" | tr -d '[]"' | tr ',' '\n' | sed 's/^[[:space:]]*//' | sort -u)
-          TARGET=$(comm -23 <(echo "$ALL") <(echo "$DISABLED"))
-          { echo "enableGitInfo = false"; echo "defaultContentLanguage = '${TARGET}'"; echo "disableLanguages = ${DISABLE_LANGS}"; cat "$CONFIG"; } > "${CONFIG}.tmp" && mv "${CONFIG}.tmp" "$CONFIG"
+          DISABLE_LANGS_CLEAN=$(echo "$DISABLE_LANGS" | tr -d '[]"' | tr ',' '\n' | sed 's/^[[:space:]]*//' | grep -v '^en$' | grep -v '^$' | sed 's/.*/"\&"/' | tr '\n' ',' | sed 's/,$//' | sed 's/^/[/' | sed 's/$/]/')
+          { echo "enableGitInfo = false"; echo "disableLanguages = ${DISABLE_LANGS_CLEAN}"; cat "$CONFIG"; } > "${CONFIG}.tmp" && mv "${CONFIG}.tmp" "$CONFIG"
 
       - name: Build
         run: hugo --configDir config/sites/aspose/${{ inputs.product_name }} --environment production --minify
