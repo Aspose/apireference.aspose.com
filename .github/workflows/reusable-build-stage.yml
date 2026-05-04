@@ -74,10 +74,10 @@ jobs:
 
       - name: Configure language
         run: |
-          CONFIG="config/sites/aspose/${{ inputs.product_name }}/staging/config.toml"
+          DEFAULT="config/sites/aspose/${{ inputs.product_name }}/_default/config.toml"
           DISABLE_LANGS='${{ inputs.disable_languages }}'
           DISABLE_LANGS_CLEAN=$(echo "$DISABLE_LANGS" | tr -d '[]"' | tr ',' '\n' | sed 's/^[[:space:]]*//' | grep -v '^en$' | grep -v '^$' | sed 's/.*/"\&"/' | tr '\n' ',' | sed 's/,$//' | sed 's/^/[/' | sed 's/$/]/')
-          { echo "enableGitInfo = false"; echo "disableLanguages = ${DISABLE_LANGS_CLEAN}"; cat "$CONFIG"; } > "${CONFIG}.tmp" && mv "${CONFIG}.tmp" "$CONFIG"
+          { echo "enableGitInfo = false"; echo "disableLanguages = ${DISABLE_LANGS_CLEAN}"; cat "$DEFAULT"; } > "${DEFAULT}.tmp" && mv "${DEFAULT}.tmp" "$DEFAULT"
 
       - name: Build
         run: hugo --configDir config/sites/aspose/${{ inputs.product_name }} --environment staging --minify
