@@ -79,7 +79,7 @@ jobs:
           DISABLE_LANGS='${{ inputs.disable_languages }}'
           ALL_LANGS_TOML=$(grep '\[languages\.' "$DEFAULT" | sed 's/.*\[languages\.\([a-z-]*\)\].*/\1/' | grep -v '^$' | awk '{printf "\"%s\",", $1}' | sed 's/,$//' | sed 's/^/[/' | sed 's/$/]/')
           LANG_ENTRIES=$(echo "$DISABLE_LANGS" | tr -d '[]"' | tr ',' '\n' | sed 's/^[[:space:]]*//' | grep -v '^en$' | grep -v '^$' | awk '{printf "[languages.%s]\ndisabled = true\n\n", $1}')
-          { echo "enableGitInfo = false"; echo ""; echo "[params]"; echo "  allLangCodes = ${ALL_LANGS_TOML}"; echo ""; printf '%s\n' "$LANG_ENTRIES"; cat "$PRODUCTION"; } > "${PRODUCTION}.tmp" && mv "${PRODUCTION}.tmp" "$PRODUCTION"
+          { echo "enableGitInfo = false"; echo "defaultContentLanguage = \"en\""; echo "defaultContentLanguageInSubdir = false"; echo ""; echo "[params]"; echo "  allLangCodes = ${ALL_LANGS_TOML}"; echo ""; printf '%s\n' "$LANG_ENTRIES"; cat "$PRODUCTION"; } > "${PRODUCTION}.tmp" && mv "${PRODUCTION}.tmp" "$PRODUCTION"
 
       - name: Build
         run: hugo --configDir config/sites/aspose/${{ inputs.product_name }} --environment production --minify
