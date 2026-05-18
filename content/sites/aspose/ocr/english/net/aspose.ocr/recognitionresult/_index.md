@@ -14,6 +14,12 @@ The results of the image recognition. Contains elements with recognition informa
 public class RecognitionResult
 ```
 
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [RecognitionResult](recognitionresult)() | Initializes a new instance of the [`RecognitionResult`](../recognitionresult) class. |
+
 ## Properties
 
 | Name | Description |
@@ -22,7 +28,9 @@ public class RecognitionResult
 | [Image](../../aspose.ocr/recognitionresult/image) { get; set; } | Gets or sets image for pdf creation. |
 | [RecognitionCharactersList](../../aspose.ocr/recognitionresult/recognitioncharacterslist) { get; } | A set of characters found by the recognition algorithm and arranged in descending order of probability. |
 | [RecognitionLinesResult](../../aspose.ocr/recognitionresult/recognitionlinesresult) { get; } | Gets a list of recognition results with a list of rows (Rectangles). |
+| [RecognitionRegionsResult](../../aspose.ocr/recognitionresult/recognitionregionsresult) { get; } | Gets a list of recognition results with a list of regions (Rectangles). |
 | [RecognitionText](../../aspose.ocr/recognitionresult/recognitiontext) { get; set; } | Gets recognition result in one string. |
+| [SerializableImage](../../aspose.ocr/recognitionresult/serializableimage) { get; set; } | Serialized image payload used for RecognitionResult JSON/binary serialization. Stores the same image data as [`Image`](./image), but in one-dimensional form. |
 | [Warnings](../../aspose.ocr/recognitionresult/warnings) { get; } | Gets list of the warning messages describing non-critical faults appeared during generation. |
 
 ## Methods
@@ -45,6 +53,7 @@ public class RecognitionResult
 | Name | Description |
 | --- | --- |
 | class [LinesResult](recognitionresult.linesresult) | Recognized text from row with row coordinates. |
+| class [RegionResult](recognitionresult.regionresult) | Recognized text from region with region coordinates. |
 
 ### See Also
 

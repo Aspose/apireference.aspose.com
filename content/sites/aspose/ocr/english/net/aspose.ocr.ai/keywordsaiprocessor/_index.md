@@ -3,7 +3,7 @@ title: KeywordsAIProcessor
 second_title: Aspose.OCR for .NET API Reference
 description: AI post-processor that analyzes OCR results and extracts keywords and values.
 type: docs
-weight: 590
+weight: 600
 url: /net/aspose.ocr.ai/keywordsaiprocessor/
 ---
 ## KeywordsAIProcessor class

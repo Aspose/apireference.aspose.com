@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Aspose.OCR for .NET API Reference
-description: Gets or sets the x-coordinate of the left edge of this Aspose.OCR..Rectangle structure.
+description: Gets or sets the x-coordinate of the left edge of this Rectangleaspose.ocr/rectangle structure.
 type: docs
 weight: 50
 url: /net/aspose.ocr/rectangle/left/
 ---
 ## Rectangle.Left property
 
-Gets or sets the x-coordinate of the left edge of this !:Aspose.OCR..Rectangle structure.
+Gets or sets the x-coordinate of the left edge of this [`Rectangle`](../../rectangle) structure.
 
 ```csharp
 public int Left { get; set; }

@@ -3,7 +3,7 @@ title: OCRTablePage
 second_title: Aspose.OCR for .NET API Reference
 description: Represents structured table data for the entire OCR documents page.
 type: docs
-weight: 450
+weight: 460
 url: /net/aspose.ocr/ocrtablepage/
 ---
 ## OCRTablePage class

@@ -3,7 +3,7 @@ title: FileName
 second_title: Aspose.OCR for .NET API Reference
 description: Full path to the file.
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.ocr/recognitionresult/filename/
 ---
 ## RecognitionResult.FileName property
