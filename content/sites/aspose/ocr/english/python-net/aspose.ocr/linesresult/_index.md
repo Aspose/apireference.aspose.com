@@ -1,5 +1,5 @@
 ---
-title: RecognitionResult
+title: LinesResult
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs

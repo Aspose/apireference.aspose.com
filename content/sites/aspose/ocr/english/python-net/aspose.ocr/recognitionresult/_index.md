@@ -17,7 +17,7 @@ The RecognitionResult type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
-|recognition_regions_result|  |
+|recognition_regions_result| Gets a list of recognition results with a list of regions (Rectangles). |
 |recognition_lines_result|Gets a list of recognition results with a list of rows (Rectangles).|
 |recognition_characters_list|A set of characters found by the recognition algorithm and arranged in descending order of probability.|
 |recognition_text|Gets recognition result in one string.|
