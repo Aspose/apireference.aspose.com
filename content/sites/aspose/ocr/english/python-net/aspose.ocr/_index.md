@@ -62,4 +62,5 @@ Contains tools for image recognition, skew correction, text areas detection and 
 |[LoggingLevel](/ocr/python-net/aspose.ocr/logginglevel/)|Defines the type of logs to display.|
 |[PdfOptimizationMode](/ocr/python-net/aspose.ocr/pdfoptimizationmode/)|Significantly reduce the PDF file size at the expense of lower image quality.|
 |[PixelType](/ocr/python-net/aspose.ocr/pixeltype/)|Determines the type of the pixel data for image recognition.|
+|[RegionTypes](/ocr/python-net/aspose.ocr/regiontypes/)||
 |[SaveFormat](/ocr/python-net/aspose.ocr/saveformat/)|For recognition result saving|

@@ -3,7 +3,7 @@ title: InputType
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 550
+weight: 570
 url: /python-net/aspose.ocr/inputtype/
 ---
 

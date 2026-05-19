@@ -1,22 +1,27 @@
 ---
-title: LanguageDetectionLevel
+title: RegionTypes
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 590
-url: /python-net/aspose.ocr/languagedetectionlevel/
+weight: 630
+url: /python-net/aspose.ocr/regiontypes/
 ---
 
-## LanguageDetectionLevel enumeration
+## RegionTypes enumeration
 
 
 
 ## Members
 | Member name | Description |
 | :- | :- |
-|BY_PAGE||
-|BY_PARAGRAPH||
-|BY_WORD||
+|PARAGRAPH||
+|IMAGE||
+|HEADER||
+|TABLE||
+|LIST||
+|CAPTION||
+|EQUATION||
+|LINE||
 
 ### See Also
 

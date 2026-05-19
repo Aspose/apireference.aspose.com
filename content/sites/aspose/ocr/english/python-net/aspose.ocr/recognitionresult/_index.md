@@ -12,14 +12,18 @@ url: /python-net/aspose.ocr/recognitionresult/
 The results of the image recognition.<br/>            Contains elements with recognition information and methods for result export.
 
 The RecognitionResult type exposes the following members:
+
+
 ## Properties
 | Name | Description |
 | :- | :- |
+|recognition_regions_result|  |
 |recognition_lines_result|Gets a list of recognition results with a list of rows (Rectangles).|
 |recognition_characters_list|A set of characters found by the recognition algorithm and arranged in descending order of probability.|
 |recognition_text|Gets recognition result in one string.|
 |file_name|Full path to the file.|
 |warnings|Gets list of the warning messages describing non-critical faults appeared during generation.|
+|serializable_image|  |
 ## Methods
 | Name | Description |
 | :- | :- |
