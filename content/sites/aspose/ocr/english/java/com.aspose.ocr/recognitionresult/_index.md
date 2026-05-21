@@ -26,6 +26,7 @@ The results of the image recognition. Contains elements with recognition informa
 | [language](#language) | The language of the recognized text in the image. |
 | [recognitionCharactersList](#recognitionCharactersList) | A set of characters found by the recognition algorithm and arranged in descending order of probability. |
 | [recognitionLinesResult](#recognitionLinesResult) | Gets a list of recognition results with a list of rows (Rectangles). |
+| [recognitionRegionsResult](#recognitionRegionsResult) | Gets a list of recognition results with a list of regions (Rectangles). |
 | [recognitionText](#recognitionText) | Recognition result of all page or one area. |
 | [warnings](#warnings) | Gets or sets list of the warnings messages describing non-critical faults appeared during generation. |
 ## Methods
@@ -47,7 +48,6 @@ The results of the image recognition. Contains elements with recognition informa
 | [saveSpellCheckCorrectedText(String fullFileName, Format format, SpellCheck.SpellCheckLanguage language)](#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.models.Format-com.aspose.ocr.SpellCheck.SpellCheckLanguage) | Saves the corrected text in the document in the plain text or other format. |
 | [toString()](#toString) |  |
 | [useUserDictionary(String dictionaryPath)](#useUserDictionary-java.lang.String) | Allows to use own dictionary for spell-check correction. |
-
 ### RecognitionResult() {#RecognitionResult}
 ```
 public RecognitionResult()
@@ -79,6 +79,14 @@ public ArrayList<RecognitionResult.LinesResult> recognitionLinesResult
 
 
 Gets a list of recognition results with a list of rows (Rectangles).
+
+### recognitionRegionsResult {#recognitionRegionsResult}
+```
+public ArrayList<RecognitionResult.RegionResult> recognitionRegionsResult
+```
+
+
+Gets a list of recognition results with a list of regions (Rectangles).
 
 ### recognitionText {#recognitionText}
 ```

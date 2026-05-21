@@ -29,6 +29,7 @@ url: /java/com.aspose.ocr/
 | [ReceiptRecognitionSettings](../com.aspose.ocr/receiptrecognitionsettings/) | Settings for the receipt recognition Contains elements that allow customizing the recognition process |
 | [RecognitionResult](../com.aspose.ocr/recognitionresult/) | The results of the image recognition. |
 | [RecognitionResult.LinesResult](../com.aspose.ocr/recognitionresult.linesresult/) |  |
+| [RecognitionResult.RegionResult](../com.aspose.ocr/recognitionresult.regionresult/) | Recognized text from region with region coordinates. |
 | [RecognitionSettings](../com.aspose.ocr/recognitionsettings/) | Settings for the image recognition. |
 | [RectangleOutput](../com.aspose.ocr/rectangleoutput/) | Data about detected text areas or lines. |
 | [Resources](../com.aspose.ocr/resources/) | Manage downloadable resources that enhance Aspose.OCR recognition capabilities. |
