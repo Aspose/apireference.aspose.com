@@ -14,6 +14,7 @@ url: /net/aspose.medical.imaging/
 | Class | Description |
 | --- | --- |
 | [RawImage](./rawimage) | A raw BGRA 32 bit (8-bit unsigned normalized values ranging from 0 to 255) image. The color components are stored in blue, green, red, and alpha order (least significant to most significant byte). |
+| [RawImageExtension](./rawimageextension) | Provides extension methods for saving [`IRawImage`](../aspose.medical.imaging/irawimage) instances. |
 ## Interfaces
 
 | Interface | Description |

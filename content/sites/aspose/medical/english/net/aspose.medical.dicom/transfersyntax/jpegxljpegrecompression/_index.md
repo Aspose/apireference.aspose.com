@@ -15,6 +15,10 @@ JPEG XL JPEG Recompression (1.2.840.10008.1.2.4.111).
 public static readonly TransferSyntax JpegXLJpegRecompression;
 ```
 
+### Remarks
+
+This transfer syntax stores a lossily-encoded JPEG bitstream re-packaged as JPEG XL. The lossy step is the original JPEG (ISO/IEC 10918-1), not JPEG XL itself.
+
 ### See Also
 
 * class [TransferSyntax](../../transfersyntax)

@@ -27,6 +27,7 @@ public enum LossyCompressionMethods
 | ISO_14496_10 | `5` | ISO_14496_10. |
 | ISO_23008_2 | `6` | ISO_23008_2. |
 | ISO_15444_15 | `7` | ISO_15444_15. |
+| ISO_18181_1 | `8` | ISO_18181_1. |
 
 ### See Also
 
