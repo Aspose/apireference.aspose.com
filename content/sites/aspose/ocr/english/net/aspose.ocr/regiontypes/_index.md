@@ -3,7 +3,7 @@ title: RegionTypes
 second_title: Aspose.OCR for .NET API Reference
 description: Region types detected by the layout/region detection model.
 type: docs
-weight: 150
+weight: 320
 url: /net/aspose.ocr/regiontypes/
 ---
 ## RegionTypes enumeration

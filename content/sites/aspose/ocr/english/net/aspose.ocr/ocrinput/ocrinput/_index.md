@@ -6,12 +6,12 @@ type: docs
 weight: 10
 url: /net/aspose.ocr/ocrinput/ocrinput/
 ---
-## OcrInput constructor
+## OcrInput(InputType, PreprocessingFilter) {#constructor_1}
 
 Constructor to create container and set the type of images/documents and filters for further preprocessing / recognition.
 
 ```csharp
-public OcrInput(InputType type, PreprocessingFilter filters = null)
+public OcrInput(InputType type, PreprocessingFilter filters)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,27 @@ public OcrInput(InputType type, PreprocessingFilter filters = null)
 
 * enum [InputType](../../inputtype)
 * class [PreprocessingFilter](../../../aspose.ocr.models.preprocessingfilters/preprocessingfilter)
+* class [OcrInput](../../ocrinput)
+* namespace [Aspose.OCR](../../ocrinput)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## OcrInput(InputType) {#constructor}
+
+Constructor to create container and set the type of images/documents and filters for further preprocessing / recognition.
+
+```csharp
+public OcrInput(InputType type)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type | InputType | Set the images/documents type will be added to container. |
+
+### See Also
+
+* enum [InputType](../../inputtype)
 * class [OcrInput](../../ocrinput)
 * namespace [Aspose.OCR](../../ocrinput)
 * assembly [Aspose.OCR](../../../)

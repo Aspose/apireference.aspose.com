@@ -11,16 +11,16 @@ url: /net/aspose.ocr/recognitionresult/getkeywords/
 Get keywords from pasport (Test mode. Works only for USA and MADAGASCAR passports).
 
 ```csharp
-public Dictionary<string, LinesResult> GetKeywords()
+public List<Keyword> GetKeywords()
 ```
 
 ### Return Value
 
-Dictionary with keyword as a key and LinesResult as a value.
+List with keyword as a key and LinesResult as a value.
 
 ### See Also
 
-* class [LinesResult](../../recognitionresult.linesresult)
+* class [Keyword](../../recognitionresult.keyword)
 * class [RecognitionResult](../../recognitionresult)
 * namespace [Aspose.OCR](../../recognitionresult)
 * assembly [Aspose.OCR](../../../)

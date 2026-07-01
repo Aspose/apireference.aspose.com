@@ -3,7 +3,7 @@ title: RecognitionResult.RegionResult
 second_title: Aspose.OCR for .NET API Reference
 description: Recognized text from region with region coordinates.
 type: docs
-weight: 660
+weight: 700
 url: /net/aspose.ocr/recognitionresult.regionresult/
 ---
 ## RecognitionResult.RegionResult class

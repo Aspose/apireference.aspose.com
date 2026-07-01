@@ -3,7 +3,7 @@ title: DetectTables
 second_title: Aspose.OCR for .NET API Reference
 description: Detects table regions on images. Supports GIF PNG JPEG BMP TIFF JFIF stream folder arrays archives.
 type: docs
-weight: 100
+weight: 120
 url: /net/aspose.ocr/asposeocr/detecttables/
 ---
 ## AsposeOcr.DetectTables method

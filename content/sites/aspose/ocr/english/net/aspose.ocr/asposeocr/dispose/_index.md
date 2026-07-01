@@ -3,7 +3,7 @@ title: Dispose
 second_title: Aspose.OCR for .NET API Reference
 description: Clear resources for recognition.
 type: docs
-weight: 110
+weight: 130
 url: /net/aspose.ocr/asposeocr/dispose/
 ---
 ## AsposeOcr.Dispose method

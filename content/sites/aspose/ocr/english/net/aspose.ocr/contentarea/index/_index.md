@@ -3,7 +3,7 @@ title: index
 second_title: Aspose.OCR for .NET API Reference
 description: The sequential index of the content area unique within the image.
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.ocr/contentarea/index/
 ---
 ## ContentArea.index field

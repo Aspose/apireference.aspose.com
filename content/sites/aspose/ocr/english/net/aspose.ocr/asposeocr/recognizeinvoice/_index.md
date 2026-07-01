@@ -3,7 +3,7 @@ title: RecognizeInvoice
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on invoices.
 type: docs
-weight: 220
+weight: 240
 url: /net/aspose.ocr/asposeocr/recognizeinvoice/
 ---
 ## RecognizeInvoice(OcrInput) {#recognizeinvoice}

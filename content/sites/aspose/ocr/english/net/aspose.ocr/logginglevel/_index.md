@@ -3,7 +3,7 @@ title: LoggingLevel
 second_title: Aspose.OCR for .NET API Reference
 description: Defines the type of logs to display.
 type: docs
-weight: 220
+weight: 390
 url: /net/aspose.ocr/logginglevel/
 ---
 ## LoggingLevel enumeration
@@ -22,6 +22,7 @@ public enum LoggingLevel
 | Warning | `1` | Some not critical points and all errors will be displayed. |
 | Error | `2` | Only errors will be displayed. |
 | None | `3` | Disable logging (default). |
+| TrackNativeResources | `4` | All logs will be displayed including native debug logs. |
 
 ### See Also
 

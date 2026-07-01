@@ -3,7 +3,7 @@ title: RecognitionResult.Keyword
 second_title: Aspose.OCR for .NET API Reference
 description: KeyValuePair for passport keyword.
 type: docs
-weight: 190
+weight: 710
 url: /net/aspose.ocr/recognitionresult.keyword/
 ---
 ## RecognitionResult.Keyword class
