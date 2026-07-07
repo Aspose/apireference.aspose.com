@@ -3,13 +3,13 @@ title: OCRTable
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /python-net/aspose.ocr/ocrtable/
 ---
 
 ## OCRTable class
 
-
+Represents one table with recognized tabular data.
 
 The OCRTable type exposes the following members:
 ## Constructors
@@ -19,8 +19,8 @@ The OCRTable type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
-|table_index|  |
-|rows|  |
+|table_index|Zero-based index of the table in the OCR document's page.|
+|rows|Collection of recognized table rows.|
 
 ### See Also
 

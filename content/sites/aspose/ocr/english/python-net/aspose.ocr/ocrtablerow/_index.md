@@ -3,13 +3,13 @@ title: OCRTableRow
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /python-net/aspose.ocr/ocrtablerow/
 ---
 
 ## OCRTableRow class
 
-
+Represents a single row within a recognized table.
 
 The OCRTableRow type exposes the following members:
 ## Constructors
@@ -19,8 +19,8 @@ The OCRTableRow type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
-|row_index|  |
-|cells|  |
+|row_index|Zero-based index of the row within the table.|
+|cells|List of recognized cells within this row.|
 
 ### See Also
 

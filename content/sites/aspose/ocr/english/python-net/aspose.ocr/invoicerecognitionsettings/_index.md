@@ -3,7 +3,7 @@ title: InvoiceRecognitionSettings
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /python-net/aspose.ocr/invoicerecognitionsettings/
 ---
 
@@ -16,11 +16,11 @@ The InvoiceRecognitionSettings type exposes the following members:
 | Name | Description |
 | :- | :- |
 |InvoiceRecognitionSettings(language)|Initializes a new instance of the InvoiceRecognitionSettings class|
-|InvoiceRecognitionSettings()|Initializes a new instance of the|
+|InvoiceRecognitionSettings()|Initializes a new instance of the [InvoiceRecognitionSettings](/ocr/python-net/aspose.ocr/invoicerecognitionsettings/) class with default set of properties.|
 ## Properties
 | Name | Description |
 | :- | :- |
-|recognize_vertical_lines|  |
+|recognize_vertical_lines|Gets or sets a value indicating whether vertical text lines should be detected <br/>            and recognized in addition to horizontal ones.<br/>            Default is|
 |threads_count|Gets or sets the number fo threads for processing.|
 |language|Gets or sets the language used for OCR.|
 |ignored_symbols|Sets blacklist for recognition symbols.|

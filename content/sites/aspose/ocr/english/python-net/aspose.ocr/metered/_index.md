@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /python-net/aspose.ocr/metered/
 ---
 
@@ -15,7 +15,7 @@ The Metered type exposes the following members:
 ## Constructors
 | Name | Description |
 | :- | :- |
-|Metered()|Initializes a new instance of this class.|
+|Metered()|Initializes a new instance of the Metered class|
 ## Methods
 | Name | Description |
 | :- | :- |

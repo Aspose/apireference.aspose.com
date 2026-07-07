@@ -3,7 +3,7 @@ title: ReceiptRecognitionSettings
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /python-net/aspose.ocr/receiptrecognitionsettings/
 ---
 
@@ -16,11 +16,11 @@ The ReceiptRecognitionSettings type exposes the following members:
 | Name | Description |
 | :- | :- |
 |ReceiptRecognitionSettings(language)|Initializes a new instance of the ReceiptRecognitionSettings class|
-|ReceiptRecognitionSettings()|Initializes a new instance of the|
+|ReceiptRecognitionSettings()|Initializes a new instance of the [ReceiptRecognitionSettings](/ocr/python-net/aspose.ocr/receiptrecognitionsettings/) class with default set of properties.|
 ## Properties
 | Name | Description |
 | :- | :- |
-|recognize_vertical_lines|  |
+|recognize_vertical_lines|Gets or sets a value indicating whether vertical text lines should be detected <br/>            and recognized in addition to horizontal ones.<br/>            Default is|
 |threads_count|Gets or sets the number fo threads for processing.|
 |language|Gets or sets the language used for OCR.|
 |ignored_symbols|Sets blacklist for recognition symbols.|

@@ -19,13 +19,13 @@ The AsposeOcr type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
-|set_debug_mode|  |
-|set_debug_mode_save_directory|  |
+|set_debug_mode|Enables debug mode.<br/>            When enabled, the system saves intermediate image processing results<br/>            such as preprocessed images and images with drawn text-line rectangles.|
+|set_debug_mode_save_directory|Directory where debug results will be saved.<br/>            If not set, the current working directory will be used by default.|
 ## Methods
 | Name | Description |
 | :- | :- |
 |recognize(images)|Recognizes text on images / documents.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.|
-|recognize(images, preset)|  |
+|recognize(images, preset)|Recognizes text from the given OCR input using a predefined preset configuration.|
 |recognize(images, settings)|Recognizes text on images / documents.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.|
 |recognize_receipt(images)|Recognizes text on receipts.|
 |recognize_receipt(images, settings)|Recognizes text on receipts.|
@@ -55,14 +55,16 @@ The AsposeOcr type exposes the following members:
 |save_multipage_document(stream, save_format, results, apply_spelling_correction, language, dictionary_path, embedded_font_path, optimize_pdf)|  |
 |recognize_fast(images)|Recognizes text on images / documents.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.|
 |recognize_handwritten_text(images)|Recognizes handwritten text on images.|
-|detect_document_layout(images)|  |
-|recognize_formula(images, detect_areas)|  |
-|recognize_formula_ai(images)|  |
-|recognize_tables(images, language)|  |
-|detect_tables(images)|  |
+|detect_document_layout(images)|Analyzes the image and identifies the different types of content areas within it.<br/>            Supports PNG, JPEG, BMP, TIFF, JFIF, and GIF images from files, streams, and pixel arrays. Can bulk process folders and archives.|
+|detect_document_type(images)|Analyzes the image and identifies it's type.<br/>            Supports PNG, JPEG, BMP, TIFF, JFIF, and GIF images from files, streams, and pixel arrays. Can bulk process folders and archives.|
+|detect_document_type_ai(images)|Analyzes the image using AI and identifies its document type.<br/>            Supports PNG, JPEG, BMP, TIFF, JFIF, and GIF images from files, streams, and pixel arrays.<br/>            Can bulk process folders and archives.|
+|recognize_formula(images, detect_areas)|Recognizes mathematical formulas from the provided input images.|
+|recognize_formula_ai(images)|Recognizes mathematical formulas from the provided input images using AI.|
+|recognize_tables(images, language)|Detect tables and structure, recognizes text cells.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.|
+|detect_tables(images)|Detects table regions on images.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.|
 |calculate_skew(images)|Calculates the skew angles of an images.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.|
 |detect_defects(images, defect_type)|Automatically find problematic areas of an image that can significantly impact the accuracy of OCR.<br/>            Supports PNG, JPEG, BMP, TIFF, JFIF, and GIF images provided as a file, stream, or pixel array. Supports bulk recognition.|
-|detect_languages(images)|  |
+|detect_languages(images)|Analyzes the text on the image to determine the languages it is written in.<br/>            This allows to select the most suitable recognition language and helps in further text processing tasks such as spellchecking or translation.|
 |image_has_text(full_path, text, settings, ignore_case, auto_skew)|Check if the image contains the provided text fragment.|
 |compare_image_texts(full_path1, full_path2, settings, ignore_case)|Check if two images contain the same text.|
 |image_text_diff(full_path1, full_path2, settings, ignore_case, auto_skew)|Compare the texts on the two images and return a number representing how similar they are (0 to 1).|

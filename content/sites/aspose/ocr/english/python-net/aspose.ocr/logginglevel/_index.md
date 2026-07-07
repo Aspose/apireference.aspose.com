@@ -3,7 +3,7 @@ title: LoggingLevel
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 600
+weight: 630
 url: /python-net/aspose.ocr/logginglevel/
 ---
 
@@ -18,6 +18,7 @@ Defines the type of logs to display.
 |WARNING|Some not critical points and all errors will be displayed.|
 |ERROR|Only errors will be displayed.|
 |NONE|Disable logging (default).|
+|TRACK_NATIVE_RESOURCES|All logs will be displayed including native debug logs.|
 
 ### See Also
 

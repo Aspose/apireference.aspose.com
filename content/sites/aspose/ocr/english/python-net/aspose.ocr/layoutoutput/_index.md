@@ -3,13 +3,13 @@ title: LayoutOutput
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /python-net/aspose.ocr/layoutoutput/
 ---
 
 ## LayoutOutput class
 
-
+Information on detected content areas in the image.
 
 The LayoutOutput type exposes the following members:
 ## Constructors
@@ -19,15 +19,15 @@ The LayoutOutput type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
-|source|  |
-|page|  |
-|paragraphs|  |
-|images|  |
-|headers|  |
-|tables|  |
-|lists|  |
-|captions|  |
-|equations|  |
+|source|The full path to the file or URL, if applicable. Empty for images provided as a stream, byte array, or Base64.|
+|page|Page number for multi-page images.|
+|paragraphs|Detected paragraphs.|
+|images|Detected pictures/illustrations.|
+|headers|Detected headers.|
+|tables|Detected tables.|
+|lists|Detected lists.|
+|captions|Detected captions.|
+|equations|Detected equations.|
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: SaveFormat
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 640
+weight: 670
 url: /python-net/aspose.ocr/saveformat/
 ---
 
@@ -24,9 +24,9 @@ For recognition result saving
 |EPUB|Saves the document as an EPUB file.|
 |RTF|Saves the document as an rtf file.|
 |PDF_NO_IMG|Saves the document as a Searchable PDF (Adobe Portable Document) Document without image.|
-|HOCR||
-|MD||
-|CSV||
+|HOCR|Saves the document as a hOCR (.html) file.|
+|MD|Saves the document as a Markdown (.md) file.<br/>            If [MULTICOLUMN](/ocr/python-net/aspose.ocr/detectareasmode/) is used, images will also be extracted.|
+|CSV|Saves the document as a CSV (.csv) file.|
 
 ### See Also
 

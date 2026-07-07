@@ -3,7 +3,7 @@ title: Language
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 580
+weight: 610
 url: /python-net/aspose.ocr/language/
 ---
 
@@ -37,7 +37,7 @@ Languages used for OCR.<br/>            ISO 939-3 Code.
 |SLK|Slovak alphabet|
 |SLV|Slovene alphabet|
 |SWE|Swedish alphabet|
-|CHINESE||
+|CHINESE|Universal recognition of Chinese-based languages, including mixed Chinese-English texts|
 |BEL|Belorussian alphabet|
 |BUL|Bulgarian alphabet|
 |KAZ|Kazakh alphabet|
@@ -154,20 +154,20 @@ Languages used for OCR.<br/>            ISO 939-3 Code.
 |PES|Persian (Farsi) alphabet|
 |URD|Urdu alphabet|
 |UIG|Uyghur alphabet|
-|KOR||
-|JPN||
-|TAM||
-|TEL||
-|KAN||
-|EUROPEAN||
-|INDIC||
-|DEVANAGARI||
-|MON||
-|PERSO_ARABIC||
-|ISLAMIC||
-|MULTILANGUAGE||
-|AUTO||
-|UNIVERSAL||
+|KOR|Korean alphabet|
+|JPN|Japanese alphabet|
+|TAM|Tamil alphabet|
+|TEL|Telugu alphabet|
+|KAN|Kannada alphabet|
+|EUROPEAN|Experimental. Recognition of mixed Cyrillic/English texts|
+|INDIC|Universal recognition of Indic languages based on Devanagari script, including texts with mixed English characters|
+|DEVANAGARI|Universal recognition of Indic languages based on Devanagari script, including texts with mixed English characters|
+|MON|Mongolean alphabet|
+|PERSO_ARABIC|Universal Perso-Arabic alphabet|
+|ISLAMIC|Universal Perso-Arabic alphabet|
+|MULTILANGUAGE|Automatically detects the language in the input document or image.<br/>            Supports multiple language families, including Latin, Cyrillic, Arabic, and more.|
+|AUTO|Automatically detects the language in the input document or image.<br/>            Supports multiple language families, including Latin, Cyrillic, Arabic, and more.|
+|UNIVERSAL|Automatically detects the language in the input document or image.<br/>            Supports multiple language families, including Latin, Cyrillic, Arabic, and more.|
 
 ### See Also
 

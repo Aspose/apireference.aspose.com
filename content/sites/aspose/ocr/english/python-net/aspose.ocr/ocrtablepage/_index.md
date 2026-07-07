@@ -3,13 +3,13 @@ title: OCRTablePage
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /python-net/aspose.ocr/ocrtablepage/
 ---
 
 ## OCRTablePage class
 
-
+Represents structured table data for the entire OCR document's page.
 
 The OCRTablePage type exposes the following members:
 ## Constructors
@@ -19,7 +19,7 @@ The OCRTablePage type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
-|tables|  |
+|tables|Collection of tables with recognized table data.|
 
 ### See Also
 

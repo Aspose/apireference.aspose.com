@@ -9,7 +9,7 @@ url: /python-net/aspose.ocr/contentarea/
 
 ## ContentArea class
 
-
+A content area detected in an image.
 
 The ContentArea type exposes the following members:
 ## Constructors
@@ -19,8 +19,8 @@ The ContentArea type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
-|index|  |
-|rectangle|  |
+|index|The sequential index of the content area, unique within the image.|
+|rectangle|The bounding rectangle of the content area.|
 
 ### See Also
 

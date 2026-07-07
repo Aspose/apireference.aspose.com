@@ -3,13 +3,13 @@ title: OCRTableCell
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 210
+weight: 220
 url: /python-net/aspose.ocr/ocrtablecell/
 ---
 
 ## OCRTableCell class
 
-
+Represents one table cell with recognized text and position information.
 
 The OCRTableCell type exposes the following members:
 ## Constructors
@@ -19,8 +19,8 @@ The OCRTableCell type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
-|column_index|  |
-|text|  |
+|column_index|Zero-based index of the column this cell belongs to.|
+|text|Recognized text content of the cell.|
 
 ### See Also
 

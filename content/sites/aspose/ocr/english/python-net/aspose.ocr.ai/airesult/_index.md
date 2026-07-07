@@ -9,7 +9,7 @@ url: /python-net/aspose.ocr.ai/airesult/
 
 ## AIResult class
 
-
+Represents an AI-processed recognition result.
 
 The AIResult type exposes the following members:
 ## Constructors
@@ -19,8 +19,8 @@ The AIResult type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
-|result|  |
-|file_name|  |
+|result|Gets or sets the AI-processed result.<br/>            The value may contain plain text or structured data in JSON format,<br/>            depending on the applied AI processor.|
+|file_name|Gets or sets the name of the source image file.|
 
 ### See Also
 

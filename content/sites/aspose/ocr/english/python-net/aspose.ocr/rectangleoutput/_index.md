@@ -3,7 +3,7 @@ title: RectangleOutput
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 350
+weight: 360
 url: /python-net/aspose.ocr/rectangleoutput/
 ---
 
@@ -20,7 +20,7 @@ The RectangleOutput type exposes the following members:
 | Name | Description |
 | :- | :- |
 |source|The full path to the file or URL, if any. Empty for streams, byte arrays, base64.|
-|page|Page number.|
+|page|Page number for multi-page images.|
 |rectangles|List of detected text areas or lines.|
 
 ### See Also
