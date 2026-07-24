@@ -1,0 +1,23 @@
+---
+title: "System::Xml::Schema::XmlSchemaMaxLengthFacet::XmlSchemaMaxLengthFacet コンストラクタ"
+linktitle: "XmlSchemaMaxLengthFacet"
+second_title: "C++ 用 Aspose.Page"
+description: "System::Xml::Schema::XmlSchemaMaxLengthFacet::XmlSchemaMaxLengthFacet コンストラクタ。C++ で XmlSchemaMaxLengthFacet クラスの新しいインスタンスを初期化します。"
+type: docs
+weight: 100
+url: /ja/cpp/system.xml.schema/xmlschemamaxlengthfacet/xmlschemamaxlengthfacet/
+---
+## XmlSchemaMaxLengthFacet::XmlSchemaMaxLengthFacet constructor
+
+
+[XmlSchemaMaxLengthFacet](../) クラスの新しいインスタンスを初期化します。
+
+```cpp
+System::Xml::Schema::XmlSchemaMaxLengthFacet::XmlSchemaMaxLengthFacet()
+```
+
+## 参照
+
+* Class [XmlSchemaMaxLengthFacet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Page for C++](../../../)

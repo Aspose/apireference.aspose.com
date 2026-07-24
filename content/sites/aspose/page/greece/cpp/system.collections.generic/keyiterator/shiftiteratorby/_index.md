@@ -1,0 +1,28 @@
+---
+title: "System::Collections::Generic::KeyIterator::ShiftIteratorBy method"
+linktitle: "ShiftIteratorBy"
+second_title: "Aspose.Page για C++"
+description: "System::Collections::Generic::KeyIterator::ShiftIteratorBy method. Μετακινεί τον επαναλήπτη κατά τον καθορισμένο αριθμό βημάτων σε C++."
+type: docs
+weight: 600
+url: /el/cpp/system.collections.generic/keyiterator/shiftiteratorby/
+---
+## KeyIterator::ShiftIteratorBy method
+
+
+Μετακινεί τον επαναλήπτη κατά τον καθορισμένο αριθμό βημάτων.
+
+```cpp
+void System::Collections::Generic::KeyIterator<Dict>::ShiftIteratorBy(std::ptrdiff_t offset) override
+```
+
+
+| Parameter | Type | Περιγραφή |
+| --- | --- | --- |
+| offset | std::ptrdiff_t | Αριθμός βημάτων για τη μετακίνηση του επαναλήπτη. |
+
+## Δείτε επίσης
+
+* Class [KeyIterator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)

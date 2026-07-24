@@ -1,0 +1,23 @@
+---
+title: "System::Drawing::Point::get_Y मेथड"
+linktitle: "get_Y"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Drawing::Point::get_Y मेथड. C++ में वर्तमान ऑब्जेक्ट द्वारा प्रतिनिधित्व किए गए Y निर्देशांक का मान लौटाता है।"
+type: docs
+weight: 500
+url: /hi/cpp/system.drawing/point/get_y/
+---
+## Point::get_Y method
+
+
+वर्तमान ऑब्जेक्ट द्वारा प्रतिनिधित्व किए गए Y कोऑर्डिनेट का मान लौटाता है।
+
+```cpp
+int System::Drawing::Point::get_Y() const
+```
+
+## संबंधित देखें
+
+* Class [Point](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,30 @@
+---
+title: "System::Xml::Schema::XmlSchemaSimpleContentExtension::set_AnyAttribute method"
+linktitle: "set_AnyAttribute"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Xml::Schema::XmlSchemaSimpleContentExtension::set_AnyAttribute method. C++ में विशेषता मान के लिए उपयोग किए जाने वाले XmlSchemaAnyAttribute को सेट करता है।"
+type: docs
+weight: 500
+url: /hi/cpp/system.xml.schema/xmlschemasimplecontentextension/set_anyattribute/
+---
+## XmlSchemaSimpleContentExtension::set_AnyAttribute method
+
+
+विशेषता मान के लिए उपयोग किए जाने वाले [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/) को सेट करता है।
+
+```cpp
+void System::Xml::Schema::XmlSchemaSimpleContentExtension::set_AnyAttribute(const SharedPtr<XmlSchemaAnyAttribute> &value)
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| मान | const SharedPtr\<XmlSchemaAnyAttribute\>\& | सेट करने के लिए मान। |
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/)
+* Class [XmlSchemaSimpleContentExtension](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Page for C++](../../../)

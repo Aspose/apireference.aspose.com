@@ -1,0 +1,70 @@
+---
+title: "System::Globalization::TaiwanCalendar::ToDateTime मेथड"
+linktitle: "ToDateTime"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Globalization::TaiwanCalendar::ToDateTime मेथड. C++ में घटकों से DateTime ऑब्जेक्ट बनाता है।"
+type: docs
+weight: 2000
+url: /hi/cpp/system.globalization/taiwancalendar/todatetime/
+---
+## TaiwanCalendar::ToDateTime(int, int, int, int, int, int, int) const method
+
+
+घटकों से [DateTime](../../../system/datetime/) ऑब्जेक्ट बनाता है।
+
+```cpp
+virtual DateTime System::Globalization::Calendar::ToDateTime(int year, int month, int day, int hour, int minute, int second, int millisecond) const
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| वर्ष | int | वर्ष। |
+| महीना | int | महीना। |
+| दिन | int | दिन। |
+| घंटा | int | घंटा। |
+| मिनट | int | मिनट। |
+| सेकंड | int | सेकंड। |
+| मिलीसेकंड | int | मिलीसेकंड। |
+
+### ReturnValue
+
+[DateTime](../../../system/datetime/) object that has specified components.
+
+## संबंधित देखें
+
+* Class [DateTime](../../../system/datetime/)
+* Class [TaiwanCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
+## TaiwanCalendar::ToDateTime(int, int, int, int, int, int, int, int) const method
+
+
+घटकों से [DateTime](../../../system/datetime/) ऑब्जेक्ट बनाता है।
+
+```cpp
+DateTime System::Globalization::TaiwanCalendar::ToDateTime(int year, int month, int day, int hour, int minute, int second, int millisecond, int era) const override
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| वर्ष | int | वर्ष। |
+| महीना | int | महीना। |
+| दिन | int | दिन। |
+| घंटा | int | घंटा। |
+| मिनट | int | मिनट। |
+| सेकंड | int | सेकंड। |
+| मिलीसेकंड | int | मिलीसेकंड। |
+| युग | int | युग। |
+
+### ReturnValue
+
+[DateTime](../../../system/datetime/) object that has specified components.
+
+## संबंधित देखें
+
+* Class [DateTime](../../../system/datetime/)
+* Class [TaiwanCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)

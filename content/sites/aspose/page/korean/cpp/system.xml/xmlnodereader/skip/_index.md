@@ -1,0 +1,23 @@
+---
+title: "System::Xml::XmlNodeReader::Skip 메서드"
+linktitle: "건너뛰기"
+second_title: "C++용 Aspose.Page"
+description: "System::Xml::XmlNodeReader::Skip 메서드. 현재 노드의 자식을 C++에서 건너뜁니다."
+type: docs
+weight: 3800
+url: /ko/cpp/system.xml/xmlnodereader/skip/
+---
+## XmlNodeReader::Skip method
+
+
+현재 노드의 자식들을 건너뜁니다.
+
+```cpp
+void System::Xml::XmlNodeReader::Skip() override
+```
+
+## 또 보기
+
+* Class [XmlNodeReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)

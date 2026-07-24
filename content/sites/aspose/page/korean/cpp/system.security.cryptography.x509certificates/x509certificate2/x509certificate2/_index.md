@@ -1,0 +1,289 @@
+---
+title: "System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certificate2 생성자"
+linktitle: "X509Certificate2"
+second_title: "C++용 Aspose.Page"
+description: "System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certificate2 생성자. C++에서 빈 X509Certificate2를 생성합니다."
+type: docs
+weight: 100
+url: /ko/cpp/system.security.cryptography.x509certificates/x509certificate2/x509certificate2/
+---
+## X509Certificate2::X509Certificate2() constructor
+
+
+빈 [X509Certificate2](../)을 생성합니다.
+
+```cpp
+System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certificate2()
+```
+
+## 또 보기
+
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)
+## X509Certificate2::X509Certificate2(const ByteArrayPtr\&) constructor
+
+
+생성자.
+
+```cpp
+System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certificate2(const ByteArrayPtr &raw_data)
+```
+
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| raw_data | const ByteArrayPtr\& | 인코딩된 인증서를 나타내는 바이트 시퀀스. |
+
+## 또 보기
+
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)
+## X509Certificate2::X509Certificate2(const ByteArrayPtr\&, const ByteArrayPtr\&, X509KeyStorageFlags) constructor
+
+
+생성자.
+
+```cpp
+System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certificate2(const ByteArrayPtr &raw_data, const ByteArrayPtr &private_key, X509KeyStorageFlags key_storage_flags)
+```
+
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| raw_data | const ByteArrayPtr\& | 인코딩된 인증서(공개 부분)를 나타내는 바이트 시퀀스. |
+| private_key | const ByteArrayPtr\& | 개인 키를 나타내는 바이트 시퀀스. |
+| key_storage_flags | X509KeyStorageFlags | 키를 저장하는 방법을 나타내는 플래그. |
+
+## 또 보기
+
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Enum [X509KeyStorageFlags](../../x509keystorageflags/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)
+## X509Certificate2::X509Certificate2(const ByteArrayPtr\&, const SecureStringPtr\&) constructor
+
+
+생성자.
+
+```cpp
+System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certificate2(const ByteArrayPtr &raw_data, const SecureStringPtr &password)
+```
+
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| raw_data | const ByteArrayPtr\& | 인코딩된 인증서를 나타내는 바이트 시퀀스. |
+| password | const SecureStringPtr\& | 인증서 비밀번호. |
+
+## 또 보기
+
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Typedef [SecureStringPtr](../../../system.security/securestringptr/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)
+## X509Certificate2::X509Certificate2(const ByteArrayPtr\&, const SecureStringPtr\&, X509KeyStorageFlags) constructor
+
+
+생성자.
+
+```cpp
+System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certificate2(const ByteArrayPtr &raw_data, const SecureStringPtr &password, X509KeyStorageFlags key_storage_flags)
+```
+
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| raw_data | const ByteArrayPtr\& | 인코딩된 인증서를 나타내는 바이트 시퀀스. |
+| password | const SecureStringPtr\& | 인증서 비밀번호. |
+| key_storage_flags | X509KeyStorageFlags | 키를 저장하는 방법을 나타내는 플래그. |
+
+## 또 보기
+
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Typedef [SecureStringPtr](../../../system.security/securestringptr/)
+* Enum [X509KeyStorageFlags](../../x509keystorageflags/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)
+## X509Certificate2::X509Certificate2(const ByteArrayPtr\&, const String\&) constructor
+
+
+생성자.
+
+```cpp
+System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certificate2(const ByteArrayPtr &raw_data, const String &password)
+```
+
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| raw_data | const ByteArrayPtr\& | 인코딩된 인증서를 나타내는 바이트 시퀀스. |
+| password | const String\& | 인증서 비밀번호. |
+
+## 또 보기
+
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [String](../../../system/string/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)
+## X509Certificate2::X509Certificate2(const ByteArrayPtr\&, const String\&, X509KeyStorageFlags) constructor
+
+
+생성자.
+
+```cpp
+System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certificate2(const ByteArrayPtr &raw_data, const String &password, X509KeyStorageFlags key_storage_flags)
+```
+
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| raw_data | const ByteArrayPtr\& | 인코딩된 인증서를 나타내는 바이트 시퀀스. |
+| password | const String\& | 인증서 비밀번호. |
+| key_storage_flags | X509KeyStorageFlags | 키를 저장하는 방법을 나타내는 플래그. |
+
+## 또 보기
+
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [String](../../../system/string/)
+* Enum [X509KeyStorageFlags](../../x509keystorageflags/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)
+## X509Certificate2::X509Certificate2(const SharedPtr\<X509Certificate\>\&) constructor
+
+
+생성자.
+
+```cpp
+System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certificate2(const SharedPtr<X509Certificate> &cert)
+```
+
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| cert | const SharedPtr\<X509Certificate\>\& | 다음 [X509Certificate](../../x509certificate/) 객체. |
+
+## 또 보기
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509Certificate](../../x509certificate/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)
+## X509Certificate2::X509Certificate2(const String\&) constructor
+
+
+생성자.
+
+```cpp
+System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certificate2(const String &filename)
+```
+
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| filename | const String\& | 인증서를 로드할 파일. |
+
+## 또 보기
+
+* Class [String](../../../system/string/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)
+## X509Certificate2::X509Certificate2(const String\&, const SecureStringPtr\&) constructor
+
+
+생성자.
+
+```cpp
+System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certificate2(const String &filename, const SecureStringPtr &password)
+```
+
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| filename | const String\& | 인증서를 로드할 파일. |
+| password | const SecureStringPtr\& | 인증서 비밀번호. |
+
+## 또 보기
+
+* Class [String](../../../system/string/)
+* Typedef [SecureStringPtr](../../../system.security/securestringptr/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)
+## X509Certificate2::X509Certificate2(const String\&, const SecureStringPtr\&, X509KeyStorageFlags) constructor
+
+
+생성자.
+
+```cpp
+System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certificate2(const String &filename, const SecureStringPtr &password, X509KeyStorageFlags key_storage_flags)
+```
+
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| filename | const String\& | 인증서를 로드할 파일. |
+| password | const SecureStringPtr\& | 인증서 비밀번호. |
+| key_storage_flags | X509KeyStorageFlags | 키를 저장하는 방법을 나타내는 플래그. |
+
+## 또 보기
+
+* Class [String](../../../system/string/)
+* Typedef [SecureStringPtr](../../../system.security/securestringptr/)
+* Enum [X509KeyStorageFlags](../../x509keystorageflags/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)
+## X509Certificate2::X509Certificate2(const String\&, const String\&) constructor
+
+
+생성자.
+
+```cpp
+System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certificate2(const String &filename, const String &password)
+```
+
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| filename | const String\& | 인증서를 로드할 파일. |
+| password | const String\& | 인증서 비밀번호. |
+
+## 또 보기
+
+* Class [String](../../../system/string/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)
+## X509Certificate2::X509Certificate2(const String\&, const String\&, X509KeyStorageFlags) constructor
+
+
+생성자.
+
+```cpp
+System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certificate2(const String &filename, const String &password, X509KeyStorageFlags key_storage_flags)
+```
+
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| filename | const String\& | 인증서를 로드할 파일. |
+| password | const String\& | 인증서 비밀번호. |
+| key_storage_flags | X509KeyStorageFlags | 키를 저장하는 방법을 나타내는 플래그. |
+
+## 또 보기
+
+* Class [String](../../../system/string/)
+* Enum [X509KeyStorageFlags](../../x509keystorageflags/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)

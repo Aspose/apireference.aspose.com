@@ -1,0 +1,29 @@
+---
+title: "System::Security::Cryptography::ICspAsymmetricAlgorithm::get_CspKeyContainerInfo méthode"
+linktitle: "get_CspKeyContainerInfo"
+second_title: "Aspose.Page pour C++"
+description: "System::Security::Cryptography::ICspAsymmetricAlgorithm::get_CspKeyContainerInfo méthode. Informations RTTI en C++."
+type: docs
+weight: 200
+url: /fr/cpp/system.security.cryptography/icspasymmetricalgorithm/get_cspkeycontainerinfo/
+---
+## ICspAsymmetricAlgorithm::get_CspKeyContainerInfo method
+
+
+Informations RTTI.
+
+```cpp
+virtual SharedPtr<CspKeyContainerInfo> System::Security::Cryptography::ICspAsymmetricAlgorithm::get_CspKeyContainerInfo()=0
+```
+
+## Remarques
+
+
+Obtient un objet [CspKeyContainerInfo](../../cspkeycontainerinfo/).
+## Voir aussi
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CspKeyContainerInfo](../../cspkeycontainerinfo/)
+* Class [ICspAsymmetricAlgorithm](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Page for C++](../../../)

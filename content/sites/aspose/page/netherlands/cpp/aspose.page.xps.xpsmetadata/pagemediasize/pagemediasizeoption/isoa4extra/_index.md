@@ -1,0 +1,24 @@
+---
+title: "Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOA4Extra veld"
+linktitle: "ISOA4Extra"
+second_title: "Aspose.Page voor C++"
+description: "Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOA4Extra veld. ISOA4 extra in C++."
+type: docs
+weight: 1700
+url: /nl/cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/isoa4extra/
+---
+## ISOA4Extra field
+
+
+ISOA4 extra.
+
+```cpp
+static System::SharedPtr<PageMediaSize::PageMediaSizeOption> Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOA4Extra
+```
+
+## Zie ook
+
+* Class [PageMediaSizeOption](../)
+* Class [PageMediaSize](../../)
+* Namespace [Aspose::Page::XPS::XpsMetadata](../../../)
+* Library [Aspose.Page for C++](../../../../)

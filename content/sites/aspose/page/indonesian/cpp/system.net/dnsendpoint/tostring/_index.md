@@ -1,0 +1,29 @@
+---
+title: "Metode System::Net::DnsEndPoint::ToString"
+linktitle: "ToString"
+second_title: "Aspose.Page untuk C++"
+description: "Metode System::Net::DnsEndPoint::ToString. Analogi dari metode C# Object.ToString(). Memungkinkan mengonversi objek khusus menjadi string dalam C++."
+type: docs
+weight: 700
+url: /id/cpp/system.net/dnsendpoint/tostring/
+---
+## DnsEndPoint::ToString method
+
+
+Analog dari C# [Object.ToString()](../../../system/object/tostring/) metode. Memungkinkan mengonversi objek khusus menjadi string.
+
+```cpp
+String System::Net::DnsEndPoint::ToString() const override
+```
+
+
+### ReturnValue
+
+[String](../../../system/string/) representation as provided by final class.
+
+## Lihat Juga
+
+* Class [String](../../../system/string/)
+* Class [DnsEndPoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)

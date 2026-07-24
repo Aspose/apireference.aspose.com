@@ -1,0 +1,24 @@
+---
+title: "System::Drawing::Drawing2D::GraphicsPath::SetMarkers طريقة"
+linktitle: "SetMarkers"
+second_title: "Aspose.Page لـ C++"
+description: "طريقة System::Drawing::Drawing2D::GraphicsPath::SetMarkers. غير مُنفَّذة في C++."
+type: docs
+weight: 3500
+url: /ar/cpp/system.drawing.drawing2d/graphicspath/setmarkers/
+---
+## GraphicsPath::SetMarkers method
+
+
+غير مُنفَّذ.
+
+```cpp
+void System::Drawing::Drawing2D::GraphicsPath::SetMarkers()
+```
+
+
+## انظر أيضًا
+
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Page for C++](../../../)

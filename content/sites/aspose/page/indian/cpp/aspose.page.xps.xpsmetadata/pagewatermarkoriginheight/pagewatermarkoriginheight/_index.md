@@ -1,0 +1,28 @@
+---
+title: "Aspose::Page::XPS::XpsMetadata::PageWatermarkOriginHeight::PageWatermarkOriginHeight कंस्ट्रक्टर"
+linktitle: "PageWatermarkOriginHeight"
+second_title: "Aspose.Page C++ के लिए"
+description: "Aspose::Page::XPS::XpsMetadata::PageWatermarkOriginHeight::PageWatermarkOriginHeight कंस्ट्रक्टर। C++ में नया इंस्टेंस बनाता है।"
+type: docs
+weight: 100
+url: /hi/cpp/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight/pagewatermarkoriginheight/
+---
+## PageWatermarkOriginHeight::PageWatermarkOriginHeight constructor
+
+
+एक नया इंस्टेंस बनाता है।
+
+```cpp
+Aspose::Page::XPS::XpsMetadata::PageWatermarkOriginHeight::PageWatermarkOriginHeight(int32_t value)
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| मान | int32_t | पैरामीटर का मान। |
+
+## संबंधित देखें
+
+* Class [PageWatermarkOriginHeight](../)
+* Namespace [Aspose::Page::XPS::XpsMetadata](../../)
+* Library [Aspose.Page for C++](../../../)

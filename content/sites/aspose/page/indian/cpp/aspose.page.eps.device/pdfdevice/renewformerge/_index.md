@@ -1,0 +1,23 @@
+---
+title: "Aspose::Page::EPS::Device::PdfDevice::ReNewForMerge method"
+linktitle: "ReNewForMerge"
+second_title: "Aspose.Page C++ के लिए"
+description: "Aspose::Page::EPS::Device::PdfDevice::ReNewForMerge method. कई दस्तावेज़ों को मिलाते समय पूरे दस्तावेज़ के लिए डिवाइस को प्रारंभिक स्थिति में रीसेट करता है। C++ में आउटपुट स्ट्रीम को रीसेट करने के लिए उपयोग किया जाता है।"
+type: docs
+weight: 4400
+url: /hi/cpp/aspose.page.eps.device/pdfdevice/renewformerge/
+---
+## PdfDevice::ReNewForMerge method
+
+
+कई दस्तावेज़ों को मिलाते समय पूरे दस्तावेज़ के लिए डिवाइस को प्रारंभिक स्थिति में रीसेट करता है। आउटपुट स्ट्रीम को रीसेट करने के लिए उपयोग किया जाता है।
+
+```cpp
+void Aspose::Page::EPS::Device::PdfDevice::ReNewForMerge(bool mainDocument) override
+```
+
+## संबंधित देखें
+
+* Class [PdfDevice](../)
+* Namespace [Aspose::Page::EPS::Device](../../)
+* Library [Aspose.Page for C++](../../../)

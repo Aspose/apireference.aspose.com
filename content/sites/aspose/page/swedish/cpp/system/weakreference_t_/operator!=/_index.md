@@ -1,0 +1,52 @@
+---
+title: "System::WeakReference< T >::operator!= metod"
+linktitle: "operator!="
+second_title: "Aspose.Page för C++"
+description: "System::WeakReference< T >::operator!= metod. Jämför refererat objekt med en annan instans av WeakReference‑klassen i C++."
+type: docs
+weight: 200
+url: /sv/cpp/system/weakreference_t_/operator!=/
+---
+## WeakReference< T >::operator!=(const WeakReference\<T\>\&) const method
+
+
+Jämför refererat objekt med en annan instans av [WeakReference](../../weakreference/)‑klassen.
+
+```cpp
+bool System::WeakReference<T>::operator!=(const WeakReference<T> &other) const
+```
+
+
+| Parameter | Type | Beskrivning |
+| --- | --- | --- |
+| other | const WeakReference\<T\>\& | [Object](../../object/) jämför med. |
+
+### ReturnValue
+
+Sant om de jämförda objekten refererar till olika objekt, falskt om objekten är samma.
+
+## Se även
+
+* Class [WeakReference](../../weakreference/)
+* Class [WeakReference< T >](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## WeakReference< T >::operator!=(std::nullptr_t) const method
+
+
+Kontrollerar om det refererade objektet inte är null.
+
+```cpp
+bool System::WeakReference<T>::operator!=(std::nullptr_t) const
+```
+
+
+### ReturnValue
+
+Sant om det refererade objektet inte är null, falskt annars.
+
+## Se även
+
+* Class [WeakReference< T >](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)

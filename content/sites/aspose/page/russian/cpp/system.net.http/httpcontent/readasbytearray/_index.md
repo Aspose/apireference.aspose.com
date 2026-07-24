@@ -1,0 +1,29 @@
+---
+title: "Метод System::Net::Http::HttpContent::ReadAsByteArray"
+linktitle: "ReadAsByteArray"
+second_title: "Aspose.Page для C++"
+description: "Метод System::Net::Http::HttpContent::ReadAsByteArray. Сериализует контент и возвращает массив байтов в C++."
+type: docs
+weight: 400
+url: /ru/cpp/system.net.http/httpcontent/readasbytearray/
+---
+## HttpContent::ReadAsByteArray method
+
+
+Сериализует содержимое и возвращает массив байтов.
+
+```cpp
+System::ArrayPtr<uint8_t> System::Net::Http::HttpContent::ReadAsByteArray()
+```
+
+
+### ReturnValue
+
+Массив байтов, представляющий сериализованный контент.
+
+## См. также
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [HttpContent](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,170 @@
+---
+title: "JobPrimaryCoverBack"
+second_title: "Aspose.Page용 Java API 참조"
+description: "뒤쪽 마감 표지를 설명합니다."
+type: docs
+weight: 66
+url: /ko/java/com.aspose.xps.metadata/jobprimarycoverback/
+---
+**Inheritance:**
+java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.xps.metadata/printticketelement), [com.aspose.xps.metadata.CompositePrintTicketElement](../../com.aspose.xps.metadata/compositeprintticketelement), [com.aspose.xps.metadata.Feature](../../com.aspose.xps.metadata/feature)
+
+**All Implemented Interfaces:**
+[com.aspose.xps.metadata.IJobPrintTicketItem](../../com.aspose.xps.metadata/ijobprintticketitem)
+```
+public final class JobPrimaryCoverBack extends Feature implements IJobPrintTicketItem
+```
+
+뒤쪽(마감) 표지를 설명합니다. 각 작업은 별도의 기본 표지를 가집니다. 표지는 작업의 마지막 페이지에 사용되는 PageMediaSize 및 PageMediaType에 인쇄되어야 합니다. 표지는 지정된 옵션에 따라 (예: JobDuplexAllDocumentsContiguously, JobNUpAllDocumentsContiguously) 처리 옵션에 통합되어야 합니다. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobprimarycoverback
+## 생성자
+
+| 생성자 | 설명 |
+| --- | --- |
+| [JobPrimaryCoverBack(JobPrimaryCoverBack.CoverBackOption[] options)](#JobPrimaryCoverBack-com.aspose.xps.metadata.JobPrimaryCoverBack.CoverBackOption...-) | 새 인스턴스를 생성합니다. |
+## 메서드
+
+| 메서드 | 설명 |
+| --- | --- |
+| [add(IFeatureItem[] items)](#add-com.aspose.xps.metadata.IFeatureItem...-) | 이 기능의 항목 목록 끝에 항목 목록을 추가합니다. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getName()](#getName--) | 요소 이름을 가져옵니다. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### JobPrimaryCoverBack(JobPrimaryCoverBack.CoverBackOption[] options) {#JobPrimaryCoverBack-com.aspose.xps.metadata.JobPrimaryCoverBack.CoverBackOption...-}
+```
+public JobPrimaryCoverBack(JobPrimaryCoverBack.CoverBackOption[] options)
+```
+
+
+새 인스턴스를 생성합니다.
+
+**Parameters:**
+| 매개변수 | 유형 | 설명 |
+| --- | --- | --- |
+| options | [CoverBackOption\[\]](../../com.aspose.xps.metadata/coverbackoption) | 해당 기능에 특화된 옵션 배열입니다. |
+
+### add(IFeatureItem[] items) {#add-com.aspose.xps.metadata.IFeatureItem...-}
+```
+public void add(IFeatureItem[] items)
+```
+
+
+이 기능의 항목 목록 끝에 항목 목록을 추가합니다. 각 항목은 Feature, Option 또는 Property 인스턴스여야 합니다.
+
+**Parameters:**
+| 매개변수 | 유형 | 설명 |
+| --- | --- | --- |
+| items | [IFeatureItem\[\]](../../com.aspose.xps.metadata/ifeatureitem) | 추가할 항목 목록. |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| 매개변수 | 유형 | 설명 |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getName() {#getName--}
+```
+public String getName()
+```
+
+
+요소 이름을 가져옵니다.
+
+**Returns:**
+java.lang.String
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| 매개변수 | 유형 | 설명 |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| 매개변수 | 유형 | 설명 |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

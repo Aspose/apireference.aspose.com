@@ -1,0 +1,129 @@
+---
+title: "Aspose::Page::EPS::PsDocument::FillAndStrokeText طريقة"
+linktitle: "FillAndStrokeText"
+second_title: "Aspose.Page لـ C++"
+description: "Aspose::Page::EPS::PsDocument::FillAndStrokeText طريقة. يضيف سلسلة نصية عن طريق ملء داخل الحروف ورسم حدود الحروف في C++."
+type: docs
+weight: 2500
+url: /ar/cpp/aspose.page.eps/psdocument/fillandstroketext/
+---
+## PsDocument::FillAndStrokeText(System::String, System::ArrayPtr\<float\>, System::SharedPtr\<Aspose::Page::Font::DrFont\>, float, float, System::SharedPtr\<System::Drawing::Brush\>, System::SharedPtr\<System::Drawing::Pen\>) method
+
+
+يضيف سلسلة نصية بملء داخل الحروف ورسم حدود الحروف.
+
+```cpp
+void Aspose::Page::EPS::PsDocument::FillAndStrokeText(System::String text, System::ArrayPtr<float> advances, System::SharedPtr<Aspose::Page::Font::DrFont> drFont, float x, float y, System::SharedPtr<System::Drawing::Brush> fillPaint, System::SharedPtr<System::Drawing::Pen> stroke)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| text | System::String | النص المراد إضافته. |
+| التقدمات | System::ArrayPtr\<float\> | مصفوفة لعرض الحروف. يجب أن يتطابق طولها مع عدد الحروف في السلسلة. |
+| drFont | System::SharedPtr\<Aspose::Page::Font::DrFont\> | [DrFont](../) التي سيتم استخدامها لرسم النص. يمكن استخدامها مع خط مخصص موجود في مجلد مخصص. |
+| x | عدد عائم | الإحداثي X لأصل النص. |
+| y | عدد عائم | الإحداثي Y لأصل النص. |
+| fillPaint | System::SharedPtr\<System::Drawing::Brush\> | التعبئة المستخدمة لطلاء داخل الحروف. |
+| stroke | System::SharedPtr\<System::Drawing::Pen\> | الخط المستخدم لرسم حدود الحروف. |
+
+## انظر أيضًا
+
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DrFont](../../../aspose.page.font/drfont/)
+* Class [Brush](../../../system.drawing/brush/)
+* Class [Pen](../../../system.drawing/pen/)
+* Class [PsDocument](../)
+* Namespace [Aspose::Page::EPS](../../)
+* Library [Aspose.Page for C++](../../../)
+## PsDocument::FillAndStrokeText(System::String, System::ArrayPtr\<float\>, System::SharedPtr\<System::Drawing::Font\>, float, float, System::SharedPtr\<System::Drawing::Brush\>, System::SharedPtr\<System::Drawing::Pen\>) method
+
+
+يضيف سلسلة نصية بملء داخل الحروف ورسم حدود الحروف.
+
+```cpp
+void Aspose::Page::EPS::PsDocument::FillAndStrokeText(System::String text, System::ArrayPtr<float> advances, System::SharedPtr<System::Drawing::Font> font, float x, float y, System::SharedPtr<System::Drawing::Brush> fillPaint, System::SharedPtr<System::Drawing::Pen> stroke)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| text | System::String | النص المراد إضافته. |
+| التقدمات | System::ArrayPtr\<float\> | مصفوفة لعرض الحروف. يجب أن يتطابق طولها مع عدد الحروف في السلسلة. |
+| font | System::SharedPtr\<System::Drawing::Font\> | [System](../../../system/) الخط الذي سيتم استخدامه لرسم النص. |
+| x | عدد عائم | الإحداثي X لأصل النص. |
+| y | عدد عائم | الإحداثي Y لأصل النص. |
+| fillPaint | System::SharedPtr\<System::Drawing::Brush\> | التعبئة المستخدمة لطلاء داخل الحروف. |
+| stroke | System::SharedPtr\<System::Drawing::Pen\> | الخط المستخدم لرسم حدود الحروف. |
+
+## انظر أيضًا
+
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Font](../../../system.drawing/font/)
+* Class [Brush](../../../system.drawing/brush/)
+* Class [Pen](../../../system.drawing/pen/)
+* Class [PsDocument](../)
+* Namespace [Aspose::Page::EPS](../../)
+* Library [Aspose.Page for C++](../../../)
+## PsDocument::FillAndStrokeText(System::String, System::SharedPtr\<Aspose::Page::Font::DrFont\>, float, float, System::SharedPtr\<System::Drawing::Brush\>, System::SharedPtr\<System::Drawing::Pen\>) method
+
+
+يضيف سلسلة نصية بملء داخل الحروف ورسم حدود الحروف.
+
+```cpp
+void Aspose::Page::EPS::PsDocument::FillAndStrokeText(System::String text, System::SharedPtr<Aspose::Page::Font::DrFont> drFont, float x, float y, System::SharedPtr<System::Drawing::Brush> fillPaint, System::SharedPtr<System::Drawing::Pen> stroke)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| text | System::String | النص المراد إضافته. |
+| drFont | System::SharedPtr\<Aspose::Page::Font::DrFont\> | [DrFont](../) التي سيتم استخدامها لرسم النص. يمكن استخدامها مع خط مخصص موجود في مجلد مخصص. |
+| x | عدد عائم | الإحداثي X لأصل النص. |
+| y | عدد عائم | الإحداثي Y لأصل النص. |
+| fillPaint | System::SharedPtr\<System::Drawing::Brush\> | التعبئة المستخدمة لطلاء داخل الحروف. |
+| stroke | System::SharedPtr\<System::Drawing::Pen\> | الخط المستخدم لرسم حدود الحروف. |
+
+## انظر أيضًا
+
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DrFont](../../../aspose.page.font/drfont/)
+* Class [Brush](../../../system.drawing/brush/)
+* Class [Pen](../../../system.drawing/pen/)
+* Class [PsDocument](../)
+* Namespace [Aspose::Page::EPS](../../)
+* Library [Aspose.Page for C++](../../../)
+## PsDocument::FillAndStrokeText(System::String, System::SharedPtr\<System::Drawing::Font\>, float, float, System::SharedPtr\<System::Drawing::Brush\>, System::SharedPtr\<System::Drawing::Pen\>) method
+
+
+يضيف سلسلة نصية بملء داخل الحروف ورسم حدود الحروف.
+
+```cpp
+void Aspose::Page::EPS::PsDocument::FillAndStrokeText(System::String text, System::SharedPtr<System::Drawing::Font> font, float x, float y, System::SharedPtr<System::Drawing::Brush> fillPaint, System::SharedPtr<System::Drawing::Pen> stroke)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| text | System::String | النص المراد إضافته. |
+| font | System::SharedPtr\<System::Drawing::Font\> | [System](../../../system/) الخط الذي سيتم استخدامه لرسم النص. |
+| x | عدد عائم | الإحداثي X لأصل النص. |
+| y | عدد عائم | الإحداثي Y لأصل النص. |
+| fillPaint | System::SharedPtr\<System::Drawing::Brush\> | التعبئة المستخدمة لطلاء داخل الحروف. |
+| stroke | System::SharedPtr\<System::Drawing::Pen\> | الخط المستخدم لرسم حدود الحروف. |
+
+## انظر أيضًا
+
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Font](../../../system.drawing/font/)
+* Class [Brush](../../../system.drawing/brush/)
+* Class [Pen](../../../system.drawing/pen/)
+* Class [PsDocument](../)
+* Namespace [Aspose::Page::EPS](../../)
+* Library [Aspose.Page for C++](../../../)

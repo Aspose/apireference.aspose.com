@@ -1,0 +1,28 @@
+---
+title: "System::Net::CookieContainer::set_Capacity method"
+linktitle: "set_Capacity"
+second_title: "Aspose.Page لـ C++"
+description: "System::Net::CookieContainer::set_Capacity method. يحدد سعة المجموعة في C++."
+type: docs
+weight: 1200
+url: /ar/cpp/system.net/cookiecontainer/set_capacity/
+---
+## CookieContainer::set_Capacity method
+
+
+يضبط سعة المجموعة.
+
+```cpp
+void System::Net::CookieContainer::set_Capacity(int32_t value)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| value | int32_t | القيمة التي يجب تعيينها. |
+
+## انظر أيضًا
+
+* Class [CookieContainer](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)

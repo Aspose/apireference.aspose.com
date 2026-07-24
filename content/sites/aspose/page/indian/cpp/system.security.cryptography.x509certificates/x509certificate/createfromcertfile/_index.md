@@ -1,0 +1,35 @@
+---
+title: "System::Security::Cryptography::X509Certificates::X509Certificate::CreateFromCertFile मेथड"
+linktitle: "CreateFromCertFile"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Security::Cryptography::X509Certificates::X509Certificate::CreateFromCertFile मेथड। निर्दिष्ट PKCS7 फ़ाइल से C++ में प्रमाणपत्र बनाता है।"
+type: docs
+weight: 2900
+url: /hi/cpp/system.security.cryptography.x509certificates/x509certificate/createfromcertfile/
+---
+## X509Certificate::CreateFromCertFile method
+
+
+निर्दिष्ट PKCS7 फ़ाइल से प्रमाणपत्र बनाता है।
+
+```cpp
+static SharedPtr<X509Certificate> System::Security::Cryptography::X509Certificates::X509Certificate::CreateFromCertFile(const String &filename)
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| filename | const String\& | प्रमाणपत्र फ़ाइल नाम। |
+
+### ReturnValue
+
+नया बनाया गया प्रमाणपत्र।
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509Certificate](../)
+* Class [String](../../../system/string/)
+* Class [X509Certificate](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)

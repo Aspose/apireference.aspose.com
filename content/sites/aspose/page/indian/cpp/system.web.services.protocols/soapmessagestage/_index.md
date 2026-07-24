@@ -1,0 +1,31 @@
+---
+title: "System::Web::Services::Protocols::SoapMessageStage enum"
+linktitle: "SoapMessageStage"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Web::Services::Protocols::SoapMessageStage enum. C++ में SOAP संदेशों के प्रोसेसिंग चरणों को सूचीबद्ध करता है।"
+type: docs
+weight: 1300
+url: /hi/cpp/system.web.services.protocols/soapmessagestage/
+---
+## SoapMessageStage enum
+
+
+SOAP संदेशों के प्रोसेसिंग चरणों को सूचीबद्ध करता है।
+
+```cpp
+enum class SoapMessageStage
+```
+
+### मान
+
+| नाम | मान | विवरण |
+| --- | --- | --- |
+| AfterDeserialize | 8 | डिसीरियलाइज़ेशन के बाद का चरण। |
+| AfterSerialize | 2 | सीरियलाइज़ेशन के बाद का चरण। |
+| BeforeDeserialize | 4 | डिसीरियलाइज़ेशन से पहले का चरण। |
+| BeforeSerialize | 1 | सीरियलाइज़ेशन से पहले का चरण। |
+
+## संबंधित देखें
+
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Page for C++](../../)

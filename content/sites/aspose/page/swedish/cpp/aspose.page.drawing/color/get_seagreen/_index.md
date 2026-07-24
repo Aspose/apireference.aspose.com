@@ -1,0 +1,29 @@
+---
+title: "Aspose::Page::Drawing::Color::get_SeaGreen metod"
+linktitle: "get_SeaGreen"
+second_title: "Aspose.Page för C++"
+description: "Aspose::Page::Drawing::Color::get_SeaGreen metod. Hämtar en systemdefinierad färg som har ett ARGB‑värde på #FF2E8B57 i C++."
+type: docs
+weight: 12200
+url: /sv/cpp/aspose.page.drawing/color/get_seagreen/
+---
+## Color::get_SeaGreen method
+
+
+Hämtar en systemdefinierad färg som har ett ARGB‑värde på #FF2E8B57.
+
+```cpp
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_SeaGreen()
+```
+
+
+### ReturnValue
+
+En [T:Aspose::Page::Drawing::Color](../) som representerar en systemdefinierad färg.
+
+## Se även
+
+* Class [Color](../)
+* Class [Color](../)
+* Namespace [Aspose::Page::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

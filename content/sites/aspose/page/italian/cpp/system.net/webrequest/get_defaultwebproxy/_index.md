@@ -1,0 +1,30 @@
+---
+title: "System::Net::WebRequest::get_DefaultWebProxy method"
+linktitle: "get_DefaultWebProxy"
+second_title: "Aspose.Page per C++"
+description: "System::Net::WebRequest::get_DefaultWebProxy method. Ottiene il proxy HTTP globale in C++."
+type: docs
+weight: 400
+url: /it/cpp/system.net/webrequest/get_defaultwebproxy/
+---
+## WebRequest::get_DefaultWebProxy method
+
+
+Ottiene il proxy HTTP globale.
+
+```cpp
+static System::SharedPtr<IWebProxy> System::Net::WebRequest::get_DefaultWebProxy()
+```
+
+
+### ReturnValue
+
+Il proxy HTTP globale.
+
+## Vedi anche
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IWebProxy](../../iwebproxy/)
+* Class [WebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)

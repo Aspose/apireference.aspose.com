@@ -1,0 +1,29 @@
+---
+title: "System::Collections::Generic::SimpleEnumerator::get_Current मेथड"
+linktitle: "get_Current"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Collections::Generic::SimpleEnumerator::get_Current मेथड। C++ में ''current'' तत्व प्राप्त करता है।"
+type: docs
+weight: 300
+url: /hi/cpp/system.collections.generic/simpleenumerator/get_current/
+---
+## SimpleEnumerator::get_Current method
+
+
+'current' तत्व प्राप्त करता है।
+
+```cpp
+MakeConstRef_t<Element> System::Collections::Generic::SimpleEnumerator<Container, Element>::get_Current() const override
+```
+
+
+### ReturnValue
+
+वर्तमान तत्व (यदि कोई हो) या अन्यथा डिफ़ॉल्ट-निर्मित आइटम।
+
+## संबंधित देखें
+
+* Typedef [MakeConstRef_t](../../../system/makeconstref_t/)
+* Class [SimpleEnumerator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)

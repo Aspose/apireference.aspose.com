@@ -1,0 +1,24 @@
+---
+title: "System::Security::Cryptography::Xml::SignedXml::get_SignatureMethod मेथड"
+linktitle: "get_SignatureMethod"
+second_title: "Aspose.Page C++ के लिए"
+description: "C++ में System::Security::Cryptography::Xml::SignedXml क्लास की get_SignatureMethod मेथड का उपयोग कैसे करें।"
+type: docs
+weight: 900
+url: /hi/cpp/system.security.cryptography.xml/signedxml/get_signaturemethod/
+---
+## SignedXml::get_SignatureMethod method
+
+
+
+
+```cpp
+String System::Security::Cryptography::Xml::SignedXml::get_SignatureMethod()
+```
+
+## संबंधित देखें
+
+* Class [String](../../../system/string/)
+* Class [SignedXml](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Page for C++](../../../)

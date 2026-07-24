@@ -1,0 +1,23 @@
+---
+title: "System::Xml::Schema::XmlSchemaTotalDigitsFacet::Ptr typedef"
+linktitle: "Ptr"
+second_title: "Aspose.Page για C++"
+description: "System::Xml::Schema::XmlSchemaTotalDigitsFacet::Ptr typedef. Ένα ψευδώνυμο για shared pointer σε μια παρουσία αυτής της κλάσης σε C++."
+type: docs
+weight: 200
+url: /el/cpp/system.xml.schema/xmlschematotaldigitsfacet/ptr/
+---
+## Ptr typedef
+
+
+Ένα ψευδώνυμο για κοινό δείκτη σε μια παρουσία αυτής της κλάσης.
+
+```cpp
+using System::Xml::Schema::XmlSchemaTotalDigitsFacet::Ptr =  SharedPtr<XmlSchemaTotalDigitsFacet>
+```
+
+## Δείτε επίσης
+
+* Class [XmlSchemaTotalDigitsFacet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Page for C++](../../../)

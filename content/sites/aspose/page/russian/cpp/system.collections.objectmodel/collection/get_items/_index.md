@@ -1,0 +1,50 @@
+---
+title: "Метод System::Collections::ObjectModel::Collection::get_Items"
+linktitle: "get_Items"
+second_title: "Aspose.Page для C++"
+description: "System::Collections::ObjectModel::Collection::get_Items метод. Внутренний аксессор структуры данных в C++."
+type: docs
+weight: 900
+url: /ru/cpp/system.collections.objectmodel/collection/get_items/
+---
+## Collection::get_Items() method
+
+
+Внутренний аксессор структуры данных.
+
+```cpp
+SharedPtr<Generic::IList<T>> System::Collections::ObjectModel::Collection<T>::get_Items()
+```
+
+
+### ReturnValue
+
+Указатель на внутренний список.
+
+## См. также
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
+* Class [Collection](../)
+* Namespace [System::Collections::ObjectModel](../../)
+* Library [Aspose.Page for C++](../../../)
+## Collection::get_Items() const method
+
+
+Внутренний аксессор структуры данных.
+
+```cpp
+const Generic::ListPtr<T> System::Collections::ObjectModel::Collection<T>::get_Items() const
+```
+
+
+### ReturnValue
+
+Указатель на внутренний список.
+
+## См. также
+
+* Class [ListPtr](../../../system.collections.generic/listptr/)
+* Class [Collection](../)
+* Namespace [System::Collections::ObjectModel](../../)
+* Library [Aspose.Page for C++](../../../)

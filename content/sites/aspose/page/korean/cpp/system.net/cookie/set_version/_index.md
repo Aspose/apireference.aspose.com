@@ -1,0 +1,28 @@
+---
+title: "System::Net::Cookie::set_Version 메서드"
+linktitle: "set_Version"
+second_title: "C++용 Aspose.Page"
+description: "System::Net::Cookie::set_Version 메서드. C++에서 ''Version'' 속성의 값을 설정합니다."
+type: docs
+weight: 3900
+url: /ko/cpp/system.net/cookie/set_version/
+---
+## Cookie::set_Version method
+
+
+'[Version](../../../system/version/)' 속성의 값을 설정합니다.
+
+```cpp
+void System::Net::Cookie::set_Version(int32_t value)
+```
+
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| value | int32_t | 설정해야 하는 값. |
+
+## 또 보기
+
+* Class [Cookie](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)

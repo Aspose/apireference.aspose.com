@@ -1,0 +1,28 @@
+---
+title: "System::Drawing::PointF::get_IsEmpty metodu"
+linktitle: "get_IsEmpty"
+second_title: "Aspose.Page için C++"
+description: "System::Drawing::PointF::get_IsEmpty metodu. C++'da hem X hem de Y koordinat değerlerinin 0'a eşit olup olmadığını belirler."
+type: docs
+weight: 300
+url: /tr/cpp/system.drawing/pointf/get_isempty/
+---
+## PointF::get_IsEmpty method
+
+
+Hem X hem de Y koordinat değerlerinin 0'a eşit olup olmadığını belirler.
+
+```cpp
+bool System::Drawing::PointF::get_IsEmpty() const
+```
+
+
+### ReturnValue
+
+Geçerli nesne tarafından temsil edilen hem X hem de Y koordinatları 0 ise doğru; aksi takdirde - yanlış
+
+## Ayrıca Bakınız
+
+* Class [PointF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,45 @@
+---
+title: "System::Security::Cryptography::X509Certificates namespace"
+linktitle: "System::Security::Cryptography::X509Certificates"
+second_title: "Aspose.Page voor C++"
+description: "Hoe de System::Security::Cryptography::X509Certificates namespace te gebruiken in C++."
+type: docs
+weight: 5800
+url: /nl/cpp/system.security.cryptography.x509certificates/
+---
+
+
+
+## Klassen
+
+| Klasse | Beschrijving |
+| --- | --- |
+| [PublicKey](./publickey/) | Geeft de openbare sleutel‑informatie van een X509‑certificaat weer. Objecten van deze klasse mogen alleen worden gealloceerd met de [System::MakeObject()](../system/makeobject/) functie. Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [X500DistinguishedName](./x500distinguishedname/) | Geeft de onderscheiden naam van een X509‑certificaat weer. Objecten van deze klasse mogen alleen worden gealloceerd met de [System::MakeObject()](../system/makeobject/) functie. Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [X509Certificate](./x509certificate/) | X.509 v.3‑certificaat. Versleutelde certificaten worden niet ondersteund. Alleen de [X509KeyStorageFlags::DefaultKeySet](./x509keystorageflags/) vlag wordt ondersteund. Objecten van deze klasse mogen alleen worden gealloceerd met de [System::MakeObject()](../system/makeobject/) functie. Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [X509Certificate2](./x509certificate2/) | Geeft een X509‑certificaat weer. Objecten van deze klasse mogen alleen worden gealloceerd met de [System::MakeObject()](../system/makeobject/) functie. Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [X509Certificate2Collection](./x509certificate2collection/) | Collectie van X509‑certificaatobjecten. Objecten van deze klasse mogen alleen worden gealloceerd met de [System::MakeObject()](../system/makeobject/) functie. Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [X509Certificate2CollectionPtr](./x509certificate2collectionptr/) | Pointer naar collectie van X509-certificaten. Dit type is een pointer om de verwijdering van andere objecten te beheren. Het moet op de stack worden gealloceerd en aan functies worden doorgegeven, hetzij per waarde of per const‑referentie. |
+| [X509CertificateCollection](./x509certificatecollection/) | Collectie van X509‑certificaatobjecten. Objecten van deze klasse mogen alleen worden gealloceerd met de [System::MakeObject()](../system/makeobject/) functie. Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [X509CertificateCollectionPtr](./x509certificatecollectionptr/) | Pointer naar collectie van X509-certificaten. Dit type is een pointer om de verwijdering van andere objecten te beheren. Het moet op de stack worden gealloceerd en aan functies worden doorgegeven, hetzij per waarde of per const‑referentie. |
+| [X509Chain](./x509chain/) | Stelt de X509-certificaatketen voor. Objecten van deze klasse mogen alleen worden gealloceerd met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [X509ChainPolicy](./x509chainpolicy/) | Het ketenbeleid dat wordt toegepast bij het opbouwen van een X509-certificaatketen. Objecten van deze klasse mogen alleen worden gealloceerd met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [X509ChainStatus](./x509chainstatus/) | Slaat de X509-ketenstatus en foutinformatie op. Objecten van deze klasse mogen alleen worden gealloceerd met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [X509Extension](./x509extension/) | Extensie‑object om extra informatie die aan een X.509‑certificaat is gekoppeld, te bewaren. Objecten van deze klasse mogen alleen worden gealloceerd met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [X509ExtensionCollection](./x509extensioncollection/) | Collectie van extensie‑objecten. Objecten van deze klasse mogen alleen worden gealloceerd met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [X509ExtensionCollectionPtr](./x509extensioncollectionptr/) | Pointer naar collectie van X509-extensies. Dit type is een pointer om de verwijdering van andere objecten te beheren. Het moet op de stack worden gealloceerd en aan functies worden doorgegeven, hetzij per waarde of per const‑referentie. |
+| [X509ExtensionEnumerator](./x509extensionenumerator/) | Enumerator om door de extensie‑collectie te itereren. Objecten van deze klasse mogen alleen worden gealloceerd met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [X509KeyUsageExtension](./x509keyusageextension/) | Extensie‑object om extra informatie over het gebruik van een sleutel te bewaren. Objecten van deze klasse mogen alleen worden gealloceerd met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+## Enums
+
+| Enum | Beschrijving |
+| --- | --- |
+| [X500DistinguishedNameFlags](./x500distinguishednameflags/) | Opmaakregels voor de distinguished name van X509-certificaten. |
+| [X509ChainStatusFlags](./x509chainstatusflags/) |  |
+| [X509ContentType](./x509contenttype/) | Formaat van X.509-certificaat. |
+| [X509IncludeOption](./x509includeoption/) | Specificeert welke certificaten in de keten moeten worden opgenomen. |
+| [X509KeyStorageFlags](./x509keystorageflags/) | Definieert hoe de sleutel moet worden opgeslagen. |
+| [X509KeyUsageFlags](./x509keyusageflags/) | Definieert hoe de certificaatsleutel kan worden gebruikt. |
+| [X509NameType](./x509nametype/) | Type van de in een X.509-certificaat opgenomen naam die betrekking heeft op de uitgever of het onderwerp van het certificaat. |
+| [X509RevocationFlag](./x509revocationflag/) |  |
+| [X509VerificationFlags](./x509verificationflags/) |  |

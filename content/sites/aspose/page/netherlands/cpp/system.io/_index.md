@@ -1,0 +1,84 @@
+---
+title: "System::IO namespace"
+linktitle: "System::IO"
+second_title: "Aspose.Page voor C++"
+description: "Hoe gebruik je de System::IO‑namespace in C++."
+type: docs
+weight: 3900
+url: /nl/cpp/system.io/
+---
+
+
+
+## Klassen
+
+| Klasse | Beschrijving |
+| --- | --- |
+| [BasicSTDIOStreamWrapper](./basicstdiostreamwrapper/) | Stelt een [System.IO.Stream](./stream/)-achtige wrapper voor std::basic_iostream en afgeleide objecten voor. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/)‑pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [BasicSTDIStreamWrapper](./basicstdistreamwrapper/) | Stelt een [System.IO.Stream](./stream/)-achtige wrapper voor std::basic_istream en afgeleide objecten voor. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/)‑pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [BasicSTDOStreamWrapper](./basicstdostreamwrapper/) | Stelt een [System.IO.Stream](./stream/)-achtige wrapper voor std::basic_ostream en afgeleide objecten voor. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/)‑pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [BasicSystemIOStreamBuf](./basicsystemiostreambuf/) | Stelt een buffer voor die [System::IO::Stream](./stream/)-achtige streams omsluit en toestaat ze te gebruiken als een interne buffer voor std::iostream‑achtige streams. |
+| [BasicSystemIOStreamWrapper](./basicsystemiostreamwrapper/) | Stelt een std::iostream‑achtige wrapper voor die [BasicSystemIOStreamBuf](./basicsystemiostreambuf/) als interne buffer gebruikt. |
+| [BasicSystemIStreamWrapper](./basicsystemistreamwrapper/) | Stelt een std::istream‑achtige wrapper voor die [BasicSystemIOStreamBuf](./basicsystemiostreambuf/) als interne buffer gebruikt. |
+| [BasicSystemOStreamWrapper](./basicsystemostreamwrapper/) | Stelt een std::ostream‑achtige wrapper voor die [BasicSystemIOStreamBuf](./basicsystemiostreambuf/) als interne buffer gebruikt. |
+| [BinaryReader](./binaryreader/) | Stelt een lezer voor die primitieve gegevenstypen als binaire data in een bepaalde codering leest. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/)‑pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [BinaryWriter](./binarywriter/) | Stelt een schrijver voor die waarden van primitieve typen naar een byte‑stream schrijft. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/)‑pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [BufferedStream](./bufferedstream/) | Voegt een bufferlaag toe bovenop een andere stream. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/)‑pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [Directory](./directory/) | Bevat methoden voor het manipuleren van mappen. Dit is een statisch type zonder instantie‑services. Je mag onder geen enkele omstandigheid instanties ervan maken. |
+| [DirectoryInfo](./directoryinfo/) | Stelt een bestandssysteempad voor, een map waarnaar dit pad verwijst, en biedt instantiemethoden voor het manipuleren van mappen. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/)‑pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [File](./file/) | Biedt methoden voor het manipuleren van bestanden. Dit is een statisch type zonder instantie‑services. Je mag onder geen enkele omstandigheid instanties ervan maken. |
+| [FileInfo](./fileinfo/) | Stelt een pad naar een bestand voor en een bestand waarnaar dit pad verwijst, en biedt methoden om het te manipuleren. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/)‑pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [FileStream](./filestream/) | Stelt een bestandsstream voor die synchroon en asynchroon lees‑ en schrijf‑operaties ondersteunt. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/)‑pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [FileSystemInfo](./filesysteminfo/) | De basisklasse voor [FileInfo](./fileinfo/) en [DirectoryInfo](./directoryinfo/). Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/)‑pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [FileSystemInfoStat](./filesysteminfostat/) | Stelt informatie over een bestand of map voor. |
+| [MemoryStream](./memorystream/) | Stelt een stream voor die van geheugen leest en ernaar schrijft. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [Path](./path/) | Biedt methoden voor het manipuleren van paden. Dit is een statisch type zonder instantie‑services. Je mag nooit op welke manier dan ook instanties ervan maken. |
+| [STDIOStreamWrapperBase](./stdiostreamwrapperbase/) | Stelt een basisklasse voor [System.IO.Stream](./stream/)-achtige wrappers voor. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [Stream](./stream/) | Een basisklasse voor diverse stream‑implementaties. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [StreamReader](./streamreader/) | Stelt een lezer voor die tekens leest uit een byte‑stream. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [StreamWriter](./streamwriter/) | Stelt een schrijver voor die tekens naar een byte‑stream schrijft. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [StringReader](./stringreader/) | Stelt een lezer voor die tekens leest uit een string. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [StringWriter](./stringwriter/) | Implementeert een [TextWriter](./textwriter/) die informatie naar een string schrijft. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [TextReader](./textreader/) | Een basisklasse voor klassen die lezers vertegenwoordigen die reeksen tekens uit verschillende bronnen lezen. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [TextWriter](./textwriter/) | Een basisklasse voor klassen die schrijvers vertegenwoordigen die reeksen tekens naar verschillende bestemmingen schrijven. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [UnmanagedMemoryStream](./unmanagedmemorystream/) | Biedt toegang tot niet‑beheerd geheugen. Objecten van deze klasse mogen alleen worden gealloceerd met de functie [System::MakeObject()](../system/makeobject/) . Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+## Enums
+
+| Enum | Beschrijving |
+| --- | --- |
+| [FileAccess](./fileaccess/) | Specificeert het type toegang bij het openen van het bestand. |
+| [FileAttributes](./fileattributes/) | Stelt attributen van een map of een bestand voor. |
+| [FileMode](./filemode/) | Specificeert hoe een bestand moet worden geopend. |
+| [FileOptions](./fileoptions/) | Stelt geavanceerde opties voor het maken van een [FileStream](./filestream/) object voor. |
+| [FileShare](./fileshare/) | Specificeert welk type toegang andere [FileStream](./filestream/) objecten kunnen hebben tot een te openen bestand. |
+| [SearchOption](./searchoption/) | Specificeert dat een zoekopdracht alleen in de huidige map moet worden uitgevoerd, of in de huidige map en al haar submappen. |
+| [SeekOrigin](./seekorigin/) | Specificeert de referentiepositie in de stream ten opzichte waarvan de positie om naartoe te zoeken wordt opgegeven. |
+| [STDIOStreamPositionPreference](./stdiostreampositionpreference/) | Bepaalt welke positie in de stream de voorkeur heeft als een gemeenschappelijke lees‑ en schrijfpositie wanneer std::basic_iostream en afgeleiden verschillende lees‑ en schrijfposities hebben op het moment van het maken van de wrapper. |
+| [STDIOStreamWrappingMode](./stdiostreamwrappingmode/) | Specificeert de modus van I/O‑bewerkingen die wrappers zullen uitvoeren op streams die op std::iostreams lijken. |
+| [SystemIOStreamWrappingMode](./systemiostreamwrappingmode/) | Specificeert de modus van I/O‑bewerkingen die wrappers zullen uitvoeren op [System::IO::Stream](./stream/)-achtige streams. |
+## Typedefs
+
+| Typedef | Beschrijving |
+| --- | --- |
+| [BinaryWriterPtr](./binarywriterptr/) | Een alias voor een shared pointer naar deze klasse. |
+| [FileNotFoundException](./filenotfoundexception/) | De uitzondering die wordt gegooid wanneer een poging om een bestand dat niet op de schijf bestaat te openen mislukt. Wikkel nooit de instanties van de [FileNotFoundException](./filenotfoundexception/) klasse in een [System::SmartPtr](../system/smartptr/). |
+| [IsTemplateBaseOf](./istemplatebaseof/) | Stelt het tegenhanger van std::is_base_of<Base, Derived> voor die de overerving van een niet‑geïnstantieerde Base‑templatesklasse vanuit een geïnstantieerde Derived‑templatesklasse bepaalt. Zal falen bij meervoudige overerving of niet‑publieke overerving van Base. |
+| [STDIOStreamWrapper](./stdiostreamwrapper/) | Specialisaties van [BasicSTDIOStreamWrapper](./basicstdiostreamwrapper/) voor char-tekentypen. |
+| [STDIStreamWrapper](./stdistreamwrapper/) | Specialisaties van [BasicSTDIStreamWrapper](./basicstdistreamwrapper/) voor char-tekentypen. |
+| [STDOStreamWrapper](./stdostreamwrapper/) | Specialisaties van [BasicSTDOStreamWrapper](./basicstdostreamwrapper/) voor char-tekentypen. |
+| [STDWIOStreamWrapper](./stdwiostreamwrapper/) | Specialisaties van [BasicSTDIOStreamWrapper](./basicstdiostreamwrapper/) voor wchar_t-tekentypen. |
+| [STDWIStreamWrapper](./stdwistreamwrapper/) | Specialisaties van [BasicSTDIStreamWrapper](./basicstdistreamwrapper/) voor wchar_t-tekentypen. |
+| [STDWOStreamWrapper](./stdwostreamwrapper/) | Specialisaties van [BasicSTDOStreamWrapper](./basicstdostreamwrapper/) voor wchar_t-tekentypen. |
+| [SystemIOStreamWrapper](./systemiostreamwrapper/) | Specialisaties van [BasicSystemIOStreamWrapper](./basicsystemiostreamwrapper/) voor char-tekentypen. |
+| [SystemIStreamWrapper](./systemistreamwrapper/) | Specialisaties van [BasicSystemIStreamWrapper](./basicsystemistreamwrapper/) voor char-tekentypen. |
+| [SystemOStreamWrapper](./systemostreamwrapper/) | Specialisaties van [BasicSystemOStreamWrapper](./basicsystemostreamwrapper/) voor char-tekentypen. |
+| [SystemWIOStreamWrapper](./systemwiostreamwrapper/) | Specialisaties van [BasicSystemIOStreamWrapper](./basicsystemiostreamwrapper/) voor wchar_t-tekentypen. |
+| [SystemWIStreamWrapper](./systemwistreamwrapper/) | Specialisaties van [BasicSystemIStreamWrapper](./basicsystemistreamwrapper/) voor wchar_t-tekentypen. |
+| [SystemWOStreamWrapper](./systemwostreamwrapper/) | Specialisaties van [BasicSystemOStreamWrapper](./basicsystemostreamwrapper/) voor wchar_t-tekentypen. |
+## Functions
+
+| Functie | Beschrijving |
+| --- | --- |
+| WrapSTDIOStream | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| WrapSTDIOStream | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| WrapSTDIOStream | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

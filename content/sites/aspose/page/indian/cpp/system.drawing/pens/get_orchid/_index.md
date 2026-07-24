@@ -1,0 +1,25 @@
+---
+title: "System::Drawing::Pens::get_Orchid मेथड"
+linktitle: "get_Orchid"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Drawing::Pens::get_Orchid मेथड। वापस देता है एक Pen ऑब्जेक्ट जिसकी चौड़ाई 1 है और जिसका ARGB रंग हेक्साडेसिमल नोटेशन में #FFDA70D6 मान रखता है C++ में।"
+type: docs
+weight: 10200
+url: /hi/cpp/system.drawing/pens/get_orchid/
+---
+## Pens::get_Orchid method
+
+
+वापस देता है एक [Pen](../../pen/) ऑब्जेक्ट जिसकी चौड़ाई 1 है और जिसका ARGB रंग हेक्साडेसिमल नोटेशन में #FFDA70D6 मान रखता है।
+
+```cpp
+static SharedPtr<Pen> System::Drawing::Pens::get_Orchid()
+```
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Pen](../../pen/)
+* Class [Pens](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

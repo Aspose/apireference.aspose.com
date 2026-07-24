@@ -1,0 +1,29 @@
+---
+title: "Aspose::Page::Plugins::ByteArrayResult::ToFile method"
+linktitle: "ToFile"
+second_title: "Aspose.Page voor C++"
+description: "Aspose::Page::Plugins::ByteArrayResult::ToFile methode. Probeert het resultaat om te zetten naar een bestand in C++."
+type: docs
+weight: 600
+url: /nl/cpp/aspose.page.plugins/bytearrayresult/tofile/
+---
+## ByteArrayResult::ToFile method
+
+
+Probeert het resultaat naar een bestand te converteren.
+
+```cpp
+System::String Aspose::Page::Plugins::ByteArrayResult::ToFile() override
+```
+
+
+### ReturnValue
+
+Een string die het pad naar het uitvoerbestand weergeeft als het resultaat een bestand is; anders **null**.
+
+## Zie ook
+
+* Class [String](../../../system/string/)
+* Class [ByteArrayResult](../)
+* Namespace [Aspose::Page::Plugins](../../)
+* Library [Aspose.Page for C++](../../../)

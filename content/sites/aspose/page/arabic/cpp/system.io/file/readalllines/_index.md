@@ -1,0 +1,36 @@
+---
+title: "System::IO::File::ReadAllLines طريقة"
+linktitle: "ReadAllLines"
+second_title: "Aspose.Page لـ C++"
+description: "System::IO::File::ReadAllLines طريقة. يقرأ محتوى ملف النص المحدد سطرًا بسطر إلى مصفوفة من السلاسل باستخدام ترميز الأحرف المحدد في C++."
+type: docs
+weight: 2400
+url: /ar/cpp/system.io/file/readalllines/
+---
+## File::ReadAllLines method
+
+
+يقرأ محتوى ملف النص المحدد سطرًا بسطر إلى مصفوفة من السلاسل باستخدام الترميز الأحرف المحدد.
+
+```cpp
+static ArrayPtr<String> System::IO::File::ReadAllLines(const String &path, const EncodingPtr &encoding=Text::Encoding::get_UTF8())
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| المسار | const String\& | مسار الملف للقراءة |
+| الترميز | const EncodingPtr\& | ترميز الأحرف المستخدم |
+
+### ReturnValue
+
+مصفوفة سلاسل، كل عنصر فيها يمثل سطرًا واحدًا من الملف المحدد
+
+## انظر أيضًا
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)

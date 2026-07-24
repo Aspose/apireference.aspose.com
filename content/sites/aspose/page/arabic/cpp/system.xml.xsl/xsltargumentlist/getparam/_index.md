@@ -1,0 +1,36 @@
+---
+title: "System::Xml::Xsl::XsltArgumentList::GetParam طريقة"
+linktitle: "GetParam"
+second_title: "Aspose.Page لـ C++"
+description: "System::Xml::Xsl::XsltArgumentList::GetParam طريقة. تُرجع المعامل المرتبط بالاسم المؤهل للمساحة الاسمية في C++."
+type: docs
+weight: 600
+url: /ar/cpp/system.xml.xsl/xsltargumentlist/getparam/
+---
+## XsltArgumentList::GetParam method
+
+
+يعيد المعلمة المرتبطة بالاسم المؤهل للمساحة الاسمية.
+
+```cpp
+SharedPtr<Object> System::Xml::Xsl::XsltArgumentList::GetParam(const String &name, const String &namespaceUri)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| name | const String\& | اسم المعلمة. لا يتحقق [XsltArgumentList](../) من ضمان أن الاسم الممرَّر هو اسم محلي صالح؛ ومع ذلك، لا يمكن أن يكون الاسم **nullptr**. |
+| namespaceUri | const String\& | معرف URI للمساحة الاسمية المرتبط بالمعلمة. |
+
+### ReturnValue
+
+كائن المعامل أو **nullptr** إذا لم يتم العثور عليه.
+
+## انظر أيضًا
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [String](../../../system/string/)
+* Class [XsltArgumentList](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Page for C++](../../../)

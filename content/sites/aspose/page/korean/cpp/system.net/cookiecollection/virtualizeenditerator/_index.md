@@ -1,0 +1,30 @@
+---
+title: "System::Net::CookieCollection::virtualizeEndIterator method"
+linktitle: "virtualizeEndIterator"
+second_title: "C++용 Aspose.Page"
+description: "System::Net::CookieCollection::virtualizeEndIterator 메서드. 현재 컨테이너의 끝 반복자 구현을 가져옵니다 (C++)."
+type: docs
+weight: 1700
+url: /ko/cpp/system.net/cookiecollection/virtualizeenditerator/
+---
+## CookieCollection::virtualizeEndIterator method
+
+
+현재 컨테이너에 대한 end iterator 구현을 가져옵니다.
+
+```cpp
+System::Details::VirtualizedIteratorBase<System::SharedPtr<Cookie>> * System::Net::CookieCollection::virtualizeEndIterator() override
+```
+
+
+### ReturnValue
+
+새로 생성된 반복자 커널 객체에 대한 포인터.
+
+## 또 보기
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Cookie](../../cookie/)
+* Class [CookieCollection](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,24 @@
+---
+title: "Aspose::Page::XPS::XpsMetadata::JobBindAllDocuments::BindingOption::BindTop field"
+linktitle: "BindTop"
+second_title: "Aspose.Page C++ के लिए"
+description: "Aspose::Page::XPS::XpsMetadata::JobBindAllDocuments::BindingOption::BindTop field. C++ में ऊपर किनारे के साथ बाइंडिंग को निर्दिष्ट करता है।"
+type: docs
+weight: 600
+url: /hi/cpp/aspose.page.xps.xpsmetadata/jobbindalldocuments/bindingoption/bindtop/
+---
+## BindTop field
+
+
+ऊपरी किनारे के साथ बाइंडिंग निर्दिष्ट करता है।
+
+```cpp
+static System::SharedPtr<JobBindAllDocuments::BindingOption> Aspose::Page::XPS::XpsMetadata::JobBindAllDocuments::BindingOption::BindTop
+```
+
+## संबंधित देखें
+
+* Class [BindingOption](../)
+* Class [JobBindAllDocuments](../../)
+* Namespace [Aspose::Page::XPS::XpsMetadata](../../../)
+* Library [Aspose.Page for C++](../../../../)

@@ -1,0 +1,25 @@
+---
+title: "System::Drawing::Brushes::get_SeaGreen विधि"
+linktitle: "get_SeaGreen"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Drawing::Brushes::get_SeaGreen विधि। यह ठोस भराव रंग लौटाता है जिसका हेक्साडेसिमल मान #FF2E8B57 C++ में है।"
+type: docs
+weight: 12000
+url: /hi/cpp/system.drawing/brushes/get_seagreen/
+---
+## Brushes::get_SeaGreen method
+
+
+वापस करता है ठोस भराव रंग जिसका हेक्साडेसिमल मान #FF2E8B57 है।
+
+```cpp
+static SharedPtr<Brush> System::Drawing::Brushes::get_SeaGreen()
+```
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Brush](../../brush/)
+* Class [Brushes](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

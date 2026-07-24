@@ -1,0 +1,28 @@
+---
+title: "Méthode System::Collections::Generic::IEnumerable::LINQ_LastOrDefault"
+linktitle: "LINQ_LastOrDefault"
+second_title: "Aspose.Page pour C++"
+description: "Méthode System::Collections::Generic::IEnumerable::LINQ_LastOrDefault. Retourne le dernier élément d'une séquence, ou une valeur par défaut si la séquence est vide en C++."
+type: docs
+weight: 1900
+url: /fr/cpp/system.collections.generic/ienumerable/linq_lastordefault/
+---
+## IEnumerable::LINQ_LastOrDefault method
+
+
+Renvoie le dernier élément d'une séquence, ou une valeur par défaut si la séquence est vide.
+
+```cpp
+T System::Collections::Generic::IEnumerable<T>::LINQ_LastOrDefault()
+```
+
+
+### ReturnValue
+
+Dernier élément de la séquence ou valeur par défaut construite si la séquence est vide.
+
+## Voir aussi
+
+* Class [IEnumerable](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)

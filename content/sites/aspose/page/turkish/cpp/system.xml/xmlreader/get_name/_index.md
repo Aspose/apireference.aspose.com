@@ -1,0 +1,42 @@
+---
+title: "System::Xml::XmlReader::get_Name yöntemi"
+linktitle: "get_Name"
+second_title: "Aspose.Page için C++"
+description: "System::Xml::XmlReader::get_Name yöntemi. Türetilmiş bir sınıfta geçersiz kılındığında, geçerli düğümün nitelikli adını C++'ta alır."
+type: docs
+weight: 1500
+url: /tr/cpp/system.xml/xmlreader/get_name/
+---
+## XmlReader::get_Name method
+
+
+Türetilmiş bir sınıfta geçersiz kılındığında, geçerli düğümün nitelikli adını alır.
+
+```cpp
+virtual String System::Xml::XmlReader::get_Name()
+```
+
+
+### ReturnValue
+
+Geçerli düğümün nitelikli adı. Örneğin, **Name** öğesi **<bk:book>** elemanı için **bk:book** olur.
+## Açıklamalar
+
+
+
+Döndürülen ad, düğümün [XmlReader::get_NodeType](../get_nodetype/) değerine bağlıdır. Aşağıdaki düğüm tipleri listelenen değerleri döndürür. Diğer tüm düğüm tipleri boş bir dize döndürür. |||
+|-|-|
+| Düğüm tipi | Ad |
+| Attribute | Özelliğin adı. |
+| DocumentType | Belge türü adı. |
+| Element | Etiket adı. |
+| EntityReference | Başvurulan varlığın adı. |
+| ProcessingInstruction | İşlem talimatının hedefi. |
+| XmlDeclaration | Düz metin dizesi xml. |
+
+## Ayrıca Bakınız
+
+* Class [String](../../../system/string/)
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)

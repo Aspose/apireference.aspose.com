@@ -1,0 +1,225 @@
+---
+title: "NUp.PresentationDirection.PresentationDirectionOption"
+second_title: "Aspose.Page for Java API-Referenz"
+description: "Beschreibt die Feature-Optionen von PresentationDirection."
+type: docs
+weight: 10
+url: /de/java/com.aspose.xps.metadata/nup.presentationdirection.presentationdirectionoption/
+---
+**Inheritance:**
+java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.xps.metadata/printticketelement), [com.aspose.xps.metadata.CompositePrintTicketElement](../../com.aspose.xps.metadata/compositeprintticketelement), [com.aspose.xps.metadata.Option](../../com.aspose.xps.metadata/option)
+```
+public static final class NUp.PresentationDirection.PresentationDirectionOption extends Option
+```
+
+Beschreibt die  PresentationDirection  Funktionsoptionen.
+## Felder
+
+| Feld | Beschreibung |
+| --- | --- |
+| [BottomLeft](#BottomLeft) | Gibt von oben nach unten, von rechts nach links an. |
+| [BottomRight](#BottomRight) | Gibt von oben nach unten, von links nach rechts an. |
+| [LeftBottom](#LeftBottom) | Gibt von rechts nach links, von oben nach unten an. |
+| [LeftTop](#LeftTop) | Gibt von rechts nach links, von unten nach oben an. |
+| [RightBottom](#RightBottom) | Gibt von links nach rechts, von oben nach unten an. |
+| [RightTop](#RightTop) | Gibt von links nach rechts, von unten nach oben an. |
+| [TopLeft](#TopLeft) | Gibt von unten nach oben, von rechts nach links an. |
+| [TopRight](#TopRight) | Gibt von unten nach oben, von links nach rechts an. |
+## Methoden
+
+| Methode | Beschreibung |
+| --- | --- |
+| [add(IOptionItem[] items)](#add-com.aspose.xps.metadata.IOptionItem...-) | Fügt eine Liste von Elementen am Ende der Elementliste dieser Option hinzu. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getName()](#getName--) | Ermittelt den Elementnamen. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### BottomLeft {#BottomLeft}
+```
+public static NUp.PresentationDirection.PresentationDirectionOption BottomLeft
+```
+
+
+Gibt von oben nach unten, von rechts nach links an.
+
+### BottomRight {#BottomRight}
+```
+public static NUp.PresentationDirection.PresentationDirectionOption BottomRight
+```
+
+
+Gibt von oben nach unten, von links nach rechts an.
+
+### LeftBottom {#LeftBottom}
+```
+public static NUp.PresentationDirection.PresentationDirectionOption LeftBottom
+```
+
+
+Gibt von rechts nach links, von oben nach unten an.
+
+### LeftTop {#LeftTop}
+```
+public static NUp.PresentationDirection.PresentationDirectionOption LeftTop
+```
+
+
+Gibt von rechts nach links, von unten nach oben an.
+
+### RightBottom {#RightBottom}
+```
+public static NUp.PresentationDirection.PresentationDirectionOption RightBottom
+```
+
+
+Gibt von links nach rechts, von oben nach unten an.
+
+### RightTop {#RightTop}
+```
+public static NUp.PresentationDirection.PresentationDirectionOption RightTop
+```
+
+
+Gibt von links nach rechts, von unten nach oben an.
+
+### TopLeft {#TopLeft}
+```
+public static NUp.PresentationDirection.PresentationDirectionOption TopLeft
+```
+
+
+Gibt von unten nach oben, von rechts nach links an.
+
+### TopRight {#TopRight}
+```
+public static NUp.PresentationDirection.PresentationDirectionOption TopRight
+```
+
+
+Gibt von unten nach oben, von links nach rechts an.
+
+### add(IOptionItem[] items) {#add-com.aspose.xps.metadata.IOptionItem...-}
+```
+public void add(IOptionItem[] items)
+```
+
+
+Fügt eine Liste von Elementen am Ende der Elementliste dieser Option hinzu. Jedes muss eine Instanz von  ScoredProperty  oder  Property  sein.
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| items | [IOptionItem\[\]](../../com.aspose.xps.metadata/ioptionitem) | Liste der hinzuzufügenden Elemente. |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getName() {#getName--}
+```
+public String getName()
+```
+
+
+Ermittelt den Elementnamen.
+
+**Returns:**
+java.lang.String
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

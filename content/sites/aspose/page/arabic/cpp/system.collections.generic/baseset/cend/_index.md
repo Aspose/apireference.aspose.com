@@ -1,0 +1,29 @@
+---
+title: "System::Collections::Generic::BaseSet::cend طريقة"
+linktitle: "cend"
+second_title: "Aspose.Page لـ C++"
+description: "System::Collections::Generic::BaseSet::cend method. يحصل على مكرّر لعنصر غير موجود مؤهل كـ const خلف نهاية المجموعة في C++."
+type: docs
+weight: 500
+url: /ar/cpp/system.collections.generic/baseset/cend/
+---
+## BaseSet::cend method
+
+
+يحصل على المؤشر لعنصر غير موجود مؤهل كـ const يقع خلف نهاية المجموعة.
+
+```cpp
+const_iterator System::Collections::Generic::BaseSet<T, SET_T>::cend() const noexcept
+```
+
+
+### ReturnValue
+
+مكرّر يشير إلى العنصر النظري المؤهل كـ const الموجود بعد عنصر النهاية في مجموعة التجزئة.
+
+## انظر أيضًا
+
+* Typedef [const_iterator](../const_iterator/)
+* Class [BaseSet](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)

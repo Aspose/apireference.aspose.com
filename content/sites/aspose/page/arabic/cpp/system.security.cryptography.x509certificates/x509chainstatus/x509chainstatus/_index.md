@@ -1,0 +1,23 @@
+---
+title: "System::Security::Cryptography::X509Certificates::X509ChainStatus::X509ChainStatus منشئ"
+linktitle: "X509ChainStatus"
+second_title: "Aspose.Page لـ C++"
+description: "كيفية استخدام منشئ X509ChainStatus من فئة System::Security::Cryptography::X509Certificates::X509ChainStatus في C++."
+type: docs
+weight: 100
+url: /ar/cpp/system.security.cryptography.x509certificates/x509chainstatus/x509chainstatus/
+---
+## X509ChainStatus::X509ChainStatus constructor
+
+
+
+
+```cpp
+System::Security::Cryptography::X509Certificates::X509ChainStatus::X509ChainStatus()
+```
+
+## انظر أيضًا
+
+* Class [X509ChainStatus](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)

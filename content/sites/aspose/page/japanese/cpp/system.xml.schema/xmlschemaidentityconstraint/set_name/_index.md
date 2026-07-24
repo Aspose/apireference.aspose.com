@@ -1,0 +1,29 @@
+---
+title: "System::Xml::Schema::XmlSchemaIdentityConstraint::set_Name メソッド"
+linktitle: "set_Name"
+second_title: "C++ 用 Aspose.Page"
+description: "System::Xml::Schema::XmlSchemaIdentityConstraint::set_Name メソッド。C++ で同一性制約の名前を設定します。"
+type: docs
+weight: 600
+url: /ja/cpp/system.xml.schema/xmlschemaidentityconstraint/set_name/
+---
+## XmlSchemaIdentityConstraint::set_Name method
+
+
+同一性制約の名前を設定します。
+
+```cpp
+void System::Xml::Schema::XmlSchemaIdentityConstraint::set_Name(const String &value)
+```
+
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| value | const String\& | 設定する値です。 |
+
+## 参照
+
+* Class [String](../../../system/string/)
+* Class [XmlSchemaIdentityConstraint](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Page for C++](../../../)

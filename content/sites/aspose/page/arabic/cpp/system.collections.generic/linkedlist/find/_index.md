@@ -1,0 +1,34 @@
+---
+title: "طريقة System::Collections::Generic::LinkedList::Find"
+linktitle: "بحث"
+second_title: "Aspose.Page لـ C++"
+description: "طريقة System::Collections::Generic::LinkedList::Find. تقوم بالبحث في الاتجاه الأمامي عن عنصر في القائمة في C++."
+type: docs
+weight: 1600
+url: /ar/cpp/system.collections.generic/linkedlist/find/
+---
+## LinkedList::Find method
+
+
+يقوم بالبحث في الاتجاه الأمامي عن **element** في القائمة.
+
+```cpp
+SharedPtr<LinkedListNode<T>> System::Collections::Generic::LinkedList<T>::Find(const T &element) const
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| element | const T\& | العنصر للبحث عنه. |
+
+### ReturnValue
+
+العقدة الموجودة إذا تم العثور على **element**, وإلا nullptr.
+
+## انظر أيضًا
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [LinkedListNode](../../linkedlistnode/)
+* Class [LinkedList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)

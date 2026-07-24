@@ -1,0 +1,58 @@
+---
+title: "System::Globalization::ChineseLunisolarCalendar::IsLeapMonth طريقة"
+linktitle: "IsLeapMonth"
+second_title: "Aspose.Page لـ C++"
+description: "System::Globalization::ChineseLunisolarCalendar::IsLeapMonth طريقة. يتحقق مما إذا كان الشهر كبيسًا في C++."
+type: docs
+weight: 1100
+url: /ar/cpp/system.globalization/chineselunisolarcalendar/isleapmonth/
+---
+## ChineseLunisolarCalendar::IsLeapMonth(int, int) const method
+
+
+يتحقق مما إذا كان الشهر سنة كبيسة.
+
+```cpp
+virtual bool System::Globalization::Calendar::IsLeapMonth(int year, int month) const
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| السنة | int | السنة. |
+| شهر | int | شهر. |
+
+### ReturnValue
+
+True إذا كان الشهر المحدد كبيسًا، false خلاف ذلك.
+
+## انظر أيضًا
+
+* Class [ChineseLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
+## ChineseLunisolarCalendar::IsLeapMonth(int, int, int) const method
+
+
+يتحقق مما إذا كان الشهر سنة كبيسة.
+
+```cpp
+bool System::Globalization::ChineseLunisolarCalendar::IsLeapMonth(int year, int month, int era) const override
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| السنة | int | السنة. |
+| شهر | int | شهر. |
+| العصر | int | العصر. |
+
+### ReturnValue
+
+True إذا كان الشهر المحدد كبيسًا، false خلاف ذلك.
+
+## انظر أيضًا
+
+* Class [ChineseLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)

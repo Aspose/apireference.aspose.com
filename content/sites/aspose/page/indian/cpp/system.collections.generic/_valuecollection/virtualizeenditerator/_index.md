@@ -1,0 +1,29 @@
+---
+title: "System::Collections::Generic::_ValueCollection::virtualizeEndIterator मेथड"
+linktitle: "virtualizeEndIterator"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Collections::Generic::_ValueCollection::virtualizeEndIterator मेथड। C++ में वर्तमान कंटेनर के लिए एंड इटररेटर का इम्प्लीमेंटेशन प्राप्त करता है।"
+type: docs
+weight: 800
+url: /hi/cpp/system.collections.generic/_valuecollection/virtualizeenditerator/
+---
+## _ValueCollection::virtualizeEndIterator method
+
+
+वर्तमान कंटेनर के लिए end इटररेटर का कार्यान्वयन प्राप्त करता है।
+
+```cpp
+System::Details::VirtualizedIteratorBase<TValue> * System::Collections::Generic::_ValueCollection<Dict>::virtualizeEndIterator() override
+```
+
+
+### ReturnValue
+
+नए बनाए गए इटररेटर कर्नेल ऑब्जेक्ट का पॉइंटर।
+
+## संबंधित देखें
+
+* Typedef [TValue](../tvalue/)
+* Class [_ValueCollection](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)

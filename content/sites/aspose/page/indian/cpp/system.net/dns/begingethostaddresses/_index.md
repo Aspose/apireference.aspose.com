@@ -1,0 +1,39 @@
+---
+title: "System::Net::Dns::BeginGetHostAddresses विधि"
+linktitle: "BeginGetHostAddresses"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Net::Dns::BeginGetHostAddresses विधि। असिंक्रोनस ऑपरेशन शुरू करता है जिससे C++ में निर्दिष्ट स्ट्रिंग (जिसमें होस्ट नाम या IP पता हो) का उपयोग करके एक नया IPHostEntry-क्लास इंस्टेंस बनाया जाता है।"
+type: docs
+weight: 100
+url: /hi/cpp/system.net/dns/begingethostaddresses/
+---
+## Dns::BeginGetHostAddresses method
+
+
+निर्दिष्ट स्ट्रिंग का उपयोग करके जिसमें होस्ट नाम या IP पता हो, एक नया IPHostEntry-class इंस्टेंस बनाने के लिए एक असिंक्रोनस ऑपरेशन शुरू करता है।
+
+```cpp
+static System::SharedPtr<IAsyncResult> System::Net::Dns::BeginGetHostAddresses(String hostNameOrAddress, AsyncCallback requestCallback, System::SharedPtr<Object> state)
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| hostNameOrAddress | String | एक स्ट्रिंग जिसमें होस्टनाम या IP पता शामिल है। |
+| requestCallback | AsyncCallback | ऑपरेशन पूर्ण होने पर कॉल किया जाने वाला कॉलबैक। |
+| स्थिति | System::SharedPtr\<Object\> | उपयोगकर्ता द्वारा प्रदान किया गया डेटा जो प्रत्येक असिंक्रोनस ऑपरेशन को अद्वितीय रूप से पहचानने के लिए उपयोग होता है। |
+
+### ReturnValue
+
+एक [IAsyncResult](../../../system/iasyncresult/) ऑब्जेक्ट जो शुरू किए गए असिंक्रोनस ऑपरेशन का प्रतिनिधित्व करता है।
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAsyncResult](../../../system/iasyncresult/)
+* Class [String](../../../system/string/)
+* Typedef [AsyncCallback](../../../system/asynccallback/)
+* Class [Object](../../../system/object/)
+* Class [Dns](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,30 @@
+---
+title: "System::Xml::Schema::XmlSchemaAttributeGroup::get_QualifiedName मेथड"
+linktitle: "get_QualifiedName"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Xml::Schema::XmlSchemaAttributeGroup::get_QualifiedName मेथड। C++ में attribute group का qualified name लौटाता है।"
+type: docs
+weight: 500
+url: /hi/cpp/system.xml.schema/xmlschemaattributegroup/get_qualifiedname/
+---
+## XmlSchemaAttributeGroup::get_QualifiedName method
+
+
+attribute समूह का योग्य (qualified) नाम लौटाता है।
+
+```cpp
+SharedPtr<XmlQualifiedName> System::Xml::Schema::XmlSchemaAttributeGroup::get_QualifiedName()
+```
+
+
+### ReturnValue
+
+attribute group का qualified name।
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaAttributeGroup](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Page for C++](../../../)

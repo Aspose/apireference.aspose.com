@@ -1,0 +1,35 @@
+---
+title: "Метод System::Net::Http::HttpMessageInvoker::Send"
+linktitle: "Отправить"
+second_title: "Aspose.Page для C++"
+description: "Метод System::Net::Http::HttpMessageInvoker::Send. Отправляет указанный запрос в C++."
+type: docs
+weight: 300
+url: /ru/cpp/system.net.http/httpmessageinvoker/send/
+---
+## HttpMessageInvoker::Send method
+
+
+Отправляет указанный запрос.
+
+```cpp
+virtual System::SharedPtr<HttpResponseMessage> System::Net::Http::HttpMessageInvoker::Send(System::SharedPtr<HttpRequestMessage> request)
+```
+
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| запрос | System::SharedPtr\<HttpRequestMessage\> | Запрос для отправки. |
+
+### ReturnValue
+
+Сообщение HTTP-ответа.
+
+## См. также
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpResponseMessage](../../httpresponsemessage/)
+* Class [HttpRequestMessage](../../httprequestmessage/)
+* Class [HttpMessageInvoker](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,29 @@
+---
+title: "System::Collections::Generic::_KeyCollection::virtualizeBeginConstIterator मेथड"
+linktitle: "virtualizeBeginConstIterator"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Collections::Generic::_KeyCollection::virtualizeBeginConstIterator मेथड। C++ में वर्तमान कंटेनर के लिए begin const इटरेटर का कार्यान्वयन प्राप्त करता है।"
+type: docs
+weight: 500
+url: /hi/cpp/system.collections.generic/_keycollection/virtualizebeginconstiterator/
+---
+## _KeyCollection::virtualizeBeginConstIterator method
+
+
+वर्तमान कंटेनर के लिए begin const इटररेटर का कार्यान्वयन प्राप्त करता है।
+
+```cpp
+System::Details::VirtualizedIteratorBase<TKey> * System::Collections::Generic::_KeyCollection<Dict>::virtualizeBeginConstIterator() const override
+```
+
+
+### ReturnValue
+
+नए बनाए गए इटररेटर कर्नेल ऑब्जेक्ट का पॉइंटर।
+
+## संबंधित देखें
+
+* Typedef [TKey](../tkey/)
+* Class [_KeyCollection](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)

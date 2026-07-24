@@ -1,0 +1,24 @@
+---
+title: "Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOA2 campo"
+linktitle: "ISOA2"
+second_title: "Aspose.Page per C++"
+description: "Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOA2 campo. ISOA2 in C++."
+type: docs
+weight: 1200
+url: /it/cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/isoa2/
+---
+## ISOA2 field
+
+
+ISOA2.
+
+```cpp
+static System::SharedPtr<PageMediaSize::PageMediaSizeOption> Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOA2
+```
+
+## Vedi anche
+
+* Class [PageMediaSizeOption](../)
+* Class [PageMediaSize](../../)
+* Namespace [Aspose::Page::XPS::XpsMetadata](../../../)
+* Library [Aspose.Page for C++](../../../../)

@@ -1,0 +1,24 @@
+---
+title: "System::Security::Cryptography::X509Certificates::X509ChainPolicy::get_VerificationTime metodo"
+linktitle: "get_VerificationTime"
+second_title: "Aspose.Page per C++"
+description: "Come utilizzare il metodo get_VerificationTime della classe System::Security::Cryptography::X509Certificates::X509ChainPolicy in C++."
+type: docs
+weight: 700
+url: /it/cpp/system.security.cryptography.x509certificates/x509chainpolicy/get_verificationtime/
+---
+## X509ChainPolicy::get_VerificationTime method
+
+
+
+
+```cpp
+DateTime System::Security::Cryptography::X509Certificates::X509ChainPolicy::get_VerificationTime()
+```
+
+## Vedi anche
+
+* Class [DateTime](../../../system/datetime/)
+* Class [X509ChainPolicy](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)

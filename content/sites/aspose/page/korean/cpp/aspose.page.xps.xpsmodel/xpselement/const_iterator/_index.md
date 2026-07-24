@@ -1,0 +1,23 @@
+---
+title: "Aspose::Page::XPS::XpsModel::XpsElement::const_iterator typedef"
+linktitle: "const_iterator"
+second_title: "C++용 Aspose.Page"
+description: "Aspose::Page::XPS::XpsModel::XpsElement::const_iterator typedef. C++에서 const 반복자 유형."
+type: docs
+weight: 1600
+url: /ko/cpp/aspose.page.xps.xpsmodel/xpselement/const_iterator/
+---
+## const_iterator typedef
+
+
+상수 반복자 타입.
+
+```cpp
+using Aspose::Page::XPS::XpsModel::XpsElement::const_iterator =  typename iterator_holder_type::const_iterator
+```
+
+## 또 보기
+
+* Class [XpsElement](../)
+* Namespace [Aspose::Page::XPS::XpsModel](../../)
+* Library [Aspose.Page for C++](../../../)

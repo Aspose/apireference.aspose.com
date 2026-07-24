@@ -1,0 +1,30 @@
+---
+title: "Метод System::Net::IPHostEntry::set_Aliases"
+linktitle: "set_Aliases"
+second_title: "Aspose.Page для C++"
+description: "Метод System::Net::IPHostEntry::set_Aliases. Устанавливает коллекцию псевдонимов узла в C++."
+type: docs
+weight: 600
+url: /ru/cpp/system.net/iphostentry/set_aliases/
+---
+## IPHostEntry::set_Aliases method
+
+
+Устанавливает коллекцию псевдонимов хоста.
+
+```cpp
+void System::Net::IPHostEntry::set_Aliases(System::ArrayPtr<String> value)
+```
+
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| value | System::ArrayPtr\<String\> | Коллекция псевдонимов, которую необходимо установить. |
+
+## См. также
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [IPHostEntry](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)

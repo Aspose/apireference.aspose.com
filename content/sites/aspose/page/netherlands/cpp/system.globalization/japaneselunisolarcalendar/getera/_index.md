@@ -1,0 +1,33 @@
+---
+title: "System::Globalization::JapaneseLunisolarCalendar::GetEra methode"
+linktitle: "GetEra"
+second_title: "Aspose.Page voor C++"
+description: "System::Globalization::JapaneseLunisolarCalendar::GetEra methode. Haalt era op voor het opgegeven tijdstip in C++."
+type: docs
+weight: 600
+url: /nl/cpp/system.globalization/japaneselunisolarcalendar/getera/
+---
+## JapaneseLunisolarCalendar::GetEra method
+
+
+Haalt het tijdperk op voor het opgegeven tijdstip.
+
+```cpp
+int System::Globalization::JapaneseLunisolarCalendar::GetEra(DateTime time) const override
+```
+
+
+| Parameter | Type | Beschrijving |
+| --- | --- | --- |
+| tijd | DateTime | Tijd en datum waaruit gegevens moeten worden gehaald. |
+
+### ReturnValue
+
+Tijdperk van het opgegeven tijdstip.
+
+## Zie ook
+
+* Class [DateTime](../../../system/datetime/)
+* Class [JapaneseLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)

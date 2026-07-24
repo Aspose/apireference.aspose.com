@@ -1,0 +1,29 @@
+---
+title: "Aspose::Page::Drawing::Color::get_CornflowerBlue طريقة"
+linktitle: "get_CornflowerBlue"
+second_title: "Aspose.Page لـ C++"
+description: "Aspose::Page::Drawing::Color::get_CornflowerBlue طريقة. يحصل على لون معرف من النظام له قيمة ARGB #FF6495ED في C++."
+type: docs
+weight: 2000
+url: /ar/cpp/aspose.page.drawing/color/get_cornflowerblue/
+---
+## Color::get_CornflowerBlue method
+
+
+يحصل على لون معرف من النظام بقيمة ARGB #FF6495ED.
+
+```cpp
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_CornflowerBlue()
+```
+
+
+### ReturnValue
+
+ـ[T:Aspose::Page::Drawing::Color](../) يمثل لونًا معرفًا من النظام.
+
+## انظر أيضًا
+
+* Class [Color](../)
+* Class [Color](../)
+* Namespace [Aspose::Page::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

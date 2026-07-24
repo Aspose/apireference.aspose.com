@@ -1,0 +1,28 @@
+---
+title: "System::Xml::Serialization::XmlSerializationReader classe"
+linktitle: "XmlSerializationReader"
+second_title: "Aspose.Page per C++"
+description: "System::Xml::Serialization::XmlSerializationReader classe. Classe di servizio che migliora l'esperienza di XmlReader in C++."
+type: docs
+weight: 400
+url: /it/cpp/system.xml.serialization/xmlserializationreader/
+---
+## XmlSerializationReader class
+
+
+Classe di servizio che migliora l'esperienza di [XmlReader](../../system.xml/xmlreader/).
+
+```cpp
+class XmlSerializationReader : public System::Object
+```
+
+## Metodi
+
+| Metodo | Descrizione |
+| --- | --- |
+| [Initialize](./initialize/)(System::SharedPtr\<XmlReader\>, System::SharedPtr\<XmlSerializer\>) | Inizializza la classe [XmlSerializationReader](./). |
+## Vedi anche
+
+* Class [Object](../../system/object/)
+* Namespace [System::Xml::Serialization](../)
+* Library [Aspose.Page for C++](../../)

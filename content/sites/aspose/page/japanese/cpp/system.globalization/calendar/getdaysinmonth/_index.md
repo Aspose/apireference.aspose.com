@@ -1,0 +1,58 @@
+---
+title: "System::Globalization::Calendar::GetDaysInMonth メソッド"
+linktitle: "GetDaysInMonth"
+second_title: "C++ 用 Aspose.Page"
+description: "System::Globalization::Calendar::GetDaysInMonth メソッド. 特定の月の日数を取得します（C++）。"
+type: docs
+weight: 2200
+url: /ja/cpp/system.globalization/calendar/getdaysinmonth/
+---
+## Calendar::GetDaysInMonth(int, int) const method
+
+
+特定の月の日数を取得します。
+
+```cpp
+virtual int System::Globalization::Calendar::GetDaysInMonth(int year, int month) const
+```
+
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| 年 | int | 年。 |
+| 月 | int | 日数を取得する月。 |
+
+### ReturnValue
+
+指定された年の指定された月の日数。
+
+## 参照
+
+* Class [Calendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
+## Calendar::GetDaysInMonth(int, int, int) const method
+
+
+特定の月の日数を取得します。
+
+```cpp
+virtual int System::Globalization::Calendar::GetDaysInMonth(int year, int month, int era) const
+```
+
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| 年 | int | 年。 |
+| 月 | int | 日数を取得する月。 |
+| 時代 | int | 時代。 |
+
+### ReturnValue
+
+指定された時代の指定された年の指定された月の日数。
+
+## 参照
+
+* Class [Calendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)

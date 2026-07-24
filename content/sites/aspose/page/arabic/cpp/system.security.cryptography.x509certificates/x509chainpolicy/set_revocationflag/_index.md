@@ -1,0 +1,24 @@
+---
+title: "System::Security::Cryptography::X509Certificates::X509ChainPolicy::set_RevocationFlag طريقة"
+linktitle: "set_RevocationFlag"
+second_title: "Aspose.Page لـ C++"
+description: "كيفية استخدام طريقة set_RevocationFlag من فئة System::Security::Cryptography::X509Certificates::X509ChainPolicy في C++."
+type: docs
+weight: 900
+url: /ar/cpp/system.security.cryptography.x509certificates/x509chainpolicy/set_revocationflag/
+---
+## X509ChainPolicy::set_RevocationFlag method
+
+
+
+
+```cpp
+void System::Security::Cryptography::X509Certificates::X509ChainPolicy::set_RevocationFlag(X509RevocationFlag value)
+```
+
+## انظر أيضًا
+
+* Enum [X509RevocationFlag](../../x509revocationflag/)
+* Class [X509ChainPolicy](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)

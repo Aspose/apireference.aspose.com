@@ -1,0 +1,28 @@
+---
+title: "System::Net::Sockets::TcpClient::set_SendTimeout 메서드"
+linktitle: "set_SendTimeout"
+second_title: "C++용 Aspose.Page"
+description: "System::Net::Sockets::TcpClient::set_SendTimeout 메서드. C++에서 데이터 전송이 시간 초과될 때까지의 시간을 나타내는 값을 설정합니다."
+type: docs
+weight: 2500
+url: /ko/cpp/system.net.sockets/tcpclient/set_sendtimeout/
+---
+## TcpClient::set_SendTimeout method
+
+
+데이터 전송이 시간 초과될 때까지의 시간을 나타내는 값을 설정합니다.
+
+```cpp
+void System::Net::Sockets::TcpClient::set_SendTimeout(int32_t value)
+```
+
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| value | int32_t | 설정해야 하는 값. |
+
+## 또 보기
+
+* Class [TcpClient](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Page for C++](../../../)

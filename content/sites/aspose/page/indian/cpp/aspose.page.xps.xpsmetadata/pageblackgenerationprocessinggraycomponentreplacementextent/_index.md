@@ -1,0 +1,36 @@
+---
+title: "Aspose::Page::XPS::XpsMetadata::PageBlackGenerationProcessingGrayComponentReplacementExtent class"
+linktitle: "PageBlackGenerationProcessingGrayComponentReplacementExtent"
+second_title: "Aspose.Page C++ के लिए"
+description: "Aspose::Page::XPS::XpsMetadata::PageBlackGenerationProcessingGrayComponentReplacementExtent class. GCR द्वारा लागू किए जाने वाले न्यूट्रल्स से परे (क्रोमैटिक रंगों में) विस्तार का वर्णन करता है। 0% = समान घटक प्रतिस्थापन, 100% = ग्रे घटक प्रतिस्थापन। C++ में।"
+type: docs
+weight: 8000
+url: /hi/cpp/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementextent/
+---
+## PageBlackGenerationProcessingGrayComponentReplacementExtent class
+
+
+GCR द्वारा लागू किए जाने वाले न्यूट्रल्स से परे (क्रोमैटिक रंगों में) विस्तार का वर्णन करता है। 0% = समान घटक प्रतिस्थापन, 100% = ग्रे घटक प्रतिस्थापन। [https://docs.microsoft.com/en-us/windows/win32/printdocs/pageblackgenerationprocessinggraycomponentreplacementextent](https://docs.microsoft.com/en-us/windows/win32/printdocs/pageblackgenerationprocessinggraycomponentreplacementextent).
+
+```cpp
+class PageBlackGenerationProcessingGrayComponentReplacementExtent : public Aspose::Page::XPS::XpsMetadata::IntegerParameterInit,
+                                                                    public Aspose::Page::XPS::XpsMetadata::IJobPrintTicketItem,
+                                                                    public Aspose::Page::XPS::XpsMetadata::IDocumentPrintTicketItem,
+                                                                    public Aspose::Page::XPS::XpsMetadata::IPagePrintTicketItem
+```
+
+## विधियाँ
+
+| विधि | विवरण |
+| --- | --- |
+| [get_MaxValue](./get_maxvalue/)() override | इंटीजर या दशमलव मान वाले पैरामीटरों के लिए, अधिकतम अनुमत मान को परिभाषित करता है। |
+| [get_MinValue](./get_minvalue/)() override | इंटीजर या दशमलव मान वाले पैरामीटरों के लिए, न्यूनतम अनुमत मान को परिभाषित करता है। |
+| [PageBlackGenerationProcessingGrayComponentReplacementExtent](./pageblackgenerationprocessinggraycomponentreplacementextent/)(int32_t) | एक नया इंस्टेंस बनाता है। |
+## संबंधित देखें
+
+* Class [IntegerParameterInit](../integerparameterinit/)
+* Class [IJobPrintTicketItem](../ijobprintticketitem/)
+* Class [IDocumentPrintTicketItem](../idocumentprintticketitem/)
+* Class [IPagePrintTicketItem](../ipageprintticketitem/)
+* Namespace [Aspose::Page::XPS::XpsMetadata](../)
+* Library [Aspose.Page for C++](../../)

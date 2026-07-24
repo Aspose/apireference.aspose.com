@@ -1,0 +1,24 @@
+---
+title: "Aspose::Page::Plugins::XpsConverterToPdfOptions::get_OperationName metod"
+linktitle: "get_OperationName"
+second_title: "Aspose.Page för C++"
+description: "Aspose::Page::Plugins::XpsConverterToPdfOptions::get_OperationName metod. Returnerar operationens namn i C++."
+type: docs
+weight: 200
+url: /sv/cpp/aspose.page.plugins/xpsconvertertopdfoptions/get_operationname/
+---
+## XpsConverterToPdfOptions::get_OperationName method
+
+
+Returnerar operationsnamn.
+
+```cpp
+System::String Aspose::Page::Plugins::XpsConverterToPdfOptions::get_OperationName() override
+```
+
+## Se även
+
+* Class [String](../../../system/string/)
+* Class [XpsConverterToPdfOptions](../)
+* Namespace [Aspose::Page::Plugins](../../)
+* Library [Aspose.Page for C++](../../../)

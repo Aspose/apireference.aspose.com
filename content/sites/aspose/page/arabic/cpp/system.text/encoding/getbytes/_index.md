@@ -1,0 +1,273 @@
+---
+title: "System::Text::Encoding::GetBytes method"
+linktitle: "GetBytes"
+second_title: "Aspose.Page لـ C++"
+description: "System::Text::Encoding::GetBytes method. احصل على البايتات الناتجة عن ترميز مخزن مؤقت من الأحرف في C++."
+type: docs
+weight: 1800
+url: /ar/cpp/system.text/encoding/getbytes/
+---
+## Encoding::GetBytes(ArrayPtr\<char_t\>) method
+
+
+احصل على البايتات الناتجة عن ترميز مخزن الأحرف.
+
+```cpp
+virtual ArrayPtr<uint8_t> System::Text::Encoding::GetBytes(ArrayPtr<char_t> chars)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| chars | ArrayPtr\<char_t\> | الأحرف المراد ترميزها. |
+
+### ReturnValue
+
+[Buffer](../../../system/buffer/) that holds representation of characters being encoded.
+
+## انظر أيضًا
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## Encoding::GetBytes(ArrayPtr\<char_t\>, int, int, ArrayPtr\<uint8_t\>, int) method
+
+
+احصل على البايتات الناتجة عن ترميز مخزن الأحرف.
+
+```cpp
+virtual int System::Text::Encoding::GetBytes(ArrayPtr<char_t> chars, int char_index, int char_count, ArrayPtr<uint8_t> bytes, int byte_index)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| chars | ArrayPtr\<char_t\> | الأحرف المراد ترميزها. |
+| char_index | int | بداية شريحة الأحرف. |
+| char_count | int | عدد الأحرف المراد تحويلها. |
+| bytes | ArrayPtr\<uint8_t\> | [Buffer](../../../system/buffer/) لوضع الأحرف فيه. |
+| byte_index | int | إزاحة مخزن الإخراج. |
+
+### ReturnValue
+
+عدد البايتات المكتوبة.
+
+## انظر أيضًا
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## Encoding::GetBytes(ArrayPtr\<char_t\>, int, int) method
+
+
+احصل على البايتات الناتجة عن ترميز مخزن الأحرف.
+
+```cpp
+virtual ArrayPtr<uint8_t> System::Text::Encoding::GetBytes(ArrayPtr<char_t> chars, int index, int count)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| chars | ArrayPtr\<char_t\> | الأحرف المراد ترميزها. |
+| الفهرس | int | بداية شريحة الأحرف. |
+| count | int | عدد الأحرف المراد تحويلها. |
+
+### ReturnValue
+
+[Buffer](../../../system/buffer/) that holds representation of characters being encoded.
+
+## انظر أيضًا
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## Encoding::GetBytes(const char_t *, int, uint8_t *, int) method
+
+
+احصل على البايتات الناتجة عن ترميز مخزن الأحرف.
+
+```cpp
+virtual int System::Text::Encoding::GetBytes(const char_t *chars, int char_count, uint8_t *bytes, int byte_count)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| chars | const char_t * | الأحرف المراد ترميزها. |
+| char_count | int | عدد الأحرف المراد تحويلها. |
+| bytes | uint8_t * | [Buffer](../../../system/buffer/) لوضع الأحرف فيه. |
+| byte_count | int | حجم مخزن الإخراج. |
+
+### ReturnValue
+
+عدد البايتات المكتوبة.
+
+## انظر أيضًا
+
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## Encoding::GetBytes(const String\&) method
+
+
+احصل على البايتات الناتجة عن ترميز مخزن الأحرف.
+
+```cpp
+virtual ArrayPtr<uint8_t> System::Text::Encoding::GetBytes(const String &s)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| s | const String\& | [String](../../../system/string/) للترميز. |
+
+### ReturnValue
+
+[Buffer](../../../system/buffer/) that holds representation of characters being encoded.
+
+## انظر أيضًا
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## Encoding::GetBytes(const String\&, int, int, ArrayPtr\<uint8_t\>, int) method
+
+
+احصل على البايتات الناتجة عن ترميز مخزن الأحرف.
+
+```cpp
+virtual int System::Text::Encoding::GetBytes(const String &s, int char_index, int char_count, ArrayPtr<uint8_t> bytes, int byte_index)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| s | const String\& | [String](../../../system/string/) للترميز. |
+| char_index | int | بداية شريحة الأحرف. |
+| char_count | int | عدد الأحرف المراد تحويلها. |
+| bytes | ArrayPtr\<uint8_t\> | [Buffer](../../../system/buffer/) لوضع الأحرف فيه. |
+| byte_index | int | إزاحة مخزن الإخراج. |
+
+### ReturnValue
+
+عدد البايتات المكتوبة.
+
+## انظر أيضًا
+
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## Encoding::GetBytes(const System::Details::ArrayView\<char_t\>\&, int, int) method
+
+
+احصل على البايتات الناتجة عن ترميز مخزن الأحرف.
+
+```cpp
+virtual ArrayPtr<uint8_t> System::Text::Encoding::GetBytes(const System::Details::ArrayView<char_t> &chars, int index, int count)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| chars | const System::Details::ArrayView\<char_t\>\& | الأحرف المراد ترميزها. |
+| الفهرس | int | بداية شريحة الأحرف. |
+| count | int | عدد الأحرف المراد تحويلها. |
+
+### ReturnValue
+
+[Buffer](../../../system/buffer/) that holds representation of characters being encoded.
+
+## انظر أيضًا
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## Encoding::GetBytes(const System::Details::StackArray\<char_t, N\>\&, int, int) method
+
+
+احصل على البايتات الناتجة عن ترميز مخزن الأحرف.
+
+```cpp
+template<std::size_t> ArrayPtr<uint8_t> System::Text::Encoding::GetBytes(const System::Details::StackArray<char_t, N> &chars, int index, int count)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| chars | const System::Details::StackArray\<char_t, N\>\& | الأحرف المراد ترميزها. |
+| الفهرس | int | بداية شريحة الأحرف. |
+| count | int | عدد الأحرف المراد تحويلها. |
+
+### ReturnValue
+
+[Buffer](../../../system/buffer/) that holds representation of characters being encoded.
+
+## انظر أيضًا
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## Encoding::GetBytes(System::Details::ArrayView\<char_t\>, int, int, System::Details::ArrayView\<uint8_t\>, int) method
+
+
+احصل على البايتات الناتجة عن ترميز مخزن الأحرف.
+
+```cpp
+virtual int System::Text::Encoding::GetBytes(System::Details::ArrayView<char_t> chars, int char_index, int char_count, System::Details::ArrayView<uint8_t> bytes, int byte_index)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| chars | System::Details::ArrayView\<char_t\> | الأحرف المراد ترميزها. |
+| char_index | int | بداية شريحة الأحرف. |
+| char_count | int | عدد الأحرف المراد تحويلها. |
+| bytes | System::Details::ArrayView\<uint8_t\> | [Buffer](../../../system/buffer/) لوضع الأحرف فيه. |
+| byte_index | int | إزاحة مخزن الإخراج. |
+
+### ReturnValue
+
+عدد البايتات المكتوبة.
+
+## انظر أيضًا
+
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## Encoding::GetBytes(System::Details::StackArray\<char_t, SC\>\&, int, int, System::Details::StackArray\<uint8_t, SB\>\&, int) method
+
+
+احصل على البايتات الناتجة عن ترميز مخزن الأحرف.
+
+```cpp
+template<std::size_t,std::size_t> int System::Text::Encoding::GetBytes(System::Details::StackArray<char_t, SC> &chars, int char_index, int char_count, System::Details::StackArray<uint8_t, SB> &bytes, int byte_index)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| chars | System::Details::StackArray\<char_t, SC\>\& | الأحرف المراد ترميزها. |
+| char_index | int | بداية شريحة الأحرف. |
+| char_count | int | عدد الأحرف المراد تحويلها. |
+| bytes | System::Details::StackArray\<uint8_t, SB\>\& | [Buffer](../../../system/buffer/) لوضع الأحرف فيه. |
+| byte_index | int | إزاحة مخزن الإخراج. |
+
+### ReturnValue
+
+عدد البايتات المكتوبة.
+
+## انظر أيضًا
+
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)

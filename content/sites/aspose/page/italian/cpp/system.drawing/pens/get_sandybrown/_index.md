@@ -1,0 +1,25 @@
+---
+title: "Metodo System::Drawing::Pens::get_SandyBrown"
+linktitle: "get_SandyBrown"
+second_title: "Aspose.Page per C++"
+description: "Metodo System::Drawing::Pens::get_SandyBrown. Restituisce un oggetto Pen con una larghezza di 1 e il cui colore ARGB in notazione esadecimale ha valore #FFF4A460 in C++."
+type: docs
+weight: 11900
+url: /it/cpp/system.drawing/pens/get_sandybrown/
+---
+## Pens::get_SandyBrown method
+
+
+Restituisce un oggetto [Pen](../../pen/) con una larghezza di 1 e il cui colore ARGB in notazione esadecimale ha valore #FFF4A460.
+
+```cpp
+static SharedPtr<Pen> System::Drawing::Pens::get_SandyBrown()
+```
+
+## Vedi anche
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Pen](../../pen/)
+* Class [Pens](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

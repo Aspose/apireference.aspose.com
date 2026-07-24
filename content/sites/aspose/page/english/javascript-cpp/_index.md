@@ -61,7 +61,7 @@ is_root: true
 
 | Function | Description |
 | -------- | ----------- |
-| [AsposeGetXpsPageCount](./xps/getxpspagecount/) | Get the number of pages in the xps-document. |
+| [AsposeXPSGetPageCount](./xps/xpsgetpagecount/) | Get the number of pages in the xps-document. |
 
 ## Image functions
 

@@ -1,0 +1,25 @@
+---
+title: "System::Drawing::Pens::get_Teal मेथड"
+linktitle: "get_Teal"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Drawing::Pens::get_Teal मेथड। एक Pen वस्तु लौटाता है जिसकी चौड़ाई 1 है और जिसका ARGB रंग हेक्साडेसिमल नोटेशन में #FF008080 मान रखता है C++ में।"
+type: docs
+weight: 13100
+url: /hi/cpp/system.drawing/pens/get_teal/
+---
+## Pens::get_Teal method
+
+
+एक [Pen](../../pen/) वस्तु लौटाता है जिसकी चौड़ाई 1 है और जिसका ARGB रंग हेक्साडेसिमल नोटेशन में #FF008080 मान रखता है।
+
+```cpp
+static SharedPtr<Pen> System::Drawing::Pens::get_Teal()
+```
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Pen](../../pen/)
+* Class [Pens](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

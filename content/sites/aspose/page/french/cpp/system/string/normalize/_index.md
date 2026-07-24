@@ -1,0 +1,34 @@
+---
+title: "Méthode System::String::Normalize"
+linktitle: "Normalize"
+second_title: "Aspose.Page pour C++"
+description: "Méthode System::String::Normalize. Normalise une chaîne Unicode en utilisant la forme de normalisation spécifiée en C++."
+type: docs
+weight: 2600
+url: /fr/cpp/system/string/normalize/
+---
+## String::Normalize method
+
+
+Normalise la chaîne Unicode en utilisant la forme de normalisation spécifiée.
+
+```cpp
+String System::String::Normalize(System::Text::NormalizationForm form) const
+```
+
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| form | System::Text::NormalizationForm | Forme de normalisation, voir [System::Text::NormalizationForm](../../../system.text/normalizationform/) pour plus de détails. |
+
+### ReturnValue
+
+Chaîne normalisée.
+
+## Voir aussi
+
+* Class [String](../)
+* Enum [NormalizationForm](../../../system.text/normalizationform/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)

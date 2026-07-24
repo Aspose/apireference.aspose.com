@@ -1,0 +1,25 @@
+---
+title: "Aspose::Page::SaveOptions::get_AdditionalFontsFolders method"
+linktitle: "get_AdditionalFontsFolders"
+second_title: "Aspose.Page C++ के लिए"
+description: "Aspose::Page::SaveOptions::get_AdditionalFontsFolders मेथड. यह निर्दिष्ट करता है अतिरिक्त फ़ोल्डर जहाँ कनवर्टर इनपुट दस्तावेज़ के फ़ॉन्ट खोजता है। डिफ़ॉल्ट फ़ोल्डर मानक फ़ॉन्ट फ़ोल्डर है जहाँ OS आंतरिक आवश्यकताओं के लिए फ़ॉन्ट खोजता है C++ में।"
+type: docs
+weight: 200
+url: /hi/cpp/aspose.page/saveoptions/get_additionalfontsfolders/
+---
+## SaveOptions::get_AdditionalFontsFolders method
+
+
+कनवर्टर को इनपुट दस्तावेज़ के लिए फ़ॉन्ट खोजने वाले अतिरिक्त फ़ोल्डर निर्दिष्ट करता है। डिफ़ॉल्ट फ़ोल्डर मानक फ़ॉन्ट फ़ोल्डर है जहाँ OS आंतरिक आवश्यकताओं के लिए फ़ॉन्ट खोजता है।
+
+```cpp
+System::ArrayPtr<System::String> Aspose::Page::SaveOptions::get_AdditionalFontsFolders() const
+```
+
+## संबंधित देखें
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [SaveOptions](../)
+* Namespace [Aspose::Page](../../)
+* Library [Aspose.Page for C++](../../../)

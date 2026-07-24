@@ -1,0 +1,31 @@
+---
+title: "منشئ Aspose::Page::XPS::XpsMetadata::PageColorManagement::PageColorManagement"
+linktitle: "PageColorManagement"
+second_title: "Aspose.Page لـ C++"
+description: "منشئ Aspose::Page::XPS::XpsMetadata::PageColorManagement::PageColorManagement. ينشئ مثلاً جديداً في C++."
+type: docs
+weight: 100
+url: /ar/cpp/aspose.page.xps.xpsmetadata/pagecolormanagement/pagecolormanagement/
+---
+## PageColorManagement::PageColorManagement constructor
+
+
+ينشئ مثيلًا جديدًا.
+
+```cpp
+Aspose::Page::XPS::XpsMetadata::PageColorManagement::PageColorManagement(const System::ArrayPtr<System::SharedPtr<PageColorManagement::PageColorManagementOption>> &options)
+```
+
+
+| Parameter | Type | الوصف |
+| --- | --- | --- |
+| خيارات | const System::ArrayPtr\<System::SharedPtr\<PageColorManagement::PageColorManagementOption\>\>\& | مصفوفة من الخيارات الخاصة بالميزة. |
+
+## انظر أيضًا
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PageColorManagementOption](../pagecolormanagementoption/)
+* Class [PageColorManagement](../)
+* Namespace [Aspose::Page::XPS::XpsMetadata](../../)
+* Library [Aspose.Page for C++](../../../)

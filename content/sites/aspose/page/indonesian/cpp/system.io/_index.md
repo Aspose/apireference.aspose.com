@@ -1,0 +1,84 @@
+---
+title: "namespace System::IO"
+linktitle: "System::IO"
+second_title: "Aspose.Page untuk C++"
+description: "Cara menggunakan namespace System::IO di C++."
+type: docs
+weight: 3900
+url: /id/cpp/system.io/
+---
+
+
+
+## Kelas
+
+| Kelas | Deskripsi |
+| --- | --- |
+| [BasicSTDIOStreamWrapper](./basicstdiostreamwrapper/) | Mewakili pembungkus mirip [System.IO.Stream](./stream/) untuk std::basic_iostream dan objek turunannya. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/) . Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan menyebabkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer tersebut untuk melewatkannya ke fungsi sebagai argumen. |
+| [BasicSTDIStreamWrapper](./basicstdistreamwrapper/) | Mewakili pembungkus mirip [System.IO.Stream](./stream/) untuk std::basic_istream dan objek turunannya. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/) . Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan menyebabkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer tersebut untuk melewatkannya ke fungsi sebagai argumen. |
+| [BasicSTDOStreamWrapper](./basicstdostreamwrapper/) | Mewakili pembungkus mirip [System.IO.Stream](./stream/) untuk std::basic_ostream dan objek turunannya. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/) . Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan menyebabkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer tersebut untuk melewatkannya ke fungsi sebagai argumen. |
+| [BasicSystemIOStreamBuf](./basicsystemiostreambuf/) | Mewakili buffer yang membungkus aliran mirip [System::IO::Stream](./stream/) dan memungkinkan mereka digunakan sebagai buffer internal aliran mirip std::iostream. |
+| [BasicSystemIOStreamWrapper](./basicsystemiostreamwrapper/) | Mewakili pembungkus mirip std::iostream yang menggunakan [BasicSystemIOStreamBuf](./basicsystemiostreambuf/) sebagai buffer internal. |
+| [BasicSystemIStreamWrapper](./basicsystemistreamwrapper/) | Mewakili pembungkus mirip std::istream yang menggunakan [BasicSystemIOStreamBuf](./basicsystemiostreambuf/) sebagai buffer internal. |
+| [BasicSystemOStreamWrapper](./basicsystemostreamwrapper/) | Mewakili pembungkus mirip std::ostream yang menggunakan [BasicSystemIOStreamBuf](./basicsystemiostreambuf/) sebagai buffer internal. |
+| [BinaryReader](./binaryreader/) | Mewakili pembaca yang membaca tipe data primitif sebagai data biner dalam enkoding tertentu. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/) . Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan menyebabkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer tersebut untuk melewatkannya ke fungsi sebagai argumen. |
+| [BinaryWriter](./binarywriter/) | Mewakili penulis yang menulis nilai tipe primitif ke aliran byte. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/) . Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan menyebabkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer tersebut untuk melewatkannya ke fungsi sebagai argumen. |
+| [BufferedStream](./bufferedstream/) | Menambahkan lapisan buffering di atas aliran lain. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/) . Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan menyebabkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer tersebut untuk melewatkannya ke fungsi sebagai argumen. |
+| [Directory](./directory/) | Berisi metode untuk memanipulasi direktori. Ini adalah tipe statis tanpa layanan instance. Anda tidak boleh membuat instance darinya dengan cara apapun. |
+| [DirectoryInfo](./directoryinfo/) | Mewakili jalur sistem file, sebuah direktori yang dirujuk oleh jalur ini, dan menyediakan metode instance untuk memanipulasi direktori. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/) . Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan menyebabkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer tersebut untuk melewatkannya ke fungsi sebagai argumen. |
+| [File](./file/) | Menyediakan metode untuk memanipulasi berkas. Ini adalah tipe statis tanpa layanan instance. Anda tidak boleh membuat instance darinya dengan cara apapun. |
+| [FileInfo](./fileinfo/) | Mewakili jalur ke sebuah berkas dan berkas yang dirujuk oleh jalur ini, serta menyediakan metode untuk memanipulasinya. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/) . Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan menyebabkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer tersebut untuk melewatkannya ke fungsi sebagai argumen. |
+| [FileStream](./filestream/) | Mewakili aliran berkas yang mendukung operasi baca dan tulis sinkron serta asinkron. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/) . Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan menyebabkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer tersebut untuk melewatkannya ke fungsi sebagai argumen. |
+| [FileSystemInfo](./filesysteminfo/) | Kelas dasar untuk [FileInfo](./fileinfo/) dan [DirectoryInfo](./directoryinfo/). Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/) . Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan menyebabkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer tersebut untuk melewatkannya ke fungsi sebagai argumen. |
+| [FileSystemInfoStat](./filesysteminfostat/) | Mewakili informasi tentang file atau direktori. |
+| [MemoryStream](./memorystream/) | Mewakili aliran yang membaca dari dan menulis ke memori. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/). Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan mengakibatkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer ini untuk meneruskannya ke fungsi sebagai argumen. |
+| [Path](./path/) | Menyediakan metode untuk memanipulasi jalur. Ini adalah tipe statis tanpa layanan instance. Anda tidak boleh membuat instance darinya dengan cara apa pun. |
+| [STDIOStreamWrapperBase](./stdiostreamwrapperbase/) | Mewakili kelas dasar untuk pembungkus mirip [System.IO.Stream](./stream/). Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/). Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan mengakibatkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer ini untuk meneruskannya ke fungsi sebagai argumen. |
+| [Stream](./stream/) | Kelas dasar untuk berbagai implementasi aliran. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/). Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan mengakibatkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer ini untuk meneruskannya ke fungsi sebagai argumen. |
+| [StreamReader](./streamreader/) | Mewakili pembaca yang membaca karakter dari aliran byte. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/). Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan mengakibatkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer ini untuk meneruskannya ke fungsi sebagai argumen. |
+| [StreamWriter](./streamwriter/) | Mewakili penulis yang menulis karakter ke aliran byte. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/). Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan mengakibatkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer ini untuk meneruskannya ke fungsi sebagai argumen. |
+| [StringReader](./stringreader/) | Mewakili pembaca yang membaca karakter dari string. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/). Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan mengakibatkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer ini untuk meneruskannya ke fungsi sebagai argumen. |
+| [StringWriter](./stringwriter/) | Mengimplementasikan [TextWriter](./textwriter/) yang menulis informasi ke string. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/). Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan mengakibatkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer ini untuk meneruskannya ke fungsi sebagai argumen. |
+| [TextReader](./textreader/) | Kelas dasar untuk kelas yang mewakili pembaca yang membaca urutan karakter dari berbagai sumber. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/). Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan mengakibatkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer ini untuk meneruskannya ke fungsi sebagai argumen. |
+| [TextWriter](./textwriter/) | Kelas dasar untuk kelas yang mewakili penulis yang menulis urutan karakter ke berbagai tujuan. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/). Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan mengakibatkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer ini untuk meneruskannya ke fungsi sebagai argumen. |
+| [UnmanagedMemoryStream](./unmanagedmemorystream/) | Menyediakan akses ke memori yang tidak dikelola. Objek dari kelas ini hanya boleh dialokasikan menggunakan fungsi [System::MakeObject()](../system/makeobject/). Jangan pernah membuat instance tipe ini di stack atau menggunakan operator new, karena akan mengakibatkan kesalahan runtime dan/atau kegagalan asersi. Selalu bungkus kelas ini ke dalam pointer [System::SmartPtr](../system/smartptr/) dan gunakan pointer ini untuk meneruskannya ke fungsi sebagai argumen. |
+## Enums
+
+| Enum | Deskripsi |
+| --- | --- |
+| [FileAccess](./fileaccess/) | Menentukan jenis akses saat membuka file. |
+| [FileAttributes](./fileattributes/) | Mewakili atribut dari direktori atau file. |
+| [FileMode](./filemode/) | Menentukan bagaimana sebuah file harus dibuka. |
+| [FileOptions](./fileoptions/) | Mewakili opsi lanjutan untuk membuat objek [FileStream](./filestream/). |
+| [FileShare](./fileshare/) | Menentukan jenis akses apa yang dapat dimiliki objek [FileStream](./filestream/) lain terhadap file yang sedang dibuka. |
+| [SearchOption](./searchoption/) | Menentukan pencarian harus dilakukan hanya di direktori saat ini, atau di direktori saat ini dan semua subdirektorinya. |
+| [SeekOrigin](./seekorigin/) | Menentukan posisi referensi dalam aliran relatif terhadap mana posisi yang akan dicari ditentukan. |
+| [STDIOStreamPositionPreference](./stdiostreampositionpreference/) | Menentukan posisi mana dalam aliran yang lebih disukai sebagai posisi baca dan tulis bersama ketika std::basic_iostream dan turunannya akan memiliki posisi baca dan tulis yang berbeda pada saat pembuatan pembungkus. |
+| [STDIOStreamWrappingMode](./stdiostreamwrappingmode/) | Menentukan mode operasi I/O yang akan dilakukan pembungkus pada aliran mirip std::iostreams. |
+| [SystemIOStreamWrappingMode](./systemiostreamwrappingmode/) | Menentukan mode operasi I/O yang akan dilakukan pembungkus pada aliran mirip [System::IO::Stream](./stream/). |
+## Typedefs
+
+| Typedef | Deskripsi |
+| --- | --- |
+| [BinaryWriterPtr](./binarywriterptr/) | Alias untuk shared pointer ke kelas ini. |
+| [FileNotFoundException](./filenotfoundexception/) | Pengecualian yang dilempar ketika upaya mengakses file yang tidak ada di disk gagal. Jangan pernah membungkus instance kelas [FileNotFoundException](./filenotfoundexception/) ke dalam [System::SmartPtr](../system/smartptr/). |
+| [IsTemplateBaseOf](./istemplatebaseof/) | Mewakili padanan std::is_base_of<Base, Derived> yang menentukan pewarisan kelas template Base yang tidak diinstansiasi dari kelas template Derived yang diinstansiasi. Akan gagal dengan pewarisan berganda atau pewarisan non-publik dari Base. |
+| [STDIOStreamWrapper](./stdiostreamwrapper/) | Spesialisasi dari [BasicSTDIOStreamWrapper](./basicstdiostreamwrapper/) untuk tipe karakter char. |
+| [STDIStreamWrapper](./stdistreamwrapper/) | Spesialisasi dari [BasicSTDIStreamWrapper](./basicstdistreamwrapper/) untuk tipe karakter char. |
+| [STDOStreamWrapper](./stdostreamwrapper/) | Spesialisasi dari [BasicSTDOStreamWrapper](./basicstdostreamwrapper/) untuk tipe karakter char. |
+| [STDWIOStreamWrapper](./stdwiostreamwrapper/) | Spesialisasi dari [BasicSTDIOStreamWrapper](./basicstdiostreamwrapper/) untuk tipe karakter wchar_t. |
+| [STDWIStreamWrapper](./stdwistreamwrapper/) | Spesialisasi dari [BasicSTDIStreamWrapper](./basicstdistreamwrapper/) untuk tipe karakter wchar_t. |
+| [STDWOStreamWrapper](./stdwostreamwrapper/) | Spesialisasi dari [BasicSTDOStreamWrapper](./basicstdostreamwrapper/) untuk tipe karakter wchar_t. |
+| [SystemIOStreamWrapper](./systemiostreamwrapper/) | Spesialisasi dari [BasicSystemIOStreamWrapper](./basicsystemiostreamwrapper/) untuk tipe karakter char. |
+| [SystemIStreamWrapper](./systemistreamwrapper/) | Spesialisasi dari [BasicSystemIStreamWrapper](./basicsystemistreamwrapper/) untuk tipe karakter char. |
+| [SystemOStreamWrapper](./systemostreamwrapper/) | Spesialisasi dari [BasicSystemOStreamWrapper](./basicsystemostreamwrapper/) untuk tipe karakter char. |
+| [SystemWIOStreamWrapper](./systemwiostreamwrapper/) | Spesialisasi dari [BasicSystemIOStreamWrapper](./basicsystemiostreamwrapper/) untuk tipe karakter wchar_t. |
+| [SystemWIStreamWrapper](./systemwistreamwrapper/) | Spesialisasi dari [BasicSystemIStreamWrapper](./basicsystemistreamwrapper/) untuk tipe karakter wchar_t. |
+| [SystemWOStreamWrapper](./systemwostreamwrapper/) | Spesialisasi dari [BasicSystemOStreamWrapper](./basicsystemostreamwrapper/) untuk tipe karakter wchar_t. |
+## Functions
+
+| Fungsi | Deskripsi |
+| --- | --- |
+| WrapSTDIOStream | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| WrapSTDIOStream | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| WrapSTDIOStream | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

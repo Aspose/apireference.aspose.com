@@ -1,0 +1,23 @@
+---
+title: "System::Xml::XmlSecureResolver::Ptr typedef"
+linktitle: "Ptr"
+second_title: "Aspose.Page pour C++"
+description: "System::Xml::XmlSecureResolver::Ptr typedef. Un alias pour un pointeur partagé vers une instance de cette classe en C++."
+type: docs
+weight: 500
+url: /fr/cpp/system.xml/xmlsecureresolver/ptr/
+---
+## Ptr typedef
+
+
+Un alias pour un pointeur partagé vers une instance de cette classe.
+
+```cpp
+using System::Xml::XmlSecureResolver::Ptr =  SharedPtr<XmlSecureResolver>
+```
+
+## Voir aussi
+
+* Class [XmlSecureResolver](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)

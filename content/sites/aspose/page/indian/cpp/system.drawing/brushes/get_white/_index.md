@@ -1,0 +1,25 @@
+---
+title: "System::Drawing::Brushes::get_White विधि"
+linktitle: "get_White"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Drawing::Brushes::get_White विधि. C++ में वह ठोस भराव रंग लौटाता है जिसका हेक्साडेसिमल मान #FFFFFFFF है।"
+type: docs
+weight: 13800
+url: /hi/cpp/system.drawing/brushes/get_white/
+---
+## Brushes::get_White method
+
+
+वापसी करता है ठोस भराव रंग जिसका हेक्साडेसिमल मान #FFFFFFFF है।
+
+```cpp
+static SharedPtr<Brush> System::Drawing::Brushes::get_White()
+```
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Brush](../../brush/)
+* Class [Brushes](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

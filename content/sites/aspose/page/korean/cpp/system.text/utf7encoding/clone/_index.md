@@ -1,0 +1,30 @@
+---
+title: "System::Text::UTF7Encoding::Clone 메서드"
+linktitle: "복제"
+second_title: "C++용 Aspose.Page"
+description: "System::Text::UTF7Encoding::Clone 메서드. C++에서 인코딩 객체를 복제합니다."
+type: docs
+weight: 200
+url: /ko/cpp/system.text/utf7encoding/clone/
+---
+## UTF7Encoding::Clone method
+
+
+인코딩 객체를 복제합니다.
+
+```cpp
+SharedPtr<Object> System::Text::UTF7Encoding::Clone() override
+```
+
+
+### ReturnValue
+
+[Encoding](../../encoding/) object clone.
+
+## 또 보기
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [UTF7Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)

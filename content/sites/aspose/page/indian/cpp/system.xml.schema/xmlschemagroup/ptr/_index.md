@@ -1,0 +1,23 @@
+---
+title: "System::Xml::Schema::XmlSchemaGroup::Ptr टाइपडिफ़"
+linktitle: "Ptr"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Xml::Schema::XmlSchemaGroup::Ptr टाइपडिफ़। C++ में इस वर्ग के एक उदाहरण के लिए साझा पॉइंटर का उपनाम।"
+type: docs
+weight: 700
+url: /hi/cpp/system.xml.schema/xmlschemagroup/ptr/
+---
+## Ptr typedef
+
+
+इस क्लास के इंस्टेंस के लिए शेयर्ड पॉइंटर का एक उपनाम।
+
+```cpp
+using System::Xml::Schema::XmlSchemaGroup::Ptr =  SharedPtr<XmlSchemaGroup>
+```
+
+## संबंधित देखें
+
+* Class [XmlSchemaGroup](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Page for C++](../../../)

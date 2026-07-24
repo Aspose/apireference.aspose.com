@@ -1,0 +1,28 @@
+---
+title: "System::Security::Cryptography::HashAlgorithm::get_OutputBlockSize method"
+linktitle: "get_OutputBlockSize"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Security::Cryptography::HashAlgorithm::get_OutputBlockSize मेथड। C++ में आउटपुट ब्लॉक का आकार।"
+type: docs
+weight: 600
+url: /hi/cpp/system.security.cryptography/hashalgorithm/get_outputblocksize/
+---
+## HashAlgorithm::get_OutputBlockSize method
+
+
+आउटपुट ब्लॉक आकार।
+
+```cpp
+int System::Security::Cryptography::HashAlgorithm::get_OutputBlockSize() override
+```
+
+
+### ReturnValue
+
+आउटपुट ब्लॉक में बाइट्स की संख्या।
+
+## संबंधित देखें
+
+* Class [HashAlgorithm](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Page for C++](../../../)

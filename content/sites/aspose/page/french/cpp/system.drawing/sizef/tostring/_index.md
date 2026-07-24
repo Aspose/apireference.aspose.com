@@ -1,0 +1,24 @@
+---
+title: "System::Drawing::SizeF::ToString méthode"
+linktitle: "ToString"
+second_title: "Aspose.Page pour C++"
+description: "System::Drawing::SizeF::ToString méthode. Retourne la représentation sous forme de chaîne de la paire de valeurs de largeur et de hauteur représentées par l'objet actuel en C++."
+type: docs
+weight: 1300
+url: /fr/cpp/system.drawing/sizef/tostring/
+---
+## SizeF::ToString method
+
+
+Renvoie la représentation sous forme de chaîne de la paire de valeurs de largeur et de hauteur représentées par l'objet actuel.
+
+```cpp
+System::String System::Drawing::SizeF::ToString() const
+```
+
+## Voir aussi
+
+* Class [String](../../../system/string/)
+* Class [SizeF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

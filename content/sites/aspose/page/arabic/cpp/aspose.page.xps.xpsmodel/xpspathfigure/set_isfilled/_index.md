@@ -1,0 +1,23 @@
+---
+title: "Aspose::Page::XPS::XpsModel::XpsPathFigure::set_IsFilled طريقة"
+linktitle: "set_IsFilled"
+second_title: "Aspose.Page لـ C++"
+description: "Aspose::Page::XPS::XpsModel::XpsPathFigure::set_IsFilled طريقة. تُعيد/تضبط القيمة التي تشير إلى ما إذا كان الشكل المساري يُستخدم في حساب مساحة الهندسة المسارية المحتوية في C++."
+type: docs
+weight: 700
+url: /ar/cpp/aspose.page.xps.xpsmodel/xpspathfigure/set_isfilled/
+---
+## XpsPathFigure::set_IsFilled method
+
+
+إرجاع/تعيين القيمة التي تشير إلى ما إذا كان شكل المسار يُستخدم في حساب مساحة الهندسة المسارية المحتوية.
+
+```cpp
+void Aspose::Page::XPS::XpsModel::XpsPathFigure::set_IsFilled(bool value)
+```
+
+## انظر أيضًا
+
+* Class [XpsPathFigure](../)
+* Namespace [Aspose::Page::XPS::XpsModel](../../)
+* Library [Aspose.Page for C++](../../../)

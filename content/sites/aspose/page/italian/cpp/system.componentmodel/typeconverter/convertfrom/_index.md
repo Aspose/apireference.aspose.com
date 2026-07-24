@@ -1,0 +1,93 @@
+---
+title: "System::ComponentModel::TypeConverter::ConvertFrom metodo"
+linktitle: "ConvertFrom"
+second_title: "Aspose.Page per C++"
+description: "System::ComponentModel::TypeConverter::ConvertFrom metodo. Converte oggetti in C++."
+type: docs
+weight: 200
+url: /it/cpp/system.componentmodel/typeconverter/convertfrom/
+---
+## TypeConverter::ConvertFrom(const System::SharedPtr\<ITypeDescriptorContext\>\&, const System::SharedPtr\<System::Globalization::CultureInfo\>\&, const System::SharedPtr\<System::Object\>\&) method
+
+
+Converte oggetti.
+
+```cpp
+virtual System::SharedPtr<System::Object> System::ComponentModel::TypeConverter::ConvertFrom(const System::SharedPtr<ITypeDescriptorContext> &context, const System::SharedPtr<System::Globalization::CultureInfo> &culture, const System::SharedPtr<System::Object> &value)
+```
+
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| context | const System::SharedPtr\<ITypeDescriptorContext\>\& | [Object](../../../system/object/) informazioni sul contesto di conversione. |
+| cultura | const System::SharedPtr\<System::Globalization::CultureInfo\>\& | Culture da utilizzare durante la conversione degli oggetti. |
+| value | const System::SharedPtr\<System::Object\>\& | [Object](../../../system/object/) da convertire. |
+
+### ReturnValue
+
+oggetto convertito.
+
+## Vedi anche
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [ITypeDescriptorContext](../../itypedescriptorcontext/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [TypeConverter](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Page for C++](../../../)
+## TypeConverter::ConvertFrom(const System::SharedPtr\<ITypeDescriptorContext\>\&, const System::SharedPtr\<System::Globalization::CultureInfo\>\&, const System::String\&) method
+
+
+Converte stringa in oggetto.
+
+```cpp
+System::SharedPtr<System::Object> System::ComponentModel::TypeConverter::ConvertFrom(const System::SharedPtr<ITypeDescriptorContext> &context, const System::SharedPtr<System::Globalization::CultureInfo> &culture, const System::String &value)
+```
+
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| context | const System::SharedPtr\<ITypeDescriptorContext\>\& | [Object](../../../system/object/) informazioni sul contesto di conversione. |
+| cultura | const System::SharedPtr\<System::Globalization::CultureInfo\>\& | Culture da utilizzare durante la conversione degli oggetti. |
+| value | const System::String\& | Valore da convertire. |
+
+### ReturnValue
+
+oggetto convertito.
+
+## Vedi anche
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [ITypeDescriptorContext](../../itypedescriptorcontext/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [String](../../../system/string/)
+* Class [TypeConverter](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Page for C++](../../../)
+## TypeConverter::ConvertFrom(const System::SharedPtr\<System::Object\>\&) method
+
+
+Converte oggetti.
+
+```cpp
+System::SharedPtr<System::Object> System::ComponentModel::TypeConverter::ConvertFrom(const System::SharedPtr<System::Object> &value)
+```
+
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| value | const System::SharedPtr\<System::Object\>\& | [Object](../../../system/object/) da convertire. |
+
+### ReturnValue
+
+oggetto convertito.
+
+## Vedi anche
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [TypeConverter](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,37 @@
+---
+title: "System::Cast मेथड"
+linktitle: "Cast"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Cast मेथड। C++ में SmartPtr ऑब्जेक्ट्स पर कास्ट करता है।"
+type: docs
+weight: 15300
+url: /hi/cpp/system/cast/
+---
+## System::Cast method
+
+
+[SmartPtr](../smartptr/) ऑब्जेक्ट्स पर कास्ट करता है।
+
+```cpp
+template<typename TTo,typename TFrom> std::enable_if<!IsExceptionWrapper<TTo>::value, typenameCastResult<TTo>::type>::type System::Cast(SmartPtr<TFrom> const &obj)
+```
+
+
+| पैरामीटर | विवरण |
+| --- | --- |
+| TTo | लक्षित पॉइनी प्रकार। |
+| TFrom | स्रोत पॉइनी प्रकार। |
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| obj | SmartPtr\<TFrom\> const\& | स्रोत पॉइंटर। |
+
+### ReturnValue
+
+यदि कास्ट अनुमति है तो कास्ट परिणाम।
+
+## संबंधित देखें
+
+* Class [SmartPtr](../smartptr/)
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)

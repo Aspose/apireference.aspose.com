@@ -1,0 +1,25 @@
+---
+title: "طريقة Aspose::Page::EPS::Device::PdfNode::set_Parent"
+linktitle: "set_Parent"
+second_title: "Aspose.Page لـ C++"
+description: "كيفية استخدام طريقة set_Parent من فئة Aspose::Page::EPS::Device::PdfNode في C++."
+type: docs
+weight: 300
+url: /ar/cpp/aspose.page.eps.device/pdfnode/set_parent/
+---
+## PdfNode::set_Parent method
+
+
+
+
+```cpp
+void Aspose::Page::EPS::Device::PdfNode::set_Parent(System::SharedPtr<PdfNode> value)
+```
+
+## انظر أيضًا
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PdfNode](../)
+* Class [PdfNode](../)
+* Namespace [Aspose::Page::EPS::Device](../../)
+* Library [Aspose.Page for C++](../../../)

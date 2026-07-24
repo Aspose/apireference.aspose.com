@@ -1,0 +1,29 @@
+---
+title: "Aspose::Page::Drawing::Color::get_Purple yöntemi"
+linktitle: "get_Purple"
+second_title: "Aspose.Page için C++"
+description: "Aspose::Page::Drawing::Color::get_Purple yöntemi. C++'de #FF800080 ARGB değerine sahip sistem tanımlı bir rengi alır."
+type: docs
+weight: 11500
+url: /tr/cpp/aspose.page.drawing/color/get_purple/
+---
+## Color::get_Purple method
+
+
+Sistem tarafından tanımlanan ve ARGB değeri #FF800080 olan bir rengi alır.
+
+```cpp
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Purple()
+```
+
+
+### ReturnValue
+
+Sistem tanımlı bir rengi temsil eden bir [T:Aspose::Page::Drawing::Color](../).
+
+## Ayrıca Bakınız
+
+* Class [Color](../)
+* Class [Color](../)
+* Namespace [Aspose::Page::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

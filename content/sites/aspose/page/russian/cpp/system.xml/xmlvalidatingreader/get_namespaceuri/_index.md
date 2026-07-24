@@ -1,0 +1,29 @@
+---
+title: "Метод System::Xml::XmlValidatingReader::get_NamespaceURI"
+linktitle: "get_NamespaceURI"
+second_title: "Aspose.Page для C++"
+description: "Метод System::Xml::XmlValidatingReader::get_NamespaceURI. Возвращает унифицированный идентификатор ресурса (URI) пространства имён (как определено в спецификации пространства имён World Wide Web Consortium (W3C)) узла, на котором находится читатель, в C++."
+type: docs
+weight: 1900
+url: /ru/cpp/system.xml/xmlvalidatingreader/get_namespaceuri/
+---
+## XmlValidatingReader::get_NamespaceURI method
+
+
+Возвращает унифицированный идентификатор ресурса (URI) пространства имён (как определено в спецификации пространства имён World Wide [Web](../../../system.web/) Consortium (W3C)) узла, на котором находится читатель.
+
+```cpp
+String System::Xml::XmlValidatingReader::get_NamespaceURI() override
+```
+
+
+### ReturnValue
+
+URI пространства имён текущего узла; в противном случае пустая строка.
+
+## См. также
+
+* Class [String](../../../system/string/)
+* Class [XmlValidatingReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)

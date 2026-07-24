@@ -1,0 +1,25 @@
+---
+title: "Aspose::Page::XPS::XpsModel::XpsPathGeometry::set_Transform मेथड"
+linktitle: "set_Transform"
+second_title: "Aspose.Page C++ के लिए"
+description: "Aspose::Page::XPS::XpsModel::XpsPathGeometry::set_Transform मेथड। C++ में सभी चाइल्ड और वंशज तत्वों पर लागू होने वाले स्थानीय मैट्रिक्स परिवर्तन को स्थापित करने वाला अफाइन ट्रांसफ़ॉर्मेशन मैट्रिक्स लौटाता/सेट करता है, जो फ़िलिंग, क्लिपिंग या स्ट्रोकिंग से पहले उपयोग किया जाता है।"
+type: docs
+weight: 1000
+url: /hi/cpp/aspose.page.xps.xpsmodel/xpspathgeometry/set_transform/
+---
+## XpsPathGeometry::set_Transform method
+
+
+पाथ जियोमेट्री पर भरने, क्लिपिंग या स्ट्रोकिंग से पहले सभी चाइल्ड और वंशज तत्वों पर लागू होने वाले स्थानीय मैट्रिक्स रूपांतरण को स्थापित करने वाला अफाइन ट्रांसफ़ॉर्मेशन मैट्रिक्स लौटाता/सेट करता है।
+
+```cpp
+void Aspose::Page::XPS::XpsModel::XpsPathGeometry::set_Transform(System::SharedPtr<XpsMatrix> value) override
+```
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XpsMatrix](../../xpsmatrix/)
+* Class [XpsPathGeometry](../)
+* Namespace [Aspose::Page::XPS::XpsModel](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,61 @@
+---
+title: "System::Globalization::CompareInfo::IsPrefix मेथड"
+linktitle: "IsPrefix"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Globalization::CompareInfo::IsPrefix मेथड। C++ में जाँचता है कि निर्दिष्ट स्ट्रिंग निर्दिष्ट उपसर्ग से शुरू होती है या नहीं।"
+type: docs
+weight: 1000
+url: /hi/cpp/system.globalization/compareinfo/isprefix/
+---
+## CompareInfo::IsPrefix(const String\&, const String\&) const method
+
+
+जांचता है कि क्या निर्दिष्ट स्ट्रिंग निर्दिष्ट उपसर्ग से शुरू होती है।
+
+```cpp
+virtual bool System::Globalization::CompareInfo::IsPrefix(const String &source, const String &prefix) const
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| स्रोत | const String\& | स्रोत स्ट्रिंग। |
+| उपसर्ग | const String\& | उपसर्ग स्ट्रिंग। |
+
+### ReturnValue
+
+यदि स्ट्रिंग उपसर्ग से शुरू होती है तो सत्य; अन्यथा असत्य।
+
+## संबंधित देखें
+
+* Class [String](../../../system/string/)
+* Class [CompareInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
+## CompareInfo::IsPrefix(const String\&, const String\&, CompareOptions) const method
+
+
+निर्दिष्ट तुलना विकल्पों का उपयोग करके जांचता है कि क्या निर्दिष्ट स्ट्रिंग निर्दिष्ट उपसर्ग से शुरू होती है।
+
+```cpp
+virtual bool System::Globalization::CompareInfo::IsPrefix(const String &source, const String &prefix, CompareOptions options) const
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| स्रोत | const String\& | स्रोत स्ट्रिंग। |
+| उपसर्ग | const String\& | उपसर्ग स्ट्रिंग। |
+| विकल्प | CompareOptions | विकल्पों की तुलना करें। |
+
+### ReturnValue
+
+यदि स्ट्रिंग उपसर्ग से शुरू होती है तो सत्य; अन्यथा असत्य।
+
+## संबंधित देखें
+
+* Class [String](../../../system/string/)
+* Enum [CompareOptions](../../compareoptions/)
+* Class [CompareInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)

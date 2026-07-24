@@ -1,0 +1,25 @@
+---
+title: "Aspose::Page::Plugins::PsConverterToImageOptions::get_SmoothingMode yöntemi"
+linktitle: "get_SmoothingMode"
+second_title: "Aspose.Page için C++"
+description: "Aspose::Page::Plugins::PsConverterToImageOptions::get_SmoothingMode yöntemi. Görüntü işleme için yumuşatma modunu C++'ta alır/ayarlar."
+type: docs
+weight: 600
+url: /tr/cpp/aspose.page.plugins/psconvertertoimageoptions/get_smoothingmode/
+---
+## PsConverterToImageOptions::get_SmoothingMode method
+
+
+Görüntüyü işleme sırasında yumuşatma modunu alır/ayarlar.
+
+```cpp
+System::Nullable<Aspose::Page::Drawing::Drawing2D::SmoothingMode> Aspose::Page::Plugins::PsConverterToImageOptions::get_SmoothingMode() const
+```
+
+## Ayrıca Bakınız
+
+* Class [Nullable](../../../system/nullable/)
+* Enum [SmoothingMode](../../../aspose.page.drawing.drawing2d/smoothingmode/)
+* Class [PsConverterToImageOptions](../)
+* Namespace [Aspose::Page::Plugins](../../)
+* Library [Aspose.Page for C++](../../../)

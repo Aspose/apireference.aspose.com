@@ -1,0 +1,24 @@
+---
+title: "Метод System::Drawing::SystemColors::get_ScrollBar"
+linktitle: "get_ScrollBar"
+second_title: "Aspose.Page для C++"
+description: "Метод System::Drawing::SystemColors::get_ScrollBar. Возвращает объект Color, который представляет цвет фона полосы прокрутки в C++."
+type: docs
+weight: 3000
+url: /ru/cpp/system.drawing/systemcolors/get_scrollbar/
+---
+## SystemColors::get_ScrollBar method
+
+
+Возвращает объект [Color](../../color/), который представляет цвет фона полосы прокрутки.
+
+```cpp
+static Color System::Drawing::SystemColors::get_ScrollBar()
+```
+
+## См. также
+
+* Class [Color](../../color/)
+* Class [SystemColors](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

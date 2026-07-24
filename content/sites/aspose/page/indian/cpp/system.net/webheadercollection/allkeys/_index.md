@@ -1,0 +1,30 @@
+---
+title: "System::Net::WebHeaderCollection::AllKeys मेथड"
+linktitle: "AllKeys"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Net::WebHeaderCollection::AllKeys मेथड। C++ में संग्रह में संग्रहीत हेडर नामों का संग्रह लौटाता है।"
+type: docs
+weight: 300
+url: /hi/cpp/system.net/webheadercollection/allkeys/
+---
+## WebHeaderCollection::AllKeys method
+
+
+संग्रह में संग्रहीत हेडर नामों का संग्रह लौटाता है।
+
+```cpp
+System::ArrayPtr<String> System::Net::WebHeaderCollection::AllKeys()
+```
+
+
+### ReturnValue
+
+संग्रह में संग्रहीत हेडर नामों का संग्रह।
+
+## संबंधित देखें
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [WebHeaderCollection](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)

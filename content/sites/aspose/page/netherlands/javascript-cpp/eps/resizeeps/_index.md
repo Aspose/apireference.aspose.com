@@ -1,0 +1,95 @@
+---
+title: "AsposeResizeEPS"
+second_title: "Aspose.Page voor JavaScript via C++"
+description: "EPS-schalen"
+type: docs
+weight: 10
+url: /nl/javascript-cpp/eps/resizeeps/
+---
+## AsposeResizeEPS function
+
+Schaalt EPS-bestand. Het slaat het oorspronkelijke EPS-bestand op met een bijgewerkte bestaande %%BoundingBox of er wordt een nieuwe aangemaakt.
+
+```js
+function AsposeResizeEPS(
+    fileBlob,
+    fileName, 
+    fileNameResult, 
+    width,
+    height,
+    units
+)
+```
+
+| Parameter | Type | Beschrijving |
+| --------- | ---- | ----------- |
+| fileBlob | Blob-object | Inhoud van bronbestand. |
+| fileName | string | Naam van bronbestand. |
+| fileNameResult | string | Naam van resultaatbestand. |
+| width | float | Specificeert breedte van nieuw begrenzingsvak. |
+| height | float | Specificeert hoogte van nieuw begrenzingsvak. |
+| unit | Module.Units | Specificeert type van de nieuwe grootte. |
+
+### Retourwaarde
+
+JSON-object
+| Veld | Beschrijving |
+| ----- | ----------- |
+|  | errorCode | codefout (0 geen fout) |
+|  | errorText | tekstfout ("" geen fout) |
+|  | fileNameResult | resultaat bestandsnaam |
+
+### Voorbeelden
+
+```js
+  var fResizeEPS = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      const json = AsposeResizeEPS(event.target.result, e.target.files[0].name,  e.target.files[0].name + "_resized.eps", 200, 100, Module.Units.Points);
+      if (json.errorCode == 0) {
+          DownloadFile(json.fileNameResult, "image/eps");
+      }
+      else 
+        document.getElementById('output').textContent = json.errorText;
+    }
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  }
+```
+
+**Web Worker example**:
+```js
+
+  /*Create Web Worker*/
+  const AsposePageWebWorker = new Worker("AsposePageforJS.js");
+  AsposePageWebWorker.onerror = evt => console.log(`Error from Web Worker: ${evt.message}`);
+  AsposePageWebWorker.onmessage = evt => document.getElementById('output').textContent = 
+    (evt.data == 'ready') ? 'library loaded!' :
+      (evt.data.json.errorCode == 0) ? `Result:\n${DownloadFile(evt.data.json.fileNameResult, "application/image", evt.data.params[0])}` : `Error: ${evt.data.json.errorText}`;
+
+  /*Event handler*/
+  const fResizeEps = e => {
+    const file_reader = new FileReader();
+    file_reader.onload = event => {
+      AsposePageWebWorker.postMessage({ "operation": 'AsposeResizeEPS', "params": [event.target.result, e.target.files[0].name, e.target.files[0].name + "_resized.eps", 200, 100, 'Module.Units.Points'] }, [event.target.result]);
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
+
+  /*Make a link to download the result file*/
+  const DownloadFile = function (filename, mime, content) {
+      mime = mime || "application/octet-stream";
+      var link = document.createElement("a"); 
+      link.href = URL.createObjectURL(new Blob([content], {type: mime}));
+      link.download = filename;
+      link.textContent = filename;
+      link.title = "Click here to download the file";
+      document.getElementById('fileDownload').appendChild(link);
+      document.getElementById('fileDownload').appendChild(document.createElement("br"));
+  }
+
+```
+
+### Zie ook
+
+* function [Module.Units](../../enumerations/units/)
+* function [AsposeCropEps](../cropeps/)

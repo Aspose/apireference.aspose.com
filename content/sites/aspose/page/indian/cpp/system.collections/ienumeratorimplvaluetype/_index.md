@@ -1,0 +1,35 @@
+---
+title: "System::Collections::IEnumeratorImplValueType क्लास"
+linktitle: "IEnumeratorImplValueType"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Collections::IEnumeratorImplValueType क्लास। रैपर जो जेनरिक नहीं होने वाले IEnumerator इम्प्लीमेंटेशन को जेनरिक Iterator IEnumeratorImplRefType के ऊपर बनाता है - C++ में वैल्यू टाइप्स के लिए रैपर।"
+type: docs
+weight: 800
+url: /hi/cpp/system.collections/ienumeratorimplvaluetype/
+---
+## IEnumeratorImplValueType class
+
+
+रैपर जो जेनरिक नहीं होने वाले [IEnumerator](../ienumerator/) इम्प्लीमेंटेशन को जेनरिक Iterator [IEnumeratorImplRefType](../ienumeratorimplreftype/) के ऊपर बनाता है - वैल्यू टाइप्स के लिए रैपर।
+
+```cpp
+template<typename T>class IEnumeratorImplValueType : public System::Collections::IEnumerator
+```
+
+
+| पैरामीटर | विवरण |
+| --- | --- |
+| T | तत्व प्रकार। |
+## विधियाँ
+
+| विधि | विवरण |
+| --- | --- |
+| [get_Current](./get_current/)() const override | वर्तमान तत्व प्राप्त करता है। |
+| [IEnumeratorImplValueType](./ienumeratorimplvaluetype/)(System::SharedPtr\<System::Collections::Generic::IEnumerator\<T\>\>) | रैपर कन्स्ट्रक्टर |
+| [MoveNext](./movenext/)() override | एनेमरेटर को अगले तत्व पर ले जाता है। यदि पहले कोई तत्व संदर्भित नहीं था, तो उपलब्ध पहले तत्व को संदर्भित करता है। यदि कंटेनर के अंत तक पहुँचा गया, तो कुछ नहीं करता। |
+
+## संबंधित देखें
+
+* Class [IEnumerator](../ienumerator/)
+* Namespace [System::Collections](../)
+* Library [Aspose.Page for C++](../../)

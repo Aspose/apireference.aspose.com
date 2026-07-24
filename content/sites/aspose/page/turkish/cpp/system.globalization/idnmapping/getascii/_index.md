@@ -1,0 +1,84 @@
+---
+title: "System::Globalization::IdnMapping::GetAscii yöntemi"
+linktitle: "GetAscii"
+second_title: "Aspose.Page için C++"
+description: "System::Globalization::IdnMapping::GetAscii yöntemi. Unicode alan adını C++'ta ascii eşdeğerine dönüştürür."
+type: docs
+weight: 500
+url: /tr/cpp/system.globalization/idnmapping/getascii/
+---
+## IdnMapping::GetAscii(const String\&) const method
+
+
+[Convert](../../../system/convert/) unicode domain name to ascii equivalent.
+
+```cpp
+String System::Globalization::IdnMapping::GetAscii(const String &unicode) const
+```
+
+
+| Parameter | Type | Açıklama |
+| --- | --- | --- |
+| unicode | const String\& | [String](../../../system/string/) dönüştürmek için. |
+
+### ReturnValue
+
+Unicode dizesinin ascii eşdeğeri.
+
+## Ayrıca Bakınız
+
+* Class [String](../../../system/string/)
+* Class [IdnMapping](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
+## IdnMapping::GetAscii(const String\&, int) const method
+
+
+[Convert](../../../system/convert/) unicode domain name to ascii equivalent.
+
+```cpp
+String System::Globalization::IdnMapping::GetAscii(const String &unicode, int index) const
+```
+
+
+| Parameter | Type | Açıklama |
+| --- | --- | --- |
+| unicode | const String\& | [String](../../../system/string/) dönüştürmek için. |
+| indeks | int | Dönüştürülecek alt dizenin başlangıç indeksi |
+
+### ReturnValue
+
+Unicode dizesinin ascii eşdeğeri.
+
+## Ayrıca Bakınız
+
+* Class [String](../../../system/string/)
+* Class [IdnMapping](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
+## IdnMapping::GetAscii(const String\&, int, int) const method
+
+
+[Convert](../../../system/convert/) unicode domain name to ascii equivalent.
+
+```cpp
+String System::Globalization::IdnMapping::GetAscii(const String &unicode, int index, int count) const
+```
+
+
+| Parameter | Type | Açıklama |
+| --- | --- | --- |
+| unicode | const String\& | [String](../../../system/string/) dönüştürmek için. |
+| indeks | int | Dönüştürülecek alt dizenin başlangıç indeksi |
+| count | int | Dönüştürülecek karakter sayısı. |
+
+### ReturnValue
+
+Unicode dizesinin ascii eşdeğeri.
+
+## Ayrıca Bakınız
+
+* Class [String](../../../system/string/)
+* Class [IdnMapping](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)

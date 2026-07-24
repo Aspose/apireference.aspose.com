@@ -1,0 +1,24 @@
+---
+title: "System::Security::Cryptography::Xml::KeyInfoX509Data::AddSubjectName μέθοδο"
+linktitle: "AddSubjectName"
+second_title: "Aspose.Page για C++"
+description: "Πώς να χρησιμοποιήσετε τη μέθοδο AddSubjectName της κλάσης System::Security::Cryptography::Xml::KeyInfoX509Data σε C++."
+type: docs
+weight: 500
+url: /el/cpp/system.security.cryptography.xml/keyinfox509data/addsubjectname/
+---
+## KeyInfoX509Data::AddSubjectName method
+
+
+
+
+```cpp
+void System::Security::Cryptography::Xml::KeyInfoX509Data::AddSubjectName(String subjectName)
+```
+
+## Δείτε επίσης
+
+* Class [String](../../../system/string/)
+* Class [KeyInfoX509Data](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,29 @@
+---
+title: "Метод System::Xml::XmlNamedNodeMap::cbegin"
+linktitle: "cbegin"
+second_title: "Aspose.Page для C++"
+description: "Метод System::Xml::XmlNamedNodeMap::cbegin. Получает итератор на первый элемент коллекции в C++."
+type: docs
+weight: 200
+url: /ru/cpp/system.xml/xmlnamednodemap/cbegin/
+---
+## XmlNamedNodeMap::cbegin method
+
+
+Получает итератор к первому элементу коллекции.
+
+```cpp
+iterator System::Xml::XmlNamedNodeMap::cbegin() const noexcept
+```
+
+
+### ReturnValue
+
+Итератор, указывающий на первый элемент в коллекции.
+
+## См. также
+
+* Typedef [iterator](../iterator/)
+* Class [XmlNamedNodeMap](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)

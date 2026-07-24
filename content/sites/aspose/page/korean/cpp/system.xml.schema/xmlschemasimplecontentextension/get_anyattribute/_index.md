@@ -1,0 +1,30 @@
+---
+title: "System::Xml::Schema::XmlSchemaSimpleContentExtension::get_AnyAttribute 메서드"
+linktitle: "get_AnyAttribute"
+second_title: "C++용 Aspose.Page"
+description: "System::Xml::Schema::XmlSchemaSimpleContentExtension::get_AnyAttribute 메서드. 속성 값에 사용할 XmlSchemaAnyAttribute를 반환합니다 C++에서."
+type: docs
+weight: 200
+url: /ko/cpp/system.xml.schema/xmlschemasimplecontentextension/get_anyattribute/
+---
+## XmlSchemaSimpleContentExtension::get_AnyAttribute method
+
+
+속성 값에 사용할 [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/)를 반환합니다.
+
+```cpp
+SharedPtr<XmlSchemaAnyAttribute> System::Xml::Schema::XmlSchemaSimpleContentExtension::get_AnyAttribute()
+```
+
+
+### ReturnValue
+
+[XmlSchemaAnyAttribute](../../xmlschemaanyattribute/)입니다. 선택 사항.
+
+## 또 보기
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/)
+* Class [XmlSchemaSimpleContentExtension](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,34 @@
+---
+title: "System::Runtime::Serialization::FormatterConverter::ToSByte विधि"
+linktitle: "ToSByte"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Runtime::Serialization::FormatterConverter::ToSByte विधि. एक मान को int8_t में C++ में परिवर्तित करता है।"
+type: docs
+weight: 1100
+url: /hi/cpp/system.runtime.serialization/formatterconverter/tosbyte/
+---
+## FormatterConverter::ToSByte method
+
+
+एक मान को int8_t में परिवर्तित करता है।
+
+```cpp
+int8_t System::Runtime::Serialization::FormatterConverter::ToSByte(System::SharedPtr<Object> value) override
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| मान | System::SharedPtr\<Object\> | परिवर्तित किया जाने वाला ऑब्जेक्ट। |
+
+### ReturnValue
+
+परिवर्तित मान।
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [FormatterConverter](../)
+* Namespace [System::Runtime::Serialization](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,35 @@
+---
+title: "System::Net::WebRequest::EndGetRequestStream मेथड"
+linktitle: "EndGetRequestStream"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Net::WebRequest::EndGetRequestStream मेथड. C++ में स्ट्रीम प्राप्त करने के निर्दिष्ट असिंक्रोनस ऑपरेशन के पूरा होने तक प्रतीक्षा करता है।"
+type: docs
+weight: 1200
+url: /hi/cpp/system.net/webrequest/endgetrequeststream/
+---
+## WebRequest::EndGetRequestStream method
+
+
+स्ट्रीम प्राप्त करने के निर्दिष्ट असिंक्रोनस ऑपरेशन के समाप्त होने तक प्रतीक्षा करता है।
+
+```cpp
+virtual System::SharedPtr<IO::Stream> System::Net::WebRequest::EndGetRequestStream(System::SharedPtr<IAsyncResult> asyncResult)=0
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| asyncResult | System::SharedPtr\<IAsyncResult\> | एक [IAsyncResult](../../../system/iasyncresult/) ऑब्जेक्ट जो स्ट्रीम प्राप्त करने के लिए असिंक्रोनस ऑपरेशन का प्रतिनिधित्व करता है। |
+
+### ReturnValue
+
+संसाधन पर डेटा लिखने के लिए स्ट्रीम।
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [IAsyncResult](../../../system/iasyncresult/)
+* Class [WebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,25 @@
+---
+title: "System::Drawing::Brushes::get_DarkOliveGreen 方法"
+linktitle: "get_DarkOliveGreen"
+second_title: "Aspose.Page 适用于 C++"
+description: "System::Drawing::Brushes::get_DarkOliveGreen 方法。返回十六进制值为 #FF556B2F 的实心填充颜色（C++）。"
+type: docs
+weight: 2900
+url: /zh/cpp/system.drawing/brushes/get_darkolivegreen/
+---
+## Brushes::get_DarkOliveGreen method
+
+
+返回十六进制值为 #FF556B2F 的纯色填充颜色。
+
+```cpp
+static SharedPtr<Brush> System::Drawing::Brushes::get_DarkOliveGreen()
+```
+
+## 另见
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Brush](../../brush/)
+* Class [Brushes](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,25 @@
+---
+title: "System::Drawing::Pens::get_BlanchedAlmond विधि"
+linktitle: "get_BlanchedAlmond"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Drawing::Pens::get_BlanchedAlmond विधि। एक Pen ऑब्जेक्ट लौटाता है जिसकी चौड़ाई 1 है और जिसका ARGB रंग हेक्साडेसिमल नोटेशन में #FFFFEBCD मान रखता है C++ में।"
+type: docs
+weight: 900
+url: /hi/cpp/system.drawing/pens/get_blanchedalmond/
+---
+## Pens::get_BlanchedAlmond method
+
+
+एक [Pen](../../pen/) ऑब्जेक्ट लौटाता है जिसकी चौड़ाई 1 है और जिसका ARGB रंग हेक्साडेसिमल नोटेशन में #FFFFEBCD मान रखता है।
+
+```cpp
+static SharedPtr<Pen> System::Drawing::Pens::get_BlanchedAlmond()
+```
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Pen](../../pen/)
+* Class [Pens](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

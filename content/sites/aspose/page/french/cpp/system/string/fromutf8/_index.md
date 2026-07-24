@@ -1,0 +1,106 @@
+---
+title: "System::String::FromUtf8 méthode"
+linktitle: "FromUtf8"
+second_title: "Aspose.Page pour C++"
+description: "System::String::FromUtf8 méthode. Crée une String à partir d’une chaîne utf8 en C++."
+type: docs
+weight: 7000
+url: /fr/cpp/system/string/fromutf8/
+---
+## String::FromUtf8(const char *) method
+
+
+Crée [String](../) à partir d’une chaîne utf8.
+
+```cpp
+static String System::String::FromUtf8(const char *utf8)
+```
+
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| utf8 | const char * | Pointeur vers une chaîne terminée par un caractère nul encodée en utilisant la page de code utf8. |
+
+### ReturnValue
+
+[String](../) object representing passed string.
+
+## Voir aussi
+
+* Class [String](../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## String::FromUtf8(const char *, int) method
+
+
+Crée [String](../) à partir d’une chaîne utf8.
+
+```cpp
+static String System::String::FromUtf8(const char *utf8, int len)
+```
+
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| utf8 | const char * | Pointeur vers une chaîne encodée en utilisant la page de code utf8. |
+| len | int | Nombre de caractères à gérer. |
+
+### ReturnValue
+
+[String](../) object representing passed string.
+
+## Voir aussi
+
+* Class [String](../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## String::FromUtf8(const std::string\&) method
+
+
+Crée [String](../) à partir d’une chaîne utf8.
+
+```cpp
+static String System::String::FromUtf8(const std::string &utf8)
+```
+
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| utf8 | const std::string\& | Pointeur vers une chaîne encodée en utilisant la page de code utf8. |
+
+### ReturnValue
+
+[String](../) object representing passed string.
+
+## Voir aussi
+
+* Class [String](../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## String::FromUtf8(const uint8_t *) method
+
+
+Crée [String](../) à partir d’une chaîne utf8.
+
+```cpp
+static String System::String::FromUtf8(const uint8_t *utf8)
+```
+
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| utf8 | const uint8_t * | Pointeur vers une chaîne terminée par un caractère nul encodée en utilisant la page de code utf8. |
+
+### ReturnValue
+
+[String](../) object representing passed string.
+
+## Voir aussi
+
+* Class [String](../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)

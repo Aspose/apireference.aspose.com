@@ -1,0 +1,30 @@
+---
+title: "System::Collections::Generic::Comparer::get_Default μέθοδος"
+linktitle: "get_Default"
+second_title: "Aspose.Page για C++"
+description: "System::Collections::Generic::Comparer::get_Default μέθοδος. Επιστρέφει έναν προεπιλεγμένο συγκριτή σειράς ταξινόμησης για τον τύπο που καθορίζεται από το γενικό όρισμα σε C++."
+type: docs
+weight: 100
+url: /el/cpp/system.collections.generic/comparer/get_default/
+---
+## Comparer::get_Default method
+
+
+Επιστρέφει έναν προεπιλεγμένο συγκριτή σειράς ταξινόμησης για τον τύπο που καθορίζεται από το γενικό όρισμα.
+
+```cpp
+static SharedPtr<IComparer<T>> System::Collections::Generic::Comparer<T>::get_Default()
+```
+
+
+### ReturnValue
+
+Ένα αντικείμενο που κληρονομεί το [System.Collections.Generic.Comparer](../) και λειτουργεί ως συγκριτής σειράς ταξινόμησης για τον τύπο T.
+
+## Δείτε επίσης
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IComparer](../../icomparer/)
+* Class [Comparer](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,25 @@
+---
+title: "System::Drawing::Brushes::get_WhiteSmoke मेथड"
+linktitle: "get_WhiteSmoke"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Drawing::Brushes::get_WhiteSmoke मेथड. C++ में वह ठोस भराव रंग लौटाता है जिसका हेक्साडेसिमल मान #FFF5F5F5 है।"
+type: docs
+weight: 13900
+url: /hi/cpp/system.drawing/brushes/get_whitesmoke/
+---
+## Brushes::get_WhiteSmoke method
+
+
+वापसी करता है ठोस भराव रंग जिसका हेक्साडेसिमल मान #FFF5F5F5 है।
+
+```cpp
+static SharedPtr<Brush> System::Drawing::Brushes::get_WhiteSmoke()
+```
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Brush](../../brush/)
+* Class [Brushes](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

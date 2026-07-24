@@ -1,0 +1,37 @@
+---
+title: "Clase Aspose::Page::XPS::XpsMetadata::PageOrientation"
+linktitle: "PageOrientation"
+second_title: "Aspose.Page para C++"
+description: "Clase Aspose::Page::XPS::XpsMetadata::PageOrientation. Describe la orientación de la hoja de medio físico.  en C++."
+type: docs
+weight: 11300
+url: /es/cpp/aspose.page.xps.xpsmetadata/pageorientation/
+---
+## PageOrientation class
+
+
+Describe la orientación de la hoja de medio físico. [https://docs.microsoft.com/en-us/windows/win32/printdocs/pageorientation](https://docs.microsoft.com/en-us/windows/win32/printdocs/pageorientation).
+
+```cpp
+class PageOrientation : public Aspose::Page::XPS::XpsMetadata::Feature,
+                        public Aspose::Page::XPS::XpsMetadata::IJobPrintTicketItem,
+                        public Aspose::Page::XPS::XpsMetadata::IDocumentPrintTicketItem,
+                        public Aspose::Page::XPS::XpsMetadata::IPagePrintTicketItem
+```
+
+## Nested classes
+
+* Class [PageOrientationOption](./pageorientationoption/)
+## Métodos
+
+| Método | Descripción |
+| --- | --- |
+| [PageOrientation](./pageorientation/)(const System::ArrayPtr\<System::SharedPtr\<PageOrientation::PageOrientationOption\>\>\&) | Crea una nueva instancia. |
+## Ver también
+
+* Class [Feature](../feature/)
+* Class [IJobPrintTicketItem](../ijobprintticketitem/)
+* Class [IDocumentPrintTicketItem](../idocumentprintticketitem/)
+* Class [IPagePrintTicketItem](../ipageprintticketitem/)
+* Namespace [Aspose::Page::XPS::XpsMetadata](../)
+* Library [Aspose.Page for C++](../../)

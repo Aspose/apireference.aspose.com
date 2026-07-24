@@ -1,0 +1,33 @@
+---
+title: "System::Collections::BitArray::operator!= 方法"
+linktitle: "operator!="
+second_title: "Aspose.Page 适用于 C++"
+description: "System::Collections::BitArray::operator!= 方法。C++ 中的位比较运算符。"
+type: docs
+weight: 1500
+url: /zh/cpp/system.collections/bitarray/operator!=/
+---
+## BitArray::operator!= method
+
+
+按位比较运算符。
+
+```cpp
+bool System::Collections::BitArray::operator!=(const BitArray &other) const
+```
+
+
+| Parameter | Type | 描述 |
+| --- | --- | --- |
+| 其他 | const BitArray\& | 右侧操作数。 |
+
+### ReturnValue
+
+如果大小和所有位匹配则为 false，否则为 true。
+
+## 另见
+
+* Class [BitArray](../)
+* Class [BitArray](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Page for C++](../../../)

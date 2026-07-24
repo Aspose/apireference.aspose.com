@@ -1,0 +1,23 @@
+---
+title: "System::Xml::XmlCDataSection::Ptr typedef"
+linktitle: "Ptr"
+second_title: "Aspose.Page για C++"
+description: "System::Xml::XmlCDataSection::Ptr typedef. Ένα ψευδώνυμο για κοινό δείκτη σε μια παρουσία αυτής της κλάσης σε C++."
+type: docs
+weight: 800
+url: /el/cpp/system.xml/xmlcdatasection/ptr/
+---
+## Ptr typedef
+
+
+Ένα ψευδώνυμο για κοινό δείκτη σε μια παρουσία αυτής της κλάσης.
+
+```cpp
+using System::Xml::XmlCDataSection::Ptr =  SharedPtr<XmlCDataSection>
+```
+
+## Δείτε επίσης
+
+* Class [XmlCDataSection](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)

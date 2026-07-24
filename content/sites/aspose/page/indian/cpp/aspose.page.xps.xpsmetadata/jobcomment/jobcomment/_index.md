@@ -1,0 +1,29 @@
+---
+title: "Aspose::Page::XPS::XpsMetadata::JobComment::JobComment कंस्ट्रक्टर"
+linktitle: "JobComment"
+second_title: "Aspose.Page C++ के लिए"
+description: "Aspose::Page::XPS::XpsMetadata::JobComment::JobComment कंस्ट्रक्टर। C++ में नया इंस्टेंस बनाता है।"
+type: docs
+weight: 100
+url: /hi/cpp/aspose.page.xps.xpsmetadata/jobcomment/jobcomment/
+---
+## JobComment::JobComment constructor
+
+
+एक नया इंस्टेंस बनाता है।
+
+```cpp
+Aspose::Page::XPS::XpsMetadata::JobComment::JobComment(System::String value)
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| मान | System::String | पैरामीटर का मान। |
+
+## संबंधित देखें
+
+* Class [String](../../../system/string/)
+* Class [JobComment](../)
+* Namespace [Aspose::Page::XPS::XpsMetadata](../../)
+* Library [Aspose.Page for C++](../../../)

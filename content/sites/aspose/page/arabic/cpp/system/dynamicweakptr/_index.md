@@ -1,0 +1,56 @@
+---
+title: "فئة System::DynamicWeakPtr"
+linktitle: "DynamicWeakPtr"
+second_title: "Aspose.Page لـ C++"
+description: "فئة System::DynamicWeakPtr. فئة مؤشر ذكي تتعقب أوضاع المؤشرات لمعلمات القالب للكائن المخزن وتحدّثها بعد كل إسناد. هذا النوع هو مؤشر لإدارة حذف كائن آخر. يجب تخصيصه على المكدس وتمريره إلى الدوال إما بالقيمة أو بالمرجع الثابت في C++."
+type: docs
+weight: 2200
+url: /ar/cpp/system/dynamicweakptr/
+---
+## DynamicWeakPtr class
+
+
+فئة مؤشر ذكي تتعقب أوضاع المؤشرات للمعاملات القالبية للكائن المخزن وتحدّثها بعد كل إسناد. هذا النوع هو مؤشر لإدارة حذف كائن آخر. يجب تخصيصه على المكدس وتمريره إلى الدوال إما بالقيمة أو بالمرجع الثابت.
+
+```cpp
+template<typename T,SmartPtrMode,unsigned int ...>class DynamicWeakPtr : public System::SmartPtr<T>
+```
+
+
+| Parameter | الوصف |
+| --- | --- |
+| Pointee | النوع. |
+| trunkMode | وضع المؤشر الذكي نفسه، مشترك أو ضعيف. |
+| weakLeafs | فهارس معلمات القالب للنوع المخزن التي يجب تعيينها إلى وضع المؤشر الضعيف. |
+## Nested classes
+
+* Class [Reference](./reference/)
+## الطرق
+
+| طريقة | الوصف |
+| --- | --- |
+| [DynamicWeakPtr](./dynamicweakptr/)(std::nullptr_t) | ينشئ مؤشرًا ذكيًا فارغًا. |
+| [DynamicWeakPtr](./dynamicweakptr/)(Pointee_ *) | ينشئ مؤشرًا ذكيًا يشير إلى الكائن المعطى. |
+| [DynamicWeakPtr](./dynamicweakptr/)(const SmartPtr_\&) | ينشئ نسخة من المؤشر الذكي. |
+| [DynamicWeakPtr](./dynamicweakptr/)(const SmartPtr\<Q\>\&) | ينشئ نسخة من المؤشر الذكي. |
+| [DynamicWeakPtr](./dynamicweakptr/)(const DynamicWeakPtr_\&) | ينشئ نسخة من المؤشر الذكي. |
+| [DynamicWeakPtr](./dynamicweakptr/)(SmartPtr_\&&) | ينشئ نسخة من المؤشر الذكي عبر النقل. |
+| [operator=](./operator=/)(SmartPtr_\&&) | ينقل إسناد المؤشر الذكي. |
+| [operator=](./operator=/)(const SmartPtr_\&) | ينسخ إسناد المؤشر الذكي. |
+| [operator=](./operator=/)(const SmartPtr\<Q\>\&) | ينسخ إسناد المؤشر الذكي. |
+| [operator=](./operator=/)(typename SmartPtr_::Pointee_ *) | يُسند المؤشر الذكي. |
+| [operator=](./operator=/)(std::nullptr_t) | يضبط المؤشر الذكي إلى فارغ. |
+| [operator==](./operator==/)(std::nullptr_t) const | يتحقق مما إذا كان المؤشر الذكي null. |
+## Typedefs
+
+| تعريف نوع | الوصف |
+| --- | --- |
+| [DynamicWeakPtr_](./dynamicweakptr_/) | اسم مستعار للنوع نفسه. |
+| [Pointee_](./pointee_/) | نوع المؤشر إليه. |
+| [SmartPtr_](./smartptr_/) | [SmartPtr](../smartptr/) اسم مستعار للفئة الأساسية. |
+
+## انظر أيضًا
+
+* Class [SmartPtr](../smartptr/)
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)

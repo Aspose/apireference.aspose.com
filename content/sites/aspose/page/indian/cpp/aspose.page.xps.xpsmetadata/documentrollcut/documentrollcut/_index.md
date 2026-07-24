@@ -1,0 +1,31 @@
+---
+title: "Aspose::Page::XPS::XpsMetadata::DocumentRollCut::DocumentRollCut कन्स्ट्रक्टर"
+linktitle: "DocumentRollCut"
+second_title: "Aspose.Page C++ के लिए"
+description: "Aspose::Page::XPS::XpsMetadata::DocumentRollCut::DocumentRollCut कन्स्ट्रक्टर. C++ में एक नया उदाहरण बनाता है।"
+type: docs
+weight: 100
+url: /hi/cpp/aspose.page.xps.xpsmetadata/documentrollcut/documentrollcut/
+---
+## DocumentRollCut::DocumentRollCut constructor
+
+
+एक नया इंस्टेंस बनाता है।
+
+```cpp
+Aspose::Page::XPS::XpsMetadata::DocumentRollCut::DocumentRollCut(const System::ArrayPtr<System::SharedPtr<RollCut::RollCutOption>> &options)
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| विकल्प | const System::ArrayPtr\<System::SharedPtr\<RollCut::RollCutOption\>\>\& | विशेषता के लिए विशिष्ट विकल्पों की एक सरणी। |
+
+## संबंधित देखें
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RollCutOption](../../rollcut/rollcutoption/)
+* Class [DocumentRollCut](../)
+* Namespace [Aspose::Page::XPS::XpsMetadata](../../)
+* Library [Aspose.Page for C++](../../../)

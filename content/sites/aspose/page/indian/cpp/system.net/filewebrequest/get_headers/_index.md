@@ -1,0 +1,30 @@
+---
+title: "System::Net::FileWebRequest::get_Headers मेथड"
+linktitle: "get_Headers"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Net::FileWebRequest::get_Headers मेथड। C++ में HTTP हेडर का संग्रह प्राप्त करता है।"
+type: docs
+weight: 800
+url: /hi/cpp/system.net/filewebrequest/get_headers/
+---
+## FileWebRequest::get_Headers method
+
+
+HTTP हेडर का संग्रह प्राप्त करता है।
+
+```cpp
+System::SharedPtr<WebHeaderCollection> System::Net::FileWebRequest::get_Headers() override
+```
+
+
+### ReturnValue
+
+HTTP हेडर्स का संग्रह।
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [WebHeaderCollection](../../webheadercollection/)
+* Class [FileWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)

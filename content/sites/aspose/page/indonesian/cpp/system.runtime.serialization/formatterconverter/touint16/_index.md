@@ -1,0 +1,34 @@
+---
+title: "System::Runtime::Serialization::FormatterConverter::ToUInt16 metode"
+linktitle: "ToUInt16"
+second_title: "Aspose.Page untuk C++"
+description: "System::Runtime::Serialization::FormatterConverter::ToUInt16 metode. Mengonversi nilai menjadi uint16_t dalam C++."
+type: docs
+weight: 1400
+url: /id/cpp/system.runtime.serialization/formatterconverter/touint16/
+---
+## FormatterConverter::ToUInt16 method
+
+
+Mengonversi nilai ke uint16_t.
+
+```cpp
+uint16_t System::Runtime::Serialization::FormatterConverter::ToUInt16(System::SharedPtr<Object> value) override
+```
+
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| value | System::SharedPtr\<Object\> | Objek yang akan dikonversi. |
+
+### ReturnValue
+
+Nilai yang telah dikonversi.
+
+## Lihat Juga
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [FormatterConverter](../)
+* Namespace [System::Runtime::Serialization](../../)
+* Library [Aspose.Page for C++](../../../)

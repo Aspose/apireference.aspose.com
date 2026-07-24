@@ -1,0 +1,93 @@
+---
+title: "System::ComponentModel::TypeConverter::ConvertFrom मेथड"
+linktitle: "ConvertFrom"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::ComponentModel::TypeConverter::ConvertFrom मेथड. C++ में ऑब्जेक्ट्स को परिवर्तित करता है।"
+type: docs
+weight: 200
+url: /hi/cpp/system.componentmodel/typeconverter/convertfrom/
+---
+## TypeConverter::ConvertFrom(const System::SharedPtr\<ITypeDescriptorContext\>\&, const System::SharedPtr\<System::Globalization::CultureInfo\>\&, const System::SharedPtr\<System::Object\>\&) method
+
+
+वस्तुओं को परिवर्तित करता है।
+
+```cpp
+virtual System::SharedPtr<System::Object> System::ComponentModel::TypeConverter::ConvertFrom(const System::SharedPtr<ITypeDescriptorContext> &context, const System::SharedPtr<System::Globalization::CultureInfo> &culture, const System::SharedPtr<System::Object> &value)
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| context | const System::SharedPtr\<ITypeDescriptorContext\>\& | [Object](../../../system/object/) रूपांतरण संदर्भ जानकारी। |
+| संस्कृति | const System::SharedPtr\<System::Globalization::CultureInfo\>\& | ऑब्जेक्ट्स को परिवर्तित करते समय उपयोग करने वाली संस्कृति। |
+| value | const System::SharedPtr\<System::Object\>\& | [Object](../../../system/object/) को परिवर्तित करने के लिए। |
+
+### ReturnValue
+
+परिवर्तित ऑब्जेक्ट।
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [ITypeDescriptorContext](../../itypedescriptorcontext/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [TypeConverter](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Page for C++](../../../)
+## TypeConverter::ConvertFrom(const System::SharedPtr\<ITypeDescriptorContext\>\&, const System::SharedPtr\<System::Globalization::CultureInfo\>\&, const System::String\&) method
+
+
+स्ट्रिंग को वस्तु में परिवर्तित करता है।
+
+```cpp
+System::SharedPtr<System::Object> System::ComponentModel::TypeConverter::ConvertFrom(const System::SharedPtr<ITypeDescriptorContext> &context, const System::SharedPtr<System::Globalization::CultureInfo> &culture, const System::String &value)
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| context | const System::SharedPtr\<ITypeDescriptorContext\>\& | [Object](../../../system/object/) रूपांतरण संदर्भ जानकारी। |
+| संस्कृति | const System::SharedPtr\<System::Globalization::CultureInfo\>\& | ऑब्जेक्ट्स को परिवर्तित करते समय उपयोग करने वाली संस्कृति। |
+| मान | const System::String\& | परिवर्तित करने के लिए मान। |
+
+### ReturnValue
+
+परिवर्तित ऑब्जेक्ट।
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [ITypeDescriptorContext](../../itypedescriptorcontext/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [String](../../../system/string/)
+* Class [TypeConverter](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Page for C++](../../../)
+## TypeConverter::ConvertFrom(const System::SharedPtr\<System::Object\>\&) method
+
+
+वस्तुओं को परिवर्तित करता है।
+
+```cpp
+System::SharedPtr<System::Object> System::ComponentModel::TypeConverter::ConvertFrom(const System::SharedPtr<System::Object> &value)
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| value | const System::SharedPtr\<System::Object\>\& | [Object](../../../system/object/) को परिवर्तित करने के लिए। |
+
+### ReturnValue
+
+परिवर्तित ऑब्जेक्ट।
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [TypeConverter](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Page for C++](../../../)

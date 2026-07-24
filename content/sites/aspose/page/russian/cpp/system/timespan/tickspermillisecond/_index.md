@@ -1,0 +1,23 @@
+---
+title: "Поле System::TimeSpan::TicksPerMillisecond"
+linktitle: "TicksPerMillisecond"
+second_title: "Aspose.Page для C++"
+description: "Поле System::TimeSpan::TicksPerMillisecond. Количество интервалов по 100 наносекунд в миллисекунде в C++."
+type: docs
+weight: 5100
+url: /ru/cpp/system/timespan/tickspermillisecond/
+---
+## TicksPerMillisecond field
+
+
+Количество интервалов по 100 наносекунд в миллисекунде.
+
+```cpp
+static int64_t System::TimeSpan::TicksPerMillisecond
+```
+
+## См. также
+
+* Class [TimeSpan](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)

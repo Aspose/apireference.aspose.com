@@ -1,0 +1,25 @@
+---
+title: "Aspose::Page::EPS::XMP::XmpField::get_Lang método"
+linktitle: "get_Lang"
+second_title: "Aspose.Page para C++"
+description: "Aspose::Page::EPS::XMP::XmpField::get_Lang método. Obtiene el calificador xml:lang en C++."
+type: docs
+weight: 200
+url: /es/cpp/aspose.page.eps.xmp/xmpfield/get_lang/
+---
+## XmpField::get_Lang method
+
+
+Obtiene el calificador xml:lang.
+
+```cpp
+static System::SharedPtr<XmpField> Aspose::Page::EPS::XMP::XmpField::get_Lang()
+```
+
+## Ver también
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmpField](../)
+* Class [XmpField](../)
+* Namespace [Aspose::Page::EPS::XMP](../../)
+* Library [Aspose.Page for C++](../../../)

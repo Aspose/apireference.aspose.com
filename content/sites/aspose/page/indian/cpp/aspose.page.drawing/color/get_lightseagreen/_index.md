@@ -1,0 +1,29 @@
+---
+title: "Aspose::Page::Drawing::Color::get_LightSeaGreen मेथड"
+linktitle: "get_LightSeaGreen"
+second_title: "Aspose.Page C++ के लिए"
+description: "Aspose::Page::Drawing::Color::get_LightSeaGreen मेथड. एक सिस्टम-परिभाषित रंग प्राप्त करता है जिसका ARGB मान #FF20B2AA है C++ में।"
+type: docs
+weight: 7400
+url: /hi/cpp/aspose.page.drawing/color/get_lightseagreen/
+---
+## Color::get_LightSeaGreen method
+
+
+एक सिस्टम-परिभाषित रंग प्राप्त करता है जिसका ARGB मान #FF20B2AA है।
+
+```cpp
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_LightSeaGreen()
+```
+
+
+### ReturnValue
+
+एक [T:Aspose::Page::Drawing::Color](../) जो सिस्टम-परिभाषित रंग का प्रतिनिधित्व करता है।
+
+## संबंधित देखें
+
+* Class [Color](../)
+* Class [Color](../)
+* Namespace [Aspose::Page::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

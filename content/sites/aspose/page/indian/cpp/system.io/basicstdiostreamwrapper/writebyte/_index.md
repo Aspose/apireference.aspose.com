@@ -1,0 +1,28 @@
+---
+title: "System::IO::BasicSTDIOStreamWrapper::WriteByte मेथड"
+linktitle: "WriteByte"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::IO::BasicSTDIOStreamWrapper::WriteByte मेथड. यदि रैपिंग मोड बाइनरी है, तो निर्दिष्ट अनसाइनड 8-बिट पूर्णांक मान को स्ट्रीम में लिखता है, अन्यथा इसे char_type प्रकार में परिवर्तित करके C++ में स्ट्रीम में लिखता है।"
+type: docs
+weight: 800
+url: /hi/cpp/system.io/basicstdiostreamwrapper/writebyte/
+---
+## BasicSTDIOStreamWrapper::WriteByte method
+
+
+यदि रैपिंग मोड बाइनरी है, तो निर्दिष्ट अनसाइनड 8-बिट पूर्णांक मान को स्ट्रीम में लिखता है, अन्यथा इसे [char_type](../char_type/) प्रकार में परिवर्तित करके फिर परिणाम को स्ट्रीम में लिखता है।
+
+```cpp
+virtual void System::IO::BasicSTDIOStreamWrapper<T, typename>::WriteByte(uint8_t value) override
+```
+
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| मान | uint8_t | लिखने के लिए मान |
+
+## संबंधित देखें
+
+* Class [BasicSTDIOStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)

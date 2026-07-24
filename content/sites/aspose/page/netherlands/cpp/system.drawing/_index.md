@@ -1,0 +1,72 @@
+---
+title: "System::Drawing-namespace"
+linktitle: "System::Drawing"
+second_title: "Aspose.Page voor C++"
+description: "Hoe de System::Drawing-namespace te gebruiken in C++."
+type: docs
+weight: 3300
+url: /nl/cpp/system.drawing/
+---
+
+
+
+## Klassen
+
+| Klasse | Beschrijving |
+| --- | --- |
+| [Bitmap](./bitmap/) | Stelt een GDI+ bitmap-afbeelding voor. Objecten van deze klasse mogen alleen worden gealloceerd met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met de operator new, omdat dit leidt tot runtime-fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [Brush](./brush/) | Een basisklasse voor klassen die vullers vertegenwoordigen die worden gebruikt om de binnenkant van grafische vormen te vullen. Objecten van deze klasse mogen alleen worden gealloceerd met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met de operator new, omdat dit leidt tot runtime-fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [Brushes](./brushes/) | Biedt een set vooraf gemaakte [SolidBrush](./solidbrush/) objecten. Dit is een statisch type zonder instantie-diensten. Je mag nooit op welke manier dan ook instanties ervan maken. |
+| [CharacterRange](./characterrange/) | Stelt een bereik van tekenposities in een string voor. Dit type moet op de stack worden gealloceerd en aan functies worden doorgegeven per waarde of per referentie. Gebruik nooit de klasse [System::SmartPtr](../system/smartptr/) om objecten van dit type te beheren. |
+| [Color](./color/) | Stelt een kleur voor. Dit type moet op de stack worden gealloceerd en aan functies worden doorgegeven per waarde of per referentie. Gebruik nooit de klasse [System::SmartPtr](../system/smartptr/) om objecten van dit type te beheren. |
+| [ColorTranslator](./colortranslator/) | Voert kleurvertalingen uit. Objecten van deze klasse mogen alleen worden gealloceerd met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met de operator new, omdat dit leidt tot runtime-fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [Font](./font/) | Stelt een specifiek tekstformaat voor, inclusief lettertype, grootte en stijl. Objecten van deze klasse mogen alleen worden gealloceerd met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met de operator new, omdat dit leidt tot runtime-fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [FontConverter](./fontconverter/) | Converteert [Font](./font/) objecten van het ene gegevenstype naar het andere. Objecten van deze klasse mogen alleen worden toegewezen met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [FontFamily](./fontfamily/) | Stelt een groep van typefaces voor die een vergelijkbaar basisonwerp delen. Objecten van deze klasse mogen alleen worden toegewezen met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [Graphics](./graphics/) | Stelt een tekenoppervlak voor. Objecten van deze klasse mogen alleen worden toegewezen met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [Icon](./icon/) | Stelt een [Windows](../system.windows/) pictogram voor. Objecten van deze klasse mogen alleen worden toegewezen met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [Image](./image/) | Een basisklasse voor de klassen [System::Drawing::Bitmap](./bitmap/) en System::Drawing::Metafile die basisfunctionaliteit biedt. Objecten van deze klasse mogen alleen worden toegewezen met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [ImageConverter](./imageconverter/) | Converteert [Image](./image/) objecten van het ene gegevenstype naar het andere. Objecten van deze klasse mogen alleen worden toegewezen met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [ImageFormatConverter](./imageformatconverter/) | Converteert ImageFormat-objecten van het ene gegevenstype naar het andere. Objecten van deze klasse mogen alleen worden toegewezen met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [Pen](./pen/) | Stelt eigenschappen zoals kleur, breedte enz. van de te tekenen lijnen en krommen voor. Objecten van deze klasse mogen alleen worden toegewezen met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [Pens](./pens/) | Biedt een set vooraf aangemaakte [Pen](./pen/) objecten. Dit is een statisch type zonder instantie‑services. Je mag nooit instanties ervan maken, op welke manier dan ook. |
+| [Point](./point/) | Stelt een paar gehele X- en Y-coördinaten van een punt op een tweedimensionaal vlak voor. Dit type moet op de stack worden toegewezen en aan functies worden doorgegeven per waarde of per referentie. Gebruik nooit de klasse [System::SmartPtr](../system/smartptr/) om objecten van dit type te beheren. |
+| [PointF](./pointf/) | Stelt een paar enkelprecisie floating‑point X- en Y-coördinaten van een punt op een tweedimensionaal vlak voor. Dit type moet op de stack worden toegewezen en aan functies worden doorgegeven per waarde of per referentie. Gebruik nooit de klasse [System::SmartPtr](../system/smartptr/) om objecten van dit type te beheren. |
+| [Rectangle](./rectangle/) | Stelt een rechthoekig gebied van een afbeelding voor, gedefinieerd door gehele X- en Y-coördinaten van de linkerbovenhoek en de breedte en hoogte. Dit type moet op de stack worden toegewezen en aan functies worden doorgegeven per waarde of per referentie. Gebruik nooit de klasse [System::SmartPtr](../system/smartptr/) om objecten van dit type te beheren. |
+| [RectangleF](./rectanglef/) | Stelt een rechthoekig gebied van een afbeelding voor, gedefinieerd door enkelprecisie floating‑point X- en Y-coördinaten van de linkerbovenhoek en de breedte en hoogte. Dit type moet op de stack worden toegewezen en aan functies worden doorgegeven per waarde of per referentie. Gebruik nooit de klasse [System::SmartPtr](../system/smartptr/) om objecten van dit type te beheren. |
+| [Region](./region/) | Stelt de binnenkant van een grafische vorm voor. Objecten van deze klasse mogen alleen worden toegewezen met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [Size](./size/) | Stelt een paar gehele waarden voor die de breedte en hoogte van een afbeelding weergeven. Dit type moet op de stack worden toegewezen en aan functies worden doorgegeven per waarde of per referentie. Gebruik nooit de klasse [System::SmartPtr](../system/smartptr/) om objecten van dit type te beheren. |
+| [SizeF](./sizef/) | Stelt een paar enkelprecisie floating‑point waarden voor die de breedte en hoogte van een afbeelding weergeven. Dit type moet op de stack worden toegewezen en aan functies worden doorgegeven per waarde of per referentie. Gebruik nooit de klasse [System::SmartPtr](../system/smartptr/) om objecten van dit type te beheren. |
+| [SolidBrush](./solidbrush/) | Stelt een eenkleurige penseel voor. Objecten van deze klasse mogen alleen worden toegewezen met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [StringFormat](./stringformat/) | Omvat tekstindelingsinformatie, weergavemanipulaties en OpenType‑functies. Objecten van deze klasse mogen alleen worden toegewezen met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+| [SystemColors](./systemcolors/) | Klasse die een set vooraf aangemaakte [Color](./color/) objecten biedt die de kleuren van [Windows](../system.windows/) weergave‑elementen vertegenwoordigen. Dit is een statisch type zonder instantie‑services. Je mag nooit instanties ervan maken, op welke manier dan ook. |
+| [SystemFonts](./systemfonts/) | Biedt een set vooraf aangemaakte [Font](./font/) objecten die de lettertypen vertegenwoordigen die worden gebruikt om tekst weer te geven in [Windows](../system.windows/) weergave‑elementen. Dit is een statisch type zonder instantie‑services. Je mag nooit instanties ervan maken, op welke manier dan ook. |
+| [TextureBrush](./texturebrush/) | Stelt een penseel voor dat een afbeelding gebruikt om de binnenkant van een vorm te vullen. Objecten van deze klasse mogen alleen worden toegewezen met behulp van de functie [System::MakeObject()](../system/makeobject/). Maak nooit een instantie van dit type op de stack of met operator new, omdat dit leidt tot runtime‑fouten en/of assertiefouten. Wikkel deze klasse altijd in een [System::SmartPtr](../system/smartptr/) pointer en gebruik deze pointer om deze als argument aan functies door te geven. |
+## Enums
+
+| Enum | Beschrijving |
+| --- | --- |
+| [ContentAlignment](./contentalignment/) | Specificeert de uitlijning van de inhoud. |
+| [CopyPixelOperation](./copypixeloperation/) | Specificeert hoe de bronkleur bij een pixel‑kopieerbewerking wordt gecombineerd met de doelkleur om een eindkleur te verkrijgen. |
+| [FontStyle](./fontstyle/) | Stelt een lettertype‑stijl voor. |
+| [GraphicsUnit](./graphicsunit/) | Stelt een meeteenheid voor. |
+| [KnownColor](./knowncolor/) | Specificeert de bekende systeemkleuren. |
+| [RotateFlipType](./rotatefliptype/) | Specificeert het type rotatie- en/of spiegeloperatie. |
+| [StringAlignment](./stringalignment/) | Specificeert de uitlijning van de tekenreeks ten opzichte van zijn lay-outrechthoek. |
+| [StringDigitSubstitute](./stringdigitsubstitute/) | Specificeert hoe cijfers in een tekenreeks worden vervangen volgens de locale of taal. |
+| [StringFormatFlags](./stringformatflags/) | Specificeert de weergave- en lay-outinformatie voor de tekststrings. |
+| [StringTrimming](./stringtrimming/) | Specificeert hoe tekens moeten worden bijgesneden van een tekenreeks die niet in de lay-outvorm past. |
+## Functions
+
+| Functie | Beschrijving |
+| --- | --- |
+| operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

@@ -1,0 +1,25 @@
+---
+title: "System::Drawing::Brushes::get_LightCoral विधि"
+linktitle: "get_LightCoral"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Drawing::Brushes::get_LightCoral विधि। यह ठोस भराव रंग लौटाता है जिसका हेक्साडेसिमल मान #FFF08080 है C++ में।"
+type: docs
+weight: 6500
+url: /hi/cpp/system.drawing/brushes/get_lightcoral/
+---
+## Brushes::get_LightCoral method
+
+
+वापसी करता है ठोस भराव रंग जिसका हेक्साडेसिमल मान #FFF08080 है।
+
+```cpp
+static SharedPtr<Brush> System::Drawing::Brushes::get_LightCoral()
+```
+
+## संबंधित देखें
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Brush](../../brush/)
+* Class [Brushes](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

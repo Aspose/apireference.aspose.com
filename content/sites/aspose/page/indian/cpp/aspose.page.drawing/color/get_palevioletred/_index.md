@@ -1,0 +1,29 @@
+---
+title: "Aspose::Page::Drawing::Color::get_PaleVioletRed मेथड"
+linktitle: "get_PaleVioletRed"
+second_title: "Aspose.Page C++ के लिए"
+description: "Aspose::Page::Drawing::Color::get_PaleVioletRed मेथड. एक सिस्टम-परिभाषित रंग प्राप्त करता है जिसका ARGB मान #FFDB7093 है C++ में।"
+type: docs
+weight: 10800
+url: /hi/cpp/aspose.page.drawing/color/get_palevioletred/
+---
+## Color::get_PaleVioletRed method
+
+
+एक सिस्टम-परिभाषित रंग प्राप्त करता है जिसका ARGB मान #FFDB7093 है।
+
+```cpp
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_PaleVioletRed()
+```
+
+
+### ReturnValue
+
+एक [T:Aspose::Page::Drawing::Color](../) जो सिस्टम-परिभाषित रंग का प्रतिनिधित्व करता है।
+
+## संबंधित देखें
+
+* Class [Color](../)
+* Class [Color](../)
+* Namespace [Aspose::Page::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

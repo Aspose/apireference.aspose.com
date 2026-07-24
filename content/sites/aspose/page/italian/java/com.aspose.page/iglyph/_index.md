@@ -1,0 +1,71 @@
+---
+title: "IGlyph"
+second_title: "Aspose.Page per Java API Reference"
+description: "Questa interfaccia fornisce l'accesso ai principali parametri del glifo."
+type: docs
+weight: 19
+url: /it/java/com.aspose.page/iglyph/
+---```
+public interface IGlyph
+```
+
+This interface give access to main parameters of glyph.
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [getAdvanceWidth()](#getAdvanceWidth--) | Gets advanced width of the glyph. |
+| [getCharCode()](#getCharCode--) | Gets char code of the glyph. |
+| [getCharName()](#getCharName--) | Gets character name. |
+| [getGlyphVector()](#getGlyphVector--) | Gets glyphs vectors. |
+| [getLeftSideBearing()](#getLeftSideBearing--) | Gets left side bearing of the glyph. |
+### getAdvanceWidth() {#getAdvanceWidth--}
+```
+public abstract float getAdvanceWidth()
+```
+
+
+Gets advanced width of the glyph.
+
+**Returns:**
+float - Advanced width.
+### getCharCode() {#getCharCode--}
+```
+public abstract char getCharCode()
+```
+
+
+Gets char code of the glyph.
+
+**Returns:**
+char - A char code.
+### getCharName() {#getCharName--}
+```
+public abstract String getCharName()
+```
+
+
+Gets character name.
+
+**Returns:**
+java.lang.String - Character name
+### getGlyphVector() {#getGlyphVector--}
+```
+public abstract GlyphVector getGlyphVector()
+```
+
+
+Gets glyphs vectors.
+
+**Returns:**
+java.awt.font.GlyphVector - Glyphs vectors.
+### getLeftSideBearing() {#getLeftSideBearing--}
+```
+public abstract float getLeftSideBearing()
+```
+
+
+Gets left side bearing of the glyph.
+
+**Returns:**
+float - Left side bearing of the glyph.

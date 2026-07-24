@@ -1,0 +1,29 @@
+---
+title: "Метод System::Text::Encoding::get_EncodingName"
+linktitle: "get_EncodingName"
+second_title: "Aspose.Page для C++"
+description: "Метод System::Text::Encoding::get_EncodingName. Получает человекочитаемое название кодировки в C++."
+type: docs
+weight: 700
+url: /ru/cpp/system.text/encoding/get_encodingname/
+---
+## Encoding::get_EncodingName method
+
+
+Получает человекочитаемое имя кодировки.
+
+```cpp
+virtual String System::Text::Encoding::get_EncodingName()
+```
+
+
+### ReturnValue
+
+Имя кодировки.
+
+## См. также
+
+* Class [String](../../../system/string/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)

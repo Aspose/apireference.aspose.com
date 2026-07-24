@@ -1,0 +1,32 @@
+---
+title: "System::Drawing::Graphics::MultiplyTransform μέθοδος"
+linktitle: "MultiplyTransform"
+second_title: "Aspose.Page για C++"
+description: "System::Drawing::Graphics::MultiplyTransform μέθοδος. Πολλαπλασιάζει τον πίνακα μετασχηματισμού του κόσμου του τρέχοντος Graphics αντικειμένου με τον καθορισμένο πίνακα στην C++."
+type: docs
+weight: 6600
+url: /el/cpp/system.drawing/graphics/multiplytransform/
+---
+## Graphics::MultiplyTransform method
+
+
+Πολλαπλασιάζει τον πίνακα μετασχηματισμού του κόσμου του τρέχοντος [Graphics](../) αντικειμένου με τον καθορισμένο πίνακα.
+
+```cpp
+void System::Drawing::Graphics::MultiplyTransform(const SharedPtr<Drawing2D::Matrix> &matrix, Drawing2D::MatrixOrder order=Drawing2D::MatrixOrder::Prepend)
+```
+
+
+| Parameter | Type | Περιγραφή |
+| --- | --- | --- |
+| matrix | const SharedPtr\<Drawing2D::Matrix\>\& | Ο πίνακας με τον οποίο θα πολλαπλασιαστεί ο πίνακας μετασχηματισμού του κόσμου του τρέχοντος [Graphics](../) αντικειμένου |
+| σειρά | Drawing2D::MatrixOrder | Η σειρά πολλαπλασιασμού |
+
+## Δείτε επίσης
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Matrix](../../../system.drawing.drawing2d/matrix/)
+* Enum [MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)

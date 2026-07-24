@@ -1,0 +1,22 @@
+---
+title: "typedef System::Xml::XPath::XPathException"
+linktitle: "XPathException"
+second_title: "Aspose.Page per C++"
+description: "Come utilizzare il typedef System::Xml::XPath::XPathException in C++."
+type: docs
+weight: 1300
+url: /it/cpp/system.xml.xpath/xpathexception/
+---
+## XPathException typedef
+
+
+
+
+```cpp
+using System::Xml::XPath::XPathException =  System::ExceptionWrapper<Details_XPathException>
+```
+
+## Vedi anche
+
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Page for C++](../../)

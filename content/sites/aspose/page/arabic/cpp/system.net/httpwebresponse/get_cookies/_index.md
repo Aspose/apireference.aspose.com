@@ -1,0 +1,30 @@
+---
+title: "طريقة System::Net::HttpWebResponse::get_Cookies"
+linktitle: "get_Cookies"
+second_title: "Aspose.Page لـ C++"
+description: "طريقة System::Net::HttpWebResponse::get_Cookies. تُرجع ملفات تعريف الارتباط المرتبطة بالاستجابة الويب في C++."
+type: docs
+weight: 600
+url: /ar/cpp/system.net/httpwebresponse/get_cookies/
+---
+## HttpWebResponse::get_Cookies method
+
+
+يعيد ملفات تعريف الارتباط المرتبطة باستجابة الويب.
+
+```cpp
+virtual System::SharedPtr<CookieCollection> System::Net::HttpWebResponse::get_Cookies()
+```
+
+
+### ReturnValue
+
+ملفات تعريف الارتباط المرتبطة بالاستجابة الويب.
+
+## انظر أيضًا
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CookieCollection](../../cookiecollection/)
+* Class [HttpWebResponse](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,178 @@
+---
+title: "DocumentPageRanges"
+second_title: "Aspose.Page for Java API संदर्भ"
+description: "दस्तावेज़ की आउटपुट रेंज को पृष्ठों में वर्णन करता है।"
+type: docs
+weight: 31
+url: /hi/java/com.aspose.xps.metadata/documentpageranges/
+---
+**Inheritance:**
+java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.xps.metadata/printticketelement), [com.aspose.xps.metadata.ParameterInit](../../com.aspose.xps.metadata/parameterinit), [com.aspose.xps.metadata.StringParameterInit](../../com.aspose.xps.metadata/stringparameterinit)
+
+**All Implemented Interfaces:**
+[com.aspose.xps.metadata.IJobPrintTicketItem](../../com.aspose.xps.metadata/ijobprintticketitem), [com.aspose.xps.metadata.IDocumentPrintTicketItem](../../com.aspose.xps.metadata/idocumentprintticketitem)
+```
+public final class DocumentPageRanges extends StringParameterInit implements IJobPrintTicketItem, IDocumentPrintTicketItem
+```
+
+दस्तावेज़ के पृष्ठों में आउटपुट रेंज का वर्णन करता है। पैरामीटर मान को निम्नलिखित संरचना के अनुसार होना चाहिए: - PageRangeText: "PageRange" या "PageRange,PageRange" - PageRange: "PageNumber" या "PageNumber-PageNumber" - PageNumber: 1 से N, जहाँ N दस्तावेज़ में पृष्ठों की संख्या है। यदि PageNumber > N है, तो PageNumber = N होगा। स्ट्रिंग में व्हाइटस्पेस को अनदेखा किया जाना चाहिए। https://docs.microsoft.com/en-us/windows/win32/printdocs/documentpageranges
+## कंस्ट्रक्टर्स
+
+| कंस्ट्रक्टर | विवरण |
+| --- | --- |
+| [DocumentPageRanges(String value)](#DocumentPageRanges-java.lang.String-) | एक नया इंस्टेंस बनाता है। |
+## मेथड्स
+
+| मेथड | विवरण |
+| --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getMaxLength()](#getMaxLength--) | स्ट्रिंग मानों के लिए, सबसे छोटी और सबसे लंबी स्ट्रिंग को परिभाषित करता है। |
+| [getMinLength()](#getMinLength--) | स्ट्रिंग मानों के लिए, अनुमत सबसे छोटी स्ट्रिंग को परिभाषित करता है। |
+| [getName()](#getName--) | एलिमेंट का नाम प्राप्त करता है। |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### DocumentPageRanges(String value) {#DocumentPageRanges-java.lang.String-}
+```
+public DocumentPageRanges(String value)
+```
+
+
+एक नया इंस्टेंस बनाता है।
+
+**Parameters:**
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| मान | java.lang.String | पैरामीटर का मान। |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getMaxLength() {#getMaxLength--}
+```
+public int getMaxLength()
+```
+
+
+स्ट्रिंग मानों के लिए, सबसे छोटी और सबसे लंबी स्ट्रिंग को परिभाषित करता है।
+
+**Returns:**
+int - सबसे लंबी अनुमत स्ट्रिंग।
+### getMinLength() {#getMinLength--}
+```
+public int getMinLength()
+```
+
+
+स्ट्रिंग मानों के लिए, अनुमत सबसे छोटी स्ट्रिंग को परिभाषित करता है।
+
+**Returns:**
+int - सबसे छोटी अनुमत स्ट्रिंग।
+### getName() {#getName--}
+```
+public String getName()
+```
+
+
+एलिमेंट का नाम प्राप्त करता है।
+
+**Returns:**
+java.lang.String
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

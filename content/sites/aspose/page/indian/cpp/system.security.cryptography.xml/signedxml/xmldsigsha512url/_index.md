@@ -1,0 +1,23 @@
+---
+title: "System::Security::Cryptography::Xml::SignedXml::XmlDsigSHA512Url फ़ील्ड"
+linktitle: "XmlDsigSHA512Url"
+second_title: "Aspose.Page C++ के लिए"
+description: "C++ में System::Security::Cryptography::Xml::SignedXml क्लास के XmlDsigSHA512Url फ़ील्ड का उपयोग कैसे करें।"
+type: docs
+weight: 4000
+url: /hi/cpp/system.security.cryptography.xml/signedxml/xmldsigsha512url/
+---
+## XmlDsigSHA512Url field
+
+
+
+
+```cpp
+static const String System::Security::Cryptography::Xml::SignedXml::XmlDsigSHA512Url
+```
+
+## संबंधित देखें
+
+* Class [SignedXml](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Page for C++](../../../)

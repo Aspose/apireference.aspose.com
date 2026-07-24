@@ -1,0 +1,30 @@
+---
+title: "System::Xml::Schema::XmlSchemaGroup::set_Particle メソッド"
+linktitle: "set_Particle"
+second_title: "C++ 用 Aspose.Page"
+description: "System::Xml::Schema::XmlSchemaGroup::set_Particle メソッド。C++ で XmlSchemaChoice、XmlSchemaAll、または XmlSchemaSequence のいずれかのクラスを設定します。"
+type: docs
+weight: 600
+url: /ja/cpp/system.xml.schema/xmlschemagroup/set_particle/
+---
+## XmlSchemaGroup::set_Particle method
+
+
+[XmlSchemaChoice](../../xmlschemachoice/)、[XmlSchemaAll](../../xmlschemaall/)、または [XmlSchemaSequence](../../xmlschemasequence/) のいずれかのクラスを設定します。
+
+```cpp
+void System::Xml::Schema::XmlSchemaGroup::set_Particle(const SharedPtr<XmlSchemaGroupBase> &value)
+```
+
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| value | const SharedPtr\<XmlSchemaGroupBase\>\& | 設定する値です。 |
+
+## 参照
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaGroupBase](../../xmlschemagroupbase/)
+* Class [XmlSchemaGroup](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,29 @@
+---
+title: "System::Drawing::Printing::PaperSize::get_PaperName metodo"
+linktitle: "get_PaperName"
+second_title: "Aspose.Page per C++"
+description: "System::Drawing::Printing::PaperSize::get_PaperName metodo. Ottiene il nome del tipo di carta in C++."
+type: docs
+weight: 400
+url: /it/cpp/system.drawing.printing/papersize/get_papername/
+---
+## PaperSize::get_PaperName method
+
+
+Restituisce il nome del tipo di carta.
+
+```cpp
+System::String System::Drawing::Printing::PaperSize::get_PaperName() const
+```
+
+
+### ReturnValue
+
+Il nome del tipo di carta.
+
+## Vedi anche
+
+* Class [String](../../../system/string/)
+* Class [PaperSize](../)
+* Namespace [System::Drawing::Printing](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,24 @@
+---
+title: "System::Globalization::HebrewCalendar::get_MinSupportedDateTime-Methode"
+linktitle: "get_MinSupportedDateTime"
+second_title: "Aspose.Page für C++"
+description: "System::Globalization::HebrewCalendar::get_MinSupportedDateTime-Methode. Minimaler Zeitpunkt, der vom Kalender in C++ unterstützt wird."
+type: docs
+weight: 600
+url: /de/cpp/system.globalization/hebrewcalendar/get_minsupporteddatetime/
+---
+## HebrewCalendar::get_MinSupportedDateTime method
+
+
+Der minimal unterstützte Zeitpunkt des Kalenders.
+
+```cpp
+DateTime System::Globalization::HebrewCalendar::get_MinSupportedDateTime() const override
+```
+
+## Siehe auch
+
+* Class [DateTime](../../../system/datetime/)
+* Class [HebrewCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)

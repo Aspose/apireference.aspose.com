@@ -1,0 +1,23 @@
+---
+title: "Aspose::Page::XPS::ApsLoadOptions::get_TransparencyThreshold طريقة"
+linktitle: "get_TransparencyThreshold"
+second_title: "Aspose.Page لـ C++"
+description: "Aspose::Page::XPS::ApsLoadOptions::get_TransparencyThreshold طريقة. قيمة صحيحة من 0 إلى 255 أدنى من ذلك سيُعتبر بكسل الصورة الذي يحتوي على قيم ألفا شفافاً بالكامل. لا يدعم PostScript الشفافية، لكنه يمكنه تطبيق قناع صريح فوق الصورة الملونة حيث بعض البكسلات ستكون معتمة بالكامل وبعضها الآخر سيكون شفافاً بالكامل. يُستخدم عتبة الشفافية للعثور على أقرب تشابه بين الأصل ونتيجة PostScript. القيمة الافتراضية هي 255 في C++."
+type: docs
+weight: 200
+url: /ar/cpp/aspose.page.xps/apsloadoptions/get_transparencythreshold/
+---
+## ApsLoadOptions::get_TransparencyThreshold method
+
+
+قيمة صحيحة من 0 إلى 255، تُعتبر أي بكسل في الصورة يحتوي على قيم ألفا أقل من هذه القيمة شفافًا بالكامل. لا يدعم PostScript الشفافية، لكنه يمكنه تطبيق قناع صريح فوق الصورة الملونة حيث تكون بعض البكسلات غير شفافة تمامًا وبعضها الآخر شفاف بالكامل. يُستخدم عتبة الشفافية للعثور على أقرب تشابه بين الأصل ونتيجة PostScript. القيمة الافتراضية هي 255.
+
+```cpp
+int32_t Aspose::Page::XPS::ApsLoadOptions::get_TransparencyThreshold() const
+```
+
+## انظر أيضًا
+
+* Class [ApsLoadOptions](../)
+* Namespace [Aspose::Page::XPS](../../)
+* Library [Aspose.Page for C++](../../../)

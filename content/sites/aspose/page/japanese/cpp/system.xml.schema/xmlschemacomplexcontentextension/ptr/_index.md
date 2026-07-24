@@ -1,0 +1,23 @@
+---
+title: "System::Xml::Schema::XmlSchemaComplexContentExtension::Ptr typedef"
+linktitle: "Ptr"
+second_title: "C++ 用 Aspose.Page"
+description: "System::Xml::Schema::XmlSchemaComplexContentExtension::Ptr typedef。C++ におけるこのクラスのインスタンスへの共有ポインタのエイリアスです。"
+type: docs
+weight: 900
+url: /ja/cpp/system.xml.schema/xmlschemacomplexcontentextension/ptr/
+---
+## Ptr typedef
+
+
+このクラスのインスタンスへの共有ポインタのエイリアスです。
+
+```cpp
+using System::Xml::Schema::XmlSchemaComplexContentExtension::Ptr =  SharedPtr<XmlSchemaComplexContentExtension>
+```
+
+## 参照
+
+* Class [XmlSchemaComplexContentExtension](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Page for C++](../../../)

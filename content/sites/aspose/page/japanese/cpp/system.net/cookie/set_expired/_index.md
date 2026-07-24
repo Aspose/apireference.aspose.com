@@ -1,0 +1,28 @@
+---
+title: "System::Net::Cookie::set_Expired メソッド"
+linktitle: "set_Expired"
+second_title: "C++ 用 Aspose.Page"
+description: "System::Net::Cookie::set_Expired メソッド。C++ でクッキーが期限切れかどうかを示す値を設定します。"
+type: docs
+weight: 3000
+url: /ja/cpp/system.net/cookie/set_expired/
+---
+## Cookie::set_Expired method
+
+
+クッキーが期限切れかどうかを示す値を設定します。
+
+```cpp
+void System::Net::Cookie::set_Expired(bool value)
+```
+
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| value | bool | 設定すべき値です。 |
+
+## 参照
+
+* Class [Cookie](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)

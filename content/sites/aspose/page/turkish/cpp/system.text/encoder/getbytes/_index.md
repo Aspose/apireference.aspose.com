@@ -1,0 +1,65 @@
+---
+title: "System::Text::Encoder::GetBytes yöntemi"
+linktitle: "GetBytes"
+second_title: "Aspose.Page için C++"
+description: "System::Text::Encoder::GetBytes yöntemi. Bir tamponu C++'ta kodlamanın sonucunda oluşan baytları alır."
+type: docs
+weight: 500
+url: /tr/cpp/system.text/encoder/getbytes/
+---
+## Encoder::GetBytes(ArrayPtr\<char_t\>, int, int, ArrayPtr\<uint8_t\>, int, bool) method
+
+
+Bir tamponun kodlanmasından elde edilen baytları al.
+
+```cpp
+virtual int System::Text::Encoder::GetBytes(ArrayPtr<char_t> chars, int charIndex, int charCount, ArrayPtr<uint8_t> bytes, int byteIndex, bool flush)
+```
+
+
+| Parameter | Type | Açıklama |
+| --- | --- | --- |
+| chars | ArrayPtr\<char_t\> | Kodlanacak karakterler. |
+| charIndex | int | Kaynak dizi ofseti. |
+| charCount | int | Kaynak alt dizi uzunluğu. |
+| bayt | ArrayPtr\<uint8_t\> | Hedef bayt tamponu. |
+| byteIndex | int | Hedef tampon ofseti. |
+| flush | bool | Doğru ise, hesaplamadan sonra dahili kodlayıcı durumunu temizler. |
+
+### ReturnValue
+
+Yazılan bayt sayısı.
+
+## Ayrıca Bakınız
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Encoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## Encoder::GetBytes(const char_t *, int, uint8_t *, int, bool) method
+
+
+Bir tamponun kodlanmasından elde edilen baytları al.
+
+```cpp
+virtual int System::Text::Encoder::GetBytes(const char_t *chars, int charCount, uint8_t *bytes, int byteCount, bool flush)
+```
+
+
+| Parameter | Type | Açıklama |
+| --- | --- | --- |
+| chars | const char_t * | Kodlanacak karakterler. |
+| charCount | int | Kaynak dizi uzunluğu. |
+| bayt | uint8_t * | Hedef bayt tamponu. |
+| byteCount | int | Hedef tampon boyutu. |
+| flush | bool | Doğru ise, hesaplamadan sonra dahili kodlayıcı durumunu temizler. |
+
+### ReturnValue
+
+Yazılan bayt sayısı.
+
+## Ayrıca Bakınız
+
+* Class [Encoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)

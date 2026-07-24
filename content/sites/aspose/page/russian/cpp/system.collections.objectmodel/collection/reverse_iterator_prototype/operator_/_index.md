@@ -1,0 +1,24 @@
+---
+title: "System::Collections::ObjectModel::Collection::reverse_iterator_prototype::operator* метод"
+linktitle: "operator*"
+second_title: "Aspose.Page для C++"
+description: "Как использовать метод operator* класса System::Collections::ObjectModel::Collection::reverse_iterator_prototype в C++."
+type: docs
+weight: 300
+url: /ru/cpp/system.collections.objectmodel/collection/reverse_iterator_prototype/operator_/
+---
+## reverse_iterator_prototype::operator* method
+
+
+
+
+```cpp
+const U System::Collections::ObjectModel::Collection<T>::reverse_iterator_prototype<U>::operator*() const
+```
+
+## См. также
+
+* Class [reverse_iterator_prototype](../)
+* Class [Collection](../../)
+* Namespace [System::Collections::ObjectModel](../../../)
+* Library [Aspose.Page for C++](../../../../)

@@ -1,0 +1,186 @@
+---
+title: "System::Text::UTF7Encoding::GetString metod"
+linktitle: "GetString"
+second_title: "Aspose.Page för C++"
+description: "System::Text::UTF7Encoding::GetString metod. Avkodar en buffert med byte till en sträng i C++."
+type: docs
+weight: 1300
+url: /sv/cpp/system.text/utf7encoding/getstring/
+---
+## UTF7Encoding::GetString(ArrayPtr\<uint8_t\>) method
+
+
+Avkodar en buffert med bytes till en sträng.
+
+```cpp
+virtual String System::Text::Encoding::GetString(ArrayPtr<uint8_t> bytes)
+```
+
+
+| Parameter | Type | Beskrivning |
+| --- | --- | --- |
+| bytes | ArrayPtr\<uint8_t\> | [Buffer](../../../system/buffer/) att läsa byte från. |
+
+### ReturnValue
+
+[String](../../../system/string/) of decoded characters.
+
+## Se även
+
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [UTF7Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## UTF7Encoding::GetString(ArrayPtr\<uint8_t\>, int, int) method
+
+
+Avkodar en buffert med bytes till en sträng.
+
+```cpp
+String System::Text::UTF7Encoding::GetString(ArrayPtr<uint8_t> bytes, int index, int count) override
+```
+
+
+| Parameter | Type | Beskrivning |
+| --- | --- | --- |
+| bytes | ArrayPtr\<uint8_t\> | [Buffer](../../../system/buffer/) att läsa byte från. |
+| index | int | Inmatningsbuffertens offset. |
+| count | int | Storlek på inmatningsbuffert. |
+
+### ReturnValue
+
+[String](../../../system/string/) of decoded characters.
+
+## Se även
+
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [UTF7Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## UTF7Encoding::GetString(const System::Details::ArrayView\<uint8_t\>\&) method
+
+
+Avkodar en buffert med bytes till en sträng.
+
+```cpp
+virtual String System::Text::Encoding::GetString(const System::Details::ArrayView<uint8_t> &bytes)
+```
+
+
+| Parameter | Type | Beskrivning |
+| --- | --- | --- |
+| bytes | const System::Details::ArrayView\<uint8_t\>\& | [Buffer](../../../system/buffer/) att läsa byte från. |
+
+### ReturnValue
+
+[String](../../../system/string/) of decoded characters.
+
+## Se även
+
+* Class [String](../../../system/string/)
+* Class [UTF7Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## UTF7Encoding::GetString(const System::Details::ArrayView\<uint8_t\>\&, int, int) method
+
+
+Avkodar en buffert med bytes till en sträng.
+
+```cpp
+virtual String System::Text::Encoding::GetString(const System::Details::ArrayView<uint8_t> &bytes, int index, int count)
+```
+
+
+| Parameter | Type | Beskrivning |
+| --- | --- | --- |
+| bytes | const System::Details::ArrayView\<uint8_t\>\& | [Buffer](../../../system/buffer/) att läsa byte från. |
+| index | int | Inmatningsbuffertens offset. |
+| count | int | Storlek på inmatningsbuffert. |
+
+### ReturnValue
+
+[String](../../../system/string/) of decoded characters.
+
+## Se även
+
+* Class [String](../../../system/string/)
+* Class [UTF7Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## UTF7Encoding::GetString(System::Details::StackArray\<uint8_t, N\>\&) method
+
+
+Avkodar en buffert med bytes till en sträng.
+
+```cpp
+template<std::size_t> String System::Text::Encoding::GetString(System::Details::StackArray<uint8_t, N> &bytes)
+```
+
+
+| Parameter | Type | Beskrivning |
+| --- | --- | --- |
+| bytes | System::Details::StackArray\<uint8_t, N\>\& | [Buffer](../../../system/buffer/) att läsa byte från. |
+
+### ReturnValue
+
+[String](../../../system/string/) of decoded characters.
+
+## Se även
+
+* Class [String](../../../system/string/)
+* Class [UTF7Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## UTF7Encoding::GetString(System::Details::StackArray\<uint8_t, N\>, int, int) method
+
+
+Avkodar en buffert med bytes till en sträng.
+
+```cpp
+template<std::size_t> String System::Text::Encoding::GetString(System::Details::StackArray<uint8_t, N> bytes, int index, int count)
+```
+
+
+| Parameter | Type | Beskrivning |
+| --- | --- | --- |
+| bytes | System::Details::StackArray\<uint8_t, N\> | [Buffer](../../../system/buffer/) att läsa byte från. |
+| index | int | Inmatningsbuffertens offset. |
+| count | int | Storlek på inmatningsbuffert. |
+
+### ReturnValue
+
+[String](../../../system/string/) of decoded characters.
+
+## Se även
+
+* Class [String](../../../system/string/)
+* Class [UTF7Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## UTF7Encoding::GetString(uint8_t *, int) method
+
+
+Avkodar en buffert med bytes till en sträng.
+
+```cpp
+virtual String System::Text::Encoding::GetString(uint8_t *bytes, int byte_count)
+```
+
+
+| Parameter | Type | Beskrivning |
+| --- | --- | --- |
+| bytes | uint8_t * | [Buffer](../../../system/buffer/) att läsa byte från. |
+| byte_count | int | Storlek på inmatningsbuffert. |
+
+### ReturnValue
+
+[String](../../../system/string/) of decoded characters.
+
+## Se även
+
+* Class [String](../../../system/string/)
+* Class [UTF7Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)

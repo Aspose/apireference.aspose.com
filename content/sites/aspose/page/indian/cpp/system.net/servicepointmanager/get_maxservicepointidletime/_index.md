@@ -1,0 +1,28 @@
+---
+title: "System::Net::ServicePointManager::get_MaxServicePointIdleTime मेथड"
+linktitle: "get_MaxServicePointIdleTime"
+second_title: "Aspose.Page C++ के लिए"
+description: "System::Net::ServicePointManager::get_MaxServicePointIdleTime मेथड। C++ में ServicePoint-क्लास के इंस्टेंस की अधिकतम निष्क्रिय समय प्राप्त करता है।"
+type: docs
+weight: 800
+url: /hi/cpp/system.net/servicepointmanager/get_maxservicepointidletime/
+---
+## ServicePointManager::get_MaxServicePointIdleTime method
+
+
+ServicePoint- क्लास की इंस्टेंस का अधिकतम निष्क्रिय समय प्राप्त करता है।
+
+```cpp
+static int32_t System::Net::ServicePointManager::get_MaxServicePointIdleTime()
+```
+
+
+### ReturnValue
+
+ServicePoint-क्लास के इंस्टेंस का अधिकतम निष्क्रिय समय।
+
+## संबंधित देखें
+
+* Class [ServicePointManager](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)
