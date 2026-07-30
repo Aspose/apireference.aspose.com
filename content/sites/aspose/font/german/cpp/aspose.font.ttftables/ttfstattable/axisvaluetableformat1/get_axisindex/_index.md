@@ -1,0 +1,24 @@
+---
+title: "Aspose::Font::TtfTables::TtfStatTable::AxisValueTableFormat1::get_AxisIndex Methode"
+linktitle: "get_AxisIndex"
+second_title: "Aspose.Font für C++"
+description: "Aspose::Font::TtfTables::TtfStatTable::AxisValueTableFormat1::get_AxisIndex Methode. Gibt einen nullbasierten Index in das Achsenaufzeichnungs-Array zurück, der die Achse der Designvariation identifiziert, für die die Achsenwerttabelle in C++ gilt."
+type: docs
+weight: 200
+url: /de/cpp/aspose.font.ttftables/ttfstattable/axisvaluetableformat1/get_axisindex/
+---
+## AxisValueTableFormat1::get_AxisIndex method
+
+
+Liefert den nullbasierten Index in das Achsenaufzeichnungs-Array, das die Achse der Designvariation identifiziert, für die die Achsenwerttabelle gilt.
+
+```cpp
+uint16_t Aspose::Font::TtfTables::TtfStatTable::AxisValueTableFormat1::get_AxisIndex() const
+```
+
+## Siehe auch
+
+* Class [AxisValueTableFormat1](../)
+* Class [TtfStatTable](../../)
+* Namespace [Aspose::Font::TtfTables](../../../)
+* Library [Aspose.Font for C++](../../../../)

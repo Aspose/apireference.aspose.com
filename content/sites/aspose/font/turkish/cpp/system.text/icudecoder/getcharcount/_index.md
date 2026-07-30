@@ -1,0 +1,87 @@
+---
+title: "System::Text::ICUDecoder::GetCharCount yöntemi"
+linktitle: "GetCharCount"
+second_title: "Aspose.Font için C++"
+description: "System::Text::ICUDecoder::GetCharCount yöntemi. Bir tamponu C++'ta çözümlemek için gereken karakter sayısını alır."
+type: docs
+weight: 400
+url: /tr/cpp/system.text/icudecoder/getcharcount/
+---
+## ICUDecoder::GetCharCount(ArrayPtr\<uint8_t\>, int, int) method
+
+
+Bir tamponu çözmek için gereken karakter sayısını alır.
+
+```cpp
+virtual int System::Text::ICUDecoder::GetCharCount(ArrayPtr<uint8_t> bytes, int index, int count)
+```
+
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| bayt | ArrayPtr\<uint8_t\> | Çözülecek baytlar. |
+| index | int | [Buffer](../../../system/buffer/) ofseti. |
+| count | int | Çözülecek bayt sayısı. |
+
+### ReturnValue
+
+Tamponu çözümlemek için gereken karakter sayısı.
+
+## Ayrıca Bakınız
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ICUDecoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Font for C++](../../../)
+## ICUDecoder::GetCharCount(ArrayPtr\<uint8_t\>, int, int, bool) method
+
+
+Bir tamponu çözmek için gereken karakter sayısını alır.
+
+```cpp
+virtual int System::Text::ICUDecoder::GetCharCount(ArrayPtr<uint8_t> bytes, int index, int count, bool flush)
+```
+
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| bayt | ArrayPtr\<uint8_t\> | Çözülecek baytlar. |
+| index | int | [Buffer](../../../system/buffer/) ofseti. |
+| count | int | Çözülecek bayt sayısı. |
+| flush | bool | Doğruysa, hesaplamadan sonra iç kod çözücü durumunu temizler. |
+
+### ReturnValue
+
+Tamponu çözümlemek için gereken karakter sayısı.
+
+## Ayrıca Bakınız
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ICUDecoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Font for C++](../../../)
+## ICUDecoder::GetCharCount(const uint8_t *, int, bool) method
+
+
+Bir tamponu çözmek için gereken karakter sayısını alır.
+
+```cpp
+virtual int System::Text::ICUDecoder::GetCharCount(const uint8_t *bytes, int count, bool flush)
+```
+
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| bayt | const uint8_t * | Çözülecek baytlar. |
+| count | int | Çözülecek bayt sayısı. |
+| flush | bool | Doğruysa, hesaplamadan sonra iç kod çözücü durumunu temizler. |
+
+### ReturnValue
+
+Tamponu çözümlemek için gereken karakter sayısı.
+
+## Ayrıca Bakınız
+
+* Class [ICUDecoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Font for C++](../../../)

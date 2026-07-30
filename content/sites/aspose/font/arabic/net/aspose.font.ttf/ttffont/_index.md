@@ -1,14 +1,14 @@
 ---
-title: TtfFont
-second_title: Aspose.Font لمرجع .NET API
-description: يمثل خط TrueType TTF .
+title: "الفئة TtfFont"
+second_title: "مرجع API لـ Aspose.Font لـ .NET"
+description: "الفئة Aspose.Font.Ttf.TtfFont. تمثل خط TrueType (TTF)."
 type: docs
-weight: 630
+weight: 870
 url: /ar/net/aspose.font.ttf/ttffont/
 ---
 ## TtfFont class
 
-يمثل خط TrueType (TTF) .
+يمثل خط TrueType (TTF).
 
 ```csharp
 public class TtfFont : Font
@@ -16,47 +16,48 @@ public class TtfFont : Font
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [CffFont](../../aspose.font.ttf/ttffont/cfffont) { get; } | الحصول على خط CFF إذا كان موجودًا. |
-| override [Encoding](../../aspose.font.ttf/ttffont/encoding) { get; } | يحصل على ترميز الخط . |
-| override [FontDefinition](../../aspose.font.ttf/ttffont/fontdefinition) { get; } | يحصل على تعريف الخط . |
-| override [FontFamily](../../aspose.font.ttf/ttffont/fontfamily) { get; set; } | الحصول على عائلة الخطوط أو تعيينها . |
-| override [FontName](../../aspose.font.ttf/ttffont/fontname) { get; set; } | الحصول على اسم الخط أو تعيينه . |
-| override [FontNames](../../aspose.font.ttf/ttffont/fontnames) { get; } | يحصل على أسماء الخطوط . |
-| [FontSaver](../../aspose.font/font/fontsaver) { get; } | يحصل على وظيفة حفظ الخط. |
-| override [FontStyle](../../aspose.font.ttf/ttffont/fontstyle) { get; } | الحصول على نمط الخط. هذه قيمة محسوبة وممثلة في النوع المعمم . |
-| override [FontType](../../aspose.font.ttf/ttffont/fonttype) { get; } | الحصول على نوع الخط . إرجاع نوع الخط. قيمة TTF . |
-| [GlyphAccessor](../../aspose.font/font/glyphaccessor) { get; } | موصّل الخط الرسومي. استرداد معرفات الحروف الرسومية والحروف الرسومية. |
-| override [GlyphIdType](../../aspose.font.ttf/ttffont/glyphidtype) { get; } | الحصول على مواصفات نوع معرف الصورة الرمزية . |
-| [IsSymbolic](../../aspose.font.ttf/ttffont/issymbolic) { get; } | إرجاع صحيح في حال كان الخط رمزيًا . |
-| override [Metrics](../../aspose.font.ttf/ttffont/metrics) { get; } | الحصول على مقاييس الخط. |
-| override [NumGlyphs](../../aspose.font.ttf/ttffont/numglyphs) { get; } | الحصول على عدد الحروف الرسومية في الخط. |
-| override [PostscriptNames](../../aspose.font.ttf/ttffont/postscriptnames) { get; } | يحصل على أسماء خطوط التذييل. |
-| override [Style](../../aspose.font.ttf/ttffont/style) { get; set; } | الحصول على نمط الخط أو تعيينه . هذه قيمة سلسلة أولية يتم توفيرها بواسطة ملف الخط. |
-| virtual [TtfTables](../../aspose.font.ttf/ttffont/ttftables) { get; } | الحصول على جداول TTF . |
+| virtual [CffFont](../../aspose.font.ttf/ttffont/cfffont/) { get; } | يحصل على خط CFF إذا كان موجودًا. |
+| override [Encoding](../../aspose.font.ttf/ttffont/encoding/) { get; } | يحصل على ترميز الخط. |
+| override [FontDefinition](../../aspose.font.ttf/ttffont/fontdefinition/) { get; } | يحصل على تعريف الخط. |
+| override [FontFamily](../../aspose.font.ttf/ttffont/fontfamily/) { get; set; } | يحصل أو يضبط عائلة الخط. |
+| override [FontName](../../aspose.font.ttf/ttffont/fontname/) { get; set; } | يحصل أو يضبط اسم واجهة الخط. |
+| override [FontNames](../../aspose.font.ttf/ttffont/fontnames/) { get; } | يحصل على أسماء الخط. |
+| [FontSaver](../../aspose.font/font/fontsaver/) { get; } | يحصل على وظيفة حفظ الخط. |
+| override [FontStyle](../../aspose.font.ttf/ttffont/fontstyle/) { get; } | يحصل على نمط الخط. هذه قيمة محسوبة وممثلة في نوع عام. |
+| override [FontType](../../aspose.font.ttf/ttffont/fonttype/) { get; } | يحصل على نوع الخط. يُعيد قيمة FontType.TTF. |
+| [GlyphAccessor](../../aspose.font/font/glyphaccessor/) { get; } | مستخرج رموز الخط. يسترجع الرموز ومعرفات الرموز. |
+| override [GlyphIdType](../../aspose.font.ttf/ttffont/glyphidtype/) { get; } | يحصل على مواصفات نوع معرف الرمز. |
+| [IsSymbolic](../../aspose.font.ttf/ttffont/issymbolic/) { get; } | يرجع true في حالة كون الخط رمزيًا. |
+| override [Metrics](../../aspose.font.ttf/ttffont/metrics/) { get; } | يحصل على مقاييس الخط. |
+| override [NumGlyphs](../../aspose.font.ttf/ttffont/numglyphs/) { get; } | يحصل على عدد الرموز في الخط. |
+| override [PostscriptNames](../../aspose.font.ttf/ttffont/postscriptnames/) { get; } | يحصل على أسماء خط Postscript. |
+| override [Style](../../aspose.font.ttf/ttffont/style/) { get; set; } | يحصل أو يضبط نمط الخط. هذه قيمة نصية خام مقدمة من ملف الخط. |
+| virtual [TtfTables](../../aspose.font.ttf/ttffont/ttftables/) { get; } | يحصل على جداول TTF. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Convert](../../aspose.font.ttf/ttffont/convert)(FontType) | تحويل الخط إلى تنسيق آخر. |
-| override [GetAllGlyphIds](../../aspose.font.ttf/ttffont/getallglyphids)() | إرجاع مصفوفة لجميع معرفات الحروف الرسومية ، المتوفرة في Font. معرف Glyph هو رقم فريد للحرف الرسومي ، وهو نوع الخط المعتمد.[`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) فئة أو ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) ) class. يتم دعم عنونة الاسم (السلسلة) glyph لخطوط TTF عبر تعيين جدول النشر. |
-| override [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid#getglyphbyid)(GlyphId) | إرجاع الصورة الرمزية بواسطة معرف الصورة الرمزية . معرف الصورة الرمزية هو رقم فريد للحرف الرسومي ، وهو نوع الخط المعتمد . يمكن أن يكون معرف الصورة الرمزية للخط TTF مثيلاً لـ ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) فئة أو ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) ) class. يتم دعم عنونة الاسم (السلسلة) glyph لخطوط TTF عبر تعيين جدول النشر. |
-| [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid#getglyphbyid_1)(string) | إرجاع الحرف الرسومي بواسطة اسم الصورة الرمزية. يتم دعم عنونة الاسم (السلسلة) للحروف الرسومية لخطوط TTF عبر تعيين جدول النشر. |
-| [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid#getglyphbyid_2)(uint) | إرجاع الصورة الرمزية بواسطة معرف الصورة الرمزية . |
-| virtual [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid#getglyphcomponentsbyid)(GlyphId, GlyphIdList) | يحصل على حرف رسومي بواسطة معرف الصورة الرمزية الذي تم تمريره ويملأ القائمة التي تم تمريرها لمعرفات الصورة الرمزية بمكونات من هذا الحرف الرسومي . معرف Glyph هو رقم فريد للحرف الرسومي ، وهو نوع الخط التابع.[`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) فئة أو ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) ) class. يتم دعم عنونة الاسم (السلسلة) glyph لخطوط TTF عبر تعيين جدول النشر. |
-| [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid#getglyphcomponentsbyid_1)(string, GlyphIdList) | يحصل على حرف رسومي من خلال اسم الصورة الرمزية الذي تم تمريره ويملأ القائمة التي تم تمريرها لمعرفات الحروف الرسومية بمكونات من هذا الحرف الرسومي . |
-| [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid#getglyphcomponentsbyid_2)(uint, GlyphIdList) | يحصل على حرف رسومي بواسطة فهرس الصورة الرمزية الذي تم تمريره ويملأ القائمة التي تم تمريرها لمعرفات الحروف الرسومية بمكونات من هذا الصورة الرمزية . |
-| override [GetGlyphsForText](../../aspose.font.ttf/ttffont/getglyphsfortext)(string) | الحصول على تمثيل الحروف الرسومية للنص . |
-| virtual [Save](../../aspose.font/font/save)(Stream) | يحفظ الخط في التنسيق الأصلي. |
-| virtual [Save](../../aspose.font/font/save)(string) | يحفظ الخط في التنسيق الأصلي. |
-| [SaveToFormat](../../aspose.font/font/savetoformat)(Stream, FontSavingFormats) | يحفظ الخط بالتنسيق المحدد. |
+| override [Convert](../../aspose.font.ttf/ttffont/convert/#convert)(FontType) | يحوّل الخط إلى تنسيق آخر. |
+| [Convert](../../aspose.font.ttf/ttffont/convert/#convert_1)(FontType, ICollection&lt;uint&gt;) | يحوّل الخط إلى تنسيق آخر مع مجموعة أحرف محدودة |
+| override [GetAllGlyphIds](../../aspose.font.ttf/ttffont/getallglyphids/)() | يرجع مصفوفة من جميع معرفات الرموز المتاحة في الخط. معرف الرمز هو رقم فريد للرمز، يعتمد على نوع الخط. يمكن أن يكون معرف رمز خط TTF مثالًا على الفئة ([`GlyphStringId`](../../aspose.font/glyphs/glyphstringid/)) أو الفئة ([`GlyphUInt32Id`](../../aspose.font/glyphs/glyphuint32id/)). دعم عنونة الرموز بالاسم (سلسلة) متاح لخطوط TTF عبر تعيين جدول Post. في حالة وجود خط CFF، تُستخدم هياكل CFF لتوجيه الرموز بالاسم. |
+| override [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid/#getglyphbyid)(GlyphId) | يرجع الرمز حسب معرفه. معرف الرمز هو رقم فريد للرمز، يعتمد على نوع الخط. يمكن أن يكون معرف رمز خط TTF مثالًا على الفئة ([`GlyphStringId`](../../aspose.font/glyphs/glyphstringid/)) أو الفئة ([`GlyphUInt32Id`](../../aspose.font/glyphs/glyphuint32id/)). دعم عنونة الرموز بالاسم (سلسلة) متاح لخطوط TTF عبر تعيين جدول Post. في حالة وجود خط CFF، تُستخدم هياكل CFF لتوجيه الرموز بالاسم. |
+| [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid/#getglyphbyid_1)(string) | يرجع الرمز حسب اسمه. دعم عنونة الرموز بالاسم (سلسلة) متاح لخطوط TTF عبر تعيين جدول Post. في حالة وجود خط CFF، تُستخدم هياكل CFF لتوجيه الرموز بالاسم. |
+| [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid/#getglyphbyid_2)(uint) | يرجع الرمز حسب معرفه. |
+| virtual [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid/#getglyphcomponentsbyid)(GlyphId, GlyphIdList) | يحصل على شكل باستخدام معرف الشكل الممرّر ويملأ القائمة الممرّرة لمعرفات الأشكال بمكونات هذا الشكل. معرف الشكل هو رقم فريد لشكل، يعتمد على نوع الخط. يمكن أن يكون معرف شكل خط TTF مثالًا على فئة ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid/)) أو فئة ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id/)) . دعم عنونة الشكل بالاسم (سلسلة) للخطوط TTF عبر تعيين جدول Post. في حالة وجود خط CFF داخل، تُستخدم هياكل CFF لعنونة الأشكال بالاسم. |
+| [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid/#getglyphcomponentsbyid_1)(string, GlyphIdList) | يحصل على شكل باستخدام اسم الشكل الممرّر ويملأ القائمة الممرّرة لمعرفات الأشكال بمكونات هذا الشكل. |
+| [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid/#getglyphcomponentsbyid_2)(uint, GlyphIdList) | يحصل على شكل باستخدام فهرس الشكل الممرّر ويملأ القائمة الممرّرة لمعرفات الأشكال بمكونات هذا الشكل. |
+| override [GetGlyphsForText](../../aspose.font.ttf/ttffont/getglyphsfortext/)(string) | احصل على تمثيل الأشكال للنص. |
+| virtual [Save](../../aspose.font/font/save/)(Stream) | يحفظ الخط بالتنسيق الأصلي. |
+| virtual [Save](../../aspose.font/font/save/)(string) | يحفظ الخط بالتنسيق الأصلي. |
+| [SaveToFormat](../../aspose.font/font/savetoformat/)(Stream, FontSavingFormats) | يحفظ الخط بالتنسيق المحدد. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* class [Font](../../aspose.font/font)
-* مساحة الاسم [Aspose.Font.Ttf](../../aspose.font.ttf)
-* المجسم [Aspose.Font](../../)
+* class [Font](../../aspose.font/font/)
+* namespace [Aspose.Font.Ttf](../../aspose.font.ttf/)
+* assembly [Aspose.Font](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Font.dll -->
+

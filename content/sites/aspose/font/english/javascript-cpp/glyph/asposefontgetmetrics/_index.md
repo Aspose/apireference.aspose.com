@@ -5,12 +5,12 @@ description: "Get info (metadata) from a Font-file."
 type: docs
 url: /javascript-cpp/glyph/asposefontgetmetrics/
 ---
-## FontGetFontMetrics function
+## AsposeFontGetMetrics function
 
 _Get glyph count of font._
 
 ```js
-function FontGetFontMetrics(
+function AsposeFontGetMetrics(
     fileBlob,
     fileName
 )
@@ -68,7 +68,7 @@ JSON object
   var ffileFontGetGlyphCount = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      const json = FontGetFontMetrics(event.target.result, e.target.files[0].name);
+      const json = AsposeFontGetMetrics(event.target.result, e.target.files[0].name);
       if (json.errorCode == 0) {
         document.getElementById('output').textContent = "Glyph count: " + json.glyphCount;
       }

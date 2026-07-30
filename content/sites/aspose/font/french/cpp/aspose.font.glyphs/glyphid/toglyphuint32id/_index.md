@@ -1,0 +1,30 @@
+---
+title: "Aspose::Font::Glyphs::GlyphId::ToGlyphUInt32Id méthode"
+linktitle: "ToGlyphUInt32Id"
+second_title: "Aspose.Font pour C++"
+description: "Aspose::Font::Glyphs::GlyphId::ToGlyphUInt32Id méthode. Conversion virtuelle en GlyphUInt32Id. GlyphUInt32Id remplace pour retourner l'instance en C++."
+type: docs
+weight: 500
+url: /fr/cpp/aspose.font.glyphs/glyphid/toglyphuint32id/
+---
+## GlyphId::ToGlyphUInt32Id method
+
+
+Conversion virtuelle en [GlyphUInt32Id](../../glyphuint32id/). [GlyphUInt32Id](../../glyphuint32id/) remplace pour retourner l'instance.
+
+```cpp
+virtual System::SharedPtr<GlyphUInt32Id> Aspose::Font::Glyphs::GlyphId::ToGlyphUInt32Id()
+```
+
+
+### ReturnValue
+
+null
+
+## Voir aussi
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [GlyphUInt32Id](../../glyphuint32id/)
+* Class [GlyphId](../)
+* Namespace [Aspose::Font::Glyphs](../../)
+* Library [Aspose.Font for C++](../../../)

@@ -1,0 +1,23 @@
+---
+title: "TtfGaspTable.Tag"
+second_title: "Aspose.Font for .NET API 参考"
+description: "TtfGaspTable 属性. 获取表标签"
+type: docs
+weight: 40
+url: /zh/net/aspose.font.ttftables/ttfgasptable/tag/
+---
+## TtfGaspTable.Tag property
+
+获取表标签。
+
+```csharp
+public static string Tag { get; }
+```
+
+### 另见
+
+* class [TtfGaspTable](../)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
+* assembly [Aspose.Font](../../../)
+
+

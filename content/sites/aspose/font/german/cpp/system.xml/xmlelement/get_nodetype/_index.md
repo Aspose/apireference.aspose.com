@@ -1,0 +1,29 @@
+---
+title: "System::Xml::XmlElement::get_NodeType Methode"
+linktitle: "get_NodeType"
+second_title: "Aspose.Font für C++"
+description: "System::Xml::XmlElement::get_NodeType Methode. Gibt den Typ des aktuellen Knotens in C++ zurück."
+type: docs
+weight: 900
+url: /de/cpp/system.xml/xmlelement/get_nodetype/
+---
+## XmlElement::get_NodeType method
+
+
+Gibt den Typ des aktuellen Knotens zurück.
+
+```cpp
+XmlNodeType System::Xml::XmlElement::get_NodeType() override
+```
+
+
+### ReturnValue
+
+Der Knotentyp. Für [XmlElement](../)-Knoten ist dieser Wert [XmlNodeType::Element](../../xmlnodetype/).
+
+## Siehe auch
+
+* Enum [XmlNodeType](../../xmlnodetype/)
+* Class [XmlElement](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Font for C++](../../../)

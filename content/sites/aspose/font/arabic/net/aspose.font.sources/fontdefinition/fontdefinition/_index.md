@@ -1,256 +1,256 @@
 ---
-title: FontDefinition
-second_title: Aspose.Font لمرجع .NET API
-description: إنشاء تعريف خط بملف واحد .
+title: "FontDefinition.FontDefinition"
+second_title: "مرجع API لـ Aspose.Font لـ .NET"
+description: "منشئ FontDefinition. ينشئ تعريف خط بملف واحد"
 type: docs
 weight: 10
 url: /ar/net/aspose.font.sources/fontdefinition/fontdefinition/
 ---
 ## FontDefinition(FontType, string, StreamSource) {#constructor_3}
 
-إنشاء تعريف خط بملف واحد .
+ينشئ تعريف خط بملف واحد.
 
 ```csharp
 public FontDefinition(FontType fontType, string fileExtension, StreamSource streamSource)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontType | FontType | نوع الخط. |
 | fileExtension | String | امتداد ملف الخط. |
-| streamSource | StreamSource | مصدر دفق الخط. |
+| streamSource | StreamSource | مصدر تدفق الخط. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [StreamSource](../../streamsource)
-* class [FontDefinition](../../fontdefinition)
-* مساحة الاسم [Aspose.Font.Sources](../../fontdefinition)
-* المجسم [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [StreamSource](../../streamsource/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## FontDefinition(FontType, StreamSource) {#constructor_2}
 
-إنشاء تعريف خط بملف واحد .
+ينشئ تعريف خط بملف واحد.
 
 ```csharp
 public FontDefinition(FontType fontType, StreamSource streamSource)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontType | FontType | نوع الخط. |
-| streamSource | StreamSource | مصدر دفق الخط. |
+| streamSource | StreamSource | مصدر تدفق الخط. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [StreamSource](../../streamsource)
-* class [FontDefinition](../../fontdefinition)
-* مساحة الاسم [Aspose.Font.Sources](../../fontdefinition)
-* المجسم [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [StreamSource](../../streamsource/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## FontDefinition(string, FontType, string, StreamSource) {#constructor_7}
 
-إنشاء تعريف خط بملف واحد .
+ينشئ تعريف خط بملف واحد.
 
 ```csharp
 public FontDefinition(string fontName, FontType fontType, string fileExtension, 
     StreamSource streamSource)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontName | String | اسم الخط. |
 | fontType | FontType | نوع الخط. |
 | fileExtension | String | امتداد ملف الخط. |
-| streamSource | StreamSource | مصدر دفق الخط. |
+| streamSource | StreamSource | مصدر تدفق الخط. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [StreamSource](../../streamsource)
-* class [FontDefinition](../../fontdefinition)
-* مساحة الاسم [Aspose.Font.Sources](../../fontdefinition)
-* المجسم [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [StreamSource](../../streamsource/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## FontDefinition(FontType, FontFileDefinition) {#constructor}
 
-إنشاء تعريف خط بملف واحد .
+ينشئ تعريف خط بملف واحد.
 
 ```csharp
 public FontDefinition(FontType fontType, FontFileDefinition fileDefinition)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontType | FontType | نوع الخط. |
 | fileDefinition | FontFileDefinition | FontFileDefinition. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* مساحة الاسم [Aspose.Font.Sources](../../fontdefinition)
-* المجسم [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## FontDefinition(string, FontType, FontFileDefinition) {#constructor_6}
 
-إنشاء تعريف خط بملف واحد .
+ينشئ تعريف خط بملف واحد.
 
 ```csharp
 public FontDefinition(string fontName, FontType fontType, FontFileDefinition fileDefinition)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontName | String | اسم الخط. |
 | fontType | FontType | نوع الخط. |
 | fileDefinition | FontFileDefinition | FontFileDefinition. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* مساحة الاسم [Aspose.Font.Sources](../../fontdefinition)
-* المجسم [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## FontDefinition(string, string, FontType, FontFileDefinition) {#constructor_8}
 
-إنشاء تعريف خط بملف واحد .
+ينشئ تعريف خط بملف واحد.
 
 ```csharp
 public FontDefinition(string fontName, string postscriptName, FontType fontType, 
     FontFileDefinition fileDefinition)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontName | String | اسم الخط. |
-| postscriptName | String | اسم خط بوستسكريبت. |
+| postscriptName | String | اسم الخط Postscript. |
 | fontType | FontType | نوع الخط. |
 | fileDefinition | FontFileDefinition | FontFileDefinition. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* مساحة الاسم [Aspose.Font.Sources](../../fontdefinition)
-* المجسم [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## FontDefinition(FontType, FontFileDefinition[]) {#constructor_1}
 
-إنشاء تعريف خط متعدد الملفات.
+ينشئ تعريف خط متعدد الملفات.
 
 ```csharp
 public FontDefinition(FontType fontType, FontFileDefinition[] fileDefinitions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontType | FontType | نوع الخط. |
-| fileDefinitions | FontFileDefinition[] | صفيف كائنات FontFileDefinition. |
+| fileDefinitions | FontFileDefinition[] | مصفوفة من كائنات FontFileDefinition. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* مساحة الاسم [Aspose.Font.Sources](../../fontdefinition)
-* المجسم [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## FontDefinition(string, string, FontType, FontFileDefinition[]) {#constructor_9}
 
-إنشاء تعريف خط متعدد الملفات.
+ينشئ تعريف خط متعدد الملفات.
 
 ```csharp
 public FontDefinition(string fontName, string postscriptName, FontType fontType, 
     FontFileDefinition[] fileDefinitions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontName | String | اسم الخط. |
-| postscriptName | String | اسم خط بوستسكريبت. |
+| postscriptName | String | اسم الخط Postscript. |
 | fontType | FontType | نوع الخط. |
-| fileDefinitions | FontFileDefinition[] | صفيف كائنات FontFileDefinition. |
+| fileDefinitions | FontFileDefinition[] | مصفوفة من كائنات FontFileDefinition. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* مساحة الاسم [Aspose.Font.Sources](../../fontdefinition)
-* المجسم [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## FontDefinition(MultiLanguageString, MultiLanguageString, FontType, FontFileDefinition) {#constructor_4}
 
-إنشاء تعريف خط متعدد الملفات.
+ينشئ تعريف خط متعدد الملفات.
 
 ```csharp
 public FontDefinition(MultiLanguageString fontNames, MultiLanguageString postscriptNames, 
     FontType fontType, FontFileDefinition fileDefinition)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontNames | MultiLanguageString | أسماء الخطوط. |
-| postscriptNames | MultiLanguageString | أسماء خطوط التذييل. |
+| postscriptNames | MultiLanguageString | أسماء الخطوط Postscript. |
 | fontType | FontType | نوع الخط. |
 | fileDefinition | FontFileDefinition | FontFileDefinition. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* class [MultiLanguageString](../../../aspose.font/multilanguagestring)
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* مساحة الاسم [Aspose.Font.Sources](../../fontdefinition)
-* المجسم [Aspose.Font](../../../)
+* class [MultiLanguageString](../../../aspose.font/multilanguagestring/)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## FontDefinition(MultiLanguageString, MultiLanguageString, FontType, FontFileDefinition[]) {#constructor_5}
 
-إنشاء تعريف خط متعدد الملفات.
+ينشئ تعريف خط متعدد الملفات.
 
 ```csharp
 public FontDefinition(MultiLanguageString fontNames, MultiLanguageString postscriptNames, 
     FontType fontType, FontFileDefinition[] fileDefinitions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontNames | MultiLanguageString | أسماء الخطوط. |
-| postscriptNames | MultiLanguageString | أسماء خطوط التذييل. |
+| postscriptNames | MultiLanguageString | أسماء الخطوط Postscript. |
 | fontType | FontType | نوع الخط. |
-| fileDefinitions | FontFileDefinition[] | صفيف كائنات FontFileDefinition. |
+| fileDefinitions | FontFileDefinition[] | مصفوفة من كائنات FontFileDefinition. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* class [MultiLanguageString](../../../aspose.font/multilanguagestring)
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* مساحة الاسم [Aspose.Font.Sources](../../fontdefinition)
-* المجسم [Aspose.Font](../../../)
+* class [MultiLanguageString](../../../aspose.font/multilanguagestring/)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Font.dll -->
+

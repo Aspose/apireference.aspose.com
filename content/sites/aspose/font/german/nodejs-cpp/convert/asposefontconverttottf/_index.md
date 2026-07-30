@@ -1,0 +1,60 @@
+---
+title: "AsposeFontConvertToTTF"
+second_title: "Aspose.Font für Node.js via C++"
+description: "Konvertiert die Schrift in das ttf-Format"
+type: docs
+weight: 10
+url: /de/nodejs-cpp/convert/asposefontconverttottf/
+---
+## AsposeFontConvertToTTF function
+
+Konvertiert die Schrift in das TTF-Format.
+
+```js
+function AsposeFontConvertToTTF(
+    fileName,
+    fontType
+)
+```
+
+| Parameter | Typ | Beschreibung |
+| --------- | ---- | ----------- |
+| fileName | string | Dateiname. |
+| fontType | FontType | Schrifttyp zum Konvertieren. |
+
+### Rückgabewert
+
+JSON-Objekt
+| Feld | Beschreibung |
+| ----- | ----------- |
+|  | errorCode | Fehlercode (0 kein Fehler) |
+|  | errorText | Textfehler ("" kein Fehler) |
+|  | fileNameResult | Ergebnisdateiname |
+
+### Beispiele
+
+**Common js modules**:
+```js
+const AsposeFont = require('asposefontnodejs');
+const font_file = "./fonts/Lora-Regular.ttf";
+console.log('Aspose.Font for Node.js via C++ example');
+AsposeFont().then(AsposeFontModule => {
+    //call AsposeFontConvert to convert font
+    const json = AsposeFontModule.AsposeFontConvertToTTF(font_file,AsposeFontModule.FontType.TTF,AsposeFontModule.FontSavingFormats.WOFF);
+    console.log("AsposeFontConvert : %O",  json.errorCode == 0 ? font_file + ' => ' + json.fileNameResult : json.errorText);
+});
+```
+**ECMAScript/ES6 js modules**:
+```js
+import AsposeFont from 'asposefontnodejs';
+const font_file ="./fonts/arial.ttf";
+const AsposeFontModule = await AsposeFont();
+console.log('Aspose.Font for Node.js via C++ example');
+const json = AsposeFontModule.AsposeFontConvertToTTF(font_file,AsposeFontModule.FontType.TTF,AsposeFontModule.FontSavingFormats.WOFF);
+console.log("AsposeFontConvert => %O",  json.errorCode == 0 ? json.fileNameResult : json.errorText);
+```
+
+### Siehe auch
+
+* function [AsposeFontConvert](../asposefontconvert/)
+* enum [FontType](../../enumerations/fonttype/)

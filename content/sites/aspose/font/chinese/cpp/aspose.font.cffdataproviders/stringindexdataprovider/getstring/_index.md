@@ -1,0 +1,33 @@
+---
+title: "Aspose::Font::CffDataProviders::StringIndexDataProvider::GetString method"
+linktitle: "GetString"
+second_title: "Aspose.Font 适用于 C++"
+description: "Aspose::Font::CffDataProviders::StringIndexDataProvider::GetString 方法。从 C++ 中的 CFF 字符串 INDEX 结构的指定索引获取字符串。"
+type: docs
+weight: 400
+url: /zh/cpp/aspose.font.cffdataproviders/stringindexdataprovider/getstring/
+---
+## StringIndexDataProvider::GetString method
+
+
+从 CFF String INDEX 结构中获取指定索引处的字符串。
+
+```cpp
+virtual System::String Aspose::Font::CffDataProviders::StringIndexDataProvider::GetString(int32_t index)=0
+```
+
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| 索引 | int32_t | 字符串的索引，索引指的是 CFF INDEX 结构中的序号，而不是 SID |
+
+### ReturnValue
+
+String
+
+## 另见
+
+* Class [String](../../../system/string/)
+* Class [StringIndexDataProvider](../)
+* Namespace [Aspose::Font::CffDataProviders](../../)
+* Library [Aspose.Font for C++](../../../)

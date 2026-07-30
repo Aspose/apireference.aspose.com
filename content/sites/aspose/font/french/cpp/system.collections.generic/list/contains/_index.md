@@ -1,0 +1,32 @@
+---
+title: "System::Collections::Generic::List::Contains method"
+linktitle: "Contains"
+second_title: "Aspose.Font pour C++"
+description: "System::Collections::Generic::List::Contains method. Vérifie si l'élément est présent dans la liste en C++."
+type: docs
+weight: 1200
+url: /fr/cpp/system.collections.generic/list/contains/
+---
+## List::Contains method
+
+
+Vérifie si l'élément est présent dans la liste.
+
+```cpp
+bool System::Collections::Generic::List<T>::Contains(const T &item) const override
+```
+
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| élément | const T\& | Élément à rechercher. |
+
+### ReturnValue
+
+Vrai si l'élément est trouvé, faux sinon.
+
+## Voir aussi
+
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Font for C++](../../../)

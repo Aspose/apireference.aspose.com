@@ -1,7 +1,7 @@
 ---
-title: RenderGlyph
-second_title: Aspose.Font for .NET API 参考
-description: 渲染字形
+title: "IGlyphRenderer.RenderGlyph"
+second_title: "Aspose.Font for .NET API 参考"
+description: "IGlyphRenderer 方法。渲染 glyph"
 type: docs
 weight: 10
 url: /zh/net/aspose.font.renderers/iglyphrenderer/renderglyph/
@@ -14,17 +14,17 @@ url: /zh/net/aspose.font.renderers/iglyphrenderer/renderglyph/
 public void RenderGlyph(IFont font, uint glyphIndex)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| font | IFont | 包含字形的字体。 |
-| glyphIndex | UInt32 | 字体内的物理字形索引。请注意，这不是 unicode。 |
+| 字体 | IFont | 包含该字形的字体。 |
+| glyphIndex | UInt32 | 字体内部的物理 glyph 索引。注意，这不是 Unicode。 |
 
-### 也可以看看
+### 另见
 
-* interface [IFont](../../../aspose.font/ifont)
-* interface [IGlyphRenderer](../../iglyphrenderer)
-* 命名空间 [Aspose.Font.Renderers](../../iglyphrenderer)
-* 部件 [Aspose.Font](../../../)
+* interface [IFont](../../../aspose.font/ifont/)
+* interface [IGlyphRenderer](../)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
@@ -36,19 +36,19 @@ public void RenderGlyph(IFont font, uint glyphIndex)
 public void RenderGlyph(IFont font, uint glyphIndex, TransformationMatrix glyphPlacementMatrix)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| font | IFont | 包含字形的字体。 |
-| glyphIndex | UInt32 | 字体内的物理字形索引。请注意，这不是 unicode。 |
+| 字体 | IFont | 包含该字形的字体。 |
+| glyphIndex | UInt32 | 字体内部的物理 glyph 索引。注意，这不是 Unicode。 |
 | glyphPlacementMatrix | TransformationMatrix | 应用于字形坐标的矩阵。 |
 
-### 也可以看看
+### 另见
 
-* interface [IFont](../../../aspose.font/ifont)
-* class [TransformationMatrix](../../../aspose.font/transformationmatrix)
-* interface [IGlyphRenderer](../../iglyphrenderer)
-* 命名空间 [Aspose.Font.Renderers](../../iglyphrenderer)
-* 部件 [Aspose.Font](../../../)
+* interface [IFont](../../../aspose.font/ifont/)
+* class [TransformationMatrix](../../../aspose.font/transformationmatrix/)
+* interface [IGlyphRenderer](../)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
@@ -60,18 +60,18 @@ public void RenderGlyph(IFont font, uint glyphIndex, TransformationMatrix glyphP
 public void RenderGlyph(IFont font, GlyphId glyphId)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| font | IFont | 包含字形的字体。 |
-| glyphId | GlyphId | 字体内的物理字形索引。请注意，这不是 unicode。 |
+| 字体 | IFont | 包含该字形的字体。 |
+| glyphId | GlyphId | 字体内部的物理 glyph 索引。注意，这不是 Unicode。 |
 
-### 也可以看看
+### 另见
 
-* interface [IFont](../../../aspose.font/ifont)
-* class [GlyphId](../../../aspose.font.glyphs/glyphid)
-* interface [IGlyphRenderer](../../iglyphrenderer)
-* 命名空间 [Aspose.Font.Renderers](../../iglyphrenderer)
-* 部件 [Aspose.Font](../../../)
+* interface [IFont](../../../aspose.font/ifont/)
+* class [GlyphId](../../../aspose.font.glyphs/glyphid/)
+* interface [IGlyphRenderer](../)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
@@ -83,47 +83,47 @@ public void RenderGlyph(IFont font, GlyphId glyphId)
 public void RenderGlyph(IFont font, GlyphId glyphId, TransformationMatrix glyphPlacementMatrix)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| font | IFont | 包含字形的字体。 |
-| glyphId | GlyphId | 字体内的物理字形索引。请注意，这不是 unicode。 |
+| 字体 | IFont | 包含该字形的字体。 |
+| glyphId | GlyphId | 字体内部的物理 glyph 索引。注意，这不是 Unicode。 |
 | glyphPlacementMatrix | TransformationMatrix | 应用于字形坐标的矩阵。 |
 
-### 也可以看看
+### 另见
 
-* interface [IFont](../../../aspose.font/ifont)
-* class [GlyphId](../../../aspose.font.glyphs/glyphid)
-* class [TransformationMatrix](../../../aspose.font/transformationmatrix)
-* interface [IGlyphRenderer](../../iglyphrenderer)
-* 命名空间 [Aspose.Font.Renderers](../../iglyphrenderer)
-* 部件 [Aspose.Font](../../../)
+* interface [IFont](../../../aspose.font/ifont/)
+* class [GlyphId](../../../aspose.font.glyphs/glyphid/)
+* class [TransformationMatrix](../../../aspose.font/transformationmatrix/)
+* interface [IGlyphRenderer](../)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## RenderGlyph(IFont, GlyphId, Glyph, TransformationMatrix) {#renderglyph_1}
 
-渲染字形，这是这个重载版本的一个目标 - 与字形缓存一起使用。
+渲染字形，此重载版本的目标是用于字形缓存。
 
 ```csharp
 public void RenderGlyph(IFont font, GlyphId glyphId, Glyph glyph, 
     TransformationMatrix glyphPlacementMatrix)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| font | IFont | 包含字形的字体。 |
-| glyphId | GlyphId | 字体内的物理字形索引。请注意，这不是 unicode。 |
-| glyph | Glyph | 要渲染的字形。 |
+| 字体 | IFont | 包含该字形的字体。 |
+| glyphId | GlyphId | 字体内部的物理 glyph 索引。注意，这不是 Unicode。 |
+| 字形 | 字形 | 待渲染的字形。 |
 | glyphPlacementMatrix | TransformationMatrix | 应用于字形坐标的矩阵。 |
 
-### 也可以看看
+### 另见
 
-* interface [IFont](../../../aspose.font/ifont)
-* class [GlyphId](../../../aspose.font.glyphs/glyphid)
-* class [Glyph](../../../aspose.font.glyphs/glyph)
-* class [TransformationMatrix](../../../aspose.font/transformationmatrix)
-* interface [IGlyphRenderer](../../iglyphrenderer)
-* 命名空间 [Aspose.Font.Renderers](../../iglyphrenderer)
-* 部件 [Aspose.Font](../../../)
+* interface [IFont](../../../aspose.font/ifont/)
+* class [GlyphId](../../../aspose.font.glyphs/glyphid/)
+* class [Glyph](../../../aspose.font.glyphs/glyph/)
+* class [TransformationMatrix](../../../aspose.font/transformationmatrix/)
+* interface [IGlyphRenderer](../)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
+* assembly [Aspose.Font](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Font.dll -->
+

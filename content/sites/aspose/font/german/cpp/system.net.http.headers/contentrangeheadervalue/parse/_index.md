@@ -1,0 +1,35 @@
+---
+title: "System::Net::Http::Headers::ContentRangeHeaderValue::Parse method"
+linktitle: "Parsen"
+second_title: "Aspose.Font für C++"
+description: "System::Net::Http::Headers::ContentRangeHeaderValue::Parse method. Konvertiert einen übergebenen String in eine Instanz der Klasse ContentRangeHeaderValue in C++."
+type: docs
+weight: 1300
+url: /de/cpp/system.net.http.headers/contentrangeheadervalue/parse/
+---
+## ContentRangeHeaderValue::Parse method
+
+
+Konvertiert einen übergebenen String in eine Instanz der [ContentRangeHeaderValue](../)-Klasse.
+
+```cpp
+static System::SharedPtr<ContentRangeHeaderValue> System::Net::Http::Headers::ContentRangeHeaderValue::Parse(String input)
+```
+
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Eingabe | String | Ein zu parsender String. |
+
+### ReturnValue
+
+Eine Instanz der [ContentRangeHeaderValue](../)-Klasse.
+
+## Siehe auch
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ContentRangeHeaderValue](../)
+* Class [String](../../../system/string/)
+* Class [ContentRangeHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Font for C++](../../../)

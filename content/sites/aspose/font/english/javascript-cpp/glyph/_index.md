@@ -12,6 +12,7 @@ url: /javascript-cpp/glyph/
 | -------------- | -------------- |
 | [AsposeFontGetGlyphCount](./asposefontgetglyphcount/) | Get glyph count of font. |
 | [AsposeFontGetMetrics](./asposefontgetmetrics/) | Get metrics of font. |
+| [AsposeFontGetGlyphNames](./asposefontgetglyphnames/) | Get glyph names of font. |
 
 
 ## Detailed Description

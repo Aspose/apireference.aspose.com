@@ -1,0 +1,38 @@
+---
+title: "System::Collections::Generic::operator!= Methode"
+linktitle: "operator!="
+second_title: "Aspose.Font für C++"
+description: "System::Collections::Generic::operator!= Methode. Vergleicht zwei Schlüssel‑Wert‑Paare unter Verwendung der inversen ''equals''‑Semantik in C++."
+type: docs
+weight: 5300
+url: /de/cpp/system.collections.generic/operator!=/
+---
+## System::Collections::Generic::operator!= method
+
+
+Vergleicht zwei Schlüssel‑Wert‑Paare unter Verwendung der inversen 'equals'‑Semantik.
+
+```cpp
+template<typename TKey,typename TValue> bool System::Collections::Generic::operator!=(const KeyValuePair<TKey, TValue> &left, const KeyValuePair<TKey, TValue> &right)
+```
+
+
+| Parameter | Beschreibung |
+| --- | --- |
+| TKey | Schlüsseltyp. |
+| TValue | Werttyp. |
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| links | const KeyValuePair\<TKey, TValue\>\& | LHS-Operand. |
+| rechts | const KeyValuePair\<TKey, TValue\>\& | RHS-Operand. |
+
+### ReturnValue
+
+Wahr, wenn sowohl Schlüssel als auch Werte nicht übereinstimmen, sonst falsch.
+
+## Siehe auch
+
+* Class [KeyValuePair](../keyvaluepair/)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Font for C++](../../)

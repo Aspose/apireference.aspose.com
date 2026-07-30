@@ -1,0 +1,30 @@
+---
+title: "System::Xml::Schema::XmlSchemaIdentityConstraint::get_Selector метод"
+linktitle: "get_Selector"
+second_title: "Aspose.Font для C++"
+description: "System::Xml::Schema::XmlSchemaIdentityConstraint::get_Selector метод. Возвращает элемент селектора XPath-выражения в C++."
+type: docs
+weight: 500
+url: /ru/cpp/system.xml.schema/xmlschemaidentityconstraint/get_selector/
+---
+## XmlSchemaIdentityConstraint::get_Selector method
+
+
+Возвращает элемент **selector** выражения [XPath](../../../system.xml.xpath/).
+
+```cpp
+SharedPtr<XmlSchemaXPath> System::Xml::Schema::XmlSchemaIdentityConstraint::get_Selector()
+```
+
+
+### ReturnValue
+
+Элемент **selector** выражения [XPath](../../../system.xml.xpath/).
+
+## См. также
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaXPath](../../xmlschemaxpath/)
+* Class [XmlSchemaIdentityConstraint](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Font for C++](../../../)

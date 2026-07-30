@@ -1,0 +1,49 @@
+---
+title: "System::Collections::Generic::SortedList::rbegin method"
+linktitle: "rbegin"
+second_title: "Aspose.Font لـ C++"
+description: "System::Collections::Generic::SortedList::rbegin method. يحصل على مكرر عكسي للعنصر الأخير في المجموعة المؤهلة كـ const (الأول في الاتجاه العكسي) في C++."
+type: docs
+weight: 1000
+url: /ar/cpp/system.collections.generic/sortedlist/rbegin/
+---
+## SortedList::rbegin() const method
+
+
+يحصل على مكرر عكسي للعنصر الأخير في المجموعة المؤهلة كـ const (الأول في الاتجاه العكسي).
+
+```cpp
+const_reverse_iterator System::Collections::Generic::SortedList<TKey, TValue>::rbegin() const noexcept
+```
+
+
+### ReturnValue
+
+مكرر عكسي يشير إلى العنصر الأخير في الخريطة المؤهلة كـ const (الأول في الاتجاه العكسي).
+
+## انظر أيضًا
+
+* Typedef [const_reverse_iterator](../const_reverse_iterator/)
+* Class [SortedList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Font for C++](../../../)
+## SortedList::rbegin() method
+
+
+يحصل على مكرر عكسي للعنصر الأخير في المجموعة (الأول في الاتجاه العكسي).
+
+```cpp
+reverse_iterator System::Collections::Generic::SortedList<TKey, TValue>::rbegin() noexcept
+```
+
+
+### ReturnValue
+
+مكرر عكسي يشير إلى العنصر الأخير في الخريطة (الأول في الاتجاه العكسي).
+
+## انظر أيضًا
+
+* Typedef [reverse_iterator](../reverse_iterator/)
+* Class [SortedList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Font for C++](../../../)

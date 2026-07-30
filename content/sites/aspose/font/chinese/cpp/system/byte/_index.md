@@ -1,0 +1,90 @@
+---
+title: "System::Byte 类"
+linktitle: "Byte"
+second_title: "Aspose.Font 适用于 C++"
+description: "System::Byte 类。包含在 C++ 中处理无符号 8 位整数的方法。"
+type: docs
+weight: 1100
+url: /zh/cpp/system/byte/
+---
+## Byte class
+
+
+包含处理无符号 8 位整数的方法。
+
+```cpp
+class Byte
+```
+
+## 方法
+
+| 方法 | 描述 |
+| --- | --- |
+| static [Parse](./parse/)(const String\&) | 将包含数字字符串表示的指定字符串转换为等价的 8 位无符号整数。 |
+| static [Parse](./parse/)(const String\&, const SharedPtr\<IFormatProvider\>\&) | 使用提供的格式信息，将包含数字字符串表示的指定字符串转换为等价的 8 位无符号整数。 |
+| static [Parse](./parse/)(const String\&, const SharedPtr\<Globalization::CultureInfo\>\&) |  |
+| static [Parse](./parse/)(const String\&, const SharedPtr\<Globalization::NumberFormatInfo\>\&) |  |
+| static [Parse](./parse/)(const String\&, std::nullptr_t) |  |
+| static [Parse](./parse/)(const String\&, Globalization::NumberStyles, const SharedPtr\<IFormatProvider\>\&) | 使用提供的格式信息和数字样式，将包含数字字符串表示的指定字符串转换为等价的 8 位无符号整数。 |
+| static [Parse](./parse/)(const String\&, Globalization::NumberStyles, const SharedPtr\<Globalization::CultureInfo\>\&) |  |
+| static [Parse](./parse/)(const String\&, Globalization::NumberStyles, const SharedPtr\<Globalization::NumberFormatInfo\>\&) |  |
+| static [Parse](./parse/)(const String\&, Globalization::NumberStyles, std::nullptr_t) |  |
+| static [TryParse](./tryparse/)(const String\&, uint8_t\&) | 将包含数字字符串表示的指定字符串转换为等价的 8 位无符号整数。 |
+| static [TryParse](./tryparse/)(const String\&, Globalization::NumberStyles, const SharedPtr\<IFormatProvider\>\&, uint8_t\&) | 使用提供的格式信息和数字样式，将包含数字字符串表示的指定字符串转换为等价的 8 位无符号整数。 |
+| static [TryParse](./tryparse/)(const String\&, Globalization::NumberStyles, const SharedPtr\<Globalization::CultureInfo\>\&, uint8_t\&) |  |
+| static [TryParse](./tryparse/)(const String\&, Globalization::NumberStyles, const SharedPtr\<Globalization::NumberFormatInfo\>\&, uint8_t\&) |  |
+| static [TryParse](./tryparse/)(const String\&, Globalization::NumberStyles, std::nullptr_t, uint8_t\&) |  |
+## 字段
+
+| 字段 | 描述 |
+| --- | --- |
+| static constexpr [MaxValue](./maxvalue/) | 可能的最大值。 |
+| static constexpr [MinValue](./minvalue/) | 可能的最小值。 |
+## 备注
+
+
+
+```cpp
+#include <system/byte.h>
+
+using namespace System;
+
+int main()
+{
+  auto b1 = Byte::Parse(u"123");
+  std::cout << static_cast<uint32_t>(b1) << std::endl;
+
+  try
+  {
+    auto b2 = Byte::Parse(u"345");
+    std::cout << static_cast<uint32_t>(b2) << std::endl;
+  }
+  catch (const OverflowException &ex)
+  {
+    std::cerr << ex.what() << std::endl;
+  }
+
+  uint8_t b3 = 0;
+  if (Byte::TryParse(u"10", b3))
+  {
+    std::cout << static_cast<uint32_t>(b3) << std::endl;
+  }
+  else
+  {
+    std::cerr << "Something went wrong." << std::endl;
+  }
+
+  return 0;
+}
+/*
+This code example produces the following output:
+123
+System::OverflowException: Value was either too large or too small for an UInt8
+10
+*/
+```
+
+## 另见
+
+* Namespace [System](../)
+* Library [Aspose.Font for C++](../../)

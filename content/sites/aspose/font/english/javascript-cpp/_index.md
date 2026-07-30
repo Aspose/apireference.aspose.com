@@ -39,6 +39,7 @@ is_root: true
 | -------- | ----------- |
 | [AsposeFontGetGlyphCount](./glyph/asposefontgetglyphcount/) | Get glyph count of font. |
 | [AsposeFontGetMetrics](./glyph/asposefontgetmetrics/) | Get metrics of font. |
+| [AsposeFontGetGlyphNames](./glyph/asposefontgetglyphnames/) | Get glyph names of font. |
 
 
 ## Core Functions

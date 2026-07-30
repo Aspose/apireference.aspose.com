@@ -1,0 +1,54 @@
+---
+title: "System::IO::StreamReader::Read metodo"
+linktitle: "Read"
+second_title: "Aspose.Font per C++"
+description: "System::IO::StreamReader::Read metodo. Legge un singolo carattere dal flusso in C++."
+type: docs
+weight: 900
+url: /it/cpp/system.io/streamreader/read/
+---
+## StreamReader::Read() method
+
+
+Legge un singolo carattere dal flusso.
+
+```cpp
+virtual int System::IO::StreamReader::Read() override
+```
+
+
+### ReturnValue
+
+Leggi il carattere codificato con la codifica UTF-16; se il carattere letto è rappresentato da due codepoint nella codifica UTF-16, allora viene restituito solo il surragate alto.
+
+## Vedi anche
+
+* Class [StreamReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Font for C++](../../../)
+## StreamReader::Read(ArrayPtr\<char_t\>, int, int) method
+
+
+Legge il numero specificato di caratteri dal flusso, li converte nella codifica UTF-16 e scrive i caratteri UTF-16 risultanti nell'array di caratteri specificato a partire dalla posizione indicata.
+
+```cpp
+virtual int System::IO::StreamReader::Read(ArrayPtr<char_t> buffer, int index, int count) override
+```
+
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| buffer | ArrayPtr\<char_t\> | L'array di caratteri UTF-16 in cui scrivere i caratteri letti dallo stream |
+| indice | int | Un indice basato su 0 in **buffer** a partire dal quale iniziare a scrivere |
+| count | int | Il numero di caratteri da leggere dal flusso |
+
+### ReturnValue
+
+Il numero di caratteri letti dallo stream
+
+## Vedi anche
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [StreamReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Font for C++](../../../)

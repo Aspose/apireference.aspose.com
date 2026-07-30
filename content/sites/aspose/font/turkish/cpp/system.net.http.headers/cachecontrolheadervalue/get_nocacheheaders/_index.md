@@ -1,0 +1,31 @@
+---
+title: "System::Net::Http::Headers::CacheControlHeaderValue::get_NoCacheHeaders metodu"
+linktitle: "get_NoCacheHeaders"
+second_title: "Aspose.Font için C++"
+description: "System::Net::Http::Headers::CacheControlHeaderValue::get_NoCacheHeaders metodu. ''no-cache'' yönergesindeki ''Cache-Control'' başlığındaki alan adlarının koleksiyonunu C++'da alır."
+type: docs
+weight: 1000
+url: /tr/cpp/system.net.http.headers/cachecontrolheadervalue/get_nocacheheaders/
+---
+## CacheControlHeaderValue::get_NoCacheHeaders method
+
+
+'Cache-Control' başlığındaki 'no-cache' yönergesindeki alan adları koleksiyonunu alır.
+
+```cpp
+System::SharedPtr<Collections::Generic::ICollection<String>> System::Net::Http::Headers::CacheControlHeaderValue::get_NoCacheHeaders()
+```
+
+
+### ReturnValue
+
+'no-cache' yönergesindeki 'Cache-Control' başlığındaki alan adlarının bir koleksiyonu.
+
+## Ayrıca Bakınız
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICollection](../../../system.collections.generic/icollection/)
+* Class [String](../../../system/string/)
+* Class [CacheControlHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Font for C++](../../../)

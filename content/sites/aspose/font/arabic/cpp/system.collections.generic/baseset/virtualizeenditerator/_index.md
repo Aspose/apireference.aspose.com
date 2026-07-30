@@ -1,0 +1,28 @@
+---
+title: "System::Collections::Generic::BaseSet::virtualizeEndIterator method"
+linktitle: "virtualizeEndIterator"
+second_title: "Aspose.Font لـ C++"
+description: "System::Collections::Generic::BaseSet::virtualizeEndIterator method. يحصل على تنفيذ iterator النهاية للحاوية الحالية في C++."
+type: docs
+weight: 1800
+url: /ar/cpp/system.collections.generic/baseset/virtualizeenditerator/
+---
+## BaseSet::virtualizeEndIterator method
+
+
+يحصل على تنفيذ end iterator للحاوية الحالية.
+
+```cpp
+System::Details::VirtualizedIteratorBase<T> * System::Collections::Generic::BaseSet<T, SET_T>::virtualizeEndIterator() override
+```
+
+
+### ReturnValue
+
+مؤشر إلى كائن نواة المؤشر الذي تم إنشاؤه حديثًا.
+
+## انظر أيضًا
+
+* Class [BaseSet](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Font for C++](../../../)

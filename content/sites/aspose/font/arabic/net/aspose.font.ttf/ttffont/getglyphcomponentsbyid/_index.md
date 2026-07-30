@@ -1,86 +1,86 @@
 ---
-title: GetGlyphComponentsById
-second_title: Aspose.Font لمرجع .NET API
-description: يحصل على حرف رسومي بواسطة معرف الصورة الرمزية الذي تم تمريره ويملأ القائمة التي تم تمريرها لمعرفات الصورة الرمزية بمكونات من هذا الحرف الرسومي . معرف Glyph هو رقم فريد للحرف الرسومي  وهو نوع الخط التابع.GlyphStringIdaspose.font.glyphs/glyphstringid فئة أو GlyphUInt32Idaspose.font.glyphs/glyphuint32id  class. يتم دعم عنونة الاسم السلسلة glyph لخطوط TTF عبر تعيين جدول النشر.
+title: "TtfFont.GetGlyphComponentsById"
+second_title: "مرجع API لـ Aspose.Font لـ .NET"
+description: "طريقة TtfFont. تحصل على حرف (glyph) باستخدام معرف الحرف الممرّر وتملأ القائمة الممرّرة من معرفات الحروف بمكونات هذا الحرف. معرف الحرف هو رقم فريد لحرف يعتمد على نوع الخط. يمكن أن يكون معرف حرف خط TTF مثالًا من الفئة GlyphStringId أو الفئة GlyphUInt32Id. يتم دعم عنونة الحروف باستخدام سلسلة الاسم للخطوط TTF عبر تعيين جدول Post. في حالة وجود خط CFF داخل، تُستخدم هياكل CFF لعناوين الحروف بالاسم."
 type: docs
 weight: 190
 url: /ar/net/aspose.font.ttf/ttffont/getglyphcomponentsbyid/
 ---
 ## GetGlyphComponentsById(GlyphId, GlyphIdList) {#getglyphcomponentsbyid}
 
-يحصل على حرف رسومي بواسطة معرف الصورة الرمزية الذي تم تمريره ويملأ القائمة التي تم تمريرها لمعرفات الصورة الرمزية بمكونات من هذا الحرف الرسومي . معرف Glyph هو رقم فريد للحرف الرسومي ، وهو نوع الخط التابع.[`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) فئة أو ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) ) class. يتم دعم عنونة الاسم (السلسلة) glyph لخطوط TTF عبر تعيين جدول النشر.
+يحصل على حرف باستخدام معرف الحرف الممرّر ويملأ القائمة الممرّرة من معرفات الحروف بمكونات هذا الحرف. معرف الحرف هو رقم فريد لحرف يعتمد على نوع الخط. يمكن أن يكون معرف حرف خط TTF مثالًا من الفئة ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid/)) أو الفئة ([`GlyphUInt32Id`](../../../aspose.font/glyphs/glyphuint32id/)). يتم دعم عنونة الحروف باستخدام السلسلة (string) للخطوط TTF عبر تعيين جدول Post. في حالة وجود خط CFF داخل، تُستخدم هياكل CFF لعناوين الحروف بالاسم.
 
 ```csharp
 public virtual void GetGlyphComponentsById(GlyphId id, GlyphIdList componentsToPopulate)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| id | GlyphId | معرف الصورة الرمزية. |
-| componentsToPopulate | GlyphIdList | قائمة معرفات الحروف الرسومية المراد تعبئتها. |
+| معرف | GlyphId | معرف الحرف. |
+| componentsToPopulate | GlyphIdList | قائمة معرفات الحروف لتعبئتها. |
 
-### ملاحظات
+## ملاحظات
 
-مكونات المجموعة الفارغةيجب أن يتم تمرير التعداد الذي سيحتوي على قائمة معرف مكونات الصورة الرمزية .
+يجب تمرير مجموعة فارغة componentsToPopulate التي ستحتوي على قائمة معرفات مكونات الحروف.
 
-### أنظر أيضا
+### انظر أيضاً
 
-* class [GlyphId](../../../aspose.font.glyphs/glyphid)
-* class [GlyphIdList](../../../aspose.font.glyphs/glyphidlist)
-* class [TtfFont](../../ttffont)
-* مساحة الاسم [Aspose.Font.Ttf](../../ttffont)
-* المجسم [Aspose.Font](../../../)
+* class [GlyphId](../../../aspose.font.glyphs/glyphid/)
+* class [GlyphIdList](../../../aspose.font.glyphs/glyphidlist/)
+* class [TtfFont](../)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## GetGlyphComponentsById(string, GlyphIdList) {#getglyphcomponentsbyid_1}
 
-يحصل على حرف رسومي من خلال اسم الصورة الرمزية الذي تم تمريره ويملأ القائمة التي تم تمريرها لمعرفات الحروف الرسومية بمكونات من هذا الحرف الرسومي .
+يحصل على شكل باستخدام اسم الشكل الممرّر ويملأ القائمة الممرّرة لمعرفات الأشكال بمكونات هذا الشكل.
 
 ```csharp
 public void GetGlyphComponentsById(string glyphName, GlyphIdList componentsToPopulate)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| glyphName | String | اسم الصورة الرمزية. |
-| componentsToPopulate | GlyphIdList | قائمة معرفات الحروف الرسومية المراد تعبئتها. |
+| glyphName | String | اسم الحرف. |
+| componentsToPopulate | GlyphIdList | قائمة معرفات الحروف لتعبئتها. |
 
-### ملاحظات
+## ملاحظات
 
-مكونات المجموعة الفارغةيجب أن يتم تمرير التعداد الذي سيحتوي على قائمة معرف مكونات الصورة الرمزية .
+يجب تمرير مجموعة فارغة componentsToPopulate التي ستحتوي على قائمة معرفات مكونات الحروف.
 
-### أنظر أيضا
+### انظر أيضاً
 
-* class [GlyphIdList](../../../aspose.font.glyphs/glyphidlist)
-* class [TtfFont](../../ttffont)
-* مساحة الاسم [Aspose.Font.Ttf](../../ttffont)
-* المجسم [Aspose.Font](../../../)
+* class [GlyphIdList](../../../aspose.font.glyphs/glyphidlist/)
+* class [TtfFont](../)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## GetGlyphComponentsById(uint, GlyphIdList) {#getglyphcomponentsbyid_2}
 
-يحصل على حرف رسومي بواسطة فهرس الصورة الرمزية الذي تم تمريره ويملأ القائمة التي تم تمريرها لمعرفات الحروف الرسومية بمكونات من هذا الصورة الرمزية .
+يحصل على شكل باستخدام فهرس الشكل الممرّر ويملأ القائمة الممرّرة لمعرفات الأشكال بمكونات هذا الشكل.
 
 ```csharp
 public void GetGlyphComponentsById(uint id, GlyphIdList componentsToPopulate)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| id | UInt32 | فهرس الصورة الرمزية. |
-| componentsToPopulate | GlyphIdList | قائمة معرفات الحروف الرسومية المراد تعبئتها. |
+| معرف | UInt32 | فهرس الحرف. |
+| componentsToPopulate | GlyphIdList | قائمة معرفات الحروف لتعبئتها. |
 
-### ملاحظات
+## ملاحظات
 
-مكونات المجموعة الفارغةيجب أن يتم تمرير التعداد الذي سيحتوي على قائمة معرف مكونات الصورة الرمزية .
+يجب تمرير مجموعة فارغة componentsToPopulate التي ستحتوي على قائمة معرفات مكونات الحروف.
 
-### أنظر أيضا
+### انظر أيضاً
 
-* class [GlyphIdList](../../../aspose.font.glyphs/glyphidlist)
-* class [TtfFont](../../ttffont)
-* مساحة الاسم [Aspose.Font.Ttf](../../ttffont)
-* المجسم [Aspose.Font](../../../)
+* class [GlyphIdList](../../../aspose.font.glyphs/glyphidlist/)
+* class [TtfFont](../)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
+* assembly [Aspose.Font](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Font.dll -->
+

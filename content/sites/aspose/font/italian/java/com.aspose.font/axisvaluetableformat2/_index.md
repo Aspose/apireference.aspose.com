@@ -1,0 +1,235 @@
+---
+title: "AxisValueTableFormat2"
+second_title: "Riferimento API Aspose.Font per Java"
+description: "Rappresenta il formato 2 della tabella Axis value."
+type: docs
+weight: 14
+url: /it/java/com.aspose.font/axisvaluetableformat2/
+---
+**Inheritance:**
+java.lang.Object, [com.aspose.font.AxisValueTableBase](../../com.aspose.font/axisvaluetablebase)
+```
+public class AxisValueTableFormat2 extends AxisValueTableBase
+```
+
+Rappresenta il formato 2 della tabella Axis value.
+## Costruttori
+
+| Costruttore | Descrizione |
+| --- | --- |
+| [AxisValueTableFormat2(int flags, int valueNameId, int axisIndex, float nominalValue, float rangeMinValue, float rangeMaxValue)](#AxisValueTableFormat2-int-int-int-float-float-float-) | Costruttore |
+## Metodi
+
+| Metodo | Descrizione |
+| --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getAxisIndex()](#getAxisIndex--) | Restituisce l'indice Zero-base nell'array di record dell'asse che identifica l'asse di variazione di design a cui si applica la tabella dei valori dell'asse. |
+| [getClass()](#getClass--) |  |
+| [getFlags()](#getFlags--) | Restituisce il campo dei flag della tabella dei valori dell'asse. |
+| [getFormat()](#getFormat--) | Restituisce l'identificatore del formato (numero di versione). |
+| [getNominalValue()](#getNominalValue--) | Un valore numerico nominale |
+| [getRangeMaxValue()](#getRangeMaxValue--) | Il valore massimo per un intervallo associato all'ID nome specificato. |
+| [getRangeMinValue()](#getRangeMinValue--) | Il valore minimo per un intervallo associato all'ID nome specificato. |
+| [getValueName()](#getValueName--) | Restituisce il nome dalla tabella 'name' che fornisce una stringa visualizzabile per questo valore di attributo. |
+| [getValueNameId()](#getValueNameId--) | Restituisce l'ID del nome per le voci nella tabella 'name' che forniscono una stringa visualizzabile per questo valore di attributo. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### AxisValueTableFormat2(int flags, int valueNameId, int axisIndex, float nominalValue, float rangeMinValue, float rangeMaxValue) {#AxisValueTableFormat2-int-int-int-float-float-float-}
+```
+public AxisValueTableFormat2(int flags, int valueNameId, int axisIndex, float nominalValue, float rangeMinValue, float rangeMaxValue)
+```
+
+
+Costruttore
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| flag | int | Flag |
+| valueNameId | int | L'ID del nome per le voci nella tabella 'name' che forniscono una stringa visualizzabile per questo valore di attributo |
+| axisIndex | int | Spec: Indice a base zero nell'array dei record degli assi che identifica l'asse di variazione di design a cui si applica la tabella dei valori dell'asse. Deve essere inferiore a designAxisCount. |
+| nominalValue | float | Il valore numerico nominale per questo valore di attributo. |
+| rangeMinValue | float | Il valore minimo per un intervallo associato all'ID nome specificato. |
+| rangeMaxValue | float | Il valore massimo per un intervallo associato all'ID nome specificato. |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getAxisIndex() {#getAxisIndex--}
+```
+public int getAxisIndex()
+```
+
+
+Restituisce l'indice Zero-base nell'array di record dell'asse che identifica l'asse di variazione di design a cui si applica la tabella dei valori dell'asse.
+
+**Returns:**
+int - L'indice a base zero nell'array di record dell'asse che identifica l'asse di variazione di design a cui si applica la tabella dei valori dell'asse.
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getFlags() {#getFlags--}
+```
+public int getFlags()
+```
+
+
+Restituisce il campo dei flag della tabella dei valori dell'asse.
+
+**Returns:**
+int - Il campo dei flag della tabella dei valori dell'asse.
+### getFormat() {#getFormat--}
+```
+public int getFormat()
+```
+
+
+Restituisce l'identificatore del formato (numero di versione).
+
+**Returns:**
+int - L'identificatore del formato (numero di versione).
+### getNominalValue() {#getNominalValue--}
+```
+public float getNominalValue()
+```
+
+
+Un valore numerico nominale
+
+**Returns:**
+float - Un valore numerico nominale
+### getRangeMaxValue() {#getRangeMaxValue--}
+```
+public float getRangeMaxValue()
+```
+
+
+Il valore massimo per un intervallo associato all'ID nome specificato.
+
+**Returns:**
+float - Il valore massimo per un intervallo associato all'ID nome specificato.
+### getRangeMinValue() {#getRangeMinValue--}
+```
+public float getRangeMinValue()
+```
+
+
+Il valore minimo per un intervallo associato all'ID nome specificato.
+
+**Returns:**
+float - Il valore minimo per un intervallo associato all'ID nome specificato.
+### getValueName() {#getValueName--}
+```
+public String getValueName()
+```
+
+
+Restituisce il nome dalla tabella 'name' che fornisce una stringa visualizzabile per questo valore di attributo.
+
+**Returns:**
+java.lang.String - Il nome dalla tabella 'name' che fornisce una stringa di visualizzazione per questo valore di attributo.
+### getValueNameId() {#getValueNameId--}
+```
+public int getValueNameId()
+```
+
+
+Restituisce l'ID del nome per le voci nella tabella 'name' che forniscono una stringa visualizzabile per questo valore di attributo.
+
+**Returns:**
+int - L'ID nome per le voci nella tabella 'name' che fornisce una stringa di visualizzazione per questo valore di attributo.
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

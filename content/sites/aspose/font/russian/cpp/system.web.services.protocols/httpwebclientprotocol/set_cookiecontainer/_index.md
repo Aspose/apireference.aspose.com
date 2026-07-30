@@ -1,0 +1,30 @@
+---
+title: "Метод System::Web::Services::Protocols::HttpWebClientProtocol::set_CookieContainer"
+linktitle: "set_CookieContainer"
+second_title: "Aspose.Font для C++"
+description: "Метод System::Web::Services::Protocols::HttpWebClientProtocol::set_CookieContainer. Устанавливает контейнер, используемый для хранения cookie‑файлов, в C++."
+type: docs
+weight: 1000
+url: /ru/cpp/system.web.services.protocols/httpwebclientprotocol/set_cookiecontainer/
+---
+## HttpWebClientProtocol::set_CookieContainer method
+
+
+Устанавливает контейнер, используемый для хранения куки.
+
+```cpp
+void System::Web::Services::Protocols::HttpWebClientProtocol::set_CookieContainer(System::SharedPtr<System::Net::CookieContainer> value)
+```
+
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| значение | System::SharedPtr\<System::Net::CookieContainer\> | Значение, которое должно быть установлено. |
+
+## См. также
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CookieContainer](../../../system.net/cookiecontainer/)
+* Class [HttpWebClientProtocol](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Font for C++](../../../)

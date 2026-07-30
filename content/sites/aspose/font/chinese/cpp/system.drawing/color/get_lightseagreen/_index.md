@@ -1,0 +1,24 @@
+---
+title: "System::Drawing::Color::get_LightSeaGreen 方法"
+linktitle: "get_LightSeaGreen"
+second_title: "Aspose.Font 适用于 C++"
+description: "System::Drawing::Color::get_LightSeaGreen 方法。返回一种颜色，其 ARGB 十六进制值为 #FF20B2AA，使用 C++。"
+type: docs
+weight: 9300
+url: /zh/cpp/system.drawing/color/get_lightseagreen/
+---
+## Color::get_LightSeaGreen method
+
+
+返回一种颜色，其 ARGB 值的十六进制表示为 #FF20B2AA。
+
+```cpp
+static Color System::Drawing::Color::get_LightSeaGreen()
+```
+
+## 另见
+
+* Class [Color](../)
+* Class [Color](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Font for C++](../../../)

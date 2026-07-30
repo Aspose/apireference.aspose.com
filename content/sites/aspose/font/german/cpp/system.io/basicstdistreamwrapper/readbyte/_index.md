@@ -1,0 +1,28 @@
+---
+title: "System::IO::BasicSTDIStreamWrapper::ReadByte Methode"
+linktitle: "ReadByte"
+second_title: "Aspose.Font für C++"
+description: "System::IO::BasicSTDIStreamWrapper::ReadByte Methode. Wenn der Wrapper-Modus binär ist, liest er ein einzelnes Byte aus dem zuletzt dekodierten Zeichenspeicher, andernfalls liest er ein einzelnes Zeichen aus dem Stream und konvertiert es in den Typ uint8_t in C++."
+type: docs
+weight: 500
+url: /de/cpp/system.io/basicstdistreamwrapper/readbyte/
+---
+## BasicSTDIStreamWrapper::ReadByte method
+
+
+Wenn der Wrap‑Modus binär ist, liest er ein einzelnes Byte aus dem Speicher des zuletzt dekodierten Zeichens, andernfalls liest er ein einzelnes Zeichen aus dem Stream und konvertiert es in den Typ uint8_t.
+
+```cpp
+virtual int System::IO::BasicSTDIStreamWrapper<T, typename>::ReadByte() override
+```
+
+
+### ReturnValue
+
+Ein 32‑Bit‑Ganzzahlwert, der dem Ergebnis des Lesens entspricht
+
+## Siehe auch
+
+* Class [BasicSTDIStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Font for C++](../../../)

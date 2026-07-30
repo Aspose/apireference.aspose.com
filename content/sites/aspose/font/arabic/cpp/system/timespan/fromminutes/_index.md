@@ -1,0 +1,33 @@
+---
+title: "طريقة System::TimeSpan::FromMinutes"
+linktitle: "FromMinutes"
+second_title: "Aspose.Font لـ C++"
+description: "طريقة System::TimeSpan::FromMinutes. تُرجع كائن TimeSpan جديد يمثل الفاصل المحدد في C++."
+type: docs
+weight: 3900
+url: /ar/cpp/system/timespan/fromminutes/
+---
+## TimeSpan::FromMinutes method
+
+
+تُرجع كائنًا جديدًا من نوع [TimeSpan](../) يمثل الفاصل المحدد.
+
+```cpp
+static TimeSpan System::TimeSpan::FromMinutes(double value)
+```
+
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| قيمة | double | الفاصل الزمني معبرًا عنه بعدد الدقائق. |
+
+### ReturnValue
+
+كائن [TimeSpan](../) جديد يمثل الفاصل المحدد.
+
+## انظر أيضًا
+
+* Class [TimeSpan](../)
+* Class [TimeSpan](../)
+* Namespace [System](../../)
+* Library [Aspose.Font for C++](../../../)

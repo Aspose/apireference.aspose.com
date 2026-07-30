@@ -1,0 +1,38 @@
+---
+title: "System::IO::FileStream::ReadAsync 方法"
+linktitle: "ReadAsync"
+second_title: "Aspose.Font 适用于 C++"
+description: "System::IO::FileStream::ReadAsync 方法。以异步方式从当前流读取一系列字节，按读取的字节数前移流中的位置，并在 C++ 中监视取消请求。"
+type: docs
+weight: 1400
+url: /zh/cpp/system.io/filestream/readasync/
+---
+## FileStream::ReadAsync method
+
+
+异步从当前流读取一系列字节，按读取的字节数前进流中的位置，并监视取消请求。
+
+```cpp
+RTaskPtr<int32_t> System::IO::FileStream::ReadAsync(const ArrayPtr<uint8_t> &buffer, int32_t offset, int32_t count, const Threading::CancellationToken &cancellationToken) override
+```
+
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| buffer | const ArrayPtr\<uint8_t\>\& | 用于写入读取字节的字节数组。 |
+| offset | int32_t | 在 **buffer** 中的 0 基位置，表示写入的起始位置。 |
+| count | int32_t | 要读取的字节数。 |
+| cancellationToken | const Threading::CancellationToken\& | 用于监视取消请求的令牌。 |
+
+### ReturnValue
+
+表示异步读取操作的任务。TResult 参数的值包含读取到 **buffer** 中的字节总数。如果当前可用的字节数少于请求的字节数，则结果值可能小于请求的字节数；如果已到达流的末尾，则结果值可能为 0（零）。
+
+## 另见
+
+* Typedef [RTaskPtr](../../../system/rtaskptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [CancellationToken](../../../system.threading/cancellationtoken/)
+* Class [FileStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Font for C++](../../../)

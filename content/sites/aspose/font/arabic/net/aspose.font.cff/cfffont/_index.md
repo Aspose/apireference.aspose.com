@@ -1,14 +1,14 @@
 ---
-title: CffFont
-second_title: Aspose.Font لمرجع .NET API
-description: يمثل تنسيق الخط المضغوط CFF .
+title: "الفئة CffFont"
+second_title: "مرجع API لـ Aspose.Font لـ .NET"
+description: "الفئة Aspose.Font.Cff.CffFont. تمثّل تنسيق الخط المدمج CFF"
 type: docs
 weight: 30
 url: /ar/net/aspose.font.cff/cfffont/
 ---
 ## CffFont class
 
-يمثل تنسيق الخط المضغوط (CFF) .
+يمثل تنسيق الخط المدمج (CFF).
 
 ```csharp
 public class CffFont : Font
@@ -16,42 +16,45 @@ public class CffFont : Font
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Encoding](../../aspose.font.cff/cfffont/encoding) { get; } | يحصل على ترميز الخط . |
-| override [FontDefinition](../../aspose.font.cff/cfffont/fontdefinition) { get; } | يحصل على تعريف الخط . |
-| override [FontFamily](../../aspose.font.cff/cfffont/fontfamily) { get; set; } | Gets Font family. لم يتم تنفيذ محدد مجموعة الخطوط بعد . |
-| override [FontName](../../aspose.font.cff/cfffont/fontname) { get; set; } | الحصول على اسم واجهة الخط . لم يتم تنفيذ محدد اسم الخط للخط بعد . |
-| override [FontNames](../../aspose.font.cff/cfffont/fontnames) { get; } | الحصول على أسماء الخطوط . |
-| [FontSaver](../../aspose.font/font/fontsaver) { get; } | يحصل على وظيفة حفظ الخط. |
-| override [FontStyle](../../aspose.font.cff/cfffont/fontstyle) { get; } | الحصول على نمط الخط. هذه قيمة محسوبة وممثلة في النوع المعمم . |
-| override [FontType](../../aspose.font.cff/cfffont/fonttype) { get; } | الحصول على نوع الخط. إرجاع نوع الخط. قيمة CFF . |
-| [GlyphAccessor](../../aspose.font/font/glyphaccessor) { get; } | موصّل الخط الرسومي. استرداد معرفات الحروف الرسومية والحروف الرسومية. |
-| override [GlyphIdType](../../aspose.font.cff/cfffont/glyphidtype) { get; } | الحصول على مواصفات نوع معرف الصورة الرمزية . |
-| [IsCidKeyedFont](../../aspose.font.cff/cfffont/iscidkeyedfont) { get; } | يحصل على قيمة تشير إلى أن الخط مرتبط بمفتاح تحكم. |
-| override [Metrics](../../aspose.font.cff/cfffont/metrics) { get; } | الحصول على مقاييس الخط. |
-| override [NumGlyphs](../../aspose.font.cff/cfffont/numglyphs) { get; } | الحصول على عدد الحروف الرسومية في الخط. |
-| override [PostscriptNames](../../aspose.font.cff/cfffont/postscriptnames) { get; } | يحصل على أسماء خطوط التذييل. |
-| override [Style](../../aspose.font.cff/cfffont/style) { get; set; } | Gets Font style. هذه قيمة سلسلة أولية يتم توفيرها بواسطة Font file. لم يتم تنفيذ محدد النمط بعد. |
+| [CommonFontsSettings](../../aspose.font.cff/cfffont/commonfontssettings/) { get; set; } | الحصول/التعيين الإعدادات المشتركة لخطوط CFF. تُستخدم هذه الإعدادات في سيناريوهات مختلفة ويمكن تغييرها لكل خط على حدة. |
+| override [Encoding](../../aspose.font.cff/cfffont/encoding/) { get; } | يحصل على ترميز الخط. |
+| override [FontDefinition](../../aspose.font.cff/cfffont/fontdefinition/) { get; } | يحصل على تعريف الخط. |
+| override [FontFamily](../../aspose.font.cff/cfffont/fontfamily/) { get; set; } | الحصول على عائلة الخط. لم يتم تنفيذ مُعيّن عائلة الخط بعد. |
+| override [FontName](../../aspose.font.cff/cfffont/fontname/) { get; set; } | الحصول أو التعيين لاسم واجهة الخط. |
+| override [FontNames](../../aspose.font.cff/cfffont/fontnames/) { get; } | الحصول على أسماء الخط. |
+| [FontSaver](../../aspose.font/font/fontsaver/) { get; } | يحصل على وظيفة حفظ الخط. |
+| override [FontStyle](../../aspose.font.cff/cfffont/fontstyle/) { get; } | يحصل على نمط الخط. هذه قيمة محسوبة وممثلة في نوع عام. |
+| override [FontType](../../aspose.font.cff/cfffont/fonttype/) { get; } | الحصول على نوع الخط. إرجاع قيمة FontType.CFF. |
+| [GlyphAccessor](../../aspose.font/font/glyphaccessor/) { get; } | مستخرج رموز الخط. يسترجع الرموز ومعرفات الرموز. |
+| override [GlyphIdType](../../aspose.font.cff/cfffont/glyphidtype/) { get; } | يحصل على مواصفات نوع معرف الرمز. |
+| [IsCidKeyedFont](../../aspose.font.cff/cfffont/iscidkeyedfont/) { get; } | الحصول على القيمة التي تشير إلى أن الخط يستخدم cid-keyed. |
+| override [Metrics](../../aspose.font.cff/cfffont/metrics/) { get; } | يحصل على مقاييس الخط. |
+| override [NumGlyphs](../../aspose.font.cff/cfffont/numglyphs/) { get; } | يحصل على عدد الرموز في الخط. |
+| override [PostscriptNames](../../aspose.font.cff/cfffont/postscriptnames/) { get; } | الحصول على أسماء الخط Postscript. |
+| override [Style](../../aspose.font.cff/cfffont/style/) { get; set; } | الحصول أو التعيين لنمط الخط. هذه قيمة نصية خام مقدمة من ملف الخط. |
+| [TopDictDataProvider](../../aspose.font.cff/cfffont/topdictdataprovider/) { get; } | الحصول على accessor لأول DICT من المستوى الأعلى في بنية Top DICT INDEX. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Convert](../../aspose.font.cff/cfffont/convert)(FontType) | تحويل الخط إلى تنسيق آخر. |
-| override [GetAllGlyphIds](../../aspose.font.cff/cfffont/getallglyphids)() | إرجاع مصفوفة لجميع معرفات الحروف الرسومية ، المتوفرة في Font . معرف Glyph هو رقم فريد للحرف الرسومي ، وهو نوع الخط المعتمد . CFF Font glyph id يمكن أن يكون مثيلًا لـ ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) فئة أو ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) class. |
-| override [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid#getglyphbyid)(GlyphId) | إرجاع الصورة الرمزية بواسطة معرف الصورة الرمزية . معرف الصورة الرمزية هو رقم فريد للحرف الرسومي ، وهو نوع الخط المعتمد . يمكن أن يكون معرف الصورة الرمزية للخط CFF مثيلًا لـ ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) فئة أو ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) class. |
-| [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid#getglyphbyid_1)(string) | إرجاع الصورة الرمزية باسم الصورة الرمزية. |
-| [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid#getglyphbyid_2)(uint) | إرجاع الصورة الرمزية بواسطة معرف الصورة الرمزية . |
-| virtual [GetGlyphsForText](../../aspose.font/font/getglyphsfortext)(string) | يحصل على تمثيل الحروف الرسومية للنص . |
-| virtual [Save](../../aspose.font/font/save)(Stream) | يحفظ الخط في التنسيق الأصلي. |
-| virtual [Save](../../aspose.font/font/save)(string) | يحفظ الخط في التنسيق الأصلي. |
-| [SaveToFormat](../../aspose.font/font/savetoformat)(Stream, FontSavingFormats) | يحفظ الخط بالتنسيق المحدد. |
+| override [Convert](../../aspose.font.cff/cfffont/convert/)(FontType) | يحوّل الخط إلى تنسيق آخر. |
+| override [GetAllGlyphIds](../../aspose.font.cff/cfffont/getallglyphids/)() | إرجاع مصفوفة من جميع معرفات glyph المتاحة في الخط. معرف glyph هو رقم فريد للglyph، يعتمد على نوع الخط. يمكن أن يكون معرف glyph لخط CFF مثالًا على الفئة ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid/)) أو الفئة ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id/)). |
+| override [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid/#getglyphbyid)(GlyphId) | إرجاع glyph حسب معرف glyph. معرف glyph هو رقم فريد للglyph، يعتمد على نوع الخط. يمكن أن يكون معرف glyph لخط CFF مثالًا على الفئة ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid/)) أو الفئة ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id/)). |
+| [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid/#getglyphbyid_1)(string) | إرجاع glyph حسب اسم glyph. |
+| [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid/#getglyphbyid_2)(uint) | يرجع الرمز حسب معرفه. |
+| virtual [GetGlyphsForText](../../aspose.font/font/getglyphsfortext/)(string) | الحصول على تمثيل glyphs للنص. |
+| [GetIndexDataProvider](../../aspose.font.cff/cfffont/getindexdataprovider/)(CffIndexProviderType) | الحصول على الموفر للنوع المحدد من بنية CFF INDEX. |
+| virtual [Save](../../aspose.font/font/save/)(Stream) | يحفظ الخط بالتنسيق الأصلي. |
+| virtual [Save](../../aspose.font/font/save/)(string) | يحفظ الخط بالتنسيق الأصلي. |
+| [SaveToFormat](../../aspose.font/font/savetoformat/)(Stream, FontSavingFormats) | يحفظ الخط بالتنسيق المحدد. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* class [Font](../../aspose.font/font)
-* مساحة الاسم [Aspose.Font.Cff](../../aspose.font.cff)
-* المجسم [Aspose.Font](../../)
+* class [Font](../../aspose.font/font/)
+* namespace [Aspose.Font.Cff](../../aspose.font.cff/)
+* assembly [Aspose.Font](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Font.dll -->
+

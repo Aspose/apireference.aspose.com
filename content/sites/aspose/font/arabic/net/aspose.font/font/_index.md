@@ -1,14 +1,14 @@
 ---
-title: Font
-second_title: Aspose.Font لمرجع .NET API
-description: يمثل فئة الخط الأساسية .
+title: "الفئة Font"
+second_title: "مرجع API لـ Aspose.Font لـ .NET"
+description: "الفئة Aspose.Font.Font. تمثل الفئة الأساسية للخط."
 type: docs
-weight: 120
+weight: 270
 url: /ar/net/aspose.font/font/
 ---
 ## Font class
 
-يمثل فئة الخط الأساسية .
+يمثل الفئة الأساسية Font.
 
 ```csharp
 public abstract class Font : IFont, IFontSaver, IGlyphAccessor
@@ -16,45 +16,45 @@ public abstract class Font : IFont, IFontSaver, IGlyphAccessor
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [Encoding](../../aspose.font/font/encoding) { get; } | يحصل على ترميز الخط . |
-| abstract [FontDefinition](../../aspose.font/font/fontdefinition) { get; } | يحصل على تعريف الخط . |
-| abstract [FontFamily](../../aspose.font/font/fontfamily) { get; set; } | الحصول على عائلة الخطوط أو تعيينها . |
-| abstract [FontName](../../aspose.font/font/fontname) { get; set; } | الحصول على اسم الخط أو تعيينه . |
-| abstract [FontNames](../../aspose.font/font/fontnames) { get; } | يحصل على أسماء الخطوط . |
-| [FontSaver](../../aspose.font/font/fontsaver) { get; } | يحصل على وظيفة حفظ الخط. |
-| abstract [FontStyle](../../aspose.font/font/fontstyle) { get; } | الحصول على نمط الخط. هذه قيمة محسوبة وممثلة في النوع المعمم . |
-| abstract [FontType](../../aspose.font/font/fonttype) { get; } | يحصل على نوع الخط. Type1 ، TrueType وما إلى ذلك. |
-| [GlyphAccessor](../../aspose.font/font/glyphaccessor) { get; } | موصّل الخط الرسومي. استرداد معرفات الحروف الرسومية والحروف الرسومية. |
-| abstract [GlyphIdType](../../aspose.font/font/glyphidtype) { get; } | مواصفات نوع معرف Glyph. للمستهلكين الذين يحتاجون إلى معرفة النوع الحقيقي "بايت []". |
-| abstract [Metrics](../../aspose.font/font/metrics) { get; } | الحصول على مقاييس الخط. |
-| abstract [NumGlyphs](../../aspose.font/font/numglyphs) { get; } | الحصول على عدد الحروف الرسومية في الخط. |
-| abstract [PostscriptNames](../../aspose.font/font/postscriptnames) { get; } | يحصل على أسماء خطوط التذييل. |
-| abstract [Style](../../aspose.font/font/style) { get; set; } | الحصول على نمط الخط أو تعيينه . هذه قيمة سلسلة أولية يتم توفيرها بواسطة ملف الخط. |
+| abstract [Encoding](../../aspose.font/font/encoding/) { get; } | يحصل على ترميز الخط. |
+| abstract [FontDefinition](../../aspose.font/font/fontdefinition/) { get; } | يحصل على تعريف الخط. |
+| abstract [FontFamily](../../aspose.font/font/fontfamily/) { get; set; } | يحصل أو يضبط عائلة الخط. |
+| abstract [FontName](../../aspose.font/font/fontname/) { get; set; } | يحصل أو يضبط اسم واجهة الخط. |
+| abstract [FontNames](../../aspose.font/font/fontnames/) { get; } | يحصل على أسماء الخط. |
+| [FontSaver](../../aspose.font/font/fontsaver/) { get; } | يحصل على وظيفة حفظ الخط. |
+| abstract [FontStyle](../../aspose.font/font/fontstyle/) { get; } | يحصل على نمط الخط. هذه قيمة محسوبة وممثلة في نوع عام. |
+| abstract [FontType](../../aspose.font/font/fonttype/) { get; } | يحصل على نوع الخط. Type1، TrueType، إلخ. |
+| [GlyphAccessor](../../aspose.font/font/glyphaccessor/) { get; } | مستخرج رموز الخط. يسترجع الرموز ومعرفات الرموز. |
+| abstract [GlyphIdType](../../aspose.font/font/glyphidtype/) { get; } | مواصفات نوع معرف الحرف. للمستهلكين الذين يحتاجون إلى معرفة النوع الحقيقي لـ 'bytes[]'. |
+| abstract [Metrics](../../aspose.font/font/metrics/) { get; } | يحصل على مقاييس الخط. |
+| abstract [NumGlyphs](../../aspose.font/font/numglyphs/) { get; } | يحصل على عدد الرموز في الخط. |
+| abstract [PostscriptNames](../../aspose.font/font/postscriptnames/) { get; } | الحصول على أسماء الخط Postscript. |
+| abstract [Style](../../aspose.font/font/style/) { get; set; } | يحصل أو يضبط نمط الخط. هذه قيمة نصية خام مقدمة من ملف الخط. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Open](../../aspose.font/font/open#open_3)(FontDefinition) | يفتح خطًا باستخدام كائن FontDefinition . |
-| static [Open](../../aspose.font/font/open#open_1)(FontType, byte[]) | يفتح خطًا ، باستخدام نوع الخط ومجموعة بايت بيانات الخط. |
-| static [Open](../../aspose.font/font/open#open)(FontType, StreamSource) | يفتح خطًا ، باستخدام نوع الخط ومصدر الدفق. |
-| static [Open](../../aspose.font/font/open#open_2)(FontType, string) | فتح خط باستخدام نوع الخط واسم ملف الخط. |
-| abstract [Convert](../../aspose.font/font/convert)(FontType) | تحويل الخط إلى تنسيق آخر. |
-| abstract [GetAllGlyphIds](../../aspose.font/font/getallglyphids)() | إرجاع جميع معرفات الحروف الرسومية ، المتوفرة في الخط. معرف Glyph هو رقم فريد للحرف الرسومي ، وهو نوع الخط المعتمد. على سبيل المثال: معرف النوع 1 هو اسم الصورة الرمزية ، مثيل ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class. معرف TTF هو فهرس int ، مثيل ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) class. |
-| abstract [GetGlyphById](../../aspose.font/font/getglyphbyid)(GlyphId) | إرجاع الصورة الرمزية بواسطة معرف الصورة الرمزية. GlyphId - كائن مشتق. على سبيل المثال: معرف Type1 هو اسم حرف رسومي ، مثيل لـ ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class. معرف TTF هو فهرس int ، مثيل ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) class. |
-| virtual [GetGlyphsForText](../../aspose.font/font/getglyphsfortext)(string) | يحصل على تمثيل الحروف الرسومية للنص . |
-| virtual [Save](../../aspose.font/font/save#save)(Stream) | يحفظ الخط في التنسيق الأصلي. |
-| virtual [Save](../../aspose.font/font/save#save_1)(string) | يحفظ الخط في التنسيق الأصلي. |
-| [SaveToFormat](../../aspose.font/font/savetoformat)(Stream, FontSavingFormats) | يحفظ الخط بالتنسيق المحدد. |
+| static [Open](../../aspose.font/font/open/#open_3)(FontDefinition) | يفتح خطًا باستخدام كائن FontDefinition. |
+| static [Open](../../aspose.font/font/open/#open_1)(FontType, byte[]) | يفتح خطًا باستخدام نوع الخط ومصفوفة بايتات بيانات الخط. |
+| static [Open](../../aspose.font/font/open/#open)(FontType, StreamSource) | يفتح خطًا باستخدام نوع الخط ومصدر التيار. |
+| static [Open](../../aspose.font/font/open/#open_2)(FontType, string) | يفتح خطًا باستخدام نوع الخط واسم ملف الخط. |
+| abstract [Convert](../../aspose.font/font/convert/)(FontType) | يحوّل الخط إلى تنسيق آخر. |
+| abstract [GetAllGlyphIds](../../aspose.font/font/getallglyphids/)() | يعيد جميع معرفات الحروف المتاحة في الخط. معرف الحرف هو رقم فريد لحرف، يعتمد على نوع الخط. على سبيل المثال: معرف Type1 هو اسم الحرف، وهو مثال على الفئة ([`GlyphStringId`](../../aspose.font/glyphs/glyphstringid/)) class. معرف TTF هو فهرس عدد صحيح، وهو مثال على الفئة ([`GlyphUInt32Id`](../../aspose.font/glyphs/glyphuint32id/)) class. |
+| abstract [GetGlyphById](../../aspose.font/font/getglyphbyid/)(GlyphId) | يرجع الحرف وفقًا لمعرّف الحرف. معرّف الحرف هو رقم فريد للحرف، يعتمد على نوع الخط. GlyphId - كائن مشتق. على سبيل المثال: معرّف Type1 هو اسم الحرف، وهو مثال على فئة ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid/)). معرّف TTF هو فهرس عدد صحيح، وهو مثال على فئة ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id/)). |
+| virtual [GetGlyphsForText](../../aspose.font/font/getglyphsfortext/)(string) | الحصول على تمثيل glyphs للنص. |
+| virtual [Save](../../aspose.font/font/save/#save)(Stream) | يحفظ الخط بالتنسيق الأصلي. |
+| virtual [Save](../../aspose.font/font/save/#save_1)(string) | يحفظ الخط بالتنسيق الأصلي. |
+| [SaveToFormat](../../aspose.font/font/savetoformat/)(Stream, FontSavingFormats) | يحفظ الخط بالتنسيق المحدد. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* interface [IFont](../ifont)
-* interface [IFontSaver](../ifontsaver)
-* interface [IGlyphAccessor](../../aspose.font.glyphs/iglyphaccessor)
-* مساحة الاسم [Aspose.Font](../../aspose.font)
-* المجسم [Aspose.Font](../../)
+* interface [IFont](../ifont/)
+* interface [IFontSaver](../ifontsaver/)
+* interface [IGlyphAccessor](../../aspose.font.glyphs/iglyphaccessor/)
+* namespace [Aspose.Font](../../aspose.font/)
+* assembly [Aspose.Font](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Font.dll -->
+

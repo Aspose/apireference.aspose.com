@@ -1,0 +1,23 @@
+---
+title: "System::Xml::Schema::XmlSchemaMaxInclusiveFacet::Ptr typedef"
+linktitle: "Ptr"
+second_title: "Aspose.Font für C++"
+description: "System::Xml::Schema::XmlSchemaMaxInclusiveFacet::Ptr typedef. Ein Alias für einen Shared Pointer zu einer Instanz dieser Klasse in C++."
+type: docs
+weight: 200
+url: /de/cpp/system.xml.schema/xmlschemamaxinclusivefacet/ptr/
+---
+## Ptr typedef
+
+
+Ein Alias für einen Shared‑Pointer auf eine Instanz dieser Klasse.
+
+```cpp
+using System::Xml::Schema::XmlSchemaMaxInclusiveFacet::Ptr =  SharedPtr<XmlSchemaMaxInclusiveFacet>
+```
+
+## Siehe auch
+
+* Class [XmlSchemaMaxInclusiveFacet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Font for C++](../../../)

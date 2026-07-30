@@ -1,7 +1,7 @@
 ---
-title: FontDefinition
-second_title: Aspose.Font for .NET API 参考
-description: 创建单文件字体定义
+title: "FontDefinition.FontDefinition"
+second_title: "Aspose.Font for .NET API 参考"
+description: "FontDefinition 构造函数。创建单文件字体定义。"
 type: docs
 weight: 10
 url: /zh/net/aspose.font.sources/fontdefinition/fontdefinition/
@@ -14,19 +14,19 @@ url: /zh/net/aspose.font.sources/fontdefinition/fontdefinition/
 public FontDefinition(FontType fontType, string fileExtension, StreamSource streamSource)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | fontType | FontType | 字体类型。 |
 | fileExtension | String | 字体文件扩展名。 |
-| streamSource | StreamSource | 字体流源。 |
+| streamSource | StreamSource | 字体流来源。 |
 
-### 也可以看看
+### 另见
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [StreamSource](../../streamsource)
-* class [FontDefinition](../../fontdefinition)
-* 命名空间 [Aspose.Font.Sources](../../fontdefinition)
-* 部件 [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [StreamSource](../../streamsource/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
@@ -38,18 +38,18 @@ public FontDefinition(FontType fontType, string fileExtension, StreamSource stre
 public FontDefinition(FontType fontType, StreamSource streamSource)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | fontType | FontType | 字体类型。 |
-| streamSource | StreamSource | 字体流源。 |
+| streamSource | StreamSource | 字体流来源。 |
 
-### 也可以看看
+### 另见
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [StreamSource](../../streamsource)
-* class [FontDefinition](../../fontdefinition)
-* 命名空间 [Aspose.Font.Sources](../../fontdefinition)
-* 部件 [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [StreamSource](../../streamsource/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
@@ -62,20 +62,20 @@ public FontDefinition(string fontName, FontType fontType, string fileExtension,
     StreamSource streamSource)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | fontName | String | 字体名称。 |
 | fontType | FontType | 字体类型。 |
 | fileExtension | String | 字体文件扩展名。 |
-| streamSource | StreamSource | 字体流源。 |
+| streamSource | StreamSource | 字体流来源。 |
 
-### 也可以看看
+### 另见
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [StreamSource](../../streamsource)
-* class [FontDefinition](../../fontdefinition)
-* 命名空间 [Aspose.Font.Sources](../../fontdefinition)
-* 部件 [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [StreamSource](../../streamsource/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
@@ -87,18 +87,18 @@ public FontDefinition(string fontName, FontType fontType, string fileExtension,
 public FontDefinition(FontType fontType, FontFileDefinition fileDefinition)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | fontType | FontType | 字体类型。 |
-| fileDefinition | FontFileDefinition | 字体文件定义。 |
+| fileDefinition | FontFileDefinition | FontFileDefinition. |
 
-### 也可以看看
+### 另见
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* 命名空间 [Aspose.Font.Sources](../../fontdefinition)
-* 部件 [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
@@ -110,19 +110,19 @@ public FontDefinition(FontType fontType, FontFileDefinition fileDefinition)
 public FontDefinition(string fontName, FontType fontType, FontFileDefinition fileDefinition)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | fontName | String | 字体名称。 |
 | fontType | FontType | 字体类型。 |
-| fileDefinition | FontFileDefinition | 字体文件定义。 |
+| fileDefinition | FontFileDefinition | FontFileDefinition. |
 
-### 也可以看看
+### 另见
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* 命名空间 [Aspose.Font.Sources](../../fontdefinition)
-* 部件 [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
@@ -135,20 +135,20 @@ public FontDefinition(string fontName, string postscriptName, FontType fontType,
     FontFileDefinition fileDefinition)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | fontName | String | 字体名称。 |
 | postscriptName | String | Postscript 字体名称。 |
 | fontType | FontType | 字体类型。 |
-| fileDefinition | FontFileDefinition | 字体文件定义。 |
+| fileDefinition | FontFileDefinition | FontFileDefinition. |
 
-### 也可以看看
+### 另见
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* 命名空间 [Aspose.Font.Sources](../../fontdefinition)
-* 部件 [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
@@ -160,18 +160,18 @@ public FontDefinition(string fontName, string postscriptName, FontType fontType,
 public FontDefinition(FontType fontType, FontFileDefinition[] fileDefinitions)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | fontType | FontType | 字体类型。 |
-| fileDefinitions | FontFileDefinition[] | FontFileDefinition 对象数组。 |
+| fileDefinitions | FontFileDefinition[] | FontFileDefinition 对象的数组。 |
 
-### 也可以看看
+### 另见
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* 命名空间 [Aspose.Font.Sources](../../fontdefinition)
-* 部件 [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
@@ -184,20 +184,20 @@ public FontDefinition(string fontName, string postscriptName, FontType fontType,
     FontFileDefinition[] fileDefinitions)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | fontName | String | 字体名称。 |
 | postscriptName | String | Postscript 字体名称。 |
 | fontType | FontType | 字体类型。 |
-| fileDefinitions | FontFileDefinition[] | FontFileDefinition 对象数组。 |
+| fileDefinitions | FontFileDefinition[] | FontFileDefinition 对象的数组。 |
 
-### 也可以看看
+### 另见
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* 命名空间 [Aspose.Font.Sources](../../fontdefinition)
-* 部件 [Aspose.Font](../../../)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
@@ -210,21 +210,21 @@ public FontDefinition(MultiLanguageString fontNames, MultiLanguageString postscr
     FontType fontType, FontFileDefinition fileDefinition)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | fontNames | MultiLanguageString | 字体名称。 |
 | postscriptNames | MultiLanguageString | Postscript 字体名称。 |
 | fontType | FontType | 字体类型。 |
-| fileDefinition | FontFileDefinition | 字体文件定义。 |
+| fileDefinition | FontFileDefinition | FontFileDefinition. |
 
-### 也可以看看
+### 另见
 
-* class [MultiLanguageString](../../../aspose.font/multilanguagestring)
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* 命名空间 [Aspose.Font.Sources](../../fontdefinition)
-* 部件 [Aspose.Font](../../../)
+* class [MultiLanguageString](../../../aspose.font/multilanguagestring/)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
@@ -237,20 +237,20 @@ public FontDefinition(MultiLanguageString fontNames, MultiLanguageString postscr
     FontType fontType, FontFileDefinition[] fileDefinitions)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | fontNames | MultiLanguageString | 字体名称。 |
 | postscriptNames | MultiLanguageString | Postscript 字体名称。 |
 | fontType | FontType | 字体类型。 |
-| fileDefinitions | FontFileDefinition[] | FontFileDefinition 对象数组。 |
+| fileDefinitions | FontFileDefinition[] | FontFileDefinition 对象的数组。 |
 
-### 也可以看看
+### 另见
 
-* class [MultiLanguageString](../../../aspose.font/multilanguagestring)
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* 命名空间 [Aspose.Font.Sources](../../fontdefinition)
-* 部件 [Aspose.Font](../../../)
+* class [MultiLanguageString](../../../aspose.font/multilanguagestring/)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
+* assembly [Aspose.Font](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Font.dll -->
+

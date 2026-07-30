@@ -1,0 +1,37 @@
+---
+title: "System::Net::Http::Headers::ContentDispositionHeaderValue::GetDispositionTypeLength 方法"
+linktitle: "GetDispositionTypeLength"
+second_title: "Aspose.Font 适用于 C++"
+description: "System::Net::Http::Headers::ContentDispositionHeaderValue::GetDispositionTypeLength 方法。将传入的字符串从指定索引位置转换为 C++ 中的 ContentDispositionHeaderValue 类的实例。"
+type: docs
+weight: 2200
+url: /zh/cpp/system.net.http.headers/contentdispositionheadervalue/getdispositiontypelength/
+---
+## ContentDispositionHeaderValue::GetDispositionTypeLength method
+
+
+将传入的字符串从指定索引转换为 [ContentDispositionHeaderValue](../) 类的实例。
+
+```cpp
+static int32_t System::Net::Http::Headers::ContentDispositionHeaderValue::GetDispositionTypeLength(String input, int32_t startIndex, System::SharedPtr<Object> &parsedValue)
+```
+
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| 输入 | String | 要解析的字符串。 |
+| startIndex | int32_t | 用于解析的起始位置。 |
+| parsedValue | System::SharedPtr\<Object\>\& | 已解析对象将被分配的实例。 |
+
+### ReturnValue
+
+已解析子字符串的长度，否则为 0。
+
+## 另见
+
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [ContentDispositionHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Font for C++](../../../)

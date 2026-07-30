@@ -33,6 +33,15 @@ is_root: true
 | [AsposeFontSetInfo](./metadata/asposefontsetinfo/) | Set info (metadata) in a Font-file. |
 
 
+## Glyph Font functions
+
+| Function | Description |
+| -------- | ----------- |
+| [AsposeFontGetGlyphCount](./glyph/asposefontgetglyphcount/) | Get glyph count of font. |
+| [AsposeFontGetMetrics](./glyph/asposefontgetmetrics/) | Get metrics of font. |
+| [AsposeFontGetGlyphNames](./glyph/asposefontgetglyphnames/) | Get glyph names of font. |
+
+
 ## Miscellaneous
 
 |      Name      |  Description   |

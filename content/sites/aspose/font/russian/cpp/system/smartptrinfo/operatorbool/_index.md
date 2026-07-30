@@ -1,0 +1,28 @@
+---
+title: "System::SmartPtrInfo::operator bool метод"
+linktitle: "operator bool"
+second_title: "Aspose.Font для C++"
+description: "System::SmartPtrInfo::operator bool метод. Проверяет, указывает ли объект info на ненулевой указатель в C++."
+type: docs
+weight: 500
+url: /ru/cpp/system/smartptrinfo/operatorbool/
+---
+## SmartPtrInfo::operator bool method
+
+
+Проверяет, указывает ли объект info на ненулевой указатель.
+
+```cpp
+System::SmartPtrInfo::operator bool() const
+```
+
+
+### ReturnValue
+
+Истина, если объект info указывает на указатель и этот указатель не равен null, иначе ложь.
+
+## См. также
+
+* Class [SmartPtrInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Font for C++](../../../)

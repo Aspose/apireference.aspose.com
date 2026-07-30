@@ -1,0 +1,29 @@
+---
+title: "System::Attribute class"
+linktitle: "Attribute"
+second_title: "Aspose.Font для C++"
+description: "System::Attribute class. Базовый класс для пользовательских атрибутов. Объекты этого класса должны создаваться только с помощью функции System::MakeObject() . Никогда не создавайте экземпляр этого типа в стеке или с помощью оператора new, так как это приведёт к ошибкам выполнения и/или сбоям утверждений. Всегда оборачивайте этот класс в указатель System::SmartPtr и используйте этот указатель для передачи его в функции в качестве аргумента в C++."
+type: docs
+weight: 400
+url: /ru/cpp/system/attribute/
+---
+## Attribute class
+
+
+Базовый класс для пользовательских атрибутов. Объекты этого класса должны создаваться только с помощью функции [System::MakeObject()](../makeobject/). Никогда не создавайте экземпляр этого типа в стеке или с помощью оператора new, так как это приведёт к ошибкам выполнения и/или сбоям утверждений. Всегда оборачивайте этот класс в указатель [System::SmartPtr](../smartptr/) и используйте этот указатель для передачи его в функции в качестве аргумента.
+
+```cpp
+class Attribute : public System::Object
+```
+
+## Методы
+
+| Метод | Описание |
+| --- | --- |
+| static [GetCustomAttribute](./getcustomattribute/)(const TypeInfo\&, const TypeInfo\&) | Возвращает пользовательский атрибут указанного типа, применённый к указанному типу. |
+| static [GetCustomAttributes](./getcustomattributes/)(const TypeInfo\&) | Возвращает все пользовательские атрибуты, применённые к указанному типу. |
+## См. также
+
+* Class [Object](../object/)
+* Namespace [System](../)
+* Library [Aspose.Font for C++](../../)

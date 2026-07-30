@@ -1,129 +1,129 @@
 ---
-title: RenderGlyph
-second_title: Aspose.Font لمرجع .NET API
-description: يعرض الصورة الرمزية .
+title: "IGlyphRenderer.RenderGlyph"
+second_title: "مرجع API لـ Aspose.Font لـ .NET"
+description: "طريقة IGlyphRenderer. تقوم برسم الحرف"
 type: docs
 weight: 10
 url: /ar/net/aspose.font.renderers/iglyphrenderer/renderglyph/
 ---
 ## RenderGlyph(IFont, uint) {#renderglyph_3}
 
-يعرض الصورة الرمزية .
+يقوم برسم الحرف.
 
 ```csharp
 public void RenderGlyph(IFont font, uint glyphIndex)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| font | IFont | الخط الذي يحتوي على الصورة الرمزية. |
-| glyphIndex | UInt32 | فهرس الصورة الرمزية المادي داخل الخط. لاحظ أن هذا ليس يونيكود. |
+| الخط | IFont | الخط الذي يحتوي على الحرف. |
+| glyphIndex | UInt32 | فهرس الحرف الفيزيائي داخل الخط. لاحظ أن هذا ليس يونيكود. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* interface [IFont](../../../aspose.font/ifont)
-* interface [IGlyphRenderer](../../iglyphrenderer)
-* مساحة الاسم [Aspose.Font.Renderers](../../iglyphrenderer)
-* المجسم [Aspose.Font](../../../)
+* interface [IFont](../../../aspose.font/ifont/)
+* interface [IGlyphRenderer](../)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## RenderGlyph(IFont, uint, TransformationMatrix) {#renderglyph_4}
 
-يعرض الصورة الرمزية .
+يقوم برسم الحرف.
 
 ```csharp
 public void RenderGlyph(IFont font, uint glyphIndex, TransformationMatrix glyphPlacementMatrix)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| font | IFont | الخط الذي يحتوي على الصورة الرمزية. |
-| glyphIndex | UInt32 | فهرس الصورة الرمزية المادي داخل الخط. لاحظ أن هذا ليس يونيكود. |
-| glyphPlacementMatrix | TransformationMatrix | المصفوفة التي يتم تطبيقها على إحداثيات الصورة الرمزية. |
+| الخط | IFont | الخط الذي يحتوي على الحرف. |
+| glyphIndex | UInt32 | فهرس الحرف الفيزيائي داخل الخط. لاحظ أن هذا ليس يونيكود. |
+| glyphPlacementMatrix | TransformationMatrix | المصفوفة التي تُطبق على إحداثيات الحرف. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* interface [IFont](../../../aspose.font/ifont)
-* class [TransformationMatrix](../../../aspose.font/transformationmatrix)
-* interface [IGlyphRenderer](../../iglyphrenderer)
-* مساحة الاسم [Aspose.Font.Renderers](../../iglyphrenderer)
-* المجسم [Aspose.Font](../../../)
+* interface [IFont](../../../aspose.font/ifont/)
+* class [TransformationMatrix](../../../aspose.font/transformationmatrix/)
+* interface [IGlyphRenderer](../)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## RenderGlyph(IFont, GlyphId) {#renderglyph}
 
-يعرض الصورة الرمزية .
+يقوم برسم الحرف.
 
 ```csharp
 public void RenderGlyph(IFont font, GlyphId glyphId)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| font | IFont | الخط الذي يحتوي على الصورة الرمزية. |
-| glyphId | GlyphId | فهرس الصورة الرمزية المادي داخل الخط. لاحظ أن هذا ليس يونيكود. |
+| الخط | IFont | الخط الذي يحتوي على الحرف. |
+| glyphId | GlyphId | فهرس الحرف الفيزيائي داخل الخط. لاحظ أن هذا ليس يونيكود. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* interface [IFont](../../../aspose.font/ifont)
-* class [GlyphId](../../../aspose.font.glyphs/glyphid)
-* interface [IGlyphRenderer](../../iglyphrenderer)
-* مساحة الاسم [Aspose.Font.Renderers](../../iglyphrenderer)
-* المجسم [Aspose.Font](../../../)
+* interface [IFont](../../../aspose.font/ifont/)
+* class [GlyphId](../../../aspose.font.glyphs/glyphid/)
+* interface [IGlyphRenderer](../)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## RenderGlyph(IFont, GlyphId, TransformationMatrix) {#renderglyph_2}
 
-يعرض الصورة الرمزية .
+يقوم برسم الحرف.
 
 ```csharp
 public void RenderGlyph(IFont font, GlyphId glyphId, TransformationMatrix glyphPlacementMatrix)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| font | IFont | الخط الذي يحتوي على الصورة الرمزية. |
-| glyphId | GlyphId | فهرس الصورة الرمزية المادي داخل الخط. لاحظ أن هذا ليس يونيكود. |
-| glyphPlacementMatrix | TransformationMatrix | المصفوفة التي يتم تطبيقها على إحداثيات الصورة الرمزية. |
+| الخط | IFont | الخط الذي يحتوي على الحرف. |
+| glyphId | GlyphId | فهرس الحرف الفيزيائي داخل الخط. لاحظ أن هذا ليس يونيكود. |
+| glyphPlacementMatrix | TransformationMatrix | المصفوفة التي تُطبق على إحداثيات الحرف. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* interface [IFont](../../../aspose.font/ifont)
-* class [GlyphId](../../../aspose.font.glyphs/glyphid)
-* class [TransformationMatrix](../../../aspose.font/transformationmatrix)
-* interface [IGlyphRenderer](../../iglyphrenderer)
-* مساحة الاسم [Aspose.Font.Renderers](../../iglyphrenderer)
-* المجسم [Aspose.Font](../../../)
+* interface [IFont](../../../aspose.font/ifont/)
+* class [GlyphId](../../../aspose.font.glyphs/glyphid/)
+* class [TransformationMatrix](../../../aspose.font/transformationmatrix/)
+* interface [IGlyphRenderer](../)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
+* assembly [Aspose.Font](../../../)
 
 ---
 
 ## RenderGlyph(IFont, GlyphId, Glyph, TransformationMatrix) {#renderglyph_1}
 
-عرض الصورة الرمزية ، أحد أهداف هذه النسخة المحملة بشكل زائد - لاستخدامها مع ذاكرة التخزين المؤقت للصور الرسومية.
+يقوم برسم الحرف، وهو هدف هذا الإصدار المحمَّل - لاستخدامه مع ذاكرة التخزين المؤقتة للحروف.
 
 ```csharp
 public void RenderGlyph(IFont font, GlyphId glyphId, Glyph glyph, 
     TransformationMatrix glyphPlacementMatrix)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| font | IFont | الخط الذي يحتوي على الصورة الرمزية. |
-| glyphId | GlyphId | فهرس الصورة الرمزية المادي داخل الخط. لاحظ أن هذا ليس يونيكود. |
-| glyph | Glyph | الصورة الرمزية المطلوب عرضها. |
-| glyphPlacementMatrix | TransformationMatrix | المصفوفة التي يتم تطبيقها على إحداثيات الصورة الرمزية. |
+| الخط | IFont | الخط الذي يحتوي على الحرف. |
+| glyphId | GlyphId | فهرس الحرف الفيزيائي داخل الخط. لاحظ أن هذا ليس يونيكود. |
+| الحرف | حرف | الحرف للتصوير. |
+| glyphPlacementMatrix | TransformationMatrix | المصفوفة التي تُطبق على إحداثيات الحرف. |
 
-### أنظر أيضا
+### انظر أيضاً
 
-* interface [IFont](../../../aspose.font/ifont)
-* class [GlyphId](../../../aspose.font.glyphs/glyphid)
-* class [Glyph](../../../aspose.font.glyphs/glyph)
-* class [TransformationMatrix](../../../aspose.font/transformationmatrix)
-* interface [IGlyphRenderer](../../iglyphrenderer)
-* مساحة الاسم [Aspose.Font.Renderers](../../iglyphrenderer)
-* المجسم [Aspose.Font](../../../)
+* interface [IFont](../../../aspose.font/ifont/)
+* class [GlyphId](../../../aspose.font.glyphs/glyphid/)
+* class [Glyph](../../../aspose.font.glyphs/glyph/)
+* class [TransformationMatrix](../../../aspose.font/transformationmatrix/)
+* interface [IGlyphRenderer](../)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
+* assembly [Aspose.Font](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Font.dll -->
+

@@ -1,0 +1,102 @@
+---
+title: "System::String::TrimEnd метод"
+linktitle: "TrimEnd"
+second_title: "Aspose.Font для C++"
+description: "System::String::TrimEnd метод. Удаляет все пробельные символы с конца строки в C++."
+type: docs
+weight: 5900
+url: /ru/cpp/system/string/trimend/
+---
+## String::TrimEnd() const method
+
+
+Удаляет все пробельные символы в конце строки.
+
+```cpp
+String System::String::TrimEnd() const
+```
+
+
+### ReturnValue
+
+[String](../) with no whitespaces at beginning.
+
+## См. также
+
+* Class [String](../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Font for C++](../../../)
+## String::TrimEnd(char_t) const method
+
+
+Удаляет все вхождения переданного символа в конце строки.
+
+```cpp
+String System::String::TrimEnd(char_t ch) const
+```
+
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| ch | char_t | Символ для удаления. |
+
+### ReturnValue
+
+Результат удаления.
+
+## См. также
+
+* Class [String](../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Font for C++](../../../)
+## String::TrimEnd(const ArrayPtr\<char_t\>\&) const method
+
+
+Удаляет все вхождения переданных символов в конце строки.
+
+```cpp
+String System::String::TrimEnd(const ArrayPtr<char_t> &anyOf) const
+```
+
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| anyOf | const ArrayPtr\<char_t\>\& | [Array](../../array/) символов для удаления. |
+
+### ReturnValue
+
+[String](../) without removed characters.
+
+## См. также
+
+* Class [String](../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Font for C++](../../../)
+## String::TrimEnd(const String\&) const method
+
+
+Удаляет все вхождения переданных символов в конце строки.
+
+```cpp
+String System::String::TrimEnd(const String &anyOf) const
+```
+
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| anyOf | const String\& | [String](../) символов для удаления. |
+
+### ReturnValue
+
+[String](../) without removed characters.
+
+## См. также
+
+* Class [String](../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Font for C++](../../../)

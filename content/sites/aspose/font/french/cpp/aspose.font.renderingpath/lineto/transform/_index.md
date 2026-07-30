@@ -1,0 +1,30 @@
+---
+title: "Aspose::Font::RenderingPath::LineTo::Transform méthode"
+linktitle: "Transformation"
+second_title: "Aspose.Font pour C++"
+description: "Aspose::Font::RenderingPath::LineTo::Transform méthode. Transforme les coordonnées avec la matrice de transformation en C++."
+type: docs
+weight: 800
+url: /fr/cpp/aspose.font.renderingpath/lineto/transform/
+---
+## LineTo::Transform method
+
+
+Transforme les coordonnées avec la matrice de transformation.
+
+```cpp
+void Aspose::Font::RenderingPath::LineTo::Transform(System::SharedPtr<TransformationMatrix> matrix) override
+```
+
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| matrice | System::SharedPtr\<TransformationMatrix\> | Matrice de transformation. |
+
+## Voir aussi
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TransformationMatrix](../../../aspose.font/transformationmatrix/)
+* Class [LineTo](../)
+* Namespace [Aspose::Font::RenderingPath](../../)
+* Library [Aspose.Font for C++](../../../)

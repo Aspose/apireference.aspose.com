@@ -1,0 +1,52 @@
+---
+title: "System::Collections::Generic::IEnumerable::LINQ_Min method"
+linktitle: "LINQ_Min"
+second_title: "Aspose.Font 适用于 C++"
+description: "如何在 C++ 中使用 System::Collections::Generic::IEnumerable 类的 LINQ_Min 方法。"
+type: docs
+weight: 2100
+url: /zh/cpp/system.collections.generic/ienumerable/linq_min/
+---
+## IEnumerable::LINQ_Min(const Func\<Source, ResultType\>\&) method
+
+
+
+
+```cpp
+template<typename ResultType> ResultType System::Collections::Generic::IEnumerable<T>::LINQ_Min(const Func<Source, ResultType> &selector)
+```
+
+## 另见
+
+* Class [Func](../../../system/func/)
+* Class [IEnumerable](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Font for C++](../../../)
+## IEnumerable::LINQ_Min(const Func\<T, ResultType\>\&) method
+
+
+对通用序列的每个元素调用转换函数，并返回最小结果值。
+
+```cpp
+template<typename ResultType> ResultType System::Collections::Generic::IEnumerable<T>::LINQ_Min(const Func<T, ResultType> &selector)
+```
+
+
+| 参数 | 描述 |
+| --- | --- |
+| ResultType | selector 返回的值的类型。 |
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| selector | const Func\<T, ResultType\>\& | 一个用于对每个元素进行转换的函数。 |
+
+### ReturnValue
+
+序列中的最小值。
+
+## 另见
+
+* Class [Func](../../../system/func/)
+* Class [IEnumerable](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Font for C++](../../../)

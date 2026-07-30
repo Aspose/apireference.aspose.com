@@ -1,0 +1,29 @@
+---
+title: "System::Globalization::DateTimeFormatInfo::get_LongDatePattern метод"
+linktitle: "get_LongDatePattern"
+second_title: "Aspose.Font для C++"
+description: "System::Globalization::DateTimeFormatInfo::get_LongDatePattern метод. Возвращает длинный шаблон даты в C++."
+type: docs
+weight: 1400
+url: /ru/cpp/system.globalization/datetimeformatinfo/get_longdatepattern/
+---
+## DateTimeFormatInfo::get_LongDatePattern method
+
+
+Получает шаблон длительной даты.
+
+```cpp
+String System::Globalization::DateTimeFormatInfo::get_LongDatePattern() const
+```
+
+
+### ReturnValue
+
+Строка формата.
+
+## См. также
+
+* Class [String](../../../system/string/)
+* Class [DateTimeFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Font for C++](../../../)

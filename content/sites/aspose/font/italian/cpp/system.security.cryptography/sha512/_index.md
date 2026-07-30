@@ -1,0 +1,29 @@
+---
+title: "System::Security::Cryptography::SHA512 class"
+linktitle: "SHA512"
+second_title: "Aspose.Font per C++"
+description: "System::Security::Cryptography::SHA512 class. Calcola l'hash SHA512 per i dati di input. In C++ SHA512 non è una classe astratta. Gli oggetti di questa classe devono essere allocati solo utilizzando la funzione System::MakeObject() function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into System::SmartPtr pointer and use this pointer to pass it to functions as argument in C++."
+type: docs
+weight: 4700
+url: /it/cpp/system.security.cryptography/sha512/
+---
+## SHA512 class
+
+
+Calcola l'hash [SHA512](./) per i dati di input. In C++ [SHA512](./) non è una classe astratta. Gli oggetti di questa classe devono essere allocati solo utilizzando la funzione [System::MakeObject()](../../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../../system/smartptr/) pointer and use this pointer to pass it to functions as argument.
+
+```cpp
+class SHA512 : public System::Security::Cryptography::HashAlgorithm
+```
+
+## Metodi
+
+| Metodo | Descrizione |
+| --- | --- |
+| static [Create](./create/)() | Crea un'istanza dell'algoritmo di hash. |
+| static [Create](./create/)(const String\&) | Crea un'istanza dell'algoritmo di hash. |
+## Vedi anche
+
+* Class [HashAlgorithm](../hashalgorithm/)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Font for C++](../../)
