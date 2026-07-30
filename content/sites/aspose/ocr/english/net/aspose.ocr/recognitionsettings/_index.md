@@ -3,7 +3,7 @@ title: RecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the image recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 460
+weight: 470
 url: /net/aspose.ocr/recognitionsettings/
 ---
 ## RecognitionSettings class
@@ -29,6 +29,7 @@ public class RecognitionSettings : BaseRecognitionSettings
 | [AllowedSymbols](../../aspose.ocr/baserecognitionsettings/allowedsymbols) { get; set; } | Set the allowed characters with alphabet property. |
 | [AutomaticColorInversion](../../aspose.ocr/baserecognitionsettings/automaticcolorinversion) { get; set; } | Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them. |
 | [DetectAreasMode](../../aspose.ocr/recognitionsettings/detectareasmode) { get; set; } | Allows to select the optimal mode for document type areas: document, photo, plain text, column, image. |
+| [DetectFonts](../../aspose.ocr/recognitionsettings/detectfonts) { get; set; } | Enables font detection for each recognized text line. When enabled, font family, style, and estimated size are returned in [`Font`](../recognitionresult.linesresult/font). |
 | [IgnoredSymbols](../../aspose.ocr/baserecognitionsettings/ignoredsymbols) { get; set; } | Sets blacklist for recognition symbols. |
 | [Language](../../aspose.ocr/baserecognitionsettings/language) { get; set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
 | [LanguageDetectionLevel](../../aspose.ocr/recognitionsettings/languagedetectionlevel) { get; set; } | Specifies the level of language detection for text recognition. Works only if the selected language is Multilanguage, Auto, or Universal. This process is time-consuming and significantly slows down the overall recognition. |

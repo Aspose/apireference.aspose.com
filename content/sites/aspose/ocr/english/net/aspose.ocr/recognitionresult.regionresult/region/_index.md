@@ -16,7 +16,6 @@ public Rectangle Region { get; set; }
 
 ### See Also
 
-* struct [Rectangle](../../rectangle)
 * class [RegionResult](../../recognitionresult.regionresult)
 * namespace [Aspose.OCR](../../recognitionresult.regionresult)
 * assembly [Aspose.OCR](../../../)

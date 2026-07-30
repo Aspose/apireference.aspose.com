@@ -6,7 +6,7 @@ type: docs
 weight: 30
 url: /net/aspose.ocr/ocrinput/add/
 ---
-## Add(string) {#add_3}
+## Add(string) {#add_4}
 
 Add the path or URI containing the image for recognition / processing. The type of the image must correspond to the type specified in the constructor.
 
@@ -26,17 +26,17 @@ public void Add(string fullPath)
 
 ---
 
-## Add(Stream) {#add_1}
+## Add(MemoryStream) {#add_2}
 
 Add the memory stream containing the image for recognition / processing. The type of the image must correspond to the type specified in the constructor.
 
 ```csharp
-public void Add(Stream stream)
+public void Add(MemoryStream stream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | Stream | Memory stream containing the image or document. |
+| stream | MemoryStream | Memory stream containing the image or document. |
 
 ### See Also
 
@@ -46,7 +46,7 @@ public void Add(Stream stream)
 
 ---
 
-## Add(string, int, int) {#add_4}
+## Add(string, int, int) {#add_5}
 
 Add the multipage images / documents for recognition / processing. The type of the image must correspond to the type specified in the constructor.
 
@@ -68,17 +68,17 @@ public void Add(string fullPath, int startPage, int pagesCount)
 
 ---
 
-## Add(Stream, int, int) {#add_2}
+## Add(MemoryStream, int, int) {#add_3}
 
 Add the memory stream containing the multipage image for recognition / processing. The type of the image must correspond to the type specified in the constructor.
 
 ```csharp
-public void Add(Stream stream, int startPage, int pagesCount)
+public void Add(MemoryStream stream, int startPage, int pagesCount)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | Stream | Memory stream containing the multipage document. |
+| stream | MemoryStream | Memory stream containing the multipage document. |
 | startPage | Int32 | The first page/image for processing / recognition. Use for documents. |
 | pagesCount | Int32 | The total amount of pages/images for processing / recognition. Use for documents. Default = 1. |
 
@@ -90,7 +90,7 @@ public void Add(Stream stream, int startPage, int pagesCount)
 
 ---
 
-## Add(byte[], int, int, PixelType) {#add}
+## Add(byte[], int, int, PixelType) {#add_1}
 
 Add the decoded image to the list for recognition / processing. The type of the image must correspond to the type specified in the constructor (SingleImage).
 
@@ -108,6 +108,28 @@ public void Add(byte[] arr, int width, int height, PixelType pixelFormat)
 ### See Also
 
 * enum [PixelType](../../pixeltype)
+* class [OcrInput](../../ocrinput)
+* namespace [Aspose.OCR](../../ocrinput)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## Add(Color[], int, int) {#add}
+
+Add the decoded image to the list for recognition / processing. The type of the image must correspond to the type specified in the constructor (SingleImage).
+
+```csharp
+public void Add(Color[] imageData, int width, int height)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageData | Color[] | Decoded image in Aspose.Drawing.Color array. |
+| width | Int32 | Image width. |
+| height | Int32 | Image height. |
+
+### See Also
+
 * class [OcrInput](../../ocrinput)
 * namespace [Aspose.OCR](../../ocrinput)
 * assembly [Aspose.OCR](../../../)

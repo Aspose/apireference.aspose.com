@@ -3,7 +3,7 @@ title: PreprocessingFilter
 second_title: Aspose.OCR for .NET API Reference
 description: Base class for image processing commands.
 type: docs
-weight: 550
+weight: 560
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/
 ---
 ## PreprocessingFilter class

@@ -1,22 +1,22 @@
 ---
-title: languages
+title: Languages
 second_title: Aspose.OCR for .NET API Reference
 description: A ranked list of languages detected in the image text ordered by likelihood.
 type: docs
 weight: 20
 url: /net/aspose.ocr/languagedetectionoutput/languages/
 ---
-## LanguageDetectionOutput.languages property
+## LanguageDetectionOutput.Languages property
 
 A ranked list of languages detected in the image text, ordered by likelihood.
 
 ```csharp
-public List<DetectedLanguage> languages { get; }
+public List<KeyValuePair<Language, float>> Languages { get; set; }
 ```
 
 ### See Also
 
-* class [DetectedLanguage](../../languagedetectionoutput.detectedlanguage)
+* enum [Language](../../language)
 * class [LanguageDetectionOutput](../../languagedetectionoutput)
 * namespace [Aspose.OCR](../../languagedetectionoutput)
 * assembly [Aspose.OCR](../../../)

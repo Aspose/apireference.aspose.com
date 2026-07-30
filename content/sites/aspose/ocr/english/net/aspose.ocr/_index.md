@@ -1,12 +1,12 @@
 ---
 title: Aspose.OCR
 second_title: Aspose.OCR for .NET API Reference
-description: 
+description: The Aspose.OCR contains tools for image recognition skew correction text areas detection and spell check.
 type: docs
 weight: 10
 url: /net/aspose.ocr/
 ---
-
+The **Aspose.OCR** contains tools for image recognition, skew correction, text areas detection and spell check.
 
 ## Classes
 
@@ -22,6 +22,7 @@ url: /net/aspose.ocr/
 | [DefectAreas](./defectareas) | Image areas containing a certain type of defect. |
 | [DefectOutput](./defectoutput) | Areas containing defects identified in the image. |
 | [DocTypeOutput](./doctypeoutput) | Represents the document type detection result for a single input item. |
+| [FontLineResult](./fontlineresult) | Detected font information for a recognized text line. |
 | [IDCardRecognitionSettings](./idcardrecognitionsettings) | Settings for the ID Card recognition. Contains elements that allow customizing the recognition process. |
 | [ImageData](./imagedata) | Information about processed / recognized image. |
 | [ImageProcessing](./imageprocessing) | Helper class for Aspose OCR library. Allows to preprocess and save images. |

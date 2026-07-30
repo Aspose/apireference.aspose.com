@@ -3,7 +3,7 @@ title: AsposeAIModelConfig
 second_title: Aspose.OCR for .NET API Reference
 description: Represents configuration settings for loading an LLM model.
 type: docs
-weight: 600
+weight: 610
 url: /net/aspose.ocr.ai/asposeaimodelconfig/
 ---
 ## AsposeAIModelConfig class

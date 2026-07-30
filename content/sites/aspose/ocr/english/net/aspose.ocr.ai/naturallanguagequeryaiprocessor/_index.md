@@ -3,7 +3,7 @@ title: NaturalLanguageQueryAIProcessor
 second_title: Aspose.OCR for .NET API Reference
 description: AI post-processor that answers natural-language queries using OCR recognition results.
 type: docs
-weight: 630
+weight: 640
 url: /net/aspose.ocr.ai/naturallanguagequeryaiprocessor/
 ---
 ## NaturalLanguageQueryAIProcessor class
@@ -18,7 +18,7 @@ public class NaturalLanguageQueryAIProcessor : IOcrAIPostProcessor
 
 | Name | Description |
 | --- | --- |
-| [NaturalLanguageQueryAIProcessor](naturallanguagequeryaiprocessor)() | The default constructor. |
+| [NaturalLanguageQueryAIProcessor](naturallanguagequeryaiprocessor)() | Initializes a new instance of the [`NaturalLanguageQueryAIProcessor`](../naturallanguagequeryaiprocessor) class. Performs AI-based natural-language querying over OCR-recognized text. |
 
 ## Methods
 

@@ -1,14 +1,14 @@
 ---
 title: NaturalLanguageQueryAIProcessor
 second_title: Aspose.OCR for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the NaturalLanguageQueryAIProcessoraspose.ocr.ai/naturallanguagequeryaiprocessor class. Performs AI-based natural-language querying over OCR-recognized text.
 type: docs
 weight: 10
 url: /net/aspose.ocr.ai/naturallanguagequeryaiprocessor/naturallanguagequeryaiprocessor/
 ---
 ## NaturalLanguageQueryAIProcessor constructor
 
-The default constructor.
+Initializes a new instance of the [`NaturalLanguageQueryAIProcessor`](../../naturallanguagequeryaiprocessor) class. Performs AI-based natural-language querying over OCR-recognized text.
 
 ```csharp
 public NaturalLanguageQueryAIProcessor()

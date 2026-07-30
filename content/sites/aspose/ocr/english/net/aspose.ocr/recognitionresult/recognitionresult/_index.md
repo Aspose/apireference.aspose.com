@@ -1,14 +1,14 @@
 ---
 title: RecognitionResult
 second_title: Aspose.OCR for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the RecognitionResultaspose.ocr/recognitionresult class.
 type: docs
 weight: 10
 url: /net/aspose.ocr/recognitionresult/recognitionresult/
 ---
 ## RecognitionResult constructor
 
-The default constructor.
+Initializes a new instance of the [`RecognitionResult`](../../recognitionresult) class.
 
 ```csharp
 public RecognitionResult()

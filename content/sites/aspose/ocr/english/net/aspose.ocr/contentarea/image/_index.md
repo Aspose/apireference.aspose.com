@@ -3,7 +3,7 @@ title: image
 second_title: Aspose.OCR for .NET API Reference
 description: Image region with the content.
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.ocr/contentarea/image/
 ---
 ## ContentArea.image field

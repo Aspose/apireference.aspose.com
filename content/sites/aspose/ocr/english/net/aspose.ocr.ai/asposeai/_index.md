@@ -3,7 +3,7 @@ title: AsposeAI
 second_title: Aspose.OCR for .NET API Reference
 description: Main API for the AI component in the Aspose OCR library. Provides integration with AI-powered postprocessors such as spell-checking table extraction and layout correction.
 type: docs
-weight: 660
+weight: 670
 url: /net/aspose.ocr.ai/asposeai/
 ---
 ## AsposeAI class
@@ -19,7 +19,6 @@ public class AsposeAI : IDisposable
 | Name | Description |
 | --- | --- |
 | [AsposeAI](asposeai#constructor)() | Initializes a new instance of the AsposeAI class with default settings. Automatic model downloads are enabled. |
-| [AsposeAI](asposeai#constructor_2)(bool) | Initializes a new instance of the [`AsposeAI`](../asposeai) class with default settings. Automatic model downloads are enabled. |
 | [AsposeAI](asposeai#constructor_1)(ILogger) | Initializes a new instance of the AsposeAI class with a custom logger. Automatic model downloads are enabled. |
 
 ## Methods

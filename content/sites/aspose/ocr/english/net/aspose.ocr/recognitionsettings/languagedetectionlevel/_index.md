@@ -3,7 +3,7 @@ title: LanguageDetectionLevel
 second_title: Aspose.OCR for .NET API Reference
 description: Specifies the level of language detection for text recognition. Works only if the selected language is Multilanguage Auto or Universal. This process is time-consuming and significantly slows down the overall recognition.
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.ocr/recognitionsettings/languagedetectionlevel/
 ---
 ## RecognitionSettings.LanguageDetectionLevel property

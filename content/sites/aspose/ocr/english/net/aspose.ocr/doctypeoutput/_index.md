@@ -3,7 +3,7 @@ title: DocTypeOutput
 second_title: Aspose.OCR for .NET API Reference
 description: Represents the document type detection result for a single input item.
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.ocr/doctypeoutput/
 ---
 ## DocTypeOutput class

@@ -3,7 +3,7 @@ title: RectangleOutput
 second_title: Aspose.OCR for .NET API Reference
 description: Data about detected text areas or lines.
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.ocr/rectangleoutput/
 ---
 ## RectangleOutput class
@@ -25,13 +25,8 @@ public class RectangleOutput
 | Name | Description |
 | --- | --- |
 | [Page](../../aspose.ocr/rectangleoutput/page) { get; set; } | Page number for multi-page images. |
+| [Rectangles](../../aspose.ocr/rectangleoutput/rectangles) { get; set; } | List of detected text areas or lines. |
 | [Source](../../aspose.ocr/rectangleoutput/source) { get; set; } | The full path to the file or URL, if any. Empty for streams, byte arrays, base64. |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| [Rectangles](../../aspose.ocr/rectangleoutput/rectangles) | List of detected text areas or lines. |
 
 ### See Also
 
