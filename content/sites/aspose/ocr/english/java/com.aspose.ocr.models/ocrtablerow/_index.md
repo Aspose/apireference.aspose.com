@@ -27,11 +27,12 @@ A row contains a collection of [OCRTableCell](../../com.aspose.ocr.models/ocrtab
 | --- | --- |
 | [getCells()](#getCells) |  |
 | [getRowIndex()](#getRowIndex) |  |
+| [setCells(List<OCRTableCell> cells)](#setCells-java.util.List-com.aspose.ocr.models.OCRTableCell) |  |
+| [setRowIndex(int rowIndex)](#setRowIndex-int) |  |
 ### OCRTableRow() {#OCRTableRow}
 ```
 public OCRTableRow()
 ```
-
 ### getCells() {#getCells}
 ```
 public List<OCRTableCell> getCells()
@@ -40,7 +41,6 @@ public List<OCRTableCell> getCells()
 **Returns:**
 java.util.List<com.aspose.ocr.models.OCRTableCell>
 
-
 ### getRowIndex() {#getRowIndex}
 ```
 public int getRowIndex()
@@ -48,3 +48,29 @@ public int getRowIndex()
 
 **Returns:**
 int
+
+### setCells(List<OCRTableCell> cells) {#setCells-java.util.List-com.aspose.ocr.models.OCRTableCell}
+```
+public void setCells(List<OCRTableCell> cells)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| cells | java.util.List<com.aspose.ocr.models.OCRTableCell> |  |
+
+### setRowIndex(int rowIndex) {#setRowIndex-int}
+```
+public void setRowIndex(int rowIndex)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rowIndex | int |  |

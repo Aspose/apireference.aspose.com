@@ -40,6 +40,7 @@ Main class for recognize text from images.
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language, String dictionaryPath)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-java.lang.String) | Corrects text (replaces misspelled words). |
 | [DetectDefects(OcrInput input, DefectType defectType)](#DetectDefects-com.aspose.ocr.OcrInput-com.aspose.ocr.models.DefectType) | Automatically find problematic areas of an image that can significantly impact the accuracy of OCR. |
 | [DetectDocumentLayout(OcrInput input)](#DetectDocumentLayout-com.aspose.ocr.OcrInput) | Analyzes the image and identifies the different types of content areas within it. |
+| [DetectDocumentType(OcrInput images)](#DetectDocumentType-com.aspose.ocr.OcrInput) | Analyzes images and identifies their document types. |
 | [DetectLanguages(OcrInput input)](#DetectLanguages-com.aspose.ocr.OcrInput) | Analyzes the text on the image to determine the languages it is written in. |
 | [DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas)](#DetectRectangles-com.aspose.ocr.OcrInput-com.aspose.ocr.models.AreasType-boolean) | Detects text areas on images. |
 | [DetectTables(OcrInput images)](#DetectTables-com.aspose.ocr.OcrInput) | Detects table regions on images. |
@@ -227,6 +228,21 @@ Analyzes the image and identifies the different types of content areas within it
 
 **Returns:**
 java.util.ArrayList<com.aspose.ocr.models.LayoutOutput> - Detected content areas. ArrayList of [LayoutOutput](../../com.aspose.ocr.models/layoutoutput/)
+### DetectDocumentType(OcrInput images) {#DetectDocumentType-com.aspose.ocr.OcrInput}
+```
+public ArrayList<DocTypeOutput> DetectDocumentType(OcrInput images)
+```
+
+
+Analyzes images and identifies their document types. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, PDF, InputStream, BufferedImage, folder, pixel array, ZIP archive, URL, and Base64.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| images | [OcrInput](../../com.aspose.ocr/ocrinput/) | The container with source images. [OcrInput](../../com.aspose.ocr/ocrinput/) |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.DocTypeOutput> - Detected document types. ArrayList of [DocTypeOutput](../../com.aspose.ocr/doctypeoutput/)
 ### DetectLanguages(OcrInput input) {#DetectLanguages-com.aspose.ocr.OcrInput}
 ```
 public ArrayList<LanguageDetectionOutput> DetectLanguages(OcrInput input)

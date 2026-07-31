@@ -3,7 +3,7 @@ title: OcrInput
 second_title: Aspose.OCR for Java API Reference
 description: Main class for recognize text from images
 type: docs
-weight: 20
+weight: 21
 url: /java/com.aspose.ocr/ocrinput/
 ---
 
@@ -37,19 +37,9 @@ Main class for recognize text from images.
 | [addBase64(String base64)](#addBase64-java.lang.String) | Add the base64 string containing the image for recognition / processing. |
 | [clear()](#clear) | Set the amount of items for processing / recognition as 0. |
 | [clearFilters()](#clearFilters) | Remove all filters. |
-| [equals(Object arg0)](#equals-java.lang.Object) |  |
-| [get(int index)](#get-int) | Returns information about processed / recognized image. |
-| [getClass()](#getClass) |  |
-| [hashCode()](#hashCode) |  |
-| [iterator()](#iterator) |  |
-| [notify()](#notify) |  |
-| [notifyAll()](#notifyAll) |  |
 | [replaceFilters(PreprocessingFilter filters)](#replaceFilters-com.aspose.ocr.PreprocessingFilter) | Remove old filters and set new. |
 | [size()](#size) | Amount of items for processing / recognition. |
-| [toString()](#toString) |  |
-| [wait()](#wait) |  |
-| [wait(long arg0)](#wait-long) |  |
-| [wait(long arg0, int arg1)](#wait-long-int) |  |
+
 ### OcrInput(InputType type, PreprocessingFilter filters) {#OcrInput-com.aspose.ocr.InputType-com.aspose.ocr.PreprocessingFilter}
 ```
 public OcrInput(InputType type, PreprocessingFilter filters)
@@ -204,81 +194,6 @@ public void clearFilters()
 
 Remove all filters.
 
-### equals(Object arg0) {#equals-java.lang.Object}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### get(int index) {#get-int}
-```
-public ImageData get(int index)
-```
-
-
-Returns information about processed / recognized image.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Position of the image in the List. |
-
-**Returns:**
-[ImageData](../../com.aspose.ocr/imagedata/) - The object of @see [ImageData](../../com.aspose.ocr/imagedata/)
-### getClass() {#getClass}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### hashCode() {#hashCode}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### iterator() {#iterator}
-```
-public Iterator<ImageData> iterator()
-```
-
-
-
-
-**Returns:**
-java.util.Iterator<com.aspose.ocr.ImageData>
-### notify() {#notify}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll}
-```
-public final native void notifyAll()
-```
-
-
-
 
 ### replaceFilters(PreprocessingFilter filters) {#replaceFilters-com.aspose.ocr.PreprocessingFilter}
 ```
@@ -303,48 +218,3 @@ Amount of items for processing / recognition.
 
 **Returns:**
 int - Amount of items.
-### toString() {#toString}
-```
-public String toString()
-```
-
-
-
-
-**Returns:**
-java.lang.String
-### wait() {#wait}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
-

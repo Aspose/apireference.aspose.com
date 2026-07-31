@@ -16,6 +16,7 @@ url: /java/com.aspose.ocr/
 | [AsposeOCRException](../com.aspose.ocr/asposeocrexception/) |  |
 | [CarPlateRecognitionSettings](../com.aspose.ocr/carplaterecognitionsettings/) | Settings for the car number recognition Contains elements that allow customizing the recognition process |
 | [DefectOutput](../com.aspose.ocr/defectoutput/) | Areas containing defects identified in the image. |
+| [DocTypeOutput](../com.aspose.ocr/doctypeoutput/) | Represents the document type detection result for a single input item. |
 | [IDCardRecognitionSettings](../com.aspose.ocr/idcardrecognitionsettings/) | Settings for the ID Card recognition Contains elements that allow customizing the recognition process |
 | [ImageData](../com.aspose.ocr/imagedata/) |  |
 | [ImageProcessing](../com.aspose.ocr/imageprocessing/) | Helper class for Aspose OCR library. |
@@ -38,6 +39,7 @@ url: /java/com.aspose.ocr/
 
 | Enum | Description |
 | --- | --- |
+| [DocType](../com.aspose.ocr/doctype/) | Represents the high-level document category detected for an image or page. |
 | [InputType](../com.aspose.ocr/inputtype/) | Types of image/ documents for processing / recognition. |
 | [InterpolationFilterType](../com.aspose.ocr/interpolationfiltertype/) |  |
 | [LoggingLevel](../com.aspose.ocr/logginglevel/) |  |
