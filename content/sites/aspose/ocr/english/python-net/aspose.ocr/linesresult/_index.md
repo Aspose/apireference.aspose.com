@@ -18,6 +18,7 @@ The LinesResult type exposes the following members:
 |text_in_line|Recognized text from row.|
 |line|Row coordinates. (Rectangles).|
 |confidence|The confidence score assigned to the recognized text line, represented as a floating-point value between 0.0 and 1.0.|
+|font|Detected font information for the recognized text line. Filled only when RecognitionSettings.detect_fonts is enabled(set True).|
 
 ### See Also
 

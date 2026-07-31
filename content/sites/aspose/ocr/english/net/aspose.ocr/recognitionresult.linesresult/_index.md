@@ -24,10 +24,11 @@ public class LinesResult
 
 | Name | Description |
 | --- | --- |
-| [Confidence](../../aspose.ocr/linesresult/confidence) { get; set; } | The confidence score assigned to the recognized text line, represented as a floating-point value between 0.0 and 1.0. A score of 1.0 indicates the highest level of recognition certainty. This value is always set to 0 when using a temporary license. Confidence is only calculated for the following languages: Chinese language group, Arabic, Hindi, European, Korean, Japanese, Telugu, Tamil, and Kannada. Confidence is not calculated for ExtLatin or languages that contain diacritical marks. |
-| [Font](../../aspose.ocr/linesresult/font) { get; set; } | Detected font information for the recognized text line. Filled only when [`DetectFonts`](../recognitionsettings/detectfonts) is enabled. |
-| [Line](../../aspose.ocr/linesresult/line) { get; set; } | Row coordinates. |
-| [TextInLine](../../aspose.ocr/linesresult/textinline) { get; set; } | Recognized text from row. |
+| [Confidence](../../aspose.ocr/recognitionresult.linesresult/confidence) { get; set; } | The confidence score assigned to the recognized text line, represented as a floating-point value between 0.0 and 1.0. A score of 1.0 indicates the highest level of recognition certainty. This value is always set to 0 when using a temporary license. Confidence is only calculated for the following languages: Chinese language group, Arabic, Hindi, European, Korean, Japanese, Telugu, Tamil, and Kannada. Confidence is not calculated for ExtLatin or languages that contain diacritical marks. |
+| [Font](../../aspose.ocr/recognitionresult.linesresult/font/) { get; set; } | Detected font information for the recognized text line. Filled only when [`DetectFonts`](../recognitionsettings/detectfonts) is enabled. |
+| [Line](../../aspose.ocr/recognitionresult.linesresult/line) { get; set; } | Row coordinates. |
+| [TextInLine](../../aspose.ocr/recognitionresult.linesresult/textinline) { get; set; } | Recognized text from row. |
+
 
 ### See Also
 

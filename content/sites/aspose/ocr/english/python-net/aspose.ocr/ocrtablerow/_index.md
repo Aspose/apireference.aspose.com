@@ -3,7 +3,7 @@ title: OCRTableRow
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /python-net/aspose.ocr/ocrtablerow/
 ---
 

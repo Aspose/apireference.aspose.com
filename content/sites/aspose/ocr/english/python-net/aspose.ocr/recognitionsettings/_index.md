@@ -33,6 +33,7 @@ The RecognitionSettings type exposes the following members:
 |lines_filtration|Allows to recognize text in the tables (regions surrounded lines).|
 |detect_areas_mode|Allows to select the optimal mode for document type areas: document, photo, plain text, column, image.|
 |upscale_small_font|Allows you to use additional algorithms specifically for small font recognition.<br/>            Useful for images with small size characters.|
+|detect_fonts|Enables font detection for each recognized text line.<br/>            When enabled, font family, style, and estimated size are returned in|
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: PixelType
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 650
+weight: 660
 url: /python-net/aspose.ocr/pixeltype/
 ---
 

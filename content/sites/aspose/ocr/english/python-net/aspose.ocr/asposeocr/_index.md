@@ -69,6 +69,7 @@ The AsposeOcr type exposes the following members:
 |compare_image_texts(full_path1, full_path2, settings, ignore_case)|Check if two images contain the same text.|
 |image_text_diff(full_path1, full_path2, settings, ignore_case, auto_skew)|Compare the texts on the two images and return a number representing how similar they are (0 to 1).|
 |correct_spelling(text, language, dictionary_path)|Corrects text (replaces misspelled words).|
+|free_resources()|Clear resources for recognition.|
 
 ### See Also
 

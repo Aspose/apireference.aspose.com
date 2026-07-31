@@ -3,7 +3,7 @@ title: ExecutionModeOnnx
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 580
+weight: 590
 url: /python-net/aspose.ocr/executionmodeonnx/
 ---
 

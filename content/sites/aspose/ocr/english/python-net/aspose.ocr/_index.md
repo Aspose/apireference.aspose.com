@@ -23,6 +23,7 @@ Contains tools for image recognition, skew correction, text areas detection and 
 |[DefectAreas](/ocr/python-net/aspose.ocr/defectareas/)|Image areas containing a certain type of defect.|
 |[DefectOutput](/ocr/python-net/aspose.ocr/defectoutput/)|Areas containing defects identified in the image.|
 |[DocTypeOutput](/ocr/python-net/aspose.ocr/doctypeoutput/)|Represents the document type detection result for a single input item.|
+|[FontLineResult](/ocr/python-net/aspose.ocr/fontlineresult/)|Detected font information for a recognized text line.|
 |[IDCardRecognitionSettings](/ocr/python-net/aspose.ocr/idcardrecognitionsettings/)|Settings for the ID Card recognition.<br/>            Contains elements that allow customizing the recognition process.|
 |[ImageData](/ocr/python-net/aspose.ocr/imagedata/)|Information about processed / recognized image.|
 |[ImageProcessing](/ocr/python-net/aspose.ocr/imageprocessing/)|Helper class for Aspose OCR library. Allows to preprocess and save images.|

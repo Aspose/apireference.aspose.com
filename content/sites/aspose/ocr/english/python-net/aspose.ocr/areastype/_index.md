@@ -3,7 +3,7 @@ title: AreasType
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 520
+weight: 530
 url: /python-net/aspose.ocr/areastype/
 ---
 
