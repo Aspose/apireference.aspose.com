@@ -1,0 +1,17 @@
+name: Build CAD Chinese Stage
+
+on:
+  repository_dispatch:
+    types: [ build-cad-chinese-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-cad/Aspose.CAD-API-References"
+      product_name: "cad"
+      disable_languages: '["en","ru"]'
+      cf_path: "/cad/*"
+      theme_ref: "beta"
+    secrets: inherit

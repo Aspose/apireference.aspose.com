@@ -1,0 +1,16 @@
+name: Build CAD Russian Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-cad-russian-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-cad/Aspose.CAD-API-References"
+      product_name: "cad"
+      disable_languages: '["en","zh"]'
+      theme_ref: "beta"
+    secrets: inherit

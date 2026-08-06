@@ -1,0 +1,16 @@
+name: Build CAD Chinese Production (BunnyCDN)
+
+on:
+  repository_dispatch:
+    types: [ build-cad-chinese-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-cad/Aspose.CAD-API-References"
+      product_name: "cad"
+      disable_languages: '["en","ru"]'
+      theme_ref: "beta"
+    secrets: inherit
