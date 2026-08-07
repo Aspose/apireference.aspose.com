@@ -1,0 +1,42 @@
+﻿---
+title: "IfcMember"
+linktitle: "IfcMember"
+second_title: "Aspose.CAD for Java"
+description: ""
+type: docs
+weight: 10
+url: /java/com.aspose.cad.fileformats.ifc.ifc4.entities/ifcmember/
+---
+
+**Inheritance:** java.lang.Object, IfcBuildingElement
+
+## Constructors
+
+| Constructor | Description |
+| --- | --- |
+| [IfcMember()](#IfcMember) |  |
+
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [getPredefinedType()](#getPredefinedType) |  |
+| [setPredefinedType(IfcMemberTypeEnum value)](#setPredefinedType-com.aspose.cad.fileformats.ifc.ifc4.types.IfcMemberTypeEnum) |  |
+
+### IfcMember() {#IfcMember}
+```java
+public IfcMember()
+```
+
+### getPredefinedType() {#getPredefinedType}
+```java
+public final IfcMemberTypeEnum getPredefinedType()
+```
+
+**Returns:** IfcMemberTypeEnum
+
+### setPredefinedType(IfcMemberTypeEnum value) {#setPredefinedType-com.aspose.cad.fileformats.ifc.ifc4.types.IfcMemberTypeEnum}
+```java
+public final void setPredefinedType(IfcMemberTypeEnum value)
+```
+

@@ -1,0 +1,23 @@
+﻿---
+title: "IfcPreDefinedDimensionSymbol"
+linktitle: "IfcPreDefinedDimensionSymbol"
+second_title: "Aspose.CAD for Java"
+description: ""
+type: docs
+weight: 10
+url: /java/com.aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpredefineddimensionsymbol/
+---
+
+**Inheritance:** java.lang.Object, IfcPreDefinedSymbol
+
+## Constructors
+
+| Constructor | Description |
+| --- | --- |
+| [IfcPreDefinedDimensionSymbol()](#IfcPreDefinedDimensionSymbol) |  |
+
+### IfcPreDefinedDimensionSymbol() {#IfcPreDefinedDimensionSymbol}
+```java
+public IfcPreDefinedDimensionSymbol()
+```
+

@@ -1,0 +1,23 @@
+﻿---
+title: "IPartialArgb32PixelLoader"
+linktitle: "IPartialArgb32PixelLoader"
+second_title: "Aspose.CAD for Java"
+description: "Conforms to the 32-bit ARGB pixels loaded partially."
+type: docs
+weight: 10
+url: /java/com.aspose.cad/ipartialargb32pixelloader/
+---
+
+Conforms to the 32-bit ARGB pixels loaded partially.
+
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [process(com.aspose.cad.Rectangle pixelsRectangle, int[] pixels, com.aspose.cad.Point start, com.aspose.cad.Point end)](#process-com.aspose.cad.Rectangle-int:A-com.aspose.cad.Point-com.aspose.cad.Point) |  |
+
+### process(com.aspose.cad.Rectangle pixelsRectangle, int[] pixels, com.aspose.cad.Point start, com.aspose.cad.Point end) {#process-com.aspose.cad.Rectangle-int:A-com.aspose.cad.Point-com.aspose.cad.Point}
+```java
+void process(com.aspose.cad.Rectangle pixelsRectangle, int[] pixels, com.aspose.cad.Point start, com.aspose.cad.Point end)
+```
+
