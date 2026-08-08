@@ -2978,7 +2978,6 @@ rewrite ^/cad/java/com\.aspose\.cad/RasterImage(/?)$ https://reference.aspose.co
 rewrite ^/cad/java/com\.aspose\.cad/RawDataSettings(/?)$ https://reference.aspose.com/cad/java/com.aspose.cad/rawdatasettings/ permanent;
 rewrite ^/cad/java/com\.aspose\.cad/ResizeType(/?)$ https://reference.aspose.com/cad/java/com.aspose.cad/resizetype/ permanent;
 rewrite ^/cad/java/com\.aspose\.cad/TransparencySupporter(/?)$ https://reference.aspose.com/cad/java/com.aspose.cad/transparencysupporter/ permanent;
-rewrite ^/cad/java(/?)$ https://reference.aspose.com/cad/java/ permanent;
 rewrite ^/cad/java/overview-summary(/?)$ https://reference.aspose.com/cad/java/ permanent;
 rewrite ^/cad/jasperreports/com\.aspose\.cad\.jasperreports\.bmp/package-summary(/?)$ https://reference.aspose.com/cad/jasperreports/com.aspose.cad.jasperreports.bmp/ permanent;
 rewrite ^/cad/jasperreports/com\.aspose\.cad\.jasperreports\.common/package-summary(/?)$ https://reference.aspose.com/cad/jasperreports/com.aspose.cad.jasperreports.common/ permanent;
@@ -3109,7 +3108,6 @@ rewrite ^/cad/jasperreports/com\.aspose\.cad\.jasperreports\.wmf/ASWmfExportConf
 rewrite ^/cad/jasperreports/com\.aspose\.cad\.jasperreports\.wmf/ASWmfExportConfigurationImpl(/?)$ https://reference.aspose.com/cad/jasperreports/com.aspose.cad.jasperreports.wmf/aswmfexportconfigurationimpl/ permanent;
 rewrite ^/cad/jasperreports/com\.aspose\.cad\.jasperreports\.wmf/ASWmfExporter(/?)$ https://reference.aspose.com/cad/jasperreports/com.aspose.cad.jasperreports.wmf/aswmfexporter/ permanent;
 rewrite ^/cad/jasperreports/com\.aspose\.cad\.jasperreports\.wmf/ASWmfExportParametersBean(/?)$ https://reference.aspose.com/cad/jasperreports/com.aspose.cad.jasperreports.wmf/aswmfexportparametersbean/ permanent;
-rewrite ^/cad/jasperreports(/?)$ https://reference.aspose.com/cad/jasperreports/ permanent;
 rewrite ^/cad/jasperreports/overview-summary(/?)$ https://reference.aspose.com/cad/jasperreports/ permanent;
 rewrite ^/email/cpp/class/aspose\.email\.alternate_view(/?)$ https://reference.aspose.com/email/cpp/aspose.email/alternateview/ permanent;
 rewrite ^/email/cpp/class/aspose\.email\.alternate_view_collection(/?)$ https://reference.aspose.com/email/cpp/aspose.email/alternateviewcollection/ permanent;
