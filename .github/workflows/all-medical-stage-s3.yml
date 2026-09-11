@@ -1,0 +1,14 @@
+name: All Medical Staging Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-medical-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-medical-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}

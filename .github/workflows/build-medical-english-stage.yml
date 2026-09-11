@@ -1,0 +1,17 @@
+name: Build Medical English Stage
+
+on:
+  repository_dispatch:
+    types: [ build-medical-english-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-medical/Aspose.Medical-API-References"
+      product_name: "medical"
+      disable_languages: '[]'
+      cf_path: "/medical/*"
+      theme_ref: "beta"
+    secrets: inherit

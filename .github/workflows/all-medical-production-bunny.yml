@@ -1,0 +1,14 @@
+name: All Medical Production Workflows (BunnyCDN)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-medical-english-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-medical-english-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}

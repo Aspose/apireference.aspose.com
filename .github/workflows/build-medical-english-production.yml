@@ -1,0 +1,17 @@
+name: Build Medical English Production
+
+on:
+  repository_dispatch:
+    types: [ build-medical-english-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-medical/Aspose.Medical-API-References"
+      product_name: "medical"
+      disable_languages: '[]'
+      cf_path: "/medical/*"
+      theme_ref: "beta"
+    secrets: inherit

@@ -1,0 +1,14 @@
+name: All Medical Production Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-medical-english-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-medical-english-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
