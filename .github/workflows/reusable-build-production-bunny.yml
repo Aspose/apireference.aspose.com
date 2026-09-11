@@ -49,6 +49,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: ${{ inputs.product_repo }}
+          ref: production
           token: ${{ secrets.REPO_TOKEN }}
           fetch-depth: 1
           path: content/sites/aspose/${{ inputs.product_name }}
