@@ -1,0 +1,14 @@
+name: All LLM Production Workflows (BunnyCDN)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-llm-english-production-bunny
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-llm-english-production-bunny.yml
+          token: ${{ secrets.REPO_TOKEN }}

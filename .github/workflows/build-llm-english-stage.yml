@@ -1,0 +1,17 @@
+name: Build LLM English Stage
+
+on:
+  repository_dispatch:
+    types: [ build-llm-english-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-llm/Aspose.LLM-References"
+      product_name: "llm"
+      disable_languages: '[]'
+      cf_path: "/llm/*"
+      theme_ref: "beta"
+    secrets: inherit
