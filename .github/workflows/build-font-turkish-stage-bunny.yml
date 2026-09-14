@@ -1,8 +1,8 @@
 name: Build Font Turkish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-font-turkish-stage ]
+#   repository_dispatch:
+#     types: [ build-font-turkish-stage ]
   workflow_dispatch:
 
 jobs:

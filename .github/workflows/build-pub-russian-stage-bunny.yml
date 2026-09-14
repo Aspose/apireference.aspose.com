@@ -1,8 +1,8 @@
 name: Build Pub Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pub-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-pub-russian-stage ]
   workflow_dispatch:
 
 jobs:

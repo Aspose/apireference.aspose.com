@@ -1,8 +1,8 @@
 name: Build Pub Turkish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pub-turkish-stage ]
+#   repository_dispatch:
+#     types: [ build-pub-turkish-stage ]
   workflow_dispatch:
 
 jobs:

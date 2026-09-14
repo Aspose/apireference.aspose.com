@@ -1,8 +1,8 @@
 name: Build Words Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-words-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-words-russian-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Gis Chinese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-chinese-production ]
+#   repository_dispatch:
+#     types: [ build-gis-chinese-production ]
   workflow_dispatch:
 
 jobs:

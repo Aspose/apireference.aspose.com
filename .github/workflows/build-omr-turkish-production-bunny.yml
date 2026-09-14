@@ -1,8 +1,8 @@
 name: Build Omr Turkish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-turkish-production ]
+#   repository_dispatch:
+#     types: [ build-omr-turkish-production ]
   workflow_dispatch:
 
 jobs:

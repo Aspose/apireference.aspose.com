@@ -1,8 +1,8 @@
 name: Build Svg Arabic Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-arabic-production ]
+#   repository_dispatch:
+#     types: [ build-svg-arabic-production ]
   workflow_dispatch:
 
 jobs:

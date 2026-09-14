@@ -1,8 +1,8 @@
 name: Build Diagram French Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-diagram-french-stage ]
+#   repository_dispatch:
+#     types: [ build-diagram-french-stage ]
   workflow_dispatch:
 
 jobs:

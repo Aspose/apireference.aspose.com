@@ -1,8 +1,8 @@
 name: Build Page French Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-french-production ]
+#   repository_dispatch:
+#     types: [ build-page-french-production ]
   workflow_dispatch:
 
 jobs:

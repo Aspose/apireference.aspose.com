@@ -1,8 +1,8 @@
 name: Build Omr Russian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-russian-production ]
+#   repository_dispatch:
+#     types: [ build-omr-russian-production ]
   workflow_dispatch:
 
 jobs:

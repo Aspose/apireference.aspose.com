@@ -1,8 +1,8 @@
 name: Build Cells-python-net Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-python-net-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-cells-python-net-russian-stage ]
   workflow_dispatch:
 
 jobs:

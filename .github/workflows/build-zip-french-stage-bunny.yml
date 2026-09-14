@@ -1,8 +1,8 @@
 name: Build Zip French Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-french-stage ]
+#   repository_dispatch:
+#     types: [ build-zip-french-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Omr Indonesian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-indonesian-stage ]
+#   repository_dispatch:
+#     types: [ build-omr-indonesian-stage ]
   workflow_dispatch:
 
 jobs:

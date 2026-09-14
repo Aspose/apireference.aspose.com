@@ -1,8 +1,8 @@
 name: Build Imaging German Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-imaging-german-stage ]
+#   repository_dispatch:
+#     types: [ build-imaging-german-stage ]
   workflow_dispatch:
 
 jobs:

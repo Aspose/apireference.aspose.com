@@ -1,8 +1,8 @@
 name: Build Tasks Swedish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-swedish-stage ]
+#   repository_dispatch:
+#     types: [ build-tasks-swedish-stage ]
   workflow_dispatch:
 
 jobs:

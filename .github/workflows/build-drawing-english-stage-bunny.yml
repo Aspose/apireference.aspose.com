@@ -1,8 +1,8 @@
 name: Build Drawing English Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-drawing-english-stage ]
+#   repository_dispatch:
+#     types: [ build-drawing-english-stage ]
   workflow_dispatch:
 
 jobs:

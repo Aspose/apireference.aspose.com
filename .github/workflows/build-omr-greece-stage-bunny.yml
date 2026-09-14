@@ -1,8 +1,8 @@
 name: Build Omr Greece Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-greece-stage ]
+#   repository_dispatch:
+#     types: [ build-omr-greece-stage ]
   workflow_dispatch:
 
 jobs:

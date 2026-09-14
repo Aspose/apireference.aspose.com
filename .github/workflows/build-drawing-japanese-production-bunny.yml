@@ -1,8 +1,8 @@
 name: Build Drawing Japanese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-drawing-japanese-production ]
+#   repository_dispatch:
+#     types: [ build-drawing-japanese-production ]
   workflow_dispatch:
 
 jobs:

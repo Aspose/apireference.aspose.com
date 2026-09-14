@@ -1,8 +1,8 @@
 name: Build Diagram Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-diagram-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-diagram-italian-stage ]
   workflow_dispatch:
 
 jobs:

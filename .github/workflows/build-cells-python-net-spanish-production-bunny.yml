@@ -1,8 +1,8 @@
 name: Build Cells-python-net Spanish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-python-net-spanish-production ]
+#   repository_dispatch:
+#     types: [ build-cells-python-net-spanish-production ]
   workflow_dispatch:
 
 jobs:

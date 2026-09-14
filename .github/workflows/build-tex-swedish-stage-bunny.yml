@@ -1,8 +1,8 @@
 name: Build Tex Swedish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tex-swedish-stage ]
+#   repository_dispatch:
+#     types: [ build-tex-swedish-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Drawing Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-drawing-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-drawing-italian-stage ]
   workflow_dispatch:
 
 jobs:

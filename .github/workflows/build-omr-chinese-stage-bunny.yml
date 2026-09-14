@@ -1,8 +1,8 @@
 name: Build Omr Chinese Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-chinese-stage ]
+#   repository_dispatch:
+#     types: [ build-omr-chinese-stage ]
   workflow_dispatch:
 
 jobs:

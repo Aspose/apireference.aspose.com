@@ -1,8 +1,8 @@
 name: Build Html Japanese Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-japanese-stage ]
+#   repository_dispatch:
+#     types: [ build-html-japanese-stage ]
   workflow_dispatch:
 
 jobs:

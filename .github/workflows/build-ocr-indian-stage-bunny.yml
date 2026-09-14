@@ -1,8 +1,8 @@
 name: Build Ocr Indian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-ocr-indian-stage ]
+#   repository_dispatch:
+#     types: [ build-ocr-indian-stage ]
   workflow_dispatch:
 
 jobs:

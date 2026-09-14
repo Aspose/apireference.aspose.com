@@ -1,8 +1,8 @@
 name: Build Drawing Indian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-drawing-indian-stage ]
+#   repository_dispatch:
+#     types: [ build-drawing-indian-stage ]
   workflow_dispatch:
 
 jobs:

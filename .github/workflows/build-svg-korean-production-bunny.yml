@@ -1,8 +1,8 @@
 name: Build Svg Korean Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-korean-production ]
+#   repository_dispatch:
+#     types: [ build-svg-korean-production ]
   workflow_dispatch:
 
 jobs:

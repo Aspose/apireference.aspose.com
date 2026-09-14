@@ -1,8 +1,8 @@
 name: Build Tex English Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tex-english-stage ]
+#   repository_dispatch:
+#     types: [ build-tex-english-stage ]
   workflow_dispatch:
 
 jobs:

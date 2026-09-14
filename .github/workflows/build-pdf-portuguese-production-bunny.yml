@@ -1,8 +1,8 @@
 name: Build Pdf Portuguese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pdf-portuguese-production ]
+#   repository_dispatch:
+#     types: [ build-pdf-portuguese-production ]
   workflow_dispatch:
 
 jobs:

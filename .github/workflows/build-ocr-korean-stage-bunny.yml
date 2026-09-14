@@ -1,8 +1,8 @@
 name: Build Ocr Korean Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-ocr-korean-stage ]
+#   repository_dispatch:
+#     types: [ build-ocr-korean-stage ]
   workflow_dispatch:
 
 jobs:

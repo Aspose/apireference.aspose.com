@@ -1,8 +1,8 @@
 name: Build Barcode Chinese Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-chinese-stage ]
+#   repository_dispatch:
+#     types: [ build-barcode-chinese-stage ]
   workflow_dispatch:
 
 jobs:

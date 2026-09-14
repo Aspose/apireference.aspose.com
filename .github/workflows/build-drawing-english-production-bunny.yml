@@ -1,8 +1,8 @@
 name: Build Drawing English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-drawing-english-production ]
+#   repository_dispatch:
+#     types: [ build-drawing-english-production ]
   workflow_dispatch:
 
 jobs:

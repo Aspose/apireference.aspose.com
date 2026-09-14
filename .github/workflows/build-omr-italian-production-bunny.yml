@@ -1,8 +1,8 @@
 name: Build Omr Italian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-italian-production ]
+#   repository_dispatch:
+#     types: [ build-omr-italian-production ]
   workflow_dispatch:
 
 jobs:

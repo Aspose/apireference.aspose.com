@@ -1,8 +1,8 @@
 name: Build Pub French Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pub-french-stage ]
+#   repository_dispatch:
+#     types: [ build-pub-french-stage ]
   workflow_dispatch:
 
 jobs:

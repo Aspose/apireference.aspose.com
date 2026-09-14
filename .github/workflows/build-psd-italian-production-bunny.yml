@@ -1,8 +1,8 @@
 name: Build Psd Italian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-psd-italian-production ]
+#   repository_dispatch:
+#     types: [ build-psd-italian-production ]
   workflow_dispatch:
 
 jobs:

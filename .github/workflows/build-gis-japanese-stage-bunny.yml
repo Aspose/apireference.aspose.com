@@ -1,8 +1,8 @@
 name: Build Gis Japanese Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-japanese-stage ]
+#   repository_dispatch:
+#     types: [ build-gis-japanese-stage ]
   workflow_dispatch:
 
 jobs:

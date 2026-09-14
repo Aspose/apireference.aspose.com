@@ -1,8 +1,8 @@
 name: Build Tasks Indonesian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-indonesian-production ]
+#   repository_dispatch:
+#     types: [ build-tasks-indonesian-production ]
   workflow_dispatch:
 
 jobs:

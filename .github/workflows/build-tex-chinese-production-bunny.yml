@@ -1,8 +1,8 @@
 name: Build Tex Chinese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tex-chinese-production ]
+#   repository_dispatch:
+#     types: [ build-tex-chinese-production ]
   workflow_dispatch:
 
 jobs:

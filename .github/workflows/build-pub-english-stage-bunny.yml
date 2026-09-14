@@ -1,8 +1,8 @@
 name: Build Pub English Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pub-english-stage ]
+#   repository_dispatch:
+#     types: [ build-pub-english-stage ]
   workflow_dispatch:
 
 jobs:

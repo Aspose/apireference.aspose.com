@@ -1,8 +1,8 @@
 name: Build Diagram Netherlands Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-diagram-netherlands-stage ]
+#   repository_dispatch:
+#     types: [ build-diagram-netherlands-stage ]
   workflow_dispatch:
 
 jobs:

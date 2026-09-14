@@ -1,8 +1,8 @@
 name: Build Ocr German Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-ocr-german-production ]
+#   repository_dispatch:
+#     types: [ build-ocr-german-production ]
   workflow_dispatch:
 
 jobs:

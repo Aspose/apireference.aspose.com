@@ -1,8 +1,8 @@
 name: Build Page Netherlands Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-netherlands-stage ]
+#   repository_dispatch:
+#     types: [ build-page-netherlands-stage ]
   workflow_dispatch:
 
 jobs:

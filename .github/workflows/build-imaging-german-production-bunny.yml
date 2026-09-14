@@ -1,8 +1,8 @@
 name: Build Imaging German Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-imaging-german-production ]
+#   repository_dispatch:
+#     types: [ build-imaging-german-production ]
   workflow_dispatch:
 
 jobs:

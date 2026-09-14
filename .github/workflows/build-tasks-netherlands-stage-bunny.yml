@@ -1,8 +1,8 @@
 name: Build Tasks Netherlands Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-netherlands-stage ]
+#   repository_dispatch:
+#     types: [ build-tasks-netherlands-stage ]
   workflow_dispatch:
 
 jobs:

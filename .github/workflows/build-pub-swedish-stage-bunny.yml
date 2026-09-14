@@ -1,8 +1,8 @@
 name: Build Pub Swedish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pub-swedish-stage ]
+#   repository_dispatch:
+#     types: [ build-pub-swedish-stage ]
   workflow_dispatch:
 
 jobs:

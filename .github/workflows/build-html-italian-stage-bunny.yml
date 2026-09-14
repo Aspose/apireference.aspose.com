@@ -1,8 +1,8 @@
 name: Build Html Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-html-italian-stage ]
   workflow_dispatch:
 
 jobs:

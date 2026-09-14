@@ -1,8 +1,8 @@
 name: Build Finance Korean Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-korean-stage ]
+#   repository_dispatch:
+#     types: [ build-finance-korean-stage ]
   workflow_dispatch:
 
 jobs:

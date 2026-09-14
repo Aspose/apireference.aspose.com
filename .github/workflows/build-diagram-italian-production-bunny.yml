@@ -1,8 +1,8 @@
 name: Build Diagram Italian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-diagram-italian-production ]
+#   repository_dispatch:
+#     types: [ build-diagram-italian-production ]
   workflow_dispatch:
 
 jobs:

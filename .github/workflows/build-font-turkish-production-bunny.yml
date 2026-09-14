@@ -1,8 +1,8 @@
 name: Build Font Turkish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-font-turkish-production ]
+#   repository_dispatch:
+#     types: [ build-font-turkish-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Cells-python-net Arabic Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-python-net-arabic-production ]
+#   repository_dispatch:
+#     types: [ build-cells-python-net-arabic-production ]
   workflow_dispatch:
 
 jobs:

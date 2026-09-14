@@ -1,8 +1,8 @@
 name: Build Page Russian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-russian-production ]
+#   repository_dispatch:
+#     types: [ build-page-russian-production ]
   workflow_dispatch:
 
 jobs:

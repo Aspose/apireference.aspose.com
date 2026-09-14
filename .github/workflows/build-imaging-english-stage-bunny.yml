@@ -1,8 +1,8 @@
 name: Build Imaging English Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-imaging-english-stage ]
+#   repository_dispatch:
+#     types: [ build-imaging-english-stage ]
   workflow_dispatch:
 
 jobs:

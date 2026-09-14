@@ -1,8 +1,8 @@
 name: Build Gis Swedish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-swedish-production ]
+#   repository_dispatch:
+#     types: [ build-gis-swedish-production ]
   workflow_dispatch:
 
 jobs:

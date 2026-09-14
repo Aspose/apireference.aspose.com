@@ -1,8 +1,8 @@
 name: Build 3d Chinese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-3d-chinese-production ]
+#   repository_dispatch:
+#     types: [ build-3d-chinese-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Page Arabic Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-arabic-production ]
+#   repository_dispatch:
+#     types: [ build-page-arabic-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Html Netherlands Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-netherlands-stage ]
+#   repository_dispatch:
+#     types: [ build-html-netherlands-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Imaging Turkish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-imaging-turkish-production ]
+#   repository_dispatch:
+#     types: [ build-imaging-turkish-production ]
   workflow_dispatch:
 
 jobs:

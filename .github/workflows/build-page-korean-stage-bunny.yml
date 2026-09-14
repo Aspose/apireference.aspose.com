@@ -1,8 +1,8 @@
 name: Build Page Korean Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-korean-stage ]
+#   repository_dispatch:
+#     types: [ build-page-korean-stage ]
   workflow_dispatch:
 
 jobs:

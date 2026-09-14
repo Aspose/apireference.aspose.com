@@ -1,8 +1,8 @@
 name: Build Font Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-font-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-font-italian-stage ]
   workflow_dispatch:
 
 jobs:

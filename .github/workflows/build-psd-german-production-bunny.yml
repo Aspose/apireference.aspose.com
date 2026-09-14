@@ -1,8 +1,8 @@
 name: Build Psd German Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-psd-german-production ]
+#   repository_dispatch:
+#     types: [ build-psd-german-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Psd Netherlands Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-psd-netherlands-production ]
+#   repository_dispatch:
+#     types: [ build-psd-netherlands-production ]
   workflow_dispatch:
 
 jobs:

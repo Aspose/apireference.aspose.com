@@ -1,8 +1,8 @@
 name: Build Zip French Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-french-production ]
+#   repository_dispatch:
+#     types: [ build-zip-french-production ]
   workflow_dispatch:
 
 jobs:

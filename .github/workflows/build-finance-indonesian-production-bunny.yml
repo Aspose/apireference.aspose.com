@@ -1,8 +1,8 @@
 name: Build Finance Indonesian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-indonesian-production ]
+#   repository_dispatch:
+#     types: [ build-finance-indonesian-production ]
   workflow_dispatch:
 
 jobs:

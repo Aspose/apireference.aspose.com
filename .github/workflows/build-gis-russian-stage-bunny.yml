@@ -1,8 +1,8 @@
 name: Build Gis Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-gis-russian-stage ]
   workflow_dispatch:
 
 jobs:

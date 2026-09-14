@@ -1,8 +1,8 @@
 name: Build Finance Swedish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-swedish-stage ]
+#   repository_dispatch:
+#     types: [ build-finance-swedish-stage ]
   workflow_dispatch:
 
 jobs:

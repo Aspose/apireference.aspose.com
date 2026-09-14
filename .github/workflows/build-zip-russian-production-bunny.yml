@@ -1,8 +1,8 @@
 name: Build Zip Russian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-russian-production ]
+#   repository_dispatch:
+#     types: [ build-zip-russian-production ]
   workflow_dispatch:
 
 jobs:

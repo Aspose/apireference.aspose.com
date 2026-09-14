@@ -1,8 +1,8 @@
 name: Build Ocr Swedish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-ocr-swedish-production ]
+#   repository_dispatch:
+#     types: [ build-ocr-swedish-production ]
   workflow_dispatch:
 
 jobs:

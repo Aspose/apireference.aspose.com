@@ -1,8 +1,8 @@
 name: Build Finance Japanese Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-japanese-stage ]
+#   repository_dispatch:
+#     types: [ build-finance-japanese-stage ]
   workflow_dispatch:
 
 jobs:

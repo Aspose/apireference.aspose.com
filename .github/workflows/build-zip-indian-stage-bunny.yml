@@ -1,8 +1,8 @@
 name: Build Zip Indian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-indian-stage ]
+#   repository_dispatch:
+#     types: [ build-zip-indian-stage ]
   workflow_dispatch:
 
 jobs:

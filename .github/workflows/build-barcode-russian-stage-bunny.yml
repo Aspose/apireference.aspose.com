@@ -1,8 +1,8 @@
 name: Build Barcode Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-barcode-russian-stage ]
   workflow_dispatch:
 
 jobs:

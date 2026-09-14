@@ -1,8 +1,8 @@
 name: Build Finance Turkish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-turkish-production ]
+#   repository_dispatch:
+#     types: [ build-finance-turkish-production ]
   workflow_dispatch:
 
 jobs:

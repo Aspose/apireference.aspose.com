@@ -1,8 +1,8 @@
 name: Build Zip Korean Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-korean-stage ]
+#   repository_dispatch:
+#     types: [ build-zip-korean-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Cells English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-english-production ]
+#   repository_dispatch:
+#     types: [ build-cells-english-production ]
   workflow_dispatch:
 
 jobs:

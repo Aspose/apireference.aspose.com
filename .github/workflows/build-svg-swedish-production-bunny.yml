@@ -1,8 +1,8 @@
 name: Build Svg Swedish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-swedish-production ]
+#   repository_dispatch:
+#     types: [ build-svg-swedish-production ]
   workflow_dispatch:
 
 jobs:

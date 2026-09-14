@@ -1,8 +1,8 @@
 name: Build 3d Indonesian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-3d-indonesian-production ]
+#   repository_dispatch:
+#     types: [ build-3d-indonesian-production ]
   workflow_dispatch:
 
 jobs:

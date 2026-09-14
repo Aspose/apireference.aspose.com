@@ -1,8 +1,8 @@
 name: Build Svg Turkish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-turkish-production ]
+#   repository_dispatch:
+#     types: [ build-svg-turkish-production ]
   workflow_dispatch:
 
 jobs:

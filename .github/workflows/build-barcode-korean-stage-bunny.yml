@@ -1,8 +1,8 @@
 name: Build Barcode Korean Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-korean-stage ]
+#   repository_dispatch:
+#     types: [ build-barcode-korean-stage ]
   workflow_dispatch:
 
 jobs:

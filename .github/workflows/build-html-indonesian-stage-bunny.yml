@@ -1,8 +1,8 @@
 name: Build Html Indonesian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-indonesian-stage ]
+#   repository_dispatch:
+#     types: [ build-html-indonesian-stage ]
   workflow_dispatch:
 
 jobs:

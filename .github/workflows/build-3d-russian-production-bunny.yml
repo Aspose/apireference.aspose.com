@@ -1,8 +1,8 @@
 name: Build 3d Russian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-3d-russian-production ]
+#   repository_dispatch:
+#     types: [ build-3d-russian-production ]
   workflow_dispatch:
 
 jobs:

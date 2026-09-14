@@ -1,8 +1,8 @@
 name: Build Psd Japanese Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-psd-japanese-stage ]
+#   repository_dispatch:
+#     types: [ build-psd-japanese-stage ]
   workflow_dispatch:
 
 jobs:

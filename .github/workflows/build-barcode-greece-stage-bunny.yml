@@ -1,8 +1,8 @@
 name: Build Barcode Greece Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-greece-stage ]
+#   repository_dispatch:
+#     types: [ build-barcode-greece-stage ]
   workflow_dispatch:
 
 jobs:

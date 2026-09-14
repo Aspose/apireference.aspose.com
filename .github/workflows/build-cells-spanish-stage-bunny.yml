@@ -1,8 +1,8 @@
 name: Build Cells Spanish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-spanish-stage ]
+#   repository_dispatch:
+#     types: [ build-cells-spanish-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Svg Swedish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-swedish-stage ]
+#   repository_dispatch:
+#     types: [ build-svg-swedish-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Diagram Indian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-diagram-indian-production ]
+#   repository_dispatch:
+#     types: [ build-diagram-indian-production ]
   workflow_dispatch:
 
 jobs:

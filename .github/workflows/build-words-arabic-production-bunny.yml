@@ -1,8 +1,8 @@
 name: Build Words Arabic Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-words-arabic-production ]
+#   repository_dispatch:
+#     types: [ build-words-arabic-production ]
   workflow_dispatch:
 
 jobs:

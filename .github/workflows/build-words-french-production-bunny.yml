@@ -1,8 +1,8 @@
 name: Build Words French Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-words-french-production ]
+#   repository_dispatch:
+#     types: [ build-words-french-production ]
   workflow_dispatch:
 
 jobs:

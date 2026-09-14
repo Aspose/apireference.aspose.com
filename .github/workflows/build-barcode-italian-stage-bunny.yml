@@ -1,8 +1,8 @@
 name: Build Barcode Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-barcode-italian-stage ]
   workflow_dispatch:
 
 jobs:

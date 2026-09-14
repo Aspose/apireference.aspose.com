@@ -1,8 +1,8 @@
 name: Build Barcode Korean Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-korean-production ]
+#   repository_dispatch:
+#     types: [ build-barcode-korean-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Zip Japanese Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-japanese-stage ]
+#   repository_dispatch:
+#     types: [ build-zip-japanese-stage ]
   workflow_dispatch:
 
 jobs:

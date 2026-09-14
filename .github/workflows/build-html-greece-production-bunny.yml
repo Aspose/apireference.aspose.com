@@ -1,8 +1,8 @@
 name: Build Html Greece Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-greece-production ]
+#   repository_dispatch:
+#     types: [ build-html-greece-production ]
   workflow_dispatch:
 
 jobs:

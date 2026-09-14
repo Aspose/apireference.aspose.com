@@ -1,8 +1,8 @@
 name: Build Finance French Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-french-production ]
+#   repository_dispatch:
+#     types: [ build-finance-french-production ]
   workflow_dispatch:
 
 jobs:

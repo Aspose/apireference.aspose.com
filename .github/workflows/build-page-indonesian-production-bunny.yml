@@ -1,8 +1,8 @@
 name: Build Page Indonesian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-indonesian-production ]
+#   repository_dispatch:
+#     types: [ build-page-indonesian-production ]
   workflow_dispatch:
 
 jobs:

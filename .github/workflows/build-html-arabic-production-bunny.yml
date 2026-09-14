@@ -1,8 +1,8 @@
 name: Build Html Arabic Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-arabic-production ]
+#   repository_dispatch:
+#     types: [ build-html-arabic-production ]
   workflow_dispatch:
 
 jobs:

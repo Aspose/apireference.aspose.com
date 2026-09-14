@@ -1,8 +1,8 @@
 name: Build CAD Russian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cad-russian-production ]
+#   repository_dispatch:
+#     types: [ build-cad-russian-production ]
   workflow_dispatch:
 
 jobs:

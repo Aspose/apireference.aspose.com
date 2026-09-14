@@ -1,8 +1,8 @@
 name: Build Drawing Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-drawing-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-drawing-russian-stage ]
   workflow_dispatch:
 
 jobs:

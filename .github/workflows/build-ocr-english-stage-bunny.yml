@@ -1,8 +1,8 @@
 name: Build Ocr English Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-ocr-english-stage ]
+#   repository_dispatch:
+#     types: [ build-ocr-english-stage ]
   workflow_dispatch:
 
 jobs:

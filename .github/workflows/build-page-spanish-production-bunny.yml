@@ -1,8 +1,8 @@
 name: Build Page Spanish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-spanish-production ]
+#   repository_dispatch:
+#     types: [ build-page-spanish-production ]
   workflow_dispatch:
 
 jobs:

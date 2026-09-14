@@ -1,8 +1,8 @@
 name: Build Zip Korean Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-korean-production ]
+#   repository_dispatch:
+#     types: [ build-zip-korean-production ]
   workflow_dispatch:
 
 jobs:

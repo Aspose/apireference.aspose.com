@@ -1,8 +1,8 @@
 name: Build Svg Netherlands Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-netherlands-stage ]
+#   repository_dispatch:
+#     types: [ build-svg-netherlands-stage ]
   workflow_dispatch:
 
 jobs:

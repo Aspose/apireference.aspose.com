@@ -1,8 +1,8 @@
 name: Build Note Korean Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-note-korean-stage ]
+#   repository_dispatch:
+#     types: [ build-note-korean-stage ]
   workflow_dispatch:
 
 jobs:

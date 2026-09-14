@@ -1,8 +1,8 @@
 name: Build Svg Greece Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-greece-stage ]
+#   repository_dispatch:
+#     types: [ build-svg-greece-stage ]
   workflow_dispatch:
 
 jobs:

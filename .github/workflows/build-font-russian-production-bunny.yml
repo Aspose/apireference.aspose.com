@@ -1,8 +1,8 @@
 name: Build Font Russian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-font-russian-production ]
+#   repository_dispatch:
+#     types: [ build-font-russian-production ]
   workflow_dispatch:
 
 jobs:

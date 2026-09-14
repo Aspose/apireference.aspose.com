@@ -1,8 +1,8 @@
 name: Build Pdf Indonesian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pdf-indonesian-stage ]
+#   repository_dispatch:
+#     types: [ build-pdf-indonesian-stage ]
   workflow_dispatch:
 
 jobs:

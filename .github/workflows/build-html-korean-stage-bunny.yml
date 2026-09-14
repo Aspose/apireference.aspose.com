@@ -1,8 +1,8 @@
 name: Build Html Korean Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-korean-stage ]
+#   repository_dispatch:
+#     types: [ build-html-korean-stage ]
   workflow_dispatch:
 
 jobs:

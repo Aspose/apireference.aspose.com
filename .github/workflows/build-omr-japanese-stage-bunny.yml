@@ -1,8 +1,8 @@
 name: Build Omr Japanese Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-japanese-stage ]
+#   repository_dispatch:
+#     types: [ build-omr-japanese-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Gis English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-english-production ]
+#   repository_dispatch:
+#     types: [ build-gis-english-production ]
   workflow_dispatch:
 
 jobs:

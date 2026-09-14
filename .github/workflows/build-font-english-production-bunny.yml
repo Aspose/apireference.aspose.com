@@ -1,8 +1,8 @@
 name: Build Font English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-font-english-production ]
+#   repository_dispatch:
+#     types: [ build-font-english-production ]
   workflow_dispatch:
 
 jobs:

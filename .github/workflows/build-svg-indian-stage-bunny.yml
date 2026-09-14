@@ -1,8 +1,8 @@
 name: Build Svg Indian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-indian-stage ]
+#   repository_dispatch:
+#     types: [ build-svg-indian-stage ]
   workflow_dispatch:
 
 jobs:

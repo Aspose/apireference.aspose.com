@@ -1,8 +1,8 @@
 name: Build Drawing Turkish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-drawing-turkish-production ]
+#   repository_dispatch:
+#     types: [ build-drawing-turkish-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Html Indian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-indian-stage ]
+#   repository_dispatch:
+#     types: [ build-html-indian-stage ]
   workflow_dispatch:
 
 jobs:

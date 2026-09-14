@@ -1,8 +1,8 @@
 name: Build Note Greece Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-note-greece-stage ]
+#   repository_dispatch:
+#     types: [ build-note-greece-stage ]
   workflow_dispatch:
 
 jobs:

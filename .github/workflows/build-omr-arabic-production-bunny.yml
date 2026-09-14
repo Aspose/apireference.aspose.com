@@ -1,8 +1,8 @@
 name: Build Omr Arabic Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-arabic-production ]
+#   repository_dispatch:
+#     types: [ build-omr-arabic-production ]
   workflow_dispatch:
 
 jobs:

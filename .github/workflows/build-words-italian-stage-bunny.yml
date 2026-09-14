@@ -1,8 +1,8 @@
 name: Build Words Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-words-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-words-italian-stage ]
   workflow_dispatch:
 
 jobs:

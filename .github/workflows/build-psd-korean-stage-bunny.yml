@@ -1,8 +1,8 @@
 name: Build Psd Korean Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-psd-korean-stage ]
+#   repository_dispatch:
+#     types: [ build-psd-korean-stage ]
   workflow_dispatch:
 
 jobs:

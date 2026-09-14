@@ -1,8 +1,8 @@
 name: Build Tex Turkish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tex-turkish-production ]
+#   repository_dispatch:
+#     types: [ build-tex-turkish-production ]
   workflow_dispatch:
 
 jobs:

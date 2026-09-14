@@ -1,8 +1,8 @@
 name: Build Omr Korean Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-korean-production ]
+#   repository_dispatch:
+#     types: [ build-omr-korean-production ]
   workflow_dispatch:
 
 jobs:

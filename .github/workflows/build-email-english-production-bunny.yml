@@ -1,8 +1,8 @@
 name: Build Email English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-email-english-production ]
+#   repository_dispatch:
+#     types: [ build-email-english-production ]
   workflow_dispatch:
 
 jobs:

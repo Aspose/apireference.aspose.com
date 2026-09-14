@@ -1,8 +1,8 @@
 name: Build Pub French Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pub-french-production ]
+#   repository_dispatch:
+#     types: [ build-pub-french-production ]
   workflow_dispatch:
 
 jobs:

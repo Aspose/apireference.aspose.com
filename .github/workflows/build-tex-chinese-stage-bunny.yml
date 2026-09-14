@@ -1,8 +1,8 @@
 name: Build Tex Chinese Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tex-chinese-stage ]
+#   repository_dispatch:
+#     types: [ build-tex-chinese-stage ]
   workflow_dispatch:
 
 jobs:

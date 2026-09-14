@@ -1,8 +1,8 @@
 name: Build Cells-python-net French Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-python-net-french-stage ]
+#   repository_dispatch:
+#     types: [ build-cells-python-net-french-stage ]
   workflow_dispatch:
 
 jobs:

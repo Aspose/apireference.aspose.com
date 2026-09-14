@@ -1,8 +1,8 @@
 name: Build Pdf French Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pdf-french-stage ]
+#   repository_dispatch:
+#     types: [ build-pdf-french-stage ]
   workflow_dispatch:
 
 jobs:

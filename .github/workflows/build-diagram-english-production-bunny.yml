@@ -1,8 +1,8 @@
 name: Build Diagram English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-diagram-english-production ]
+#   repository_dispatch:
+#     types: [ build-diagram-english-production ]
   workflow_dispatch:
 
 jobs:

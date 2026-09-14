@@ -1,8 +1,8 @@
 name: Build Pdf Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pdf-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-pdf-italian-stage ]
   workflow_dispatch:
 
 jobs:

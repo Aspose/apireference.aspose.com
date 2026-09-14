@@ -1,8 +1,8 @@
 name: Build Ocr English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-ocr-english-production ]
+#   repository_dispatch:
+#     types: [ build-ocr-english-production ]
   workflow_dispatch:
 
 jobs:

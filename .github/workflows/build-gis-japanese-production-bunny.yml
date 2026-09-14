@@ -1,8 +1,8 @@
 name: Build Gis Japanese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-japanese-production ]
+#   repository_dispatch:
+#     types: [ build-gis-japanese-production ]
   workflow_dispatch:
 
 jobs:

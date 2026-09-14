@@ -1,8 +1,8 @@
 name: Build Tex Swedish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tex-swedish-production ]
+#   repository_dispatch:
+#     types: [ build-tex-swedish-production ]
   workflow_dispatch:
 
 jobs:

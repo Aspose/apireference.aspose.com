@@ -1,8 +1,8 @@
 name: Build Psd Swedish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-psd-swedish-stage ]
+#   repository_dispatch:
+#     types: [ build-psd-swedish-stage ]
   workflow_dispatch:
 
 jobs:

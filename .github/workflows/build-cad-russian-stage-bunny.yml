@@ -1,8 +1,8 @@
 name: Build CAD Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cad-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-cad-russian-stage ]
   workflow_dispatch:
 
 jobs:

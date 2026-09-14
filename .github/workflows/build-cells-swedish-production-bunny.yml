@@ -1,8 +1,8 @@
 name: Build Cells Swedish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-swedish-production ]
+#   repository_dispatch:
+#     types: [ build-cells-swedish-production ]
   workflow_dispatch:
 
 jobs:

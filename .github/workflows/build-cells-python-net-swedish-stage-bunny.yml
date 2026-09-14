@@ -1,8 +1,8 @@
 name: Build Cells-python-net Swedish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-python-net-swedish-stage ]
+#   repository_dispatch:
+#     types: [ build-cells-python-net-swedish-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build 3d Korean Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-3d-korean-stage ]
+#   repository_dispatch:
+#     types: [ build-3d-korean-stage ]
   workflow_dispatch:
 
 jobs:

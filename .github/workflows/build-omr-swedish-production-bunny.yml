@@ -1,8 +1,8 @@
 name: Build Omr Swedish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-swedish-production ]
+#   repository_dispatch:
+#     types: [ build-omr-swedish-production ]
   workflow_dispatch:
 
 jobs:

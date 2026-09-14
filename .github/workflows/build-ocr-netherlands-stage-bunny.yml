@@ -1,8 +1,8 @@
 name: Build Ocr Netherlands Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-ocr-netherlands-stage ]
+#   repository_dispatch:
+#     types: [ build-ocr-netherlands-stage ]
   workflow_dispatch:
 
 jobs:

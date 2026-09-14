@@ -1,8 +1,8 @@
 name: Build Ocr Swedish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-ocr-swedish-stage ]
+#   repository_dispatch:
+#     types: [ build-ocr-swedish-stage ]
   workflow_dispatch:
 
 jobs:

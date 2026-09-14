@@ -1,8 +1,8 @@
 name: Build Gis Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-gis-italian-stage ]
   workflow_dispatch:
 
 jobs:

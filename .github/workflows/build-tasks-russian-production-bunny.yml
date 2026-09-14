@@ -1,8 +1,8 @@
 name: Build Tasks Russian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-russian-production ]
+#   repository_dispatch:
+#     types: [ build-tasks-russian-production ]
   workflow_dispatch:
 
 jobs:

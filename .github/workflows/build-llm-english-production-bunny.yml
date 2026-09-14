@@ -1,8 +1,8 @@
 name: Build LLM English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-llm-english-production ]
+#   repository_dispatch:
+#     types: [ build-llm-english-production ]
   workflow_dispatch:
 
 jobs:

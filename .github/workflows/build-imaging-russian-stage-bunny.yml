@@ -1,8 +1,8 @@
 name: Build Imaging Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-imaging-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-imaging-russian-stage ]
   workflow_dispatch:
 
 jobs:

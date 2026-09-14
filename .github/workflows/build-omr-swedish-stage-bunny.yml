@@ -1,8 +1,8 @@
 name: Build Omr Swedish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-swedish-stage ]
+#   repository_dispatch:
+#     types: [ build-omr-swedish-stage ]
   workflow_dispatch:
 
 jobs:

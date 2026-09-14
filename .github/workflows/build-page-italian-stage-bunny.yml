@@ -1,8 +1,8 @@
 name: Build Page Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-page-italian-stage ]
   workflow_dispatch:
 
 jobs:

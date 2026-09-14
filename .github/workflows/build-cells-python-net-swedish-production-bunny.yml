@@ -1,8 +1,8 @@
 name: Build Cells-python-net Swedish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-python-net-swedish-production ]
+#   repository_dispatch:
+#     types: [ build-cells-python-net-swedish-production ]
   workflow_dispatch:
 
 jobs:

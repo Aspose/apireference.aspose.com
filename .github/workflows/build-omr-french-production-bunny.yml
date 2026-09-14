@@ -1,8 +1,8 @@
 name: Build Omr French Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-french-production ]
+#   repository_dispatch:
+#     types: [ build-omr-french-production ]
   workflow_dispatch:
 
 jobs:

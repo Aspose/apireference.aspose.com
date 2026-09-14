@@ -1,8 +1,8 @@
 name: Build Cells German Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-german-stage ]
+#   repository_dispatch:
+#     types: [ build-cells-german-stage ]
   workflow_dispatch:
 
 jobs:

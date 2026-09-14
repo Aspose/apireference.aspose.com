@@ -1,8 +1,8 @@
 name: Build Drawing Spanish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-drawing-spanish-production ]
+#   repository_dispatch:
+#     types: [ build-drawing-spanish-production ]
   workflow_dispatch:
 
 jobs:

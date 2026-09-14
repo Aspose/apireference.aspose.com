@@ -1,8 +1,8 @@
 name: Build Svg Russian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-russian-production ]
+#   repository_dispatch:
+#     types: [ build-svg-russian-production ]
   workflow_dispatch:
 
 jobs:

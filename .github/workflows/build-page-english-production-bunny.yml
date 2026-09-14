@@ -1,8 +1,8 @@
 name: Build Page English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-english-production ]
+#   repository_dispatch:
+#     types: [ build-page-english-production ]
   workflow_dispatch:
 
 jobs:

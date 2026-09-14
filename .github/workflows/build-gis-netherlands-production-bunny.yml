@@ -1,8 +1,8 @@
 name: Build Gis Netherlands Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-netherlands-production ]
+#   repository_dispatch:
+#     types: [ build-gis-netherlands-production ]
   workflow_dispatch:
 
 jobs:

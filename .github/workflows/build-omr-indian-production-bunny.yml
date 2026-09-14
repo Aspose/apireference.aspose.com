@@ -1,8 +1,8 @@
 name: Build Omr Indian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-indian-production ]
+#   repository_dispatch:
+#     types: [ build-omr-indian-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Zip English Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-english-stage ]
+#   repository_dispatch:
+#     types: [ build-zip-english-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Tasks Italian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-italian-production ]
+#   repository_dispatch:
+#     types: [ build-tasks-italian-production ]
   workflow_dispatch:
 
 jobs:

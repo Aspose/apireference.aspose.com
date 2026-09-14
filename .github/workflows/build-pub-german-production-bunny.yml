@@ -1,8 +1,8 @@
 name: Build Pub German Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pub-german-production ]
+#   repository_dispatch:
+#     types: [ build-pub-german-production ]
   workflow_dispatch:
 
 jobs:

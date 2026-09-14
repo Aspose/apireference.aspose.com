@@ -1,8 +1,8 @@
 name: Build Omr Netherlands Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-netherlands-stage ]
+#   repository_dispatch:
+#     types: [ build-omr-netherlands-stage ]
   workflow_dispatch:
 
 jobs:

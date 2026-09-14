@@ -1,8 +1,8 @@
 name: Build Svg Arabic Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-arabic-stage ]
+#   repository_dispatch:
+#     types: [ build-svg-arabic-stage ]
   workflow_dispatch:
 
 jobs:

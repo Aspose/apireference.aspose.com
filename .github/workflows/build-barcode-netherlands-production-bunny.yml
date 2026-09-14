@@ -1,8 +1,8 @@
 name: Build Barcode Netherlands Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-netherlands-production ]
+#   repository_dispatch:
+#     types: [ build-barcode-netherlands-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Imaging Arabic Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-imaging-arabic-stage ]
+#   repository_dispatch:
+#     types: [ build-imaging-arabic-stage ]
   workflow_dispatch:
 
 jobs:

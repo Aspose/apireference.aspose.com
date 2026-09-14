@@ -1,8 +1,8 @@
 name: Build Finance Arabic Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-arabic-stage ]
+#   repository_dispatch:
+#     types: [ build-finance-arabic-stage ]
   workflow_dispatch:
 
 jobs:

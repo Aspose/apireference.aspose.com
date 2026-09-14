@@ -1,8 +1,8 @@
 name: Build Gis Korean Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-korean-stage ]
+#   repository_dispatch:
+#     types: [ build-gis-korean-stage ]
   workflow_dispatch:
 
 jobs:

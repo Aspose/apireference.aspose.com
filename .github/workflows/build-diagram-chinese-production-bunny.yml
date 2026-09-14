@@ -1,8 +1,8 @@
 name: Build Diagram Chinese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-diagram-chinese-production ]
+#   repository_dispatch:
+#     types: [ build-diagram-chinese-production ]
   workflow_dispatch:
 
 jobs:

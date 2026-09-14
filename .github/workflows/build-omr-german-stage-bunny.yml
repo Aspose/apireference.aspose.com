@@ -1,8 +1,8 @@
 name: Build Omr German Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-german-stage ]
+#   repository_dispatch:
+#     types: [ build-omr-german-stage ]
   workflow_dispatch:
 
 jobs:

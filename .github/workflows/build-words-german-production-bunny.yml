@@ -1,8 +1,8 @@
 name: Build Words German Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-words-german-production ]
+#   repository_dispatch:
+#     types: [ build-words-german-production ]
   workflow_dispatch:
 
 jobs:

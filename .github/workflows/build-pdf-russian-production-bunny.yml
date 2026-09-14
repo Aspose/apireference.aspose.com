@@ -1,8 +1,8 @@
 name: Build Pdf Russian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pdf-russian-production ]
+#   repository_dispatch:
+#     types: [ build-pdf-russian-production ]
   workflow_dispatch:
 
 jobs:

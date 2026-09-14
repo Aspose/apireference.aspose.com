@@ -1,8 +1,8 @@
 name: Build Gis Spanish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-spanish-production ]
+#   repository_dispatch:
+#     types: [ build-gis-spanish-production ]
   workflow_dispatch:
 
 jobs:

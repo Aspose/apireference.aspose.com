@@ -1,8 +1,8 @@
 name: Build Html Swedish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-swedish-stage ]
+#   repository_dispatch:
+#     types: [ build-html-swedish-stage ]
   workflow_dispatch:
 
 jobs:

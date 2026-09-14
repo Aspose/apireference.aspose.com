@@ -1,8 +1,8 @@
 name: Build Font Arabic Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-font-arabic-stage ]
+#   repository_dispatch:
+#     types: [ build-font-arabic-stage ]
   workflow_dispatch:
 
 jobs:

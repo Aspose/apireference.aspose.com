@@ -1,8 +1,8 @@
 name: Build Ocr Spanish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-ocr-spanish-production ]
+#   repository_dispatch:
+#     types: [ build-ocr-spanish-production ]
   workflow_dispatch:
 
 jobs:

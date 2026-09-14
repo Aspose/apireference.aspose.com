@@ -1,8 +1,8 @@
 name: Build Tex Russian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tex-russian-production ]
+#   repository_dispatch:
+#     types: [ build-tex-russian-production ]
   workflow_dispatch:
 
 jobs:

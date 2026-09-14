@@ -1,8 +1,8 @@
 name: Build Pdf Swedish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pdf-swedish-production ]
+#   repository_dispatch:
+#     types: [ build-pdf-swedish-production ]
   workflow_dispatch:
 
 jobs:

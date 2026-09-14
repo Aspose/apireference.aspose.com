@@ -1,8 +1,8 @@
 name: Build Cells-python-net Chinese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-python-net-chinese-production ]
+#   repository_dispatch:
+#     types: [ build-cells-python-net-chinese-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Omr Indian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-indian-stage ]
+#   repository_dispatch:
+#     types: [ build-omr-indian-stage ]
   workflow_dispatch:
 
 jobs:

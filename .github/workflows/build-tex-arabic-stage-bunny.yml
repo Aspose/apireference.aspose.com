@@ -1,8 +1,8 @@
 name: Build Tex Arabic Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tex-arabic-stage ]
+#   repository_dispatch:
+#     types: [ build-tex-arabic-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Tasks German Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-german-production ]
+#   repository_dispatch:
+#     types: [ build-tasks-german-production ]
   workflow_dispatch:
 
 jobs:

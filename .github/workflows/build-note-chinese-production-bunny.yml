@@ -1,8 +1,8 @@
 name: Build Note Chinese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-note-chinese-production ]
+#   repository_dispatch:
+#     types: [ build-note-chinese-production ]
   workflow_dispatch:
 
 jobs:

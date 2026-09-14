@@ -1,8 +1,8 @@
 name: Build CAD English Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cad-english-stage ]
+#   repository_dispatch:
+#     types: [ build-cad-english-stage ]
   workflow_dispatch:
 
 jobs:

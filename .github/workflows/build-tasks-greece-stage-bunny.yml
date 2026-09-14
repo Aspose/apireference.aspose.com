@@ -1,8 +1,8 @@
 name: Build Tasks Greece Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-greece-stage ]
+#   repository_dispatch:
+#     types: [ build-tasks-greece-stage ]
   workflow_dispatch:
 
 jobs:

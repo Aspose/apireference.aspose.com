@@ -1,8 +1,8 @@
 name: Build Pub German Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pub-german-stage ]
+#   repository_dispatch:
+#     types: [ build-pub-german-stage ]
   workflow_dispatch:
 
 jobs:

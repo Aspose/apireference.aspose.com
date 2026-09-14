@@ -1,8 +1,8 @@
 name: Build Finance Greece Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-greece-stage ]
+#   repository_dispatch:
+#     types: [ build-finance-greece-stage ]
   workflow_dispatch:
 
 jobs:

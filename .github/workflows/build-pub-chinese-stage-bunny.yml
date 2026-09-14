@@ -1,8 +1,8 @@
 name: Build Pub Chinese Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pub-chinese-stage ]
+#   repository_dispatch:
+#     types: [ build-pub-chinese-stage ]
   workflow_dispatch:
 
 jobs:

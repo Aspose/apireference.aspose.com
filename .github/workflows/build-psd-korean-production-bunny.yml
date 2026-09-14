@@ -1,8 +1,8 @@
 name: Build Psd Korean Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-psd-korean-production ]
+#   repository_dispatch:
+#     types: [ build-psd-korean-production ]
   workflow_dispatch:
 
 jobs:

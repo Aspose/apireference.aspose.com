@@ -1,8 +1,8 @@
 name: Build Cells Swedish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-swedish-stage ]
+#   repository_dispatch:
+#     types: [ build-cells-swedish-stage ]
   workflow_dispatch:
 
 jobs:

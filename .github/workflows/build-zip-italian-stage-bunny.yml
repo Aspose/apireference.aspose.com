@@ -1,8 +1,8 @@
 name: Build Zip Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-zip-italian-stage ]
   workflow_dispatch:
 
 jobs:

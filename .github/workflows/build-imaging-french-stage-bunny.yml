@@ -1,8 +1,8 @@
 name: Build Imaging French Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-imaging-french-stage ]
+#   repository_dispatch:
+#     types: [ build-imaging-french-stage ]
   workflow_dispatch:
 
 jobs:

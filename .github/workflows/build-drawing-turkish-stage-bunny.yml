@@ -1,8 +1,8 @@
 name: Build Drawing Turkish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-drawing-turkish-stage ]
+#   repository_dispatch:
+#     types: [ build-drawing-turkish-stage ]
   workflow_dispatch:
 
 jobs:

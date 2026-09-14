@@ -1,8 +1,8 @@
 name: Build Html Turkish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-turkish-stage ]
+#   repository_dispatch:
+#     types: [ build-html-turkish-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Barcode English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-english-production ]
+#   repository_dispatch:
+#     types: [ build-barcode-english-production ]
   workflow_dispatch:
 
 jobs:

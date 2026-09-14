@@ -1,8 +1,8 @@
 name: Build Tasks Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-tasks-italian-stage ]
   workflow_dispatch:
 
 jobs:

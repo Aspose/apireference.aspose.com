@@ -1,8 +1,8 @@
 name: Build Html Arabic Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-arabic-stage ]
+#   repository_dispatch:
+#     types: [ build-html-arabic-stage ]
   workflow_dispatch:
 
 jobs:

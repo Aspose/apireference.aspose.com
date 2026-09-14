@@ -1,8 +1,8 @@
 name: Build Tex French Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tex-french-stage ]
+#   repository_dispatch:
+#     types: [ build-tex-french-stage ]
   workflow_dispatch:
 
 jobs:

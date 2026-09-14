@@ -1,8 +1,8 @@
 name: Build 3d Greece Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-3d-greece-stage ]
+#   repository_dispatch:
+#     types: [ build-3d-greece-stage ]
   workflow_dispatch:
 
 jobs:

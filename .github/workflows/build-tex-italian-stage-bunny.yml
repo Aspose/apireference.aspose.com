@@ -1,8 +1,8 @@
 name: Build Tex Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tex-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-tex-italian-stage ]
   workflow_dispatch:
 
 jobs:

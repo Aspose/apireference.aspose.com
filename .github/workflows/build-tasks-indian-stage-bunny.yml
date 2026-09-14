@@ -1,8 +1,8 @@
 name: Build Tasks Indian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-indian-stage ]
+#   repository_dispatch:
+#     types: [ build-tasks-indian-stage ]
   workflow_dispatch:
 
 jobs:

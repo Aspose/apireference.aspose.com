@@ -1,8 +1,8 @@
 name: Build Svg Indonesian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-indonesian-production ]
+#   repository_dispatch:
+#     types: [ build-svg-indonesian-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Diagram Netherlands Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-diagram-netherlands-production ]
+#   repository_dispatch:
+#     types: [ build-diagram-netherlands-production ]
   workflow_dispatch:
 
 jobs:

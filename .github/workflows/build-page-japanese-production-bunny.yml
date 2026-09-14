@@ -1,8 +1,8 @@
 name: Build Page Japanese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-japanese-production ]
+#   repository_dispatch:
+#     types: [ build-page-japanese-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Barcode French Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-french-production ]
+#   repository_dispatch:
+#     types: [ build-barcode-french-production ]
   workflow_dispatch:
 
 jobs:

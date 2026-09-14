@@ -1,8 +1,8 @@
 name: Build Diagram English Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-diagram-english-stage ]
+#   repository_dispatch:
+#     types: [ build-diagram-english-stage ]
   workflow_dispatch:
 
 jobs:

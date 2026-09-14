@@ -1,8 +1,8 @@
 name: Build Font French Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-font-french-stage ]
+#   repository_dispatch:
+#     types: [ build-font-french-stage ]
   workflow_dispatch:
 
 jobs:

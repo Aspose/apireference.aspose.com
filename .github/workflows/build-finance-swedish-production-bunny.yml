@@ -1,8 +1,8 @@
 name: Build Finance Swedish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-swedish-production ]
+#   repository_dispatch:
+#     types: [ build-finance-swedish-production ]
   workflow_dispatch:
 
 jobs:

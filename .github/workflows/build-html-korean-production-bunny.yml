@@ -1,8 +1,8 @@
 name: Build Html Korean Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-korean-production ]
+#   repository_dispatch:
+#     types: [ build-html-korean-production ]
   workflow_dispatch:
 
 jobs:

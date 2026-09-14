@@ -1,8 +1,8 @@
 name: Build Note Russian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-note-russian-production ]
+#   repository_dispatch:
+#     types: [ build-note-russian-production ]
   workflow_dispatch:
 
 jobs:

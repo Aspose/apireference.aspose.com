@@ -1,8 +1,8 @@
 name: Build Pdf English Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pdf-english-stage ]
+#   repository_dispatch:
+#     types: [ build-pdf-english-stage ]
   workflow_dispatch:
 
 jobs:

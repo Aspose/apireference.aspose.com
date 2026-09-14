@@ -1,8 +1,8 @@
 name: Build Tex English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tex-english-production ]
+#   repository_dispatch:
+#     types: [ build-tex-english-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Cells-python-net French Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-python-net-french-production ]
+#   repository_dispatch:
+#     types: [ build-cells-python-net-french-production ]
   workflow_dispatch:
 
 jobs:

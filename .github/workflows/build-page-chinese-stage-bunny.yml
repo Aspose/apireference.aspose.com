@@ -1,8 +1,8 @@
 name: Build Page Chinese Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-chinese-stage ]
+#   repository_dispatch:
+#     types: [ build-page-chinese-stage ]
   workflow_dispatch:
 
 jobs:

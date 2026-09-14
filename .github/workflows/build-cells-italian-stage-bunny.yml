@@ -1,8 +1,8 @@
 name: Build Cells Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-cells-italian-stage ]
   workflow_dispatch:
 
 jobs:

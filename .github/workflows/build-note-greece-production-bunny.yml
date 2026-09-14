@@ -1,8 +1,8 @@
 name: Build Note Greece Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-note-greece-production ]
+#   repository_dispatch:
+#     types: [ build-note-greece-production ]
   workflow_dispatch:
 
 jobs:

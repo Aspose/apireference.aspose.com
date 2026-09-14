@@ -1,8 +1,8 @@
 name: Build Font Arabic Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-font-arabic-production ]
+#   repository_dispatch:
+#     types: [ build-font-arabic-production ]
   workflow_dispatch:
 
 jobs:

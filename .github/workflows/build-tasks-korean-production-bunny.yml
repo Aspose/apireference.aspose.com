@@ -1,8 +1,8 @@
 name: Build Tasks Korean Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-korean-production ]
+#   repository_dispatch:
+#     types: [ build-tasks-korean-production ]
   workflow_dispatch:
 
 jobs:

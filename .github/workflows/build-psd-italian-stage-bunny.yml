@@ -1,8 +1,8 @@
 name: Build Psd Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-psd-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-psd-italian-stage ]
   workflow_dispatch:
 
 jobs:

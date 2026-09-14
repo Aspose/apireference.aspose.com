@@ -1,8 +1,8 @@
 name: Build Finance French Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-french-stage ]
+#   repository_dispatch:
+#     types: [ build-finance-french-stage ]
   workflow_dispatch:
 
 jobs:

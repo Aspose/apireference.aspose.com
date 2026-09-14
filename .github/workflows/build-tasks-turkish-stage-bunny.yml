@@ -1,8 +1,8 @@
 name: Build Tasks Turkish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-turkish-stage ]
+#   repository_dispatch:
+#     types: [ build-tasks-turkish-stage ]
   workflow_dispatch:
 
 jobs:

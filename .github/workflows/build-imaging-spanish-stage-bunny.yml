@@ -1,8 +1,8 @@
 name: Build Imaging Spanish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-imaging-spanish-stage ]
+#   repository_dispatch:
+#     types: [ build-imaging-spanish-stage ]
   workflow_dispatch:
 
 jobs:

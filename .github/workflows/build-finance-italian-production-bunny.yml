@@ -1,8 +1,8 @@
 name: Build Finance Italian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-italian-production ]
+#   repository_dispatch:
+#     types: [ build-finance-italian-production ]
   workflow_dispatch:
 
 jobs:

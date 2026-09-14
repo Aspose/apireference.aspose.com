@@ -1,8 +1,8 @@
 name: Build Note Netherlands Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-note-netherlands-production ]
+#   repository_dispatch:
+#     types: [ build-note-netherlands-production ]
   workflow_dispatch:
 
 jobs:

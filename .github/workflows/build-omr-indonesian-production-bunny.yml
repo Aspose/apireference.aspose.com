@@ -1,8 +1,8 @@
 name: Build Omr Indonesian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-indonesian-production ]
+#   repository_dispatch:
+#     types: [ build-omr-indonesian-production ]
   workflow_dispatch:
 
 jobs:

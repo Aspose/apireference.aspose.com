@@ -1,8 +1,8 @@
 name: Build Page Spanish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-spanish-stage ]
+#   repository_dispatch:
+#     types: [ build-page-spanish-stage ]
   workflow_dispatch:
 
 jobs:

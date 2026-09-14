@@ -1,8 +1,8 @@
 name: Build Gis Netherlands Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-netherlands-stage ]
+#   repository_dispatch:
+#     types: [ build-gis-netherlands-stage ]
   workflow_dispatch:
 
 jobs:

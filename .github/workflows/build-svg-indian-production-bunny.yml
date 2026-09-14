@@ -1,8 +1,8 @@
 name: Build Svg Indian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-indian-production ]
+#   repository_dispatch:
+#     types: [ build-svg-indian-production ]
   workflow_dispatch:
 
 jobs:

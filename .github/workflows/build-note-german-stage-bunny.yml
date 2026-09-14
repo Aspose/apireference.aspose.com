@@ -1,8 +1,8 @@
 name: Build Note German Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-note-german-stage ]
+#   repository_dispatch:
+#     types: [ build-note-german-stage ]
   workflow_dispatch:
 
 jobs:

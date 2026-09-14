@@ -1,8 +1,8 @@
 name: Build Pdf Korean Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pdf-korean-stage ]
+#   repository_dispatch:
+#     types: [ build-pdf-korean-stage ]
   workflow_dispatch:
 
 jobs:

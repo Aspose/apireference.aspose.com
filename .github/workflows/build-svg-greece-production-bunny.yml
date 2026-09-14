@@ -1,8 +1,8 @@
 name: Build Svg Greece Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-greece-production ]
+#   repository_dispatch:
+#     types: [ build-svg-greece-production ]
   workflow_dispatch:
 
 jobs:

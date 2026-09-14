@@ -1,8 +1,8 @@
 name: Build Drawing Indonesian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-drawing-indonesian-production ]
+#   repository_dispatch:
+#     types: [ build-drawing-indonesian-production ]
   workflow_dispatch:
 
 jobs:

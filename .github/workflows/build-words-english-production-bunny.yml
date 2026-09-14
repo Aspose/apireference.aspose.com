@@ -1,8 +1,8 @@
 name: Build Words English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-words-english-production ]
+#   repository_dispatch:
+#     types: [ build-words-english-production ]
   workflow_dispatch:
 
 jobs:

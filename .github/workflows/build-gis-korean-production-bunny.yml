@@ -1,8 +1,8 @@
 name: Build Gis Korean Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-korean-production ]
+#   repository_dispatch:
+#     types: [ build-gis-korean-production ]
   workflow_dispatch:
 
 jobs:

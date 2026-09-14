@@ -1,8 +1,8 @@
 name: Build Font Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-font-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-font-russian-stage ]
   workflow_dispatch:
 
 jobs:

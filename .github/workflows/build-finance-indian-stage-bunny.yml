@@ -1,8 +1,8 @@
 name: Build Finance Indian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-indian-stage ]
+#   repository_dispatch:
+#     types: [ build-finance-indian-stage ]
   workflow_dispatch:
 
 jobs:

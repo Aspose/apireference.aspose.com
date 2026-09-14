@@ -1,8 +1,8 @@
 name: Build Gis Swedish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-swedish-stage ]
+#   repository_dispatch:
+#     types: [ build-gis-swedish-stage ]
   workflow_dispatch:
 
 jobs:

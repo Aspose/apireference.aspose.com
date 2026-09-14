@@ -1,8 +1,8 @@
 name: Build Zip Indonesian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-indonesian-stage ]
+#   repository_dispatch:
+#     types: [ build-zip-indonesian-stage ]
   workflow_dispatch:
 
 jobs:

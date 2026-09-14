@@ -1,8 +1,8 @@
 name: Build Svg Turkish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-turkish-stage ]
+#   repository_dispatch:
+#     types: [ build-svg-turkish-stage ]
   workflow_dispatch:
 
 jobs:

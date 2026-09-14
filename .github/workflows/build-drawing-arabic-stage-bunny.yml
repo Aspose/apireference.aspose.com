@@ -1,8 +1,8 @@
 name: Build Drawing Arabic Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-drawing-arabic-stage ]
+#   repository_dispatch:
+#     types: [ build-drawing-arabic-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Gis Indian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-indian-production ]
+#   repository_dispatch:
+#     types: [ build-gis-indian-production ]
   workflow_dispatch:
 
 jobs:

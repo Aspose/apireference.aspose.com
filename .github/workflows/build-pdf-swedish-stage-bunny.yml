@@ -1,8 +1,8 @@
 name: Build Pdf Swedish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pdf-swedish-stage ]
+#   repository_dispatch:
+#     types: [ build-pdf-swedish-stage ]
   workflow_dispatch:
 
 jobs:

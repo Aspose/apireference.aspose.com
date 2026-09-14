@@ -1,8 +1,8 @@
 name: Build Pdf Korean Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pdf-korean-production ]
+#   repository_dispatch:
+#     types: [ build-pdf-korean-production ]
   workflow_dispatch:
 
 jobs:

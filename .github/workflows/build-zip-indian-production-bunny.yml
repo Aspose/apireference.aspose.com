@@ -1,8 +1,8 @@
 name: Build Zip Indian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-indian-production ]
+#   repository_dispatch:
+#     types: [ build-zip-indian-production ]
   workflow_dispatch:
 
 jobs:

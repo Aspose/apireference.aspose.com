@@ -1,8 +1,8 @@
 name: Build Drawing French Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-drawing-french-stage ]
+#   repository_dispatch:
+#     types: [ build-drawing-french-stage ]
   workflow_dispatch:
 
 jobs:

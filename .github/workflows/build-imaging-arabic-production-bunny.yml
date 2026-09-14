@@ -1,8 +1,8 @@
 name: Build Imaging Arabic Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-imaging-arabic-production ]
+#   repository_dispatch:
+#     types: [ build-imaging-arabic-production ]
   workflow_dispatch:
 
 jobs:

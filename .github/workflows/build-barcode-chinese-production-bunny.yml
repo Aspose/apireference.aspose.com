@@ -1,8 +1,8 @@
 name: Build Barcode Chinese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-chinese-production ]
+#   repository_dispatch:
+#     types: [ build-barcode-chinese-production ]
   workflow_dispatch:
 
 jobs:

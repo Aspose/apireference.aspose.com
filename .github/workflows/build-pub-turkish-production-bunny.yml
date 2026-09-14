@@ -1,8 +1,8 @@
 name: Build Pub Turkish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pub-turkish-production ]
+#   repository_dispatch:
+#     types: [ build-pub-turkish-production ]
   workflow_dispatch:
 
 jobs:

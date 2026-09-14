@@ -1,8 +1,8 @@
 name: Build Svg Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-svg-italian-stage ]
   workflow_dispatch:
 
 jobs:

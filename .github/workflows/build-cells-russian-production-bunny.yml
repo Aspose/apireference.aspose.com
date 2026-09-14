@@ -1,8 +1,8 @@
 name: Build Cells Russian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-russian-production ]
+#   repository_dispatch:
+#     types: [ build-cells-russian-production ]
   workflow_dispatch:
 
 jobs:

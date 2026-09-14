@@ -1,8 +1,8 @@
 name: Build Omr Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-omr-russian-stage ]
   workflow_dispatch:
 
 jobs:

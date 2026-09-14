@@ -1,8 +1,8 @@
 name: Build Pdf Italian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pdf-italian-production ]
+#   repository_dispatch:
+#     types: [ build-pdf-italian-production ]
   workflow_dispatch:
 
 jobs:

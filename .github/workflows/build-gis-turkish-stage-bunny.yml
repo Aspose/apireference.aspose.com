@@ -1,8 +1,8 @@
 name: Build Gis Turkish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-turkish-stage ]
+#   repository_dispatch:
+#     types: [ build-gis-turkish-stage ]
   workflow_dispatch:
 
 jobs:

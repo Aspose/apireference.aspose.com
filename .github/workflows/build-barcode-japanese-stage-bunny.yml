@@ -1,8 +1,8 @@
 name: Build Barcode Japanese Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-japanese-stage ]
+#   repository_dispatch:
+#     types: [ build-barcode-japanese-stage ]
   workflow_dispatch:
 
 jobs:

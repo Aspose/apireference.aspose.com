@@ -1,8 +1,8 @@
 name: Build Imaging French Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-imaging-french-production ]
+#   repository_dispatch:
+#     types: [ build-imaging-french-production ]
   workflow_dispatch:
 
 jobs:

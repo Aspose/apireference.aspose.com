@@ -1,8 +1,8 @@
 name: Build Html Spanish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-spanish-production ]
+#   repository_dispatch:
+#     types: [ build-html-spanish-production ]
   workflow_dispatch:
 
 jobs:

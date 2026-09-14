@@ -1,8 +1,8 @@
 name: Build Finance Netherlands Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-netherlands-production ]
+#   repository_dispatch:
+#     types: [ build-finance-netherlands-production ]
   workflow_dispatch:
 
 jobs:

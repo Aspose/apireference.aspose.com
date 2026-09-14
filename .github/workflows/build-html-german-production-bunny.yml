@@ -1,8 +1,8 @@
 name: Build Html German Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-german-production ]
+#   repository_dispatch:
+#     types: [ build-html-german-production ]
   workflow_dispatch:
 
 jobs:

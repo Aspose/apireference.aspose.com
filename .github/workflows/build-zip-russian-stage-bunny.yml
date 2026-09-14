@@ -1,8 +1,8 @@
 name: Build Zip Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-zip-russian-stage ]
   workflow_dispatch:
 
 jobs:

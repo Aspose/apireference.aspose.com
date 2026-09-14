@@ -1,8 +1,8 @@
 name: Build Omr Spanish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-spanish-production ]
+#   repository_dispatch:
+#     types: [ build-omr-spanish-production ]
   workflow_dispatch:
 
 jobs:

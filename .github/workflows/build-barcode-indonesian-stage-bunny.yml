@@ -1,8 +1,8 @@
 name: Build Barcode Indonesian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-indonesian-stage ]
+#   repository_dispatch:
+#     types: [ build-barcode-indonesian-stage ]
   workflow_dispatch:
 
 jobs:

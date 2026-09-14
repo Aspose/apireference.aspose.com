@@ -1,8 +1,8 @@
 name: Build Barcode Swedish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-swedish-production ]
+#   repository_dispatch:
+#     types: [ build-barcode-swedish-production ]
   workflow_dispatch:
 
 jobs:

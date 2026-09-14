@@ -1,8 +1,8 @@
 name: Build Note Indian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-note-indian-production ]
+#   repository_dispatch:
+#     types: [ build-note-indian-production ]
   workflow_dispatch:
 
 jobs:

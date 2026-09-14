@@ -1,8 +1,8 @@
 name: Build Drawing German Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-drawing-german-stage ]
+#   repository_dispatch:
+#     types: [ build-drawing-german-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Gis French Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-french-production ]
+#   repository_dispatch:
+#     types: [ build-gis-french-production ]
   workflow_dispatch:
 
 jobs:

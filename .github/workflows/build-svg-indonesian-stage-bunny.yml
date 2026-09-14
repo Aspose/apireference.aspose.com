@@ -1,8 +1,8 @@
 name: Build Svg Indonesian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-indonesian-stage ]
+#   repository_dispatch:
+#     types: [ build-svg-indonesian-stage ]
   workflow_dispatch:
 
 jobs:

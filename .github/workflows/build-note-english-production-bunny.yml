@@ -1,8 +1,8 @@
 name: Build Note English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-note-english-production ]
+#   repository_dispatch:
+#     types: [ build-note-english-production ]
   workflow_dispatch:
 
 jobs:

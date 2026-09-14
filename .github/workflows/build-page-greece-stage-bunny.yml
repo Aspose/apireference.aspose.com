@@ -1,8 +1,8 @@
 name: Build Page Greece Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-greece-stage ]
+#   repository_dispatch:
+#     types: [ build-page-greece-stage ]
   workflow_dispatch:
 
 jobs:

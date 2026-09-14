@@ -1,8 +1,8 @@
 name: Build Zip Arabic Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-arabic-stage ]
+#   repository_dispatch:
+#     types: [ build-zip-arabic-stage ]
   workflow_dispatch:
 
 jobs:

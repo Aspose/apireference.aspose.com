@@ -1,8 +1,8 @@
 name: Build Cells-python-net Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-python-net-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-cells-python-net-italian-stage ]
   workflow_dispatch:
 
 jobs:

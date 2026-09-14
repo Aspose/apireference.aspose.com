@@ -1,8 +1,8 @@
 name: Build Zip English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-english-production ]
+#   repository_dispatch:
+#     types: [ build-zip-english-production ]
   workflow_dispatch:
 
 jobs:

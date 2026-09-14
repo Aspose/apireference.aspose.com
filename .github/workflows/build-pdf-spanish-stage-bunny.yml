@@ -1,8 +1,8 @@
 name: Build Pdf Spanish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pdf-spanish-stage ]
+#   repository_dispatch:
+#     types: [ build-pdf-spanish-stage ]
   workflow_dispatch:
 
 jobs:

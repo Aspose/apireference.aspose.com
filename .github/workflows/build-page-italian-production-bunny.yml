@@ -1,8 +1,8 @@
 name: Build Page Italian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-italian-production ]
+#   repository_dispatch:
+#     types: [ build-page-italian-production ]
   workflow_dispatch:
 
 jobs:

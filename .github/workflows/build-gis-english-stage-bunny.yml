@@ -1,8 +1,8 @@
 name: Build Gis English Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-english-stage ]
+#   repository_dispatch:
+#     types: [ build-gis-english-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Page Greece Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-greece-production ]
+#   repository_dispatch:
+#     types: [ build-page-greece-production ]
   workflow_dispatch:
 
 jobs:

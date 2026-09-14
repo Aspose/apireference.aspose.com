@@ -1,8 +1,8 @@
 name: Build Finance Turkish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-turkish-stage ]
+#   repository_dispatch:
+#     types: [ build-finance-turkish-stage ]
   workflow_dispatch:
 
 jobs:

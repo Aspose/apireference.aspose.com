@@ -1,8 +1,8 @@
 name: Build Cells-python-net German Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-python-net-german-production ]
+#   repository_dispatch:
+#     types: [ build-cells-python-net-german-production ]
   workflow_dispatch:
 
 jobs:

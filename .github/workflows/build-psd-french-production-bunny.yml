@@ -1,8 +1,8 @@
 name: Build Psd French Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-psd-french-production ]
+#   repository_dispatch:
+#     types: [ build-psd-french-production ]
   workflow_dispatch:
 
 jobs:

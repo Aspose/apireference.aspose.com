@@ -1,8 +1,8 @@
 name: Build 3d Turkish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-3d-turkish-production ]
+#   repository_dispatch:
+#     types: [ build-3d-turkish-production ]
   workflow_dispatch:
 
 jobs:

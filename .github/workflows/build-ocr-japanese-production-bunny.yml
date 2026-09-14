@@ -1,8 +1,8 @@
 name: Build Ocr Japanese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-ocr-japanese-production ]
+#   repository_dispatch:
+#     types: [ build-ocr-japanese-production ]
   workflow_dispatch:
 
 jobs:

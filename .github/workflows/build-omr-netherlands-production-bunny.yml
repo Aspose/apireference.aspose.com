@@ -1,8 +1,8 @@
 name: Build Omr Netherlands Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-netherlands-production ]
+#   repository_dispatch:
+#     types: [ build-omr-netherlands-production ]
   workflow_dispatch:
 
 jobs:

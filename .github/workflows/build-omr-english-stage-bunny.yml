@@ -1,8 +1,8 @@
 name: Build Omr English Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-omr-english-stage ]
+#   repository_dispatch:
+#     types: [ build-omr-english-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Tasks English Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-english-stage ]
+#   repository_dispatch:
+#     types: [ build-tasks-english-stage ]
   workflow_dispatch:
 
 jobs:

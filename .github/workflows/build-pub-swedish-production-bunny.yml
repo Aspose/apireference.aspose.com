@@ -1,8 +1,8 @@
 name: Build Pub Swedish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pub-swedish-production ]
+#   repository_dispatch:
+#     types: [ build-pub-swedish-production ]
   workflow_dispatch:
 
 jobs:

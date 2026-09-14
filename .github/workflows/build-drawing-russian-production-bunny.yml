@@ -1,8 +1,8 @@
 name: Build Drawing Russian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-drawing-russian-production ]
+#   repository_dispatch:
+#     types: [ build-drawing-russian-production ]
   workflow_dispatch:
 
 jobs:

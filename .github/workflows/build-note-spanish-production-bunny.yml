@@ -1,8 +1,8 @@
 name: Build Note Spanish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-note-spanish-production ]
+#   repository_dispatch:
+#     types: [ build-note-spanish-production ]
   workflow_dispatch:
 
 jobs:

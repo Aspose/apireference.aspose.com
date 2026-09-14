@@ -1,8 +1,8 @@
 name: Build Barcode Spanish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-spanish-production ]
+#   repository_dispatch:
+#     types: [ build-barcode-spanish-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Svg Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-svg-russian-stage ]
   workflow_dispatch:
 
 jobs:

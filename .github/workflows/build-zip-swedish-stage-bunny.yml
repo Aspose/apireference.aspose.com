@@ -1,8 +1,8 @@
 name: Build Zip Swedish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-swedish-stage ]
+#   repository_dispatch:
+#     types: [ build-zip-swedish-stage ]
   workflow_dispatch:
 
 jobs:

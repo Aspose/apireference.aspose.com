@@ -1,8 +1,8 @@
 name: Build Gis Greece Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-greece-production ]
+#   repository_dispatch:
+#     types: [ build-gis-greece-production ]
   workflow_dispatch:
 
 jobs:

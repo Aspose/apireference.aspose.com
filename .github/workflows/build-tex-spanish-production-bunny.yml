@@ -1,8 +1,8 @@
 name: Build Tex Spanish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tex-spanish-production ]
+#   repository_dispatch:
+#     types: [ build-tex-spanish-production ]
   workflow_dispatch:
 
 jobs:

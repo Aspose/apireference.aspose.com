@@ -1,8 +1,8 @@
 name: Build Barcode Indian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-indian-production ]
+#   repository_dispatch:
+#     types: [ build-barcode-indian-production ]
   workflow_dispatch:
 
 jobs:

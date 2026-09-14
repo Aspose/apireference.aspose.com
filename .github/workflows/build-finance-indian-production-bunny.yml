@@ -1,8 +1,8 @@
 name: Build Finance Indian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-indian-production ]
+#   repository_dispatch:
+#     types: [ build-finance-indian-production ]
   workflow_dispatch:
 
 jobs:

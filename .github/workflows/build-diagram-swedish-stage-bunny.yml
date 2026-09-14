@@ -1,8 +1,8 @@
 name: Build Diagram Swedish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-diagram-swedish-stage ]
+#   repository_dispatch:
+#     types: [ build-diagram-swedish-stage ]
   workflow_dispatch:
 
 jobs:

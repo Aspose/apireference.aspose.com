@@ -1,8 +1,8 @@
 name: Build Html Indian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-indian-production ]
+#   repository_dispatch:
+#     types: [ build-html-indian-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Barcode English Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-english-stage ]
+#   repository_dispatch:
+#     types: [ build-barcode-english-stage ]
   workflow_dispatch:
 
 jobs:

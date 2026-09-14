@@ -1,8 +1,8 @@
 name: Build Cells Arabic Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-arabic-stage ]
+#   repository_dispatch:
+#     types: [ build-cells-arabic-stage ]
   workflow_dispatch:
 
 jobs:

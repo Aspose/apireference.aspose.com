@@ -1,8 +1,8 @@
 name: Build Ocr French Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-ocr-french-stage ]
+#   repository_dispatch:
+#     types: [ build-ocr-french-stage ]
   workflow_dispatch:
 
 jobs:

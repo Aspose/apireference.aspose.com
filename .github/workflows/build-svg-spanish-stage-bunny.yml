@@ -1,8 +1,8 @@
 name: Build Svg Spanish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-svg-spanish-stage ]
+#   repository_dispatch:
+#     types: [ build-svg-spanish-stage ]
   workflow_dispatch:
 
 jobs:

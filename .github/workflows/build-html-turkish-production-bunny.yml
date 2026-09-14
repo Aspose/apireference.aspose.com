@@ -1,8 +1,8 @@
 name: Build Html Turkish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-turkish-production ]
+#   repository_dispatch:
+#     types: [ build-html-turkish-production ]
   workflow_dispatch:
 
 jobs:

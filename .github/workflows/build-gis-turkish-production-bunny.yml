@@ -1,8 +1,8 @@
 name: Build Gis Turkish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-turkish-production ]
+#   repository_dispatch:
+#     types: [ build-gis-turkish-production ]
   workflow_dispatch:
 
 jobs:

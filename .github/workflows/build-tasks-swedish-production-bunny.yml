@@ -1,8 +1,8 @@
 name: Build Tasks Swedish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-swedish-production ]
+#   repository_dispatch:
+#     types: [ build-tasks-swedish-production ]
   workflow_dispatch:
 
 jobs:

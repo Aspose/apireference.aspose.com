@@ -1,8 +1,8 @@
 name: Build Cells-python-net German Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-python-net-german-stage ]
+#   repository_dispatch:
+#     types: [ build-cells-python-net-german-stage ]
   workflow_dispatch:
 
 jobs:

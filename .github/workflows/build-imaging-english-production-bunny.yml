@@ -1,8 +1,8 @@
 name: Build Imaging English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-imaging-english-production ]
+#   repository_dispatch:
+#     types: [ build-imaging-english-production ]
   workflow_dispatch:
 
 jobs:

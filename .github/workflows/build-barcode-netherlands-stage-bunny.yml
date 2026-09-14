@@ -1,8 +1,8 @@
 name: Build Barcode Netherlands Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-netherlands-stage ]
+#   repository_dispatch:
+#     types: [ build-barcode-netherlands-stage ]
   workflow_dispatch:
 
 jobs:

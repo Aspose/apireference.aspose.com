@@ -1,8 +1,8 @@
 name: Build Zip German Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-german-production ]
+#   repository_dispatch:
+#     types: [ build-zip-german-production ]
   workflow_dispatch:
 
 jobs:

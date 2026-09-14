@@ -1,8 +1,8 @@
 name: Build Page Indian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-indian-production ]
+#   repository_dispatch:
+#     types: [ build-page-indian-production ]
   workflow_dispatch:
 
 jobs:

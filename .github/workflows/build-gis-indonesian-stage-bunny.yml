@@ -1,8 +1,8 @@
 name: Build Gis Indonesian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-indonesian-stage ]
+#   repository_dispatch:
+#     types: [ build-gis-indonesian-stage ]
   workflow_dispatch:
 
 jobs:

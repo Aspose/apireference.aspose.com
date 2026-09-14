@@ -1,8 +1,8 @@
 name: Build 3d Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-3d-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-3d-italian-stage ]
   workflow_dispatch:
 
 jobs:

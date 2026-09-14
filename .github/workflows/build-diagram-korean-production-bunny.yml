@@ -1,8 +1,8 @@
 name: Build Diagram Korean Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-diagram-korean-production ]
+#   repository_dispatch:
+#     types: [ build-diagram-korean-production ]
   workflow_dispatch:
 
 jobs:

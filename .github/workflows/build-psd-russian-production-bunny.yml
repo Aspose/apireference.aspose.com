@@ -1,8 +1,8 @@
 name: Build Psd Russian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-psd-russian-production ]
+#   repository_dispatch:
+#     types: [ build-psd-russian-production ]
   workflow_dispatch:
 
 jobs:

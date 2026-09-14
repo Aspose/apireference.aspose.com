@@ -1,8 +1,8 @@
 name: Build Pdf Arabic Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pdf-arabic-production ]
+#   repository_dispatch:
+#     types: [ build-pdf-arabic-production ]
   workflow_dispatch:
 
 jobs:

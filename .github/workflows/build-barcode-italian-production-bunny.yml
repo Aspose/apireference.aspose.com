@@ -1,8 +1,8 @@
 name: Build Barcode Italian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-italian-production ]
+#   repository_dispatch:
+#     types: [ build-barcode-italian-production ]
   workflow_dispatch:
 
 jobs:

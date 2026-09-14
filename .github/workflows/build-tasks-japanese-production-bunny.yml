@@ -1,8 +1,8 @@
 name: Build Tasks Japanese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-japanese-production ]
+#   repository_dispatch:
+#     types: [ build-tasks-japanese-production ]
   workflow_dispatch:
 
 jobs:

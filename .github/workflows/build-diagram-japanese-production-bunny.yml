@@ -1,8 +1,8 @@
 name: Build Diagram Japanese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-diagram-japanese-production ]
+#   repository_dispatch:
+#     types: [ build-diagram-japanese-production ]
   workflow_dispatch:
 
 jobs:

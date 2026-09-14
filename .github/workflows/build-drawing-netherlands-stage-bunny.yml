@@ -1,8 +1,8 @@
 name: Build Drawing Netherlands Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-drawing-netherlands-stage ]
+#   repository_dispatch:
+#     types: [ build-drawing-netherlands-stage ]
   workflow_dispatch:
 
 jobs:

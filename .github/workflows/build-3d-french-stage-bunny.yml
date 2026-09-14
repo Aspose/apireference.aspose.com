@@ -1,8 +1,8 @@
 name: Build 3d French Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-3d-french-stage ]
+#   repository_dispatch:
+#     types: [ build-3d-french-stage ]
   workflow_dispatch:
 
 jobs:

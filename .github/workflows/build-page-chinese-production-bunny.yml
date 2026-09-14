@@ -1,8 +1,8 @@
 name: Build Page Chinese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-chinese-production ]
+#   repository_dispatch:
+#     types: [ build-page-chinese-production ]
   workflow_dispatch:
 
 jobs:

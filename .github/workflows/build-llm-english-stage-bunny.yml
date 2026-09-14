@@ -1,8 +1,8 @@
 name: Build LLM English Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-llm-english-stage ]
+#   repository_dispatch:
+#     types: [ build-llm-english-stage ]
   workflow_dispatch:
 
 jobs:

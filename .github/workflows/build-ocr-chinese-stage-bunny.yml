@@ -1,8 +1,8 @@
 name: Build Ocr Chinese Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-ocr-chinese-stage ]
+#   repository_dispatch:
+#     types: [ build-ocr-chinese-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Psd Indian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-psd-indian-production ]
+#   repository_dispatch:
+#     types: [ build-psd-indian-production ]
   workflow_dispatch:
 
 jobs:

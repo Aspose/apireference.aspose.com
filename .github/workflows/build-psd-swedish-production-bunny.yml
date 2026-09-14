@@ -1,8 +1,8 @@
 name: Build Psd Swedish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-psd-swedish-production ]
+#   repository_dispatch:
+#     types: [ build-psd-swedish-production ]
   workflow_dispatch:
 
 jobs:

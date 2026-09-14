@@ -1,8 +1,8 @@
 name: Build Email Chinese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-email-chinese-production ]
+#   repository_dispatch:
+#     types: [ build-email-chinese-production ]
   workflow_dispatch:
 
 jobs:

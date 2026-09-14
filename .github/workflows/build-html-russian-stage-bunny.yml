@@ -1,8 +1,8 @@
 name: Build Html Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-html-russian-stage ]
   workflow_dispatch:
 
 jobs:

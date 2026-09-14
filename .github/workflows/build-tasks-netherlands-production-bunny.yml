@@ -1,8 +1,8 @@
 name: Build Tasks Netherlands Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-netherlands-production ]
+#   repository_dispatch:
+#     types: [ build-tasks-netherlands-production ]
   workflow_dispatch:
 
 jobs:

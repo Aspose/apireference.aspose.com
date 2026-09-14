@@ -1,8 +1,8 @@
 name: Build Page Indonesian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-page-indonesian-stage ]
+#   repository_dispatch:
+#     types: [ build-page-indonesian-stage ]
   workflow_dispatch:
 
 jobs:

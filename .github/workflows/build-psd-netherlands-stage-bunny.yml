@@ -1,8 +1,8 @@
 name: Build Psd Netherlands Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-psd-netherlands-stage ]
+#   repository_dispatch:
+#     types: [ build-psd-netherlands-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Tex Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tex-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-tex-russian-stage ]
   workflow_dispatch:
 
 jobs:

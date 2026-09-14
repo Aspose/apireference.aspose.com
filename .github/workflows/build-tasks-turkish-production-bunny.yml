@@ -1,8 +1,8 @@
 name: Build Tasks Turkish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-turkish-production ]
+#   repository_dispatch:
+#     types: [ build-tasks-turkish-production ]
   workflow_dispatch:
 
 jobs:

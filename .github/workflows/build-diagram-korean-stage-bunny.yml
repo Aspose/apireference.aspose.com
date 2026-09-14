@@ -1,8 +1,8 @@
 name: Build Diagram Korean Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-diagram-korean-stage ]
+#   repository_dispatch:
+#     types: [ build-diagram-korean-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Ocr Turkish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-ocr-turkish-stage ]
+#   repository_dispatch:
+#     types: [ build-ocr-turkish-stage ]
   workflow_dispatch:
 
 jobs:

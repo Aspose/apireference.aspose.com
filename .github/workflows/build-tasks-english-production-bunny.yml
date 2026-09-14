@@ -1,8 +1,8 @@
 name: Build Tasks English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-english-production ]
+#   repository_dispatch:
+#     types: [ build-tasks-english-production ]
   workflow_dispatch:
 
 jobs:

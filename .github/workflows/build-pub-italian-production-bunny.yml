@@ -1,8 +1,8 @@
 name: Build Pub Italian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pub-italian-production ]
+#   repository_dispatch:
+#     types: [ build-pub-italian-production ]
   workflow_dispatch:
 
 jobs:

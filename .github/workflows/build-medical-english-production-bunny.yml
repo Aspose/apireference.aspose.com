@@ -1,8 +1,8 @@
 name: Build Medical English Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-medical-english-production ]
+#   repository_dispatch:
+#     types: [ build-medical-english-production ]
   workflow_dispatch:
 
 jobs:

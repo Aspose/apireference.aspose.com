@@ -1,8 +1,8 @@
 name: Build Imaging Italian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-imaging-italian-stage ]
+#   repository_dispatch:
+#     types: [ build-imaging-italian-stage ]
   workflow_dispatch:
 
 jobs:

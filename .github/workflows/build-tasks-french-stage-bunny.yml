@@ -1,8 +1,8 @@
 name: Build Tasks French Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-french-stage ]
+#   repository_dispatch:
+#     types: [ build-tasks-french-stage ]
   workflow_dispatch:
 
 jobs:

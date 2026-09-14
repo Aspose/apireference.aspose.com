@@ -1,8 +1,8 @@
 name: Build Note Arabic Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-note-arabic-production ]
+#   repository_dispatch:
+#     types: [ build-note-arabic-production ]
   workflow_dispatch:
 
 jobs:

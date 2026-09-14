@@ -1,8 +1,8 @@
 name: Build Pub Chinese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pub-chinese-production ]
+#   repository_dispatch:
+#     types: [ build-pub-chinese-production ]
   workflow_dispatch:
 
 jobs:

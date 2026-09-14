@@ -1,8 +1,8 @@
 name: Build Words Italian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-words-italian-production ]
+#   repository_dispatch:
+#     types: [ build-words-italian-production ]
   workflow_dispatch:
 
 jobs:

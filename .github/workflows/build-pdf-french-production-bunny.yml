@@ -1,8 +1,8 @@
 name: Build Pdf French Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-pdf-french-production ]
+#   repository_dispatch:
+#     types: [ build-pdf-french-production ]
   workflow_dispatch:
 
 jobs:

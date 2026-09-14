@@ -1,8 +1,8 @@
 name: Build Note French Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-note-french-production ]
+#   repository_dispatch:
+#     types: [ build-note-french-production ]
   workflow_dispatch:
 
 jobs:

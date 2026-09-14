@@ -1,8 +1,8 @@
 name: Build CAD Chinese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cad-chinese-production ]
+#   repository_dispatch:
+#     types: [ build-cad-chinese-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Imaging Turkish Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-imaging-turkish-stage ]
+#   repository_dispatch:
+#     types: [ build-imaging-turkish-stage ]
   workflow_dispatch:
 
 jobs:

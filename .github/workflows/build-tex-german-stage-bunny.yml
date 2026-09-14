@@ -1,8 +1,8 @@
 name: Build Tex German Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tex-german-stage ]
+#   repository_dispatch:
+#     types: [ build-tex-german-stage ]
   workflow_dispatch:
 
 jobs:

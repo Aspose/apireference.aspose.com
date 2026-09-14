@@ -1,8 +1,8 @@
 name: Build Gis French Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-gis-french-stage ]
+#   repository_dispatch:
+#     types: [ build-gis-french-stage ]
   workflow_dispatch:
 
 jobs:

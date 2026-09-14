@@ -1,8 +1,8 @@
 name: Build Tasks Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-tasks-russian-stage ]
   workflow_dispatch:
 
 jobs:

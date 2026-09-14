@@ -1,8 +1,8 @@
 name: Build Barcode Arabic Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-barcode-arabic-stage ]
+#   repository_dispatch:
+#     types: [ build-barcode-arabic-stage ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build 3d Swedish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-3d-swedish-production ]
+#   repository_dispatch:
+#     types: [ build-3d-swedish-production ]
   workflow_dispatch:
 
 jobs:

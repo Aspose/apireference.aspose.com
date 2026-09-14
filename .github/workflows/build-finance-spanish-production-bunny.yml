@@ -1,8 +1,8 @@
 name: Build Finance Spanish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-spanish-production ]
+#   repository_dispatch:
+#     types: [ build-finance-spanish-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Note Arabic Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-note-arabic-stage ]
+#   repository_dispatch:
+#     types: [ build-note-arabic-stage ]
   workflow_dispatch:
 
 jobs:

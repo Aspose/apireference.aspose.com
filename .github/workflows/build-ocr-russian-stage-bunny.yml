@@ -1,8 +1,8 @@
 name: Build Ocr Russian Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-ocr-russian-stage ]
+#   repository_dispatch:
+#     types: [ build-ocr-russian-stage ]
   workflow_dispatch:
 
 jobs:

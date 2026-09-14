@@ -1,8 +1,8 @@
 name: Build Finance German Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-german-stage ]
+#   repository_dispatch:
+#     types: [ build-finance-german-stage ]
   workflow_dispatch:
 
 jobs:

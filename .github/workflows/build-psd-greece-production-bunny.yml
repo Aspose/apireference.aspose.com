@@ -1,8 +1,8 @@
 name: Build Psd Greece Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-psd-greece-production ]
+#   repository_dispatch:
+#     types: [ build-psd-greece-production ]
   workflow_dispatch:
 
 jobs:

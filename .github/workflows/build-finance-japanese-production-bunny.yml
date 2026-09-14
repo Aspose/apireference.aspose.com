@@ -1,8 +1,8 @@
 name: Build Finance Japanese Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-finance-japanese-production ]
+#   repository_dispatch:
+#     types: [ build-finance-japanese-production ]
   workflow_dispatch:
 
 jobs:

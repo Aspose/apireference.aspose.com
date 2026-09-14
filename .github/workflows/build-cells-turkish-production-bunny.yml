@@ -1,8 +1,8 @@
 name: Build Cells Turkish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-cells-turkish-production ]
+#   repository_dispatch:
+#     types: [ build-cells-turkish-production ]
   workflow_dispatch:
 
 jobs:

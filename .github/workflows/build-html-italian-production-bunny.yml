@@ -1,8 +1,8 @@
 name: Build Html Italian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-italian-production ]
+#   repository_dispatch:
+#     types: [ build-html-italian-production ]
   workflow_dispatch:
 
 jobs:

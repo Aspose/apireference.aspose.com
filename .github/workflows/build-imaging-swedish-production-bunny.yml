@@ -1,8 +1,8 @@
 name: Build Imaging Swedish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-imaging-swedish-production ]
+#   repository_dispatch:
+#     types: [ build-imaging-swedish-production ]
   workflow_dispatch:
 
 jobs:

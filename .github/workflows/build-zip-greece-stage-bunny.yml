@@ -1,8 +1,8 @@
 name: Build Zip Greece Stage (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-zip-greece-stage ]
+#   repository_dispatch:
+#     types: [ build-zip-greece-stage ]
   workflow_dispatch:
 
 jobs:

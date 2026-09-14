@@ -1,8 +1,8 @@
 name: Build Note Turkish Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-note-turkish-production ]
+#   repository_dispatch:
+#     types: [ build-note-turkish-production ]
   workflow_dispatch:
 
 jobs:

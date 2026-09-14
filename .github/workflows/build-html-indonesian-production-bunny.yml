@@ -1,8 +1,8 @@
 name: Build Html Indonesian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-html-indonesian-production ]
+#   repository_dispatch:
+#     types: [ build-html-indonesian-production ]
   workflow_dispatch:
 
 jobs:

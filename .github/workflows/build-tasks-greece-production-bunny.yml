@@ -1,8 +1,8 @@
 name: Build Tasks Greece Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-tasks-greece-production ]
+#   repository_dispatch:
+#     types: [ build-tasks-greece-production ]
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,8 @@
 name: Build Email Russian Production (BunnyCDN)
 
 on:
-  repository_dispatch:
-    types: [ build-email-russian-production ]
+#   repository_dispatch:
+#     types: [ build-email-russian-production ]
   workflow_dispatch:
 
 jobs:
