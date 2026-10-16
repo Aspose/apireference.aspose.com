@@ -8,6 +8,11 @@ enableRobotsTXT = true
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
 theme = ["api-theme"]
 
+[outputs]
+  page = ["html", "markdown"]
+  section = ["html", "markdown"]
+  home = ["html", "markdown"]
+
 
 defaultContentLang = 'en'
 [languages]
