@@ -1,0 +1,17 @@
+name: Build Home Stage
+
+on:
+  repository_dispatch:
+    types: [ build-home-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "Aspose/Aspose-API-Reference-Home"
+      product_name: "home"
+      disable_languages: '[]'
+      cf_path: "/*"
+      theme_ref: "beta"
+    secrets: inherit
