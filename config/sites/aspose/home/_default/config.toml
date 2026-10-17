@@ -28,6 +28,12 @@ theme = ["api-theme"]
     languageCode = "ru"
     flag = "flag-ru"
     weight = 11
+  [languages.zh]
+    contentDir = 'content/sites/aspose/home/chinese'
+    languageName = "简体中文"
+    languageCode = "zh"
+    flag = "flag-cn"
+    weight = 12
 
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -71,10 +77,11 @@ copyright = "The Aspose Authors"
 privacy_policy = "https://policies.google.com/privacy"
 topbar_search_active = false
 logo_rel_link = ""
-allLangCodes = ["en", "ru"]
+allLangCodes = ["en", "ru", "zh"]
 
 [params.menu]
 ru = "aspose-ru"
+zh = "aspose-zh"
 
 # Containerize Menu
 [params.containerize]
