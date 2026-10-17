@@ -5,7 +5,6 @@ staticdir = 'content/sites/aspose/home/static'
 # contentDir = 'content/sites/aspose/home/english'
 enableRobotsTXT = true
 defaultContentLang = 'en'
-defaultContentLanguageInSubdir = false
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
 theme = ["api-theme"]
