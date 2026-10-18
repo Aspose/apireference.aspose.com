@@ -12,5 +12,5 @@ jobs:
       product_repo: "aspose-pub/Aspose.PUB-API-References"
       product_name: "pub"
       disable_languages: '["ru","zh","ar","fr","de","it","es","sv","tr"]'
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit

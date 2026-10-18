@@ -12,5 +12,5 @@ jobs:
       product_repo: "aspose-pdf/Aspose.PDF-API-References"
       product_name: "pdf"
       disable_languages: '["ru","zh","ar","fr","de","id","it","ja","ko","pt","es","sv","tr"]'
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit

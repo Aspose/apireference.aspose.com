@@ -12,5 +12,5 @@ jobs:
       product_repo: "aspose-html/Aspose.HTML-API-References"
       product_name: "html"
       disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","nl","es","sv","tr"]'
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit

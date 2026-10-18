@@ -4,17 +4,36 @@ title = "Aspose API References"
 staticdir = 'content/sites/aspose/home/static'
 # contentDir = 'content/sites/aspose/home/english'
 enableRobotsTXT = true
+defaultContentLang = 'en'
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
 theme = ["api-theme"]
 
+[outputs]
+  page = ["html", "markdown"]
+  section = ["html", "markdown"]
+  home = ["html", "markdown"]
 
-defaultContentLang = 'en'
+
 [languages]
   [languages.en]
     contentDir = 'content/sites/aspose/home/english'
     languageName = 'English'
+    languageCode = "en"
+    flag = "flag-us"
     weight = 10
+  [languages.ru]
+    contentDir = 'content/sites/aspose/home/russian'
+    languageName = 'Русский'
+    languageCode = "ru"
+    flag = "flag-ru"
+    weight = 11
+  [languages.zh]
+    contentDir = 'content/sites/aspose/home/chinese'
+    languageName = "简体中文"
+    languageCode = "zh"
+    flag = "flag-cn"
+    weight = 12
 
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -58,6 +77,11 @@ copyright = "The Aspose Authors"
 privacy_policy = "https://policies.google.com/privacy"
 topbar_search_active = false
 logo_rel_link = ""
+allLangCodes = ["en", "ru", "zh"]
+
+[params.menu]
+ru = "aspose-ru"
+zh = "aspose-zh"
 
 # Containerize Menu
 [params.containerize]

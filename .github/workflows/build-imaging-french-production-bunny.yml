@@ -12,5 +12,5 @@ jobs:
       product_repo: "aspose-imaging/Aspose.Imaging-API-References"
       product_name: "imaging"
       disable_languages: '["en","ru","zh","ar","de","it","es","sv","tr"]'
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit

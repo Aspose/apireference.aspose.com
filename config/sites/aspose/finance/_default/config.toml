@@ -10,6 +10,11 @@ timeout = 60000
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
 theme = ["api-theme"]
 
+[outputs]
+  page = ["html", "markdown"]
+  section = ["html", "markdown"]
+  home = ["html", "markdown"]
+
 
 [params.menu]
 zh = "aspose-zh"

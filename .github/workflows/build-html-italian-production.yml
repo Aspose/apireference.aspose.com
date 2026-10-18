@@ -13,5 +13,5 @@ jobs:
       product_name: "html"
       disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","ja","ko","nl","es","sv","tr"]'
       cf_path: "/html/*"
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit
