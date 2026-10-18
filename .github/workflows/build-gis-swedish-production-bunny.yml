@@ -12,5 +12,5 @@ jobs:
       product_repo: "aspose-gis/Aspose.GIS-API-Reference"
       product_name: "gis"
       disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","tr"]'
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit

@@ -12,5 +12,5 @@ jobs:
       product_repo: "aspose-cells/Aspose.Cells-Python-NET-API-References"
       product_name: "cells-python-net"
       disable_languages: '["en","ru","zh","ar","fr","it","es","sv","tr"]'
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit

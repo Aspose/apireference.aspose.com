@@ -13,5 +13,5 @@ jobs:
       product_name: "zip"
       disable_languages: '["en","ru","zh","ar","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
       cf_path: "/zip/*"
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit

@@ -12,5 +12,5 @@ jobs:
       product_repo: "aspose-diagram/Aspose.Diagram-API-References"
       product_name: "diagram"
       disable_languages: '["en","ru","zh","fr","de","el","hi","id","it","ja","ko","nl","es","sv","tr"]'
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit

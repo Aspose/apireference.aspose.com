@@ -13,5 +13,5 @@ jobs:
       product_name: "imaging"
       disable_languages: '["en","ru","zh","ar","fr","de","es","sv","tr"]'
       cf_path: "/imaging/*"
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit

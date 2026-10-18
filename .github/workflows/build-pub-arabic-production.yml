@@ -13,5 +13,5 @@ jobs:
       product_name: "pub"
       disable_languages: '["en","ru","zh","fr","de","it","es","sv","tr"]'
       cf_path: "/pub/*"
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit

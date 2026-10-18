@@ -12,5 +12,5 @@ jobs:
       product_repo: "aspose-medical/Aspose.Medical-API-References"
       product_name: "medical"
       disable_languages: '[]'
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit

@@ -13,5 +13,5 @@ jobs:
       product_name: "cells"
       disable_languages: '["en","zh","ar","fr","de","it","es","sv","tr"]'
       cf_path: "/cells/ru/*"
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit

@@ -13,5 +13,5 @@ jobs:
       product_name: "finance"
       disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","tr"]'
       cf_path: "/finance/*"
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit

@@ -12,5 +12,5 @@ jobs:
       product_repo: "aspose-tasks/Aspose.Tasks-API-References"
       product_name: "tasks"
       disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","sv","tr"]'
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit

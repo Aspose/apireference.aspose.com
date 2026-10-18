@@ -13,5 +13,5 @@ jobs:
       product_name: "ocr"
       disable_languages: '["en","ru","zh","ar","fr","de","el","hi","id","it","ja","ko","nl","es","sv"]'
       cf_path: "/ocr/*"
-      theme_ref: "beta"
+      theme_ref: "main"
     secrets: inherit
