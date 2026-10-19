@@ -1,0 +1,17 @@
+name: Build Home Production
+
+on:
+  repository_dispatch:
+    types: [ build-home-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "Aspose/Aspose-API-Reference-Home"
+      product_name: "home"
+      disable_languages: '[]'
+      cf_path: "/*"
+      theme_ref: "main"
+    secrets: inherit
