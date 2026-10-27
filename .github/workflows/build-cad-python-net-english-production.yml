@@ -1,0 +1,17 @@
+name: Build Cad Python NET English Production
+
+on:
+  repository_dispatch:
+    types: [ build-cad-python-net-english-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-cad/Aspose.CAD-Python-NET-API-References"
+      product_name: "cad-python-net"
+      disable_languages: '[]'
+      cf_path: "/cad/python-net/*"
+      theme_ref: "main"
+    secrets: inherit
