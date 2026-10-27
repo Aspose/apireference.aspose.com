@@ -1,0 +1,14 @@
+name: All CAD-PYTHON-NET Staging Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-cad-python-net-english-stage
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-cad-python-net-english-stage.yml
+          token: ${{ secrets.REPO_TOKEN }}

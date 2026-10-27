@@ -1,0 +1,14 @@
+name: Build Cad-python-net English Stage (BunnyCDN)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-cad/Aspose.CAD-Python-NET-API-References"
+      product_name: "cad-python-net"
+      disable_languages: '[]'
+      theme_ref: "beta"
+    secrets: inherit
