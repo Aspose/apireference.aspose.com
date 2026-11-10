@@ -1,0 +1,17 @@
+name: Build CSS English Production
+
+on:
+  repository_dispatch:
+    types: [ build-css-english-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production.yml
+    with:
+      product_repo: "aspose-html/Aspose.CSS-References"
+      product_name: "css"
+      disable_languages: '[]'
+      cf_path: "/css/*"
+      theme_ref: "main"
+    secrets: inherit
