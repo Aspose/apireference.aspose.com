@@ -1,0 +1,14 @@
+name: All CSS Production Workflows (S3)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build-css-english-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-css-english-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
