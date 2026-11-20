@@ -84,18 +84,29 @@ jobs:
 
       - name: Sync to Ceph S3
         run: |
+          # Each language builds on its own (English plus one language), so --delete must not
+          # remove the folders of the languages this build does not produce.
+          EXCLUDES=()
+          for lang in $(echo '${{ inputs.disable_languages }}' | tr -d '[]" ' | tr ',' '\n' | grep -v '^en$' | grep -v '^$'); do
+            EXCLUDES+=(--exclude "${lang}/*")
+          done
           aws s3 sync ./public/ s3://qa-reference-aspose-com/${{ inputs.product_name }}/ \
             --endpoint-url https://s3-qa.dynabic.com \
             --acl public-read \
-            --delete
+            --delete \
+            "${EXCLUDES[@]}"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.CEPH_S3_QA_ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.CEPH_S3_QA_SECRET_KEY }}
           AWS_DEFAULT_REGION: us-east-1
 
       - name: Purge BunnyCDN Cache
+        env:
+          BUNNY_API_KEY: ${{ secrets.BUNNY_API_KEY }}
         run: |
-          curl -siG \
-            -H "X-Api-Key: ${{ secrets.BUNNY_API_KEY }}" \
-            --data-urlencode "url=https://qa-reference.aspose.com/${{ inputs.product_name }}" \
-            "https://api.dynabic.com/bn/purge?async=true"
+          code=$(curl -sS -o purge.out -w '%{http_code}' -G \
+            -H "X-Api-Key: $BUNNY_API_KEY" \
+            --data-urlencode "url=https://reference2.aspose.com/${{ inputs.product_name }}/*" \
+            "https://api.dynabic.com/bn/purge?async=true")
+          cat purge.out; echo
+          case "$code" in 2*) ;; *) echo "BunnyCDN purge failed: HTTP $code"; exit 1 ;; esac
