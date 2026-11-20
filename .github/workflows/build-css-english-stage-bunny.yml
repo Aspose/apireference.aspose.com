@@ -1,0 +1,16 @@
+name: Build CSS English Stage (BunnyCDN)
+
+on:
+#   repository_dispatch:
+#     types: [ build-css-english-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage-bunny.yml
+    with:
+      product_repo: "aspose-html/Aspose.CSS-References"
+      product_name: "css"
+      disable_languages: '[]'
+      theme_ref: "beta"
+    secrets: inherit

@@ -1,3 +1,10 @@
+# RefPilot (Ask AI widget) pilot: Aspose.Words .NET only. Product-wide off, enabled for the net platform.
+# Dotted keys, not a [params] table: the staging workflow prepends its own params.* keys to this file.
+params.referenceAssistantEndpoint = "https://refpilot.aspose.com"
+params.referenceAssistantEnabled = false
+params.referenceAssistantPlatforms.net = true
+params.referenceAssistantPrefetchFollowUps = 1
+
 baseURL = "https://reference2.aspose.com/words"
 
 [[deployment.targets]]

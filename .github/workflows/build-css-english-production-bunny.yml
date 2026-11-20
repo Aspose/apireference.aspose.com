@@ -1,0 +1,16 @@
+name: Build CSS English Production (BunnyCDN)
+
+on:
+#   repository_dispatch:
+#     types: [ build-css-english-production ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-production-bunny.yml
+    with:
+      product_repo: "aspose-html/Aspose.CSS-References"
+      product_name: "css"
+      disable_languages: '[]'
+      theme_ref: "main"
+    secrets: inherit

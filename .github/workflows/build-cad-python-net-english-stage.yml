@@ -1,0 +1,17 @@
+name: Build Cad Python NET English Stage
+
+on:
+  repository_dispatch:
+    types: [ build-cad-python-net-english-stage ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/reusable-build-stage.yml
+    with:
+      product_repo: "aspose-cad/Aspose.CAD-Python-NET-API-References"
+      product_name: "cad-python-net"
+      disable_languages: '[]'
+      cf_path: "/cad/python-net/*"
+      theme_ref: "beta"
+    secrets: inherit
