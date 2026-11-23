@@ -1,0 +1,94 @@
+name: Roll out Staging Languages (BunnyCDN)
+
+# Starts every non-English staging Bunny build, keeping at most `max_active` running, and
+# resumes where it left off. It runs on GitHub, so it does not depend on anyone's computer.
+#
+# Resume: a build that already started at or after `since` is skipped. A single job can run
+# for at most 6 hours, so when work remains the job starts itself again (up to `chain` more
+# times) with the same `since`.
+
+on:
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "UTC time (e.g. 2026-11-23T08:49:03Z). Builds already started at or after it are skipped."
+        required: true
+      max_active:
+        description: "Most staging builds running at once"
+        required: false
+        default: "10"
+      chain:
+        description: "How many more times this job may start itself if work remains"
+        required: false
+        default: "4"
+
+jobs:
+  rollout:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+
+      - name: Dispatch the remaining builds
+        env:
+          GH_TOKEN: ${{ secrets.REPO_TOKEN }}
+          SINCE: ${{ inputs.since }}
+          MAX_ACTIVE: ${{ inputs.max_active }}
+          CHAIN: ${{ inputs.chain }}
+        run: |
+          REPO="$GITHUB_REPOSITORY"
+          active() {
+            gh run list --repo "$REPO" --limit 60 --json status,name \
+              --jq '[.[]|select(.status!="completed" and (.name|contains("Stage (BunnyCDN)")))]|length' 2>/dev/null
+          }
+          FILES=$(ls .github/workflows/build-*-stage-bunny.yml | xargs -n1 basename | grep -v -- '-english-' | grep -v '^build-home')
+          echo "since=$SINCE max_active=$MAX_ACTIVE chain=$CHAIN; $(echo "$FILES" | wc -l) non-English staging workflows"
+          started=0; skipped=0; remaining=0; T0=$(date +%s)
+          for f in $FILES; do
+            # Stop dispatching after 5h20m so the next job can take over before the 6h limit.
+            if [ $(( $(date +%s) - T0 )) -gt 19200 ]; then
+              last=$(gh run list --repo "$REPO" --workflow "$f" --limit 1 --json createdAt --jq '.[0].createdAt // ""' 2>/dev/null)
+              if [ -z "$last" ] || [[ "$last" < "$SINCE" ]]; then remaining=$((remaining+1)); fi
+              continue
+            fi
+            last=$(gh run list --repo "$REPO" --workflow "$f" --limit 1 --json createdAt --jq '.[0].createdAt // ""' 2>/dev/null)
+            if [ -n "$last" ] && [[ "$last" > "$SINCE" || "$last" == "$SINCE" ]]; then skipped=$((skipped+1)); continue; fi
+            # wait for a free slot
+            while :; do
+              n=$(active)
+              case "$n" in ''|*[!0-9]*) sleep 60; continue;; esac
+              [ "$n" -lt "$MAX_ACTIVE" ] && break
+              sleep 45
+            done
+            ok=0
+            for t in 1 2 3; do
+              if gh workflow run "$f" --repo "$REPO" --ref main; then ok=1; break; fi
+              sleep 20
+            done
+            if [ "$ok" = "1" ]; then started=$((started+1)); echo "dispatched $f"; else remaining=$((remaining+1)); echo "FAILED to dispatch $f"; fi
+            sleep 4
+          done
+          echo "started=$started skipped=$skipped failed_to_dispatch=$remaining"
+          if [ "$remaining" -gt 0 ] && [ "$CHAIN" -gt 0 ]; then
+            echo "work remains, starting the next job"
+            gh workflow run rollout-stage-languages-bunny.yml --repo "$REPO" --ref main \
+              -f since="$SINCE" -f max_active="$MAX_ACTIVE" -f chain="$((CHAIN-1))"
+          fi
+
+      - name: Wait for the running builds and list failures
+        env:
+          GH_TOKEN: ${{ secrets.REPO_TOKEN }}
+          SINCE: ${{ inputs.since }}
+        run: |
+          REPO="$GITHUB_REPOSITORY"
+          while :; do
+            n=$(gh run list --repo "$REPO" --limit 60 --json status,name --jq '[.[]|select(.status!="completed" and (.name|contains("Stage (BunnyCDN)")))]|length' 2>/dev/null)
+            [ "$n" = "0" ] && break
+            sleep 60
+          done
+          echo "== builds since $SINCE that did not succeed:"
+          gh run list --repo "$REPO" --limit 400 --json name,conclusion,createdAt,url \
+            --jq ".[]|select(.createdAt>=\"$SINCE\" and (.name|contains(\"Stage (BunnyCDN)\")) and .conclusion!=\"success\")|\"\(.conclusion) \(.name) \(.url)\""
