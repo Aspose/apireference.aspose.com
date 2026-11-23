@@ -86,11 +86,16 @@ jobs:
         run: |
           # Each language builds on its own (English plus one language), so --delete must not
           # remove the folders of the languages this build does not produce.
+          # The bucket path is the path of the site's baseURL (cells-python-net is served from
+          # cells/python-net/, not cells-python-net/), so read it from the config.
+          PREFIX=$(grep -m1 '^baseURL' "config/sites/aspose/${{ inputs.product_name }}/_default/config.toml" | sed 's#^baseURL *= *"##; s#".*$##; s#^[a-z]*://[^/]*##; s#^/##; s#/$##')
+          [ -n "$PREFIX" ] || { echo "could not derive the bucket path from baseURL"; exit 1; }
+          echo "bucket path: $PREFIX"
           EXCLUDES=()
           for lang in $(echo '${{ inputs.disable_languages }}' | tr -d '[]" ' | tr ',' '\n' | grep -v '^en$' | grep -v '^$'); do
             EXCLUDES+=(--exclude "${lang}/*")
           done
-          aws s3 sync ./public/ s3://qa-reference-aspose-com/${{ inputs.product_name }}/ \
+          aws s3 sync ./public/ s3://qa-reference-aspose-com/${PREFIX}/ \
             --endpoint-url https://s3-qa.dynabic.com \
             --acl public-read \
             --delete \
@@ -104,9 +109,11 @@ jobs:
         env:
           BUNNY_API_KEY: ${{ secrets.BUNNY_API_KEY }}
         run: |
+          PREFIX=$(grep -m1 '^baseURL' "config/sites/aspose/${{ inputs.product_name }}/_default/config.toml" | sed 's#^baseURL *= *"##; s#".*$##; s#^[a-z]*://[^/]*##; s#^/##; s#/$##')
+          [ -n "$PREFIX" ] || { echo "could not derive the purge path from baseURL"; exit 1; }
           code=$(curl -sS -o purge.out -w '%{http_code}' -G \
             -H "X-Api-Key: $BUNNY_API_KEY" \
-            --data-urlencode "url=https://reference2.aspose.com/${{ inputs.product_name }}/*" \
+            --data-urlencode "url=https://reference2.aspose.com/${PREFIX}/*" \
             "https://api.dynabic.com/bn/purge?async=true")
           cat purge.out; echo
           case "$code" in 2*) ;; *) echo "BunnyCDN purge failed: HTTP $code"; exit 1 ;; esac
