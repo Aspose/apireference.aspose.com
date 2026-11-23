@@ -1,0 +1,88 @@
+name: Build Home Production (BunnyCDN)
+
+# Deploys the reference home page (index, sitemap index, robots.txt, 404, shared assets) to the
+# ROOT of the Ceph bucket. Unlike the per-product Bunny workflows it must never use --delete:
+# the bucket root also holds every product's folder.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Hugo site
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+
+      - name: Checkout theme
+        uses: actions/checkout@v2
+        with:
+          repository: Aspose/api-theme
+          token: ${{ secrets.REPO_TOKEN }}
+          ref: main
+          fetch-depth: 1
+          path: themes/api-theme
+
+      - name: Checkout home content
+        uses: actions/checkout@v2
+        with:
+          repository: Aspose/Aspose-API-Reference-Home
+          ref: production
+          token: ${{ secrets.REPO_TOKEN }}
+          fetch-depth: 1
+          path: content/sites/aspose/home
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.119.0'
+          extended: true
+
+      - name: Cache node modules
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('package.json') }}
+          restore-keys: ${{ runner.os }}-node-
+
+      - name: Install Dependencies
+        run: npm install -D --save autoprefixer postcss-cli
+
+      - name: Configure language
+        run: |
+          DEFAULT="config/sites/aspose/home/_default/config.toml"
+          ENVCFG="config/sites/aspose/home/production/config.toml"
+          ALL_LANGS_TOML="[$(grep '\[languages\.' "$DEFAULT" | sed 's/.*\[languages\.\([a-z-]*\)\].*/\1/' | grep -v '^$' | awk '{printf "\"%s\",", $1}' | sed 's/,$//')]"
+          { echo "defaultContentLanguageInSubdir = false"; echo ""; cat "$DEFAULT"; } > "${DEFAULT}.tmp" && mv "${DEFAULT}.tmp" "$DEFAULT"
+          { echo "enableGitInfo = false"; echo "defaultContentLanguage = \"en\""; echo "defaultContentLanguageInSubdir = false"; echo "disableLanguages = []"; echo "params.allLangCodes = ${ALL_LANGS_TOML}"; echo ""; cat "$ENVCFG"; } > "${ENVCFG}.tmp" && mv "${ENVCFG}.tmp" "$ENVCFG"
+
+      - name: Build
+        run: hugo --configDir config/sites/aspose/home --environment production --minify
+
+      - name: Sync to Ceph S3 (bucket root, no deletes)
+        run: |
+          aws s3 sync ./public/ s3://reference-aspose-com/ \
+            --endpoint-url https://s3.dynabic.com \
+            --acl public-read
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.CEPH_S3_LIVE_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.CEPH_S3_LIVE_SECRET_KEY }}
+          AWS_DEFAULT_REGION: us-east-1
+
+      - name: Purge BunnyCDN Cache (home-level paths only)
+        env:
+          BUNNY_API_KEY: ${{ secrets.BUNNY_API_KEY }}
+        run: |
+          fail=0
+          for path in "/" "/index.html" "/sitemap.xml" "/home-sitemap.xml" "/robots.txt" "/404.html" "/images/*" "/js/*" "/scss/*"; do
+            code=$(curl -sS -o purge.out -w '%{http_code}' -G \
+              -H "X-Api-Key: $BUNNY_API_KEY" \
+              --data-urlencode "url=https://reference.aspose.com${path}" \
+              "https://api.dynabic.com/bn/purge?async=true")
+            echo "purge ${path}: HTTP ${code}"
+            case "$code" in 2*) ;; *) cat purge.out; echo; fail=1 ;; esac
+          done
+          [ "$fail" = "0" ] || { echo "BunnyCDN purge failed for at least one path"; exit 1; }
