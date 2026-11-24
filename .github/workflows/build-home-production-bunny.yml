@@ -5,6 +5,8 @@ name: Build Home Production (BunnyCDN)
 # the bucket root also holds every product's folder.
 
 on:
+  repository_dispatch:
+    types: [ build-home-production ]
   workflow_dispatch:
 
 jobs:

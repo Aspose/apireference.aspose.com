@@ -5,6 +5,8 @@ name: Build Home Stage (BunnyCDN)
 # the bucket root also holds every product's folder.
 
 on:
+  repository_dispatch:
+    types: [ build-home-stage ]
   workflow_dispatch:
 
 jobs:

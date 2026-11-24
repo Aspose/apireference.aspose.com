@@ -1,8 +1,8 @@
 name: Build CSS English Production (BunnyCDN)
 
 on:
-#   repository_dispatch:
-#     types: [ build-css-english-production ]
+  repository_dispatch:
+    types: [ build-css-english-production ]
   workflow_dispatch:
 
 jobs:
