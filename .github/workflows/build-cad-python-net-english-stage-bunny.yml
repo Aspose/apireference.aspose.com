@@ -1,6 +1,8 @@
 name: Build Cad-python-net English Stage (BunnyCDN)
 
 on:
+  repository_dispatch:
+    types: [ build-cad-python-net-english-stage ]
   workflow_dispatch:
 
 jobs:

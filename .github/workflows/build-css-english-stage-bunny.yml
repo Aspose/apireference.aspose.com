@@ -1,8 +1,8 @@
 name: Build CSS English Stage (BunnyCDN)
 
 on:
-#   repository_dispatch:
-#     types: [ build-css-english-stage ]
+  repository_dispatch:
+    types: [ build-css-english-stage ]
   workflow_dispatch:
 
 jobs:

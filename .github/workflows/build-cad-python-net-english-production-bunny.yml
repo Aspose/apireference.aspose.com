@@ -1,6 +1,8 @@
 name: Build Cad-python-net English Production (BunnyCDN)
 
 on:
+  repository_dispatch:
+    types: [ build-cad-python-net-english-production ]
   workflow_dispatch:
 
 jobs:
