@@ -84,23 +84,21 @@ jobs:
 
       - name: Sync to Ceph S3
         run: |
-          # Each language builds on its own (English plus one language), so --delete must not
-          # remove the folders of the languages this build does not produce.
+          # Each language builds on its own (English plus one language), so the other languages' folders are left out.
+          # No --delete: several products share one bucket path (e.g. cells/ and cells/python-net/),
+          # and a delete would remove the folders another build owns.
           # The bucket path is the path of the site's baseURL (cells-python-net is served from
           # cells/python-net/, not cells-python-net/), so read it from the config.
           PREFIX=$(grep -m1 '^baseURL' "config/sites/aspose/${{ inputs.product_name }}/_default/config.toml" | sed 's#^baseURL *= *"##; s#".*$##; s#^[a-z]*://[^/]*##; s#^/##; s#/$##')
           [ -n "$PREFIX" ] || { echo "could not derive the bucket path from baseURL"; exit 1; }
           echo "bucket path: $PREFIX"
           EXCLUDES=()
-          # barcode/javascript-cpp/ has no build of its own (it is a fixed copy), so keep --delete from removing it
-          if [ "${{ inputs.product_name }}" = "barcode" ]; then EXCLUDES+=(--exclude "javascript-cpp/*"); fi
           for lang in $(echo '${{ inputs.disable_languages }}' | tr -d '[]" ' | tr ',' '\n' | grep -v '^en$' | grep -v '^$'); do
             EXCLUDES+=(--exclude "${lang}/*")
           done
           aws s3 sync ./public/ s3://qa-reference-aspose-com/${PREFIX}/ \
             --endpoint-url https://s3-qa.dynabic.com \
             --acl public-read \
-            --delete \
             "${EXCLUDES[@]}"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.CEPH_S3_QA_ACCESS_KEY }}
