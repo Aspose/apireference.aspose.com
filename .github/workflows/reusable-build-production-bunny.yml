@@ -93,6 +93,8 @@ jobs:
           [ -n "$PREFIX" ] || { echo "could not derive the bucket path from baseURL"; exit 1; }
           echo "bucket path: $PREFIX"
           EXCLUDES=()
+          # barcode/javascript-cpp/ has no build of its own (it is a fixed copy), so keep --delete from removing it
+          if [ "${{ inputs.product_name }}" = "barcode" ]; then EXCLUDES+=(--exclude "javascript-cpp/*"); fi
           for lang in $(echo '${{ inputs.disable_languages }}' | tr -d '[]" ' | tr ',' '\n' | grep -v '^en$' | grep -v '^$'); do
             EXCLUDES+=(--exclude "${lang}/*")
           done
